@@ -6,10 +6,10 @@ Rating: 4.62 (Ranked 379)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 17.00% | ~1,212 |
-| Realm Estate | 15.00% | ~1,069 |
+| Realm Estate | 15.00% | ~1,070 |
 | A Wonderful Discovery | 14.00% | ~998 |
 | Walls Cannot Stop Us | 13.00% | ~927 |
-| From Friends to Family | 12.00% | ~855 |
+| From Friends to Family | 12.00% | ~856 |
 | Bone Peddler | 10.00% | ~713 |
 | Magical Synergy | 9.00% | ~642 |
 | Full Ascension | 8.00% | ~570 |
@@ -24,11 +24,11 @@ Rating: 4.62 (Ranked 379)
 | Return of the Wizard King | 4.00% | ~285 |
 | Enchanted Archipelago | 4.00% | ~285 |
 | Digging for Treasure | 4.00% | ~285 |
+| Fiery Friend | 4.00% | ~285 |
 | Against the Odds | 4.00% | ~285 |
 | Impenetrable Fortress | 4.00% | ~285 |
 | Crimson Caldera | 3.00% | ~214 |
 | Preparation Is Everything | 3.00% | ~214 |
-| Fiery Friend | 3.00% | ~214 |
 | Here be Dragons | 3.00% | ~214 |
 | Tipping the Scales | 3.00% | ~214 |
 | Freed Lands of Manuhari | 3.00% | ~214 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 379)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,128 (Ranked 196)  
+Progressed: 7,130 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,11 +298,11 @@ Completed: 7 (0.10%) (Ranked 309)
 | 2024-01-06 | 6,988 | 7 |
 | 2024-01-07 | 7,051 | 7 |
 | 2024-01-08 | 7,091 | 7 |
-| 2024-01-09 | 7,128 | 7 |
+| 2024-01-09 | 7,130 | 7 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 481)  
-Sum: 215 (Ranked 411)  
-Diff (max vs sum): 70  
+Sum: 215 (Ranked 410)  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 41 |

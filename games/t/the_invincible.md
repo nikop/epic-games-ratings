@@ -5,37 +5,37 @@ Rating: 4.60 (Ranked 430)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 69.00% | ~1,087 |
-| The Teleprobe | 55.00% | ~866 |
-| The City | 49.00% | ~772 |
-| The field base | 44.00% | ~693 |
-| The Alliance | 41.00% | ~646 |
-| Survivors | 39.00% | ~614 |
-| The Condor | 37.00% | ~583 |
-| The End | 37.00% | ~583 |
-| The Necroevolution | 29.00% | ~457 |
-| Krauta is alive | 28.00% | ~441 |
-| On her own | 22.00% | ~346 |
-| Peacemaker | 22.00% | ~346 |
-| Volcanologist | 22.00% | ~346 |
-| Fierce fight | 21.00% | ~331 |
-| Evacuation | 20.00% | ~315 |
+| The Camp | 69.00% | ~1,090 |
+| The Teleprobe | 55.00% | ~868 |
+| The City | 49.00% | ~774 |
+| The field base | 44.00% | ~695 |
+| The Alliance | 41.00% | ~647 |
+| Survivors | 39.00% | ~616 |
+| The Condor | 37.00% | ~584 |
+| The End | 37.00% | ~584 |
+| The Necroevolution | 29.00% | ~458 |
+| Krauta is alive | 28.00% | ~442 |
+| On her own | 22.00% | ~347 |
+| Peacemaker | 22.00% | ~347 |
+| Volcanologist | 22.00% | ~347 |
+| Fierce fight | 21.00% | ~332 |
+| Evacuation | 20.00% | ~316 |
 | Beyond divisions | 18.00% | ~284 |
 | Flying Objects Operator | 17.00% | ~268 |
 | I remember everything! | 13.00% | ~205 |
 | Another giant | 13.00% | ~205 |
 | Violent solution | 9.00% | ~142 |
 | I leave no man behind | 9.00% | ~142 |
-| Innate curiosity | 7.00% | ~110 |
-| Ubiquitous holes | 6.00% | ~94 |
-| The Invincible | 6.00% | ~94 |
-| Strong objection | 6.00% | ~94 |
+| Innate curiosity | 7.00% | ~111 |
+| Ubiquitous holes | 6.00% | ~95 |
+| The Invincible | 6.00% | ~95 |
+| Strong objection | 6.00% | ~95 |
 | Got lost again | 5.00% | ~79 |
 | I leave no man behind (no exceptions) | 2.00% | ~32 |
 | Convoy list | 0.90% | ~14 |
 | No more mistakes | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,575 (Ranked 264)  
+Progressed: 1,579 (Ranked 264)  
 Completed: 1 (0.06%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 1 (0.06%) (Ranked 330)
 | 2024-01-06 | 1,462 | 1 |
 | 2024-01-07 | 1,508 | 1 |
 | 2024-01-08 | 1,543 | 1 |
-| 2024-01-09 | 1,575 | 1 |
+| 2024-01-09 | 1,579 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

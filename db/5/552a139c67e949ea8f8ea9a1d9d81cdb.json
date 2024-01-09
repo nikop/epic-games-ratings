@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1912,
+  "EOS_Progressed": 1913,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4852,6 +4852,11 @@
       "Time": "2024-01-09T21:05:14.0547649+00:00",
       "NumProgressed": 1912,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T23:06:39.1677263+00:00",
+      "NumProgressed": 1913,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4920,7 +4925,7 @@
       "Name": "Versatile riding",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -5040,7 +5045,7 @@
       "Name": "The Scorpion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -5231,20 +5236,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1912,
+      "Progressed": 1913,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1580,
+      "Progressed": 1581,
       "Completed": 1010
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:05:40.3912094+00:00",
+  "LastChanged_Achievements": "2024-01-09T23:06:39.1677259+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-09T21:58:28.0090199+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:05:40.3912617+00:00"
+  "LastUpdate_Ratings": "2024-01-09T22:59:07.1197087+00:00",
+  "LastUpdate_Achievements": "2024-01-09T23:06:39.1677796+00:00"
 }

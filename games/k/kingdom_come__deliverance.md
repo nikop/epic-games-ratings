@@ -6,31 +6,31 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~261,363 |
-| Cavalier | 26.00% | ~212,358 |
-| Fatso | 23.00% | ~187,855 |
+| Blacksmith's Son | 32.00% | ~261,364 |
+| Cavalier | 26.00% | ~212,359 |
+| Fatso | 23.00% | ~187,856 |
 | Awakening | 21.00% | ~171,520 |
-| Ranger | 20.00% | ~163,352 |
-| Scrooge | 20.00% | ~163,352 |
+| Ranger | 20.00% | ~163,353 |
+| Scrooge | 20.00% | ~163,353 |
 | Anorectic | 16.00% | ~130,682 |
 | Firestarter | 16.00% | ~130,682 |
-| Bookworm | 15.00% | ~122,514 |
+| Bookworm | 15.00% | ~122,515 |
 | Insomniac | 13.00% | ~106,179 |
-| Buddy | 12.00% | ~98,011 |
-| Thief | 12.00% | ~98,011 |
+| Buddy | 12.00% | ~98,012 |
+| Thief | 12.00% | ~98,012 |
 | Sinner | 11.00% | ~89,844 |
 | Traveller | 11.00% | ~89,844 |
 | Convict | 10.00% | ~81,676 |
-| Haggler | 9.00% | ~73,508 |
+| Haggler | 9.00% | ~73,509 |
 | McLovin | 7.00% | ~57,173 |
 | Runt | 7.00% | ~57,173 |
 | Casanova | 6.00% | ~49,006 |
 | Bad Trip | 5.00% | ~40,838 |
 | Monk | 5.00% | ~40,838 |
 | Serial Killer | 5.00% | ~40,838 |
-| Bastard | 4.00% | ~32,670 |
-| Hunter | 4.00% | ~32,670 |
-| Plague Doctor | 4.00% | ~32,670 |
+| Bastard | 4.00% | ~32,671 |
+| Hunter | 4.00% | ~32,671 |
+| Plague Doctor | 4.00% | ~32,671 |
 | Bard | 3.00% | ~24,503 |
 | Conqueror | 3.00% | ~24,503 |
 | Ginger in a Pickle | 3.00% | ~24,503 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~817 |
 | Wingman | 0.10% | ~817 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 816,760 (Ranked 20)  
+Progressed: 816,764 (Ranked 20)  
 Completed: 53 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,10 +353,10 @@ Completed: 53 (0.01%) (Ranked 372)
 | 2024-01-06 | 816,306 | 53 |
 | 2024-01-07 | 816,467 | 53 |
 | 2024-01-08 | 816,615 | 53 |
-| 2024-01-09 | 816,760 | 53 |
+| 2024-01-09 | 816,764 | 53 |
 ## Awards
 Max (Character Customization): 7,766  (Ranked 54)  
-Sum: 28,800 (Ranked 50)  
+Sum: 28,802 (Ranked 50)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -368,7 +368,7 @@ Diff (max vs sum): 4
 | This game is Highly Recommended | 1,726 |
 | This game is Extremely Fun | 1,718 |
 | This game has Realistic Visuals | 1,702 |
-| This game has Amazing Characters | 1,697 |
+| This game has Amazing Characters | 1,699 |
 | This game is Educational | 1,639 |
 | This game is Relaxing | 1,563 |
 | This game has Obsessive Gameplay | 1,048 |
@@ -722,4 +722,4 @@ Diff (max vs sum): 4
 | 2024-01-06 | 4.71 | - | 7,750 | 28,760 |
 | 2024-01-07 | 4.71 | - | 7,759 | 28,780 |
 | 2024-01-08 | 4.71 | - | 7,766 | 28,794 |
-| 2024-01-09 | 4.71 | - | 7,766 | 28,800 |
+| 2024-01-09 | 4.71 | - | 7,766 | 28,802 |

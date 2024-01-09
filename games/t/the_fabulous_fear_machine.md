@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 53.00% | ~48 |
-| You have three wishes left | 47.00% | ~42 |
+| Master trainee | 54.00% | ~49 |
+| You have three wishes left | 48.00% | ~43 |
 | The battle of Great Britain | 38.00% | ~34 |
 | Jung's dream | 37.00% | ~33 |
 | Pulp! Where Monsters Dwell | 31.00% | ~28 |
@@ -25,7 +25,7 @@
 | Welcome to Hellville | 18.00% | ~16 |
 | You've awakened the beast | 17.00% | ~15 |
 | Hate is... addictive | 17.00% | ~15 |
-| You had one wish left | 16.00% | ~14 |
+| You had one wish left | 17.00% | ~15 |
 | The bully | 14.00% | ~13 |
 | Kirlian's best disciple | 14.00% | ~13 |
 | Blessed antennas | 12.00% | ~11 |

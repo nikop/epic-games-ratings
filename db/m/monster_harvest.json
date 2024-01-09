@@ -4,7 +4,7 @@
   "ProductSlug": "monster-harvest-75f018",
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 384,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-11-03T14:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 340,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.94,
   "EosHistory": [
@@ -634,9 +634,9 @@
       "ID": "BLUE_SLIME_GOO",
       "SetID": "ca3djk0",
       "Name": "Blue Goo",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "FURNITURE_IN_THE_FOREST",
@@ -723,8 +723,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:09:59.8060065+00:00",
+  "LastChanged_Achievements": "2024-01-09T23:10:22.859182+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:12.6944729+00:00",
-  "LastUpdate_Ratings": "2024-01-09T21:57:14.4227171+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:09:59.8060177+00:00"
+  "LastUpdate_Ratings": "2024-01-09T22:57:29.1374456+00:00",
+  "LastUpdate_Achievements": "2024-01-09T23:10:22.8591932+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 174,
-  "Ranking_EOS_Completed": 280,
+  "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -407,11 +407,11 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 14359,
-  "EOS_Completed": 26,
-  "EOS_NewPlayers": 1472,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.18,
+  "EOS_Progressed": 14360,
+  "EOS_Completed": 27,
+  "EOS_NewPlayers": 1466,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
       "Time": "2023-10-17T16:05:13.3734944+00:00",
@@ -9787,6 +9787,11 @@
       "Time": "2024-01-09T22:10:16.9502174+00:00",
       "NumProgressed": 14359,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2024-01-09T23:10:44.1585049+00:00",
+      "NumProgressed": 14360,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -9853,9 +9858,9 @@
       "ID": "ExplosivePersonality",
       "SetID": "acc6ea0",
       "Name": "Explosive Personality",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2728
+      "UsersEstimate": 2872
     },
     {
       "ID": "FasterThanLight",
@@ -10015,7 +10020,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3015
+      "UsersEstimate": 3016
     },
     {
       "ID": "UnResurrected",
@@ -10070,16 +10075,16 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14359,
-      "Completed": 26
+      "Progressed": 14360,
+      "Completed": 27
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-09T02:59:48.4530576+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:10:16.9502169+00:00",
+  "LastChanged_Achievements": "2024-01-09T23:10:44.1585046+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:18.9626026+00:00",
-  "LastUpdate_Ratings": "2024-01-09T22:00:07.8555558+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:10:16.9503131+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:01:22.3633435+00:00",
+  "LastUpdate_Achievements": "2024-01-09T23:10:44.1585678+00:00"
 }

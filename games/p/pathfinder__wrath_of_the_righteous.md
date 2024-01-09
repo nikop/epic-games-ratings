@@ -6,14 +6,14 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,559 |
+| Devoured by Darkness | 27.00% | ~3,560 |
 | A Spark | 20.00% | ~2,637 |
 | Burning City | 19.00% | ~2,505 |
 | Defender's Heart | 16.00% | ~2,109 |
-| Mythic Choices | 15.00% | ~1,977 |
+| Mythic Choices | 15.00% | ~1,978 |
 | Banner over the Citadel | 14.00% | ~1,846 |
 | Queen's Gratitude | 13.00% | ~1,714 |
-| Fifth Crusade | 9.00% | ~1,186 |
+| Fifth Crusade | 9.00% | ~1,187 |
 | Embrace of the Abyss | 7.00% | ~923 |
 | Path of the Angel | 7.00% | ~923 |
 | Demonic and Divine | 7.00% | ~923 |
@@ -30,11 +30,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Reinforcements | 4.00% | ~527 |
 | A Flame | 4.00% | ~527 |
 | Hey, I Know You! | 4.00% | ~527 |
-| Path of the Trickster | 3.00% | ~395 |
-| Path of the Lich | 3.00% | ~395 |
-| Heroic Victory | 3.00% | ~395 |
-| Capitulation Is Now Moot | 3.00% | ~395 |
-| Core of the Riddle | 3.00% | ~395 |
+| Path of the Trickster | 3.00% | ~396 |
+| Path of the Lich | 3.00% | ~396 |
+| Heroic Victory | 3.00% | ~396 |
+| Capitulation Is Now Moot | 3.00% | ~396 |
+| Core of the Riddle | 3.00% | ~396 |
 | Hanged Man's Notes | 3.00% | ~359 |
 | Sarkoris Will Be Green | 3.00% | ~359 |
 | The Lady of the Forest | 3.00% | ~359 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,183 (Ranked 176)  
+Progressed: 13,184 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -387,7 +387,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 13,092 | 0 |
 | 2024-01-07 | 13,129 | 0 |
 | 2024-01-08 | 13,155 | 0 |
-| 2024-01-09 | 13,183 | 0 |
+| 2024-01-09 | 13,184 | 0 |
 ## Awards
 Max (Character Customization): 1,780  (Ranked 129)  
 Sum: 7,211 (Ranked 127)  

@@ -4,7 +4,7 @@
   "ProductSlug": "the-many-pieces-of-mr-coo-a9a1f8",
   "Ranking_EOS_Progress": 758,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 574,
+  "Ranking_EOS_NewPlayers": 576,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-06T22:00:00+00:00",
@@ -219,8 +219,8 @@
   ],
   "FirstSeen": "2023-09-17T15:04:02.4059726+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:01.5920642+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:06:34.2080222+00:00",
+  "LastChanged_Achievements": "2024-01-09T23:07:47.8121795+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:53.2577037+00:00",
-  "LastUpdate_Ratings": "2024-01-09T21:57:54.9627906+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:06:34.2080407+00:00"
+  "LastUpdate_Ratings": "2024-01-09T22:58:22.6560197+00:00",
+  "LastUpdate_Achievements": "2024-01-09T23:07:47.8121984+00:00"
 }

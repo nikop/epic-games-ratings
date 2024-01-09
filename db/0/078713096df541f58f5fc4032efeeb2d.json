@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94,
+  "EOS_Progressed": 95,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -469,6 +469,11 @@
       "Time": "2024-01-09T18:04:24.4452109+00:00",
       "NumProgressed": 94,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T23:04:33.7156843+00:00",
+      "NumProgressed": 95,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-23T15:05:23.4224547+00:00",
@@ -495,7 +500,7 @@
       "ID": "creepytale3_ach_11",
       "SetID": "7idcjbn",
       "Name": "Dexterity",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 30,
       "UsersEstimate": 63
     },
@@ -519,7 +524,7 @@
       "ID": "creepytale3_ach_15",
       "SetID": "7idcjbn",
       "Name": "Bathing time!",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
       "UsersEstimate": 46
     },
@@ -591,7 +596,7 @@
       "ID": "creepytale3_ach_24",
       "SetID": "7idcjbn",
       "Name": "Boring book!",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 30,
       "UsersEstimate": 26
     },
@@ -607,7 +612,7 @@
       "ID": "creepytale3_ach_27",
       "SetID": "7idcjbn",
       "Name": "Mimic",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -744,14 +749,14 @@
     {
       "ID": "7idcjbn",
       "IsBase": true,
-      "Progressed": 94,
+      "Progressed": 95,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:04:02.5762213+00:00",
+  "LastChanged_Achievements": "2024-01-09T23:04:33.7156841+00:00",
   "LastUpdate_AppInfo": "2024-01-03T07:57:05.980712+00:00",
-  "LastUpdate_Ratings": "2024-01-09T21:59:22.6018377+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:04:02.5762466+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:00:20.6252726+00:00",
+  "LastUpdate_Achievements": "2024-01-09T23:04:33.7157082+00:00"
 }

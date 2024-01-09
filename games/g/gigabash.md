@@ -5,16 +5,16 @@ Rating: 4.52 (Ranked 573)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 19.00% | ~22,877 |
-| I've Had Enough! | 14.00% | ~16,857 |
-| Fists, Fury & a lot of Rage | 10.00% | ~12,041 |
-| Seasoned Fighter | 9.00% | ~10,837 |
-| All For One and One For All | 8.00% | ~9,633 |
-| Home Sweet Home? | 6.00% | ~7,224 |
-| A New Age | 5.00% | ~6,020 |
-| Oh Baby, A Triple | 3.00% | ~3,612 |
-| Master of Disguise | 3.00% | ~3,612 |
-| Symbiotic | 3.00% | ~3,612 |
+| All Grown Up! | 19.00% | ~22,880 |
+| I've Had Enough! | 14.00% | ~16,859 |
+| Fists, Fury & a lot of Rage | 10.00% | ~12,042 |
+| Seasoned Fighter | 9.00% | ~10,838 |
+| All For One and One For All | 8.00% | ~9,634 |
+| Home Sweet Home? | 6.00% | ~7,225 |
+| A New Age | 5.00% | ~6,021 |
+| Oh Baby, A Triple | 3.00% | ~3,613 |
+| Master of Disguise | 3.00% | ~3,613 |
+| Symbiotic | 3.00% | ~3,613 |
 | Battle Hardened | 2.00% | ~2,408 |
 | It's Mayhem! | 2.00% | ~2,408 |
 | Right back at'cha | 2.00% | ~2,408 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 573)
 | What's Mine is Yours | 0.10% | ~120 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,407 (Ranked 92)  
+Progressed: 120,421 (Ranked 92)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,14 +76,14 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 118,583 | 0 |
 | 2024-01-07 | 119,421 | 0 |
 | 2024-01-08 | 119,942 | 0 |
-| 2024-01-09 | 120,407 | 0 |
+| 2024-01-09 | 120,421 | 0 |
 ## Awards
-Max (Great Boss Battles): 49  (Ranked 459)  
-Sum: 49 (Ranked 512)  
-Diff (max vs sum): -53  
+Max (Great Boss Battles): 54  (Ranked 446)  
+Sum: 54 (Ranked 505)  
+Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 49 |
+| This game has Great Boss Battles | 54 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -132,3 +132,4 @@ Diff (max vs sum): -53
 | 2024-01-06 | 4.54 | 49 | 49 |
 | 2024-01-07 | 4.53 | 49 | 49 |
 | 2024-01-08 | 4.52 | 49 | 49 |
+| 2024-01-09 | 4.52 | 54 | 54 |

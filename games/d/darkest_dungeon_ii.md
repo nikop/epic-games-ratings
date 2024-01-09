@@ -61,11 +61,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eyes Up | 2.00% | ~2,646 |
 | Handled | 2.00% | ~2,646 |
 | Clearing the Ledger | 1.00% | ~1,323 |
+| Hat Trick | 1.00% | ~1,323 |
 | Shrine of Reflection | 1.00% | ~1,323 |
 | Body of Work | 1.00% | ~1,323 |
 | Slap on the Wrist | 1.00% | ~72 |
 | For Old Time' Sake | 1.00% | ~72 |
-| Hat Trick | 0.90% | ~1,191 |
 | Triage | 0.90% | ~1,191 |
 | No Mercy | 0.90% | ~65 |
 | Et Tu, Riposte? | 0.90% | ~65 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,314 (Ranked 91)  
+Progressed: 132,315 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,10 +340,10 @@ Completed: 3 (0.00%) (Ranked 394)
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
-| 2024-01-09 | 132,314 | 3 |
+| 2024-01-09 | 132,315 | 3 |
 ## Awards
 Max (Character Customization): 7,992  (Ranked 50)  
-Sum: 21,559 (Ranked 58)  
+Sum: 21,561 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -353,7 +353,7 @@ Diff (max vs sum): -8
 | This game is Highly Recommended | 1,602 |
 | This game has Amazing Characters | 1,527 |
 | This game is Extremely Fun | 1,520 |
-| This game has Unique Visuals | 1,463 |
+| This game has Unique Visuals | 1,465 |
 | This game has Amazing Storytelling | 1,443 |
 | This game has Quickly Understood Controls | 1,411 |
 | This game has a Creative Community | 1,088 |
@@ -708,4 +708,4 @@ Diff (max vs sum): -8
 | 2024-01-06 | 4.68 | - | 7,972 | 21,481 |
 | 2024-01-07 | 4.68 | - | 7,986 | 21,519 |
 | 2024-01-08 | 4.68 | - | 7,992 | 21,547 |
-| 2024-01-09 | 4.68 | - | 7,992 | 21,559 |
+| 2024-01-09 | 4.68 | - | 7,992 | 21,561 |

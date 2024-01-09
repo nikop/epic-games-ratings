@@ -4,7 +4,7 @@
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 953,
   "Ranking_Popularity": 481,
-  "Ranking_PopularitySum": 412,
+  "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 172,
@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8215,
+  "EOS_Progressed": 8216,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13717,6 +13717,11 @@
       "Time": "2024-01-09T22:08:40.9995806+00:00",
       "NumProgressed": 8215,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T23:08:44.0778704+00:00",
+      "NumProgressed": 8216,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13744,7 +13749,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -14047,13 +14052,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8215,
+      "Progressed": 8216,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7587,
+      "Progressed": 7588,
       "Completed": 113
     }
   ],
@@ -14061,8 +14066,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:08:40.9995804+00:00",
+  "LastChanged_Achievements": "2024-01-09T23:08:44.0778702+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-09T21:59:13.2971542+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:08:40.99968+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:00:07.8979409+00:00",
+  "LastUpdate_Achievements": "2024-01-09T23:08:44.0779521+00:00"
 }

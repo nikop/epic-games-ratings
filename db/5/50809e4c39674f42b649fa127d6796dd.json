@@ -3,8 +3,8 @@
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 348,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,11 +22,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 522,
+  "EOS_Progressed": 523,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.77,
+  "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
     {
       "Time": "2023-10-18T09:06:38.9917479+00:00",
@@ -1512,6 +1512,11 @@
       "Time": "2024-01-09T06:06:48.9984062+00:00",
       "NumProgressed": 522,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-09T23:08:43.5542004+00:00",
+      "NumProgressed": 523,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1596,7 +1601,7 @@
       "Name": "Big Encounter",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -1604,15 +1609,15 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
       "SetID": "apihg0e",
       "Name": "Hermit Koco Encounter",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 199
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -1620,7 +1625,7 @@
       "Name": "Celestial Rain",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1628,7 +1633,7 @@
       "Name": "Unknown Threat",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1636,7 +1641,7 @@
       "Name": "Speed Demon",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1716,7 +1721,7 @@
       "Name": "The Journey Begins",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1843,14 +1848,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 522,
+      "Progressed": 523,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:08:40.4794335+00:00",
-  "LastUpdate_AppInfo": "2024-01-02T21:57:07.7248276+00:00",
-  "LastUpdate_Ratings": "2024-01-09T21:57:02.5706835+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:08:40.4794638+00:00"
+  "LastChanged_Achievements": "2024-01-09T23:08:43.5541999+00:00",
+  "LastUpdate_AppInfo": "2024-01-09T22:56:55.9554345+00:00",
+  "LastUpdate_Ratings": "2024-01-09T22:57:12.8449539+00:00",
+  "LastUpdate_Achievements": "2024-01-09T23:08:43.5542431+00:00"
 }

@@ -22,9 +22,9 @@
 | Debut | 11.00% | ~34 |
 | Lights! Camera! Action! | 11.00% | ~34 |
 | Another perspective | 10.00% | ~30 |
+| Playtime | 10.00% | ~30 |
 | Tough conversation | 10.00% | ~30 |
 | First steps | 9.00% | ~27 |
-| Playtime | 9.00% | ~27 |
 | The tragedy unfolds | 9.00% | ~27 |
 | A new way | 8.00% | ~24 |
 | Breaking free | 8.00% | ~24 |

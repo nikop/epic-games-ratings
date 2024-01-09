@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,694 (Ranked 73)  
+Progressed: 242,696 (Ranked 73)  
 Completed: 304 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,7 +409,7 @@ Completed: 304 (0.13%) (Ranked 298)
 | 2024-01-06 | 242,507 | 304 |
 | 2024-01-07 | 242,574 | 304 |
 | 2024-01-08 | 242,637 | 304 |
-| 2024-01-09 | 242,694 | 304 |
+| 2024-01-09 | 242,696 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 138)  
 Sum: 11,790 (Ranked 89)  

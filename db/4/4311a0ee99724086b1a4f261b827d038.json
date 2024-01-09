@@ -4,7 +4,7 @@
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 526,
   "Ranking_Popularity": 497,
-  "Ranking_PopularitySum": 410,
+  "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 96,
@@ -875,9 +875,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 242390,
+  "EOS_Progressed": 242392,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1297,
+  "EOS_NewPlayers": 1290,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20660,6 +20660,11 @@
       "Time": "2024-01-09T22:10:15.1571885+00:00",
       "NumProgressed": 242390,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T23:10:41.7261802+00:00",
+      "NumProgressed": 242392,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -20943,7 +20948,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 242390,
+      "Progressed": 242392,
       "Completed": 0
     }
   ],
@@ -20951,8 +20956,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-09T18:59:08.9714659+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:10:15.157188+00:00",
+  "LastChanged_Achievements": "2024-01-09T23:10:41.7261797+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:19.696761+00:00",
-  "LastUpdate_Ratings": "2024-01-09T21:58:36.5589681+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:10:15.1572907+00:00"
+  "LastUpdate_Ratings": "2024-01-09T22:59:19.3099603+00:00",
+  "LastUpdate_Achievements": "2024-01-09T23:10:41.7262993+00:00"
 }

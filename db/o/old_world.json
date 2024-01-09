@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2152,10 +2152,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1918,
       "NumberOfAwardsMax": 229
+    },
+    {
+      "Time": "2024-01-09T22:57:23.2402521+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1919,
+      "NumberOfAwardsMax": 229
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1918,
+  "NumberOfAwards": 1919,
   "NumberOfAwardsMax": 229,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2199,7 +2205,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 197
+      "Count": 198
     },
     {
       "Text": "This game is Relaxing",
@@ -2232,9 +2238,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16314,
+  "EOS_Progressed": 16321,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19427,6 +19433,11 @@
       "Time": "2024-01-09T22:10:29.0913043+00:00",
       "NumProgressed": 16314,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-09T23:10:58.5771671+00:00",
+      "NumProgressed": 16321,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20172,9 +20183,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_ABLE",
       "SetID": "7l38kb8",
       "Name": "Able Difficulty",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 147
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GLORIOUS",
@@ -20204,9 +20215,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_JUST",
       "SetID": "7l38kb8",
       "Name": "Just Difficulty",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 114
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_MAGNIFICENT",
@@ -20804,9 +20815,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 326
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -21380,9 +21391,9 @@
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
       "SetID": "9201eeb",
       "Name": "Industrial Progress",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
@@ -22301,21 +22312,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16314,
+      "Progressed": 16321,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16314,
+      "Progressed": 16321,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-01-09T05:02:49.0806012+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:10:29.0913041+00:00",
+  "LastChanged": "2024-01-09T22:57:23.2402519+00:00",
+  "LastChanged_Achievements": "2024-01-09T23:10:58.5771667+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-09T21:57:10.1106138+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:10:29.0929748+00:00"
+  "LastUpdate_Ratings": "2024-01-09T22:57:23.2402526+00:00",
+  "LastUpdate_Achievements": "2024-01-09T23:10:58.5781766+00:00"
 }

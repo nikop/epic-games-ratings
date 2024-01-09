@@ -4,7 +4,7 @@
   "ProductSlug": "hide-and-seek-9e0912",
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewPlayers": 416,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-11-17T18:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114,
+  "EOS_Progressed": 115,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 27.19,
+  "EOS_Completed_Percentage": 26.96,
   "EosHistory": [
     {
       "Time": "2023-10-27T08:03:12.3297461+00:00",
@@ -534,6 +534,11 @@
       "Time": "2024-01-09T20:03:22.7859244+00:00",
       "NumProgressed": 114,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2024-01-09T23:04:19.0584092+00:00",
+      "NumProgressed": 115,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-10-27T08:03:12.3312998+00:00",
@@ -546,15 +551,15 @@
       "Name": "Welcome",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACHIEVEMENT_2",
       "SetID": "dhh8kbc",
       "Name": "Seek",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 175,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -562,13 +567,13 @@
       "Name": "Hide",
       "Percentage": 79,
       "XP": 175,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT_4",
       "SetID": "dhh8kbc",
       "Name": "The Best Seeker",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 150,
       "UsersEstimate": 74
     },
@@ -576,7 +581,7 @@
       "ID": "ACHIEVEMENT_5",
       "SetID": "dhh8kbc",
       "Name": "Hiders win!",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 150,
       "UsersEstimate": 51
     },
@@ -593,14 +598,14 @@
     {
       "ID": "dhh8kbc",
       "IsBase": true,
-      "Progressed": 114,
+      "Progressed": 115,
       "Completed": 31
     }
   ],
   "FirstSeen": "2023-11-18T09:58:40.5450132+00:00",
   "FirstSeenAchievements": "2023-10-27T08:03:12.3312996+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:03:50.7251175+00:00",
+  "LastChanged_Achievements": "2024-01-09T23:04:19.0584088+00:00",
   "LastUpdate_AppInfo": "2024-01-05T14:56:57.5230498+00:00",
-  "LastUpdate_Ratings": "2024-01-09T21:59:15.0684013+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:03:50.7251266+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:00:10.6532863+00:00",
+  "LastUpdate_Achievements": "2024-01-09T23:04:19.0584225+00:00"
 }

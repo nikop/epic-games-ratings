@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 201,
+  "EOS_Progressed": 202,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -824,6 +824,11 @@
       "Time": "2024-01-09T21:05:06.622913+00:00",
       "NumProgressed": 201,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T23:06:28.6229606+00:00",
+      "NumProgressed": 202,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -866,9 +871,9 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 113
     },
     {
       "ID": "dl2",
@@ -892,7 +897,7 @@
       "Name": "Agriculture Tycoon",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "f2",
@@ -916,7 +921,7 @@
       "Name": "City Center",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "fw2",
@@ -954,9 +959,9 @@
       "ID": "g3",
       "SetID": "b1ggf28",
       "Name": "Handcart",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "j1",
@@ -1012,7 +1017,7 @@
       "Name": "Treatment of plague",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "jk2",
@@ -1044,7 +1049,7 @@
       "Name": "Architect",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "jz3",
@@ -1060,7 +1065,7 @@
       "Name": "Advanced Technology",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "k2",
@@ -1243,14 +1248,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 201,
+      "Progressed": 202,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:05:32.1543329+00:00",
+  "LastChanged_Achievements": "2024-01-09T23:06:28.6229603+00:00",
   "LastUpdate_AppInfo": "2024-01-03T05:57:01.0489301+00:00",
-  "LastUpdate_Ratings": "2024-01-09T22:03:02.6663929+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:05:32.1543724+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:03:16.885867+00:00",
+  "LastUpdate_Achievements": "2024-01-09T23:06:28.6230001+00:00"
 }

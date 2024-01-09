@@ -4,7 +4,7 @@
   "ProductSlug": "battle-ram-d001fd",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 535,
+  "Ranking_EOS_NewPlayers": 508,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-04T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 303,
+  "EOS_Progressed": 304,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1309,6 +1309,11 @@
       "Time": "2024-01-09T05:06:55.1015895+00:00",
       "NumProgressed": 303,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T23:07:26.4378355+00:00",
+      "NumProgressed": 304,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -1320,7 +1325,7 @@
       "Name": "START",
       "Percentage": 92,
       "XP": 45,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ach_10",
@@ -1358,9 +1363,9 @@
       "ID": "ach_14",
       "SetID": "392n4e7",
       "Name": "Senior Lieutenant Baran",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_15",
@@ -1406,9 +1411,9 @@
       "ID": "ach_2",
       "SetID": "392n4e7",
       "Name": "Ram Corporal",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 264
     },
     {
       "ID": "ach_20",
@@ -1440,7 +1445,7 @@
       "Name": "Ram Sergeant",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ach_4",
@@ -1448,7 +1453,7 @@
       "Name": "Ram Staff Sergeant",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ach_5",
@@ -1472,7 +1477,7 @@
       "Name": "Sergeant Major Baran",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ach_8",
@@ -1495,14 +1500,14 @@
     {
       "ID": "392n4e7",
       "IsBase": true,
-      "Progressed": 303,
+      "Progressed": 304,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:06:17.1107329+00:00",
+  "LastChanged_Achievements": "2024-01-09T23:07:26.4378352+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.7789955+00:00",
-  "LastUpdate_Ratings": "2024-01-09T21:57:14.1120716+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:06:17.1107643+00:00"
+  "LastUpdate_Ratings": "2024-01-09T22:57:28.5755983+00:00",
+  "LastUpdate_Achievements": "2024-01-09T23:07:26.4378615+00:00"
 }

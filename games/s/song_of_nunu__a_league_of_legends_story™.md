@@ -20,8 +20,8 @@ Rating: 4.59 (Ranked 451)
 | Boom Things | 53.00% | ~803 |
 | Tear of Freedom | 52.00% | ~788 |
 | My Darkest Day | 49.00% | ~742 |
+| The Relentless Storm | 47.00% | ~712 |
 | Rhythm Of Willump | 46.00% | ~697 |
-| The Relentless Storm | 46.00% | ~697 |
 | A Tragic Reminder | 45.00% | ~682 |
 | 3000 Year Blackout | 44.00% | ~667 |
 | So Close | 42.00% | ~636 |
@@ -35,8 +35,8 @@ Rating: 4.59 (Ranked 451)
 | True Legends | 38.00% | ~576 |
 | It Is Not Over | 36.00% | ~545 |
 | Bullseye | 36.00% | ~545 |
+| On The Rocks | 34.00% | ~515 |
 | Snowy Poro | 33.00% | ~500 |
-| On The Rocks | 33.00% | ~500 |
 | Never Gets Old | 32.00% | ~485 |
 | Vertical Power | 26.00% | ~394 |
 | One From The Heart | 14.00% | ~212 |

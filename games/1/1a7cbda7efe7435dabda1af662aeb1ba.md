@@ -5,17 +5,17 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Breaking Free | 36.00% | ~17 |
-| Overcoming Weakness | 30.00% | ~14 |
-| Boulder Breaker | 23.00% | ~11 |
+| Overcoming Weakness | 32.00% | ~15 |
+| Boulder Breaker | 26.00% | ~12 |
 | Fence-Sitter | 13.00% | ~6 |
+| Setting Off | 11.00% | ~5 |
 | Green Thumb | 9.00% | ~4 |
-| Setting Off | 9.00% | ~4 |
 | Crystal Hunter | 6.00% | ~3 |
 | Bye-Bye, Butcher | 6.00% | ~3 |
+| Rejected Parasite | 4.00% | ~2 |
 | Equivalent Exchange | 4.00% | ~2 |
 | Danger | 4.00% | ~2 |
 | Column Crusher | 2.00% | ~1 |
-| Rejected Parasite | 2.00% | ~1 |
 | A Twist of Fate | 2.00% | ~1 |
 | Strength | 2.00% | ~1 |
 | Eviction | 2.00% | ~1 |

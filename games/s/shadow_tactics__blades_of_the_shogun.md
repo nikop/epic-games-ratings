@@ -6,16 +6,16 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~27,006 |
+| Genin | 12.00% | ~27,007 |
 | A thief's beginning | 11.00% | ~24,756 |
 | Thorough | 11.00% | ~24,756 |
 | Disguised | 9.00% | ~20,255 |
 | Rescue Takuma | 9.00% | ~20,255 |
 | Rollin' | 9.00% | ~20,255 |
 | Tanuki Time | 9.00% | ~20,255 |
-| Ice Ice Yuki | 8.00% | ~18,004 |
-| Stoned Ox | 8.00% | ~18,004 |
-| Yabu | 8.00% | ~18,004 |
+| Ice Ice Yuki | 8.00% | ~18,005 |
+| Stoned Ox | 8.00% | ~18,005 |
+| Yabu | 8.00% | ~18,005 |
 | Happy Planning | 7.00% | ~15,754 |
 | Jonin | 7.00% | ~15,754 |
 | Mugen Unchained | 7.00% | ~15,754 |
@@ -40,8 +40,8 @@ Number of Ratings: 495  (23.09.2022)
 | Meticulous | 1.00% | ~2,251 |
 | Undeserved Honor | 1.00% | ~2,251 |
 | When Cut Across the Neck | 1.00% | ~2,251 |
-| High Five the Moon | 0.90% | ~2,025 |
-| The Cave | 0.90% | ~2,025 |
+| High Five the Moon | 0.90% | ~2,026 |
+| The Cave | 0.90% | ~2,026 |
 | Time Paradox | 0.60% | ~1,350 |
 | Merciful | 0.50% | ~1,125 |
 | Five Shadows | 0.40% | ~900 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~225 |
 | Release the Kraken | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,054 (Ranked 79)  
+Progressed: 225,058 (Ranked 79)  
 Completed: 105 (0.05%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,10 +315,10 @@ Completed: 105 (0.05%) (Ranked 337)
 | 2024-01-06 | 224,483 | 105 |
 | 2024-01-07 | 224,723 | 105 |
 | 2024-01-08 | 224,898 | 105 |
-| 2024-01-09 | 225,054 | 105 |
+| 2024-01-09 | 225,058 | 105 |
 ## Awards
 Max (Great for Beginners): 592  (Ranked 211)  
-Sum: 4,952 (Ranked 150)  
+Sum: 4,954 (Ranked 150)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -327,7 +327,7 @@ Diff (max vs sum): 61
 | This game is Extremely Fun | 544 |
 | This game has Amazing Storytelling | 524 |
 | This game has Amazing Characters | 508 |
-| This game is Highly Recommended | 503 |
+| This game is Highly Recommended | 505 |
 | This game is Relaxing | 502 |
 | This game has Challenging Combat | 502 |
 | This game has Quickly Understood Controls | 467 |
@@ -588,4 +588,4 @@ Diff (max vs sum): 61
 | 2024-01-05 | 4.66 | - | 592 | 4,943 |
 | 2024-01-07 | 4.66 | - | 592 | 4,947 |
 | 2024-01-08 | 4.66 | - | 592 | 4,949 |
-| 2024-01-09 | 4.66 | - | 592 | 4,952 |
+| 2024-01-09 | 4.66 | - | 592 | 4,954 |

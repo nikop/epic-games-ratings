@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -341,9 +341,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4124,
+  "EOS_Progressed": 4126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8306,6 +8306,11 @@
       "Time": "2024-01-09T21:05:19.5020936+00:00",
       "NumProgressed": 4124,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T23:06:46.7324975+00:00",
+      "NumProgressed": 4126,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8317,7 +8322,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "ACH_BASE_10",
@@ -8333,7 +8338,7 @@
       "Name": "Mutual Loyalty",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_BASE_12",
@@ -8365,7 +8370,7 @@
       "Name": "Tiqqun Contender",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_BASE_17",
@@ -8397,7 +8402,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ACH_BASE_21",
@@ -8405,7 +8410,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1362
     },
     {
       "ID": "ACH_BASE_22",
@@ -8429,7 +8434,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "ACH_BASE_25",
@@ -8477,7 +8482,7 @@
       "Name": "Catastrophe Avoided",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_BASE_30",
@@ -8533,7 +8538,7 @@
       "Name": "Access Granted",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_BASE_37",
@@ -8549,7 +8554,7 @@
       "Name": "You Had One Job...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_BASE_4",
@@ -8629,7 +8634,7 @@
       "Name": "Tiqqun Unchained",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_BASE_50",
@@ -8661,7 +8666,7 @@
       "Name": "All in Good Health",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_BASE_56",
@@ -8685,7 +8690,7 @@
       "Name": "Drill-dozer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_BASE_59",
@@ -8699,9 +8704,9 @@
       "ID": "ACH_BASE_6",
       "SetID": "92iocjf",
       "Name": "Hope Seeker",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 577
+      "UsersEstimate": 536
     },
     {
       "ID": "ACH_BASE_60",
@@ -8709,7 +8714,7 @@
       "Name": "Crunch Culture",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_BASE_61",
@@ -8772,13 +8777,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2308,
+      "Progressed": 2310,
       "Completed": 11
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4124,
+      "Progressed": 4126,
       "Completed": 0
     }
   ],
@@ -8786,8 +8791,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-08T15:02:36.7429513+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:05:46.3840701+00:00",
+  "LastChanged_Achievements": "2024-01-09T23:06:46.7324972+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:25.5201636+00:00",
-  "LastUpdate_Ratings": "2024-01-09T21:57:07.2333827+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:05:46.3841669+00:00"
+  "LastUpdate_Ratings": "2024-01-09T22:57:19.1602161+00:00",
+  "LastUpdate_Achievements": "2024-01-09T23:06:46.7326241+00:00"
 }

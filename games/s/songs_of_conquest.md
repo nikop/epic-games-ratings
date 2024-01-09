@@ -6,21 +6,21 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~510 |
-| Double Kill | 41.00% | ~455 |
-| Critical Hit | 23.00% | ~255 |
-| Veteran | 23.00% | ~255 |
-| Dressed For Success | 16.00% | ~177 |
+| Adept | 46.00% | ~511 |
+| Double Kill | 41.00% | ~456 |
+| Critical Hit | 23.00% | ~256 |
+| Veteran | 23.00% | ~256 |
+| Dressed For Success | 16.00% | ~178 |
 | Veni, Vidi, Vici | 11.00% | ~122 |
 | Humiliation | 10.00% | ~111 |
 | Multi Kill | 9.00% | ~100 |
 | Sorcerous Spree | 9.00% | ~100 |
 | Master | 8.00% | ~89 |
 | Landlord Extraordinaire | 7.00% | ~78 |
-| The Song of Stoutheart | 6.00% | ~67 |
 | Whoops! | 6.00% | ~67 |
-| Don't Touch My Stuff | 6.00% | ~67 |
-| Trojan Horse | 5.00% | ~55 |
+| The Song of Stoutheart | 5.00% | ~56 |
+| Don't Touch My Stuff | 5.00% | ~56 |
+| Trojan Horse | 5.00% | ~56 |
 | Ultra Kill | 3.00% | ~33 |
 | Expert Essence Employment | 3.00% | ~33 |
 | This Spot's Taken | 2.00% | ~22 |
@@ -40,8 +40,8 @@ Number of Ratings: 292  (23.09.2022)
 | Unlimited Power! | 0.50% | ~6 |
 | Coming Through! | 0.50% | ~6 |
 | Get Over Here! | 0.50% | ~6 |
+| Attack Bonanza | 0.40% | ~4 |
 | Barbecue | 0.40% | ~4 |
-| Attack Bonanza | 0.30% | ~3 |
 | Fully Charged | 0.30% | ~3 |
 | Oops! | 0.30% | ~3 |
 | The Marsh Expands | 0.30% | ~3 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,109 (Ranked 287)  
+Progressed: 1,111 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,11 +121,11 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 1,034 | 0 |
 | 2024-01-07 | 1,067 | 0 |
 | 2024-01-08 | 1,089 | 0 |
-| 2024-01-09 | 1,109 | 0 |
+| 2024-01-09 | 1,111 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 522)  
-Sum: 252 (Ranked 399)  
-Diff (max vs sum): 123  
+Sum: 252 (Ranked 398)  
+Diff (max vs sum): 124  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 30 |

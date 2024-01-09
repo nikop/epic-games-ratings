@@ -2,9 +2,9 @@
   "ID": "300ee26a2d6746cdb7dd515ae819f5d4",
   "Name": "The Spirit and the Mouse",
   "ProductSlug": "the-spirit-and-the-mouse-42390b",
-  "Ranking_EOS_Progress": 509,
+  "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 574,
+  "Ranking_EOS_NewPlayers": 537,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-26T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82,
+  "EOS_Progressed": 83,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -100,6 +100,11 @@
       "Time": "2024-01-03T09:04:47.7776573+00:00",
       "NumProgressed": 82,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T23:04:38.5535464+00:00",
+      "NumProgressed": 83,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -125,7 +130,7 @@
       "ID": "energy050",
       "SetID": "bbgli2k",
       "Name": "Energy Seeker",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 10,
       "UsersEstimate": 74
     },
@@ -133,7 +138,7 @@
       "ID": "energy1500",
       "SetID": "bbgli2k",
       "Name": "Unlimited Power!!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 21
     },
@@ -141,7 +146,7 @@
       "ID": "energy250",
       "SetID": "bbgli2k",
       "Name": "Energy Collector",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 15,
       "UsersEstimate": 62
     },
@@ -165,7 +170,7 @@
       "ID": "grilledmouse",
       "SetID": "bbgli2k",
       "Name": "Grilled Mouse",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 10,
       "UsersEstimate": 70
     },
@@ -181,7 +186,7 @@
       "ID": "lightbulbs.all",
       "SetID": "bbgli2k",
       "Name": "Lightbulb Master",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -197,7 +202,7 @@
       "ID": "lightbulbs.north",
       "SetID": "bbgli2k",
       "Name": "North Town Lightbulbs",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -205,7 +210,7 @@
       "ID": "lightbulbs.south",
       "SetID": "bbgli2k",
       "Name": "South Square Lightbulbs",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
       "UsersEstimate": 16
     },
@@ -213,7 +218,7 @@
       "ID": "lightbulbs.west",
       "SetID": "bbgli2k",
       "Name": "West Residence Lightbulbs",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -221,7 +226,7 @@
       "ID": "lightbulbs1",
       "SetID": "bbgli2k",
       "Name": "Lightbulb Seeker",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 10,
       "UsersEstimate": 71
     },
@@ -229,7 +234,7 @@
       "ID": "lightbulbs10",
       "SetID": "bbgli2k",
       "Name": "Lightbulbs Collector",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 15,
       "UsersEstimate": 64
     },
@@ -237,7 +242,7 @@
       "ID": "lightbulbs100",
       "SetID": "bbgli2k",
       "Name": "Lightbulb Detective",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 21
     },
@@ -285,7 +290,7 @@
       "ID": "plush",
       "SetID": "bbgli2k",
       "Name": "Deep Lore",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -325,7 +330,7 @@
       "ID": "quest005",
       "SetID": "bbgli2k",
       "Name": "The Ghost and the Lamps",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
       "UsersEstimate": 16
     },
@@ -341,7 +346,7 @@
       "ID": "quest007",
       "SetID": "bbgli2k",
       "Name": "The Quiche and the Hair Dryer",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 17
     },
@@ -397,7 +402,7 @@
       "ID": "shop.teleport",
       "SetID": "bbgli2k",
       "Name": "That\u0027s one way to travel",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
       "UsersEstimate": 35
     },
@@ -421,7 +426,7 @@
       "ID": "wireboxes.all",
       "SetID": "bbgli2k",
       "Name": "Lightning fast",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 35,
       "UsersEstimate": 7
     }
@@ -430,7 +435,7 @@
     {
       "ID": "bbgli2k",
       "IsBase": true,
-      "Progressed": 82,
+      "Progressed": 83,
       "Completed": 0
     }
   ],
@@ -438,8 +443,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
   "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:04:06.4539563+00:00",
+  "LastChanged_Achievements": "2024-01-09T23:04:38.553546+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:17.8647866+00:00",
-  "LastUpdate_Ratings": "2024-01-09T21:57:55.3025835+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:04:06.4539894+00:00"
+  "LastUpdate_Ratings": "2024-01-09T22:58:23.0299726+00:00",
+  "LastUpdate_Achievements": "2024-01-09T23:04:38.5535772+00:00"
 }

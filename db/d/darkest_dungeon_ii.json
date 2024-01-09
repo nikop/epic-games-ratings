@@ -10606,10 +10606,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21559,
       "NumberOfAwardsMax": 7992
+    },
+    {
+      "Time": "2024-01-09T22:59:34.6341557+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21561,
+      "NumberOfAwardsMax": 7992
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21559,
+  "NumberOfAwards": 21561,
   "NumberOfAwardsMax": 7992,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10671,7 +10677,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1463
+      "Count": 1465
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10686,9 +10692,9 @@
       "Count": 1088
     }
   ],
-  "EOS_Progressed": 132314,
+  "EOS_Progressed": 132315,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 953,
+  "EOS_NewPlayers": 950,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39111,6 +39117,11 @@
       "Time": "2024-01-09T22:10:02.7375779+00:00",
       "NumProgressed": 132314,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T23:10:26.6413903+00:00",
+      "NumProgressed": 132315,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -39400,9 +39411,9 @@
       "ID": "combat_run_kill_three_lair_bosses",
       "SetID": "64l4lke",
       "Name": "Hat Trick",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1323
     },
     {
       "ID": "driving_biome_clear_cave",
@@ -39753,21 +39764,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132314,
+      "Progressed": 132315,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7183,
+      "Progressed": 7184,
       "Completed": 823
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-09T16:59:33.573007+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:10:02.7375776+00:00",
+  "LastChanged": "2024-01-09T22:59:34.6341555+00:00",
+  "LastChanged_Achievements": "2024-01-09T23:10:26.64139+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-09T21:58:48.1937451+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:10:02.7378559+00:00"
+  "LastUpdate_Ratings": "2024-01-09T22:59:34.6341561+00:00",
+  "LastUpdate_Achievements": "2024-01-09T23:10:26.6415691+00:00"
 }

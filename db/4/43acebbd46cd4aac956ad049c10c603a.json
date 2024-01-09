@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -313,9 +313,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 1346,
+  "EOS_Progressed": 1347,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3868,6 +3868,11 @@
       "Time": "2024-01-09T22:08:23.1281246+00:00",
       "NumProgressed": 1346,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-09T23:08:21.8741789+00:00",
+      "NumProgressed": 1347,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3944,7 +3949,7 @@
       "Name": "Chasing the Light",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "Chicken",
@@ -3976,7 +3981,7 @@
       "Name": "Discovery",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "EasternWetlands",
@@ -3984,7 +3989,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "EcstaticTruth",
@@ -4048,7 +4053,7 @@
       "Name": "Into the Machine",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "JustOneLap",
@@ -4064,7 +4069,7 @@
       "Name": "Lord of the Files",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "LostMarshes",
@@ -4168,7 +4173,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "RenaissanceRobot",
@@ -4296,7 +4301,7 @@
       "Name": "Touch Grass",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "TrevorsBiographer",
@@ -4336,7 +4341,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "YourBiggestFan",
@@ -4344,14 +4349,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1346,
+      "Progressed": 1347,
       "Completed": 2
     }
   ],
@@ -4359,8 +4364,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-08T17:59:02.5867071+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:08:23.1281242+00:00",
+  "LastChanged_Achievements": "2024-01-09T23:08:21.8741785+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-09T21:58:54.6620476+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:08:23.1281832+00:00"
+  "LastUpdate_Ratings": "2024-01-09T22:59:43.198479+00:00",
+  "LastUpdate_Achievements": "2024-01-09T23:08:21.8742559+00:00"
 }

@@ -8,8 +8,8 @@ Rating: 4.77 (Ranked 116)
 | For Demacia | 95.00% | ~3,219 |
 | No more cages! | 90.00% | ~3,049 |
 | Everfrost | 77.00% | ~2,609 |
+| Pentakill | 76.00% | ~2,575 |
 | Dark Forest | 76.00% | ~2,575 |
-| Pentakill | 75.00% | ~2,541 |
 | The use of petricite | 73.00% | ~2,473 |
 | You can pet the dog | 60.00% | ~2,033 |
 | Thornbarrow | 44.00% | ~1,491 |

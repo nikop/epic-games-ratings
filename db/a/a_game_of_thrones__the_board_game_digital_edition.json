@@ -3,7 +3,7 @@
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 953,
-  "Ranking_Popularity": 351,
+  "Ranking_Popularity": 350,
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 263,
@@ -1398,9 +1398,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33015,
+  "EOS_Progressed": 33018,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 743,
+  "EOS_NewPlayers": 739,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -29883,6 +29883,11 @@
       "Time": "2024-01-09T22:10:04.7012107+00:00",
       "NumProgressed": 33015,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2024-01-09T23:10:28.6218121+00:00",
+      "NumProgressed": 33018,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 22,
@@ -29958,7 +29963,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "1024",
@@ -29990,7 +29995,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2971
+      "UsersEstimate": 2972
     },
     {
       "ID": "1028",
@@ -30030,7 +30035,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13206
+      "UsersEstimate": 13207
     },
     {
       "ID": "1033",
@@ -30069,15 +30074,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33015,
+      "Progressed": 33018,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-09T20:57:01.7893219+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:10:04.7012105+00:00",
+  "LastChanged_Achievements": "2024-01-09T23:10:28.6218117+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:53.1129394+00:00",
-  "LastUpdate_Ratings": "2024-01-09T21:56:59.6642711+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:10:04.701361+00:00"
+  "LastUpdate_Ratings": "2024-01-09T22:57:07.1445703+00:00",
+  "LastUpdate_Achievements": "2024-01-09T23:10:28.621984+00:00"
 }

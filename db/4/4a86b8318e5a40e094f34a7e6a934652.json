@@ -2,7 +2,7 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 343,
+  "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 156,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 543,
+  "EOS_Progressed": 544,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -2244,6 +2244,11 @@
       "Time": "2024-01-09T17:04:09.4411132+00:00",
       "NumProgressed": 543,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T23:03:56.4694802+00:00",
+      "NumProgressed": 544,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2256,7 +2261,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2312,7 +2317,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -2374,9 +2379,9 @@
       "ID": "REPAIR_BRIDGE",
       "SetID": "aniflfk",
       "Name": "Bridge Builder",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 233
+      "UsersEstimate": 228
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -2384,7 +2389,7 @@
       "Name": "Sleepyhead",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "SPEND_2000_COINS",
@@ -2400,7 +2405,7 @@
       "Name": "Uppies!",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2408,21 +2413,21 @@
       "Name": "Strong Signal",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 543,
+      "Progressed": 544,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:03:32.2172106+00:00",
+  "LastChanged_Achievements": "2024-01-09T23:03:56.4694798+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.910321+00:00",
-  "LastUpdate_Ratings": "2024-01-09T21:59:29.4969527+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:03:32.2172401+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:00:30.4231864+00:00",
+  "LastUpdate_Achievements": "2024-01-09T23:03:56.4695075+00:00"
 }

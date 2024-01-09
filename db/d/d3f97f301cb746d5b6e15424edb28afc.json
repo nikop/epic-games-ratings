@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -4760,9 +4760,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1456
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -5256,9 +5256,9 @@
       "ID": "GSS_ACH_64_POPULARITY_04",
       "SetID": "5fn8ia4",
       "Name": "Local Celebrity",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1175
     },
     {
       "ID": "GSS_ACH_65_POPULARITY_05",
@@ -5417,8 +5417,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-05T19:59:54.3830999+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:05:07.8912692+00:00",
+  "LastChanged_Achievements": "2024-01-09T23:05:57.5658436+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.4325477+00:00",
-  "LastUpdate_Ratings": "2024-01-09T21:58:20.2438784+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:05:07.8913728+00:00"
+  "LastUpdate_Ratings": "2024-01-09T22:58:56.2042562+00:00",
+  "LastUpdate_Achievements": "2024-01-09T23:05:57.565937+00:00"
 }

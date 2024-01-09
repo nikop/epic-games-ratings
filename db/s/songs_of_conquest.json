@@ -4,10 +4,10 @@
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 235,
   "Ranking_Popularity": 522,
-  "Ranking_PopularitySum": 399,
+  "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -456,9 +456,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1109,
+  "EOS_Progressed": 1111,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3866,6 +3866,11 @@
       "Time": "2024-01-09T21:09:18.1188608+00:00",
       "NumProgressed": 1109,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T23:09:41.2282307+00:00",
+      "NumProgressed": 1111,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3884,9 +3889,9 @@
       "ID": "ArleonCampaign",
       "SetID": "71c0n9i",
       "Name": "The Song of Stoutheart",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 56
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -3902,15 +3907,15 @@
       "Name": "Dressed For Success",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "AttackCount",
       "SetID": "71c0n9i",
       "Name": "Attack Bonanza",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BaryaCampaign",
@@ -3982,7 +3987,7 @@
       "Name": "Critical Hit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "Deepstrike",
@@ -4022,7 +4027,7 @@
       "Name": "Double Kill",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4140,9 +4145,9 @@
       "ID": "ReclaimTown",
       "SetID": "71c0n9i",
       "Name": "Don\u0027t Touch My Stuff",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 56
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -4190,7 +4195,7 @@
       "Name": "Trojan Horse",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "UltraKill",
@@ -4206,7 +4211,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "WielderLevel2",
@@ -4214,7 +4219,7 @@
       "Name": "Veteran",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "WielderLevel3",
@@ -4309,15 +4314,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1109,
+      "Progressed": 1111,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-08T22:01:52.5110389+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:09:26.763947+00:00",
+  "LastChanged_Achievements": "2024-01-09T23:09:41.2282302+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-09T21:57:08.3401117+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:09:26.7640248+00:00"
+  "LastUpdate_Ratings": "2024-01-09T22:57:20.7157205+00:00",
+  "LastUpdate_Achievements": "2024-01-09T23:09:41.2282789+00:00"
 }

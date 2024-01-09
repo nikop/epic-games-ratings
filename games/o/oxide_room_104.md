@@ -18,11 +18,11 @@
 | The third floor | 18.00% | ~57 |
 | One-way | 16.00% | ~50 |
 | On the right path | 15.00% | ~47 |
-| It can't be true | 14.00% | ~44 |
+| It can't be true | 15.00% | ~47 |
+| The real escape | 12.00% | ~38 |
 | He who seeks, finds! | 12.00% | ~38 |
 | I'm close now | 11.00% | ~35 |
 | Failed attempt | 11.00% | ~35 |
-| The real escape | 11.00% | ~35 |
 | Good choice | 11.00% | ~35 |
 | Take the long way round | 11.00% | ~35 |
 | Nightmare in the kitchen | 10.00% | ~32 |
@@ -30,9 +30,9 @@
 | 373 | 6.00% | ~19 |
 | The experiment | 5.00% | ~16 |
 | Matthew's revenge | 5.00% | ~16 |
-| Eva's diary | 2.00% | ~6 |
+| Eva's diary | 3.00% | ~9 |
 | Horror book | 2.00% | ~6 |
-| A dark past | 1.00% | ~3 |
+| A dark past | 2.00% | ~6 |
 | Matthew's mistakes | 0.30% | ~1 |
 | Sly as a fox | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)

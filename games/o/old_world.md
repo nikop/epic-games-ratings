@@ -11,6 +11,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 2.00% | ~326 |
 | Settler | 2.00% | ~326 |
 | Friendly Family | 2.00% | ~326 |
+| Hanging Gardens | 2.00% | ~326 |
 | Play a Single Player Game | 2.00% | ~326 |
 | Able | 1.00% | ~163 |
 | Ambitious | 1.00% | ~163 |
@@ -29,7 +30,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 1.00% | ~163 |
 | Developing Cities | 1.00% | ~163 |
 | Strong Cities | 1.00% | ~163 |
-| Hanging Gardens | 1.00% | ~163 |
 | Oracle | 1.00% | ~163 |
 | Pyramids | 1.00% | ~163 |
 | Learn to Play 1 | 1.00% | ~163 |
@@ -41,6 +41,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 1.00% | ~163 |
 | Trade Caravan | 1.00% | ~163 |
 | Brilliant | 0.90% | ~147 |
+| Able Difficulty | 0.90% | ~147 |
 | Great Ziggurat | 0.90% | ~147 |
 | Ishtar Gate | 0.90% | ~147 |
 | Lighthouse | 0.90% | ~147 |
@@ -48,7 +49,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 0.90% | ~147 |
 | Great | 0.80% | ~131 |
 | Wise | 0.80% | ~131 |
-| Able Difficulty | 0.80% | ~131 |
 | Furious Family | 0.80% | ~131 |
 | Acropolis | 0.80% | ~131 |
 | Apadana | 0.80% | ~131 |
@@ -61,11 +61,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 0.70% | ~114 |
 | Valiant | 0.70% | ~114 |
 | Legendary Cities | 0.70% | ~114 |
+| Just Difficulty | 0.70% | ~114 |
 | Mausoleum | 0.70% | ~114 |
 | Hanging Gardens in Babylon | 0.60% | ~98 |
 | Beloved | 0.60% | ~98 |
 | Intercessor | 0.60% | ~98 |
-| Just Difficulty | 0.60% | ~98 |
 | Artisans | 0.60% | ~98 |
 | Sages | 0.60% | ~98 |
 | Colossus | 0.60% | ~98 |
@@ -98,6 +98,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.40% | ~65 |
 | Assyrian Paganism | 0.40% | ~65 |
 | Economic Reform | 0.40% | ~65 |
+| Industrial Progress | 0.40% | ~65 |
 | Military Prestige | 0.40% | ~65 |
 | Dualism | 0.40% | ~65 |
 | Legalism | 0.40% | ~65 |
@@ -118,7 +119,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.30% | ~49 |
 | Egypt | 0.30% | ~49 |
 | Rome | 0.30% | ~49 |
-| Industrial Progress | 0.30% | ~49 |
 | Enlightenment | 0.30% | ~49 |
 | Gnosticism | 0.30% | ~49 |
 | Redemption | 0.30% | ~49 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,314 (Ranked 169)  
+Progressed: 16,321 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,10 +629,10 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
-| 2024-01-09 | 16,314 | 5 |
+| 2024-01-09 | 16,321 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
-Sum: 1,918 (Ranked 224)  
+Sum: 1,919 (Ranked 224)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
@@ -643,7 +643,7 @@ Diff (max vs sum): 63
 | This game is Educational | 219 |
 | This game has Challenging Combat | 209 |
 | This game has Amazing Characters | 201 |
-| This game has Quickly Understood Controls | 197 |
+| This game has Quickly Understood Controls | 198 |
 | This game has Amazing Storytelling | 197 |
 | This game has Obsessive Gameplay | 155 |
 | This game has a Creative Community | 101 |
@@ -839,4 +839,4 @@ Diff (max vs sum): 63
 | 2024-01-04 | 4.65 | - | 229 | 1,913 |
 | 2024-01-05 | 4.65 | - | 229 | 1,915 |
 | 2024-01-08 | 4.65 | - | 229 | 1,917 |
-| 2024-01-09 | 4.65 | - | 229 | 1,918 |
+| 2024-01-09 | 4.65 | - | 229 | 1,919 |

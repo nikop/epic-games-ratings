@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18746,
+  "EOS_Progressed": 18754,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 670,
+  "EOS_NewPlayers": 677,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -16862,6 +16862,11 @@
       "Time": "2024-01-09T22:08:28.8791933+00:00",
       "NumProgressed": 18746,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-09T23:08:29.2153836+00:00",
+      "NumProgressed": 18754,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16874,7 +16879,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "10",
@@ -16890,7 +16895,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2438
     },
     {
       "ID": "12",
@@ -16898,7 +16903,7 @@
       "Name": "Data Archivist",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "13",
@@ -16906,7 +16911,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3374
+      "UsersEstimate": 3376
     },
     {
       "ID": "14",
@@ -16922,7 +16927,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "16",
@@ -16930,7 +16935,7 @@
       "Name": "Drug Gifter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "17",
@@ -16938,7 +16943,7 @@
       "Name": "Spore Taste",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "18",
@@ -16954,7 +16959,7 @@
       "Name": "Martian Music",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2438
     },
     {
       "ID": "2",
@@ -16970,7 +16975,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "21",
@@ -17010,7 +17015,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "26",
@@ -17018,7 +17023,7 @@
       "Name": "Call it Even",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1688
     },
     {
       "ID": "27",
@@ -17026,7 +17031,7 @@
       "Name": "Bosmang",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2438
     },
     {
       "ID": "28",
@@ -17042,7 +17047,7 @@
       "Name": "Data Collector",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "3",
@@ -17050,7 +17055,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "30",
@@ -17074,7 +17079,7 @@
       "Name": "Data Master",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "6",
@@ -17082,7 +17087,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2626
     },
     {
       "ID": "7",
@@ -17106,7 +17111,7 @@
       "Name": "Impossible Objects",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2438
     },
     {
       "ID": "31",
@@ -17114,7 +17119,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "32",
@@ -17122,7 +17127,7 @@
       "Name": "Safe Cracker",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "33",
@@ -17130,7 +17135,7 @@
       "Name": "Zen Master",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "34",
@@ -17146,20 +17151,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18746,
+      "Progressed": 18754,
       "Completed": 61
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4700,
+      "Progressed": 4708,
       "Completed": 1270
     }
   ],
@@ -17167,8 +17172,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-08T14:59:15.8971936+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:08:28.8791662+00:00",
+  "LastChanged_Achievements": "2024-01-09T23:08:29.2153831+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-09T21:59:22.5938127+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:08:28.8792801+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:00:20.4699244+00:00",
+  "LastUpdate_Achievements": "2024-01-09T23:08:29.2154809+00:00"
 }

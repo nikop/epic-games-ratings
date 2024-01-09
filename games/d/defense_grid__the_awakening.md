@@ -11,7 +11,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Hey! That's mine! | 78.00% | ~385,142 |
 | Field Promotion | 74.00% | ~365,391 |
 | Leadhead | 71.00% | ~350,578 |
-| Eradicator | 67.00% | ~330,827 |
+| Eradicator | 68.00% | ~335,765 |
 | Surplus | 66.00% | ~325,890 |
 | I Spy | 64.00% | ~316,014 |
 | Burn Baby Burn | 59.00% | ~291,325 |
@@ -360,9 +360,9 @@ Completed: 5 (0.00%) (Ranked 394)
 | 2024-01-08 | 493,717 | 5 |
 | 2024-01-09 | 493,772 | 5 |
 ## Awards
-Max (Great for Beginners): 263  (Ranked 277)  
+Max (Great for Beginners): 263  (Ranked 278)  
 Sum: 1,745 (Ranked 227)  
-Diff (max vs sum): 50  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 263 |

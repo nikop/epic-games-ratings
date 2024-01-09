@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1013,
+  "EOS_Progressed": 1014,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.28,
   "EosHistory": [
@@ -2840,6 +2840,11 @@
       "Time": "2024-01-09T21:09:38.7803548+00:00",
       "NumProgressed": 1013,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-09T23:10:10.4149284+00:00",
+      "NumProgressed": 1014,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -2851,7 +2856,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "CHOICES_MATTER",
@@ -2923,7 +2928,7 @@
       "Name": "Even Tempered",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -2939,7 +2944,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "GOOD_KARMA",
@@ -2979,7 +2984,7 @@
       "Name": "Protector",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "SABOTAGE",
@@ -2995,7 +3000,7 @@
       "Name": "Shill Bidder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -3010,7 +3015,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 1013,
+      "Progressed": 1014,
       "Completed": 13
     }
   ],
@@ -3018,8 +3023,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:09:49.9593822+00:00",
+  "LastChanged_Achievements": "2024-01-09T23:10:10.4149279+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.9478908+00:00",
-  "LastUpdate_Ratings": "2024-01-09T21:57:09.7056237+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:09:49.9594362+00:00"
+  "LastUpdate_Ratings": "2024-01-09T22:57:22.6736776+00:00",
+  "LastUpdate_Achievements": "2024-01-09T23:10:10.4149621+00:00"
 }

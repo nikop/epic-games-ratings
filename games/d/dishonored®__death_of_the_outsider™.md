@@ -3,9 +3,9 @@
 [View Rawdata](../../db/d/dishonored®__death_of_the_outsider™.json)  
 Rating: 4.43 (Ranked 725)  
 ## Awards
-Max (Amazing Storytelling): 53  (Ranked 447)  
+Max (Amazing Storytelling): 53  (Ranked 448)  
 Sum: 417 (Ranked 349)  
-Diff (max vs sum): 98  
+Diff (max vs sum): 99  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 53 |

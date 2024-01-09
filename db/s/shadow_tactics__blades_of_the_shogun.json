@@ -2432,10 +2432,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 4952,
       "NumberOfAwardsMax": 592
+    },
+    {
+      "Time": "2024-01-09T22:57:13.2342928+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4954,
+      "NumberOfAwardsMax": 592
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4952,
+  "NumberOfAwards": 4954,
   "NumberOfAwardsMax": 592,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2449,7 +2455,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 503
+      "Count": 505
     },
     {
       "Text": "This game is Relaxing",
@@ -2506,9 +2512,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 225054,
+  "EOS_Progressed": 225058,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 1473,
+  "EOS_NewPlayers": 1467,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -32941,6 +32947,11 @@
       "Time": "2024-01-09T22:03:37.3626876+00:00",
       "NumProgressed": 225054,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2024-01-09T23:04:02.1748872+00:00",
+      "NumProgressed": 225058,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 44,
@@ -33024,7 +33035,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 27006
+      "UsersEstimate": 27007
     },
     {
       "ID": "HappyLittleAccidents",
@@ -33048,7 +33059,7 @@
       "Name": "High Five the Moon",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2025
+      "UsersEstimate": 2026
     },
     {
       "ID": "IceIceYuki",
@@ -33056,7 +33067,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 18004
+      "UsersEstimate": 18005
     },
     {
       "ID": "ItsRainingMen",
@@ -33200,7 +33211,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 18004
+      "UsersEstimate": 18005
     },
     {
       "ID": "TanukiTime",
@@ -33216,7 +33227,7 @@
       "Name": "The Cave",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2025
+      "UsersEstimate": 2026
     },
     {
       "ID": "TheEnd",
@@ -33296,22 +33307,22 @@
       "Name": "Yabu",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 18004
+      "UsersEstimate": 18005
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 225054,
+      "Progressed": 225058,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2024-01-09T18:57:01.4774197+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:03:37.3626872+00:00",
+  "LastChanged": "2024-01-09T22:57:13.2342926+00:00",
+  "LastChanged_Achievements": "2024-01-09T23:04:02.1748868+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:34.88387+00:00",
-  "LastUpdate_Ratings": "2024-01-09T21:57:02.8414522+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:03:37.3630557+00:00"
+  "LastUpdate_Ratings": "2024-01-09T22:57:13.2342932+00:00",
+  "LastUpdate_Achievements": "2024-01-09T23:04:02.1750994+00:00"
 }

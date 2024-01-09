@@ -1540,17 +1540,17 @@
       "ID": "ACH_ESCAPEDOC",
       "SetID": "511e31d",
       "Name": "The real escape",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_EVADOCUMENTS",
       "SetID": "511e31d",
       "Name": "Eva\u0027s diary",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_EVILDOCUMENTS",
@@ -1596,9 +1596,9 @@
       "ID": "ACH_MATTDOCUMENTS",
       "SetID": "511e31d",
       "Name": "A dark past",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_MUSICRADIO",
@@ -1628,9 +1628,9 @@
       "ID": "ACH_OUTOFMOTEL",
       "SetID": "511e31d",
       "Name": "It can\u0027t be true",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_PICKLOCK",
@@ -1723,8 +1723,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2024-01-09T22:06:20.9756525+00:00",
+  "LastChanged_Achievements": "2024-01-09T23:07:31.2705433+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:32.0336088+00:00",
   "LastUpdate_Ratings": "2024-01-09T22:00:35.9128563+00:00",
-  "LastUpdate_Achievements": "2024-01-09T22:06:20.9756939+00:00"
+  "LastUpdate_Achievements": "2024-01-09T23:07:31.2705746+00:00"
 }
