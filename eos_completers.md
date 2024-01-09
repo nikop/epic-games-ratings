@@ -48,11 +48,11 @@
 | 46 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.17% |
 | 48 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.89% |
-| 49 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.79% |
+| 49 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
 | 50 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 50 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.69% |
-| 50 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.69% |
-| 53 | [Ravenlok](games/r/ravenlok.md) | 7.62% |
+| 52 | [Ravenlok](games/r/ravenlok.md) | 7.62% |
+| 53 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.59% |
 | 54 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.52% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.44% |
@@ -149,8 +149,8 @@
 | 147 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.57% |
 | 148 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.50% |
 | 149 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.49% |
-| 150 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.47% |
-| 151 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.46% |
+| 150 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.46% |
+| 150 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.46% |
 | 152 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.41% |
 | 153 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.34% |
 | 154 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.31% |
@@ -169,7 +169,7 @@
 | 167 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
 | 168 | [Adios](games/a/adios.md) | 1.11% |
 | 169 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.10% |
-| 169 | [The Devil's Face](games/t/the_devil's_face.md) | 1.10% |
+| 170 | [The Devil's Face](games/t/the_devil's_face.md) | 1.09% |
 | 171 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.08% |
 | 172 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.07% |
 | 173 | [Lemon Cake](games/l/lemon_cake.md) | 1.05% |
@@ -179,7 +179,7 @@
 | 177 | [Colossal Cave](games/c/colossal_cave.md) | 0.95% |
 | 177 | [Trifox](games/t/trifox.md) | 0.95% |
 | 179 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 0.93% |
-| 179 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.93% |
+| 180 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.92% |
 | 181 | [Hades](games/h/hades.md) | 0.91% |
 | 181 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.91% |
 | 183 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.90% |
