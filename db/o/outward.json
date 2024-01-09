@@ -553,9 +553,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4657,
+  "EOS_Progressed": 4658,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8068,6 +8068,11 @@
       "Time": "2024-01-09T01:54:43.2764859+00:00",
       "NumProgressed": 4657,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-09T03:05:23.5478316+00:00",
+      "NumProgressed": 4658,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8151,7 +8156,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "ForAllAurai_8",
@@ -8183,7 +8188,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "HouseofCards_19",
@@ -8263,7 +8268,7 @@
       "Name": "Ready for Summer",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2235
+      "UsersEstimate": 2236
     },
     {
       "ID": "ReadyforWinter_42",
@@ -8303,7 +8308,7 @@
       "Name": "Tapped!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -8414,15 +8419,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4657,
+      "Progressed": 4658,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-05T19:04:06.3891748+00:00",
-  "LastChanged_Achievements": "2024-01-09T02:30:56.0178653+00:00",
+  "LastChanged_Achievements": "2024-01-09T03:05:23.5478312+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:45.0450053+00:00",
-  "LastUpdate_Ratings": "2024-01-09T02:28:02.5404966+00:00",
-  "LastUpdate_Achievements": "2024-01-09T02:30:56.017921+00:00"
+  "LastUpdate_Ratings": "2024-01-09T03:03:11.3266583+00:00",
+  "LastUpdate_Achievements": "2024-01-09T03:05:23.5478995+00:00"
 }

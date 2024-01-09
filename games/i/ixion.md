@@ -54,7 +54,7 @@ Rating: 4.59 (Ranked 448)
 | Gregor Spinoza | 1.00% | ~41 |
 | Scientifically Accurate | 1.00% | ~41 |
 | Work Harder | 0.70% | ~29 |
-| Soylent Green | 0.50% | ~20 |
+| Soylent Green | 0.50% | ~21 |
 | Crunch Culture | 0.40% | ~16 |
 | A Junker's Dream | 0.30% | ~12 |
 | Scenic View | 0.20% | ~8 |
@@ -63,7 +63,7 @@ Rating: 4.59 (Ranked 448)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,100 (Ranked 211)  
+Progressed: 4,101 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 4,042 | 0 |
 | 2024-01-07 | 4,075 | 0 |
 | 2024-01-08 | 4,096 | 0 |
-| 2024-01-09 | 4,100 | 0 |
+| 2024-01-09 | 4,101 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

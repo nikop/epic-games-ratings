@@ -4,11 +4,11 @@
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 30,
   "Ranking_Popularity": 191,
-  "Ranking_PopularitySum": 262,
+  "Ranking_PopularitySum": 263,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1670,9 +1670,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 138297,
+  "EOS_Progressed": 138302,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 1399,
+  "EOS_NewPlayers": 1402,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -27855,6 +27855,11 @@
       "Time": "2024-01-09T02:33:42.787876+00:00",
       "NumProgressed": 138297,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-09T03:08:52.2690747+00:00",
+      "NumProgressed": 138302,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -27898,7 +27903,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 24893
+      "UsersEstimate": 24894
     },
     {
       "ID": "ACH_COP_BAD",
@@ -27922,7 +27927,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 31808
+      "UsersEstimate": 31809
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -27946,7 +27951,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 38723
+      "UsersEstimate": 38725
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -27978,7 +27983,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 27659
+      "UsersEstimate": 27660
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -28185,15 +28190,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 138297,
+      "Progressed": 138302,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-08T21:59:00.2507162+00:00",
-  "LastChanged_Achievements": "2024-01-09T02:33:42.7878757+00:00",
+  "LastChanged_Achievements": "2024-01-09T03:08:52.2690744+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.1301003+00:00",
-  "LastUpdate_Ratings": "2024-01-09T02:23:38.8569848+00:00",
-  "LastUpdate_Achievements": "2024-01-09T02:33:42.7880287+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:58:31.949115+00:00",
+  "LastUpdate_Achievements": "2024-01-09T03:08:52.2692486+00:00"
 }

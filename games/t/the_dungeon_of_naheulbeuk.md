@@ -6,8 +6,8 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~89,032 |
-| Alt+F4 | 10.00% | ~24,731 |
+| Sowwy! | 36.00% | ~89,033 |
+| Alt+F4 | 10.00% | ~24,732 |
 | Where's that freaking Dwarf? | 9.00% | ~22,258 |
 | Déjà vu | 8.00% | ~19,785 |
 | Sock! SOCK! | 6.00% | ~14,839 |
@@ -15,9 +15,9 @@ Number of Ratings: 118  (23.09.2022)
 | A beer, two curses, three companions | 5.00% | ~12,366 |
 | GG EZ | 5.00% | ~12,366 |
 | DM intervention | 5.00% | ~12,366 |
-| Way of the Wimp | 4.00% | ~9,892 |
-| The plot thickens... At the tavern | 4.00% | ~9,892 |
-| Fireproof Wizardess | 4.00% | ~9,892 |
+| Way of the Wimp | 4.00% | ~9,893 |
+| The plot thickens... At the tavern | 4.00% | ~9,893 |
+| Fireproof Wizardess | 4.00% | ~9,893 |
 | Livin' in a dwarven paradise | 3.00% | ~7,419 |
 | The demons' feast | 3.00% | ~7,419 |
 | The Great Library | 3.00% | ~7,419 |
@@ -57,6 +57,7 @@ Number of Ratings: 118  (23.09.2022)
 | The number of the counting shalt be 7 | 0.40% | ~989 |
 | Inception | 0.40% | ~989 |
 | 100% satisfaction guarantee | 0.30% | ~742 |
+| Death is for wimps | 0.30% | ~742 |
 | Cursed die | 0.20% | ~495 |
 | The Blood Countess | 0.20% | ~495 |
 | He’s alive! Aliiiive! | 0.20% | ~495 |
@@ -68,7 +69,6 @@ Number of Ratings: 118  (23.09.2022)
 | Living legends of the Lands of Fangh | 0.20% | ~495 |
 | Kudos from your DM | 0.20% | ~495 |
 | Insult to injury | 0.20% | ~495 |
-| Death is for wimps | 0.20% | ~495 |
 | Super-Ultra-Lydian | 0.20% | ~495 |
 | Demisemiquaver | 0.20% | ~495 |
 | Necrophilia | 0.10% | ~247 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~247 |
 | Dwarf Candy | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,312 (Ranked 72)  
+Progressed: 247,315 (Ranked 72)  
 Completed: 8 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 8 (0.00%) (Ranked 395)
 | 2024-01-06 | 246,932 | 8 |
 | 2024-01-07 | 247,153 | 8 |
 | 2024-01-08 | 247,298 | 8 |
-| 2024-01-09 | 247,312 | 8 |
+| 2024-01-09 | 247,315 | 8 |
 ## Awards
 Max (Character Customization): 267  (Ranked 276)  
 Sum: 561 (Ranked 330)  

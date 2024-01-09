@@ -329,9 +329,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 340137,
+  "EOS_Progressed": 340140,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2127,
+  "EOS_NewPlayers": 2123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16784,6 +16784,11 @@
       "Time": "2024-01-09T02:30:32.5910778+00:00",
       "NumProgressed": 340137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T03:05:05.3617689+00:00",
+      "NumProgressed": 340140,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -16820,7 +16825,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 149660
+      "UsersEstimate": 149662
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -16828,7 +16833,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 108844
+      "UsersEstimate": 108845
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -16852,7 +16857,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 40816
+      "UsersEstimate": 40817
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -16868,7 +16873,7 @@
       "Name": "Gaalsien Base",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 30612
+      "UsersEstimate": 30613
     },
     {
       "ID": "ACHV_M08_COMPLETE",
@@ -16876,7 +16881,7 @@
       "Name": "Tombs of the Ancients",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 30612
+      "UsersEstimate": 30613
     },
     {
       "ID": "ACHV_M09_COMPLETE",
@@ -17172,20 +17177,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 173470
+      "UsersEstimate": 173471
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 340137,
+      "Progressed": 340140,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 340126,
+      "Progressed": 340129,
       "Completed": 1
     }
   ],
@@ -17193,8 +17198,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2024-01-04T19:02:51.3200067+00:00",
-  "LastChanged_Achievements": "2024-01-09T02:30:32.5910773+00:00",
+  "LastChanged_Achievements": "2024-01-09T03:05:05.3617685+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:11.3845313+00:00",
-  "LastUpdate_Ratings": "2024-01-09T02:28:00.0671581+00:00",
-  "LastUpdate_Achievements": "2024-01-09T02:30:32.5911875+00:00"
+  "LastUpdate_Ratings": "2024-01-09T03:03:09.4677349+00:00",
+  "LastUpdate_Achievements": "2024-01-09T03:05:05.361895+00:00"
 }

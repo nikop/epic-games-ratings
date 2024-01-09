@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3869,9 +3869,9 @@
       "Count": 347
     }
   ],
-  "EOS_Progressed": 20519,
+  "EOS_Progressed": 20522,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 593,
+  "EOS_NewPlayers": 592,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19019,6 +19019,11 @@
       "Time": "2024-01-09T02:29:36.0809576+00:00",
       "NumProgressed": 20519,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-09T03:04:21.8271861+00:00",
+      "NumProgressed": 20522,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19311,7 +19316,7 @@
       "Name": "The Marshlands",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "WinOnMoorlands",
@@ -19502,15 +19507,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20519,
+      "Progressed": 20522,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-09T01:46:37.7720969+00:00",
-  "LastChanged_Achievements": "2024-01-09T02:29:36.0809571+00:00",
+  "LastChanged_Achievements": "2024-01-09T03:04:21.8271857+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-09T02:22:38.9886233+00:00",
-  "LastUpdate_Achievements": "2024-01-09T02:29:36.0810751+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:57:47.9134752+00:00",
+  "LastUpdate_Achievements": "2024-01-09T03:04:21.8272775+00:00"
 }

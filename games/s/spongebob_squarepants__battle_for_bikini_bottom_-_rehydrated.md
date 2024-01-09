@@ -15,9 +15,9 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Getter | 12.00% | ~106 |
 | Super Spatula Seeker | 11.00% | ~97 |
 | Uptown and Downtown | 10.00% | ~88 |
+| Squirrel Smasher | 10.00% | ~88 |
 | Star Smasher | 10.00% | ~88 |
 | Surf's Up! | 10.00% | ~88 |
-| Squirrel Smasher | 9.00% | ~79 |
 | Life's as extreme as you wanna make it! | 8.00% | ~70 |
 | Shrimp Catcher | 8.00% | ~70 |
 | Toxic Terror | 8.00% | ~70 |

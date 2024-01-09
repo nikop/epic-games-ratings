@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1494,
+  "EOS_Progressed": 1496,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.41,
   "EosHistory": [
@@ -5135,6 +5135,11 @@
       "Time": "2024-01-09T01:55:34.2086799+00:00",
       "NumProgressed": 1494,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2024-01-09T03:06:04.2785969+00:00",
+      "NumProgressed": 1496,
+      "NumCompleted": 36
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5147,7 +5152,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -5155,7 +5160,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "_03_FinishAct1",
@@ -5163,7 +5168,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -5171,7 +5176,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "_05_FinishAct2",
@@ -5179,7 +5184,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -5187,7 +5192,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "_07_FinishAct3",
@@ -5203,7 +5208,7 @@
       "Name": "Swabbie",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "_09_Completion_20",
@@ -5211,7 +5216,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "_10_Completion_30",
@@ -5235,7 +5240,7 @@
       "Name": "Privateer",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "_13_Completion_60",
@@ -5275,7 +5280,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -5307,7 +5312,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -5315,7 +5320,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -5323,7 +5328,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -5331,7 +5336,7 @@
       "Name": "Jaded Judge",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -5339,7 +5344,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -5354,7 +5359,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1494,
+      "Progressed": 1496,
       "Completed": 36
     }
   ],
@@ -5362,8 +5367,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-03T10:02:59.9033308+00:00",
-  "LastChanged_Achievements": "2024-01-09T02:31:48.6460131+00:00",
+  "LastChanged_Achievements": "2024-01-09T03:06:04.2785964+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.9098347+00:00",
-  "LastUpdate_Ratings": "2024-01-09T02:25:27.8188484+00:00",
-  "LastUpdate_Achievements": "2024-01-09T02:31:48.646049+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:59:53.8190054+00:00",
+  "LastUpdate_Achievements": "2024-01-09T03:06:04.2786382+00:00"
 }

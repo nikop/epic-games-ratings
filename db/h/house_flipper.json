@@ -2289,9 +2289,9 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 22062,
+  "EOS_Progressed": 22063,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13079,6 +13079,11 @@
       "Time": "2024-01-09T01:52:57.514984+00:00",
       "NumProgressed": 22062,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-09T03:04:00.78295+00:00",
+      "NumProgressed": 22063,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -13098,7 +13103,7 @@
       "Name": "Car Mechanic",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ChangChoi",
@@ -13138,7 +13143,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20959
+      "UsersEstimate": 20960
     },
     {
       "ID": "GameOver",
@@ -13146,7 +13151,7 @@
       "Name": "Game Over",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "GorgioShanua",
@@ -13202,7 +13207,7 @@
       "Name": "Just Enough",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4412
+      "UsersEstimate": 4413
     },
     {
       "ID": "Negotiator",
@@ -13226,7 +13231,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4412
+      "UsersEstimate": 4413
     },
     {
       "ID": "SeniorEstateAgent",
@@ -13250,7 +13255,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6839
+      "UsersEstimate": 6840
     },
     {
       "ID": "VeronicaLiptson",
@@ -13273,15 +13278,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 22062,
+      "Progressed": 22063,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2024-01-08T20:58:06.7738813+00:00",
-  "LastChanged_Achievements": "2024-01-09T02:29:09.0930898+00:00",
+  "LastChanged_Achievements": "2024-01-09T03:04:00.7829497+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:58.4708185+00:00",
-  "LastUpdate_Ratings": "2024-01-09T02:22:39.7347668+00:00",
-  "LastUpdate_Achievements": "2024-01-09T02:29:09.0931486+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:57:48.4528856+00:00",
+  "LastUpdate_Achievements": "2024-01-09T03:04:00.783027+00:00"
 }

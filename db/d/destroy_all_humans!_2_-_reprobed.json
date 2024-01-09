@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -1822,9 +1822,9 @@
       "ID": "ACH_COP_THROUGH_DONUT",
       "SetID": "4n84pon",
       "Name": "Forbidden Donut",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_DESTROY_HIVES",
@@ -2095,8 +2095,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-03T11:58:36.9448322+00:00",
-  "LastChanged_Achievements": "2024-01-09T02:34:31.833011+00:00",
+  "LastChanged_Achievements": "2024-01-09T03:09:30.0245931+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-09T02:22:23.308554+00:00",
-  "LastUpdate_Achievements": "2024-01-09T02:34:31.8330654+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:57:36.4892515+00:00",
+  "LastUpdate_Achievements": "2024-01-09T03:09:30.0246372+00:00"
 }

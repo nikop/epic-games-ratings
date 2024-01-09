@@ -3,11 +3,11 @@
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
   "Ranking_Rating": 472,
-  "Ranking_Popularity": 478,
+  "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1069,9 +1069,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9847,
+  "EOS_Progressed": 9848,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10864,6 +10864,11 @@
       "Time": "2024-01-09T02:34:42.5641417+00:00",
       "NumProgressed": 9847,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-09T03:09:38.1936041+00:00",
+      "NumProgressed": 9848,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10883,7 +10888,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 1969
+      "UsersEstimate": 1970
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -10939,7 +10944,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1969
+      "UsersEstimate": 1970
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -11043,7 +11048,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3446
+      "UsersEstimate": 3447
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -11067,7 +11072,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4431
+      "UsersEstimate": 4432
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -11234,7 +11239,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9847,
+      "Progressed": 9848,
       "Completed": 10
     }
   ],
@@ -11242,8 +11247,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-06T21:59:00.913352+00:00",
-  "LastChanged_Achievements": "2024-01-09T02:34:42.5641414+00:00",
+  "LastChanged_Achievements": "2024-01-09T03:09:38.1936036+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:05.1405641+00:00",
-  "LastUpdate_Ratings": "2024-01-09T02:24:40.5497809+00:00",
-  "LastUpdate_Achievements": "2024-01-09T02:34:42.5642222+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:59:18.3887876+00:00",
+  "LastUpdate_Achievements": "2024-01-09T03:09:38.193682+00:00"
 }

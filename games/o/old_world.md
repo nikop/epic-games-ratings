@@ -52,6 +52,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 0.70% | ~114 |
 | Great | 0.70% | ~114 |
 | Wise | 0.70% | ~114 |
+| Legendary Cities | 0.70% | ~114 |
 | Furious Family | 0.70% | ~114 |
 | Acropolis | 0.70% | ~114 |
 | Musaeum | 0.70% | ~114 |
@@ -60,7 +61,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 0.70% | ~114 |
 | Drillmaster | 0.60% | ~98 |
 | Valiant | 0.60% | ~98 |
-| Legendary Cities | 0.60% | ~98 |
 | Just Difficulty | 0.60% | ~98 |
 | Artisans | 0.60% | ~98 |
 | Colossus | 0.60% | ~98 |

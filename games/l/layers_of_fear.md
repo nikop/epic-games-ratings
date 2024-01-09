@@ -57,7 +57,7 @@
 | Inheritance | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296 (Ranked 397)  
+Progressed: 296 (Ranked 398)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |

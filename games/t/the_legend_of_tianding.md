@@ -28,11 +28,11 @@
 | The Hero of the People | 17.00% | ~13 |
 | Collector | 13.00% | ~10 |
 | Talk to the Fist | 13.00% | ~10 |
-| Taoist | 9.00% | ~7 |
-| The Legend | 6.00% | ~5 |
+| Taoist | 10.00% | ~8 |
+| The Legend | 8.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 78 (Ranked 514)  
-Completed: 5 (6.41%) (Ranked 65)  
+Completed: 6 (7.69%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -85,6 +85,7 @@ Completed: 5 (6.41%) (Ranked 65)
 | 2024-01-06 | 73 | 5 |
 | 2024-01-07 | 76 | 5 |
 | 2024-01-08 | 78 | 5 |
+| 2024-01-09 | 78 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

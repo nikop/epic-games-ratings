@@ -26,7 +26,7 @@
 | You've awakened the beast | 16.00% | ~14 |
 | Hate is... addictive | 16.00% | ~14 |
 | You had one wish left | 16.00% | ~14 |
-| The bully | 13.00% | ~12 |
+| The bully | 15.00% | ~13 |
 | Kirlian's best disciple | 13.00% | ~12 |
 | Blessed antennas | 11.00% | ~10 |
 | Blood Red Island | 10.00% | ~9 |
@@ -44,9 +44,9 @@
 | A new Hindenburg | 6.00% | ~5 |
 | Pulp! Tales from the Crypt | 3.00% | ~3 |
 | Thirst for Oleum | 3.00% | ~3 |
+| Troy is burning! | 3.00% | ~3 |
 | Pulp! Weird Science | 2.00% | ~2 |
 | Pulp! Heart Throbs | 2.00% | ~2 |
-| Troy is burning! | 2.00% | ~2 |
 | Pulp! The Perfect Crime | 1.00% | ~1 |
 | Pulp! Mister Mystery | 1.00% | ~1 |
 | Pulp! Skeleton Hand | 1.00% | ~1 |

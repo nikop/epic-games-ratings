@@ -5,24 +5,24 @@ Rating: 4.19 (Ranked 971)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,767 |
-| Battlefields Have Memories | 81.00% | ~2,547 |
-| Enlisted | 74.00% | ~2,327 |
-| Maybe Engage a Little | 69.00% | ~2,169 |
-| No More Names | 52.00% | ~1,635 |
-| Initiate | 38.00% | ~1,195 |
-| Thrada-Kul | 34.00% | ~1,069 |
-| Gravity-Challenged Rocks | 28.00% | ~880 |
+| Unforeseen | 88.00% | ~2,769 |
+| Battlefields Have Memories | 81.00% | ~2,549 |
+| Enlisted | 74.00% | ~2,329 |
+| Maybe Engage a Little | 69.00% | ~2,171 |
+| No More Names | 52.00% | ~1,636 |
+| Initiate | 38.00% | ~1,196 |
+| Thrada-Kul | 34.00% | ~1,070 |
+| Gravity-Challenged Rocks | 28.00% | ~881 |
 | Socialite | 24.00% | ~755 |
-| Soldier | 23.00% | ~723 |
-| All the Major Food Groups | 23.00% | ~723 |
-| Beggars Would Ride | 21.00% | ~660 |
+| Soldier | 23.00% | ~724 |
+| All the Major Food Groups | 23.00% | ~724 |
+| Beggars Would Ride | 21.00% | ~661 |
 | Control is an Illusion | 20.00% | ~629 |
-| The Means to Save It | 17.00% | ~534 |
-| Resilience to Sin | 16.00% | ~503 |
+| The Means to Save It | 17.00% | ~535 |
+| Resilience to Sin | 16.00% | ~504 |
 | A Familiar Nest | 15.00% | ~472 |
 | Periapt Alizarin | 15.00% | ~472 |
-| Geas Aristeya | 14.00% | ~440 |
+| Geas Aristeya | 14.00% | ~441 |
 | A Perfect Cycle | 13.00% | ~409 |
 | Recruit | 13.00% | ~409 |
 | Armsman | 11.00% | ~346 |
@@ -32,8 +32,8 @@ Rating: 4.19 (Ranked 971)
 | Best Dressed | 6.00% | ~189 |
 | Periapt Viridian | 6.00% | ~189 |
 | Shroudfane Explorer | 6.00% | ~189 |
+| Kitted Out | 5.00% | ~157 |
 | Scholar | 4.00% | ~126 |
-| Kitted Out | 4.00% | ~126 |
 | Armaments Azure | 4.00% | ~126 |
 | Armaments Gules | 4.00% | ~126 |
 | Armaments Vert | 3.00% | ~94 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 971)
 | Treasure Hunter | 0.30% | ~9 |
 | Fowl Play | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,144 (Ranked 227)  
+Progressed: 3,147 (Ranked 227)  
 Completed: 4 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 4 (0.13%) (Ranked 298)
 | 2024-01-06 | 2,915 | 4 |
 | 2024-01-07 | 3,056 | 4 |
 | 2024-01-08 | 3,129 | 4 |
-| 2024-01-09 | 3,144 | 4 |
+| 2024-01-09 | 3,147 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

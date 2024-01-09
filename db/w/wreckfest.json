@@ -355,7 +355,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 983,
+  "EOS_Progressed": 984,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 0,
@@ -2435,6 +2435,11 @@
       "Time": "2024-01-09T02:33:59.6722512+00:00",
       "NumProgressed": 983,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T03:09:05.2636726+00:00",
+      "NumProgressed": 984,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2455,7 +2460,7 @@
       "Name": "Highballer",
       "Percentage": 57,
       "XP": 90,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "CareerChamp1",
@@ -2503,7 +2508,7 @@
       "Name": "Storm Warning",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "CollectVehiclesA",
@@ -2559,7 +2564,7 @@
       "Name": "Dirty Roller",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "PlayerRankB",
@@ -2591,7 +2596,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "WreckOpponentsBus",
@@ -2599,14 +2604,14 @@
       "Name": "Maniac Driver",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     }
   ],
   "AchievementSets": [
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 983,
+      "Progressed": 984,
       "Completed": 0
     }
   ],
@@ -2614,8 +2619,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-07T05:59:24.3409501+00:00",
-  "LastChanged_Achievements": "2024-01-09T02:33:59.672251+00:00",
+  "LastChanged_Achievements": "2024-01-09T03:09:05.2636723+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
-  "LastUpdate_Ratings": "2024-01-09T02:25:31.3505344+00:00",
-  "LastUpdate_Achievements": "2024-01-09T02:33:59.6722721+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:59:56.2720787+00:00",
+  "LastUpdate_Achievements": "2024-01-09T03:09:05.2636999+00:00"
 }

@@ -28,8 +28,8 @@ Rating: 4.78 (Ranked 109)
 | Ancient power | 28.00% | ~944 |
 | Sacred Woods | 26.00% | ~876 |
 | Little light | 24.00% | ~809 |
+| Glyndemere | 24.00% | ~809 |
 | Capelworth | 24.00% | ~809 |
-| Glyndemere | 23.00% | ~775 |
 | Full equipped | 23.00% | ~775 |
 | Iffighain Headquarters | 22.00% | ~742 |
 | No more holding back | 19.00% | ~640 |

@@ -523,9 +523,9 @@
       "Count": 140
     }
   ],
-  "EOS_Progressed": 617864,
+  "EOS_Progressed": 617865,
   "EOS_Completed": 564,
-  "EOS_NewPlayers": 1116,
+  "EOS_NewPlayers": 1113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -30333,6 +30333,11 @@
       "Time": "2024-01-09T02:34:17.680079+00:00",
       "NumProgressed": 617864,
       "NumCompleted": 564
+    },
+    {
+      "Time": "2024-01-09T03:09:19.2851169+00:00",
+      "NumProgressed": 617865,
+      "NumCompleted": 564
     }
   ],
   "TotalAchievements": 28,
@@ -30408,7 +30413,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 376897
+      "UsersEstimate": 376898
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -30424,7 +30429,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 271860
+      "UsersEstimate": 271861
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -30480,7 +30485,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 148287
+      "UsersEstimate": 148288
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -30504,7 +30509,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 407790
+      "UsersEstimate": 407791
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -30567,15 +30572,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 617864,
+      "Progressed": 617865,
       "Completed": 564
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-12-26T11:02:39.9263335+00:00",
-  "LastChanged_Achievements": "2024-01-09T02:34:17.6800787+00:00",
+  "LastChanged_Achievements": "2024-01-09T03:09:19.2851166+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:21.4715154+00:00",
-  "LastUpdate_Ratings": "2024-01-09T02:24:59.5052141+00:00",
-  "LastUpdate_Achievements": "2024-01-09T02:34:17.680246+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:59:32.1582309+00:00",
+  "LastUpdate_Achievements": "2024-01-09T03:09:19.2852568+00:00"
 }

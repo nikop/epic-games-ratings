@@ -20044,9 +20044,9 @@
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
       "SetID": "9201eeb",
       "Name": "Legendary Cities",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 114
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_STRONG",
@@ -22218,8 +22218,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-08T13:05:16.5572777+00:00",
-  "LastChanged_Achievements": "2024-01-09T02:35:48.3843755+00:00",
+  "LastChanged_Achievements": "2024-01-09T03:10:30.946509+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-09T02:27:23.5820792+00:00",
-  "LastUpdate_Achievements": "2024-01-09T02:35:48.3854337+00:00"
+  "LastUpdate_Ratings": "2024-01-09T03:02:42.2446439+00:00",
+  "LastUpdate_Achievements": "2024-01-09T03:10:30.9475206+00:00"
 }

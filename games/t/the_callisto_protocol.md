@@ -5,8 +5,8 @@ Rating: 4.22 (Ranked 946)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 25.00% | ~5,440 |
-| The Outer Way | 25.00% | ~5,440 |
+| Flesh Wound | 25.00% | ~5,441 |
+| The Outer Way | 25.00% | ~5,441 |
 | Desperate Times | 24.00% | ~5,223 |
 | Paper Jams | 22.00% | ~4,788 |
 | Get a Grip | 21.00% | ~4,570 |
@@ -16,8 +16,8 @@ Rating: 4.22 (Ranked 946)
 | If the SHU Fits... | 16.00% | ~3,482 |
 | Workplace Hazard | 15.00% | ~3,264 |
 | Without A Paddle | 13.00% | ~2,829 |
-| In the Pipe, Five by Five | 12.00% | ~2,611 |
-| Crash Site | 12.00% | ~2,611 |
+| In the Pipe, Five by Five | 12.00% | ~2,612 |
+| Crash Site | 12.00% | ~2,612 |
 | Two Heads Are Better Than One | 11.00% | ~2,394 |
 | Power Up | 11.00% | ~2,394 |
 | Terminated | 10.00% | ~2,176 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 946)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,762 (Ranked 151)  
+Progressed: 21,763 (Ranked 151)  
 Completed: 82 (0.38%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,18 +309,18 @@ Completed: 82 (0.38%) (Ranked 241)
 | 2024-01-06 | 21,389 | 82 |
 | 2024-01-07 | 21,615 | 82 |
 | 2024-01-08 | 21,745 | 82 |
-| 2024-01-09 | 21,762 | 82 |
+| 2024-01-09 | 21,763 | 82 |
 ## Awards
 Max (Amazing Characters): 129  (Ranked 349)  
-Sum: 610 (Ranked 323)  
+Sum: 611 (Ranked 323)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 129 |
 | This game is Highly Recommended | 109 |
 | This game is Extremely Fun | 109 |
+| This game has Quickly Understood Controls | 107 |
 | This game has Amazing Storytelling | 107 |
-| This game has Quickly Understood Controls | 106 |
 | This game has Challenging Combat | 68 |
 | This game has a Creative Community | 50 |
 ## Ratings History
@@ -522,4 +522,4 @@ Diff (max vs sum): 26
 | 2024-01-06 | 4.21 | 124 | 597 |
 | 2024-01-07 | 4.21 | 126 | 603 |
 | 2024-01-08 | 4.21 | 126 | 607 |
-| 2024-01-09 | 4.22 | 129 | 610 |
+| 2024-01-09 | 4.22 | 129 | 611 |

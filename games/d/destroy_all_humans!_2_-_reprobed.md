@@ -33,9 +33,9 @@ Number of Ratings: 90  (23.09.2022)
 | Ultimate Smoothie | 5.00% | ~19 |
 | Arkvoodle Doodle | 4.00% | ~15 |
 | Deincarnated | 3.00% | ~11 |
+| Forbidden Donut | 2.00% | ~8 |
 | Arty Facts | 1.00% | ~4 |
 | Against All Odds | 1.00% | ~4 |
-| Forbidden Donut | 1.00% | ~4 |
 | Hidden Human Hive Harvest | 1.00% | ~4 |
 | The Optional Mandate | 1.00% | ~4 |
 | If You Know What I Mean | 1.00% | ~4 |

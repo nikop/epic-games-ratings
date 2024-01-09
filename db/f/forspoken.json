@@ -625,9 +625,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 46832,
+  "EOS_Progressed": 46840,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 778,
+  "EOS_NewPlayers": 783,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18165,6 +18165,11 @@
       "Time": "2024-01-09T02:30:52.9022106+00:00",
       "NumProgressed": 46832,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-09T03:05:21.1244883+00:00",
+      "NumProgressed": 46840,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18184,7 +18189,7 @@
       "Name": "Archivist",
       "Percentage": 0.3,
       "XP": 105,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "CAMP",
@@ -18224,7 +18229,7 @@
       "Name": "Attachments",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5620
+      "UsersEstimate": 5621
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -18240,7 +18245,7 @@
       "Name": "The Interloper",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1873
+      "UsersEstimate": 1874
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -18328,7 +18333,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4215
+      "UsersEstimate": 4216
     },
     {
       "ID": "CUFF_ATTACK",
@@ -18360,7 +18365,7 @@
       "Name": "Tit for Tat",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "LEAPFROG",
@@ -18368,7 +18373,7 @@
       "Name": "Leapfrogger",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3278
+      "UsersEstimate": 3279
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -18464,7 +18469,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3278
+      "UsersEstimate": 3279
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -18488,7 +18493,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3278
+      "UsersEstimate": 3279
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -18528,7 +18533,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3278
+      "UsersEstimate": 3279
     },
     {
       "ID": "STAYING_AIR",
@@ -18568,7 +18573,7 @@
       "Name": "A Roaring Trade",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "SUBQUEST_CINTA",
@@ -18576,7 +18581,7 @@
       "Name": "Promises",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "SUBQUEST_CIPAL",
@@ -18584,7 +18589,7 @@
       "Name": "Rebirth",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "TANTACAT_ALL",
@@ -18599,22 +18604,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46832,
+      "Progressed": 46840,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11669,
-      "Completed": 11669
+      "Progressed": 11677,
+      "Completed": 11677
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-08T14:02:52.9019141+00:00",
-  "LastChanged_Achievements": "2024-01-09T02:30:52.9022103+00:00",
+  "LastChanged_Achievements": "2024-01-09T03:05:21.1244879+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-09T02:27:56.6256453+00:00",
-  "LastUpdate_Achievements": "2024-01-09T02:30:52.902304+00:00"
+  "LastUpdate_Ratings": "2024-01-09T03:03:06.5437522+00:00",
+  "LastUpdate_Achievements": "2024-01-09T03:05:21.1245938+00:00"
 }

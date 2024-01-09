@@ -5,34 +5,34 @@ Rating: 4.80 (Ranked 90)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 69.00% | ~1,031 |
-| The Adventure Begins | 49.00% | ~732 |
-| Swabbie | 36.00% | ~538 |
-| With Great Power… | 36.00% | ~538 |
-| This Belongs in a Museum | 33.00% | ~493 |
-| The Gambit Has Begun | 30.00% | ~448 |
-| Somewhere Deep in the Lost Caribbean | 26.00% | ~388 |
-| Mirror Mirror on the Wall | 26.00% | ~388 |
-| Powder Monkey | 26.00% | ~388 |
+| A New Journey | 69.00% | ~1,032 |
+| The Adventure Begins | 49.00% | ~733 |
+| Swabbie | 36.00% | ~539 |
+| With Great Power… | 36.00% | ~539 |
+| This Belongs in a Museum | 33.00% | ~494 |
+| The Gambit Has Begun | 30.00% | ~449 |
+| Somewhere Deep in the Lost Caribbean | 26.00% | ~389 |
+| Mirror Mirror on the Wall | 26.00% | ~389 |
+| Powder Monkey | 26.00% | ~389 |
 | Pirates Assemble! | 24.00% | ~359 |
 | Buccaneer | 20.00% | ~299 |
 | Fishy Fish | 20.00% | ~299 |
 | All Good Things | 18.00% | ~269 |
 | Persistent Parasite | 16.00% | ~239 |
 | Seadog | 15.00% | ~224 |
-| Jaded Judge | 12.00% | ~179 |
-| Tobacco Travesty | 11.00% | ~164 |
-| Rustic Recipe | 11.00% | ~164 |
-| Accursed Artifacts | 10.00% | ~149 |
-| Privateer | 9.00% | ~134 |
-| Lyrical Longing | 9.00% | ~134 |
+| Jaded Judge | 12.00% | ~180 |
+| Tobacco Travesty | 11.00% | ~165 |
+| Rustic Recipe | 11.00% | ~165 |
+| Accursed Artifacts | 10.00% | ~150 |
+| Privateer | 9.00% | ~135 |
+| Lyrical Longing | 9.00% | ~135 |
 | Fully Decked | 7.00% | ~105 |
 | Corsair | 5.00% | ~75 |
 | Freebooter | 4.00% | ~60 |
 | Marauder | 3.00% | ~45 |
 | Welcome Back Jester | 3.00% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,494 (Ranked 268)  
+Progressed: 1,496 (Ranked 268)  
 Completed: 36 (2.41%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 36 (2.41%) (Ranked 129)
 | 2024-01-06 | 1,466 | 36 |
 | 2024-01-07 | 1,483 | 36 |
 | 2024-01-08 | 1,492 | 36 |
-| 2024-01-09 | 1,494 | 36 |
+| 2024-01-09 | 1,496 | 36 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

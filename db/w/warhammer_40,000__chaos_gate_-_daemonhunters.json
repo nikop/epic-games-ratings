@@ -6239,9 +6239,9 @@
       "ID": "SkilledKnight",
       "SetID": "3jha1np",
       "Name": "True Mastery",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 31
     },
     {
       "ID": "StrategicCommand",
@@ -6349,8 +6349,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-07T22:03:18.1525827+00:00",
-  "LastChanged_Achievements": "2024-01-09T02:30:08.4628531+00:00",
+  "LastChanged_Achievements": "2024-01-09T03:04:46.8188602+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:54.2702622+00:00",
-  "LastUpdate_Ratings": "2024-01-09T02:28:20.1266443+00:00",
-  "LastUpdate_Achievements": "2024-01-09T02:30:08.4629169+00:00"
+  "LastUpdate_Ratings": "2024-01-09T03:03:23.2749408+00:00",
+  "LastUpdate_Achievements": "2024-01-09T03:04:46.8189423+00:00"
 }

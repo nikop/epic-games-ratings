@@ -6,15 +6,15 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~19,146 |
-| Student | 22.00% | ~14,524 |
-| Knower | 16.00% | ~10,563 |
+| Initiation | 29.00% | ~19,147 |
+| Student | 22.00% | ~14,525 |
+| Knower | 16.00% | ~10,564 |
 | Listener | 15.00% | ~9,903 |
 | Aspen Tree | 14.00% | ~9,243 |
 | Healer | 14.00% | ~9,243 |
-| Scientist | 12.00% | ~7,922 |
-| Soldier | 12.00% | ~7,922 |
-| Cow Level | 11.00% | ~7,262 |
+| Scientist | 12.00% | ~7,923 |
+| Soldier | 12.00% | ~7,923 |
+| Cow Level | 11.00% | ~7,263 |
 | Old Friend | 10.00% | ~6,602 |
 | Herbalist | 10.00% | ~6,602 |
 | Water | 10.00% | ~6,602 |
@@ -26,14 +26,14 @@ Number of Ratings: 96  (23.09.2022)
 | Card Player | 8.00% | ~5,282 |
 | Dead Friend | 8.00% | ~5,282 |
 | Pine Tree | 8.00% | ~5,282 |
-| Worthy | 7.00% | ~4,621 |
-| Black Book | 7.00% | ~4,621 |
-| Black Sorcerer | 7.00% | ~4,621 |
-| Dead Man | 7.00% | ~4,621 |
-| Fern | 7.00% | ~4,621 |
-| 100 Friends | 7.00% | ~4,621 |
-| Researcher | 7.00% | ~4,621 |
-| Savvy | 7.00% | ~4,621 |
+| Worthy | 7.00% | ~4,622 |
+| Black Book | 7.00% | ~4,622 |
+| Black Sorcerer | 7.00% | ~4,622 |
+| Dead Man | 7.00% | ~4,622 |
+| Fern | 7.00% | ~4,622 |
+| 100 Friends | 7.00% | ~4,622 |
+| Researcher | 7.00% | ~4,622 |
+| Savvy | 7.00% | ~4,622 |
 | Encyclopedist | 6.00% | ~3,961 |
 | Witch | 6.00% | ~3,961 |
 | Vorsa | 6.00% | ~3,961 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,320 |
 | Word Master | 0.20% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,020 (Ranked 117)  
+Progressed: 66,023 (Ranked 117)  
 Completed: 68 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 68 (0.10%) (Ranked 309)
 | 2024-01-06 | 65,529 | 65 |
 | 2024-01-07 | 65,783 | 68 |
 | 2024-01-08 | 66,003 | 68 |
-| 2024-01-09 | 66,020 | 68 |
+| 2024-01-09 | 66,023 | 68 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
