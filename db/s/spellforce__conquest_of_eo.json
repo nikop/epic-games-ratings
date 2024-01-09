@@ -2,10 +2,10 @@
   "ID": "0acc28c619c44fbab3dd30c7f87e9679",
   "Name": "SpellForce: Conquest of Eo",
   "ProductSlug": "spellforce-conquest-of-eo",
-  "Ranking_EOS_Progress": 474,
+  "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131,
+  "EOS_Progressed": 132,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -664,6 +664,11 @@
       "Time": "2024-01-08T18:10:17.4287013+00:00",
       "NumProgressed": 131,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T12:09:50.6465291+00:00",
+      "NumProgressed": 132,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T16:04:46.0994968+00:00",
@@ -684,7 +689,7 @@
       "Name": "Expansion",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Build_First_Room",
@@ -692,7 +697,7 @@
       "Name": "Enough rooms to swing a cat",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "Build_First_Room_Extension",
@@ -740,7 +745,7 @@
       "Name": "Alchemist\u0027s Apprentice",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Craft_First_Undead",
@@ -748,7 +753,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Defeat_Gor",
@@ -756,7 +761,7 @@
       "Name": "Defeat Gor",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Defeat_Hokan",
@@ -812,7 +817,7 @@
       "Name": "Defeat Uram",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Defeat_Yria",
@@ -836,13 +841,13 @@
       "Name": "First to the post",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "First_Node_Meld",
       "SetID": "7b9f97e",
       "Name": "Connected",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 15,
       "UsersEstimate": 81
     },
@@ -852,7 +857,7 @@
       "Name": "Harvest Time",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "HeroStory_Elynn",
@@ -884,7 +889,7 @@
       "Name": "Philo\u0027s Tale",
       "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "HeroStory_Yngrid",
@@ -892,7 +897,7 @@
       "Name": "Yngrid\u0027s Tale",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Landmark_CastleMeldec",
@@ -908,7 +913,7 @@
       "Name": "Crypt of the Revenant",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Landmark_MistyCoastBones",
@@ -924,7 +929,7 @@
       "Name": "The Forge of Regan Gor",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Landmark_SilverDriftMine",
@@ -956,7 +961,7 @@
       "Name": "Tuscari Sea Portal",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Landmark_UramGorForge",
@@ -964,7 +969,7 @@
       "Name": "Fireforge",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "MainCampaign_Alchemist",
@@ -1020,7 +1025,7 @@
       "Name": "A Master of Magic",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MainCampaign_CirclePage_Reputation",
@@ -1082,9 +1087,9 @@
       "ID": "Max_Reputation_Gillyshire",
       "SetID": "7b9f97e",
       "Name": "Friend of Gillyshire",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "Max_Reputation_Goldenfields",
@@ -1116,7 +1121,7 @@
       "Name": "Friend of Silver Drift Hollow",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Max_Reputation_Southwatch",
@@ -1132,7 +1137,7 @@
       "Name": "Friend of Uram Gor",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Max_Reputation_Westguard",
@@ -1156,7 +1161,7 @@
       "Name": "Magic Academy",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Mine_First_Ore",
@@ -1212,15 +1217,15 @@
       "Name": "A Joke",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Tower_Fly",
       "SetID": "7b9f97e",
       "Name": "Fly the friendly Sky",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 57
     },
     {
       "ID": "Zombify_Unit_Post_Battle",
@@ -1228,14 +1233,14 @@
       "Name": "Bad JuJu",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "7b9f97e",
       "IsBase": true,
-      "Progressed": 131,
+      "Progressed": 132,
       "Completed": 0
     }
   ],
@@ -1243,8 +1248,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-09T11:09:54.9226574+00:00",
+  "LastChanged_Achievements": "2024-01-09T12:09:50.6465286+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:39.1572287+00:00",
-  "LastUpdate_Ratings": "2024-01-09T10:57:16.9826028+00:00",
-  "LastUpdate_Achievements": "2024-01-09T11:09:54.9227486+00:00"
+  "LastUpdate_Ratings": "2024-01-09T11:57:26.2643484+00:00",
+  "LastUpdate_Achievements": "2024-01-09T12:09:50.6465854+00:00"
 }

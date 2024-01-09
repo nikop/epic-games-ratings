@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3880,9 +3880,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242666,
+  "EOS_Progressed": 242667,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 450,
+  "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31220,6 +31220,11 @@
       "Time": "2024-01-09T11:10:29.1030087+00:00",
       "NumProgressed": 242666,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-09T12:10:24.6727919+00:00",
+      "NumProgressed": 242667,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -32285,9 +32290,9 @@
       "ID": "KILLBOSSINDIRECTLY",
       "SetID": "1peahb6",
       "Name": "Not Touching You",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 41
     },
     {
       "ID": "KILLBOSSWITHNOITEMS",
@@ -32334,13 +32339,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242666,
+      "Progressed": 242667,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4146,
+      "Progressed": 4147,
       "Completed": 423
     }
   ],
@@ -32348,8 +32353,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-06T01:46:20.0115002+00:00",
-  "LastChanged_Achievements": "2024-01-09T11:10:29.1030084+00:00",
+  "LastChanged_Achievements": "2024-01-09T12:10:24.6727917+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-09T10:57:38.5081827+00:00",
-  "LastUpdate_Achievements": "2024-01-09T11:10:29.1033087+00:00"
+  "LastUpdate_Ratings": "2024-01-09T11:57:45.835889+00:00",
+  "LastUpdate_Achievements": "2024-01-09T12:10:24.6732242+00:00"
 }

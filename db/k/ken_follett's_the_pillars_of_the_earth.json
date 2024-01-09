@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17733,
+  "EOS_Progressed": 17734,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -18040,6 +18040,11 @@
       "Time": "2024-01-09T09:05:23.5433524+00:00",
       "NumProgressed": 17733,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-09T12:05:39.7228699+00:00",
+      "NumProgressed": 17734,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18227,7 +18232,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5497
+      "UsersEstimate": 5498
     },
     {
       "ID": "tpote_achievement_30",
@@ -18315,7 +18320,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7093
+      "UsersEstimate": 7094
     },
     {
       "ID": "tpote_achievement_40",
@@ -18371,22 +18376,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6029
+      "UsersEstimate": 6030
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17733,
+      "Progressed": 17734,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-09T11:05:24.5425063+00:00",
+  "LastChanged_Achievements": "2024-01-09T12:05:39.7228694+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:38.8316794+00:00",
-  "LastUpdate_Ratings": "2024-01-09T11:02:56.6353925+00:00",
-  "LastUpdate_Achievements": "2024-01-09T11:05:24.5426511+00:00"
+  "LastUpdate_Ratings": "2024-01-09T12:03:08.5774785+00:00",
+  "LastUpdate_Achievements": "2024-01-09T12:05:39.7230239+00:00"
 }

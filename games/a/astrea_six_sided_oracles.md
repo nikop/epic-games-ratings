@@ -29,8 +29,8 @@
 | Wave Bender | 10.00% | ~36 |
 | Aquarian Champion | 10.00% | ~36 |
 | Astral Seeker | 9.00% | ~33 |
+| Heart Gate | 8.00% | ~29 |
 | Stellar Haste | 8.00% | ~29 |
-| Heart Gate | 7.00% | ~25 |
 | The Corruption Goddess | 7.00% | ~25 |
 | The Goddes Avatar | 7.00% | ~25 |
 | Artificer | 6.00% | ~22 |

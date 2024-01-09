@@ -4,11 +4,11 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1059,
   "Ranking_Popularity": 210,
-  "Ranking_PopularitySum": 191,
+  "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5407,10 +5407,16 @@
       "Rating": 3.96,
       "NumberOfAwards": 2802,
       "NumberOfAwardsMax": 593
+    },
+    {
+      "Time": "2024-01-09T12:00:07.981881+00:00",
+      "Rating": 3.96,
+      "NumberOfAwards": 2804,
+      "NumberOfAwardsMax": 593
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2802,
+  "NumberOfAwards": 2804,
   "NumberOfAwardsMax": 593,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5436,7 +5442,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 548
+      "Count": 550
     },
     {
       "Text": "This game has Challenging Combat",
@@ -5469,7 +5475,7 @@
       "Count": 538
     }
   ],
-  "EOS_Progressed": 93277,
+  "EOS_Progressed": 93279,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 0,
@@ -30869,6 +30875,11 @@
       "Time": "2024-01-09T11:03:59.9267282+00:00",
       "NumProgressed": 93277,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-09T12:04:15.2542692+00:00",
+      "NumProgressed": 93279,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -30992,7 +31003,7 @@
       "Name": "Headhunter",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "ACH_0101",
@@ -31207,22 +31218,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 93277,
+      "Progressed": 93279,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21624,
+      "Progressed": 21626,
       "Completed": 15597
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2024-01-09T05:59:47.6976073+00:00",
-  "LastChanged_Achievements": "2024-01-09T11:03:59.9267277+00:00",
+  "LastChanged": "2024-01-09T12:00:07.9818809+00:00",
+  "LastChanged_Achievements": "2024-01-09T12:04:15.2542687+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:40.4736817+00:00",
-  "LastUpdate_Ratings": "2024-01-09T11:00:00.5842826+00:00",
-  "LastUpdate_Achievements": "2024-01-09T11:03:59.9268949+00:00"
+  "LastUpdate_Ratings": "2024-01-09T12:00:07.9818814+00:00",
+  "LastUpdate_Achievements": "2024-01-09T12:04:15.2543897+00:00"
 }

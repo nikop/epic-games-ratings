@@ -6,7 +6,7 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 9.00% | ~1,848 |
+| Overgrown Library | 9.00% | ~1,849 |
 | First Real Expedition | 8.00% | ~1,643 |
 | Taking Action | 8.00% | ~1,643 |
 | No Deaths | 8.00% | ~1,643 |
@@ -20,11 +20,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Gathering Storm | 6.00% | ~1,232 |
 | Frosts | 5.00% | ~1,027 |
 | Land of Greed | 5.00% | ~1,027 |
-| Homesick | 4.00% | ~821 |
-| Fertile Meadows | 4.00% | ~821 |
-| Royal Outpost | 4.00% | ~821 |
-| Watchtower | 4.00% | ~821 |
-| A Real Challenge | 4.00% | ~821 |
+| Homesick | 4.00% | ~822 |
+| Fertile Meadows | 4.00% | ~822 |
+| Royal Outpost | 4.00% | ~822 |
+| Watchtower | 4.00% | ~822 |
+| A Real Challenge | 4.00% | ~822 |
 | Ruined Armory | 3.00% | ~616 |
 | Bandit Camp | 3.00% | ~616 |
 | Ancient Battleground | 3.00% | ~616 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,536 (Ranked 154)  
+Progressed: 20,539 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 34 (0.17%) (Ranked 282)
 | 2024-01-06 | 20,318 | 34 |
 | 2024-01-07 | 20,428 | 34 |
 | 2024-01-08 | 20,508 | 34 |
-| 2024-01-09 | 20,536 | 34 |
+| 2024-01-09 | 20,539 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,363 (Ranked 177)  

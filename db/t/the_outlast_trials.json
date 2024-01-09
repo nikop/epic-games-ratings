@@ -2,13 +2,13 @@
   "ID": "6504cc61472e498796e0b4963a201438",
   "Name": "The Outlast Trials",
   "ProductSlug": "the-outlast-trials",
-  "Ranking_Rating": 301,
+  "Ranking_Rating": 320,
   "Ranking_Popularity": 267,
-  "Ranking_PopularitySum": 242,
+  "Ranking_PopularitySum": 241,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 575,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
     "PcReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.66,
+  "Rating": 4.65,
   "RatingHistory": [
     {
       "Time": "2023-05-20T18:00:30.4536489+00:00",
@@ -4189,10 +4189,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 1571,
       "NumberOfAwardsMax": 290
+    },
+    {
+      "Time": "2024-01-09T12:00:08.9996077+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1574,
+      "NumberOfAwardsMax": 290
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1571,
+  "NumberOfAwards": 1574,
   "NumberOfAwardsMax": 290,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4230,7 +4236,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 206
+      "Count": 209
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4269,8 +4275,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
-  "LastChanged": "2024-01-09T08:59:55.8267884+00:00",
+  "LastChanged": "2024-01-09T12:00:08.9996075+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.3891511+00:00",
-  "LastUpdate_Ratings": "2024-01-09T11:00:01.5853538+00:00",
-  "LastUpdate_Achievements": "2024-01-09T11:06:06.4573728+00:00"
+  "LastUpdate_Ratings": "2024-01-09T12:00:08.9996081+00:00",
+  "LastUpdate_Achievements": "2024-01-09T12:06:22.6232078+00:00"
 }

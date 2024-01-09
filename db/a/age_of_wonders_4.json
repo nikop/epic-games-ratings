@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -741,9 +741,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7104,
+  "EOS_Progressed": 7106,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 400,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10851,6 +10851,11 @@
       "Time": "2024-01-09T11:05:33.9732008+00:00",
       "NumProgressed": 7104,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-09T12:05:49.6102623+00:00",
+      "NumProgressed": 7106,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10972,9 +10977,9 @@
       "ID": "22",
       "SetID": "3aa2279",
       "Name": "Realm Estate",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 995
+      "UsersEstimate": 1066
     },
     {
       "ID": "23",
@@ -11006,7 +11011,7 @@
       "Name": "Bone Peddler",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "27",
@@ -11022,7 +11027,7 @@
       "Name": "From Friends to Family",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "29",
@@ -11054,7 +11059,7 @@
       "Name": "Magical Synergy",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "32",
@@ -11228,9 +11233,9 @@
       "ID": "47",
       "SetID": "7132754",
       "Name": "Duality",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 64
     },
     {
       "ID": "48",
@@ -11341,13 +11346,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7104,
+      "Progressed": 7106,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7104,
+      "Progressed": 7106,
       "Completed": 7
     }
   ],
@@ -11355,8 +11360,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-09T03:57:10.1517574+00:00",
-  "LastChanged_Achievements": "2024-01-09T11:05:33.9732001+00:00",
+  "LastChanged_Achievements": "2024-01-09T12:05:49.6102619+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-09T10:57:18.6130501+00:00",
-  "LastUpdate_Achievements": "2024-01-09T11:05:33.9732985+00:00"
+  "LastUpdate_Ratings": "2024-01-09T11:57:27.7972697+00:00",
+  "LastUpdate_Achievements": "2024-01-09T12:05:49.6104224+00:00"
 }

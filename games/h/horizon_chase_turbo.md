@@ -6,17 +6,17 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~992,426 |
-| I Need a Bigger Garage | 63.00% | ~694,698 |
-| Pump my Ride | 47.00% | ~518,267 |
-| Ghostbuster | 34.00% | ~374,917 |
-| Call Roadside Assistance | 18.00% | ~198,485 |
-| That Was Close | 18.00% | ~198,485 |
-| Quickie | 11.00% | ~121,297 |
-| California Dreamer | 7.00% | ~77,189 |
-| Can't Touch This | 5.00% | ~55,135 |
-| Carménère Taster | 4.00% | ~44,108 |
-| Comeback | 4.00% | ~44,108 |
+| The First of Many | 90.00% | ~992,442 |
+| I Need a Bigger Garage | 63.00% | ~694,709 |
+| Pump my Ride | 47.00% | ~518,275 |
+| Ghostbuster | 34.00% | ~374,922 |
+| Call Roadside Assistance | 18.00% | ~198,488 |
+| That Was Close | 18.00% | ~198,488 |
+| Quickie | 11.00% | ~121,298 |
+| California Dreamer | 7.00% | ~77,190 |
+| Can't Touch This | 5.00% | ~55,136 |
+| Carménère Taster | 4.00% | ~44,109 |
+| Comeback | 4.00% | ~44,109 |
 | Driver from Ipanema | 3.00% | ~33,081 |
 | Supersonic | 3.00% | ~33,081 |
 | Marathonist | 3.00% | ~33,081 |
@@ -38,13 +38,13 @@ Number of Ratings: 1,343  (23.09.2022)
 | Otaku | 0.90% | ~9,924 |
 | Survivor | 0.60% | ~6,616 |
 | King of the World | 0.60% | ~6,616 |
-| Getting Famous | 0.50% | ~5,513 |
+| Getting Famous | 0.50% | ~5,514 |
 | Now Go Play Outside | 0.30% | ~3,308 |
 | Master of the Racetrack | 0.20% | ~2,205 |
 | Look Mom, No Hands! | 0.20% | ~2,205 |
 | Transporter | 0.10% | ~1,103 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,102,696 (Ranked 14)  
+Progressed: 1,102,713 (Ranked 14)  
 Completed: 532 (0.05%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 532 (0.05%) (Ranked 337)
 | 2024-01-06 | 1,101,423 | 532 |
 | 2024-01-07 | 1,102,065 | 532 |
 | 2024-01-08 | 1,102,512 | 532 |
-| 2024-01-09 | 1,102,696 | 532 |
+| 2024-01-09 | 1,102,713 | 532 |
 ## Awards
 Max (Great for Beginners): 184  (Ranked 311)  
 Sum: 1,638 (Ranked 235)  

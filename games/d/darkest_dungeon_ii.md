@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~926 |
+| Malpractice Assurance | 13.00% | ~927 |
 | Lost and Found | 8.00% | ~570 |
 | Autodidact | 7.00% | ~9,258 |
 | This guy... again? | 7.00% | ~499 |
@@ -74,7 +74,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Bacon Bits | 0.60% | ~794 |
 | Eidetic | 0.50% | ~661 |
 | On This Long Road, We Found Redemption | 0.50% | ~36 |
-| Battle Hardened | 0.40% | ~28 |
+| Battle Hardened | 0.40% | ~29 |
 | Tears in the Rain | 0.30% | ~397 |
 | Maître De La Lame | 0.30% | ~21 |
 | Circle of Life | 0.20% | ~265 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,256 (Ranked 91)  
+Progressed: 132,258 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 3 (0.00%) (Ranked 395)
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
-| 2024-01-09 | 132,256 | 3 |
+| 2024-01-09 | 132,258 | 3 |
 ## Awards
 Max (Character Customization): 7,992  (Ranked 50)  
 Sum: 21,553 (Ranked 58)  

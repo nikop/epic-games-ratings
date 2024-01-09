@@ -1,11 +1,11 @@
 # The Outlast Trials
 [Store](https://store.epicgames.com/en-US/p/the-outlast-trials)  
 [View Rawdata](../../db/t/the_outlast_trials.json)  
-Rating: 4.66 (Ranked 301)  
+Rating: 4.65 (Ranked 320)  
 ## Awards
 Max (Great for Beginners): 290  (Ranked 267)  
-Sum: 1,571 (Ranked 242)  
-Diff (max vs sum): 25  
+Sum: 1,574 (Ranked 241)  
+Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 290 |
@@ -13,7 +13,7 @@ Diff (max vs sum): 25
 | This game is Highly Recommended | 219 |
 | This game is Extremely Fun | 212 |
 | This game has Quickly Understood Controls | 211 |
-| This game has Amazing Characters | 206 |
+| This game has Amazing Characters | 209 |
 | This game has Amazing Storytelling | 202 |
 | This game is Relaxing | 134 |
 | This game has Challenging Combat | 87 |
@@ -242,4 +242,4 @@ Diff (max vs sum): 25
 | 2024-01-06 | 4.66 | 284 | 1,543 |
 | 2024-01-07 | 4.66 | 287 | 1,555 |
 | 2024-01-08 | 4.66 | 287 | 1,561 |
-| 2024-01-09 | 4.66 | 290 | 1,571 |
+| 2024-01-09 | 4.66 | 290 | 1,574 |

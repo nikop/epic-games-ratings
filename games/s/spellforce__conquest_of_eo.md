@@ -5,49 +5,49 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Home Sweet Home | 89.00% | ~117 |
-| Enough rooms to swing a cat | 78.00% | ~102 |
-| First to the post | 78.00% | ~102 |
+| Enough rooms to swing a cat | 78.00% | ~103 |
+| First to the post | 78.00% | ~103 |
 | A kind of Magic | 70.00% | ~92 |
-| Connected | 62.00% | ~81 |
-| Expansion | 58.00% | ~76 |
+| Connected | 61.00% | ~81 |
+| Expansion | 58.00% | ~77 |
 | Mine! | 54.00% | ~71 |
-| Harvest Time | 53.00% | ~69 |
+| Harvest Time | 53.00% | ~70 |
 | Artificer's Apprentice | 45.00% | ~59 |
-| Fly the friendly Sky | 44.00% | ~58 |
+| Fly the friendly Sky | 43.00% | ~57 |
 | Get out of here! | 42.00% | ~55 |
-| Necromancer's Apprentice | 37.00% | ~48 |
-| Alchemist's Apprentice | 36.00% | ~47 |
+| Necromancer's Apprentice | 37.00% | ~49 |
+| Alchemist's Apprentice | 36.00% | ~48 |
 | Friend of Lyraine | 35.00% | ~46 |
 | Redecorating | 31.00% | ~41 |
 | The Circle | 31.00% | ~41 |
-| Bad JuJu | 24.00% | ~31 |
+| Bad JuJu | 24.00% | ~32 |
 | Friend of Sevenkeeps | 22.00% | ~29 |
 | Slave to the rhythm | 20.00% | ~26 |
 | Castle Meldec | 20.00% | ~26 |
 | Sevenkeeps Seat of Kings | 19.00% | ~25 |
 | Friend of Alluvyan | 16.00% | ~21 |
 | Friend of Connach | 16.00% | ~21 |
-| Friend of Gillyshire | 15.00% | ~20 |
 | Stormwatch Faste | 14.00% | ~18 |
+| Friend of Gillyshire | 14.00% | ~18 |
 | Friend of Orgash | 13.00% | ~17 |
 | Friend of Bastion | 13.00% | ~17 |
 | Break Free | 13.00% | ~17 |
-| Philo's Tale | 11.00% | ~14 |
-| A Master of Magic | 11.00% | ~14 |
-| Friend of Silver Drift Hollow | 11.00% | ~14 |
-| Magic Academy | 11.00% | ~14 |
+| Philo's Tale | 11.00% | ~15 |
+| A Master of Magic | 11.00% | ~15 |
+| Friend of Silver Drift Hollow | 11.00% | ~15 |
+| Magic Academy | 11.00% | ~15 |
 | Silver Drift Hollow Mine | 10.00% | ~13 |
 | Friend of Windholme | 10.00% | ~13 |
 | Mage Teacher | 9.00% | ~12 |
-| Defeat Gor | 8.00% | ~10 |
-| Defeat Uram | 8.00% | ~10 |
-| Yngrid's Tale | 8.00% | ~10 |
-| Crypt of the Revenant | 8.00% | ~10 |
-| The Forge of Regan Gor | 8.00% | ~10 |
-| Tuscari Sea Portal | 8.00% | ~10 |
-| Fireforge | 8.00% | ~10 |
-| Friend of Uram Gor | 8.00% | ~10 |
-| A Joke | 8.00% | ~10 |
+| Defeat Gor | 8.00% | ~11 |
+| Defeat Uram | 8.00% | ~11 |
+| Yngrid's Tale | 8.00% | ~11 |
+| Crypt of the Revenant | 8.00% | ~11 |
+| The Forge of Regan Gor | 8.00% | ~11 |
+| Tuscari Sea Portal | 8.00% | ~11 |
+| Fireforge | 8.00% | ~11 |
+| Friend of Uram Gor | 8.00% | ~11 |
+| A Joke | 8.00% | ~11 |
 | Defeat Raith | 7.00% | ~9 |
 | A Monopoly of Might | 7.00% | ~9 |
 | Heroes | 7.00% | ~9 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131 (Ranked 474)  
+Progressed: 132 (Ranked 473)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,6 +132,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 122 | 0 |
 | 2024-01-07 | 127 | 0 |
 | 2024-01-08 | 131 | 0 |
+| 2024-01-09 | 132 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

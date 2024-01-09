@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -2896,9 +2896,9 @@
       "ID": "EVEN_TEMPERED",
       "SetID": "8eejhlh",
       "Name": "Even Tempered",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 542
+      "UsersEstimate": 552
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -2912,9 +2912,9 @@
       "ID": "FAIR_SHARE",
       "SetID": "8eejhlh",
       "Name": "Fair Share",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 683
+      "UsersEstimate": 693
     },
     {
       "ID": "GOOD_KARMA",
@@ -2976,9 +2976,9 @@
       "ID": "STAR_CROSSED_LOVERS",
       "SetID": "8eejhlh",
       "Name": "Star-Crossed Lovers",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 462
+      "UsersEstimate": 472
     }
   ],
   "AchievementSets": [
@@ -2993,8 +2993,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-09T11:09:53.9420248+00:00",
+  "LastChanged_Achievements": "2024-01-09T12:09:49.6087541+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.9478908+00:00",
   "LastUpdate_Ratings": "2024-01-09T11:02:37.8718046+00:00",
-  "LastUpdate_Achievements": "2024-01-09T11:09:53.9420732+00:00"
+  "LastUpdate_Achievements": "2024-01-09T12:09:49.6087812+00:00"
 }

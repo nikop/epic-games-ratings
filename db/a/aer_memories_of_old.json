@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -425,11 +425,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28326,
-  "EOS_Completed": 522,
-  "EOS_NewPlayers": 610,
-  "EOS_NewCompleters": 16,
-  "EOS_Completed_Percentage": 1.84,
+  "EOS_Progressed": 28328,
+  "EOS_Completed": 523,
+  "EOS_NewPlayers": 607,
+  "EOS_NewCompleters": 17,
+  "EOS_Completed_Percentage": 1.85,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -28875,6 +28875,11 @@
       "Time": "2024-01-09T11:03:41.5629501+00:00",
       "NumProgressed": 28326,
       "NumCompleted": 522
+    },
+    {
+      "Time": "2024-01-09T12:03:55.0585475+00:00",
+      "NumProgressed": 28328,
+      "NumCompleted": 523
     }
   ],
   "TotalAchievements": 20,
@@ -28910,7 +28915,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2549
+      "UsersEstimate": 2550
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -28982,7 +28987,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3682
+      "UsersEstimate": 3683
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -29006,7 +29011,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 21528
+      "UsersEstimate": 21529
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -29014,7 +29019,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7648
+      "UsersEstimate": 7649
     },
     {
       "ID": "NORTH_FINISHED",
@@ -29022,7 +29027,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3682
+      "UsersEstimate": 3683
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -29045,15 +29050,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 28326,
-      "Completed": 522
+      "Progressed": 28328,
+      "Completed": 523
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-04T06:57:48.8328887+00:00",
-  "LastChanged_Achievements": "2024-01-09T11:03:41.5629496+00:00",
+  "LastChanged_Achievements": "2024-01-09T12:03:55.0585472+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.2454847+00:00",
-  "LastUpdate_Ratings": "2024-01-09T11:00:08.0179292+00:00",
-  "LastUpdate_Achievements": "2024-01-09T11:03:41.5630898+00:00"
+  "LastUpdate_Ratings": "2024-01-09T12:00:15.1421923+00:00",
+  "LastUpdate_Achievements": "2024-01-09T12:03:55.0588478+00:00"
 }

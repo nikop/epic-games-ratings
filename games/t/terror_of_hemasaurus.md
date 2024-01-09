@@ -13,11 +13,11 @@
 | Test of Faith | 36.00% | ~32 |
 | Reign of Terror | 33.00% | ~30 |
 | Crushing All Cars | 24.00% | ~22 |
-| Brain Chopper | 20.00% | ~18 |
+| Brain Chopper | 21.00% | ~19 |
 | Night Bird | 18.00% | ~16 |
-| Horror Show | 17.00% | ~15 |
+| Horror Show | 18.00% | ~16 |
 | Demolition Ambition | 12.00% | ~11 |
-| Hindenburgerer | 8.00% | ~7 |
+| Hindenburgerer | 9.00% | ~8 |
 | Punchy Wagon | 8.00% | ~7 |
 | Holy Terror | 6.00% | ~5 |
 | Kill All Humans! | 6.00% | ~5 |

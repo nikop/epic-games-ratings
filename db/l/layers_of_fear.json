@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1376,9 +1376,9 @@
       "ID": "casting_finished",
       "SetID": "f2im8d",
       "Name": "Casting Finished",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "collect_items_mother",
@@ -1728,9 +1728,9 @@
       "ID": "true_reflection",
       "SetID": "f2im8d",
       "Name": "True Reflection",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "view_most_of_photos",
@@ -1767,8 +1767,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-09T11:09:09.1033229+00:00",
+  "LastChanged_Achievements": "2024-01-09T12:09:03.8948954+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:37.800715+00:00",
-  "LastUpdate_Ratings": "2024-01-09T10:57:48.2728878+00:00",
-  "LastUpdate_Achievements": "2024-01-09T11:09:09.1033668+00:00"
+  "LastUpdate_Ratings": "2024-01-09T11:57:56.0378837+00:00",
+  "LastUpdate_Achievements": "2024-01-09T12:09:03.8949621+00:00"
 }

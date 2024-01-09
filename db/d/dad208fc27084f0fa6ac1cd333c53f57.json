@@ -3,8 +3,8 @@
   "Name": "The Hidden Room",
   "ProductSlug": "the-hidden-room-1a63ec",
   "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_Completed": 183,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7215,
+  "EOS_Progressed": 7216,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 513,
+  "EOS_NewPlayers": 510,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -7694,6 +7694,11 @@
       "Time": "2024-01-09T11:08:31.7863103+00:00",
       "NumProgressed": 7215,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2024-01-09T12:06:46.7984187+00:00",
+      "NumProgressed": 7216,
+      "NumCompleted": 65
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -7706,7 +7711,7 @@
       "Name": "Finish The Hidden Room",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_HIDDENROOM",
@@ -7714,7 +7719,7 @@
       "Name": "Unlock the secret room",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_MASK",
@@ -7762,7 +7767,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 5700
+      "UsersEstimate": 5701
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -7833,14 +7838,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 7215,
+      "Progressed": 7216,
       "Completed": 65
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-09T11:08:31.78631+00:00",
+  "LastChanged_Achievements": "2024-01-09T12:06:46.7984183+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:18.8161236+00:00",
-  "LastUpdate_Ratings": "2024-01-09T10:58:24.5419788+00:00",
-  "LastUpdate_Achievements": "2024-01-09T11:08:31.7863624+00:00"
+  "LastUpdate_Ratings": "2024-01-09T11:58:31.4875266+00:00",
+  "LastUpdate_Achievements": "2024-01-09T12:06:46.7984965+00:00"
 }

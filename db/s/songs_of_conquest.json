@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -456,9 +456,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1096,
+  "EOS_Progressed": 1098,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3821,6 +3821,11 @@
       "Time": "2024-01-09T11:09:33.0951786+00:00",
       "NumProgressed": 1096,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T12:09:28.8054263+00:00",
+      "NumProgressed": 1098,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3855,9 +3860,9 @@
       "ID": "ArtifactsEquipped",
       "SetID": "71c0n9i",
       "Name": "Dressed For Success",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 165
     },
     {
       "ID": "AttackCount",
@@ -3937,7 +3942,7 @@
       "Name": "Critical Hit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "Deepstrike",
@@ -3975,9 +3980,9 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 439
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4159,9 +4164,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 515
+      "UsersEstimate": 505
     },
     {
       "ID": "WielderLevel2",
@@ -4169,7 +4174,7 @@
       "Name": "Veteran",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "WielderLevel3",
@@ -4264,15 +4269,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1096,
+      "Progressed": 1098,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-08T22:01:52.5110389+00:00",
-  "LastChanged_Achievements": "2024-01-09T11:09:33.0951783+00:00",
+  "LastChanged_Achievements": "2024-01-09T12:09:28.8054259+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
   "LastUpdate_Ratings": "2024-01-09T11:02:36.6438405+00:00",
-  "LastUpdate_Achievements": "2024-01-09T11:09:33.0952302+00:00"
+  "LastUpdate_Achievements": "2024-01-09T12:09:28.8054935+00:00"
 }

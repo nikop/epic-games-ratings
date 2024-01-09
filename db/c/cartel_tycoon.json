@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 988,
+  "EOS_Progressed": 989,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -3502,6 +3502,11 @@
       "Time": "2024-01-09T01:55:50.2579479+00:00",
       "NumProgressed": 988,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T12:06:16.8075351+00:00",
+      "NumProgressed": 989,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3561,15 +3566,15 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "kill-lieutenants",
       "SetID": "bed33dd",
       "Name": "Spreading Fear",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 79
     },
     {
       "ID": "pack-and-sell",
@@ -3577,7 +3582,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "play-at-night",
@@ -3617,7 +3622,7 @@
       "Name": "Bite the Blow",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "sell-variety",
@@ -3641,7 +3646,7 @@
       "Name": "Pampered Life",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "upgrade-building",
@@ -3664,15 +3669,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 988,
+      "Progressed": 989,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-05T21:03:11.6844011+00:00",
-  "LastChanged_Achievements": "2024-01-09T11:06:00.9281454+00:00",
+  "LastChanged_Achievements": "2024-01-09T12:06:16.8075347+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:39.3719101+00:00",
-  "LastUpdate_Ratings": "2024-01-09T11:02:57.4465647+00:00",
-  "LastUpdate_Achievements": "2024-01-09T11:06:00.9281723+00:00"
+  "LastUpdate_Ratings": "2024-01-09T12:03:09.4457665+00:00",
+  "LastUpdate_Achievements": "2024-01-09T12:06:16.8075688+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 178,
-  "Ranking_EOS_Completed": 198,
+  "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -704,10 +704,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 12023,
-  "EOS_Completed": 83,
-  "EOS_NewPlayers": 672,
-  "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 0.69,
+  "EOS_Completed": 84,
+  "EOS_NewPlayers": 671,
+  "EOS_NewCompleters": 13,
+  "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.6451257+00:00",
@@ -15268,6 +15268,11 @@
       "Time": "2024-01-09T11:05:40.7694759+00:00",
       "NumProgressed": 12023,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2024-01-09T12:05:56.6650434+00:00",
+      "NumProgressed": 12023,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 29,
@@ -15437,9 +15442,9 @@
       "ID": "ACH21",
       "SetID": "552d41m",
       "Name": "Splish Splash",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 240
+      "UsersEstimate": 361
     },
     {
       "ID": "ACH22",
@@ -15511,15 +15516,15 @@
       "ID": "552d41m",
       "IsBase": true,
       "Progressed": 12023,
-      "Completed": 83
+      "Completed": 84
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-08T18:02:03.5351927+00:00",
-  "LastChanged_Achievements": "2024-01-09T11:05:40.7694755+00:00",
+  "LastChanged_Achievements": "2024-01-09T12:05:56.6650428+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.653696+00:00",
-  "LastUpdate_Ratings": "2024-01-09T10:57:06.7034057+00:00",
-  "LastUpdate_Achievements": "2024-01-09T11:05:40.7695595+00:00"
+  "LastUpdate_Ratings": "2024-01-09T11:57:16.1846257+00:00",
+  "LastUpdate_Achievements": "2024-01-09T12:05:56.6652023+00:00"
 }

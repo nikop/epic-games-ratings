@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Cause and Effect | 95.00% | ~954 |
-| Fair Share | 68.00% | ~683 |
-| Even Tempered | 54.00% | ~542 |
-| Star-Crossed Lovers | 46.00% | ~462 |
+| Fair Share | 69.00% | ~693 |
+| Even Tempered | 55.00% | ~552 |
+| Star-Crossed Lovers | 47.00% | ~472 |
 | The Delivery | 44.00% | ~442 |
 | Shill Bidder | 41.00% | ~412 |
 | The Frenzy | 32.00% | ~321 |

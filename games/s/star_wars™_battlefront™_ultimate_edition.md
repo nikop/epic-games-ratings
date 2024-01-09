@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,400 |
-| Off to a good start | 61.00% | ~1,703 |
-| Do... or do not. There is no try | 52.00% | ~1,451 |
-| A good blaster at your side | 24.00% | ~670 |
-| I suggest a new strategy | 17.00% | ~474 |
+| New Recruit | 86.00% | ~2,403 |
+| Off to a good start | 61.00% | ~1,704 |
+| Do... or do not. There is no try | 52.00% | ~1,453 |
+| A good blaster at your side | 24.00% | ~671 |
+| I suggest a new strategy | 17.00% | ~475 |
 | Great shot, kid! | 16.00% | ~447 |
 | Scrap collector | 15.00% | ~419 |
 | All right, I'll give it a try | 14.00% | ~391 |
 | The power of the Force | 12.00% | ~335 |
-| Together we can rule the galaxy | 12.00% | ~335 |
 | Shoot first | 12.00% | ~335 |
 | Collector | 11.00% | ~307 |
-| Tell Jabba that I've got his money | 8.00% | ~223 |
-| Best star-pilot in the galaxy | 8.00% | ~223 |
-| Never tell me the odds! | 7.00% | ~195 |
-| Survivor | 7.00% | ~195 |
-| What's the cargo? | 6.00% | ~167 |
-| A cunning warrior | 6.00% | ~167 |
+| Together we can rule the galaxy | 11.00% | ~307 |
+| Tell Jabba that I've got his money | 8.00% | ~224 |
+| Best star-pilot in the galaxy | 8.00% | ~224 |
+| Never tell me the odds! | 7.00% | ~196 |
+| Survivor | 7.00% | ~196 |
+| What's the cargo? | 6.00% | ~168 |
+| A cunning warrior | 6.00% | ~168 |
 | "Gonk? Gonk!" | 5.00% | ~140 |
 | Impressive. Most impressive. | 5.00% | ~140 |
 | Judge me by my size, do you? | 5.00% | ~140 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,791 (Ranked 232)  
+Progressed: 2,794 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 1 (0.04%) (Ranked 349)
 | 2024-01-06 | 2,690 | 1 |
 | 2024-01-07 | 2,750 | 1 |
 | 2024-01-08 | 2,781 | 1 |
-| 2024-01-09 | 2,791 | 1 |
+| 2024-01-09 | 2,794 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

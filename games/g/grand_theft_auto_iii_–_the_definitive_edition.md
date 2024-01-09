@@ -20,11 +20,11 @@ Rating: 4.21 (Ranked 954)
 | A Gift from the King | 7.00% | ~842 |
 | Full Artillery | 4.00% | ~481 |
 | Mob Boss | 3.00% | ~361 |
+| Splish Splash | 3.00% | ~361 |
 | Escape Artist | 2.00% | ~240 |
 | Got This Figured Out | 2.00% | ~240 |
 | Come Out to Play-y-y-y | 2.00% | ~240 |
 | Where To? | 2.00% | ~240 |
-| Splish Splash | 2.00% | ~240 |
 | Playing Doctor | 2.00% | ~240 |
 | Liberty City Secrets | 2.00% | ~240 |
 | Planned Ahead | 1.00% | ~120 |
@@ -36,7 +36,7 @@ Rating: 4.21 (Ranked 954)
 | King of Liberty City | 0.70% | ~84 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,023 (Ranked 178)  
-Completed: 83 (0.69%) (Ranked 198)  
+Completed: 84 (0.70%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -299,7 +299,7 @@ Completed: 83 (0.69%) (Ranked 198)
 | 2024-01-06 | 11,790 | 79 |
 | 2024-01-07 | 11,911 | 81 |
 | 2024-01-08 | 11,994 | 83 |
-| 2024-01-09 | 12,023 | 83 |
+| 2024-01-09 | 12,023 | 84 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

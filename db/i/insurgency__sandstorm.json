@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -4768,9 +4768,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 522182,
+  "EOS_Progressed": 522199,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4673,
+  "EOS_NewPlayers": 4665,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35123,6 +35123,11 @@
       "Time": "2024-01-09T11:04:50.4051591+00:00",
       "NumProgressed": 522182,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-09T12:05:06.0064664+00:00",
+      "NumProgressed": 522199,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -35158,7 +35163,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 15665
+      "UsersEstimate": 15666
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -35190,7 +35195,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20887
+      "UsersEstimate": 20888
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -35222,7 +35227,7 @@
       "Name": "Grounded",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 4177
+      "UsersEstimate": 4178
     },
     {
       "ID": "ACH_HIT_RUN",
@@ -35238,7 +35243,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20887
+      "UsersEstimate": 20888
     },
     {
       "ID": "ACH_JR_50",
@@ -35262,7 +35267,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15665
+      "UsersEstimate": 15666
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -35294,7 +35299,7 @@
       "Name": "Play to Win",
       "Percentage": 0.8,
       "XP": 80,
-      "UsersEstimate": 4177
+      "UsersEstimate": 4178
     },
     {
       "ID": "ACH_POINT_SHOOTING",
@@ -35302,7 +35307,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26109
+      "UsersEstimate": 26110
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -35366,7 +35371,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15665
+      "UsersEstimate": 15666
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -35390,7 +35395,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 15665
+      "UsersEstimate": 15666
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -35398,7 +35403,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26109
+      "UsersEstimate": 26110
     },
     {
       "ID": "ACH_WET_FEET",
@@ -35406,22 +35411,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20887
+      "UsersEstimate": 20888
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 522182,
+      "Progressed": 522199,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2024-01-09T10:58:06.7287536+00:00",
-  "LastChanged_Achievements": "2024-01-09T11:04:50.4051577+00:00",
+  "LastChanged_Achievements": "2024-01-09T12:05:06.0064662+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.2421506+00:00",
-  "LastUpdate_Ratings": "2024-01-09T10:58:06.7287541+00:00",
-  "LastUpdate_Achievements": "2024-01-09T11:04:50.4053007+00:00"
+  "LastUpdate_Ratings": "2024-01-09T11:58:13.9101929+00:00",
+  "LastUpdate_Achievements": "2024-01-09T12:05:06.0066295+00:00"
 }

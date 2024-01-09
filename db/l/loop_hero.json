@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 575,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-03-04T18:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -5626,10 +5626,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4313,
       "NumberOfAwardsMax": 497
+    },
+    {
+      "Time": "2024-01-09T11:57:36.6769177+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4315,
+      "NumberOfAwardsMax": 497
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4313,
+  "NumberOfAwards": 4315,
   "NumberOfAwardsMax": 497,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -5685,7 +5691,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 487
+      "Count": 489
     },
     {
       "Text": "This game has a Creative Community",
@@ -5705,8 +5711,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2024-01-08T04:02:46.3954768+00:00",
+  "LastChanged": "2024-01-09T11:57:36.6769175+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:35.5849932+00:00",
-  "LastUpdate_Ratings": "2024-01-09T10:57:27.2436451+00:00",
-  "LastUpdate_Achievements": "2024-01-09T11:04:01.6428585+00:00"
+  "LastUpdate_Ratings": "2024-01-09T11:57:36.6769181+00:00",
+  "LastUpdate_Achievements": "2024-01-09T12:04:16.9235491+00:00"
 }

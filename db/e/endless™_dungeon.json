@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1521,
+  "EOS_Progressed": 1522,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3350,6 +3350,11 @@
       "Time": "2024-01-09T04:05:13.5873697+00:00",
       "NumProgressed": 1521,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T12:05:40.6899558+00:00",
+      "NumProgressed": 1522,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3394,7 +3399,7 @@
       "Name": "Blobmeister",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -3442,7 +3447,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -3450,7 +3455,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -3538,7 +3543,7 @@
       "Name": "Long Live Rock",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -3601,14 +3606,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1521,
+      "Progressed": 1522,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-09T11:05:25.0182543+00:00",
+  "LastChanged_Achievements": "2024-01-09T12:05:40.6899553+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:32.4570132+00:00",
-  "LastUpdate_Ratings": "2024-01-09T10:57:57.6881728+00:00",
-  "LastUpdate_Achievements": "2024-01-09T11:05:25.0182931+00:00"
+  "LastUpdate_Ratings": "2024-01-09T11:58:04.9457914+00:00",
+  "LastUpdate_Achievements": "2024-01-09T12:05:40.6899934+00:00"
 }

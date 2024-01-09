@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2791,
+  "EOS_Progressed": 2794,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7584,6 +7584,11 @@
       "Time": "2024-01-09T11:10:26.6474421+00:00",
       "NumProgressed": 2791,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T12:10:22.4958565+00:00",
+      "NumProgressed": 2794,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7628,7 +7633,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "achievement_14",
@@ -7700,7 +7705,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "achievement_22",
@@ -7738,9 +7743,9 @@
       "ID": "achievement_26",
       "SetID": "271ol84",
       "Name": "Together we can rule the galaxy",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 307
     },
     {
       "ID": "achievement_27",
@@ -7772,7 +7777,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "achievement_30",
@@ -7812,7 +7817,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "achievement_35",
@@ -7820,7 +7825,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2400
+      "UsersEstimate": 2403
     },
     {
       "ID": "achievement_36",
@@ -7836,7 +7841,7 @@
       "Name": "Off to a good start",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1703
+      "UsersEstimate": 1704
     },
     {
       "ID": "achievement_38",
@@ -7844,7 +7849,7 @@
       "Name": "Survivor",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "achievement_39",
@@ -7860,7 +7865,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "achievement_40",
@@ -7868,7 +7873,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1453
     },
     {
       "ID": "achievement_41",
@@ -7900,7 +7905,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "achievement_45",
@@ -8076,7 +8081,7 @@
       "Name": "A cunning warrior",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "achievement_8",
@@ -8099,13 +8104,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2791,
+      "Progressed": 2794,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2791,
+      "Progressed": 2794,
       "Completed": 1
     }
   ],
@@ -8113,8 +8118,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-09T11:10:26.6474418+00:00",
+  "LastChanged_Achievements": "2024-01-09T12:10:22.4958562+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-09T10:58:50.4777264+00:00",
-  "LastUpdate_Achievements": "2024-01-09T11:10:26.6475487+00:00"
+  "LastUpdate_Ratings": "2024-01-09T11:58:57.2312855+00:00",
+  "LastUpdate_Achievements": "2024-01-09T12:10:22.4959504+00:00"
 }

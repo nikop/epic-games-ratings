@@ -3,7 +3,7 @@
   "Name": "GRIME",
   "ProductSlug": "grime",
   "Ranking_Rating": 449,
-  "Ranking_Popularity": 430,
+  "Ranking_Popularity": 431,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 259,
@@ -1787,12 +1787,18 @@
       "Rating": 4.59,
       "NumberOfAwards": 450,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-01-09T11:58:53.9034615+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 452,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 450,
+  "NumberOfAwards": 452,
   "NumberOfAwardsMax": 62,
-  "MaxAwardTitle": "Unique Visuals",
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
@@ -1804,7 +1810,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 60
+      "Count": 62
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1849,9 +1855,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167366,
+  "EOS_Progressed": 167378,
   "EOS_Completed": 452,
-  "EOS_NewPlayers": 1281,
+  "EOS_NewPlayers": 1286,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22419,6 +22425,11 @@
       "Time": "2024-01-09T11:04:00.6799286+00:00",
       "NumProgressed": 167366,
       "NumCompleted": 452
+    },
+    {
+      "Time": "2024-01-09T12:04:15.952677+00:00",
+      "NumProgressed": 167378,
+      "NumCompleted": 452
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22455,7 +22466,7 @@
       "Name": "Assimilation",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -22503,7 +22514,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3347
+      "UsersEstimate": 3348
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -22511,7 +22522,7 @@
       "Name": "Hunt Down",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -22591,7 +22602,7 @@
       "Name": "Celebration",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -22599,7 +22610,7 @@
       "Name": "Inevitable",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -22798,21 +22809,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 166949,
+      "Progressed": 166961,
       "Completed": 1256
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167366,
+      "Progressed": 167378,
       "Completed": 452
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-01-08T13:58:19.8124136+00:00",
-  "LastChanged_Achievements": "2024-01-09T11:04:00.6799281+00:00",
+  "LastChanged": "2024-01-09T11:58:53.9034613+00:00",
+  "LastChanged_Achievements": "2024-01-09T12:04:15.9526765+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-09T10:58:47.2053063+00:00",
-  "LastUpdate_Achievements": "2024-01-09T11:04:00.6800498+00:00"
+  "LastUpdate_Ratings": "2024-01-09T11:58:53.9034619+00:00",
+  "LastUpdate_Achievements": "2024-01-09T12:04:15.9528113+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 407,
+  "EOS_Progressed": 408,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -1776,6 +1776,11 @@
       "Time": "2024-01-09T11:09:03.9086386+00:00",
       "NumProgressed": 407,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T12:08:58.8145438+00:00",
+      "NumProgressed": 408,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1793,9 +1798,9 @@
       "ID": "ETUA_AloneInTheDark",
       "SetID": "65jc0ap",
       "Name": "Alone In The Dark",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 53
     },
     {
       "ID": "ETUA_AlonewithThem",
@@ -1883,7 +1888,7 @@
       "Name": "Forced to Kill",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -2106,7 +2111,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 407,
+      "Progressed": 408,
       "Completed": 1
     }
   ],
@@ -2114,8 +2119,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2024-01-09T11:09:03.9086383+00:00",
+  "LastChanged_Achievements": "2024-01-09T12:08:58.8145429+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:36.5425929+00:00",
-  "LastUpdate_Ratings": "2024-01-09T10:57:31.692402+00:00",
-  "LastUpdate_Achievements": "2024-01-09T11:09:03.9086809+00:00"
+  "LastUpdate_Ratings": "2024-01-09T11:57:41.5019325+00:00",
+  "LastUpdate_Achievements": "2024-01-09T12:08:58.8145877+00:00"
 }

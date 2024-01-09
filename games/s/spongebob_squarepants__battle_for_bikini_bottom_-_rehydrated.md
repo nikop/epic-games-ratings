@@ -1,13 +1,13 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.65 (Ranked 321)  
+Rating: 4.65 (Ranked 320)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 21.00% | ~185 |
-| Sponge Smasher | 21.00% | ~185 |
+| Spatula Seeker | 21.00% | ~186 |
+| Sponge Smasher | 21.00% | ~186 |
 | Jellyfish Jam | 20.00% | ~177 |
 | Jellyfishing | 16.00% | ~141 |
 | Time For Tutorial | 13.00% | ~115 |
@@ -39,8 +39,8 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~9 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 883 (Ranked 302)  
-Completed: 8 (0.91%) (Ranked 181)  
+Progressed: 884 (Ranked 302)  
+Completed: 8 (0.90%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,7 +66,7 @@ Completed: 8 (0.91%) (Ranked 181)
 | 2024-01-06 | 780 | 7 |
 | 2024-01-07 | 836 | 7 |
 | 2024-01-08 | 877 | 8 |
-| 2024-01-09 | 883 | 8 |
+| 2024-01-09 | 884 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 497)  
 Sum: 36 (Ranked 529)  

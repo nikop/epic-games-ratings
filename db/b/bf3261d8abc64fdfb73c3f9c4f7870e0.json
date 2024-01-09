@@ -4,8 +4,8 @@
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
   "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
     "PcReleaseDate": "2018-03-22T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 121,
+  "EOS_Progressed": 122,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -579,6 +579,11 @@
       "Time": "2024-01-09T07:10:00.4837537+00:00",
       "NumProgressed": 121,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T12:09:38.0796882+00:00",
+      "NumProgressed": 122,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-11T10:03:42.0552866+00:00",
@@ -687,7 +692,7 @@
       "Name": "Egomaniac",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_feng_is_my_choise",
@@ -831,7 +836,7 @@
       "Name": "The monk",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_most_dangerous_man",
@@ -990,14 +995,14 @@
     {
       "ID": "bngbnfb",
       "IsBase": true,
-      "Progressed": 121,
+      "Progressed": 122,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2024-01-09T11:09:42.6031069+00:00",
+  "LastChanged_Achievements": "2024-01-09T12:09:38.0796877+00:00",
   "LastUpdate_AppInfo": "2024-01-03T15:56:53.5899494+00:00",
-  "LastUpdate_Ratings": "2024-01-09T11:02:40.7790749+00:00",
-  "LastUpdate_Achievements": "2024-01-09T11:09:42.6031499+00:00"
+  "LastUpdate_Ratings": "2024-01-09T12:02:52.2460695+00:00",
+  "LastUpdate_Achievements": "2024-01-09T12:09:38.0797622+00:00"
 }

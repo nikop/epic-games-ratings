@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -79,7 +79,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2103,
+  "EOS_Progressed": 2104,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 0,
@@ -4029,6 +4029,11 @@
       "Time": "2024-01-09T10:11:04.3812317+00:00",
       "NumProgressed": 2103,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T12:10:16.8848099+00:00",
+      "NumProgressed": 2104,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4160,7 +4165,7 @@
       "Name": "Essence Blow",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_17",
@@ -4200,7 +4205,7 @@
       "Name": "Big Bazar",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_22",
@@ -4272,7 +4277,7 @@
       "Name": "Alchemist",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_31",
@@ -4327,7 +4332,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2103,
+      "Progressed": 2104,
       "Completed": 3
     }
   ],
@@ -4335,8 +4340,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-08T15:00:05.2060054+00:00",
-  "LastChanged_Achievements": "2024-01-09T11:10:21.0067216+00:00",
+  "LastChanged_Achievements": "2024-01-09T12:10:16.8848095+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-09T10:59:38.7728241+00:00",
-  "LastUpdate_Achievements": "2024-01-09T11:10:21.0067583+00:00"
+  "LastUpdate_Ratings": "2024-01-09T11:59:45.6902161+00:00",
+  "LastUpdate_Achievements": "2024-01-09T12:10:16.884882+00:00"
 }

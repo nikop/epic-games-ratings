@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2139,
+  "EOS_Progressed": 2140,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -4010,6 +4010,11 @@
       "Time": "2024-01-09T09:10:04.0969401+00:00",
       "NumProgressed": 2139,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-09T12:10:09.2926955+00:00",
+      "NumProgressed": 2140,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -4021,7 +4026,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 2096
+      "UsersEstimate": 2097
     },
     {
       "ID": "booty_call",
@@ -4045,7 +4050,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 2053
+      "UsersEstimate": 2054
     },
     {
       "ID": "hold_my_beer",
@@ -4101,7 +4106,7 @@
       "Name": "Only Thyme Will Tell",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "planting_the_seed",
@@ -4140,7 +4145,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 2139,
+      "Progressed": 2140,
       "Completed": 12
     }
   ],
@@ -4148,8 +4153,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-09T11:10:13.5488797+00:00",
+  "LastChanged_Achievements": "2024-01-09T12:10:09.292695+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:20.6091046+00:00",
-  "LastUpdate_Ratings": "2024-01-09T10:59:29.2043443+00:00",
-  "LastUpdate_Achievements": "2024-01-09T11:10:13.5489307+00:00"
+  "LastUpdate_Ratings": "2024-01-09T11:59:36.03703+00:00",
+  "LastUpdate_Achievements": "2024-01-09T12:10:09.2927326+00:00"
 }

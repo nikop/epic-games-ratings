@@ -30,8 +30,8 @@
 | The Fix | 19.00% | ~22 |
 | Time | 18.00% | ~21 |
 | Bad Trip | 16.00% | ~18 |
+| Regrets | 16.00% | ~18 |
 | The Mountains, The Valleys | 16.00% | ~18 |
-| Regrets | 15.00% | ~17 |
 | Chase the Crow | 14.00% | ~16 |
 | The Accident | 12.00% | ~14 |
 | The Awakening | 12.00% | ~14 |

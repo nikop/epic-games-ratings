@@ -6,11 +6,11 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~7,093 |
-| Man of politics | 34.00% | ~6,029 |
+| Tattletale | 40.00% | ~7,094 |
+| Man of politics | 34.00% | ~6,030 |
 | Yet another secret | 33.00% | ~5,852 |
 | Friends of sorts | 32.00% | ~5,675 |
-| Let there be darkness | 31.00% | ~5,497 |
+| Let there be darkness | 31.00% | ~5,498 |
 | End of Book One | 29.00% | ~5,143 |
 | Wannabe knight | 23.00% | ~4,079 |
 | Garden of Eden | 23.00% | ~4,079 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~532 |
 | Boy of mystery | 2.00% | ~355 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,733 (Ranked 162)  
+Progressed: 17,734 (Ranked 162)  
 Completed: 125 (0.70%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 125 (0.70%) (Ranked 196)
 | 2024-01-06 | 17,677 | 125 |
 | 2024-01-07 | 17,708 | 125 |
 | 2024-01-08 | 17,727 | 125 |
-| 2024-01-09 | 17,733 | 125 |
+| 2024-01-09 | 17,734 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 326)  
 Sum: 200 (Ranked 418)  
