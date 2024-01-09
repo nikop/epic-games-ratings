@@ -316,7 +316,7 @@
 | 301 | [Road 96](games/r/road_96.md) | 4.66 | 0 | 583 |
 | 301 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 592 | 211 |
 | 301 | [Tavern Master](games/t/tavern_master.md) | 4.66 | 0 | 583 |
-| 301 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 287 | 268 |
+| 301 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 290 | 267 |
 | 301 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 6,073 | 67 |
 | 301 | [Trackmania](games/t/trackmania.md) | 4.66 | 4,308 | 86 |
 | 301 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 228 |
@@ -629,7 +629,7 @@
 | 612 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 666 | 199 |
 | 612 | [Rebel Cops](games/r/rebel_cops.md) | 4.50 | 0 | 583 |
 | 612 | [Solitairica](games/s/solitairica.md) | 4.50 | 89 | 394 |
-| 612 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 6,716 | 58 |
+| 612 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 6,872 | 58 |
 | 612 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.50 | 69 | 419 |
 | 612 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.50 | 3,731 | 94 |
 | 612 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.50 | 186 | 310 |
@@ -850,13 +850,13 @@
 | 840 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 270 | 274 |
 | 840 | [Tails Noir](games/b/backbone.md) | 4.34 | 0 | 583 |
 | 840 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.34 | 392 | 241 |
-| 851 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.33 | 0 | 583 |
-| 851 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.33 | 108 | 369 |
-| 851 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.33 | 0 | 583 |
-| 851 | [Filament](games/f/filament.md) | 4.33 | 584 | 215 |
-| 851 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 529 |
-| 851 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 583 |
-| 851 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.33 | 123 | 357 |
+| 840 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.34 | 123 | 357 |
+| 852 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.33 | 0 | 583 |
+| 852 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.33 | 108 | 369 |
+| 852 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.33 | 0 | 583 |
+| 852 | [Filament](games/f/filament.md) | 4.33 | 584 | 215 |
+| 852 | [Speed Brawl](games/s/speed_brawl.md) | 4.33 | 29 | 529 |
+| 852 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 583 |
 | 858 | [Ashen](games/a/ashen.md) | 4.32 | 0 | 583 |
 | 858 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.32 | 0 | 583 |
 | 858 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 0 | 583 |
@@ -924,23 +924,23 @@
 | 915 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 261 |
 | 923 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 4.25 | 0 | 583 |
 | 923 | [City of Brass](games/c/city_of_brass.md) | 4.25 | 0 | 583 |
-| 923 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 916 | 169 |
 | 923 | [Rise of Industry](games/r/rise_of_industry.md) | 4.25 | 0 | 583 |
 | 923 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 583 |
 | 923 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.25 | 0 | 583 |
 | 923 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 583 |
 | 923 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 24 | 554 |
-| 931 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 583 |
-| 931 | [Against All Odds](games/a/against_all_odds.md) | 4.24 | 0 | 583 |
-| 931 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 34 | 509 |
-| 931 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.24 | 22 | 566 |
-| 931 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.24 | 0 | 583 |
-| 931 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,175 | 150 |
-| 931 | [Hellpoint](games/h/hellpoint.md) | 4.24 | 0 | 583 |
-| 931 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.24 | 0 | 583 |
-| 931 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 468 |
-| 931 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 583 |
-| 931 | [The Fall](games/t/the_fall.md) | 4.24 | 0 | 583 |
+| 930 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 583 |
+| 930 | [Against All Odds](games/a/against_all_odds.md) | 4.24 | 0 | 583 |
+| 930 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 34 | 509 |
+| 930 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.24 | 22 | 566 |
+| 930 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.24 | 0 | 583 |
+| 930 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,175 | 150 |
+| 930 | [Hellpoint](games/h/hellpoint.md) | 4.24 | 0 | 583 |
+| 930 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 916 | 169 |
+| 930 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.24 | 0 | 583 |
+| 930 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 468 |
+| 930 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 583 |
+| 930 | [The Fall](games/t/the_fall.md) | 4.24 | 0 | 583 |
 | 942 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.23 | 0 | 583 |
 | 942 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.23 | 191 | 305 |
 | 942 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 163 |
@@ -1079,8 +1079,8 @@
 | 1,075 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 583 |
 | 1,075 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.85 | 0 | 583 |
 | 1,079 | [Poker Club](games/p/poker_club.md) | 3.84 | 65 | 422 |
-| 1,079 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.84 | 104 | 374 |
-| 1,081 | [To The Rescue](games/t/to_the_rescue.md) | 3.83 | 0 | 583 |
+| 1,080 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.83 | 104 | 374 |
+| 1,080 | [To The Rescue](games/t/to_the_rescue.md) | 3.83 | 0 | 583 |
 | 1,082 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.82 | 0 | 583 |
 | 1,082 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.82 | 0 | 583 |
 | 1,084 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.81 | 0 | 583 |
