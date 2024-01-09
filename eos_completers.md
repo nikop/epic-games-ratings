@@ -56,11 +56,11 @@
 | 54 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.52% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.44% |
-| 57 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.32% |
+| 57 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.31% |
 | 58 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.10% |
 | 59 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.04% |
 | 60 | [Sonic Origins](games/s/sonic_origins.md) | 7.01% |
-| 61 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.98% |
+| 61 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.97% |
 | 62 | [Scorn](games/s/scorn.md) | 6.87% |
 | 63 | [Anna's Quest](games/a/anna's_quest.md) | 6.45% |
 | 63 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.45% |
@@ -134,7 +134,7 @@
 | 132 | [Night Book](games/n/night_book.md) | 2.27% |
 | 133 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.22% |
 | 134 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
-| 135 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.11% |
+| 135 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.10% |
 | 136 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 2.08% |
 | 137 | [Serial Cleaners](games/s/serial_cleaners.md) | 1.98% |
 | 138 | [Somerville](games/s/somerville.md) | 1.95% |
@@ -184,8 +184,8 @@
 | 181 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.91% |
 | 181 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.91% |
 | 184 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.90% |
-| 184 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.90% |
 | 184 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.90% |
+| 186 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.89% |
 | 187 | [A Musical Story](games/a/a_musical_story.md) | 0.88% |
 | 188 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 0.83% |
 | 189 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
@@ -235,11 +235,11 @@
 | 231 | [Wildermyth](games/w/wildermyth.md) | 0.44% |
 | 234 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.43% |
 | 235 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.41% |
-| 236 | [Darksiders III](games/d/darksiders_iii.md) | 0.40% |
 | 236 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.40% |
 | 236 | [Tchia](games/t/tchia.md) | 0.40% |
-| 239 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.39% |
-| 239 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.39% |
+| 238 | [Darksiders III](games/d/darksiders_iii.md) | 0.39% |
+| 238 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.39% |
+| 238 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.39% |
 | 241 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.38% |
 | 242 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.37% |
 | 243 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.36% |

@@ -93,12 +93,12 @@
 | 91 | [Paladins](games/p/paladins.md) | 3,993 | 4.32 | 857 |
 | 92 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,938 | 4.27 | 901 |
 | 93 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 3,922 | 4.35 | 825 |
-| 94 | [Gloomhaven](games/g/gloomhaven.md) | 3,616 | 4.47 | 662 |
-| 95 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 3,568 | 4.50 | 611 |
+| 94 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 3,731 | 4.50 | 611 |
+| 95 | [Gloomhaven](games/g/gloomhaven.md) | 3,616 | 4.47 | 662 |
 | 96 | [Hades](games/h/hades.md) | 3,519 | 4.92 | 4 |
 | 97 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,448 | 4.76 | 130 |
 | 98 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,444 | 4.67 | 284 |
-| 99 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,432 | 4.57 | 496 |
+| 99 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,435 | 4.57 | 496 |
 | 100 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 3,296 | 4.50 | 611 |
 | 101 | [Gotham Knights](games/g/gotham_knights.md) | 3,157 | 4.19 | 971 |
 | 102 | [Among Us](games/a/among_us.md) | 3,011 | 4.56 | 507 |
@@ -271,7 +271,7 @@
 | 269 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 280 | 4.48 | 655 |
 | 269 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 280 | 4.83 | 56 |
 | 271 | [Sheltered](games/s/sheltered.md) | 279 | 4.41 | 751 |
-| 272 | [Overcooked! 2](games/o/overcooked!_2.md) | 273 | 4.71 | 201 |
+| 272 | [Overcooked! 2](games/o/overcooked!_2.md) | 275 | 4.71 | 201 |
 | 273 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 272 | 4.58 | 472 |
 | 274 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 270 | 4.44 | 704 |
 | 274 | [Roller Champions™](games/r/roller_champions™.md) | 270 | 4.34 | 839 |
@@ -335,10 +335,10 @@
 | 333 | [Night in the Woods](games/n/night_in_the_woods.md) | 147 | 4.73 | 178 |
 | 334 | [Atomicrops](games/a/atomicrops.md) | 144 | 4.86 | 30 |
 | 334 | [Returnal™](games/r/returnal™.md) | 144 | 4.61 | 398 |
-| 336 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 143 | 4.51 | 589 |
-| 336 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 143 | 4.77 | 116 |
-| 338 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 141 | 4.69 | 236 |
-| 338 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 141 | 4.36 | 816 |
+| 334 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 144 | 4.36 | 816 |
+| 337 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 143 | 4.51 | 589 |
+| 337 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 143 | 4.77 | 116 |
+| 339 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 141 | 4.69 | 236 |
 | 340 | [Alien: Isolation](games/a/alien__isolation.md) | 140 | 4.61 | 398 |
 | 340 | [while True: learn()](games/w/while_true__learn().md) | 140 | 4.51 | 589 |
 | 342 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 138 | 4.36 | 816 |
