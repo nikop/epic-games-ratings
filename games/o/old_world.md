@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 321)  
+Rating: 4.65 (Ranked 320)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,6 +15,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 1.00% | ~163 |
 | Architect | 1.00% | ~163 |
 | Enlightened | 1.00% | ~163 |
+| Fountainhead | 1.00% | ~163 |
 | Glorious | 1.00% | ~163 |
 | Good | 1.00% | ~163 |
 | Just | 1.00% | ~163 |
@@ -37,21 +38,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 1.00% | ~163 |
 | Trade Caravan | 1.00% | ~163 |
 | Brilliant | 0.90% | ~146 |
-| Fountainhead | 0.90% | ~146 |
 | Magnificent | 0.90% | ~146 |
+| Great Ziggurat | 0.90% | ~146 |
 | Ishtar Gate | 0.90% | ~146 |
 | Lighthouse | 0.90% | ~146 |
 | Christianity | 0.90% | ~146 |
 | Roman Paganism | 0.90% | ~146 |
 | Zoroastrianism | 0.90% | ~146 |
+| Wise | 0.80% | ~130 |
 | Able Difficulty | 0.80% | ~130 |
 | Apadana | 0.80% | ~130 |
-| Great Ziggurat | 0.80% | ~130 |
 | Learn to Play 2 | 0.80% | ~130 |
 | Carthaginian Paganism | 0.80% | ~130 |
 | Regicide | 0.70% | ~114 |
 | Great | 0.70% | ~114 |
-| Wise | 0.70% | ~114 |
 | Legendary Cities | 0.70% | ~114 |
 | Furious Family | 0.70% | ~114 |
 | Acropolis | 0.70% | ~114 |
@@ -69,29 +69,29 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.50% | ~81 |
 | Beloved | 0.50% | ~81 |
 | Intercessor | 0.50% | ~81 |
+| Mighty | 0.50% | ~81 |
 | Good Difficulty | 0.50% | ~81 |
 | Champions | 0.50% | ~81 |
 | Sages | 0.50% | ~81 |
+| Statesmen | 0.50% | ~81 |
 | Learn to Play 3 | 0.50% | ~81 |
+| Power to the People | 0.50% | ~81 |
 | Mythology | 0.50% | ~81 |
 | Points Victory | 0.50% | ~81 |
 | Win a Single Player Game | 0.50% | ~81 |
 | Conqueror | 0.40% | ~65 |
-| Mighty | 0.40% | ~65 |
 | Ready | 0.40% | ~65 |
 | Subjugator | 0.40% | ~65 |
 | Victorious | 0.40% | ~65 |
 | Landowners | 0.40% | ~65 |
 | Patrons | 0.40% | ~65 |
 | Riders | 0.40% | ~65 |
-| Statesmen | 0.40% | ~65 |
 | Traders | 0.40% | ~65 |
 | Hittite Iron | 0.40% | ~65 |
 | Hagia Sophia | 0.40% | ~65 |
 | Temple of Solomon | 0.40% | ~65 |
 | Pantheon | 0.40% | ~65 |
 | Greece | 0.40% | ~65 |
-| Power to the People | 0.40% | ~65 |
 | Persian Paganism | 0.40% | ~65 |
 | Economic Reform | 0.40% | ~65 |
 | Military Prestige | 0.40% | ~65 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,273 (Ranked 168)  
+Progressed: 16,274 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
-| 2024-01-09 | 16,273 | 5 |
+| 2024-01-09 | 16,274 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 286)  
 Sum: 1,918 (Ranked 223)  

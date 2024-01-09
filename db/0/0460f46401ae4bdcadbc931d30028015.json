@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1533,9 +1533,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 9628,
+  "EOS_Progressed": 9638,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1701,
+  "EOS_NewPlayers": 1703,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10648,6 +10648,11 @@
       "Time": "2024-01-09T05:06:55.7978033+00:00",
       "NumProgressed": 9628,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T06:05:40.6924126+00:00",
+      "NumProgressed": 9638,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -10668,7 +10673,7 @@
       "Name": "Stud Finder",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 3081
+      "UsersEstimate": 3084
     },
     {
       "ID": "achievement_11",
@@ -10676,7 +10681,7 @@
       "Name": "Big Spender",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1542
     },
     {
       "ID": "achievement_12",
@@ -10684,7 +10689,7 @@
       "Name": "Dealmaker",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 2311
+      "UsersEstimate": 2313
     },
     {
       "ID": "achievement_13",
@@ -10692,7 +10697,7 @@
       "Name": "MVP",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 2696
+      "UsersEstimate": 2699
     },
     {
       "ID": "achievement_14",
@@ -10700,7 +10705,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 3081
+      "UsersEstimate": 3084
     },
     {
       "ID": "achievement_15",
@@ -10748,7 +10753,7 @@
       "Name": "Unblockable",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "achievement_20",
@@ -10756,7 +10761,7 @@
       "Name": "Saw It Coming",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 5584
+      "UsersEstimate": 5590
     },
     {
       "ID": "achievement_21",
@@ -10764,7 +10769,7 @@
       "Name": "Clean The Pile",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "achievement_3",
@@ -10788,7 +10793,7 @@
       "Name": "Change of Scenery",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1542
     },
     {
       "ID": "achievement_6",
@@ -10796,7 +10801,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 2311
+      "UsersEstimate": 2313
     },
     {
       "ID": "achievement_7",
@@ -10812,7 +10817,7 @@
       "Name": "Bragging Rights",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2410
     },
     {
       "ID": "achievement_9",
@@ -10820,14 +10825,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1157
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 9628,
+      "Progressed": 9638,
       "Completed": 0
     }
   ],
@@ -10835,8 +10840,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-09T03:57:08.9989003+00:00",
-  "LastChanged_Achievements": "2024-01-09T05:06:55.7978027+00:00",
+  "LastChanged_Achievements": "2024-01-09T06:05:40.6924122+00:00",
   "LastUpdate_AppInfo": "2024-01-04T09:57:17.1124999+00:00",
-  "LastUpdate_Ratings": "2024-01-09T04:57:08.8359026+00:00",
-  "LastUpdate_Achievements": "2024-01-09T05:06:55.7978682+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:57:04.6754127+00:00",
+  "LastUpdate_Achievements": "2024-01-09T06:05:40.6924974+00:00"
 }

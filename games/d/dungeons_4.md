@@ -24,7 +24,7 @@ Rating: 4.75 (Ranked 147)
 | Minions, Minions! | 56.00% | ~418 |
 | Hard Work | 55.00% | ~410 |
 | The Big Eaty | 55.00% | ~410 |
-| “… like son” | 52.00% | ~388 |
+| “… like son” | 53.00% | ~395 |
 | YOU SHALL NOT PASS! | 51.00% | ~380 |
 | The Cathedral of Light | 49.00% | ~366 |
 | Shame! Shame! Shame! | 48.00% | ~358 |

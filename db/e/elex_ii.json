@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1779,9 +1779,9 @@
       "ID": "HELPTHORHILD",
       "SetID": "a1angca",
       "Name": "Pass A38",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "KILL200MONSTER",
@@ -1859,8 +1859,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-09T05:07:02.3895299+00:00",
+  "LastChanged_Achievements": "2024-01-09T06:05:45.672102+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:22.4582393+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:00:14.6630626+00:00",
-  "LastUpdate_Achievements": "2024-01-09T05:07:02.3895827+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:59:19.1107412+00:00",
+  "LastUpdate_Achievements": "2024-01-09T06:05:45.672148+00:00"
 }

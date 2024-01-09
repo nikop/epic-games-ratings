@@ -12,10 +12,10 @@ Number of Ratings: 116  (23.09.2022)
 | Increased Vigor | 59.00% | ~300 |
 | Fight Fire with Fire | 57.00% | ~290 |
 | Increased Capacity | 54.00% | ~275 |
-| Just the start | 48.00% | ~244 |
+| Just the start | 49.00% | ~249 |
 | Perfect Storm | 46.00% | ~234 |
 | All That Glitters | 45.00% | ~229 |
-| Enhance! | 41.00% | ~209 |
+| Enhance! | 42.00% | ~214 |
 | One Of the Chosen | 39.00% | ~199 |
 | Devil's in the Details | 39.00% | ~199 |
 | Throne Potato | 39.00% | ~199 |
@@ -51,8 +51,8 @@ Number of Ratings: 116  (23.09.2022)
 | Demon Keeper | 11.00% | ~56 |
 | Humanitarian | 9.00% | ~46 |
 | Soul Reaper | 8.00% | ~41 |
+| Made of Sterner Stuff | 7.00% | ~36 |
 | My Evil Twin | 6.00% | ~31 |
-| Made of Sterner Stuff | 6.00% | ~31 |
 | Balance in all things | 5.00% | ~25 |
 | Keeper of the Bonfire | 5.00% | ~25 |
 | Keeper of the Sky | 5.00% | ~25 |

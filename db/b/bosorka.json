@@ -4,8 +4,8 @@
   "ProductSlug": "bosorka-c0e6b6",
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
     "PcReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 138,
+  "EOS_Progressed": 139,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -476,6 +476,11 @@
       "Time": "2024-01-08T18:04:35.093288+00:00",
       "NumProgressed": 138,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T06:04:01.6473661+00:00",
+      "NumProgressed": 139,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -503,7 +508,7 @@
       "Name": "This is just the beginning...",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "RUNE_BOOSTHEALTHCOMBO",
@@ -519,7 +524,7 @@
       "Name": "Time is on my side",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "RUNE_CURSEDCOINS",
@@ -533,7 +538,7 @@
       "ID": "RUNE_CURSEDCOMPANIONSHIELD",
       "SetID": "9433p49",
       "Name": "Runes collector",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 100,
       "UsersEstimate": 63
     },
@@ -551,15 +556,15 @@
       "Name": "First time, yes?",
       "Percentage": 58,
       "XP": 55,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "RUNE_DROPFIRSTAIDKIT",
       "SetID": "9433p49",
       "Name": "Witch\u0027s duty",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 55,
-      "UsersEstimate": 84
+      "UsersEstimate": 83
     },
     {
       "ID": "RUNE_DROPRESETSPELL",
@@ -567,7 +572,7 @@
       "Name": "Devil\u0027s dozen",
       "Percentage": 25,
       "XP": 55,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "RUNE_LIGHTNINGSTUN",
@@ -599,14 +604,14 @@
       "Name": "Kind heart",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     }
   ],
   "AchievementSets": [
     {
       "ID": "9433p49",
       "IsBase": true,
-      "Progressed": 138,
+      "Progressed": 139,
       "Completed": 0
     }
   ],
@@ -614,8 +619,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2024-01-09T05:04:44.5069739+00:00",
+  "LastChanged_Achievements": "2024-01-09T06:04:01.6473649+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:07.5850357+00:00",
-  "LastUpdate_Ratings": "2024-01-09T04:59:17.7739192+00:00",
-  "LastUpdate_Achievements": "2024-01-09T05:04:44.5069922+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:58:36.7001719+00:00",
+  "LastUpdate_Achievements": "2024-01-09T06:04:01.6473758+00:00"
 }

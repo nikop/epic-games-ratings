@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -250,9 +250,9 @@
       "Count": 128
     }
   ],
-  "EOS_Progressed": 43831,
+  "EOS_Progressed": 43837,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 514,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -28890,6 +28890,11 @@
       "Time": "2024-01-09T04:03:30.6112876+00:00",
       "NumProgressed": 43831,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-09T06:03:33.7647327+00:00",
+      "NumProgressed": 43837,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -28901,7 +28906,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6575
+      "UsersEstimate": 6576
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -28909,7 +28914,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9205
+      "UsersEstimate": 9206
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -28933,7 +28938,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -28949,7 +28954,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -29093,7 +29098,7 @@
       "Name": "Vroll With It",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_27_VROLL_QUICK_KILL",
@@ -29101,7 +29106,7 @@
       "Name": "Swift of Foot, Keen of Blade",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_28_FINISHED_GAME_NO_MANA_USE",
@@ -29132,7 +29137,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 43831,
+      "Progressed": 43837,
       "Completed": 30
     }
   ],
@@ -29140,8 +29145,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2024-01-09T05:04:08.0349093+00:00",
+  "LastChanged_Achievements": "2024-01-09T06:03:33.7647323+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:02.3058441+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:03:12.7172078+00:00",
-  "LastUpdate_Achievements": "2024-01-09T05:04:08.0351117+00:00"
+  "LastUpdate_Ratings": "2024-01-09T06:02:52.3105908+00:00",
+  "LastUpdate_Achievements": "2024-01-09T06:03:33.7648781+00:00"
 }

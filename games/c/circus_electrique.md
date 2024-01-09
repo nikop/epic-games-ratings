@@ -26,7 +26,7 @@ Number of Ratings: 22  (23.09.2022)
 | King of District 2 | 13.00% | ~66 |
 | Time Travel! | 12.00% | ~61 |
 | Marketing Manager | 11.00% | ~56 |
-| Circus Versus Circus | 8.00% | ~41 |
+| Circus Versus Circus | 9.00% | ~46 |
 | King of District 3 | 8.00% | ~41 |
 | Club Member | 7.00% | ~36 |
 | Hundred Percent Second | 7.00% | ~36 |

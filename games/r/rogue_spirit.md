@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Silent Assassin | 48.00% | ~14 |
-| Liberator | 31.00% | ~9 |
-| Parry Mastery | 28.00% | ~8 |
-| Famine Defeated | 21.00% | ~6 |
-| Perceptive | 21.00% | ~6 |
-| Gold Collector | 14.00% | ~4 |
-| Possess Mastery | 14.00% | ~4 |
+| Silent Assassin | 50.00% | ~15 |
+| Liberator | 30.00% | ~9 |
+| Parry Mastery | 30.00% | ~9 |
+| Famine Defeated | 20.00% | ~6 |
+| Perceptive | 20.00% | ~6 |
+| Gold Collector | 13.00% | ~4 |
+| Possess Mastery | 13.00% | ~4 |
 | Master Assassin | 7.00% | ~2 |
 | Body Blast Master | 3.00% | ~1 |
 | Body Spawn Master | 3.00% | ~1 |
@@ -65,7 +65,7 @@
 | Sprinter Champion | 0.00% | ~0 |
 | Thunderstorm Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29 (Ranked 600)  
+Progressed: 30 (Ranked 596)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,6 +81,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2023-12-19 | 26 | 0 |
 | 2023-12-21 | 27 | 0 |
 | 2024-01-06 | 29 | 0 |
+| 2024-01-09 | 30 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

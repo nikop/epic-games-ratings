@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 90,
   "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2586,9 +2586,9 @@
       "ID": "ach_main09journey_completed",
       "SetID": "4hg22ll",
       "Name": "\u201C\u2026 like son\u201D",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 395
     },
     {
       "ID": "ach_main09journey_killheroes",
@@ -2883,8 +2883,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-08T17:59:07.5685099+00:00",
-  "LastChanged_Achievements": "2024-01-09T05:10:03.5805217+00:00",
+  "LastChanged_Achievements": "2024-01-09T06:09:00.6111134+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-09T04:59:04.9309733+00:00",
-  "LastUpdate_Achievements": "2024-01-09T05:10:03.5805877+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:58:27.6375446+00:00",
+  "LastUpdate_Achievements": "2024-01-09T06:09:00.6111927+00:00"
 }

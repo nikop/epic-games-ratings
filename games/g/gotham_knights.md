@@ -5,39 +5,39 @@ Rating: 4.19 (Ranked 971)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,096 |
-| Har, Har, Har, Very Funny | 34.00% | ~27,946 |
-| Loose Ends | 33.00% | ~27,124 |
-| To the Victor Go the Spoils | 27.00% | ~22,192 |
-| Knighthood | 26.00% | ~21,370 |
-| Get ReQ'd | 24.00% | ~19,726 |
-| Whispered Words | 24.00% | ~19,726 |
-| The Batman Family | 22.00% | ~18,082 |
-| Lock and Key | 22.00% | ~18,082 |
-| Something in the Clay | 20.00% | ~16,439 |
-| Quartzer Life Crisis | 20.00% | ~16,439 |
-| Working Hard or Harley Working? | 20.00% | ~16,439 |
-| Unstoppable Force | 20.00% | ~16,439 |
-| Bad Apples in Every Orchard | 20.00% | ~16,439 |
-| Snow Problem | 19.00% | ~15,617 |
-| The Show Mud Go On | 17.00% | ~13,973 |
-| From Inside Gotham's Walls | 17.00% | ~13,973 |
-| Protector of Gotham | 16.00% | ~13,151 |
-| In Your Element | 15.00% | ~12,329 |
-| Universal Health Scare | 15.00% | ~12,329 |
-| Rock and a Hard Place | 14.00% | ~11,507 |
-| Cooldown | 14.00% | ~11,507 |
-| Voiceless | 14.00% | ~11,507 |
-| Shock Til They Drop | 13.00% | ~10,685 |
-| Seeking Asylum | 13.00% | ~10,685 |
-| End of an Era | 12.00% | ~9,863 |
-| Not On My Watch | 12.00% | ~9,863 |
-| Bulldozed | 12.00% | ~9,863 |
-| Gotham Knight | 12.00% | ~9,863 |
-| Gotham City Confidential | 11.00% | ~9,041 |
-| Out of Their League | 9.00% | ~7,397 |
-| Drone You Out | 9.00% | ~7,397 |
-| Solid Alibi | 8.00% | ~6,575 |
+| First Step Into the Knight | 50.00% | ~41,100 |
+| Har, Har, Har, Very Funny | 34.00% | ~27,948 |
+| Loose Ends | 33.00% | ~27,126 |
+| To the Victor Go the Spoils | 27.00% | ~22,194 |
+| Knighthood | 26.00% | ~21,372 |
+| Get ReQ'd | 24.00% | ~19,728 |
+| Whispered Words | 24.00% | ~19,728 |
+| The Batman Family | 22.00% | ~18,084 |
+| Lock and Key | 22.00% | ~18,084 |
+| Something in the Clay | 20.00% | ~16,440 |
+| Quartzer Life Crisis | 20.00% | ~16,440 |
+| Working Hard or Harley Working? | 20.00% | ~16,440 |
+| Unstoppable Force | 20.00% | ~16,440 |
+| Bad Apples in Every Orchard | 20.00% | ~16,440 |
+| Snow Problem | 19.00% | ~15,618 |
+| The Show Mud Go On | 17.00% | ~13,974 |
+| From Inside Gotham's Walls | 17.00% | ~13,974 |
+| Protector of Gotham | 16.00% | ~13,152 |
+| In Your Element | 15.00% | ~12,330 |
+| Universal Health Scare | 15.00% | ~12,330 |
+| Rock and a Hard Place | 14.00% | ~11,508 |
+| Cooldown | 14.00% | ~11,508 |
+| Voiceless | 14.00% | ~11,508 |
+| Shock Til They Drop | 13.00% | ~10,686 |
+| Seeking Asylum | 13.00% | ~10,686 |
+| End of an Era | 12.00% | ~9,864 |
+| Not On My Watch | 12.00% | ~9,864 |
+| Bulldozed | 12.00% | ~9,864 |
+| Gotham Knight | 12.00% | ~9,864 |
+| Gotham City Confidential | 11.00% | ~9,042 |
+| Out of Their League | 9.00% | ~7,398 |
+| Drone You Out | 9.00% | ~7,398 |
+| Solid Alibi | 8.00% | ~6,576 |
 | Fusion Expert | 7.00% | ~5,754 |
 | Family Meeting | 6.00% | ~4,932 |
 | A Worthy Successor | 6.00% | ~4,932 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 971)
 | The Cold, the Bad and the Ugly | 0.30% | ~157 |
 | It's Nice to Be Wanted | 0.20% | ~105 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,193 (Ranked 110)  
+Progressed: 82,201 (Ranked 110)  
 Completed: 132 (0.16%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,14 +331,14 @@ Completed: 132 (0.16%) (Ranked 283)
 | 2024-01-06 | 81,792 | 132 |
 | 2024-01-07 | 81,989 | 132 |
 | 2024-01-08 | 82,151 | 132 |
-| 2024-01-09 | 82,193 | 132 |
+| 2024-01-09 | 82,201 | 132 |
 ## Awards
-Max (Great Boss Battles): 3,157  (Ranked 101)  
-Sum: 5,395 (Ranked 142)  
-Diff (max vs sum): -41  
+Max (Great Boss Battles): 3,167  (Ranked 101)  
+Sum: 5,405 (Ranked 141)  
+Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 3,157 |
+| This game has Great Boss Battles | 3,167 |
 | This game has Diverse Characters | 289 |
 | This game is Great for Beginners | 286 |
 | This game is Relaxing | 283 |
@@ -668,3 +668,4 @@ Diff (max vs sum): -41
 | 2024-01-06 | 4.19 | 3,146 | 5,374 |
 | 2024-01-07 | 4.19 | 3,146 | 5,381 |
 | 2024-01-08 | 4.19 | 3,157 | 5,395 |
+| 2024-01-09 | 4.19 | 3,167 | 5,405 |

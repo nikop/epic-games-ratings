@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -709,7 +709,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473585,
+  "EOS_Progressed": 473587,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 0,
@@ -27964,6 +27964,11 @@
       "Time": "2024-01-09T04:10:09.9657223+00:00",
       "NumProgressed": 473585,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-09T06:09:56.0119068+00:00",
+      "NumProgressed": 473587,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -27991,7 +27996,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113660
+      "UsersEstimate": 113661
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -28015,7 +28020,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47358
+      "UsersEstimate": 47359
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -28063,7 +28068,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312566
+      "UsersEstimate": 312567
     },
     {
       "ID": "achievement_story_landa",
@@ -28095,7 +28100,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118396
+      "UsersEstimate": 118397
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -28127,7 +28132,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 52094
+      "UsersEstimate": 52095
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -28159,7 +28164,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 161019
+      "UsersEstimate": 161020
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -28399,7 +28404,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208377
+      "UsersEstimate": 208378
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -28431,7 +28436,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184698
+      "UsersEstimate": 184699
     },
     {
       "ID": "achievement_win_run_hard",
@@ -28606,21 +28611,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17519,
+      "Progressed": 17521,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473585,
+      "Progressed": 473587,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-09T05:11:15.8749539+00:00",
+  "LastChanged_Achievements": "2024-01-09T06:09:56.0119066+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:31.2733774+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:00:36.1743864+00:00",
-  "LastUpdate_Achievements": "2024-01-09T05:11:15.8751788+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:59:34.3831717+00:00",
+  "LastUpdate_Achievements": "2024-01-09T06:09:56.0120775+00:00"
 }

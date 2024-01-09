@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18690,
+  "EOS_Progressed": 18692,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 657,
+  "EOS_NewPlayers": 656,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -16787,6 +16787,11 @@
       "Time": "2024-01-09T05:08:49.2887792+00:00",
       "NumProgressed": 18690,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-09T06:06:35.9877364+00:00",
+      "NumProgressed": 18692,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16831,7 +16836,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3364
+      "UsersEstimate": 3365
     },
     {
       "ID": "14",
@@ -16839,7 +16844,7 @@
       "Name": "Doctor Approved",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "15",
@@ -16871,7 +16876,7 @@
       "Name": "Bottoms up!",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "19",
@@ -17055,7 +17060,7 @@
       "Name": "Zen Master",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "34",
@@ -17078,13 +17083,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18690,
+      "Progressed": 18692,
       "Completed": 61
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4644,
+      "Progressed": 4646,
       "Completed": 1265
     }
   ],
@@ -17092,8 +17097,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-08T14:59:15.8971936+00:00",
-  "LastChanged_Achievements": "2024-01-09T05:08:49.2887786+00:00",
+  "LastChanged_Achievements": "2024-01-09T06:06:35.9877359+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-09T04:59:35.8385293+00:00",
-  "LastUpdate_Achievements": "2024-01-09T05:08:49.2888925+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:58:50.9320595+00:00",
+  "LastUpdate_Achievements": "2024-01-09T06:06:35.9878511+00:00"
 }

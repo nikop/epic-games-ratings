@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -3529,10 +3529,10 @@
       "Count": 262
     }
   ],
-  "EOS_Progressed": 89845,
-  "EOS_Completed": 182,
-  "EOS_NewPlayers": 1070,
-  "EOS_NewCompleters": 4,
+  "EOS_Progressed": 89847,
+  "EOS_Completed": 183,
+  "EOS_NewPlayers": 1069,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -33054,6 +33054,11 @@
       "Time": "2024-01-09T04:04:17.1024244+00:00",
       "NumProgressed": 89845,
       "NumCompleted": 182
+    },
+    {
+      "Time": "2024-01-09T06:04:21.868442+00:00",
+      "NumProgressed": 89847,
+      "NumCompleted": 183
     }
   ],
   "TotalAchievements": 30,
@@ -33065,7 +33070,7 @@
       "Name": "First Journey",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 12578
+      "UsersEstimate": 12579
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -33089,7 +33094,7 @@
       "Name": "New Home",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 20664
+      "UsersEstimate": 20665
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -33161,7 +33166,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 28750
+      "UsersEstimate": 28751
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -33169,7 +33174,7 @@
       "Name": "Spirit",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 8984
+      "UsersEstimate": 8985
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -33193,7 +33198,7 @@
       "Name": "Beagle 2",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 20664
+      "UsersEstimate": 20665
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -33225,7 +33230,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 10781
+      "UsersEstimate": 10782
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -33241,7 +33246,7 @@
       "Name": "Final touch",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 30547
+      "UsersEstimate": 30548
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -33304,15 +33309,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 89845,
-      "Completed": 182
+      "Progressed": 89847,
+      "Completed": 183
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2024-01-08T23:02:04.249651+00:00",
-  "LastChanged_Achievements": "2024-01-09T05:05:11.5593217+00:00",
+  "LastChanged_Achievements": "2024-01-09T06:04:21.8684418+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.1589708+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:02:49.2602967+00:00",
-  "LastUpdate_Achievements": "2024-01-09T05:05:11.5595205+00:00"
+  "LastUpdate_Ratings": "2024-01-09T06:00:25.4544927+00:00",
+  "LastUpdate_Achievements": "2024-01-09T06:04:21.8685696+00:00"
 }

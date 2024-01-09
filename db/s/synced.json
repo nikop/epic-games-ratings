@@ -1725,9 +1725,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 85497,
+  "EOS_Progressed": 85507,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 3986,
+  "EOS_NewPlayers": 3975,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -16010,6 +16010,11 @@
       "Time": "2024-01-09T05:06:05.8684814+00:00",
       "NumProgressed": 85497,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-09T06:05:02.9794177+00:00",
+      "NumProgressed": 85507,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -16022,7 +16027,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 38474
+      "UsersEstimate": 38478
     },
     {
       "ID": "10",
@@ -16086,7 +16091,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 17099
+      "UsersEstimate": 17101
     },
     {
       "ID": "3",
@@ -16094,7 +16099,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 11970
+      "UsersEstimate": 11971
     },
     {
       "ID": "4",
@@ -16102,7 +16107,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7695
+      "UsersEstimate": 7696
     },
     {
       "ID": "5",
@@ -16126,7 +16131,7 @@
       "Name": "More Power to You",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 18809
+      "UsersEstimate": 18812
     },
     {
       "ID": "8",
@@ -16134,7 +16139,7 @@
       "Name": "Runs for Your Money",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "9",
@@ -16142,14 +16147,14 @@
       "Name": "Past Master",
       "Percentage": 0.3,
       "XP": 200,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     }
   ],
   "AchievementSets": [
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 85497,
+      "Progressed": 85507,
       "Completed": 66
     }
   ],
@@ -16157,8 +16162,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-09T02:21:58.0634593+00:00",
-  "LastChanged_Achievements": "2024-01-09T05:06:05.8684809+00:00",
+  "LastChanged_Achievements": "2024-01-09T06:05:02.9794173+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:51.8643288+00:00",
-  "LastUpdate_Ratings": "2024-01-09T04:57:25.014187+00:00",
-  "LastUpdate_Achievements": "2024-01-09T05:06:05.8685924+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:57:17.1780659+00:00",
+  "LastUpdate_Achievements": "2024-01-09T06:05:02.9795007+00:00"
 }

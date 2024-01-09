@@ -11,7 +11,7 @@
 | Roller Race | 40.00% | ~62 |
 | Born to Win | 38.00% | ~59 |
 | Welcome to Seoul | 38.00% | ~59 |
-| Stilesville Hidden Style | 33.00% | ~51 |
+| Stilesville Hidden Style | 34.00% | ~53 |
 | Creating New Trends | 26.00% | ~41 |
 | Best Gala Ever | 26.00% | ~41 |
 | Welcome to the The Stylin' Soiree | 26.00% | ~41 |

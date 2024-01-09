@@ -30,13 +30,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.40% | ~1,011 |
 | Exploring Port Nyanzaru | 0.40% | ~1,011 |
 | The Contagious Curse | 0.40% | ~1,011 |
-| Arcane Suppression | 0.40% | ~876 |
-| Welcome to the Vrocks | 0.40% | ~876 |
-| Misaligned in Sigil | 0.40% | ~876 |
-| Chaos Theory | 0.40% | ~876 |
-| When Tentacles Attack | 0.40% | ~876 |
-| Don't Lose Your Head | 0.40% | ~876 |
-| Mind Spike | 0.40% | ~876 |
+| Arcane Suppression | 0.40% | ~877 |
+| Welcome to the Vrocks | 0.40% | ~877 |
+| Misaligned in Sigil | 0.40% | ~877 |
+| Chaos Theory | 0.40% | ~877 |
+| When Tentacles Attack | 0.40% | ~877 |
+| Don't Lose Your Head | 0.40% | ~877 |
+| Mind Spike | 0.40% | ~877 |
 | Low Initiative | 0.30% | ~759 |
 | A Mysterious Summons | 0.30% | ~759 |
 | Building Trust | 0.30% | ~759 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,851 (Ranked 70)  
+Progressed: 252,855 (Ranked 70)  
 Completed: 2,605 (1.03%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -817,7 +817,7 @@ Completed: 2,605 (1.03%) (Ranked 174)
 | 2024-01-06 | 252,125 | 2,599 |
 | 2024-01-07 | 252,516 | 2,599 |
 | 2024-01-08 | 252,794 | 2,602 |
-| 2024-01-09 | 252,851 | 2,605 |
+| 2024-01-09 | 252,855 | 2,605 |
 ## Awards
 Max (Great for Beginners): 5,763  (Ranked 74)  
 Sum: 33,406 (Ranked 41)  

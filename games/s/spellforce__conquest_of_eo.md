@@ -21,7 +21,7 @@
 | Redecorating | 31.00% | ~41 |
 | The Circle | 31.00% | ~41 |
 | Bad JuJu | 24.00% | ~31 |
-| Friend of Sevenkeeps | 21.00% | ~28 |
+| Friend of Sevenkeeps | 22.00% | ~29 |
 | Slave to the rhythm | 20.00% | ~26 |
 | Castle Meldec | 20.00% | ~26 |
 | Sevenkeeps Seat of Kings | 18.00% | ~24 |

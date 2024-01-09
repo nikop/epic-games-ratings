@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -5897,9 +5897,9 @@
       "ID": "AC37",
       "SetID": "l4abp0",
       "Name": "Storm of Death",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 477
     },
     {
       "ID": "AC38",
@@ -5978,8 +5978,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-07T11:57:39.4406053+00:00",
-  "LastChanged_Achievements": "2024-01-09T05:04:05.5467302+00:00",
+  "LastChanged_Achievements": "2024-01-09T06:03:31.9530361+00:00",
   "LastUpdate_AppInfo": "2024-01-03T03:57:04.3699674+00:00",
-  "LastUpdate_Ratings": "2024-01-09T04:59:22.2291406+00:00",
-  "LastUpdate_Achievements": "2024-01-09T05:04:05.5467957+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:58:39.7407876+00:00",
+  "LastUpdate_Achievements": "2024-01-09T06:03:31.9530825+00:00"
 }

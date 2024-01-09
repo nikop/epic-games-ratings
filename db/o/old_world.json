@@ -2,13 +2,13 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 321,
+  "Ranking_Rating": 320,
   "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2232,9 +2232,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16273,
+  "EOS_Progressed": 16274,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19347,6 +19347,11 @@
       "Time": "2024-01-09T05:11:19.5402176+00:00",
       "NumProgressed": 16273,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-09T06:09:59.4004927+00:00",
+      "NumProgressed": 16274,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19796,9 +19801,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
       "SetID": "9201eeb",
       "Name": "Fountainhead",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 163
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GLORIOUS",
@@ -19916,9 +19921,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
       "SetID": "9201eeb",
       "Name": "Mighty",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
@@ -20036,9 +20041,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WISE",
       "SetID": "9201eeb",
       "Name": "Wise",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_COUNCIL_OF_MADNESS",
@@ -20252,9 +20257,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_STATESMEN",
       "SetID": "7l38kb8",
       "Name": "Statesmen",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_TRADERS",
@@ -20708,9 +20713,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
       "SetID": "9201eeb",
       "Name": "Great Ziggurat",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA",
@@ -21116,9 +21121,9 @@
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
       "SetID": "9201eeb",
       "Name": "Power to the People",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_PUNIC_WARS",
@@ -22221,21 +22226,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16273,
+      "Progressed": 16274,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16273,
+      "Progressed": 16274,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-09T05:02:49.0806012+00:00",
-  "LastChanged_Achievements": "2024-01-09T05:11:19.5402171+00:00",
+  "LastChanged_Achievements": "2024-01-09T06:09:59.4004922+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:02:49.0806018+00:00",
-  "LastUpdate_Achievements": "2024-01-09T05:11:19.5414494+00:00"
+  "LastUpdate_Ratings": "2024-01-09T06:00:25.3286178+00:00",
+  "LastUpdate_Achievements": "2024-01-09T06:09:59.4015247+00:00"
 }

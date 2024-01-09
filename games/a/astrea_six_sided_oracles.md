@@ -47,13 +47,13 @@
 | Behenian Hero | 4.00% | ~14 |
 | Lacertian Hero | 4.00% | ~14 |
 | Noctuan Hero | 4.00% | ~14 |
+| Purification Avatar | 3.00% | ~11 |
 | The Ardent Prince | 3.00% | ~11 |
 | The Distorted Sage | 3.00% | ~11 |
 | The Raging Skies | 3.00% | ~11 |
 | Astromancer | 2.00% | ~7 |
 | Critical Twist | 2.00% | ~7 |
 | Pocket Astrarium | 2.00% | ~7 |
-| Purification Avatar | 2.00% | ~7 |
 | Reflexive Mind | 2.00% | ~7 |
 | Sentinelphobic | 2.00% | ~7 |
 | The Abyssal Terror | 2.00% | ~7 |

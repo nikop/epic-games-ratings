@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -300,9 +300,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2537,
+  "EOS_Progressed": 2538,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -4540,6 +4540,11 @@
       "Time": "2024-01-09T02:29:23.9371315+00:00",
       "NumProgressed": 2537,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-09T06:04:01.8932978+00:00",
+      "NumProgressed": 2538,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4719,7 +4724,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ACHV_23",
@@ -4751,7 +4756,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 1979
+      "UsersEstimate": 1980
     },
     {
       "ID": "ACHV_27",
@@ -4791,7 +4796,7 @@
       "Name": "Where It All Began",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACHV_32",
@@ -4815,7 +4820,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ACHV_35",
@@ -4855,7 +4860,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "ACHV_40",
@@ -4879,7 +4884,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACHV_43",
@@ -4919,7 +4924,7 @@
       "Name": "Geronimo!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHV_48",
@@ -4951,7 +4956,7 @@
       "Name": "Homewrecker",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHV_52",
@@ -4983,7 +4988,7 @@
       "Name": "Plank of Wood",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHV_56",
@@ -5006,7 +5011,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2537,
+      "Progressed": 2538,
       "Completed": 13
     }
   ],
@@ -5014,8 +5019,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-07T10:02:57.9512677+00:00",
-  "LastChanged_Achievements": "2024-01-09T05:04:44.7455226+00:00",
+  "LastChanged_Achievements": "2024-01-09T06:04:01.8932976+00:00",
   "LastUpdate_AppInfo": "2024-01-06T17:57:07.4256179+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:03:09.4431666+00:00",
-  "LastUpdate_Achievements": "2024-01-09T05:04:44.7456174+00:00"
+  "LastUpdate_Ratings": "2024-01-09T06:02:50.0586235+00:00",
+  "LastUpdate_Achievements": "2024-01-09T06:04:01.8933491+00:00"
 }

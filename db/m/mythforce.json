@@ -854,7 +854,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6211,
+  "EOS_Progressed": 6212,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 1,
@@ -12869,6 +12869,11 @@
       "Time": "2024-01-09T01:55:35.0939718+00:00",
       "NumProgressed": 6211,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-09T06:05:44.4061252+00:00",
+      "NumProgressed": 6212,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12919,9 +12924,9 @@
       "ID": "MF_Ach_EverythingMustGo",
       "SetID": "9b9n573",
       "Name": "Everything Must Go!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 870
+      "UsersEstimate": 932
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -12937,7 +12942,7 @@
       "Name": "First Strike",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -12975,9 +12980,9 @@
       "ID": "MF_Ach_HorderBetterFasterStronger",
       "SetID": "9b9n573",
       "Name": "Horder Better Faster Stronger",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1056
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -13064,15 +13069,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6211,
+      "Progressed": 6212,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-09T05:07:00.6843026+00:00",
+  "LastChanged_Achievements": "2024-01-09T06:05:44.4061248+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:03:06.7206235+00:00",
-  "LastUpdate_Achievements": "2024-01-09T05:07:00.6844081+00:00"
+  "LastUpdate_Ratings": "2024-01-09T06:02:48.1852999+00:00",
+  "LastUpdate_Achievements": "2024-01-09T06:05:44.4061978+00:00"
 }

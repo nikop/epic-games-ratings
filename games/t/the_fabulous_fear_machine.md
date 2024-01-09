@@ -29,10 +29,10 @@
 | The bully | 15.00% | ~13 |
 | Kirlian's best disciple | 13.00% | ~12 |
 | Blessed antennas | 12.00% | ~11 |
+| Pulp! The Beyond | 11.00% | ~10 |
 | Blood Red Island | 10.00% | ~9 |
 | Bread and bocaua | 10.00% | ~9 |
 | Fanatacism is... poisonous | 10.00% | ~9 |
-| Pulp! The Beyond | 10.00% | ~9 |
 | The beast in the Oval Office | 9.00% | ~8 |
 | The adventurer | 9.00% | ~8 |
 | The scholar | 8.00% | ~7 |

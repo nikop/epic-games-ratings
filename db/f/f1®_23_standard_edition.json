@@ -2,13 +2,13 @@
   "ID": "b7773a08a6fa41e3a0fbc4c1e51c95a4",
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
-  "Ranking_Rating": 300,
+  "Ranking_Rating": 320,
   "Ranking_Popularity": 425,
-  "Ranking_PopularitySum": 353,
+  "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.66,
+  "Rating": 4.65,
   "RatingHistory": [
     {
       "Time": "2023-07-03T02:21:27.1613315+00:00",
@@ -1321,10 +1321,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 405,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2024-01-09T06:00:21.1270282+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 407,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 405,
+  "NumberOfAwards": 407,
   "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1368,7 +1374,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 38
+      "Count": 40
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1401,9 +1407,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 17042,
+  "EOS_Progressed": 17045,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2445,
+  "EOS_NewPlayers": 2444,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10936,6 +10942,11 @@
       "Time": "2024-01-09T05:05:59.0605831+00:00",
       "NumProgressed": 17042,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T06:04:57.9208979+00:00",
+      "NumProgressed": 17045,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -10980,7 +10991,7 @@
       "Name": "Crucial Combo",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2215
+      "UsersEstimate": 2216
     },
     {
       "ID": "achievement_0006",
@@ -10988,7 +10999,7 @@
       "Name": "Setting up for Success",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 11759
+      "UsersEstimate": 11761
     },
     {
       "ID": "achievement_0007",
@@ -10996,7 +11007,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 15508
+      "UsersEstimate": 15511
     },
     {
       "ID": "achievement_0008",
@@ -11004,7 +11015,7 @@
       "Name": "On the Top Step",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 13974
+      "UsersEstimate": 13977
     },
     {
       "ID": "achievement_0009",
@@ -11060,7 +11071,7 @@
       "Name": "Lightning Round the World",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     },
     {
       "ID": "achievement_0016",
@@ -11068,7 +11079,7 @@
       "Name": "Hitting a Season",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 4431
+      "UsersEstimate": 4432
     },
     {
       "ID": "achievement_0017",
@@ -11108,7 +11119,7 @@
       "Name": "Team Orders",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 11418
+      "UsersEstimate": 11420
     },
     {
       "ID": "achievement_0022",
@@ -11116,7 +11127,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 4090
+      "UsersEstimate": 4091
     },
     {
       "ID": "achievement_0023",
@@ -11124,7 +11135,7 @@
       "Name": "Sharing the Love",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 5453
+      "UsersEstimate": 5454
     },
     {
       "ID": "achievement_0024",
@@ -11204,7 +11215,7 @@
       "Name": "Engineer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 7669
+      "UsersEstimate": 7670
     },
     {
       "ID": "achievement_0034",
@@ -11284,7 +11295,7 @@
       "Name": "Familiar Faces",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6987
+      "UsersEstimate": 6988
     },
     {
       "ID": "achievement_0044",
@@ -11292,7 +11303,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5965
+      "UsersEstimate": 5966
     },
     {
       "ID": "achievement_0045",
@@ -11300,7 +11311,7 @@
       "Name": "Making History",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4090
+      "UsersEstimate": 4091
     },
     {
       "ID": "achievement_0046",
@@ -11308,7 +11319,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3238
+      "UsersEstimate": 3239
     },
     {
       "ID": "achievement_0047",
@@ -11339,16 +11350,16 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 17042,
+      "Progressed": 17045,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2024-01-09T00:00:23.923616+00:00",
-  "LastChanged_Achievements": "2024-01-09T05:05:59.0605826+00:00",
+  "LastChanged": "2024-01-09T06:00:21.127028+00:00",
+  "LastChanged_Achievements": "2024-01-09T06:04:57.9208975+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:15.2115068+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:02:42.4875883+00:00",
-  "LastUpdate_Achievements": "2024-01-09T05:05:59.060672+00:00"
+  "LastUpdate_Ratings": "2024-01-09T06:00:21.1270284+00:00",
+  "LastUpdate_Achievements": "2024-01-09T06:04:57.9209829+00:00"
 }

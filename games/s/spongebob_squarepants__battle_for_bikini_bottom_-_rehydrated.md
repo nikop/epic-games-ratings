@@ -1,7 +1,7 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.65 (Ranked 321)  
+Rating: 4.65 (Ranked 320)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -23,10 +23,10 @@ Number of Ratings: 76  (23.09.2022)
 | Toxic Terror | 8.00% | ~70 |
 | Hit Rock Bottom | 8.00% | ~70 |
 | Keep it Rolling | 7.00% | ~62 |
+| Robot encyclopedia | 6.00% | ~53 |
 | Are you ready now? | 6.00% | ~53 |
 | Hello, Bikini Bottom | 6.00% | ~53 |
 | Ultra Spatula Seeker | 6.00% | ~53 |
-| Robot encyclopedia | 5.00% | ~44 |
 | Ship Shape | 5.00% | ~44 |
 | The Small Does Not Rule | 4.00% | ~35 |
 | Shanghaied | 4.00% | ~35 |

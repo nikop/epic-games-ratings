@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 42,
   "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -2439,9 +2439,9 @@
       "ID": "CgkIgaGB2J0LEAIQAg",
       "SetID": "4ocea6d",
       "Name": "Viola Organista",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 165,
-      "UsersEstimate": 242
+      "UsersEstimate": 247
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -2478,8 +2478,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2024-01-09T05:09:53.1883294+00:00",
+  "LastChanged_Achievements": "2024-01-09T06:08:52.7507725+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:10.7268546+00:00",
-  "LastUpdate_Ratings": "2024-01-09T04:59:36.9250781+00:00",
-  "LastUpdate_Achievements": "2024-01-09T05:09:53.1883523+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:58:51.5571355+00:00",
+  "LastUpdate_Achievements": "2024-01-09T06:08:52.7507857+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
     "PcReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -732,9 +732,9 @@
       "ID": "Ach_BuyHut",
       "SetID": "4o5gjp0",
       "Name": "Pigeon",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "Ach_CallBeggarNothingToSell",
@@ -764,9 +764,9 @@
       "ID": "Ach_DiscoveryCatacombes",
       "SetID": "4o5gjp0",
       "Name": "A bottomless pit",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "Ach_DiscoveryCaverns",
@@ -947,8 +947,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2024-01-09T05:09:59.2575567+00:00",
+  "LastChanged_Achievements": "2024-01-09T06:08:57.3210258+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:04.3902526+00:00",
-  "LastUpdate_Ratings": "2024-01-09T04:59:09.0030218+00:00",
-  "LastUpdate_Achievements": "2024-01-09T05:09:59.2575848+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:58:30.6496291+00:00",
+  "LastUpdate_Achievements": "2024-01-09T06:08:57.3210544+00:00"
 }

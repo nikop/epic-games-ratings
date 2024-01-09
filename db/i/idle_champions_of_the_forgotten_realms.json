@@ -9415,9 +9415,9 @@
       "Count": 3633
     }
   ],
-  "EOS_Progressed": 252851,
+  "EOS_Progressed": 252855,
   "EOS_Completed": 2605,
-  "EOS_NewPlayers": 3357,
+  "EOS_NewPlayers": 3334,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39300,6 +39300,11 @@
       "Time": "2024-01-09T05:11:19.6691955+00:00",
       "NumProgressed": 252851,
       "NumCompleted": 2605
+    },
+    {
+      "Time": "2024-01-09T06:09:59.8561733+00:00",
+      "NumProgressed": 252855,
+      "NumCompleted": 2605
     }
   ],
   "TotalAchievements": 546,
@@ -43583,7 +43588,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "objective_completed_1352",
@@ -43591,7 +43596,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "objective_completed_1557",
@@ -43607,7 +43612,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "objective_completed_1562",
@@ -43623,7 +43628,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "objective_completed_598",
@@ -43639,7 +43644,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "objective_completed_678",
@@ -43663,7 +43668,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "objective_completed_865",
@@ -43671,28 +43676,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219125,
+      "Progressed": 219129,
       "Completed": 4144
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 252851,
+      "Progressed": 252855,
       "Completed": 2605
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-09T03:57:34.2958529+00:00",
-  "LastChanged_Achievements": "2024-01-09T05:11:19.669195+00:00",
+  "LastChanged_Achievements": "2024-01-09T06:09:59.8561729+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-09T04:57:45.1036198+00:00",
-  "LastUpdate_Achievements": "2024-01-09T05:11:19.671696+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:57:32.5381917+00:00",
+  "LastUpdate_Achievements": "2024-01-09T06:09:59.8585901+00:00"
 }

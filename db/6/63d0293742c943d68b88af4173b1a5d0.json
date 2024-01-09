@@ -4,8 +4,8 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 705,
+  "EOS_Progressed": 706,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2284,6 +2284,11 @@
       "Time": "2024-01-09T05:08:38.034707+00:00",
       "NumProgressed": 705,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T06:06:27.6215668+00:00",
+      "NumProgressed": 706,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2310,9 +2315,9 @@
       "ID": "5",
       "SetID": "5pi96jj",
       "Name": "What\u0027s Cooking?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 64
     },
     {
       "ID": "6",
@@ -2368,7 +2373,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "Remake_005",
@@ -2384,7 +2389,7 @@
       "Name": "Attempted Vehicular Infanticide",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Remake_007",
@@ -2392,7 +2397,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "Remake_008",
@@ -2408,7 +2413,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Remake_010",
@@ -2519,14 +2524,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 705,
+      "Progressed": 706,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-09T05:08:38.0347066+00:00",
+  "LastChanged_Achievements": "2024-01-09T06:06:27.6215665+00:00",
   "LastUpdate_AppInfo": "2024-01-09T02:21:36.6517683+00:00",
-  "LastUpdate_Ratings": "2024-01-09T04:57:36.5318591+00:00",
-  "LastUpdate_Achievements": "2024-01-09T05:08:38.0347389+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:57:25.3567602+00:00",
+  "LastUpdate_Achievements": "2024-01-09T06:06:27.6215959+00:00"
 }

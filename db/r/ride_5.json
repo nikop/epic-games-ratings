@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -45,7 +45,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3467,
+  "EOS_Progressed": 3468,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
@@ -8495,6 +8495,11 @@
       "Time": "2024-01-09T05:03:57.3260067+00:00",
       "NumProgressed": 3467,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T06:03:25.7941511+00:00",
+      "NumProgressed": 3468,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8507,7 +8512,7 @@
       "Name": "First Love",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -8515,7 +8520,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1456
+      "UsersEstimate": 1457
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -8523,7 +8528,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -8539,7 +8544,7 @@
       "Name": "Restored and Ready",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -8577,9 +8582,9 @@
       "ID": "ML_ACHIEVEMENT_10",
       "SetID": "c7hf6a4",
       "Name": "We\u0027re Going to Need a Bigger Garage",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 936
+      "UsersEstimate": 902
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -8595,7 +8600,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -8683,7 +8688,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -8715,7 +8720,7 @@
       "Name": "Clean Race",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1525
+      "UsersEstimate": 1526
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -8763,7 +8768,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -8811,7 +8816,7 @@
       "Name": "Champagne Spray",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -8898,7 +8903,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3467,
+      "Progressed": 3468,
       "Completed": 0
     }
   ],
@@ -8906,8 +8911,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-02T17:58:34.6110096+00:00",
-  "LastChanged_Achievements": "2024-01-09T05:03:57.3260062+00:00",
+  "LastChanged_Achievements": "2024-01-09T06:03:25.7941507+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.6681713+00:00",
-  "LastUpdate_Ratings": "2024-01-09T04:57:27.1480049+00:00",
-  "LastUpdate_Achievements": "2024-01-09T05:03:57.3261125+00:00"
+  "LastUpdate_Ratings": "2024-01-09T05:57:18.7019725+00:00",
+  "LastUpdate_Achievements": "2024-01-09T06:03:25.7942382+00:00"
 }

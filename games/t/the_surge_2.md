@@ -5,8 +5,8 @@ Rating: 4.26 (Ranked 914)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 78.00% | ~1,979 |
-| Don't I Know You...? | 75.00% | ~1,903 |
+| Rigged And Ready | 78.00% | ~1,980 |
+| Don't I Know You...? | 75.00% | ~1,904 |
 | Jailbreak | 64.00% | ~1,624 |
 | HEADSHOT! | 37.00% | ~939 |
 | Suited and Booted | 37.00% | ~939 |
@@ -19,8 +19,8 @@ Rating: 4.26 (Ranked 914)
 | Luminary | 22.00% | ~558 |
 | True Survivor | 21.00% | ~533 |
 | It's a Trap | 21.00% | ~533 |
-| Offensive Defense | 20.00% | ~507 |
-| Shocking | 20.00% | ~507 |
+| Offensive Defense | 20.00% | ~508 |
+| Shocking | 20.00% | ~508 |
 | Unforeseeable Consequences | 19.00% | ~482 |
 | Court Martial | 18.00% | ~457 |
 | Clean Cut | 18.00% | ~457 |
@@ -31,8 +31,8 @@ Rating: 4.26 (Ranked 914)
 | Bad Dog | 13.00% | ~330 |
 | Risk Tolerant | 13.00% | ~330 |
 | What A Catchy Song | 13.00% | ~330 |
-| Where It All Began | 12.00% | ~304 |
-| Sorry, Didn't See You There | 12.00% | ~304 |
+| Where It All Began | 12.00% | ~305 |
+| Sorry, Didn't See You There | 12.00% | ~305 |
 | Corrupted Beauty | 11.00% | ~279 |
 | Marked For Success | 11.00% | ~279 |
 | Stimulating The Local Economy | 10.00% | ~254 |
@@ -50,9 +50,9 @@ Rating: 4.26 (Ranked 914)
 | Counter-Sniper | 5.00% | ~127 |
 | Shrimp Cocktail | 5.00% | ~127 |
 | Juiced Up | 5.00% | ~127 |
-| Geronimo! | 4.00% | ~101 |
-| Homewrecker | 4.00% | ~101 |
-| Plank of Wood | 4.00% | ~101 |
+| Geronimo! | 4.00% | ~102 |
+| Homewrecker | 4.00% | ~102 |
+| Plank of Wood | 4.00% | ~102 |
 | Gotta Craft 'em All | 3.00% | ~76 |
 | Own Medicine | 2.00% | ~51 |
 | It Lives! It Sniffs! It Conquers! | 2.00% | ~51 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 914)
 | Three Birds With One Stone | 1.00% | ~25 |
 | The Easy Way Out | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,537 (Ranked 236)  
+Progressed: 2,538 (Ranked 236)  
 Completed: 13 (0.51%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 13 (0.51%) (Ranked 220)
 | 2024-01-06 | 2,499 | 13 |
 | 2024-01-07 | 2,519 | 13 |
 | 2024-01-08 | 2,534 | 13 |
-| 2024-01-09 | 2,537 | 13 |
+| 2024-01-09 | 2,538 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
