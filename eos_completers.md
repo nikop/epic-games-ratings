@@ -6,7 +6,7 @@
 | 1 | [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 100.00% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.19% |
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
-| 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 41.74% |
+| 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 42.15% |
 | 8 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 9 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.89% |
 | 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 38.67% |
@@ -72,7 +72,7 @@
 | 70 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.11% |
 | 71 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.78% |
 | 72 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 73 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.95% |
+| 73 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.93% |
 | 74 | [Bugsnax](games/b/bugsnax.md) | 4.89% |
 | 74 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.89% |
 | 76 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.76% |
@@ -123,9 +123,9 @@
 | 120 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.70% |
 | 122 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.65% |
 | 123 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.63% |
-| 124 | [Mega City Force](games/m/mega_city_police.md) | 2.56% |
-| 125 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 125 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.50% |
+| 124 | [Mega City Force](games/m/mega_city_police.md) | 2.50% |
+| 124 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 124 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.50% |
 | 127 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.46% |
 | 128 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.43% |
 | 129 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.41% |
@@ -134,8 +134,8 @@
 | 132 | [Night Book](games/n/night_book.md) | 2.27% |
 | 133 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.22% |
 | 134 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
-| 135 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.10% |
-| 136 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 2.08% |
+| 135 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.08% |
+| 135 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 2.08% |
 | 137 | [Serial Cleaners](games/s/serial_cleaners.md) | 1.98% |
 | 138 | [Somerville](games/s/somerville.md) | 1.95% |
 | 139 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
@@ -174,7 +174,7 @@
 | 172 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.07% |
 | 173 | [Lemon Cake](games/l/lemon_cake.md) | 1.05% |
 | 174 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
-| 175 | [Sable](games/s/sable.md) | 1.02% |
+| 175 | [Sable](games/s/sable.md) | 1.01% |
 | 176 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.98% |
 | 177 | [Colossal Cave](games/c/colossal_cave.md) | 0.95% |
 | 177 | [Trifox](games/t/trifox.md) | 0.95% |
@@ -283,17 +283,17 @@
 | 279 | [Going Medieval](games/g/going_medieval.md) | 0.18% |
 | 282 | [Against the Storm](games/a/against_the_storm.md) | 0.17% |
 | 283 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 0.16% |
+| 283 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.16% |
 | 283 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 283 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 283 | [Scathe](games/s/scathe.md) | 0.16% |
-| 287 | [Blanc](games/b/blanc.md) | 0.15% |
-| 287 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.15% |
-| 287 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
-| 287 | [Lost Ruins](games/l/lost_ruins.md) | 0.15% |
-| 287 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
-| 287 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 0.15% |
-| 287 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.15% |
-| 287 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.15% |
+| 288 | [Blanc](games/b/blanc.md) | 0.15% |
+| 288 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
+| 288 | [Lost Ruins](games/l/lost_ruins.md) | 0.15% |
+| 288 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
+| 288 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 0.15% |
+| 288 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.15% |
+| 288 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.15% |
 | 295 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.14% |
 | 295 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.14% |
 | 295 | [RAILGRADE](games/r/railgrade.md) | 0.14% |
