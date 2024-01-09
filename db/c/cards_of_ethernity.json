@@ -2,12 +2,12 @@
   "ID": "0d4ad7c5cc184e1c8b9d5165798c5bbc",
   "Name": "Aether TCG",
   "ProductSlug": "cards-of-ethernity-420f51",
-  "Ranking_Rating": 130,
+  "Ranking_Rating": 147,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.76,
+  "Rating": 4.75,
   "RatingHistory": [
     {
       "Time": "2023-04-26T23:56:57.8493283+00:00",
@@ -89,6 +89,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-09T03:58:50.6836336+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -107,8 +113,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T23:56:57.847601+00:00",
   "FirstSeenRating": "2023-04-26T23:56:57.849328+00:00",
-  "LastChanged": "2024-01-04T16:01:52.7586895+00:00",
+  "LastChanged": "2024-01-09T03:58:50.6836334+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:24.0760482+00:00",
-  "LastUpdate_Ratings": "2024-01-09T02:59:02.147125+00:00",
-  "LastUpdate_Achievements": "2024-01-09T03:04:14.209998+00:00"
+  "LastUpdate_Ratings": "2024-01-09T03:58:50.683634+00:00",
+  "LastUpdate_Achievements": "2024-01-09T04:03:59.2790216+00:00"
 }

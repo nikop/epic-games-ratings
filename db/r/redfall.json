@@ -5,9 +5,9 @@
   "Ranking_Rating": 1092,
   "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 561,
-  "Ranking_EOS_Progress": 242,
+  "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -381,9 +381,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2317,
+  "EOS_Progressed": 2319,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4231,6 +4231,11 @@
       "Time": "2024-01-08T23:06:59.9148831+00:00",
       "NumProgressed": 2317,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T04:05:32.1642572+00:00",
+      "NumProgressed": 2319,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4466,7 +4471,7 @@
       "Name": "ICU",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "Achievement_031",
@@ -4490,7 +4495,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "Achievement_034",
@@ -4578,7 +4583,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "Achievement_046",
@@ -4769,7 +4774,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2317,
+      "Progressed": 2319,
       "Completed": 0
     }
   ],
@@ -4777,8 +4782,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
-  "LastChanged_Achievements": "2024-01-09T03:05:59.1016841+00:00",
+  "LastChanged_Achievements": "2024-01-09T04:05:32.1642568+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-09T02:59:59.6645223+00:00",
-  "LastUpdate_Achievements": "2024-01-09T03:05:59.101769+00:00"
+  "LastUpdate_Ratings": "2024-01-09T03:59:42.9904886+00:00",
+  "LastUpdate_Achievements": "2024-01-09T04:05:32.1643444+00:00"
 }

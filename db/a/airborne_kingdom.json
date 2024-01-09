@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7760,
+  "EOS_Progressed": 7761,
   "EOS_Completed": 59,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
@@ -6858,6 +6858,11 @@
       "Time": "2024-01-09T00:06:29.2124017+00:00",
       "NumProgressed": 7760,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-09T04:06:34.3070488+00:00",
+      "NumProgressed": 7761,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -6973,7 +6978,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -7037,7 +7042,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -7077,22 +7082,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7760,
+      "Progressed": 7761,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-09T03:08:30.2627349+00:00",
+  "LastChanged_Achievements": "2024-01-09T04:06:34.3070483+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:05.4838483+00:00",
-  "LastUpdate_Ratings": "2024-01-09T03:03:29.3526658+00:00",
-  "LastUpdate_Achievements": "2024-01-09T03:08:30.2627994+00:00"
+  "LastUpdate_Ratings": "2024-01-09T04:03:18.3573725+00:00",
+  "LastUpdate_Achievements": "2024-01-09T04:06:34.3070854+00:00"
 }

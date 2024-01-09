@@ -29,10 +29,10 @@ Number of Ratings: 756  (23.09.2022)
 | Dress Code | 0.10% | ~293 |
 | Customizer | 0.10% | ~293 |
 | I know the Rules | 0.10% | ~293 |
-| Catomic Bomb | 0.10% | ~11 |
-| Terraformer | 0.10% | ~11 |
-| The Captain | 0.10% | ~11 |
-| Did It for the Dowry | 0.10% | ~11 |
+| Catomic Bomb | 0.10% | ~12 |
+| Terraformer | 0.10% | ~12 |
+| The Captain | 0.10% | ~12 |
+| Did It for the Dowry | 0.10% | ~12 |
 | Feel the Power | 0.00% | ~0 |
 | Funko Town | 0.00% | ~0 |
 | Master of Attacks | 0.00% | ~0 |
@@ -46,7 +46,7 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 293,336 (Ranked 63)  
+Progressed: 293,348 (Ranked 63)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 292,393 | 0 |
 | 2024-01-07 | 292,915 | 0 |
 | 2024-01-08 | 293,289 | 0 |
-| 2024-01-09 | 293,336 | 0 |
+| 2024-01-09 | 293,348 | 0 |
 ## Awards
 Max (Great for Beginners): 213  (Ranked 294)  
 Sum: 1,646 (Ranked 234)  

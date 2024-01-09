@@ -34,11 +34,11 @@ Number of Ratings: 292  (23.09.2022)
 | Grand Master | 1.00% | ~11 |
 | Versatile Wielder | 0.90% | ~10 |
 | Together For Her | 0.90% | ~10 |
+| Killing Spree | 0.60% | ~7 |
 | Cleave | 0.60% | ~7 |
 | Death To Diplomacy | 0.50% | ~5 |
 | Unlimited Power! | 0.50% | ~5 |
 | Coming Through! | 0.50% | ~5 |
-| Killing Spree | 0.50% | ~5 |
 | Get Over Here! | 0.50% | ~5 |
 | Barbecue | 0.40% | ~4 |
 | Fully Charged | 0.30% | ~3 |

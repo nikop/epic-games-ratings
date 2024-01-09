@@ -5,10 +5,10 @@ Rating: 4.21 (Ranked 953)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 5.00% | ~17,156 |
-| The touch of Chaos | 5.00% | ~17,156 |
-| A powerful aura was here | 3.00% | ~10,293 |
-| Let's raise the stakes!! | 2.00% | ~6,862 |
+| May the Torchbearer light our way | 5.00% | ~17,157 |
+| The touch of Chaos | 5.00% | ~17,157 |
+| A powerful aura was here | 3.00% | ~10,294 |
+| Let's raise the stakes!! | 2.00% | ~6,863 |
 | Rumors are true | 1.00% | ~3,431 |
 | We'll be careful | 1.00% | ~3,431 |
 | Pride is a sin, young Knight | 1.00% | ~3,431 |
@@ -24,7 +24,7 @@ Rating: 4.21 (Ranked 953)
 | This is the end | 0.50% | ~1,716 |
 | We can choose to fight | 0.50% | ~1,716 |
 | I took a risk | 0.50% | ~1,716 |
-| Their fate is sealed | 0.40% | ~1,372 |
+| Their fate is sealed | 0.40% | ~1,373 |
 | Not even from this world | 0.30% | ~1,029 |
 | No damsels in distress | 0.20% | ~686 |
 | Chaos be damned! | 0.20% | ~686 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 953)
 | Something... unnatural | 0.10% | ~343 |
 | We strike as one | 0.10% | ~343 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 343,112 (Ranked 59)  
+Progressed: 343,135 (Ranked 59)  
 Completed: 7 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 7 (0.00%) (Ranked 395)
 | 2024-01-06 | 342,038 | 7 |
 | 2024-01-07 | 342,630 | 7 |
 | 2024-01-08 | 343,058 | 7 |
-| 2024-01-09 | 343,112 | 7 |
+| 2024-01-09 | 343,135 | 7 |
 ## Awards
 Max (Great Boss Battles): 79  (Ranked 404)  
 Sum: 79 (Ranked 481)  

@@ -2263,9 +2263,9 @@
       "Count": 115
     }
   ],
-  "EOS_Progressed": 293336,
+  "EOS_Progressed": 293348,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3314,
+  "EOS_NewPlayers": 3313,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32503,6 +32503,11 @@
       "Time": "2024-01-09T03:04:45.4041283+00:00",
       "NumProgressed": 293336,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T04:04:26.7738763+00:00",
+      "NumProgressed": 293348,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -32754,7 +32759,7 @@
       "Name": "Catomic Bomb",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -32762,7 +32767,7 @@
       "Name": "Terraformer",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -32770,7 +32775,7 @@
       "Name": "The Captain",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -32794,7 +32799,7 @@
       "Name": "Did It for the Dowry",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -32825,21 +32830,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 293336,
+      "Progressed": 293348,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 11495,
+      "Progressed": 11507,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2024-01-08T23:03:33.1366636+00:00",
-  "LastChanged_Achievements": "2024-01-09T03:04:45.4041276+00:00",
+  "LastChanged_Achievements": "2024-01-09T04:04:26.7738759+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:59:02.0619191+00:00",
-  "LastUpdate_Ratings": "2024-01-09T03:03:31.8687118+00:00",
-  "LastUpdate_Achievements": "2024-01-09T03:04:45.4043255+00:00"
+  "LastUpdate_Ratings": "2024-01-09T04:03:20.5096384+00:00",
+  "LastUpdate_Achievements": "2024-01-09T04:04:26.7740209+00:00"
 }

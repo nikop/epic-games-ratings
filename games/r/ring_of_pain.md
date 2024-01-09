@@ -67,7 +67,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Antivenom | 0.40% | ~971 |
 | Snake Sneak | 0.40% | ~971 |
 | The Long Run | 0.40% | ~971 |
-| Who Needs Luck? | 0.40% | ~16 |
+| Who Needs Luck? | 0.40% | ~17 |
 | Achievement Hunter | 0.30% | ~728 |
 | Challenge Increases | 0.30% | ~728 |
 | New Game+ | 0.30% | ~728 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,644 (Ranked 73)  
+Progressed: 242,647 (Ranked 73)  
 Completed: 304 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,7 +409,7 @@ Completed: 304 (0.13%) (Ranked 298)
 | 2024-01-06 | 242,507 | 304 |
 | 2024-01-07 | 242,574 | 304 |
 | 2024-01-08 | 242,637 | 304 |
-| 2024-01-09 | 242,644 | 304 |
+| 2024-01-09 | 242,647 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 137)  
 Sum: 11,788 (Ranked 89)  

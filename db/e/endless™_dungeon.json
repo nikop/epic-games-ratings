@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1520,
+  "EOS_Progressed": 1521,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3345,6 +3345,11 @@
       "Time": "2024-01-09T02:31:14.7376293+00:00",
       "NumProgressed": 1520,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T04:05:13.5873697+00:00",
+      "NumProgressed": 1521,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3397,7 +3402,7 @@
       "Name": "Unblurred Lines",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
@@ -3443,9 +3448,9 @@
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
       "SetID": "9991201",
       "Name": "Exhaustive Explorer",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 410
+      "UsersEstimate": 395
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -3453,7 +3458,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -3461,7 +3466,7 @@
       "Name": "Obsessively Thorough",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
@@ -3557,7 +3562,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -3596,14 +3601,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1520,
+      "Progressed": 1521,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-09T03:05:38.0101933+00:00",
+  "LastChanged_Achievements": "2024-01-09T04:05:13.5873694+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:32.4570132+00:00",
-  "LastUpdate_Ratings": "2024-01-09T02:57:46.0786226+00:00",
-  "LastUpdate_Achievements": "2024-01-09T03:05:38.0102623+00:00"
+  "LastUpdate_Ratings": "2024-01-09T03:57:44.8535391+00:00",
+  "LastUpdate_Achievements": "2024-01-09T04:05:13.5873976+00:00"
 }

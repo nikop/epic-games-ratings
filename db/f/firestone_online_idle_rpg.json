@@ -3,11 +3,11 @@
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 1028,
-  "Ranking_Popularity": 482,
+  "Ranking_Popularity": 483,
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -12574,9 +12574,9 @@
       "ID": "sailor",
       "SetID": "3nl4bcg",
       "Name": "Sailor",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 173
+      "UsersEstimate": 217
     },
     {
       "ID": "scientist",
@@ -12767,8 +12767,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-08T18:01:39.9029467+00:00",
-  "LastChanged_Achievements": "2024-01-09T03:05:41.4728563+00:00",
+  "LastChanged_Achievements": "2024-01-09T04:05:16.6693854+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:00.5947712+00:00",
-  "LastUpdate_Ratings": "2024-01-09T03:00:36.0069007+00:00",
-  "LastUpdate_Achievements": "2024-01-09T03:05:41.4729683+00:00"
+  "LastUpdate_Ratings": "2024-01-09T04:00:12.4146408+00:00",
+  "LastUpdate_Achievements": "2024-01-09T04:05:16.6694873+00:00"
 }

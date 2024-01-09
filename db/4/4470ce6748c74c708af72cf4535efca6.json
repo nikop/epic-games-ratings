@@ -450,9 +450,9 @@
       "ID": "20",
       "SetID": "5e3maia",
       "Name": "Tester",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "21",
@@ -905,8 +905,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2024-01-09T03:05:41.8816912+00:00",
+  "LastChanged_Achievements": "2024-01-09T04:05:17.0435559+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:04.7034788+00:00",
-  "LastUpdate_Ratings": "2024-01-09T02:57:51.5896762+00:00",
-  "LastUpdate_Achievements": "2024-01-09T03:05:41.8817454+00:00"
+  "LastUpdate_Ratings": "2024-01-09T03:57:49.6274736+00:00",
+  "LastUpdate_Achievements": "2024-01-09T04:05:17.043618+00:00"
 }

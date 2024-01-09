@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8173,
+  "EOS_Progressed": 8175,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13627,6 +13627,11 @@
       "Time": "2024-01-09T01:57:32.2503331+00:00",
       "NumProgressed": 8173,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T04:08:34.4877679+00:00",
+      "NumProgressed": 8175,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13678,7 +13683,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -13806,7 +13811,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -13957,13 +13962,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8173,
+      "Progressed": 8175,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7545,
+      "Progressed": 7547,
       "Completed": 113
     }
   ],
@@ -13971,8 +13976,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-09T03:08:42.4806397+00:00",
+  "LastChanged_Achievements": "2024-01-09T04:08:34.4877672+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-09T02:58:51.5905833+00:00",
-  "LastUpdate_Achievements": "2024-01-09T03:08:42.4807093+00:00"
+  "LastUpdate_Ratings": "2024-01-09T03:58:41.8613724+00:00",
+  "LastUpdate_Achievements": "2024-01-09T04:08:34.4878922+00:00"
 }

@@ -22,9 +22,9 @@
 | Et in arcadia ego | 19.00% | ~17 |
 | Pulp! Adventures into the Unknown | 19.00% | ~17 |
 | The seer | 18.00% | ~16 |
+| You've awakened the beast | 17.00% | ~15 |
+| Hate is... addictive | 17.00% | ~15 |
 | Welcome to Hellville | 17.00% | ~15 |
-| You've awakened the beast | 16.00% | ~14 |
-| Hate is... addictive | 16.00% | ~14 |
 | You had one wish left | 16.00% | ~14 |
 | The bully | 15.00% | ~13 |
 | Kirlian's best disciple | 13.00% | ~12 |

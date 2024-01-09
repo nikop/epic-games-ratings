@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 305,
+  "EOS_Progressed": 306,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1299,6 +1299,11 @@
       "Time": "2024-01-08T16:06:10.1919752+00:00",
       "NumProgressed": 305,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T04:06:13.002944+00:00",
+      "NumProgressed": 306,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1311,7 +1316,7 @@
       "Name": "A mystery? No! A trifle for Poirot!",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "10",
@@ -1423,7 +1428,7 @@
       "Name": "I know kung fu",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "23",
@@ -1455,7 +1460,7 @@
       "Name": "The only useful pigeon is a stool pigeon",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "27",
@@ -1493,9 +1498,9 @@
       "ID": "6",
       "SetID": "6bgoh8g",
       "Name": "A true detective",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 24
     },
     {
       "ID": "7",
@@ -1511,7 +1516,7 @@
       "Name": "You\u0027re probably wondering how I got here...",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "9",
@@ -1526,14 +1531,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 305,
+      "Progressed": 306,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-09T03:06:45.0173327+00:00",
+  "LastChanged_Achievements": "2024-01-09T04:06:13.0029436+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:18.4677846+00:00",
-  "LastUpdate_Ratings": "2024-01-09T03:03:18.4283428+00:00",
-  "LastUpdate_Achievements": "2024-01-09T03:06:45.0173738+00:00"
+  "LastUpdate_Ratings": "2024-01-09T04:03:06.5181615+00:00",
+  "LastUpdate_Achievements": "2024-01-09T04:06:13.0029649+00:00"
 }

@@ -13,8 +13,8 @@ Rating: 4.22 (Ranked 946)
 | Chew 'Em Up | 19.00% | ~4,135 |
 | Reforged | 18.00% | ~3,917 |
 | Float Like A Butterfly | 17.00% | ~3,700 |
+| Workplace Hazard | 16.00% | ~3,482 |
 | If the SHU Fits... | 16.00% | ~3,482 |
-| Workplace Hazard | 15.00% | ~3,264 |
 | Without A Paddle | 13.00% | ~2,829 |
 | In the Pipe, Five by Five | 12.00% | ~2,612 |
 | Crash Site | 12.00% | ~2,612 |
@@ -22,9 +22,9 @@ Rating: 4.22 (Ranked 946)
 | Power Up | 11.00% | ~2,394 |
 | Terminated | 10.00% | ~2,176 |
 | Giving Back | 9.00% | ~1,959 |
+| You Need a Gun | 9.00% | ~1,959 |
 | What Lies Beneath | 9.00% | ~1,959 |
 | Full Circle | 9.00% | ~1,959 |
-| You Need a Gun | 8.00% | ~1,741 |
 | I Do Belong Here | 8.00% | ~1,741 |
 | Keep Fighting | 7.00% | ~678 |
 | In Striking Distance | 5.00% | ~1,088 |

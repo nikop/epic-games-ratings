@@ -38,7 +38,7 @@ Number of Ratings: 58  (23.09.2022)
 | Ghosts | 25.00% | ~351 |
 | Two Birds | 25.00% | ~351 |
 | Uneasy Alliance | 24.00% | ~337 |
-| Mastery of Combat | 22.00% | ~309 |
+| Mastery of Combat | 23.00% | ~323 |
 | Mastery of Rites | 21.00% | ~295 |
 | Retaliate | 21.00% | ~295 |
 | Crash Test | 21.00% | ~295 |

@@ -48,6 +48,7 @@ Number of Ratings: 177  (23.09.2022)
 | First Impressions | 0.30% | ~22 |
 | The Harder They Fall...Dood | 0.30% | ~22 |
 | Do You Smell Blood? | 0.30% | ~22 |
+| A Striking Resemblance | 0.30% | ~22 |
 | Derezzed | 0.30% | ~22 |
 | Beyond the Call of Dude-y | 0.20% | ~15 |
 | Congrats, A Celebrity Hates You | 0.20% | ~9 |
@@ -56,7 +57,6 @@ Number of Ratings: 177  (23.09.2022)
 | Good Riddance! | 0.20% | ~15 |
 | I Know Grump-Fu | 0.20% | ~15 |
 | Ronin | 0.20% | ~15 |
-| A Striking Resemblance | 0.20% | ~15 |
 | Howz It Goin Dood | 0.20% | ~15 |
 | The Crush(es) | 0.20% | ~15 |
 | La Coochadora | 0.20% | ~15 |

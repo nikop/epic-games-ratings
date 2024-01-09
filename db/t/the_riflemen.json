@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67490,
+  "EOS_Progressed": 67511,
   "EOS_Completed": 11760,
-  "EOS_NewPlayers": 3779,
+  "EOS_NewPlayers": 3790,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 17.42,
   "EosHistory": [
@@ -15950,6 +15950,11 @@
       "Time": "2024-01-09T03:09:39.6627316+00:00",
       "NumProgressed": 67490,
       "NumCompleted": 11760
+    },
+    {
+      "Time": "2024-01-09T04:09:26.8969166+00:00",
+      "NumProgressed": 67511,
+      "NumCompleted": 11760
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -15962,7 +15967,7 @@
       "Name": "Bazooka Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "firstMatch",
@@ -15970,7 +15975,7 @@
       "Name": "First blood",
       "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 49943
+      "UsersEstimate": 49958
     },
     {
       "ID": "grenadeKills",
@@ -15978,7 +15983,7 @@
       "Name": "Grenade Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "headshots100",
@@ -15994,7 +15999,7 @@
       "Name": "Head popping III",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "headshots500",
@@ -16002,7 +16007,7 @@
       "Name": "Head popping II",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "knifeKills",
@@ -16010,7 +16015,7 @@
       "Name": "Knife Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "matchesLost",
@@ -16018,7 +16023,7 @@
       "Name": "Hang in there",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "matchesWon",
@@ -16034,7 +16039,7 @@
       "Name": "He who laughs last laughs best",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "rifleKills",
@@ -16050,7 +16055,7 @@
       "Name": "Shotgun Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "sniperKills",
@@ -16058,7 +16063,7 @@
       "Name": "Sniper Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "swordKills",
@@ -16066,14 +16071,14 @@
       "Name": "Sword Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     }
   ],
   "AchievementSets": [
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 67490,
+      "Progressed": 67511,
       "Completed": 11760
     }
   ],
@@ -16081,8 +16086,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2024-01-06T23:59:09.4867908+00:00",
-  "LastChanged_Achievements": "2024-01-09T03:09:39.6627314+00:00",
+  "LastChanged_Achievements": "2024-01-09T04:09:26.8969162+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.275557+00:00",
-  "LastUpdate_Ratings": "2024-01-09T03:00:14.8838699+00:00",
-  "LastUpdate_Achievements": "2024-01-09T03:09:39.6628321+00:00"
+  "LastUpdate_Ratings": "2024-01-09T03:59:55.4045074+00:00",
+  "LastUpdate_Achievements": "2024-01-09T04:09:26.8970087+00:00"
 }

@@ -9,7 +9,7 @@ Rating: 4.62 (Ranked 378)
 | Realm Estate | 15.00% | ~1,064 |
 | A Wonderful Discovery | 14.00% | ~993 |
 | Walls Cannot Stop Us | 13.00% | ~922 |
-| From Friends to Family | 12.00% | ~851 |
+| From Friends to Family | 12.00% | ~852 |
 | Bone Peddler | 10.00% | ~710 |
 | Magical Synergy | 9.00% | ~639 |
 | Full Ascension | 8.00% | ~568 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 378)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,095 (Ranked 196)  
+Progressed: 7,096 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,14 +298,14 @@ Completed: 7 (0.10%) (Ranked 309)
 | 2024-01-06 | 6,988 | 7 |
 | 2024-01-07 | 7,051 | 7 |
 | 2024-01-08 | 7,091 | 7 |
-| 2024-01-09 | 7,095 | 7 |
+| 2024-01-09 | 7,096 | 7 |
 ## Awards
-Max (Great for Beginners): 40  (Ranked 482)  
-Sum: 212 (Ranked 412)  
+Max (Great for Beginners): 41  (Ranked 481)  
+Sum: 213 (Ranked 411)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 40 |
+| This game is Great for Beginners | 41 |
 | This game has Diverse Characters | 39 |
 | This game is Extremely Fun | 27 |
 | This game is Highly Recommended | 22 |
@@ -402,3 +402,4 @@ Diff (max vs sum): 70
 | 2024-01-05 | 4.62 | 40 | 210 |
 | 2024-01-06 | 4.62 | 40 | 211 |
 | 2024-01-07 | 4.62 | 40 | 212 |
+| 2024-01-09 | 4.62 | 41 | 213 |

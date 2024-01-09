@@ -2131,7 +2131,7 @@
   ],
   "EOS_Progressed": 21763,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1209,
+  "EOS_NewPlayers": 1202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -13187,9 +13187,9 @@
       "ID": "BUY_ALL_WEAPONS",
       "SetID": "4hj6d86",
       "Name": "You Need a Gun",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1959
     },
     {
       "ID": "DISARM_ENEMY",
@@ -13307,9 +13307,9 @@
       "ID": "KILL_WITH_GRP_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Workplace Hazard",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 3264
+      "UsersEstimate": 3482
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -13554,8 +13554,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-09T03:03:27.5471894+00:00",
-  "LastChanged_Achievements": "2024-01-09T03:09:53.5159491+00:00",
+  "LastChanged_Achievements": "2024-01-09T04:09:39.2564015+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-09T03:03:27.5471898+00:00",
-  "LastUpdate_Achievements": "2024-01-09T03:09:53.5160507+00:00"
+  "LastUpdate_Ratings": "2024-01-09T04:03:16.1258808+00:00",
+  "LastUpdate_Achievements": "2024-01-09T04:09:39.2564757+00:00"
 }

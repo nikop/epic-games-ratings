@@ -21,15 +21,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Pretty Penny | 5.00% | ~7,518 |
 | One-Armed Bandit | 5.00% | ~7,518 |
 | Through Repetition, Perfection | 5.00% | ~7,518 |
-| The Daily Grind | 4.00% | ~6,014 |
-| Bounty Hunters | 4.00% | ~6,014 |
-| Demand for Supplies | 4.00% | ~6,014 |
-| Flooding the Market | 4.00% | ~6,014 |
-| Where it Hurts | 4.00% | ~6,014 |
-| Gild-Gotten Goods | 4.00% | ~6,014 |
-| Dungeon Imports | 4.00% | ~6,014 |
-| Did we pack lunch? | 4.00% | ~6,014 |
-| Arcane Industries | 4.00% | ~6,014 |
+| The Daily Grind | 4.00% | ~6,015 |
+| Bounty Hunters | 4.00% | ~6,015 |
+| Demand for Supplies | 4.00% | ~6,015 |
+| Flooding the Market | 4.00% | ~6,015 |
+| Where it Hurts | 4.00% | ~6,015 |
+| Gild-Gotten Goods | 4.00% | ~6,015 |
+| Dungeon Imports | 4.00% | ~6,015 |
+| Did we pack lunch? | 4.00% | ~6,015 |
+| Arcane Industries | 4.00% | ~6,015 |
 | On the Path to Greatness | 3.00% | ~4,511 |
 | Ascended | 3.00% | ~4,511 |
 | Tax not Included | 3.00% | ~4,511 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~601 |
 | Capitalist Camaraderie | 0.20% | ~301 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,362 (Ranked 86)  
+Progressed: 150,363 (Ranked 86)  
 Completed: 345 (0.23%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -383,10 +383,10 @@ Completed: 345 (0.23%) (Ranked 270)
 | 2024-01-06 | 149,985 | 345 |
 | 2024-01-07 | 150,192 | 345 |
 | 2024-01-08 | 150,343 | 345 |
-| 2024-01-09 | 150,362 | 345 |
+| 2024-01-09 | 150,363 | 345 |
 ## Awards
 Max (Great for Beginners): 4,948  (Ranked 78)  
-Sum: 27,962 (Ranked 52)  
+Sum: 27,965 (Ranked 52)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
@@ -394,7 +394,7 @@ Diff (max vs sum): 26
 | This game is Relaxing | 4,078 |
 | This game has Quickly Understood Controls | 4,072 |
 | This game has Diverse Characters | 4,029 |
-| This game is Highly Recommended | 3,817 |
+| This game is Highly Recommended | 3,820 |
 | This game has Easy Combat | 3,771 |
 | This game has Playful Visuals | 3,247 |
 | This game has Inclusive Character Customization | 22 |
@@ -744,3 +744,4 @@ Diff (max vs sum): 26
 | 2024-01-06 | 4.00 | - | 4,945 | 27,944 |
 | 2024-01-07 | 4.00 | - | 4,946 | 27,950 |
 | 2024-01-08 | 4.00 | - | 4,948 | 27,962 |
+| 2024-01-09 | 4.00 | - | 4,948 | 27,965 |

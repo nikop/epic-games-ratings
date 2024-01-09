@@ -144,6 +144,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | All Nations | 0.20% | ~33 |
 | No Undo | 0.20% | ~33 |
 | Deposed Tribe | 0.20% | ~33 |
+| Poetic Leader | 0.20% | ~33 |
 | Centenarian | 0.10% | ~16 |
 | Alexander the Great | 0.10% | ~16 |
 | Alexander the who? | 0.10% | ~16 |
@@ -267,7 +268,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Five Cults | 0.10% | ~16 |
 | The Great Mage | 0.10% | ~16 |
 | Pilgrimage | 0.10% | ~16 |
-| Poetic Leader | 0.10% | ~16 |
 | Patriarch St Paul | 0.10% | ~16 |
 | Hypatia the Teacher | 0.10% | ~16 |
 | Rmt n Kmt Buhen | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,270 (Ranked 168)  
+Progressed: 16,272 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
-| 2024-01-09 | 16,270 | 5 |
+| 2024-01-09 | 16,272 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 286)  
 Sum: 1,917 (Ranked 223)  

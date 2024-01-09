@@ -5,8 +5,8 @@ Rating: 4.38 (Ranked 791)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~686 |
-| Training Simulation | 79.00% | ~583 |
+| Travel Streamer | 93.00% | ~687 |
+| Training Simulation | 79.00% | ~584 |
 | Kuku Bird Hunter | 65.00% | ~480 |
 | Storm Traveller | 60.00% | ~443 |
 | Wolf King Killer | 55.00% | ~406 |
@@ -14,21 +14,21 @@ Rating: 4.38 (Ranked 791)
 | Arms Mechanic | 49.00% | ~362 |
 | Flower Thief | 44.00% | ~325 |
 | Apostle of Flame | 39.00% | ~288 |
-| Beginner Cook | 38.00% | ~280 |
-| Beginner Artificer | 38.00% | ~280 |
+| Beginner Artificer | 38.00% | ~281 |
+| Beginner Cook | 37.00% | ~273 |
 | Seal Breaker | 32.00% | ~236 |
 | Handyman | 28.00% | ~207 |
-| Giant Lizard Killer | 27.00% | ~199 |
-| Guardian | 25.00% | ~184 |
-| Nosebleeder | 25.00% | ~184 |
-| Trader | 22.00% | ~162 |
+| Giant Lizard Killer | 27.00% | ~200 |
+| Guardian | 25.00% | ~185 |
+| Nosebleeder | 25.00% | ~185 |
+| Trader | 22.00% | ~163 |
 | Weapon Boost | 21.00% | ~155 |
 | Flying Kobold Killer | 19.00% | ~140 |
 | Youth Magnet | 18.00% | ~133 |
-| Furious Scorpion Killer | 17.00% | ~125 |
-| Lethal Blade Mantis Killer | 17.00% | ~125 |
-| Squeaky Clean | 17.00% | ~125 |
-| Master Artificer | 17.00% | ~125 |
+| Furious Scorpion Killer | 17.00% | ~126 |
+| Lethal Blade Mantis Killer | 17.00% | ~126 |
+| Squeaky Clean | 17.00% | ~126 |
+| Master Artificer | 17.00% | ~126 |
 | Kind Adventurer | 15.00% | ~111 |
 | Mermaid Killer | 15.00% | ~111 |
 | Cave Master | 15.00% | ~111 |
@@ -51,7 +51,7 @@ Rating: 4.38 (Ranked 791)
 | Giantess Challenge | 2.00% | ~15 |
 | Warden Challenge | 2.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 738 (Ranked 317)  
+Progressed: 739 (Ranked 316)  
 Completed: 3 (0.41%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,6 +177,7 @@ Completed: 3 (0.41%) (Ranked 235)
 | 2024-01-06 | 725 | 3 |
 | 2024-01-07 | 735 | 3 |
 | 2024-01-08 | 738 | 3 |
+| 2024-01-09 | 739 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

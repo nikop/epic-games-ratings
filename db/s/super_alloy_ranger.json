@@ -2,9 +2,9 @@
   "ID": "6bd7d2e32a724e119b9e4a2254aeec33",
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
-  "Ranking_EOS_Progress": 452,
+  "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 437,
+  "Ranking_EOS_NewPlayers": 423,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154,
+  "EOS_Progressed": 155,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -756,6 +756,11 @@
       "Time": "2024-01-07T12:08:31.558704+00:00",
       "NumProgressed": 154,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T04:08:42.2635583+00:00",
+      "NumProgressed": 155,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -917,9 +922,9 @@
       "ID": "Achi_20",
       "SetID": "51a97k7",
       "Name": "Freshen Up",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 84
     },
     {
       "ID": "Achi_21",
@@ -933,9 +938,9 @@
       "ID": "Achi_22",
       "SetID": "51a97k7",
       "Name": "Iceberg Theory",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 115
     },
     {
       "ID": "Achi_23",
@@ -975,7 +980,7 @@
       "Name": "GG EZ",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Achi_28",
@@ -1029,17 +1034,17 @@
       "ID": "Achi_34",
       "SetID": "51a97k7",
       "Name": "Hydrophobia",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 54
     },
     {
       "ID": "Achi_35",
       "SetID": "51a97k7",
       "Name": "Stop Right There",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "Achi_36",
@@ -1166,7 +1171,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 154,
+      "Progressed": 155,
       "Completed": 1
     }
   ],
@@ -1174,8 +1179,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2024-01-09T03:08:50.7911968+00:00",
+  "LastChanged_Achievements": "2024-01-09T04:08:42.263558+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:44.9618155+00:00",
-  "LastUpdate_Ratings": "2024-01-09T03:00:12.2849566+00:00",
-  "LastUpdate_Achievements": "2024-01-09T03:08:50.7912431+00:00"
+  "LastUpdate_Ratings": "2024-01-09T03:59:52.7622104+00:00",
+  "LastUpdate_Achievements": "2024-01-09T04:08:42.2635889+00:00"
 }

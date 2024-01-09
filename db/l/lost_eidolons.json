@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1119,
+  "EOS_Progressed": 1118,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -10,
+  "EOS_NewPlayers": -11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2597,6 +2597,11 @@
       "Time": "2024-01-09T01:57:36.4084392+00:00",
       "NumProgressed": 1119,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T04:08:37.320402+00:00",
+      "NumProgressed": 1118,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2608,7 +2613,7 @@
       "Name": "Way of the King",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 89
     },
     {
       "ID": "02",
@@ -2640,7 +2645,7 @@
       "Name": "The First Step",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 828
+      "UsersEstimate": 827
     },
     {
       "ID": "06",
@@ -2656,7 +2661,7 @@
       "Name": "Monster Hunter",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 638
+      "UsersEstimate": 637
     },
     {
       "ID": "08",
@@ -2672,7 +2677,7 @@
       "Name": "Awakening",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 268
     },
     {
       "ID": "10",
@@ -2736,7 +2741,7 @@
       "Name": "Ready to Learn",
       "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 750
+      "UsersEstimate": 749
     },
     {
       "ID": "18",
@@ -2784,14 +2789,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 213
+      "UsersEstimate": 212
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1119,
+      "Progressed": 1118,
       "Completed": 1
     }
   ],
@@ -2799,8 +2804,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-01-09T03:08:45.5022995+00:00",
+  "LastChanged_Achievements": "2024-01-09T04:08:37.3204016+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:22.9341362+00:00",
-  "LastUpdate_Ratings": "2024-01-09T03:03:05.9396205+00:00",
-  "LastUpdate_Achievements": "2024-01-09T03:08:45.5023301+00:00"
+  "LastUpdate_Ratings": "2024-01-09T04:02:56.355387+00:00",
+  "LastUpdate_Achievements": "2024-01-09T04:08:37.3204256+00:00"
 }

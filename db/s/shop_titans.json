@@ -8027,10 +8027,16 @@
       "Rating": 4,
       "NumberOfAwards": 27962,
       "NumberOfAwardsMax": 4948
+    },
+    {
+      "Time": "2024-01-09T04:03:11.9457084+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 27965,
+      "NumberOfAwardsMax": 4948
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27962,
+  "NumberOfAwards": 27965,
   "NumberOfAwardsMax": 4948,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8080,12 +8086,12 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3817
+      "Count": 3820
     }
   ],
-  "EOS_Progressed": 150362,
+  "EOS_Progressed": 150363,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 1440,
+  "EOS_NewPlayers": 1430,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -35938,6 +35944,11 @@
       "Time": "2024-01-09T03:08:52.0699707+00:00",
       "NumProgressed": 150362,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2024-01-09T04:08:43.4614363+00:00",
+      "NumProgressed": 150363,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 112,
@@ -35949,7 +35960,7 @@
       "Name": "The Daily Grind",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6014
+      "UsersEstimate": 6015
     },
     {
       "ID": "advlevel02",
@@ -36085,7 +36096,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6014
+      "UsersEstimate": 6015
     },
     {
       "ID": "boss02",
@@ -36189,7 +36200,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6014
+      "UsersEstimate": 6015
     },
     {
       "ID": "commonres03",
@@ -36221,7 +36232,7 @@
       "Name": "Flooding the Market",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6014
+      "UsersEstimate": 6015
     },
     {
       "ID": "craft03",
@@ -36253,7 +36264,7 @@
       "Name": "Where it Hurts",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6014
+      "UsersEstimate": 6015
     },
     {
       "ID": "damage02",
@@ -36437,7 +36448,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6014
+      "UsersEstimate": 6015
     },
     {
       "ID": "gold04",
@@ -36573,7 +36584,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6014
+      "UsersEstimate": 6015
     },
     {
       "ID": "loot02",
@@ -36661,7 +36672,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6014
+      "UsersEstimate": 6015
     },
     {
       "ID": "quest02",
@@ -36821,7 +36832,7 @@
       "Name": "Arcane Industries",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6014
+      "UsersEstimate": 6015
     },
     {
       "ID": "workers03",
@@ -36844,15 +36855,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 150362,
+      "Progressed": 150363,
       "Completed": 345
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2024-01-08T19:03:29.8440283+00:00",
-  "LastChanged_Achievements": "2024-01-09T03:08:52.0699701+00:00",
+  "LastChanged": "2024-01-09T04:03:11.9457083+00:00",
+  "LastChanged_Achievements": "2024-01-09T04:08:43.4614359+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.0260329+00:00",
-  "LastUpdate_Ratings": "2024-01-09T03:03:24.6366575+00:00",
-  "LastUpdate_Achievements": "2024-01-09T03:08:52.0702367+00:00"
+  "LastUpdate_Ratings": "2024-01-09T04:03:11.9457088+00:00",
+  "LastUpdate_Achievements": "2024-01-09T04:08:43.4616375+00:00"
 }

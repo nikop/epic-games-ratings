@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74096,
+  "EOS_Progressed": 74102,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 1692,
+  "EOS_NewPlayers": 1683,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6628,6 +6628,11 @@
       "Time": "2024-01-09T03:08:45.2867014+00:00",
       "NumProgressed": 74096,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2024-01-09T04:08:37.0788659+00:00",
+      "NumProgressed": 74102,
+      "NumCompleted": 114
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -6640,7 +6645,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27416
+      "UsersEstimate": 27418
     },
     {
       "ID": "Achievement_10",
@@ -6728,7 +6733,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20747
+      "UsersEstimate": 20749
     },
     {
       "ID": "Achievement_20",
@@ -6856,7 +6861,7 @@
       "Name": "Warden",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "Achievement_4",
@@ -6911,7 +6916,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 74096,
+      "Progressed": 74102,
       "Completed": 114
     }
   ],
@@ -6919,8 +6924,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-05T18:03:34.6922579+00:00",
-  "LastChanged_Achievements": "2024-01-09T03:08:45.2867011+00:00",
+  "LastChanged_Achievements": "2024-01-09T04:08:37.0788654+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:21.0621045+00:00",
-  "LastUpdate_Ratings": "2024-01-09T03:03:16.7587471+00:00",
-  "LastUpdate_Achievements": "2024-01-09T03:08:45.2867614+00:00"
+  "LastUpdate_Ratings": "2024-01-09T04:03:05.0851902+00:00",
+  "LastUpdate_Achievements": "2024-01-09T04:08:37.0789167+00:00"
 }

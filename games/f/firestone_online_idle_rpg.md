@@ -53,11 +53,11 @@ Rating: 4.07 (Ranked 1,028)
 | How Do You Turn This On? | 5.00% | ~217 |
 | Lock And Load | 5.00% | ~217 |
 | Missions Dedication | 5.00% | ~217 |
+| Sailor | 5.00% | ~217 |
 | Active Member | 4.00% | ~173 |
 | Ancient Knowledge | 4.00% | ~173 |
 | Background Story | 4.00% | ~173 |
 | Legendary | 4.00% | ~173 |
-| Sailor | 4.00% | ~173 |
 | The Alchemist | 4.00% | ~173 |
 | Arena Challenger | 3.00% | ~130 |
 | Ebony Jungle Liberator | 3.00% | ~130 |
@@ -342,9 +342,9 @@ Completed: 2 (0.05%) (Ranked 337)
 | 2024-01-08 | 4,327 | 2 |
 | 2024-01-09 | 4,333 | 2 |
 ## Awards
-Max (Great for Beginners): 40  (Ranked 482)  
+Max (Great for Beginners): 40  (Ranked 483)  
 Sum: 155 (Ranked 439)  
-Diff (max vs sum): 43  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 40 |

@@ -50,7 +50,7 @@
 | Death Whistle Opened the Door | 4.00% | ~1 |
 | Antun Has a Father Now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 610)  
+Progressed: 24 (Ranked 611)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -2,9 +2,9 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 359,
+  "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 449,
+  "EOS_Progressed": 450,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 1,
@@ -1754,6 +1754,11 @@
       "Time": "2024-01-09T03:04:03.3262676+00:00",
       "NumProgressed": 449,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T04:03:49.6828829+00:00",
+      "NumProgressed": 450,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1782,7 +1787,7 @@
       "Name": "Bowels",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AC_ALL_RECIPES",
@@ -1790,7 +1795,7 @@
       "Name": "Cookbook",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AC_ALL_TOYS",
@@ -1822,7 +1827,7 @@
       "Name": "Gambler",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -1838,7 +1843,7 @@
       "Name": "Hunger",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "AC_BOSS_01",
@@ -1862,7 +1867,7 @@
       "Name": "Sacrilege",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "AC_BOSS_04",
@@ -1918,7 +1923,7 @@
       "Name": "Carcass",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "AC_DEATH_3",
@@ -1934,7 +1939,7 @@
       "Name": "Killer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1950,7 +1955,7 @@
       "Name": "Genocide",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -1958,7 +1963,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1996,9 +2001,9 @@
       "ID": "AC_FLASHBACK_02",
       "SetID": "16i2akc",
       "Name": "Demise",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 54
     },
     {
       "ID": "AC_FLASHBACK_03",
@@ -2006,7 +2011,7 @@
       "Name": "Schooling",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "AC_FULL_MAP",
@@ -2014,7 +2019,7 @@
       "Name": "Vision",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "AC_MONEY_BLACKJACK",
@@ -2022,7 +2027,7 @@
       "Name": "Winner",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "AC_MUSIC_CONCERT",
@@ -2054,7 +2059,7 @@
       "Name": "Cheff",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AC_ROCKET_MAX",
@@ -2086,7 +2091,7 @@
       "Name": "Crosshair",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AC_UZI_MAX",
@@ -2094,21 +2099,21 @@
       "Name": "Machine",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 449,
+      "Progressed": 450,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-09T03:04:03.3262671+00:00",
+  "LastChanged_Achievements": "2024-01-09T04:03:49.6828825+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-09T02:59:10.1902273+00:00",
-  "LastUpdate_Achievements": "2024-01-09T03:04:03.3263003+00:00"
+  "LastUpdate_Ratings": "2024-01-09T03:58:57.5719045+00:00",
+  "LastUpdate_Achievements": "2024-01-09T04:03:49.6829205+00:00"
 }
