@@ -6,17 +6,17 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~12,296 |
-| Overkill | 33.00% | ~10,678 |
-| Vaccine Incoming | 31.00% | ~10,031 |
-| A normal day in Gloomhaven | 29.00% | ~9,384 |
+| I'm not dead yet | 38.00% | ~12,297 |
+| Overkill | 33.00% | ~10,679 |
+| Vaccine Incoming | 31.00% | ~10,032 |
+| A normal day in Gloomhaven | 29.00% | ~9,385 |
 | Spread the plague | 27.00% | ~8,737 |
-| Get over here! | 24.00% | ~7,766 |
-| Just when I thought I was out... | 19.00% | ~6,148 |
-| Precious! | 16.00% | ~5,177 |
-| Mine... All Mine... | 16.00% | ~5,177 |
+| Get over here! | 24.00% | ~7,767 |
+| Just when I thought I was out... | 19.00% | ~6,149 |
+| Precious! | 16.00% | ~5,178 |
+| Mine... All Mine... | 16.00% | ~5,178 |
 | Grizzled veteran | 15.00% | ~4,854 |
-| Anatomy Lesson | 14.00% | ~4,530 |
+| Anatomy Lesson | 14.00% | ~4,531 |
 | Light of my life | 13.00% | ~4,207 |
 | Who's the Boss? | 12.00% | ~3,883 |
 | You activated my trap card! | 12.00% | ~3,883 |
@@ -28,7 +28,7 @@ Number of Ratings: 68  (23.09.2022)
 | Pack leader | 7.00% | ~2,265 |
 | Black death | 7.00% | ~2,265 |
 | Play it again, Sam | 7.00% | ~2,265 |
-| Quad damage | 6.00% | ~1,941 |
+| Quad damage | 6.00% | ~1,942 |
 | Power Up! | 5.00% | ~1,618 |
 | Merchant of doom | 5.00% | ~1,618 |
 | Caught off guard | 5.00% | ~1,618 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~32 |
 | Hard-travelling Heroes | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,358 (Ranked 140)  
+Progressed: 32,361 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 1 (0.00%) (Ranked 395)
 | 2024-01-06 | 31,749 | 1 |
 | 2024-01-07 | 32,091 | 1 |
 | 2024-01-08 | 32,291 | 1 |
-| 2024-01-09 | 32,358 | 1 |
+| 2024-01-09 | 32,361 | 1 |
 ## Awards
 Max (Character Customization): 3,616  (Ranked 95)  
 Sum: 8,468 (Ranked 106)  

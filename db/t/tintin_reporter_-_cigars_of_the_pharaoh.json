@@ -4,7 +4,7 @@
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -589,6 +589,11 @@
       "Time": "2024-01-08T12:05:02.4823962+00:00",
       "NumProgressed": 125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T11:05:20.7256987+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T17:07:46.1878997+00:00",
@@ -625,7 +630,7 @@
       "Name": "Mysterious Bungalow",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achievement13",
@@ -697,7 +702,7 @@
       "Name": "The Corporal\u0027s Golden Boy",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement21",
@@ -729,7 +734,7 @@
       "Name": "A Diagnosis",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement25",
@@ -761,7 +766,7 @@
       "Name": "Jungle Runner",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement29",
@@ -777,7 +782,7 @@
       "Name": "Abandon Ship!",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Achievement30",
@@ -801,7 +806,7 @@
       "Name": "The Pharaoh\u0027s New Clothes",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement33",
@@ -833,7 +838,7 @@
       "Name": "Guilt",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement37",
@@ -841,7 +846,7 @@
       "Name": "Threat",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement4",
@@ -849,7 +854,7 @@
       "Name": "The Tomb of Kih-Oskh",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Achievement5",
@@ -857,7 +862,7 @@
       "Name": "The Weighing of the Soul",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Achievement6",
@@ -896,14 +901,14 @@
     {
       "ID": "9fa3l5n",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-09T10:06:52.1549248+00:00",
+  "LastChanged_Achievements": "2024-01-09T11:05:20.7256983+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.5995051+00:00",
-  "LastUpdate_Ratings": "2024-01-09T10:01:43.7530942+00:00",
-  "LastUpdate_Achievements": "2024-01-09T10:06:52.154952+00:00"
+  "LastUpdate_Ratings": "2024-01-09T11:00:08.5803742+00:00",
+  "LastUpdate_Achievements": "2024-01-09T11:05:20.7257291+00:00"
 }

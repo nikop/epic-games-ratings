@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | My Papyrus! | 78.00% | ~98 |
 | A Loyal Friend | 43.00% | ~54 |
-| Abandon Ship! | 33.00% | ~41 |
-| The Tomb of Kih-Oskh | 29.00% | ~36 |
-| The Weighing of the Soul | 25.00% | ~31 |
+| Abandon Ship! | 33.00% | ~42 |
+| The Tomb of Kih-Oskh | 29.00% | ~37 |
+| The Weighing of the Soul | 25.00% | ~32 |
 | The Curse of Kih-Oskh | 20.00% | ~25 |
 | It's a Deal! | 16.00% | ~20 |
 | Cat Lover | 13.00% | ~16 |
@@ -16,7 +16,7 @@
 | In the Name of the Law | 12.00% | ~15 |
 | Save a Friend | 12.00% | ~15 |
 | Au Revoir, Abudin | 11.00% | ~14 |
-| Mysterious Bungalow | 10.00% | ~12 |
+| Mysterious Bungalow | 10.00% | ~13 |
 | The Eyes! | 9.00% | ~11 |
 | Punctual | 9.00% | ~11 |
 | Barking Dog | 8.00% | ~10 |
@@ -30,19 +30,19 @@
 | Subtlety | 5.00% | ~6 |
 | Mountain Runner | 4.00% | ~5 |
 | A Yummy Detour | 3.00% | ~4 |
-| The Corporal's Golden Boy | 2.00% | ~2 |
-| A Diagnosis | 2.00% | ~2 |
-| Jungle Runner | 2.00% | ~2 |
-| The Pharaoh's New Clothes | 2.00% | ~2 |
-| Guilt | 2.00% | ~2 |
-| Threat | 2.00% | ~2 |
+| The Corporal's Golden Boy | 2.00% | ~3 |
+| A Diagnosis | 2.00% | ~3 |
+| Jungle Runner | 2.00% | ~3 |
+| The Pharaoh's New Clothes | 2.00% | ~3 |
+| Guilt | 2.00% | ~3 |
+| Threat | 2.00% | ~3 |
 | Trials of Kih-Oskh | 0.80% | ~1 |
 | Broken Brotherhood | 0.80% | ~1 |
 | Cookie Accomplished | 0.00% | ~0 |
 | Flying Ace | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125 (Ranked 477)  
+Progressed: 126 (Ranked 477)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,3 +92,4 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 121 | 0 |
 | 2024-01-07 | 124 | 0 |
 | 2024-01-08 | 125 | 0 |
+| 2024-01-09 | 126 | 0 |

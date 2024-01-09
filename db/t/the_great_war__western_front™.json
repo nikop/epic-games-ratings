@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 910,
+  "EOS_Progressed": 911,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3930,6 +3930,11 @@
       "Time": "2024-01-09T10:05:32.4818896+00:00",
       "NumProgressed": 910,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T11:04:23.1949236+00:00",
+      "NumProgressed": 911,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -4005,7 +4010,7 @@
       "Name": "Earth Shattering",
       "Percentage": 44,
       "XP": 90,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -4013,7 +4018,7 @@
       "Name": "La Der des Ders",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -4021,7 +4026,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -4036,7 +4041,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 910,
+      "Progressed": 911,
       "Completed": 0
     }
   ],
@@ -4044,8 +4049,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-12-31T09:58:52.6483653+00:00",
-  "LastChanged_Achievements": "2024-01-09T10:05:32.4818891+00:00",
+  "LastChanged_Achievements": "2024-01-09T11:04:23.1949234+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:07.6580361+00:00",
-  "LastUpdate_Ratings": "2024-01-09T09:59:01.0626511+00:00",
-  "LastUpdate_Achievements": "2024-01-09T10:05:32.4819177+00:00"
+  "LastUpdate_Ratings": "2024-01-09T10:58:20.4304985+00:00",
+  "LastUpdate_Achievements": "2024-01-09T11:04:23.1949512+00:00"
 }

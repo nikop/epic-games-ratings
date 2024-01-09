@@ -4,7 +4,7 @@
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -1113,9 +1113,9 @@
       "ID": "Ach-01-jepice",
       "SetID": "2pjo9pi",
       "Name": "Jepice",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 112
     },
     {
       "ID": "Ach-01-soukac",
@@ -1520,8 +1520,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-09T10:09:50.0474627+00:00",
+  "LastChanged_Achievements": "2024-01-09T11:09:27.1199389+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:13.3833834+00:00",
-  "LastUpdate_Ratings": "2024-01-09T10:01:45.0109604+00:00",
-  "LastUpdate_Achievements": "2024-01-09T10:09:50.0475061+00:00"
+  "LastUpdate_Ratings": "2024-01-09T11:00:09.4227018+00:00",
+  "LastUpdate_Achievements": "2024-01-09T11:09:27.119978+00:00"
 }

@@ -16,13 +16,13 @@
 | Astral Adventurer | 35.00% | ~127 |
 | Noctuan Champion | 35.00% | ~127 |
 | Anomaly Destroyer | 31.00% | ~112 |
-| Star Killer | 30.00% | ~109 |
+| Star Killer | 31.00% | ~112 |
 | Eridanian Champion | 25.00% | ~90 |
 | Loyal Partner | 22.00% | ~80 |
-| Lacertian Champion | 21.00% | ~76 |
+| Lacertian Champion | 22.00% | ~80 |
 | Shard Spender | 19.00% | ~69 |
+| Unbeatable | 19.00% | ~69 |
 | Apian Champion | 19.00% | ~69 |
-| Unbeatable | 18.00% | ~65 |
 | Sadistic Plan | 16.00% | ~58 |
 | Behenian Champion | 14.00% | ~51 |
 | Heavy Purger | 12.00% | ~43 |

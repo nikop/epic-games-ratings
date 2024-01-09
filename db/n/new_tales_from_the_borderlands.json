@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3806,
+  "EOS_Progressed": 3807,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2287,6 +2287,11 @@
       "Time": "2024-01-09T02:29:56.0088471+00:00",
       "NumProgressed": 3806,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T11:04:28.9737949+00:00",
+      "NumProgressed": 3807,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2338,7 +2343,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -2392,9 +2397,9 @@
       "ID": "GAMEOVER_FIRST_TIME",
       "SetID": "kakdpn",
       "Name": "Tale in the Toilet",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1104
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -2402,7 +2407,7 @@
       "Name": "You Rich Now!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -2418,7 +2423,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -2505,7 +2510,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3806,
+      "Progressed": 3807,
       "Completed": 0
     }
   ],
@@ -2513,8 +2518,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2024-01-09T10:05:40.6659548+00:00",
+  "LastChanged_Achievements": "2024-01-09T11:04:28.9737945+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:34.4966642+00:00",
-  "LastUpdate_Ratings": "2024-01-09T09:58:00.6412255+00:00",
-  "LastUpdate_Achievements": "2024-01-09T10:05:40.6659808+00:00"
+  "LastUpdate_Ratings": "2024-01-09T10:57:39.4708401+00:00",
+  "LastUpdate_Achievements": "2024-01-09T11:04:28.9738152+00:00"
 }

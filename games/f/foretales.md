@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Caged tiger | 63.00% | ~186 |
-| Gorilla warfare | 58.00% | ~171 |
+| Gorilla warfare | 58.00% | ~172 |
 | Isenburg's fall | 48.00% | ~142 |
 | Pieces of eight! | 42.00% | ~124 |
-| Aboard the Sea Bird | 31.00% | ~91 |
-| Elephant in the room | 31.00% | ~91 |
+| Elephant in the room | 31.00% | ~92 |
+| Aboard the Sea Bird | 30.00% | ~89 |
 | Dark and stinky | 29.00% | ~86 |
 | Sneak in, sneak out | 25.00% | ~74 |
 | Is this the end? | 24.00% | ~71 |
@@ -46,7 +46,7 @@
 | Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 295 (Ranked 400)  
+Progressed: 296 (Ranked 399)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,6 +87,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-04 | 293 | 0 |
 | 2024-01-05 | 294 | 0 |
 | 2024-01-08 | 295 | 0 |
+| 2024-01-09 | 296 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

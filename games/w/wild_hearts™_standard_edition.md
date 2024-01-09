@@ -20,7 +20,7 @@
 | Flawless Crystal | 37.00% | ~468 |
 | Bonds of Enmity | 37.00% | ~468 |
 | Distance Devourer | 35.00% | ~442 |
-| Counter Specialist | 32.00% | ~404 |
+| Counter Specialist | 33.00% | ~417 |
 | Master of the Skies | 31.00% | ~392 |
 | Axer of Auspice | 28.00% | ~354 |
 | Kemono at Heart | 27.00% | ~341 |

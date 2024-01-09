@@ -141,9 +141,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83115,
+  "EOS_Progressed": 83117,
   "EOS_Completed": 926,
-  "EOS_NewPlayers": 685,
+  "EOS_NewPlayers": 687,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -29601,6 +29601,11 @@
       "Time": "2024-01-09T10:08:35.9752296+00:00",
       "NumProgressed": 83115,
       "NumCompleted": 926
+    },
+    {
+      "Time": "2024-01-09T11:08:34.5613919+00:00",
+      "NumProgressed": 83117,
+      "NumCompleted": 926
     }
   ],
   "TotalAchievements": 25,
@@ -29612,7 +29617,7 @@
       "Name": "A Man Of Taste",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "Ace In The Hole (Kingfisher)",
@@ -29620,7 +29625,7 @@
       "Name": "Ace in the Hole",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "Adios, Friendo",
@@ -29644,7 +29649,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18285
+      "UsersEstimate": 18286
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -29692,7 +29697,7 @@
       "Name": "Hearty",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "LazyBones",
@@ -29700,7 +29705,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7480
+      "UsersEstimate": 7481
     },
     {
       "ID": "Magnetic Miracles",
@@ -29716,7 +29721,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17454
+      "UsersEstimate": 17455
     },
     {
       "ID": "Meaty",
@@ -29724,7 +29729,7 @@
       "Name": "Meaty",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "Mechanic",
@@ -29740,7 +29745,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 13298
+      "UsersEstimate": 13299
     },
     {
       "ID": "Nothing Left to Say",
@@ -29788,7 +29793,7 @@
       "Name": "Taco Toto",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "Tape Head",
@@ -29811,7 +29816,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83115,
+      "Progressed": 83117,
       "Completed": 926
     }
   ],
@@ -29819,8 +29824,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-09T10:08:35.9752289+00:00",
+  "LastChanged_Achievements": "2024-01-09T11:08:34.5613917+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.3609745+00:00",
-  "LastUpdate_Ratings": "2024-01-09T09:59:41.9959946+00:00",
-  "LastUpdate_Achievements": "2024-01-09T10:08:35.9754337+00:00"
+  "LastUpdate_Ratings": "2024-01-09T10:58:48.7442679+00:00",
+  "LastUpdate_Achievements": "2024-01-09T11:08:34.5615627+00:00"
 }

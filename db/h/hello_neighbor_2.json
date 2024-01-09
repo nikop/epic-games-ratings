@@ -2,7 +2,7 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 726,
+  "Ranking_Rating": 725,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 216,
@@ -507,7 +507,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3964,
+  "EOS_Progressed": 3965,
   "EOS_Completed": 144,
   "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 2,
@@ -7067,6 +7067,11 @@
       "Time": "2024-01-09T10:04:28.3088956+00:00",
       "NumProgressed": 3964,
       "NumCompleted": 144
+    },
+    {
+      "Time": "2024-01-09T11:03:37.0776534+00:00",
+      "NumProgressed": 3965,
+      "NumCompleted": 144
     }
   ],
   "TotalAchievements": 14,
@@ -7086,7 +7091,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1388
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -7102,7 +7107,7 @@
       "Name": "Climber",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -7134,7 +7139,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -7166,7 +7171,7 @@
       "Name": "Shovel Night",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1388
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -7189,7 +7194,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3964,
+      "Progressed": 3965,
       "Completed": 144
     }
   ],
@@ -7197,8 +7202,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-05T23:57:59.2122093+00:00",
-  "LastChanged_Achievements": "2024-01-09T10:04:28.3088952+00:00",
+  "LastChanged_Achievements": "2024-01-09T11:03:37.077653+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:45.5665199+00:00",
-  "LastUpdate_Ratings": "2024-01-09T10:01:09.3435007+00:00",
-  "LastUpdate_Achievements": "2024-01-09T10:04:28.308938+00:00"
+  "LastUpdate_Ratings": "2024-01-09T10:59:45.5712795+00:00",
+  "LastUpdate_Achievements": "2024-01-09T11:03:37.077692+00:00"
 }

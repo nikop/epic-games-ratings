@@ -1,25 +1,25 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.51 (Ranked 591)  
+Rating: 4.51 (Ranked 592)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~312,573 |
-| Jeef Skeejj | 44.00% | ~208,382 |
-| Careful planning | 39.00% | ~184,702 |
+| The Shutdown | 66.00% | ~312,575 |
+| Jeef Skeejj | 44.00% | ~208,383 |
+| Careful planning | 39.00% | ~184,703 |
 | Second Coming | 34.00% | ~161,023 |
 | Jeef Skagg | 30.00% | ~142,079 |
-| Mother | 25.00% | ~118,399 |
-| In space, no one can hear you scream | 24.00% | ~113,663 |
-| Chapter I: Echoes | 22.00% | ~104,191 |
-| Excelsior Rule | 22.00% | ~104,191 |
-| Things persisted in not being what they seemed | 20.00% | ~94,719 |
-| Knightmare Frames | 15.00% | ~71,039 |
-| May His passing cleanse the world | 15.00% | ~71,039 |
-| Chapter II: Fallible Flesh | 15.00% | ~71,039 |
-| Pope Zenon | 15.00% | ~71,039 |
+| Mother | 25.00% | ~118,400 |
+| In space, no one can hear you scream | 24.00% | ~113,664 |
+| Chapter I: Echoes | 22.00% | ~104,192 |
+| Excelsior Rule | 22.00% | ~104,192 |
+| Things persisted in not being what they seemed | 20.00% | ~94,720 |
+| Knightmare Frames | 15.00% | ~71,040 |
+| May His passing cleanse the world | 15.00% | ~71,040 |
+| Chapter II: Fallible Flesh | 15.00% | ~71,040 |
+| Pope Zenon | 15.00% | ~71,040 |
 | Plan for the worst | 12.00% | ~56,832 |
 | Tetsuo | 11.00% | ~52,096 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,360 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~18 |
 | Kronos Rule | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,596 (Ranked 45)  
+Progressed: 473,598 (Ranked 45)  
 Completed: 21 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 21 (0.00%) (Ranked 395)
 | 2024-01-06 | 473,472 | 21 |
 | 2024-01-07 | 473,531 | 21 |
 | 2024-01-08 | 473,574 | 21 |
-| 2024-01-09 | 473,596 | 21 |
+| 2024-01-09 | 473,598 | 21 |
 ## Awards
 Max (Character Customization): 229  (Ranked 286)  
 Sum: 253 (Ranked 397)  

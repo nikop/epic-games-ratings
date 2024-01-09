@@ -37,8 +37,8 @@ Rating: 4.26 (Ranked 915)
 | Marked For Success | 11.00% | ~279 |
 | Stimulating The Local Economy | 10.00% | ~254 |
 | Triplets | 10.00% | ~254 |
+| Denying Prophecy | 9.00% | ~229 |
 | A Little Banged Up | 8.00% | ~203 |
-| Denying Prophecy | 8.00% | ~203 |
 | Following In Their Footsteps | 8.00% | ~203 |
 | Defense in Depth | 8.00% | ~203 |
 | Reverse Engineering | 7.00% | ~178 |

@@ -661,7 +661,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4245,
+  "EOS_Progressed": 4246,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
@@ -9541,6 +9541,11 @@
       "Time": "2024-01-09T00:09:23.0077387+00:00",
       "NumProgressed": 4245,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-09T11:09:51.786022+00:00",
+      "NumProgressed": 4246,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9560,7 +9565,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -9616,7 +9621,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -9632,7 +9637,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1995
+      "UsersEstimate": 1996
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9688,7 +9693,7 @@
       "Name": "Sharpshooter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -9712,7 +9717,7 @@
       "Name": "Precision Is Key",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -9744,15 +9749,15 @@
       "Name": "My Little Friend",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
       "SetID": "bm6el81",
       "Name": "Explosive Efficiency",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 807
+      "UsersEstimate": 849
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -9864,7 +9869,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1444
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9888,7 +9893,7 @@
       "Name": "Change the Channel",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -9960,7 +9965,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -10119,13 +10124,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4196,
+      "Progressed": 4197,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4245,
+      "Progressed": 4246,
       "Completed": 11
     }
   ],
@@ -10133,8 +10138,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-05T16:59:40.1601713+00:00",
-  "LastChanged_Achievements": "2024-01-09T10:10:24.2168415+00:00",
+  "LastChanged_Achievements": "2024-01-09T11:09:51.7860217+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:59.0213472+00:00",
-  "LastUpdate_Ratings": "2024-01-09T09:58:23.6287358+00:00",
-  "LastUpdate_Achievements": "2024-01-09T10:10:24.2169601+00:00"
+  "LastUpdate_Ratings": "2024-01-09T10:57:54.9386406+00:00",
+  "LastUpdate_Achievements": "2024-01-09T11:09:51.7861134+00:00"
 }

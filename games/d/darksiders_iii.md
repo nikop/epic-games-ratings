@@ -40,8 +40,8 @@ Number of Ratings: 116  (23.09.2022)
 | Demon Meddler | 22.00% | ~113 |
 | Seeing Red | 22.00% | ~113 |
 | Egomaniac | 20.00% | ~102 |
+| Everybody Wants to Rule the World | 19.00% | ~97 |
 | Protector of Humanity | 18.00% | ~92 |
-| Everybody Wants to Rule the World | 18.00% | ~92 |
 | Community Outreach | 15.00% | ~77 |
 | A Parting Gift | 14.00% | ~72 |
 | Unbreakable Will | 13.00% | ~67 |

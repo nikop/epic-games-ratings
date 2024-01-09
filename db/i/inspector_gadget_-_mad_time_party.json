@@ -2,9 +2,9 @@
   "ID": "2fdd28261b43442e8ac1e9e060fec80f",
   "Name": "Inspector Gadget - Mad Time Party",
   "ProductSlug": "inspector-gadget-mad-time-party-1dc812",
-  "Ranking_EOS_Progress": 728,
+  "Ranking_EOS_Progress": 714,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 574,
+  "Ranking_EOS_NewPlayers": 528,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-28T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38,6 +38,11 @@
     {
       "Time": "2024-01-02T17:09:52.3861097+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T11:09:21.336192+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -138,14 +143,14 @@
     {
       "ID": "d16pl5o",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-04T06:58:31.0113163+00:00",
   "FirstSeenAchievements": "2023-09-15T16:03:28.4278363+00:00",
-  "LastChanged_Achievements": "2024-01-09T10:09:41.7215751+00:00",
+  "LastChanged_Achievements": "2024-01-09T11:09:21.3361915+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:57:00.5759267+00:00",
-  "LastUpdate_Ratings": "2024-01-09T10:03:45.2138261+00:00",
-  "LastUpdate_Achievements": "2024-01-09T10:09:41.7215828+00:00"
+  "LastUpdate_Ratings": "2024-01-09T11:03:08.7497227+00:00",
+  "LastUpdate_Achievements": "2024-01-09T11:09:21.3362047+00:00"
 }

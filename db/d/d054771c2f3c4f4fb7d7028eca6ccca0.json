@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 3839,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 490,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4629,9 +4629,9 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "c167foo",
       "Name": "Unlocked Relic",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1651
+      "UsersEstimate": 1689
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -4812,8 +4812,8 @@
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-09T10:05:20.9518368+00:00",
+  "LastChanged_Achievements": "2024-01-09T11:04:14.9366655+00:00",
   "LastUpdate_AppInfo": "2024-01-02T13:00:37.2315097+00:00",
-  "LastUpdate_Ratings": "2024-01-09T10:00:40.3092526+00:00",
-  "LastUpdate_Achievements": "2024-01-09T10:05:20.9518891+00:00"
+  "LastUpdate_Ratings": "2024-01-09T10:59:26.3322853+00:00",
+  "LastUpdate_Achievements": "2024-01-09T11:04:14.9367189+00:00"
 }

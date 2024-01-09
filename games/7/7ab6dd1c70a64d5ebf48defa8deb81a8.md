@@ -33,11 +33,11 @@ Rating: 4.18 (Ranked 981)
 | Fine Feathers Make Fine Birds | 4.00% | ~84 |
 | Slayer | 3.00% | ~63 |
 | A Queen's Tale | 3.00% | ~63 |
+| Shardbearer | 2.00% | ~42 |
 | Flawless Victory | 2.00% | ~42 |
 | All There Is | 2.00% | ~42 |
 | False God | 2.00% | ~42 |
 | Forgemaster | 1.00% | ~21 |
-| Shardbearer | 1.00% | ~21 |
 | Summiter | 1.00% | ~21 |
 | All That Gold | 0.70% | ~15 |
 | Feeling Fancy | 0.40% | ~8 |

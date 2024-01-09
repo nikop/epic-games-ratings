@@ -15,7 +15,7 @@ Rating: 4.56 (Ranked 509)
 | Well-to-do | 32.00% | ~58 |
 | Samaritan | 30.00% | ~55 |
 | Ladies' man | 29.00% | ~53 |
-| The merciful one | 27.00% | ~49 |
+| The merciful one | 28.00% | ~51 |
 | Ferocious wild boars | 23.00% | ~42 |
 | Idiot | 23.00% | ~42 |
 | Beast slayer | 21.00% | ~38 |
@@ -30,8 +30,8 @@ Rating: 4.56 (Ranked 509)
 | The fourth triplet | 15.00% | ~27 |
 | Fence | 15.00% | ~27 |
 | Master detective | 15.00% | ~27 |
+| Ghost hunter | 14.00% | ~25 |
 | Pandora's box | 13.00% | ~24 |
-| Ghost hunter | 13.00% | ~24 |
 | Peacekeeper | 12.00% | ~22 |
 | Defender | 11.00% | ~20 |
 | Showdown | 10.00% | ~18 |

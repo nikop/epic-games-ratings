@@ -1,29 +1,29 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 67)  
+Rating: 4.82 (Ranked 66)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,469 |
-| Life is your teacher | 5.00% | ~37,890 |
-| The Assault | 4.00% | ~30,312 |
-| Lightning Hands | 4.00% | ~30,312 |
-| The Hateful Pole Fighter | 3.00% | ~22,734 |
-| State of constant learning | 3.00% | ~22,734 |
-| Qi Gong: Essence | 3.00% | ~22,734 |
-| Old Child | 3.00% | ~22,734 |
-| A Lady's Blood in the Snow | 2.00% | ~15,156 |
-| Lady Wing Chun | 2.00% | ~15,156 |
-| Kill Nil | 2.00% | ~15,156 |
-| Stuntmaster | 2.00% | ~15,156 |
-| Street Fighting | 2.00% | ~15,156 |
-| Qi Gong: Breath | 2.00% | ~15,156 |
-| I know Kung-Fu | 2.00% | ~15,156 |
-| Path of the Prospect | 2.00% | ~15,156 |
-| Rumble in the Hangar | 2.00% | ~15,156 |
-| Diligence as a goal | 2.00% | ~1,342 |
+| The Old Grandmaster | 6.00% | ~45,471 |
+| Life is your teacher | 5.00% | ~37,892 |
+| The Assault | 4.00% | ~30,314 |
+| Lightning Hands | 4.00% | ~30,314 |
+| The Hateful Pole Fighter | 3.00% | ~22,735 |
+| State of constant learning | 3.00% | ~22,735 |
+| Qi Gong: Essence | 3.00% | ~22,735 |
+| Old Child | 3.00% | ~22,735 |
+| A Lady's Blood in the Snow | 2.00% | ~15,157 |
+| Lady Wing Chun | 2.00% | ~15,157 |
+| Kill Nil | 2.00% | ~15,157 |
+| Stuntmaster | 2.00% | ~15,157 |
+| Street Fighting | 2.00% | ~15,157 |
+| Qi Gong: Breath | 2.00% | ~15,157 |
+| I know Kung-Fu | 2.00% | ~15,157 |
+| Path of the Prospect | 2.00% | ~15,157 |
+| Rumble in the Hangar | 2.00% | ~15,157 |
+| Diligence as a goal | 2.00% | ~1,343 |
 | Furious Fists | 1.00% | ~7,578 |
 | Scareless | 1.00% | ~7,578 |
 | Dance of the Praying Mantis | 1.00% | ~7,578 |
@@ -44,12 +44,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | The 36th Chamber of Kung-Fu | 0.50% | ~3,789 |
 | Sword Stained With Blood | 0.50% | ~3,789 |
 | The Pit Protector | 0.40% | ~3,031 |
-| The best strikes are the ones we avoid | 0.40% | ~268 |
-| Drunken Fighter | 0.30% | ~2,273 |
-| Martial Artist | 0.30% | ~2,273 |
-| Knowledge Greed | 0.30% | ~2,273 |
-| Ferocity, speed, strength, accuracy | 0.30% | ~2,273 |
-| Come Snap With Me | 0.30% | ~2,273 |
+| The best strikes are the ones we avoid | 0.40% | ~269 |
+| Drunken Fighter | 0.30% | ~2,274 |
+| Martial Artist | 0.30% | ~2,274 |
+| Knowledge Greed | 0.30% | ~2,274 |
+| Ferocity, speed, strength, accuracy | 0.30% | ~2,274 |
+| Come Snap With Me | 0.30% | ~2,274 |
 | Deadly Venom | 0.30% | ~201 |
 | A Touch of Acumen | 0.30% | ~201 |
 | Healing Memory | 0.20% | ~1,516 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~67 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 757,809 (Ranked 26)  
+Progressed: 757,845 (Ranked 26)  
 Completed: 12,980 (1.71%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 12,980 (1.71%) (Ranked 142)
 | 2024-01-06 | 755,903 | 12,976 |
 | 2024-01-07 | 756,813 | 12,976 |
 | 2024-01-08 | 757,529 | 12,979 |
-| 2024-01-09 | 757,809 | 12,980 |
+| 2024-01-09 | 757,845 | 12,980 |
 ## Awards
 Max (Great Boss Battles): 7,154  (Ranked 56)  
 Sum: 12,650 (Ranked 85)  

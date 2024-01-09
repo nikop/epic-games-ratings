@@ -211,9 +211,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8489,
+  "EOS_Progressed": 8490,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -9631,6 +9631,11 @@
       "Time": "2024-01-09T10:08:42.0610262+00:00",
       "NumProgressed": 8489,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2024-01-09T11:08:38.8745267+00:00",
+      "NumProgressed": 8490,
+      "NumCompleted": 50
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -9643,7 +9648,7 @@
       "Name": "First of Many",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 7470
+      "UsersEstimate": 7471
     },
     {
       "ID": "achievement_01_02",
@@ -9667,7 +9672,7 @@
       "Name": "Bzzzt",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6367
+      "UsersEstimate": 6368
     },
     {
       "ID": "achievement_01_05",
@@ -9675,7 +9680,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 4244
+      "UsersEstimate": 4245
     },
     {
       "ID": "achievement_01_06",
@@ -9683,7 +9688,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5093
+      "UsersEstimate": 5094
     },
     {
       "ID": "achievement_01_07",
@@ -9691,7 +9696,7 @@
       "Name": "Car Workshop",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 3650
+      "UsersEstimate": 3651
     },
     {
       "ID": "achievement_01_08",
@@ -9699,7 +9704,7 @@
       "Name": "Trophy Collector",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6367
+      "UsersEstimate": 6368
     },
     {
       "ID": "achievement_01_09",
@@ -9779,7 +9784,7 @@
       "Name": "Car Specialist",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "achievement_03_01",
@@ -9803,7 +9808,7 @@
       "Name": "Morocco - Check!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "achievement_03_04",
@@ -9875,7 +9880,7 @@
       "Name": "Long Time on the Road",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "achievement_04_02",
@@ -9891,7 +9896,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 4584
+      "UsersEstimate": 4585
     },
     {
       "ID": "achievement_04_04",
@@ -9907,7 +9912,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 2971
+      "UsersEstimate": 2972
     },
     {
       "ID": "achievement_04_06",
@@ -9923,7 +9928,7 @@
       "Name": "Nitro Saver",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 4329
+      "UsersEstimate": 4330
     },
     {
       "ID": "achievement_04_08",
@@ -9931,7 +9936,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 7385
+      "UsersEstimate": 7386
     },
     {
       "ID": "achievement_04_09",
@@ -9946,7 +9951,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 8489,
+      "Progressed": 8490,
       "Completed": 50
     }
   ],
@@ -9954,8 +9959,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2024-01-07T20:58:37.9854496+00:00",
-  "LastChanged_Achievements": "2024-01-09T10:08:42.0610257+00:00",
+  "LastChanged_Achievements": "2024-01-09T11:08:38.8745263+00:00",
   "LastUpdate_AppInfo": "2024-01-05T01:43:58.6689875+00:00",
-  "LastUpdate_Ratings": "2024-01-09T10:00:01.5376795+00:00",
-  "LastUpdate_Achievements": "2024-01-09T10:08:42.0610998+00:00"
+  "LastUpdate_Ratings": "2024-01-09T10:59:01.7089054+00:00",
+  "LastUpdate_Achievements": "2024-01-09T11:08:38.8746424+00:00"
 }

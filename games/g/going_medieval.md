@@ -6,25 +6,25 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 76.00% | ~5,966 |
-| Having A Field Day | 76.00% | ~5,966 |
-| Reap What You Sow | 73.00% | ~5,730 |
-| The First Day | 70.00% | ~5,495 |
-| Novice Researcher | 68.00% | ~5,338 |
+| Get A Room | 76.00% | ~5,967 |
+| Having A Field Day | 76.00% | ~5,967 |
+| Reap What You Sow | 73.00% | ~5,731 |
+| The First Day | 70.00% | ~5,496 |
+| Novice Researcher | 68.00% | ~5,339 |
 | Green Thumb | 67.00% | ~5,260 |
-| Home Cooked Meal | 62.00% | ~4,867 |
-| Onward | 58.00% | ~4,553 |
-| The First Week | 56.00% | ~4,396 |
-| Beam Me Up | 53.00% | ~4,160 |
-| Studious Researcher | 53.00% | ~4,160 |
-| Adept Researcher | 45.00% | ~3,532 |
+| Home Cooked Meal | 62.00% | ~4,868 |
+| Onward | 58.00% | ~4,554 |
+| The First Week | 56.00% | ~4,397 |
+| Beam Me Up | 53.00% | ~4,161 |
+| Studious Researcher | 53.00% | ~4,161 |
+| Adept Researcher | 45.00% | ~3,533 |
 | Retribution | 43.00% | ~3,376 |
 | Putting Food on the Table | 43.00% | ~3,376 |
 | ...And Don’t Come Back! | 43.00% | ~3,376 |
 | Feast or Famine | 35.00% | ~2,748 |
-| Heating Up | 33.00% | ~2,590 |
+| Heating Up | 33.00% | ~2,591 |
 | Luminary Researcher | 30.00% | ~2,355 |
-| Winter Is Coming | 29.00% | ~2,276 |
+| Winter Is Coming | 29.00% | ~2,277 |
 | Fit For A King | 26.00% | ~2,041 |
 | Winter Is Here | 26.00% | ~2,041 |
 | Disassembled | 23.00% | ~1,806 |
@@ -32,13 +32,13 @@ Number of Ratings: 706  (23.09.2022)
 | A Party Now | 22.00% | ~1,727 |
 | All Year Round | 22.00% | ~1,727 |
 | Don't Cry Wolf | 14.00% | ~1,099 |
-| Nothing Wasted | 13.00% | ~1,020 |
+| Nothing Wasted | 13.00% | ~1,021 |
 | Deerly Departed | 8.00% | ~628 |
-| Where Wolf? | 5.00% | ~392 |
+| Where Wolf? | 5.00% | ~393 |
 | Food Chain | 2.00% | ~157 |
 | Wabbit Season | 0.50% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,850 (Ranked 191)  
+Progressed: 7,851 (Ranked 191)  
 Completed: 14 (0.18%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 14 (0.18%) (Ranked 280)
 | 2024-01-06 | 7,803 | 14 |
 | 2024-01-07 | 7,828 | 14 |
 | 2024-01-08 | 7,846 | 14 |
-| 2024-01-09 | 7,850 | 14 |
+| 2024-01-09 | 7,851 | 14 |
 ## Awards
 Max (Great for Beginners): 133  (Ranked 344)  
 Sum: 1,059 (Ranked 270)  

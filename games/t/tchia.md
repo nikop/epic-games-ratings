@@ -15,11 +15,11 @@ Rating: 4.70 (Ranked 219)
 | Shredder | 0.40% | ~35 |
 | Audiophile | 0.30% | ~26 |
 | Clay Pigeon | 0.30% | ~26 |
+| Fashion Faux-Pas | 0.20% | ~18 |
 | Historian | 0.20% | ~18 |
 | Iconoclast | 0.20% | ~18 |
 | Arrr! | 0.10% | ~9 |
 | Ça de Wizz! | 0.10% | ~9 |
-| Fashion Faux-Pas | 0.10% | ~9 |
 | Fashion Victim | 0.10% | ~9 |
 | Happy Camper | 0.10% | ~9 |
 | Liberator | 0.10% | ~9 |
@@ -27,7 +27,7 @@ Rating: 4.70 (Ranked 219)
 | Snip Snip | 0.10% | ~9 |
 | Thing | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,815 (Ranked 187)  
+Progressed: 8,816 (Ranked 187)  
 Completed: 35 (0.40%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 35 (0.40%) (Ranked 236)
 | 2024-01-06 | 8,762 | 35 |
 | 2024-01-07 | 8,779 | 35 |
 | 2024-01-08 | 8,806 | 35 |
-| 2024-01-09 | 8,815 | 35 |
+| 2024-01-09 | 8,816 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

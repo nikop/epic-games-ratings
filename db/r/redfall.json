@@ -381,9 +381,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2321,
+  "EOS_Progressed": 2322,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4246,6 +4246,11 @@
       "Time": "2024-01-09T10:07:25.2468778+00:00",
       "NumProgressed": 2321,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T11:05:44.55186+00:00",
+      "NumProgressed": 2322,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4393,7 +4398,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "Achievement_020",
@@ -4441,7 +4446,7 @@
       "Name": "Grounded",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "Achievement_026",
@@ -4513,7 +4518,7 @@
       "Name": "Catch and Release",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "Achievement_035",
@@ -4784,7 +4789,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2321,
+      "Progressed": 2322,
       "Completed": 0
     }
   ],
@@ -4792,8 +4797,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
-  "LastChanged_Achievements": "2024-01-09T10:07:25.2468774+00:00",
+  "LastChanged_Achievements": "2024-01-09T11:05:44.5518595+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-09T10:01:26.1694316+00:00",
-  "LastUpdate_Achievements": "2024-01-09T10:07:25.2469586+00:00"
+  "LastUpdate_Ratings": "2024-01-09T10:59:56.889897+00:00",
+  "LastUpdate_Achievements": "2024-01-09T11:05:44.5519372+00:00"
 }
