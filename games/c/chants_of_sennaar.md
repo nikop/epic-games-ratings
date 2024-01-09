@@ -23,7 +23,7 @@ Rating: 4.85 (Ranked 39)
 | In this together | 25.00% | ~650 |
 | Champollion | 25.00% | ~650 |
 | Open door | 22.00% | ~572 |
-| Feels like springtime | 21.00% | ~546 |
+| Feels like springtime | 22.00% | ~572 |
 | Alchemists Express | 21.00% | ~546 |
 | Free at last | 19.00% | ~494 |
 | A Link to the Past | 16.00% | ~416 |
@@ -32,7 +32,7 @@ Rating: 4.85 (Ranked 39)
 | Fashion victim | 9.00% | ~234 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,599 (Ranked 235)  
-Completed: 180 (6.93%) (Ranked 62)  
+Completed: 181 (6.96%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -202,7 +202,7 @@ Completed: 180 (6.93%) (Ranked 62)
 | 2024-01-06 | 2,492 | 168 |
 | 2024-01-07 | 2,529 | 176 |
 | 2024-01-08 | 2,573 | 180 |
-| 2024-01-09 | 2,599 | 180 |
+| 2024-01-09 | 2,599 | 181 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

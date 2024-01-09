@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Man Standing | 91.00% | ~84,756 |
-| Enemy Attrition | 68.00% | ~63,334 |
-| Grim Reaper | 66.00% | ~61,471 |
-| Heads Down | 63.00% | ~58,677 |
-| Not On My Watch | 60.00% | ~55,883 |
-| Combat Engineer | 40.00% | ~37,255 |
-| Eager Beaver | 30.00% | ~27,941 |
-| Call ’em in! | 29.00% | ~27,010 |
-| Lovely | 27.00% | ~25,147 |
-| Store fuglar fanga ingi flugor | 16.00% | ~14,902 |
-| Ou La Mort | 14.00% | ~13,039 |
-| Elite | 12.00% | ~11,177 |
-| Fender Bender | 8.00% | ~7,451 |
-| Globetrotter | 6.00% | ~5,588 |
-| Storyteller | 5.00% | ~4,657 |
-| Jack of All Trades | 5.00% | ~4,657 |
-| Off-hand | 3.00% | ~2,794 |
-| Death from Above | 2.00% | ~1,863 |
-| Veteran | 0.80% | ~745 |
-| Hoist the Flag | 0.30% | ~279 |
-| Sins of the Fathers | 0.20% | ~186 |
+| Last Man Standing | 91.00% | ~84,873 |
+| Enemy Attrition | 68.00% | ~63,422 |
+| Grim Reaper | 66.00% | ~61,556 |
+| Heads Down | 63.00% | ~58,758 |
+| Not On My Watch | 60.00% | ~55,960 |
+| Combat Engineer | 40.00% | ~37,307 |
+| Eager Beaver | 30.00% | ~27,980 |
+| Call ’em in! | 29.00% | ~27,047 |
+| Lovely | 27.00% | ~25,182 |
+| Store fuglar fanga ingi flugor | 16.00% | ~14,923 |
+| Ou La Mort | 14.00% | ~13,057 |
+| Elite | 12.00% | ~11,192 |
+| Fender Bender | 8.00% | ~7,461 |
+| Globetrotter | 6.00% | ~5,596 |
+| Storyteller | 5.00% | ~4,663 |
+| Jack of All Trades | 5.00% | ~4,663 |
+| Off-hand | 3.00% | ~2,798 |
+| Death from Above | 2.00% | ~1,865 |
+| Veteran | 0.80% | ~746 |
+| Hoist the Flag | 0.30% | ~280 |
+| Sins of the Fathers | 0.20% | ~187 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,138 (Ranked 102)  
+Progressed: 93,267 (Ranked 102)  
 Completed: 1 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,4 +141,4 @@ Completed: 1 (0.00%) (Ranked 395)
 | 2024-01-06 | 89,832 | 1 |
 | 2024-01-07 | 91,451 | 1 |
 | 2024-01-08 | 92,573 | 1 |
-| 2024-01-09 | 93,138 | 1 |
+| 2024-01-09 | 93,267 | 1 |

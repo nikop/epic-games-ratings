@@ -341,7 +341,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 884,
+  "EOS_Progressed": 886,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 2,
@@ -2336,6 +2336,11 @@
       "Time": "2024-01-09T12:06:45.1662901+00:00",
       "NumProgressed": 884,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-09T13:23:04.169736+00:00",
+      "NumProgressed": 886,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2388,7 +2393,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -2420,7 +2425,7 @@
       "Name": "Jellyfishing",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -2522,9 +2527,9 @@
       "ID": "ACH_STAT_25_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Super Spatula Seeker",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -2570,9 +2575,9 @@
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
       "SetID": "biiejkc",
       "Name": "Squirrel Smasher",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_STAT_STAR_SMASHER",
@@ -2580,7 +2585,7 @@
       "Name": "Star Smasher",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -2588,7 +2593,7 @@
       "Name": "Surf\u0027s Up!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -2603,15 +2608,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 884,
+      "Progressed": 886,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-06T21:00:31.8698684+00:00",
-  "LastChanged_Achievements": "2024-01-09T12:06:45.1662897+00:00",
+  "LastChanged_Achievements": "2024-01-09T13:23:04.1697357+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-09T12:03:02.2029047+00:00",
-  "LastUpdate_Achievements": "2024-01-09T12:06:45.1663224+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:19:27.1264201+00:00",
+  "LastUpdate_Achievements": "2024-01-09T13:23:04.1697635+00:00"
 }

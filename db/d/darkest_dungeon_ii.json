@@ -2,7 +2,7 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 262,
+  "Ranking_Rating": 261,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
@@ -10680,9 +10680,9 @@
       "Count": 1088
     }
   ],
-  "EOS_Progressed": 132258,
+  "EOS_Progressed": 132260,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 988,
+  "EOS_NewPlayers": 979,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39055,6 +39055,11 @@
       "Time": "2024-01-09T12:10:01.4672653+00:00",
       "NumProgressed": 132258,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T13:26:17.3174665+00:00",
+      "NumProgressed": 132260,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -39194,7 +39199,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7935
+      "UsersEstimate": 7936
     },
     {
       "ID": "combat_kill_cadavers",
@@ -39226,7 +39231,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7935
+      "UsersEstimate": 7936
     },
     {
       "ID": "combat_kill_fanatics",
@@ -39290,7 +39295,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7935
+      "UsersEstimate": 7936
     },
     {
       "ID": "combat_kill_pillagers",
@@ -39697,21 +39702,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132258,
+      "Progressed": 132260,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7127,
+      "Progressed": 7129,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-09T04:58:52.2545208+00:00",
-  "LastChanged_Achievements": "2024-01-09T12:10:01.4672649+00:00",
+  "LastChanged_Achievements": "2024-01-09T13:26:17.3174661+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-09T11:58:41.7406452+00:00",
-  "LastUpdate_Achievements": "2024-01-09T12:10:01.4675574+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:15:08.9566059+00:00",
+  "LastUpdate_Achievements": "2024-01-09T13:26:17.3177224+00:00"
 }

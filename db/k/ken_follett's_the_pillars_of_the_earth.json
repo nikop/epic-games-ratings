@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17734,
+  "EOS_Progressed": 17736,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -18045,6 +18045,11 @@
       "Time": "2024-01-09T12:05:39.7228699+00:00",
       "NumProgressed": 17734,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-09T13:22:01.3589851+00:00",
+      "NumProgressed": 17736,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18056,7 +18061,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "tpote_achievement_10",
@@ -18096,7 +18101,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5675
+      "UsersEstimate": 5676
     },
     {
       "ID": "tpote_achievement_15",
@@ -18120,7 +18125,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2837
+      "UsersEstimate": 2838
     },
     {
       "ID": "tpote_achievement_18",
@@ -18128,7 +18133,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "tpote_achievement_19",
@@ -18144,7 +18149,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5852
+      "UsersEstimate": 5853
     },
     {
       "ID": "tpote_achievement_20",
@@ -18184,7 +18189,7 @@
       "Name": "First profit",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "tpote_achievement_25",
@@ -18200,7 +18205,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2305
+      "UsersEstimate": 2306
     },
     {
       "ID": "tpote_achievement_27",
@@ -18240,7 +18245,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "tpote_achievement_31",
@@ -18272,7 +18277,7 @@
       "Name": "A cry for help",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "tpote_achievement_35",
@@ -18360,7 +18365,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "tpote_achievement_8",
@@ -18368,7 +18373,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3724
+      "UsersEstimate": 3725
     },
     {
       "ID": "tpote_achievement_9",
@@ -18383,15 +18388,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17734,
+      "Progressed": 17736,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-09T12:05:39.7228694+00:00",
+  "LastChanged_Achievements": "2024-01-09T13:22:01.3589846+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:38.8316794+00:00",
-  "LastUpdate_Ratings": "2024-01-09T12:03:08.5774785+00:00",
-  "LastUpdate_Achievements": "2024-01-09T12:05:39.7230239+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:19:33.2272376+00:00",
+  "LastUpdate_Achievements": "2024-01-09T13:22:01.3591413+00:00"
 }

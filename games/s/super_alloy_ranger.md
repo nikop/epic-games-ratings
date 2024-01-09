@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 74.00% | ~115 |
+| Iceberg Theory | 75.00% | ~116 |
 | Gear Up | 64.00% | ~99 |
 | A Grand Show | 64.00% | ~99 |
 | Freshen Up | 54.00% | ~84 |

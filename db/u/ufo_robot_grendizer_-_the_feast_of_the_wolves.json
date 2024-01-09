@@ -2,9 +2,9 @@
   "ID": "3a077bc4fa864985b8c0b343176226d2",
   "Name": "UFO ROBOT GRENDIZER - The Feast of the Wolves",
   "ProductSlug": "goldorak-d90cf1",
-  "Ranking_EOS_Progress": 526,
+  "Ranking_EOS_Progress": 524,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 388,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70,
+  "EOS_Progressed": 71,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -369,6 +369,11 @@
       "Time": "2024-01-07T14:04:47.3020917+00:00",
       "NumProgressed": 70,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T13:22:09.5393194+00:00",
+      "NumProgressed": 71,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-14T10:09:31.9139151+00:00",
@@ -403,25 +408,25 @@
       "ID": "ACH_ESCAPEFROMFLEED",
       "SetID": "ch874lb",
       "Name": "Escape from Fleed",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 35,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_FIRSTCONTACT",
       "SetID": "ch874lb",
       "Name": "First Contact",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 35,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_FIRSTDEATH",
       "SetID": "ch874lb",
       "Name": "Strength in Defeat",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 35,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_FIRSTLEGENDARYLOOT",
@@ -429,13 +434,13 @@
       "Name": "The Remains of Fleed",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_FIRSTMEDITATION",
       "SetID": "ch874lb",
       "Name": "Life of Pi",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 35,
       "UsersEstimate": 39
     },
@@ -451,9 +456,9 @@
       "ID": "ACH_FIRSTUPGRADE",
       "SetID": "ch874lb",
       "Name": "Technology first!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_FLEEDKEEPER",
@@ -501,7 +506,7 @@
       "Name": "The Legend",
       "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_PERFECTDODGE",
@@ -523,7 +528,7 @@
       "ID": "ACH_RUINDIVISION",
       "SetID": "ch874lb",
       "Name": "The Broken Guard",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 35,
       "UsersEstimate": 6
     },
@@ -620,14 +625,14 @@
     {
       "ID": "ch874lb",
       "IsBase": true,
-      "Progressed": 70,
+      "Progressed": 71,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2024-01-09T12:05:48.7342407+00:00",
+  "LastChanged_Achievements": "2024-01-09T13:22:09.539319+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:49.9847922+00:00",
-  "LastUpdate_Ratings": "2024-01-09T11:57:33.3678566+00:00",
-  "LastUpdate_Achievements": "2024-01-09T12:05:48.7342913+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:13:59.9872557+00:00",
+  "LastUpdate_Achievements": "2024-01-09T13:22:09.5393459+00:00"
 }

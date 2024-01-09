@@ -40,6 +40,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Against All Odds | 2.00% | ~411 |
 | Barren Lands | 2.00% | ~411 |
 | Sparkdew Crystals | 2.00% | ~411 |
+| Fishmen Ritual Site | 2.00% | ~411 |
 | Haunted Forest | 2.00% | ~411 |
 | Flooded Mines | 2.00% | ~411 |
 | Defying the Crown | 2.00% | ~411 |
@@ -47,7 +48,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Efficient Explorer | 1.00% | ~205 |
 | Refinery | 1.00% | ~205 |
 | Dangerous Lands | 1.00% | ~205 |
-| Fishmen Ritual Site | 1.00% | ~205 |
 | Forbidden Lands | 1.00% | ~205 |
 | Forsaken Gods Temple | 1.00% | ~205 |
 | Victory Through Prosperity | 1.00% | ~205 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,539 (Ranked 154)  
+Progressed: 20,540 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,10 +330,10 @@ Completed: 34 (0.17%) (Ranked 282)
 | 2024-01-06 | 20,318 | 34 |
 | 2024-01-07 | 20,428 | 34 |
 | 2024-01-08 | 20,508 | 34 |
-| 2024-01-09 | 20,539 | 34 |
+| 2024-01-09 | 20,540 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
-Sum: 3,363 (Ranked 177)  
+Sum: 3,364 (Ranked 177)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -341,7 +341,7 @@ Diff (max vs sum): 56
 | This game is Relaxing | 448 |
 | This game is Great for Beginners | 443 |
 | This game is Extremely Fun | 420 |
-| This game is Highly Recommended | 405 |
+| This game is Highly Recommended | 406 |
 | This game has Unique Visuals | 347 |
 | This game has Amazing Storytelling | 333 |
 | This game has Amazing Characters | 295 |
@@ -629,4 +629,4 @@ Diff (max vs sum): 56
 | 2024-01-06 | 4.82 | - | 449 | 3,344 |
 | 2024-01-07 | 4.82 | - | 449 | 3,354 |
 | 2024-01-08 | 4.82 | - | 452 | 3,361 |
-| 2024-01-09 | 4.82 | - | 452 | 3,363 |
+| 2024-01-09 | 4.82 | - | 452 | 3,364 |

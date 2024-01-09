@@ -1,19 +1,19 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 526)  
+Rating: 4.55 (Ranked 527)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~3,405 |
-| Ready for Winter | 61.00% | ~2,845 |
-| Ready for Summer | 48.00% | ~2,239 |
+| Venture Outward | 73.00% | ~3,406 |
+| Ready for Winter | 61.00% | ~2,846 |
+| Ready for Summer | 48.00% | ~2,240 |
 | Cordon Bleu | 40.00% | ~1,866 |
 | Tapped! | 34.00% | ~1,586 |
 | Eureka | 29.00% | ~1,353 |
 | Scourge Slayer | 23.00% | ~1,073 |
-| Science, Troglodyte! | 21.00% | ~979 |
+| Science, Troglodyte! | 21.00% | ~980 |
 | Exceptional Skill | 20.00% | ~933 |
 | Home Sweet Home | 20.00% | ~933 |
 | Encyclopedic! | 18.00% | ~840 |
@@ -23,9 +23,9 @@ Number of Ratings: 266  (23.09.2022)
 | Strange amalgams | 11.00% | ~513 |
 | The Power of Faith | 11.00% | ~513 |
 | The Power of Freedom | 8.00% | ~373 |
-| Ace Detective | 7.00% | ~326 |
-| Gift from the Ancestors | 7.00% | ~326 |
-| Magic is a science | 7.00% | ~326 |
+| Ace Detective | 7.00% | ~327 |
+| Gift from the Ancestors | 7.00% | ~327 |
+| Magic is a science | 7.00% | ~327 |
 | Hold my Mead and Watch This | 6.00% | ~280 |
 | House of Cards | 6.00% | ~280 |
 | Let ‘em eat magma! | 6.00% | ~280 |
@@ -44,12 +44,12 @@ Number of Ratings: 266  (23.09.2022)
 | The blood is life | 1.00% | ~47 |
 | Vanquisher of nightmares | 1.00% | ~47 |
 | They'll Tell Stories About This | 0.90% | ~42 |
-| Through fire and flame. | 0.60% | ~28 |
+| Through fire and flame. | 0.70% | ~33 |
 | Legacy of a master hunter | 0.40% | ~19 |
 | Master of Aurai | 0.30% | ~14 |
 | The Absolute Pinnacle. | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,664 (Ranked 206)  
+Progressed: 4,666 (Ranked 206)  
 Completed: 5 (0.11%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 5 (0.11%) (Ranked 305)
 | 2024-01-06 | 4,569 | 5 |
 | 2024-01-07 | 4,622 | 5 |
 | 2024-01-08 | 4,653 | 5 |
-| 2024-01-09 | 4,664 | 5 |
+| 2024-01-09 | 4,666 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 503)  
 Sum: 246 (Ranked 401)  

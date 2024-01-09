@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18706,
+  "EOS_Progressed": 18709,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 661,
+  "EOS_NewPlayers": 662,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -16817,6 +16817,11 @@
       "Time": "2024-01-09T11:08:37.1625601+00:00",
       "NumProgressed": 18706,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-09T13:23:09.5653483+00:00",
+      "NumProgressed": 18709,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16853,7 +16858,7 @@
       "Name": "Data Archivist",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "13",
@@ -16861,7 +16866,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3367
+      "UsersEstimate": 3368
     },
     {
       "ID": "14",
@@ -16869,7 +16874,7 @@
       "Name": "Doctor Approved",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "15",
@@ -16885,7 +16890,7 @@
       "Name": "Drug Gifter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "17",
@@ -16901,7 +16906,7 @@
       "Name": "Bottoms up!",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "19",
@@ -16925,7 +16930,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "21",
@@ -16949,7 +16954,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1496
+      "UsersEstimate": 1497
     },
     {
       "ID": "24",
@@ -16965,7 +16970,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "26",
@@ -17101,20 +17106,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18706,
+      "Progressed": 18709,
       "Completed": 61
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4660,
+      "Progressed": 4663,
       "Completed": 1266
     }
   ],
@@ -17122,8 +17127,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-08T14:59:15.8971936+00:00",
-  "LastChanged_Achievements": "2024-01-09T12:08:31.7917953+00:00",
+  "LastChanged_Achievements": "2024-01-09T13:23:09.5653479+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-09T11:59:13.3579564+00:00",
-  "LastUpdate_Achievements": "2024-01-09T12:08:31.7919001+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:15:40.2210473+00:00",
+  "LastUpdate_Achievements": "2024-01-09T13:23:09.5654935+00:00"
 }

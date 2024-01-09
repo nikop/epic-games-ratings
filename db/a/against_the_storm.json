@@ -3801,10 +3801,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3363,
       "NumberOfAwardsMax": 452
+    },
+    {
+      "Time": "2024-01-09T13:14:32.6779075+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3364,
+      "NumberOfAwardsMax": 452
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3363,
+  "NumberOfAwards": 3364,
   "NumberOfAwardsMax": 452,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3824,7 +3830,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 405
+      "Count": 406
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3869,9 +3875,9 @@
       "Count": 347
     }
   ],
-  "EOS_Progressed": 20539,
+  "EOS_Progressed": 20540,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 584,
+  "EOS_NewPlayers": 582,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19059,6 +19065,11 @@
       "Time": "2024-01-09T12:04:30.8868863+00:00",
       "NumProgressed": 20539,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-09T13:20:53.9400156+00:00",
+      "NumProgressed": 20540,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19237,9 +19248,9 @@
       "ID": "WinNearFishmen",
       "SetID": "cfbk359",
       "Name": "Fishmen Ritual Site",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 411
     },
     {
       "ID": "WinNearForbidden",
@@ -19542,15 +19553,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20539,
+      "Progressed": 20540,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-09T01:46:37.7720969+00:00",
-  "LastChanged_Achievements": "2024-01-09T12:04:30.8868858+00:00",
+  "LastChanged": "2024-01-09T13:14:32.6779074+00:00",
+  "LastChanged_Achievements": "2024-01-09T13:20:53.9400153+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-09T11:58:06.7812128+00:00",
-  "LastUpdate_Achievements": "2024-01-09T12:04:30.8870539+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:14:32.6779078+00:00",
+  "LastUpdate_Achievements": "2024-01-09T13:20:53.9401293+00:00"
 }

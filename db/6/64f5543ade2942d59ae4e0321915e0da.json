@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 455,
+  "EOS_Progressed": 457,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 1,
@@ -1784,6 +1784,11 @@
       "Time": "2024-01-09T09:03:57.5650563+00:00",
       "NumProgressed": 455,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T13:20:36.9275811+00:00",
+      "NumProgressed": 457,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1852,7 +1857,7 @@
       "Name": "Gambler",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -1868,7 +1873,7 @@
       "Name": "Hunger",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "AC_BOSS_01",
@@ -1876,7 +1881,7 @@
       "Name": "Misery",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "AC_BOSS_02",
@@ -1892,7 +1897,7 @@
       "Name": "Sacrilege",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "AC_BOSS_04",
@@ -1908,7 +1913,7 @@
       "Name": "Pack",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "AC_COMBO_2",
@@ -1940,7 +1945,7 @@
       "Name": "Corpse",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "AC_DEATH_2",
@@ -1964,7 +1969,7 @@
       "Name": "Killer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -1980,7 +1985,7 @@
       "Name": "Genocide",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -1988,7 +1993,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 366
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -1996,7 +2001,7 @@
       "Name": "Journey",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -2012,7 +2017,7 @@
       "Name": "Player",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -2036,7 +2041,7 @@
       "Name": "Schooling",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "AC_FULL_MAP",
@@ -2100,7 +2105,7 @@
       "Name": "Loss",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -2108,7 +2113,7 @@
       "Name": "Shot",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "AC_SNIPER_MAX",
@@ -2131,14 +2136,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 455,
+      "Progressed": 457,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-09T12:04:13.7743699+00:00",
+  "LastChanged_Achievements": "2024-01-09T13:20:36.9275807+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-09T11:59:20.7966827+00:00",
-  "LastUpdate_Achievements": "2024-01-09T12:04:13.7744084+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:15:47.5960623+00:00",
+  "LastUpdate_Achievements": "2024-01-09T13:20:36.9276163+00:00"
 }

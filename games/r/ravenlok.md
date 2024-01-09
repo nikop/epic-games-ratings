@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once Upon a Time | 96.00% | ~1,133 |
-| Waff! | 95.00% | ~1,121 |
+| Once Upon a Time | 96.00% | ~1,134 |
+| Waff! | 95.00% | ~1,122 |
 | Into the Barn | 87.00% | ~1,027 |
-| A Prophecy | 85.00% | ~1,003 |
-| Sword, Shield, Fight! | 75.00% | ~885 |
+| A Prophecy | 85.00% | ~1,004 |
+| Sword, Shield, Fight! | 75.00% | ~886 |
 | A Grand Visit | 72.00% | ~850 |
-| Fun Guy | 63.00% | ~743 |
 | Vibing | 62.00% | ~732 |
-| Tragic Brave | 54.00% | ~637 |
+| Fun Guy | 62.00% | ~732 |
+| Tragic Brave | 54.00% | ~638 |
 | Awakened Spirits | 51.00% | ~602 |
 | Little Shop | 50.00% | ~590 |
 | Surprise! | 46.00% | ~543 |
@@ -26,10 +26,10 @@
 | Nightmare Fuel | 40.00% | ~472 |
 | Take Heart | 40.00% | ~472 |
 | Well Rested | 40.00% | ~472 |
-| All That Glistens | 39.00% | ~460 |
-| Stronger! | 39.00% | ~460 |
-| Ancient Wisdom | 38.00% | ~448 |
-| Frog Facts! | 38.00% | ~448 |
+| All That Glistens | 39.00% | ~461 |
+| Stronger! | 39.00% | ~461 |
+| Ancient Wisdom | 38.00% | ~449 |
+| Frog Facts! | 38.00% | ~449 |
 | Spellbound | 37.00% | ~437 |
 | All Skilled Up! | 37.00% | ~437 |
 | It's Pointy! | 37.00% | ~437 |
@@ -41,22 +41,22 @@
 | Pull the Plug | 35.00% | ~413 |
 | All Heart | 35.00% | ~413 |
 | Trick Question! | 35.00% | ~413 |
-| Soul Slayer | 34.00% | ~401 |
-| The Downfall | 34.00% | ~401 |
-| Final Showdown | 34.00% | ~401 |
-| Spot of Tea? | 34.00% | ~401 |
-| Going Home | 34.00% | ~401 |
-| Extraordinary! | 33.00% | ~389 |
+| Soul Slayer | 34.00% | ~402 |
+| The Downfall | 34.00% | ~402 |
+| Final Showdown | 34.00% | ~402 |
+| Spot of Tea? | 34.00% | ~402 |
+| Going Home | 34.00% | ~402 |
+| Extraordinary! | 33.00% | ~390 |
 | Mirror, Mirror | 31.00% | ~366 |
-| Flower Power | 28.00% | ~330 |
+| Flower Power | 28.00% | ~331 |
 | Shopping Spree! | 25.00% | ~295 |
-| Crowned | 23.00% | ~271 |
+| Crowned | 23.00% | ~272 |
 | Max Level! | 16.00% | ~189 |
 | Dance Master | 10.00% | ~118 |
 | Bombs Away! | 9.00% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,180 (Ranked 284)  
-Completed: 90 (7.63%) (Ranked 53)  
+Progressed: 1,181 (Ranked 284)  
+Completed: 90 (7.62%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -219,6 +219,7 @@ Completed: 90 (7.63%) (Ranked 53)
 | 2024-01-06 | 1,174 | 90 |
 | 2024-01-07 | 1,179 | 90 |
 | 2024-01-08 | 1,180 | 90 |
+| 2024-01-09 | 1,181 | 90 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

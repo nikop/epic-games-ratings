@@ -6,43 +6,43 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,473 |
-| Life is your teacher | 5.00% | ~37,894 |
-| The Assault | 4.00% | ~30,316 |
-| Lightning Hands | 4.00% | ~30,316 |
-| The Hateful Pole Fighter | 3.00% | ~22,737 |
-| State of constant learning | 3.00% | ~22,737 |
-| Qi Gong: Essence | 3.00% | ~22,737 |
-| Old Child | 3.00% | ~22,737 |
-| A Lady's Blood in the Snow | 2.00% | ~15,158 |
-| Lady Wing Chun | 2.00% | ~15,158 |
-| Kill Nil | 2.00% | ~15,158 |
-| Stuntmaster | 2.00% | ~15,158 |
-| Street Fighting | 2.00% | ~15,158 |
-| Qi Gong: Breath | 2.00% | ~15,158 |
-| I know Kung-Fu | 2.00% | ~15,158 |
-| Path of the Prospect | 2.00% | ~15,158 |
-| Rumble in the Hangar | 2.00% | ~15,158 |
-| Diligence as a goal | 2.00% | ~1,344 |
-| Furious Fists | 1.00% | ~7,579 |
-| Scareless | 1.00% | ~7,579 |
-| Dance of the Praying Mantis | 1.00% | ~7,579 |
-| Qi Gong: Mind | 1.00% | ~7,579 |
-| Kung-Fu Tussle | 1.00% | ~7,579 |
-| Take damage to save time | 1.00% | ~7,579 |
-| Project Arena | 1.00% | ~672 |
+| The Old Grandmaster | 6.00% | ~45,478 |
+| Life is your teacher | 5.00% | ~37,898 |
+| The Assault | 4.00% | ~30,319 |
+| Lightning Hands | 4.00% | ~30,319 |
+| The Hateful Pole Fighter | 3.00% | ~22,739 |
+| State of constant learning | 3.00% | ~22,739 |
+| Qi Gong: Essence | 3.00% | ~22,739 |
+| Old Child | 3.00% | ~22,739 |
+| A Lady's Blood in the Snow | 2.00% | ~15,159 |
+| Lady Wing Chun | 2.00% | ~15,159 |
+| Kill Nil | 2.00% | ~15,159 |
+| Stuntmaster | 2.00% | ~15,159 |
+| Street Fighting | 2.00% | ~15,159 |
+| Qi Gong: Breath | 2.00% | ~15,159 |
+| I know Kung-Fu | 2.00% | ~15,159 |
+| Path of the Prospect | 2.00% | ~15,159 |
+| Rumble in the Hangar | 2.00% | ~15,159 |
+| Diligence as a goal | 2.00% | ~1,345 |
+| Furious Fists | 1.00% | ~7,580 |
+| Scareless | 1.00% | ~7,580 |
+| Dance of the Praying Mantis | 1.00% | ~7,580 |
+| Qi Gong: Mind | 1.00% | ~7,580 |
+| Kung-Fu Tussle | 1.00% | ~7,580 |
+| Take damage to save time | 1.00% | ~7,580 |
+| Project Arena | 1.00% | ~673 |
 | Fight the way you practice | 0.80% | ~538 |
-| Muk Yan Master | 0.70% | ~5,305 |
-| Tiger on Fire | 0.60% | ~4,547 |
-| Source of Flying Daggers | 0.60% | ~4,547 |
-| Detective Story | 0.60% | ~4,547 |
-| Bloody Sport | 0.60% | ~403 |
-| Martial Hub | 0.60% | ~403 |
-| Iron Money | 0.50% | ~3,789 |
-| Legendary Talismans of Wuxing | 0.50% | ~3,789 |
-| Prodigal Child | 0.50% | ~3,789 |
-| The 36th Chamber of Kung-Fu | 0.50% | ~3,789 |
-| Sword Stained With Blood | 0.50% | ~3,789 |
+| Muk Yan Master | 0.70% | ~5,306 |
+| Tiger on Fire | 0.60% | ~4,548 |
+| Source of Flying Daggers | 0.60% | ~4,548 |
+| Detective Story | 0.60% | ~4,548 |
+| Bloody Sport | 0.60% | ~404 |
+| Martial Hub | 0.60% | ~404 |
+| Iron Money | 0.50% | ~3,790 |
+| Legendary Talismans of Wuxing | 0.50% | ~3,790 |
+| Prodigal Child | 0.50% | ~3,790 |
+| The 36th Chamber of Kung-Fu | 0.50% | ~3,790 |
+| Sword Stained With Blood | 0.50% | ~3,790 |
 | The Pit Protector | 0.40% | ~3,032 |
 | The best strikes are the ones we avoid | 0.40% | ~269 |
 | Drunken Fighter | 0.30% | ~2,274 |
@@ -55,11 +55,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Healing Memory | 0.20% | ~1,516 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,516 |
 | Be like water my friend | 0.20% | ~1,516 |
-| Secure, Protect, Leave | 0.20% | ~134 |
-| Crouching Tiger | 0.20% | ~134 |
-| Skill and an even stronger will | 0.20% | ~134 |
-| Master of the Flying Assassins | 0.20% | ~134 |
-| Beatmaker | 0.20% | ~134 |
+| Secure, Protect, Leave | 0.20% | ~135 |
+| Crouching Tiger | 0.20% | ~135 |
+| Skill and an even stronger will | 0.20% | ~135 |
+| Master of the Flying Assassins | 0.20% | ~135 |
+| Beatmaker | 0.20% | ~135 |
 | Warriors from the Mountain | 0.10% | ~758 |
 | Hidden Dragon | 0.10% | ~67 |
 | Here Cometh the Iceman | 0.10% | ~67 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~67 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 757,888 (Ranked 26)  
+Progressed: 757,967 (Ranked 26)  
 Completed: 12,980 (1.71%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,10 +331,10 @@ Completed: 12,980 (1.71%) (Ranked 142)
 | 2024-01-06 | 755,903 | 12,976 |
 | 2024-01-07 | 756,813 | 12,976 |
 | 2024-01-08 | 757,529 | 12,979 |
-| 2024-01-09 | 757,888 | 12,980 |
+| 2024-01-09 | 757,967 | 12,980 |
 ## Awards
 Max (Great Boss Battles): 7,154  (Ranked 56)  
-Sum: 12,650 (Ranked 85)  
+Sum: 12,652 (Ranked 85)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -343,7 +343,7 @@ Diff (max vs sum): -29
 | This game has Challenging Combat | 644 |
 | This game has Amazing Storytelling | 617 |
 | This game has Amazing Characters | 608 |
-| This game is Highly Recommended | 605 |
+| This game is Highly Recommended | 607 |
 | This game has Quickly Understood Controls | 597 |
 | This game has Unique Visuals | 585 |
 | This game is Extremely Fun | 583 |
@@ -709,3 +709,4 @@ Diff (max vs sum): -29
 | 2024-01-06 | 4.82 | - | 7,131 | 12,615 |
 | 2024-01-07 | 4.82 | - | 7,148 | 12,638 |
 | 2024-01-08 | 4.82 | - | 7,154 | 12,650 |
+| 2024-01-09 | 4.82 | - | 7,154 | 12,652 |

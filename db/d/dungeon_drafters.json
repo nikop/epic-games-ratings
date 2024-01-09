@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_NewPlayers": 413,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 141,
+  "EOS_Progressed": 142,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -691,6 +691,11 @@
       "Time": "2024-01-09T00:05:26.6652604+00:00",
       "NumProgressed": 141,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T13:22:20.5297455+00:00",
+      "NumProgressed": 142,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -702,7 +707,7 @@
       "Name": "The Bodyguard",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "GL_complete",
@@ -710,15 +715,15 @@
       "Name": "The Apprentice",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "InnkeeperQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Treasure Hunting",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 53
     },
     {
       "ID": "InnkeeperQuestlineLast",
@@ -726,7 +731,7 @@
       "Name": "Braving Miasma",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "InnkeeperQuestlineThird",
@@ -764,9 +769,9 @@
       "ID": "MasterOracleQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Riddlesolver",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "MasterOracleQuestlineLast",
@@ -790,7 +795,7 @@
       "Name": "Friend!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "MasterRaiderQuestlineLast",
@@ -836,9 +841,9 @@
       "ID": "MasterWardenQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Uncut Gem",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 38
     },
     {
       "ID": "MasterWardenQuestlineLast",
@@ -926,7 +931,7 @@
       "Name": "Card Collector",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "demiurge_defeated",
@@ -998,7 +1003,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "thanks_but_why?",
@@ -1021,7 +1026,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 141,
+      "Progressed": 142,
       "Completed": 0
     }
   ],
@@ -1029,8 +1034,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2024-01-09T12:06:00.2335834+00:00",
+  "LastChanged_Achievements": "2024-01-09T13:22:20.5297452+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:57.5094104+00:00",
-  "LastUpdate_Ratings": "2024-01-09T11:57:53.7450965+00:00",
-  "LastUpdate_Achievements": "2024-01-09T12:06:00.2336361+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:14:20.0136207+00:00",
+  "LastUpdate_Achievements": "2024-01-09T13:22:20.5297829+00:00"
 }

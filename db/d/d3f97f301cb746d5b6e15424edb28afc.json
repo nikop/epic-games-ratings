@@ -2,7 +2,7 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_Rating": 509,
+  "Ranking_Rating": 510,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 262,
@@ -4740,9 +4740,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1451
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -4972,9 +4972,9 @@
       "ID": "GSS_ACH_31_TRASH_02",
       "SetID": "5fn8ia4",
       "Name": "Trash B Gone",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1385
     },
     {
       "ID": "GSS_ACH_32_TRASH_03",
@@ -5132,9 +5132,9 @@
       "ID": "GSS_ACH_51_UPGRADE_WORKSHOP_01",
       "SetID": "5fn8ia4",
       "Name": "Workshop Obtained!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1303
     },
     {
       "ID": "GSS_ACH_52_UPGRADE_WORKSHOP_02",
@@ -5244,9 +5244,9 @@
       "ID": "GSS_ACH_65_POPULARITY_05",
       "SetID": "5fn8ia4",
       "Name": "Talk of the Town",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1022
     },
     {
       "ID": "GSS_ACH_66_POPULARITY_06",
@@ -5308,9 +5308,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1451
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -5397,8 +5397,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-05T19:59:54.3830999+00:00",
-  "LastChanged_Achievements": "2024-01-09T12:04:56.990985+00:00",
+  "LastChanged_Achievements": "2024-01-09T13:21:19.7301968+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.4325477+00:00",
-  "LastUpdate_Ratings": "2024-01-09T11:58:15.5549701+00:00",
-  "LastUpdate_Achievements": "2024-01-09T12:04:56.9910821+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:14:42.0322304+00:00",
+  "LastUpdate_Achievements": "2024-01-09T13:21:19.730306+00:00"
 }

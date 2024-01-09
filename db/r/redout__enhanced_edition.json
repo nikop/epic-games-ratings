@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239027,
+  "EOS_Progressed": 239029,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28078,6 +28078,11 @@
       "Time": "2024-01-09T12:06:22.1918675+00:00",
       "NumProgressed": 239027,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-09T13:22:41.6925788+00:00",
+      "NumProgressed": 239029,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -28177,7 +28182,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47805
+      "UsersEstimate": 47806
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -28225,7 +28230,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78879
+      "UsersEstimate": 78880
     },
     {
       "ID": "NOBUNAGA",
@@ -28353,22 +28358,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 98001
+      "UsersEstimate": 98002
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 239027,
+      "Progressed": 239029,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-09T12:06:22.1918671+00:00",
+  "LastChanged_Achievements": "2024-01-09T13:22:41.6925785+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.0149602+00:00",
-  "LastUpdate_Ratings": "2024-01-09T11:58:13.4076215+00:00",
-  "LastUpdate_Achievements": "2024-01-09T12:06:22.1921401+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:14:39.960167+00:00",
+  "LastUpdate_Achievements": "2024-01-09T13:22:41.6927879+00:00"
 }

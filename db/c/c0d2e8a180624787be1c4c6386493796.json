@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 301,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -1428,9 +1428,9 @@
       "ID": "KR4_ACHIEVEMENT_BUILD_TOWERS_EASY",
       "SetID": "caeik3h",
       "Name": "We Can Build It!",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 247
     },
     {
       "ID": "KR4_ACHIEVEMENT_CALL_EARLY_WAVES",
@@ -1892,9 +1892,9 @@
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
       "SetID": "caeik3h",
       "Name": "We Are Legion!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 166
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPIDERS",
@@ -1924,9 +1924,9 @@
       "ID": "KR4_ACHIEVEMENT_T800",
       "SetID": "caeik3h",
       "Name": "I\u0027ll Be Back",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 175
     },
     {
       "ID": "KR4_ACHIEVEMENT_THE_GILLMAN",
@@ -1993,8 +1993,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-09T12:06:36.9473192+00:00",
+  "LastChanged_Achievements": "2024-01-09T13:22:56.0643783+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.7688835+00:00",
-  "LastUpdate_Ratings": "2024-01-09T11:59:43.1954031+00:00",
-  "LastUpdate_Achievements": "2024-01-09T12:06:36.947386+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:16:10.1079657+00:00",
+  "LastUpdate_Achievements": "2024-01-09T13:22:56.0644436+00:00"
 }

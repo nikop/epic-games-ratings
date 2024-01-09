@@ -2,7 +2,7 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_Rating": 674,
+  "Ranking_Rating": 675,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 223,
@@ -45,7 +45,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3476,
+  "EOS_Progressed": 3478,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
@@ -8520,6 +8520,11 @@
       "Time": "2024-01-09T12:03:44.4164795+00:00",
       "NumProgressed": 3476,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T13:20:09.9382613+00:00",
+      "NumProgressed": 3478,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8532,7 +8537,7 @@
       "Name": "First Love",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -8540,7 +8545,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -8564,7 +8569,7 @@
       "Name": "Restored and Ready",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -8620,7 +8625,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -8740,7 +8745,7 @@
       "Name": "Clean Race",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -8828,7 +8833,7 @@
       "Name": "Eat My Dust",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 1703
+      "UsersEstimate": 1704
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -8836,7 +8841,7 @@
       "Name": "Champagne Spray",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -8923,7 +8928,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3476,
+      "Progressed": 3478,
       "Completed": 0
     }
   ],
@@ -8931,8 +8936,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-02T17:58:34.6110096+00:00",
-  "LastChanged_Achievements": "2024-01-09T12:03:44.4164793+00:00",
+  "LastChanged_Achievements": "2024-01-09T13:20:09.938261+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.6681713+00:00",
-  "LastUpdate_Ratings": "2024-01-09T11:57:40.5219218+00:00",
-  "LastUpdate_Achievements": "2024-01-09T12:03:44.4165442+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:14:07.8562336+00:00",
+  "LastUpdate_Achievements": "2024-01-09T13:20:09.9383389+00:00"
 }

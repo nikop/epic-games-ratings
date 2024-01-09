@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1723,9 +1723,9 @@
       "ID": "FINDBILLY",
       "SetID": "a1angca",
       "Name": "Festival-goer",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "FINDCITY",
@@ -1771,9 +1771,9 @@
       "ID": "HELPCHILDREN",
       "SetID": "a1angca",
       "Name": "Detective",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "HELPTHORHILD",
@@ -1859,8 +1859,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-09T12:06:06.9502172+00:00",
+  "LastChanged_Achievements": "2024-01-09T13:22:27.2180145+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:22.4582393+00:00",
-  "LastUpdate_Ratings": "2024-01-09T11:59:40.325869+00:00",
-  "LastUpdate_Achievements": "2024-01-09T12:06:06.9502917+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:16:07.2480408+00:00",
+  "LastUpdate_Achievements": "2024-01-09T13:22:27.2180693+00:00"
 }

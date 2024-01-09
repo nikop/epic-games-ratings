@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -5039,9 +5039,9 @@
       "ID": "ML_ACHIEVEMENT_25",
       "SetID": "5k00jcd",
       "Name": "The Yeti",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "ML_ACHIEVEMENT_26",
@@ -5228,8 +5228,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-09T12:05:26.6536045+00:00",
+  "LastChanged_Achievements": "2024-01-09T13:21:48.4289814+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-09T11:58:22.8477088+00:00",
-  "LastUpdate_Achievements": "2024-01-09T12:05:26.6536652+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:14:49.0334491+00:00",
+  "LastUpdate_Achievements": "2024-01-09T13:21:48.4290574+00:00"
 }

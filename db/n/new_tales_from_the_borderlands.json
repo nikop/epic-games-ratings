@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -179,7 +179,7 @@
   "Tags": [],
   "EOS_Progressed": 3807,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2397,9 +2397,9 @@
       "ID": "GAMEOVER_FIRST_TIME",
       "SetID": "kakdpn",
       "Name": "Tale in the Toilet",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1142
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -2518,8 +2518,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2024-01-09T12:04:44.4775034+00:00",
+  "LastChanged_Achievements": "2024-01-09T13:21:07.3854183+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:34.4966642+00:00",
-  "LastUpdate_Ratings": "2024-01-09T11:57:46.5352531+00:00",
-  "LastUpdate_Achievements": "2024-01-09T12:04:44.4775438+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:14:13.2285734+00:00",
+  "LastUpdate_Achievements": "2024-01-09T13:21:07.3854541+00:00"
 }

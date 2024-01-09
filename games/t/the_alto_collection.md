@@ -1,19 +1,19 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.70 (Ranked 219)  
+Rating: 4.70 (Ranked 218)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~14,613 |
-| Finding Your Footing | 25.00% | ~13,531 |
-| Nomad | 17.00% | ~9,201 |
-| Picking Up Speed | 15.00% | ~8,118 |
-| Welcome Maya | 14.00% | ~7,577 |
+| Rookie | 27.00% | ~14,615 |
+| Finding Your Footing | 25.00% | ~13,532 |
+| Nomad | 17.00% | ~9,202 |
+| Picking Up Speed | 15.00% | ~8,119 |
+| Welcome Maya | 14.00% | ~7,578 |
 | Scout | 11.00% | ~5,954 |
 | Sightseer | 11.00% | ~5,954 |
-| Amateur | 10.00% | ~5,412 |
+| Amateur | 10.00% | ~5,413 |
 | Unlock Maya | 8.00% | ~4,330 |
 | Wanderer | 8.00% | ~4,330 |
 | Enter Paz | 7.00% | ~3,789 |
@@ -27,11 +27,11 @@ Number of Ratings: 332  (23.09.2022)
 | Human Flight | 3.00% | ~1,624 |
 | Sandboarder | 3.00% | ~1,624 |
 | Izel Has Arrived | 3.00% | ~1,624 |
-| Explorer | 2.00% | ~1,082 |
-| Pro | 2.00% | ~1,082 |
-| Journeyer | 2.00% | ~1,082 |
-| Unlock Izel | 2.00% | ~1,082 |
-| Here Comes Felipe | 2.00% | ~1,082 |
+| Explorer | 2.00% | ~1,083 |
+| Pro | 2.00% | ~1,083 |
+| Journeyer | 2.00% | ~1,083 |
+| Unlock Izel | 2.00% | ~1,083 |
+| Here Comes Felipe | 2.00% | ~1,083 |
 | Hoist the Mainsail | 1.00% | ~541 |
 | Daredevil | 1.00% | ~541 |
 | Introducing Sumara | 1.00% | ~541 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~54 |
 | Windswept | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,123 (Ranked 121)  
+Progressed: 54,129 (Ranked 121)  
 Completed: 5 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 5 (0.01%) (Ranked 372)
 | 2024-01-06 | 53,813 | 5 |
 | 2024-01-07 | 53,972 | 5 |
 | 2024-01-08 | 54,073 | 5 |
-| 2024-01-09 | 54,123 | 5 |
+| 2024-01-09 | 54,129 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 51  (Ranked 454)  
 Sum: 396 (Ranked 357)  

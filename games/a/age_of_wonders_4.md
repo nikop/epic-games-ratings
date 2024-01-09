@@ -5,7 +5,7 @@ Rating: 4.62 (Ranked 379)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 16.00% | ~1,137 |
+| Secret Technique | 17.00% | ~1,208 |
 | Realm Estate | 15.00% | ~1,066 |
 | A Wonderful Discovery | 14.00% | ~995 |
 | Walls Cannot Stop Us | 13.00% | ~924 |
@@ -301,8 +301,8 @@ Completed: 7 (0.10%) (Ranked 309)
 | 2024-01-09 | 7,106 | 7 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 481)  
-Sum: 213 (Ranked 412)  
-Diff (max vs sum): 69  
+Sum: 213 (Ranked 411)  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 41 |

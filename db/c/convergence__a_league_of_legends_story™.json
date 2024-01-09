@@ -2,7 +2,7 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 237,
+  "Ranking_Rating": 236,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 280,
@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1282,
+  "EOS_Progressed": 1283,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3838,6 +3838,11 @@
       "Time": "2024-01-09T09:10:17.9856174+00:00",
       "NumProgressed": 1282,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-09T13:26:38.6153064+00:00",
+      "NumProgressed": 1283,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3945,7 +3950,7 @@
       "Name": "Family Memories",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "FactorywoodChests1",
@@ -4039,9 +4044,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 321
     },
     {
       "ID": "MapCompletion1",
@@ -4095,9 +4100,9 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 321
     },
     {
       "ID": "ParryRepeated1",
@@ -4105,7 +4110,7 @@
       "Name": "No, Thanks!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "PhaseDiveCounter",
@@ -4129,7 +4134,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "RewindDamage1",
@@ -4145,7 +4150,7 @@
       "Name": "Honest Mistake",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ScrambotCompletion1",
@@ -4177,7 +4182,7 @@
       "Name": "Fast Learner",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "SpeedRun",
@@ -4209,7 +4214,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "TheaterChests1",
@@ -4233,7 +4238,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "WatcherFought",
@@ -4272,7 +4277,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1282,
+      "Progressed": 1283,
       "Completed": 7
     }
   ],
@@ -4280,8 +4285,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-09T12:10:23.0406689+00:00",
+  "LastChanged_Achievements": "2024-01-09T13:26:38.6153063+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-09T11:59:18.8953974+00:00",
-  "LastUpdate_Achievements": "2024-01-09T12:10:23.0407452+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:15:45.7976143+00:00",
+  "LastUpdate_Achievements": "2024-01-09T13:26:38.6153695+00:00"
 }

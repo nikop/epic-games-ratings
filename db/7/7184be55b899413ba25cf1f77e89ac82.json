@@ -4,7 +4,7 @@
   "ProductSlug": "demon-turf-neon-splash-7ed9b5",
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-02T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 138,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -639,6 +639,11 @@
       "Time": "2024-01-08T08:11:06.8409159+00:00",
       "NumProgressed": 137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T13:26:26.2477815+00:00",
+      "NumProgressed": 138,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-27T15:03:05.6724324+00:00",
@@ -665,9 +670,9 @@
       "ID": "NeonBeachChamp",
       "SetID": "2i48e34",
       "Name": "Neon Beach Champ",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 75,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "NeonBeachGod",
@@ -683,7 +688,7 @@
       "Name": "Neon City Champ",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NeonCityGod",
@@ -746,14 +751,14 @@
     {
       "ID": "2i48e34",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 138,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-14T16:03:11.8091132+00:00",
   "FirstSeenAchievements": "2023-09-27T15:03:05.6724323+00:00",
-  "LastChanged_Achievements": "2024-01-09T12:10:10.4783324+00:00",
+  "LastChanged_Achievements": "2024-01-09T13:26:26.2477812+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.113299+00:00",
-  "LastUpdate_Ratings": "2024-01-09T11:58:08.8029576+00:00",
-  "LastUpdate_Achievements": "2024-01-09T12:10:10.4783483+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:14:35.237079+00:00",
+  "LastUpdate_Achievements": "2024-01-09T13:26:26.2477918+00:00"
 }

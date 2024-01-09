@@ -1,14 +1,14 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.58 (Ranked 473)  
+Rating: 4.58 (Ranked 474)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Shall Not Pass | 51.00% | ~5,024 |
-| Tutti Eroi! | 50.00% | ~4,925 |
-| Peak Performance | 45.00% | ~4,432 |
+| Tutti Eroi! | 50.00% | ~4,926 |
+| Peak Performance | 45.00% | ~4,433 |
 | Avanti Savoia! | 44.00% | ~4,334 |
 | Mamma Mia! | 35.00% | ~3,448 |
 | Conrad von Hotzensocks | 32.00% | ~3,152 |
@@ -23,36 +23,36 @@ Number of Ratings: 98  (23.09.2022)
 | Ragazzi del '99 | 17.00% | ~1,675 |
 | Luigi Cadorna | 16.00% | ~1,576 |
 | The Lion of the Isonzo | 14.00% | ~1,379 |
-| Uomo Universale | 13.00% | ~1,280 |
+| Uomo Universale | 13.00% | ~1,281 |
 | Die Bosniaken Kommen! | 12.00% | ~1,182 |
 | Dirty Dozen | 12.00% | ~1,182 |
 | Shaken, Not Stirred | 12.00% | ~1,182 |
 | Machiavelli | 11.00% | ~1,084 |
 | The Devil's Paintbrush | 10.00% | ~985 |
 | Thus With A Kiss | 10.00% | ~985 |
-| Dante's Inferno | 9.00% | ~886 |
-| I Have the High Ground | 9.00% | ~886 |
-| Millenial | 9.00% | ~886 |
+| Dante's Inferno | 9.00% | ~887 |
+| I Have the High Ground | 9.00% | ~887 |
+| Millenial | 9.00% | ~887 |
 | The Show Must Go On | 8.00% | ~788 |
 | Tosca | 8.00% | ~788 |
 | 12th Bottle of the Isonzo | 6.00% | ~591 |
 | The Enlightment | 6.00% | ~591 |
-| Cercatore d'Oro | 5.00% | ~492 |
+| Cercatore d'Oro | 5.00% | ~493 |
 | Generalissimo | 4.00% | ~394 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~394 |
+| Farewell to Arms | 3.00% | ~296 |
 | Seeing Red | 3.00% | ~296 |
-| Farewell to Arms | 2.00% | ~197 |
 | Ponte of No Return | 2.00% | ~197 |
 | Soča Drag | 2.00% | ~197 |
 | Saboteur | 2.00% | ~197 |
-| Compagnia della Morte | 1.00% | ~98 |
-| Drop and Give Me 20 | 1.00% | ~98 |
-| Malpractice | 1.00% | ~98 |
-| Rome Wasn't Built In A Day | 1.00% | ~98 |
+| Compagnia della Morte | 1.00% | ~99 |
+| Drop and Give Me 20 | 1.00% | ~99 |
+| Malpractice | 1.00% | ~99 |
+| Rome Wasn't Built In A Day | 1.00% | ~99 |
 | "Sacro Egoismo" | 0.40% | ~39 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,850 (Ranked 182)  
+Progressed: 9,851 (Ranked 182)  
 Completed: 10 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 10 (0.10%) (Ranked 309)
 | 2024-01-06 | 9,806 | 10 |
 | 2024-01-07 | 9,832 | 10 |
 | 2024-01-08 | 9,845 | 10 |
-| 2024-01-09 | 9,850 | 10 |
+| 2024-01-09 | 9,851 | 10 |
 ## Awards
 Max (Diverse Characters): 43  (Ranked 479)  
 Sum: 339 (Ranked 371)  

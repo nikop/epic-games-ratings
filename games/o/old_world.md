@@ -64,6 +64,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.60% | ~98 |
 | Just Difficulty | 0.60% | ~98 |
 | Artisans | 0.60% | ~98 |
+| Sages | 0.60% | ~98 |
 | Colossus | 0.60% | ~98 |
 | Building Wonders | 0.60% | ~98 |
 | Mythology | 0.60% | ~98 |
@@ -73,7 +74,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 0.50% | ~81 |
 | Good Difficulty | 0.50% | ~81 |
 | Champions | 0.50% | ~81 |
-| Sages | 0.50% | ~81 |
 | Statesmen | 0.50% | ~81 |
 | Learn to Play 3 | 0.50% | ~81 |
 | Power to the People | 0.50% | ~81 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,282 (Ranked 169)  
+Progressed: 16,284 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
-| 2024-01-09 | 16,282 | 5 |
+| 2024-01-09 | 16,284 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 286)  
 Sum: 1,918 (Ranked 223)  

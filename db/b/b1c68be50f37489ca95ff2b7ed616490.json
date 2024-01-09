@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 307,
+  "EOS_Progressed": 308,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1309,6 +1309,11 @@
       "Time": "2024-01-09T11:08:23.8425404+00:00",
       "NumProgressed": 307,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T13:22:58.0792375+00:00",
+      "NumProgressed": 308,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1321,7 +1326,7 @@
       "Name": "A mystery? No! A trifle for Poirot!",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "10",
@@ -1337,7 +1342,7 @@
       "Name": "Final questions",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "12",
@@ -1385,7 +1390,7 @@
       "Name": "Master Chess",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "18",
@@ -1511,9 +1516,9 @@
       "ID": "7",
       "SetID": "6bgoh8g",
       "Name": "It\u0027s all coming together",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 22
     },
     {
       "ID": "8",
@@ -1536,14 +1541,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 307,
+      "Progressed": 308,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-09T12:06:39.0147976+00:00",
+  "LastChanged_Achievements": "2024-01-09T13:22:58.0792372+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:18.4677846+00:00",
-  "LastUpdate_Ratings": "2024-01-09T12:03:20.3516567+00:00",
-  "LastUpdate_Achievements": "2024-01-09T12:06:39.0148255+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:19:45.0185313+00:00",
+  "LastUpdate_Achievements": "2024-01-09T13:22:58.0792634+00:00"
 }

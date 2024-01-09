@@ -1,7 +1,7 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 262)  
+Rating: 4.68 (Ranked 261)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,9 +10,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Lost and Found | 8.00% | ~570 |
 | Autodidact | 7.00% | ~9,258 |
 | This guy... again? | 7.00% | ~499 |
-| This Belongs in a Museum | 6.00% | ~7,935 |
-| Creep and Sleep | 6.00% | ~7,935 |
-| Overdue Notice | 6.00% | ~7,935 |
+| This Belongs in a Museum | 6.00% | ~7,936 |
+| Creep and Sleep | 6.00% | ~7,936 |
+| Overdue Notice | 6.00% | ~7,936 |
 | Ploughshares to Swords | 6.00% | ~428 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,613 |
 | Serenity Now! | 5.00% | ~6,613 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,258 (Ranked 91)  
+Progressed: 132,260 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 3 (0.00%) (Ranked 395)
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
-| 2024-01-09 | 132,258 | 3 |
+| 2024-01-09 | 132,260 | 3 |
 ## Awards
 Max (Character Customization): 7,992  (Ranked 50)  
 Sum: 21,553 (Ranked 58)  

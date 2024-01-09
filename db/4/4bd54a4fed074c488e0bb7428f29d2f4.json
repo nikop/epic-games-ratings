@@ -2,9 +2,9 @@
   "ID": "4bd54a4fed074c488e0bb7428f29d2f4",
   "Name": "1428: Shadows over Silesia",
   "ProductSlug": "1428-shadows-over-silesia-266e5f",
-  "Ranking_EOS_Progress": 544,
+  "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 478,
+  "Ranking_EOS_NewPlayers": 458,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56,
+  "EOS_Progressed": 57,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -264,6 +264,11 @@
       "Time": "2024-01-08T20:06:11.5586908+00:00",
       "NumProgressed": 56,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T13:22:57.4330672+00:00",
+      "NumProgressed": 57,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-05T18:06:01.4667778+00:00",
@@ -346,7 +351,7 @@
       "ID": "SOS_BURN_HENNERSDORF",
       "SetID": "6ci4lm2",
       "Name": "Red rooster",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
       "UsersEstimate": 30
     },
@@ -426,7 +431,7 @@
       "ID": "SOS_FIRST_BLOOD",
       "SetID": "6ci4lm2",
       "Name": "First blood",
-      "Percentage": 70,
+      "Percentage": 68,
       "XP": 10,
       "UsersEstimate": 39
     },
@@ -506,7 +511,7 @@
       "ID": "SOS_HE_WILL_REMEMBER",
       "SetID": "6ci4lm2",
       "Name": "He will remember that",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -771,14 +776,14 @@
     {
       "ID": "6ci4lm2",
       "IsBase": true,
-      "Progressed": 56,
+      "Progressed": 57,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2024-01-09T12:06:38.3856586+00:00",
+  "LastChanged_Achievements": "2024-01-09T13:22:57.4330669+00:00",
   "LastUpdate_AppInfo": "2024-01-08T18:57:16.1456339+00:00",
-  "LastUpdate_Ratings": "2024-01-09T11:58:10.3328306+00:00",
-  "LastUpdate_Achievements": "2024-01-09T12:06:38.3857109+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:14:36.9426689+00:00",
+  "LastUpdate_Achievements": "2024-01-09T13:22:57.4331142+00:00"
 }

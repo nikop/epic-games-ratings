@@ -1,24 +1,24 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.55 (Ranked 526)  
+Rating: 4.55 (Ranked 527)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~41,850 |
-| First Steps | 80.00% | ~36,000 |
-| Control the Shadows | 67.00% | ~30,150 |
-| Tools of the Trade | 63.00% | ~28,350 |
-| Apprentice | 60.00% | ~27,000 |
-| Secret Seeker | 57.00% | ~25,650 |
-| Forge of Assassins | 55.00% | ~24,750 |
-| Revenant | 52.00% | ~23,400 |
-| I don’t Care! | 45.00% | ~20,250 |
-| Bird of Prey | 37.00% | ~16,650 |
-| Engraved with Power | 32.00% | ~14,400 |
-| Lady | 31.00% | ~13,950 |
-| Fashionable Assassin | 27.00% | ~12,150 |
+| Awakening | 93.00% | ~41,852 |
+| First Steps | 80.00% | ~36,002 |
+| Control the Shadows | 67.00% | ~30,151 |
+| Tools of the Trade | 63.00% | ~28,351 |
+| Apprentice | 60.00% | ~27,001 |
+| Secret Seeker | 57.00% | ~25,651 |
+| Forge of Assassins | 55.00% | ~24,751 |
+| Revenant | 52.00% | ~23,401 |
+| I don’t Care! | 45.00% | ~20,251 |
+| Bird of Prey | 37.00% | ~16,651 |
+| Engraved with Power | 32.00% | ~14,401 |
+| Lady | 31.00% | ~13,951 |
+| Fashionable Assassin | 27.00% | ~12,151 |
 | Apex Predator | 24.00% | ~10,800 |
 | Soul Reaver | 23.00% | ~10,350 |
 | Embers | 22.00% | ~9,900 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~900 |
 | Legacy | 2.00% | ~900 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,000 (Ranked 128)  
+Progressed: 45,002 (Ranked 128)  
 Completed: 248 (0.55%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 248 (0.55%) (Ranked 214)
 | 2024-01-06 | 44,907 | 248 |
 | 2024-01-07 | 44,957 | 248 |
 | 2024-01-08 | 44,989 | 248 |
-| 2024-01-09 | 45,000 | 248 |
+| 2024-01-09 | 45,002 | 248 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

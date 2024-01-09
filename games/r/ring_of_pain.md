@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 473)  
+Rating: 4.58 (Ranked 474)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -18,8 +18,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Uncharted Territory | 1.00% | ~2,427 |
 | Explorer | 1.00% | ~2,427 |
 | An Offering | 1.00% | ~2,427 |
-| Not Touching You | 1.00% | ~41 |
-| Matching | 1.00% | ~41 |
+| Not Touching You | 1.00% | ~42 |
+| Matching | 1.00% | ~42 |
 | Nothing To Lose | 0.90% | ~2,184 |
 | Delving Deeper | 0.90% | ~2,184 |
 | Heartless | 0.90% | ~2,184 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,667 (Ranked 73)  
+Progressed: 242,670 (Ranked 73)  
 Completed: 304 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,7 +409,7 @@ Completed: 304 (0.13%) (Ranked 298)
 | 2024-01-06 | 242,507 | 304 |
 | 2024-01-07 | 242,574 | 304 |
 | 2024-01-08 | 242,637 | 304 |
-| 2024-01-09 | 242,667 | 304 |
+| 2024-01-09 | 242,670 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 137)  
 Sum: 11,788 (Ranked 89)  

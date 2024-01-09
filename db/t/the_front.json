@@ -3,8 +3,8 @@
   "Name": "The Front",
   "ProductSlug": "the-front-3a8219",
   "Ranking_Rating": 1037,
-  "Ranking_Popularity": 517,
-  "Ranking_PopularitySum": 503,
+  "Ranking_Popularity": 509,
+  "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 575,
@@ -485,18 +485,24 @@
       "Rating": 4.05,
       "NumberOfAwards": 54,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-01-09T13:17:01.3187324+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 56,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 54,
-  "NumberOfAwardsMax": 32,
+  "NumberOfAwards": 56,
+  "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 32
+      "Count": 34
     },
     {
       "Text": "This game is Highly Recommended",
@@ -523,8 +529,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-11T21:01:43.5636582+00:00",
   "FirstSeenRating": "2023-10-16T03:57:21.8315472+00:00",
-  "LastChanged": "2024-01-08T03:59:49.0571366+00:00",
+  "LastChanged": "2024-01-09T13:17:01.3187322+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:14.1505381+00:00",
-  "LastUpdate_Ratings": "2024-01-09T12:00:34.5500402+00:00",
-  "LastUpdate_Achievements": "2024-01-09T12:06:47.5662047+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:17:01.3187328+00:00",
+  "LastUpdate_Achievements": "2024-01-09T13:23:06.5042695+00:00"
 }

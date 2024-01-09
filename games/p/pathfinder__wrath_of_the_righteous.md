@@ -6,12 +6,12 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,555 |
-| A Spark | 20.00% | ~2,633 |
+| Devoured by Darkness | 27.00% | ~3,556 |
+| A Spark | 20.00% | ~2,634 |
 | Burning City | 19.00% | ~2,502 |
+| Mythic Choices | 16.00% | ~2,107 |
 | Defender's Heart | 16.00% | ~2,107 |
-| Mythic Choices | 15.00% | ~1,975 |
-| Banner over the Citadel | 14.00% | ~1,843 |
+| Banner over the Citadel | 14.00% | ~1,844 |
 | Queen's Gratitude | 13.00% | ~1,712 |
 | Fifth Crusade | 9.00% | ~1,185 |
 | Embrace of the Abyss | 7.00% | ~922 |
@@ -35,10 +35,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Heroic Victory | 3.00% | ~395 |
 | Capitulation Is Now Moot | 3.00% | ~395 |
 | Core of the Riddle | 3.00% | ~395 |
-| Hanged Man's Notes | 3.00% | ~358 |
-| Sarkoris Will Be Green | 3.00% | ~358 |
-| The Lady of the Forest | 3.00% | ~358 |
-| Beware Still Water | 3.00% | ~358 |
+| Hanged Man's Notes | 3.00% | ~359 |
+| Sarkoris Will Be Green | 3.00% | ~359 |
+| The Lady of the Forest | 3.00% | ~359 |
+| Beware Still Water | 3.00% | ~359 |
 | Path of the Demon | 2.00% | ~263 |
 | Path of the Aeon | 2.00% | ~263 |
 | Your First Big Enemy | 2.00% | ~263 |
@@ -50,16 +50,16 @@ Number of Ratings: 1,354  (23.09.2022)
 | Strategic Victory | 1.00% | ~132 |
 | Abyssal Conspiracy | 1.00% | ~132 |
 | Truly Profane Gift | 1.00% | ~132 |
-| This Wall Won't Fall | 1.00% | ~119 |
-| Not the Last Sarkorian | 1.00% | ~119 |
-| End of Eternal Guard | 0.90% | ~118 |
+| This Wall Won't Fall | 1.00% | ~120 |
+| Not the Last Sarkorian | 1.00% | ~120 |
+| End of Eternal Guard | 0.90% | ~119 |
 | Masterful Charge | 0.70% | ~92 |
 | Playful Mood | 0.70% | ~92 |
 | Dreadful Dragon | 0.70% | ~92 |
 | Prelate's Nemesis | 0.50% | ~66 |
 | Ashes to Ashes | 0.40% | ~53 |
-| Masterful Dispel | 0.30% | ~39 |
-| Just Pathetic | 0.30% | ~39 |
+| Masterful Dispel | 0.30% | ~40 |
+| Just Pathetic | 0.30% | ~40 |
 | Path of the Swarm | 0.20% | ~26 |
 | Spirit of Adventure | 0.20% | ~26 |
 | Equal to Aroden | 0.10% | ~13 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,166 (Ranked 176)  
+Progressed: 13,169 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -387,7 +387,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 13,092 | 0 |
 | 2024-01-07 | 13,129 | 0 |
 | 2024-01-08 | 13,155 | 0 |
-| 2024-01-09 | 13,166 | 0 |
+| 2024-01-09 | 13,169 | 0 |
 ## Awards
 Max (Character Customization): 1,780  (Ranked 129)  
 Sum: 7,210 (Ranked 126)  

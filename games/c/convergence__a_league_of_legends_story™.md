@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.69 (Ranked 237)  
+Rating: 4.69 (Ranked 236)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,13 +11,13 @@ Rating: 4.69 (Ranked 237)
 | Immaculate Aim | 29.00% | ~372 |
 | The Brass Boss | 28.00% | ~359 |
 | Time Flies | 27.00% | ~346 |
-| Make Up For Lost Time | 26.00% | ~333 |
-| The Harder They Fall | 26.00% | ~333 |
-| No, Thanks! | 26.00% | ~333 |
-| The Prince in Heels | 26.00% | ~333 |
-| Honest Mistake | 26.00% | ~333 |
-| Fast Learner | 25.00% | ~320 |
-| Immaculate Aim | 25.00% | ~320 |
+| No, Thanks! | 26.00% | ~334 |
+| The Prince in Heels | 26.00% | ~334 |
+| Honest Mistake | 26.00% | ~334 |
+| Make Up For Lost Time | 25.00% | ~321 |
+| The Harder They Fall | 25.00% | ~321 |
+| Fast Learner | 25.00% | ~321 |
+| Immaculate Aim | 25.00% | ~321 |
 | The Steel Shadow | 24.00% | ~308 |
 | Breaking Down Barriers | 23.00% | ~295 |
 | The Wicked Twins | 23.00% | ~295 |
@@ -25,14 +25,14 @@ Rating: 4.69 (Ranked 237)
 | Like Clockwork | 22.00% | ~282 |
 | Golem Chaser | 22.00% | ~282 |
 | The Betrayer | 21.00% | ~269 |
-| Check Your Pulse | 20.00% | ~256 |
+| Check Your Pulse | 20.00% | ~257 |
 | The Loose Cannon | 19.00% | ~244 |
 | Street Style | 18.00% | ~231 |
 | The Man Who Shattered Time | 18.00% | ~231 |
 | The Family Fortune | 18.00% | ~231 |
 | Whiz Kid | 15.00% | ~192 |
 | Good Neighbor | 15.00% | ~192 |
-| Family Memories | 14.00% | ~179 |
+| Family Memories | 14.00% | ~180 |
 | Chaincrawler Explorer | 13.00% | ~167 |
 | Syron for Hope | 13.00% | ~167 |
 | Ask Questions Later | 13.00% | ~167 |
@@ -59,7 +59,7 @@ Rating: 4.69 (Ranked 237)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,282 (Ranked 280)  
+Progressed: 1,283 (Ranked 280)  
 Completed: 7 (0.55%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 7 (0.55%) (Ranked 214)
 | 2024-01-06 | 1,255 | 6 |
 | 2024-01-07 | 1,264 | 7 |
 | 2024-01-08 | 1,278 | 7 |
-| 2024-01-09 | 1,282 | 7 |
+| 2024-01-09 | 1,283 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

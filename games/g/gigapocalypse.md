@@ -6,43 +6,43 @@
 | ---- | ---------- | ----- |
 | Caretaker | 85.00% | ~173 |
 | Too Cool For School | 85.00% | ~173 |
-| Who's A Good Boy | 71.00% | ~144 |
-| Feng Shui | 71.00% | ~144 |
-| Power Up | 70.00% | ~142 |
-| Thick Skin | 68.00% | ~138 |
-| Math Wizard | 67.00% | ~136 |
-| Destroy Erase Improve | 67.00% | ~136 |
-| Power Overload | 64.00% | ~130 |
+| Feng Shui | 72.00% | ~147 |
+| Who's A Good Boy | 71.00% | ~145 |
+| Power Up | 71.00% | ~145 |
+| Thick Skin | 69.00% | ~141 |
+| Math Wizard | 67.00% | ~137 |
+| Destroy Erase Improve | 67.00% | ~137 |
+| Power Overload | 64.00% | ~131 |
 | Quite A Snack | 61.00% | ~124 |
 | Impenetrable Skin | 56.00% | ~114 |
 | Overwhelming Power | 54.00% | ~110 |
-| Chomp Chomp! | 46.00% | ~93 |
-| Supreme Power | 45.00% | ~91 |
-| Target Practice | 44.00% | ~89 |
-| The Duelist | 43.00% | ~87 |
-| Glorious Battle | 43.00% | ~87 |
-| Diaper Time! | 43.00% | ~87 |
-| Meat Larder | 40.00% | ~81 |
-| Mutant And Proud | 39.00% | ~79 |
-| The Emperor's New Clothes | 33.00% | ~67 |
-| You Shall Not Pass | 32.00% | ~65 |
-| Animal Lover | 32.00% | ~65 |
-| Happy Little Home | 32.00% | ~65 |
+| Chomp Chomp! | 46.00% | ~94 |
+| Supreme Power | 45.00% | ~92 |
+| Target Practice | 44.00% | ~90 |
+| The Duelist | 43.00% | ~88 |
+| Glorious Battle | 43.00% | ~88 |
+| Diaper Time! | 43.00% | ~88 |
+| Meat Larder | 40.00% | ~82 |
+| Mutant And Proud | 39.00% | ~80 |
+| The Emperor's New Clothes | 32.00% | ~65 |
 | Final Evolution | 32.00% | ~65 |
+| You Shall Not Pass | 31.00% | ~63 |
+| Animal Lover | 31.00% | ~63 |
 | Godlike Power | 31.00% | ~63 |
 | Undying Skin | 31.00% | ~63 |
+| Happy Little Home | 31.00% | ~63 |
 | Fight Me! | 30.00% | ~61 |
-| Supremacy | 30.00% | ~61 |
 | Mommy's Very Angry | 29.00% | ~59 |
+| Supremacy | 29.00% | ~59 |
 | Loyal Companion | 27.00% | ~55 |
-| Back To The Future | 26.00% | ~53 |
+| Back To The Future | 25.00% | ~51 |
 | Immortal Skin | 25.00% | ~51 |
 | Lunch Before The Lunch | 23.00% | ~47 |
 | Fire Beacon | 23.00% | ~47 |
 | From Here To Eternity | 20.00% | ~41 |
 | Building Blocks | 20.00% | ~41 |
 | Octopostructure | 18.00% | ~37 |
-| Boss Hunter | 15.00% | ~30 |
+| Boss Hunter | 15.00% | ~31 |
 | Hawkman | 10.00% | ~20 |
 | Annihilate | 9.00% | ~18 |
 | Fashion Victim | 8.00% | ~16 |
@@ -58,7 +58,7 @@
 | Destroy Everything | 1.00% | ~2 |
 | Hearty Meteor | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203 (Ranked 427)  
+Progressed: 204 (Ranked 427)  
 Completed: 1 (0.49%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,6 +127,7 @@ Completed: 1 (0.49%) (Ranked 223)
 | 2023-12-30 | 201 | 1 |
 | 2024-01-06 | 202 | 1 |
 | 2024-01-07 | 203 | 1 |
+| 2024-01-09 | 204 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

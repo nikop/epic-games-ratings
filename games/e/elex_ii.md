@@ -11,9 +11,9 @@ Number of Ratings: 124  (23.09.2022)
 | Civilian | 33.00% | ~73 |
 | Role Model | 29.00% | ~64 |
 | Creator | 27.00% | ~59 |
+| Festival-goer | 24.00% | ~53 |
 | Peddler | 23.00% | ~51 |
 | Military Leader | 23.00% | ~51 |
-| Festival-goer | 23.00% | ~51 |
 | Commander | 20.00% | ~44 |
 | Irissa's Fate | 16.00% | ~35 |
 | Pass A38 | 16.00% | ~35 |
@@ -31,9 +31,9 @@ Number of Ratings: 124  (23.09.2022)
 | Lover | 7.00% | ~15 |
 | Treasure Hunter | 6.00% | ~13 |
 | Beam Me Up | 6.00% | ~13 |
+| Detective | 6.00% | ~13 |
 | Free as a Bird | 5.00% | ~11 |
 | Cleric | 5.00% | ~11 |
-| Detective | 5.00% | ~11 |
 | Weaponsmith | 4.00% | ~9 |
 | Alchemist | 4.00% | ~9 |
 | Unbreakable | 4.00% | ~9 |

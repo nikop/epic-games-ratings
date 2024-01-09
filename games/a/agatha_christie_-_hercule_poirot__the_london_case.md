@@ -7,11 +7,11 @@
 | Marc Allard | 79.00% | ~81 |
 | Little ideas | 76.00% | ~78 |
 | The Ship | 72.00% | ~74 |
-| Seeking the truth | 56.00% | ~58 |
-| An old friend | 53.00% | ~55 |
-| The Gala | 52.00% | ~54 |
+| Seeking the truth | 57.00% | ~59 |
+| An old friend | 54.00% | ~56 |
+| The Gala | 53.00% | ~55 |
 | A curious gathering | 50.00% | ~52 |
-| Little grey cells | 48.00% | ~49 |
+| Little grey cells | 49.00% | ~50 |
 | Impossible is possible | 47.00% | ~48 |
 | Arthur Hastings | 47.00% | ~48 |
 | The Missing Magdalene | 46.00% | ~47 |

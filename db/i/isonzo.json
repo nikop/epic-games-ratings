@@ -2,7 +2,7 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 473,
+  "Ranking_Rating": 474,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 182,
@@ -1069,9 +1069,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9850,
+  "EOS_Progressed": 9851,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10879,6 +10879,11 @@
       "Time": "2024-01-09T09:09:33.0991932+00:00",
       "NumProgressed": 9850,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-09T13:25:54.1997277+00:00",
+      "NumProgressed": 9851,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10922,7 +10927,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -10930,7 +10935,7 @@
       "Name": "Compagnia della Morte",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ISONZO_ACH_CONRAD_VON_HOTZENSOCKS",
@@ -10946,7 +10951,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -10986,15 +10991,15 @@
       "Name": "Drop and Give Me 20",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ISONZO_ACH_FAREWELL_TO_ARMS",
       "SetID": "akchbl3",
       "Name": "Farewell to Arms",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 197
+      "UsersEstimate": 296
     },
     {
       "ID": "ISONZO_ACH_GABRIELE_DANNUNZIO",
@@ -11026,7 +11031,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -11050,7 +11055,7 @@
       "Name": "Malpractice",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ISONZO_ACH_MAMMA_MIA",
@@ -11066,7 +11071,7 @@
       "Name": "Millenial",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -11082,7 +11087,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4432
+      "UsersEstimate": 4433
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -11106,7 +11111,7 @@
       "Name": "Rome Wasn\u0027t Built In A Day",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ISONZO_ACH_SACRO_EGOISMO",
@@ -11218,7 +11223,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4925
+      "UsersEstimate": 4926
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -11226,7 +11231,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1281
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -11249,7 +11254,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9850,
+      "Progressed": 9851,
       "Completed": 10
     }
   ],
@@ -11257,8 +11262,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-06T21:59:00.913352+00:00",
-  "LastChanged_Achievements": "2024-01-09T12:09:37.8136515+00:00",
+  "LastChanged_Achievements": "2024-01-09T13:25:54.1997268+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:05.1405641+00:00",
-  "LastUpdate_Ratings": "2024-01-09T11:59:27.4982778+00:00",
-  "LastUpdate_Achievements": "2024-01-09T12:09:37.8137983+00:00"
+  "LastUpdate_Ratings": "2024-01-09T13:15:54.2902297+00:00",
+  "LastUpdate_Achievements": "2024-01-09T13:25:54.1998337+00:00"
 }
