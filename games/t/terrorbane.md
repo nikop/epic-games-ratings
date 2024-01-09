@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First contact | 102.00% | ~45 |
+| First contact | 105.00% | ~46 |
 | System shocked | 68.00% | ~30 |
 | Exposé | 64.00% | ~28 |
 | Blade of prophecy | 48.00% | ~21 |

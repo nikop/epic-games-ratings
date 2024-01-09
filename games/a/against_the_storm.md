@@ -6,36 +6,36 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 9.00% | ~1,849 |
+| Overgrown Library | 9.00% | ~1,850 |
 | First Real Expedition | 8.00% | ~1,644 |
 | Taking Action | 8.00% | ~1,644 |
 | No Deaths | 8.00% | ~1,644 |
 | Abandoned Settlement | 8.00% | ~1,644 |
 | Petrified Necropolis | 8.00% | ~1,644 |
-| The Marshlands | 7.00% | ~1,438 |
+| The Marshlands | 7.00% | ~1,439 |
 | Overcoming Difficulty | 6.00% | ~1,233 |
 | Coral Forest | 6.00% | ~1,233 |
 | The Scarlet Orchard | 6.00% | ~1,233 |
 | Ominous Presence | 6.00% | ~1,233 |
 | Gathering Storm | 6.00% | ~1,233 |
-| Frosts | 5.00% | ~1,027 |
-| Land of Greed | 5.00% | ~1,027 |
+| Frosts | 5.00% | ~1,028 |
+| Land of Greed | 5.00% | ~1,028 |
 | Homesick | 4.00% | ~822 |
 | Fertile Meadows | 4.00% | ~822 |
 | Royal Outpost | 4.00% | ~822 |
 | Watchtower | 4.00% | ~822 |
 | A Real Challenge | 4.00% | ~822 |
-| Ruined Armory | 3.00% | ~616 |
-| Bandit Camp | 3.00% | ~616 |
-| Ancient Battleground | 3.00% | ~616 |
-| Levitating Monument | 3.00% | ~616 |
-| Monastery of the Holy Flame | 3.00% | ~616 |
-| Lost Colonies | 3.00% | ~616 |
-| Statue of the Forefathers | 3.00% | ~616 |
-| Corrosive Torrent | 3.00% | ~616 |
-| Cursed Lands | 3.00% | ~616 |
-| Trade Baron | 3.00% | ~616 |
-| Untamed Wilds | 3.00% | ~616 |
+| Ruined Armory | 3.00% | ~617 |
+| Bandit Camp | 3.00% | ~617 |
+| Ancient Battleground | 3.00% | ~617 |
+| Levitating Monument | 3.00% | ~617 |
+| Monastery of the Holy Flame | 3.00% | ~617 |
+| Lost Colonies | 3.00% | ~617 |
+| Statue of the Forefathers | 3.00% | ~617 |
+| Corrosive Torrent | 3.00% | ~617 |
+| Cursed Lands | 3.00% | ~617 |
+| Trade Baron | 3.00% | ~617 |
+| Untamed Wilds | 3.00% | ~617 |
 | Serving Ale | 2.00% | ~411 |
 | Against All Odds | 2.00% | ~411 |
 | Barren Lands | 2.00% | ~411 |
@@ -45,12 +45,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Flooded Mines | 2.00% | ~411 |
 | Defying the Crown | 2.00% | ~411 |
 | Into the Forest | 2.00% | ~411 |
-| Efficient Explorer | 1.00% | ~205 |
-| Refinery | 1.00% | ~205 |
-| Dangerous Lands | 1.00% | ~205 |
-| Forbidden Lands | 1.00% | ~205 |
-| Forsaken Gods Temple | 1.00% | ~205 |
-| Victory Through Prosperity | 1.00% | ~205 |
+| Efficient Explorer | 1.00% | ~206 |
+| Refinery | 1.00% | ~206 |
+| Dangerous Lands | 1.00% | ~206 |
+| Forbidden Lands | 1.00% | ~206 |
+| Forsaken Gods Temple | 1.00% | ~206 |
+| Victory Through Prosperity | 1.00% | ~206 |
 | Feeding The People | 0.80% | ~164 |
 | Like a Machine | 0.80% | ~164 |
 | Blood Flower Farmer | 0.50% | ~103 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,545 (Ranked 154)  
+Progressed: 20,554 (Ranked 154)  
 Completed: 34 (0.17%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 34 (0.17%) (Ranked 282)
 | 2024-01-06 | 20,318 | 34 |
 | 2024-01-07 | 20,428 | 34 |
 | 2024-01-08 | 20,508 | 34 |
-| 2024-01-09 | 20,545 | 34 |
+| 2024-01-09 | 20,554 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,364 (Ranked 177)  

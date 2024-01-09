@@ -8,7 +8,7 @@
 | Little Helper | 34.00% | ~974 |
 | Nazis in Paris | 26.00% | ~745 |
 | Building the Fox | 22.00% | ~631 |
-| Green Ticket Roundup | 19.00% | ~545 |
+| Green Ticket Roundup | 20.00% | ~573 |
 | Arranging Boxes | 15.00% | ~430 |
 | Jakob | 15.00% | ~430 |
 | Jude | 14.00% | ~401 |

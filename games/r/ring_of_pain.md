@@ -46,6 +46,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Consecutive Curses | 0.60% | ~1,456 |
 | Just Chilling | 0.60% | ~1,456 |
 | Save Our Souls | 0.60% | ~1,456 |
+| Stop Hitting Yourself | 0.60% | ~1,456 |
 | Acid Bath | 0.60% | ~1,456 |
 | New Perspectives | 0.60% | ~1,456 |
 | Expensive Look | 0.60% | ~25 |
@@ -56,7 +57,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Well Prepared | 0.50% | ~1,213 |
 | Don't Ignore Me! | 0.50% | ~1,213 |
 | All Consuming | 0.50% | ~1,213 |
-| Stop Hitting Yourself | 0.50% | ~1,213 |
 | Illuminate, Eliminate | 0.50% | ~1,213 |
 | Doing Time | 0.50% | ~1,213 |
 | Spreading Plague | 0.50% | ~1,213 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,674 (Ranked 73)  
+Progressed: 242,676 (Ranked 73)  
 Completed: 304 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,7 +409,7 @@ Completed: 304 (0.13%) (Ranked 298)
 | 2024-01-06 | 242,507 | 304 |
 | 2024-01-07 | 242,574 | 304 |
 | 2024-01-08 | 242,637 | 304 |
-| 2024-01-09 | 242,674 | 304 |
+| 2024-01-09 | 242,676 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 137)  
 Sum: 11,790 (Ranked 89)  

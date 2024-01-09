@@ -10680,9 +10680,9 @@
       "Count": 1088
     }
   ],
-  "EOS_Progressed": 132262,
+  "EOS_Progressed": 132268,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 973,
+  "EOS_NewPlayers": 968,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39065,6 +39065,11 @@
       "Time": "2024-01-09T14:09:43.6189651+00:00",
       "NumProgressed": 132262,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T15:09:30.7351755+00:00",
+      "NumProgressed": 132268,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -39364,7 +39369,7 @@
       "Name": "Spelunker",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5290
+      "UsersEstimate": 5291
     },
     {
       "ID": "driving_biome_clear_city",
@@ -39380,7 +39385,7 @@
       "Name": "Merry Time",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5290
+      "UsersEstimate": 5291
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -39388,7 +39393,7 @@
       "Name": "Harvest Festival",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5290
+      "UsersEstimate": 5291
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -39404,7 +39409,7 @@
       "Name": "Ramble On",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5290
+      "UsersEstimate": 5291
     },
     {
       "ID": "driving_distance_hard",
@@ -39428,7 +39433,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9258
+      "UsersEstimate": 9259
     },
     {
       "ID": "hero_story_complete_all",
@@ -39452,7 +39457,7 @@
       "Name": "Whale",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5290
+      "UsersEstimate": 5291
     },
     {
       "ID": "hospital_full_service",
@@ -39468,7 +39473,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5290
+      "UsersEstimate": 5291
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -39524,7 +39529,7 @@
       "Name": "Nope",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5290
+      "UsersEstimate": 5291
     },
     {
       "ID": "run_victory_act01",
@@ -39612,7 +39617,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "combat_kill_collector",
@@ -39620,7 +39625,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39676,7 +39681,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -39707,21 +39712,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132262,
+      "Progressed": 132268,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7131,
+      "Progressed": 7137,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-09T04:58:52.2545208+00:00",
-  "LastChanged_Achievements": "2024-01-09T14:09:43.6189647+00:00",
+  "LastChanged_Achievements": "2024-01-09T15:09:30.7351752+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:58:36.6407127+00:00",
-  "LastUpdate_Achievements": "2024-01-09T14:09:43.6191734+00:00"
+  "LastUpdate_Ratings": "2024-01-09T14:58:28.6958665+00:00",
+  "LastUpdate_Achievements": "2024-01-09T15:09:30.7353392+00:00"
 }

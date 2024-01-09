@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -703,9 +703,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12027,
+  "EOS_Progressed": 12030,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 662,
+  "EOS_NewPlayers": 664,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -15278,6 +15278,11 @@
       "Time": "2024-01-09T14:05:42.6165242+00:00",
       "NumProgressed": 12027,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2024-01-09T15:05:41.8425576+00:00",
+      "NumProgressed": 12030,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 29,
@@ -15289,7 +15294,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 9982
+      "UsersEstimate": 9985
     },
     {
       "ID": "ACH02",
@@ -15297,7 +15302,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 4089
+      "UsersEstimate": 4090
     },
     {
       "ID": "ACH03",
@@ -15313,7 +15318,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4691
+      "UsersEstimate": 4692
     },
     {
       "ID": "ACH05",
@@ -15329,7 +15334,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 2285
+      "UsersEstimate": 2286
     },
     {
       "ID": "ACH07",
@@ -15409,7 +15414,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3127
+      "UsersEstimate": 3128
     },
     {
       "ID": "ACH17",
@@ -15520,7 +15525,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12027,
+      "Progressed": 12030,
       "Completed": 84
     }
   ],
@@ -15528,8 +15533,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-08T18:02:03.5351927+00:00",
-  "LastChanged_Achievements": "2024-01-09T14:05:42.6165238+00:00",
+  "LastChanged_Achievements": "2024-01-09T15:05:41.8425572+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.653696+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:57:10.6925284+00:00",
-  "LastUpdate_Achievements": "2024-01-09T14:05:42.6166165+00:00"
+  "LastUpdate_Ratings": "2024-01-09T14:57:02.1664175+00:00",
+  "LastUpdate_Achievements": "2024-01-09T15:05:41.8426476+00:00"
 }

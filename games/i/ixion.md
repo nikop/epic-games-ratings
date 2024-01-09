@@ -1,18 +1,18 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.59 (Ranked 450)  
+Rating: 4.59 (Ranked 451)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 33.00% | ~1,356 |
-| Sputnik 2049 | 29.00% | ~1,191 |
-| Infinite Growth... | 28.00% | ~1,150 |
+| Sputnik 2049 | 29.00% | ~1,192 |
+| Infinite Growth... | 28.00% | ~1,151 |
 | Without Breaking Some Eggs... | 26.00% | ~1,068 |
 | Space Society | 19.00% | ~781 |
 | A Thousand Strong | 19.00% | ~781 |
 | Ready for a New World | 19.00% | ~781 |
-| Permanent Redesigns | 17.00% | ~698 |
+| Permanent Redesigns | 17.00% | ~699 |
 | Fully Recycled | 15.00% | ~616 |
 | Ain't Nobody Got Time for That | 15.00% | ~616 |
 | The Ship of Theseus | 15.00% | ~616 |
@@ -28,9 +28,9 @@ Rating: 4.59 (Ranked 450)
 | Convenient Transport | 8.00% | ~329 |
 | Necessary Enhancement | 7.00% | ~288 |
 | From the Past | 7.00% | ~288 |
-| Access Granted | 6.00% | ~246 |
-| All in Good Health | 6.00% | ~246 |
-| Drill-dozer | 6.00% | ~246 |
+| Access Granted | 6.00% | ~247 |
+| All in Good Health | 6.00% | ~247 |
+| Drill-dozer | 6.00% | ~247 |
 | Oats | 5.00% | ~205 |
 | What They Hide From Us | 5.00% | ~205 |
 | ...  in a finite world | 5.00% | ~205 |
@@ -63,7 +63,7 @@ Rating: 4.59 (Ranked 450)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,108 (Ranked 211)  
+Progressed: 4,109 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 4,042 | 0 |
 | 2024-01-07 | 4,075 | 0 |
 | 2024-01-08 | 4,096 | 0 |
-| 2024-01-09 | 4,108 | 0 |
+| 2024-01-09 | 4,109 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

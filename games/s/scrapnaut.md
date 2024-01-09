@@ -6,39 +6,39 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 60.00% | ~389 |
-| Mushroom Picker | 54.00% | ~350 |
-| Scrap Gatherer | 53.00% | ~343 |
-| Scrapper | 43.00% | ~279 |
-| Cook | 42.00% | ~272 |
-| Teleport | 42.00% | ~272 |
-| Scrap Master | 35.00% | ~227 |
+| My New Home | 60.00% | ~390 |
+| Mushroom Picker | 54.00% | ~351 |
+| Scrap Gatherer | 53.00% | ~344 |
+| Scrapper | 43.00% | ~280 |
+| Cook | 42.00% | ~273 |
+| Teleport | 42.00% | ~273 |
+| Scrap Master | 34.00% | ~221 |
 | Smelter | 33.00% | ~214 |
-| Digger | 30.00% | ~194 |
-| Electro-Scrap Gatherer | 30.00% | ~194 |
+| Digger | 30.00% | ~195 |
+| Electro-Scrap Gatherer | 30.00% | ~195 |
 | Survivor | 29.00% | ~188 |
-| Herbalist | 28.00% | ~181 |
-| Lumberjack | 27.00% | ~175 |
-| Robot Destroyer | 27.00% | ~175 |
-| Prepper | 23.00% | ~149 |
+| Herbalist | 28.00% | ~182 |
+| Lumberjack | 27.00% | ~176 |
+| Robot Destroyer | 27.00% | ~176 |
+| Prepper | 23.00% | ~150 |
 | Electro-Scrap Master | 22.00% | ~143 |
 | Robot Hunter | 20.00% | ~130 |
 | Advanced Survivalist | 18.00% | ~117 |
 | Master Of Technology | 16.00% | ~104 |
-| Treasure Hunter | 15.00% | ~97 |
+| Treasure Hunter | 15.00% | ~98 |
 | Mythical Smelter | 13.00% | ~84 |
-| Blacksmith | 11.00% | ~71 |
+| Blacksmith | 11.00% | ~72 |
 | Forest Lord | 10.00% | ~65 |
 | Fuel | 10.00% | ~65 |
 | Master Of Management | 9.00% | ~58 |
 | Smelting Master | 9.00% | ~58 |
-| Black Gold | 7.00% | ~45 |
+| Black Gold | 7.00% | ~46 |
 | Survival Master | 5.00% | ~32 |
-| Traveler | 3.00% | ~19 |
+| Traveler | 3.00% | ~20 |
 | Forest Killer | 2.00% | ~13 |
 | Invincible | 0.50% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 648 (Ranked 334)  
+Progressed: 650 (Ranked 334)  
 Completed: 4 (0.62%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 4 (0.62%) (Ranked 205)
 | 2024-01-06 | 627 | 4 |
 | 2024-01-07 | 637 | 4 |
 | 2024-01-08 | 644 | 4 |
-| 2024-01-09 | 648 | 4 |
+| 2024-01-09 | 650 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

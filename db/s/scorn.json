@@ -2,13 +2,13 @@
   "ID": "135201128d4f428699a891fc501a5097",
   "Name": "Scorn",
   "ProductSlug": "scorn",
-  "Ranking_Rating": 663,
+  "Ranking_Rating": 664,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
     "PcReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -221,11 +221,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2942,
+  "EOS_Progressed": 2943,
   "EOS_Completed": 202,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 6.87,
+  "EOS_Completed_Percentage": 6.86,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.2661107+00:00",
@@ -5051,6 +5051,11 @@
       "Time": "2024-01-09T12:04:29.1314519+00:00",
       "NumProgressed": 2942,
       "NumCompleted": 202
+    },
+    {
+      "Time": "2024-01-09T15:04:14.9217604+00:00",
+      "NumProgressed": 2943,
+      "NumCompleted": 202
     }
   ],
   "TotalAchievements": 12,
@@ -5157,7 +5162,7 @@
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 2942,
+      "Progressed": 2943,
       "Completed": 202
     }
   ],
@@ -5165,8 +5170,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-12-26T13:00:53.8529115+00:00",
-  "LastChanged_Achievements": "2024-01-09T14:04:14.9380793+00:00",
+  "LastChanged_Achievements": "2024-01-09T15:04:14.92176+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.8892805+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:57:34.968221+00:00",
-  "LastUpdate_Achievements": "2024-01-09T14:04:14.9381154+00:00"
+  "LastUpdate_Ratings": "2024-01-09T14:57:26.2229662+00:00",
+  "LastUpdate_Achievements": "2024-01-09T15:04:14.9217887+00:00"
 }

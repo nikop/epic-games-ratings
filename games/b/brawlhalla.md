@@ -3,13 +3,13 @@
 [View Rawdata](../../db/b/brawlhalla.json)  
 Rating: 4.60 (Ranked 431)  
 ## Awards
-Max (Great for Quick Sessions): 666  (Ranked 199)  
-Sum: 5,403 (Ranked 142)  
-Diff (max vs sum): 57  
+Max (Great for Quick Sessions): 675  (Ranked 197)  
+Sum: 5,415 (Ranked 141)  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 666 |
-| This game has Diverse Characters | 639 |
+| This game is Great for Quick Sessions | 675 |
+| This game has Diverse Characters | 642 |
 | This game has Competitive Players | 565 |
 | This game has Quickly Understood Controls | 565 |
 | This game is Extremely Fun | 547 |
@@ -373,4 +373,4 @@ Diff (max vs sum): 57
 | 2024-01-06 | 4.60 | 657 | 5,348 |
 | 2024-01-07 | 4.60 | 662 | 5,375 |
 | 2024-01-08 | 4.60 | 666 | 5,393 |
-| 2024-01-09 | 4.60 | 666 | 5,403 |
+| 2024-01-09 | 4.60 | 675 | 5,415 |

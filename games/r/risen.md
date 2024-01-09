@@ -5,24 +5,24 @@ Rating: 4.56 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 91.00% | ~166 |
-| Map reader | 64.00% | ~116 |
-| Adventurer | 63.00% | ~115 |
-| Philanthropist | 60.00% | ~109 |
+| Beginner | 91.00% | ~167 |
+| Map reader | 63.00% | ~115 |
+| Adventurer | 62.00% | ~113 |
+| Philanthropist | 60.00% | ~110 |
 | The brave little tailor | 40.00% | ~73 |
 | Archer | 40.00% | ~73 |
-| Field hand | 38.00% | ~69 |
-| Well-to-do | 32.00% | ~58 |
+| Field hand | 38.00% | ~70 |
+| Well-to-do | 32.00% | ~59 |
 | Samaritan | 30.00% | ~55 |
 | Ladies' man | 29.00% | ~53 |
 | The merciful one | 28.00% | ~51 |
-| Ferocious wild boars | 23.00% | ~42 |
-| Idiot | 23.00% | ~42 |
+| Ferocious wild boars | 22.00% | ~40 |
+| Idiot | 22.00% | ~40 |
 | Beast slayer | 21.00% | ~38 |
 | Death of a legend | 19.00% | ~35 |
 | Ogre friend | 19.00% | ~35 |
-| Archaeologist | 18.00% | ~33 |
 | Family man | 17.00% | ~31 |
+| Archaeologist | 17.00% | ~31 |
 | Sidelined | 17.00% | ~31 |
 | Wise man | 16.00% | ~29 |
 | Hard worker | 16.00% | ~29 |
@@ -30,7 +30,7 @@ Rating: 4.56 (Ranked 510)
 | The fourth triplet | 15.00% | ~27 |
 | Fence | 15.00% | ~27 |
 | Master detective | 15.00% | ~27 |
-| Ghost hunter | 14.00% | ~25 |
+| Ghost hunter | 14.00% | ~26 |
 | Pandora's box | 13.00% | ~24 |
 | Peacekeeper | 12.00% | ~22 |
 | Defender | 11.00% | ~20 |
@@ -56,7 +56,7 @@ Rating: 4.56 (Ranked 510)
 | Master of the classes | 0.50% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 182 (Ranked 436)  
+Progressed: 183 (Ranked 436)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 171 | 0 |
 | 2024-01-07 | 177 | 0 |
 | 2024-01-08 | 181 | 0 |
-| 2024-01-09 | 182 | 0 |
+| 2024-01-09 | 183 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

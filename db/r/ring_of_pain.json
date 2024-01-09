@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3886,9 +3886,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242674,
+  "EOS_Progressed": 242676,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 451,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31241,6 +31241,11 @@
       "Time": "2024-01-09T14:10:06.956701+00:00",
       "NumProgressed": 242674,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-09T15:09:54.3177001+00:00",
+      "NumProgressed": 242676,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -31762,9 +31767,9 @@
       "ID": "KILLREFLECT10",
       "SetID": "5l8oe0h",
       "Name": "Stop Hitting Yourself",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1456
     },
     {
       "ID": "KILLSAMSPAREOTHERS",
@@ -32355,13 +32360,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242674,
+      "Progressed": 242676,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4154,
+      "Progressed": 4156,
       "Completed": 423
     }
   ],
@@ -32369,8 +32374,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-09T13:57:40.165064+00:00",
-  "LastChanged_Achievements": "2024-01-09T14:10:06.9567006+00:00",
+  "LastChanged_Achievements": "2024-01-09T15:09:54.3176999+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:57:40.1650644+00:00",
-  "LastUpdate_Achievements": "2024-01-09T14:10:06.9570153+00:00"
+  "LastUpdate_Ratings": "2024-01-09T14:57:31.5096276+00:00",
+  "LastUpdate_Achievements": "2024-01-09T15:09:54.3179564+00:00"
 }

@@ -11,11 +11,11 @@ Rating: 4.69 (Ranked 236)
 | Immaculate Aim | 29.00% | ~372 |
 | The Brass Boss | 28.00% | ~359 |
 | Time Flies | 27.00% | ~346 |
+| The Harder They Fall | 26.00% | ~334 |
 | No, Thanks! | 26.00% | ~334 |
 | The Prince in Heels | 26.00% | ~334 |
 | Honest Mistake | 26.00% | ~334 |
 | Make Up For Lost Time | 25.00% | ~321 |
-| The Harder They Fall | 25.00% | ~321 |
 | Fast Learner | 25.00% | ~321 |
 | Immaculate Aim | 25.00% | ~321 |
 | The Steel Shadow | 24.00% | ~308 |
@@ -60,7 +60,7 @@ Rating: 4.69 (Ranked 236)
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,283 (Ranked 280)  
-Completed: 7 (0.55%) (Ranked 214)  
+Completed: 7 (0.55%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

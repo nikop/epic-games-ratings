@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2202,
+  "EOS_Progressed": 2203,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8490,6 +8490,11 @@
       "Time": "2024-01-09T14:06:01.3803208+00:00",
       "NumProgressed": 2202,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T15:06:00.1761031+00:00",
+      "NumProgressed": 2203,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8605,7 +8610,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -8757,7 +8762,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -8804,7 +8809,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2202,
+      "Progressed": 2203,
       "Completed": 1
     }
   ],
@@ -8812,8 +8817,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-09T14:06:01.3803205+00:00",
+  "LastChanged_Achievements": "2024-01-09T15:06:00.1761026+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:28.5639018+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:57:31.0560865+00:00",
-  "LastUpdate_Achievements": "2024-01-09T14:06:01.3804216+00:00"
+  "LastUpdate_Ratings": "2024-01-09T14:57:22.1427706+00:00",
+  "LastUpdate_Achievements": "2024-01-09T15:06:00.1761609+00:00"
 }

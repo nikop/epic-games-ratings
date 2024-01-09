@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 55.00% | ~278 |
+| In the Black | 55.00% | ~279 |
 | Starting Skyward | 49.00% | ~248 |
 | Grime is Not Good | 42.00% | ~213 |
-| Floor Galore | 37.00% | ~187 |
-| Campaign Launch | 36.00% | ~182 |
-| Dinner Dash | 36.00% | ~182 |
+| Floor Galore | 36.00% | ~183 |
+| Campaign Launch | 36.00% | ~183 |
+| Dinner Dash | 36.00% | ~183 |
 | Need a Consult | 34.00% | ~172 |
 | Upgrade Unlock | 33.00% | ~167 |
 | It's Technical | 33.00% | ~167 |
 | Proper Walls | 29.00% | ~147 |
 | Delegate Maintenance | 29.00% | ~147 |
 | Destination Destiny | 28.00% | ~142 |
-| Happy Tenants | 23.00% | ~116 |
-| Potent Potables | 23.00% | ~116 |
-| Your Prestige is Rising | 22.00% | ~111 |
-| Smooth Service | 22.00% | ~111 |
+| Happy Tenants | 23.00% | ~117 |
+| Potent Potables | 23.00% | ~117 |
+| Smooth Service | 22.00% | ~112 |
 | Don't Feel a Loan | 21.00% | ~106 |
+| Your Prestige is Rising | 21.00% | ~106 |
 | Retail Revenue | 21.00% | ~106 |
 | Artfully Done | 18.00% | ~91 |
 | People Mover | 18.00% | ~91 |
@@ -42,10 +42,10 @@
 | Terrifically Trashed | 10.00% | ~51 |
 | Swimming in Surplus | 9.00% | ~46 |
 | Refined Palates | 9.00% | ~46 |
-| Aestheticly Pleased | 8.00% | ~40 |
-| Plaza Plan | 8.00% | ~40 |
-| Master of Puppets | 8.00% | ~40 |
+| Aestheticly Pleased | 8.00% | ~41 |
+| Plaza Plan | 8.00% | ~41 |
 | First 100 Days | 7.00% | ~35 |
+| Master of Puppets | 7.00% | ~35 |
 | Phoning It In | 7.00% | ~35 |
 | Water Features | 6.00% | ~30 |
 | Meet Me at HQ | 6.00% | ~30 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 506 (Ranked 351)  
+Progressed: 507 (Ranked 351)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 497 | 0 |
 | 2024-01-07 | 502 | 0 |
 | 2024-01-08 | 505 | 0 |
-| 2024-01-09 | 506 | 0 |
+| 2024-01-09 | 507 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,7 +1,7 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.59 (Ranked 450)  
+Rating: 4.59 (Ranked 451)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,8 +15,8 @@ Rating: 4.59 (Ranked 450)
 | Krugmazing | 64.00% | ~968 |
 | Moneyball | 60.00% | ~907 |
 | The Fire Below the Mountain | 60.00% | ~907 |
+| No Bites | 55.00% | ~832 |
 | Iceborn | 55.00% | ~832 |
-| No Bites | 54.00% | ~816 |
 | Boom Things | 53.00% | ~801 |
 | Tear of Freedom | 52.00% | ~786 |
 | My Darkest Day | 49.00% | ~741 |

@@ -22,8 +22,8 @@ Rating: 4.75 (Ranked 146)
 | Magic Accidents | 59.00% | ~441 |
 | Trap Master | 56.00% | ~418 |
 | Minions, Minions! | 56.00% | ~418 |
+| The Big Eaty | 56.00% | ~418 |
 | Hard Work | 55.00% | ~411 |
-| The Big Eaty | 55.00% | ~411 |
 | “… like son” | 53.00% | ~396 |
 | YOU SHALL NOT PASS! | 51.00% | ~381 |
 | The Cathedral of Light | 49.00% | ~366 |
@@ -32,7 +32,7 @@ Rating: 4.75 (Ranked 146)
 | Pure Dynamite! | 46.00% | ~344 |
 | Dungeonlord Gorgu | 46.00% | ~344 |
 | Mana Cannon | 43.00% | ~321 |
-| All’s Well That Ends Evil | 42.00% | ~314 |
+| All’s Well That Ends Evil | 43.00% | ~321 |
 | The Duel | 40.00% | ~299 |
 | If Looks Could Kill | 37.00% | ~276 |
 | Unstoppable Horde | 36.00% | ~269 |
@@ -40,13 +40,13 @@ Rating: 4.75 (Ranked 146)
 | The Finitude Drill | 34.00% | ~254 |
 | Ghost Pirates? Ghost Heroes! | 31.00% | ~232 |
 | Doom Hill | 31.00% | ~232 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 29.00% | ~217 |
 | Forbidden Knowledge | 29.00% | ~217 |
 | Brimstone Shaken, Not Stirred | 29.00% | ~217 |
 | Hungry, Hungry Gorgu! | 28.00% | ~209 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 28.00% | ~209 |
+| Stop Tanos! | 28.00% | ~209 |
 | Raiders of the Lost Stone | 28.00% | ~209 |
 | The Rune Sockets of Finitude (Part 1) | 28.00% | ~209 |
-| Stop Tanos! | 27.00% | ~202 |
 | Sabotage! | 27.00% | ~202 |
 | Bonus Evilness | 26.00% | ~194 |
 | The Rune Sockets of Finitude (Part 2) | 26.00% | ~194 |

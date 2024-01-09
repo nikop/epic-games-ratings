@@ -6,23 +6,23 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 67.00% | ~9,365 |
-| Photographer | 67.00% | ~9,365 |
-| Valley's Helper | 59.00% | ~8,246 |
-| Constructor | 50.00% | ~6,988 |
-| Renovator | 50.00% | ~6,988 |
-| Bestest Friend | 44.00% | ~6,150 |
-| Banker | 38.00% | ~5,311 |
-| Gardener | 30.00% | ~4,193 |
-| Generous | 25.00% | ~3,494 |
+| Goofy's Investor | 67.00% | ~9,367 |
+| Photographer | 67.00% | ~9,367 |
+| Valley's Helper | 59.00% | ~8,248 |
+| Constructor | 50.00% | ~6,990 |
+| Renovator | 49.00% | ~6,850 |
+| Bestest Friend | 44.00% | ~6,151 |
+| Banker | 38.00% | ~5,312 |
+| Gardener | 30.00% | ~4,194 |
+| Generous | 25.00% | ~3,495 |
 | Chef Cook | 19.00% | ~2,656 |
-| Miner | 11.00% | ~1,537 |
+| Miner | 11.00% | ~1,538 |
 | Duty Bound | 8.00% | ~1,118 |
 | Angler | 6.00% | ~839 |
 | Thorn Cleaner | 6.00% | ~839 |
 | Chit Chatter | 3.00% | ~419 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,977 (Ranked 175)  
+Progressed: 13,980 (Ranked 175)  
 Completed: 345 (2.47%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,16 +237,16 @@ Completed: 345 (2.47%) (Ranked 127)
 | 2024-01-06 | 13,857 | 343 |
 | 2024-01-07 | 13,921 | 344 |
 | 2024-01-08 | 13,960 | 344 |
-| 2024-01-09 | 13,977 | 345 |
+| 2024-01-09 | 13,980 | 345 |
 ## Awards
 Max (Great for Beginners): 1,178  (Ranked 149)  
-Sum: 8,378 (Ranked 108)  
+Sum: 8,379 (Ranked 108)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,178 |
 | This game has Diverse Characters | 996 |
-| This game is Highly Recommended | 869 |
+| This game is Highly Recommended | 870 |
 | This game has Amazing Characters | 845 |
 | This game is Relaxing | 828 |
 | This game has Amazing Storytelling | 805 |
@@ -558,4 +558,4 @@ Diff (max vs sum): 41
 | 2024-01-06 | 4.76 | - | 1,173 | 8,362 |
 | 2024-01-07 | 4.76 | - | 1,175 | 8,370 |
 | 2024-01-08 | 4.76 | - | 1,178 | 8,377 |
-| 2024-01-09 | 4.76 | - | 1,178 | 8,378 |
+| 2024-01-09 | 4.76 | - | 1,178 | 8,379 |

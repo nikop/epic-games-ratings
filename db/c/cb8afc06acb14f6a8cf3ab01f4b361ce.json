@@ -473,7 +473,7 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 343275,
+  "EOS_Progressed": 343301,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 3532,
   "EOS_NewCompleters": 0,
@@ -12738,6 +12738,11 @@
       "Time": "2024-01-09T14:08:50.4229319+00:00",
       "NumProgressed": 343275,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-09T15:08:36.9559342+00:00",
+      "NumProgressed": 343301,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -12750,7 +12755,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17164
+      "UsersEstimate": 17165
     },
     {
       "ID": "S02_BRDA",
@@ -12758,7 +12763,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10298
+      "UsersEstimate": 10299
     },
     {
       "ID": "S03_OTWA",
@@ -12822,7 +12827,7 @@
       "Name": "Counting on you",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "S11_MMR6",
@@ -12830,7 +12835,7 @@
       "Name": "This is the end",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "S12_ALL",
@@ -12838,7 +12843,7 @@
       "Name": "We can choose to fight",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "S13_ALL_HARD",
@@ -12886,7 +12891,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17164
+      "UsersEstimate": 17165
     },
     {
       "ID": "S19_CHALLENGES",
@@ -13054,7 +13059,7 @@
       "Name": "I took a risk",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "S40_BONUS",
@@ -13069,7 +13074,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 343275,
+      "Progressed": 343301,
       "Completed": 7
     }
   ],
@@ -13077,8 +13082,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-07T09:59:57.3535769+00:00",
-  "LastChanged_Achievements": "2024-01-09T14:08:50.4229314+00:00",
+  "LastChanged_Achievements": "2024-01-09T15:08:36.9559337+00:00",
   "LastUpdate_AppInfo": "2024-01-04T23:57:04.1079824+00:00",
-  "LastUpdate_Ratings": "2024-01-09T14:00:12.1714518+00:00",
-  "LastUpdate_Achievements": "2024-01-09T14:08:50.4230397+00:00"
+  "LastUpdate_Ratings": "2024-01-09T15:00:04.7521623+00:00",
+  "LastUpdate_Achievements": "2024-01-09T15:08:36.9560084+00:00"
 }

@@ -25,7 +25,7 @@ Number of Ratings: 85  (23.09.2022)
 | Deincarnated | 29.00% | ~120 |
 | Rock of the Bay | 28.00% | ~116 |
 | Furon Fashion | 28.00% | ~116 |
-| Trans-Siberian Express | 24.00% | ~100 |
+| Trans-Siberian Express | 25.00% | ~104 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~83 |
 | Arkvoodle Doodle | 19.00% | ~79 |
 | Ouch of Body Experience | 16.00% | ~66 |
@@ -33,7 +33,7 @@ Number of Ratings: 85  (23.09.2022)
 | Die Nasty | 16.00% | ~66 |
 | Hidden Human Hive Harvest | 15.00% | ~62 |
 | Mash Machine | 15.00% | ~62 |
-| Albion Bridge Is for Falling Down | 13.00% | ~54 |
+| Albion Bridge Is for Falling Down | 14.00% | ~58 |
 | Dusted | 13.00% | ~54 |
 | Scuttled | 11.00% | ~46 |
 | Higher Than the Futen Zoku | 10.00% | ~42 |

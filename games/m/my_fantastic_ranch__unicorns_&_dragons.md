@@ -15,8 +15,8 @@
 | Gotta Adopt Them All! | 12.00% | ~6 |
 | Lecturer | 10.00% | ~5 |
 | Landscaper | 8.00% | ~4 |
+| Dream Big | 8.00% | ~4 |
 | Just One More Go | 8.00% | ~4 |
-| Dream Big | 6.00% | ~3 |
 | Diamonds in the Rough | 4.00% | ~2 |
 | Neverending Story | 4.00% | ~2 |
 | Kindred Spirits | 4.00% | ~2 |

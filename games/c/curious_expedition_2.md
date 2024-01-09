@@ -6,24 +6,24 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 65.00% | ~272 |
-| Cartographer | 58.00% | ~243 |
-| A Strange Artefact | 54.00% | ~226 |
-| Insomnia | 49.00% | ~205 |
-| Lost & Found & Lost Again | 43.00% | ~180 |
-| From Whence we Came | 43.00% | ~180 |
+| The Adventure Begins | 65.00% | ~273 |
+| Cartographer | 58.00% | ~244 |
+| A Strange Artefact | 54.00% | ~227 |
+| Insomnia | 49.00% | ~206 |
+| Lost & Found & Lost Again | 43.00% | ~181 |
+| From Whence we Came | 43.00% | ~181 |
 | Fire and Flood | 41.00% | ~172 |
-| Spooky! | 38.00% | ~159 |
-| Treasure Hunt | 36.00% | ~151 |
+| Spooky! | 38.00% | ~160 |
 | Shennong Herbalist | 35.00% | ~147 |
-| Good Mama | 33.00% | ~138 |
+| Treasure Hunt | 35.00% | ~147 |
+| Good Mama | 33.00% | ~139 |
 | O Captain My Captain | 32.00% | ~134 |
 | Plunderer | 30.00% | ~126 |
 | Taxonomist | 27.00% | ~113 |
 | Traveller | 26.00% | ~109 |
 | Uncertain Loyalties | 25.00% | ~105 |
-| Roll to Save | 23.00% | ~96 |
-| Nahua Seeker | 23.00% | ~96 |
+| Roll to Save | 23.00% | ~97 |
+| Nahua Seeker | 23.00% | ~97 |
 | Veteran Explorer | 22.00% | ~92 |
 | Red Flag Pirate | 20.00% | ~84 |
 | Iron Man | 17.00% | ~71 |
@@ -33,14 +33,14 @@ Number of Ratings: 20  (23.09.2022)
 | For the Club! | 15.00% | ~63 |
 | Shortening of the Way | 15.00% | ~63 |
 | Dapper | 14.00% | ~59 |
-| The New Director | 13.00% | ~54 |
-| The Director is Dead | 13.00% | ~54 |
-| And Here Is Your Statue | 13.00% | ~54 |
-| Discovery | 13.00% | ~54 |
-| Plays Well With Others | 13.00% | ~54 |
+| The New Director | 13.00% | ~55 |
+| The Director is Dead | 13.00% | ~55 |
+| And Here Is Your Statue | 13.00% | ~55 |
+| Discovery | 13.00% | ~55 |
+| Plays Well With Others | 13.00% | ~55 |
 | Very Classy | 12.00% | ~50 |
 | Under the Table | 11.00% | ~46 |
-| It's Complicated | 11.00% | ~46 |
+| It's Complicated | 10.00% | ~42 |
 | Cold Blood, Warm Heart | 9.00% | ~38 |
 | Errand Runner | 9.00% | ~38 |
 | SCHMETTERLING | 8.00% | ~34 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | Pacifism Ain't Easy | 0.70% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 419 (Ranked 364)  
+Progressed: 420 (Ranked 364)  
 Completed: 1 (0.24%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 1 (0.24%) (Ranked 267)
 | 2024-01-06 | 410 | 1 |
 | 2024-01-07 | 416 | 1 |
 | 2024-01-08 | 418 | 1 |
-| 2024-01-09 | 419 | 1 |
+| 2024-01-09 | 420 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

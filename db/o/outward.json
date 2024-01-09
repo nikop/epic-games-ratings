@@ -555,7 +555,7 @@
   ],
   "EOS_Progressed": 4668,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8437,9 +8437,9 @@
       "ID": "VentureOutward_21",
       "SetID": "c4hee28",
       "Name": "Venture Outward",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3361
+      "UsersEstimate": 3408
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8461,8 +8461,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-05T19:04:06.3891748+00:00",
-  "LastChanged_Achievements": "2024-01-09T14:05:13.495352+00:00",
+  "LastChanged_Achievements": "2024-01-09T15:05:13.2445515+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:45.0450053+00:00",
-  "LastUpdate_Ratings": "2024-01-09T14:02:57.2237586+00:00",
-  "LastUpdate_Achievements": "2024-01-09T14:05:13.4954253+00:00"
+  "LastUpdate_Ratings": "2024-01-09T15:02:56.7205241+00:00",
+  "LastUpdate_Achievements": "2024-01-09T15:05:13.244612+00:00"
 }

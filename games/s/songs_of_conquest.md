@@ -36,10 +36,10 @@ Number of Ratings: 292  (23.09.2022)
 | Together For Her | 0.90% | ~10 |
 | Killing Spree | 0.60% | ~7 |
 | Cleave | 0.60% | ~7 |
-| Death To Diplomacy | 0.50% | ~5 |
-| Unlimited Power! | 0.50% | ~5 |
-| Coming Through! | 0.50% | ~5 |
-| Get Over Here! | 0.50% | ~5 |
+| Death To Diplomacy | 0.50% | ~6 |
+| Unlimited Power! | 0.50% | ~6 |
+| Coming Through! | 0.50% | ~6 |
+| Get Over Here! | 0.50% | ~6 |
 | Barbecue | 0.40% | ~4 |
 | Fully Charged | 0.30% | ~3 |
 | Oops! | 0.30% | ~3 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,099 (Ranked 287)  
+Progressed: 1,100 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 1,034 | 0 |
 | 2024-01-07 | 1,067 | 0 |
 | 2024-01-08 | 1,089 | 0 |
-| 2024-01-09 | 1,099 | 0 |
+| 2024-01-09 | 1,100 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 522)  
 Sum: 252 (Ranked 399)  

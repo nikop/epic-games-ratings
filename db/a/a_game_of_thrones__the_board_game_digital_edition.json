@@ -1392,9 +1392,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 32967,
+  "EOS_Progressed": 32970,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 741,
+  "EOS_NewPlayers": 739,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -29837,6 +29837,11 @@
       "Time": "2024-01-09T14:09:45.2355552+00:00",
       "NumProgressed": 32967,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2024-01-09T15:09:32.2857819+00:00",
+      "NumProgressed": 32970,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 22,
@@ -29920,7 +29925,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2637
+      "UsersEstimate": 2638
     },
     {
       "ID": "1025",
@@ -29952,7 +29957,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5934
+      "UsersEstimate": 5935
     },
     {
       "ID": "1029",
@@ -29960,7 +29965,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2637
+      "UsersEstimate": 2638
     },
     {
       "ID": "1030",
@@ -29984,7 +29989,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13187
+      "UsersEstimate": 13188
     },
     {
       "ID": "1033",
@@ -30023,15 +30028,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 32967,
+      "Progressed": 32970,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-05T16:59:15.5205633+00:00",
-  "LastChanged_Achievements": "2024-01-09T14:09:45.2355549+00:00",
+  "LastChanged_Achievements": "2024-01-09T15:09:32.2857817+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:53.1129394+00:00",
-  "LastUpdate_Ratings": "2024-01-09T14:02:41.6164548+00:00",
-  "LastUpdate_Achievements": "2024-01-09T14:09:45.235743+00:00"
+  "LastUpdate_Ratings": "2024-01-09T15:02:41.2143436+00:00",
+  "LastUpdate_Achievements": "2024-01-09T15:09:32.2859155+00:00"
 }

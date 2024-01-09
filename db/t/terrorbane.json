@@ -115,9 +115,9 @@
       "ID": "Achievement_00",
       "SetID": "6jd5kdh",
       "Name": "First contact",
-      "Percentage": 102,
+      "Percentage": 105,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Achievement_01",
@@ -324,8 +324,8 @@
   "FirstSeenRating": "2023-04-02T01:58:31.1782551+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:15.1891477+00:00",
   "LastChanged": "2023-04-02T01:58:31.1782553+00:00",
-  "LastChanged_Achievements": "2024-01-09T14:03:55.9429593+00:00",
+  "LastChanged_Achievements": "2024-01-09T15:03:55.9153306+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:21.3206852+00:00",
-  "LastUpdate_Ratings": "2024-01-09T13:59:34.0082209+00:00",
-  "LastUpdate_Achievements": "2024-01-09T14:03:55.9429766+00:00"
+  "LastUpdate_Ratings": "2024-01-09T14:59:27.5975709+00:00",
+  "LastUpdate_Achievements": "2024-01-09T15:03:55.9153505+00:00"
 }
