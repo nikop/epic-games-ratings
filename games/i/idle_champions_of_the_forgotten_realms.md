@@ -10,16 +10,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 2.00% | ~5,057 |
 | Beast Intentions | 1.00% | ~2,528 |
 | The Mad Wizard | 1.00% | ~2,528 |
-| The Ring of Regeneration | 0.90% | ~2,275 |
+| The Ring of Regeneration | 0.90% | ~2,276 |
 | Are Ya Chicken? | 0.80% | ~2,023 |
 | Welcome to Sigil | 0.80% | ~1,753 |
 | Were-verpowered | 0.70% | ~1,770 |
 | Seeking Allies | 0.60% | ~1,517 |
 | Mad Cow Disease | 0.60% | ~1,517 |
 | Friendly Imps | 0.60% | ~1,517 |
+| Pure Energy | 0.60% | ~1,517 |
 | Fast Food | 0.60% | ~1,315 |
 | A Persistent Buzzing | 0.50% | ~1,264 |
-| Pure Energy | 0.50% | ~1,264 |
 | The Overgrown Grove | 0.50% | ~1,096 |
 | Flames of Avernus | 0.50% | ~1,096 |
 | Mental Gymnastics | 0.50% | ~1,096 |
@@ -37,15 +37,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | When Tentacles Attack | 0.40% | ~876 |
 | Don't Lose Your Head | 0.40% | ~876 |
 | Mind Spike | 0.40% | ~876 |
-| Low Initiative | 0.30% | ~758 |
-| A Mysterious Summons | 0.30% | ~758 |
-| Building Trust | 0.30% | ~758 |
-| No Time To Rest | 0.30% | ~758 |
-| Useless Allies | 0.30% | ~758 |
-| Running of the Saurs | 0.30% | ~758 |
-| Escort to Waterdeep | 0.30% | ~758 |
-| Waterdeep Detours | 0.30% | ~758 |
-| Underdeep Cartography | 0.30% | ~758 |
+| Low Initiative | 0.30% | ~759 |
+| A Mysterious Summons | 0.30% | ~759 |
+| Building Trust | 0.30% | ~759 |
+| No Time To Rest | 0.30% | ~759 |
+| Useless Allies | 0.30% | ~759 |
+| Running of the Saurs | 0.30% | ~759 |
+| Escort to Waterdeep | 0.30% | ~759 |
+| Waterdeep Detours | 0.30% | ~759 |
+| Underdeep Cartography | 0.30% | ~759 |
 | The Silken Swamp | 0.20% | ~506 |
 | Supply Run | 0.20% | ~506 |
 | Homecoming | 0.20% | ~506 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,829 (Ranked 70)  
+Progressed: 252,835 (Ranked 70)  
 Completed: 2,603 (1.03%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -817,7 +817,7 @@ Completed: 2,603 (1.03%) (Ranked 174)
 | 2024-01-06 | 252,125 | 2,599 |
 | 2024-01-07 | 252,516 | 2,599 |
 | 2024-01-08 | 252,794 | 2,602 |
-| 2024-01-09 | 252,829 | 2,603 |
+| 2024-01-09 | 252,835 | 2,603 |
 ## Awards
 Max (Great for Beginners): 5,763  (Ranked 74)  
 Sum: 33,403 (Ranked 41)  

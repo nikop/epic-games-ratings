@@ -6,9 +6,9 @@
   "Ranking_Popularity": 388,
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 350,
-  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -474,11 +474,11 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 506,
+  "EOS_Progressed": 507,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.4,
+  "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
     {
       "Time": "2023-12-13T11:05:01.7592506+00:00",
@@ -1874,6 +1874,11 @@
       "Time": "2024-01-09T01:53:08.5792773+00:00",
       "NumProgressed": 506,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-09T02:29:20.2736614+00:00",
+      "NumProgressed": 507,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -1934,7 +1939,7 @@
       "Name": "One Of the Chosen",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -1942,7 +1947,7 @@
       "Name": "Increased Capacity",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
@@ -1950,7 +1955,7 @@
       "Name": "Maximum Capacity",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_1",
@@ -1974,7 +1979,7 @@
       "Name": "Fight Fire with Fire",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -2014,7 +2019,7 @@
       "Name": "Soul Reaper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Collect_PickUp_500",
@@ -2022,7 +2027,7 @@
       "Name": "Cleanup Crew",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Collect_Soulmulet",
@@ -2038,7 +2043,7 @@
       "Name": "Salvation",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "Craft_Enhancement_Balanced_1",
@@ -2046,7 +2051,7 @@
       "Name": "Can you restore the Balance?",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "Craft_Enhancement_Balanced_5",
@@ -2060,9 +2065,9 @@
       "ID": "Craft_Enhancement_First",
       "SetID": "7a5k76n",
       "Name": "Enhance!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 208
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -2188,9 +2193,9 @@
       "ID": "Kill_Demon_Abraxis",
       "SetID": "7a5k76n",
       "Name": "Demon Meddler",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 112
     },
     {
       "ID": "Kill_Demon_Kraken",
@@ -2206,7 +2211,7 @@
       "Name": "Devil\u0027s in the Details",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "Kill_Enemies_HavocForm_666",
@@ -2238,7 +2243,7 @@
       "Name": "Green with Envy",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -2270,7 +2275,7 @@
       "Name": "Throne Potato",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "Kill_Sin_Wrath",
@@ -2278,7 +2283,7 @@
       "Name": "Seeing Red",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Level_Up_100",
@@ -2300,9 +2305,9 @@
       "ID": "Save_Humans_10",
       "SetID": "7a5k76n",
       "Name": "Crowd Source",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 122
     },
     {
       "ID": "Save_Humans_15",
@@ -2324,9 +2329,9 @@
       "ID": "Save_Humans_5",
       "SetID": "7a5k76n",
       "Name": "Five\u0027s a Crowd",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 198
     },
     {
       "ID": "Save_Usiel_No_Kill",
@@ -2342,7 +2347,7 @@
       "Name": "First of many\u2026",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -2350,7 +2355,7 @@
       "Name": "25 to Life",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "Spend_AttributePoint_50",
@@ -2358,7 +2363,7 @@
       "Name": "Big Spender",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "Unlocked_49_Achievements",
@@ -2397,15 +2402,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 506,
+      "Progressed": 507,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-09T01:53:08.5792769+00:00",
+  "LastChanged_Achievements": "2024-01-09T02:29:20.273661+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-09T01:46:01.2576301+00:00",
-  "LastUpdate_Achievements": "2024-01-09T01:53:08.57933+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:22:03.2603109+00:00",
+  "LastUpdate_Achievements": "2024-01-09T02:29:20.2737117+00:00"
 }

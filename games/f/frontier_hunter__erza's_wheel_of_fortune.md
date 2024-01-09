@@ -14,8 +14,8 @@ Rating: 4.38 (Ranked 791)
 | Arms Mechanic | 49.00% | ~362 |
 | Flower Thief | 44.00% | ~325 |
 | Apostle of Flame | 39.00% | ~288 |
+| Beginner Cook | 38.00% | ~280 |
 | Beginner Artificer | 38.00% | ~280 |
-| Beginner Cook | 37.00% | ~273 |
 | Seal Breaker | 32.00% | ~236 |
 | Handyman | 28.00% | ~207 |
 | Giant Lizard Killer | 27.00% | ~199 |
@@ -51,7 +51,7 @@ Rating: 4.38 (Ranked 791)
 | Giantess Challenge | 2.00% | ~15 |
 | Warden Challenge | 2.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 738 (Ranked 316)  
+Progressed: 738 (Ranked 317)  
 Completed: 3 (0.41%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |

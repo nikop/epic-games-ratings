@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 119533,
+  "EOS_Progressed": 119537,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 760,
+  "EOS_NewPlayers": 759,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -24207,6 +24207,11 @@
       "Time": "2024-01-09T01:59:34.8587931+00:00",
       "NumProgressed": 119533,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-09T02:35:35.5545294+00:00",
+      "NumProgressed": 119537,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 49,
@@ -24226,7 +24231,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 92040
+      "UsersEstimate": 92043
     },
     {
       "ID": "EAwards_10",
@@ -24242,7 +24247,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 32274
+      "UsersEstimate": 32275
     },
     {
       "ID": "EAwards_12",
@@ -24250,7 +24255,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17930
+      "UsersEstimate": 17931
     },
     {
       "ID": "EAwards_13",
@@ -24282,7 +24287,7 @@
       "Name": "PERFECT",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 8367
+      "UsersEstimate": 8368
     },
     {
       "ID": "EAwards_17",
@@ -24290,7 +24295,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 44227
+      "UsersEstimate": 44229
     },
     {
       "ID": "EAwards_18",
@@ -24314,7 +24319,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 58571
+      "UsersEstimate": 58573
     },
     {
       "ID": "EAwards_20",
@@ -24330,7 +24335,7 @@
       "Name": "Special Delivery!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 8367
+      "UsersEstimate": 8368
     },
     {
       "ID": "EAwards_22",
@@ -24354,7 +24359,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 8367
+      "UsersEstimate": 8368
     },
     {
       "ID": "EAwards_25",
@@ -24378,7 +24383,7 @@
       "Name": "One down...",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11953
+      "UsersEstimate": 11954
     },
     {
       "ID": "EAwards_28",
@@ -24426,7 +24431,7 @@
       "Name": "El T\u00E9cnico T\u00E1ctico",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 8367
+      "UsersEstimate": 8368
     },
     {
       "ID": "EAwards_33",
@@ -24490,7 +24495,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 15539
+      "UsersEstimate": 15540
     },
     {
       "ID": "EAwards_40",
@@ -24570,7 +24575,7 @@
       "Name": "Prickly Pair",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11953
+      "UsersEstimate": 11954
     },
     {
       "ID": "EAwards_6",
@@ -24609,7 +24614,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 119533,
+      "Progressed": 119537,
       "Completed": 59
     }
   ],
@@ -24617,8 +24622,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-07T23:57:01.9676007+00:00",
-  "LastChanged_Achievements": "2024-01-09T01:59:34.8587927+00:00",
+  "LastChanged_Achievements": "2024-01-09T02:35:35.5545292+00:00",
   "LastUpdate_AppInfo": "2024-01-05T09:57:07.0095771+00:00",
-  "LastUpdate_Ratings": "2024-01-09T01:46:40.3991776+00:00",
-  "LastUpdate_Achievements": "2024-01-09T01:59:34.8589564+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:22:41.6249224+00:00",
+  "LastUpdate_Achievements": "2024-01-09T02:35:35.5546839+00:00"
 }

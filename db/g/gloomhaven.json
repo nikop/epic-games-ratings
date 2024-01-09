@@ -3,7 +3,7 @@
   "Name": "Gloomhaven",
   "ProductSlug": "gloomhaven-92f741",
   "Ranking_Rating": 662,
-  "Ranking_Popularity": 94,
+  "Ranking_Popularity": 95,
   "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 395,
@@ -2915,9 +2915,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 32315,
+  "EOS_Progressed": 32317,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1845,
+  "EOS_NewPlayers": 1838,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16265,6 +16265,11 @@
       "Time": "2024-01-09T01:58:55.2660159+00:00",
       "NumProgressed": 32315,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T02:34:55.1116392+00:00",
+      "NumProgressed": 32317,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -16293,7 +16298,7 @@
       "Name": "I hate portals",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "Achievement_Trophy04",
@@ -16373,7 +16378,7 @@
       "Name": "Down the hatch",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "Achievement_Trophy14",
@@ -16381,7 +16386,7 @@
       "Name": "An eye for an eye",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "Achievement_Trophy15",
@@ -16389,7 +16394,7 @@
       "Name": "The Cephalophore",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "Achievement_Trophy16",
@@ -16445,7 +16450,7 @@
       "Name": "Precious!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 4847
+      "UsersEstimate": 4848
     },
     {
       "ID": "Achievement_Trophy23",
@@ -16453,7 +16458,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 4847
+      "UsersEstimate": 4848
     },
     {
       "ID": "Achievement_Trophy24",
@@ -16477,7 +16482,7 @@
       "Name": "Overkill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 10664
+      "UsersEstimate": 10665
     },
     {
       "ID": "Achievement_Trophy27",
@@ -16509,7 +16514,7 @@
       "Name": "Spread the plague",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 8725
+      "UsersEstimate": 8726
     },
     {
       "ID": "Achievement_Trophy31",
@@ -16517,7 +16522,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 9371
+      "UsersEstimate": 9372
     },
     {
       "ID": "Achievement_Trophy32",
@@ -16573,7 +16578,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 5170
+      "UsersEstimate": 5171
     },
     {
       "ID": "Achievement_Trophy39",
@@ -16764,7 +16769,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 32315,
+      "Progressed": 32317,
       "Completed": 1
     }
   ],
@@ -16772,8 +16777,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2024-01-08T06:58:38.6013458+00:00",
-  "LastChanged_Achievements": "2024-01-09T01:58:55.2660155+00:00",
+  "LastChanged_Achievements": "2024-01-09T02:34:55.1116389+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:15.8559862+00:00",
-  "LastUpdate_Ratings": "2024-01-09T01:48:30.6666448+00:00",
-  "LastUpdate_Achievements": "2024-01-09T01:58:55.2661541+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:24:31.5844874+00:00",
+  "LastUpdate_Achievements": "2024-01-09T02:34:55.1117311+00:00"
 }

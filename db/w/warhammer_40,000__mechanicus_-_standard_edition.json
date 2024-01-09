@@ -1086,9 +1086,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 231767,
+  "EOS_Progressed": 231773,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 643,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30026,6 +30026,11 @@
       "Time": "2024-01-09T01:59:30.6682939+00:00",
       "NumProgressed": 231767,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-09T02:35:31.1964665+00:00",
+      "NumProgressed": 231773,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -30037,7 +30042,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46353
+      "UsersEstimate": 46355
     },
     {
       "ID": "ACH_BASE_10",
@@ -30045,7 +30050,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60259
+      "UsersEstimate": 60261
     },
     {
       "ID": "ACH_BASE_11",
@@ -30077,7 +30082,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20859
+      "UsersEstimate": 20860
     },
     {
       "ID": "ACH_BASE_16",
@@ -30093,7 +30098,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20859
+      "UsersEstimate": 20860
     },
     {
       "ID": "ACH_BASE_18",
@@ -30301,14 +30306,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20859
+      "UsersEstimate": 20860
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 231767,
+      "Progressed": 231773,
       "Completed": 5
     }
   ],
@@ -30316,8 +30321,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-07T16:59:20.9826172+00:00",
-  "LastChanged_Achievements": "2024-01-09T01:59:30.6682935+00:00",
+  "LastChanged_Achievements": "2024-01-09T02:35:31.1964661+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:54.2987721+00:00",
-  "LastUpdate_Ratings": "2024-01-09T01:50:10.2972694+00:00",
-  "LastUpdate_Achievements": "2024-01-09T01:59:30.6684211+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:26:08.0272803+00:00",
+  "LastUpdate_Achievements": "2024-01-09T02:35:31.1966473+00:00"
 }

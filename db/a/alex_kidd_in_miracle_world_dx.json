@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 429,
+  "EOS_Progressed": 430,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -974,6 +974,11 @@
       "Time": "2024-01-08T21:06:55.4846848+00:00",
       "NumProgressed": 429,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-09T02:31:44.2451494+00:00",
+      "NumProgressed": 430,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -1039,9 +1044,9 @@
       "ID": "GRIZZLY_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Assailants",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 103
+      "UsersEstimate": 99
     },
     {
       "ID": "JANKEN_DEFEATED",
@@ -1103,16 +1108,16 @@
       "ID": "TELEPATHY_BALL_OBTAINED",
       "SetID": "7im05fi",
       "Name": "Magic Ball",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 129
     }
   ],
   "AchievementSets": [
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 429,
+      "Progressed": 430,
       "Completed": 4
     }
   ],
@@ -1120,8 +1125,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2024-01-09T01:55:29.8743897+00:00",
+  "LastChanged_Achievements": "2024-01-09T02:31:44.2451488+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:23.883052+00:00",
-  "LastUpdate_Ratings": "2024-01-09T01:49:02.6126121+00:00",
-  "LastUpdate_Achievements": "2024-01-09T01:55:29.8744025+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:25:03.3614691+00:00",
+  "LastUpdate_Achievements": "2024-01-09T02:31:44.2451643+00:00"
 }

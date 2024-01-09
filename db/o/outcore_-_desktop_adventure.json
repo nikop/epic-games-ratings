@@ -385,9 +385,9 @@
       "ID": "InternetExplorer",
       "SetID": "7ejh407",
       "Name": "Internet Explorer",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LaifuRouteDemon",
@@ -488,8 +488,8 @@
   ],
   "FirstSeen": "2023-05-08T18:00:59.2575901+00:00",
   "FirstSeenAchievements": "2023-05-02T18:05:17.3554395+00:00",
-  "LastChanged_Achievements": "2024-01-09T01:58:31.8123438+00:00",
+  "LastChanged_Achievements": "2024-01-09T02:34:31.1989597+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:17.2427456+00:00",
-  "LastUpdate_Ratings": "2024-01-09T01:48:41.993306+00:00",
-  "LastUpdate_Achievements": "2024-01-09T01:58:31.8123667+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:24:42.9398887+00:00",
+  "LastUpdate_Achievements": "2024-01-09T02:34:31.1989766+00:00"
 }

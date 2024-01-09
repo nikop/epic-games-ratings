@@ -26,8 +26,8 @@
 | Tomb Raider | 24.00% | ~19 |
 | The Real O.G. | 22.00% | ~17 |
 | The Hero of the People | 17.00% | ~13 |
+| Collector | 13.00% | ~10 |
 | Talk to the Fist | 13.00% | ~10 |
-| Collector | 12.00% | ~9 |
 | Taoist | 9.00% | ~7 |
 | The Legend | 6.00% | ~5 |
 ## Popularity (Based on EOS Achievements)

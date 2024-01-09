@@ -7,9 +7,9 @@ Rating: 4.19 (Ranked 971)
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 50.00% | ~41,086 |
 | Har, Har, Har, Very Funny | 34.00% | ~27,938 |
-| Loose Ends | 33.00% | ~27,116 |
+| Loose Ends | 33.00% | ~27,117 |
 | To the Victor Go the Spoils | 27.00% | ~22,186 |
-| Knighthood | 26.00% | ~21,364 |
+| Knighthood | 26.00% | ~21,365 |
 | Get ReQ'd | 24.00% | ~19,721 |
 | Whispered Words | 24.00% | ~19,721 |
 | The Batman Family | 22.00% | ~18,078 |
@@ -19,10 +19,10 @@ Rating: 4.19 (Ranked 971)
 | Working Hard or Harley Working? | 20.00% | ~16,434 |
 | Unstoppable Force | 20.00% | ~16,434 |
 | Bad Apples in Every Orchard | 20.00% | ~16,434 |
-| Snow Problem | 19.00% | ~15,612 |
+| Snow Problem | 19.00% | ~15,613 |
 | The Show Mud Go On | 17.00% | ~13,969 |
 | From Inside Gotham's Walls | 17.00% | ~13,969 |
-| Protector of Gotham | 16.00% | ~13,147 |
+| Protector of Gotham | 16.00% | ~13,148 |
 | In Your Element | 15.00% | ~12,326 |
 | Universal Health Scare | 15.00% | ~12,326 |
 | Rock and a Hard Place | 14.00% | ~11,504 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 971)
 | The Cold, the Bad and the Ugly | 0.30% | ~157 |
 | It's Nice to Be Wanted | 0.20% | ~105 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,171 (Ranked 110)  
+Progressed: 82,172 (Ranked 110)  
 Completed: 132 (0.16%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 132 (0.16%) (Ranked 283)
 | 2024-01-06 | 81,792 | 132 |
 | 2024-01-07 | 81,989 | 132 |
 | 2024-01-08 | 82,151 | 132 |
-| 2024-01-09 | 82,171 | 132 |
+| 2024-01-09 | 82,172 | 132 |
 ## Awards
 Max (Great Boss Battles): 3,157  (Ranked 101)  
 Sum: 5,395 (Ranked 142)  

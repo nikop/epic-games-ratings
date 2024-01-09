@@ -6,22 +6,22 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~732,161 |
-| The Blues | 85.00% | ~628,623 |
+| Out of bed | 99.00% | ~732,162 |
+| The Blues | 85.00% | ~628,624 |
 | Fast | 66.00% | ~488,108 |
-| Healthbar | 55.00% | ~406,756 |
-| Force Cube | 53.00% | ~391,965 |
-| Double Jump | 48.00% | ~354,987 |
+| Healthbar | 55.00% | ~406,757 |
+| Force Cube | 53.00% | ~391,966 |
+| Double Jump | 48.00% | ~354,988 |
 | Regeneration | 47.00% | ~347,592 |
 | Triple Jump | 43.00% | ~318,010 |
 | Climb the hill | 42.00% | ~310,614 |
-| Through the fire pipe | 39.00% | ~288,427 |
+| Through the fire pipe | 39.00% | ~288,428 |
 | MacGuffin | 38.00% | ~281,032 |
 | Just once | 37.00% | ~273,636 |
 | Armor | 30.00% | ~221,867 |
 | True holy spirit | 28.00% | ~207,076 |
-| That's how electronics work obviously | 27.00% | ~199,680 |
-| Force Cube Catapult | 25.00% | ~184,889 |
+| That's how electronics work obviously | 27.00% | ~199,681 |
+| Force Cube Catapult | 25.00% | ~184,890 |
 | Holy Sword | 23.00% | ~170,098 |
 | Telefrag | 23.00% | ~170,098 |
 | Freed from prison | 22.00% | ~162,703 |
@@ -34,9 +34,9 @@ Number of Ratings: 25,175  (23.09.2022)
 | Beam | 14.00% | ~103,538 |
 | 9 | 14.00% | ~103,538 |
 | Supraball Noob | 14.00% | ~103,538 |
-| Health Drink | 13.00% | ~96,142 |
-| Helped a star | 13.00% | ~96,142 |
-| Purple Cube | 13.00% | ~96,142 |
+| Health Drink | 13.00% | ~96,143 |
+| Helped a star | 13.00% | ~96,143 |
+| Purple Cube | 13.00% | ~96,143 |
 | Strong | 12.00% | ~88,747 |
 | Blue King's lair | 11.00% | ~81,351 |
 | Payback | 11.00% | ~81,351 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~740 |
 | DLC: Top of the world | 0.10% | ~740 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 739,557 (Ranked 27)  
+Progressed: 739,558 (Ranked 27)  
 Completed: 780 (0.11%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,7 +369,7 @@ Completed: 780 (0.11%) (Ranked 305)
 | 2024-01-06 | 739,249 | 780 |
 | 2024-01-07 | 739,435 | 780 |
 | 2024-01-08 | 739,548 | 780 |
-| 2024-01-09 | 739,557 | 780 |
+| 2024-01-09 | 739,558 | 780 |
 ## Awards
 Max (Challenging Puzzles): 7,775  (Ranked 52)  
 Sum: 10,150 (Ranked 94)  

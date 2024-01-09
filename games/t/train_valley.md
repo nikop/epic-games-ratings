@@ -11,7 +11,7 @@ Number of Ratings: 28  (23.09.2022)
 | Builder | 51.00% | ~330 |
 | Pangs of conscience | 44.00% | ~285 |
 | Living it large! | 44.00% | ~285 |
-| Collector | 42.00% | ~272 |
+| Collector | 43.00% | ~279 |
 | Need to think | 41.00% | ~266 |
 | Completely nuts! | 40.00% | ~259 |
 | Europe | 33.00% | ~214 |
@@ -20,7 +20,7 @@ Number of Ratings: 28  (23.09.2022)
 | It's no coincidence. | 28.00% | ~181 |
 | Philatelist | 26.00% | ~168 |
 | Let's roll! | 25.00% | ~162 |
-| Ouroboros | 24.00% | ~156 |
+| Ouroboros | 25.00% | ~162 |
 | Non Stop! | 24.00% | ~156 |
 | Foreman | 20.00% | ~130 |
 | Russia | 19.00% | ~123 |

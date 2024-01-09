@@ -9188,9 +9188,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 479050,
+  "EOS_Progressed": 479051,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 344,
+  "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35693,6 +35693,11 @@
       "Time": "2024-01-08T23:09:20.5345727+00:00",
       "NumProgressed": 479050,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-09T02:34:01.7798834+00:00",
+      "NumProgressed": 479051,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -35728,7 +35733,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 177248
+      "UsersEstimate": 177249
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -35784,7 +35789,7 @@
       "Name": "Top Form",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 81438
+      "UsersEstimate": 81439
     },
     {
       "ID": "achievement_3_players_in_team_of_the_year",
@@ -35800,7 +35805,7 @@
       "Name": "Parked The Bus",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 138924
+      "UsersEstimate": 138925
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -35832,7 +35837,7 @@
       "Name": "There Is Always Plan B",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4790
+      "UsersEstimate": 4791
     },
     {
       "ID": "achievement_beat_ai_managers",
@@ -35856,7 +35861,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 177248
+      "UsersEstimate": 177249
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -35888,7 +35893,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239525
+      "UsersEstimate": 239526
     },
     {
       "ID": "achievement_club_world_cup",
@@ -35920,7 +35925,7 @@
       "Name": "Best In Europe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 43114
+      "UsersEstimate": 43115
     },
     {
       "ID": "achievement_eyes_and_ears",
@@ -35968,7 +35973,7 @@
       "Name": "National Service",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 43114
+      "UsersEstimate": 43115
     },
     {
       "ID": "achievement_goal_of_the_month_award",
@@ -36016,7 +36021,7 @@
       "Name": "Shrewd Spender",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 138924
+      "UsersEstimate": 138925
     },
     {
       "ID": "achievement_hattrick",
@@ -36024,7 +36029,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 196410
+      "UsersEstimate": 196411
     },
     {
       "ID": "achievement_head_to_head",
@@ -36040,7 +36045,7 @@
       "Name": "Headhunted",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 43114
+      "UsersEstimate": 43115
     },
     {
       "ID": "achievement_hes_a_natural",
@@ -36112,7 +36117,7 @@
       "Name": "Going Places",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23952
+      "UsersEstimate": 23953
     },
     {
       "ID": "achievement_over_achiever",
@@ -36152,7 +36157,7 @@
       "Name": "We Trust You",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23952
+      "UsersEstimate": 23953
     },
     {
       "ID": "achievement_play_ai_team_in_fantasy_draft",
@@ -36160,7 +36165,7 @@
       "Name": "Living the Dream",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4790
+      "UsersEstimate": 4791
     },
     {
       "ID": "achievement_played_30_seasons",
@@ -36176,7 +36181,7 @@
       "Name": "Star Man",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 138924
+      "UsersEstimate": 138925
     },
     {
       "ID": "achievement_player_in_world_cup_best_xi",
@@ -36192,7 +36197,7 @@
       "Name": "The Greatest",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 4790
+      "UsersEstimate": 4791
     },
     {
       "ID": "achievement_record_sale",
@@ -36240,7 +36245,7 @@
       "Name": "Cash To Burn",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 81438
+      "UsersEstimate": 81439
     },
     {
       "ID": "achievement_sell_player",
@@ -36256,7 +36261,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239525
+      "UsersEstimate": 239526
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -36288,7 +36293,7 @@
       "Name": "Armchair Expert",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 119762
+      "UsersEstimate": 119763
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -36296,7 +36301,7 @@
       "Name": "Domination",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 43114
+      "UsersEstimate": 43115
     },
     {
       "ID": "achievement_win_a_match_after_being_2_goals_behind_at_half_time",
@@ -36312,7 +36317,7 @@
       "Name": "Beat your Mates",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4790
+      "UsersEstimate": 4791
     },
     {
       "ID": "achievement_window_shopping",
@@ -36336,7 +36341,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239525
+      "UsersEstimate": 239526
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -36360,7 +36365,7 @@
       "Name": "You\u0027re Up!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 62276
+      "UsersEstimate": 62277
     },
     {
       "ID": "achievement_won_world_cup",
@@ -36487,15 +36492,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 479050,
+      "Progressed": 479051,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2024-01-08T22:00:36.0386392+00:00",
-  "LastChanged_Achievements": "2024-01-09T01:58:03.4073124+00:00",
+  "LastChanged_Achievements": "2024-01-09T02:34:01.7798829+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:28.1927987+00:00",
-  "LastUpdate_Ratings": "2024-01-09T01:49:17.0311293+00:00",
-  "LastUpdate_Achievements": "2024-01-09T01:58:03.4075208+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:25:15.765845+00:00",
+  "LastUpdate_Achievements": "2024-01-09T02:34:01.7800774+00:00"
 }

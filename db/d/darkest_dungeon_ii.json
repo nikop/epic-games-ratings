@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10588,10 +10588,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21547,
       "NumberOfAwardsMax": 7992
+    },
+    {
+      "Time": "2024-01-09T02:23:31.5170264+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21549,
+      "NumberOfAwardsMax": 7992
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21547,
+  "NumberOfAwards": 21549,
   "NumberOfAwardsMax": 7992,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10617,7 +10623,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1518
+      "Count": 1520
     },
     {
       "Text": "This game has Challenging Combat",
@@ -10668,9 +10674,9 @@
       "Count": 1084
     }
   ],
-  "EOS_Progressed": 132229,
+  "EOS_Progressed": 132231,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1009,
+  "EOS_NewPlayers": 1010,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38988,6 +38994,11 @@
       "Time": "2024-01-09T01:59:14.9207132+00:00",
       "NumProgressed": 132229,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T02:35:15.411821+00:00",
+      "NumProgressed": 132231,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -38999,7 +39010,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6611
+      "UsersEstimate": 6612
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -39007,7 +39018,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6611
+      "UsersEstimate": 6612
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -39015,7 +39026,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6611
+      "UsersEstimate": 6612
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -39151,7 +39162,7 @@
       "Name": "Not Today!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6611
+      "UsersEstimate": 6612
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -39199,7 +39210,7 @@
       "Name": "Meat and Greet",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6611
+      "UsersEstimate": 6612
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -39215,7 +39226,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6611
+      "UsersEstimate": 6612
     },
     {
       "ID": "combat_kill_librarian",
@@ -39239,7 +39250,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6611
+      "UsersEstimate": 6612
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -39271,7 +39282,7 @@
       "Name": "It Happens",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6611
+      "UsersEstimate": 6612
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -39295,7 +39306,7 @@
       "Name": "Rush Hour",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6611
+      "UsersEstimate": 6612
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -39319,7 +39330,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6611
+      "UsersEstimate": 6612
     },
     {
       "ID": "driving_distance_easy",
@@ -39407,7 +39418,7 @@
       "Name": "FNG",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6611
+      "UsersEstimate": 6612
     },
     {
       "ID": "inn_visit_all_variants",
@@ -39623,28 +39634,28 @@
       "Name": "On This Long Road, We Found Redemption",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132229,
+      "Progressed": 132231,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7098,
+      "Progressed": 7100,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-08T21:58:52.9913843+00:00",
-  "LastChanged_Achievements": "2024-01-09T01:59:14.920709+00:00",
+  "LastChanged": "2024-01-09T02:23:31.5170263+00:00",
+  "LastChanged_Achievements": "2024-01-09T02:35:15.4118208+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-09T01:47:31.2461625+00:00",
-  "LastUpdate_Achievements": "2024-01-09T01:59:14.9209403+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:23:31.5170268+00:00",
+  "LastUpdate_Achievements": "2024-01-09T02:35:15.4119853+00:00"
 }

@@ -20,10 +20,10 @@ Rating: 4.21 (Ranked 953)
 | They won't last long | 0.70% | ~2,402 |
 | I feel drawn to it | 0.60% | ~2,059 |
 | Here to stay | 0.60% | ~2,059 |
-| Counting on you | 0.50% | ~1,715 |
-| This is the end | 0.50% | ~1,715 |
-| We can choose to fight | 0.50% | ~1,715 |
-| I took a risk | 0.50% | ~1,715 |
+| Counting on you | 0.50% | ~1,716 |
+| This is the end | 0.50% | ~1,716 |
+| We can choose to fight | 0.50% | ~1,716 |
+| I took a risk | 0.50% | ~1,716 |
 | Their fate is sealed | 0.40% | ~1,372 |
 | Not even from this world | 0.30% | ~1,029 |
 | No damsels in distress | 0.20% | ~686 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 953)
 | Something... unnatural | 0.10% | ~343 |
 | We strike as one | 0.10% | ~343 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 343,098 (Ranked 59)  
+Progressed: 343,103 (Ranked 59)  
 Completed: 7 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 7 (0.00%) (Ranked 395)
 | 2024-01-06 | 342,038 | 7 |
 | 2024-01-07 | 342,630 | 7 |
 | 2024-01-08 | 343,058 | 7 |
-| 2024-01-09 | 343,098 | 7 |
+| 2024-01-09 | 343,103 | 7 |
 ## Awards
 Max (Great Boss Battles): 79  (Ranked 404)  
 Sum: 79 (Ranked 481)  

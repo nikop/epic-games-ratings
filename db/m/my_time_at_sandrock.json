@@ -2168,7 +2168,7 @@
   ],
   "EOS_Progressed": 870,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9542,9 +9542,9 @@
       "ID": "C_STAMINA",
       "SetID": "80dcan0",
       "Name": "On that Grindset",
-      "Percentage": 113,
+      "Percentage": 114,
       "XP": 10,
-      "UsersEstimate": 983
+      "UsersEstimate": 992
     },
     {
       "ID": "C_STAYUP",
@@ -10014,8 +10014,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2024-01-09T01:47:57.6354639+00:00",
-  "LastChanged_Achievements": "2024-01-09T01:57:58.5394336+00:00",
+  "LastChanged_Achievements": "2024-01-09T02:33:56.7925596+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:07.0919525+00:00",
-  "LastUpdate_Ratings": "2024-01-09T01:47:57.6354645+00:00",
-  "LastUpdate_Achievements": "2024-01-09T01:57:58.5395046+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:23:58.2335324+00:00",
+  "LastUpdate_Achievements": "2024-01-09T02:33:56.7926302+00:00"
 }

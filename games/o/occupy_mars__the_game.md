@@ -15,7 +15,7 @@ Rating: 4.02 (Ranked 1,042)
 | Gardener | 26.00% | ~484 |
 | Miner | 26.00% | ~484 |
 | Houston we have a problem | 23.00% | ~428 |
-| Detective | 19.00% | ~354 |
+| Detective | 20.00% | ~373 |
 | The Collector | 18.00% | ~335 |
 | Get your hands dirty | 11.00% | ~205 |
 | Space Forest | 10.00% | ~186 |

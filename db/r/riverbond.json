@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -503,10 +503,10 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 535212,
+  "EOS_Progressed": 535213,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 596,
-  "EOS_NewCompleters": 6,
+  "EOS_NewPlayers": 595,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
@@ -28548,6 +28548,11 @@
       "Time": "2024-01-09T01:57:32.2459305+00:00",
       "NumProgressed": 535212,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2024-01-09T02:33:29.7797399+00:00",
+      "NumProgressed": 535213,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 57,
@@ -28567,7 +28572,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 240845
+      "UsersEstimate": 240846
     },
     {
       "ID": "11",
@@ -28575,7 +28580,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 374648
+      "UsersEstimate": 374649
     },
     {
       "ID": "12",
@@ -28599,7 +28604,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 64225
+      "UsersEstimate": 64226
     },
     {
       "ID": "15",
@@ -28639,7 +28644,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 331831
+      "UsersEstimate": 331832
     },
     {
       "ID": "2",
@@ -28687,7 +28692,7 @@
       "Name": "Privacy, Please!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 21408
+      "UsersEstimate": 21409
     },
     {
       "ID": "25",
@@ -28711,7 +28716,7 @@
       "Name": "Silky Smooth",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 21408
+      "UsersEstimate": 21409
     },
     {
       "ID": "28",
@@ -28727,7 +28732,7 @@
       "Name": "Hash It Over",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 21408
+      "UsersEstimate": 21409
     },
     {
       "ID": "3",
@@ -28775,7 +28780,7 @@
       "Name": "Biting Tongue",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 21408
+      "UsersEstimate": 21409
     },
     {
       "ID": "35",
@@ -28887,7 +28892,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 331831
+      "UsersEstimate": 331832
     },
     {
       "ID": "48",
@@ -28895,7 +28900,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 107042
+      "UsersEstimate": 107043
     },
     {
       "ID": "49",
@@ -28911,7 +28916,7 @@
       "Name": "What a Catch!",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 21408
+      "UsersEstimate": 21409
     },
     {
       "ID": "50",
@@ -28927,7 +28932,7 @@
       "Name": "Hit the Spot",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 21408
+      "UsersEstimate": 21409
     },
     {
       "ID": "52",
@@ -29014,15 +29019,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 535212,
+      "Progressed": 535213,
       "Completed": 519
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-12-14T14:59:39.4842186+00:00",
-  "LastChanged_Achievements": "2024-01-09T01:57:32.2459301+00:00",
+  "LastChanged_Achievements": "2024-01-09T02:33:29.7797396+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:34.7747339+00:00",
-  "LastUpdate_Ratings": "2024-01-09T01:45:47.1186545+00:00",
-  "LastUpdate_Achievements": "2024-01-09T01:57:32.2460678+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:21:48.996939+00:00",
+  "LastUpdate_Achievements": "2024-01-09T02:33:29.7799321+00:00"
 }

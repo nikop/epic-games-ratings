@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -93,7 +93,7 @@
   "Tags": [],
   "EOS_Progressed": 1546,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4205,9 +4205,9 @@
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 758
+      "UsersEstimate": 773
     },
     {
       "ID": "AchvReachCondor",
@@ -4262,8 +4262,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-08T13:01:59.2105295+00:00",
-  "LastChanged_Achievements": "2024-01-09T01:59:00.4543162+00:00",
+  "LastChanged_Achievements": "2024-01-09T02:35:00.4234935+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-09T01:45:58.2375579+00:00",
-  "LastUpdate_Achievements": "2024-01-09T01:59:00.4543594+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:22:00.1586946+00:00",
+  "LastUpdate_Achievements": "2024-01-09T02:35:00.4235299+00:00"
 }

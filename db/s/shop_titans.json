@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -8083,9 +8083,9 @@
       "Count": 3817
     }
   ],
-  "EOS_Progressed": 150357,
+  "EOS_Progressed": 150361,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 1439,
+  "EOS_NewPlayers": 1441,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -35928,6 +35928,11 @@
       "Time": "2024-01-09T01:57:44.8462509+00:00",
       "NumProgressed": 150357,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2024-01-09T02:33:42.4988308+00:00",
+      "NumProgressed": 150361,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 112,
@@ -36019,7 +36024,7 @@
       "Name": "One Easy Payment",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9021
+      "UsersEstimate": 9022
     },
     {
       "ID": "bigsale02",
@@ -36043,7 +36048,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9021
+      "UsersEstimate": 9022
     },
     {
       "ID": "blueprint02",
@@ -36107,7 +36112,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16539
+      "UsersEstimate": 16540
     },
     {
       "ID": "chest02",
@@ -36163,7 +36168,7 @@
       "Name": "Ultimate Collector",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "commonres01",
@@ -36283,7 +36288,7 @@
       "Name": "Unleashed Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "energy01",
@@ -36291,7 +36296,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9021
+      "UsersEstimate": 9022
     },
     {
       "ID": "energy02",
@@ -36507,7 +36512,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "legenchant01",
@@ -36523,7 +36528,7 @@
       "Name": "Budding Merchant",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9021
+      "UsersEstimate": 9022
     },
     {
       "ID": "level02",
@@ -36755,7 +36760,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16539
+      "UsersEstimate": 16540
     },
     {
       "ID": "twinenchant01",
@@ -36803,7 +36808,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9021
+      "UsersEstimate": 9022
     },
     {
       "ID": "workers02",
@@ -36834,15 +36839,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 150357,
+      "Progressed": 150361,
       "Completed": 345
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-08T19:03:29.8440283+00:00",
-  "LastChanged_Achievements": "2024-01-09T01:57:44.8462506+00:00",
+  "LastChanged_Achievements": "2024-01-09T02:33:42.4988306+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.0260329+00:00",
-  "LastUpdate_Ratings": "2024-01-09T01:52:11.4650669+00:00",
-  "LastUpdate_Achievements": "2024-01-09T01:57:44.8464815+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:28:22.3954657+00:00",
+  "LastUpdate_Achievements": "2024-01-09T02:33:42.4990529+00:00"
 }

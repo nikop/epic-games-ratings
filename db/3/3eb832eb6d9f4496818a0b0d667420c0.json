@@ -229,9 +229,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 411658,
+  "EOS_Progressed": 411711,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 18579,
+  "EOS_NewPlayers": 18544,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2624,6 +2624,11 @@
       "Time": "2024-01-09T01:53:45.6176183+00:00",
       "NumProgressed": 411658,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-09T02:29:57.4700475+00:00",
+      "NumProgressed": 411711,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-05T09:03:44.926061+00:00",
@@ -2644,7 +2649,7 @@
       "Name": "Relentless Will",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 28816
+      "UsersEstimate": 28820
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -2668,7 +2673,7 @@
       "Name": "The Beginning of a Legend",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 94681
+      "UsersEstimate": 94694
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -2692,7 +2697,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 107031
+      "UsersEstimate": 107045
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -2700,7 +2705,7 @@
       "Name": "Level Analysis Complete",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 90565
+      "UsersEstimate": 90576
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -2732,7 +2737,7 @@
       "Name": "For Home Appreciation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12350
+      "UsersEstimate": 12351
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -2780,7 +2785,7 @@
       "Name": "Adventurer at the Precipice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8233
+      "UsersEstimate": 8234
     },
     {
       "ID": "ACHIEVEMENT_020",
@@ -2796,7 +2801,7 @@
       "Name": "Downloaded",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 37049
+      "UsersEstimate": 37054
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -2804,7 +2809,7 @@
       "Name": "The Strength to Fight",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12350
+      "UsersEstimate": 12351
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -2836,7 +2841,7 @@
       "Name": "One Step at a Time",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12350
+      "UsersEstimate": 12351
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -2844,7 +2849,7 @@
       "Name": "Training Advancement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 32933
+      "UsersEstimate": 32937
     },
     {
       "ID": "ACHIEVEMENT_028",
@@ -2860,7 +2865,7 @@
       "Name": "Training Shall Proceed!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12350
+      "UsersEstimate": 12351
     },
     {
       "ID": "ACHIEVEMENT_030",
@@ -2900,7 +2905,7 @@
       "Name": "No Regrets",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3294
     },
     {
       "ID": "ACHIEVEMENT_035",
@@ -2940,7 +2945,7 @@
       "Name": "Two Swords One Soul",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12350
+      "UsersEstimate": 12351
     },
     {
       "ID": "ACHIEVEMENT_040",
@@ -2979,7 +2984,7 @@
     {
       "ID": "dge1ook",
       "IsBase": true,
-      "Progressed": 411658,
+      "Progressed": 411711,
       "Completed": 2
     }
   ],
@@ -2987,8 +2992,8 @@
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
   "LastChanged": "2024-01-08T06:02:53.3104437+00:00",
-  "LastChanged_Achievements": "2024-01-09T01:53:45.6176179+00:00",
+  "LastChanged_Achievements": "2024-01-09T02:29:57.470047+00:00",
   "LastUpdate_AppInfo": "2024-01-02T11:56:58.7736767+00:00",
-  "LastUpdate_Ratings": "2024-01-09T01:51:55.8811397+00:00",
-  "LastUpdate_Achievements": "2024-01-09T01:53:45.6176563+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:28:04.4836795+00:00",
+  "LastUpdate_Achievements": "2024-01-09T02:29:57.4700801+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,454 |
+| The Old Grandmaster | 6.00% | ~45,455 |
 | Life is your teacher | 5.00% | ~37,879 |
-| The Assault | 4.00% | ~30,303 |
-| Lightning Hands | 4.00% | ~30,303 |
-| The Hateful Pole Fighter | 3.00% | ~22,727 |
-| State of constant learning | 3.00% | ~22,727 |
-| Qi Gong: Essence | 3.00% | ~22,727 |
-| Old Child | 3.00% | ~22,727 |
+| The Assault | 4.00% | ~30,304 |
+| Lightning Hands | 4.00% | ~30,304 |
+| The Hateful Pole Fighter | 3.00% | ~22,728 |
+| State of constant learning | 3.00% | ~22,728 |
+| Qi Gong: Essence | 3.00% | ~22,728 |
+| Old Child | 3.00% | ~22,728 |
 | A Lady's Blood in the Snow | 2.00% | ~15,152 |
 | Lady Wing Chun | 2.00% | ~15,152 |
 | Kill Nil | 2.00% | ~15,152 |
@@ -33,9 +33,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Project Arena | 1.00% | ~669 |
 | Fight the way you practice | 0.80% | ~535 |
 | Muk Yan Master | 0.70% | ~5,303 |
-| Tiger on Fire | 0.60% | ~4,545 |
-| Source of Flying Daggers | 0.60% | ~4,545 |
-| Detective Story | 0.60% | ~4,545 |
+| Tiger on Fire | 0.60% | ~4,546 |
+| Source of Flying Daggers | 0.60% | ~4,546 |
+| Detective Story | 0.60% | ~4,546 |
 | Bloody Sport | 0.60% | ~401 |
 | Martial Hub | 0.60% | ~401 |
 | Iron Money | 0.50% | ~3,788 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~67 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 757,575 (Ranked 26)  
+Progressed: 757,588 (Ranked 26)  
 Completed: 12,979 (1.71%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 12,979 (1.71%) (Ranked 142)
 | 2024-01-06 | 755,903 | 12,976 |
 | 2024-01-07 | 756,813 | 12,976 |
 | 2024-01-08 | 757,529 | 12,979 |
-| 2024-01-09 | 757,575 | 12,979 |
+| 2024-01-09 | 757,588 | 12,979 |
 ## Awards
 Max (Great Boss Battles): 7,154  (Ranked 56)  
 Sum: 12,650 (Ranked 85)  

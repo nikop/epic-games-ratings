@@ -79,7 +79,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2092,
+  "EOS_Progressed": 2093,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 0,
@@ -3989,6 +3989,11 @@
       "Time": "2024-01-09T01:59:35.8190135+00:00",
       "NumProgressed": 2092,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T02:35:36.4837428+00:00",
+      "NumProgressed": 2093,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4000,7 +4005,7 @@
       "Name": "Break Out",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "ACH_02",
@@ -4016,7 +4021,7 @@
       "Name": "Powerful Allies",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACH_04",
@@ -4104,7 +4109,7 @@
       "Name": "Airborne",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_15",
@@ -4112,7 +4117,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "ACH_16",
@@ -4240,7 +4245,7 @@
       "Name": "Stone Collection",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "ACH_33",
@@ -4248,7 +4253,7 @@
       "Name": "Miner",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_34",
@@ -4287,7 +4292,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2092,
+      "Progressed": 2093,
       "Completed": 3
     }
   ],
@@ -4295,8 +4300,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-08T15:00:05.2060054+00:00",
-  "LastChanged_Achievements": "2024-01-09T01:59:35.8190131+00:00",
+  "LastChanged_Achievements": "2024-01-09T02:35:36.4837425+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-09T01:49:09.0230026+00:00",
-  "LastUpdate_Achievements": "2024-01-09T01:59:35.819056+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:25:09.1531649+00:00",
+  "LastUpdate_Achievements": "2024-01-09T02:35:36.4837971+00:00"
 }

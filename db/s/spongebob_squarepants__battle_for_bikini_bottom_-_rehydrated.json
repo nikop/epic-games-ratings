@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -341,10 +341,10 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 879,
+  "EOS_Progressed": 880,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 248,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 249,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
     {
@@ -2316,6 +2316,11 @@
       "Time": "2024-01-09T01:56:36.9031565+00:00",
       "NumProgressed": 879,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-09T02:32:53.4087438+00:00",
+      "NumProgressed": 880,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2448,7 +2453,7 @@
       "Name": "Sweet Victory",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -2502,9 +2507,9 @@
       "ID": "ACH_STAT_25_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Super Spatula Seeker",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -2528,7 +2533,7 @@
       "Name": "Sock Getter",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -2583,15 +2588,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 879,
+      "Progressed": 880,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-06T21:00:31.8698684+00:00",
-  "LastChanged_Achievements": "2024-01-09T01:56:36.9031562+00:00",
+  "LastChanged_Achievements": "2024-01-09T02:32:53.4087432+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-09T01:51:37.45925+00:00",
-  "LastUpdate_Achievements": "2024-01-09T01:56:36.9031859+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:27:45.9482867+00:00",
+  "LastUpdate_Achievements": "2024-01-09T02:32:53.4088248+00:00"
 }

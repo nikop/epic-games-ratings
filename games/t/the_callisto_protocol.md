@@ -8,11 +8,11 @@ Rating: 4.22 (Ranked 946)
 | Flesh Wound | 25.00% | ~5,440 |
 | The Outer Way | 25.00% | ~5,440 |
 | Desperate Times | 24.00% | ~5,223 |
-| Paper Jams | 22.00% | ~4,787 |
+| Paper Jams | 22.00% | ~4,788 |
 | Get a Grip | 21.00% | ~4,570 |
 | Chew 'Em Up | 19.00% | ~4,135 |
 | Reforged | 18.00% | ~3,917 |
-| Float Like A Butterfly | 17.00% | ~3,699 |
+| Float Like A Butterfly | 17.00% | ~3,700 |
 | If the SHU Fits... | 16.00% | ~3,482 |
 | Workplace Hazard | 15.00% | ~3,264 |
 | Without A Paddle | 13.00% | ~2,829 |
@@ -21,9 +21,9 @@ Rating: 4.22 (Ranked 946)
 | Two Heads Are Better Than One | 11.00% | ~2,394 |
 | Power Up | 11.00% | ~2,394 |
 | Terminated | 10.00% | ~2,176 |
-| Giving Back | 9.00% | ~1,958 |
-| What Lies Beneath | 9.00% | ~1,958 |
-| Full Circle | 9.00% | ~1,958 |
+| Giving Back | 9.00% | ~1,959 |
+| What Lies Beneath | 9.00% | ~1,959 |
+| Full Circle | 9.00% | ~1,959 |
 | You Need a Gun | 8.00% | ~1,741 |
 | I Do Belong Here | 8.00% | ~1,741 |
 | Keep Fighting | 7.00% | ~678 |
@@ -38,8 +38,8 @@ Rating: 4.22 (Ranked 946)
 | Instigator | 1.00% | ~97 |
 | Grim Reaper | 0.90% | ~196 |
 | Information Overload | 0.90% | ~87 |
-| Parole Denied | 0.80% | ~77 |
-| Quick Pick | 0.80% | ~77 |
+| Parole Denied | 0.80% | ~78 |
+| Quick Pick | 0.80% | ~78 |
 | Subject Alpha | 0.60% | ~58 |
 | The Protocol is About Life | 0.40% | ~87 |
 | Don't Let It Mellow | 0.40% | ~39 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 946)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,761 (Ranked 151)  
+Progressed: 21,762 (Ranked 151)  
 Completed: 82 (0.38%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 82 (0.38%) (Ranked 241)
 | 2024-01-06 | 21,389 | 82 |
 | 2024-01-07 | 21,615 | 82 |
 | 2024-01-08 | 21,745 | 82 |
-| 2024-01-09 | 21,761 | 82 |
+| 2024-01-09 | 21,762 | 82 |
 ## Awards
 Max (Amazing Characters): 129  (Ranked 349)  
 Sum: 610 (Ranked 323)  

@@ -40,22 +40,23 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 0.90% | ~146 |
 | Magnificent | 0.90% | ~146 |
 | Ishtar Gate | 0.90% | ~146 |
+| Lighthouse | 0.90% | ~146 |
 | Christianity | 0.90% | ~146 |
+| Roman Paganism | 0.90% | ~146 |
 | Zoroastrianism | 0.90% | ~146 |
 | Able Difficulty | 0.80% | ~130 |
 | Apadana | 0.80% | ~130 |
 | Great Ziggurat | 0.80% | ~130 |
-| Lighthouse | 0.80% | ~130 |
 | Learn to Play 2 | 0.80% | ~130 |
-| Roman Paganism | 0.80% | ~130 |
+| Carthaginian Paganism | 0.80% | ~130 |
 | Regicide | 0.70% | ~114 |
 | Great | 0.70% | ~114 |
 | Wise | 0.70% | ~114 |
 | Furious Family | 0.70% | ~114 |
 | Acropolis | 0.70% | ~114 |
+| Musaeum | 0.70% | ~114 |
 | Necropolis | 0.70% | ~114 |
 | Manichaeism | 0.70% | ~114 |
-| Carthaginian Paganism | 0.70% | ~114 |
 | Egyptian Paganism | 0.70% | ~114 |
 | Drillmaster | 0.60% | ~98 |
 | Valiant | 0.60% | ~98 |
@@ -64,7 +65,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 0.60% | ~98 |
 | Colossus | 0.60% | ~98 |
 | Mausoleum | 0.60% | ~98 |
-| Musaeum | 0.60% | ~98 |
 | Building Wonders | 0.60% | ~98 |
 | Hanging Gardens in Babylon | 0.50% | ~81 |
 | Beloved | 0.50% | ~81 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,267 (Ranked 168)  
+Progressed: 16,270 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
-| 2024-01-09 | 16,267 | 5 |
+| 2024-01-09 | 16,270 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 286)  
 Sum: 1,917 (Ranked 223)  

@@ -14,17 +14,17 @@ Number of Ratings: 7,767  (23.09.2022)
 | Creep and Sleep | 6.00% | ~7,934 |
 | Overdue Notice | 6.00% | ~7,934 |
 | Ploughshares to Swords | 6.00% | ~426 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,611 |
-| Serenity Now! | 5.00% | ~6,611 |
-| It Rings a Bell | 5.00% | ~6,611 |
-| Not Today! | 5.00% | ~6,611 |
-| Meat and Greet | 5.00% | ~6,611 |
-| Catch and Decease | 5.00% | ~6,611 |
-| Escape from the Black Hole | 5.00% | ~6,611 |
-| It Happens | 5.00% | ~6,611 |
-| Rush Hour | 5.00% | ~6,611 |
-| To Grandmother's House | 5.00% | ~6,611 |
-| FNG | 5.00% | ~6,611 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,612 |
+| Serenity Now! | 5.00% | ~6,612 |
+| It Rings a Bell | 5.00% | ~6,612 |
+| Not Today! | 5.00% | ~6,612 |
+| Meat and Greet | 5.00% | ~6,612 |
+| Catch and Decease | 5.00% | ~6,612 |
+| Escape from the Black Hole | 5.00% | ~6,612 |
+| It Happens | 5.00% | ~6,612 |
+| Rush Hour | 5.00% | ~6,612 |
+| To Grandmother's House | 5.00% | ~6,612 |
+| FNG | 5.00% | ~6,612 |
 | Bloody Graduation | 5.00% | ~355 |
 | Spelunker | 4.00% | ~5,289 |
 | Merry Time | 4.00% | ~5,289 |
@@ -73,7 +73,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Life Well Lived | 0.60% | ~793 |
 | Bacon Bits | 0.60% | ~793 |
 | Eidetic | 0.50% | ~661 |
-| On This Long Road, We Found Redemption | 0.50% | ~35 |
+| On This Long Road, We Found Redemption | 0.50% | ~36 |
 | Battle Hardened | 0.40% | ~28 |
 | Tears in the Rain | 0.30% | ~397 |
 | Maître De La Lame | 0.30% | ~21 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,229 (Ranked 91)  
+Progressed: 132,231 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,10 +340,10 @@ Completed: 3 (0.00%) (Ranked 395)
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
-| 2024-01-09 | 132,229 | 3 |
+| 2024-01-09 | 132,231 | 3 |
 ## Awards
 Max (Character Customization): 7,992  (Ranked 50)  
-Sum: 21,547 (Ranked 58)  
+Sum: 21,549 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -352,7 +352,7 @@ Diff (max vs sum): -8
 | This game has Challenging Combat | 1,674 |
 | This game is Highly Recommended | 1,602 |
 | This game has Amazing Characters | 1,527 |
-| This game is Extremely Fun | 1,518 |
+| This game is Extremely Fun | 1,520 |
 | This game has Unique Visuals | 1,463 |
 | This game has Amazing Storytelling | 1,441 |
 | This game has Quickly Understood Controls | 1,411 |
@@ -708,3 +708,4 @@ Diff (max vs sum): -8
 | 2024-01-06 | 4.68 | - | 7,972 | 21,481 |
 | 2024-01-07 | 4.68 | - | 7,986 | 21,519 |
 | 2024-01-08 | 4.68 | - | 7,992 | 21,547 |
+| 2024-01-09 | 4.68 | - | 7,992 | 21,549 |

@@ -14,7 +14,7 @@ Rating: 3.68 (Ranked 1,092)
 | Ne Plus Ultra | 12.00% | ~278 |
 | Fly Fisher | 11.00% | ~255 |
 | Peek-a-boo | 11.00% | ~255 |
-| Sucks To Be You | 10.00% | ~232 |
+| Sucks To Be You | 11.00% | ~255 |
 | Enter of Your Own Free Will | 9.00% | ~209 |
 | Welcome to the Neighborhood | 9.00% | ~209 |
 | Throw The First Stone | 9.00% | ~209 |

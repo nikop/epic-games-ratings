@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3880,9 +3880,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242642,
+  "EOS_Progressed": 242643,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31170,6 +31170,11 @@
       "Time": "2024-01-09T01:59:45.6064781+00:00",
       "NumProgressed": 242642,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-09T02:35:46.7169138+00:00",
+      "NumProgressed": 242643,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -31373,7 +31378,7 @@
       "Name": "Dig Your Own Grave",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "DONTATTACKRATSDEPTH10",
@@ -31397,7 +31402,7 @@
       "Name": "Who To Trust?",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "ENDWOUNDED",
@@ -31413,7 +31418,7 @@
       "Name": "Walk It Off",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "FIREBEAD20EXPLOSIONS",
@@ -31589,7 +31594,7 @@
       "Name": "Destroy Your Fears",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "KILL10000",
@@ -31837,7 +31842,7 @@
       "Name": "Stone Touch",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "PLAY10HOURS",
@@ -31957,7 +31962,7 @@
       "Name": "Shadow Walker",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "SURVIVEON1",
@@ -31965,7 +31970,7 @@
       "Name": "Flesh Wound",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
@@ -31981,7 +31986,7 @@
       "Name": "Shapeshifting",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "TRANSFORMFIREBEAD",
@@ -32284,13 +32289,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242642,
+      "Progressed": 242643,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4122,
+      "Progressed": 4123,
       "Completed": 423
     }
   ],
@@ -32298,8 +32303,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-06T01:46:20.0115002+00:00",
-  "LastChanged_Achievements": "2024-01-09T01:59:45.6064778+00:00",
+  "LastChanged_Achievements": "2024-01-09T02:35:46.7169134+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-09T01:46:06.4328608+00:00",
-  "LastUpdate_Achievements": "2024-01-09T01:59:45.6067407+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:22:08.5420343+00:00",
+  "LastUpdate_Achievements": "2024-01-09T02:35:46.7171761+00:00"
 }

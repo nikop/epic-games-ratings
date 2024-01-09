@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5159,9 +5159,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82171,
+  "EOS_Progressed": 82172,
   "EOS_Completed": 132,
-  "EOS_NewPlayers": 1225,
+  "EOS_NewPlayers": 1220,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -29479,6 +29479,11 @@
       "Time": "2024-01-09T01:53:53.1029741+00:00",
       "NumProgressed": 82171,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2024-01-09T02:30:04.3622229+00:00",
+      "NumProgressed": 82172,
+      "NumCompleted": 132
     }
   ],
   "TotalAchievements": 61,
@@ -29586,7 +29591,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 13147
+      "UsersEstimate": 13148
     },
     {
       "ID": "CLAYFACE_1",
@@ -29730,7 +29735,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 15612
+      "UsersEstimate": 15613
     },
     {
       "ID": "FREEZE_3",
@@ -29866,7 +29871,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21364
+      "UsersEstimate": 21365
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -29882,7 +29887,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27116
+      "UsersEstimate": 27117
     },
     {
       "ID": "MYSTERY_02",
@@ -29977,13 +29982,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82171,
+      "Progressed": 82172,
       "Completed": 132
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 52451,
+      "Progressed": 52452,
       "Completed": 2679
     }
   ],
@@ -29991,8 +29996,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-08T23:59:02.619071+00:00",
-  "LastChanged_Achievements": "2024-01-09T01:53:53.1029736+00:00",
+  "LastChanged_Achievements": "2024-01-09T02:30:04.3622225+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:43.7132471+00:00",
-  "LastUpdate_Ratings": "2024-01-09T01:48:26.3644632+00:00",
-  "LastUpdate_Achievements": "2024-01-09T01:53:53.1031865+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:24:27.5984106+00:00",
+  "LastUpdate_Achievements": "2024-01-09T02:30:04.3623465+00:00"
 }

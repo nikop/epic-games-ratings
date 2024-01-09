@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2226,9 +2226,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16267,
+  "EOS_Progressed": 16270,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19326,6 +19326,11 @@
       "Time": "2024-01-09T01:59:47.3013908+00:00",
       "NumProgressed": 16267,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-09T02:35:48.3843758+00:00",
+      "NumProgressed": 16270,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20751,9 +20756,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
       "SetID": "9201eeb",
       "Name": "Lighthouse",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
@@ -20767,9 +20772,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
       "SetID": "9201eeb",
       "Name": "Musaeum",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 114
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_NECROPOLIS",
@@ -21151,9 +21156,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthaginian Paganism",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
@@ -21191,9 +21196,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ROME",
       "SetID": "7l38kb8",
       "Name": "Roman Paganism",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_ZOROASTRIANISM",
@@ -22200,21 +22205,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16267,
+      "Progressed": 16270,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16267,
+      "Progressed": 16270,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-08T13:05:16.5572777+00:00",
-  "LastChanged_Achievements": "2024-01-09T01:59:47.3013905+00:00",
+  "LastChanged_Achievements": "2024-01-09T02:35:48.3843755+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-09T01:50:44.8893708+00:00",
-  "LastUpdate_Achievements": "2024-01-09T01:59:47.3024275+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:27:23.5820792+00:00",
+  "LastUpdate_Achievements": "2024-01-09T02:35:48.3854337+00:00"
 }

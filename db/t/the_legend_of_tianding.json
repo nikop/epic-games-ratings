@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
     "PcReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -514,9 +514,9 @@
       "ID": "Collector",
       "SetID": "123m9l1",
       "Name": "Collector",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ExpressTrainExplorer",
@@ -667,8 +667,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-09T01:55:33.3446967+00:00",
+  "LastChanged_Achievements": "2024-01-09T02:31:47.8488087+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.6846029+00:00",
-  "LastUpdate_Ratings": "2024-01-09T01:46:33.1147816+00:00",
-  "LastUpdate_Achievements": "2024-01-09T01:55:33.3447163+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:22:34.1397798+00:00",
+  "LastUpdate_Achievements": "2024-01-09T02:31:47.8488281+00:00"
 }

@@ -3767,9 +3767,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 144686,
+  "EOS_Progressed": 144687,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 1012,
+  "EOS_NewPlayers": 1010,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -33477,6 +33477,11 @@
       "Time": "2024-01-09T01:56:56.5359867+00:00",
       "NumProgressed": 144686,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-09T02:33:13.6860992+00:00",
+      "NumProgressed": 144687,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 67,
@@ -33488,7 +33493,7 @@
       "Name": "Anarchist",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 98386
+      "UsersEstimate": 98387
     },
     {
       "ID": "TANNENBERG_ACH_ANYONE_ELSE",
@@ -33504,7 +33509,7 @@
       "Name": "At Least This Way I Can Win...",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 26043
+      "UsersEstimate": 26044
     },
     {
       "ID": "TANNENBERG_ACH_BEFORE_THE_LEAVES_FALL",
@@ -33608,7 +33613,7 @@
       "Name": "Fog of War",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 59321
+      "UsersEstimate": 59322
     },
     {
       "ID": "TANNENBERG_ACH_FORWARD_OBSERVER",
@@ -33712,7 +33717,7 @@
       "Name": "Information is Key",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 115749
+      "UsersEstimate": 115750
     },
     {
       "ID": "TANNENBERG_ACH_IVE_SEEN_IT_ALL",
@@ -33744,7 +33749,7 @@
       "Name": "Leeroy",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 47746
+      "UsersEstimate": 47747
     },
     {
       "ID": "TANNENBERG_ACH_LIVING_ON_THE_EDGE",
@@ -33760,7 +33765,7 @@
       "Name": "Lost Batallion",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 47746
+      "UsersEstimate": 47747
     },
     {
       "ID": "TANNENBERG_ACH_LUCKY_SHOT",
@@ -33920,7 +33925,7 @@
       "Name": "Switch, Please!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 27490
+      "UsersEstimate": 27491
     },
     {
       "ID": "TANNENBERG_ACH_S_NAMI_BOG",
@@ -33976,7 +33981,7 @@
       "Name": "Tourist",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 26043
+      "UsersEstimate": 26044
     },
     {
       "ID": "TANNENBERG_ACH_TO_ARMS_TO_ARMS",
@@ -33992,7 +33997,7 @@
       "Name": "Unlucky",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 101280
+      "UsersEstimate": 101281
     },
     {
       "ID": "TANNENBERG_ACH_WALLHACK",
@@ -34000,7 +34005,7 @@
       "Name": "Wallhack",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 94046
+      "UsersEstimate": 94047
     },
     {
       "ID": "TANNENBERG_ACH_YOUR_FAMILY_WILL_BE_PROUD",
@@ -34023,15 +34028,15 @@
     {
       "ID": "312pgde",
       "IsBase": true,
-      "Progressed": 144686,
+      "Progressed": 144687,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
   "LastChanged": "2024-01-06T15:57:37.8882229+00:00",
-  "LastChanged_Achievements": "2024-01-09T01:56:56.5359864+00:00",
+  "LastChanged_Achievements": "2024-01-09T02:33:13.6860989+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:13.5862554+00:00",
-  "LastUpdate_Ratings": "2024-01-09T01:48:19.3056811+00:00",
-  "LastUpdate_Achievements": "2024-01-09T01:56:56.5361755+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:24:20.2973307+00:00",
+  "LastUpdate_Achievements": "2024-01-09T02:33:13.6862625+00:00"
 }

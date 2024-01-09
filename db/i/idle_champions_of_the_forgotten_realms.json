@@ -9409,9 +9409,9 @@
       "Count": 3633
     }
   ],
-  "EOS_Progressed": 252829,
+  "EOS_Progressed": 252835,
   "EOS_Completed": 2603,
-  "EOS_NewPlayers": 3405,
+  "EOS_NewPlayers": 3393,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39274,6 +39274,11 @@
       "Time": "2024-01-09T01:59:48.2209498+00:00",
       "NumProgressed": 252829,
       "NumCompleted": 2603
+    },
+    {
+      "Time": "2024-01-09T02:35:49.3052955+00:00",
+      "NumProgressed": 252835,
+      "NumCompleted": 2603
     }
   ],
   "TotalAchievements": 546,
@@ -40469,7 +40474,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "objective_completed_164",
@@ -40477,7 +40482,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "objective_completed_165",
@@ -40509,7 +40514,7 @@
       "Name": "Building Trust",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "objective_completed_17",
@@ -40621,7 +40626,7 @@
       "Name": "No Time To Rest",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "objective_completed_208",
@@ -40965,7 +40970,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "objective_completed_35",
@@ -41157,7 +41162,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "objective_completed_400",
@@ -41773,7 +41778,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "objective_completed_590",
@@ -42357,7 +42362,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "objective_completed_690",
@@ -42461,7 +42466,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "objective_completed_75",
@@ -42493,7 +42498,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "objective_completed_8",
@@ -43027,9 +43032,9 @@
       "ID": "objective_completed_9",
       "SetID": "cc37lbc",
       "Name": "Pure Energy",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1517
     },
     {
       "ID": "objective_completed_902",
@@ -43652,21 +43657,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219103,
+      "Progressed": 219109,
       "Completed": 4144
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 252829,
+      "Progressed": 252835,
       "Completed": 2603
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-08T19:57:20.6543593+00:00",
-  "LastChanged_Achievements": "2024-01-09T01:59:48.2209493+00:00",
+  "LastChanged_Achievements": "2024-01-09T02:35:49.3052952+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-09T01:46:17.8465903+00:00",
-  "LastUpdate_Achievements": "2024-01-09T01:59:48.2234914+00:00"
+  "LastUpdate_Ratings": "2024-01-09T02:22:20.0317603+00:00",
+  "LastUpdate_Achievements": "2024-01-09T02:35:49.3076916+00:00"
 }

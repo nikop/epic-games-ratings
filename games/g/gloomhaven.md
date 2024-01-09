@@ -7,15 +7,15 @@ Number of Ratings: 68  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I'm not dead yet | 38.00% | ~12,280 |
-| Overkill | 33.00% | ~10,664 |
+| Overkill | 33.00% | ~10,665 |
 | Vaccine Incoming | 31.00% | ~10,018 |
-| A normal day in Gloomhaven | 29.00% | ~9,371 |
-| Spread the plague | 27.00% | ~8,725 |
+| A normal day in Gloomhaven | 29.00% | ~9,372 |
+| Spread the plague | 27.00% | ~8,726 |
 | Get over here! | 24.00% | ~7,756 |
 | Just when I thought I was out... | 19.00% | ~6,140 |
-| Mine... All Mine... | 16.00% | ~5,170 |
-| Precious! | 15.00% | ~4,847 |
-| Grizzled veteran | 15.00% | ~4,847 |
+| Mine... All Mine... | 16.00% | ~5,171 |
+| Precious! | 15.00% | ~4,848 |
+| Grizzled veteran | 15.00% | ~4,848 |
 | Anatomy Lesson | 14.00% | ~4,524 |
 | Light of my life | 13.00% | ~4,201 |
 | Who's the Boss? | 12.00% | ~3,878 |
@@ -35,10 +35,10 @@ Number of Ratings: 68  (23.09.2022)
 | Now you see me... | 5.00% | ~1,616 |
 | The Pro from Dover | 4.00% | ~1,293 |
 | Pretty lights! | 4.00% | ~1,293 |
-| I hate portals | 3.00% | ~969 |
-| Down the hatch | 3.00% | ~969 |
-| An eye for an eye | 3.00% | ~969 |
-| The Cephalophore | 3.00% | ~969 |
+| I hate portals | 3.00% | ~970 |
+| Down the hatch | 3.00% | ~970 |
+| An eye for an eye | 3.00% | ~970 |
+| The Cephalophore | 3.00% | ~970 |
 | From Gloom, only greed and death emerges | 2.00% | ~646 |
 | The Rat King | 2.00% | ~646 |
 | How to train your Drake | 2.00% | ~646 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~32 |
 | Hard-travelling Heroes | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,315 (Ranked 140)  
+Progressed: 32,317 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,11 +186,11 @@ Completed: 1 (0.00%) (Ranked 395)
 | 2024-01-06 | 31,749 | 1 |
 | 2024-01-07 | 32,091 | 1 |
 | 2024-01-08 | 32,291 | 1 |
-| 2024-01-09 | 32,315 | 1 |
+| 2024-01-09 | 32,317 | 1 |
 ## Awards
-Max (Character Customization): 3,616  (Ranked 94)  
+Max (Character Customization): 3,616  (Ranked 95)  
 Sum: 8,468 (Ranked 106)  
-Diff (max vs sum): -12  
+Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,616 |
