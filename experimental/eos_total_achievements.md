@@ -156,6 +156,7 @@
 | [Supraland Six Inches Under](../games/s/supraland_six_inches_under.md) | 53 | 1,000 |
 | [The Mageseeker: A League of Legends Story™](../games/t/the_mageseeker__a_league_of_legends_story™.md) | 53 | 1,000 |
 | [Weird West: Definitive Edition](../games/w/weird_west.md) | 53 | 1,000 |
+| [Boti - Byteland Overclocked](../games/1/1409385ad20c4ba48849a6cc0973db4a.md) | 52 | 1,000 |
 | [Gamedec - Definitive Edition](../games/g/gamedec_-_definitive_edition.md) | 52 | 1,000 |
 | [Layers of Fear](../games/l/layers_of_fear.md) | 52 | 1,000 |
 | [Miniland Adventure](../games/8/8900287f0941428abcdd1b92af29abce.md) | 52 | 1,000 |

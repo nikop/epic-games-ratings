@@ -19,13 +19,13 @@
 | 16 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 19 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 20 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.17% |
+| 20 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.11% |
 | 21 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
 | 22 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.65% |
-| 23 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
-| 24 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.52% |
-| 25 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 18.03% |
-| 26 | [The Riflemen](games/t/the_riflemen.md) | 17.41% |
+| 23 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 19.35% |
+| 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
+| 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.52% |
+| 26 | [The Riflemen](games/t/the_riflemen.md) | 17.40% |
 | 27 | [Island Cities](games/i/island_cities.md) | 17.02% |
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 29 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
@@ -57,7 +57,7 @@
 | 55 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.52% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 57 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.44% |
-| 58 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.31% |
+| 58 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.30% |
 | 59 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.08% |
 | 60 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.04% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 7.00% |
@@ -130,7 +130,7 @@
 | 128 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.46% |
 | 129 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.43% |
 | 130 | [Destiny 2](games/d/destiny_2.md) | 2.38% |
-| 131 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.32% |
+| 131 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.31% |
 | 132 | [Night Book](games/n/night_book.md) | 2.27% |
 | 133 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.22% |
 | 134 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
@@ -195,8 +195,8 @@
 | 193 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 193 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.76% |
 | 195 | [Infindustry](games/i/infindustry.md) | 0.75% |
-| 196 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
-| 197 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.70% |
+| 196 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
+| 196 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.70% |
 | 198 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.69% |
 | 199 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.67% |
 | 200 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.66% |
@@ -820,4 +820,4 @@
 | 395 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 395 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 395 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,814 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,815 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |

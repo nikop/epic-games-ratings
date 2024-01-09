@@ -156,6 +156,7 @@
 | [Born of Bread](../games/2/269f94247b4f471b9381fd4052bf1fad.md) | 36 | 1,000 |
 | [Bosorka](../games/b/bosorka.md) | 15 | 1,000 |
 | [Botanicula](../games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 53 | 1,000 |
+| [Boti - Byteland Overclocked](../games/1/1409385ad20c4ba48849a6cc0973db4a.md) | 52 | 1,000 |
 | [Bottle: Pilgrim Redux](../games/d/d5f88a2d15f2400db1c116d6651e7c9e.md) | 24 | 1,000 |
 | [Boxville](../games/7/7e305f850a5749b3b16599d737e500c8.md) | 18 | 1,000 |
 | [Bramble The Mountain King](../games/b/bramble_the_mountain_king.md) | 30 | 1,000 |
