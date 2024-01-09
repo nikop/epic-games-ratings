@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2787,
+  "EOS_Progressed": 2788,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7569,6 +7569,11 @@
       "Time": "2024-01-09T05:11:15.5257715+00:00",
       "NumProgressed": 2787,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T07:10:48.8230604+00:00",
+      "NumProgressed": 2788,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7653,7 +7658,7 @@
       "Name": "The power of the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "achievement_19",
@@ -7693,7 +7698,7 @@
       "Name": "Distinguished",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "achievement_23",
@@ -7725,7 +7730,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "achievement_27",
@@ -7805,7 +7810,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "achievement_36",
@@ -7821,7 +7826,7 @@
       "Name": "Off to a good start",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "achievement_38",
@@ -7853,7 +7858,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "achievement_41",
@@ -7933,7 +7938,7 @@
       "Name": "Shoot first",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "achievement_50",
@@ -7989,7 +7994,7 @@
       "Name": "Support the troops",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "achievement_57",
@@ -8084,13 +8089,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2787,
+      "Progressed": 2788,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2787,
+      "Progressed": 2788,
       "Completed": 1
     }
   ],
@@ -8098,8 +8103,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:09:55.7309575+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:10:48.8230601+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:58:33.6010611+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:09:55.7310338+00:00"
+  "LastUpdate_Ratings": "2024-01-09T06:59:10.7313501+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:10:48.8231569+00:00"
 }

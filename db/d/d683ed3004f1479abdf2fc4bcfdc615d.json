@@ -2,9 +2,9 @@
   "ID": "d683ed3004f1479abdf2fc4bcfdc615d",
   "Name": "Eigengrau",
   "ProductSlug": "eigengrau-62aef0",
-  "Ranking_EOS_Progress": 727,
+  "Ranking_EOS_Progress": 714,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 574,
+  "Ranking_EOS_NewPlayers": 573,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-07-03T10:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -38,6 +38,11 @@
     {
       "Time": "2023-06-27T10:03:49.8580193+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T07:06:12.3300831+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -80,7 +85,7 @@
       "ID": "PROGRESS_00",
       "SetID": "2122228",
       "Name": "The Blade of Beginning",
-      "Percentage": -50,
+      "Percentage": -33.3,
       "XP": 10,
       "UsersEstimate": -1
     },
@@ -545,14 +550,14 @@
     {
       "ID": "2122228",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-26T11:00:58.826137+00:00",
   "FirstSeenAchievements": "2023-06-17T23:00:57.8989714+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:05:26.3735611+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:06:12.3300828+00:00",
   "LastUpdate_AppInfo": "2024-01-07T15:56:53.4923801+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:59:11.9788817+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:05:26.3736194+00:00"
+  "LastUpdate_Ratings": "2024-01-09T06:59:53.1770893+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:06:12.330148+00:00"
 }

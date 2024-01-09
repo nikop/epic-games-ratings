@@ -291,7 +291,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 2383,
+  "EOS_Progressed": 2384,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
@@ -5591,6 +5591,11 @@
       "Time": "2024-01-09T05:04:05.5467307+00:00",
       "NumProgressed": 2383,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T07:04:06.6842042+00:00",
+      "NumProgressed": 2384,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -5611,15 +5616,15 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2121
+      "UsersEstimate": 2122
     },
     {
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1526
     },
     {
       "ID": "AC03",
@@ -5627,7 +5632,7 @@
       "Name": "Blood and Gold",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "AC04",
@@ -5635,7 +5640,7 @@
       "Name": "Blood and Iron",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "AC05",
@@ -5667,7 +5672,7 @@
       "Name": "Forged in Fire",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1097
     },
     {
       "ID": "AC09",
@@ -5683,7 +5688,7 @@
       "Name": "The Wait is Over",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "AC11",
@@ -5707,15 +5712,15 @@
       "Name": "Second Psalm.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "AC14",
       "SetID": "l4abp0",
       "Name": "Acta, Non Verba",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 429
     },
     {
       "ID": "AC15",
@@ -5731,7 +5736,7 @@
       "Name": "Weight of Penance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "AC17",
@@ -5747,7 +5752,7 @@
       "Name": "Acquired Taste",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "AC19",
@@ -5755,7 +5760,7 @@
       "Name": "Soledad",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "AC20",
@@ -5787,7 +5792,7 @@
       "Name": "Hide and Seek",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "AC24",
@@ -5827,7 +5832,7 @@
       "Name": "The Punished One",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "AC29",
@@ -5859,7 +5864,7 @@
       "Name": "Nobody Expects the Spanish Inquisition!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "AC33",
@@ -5923,7 +5928,7 @@
       "Name": "Welcome Back!",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1812
     },
     {
       "ID": "AC41",
@@ -5970,7 +5975,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2383,
+      "Progressed": 2384,
       "Completed": 0
     }
   ],
@@ -5978,8 +5983,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-07T11:57:39.4406053+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:03:31.9530361+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:04:06.6842036+00:00",
   "LastUpdate_AppInfo": "2024-01-03T03:57:04.3699674+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:58:39.7407876+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:03:31.9530825+00:00"
+  "LastUpdate_Ratings": "2024-01-09T06:59:18.0642874+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:04:06.6842796+00:00"
 }

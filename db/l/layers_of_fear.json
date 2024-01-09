@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 296,
+  "EOS_Progressed": 297,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1324,6 +1324,11 @@
       "Time": "2024-01-09T00:08:39.1991603+00:00",
       "NumProgressed": 296,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T07:09:23.6969825+00:00",
+      "NumProgressed": 297,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1448,7 +1453,7 @@
       "Name": "Do what you have to",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "earn_all_trophies",
@@ -1512,7 +1517,7 @@
       "Name": "The artist\u2019s impression",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "finished_it",
@@ -1544,7 +1549,7 @@
       "Name": "Sound Bite",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "heavy_burden",
@@ -1608,7 +1613,7 @@
       "Name": "A piece of the story",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "playtime",
@@ -1664,15 +1669,15 @@
       "Name": "Sign of weakness",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 255
     },
     {
       "ID": "spy_one_item",
@@ -1734,9 +1739,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 157
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1751,14 +1756,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 296,
+      "Progressed": 297,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:08:38.5279438+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:09:23.6969822+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:37.800715+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:57:33.9663208+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:08:38.5279867+00:00"
+  "LastUpdate_Ratings": "2024-01-09T06:58:01.6065562+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:09:23.6970184+00:00"
 }

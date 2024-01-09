@@ -6,34 +6,34 @@ Number of Ratings: 32  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Redo | 97.00% | ~246 |
-| Daily Life Begins Anew | 81.00% | ~206 |
-| Our World Now | 81.00% | ~206 |
-| Never Saw It Coming | 65.00% | ~165 |
-| Coup de Grace | 57.00% | ~145 |
-| Go-Home Club Activities START! | 48.00% | ~122 |
+| Welcome to Redo | 96.00% | ~245 |
+| Daily Life Begins Anew | 81.00% | ~207 |
+| Our World Now | 80.00% | ~204 |
+| Never Saw It Coming | 65.00% | ~166 |
+| Coup de Grace | 56.00% | ~143 |
+| Go-Home Club Activities START! | 47.00% | ~120 |
 | Philanthropist | 38.00% | ~97 |
 | Test Your Luck | 33.00% | ~84 |
-| Behind the Curtain | 32.00% | ~81 |
+| Behind the Curtain | 32.00% | ~82 |
 | Master of Surprise | 29.00% | ~74 |
 | Be Who You Wanna Be | 26.00% | ~66 |
 | Investment Ban-χ-ing | 24.00% | ~61 |
 | Counter Champion | 24.00% | ~61 |
 | Combo Commando | 24.00% | ~61 |
-| Friendly Neighborhood | 23.00% | ~58 |
-| Stay Winning | 23.00% | ~58 |
+| Friendly Neighborhood | 23.00% | ~59 |
+| Stay Winning | 23.00% | ~59 |
 | One-Track Mind | 22.00% | ~56 |
 | Nice Doing Business | 22.00% | ~56 |
-| WIRE Guru | 21.00% | ~53 |
+| WIRE Guru | 21.00% | ~54 |
 | The Greater Good | 19.00% | ~48 |
 | Depths of the Heart | 19.00% | ~48 |
 | Lost Souls For Sale | 19.00% | ~48 |
-| Trigger Finger | 19.00% | ~48 |
 | Selfish Decisions | 18.00% | ~46 |
 | Pulling Heartstrings | 18.00% | ~46 |
 | Extracurricular Affair | 18.00% | ~46 |
-| Hopes Rewarded | 17.00% | ~43 |
-| Guarding Guru | 17.00% | ~43 |
+| Trigger Finger | 18.00% | ~46 |
+| Hopes Rewarded | 16.00% | ~41 |
+| Guarding Guru | 16.00% | ~41 |
 | To Each Their Own | 11.00% | ~28 |
 | Eat Your Heart Out | 11.00% | ~28 |
 | Hustled and Bustled | 11.00% | ~28 |
@@ -56,8 +56,8 @@ Number of Ratings: 32  (23.09.2022)
 | Topical Conversationalist | 1.00% | ~3 |
 | The Caligula Effect 2 | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254 (Ranked 416)  
-Completed: 2 (0.79%) (Ranked 190)  
+Progressed: 255 (Ranked 415)  
+Completed: 2 (0.78%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,6 +86,7 @@ Completed: 2 (0.79%) (Ranked 190)
 | 2024-01-06 | 252 | 2 |
 | 2024-01-07 | 253 | 2 |
 | 2024-01-08 | 254 | 2 |
+| 2024-01-09 | 255 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

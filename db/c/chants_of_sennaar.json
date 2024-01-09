@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2586,
+  "EOS_Progressed": 2587,
   "EOS_Completed": 180,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 43,
   "EOS_Completed_Percentage": 6.96,
   "EosHistory": [
@@ -6812,6 +6812,11 @@
       "Time": "2024-01-09T06:06:24.0611756+00:00",
       "NumProgressed": 2586,
       "NumCompleted": 180
+    },
+    {
+      "Time": "2024-01-09T07:08:35.0954681+00:00",
+      "NumProgressed": 2587,
+      "NumCompleted": 180
     }
   ],
   "TotalAchievements": 25,
@@ -6823,7 +6828,7 @@
       "Name": "I did it",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "END_GOOD",
@@ -6831,7 +6836,7 @@
       "Name": "In this together",
       "Percentage": 25,
       "XP": 200,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "META_ALL_LINK",
@@ -6839,7 +6844,7 @@
       "Name": "Peace walker",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -6879,15 +6884,15 @@
       "Name": "Free at last",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 543
     },
     {
       "ID": "META_RESULT_2-3",
@@ -6927,7 +6932,7 @@
       "Name": "Rascal",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -6959,7 +6964,7 @@
       "Name": "Champollion",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -6975,7 +6980,7 @@
       "Name": "Scholar",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "PROGRESS_N1",
@@ -6983,7 +6988,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "PROGRESS_N2",
@@ -7022,7 +7027,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2586,
+      "Progressed": 2587,
       "Completed": 180
     }
   ],
@@ -7030,8 +7035,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:06:24.0611753+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:08:35.0954677+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:58:56.2114135+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:06:24.0612251+00:00"
+  "LastUpdate_Ratings": "2024-01-09T06:59:35.0521475+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:08:35.0955238+00:00"
 }

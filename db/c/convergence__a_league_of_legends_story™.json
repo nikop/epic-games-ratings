@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1279,
+  "EOS_Progressed": 1280,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3823,6 +3823,11 @@
       "Time": "2024-01-09T01:59:43.2985945+00:00",
       "NumProgressed": 1279,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-09T07:10:49.1351553+00:00",
+      "NumProgressed": 1280,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3858,7 +3863,7 @@
       "Name": "Treasure Trove",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -3866,7 +3871,7 @@
       "Name": "Right On Time",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ClockworkCompletion1",
@@ -3882,7 +3887,7 @@
       "Name": "Like Clockwork",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ClovemaryGift",
@@ -4074,7 +4079,7 @@
       "Name": "Time Flies",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ParryBoss",
@@ -4122,7 +4127,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "RewindParry",
@@ -4146,7 +4151,7 @@
       "Name": "Golem Chaser",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "SkillCompletion1",
@@ -4178,7 +4183,7 @@
       "Name": "Sump Explorer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "SyronGift",
@@ -4257,7 +4262,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1279,
+      "Progressed": 1280,
       "Completed": 7
     }
   ],
@@ -4265,8 +4270,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:09:55.9494811+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:10:49.135155+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:58:56.8243139+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:09:55.9495367+00:00"
+  "LastUpdate_Ratings": "2024-01-09T06:59:35.6864825+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:10:49.1352112+00:00"
 }

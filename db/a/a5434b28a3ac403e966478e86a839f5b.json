@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 916,
+  "EOS_Progressed": 917,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
@@ -3195,6 +3195,11 @@
       "Time": "2024-01-09T01:58:01.1456918+00:00",
       "NumProgressed": 916,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-09T07:09:26.7363896+00:00",
+      "NumProgressed": 917,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3215,7 +3220,7 @@
       "Name": "Establish Communications",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ACH_eou2",
@@ -3239,7 +3244,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_eou5",
@@ -3310,14 +3315,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 916,
+      "Progressed": 917,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:08:41.246632+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:09:26.736389+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:20.0779143+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:58:54.3729641+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:08:41.246661+00:00"
+  "LastUpdate_Ratings": "2024-01-09T06:59:32.842668+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:09:26.7364236+00:00"
 }

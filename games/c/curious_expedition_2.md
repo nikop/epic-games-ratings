@@ -7,21 +7,21 @@ Number of Ratings: 20  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Adventure Begins | 65.00% | ~272 |
-| Cartographer | 58.00% | ~242 |
+| Cartographer | 58.00% | ~243 |
 | A Strange Artefact | 54.00% | ~226 |
 | Insomnia | 49.00% | ~205 |
-| From Whence we Came | 44.00% | ~184 |
 | Lost & Found & Lost Again | 43.00% | ~180 |
-| Fire and Flood | 41.00% | ~171 |
+| From Whence we Came | 43.00% | ~180 |
+| Fire and Flood | 41.00% | ~172 |
 | Spooky! | 38.00% | ~159 |
-| Treasure Hunt | 36.00% | ~150 |
-| Shennong Herbalist | 35.00% | ~146 |
-| Good Mama | 33.00% | ~138 |
+| Treasure Hunt | 36.00% | ~151 |
+| Shennong Herbalist | 35.00% | ~147 |
 | O Captain My Captain | 32.00% | ~134 |
-| Plunderer | 30.00% | ~125 |
-| Taxonomist | 28.00% | ~117 |
+| Good Mama | 32.00% | ~134 |
+| Plunderer | 30.00% | ~126 |
+| Taxonomist | 27.00% | ~113 |
 | Traveller | 26.00% | ~109 |
-| Uncertain Loyalties | 25.00% | ~104 |
+| Uncertain Loyalties | 25.00% | ~105 |
 | Roll to Save | 23.00% | ~96 |
 | Nahua Seeker | 23.00% | ~96 |
 | Veteran Explorer | 22.00% | ~92 |
@@ -43,14 +43,14 @@ Number of Ratings: 20  (23.09.2022)
 | It's Complicated | 11.00% | ~46 |
 | Cold Blood, Warm Heart | 9.00% | ~38 |
 | Errand Runner | 9.00% | ~38 |
-| SCHMETTERLING | 8.00% | ~33 |
-| No Laughing Matter | 8.00% | ~33 |
-| The Great Library | 8.00% | ~33 |
-| Level Up | 8.00% | ~33 |
+| SCHMETTERLING | 8.00% | ~34 |
+| No Laughing Matter | 8.00% | ~34 |
+| The Great Library | 8.00% | ~34 |
+| Level Up | 8.00% | ~34 |
 | Zookeeper | 7.00% | ~29 |
-| Islander Understanding | 6.00% | ~25 |
-| A Paris Sunset | 6.00% | ~25 |
 | The Workshop | 6.00% | ~25 |
+| Islander Understanding | 5.00% | ~21 |
+| A Paris Sunset | 5.00% | ~21 |
 | The Director Perseveres | 5.00% | ~21 |
 | The Round Table | 5.00% | ~21 |
 | X Marks the Spot | 4.00% | ~17 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | Pacifism Ain't Easy | 0.70% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 418 (Ranked 364)  
+Progressed: 419 (Ranked 364)  
 Completed: 1 (0.24%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,6 +142,7 @@ Completed: 1 (0.24%) (Ranked 267)
 | 2024-01-06 | 410 | 1 |
 | 2024-01-07 | 416 | 1 |
 | 2024-01-08 | 418 | 1 |
+| 2024-01-09 | 419 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

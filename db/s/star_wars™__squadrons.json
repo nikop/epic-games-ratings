@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39506,
+  "EOS_Progressed": 39510,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2740,
+  "EOS_NewPlayers": 2737,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13209,6 +13209,11 @@
       "Time": "2024-01-09T06:09:50.8667213+00:00",
       "NumProgressed": 39506,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T07:10:43.7849396+00:00",
+      "NumProgressed": 39510,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -13269,7 +13274,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 7506
+      "UsersEstimate": 7507
     },
     {
       "ID": "achievement_16",
@@ -13309,7 +13314,7 @@
       "Name": "The Galaxy\u0027s Finest (Pilot)",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 2370
+      "UsersEstimate": 2371
     },
     {
       "ID": "achievement_20",
@@ -13325,7 +13330,7 @@
       "Name": "Sound Strategy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1975
+      "UsersEstimate": 1976
     },
     {
       "ID": "achievement_22",
@@ -13373,7 +13378,7 @@
       "Name": "Unkillable",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2765
+      "UsersEstimate": 2766
     },
     {
       "ID": "achievement_28",
@@ -13429,7 +13434,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 7111
+      "UsersEstimate": 7112
     },
     {
       "ID": "achievement_34",
@@ -13445,7 +13450,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 37531
+      "UsersEstimate": 37534
     },
     {
       "ID": "achievement_36",
@@ -13453,7 +13458,7 @@
       "Name": "Together, Vanguard",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2765
+      "UsersEstimate": 2766
     },
     {
       "ID": "achievement_37",
@@ -13477,7 +13482,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 9086
+      "UsersEstimate": 9087
     },
     {
       "ID": "achievement_4",
@@ -13549,7 +13554,7 @@
       "Name": "Stomped",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1975
+      "UsersEstimate": 1976
     },
     {
       "ID": "achievement_5",
@@ -13581,7 +13586,7 @@
       "Name": "A Better Idea",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 9086
+      "UsersEstimate": 9087
     },
     {
       "ID": "achievement_9",
@@ -13596,7 +13601,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 39506,
+      "Progressed": 39510,
       "Completed": 3
     }
   ],
@@ -13604,8 +13609,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:09:50.8667209+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:10:43.7849392+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:40.6174818+00:00",
-  "LastUpdate_Ratings": "2024-01-09T06:03:15.2105385+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:09:50.8667978+00:00"
+  "LastUpdate_Ratings": "2024-01-09T07:03:48.1727971+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:10:43.7850244+00:00"
 }

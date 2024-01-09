@@ -6,11 +6,11 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 2.00% | ~325 |
-| Intrepid | 2.00% | ~325 |
-| Settler | 2.00% | ~325 |
-| Friendly Family | 2.00% | ~325 |
-| Play a Single Player Game | 2.00% | ~325 |
+| Explorer | 2.00% | ~326 |
+| Intrepid | 2.00% | ~326 |
+| Settler | 2.00% | ~326 |
+| Friendly Family | 2.00% | ~326 |
+| Play a Single Player Game | 2.00% | ~326 |
 | Able | 1.00% | ~163 |
 | Ambitious | 1.00% | ~163 |
 | Architect | 1.00% | ~163 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,274 (Ranked 168)  
+Progressed: 16,276 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
-| 2024-01-09 | 16,274 | 5 |
+| 2024-01-09 | 16,276 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 286)  
 Sum: 1,918 (Ranked 223)  

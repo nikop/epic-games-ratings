@@ -1,32 +1,32 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.07 (Ranked 1,028)  
+Rating: 4.08 (Ranked 1,021)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,030 |
-| World Map | 78.00% | ~3,380 |
-| Temple of Eternals | 56.00% | ~2,426 |
-| Prestigious | 52.00% | ~2,253 |
+| Victor | 93.00% | ~4,032 |
+| World Map | 78.00% | ~3,381 |
+| Temple of Eternals | 56.00% | ~2,428 |
+| Prestigious | 52.00% | ~2,254 |
 | Fellowship Power | 41.00% | ~1,777 |
 | Full Party | 29.00% | ~1,257 |
 | Guild Power | 23.00% | ~997 |
 | Prestigious x10 | 20.00% | ~867 |
 | The game is on | 18.00% | ~780 |
-| Exotic Merchant | 16.00% | ~693 |
+| Exotic Merchant | 16.00% | ~694 |
 | Dragon Clicker | 15.00% | ~650 |
 | Miner Clicker | 15.00% | ~650 |
 | Inspection | 14.00% | ~607 |
-| Dragon Master | 13.00% | ~563 |
-| Enlightenment | 13.00% | ~563 |
-| Hero inspection | 13.00% | ~563 |
+| Dragon Master | 13.00% | ~564 |
+| Enlightenment | 13.00% | ~564 |
+| Hero inspection | 13.00% | ~564 |
 | Lieutenant | 12.00% | ~520 |
 | Mysterious Rock | 11.00% | ~477 |
 | Natural Talent | 11.00% | ~477 |
 | Superior | 11.00% | ~477 |
 | The Unstoppable | 11.00% | ~477 |
-| Milestone collector | 10.00% | ~433 |
+| Milestone collector | 10.00% | ~434 |
 | Doing My Part | 9.00% | ~390 |
 | Scientist | 9.00% | ~390 |
 | Challenger | 8.00% | ~347 |
@@ -53,11 +53,11 @@ Rating: 4.07 (Ranked 1,028)
 | How Do You Turn This On? | 5.00% | ~217 |
 | Lock And Load | 5.00% | ~217 |
 | Missions Dedication | 5.00% | ~217 |
-| Sailor | 5.00% | ~217 |
 | Active Member | 4.00% | ~173 |
 | Ancient Knowledge | 4.00% | ~173 |
 | Background Story | 4.00% | ~173 |
 | Legendary | 4.00% | ~173 |
+| Sailor | 4.00% | ~173 |
 | The Alchemist | 4.00% | ~173 |
 | Arena Challenger | 3.00% | ~130 |
 | Ebony Jungle Liberator | 3.00% | ~130 |
@@ -81,7 +81,7 @@ Rating: 4.07 (Ranked 1,028)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,333 (Ranked 209)  
+Progressed: 4,335 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 2 (0.05%) (Ranked 337)
 | 2024-01-06 | 4,266 | 2 |
 | 2024-01-07 | 4,299 | 2 |
 | 2024-01-08 | 4,327 | 2 |
-| 2024-01-09 | 4,333 | 2 |
+| 2024-01-09 | 4,335 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 483)  
 Sum: 155 (Ranked 439)  
@@ -446,3 +446,4 @@ Diff (max vs sum): 44
 | 2024-01-06 | 4.05 | 40 | 155 |
 | 2024-01-07 | 4.06 | 40 | 155 |
 | 2024-01-08 | 4.07 | 40 | 155 |
+| 2024-01-09 | 4.08 | 40 | 155 |

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1410,
+  "EOS_Progressed": 1411,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3729,6 +3729,11 @@
       "Time": "2024-01-08T22:11:09.7611091+00:00",
       "NumProgressed": 1410,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T07:10:49.4021819+00:00",
+      "NumProgressed": 1411,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3740,7 +3745,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3748,7 +3753,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3780,7 +3785,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3788,7 +3793,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -3796,7 +3801,7 @@
       "Name": "I Can Do This All Day",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ATK_ACHIEVEMENT_4",
@@ -3820,7 +3825,7 @@
       "Name": "The Judge, the Jury and the ... Barkannan",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "BARK_ACHIEVEMENT_3",
@@ -3844,7 +3849,7 @@
       "Name": "Main Course",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "BRO_ACHIEVEMENT_2",
@@ -3868,7 +3873,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -3916,7 +3921,7 @@
       "Name": "The Way It Should Be",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "COOP_ACHIEVEMENT_2",
@@ -3978,9 +3983,9 @@
       "ID": "FREEM_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Where Is Houdini?",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 254
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -4026,9 +4031,9 @@
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 564
+      "UsersEstimate": 550
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -4036,7 +4041,7 @@
       "Name": "Decakill!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -4060,7 +4065,7 @@
       "Name": "And There We Go",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -4172,7 +4177,7 @@
       "Name": "The Last of Us",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -4188,7 +4193,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -4267,14 +4272,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1410,
+      "Progressed": 1411,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:09:56.2862959+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:10:49.4021815+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:08.8169923+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:58:58.916783+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:09:56.2863743+00:00"
+  "LastUpdate_Ratings": "2024-01-09T06:59:38.0635681+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:10:49.4022656+00:00"
 }

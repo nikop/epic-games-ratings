@@ -6,32 +6,32 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~314,982 |
-| Full garage | 61.00% | ~263,204 |
-| To the eyeballs! | 51.00% | ~220,056 |
-| Individual delivery | 47.00% | ~202,797 |
-| Non-Stop | 45.00% | ~194,167 |
-| Juggler | 36.00% | ~155,334 |
-| Forgot something | 35.00% | ~151,019 |
-| Close call! | 30.00% | ~129,445 |
-| Get out my way | 28.00% | ~120,815 |
-| Common cause | 26.00% | ~112,185 |
-| Critical care | 26.00% | ~112,185 |
-| Mega-railroad | 23.00% | ~99,241 |
-| Upgrade complete | 23.00% | ~99,241 |
+| Dealmaker | 73.00% | ~314,985 |
+| Full garage | 61.00% | ~263,206 |
+| To the eyeballs! | 51.00% | ~220,058 |
+| Individual delivery | 47.00% | ~202,798 |
+| Non-Stop | 45.00% | ~194,169 |
+| Juggler | 36.00% | ~155,335 |
+| Forgot something | 35.00% | ~151,020 |
+| Close call! | 30.00% | ~129,446 |
+| Get out my way | 28.00% | ~120,816 |
+| Common cause | 26.00% | ~112,186 |
+| Critical care | 26.00% | ~112,186 |
+| Mega-railroad | 23.00% | ~99,242 |
+| Upgrade complete | 23.00% | ~99,242 |
 | Just in time! | 18.00% | ~77,667 |
-| Builder | 17.00% | ~73,352 |
-| Long Haul | 17.00% | ~73,240 |
-| Steam Age | 16.00% | ~69,037 |
-| Multilevel road | 15.00% | ~64,722 |
-| Bridgemania | 14.00% | ~60,407 |
-| Need to think | 14.00% | ~60,407 |
+| Builder | 17.00% | ~73,353 |
+| Long Haul | 17.00% | ~73,241 |
+| Steam Age | 16.00% | ~69,038 |
+| Multilevel road | 15.00% | ~64,723 |
+| Bridgemania | 14.00% | ~60,408 |
+| Need to think | 14.00% | ~60,408 |
 | The Tortoise | 12.00% | ~51,778 |
 | Beginner | 11.00% | ~47,463 |
 | Without a lunch break | 11.00% | ~47,463 |
-| One way | 10.00% | ~43,148 |
-| Relocation | 10.00% | ~43,148 |
-| Industrial Age | 9.00% | ~38,833 |
+| One way | 10.00% | ~43,149 |
+| Relocation | 10.00% | ~43,149 |
+| Industrial Age | 9.00% | ~38,834 |
 | Just One More Valley | 9.00% | ~38,774 |
 | Prick of conscience | 8.00% | ~34,519 |
 | Missed it! | 7.00% | ~30,204 |
@@ -45,9 +45,9 @@ Number of Ratings: 87  (23.09.2022)
 | Engineer | 4.00% | ~17,259 |
 | Large construction | 4.00% | ~17,259 |
 | Squander | 4.00% | ~17,259 |
-| Globalisation Age | 3.00% | ~12,944 |
-| Living it large | 3.00% | ~12,944 |
-| Sabotage | 3.00% | ~12,944 |
+| Globalisation Age | 3.00% | ~12,945 |
+| Living it large | 3.00% | ~12,945 |
+| Sabotage | 3.00% | ~12,945 |
 | Test Batch | 3.00% | ~12,925 |
 | Astronomer | 2.00% | ~8,630 |
 | Innovator | 2.00% | ~8,630 |
@@ -56,7 +56,7 @@ Number of Ratings: 87  (23.09.2022)
 | Vandal | 2.00% | ~8,630 |
 | Will work | 2.00% | ~8,630 |
 | Woodcutter | 2.00% | ~8,630 |
-| Occupied! | 2.00% | ~8,616 |
+| Occupied! | 2.00% | ~8,617 |
 | Achiever | 1.00% | ~4,315 |
 | Environmental activist | 1.00% | ~4,315 |
 | Metro builder | 1.00% | ~4,315 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~431 |
 | World Zapper | 0.10% | ~431 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 431,482 (Ranked 46)  
+Progressed: 431,486 (Ranked 46)  
 Completed: 24 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,10 +322,10 @@ Completed: 24 (0.01%) (Ranked 372)
 | 2024-01-06 | 430,884 | 24 |
 | 2024-01-07 | 431,203 | 24 |
 | 2024-01-08 | 431,437 | 24 |
-| 2024-01-09 | 431,482 | 24 |
+| 2024-01-09 | 431,486 | 24 |
 ## Awards
 Max (Challenging Puzzles): 1,046  (Ranked 160)  
-Sum: 2,146 (Ranked 213)  
+Sum: 2,148 (Ranked 213)  
 Diff (max vs sum): -53  
 | Award | Count |
 | ----- | ----- |
@@ -339,7 +339,7 @@ Diff (max vs sum): -53
 | This game has Challenging Combat | 90 |
 | This game has a Creative Community | 82 |
 | This game has Amazing Storytelling | 79 |
-| This game has Amazing Characters | 60 |
+| This game has Amazing Characters | 62 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -573,3 +573,4 @@ Diff (max vs sum): -53
 | 2024-01-06 | 4.45 | - | 1,036 | 2,130 |
 | 2024-01-07 | 4.45 | - | 1,040 | 2,136 |
 | 2024-01-08 | 4.45 | - | 1,046 | 2,146 |
+| 2024-01-09 | 4.45 | - | 1,046 | 2,148 |

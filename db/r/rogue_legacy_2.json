@@ -1516,10 +1516,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 1722,
       "NumberOfAwardsMax": 227
+    },
+    {
+      "Time": "2024-01-09T06:57:19.6940781+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 1723,
+      "NumberOfAwardsMax": 227
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1722,
+  "NumberOfAwards": 1723,
   "NumberOfAwardsMax": 227,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1557,7 +1563,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 198
+      "Count": 199
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1584,9 +1590,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 28040,
+  "EOS_Progressed": 28043,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -13549,6 +13555,11 @@
       "Time": "2024-01-09T06:09:44.5836654+00:00",
       "NumProgressed": 28040,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-09T07:10:36.5894131+00:00",
+      "NumProgressed": 28043,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -13640,7 +13651,7 @@
       "Name": "Spells and Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -13871,21 +13882,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 28040,
+      "Progressed": 28043,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6970,
+      "Progressed": 6973,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
-  "LastChanged": "2024-01-07T05:00:47.8747453+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:09:44.583665+00:00",
+  "LastChanged": "2024-01-09T06:57:19.694078+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:10:36.5894128+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:16.4635805+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:02:53.0362093+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:09:44.5837462+00:00"
+  "LastUpdate_Ratings": "2024-01-09T06:57:19.6940784+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:10:36.5894861+00:00"
 }

@@ -355,9 +355,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 235149,
+  "EOS_Progressed": 235151,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27230,6 +27230,11 @@
       "Time": "2024-01-09T05:10:21.5549016+00:00",
       "NumProgressed": 235149,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-09T07:10:03.0562238+00:00",
+      "NumProgressed": 235151,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -27377,7 +27382,7 @@
       "Name": "Champ\u0027een of The Praire",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2351
+      "UsersEstimate": 2352
     },
     {
       "ID": "COMPLETE_THE_STORY_MODE_PROLOGUE",
@@ -27401,7 +27406,7 @@
       "Name": "Be Gentle...",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 49381
+      "UsersEstimate": 49382
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -27409,7 +27414,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7054
+      "UsersEstimate": 7055
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -27449,7 +27454,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39975
+      "UsersEstimate": 39976
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -27457,14 +27462,14 @@
       "Name": "Come At Me!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2351
+      "UsersEstimate": 2352
     }
   ],
   "AchievementSets": [
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 235149,
+      "Progressed": 235151,
       "Completed": 6
     }
   ],
@@ -27472,8 +27477,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2024-01-07T19:57:29.8230192+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:09:14.0624331+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:10:03.0562234+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:56:58.3666306+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:58:13.8936178+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:09:14.0626078+00:00"
+  "LastUpdate_Ratings": "2024-01-09T06:58:46.7416684+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:10:03.0563841+00:00"
 }

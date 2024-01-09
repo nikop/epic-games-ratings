@@ -6,17 +6,17 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Hunt | 3.00% | ~5,020 |
-| Taste | 3.00% | ~5,020 |
-| Imprint | 3.00% | ~5,020 |
+| The Hunt | 3.00% | ~5,021 |
+| Taste | 3.00% | ~5,021 |
+| Imprint | 3.00% | ~5,021 |
+| Ravenous | 3.00% | ~5,021 |
 | Weeper | 2.00% | ~3,347 |
-| Ravenous | 2.00% | ~3,347 |
-| Harmless | 1.00% | ~1,673 |
-| Silenced Whispers | 1.00% | ~1,673 |
-| Devourer | 1.00% | ~1,673 |
+| Harmless | 1.00% | ~1,674 |
+| Silenced Whispers | 1.00% | ~1,674 |
+| Devourer | 1.00% | ~1,674 |
 | Yank | 0.80% | ~1,339 |
 | Sharpened Vessel | 0.80% | ~1,339 |
-| Scion | 0.70% | ~1,168 |
+| Scion | 0.70% | ~1,169 |
 | Jawcrab | 0.70% | ~1,171 |
 | Jawstag | 0.70% | ~1,171 |
 | Feast | 0.70% | ~1,171 |
@@ -39,6 +39,7 @@ Number of Ratings: 46  (23.09.2022)
 | Bloodhunter | 0.20% | ~335 |
 | Kinship | 0.20% | ~335 |
 | Passage | 0.20% | ~335 |
+| Kin | 0.20% | ~334 |
 | Listen | 0.20% | ~334 |
 | Proportions | 0.20% | ~335 |
 | Spiral Heart | 0.10% | ~161 |
@@ -47,13 +48,12 @@ Number of Ratings: 46  (23.09.2022)
 | Zygote | 0.10% | ~167 |
 | Weakness | 0.10% | ~167 |
 | Generous | 0.10% | ~167 |
-| Kin | 0.10% | ~167 |
 | The Nightmare | 0.10% | ~167 |
 | Touch of Otherwhere | 0.10% | ~167 |
 | Enrich | 0.10% | ~167 |
 | Intensify | 0.10% | ~167 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 167,345 (Ranked 84)  
+Progressed: 167,351 (Ranked 84)  
 Completed: 452 (0.27%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 452 (0.27%) (Ranked 259)
 | 2024-01-06 | 166,913 | 446 |
 | 2024-01-07 | 167,144 | 449 |
 | 2024-01-08 | 167,301 | 452 |
-| 2024-01-09 | 167,345 | 452 |
+| 2024-01-09 | 167,351 | 452 |
 ## Awards
 Max (Unique Visuals): 62  (Ranked 430)  
 Sum: 450 (Ranked 343)  

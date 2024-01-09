@@ -6,22 +6,22 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 78.00% | ~397 |
-| First of many… | 69.00% | ~351 |
+| Green with Envy | 78.00% | ~398 |
+| First of many… | 69.00% | ~352 |
 | Helping Hand | 64.00% | ~326 |
-| Increased Vigor | 59.00% | ~300 |
-| Fight Fire with Fire | 57.00% | ~290 |
+| Increased Vigor | 59.00% | ~301 |
+| Fight Fire with Fire | 57.00% | ~291 |
 | Increased Capacity | 54.00% | ~275 |
-| Just the start | 49.00% | ~249 |
-| Perfect Storm | 46.00% | ~234 |
-| All That Glitters | 45.00% | ~229 |
+| Just the start | 48.00% | ~245 |
+| Perfect Storm | 46.00% | ~235 |
+| All That Glitters | 45.00% | ~230 |
 | Enhance! | 42.00% | ~214 |
 | One Of the Chosen | 39.00% | ~199 |
 | Devil's in the Details | 39.00% | ~199 |
 | Throne Potato | 39.00% | ~199 |
 | Five's a Crowd | 39.00% | ~199 |
 | 25 to Life | 39.00% | ~199 |
-| Salvation | 37.00% | ~188 |
+| Salvation | 37.00% | ~189 |
 | Unshakable Fortitude | 35.00% | ~178 |
 | Soul Harvester | 35.00% | ~178 |
 | Delusions of Grandeur | 34.00% | ~173 |
@@ -31,9 +31,9 @@ Number of Ratings: 116  (23.09.2022)
 | Freeze Frame | 29.00% | ~148 |
 | Eat Your Heart Out | 29.00% | ~148 |
 | For Whom the Bell Tolls | 29.00% | ~148 |
-| Unyielding Strength | 26.00% | ~132 |
-| Can you restore the Balance? | 25.00% | ~127 |
-| Big Spender | 25.00% | ~127 |
+| Unyielding Strength | 26.00% | ~133 |
+| Can you restore the Balance? | 25.00% | ~128 |
+| Big Spender | 25.00% | ~128 |
 | Cleanup Crew | 24.00% | ~122 |
 | Crowd Source | 24.00% | ~122 |
 | Demon Meddler | 23.00% | ~117 |
@@ -53,9 +53,9 @@ Number of Ratings: 116  (23.09.2022)
 | Soul Reaper | 8.00% | ~41 |
 | Made of Sterner Stuff | 7.00% | ~36 |
 | My Evil Twin | 6.00% | ~31 |
-| Balance in all things | 5.00% | ~25 |
-| Keeper of the Bonfire | 5.00% | ~25 |
-| Keeper of the Sky | 5.00% | ~25 |
+| Balance in all things | 5.00% | ~26 |
+| Keeper of the Bonfire | 5.00% | ~26 |
+| Keeper of the Sky | 5.00% | ~26 |
 | Purity of Power | 4.00% | ~20 |
 | "Impressive!" | 4.00% | ~20 |
 | Keeper of the Vale | 4.00% | ~20 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 1.00% | ~5 |
 | Beast Mode | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 509 (Ranked 349)  
+Progressed: 510 (Ranked 349)  
 Completed: 2 (0.39%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 2 (0.39%) (Ranked 238)
 | 2024-01-06 | 466 | 2 |
 | 2024-01-07 | 492 | 2 |
 | 2024-01-08 | 503 | 2 |
-| 2024-01-09 | 509 | 2 |
+| 2024-01-09 | 510 | 2 |
 ## Awards
 Max (Great Boss Battles): 96  (Ranked 388)  
 Sum: 96 (Ranked 472)  

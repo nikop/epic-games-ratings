@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -456,9 +456,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1092,
+  "EOS_Progressed": 1093,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3801,6 +3801,11 @@
       "Time": "2024-01-09T05:10:05.7084567+00:00",
       "NumProgressed": 1092,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T07:09:50.1865829+00:00",
+      "NumProgressed": 1093,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4117,7 +4122,7 @@
       "Name": "Landlord Extraordinaire",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "TrojanHorse",
@@ -4141,7 +4146,7 @@
       "Name": "Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "WielderLevel2",
@@ -4244,15 +4249,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1092,
+      "Progressed": 1093,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-08T22:01:52.5110389+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:09:02.1995194+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:09:50.1865825+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-09T06:00:21.5807666+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:09:02.1995662+00:00"
+  "LastUpdate_Ratings": "2024-01-09T07:03:00.7083965+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:09:50.1866534+00:00"
 }

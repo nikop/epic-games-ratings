@@ -4,7 +4,7 @@
   "ProductSlug": "echo-storm-4e5fbe",
   "Ranking_EOS_Progress": 537,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 525,
+  "Ranking_EOS_NewPlayers": 504,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-11T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 61,
+  "EOS_Progressed": 62,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -319,6 +319,11 @@
       "Time": "2024-01-08T16:09:08.1626319+00:00",
       "NumProgressed": 61,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T07:09:54.0349108+00:00",
+      "NumProgressed": 62,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 16,
@@ -328,7 +333,7 @@
       "ID": "absoluteZero",
       "SetID": "bma0pih",
       "Name": "Absolute Zero",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 35,
       "UsersEstimate": 4
     },
@@ -336,7 +341,7 @@
       "ID": "earn3000",
       "SetID": "bma0pih",
       "Name": "Reach",
-      "Percentage": 84,
+      "Percentage": 82,
       "XP": 60,
       "UsersEstimate": 51
     },
@@ -360,7 +365,7 @@
       "ID": "kill100",
       "SetID": "bma0pih",
       "Name": "Recruit",
-      "Percentage": 84,
+      "Percentage": 82,
       "XP": 15,
       "UsersEstimate": 51
     },
@@ -368,7 +373,7 @@
       "ID": "kill300",
       "SetID": "bma0pih",
       "Name": "Soldier",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 100,
       "UsersEstimate": 50
     },
@@ -376,7 +381,7 @@
       "ID": "kill750",
       "SetID": "bma0pih",
       "Name": "War machine",
-      "Percentage": 79,
+      "Percentage": 77,
       "XP": 150,
       "UsersEstimate": 48
     },
@@ -384,7 +389,7 @@
       "ID": "killWithHammer",
       "SetID": "bma0pih",
       "Name": "Eternal blacksmith",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -392,7 +397,7 @@
       "ID": "leviathan01",
       "SetID": "bma0pih",
       "Name": "Flying death",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 55,
       "UsersEstimate": 42
     },
@@ -432,7 +437,7 @@
       "ID": "pyromancer",
       "SetID": "bma0pih",
       "Name": "Pyromancer",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 35,
       "UsersEstimate": 12
     },
@@ -457,14 +462,14 @@
     {
       "ID": "bma0pih",
       "IsBase": true,
-      "Progressed": 61,
+      "Progressed": 62,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-31T13:03:44.3512159+00:00",
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:09:05.7463909+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:09:54.0349104+00:00",
   "LastUpdate_AppInfo": "2024-01-08T02:57:24.2602582+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:57:25.7140835+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:09:05.7464008+00:00"
+  "LastUpdate_Ratings": "2024-01-09T06:57:52.9998331+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:09:54.0349218+00:00"
 }

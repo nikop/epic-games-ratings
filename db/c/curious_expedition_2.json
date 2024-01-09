@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 418,
+  "EOS_Progressed": 419,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -701,6 +701,11 @@
       "Time": "2024-01-08T11:11:22.2967884+00:00",
       "NumProgressed": 418,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T07:10:47.9838165+00:00",
+      "NumProgressed": 419,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -734,17 +739,17 @@
       "ID": "ach-anthropology-complete",
       "SetID": "17ih7ma",
       "Name": "Islander Understanding",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 21
     },
     {
       "ID": "ach-ascension-complete",
       "SetID": "17ih7ma",
       "Name": "A Paris Sunset",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 21
     },
     {
       "ID": "ach-ascension-complete-year",
@@ -784,7 +789,7 @@
       "Name": "SCHMETTERLING",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ach-campaign-allEndings",
@@ -888,7 +893,7 @@
       "Name": "Cartographer",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ach-discover-locations-high",
@@ -912,7 +917,7 @@
       "Name": "Fire and Flood",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ach-find-treasure",
@@ -974,9 +979,9 @@
       "ID": "ach-kill-animal-groups",
       "SetID": "17ih7ma",
       "Name": "Taxonomist",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 113
     },
     {
       "ID": "ach-kill-hyenas",
@@ -984,7 +989,7 @@
       "Name": "No Laughing Matter",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ach-kill-sandworm",
@@ -1000,7 +1005,7 @@
       "Name": "Shennong Herbalist",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -1024,7 +1029,7 @@
       "Name": "The Great Library",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ach-maxLevelCharacter",
@@ -1080,15 +1085,15 @@
       "Name": "Uncertain Loyalties",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ach-portal-return",
       "SetID": "17ih7ma",
       "Name": "From Whence we Came",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 180
     },
     {
       "ID": "ach-promotion",
@@ -1096,15 +1101,15 @@
       "Name": "Level Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ach-raiseDino",
       "SetID": "17ih7ma",
       "Name": "Good Mama",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 134
     },
     {
       "ID": "ach-redElk",
@@ -1128,7 +1133,7 @@
       "Name": "Plunderer",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ach-salamanderPrince",
@@ -1160,7 +1165,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -1191,7 +1196,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 418,
+      "Progressed": 419,
       "Completed": 1
     }
   ],
@@ -1199,8 +1204,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:09:54.949111+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:10:47.9838163+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:11.9345433+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:58:44.7699594+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:09:54.9491694+00:00"
+  "LastUpdate_Ratings": "2024-01-09T06:59:24.0634118+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:10:47.9838596+00:00"
 }

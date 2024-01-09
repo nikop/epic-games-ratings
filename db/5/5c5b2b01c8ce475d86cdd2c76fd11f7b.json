@@ -434,9 +434,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "7on801h",
       "Name": "We Are Human Beings",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1095,8 +1095,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:04:51.5046416+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:05:33.6701988+00:00",
   "LastUpdate_AppInfo": "2024-01-03T16:57:22.5925378+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:59:44.1906971+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:04:51.5047051+00:00"
+  "LastUpdate_Ratings": "2024-01-09T07:00:28.3902998+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:05:33.6702876+00:00"
 }

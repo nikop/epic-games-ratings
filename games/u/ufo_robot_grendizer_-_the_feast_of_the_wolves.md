@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Remains of Fleed | 54.00% | ~38 |
-| Life of Pi | 54.00% | ~38 |
+| The Remains of Fleed | 56.00% | ~39 |
+| Life of Pi | 56.00% | ~39 |
 | The Legend | 54.00% | ~38 |
 | Escape from Fleed | 44.00% | ~31 |
 | Strength in Defeat | 44.00% | ~31 |
@@ -16,9 +16,9 @@
 | The Keeper of Fleed | 11.00% | ~8 |
 | The Collector | 11.00% | ~8 |
 | The Broken Guard | 9.00% | ~6 |
+| A Good Paint Job | 7.00% | ~5 |
 | The Vega Turtle | 7.00% | ~5 |
 | Gold Seeker | 6.00% | ~4 |
-| A Good Paint Job | 6.00% | ~4 |
 | The Planner | 6.00% | ~4 |
 | The Flying Octopus | 6.00% | ~4 |
 | A Land of Peace | 4.00% | ~3 |

@@ -445,9 +445,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 549,
+  "EOS_Progressed": 550,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1970,6 +1970,11 @@
       "Time": "2024-01-09T06:09:41.5940522+00:00",
       "NumProgressed": 549,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T07:10:33.4293524+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -1998,7 +2003,7 @@
       "Name": "Astarte",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Belial",
@@ -2078,7 +2083,7 @@
       "Name": "Hell\u0027s Forge",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Infested",
@@ -2102,7 +2107,7 @@
       "Name": "Master of Strife",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MasterofWar",
@@ -2110,7 +2115,7 @@
       "Name": "Master of War",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MintI",
@@ -2166,7 +2171,7 @@
       "Name": "Soul Cache",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "TheDeadCourt",
@@ -2174,7 +2179,7 @@
       "Name": "The Dead Court",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TheGardenofForkingPaths",
@@ -2221,15 +2226,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 549,
+      "Progressed": 550,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:09:41.594052+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:10:33.4293519+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.460117+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:58:15.4491862+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:09:41.594081+00:00"
+  "LastUpdate_Ratings": "2024-01-09T06:58:48.4083446+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:10:33.4293959+00:00"
 }

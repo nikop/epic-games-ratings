@@ -6,13 +6,13 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~924 |
+| Malpractice Assurance | 13.00% | ~925 |
 | Lost and Found | 8.00% | ~569 |
 | Autodidact | 7.00% | ~9,257 |
 | This guy... again? | 7.00% | ~498 |
-| This Belongs in a Museum | 6.00% | ~7,934 |
-| Creep and Sleep | 6.00% | ~7,934 |
-| Overdue Notice | 6.00% | ~7,934 |
+| This Belongs in a Museum | 6.00% | ~7,935 |
+| Creep and Sleep | 6.00% | ~7,935 |
+| Overdue Notice | 6.00% | ~7,935 |
 | Ploughshares to Swords | 6.00% | ~427 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,612 |
 | Serenity Now! | 5.00% | ~6,612 |
@@ -33,7 +33,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 4.00% | ~5,290 |
 | A Place to Lay Your Head | 4.00% | ~5,290 |
 | Nope | 4.00% | ~5,290 |
-| Friends 'Til the End | 4.00% | ~284 |
+| Friends 'Til the End | 4.00% | ~285 |
 | Resurrection | 3.00% | ~3,967 |
 | Unleash Hell | 3.00% | ~3,967 |
 | Funny Guy | 3.00% | ~3,967 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,241 (Ranked 91)  
+Progressed: 132,247 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 3 (0.00%) (Ranked 395)
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
-| 2024-01-09 | 132,241 | 3 |
+| 2024-01-09 | 132,247 | 3 |
 ## Awards
 Max (Character Customization): 7,992  (Ranked 50)  
 Sum: 21,553 (Ranked 58)  

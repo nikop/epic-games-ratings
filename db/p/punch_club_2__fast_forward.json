@@ -2318,9 +2318,9 @@
       "ID": "all_promotion_4",
       "SetID": "69co12a",
       "Name": "Gang wrangler",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 173
     },
     {
       "ID": "all_promotion_5",
@@ -2829,8 +2829,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:09:39.8542694+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:10:31.5213741+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:10.7103832+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:59:50.9506587+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:09:39.854328+00:00"
+  "LastUpdate_Ratings": "2024-01-09T07:00:35.8279591+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:10:31.5214472+00:00"
 }

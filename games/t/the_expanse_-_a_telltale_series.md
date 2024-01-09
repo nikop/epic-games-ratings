@@ -16,15 +16,15 @@ Rating: 4.52 (Ranked 570)
 | Stogie for Fogey | 11.00% | ~2,056 |
 | Spore Taste | 11.00% | ~2,056 |
 | Zen Master | 10.00% | ~465 |
-| Call it Even | 9.00% | ~1,682 |
+| Call it Even | 9.00% | ~1,683 |
 | Safe Cracker | 9.00% | ~418 |
 | Madame Undersecretary | 9.00% | ~418 |
-| Heal Thy Medic | 8.00% | ~1,495 |
+| Heal Thy Medic | 8.00% | ~1,496 |
 | Keep Arjun in Check | 8.00% | ~372 |
-| Data Archivist | 7.00% | ~1,308 |
-| Drug Gifter | 7.00% | ~1,308 |
-| Thorston Mayer | 7.00% | ~1,308 |
-| Khan's Revenge | 7.00% | ~1,308 |
+| Data Archivist | 7.00% | ~1,309 |
+| Drug Gifter | 7.00% | ~1,309 |
+| Thorston Mayer | 7.00% | ~1,309 |
+| Khan's Revenge | 7.00% | ~1,309 |
 | Doctor Approved | 6.00% | ~1,122 |
 | Bottoms up! | 6.00% | ~1,122 |
 | Master Negotiator | 6.00% | ~279 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 570)
 | Scavenger Star | 0.30% | ~56 |
 | Data Collector | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,692 (Ranked 159)  
+Progressed: 18,695 (Ranked 159)  
 Completed: 61 (0.33%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 61 (0.33%) (Ranked 247)
 | 2024-01-06 | 18,440 | 59 |
 | 2024-01-07 | 18,579 | 60 |
 | 2024-01-08 | 18,665 | 60 |
-| 2024-01-09 | 18,692 | 61 |
+| 2024-01-09 | 18,695 | 61 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

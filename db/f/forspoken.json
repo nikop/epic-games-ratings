@@ -625,9 +625,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 46849,
+  "EOS_Progressed": 46850,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 787,
+  "EOS_NewPlayers": 782,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18185,6 +18185,11 @@
       "Time": "2024-01-09T06:05:04.5301915+00:00",
       "NumProgressed": 46849,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-09T07:05:47.9600653+00:00",
+      "NumProgressed": 46850,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18212,7 +18217,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -18372,7 +18377,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "JUSTCOUNTER",
@@ -18388,7 +18393,7 @@
       "Name": "Leapfrogger",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3279
+      "UsersEstimate": 3280
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -18484,7 +18489,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3279
+      "UsersEstimate": 3280
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -18500,7 +18505,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "PARKOUR_TIME",
@@ -18508,7 +18513,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3279
+      "UsersEstimate": 3280
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -18532,7 +18537,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5153
+      "UsersEstimate": 5154
     },
     {
       "ID": "SPRING_ALL",
@@ -18548,7 +18553,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3279
+      "UsersEstimate": 3280
     },
     {
       "ID": "STAYING_AIR",
@@ -18619,22 +18624,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46849,
+      "Progressed": 46850,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11686,
-      "Completed": 11686
+      "Progressed": 11687,
+      "Completed": 11687
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-08T14:02:52.9019141+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:05:04.5301911+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:05:47.9600648+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-09T06:02:56.3010309+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:05:04.5303336+00:00"
+  "LastUpdate_Ratings": "2024-01-09T07:03:26.6342586+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:05:47.9601985+00:00"
 }

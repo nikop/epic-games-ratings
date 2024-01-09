@@ -4,8 +4,8 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 452,
+  "EOS_Progressed": 453,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -1769,6 +1769,11 @@
       "Time": "2024-01-09T06:03:53.3066755+00:00",
       "NumProgressed": 452,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T07:04:30.0498623+00:00",
+      "NumProgressed": 453,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1853,7 +1858,7 @@
       "Name": "Hunger",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "AC_BOSS_01",
@@ -1883,9 +1888,9 @@
       "ID": "AC_BOSS_04",
       "SetID": "16i2akc",
       "Name": "Heresy",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 41
     },
     {
       "ID": "AC_COMBO_1",
@@ -1893,7 +1898,7 @@
       "Name": "Pack",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "AC_COMBO_2",
@@ -1981,7 +1986,7 @@
       "Name": "Journey",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -2011,9 +2016,9 @@
       "ID": "AC_FLASHBACK_02",
       "SetID": "16i2akc",
       "Name": "Demise",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 50
     },
     {
       "ID": "AC_FLASHBACK_03",
@@ -2116,14 +2121,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 452,
+      "Progressed": 453,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:03:53.3066751+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:04:30.0498616+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:58:58.6715842+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:03:53.3067035+00:00"
+  "LastUpdate_Ratings": "2024-01-09T06:59:37.7609281+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:04:30.0499028+00:00"
 }

@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 79553,
+  "EOS_Progressed": 79554,
   "EOS_Completed": 431,
-  "EOS_NewPlayers": 771,
+  "EOS_NewPlayers": 772,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -29479,6 +29479,11 @@
       "Time": "2024-01-09T06:09:26.7298168+00:00",
       "NumProgressed": 79553,
       "NumCompleted": 431
+    },
+    {
+      "Time": "2024-01-09T07:10:17.0533627+00:00",
+      "NumProgressed": 79554,
+      "NumCompleted": 431
     }
   ],
   "TotalAchievements": 24,
@@ -29546,7 +29551,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 23070
+      "UsersEstimate": 23071
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -29570,7 +29575,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 42163
+      "UsersEstimate": 42164
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -29658,7 +29663,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12728
+      "UsersEstimate": 12729
     },
     {
       "ID": "WEIGHTLESS",
@@ -29674,14 +29679,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 12728
+      "UsersEstimate": 12729
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 79553,
+      "Progressed": 79554,
       "Completed": 431
     }
   ],
@@ -29689,8 +29694,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:09:26.7298164+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:10:17.0533623+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:00.3957366+00:00",
-  "LastUpdate_Ratings": "2024-01-09T06:00:13.8200078+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:09:26.7299723+00:00"
+  "LastUpdate_Ratings": "2024-01-09T07:01:02.1422344+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:10:17.0535213+00:00"
 }

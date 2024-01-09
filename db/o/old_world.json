@@ -2232,9 +2232,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16274,
+  "EOS_Progressed": 16276,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19352,6 +19352,11 @@
       "Time": "2024-01-09T06:09:59.4004927+00:00",
       "NumProgressed": 16274,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-09T07:10:52.7189669+00:00",
+      "NumProgressed": 16276,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19795,7 +19800,7 @@
       "Name": "Explorer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -19851,7 +19856,7 @@
       "Name": "Intrepid",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -19987,7 +19992,7 @@
       "Name": "Settler",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -20275,7 +20280,7 @@
       "Name": "Friendly Family",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -21115,7 +21120,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -22226,21 +22231,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16274,
+      "Progressed": 16276,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16274,
+      "Progressed": 16276,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-09T05:02:49.0806012+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:09:59.4004922+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:10:52.7189665+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-09T06:00:25.3286178+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:09:59.4015247+00:00"
+  "LastUpdate_Ratings": "2024-01-09T07:03:05.1802195+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:10:52.7200082+00:00"
 }

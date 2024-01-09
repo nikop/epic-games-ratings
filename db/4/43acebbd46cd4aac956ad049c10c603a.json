@@ -313,9 +313,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 1333,
+  "EOS_Progressed": 1334,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3823,6 +3823,11 @@
       "Time": "2024-01-09T02:32:48.9365563+00:00",
       "NumProgressed": 1333,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-09T07:08:37.0360728+00:00",
+      "NumProgressed": 1334,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3875,7 +3880,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "BreakTheLoop",
@@ -3905,9 +3910,9 @@
       "ID": "Chicken",
       "SetID": "1n308hc",
       "Name": "Chicken",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 13
     },
     {
       "ID": "CircularOasis",
@@ -3969,9 +3974,9 @@
       "ID": "GnothiSeauton",
       "SetID": "1n308hc",
       "Name": "Gnothi Seauton",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 107
+      "UsersEstimate": 93
     },
     {
       "ID": "GoodCitizen",
@@ -4003,7 +4008,7 @@
       "Name": "Into the Machine",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "JustOneLap",
@@ -4019,7 +4024,7 @@
       "Name": "Lord of the Files",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "LostMarshes",
@@ -4057,9 +4062,9 @@
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 334
     },
     {
       "ID": "NewBeginning",
@@ -4153,9 +4158,9 @@
       "ID": "SingleRod",
       "SetID": "1n308hc",
       "Name": "Single Rod",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "Sinner",
@@ -4243,7 +4248,7 @@
       "Name": "The Word Endures",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "TouchGrass",
@@ -4251,7 +4256,7 @@
       "Name": "Touch Grass",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "TrevorsBiographer",
@@ -4306,7 +4311,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1333,
+      "Progressed": 1334,
       "Completed": 2
     }
   ],
@@ -4314,8 +4319,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-08T17:59:02.5867071+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:06:25.7095532+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:08:37.0360722+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:58:24.4182395+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:06:25.7096102+00:00"
+  "LastUpdate_Ratings": "2024-01-09T06:58:59.1111149+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:08:37.0361648+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "recollection-71f3a4",
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 476,
+  "Ranking_EOS_NewPlayers": 457,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131,
+  "EOS_Progressed": 132,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.11,
+  "EOS_Completed_Percentage": 6.06,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -709,6 +709,11 @@
       "Time": "2024-01-07T21:04:14.6257623+00:00",
       "NumProgressed": 131,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-09T07:04:55.4551812+00:00",
+      "NumProgressed": 132,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 26,
@@ -718,9 +723,9 @@
       "ID": "Bird",
       "SetID": "6j29jep",
       "Name": "Something free...",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "Bird_Fragile",
@@ -728,7 +733,7 @@
       "Name": "Something free... (fragile)",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Bonus",
@@ -760,15 +765,15 @@
       "Name": "Something gentle... (fragile)",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Cloud",
       "SetID": "6j29jep",
       "Name": "Something ever-changing...",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "Cloud_Fragile",
@@ -776,7 +781,7 @@
       "Name": "Something ever-changing... (fragile)",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Flower",
@@ -792,7 +797,7 @@
       "Name": "Something fully in bloom... (fragile)",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Fragile_Mode",
@@ -800,15 +805,15 @@
       "Name": "Something fragile...",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Grass",
       "SetID": "6j29jep",
       "Name": "Something foundational...",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "Grass_Fragile",
@@ -816,7 +821,7 @@
       "Name": "Something foundational... (fragile)",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Home",
@@ -832,7 +837,7 @@
       "Name": "Somewhere to belong... (fragile)",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Moon",
@@ -854,9 +859,9 @@
       "ID": "Mountain",
       "SetID": "6j29jep",
       "Name": "Something monumental...",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "Mountain_Fragile",
@@ -864,7 +869,7 @@
       "Name": "Something monumental... (fragile)",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Natural_Mode",
@@ -878,9 +883,9 @@
       "ID": "Star",
       "SetID": "6j29jep",
       "Name": "Something to long for...",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "Star_Fragile",
@@ -888,7 +893,7 @@
       "Name": "Something to long for... (fragile)",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Tree",
@@ -904,7 +909,7 @@
       "Name": "Something firmly rooted... (fragile)",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Water",
@@ -920,21 +925,21 @@
       "Name": "Something reflective... (fragile)",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "6j29jep",
       "IsBase": true,
-      "Progressed": 131,
+      "Progressed": 132,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:04:16.6855656+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:04:55.4551805+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.7634914+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:59:08.3639846+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:04:16.6855812+00:00"
+  "LastUpdate_Ratings": "2024-01-09T06:59:49.1412119+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:04:55.4552046+00:00"
 }

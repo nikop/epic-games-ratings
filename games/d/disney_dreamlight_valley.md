@@ -23,7 +23,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Chit Chatter | 3.00% | ~419 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 13,969 (Ranked 175)  
-Completed: 344 (2.46%) (Ranked 127)  
+Completed: 344 (2.46%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -240,7 +240,7 @@ Completed: 344 (2.46%) (Ranked 127)
 | 2024-01-09 | 13,969 | 344 |
 ## Awards
 Max (Great for Beginners): 1,178  (Ranked 149)  
-Sum: 8,377 (Ranked 108)  
+Sum: 8,378 (Ranked 108)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
@@ -253,7 +253,7 @@ Diff (max vs sum): 41
 | This game is Extremely Fun | 792 |
 | This game has Quickly Understood Controls | 779 |
 | This game has a Creative Community | 732 |
-| This game has Easy Combat | 553 |
+| This game has Easy Combat | 554 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -558,3 +558,4 @@ Diff (max vs sum): 41
 | 2024-01-06 | 4.76 | - | 1,173 | 8,362 |
 | 2024-01-07 | 4.76 | - | 1,175 | 8,370 |
 | 2024-01-08 | 4.76 | - | 1,178 | 8,377 |
+| 2024-01-09 | 4.76 | - | 1,178 | 8,378 |

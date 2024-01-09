@@ -2,9 +2,9 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 766,
+  "Ranking_Rating": 778,
   "Ranking_Popularity": 444,
-  "Ranking_PopularitySum": 366,
+  "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 171,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.4,
+  "Rating": 4.39,
   "RatingHistory": [
     {
       "Time": "2023-02-05T15:57:56.0114161+00:00",
@@ -1391,10 +1391,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 375,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-01-09T06:58:18.3655503+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 376,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 375,
+  "NumberOfAwards": 376,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1414,7 +1420,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1459,9 +1465,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260446,
+  "EOS_Progressed": 260447,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26714,6 +26720,11 @@
       "Time": "2024-01-09T06:05:09.3959677+00:00",
       "NumProgressed": 260446,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T07:05:53.5071243+00:00",
+      "NumProgressed": 260447,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -26773,7 +26784,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80738
+      "UsersEstimate": 80739
     },
     {
       "ID": "BackHomeNTimes",
@@ -27172,16 +27183,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260446,
+      "Progressed": 260447,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2024-01-08T01:46:00.7585817+00:00",
-  "LastChanged_Achievements": "2024-01-09T06:05:09.3959673+00:00",
+  "LastChanged": "2024-01-09T06:58:18.3655501+00:00",
+  "LastChanged_Achievements": "2024-01-09T07:05:53.5071234+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:32.9058213+00:00",
-  "LastUpdate_Ratings": "2024-01-09T05:57:48.7251026+00:00",
-  "LastUpdate_Achievements": "2024-01-09T06:05:09.3961097+00:00"
+  "LastUpdate_Ratings": "2024-01-09T06:58:18.365551+00:00",
+  "LastUpdate_Achievements": "2024-01-09T07:05:53.5072754+00:00"
 }
