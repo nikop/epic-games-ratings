@@ -11,30 +11,30 @@ Number of Ratings: 19,160  (23.09.2022)
 | First Victory | 50.00% | ~239,532 |
 | He's Sold! | 48.00% | ~229,951 |
 | I'm The Boss! | 42.00% | ~201,207 |
-| Hat-trick | 41.00% | ~196,416 |
-| Scoring Streak | 38.00% | ~182,044 |
+| Hat-trick | 41.00% | ~196,417 |
+| Scoring Streak | 38.00% | ~182,045 |
 | Unbeatable! | 37.00% | ~177,254 |
 | Thumping | 37.00% | ~177,254 |
-| Superb Dressing Room Atmosphere | 35.00% | ~167,672 |
-| Total Support | 32.00% | ~153,300 |
-| Record Signing | 32.00% | ~153,300 |
+| Superb Dressing Room Atmosphere | 35.00% | ~167,673 |
+| Total Support | 32.00% | ~153,301 |
+| Record Signing | 32.00% | ~153,301 |
 | He's a Natural | 31.00% | ~148,510 |
 | Millionaire's Club | 31.00% | ~148,510 |
-| Team Performance | 30.00% | ~143,719 |
+| Team Performance | 30.00% | ~143,720 |
 | Parked The Bus | 29.00% | ~138,929 |
 | Shrewd Spender | 29.00% | ~138,929 |
 | Star Man | 29.00% | ~138,929 |
 | Attack! | 28.00% | ~134,138 |
-| You're On Fire | 27.00% | ~129,347 |
-| Tremendous Trio | 27.00% | ~129,347 |
-| Record Sale | 27.00% | ~129,347 |
+| You're On Fire | 27.00% | ~129,348 |
+| Tremendous Trio | 27.00% | ~129,348 |
+| Record Sale | 27.00% | ~129,348 |
 | On A Roll | 26.00% | ~124,557 |
 | Unstoppable Force | 26.00% | ~124,557 |
 | Armchair Expert | 25.00% | ~119,766 |
-| Fantastic Five | 24.00% | ~114,975 |
-| Full Faith | 24.00% | ~114,975 |
-| Iron Curtain | 24.00% | ~114,975 |
-| The Boss | 24.00% | ~114,975 |
+| Fantastic Five | 24.00% | ~114,976 |
+| Full Faith | 24.00% | ~114,976 |
+| Iron Curtain | 24.00% | ~114,976 |
+| The Boss | 24.00% | ~114,976 |
 | Top Of The Class | 23.00% | ~110,185 |
 | Goal Machine | 23.00% | ~110,185 |
 | Splashing The Cash | 22.00% | ~105,394 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~479 |
 | Shoestring Budget | 0.10% | ~479 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479,064 (Ranked 44)  
+Progressed: 479,065 (Ranked 44)  
 Completed: 22 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,7 +369,7 @@ Completed: 22 (0.00%) (Ranked 394)
 | 2024-01-06 | 478,961 | 22 |
 | 2024-01-07 | 479,004 | 22 |
 | 2024-01-08 | 479,050 | 22 |
-| 2024-01-09 | 479,064 | 22 |
+| 2024-01-09 | 479,065 | 22 |
 ## Awards
 Max (Relaxing): 6,495  (Ranked 62)  
 Sum: 51,244 (Ranked 30)  

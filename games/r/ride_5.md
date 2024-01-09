@@ -5,33 +5,33 @@ Rating: 4.50 (Ranked 612)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 49.00% | ~1,707 |
-| First Love | 45.00% | ~1,567 |
-| Clean Race | 44.00% | ~1,533 |
-| Hear That Roar! | 42.00% | ~1,463 |
-| Bitter Rivalry | 31.00% | ~1,080 |
-| Rivals to the End | 31.00% | ~1,080 |
-| Champagne Spray | 29.00% | ~1,010 |
-| We're Going to Need a Bigger Garage | 27.00% | ~940 |
-| Quick Pit Stop | 22.00% | ~766 |
-| I Want One Too! | 21.00% | ~731 |
+| Eat My Dust | 49.00% | ~1,708 |
+| First Love | 45.00% | ~1,569 |
+| Clean Race | 44.00% | ~1,534 |
+| Hear That Roar! | 42.00% | ~1,464 |
+| Bitter Rivalry | 31.00% | ~1,081 |
+| Rivals to the End | 31.00% | ~1,081 |
+| Champagne Spray | 29.00% | ~1,011 |
+| We're Going to Need a Bigger Garage | 27.00% | ~941 |
+| Quick Pit Stop | 22.00% | ~767 |
+| I Want One Too! | 21.00% | ~732 |
 | Restored and Ready | 20.00% | ~697 |
 | Legendary!!! | 20.00% | ~697 |
-| Go-Faster Stripes | 17.00% | ~592 |
+| Go-Faster Stripes | 17.00% | ~593 |
 | I'm Here Too! | 14.00% | ~488 |
 | We've Just Begun | 14.00% | ~488 |
-| Is It the Right Size? | 9.00% | ~313 |
+| Is It the Right Size? | 9.00% | ~314 |
 | Stamina Star | 8.00% | ~279 |
 | Evangelist | 7.00% | ~244 |
 | Make It Your Own! | 5.00% | ~174 |
 | Cherry Blossom and Temples | 4.00% | ~139 |
 | The Road to Liberty | 4.00% | ~139 |
 | Romantic Races | 4.00% | ~139 |
-| Spoilt for Choice | 3.00% | ~104 |
-| La Dolce Vita | 3.00% | ~104 |
-| I Make the Rules! | 3.00% | ~104 |
-| Rounding Off | 3.00% | ~104 |
-| My Work Here Is Done | 3.00% | ~104 |
+| Spoilt for Choice | 3.00% | ~105 |
+| La Dolce Vita | 3.00% | ~105 |
+| I Make the Rules! | 3.00% | ~105 |
+| Rounding Off | 3.00% | ~105 |
+| My Work Here Is Done | 3.00% | ~105 |
 | Iconic! | 2.00% | ~70 |
 | I'll Be the Best! | 2.00% | ~70 |
 | Back in Blighty | 2.00% | ~70 |
@@ -55,7 +55,7 @@ Rating: 4.50 (Ranked 612)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,483 (Ranked 223)  
+Progressed: 3,486 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 3,370 | 0 |
 | 2024-01-07 | 3,427 | 0 |
 | 2024-01-08 | 3,463 | 0 |
-| 2024-01-09 | 3,483 | 0 |
+| 2024-01-09 | 3,486 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

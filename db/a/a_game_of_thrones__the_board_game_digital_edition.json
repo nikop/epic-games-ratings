@@ -2,7 +2,7 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 954,
+  "Ranking_Rating": 953,
   "Ranking_Popularity": 351,
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 139,
@@ -1392,9 +1392,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 32981,
+  "EOS_Progressed": 32986,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 739,
+  "EOS_NewPlayers": 738,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -29852,6 +29852,11 @@
       "Time": "2024-01-09T17:10:33.8675149+00:00",
       "NumProgressed": 32981,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2024-01-09T18:10:31.7287701+00:00",
+      "NumProgressed": 32986,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 22,
@@ -29927,7 +29932,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "1024",
@@ -29935,7 +29940,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "1025",
@@ -29959,7 +29964,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2968
+      "UsersEstimate": 2969
     },
     {
       "ID": "1028",
@@ -29975,7 +29980,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "1030",
@@ -29983,7 +29988,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6266
+      "UsersEstimate": 6267
     },
     {
       "ID": "1031",
@@ -29999,7 +30004,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13192
+      "UsersEstimate": 13194
     },
     {
       "ID": "1033",
@@ -30038,15 +30043,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 32981,
+      "Progressed": 32986,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-05T16:59:15.5205633+00:00",
-  "LastChanged_Achievements": "2024-01-09T17:10:33.8675146+00:00",
+  "LastChanged_Achievements": "2024-01-09T18:10:31.7287698+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:53.1129394+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:02:54.949954+00:00",
-  "LastUpdate_Achievements": "2024-01-09T17:10:33.8676705+00:00"
+  "LastUpdate_Ratings": "2024-01-09T18:02:45.537674+00:00",
+  "LastUpdate_Achievements": "2024-01-09T18:10:31.7289598+00:00"
 }

@@ -2,8 +2,8 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 236,
-  "Ranking_Popularity": 54,
+  "Ranking_Rating": 235,
+  "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 394,
@@ -14137,11 +14137,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 64096,
       "NumberOfAwardsMax": 7765
+    },
+    {
+      "Time": "2024-01-09T17:57:00.3932293+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 64119,
+      "NumberOfAwardsMax": 7780
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 64096,
-  "NumberOfAwardsMax": 7765,
+  "NumberOfAwards": 64119,
+  "NumberOfAwardsMax": 7780,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -14172,7 +14178,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 7765
+      "Count": 7780
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -14202,7 +14208,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 5989
+      "Count": 5997
     },
     {
       "Text": "This game has Unique Visuals",
@@ -14211,9 +14217,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 495666,
+  "EOS_Progressed": 495712,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5242,
+  "EOS_NewPlayers": 5251,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44691,6 +44697,11 @@
       "Time": "2024-01-09T17:10:59.7544934+00:00",
       "NumProgressed": 495666,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T18:10:58.6324489+00:00",
+      "NumProgressed": 495712,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -45702,7 +45713,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2478
+      "UsersEstimate": 2479
     },
     {
       "ID": "achievement_grand_coalition",
@@ -46982,7 +46993,7 @@
       "Name": "That is mine!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2478
+      "UsersEstimate": 2479
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -47398,7 +47409,7 @@
       "Name": "Victorious!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2478
+      "UsersEstimate": 2479
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -47605,21 +47616,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 495666,
+      "Progressed": 495712,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 495666,
+      "Progressed": 495712,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-09T16:02:15.7723782+00:00",
-  "LastChanged_Achievements": "2024-01-09T17:10:59.7544932+00:00",
+  "LastChanged": "2024-01-09T17:57:00.3932292+00:00",
+  "LastChanged_Achievements": "2024-01-09T18:10:58.6324485+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.850256+00:00",
-  "LastUpdate_Ratings": "2024-01-09T16:02:15.7723789+00:00",
-  "LastUpdate_Achievements": "2024-01-09T17:10:59.7555956+00:00"
+  "LastUpdate_Ratings": "2024-01-09T17:57:00.3932298+00:00",
+  "LastUpdate_Achievements": "2024-01-09T18:10:58.6335612+00:00"
 }

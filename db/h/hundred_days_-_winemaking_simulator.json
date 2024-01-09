@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 228,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -1117,9 +1117,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 19911,
+  "EOS_Progressed": 19914,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1084,
+  "EOS_NewPlayers": 1077,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -16697,6 +16697,11 @@
       "Time": "2024-01-09T17:10:22.8162125+00:00",
       "NumProgressed": 19911,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-09T18:10:20.2460398+00:00",
+      "NumProgressed": 19914,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -16757,7 +16762,7 @@
       "Name": "Bye Bye",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 8562
+      "UsersEstimate": 8563
     },
     {
       "ID": "a_19",
@@ -16797,7 +16802,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "a_23",
@@ -16956,7 +16961,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 19911,
+      "Progressed": 19914,
       "Completed": 13
     }
   ],
@@ -16964,8 +16969,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-06T23:58:14.6842319+00:00",
-  "LastChanged_Achievements": "2024-01-09T17:10:22.8162122+00:00",
+  "LastChanged_Achievements": "2024-01-09T18:10:20.2460395+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:04.08822+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:00:26.604056+00:00",
-  "LastUpdate_Achievements": "2024-01-09T17:10:22.8163092+00:00"
+  "LastUpdate_Ratings": "2024-01-09T18:00:19.7588065+00:00",
+  "LastUpdate_Achievements": "2024-01-09T18:10:20.2461236+00:00"
 }

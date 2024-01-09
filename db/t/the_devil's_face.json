@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 373,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 641,
+  "EOS_Progressed": 642,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
@@ -2824,6 +2824,11 @@
       "Time": "2024-01-09T16:07:43.7741413+00:00",
       "NumProgressed": 641,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-09T18:07:24.5264098+00:00",
+      "NumProgressed": 642,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2835,7 +2840,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2843,7 +2848,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2859,7 +2864,7 @@
       "Name": "The choice",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -2946,14 +2951,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 641,
+      "Progressed": 642,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2024-01-09T17:07:36.0146485+00:00",
+  "LastChanged_Achievements": "2024-01-09T18:07:24.5264095+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.0957409+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:01:28.1357298+00:00",
-  "LastUpdate_Achievements": "2024-01-09T17:07:36.014688+00:00"
+  "LastUpdate_Ratings": "2024-01-09T18:01:26.7154743+00:00",
+  "LastUpdate_Achievements": "2024-01-09T18:07:24.5264321+00:00"
 }

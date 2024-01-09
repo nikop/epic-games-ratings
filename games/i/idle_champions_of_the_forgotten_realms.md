@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,119 |
-| The Cursed Farmer | 2.00% | ~5,059 |
+| The Cursed Farmer | 2.00% | ~5,060 |
 | Beast Intentions | 1.00% | ~2,530 |
 | The Mad Wizard | 1.00% | ~2,530 |
 | The Ring of Regeneration | 0.90% | ~2,277 |
@@ -18,7 +18,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.60% | ~1,518 |
 | Mad Cow Disease | 0.60% | ~1,518 |
 | Pure Energy | 0.60% | ~1,518 |
-| Fast Food | 0.60% | ~1,315 |
+| Fast Food | 0.60% | ~1,316 |
 | A Persistent Buzzing | 0.50% | ~1,265 |
 | Terror in the Dark | 0.50% | ~1,265 |
 | The Overgrown Grove | 0.50% | ~1,096 |
@@ -51,6 +51,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Homecoming | 0.20% | ~506 |
 | Street War | 0.20% | ~506 |
 | March of the Undead | 0.20% | ~506 |
+| Wisdom Check | 0.20% | ~506 |
 | Invisible Shadows | 0.20% | ~506 |
 | The Dinner Party | 0.20% | ~506 |
 | The Botched Kidnapping | 0.20% | ~506 |
@@ -62,12 +63,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flying Monkey Skulls of Doom | 0.20% | ~506 |
 | Close Escort | 0.20% | ~506 |
 | Constant Banditry | 0.20% | ~506 |
+| Lost in the Deep | 0.20% | ~506 |
 | Easily Distracted | 0.20% | ~506 |
 | Overdue Rendezvous | 0.20% | ~506 |
 | The Templar's Camp | 0.20% | ~506 |
 | Rescue in the Jungle | 0.20% | ~506 |
-| The Beginning is the End | 0.20% | ~438 |
-| The Brains of an Illithid's Desire | 0.20% | ~438 |
+| The Beginning is the End | 0.20% | ~439 |
+| The Brains of an Illithid's Desire | 0.20% | ~439 |
 | Pros and CONs | 0.10% | ~253 |
 | Upholding the Law | 0.10% | ~253 |
 | Starving in the Jungle | 0.10% | ~253 |
@@ -208,7 +210,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underground Railroad | 0.10% | ~253 |
 | Force Grey Unleashed | 0.10% | ~253 |
 | Vajra's Guards | 0.10% | ~253 |
-| Wisdom Check | 0.10% | ~253 |
 | Sleuth It Out | 0.10% | ~253 |
 | The Newcomers of Notoriety | 0.10% | ~219 |
 | A Grand Puzzle | 0.10% | ~253 |
@@ -425,7 +426,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mirage Arcane | 0.10% | ~219 |
 | Only Human | 0.10% | ~219 |
 | The Long Haul | 0.10% | ~253 |
-| Lost in the Deep | 0.10% | ~253 |
 | Rude Welcome | 0.10% | ~253 |
 | Moose Tracks | 0.10% | ~219 |
 | An Awakened Axe | 0.10% | ~219 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,966 (Ranked 70)  
+Progressed: 252,979 (Ranked 70)  
 Completed: 2,605 (1.03%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -817,7 +817,7 @@ Completed: 2,605 (1.03%) (Ranked 174)
 | 2024-01-06 | 252,125 | 2,599 |
 | 2024-01-07 | 252,516 | 2,599 |
 | 2024-01-08 | 252,794 | 2,602 |
-| 2024-01-09 | 252,966 | 2,605 |
+| 2024-01-09 | 252,979 | 2,605 |
 ## Awards
 Max (Great for Beginners): 5,768  (Ranked 74)  
 Sum: 33,417 (Ranked 41)  

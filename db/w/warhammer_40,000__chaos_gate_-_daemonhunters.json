@@ -2,7 +2,7 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 474,
+  "Ranking_Rating": 473,
   "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 217,
@@ -837,9 +837,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3856,
+  "EOS_Progressed": 3858,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5822,6 +5822,11 @@
       "Time": "2024-01-09T16:06:03.8652679+00:00",
       "NumProgressed": 3856,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T18:05:43.2606637+00:00",
+      "NumProgressed": 3858,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5849,7 +5854,7 @@
       "Name": "Look Over There!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "BloodAndIron",
@@ -6025,7 +6030,7 @@
       "Name": "Executioner",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "Kills_Exterminator",
@@ -6057,7 +6062,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "Kills_Streak",
@@ -6376,21 +6381,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3856,
+      "Progressed": 3858,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3856,
+      "Progressed": 3858,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-07T22:03:18.1525827+00:00",
-  "LastChanged_Achievements": "2024-01-09T17:06:00.70954+00:00",
+  "LastChanged_Achievements": "2024-01-09T18:05:43.2606635+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:54.2702622+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:03:52.6126386+00:00",
-  "LastUpdate_Achievements": "2024-01-09T17:06:00.7096329+00:00"
+  "LastUpdate_Ratings": "2024-01-09T18:03:25.9431522+00:00",
+  "LastUpdate_Achievements": "2024-01-09T18:05:43.2607611+00:00"
 }

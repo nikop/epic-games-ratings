@@ -3,8 +3,8 @@
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 298,
-  "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,7 +20,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 934,
+  "EOS_Progressed": 935,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
@@ -3350,6 +3350,11 @@
       "Time": "2024-01-09T17:04:33.2815762+00:00",
       "NumProgressed": 934,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-09T18:04:10.416741+00:00",
+      "NumProgressed": 935,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -3362,7 +3367,7 @@
       "Name": "The Ultimate Prize",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "achievement_10",
@@ -3370,7 +3375,7 @@
       "Name": "Holey Moley",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "achievement_11",
@@ -3426,7 +3431,7 @@
       "Name": "Clean Sheet",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "achievement_18",
@@ -3482,7 +3487,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "achievement_8",
@@ -3498,20 +3503,20 @@
       "Name": "Ace in the Hole",
       "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 934,
+      "Progressed": 935,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-09T17:04:33.2815759+00:00",
+  "LastChanged_Achievements": "2024-01-09T18:04:10.4167407+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.2920939+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:02:56.4810797+00:00",
-  "LastUpdate_Achievements": "2024-01-09T17:04:33.2816037+00:00"
+  "LastUpdate_Ratings": "2024-01-09T18:02:47.3293791+00:00",
+  "LastUpdate_Achievements": "2024-01-09T18:04:10.4167657+00:00"
 }

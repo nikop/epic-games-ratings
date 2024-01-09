@@ -747,9 +747,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7117,
+  "EOS_Progressed": 7121,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10877,6 +10877,11 @@
       "Time": "2024-01-09T17:07:15.3071962+00:00",
       "NumProgressed": 7117,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-09T18:07:02.5238588+00:00",
+      "NumProgressed": 7121,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10928,7 +10933,7 @@
       "Name": "Full Ascension",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "15",
@@ -11008,7 +11013,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "24",
@@ -11016,7 +11021,7 @@
       "Name": "Secret Technique",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "25",
@@ -11024,7 +11029,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "26",
@@ -11048,7 +11053,7 @@
       "Name": "From Friends to Family",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "29",
@@ -11367,13 +11372,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7117,
+      "Progressed": 7121,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7117,
+      "Progressed": 7121,
       "Completed": 7
     }
   ],
@@ -11381,8 +11386,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-09T16:57:46.579132+00:00",
-  "LastChanged_Achievements": "2024-01-09T17:07:15.3071959+00:00",
+  "LastChanged_Achievements": "2024-01-09T18:07:02.5238584+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-09T16:57:46.5791326+00:00",
-  "LastUpdate_Achievements": "2024-01-09T17:07:15.3072995+00:00"
+  "LastUpdate_Ratings": "2024-01-09T17:57:32.9818125+00:00",
+  "LastUpdate_Achievements": "2024-01-09T18:07:02.5239703+00:00"
 }

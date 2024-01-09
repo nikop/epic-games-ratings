@@ -1,14 +1,14 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.59 (Ranked 452)  
+Rating: 4.59 (Ranked 451)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 36.00% | ~89,062 |
-| Alt+F4 | 10.00% | ~24,740 |
-| Where's that freaking Dwarf? | 9.00% | ~22,266 |
+| Sowwy! | 37.00% | ~91,540 |
+| Alt+F4 | 10.00% | ~24,741 |
+| Where's that freaking Dwarf? | 9.00% | ~22,267 |
 | Déjà vu | 8.00% | ~19,792 |
 | Sock! SOCK! | 6.00% | ~14,844 |
 | Speedrun | 6.00% | ~14,844 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~247 |
 | Dwarf Candy | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,395 (Ranked 72)  
+Progressed: 247,406 (Ranked 72)  
 Completed: 8 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,14 +318,14 @@ Completed: 8 (0.00%) (Ranked 394)
 | 2024-01-06 | 246,932 | 8 |
 | 2024-01-07 | 247,153 | 8 |
 | 2024-01-08 | 247,298 | 8 |
-| 2024-01-09 | 247,395 | 8 |
+| 2024-01-09 | 247,406 | 8 |
 ## Awards
-Max (Character Customization): 267  (Ranked 276)  
-Sum: 561 (Ranked 330)  
+Max (Character Customization): 268  (Ranked 276)  
+Sum: 562 (Ranked 330)  
 Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 267 |
+| This game has Inclusive Character Customization | 268 |
 | This game is Relaxing | 40 |
 | This game is Great for Beginners | 37 |
 | This game is Highly Recommended | 36 |
@@ -551,3 +551,4 @@ Diff (max vs sum): -54
 | 2024-01-05 | 4.59 | - | 264 | 556 |
 | 2024-01-06 | 4.59 | - | 266 | 560 |
 | 2024-01-07 | 4.59 | - | 267 | 561 |
+| 2024-01-09 | 4.59 | - | 268 | 562 |

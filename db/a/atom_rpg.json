@@ -415,7 +415,7 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1690,
+  "EOS_Progressed": 1691,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
@@ -4460,6 +4460,11 @@
       "Time": "2024-01-09T17:10:47.4058167+00:00",
       "NumProgressed": 1690,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T18:10:45.6449585+00:00",
+      "NumProgressed": 1691,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4527,7 +4532,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "EXPERT_1",
@@ -4543,7 +4548,7 @@
       "Name": "Explorer",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "GHOSTBUSTER",
@@ -4567,7 +4572,7 @@
       "Name": "Head Burst",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "INDY_1",
@@ -4631,7 +4636,7 @@
       "Name": "One shot, one kill",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "PACIFIST",
@@ -4733,9 +4738,9 @@
       "ID": "VVE",
       "SetID": "bf13m8j",
       "Name": "The Vitinsky Rifle",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 85
     },
     {
       "ID": "WANDERER_1",
@@ -4758,15 +4763,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1690,
+      "Progressed": 1691,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-07T01:53:39.5717953+00:00",
-  "LastChanged_Achievements": "2024-01-09T17:10:47.4058162+00:00",
+  "LastChanged_Achievements": "2024-01-09T18:10:45.6449583+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:01:22.4704279+00:00",
-  "LastUpdate_Achievements": "2024-01-09T17:10:47.4058532+00:00"
+  "LastUpdate_Ratings": "2024-01-09T18:01:20.8895416+00:00",
+  "LastUpdate_Achievements": "2024-01-09T18:10:45.6450009+00:00"
 }

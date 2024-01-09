@@ -291,9 +291,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 2400,
+  "EOS_Progressed": 2401,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5641,6 +5641,11 @@
       "Time": "2024-01-09T17:04:37.0036098+00:00",
       "NumProgressed": 2400,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T18:04:14.2223943+00:00",
+      "NumProgressed": 2401,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -5661,7 +5666,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2137
     },
     {
       "ID": "AC02",
@@ -5669,7 +5674,7 @@
       "Name": "Blood and Dust",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1536
+      "UsersEstimate": 1537
     },
     {
       "ID": "AC03",
@@ -5677,7 +5682,7 @@
       "Name": "Blood and Gold",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "AC04",
@@ -5685,7 +5690,7 @@
       "Name": "Blood and Iron",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 1392
+      "UsersEstimate": 1393
     },
     {
       "ID": "AC05",
@@ -5693,7 +5698,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "AC06",
@@ -5763,9 +5768,9 @@
       "ID": "AC14",
       "SetID": "l4abp0",
       "Name": "Acta, Non Verba",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 408
     },
     {
       "ID": "AC15",
@@ -5939,9 +5944,9 @@
       "ID": "AC36",
       "SetID": "l4abp0",
       "Name": "Blessed Incense",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 624
+      "UsersEstimate": 600
     },
     {
       "ID": "AC37",
@@ -5955,9 +5960,9 @@
       "ID": "AC38",
       "SetID": "l4abp0",
       "Name": "Edge of Orison",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 792
+      "UsersEstimate": 768
     },
     {
       "ID": "AC39",
@@ -5973,7 +5978,7 @@
       "Name": "Welcome Back!",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "AC41",
@@ -6020,7 +6025,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2400,
+      "Progressed": 2401,
       "Completed": 0
     }
   ],
@@ -6028,8 +6033,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-07T11:57:39.4406053+00:00",
-  "LastChanged_Achievements": "2024-01-09T17:04:37.0036094+00:00",
+  "LastChanged_Achievements": "2024-01-09T18:04:14.222394+00:00",
   "LastUpdate_AppInfo": "2024-01-03T03:57:04.3699674+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:00:04.6668265+00:00",
-  "LastUpdate_Achievements": "2024-01-09T17:04:37.0036692+00:00"
+  "LastUpdate_Ratings": "2024-01-09T17:59:56.60691+00:00",
+  "LastUpdate_Achievements": "2024-01-09T18:04:14.2224483+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 236,
+  "Ranking_Rating": 235,
   "Ranking_Popularity": 522,
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 287,
@@ -456,7 +456,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1103,
+  "EOS_Progressed": 1104,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
@@ -3846,6 +3846,11 @@
       "Time": "2024-01-09T17:09:48.0075084+00:00",
       "NumProgressed": 1103,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T18:09:43.924828+00:00",
+      "NumProgressed": 1104,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3864,9 +3869,9 @@
       "ID": "ArleonCampaign",
       "SetID": "71c0n9i",
       "Name": "The Song of Stoutheart",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 66
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -3882,7 +3887,7 @@
       "Name": "Dressed For Success",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "AttackCount",
@@ -4000,9 +4005,9 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 453
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4136,9 +4141,9 @@
       "ID": "SorcerousSpree",
       "SetID": "71c0n9i",
       "Name": "Sorcerous Spree",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 99
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -4186,7 +4191,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "WielderLevel2",
@@ -4289,15 +4294,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1103,
+      "Progressed": 1104,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-08T22:01:52.5110389+00:00",
-  "LastChanged_Achievements": "2024-01-09T17:09:48.0075077+00:00",
+  "LastChanged_Achievements": "2024-01-09T18:09:43.9248277+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-09T16:57:23.7712292+00:00",
-  "LastUpdate_Achievements": "2024-01-09T17:09:48.0075677+00:00"
+  "LastUpdate_Ratings": "2024-01-09T17:57:08.6216408+00:00",
+  "LastUpdate_Achievements": "2024-01-09T18:09:43.9248853+00:00"
 }

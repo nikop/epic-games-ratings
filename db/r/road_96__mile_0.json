@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 679,
+  "EOS_Progressed": 681,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -2462,6 +2462,11 @@
       "Time": "2024-01-09T07:10:36.8887434+00:00",
       "NumProgressed": 679,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T18:10:43.6920914+00:00",
+      "NumProgressed": 681,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2481,7 +2486,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 38,
       "XP": 80,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "completeact3",
@@ -2489,7 +2494,7 @@
       "Name": "On the Road",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "findalltapes",
@@ -2592,7 +2597,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 679,
+      "Progressed": 681,
       "Completed": 3
     }
   ],
@@ -2600,8 +2605,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-09T17:10:45.4942476+00:00",
+  "LastChanged_Achievements": "2024-01-09T18:10:43.6920911+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.1061642+00:00",
-  "LastUpdate_Ratings": "2024-01-09T16:59:43.1717014+00:00",
-  "LastUpdate_Achievements": "2024-01-09T17:10:45.4942657+00:00"
+  "LastUpdate_Ratings": "2024-01-09T17:59:34.3221084+00:00",
+  "LastUpdate_Achievements": "2024-01-09T18:10:43.6921183+00:00"
 }

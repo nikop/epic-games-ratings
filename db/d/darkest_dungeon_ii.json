@@ -10686,7 +10686,7 @@
       "Count": 1088
     }
   ],
-  "EOS_Progressed": 132282,
+  "EOS_Progressed": 132289,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 963,
   "EOS_NewCompleters": 0,
@@ -39086,6 +39086,11 @@
       "Time": "2024-01-09T17:10:31.6951662+00:00",
       "NumProgressed": 132282,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T18:10:29.4403916+00:00",
+      "NumProgressed": 132289,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -39129,7 +39134,7 @@
       "Name": "Resurrection",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -39137,7 +39142,7 @@
       "Name": "Unleash Hell",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -39145,7 +39150,7 @@
       "Name": "Funny Guy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -39153,7 +39158,7 @@
       "Name": "Long Live the King",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -39161,7 +39166,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -39169,7 +39174,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -39177,7 +39182,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -39217,7 +39222,7 @@
       "Name": "Predator",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -39233,7 +39238,7 @@
       "Name": "Dissector",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "combat_kill_cosmic",
@@ -39241,7 +39246,7 @@
       "Name": "Banishment",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "combat_kill_death",
@@ -39265,7 +39270,7 @@
       "Name": "Deprogramming",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "combat_kill_fisherfolk",
@@ -39281,7 +39286,7 @@
       "Name": "Now Stay Dead",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "combat_kill_gentry",
@@ -39329,7 +39334,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "combat_kill_shambler",
@@ -39385,7 +39390,7 @@
       "Name": "Spelunker",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5291
+      "UsersEstimate": 5292
     },
     {
       "ID": "driving_biome_clear_city",
@@ -39401,7 +39406,7 @@
       "Name": "Merry Time",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5291
+      "UsersEstimate": 5292
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -39409,7 +39414,7 @@
       "Name": "Harvest Festival",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5291
+      "UsersEstimate": 5292
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -39425,7 +39430,7 @@
       "Name": "Ramble On",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5291
+      "UsersEstimate": 5292
     },
     {
       "ID": "driving_distance_hard",
@@ -39465,7 +39470,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -39473,7 +39478,7 @@
       "Name": "Whale",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5291
+      "UsersEstimate": 5292
     },
     {
       "ID": "hospital_full_service",
@@ -39497,7 +39502,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -39529,7 +39534,7 @@
       "Name": "Utopia",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -39545,7 +39550,7 @@
       "Name": "Nope",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5291
+      "UsersEstimate": 5292
     },
     {
       "ID": "run_victory_act01",
@@ -39553,7 +39558,7 @@
       "Name": "Unshackled",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "run_victory_act02",
@@ -39609,7 +39614,7 @@
       "Name": "Road Trip",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -39633,7 +39638,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "combat_kill_collector",
@@ -39697,7 +39702,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -39728,21 +39733,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132282,
+      "Progressed": 132289,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7151,
+      "Progressed": 7158,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-09T16:59:33.573007+00:00",
-  "LastChanged_Achievements": "2024-01-09T17:10:31.6951661+00:00",
+  "LastChanged_Achievements": "2024-01-09T18:10:29.4403914+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-09T16:59:33.5730079+00:00",
-  "LastUpdate_Achievements": "2024-01-09T17:10:31.6953362+00:00"
+  "LastUpdate_Ratings": "2024-01-09T17:59:23.7760098+00:00",
+  "LastUpdate_Achievements": "2024-01-09T18:10:29.440558+00:00"
 }

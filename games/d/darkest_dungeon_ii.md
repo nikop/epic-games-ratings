@@ -6,8 +6,8 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~930 |
-| Lost and Found | 8.00% | ~572 |
+| Malpractice Assurance | 13.00% | ~931 |
+| Lost and Found | 8.00% | ~573 |
 | Autodidact | 7.00% | ~9,260 |
 | This guy... again? | 7.00% | ~501 |
 | This Belongs in a Museum | 6.00% | ~7,937 |
@@ -27,31 +27,31 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 5.00% | ~6,614 |
 | FNG | 5.00% | ~6,614 |
 | Bloody Graduation | 5.00% | ~358 |
-| Spelunker | 4.00% | ~5,291 |
-| Merry Time | 4.00% | ~5,291 |
-| Harvest Festival | 4.00% | ~5,291 |
-| Ramble On | 4.00% | ~5,291 |
-| Whale | 4.00% | ~5,291 |
-| Nope | 4.00% | ~5,291 |
+| Spelunker | 4.00% | ~5,292 |
+| Merry Time | 4.00% | ~5,292 |
+| Harvest Festival | 4.00% | ~5,292 |
+| Ramble On | 4.00% | ~5,292 |
+| Whale | 4.00% | ~5,292 |
+| Nope | 4.00% | ~5,292 |
 | Friends 'Til the End | 4.00% | ~286 |
-| Resurrection | 3.00% | ~3,968 |
-| Unleash Hell | 3.00% | ~3,968 |
-| Funny Guy | 3.00% | ~3,968 |
-| Long Live the King | 3.00% | ~3,968 |
-| Wyrdly Reconstructed | 3.00% | ~3,968 |
-| Boxcar Kid | 3.00% | ~3,968 |
-| Unfulfilled Desires | 3.00% | ~3,968 |
-| Predator | 3.00% | ~3,968 |
-| Dissector | 3.00% | ~3,968 |
-| Banishment | 3.00% | ~3,968 |
-| Deprogramming | 3.00% | ~3,968 |
-| Now Stay Dead | 3.00% | ~3,968 |
-| Reverse Banditry | 3.00% | ~3,968 |
-| A Clear Conscience | 3.00% | ~3,968 |
-| When You Want Something Done Right | 3.00% | ~3,968 |
-| Utopia | 3.00% | ~3,968 |
-| Unshackled | 3.00% | ~3,968 |
-| Road Trip | 3.00% | ~3,968 |
+| Resurrection | 3.00% | ~3,969 |
+| Unleash Hell | 3.00% | ~3,969 |
+| Funny Guy | 3.00% | ~3,969 |
+| Long Live the King | 3.00% | ~3,969 |
+| Wyrdly Reconstructed | 3.00% | ~3,969 |
+| Boxcar Kid | 3.00% | ~3,969 |
+| Unfulfilled Desires | 3.00% | ~3,969 |
+| Predator | 3.00% | ~3,969 |
+| Dissector | 3.00% | ~3,969 |
+| Banishment | 3.00% | ~3,969 |
+| Deprogramming | 3.00% | ~3,969 |
+| Now Stay Dead | 3.00% | ~3,969 |
+| Reverse Banditry | 3.00% | ~3,969 |
+| A Clear Conscience | 3.00% | ~3,969 |
+| When You Want Something Done Right | 3.00% | ~3,969 |
+| Utopia | 3.00% | ~3,969 |
+| Unshackled | 3.00% | ~3,969 |
+| Road Trip | 3.00% | ~3,969 |
 | This Looks Familiar | 2.00% | ~2,646 |
 | Hope Rekindled | 2.00% | ~2,646 |
 | Ichthyophobic | 2.00% | ~2,646 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,282 (Ranked 91)  
+Progressed: 132,289 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 3 (0.00%) (Ranked 394)
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
-| 2024-01-09 | 132,282 | 3 |
+| 2024-01-09 | 132,289 | 3 |
 ## Awards
 Max (Character Customization): 7,992  (Ranked 50)  
 Sum: 21,559 (Ranked 58)  

@@ -346,9 +346,9 @@
       "ID": "THE_BALANCED",
       "SetID": "58oggg1",
       "Name": "The Balanced",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "THE_DECIDER",
@@ -370,9 +370,9 @@
       "ID": "WORLD_CHANGER",
       "SetID": "58oggg1",
       "Name": "World Changer",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "WORLD_CHOOSING_CHAMPION",
@@ -400,8 +400,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-28T04:04:09.7511505+00:00",
-  "LastChanged_Achievements": "2024-01-09T17:06:11.2371587+00:00",
+  "LastChanged_Achievements": "2024-01-09T18:05:54.4270641+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.4558901+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:00:57.1380195+00:00",
-  "LastUpdate_Achievements": "2024-01-09T17:06:11.2371669+00:00"
+  "LastUpdate_Ratings": "2024-01-09T18:00:54.0300243+00:00",
+  "LastUpdate_Achievements": "2024-01-09T18:05:54.4270709+00:00"
 }

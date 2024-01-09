@@ -175,9 +175,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3381,
+  "EOS_Progressed": 3382,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -6255,6 +6255,11 @@
       "Time": "2024-01-09T17:06:17.700404+00:00",
       "NumProgressed": 3381,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-09T18:06:01.7505238+00:00",
+      "NumProgressed": 3382,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 53,
@@ -6290,7 +6295,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -6322,7 +6327,7 @@
       "Name": "No more holding back",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -6330,7 +6335,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3212
+      "UsersEstimate": 3213
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6346,7 +6351,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6370,7 +6375,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -6394,7 +6399,7 @@
       "Name": "Little light",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -6440,9 +6445,9 @@
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
       "SetID": "3pe2bac",
       "Name": "Pentakill",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2536
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6450,7 +6455,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3043
+      "UsersEstimate": 3044
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6498,7 +6503,7 @@
       "Name": "Clarion Cove",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -6522,7 +6527,7 @@
       "Name": "Glyndemere",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -6530,7 +6535,7 @@
       "Name": "Capelworth",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -6538,7 +6543,7 @@
       "Name": "Terbisia",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -6610,7 +6615,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -6626,7 +6631,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -6642,7 +6647,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2468
+      "UsersEstimate": 2469
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -6689,7 +6694,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3381,
+      "Progressed": 3382,
       "Completed": 22
     }
   ],
@@ -6697,8 +6702,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-07T21:57:30.4029584+00:00",
-  "LastChanged_Achievements": "2024-01-09T17:06:17.7004036+00:00",
+  "LastChanged_Achievements": "2024-01-09T18:06:01.7505234+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:19.7763351+00:00",
-  "LastUpdate_Ratings": "2024-01-09T16:58:57.2165489+00:00",
-  "LastUpdate_Achievements": "2024-01-09T17:06:17.7004635+00:00"
+  "LastUpdate_Ratings": "2024-01-09T17:58:47.3355473+00:00",
+  "LastUpdate_Achievements": "2024-01-09T18:06:01.7505954+00:00"
 }

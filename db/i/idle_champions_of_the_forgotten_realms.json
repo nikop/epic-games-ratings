@@ -9427,9 +9427,9 @@
       "Count": 3634
     }
   ],
-  "EOS_Progressed": 252966,
+  "EOS_Progressed": 252979,
   "EOS_Completed": 2605,
-  "EOS_NewPlayers": 3132,
+  "EOS_NewPlayers": 3102,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39372,6 +39372,11 @@
       "Time": "2024-01-09T17:11:04.4047726+00:00",
       "NumProgressed": 252966,
       "NumCompleted": 2605
+    },
+    {
+      "Time": "2024-01-09T18:11:03.9367825+00:00",
+      "NumProgressed": 252979,
+      "NumCompleted": 2605
     }
   ],
   "TotalAchievements": 546,
@@ -40621,9 +40626,9 @@
       "ID": "objective_completed_170",
       "SetID": "cc37lbc",
       "Name": "Wisdom Check",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_171",
@@ -41055,7 +41060,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5059
+      "UsersEstimate": 5060
     },
     {
       "ID": "objective_completed_34",
@@ -42565,9 +42570,9 @@
       "ID": "objective_completed_75",
       "SetID": "cc37lbc",
       "Name": "Lost in the Deep",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_76",
@@ -43607,7 +43612,7 @@
       "Name": "The Beginning is the End",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "objective_completed_1548",
@@ -43647,7 +43652,7 @@
       "Name": "The Brains of an Illithid\u0027s Desire",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "objective_completed_1347",
@@ -43687,7 +43692,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "objective_completed_1563",
@@ -43750,21 +43755,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219240,
+      "Progressed": 219253,
       "Completed": 4144
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 252966,
+      "Progressed": 252979,
       "Completed": 2605
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-09T15:58:29.6536775+00:00",
-  "LastChanged_Achievements": "2024-01-09T17:11:04.4047722+00:00",
+  "LastChanged_Achievements": "2024-01-09T18:11:03.9367822+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-09T16:58:22.2199874+00:00",
-  "LastUpdate_Achievements": "2024-01-09T17:11:04.4072839+00:00"
+  "LastUpdate_Ratings": "2024-01-09T17:58:10.4218002+00:00",
+  "LastUpdate_Achievements": "2024-01-09T18:11:03.9392891+00:00"
 }

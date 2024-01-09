@@ -2,7 +2,7 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 954,
+  "Ranking_Rating": 953,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 189,
@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8204,
+  "EOS_Progressed": 8207,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13697,6 +13697,11 @@
       "Time": "2024-01-09T17:08:51.0886111+00:00",
       "NumProgressed": 8204,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T18:08:43.5231313+00:00",
+      "NumProgressed": 8207,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13732,7 +13737,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -14027,13 +14032,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8204,
+      "Progressed": 8207,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7576,
+      "Progressed": 7579,
       "Completed": 113
     }
   ],
@@ -14041,8 +14046,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-09T17:08:51.0886108+00:00",
+  "LastChanged_Achievements": "2024-01-09T18:08:43.5231311+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:00:06.7284664+00:00",
-  "LastUpdate_Achievements": "2024-01-09T17:08:51.0886875+00:00"
+  "LastUpdate_Ratings": "2024-01-09T17:59:58.7752706+00:00",
+  "LastUpdate_Achievements": "2024-01-09T18:08:43.523214+00:00"
 }

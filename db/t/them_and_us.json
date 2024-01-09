@@ -3,7 +3,7 @@
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 367,
-  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 408,
+  "EOS_Progressed": 409,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.25,
+  "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
       "Time": "2023-04-30T13:59:34.488144+00:00",
@@ -1781,6 +1781,11 @@
       "Time": "2024-01-09T12:08:58.8145438+00:00",
       "NumProgressed": 408,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T18:09:02.6268364+00:00",
+      "NumProgressed": 409,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1808,7 +1813,7 @@
       "Name": "Alone with Them",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1888,7 +1893,7 @@
       "Name": "Forced to Kill",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1896,7 +1901,7 @@
       "Name": "Them and Us",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -1952,7 +1957,7 @@
       "Name": "OUTRAGE",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ETUA_PTD",
@@ -1966,9 +1971,9 @@
       "ID": "ETUA_ParasiteExterminated",
       "SetID": "65jc0ap",
       "Name": "Parasite Exterminated",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 45
     },
     {
       "ID": "ETUA_Researcher",
@@ -1976,7 +1981,7 @@
       "Name": "Researcher",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ETUA_RestInPeace",
@@ -2000,7 +2005,7 @@
       "Name": "Safe...For now?",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ETUA_StayDead",
@@ -2008,7 +2013,7 @@
       "Name": "I Am The Gate Keeper!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ETUA_SurvivalHero",
@@ -2054,9 +2059,9 @@
       "ID": "ETUA_TheForgottenTower",
       "SetID": "65jc0ap",
       "Name": "The Forgotten Tower",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 49
     },
     {
       "ID": "ETUA_ThisCoffin",
@@ -2104,14 +2109,14 @@
       "Name": "What have I done!?",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     }
   ],
   "AchievementSets": [
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 408,
+      "Progressed": 409,
       "Completed": 1
     }
   ],
@@ -2119,8 +2124,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2024-01-09T17:09:08.7705266+00:00",
+  "LastChanged_Achievements": "2024-01-09T18:09:02.626836+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:36.5425929+00:00",
-  "LastUpdate_Ratings": "2024-01-09T16:58:04.5874177+00:00",
-  "LastUpdate_Achievements": "2024-01-09T17:09:08.7705759+00:00"
+  "LastUpdate_Ratings": "2024-01-09T17:57:52.1308904+00:00",
+  "LastUpdate_Achievements": "2024-01-09T18:09:02.6268881+00:00"
 }

@@ -16,7 +16,7 @@ Number of Ratings: 48  (23.09.2022)
 | On Outlander Lane | 50.00% | ~399 |
 | First Time Fishing | 48.00% | ~383 |
 | A Girl About the Town | 47.00% | ~375 |
-| First Time Hunting | 45.00% | ~359 |
+| First Time Hunting | 46.00% | ~367 |
 | Rune Wall Wreckage | 45.00% | ~359 |
 | ...And Your Tax Money | 43.00% | ~343 |
 | The Lords of the Snowpeak | 37.00% | ~295 |

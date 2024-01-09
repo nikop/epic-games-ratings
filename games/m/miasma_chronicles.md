@@ -1,38 +1,38 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.39 (Ranked 776)  
+Rating: 4.39 (Ranked 777)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,565 |
-| Ranidaphobia | 77.00% | ~1,310 |
+| First Blood | 92.00% | ~1,566 |
+| Ranidaphobia | 77.00% | ~1,311 |
 | Aspiring Editor | 74.00% | ~1,259 |
 | Gun for Hire | 69.00% | ~1,174 |
 | I am the law! | 63.00% | ~1,072 |
 | Lumberjack | 53.00% | ~902 |
-| Croaked | 49.00% | ~833 |
-| Limp Richard | 48.00% | ~816 |
-| Exorcist | 48.00% | ~816 |
-| From Darkness to Light | 48.00% | ~816 |
-| Editor Adept | 47.00% | ~799 |
-| Giant Killer | 46.00% | ~782 |
-| Sensei | 44.00% | ~748 |
-| Firestarter | 42.00% | ~714 |
-| The meaning of Kain | 42.00% | ~714 |
-| Recycler | 40.00% | ~680 |
-| Technophobe | 40.00% | ~680 |
-| Are you not entertained? | 36.00% | ~612 |
-| Jarhead | 36.00% | ~612 |
-| Ganglord | 35.00% | ~595 |
-| Infiltrator | 35.00% | ~595 |
-| Experienced | 33.00% | ~561 |
-| Hold The Line | 33.00% | ~561 |
-| Pushing Daisy | 33.00% | ~561 |
-| Endgame | 28.00% | ~476 |
-| Savior | 28.00% | ~476 |
-| Silent but Violent | 28.00% | ~476 |
-| There Can Be Only One! | 26.00% | ~442 |
+| Croaked | 49.00% | ~834 |
+| Limp Richard | 48.00% | ~817 |
+| Exorcist | 48.00% | ~817 |
+| From Darkness to Light | 48.00% | ~817 |
+| Editor Adept | 47.00% | ~800 |
+| Giant Killer | 46.00% | ~783 |
+| Sensei | 44.00% | ~749 |
+| Firestarter | 42.00% | ~715 |
+| The meaning of Kain | 42.00% | ~715 |
+| Recycler | 40.00% | ~681 |
+| Technophobe | 40.00% | ~681 |
+| Are you not entertained? | 36.00% | ~613 |
+| Jarhead | 36.00% | ~613 |
+| Ganglord | 35.00% | ~596 |
+| Infiltrator | 35.00% | ~596 |
+| Experienced | 33.00% | ~562 |
+| Hold The Line | 33.00% | ~562 |
+| Pushing Daisy | 33.00% | ~562 |
+| Endgame | 28.00% | ~477 |
+| Savior | 28.00% | ~477 |
+| Silent but Violent | 28.00% | ~477 |
+| There Can Be Only One! | 26.00% | ~443 |
 | Chain Killer | 22.00% | ~374 |
 | The Watchers | 22.00% | ~374 |
 | Commando | 17.00% | ~289 |
@@ -57,7 +57,7 @@ Rating: 4.39 (Ranked 776)
 | Goaaaaal! | 0.80% | ~14 |
 | QA Has Suffered! (Redux) | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,701 (Ranked 258)  
+Progressed: 1,702 (Ranked 258)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 1,691 | 0 |
 | 2024-01-07 | 1,697 | 0 |
 | 2024-01-08 | 1,700 | 0 |
-| 2024-01-09 | 1,701 | 0 |
+| 2024-01-09 | 1,702 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

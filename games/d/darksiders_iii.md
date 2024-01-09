@@ -1,18 +1,18 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.48 (Ranked 657)  
+Rating: 4.48 (Ranked 656)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 78.00% | ~407 |
-| First of many… | 68.00% | ~355 |
+| First of many… | 69.00% | ~360 |
 | Helping Hand | 64.00% | ~334 |
 | Increased Vigor | 59.00% | ~308 |
 | Fight Fire with Fire | 57.00% | ~298 |
 | Increased Capacity | 54.00% | ~282 |
-| Just the start | 48.00% | ~251 |
+| Just the start | 49.00% | ~256 |
 | Perfect Storm | 45.00% | ~235 |
 | All That Glitters | 45.00% | ~235 |
 | Enhance! | 41.00% | ~214 |
@@ -43,8 +43,8 @@ Number of Ratings: 116  (23.09.2022)
 | Protector of Humanity | 18.00% | ~94 |
 | Everybody Wants to Rule the World | 18.00% | ~94 |
 | Community Outreach | 15.00% | ~78 |
+| A Parting Gift | 14.00% | ~73 |
 | Unbreakable Will | 13.00% | ~68 |
-| A Parting Gift | 13.00% | ~68 |
 | Path of the Horseman | 13.00% | ~68 |
 | Take it to the Limit | 12.00% | ~63 |
 | Holy Keeper | 11.00% | ~57 |

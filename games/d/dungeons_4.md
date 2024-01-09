@@ -6,7 +6,7 @@ Rating: 4.75 (Ranked 146)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Last Stand | 89.00% | ~666 |
-| Thalya – Simply Immortal | 88.00% | ~658 |
+| Thalya – Simply Immortal | 89.00% | ~666 |
 | For the Horde! | 82.00% | ~613 |
 | Hammer Time, Round Two | 81.00% | ~606 |
 | The Hellwoods | 77.00% | ~576 |

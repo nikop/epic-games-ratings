@@ -653,25 +653,25 @@
       "ID": "story12",
       "SetID": "c64if4d",
       "Name": "Help of the Gell",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "story13",
       "SetID": "c64if4d",
       "Name": "Trial by cold",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "story14",
       "SetID": "c64if4d",
       "Name": "There can be only one",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "story15",
@@ -773,25 +773,25 @@
       "ID": "story7",
       "SetID": "c64if4d",
       "Name": "A hidden snake",
-      "Percentage": 18,
-      "XP": 20,
-      "UsersEstimate": 13
-    },
-    {
-      "ID": "story8",
-      "SetID": "c64if4d",
-      "Name": "Blood and sand",
       "Percentage": 19,
       "XP": 20,
       "UsersEstimate": 14
     },
     {
+      "ID": "story8",
+      "SetID": "c64if4d",
+      "Name": "Blood and sand",
+      "Percentage": 21,
+      "XP": 20,
+      "UsersEstimate": 15
+    },
+    {
       "ID": "story9",
       "SetID": "c64if4d",
       "Name": "She-Wolf",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
@@ -806,8 +806,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2024-01-09T17:10:11.4476409+00:00",
+  "LastChanged_Achievements": "2024-01-09T18:10:08.5821579+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:14.685228+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:02:47.4426138+00:00",
-  "LastUpdate_Achievements": "2024-01-09T17:10:11.4476805+00:00"
+  "LastUpdate_Ratings": "2024-01-09T18:02:37.2426717+00:00",
+  "LastUpdate_Achievements": "2024-01-09T18:10:08.5821907+00:00"
 }

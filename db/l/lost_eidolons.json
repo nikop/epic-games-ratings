@@ -197,7 +197,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1120,
+  "EOS_Progressed": 1121,
   "EOS_Completed": 1,
   "EOS_NewPlayers": -8,
   "EOS_NewCompleters": 0,
@@ -2622,6 +2622,11 @@
       "Time": "2024-01-09T17:08:55.091231+00:00",
       "NumProgressed": 1120,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T18:08:47.4685481+00:00",
+      "NumProgressed": 1121,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2655,9 +2660,9 @@
       "ID": "04",
       "SetID": "73ikgfc",
       "Name": "The Unvanquished",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 34
+      "UsersEstimate": 22
     },
     {
       "ID": "05",
@@ -2665,7 +2670,7 @@
       "Name": "The First Step",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "06",
@@ -2673,7 +2678,7 @@
       "Name": "First Blood",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "07",
@@ -2681,15 +2686,15 @@
       "Name": "Monster Hunter",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "08",
       "SetID": "73ikgfc",
       "Name": "Monster Slayer",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 358
+      "UsersEstimate": 348
     },
     {
       "ID": "09",
@@ -2761,7 +2766,7 @@
       "Name": "Ready to Learn",
       "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "18",
@@ -2816,7 +2821,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1120,
+      "Progressed": 1121,
       "Completed": 1
     }
   ],
@@ -2824,8 +2829,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-01-09T17:08:55.0912305+00:00",
+  "LastChanged_Achievements": "2024-01-09T18:08:47.4685479+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:22.9341362+00:00",
-  "LastUpdate_Ratings": "2024-01-09T17:03:10.5235929+00:00",
-  "LastUpdate_Achievements": "2024-01-09T17:08:55.091255+00:00"
+  "LastUpdate_Ratings": "2024-01-09T18:03:01.694991+00:00",
+  "LastUpdate_Achievements": "2024-01-09T18:08:47.4685668+00:00"
 }

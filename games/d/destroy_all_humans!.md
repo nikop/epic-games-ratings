@@ -1,23 +1,23 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 360)  
+Rating: 4.63 (Ranked 359)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 77.00% | ~321 |
-| Kaijuiced | 71.00% | ~296 |
-| Lie Back and Think of Albion | 66.00% | ~275 |
+| Shop Til They Drop | 77.00% | ~322 |
+| Kaijuiced | 71.00% | ~297 |
+| Lie Back and Think of Albion | 66.00% | ~276 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 62.00% | ~259 |
-| I Look Up As I Walk to Takoshima | 59.00% | ~246 |
+| I Look Up As I Walk to Takoshima | 59.00% | ~247 |
 | Yettisoned | 58.00% | ~242 |
 | Pimp My Raid | 56.00% | ~234 |
-| Perfect Probulator | 55.00% | ~229 |
-| Lobster Blisque | 50.00% | ~208 |
-| Fly Me to the Moon Base | 48.00% | ~200 |
-| Earthly Pleasures | 48.00% | ~200 |
-| Ducks in a Row, Fish in a Barrel | 46.00% | ~192 |
+| Perfect Probulator | 56.00% | ~234 |
+| Lobster Blisque | 50.00% | ~209 |
+| Fly Me to the Moon Base | 48.00% | ~201 |
+| Earthly Pleasures | 48.00% | ~201 |
+| Ducks in a Row, Fish in a Barrel | 45.00% | ~188 |
 | Forbidden Donut | 36.00% | ~150 |
 | Freshly Squeezed | 36.00% | ~150 |
 | Upgreatest | 35.00% | ~146 |
@@ -33,7 +33,7 @@ Number of Ratings: 85  (23.09.2022)
 | Die Nasty | 16.00% | ~67 |
 | Hidden Human Hive Harvest | 15.00% | ~63 |
 | Mash Machine | 15.00% | ~63 |
-| Albion Bridge Is for Falling Down | 14.00% | ~58 |
+| Albion Bridge Is for Falling Down | 14.00% | ~59 |
 | Dusted | 13.00% | ~54 |
 | Scuttled | 11.00% | ~46 |
 | Higher Than the Futen Zoku | 10.00% | ~42 |
@@ -47,7 +47,7 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 2.00% | ~8 |
 | Against All Odds | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 417 (Ranked 365)  
+Progressed: 418 (Ranked 365)  
 Completed: 5 (1.20%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 5 (1.20%) (Ranked 161)
 | 2024-01-06 | 367 | 5 |
 | 2024-01-07 | 392 | 5 |
 | 2024-01-08 | 406 | 5 |
-| 2024-01-09 | 417 | 5 |
+| 2024-01-09 | 418 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 504)  
 Sum: 35 (Ranked 532)  

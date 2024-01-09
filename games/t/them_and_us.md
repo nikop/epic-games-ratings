@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 67.00% | ~273 |
-| Forced to Kill | 64.00% | ~261 |
+| Alone with Them | 67.00% | ~274 |
+| Forced to Kill | 64.00% | ~262 |
 | A Night To Remember | 38.00% | ~155 |
-| Safe...For now? | 31.00% | ~126 |
+| Safe...For now? | 31.00% | ~127 |
 | Open Sesame | 26.00% | ~106 |
-| What have I done!? | 18.00% | ~73 |
-| Them and Us | 17.00% | ~69 |
-| OUTRAGE | 17.00% | ~69 |
+| What have I done!? | 18.00% | ~74 |
+| Them and Us | 17.00% | ~70 |
+| OUTRAGE | 17.00% | ~70 |
 | This Coffin Has Your Name On It! | 14.00% | ~57 |
 | Alone In The Dark | 13.00% | ~53 |
 | The Cultists | 13.00% | ~53 |
-| The Forgotten Tower | 13.00% | ~53 |
-| Parasite Exterminated | 12.00% | ~49 |
+| The Forgotten Tower | 12.00% | ~49 |
+| Parasite Exterminated | 11.00% | ~45 |
 | Trapped | 11.00% | ~45 |
 | Modern Player | 10.00% | ~41 |
 | The Curse Is Real | 10.00% | ~41 |
 | Lover of classics | 9.00% | ~37 |
 | Rest In Peace | 9.00% | ~37 |
 | What A Mansion | 8.00% | ~33 |
-| Researcher | 6.00% | ~24 |
-| I Am The Gate Keeper! | 6.00% | ~24 |
+| Researcher | 6.00% | ~25 |
+| I Am The Gate Keeper! | 6.00% | ~25 |
 | Armed To The Teeth | 5.00% | ~20 |
 | This Mansion Is Clean | 4.00% | ~16 |
 | Retro Player | 2.00% | ~8 |
@@ -45,8 +45,8 @@
 | Nightmare Over | 0.20% | ~1 |
 | Survival Horror | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 408 (Ranked 367)  
-Completed: 1 (0.25%) (Ranked 265)  
+Progressed: 409 (Ranked 367)  
+Completed: 1 (0.24%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -171,7 +171,7 @@ Completed: 1 (0.25%) (Ranked 265)
 | 2024-01-06 | 392 | 1 |
 | 2024-01-07 | 399 | 1 |
 | 2024-01-08 | 405 | 1 |
-| 2024-01-09 | 408 | 1 |
+| 2024-01-09 | 409 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

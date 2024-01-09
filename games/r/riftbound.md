@@ -11,8 +11,8 @@
 | Evolution Revolution | 9.00% | ~4 |
 | Five Of A Kind | 9.00% | ~4 |
 | I'm A Wizard | 9.00% | ~4 |
+| Ender Ender | 6.00% | ~3 |
 | Hold The Line | 6.00% | ~3 |
-| Ender Ender | 4.00% | ~2 |
 | Full House | 2.00% | ~1 |
 | Over 9000 | 2.00% | ~1 |
 | Tactical Spectacular | 2.00% | ~1 |

@@ -10,18 +10,18 @@
 | Under cover | 29.00% | ~21 |
 | First blood | 29.00% | ~21 |
 | Royal blessing | 23.00% | ~17 |
-| Blood and sand | 19.00% | ~14 |
+| Blood and sand | 21.00% | ~15 |
+| A hidden snake | 19.00% | ~14 |
 | All for one! | 18.00% | ~13 |
-| A hidden snake | 18.00% | ~13 |
+| Help of the Gell | 16.00% | ~12 |
 | Crimson rivers | 15.00% | ~11 |
 | Power of Inquisition | 15.00% | ~11 |
 | Surpass the teacher | 15.00% | ~11 |
-| Help of the Gell | 15.00% | ~11 |
+| She-Wolf | 15.00% | ~11 |
 | Vene, vidi, vici | 14.00% | ~10 |
 | Rage | 14.00% | ~10 |
-| She-Wolf | 14.00% | ~10 |
+| Trial by cold | 14.00% | ~10 |
 | Berkanan Borgia | 12.00% | ~9 |
-| Trial by cold | 12.00% | ~9 |
 | For the greater good | 10.00% | ~7 |
 | Overplay the rogue | 8.00% | ~6 |
 | The champion of the arena | 8.00% | ~6 |
@@ -38,11 +38,11 @@
 | The best apprentice | 4.00% | ~3 |
 | By own strength | 4.00% | ~3 |
 | Deadly strike | 4.00% | ~3 |
+| There can be only one | 4.00% | ~3 |
 | All's fair in love and war | 4.00% | ~3 |
 | The power of persuasion | 3.00% | ~2 |
 | A solo player | 3.00% | ~2 |
 | Do it yourself | 3.00% | ~2 |
-| There can be only one | 3.00% | ~2 |
 | Happily ever after | 3.00% | ~2 |
 | By someone else's hands | 1.00% | ~1 |
 | Berserk | 0.00% | ~0 |

@@ -1,7 +1,7 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.59 (Ranked 452)  
+Rating: 4.59 (Ranked 451)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,8 +20,8 @@ Rating: 4.59 (Ranked 452)
 | Boom Things | 53.00% | ~801 |
 | Tear of Freedom | 52.00% | ~786 |
 | My Darkest Day | 49.00% | ~741 |
+| The Relentless Storm | 47.00% | ~711 |
 | Rhythm Of Willump | 46.00% | ~696 |
-| The Relentless Storm | 46.00% | ~696 |
 | A Tragic Reminder | 45.00% | ~680 |
 | 3000 Year Blackout | 44.00% | ~665 |
 | So Close | 42.00% | ~635 |
@@ -35,8 +35,8 @@ Rating: 4.59 (Ranked 452)
 | True Legends | 38.00% | ~575 |
 | It Is Not Over | 36.00% | ~544 |
 | Bullseye | 36.00% | ~544 |
+| On The Rocks | 34.00% | ~514 |
 | Snowy Poro | 33.00% | ~499 |
-| On The Rocks | 33.00% | ~499 |
 | Never Gets Old | 32.00% | ~484 |
 | Vertical Power | 27.00% | ~408 |
 | One From The Heart | 14.00% | ~212 |
