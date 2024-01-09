@@ -10,8 +10,8 @@
 | Frogs Legs | 22.00% | ~10 |
 | Mad Scientist | 17.00% | ~8 |
 | Hoist the Sails | 17.00% | ~8 |
-| Secure the Sheets | 15.00% | ~7 |
-| Socialite | 13.00% | ~6 |
+| Secure the Sheets | 17.00% | ~8 |
+| Socialite | 15.00% | ~7 |
 | Hands on the Helm | 13.00% | ~6 |
 | Couch-surfing | 11.00% | ~5 |
 | Replace the Rudder | 11.00% | ~5 |

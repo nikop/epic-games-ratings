@@ -6,25 +6,25 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~928 |
-| Lost and Found | 8.00% | ~571 |
+| Malpractice Assurance | 13.00% | ~929 |
+| Lost and Found | 8.00% | ~572 |
 | Autodidact | 7.00% | ~9,259 |
 | This guy... again? | 7.00% | ~500 |
-| This Belongs in a Museum | 6.00% | ~7,936 |
-| Creep and Sleep | 6.00% | ~7,936 |
-| Overdue Notice | 6.00% | ~7,936 |
-| Ploughshares to Swords | 6.00% | ~428 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,613 |
-| Serenity Now! | 5.00% | ~6,613 |
-| It Rings a Bell | 5.00% | ~6,613 |
-| Not Today! | 5.00% | ~6,613 |
-| Meat and Greet | 5.00% | ~6,613 |
-| Catch and Decease | 5.00% | ~6,613 |
-| Escape from the Black Hole | 5.00% | ~6,613 |
-| It Happens | 5.00% | ~6,613 |
-| Rush Hour | 5.00% | ~6,613 |
-| To Grandmother's House | 5.00% | ~6,613 |
-| FNG | 5.00% | ~6,613 |
+| This Belongs in a Museum | 6.00% | ~7,937 |
+| Creep and Sleep | 6.00% | ~7,937 |
+| Overdue Notice | 6.00% | ~7,937 |
+| Ploughshares to Swords | 6.00% | ~429 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,614 |
+| Serenity Now! | 5.00% | ~6,614 |
+| It Rings a Bell | 5.00% | ~6,614 |
+| Not Today! | 5.00% | ~6,614 |
+| Meat and Greet | 5.00% | ~6,614 |
+| Catch and Decease | 5.00% | ~6,614 |
+| Escape from the Black Hole | 5.00% | ~6,614 |
+| It Happens | 5.00% | ~6,614 |
+| Rush Hour | 5.00% | ~6,614 |
+| To Grandmother's House | 5.00% | ~6,614 |
+| FNG | 5.00% | ~6,614 |
 | Bloody Graduation | 5.00% | ~357 |
 | Spelunker | 4.00% | ~5,291 |
 | Merry Time | 4.00% | ~5,291 |
@@ -33,7 +33,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 4.00% | ~5,291 |
 | A Place to Lay Your Head | 4.00% | ~5,291 |
 | Nope | 4.00% | ~5,291 |
-| Friends 'Til the End | 4.00% | ~285 |
+| Friends 'Til the End | 4.00% | ~286 |
 | Resurrection | 3.00% | ~3,968 |
 | Unleash Hell | 3.00% | ~3,968 |
 | Funny Guy | 3.00% | ~3,968 |
@@ -52,14 +52,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 3.00% | ~3,968 |
 | Unshackled | 3.00% | ~3,968 |
 | Road Trip | 3.00% | ~3,968 |
-| This Looks Familiar | 2.00% | ~2,645 |
-| Hope Rekindled | 2.00% | ~2,645 |
-| Ichthyophobic | 2.00% | ~2,645 |
-| No More Mouths to Feed | 2.00% | ~2,645 |
-| Worldly Traveller | 2.00% | ~2,645 |
-| Hot Air | 2.00% | ~2,645 |
-| Eyes Up | 2.00% | ~2,645 |
-| Handled | 2.00% | ~2,645 |
+| This Looks Familiar | 2.00% | ~2,646 |
+| Hope Rekindled | 2.00% | ~2,646 |
+| Ichthyophobic | 2.00% | ~2,646 |
+| No More Mouths to Feed | 2.00% | ~2,646 |
+| Worldly Traveller | 2.00% | ~2,646 |
+| Hot Air | 2.00% | ~2,646 |
+| Eyes Up | 2.00% | ~2,646 |
+| Handled | 2.00% | ~2,646 |
 | Clearing the Ledger | 1.00% | ~1,323 |
 | Shrine of Reflection | 1.00% | ~1,323 |
 | Body of Work | 1.00% | ~1,323 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,268 (Ranked 91)  
-Completed: 3 (0.00%) (Ranked 395)  
+Progressed: 132,276 (Ranked 91)  
+Completed: 3 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -340,7 +340,7 @@ Completed: 3 (0.00%) (Ranked 395)
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
-| 2024-01-09 | 132,268 | 3 |
+| 2024-01-09 | 132,276 | 3 |
 ## Awards
 Max (Character Customization): 7,992  (Ranked 50)  
 Sum: 21,553 (Ranked 58)  

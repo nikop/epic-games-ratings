@@ -18,10 +18,10 @@ Number of Ratings: 67  (23.09.2022)
 | The Dead Court | 1.00% | ~6 |
 | Demolition Derby | 0.90% | ~5 |
 | Good Deeds | 0.90% | ~5 |
+| Walking Armory | 0.90% | ~5 |
 | A Bullet for All Seasons | 0.70% | ~4 |
 | Infested | 0.70% | ~4 |
 | Mint III | 0.70% | ~4 |
-| Walking Armory | 0.70% | ~4 |
 | Why'd It Have to Be Snakes? | 0.70% | ~4 |
 | Are You Not Entertained? | 0.40% | ~2 |
 | Collector | 0.40% | ~2 |
@@ -37,8 +37,8 @@ Number of Ratings: 67  (23.09.2022)
 | Ready to Blow | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 561 (Ranked 340)  
-Completed: 0 (0.00%) (Ranked 395)  
+Progressed: 562 (Ranked 340)  
+Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -64,7 +64,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 471 | 0 |
 | 2024-01-07 | 514 | 0 |
 | 2024-01-08 | 545 | 0 |
-| 2024-01-09 | 561 | 0 |
+| 2024-01-09 | 562 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 472)  
 Sum: 45 (Ranked 518)  

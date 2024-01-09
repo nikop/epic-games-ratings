@@ -5,12 +5,12 @@ Rating: 4.69 (Ranked 236)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 46.00% | ~590 |
+| Time Heals All Wounds | 46.00% | ~591 |
 | Rail Rat | 35.00% | ~449 |
-| The Mysterious Stranger | 34.00% | ~436 |
+| The Mysterious Stranger | 34.00% | ~437 |
 | Immaculate Aim | 29.00% | ~372 |
-| The Brass Boss | 28.00% | ~359 |
-| Time Flies | 27.00% | ~346 |
+| The Brass Boss | 28.00% | ~360 |
+| Time Flies | 27.00% | ~347 |
 | The Harder They Fall | 26.00% | ~334 |
 | No, Thanks! | 26.00% | ~334 |
 | The Prince in Heels | 26.00% | ~334 |
@@ -24,14 +24,14 @@ Rating: 4.69 (Ranked 236)
 | Right On Time | 22.00% | ~282 |
 | Like Clockwork | 22.00% | ~282 |
 | Golem Chaser | 22.00% | ~282 |
-| The Betrayer | 21.00% | ~269 |
+| The Betrayer | 21.00% | ~270 |
 | Check Your Pulse | 20.00% | ~257 |
 | The Loose Cannon | 19.00% | ~244 |
 | Street Style | 18.00% | ~231 |
 | The Man Who Shattered Time | 18.00% | ~231 |
 | The Family Fortune | 18.00% | ~231 |
-| Whiz Kid | 15.00% | ~192 |
-| Good Neighbor | 15.00% | ~192 |
+| Whiz Kid | 15.00% | ~193 |
+| Good Neighbor | 15.00% | ~193 |
 | Family Memories | 14.00% | ~180 |
 | Chaincrawler Explorer | 13.00% | ~167 |
 | Syron for Hope | 13.00% | ~167 |
@@ -42,7 +42,7 @@ Rating: 4.69 (Ranked 236)
 | Factorywood Explorer | 11.00% | ~141 |
 | Fairgrounds Explorer | 10.00% | ~128 |
 | Theater Explorer | 10.00% | ~128 |
-| Cultivair Explorer | 9.00% | ~115 |
+| Cultivair Explorer | 9.00% | ~116 |
 | Corin Goes Home | 8.00% | ~103 |
 | Sartorialist | 8.00% | ~103 |
 | Entresol Explorer | 8.00% | ~103 |
@@ -50,7 +50,7 @@ Rating: 4.69 (Ranked 236)
 | Clovemary for Remembering | 6.00% | ~77 |
 | Hexlock for Protection | 6.00% | ~77 |
 | Rungs Was Right | 5.00% | ~64 |
-| Wunderkind | 3.00% | ~38 |
+| Wunderkind | 3.00% | ~39 |
 | Thinking Two Steps Ahead | 2.00% | ~26 |
 | Fitting In | 2.00% | ~26 |
 | No Time to Waste | 1.00% | ~13 |
@@ -59,7 +59,7 @@ Rating: 4.69 (Ranked 236)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,283 (Ranked 280)  
+Progressed: 1,284 (Ranked 279)  
 Completed: 7 (0.55%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 7 (0.55%) (Ranked 213)
 | 2024-01-06 | 1,255 | 6 |
 | 2024-01-07 | 1,264 | 7 |
 | 2024-01-08 | 1,278 | 7 |
-| 2024-01-09 | 1,283 | 7 |
+| 2024-01-09 | 1,284 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

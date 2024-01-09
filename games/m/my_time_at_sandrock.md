@@ -9,8 +9,8 @@ Number of Ratings: 892  (23.09.2022)
 | Adept Assembler | 205.00% | ~1,810 |
 | Super Spelunker | 147.00% | ~1,298 |
 | Iron Chef | 140.00% | ~1,236 |
-| Officially Official | 121.00% | ~1,068 |
-| The Little Wood that Could | 117.00% | ~1,033 |
+| Officially Official | 122.00% | ~1,077 |
+| The Little Wood that Could | 118.00% | ~1,042 |
 | On that Grindset | 113.00% | ~998 |
 | Greeno-B-Gone | 108.00% | ~954 |
 | Better Late than Never | 102.00% | ~901 |
@@ -20,7 +20,7 @@ Number of Ratings: 892  (23.09.2022)
 | One of the Cool Kids | 91.00% | ~804 |
 | Pack Mule | 90.00% | ~795 |
 | Mole Masher | 90.00% | ~795 |
-| Diamonds are Forever | 89.00% | ~786 |
+| Diamonds are Forever | 90.00% | ~795 |
 | Financially Secure | 88.00% | ~777 |
 | Big Game Hunter | 83.00% | ~733 |
 | Unboxing | 81.00% | ~715 |
@@ -68,7 +68,7 @@ Number of Ratings: 892  (23.09.2022)
 | Sandrock's Hottest Club | 5.00% | ~44 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 883 (Ranked 303)  
-Completed: 0 (0.00%) (Ranked 395)  
+Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

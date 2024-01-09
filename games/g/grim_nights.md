@@ -11,9 +11,9 @@
 | Top notch! | 36.00% | ~23 |
 | Bling bling! | 27.00% | ~17 |
 | Lives lost | 20.00% | ~13 |
+| Slaughter | 20.00% | ~13 |
 | Still alive! | 19.00% | ~12 |
-| Slaughter | 19.00% | ~12 |
-| Slay that one too! | 13.00% | ~8 |
+| Slay that one too! | 14.00% | ~9 |
 | You monster! | 9.00% | ~6 |
 | Massive slaughter | 9.00% | ~6 |
 | ... And that one! | 6.00% | ~4 |
@@ -21,7 +21,7 @@
 | Are you still here? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 64 (Ranked 534)  
-Completed: 0 (0.00%) (Ranked 395)  
+Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

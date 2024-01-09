@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Remains of Fleed | 56.00% | ~40 |
-| The Legend | 56.00% | ~40 |
-| Life of Pi | 54.00% | ~39 |
+| The Remains of Fleed | 55.00% | ~40 |
+| Life of Pi | 55.00% | ~40 |
+| The Legend | 55.00% | ~40 |
 | Escape from Fleed | 44.00% | ~32 |
 | Strength in Defeat | 44.00% | ~32 |
-| First Contact | 42.00% | ~30 |
-| The Exterminator | 24.00% | ~17 |
+| First Contact | 41.00% | ~30 |
+| The Exterminator | 23.00% | ~17 |
 | Technology first! | 21.00% | ~15 |
 | Earth's Savior | 19.00% | ~14 |
 | The Keeper of Fleed | 11.00% | ~8 |
@@ -18,9 +18,9 @@
 | The Broken Guard | 8.00% | ~6 |
 | A Good Paint Job | 7.00% | ~5 |
 | The Vega Turtle | 7.00% | ~5 |
-| Gold Seeker | 6.00% | ~4 |
-| The Planner | 6.00% | ~4 |
-| The Flying Octopus | 6.00% | ~4 |
+| Gold Seeker | 5.00% | ~4 |
+| The Planner | 5.00% | ~4 |
+| The Flying Octopus | 5.00% | ~4 |
 | A Land of Peace | 4.00% | ~3 |
 | Iron Fist | 4.00% | ~3 |
 | You can't fool me! | 4.00% | ~3 |
@@ -35,8 +35,8 @@
 | Vengeance of the Wolf | 1.00% | ~1 |
 | The Fire Cannons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72 (Ranked 523)  
-Completed: 0 (0.00%) (Ranked 395)  
+Progressed: 73 (Ranked 522)  
+Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,4 +66,4 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-05 | 68 | 0 |
 | 2024-01-06 | 69 | 0 |
 | 2024-01-07 | 70 | 0 |
-| 2024-01-09 | 72 | 0 |
+| 2024-01-09 | 73 | 0 |

@@ -3317,9 +3317,9 @@
       "ID": "PrincessThrone",
       "SetID": "db30heh",
       "Name": "New Order",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 149
     },
     {
       "ID": "RogueChest",
@@ -3365,9 +3365,9 @@
       "ID": "SleepingBasiliskAmanita",
       "SetID": "db30heh",
       "Name": "Wild Dreams",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 134
+      "UsersEstimate": 141
     },
     {
       "ID": "SleepingBasiliskPistol",
@@ -3420,8 +3420,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-09T15:06:15.7281803+00:00",
+  "LastChanged_Achievements": "2024-01-09T16:08:19.696359+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:24.0507598+00:00",
-  "LastUpdate_Ratings": "2024-01-09T14:57:28.672418+00:00",
-  "LastUpdate_Achievements": "2024-01-09T15:06:15.7282297+00:00"
+  "LastUpdate_Ratings": "2024-01-09T15:58:13.7677761+00:00",
+  "LastUpdate_Achievements": "2024-01-09T16:08:19.6964047+00:00"
 }

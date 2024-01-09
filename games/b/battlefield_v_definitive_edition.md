@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Man Standing | 91.00% | ~85,029 |
-| Enemy Attrition | 68.00% | ~63,539 |
-| Grim Reaper | 66.00% | ~61,670 |
-| Heads Down | 63.00% | ~58,867 |
-| Not On My Watch | 60.00% | ~56,063 |
-| Combat Engineer | 40.00% | ~37,376 |
-| Eager Beaver | 30.00% | ~28,032 |
-| Call ’em in! | 29.00% | ~27,097 |
-| Lovely | 27.00% | ~25,229 |
-| Store fuglar fanga ingi flugor | 16.00% | ~14,950 |
-| Ou La Mort | 14.00% | ~13,081 |
-| Elite | 12.00% | ~11,213 |
-| Fender Bender | 8.00% | ~7,475 |
-| Globetrotter | 6.00% | ~5,606 |
-| Storyteller | 5.00% | ~4,672 |
-| Jack of All Trades | 5.00% | ~4,672 |
-| Off-hand | 3.00% | ~2,803 |
-| Death from Above | 2.00% | ~1,869 |
+| Last Man Standing | 91.00% | ~85,090 |
+| Enemy Attrition | 68.00% | ~63,584 |
+| Grim Reaper | 66.00% | ~61,714 |
+| Heads Down | 63.00% | ~58,909 |
+| Not On My Watch | 60.00% | ~56,104 |
+| Combat Engineer | 40.00% | ~37,402 |
+| Eager Beaver | 30.00% | ~28,052 |
+| Call ’em in! | 29.00% | ~27,117 |
+| Lovely | 27.00% | ~25,247 |
+| Store fuglar fanga ingi flugor | 16.00% | ~14,961 |
+| Ou La Mort | 14.00% | ~13,091 |
+| Elite | 12.00% | ~11,221 |
+| Fender Bender | 8.00% | ~7,480 |
+| Globetrotter | 6.00% | ~5,610 |
+| Storyteller | 5.00% | ~4,675 |
+| Jack of All Trades | 5.00% | ~4,675 |
+| Off-hand | 3.00% | ~2,805 |
+| Death from Above | 2.00% | ~1,870 |
 | Veteran | 0.80% | ~748 |
-| Hoist the Flag | 0.30% | ~280 |
+| Hoist the Flag | 0.30% | ~281 |
 | Sins of the Fathers | 0.20% | ~187 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,439 (Ranked 101)  
-Completed: 1 (0.00%) (Ranked 395)  
+Progressed: 93,506 (Ranked 101)  
+Completed: 1 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -141,4 +141,4 @@ Completed: 1 (0.00%) (Ranked 395)
 | 2024-01-06 | 89,832 | 1 |
 | 2024-01-07 | 91,451 | 1 |
 | 2024-01-08 | 92,573 | 1 |
-| 2024-01-09 | 93,439 | 1 |
+| 2024-01-09 | 93,506 | 1 |

@@ -10,7 +10,7 @@ Number of Ratings: 292  (23.09.2022)
 | Double Kill | 40.00% | ~440 |
 | Critical Hit | 23.00% | ~253 |
 | Veteran | 23.00% | ~253 |
-| Dressed For Success | 15.00% | ~165 |
+| Dressed For Success | 16.00% | ~176 |
 | Humiliation | 10.00% | ~110 |
 | Veni, Vidi, Vici | 10.00% | ~110 |
 | Multi Kill | 9.00% | ~99 |
@@ -41,10 +41,10 @@ Number of Ratings: 292  (23.09.2022)
 | Coming Through! | 0.50% | ~6 |
 | Get Over Here! | 0.50% | ~6 |
 | Barbecue | 0.40% | ~4 |
+| Attack Bonanza | 0.30% | ~3 |
 | Fully Charged | 0.30% | ~3 |
 | Oops! | 0.30% | ~3 |
 | The Marsh Expands | 0.30% | ~3 |
-| Attack Bonanza | 0.20% | ~2 |
 | Hello There | 0.20% | ~2 |
 | An Empress's Hope | 0.20% | ~2 |
 | Bringer of Ruin | 0.10% | ~1 |
@@ -61,8 +61,8 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,100 (Ranked 287)  
-Completed: 0 (0.00%) (Ranked 395)  
+Progressed: 1,101 (Ranked 287)  
+Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -121,7 +121,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 1,034 | 0 |
 | 2024-01-07 | 1,067 | 0 |
 | 2024-01-08 | 1,089 | 0 |
-| 2024-01-09 | 1,100 | 0 |
+| 2024-01-09 | 1,101 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 522)  
 Sum: 252 (Ranked 399)  

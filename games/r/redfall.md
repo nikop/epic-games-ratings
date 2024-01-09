@@ -8,8 +8,8 @@ Rating: 3.68 (Ranked 1,093)
 | I Like My Stakes Rare! | 21.00% | ~488 |
 | Catch and Release | 16.00% | ~372 |
 | Home Is Where the Heart Is | 15.00% | ~349 |
-| ICU | 14.00% | ~325 |
-| Wounded Whispers | 14.00% | ~325 |
+| ICU | 14.00% | ~326 |
+| Wounded Whispers | 14.00% | ~326 |
 | Blood Will Have Blood | 12.00% | ~279 |
 | Ne Plus Ultra | 12.00% | ~279 |
 | Peek-a-boo | 12.00% | ~279 |
@@ -21,7 +21,7 @@ Rating: 3.68 (Ranked 1,093)
 | Heart Attack | 9.00% | ~209 |
 | Skin of Their Teeth | 8.00% | ~186 |
 | Grounded | 7.00% | ~163 |
-| Bad Wiring | 6.00% | ~139 |
+| Bad Wiring | 6.00% | ~140 |
 | Neighborhood Revitalization | 5.00% | ~116 |
 | Radio Silence | 5.00% | ~116 |
 | I Spit On Your Grave | 4.00% | ~93 |
@@ -34,13 +34,13 @@ Rating: 3.68 (Ranked 1,093)
 | Starve the Beast | 3.00% | ~70 |
 | Harvest’s End | 3.00% | ~70 |
 | Helping Hand | 3.00% | ~70 |
-| Revelations | 2.00% | ~46 |
-| Contingency Plans | 2.00% | ~46 |
-| Block Party | 2.00% | ~46 |
-| Check, Please! | 2.00% | ~46 |
-| Right This Way | 2.00% | ~46 |
-| Nice Try | 2.00% | ~46 |
-| Curious Finch | 2.00% | ~46 |
+| Revelations | 2.00% | ~47 |
+| Contingency Plans | 2.00% | ~47 |
+| Block Party | 2.00% | ~47 |
+| Check, Please! | 2.00% | ~47 |
+| Right This Way | 2.00% | ~47 |
+| Nice Try | 2.00% | ~47 |
+| Curious Finch | 2.00% | ~47 |
 | Blacklight Down | 1.00% | ~23 |
 | Blood Brother | 0.90% | ~21 |
 | Bloody Initiate | 0.90% | ~21 |
@@ -72,8 +72,8 @@ Rating: 3.68 (Ranked 1,093)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,324 (Ranked 241)  
-Completed: 0 (0.00%) (Ranked 395)  
+Progressed: 2,326 (Ranked 241)  
+Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -213,7 +213,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 2,286 | 0 |
 | 2024-01-07 | 2,301 | 0 |
 | 2024-01-08 | 2,317 | 0 |
-| 2024-01-09 | 2,324 | 0 |
+| 2024-01-09 | 2,326 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 555)  
 Sum: 24 (Ranked 561)  

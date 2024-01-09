@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,408 |
-| Off to a good start | 61.00% | ~1,708 |
-| Do... or do not. There is no try | 52.00% | ~1,456 |
+| New Recruit | 86.00% | ~2,409 |
+| Off to a good start | 61.00% | ~1,709 |
+| Do... or do not. There is no try | 52.00% | ~1,457 |
 | A good blaster at your side | 24.00% | ~672 |
 | I suggest a new strategy | 17.00% | ~476 |
 | Great shot, kid! | 16.00% | ~448 |
@@ -26,8 +26,8 @@
 | Impressive. Most impressive. | 5.00% | ~140 |
 | Judge me by my size, do you? | 5.00% | ~140 |
 | Distinguished | 4.00% | ~112 |
-| A tremor in the Force | 4.00% | ~112 |
 | Support the troops | 4.00% | ~112 |
+| A tremor in the Force | 3.00% | ~84 |
 | Safety ain't the point of a joyride | 3.00% | ~84 |
 | Not bad for a little furball | 3.00% | ~84 |
 | Patience you must have | 3.00% | ~84 |
@@ -39,13 +39,13 @@
 | On the ball | 2.00% | ~56 |
 | Precision shot | 2.00% | ~56 |
 | That's no moon | 2.00% | ~56 |
-| What will you become? | 2.00% | ~56 |
 | Don't underestimate the Force | 2.00% | ~56 |
 | Hold the line! | 1.00% | ~28 |
 | Ackbar's Elite | 1.00% | ~28 |
 | This is a new day, a new beginning | 1.00% | ~28 |
 | City in the Clouds | 1.00% | ~28 |
 | Alternative solution | 1.00% | ~28 |
+| What will you become? | 1.00% | ~28 |
 | The circle is now complete | 1.00% | ~28 |
 | Disturbed tranquility | 1.00% | ~28 |
 | Playing the objective | 0.90% | ~25 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,800 (Ranked 232)  
+Progressed: 2,801 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 1 (0.04%) (Ranked 349)
 | 2024-01-06 | 2,690 | 1 |
 | 2024-01-07 | 2,750 | 1 |
 | 2024-01-08 | 2,781 | 1 |
-| 2024-01-09 | 2,800 | 1 |
+| 2024-01-09 | 2,801 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

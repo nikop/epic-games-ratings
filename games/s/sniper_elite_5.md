@@ -6,11 +6,11 @@ Rating: 4.47 (Ranked 664)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,996 |
-| Confirming Suspicions | 42.00% | ~1,783 |
-| The Kraken Wakes | 38.00% | ~1,613 |
+| Confirming Suspicions | 42.00% | ~1,784 |
+| The Kraken Wakes | 38.00% | ~1,614 |
 | It's Starting to Crack | 34.00% | ~1,444 |
 | Change the Channel | 32.00% | ~1,359 |
-| Lord of War | 31.00% | ~1,316 |
+| Lord of War | 31.00% | ~1,317 |
 | Taking it back | 30.00% | ~1,274 |
 | Resourceful | 28.00% | ~1,189 |
 | Target America | 28.00% | ~1,189 |
@@ -19,21 +19,21 @@ Rating: 4.47 (Ranked 664)
 | Liberté | 23.00% | ~977 |
 | Organ Grinder | 23.00% | ~977 |
 | Sharpshooter | 23.00% | ~977 |
-| Explosive Efficiency | 20.00% | ~849 |
 | Gunslinger | 19.00% | ~807 |
+| Explosive Efficiency | 19.00% | ~807 |
 | Climbing the Ladder | 17.00% | ~722 |
 | Just a Flesh Wound | 17.00% | ~722 |
 | Der Geist | 17.00% | ~722 |
-| Close Quarters | 16.00% | ~679 |
-| Snake in the Grass | 16.00% | ~679 |
-| Brains of the Operation | 16.00% | ~679 |
+| Close Quarters | 16.00% | ~680 |
+| Snake in the Grass | 16.00% | ~680 |
+| Brains of the Operation | 16.00% | ~680 |
 | No Stone Unturned | 15.00% | ~637 |
 | Skirmisher | 15.00% | ~637 |
 | Die Nussknacker Sweet! | 15.00% | ~637 |
-| Opposing Force | 14.00% | ~594 |
-| Enemy at the Gates | 14.00% | ~594 |
-| Fields of Glory | 14.00% | ~594 |
-| Set Europe Ablaze | 14.00% | ~594 |
+| Opposing Force | 14.00% | ~595 |
+| Enemy at the Gates | 14.00% | ~595 |
+| Fields of Glory | 14.00% | ~595 |
+| Set Europe Ablaze | 14.00% | ~595 |
 | Precision Is Key | 10.00% | ~425 |
 | My Little Friend | 10.00% | ~425 |
 | Rigged to Blow | 9.00% | ~382 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 664)
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,246 (Ranked 210)  
+Progressed: 4,247 (Ranked 210)  
 Completed: 11 (0.26%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 11 (0.26%) (Ranked 263)
 | 2024-01-06 | 4,225 | 11 |
 | 2024-01-07 | 4,237 | 11 |
 | 2024-01-08 | 4,244 | 11 |
-| 2024-01-09 | 4,246 | 11 |
+| 2024-01-09 | 4,247 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 529)  
 Sum: 29 (Ranked 545)  

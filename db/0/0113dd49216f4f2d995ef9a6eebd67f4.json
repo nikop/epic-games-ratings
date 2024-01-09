@@ -3,9 +3,9 @@
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 412,
-  "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 261,
+  "EOS_Progressed": 262,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
@@ -1174,6 +1174,11 @@
       "Time": "2024-01-09T13:25:34.5426045+00:00",
       "NumProgressed": 261,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T16:09:44.376089+00:00",
+      "NumProgressed": 262,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1240,25 +1245,25 @@
       "ID": "SG_CHARISMATIC",
       "SetID": "bj5g0n4",
       "Name": "Charismatic",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "SG_CUNNING",
       "SetID": "bj5g0n4",
       "Name": "Cunning",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 191
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1282,7 +1287,7 @@
       "Name": "God Of The Sun",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "SG_HEARTBREAKER",
@@ -1306,7 +1311,7 @@
       "Name": "Lost In A Song",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "SG_MAESTRO",
@@ -1336,9 +1341,9 @@
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1408,9 +1413,9 @@
       "ID": "SG_THEDEEPEND",
       "SetID": "bj5g0n4",
       "Name": "The Deep End",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -1481,14 +1486,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 261,
+      "Progressed": 262,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-09T15:08:47.1174672+00:00",
+  "LastChanged_Achievements": "2024-01-09T16:09:44.3760886+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-09T14:59:26.4562329+00:00",
-  "LastUpdate_Achievements": "2024-01-09T15:08:47.1175009+00:00"
+  "LastUpdate_Ratings": "2024-01-09T16:01:08.8472331+00:00",
+  "LastUpdate_Achievements": "2024-01-09T16:09:44.3761181+00:00"
 }

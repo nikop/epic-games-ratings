@@ -9,10 +9,10 @@
 | New recruit | 25.00% | ~8 |
 | Interesting | 25.00% | ~8 |
 | Amateur photographer | 19.00% | ~6 |
+| Power of the dolphin | 16.00% | ~5 |
 | Let's get started | 13.00% | ~4 |
 | Rescuer | 13.00% | ~4 |
 | In search of knowledge | 13.00% | ~4 |
-| Power of the dolphin | 13.00% | ~4 |
 | Power of the ray | 13.00% | ~4 |
 | Pro Photographer | 9.00% | ~3 |
 | Recycling expert | 9.00% | ~3 |
@@ -38,7 +38,7 @@
 | Island cleanup | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 32 (Ranked 589)  
-Completed: 0 (0.00%) (Ranked 395)  
+Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

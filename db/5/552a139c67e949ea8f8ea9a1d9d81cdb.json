@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1904,
+  "EOS_Progressed": 1907,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4837,6 +4837,11 @@
       "Time": "2024-01-09T11:05:11.2928346+00:00",
       "NumProgressed": 1904,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T16:06:49.1979014+00:00",
+      "NumProgressed": 1907,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4847,9 +4852,9 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "5k00jcd",
       "Name": "Rookie",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 286
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4857,7 +4862,7 @@
       "Name": "Acrobat",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -4865,7 +4870,7 @@
       "Name": "Out of control",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -4993,7 +4998,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -5105,7 +5110,7 @@
       "Name": "Spin the wheel",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -5183,9 +5188,9 @@
       "ID": "ML_ACHIEVEMENT_43",
       "SetID": "5k00jcd",
       "Name": "Mission complete",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 191
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -5201,7 +5206,7 @@
       "Name": "The Speed of Silence",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -5216,20 +5221,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1904,
+      "Progressed": 1907,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1572,
+      "Progressed": 1575,
       "Completed": 1010
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-09T15:05:12.4870927+00:00",
+  "LastChanged_Achievements": "2024-01-09T16:06:49.1979012+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-09T14:58:09.8642733+00:00",
-  "LastUpdate_Achievements": "2024-01-09T15:05:12.4871434+00:00"
+  "LastUpdate_Ratings": "2024-01-09T15:59:13.9810364+00:00",
+  "LastUpdate_Achievements": "2024-01-09T16:06:49.1979463+00:00"
 }

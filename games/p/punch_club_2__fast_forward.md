@@ -26,8 +26,8 @@
 | Law student | 56.00% | ~314 |
 | Handyman | 54.00% | ~302 |
 | Workout professional | 53.00% | ~297 |
+| Fight for life | 53.00% | ~297 |
 | Champion – starter pack | 53.00% | ~297 |
-| Fight for life | 52.00% | ~291 |
 | Little hacker | 52.00% | ~291 |
 | It's good to be alive | 52.00% | ~291 |
 | Intriguing candies | 52.00% | ~291 |
@@ -39,7 +39,7 @@
 | Fight is life | 41.00% | ~230 |
 | Guiding on the right path | 41.00% | ~230 |
 | Now you are worthy | 40.00% | ~224 |
-| Mysterious voice | 39.00% | ~218 |
+| Mysterious voice | 40.00% | ~224 |
 | No blades in the gym | 38.00% | ~213 |
 | Champion – no way back | 36.00% | ~202 |
 | Responsible approach | 36.00% | ~202 |

@@ -3,9 +3,9 @@
   "Name": "Grim Nights",
   "ProductSlug": "grim-nights-fa4c5a",
   "Ranking_EOS_Progress": 534,
-  "Ranking_EOS_Completed": 395,
+  "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 529,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-24T23:00:00+00:00",
     "PcReleaseDate": "2018-10-11T22:00:00+00:00",
@@ -368,9 +368,9 @@
       "ID": "ach_boss2",
       "SetID": "c2c0fb6",
       "Name": "Slay that one too!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 150,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_boss3",
@@ -464,9 +464,9 @@
       "ID": "ach_slay1000",
       "SetID": "c2c0fb6",
       "Name": "Slaughter",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_slay2000",
@@ -489,8 +489,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2024-01-09T15:05:15.897595+00:00",
+  "LastChanged_Achievements": "2024-01-09T16:06:53.9884592+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.7194054+00:00",
-  "LastUpdate_Ratings": "2024-01-09T14:58:39.3771659+00:00",
-  "LastUpdate_Achievements": "2024-01-09T15:05:15.8976117+00:00"
+  "LastUpdate_Ratings": "2024-01-09T15:59:58.1159906+00:00",
+  "LastUpdate_Achievements": "2024-01-09T16:06:53.9884752+00:00"
 }

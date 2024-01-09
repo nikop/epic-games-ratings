@@ -3,12 +3,12 @@
   "Name": "Lords Mobile",
   "ProductSlug": "lords-mobile-014f32",
   "Ranking_Rating": 826,
-  "Ranking_Popularity": 534,
-  "Ranking_PopularitySum": 550,
+  "Ranking_Popularity": 535,
+  "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 822,
-  "Ranking_EOS_Completed": 395,
+  "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 575,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-07-17T05:00:00+00:00",
     "PcReleaseDate": "2019-06-02T16:00:00+00:00",
@@ -333,6 +333,6 @@
   "FirstSeenRating": "2023-08-16T11:57:42.6574422+00:00",
   "LastChanged": "2024-01-07T11:00:54.4286675+00:00",
   "LastUpdate_AppInfo": "2024-01-05T20:57:00.5949027+00:00",
-  "LastUpdate_Ratings": "2024-01-09T15:02:38.9988132+00:00",
-  "LastUpdate_Achievements": "2024-01-09T15:04:18.2192848+00:00"
+  "LastUpdate_Ratings": "2024-01-09T16:02:39.5413096+00:00",
+  "LastUpdate_Achievements": "2024-01-09T16:05:33.9005986+00:00"
 }

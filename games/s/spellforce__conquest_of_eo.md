@@ -54,13 +54,13 @@
 | Get to the Airship! | 6.00% | ~8 |
 | Defeat Hokan | 6.00% | ~8 |
 | Defeat Ianna | 6.00% | ~8 |
+| Elynn's Tale | 6.00% | ~8 |
 | Lore's Tale | 6.00% | ~8 |
 | Master Artificer | 6.00% | ~8 |
 | Balanced | 6.00% | ~8 |
 | Friend of Grey Dusk Vale | 6.00% | ~8 |
 | Defeat Undergast | 5.00% | ~7 |
 | Defeat Yria | 5.00% | ~7 |
-| Elynn's Tale | 5.00% | ~7 |
 | Lytra's Tale | 5.00% | ~7 |
 | My Friends! | 5.00% | ~7 |
 | Master Necromancer | 5.00% | ~7 |
@@ -76,7 +76,7 @@
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 132 (Ranked 473)  
-Completed: 0 (0.00%) (Ranked 395)  
+Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

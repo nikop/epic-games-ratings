@@ -5,9 +5,9 @@ Rating: 4.57 (Ranked 499)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Complete Guard Faction | 3.00% | ~70 |
 | Become King | 2.00% | ~46 |
 | Collect Monster Parts | 2.00% | ~46 |
-| Complete Guard Faction | 2.00% | ~46 |
 | Ranged Weapon | 2.00% | ~46 |
 | Two Handed Weapon | 2.00% | ~46 |
 | Defeat 25 Grubs | 2.00% | ~46 |

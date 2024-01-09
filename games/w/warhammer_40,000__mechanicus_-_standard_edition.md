@@ -5,26 +5,26 @@ Rating: 4.43 (Ranked 725)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~60,270 |
-| This is only the beginning | 20.00% | ~46,362 |
-| Knowledge is power | 13.00% | ~30,135 |
-| Galvanic Rifle | 10.00% | ~23,181 |
-| Radium Ready | 10.00% | ~23,181 |
-| Power Ranger | 9.00% | ~20,863 |
-| Taser Goad | 9.00% | ~20,863 |
-| Half a cog | 9.00% | ~20,863 |
-| Watch them crumble | 6.00% | ~13,908 |
-| Competent Cohort | 4.00% | ~9,272 |
-| Celestial Cartography Catastrophe | 4.00% | ~9,272 |
-| One with the Machine | 4.00% | ~9,272 |
-| Legio Cybernetica | 3.00% | ~6,954 |
-| Fleshy Disposal | 3.00% | ~6,954 |
+| No aid from the Omnissiah | 26.00% | ~60,272 |
+| This is only the beginning | 20.00% | ~46,363 |
+| Knowledge is power | 13.00% | ~30,136 |
+| Galvanic Rifle | 10.00% | ~23,182 |
+| Radium Ready | 10.00% | ~23,182 |
+| Power Ranger | 9.00% | ~20,864 |
+| Taser Goad | 9.00% | ~20,864 |
+| Half a cog | 9.00% | ~20,864 |
+| Watch them crumble | 6.00% | ~13,909 |
+| Competent Cohort | 4.00% | ~9,273 |
+| Celestial Cartography Catastrophe | 4.00% | ~9,273 |
+| One with the Machine | 4.00% | ~9,273 |
+| Legio Cybernetica | 3.00% | ~6,955 |
+| Fleshy Disposal | 3.00% | ~6,955 |
 | Battle Servitor | 2.00% | ~4,636 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,636 |
 | Impatient destruction | 2.00% | ~4,636 |
 | Vivisected Vizier | 2.00% | ~4,636 |
 | Architect Abortion | 2.00% | ~4,636 |
-| Cohortus Maximus | 0.80% | ~1,854 |
+| Cohortus Maximus | 0.80% | ~1,855 |
 | Mother of Xenarites | 0.40% | ~927 |
 | False God | 0.30% | ~695 |
 | Hard | 0.20% | ~464 |
@@ -40,8 +40,8 @@ Rating: 4.43 (Ranked 725)
 | Perma-live | 0.10% | ~232 |
 | Purge the Heretek | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,808 (Ranked 77)  
-Completed: 5 (0.00%) (Ranked 395)  
+Progressed: 231,817 (Ranked 77)  
+Completed: 5 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -304,7 +304,7 @@ Completed: 5 (0.00%) (Ranked 395)
 | 2024-01-06 | 231,558 | 5 |
 | 2024-01-07 | 231,678 | 5 |
 | 2024-01-08 | 231,760 | 5 |
-| 2024-01-09 | 231,808 | 5 |
+| 2024-01-09 | 231,817 | 5 |
 ## Awards
 Max (Highly Recommended): 292  (Ranked 265)  
 Sum: 2,227 (Ranked 210)  

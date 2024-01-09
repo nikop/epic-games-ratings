@@ -3,9 +3,9 @@
   "Name": "SteamWorld Build",
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 414,
-  "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 258,
+  "EOS_Progressed": 259,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1064,6 +1064,11 @@
       "Time": "2024-01-09T12:06:39.4443623+00:00",
       "NumProgressed": 258,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T16:08:30.7625491+00:00",
+      "NumProgressed": 259,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T14:06:40.4198033+00:00",
@@ -1082,9 +1087,9 @@
       "ID": "Aristocratic",
       "SetID": "4bd750m",
       "Name": "Aristocratic",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 163
     },
     {
       "ID": "Botropolis",
@@ -1108,7 +1113,7 @@
       "Name": "Conducted Trade",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "DiggingAHole",
@@ -1132,7 +1137,7 @@
       "Name": "Going Places",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "GottaGoFast",
@@ -1164,15 +1169,15 @@
       "Name": "It\u0027s Yours, My Friend",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ManicMechanic",
       "SetID": "4bd750m",
       "Name": "Manic Mechanic",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "Mathematic",
@@ -1180,15 +1185,15 @@
       "Name": "Mathematic",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "MineSweeper",
       "SetID": "4bd750m",
       "Name": "Mine Sweeper",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 109
     },
     {
       "ID": "NothingButRoad",
@@ -1226,9 +1231,9 @@
       "ID": "SlottingMachine",
       "SetID": "4bd750m",
       "Name": "Slotting Machine",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 119
     },
     {
       "ID": "StackOverflow",
@@ -1250,9 +1255,9 @@
       "ID": "SteamingRich",
       "SetID": "4bd750m",
       "Name": "Steaming Rich",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "Systematic",
@@ -1282,9 +1287,9 @@
       "ID": "Whoa",
       "SetID": "4bd750m",
       "Name": "Whoa!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "Yup",
@@ -1299,14 +1304,14 @@
     {
       "ID": "4bd750m",
       "IsBase": true,
-      "Progressed": 258,
+      "Progressed": 259,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-09T15:06:23.6316747+00:00",
+  "LastChanged_Achievements": "2024-01-09T16:08:30.7625487+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.7828616+00:00",
-  "LastUpdate_Ratings": "2024-01-09T15:03:09.0527399+00:00",
-  "LastUpdate_Achievements": "2024-01-09T15:06:23.6317202+00:00"
+  "LastUpdate_Ratings": "2024-01-09T16:03:54.4324461+00:00",
+  "LastUpdate_Achievements": "2024-01-09T16:08:30.7625852+00:00"
 }

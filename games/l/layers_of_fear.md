@@ -9,8 +9,8 @@
 | It's covered up for a reason | 59.00% | ~176 |
 | Wanderer | 53.00% | ~158 |
 | Scraps of love | 50.00% | ~150 |
-| The artist’s impression | 47.00% | ~141 |
-| Do what you have to | 42.00% | ~126 |
+| The artist’s impression | 48.00% | ~144 |
+| Do what you have to | 43.00% | ~129 |
 | Sign of weakness | 40.00% | ~120 |
 | Refuse to look | 35.00% | ~105 |
 | Face your fears | 30.00% | ~90 |
@@ -58,7 +58,7 @@
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 299 (Ranked 398)  
-Completed: 0 (0.00%) (Ranked 395)  
+Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

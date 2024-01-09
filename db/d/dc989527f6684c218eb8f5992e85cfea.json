@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 172,
-  "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -41,9 +41,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15381,
+  "EOS_Progressed": 15383,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18671,6 +18671,11 @@
       "Time": "2024-01-09T15:05:55.4206874+00:00",
       "NumProgressed": 15381,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T16:07:51.2116191+00:00",
+      "NumProgressed": 15383,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -18754,7 +18759,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 6768
+      "UsersEstimate": 6769
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -18850,7 +18855,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3076
+      "UsersEstimate": 3077
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -18881,7 +18886,7 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 15381,
+      "Progressed": 15383,
       "Completed": 0
     }
   ],
@@ -18889,8 +18894,8 @@
   "FirstSeenRating": "2023-12-27T16:58:07.3955203+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
   "LastChanged": "2024-01-06T16:59:02.2017011+00:00",
-  "LastChanged_Achievements": "2024-01-09T15:05:55.4206869+00:00",
+  "LastChanged_Achievements": "2024-01-09T16:07:51.2116185+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:03.4355937+00:00",
-  "LastUpdate_Ratings": "2024-01-09T15:00:12.7994035+00:00",
-  "LastUpdate_Achievements": "2024-01-09T15:05:55.4208203+00:00"
+  "LastUpdate_Ratings": "2024-01-09T16:02:16.8792128+00:00",
+  "LastUpdate_Achievements": "2024-01-09T16:07:51.2117377+00:00"
 }

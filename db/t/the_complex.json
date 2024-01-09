@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 813,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.71,
   "EosHistory": [
@@ -1862,9 +1862,9 @@
       "ID": "falling_for_you",
       "SetID": "d4f4pll",
       "Name": "Falling For You",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 341
+      "UsersEstimate": 350
     },
     {
       "ID": "free_champagne",
@@ -1918,9 +1918,9 @@
       "ID": "the_rebel_and_the_doctor",
       "SetID": "d4f4pll",
       "Name": "The Rebel And The Doctor",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 455
+      "UsersEstimate": 463
     },
     {
       "ID": "tough_decision",
@@ -1943,8 +1943,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2024-01-09T15:09:22.9534587+00:00",
+  "LastChanged_Achievements": "2024-01-09T16:10:34.1980452+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:38.6088522+00:00",
-  "LastUpdate_Ratings": "2024-01-09T15:02:48.5409107+00:00",
-  "LastUpdate_Achievements": "2024-01-09T15:09:22.9535015+00:00"
+  "LastUpdate_Ratings": "2024-01-09T16:03:24.3939064+00:00",
+  "LastUpdate_Achievements": "2024-01-09T16:10:34.1980725+00:00"
 }

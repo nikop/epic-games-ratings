@@ -2,13 +2,13 @@
   "ID": "5424c96246c54737aad95daa7fe724f8",
   "Name": "Occupy Mars: The Game",
   "ProductSlug": "occupy-mars",
-  "Ranking_Rating": 1043,
+  "Ranking_Rating": 1042,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 254,
-  "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.02,
+  "Rating": 4.03,
   "RatingHistory": [
     {
       "Time": "2023-05-17T09:57:13.2048269+00:00",
@@ -331,15 +331,21 @@
       "Rating": 4.02,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-09T16:02:23.0830003+00:00",
+      "Rating": 4.03,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1868,
+  "EOS_Progressed": 1869,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4957,6 +4963,11 @@
       "Time": "2024-01-09T15:09:14.21042+00:00",
       "NumProgressed": 1868,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T16:10:22.2210842+00:00",
+      "NumProgressed": 1869,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5048,7 +5059,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -5072,7 +5083,7 @@
       "Name": "All Wheel Trouble",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "NEW_ACHIEVEMENT_BAREEL_ROLL",
@@ -5144,7 +5155,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -5168,7 +5179,7 @@
       "Name": "Get your hands dirty",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -5240,7 +5251,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -5351,16 +5362,16 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1868,
+      "Progressed": 1869,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-10T20:57:26.0655367+00:00",
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
-  "LastChanged": "2023-12-25T15:00:25.6690232+00:00",
-  "LastChanged_Achievements": "2024-01-09T15:09:14.2104196+00:00",
+  "LastChanged": "2024-01-09T16:02:23.0830001+00:00",
+  "LastChanged_Achievements": "2024-01-09T16:10:22.2210838+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.830509+00:00",
-  "LastUpdate_Ratings": "2024-01-09T15:00:17.0253305+00:00",
-  "LastUpdate_Achievements": "2024-01-09T15:09:14.2104747+00:00"
+  "LastUpdate_Ratings": "2024-01-09T16:02:23.0830008+00:00",
+  "LastUpdate_Achievements": "2024-01-09T16:10:22.2211495+00:00"
 }

@@ -5,24 +5,24 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meissa's Savior | 85.00% | ~309 |
-| Purification Pioneer | 79.00% | ~287 |
+| Purification Pioneer | 80.00% | ~291 |
 | Mechanical Buddy | 74.00% | ~269 |
-| Dicesmithing Time! | 64.00% | ~232 |
-| Sanctuary Guardian | 54.00% | ~196 |
-| Endless Tricks | 51.00% | ~185 |
-| Wild's Keeper | 48.00% | ~174 |
+| Dicesmithing Time! | 64.00% | ~233 |
+| Sanctuary Guardian | 54.00% | ~197 |
+| Endless Tricks | 51.00% | ~186 |
+| Wild's Keeper | 48.00% | ~175 |
 | Mind Illuminator | 44.00% | ~160 |
 | Stellar Dismantler | 38.00% | ~138 |
 | Astral Adventurer | 35.00% | ~127 |
 | Noctuan Champion | 35.00% | ~127 |
 | Anomaly Destroyer | 31.00% | ~113 |
-| Star Killer | 31.00% | ~113 |
-| Eridanian Champion | 26.00% | ~94 |
+| Star Killer | 30.00% | ~109 |
+| Eridanian Champion | 26.00% | ~95 |
 | Loyal Partner | 22.00% | ~80 |
 | Lacertian Champion | 21.00% | ~76 |
 | Apian Champion | 19.00% | ~69 |
-| Shard Spender | 18.00% | ~65 |
-| Unbeatable | 18.00% | ~65 |
+| Shard Spender | 18.00% | ~66 |
+| Unbeatable | 18.00% | ~66 |
 | Sadistic Plan | 16.00% | ~58 |
 | Behenian Champion | 14.00% | ~51 |
 | Heavy Purger | 12.00% | ~44 |
@@ -33,9 +33,9 @@
 | Stellar Haste | 8.00% | ~29 |
 | The Corruption Goddess | 7.00% | ~25 |
 | The Goddes Avatar | 7.00% | ~25 |
-| Artificer | 6.00% | ~22 |
 | Favored by the Cosmos | 6.00% | ~22 |
 | Anomaly Control | 5.00% | ~18 |
+| Artificer | 5.00% | ~18 |
 | Can't touch this | 5.00% | ~18 |
 | Prestidigitation | 5.00% | ~18 |
 | Apian Hero | 5.00% | ~18 |
@@ -69,12 +69,12 @@
 | Eridanian Mastery | 1.00% | ~4 |
 | Plague Doctor | 0.80% | ~3 |
 | Royal Choir | 0.80% | ~3 |
-| Astral Tinkerer | 0.60% | ~2 |
-| Astrea's Saviors | 0.60% | ~2 |
-| Astrium Specialist | 0.60% | ~2 |
-| Six-Sided Mastery | 0.60% | ~2 |
-| The world goes round... | 0.60% | ~2 |
-| This is Fine | 0.60% | ~2 |
+| Astral Tinkerer | 0.50% | ~2 |
+| Astrea's Saviors | 0.50% | ~2 |
+| Astrium Specialist | 0.50% | ~2 |
+| Six-Sided Mastery | 0.50% | ~2 |
+| The world goes round... | 0.50% | ~2 |
+| This is Fine | 0.50% | ~2 |
 | Arch-Oracle | 0.30% | ~1 |
 | Dice Specialist | 0.30% | ~1 |
 | Gotta tinker'em all! | 0.30% | ~1 |
@@ -103,8 +103,8 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363 (Ranked 376)  
-Completed: 0 (0.00%) (Ranked 395)  
+Progressed: 364 (Ranked 375)  
+Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -178,4 +178,4 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 347 | 0 |
 | 2024-01-07 | 354 | 0 |
 | 2024-01-08 | 360 | 0 |
-| 2024-01-09 | 363 | 0 |
+| 2024-01-09 | 364 | 0 |

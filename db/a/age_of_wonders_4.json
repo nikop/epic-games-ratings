@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -741,9 +741,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7109,
+  "EOS_Progressed": 7113,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10861,6 +10861,11 @@
       "Time": "2024-01-09T14:05:35.6640027+00:00",
       "NumProgressed": 7109,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-09T16:07:22.0288571+00:00",
+      "NumProgressed": 7113,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10920,7 +10925,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "16",
@@ -10960,7 +10965,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "20",
@@ -10984,7 +10989,7 @@
       "Name": "Realm Estate",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "23",
@@ -10992,7 +10997,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "24",
@@ -11008,7 +11013,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "26",
@@ -11024,7 +11029,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "28",
@@ -11032,7 +11037,7 @@
       "Name": "From Friends to Family",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "29",
@@ -11072,7 +11077,7 @@
       "Name": "My Final Form",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "33",
@@ -11112,7 +11117,7 @@
       "Name": "Against the Odds",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "38",
@@ -11128,7 +11133,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "4",
@@ -11336,7 +11341,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "60",
@@ -11351,13 +11356,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7109,
+      "Progressed": 7113,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7109,
+      "Progressed": 7113,
       "Completed": 7
     }
   ],
@@ -11365,8 +11370,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-09T03:57:10.1517574+00:00",
-  "LastChanged_Achievements": "2024-01-09T15:05:35.0345023+00:00",
+  "LastChanged_Achievements": "2024-01-09T16:07:22.0288569+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-09T14:57:13.9197235+00:00",
-  "LastUpdate_Achievements": "2024-01-09T15:05:35.0345858+00:00"
+  "LastUpdate_Ratings": "2024-01-09T15:57:51.2983096+00:00",
+  "LastUpdate_Achievements": "2024-01-09T16:07:22.0289505+00:00"
 }

@@ -3,9 +3,9 @@
 [View Rawdata](../../db/w/wrc_generations.json)  
 Rating: 4.48 (Ranked 657)  
 ## Awards
-Max (Great for Beginners): 26  (Ranked 544)  
+Max (Great for Beginners): 26  (Ranked 545)  
 Sum: 49 (Ranked 511)  
-Diff (max vs sum): 33  
+Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 26 |

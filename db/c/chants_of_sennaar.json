@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 235,
-  "Ranking_EOS_Completed": 62,
+  "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -127,11 +127,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2603,
-  "EOS_Completed": 181,
-  "EOS_NewPlayers": 384,
-  "EOS_NewCompleters": 42,
-  "EOS_Completed_Percentage": 6.95,
+  "EOS_Progressed": 2604,
+  "EOS_Completed": 183,
+  "EOS_NewPlayers": 383,
+  "EOS_NewCompleters": 44,
+  "EOS_Completed_Percentage": 7.03,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -6857,6 +6857,11 @@
       "Time": "2024-01-09T15:06:26.2249745+00:00",
       "NumProgressed": 2603,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2024-01-09T16:08:34.4089947+00:00",
+      "NumProgressed": 2604,
+      "NumCompleted": 183
     }
   ],
   "TotalAchievements": 25,
@@ -6940,7 +6945,7 @@
       "Name": "A great audience",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "META_RESULT_2-4",
@@ -6948,7 +6953,7 @@
       "Name": "For its own good",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "META_RESULT_3-4",
@@ -6956,7 +6961,7 @@
       "Name": "A Link to the Past",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -6988,7 +6993,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -7036,7 +7041,7 @@
       "Name": "The great escape",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "PROGRESS_N3",
@@ -7067,16 +7072,16 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2603,
-      "Completed": 181
+      "Progressed": 2604,
+      "Completed": 183
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-09T15:06:26.2249741+00:00",
+  "LastChanged_Achievements": "2024-01-09T16:08:34.4089944+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-09T14:59:05.715981+00:00",
-  "LastUpdate_Achievements": "2024-01-09T15:06:26.2250263+00:00"
+  "LastUpdate_Ratings": "2024-01-09T16:00:39.3734728+00:00",
+  "LastUpdate_Achievements": "2024-01-09T16:08:34.4090364+00:00"
 }

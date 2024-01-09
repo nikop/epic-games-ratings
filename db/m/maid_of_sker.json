@@ -3,9 +3,9 @@
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 404,
-  "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 288,
+  "EOS_Progressed": 290,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -805,6 +805,11 @@
       "Time": "2024-01-09T00:03:23.539325+00:00",
       "NumProgressed": 288,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T16:04:40.3694889+00:00",
+      "NumProgressed": 290,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -814,9 +819,9 @@
       "ID": "animal_lover",
       "SetID": "3j2phem",
       "Name": "Animal Lover",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 90
     },
     {
       "ID": "axe_of_kindness",
@@ -854,9 +859,9 @@
       "ID": "choking_hazzard",
       "SetID": "3j2phem",
       "Name": "Choking Hazard",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 122
     },
     {
       "ID": "dodgy_geezer",
@@ -870,17 +875,17 @@
       "ID": "dont_breath",
       "SetID": "3j2phem",
       "Name": "Don\u0027t Breathe",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 86
+      "UsersEstimate": 84
     },
     {
       "ID": "easy_listening",
       "SetID": "3j2phem",
       "Name": "Easy Listening",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "ending_on_a_high_note",
@@ -1000,7 +1005,7 @@
       "Name": "Rapturous Applause!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "scholar",
@@ -1055,7 +1060,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 288,
+      "Progressed": 290,
       "Completed": 0
     }
   ],
@@ -1063,8 +1068,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2024-01-09T15:03:40.0997234+00:00",
+  "LastChanged_Achievements": "2024-01-09T16:04:40.3694884+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:28.9331168+00:00",
-  "LastUpdate_Ratings": "2024-01-09T14:58:01.2149262+00:00",
-  "LastUpdate_Achievements": "2024-01-09T15:03:40.0997525+00:00"
+  "LastUpdate_Ratings": "2024-01-09T15:59:01.3101795+00:00",
+  "LastUpdate_Achievements": "2024-01-09T16:04:40.3695222+00:00"
 }

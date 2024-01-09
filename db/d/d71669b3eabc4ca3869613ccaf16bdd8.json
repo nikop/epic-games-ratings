@@ -3,9 +3,9 @@
   "Name": "PACK MY STUFF",
   "ProductSlug": "pack-my-stuff-c036a9",
   "Ranking_EOS_Progress": 822,
-  "Ranking_EOS_Completed": 395,
+  "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 575,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-08T13:01:57.1720737+00:00",
-  "LastUpdate_Ratings": "2024-01-09T14:58:51.6685194+00:00",
-  "LastUpdate_Achievements": "2024-01-09T15:08:50.1301787+00:00"
+  "LastUpdate_Ratings": "2024-01-09T16:00:15.3993402+00:00",
+  "LastUpdate_Achievements": "2024-01-09T16:09:48.6000088+00:00"
 }

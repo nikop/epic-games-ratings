@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 223,
-  "Ranking_EOS_Completed": 395,
+  "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3479,
+  "EOS_Progressed": 3480,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8536,6 +8536,11 @@
       "Time": "2024-01-09T14:03:31.6995071+00:00",
       "NumProgressed": 3479,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T16:04:28.5174348+00:00",
+      "NumProgressed": 3480,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8556,7 +8561,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -8564,7 +8569,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -8620,7 +8625,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -8652,7 +8657,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -8836,7 +8841,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -8900,7 +8905,7 @@
       "Name": "Rivals to the End",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -8939,7 +8944,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3479,
+      "Progressed": 3480,
       "Completed": 0
     }
   ],
@@ -8947,8 +8952,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-09T14:57:26.7044021+00:00",
-  "LastChanged_Achievements": "2024-01-09T15:03:31.2874705+00:00",
+  "LastChanged_Achievements": "2024-01-09T16:04:28.5174345+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.6681713+00:00",
-  "LastUpdate_Ratings": "2024-01-09T14:57:26.7044025+00:00",
-  "LastUpdate_Achievements": "2024-01-09T15:03:31.2875495+00:00"
+  "LastUpdate_Ratings": "2024-01-09T15:58:10.8709266+00:00",
+  "LastUpdate_Achievements": "2024-01-09T16:04:28.5175177+00:00"
 }

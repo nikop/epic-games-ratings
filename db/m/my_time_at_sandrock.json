@@ -6,9 +6,9 @@
   "Ranking_Popularity": 202,
   "Ranking_PopularitySum": 245,
   "Ranking_EOS_Progress": 303,
-  "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -2174,7 +2174,7 @@
   ],
   "EOS_Progressed": 883,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9773,9 +9773,9 @@
       "ID": "P_FOREST",
       "SetID": "80dcan0",
       "Name": "The Little Wood that Could",
-      "Percentage": 117,
+      "Percentage": 118,
       "XP": 20,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1042
     },
     {
       "ID": "P_HYDROGEL",
@@ -9805,9 +9805,9 @@
       "ID": "P_OFFICIAL",
       "SetID": "80dcan0",
       "Name": "Officially Official",
-      "Percentage": 121,
+      "Percentage": 122,
       "XP": 10,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1077
     },
     {
       "ID": "P_OWENSTORY",
@@ -10045,9 +10045,9 @@
       "ID": "X_GET_DIAMOND",
       "SetID": "80dcan0",
       "Name": "Diamonds are Forever",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 786
+      "UsersEstimate": 795
     },
     {
       "ID": "X_GET_FECE",
@@ -10085,8 +10085,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2024-01-09T03:58:37.1857508+00:00",
-  "LastChanged_Achievements": "2024-01-09T15:08:34.9420925+00:00",
+  "LastChanged_Achievements": "2024-01-09T16:09:27.0174168+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:07.0919525+00:00",
-  "LastUpdate_Ratings": "2024-01-09T14:58:47.6726748+00:00",
-  "LastUpdate_Achievements": "2024-01-09T15:08:34.9421739+00:00"
+  "LastUpdate_Ratings": "2024-01-09T16:00:09.3302505+00:00",
+  "LastUpdate_Achievements": "2024-01-09T16:09:27.0174846+00:00"
 }

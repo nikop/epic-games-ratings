@@ -36,6 +36,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 1.00% | ~163 |
 | Babylonian Paganism | 1.00% | ~163 |
 | Greek Paganism | 1.00% | ~163 |
+| Zoroastrianism | 1.00% | ~163 |
 | Naming Landmarks | 1.00% | ~163 |
 | Trade Caravan | 1.00% | ~163 |
 | Brilliant | 0.90% | ~147 |
@@ -44,7 +45,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 0.90% | ~147 |
 | Christianity | 0.90% | ~147 |
 | Roman Paganism | 0.90% | ~147 |
-| Zoroastrianism | 0.90% | ~147 |
+| Great | 0.80% | ~130 |
 | Wise | 0.80% | ~130 |
 | Able Difficulty | 0.80% | ~130 |
 | Furious Family | 0.80% | ~130 |
@@ -53,7 +54,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.80% | ~130 |
 | Regicide | 0.70% | ~114 |
 | Drillmaster | 0.70% | ~114 |
-| Great | 0.70% | ~114 |
 | Legendary Cities | 0.70% | ~114 |
 | Acropolis | 0.70% | ~114 |
 | Mausoleum | 0.70% | ~114 |
@@ -112,6 +112,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.30% | ~49 |
 | Babylonia | 0.30% | ~49 |
 | Carthage | 0.30% | ~49 |
+| Egypt | 0.30% | ~49 |
 | Rome | 0.30% | ~49 |
 | Assyrian Paganism | 0.30% | ~49 |
 | Industrial Progress | 0.30% | ~49 |
@@ -137,7 +138,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.20% | ~33 |
 | Cao'an | 0.20% | ~33 |
 | Learn to Play 5 | 0.20% | ~33 |
-| Egypt | 0.20% | ~33 |
 | One True Faith | 0.20% | ~33 |
 | Pantheon of Gods | 0.20% | ~33 |
 | Hittite Paganism | 0.20% | ~33 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,290 (Ranked 169)  
+Progressed: 16,293 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
-| 2024-01-09 | 16,290 | 5 |
+| 2024-01-09 | 16,293 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,918 (Ranked 223)  

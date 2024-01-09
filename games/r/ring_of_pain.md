@@ -60,11 +60,11 @@ Number of Ratings: 15,086  (23.09.2022)
 | Illuminate, Eliminate | 0.50% | ~1,213 |
 | Doing Time | 0.50% | ~1,213 |
 | Spreading Plague | 0.50% | ~1,213 |
+| Antivenom | 0.50% | ~1,213 |
 | Thank You, Friend | 0.40% | ~971 |
 | A Rough Road | 0.40% | ~971 |
 | Berzerker | 0.40% | ~971 |
 | Chain Reaction | 0.40% | ~971 |
-| Antivenom | 0.40% | ~971 |
 | Snake Sneak | 0.40% | ~971 |
 | The Long Run | 0.40% | ~971 |
 | Who Needs Luck? | 0.40% | ~17 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,676 (Ranked 73)  
+Progressed: 242,677 (Ranked 73)  
 Completed: 304 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,7 +409,7 @@ Completed: 304 (0.13%) (Ranked 298)
 | 2024-01-06 | 242,507 | 304 |
 | 2024-01-07 | 242,574 | 304 |
 | 2024-01-08 | 242,637 | 304 |
-| 2024-01-09 | 242,676 | 304 |
+| 2024-01-09 | 242,677 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 137)  
 Sum: 11,790 (Ranked 89)  

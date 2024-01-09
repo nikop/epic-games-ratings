@@ -5,46 +5,46 @@ Rating: 3.98 (Ranked 1,052)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 71.00% | ~616,955 |
-| Health Junkie | 38.00% | ~330,201 |
-| You Complete Me | 37.00% | ~321,512 |
-| Guardian Angel | 32.00% | ~278,064 |
-| Devil Inside Me | 25.00% | ~217,238 |
-| Fantastic Four | 19.00% | ~165,101 |
-| Killing Spree | 18.00% | ~156,411 |
-| Marksman Novice | 16.00% | ~139,032 |
-| First Blood | 12.00% | ~104,274 |
-| Top 10 | 11.00% | ~95,585 |
-| Now You See Me, Now You Don't | 10.00% | ~86,895 |
-| Marksman Expert | 8.00% | ~69,516 |
-| CQB Novice | 7.00% | ~60,827 |
-| Collateral Damage | 6.00% | ~52,137 |
-| Airborne | 5.00% | ~43,448 |
-| Pacifist | 5.00% | ~43,448 |
-| Last Survivor | 4.00% | ~34,758 |
-| Marksman Master | 3.00% | ~26,069 |
-| Trigonometry Novice | 3.00% | ~26,069 |
-| First Come, First Served | 3.00% | ~26,069 |
-| Dynamic Duo | 3.00% | ~26,069 |
-| Winner Winner Chicken Dinner! | 2.00% | ~17,379 |
-| Okay, Now I'm Ready | 2.00% | ~17,379 |
-| Agent 48 | 2.00% | ~17,379 |
-| Don't Pan Me Bro! | 2.00% | ~17,379 |
-| Fast and Furious | 2.00% | ~17,379 |
-| CQB Expert | 2.00% | ~17,379 |
-| Fury Road | 1.00% | ~8,690 |
-| Ghost | 1.00% | ~8,690 |
-| Cruising with the Enemy | 1.00% | ~8,690 |
-| Nade King Novice | 0.80% | ~6,952 |
-| Master Assassin | 0.80% | ~6,952 |
+| Blood on My Hands | 71.00% | ~617,059 |
+| Health Junkie | 38.00% | ~330,257 |
+| You Complete Me | 37.00% | ~321,566 |
+| Guardian Angel | 32.00% | ~278,111 |
+| Devil Inside Me | 25.00% | ~217,274 |
+| Fantastic Four | 19.00% | ~165,128 |
+| Killing Spree | 18.00% | ~156,437 |
+| Marksman Novice | 16.00% | ~139,056 |
+| First Blood | 12.00% | ~104,292 |
+| Top 10 | 11.00% | ~95,601 |
+| Now You See Me, Now You Don't | 10.00% | ~86,910 |
+| Marksman Expert | 8.00% | ~69,528 |
+| CQB Novice | 7.00% | ~60,837 |
+| Collateral Damage | 6.00% | ~52,146 |
+| Airborne | 5.00% | ~43,455 |
+| Pacifist | 5.00% | ~43,455 |
+| Last Survivor | 4.00% | ~34,764 |
+| Marksman Master | 3.00% | ~26,073 |
+| Trigonometry Novice | 3.00% | ~26,073 |
+| First Come, First Served | 3.00% | ~26,073 |
+| Dynamic Duo | 3.00% | ~26,073 |
+| Winner Winner Chicken Dinner! | 2.00% | ~17,382 |
+| Okay, Now I'm Ready | 2.00% | ~17,382 |
+| Agent 48 | 2.00% | ~17,382 |
+| Don't Pan Me Bro! | 2.00% | ~17,382 |
+| Fast and Furious | 2.00% | ~17,382 |
+| CQB Expert | 2.00% | ~17,382 |
+| Fury Road | 1.00% | ~8,691 |
+| Ghost | 1.00% | ~8,691 |
+| Cruising with the Enemy | 1.00% | ~8,691 |
+| Nade King Novice | 0.80% | ~6,953 |
+| Master Assassin | 0.80% | ~6,953 |
 | CQB Master | 0.40% | ~3,476 |
 | Nade King Expert | 0.20% | ~1,738 |
 | The First Rule Is… | 0.20% | ~1,738 |
 | Nade King Master | 0.10% | ~869 |
 | Shoot the Knee | 0.10% | ~869 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 868,951 (Ranked 19)  
-Completed: 15 (0.00%) (Ranked 395)  
+Progressed: 869,097 (Ranked 19)  
+Completed: 15 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -307,17 +307,17 @@ Completed: 15 (0.00%) (Ranked 395)
 | 2024-01-06 | 860,373 | 14 |
 | 2024-01-07 | 864,389 | 15 |
 | 2024-01-08 | 867,265 | 15 |
-| 2024-01-09 | 868,951 | 15 |
+| 2024-01-09 | 869,097 | 15 |
 ## Awards
 Max (Competitive Players): 6,235  (Ranked 64)  
-Sum: 20,315 (Ranked 61)  
+Sum: 20,332 (Ranked 61)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 6,235 |
 | This game has Challenging Combat | 5,449 |
 | This game is Highly Recommended | 5,050 |
-| This game has a Competitive Community | 3,581 |
+| This game has a Competitive Community | 3,598 |
 | This game has Quickly Understood Controls | 3,335 |
 | This game is Extremely Fun | 122 |
 | This game has Diverse Characters | 76 |
@@ -641,4 +641,4 @@ Diff (max vs sum): 3
 | 2024-01-06 | 3.98 | 6,159 | 20,080 |
 | 2024-01-07 | 3.98 | 6,193 | 20,173 |
 | 2024-01-08 | 3.98 | 6,193 | 20,246 |
-| 2024-01-09 | 3.98 | 6,235 | 20,315 |
+| 2024-01-09 | 3.98 | 6,235 | 20,332 |

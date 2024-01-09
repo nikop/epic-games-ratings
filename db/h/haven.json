@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -189,7 +189,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1936,
+  "EOS_Progressed": 1937,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
@@ -3499,6 +3499,11 @@
       "Time": "2024-01-09T15:03:42.6183265+00:00",
       "NumProgressed": 1936,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-09T16:04:43.4035236+00:00",
+      "NumProgressed": 1937,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3510,7 +3515,7 @@
       "Name": "Lovebirds",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "10",
@@ -3534,7 +3539,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "13",
@@ -3580,9 +3585,9 @@
       "ID": "18",
       "SetID": "n50no0",
       "Name": "Like new!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 252
+      "UsersEstimate": 232
     },
     {
       "ID": "19",
@@ -3662,7 +3667,7 @@
       "Name": "A love supreme",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "3",
@@ -3670,7 +3675,7 @@
       "Name": "Hug therapy",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "30",
@@ -3734,7 +3739,7 @@
       "Name": "Over my dead body",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "9",
@@ -3749,15 +3754,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1936,
+      "Progressed": 1937,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-09T15:03:42.618326+00:00",
+  "LastChanged_Achievements": "2024-01-09T16:04:43.4035234+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.2496519+00:00",
-  "LastUpdate_Ratings": "2024-01-09T14:58:23.8901109+00:00",
-  "LastUpdate_Achievements": "2024-01-09T15:03:42.6183649+00:00"
+  "LastUpdate_Ratings": "2024-01-09T15:59:35.0966953+00:00",
+  "LastUpdate_Achievements": "2024-01-09T16:04:43.4035581+00:00"
 }

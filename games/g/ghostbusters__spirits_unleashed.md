@@ -6,7 +6,7 @@ Rating: 4.50 (Ranked 612)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 11.00% | ~3,683 |
-| Meticulously Efficient | 9.00% | ~3,013 |
+| Meticulously Efficient | 9.00% | ~3,014 |
 | Advancement | 8.00% | ~2,679 |
 | Discovery | 6.00% | ~2,009 |
 | Solo Capture | 6.00% | ~2,009 |
@@ -22,16 +22,16 @@ Rating: 4.50 (Ranked 612)
 | Ghostbuster In Training | 4.00% | ~1,339 |
 | Right back at ya | 4.00% | ~1,339 |
 | Whoopsie | 4.00% | ~1,339 |
-| Animated | 3.00% | ~1,004 |
-| Back Off | 3.00% | ~1,004 |
-| We have the best insurance | 3.00% | ~1,004 |
-| Ectoplasmic Entity | 3.00% | ~1,004 |
-| Icing on the Cake | 3.00% | ~1,004 |
-| Legions | 3.00% | ~1,004 |
-| Pesky Jerks | 3.00% | ~1,004 |
-| Seasoned | 3.00% | ~1,004 |
-| Side Hustle | 3.00% | ~1,004 |
-| Summoner | 3.00% | ~1,004 |
+| Animated | 3.00% | ~1,005 |
+| Back Off | 3.00% | ~1,005 |
+| We have the best insurance | 3.00% | ~1,005 |
+| Ectoplasmic Entity | 3.00% | ~1,005 |
+| Icing on the Cake | 3.00% | ~1,005 |
+| Legions | 3.00% | ~1,005 |
+| Pesky Jerks | 3.00% | ~1,005 |
+| Seasoned | 3.00% | ~1,005 |
+| Side Hustle | 3.00% | ~1,005 |
+| Summoner | 3.00% | ~1,005 |
 | Collector | 2.00% | ~670 |
 | Escape Artist | 2.00% | ~670 |
 | Reckless | 2.00% | ~670 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 612)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,483 (Ranked 137)  
+Progressed: 33,484 (Ranked 137)  
 Completed: 71 (0.21%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 71 (0.21%) (Ranked 273)
 | 2024-01-06 | 33,384 | 71 |
 | 2024-01-07 | 33,430 | 71 |
 | 2024-01-08 | 33,470 | 71 |
-| 2024-01-09 | 33,483 | 71 |
+| 2024-01-09 | 33,484 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 256)  
 Sum: 2,953 (Ranked 186)  
