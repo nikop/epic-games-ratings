@@ -2,12 +2,12 @@
   "ID": "f03887880e3f49c9b478cae9beac3812",
   "Name": "Zombie Rollerz: Pinball Heroes",
   "ProductSlug": "zombie-rollerz-7aa027",
-  "Ranking_Rating": 881,
+  "Ranking_Rating": 882,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 504,
+  "Ranking_EOS_NewPlayers": 503,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -908,9 +908,9 @@
       "ID": "CLG_LEVEL_BULLSEYE",
       "SetID": "89cjc9l",
       "Name": "Bullseye!",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 181
     },
     {
       "ID": "CLG_LEVEL_COMBO",
@@ -1132,9 +1132,9 @@
       "ID": "PRG_BOSS_SLIME",
       "SetID": "89cjc9l",
       "Name": "The Slime",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "PRG_BOSS_THROWER",
@@ -1156,9 +1156,9 @@
       "ID": "PRG_CHAPTER_1",
       "SetID": "89cjc9l",
       "Name": "Villfir Forest",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 155
     },
     {
       "ID": "PRG_CHAPTER_2",
@@ -1477,8 +1477,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-12-07T15:59:55.7707113+00:00",
-  "LastChanged_Achievements": "2024-01-09T07:07:00.3973994+00:00",
+  "LastChanged_Achievements": "2024-01-09T08:07:35.6021177+00:00",
   "LastUpdate_AppInfo": "2024-01-06T17:57:06.9630591+00:00",
-  "LastUpdate_Ratings": "2024-01-09T06:58:41.71722+00:00",
-  "LastUpdate_Achievements": "2024-01-09T07:07:00.3974726+00:00"
+  "LastUpdate_Ratings": "2024-01-09T07:58:54.9155485+00:00",
+  "LastUpdate_Achievements": "2024-01-09T08:07:35.6021973+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "merchant-of-the-skies",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 478,
+  "Ranking_EOS_NewPlayers": 457,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-04-13T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 960,
+  "EOS_Progressed": 961,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.46,
   "EosHistory": [
@@ -217,6 +217,11 @@
       "Time": "2024-01-07T23:04:38.2068652+00:00",
       "NumProgressed": 960,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-09T08:05:33.9679404+00:00",
+      "NumProgressed": 961,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 12,
@@ -252,7 +257,7 @@
       "Name": "Giants",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "achievement_got_rich",
@@ -260,7 +265,7 @@
       "Name": "Wealthy",
       "Percentage": 14,
       "XP": 150,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "achievement_inn_supplier",
@@ -292,7 +297,7 @@
       "Name": "A man of his word",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "achievement_ship_bought",
@@ -300,7 +305,7 @@
       "Name": "New Ride",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "achievement_ship_fueled",
@@ -308,7 +313,7 @@
       "Name": "Energizer",
       "Percentage": 99,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "achievement_too_big_to_fail",
@@ -323,7 +328,7 @@
     {
       "ID": "7171fo0",
       "IsBase": true,
-      "Progressed": 960,
+      "Progressed": 961,
       "Completed": 14
     }
   ],
@@ -331,8 +336,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.9474468+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.0879809+00:00",
   "LastChanged": "2023-03-31T05:58:14.9474469+00:00",
-  "LastChanged_Achievements": "2024-01-09T07:05:19.1684237+00:00",
+  "LastChanged_Achievements": "2024-01-09T08:05:33.9679393+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:09.0770825+00:00",
-  "LastUpdate_Ratings": "2024-01-09T07:00:20.8486914+00:00",
-  "LastUpdate_Achievements": "2024-01-09T07:05:19.1684329+00:00"
+  "LastUpdate_Ratings": "2024-01-09T08:00:55.2572851+00:00",
+  "LastUpdate_Achievements": "2024-01-09T08:05:33.9679486+00:00"
 }

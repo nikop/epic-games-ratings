@@ -1,18 +1,18 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.68 (Ranked 261)  
+Rating: 4.68 (Ranked 262)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 71.00% | ~43,878 |
-| I read Shakespeare and stuff | 59.00% | ~36,462 |
-| Just a sprinkle | 58.00% | ~35,844 |
-| I'm stumped | 56.00% | ~34,608 |
-| Plant get enough | 56.00% | ~34,608 |
-| This is just my weekend vehicle | 54.00% | ~33,372 |
-| It's just the beginning | 54.00% | ~33,372 |
+| Own use | 71.00% | ~43,879 |
+| I read Shakespeare and stuff | 59.00% | ~36,463 |
+| Just a sprinkle | 58.00% | ~35,845 |
+| I'm stumped | 56.00% | ~34,609 |
+| Plant get enough | 56.00% | ~34,609 |
+| This is just my weekend vehicle | 54.00% | ~33,373 |
+| It's just the beginning | 54.00% | ~33,373 |
 | Hard work pays off | 49.00% | ~30,282 |
 | It's never too late to farm | 45.00% | ~27,810 |
 | All out of Land | 41.00% | ~25,338 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~247 |
 | Raisin the stakes | 0.30% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,800 (Ranked 118)  
+Progressed: 61,801 (Ranked 118)  
 Completed: 6 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 6 (0.01%) (Ranked 372)
 | 2024-01-06 | 61,312 | 6 |
 | 2024-01-07 | 61,596 | 6 |
 | 2024-01-08 | 61,771 | 6 |
-| 2024-01-09 | 61,800 | 6 |
+| 2024-01-09 | 61,801 | 6 |
 ## Awards
 Max (Great for Beginners): 6,055  (Ranked 68)  
 Sum: 45,411 (Ranked 34)  

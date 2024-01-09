@@ -1,7 +1,7 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.48 (Ranked 655)  
+Rating: 4.48 (Ranked 656)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -24,8 +24,8 @@ Number of Ratings: 116  (23.09.2022)
 | Salvation | 37.00% | ~189 |
 | Unshakable Fortitude | 35.00% | ~178 |
 | Soul Harvester | 35.00% | ~178 |
+| I Wanna Rock | 34.00% | ~173 |
 | Delusions of Grandeur | 34.00% | ~173 |
-| I Wanna Rock | 33.00% | ~168 |
 | Love Tap | 32.00% | ~163 |
 | Maximum Vigor | 31.00% | ~158 |
 | Freeze Frame | 29.00% | ~148 |

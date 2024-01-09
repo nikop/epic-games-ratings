@@ -2,7 +2,7 @@
   "ID": "a1edd0d2e28d4d298152c001e7c47e22",
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
-  "Ranking_Rating": 857,
+  "Ranking_Rating": 858,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 146,
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24972,
+  "EOS_Progressed": 24973,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -22589,6 +22589,11 @@
       "Time": "2024-01-09T06:05:14.6955674+00:00",
       "NumProgressed": 24972,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2024-01-09T08:06:21.9023141+00:00",
+      "NumProgressed": 24973,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 16,
@@ -22672,7 +22677,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 9489
+      "UsersEstimate": 9490
     },
     {
       "ID": "Mirrors",
@@ -22704,7 +22709,7 @@
       "Name": "Sole Survivor",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 8490
+      "UsersEstimate": 8491
     },
     {
       "ID": "Still_Burning",
@@ -22727,15 +22732,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 24972,
+      "Progressed": 24973,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-06T06:00:08.5224706+00:00",
-  "LastChanged_Achievements": "2024-01-09T07:05:59.2799429+00:00",
+  "LastChanged_Achievements": "2024-01-09T08:06:21.9023136+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:51.4692455+00:00",
-  "LastUpdate_Ratings": "2024-01-09T06:57:46.1001591+00:00",
-  "LastUpdate_Achievements": "2024-01-09T07:05:59.2800773+00:00"
+  "LastUpdate_Ratings": "2024-01-09T07:57:45.7260573+00:00",
+  "LastUpdate_Achievements": "2024-01-09T08:06:21.9024359+00:00"
 }

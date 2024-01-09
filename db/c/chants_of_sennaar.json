@@ -127,7 +127,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2587,
+  "EOS_Progressed": 2588,
   "EOS_Completed": 180,
   "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 43,
@@ -6817,6 +6817,11 @@
       "Time": "2024-01-09T07:08:35.0954681+00:00",
       "NumProgressed": 2587,
       "NumCompleted": 180
+    },
+    {
+      "Time": "2024-01-09T08:08:21.8308319+00:00",
+      "NumProgressed": 2588,
+      "NumCompleted": 180
     }
   ],
   "TotalAchievements": 25,
@@ -6852,7 +6857,7 @@
       "Name": "Cable guy",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "META_FIRST_LINK",
@@ -6868,7 +6873,7 @@
       "Name": "Half the way",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "META_RESULT_1-2",
@@ -6948,7 +6953,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -6972,7 +6977,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -6988,7 +6993,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "PROGRESS_N2",
@@ -6996,7 +7001,7 @@
       "Name": "The great escape",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "PROGRESS_N3",
@@ -7004,7 +7009,7 @@
       "Name": "A new dawn",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "PROGRESS_N4",
@@ -7020,14 +7025,14 @@
       "Name": "One last step",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2587,
+      "Progressed": 2588,
       "Completed": 180
     }
   ],
@@ -7035,8 +7040,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-09T07:08:35.0954677+00:00",
+  "LastChanged_Achievements": "2024-01-09T08:08:21.8308315+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-09T06:59:35.0521475+00:00",
-  "LastUpdate_Achievements": "2024-01-09T07:08:35.0955238+00:00"
+  "LastUpdate_Ratings": "2024-01-09T07:59:59.6034312+00:00",
+  "LastUpdate_Achievements": "2024-01-09T08:08:21.8308814+00:00"
 }

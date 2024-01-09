@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Silent City | 25.00% | ~234 |
 | Duet Desert | 5.00% | ~47 |
-| Fermata | 4.00% | ~37 |
+| Fermata | 4.00% | ~38 |
 | Cadenza | 2.00% | ~19 |
 | Staccato | 2.00% | ~19 |
 | Maestro Mountain | 2.00% | ~19 |
@@ -33,7 +33,7 @@
 | Ostinato | 0.00% | ~0 |
 | Rondo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 936 (Ranked 297)  
+Progressed: 938 (Ranked 296)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 876 | 0 |
 | 2024-01-07 | 904 | 0 |
 | 2024-01-08 | 934 | 0 |
-| 2024-01-09 | 936 | 0 |
+| 2024-01-09 | 938 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

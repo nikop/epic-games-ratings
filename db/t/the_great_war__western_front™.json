@@ -2,12 +2,12 @@
   "ID": "d84e1be6c7764408b3d0f610c84cb8ea",
   "Name": "The Great War: Western Front\u2122",
   "ProductSlug": "the-great-war-western-front",
-  "Ranking_Rating": 1066,
+  "Ranking_Rating": 1067,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 907,
+  "EOS_Progressed": 908,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3920,6 +3920,11 @@
       "Time": "2024-01-09T04:04:13.6762883+00:00",
       "NumProgressed": 907,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T08:05:07.9854192+00:00",
+      "NumProgressed": 908,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -3995,7 +4000,7 @@
       "Name": "Earth Shattering",
       "Percentage": 44,
       "XP": 90,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -4026,7 +4031,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 907,
+      "Progressed": 908,
       "Completed": 0
     }
   ],
@@ -4034,8 +4039,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-12-31T09:58:52.6483653+00:00",
-  "LastChanged_Achievements": "2024-01-09T07:04:57.1578952+00:00",
+  "LastChanged_Achievements": "2024-01-09T08:05:07.9854187+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:07.6580361+00:00",
-  "LastUpdate_Ratings": "2024-01-09T06:58:37.0819951+00:00",
-  "LastUpdate_Achievements": "2024-01-09T07:04:57.157933+00:00"
+  "LastUpdate_Ratings": "2024-01-09T07:58:49.027594+00:00",
+  "LastUpdate_Achievements": "2024-01-09T08:05:07.9854554+00:00"
 }

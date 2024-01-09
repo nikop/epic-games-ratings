@@ -2,13 +2,13 @@
   "ID": "66a0893b7b9a42a695f0a387d64dfcc6",
   "Name": "Sable",
   "ProductSlug": "sable",
-  "Ranking_Rating": 561,
+  "Ranking_Rating": 562,
   "Ranking_Popularity": 522,
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
     "PcReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -611,9 +611,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 109968,
+  "EOS_Progressed": 109971,
   "EOS_Completed": 1117,
-  "EOS_NewPlayers": 1515,
+  "EOS_NewPlayers": 1511,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -30941,6 +30941,11 @@
       "Time": "2024-01-09T07:10:43.3519276+00:00",
       "NumProgressed": 109968,
       "NumCompleted": 1117
+    },
+    {
+      "Time": "2024-01-09T08:10:55.1847925+00:00",
+      "NumProgressed": 109971,
+      "NumCompleted": 1117
     }
   ],
   "TotalAchievements": 56,
@@ -30952,7 +30957,7 @@
       "Name": "Just The Two of Us",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 35190
+      "UsersEstimate": 35191
     },
     {
       "ID": "ach_001_game_complete",
@@ -30960,7 +30965,7 @@
       "Name": "The Gliding",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 5498
+      "UsersEstimate": 5499
     },
     {
       "ID": "ach_002_complete_queendom",
@@ -31016,7 +31021,7 @@
       "Name": "The Entertainer Mask",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 5498
+      "UsersEstimate": 5499
     },
     {
       "ID": "ach_009_guard_mask",
@@ -31032,7 +31037,7 @@
       "Name": "The Scrapper Mask",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 8797
+      "UsersEstimate": 8798
     },
     {
       "ID": "ach_011_merchants_mask",
@@ -31096,7 +31101,7 @@
       "Name": "Shadow Of Neave",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8797
+      "UsersEstimate": 8798
     },
     {
       "ID": "ach_019_door_rowleys_way",
@@ -31104,7 +31109,7 @@
       "Name": "Rowleys Way",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12096
+      "UsersEstimate": 12097
     },
     {
       "ID": "ach_020_door_centre_of_brunswick",
@@ -31128,7 +31133,7 @@
       "Name": "Thread The Needle",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 16495
+      "UsersEstimate": 16496
     },
     {
       "ID": "ach_023_open_sandwyrm",
@@ -31144,7 +31149,7 @@
       "Name": "Fragile Goods",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8797
+      "UsersEstimate": 8798
     },
     {
       "ID": "ach_025_solve_the_watch",
@@ -31160,7 +31165,7 @@
       "Name": "Up On High",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 27492
+      "UsersEstimate": 27493
     },
     {
       "ID": "ach_027_fix_atomic_heart",
@@ -31184,7 +31189,7 @@
       "Name": "Glider on the Storm",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8797
+      "UsersEstimate": 8798
     },
     {
       "ID": "ach_030_collect_glowworm",
@@ -31208,7 +31213,7 @@
       "Name": "Got Your Nose",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 26392
+      "UsersEstimate": 26393
     },
     {
       "ID": "ach_033_collect_slicer_beetle_poo",
@@ -31216,7 +31221,7 @@
       "Name": "Squeeze One Out",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8797
+      "UsersEstimate": 8798
     },
     {
       "ID": "ach_034_collect_orange_ringed_beetle",
@@ -31256,7 +31261,7 @@
       "Name": "Badge Collector",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 13196
+      "UsersEstimate": 13197
     },
     {
       "ID": "ach_039_build_hoverbike",
@@ -31264,7 +31269,7 @@
       "Name": "Simoon",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 37389
+      "UsersEstimate": 37390
     },
     {
       "ID": "ach_040_customise_hoverbike",
@@ -31272,7 +31277,7 @@
       "Name": "Under The Hood",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 27492
+      "UsersEstimate": 27493
     },
     {
       "ID": "ach_041_talk_to_npcs_1",
@@ -31280,7 +31285,7 @@
       "Name": "The Gift of Gab",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 26392
+      "UsersEstimate": 26393
     },
     {
       "ID": "ach_042_talk_to_npcs_2",
@@ -31304,7 +31309,7 @@
       "Name": "More Than A Box Of Sand",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 19794
+      "UsersEstimate": 19795
     },
     {
       "ID": "ach_045_open_chests_2",
@@ -31328,7 +31333,7 @@
       "Name": "Dune Rider",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8797
+      "UsersEstimate": 8798
     },
     {
       "ID": "ach_048_glide_long_distance",
@@ -31352,7 +31357,7 @@
       "Name": "Wrapping Up",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 24193
+      "UsersEstimate": 24194
     },
     {
       "ID": "ach_051_collect_clothing_items_2",
@@ -31384,7 +31389,7 @@
       "Name": "Quite The Catch",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 13196
+      "UsersEstimate": 13197
     },
     {
       "ID": "ach_055_complete_vivarium",
@@ -31399,15 +31404,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 109968,
+      "Progressed": 109971,
       "Completed": 1117
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2024-01-09T03:59:11.2981358+00:00",
-  "LastChanged_Achievements": "2024-01-09T07:10:43.3519273+00:00",
+  "LastChanged_Achievements": "2024-01-09T08:10:55.1847921+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:19.7254281+00:00",
-  "LastUpdate_Ratings": "2024-01-09T06:59:52.4789185+00:00",
-  "LastUpdate_Achievements": "2024-01-09T07:10:43.3520858+00:00"
+  "LastUpdate_Ratings": "2024-01-09T08:00:21.8758849+00:00",
+  "LastUpdate_Achievements": "2024-01-09T08:10:55.1849445+00:00"
 }

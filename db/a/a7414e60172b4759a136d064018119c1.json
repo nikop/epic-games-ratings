@@ -4,7 +4,7 @@
   "ProductSlug": "sea-of-dreams-32035a",
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 573,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-17T23:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-18T00:03:29.5796334+00:00",
-  "LastChanged_Achievements": "2024-01-09T07:06:34.705375+00:00",
+  "LastChanged_Achievements": "2024-01-09T08:07:04.7384938+00:00",
   "LastUpdate_AppInfo": "2024-01-03T05:57:00.2891192+00:00",
-  "LastUpdate_Ratings": "2024-01-09T06:58:58.599134+00:00",
-  "LastUpdate_Achievements": "2024-01-09T07:06:34.7053788+00:00"
+  "LastUpdate_Ratings": "2024-01-09T07:59:15.7835703+00:00",
+  "LastUpdate_Achievements": "2024-01-09T08:07:04.7384958+00:00"
 }

@@ -47,9 +47,9 @@ Rating: 4.78 (Ranked 109)
 | Whispers in the Woods IV | 14.00% | ~472 |
 | The end of the experiments | 14.00% | ~472 |
 | The Great City of Demacia | 14.00% | ~472 |
+| Truth is a dark mirror | 14.00% | ~472 |
 | Call it 'redistribution of magic | 14.00% | ~472 |
 | Embrace the darkness | 13.00% | ~438 |
-| Truth is a dark mirror | 13.00% | ~438 |
 | Do you trust me? | 12.00% | ~405 |
 | The great mage rebellion starts now | 12.00% | ~405 |
 | Back to sleep, then... | 12.00% | ~405 |

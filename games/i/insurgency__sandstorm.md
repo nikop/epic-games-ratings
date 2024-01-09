@@ -1,16 +1,16 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 397)  
+Rating: 4.61 (Ranked 398)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~26,106 |
-| Wallbanger | 5.00% | ~26,106 |
-| Exploitative | 4.00% | ~20,885 |
-| High Speed Low Drag | 4.00% | ~20,885 |
-| Wet Feet | 4.00% | ~20,885 |
+| Point Shooting | 5.00% | ~26,107 |
+| Wallbanger | 5.00% | ~26,107 |
+| Exploitative | 4.00% | ~20,886 |
+| High Speed Low Drag | 4.00% | ~20,886 |
+| Wet Feet | 4.00% | ~20,886 |
 | Checkpoint Victory | 3.00% | ~15,664 |
 | Lucky | 3.00% | ~15,664 |
 | Stylin' | 3.00% | ~15,664 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~522 |
 | Road Hazard | 0.10% | ~522 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 522,129 (Ranked 40)  
+Progressed: 522,138 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,10 +306,10 @@ Completed: 2 (0.00%) (Ranked 395)
 | 2024-01-06 | 520,833 | 2 |
 | 2024-01-07 | 521,476 | 2 |
 | 2024-01-08 | 521,958 | 2 |
-| 2024-01-09 | 522,129 | 2 |
+| 2024-01-09 | 522,138 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 415  (Ranked 238)  
-Sum: 3,343 (Ranked 178)  
+Sum: 3,344 (Ranked 178)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -318,7 +318,7 @@ Diff (max vs sum): 60
 | This game is Extremely Fun | 388 |
 | This game has Competitive Players | 384 |
 | This game is Highly Recommended | 370 |
-| This game has Realistic Visuals | 367 |
+| This game has Realistic Visuals | 368 |
 | This game has Amazing Characters | 354 |
 | This game has Amazing Storytelling | 341 |
 | This game has a Competitive Community | 315 |
@@ -660,3 +660,4 @@ Diff (max vs sum): 60
 | 2024-01-06 | 4.61 | - | 415 | 3,336 |
 | 2024-01-07 | 4.61 | - | 415 | 3,340 |
 | 2024-01-08 | 4.61 | - | 415 | 3,343 |
+| 2024-01-09 | 4.61 | - | 415 | 3,344 |

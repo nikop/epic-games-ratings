@@ -1,19 +1,19 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 472)  
+Rating: 4.58 (Ranked 473)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 20.00% | ~770 |
-| Watch Where You Step... | 15.00% | ~577 |
+| Watch Where You Step... | 15.00% | ~578 |
 | Look Over There! | 14.00% | ~539 |
 | Not So Fast... | 14.00% | ~539 |
 | An Ill Omen | 14.00% | ~539 |
 | Purging Spree | 10.00% | ~385 |
 | Blood for the Blood God! | 9.00% | ~346 |
-| Bloodless | 7.00% | ~269 |
+| Bloodless | 7.00% | ~270 |
 | Surgical Excision | 6.00% | ~231 |
 | Friendly Fire | 6.00% | ~231 |
 | A Foul Creche | 5.00% | ~192 |
@@ -21,9 +21,9 @@ Number of Ratings: 371  (23.09.2022)
 | The Emperor Protects | 4.00% | ~154 |
 | Nemesis Master | 4.00% | ~154 |
 | Gunmaster | 4.00% | ~154 |
-| Hold Your Ground | 3.00% | ~115 |
-| Just a Scratch | 3.00% | ~115 |
-| Hive Exterminator | 3.00% | ~115 |
+| Hold Your Ground | 3.00% | ~116 |
+| Just a Scratch | 3.00% | ~116 |
+| Hive Exterminator | 3.00% | ~116 |
 | Daemonkeeper | 2.00% | ~77 |
 | Corruption Cleanser | 2.00% | ~77 |
 | Mind Like a Fortress | 2.00% | ~77 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,849 (Ranked 217)  
+Progressed: 3,850 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 3,811 | 0 |
 | 2024-01-07 | 3,834 | 0 |
 | 2024-01-08 | 3,845 | 0 |
-| 2024-01-09 | 3,849 | 0 |
+| 2024-01-09 | 3,850 | 0 |
 ## Awards
 Max (Character Customization): 233  (Ranked 285)  
 Sum: 500 (Ranked 335)  

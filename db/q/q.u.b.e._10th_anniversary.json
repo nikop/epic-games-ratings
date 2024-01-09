@@ -2,13 +2,13 @@
   "ID": "ad43401ad02840c2b2bee5f1f1a59988",
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
-  "Ranking_Rating": 725,
+  "Ranking_Rating": 726,
   "Ranking_Popularity": 550,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 142,
-  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -348,9 +348,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 28908,
+  "EOS_Progressed": 28909,
   "EOS_Completed": 202,
-  "EOS_NewPlayers": 925,
+  "EOS_NewPlayers": 922,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -9913,6 +9913,11 @@
       "Time": "2024-01-09T07:10:34.603331+00:00",
       "NumProgressed": 28908,
       "NumCompleted": 202
+    },
+    {
+      "Time": "2024-01-09T08:10:45.4412197+00:00",
+      "NumProgressed": 28909,
+      "NumCompleted": 202
     }
   ],
   "TotalAchievements": 24,
@@ -10060,7 +10065,7 @@
       "Name": "Sector 2",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 8094
+      "UsersEstimate": 8095
     },
     {
       "ID": "ACH_Sector3",
@@ -10115,7 +10120,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 28908,
+      "Progressed": 28909,
       "Completed": 202
     }
   ],
@@ -10123,8 +10128,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-07T21:02:45.1474426+00:00",
-  "LastChanged_Achievements": "2024-01-09T07:10:34.6033307+00:00",
+  "LastChanged_Achievements": "2024-01-09T08:10:45.4412194+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:27.6717087+00:00",
-  "LastUpdate_Ratings": "2024-01-09T06:58:06.1763595+00:00",
-  "LastUpdate_Achievements": "2024-01-09T07:10:34.60339+00:00"
+  "LastUpdate_Ratings": "2024-01-09T07:58:09.6291414+00:00",
+  "LastUpdate_Achievements": "2024-01-09T08:10:45.441282+00:00"
 }

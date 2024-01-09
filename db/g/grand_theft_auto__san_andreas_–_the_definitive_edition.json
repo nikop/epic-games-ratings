@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 525,
+  "Ranking_Rating": 526,
   "Ranking_Popularity": 201,
   "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 157,
@@ -2273,10 +2273,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 1005,
       "NumberOfAwardsMax": 633
+    },
+    {
+      "Time": "2024-01-09T08:01:55.5186187+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1009,
+      "NumberOfAwardsMax": 633
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1005,
+  "NumberOfAwards": 1009,
   "NumberOfAwardsMax": 633,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2308,7 +2314,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 45
+      "Count": 49
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2341,7 +2347,7 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 19069,
+  "EOS_Progressed": 19072,
   "EOS_Completed": 75,
   "EOS_NewPlayers": 1086,
   "EOS_NewCompleters": 6,
@@ -19661,6 +19667,11 @@
       "Time": "2024-01-09T07:10:38.2442739+00:00",
       "NumProgressed": 19069,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-09T08:10:49.6214015+00:00",
+      "NumProgressed": 19072,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 35,
@@ -19672,7 +19683,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15446
+      "UsersEstimate": 15448
     },
     {
       "ID": "ACH02",
@@ -19720,7 +19731,7 @@
       "Name": "The American Dream",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 3432
+      "UsersEstimate": 3433
     },
     {
       "ID": "ACH08",
@@ -19728,7 +19739,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9534
+      "UsersEstimate": 9536
     },
     {
       "ID": "ACH09",
@@ -19768,7 +19779,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3432
+      "UsersEstimate": 3433
     },
     {
       "ID": "ACH14",
@@ -19816,7 +19827,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "ACH20",
@@ -19848,7 +19859,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4767
+      "UsersEstimate": 4768
     },
     {
       "ID": "ACH24",
@@ -19928,7 +19939,7 @@
       "Name": "Remastered",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH34",
@@ -19951,16 +19962,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19069,
+      "Progressed": 19072,
       "Completed": 75
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-09T04:00:19.6463392+00:00",
-  "LastChanged_Achievements": "2024-01-09T07:10:38.2442735+00:00",
+  "LastChanged": "2024-01-09T08:01:55.5186186+00:00",
+  "LastChanged_Achievements": "2024-01-09T08:10:49.6214013+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-09T07:01:08.7555446+00:00",
-  "LastUpdate_Achievements": "2024-01-09T07:10:38.244457+00:00"
+  "LastUpdate_Ratings": "2024-01-09T08:01:55.518619+00:00",
+  "LastUpdate_Achievements": "2024-01-09T08:10:49.6214949+00:00"
 }

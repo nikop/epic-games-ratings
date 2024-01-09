@@ -1,24 +1,24 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.52 (Ranked 570)  
+Rating: 4.52 (Ranked 571)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 18.00% | ~3,365 |
-| Captain Drummer | 15.00% | ~2,804 |
-| Celebrations are in Order | 14.00% | ~2,617 |
-| The Pit and the Pirates | 13.00% | ~2,430 |
-| Martian Music | 13.00% | ~2,430 |
-| Bosmang | 13.00% | ~2,430 |
-| Impossible Objects | 13.00% | ~2,430 |
-| Drone Dodger | 12.00% | ~2,243 |
-| Stogie for Fogey | 11.00% | ~2,056 |
-| Spore Taste | 11.00% | ~2,056 |
+| Oyedang, Kopengs | 18.00% | ~3,366 |
+| Captain Drummer | 15.00% | ~2,805 |
+| Celebrations are in Order | 14.00% | ~2,618 |
+| The Pit and the Pirates | 13.00% | ~2,431 |
+| Martian Music | 13.00% | ~2,431 |
+| Bosmang | 13.00% | ~2,431 |
+| Impossible Objects | 13.00% | ~2,431 |
+| Drone Dodger | 12.00% | ~2,244 |
+| Stogie for Fogey | 11.00% | ~2,057 |
+| Spore Taste | 11.00% | ~2,057 |
 | Zen Master | 10.00% | ~465 |
 | Call it Even | 9.00% | ~1,683 |
-| Safe Cracker | 9.00% | ~418 |
-| Madame Undersecretary | 9.00% | ~418 |
+| Safe Cracker | 9.00% | ~419 |
+| Madame Undersecretary | 9.00% | ~419 |
 | Heal Thy Medic | 8.00% | ~1,496 |
 | Keep Arjun in Check | 8.00% | ~372 |
 | Data Archivist | 7.00% | ~1,309 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 570)
 | Scavenger Star | 0.30% | ~56 |
 | Data Collector | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,695 (Ranked 159)  
+Progressed: 18,698 (Ranked 159)  
 Completed: 61 (0.33%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 61 (0.33%) (Ranked 247)
 | 2024-01-06 | 18,440 | 59 |
 | 2024-01-07 | 18,579 | 60 |
 | 2024-01-08 | 18,665 | 60 |
-| 2024-01-09 | 18,695 | 61 |
+| 2024-01-09 | 18,698 | 61 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

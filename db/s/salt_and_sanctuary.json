@@ -2,7 +2,7 @@
   "ID": "79d9bff700bb46a790b21e8c73b34899",
   "Name": "Salt and Sanctuary",
   "ProductSlug": "salt-and-sanctuary",
-  "Ranking_Rating": 397,
+  "Ranking_Rating": 398,
   "Ranking_Popularity": 261,
   "Ranking_PopularitySum": 217,
   "Ranking_EOS_Progress": 36,
@@ -2982,9 +2982,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 543818,
+  "EOS_Progressed": 543819,
   "EOS_Completed": 1677,
-  "EOS_NewPlayers": 796,
+  "EOS_NewPlayers": 793,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -32272,6 +32272,11 @@
       "Time": "2024-01-09T07:04:29.0578274+00:00",
       "NumProgressed": 543818,
       "NumCompleted": 1677
+    },
+    {
+      "Time": "2024-01-09T08:04:33.9227749+00:00",
+      "NumProgressed": 543819,
+      "NumCompleted": 1677
     }
   ],
   "TotalAchievements": 37,
@@ -32339,7 +32344,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 451369
+      "UsersEstimate": 451370
     },
     {
       "ID": "HONED",
@@ -32395,7 +32400,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 217527
+      "UsersEstimate": 217528
     },
     {
       "ID": "THE_CASTLE",
@@ -32411,7 +32416,7 @@
       "Name": "The Cave",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 43505
+      "UsersEstimate": 43506
     },
     {
       "ID": "THE_CONSTRUCT",
@@ -32459,7 +32464,7 @@
       "Name": "The Iron Ones",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 103325
+      "UsersEstimate": 103326
     },
     {
       "ID": "THE_KEEP",
@@ -32563,7 +32568,7 @@
       "Name": "The Ziggurat",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 43505
+      "UsersEstimate": 43506
     },
     {
       "ID": "WISE_WORDS",
@@ -32578,15 +32583,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 543818,
+      "Progressed": 543819,
       "Completed": 1677
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2024-01-08T10:59:12.0666169+00:00",
-  "LastChanged_Achievements": "2024-01-09T07:04:29.0578267+00:00",
+  "LastChanged_Achievements": "2024-01-09T08:04:33.9227744+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.5863764+00:00",
-  "LastUpdate_Ratings": "2024-01-09T06:59:08.0413006+00:00",
-  "LastUpdate_Achievements": "2024-01-09T07:04:29.0580138+00:00"
+  "LastUpdate_Ratings": "2024-01-09T07:59:26.276718+00:00",
+  "LastUpdate_Achievements": "2024-01-09T08:04:33.9229334+00:00"
 }

@@ -1,44 +1,44 @@
 # Gloomhaven
 [Store](https://store.epicgames.com/en-US/p/gloomhaven-92f741)  
 [View Rawdata](../../db/g/gloomhaven.json)  
-Rating: 4.47 (Ranked 662)  
+Rating: 4.47 (Ranked 663)  
 Number of Ratings: 68  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~12,290 |
-| Overkill | 33.00% | ~10,673 |
-| Vaccine Incoming | 31.00% | ~10,026 |
-| A normal day in Gloomhaven | 29.00% | ~9,379 |
-| Spread the plague | 27.00% | ~8,732 |
-| Get over here! | 24.00% | ~7,762 |
-| Just when I thought I was out... | 19.00% | ~6,145 |
-| Precious! | 16.00% | ~5,175 |
-| Mine... All Mine... | 16.00% | ~5,175 |
-| Grizzled veteran | 15.00% | ~4,851 |
-| Anatomy Lesson | 14.00% | ~4,528 |
-| Light of my life | 13.00% | ~4,204 |
-| Who's the Boss? | 12.00% | ~3,881 |
-| You activated my trap card! | 12.00% | ~3,881 |
-| Obstacle race | 12.00% | ~3,881 |
-| Augmented rat | 10.00% | ~3,234 |
-| Doom and gloom | 10.00% | ~3,234 |
-| Dungeon Veteran | 8.00% | ~2,587 |
-| Pain is your friend | 8.00% | ~2,587 |
-| Pack leader | 7.00% | ~2,264 |
-| Black death | 7.00% | ~2,264 |
-| Play it again, Sam | 7.00% | ~2,264 |
+| I'm not dead yet | 38.00% | ~12,293 |
+| Overkill | 33.00% | ~10,676 |
+| Vaccine Incoming | 31.00% | ~10,029 |
+| A normal day in Gloomhaven | 29.00% | ~9,382 |
+| Spread the plague | 27.00% | ~8,735 |
+| Get over here! | 24.00% | ~7,764 |
+| Just when I thought I was out... | 19.00% | ~6,147 |
+| Precious! | 16.00% | ~5,176 |
+| Mine... All Mine... | 16.00% | ~5,176 |
+| Grizzled veteran | 15.00% | ~4,853 |
+| Anatomy Lesson | 14.00% | ~4,529 |
+| Light of my life | 13.00% | ~4,206 |
+| Who's the Boss? | 12.00% | ~3,882 |
+| You activated my trap card! | 12.00% | ~3,882 |
+| Obstacle race | 12.00% | ~3,882 |
+| Augmented rat | 10.00% | ~3,235 |
+| Doom and gloom | 10.00% | ~3,235 |
+| Dungeon Veteran | 8.00% | ~2,588 |
+| Pain is your friend | 8.00% | ~2,588 |
+| Pack leader | 7.00% | ~2,265 |
+| Black death | 7.00% | ~2,265 |
+| Play it again, Sam | 7.00% | ~2,265 |
 | Quad damage | 6.00% | ~1,941 |
-| Power Up! | 5.00% | ~1,617 |
-| Merchant of doom | 5.00% | ~1,617 |
-| Caught off guard | 5.00% | ~1,617 |
-| Now you see me... | 5.00% | ~1,617 |
+| Power Up! | 5.00% | ~1,618 |
+| Merchant of doom | 5.00% | ~1,618 |
+| Caught off guard | 5.00% | ~1,618 |
+| Now you see me... | 5.00% | ~1,618 |
 | The Pro from Dover | 4.00% | ~1,294 |
 | Pretty lights! | 4.00% | ~1,294 |
-| I hate portals | 3.00% | ~970 |
-| Down the hatch | 3.00% | ~970 |
-| An eye for an eye | 3.00% | ~970 |
-| The Cephalophore | 3.00% | ~970 |
+| I hate portals | 3.00% | ~971 |
+| Down the hatch | 3.00% | ~971 |
+| An eye for an eye | 3.00% | ~971 |
+| The Cephalophore | 3.00% | ~971 |
 | From Gloom, only greed and death emerges | 2.00% | ~647 |
 | The Rat King | 2.00% | ~647 |
 | How to train your Drake | 2.00% | ~647 |
@@ -46,11 +46,11 @@ Number of Ratings: 68  (23.09.2022)
 | The Sniper | 2.00% | ~647 |
 | Grin and bear it | 2.00% | ~647 |
 | An axe to grind | 2.00% | ~647 |
-| Betray this | 1.00% | ~323 |
-| Add a bit of colour | 1.00% | ~323 |
-| Captain hooked | 1.00% | ~323 |
-| Spoiler police! | 1.00% | ~323 |
-| New Blood | 1.00% | ~323 |
+| Betray this | 1.00% | ~324 |
+| Add a bit of colour | 1.00% | ~324 |
+| Captain hooked | 1.00% | ~324 |
+| Spoiler police! | 1.00% | ~324 |
+| New Blood | 1.00% | ~324 |
 | The Pacifist | 0.50% | ~162 |
 | The evil that men do | 0.50% | ~162 |
 | Born Support | 0.50% | ~162 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~32 |
 | Hard-travelling Heroes | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,342 (Ranked 140)  
+Progressed: 32,351 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 1 (0.00%) (Ranked 395)
 | 2024-01-06 | 31,749 | 1 |
 | 2024-01-07 | 32,091 | 1 |
 | 2024-01-08 | 32,291 | 1 |
-| 2024-01-09 | 32,342 | 1 |
+| 2024-01-09 | 32,351 | 1 |
 ## Awards
 Max (Character Customization): 3,616  (Ranked 95)  
 Sum: 8,468 (Ranked 106)  

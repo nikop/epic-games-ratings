@@ -1,7 +1,7 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.56 (Ranked 508)  
+Rating: 4.56 (Ranked 509)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -22,9 +22,9 @@ Rating: 4.56 (Ranked 508)
 | Death of a legend | 19.00% | ~35 |
 | Ogre friend | 19.00% | ~35 |
 | Family man | 17.00% | ~31 |
+| Archaeologist | 17.00% | ~31 |
 | Sidelined | 17.00% | ~31 |
 | Wise man | 16.00% | ~29 |
-| Archaeologist | 16.00% | ~29 |
 | Hard worker | 16.00% | ~29 |
 | Little hero | 15.00% | ~27 |
 | The fourth triplet | 15.00% | ~27 |

@@ -4,7 +4,7 @@
   "ProductSlug": "boti-byteland-overclocked-3a40c3",
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 573,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -28,9 +28,427 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-01-09T08:10:22.6858063+00:00",
+  "TotalAchievements": 52,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Ach18_name_ITZ_OVER_9000",
+      "SetID": "7fi8cpe",
+      "Name": "ITZ OVER 9000!",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi01_name_Welcome_to_Chipset",
+      "SetID": "7fi8cpe",
+      "Name": "Welcome to Chipset",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi02_name_Clock_Up",
+      "SetID": "7fi8cpe",
+      "Name": "Clock Up",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi03_name_Tripping_Down_Memory_Lane",
+      "SetID": "7fi8cpe",
+      "Name": "Tripping Down Memory Lane",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi04_name_Port_In_a_Storm",
+      "SetID": "7fi8cpe",
+      "Name": "Port in a Storm",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi05_name_The_Show_Must_Log_On",
+      "SetID": "7fi8cpe",
+      "Name": "The Show Must Log On",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi06_name_Biggest_Fans",
+      "SetID": "7fi8cpe",
+      "Name": "Biggest Fans",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi07_name_A_Good_Bot_is_Hard_to_Find",
+      "SetID": "7fi8cpe",
+      "Name": "A Good Bot is Hard to Find",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi08_name_Current_Affairs",
+      "SetID": "7fi8cpe",
+      "Name": "Current Affairs",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi09_name_All_Codes_Lead_to_Home",
+      "SetID": "7fi8cpe",
+      "Name": "All Codes Lead to Home",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi10_name_Beyond_Infinity",
+      "SetID": "7fi8cpe",
+      "Name": "Beyond Infinity",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi11_name_Wakey_Wakey",
+      "SetID": "7fi8cpe",
+      "Name": "Wakey-Wakey",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi12_name_27_Lives",
+      "SetID": "7fi8cpe",
+      "Name": "27 Lives",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi13_name_The_Wormcatcher_Chronicles",
+      "SetID": "7fi8cpe",
+      "Name": "The Wormcatcher Chronicles",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi14_name_The_Coluombot_Files",
+      "SetID": "7fi8cpe",
+      "Name": "The Coulombot Files",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi15_name_A_True_Slider",
+      "SetID": "7fi8cpe",
+      "Name": "The Maestro",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi16_name_Cat_Thief",
+      "SetID": "7fi8cpe",
+      "Name": "Cat Thief",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi17_name_Get_Over_Here",
+      "SetID": "7fi8cpe",
+      "Name": "Get Over Here",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi19_name_Evil_Twin",
+      "SetID": "7fi8cpe",
+      "Name": "Evil Twin",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi20_name_Deaf_Virtuozo",
+      "SetID": "7fi8cpe",
+      "Name": "Silent Slider",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi21_name_Influencer",
+      "SetID": "7fi8cpe",
+      "Name": "Influencer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi22_name_Real_Estate_Baron",
+      "SetID": "7fi8cpe",
+      "Name": "Real Estate Baron",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi23_name_Double_Trouble",
+      "SetID": "7fi8cpe",
+      "Name": "Double Trouble",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi24_name_Racer",
+      "SetID": "7fi8cpe",
+      "Name": "Speed Daemon",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi25_name_Skin_Savant",
+      "SetID": "7fi8cpe",
+      "Name": "Skin Savant",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi27_name_Master_Of_Aesthetics",
+      "SetID": "7fi8cpe",
+      "Name": "Master of Aesthetics",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi28_name_Fashionista_Extraordinaire",
+      "SetID": "7fi8cpe",
+      "Name": "Fashionista Extraordinaire",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi30_name_ZIP_Anihilator",
+      "SetID": "7fi8cpe",
+      "Name": "ZIP Annihilator",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi31_name_ZIP_Obliterator",
+      "SetID": "7fi8cpe",
+      "Name": "ZIP Obliterator",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi32_name_ZIP_Demolisher",
+      "SetID": "7fi8cpe",
+      "Name": "ZIP Demolisher",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi33_name_Botcoin_Hunter",
+      "SetID": "7fi8cpe",
+      "Name": "Botcoin Hunter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi35_name_Botcoin_Seeker",
+      "SetID": "7fi8cpe",
+      "Name": "Botcoin Seeker",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi36_name_Botcoin_Master",
+      "SetID": "7fi8cpe",
+      "Name": "Botcoin Master",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi37_name_Treasure_Tracker",
+      "SetID": "7fi8cpe",
+      "Name": "Treasure Tracker",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi39_name_Treasure_Connoisseur",
+      "SetID": "7fi8cpe",
+      "Name": "Treasure Connoisseur",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi40_name_Treasure_Hoarder",
+      "SetID": "7fi8cpe",
+      "Name": "Treasure Hoarder",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi41_name_Star_Scorer",
+      "SetID": "7fi8cpe",
+      "Name": "Star Scorer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi42_name_Constellation_Champion",
+      "SetID": "7fi8cpe",
+      "Name": "Constellation Champion",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi43_name_Stellar_Perfectionist",
+      "SetID": "7fi8cpe",
+      "Name": "Stellar Perfectionist",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi44_name_Worm_Eradicator",
+      "SetID": "7fi8cpe",
+      "Name": "Worm Eradicator",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi46_name_Worm_Annihilator",
+      "SetID": "7fi8cpe",
+      "Name": "Worm Annihilator",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi47_name_Worm_Terminator",
+      "SetID": "7fi8cpe",
+      "Name": "Worm Terminator",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi48_name_Guardbot_Vanquisher",
+      "SetID": "7fi8cpe",
+      "Name": "Guardbot Vanquisher",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi50_name_Guardbot_Demolisher",
+      "SetID": "7fi8cpe",
+      "Name": "Guardbot Demolisher",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi51_name_Guardbot_Eradicator",
+      "SetID": "7fi8cpe",
+      "Name": "Guardbot Eradicator",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi52_name_The_Great_Conqueror",
+      "SetID": "7fi8cpe",
+      "Name": "The Great Conqueror",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi53_name_Byteland_Hero",
+      "SetID": "7fi8cpe",
+      "Name": "Byteland Hero",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi54_name_Flawless_Run",
+      "SetID": "7fi8cpe",
+      "Name": "Flawless Run",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi55_name_Unyielding_Perfection",
+      "SetID": "7fi8cpe",
+      "Name": "Unyielding Perfection",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi56_name_Dumpster_Diver",
+      "SetID": "7fi8cpe",
+      "Name": "Dumpster Diver",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi57_name_Sandy_Rampage",
+      "SetID": "7fi8cpe",
+      "Name": "Sandy Rampage",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achi58_name_Cinematic_Aficionado",
+      "SetID": "7fi8cpe",
+      "Name": "Cinephile",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "7fi8cpe",
@@ -40,8 +458,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-22T20:09:06.1697385+00:00",
-  "LastChanged_Achievements": "2024-01-09T07:10:15.7746946+00:00",
+  "LastChanged_Achievements": "2024-01-09T08:10:22.6858047+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:09.6871362+00:00",
-  "LastUpdate_Ratings": "2024-01-09T06:57:50.8579845+00:00",
-  "LastUpdate_Achievements": "2024-01-09T07:10:15.7746966+00:00"
+  "LastUpdate_Ratings": "2024-01-09T07:57:51.0119308+00:00",
+  "LastUpdate_Achievements": "2024-01-09T08:10:22.6884624+00:00"
 }

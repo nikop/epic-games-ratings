@@ -1,17 +1,17 @@
 # Chef Life - A Restaurant Simulator
 [Store](https://store.epicgames.com/en-US/p/chef-life-a-restaurant-simulator)  
 [View Rawdata](../../db/c/chef_life_-_a_restaurant_simulator.json)  
-Rating: 4.45 (Ranked 691)  
+Rating: 4.45 (Ranked 692)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Big Day | 61.00% | ~614 |
 | You're the Expert! | 27.00% | ~272 |
-| Home Cook | 24.00% | ~241 |
+| Home Cook | 24.00% | ~242 |
 | So Clean You Can Eat Off the Floor | 15.00% | ~151 |
 | S is for Scrumptious | 15.00% | ~151 |
 | French Flair | 14.00% | ~141 |
-| Next Level Cuisine | 8.00% | ~80 |
+| Next Level Cuisine | 8.00% | ~81 |
 | Haute Cuisine | 7.00% | ~70 |
 | Italian Style | 6.00% | ~60 |
 | Sous-Chef | 4.00% | ~40 |
@@ -46,7 +46,7 @@ Rating: 4.45 (Ranked 691)
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,006 (Ranked 291)  
+Progressed: 1,007 (Ranked 291)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 985 | 0 |
 | 2024-01-07 | 995 | 0 |
 | 2024-01-08 | 1,002 | 0 |
-| 2024-01-09 | 1,006 | 0 |
+| 2024-01-09 | 1,007 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

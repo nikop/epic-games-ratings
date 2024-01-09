@@ -2,9 +2,9 @@
   "ID": "a4b5203877a04321bd1989cef6ba51dc",
   "Name": "One Hand Clapping",
   "ProductSlug": "one-hand-clapping",
-  "Ranking_EOS_Progress": 297,
+  "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 936,
+  "EOS_Progressed": 938,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -824,6 +824,11 @@
       "Time": "2024-01-09T02:32:26.0587109+00:00",
       "NumProgressed": 936,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T08:07:34.9212984+00:00",
+      "NumProgressed": 938,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -1043,7 +1048,7 @@
       "Name": "Fermata",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "9",
@@ -1058,7 +1063,7 @@
     {
       "ID": "7l2nmpm",
       "IsBase": true,
-      "Progressed": 936,
+      "Progressed": 938,
       "Completed": 0
     }
   ],
@@ -1066,8 +1071,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2024-01-09T07:06:59.89391+00:00",
+  "LastChanged_Achievements": "2024-01-09T08:07:34.9212979+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:08.3557849+00:00",
-  "LastUpdate_Ratings": "2024-01-09T07:00:14.6002291+00:00",
-  "LastUpdate_Achievements": "2024-01-09T07:06:59.8939744+00:00"
+  "LastUpdate_Ratings": "2024-01-09T08:00:47.468437+00:00",
+  "LastUpdate_Achievements": "2024-01-09T08:07:34.9213249+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "308cbcb523ad4937a8c509d10e9b688a",
   "Name": "Farming Simulator 22",
   "ProductSlug": "farming-simulator-22",
-  "Ranking_Rating": 261,
+  "Ranking_Rating": 262,
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 34,
   "Ranking_EOS_Progress": 118,
@@ -13434,9 +13434,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 61800,
+  "EOS_Progressed": 61801,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1571,
+  "EOS_NewPlayers": 1572,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -38479,6 +38479,11 @@
       "Time": "2024-01-09T07:04:18.6615941+00:00",
       "NumProgressed": 61800,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-09T08:04:21.2140054+00:00",
+      "NumProgressed": 61801,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -38570,7 +38575,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 36462
+      "UsersEstimate": 36463
     },
     {
       "ID": "CutTree",
@@ -38586,7 +38591,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 34608
+      "UsersEstimate": 34609
     },
     {
       "ID": "DeliveryGrapes",
@@ -38626,7 +38631,7 @@
       "Name": "Plant get enough",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 34608
+      "UsersEstimate": 34609
     },
     {
       "ID": "Harvested",
@@ -38642,7 +38647,7 @@
       "Name": "Own use",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 43878
+      "UsersEstimate": 43879
     },
     {
       "ID": "HorseJumps",
@@ -38746,7 +38751,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 33372
+      "UsersEstimate": 33373
     },
     {
       "ID": "PetDog",
@@ -38762,7 +38767,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 33372
+      "UsersEstimate": 33373
     },
     {
       "ID": "Sow",
@@ -38778,7 +38783,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 35844
+      "UsersEstimate": 35845
     },
     {
       "ID": "Stones",
@@ -38833,15 +38838,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 61800,
+      "Progressed": 61801,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2024-01-09T01:46:50.8983356+00:00",
-  "LastChanged_Achievements": "2024-01-09T07:04:18.6615938+00:00",
+  "LastChanged_Achievements": "2024-01-09T08:04:21.214005+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:56.5163722+00:00",
-  "LastUpdate_Ratings": "2024-01-09T06:58:23.6900921+00:00",
-  "LastUpdate_Achievements": "2024-01-09T07:04:18.6617236+00:00"
+  "LastUpdate_Ratings": "2024-01-09T07:58:32.0662775+00:00",
+  "LastUpdate_Achievements": "2024-01-09T08:04:21.2141715+00:00"
 }

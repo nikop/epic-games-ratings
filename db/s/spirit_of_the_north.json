@@ -2,7 +2,7 @@
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
-  "Ranking_Rating": 816,
+  "Ranking_Rating": 817,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 111,
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 79554,
+  "EOS_Progressed": 79556,
   "EOS_Completed": 431,
-  "EOS_NewPlayers": 772,
+  "EOS_NewPlayers": 773,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -29484,6 +29484,11 @@
       "Time": "2024-01-09T07:10:17.0533627+00:00",
       "NumProgressed": 79554,
       "NumCompleted": 431
+    },
+    {
+      "Time": "2024-01-09T08:10:24.2880786+00:00",
+      "NumProgressed": 79556,
+      "NumCompleted": 431
     }
   ],
   "TotalAchievements": 24,
@@ -29511,7 +29516,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 54892
+      "UsersEstimate": 54894
     },
     {
       "ID": "BEST_FRIENDS",
@@ -29527,7 +29532,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 20684
+      "UsersEstimate": 20685
     },
     {
       "ID": "ERADICATE",
@@ -29535,7 +29540,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16706
+      "UsersEstimate": 16707
     },
     {
       "ID": "FETCH",
@@ -29543,7 +29548,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 22275
+      "UsersEstimate": 22276
     },
     {
       "ID": "FOXIN_AROUND",
@@ -29575,7 +29580,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 42164
+      "UsersEstimate": 42165
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -29655,7 +29660,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 13524
+      "UsersEstimate": 13525
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -29671,7 +29676,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 9546
+      "UsersEstimate": 9547
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -29686,7 +29691,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 79554,
+      "Progressed": 79556,
       "Completed": 431
     }
   ],
@@ -29694,8 +29699,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-09T07:10:17.0533623+00:00",
+  "LastChanged_Achievements": "2024-01-09T08:10:24.2880781+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:00.3957366+00:00",
-  "LastUpdate_Ratings": "2024-01-09T07:01:02.1422344+00:00",
-  "LastUpdate_Achievements": "2024-01-09T07:10:17.0535213+00:00"
+  "LastUpdate_Ratings": "2024-01-09T08:01:46.6398826+00:00",
+  "LastUpdate_Achievements": "2024-01-09T08:10:24.2882619+00:00"
 }

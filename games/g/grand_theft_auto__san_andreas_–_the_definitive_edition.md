@@ -1,15 +1,15 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 525)  
+Rating: 4.55 (Ranked 526)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,446 |
-| Pay 'n' Spray | 50.00% | ~9,534 |
-| All Dressed Up for San Fierro | 25.00% | ~4,767 |
-| The American Dream | 18.00% | ~3,432 |
-| School's Out | 18.00% | ~3,432 |
+| Getting Started | 81.00% | ~15,448 |
+| Pay 'n' Spray | 50.00% | ~9,536 |
+| All Dressed Up for San Fierro | 25.00% | ~4,768 |
+| The American Dream | 18.00% | ~3,433 |
+| School's Out | 18.00% | ~3,433 |
 | Smooth Moves | 17.00% | ~3,242 |
 | What happens in Las Venturas... | 14.00% | ~2,670 |
 | Today Was a Good Day | 14.00% | ~2,670 |
@@ -19,7 +19,7 @@ Rating: 4.55 (Ranked 525)
 | With Extra Dip | 7.00% | ~1,335 |
 | The End of the Line | 7.00% | ~1,335 |
 | Saviour | 6.00% | ~1,144 |
-| Rescue a Kitten Too? | 5.00% | ~953 |
+| Rescue a Kitten Too? | 5.00% | ~954 |
 | They Can’t Stop All of Us | 4.00% | ~763 |
 | What are the Odds | 4.00% | ~763 |
 | Bike or Biker | 3.00% | ~572 |
@@ -37,11 +37,11 @@ Rating: 4.55 (Ranked 525)
 | Lucky Spinner | 1.00% | ~191 |
 | Not a Player | 1.00% | ~191 |
 | Chick Magnet | 1.00% | ~191 |
-| Remastered | 0.70% | ~133 |
+| Remastered | 0.70% | ~134 |
 | ...Here we go again | 0.50% | ~95 |
 | I Ain't No Buster | 0.40% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,069 (Ranked 157)  
+Progressed: 19,072 (Ranked 157)  
 Completed: 75 (0.39%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,10 +305,10 @@ Completed: 75 (0.39%) (Ranked 238)
 | 2024-01-06 | 18,702 | 75 |
 | 2024-01-07 | 18,889 | 75 |
 | 2024-01-08 | 19,021 | 75 |
-| 2024-01-09 | 19,069 | 75 |
+| 2024-01-09 | 19,072 | 75 |
 ## Awards
 Max (Great Boss Battles): 633  (Ranked 201)  
-Sum: 1,005 (Ranked 275)  
+Sum: 1,009 (Ranked 275)  
 Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
@@ -317,7 +317,7 @@ Diff (max vs sum): -74
 | This game is Relaxing | 53 |
 | This game has Amazing Storytelling | 52 |
 | This game is Great for Beginners | 50 |
-| This game is Highly Recommended | 45 |
+| This game is Highly Recommended | 49 |
 | This game has Diverse Characters | 42 |
 | This game is Extremely Fun | 38 |
 | This game has Quickly Understood Controls | 37 |
@@ -550,4 +550,4 @@ Diff (max vs sum): -74
 | 2024-01-06 | 4.55 | 54 | 355 |
 | 2024-01-07 | 4.55 | 54 | 363 |
 | 2024-01-08 | 4.55 | 633 | 1,004 |
-| 2024-01-09 | 4.55 | 633 | 1,005 |
+| 2024-01-09 | 4.55 | 633 | 1,009 |

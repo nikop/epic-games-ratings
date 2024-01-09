@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 4.00 (Ranked 1,045)  
+Rating: 4.00 (Ranked 1,046)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,7 +9,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 11.00% | ~16,542 |
 | Titan's First Steps | 11.00% | ~16,542 |
 | Basic in Bulk | 10.00% | ~15,038 |
-| Tinkle of Coins | 9.00% | ~13,534 |
+| Tinkle of Coins | 9.00% | ~13,535 |
 | Disintermediation | 7.00% | ~10,527 |
 | It's Free Real Estate | 7.00% | ~10,527 |
 | Capitalism Ho! | 7.00% | ~10,527 |
@@ -30,27 +30,27 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 4.00% | ~6,015 |
 | Did we pack lunch? | 4.00% | ~6,015 |
 | Arcane Industries | 4.00% | ~6,015 |
-| On the Path to Greatness | 3.00% | ~4,511 |
-| Ascended | 3.00% | ~4,511 |
-| Tax not Included | 3.00% | ~4,511 |
-| Research & Development | 3.00% | ~4,511 |
-| Vanity, Verily | 3.00% | ~4,511 |
-| Fated Encounters | 3.00% | ~4,511 |
-| For the Hoard! | 3.00% | ~4,511 |
-| Blank Page Syndrome | 3.00% | ~4,511 |
-| This Power Level...! | 3.00% | ~4,511 |
-| Power of Love | 3.00% | ~4,511 |
-| Efficient Floor Space | 3.00% | ~4,511 |
-| Flawless Fusion | 3.00% | ~4,511 |
-| Trash to Treasure | 3.00% | ~4,511 |
-| Gem Expert | 3.00% | ~4,511 |
-| Royal Ransom | 3.00% | ~4,511 |
-| Helping Hand | 3.00% | ~4,511 |
-| Accomplished Merchant | 3.00% | ~4,511 |
-| Natural 20 | 3.00% | ~4,511 |
-| Magical Harmony | 3.00% | ~4,511 |
-| Special Ingredient | 3.00% | ~4,511 |
-| Complete Monopoly | 3.00% | ~4,511 |
+| On the Path to Greatness | 3.00% | ~4,512 |
+| Ascended | 3.00% | ~4,512 |
+| Tax not Included | 3.00% | ~4,512 |
+| Research & Development | 3.00% | ~4,512 |
+| Vanity, Verily | 3.00% | ~4,512 |
+| Fated Encounters | 3.00% | ~4,512 |
+| For the Hoard! | 3.00% | ~4,512 |
+| Blank Page Syndrome | 3.00% | ~4,512 |
+| This Power Level...! | 3.00% | ~4,512 |
+| Power of Love | 3.00% | ~4,512 |
+| Efficient Floor Space | 3.00% | ~4,512 |
+| Flawless Fusion | 3.00% | ~4,512 |
+| Trash to Treasure | 3.00% | ~4,512 |
+| Gem Expert | 3.00% | ~4,512 |
+| Royal Ransom | 3.00% | ~4,512 |
+| Helping Hand | 3.00% | ~4,512 |
+| Accomplished Merchant | 3.00% | ~4,512 |
+| Natural 20 | 3.00% | ~4,512 |
+| Magical Harmony | 3.00% | ~4,512 |
+| Special Ingredient | 3.00% | ~4,512 |
+| Complete Monopoly | 3.00% | ~4,512 |
 | A Notch Above the Rest | 2.00% | ~3,008 |
 | Cream of the Crop | 2.00% | ~3,008 |
 | Top of the World | 2.00% | ~3,008 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~602 |
 | Capitalist Camaraderie | 0.20% | ~301 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,381 (Ranked 86)  
+Progressed: 150,385 (Ranked 86)  
 Completed: 345 (0.23%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -383,7 +383,7 @@ Completed: 345 (0.23%) (Ranked 270)
 | 2024-01-06 | 149,985 | 345 |
 | 2024-01-07 | 150,192 | 345 |
 | 2024-01-08 | 150,343 | 345 |
-| 2024-01-09 | 150,381 | 345 |
+| 2024-01-09 | 150,385 | 345 |
 ## Awards
 Max (Great for Beginners): 4,948  (Ranked 78)  
 Sum: 27,966 (Ranked 52)  

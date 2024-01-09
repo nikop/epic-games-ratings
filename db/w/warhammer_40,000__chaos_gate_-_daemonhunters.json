@@ -2,12 +2,12 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 472,
+  "Ranking_Rating": 473,
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -837,9 +837,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3849,
+  "EOS_Progressed": 3850,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5792,6 +5792,11 @@
       "Time": "2024-01-09T07:05:13.8384668+00:00",
       "NumProgressed": 3849,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T08:05:27.638814+00:00",
+      "NumProgressed": 3850,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5963,7 +5968,7 @@
       "Name": "Hold Your Ground",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "Kills_Auto",
@@ -6027,7 +6032,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "Kills_Streak",
@@ -6139,7 +6144,7 @@
       "Name": "Bloodless",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -6163,7 +6168,7 @@
       "Name": "Just a Scratch",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "NexusCompleted",
@@ -6339,28 +6344,28 @@
       "Name": "Hive Exterminator",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     }
   ],
   "AchievementSets": [
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3849,
+      "Progressed": 3850,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3849,
+      "Progressed": 3850,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-07T22:03:18.1525827+00:00",
-  "LastChanged_Achievements": "2024-01-09T07:05:13.8384663+00:00",
+  "LastChanged_Achievements": "2024-01-09T08:05:27.6388135+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:54.2702622+00:00",
-  "LastUpdate_Ratings": "2024-01-09T07:03:43.8750099+00:00",
-  "LastUpdate_Achievements": "2024-01-09T07:05:13.8385425+00:00"
+  "LastUpdate_Ratings": "2024-01-09T08:03:37.4565833+00:00",
+  "LastUpdate_Achievements": "2024-01-09T08:05:27.6388851+00:00"
 }

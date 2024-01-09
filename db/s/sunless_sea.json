@@ -2,7 +2,7 @@
   "ID": "f672c20984f04f69936e6057feefe3d1",
   "Name": "Sunless Sea",
   "ProductSlug": "sunless-sea",
-  "Ranking_Rating": 472,
+  "Ranking_Rating": 473,
   "Ranking_Popularity": 291,
   "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 130,
@@ -808,9 +808,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 43910,
+  "EOS_Progressed": 43911,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 518,
+  "EOS_NewPlayers": 517,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27828,6 +27828,11 @@
       "Time": "2024-01-09T06:05:26.5281141+00:00",
       "NumProgressed": 43910,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-09T08:06:37.9291787+00:00",
+      "NumProgressed": 43911,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -28047,7 +28052,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6147
+      "UsersEstimate": 6148
     },
     {
       "ID": "ach_legacysalvager",
@@ -28207,7 +28212,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6586
+      "UsersEstimate": 6587
     },
     {
       "ID": "ach_undercurrent",
@@ -28270,15 +28275,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 43910,
+      "Progressed": 43911,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-05T23:59:49.2303848+00:00",
-  "LastChanged_Achievements": "2024-01-09T07:06:12.5295902+00:00",
+  "LastChanged_Achievements": "2024-01-09T08:06:37.9291784+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.5653659+00:00",
-  "LastUpdate_Ratings": "2024-01-09T06:58:27.3730251+00:00",
-  "LastUpdate_Achievements": "2024-01-09T07:06:12.5297278+00:00"
+  "LastUpdate_Ratings": "2024-01-09T07:58:36.791413+00:00",
+  "LastUpdate_Achievements": "2024-01-09T08:06:37.929326+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 525,
+  "EOS_Progressed": 526,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 4,
@@ -1749,6 +1749,11 @@
       "Time": "2024-01-09T07:07:02.749218+00:00",
       "NumProgressed": 525,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-09T08:07:38.360763+00:00",
+      "NumProgressed": 526,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1769,7 +1774,7 @@
       "Name": "Blabber",
       "Percentage": 50,
       "XP": 145,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ach3",
@@ -1793,7 +1798,7 @@
       "Name": "Cloudbuster",
       "Percentage": 2,
       "XP": 140,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach6",
@@ -1801,7 +1806,7 @@
       "Name": "Creature Maker",
       "Percentage": 2,
       "XP": 140,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach7",
@@ -1816,14 +1821,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 525,
+      "Progressed": 526,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-09T07:07:02.7492176+00:00",
+  "LastChanged_Achievements": "2024-01-09T08:07:38.3607625+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:14.741569+00:00",
-  "LastUpdate_Ratings": "2024-01-09T06:58:51.8363828+00:00",
-  "LastUpdate_Achievements": "2024-01-09T07:07:02.7492349+00:00"
+  "LastUpdate_Ratings": "2024-01-09T07:59:07.5471785+00:00",
+  "LastUpdate_Achievements": "2024-01-09T08:07:38.3607787+00:00"
 }

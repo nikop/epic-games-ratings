@@ -1,11 +1,11 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.18 (Ranked 980)  
+Rating: 4.18 (Ranked 981)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 62.00% | ~1,302 |
+| Break Out | 62.00% | ~1,303 |
 | Trinity | 31.00% | ~651 |
 | The Collector | 25.00% | ~525 |
 | Find Allies | 24.00% | ~504 |
@@ -42,7 +42,7 @@ Rating: 4.18 (Ranked 980)
 | All That Gold | 0.70% | ~15 |
 | Feeling Fancy | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,100 (Ranked 247)  
+Progressed: 2,101 (Ranked 247)  
 Completed: 3 (0.14%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 3 (0.14%) (Ranked 295)
 | 2024-01-06 | 1,936 | 3 |
 | 2024-01-07 | 2,015 | 3 |
 | 2024-01-08 | 2,086 | 3 |
-| 2024-01-09 | 2,100 | 3 |
+| 2024-01-09 | 2,101 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

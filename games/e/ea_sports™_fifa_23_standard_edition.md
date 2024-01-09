@@ -1,27 +1,27 @@
 # EA SPORTS™ FIFA 23 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/fifa-23)  
 [View Rawdata](../../db/e/ea_sports™_fifa_23_standard_edition.json)  
-Rating: 4.26 (Ranked 914)  
+Rating: 4.26 (Ranked 915)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~158,788 |
-| Dead-ball specialist | 61.00% | ~129,148 |
-| European Legend | 52.00% | ~110,093 |
-| Multitasking | 51.00% | ~107,976 |
-| Balanced Path | 49.00% | ~103,742 |
-| High Grades | 48.00% | ~101,625 |
-| A Moment of Your Time | 46.00% | ~97,390 |
-| Let the Games Begin | 46.00% | ~97,390 |
-| Aiming High | 46.00% | ~97,390 |
-| Tactical Tinkerer | 40.00% | ~84,687 |
-| Intuition and Execution | 39.00% | ~82,570 |
-| Squad Building Connoisseur | 38.00% | ~80,453 |
-| The Winning Formula | 36.00% | ~76,218 |
-| Parking the Bus | 28.00% | ~59,281 |
+| Power Shot | 75.00% | ~158,790 |
+| Dead-ball specialist | 61.00% | ~129,149 |
+| European Legend | 52.00% | ~110,094 |
+| Multitasking | 51.00% | ~107,977 |
+| Balanced Path | 49.00% | ~103,743 |
+| High Grades | 48.00% | ~101,626 |
+| A Moment of Your Time | 46.00% | ~97,391 |
+| Let the Games Begin | 46.00% | ~97,391 |
+| Aiming High | 46.00% | ~97,391 |
+| Tactical Tinkerer | 40.00% | ~84,688 |
+| Intuition and Execution | 39.00% | ~82,571 |
+| Squad Building Connoisseur | 38.00% | ~80,454 |
+| The Winning Formula | 36.00% | ~76,219 |
+| Parking the Bus | 28.00% | ~59,282 |
 | Safe House | 26.00% | ~55,047 |
 | Best of Five | 26.00% | ~55,047 |
-| Football is Everything | 24.00% | ~50,812 |
+| Football is Everything | 24.00% | ~50,813 |
 | The Chosen One | 22.00% | ~46,578 |
 | Fresh Fit | 20.00% | ~42,344 |
 | Bring it on | 17.00% | ~35,992 |
@@ -45,7 +45,7 @@ Rating: 4.26 (Ranked 914)
 | Training Addict | 0.10% | ~212 |
 | Dazzling Personality | 0.10% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,718 (Ranked 81)  
+Progressed: 211,720 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 211,022 | 0 |
 | 2024-01-07 | 211,381 | 0 |
 | 2024-01-08 | 211,646 | 0 |
-| 2024-01-09 | 211,718 | 0 |
+| 2024-01-09 | 211,720 | 0 |
 ## Awards
 Max (Diverse Characters): 22,178  (Ranked 21)  
 Sum: 110,151 (Ranked 17)  

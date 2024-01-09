@@ -2,7 +2,7 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 893,
+  "Ranking_Rating": 894,
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 68,
@@ -531,9 +531,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 257340,
+  "EOS_Progressed": 257343,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 788,
+  "EOS_NewPlayers": 789,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30141,6 +30141,11 @@
       "Time": "2024-01-09T07:07:03.7709077+00:00",
       "NumProgressed": 257340,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-09T08:07:39.6655745+00:00",
+      "NumProgressed": 257343,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -30152,7 +30157,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69482
+      "UsersEstimate": 69483
     },
     {
       "ID": "ACH_AON",
@@ -30216,7 +30221,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 33454
+      "UsersEstimate": 33455
     },
     {
       "ID": "ACH_HATTRICK",
@@ -30368,7 +30373,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64335
+      "UsersEstimate": 64336
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -30432,7 +30437,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15440
+      "UsersEstimate": 15441
     },
     {
       "ID": "ACH_MEMORY5",
@@ -30472,7 +30477,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64335
+      "UsersEstimate": 64336
     },
     {
       "ID": "ACH_SOREAD",
@@ -30520,7 +30525,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15440
+      "UsersEstimate": 15441
     },
     {
       "ID": "ACH_TROLLKING",
@@ -30536,7 +30541,7 @@
       "Name": "Valedictorian",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 15440
+      "UsersEstimate": 15441
     },
     {
       "ID": "ACH_WAKEUP",
@@ -30567,7 +30572,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 257340,
+      "Progressed": 257343,
       "Completed": 8
     }
   ],
@@ -30575,8 +30580,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-07T06:59:33.5120789+00:00",
-  "LastChanged_Achievements": "2024-01-09T07:07:03.7709072+00:00",
+  "LastChanged_Achievements": "2024-01-09T08:07:39.665574+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:49.3537821+00:00",
-  "LastUpdate_Ratings": "2024-01-09T06:57:32.8138183+00:00",
-  "LastUpdate_Achievements": "2024-01-09T07:07:03.7710446+00:00"
+  "LastUpdate_Ratings": "2024-01-09T07:57:28.6997452+00:00",
+  "LastUpdate_Achievements": "2024-01-09T08:07:39.6657593+00:00"
 }

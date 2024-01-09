@@ -2,7 +2,7 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 472,
+  "Ranking_Rating": 473,
   "Ranking_Popularity": 137,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 73,
@@ -3880,9 +3880,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242654,
+  "EOS_Progressed": 242657,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31200,6 +31200,11 @@
       "Time": "2024-01-09T07:10:51.161936+00:00",
       "NumProgressed": 242654,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-09T08:11:03.9154073+00:00",
+      "NumProgressed": 242657,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -32314,13 +32319,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242654,
+      "Progressed": 242657,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4134,
+      "Progressed": 4137,
       "Completed": 423
     }
   ],
@@ -32328,8 +32333,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-06T01:46:20.0115002+00:00",
-  "LastChanged_Achievements": "2024-01-09T07:10:51.1619356+00:00",
+  "LastChanged_Achievements": "2024-01-09T08:11:03.9154067+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-09T06:57:50.7059613+00:00",
-  "LastUpdate_Achievements": "2024-01-09T07:10:51.1622049+00:00"
+  "LastUpdate_Ratings": "2024-01-09T07:57:50.9523894+00:00",
+  "LastUpdate_Achievements": "2024-01-09T08:11:03.915674+00:00"
 }

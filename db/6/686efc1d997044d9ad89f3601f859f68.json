@@ -4,7 +4,7 @@
   "ProductSlug": "sae-7a5090",
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 573,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-06T23:57:21.3890951+00:00",
-  "LastUpdate_Ratings": "2024-01-09T06:58:30.4652378+00:00",
-  "LastUpdate_Achievements": "2024-01-09T07:07:08.5248523+00:00"
+  "LastUpdate_Ratings": "2024-01-09T07:58:40.7846016+00:00",
+  "LastUpdate_Achievements": "2024-01-09T08:07:45.1246631+00:00"
 }

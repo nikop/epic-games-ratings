@@ -2,7 +2,7 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 989,
+  "Ranking_Rating": 990,
   "Ranking_Popularity": 464,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 126,
@@ -625,9 +625,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 46850,
+  "EOS_Progressed": 46854,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 782,
+  "EOS_NewPlayers": 784,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18190,6 +18190,11 @@
       "Time": "2024-01-09T07:05:47.9600653+00:00",
       "NumProgressed": 46850,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-09T08:06:08.6842628+00:00",
+      "NumProgressed": 46854,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18233,7 +18238,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -18257,7 +18262,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -18305,7 +18310,7 @@
       "Name": "The Truth Will Out",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "CHAPTER_09_CLEAR",
@@ -18313,7 +18318,7 @@
       "Name": "Breaking Point",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "CHAPTER_10_CLEAR",
@@ -18321,7 +18326,7 @@
       "Name": "None the Wiser",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "CHAPTER_11_CLEAR",
@@ -18329,7 +18334,7 @@
       "Name": "Forspoken",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "CHAPTER_12_CLEAR",
@@ -18353,7 +18358,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4216
+      "UsersEstimate": 4217
     },
     {
       "ID": "CUFF_ATTACK",
@@ -18457,7 +18462,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     },
     {
       "ID": "MAGIC_IVY",
@@ -18497,7 +18502,7 @@
       "Name": "Pilgrimage: Novice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "PARKOUR_DISTANCE",
@@ -18624,22 +18629,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 46850,
+      "Progressed": 46854,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11687,
-      "Completed": 11687
+      "Progressed": 11691,
+      "Completed": 11691
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-08T14:02:52.9019141+00:00",
-  "LastChanged_Achievements": "2024-01-09T07:05:47.9600648+00:00",
+  "LastChanged_Achievements": "2024-01-09T08:06:08.6842624+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-09T07:03:26.6342586+00:00",
-  "LastUpdate_Achievements": "2024-01-09T07:05:47.9601985+00:00"
+  "LastUpdate_Ratings": "2024-01-09T08:03:17.572228+00:00",
+  "LastUpdate_Achievements": "2024-01-09T08:06:08.6843702+00:00"
 }

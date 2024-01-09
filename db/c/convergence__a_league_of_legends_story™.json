@@ -2,7 +2,7 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 236,
+  "Ranking_Rating": 237,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 280,
@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1280,
+  "EOS_Progressed": 1281,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3828,6 +3828,11 @@
       "Time": "2024-01-09T07:10:49.1351553+00:00",
       "NumProgressed": 1280,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-09T08:11:01.846487+00:00",
+      "NumProgressed": 1281,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3855,7 +3860,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ChestCompletion1",
@@ -3911,7 +3916,7 @@
       "Name": "Street Style",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "CultivairChests1",
@@ -3959,7 +3964,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -3975,7 +3980,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "GadgetCompletion1",
@@ -4037,9 +4042,9 @@
       "ID": "MapCompletion1",
       "SetID": "a9e499d",
       "Name": "Cartographer",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 154
     },
     {
       "ID": "NoCritterSump",
@@ -4103,7 +4108,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -4111,7 +4116,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "PidgeDefeated",
@@ -4191,7 +4196,7 @@
       "Name": "Syron for Hope",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "TemporalPulseKills1",
@@ -4231,7 +4236,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "WatcherSpared",
@@ -4247,7 +4252,7 @@
       "Name": "The Brass Boss",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "Zarkon2Defeated",
@@ -4255,14 +4260,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1280,
+      "Progressed": 1281,
       "Completed": 7
     }
   ],
@@ -4270,8 +4275,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-09T07:10:49.135155+00:00",
+  "LastChanged_Achievements": "2024-01-09T08:11:01.8464864+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-09T06:59:35.6864825+00:00",
-  "LastUpdate_Achievements": "2024-01-09T07:10:49.1352112+00:00"
+  "LastUpdate_Ratings": "2024-01-09T08:00:00.4508928+00:00",
+  "LastUpdate_Achievements": "2024-01-09T08:11:01.8465542+00:00"
 }

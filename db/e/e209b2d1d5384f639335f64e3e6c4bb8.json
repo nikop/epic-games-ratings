@@ -2,7 +2,7 @@
   "ID": "e209b2d1d5384f639335f64e3e6c4bb8",
   "Name": "Homeworld: Deserts of Kharak",
   "ProductSlug": "homeworld-deserts-of-kharak",
-  "Ranking_Rating": 766,
+  "Ranking_Rating": 767,
   "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 61,
@@ -329,9 +329,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 340168,
+  "EOS_Progressed": 340175,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2118,
+  "EOS_NewPlayers": 2120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16809,6 +16809,11 @@
       "Time": "2024-01-09T07:05:32.0198332+00:00",
       "NumProgressed": 340168,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T08:05:49.7246445+00:00",
+      "NumProgressed": 340175,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -16845,7 +16850,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 149674
+      "UsersEstimate": 149677
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -16853,7 +16858,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 108854
+      "UsersEstimate": 108856
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -16861,7 +16866,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 71435
+      "UsersEstimate": 71437
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -16869,7 +16874,7 @@
       "Name": "Kalash Site",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 51025
+      "UsersEstimate": 51026
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -16877,7 +16882,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 40820
+      "UsersEstimate": 40821
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -16885,7 +16890,7 @@
       "Name": "Beladin Dune Sea",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 37418
+      "UsersEstimate": 37419
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -16893,7 +16898,7 @@
       "Name": "Gaalsien Base",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 30615
+      "UsersEstimate": 30616
     },
     {
       "ID": "ACHV_M08_COMPLETE",
@@ -16901,7 +16906,7 @@
       "Name": "Tombs of the Ancients",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 30615
+      "UsersEstimate": 30616
     },
     {
       "ID": "ACHV_M09_COMPLETE",
@@ -16909,7 +16914,7 @@
       "Name": "The Whispering Gallery",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 27213
+      "UsersEstimate": 27214
     },
     {
       "ID": "ACHV_M10_COMPLETE",
@@ -16917,7 +16922,7 @@
       "Name": "Khashar Approach",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 27213
+      "UsersEstimate": 27214
     },
     {
       "ID": "ACHV_M11_COMPLETE",
@@ -17197,20 +17202,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 173486
+      "UsersEstimate": 173489
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 340168,
+      "Progressed": 340175,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 340157,
+      "Progressed": 340164,
       "Completed": 1
     }
   ],
@@ -17218,8 +17223,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2024-01-04T19:02:51.3200067+00:00",
-  "LastChanged_Achievements": "2024-01-09T07:05:32.0198326+00:00",
+  "LastChanged_Achievements": "2024-01-09T08:05:49.724644+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:11.3845313+00:00",
-  "LastUpdate_Ratings": "2024-01-09T07:03:29.2541772+00:00",
-  "LastUpdate_Achievements": "2024-01-09T07:05:32.0199294+00:00"
+  "LastUpdate_Ratings": "2024-01-09T08:03:20.7670217+00:00",
+  "LastUpdate_Achievements": "2024-01-09T08:05:49.7247551+00:00"
 }

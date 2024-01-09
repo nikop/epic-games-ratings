@@ -1,40 +1,40 @@
 # Cities: Skylines
 [Store](https://store.epicgames.com/en-US/p/cities-skylines)  
 [View Rawdata](../../db/c/cities__skylines.json)  
-Rating: 4.66 (Ranked 300)  
+Rating: 4.66 (Ranked 301)  
 Number of Ratings: 25,248  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~892,999 |
-| Green Energy | 59.00% | ~742,070 |
-| Foggy Weather | 58.00% | ~729,492 |
-| Singing In The- | 58.00% | ~729,492 |
-| Unpopular Mayor | 40.00% | ~503,098 |
-| Power at Your Fingertips | 33.00% | ~415,056 |
-| City Planner | 22.00% | ~276,704 |
-| Rolling in Dough | 20.00% | ~251,549 |
-| Does My Bum Look Big In This? | 17.00% | ~213,817 |
-| Climbing the Social Ladder | 16.00% | ~201,239 |
-| Safe City | 13.00% | ~163,507 |
-| Quay-King | 11.00% | ~138,352 |
-| With Canals You Can! | 10.00% | ~125,774 |
-| Lawmaker | 9.00% | ~113,197 |
-| Nomen Est Omen | 7.00% | ~88,042 |
-| Well Informed | 6.00% | ~75,465 |
-| Fire Watch | 5.00% | ~62,887 |
-| Greenest City | 4.00% | ~50,310 |
-| Heavenly City | 3.00% | ~37,732 |
-| Reporting! | 3.00% | ~37,732 |
-| SIMulated City | 3.00% | ~37,732 |
-| The Safest Town | 3.00% | ~37,732 |
-| Professional Dumper | 2.00% | ~25,155 |
-| City in Motion | 1.00% | ~12,577 |
-| Earthloving City | 1.00% | ~12,577 |
-| Metropolis | 1.00% | ~12,577 |
+| Pioneer | 71.00% | ~893,029 |
+| Green Energy | 59.00% | ~742,095 |
+| Foggy Weather | 58.00% | ~729,517 |
+| Singing In The- | 58.00% | ~729,517 |
+| Unpopular Mayor | 40.00% | ~503,115 |
+| Power at Your Fingertips | 33.00% | ~415,070 |
+| City Planner | 22.00% | ~276,713 |
+| Rolling in Dough | 20.00% | ~251,558 |
+| Does My Bum Look Big In This? | 17.00% | ~213,824 |
+| Climbing the Social Ladder | 16.00% | ~201,246 |
+| Safe City | 13.00% | ~163,512 |
+| Quay-King | 11.00% | ~138,357 |
+| With Canals You Can! | 10.00% | ~125,779 |
+| Lawmaker | 9.00% | ~113,201 |
+| Nomen Est Omen | 7.00% | ~88,045 |
+| Well Informed | 6.00% | ~75,467 |
+| Fire Watch | 5.00% | ~62,889 |
+| Greenest City | 4.00% | ~50,312 |
+| Heavenly City | 3.00% | ~37,734 |
+| Reporting! | 3.00% | ~37,734 |
+| SIMulated City | 3.00% | ~37,734 |
+| The Safest Town | 3.00% | ~37,734 |
+| Professional Dumper | 2.00% | ~25,156 |
+| City in Motion | 1.00% | ~12,578 |
+| Earthloving City | 1.00% | ~12,578 |
+| Metropolis | 1.00% | ~12,578 |
 | Higher Education | 0.80% | ~10,062 |
-| Beam Me Up | 0.70% | ~8,804 |
-| Terraformer | 0.60% | ~7,546 |
+| Beam Me Up | 0.70% | ~8,805 |
+| Terraformer | 0.60% | ~7,547 |
 | Decorator | 0.50% | ~6,289 |
 | Full Capacity | 0.50% | ~6,289 |
 | It's heading right for us! | 0.50% | ~6,289 |
@@ -57,16 +57,16 @@ Number of Ratings: 25,248  (23.09.2022)
 | Here's A Tram | 0.30% | ~3,773 |
 | Short Fuse | 0.30% | ~3,773 |
 | We need snorkels! | 0.30% | ~3,773 |
-| City in Motion 2 | 0.20% | ~2,515 |
-| Eternal City | 0.20% | ~2,515 |
-| Friendly Teaching | 0.20% | ~2,515 |
-| It's Wintertime! | 0.20% | ~2,515 |
-| Make Them Pay | 0.20% | ~2,515 |
-| Medic! | 0.20% | ~2,515 |
-| New Eden | 0.20% | ~2,515 |
-| Power to the People | 0.20% | ~2,515 |
-| Run, Bambi! | 0.20% | ~2,515 |
-| The Park To Rule All Parks | 0.20% | ~2,515 |
+| City in Motion 2 | 0.20% | ~2,516 |
+| Eternal City | 0.20% | ~2,516 |
+| Friendly Teaching | 0.20% | ~2,516 |
+| It's Wintertime! | 0.20% | ~2,516 |
+| Make Them Pay | 0.20% | ~2,516 |
+| Medic! | 0.20% | ~2,516 |
+| New Eden | 0.20% | ~2,516 |
+| Power to the People | 0.20% | ~2,516 |
+| Run, Bambi! | 0.20% | ~2,516 |
+| The Park To Rule All Parks | 0.20% | ~2,516 |
 | 1001 Nights | 0.10% | ~1,258 |
 | Academic Scholar | 0.10% | ~1,258 |
 | Airline Tycoon | 0.10% | ~1,258 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,258 |
 | Z00 | 0.10% | ~1,258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,257,745 (Ranked 12)  
+Progressed: 1,257,788 (Ranked 12)  
 Completed: 11 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -390,7 +390,7 @@ Completed: 11 (0.00%) (Ranked 395)
 | 2024-01-06 | 1,254,483 | 11 |
 | 2024-01-07 | 1,256,109 | 11 |
 | 2024-01-08 | 1,257,411 | 11 |
-| 2024-01-09 | 1,257,745 | 11 |
+| 2024-01-09 | 1,257,788 | 11 |
 ## Awards
 Max (Great for Beginners): 6,672  (Ranked 61)  
 Sum: 49,072 (Ranked 32)  

@@ -1,30 +1,30 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 561)  
+Rating: 4.53 (Ranked 562)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~53,836 |
-| Worth it | 63.00% | ~43,483 |
-| Eagle Eye | 55.00% | ~37,961 |
-| Corpseman I | 39.00% | ~26,918 |
-| Blast fishing | 37.00% | ~25,537 |
-| Not alone | 32.00% | ~22,086 |
-| Headhunter I | 26.00% | ~17,945 |
+| Setting an example | 78.00% | ~53,837 |
+| Worth it | 63.00% | ~43,484 |
+| Eagle Eye | 55.00% | ~37,962 |
+| Corpseman I | 39.00% | ~26,919 |
+| Blast fishing | 37.00% | ~25,538 |
+| Not alone | 32.00% | ~22,087 |
+| Headhunter I | 26.00% | ~17,946 |
 | Developers, Developers, Developers | 24.00% | ~16,565 |
 | Manual Labour I | 24.00% | ~16,565 |
 | Basic Training | 23.00% | ~15,875 |
 | Furchtlos und Treu | 13.00% | ~8,973 |
-| Gott Mit Uns | 12.00% | ~8,282 |
+| Gott Mit Uns | 12.00% | ~8,283 |
 | This We'll Defend! | 9.00% | ~6,212 |
 | Providentiea Memor | 9.00% | ~6,212 |
 | For King and Country | 9.00% | ~6,212 |
 | Battle hardened | 8.00% | ~5,522 |
 | Anker wirf! | 8.00% | ~5,522 |
-| Semper Fidelis! | 7.00% | ~4,831 |
-| Honneur et Patrie | 7.00% | ~4,831 |
+| Semper Fidelis! | 7.00% | ~4,832 |
+| Honneur et Patrie | 7.00% | ~4,832 |
 | In Treue Fest | 5.00% | ~3,451 |
 | Voor De Koning | 5.00% | ~3,451 |
 | Extreme Headhunter | 5.00% | ~3,451 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~69 |
 | Blood Brother | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,020 (Ranked 114)  
+Progressed: 69,022 (Ranked 114)  
 Completed: 4 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 4 (0.01%) (Ranked 372)
 | 2024-01-06 | 68,782 | 4 |
 | 2024-01-07 | 68,903 | 4 |
 | 2024-01-08 | 69,001 | 4 |
-| 2024-01-09 | 69,020 | 4 |
+| 2024-01-09 | 69,022 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 373)  
 Sum: 832 (Ranked 289)  

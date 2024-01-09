@@ -1,26 +1,26 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.22 (Ranked 946)  
+Rating: 4.22 (Ranked 947)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 25.00% | ~5,444 |
-| The Outer Way | 25.00% | ~5,444 |
-| Desperate Times | 24.00% | ~5,226 |
-| Paper Jams | 22.00% | ~4,790 |
-| Get a Grip | 21.00% | ~4,573 |
-| Chew 'Em Up | 19.00% | ~4,137 |
-| Reforged | 18.00% | ~3,919 |
+| Flesh Wound | 25.00% | ~5,445 |
+| The Outer Way | 25.00% | ~5,445 |
+| Desperate Times | 24.00% | ~5,227 |
+| Paper Jams | 22.00% | ~4,791 |
+| Get a Grip | 21.00% | ~4,574 |
+| Chew 'Em Up | 19.00% | ~4,138 |
+| Reforged | 18.00% | ~3,920 |
 | Float Like A Butterfly | 17.00% | ~3,702 |
-| Workplace Hazard | 16.00% | ~3,484 |
-| If the SHU Fits... | 16.00% | ~3,484 |
+| Workplace Hazard | 16.00% | ~3,485 |
+| If the SHU Fits... | 16.00% | ~3,485 |
 | Without A Paddle | 13.00% | ~2,831 |
 | In the Pipe, Five by Five | 12.00% | ~2,613 |
 | Crash Site | 12.00% | ~2,613 |
-| Two Heads Are Better Than One | 11.00% | ~2,395 |
-| Power Up | 11.00% | ~2,395 |
-| Terminated | 10.00% | ~2,177 |
+| Two Heads Are Better Than One | 11.00% | ~2,396 |
+| Power Up | 11.00% | ~2,396 |
+| Terminated | 10.00% | ~2,178 |
 | Giving Back | 9.00% | ~1,960 |
 | You Need a Gun | 9.00% | ~1,960 |
 | What Lies Beneath | 9.00% | ~1,960 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 946)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,774 (Ranked 151)  
+Progressed: 21,779 (Ranked 151)  
 Completed: 82 (0.38%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 82 (0.38%) (Ranked 241)
 | 2024-01-06 | 21,389 | 82 |
 | 2024-01-07 | 21,615 | 82 |
 | 2024-01-08 | 21,745 | 82 |
-| 2024-01-09 | 21,774 | 82 |
+| 2024-01-09 | 21,779 | 82 |
 ## Awards
 Max (Amazing Characters): 129  (Ranked 349)  
 Sum: 611 (Ranked 323)  

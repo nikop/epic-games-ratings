@@ -1,13 +1,13 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.68 (Ranked 261)  
+Rating: 4.68 (Ranked 262)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're free now! | 63.00% | ~2,276 |
-| Keeping it classy | 27.00% | ~975 |
+| Keeping it classy | 27.00% | ~976 |
 | Welcome to the family | 21.00% | ~759 |
 | The finer things in life | 19.00% | ~686 |
 | Backpacker | 13.00% | ~470 |
@@ -38,11 +38,11 @@ Number of Ratings: 111  (23.09.2022)
 | Renaissance man | 5.00% | ~181 |
 | Trick shot marksman | 5.00% | ~181 |
 | We get it, you're good | 5.00% | ~181 |
-| Cops called! | 4.00% | ~144 |
-| G.O.A.T. status | 4.00% | ~144 |
-| Hoarder | 4.00% | ~144 |
-| Prince of Philly | 4.00% | ~144 |
-| Tank commander | 4.00% | ~144 |
+| Cops called! | 4.00% | ~145 |
+| G.O.A.T. status | 4.00% | ~145 |
+| Hoarder | 4.00% | ~145 |
+| Prince of Philly | 4.00% | ~145 |
+| Tank commander | 4.00% | ~145 |
 | Many plys later... | 3.00% | ~108 |
 | Pew-Pew | 3.00% | ~108 |
 | Cross lock country | 2.00% | ~72 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,612 (Ranked 221)  
+Progressed: 3,613 (Ranked 221)  
 Completed: 2 (0.06%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 2 (0.06%) (Ranked 330)
 | 2024-01-06 | 3,566 | 2 |
 | 2024-01-07 | 3,587 | 2 |
 | 2024-01-08 | 3,608 | 2 |
-| 2024-01-09 | 3,612 | 2 |
+| 2024-01-09 | 3,613 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 63  (Ranked 425)  
 Sum: 584 (Ranked 326)  
