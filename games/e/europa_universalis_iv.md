@@ -314,6 +314,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Voltaire's Nightmare | 0.10% | ~495 |
 | Voting Streak | 0.10% | ~495 |
 | We bled for this | 0.10% | ~495 |
+| Where Am I? | 0.10% | ~495 |
 | Where the heart is | 0.10% | ~495 |
 | The White Elephant | 0.10% | ~495 |
 | Why is the Rûm gone!? | 0.10% | ~495 |
@@ -366,11 +367,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Third Way | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
-| Where Am I? | 0.00% | ~0 |
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 495,424 (Ranked 42)  
+Progressed: 495,439 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,7 +634,7 @@ Completed: 1 (0.00%) (Ranked 395)
 | 2024-01-06 | 493,815 | 1 |
 | 2024-01-07 | 494,650 | 1 |
 | 2024-01-08 | 495,265 | 1 |
-| 2024-01-09 | 495,424 | 1 |
+| 2024-01-09 | 495,439 | 1 |
 ## Awards
 Max (Educational): 7,765  (Ranked 54)  
 Sum: 64,075 (Ranked 24)  

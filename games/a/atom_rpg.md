@@ -6,8 +6,8 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,669 |
-| One HIT wonder | 34.00% | ~573 |
+| Atom Agent | 99.00% | ~1,671 |
+| One HIT wonder | 34.00% | ~574 |
 | Wanderer | 31.00% | ~523 |
 | One shot, one kill | 25.00% | ~422 |
 | Traveler | 22.00% | ~371 |
@@ -16,22 +16,22 @@ Number of Ratings: 54  (23.09.2022)
 | Head Burst | 16.00% | ~270 |
 | Double agent | 15.00% | ~253 |
 | Paranoia | 15.00% | ~253 |
+| Savant | 10.00% | ~169 |
 | Kraina Grzybow | 9.00% | ~152 |
 | Love Guru | 9.00% | ~152 |
-| Savant | 9.00% | ~152 |
 | Bustin' nuts | 8.00% | ~135 |
 | Superhuman | 8.00% | ~135 |
 | Not-so-private Eye | 7.00% | ~118 |
 | The Vitinsky Rifle | 6.00% | ~101 |
-| Protection racket | 4.00% | ~67 |
-| Sacrifice | 4.00% | ~67 |
-| Secret room | 4.00% | ~67 |
+| Protection racket | 4.00% | ~68 |
+| Sacrifice | 4.00% | ~68 |
+| Secret room | 4.00% | ~68 |
 | Indy | 3.00% | ~51 |
 | Wishmaster | 3.00% | ~51 |
 | Career criminal | 2.00% | ~34 |
 | Neanderthal | 1.00% | ~17 |
 | Cosmic Horror | 1.00% | ~17 |
-| It was worth a shot | 0.80% | ~13 |
+| It was worth a shot | 0.80% | ~14 |
 | Ghostbuster | 0.60% | ~10 |
 | Cheeki Breeki | 0.40% | ~7 |
 | It's a classic! | 0.40% | ~7 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.10% | ~2 |
 | Pacifist | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,686 (Ranked 261)  
+Progressed: 1,688 (Ranked 261)  
 Completed: 1 (0.06%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 1 (0.06%) (Ranked 330)
 | 2024-01-06 | 1,654 | 1 |
 | 2024-01-07 | 1,669 | 1 |
 | 2024-01-08 | 1,682 | 1 |
-| 2024-01-09 | 1,686 | 1 |
+| 2024-01-09 | 1,688 | 1 |
 ## Awards
 Max (Character Customization): 52  (Ranked 448)  
 Sum: 52 (Ranked 504)  

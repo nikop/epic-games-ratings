@@ -22,7 +22,7 @@ Number of Ratings: 34  (23.09.2022)
 | Consequences | 31.00% | ~239 |
 | Opportunities | 30.00% | ~231 |
 | King of Knives | 30.00% | ~231 |
-| The Horror | 27.00% | ~208 |
+| The Horror | 28.00% | ~216 |
 | The Difference | 25.00% | ~192 |
 | It's Just an Accident | 25.00% | ~192 |
 | Vengeance | 24.00% | ~185 |
@@ -39,11 +39,11 @@ Number of Ratings: 34  (23.09.2022)
 | Tiptoe Around | 11.00% | ~85 |
 | Collectibles of Chapter V | 10.00% | ~77 |
 | Such is War! | 8.00% | ~62 |
+| Collectibles of Chapter VII | 6.00% | ~46 |
 | Collectibles of Chapter XII | 6.00% | ~46 |
 | Piece of Cake | 6.00% | ~46 |
 | It Will Rain | 6.00% | ~46 |
 | Not Spill a Drop | 6.00% | ~46 |
-| Collectibles of Chapter VII | 5.00% | ~38 |
 | The Good Samaritan | 5.00% | ~38 |
 | Collectibles of Chapter VIII | 4.00% | ~31 |
 | Collectibles of Chapter XI | 4.00% | ~31 |

@@ -157,7 +157,7 @@
   "Tags": [],
   "EOS_Progressed": 1649,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5252,9 +5252,9 @@
       "ID": "GSS_ACH_66_POPULARITY_06",
       "SetID": "5fn8ia4",
       "Name": "Getting Famous",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 627
+      "UsersEstimate": 643
     },
     {
       "ID": "GSS_ACH_67_POPULARITY_07",
@@ -5397,8 +5397,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-05T19:59:54.3830999+00:00",
-  "LastChanged_Achievements": "2024-01-09T09:04:40.7224551+00:00",
+  "LastChanged_Achievements": "2024-01-09T10:05:57.8575156+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.4325477+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:58:00.9527178+00:00",
-  "LastUpdate_Achievements": "2024-01-09T09:04:40.722552+00:00"
+  "LastUpdate_Ratings": "2024-01-09T09:58:43.4213959+00:00",
+  "LastUpdate_Achievements": "2024-01-09T10:05:57.8576075+00:00"
 }

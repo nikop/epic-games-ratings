@@ -5,17 +5,17 @@ Rating: 4.38 (Ranked 792)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~777,872 |
-| The ABCs | 43.00% | ~682,622 |
-| Home Run | 41.00% | ~650,872 |
-| Keeps Coming Off | 41.00% | ~650,872 |
-| Guts | 19.00% | ~301,624 |
-| Meat Grinder | 19.00% | ~301,624 |
-| Burning Man | 16.00% | ~253,999 |
-| Lived to Tell the Tale | 12.00% | ~190,499 |
-| Highlander | 10.00% | ~158,749 |
-| Unstoppable | 10.00% | ~158,749 |
-| Just a Scratch | 9.00% | ~142,874 |
+| Justice from the Grave | 49.00% | ~777,877 |
+| The ABCs | 43.00% | ~682,627 |
+| Home Run | 41.00% | ~650,877 |
+| Keeps Coming Off | 41.00% | ~650,877 |
+| Guts | 19.00% | ~301,626 |
+| Meat Grinder | 19.00% | ~301,626 |
+| Burning Man | 16.00% | ~254,001 |
+| Lived to Tell the Tale | 12.00% | ~190,501 |
+| Highlander | 10.00% | ~158,750 |
+| Unstoppable | 10.00% | ~158,750 |
+| Just a Scratch | 9.00% | ~142,875 |
 | Tough Nut to Crack | 6.00% | ~95,250 |
 | Yoink | 6.00% | ~95,250 |
 | Long List of Names | 4.00% | ~63,500 |
@@ -30,21 +30,21 @@ Rating: 4.38 (Ranked 792)
 | You’re Welcome | 2.00% | ~31,750 |
 | Chambermaid | 1.00% | ~15,875 |
 | Coming Through | 1.00% | ~15,875 |
-| Boxer | 0.90% | ~14,287 |
-| Flyswatter | 0.90% | ~14,287 |
-| Training Accident | 0.90% | ~14,287 |
-| Friend Indeed | 0.70% | ~11,112 |
-| Rock’n’Roll | 0.70% | ~11,112 |
-| Virtuoso | 0.70% | ~11,112 |
+| Boxer | 0.90% | ~14,288 |
+| Flyswatter | 0.90% | ~14,288 |
+| Training Accident | 0.90% | ~14,288 |
+| Friend Indeed | 0.70% | ~11,113 |
+| Rock’n’Roll | 0.70% | ~11,113 |
+| Virtuoso | 0.70% | ~11,113 |
 | Vlad the Impaler | 0.40% | ~6,350 |
 | Whack-A-Mole | 0.40% | ~6,350 |
 | Clobbered | 0.20% | ~3,175 |
-| Ended Rightly | 0.10% | ~1,587 |
-| Living Sculpture | 0.10% | ~1,587 |
-| That’s No Ordinary Cold | 0.10% | ~1,587 |
-| Stairway to Hell | 0.10% | ~1,587 |
+| Ended Rightly | 0.10% | ~1,588 |
+| Living Sculpture | 0.10% | ~1,588 |
+| That’s No Ordinary Cold | 0.10% | ~1,588 |
+| Stairway to Hell | 0.10% | ~1,588 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,587,493 (Ranked 7)  
+Progressed: 1,587,505 (Ranked 7)  
 Completed: 77 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 77 (0.00%) (Ranked 395)
 | 2024-01-06 | 1,586,061 | 77 |
 | 2024-01-07 | 1,586,766 | 77 |
 | 2024-01-08 | 1,587,326 | 77 |
-| 2024-01-09 | 1,587,493 | 77 |
+| 2024-01-09 | 1,587,505 | 77 |
 ## Awards
 Max (Diverse Characters): 1,201  (Ranked 148)  
 Sum: 6,186 (Ranked 135)  

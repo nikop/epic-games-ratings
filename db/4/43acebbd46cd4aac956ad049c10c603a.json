@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -313,9 +313,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 1334,
+  "EOS_Progressed": 1335,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3828,6 +3828,11 @@
       "Time": "2024-01-09T07:08:37.0360728+00:00",
       "NumProgressed": 1334,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-09T10:08:28.1213421+00:00",
+      "NumProgressed": 1335,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3856,7 +3861,7 @@
       "Name": "Anthropic Hills",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Archaeologist",
@@ -3904,7 +3909,7 @@
       "Name": "Chasing the Light",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "Chicken",
@@ -3944,7 +3949,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "EcstaticTruth",
@@ -3960,7 +3965,7 @@
       "Name": "Excellent",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "FloodedValley",
@@ -3992,7 +3997,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "HighPlain",
@@ -4006,9 +4011,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 360
     },
     {
       "ID": "JustOneLap",
@@ -4032,7 +4037,7 @@
       "Name": "Lost Marshes",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "MistressOfRiddles",
@@ -4112,7 +4117,7 @@
       "Name": "Prometheus Unbound",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "PuzzleFiend",
@@ -4120,7 +4125,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "RemnantsOfThePast",
@@ -4128,7 +4133,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "RenaissanceRobot",
@@ -4296,7 +4301,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "YourBiggestFan",
@@ -4311,7 +4316,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1334,
+      "Progressed": 1335,
       "Completed": 2
     }
   ],
@@ -4319,8 +4324,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-08T17:59:02.5867071+00:00",
-  "LastChanged_Achievements": "2024-01-09T09:06:28.6822968+00:00",
+  "LastChanged_Achievements": "2024-01-09T10:08:28.1213417+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:58:33.4243926+00:00",
-  "LastUpdate_Achievements": "2024-01-09T09:06:28.6823674+00:00"
+  "LastUpdate_Ratings": "2024-01-09T09:59:30.8075173+00:00",
+  "LastUpdate_Achievements": "2024-01-09T10:08:28.1214168+00:00"
 }

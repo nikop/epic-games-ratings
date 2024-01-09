@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 572,
+  "Ranking_EOS_NewPlayers": 574,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
@@ -19715,10 +19715,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 631420,
       "NumberOfAwardsMax": 243012
+    },
+    {
+      "Time": "2024-01-09T09:59:55.171547+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 631843,
+      "NumberOfAwardsMax": 243012
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 631420,
+  "NumberOfAwards": 631843,
   "NumberOfAwardsMax": 243012,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -19738,7 +19744,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 25731
+      "Count": 25856
     },
     {
       "Text": "This game has Amazing Characters",
@@ -19756,7 +19762,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 25427
+      "Count": 25578
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -19798,7 +19804,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 24725
+      "Count": 24872
     },
     {
       "Text": "This game has a Creative Community",
@@ -19818,8 +19824,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2024-01-09T05:58:40.5351399+00:00",
+  "LastChanged": "2024-01-09T09:59:55.1715468+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.0669885+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:58:50.7627019+00:00",
-  "LastUpdate_Achievements": "2024-01-09T09:05:13.5003845+00:00"
+  "LastUpdate_Ratings": "2024-01-09T09:59:55.1715476+00:00",
+  "LastUpdate_Achievements": "2024-01-09T10:06:44.0211157+00:00"
 }

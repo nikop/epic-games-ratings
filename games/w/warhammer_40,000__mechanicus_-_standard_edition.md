@@ -13,7 +13,7 @@ Rating: 4.43 (Ranked 726)
 | Power Ranger | 9.00% | ~20,861 |
 | Taser Goad | 9.00% | ~20,861 |
 | Half a cog | 9.00% | ~20,861 |
-| Watch them crumble | 6.00% | ~13,907 |
+| Watch them crumble | 6.00% | ~13,908 |
 | Competent Cohort | 4.00% | ~9,272 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,272 |
 | One with the Machine | 4.00% | ~9,272 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 726)
 | Perma-live | 0.10% | ~232 |
 | Purge the Heretek | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,791 (Ranked 77)  
+Progressed: 231,792 (Ranked 77)  
 Completed: 5 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 5 (0.00%) (Ranked 395)
 | 2024-01-06 | 231,558 | 5 |
 | 2024-01-07 | 231,678 | 5 |
 | 2024-01-08 | 231,760 | 5 |
-| 2024-01-09 | 231,791 | 5 |
+| 2024-01-09 | 231,792 | 5 |
 ## Awards
 Max (Highly Recommended): 292  (Ranked 265)  
 Sum: 2,227 (Ranked 210)  

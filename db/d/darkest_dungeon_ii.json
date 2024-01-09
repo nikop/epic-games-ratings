@@ -10680,9 +10680,9 @@
       "Count": 1088
     }
   ],
-  "EOS_Progressed": 132250,
+  "EOS_Progressed": 132254,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 993,
+  "EOS_NewPlayers": 990,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39040,6 +39040,11 @@
       "Time": "2024-01-09T09:09:56.5869405+00:00",
       "NumProgressed": 132250,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T10:10:43.3725399+00:00",
+      "NumProgressed": 132254,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -39051,7 +39056,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6612
+      "UsersEstimate": 6613
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -39059,7 +39064,7 @@
       "Name": "Serenity Now!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6612
+      "UsersEstimate": 6613
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -39067,7 +39072,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6612
+      "UsersEstimate": 6613
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -39203,7 +39208,7 @@
       "Name": "Not Today!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6612
+      "UsersEstimate": 6613
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -39251,7 +39256,7 @@
       "Name": "Meat and Greet",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6612
+      "UsersEstimate": 6613
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -39259,7 +39264,7 @@
       "Name": "Clearing the Ledger",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "combat_kill_leviathan",
@@ -39267,7 +39272,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6612
+      "UsersEstimate": 6613
     },
     {
       "ID": "combat_kill_librarian",
@@ -39291,7 +39296,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6612
+      "UsersEstimate": 6613
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -39299,7 +39304,7 @@
       "Name": "Circle of Life",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "combat_kill_swine",
@@ -39323,7 +39328,7 @@
       "Name": "It Happens",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6612
+      "UsersEstimate": 6613
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -39347,7 +39352,7 @@
       "Name": "Rush Hour",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6612
+      "UsersEstimate": 6613
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -39371,7 +39376,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6612
+      "UsersEstimate": 6613
     },
     {
       "ID": "driving_distance_easy",
@@ -39411,7 +39416,7 @@
       "Name": "Shrine of Reflection",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "hero_story_complete_any",
@@ -39459,7 +39464,7 @@
       "Name": "FNG",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6612
+      "UsersEstimate": 6613
     },
     {
       "ID": "inn_visit_all_variants",
@@ -39539,7 +39544,7 @@
       "Name": "Body of Work",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -39547,7 +39552,7 @@
       "Name": "Grand Slam",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "run_victory_final_boss_infernal_flame",
@@ -39587,7 +39592,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "combat_kill_collector",
@@ -39595,7 +39600,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39682,21 +39687,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132250,
+      "Progressed": 132254,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7119,
+      "Progressed": 7123,
       "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-09T04:58:52.2545208+00:00",
-  "LastChanged_Achievements": "2024-01-09T09:09:56.5869401+00:00",
+  "LastChanged_Achievements": "2024-01-09T10:10:43.3725396+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:58:27.8223252+00:00",
-  "LastUpdate_Achievements": "2024-01-09T09:09:56.5871212+00:00"
+  "LastUpdate_Ratings": "2024-01-09T09:59:22.5357691+00:00",
+  "LastUpdate_Achievements": "2024-01-09T10:10:43.3727175+00:00"
 }

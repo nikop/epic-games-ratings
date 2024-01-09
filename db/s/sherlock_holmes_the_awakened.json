@@ -2,12 +2,12 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_Rating": 590,
+  "Ranking_Rating": 591,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -169,9 +169,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1425,
+  "EOS_Progressed": 1426,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.02,
   "EosHistory": [
@@ -5054,6 +5054,11 @@
       "Time": "2024-01-09T05:05:58.8347541+00:00",
       "NumProgressed": 1425,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2024-01-09T10:06:27.3976591+00:00",
+      "NumProgressed": 1426,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 28,
@@ -5105,7 +5110,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "MQ03_1",
@@ -5169,7 +5174,7 @@
       "Name": "The New World",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "MQ05_1",
@@ -5233,7 +5238,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "MQ07_1",
@@ -5249,7 +5254,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "MQ08_1",
@@ -5288,7 +5293,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1425,
+      "Progressed": 1426,
       "Completed": 43
     }
   ],
@@ -5296,8 +5301,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-08T11:03:57.656576+00:00",
-  "LastChanged_Achievements": "2024-01-09T09:05:01.3897777+00:00",
+  "LastChanged_Achievements": "2024-01-09T10:06:27.3976587+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:40.4350556+00:00",
-  "LastUpdate_Ratings": "2024-01-09T09:03:12.8563632+00:00",
-  "LastUpdate_Achievements": "2024-01-09T09:05:01.3898178+00:00"
+  "LastUpdate_Ratings": "2024-01-09T10:03:51.9341182+00:00",
+  "LastUpdate_Achievements": "2024-01-09T10:06:27.3977167+00:00"
 }

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 520,
   "Ranking_EOS_Progress": 174,
-  "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_Completed": 280,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -407,9 +407,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 14274,
+  "EOS_Progressed": 14279,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 1502,
+  "EOS_NewPlayers": 1501,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -9722,6 +9722,11 @@
       "Time": "2024-01-09T09:10:09.6085712+00:00",
       "NumProgressed": 14274,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2024-01-09T10:11:01.5901732+00:00",
+      "NumProgressed": 14279,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -9734,7 +9739,7 @@
       "Name": "All Jacked Up",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "BabySteps",
@@ -9742,7 +9747,7 @@
       "Name": "Baby Steps",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 5710
+      "UsersEstimate": 5712
     },
     {
       "ID": "BeLikeWater",
@@ -9774,7 +9779,7 @@
       "Name": "Connection Lost",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 3140
+      "UsersEstimate": 3141
     },
     {
       "ID": "Eavesdropper",
@@ -9782,7 +9787,7 @@
       "Name": "Eavesdropper",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ExplosivePersonality",
@@ -9790,7 +9795,7 @@
       "Name": "Explosive Personality",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2712
+      "UsersEstimate": 2713
     },
     {
       "ID": "FasterThanLight",
@@ -9806,7 +9811,7 @@
       "Name": "First Time?",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 7708
+      "UsersEstimate": 7711
     },
     {
       "ID": "FuneralForTheDeath",
@@ -9814,7 +9819,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1998
+      "UsersEstimate": 1999
     },
     {
       "ID": "GarbageMan",
@@ -9838,7 +9843,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 2855
+      "UsersEstimate": 2856
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -9846,7 +9851,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "JackOfAllTrades",
@@ -9878,7 +9883,7 @@
       "Name": "Nasty!",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 3997
+      "UsersEstimate": 3998
     },
     {
       "ID": "NoMoreTotems",
@@ -9918,15 +9923,15 @@
       "Name": "The Floor Is Lava",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "TheOldSchoolWay",
       "SetID": "acc6ea0",
       "Name": "The Old-School Way",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 3426
+      "UsersEstimate": 3570
     },
     {
       "ID": "TheQuarterback",
@@ -9934,7 +9939,7 @@
       "Name": "The Quarterback",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 5995
+      "UsersEstimate": 5997
     },
     {
       "ID": "ThisIsDharma",
@@ -9942,7 +9947,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2141
+      "UsersEstimate": 2142
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -9950,7 +9955,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2998
+      "UsersEstimate": 2999
     },
     {
       "ID": "UnResurrected",
@@ -9966,7 +9971,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2855
+      "UsersEstimate": 2856
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -9974,7 +9979,7 @@
       "Name": "Digestive Issues",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2141
+      "UsersEstimate": 2142
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -9982,7 +9987,7 @@
       "Name": "You\u0027re Starting To Get It",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "YouveReachedTheRightNumber",
@@ -10005,7 +10010,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14274,
+      "Progressed": 14279,
       "Completed": 26
     }
   ],
@@ -10013,8 +10018,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-09T02:59:48.4530576+00:00",
-  "LastChanged_Achievements": "2024-01-09T09:10:09.6085708+00:00",
+  "LastChanged_Achievements": "2024-01-09T10:11:01.5901728+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:18.9626026+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:59:40.9873957+00:00",
-  "LastUpdate_Achievements": "2024-01-09T09:10:09.6086306+00:00"
+  "LastUpdate_Ratings": "2024-01-09T10:01:10.6332863+00:00",
+  "LastUpdate_Achievements": "2024-01-09T10:11:01.5902426+00:00"
 }

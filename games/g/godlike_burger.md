@@ -1,26 +1,26 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.51 (Ranked 590)  
+Rating: 4.51 (Ranked 591)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~179,921 |
-| FIRST BLOOD | 40.00% | ~159,930 |
-| KEVIN! | 30.00% | ~119,948 |
-| JACK OF ALL TRADES | 23.00% | ~91,960 |
-| CRIMINAL | 20.00% | ~79,965 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~43,981 |
-| WITHOUT BREAKING A SWEAT | 10.00% | ~39,982 |
-| HONORS STUDENT | 8.00% | ~31,986 |
+| MASTER CHEF | 45.00% | ~179,928 |
+| FIRST BLOOD | 40.00% | ~159,936 |
+| KEVIN! | 30.00% | ~119,952 |
+| JACK OF ALL TRADES | 23.00% | ~91,963 |
+| CRIMINAL | 20.00% | ~79,968 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~43,982 |
+| WITHOUT BREAKING A SWEAT | 10.00% | ~39,984 |
+| HONORS STUDENT | 8.00% | ~31,987 |
 | BUTCHER | 6.00% | ~23,990 |
-| INDIVIDUAL APPROACH | 5.00% | ~19,991 |
-| RAMBO | 5.00% | ~19,991 |
-| HELL'S KITCHEN | 4.00% | ~15,993 |
+| INDIVIDUAL APPROACH | 5.00% | ~19,992 |
+| RAMBO | 5.00% | ~19,992 |
+| HELL'S KITCHEN | 4.00% | ~15,994 |
 | CELEBRITY | 3.00% | ~11,995 |
 | MARTYR | 3.00% | ~11,995 |
-| GRATITUDE | 2.00% | ~7,996 |
-| PATTY-KILLER | 2.00% | ~7,996 |
+| GRATITUDE | 2.00% | ~7,997 |
+| PATTY-KILLER | 2.00% | ~7,997 |
 | EXPERIMENTALIST | 1.00% | ~3,998 |
 | GOURMET | 1.00% | ~3,998 |
 | LAW-ABIDING CITIZEN | 1.00% | ~3,998 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 590)
 | MISTER ALL THUMBS | 0.10% | ~400 |
 | TRAVELER | 0.10% | ~400 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 399,825 (Ranked 50)  
+Progressed: 399,840 (Ranked 50)  
 Completed: 57 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 57 (0.01%) (Ranked 372)
 | 2024-01-06 | 398,665 | 57 |
 | 2024-01-07 | 399,238 | 57 |
 | 2024-01-08 | 399,682 | 57 |
-| 2024-01-09 | 399,825 | 57 |
+| 2024-01-09 | 399,840 | 57 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

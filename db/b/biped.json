@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10127,
+  "EOS_Progressed": 10129,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 670,
+  "EOS_NewPlayers": 669,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16464,6 +16464,11 @@
       "Time": "2024-01-09T09:04:27.2114608+00:00",
       "NumProgressed": 10127,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T10:05:39.2580419+00:00",
+      "NumProgressed": 10129,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -16475,7 +16480,7 @@
       "Name": "First Step",
       "Percentage": 35,
       "XP": 45,
-      "UsersEstimate": 3544
+      "UsersEstimate": 3545
     },
     {
       "ID": "10",
@@ -16539,7 +16544,7 @@
       "Name": "Cactus Vally",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 2025
+      "UsersEstimate": 2026
     },
     {
       "ID": "4",
@@ -16594,7 +16599,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10127,
+      "Progressed": 10129,
       "Completed": 0
     }
   ],
@@ -16602,8 +16607,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-09T09:04:27.2114603+00:00",
+  "LastChanged_Achievements": "2024-01-09T10:05:39.2580416+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:19.9263192+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:58:04.3499371+00:00",
-  "LastUpdate_Achievements": "2024-01-09T09:04:27.2115524+00:00"
+  "LastUpdate_Ratings": "2024-01-09T09:58:48.6238526+00:00",
+  "LastUpdate_Achievements": "2024-01-09T10:05:39.2581217+00:00"
 }

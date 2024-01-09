@@ -456,7 +456,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1094,
+  "EOS_Progressed": 1095,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
@@ -3811,6 +3811,11 @@
       "Time": "2024-01-09T09:09:24.07375+00:00",
       "NumProgressed": 1094,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T10:09:58.4146652+00:00",
+      "NumProgressed": 1095,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4031,7 +4036,7 @@
       "Name": "Multi Kill",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "MultiplayerWins",
@@ -4149,9 +4154,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 504
     },
     {
       "ID": "WielderLevel2",
@@ -4183,7 +4188,7 @@
       "Name": "Humiliation",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -4207,7 +4212,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -4254,15 +4259,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1094,
+      "Progressed": 1095,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-08T22:01:52.5110389+00:00",
-  "LastChanged_Achievements": "2024-01-09T09:09:24.0737495+00:00",
+  "LastChanged_Achievements": "2024-01-09T10:09:58.4146648+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-09T09:00:27.7634595+00:00",
-  "LastUpdate_Achievements": "2024-01-09T09:09:24.0738044+00:00"
+  "LastUpdate_Ratings": "2024-01-09T10:03:01.5397882+00:00",
+  "LastUpdate_Achievements": "2024-01-09T10:09:58.4147259+00:00"
 }

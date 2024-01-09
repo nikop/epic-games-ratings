@@ -1,18 +1,18 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.51 (Ranked 590)  
+Rating: 4.51 (Ranked 591)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Read Between The Lines | 63.00% | ~898 |
 | To Hell In A Handcart | 62.00% | ~884 |
 | High Profile | 55.00% | ~784 |
-| Whispers In The Dark | 52.00% | ~741 |
+| Whispers In The Dark | 52.00% | ~742 |
 | Fond Memories | 51.00% | ~727 |
 | A Method To His Madness | 48.00% | ~684 |
 | History Check | 47.00% | ~670 |
-| The New World | 45.00% | ~641 |
+| The New World | 45.00% | ~642 |
 | Gaze Into The Abyss | 44.00% | ~627 |
 | Open Sesame | 44.00% | ~627 |
 | Sticky Fingers | 44.00% | ~627 |
@@ -20,8 +20,8 @@ Rating: 4.51 (Ranked 590)
 | Lock, Stock, And Barrel | 43.00% | ~613 |
 | Back In The Saddle | 43.00% | ~613 |
 | Land, Ho! | 43.00% | ~613 |
-| No Man Is An Island | 42.00% | ~598 |
-| At Wits' End | 41.00% | ~584 |
+| No Man Is An Island | 42.00% | ~599 |
+| At Wits' End | 41.00% | ~585 |
 | Up In Flames | 39.00% | ~556 |
 | Fhtagn! | 39.00% | ~556 |
 | Bookworm | 38.00% | ~542 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 590)
 | Big Breakthrough | 12.00% | ~171 |
 | Reawakened | 3.00% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,425 (Ranked 270)  
+Progressed: 1,426 (Ranked 270)  
 Completed: 43 (3.02%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 43 (3.02%) (Ranked 107)
 | 2024-01-06 | 1,410 | 41 |
 | 2024-01-07 | 1,419 | 43 |
 | 2024-01-08 | 1,423 | 43 |
-| 2024-01-09 | 1,425 | 43 |
+| 2024-01-09 | 1,426 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

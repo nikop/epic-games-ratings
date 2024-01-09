@@ -8,8 +8,8 @@ Rating: 4.78 (Ranked 109)
 | For Demacia | 95.00% | ~3,202 |
 | No more cages! | 90.00% | ~3,034 |
 | Everfrost | 77.00% | ~2,596 |
+| Pentakill | 76.00% | ~2,562 |
 | Dark Forest | 76.00% | ~2,562 |
-| Pentakill | 75.00% | ~2,528 |
 | The use of petricite | 73.00% | ~2,461 |
 | You can pet the dog | 60.00% | ~2,023 |
 | Thornbarrow | 44.00% | ~1,483 |
@@ -59,7 +59,7 @@ Rating: 4.78 (Ranked 109)
 | Silverwing nest | 2.00% | ~67 |
 | The Unshackled | 1.00% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,371 (Ranked 224)  
+Progressed: 3,371 (Ranked 225)  
 Completed: 22 (0.65%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |

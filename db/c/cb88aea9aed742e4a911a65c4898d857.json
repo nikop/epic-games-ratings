@@ -305,7 +305,7 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 10809,
+  "EOS_Progressed": 10812,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 1273,
   "EOS_NewCompleters": 1,
@@ -4215,6 +4215,11 @@
       "Time": "2024-01-09T09:10:08.236348+00:00",
       "NumProgressed": 10809,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T10:10:59.9185775+00:00",
+      "NumProgressed": 10812,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4251,7 +4256,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -4746,7 +4751,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10809,
+      "Progressed": 10812,
       "Completed": 1
     }
   ],
@@ -4754,8 +4759,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-09T01:47:09.125519+00:00",
-  "LastChanged_Achievements": "2024-01-09T09:10:08.2363477+00:00",
+  "LastChanged_Achievements": "2024-01-09T10:10:59.9185772+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:58:12.0259284+00:00",
-  "LastUpdate_Achievements": "2024-01-09T09:10:08.2364268+00:00"
+  "LastUpdate_Ratings": "2024-01-09T09:59:00.1263895+00:00",
+  "LastUpdate_Achievements": "2024-01-09T10:10:59.9186551+00:00"
 }

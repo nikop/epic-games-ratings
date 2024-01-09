@@ -3,8 +3,8 @@
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
   "Ranking_EOS_Progress": 459,
-  "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_Completed": 121,
+  "Ranking_EOS_NewPlayers": 383,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 148,
+  "EOS_Progressed": 149,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.7,
+  "EOS_Completed_Percentage": 2.68,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -434,6 +434,11 @@
       "Time": "2024-01-07T16:03:24.9057607+00:00",
       "NumProgressed": 148,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-09T10:05:29.2430362+00:00",
+      "NumProgressed": 149,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 24,
@@ -443,9 +448,9 @@
       "ID": "AllCreditorsComplete",
       "SetID": "9e3d06k",
       "Name": "Full and Final Settlement",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "AutoBullets_0",
@@ -509,7 +514,7 @@
       "Name": "A.I. Training",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "GunUnlock",
@@ -517,7 +522,7 @@
       "Name": "Symbiotic Weapon",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Headshots_0",
@@ -525,15 +530,15 @@
       "Name": "Sniper",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Headshots_1",
       "SetID": "9e3d06k",
       "Name": "Veteran Sniper",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "KyklosPlan",
@@ -563,9 +568,9 @@
       "ID": "Neuroconnector",
       "SetID": "9e3d06k",
       "Name": "The Neuro-connector",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "SecondAutoSkillUnlock",
@@ -603,9 +608,9 @@
       "ID": "StoryEnd",
       "SetID": "9e3d06k",
       "Name": "One Click Away",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "TelekinesisThrow_0",
@@ -629,14 +634,14 @@
       "Name": "Telekinesis",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     }
   ],
   "AchievementSets": [
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 148,
+      "Progressed": 149,
       "Completed": 4
     }
   ],
@@ -644,8 +649,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2024-01-09T09:04:20.0108827+00:00",
+  "LastChanged_Achievements": "2024-01-09T10:05:29.2430354+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:56:55.9035332+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:58:14.5170717+00:00",
-  "LastUpdate_Achievements": "2024-01-09T09:04:20.0109051+00:00"
+  "LastUpdate_Ratings": "2024-01-09T09:59:03.9144107+00:00",
+  "LastUpdate_Achievements": "2024-01-09T10:05:29.243053+00:00"
 }

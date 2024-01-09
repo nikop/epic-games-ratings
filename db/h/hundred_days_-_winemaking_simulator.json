@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 228,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -1117,7 +1117,7 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 19850,
+  "EOS_Progressed": 19857,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 1087,
   "EOS_NewCompleters": 0,
@@ -16657,6 +16657,11 @@
       "Time": "2024-01-09T09:09:50.1009683+00:00",
       "NumProgressed": 19850,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-09T10:10:34.4432703+00:00",
+      "NumProgressed": 19857,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -16669,7 +16674,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1986
     },
     {
       "ID": "a_10",
@@ -16717,7 +16722,7 @@
       "Name": "Bye Bye",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 8536
+      "UsersEstimate": 8539
     },
     {
       "ID": "a_19",
@@ -16725,7 +16730,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "a_2",
@@ -16733,7 +16738,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "a_20",
@@ -16765,7 +16770,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "a_25",
@@ -16773,7 +16778,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "a_26",
@@ -16869,7 +16874,7 @@
       "Name": "King of Langhe",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "a_5",
@@ -16885,7 +16890,7 @@
       "Name": "Gem of Monferrato",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "a_7",
@@ -16916,7 +16921,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 19850,
+      "Progressed": 19857,
       "Completed": 13
     }
   ],
@@ -16924,8 +16929,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-06T23:58:14.6842319+00:00",
-  "LastChanged_Achievements": "2024-01-09T09:09:50.1009679+00:00",
+  "LastChanged_Achievements": "2024-01-09T10:10:34.4432699+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:04.08822+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:59:05.5042337+00:00",
-  "LastUpdate_Achievements": "2024-01-09T09:09:50.1010634+00:00"
+  "LastUpdate_Ratings": "2024-01-09T10:00:18.2443863+00:00",
+  "LastUpdate_Achievements": "2024-01-09T10:10:34.4433594+00:00"
 }

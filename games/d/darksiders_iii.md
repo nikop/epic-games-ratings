@@ -24,8 +24,8 @@ Number of Ratings: 116  (23.09.2022)
 | Salvation | 37.00% | ~189 |
 | Unshakable Fortitude | 35.00% | ~179 |
 | Soul Harvester | 35.00% | ~179 |
+| I Wanna Rock | 34.00% | ~174 |
 | Delusions of Grandeur | 34.00% | ~174 |
-| I Wanna Rock | 33.00% | ~169 |
 | Love Tap | 32.00% | ~164 |
 | Maximum Vigor | 31.00% | ~159 |
 | Freeze Frame | 29.00% | ~148 |

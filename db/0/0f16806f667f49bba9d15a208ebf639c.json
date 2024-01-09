@@ -2,9 +2,9 @@
   "ID": "0f16806f667f49bba9d15a208ebf639c",
   "Name": "Choice Clash: What Would you Rather?",
   "ProductSlug": "choice-clash-what-would-you-rather-b75cac",
-  "Ranking_EOS_Progress": 537,
+  "Ranking_EOS_Progress": 535,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-01-05T19:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 62,
+  "EOS_Progressed": 63,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 19.35,
+  "EOS_Completed_Percentage": 19.05,
   "EosHistory": [
     {
       "Time": "2023-12-29T00:03:26.1784855+00:00",
@@ -257,6 +257,11 @@
       "Time": "2024-01-09T08:05:38.3447659+00:00",
       "NumProgressed": 62,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-09T10:06:04.6179681+00:00",
+      "NumProgressed": 63,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-12-28T16:03:50.3768399+00:00",
@@ -269,21 +274,21 @@
       "Name": "Blue Card Guru",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "DECISIONS_DECISIONS",
       "SetID": "58oggg1",
       "Name": "Decisions, Decisions!",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "DECISION_DYNAMO",
       "SetID": "58oggg1",
       "Name": "Decision Dynamo",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 50,
       "UsersEstimate": 19
     },
@@ -291,7 +296,7 @@
       "ID": "INDECISION_BUSTER",
       "SetID": "58oggg1",
       "Name": "Indecision Buster",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 50,
       "UsersEstimate": 19
     },
@@ -299,17 +304,17 @@
       "ID": "INFLUENTIAL_THINKER",
       "SetID": "58oggg1",
       "Name": "Influential Thinker",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "RED_CARD_EXPERT",
       "SetID": "58oggg1",
       "Name": "Red Card Expert",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "RUBY_DECISIONMAKER",
@@ -317,7 +322,7 @@
       "Name": "Ruby Decision-Maker",
       "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "SAPPHIRE_PATHFINDER",
@@ -325,7 +330,7 @@
       "Name": "Sapphire Pathfinder",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "THE_BALANCED",
@@ -339,7 +344,7 @@
       "ID": "THE_DECIDER",
       "SetID": "58oggg1",
       "Name": "The Decider",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 100,
       "UsersEstimate": 14
     },
@@ -347,15 +352,15 @@
       "ID": "THE_PERSUADER",
       "SetID": "58oggg1",
       "Name": "The Persuader",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "WORLD_CHANGER",
       "SetID": "58oggg1",
       "Name": "World Changer",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 100,
       "UsersEstimate": 24
     },
@@ -363,7 +368,7 @@
       "ID": "WORLD_CHOOSING_CHAMPION",
       "SetID": "58oggg1",
       "Name": "World Choosing Champion",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 100,
       "UsersEstimate": 14
     },
@@ -373,20 +378,20 @@
       "Name": "Curious Explorer",
       "Percentage": 71,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "58oggg1",
       "IsBase": true,
-      "Progressed": 62,
+      "Progressed": 63,
       "Completed": 12
     }
   ],
   "FirstSeenAchievements": "2023-12-28T04:04:09.7511505+00:00",
-  "LastChanged_Achievements": "2024-01-09T09:04:45.5390025+00:00",
+  "LastChanged_Achievements": "2024-01-09T10:06:04.6179676+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.4558901+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:59:27.5972221+00:00",
-  "LastUpdate_Achievements": "2024-01-09T09:04:45.5390173+00:00"
+  "LastUpdate_Ratings": "2024-01-09T10:00:50.6852747+00:00",
+  "LastUpdate_Achievements": "2024-01-09T10:06:04.6179804+00:00"
 }

@@ -476,7 +476,7 @@
   ],
   "EOS_Progressed": 512,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -2005,9 +2005,9 @@
       "ID": "Collect_Hollow_Force",
       "SetID": "7a5k76n",
       "Name": "I Wanna Rock",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 174
     },
     {
       "ID": "Collect_Hollow_Stasis",
@@ -2429,8 +2429,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-09T09:04:03.5399838+00:00",
+  "LastChanged_Achievements": "2024-01-09T10:05:06.3417599+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:57:28.44191+00:00",
-  "LastUpdate_Achievements": "2024-01-09T09:04:03.5400277+00:00"
+  "LastUpdate_Ratings": "2024-01-09T09:57:54.7798633+00:00",
+  "LastUpdate_Achievements": "2024-01-09T10:05:06.3418052+00:00"
 }

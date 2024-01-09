@@ -1725,9 +1725,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 85537,
+  "EOS_Progressed": 85544,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 3972,
+  "EOS_NewPlayers": 3957,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -16030,6 +16030,11 @@
       "Time": "2024-01-09T09:05:06.6148691+00:00",
       "NumProgressed": 85537,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-09T10:06:34.5488283+00:00",
+      "NumProgressed": 85544,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -16042,7 +16047,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 38492
+      "UsersEstimate": 38495
     },
     {
       "ID": "10",
@@ -16104,9 +16109,9 @@
       "ID": "2",
       "SetID": "2cfdi92",
       "Name": "As Far Away As Possible",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 17107
+      "UsersEstimate": 17964
     },
     {
       "ID": "3",
@@ -16114,7 +16119,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 11975
+      "UsersEstimate": 11976
     },
     {
       "ID": "4",
@@ -16122,7 +16127,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7698
+      "UsersEstimate": 7699
     },
     {
       "ID": "5",
@@ -16138,7 +16143,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5132
+      "UsersEstimate": 5133
     },
     {
       "ID": "7",
@@ -16146,7 +16151,7 @@
       "Name": "More Power to You",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 18818
+      "UsersEstimate": 18820
     },
     {
       "ID": "8",
@@ -16169,7 +16174,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 85537,
+      "Progressed": 85544,
       "Completed": 66
     }
   ],
@@ -16177,8 +16182,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-09T02:21:58.0634593+00:00",
-  "LastChanged_Achievements": "2024-01-09T09:05:06.6148686+00:00",
+  "LastChanged_Achievements": "2024-01-09T10:06:34.548828+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:51.8643288+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:57:25.0920544+00:00",
-  "LastUpdate_Achievements": "2024-01-09T09:05:06.6149519+00:00"
+  "LastUpdate_Ratings": "2024-01-09T09:57:47.9632739+00:00",
+  "LastUpdate_Achievements": "2024-01-09T10:06:34.5488906+00:00"
 }

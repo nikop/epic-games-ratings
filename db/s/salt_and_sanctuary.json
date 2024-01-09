@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 217,
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2982,9 +2982,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 543826,
+  "EOS_Progressed": 543827,
   "EOS_Completed": 1677,
-  "EOS_NewPlayers": 794,
+  "EOS_NewPlayers": 790,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -32282,6 +32282,11 @@
       "Time": "2024-01-09T09:03:56.7563529+00:00",
       "NumProgressed": 543826,
       "NumCompleted": 1677
+    },
+    {
+      "Time": "2024-01-09T10:04:56.8128783+00:00",
+      "NumProgressed": 543827,
+      "NumCompleted": 1677
     }
   ],
   "TotalAchievements": 37,
@@ -32405,7 +32410,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 217530
+      "UsersEstimate": 217531
     },
     {
       "ID": "THE_CASTLE",
@@ -32565,7 +32570,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 92450
+      "UsersEstimate": 92451
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -32588,15 +32593,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 543826,
+      "Progressed": 543827,
       "Completed": 1677
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2024-01-08T10:59:12.0666169+00:00",
-  "LastChanged_Achievements": "2024-01-09T09:03:56.7563526+00:00",
+  "LastChanged_Achievements": "2024-01-09T10:04:56.812878+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.5863764+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:58:41.0345257+00:00",
-  "LastUpdate_Achievements": "2024-01-09T09:03:56.7564837+00:00"
+  "LastUpdate_Ratings": "2024-01-09T09:59:41.0500134+00:00",
+  "LastUpdate_Achievements": "2024-01-09T10:04:56.812999+00:00"
 }

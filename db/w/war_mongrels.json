@@ -2945,9 +2945,9 @@
       "ID": "ACH_COLL_CH07",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter VII",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_COLL_CH08",
@@ -3041,9 +3041,9 @@
       "ID": "ACH_FIN_CH07",
       "SetID": "1j25agn",
       "Name": "The Horror",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -3249,8 +3249,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2024-01-09T09:10:16.9505923+00:00",
+  "LastChanged_Achievements": "2024-01-09T10:11:10.8314752+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:07.8864884+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:59:35.8920875+00:00",
-  "LastUpdate_Achievements": "2024-01-09T09:10:16.9506434+00:00"
+  "LastUpdate_Ratings": "2024-01-09T10:01:03.0075686+00:00",
+  "LastUpdate_Achievements": "2024-01-09T10:11:10.8315387+00:00"
 }

@@ -599,9 +599,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46923,
+  "EOS_Progressed": 46924,
   "EOS_Completed": 235,
-  "EOS_NewPlayers": 808,
+  "EOS_NewPlayers": 806,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -13579,6 +13579,11 @@
       "Time": "2024-01-09T09:09:34.1717941+00:00",
       "NumProgressed": 46923,
       "NumCompleted": 235
+    },
+    {
+      "Time": "2024-01-09T10:10:12.5141289+00:00",
+      "NumProgressed": 46924,
+      "NumCompleted": 235
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -13591,7 +13596,7 @@
       "Name": "Descendants",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 7038
+      "UsersEstimate": 7039
     },
     {
       "ID": "ACH_BLUEEND",
@@ -13735,7 +13740,7 @@
       "Name": "Mission Success",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 10792
+      "UsersEstimate": 10793
     },
     {
       "ID": "ACH_HUB2",
@@ -13759,7 +13764,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 10792
+      "UsersEstimate": 10793
     },
     {
       "ID": "ACH_PROPELL",
@@ -13807,7 +13812,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 35192
+      "UsersEstimate": 35193
     },
     {
       "ID": "ACH_STATUE",
@@ -13822,15 +13827,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 46923,
+      "Progressed": 46924,
       "Completed": 235
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-08T09:58:39.2037674+00:00",
-  "LastChanged_Achievements": "2024-01-09T09:09:34.1717937+00:00",
+  "LastChanged_Achievements": "2024-01-09T10:10:12.5141286+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:23.089643+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:58:48.3002926+00:00",
-  "LastUpdate_Achievements": "2024-01-09T09:09:34.1718963+00:00"
+  "LastUpdate_Ratings": "2024-01-09T09:59:52.2583219+00:00",
+  "LastUpdate_Achievements": "2024-01-09T10:10:12.5142119+00:00"
 }

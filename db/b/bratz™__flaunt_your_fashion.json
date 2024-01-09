@@ -4,7 +4,7 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 157,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -656,9 +656,9 @@
       "ID": "11",
       "SetID": "41h3j82",
       "Name": "Creating New Trends",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 70,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "12",
@@ -720,17 +720,17 @@
       "ID": "19",
       "SetID": "41h3j82",
       "Name": "Best Gala Ever",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 70,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "2",
       "SetID": "41h3j82",
       "Name": "Welcome to Barcelona",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "3",
@@ -744,9 +744,9 @@
       "ID": "4",
       "SetID": "41h3j82",
       "Name": "Welcome to the The Stylin\u0027 Soiree",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 70,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "5",
@@ -760,9 +760,9 @@
       "ID": "6",
       "SetID": "41h3j82",
       "Name": "Scooter Race",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "7",
@@ -784,9 +784,9 @@
       "ID": "9",
       "SetID": "41h3j82",
       "Name": "Talented Performer",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 70,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     }
   ],
   "AchievementSets": [
@@ -801,8 +801,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2024-01-09T09:05:33.4203161+00:00",
+  "LastChanged_Achievements": "2024-01-09T10:07:09.9228832+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:24.7386942+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:59:31.8234179+00:00",
-  "LastUpdate_Achievements": "2024-01-09T09:05:33.420351+00:00"
+  "LastUpdate_Ratings": "2024-01-09T10:00:56.7012701+00:00",
+  "LastUpdate_Achievements": "2024-01-09T10:07:09.9228975+00:00"
 }

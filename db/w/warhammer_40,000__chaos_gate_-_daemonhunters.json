@@ -837,9 +837,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3850,
+  "EOS_Progressed": 3851,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5797,6 +5797,11 @@
       "Time": "2024-01-09T08:05:27.638814+00:00",
       "NumProgressed": 3850,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T10:05:53.4740038+00:00",
+      "NumProgressed": 3851,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5872,7 +5877,7 @@
       "Name": "Patron of Deimos",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Dominus",
@@ -5920,7 +5925,7 @@
       "Name": "Fleetmaster",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ForTheMachineGod",
@@ -5928,7 +5933,7 @@
       "Name": "For the Machine God",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "FrequentWarpSurges",
@@ -5984,7 +5989,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -6008,7 +6013,7 @@
       "Name": "Exterminator",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Kills_FriendlyFire",
@@ -6176,7 +6181,7 @@
       "Name": "A Foul Creche",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -6200,7 +6205,7 @@
       "Name": "Preservationist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ReaperDefeated_Dolorus",
@@ -6224,7 +6229,7 @@
       "Name": "Junk Banishment",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ReaperDefeated_Poxus",
@@ -6248,7 +6253,7 @@
       "Name": "Long Distance Call",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "SkilledKnight",
@@ -6272,7 +6277,7 @@
       "Name": "Tactical Flexibility",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "AllAssassinsAcquired",
@@ -6336,7 +6341,7 @@
       "Name": "Tactical Sabotage",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "TentarusHive_Destroyed",
@@ -6351,21 +6356,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3850,
+      "Progressed": 3851,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3850,
+      "Progressed": 3851,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-07T22:03:18.1525827+00:00",
-  "LastChanged_Achievements": "2024-01-09T09:04:37.434501+00:00",
+  "LastChanged_Achievements": "2024-01-09T10:05:53.4740034+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:54.2702622+00:00",
-  "LastUpdate_Ratings": "2024-01-09T09:03:14.5103585+00:00",
-  "LastUpdate_Achievements": "2024-01-09T09:04:37.4345914+00:00"
+  "LastUpdate_Ratings": "2024-01-09T10:03:54.7679569+00:00",
+  "LastUpdate_Achievements": "2024-01-09T10:05:53.4740969+00:00"
 }

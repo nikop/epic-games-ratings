@@ -12,11 +12,11 @@ Number of Ratings: 371  (23.09.2022)
 | Not So Fast... | 14.00% | ~539 |
 | An Ill Omen | 14.00% | ~539 |
 | Purging Spree | 10.00% | ~385 |
-| Blood for the Blood God! | 9.00% | ~346 |
+| Blood for the Blood God! | 9.00% | ~347 |
 | Bloodless | 7.00% | ~270 |
 | Surgical Excision | 6.00% | ~231 |
 | Friendly Fire | 6.00% | ~231 |
-| A Foul Creche | 5.00% | ~192 |
+| A Foul Creche | 5.00% | ~193 |
 | Honoured Battle-Brother | 4.00% | ~154 |
 | The Emperor Protects | 4.00% | ~154 |
 | Nemesis Master | 4.00% | ~154 |
@@ -31,15 +31,15 @@ Number of Ratings: 371  (23.09.2022)
 | Only in Death | 2.00% | ~77 |
 | A Gift Spurned | 2.00% | ~77 |
 | Execution Force | 2.00% | ~77 |
-| Patron of Deimos | 1.00% | ~38 |
-| Fleetmaster | 1.00% | ~38 |
-| For the Machine God | 1.00% | ~38 |
-| Exterminator | 1.00% | ~38 |
-| Preservationist | 1.00% | ~38 |
-| Junk Banishment | 1.00% | ~38 |
-| Long Distance Call | 1.00% | ~38 |
-| Tactical Flexibility | 1.00% | ~38 |
-| Tactical Sabotage | 1.00% | ~38 |
+| Patron of Deimos | 1.00% | ~39 |
+| Fleetmaster | 1.00% | ~39 |
+| For the Machine God | 1.00% | ~39 |
+| Exterminator | 1.00% | ~39 |
+| Preservationist | 1.00% | ~39 |
+| Junk Banishment | 1.00% | ~39 |
+| Long Distance Call | 1.00% | ~39 |
+| Tactical Flexibility | 1.00% | ~39 |
+| Tactical Sabotage | 1.00% | ~39 |
 | Engine Kill | 0.90% | ~35 |
 | Death Comes For All | 0.90% | ~35 |
 | Harvest No More | 0.80% | ~31 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,850 (Ranked 217)  
+Progressed: 3,851 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 3,811 | 0 |
 | 2024-01-07 | 3,834 | 0 |
 | 2024-01-08 | 3,845 | 0 |
-| 2024-01-09 | 3,850 | 0 |
+| 2024-01-09 | 3,851 | 0 |
 ## Awards
 Max (Character Customization): 233  (Ranked 285)  
 Sum: 500 (Ranked 335)  

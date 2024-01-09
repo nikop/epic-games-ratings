@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21050,
+  "EOS_Progressed": 21054,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 1517,
+  "EOS_NewPlayers": 1509,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -7411,6 +7411,11 @@
       "Time": "2024-01-09T08:04:30.9417671+00:00",
       "NumProgressed": 21050,
       "NumCompleted": 103
+    },
+    {
+      "Time": "2024-01-09T10:04:53.4919928+00:00",
+      "NumProgressed": 21054,
+      "NumCompleted": 103
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -7455,7 +7460,7 @@
       "Name": "Savior",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1894
+      "UsersEstimate": 1895
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -7463,7 +7468,7 @@
       "Name": "Righter of Wrongs",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
@@ -7471,7 +7476,7 @@
       "Name": "Rescuer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2736
+      "UsersEstimate": 2737
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -7487,7 +7492,7 @@
       "Name": "Locksmith",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1894
+      "UsersEstimate": 1895
     },
     {
       "ID": "WATCH_ALL_SCENES_1_5",
@@ -7502,7 +7507,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 21050,
+      "Progressed": 21054,
       "Completed": 103
     }
   ],
@@ -7510,8 +7515,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-02T16:59:56.4750656+00:00",
-  "LastChanged_Achievements": "2024-01-09T09:03:54.4100873+00:00",
+  "LastChanged_Achievements": "2024-01-09T10:04:53.4919923+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:24.8589698+00:00",
-  "LastUpdate_Ratings": "2024-01-09T08:58:24.6016398+00:00",
-  "LastUpdate_Achievements": "2024-01-09T09:03:54.4101194+00:00"
+  "LastUpdate_Ratings": "2024-01-09T09:59:17.2309994+00:00",
+  "LastUpdate_Achievements": "2024-01-09T10:04:53.4920347+00:00"
 }

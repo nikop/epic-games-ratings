@@ -6,25 +6,25 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~925 |
+| Malpractice Assurance | 13.00% | ~926 |
 | Lost and Found | 8.00% | ~570 |
 | Autodidact | 7.00% | ~9,258 |
-| This guy... again? | 7.00% | ~498 |
+| This guy... again? | 7.00% | ~499 |
 | This Belongs in a Museum | 6.00% | ~7,935 |
 | Creep and Sleep | 6.00% | ~7,935 |
 | Overdue Notice | 6.00% | ~7,935 |
 | Ploughshares to Swords | 6.00% | ~427 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,612 |
-| Serenity Now! | 5.00% | ~6,612 |
-| It Rings a Bell | 5.00% | ~6,612 |
-| Not Today! | 5.00% | ~6,612 |
-| Meat and Greet | 5.00% | ~6,612 |
-| Catch and Decease | 5.00% | ~6,612 |
-| Escape from the Black Hole | 5.00% | ~6,612 |
-| It Happens | 5.00% | ~6,612 |
-| Rush Hour | 5.00% | ~6,612 |
-| To Grandmother's House | 5.00% | ~6,612 |
-| FNG | 5.00% | ~6,612 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,613 |
+| Serenity Now! | 5.00% | ~6,613 |
+| It Rings a Bell | 5.00% | ~6,613 |
+| Not Today! | 5.00% | ~6,613 |
+| Meat and Greet | 5.00% | ~6,613 |
+| Catch and Decease | 5.00% | ~6,613 |
+| Escape from the Black Hole | 5.00% | ~6,613 |
+| It Happens | 5.00% | ~6,613 |
+| Rush Hour | 5.00% | ~6,613 |
+| To Grandmother's House | 5.00% | ~6,613 |
+| FNG | 5.00% | ~6,613 |
 | Bloody Graduation | 5.00% | ~356 |
 | Spelunker | 4.00% | ~5,290 |
 | Merry Time | 4.00% | ~5,290 |
@@ -60,9 +60,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hot Air | 2.00% | ~2,645 |
 | Eyes Up | 2.00% | ~2,645 |
 | Handled | 2.00% | ~2,645 |
-| Clearing the Ledger | 1.00% | ~1,322 |
-| Shrine of Reflection | 1.00% | ~1,322 |
-| Body of Work | 1.00% | ~1,322 |
+| Clearing the Ledger | 1.00% | ~1,323 |
+| Shrine of Reflection | 1.00% | ~1,323 |
+| Body of Work | 1.00% | ~1,323 |
 | Slap on the Wrist | 1.00% | ~71 |
 | For Old Time' Sake | 1.00% | ~71 |
 | Hat Trick | 0.90% | ~1,190 |
@@ -77,8 +77,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Battle Hardened | 0.40% | ~28 |
 | Tears in the Rain | 0.30% | ~397 |
 | Maître De La Lame | 0.30% | ~21 |
-| Circle of Life | 0.20% | ~264 |
-| Grand Slam | 0.20% | ~264 |
+| Circle of Life | 0.20% | ~265 |
+| Grand Slam | 0.20% | ~265 |
 | Loop Year | 0.10% | ~132 |
 | No Gravestone Left Unturned | 0.10% | ~132 |
 | 20,000 Leagues Above the Sea | 0.10% | ~132 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,250 (Ranked 91)  
+Progressed: 132,254 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 3 (0.00%) (Ranked 395)
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
-| 2024-01-09 | 132,250 | 3 |
+| 2024-01-09 | 132,254 | 3 |
 ## Awards
 Max (Character Customization): 7,992  (Ranked 50)  
 Sum: 21,553 (Ranked 58)  
