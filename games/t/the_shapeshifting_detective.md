@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Strong Silent Type | 91.00% | ~296 |
 | Play It Again Sam | 90.00% | ~292 |
-| Play Me By The Hour | 69.00% | ~224 |
+| Play Me By The Hour | 70.00% | ~227 |
 | Patient Listener | 46.00% | ~150 |
 | Video Saved The Radio Star | 39.00% | ~127 |
 | Hashtag Winning | 37.00% | ~120 |
-| A Woman Scorned | 27.00% | ~88 |
+| A Woman Scorned | 28.00% | ~91 |
 | Look Mum I'm A Detective | 21.00% | ~68 |
 | Chameleon | 20.00% | ~65 |
 | Highlander | 17.00% | ~55 |

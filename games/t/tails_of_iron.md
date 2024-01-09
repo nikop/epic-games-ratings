@@ -33,7 +33,7 @@ Rating: 4.57 (Ranked 498)
 | Defeat the Grub Buster | 1.00% | ~10 |
 | Defeat the Stalker Queen | 1.00% | ~10 |
 | I Remember My First Beer | 1.00% | ~10 |
-| Complete the Chefs Book | 0.80% | ~19 |
+| Complete the Chefs Book | 0.90% | ~21 |
 | Defeat Avor Warden of the Northern Wastes | 0.80% | ~19 |
 | Discover the mystery of the Kings Chambers | 0.70% | ~16 |
 | Complete Redgi's Armory | 0.60% | ~14 |

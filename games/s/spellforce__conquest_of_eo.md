@@ -34,9 +34,9 @@
 | Break Free | 13.00% | ~17 |
 | Friend of Silver Drift Hollow | 12.00% | ~16 |
 | Philo's Tale | 11.00% | ~15 |
+| Silver Drift Hollow Mine | 11.00% | ~15 |
 | A Master of Magic | 11.00% | ~15 |
 | Magic Academy | 11.00% | ~15 |
-| Silver Drift Hollow Mine | 10.00% | ~13 |
 | Friend of Windholme | 10.00% | ~13 |
 | Mage Teacher | 9.00% | ~12 |
 | Defeat Gor | 8.00% | ~11 |

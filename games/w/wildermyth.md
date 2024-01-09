@@ -9,10 +9,10 @@ Number of Ratings: 45  (23.09.2022)
 | Me and My Familiar | 8.00% | ~127 |
 | The Cost of Heroism | 8.00% | ~127 |
 | This Too Shall Pass | 7.00% | ~111 |
-| Passing Shadow | 6.00% | ~95 |
-| How Romantic! | 6.00% | ~95 |
-| Cutthroat Competitors | 6.00% | ~95 |
-| Daybreak | 6.00% | ~95 |
+| Passing Shadow | 6.00% | ~96 |
+| How Romantic! | 6.00% | ~96 |
+| Cutthroat Competitors | 6.00% | ~96 |
+| Daybreak | 6.00% | ~96 |
 | Gotta Ca... Must Collect All of Them | 5.00% | ~80 |
 | War Endured | 4.00% | ~64 |
 | A Mythic Menagerie | 3.00% | ~48 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,591 (Ranked 263)  
+Progressed: 1,592 (Ranked 263)  
 Completed: 7 (0.44%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,11 +269,11 @@ Completed: 7 (0.44%) (Ranked 231)
 | 2024-01-06 | 1,588 | 7 |
 | 2024-01-07 | 1,589 | 7 |
 | 2024-01-08 | 1,590 | 7 |
-| 2024-01-09 | 1,591 | 7 |
+| 2024-01-09 | 1,592 | 7 |
 ## Awards
 Max (Character Customization): 29  (Ranked 529)  
-Sum: 29 (Ranked 545)  
-Diff (max vs sum): -16  
+Sum: 29 (Ranked 546)  
+Diff (max vs sum): -17  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 29 |

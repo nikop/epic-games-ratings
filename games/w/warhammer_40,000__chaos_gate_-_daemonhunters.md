@@ -6,21 +6,21 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 20.00% | ~772 |
+| Executioner | 20.00% | ~773 |
 | Look Over There! | 15.00% | ~579 |
 | Watch Where You Step... | 15.00% | ~579 |
 | Not So Fast... | 14.00% | ~541 |
 | An Ill Omen | 14.00% | ~541 |
 | Purging Spree | 10.00% | ~386 |
-| Blood for the Blood God! | 9.00% | ~347 |
+| Blood for the Blood God! | 9.00% | ~348 |
 | Bloodless | 7.00% | ~270 |
 | Surgical Excision | 6.00% | ~232 |
 | Friendly Fire | 6.00% | ~232 |
 | A Foul Creche | 5.00% | ~193 |
-| Honoured Battle-Brother | 4.00% | ~154 |
-| The Emperor Protects | 4.00% | ~154 |
-| Nemesis Master | 4.00% | ~154 |
-| Gunmaster | 4.00% | ~154 |
+| Honoured Battle-Brother | 4.00% | ~155 |
+| The Emperor Protects | 4.00% | ~155 |
+| Nemesis Master | 4.00% | ~155 |
+| Gunmaster | 4.00% | ~155 |
 | Hold Your Ground | 3.00% | ~116 |
 | Just a Scratch | 3.00% | ~116 |
 | Hive Exterminator | 3.00% | ~116 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,861 (Ranked 217)  
+Progressed: 3,863 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 3,811 | 0 |
 | 2024-01-07 | 3,834 | 0 |
 | 2024-01-08 | 3,845 | 0 |
-| 2024-01-09 | 3,861 | 0 |
+| 2024-01-09 | 3,863 | 0 |
 ## Awards
 Max (Character Customization): 233  (Ranked 286)  
 Sum: 500 (Ranked 335)  

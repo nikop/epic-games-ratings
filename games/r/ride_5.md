@@ -1,7 +1,7 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.50 (Ranked 612)  
+Rating: 4.50 (Ranked 613)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,7 +11,7 @@ Rating: 4.50 (Ranked 612)
 | Hear That Roar! | 42.00% | ~1,465 |
 | Bitter Rivalry | 31.00% | ~1,081 |
 | Rivals to the End | 31.00% | ~1,081 |
-| Champagne Spray | 29.00% | ~1,011 |
+| Champagne Spray | 30.00% | ~1,046 |
 | We're Going to Need a Bigger Garage | 27.00% | ~941 |
 | Quick Pit Stop | 22.00% | ~767 |
 | I Want One Too! | 21.00% | ~732 |

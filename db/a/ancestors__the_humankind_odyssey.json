@@ -4,10 +4,10 @@
   "ProductSlug": "ancestors",
   "Ranking_Rating": 473,
   "Ranking_Popularity": 472,
-  "Ranking_PopularitySum": 402,
+  "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 575,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2019-08-27T15:00:00+00:00",
@@ -694,10 +694,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 246,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2024-01-09T19:57:35.4406621+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 247,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 246,
+  "NumberOfAwards": 247,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -753,7 +759,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 29
+      "Count": 30
     }
   ],
   "EOS_Progressed": 0,
@@ -767,8 +773,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:27.180823+00:00",
-  "LastChanged": "2023-11-23T08:02:43.8862839+00:00",
+  "LastChanged": "2024-01-09T19:57:35.4406619+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:26.1180058+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:57:52.4583368+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:05:49.6481794+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:57:35.4406624+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:04:32.5897164+00:00"
 }

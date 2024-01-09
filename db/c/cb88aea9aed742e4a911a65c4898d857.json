@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -311,9 +311,9 @@
       "Count": 116
     }
   ],
-  "EOS_Progressed": 10859,
+  "EOS_Progressed": 10862,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1212,
+  "EOS_NewPlayers": 1202,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4271,6 +4271,11 @@
       "Time": "2024-01-09T19:10:49.7133739+00:00",
       "NumProgressed": 10859,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T20:09:31.8955473+00:00",
+      "NumProgressed": 10862,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4395,7 +4400,7 @@
       "Name": "The Rise",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     },
     {
       "ID": "17_TheExemplar",
@@ -4531,7 +4536,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -4561,9 +4566,9 @@
       "ID": "37_TheSirenicalDiplomat",
       "SetID": "37a94m8",
       "Name": "Silver-Tongued Diplomat",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 217
     },
     {
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
@@ -4595,7 +4600,7 @@
       "Name": "Jungle Heat",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "42_TheIronJudgement",
@@ -4657,9 +4662,9 @@
       "ID": "49_HowDidItAllEnd",
       "SetID": "37a94m8",
       "Name": "How Did It All End?",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 33
     },
     {
       "ID": "50_Whodunit",
@@ -4802,7 +4807,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10859,
+      "Progressed": 10862,
       "Completed": 1
     }
   ],
@@ -4810,8 +4815,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-09T16:59:10.7700574+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:10:49.7133736+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:09:31.8955468+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:59:02.7859513+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:10:49.7134711+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:58:22.3202334+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:09:31.8956052+00:00"
 }

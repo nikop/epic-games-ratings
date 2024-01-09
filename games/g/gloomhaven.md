@@ -6,39 +6,39 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~12,324 |
-| Overkill | 33.00% | ~10,702 |
-| Vaccine Incoming | 31.00% | ~10,054 |
-| A normal day in Gloomhaven | 29.00% | ~9,405 |
-| Spread the plague | 27.00% | ~8,756 |
-| Get over here! | 24.00% | ~7,783 |
-| Just when I thought I was out... | 19.00% | ~6,162 |
-| Mine... All Mine... | 16.00% | ~5,189 |
-| Precious! | 15.00% | ~4,865 |
-| Grizzled veteran | 15.00% | ~4,865 |
-| Anatomy Lesson | 14.00% | ~4,540 |
-| Light of my life | 13.00% | ~4,216 |
-| Who's the Boss? | 12.00% | ~3,892 |
-| You activated my trap card! | 12.00% | ~3,892 |
-| Obstacle race | 12.00% | ~3,892 |
-| Augmented rat | 10.00% | ~3,243 |
-| Doom and gloom | 10.00% | ~3,243 |
-| Dungeon Veteran | 8.00% | ~2,594 |
-| Pain is your friend | 8.00% | ~2,594 |
-| Pack leader | 7.00% | ~2,270 |
-| Black death | 7.00% | ~2,270 |
-| Play it again, Sam | 7.00% | ~2,270 |
-| Quad damage | 6.00% | ~1,946 |
-| Power Up! | 5.00% | ~1,622 |
-| Merchant of doom | 5.00% | ~1,622 |
-| Caught off guard | 5.00% | ~1,622 |
-| Now you see me... | 5.00% | ~1,622 |
-| The Pro from Dover | 4.00% | ~1,297 |
-| Pretty lights! | 4.00% | ~1,297 |
-| I hate portals | 3.00% | ~973 |
-| Down the hatch | 3.00% | ~973 |
-| An eye for an eye | 3.00% | ~973 |
-| The Cephalophore | 3.00% | ~973 |
+| I'm not dead yet | 38.00% | ~12,332 |
+| Overkill | 33.00% | ~10,709 |
+| Vaccine Incoming | 31.00% | ~10,060 |
+| A normal day in Gloomhaven | 29.00% | ~9,411 |
+| Spread the plague | 27.00% | ~8,762 |
+| Get over here! | 24.00% | ~7,788 |
+| Just when I thought I was out... | 19.00% | ~6,166 |
+| Mine... All Mine... | 16.00% | ~5,192 |
+| Precious! | 15.00% | ~4,868 |
+| Grizzled veteran | 15.00% | ~4,868 |
+| Anatomy Lesson | 14.00% | ~4,543 |
+| Light of my life | 13.00% | ~4,219 |
+| Who's the Boss? | 12.00% | ~3,894 |
+| You activated my trap card! | 12.00% | ~3,894 |
+| Obstacle race | 12.00% | ~3,894 |
+| Augmented rat | 10.00% | ~3,245 |
+| Doom and gloom | 10.00% | ~3,245 |
+| Dungeon Veteran | 8.00% | ~2,596 |
+| Pain is your friend | 8.00% | ~2,596 |
+| Pack leader | 7.00% | ~2,272 |
+| Black death | 7.00% | ~2,272 |
+| Play it again, Sam | 7.00% | ~2,272 |
+| Quad damage | 6.00% | ~1,947 |
+| Power Up! | 5.00% | ~1,623 |
+| Merchant of doom | 5.00% | ~1,623 |
+| Caught off guard | 5.00% | ~1,623 |
+| Now you see me... | 5.00% | ~1,623 |
+| The Pro from Dover | 4.00% | ~1,298 |
+| Pretty lights! | 4.00% | ~1,298 |
+| I hate portals | 3.00% | ~974 |
+| Down the hatch | 3.00% | ~974 |
+| An eye for an eye | 3.00% | ~974 |
+| The Cephalophore | 3.00% | ~974 |
 | From Gloom, only greed and death emerges | 2.00% | ~649 |
 | The Rat King | 2.00% | ~649 |
 | How to train your Drake | 2.00% | ~649 |
@@ -46,11 +46,11 @@ Number of Ratings: 68  (23.09.2022)
 | The Sniper | 2.00% | ~649 |
 | Grin and bear it | 2.00% | ~649 |
 | An axe to grind | 2.00% | ~649 |
-| Betray this | 1.00% | ~324 |
-| Add a bit of colour | 1.00% | ~324 |
-| Captain hooked | 1.00% | ~324 |
-| Spoiler police! | 1.00% | ~324 |
-| New Blood | 1.00% | ~324 |
+| Betray this | 1.00% | ~325 |
+| Add a bit of colour | 1.00% | ~325 |
+| Captain hooked | 1.00% | ~325 |
+| Spoiler police! | 1.00% | ~325 |
+| New Blood | 1.00% | ~325 |
 | The Pacifist | 0.50% | ~162 |
 | The evil that men do | 0.50% | ~162 |
 | Born Support | 0.50% | ~162 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~32 |
 | Hard-travelling Heroes | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,431 (Ranked 140)  
+Progressed: 32,452 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,11 +186,11 @@ Completed: 1 (0.00%) (Ranked 394)
 | 2024-01-06 | 31,749 | 1 |
 | 2024-01-07 | 32,091 | 1 |
 | 2024-01-08 | 32,291 | 1 |
-| 2024-01-09 | 32,431 | 1 |
+| 2024-01-09 | 32,452 | 1 |
 ## Awards
 Max (Character Customization): 3,616  (Ranked 95)  
-Sum: 8,468 (Ranked 107)  
-Diff (max vs sum): -12  
+Sum: 8,468 (Ranked 108)  
+Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,616 |

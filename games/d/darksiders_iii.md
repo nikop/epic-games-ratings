@@ -8,24 +8,24 @@ Number of Ratings: 116  (23.09.2022)
 | ---- | ---------- | ----- |
 | Green with Envy | 78.00% | ~408 |
 | First of many… | 69.00% | ~361 |
-| Helping Hand | 64.00% | ~335 |
+| Helping Hand | 65.00% | ~340 |
 | Increased Vigor | 60.00% | ~314 |
 | Fight Fire with Fire | 58.00% | ~303 |
 | Increased Capacity | 54.00% | ~282 |
 | Just the start | 49.00% | ~256 |
 | Perfect Storm | 46.00% | ~241 |
-| All That Glitters | 45.00% | ~235 |
+| All That Glitters | 46.00% | ~241 |
 | Enhance! | 41.00% | ~214 |
-| One Of the Chosen | 39.00% | ~204 |
+| One Of the Chosen | 40.00% | ~209 |
 | Devil's in the Details | 39.00% | ~204 |
 | Throne Potato | 39.00% | ~204 |
 | Five's a Crowd | 39.00% | ~204 |
 | 25 to Life | 39.00% | ~204 |
 | Salvation | 37.00% | ~194 |
 | Unshakable Fortitude | 35.00% | ~183 |
-| Soul Harvester | 34.00% | ~178 |
+| Soul Harvester | 35.00% | ~183 |
+| I Wanna Rock | 34.00% | ~178 |
 | Delusions of Grandeur | 34.00% | ~178 |
-| I Wanna Rock | 33.00% | ~173 |
 | Love Tap | 32.00% | ~167 |
 | Maximum Vigor | 31.00% | ~162 |
 | Freeze Frame | 29.00% | ~152 |

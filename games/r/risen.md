@@ -5,28 +5,28 @@ Rating: 4.56 (Ranked 509)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 91.00% | ~167 |
-| Map reader | 63.00% | ~116 |
-| Adventurer | 62.00% | ~114 |
+| Beginner | 91.00% | ~168 |
+| Map reader | 63.00% | ~117 |
+| Adventurer | 62.00% | ~115 |
 | Philanthropist | 59.00% | ~109 |
-| The brave little tailor | 40.00% | ~74 |
 | Archer | 40.00% | ~74 |
-| Field hand | 38.00% | ~70 |
+| The brave little tailor | 39.00% | ~72 |
+| Field hand | 37.00% | ~68 |
 | Well-to-do | 32.00% | ~59 |
-| Samaritan | 29.00% | ~53 |
-| Ladies' man | 29.00% | ~53 |
+| Samaritan | 29.00% | ~54 |
+| Ladies' man | 29.00% | ~54 |
 | The merciful one | 28.00% | ~52 |
-| Ferocious wild boars | 22.00% | ~40 |
-| Idiot | 22.00% | ~40 |
+| Ferocious wild boars | 22.00% | ~41 |
+| Idiot | 22.00% | ~41 |
 | Beast slayer | 21.00% | ~39 |
 | Death of a legend | 19.00% | ~35 |
 | Ogre friend | 19.00% | ~35 |
 | Family man | 17.00% | ~31 |
 | Archaeologist | 17.00% | ~31 |
 | Sidelined | 17.00% | ~31 |
-| Wise man | 16.00% | ~29 |
-| Hard worker | 16.00% | ~29 |
-| Little hero | 15.00% | ~28 |
+| Wise man | 16.00% | ~30 |
+| Little hero | 16.00% | ~30 |
+| Hard worker | 16.00% | ~30 |
 | The fourth triplet | 15.00% | ~28 |
 | Fence | 15.00% | ~28 |
 | Master detective | 15.00% | ~28 |
@@ -40,9 +40,9 @@ Rating: 4.56 (Ranked 509)
 | Freedom fighter | 9.00% | ~17 |
 | Titan Lord | 9.00% | ~17 |
 | Master thief | 9.00% | ~17 |
-| Expert | 7.00% | ~13 |
 | King of the handymen | 7.00% | ~13 |
 | Terror of the hens | 6.00% | ~11 |
+| Expert | 6.00% | ~11 |
 | Moneybags | 5.00% | ~9 |
 | The traveler | 4.00% | ~7 |
 | King Midas | 4.00% | ~7 |
@@ -56,7 +56,7 @@ Rating: 4.56 (Ranked 509)
 | Master of the classes | 0.50% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 184 (Ranked 434)  
+Progressed: 185 (Ranked 434)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 171 | 0 |
 | 2024-01-07 | 177 | 0 |
 | 2024-01-08 | 181 | 0 |
-| 2024-01-09 | 184 | 0 |
+| 2024-01-09 | 185 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

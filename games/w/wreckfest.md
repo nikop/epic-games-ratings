@@ -5,20 +5,20 @@ Rating: 4.27 (Ranked 903)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Storm Warning | 69.00% | ~700 |
-| Highballer | 58.00% | ~588 |
-| Dirty Roller | 33.00% | ~335 |
-| Regional Juniors Champion | 31.00% | ~314 |
-| Wheeler Dealer | 24.00% | ~243 |
-| Look Mom, I Can Fly | 21.00% | ~213 |
-| National Amateurs Champion | 17.00% | ~172 |
+| Storm Warning | 69.00% | ~702 |
+| Highballer | 58.00% | ~590 |
+| Dirty Roller | 33.00% | ~336 |
+| Regional Juniors Champion | 31.00% | ~315 |
+| Wheeler Dealer | 24.00% | ~244 |
+| Look Mom, I Can Fly | 21.00% | ~214 |
+| National Amateurs Champion | 17.00% | ~173 |
 | Junk Collector | 14.00% | ~142 |
 | Trashing Around | 14.00% | ~142 |
 | Hating Them Tin Cans | 14.00% | ~142 |
-| Challengers Champion | 10.00% | ~101 |
+| Challengers Champion | 10.00% | ~102 |
 | Cash For Crashes | 7.00% | ~71 |
 | Pro Internationals Champion | 6.00% | ~61 |
-| Maniac Driver | 3.00% | ~30 |
+| Maniac Driver | 3.00% | ~31 |
 | World Masters Champion | 2.00% | ~20 |
 | Showing Some Dedication | 2.00% | ~20 |
 | Garden Variety | 1.00% | ~10 |
@@ -26,7 +26,7 @@ Rating: 4.27 (Ranked 903)
 | Human Lover | 0.50% | ~5 |
 | Rocketeer | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,014 (Ranked 291)  
+Progressed: 1,017 (Ranked 291)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,7 +53,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 868 | 0 |
 | 2024-01-07 | 924 | 0 |
 | 2024-01-08 | 979 | 0 |
-| 2024-01-09 | 1,014 | 0 |
+| 2024-01-09 | 1,017 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

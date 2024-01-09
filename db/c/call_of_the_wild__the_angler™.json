@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8212,
+  "EOS_Progressed": 8214,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 329,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13707,6 +13707,11 @@
       "Time": "2024-01-09T19:08:47.6502242+00:00",
       "NumProgressed": 8212,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T20:06:34.5894042+00:00",
+      "NumProgressed": 8214,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13718,7 +13723,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -13742,7 +13747,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -13764,9 +13769,9 @@
       "ID": "ACHIEVEMENT_007",
       "SetID": "1a05lfd",
       "Name": "More Fish in the Sea",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1396
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -13790,7 +13795,7 @@
       "Name": "License to Gill",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -13838,7 +13843,7 @@
       "Name": "School\u0027s Out for Summer",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -14037,13 +14042,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8212,
+      "Progressed": 8214,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7584,
+      "Progressed": 7586,
       "Completed": 113
     }
   ],
@@ -14051,8 +14056,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:08:47.6502237+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:06:34.5894037+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:59:58.8459485+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:08:47.6503151+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:59:00.814189+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:06:34.589512+00:00"
 }

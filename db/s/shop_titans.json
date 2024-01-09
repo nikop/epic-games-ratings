@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -8101,9 +8101,9 @@
       "Count": 3820
     }
   ],
-  "EOS_Progressed": 150464,
+  "EOS_Progressed": 150468,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 1424,
+  "EOS_NewPlayers": 1421,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36036,6 +36036,11 @@
       "Time": "2024-01-09T19:09:01.9057719+00:00",
       "NumProgressed": 150464,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2024-01-09T20:08:14.9942479+00:00",
+      "NumProgressed": 150468,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 112,
@@ -36279,7 +36284,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15046
+      "UsersEstimate": 15047
     },
     {
       "ID": "commonres02",
@@ -36311,7 +36316,7 @@
       "Name": "Disintermediation",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10532
+      "UsersEstimate": 10533
     },
     {
       "ID": "craft02",
@@ -36423,7 +36428,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10532
+      "UsersEstimate": 10533
     },
     {
       "ID": "expansion02",
@@ -36823,7 +36828,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10532
+      "UsersEstimate": 10533
     },
     {
       "ID": "sell02",
@@ -36942,15 +36947,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 150464,
+      "Progressed": 150468,
       "Completed": 345
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-09T12:03:26.2086123+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:09:01.9057715+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:08:14.9942473+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.0260329+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:03:31.888804+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:09:01.9060425+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:02:55.4552101+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:08:14.9945208+00:00"
 }

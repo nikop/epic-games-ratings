@@ -9,7 +9,7 @@ Rating: 4.52 (Ranked 572)
 | Increasing your Power Level | 27.00% | ~326 |
 | Enter the Speed Gauntlet | 25.00% | ~302 |
 | I just can't choose | 25.00% | ~302 |
-| A Cheese Grater to the Face | 19.00% | ~229 |
+| A Cheese Grater to the Face | 19.00% | ~230 |
 | Put it on a shelf | 18.00% | ~217 |
 | It's like an haircut | 17.00% | ~205 |
 | Ride in the rising sun | 16.00% | ~193 |
@@ -20,8 +20,8 @@ Rating: 4.52 (Ranked 572)
 | Martian explorer | 11.00% | ~133 |
 | To the core | 8.00% | ~97 |
 | Blurred photofinish | 8.00% | ~97 |
-| EZ game EZ life | 7.00% | ~84 |
-| First step into a larger world | 7.00% | ~84 |
+| EZ game EZ life | 7.00% | ~85 |
+| First step into a larger world | 7.00% | ~85 |
 | Over the clouds | 6.00% | ~72 |
 | Under the sea, under the sea | 6.00% | ~72 |
 | Even Faster! | 6.00% | ~72 |
@@ -58,7 +58,7 @@ Rating: 4.52 (Ranked 572)
 | I, need, more, shelves! | 0.50% | ~6 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,207 (Ranked 283)  
+Progressed: 1,208 (Ranked 283)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 1,203 | 0 |
 | 2024-01-07 | 1,204 | 0 |
 | 2024-01-08 | 1,206 | 0 |
-| 2024-01-09 | 1,207 | 0 |
+| 2024-01-09 | 1,208 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

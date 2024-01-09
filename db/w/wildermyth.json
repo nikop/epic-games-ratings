@@ -4,10 +4,10 @@
   "ProductSlug": "wildermyth-593344",
   "Ranking_Rating": 99,
   "Ranking_Popularity": 529,
-  "Ranking_PopularitySum": 545,
+  "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_NewPlayers": 415,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -172,9 +172,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1591,
+  "EOS_Progressed": 1592,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -2412,6 +2412,11 @@
       "Time": "2024-01-09T09:10:14.7512019+00:00",
       "NumProgressed": 1591,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-09T20:09:38.0315106+00:00",
+      "NumProgressed": 1592,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 56,
@@ -2495,7 +2500,7 @@
       "Name": "Passing Shadow",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -2591,7 +2596,7 @@
       "Name": "How Romantic!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "achievement_maimedHero",
@@ -2615,7 +2620,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -2695,7 +2700,7 @@
       "Name": "Daybreak",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "completedStory_vultureLord",
@@ -2870,15 +2875,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1591,
+      "Progressed": 1592,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2024-01-03T23:58:17.6931046+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:10:57.9134664+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:09:38.0315103+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:17.4648519+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:57:53.8174638+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:10:57.9135234+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:57:36.3756056+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:09:38.0315686+00:00"
 }

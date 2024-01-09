@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1207,
+  "EOS_Progressed": 1208,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1310,6 +1310,11 @@
       "Time": "2024-01-09T02:30:06.4273785+00:00",
       "NumProgressed": 1207,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T20:04:28.1071228+00:00",
+      "NumProgressed": 1208,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1505,7 +1510,7 @@
       "Name": "EZ game EZ life",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "CAREERTRIALSMASTERS",
@@ -1601,7 +1606,7 @@
       "Name": "First step into a larger world",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "LOSEONEONLINE",
@@ -1673,7 +1678,7 @@
       "Name": "A Cheese Grater to the Face",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "TENPLATINUM",
@@ -1736,7 +1741,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1207,
+      "Progressed": 1208,
       "Completed": 0
     }
   ],
@@ -1744,8 +1749,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-12-19T23:02:44.1554509+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:05:43.1502664+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:04:28.1071225+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:52.4033181+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:03:25.6346279+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:05:43.1503116+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:02:51.2571056+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:04:28.107164+00:00"
 }

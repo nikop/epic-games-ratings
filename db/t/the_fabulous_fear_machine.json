@@ -544,9 +544,9 @@
       "ID": "19",
       "SetID": "d37idgg",
       "Name": "Giant",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "2",
@@ -560,9 +560,9 @@
       "ID": "20",
       "SetID": "d37idgg",
       "Name": "A rival with no options",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "21",
@@ -640,9 +640,9 @@
       "ID": "3",
       "SetID": "d37idgg",
       "Name": "The battle of Great Britain",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "30",
@@ -688,9 +688,9 @@
       "ID": "35",
       "SetID": "d37idgg",
       "Name": "Pulp! Where Monsters Dwell",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "36",
@@ -847,8 +847,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:05:33.4829055+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:04:21.3288495+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.4038986+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:59:59.791781+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:05:33.4829806+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:59:01.4255081+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:04:21.3288802+00:00"
 }

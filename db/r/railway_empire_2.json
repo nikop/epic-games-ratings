@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -7996,9 +7996,9 @@
       "ID": "A20",
       "SetID": "9b7p7eo",
       "Name": "Country Bumpkin",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2061
     },
     {
       "ID": "A21",
@@ -8012,9 +8012,9 @@
       "ID": "A22",
       "SetID": "9b7p7eo",
       "Name": "Brainstorm",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1766
+      "UsersEstimate": 1793
     },
     {
       "ID": "A23",
@@ -8285,8 +8285,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2024-01-08T18:58:43.8865207+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:07:33.4974839+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:05:45.6322709+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.5860867+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:59:49.862009+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:07:33.4975748+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:58:55.0055374+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:05:45.6323455+00:00"
 }

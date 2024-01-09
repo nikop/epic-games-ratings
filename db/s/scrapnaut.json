@@ -5,9 +5,9 @@
   "Ranking_Rating": 882,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 334,
+  "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -156,11 +156,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 650,
+  "EOS_Progressed": 651,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.62,
+  "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.3117405+00:00",
@@ -2256,6 +2256,11 @@
       "Time": "2024-01-09T15:09:06.9300394+00:00",
       "NumProgressed": 650,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-09T20:08:56.0972521+00:00",
+      "NumProgressed": 651,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -2305,9 +2310,9 @@
       "ID": "ACH_COLLECT_10_HERBS",
       "SetID": "7c4cldc",
       "Name": "Herbalist",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_COLLECT_10_MUSHROOMS",
@@ -2315,7 +2320,7 @@
       "Name": "Mushroom Picker",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -2339,15 +2344,15 @@
       "Name": "Master Of Management",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Gatherer",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -2355,7 +2360,7 @@
       "Name": "Scrap Gatherer",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_COOK",
@@ -2403,7 +2408,7 @@
       "Name": "My New Home",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ACH_KILL_100",
@@ -2451,7 +2456,7 @@
       "Name": "Smelting Master",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_MYTHRIL_SMELTER",
@@ -2459,7 +2464,7 @@
       "Name": "Mythical Smelter",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_PERMADEATH",
@@ -2475,7 +2480,7 @@
       "Name": "Smelter",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
@@ -2483,7 +2488,7 @@
       "Name": "Survivor",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_SURVIVE_20_DAYS",
@@ -2499,7 +2504,7 @@
       "Name": "Survival Master",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_TELEPORT",
@@ -2514,7 +2519,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 650,
+      "Progressed": 651,
       "Completed": 4
     }
   ],
@@ -2522,8 +2527,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:09:59.8081074+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:08:56.0972514+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2095998+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:57:08.5648359+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:09:59.808142+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:57:06.4968158+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:08:56.0972849+00:00"
 }

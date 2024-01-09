@@ -4,7 +4,7 @@
   "ProductSlug": "angelo-and-deemon-one-hell-of-a-quest-94d7e2",
   "Ranking_EOS_Progress": 561,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 480,
+  "Ranking_EOS_NewPlayers": 481,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-15T14:00:00+00:00",
@@ -319,9 +319,9 @@
       "ID": "Highway2Hell",
       "SetID": "bl5ebnd",
       "Name": "Highway to Hell",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "LikeDislike",
@@ -335,9 +335,9 @@
       "ID": "MilitaryContract",
       "SetID": "bl5ebnd",
       "Name": "Military Contract",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "NewLife",
@@ -359,9 +359,9 @@
       "ID": "PetLover",
       "SetID": "bl5ebnd",
       "Name": "Pet Lover",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "PortraitMadness",
@@ -422,8 +422,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:07:55.7636639+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:05:58.5841855+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:26.7593426+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:00:15.343241+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:07:55.7636816+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:59:11.6300487+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:05:58.5841975+00:00"
 }

@@ -6,20 +6,20 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~508 |
-| Double Kill | 41.00% | ~453 |
-| Critical Hit | 23.00% | ~254 |
-| Veteran | 23.00% | ~254 |
+| Adept | 46.00% | ~509 |
+| Double Kill | 41.00% | ~454 |
+| Critical Hit | 23.00% | ~255 |
+| Veteran | 23.00% | ~255 |
 | Dressed For Success | 16.00% | ~177 |
-| Humiliation | 10.00% | ~110 |
-| Veni, Vidi, Vici | 10.00% | ~110 |
-| Multi Kill | 9.00% | ~99 |
-| Sorcerous Spree | 9.00% | ~99 |
-| Master | 8.00% | ~88 |
+| Humiliation | 10.00% | ~111 |
+| Veni, Vidi, Vici | 10.00% | ~111 |
+| Multi Kill | 9.00% | ~100 |
+| Sorcerous Spree | 8.00% | ~89 |
+| Master | 8.00% | ~89 |
 | Landlord Extraordinaire | 7.00% | ~77 |
 | The Song of Stoutheart | 6.00% | ~66 |
 | Whoops! | 6.00% | ~66 |
-| Don't Touch My Stuff | 5.00% | ~55 |
+| Don't Touch My Stuff | 6.00% | ~66 |
 | Trojan Horse | 4.00% | ~44 |
 | Ultra Kill | 3.00% | ~33 |
 | Expert Essence Employment | 3.00% | ~33 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,105 (Ranked 287)  
+Progressed: 1,107 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 1,034 | 0 |
 | 2024-01-07 | 1,067 | 0 |
 | 2024-01-08 | 1,089 | 0 |
-| 2024-01-09 | 1,105 | 0 |
+| 2024-01-09 | 1,107 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 522)  
 Sum: 252 (Ranked 399)  

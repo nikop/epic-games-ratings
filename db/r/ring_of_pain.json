@@ -3886,9 +3886,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242688,
+  "EOS_Progressed": 242692,
   "EOS_Completed": 304,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31266,6 +31266,11 @@
       "Time": "2024-01-09T19:11:04.2673208+00:00",
       "NumProgressed": 242688,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-09T20:09:43.7095276+00:00",
+      "NumProgressed": 242692,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -31467,9 +31472,9 @@
       "ID": "DIETOGRAVESTONE",
       "SetID": "5l8oe0h",
       "Name": "Dig Your Own Grave",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1942
     },
     {
       "ID": "DONTATTACKRATSDEPTH10",
@@ -32380,13 +32385,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242688,
+      "Progressed": 242692,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4168,
+      "Progressed": 4172,
       "Completed": 424
     }
   ],
@@ -32394,8 +32399,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-09T13:57:40.165064+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:11:04.2673205+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:09:43.7095272+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:58:02.0148775+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:11:04.2675823+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:57:42.0360055+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:09:43.7097856+00:00"
 }

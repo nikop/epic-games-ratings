@@ -4,7 +4,7 @@
   "ProductSlug": "strike-force-kitty-4603e5",
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 189,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1032,9 +1032,9 @@
       "ID": "ach24",
       "SetID": "baneh2j",
       "Name": "Researcher",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "ach25",
@@ -1056,9 +1056,9 @@
       "ID": "ach27",
       "SetID": "baneh2j",
       "Name": "Preparation",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 35,
-      "UsersEstimate": 144
+      "UsersEstimate": 146
     },
     {
       "ID": "ach28",
@@ -1159,8 +1159,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:05:47.1149131+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:04:30.9691595+00:00",
   "LastUpdate_AppInfo": "2024-01-03T10:57:04.956852+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:57:38.5992961+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:05:47.1149359+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:57:26.2360668+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:04:30.9691858+00:00"
 }

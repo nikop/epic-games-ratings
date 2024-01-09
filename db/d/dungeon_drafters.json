@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 461,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -742,9 +742,9 @@
       "ID": "InnkeeperQuestlineThird",
       "SetID": "3b8n56h",
       "Name": "Dungeon Mastery",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "LW_complete",
@@ -1039,8 +1039,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:07:18.4026182+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:05:35.110129+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:57.5094104+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:58:13.1616747+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:07:18.4026486+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:57:49.6753524+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:05:35.1101629+00:00"
 }

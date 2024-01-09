@@ -20,8 +20,8 @@ Number of Ratings: 85  (23.09.2022)
 | Ducks in a Row, Fish in a Barrel | 45.00% | ~189 |
 | Forbidden Donut | 36.00% | ~151 |
 | Freshly Squeezed | 36.00% | ~151 |
+| Bodied Sattva | 36.00% | ~151 |
 | Upgreatest | 35.00% | ~147 |
-| Bodied Sattva | 35.00% | ~147 |
 | Deincarnated | 29.00% | ~122 |
 | Rock of the Bay | 29.00% | ~122 |
 | Furon Fashion | 29.00% | ~122 |
@@ -77,8 +77,8 @@ Completed: 5 (1.19%) (Ranked 163)
 | 2024-01-09 | 420 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 504)  
-Sum: 35 (Ranked 532)  
-Diff (max vs sum): -28  
+Sum: 35 (Ranked 533)  
+Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 35 |

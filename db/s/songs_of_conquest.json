@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -456,7 +456,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1105,
+  "EOS_Progressed": 1107,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
@@ -3856,6 +3856,11 @@
       "Time": "2024-01-09T19:09:47.5192912+00:00",
       "NumProgressed": 1105,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T20:08:47.3700302+00:00",
+      "NumProgressed": 1107,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3972,7 +3977,7 @@
       "Name": "Critical Hit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "Deepstrike",
@@ -4012,7 +4017,7 @@
       "Name": "Double Kill",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4076,7 +4081,7 @@
       "Name": "Multi Kill",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "MultiplayerWins",
@@ -4130,9 +4135,9 @@
       "ID": "ReclaimTown",
       "SetID": "71c0n9i",
       "Name": "Don\u0027t Touch My Stuff",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 66
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -4146,9 +4151,9 @@
       "ID": "SorcerousSpree",
       "SetID": "71c0n9i",
       "Name": "Sorcerous Spree",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 89
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -4196,7 +4201,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "WielderLevel2",
@@ -4204,7 +4209,7 @@
       "Name": "Veteran",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "WielderLevel3",
@@ -4212,7 +4217,7 @@
       "Name": "Master",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "WielderLevel4",
@@ -4228,7 +4233,7 @@
       "Name": "Humiliation",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -4252,7 +4257,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -4299,15 +4304,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1105,
+      "Progressed": 1107,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-08T22:01:52.5110389+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:09:47.5192908+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:08:47.3700296+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:57:09.2028307+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:09:47.51935+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:57:06.9447613+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:08:47.3700799+00:00"
 }

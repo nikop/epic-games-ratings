@@ -670,9 +670,9 @@
       "ID": "NeonBeachChamp",
       "SetID": "2i48e34",
       "Name": "Neon Beach Champ",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "NeonBeachGod",
@@ -757,8 +757,8 @@
   ],
   "FirstSeen": "2023-10-14T16:03:11.8091132+00:00",
   "FirstSeenAchievements": "2023-09-27T15:03:05.6724323+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:10:45.5679007+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:09:28.6329025+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.113299+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:58:35.2959172+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:10:45.5679116+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:58:04.4700467+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:09:28.6329135+00:00"
 }

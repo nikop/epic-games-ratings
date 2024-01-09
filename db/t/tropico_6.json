@@ -1551,9 +1551,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7035,
+  "EOS_Progressed": 7038,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16401,6 +16401,11 @@
       "Time": "2024-01-09T19:07:32.2080057+00:00",
       "NumProgressed": 7035,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-09T20:05:44.7000728+00:00",
+      "NumProgressed": 7038,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -16468,7 +16473,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -16484,7 +16489,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -16508,7 +16513,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3025
+      "UsersEstimate": 3026
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -16532,7 +16537,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -16540,7 +16545,7 @@
       "Name": "Firestarter",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -16554,9 +16559,9 @@
       "ID": "ACH_EP_TROPICOLAND",
       "SetID": "1p8ab95",
       "Name": "For Science!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 704
+      "UsersEstimate": 774
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -16572,7 +16577,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5136
+      "UsersEstimate": 5138
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -16596,7 +16601,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -16668,7 +16673,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3095
+      "UsersEstimate": 3097
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -16684,7 +16689,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2462
+      "UsersEstimate": 2463
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -16692,7 +16697,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -16716,7 +16721,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -16731,15 +16736,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7035,
+      "Progressed": 7038,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-07T17:59:09.5034143+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:07:32.2080054+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:05:44.7000724+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.4830018+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:01:18.07535+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:07:32.2080921+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:59:53.2449492+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:05:44.7001492+00:00"
 }

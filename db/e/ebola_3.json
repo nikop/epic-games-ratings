@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 327,
+  "EOS_Progressed": 328,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1411,6 +1411,11 @@
       "Time": "2024-01-09T13:26:38.4105007+00:00",
       "NumProgressed": 327,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T20:09:40.3824855+00:00",
+      "NumProgressed": 328,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1428,9 +1433,9 @@
       "ID": "achAliceTwo",
       "SetID": "72gjli4",
       "Name": "Alice \u2714",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 16
     },
     {
       "ID": "achAntivirus",
@@ -1444,9 +1449,9 @@
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 180
     },
     {
       "ID": "achBett",
@@ -1484,9 +1489,9 @@
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 180
     },
     {
       "ID": "achCity",
@@ -1588,9 +1593,9 @@
       "ID": "achFood",
       "SetID": "72gjli4",
       "Name": "Food \u2714",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 16
     },
     {
       "ID": "achGameHard",
@@ -1622,7 +1627,7 @@
       "Name": "Fright \u2714",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "achLizun",
@@ -1644,9 +1649,9 @@
       "ID": "achMaikl",
       "SetID": "72gjli4",
       "Name": "Fraternal help \u2714",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "achOsipovOne",
@@ -1732,17 +1737,17 @@
       "ID": "achSave",
       "SetID": "72gjli4",
       "Name": "King of survival \u2714",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 20
+      "UsersEstimate": 16
     },
     {
       "ID": "achSecretos",
       "SetID": "72gjli4",
       "Name": "All secrets revealed \u2714",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 16
     },
     {
       "ID": "achSeif",
@@ -1750,7 +1755,7 @@
       "Name": "Master of Unlocking \u2714",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achShahmat",
@@ -1804,9 +1809,9 @@
       "ID": "achWeapon",
       "SetID": "72gjli4",
       "Name": "Weapon \u2714",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "achWorms",
@@ -1821,7 +1826,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 327,
+      "Progressed": 328,
       "Completed": 0
     }
   ],
@@ -1829,8 +1834,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:11:00.8979661+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:09:40.382485+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.688521+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:59:47.6001907+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:11:00.8980332+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:58:53.5503268+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:09:40.3825729+00:00"
 }

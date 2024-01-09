@@ -14,11 +14,11 @@
 | Locked and Loaded | 4.00% | ~6 |
 | Defeat Tezuth | 3.00% | ~5 |
 | Freezing Cold | 3.00% | ~5 |
+| Searing Heat | 3.00% | ~5 |
+| Witch | 3.00% | ~5 |
 | The A-Team | 3.00% | ~5 |
 | Expert | 3.00% | ~5 |
 | The Golden Flash | 3.00% | ~5 |
-| Searing Heat | 2.00% | ~3 |
-| Witch | 2.00% | ~3 |
 | Can't touch this | 2.00% | ~3 |
 | Mirror, Mirror on the Wall | 1.00% | ~2 |
 | Defeat Ingla | 1.00% | ~2 |

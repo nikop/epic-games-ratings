@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -1077,9 +1077,9 @@
       "ID": "m1",
       "SetID": "b1ggf28",
       "Name": "Animal Imports",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "m2",
@@ -1165,9 +1165,9 @@
       "ID": "x1",
       "SetID": "b1ggf28",
       "Name": "Happiness Maintainer",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "x2",
@@ -1244,8 +1244,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:06:21.0013341+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:04:54.4891901+00:00",
   "LastUpdate_AppInfo": "2024-01-03T05:57:01.0489301+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:03:13.7723198+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:06:21.0013774+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:02:43.184724+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:04:54.4892296+00:00"
 }

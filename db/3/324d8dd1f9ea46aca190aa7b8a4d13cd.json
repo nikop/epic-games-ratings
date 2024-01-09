@@ -4,10 +4,10 @@
   "ProductSlug": "the-rusty-sword-vanguard-island-704cbe",
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 575,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
-    "ReleaseDate": "2099-01-01T00:00:00+00:00",
+    "ReleaseDate": "2024-01-10T17:00:00+00:00",
     "PcReleaseDate": "2022-05-02T04:00:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": false,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-03T14:57:07.3687959+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:01:22.3363145+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:07:15.910614+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:59:58.3310833+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:05:33.1301076+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,558 |
-| A Spark | 20.00% | ~2,635 |
-| Burning City | 19.00% | ~2,503 |
-| Defender's Heart | 16.00% | ~2,108 |
-| Mythic Choices | 15.00% | ~1,976 |
+| Devoured by Darkness | 27.00% | ~3,559 |
+| A Spark | 20.00% | ~2,636 |
+| Burning City | 19.00% | ~2,505 |
+| Defender's Heart | 16.00% | ~2,109 |
+| Mythic Choices | 15.00% | ~1,977 |
 | Banner over the Citadel | 14.00% | ~1,845 |
-| Queen's Gratitude | 13.00% | ~1,713 |
+| Queen's Gratitude | 13.00% | ~1,714 |
 | Fifth Crusade | 9.00% | ~1,186 |
-| Embrace of the Abyss | 7.00% | ~922 |
-| Path of the Angel | 7.00% | ~922 |
-| Demonic and Divine | 7.00% | ~922 |
+| Embrace of the Abyss | 7.00% | ~923 |
+| Path of the Angel | 7.00% | ~923 |
+| Demonic and Divine | 7.00% | ~923 |
 | Great Upstart | 6.00% | ~791 |
 | All Paths Open | 6.00% | ~791 |
 | Path of the Azata | 5.00% | ~659 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,176 (Ranked 176)  
+Progressed: 13,182 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -387,10 +387,10 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 13,092 | 0 |
 | 2024-01-07 | 13,129 | 0 |
 | 2024-01-08 | 13,155 | 0 |
-| 2024-01-09 | 13,176 | 0 |
+| 2024-01-09 | 13,182 | 0 |
 ## Awards
 Max (Character Customization): 1,780  (Ranked 129)  
-Sum: 7,210 (Ranked 127)  
+Sum: 7,211 (Ranked 127)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -399,7 +399,7 @@ Diff (max vs sum): 2
 | This game has Diverse Characters | 659 |
 | This game is Highly Recommended | 657 |
 | This game has Amazing Characters | 653 |
-| This game has Amazing Storytelling | 633 |
+| This game has Amazing Storytelling | 634 |
 | This game has Challenging Combat | 604 |
 | This game has Quickly Understood Controls | 587 |
 | This game is Relaxing | 567 |
@@ -721,3 +721,4 @@ Diff (max vs sum): 2
 | 2024-01-05 | 4.76 | - | 1,777 | 7,194 |
 | 2024-01-06 | 4.76 | - | 1,778 | 7,202 |
 | 2024-01-08 | 4.76 | - | 1,780 | 7,210 |
+| 2024-01-09 | 4.76 | - | 1,780 | 7,211 |

@@ -6,42 +6,42 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 42.00% | ~38,976 |
-| Landlord | 34.00% | ~31,552 |
-| Trained | 29.00% | ~26,912 |
-| Bannerlord | 24.00% | ~22,272 |
-| Lawmaker | 23.00% | ~21,344 |
-| Horde breaker | 21.00% | ~19,488 |
-| The king is pleased | 19.00% | ~17,632 |
-| King Solomon | 17.00% | ~15,776 |
-| Apple of my eye | 16.00% | ~14,848 |
-| This Is Our Land | 16.00% | ~14,848 |
-| I can do it | 15.00% | ~13,920 |
-| Against all odds | 14.00% | ~12,992 |
-| Duelist | 12.00% | ~11,136 |
-| God of the Arena | 12.00% | ~11,136 |
-| Swordbearer | 11.00% | ~10,208 |
-| Dynasty | 10.00% | ~9,280 |
-| I spit on your grave | 10.00% | ~9,280 |
-| What have the Romans ever done for us? | 10.00% | ~9,280 |
-| Butterlord | 9.00% | ~8,352 |
-| Mastery | 7.00% | ~6,496 |
-| Know your enemy | 6.00% | ~5,568 |
-| My way | 5.00% | ~4,640 |
-| Crowdfunded | 4.00% | ~3,712 |
-| Crush your enemies | 4.00% | ~3,712 |
-| Veni vidi vici | 4.00% | ~3,712 |
-| Freedom! | 3.00% | ~2,784 |
-| Long live the Empire! | 3.00% | ~2,784 |
-| Real Estate | 3.00% | ~2,784 |
+| Lawbringer | 42.00% | ~38,994 |
+| Landlord | 34.00% | ~31,566 |
+| Trained | 29.00% | ~26,924 |
+| Bannerlord | 24.00% | ~22,282 |
+| Lawmaker | 23.00% | ~21,354 |
+| Horde breaker | 21.00% | ~19,497 |
+| The king is pleased | 19.00% | ~17,640 |
+| King Solomon | 17.00% | ~15,783 |
+| Apple of my eye | 16.00% | ~14,855 |
+| This Is Our Land | 16.00% | ~14,855 |
+| I can do it | 15.00% | ~13,926 |
+| Against all odds | 14.00% | ~12,998 |
+| Duelist | 12.00% | ~11,141 |
+| God of the Arena | 12.00% | ~11,141 |
+| Swordbearer | 11.00% | ~10,213 |
+| Dynasty | 10.00% | ~9,284 |
+| I spit on your grave | 10.00% | ~9,284 |
+| What have the Romans ever done for us? | 10.00% | ~9,284 |
+| Butterlord | 9.00% | ~8,356 |
+| Mastery | 7.00% | ~6,499 |
+| Know your enemy | 6.00% | ~5,571 |
+| My way | 5.00% | ~4,642 |
+| Crowdfunded | 4.00% | ~3,714 |
+| Crush your enemies | 4.00% | ~3,714 |
+| Veni vidi vici | 4.00% | ~3,714 |
+| Freedom! | 3.00% | ~2,785 |
+| Long live the Empire! | 3.00% | ~2,785 |
+| Real Estate | 3.00% | ~2,785 |
 | Supreme Emperor | 1.00% | ~928 |
-| Entrepreneur | 0.90% | ~835 |
-| Crackshot | 0.80% | ~742 |
-| Undercover | 0.80% | ~742 |
+| Entrepreneur | 0.90% | ~836 |
+| Crackshot | 0.80% | ~743 |
+| Undercover | 0.80% | ~743 |
 | Fat Cat | 0.60% | ~557 |
 | Catch | 0.50% | ~464 |
 | Slice 'n dice | 0.40% | ~371 |
-| Ride it like you stole it | 0.30% | ~278 |
+| Ride it like you stole it | 0.30% | ~279 |
 | Mounted Archery | 0.20% | ~186 |
 | Strike! | 0.20% | ~186 |
 | Best served cold | 0.10% | ~93 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,800 (Ranked 104)  
+Progressed: 92,842 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,14 +322,14 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-06 | 90,625 | 0 |
 | 2024-01-07 | 91,519 | 0 |
 | 2024-01-08 | 92,197 | 0 |
-| 2024-01-09 | 92,800 | 0 |
+| 2024-01-09 | 92,842 | 0 |
 ## Awards
-Max (Character Customization): 7,960  (Ranked 51)  
-Sum: 16,547 (Ranked 67)  
-Diff (max vs sum): -16  
+Max (Character Customization): 7,977  (Ranked 51)  
+Sum: 16,565 (Ranked 66)  
+Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,960 |
+| This game has Inclusive Character Customization | 7,977 |
 | This game is Great for Beginners | 1,195 |
 | This game has Diverse Characters | 1,109 |
 | This game is Highly Recommended | 1,011 |
@@ -337,7 +337,7 @@ Diff (max vs sum): -16
 | This game has Amazing Storytelling | 926 |
 | This game has Amazing Characters | 922 |
 | This game is Relaxing | 901 |
-| This game has Quickly Understood Controls | 888 |
+| This game has Quickly Understood Controls | 889 |
 | This game has a Creative Community | 693 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
@@ -703,4 +703,4 @@ Diff (max vs sum): -16
 | 2024-01-06 | 4.74 | - | 7,926 | 16,482 |
 | 2024-01-07 | 4.74 | - | 7,942 | 16,510 |
 | 2024-01-08 | 4.74 | - | 7,960 | 16,540 |
-| 2024-01-09 | 4.74 | - | 7,960 | 16,547 |
+| 2024-01-09 | 4.74 | - | 7,977 | 16,565 |

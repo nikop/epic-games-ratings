@@ -2,9 +2,9 @@
   "ID": "e58f8f670f3243f690ed3c89cba89c9e",
   "Name": "Jennifer Wilde Unlikely Revolutionaries",
   "ProductSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
-  "Ranking_EOS_Progress": 526,
-  "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 480,
+  "Ranking_EOS_Progress": 524,
+  "Ranking_EOS_Completed": 88,
+  "Ranking_EOS_NewPlayers": 462,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-09T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 71,
+  "EOS_Progressed": 72,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.23,
+  "EOS_Completed_Percentage": 4.17,
   "EosHistory": [
     {
       "Time": "2023-05-23T11:00:16.5750246+00:00",
@@ -369,6 +369,11 @@
       "Time": "2024-01-07T19:08:44.7939544+00:00",
       "NumProgressed": 71,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T20:03:51.9289752+00:00",
+      "NumProgressed": 72,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 10,
@@ -394,7 +399,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "1ejicho",
       "Name": "I See Dead People",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 100,
       "UsersEstimate": 19
     },
@@ -459,14 +464,14 @@
     {
       "ID": "1ejicho",
       "IsBase": true,
-      "Progressed": 71,
+      "Progressed": 72,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-11T16:59:26.254378+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:04:53.6972046+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:03:51.9289749+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.304665+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:59:23.7768173+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:04:53.6972159+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:58:37.3083658+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:03:51.9289842+00:00"
 }

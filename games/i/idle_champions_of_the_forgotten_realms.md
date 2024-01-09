@@ -52,6 +52,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Street War | 0.20% | ~506 |
 | March of the Undead | 0.20% | ~506 |
 | Wisdom Check | 0.20% | ~506 |
+| The Mists of Ravenloft | 0.20% | ~506 |
 | Invisible Shadows | 0.20% | ~506 |
 | The Dinner Party | 0.20% | ~506 |
 | The Botched Kidnapping | 0.20% | ~506 |
@@ -220,7 +221,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Soulmonger Calls | 0.10% | ~253 |
 | Azaka's Procession - Part 2 | 0.10% | ~253 |
 | Acererak's Puzzle | 0.10% | ~219 |
-| The Mists of Ravenloft | 0.10% | ~253 |
 | The Hunt for Owl-y | 0.10% | ~253 |
 | Werewolves in the Mist | 0.10% | ~253 |
 | We're not in Faerûn Anymore | 0.10% | ~253 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,995 (Ranked 70)  
+Progressed: 253,005 (Ranked 70)  
 Completed: 2,605 (1.03%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -817,7 +817,7 @@ Completed: 2,605 (1.03%) (Ranked 174)
 | 2024-01-06 | 252,125 | 2,599 |
 | 2024-01-07 | 252,516 | 2,599 |
 | 2024-01-08 | 252,794 | 2,602 |
-| 2024-01-09 | 252,995 | 2,605 |
+| 2024-01-09 | 253,005 | 2,605 |
 ## Awards
 Max (Great for Beginners): 5,768  (Ranked 74)  
 Sum: 33,417 (Ranked 41)  

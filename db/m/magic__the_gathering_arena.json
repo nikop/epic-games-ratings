@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 19,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 575,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
@@ -16232,18 +16232,24 @@
       "Rating": 4.45,
       "NumberOfAwards": 100751,
       "NumberOfAwardsMax": 12923
+    },
+    {
+      "Time": "2024-01-09T19:59:41.8413816+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 100771,
+      "NumberOfAwardsMax": 12932
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 100751,
-  "NumberOfAwardsMax": 12923,
+  "NumberOfAwards": 100771,
+  "NumberOfAwardsMax": 12932,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 12923
+      "Count": 12932
     },
     {
       "Text": "This game has Competitive Players",
@@ -16255,7 +16261,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 9931
+      "Count": 9938
     },
     {
       "Text": "This game is Relaxing",
@@ -16303,7 +16309,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 6552
+      "Count": 6556
     }
   ],
   "EOS_Progressed": 0,
@@ -16317,8 +16323,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-01-09T19:00:59.9057993+00:00",
+  "LastChanged": "2024-01-09T19:59:41.8413814+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:25.6158128+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:00:59.9057998+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:05:03.2557071+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:59:41.8413821+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:03:58.7020791+00:00"
 }

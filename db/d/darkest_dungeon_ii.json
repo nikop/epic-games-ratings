@@ -10686,9 +10686,9 @@
       "Count": 1088
     }
   ],
-  "EOS_Progressed": 132293,
+  "EOS_Progressed": 132298,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 959,
+  "EOS_NewPlayers": 955,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39096,6 +39096,11 @@
       "Time": "2024-01-09T19:10:33.3309709+00:00",
       "NumProgressed": 132293,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T20:09:19.9216744+00:00",
+      "NumProgressed": 132298,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -39345,9 +39350,9 @@
       "ID": "combat_kill_shambler",
       "SetID": "64l4lke",
       "Name": "Escape from the Black Hole",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6615
+      "UsersEstimate": 7938
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -39635,7 +39640,7 @@
       "Name": "Ma\u00EEtre De La Lame",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "combat_kill_chirurgeon",
@@ -39643,7 +39648,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "combat_kill_collector",
@@ -39651,7 +39656,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39667,7 +39672,7 @@
       "Name": "No Mercy",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -39715,7 +39720,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -39738,21 +39743,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132293,
+      "Progressed": 132298,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7162,
+      "Progressed": 7167,
       "Completed": 823
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-09T16:59:33.573007+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:10:33.3309705+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:09:19.9216739+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:59:25.1266394+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:10:33.331292+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:58:38.231331+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:09:19.9219149+00:00"
 }

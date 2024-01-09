@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1415,
+  "EOS_Progressed": 1417,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3744,6 +3744,11 @@
       "Time": "2024-01-09T19:11:02.3851236+00:00",
       "NumProgressed": 1415,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T20:09:41.4693246+00:00",
+      "NumProgressed": 1417,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3755,7 +3760,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3763,7 +3768,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3771,7 +3776,7 @@
       "Name": "FULLCLIP",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -3825,9 +3830,9 @@
       "ID": "BARK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Capraphobia",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 792
+      "UsersEstimate": 808
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3899,7 +3904,7 @@
       "Name": "Completing The Duty",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "BURN_ACHIEVEMENT_5",
@@ -3955,7 +3960,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -3971,7 +3976,7 @@
       "Name": "Fire Alarm",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -4019,7 +4024,7 @@
       "Name": "Fly Free",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "KALL_ACHIEVEMENT_1",
@@ -4033,9 +4038,9 @@
       "ID": "KILLR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Breaking Twigs",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 807
+      "UsersEstimate": 822
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -4043,7 +4048,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -4075,7 +4080,7 @@
       "Name": "And There We Go",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -4083,7 +4088,7 @@
       "Name": "End the Infestation",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_3",
@@ -4091,7 +4096,7 @@
       "Name": "50 Shades of Lackeys",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "KLEECHER_ACHIEVEMENT_1",
@@ -4099,7 +4104,7 @@
       "Name": "Bad Leecher, Bad Leecher!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "KLEECHER_ACHIEVEMENT_2",
@@ -4113,9 +4118,9 @@
       "ID": "LEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Don\u0027t Turn Your Back",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 425
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -4131,7 +4136,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -4147,7 +4152,7 @@
       "Name": "Night Snack",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -4179,7 +4184,7 @@
       "Name": "Buy A Book",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -4201,9 +4206,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 722
+      "UsersEstimate": 737
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -4211,7 +4216,7 @@
       "Name": "Haunted Prison",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_3",
@@ -4267,7 +4272,7 @@
       "Name": "Guardian Angel",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "WINS_ACHIEVEMENT_1",
@@ -4282,14 +4287,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1415,
+      "Progressed": 1417,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:11:02.3851231+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:09:41.4693241+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:08.8169923+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:00:23.0702137+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:11:02.3852103+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:59:16.6481498+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:09:41.469392+00:00"
 }

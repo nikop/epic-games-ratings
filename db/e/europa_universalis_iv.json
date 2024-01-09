@@ -14149,10 +14149,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 64130,
       "NumberOfAwardsMax": 7780
+    },
+    {
+      "Time": "2024-01-09T19:57:01.3814214+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 64144,
+      "NumberOfAwardsMax": 7780
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 64130,
+  "NumberOfAwards": 64144,
   "NumberOfAwardsMax": 7780,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14172,7 +14178,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 7623
+      "Count": 7637
     },
     {
       "Text": "This game is Extremely Fun",
@@ -14223,9 +14229,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 495746,
+  "EOS_Progressed": 495783,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5244,
+  "EOS_NewPlayers": 5252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44713,6 +44719,11 @@
       "Time": "2024-01-09T19:11:01.9941131+00:00",
       "NumProgressed": 495746,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T20:09:41.6060228+00:00",
+      "NumProgressed": 495783,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -45116,7 +45127,7 @@
       "Name": "Blockader",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -45340,7 +45351,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -45378,9 +45389,9 @@
       "ID": "achievement_double_the_love",
       "SetID": "67mdiil",
       "Name": "Double the Love",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 992
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -45556,7 +45567,7 @@
       "Name": "For the Glory",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "achievement_forever_golden",
@@ -45932,7 +45943,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -45940,7 +45951,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -46660,7 +46671,7 @@
       "Name": "Respected",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -47148,7 +47159,7 @@
       "Name": "The Princess is in this Castle",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "achievement_the_re_reconquista",
@@ -47276,7 +47287,7 @@
       "Name": "Total Control",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -47316,7 +47327,7 @@
       "Name": "True Catholic",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -47332,7 +47343,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "achievement_trustworthy",
@@ -47388,7 +47399,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 2974
+      "UsersEstimate": 2975
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -47627,21 +47638,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 495746,
+      "Progressed": 495783,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 495746,
+      "Progressed": 495783,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-09T18:57:00.4707111+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:11:01.9941127+00:00",
+  "LastChanged": "2024-01-09T19:57:01.3814212+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:09:41.6060223+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.850256+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:57:00.4707123+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:11:01.9953354+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:57:01.3814218+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:09:41.6071432+00:00"
 }

@@ -703,9 +703,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12046,
+  "EOS_Progressed": 12055,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 664,
+  "EOS_NewPlayers": 667,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -15303,6 +15303,11 @@
       "Time": "2024-01-09T19:07:13.3991019+00:00",
       "NumProgressed": 12046,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2024-01-09T20:05:31.425727+00:00",
+      "NumProgressed": 12055,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 29,
@@ -15314,7 +15319,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 9998
+      "UsersEstimate": 10006
     },
     {
       "ID": "ACH02",
@@ -15322,7 +15327,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 4096
+      "UsersEstimate": 4099
     },
     {
       "ID": "ACH03",
@@ -15338,7 +15343,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4698
+      "UsersEstimate": 4701
     },
     {
       "ID": "ACH05",
@@ -15346,7 +15351,7 @@
       "Name": "Mob Boss",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH06",
@@ -15354,7 +15359,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 2289
+      "UsersEstimate": 2290
     },
     {
       "ID": "ACH07",
@@ -15362,7 +15367,7 @@
       "Name": "Planned Ahead",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH08",
@@ -15378,7 +15383,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "ACH10",
@@ -15386,7 +15391,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 3373
+      "UsersEstimate": 3375
     },
     {
       "ID": "ACH11",
@@ -15394,7 +15399,7 @@
       "Name": "Wheels Up",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH12",
@@ -15418,7 +15423,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "ACH15",
@@ -15434,7 +15439,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3132
+      "UsersEstimate": 3134
     },
     {
       "ID": "ACH17",
@@ -15442,7 +15447,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1686
+      "UsersEstimate": 1688
     },
     {
       "ID": "ACH18",
@@ -15450,7 +15455,7 @@
       "Name": "Not So Fast",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "ACH19",
@@ -15458,7 +15463,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "ACH20",
@@ -15466,7 +15471,7 @@
       "Name": "Man Toyz",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH21",
@@ -15490,7 +15495,7 @@
       "Name": "Going Rogue",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH24",
@@ -15498,7 +15503,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1566
+      "UsersEstimate": 1567
     },
     {
       "ID": "ACH25",
@@ -15506,7 +15511,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "ACH26",
@@ -15514,7 +15519,7 @@
       "Name": "Furious First Responder",
       "Percentage": 1,
       "XP": 55,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH27",
@@ -15545,7 +15550,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12046,
+      "Progressed": 12055,
       "Completed": 84
     }
   ],
@@ -15553,8 +15558,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-08T18:02:03.5351927+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:07:13.3991012+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:05:31.4257267+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.653696+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:57:17.2703628+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:07:13.3991829+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:57:12.5832647+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:05:31.4258306+00:00"
 }

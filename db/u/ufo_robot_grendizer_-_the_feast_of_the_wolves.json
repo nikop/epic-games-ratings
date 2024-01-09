@@ -2,7 +2,7 @@
   "ID": "3a077bc4fa864985b8c0b343176226d2",
   "Name": "UFO ROBOT GRENDIZER - The Feast of the Wolves",
   "ProductSlug": "goldorak-d90cf1",
-  "Ranking_EOS_Progress": 522,
+  "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 156,
@@ -434,9 +434,9 @@
       "ID": "ACH_FIRSTDEATH",
       "SetID": "ch874lb",
       "Name": "Strength in Defeat",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 35,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_FIRSTLEGENDARYLOOT",
@@ -641,8 +641,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:07:02.4565547+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:05:23.5197537+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:49.9847922+00:00",
-  "LastUpdate_Ratings": "2024-01-09T18:57:43.2770944+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:07:02.4565793+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:57:29.2626088+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:05:23.519774+00:00"
 }

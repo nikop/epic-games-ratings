@@ -30,12 +30,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Sneaky | 0.90% | ~2,184 |
 | Ambitious Intent | 0.80% | ~1,942 |
 | R.I.P | 0.80% | ~1,942 |
+| Dig Your Own Grave | 0.80% | ~1,942 |
 | Cold Hearted | 0.80% | ~1,942 |
 | I Am Overburdened | 0.80% | ~1,942 |
 | The Bestiary | 0.80% | ~1,942 |
 | Shootout | 0.80% | ~1,942 |
 | Toxic | 0.80% | ~1,942 |
-| Dig Your Own Grave | 0.70% | ~1,699 |
 | Who To Trust? | 0.70% | ~1,699 |
 | Walk It Off | 0.70% | ~1,699 |
 | Destroy Your Fears | 0.70% | ~1,699 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,688 (Ranked 73)  
+Progressed: 242,692 (Ranked 73)  
 Completed: 304 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,7 +409,7 @@ Completed: 304 (0.13%) (Ranked 298)
 | 2024-01-06 | 242,507 | 304 |
 | 2024-01-07 | 242,574 | 304 |
 | 2024-01-08 | 242,637 | 304 |
-| 2024-01-09 | 242,688 | 304 |
+| 2024-01-09 | 242,692 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 138)  
 Sum: 11,790 (Ranked 89)  

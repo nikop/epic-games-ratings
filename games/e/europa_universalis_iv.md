@@ -6,7 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 0.60% | ~2,974 |
+| Until death do us apart | 0.60% | ~2,975 |
 | That's a Grand Army | 0.50% | ~2,479 |
 | That is mine! | 0.50% | ~2,479 |
 | Victorious! | 0.50% | ~2,479 |
@@ -14,16 +14,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Navy | 0.40% | ~1,983 |
 | Seriously?! | 0.40% | ~1,983 |
 | Cold War | 0.30% | ~1,487 |
-| Blockader | 0.20% | ~991 |
-| Defender of the Faith | 0.20% | ~991 |
-| For the Glory | 0.20% | ~991 |
-| It's all about luck | 0.20% | ~991 |
-| It's all about the money | 0.20% | ~991 |
-| Respected | 0.20% | ~991 |
-| The Princess is in this Castle | 0.20% | ~991 |
-| Total Control | 0.20% | ~991 |
-| True Catholic | 0.20% | ~991 |
-| Truly Divine Ruler | 0.20% | ~991 |
+| Blockader | 0.20% | ~992 |
+| Defender of the Faith | 0.20% | ~992 |
+| Double the Love | 0.20% | ~992 |
+| For the Glory | 0.20% | ~992 |
+| It's all about luck | 0.20% | ~992 |
+| It's all about the money | 0.20% | ~992 |
+| Respected | 0.20% | ~992 |
+| The Princess is in this Castle | 0.20% | ~992 |
+| Total Control | 0.20% | ~992 |
+| True Catholic | 0.20% | ~992 |
+| Truly Divine Ruler | 0.20% | ~992 |
 | The 52 Garhs | 0.10% | ~496 |
 | I don't like sand | 0.10% | ~496 |
 | A Blessed Nation | 0.10% | ~496 |
@@ -99,7 +100,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Die Please Die | 0.10% | ~496 |
 | Disciples of Enlightenment | 0.10% | ~496 |
 | Don’t be Cilli | 0.10% | ~496 |
-| Double the Love | 0.10% | ~496 |
 | Down Under | 0.10% | ~496 |
 | Dracula's Revenge | 0.10% | ~496 |
 | Dude, Where's my Boat? | 0.10% | ~496 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 495,746 (Ranked 42)  
+Progressed: 495,783 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,15 +634,15 @@ Completed: 1 (0.00%) (Ranked 394)
 | 2024-01-06 | 493,815 | 1 |
 | 2024-01-07 | 494,650 | 1 |
 | 2024-01-08 | 495,265 | 1 |
-| 2024-01-09 | 495,746 | 1 |
+| 2024-01-09 | 495,783 | 1 |
 ## Awards
 Max (Educational): 7,780  (Ranked 52)  
-Sum: 64,130 (Ranked 24)  
+Sum: 64,144 (Ranked 24)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,780 |
-| This game has Diverse Characters | 7,623 |
+| This game has Diverse Characters | 7,637 |
 | This game is Highly Recommended | 7,461 |
 | This game has Challenging Combat | 7,395 |
 | This game is Extremely Fun | 7,298 |
@@ -1011,4 +1011,4 @@ Diff (max vs sum): 28
 | 2024-01-06 | 4.69 | - | 7,742 | 63,845 |
 | 2024-01-07 | 4.69 | - | 7,757 | 63,972 |
 | 2024-01-08 | 4.69 | - | 7,765 | 64,075 |
-| 2024-01-09 | 4.69 | - | 7,780 | 64,130 |
+| 2024-01-09 | 4.69 | - | 7,780 | 64,144 |

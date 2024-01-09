@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | My Papyrus! | 79.00% | ~100 |
-| A Loyal Friend | 43.00% | ~54 |
+| A Loyal Friend | 44.00% | ~55 |
 | Abandon Ship! | 33.00% | ~42 |
 | The Tomb of Kih-Oskh | 29.00% | ~37 |
 | The Weighing of the Soul | 25.00% | ~32 |
 | The Curse of Kih-Oskh | 20.00% | ~25 |
-| It's a Deal! | 16.00% | ~20 |
+| It's a Deal! | 17.00% | ~21 |
 | Cat Lover | 13.00% | ~16 |
 | Dynamite, Treason and Coconuts | 13.00% | ~16 |
 | In the Name of the Law | 12.00% | ~15 |

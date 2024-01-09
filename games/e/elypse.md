@@ -19,8 +19,8 @@
 | The beast within | 31.00% | ~42 |
 | It's getting dark | 31.00% | ~42 |
 | Rooftop | 28.00% | ~38 |
+| Homeless | 28.00% | ~38 |
 | Hard Rock | 28.00% | ~38 |
-| Homeless | 27.00% | ~36 |
 | Big badaboom! | 26.00% | ~35 |
 | Payback | 24.00% | ~32 |
 | Nokron tower | 23.00% | ~31 |

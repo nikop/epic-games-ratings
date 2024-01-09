@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 82.00% | ~49 |
-| Grand Re-Opening | 70.00% | ~42 |
-| Pup Pup Boogie | 67.00% | ~40 |
-| Summer Day | 67.00% | ~40 |
-| Mr. Porter | 55.00% | ~33 |
-| Risky Rescue | 53.00% | ~32 |
-| Carlos Is Tangled | 52.00% | ~31 |
-| Mandy Family | 45.00% | ~27 |
+| Mighty Powers | 80.00% | ~49 |
+| Grand Re-Opening | 69.00% | ~42 |
+| Pup Pup Boogie | 66.00% | ~40 |
+| Summer Day | 66.00% | ~40 |
+| Mr. Porter | 54.00% | ~33 |
+| Risky Rescue | 52.00% | ~32 |
+| Carlos Is Tangled | 51.00% | ~31 |
+| Mandy Family | 44.00% | ~27 |
 | Clear the Road | 43.00% | ~26 |
-| Paw patrol member | 42.00% | ~25 |
-| Robot Out of Control | 42.00% | ~25 |
-| Break Time | 37.00% | ~22 |
-| Training Day | 37.00% | ~22 |
-| In the Air | 37.00% | ~22 |
-| Never Miss | 37.00% | ~22 |
-| Master of the Rope | 35.00% | ~21 |
+| Paw patrol member | 41.00% | ~25 |
+| Robot Out of Control | 41.00% | ~25 |
+| Break Time | 36.00% | ~22 |
+| Training Day | 36.00% | ~22 |
+| In the Air | 36.00% | ~22 |
+| Never Miss | 36.00% | ~22 |
+| Master of the Rope | 34.00% | ~21 |
 | Animal Sighting | 30.00% | ~18 |
-| The Fastest | 27.00% | ~16 |
-| Adventure Bay’s Citizen | 27.00% | ~16 |
+| The Fastest | 26.00% | ~16 |
+| Adventure Bay’s Citizen | 26.00% | ~16 |
 | Don’t Miss Any | 25.00% | ~15 |
 | Mountain and Ice | 23.00% | ~14 |
-| You Have Been Everywhere | 22.00% | ~13 |
+| You Have Been Everywhere | 21.00% | ~13 |
 | Everything Under Control | 20.00% | ~12 |
-| Nothing Can Stop You | 12.00% | ~7 |
+| Nothing Can Stop You | 11.00% | ~7 |
 | A Great Explorer | 10.00% | ~6 |
 | King of the Mountain | 7.00% | ~4 |
 | Air Ace | 2.00% | ~1 |
@@ -35,7 +35,7 @@
 | The Collector | 2.00% | ~1 |
 | Pup Treat Master | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60 (Ranked 540)  
+Progressed: 61 (Ranked 539)  
 Completed: 0 (0.00%) (Ranked 394)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,6 +92,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2023-12-31 | 58 | 0 |
 | 2024-01-04 | 59 | 0 |
 | 2024-01-07 | 60 | 0 |
+| 2024-01-09 | 61 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -44,7 +44,7 @@ Number of Ratings: 892  (23.09.2022)
 | Happier-est Place on Earth | 55.00% | ~484 |
 | Anti-Santa | 55.00% | ~484 |
 | Who Ya Gonna Call...? | 55.00% | ~484 |
-| You Don't Win Friends With Salad | 55.00% | ~484 |
+| You Don't Win Friends With Salad | 54.00% | ~475 |
 | Time Flies | 52.00% | ~458 |
 | Finishing Touches | 52.00% | ~458 |
 | Call Me Fishmael | 52.00% | ~458 |
@@ -52,13 +52,13 @@ Number of Ratings: 892  (23.09.2022)
 | Just What I Always Wanted! | 47.00% | ~414 |
 | Jewel of the Eufaula | 43.00% | ~378 |
 | My Time Mansion | 41.00% | ~361 |
+| Sandrunning Speedster | 41.00% | ~361 |
 | He Can Spin A Yarn... | 40.00% | ~352 |
 | Santa In Training | 40.00% | ~352 |
-| Sandrunning Speedster | 40.00% | ~352 |
 | Do Your Part | 37.00% | ~326 |
 | It Belongs in a Museum! | 37.00% | ~326 |
-| Pro Gamer | 34.00% | ~299 |
 | Newton | 34.00% | ~299 |
+| Pro Gamer | 33.00% | ~290 |
 | Cardistry | 28.00% | ~246 |
 | Winner and Still Champeen | 27.00% | ~238 |
 | Strong Arms | 18.00% | ~158 |

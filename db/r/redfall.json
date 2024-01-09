@@ -4,7 +4,7 @@
   "ProductSlug": "redfall",
   "Ranking_Rating": 1093,
   "Ranking_Popularity": 555,
-  "Ranking_PopularitySum": 561,
+  "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 394,
   "Ranking_EOS_NewPlayers": 233,
@@ -381,7 +381,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2327,
+  "EOS_Progressed": 2328,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -4271,6 +4271,11 @@
       "Time": "2024-01-09T18:07:17.9546349+00:00",
       "NumProgressed": 2327,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T20:05:35.3820973+00:00",
+      "NumProgressed": 2328,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4306,7 +4311,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "Achievement_006",
@@ -4346,7 +4351,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "Achievement_011",
@@ -4464,9 +4469,9 @@
       "ID": "Achievement_025",
       "SetID": "6b34g18",
       "Name": "Grounded",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 186
     },
     {
       "ID": "Achievement_026",
@@ -4498,7 +4503,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "Achievement_030",
@@ -4586,7 +4591,7 @@
       "Name": "Heart Attack",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "Achievement_041",
@@ -4809,7 +4814,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2327,
+      "Progressed": 2328,
       "Completed": 0
     }
   ],
@@ -4817,8 +4822,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:07:18.6617328+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:05:35.3820966+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:01:27.9783551+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:07:18.6618792+00:00"
+  "LastUpdate_Ratings": "2024-01-09T20:00:01.9869848+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:05:35.382171+00:00"
 }

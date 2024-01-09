@@ -2,9 +2,9 @@
   "ID": "44c4d41627104968a7df87b8e33aa481",
   "Name": "PAW Patrol Mighty Pups Save Adventure Bay",
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
-  "Ranking_EOS_Progress": 540,
+  "Ranking_EOS_Progress": 539,
   "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 508,
+  "Ranking_EOS_NewPlayers": 509,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60,
+  "EOS_Progressed": 61,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
@@ -326,6 +326,11 @@
       "Time": "2024-01-07T23:07:41.1674844+00:00",
       "NumProgressed": 60,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T20:06:25.9710655+00:00",
+      "NumProgressed": 61,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -335,7 +340,7 @@
       "ID": "0",
       "SetID": "38ide56",
       "Name": "Mighty Powers",
-      "Percentage": 82,
+      "Percentage": 80,
       "XP": 5,
       "UsersEstimate": 49
     },
@@ -343,7 +348,7 @@
       "ID": "1",
       "SetID": "38ide56",
       "Name": "Grand Re-Opening",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 5,
       "UsersEstimate": 42
     },
@@ -367,7 +372,7 @@
       "ID": "12",
       "SetID": "38ide56",
       "Name": "Nothing Can Stop You",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -383,7 +388,7 @@
       "ID": "14",
       "SetID": "38ide56",
       "Name": "Pup Pup Boogie",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 5,
       "UsersEstimate": 40
     },
@@ -391,7 +396,7 @@
       "ID": "15",
       "SetID": "38ide56",
       "Name": "Mr. Porter",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
       "UsersEstimate": 33
     },
@@ -399,7 +404,7 @@
       "ID": "16",
       "SetID": "38ide56",
       "Name": "Break Time",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -407,7 +412,7 @@
       "ID": "17",
       "SetID": "38ide56",
       "Name": "Master of the Rope",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -415,7 +420,7 @@
       "ID": "18",
       "SetID": "38ide56",
       "Name": "Training Day",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -423,7 +428,7 @@
       "ID": "19",
       "SetID": "38ide56",
       "Name": "The Fastest",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -431,7 +436,7 @@
       "ID": "2",
       "SetID": "38ide56",
       "Name": "Summer Day",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 5,
       "UsersEstimate": 40
     },
@@ -439,7 +444,7 @@
       "ID": "20",
       "SetID": "38ide56",
       "Name": "In the Air",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -463,7 +468,7 @@
       "ID": "23",
       "SetID": "38ide56",
       "Name": "Never Miss",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -479,7 +484,7 @@
       "ID": "25",
       "SetID": "38ide56",
       "Name": "You Have Been Everywhere",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
       "UsersEstimate": 13
     },
@@ -511,7 +516,7 @@
       "ID": "29",
       "SetID": "38ide56",
       "Name": "Paw patrol member",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 200,
       "UsersEstimate": 25
     },
@@ -519,7 +524,7 @@
       "ID": "3",
       "SetID": "38ide56",
       "Name": "Risky Rescue",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
       "UsersEstimate": 32
     },
@@ -527,7 +532,7 @@
       "ID": "4",
       "SetID": "38ide56",
       "Name": "Carlos Is Tangled",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
       "UsersEstimate": 31
     },
@@ -535,7 +540,7 @@
       "ID": "5",
       "SetID": "38ide56",
       "Name": "Mandy Family",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
       "UsersEstimate": 27
     },
@@ -543,7 +548,7 @@
       "ID": "6",
       "SetID": "38ide56",
       "Name": "Robot Out of Control",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
       "UsersEstimate": 25
     },
@@ -567,7 +572,7 @@
       "ID": "9",
       "SetID": "38ide56",
       "Name": "Adventure Bay\u2019s Citizen",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 16
     }
@@ -576,7 +581,7 @@
     {
       "ID": "38ide56",
       "IsBase": true,
-      "Progressed": 60,
+      "Progressed": 61,
       "Completed": 0
     }
   ],
@@ -584,8 +589,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2024-01-09T19:08:35.2989661+00:00",
+  "LastChanged_Achievements": "2024-01-09T20:06:25.9710649+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:24.271148+00:00",
-  "LastUpdate_Ratings": "2024-01-09T19:01:21.9406509+00:00",
-  "LastUpdate_Achievements": "2024-01-09T19:08:35.2989866+00:00"
+  "LastUpdate_Ratings": "2024-01-09T19:59:57.9496554+00:00",
+  "LastUpdate_Achievements": "2024-01-09T20:06:25.971086+00:00"
 }
