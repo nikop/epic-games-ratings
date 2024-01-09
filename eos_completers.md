@@ -22,7 +22,7 @@
 | 20 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.11% |
 | 21 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
 | 22 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.65% |
-| 23 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 19.35% |
+| 23 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 19.05% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.52% |
 | 26 | [The Riflemen](games/t/the_riflemen.md) | 17.40% |
@@ -41,9 +41,9 @@
 | 39 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 40 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.24% |
 | 41 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
-| 42 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.71% |
+| 42 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.69% |
 | 43 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
-| 44 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.19% |
+| 44 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.18% |
 | 45 | [Smelter](games/s/smelter.md) | 8.51% |
 | 46 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.17% |
@@ -58,10 +58,10 @@
 | 56 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.44% |
 | 57 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.30% |
 | 58 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 7.14% |
-| 59 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.07% |
+| 59 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.06% |
 | 60 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.04% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 7.00% |
-| 62 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.95% |
+| 62 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.94% |
 | 63 | [Scorn](games/s/scorn.md) | 6.87% |
 | 64 | [Anna's Quest](games/a/anna's_quest.md) | 6.45% |
 | 64 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.45% |
@@ -87,7 +87,7 @@
 | 85 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.26% |
 | 85 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.26% |
 | 87 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.23% |
-| 88 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.20% |
+| 88 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19% |
 | 89 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 4.17% |
 | 90 | [Dungeons 4](games/d/dungeons_4.md) | 4.16% |
 | 91 | [The Bunker](games/t/the_bunker.md) | 4.05% |
@@ -119,8 +119,8 @@
 | 117 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2.86% |
 | 117 | [Without Escape](games/w/without_escape.md) | 2.86% |
 | 119 | [The Complex](games/t/the_complex.md) | 2.71% |
-| 120 | [FORECLOSED](games/f/foreclosed.md) | 2.70% |
 | 120 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.70% |
+| 121 | [FORECLOSED](games/f/foreclosed.md) | 2.68% |
 | 122 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.65% |
 | 123 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.63% |
 | 124 | [Mega City Force](games/m/mega_city_police.md) | 2.50% |
@@ -277,10 +277,10 @@
 | 275 | [Circus Electrique](games/c/circus_electrique.md) | 0.20% |
 | 275 | [Despot's Game](games/d/despot's_game.md) | 0.20% |
 | 275 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
+| 278 | [Dead Space](games/d/dead_space.md) | 0.19% |
 | 278 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.19% |
-| 279 | [Dead Space](games/d/dead_space.md) | 0.18% |
-| 279 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.18% |
-| 279 | [Going Medieval](games/g/going_medieval.md) | 0.18% |
+| 280 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.18% |
+| 280 | [Going Medieval](games/g/going_medieval.md) | 0.18% |
 | 282 | [Against the Storm](games/a/against_the_storm.md) | 0.17% |
 | 283 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 0.16% |
 | 283 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.16% |
