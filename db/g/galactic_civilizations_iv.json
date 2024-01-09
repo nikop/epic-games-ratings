@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 339,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -1005,7 +1005,7 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7525,
+  "EOS_Progressed": 7526,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
@@ -9685,6 +9685,11 @@
       "Time": "2024-01-08T21:11:07.1881623+00:00",
       "NumProgressed": 7525,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T01:59:36.5562966+00:00",
+      "NumProgressed": 7526,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9728,7 +9733,7 @@
       "Name": "Commodity Trader",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -9736,7 +9741,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4515
+      "UsersEstimate": 4516
     },
     {
       "ID": "Control_All_Relics",
@@ -9800,7 +9805,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5794
+      "UsersEstimate": 5795
     },
     {
       "ID": "First_Race_Met",
@@ -9808,7 +9813,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5418
+      "UsersEstimate": 5419
     },
     {
       "ID": "First_Ship_Designed",
@@ -9832,7 +9837,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5719
+      "UsersEstimate": 5720
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -10016,7 +10021,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4515
+      "UsersEstimate": 4516
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -10024,7 +10029,7 @@
       "Name": "Artifact Mastery",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "War_With_5_Factions",
@@ -10032,7 +10037,7 @@
       "Name": "Galactic War",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "War_Without_Translator",
@@ -10048,7 +10053,7 @@
       "Name": "Win as Altarians",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Win_As_Arcean",
@@ -10176,7 +10181,7 @@
       "Name": "Win as the Yor",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Win_Battle",
@@ -10184,7 +10189,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4891
+      "UsersEstimate": 4892
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -10232,7 +10237,7 @@
       "Name": "Influence Victory!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Win_Multiplayer",
@@ -10271,15 +10276,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7525,
+      "Progressed": 7526,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-06T21:59:17.2587846+00:00",
-  "LastChanged_Achievements": "2024-01-09T00:09:52.3982464+00:00",
+  "LastChanged_Achievements": "2024-01-09T01:59:36.5562961+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8294647+00:00",
-  "LastUpdate_Ratings": "2024-01-08T23:59:23.3567918+00:00",
-  "LastUpdate_Achievements": "2024-01-09T00:09:52.3983498+00:00"
+  "LastUpdate_Ratings": "2024-01-09T01:48:58.216813+00:00",
+  "LastUpdate_Achievements": "2024-01-09T01:59:36.5564025+00:00"
 }

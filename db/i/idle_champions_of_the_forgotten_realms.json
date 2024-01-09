@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9409,10 +9409,10 @@
       "Count": 3633
     }
   ],
-  "EOS_Progressed": 252802,
+  "EOS_Progressed": 252829,
   "EOS_Completed": 2603,
-  "EOS_NewPlayers": 3429,
-  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 3405,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -39269,6 +39269,11 @@
       "Time": "2024-01-09T00:10:02.1417957+00:00",
       "NumProgressed": 252802,
       "NumCompleted": 2603
+    },
+    {
+      "Time": "2024-01-09T01:59:48.2209498+00:00",
+      "NumProgressed": 252829,
+      "NumCompleted": 2603
     }
   ],
   "TotalAchievements": 546,
@@ -39280,7 +39285,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10112
+      "UsersEstimate": 10113
     },
     {
       "ID": "objective_completed_10",
@@ -40952,7 +40957,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "objective_completed_34",
@@ -41144,7 +41149,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2022
+      "UsersEstimate": 2023
     },
     {
       "ID": "objective_completed_40",
@@ -42486,9 +42491,9 @@
       "ID": "objective_completed_79",
       "SetID": "cc37lbc",
       "Name": "Underdeep Cartography",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 758
     },
     {
       "ID": "objective_completed_8",
@@ -43584,7 +43589,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "objective_completed_1563",
@@ -43600,7 +43605,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "objective_completed_673",
@@ -43616,7 +43621,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "objective_completed_683",
@@ -43624,7 +43629,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "objective_completed_860",
@@ -43647,21 +43652,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219076,
+      "Progressed": 219103,
       "Completed": 4144
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 252802,
+      "Progressed": 252829,
       "Completed": 2603
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-08T19:57:20.6543593+00:00",
-  "LastChanged_Achievements": "2024-01-09T00:10:02.1417953+00:00",
+  "LastChanged_Achievements": "2024-01-09T01:59:48.2209493+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-08T23:57:40.598484+00:00",
-  "LastUpdate_Achievements": "2024-01-09T00:10:02.1442462+00:00"
+  "LastUpdate_Ratings": "2024-01-09T01:46:17.8465903+00:00",
+  "LastUpdate_Achievements": "2024-01-09T01:59:48.2234914+00:00"
 }

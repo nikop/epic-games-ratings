@@ -1,16 +1,16 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 473)  
+Rating: 4.58 (Ranked 472)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 20.00% | ~769 |
 | Watch Where You Step... | 15.00% | ~577 |
-| Look Over There! | 14.00% | ~538 |
-| Not So Fast... | 14.00% | ~538 |
-| An Ill Omen | 14.00% | ~538 |
+| Look Over There! | 14.00% | ~539 |
+| Not So Fast... | 14.00% | ~539 |
+| An Ill Omen | 14.00% | ~539 |
 | Purging Spree | 10.00% | ~385 |
 | Blood for the Blood God! | 9.00% | ~346 |
 | Bloodless | 7.00% | ~269 |
@@ -31,6 +31,7 @@ Number of Ratings: 371  (23.09.2022)
 | Only in Death | 2.00% | ~77 |
 | A Gift Spurned | 2.00% | ~77 |
 | Execution Force | 2.00% | ~77 |
+| Patron of Deimos | 1.00% | ~38 |
 | Fleetmaster | 1.00% | ~38 |
 | For the Machine God | 1.00% | ~38 |
 | Exterminator | 1.00% | ~38 |
@@ -39,7 +40,6 @@ Number of Ratings: 371  (23.09.2022)
 | Long Distance Call | 1.00% | ~38 |
 | Tactical Flexibility | 1.00% | ~38 |
 | Tactical Sabotage | 1.00% | ~38 |
-| Patron of Deimos | 0.90% | ~35 |
 | Engine Kill | 0.90% | ~35 |
 | Death Comes For All | 0.90% | ~35 |
 | Harvest No More | 0.80% | ~31 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,846 (Ranked 217)  
+Progressed: 3,847 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 3,811 | 0 |
 | 2024-01-07 | 3,834 | 0 |
 | 2024-01-08 | 3,845 | 0 |
-| 2024-01-09 | 3,846 | 0 |
+| 2024-01-09 | 3,847 | 0 |
 ## Awards
 Max (Character Customization): 233  (Ranked 285)  
 Sum: 500 (Ranked 335)  

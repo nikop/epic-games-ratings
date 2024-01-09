@@ -6,30 +6,30 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~41,840 |
-| First Steps | 80.00% | ~35,991 |
+| Awakening | 93.00% | ~41,841 |
+| First Steps | 80.00% | ~35,992 |
 | Control the Shadows | 67.00% | ~30,143 |
-| Tools of the Trade | 63.00% | ~28,343 |
-| Apprentice | 60.00% | ~26,993 |
+| Tools of the Trade | 63.00% | ~28,344 |
+| Apprentice | 60.00% | ~26,994 |
 | Secret Seeker | 57.00% | ~25,644 |
-| Forge of Assassins | 55.00% | ~24,744 |
-| Revenant | 52.00% | ~23,394 |
-| I don’t Care! | 45.00% | ~20,245 |
+| Forge of Assassins | 55.00% | ~24,745 |
+| Revenant | 52.00% | ~23,395 |
+| I don’t Care! | 45.00% | ~20,246 |
 | Bird of Prey | 37.00% | ~16,646 |
-| Engraved with Power | 32.00% | ~14,396 |
+| Engraved with Power | 32.00% | ~14,397 |
 | Lady | 31.00% | ~13,947 |
 | Fashionable Assassin | 27.00% | ~12,147 |
-| Apex Predator | 24.00% | ~10,797 |
-| Soul Reaver | 23.00% | ~10,347 |
+| Apex Predator | 24.00% | ~10,798 |
+| Soul Reaver | 23.00% | ~10,348 |
 | Embers | 22.00% | ~9,898 |
 | Wall Lizard | 20.00% | ~8,998 |
 | Clinging to Life | 18.00% | ~8,098 |
 | Burning | 17.00% | ~7,648 |
 | Look Behind You | 16.00% | ~7,198 |
 | Sleeping on the Job | 16.00% | ~7,198 |
-| Family | 14.00% | ~6,298 |
-| War Engines | 14.00% | ~6,298 |
-| Signature Move | 14.00% | ~6,298 |
+| Family | 14.00% | ~6,299 |
+| War Engines | 14.00% | ~6,299 |
+| Signature Move | 14.00% | ~6,299 |
 | Ruse | 12.00% | ~5,399 |
 | Master Ninja | 11.00% | ~4,949 |
 | Hatching | 10.00% | ~4,499 |
@@ -39,9 +39,9 @@ Number of Ratings: 88  (23.09.2022)
 | Denouement | 8.00% | ~3,599 |
 | A Pleasant Stay | 8.00% | ~3,599 |
 | Pilgrimage | 7.00% | ~3,149 |
-| The Lookout | 5.00% | ~2,249 |
-| The Spirit of Vengeance | 5.00% | ~2,249 |
-| Hollow | 5.00% | ~2,249 |
+| The Lookout | 5.00% | ~2,250 |
+| The Spirit of Vengeance | 5.00% | ~2,250 |
+| Hollow | 5.00% | ~2,250 |
 | Left Behind | 4.00% | ~1,800 |
 | Secrets of the Earth | 4.00% | ~1,800 |
 | Heart of Fire | 4.00% | ~1,800 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~900 |
 | Legacy | 2.00% | ~900 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,989 (Ranked 128)  
+Progressed: 44,990 (Ranked 128)  
 Completed: 248 (0.55%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,6 +315,7 @@ Completed: 248 (0.55%) (Ranked 214)
 | 2024-01-06 | 44,907 | 248 |
 | 2024-01-07 | 44,957 | 248 |
 | 2024-01-08 | 44,989 | 248 |
+| 2024-01-09 | 44,990 | 248 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

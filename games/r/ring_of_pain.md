@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 473)  
+Rating: 4.58 (Ranked 472)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -51,6 +51,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Expensive Look | 0.60% | ~25 |
 | What Doesn't Kill You | 0.60% | ~25 |
 | Shadow Spreads | 0.50% | ~1,213 |
+| Max Damage! | 0.50% | ~1,213 |
 | To The Death! | 0.50% | ~1,213 |
 | Well Prepared | 0.50% | ~1,213 |
 | Don't Ignore Me! | 0.50% | ~1,213 |
@@ -60,7 +61,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Doing Time | 0.50% | ~1,213 |
 | Spreading Plague | 0.50% | ~1,213 |
 | Thank You, Friend | 0.40% | ~971 |
-| Max Damage! | 0.40% | ~971 |
 | A Rough Road | 0.40% | ~971 |
 | Berzerker | 0.40% | ~971 |
 | Chain Reaction | 0.40% | ~971 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,638 (Ranked 73)  
+Progressed: 242,642 (Ranked 73)  
 Completed: 304 (0.13%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -409,7 +409,7 @@ Completed: 304 (0.13%) (Ranked 298)
 | 2024-01-06 | 242,507 | 304 |
 | 2024-01-07 | 242,574 | 304 |
 | 2024-01-08 | 242,637 | 304 |
-| 2024-01-09 | 242,638 | 304 |
+| 2024-01-09 | 242,642 | 304 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 137)  
 Sum: 11,788 (Ranked 89)  

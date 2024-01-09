@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 159,
-  "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -337,11 +337,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18675,
-  "EOS_Completed": 60,
-  "EOS_NewPlayers": 659,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.32,
+  "EOS_Progressed": 18679,
+  "EOS_Completed": 61,
+  "EOS_NewPlayers": 656,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
       "Time": "2023-07-26T16:06:14.482825+00:00",
@@ -16762,6 +16762,11 @@
       "Time": "2024-01-09T00:06:23.2297585+00:00",
       "NumProgressed": 18675,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2024-01-09T01:56:48.5925349+00:00",
+      "NumProgressed": 18679,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16798,7 +16803,7 @@
       "Name": "Data Archivist",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "13",
@@ -16814,7 +16819,7 @@
       "Name": "Doctor Approved",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "15",
@@ -16822,7 +16827,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2054
+      "UsersEstimate": 2055
     },
     {
       "ID": "16",
@@ -16830,7 +16835,7 @@
       "Name": "Drug Gifter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "17",
@@ -16838,7 +16843,7 @@
       "Name": "Spore Taste",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2054
+      "UsersEstimate": 2055
     },
     {
       "ID": "18",
@@ -16846,7 +16851,7 @@
       "Name": "Bottoms up!",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "19",
@@ -16870,7 +16875,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "21",
@@ -16910,7 +16915,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "26",
@@ -16950,7 +16955,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2801
+      "UsersEstimate": 2802
     },
     {
       "ID": "30",
@@ -17014,7 +17019,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "32",
@@ -17053,22 +17058,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18675,
-      "Completed": 60
+      "Progressed": 18679,
+      "Completed": 61
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4629,
-      "Completed": 1261
+      "Progressed": 4633,
+      "Completed": 1264
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-08T14:59:15.8971936+00:00",
-  "LastChanged_Achievements": "2024-01-09T00:06:23.2297581+00:00",
+  "LastChanged_Achievements": "2024-01-09T01:56:48.5925346+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-08T23:58:56.1006586+00:00",
-  "LastUpdate_Achievements": "2024-01-09T00:06:23.2298563+00:00"
+  "LastUpdate_Ratings": "2024-01-09T01:48:17.9778251+00:00",
+  "LastUpdate_Achievements": "2024-01-09T01:56:48.5926174+00:00"
 }

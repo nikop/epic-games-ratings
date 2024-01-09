@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Is There Anybody Out There? | 92.00% | ~131 |
-| Cluster One | 83.00% | ~118 |
+| Cluster One | 84.00% | ~119 |
 | Another Brick in the Wall (Part 1) | 63.00% | ~89 |
 | Comfortably Numb | 56.00% | ~80 |
-| High Hopes | 53.00% | ~75 |
+| High Hopes | 54.00% | ~77 |
 | Echoes | 46.00% | ~65 |
-| Another Brick in the Wall (Part 2) | 44.00% | ~62 |
-| Biding My Time | 39.00% | ~55 |
+| Another Brick in the Wall (Part 2) | 45.00% | ~64 |
+| Biding My Time | 40.00% | ~57 |
 | The Gunner's Dream | 36.00% | ~51 |
 | Another Brick in the Wall (Part 3) | 31.00% | ~44 |
 | Burning Bridges | 23.00% | ~33 |

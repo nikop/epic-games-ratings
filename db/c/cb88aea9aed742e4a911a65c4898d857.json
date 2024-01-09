@@ -2,13 +2,13 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 260,
+  "Ranking_Rating": 236,
   "Ranking_Popularity": 363,
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.69,
   "RatingHistory": [
     {
       "Time": "2023-12-11T06:59:42.897175+00:00",
@@ -285,6 +285,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 114,
       "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2024-01-09T01:47:09.1255192+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 114,
+      "NumberOfAwardsMax": 114
     }
   ],
   "ReviewsDisabled": false,
@@ -299,9 +305,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 10780,
+  "EOS_Progressed": 10788,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1311,
+  "EOS_NewPlayers": 1299,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4169,6 +4175,11 @@
       "Time": "2024-01-09T00:09:47.988007+00:00",
       "NumProgressed": 10780,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-09T01:59:30.8124094+00:00",
+      "NumProgressed": 10788,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4181,7 +4192,7 @@
       "Name": "Conspiracy",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "03_TheStolenStar",
@@ -4189,7 +4200,7 @@
       "Name": "Stolen Star",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -4285,7 +4296,7 @@
       "Name": "Pentakill",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "16_TheRise",
@@ -4293,7 +4304,7 @@
       "Name": "The Rise",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "17_TheExemplar",
@@ -4301,7 +4312,7 @@
       "Name": "Exemplar",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -4309,7 +4320,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "19_TheVoidWolf",
@@ -4341,7 +4352,7 @@
       "Name": "Perfect Timing",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "23_DynastyRestored",
@@ -4357,7 +4368,7 @@
       "Name": "Highrise",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "25_DynastyProspers",
@@ -4389,7 +4400,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -4405,7 +4416,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "31_DontTouchThis",
@@ -4429,7 +4440,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -4493,7 +4504,7 @@
       "Name": "Jungle Heat",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "42_TheIronJudgement",
@@ -4533,7 +4544,7 @@
       "Name": "A Spark",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "47_AFlame",
@@ -4565,7 +4576,7 @@
       "Name": "Whodunit?",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -4700,16 +4711,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10780,
+      "Progressed": 10788,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-01-08T11:57:44.8246202+00:00",
-  "LastChanged_Achievements": "2024-01-09T00:09:47.9880068+00:00",
+  "LastChanged": "2024-01-09T01:47:09.125519+00:00",
+  "LastChanged_Achievements": "2024-01-09T01:59:30.8124051+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-08T23:58:13.5833355+00:00",
-  "LastUpdate_Achievements": "2024-01-09T00:09:47.9880669+00:00"
+  "LastUpdate_Ratings": "2024-01-09T01:47:09.1255194+00:00",
+  "LastUpdate_Achievements": "2024-01-09T01:59:30.8124861+00:00"
 }

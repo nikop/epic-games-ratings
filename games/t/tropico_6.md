@@ -1,7 +1,7 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.65 (Ranked 320)  
+Rating: 4.65 (Ranked 321)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,13 +14,13 @@ Number of Ratings: 398  (23.09.2022)
 | We Don't Have Time For That | 18.00% | ~1,263 |
 | The Legend of Langostino | 16.00% | ~1,123 |
 | The Governator | 16.00% | ~1,123 |
-| Caribbean Comrade | 15.00% | ~1,052 |
-| The Dreamer of Dreams | 15.00% | ~1,052 |
+| Caribbean Comrade | 15.00% | ~1,053 |
+| The Dreamer of Dreams | 15.00% | ~1,053 |
 | Go Sovereigns! | 11.00% | ~772 |
 | For Science! | 11.00% | ~772 |
 | Happy Ending? | 10.00% | ~702 |
-| Of Seals And Men | 9.00% | ~631 |
-| Shackadelic | 9.00% | ~631 |
+| Of Seals And Men | 9.00% | ~632 |
+| Shackadelic | 9.00% | ~632 |
 | Double Trouble | 8.00% | ~561 |
 | Firestarter | 7.00% | ~491 |
 | Make Tropico Great Again! | 7.00% | ~491 |
@@ -32,10 +32,10 @@ Number of Ratings: 398  (23.09.2022)
 | Beware The Betman | 5.00% | ~351 |
 | Watch The World Burn | 5.00% | ~351 |
 | Fairy Tale Come True | 5.00% | ~351 |
-| Been there, Done That | 3.00% | ~210 |
-| Apocalypso | 3.00% | ~210 |
-| Narcissist | 3.00% | ~210 |
-| The Time For Wonders | 3.00% | ~210 |
+| Been there, Done That | 3.00% | ~211 |
+| Apocalypso | 3.00% | ~211 |
+| Narcissist | 3.00% | ~211 |
+| The Time For Wonders | 3.00% | ~211 |
 | One Does Not Simply Stage A Coup | 2.00% | ~140 |
 | Promising Endeavors | 2.00% | ~140 |
 | Sublime Subliminal Supreme | 2.00% | ~140 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~56 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,016 (Ranked 197)  
+Progressed: 7,017 (Ranked 197)  
 Completed: 2 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,6 +311,7 @@ Completed: 2 (0.03%) (Ranked 354)
 | 2024-01-06 | 6,956 | 2 |
 | 2024-01-07 | 6,998 | 2 |
 | 2024-01-08 | 7,016 | 2 |
+| 2024-01-09 | 7,017 | 2 |
 ## Awards
 Max (Highly Recommended): 106  (Ranked 372)  
 Sum: 758 (Ranked 303)  

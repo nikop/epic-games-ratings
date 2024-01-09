@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1438,
+  "EOS_Progressed": 1439,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.25,
   "EosHistory": [
@@ -3571,6 +3571,11 @@
       "Time": "2024-01-09T00:08:38.2958396+00:00",
       "NumProgressed": 1438,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-09T01:57:56.0829012+00:00",
+      "NumProgressed": 1439,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -3598,7 +3603,7 @@
       "Name": "Soulmate?",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -3638,7 +3643,7 @@
       "Name": "Broken heart",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH_GHOST_BUSTED",
@@ -3670,7 +3675,7 @@
       "Name": "Memento",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -3686,7 +3691,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -3718,7 +3723,7 @@
       "Name": "Let there be light",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -3726,7 +3731,7 @@
       "Name": "Unstoppable",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_STAR_1",
@@ -3734,7 +3739,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "ACH_STAR_2",
@@ -3742,7 +3747,7 @@
       "Name": "Moving up",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ACH_STAR_3",
@@ -3797,7 +3802,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1438,
+      "Progressed": 1439,
       "Completed": 18
     }
   ],
@@ -3805,8 +3810,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2024-01-07T18:59:15.8643547+00:00",
-  "LastChanged_Achievements": "2024-01-09T00:08:38.2958391+00:00",
+  "LastChanged_Achievements": "2024-01-09T01:57:56.0829006+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:29.8455072+00:00",
-  "LastUpdate_Ratings": "2024-01-08T23:59:39.2007035+00:00",
-  "LastUpdate_Achievements": "2024-01-09T00:08:38.2958693+00:00"
+  "LastUpdate_Ratings": "2024-01-09T01:49:24.3256295+00:00",
+  "LastUpdate_Achievements": "2024-01-09T01:57:56.082935+00:00"
 }

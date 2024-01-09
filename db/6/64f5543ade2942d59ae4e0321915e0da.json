@@ -4,8 +4,8 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 447,
+  "EOS_Progressed": 448,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -1744,6 +1744,11 @@
       "Time": "2024-01-09T00:03:42.5347083+00:00",
       "NumProgressed": 447,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-09T01:53:00.7003846+00:00",
+      "NumProgressed": 448,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1828,7 +1833,7 @@
       "Name": "Hunger",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "AC_BOSS_01",
@@ -1868,7 +1873,7 @@
       "Name": "Pack",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "AC_COMBO_2",
@@ -1956,7 +1961,7 @@
       "Name": "Journey",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -2066,9 +2071,9 @@
       "ID": "AC_SHOTGUN_MAX",
       "SetID": "16i2akc",
       "Name": "Shot",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 36
     },
     {
       "ID": "AC_SNIPER_MAX",
@@ -2091,14 +2096,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 447,
+      "Progressed": 448,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-09T00:03:42.5347078+00:00",
+  "LastChanged_Achievements": "2024-01-09T01:53:00.7003844+00:00",
   "LastUpdate_AppInfo": "2024-01-02T21:57:05.7124829+00:00",
-  "LastUpdate_Ratings": "2024-01-08T23:59:04.5515135+00:00",
-  "LastUpdate_Achievements": "2024-01-09T00:03:42.5347423+00:00"
+  "LastUpdate_Ratings": "2024-01-09T01:48:30.0292988+00:00",
+  "LastUpdate_Achievements": "2024-01-09T01:53:00.7004218+00:00"
 }

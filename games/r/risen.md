@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 507)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 90.00% | ~163 |
+| Beginner | 91.00% | ~165 |
 | Map reader | 64.00% | ~116 |
 | Adventurer | 62.00% | ~112 |
 | Philanthropist | 60.00% | ~109 |
@@ -20,7 +20,7 @@ Rating: 4.56 (Ranked 507)
 | Idiot | 23.00% | ~42 |
 | Beast slayer | 21.00% | ~38 |
 | Death of a legend | 19.00% | ~34 |
-| Ogre friend | 18.00% | ~33 |
+| Ogre friend | 19.00% | ~34 |
 | Wise man | 17.00% | ~31 |
 | Family man | 17.00% | ~31 |
 | Archaeologist | 17.00% | ~31 |

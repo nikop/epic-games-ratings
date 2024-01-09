@@ -6,15 +6,15 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~53,442 |
-| Get Busy Living | 15.00% | ~32,065 |
-| Samuel Norton | 9.00% | ~19,239 |
-| Spare The Rod | 4.00% | ~8,551 |
-| Don't Put Me In The Dark | 3.00% | ~6,413 |
-| Wait and Hope | 3.00% | ~6,413 |
-| I May Have Found A Way Out Of Here | 3.00% | ~6,413 |
-| Throw The Book At Them | 2.00% | ~4,275 |
-| Iron Bars | 2.00% | ~4,275 |
+| Stone Walls | 25.00% | ~53,448 |
+| Get Busy Living | 15.00% | ~32,069 |
+| Samuel Norton | 9.00% | ~19,241 |
+| Spare The Rod | 4.00% | ~8,552 |
+| Don't Put Me In The Dark | 3.00% | ~6,414 |
+| Wait and Hope | 3.00% | ~6,414 |
+| I May Have Found A Way Out Of Here | 3.00% | ~6,414 |
+| Throw The Book At Them | 2.00% | ~4,276 |
+| Iron Bars | 2.00% | ~4,276 |
 | D.B. Cooper | 1.00% | ~2,138 |
 | Reformation | 0.60% | ~1,283 |
 | Crowd Control | 0.50% | ~1,069 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~214 |
 | ... It's What You Can Prove | 0.10% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,768 (Ranked 80)  
+Progressed: 213,792 (Ranked 80)  
 Completed: 13 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,10 +287,10 @@ Completed: 13 (0.01%) (Ranked 372)
 | 2024-01-06 | 212,869 | 12 |
 | 2024-01-07 | 213,347 | 13 |
 | 2024-01-08 | 213,753 | 13 |
-| 2024-01-09 | 213,768 | 13 |
+| 2024-01-09 | 213,792 | 13 |
 ## Awards
 Max (Great for Beginners): 632  (Ranked 202)  
-Sum: 4,839 (Ranked 152)  
+Sum: 4,843 (Ranked 152)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -301,7 +301,7 @@ Diff (max vs sum): 50
 | This game is Relaxing | 563 |
 | This game has Diverse Characters | 532 |
 | This game has Amazing Storytelling | 517 |
-| This game has Amazing Characters | 467 |
+| This game has Amazing Characters | 471 |
 | This game is Educational | 459 |
 | This game has a Creative Community | 371 |
 | This game has Obsessive Gameplay | 234 |
@@ -659,3 +659,4 @@ Diff (max vs sum): 50
 | 2024-01-06 | 4.61 | - | 628 | 4,821 |
 | 2024-01-07 | 4.61 | - | 630 | 4,828 |
 | 2024-01-08 | 4.61 | - | 632 | 4,839 |
+| 2024-01-09 | 4.61 | - | 632 | 4,843 |

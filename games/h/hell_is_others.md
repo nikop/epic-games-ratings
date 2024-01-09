@@ -5,19 +5,19 @@ Rating: 4.40 (Ranked 766)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,735 |
-| Predator I | 23.00% | ~59,900 |
-| Fixer I | 10.00% | ~26,043 |
-| A week in Century City | 10.00% | ~26,043 |
-| The Wait | 7.00% | ~18,230 |
-| Green thumb I | 6.00% | ~15,626 |
-| Cleaning Company | 6.00% | ~15,626 |
+| Survivor | 31.00% | ~80,737 |
+| Predator I | 23.00% | ~59,902 |
+| Fixer I | 10.00% | ~26,044 |
+| A week in Century City | 10.00% | ~26,044 |
+| The Wait | 7.00% | ~18,231 |
+| Green thumb I | 6.00% | ~15,627 |
+| Cleaning Company | 6.00% | ~15,627 |
 | Well-oiled machine | 5.00% | ~13,022 |
 | Saver I | 5.00% | ~13,022 |
-| The Ascent | 4.00% | ~10,417 |
-| Pacifist | 4.00% | ~10,417 |
-| Vandalism | 4.00% | ~10,417 |
-| Capitalist I | 4.00% | ~10,417 |
+| The Ascent | 4.00% | ~10,418 |
+| Pacifist | 4.00% | ~10,418 |
+| Vandalism | 4.00% | ~10,418 |
+| Capitalist I | 4.00% | ~10,418 |
 | Fixer II | 3.00% | ~7,813 |
 | It took a while | 3.00% | ~7,813 |
 | Adrenaline | 3.00% | ~7,813 |
@@ -35,8 +35,8 @@ Rating: 4.40 (Ranked 766)
 | Green thumb II | 1.00% | ~2,604 |
 | Bricklayer | 1.00% | ~2,604 |
 | Run the Economy | 1.00% | ~2,604 |
-| Committed Relationship | 0.80% | ~2,083 |
-| Number 1 | 0.80% | ~2,083 |
+| Committed Relationship | 0.80% | ~2,084 |
+| Number 1 | 0.80% | ~2,084 |
 | The Gamble | 0.60% | ~1,563 |
 | A major purchase | 0.60% | ~1,563 |
 | Interior designer | 0.60% | ~1,563 |
@@ -62,7 +62,7 @@ Rating: 4.40 (Ranked 766)
 | Capitalist III | 0.10% | ~260 |
 | Hell Is You | 0.10% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,434 (Ranked 67)  
+Progressed: 260,442 (Ranked 67)  
 Completed: 3 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 3 (0.00%) (Ranked 395)
 | 2024-01-06 | 260,324 | 3 |
 | 2024-01-07 | 260,397 | 3 |
 | 2024-01-08 | 260,432 | 3 |
-| 2024-01-09 | 260,434 | 3 |
+| 2024-01-09 | 260,442 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 54  (Ranked 444)  
 Sum: 375 (Ranked 365)  

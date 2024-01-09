@@ -1,19 +1,19 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 260)  
+Rating: 4.68 (Ranked 261)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~922 |
-| Lost and Found | 8.00% | ~567 |
-| Autodidact | 7.00% | ~9,255 |
-| This guy... again? | 7.00% | ~496 |
-| This Belongs in a Museum | 6.00% | ~7,933 |
-| Creep and Sleep | 6.00% | ~7,933 |
-| Overdue Notice | 6.00% | ~7,933 |
-| Ploughshares to Swords | 6.00% | ~425 |
+| Malpractice Assurance | 13.00% | ~923 |
+| Lost and Found | 8.00% | ~568 |
+| Autodidact | 7.00% | ~9,256 |
+| This guy... again? | 7.00% | ~497 |
+| This Belongs in a Museum | 6.00% | ~7,934 |
+| Creep and Sleep | 6.00% | ~7,934 |
+| Overdue Notice | 6.00% | ~7,934 |
+| Ploughshares to Swords | 6.00% | ~426 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,611 |
 | Serenity Now! | 5.00% | ~6,611 |
 | It Rings a Bell | 5.00% | ~6,611 |
@@ -21,11 +21,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | Meat and Greet | 5.00% | ~6,611 |
 | Catch and Decease | 5.00% | ~6,611 |
 | Escape from the Black Hole | 5.00% | ~6,611 |
+| It Happens | 5.00% | ~6,611 |
 | Rush Hour | 5.00% | ~6,611 |
 | To Grandmother's House | 5.00% | ~6,611 |
 | FNG | 5.00% | ~6,611 |
-| Bloody Graduation | 5.00% | ~354 |
-| It Happens | 4.00% | ~5,289 |
+| Bloody Graduation | 5.00% | ~355 |
 | Spelunker | 4.00% | ~5,289 |
 | Merry Time | 4.00% | ~5,289 |
 | Harvest Festival | 4.00% | ~5,289 |
@@ -52,14 +52,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 3.00% | ~3,967 |
 | Unshackled | 3.00% | ~3,967 |
 | Road Trip | 3.00% | ~3,967 |
-| This Looks Familiar | 2.00% | ~2,644 |
-| Hope Rekindled | 2.00% | ~2,644 |
-| Ichthyophobic | 2.00% | ~2,644 |
-| No More Mouths to Feed | 2.00% | ~2,644 |
-| Worldly Traveller | 2.00% | ~2,644 |
-| Hot Air | 2.00% | ~2,644 |
-| Eyes Up | 2.00% | ~2,644 |
-| Handled | 2.00% | ~2,644 |
+| This Looks Familiar | 2.00% | ~2,645 |
+| Hope Rekindled | 2.00% | ~2,645 |
+| Ichthyophobic | 2.00% | ~2,645 |
+| No More Mouths to Feed | 2.00% | ~2,645 |
+| Worldly Traveller | 2.00% | ~2,645 |
+| Hot Air | 2.00% | ~2,645 |
+| Eyes Up | 2.00% | ~2,645 |
+| Handled | 2.00% | ~2,645 |
 | Clearing the Ledger | 1.00% | ~1,322 |
 | Shrine of Reflection | 1.00% | ~1,322 |
 | Body of Work | 1.00% | ~1,322 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hard Mode | 0.10% | ~132 |
 | These Boots Are Made For Kickin' | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,221 (Ranked 91)  
+Progressed: 132,229 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 3 (0.00%) (Ranked 395)
 | 2024-01-06 | 131,959 | 3 |
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
-| 2024-01-09 | 132,221 | 3 |
+| 2024-01-09 | 132,229 | 3 |
 ## Awards
 Max (Character Customization): 7,992  (Ranked 50)  
 Sum: 21,547 (Ranked 58)  

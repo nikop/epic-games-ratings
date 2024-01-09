@@ -7,9 +7,9 @@ Rating: 4.59 (Ranked 448)
 | ---- | ---------- | ----- |
 | The Camp | 70.00% | ~1,082 |
 | The Teleprobe | 55.00% | ~850 |
-| The City | 50.00% | ~772 |
+| The City | 49.00% | ~758 |
 | The field base | 44.00% | ~680 |
-| The Alliance | 41.00% | ~633 |
+| The Alliance | 41.00% | ~634 |
 | Survivors | 39.00% | ~603 |
 | The Condor | 37.00% | ~572 |
 | The End | 37.00% | ~572 |
@@ -18,7 +18,7 @@ Rating: 4.59 (Ranked 448)
 | On her own | 22.00% | ~340 |
 | Peacemaker | 22.00% | ~340 |
 | Volcanologist | 22.00% | ~340 |
-| Fierce fight | 21.00% | ~324 |
+| Fierce fight | 21.00% | ~325 |
 | Evacuation | 20.00% | ~309 |
 | Flying Objects Operator | 17.00% | ~263 |
 | Beyond divisions | 17.00% | ~263 |
@@ -33,9 +33,9 @@ Rating: 4.59 (Ranked 448)
 | Strong objection | 6.00% | ~93 |
 | I leave no man behind (no exceptions) | 2.00% | ~31 |
 | Convoy list | 0.90% | ~14 |
-| No more mistakes | 0.70% | ~11 |
+| No more mistakes | 0.80% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,545 (Ranked 264)  
+Progressed: 1,546 (Ranked 264)  
 Completed: 1 (0.06%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 1 (0.06%) (Ranked 330)
 | 2024-01-06 | 1,462 | 1 |
 | 2024-01-07 | 1,508 | 1 |
 | 2024-01-08 | 1,543 | 1 |
-| 2024-01-09 | 1,545 | 1 |
+| 2024-01-09 | 1,546 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

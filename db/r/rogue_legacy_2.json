@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1584,9 +1584,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 28025,
+  "EOS_Progressed": 28027,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -13519,6 +13519,11 @@
       "Time": "2024-01-08T23:10:47.6420114+00:00",
       "NumProgressed": 28025,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-09T01:59:29.1355122+00:00",
+      "NumProgressed": 28027,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -13626,7 +13631,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -13642,7 +13647,7 @@
       "Name": "King and Kin",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -13674,7 +13679,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -13706,7 +13711,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "BoxerBoss",
@@ -13841,21 +13846,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 28025,
+      "Progressed": 28027,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 6955,
+      "Progressed": 6957,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-07T05:00:47.8747453+00:00",
-  "LastChanged_Achievements": "2024-01-09T00:09:46.7809591+00:00",
+  "LastChanged_Achievements": "2024-01-09T01:59:29.1355118+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:16.4635805+00:00",
-  "LastUpdate_Ratings": "2024-01-09T00:00:34.1069085+00:00",
-  "LastUpdate_Achievements": "2024-01-09T00:09:46.7810588+00:00"
+  "LastUpdate_Ratings": "2024-01-09T01:51:19.6549963+00:00",
+  "LastUpdate_Achievements": "2024-01-09T01:59:29.1355824+00:00"
 }

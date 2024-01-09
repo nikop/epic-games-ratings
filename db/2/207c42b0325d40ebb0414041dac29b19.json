@@ -3,12 +3,12 @@
   "Name": "Melvor Idle",
   "ProductSlug": "melvor-idle-b6a9b3",
   "Ranking_Rating": 398,
-  "Ranking_Popularity": 142,
-  "Ranking_PopularitySum": 221,
+  "Ranking_Popularity": 139,
+  "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 822,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-12-21T16:00:00+00:00",
     "PcReleaseDate": "2021-11-18T00:00:00+00:00",
@@ -551,18 +551,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 1954,
       "NumberOfAwardsMax": 1361
+    },
+    {
+      "Time": "2024-01-09T01:51:39.9567741+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2023,
+      "NumberOfAwardsMax": 1426
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1954,
-  "NumberOfAwardsMax": 1361,
+  "NumberOfAwards": 2023,
+  "NumberOfAwardsMax": 1426,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1361
+      "Count": 1426
     },
     {
       "Text": "This game has Playful Visuals",
@@ -598,7 +604,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 92
+      "Count": 96
     },
     {
       "Text": "This game has Easy Combat",
@@ -631,8 +637,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-21T16:57:07.0640742+00:00",
   "FirstSeenRating": "2023-12-22T16:57:30.2372031+00:00",
-  "LastChanged": "2024-01-08T16:02:49.4004685+00:00",
+  "LastChanged": "2024-01-09T01:51:39.956774+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.516278+00:00",
-  "LastUpdate_Ratings": "2024-01-09T00:00:47.3071098+00:00",
-  "LastUpdate_Achievements": "2024-01-09T00:04:44.5001565+00:00"
+  "LastUpdate_Ratings": "2024-01-09T01:51:39.9567743+00:00",
+  "LastUpdate_Achievements": "2024-01-09T01:54:28.7543143+00:00"
 }

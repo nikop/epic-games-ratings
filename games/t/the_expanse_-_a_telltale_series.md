@@ -6,27 +6,27 @@ Rating: 4.52 (Ranked 570)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 18.00% | ~3,362 |
-| Captain Drummer | 15.00% | ~2,801 |
+| Captain Drummer | 15.00% | ~2,802 |
 | Celebrations are in Order | 14.00% | ~2,615 |
 | The Pit and the Pirates | 13.00% | ~2,428 |
 | Martian Music | 13.00% | ~2,428 |
 | Bosmang | 13.00% | ~2,428 |
 | Impossible Objects | 13.00% | ~2,428 |
 | Drone Dodger | 12.00% | ~2,241 |
-| Stogie for Fogey | 11.00% | ~2,054 |
-| Spore Taste | 11.00% | ~2,054 |
+| Stogie for Fogey | 11.00% | ~2,055 |
+| Spore Taste | 11.00% | ~2,055 |
 | Zen Master | 10.00% | ~463 |
 | Call it Even | 9.00% | ~1,681 |
 | Safe Cracker | 9.00% | ~417 |
 | Madame Undersecretary | 9.00% | ~417 |
 | Heal Thy Medic | 8.00% | ~1,494 |
-| Keep Arjun in Check | 8.00% | ~370 |
-| Data Archivist | 7.00% | ~1,307 |
-| Drug Gifter | 7.00% | ~1,307 |
-| Thorston Mayer | 7.00% | ~1,307 |
-| Khan's Revenge | 7.00% | ~1,307 |
-| Doctor Approved | 6.00% | ~1,120 |
-| Bottoms up! | 6.00% | ~1,120 |
+| Keep Arjun in Check | 8.00% | ~371 |
+| Data Archivist | 7.00% | ~1,308 |
+| Drug Gifter | 7.00% | ~1,308 |
+| Thorston Mayer | 7.00% | ~1,308 |
+| Khan's Revenge | 7.00% | ~1,308 |
+| Doctor Approved | 6.00% | ~1,121 |
+| Bottoms up! | 6.00% | ~1,121 |
 | Master Negotiator | 6.00% | ~278 |
 | Data Logger | 4.00% | ~747 |
 | Miraculous Maya | 4.00% | ~747 |
@@ -41,8 +41,8 @@ Rating: 4.52 (Ranked 570)
 | Scavenger Star | 0.30% | ~56 |
 | Data Collector | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,675 (Ranked 159)  
-Completed: 60 (0.32%) (Ranked 249)  
+Progressed: 18,679 (Ranked 159)  
+Completed: 61 (0.33%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -212,7 +212,7 @@ Completed: 60 (0.32%) (Ranked 249)
 | 2024-01-06 | 18,440 | 59 |
 | 2024-01-07 | 18,579 | 60 |
 | 2024-01-08 | 18,665 | 60 |
-| 2024-01-09 | 18,675 | 60 |
+| 2024-01-09 | 18,679 | 61 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

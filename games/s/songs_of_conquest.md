@@ -6,20 +6,20 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~501 |
+| Adept | 46.00% | ~502 |
 | Double Kill | 41.00% | ~447 |
 | Critical Hit | 23.00% | ~251 |
 | Veteran | 23.00% | ~251 |
-| Dressed For Success | 16.00% | ~174 |
+| Dressed For Success | 16.00% | ~175 |
 | Humiliation | 10.00% | ~109 |
 | Veni, Vidi, Vici | 10.00% | ~109 |
 | Multi Kill | 9.00% | ~98 |
 | Sorcerous Spree | 8.00% | ~87 |
 | Master | 8.00% | ~87 |
 | Landlord Extraordinaire | 7.00% | ~76 |
-| The Song of Stoutheart | 6.00% | ~65 |
 | Whoops! | 6.00% | ~65 |
-| Don't Touch My Stuff | 6.00% | ~65 |
+| The Song of Stoutheart | 5.00% | ~55 |
+| Don't Touch My Stuff | 5.00% | ~55 |
 | Trojan Horse | 4.00% | ~44 |
 | Ultra Kill | 3.00% | ~33 |
 | Expert Essence Employment | 3.00% | ~33 |
@@ -34,11 +34,11 @@ Number of Ratings: 292  (23.09.2022)
 | Grand Master | 1.00% | ~11 |
 | Versatile Wielder | 0.90% | ~10 |
 | Together For Her | 0.90% | ~10 |
-| Death To Diplomacy | 0.60% | ~7 |
-| Unlimited Power! | 0.60% | ~7 |
-| Killing Spree | 0.60% | ~7 |
 | Cleave | 0.60% | ~7 |
+| Death To Diplomacy | 0.50% | ~5 |
+| Unlimited Power! | 0.50% | ~5 |
 | Coming Through! | 0.50% | ~5 |
+| Killing Spree | 0.50% | ~5 |
 | Get Over Here! | 0.50% | ~5 |
 | Barbecue | 0.40% | ~4 |
 | Fully Charged | 0.30% | ~3 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,090 (Ranked 287)  
+Progressed: 1,091 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 1,034 | 0 |
 | 2024-01-07 | 1,067 | 0 |
 | 2024-01-08 | 1,089 | 0 |
-| 2024-01-09 | 1,090 | 0 |
+| 2024-01-09 | 1,091 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 522)  
 Sum: 252 (Ranked 398)  

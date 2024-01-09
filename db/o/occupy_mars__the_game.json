@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1862,
+  "EOS_Progressed": 1863,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4932,6 +4932,11 @@
       "Time": "2024-01-08T18:10:09.0296171+00:00",
       "NumProgressed": 1862,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T01:58:52.5942727+00:00",
+      "NumProgressed": 1863,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5039,7 +5044,7 @@
       "Name": "\u201CAliens\u201D",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALL_WHEEL_TROUBLE",
@@ -5119,7 +5124,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -5199,7 +5204,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -5239,7 +5244,7 @@
       "Name": "Plumber",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "NEW_ACHIEVEMENT_ROADSTER",
@@ -5319,14 +5324,14 @@
       "Name": "To infinity and beyond!",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     }
   ],
   "AchievementSets": [
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1862,
+      "Progressed": 1863,
       "Completed": 0
     }
   ],
@@ -5334,8 +5339,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-12-25T15:00:25.6690232+00:00",
-  "LastChanged_Achievements": "2024-01-09T00:09:20.6050145+00:00",
+  "LastChanged_Achievements": "2024-01-09T01:58:52.5942724+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.830509+00:00",
-  "LastUpdate_Ratings": "2024-01-09T00:00:10.0696636+00:00",
-  "LastUpdate_Achievements": "2024-01-09T00:09:20.6050714+00:00"
+  "LastUpdate_Ratings": "2024-01-09T01:50:13.8047053+00:00",
+  "LastUpdate_Achievements": "2024-01-09T01:58:52.5943486+00:00"
 }

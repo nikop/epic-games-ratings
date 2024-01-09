@@ -1,51 +1,51 @@
 # EA SPORTS™ FIFA 23 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/fifa-23)  
 [View Rawdata](../../db/e/ea_sports™_fifa_23_standard_edition.json)  
-Rating: 4.26 (Ranked 915)  
+Rating: 4.26 (Ranked 914)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~158,740 |
-| Dead-ball specialist | 61.00% | ~129,109 |
-| European Legend | 52.00% | ~110,060 |
-| Multitasking | 51.00% | ~107,944 |
-| Balanced Path | 49.00% | ~103,710 |
-| High Grades | 48.00% | ~101,594 |
-| A Moment of Your Time | 46.00% | ~97,361 |
-| Let the Games Begin | 46.00% | ~97,361 |
-| Aiming High | 46.00% | ~97,361 |
-| Tactical Tinkerer | 40.00% | ~84,662 |
-| Intuition and Execution | 39.00% | ~82,545 |
-| Squad Building Connoisseur | 38.00% | ~80,429 |
-| The Winning Formula | 36.00% | ~76,195 |
-| Parking the Bus | 28.00% | ~59,263 |
-| Safe House | 26.00% | ~55,030 |
-| Best of Five | 26.00% | ~55,030 |
-| Football is Everything | 24.00% | ~50,797 |
-| The Chosen One | 22.00% | ~46,564 |
-| Fresh Fit | 20.00% | ~42,331 |
-| Bring it on | 17.00% | ~35,981 |
-| Life-Like | 14.00% | ~29,632 |
-| Make the Grade | 12.00% | ~25,398 |
-| I Played Them All | 10.00% | ~21,165 |
-| Specialist | 10.00% | ~21,165 |
-| Teamwork works | 9.00% | ~19,049 |
-| First of Many | 9.00% | ~19,049 |
-| Momentous Achievement | 6.00% | ~12,699 |
-| In Cahoots | 5.00% | ~10,583 |
-| Becoming Unplayable | 5.00% | ~10,583 |
-| Shop till you drop | 5.00% | ~10,583 |
-| On the way up | 5.00% | ~10,583 |
-| Volta's best | 4.00% | ~8,466 |
-| Tune Your Club | 4.00% | ~8,466 |
-| Full-House | 4.00% | ~8,466 |
+| Power Shot | 75.00% | ~158,758 |
+| Dead-ball specialist | 61.00% | ~129,124 |
+| European Legend | 52.00% | ~110,073 |
+| Multitasking | 51.00% | ~107,956 |
+| Balanced Path | 49.00% | ~103,722 |
+| High Grades | 48.00% | ~101,605 |
+| A Moment of Your Time | 46.00% | ~97,372 |
+| Let the Games Begin | 46.00% | ~97,372 |
+| Aiming High | 46.00% | ~97,372 |
+| Tactical Tinkerer | 40.00% | ~84,671 |
+| Intuition and Execution | 39.00% | ~82,554 |
+| Squad Building Connoisseur | 38.00% | ~80,438 |
+| The Winning Formula | 36.00% | ~76,204 |
+| Parking the Bus | 28.00% | ~59,270 |
+| Safe House | 26.00% | ~55,036 |
+| Best of Five | 26.00% | ~55,036 |
+| Football is Everything | 24.00% | ~50,803 |
+| The Chosen One | 22.00% | ~46,569 |
+| Fresh Fit | 20.00% | ~42,336 |
+| Bring it on | 17.00% | ~35,985 |
+| Life-Like | 14.00% | ~29,635 |
+| Make the Grade | 12.00% | ~25,401 |
+| I Played Them All | 10.00% | ~21,168 |
+| Specialist | 10.00% | ~21,168 |
+| Teamwork works | 9.00% | ~19,051 |
+| First of Many | 9.00% | ~19,051 |
+| Momentous Achievement | 6.00% | ~12,701 |
+| In Cahoots | 5.00% | ~10,584 |
+| Becoming Unplayable | 5.00% | ~10,584 |
+| Shop till you drop | 5.00% | ~10,584 |
+| On the way up | 5.00% | ~10,584 |
+| Volta's best | 4.00% | ~8,467 |
+| Tune Your Club | 4.00% | ~8,467 |
+| Full-House | 4.00% | ~8,467 |
 | Sharing is Caring | 3.00% | ~6,350 |
 | Full wardrobe | 0.50% | ~1,058 |
 | Girl Power | 0.40% | ~847 |
 | Training Addict | 0.10% | ~212 |
 | Dazzling Personality | 0.10% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,654 (Ranked 81)  
+Progressed: 211,678 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,10 +162,10 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 211,022 | 0 |
 | 2024-01-07 | 211,381 | 0 |
 | 2024-01-08 | 211,646 | 0 |
-| 2024-01-09 | 211,654 | 0 |
+| 2024-01-09 | 211,678 | 0 |
 ## Awards
 Max (Diverse Characters): 22,178  (Ranked 21)  
-Sum: 110,130 (Ranked 17)  
+Sum: 110,141 (Ranked 17)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -175,7 +175,7 @@ Diff (max vs sum): 4
 | This game has Amazing Characters | 12,395 |
 | This game is Extremely Fun | 11,879 |
 | This game has Competitive Players | 11,825 |
-| This game has Amazing Storytelling | 11,638 |
+| This game has Amazing Storytelling | 11,649 |
 | This game has Quickly Understood Controls | 10,740 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -550,3 +550,4 @@ Diff (max vs sum): 4
 | 2024-01-06 | 4.26 | 22,147 | 110,023 |
 | 2024-01-07 | 4.26 | 22,168 | 110,086 |
 | 2024-01-08 | 4.26 | 22,178 | 110,130 |
+| 2024-01-09 | 4.26 | 22,178 | 110,141 |

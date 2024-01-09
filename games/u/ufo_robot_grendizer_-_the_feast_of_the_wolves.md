@@ -15,20 +15,20 @@
 | Earth's Savior | 20.00% | ~14 |
 | The Keeper of Fleed | 11.00% | ~8 |
 | The Collector | 11.00% | ~8 |
-| The Broken Guard | 7.00% | ~5 |
+| The Broken Guard | 9.00% | ~6 |
 | The Vega Turtle | 7.00% | ~5 |
+| Gold Seeker | 6.00% | ~4 |
 | A Good Paint Job | 6.00% | ~4 |
-| Gold Seeker | 4.00% | ~3 |
-| The Planner | 4.00% | ~3 |
+| The Planner | 6.00% | ~4 |
+| The Flying Octopus | 6.00% | ~4 |
+| A Land of Peace | 4.00% | ~3 |
 | Iron Fist | 4.00% | ~3 |
-| The Flying Octopus | 4.00% | ~3 |
+| You can't fool me! | 4.00% | ~3 |
 | The Space Hydra | 4.00% | ~3 |
-| A Land of Peace | 3.00% | ~2 |
-| You can't fool me! | 3.00% | ~2 |
+| The Completionist | 3.00% | ~2 |
 | The Royal Guard | 3.00% | ~2 |
 | The Power of Friendship | 1.00% | ~1 |
 | Saucer Beast Unchained | 1.00% | ~1 |
-| The Completionist | 1.00% | ~1 |
 | The Battle Axe | 1.00% | ~1 |
 | The Interstellar Fighter | 1.00% | ~1 |
 | The Ultimate Attack | 1.00% | ~1 |

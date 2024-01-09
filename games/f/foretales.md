@@ -8,8 +8,8 @@
 | Gorilla warfare | 58.00% | ~171 |
 | Isenburg's fall | 48.00% | ~142 |
 | Pieces of eight! | 42.00% | ~124 |
+| Aboard the Sea Bird | 31.00% | ~91 |
 | Elephant in the room | 31.00% | ~91 |
-| Aboard the Sea Bird | 30.00% | ~88 |
 | Dark and stinky | 29.00% | ~86 |
 | Sneak in, sneak out | 25.00% | ~74 |
 | Is this the end? | 24.00% | ~71 |
@@ -46,7 +46,7 @@
 | Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 295 (Ranked 399)  
+Progressed: 295 (Ranked 400)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -19,13 +19,13 @@
 | A rival with no options | 21.00% | ~19 |
 | You have two wishes left | 21.00% | ~19 |
 | The artist | 20.00% | ~18 |
+| Et in arcadia ego | 19.00% | ~17 |
 | Pulp! Adventures into the Unknown | 19.00% | ~17 |
-| Et in arcadia ego | 18.00% | ~16 |
 | The seer | 18.00% | ~16 |
+| Welcome to Hellville | 17.00% | ~15 |
 | You've awakened the beast | 16.00% | ~14 |
 | Hate is... addictive | 16.00% | ~14 |
 | You had one wish left | 16.00% | ~14 |
-| Welcome to Hellville | 16.00% | ~14 |
 | The bully | 13.00% | ~12 |
 | Kirlian's best disciple | 13.00% | ~12 |
 | Blessed antennas | 11.00% | ~10 |

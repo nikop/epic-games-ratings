@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 320)  
+Rating: 4.65 (Ranked 321)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,6 +12,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 2.00% | ~325 |
 | Play a Single Player Game | 2.00% | ~325 |
 | Able | 1.00% | ~163 |
+| Ambitious | 1.00% | ~163 |
 | Architect | 1.00% | ~163 |
 | Enlightened | 1.00% | ~163 |
 | Glorious | 1.00% | ~163 |
@@ -35,18 +36,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 1.00% | ~163 |
 | Naming Landmarks | 1.00% | ~163 |
 | Trade Caravan | 1.00% | ~163 |
-| Ambitious | 0.90% | ~146 |
+| Brilliant | 0.90% | ~146 |
 | Fountainhead | 0.90% | ~146 |
 | Magnificent | 0.90% | ~146 |
+| Ishtar Gate | 0.90% | ~146 |
+| Christianity | 0.90% | ~146 |
 | Zoroastrianism | 0.90% | ~146 |
-| Brilliant | 0.80% | ~130 |
 | Able Difficulty | 0.80% | ~130 |
 | Apadana | 0.80% | ~130 |
 | Great Ziggurat | 0.80% | ~130 |
-| Ishtar Gate | 0.80% | ~130 |
 | Lighthouse | 0.80% | ~130 |
 | Learn to Play 2 | 0.80% | ~130 |
-| Christianity | 0.80% | ~130 |
 | Roman Paganism | 0.80% | ~130 |
 | Regicide | 0.70% | ~114 |
 | Great | 0.70% | ~114 |
@@ -65,6 +65,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 0.60% | ~98 |
 | Mausoleum | 0.60% | ~98 |
 | Musaeum | 0.60% | ~98 |
+| Building Wonders | 0.60% | ~98 |
 | Hanging Gardens in Babylon | 0.50% | ~81 |
 | Beloved | 0.50% | ~81 |
 | Intercessor | 0.50% | ~81 |
@@ -72,7 +73,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.50% | ~81 |
 | Sages | 0.50% | ~81 |
 | Learn to Play 3 | 0.50% | ~81 |
-| Building Wonders | 0.50% | ~81 |
 | Mythology | 0.50% | ~81 |
 | Points Victory | 0.50% | ~81 |
 | Win a Single Player Game | 0.50% | ~81 |
@@ -86,6 +86,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.40% | ~65 |
 | Traders | 0.40% | ~65 |
 | Hittite Iron | 0.40% | ~65 |
+| Hagia Sophia | 0.40% | ~65 |
 | Temple of Solomon | 0.40% | ~65 |
 | Pantheon | 0.40% | ~65 |
 | Greece | 0.40% | ~65 |
@@ -105,7 +106,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.30% | ~49 |
 | Hunters | 0.30% | ~49 |
 | Circus Maximus | 0.30% | ~49 |
-| Hagia Sophia | 0.30% | ~49 |
 | Adur Burzen-Mihr | 0.30% | ~49 |
 | Via Recta Souk | 0.30% | ~49 |
 | Learn to Play 4 | 0.30% | ~49 |
@@ -119,12 +119,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.30% | ~49 |
 | Redemption | 0.30% | ~49 |
 | Revelation | 0.30% | ~49 |
+| Veneration | 0.30% | ~49 |
 | Cimmerian Archer | 0.30% | ~49 |
 | Kushite Cavalry | 0.30% | ~49 |
 | Phalangite | 0.30% | ~49 |
 | Turreted Elephant | 0.30% | ~49 |
 | Ambition Victory | 0.30% | ~49 |
 | The Clergy | 0.30% | ~49 |
+| Kushite Pyramids | 0.30% | ~49 |
 | Kushite Paganism | 0.30% | ~49 |
 | Ishtar Gate in Babylon | 0.20% | ~33 |
 | Carthage - Ox Hide | 0.20% | ~33 |
@@ -137,13 +139,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.20% | ~33 |
 | One True Faith | 0.20% | ~33 |
 | Hittite Paganism | 0.20% | ~33 |
-| Veneration | 0.20% | ~33 |
 | Cataphract Archer | 0.20% | ~33 |
 | Siege Tower | 0.20% | ~33 |
 | All Nations | 0.20% | ~33 |
 | No Undo | 0.20% | ~33 |
 | Deposed Tribe | 0.20% | ~33 |
-| Kushite Pyramids | 0.20% | ~33 |
 | Centenarian | 0.10% | ~16 |
 | Alexander the Great | 0.10% | ~16 |
 | Alexander the who? | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,262 (Ranked 168)  
+Progressed: 16,267 (Ranked 168)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -629,7 +629,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-06 | 16,160 | 5 |
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
-| 2024-01-09 | 16,262 | 5 |
+| 2024-01-09 | 16,267 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 286)  
 Sum: 1,917 (Ranked 223)  

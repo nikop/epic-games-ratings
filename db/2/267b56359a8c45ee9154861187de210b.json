@@ -2,10 +2,10 @@
   "ID": "267b56359a8c45ee9154861187de210b",
   "Name": "Marble It Up! Ultra",
   "ProductSlug": "marble-it-up-ultra-7b5692",
-  "Ranking_EOS_Progress": 469,
+  "Ranking_EOS_Progress": 467,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133,
+  "EOS_Progressed": 134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -644,6 +644,11 @@
       "Time": "2024-01-08T23:07:48.7320488+00:00",
       "NumProgressed": 133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-09T01:56:15.1939465+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T22:03:23.4161887+00:00",
@@ -654,9 +659,9 @@
       "ID": "TOURN_PARTICIP_10",
       "SetID": "3448go",
       "Name": "Welcome to Fortnight",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "TOURN_PARTICIP_20",
@@ -678,9 +683,9 @@
       "ID": "TOURN_PARTICIP_5",
       "SetID": "3448go",
       "Name": "Challenger",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "TOURN_PARTICIP_60",
@@ -702,7 +707,7 @@
       "ID": "TOURN_TOP_1",
       "SetID": "3448go",
       "Name": "Top of the World",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -752,7 +757,7 @@
       "Name": "Glider",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "beat_c1_bronze",
@@ -776,15 +781,15 @@
       "Name": "Venture Time",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "beat_c1a_bronze",
@@ -814,7 +819,7 @@
       "ID": "beat_c1a_silver",
       "SetID": "3448go",
       "Name": "Yonder",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -830,9 +835,9 @@
       "ID": "beat_c2_diamond",
       "SetID": "3448go",
       "Name": "Timing, Rhythm, and Rhyme",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "beat_c2_gold",
@@ -878,7 +883,7 @@
       "ID": "beat_c2a_silver",
       "SetID": "3448go",
       "Name": "The Wide World",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -894,9 +899,9 @@
       "ID": "beat_c3_diamond",
       "SetID": "3448go",
       "Name": "Power-Levelling",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "beat_c3_gold",
@@ -910,9 +915,9 @@
       "ID": "beat_c3_silver",
       "SetID": "3448go",
       "Name": "Power-Ups and Downs",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "beat_c3a_bronze",
@@ -966,7 +971,7 @@
       "ID": "beat_c4_gold",
       "SetID": "3448go",
       "Name": "Defying Gravity",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1030,7 +1035,7 @@
       "ID": "beat_c5_gold",
       "SetID": "3448go",
       "Name": "Every Penrose Has Its Thorn",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1166,7 +1171,7 @@
       "ID": "hunt_low",
       "SetID": "3448go",
       "Name": "Gemstone Gatherer",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1182,7 +1187,7 @@
       "ID": "koth_halftime",
       "SetID": "3448go",
       "Name": "Tenacious",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -1198,7 +1203,7 @@
       "ID": "koth_low",
       "SetID": "3448go",
       "Name": "Having a Blast",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1222,7 +1227,7 @@
       "ID": "rolldist_long",
       "SetID": "3448go",
       "Name": "And I Would Walk...",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1238,17 +1243,17 @@
       "ID": "rolldist_short",
       "SetID": "3448go",
       "Name": "Rolling the Competition",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "soccer_hattrick",
       "SetID": "3448go",
       "Name": "Hat Trick Hero",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "soccer_high",
@@ -1270,7 +1275,7 @@
       "ID": "soccer_mid",
       "SetID": "3448go",
       "Name": "Pretty Forward",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1302,7 +1307,7 @@
       "ID": "trophies_50",
       "SetID": "3448go",
       "Name": "Super Sleuth",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1310,7 +1315,7 @@
       "ID": "trophies_75",
       "SetID": "3448go",
       "Name": "The Archeologist",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1343,14 +1348,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 133,
+      "Progressed": 134,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-09T00:05:59.622963+00:00",
+  "LastChanged_Achievements": "2024-01-09T01:56:15.1939461+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:15.6057122+00:00",
-  "LastUpdate_Ratings": "2024-01-09T00:00:45.0683506+00:00",
-  "LastUpdate_Achievements": "2024-01-09T00:05:59.623038+00:00"
+  "LastUpdate_Ratings": "2024-01-09T01:51:36.5231637+00:00",
+  "LastUpdate_Achievements": "2024-01-09T01:56:15.1940271+00:00"
 }

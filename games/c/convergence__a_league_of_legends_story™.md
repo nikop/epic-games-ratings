@@ -6,16 +6,16 @@ Rating: 4.69 (Ranked 236)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 46.00% | ~588 |
-| Rail Rat | 35.00% | ~447 |
+| Rail Rat | 35.00% | ~448 |
 | The Mysterious Stranger | 34.00% | ~435 |
 | Immaculate Aim | 29.00% | ~371 |
 | The Brass Boss | 28.00% | ~358 |
-| Make Up For Lost Time | 26.00% | ~332 |
-| Time Flies | 26.00% | ~332 |
-| The Harder They Fall | 26.00% | ~332 |
-| No, Thanks! | 26.00% | ~332 |
-| The Prince in Heels | 26.00% | ~332 |
-| Honest Mistake | 26.00% | ~332 |
+| Time Flies | 27.00% | ~345 |
+| No, Thanks! | 26.00% | ~333 |
+| The Prince in Heels | 26.00% | ~333 |
+| Honest Mistake | 26.00% | ~333 |
+| Make Up For Lost Time | 25.00% | ~320 |
+| The Harder They Fall | 25.00% | ~320 |
 | Fast Learner | 25.00% | ~320 |
 | Immaculate Aim | 25.00% | ~320 |
 | The Steel Shadow | 24.00% | ~307 |
@@ -24,7 +24,7 @@ Rating: 4.69 (Ranked 236)
 | Right On Time | 22.00% | ~281 |
 | Like Clockwork | 22.00% | ~281 |
 | Golem Chaser | 22.00% | ~281 |
-| The Betrayer | 21.00% | ~268 |
+| The Betrayer | 21.00% | ~269 |
 | Check Your Pulse | 20.00% | ~256 |
 | The Loose Cannon | 19.00% | ~243 |
 | Street Style | 18.00% | ~230 |
@@ -46,7 +46,7 @@ Rating: 4.69 (Ranked 236)
 | Corin Goes Home | 8.00% | ~102 |
 | Sartorialist | 8.00% | ~102 |
 | Entresol Explorer | 8.00% | ~102 |
-| Golem Hunter | 7.00% | ~89 |
+| Golem Hunter | 7.00% | ~90 |
 | Clovemary for Remembering | 6.00% | ~77 |
 | Hexlock for Protection | 6.00% | ~77 |
 | Rungs Was Right | 5.00% | ~64 |
@@ -59,7 +59,7 @@ Rating: 4.69 (Ranked 236)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,278 (Ranked 280)  
+Progressed: 1,279 (Ranked 280)  
 Completed: 7 (0.55%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,6 +229,7 @@ Completed: 7 (0.55%) (Ranked 214)
 | 2024-01-06 | 1,255 | 6 |
 | 2024-01-07 | 1,264 | 7 |
 | 2024-01-08 | 1,278 | 7 |
+| 2024-01-09 | 1,279 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

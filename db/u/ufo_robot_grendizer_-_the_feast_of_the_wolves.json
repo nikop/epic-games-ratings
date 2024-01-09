@@ -4,8 +4,8 @@
   "ProductSlug": "goldorak-d90cf1",
   "Ranking_EOS_Progress": 526,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 387,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
     "PcReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -379,17 +379,17 @@
       "ID": "ACH_ALLLEGENDARYLOOT",
       "SetID": "ch874lb",
       "Name": "Gold Seeker",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_ALLMEDITATION",
       "SetID": "ch874lb",
       "Name": "A Land of Peace",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_COLLECTORS",
@@ -467,9 +467,9 @@
       "ID": "ACH_GOLGOTHPLANS",
       "SetID": "ch874lb",
       "Name": "The Planner",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_GREENEARTH",
@@ -507,9 +507,9 @@
       "ID": "ACH_PERFECTDODGE",
       "SetID": "ch874lb",
       "Name": "You can\u0027t fool me!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_RESOURCES",
@@ -523,9 +523,9 @@
       "ID": "ACH_RUINDIVISION",
       "SetID": "ch874lb",
       "Name": "The Broken Guard",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_SAUCERBEASTUNCHAINED",
@@ -539,9 +539,9 @@
       "ID": "ACH_SKILLTREE",
       "SetID": "ch874lb",
       "Name": "The Completionist",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_THEBATTLEAXE",
@@ -563,9 +563,9 @@
       "ID": "ACH_THEFLYINGOCTOPUS",
       "SetID": "ch874lb",
       "Name": "The Flying Octopus",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_THEINTERSTELLARFIGHTER",
@@ -626,8 +626,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2024-01-09T00:05:15.0282435+00:00",
+  "LastChanged_Achievements": "2024-01-09T01:55:11.9579993+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:49.9847922+00:00",
-  "LastUpdate_Ratings": "2024-01-08T23:57:21.8162085+00:00",
-  "LastUpdate_Achievements": "2024-01-09T00:05:15.0282644+00:00"
+  "LastUpdate_Ratings": "2024-01-09T01:45:48.092854+00:00",
+  "LastUpdate_Achievements": "2024-01-09T01:55:11.9580241+00:00"
 }

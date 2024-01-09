@@ -1,36 +1,36 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.21 (Ranked 952)  
+Rating: 4.22 (Ranked 946)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 25.00% | ~5,438 |
-| The Outer Way | 25.00% | ~5,438 |
-| Desperate Times | 24.00% | ~5,220 |
-| Paper Jams | 22.00% | ~4,785 |
-| Get a Grip | 21.00% | ~4,568 |
-| Chew 'Em Up | 19.00% | ~4,133 |
-| Reforged | 18.00% | ~3,915 |
-| Float Like A Butterfly | 17.00% | ~3,698 |
-| If the SHU Fits... | 16.00% | ~3,480 |
-| Workplace Hazard | 15.00% | ~3,263 |
-| Without A Paddle | 13.00% | ~2,828 |
-| In the Pipe, Five by Five | 12.00% | ~2,610 |
-| Crash Site | 12.00% | ~2,610 |
-| Two Heads Are Better Than One | 11.00% | ~2,393 |
-| Power Up | 11.00% | ~2,393 |
-| Terminated | 10.00% | ~2,175 |
+| Flesh Wound | 25.00% | ~5,440 |
+| The Outer Way | 25.00% | ~5,440 |
+| Desperate Times | 24.00% | ~5,223 |
+| Paper Jams | 22.00% | ~4,787 |
+| Get a Grip | 21.00% | ~4,570 |
+| Chew 'Em Up | 19.00% | ~4,135 |
+| Reforged | 18.00% | ~3,917 |
+| Float Like A Butterfly | 17.00% | ~3,699 |
+| If the SHU Fits... | 16.00% | ~3,482 |
+| Workplace Hazard | 15.00% | ~3,264 |
+| Without A Paddle | 13.00% | ~2,829 |
+| In the Pipe, Five by Five | 12.00% | ~2,611 |
+| Crash Site | 12.00% | ~2,611 |
+| Two Heads Are Better Than One | 11.00% | ~2,394 |
+| Power Up | 11.00% | ~2,394 |
+| Terminated | 10.00% | ~2,176 |
 | Giving Back | 9.00% | ~1,958 |
 | What Lies Beneath | 9.00% | ~1,958 |
 | Full Circle | 9.00% | ~1,958 |
-| You Need a Gun | 8.00% | ~1,740 |
-| I Do Belong Here | 8.00% | ~1,740 |
-| Keep Fighting | 7.00% | ~677 |
+| You Need a Gun | 8.00% | ~1,741 |
+| I Do Belong Here | 8.00% | ~1,741 |
+| Keep Fighting | 7.00% | ~678 |
 | In Striking Distance | 5.00% | ~1,088 |
 | The Commonality | 5.00% | ~1,088 |
 | It's Time | 5.00% | ~484 |
-| One Last Job | 3.00% | ~290 |
+| One Last Job | 3.00% | ~291 |
 | Big Spender | 2.00% | ~194 |
 | This Isn't About Escape | 2.00% | ~194 |
 | Armed to the Teeth | 1.00% | ~97 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 952)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,752 (Ranked 151)  
+Progressed: 21,761 (Ranked 151)  
 Completed: 82 (0.38%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,14 +309,14 @@ Completed: 82 (0.38%) (Ranked 241)
 | 2024-01-06 | 21,389 | 82 |
 | 2024-01-07 | 21,615 | 82 |
 | 2024-01-08 | 21,745 | 82 |
-| 2024-01-09 | 21,752 | 82 |
+| 2024-01-09 | 21,761 | 82 |
 ## Awards
-Max (Amazing Characters): 126  (Ranked 354)  
-Sum: 607 (Ranked 325)  
-Diff (max vs sum): 29  
+Max (Amazing Characters): 129  (Ranked 349)  
+Sum: 610 (Ranked 323)  
+Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
-| This game has Amazing Characters | 126 |
+| This game has Amazing Characters | 129 |
 | This game is Highly Recommended | 109 |
 | This game is Extremely Fun | 109 |
 | This game has Amazing Storytelling | 107 |
@@ -522,3 +522,4 @@ Diff (max vs sum): 29
 | 2024-01-06 | 4.21 | 124 | 597 |
 | 2024-01-07 | 4.21 | 126 | 603 |
 | 2024-01-08 | 4.21 | 126 | 607 |
+| 2024-01-09 | 4.22 | 129 | 610 |

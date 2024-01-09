@@ -1,36 +1,36 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.18 (Ranked 979)  
+Rating: 4.18 (Ranked 980)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 62.00% | ~1,294 |
-| Trinity | 31.00% | ~647 |
-| Find Allies | 24.00% | ~501 |
-| A Taste of Wrath | 24.00% | ~501 |
-| The Collector | 24.00% | ~501 |
-| Shatter Them All | 23.00% | ~480 |
-| I Found It | 23.00% | ~480 |
-| Adventurer | 22.00% | ~459 |
-| Geared Up | 22.00% | ~459 |
-| Fashion Victim | 22.00% | ~459 |
-| Scholar | 22.00% | ~459 |
-| Tributes of Caladrias | 20.00% | ~417 |
-| Stone Collection | 20.00% | ~417 |
+| Break Out | 62.00% | ~1,297 |
+| Trinity | 31.00% | ~649 |
+| Find Allies | 24.00% | ~502 |
+| A Taste of Wrath | 24.00% | ~502 |
+| The Collector | 24.00% | ~502 |
+| Shatter Them All | 23.00% | ~481 |
+| I Found It | 23.00% | ~481 |
+| Adventurer | 22.00% | ~460 |
+| Geared Up | 22.00% | ~460 |
+| Fashion Victim | 22.00% | ~460 |
+| Scholar | 22.00% | ~460 |
+| Tributes of Caladrias | 20.00% | ~418 |
+| Stone Collection | 20.00% | ~418 |
 | Powerful Allies | 19.00% | ~397 |
-| Essence Blow | 13.00% | ~271 |
-| Big Bazar | 13.00% | ~271 |
-| Alchemist | 13.00% | ~271 |
+| Essence Blow | 13.00% | ~272 |
+| Big Bazar | 13.00% | ~272 |
+| Alchemist | 13.00% | ~272 |
 | The Mentor | 10.00% | ~209 |
 | Calm before the Storm | 9.00% | ~188 |
 | To Battle | 8.00% | ~167 |
-| Godslayer | 7.00% | ~146 |
+| Godslayer | 8.00% | ~167 |
 | Airborne | 7.00% | ~146 |
 | Miner | 7.00% | ~146 |
-| Clear Sight | 4.00% | ~83 |
-| Shatterer | 4.00% | ~83 |
-| Fine Feathers Make Fine Birds | 4.00% | ~83 |
+| Clear Sight | 4.00% | ~84 |
+| Shatterer | 4.00% | ~84 |
+| Fine Feathers Make Fine Birds | 4.00% | ~84 |
 | Slayer | 3.00% | ~63 |
 | A Queen's Tale | 3.00% | ~63 |
 | Flawless Victory | 2.00% | ~42 |
@@ -42,7 +42,7 @@ Rating: 4.18 (Ranked 979)
 | All That Gold | 0.70% | ~15 |
 | Feeling Fancy | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,087 (Ranked 247)  
+Progressed: 2,092 (Ranked 247)  
 Completed: 3 (0.14%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 3 (0.14%) (Ranked 295)
 | 2024-01-06 | 1,936 | 3 |
 | 2024-01-07 | 2,015 | 3 |
 | 2024-01-08 | 2,086 | 3 |
-| 2024-01-09 | 2,087 | 3 |
+| 2024-01-09 | 2,092 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
-  "Ranking_Rating": 260,
+  "Ranking_Rating": 261,
   "Ranking_Popularity": 425,
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2022-09-22T12:00:00+00:00",
@@ -1363,9 +1363,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 3609,
+  "EOS_Progressed": 3610,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -7768,6 +7768,11 @@
       "Time": "2024-01-09T00:04:12.5212726+00:00",
       "NumProgressed": 3609,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-09T01:53:42.9174083+00:00",
+      "NumProgressed": 3610,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -7931,7 +7936,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -8162,15 +8167,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3609,
+      "Progressed": 3610,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2024-01-07T05:01:33.5374268+00:00",
-  "LastChanged_Achievements": "2024-01-09T00:04:12.5212723+00:00",
+  "LastChanged_Achievements": "2024-01-09T01:53:42.9174081+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:55.5577816+00:00",
-  "LastUpdate_Ratings": "2024-01-09T00:00:42.6380487+00:00",
-  "LastUpdate_Achievements": "2024-01-09T00:04:12.5213345+00:00"
+  "LastUpdate_Ratings": "2024-01-09T01:51:33.4357994+00:00",
+  "LastUpdate_Achievements": "2024-01-09T01:53:42.9174711+00:00"
 }

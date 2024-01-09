@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -63,7 +63,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1278,
+  "EOS_Progressed": 1279,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 1,
@@ -3818,6 +3818,11 @@
       "Time": "2024-01-08T22:11:09.3651595+00:00",
       "NumProgressed": 1278,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-09T01:59:43.2985945+00:00",
+      "NumProgressed": 1279,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3957,7 +3962,7 @@
       "Name": "The Betrayer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -3989,7 +3994,7 @@
       "Name": "Rail Rat",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "HexlockGift",
@@ -4019,9 +4024,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 320
     },
     {
       "ID": "MapCompletion1",
@@ -4067,17 +4072,17 @@
       "ID": "ParallelConvergenceMultiHit1",
       "SetID": "a9e499d",
       "Name": "Time Flies",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 345
     },
     {
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 320
     },
     {
       "ID": "ParryRepeated1",
@@ -4085,7 +4090,7 @@
       "Name": "No, Thanks!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "PhaseDiveCounter",
@@ -4109,7 +4114,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "RewindDamage1",
@@ -4125,7 +4130,7 @@
       "Name": "Honest Mistake",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ScrambotCompletion1",
@@ -4133,7 +4138,7 @@
       "Name": "Golem Hunter",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ScrambotProgress1",
@@ -4252,7 +4257,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1278,
+      "Progressed": 1279,
       "Completed": 7
     }
   ],
@@ -4260,8 +4265,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-09T00:09:57.8411624+00:00",
+  "LastChanged_Achievements": "2024-01-09T01:59:43.2985943+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-08T23:59:02.7572294+00:00",
-  "LastUpdate_Achievements": "2024-01-09T00:09:57.8412108+00:00"
+  "LastUpdate_Ratings": "2024-01-09T01:48:26.6221266+00:00",
+  "LastUpdate_Achievements": "2024-01-09T01:59:43.2986402+00:00"
 }

@@ -9,8 +9,8 @@
 | Shine! | 31.00% | ~44 |
 | Friend! | 30.00% | ~42 |
 | Uncut Gem | 28.00% | ~39 |
-| Clear as Water | 26.00% | ~37 |
-| Setting Off | 23.00% | ~32 |
+| Clear as Water | 27.00% | ~38 |
+| Setting Off | 24.00% | ~34 |
 | Card Collector | 23.00% | ~32 |
 | Riddlesolver | 21.00% | ~30 |
 | Dungeon Mastery | 19.00% | ~27 |

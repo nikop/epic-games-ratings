@@ -6,23 +6,23 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~5,022 |
-| I'll Be Back | 84.00% | ~4,488 |
+| On My Own Two Feet | 94.00% | ~5,023 |
+| I'll Be Back | 84.00% | ~4,489 |
 | Sorry, I Dropped This | 76.00% | ~4,061 |
 | First Day on the Job | 76.00% | ~4,061 |
-| Butcher's Bill | 54.00% | ~2,885 |
-| P.A.X | 36.00% | ~1,923 |
-| Hey Listen | 36.00% | ~1,923 |
+| Butcher's Bill | 54.00% | ~2,886 |
+| P.A.X | 36.00% | ~1,924 |
+| Hey Listen | 36.00% | ~1,924 |
 | OPERATOR | 35.00% | ~1,870 |
-| It's Blue Light | 33.00% | ~1,763 |
+| It's Blue Light | 33.00% | ~1,764 |
 | Most Wanted | 26.00% | ~1,389 |
 | Infidel | 23.00% | ~1,229 |
 | Firebug | 20.00% | ~1,069 |
 | GOLIATH | 20.00% | ~1,069 |
 | I Choose You | 17.00% | ~908 |
 | Nothing to Lose | 17.00% | ~908 |
-| Big Sister | 15.00% | ~801 |
-| SENTINEL | 15.00% | ~801 |
+| Big Sister | 15.00% | ~802 |
+| SENTINEL | 15.00% | ~802 |
 | Gear Up | 14.00% | ~748 |
 | The Black Cerberus | 12.00% | ~641 |
 | Watchman | 12.00% | ~641 |
@@ -33,11 +33,11 @@ Number of Ratings: 62  (23.09.2022)
 | Right Tool for the Job | 10.00% | ~534 |
 | Raging Drones | 9.00% | ~481 |
 | Overconfident | 9.00% | ~481 |
-| Pusher Man | 8.00% | ~427 |
-| Melting Down | 8.00% | ~427 |
-| Squad Chief Helvig | 8.00% | ~427 |
-| No More Marching | 8.00% | ~427 |
-| Is This Real Life? | 8.00% | ~427 |
+| Pusher Man | 8.00% | ~428 |
+| Melting Down | 8.00% | ~428 |
+| Squad Chief Helvig | 8.00% | ~428 |
+| No More Marching | 8.00% | ~428 |
+| Is This Real Life? | 8.00% | ~428 |
 | Duty-Bound | 7.00% | ~374 |
 | Follow the White Rabbit | 7.00% | ~374 |
 | Liberation | 7.00% | ~374 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~32 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,343 (Ranked 203)  
+Progressed: 5,344 (Ranked 203)  
 Completed: 18 (0.34%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,6 +295,7 @@ Completed: 18 (0.34%) (Ranked 245)
 | 2024-01-06 | 5,296 | 18 |
 | 2024-01-07 | 5,326 | 18 |
 | 2024-01-08 | 5,343 | 18 |
+| 2024-01-09 | 5,344 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 522)  
 Sum: 30 (Ranked 541)  
