@@ -5,13 +5,13 @@ Rating: 4.62 (Ranked 378)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 17.00% | ~1,213 |
+| Secret Technique | 17.00% | ~1,214 |
 | Realm Estate | 15.00% | ~1,071 |
-| A Wonderful Discovery | 14.00% | ~999 |
+| A Wonderful Discovery | 14.00% | ~1,000 |
 | Walls Cannot Stop Us | 13.00% | ~928 |
 | From Friends to Family | 12.00% | ~857 |
 | Bone Peddler | 10.00% | ~714 |
-| Magical Synergy | 9.00% | ~642 |
+| Magical Synergy | 9.00% | ~643 |
 | Full Ascension | 8.00% | ~571 |
 | Stronger Together | 8.00% | ~571 |
 | There Can Only Be One! | 7.00% | ~500 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 378)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,138 (Ranked 196)  
+Progressed: 7,140 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,16 +299,16 @@ Completed: 7 (0.10%) (Ranked 309)
 | 2024-01-07 | 7,051 | 7 |
 | 2024-01-08 | 7,091 | 7 |
 | 2024-01-09 | 7,130 | 7 |
-| 2024-01-10 | 7,138 | 7 |
+| 2024-01-10 | 7,140 | 7 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 481)  
-Sum: 215 (Ranked 410)  
-Diff (max vs sum): 71  
+Sum: 216 (Ranked 409)  
+Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 41 |
 | This game has Diverse Characters | 39 |
-| This game is Extremely Fun | 27 |
+| This game is Extremely Fun | 28 |
 | This game has Challenging Combat | 23 |
 | This game is Highly Recommended | 22 |
 | This game has Amazing Storytelling | 21 |
@@ -404,3 +404,4 @@ Diff (max vs sum): 71
 | 2024-01-06 | 4.62 | 40 | 211 |
 | 2024-01-07 | 4.62 | 40 | 212 |
 | 2024-01-09 | 4.62 | 41 | 215 |
+| 2024-01-10 | 4.62 | 41 | 216 |

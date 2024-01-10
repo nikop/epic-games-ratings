@@ -6,23 +6,23 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 63.00% | ~2,289 |
-| Keeping it classy | 27.00% | ~981 |
-| Welcome to the family | 21.00% | ~763 |
-| The finer things in life | 19.00% | ~690 |
-| Backpacker | 13.00% | ~472 |
-| Go with the Flow | 13.00% | ~472 |
-| Plastic Surgeon | 10.00% | ~363 |
-| The flip trick crown jewel | 10.00% | ~363 |
-| The hard way | 10.00% | ~363 |
+| You're free now! | 63.00% | ~2,291 |
+| Keeping it classy | 27.00% | ~982 |
+| Welcome to the family | 21.00% | ~764 |
+| The finer things in life | 19.00% | ~691 |
+| Backpacker | 13.00% | ~473 |
+| Go with the Flow | 13.00% | ~473 |
+| Plastic Surgeon | 10.00% | ~364 |
+| The flip trick crown jewel | 10.00% | ~364 |
+| The hard way | 10.00% | ~364 |
 | Good vibes | 9.00% | ~327 |
 | Keep the dream alive | 9.00% | ~327 |
 | Upfront shredder | 9.00% | ~327 |
-| Bottom ply killer | 7.00% | ~254 |
-| Fashionista | 7.00% | ~254 |
-| Finally he zips it | 7.00% | ~254 |
-| That pinch! | 7.00% | ~254 |
-| Tight lipslides | 7.00% | ~254 |
+| Bottom ply killer | 7.00% | ~255 |
+| Fashionista | 7.00% | ~255 |
+| Finally he zips it | 7.00% | ~255 |
+| That pinch! | 7.00% | ~255 |
+| Tight lipslides | 7.00% | ~255 |
 | Fulfilled the dream | 6.00% | ~218 |
 | G'Day Mate! | 6.00% | ~218 |
 | Purple passion | 6.00% | ~218 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,634 (Ranked 221)  
+Progressed: 3,636 (Ranked 221)  
 Completed: 2 (0.06%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 2 (0.06%) (Ranked 330)
 | 2024-01-07 | 3,587 | 2 |
 | 2024-01-08 | 3,608 | 2 |
 | 2024-01-09 | 3,627 | 2 |
-| 2024-01-10 | 3,634 | 2 |
+| 2024-01-10 | 3,636 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 63  (Ranked 425)  
 Sum: 584 (Ranked 326)  

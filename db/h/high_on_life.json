@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25095,
+  "EOS_Progressed": 25097,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8991,6 +8991,11 @@
       "Time": "2024-01-10T03:09:07.0861403+00:00",
       "NumProgressed": 25095,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-10T04:09:21.1718812+00:00",
+      "NumProgressed": 25097,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -9274,7 +9279,7 @@
       "Name": "Mux Ado About Shipping",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_FIND_ALL_LANDMARKS",
@@ -9353,13 +9358,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25095,
+      "Progressed": 25097,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2388,
+      "Progressed": 2390,
       "Completed": 1376
     }
   ],
@@ -9367,8 +9372,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-10T03:09:07.08614+00:00",
+  "LastChanged_Achievements": "2024-01-10T04:09:21.1718809+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:08.9175912+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:59:19.9754657+00:00",
-  "LastUpdate_Achievements": "2024-01-10T03:09:07.0862356+00:00"
+  "LastUpdate_Ratings": "2024-01-10T03:59:40.7795843+00:00",
+  "LastUpdate_Achievements": "2024-01-10T04:09:21.1719431+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 119624,
+  "EOS_Progressed": 119626,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 725,
+  "EOS_NewPlayers": 727,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -24332,6 +24332,11 @@
       "Time": "2024-01-10T03:10:26.9917471+00:00",
       "NumProgressed": 119624,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-10T04:11:02.8465021+00:00",
+      "NumProgressed": 119626,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 49,
@@ -24351,7 +24356,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 92110
+      "UsersEstimate": 92112
     },
     {
       "ID": "EAwards_10",
@@ -24367,7 +24372,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 32298
+      "UsersEstimate": 32299
     },
     {
       "ID": "EAwards_12",
@@ -24415,7 +24420,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 44261
+      "UsersEstimate": 44262
     },
     {
       "ID": "EAwards_18",
@@ -24431,7 +24436,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7177
+      "UsersEstimate": 7178
     },
     {
       "ID": "EAwards_2",
@@ -24439,7 +24444,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 58616
+      "UsersEstimate": 58617
     },
     {
       "ID": "EAwards_20",
@@ -24463,7 +24468,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7177
+      "UsersEstimate": 7178
     },
     {
       "ID": "EAwards_23",
@@ -24503,7 +24508,7 @@
       "Name": "One down...",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11962
+      "UsersEstimate": 11963
     },
     {
       "ID": "EAwards_28",
@@ -24559,7 +24564,7 @@
       "Name": "Mr. Worldwide",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2392
+      "UsersEstimate": 2393
     },
     {
       "ID": "EAwards_34",
@@ -24583,7 +24588,7 @@
       "Name": "Legend of the Timelines",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2392
+      "UsersEstimate": 2393
     },
     {
       "ID": "EAwards_37",
@@ -24695,7 +24700,7 @@
       "Name": "Prickly Pair",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11962
+      "UsersEstimate": 11963
     },
     {
       "ID": "EAwards_6",
@@ -24734,7 +24739,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 119624,
+      "Progressed": 119626,
       "Completed": 59
     }
   ],
@@ -24742,8 +24747,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-07T23:57:01.9676007+00:00",
-  "LastChanged_Achievements": "2024-01-10T03:10:26.9917468+00:00",
+  "LastChanged_Achievements": "2024-01-10T04:11:02.8465016+00:00",
   "LastUpdate_AppInfo": "2024-01-05T09:57:07.0095771+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:58:38.7572305+00:00",
-  "LastUpdate_Achievements": "2024-01-10T03:10:26.9918956+00:00"
+  "LastUpdate_Ratings": "2024-01-10T03:58:46.0466504+00:00",
+  "LastUpdate_Achievements": "2024-01-10T04:11:02.8466275+00:00"
 }

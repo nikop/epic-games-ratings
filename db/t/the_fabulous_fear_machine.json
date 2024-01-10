@@ -4,7 +4,7 @@
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
   "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -517,9 +517,9 @@
       "ID": "15",
       "SetID": "d37idgg",
       "Name": "Blood Red Island",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "16",
@@ -852,8 +852,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2024-01-10T03:05:17.0996139+00:00",
+  "LastChanged_Achievements": "2024-01-10T04:05:48.9813797+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.4038986+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:59:41.954921+00:00",
-  "LastUpdate_Achievements": "2024-01-10T03:05:17.0996428+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:00:11.1908288+00:00",
+  "LastUpdate_Achievements": "2024-01-10T04:05:48.9814206+00:00"
 }

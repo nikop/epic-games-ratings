@@ -3975,9 +3975,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33500,
+  "EOS_Progressed": 33501,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 340,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -25115,6 +25115,11 @@
       "Time": "2024-01-10T03:09:17.858391+00:00",
       "NumProgressed": 33500,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-10T04:09:34.7490298+00:00",
+      "NumProgressed": 33501,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -25278,7 +25283,7 @@
       "Name": "Ghost Expert",
       "Percentage": 0.3,
       "XP": 75,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "Icing_Cake",
@@ -25533,7 +25538,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33500,
+      "Progressed": 33501,
       "Completed": 71
     }
   ],
@@ -25541,8 +25546,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-10T02:59:29.0166391+00:00",
-  "LastChanged_Achievements": "2024-01-10T03:09:17.8583905+00:00",
+  "LastChanged_Achievements": "2024-01-10T04:09:34.7490295+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.8485347+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:59:29.0166397+00:00",
-  "LastUpdate_Achievements": "2024-01-10T03:09:17.8585372+00:00"
+  "LastUpdate_Ratings": "2024-01-10T03:59:52.9574079+00:00",
+  "LastUpdate_Achievements": "2024-01-10T04:09:34.7491884+00:00"
 }

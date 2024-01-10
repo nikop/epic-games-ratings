@@ -1,23 +1,23 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.82 (Ranked 66)  
+Rating: 4.82 (Ranked 67)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Overgrown Library | 9.00% | ~1,855 |
-| First Real Expedition | 8.00% | ~1,648 |
-| Taking Action | 8.00% | ~1,648 |
-| No Deaths | 8.00% | ~1,648 |
-| Abandoned Settlement | 8.00% | ~1,648 |
-| Petrified Necropolis | 8.00% | ~1,648 |
-| The Marshlands | 7.00% | ~1,442 |
-| Overcoming Difficulty | 6.00% | ~1,236 |
-| Coral Forest | 6.00% | ~1,236 |
-| The Scarlet Orchard | 6.00% | ~1,236 |
-| Ominous Presence | 6.00% | ~1,236 |
-| Gathering Storm | 6.00% | ~1,236 |
+| First Real Expedition | 8.00% | ~1,649 |
+| Taking Action | 8.00% | ~1,649 |
+| No Deaths | 8.00% | ~1,649 |
+| Abandoned Settlement | 8.00% | ~1,649 |
+| Petrified Necropolis | 8.00% | ~1,649 |
+| The Marshlands | 7.00% | ~1,443 |
+| Overcoming Difficulty | 6.00% | ~1,237 |
+| Coral Forest | 6.00% | ~1,237 |
+| The Scarlet Orchard | 6.00% | ~1,237 |
+| Ominous Presence | 6.00% | ~1,237 |
+| Gathering Storm | 6.00% | ~1,237 |
 | Frosts | 5.00% | ~1,030 |
 | Land of Greed | 5.00% | ~1,030 |
 | Homesick | 4.00% | ~824 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,606 (Ranked 154)  
-Completed: 34 (0.17%) (Ranked 282)  
+Progressed: 20,610 (Ranked 154)  
+Completed: 34 (0.16%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -331,7 +331,7 @@ Completed: 34 (0.17%) (Ranked 282)
 | 2024-01-07 | 20,428 | 34 |
 | 2024-01-08 | 20,508 | 34 |
 | 2024-01-09 | 20,595 | 34 |
-| 2024-01-10 | 20,606 | 34 |
+| 2024-01-10 | 20,610 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,364 (Ranked 177)  

@@ -1438,9 +1438,9 @@
       "ID": "KR4_ACHIEVEMENT_BUILD_TOWERS_EASY",
       "SetID": "caeik3h",
       "Name": "We Can Build It!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 251
     },
     {
       "ID": "KR4_ACHIEVEMENT_CALL_EARLY_WAVES",
@@ -1782,9 +1782,9 @@
       "ID": "KR4_ACHIEVEMENT_MOUSETHON",
       "SetID": "caeik3h",
       "Name": "Mouserthon",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 270
     },
     {
       "ID": "KR4_ACHIEVEMENT_OLAF",
@@ -1838,9 +1838,9 @@
       "ID": "KR4_ACHIEVEMENT_PUMPKIN",
       "SetID": "caeik3h",
       "Name": "Smashing Pumpkins",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "KR4_ACHIEVEMENT_ROCKETRIDERS",
@@ -2003,8 +2003,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-10T03:07:13.2286744+00:00",
+  "LastChanged_Achievements": "2024-01-10T04:08:39.3910108+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.7688835+00:00",
-  "LastUpdate_Ratings": "2024-01-10T03:00:23.5444504+00:00",
-  "LastUpdate_Achievements": "2024-01-10T03:07:13.2287479+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:01:07.7466597+00:00",
+  "LastUpdate_Achievements": "2024-01-10T04:08:39.39109+00:00"
 }

@@ -49,7 +49,7 @@ Rating: 4.50 (Ranked 613)
 | Therapeutic | 0.80% | ~268 |
 | Rift Seeker | 0.60% | ~201 |
 | Master Collector | 0.50% | ~168 |
-| Ghost Expert | 0.30% | ~100 |
+| Ghost Expert | 0.30% | ~101 |
 | Catostrophic Destroyer | 0.20% | ~67 |
 | I don't need these | 0.20% | ~67 |
 | Little Help Here | 0.20% | ~67 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 613)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,500 (Ranked 137)  
+Progressed: 33,501 (Ranked 137)  
 Completed: 71 (0.21%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 71 (0.21%) (Ranked 273)
 | 2024-01-07 | 33,430 | 71 |
 | 2024-01-08 | 33,470 | 71 |
 | 2024-01-09 | 33,497 | 71 |
-| 2024-01-10 | 33,500 | 71 |
+| 2024-01-10 | 33,501 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 256)  
 Sum: 2,956 (Ranked 186)  

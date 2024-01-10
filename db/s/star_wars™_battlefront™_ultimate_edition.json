@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2822,
+  "EOS_Progressed": 2825,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 297,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7649,6 +7649,11 @@
       "Time": "2024-01-10T02:34:17.9584713+00:00",
       "NumProgressed": 2822,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T04:11:10.802789+00:00",
+      "NumProgressed": 2825,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7693,15 +7698,15 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "achievement_14",
       "SetID": "271ol84",
       "Name": "Playing the objective",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_15",
@@ -7757,7 +7762,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "achievement_21",
@@ -7853,7 +7858,7 @@
       "Name": "Scrap collector",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "achievement_32",
@@ -7861,7 +7866,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "achievement_33",
@@ -7885,7 +7890,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2430
     },
     {
       "ID": "achievement_36",
@@ -7901,7 +7906,7 @@
       "Name": "Off to a good start",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1723
     },
     {
       "ID": "achievement_38",
@@ -7933,7 +7938,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1469
     },
     {
       "ID": "achievement_41",
@@ -7965,7 +7970,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "achievement_45",
@@ -8141,7 +8146,7 @@
       "Name": "A cunning warrior",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "achievement_8",
@@ -8164,13 +8169,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2822,
+      "Progressed": 2825,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2822,
+      "Progressed": 2825,
       "Completed": 1
     }
   ],
@@ -8178,8 +8183,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-10T03:10:33.6848106+00:00",
+  "LastChanged_Achievements": "2024-01-10T04:11:10.8027886+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:59:32.8814519+00:00",
-  "LastUpdate_Achievements": "2024-01-10T03:10:33.6849183+00:00"
+  "LastUpdate_Ratings": "2024-01-10T03:59:58.8932223+00:00",
+  "LastUpdate_Achievements": "2024-01-10T04:11:10.8028802+00:00"
 }

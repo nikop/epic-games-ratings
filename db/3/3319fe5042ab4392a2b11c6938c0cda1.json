@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 157,
+  "EOS_Progressed": 158,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -694,6 +694,11 @@
       "Time": "2024-01-10T01:53:44.4110492+00:00",
       "NumProgressed": 157,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T04:05:41.8231859+00:00",
+      "NumProgressed": 158,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.6694863+00:00",
@@ -842,7 +847,7 @@
       "Name": "All That Glitters",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -856,9 +861,9 @@
       "ID": "NEW_ACHIEVEMENT_1_26",
       "SetID": "ae95dh3",
       "Name": "Two Faced",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -866,7 +871,7 @@
       "Name": "The Drop",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
@@ -874,7 +879,7 @@
       "Name": "Lockdown",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_29",
@@ -882,7 +887,7 @@
       "Name": "Dust to Dust",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1001,14 +1006,14 @@
     {
       "ID": "ae95dh3",
       "IsBase": true,
-      "Progressed": 157,
+      "Progressed": 158,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-10T03:05:11.509842+00:00",
+  "LastChanged_Achievements": "2024-01-10T04:05:41.8231856+00:00",
   "LastUpdate_AppInfo": "2024-01-03T16:57:23.9346853+00:00",
-  "LastUpdate_Ratings": "2024-01-10T03:00:20.6531175+00:00",
-  "LastUpdate_Achievements": "2024-01-10T03:05:11.5098677+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:01:04.1428002+00:00",
+  "LastUpdate_Achievements": "2024-01-10T04:05:41.8232461+00:00"
 }

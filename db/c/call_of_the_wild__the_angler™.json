@@ -4,7 +4,7 @@
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 953,
   "Ranking_Popularity": 481,
-  "Ranking_PopularitySum": 411,
+  "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 171,
@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8223,
+  "EOS_Progressed": 8224,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13742,6 +13742,11 @@
       "Time": "2024-01-10T03:08:52.5662879+00:00",
       "NumProgressed": 8223,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T04:09:02.8605949+00:00",
+      "NumProgressed": 8224,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13761,7 +13766,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -14072,13 +14077,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8223,
+      "Progressed": 8224,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7595,
+      "Progressed": 7596,
       "Completed": 113
     }
   ],
@@ -14086,8 +14091,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-10T03:08:52.5662878+00:00",
+  "LastChanged_Achievements": "2024-01-10T04:09:02.8605947+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:59:41.3977219+00:00",
-  "LastUpdate_Achievements": "2024-01-10T03:08:52.5663612+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:00:10.4554212+00:00",
+  "LastUpdate_Achievements": "2024-01-10T04:09:02.860687+00:00"
 }

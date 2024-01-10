@@ -4,7 +4,7 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 716,
+  "EOS_Progressed": 717,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2599,6 +2599,11 @@
       "Time": "2024-01-09T23:07:27.5575608+00:00",
       "NumProgressed": 716,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T04:07:34.1081335+00:00",
+      "NumProgressed": 717,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -2657,9 +2662,9 @@
       "ID": "ACH_END_FIRST_MAIL_MISSION",
       "SetID": "al4k4nh",
       "Name": "I love customers",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 558
+      "UsersEstimate": 552
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -2667,7 +2672,7 @@
       "Name": "Ready to go",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
@@ -2675,7 +2680,7 @@
       "Name": "I can fix that",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -2683,7 +2688,7 @@
       "Name": "Gotta go fast",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_FIRST_SHOCK",
@@ -2691,7 +2696,7 @@
       "Name": "First shock",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -2699,7 +2704,7 @@
       "Name": "Illuminator",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_FIX_OUTLETS",
@@ -2707,7 +2712,7 @@
       "Name": "Here comes electricity",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_GET_ALL_MAILS",
@@ -2755,7 +2760,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -2763,7 +2768,7 @@
       "Name": "Huge electricity bill",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_REPAIR_GAME_ITEMS",
@@ -2787,7 +2792,7 @@
       "Name": "Shocker",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_START_CAR",
@@ -2818,14 +2823,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 716,
+      "Progressed": 717,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2024-01-10T03:06:38.7462985+00:00",
+  "LastChanged_Achievements": "2024-01-10T04:07:34.1081333+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:15.1835695+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:58:35.5994831+00:00",
-  "LastUpdate_Achievements": "2024-01-10T03:06:38.7463187+00:00"
+  "LastUpdate_Ratings": "2024-01-10T03:58:41.5908651+00:00",
+  "LastUpdate_Achievements": "2024-01-10T04:07:34.1081618+00:00"
 }

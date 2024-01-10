@@ -6,17 +6,17 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~5,037 |
-| I'll Be Back | 84.00% | ~4,501 |
-| Sorry, I Dropped This | 76.00% | ~4,072 |
-| First Day on the Job | 76.00% | ~4,072 |
-| Butcher's Bill | 54.00% | ~2,893 |
-| P.A.X | 36.00% | ~1,929 |
-| Hey Listen | 36.00% | ~1,929 |
-| OPERATOR | 35.00% | ~1,875 |
-| It's Blue Light | 33.00% | ~1,768 |
-| Most Wanted | 26.00% | ~1,393 |
-| Infidel | 23.00% | ~1,232 |
+| On My Own Two Feet | 94.00% | ~5,038 |
+| I'll Be Back | 84.00% | ~4,502 |
+| Sorry, I Dropped This | 76.00% | ~4,074 |
+| First Day on the Job | 76.00% | ~4,074 |
+| Butcher's Bill | 54.00% | ~2,894 |
+| P.A.X | 36.00% | ~1,930 |
+| Hey Listen | 36.00% | ~1,930 |
+| OPERATOR | 35.00% | ~1,876 |
+| It's Blue Light | 33.00% | ~1,769 |
+| Most Wanted | 26.00% | ~1,394 |
+| Infidel | 23.00% | ~1,233 |
 | Firebug | 20.00% | ~1,072 |
 | GOLIATH | 20.00% | ~1,072 |
 | I Choose You | 17.00% | ~911 |
@@ -27,9 +27,9 @@ Number of Ratings: 62  (23.09.2022)
 | The Black Cerberus | 12.00% | ~643 |
 | Watchman | 12.00% | ~643 |
 | Core Power | 12.00% | ~643 |
-| CREO Killed the Video Star | 11.00% | ~589 |
-| Who's in Charge Here? | 11.00% | ~589 |
-| Shall Not Pass | 11.00% | ~589 |
+| CREO Killed the Video Star | 11.00% | ~590 |
+| Who's in Charge Here? | 11.00% | ~590 |
+| Shall Not Pass | 11.00% | ~590 |
 | Right Tool for the Job | 10.00% | ~536 |
 | Raging Drones | 9.00% | ~482 |
 | Overconfident | 9.00% | ~482 |
@@ -42,8 +42,8 @@ Number of Ratings: 62  (23.09.2022)
 | Follow the White Rabbit | 7.00% | ~375 |
 | Liberation | 7.00% | ~375 |
 | Risk Assessment | 7.00% | ~375 |
-| Sunglasses at Night | 6.00% | ~321 |
-| Carbon Cat | 6.00% | ~321 |
+| Sunglasses at Night | 6.00% | ~322 |
+| Carbon Cat | 6.00% | ~322 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~268 |
 | Man of Steel | 5.00% | ~268 |
 | Jack of All Trades | 5.00% | ~268 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~32 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,358 (Ranked 203)  
+Progressed: 5,360 (Ranked 203)  
 Completed: 18 (0.34%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,6 +296,7 @@ Completed: 18 (0.34%) (Ranked 245)
 | 2024-01-07 | 5,326 | 18 |
 | 2024-01-08 | 5,343 | 18 |
 | 2024-01-09 | 5,358 | 18 |
+| 2024-01-10 | 5,360 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 522)  
 Sum: 30 (Ranked 542)  

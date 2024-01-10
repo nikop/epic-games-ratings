@@ -4,7 +4,7 @@
   "ProductSlug": "gangs-of-sherwood",
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_NewPlayers": 428,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118,
+  "EOS_Progressed": 119,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -505,6 +505,11 @@
       "Time": "2024-01-08T01:57:14.6413327+00:00",
       "NumProgressed": 118,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T04:09:00.0807619+00:00",
+      "NumProgressed": 119,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-21T10:10:18.7530566+00:00",
@@ -515,17 +520,17 @@
       "ID": "ACH_100_ARROW",
       "SetID": "5akmpni",
       "Name": "Starry Night",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_100_CHARGE",
       "SetID": "5akmpni",
       "Name": "Ascending Will",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_100_FLUX",
@@ -565,7 +570,7 @@
       "Name": "Air Fighter",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_ALL_CHALENGES",
@@ -651,9 +656,9 @@
       "ID": "ACH_COOP_MISSIONS",
       "SetID": "5akmpni",
       "Name": "Merry Co-operation",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_ENCOUNTER_S_RANK",
@@ -669,15 +674,15 @@
       "Name": "Tap Dancing",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_ENEMY_LEDGE_FALL",
       "SetID": "5akmpni",
       "Name": "Watch your Step!",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_ENEMY_LEDGE_THROW",
@@ -699,9 +704,9 @@
       "ID": "ACH_EQUIP_ARTIFACT",
       "SetID": "5akmpni",
       "Name": "Treasure Hunter",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_EVO_MOMENT_37",
@@ -725,7 +730,7 @@
       "Name": "Act of Kindness",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_GRAPPLE_ENEMY",
@@ -763,9 +768,9 @@
       "ID": "ACH_KILL_GISBORNE",
       "SetID": "5akmpni",
       "Name": "Locksley\u0027s Tears",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_KILL_KIRKLEES",
@@ -789,7 +794,7 @@
       "Name": "Assault on the Ram",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_KILL_SHERIFF",
@@ -827,7 +832,7 @@
       "ID": "ACH_MONEY_TO_POOR",
       "SetID": "5akmpni",
       "Name": "The Altruist",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 20,
       "UsersEstimate": 74
     },
@@ -853,7 +858,7 @@
       "Name": "Haute Couture",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_REBEL_ABILITY",
@@ -875,7 +880,7 @@
       "ID": "ACH_REPUTATION_LVL_4",
       "SetID": "5akmpni",
       "Name": "MAX LEVEL",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 60
     },
@@ -893,7 +898,7 @@
       "Name": "Merry Go Round",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_UNLOCK_ALL_GEARS",
@@ -940,14 +945,14 @@
     {
       "ID": "5akmpni",
       "IsBase": true,
-      "Progressed": 118,
+      "Progressed": 119,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2024-01-10T03:08:50.3049532+00:00",
+  "LastChanged_Achievements": "2024-01-10T04:09:00.0807616+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0155882+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:58:11.3442234+00:00",
-  "LastUpdate_Achievements": "2024-01-10T03:08:50.3050011+00:00"
+  "LastUpdate_Ratings": "2024-01-10T03:58:09.7020963+00:00",
+  "LastUpdate_Achievements": "2024-01-10T04:09:00.0808162+00:00"
 }

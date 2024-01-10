@@ -4,10 +4,10 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 378,
   "Ranking_Popularity": 481,
-  "Ranking_PopularitySum": 410,
+  "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -691,10 +691,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 215,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2024-01-10T03:57:48.4071728+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 216,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 215,
+  "NumberOfAwards": 216,
   "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -714,7 +720,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game is Highly Recommended",
@@ -747,9 +753,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7138,
+  "EOS_Progressed": 7140,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10917,6 +10923,11 @@
       "Time": "2024-01-10T02:29:54.3315705+00:00",
       "NumProgressed": 7138,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-10T04:07:17.5891891+00:00",
+      "NumProgressed": 7140,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -11048,7 +11059,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "24",
@@ -11056,7 +11067,7 @@
       "Name": "Secret Technique",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "25",
@@ -11120,7 +11131,7 @@
       "Name": "Magical Synergy",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "32",
@@ -11407,22 +11418,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7138,
+      "Progressed": 7140,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7138,
+      "Progressed": 7140,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2024-01-09T16:57:46.579132+00:00",
-  "LastChanged_Achievements": "2024-01-10T03:06:25.8284981+00:00",
+  "LastChanged": "2024-01-10T03:57:48.4071726+00:00",
+  "LastChanged_Achievements": "2024-01-10T04:07:17.5891889+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:57:55.0532291+00:00",
-  "LastUpdate_Achievements": "2024-01-10T03:06:25.8285855+00:00"
+  "LastUpdate_Ratings": "2024-01-10T03:57:48.407173+00:00",
+  "LastUpdate_Achievements": "2024-01-10T04:07:17.589293+00:00"
 }

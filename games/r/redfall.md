@@ -5,14 +5,14 @@ Rating: 3.68 (Ranked 1,093)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 21.00% | ~490 |
+| I Like My Stakes Rare! | 21.00% | ~491 |
 | Catch and Release | 16.00% | ~374 |
-| Home Is Where the Heart Is | 15.00% | ~350 |
+| Home Is Where the Heart Is | 15.00% | ~351 |
 | ICU | 14.00% | ~327 |
 | Wounded Whispers | 14.00% | ~327 |
-| Blood Will Have Blood | 12.00% | ~280 |
-| Ne Plus Ultra | 12.00% | ~280 |
-| Peek-a-boo | 12.00% | ~280 |
+| Blood Will Have Blood | 12.00% | ~281 |
+| Ne Plus Ultra | 12.00% | ~281 |
+| Peek-a-boo | 12.00% | ~281 |
 | Fly Fisher | 11.00% | ~257 |
 | Sucks To Be You | 11.00% | ~257 |
 | Throw The First Stone | 10.00% | ~234 |
@@ -21,10 +21,10 @@ Rating: 3.68 (Ranked 1,093)
 | Heart Attack | 9.00% | ~210 |
 | Grounded | 8.00% | ~187 |
 | Skin of Their Teeth | 8.00% | ~187 |
+| Neighborhood Revitalization | 6.00% | ~140 |
 | Bad Wiring | 6.00% | ~140 |
-| Neighborhood Revitalization | 5.00% | ~117 |
-| Radio Silence | 5.00% | ~117 |
-| I Spit On Your Grave | 4.00% | ~93 |
+| Radio Silence | 6.00% | ~140 |
+| I Spit On Your Grave | 4.00% | ~94 |
 | Sic Transit Umbra | 3.00% | ~70 |
 | Bell-ringer | 3.00% | ~70 |
 | Silence Is Golden | 3.00% | ~70 |
@@ -46,10 +46,10 @@ Rating: 3.68 (Ranked 1,093)
 | Bloody Initiate | 0.90% | ~21 |
 | Neighborhood Watch | 0.80% | ~19 |
 | Empty Nest Syndrome | 0.80% | ~19 |
+| Scream Team | 0.70% | ~16 |
 | What Lies Below | 0.70% | ~16 |
 | Dexterity Save | 0.70% | ~16 |
 | Good Samaritan | 0.70% | ~16 |
-| Scream Team | 0.60% | ~14 |
 | Sisterhood | 0.60% | ~14 |
 | Under a Bushel | 0.60% | ~14 |
 | Monster Hunters Club | 0.50% | ~12 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,093)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,335 (Ranked 240)  
+Progressed: 2,338 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 2,301 | 0 |
 | 2024-01-08 | 2,317 | 0 |
 | 2024-01-09 | 2,331 | 0 |
-| 2024-01-10 | 2,335 | 0 |
+| 2024-01-10 | 2,338 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 555)  
 Sum: 24 (Ranked 562)  

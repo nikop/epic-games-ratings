@@ -16,7 +16,7 @@
 | Fly the friendly Sky | 43.00% | ~58 |
 | Get out of here! | 41.00% | ~55 |
 | Necromancer's Apprentice | 37.00% | ~50 |
-| Alchemist's Apprentice | 35.00% | ~47 |
+| Alchemist's Apprentice | 36.00% | ~48 |
 | Friend of Lyraine | 34.00% | ~46 |
 | Redecorating | 31.00% | ~42 |
 | The Circle | 31.00% | ~42 |

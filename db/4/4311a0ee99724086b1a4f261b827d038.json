@@ -3,8 +3,8 @@
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 526,
-  "Ranking_Popularity": 497,
-  "Ranking_PopularitySum": 409,
+  "Ranking_Popularity": 498,
+  "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 99,
@@ -801,10 +801,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 227,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2024-01-10T03:59:20.668923+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 207,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 227,
+  "NumberOfAwards": 207,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -875,9 +881,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 242404,
+  "EOS_Progressed": 242406,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1275,
+  "EOS_NewPlayers": 1268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20685,6 +20691,11 @@
       "Time": "2024-01-10T03:10:23.5578174+00:00",
       "NumProgressed": 242404,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T04:10:58.7307191+00:00",
+      "NumProgressed": 242406,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -20761,7 +20772,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21816
+      "UsersEstimate": 21817
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -20953,7 +20964,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60601
+      "UsersEstimate": 60602
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -20968,16 +20979,16 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 242404,
+      "Progressed": 242406,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2024-01-09T18:59:08.9714659+00:00",
-  "LastChanged_Achievements": "2024-01-10T03:10:23.5578171+00:00",
+  "LastChanged": "2024-01-10T03:59:20.6689228+00:00",
+  "LastChanged_Achievements": "2024-01-10T04:10:58.7307188+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:19.696761+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:59:04.7811733+00:00",
-  "LastUpdate_Achievements": "2024-01-10T03:10:23.5579133+00:00"
+  "LastUpdate_Ratings": "2024-01-10T03:59:20.6689233+00:00",
+  "LastUpdate_Achievements": "2024-01-10T04:10:58.7308551+00:00"
 }

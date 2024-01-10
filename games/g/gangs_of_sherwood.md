@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 87.00% | ~103 |
-| Air Fighter | 72.00% | ~85 |
+| Act of Kindness | 87.00% | ~104 |
+| Air Fighter | 72.00% | ~86 |
 | Oo-De-Lally | 71.00% | ~84 |
-| Treasure Hunter | 64.00% | ~76 |
-| The Altruist | 63.00% | ~74 |
-| Watch your Step! | 53.00% | ~63 |
-| MAX LEVEL | 51.00% | ~60 |
-| Tap Dancing | 50.00% | ~59 |
+| Treasure Hunter | 63.00% | ~75 |
+| The Altruist | 62.00% | ~74 |
+| Watch your Step! | 52.00% | ~62 |
+| Tap Dancing | 50.00% | ~60 |
+| MAX LEVEL | 50.00% | ~60 |
 | Right between the eyes | 39.00% | ~46 |
-| Starry Night | 37.00% | ~44 |
+| Starry Night | 38.00% | ~45 |
 | Spring Board | 37.00% | ~44 |
-| Locksley's Tears | 35.00% | ~41 |
+| Locksley's Tears | 34.00% | ~40 |
 | Rebel Unleashed | 34.00% | ~40 |
-| Merry Co-operation | 31.00% | ~37 |
-| Assault on the Ram | 24.00% | ~28 |
+| Merry Co-operation | 30.00% | ~36 |
+| Assault on the Ram | 24.00% | ~29 |
 | Finish Him! | 23.00% | ~27 |
 | First Aid | 21.00% | ~25 |
 | Ultra Rebel Instinct | 20.00% | ~24 |
-| Merry Go Round | 19.00% | ~22 |
+| Merry Go Round | 19.00% | ~23 |
 | Savior | 17.00% | ~20 |
 | Hidden Experiment | 15.00% | ~18 |
 | Take Action! | 15.00% | ~18 |
-| Ascending Will | 14.00% | ~17 |
 | Ultra Combo | 14.00% | ~17 |
+| Ascending Will | 13.00% | ~15 |
 | Into the Lion's Den | 11.00% | ~13 |
 | Sky High Fighter | 9.00% | ~11 |
-| Haute Couture | 8.00% | ~9 |
+| Haute Couture | 8.00% | ~10 |
 | The Gang prevails | 7.00% | ~8 |
 | Brilliant Executioner | 5.00% | ~6 |
 | Bold and Bossy | 4.00% | ~5 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118 (Ranked 481)  
+Progressed: 119 (Ranked 481)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,3 +103,4 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 114 | 0 |
 | 2024-01-07 | 116 | 0 |
 | 2024-01-08 | 118 | 0 |
+| 2024-01-10 | 119 | 0 |

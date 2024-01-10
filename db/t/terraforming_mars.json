@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -3541,9 +3541,9 @@
       "Count": 262
     }
   ],
-  "EOS_Progressed": 89965,
+  "EOS_Progressed": 89967,
   "EOS_Completed": 183,
-  "EOS_NewPlayers": 1067,
+  "EOS_NewPlayers": 1066,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -33171,6 +33171,11 @@
       "Time": "2024-01-10T03:05:13.7596824+00:00",
       "NumProgressed": 89965,
       "NumCompleted": 183
+    },
+    {
+      "Time": "2024-01-10T04:05:44.6599551+00:00",
+      "NumProgressed": 89967,
+      "NumCompleted": 183
     }
   ],
   "TotalAchievements": 30,
@@ -33230,7 +33235,7 @@
       "Name": "Biggest Reward",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 11695
+      "UsersEstimate": 11696
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -33254,7 +33259,7 @@
       "Name": "Project Manager",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 17093
+      "UsersEstimate": 17094
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -33262,7 +33267,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 33287
+      "UsersEstimate": 33288
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -33270,7 +33275,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 25190
+      "UsersEstimate": 25191
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -33286,7 +33291,7 @@
       "Name": "Spirit",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 8996
+      "UsersEstimate": 8997
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -33326,7 +33331,7 @@
       "Name": "Collector",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 17093
+      "UsersEstimate": 17094
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -33358,7 +33363,7 @@
       "Name": "Final touch",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 30588
+      "UsersEstimate": 30589
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -33421,15 +33426,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 89965,
+      "Progressed": 89967,
       "Completed": 183
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2024-01-09T22:02:43.9519959+00:00",
-  "LastChanged_Achievements": "2024-01-10T03:05:13.7596821+00:00",
+  "LastChanged_Achievements": "2024-01-10T04:05:44.6599547+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.1589708+00:00",
-  "LastUpdate_Ratings": "2024-01-10T03:03:02.2858616+00:00",
-  "LastUpdate_Achievements": "2024-01-10T03:05:13.759835+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:02:51.4899831+00:00",
+  "LastUpdate_Achievements": "2024-01-10T04:05:44.6601184+00:00"
 }

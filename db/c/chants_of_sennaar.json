@@ -127,11 +127,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2634,
-  "EOS_Completed": 187,
-  "EOS_NewPlayers": 381,
-  "EOS_NewCompleters": 46,
-  "EOS_Completed_Percentage": 7.1,
+  "EOS_Progressed": 2635,
+  "EOS_Completed": 188,
+  "EOS_NewPlayers": 382,
+  "EOS_NewCompleters": 47,
+  "EOS_Completed_Percentage": 7.13,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -6912,6 +6912,11 @@
       "Time": "2024-01-10T03:03:53.0983138+00:00",
       "NumProgressed": 2634,
       "NumCompleted": 187
+    },
+    {
+      "Time": "2024-01-10T04:04:00.167097+00:00",
+      "NumProgressed": 2635,
+      "NumCompleted": 188
     }
   ],
   "TotalAchievements": 25,
@@ -6931,7 +6936,7 @@
       "Name": "In this together",
       "Percentage": 25,
       "XP": 200,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "META_ALL_LINK",
@@ -6971,7 +6976,7 @@
       "Name": "Open door",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "META_RESULT_1-3",
@@ -6979,7 +6984,7 @@
       "Name": "Free at last",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "META_RESULT_1-4",
@@ -6987,7 +6992,7 @@
       "Name": "Feels like springtime",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "META_RESULT_2-3",
@@ -7009,9 +7014,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 448
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -7059,7 +7064,7 @@
       "Name": "Champollion",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -7067,7 +7072,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1581
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7075,7 +7080,7 @@
       "Name": "Scholar",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "PROGRESS_N1",
@@ -7083,7 +7088,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "PROGRESS_N2",
@@ -7122,16 +7127,16 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2634,
-      "Completed": 187
+      "Progressed": 2635,
+      "Completed": 188
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-10T03:03:53.0983134+00:00",
+  "LastChanged_Achievements": "2024-01-10T04:04:00.1670969+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:59:55.7008187+00:00",
-  "LastUpdate_Achievements": "2024-01-10T03:03:53.098365+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:00:30.3397193+00:00",
+  "LastUpdate_Achievements": "2024-01-10T04:04:00.1671437+00:00"
 }

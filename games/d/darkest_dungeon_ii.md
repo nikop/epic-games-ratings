@@ -15,17 +15,17 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 6.00% | ~7,940 |
 | Escape from the Black Hole | 6.00% | ~7,940 |
 | Ploughshares to Swords | 6.00% | ~432 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,616 |
-| Serenity Now! | 5.00% | ~6,616 |
-| It Rings a Bell | 5.00% | ~6,616 |
-| Not Today! | 5.00% | ~6,616 |
-| Meat and Greet | 5.00% | ~6,616 |
-| Catch and Decease | 5.00% | ~6,616 |
-| It Happens | 5.00% | ~6,616 |
-| Rush Hour | 5.00% | ~6,616 |
-| To Grandmother's House | 5.00% | ~6,616 |
-| A Place to Lay Your Head | 5.00% | ~6,616 |
-| FNG | 5.00% | ~6,616 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,617 |
+| Serenity Now! | 5.00% | ~6,617 |
+| It Rings a Bell | 5.00% | ~6,617 |
+| Not Today! | 5.00% | ~6,617 |
+| Meat and Greet | 5.00% | ~6,617 |
+| Catch and Decease | 5.00% | ~6,617 |
+| It Happens | 5.00% | ~6,617 |
+| Rush Hour | 5.00% | ~6,617 |
+| To Grandmother's House | 5.00% | ~6,617 |
+| A Place to Lay Your Head | 5.00% | ~6,617 |
+| FNG | 5.00% | ~6,617 |
 | Bloody Graduation | 5.00% | ~360 |
 | Spelunker | 4.00% | ~5,293 |
 | Merry Time | 4.00% | ~5,293 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,329 (Ranked 91)  
+Progressed: 132,334 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 3 (0.00%) (Ranked 395)
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
 | 2024-01-09 | 132,315 | 3 |
-| 2024-01-10 | 132,329 | 3 |
+| 2024-01-10 | 132,334 | 3 |
 ## Awards
 Max (Character Customization): 7,992  (Ranked 50)  
 Sum: 21,564 (Ranked 58)  

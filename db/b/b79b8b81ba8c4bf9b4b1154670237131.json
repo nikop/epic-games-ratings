@@ -5,9 +5,9 @@
   "Ranking_Rating": 866,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 166,
+  "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16562,
+  "EOS_Progressed": 16563,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6310,6 +6310,11 @@
       "Time": "2024-01-10T03:09:56.6815341+00:00",
       "NumProgressed": 16562,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-10T04:10:24.3334681+00:00",
+      "NumProgressed": 16563,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6362,7 +6367,7 @@
       "Name": "Sticky Situation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3312
+      "UsersEstimate": 3313
     },
     {
       "ID": "ACH_AE_15",
@@ -6394,7 +6399,7 @@
       "Name": "Crime Fighter",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "ACH_AE_19",
@@ -6554,7 +6559,7 @@
       "Name": "The Bomb",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1987
+      "UsersEstimate": 1988
     },
     {
       "ID": "ACH_AE_5",
@@ -6562,7 +6567,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1987
+      "UsersEstimate": 1988
     },
     {
       "ID": "ACH_AE_6",
@@ -6601,7 +6606,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16562,
+      "Progressed": 16563,
       "Completed": 15
     }
   ],
@@ -6609,8 +6614,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-06T19:57:04.811996+00:00",
-  "LastChanged_Achievements": "2024-01-10T03:09:56.6815337+00:00",
+  "LastChanged_Achievements": "2024-01-10T04:10:24.3334678+00:00",
   "LastUpdate_AppInfo": "2024-01-09T19:56:59.6965527+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:59:06.3032115+00:00",
-  "LastUpdate_Achievements": "2024-01-10T03:09:56.6816027+00:00"
+  "LastUpdate_Ratings": "2024-01-10T03:59:22.7391701+00:00",
+  "LastUpdate_Achievements": "2024-01-10T04:10:24.3335303+00:00"
 }

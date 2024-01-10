@@ -6,11 +6,11 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~315,138 |
+| Dealmaker | 73.00% | ~315,139 |
 | Full garage | 61.00% | ~263,335 |
 | To the eyeballs! | 51.00% | ~220,165 |
-| Individual delivery | 47.00% | ~202,897 |
-| Non-Stop | 45.00% | ~194,263 |
+| Individual delivery | 47.00% | ~202,898 |
+| Non-Stop | 45.00% | ~194,264 |
 | Juggler | 36.00% | ~155,411 |
 | Forgot something | 35.00% | ~151,094 |
 | Close call! | 30.00% | ~129,509 |
@@ -22,10 +22,10 @@ Number of Ratings: 87  (23.09.2022)
 | Just in time! | 18.00% | ~77,705 |
 | Builder | 17.00% | ~73,388 |
 | Long Haul | 17.00% | ~73,276 |
-| Steam Age | 16.00% | ~69,071 |
-| Multilevel road | 15.00% | ~64,754 |
-| Bridgemania | 14.00% | ~60,437 |
-| Need to think | 14.00% | ~60,437 |
+| Steam Age | 16.00% | ~69,072 |
+| Multilevel road | 15.00% | ~64,755 |
+| Bridgemania | 14.00% | ~60,438 |
+| Need to think | 14.00% | ~60,438 |
 | The Tortoise | 12.00% | ~51,804 |
 | Beginner | 11.00% | ~47,487 |
 | Without a lunch break | 11.00% | ~47,487 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~431 |
 | World Zapper | 0.10% | ~431 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 431,696 (Ranked 46)  
+Progressed: 431,697 (Ranked 46)  
 Completed: 24 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 24 (0.01%) (Ranked 372)
 | 2024-01-07 | 431,203 | 24 |
 | 2024-01-08 | 431,437 | 24 |
 | 2024-01-09 | 431,664 | 24 |
-| 2024-01-10 | 431,696 | 24 |
+| 2024-01-10 | 431,697 | 24 |
 ## Awards
 Max (Challenging Puzzles): 1,046  (Ranked 160)  
 Sum: 2,152 (Ranked 215)  

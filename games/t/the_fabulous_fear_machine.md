@@ -31,7 +31,7 @@
 | Blessed antennas | 13.00% | ~12 |
 | Pulp! The Beyond | 12.00% | ~11 |
 | The beast in the Oval Office | 11.00% | ~10 |
-| Blood Red Island | 10.00% | ~9 |
+| Blood Red Island | 11.00% | ~10 |
 | Bread and bocaua | 10.00% | ~9 |
 | Fanatacism is... poisonous | 10.00% | ~9 |
 | Pulp! True Adventures | 10.00% | ~9 |

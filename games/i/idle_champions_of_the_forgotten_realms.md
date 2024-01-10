@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,123 |
+| A Brief Tour of the Realms | 4.00% | ~10,124 |
 | The Cursed Farmer | 2.00% | ~5,062 |
 | Beast Intentions | 1.00% | ~2,531 |
 | The Mad Wizard | 1.00% | ~2,531 |
@@ -16,8 +16,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.70% | ~1,772 |
 | Seeking Allies | 0.70% | ~1,772 |
 | Friendly Imps | 0.70% | ~1,772 |
-| Mad Cow Disease | 0.60% | ~1,518 |
-| Pure Energy | 0.60% | ~1,518 |
+| Mad Cow Disease | 0.60% | ~1,519 |
+| Pure Energy | 0.60% | ~1,519 |
 | Fast Food | 0.60% | ~1,316 |
 | A Persistent Buzzing | 0.50% | ~1,265 |
 | Terror in the Dark | 0.50% | ~1,265 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,082 (Ranked 70)  
+Progressed: 253,095 (Ranked 70)  
 Completed: 2,608 (1.03%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -818,16 +818,16 @@ Completed: 2,608 (1.03%) (Ranked 174)
 | 2024-01-07 | 252,516 | 2,599 |
 | 2024-01-08 | 252,794 | 2,602 |
 | 2024-01-09 | 253,044 | 2,606 |
-| 2024-01-10 | 253,082 | 2,608 |
+| 2024-01-10 | 253,095 | 2,608 |
 ## Awards
 Max (Great for Beginners): 5,768  (Ranked 74)  
-Sum: 33,417 (Ranked 41)  
+Sum: 33,419 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,768 |
 | This game has Diverse Characters | 5,708 |
-| This game has Quickly Understood Controls | 4,901 |
+| This game has Quickly Understood Controls | 4,903 |
 | This game is Relaxing | 4,771 |
 | This game has Amazing Characters | 4,323 |
 | This game is Highly Recommended | 4,312 |
@@ -1184,3 +1184,4 @@ Diff (max vs sum): 33
 | 2024-01-07 | 4.06 | - | 5,756 | 33,386 |
 | 2024-01-08 | 4.06 | - | 5,763 | 33,403 |
 | 2024-01-09 | 4.06 | - | 5,768 | 33,417 |
+| 2024-01-10 | 4.06 | - | 5,768 | 33,419 |

@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 520,
+  "EOS_Progressed": 521,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 9.62,
+  "EOS_Completed_Percentage": 9.6,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -2444,6 +2444,11 @@
       "Time": "2024-01-09T23:09:27.2284099+00:00",
       "NumProgressed": 520,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2024-01-10T04:09:45.06341+00:00",
+      "NumProgressed": 521,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 6,
@@ -2461,9 +2466,9 @@
       "ID": "CgkIgaGB2J0LEAIQAQ",
       "SetID": "4ocea6d",
       "Name": "File-cutter",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 165,
-      "UsersEstimate": 328
+      "UsersEstimate": 333
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -2471,15 +2476,15 @@
       "Name": "Viola Organista",
       "Percentage": 47,
       "XP": 165,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
       "SetID": "4ocea6d",
       "Name": "Scythed Chariot",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 165,
-      "UsersEstimate": 156
+      "UsersEstimate": 162
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -2502,14 +2507,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 520,
+      "Progressed": 521,
       "Completed": 50
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2024-01-10T03:09:26.2341864+00:00",
+  "LastChanged_Achievements": "2024-01-10T04:09:45.0634096+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:10.7268546+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:59:51.1914445+00:00",
-  "LastUpdate_Achievements": "2024-01-10T03:09:26.2342038+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:00:23.8292412+00:00",
+  "LastUpdate_Achievements": "2024-01-10T04:09:45.0634324+00:00"
 }

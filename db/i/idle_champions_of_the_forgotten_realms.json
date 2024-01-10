@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9377,10 +9377,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33417,
       "NumberOfAwardsMax": 5768
+    },
+    {
+      "Time": "2024-01-10T03:58:24.3745978+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33419,
+      "NumberOfAwardsMax": 5768
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33417,
+  "NumberOfAwards": 33419,
   "NumberOfAwardsMax": 5768,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9400,7 +9406,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4901
+      "Count": 4903
     },
     {
       "Text": "This game is Relaxing",
@@ -9427,10 +9433,10 @@
       "Count": 3634
     }
   ],
-  "EOS_Progressed": 253082,
+  "EOS_Progressed": 253095,
   "EOS_Completed": 2608,
-  "EOS_NewPlayers": 2948,
-  "EOS_NewCompleters": 23,
+  "EOS_NewPlayers": 2941,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -39422,6 +39428,11 @@
       "Time": "2024-01-10T03:10:38.8938091+00:00",
       "NumProgressed": 253082,
       "NumCompleted": 2608
+    },
+    {
+      "Time": "2024-01-10T04:11:16.1386594+00:00",
+      "NumProgressed": 253095,
+      "NumCompleted": 2608
     }
   ],
   "TotalAchievements": 546,
@@ -39433,7 +39444,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10123
+      "UsersEstimate": 10124
     },
     {
       "ID": "objective_completed_10",
@@ -41569,7 +41580,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "objective_completed_54",
@@ -43177,7 +43188,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "objective_completed_902",
@@ -43800,21 +43811,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219356,
+      "Progressed": 219369,
       "Completed": 4146
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253082,
+      "Progressed": 253095,
       "Completed": 2608
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-09T15:58:29.6536775+00:00",
-  "LastChanged_Achievements": "2024-01-10T03:10:38.8938088+00:00",
+  "LastChanged": "2024-01-10T03:58:24.3745976+00:00",
+  "LastChanged_Achievements": "2024-01-10T04:11:16.138659+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:58:23.2708687+00:00",
-  "LastUpdate_Achievements": "2024-01-10T03:10:38.8963041+00:00"
+  "LastUpdate_Ratings": "2024-01-10T03:58:24.3745982+00:00",
+  "LastUpdate_Achievements": "2024-01-10T04:11:16.1410803+00:00"
 }

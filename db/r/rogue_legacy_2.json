@@ -1590,7 +1590,7 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 28106,
+  "EOS_Progressed": 28110,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 567,
   "EOS_NewCompleters": 0,
@@ -13650,6 +13650,11 @@
       "Time": "2024-01-10T03:10:21.9130281+00:00",
       "NumProgressed": 28106,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-10T04:10:56.7086071+00:00",
+      "NumProgressed": 28110,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -13725,7 +13730,7 @@
       "Name": "Captain and Crew",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -13741,7 +13746,7 @@
       "Name": "Spells and Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1686
+      "UsersEstimate": 1687
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -13853,7 +13858,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "EndTimerFail",
@@ -13972,21 +13977,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 28106,
+      "Progressed": 28110,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 7036,
+      "Progressed": 7040,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-09T06:57:19.694078+00:00",
-  "LastChanged_Achievements": "2024-01-10T03:10:21.9130278+00:00",
+  "LastChanged_Achievements": "2024-01-10T04:10:56.7086063+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:16.4635805+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:57:44.764932+00:00",
-  "LastUpdate_Achievements": "2024-01-10T03:10:21.9130978+00:00"
+  "LastUpdate_Ratings": "2024-01-10T03:57:34.9135289+00:00",
+  "LastUpdate_Achievements": "2024-01-10T04:10:56.7087132+00:00"
 }

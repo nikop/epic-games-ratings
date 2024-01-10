@@ -415,9 +415,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1696,
+  "EOS_Progressed": 1698,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4485,6 +4485,11 @@
       "Time": "2024-01-10T02:34:08.5618782+00:00",
       "NumProgressed": 1696,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T04:10:59.185153+00:00",
+      "NumProgressed": 1698,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4544,7 +4549,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -4552,7 +4557,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1681
     },
     {
       "ID": "EXPERT_1",
@@ -4566,9 +4571,9 @@
       "ID": "EXPLORER_1",
       "SetID": "bf13m8j",
       "Name": "Explorer",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 255
     },
     {
       "ID": "GHOSTBUSTER",
@@ -4584,7 +4589,7 @@
       "Name": "Grave Robber",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "HEAD_BURST_1",
@@ -4592,7 +4597,7 @@
       "Name": "Head Burst",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "INDY_1",
@@ -4672,7 +4677,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "PRIVATE_EYE",
@@ -4752,7 +4757,7 @@
       "Name": "Traveler",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "VVE",
@@ -4783,15 +4788,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1696,
+      "Progressed": 1698,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-07T01:53:39.5717953+00:00",
-  "LastChanged_Achievements": "2024-01-10T03:10:23.7938918+00:00",
+  "LastChanged_Achievements": "2024-01-10T04:10:59.1851527+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-10T03:00:39.9436698+00:00",
-  "LastUpdate_Achievements": "2024-01-10T03:10:23.7939276+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:01:30.3275459+00:00",
+  "LastUpdate_Achievements": "2024-01-10T04:10:59.1851982+00:00"
 }

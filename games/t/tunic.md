@@ -1,15 +1,15 @@
 # TUNIC
 [Store](https://store.epicgames.com/en-US/p/tunic)  
 [View Rawdata](../../db/t/tunic.json)  
-Rating: 4.82 (Ranked 66)  
+Rating: 4.83 (Ranked 56)  
 Number of Ratings: 100  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 36  (Ranked 497)  
-Sum: 36 (Ranked 530)  
-Diff (max vs sum): -33  
+Max (Great Boss Battles): 37  (Ranked 496)  
+Sum: 37 (Ranked 530)  
+Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 36 |
+| This game has Great Boss Battles | 37 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -55,3 +55,4 @@ Diff (max vs sum): -33
 | 2023-09-17 | 4.83 | - | 35 | 35 |
 | 2023-12-30 | 4.83 | - | 36 | 36 |
 | 2024-01-09 | 4.82 | - | 36 | 36 |
+| 2024-01-10 | 4.83 | - | 37 | 37 |

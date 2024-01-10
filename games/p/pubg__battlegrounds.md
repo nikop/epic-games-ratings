@@ -7,9 +7,9 @@ Rating: 3.98 (Ranked 1,052)
 | ---- | ---------- | ----- |
 | Blood on My Hands | 71.00% | ~617,806 |
 | Health Junkie | 38.00% | ~330,657 |
-| You Complete Me | 37.00% | ~321,955 |
+| You Complete Me | 37.00% | ~321,956 |
 | Guardian Angel | 32.00% | ~278,448 |
-| Devil Inside Me | 25.00% | ~217,537 |
+| Devil Inside Me | 25.00% | ~217,538 |
 | Fantastic Four | 19.00% | ~165,328 |
 | Killing Spree | 18.00% | ~156,627 |
 | Marksman Novice | 16.00% | ~139,224 |
@@ -17,10 +17,10 @@ Rating: 3.98 (Ranked 1,052)
 | Top 10 | 11.00% | ~95,716 |
 | Now You See Me, Now You Don't | 10.00% | ~87,015 |
 | Marksman Expert | 8.00% | ~69,612 |
-| CQB Novice | 7.00% | ~60,910 |
+| CQB Novice | 7.00% | ~60,911 |
 | Collateral Damage | 6.00% | ~52,209 |
-| Airborne | 5.00% | ~43,507 |
-| Pacifist | 5.00% | ~43,507 |
+| Airborne | 5.00% | ~43,508 |
+| Pacifist | 5.00% | ~43,508 |
 | Last Survivor | 4.00% | ~34,806 |
 | Marksman Master | 3.00% | ~26,104 |
 | Trigonometry Novice | 3.00% | ~26,104 |
@@ -32,9 +32,9 @@ Rating: 3.98 (Ranked 1,052)
 | Don't Pan Me Bro! | 2.00% | ~17,403 |
 | Fast and Furious | 2.00% | ~17,403 |
 | CQB Expert | 2.00% | ~17,403 |
-| Fury Road | 1.00% | ~8,701 |
-| Ghost | 1.00% | ~8,701 |
-| Cruising with the Enemy | 1.00% | ~8,701 |
+| Fury Road | 1.00% | ~8,702 |
+| Ghost | 1.00% | ~8,702 |
+| Cruising with the Enemy | 1.00% | ~8,702 |
 | Nade King Novice | 0.80% | ~6,961 |
 | Master Assassin | 0.80% | ~6,961 |
 | CQB Master | 0.40% | ~3,481 |
@@ -43,7 +43,7 @@ Rating: 3.98 (Ranked 1,052)
 | Nade King Master | 0.10% | ~870 |
 | Shoot the Knee | 0.10% | ~870 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 870,149 (Ranked 19)  
+Progressed: 870,150 (Ranked 19)  
 Completed: 15 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 15 (0.00%) (Ranked 395)
 | 2024-01-07 | 864,389 | 15 |
 | 2024-01-08 | 867,265 | 15 |
 | 2024-01-09 | 870,047 | 15 |
-| 2024-01-10 | 870,149 | 15 |
+| 2024-01-10 | 870,150 | 15 |
 ## Awards
 Max (Competitive Players): 6,263  (Ranked 64)  
 Sum: 20,379 (Ranked 61)  

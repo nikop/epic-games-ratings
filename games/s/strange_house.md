@@ -8,10 +8,10 @@
 | Alcoholic | 19.00% | ~9 |
 | Underground | 19.00% | ~9 |
 | Chapter 1 | 17.00% | ~8 |
-| Piglet | 11.00% | ~5 |
-| Lost Cat | 11.00% | ~5 |
+| Piglet | 13.00% | ~6 |
+| Lost Cat | 13.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47 (Ranked 563)  
+Progressed: 48 (Ranked 559)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,3 +49,4 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2023-12-30 | 44 | 0 |
 | 2024-01-01 | 46 | 0 |
 | 2024-01-04 | 47 | 0 |
+| 2024-01-10 | 48 | 0 |

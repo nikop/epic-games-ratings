@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -63,7 +63,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1290,
+  "EOS_Progressed": 1291,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 1,
@@ -3868,6 +3868,11 @@
       "Time": "2024-01-10T01:59:09.042745+00:00",
       "NumProgressed": 1290,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-10T04:11:10.6267617+00:00",
+      "NumProgressed": 1291,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3909,9 +3914,9 @@
       "ID": "ChronobreakMultiKill1",
       "SetID": "a9e499d",
       "Name": "Right On Time",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 297
     },
     {
       "ID": "ClockworkCompletion1",
@@ -4039,7 +4044,7 @@
       "Name": "Rail Rat",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "HexlockGift",
@@ -4071,7 +4076,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "MapCompletion1",
@@ -4119,7 +4124,7 @@
       "Name": "Time Flies",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ParryBoss",
@@ -4127,7 +4132,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ParryRepeated1",
@@ -4135,7 +4140,7 @@
       "Name": "No, Thanks!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "PhaseDiveCounter",
@@ -4159,7 +4164,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "RewindDamage1",
@@ -4167,7 +4172,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "RewindParry",
@@ -4175,7 +4180,7 @@
       "Name": "Honest Mistake",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ScrambotCompletion1",
@@ -4199,7 +4204,7 @@
       "Name": "Rungs Was Right",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "SkillProgress1",
@@ -4207,7 +4212,7 @@
       "Name": "Fast Learner",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "SpeedRun",
@@ -4261,9 +4266,9 @@
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 323
     },
     {
       "ID": "WatcherFought",
@@ -4302,7 +4307,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1290,
+      "Progressed": 1291,
       "Completed": 7
     }
   ],
@@ -4310,8 +4315,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-10T03:10:33.5728489+00:00",
+  "LastChanged_Achievements": "2024-01-10T04:11:10.6267611+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:59:56.5084261+00:00",
-  "LastUpdate_Achievements": "2024-01-10T03:10:33.5729011+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:00:31.4642397+00:00",
+  "LastUpdate_Achievements": "2024-01-10T04:11:10.6268299+00:00"
 }

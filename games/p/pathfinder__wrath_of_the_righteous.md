@@ -6,19 +6,19 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,561 |
-| A Spark | 20.00% | ~2,638 |
-| Burning City | 19.00% | ~2,506 |
-| Defender's Heart | 16.00% | ~2,110 |
-| Mythic Choices | 15.00% | ~1,978 |
+| Devoured by Darkness | 27.00% | ~3,562 |
+| A Spark | 20.00% | ~2,639 |
+| Burning City | 19.00% | ~2,507 |
+| Defender's Heart | 16.00% | ~2,111 |
+| Mythic Choices | 15.00% | ~1,979 |
 | Banner over the Citadel | 14.00% | ~1,847 |
 | Queen's Gratitude | 13.00% | ~1,715 |
 | Fifth Crusade | 9.00% | ~1,187 |
-| Embrace of the Abyss | 7.00% | ~923 |
-| Path of the Angel | 7.00% | ~923 |
-| Demonic and Divine | 7.00% | ~923 |
-| Great Upstart | 6.00% | ~791 |
-| All Paths Open | 6.00% | ~791 |
+| Embrace of the Abyss | 7.00% | ~924 |
+| Path of the Angel | 7.00% | ~924 |
+| Demonic and Divine | 7.00% | ~924 |
+| Great Upstart | 6.00% | ~792 |
+| All Paths Open | 6.00% | ~792 |
 | Path of the Azata | 5.00% | ~660 |
 | Transformation | 5.00% | ~660 |
 | The Legacy | 5.00% | ~660 |
@@ -43,7 +43,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Aeon | 2.00% | ~264 |
 | Your First Big Enemy | 2.00% | ~264 |
 | Truly Important Deed | 2.00% | ~264 |
-| Stay Underground | 2.00% | ~239 |
+| Stay Underground | 2.00% | ~240 |
 | The Final Threshold | 1.00% | ~132 |
 | Path of the Dragon | 1.00% | ~132 |
 | Path of the Legend | 1.00% | ~132 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,190 (Ranked 176)  
+Progressed: 13,193 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -388,7 +388,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 13,129 | 0 |
 | 2024-01-08 | 13,155 | 0 |
 | 2024-01-09 | 13,184 | 0 |
-| 2024-01-10 | 13,190 | 0 |
+| 2024-01-10 | 13,193 | 0 |
 ## Awards
 Max (Character Customization): 1,780  (Ranked 129)  
 Sum: 7,211 (Ranked 127)  

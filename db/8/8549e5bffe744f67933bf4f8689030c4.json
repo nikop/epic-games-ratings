@@ -2,9 +2,9 @@
   "ID": "8549e5bffe744f67933bf4f8689030c4",
   "Name": "Godzilla Voxel Wars",
   "ProductSlug": "godzillawars-2c30e4",
-  "Ranking_EOS_Progress": 582,
+  "Ranking_EOS_Progress": 579,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 575,
+  "Ranking_EOS_NewPlayers": 537,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-08T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37,
+  "EOS_Progressed": 38,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -199,6 +199,11 @@
       "Time": "2024-01-03T00:06:01.984772+00:00",
       "NumProgressed": 37,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T04:05:35.6469391+00:00",
+      "NumProgressed": 38,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T04:02:54.7866363+00:00",
@@ -225,7 +230,7 @@
       "ID": "AcquireReportFirst",
       "SetID": "59jf8f5",
       "Name": "Reveal the Secret!",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -297,7 +302,7 @@
       "ID": "ClearAreaByStar3",
       "SetID": "59jf8f5",
       "Name": "Area Master",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -355,7 +360,7 @@
       "Name": "The First Mushroom Hunt",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ClearStory",
@@ -393,9 +398,9 @@
       "ID": "DestroyNestsWithMashuras",
       "SetID": "59jf8f5",
       "Name": "A Private Issue?",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "DestroyTwoNestsAtOnceWithKamakinoko",
@@ -409,7 +414,7 @@
       "ID": "DropEnemiesIntoMagmaWithBiolante",
       "SetID": "59jf8f5",
       "Name": "Touch of Death",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -417,7 +422,7 @@
       "ID": "EditStageFirst",
       "SetID": "59jf8f5",
       "Name": "Universe Creator",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -441,7 +446,7 @@
       "ID": "EnterStageEdit",
       "SetID": "59jf8f5",
       "Name": "Beginnings of a New Universe",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -457,7 +462,7 @@
       "ID": "KillBoss2",
       "SetID": "59jf8f5",
       "Name": "Queen Bee Hunter",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -513,15 +518,15 @@
       "ID": "KillEnemyByEnemyAttack",
       "SetID": "59jf8f5",
       "Name": "Battlefield Tactician",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "KillEnemyByFailedGrow",
       "SetID": "59jf8f5",
       "Name": "Empty Fort Strategy",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -537,9 +542,9 @@
       "ID": "KillEnemyByPlayerKnockback",
       "SetID": "59jf8f5",
       "Name": "Earned Through Sacrifice",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "LaunchBombAtEnemyAttack",
@@ -553,7 +558,7 @@
       "ID": "LaunchBombAtSpawn",
       "SetID": "59jf8f5",
       "Name": "The New Time Bomb",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -585,7 +590,7 @@
       "ID": "LikeEveryoneStage",
       "SetID": "59jf8f5",
       "Name": "World Aficionado",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -627,7 +632,7 @@
       "Name": "Rookie Monster Collector",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ObtainStar3OnStage100",
@@ -689,7 +694,7 @@
       "ID": "SummonMonster6InTurn1",
       "SetID": "59jf8f5",
       "Name": "Summoning Festival",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -697,7 +702,7 @@
       "ID": "TransportAlliesOverMagmaWithRadon",
       "SetID": "59jf8f5",
       "Name": "Pleasure Flight",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -714,14 +719,14 @@
     {
       "ID": "59jf8f5",
       "IsBase": true,
-      "Progressed": 37,
+      "Progressed": 38,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T21:58:03.1577897+00:00",
   "FirstSeenAchievements": "2023-11-07T04:02:54.7866362+00:00",
-  "LastChanged_Achievements": "2024-01-10T03:05:06.7850005+00:00",
+  "LastChanged_Achievements": "2024-01-10T04:05:35.6469387+00:00",
   "LastUpdate_AppInfo": "2024-01-09T07:57:09.8689173+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:59:24.0543149+00:00",
-  "LastUpdate_Achievements": "2024-01-10T03:05:06.7850402+00:00"
+  "LastUpdate_Ratings": "2024-01-10T03:59:46.0285696+00:00",
+  "LastUpdate_Achievements": "2024-01-10T04:05:35.6469928+00:00"
 }
