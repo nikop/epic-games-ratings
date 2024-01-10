@@ -103,8 +103,8 @@
 | 101 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.33% |
 | 102 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.25% |
 | 103 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.23% |
-| 104 | [Bunny Park](games/b/bunny_park.md) | 3.19% |
-| 105 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.15% |
+| 104 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.22% |
+| 105 | [Bunny Park](games/b/bunny_park.md) | 3.19% |
 | 106 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.12% |
 | 106 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 3.12% |
 | 108 | [HordeCore](games/h/hordecore.md) | 3.02% |
@@ -156,13 +156,13 @@
 | 154 | [Poosh XL](games/p/poosh_xl.md) | 1.29% |
 | 155 | [Chorus](games/c/chorus.md) | 1.28% |
 | 155 | [Late Shift](games/l/late_shift.md) | 1.28% |
-| 157 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.27% |
 | 157 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 1.27% |
+| 158 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.26% |
 | 159 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.24% |
 | 160 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.20% |
 | 160 | [Ten Dates](games/t/ten_dates.md) | 1.20% |
 | 162 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.18% |
-| 162 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.18% |
+| 163 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.17% |
 | 164 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.16% |
 | 165 | [Iron Danger](games/i/iron_danger.md) | 1.15% |
 | 165 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.15% |
@@ -199,8 +199,8 @@
 | 196 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.70% |
 | 198 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.69% |
 | 199 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.68% |
-| 200 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.66% |
-| 201 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.65% |
+| 200 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.65% |
+| 200 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.65% |
 | 202 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.64% |
 | 202 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.64% |
 | 204 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.62% |
@@ -283,16 +283,16 @@
 | 281 | [Going Medieval](games/g/going_medieval.md) | 0.18% |
 | 282 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 0.17% |
 | 283 | [Against the Storm](games/a/against_the_storm.md) | 0.16% |
+| 283 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.16% |
 | 283 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 283 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 283 | [Scathe](games/s/scathe.md) | 0.16% |
 | 283 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 0.16% |
-| 288 | [Blanc](games/b/blanc.md) | 0.15% |
-| 288 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.15% |
-| 288 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
-| 288 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
-| 288 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.15% |
-| 288 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.15% |
+| 289 | [Blanc](games/b/blanc.md) | 0.15% |
+| 289 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
+| 289 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
+| 289 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.15% |
+| 289 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.15% |
 | 294 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.14% |
 | 294 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.14% |
 | 294 | [Lost Ruins](games/l/lost_ruins.md) | 0.14% |
@@ -315,18 +315,18 @@
 | 309 | [Isonzo](games/i/isonzo.md) | 0.10% |
 | 309 | [Partisans 1941](games/p/partisans_1941.md) | 0.10% |
 | 309 | [Riverbond](games/r/riverbond.md) | 0.10% |
-| 316 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.09% |
 | 316 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.09% |
 | 316 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.09% |
 | 316 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
 | 316 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.09% |
 | 316 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
-| 322 | [MythForce](games/m/mythforce.md) | 0.08% |
-| 322 | [Port Royale 4](games/p/port_royale_4.md) | 0.08% |
-| 322 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.08% |
-| 322 | [SYNCED](games/s/synced.md) | 0.08% |
-| 322 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 0.08% |
-| 322 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.08% |
+| 321 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.08% |
+| 321 | [MythForce](games/m/mythforce.md) | 0.08% |
+| 321 | [Port Royale 4](games/p/port_royale_4.md) | 0.08% |
+| 321 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.08% |
+| 321 | [SYNCED](games/s/synced.md) | 0.08% |
+| 321 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 0.08% |
+| 321 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.08% |
 | 328 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 329 | [ATOM RPG](games/a/atom_rpg.md) | 0.06% |
 | 329 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
