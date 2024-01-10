@@ -2,9 +2,9 @@
   "ID": "3a077bc4fa864985b8c0b343176226d2",
   "Name": "UFO ROBOT GRENDIZER - The Feast of the Wolves",
   "ProductSlug": "goldorak-d90cf1",
-  "Ranking_EOS_Progress": 524,
+  "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76,
+  "EOS_Progressed": 78,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -399,6 +399,11 @@
       "Time": "2024-01-10T14:07:56.2010006+00:00",
       "NumProgressed": 76,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T17:06:23.2092175+00:00",
+      "NumProgressed": 78,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-14T10:09:31.9139151+00:00",
@@ -433,7 +438,7 @@
       "ID": "ACH_ESCAPEFROMFLEED",
       "SetID": "ch874lb",
       "Name": "Escape from Fleed",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 35,
       "UsersEstimate": 33
     },
@@ -441,7 +446,7 @@
       "ID": "ACH_FIRSTCONTACT",
       "SetID": "ch874lb",
       "Name": "First Contact",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 35,
       "UsersEstimate": 31
     },
@@ -451,13 +456,13 @@
       "Name": "Strength in Defeat",
       "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_FIRSTLEGENDARYLOOT",
       "SetID": "ch874lb",
       "Name": "The Remains of Fleed",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 30,
       "UsersEstimate": 41
     },
@@ -465,7 +470,7 @@
       "ID": "ACH_FIRSTMEDITATION",
       "SetID": "ch874lb",
       "Name": "Life of Pi",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 35,
       "UsersEstimate": 41
     },
@@ -473,7 +478,7 @@
       "ID": "ACH_FIRSTSKINCHANGE",
       "SetID": "ch874lb",
       "Name": "A Good Paint Job",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -481,7 +486,7 @@
       "ID": "ACH_FIRSTUPGRADE",
       "SetID": "ch874lb",
       "Name": "Technology first!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
       "UsersEstimate": 15
     },
@@ -489,7 +494,7 @@
       "ID": "ACH_FLEEDKEEPER",
       "SetID": "ch874lb",
       "Name": "The Keeper of Fleed",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 35,
       "UsersEstimate": 8
     },
@@ -529,7 +534,7 @@
       "ID": "ACH_LEGENDARYMATERIAL",
       "SetID": "ch874lb",
       "Name": "The Legend",
-      "Percentage": 53,
+      "Percentage": 51,
       "XP": 35,
       "UsersEstimate": 40
     },
@@ -545,7 +550,7 @@
       "ID": "ACH_RESOURCES",
       "SetID": "ch874lb",
       "Name": "The Collector",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -633,7 +638,7 @@
       "ID": "ACH_THEVEGATURTLE",
       "SetID": "ch874lb",
       "Name": "The Vega Turtle",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -650,14 +655,14 @@
     {
       "ID": "ch874lb",
       "IsBase": true,
-      "Progressed": 76,
+      "Progressed": 78,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:07:19.4044032+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:06:23.2092172+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:49.9847922+00:00",
-  "LastUpdate_Ratings": "2024-01-10T15:58:26.7046349+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:07:19.4044521+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:58:02.3533102+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:06:23.2092351+00:00"
 }

@@ -2238,9 +2238,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16359,
+  "EOS_Progressed": 16362,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19508,6 +19508,11 @@
       "Time": "2024-01-10T16:11:10.5537393+00:00",
       "NumProgressed": 16359,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-10T17:10:18.7097888+00:00",
+      "NumProgressed": 16362,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19893,9 +19898,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BRAVE",
       "SetID": "9201eeb",
       "Name": "Drillmaster",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRILLIANT",
@@ -20221,9 +20226,9 @@
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
       "SetID": "9201eeb",
       "Name": "Legendary Cities",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 115
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_STRONG",
@@ -20437,9 +20442,9 @@
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
       "SetID": "9201eeb",
       "Name": "Furious Family",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 147
     },
     {
       "ID": "ACHIEVEMENT_FERTILE_CRESCENT",
@@ -22382,21 +22387,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16359,
+      "Progressed": 16362,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16359,
+      "Progressed": 16362,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-09T22:57:23.2402519+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:11:10.553739+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:10:18.7097883+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-10T15:57:58.4049075+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:11:10.5547654+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:57:39.056206+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:10:18.7107846+00:00"
 }

@@ -888,9 +888,9 @@
       "ID": "Achievement6",
       "SetID": "9fa3l5n",
       "Name": "The Curse of Kih-Oskh",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Achievement7",
@@ -927,8 +927,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:07:04.7874627+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:06:11.0893676+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.5995051+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:02:44.0574714+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:07:04.7874954+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:00:54.0262088+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:06:11.0893985+00:00"
 }

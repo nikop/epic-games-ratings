@@ -34,7 +34,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 4.00% | ~5,295 |
 | Nope | 4.00% | ~5,295 |
 | Unshackled | 4.00% | ~5,295 |
-| Friends 'Til the End | 4.00% | ~289 |
+| Friends 'Til the End | 4.00% | ~290 |
 | Resurrection | 3.00% | ~3,971 |
 | Unleash Hell | 3.00% | ~3,971 |
 | Funny Guy | 3.00% | ~3,971 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,368 (Ranked 91)  
+Progressed: 132,369 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 4 (0.00%) (Ranked 395)
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
 | 2024-01-09 | 132,315 | 3 |
-| 2024-01-10 | 132,368 | 4 |
+| 2024-01-10 | 132,369 | 4 |
 ## Awards
 Max (Character Customization): 8,000  (Ranked 50)  
 Sum: 21,576 (Ranked 58)  

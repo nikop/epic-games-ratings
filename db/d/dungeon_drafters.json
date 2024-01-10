@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 461,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -781,9 +781,9 @@
       "ID": "MGR_complete",
       "SetID": "3b8n56h",
       "Name": "Ancient Nemesis",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "MasterOracleQuestlineFirst",
@@ -1054,8 +1054,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:07:34.7877589+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:06:35.9151632+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:57.5094104+00:00",
-  "LastUpdate_Ratings": "2024-01-10T15:58:55.5193224+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:07:34.7877931+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:58:24.4408927+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:06:35.9151912+00:00"
 }

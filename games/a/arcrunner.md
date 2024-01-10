@@ -15,10 +15,10 @@
 | Terminated III | 17.00% | ~160 |
 | Nanonic II | 15.00% | ~141 |
 | Fully Modded | 12.00% | ~113 |
-| Starship Docks | 11.00% | ~103 |
-| Nanonic III | 11.00% | ~103 |
-| Rookie | 11.00% | ~103 |
-| Supply Run | 11.00% | ~103 |
+| Starship Docks | 11.00% | ~104 |
+| Nanonic III | 11.00% | ~104 |
+| Rookie | 11.00% | ~104 |
+| Supply Run | 11.00% | ~104 |
 | Cybernetic | 9.00% | ~85 |
 | The Bigger They Are | 8.00% | ~75 |
 | Up Close And Personal | 7.00% | ~66 |
@@ -34,7 +34,7 @@
 | Cyborg | 0.20% | ~2 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 940 (Ranked 300)  
+Progressed: 941 (Ranked 300)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 937 | 0 |
 | 2024-01-08 | 938 | 0 |
 | 2024-01-09 | 939 | 0 |
-| 2024-01-10 | 940 | 0 |
+| 2024-01-10 | 941 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

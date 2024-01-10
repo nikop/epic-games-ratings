@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2210,
+  "EOS_Progressed": 2211,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8520,6 +8520,11 @@
       "Time": "2024-01-10T16:08:21.5689895+00:00",
       "NumProgressed": 2210,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T17:06:49.5737358+00:00",
+      "NumProgressed": 2211,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8555,7 +8560,7 @@
       "Name": "Player Betrayer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -8675,7 +8680,7 @@
       "Name": "Major",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -8787,7 +8792,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -8834,7 +8839,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2210,
+      "Progressed": 2211,
       "Completed": 1
     }
   ],
@@ -8842,8 +8847,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:08:21.5689892+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:06:49.5737353+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:28.5639018+00:00",
-  "LastUpdate_Ratings": "2024-01-10T15:58:31.0811867+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:08:21.5690474+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:58:06.0750384+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:06:49.5738225+00:00"
 }

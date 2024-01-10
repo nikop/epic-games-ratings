@@ -759,9 +759,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7156,
+  "EOS_Progressed": 7158,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 382,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10969,6 +10969,11 @@
       "Time": "2024-01-10T16:07:21.9841417+00:00",
       "NumProgressed": 7156,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-10T17:06:25.269999+00:00",
+      "NumProgressed": 7158,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10996,7 +11001,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "12",
@@ -11020,7 +11025,7 @@
       "Name": "Full Ascension",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "15",
@@ -11092,7 +11097,7 @@
       "Name": "Realm Estate",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "23",
@@ -11148,7 +11153,7 @@
       "Name": "Stronger Together",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "3",
@@ -11188,7 +11193,7 @@
       "Name": "Seat of Power",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "34",
@@ -11459,13 +11464,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7156,
+      "Progressed": 7158,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7156,
+      "Progressed": 7158,
       "Completed": 7
     }
   ],
@@ -11473,8 +11478,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-10T06:57:43.8261312+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:07:21.9841412+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:06:25.2699985+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-10T15:58:20.1130997+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:07:21.9842382+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:57:56.9502841+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:06:25.2701163+00:00"
 }

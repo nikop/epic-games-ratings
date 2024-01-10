@@ -6,14 +6,14 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 49.00% | ~2,852 |
-| Returning Home: Quick Learner | 26.00% | ~1,513 |
+| Level: Returning Home | 49.00% | ~2,853 |
+| Returning Home: Quick Learner | 26.00% | ~1,514 |
 | Level: Charlie's Circuits | 22.00% | ~1,281 |
 | Level: Rising Markets | 9.00% | ~524 |
 | Peddler | 8.00% | ~466 |
-| Level: Extra Life | 7.00% | ~407 |
-| Rising Markets: Avoiding the Reds | 7.00% | ~407 |
-| Data Churn Type I | 7.00% | ~407 |
+| Level: Extra Life | 7.00% | ~408 |
+| Rising Markets: Avoiding the Reds | 7.00% | ~408 |
+| Data Churn Type I | 7.00% | ~408 |
 | Millionaire | 6.00% | ~349 |
 | Data Churn Type II | 5.00% | ~291 |
 | Speedy | 5.00% | ~291 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~6 |
 | Prestigious | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,821 (Ranked 202)  
+Progressed: 5,822 (Ranked 202)  
 Completed: 1 (0.02%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 1 (0.02%) (Ranked 361)
 | 2024-01-07 | 5,808 | 1 |
 | 2024-01-08 | 5,812 | 1 |
 | 2024-01-09 | 5,819 | 1 |
-| 2024-01-10 | 5,821 | 1 |
+| 2024-01-10 | 5,822 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

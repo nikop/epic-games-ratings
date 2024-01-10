@@ -5,23 +5,23 @@ Rating: 4.09 (Ranked 1,020)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,063 |
-| World Map | 78.00% | ~3,408 |
-| Temple of Eternals | 56.00% | ~2,447 |
-| Prestigious | 52.00% | ~2,272 |
-| Fellowship Power | 41.00% | ~1,791 |
-| Full Party | 29.00% | ~1,267 |
-| Guild Power | 22.00% | ~961 |
+| Victor | 93.00% | ~4,065 |
+| World Map | 78.00% | ~3,409 |
+| Temple of Eternals | 56.00% | ~2,448 |
+| Prestigious | 52.00% | ~2,273 |
+| Fellowship Power | 41.00% | ~1,792 |
+| Full Party | 29.00% | ~1,268 |
+| Guild Power | 22.00% | ~962 |
 | Prestigious x10 | 20.00% | ~874 |
-| The game is on | 18.00% | ~786 |
+| The game is on | 18.00% | ~787 |
 | Exotic Merchant | 16.00% | ~699 |
-| Dragon Clicker | 15.00% | ~655 |
-| Miner Clicker | 15.00% | ~655 |
+| Dragon Clicker | 15.00% | ~656 |
+| Miner Clicker | 15.00% | ~656 |
 | Inspection | 14.00% | ~612 |
 | Dragon Master | 13.00% | ~568 |
 | Enlightenment | 13.00% | ~568 |
 | Hero inspection | 13.00% | ~568 |
-| Lieutenant | 12.00% | ~524 |
+| Lieutenant | 12.00% | ~525 |
 | Mysterious Rock | 11.00% | ~481 |
 | Natural Talent | 11.00% | ~481 |
 | Superior | 11.00% | ~481 |
@@ -46,14 +46,14 @@ Rating: 4.09 (Ranked 1,020)
 | Here We Go Again | 6.00% | ~262 |
 | The Expeditioner | 6.00% | ~262 |
 | Weekly Quest Completionist | 6.00% | ~262 |
-| Blueprint Upgrades | 5.00% | ~218 |
-| Crystal Mining | 5.00% | ~218 |
-| Enchanting skill | 5.00% | ~218 |
-| Engineer Mastery | 5.00% | ~218 |
-| How Do You Turn This On? | 5.00% | ~218 |
-| Lock And Load | 5.00% | ~218 |
-| Missions Dedication | 5.00% | ~218 |
-| Sailor | 5.00% | ~218 |
+| Blueprint Upgrades | 5.00% | ~219 |
+| Crystal Mining | 5.00% | ~219 |
+| Enchanting skill | 5.00% | ~219 |
+| Engineer Mastery | 5.00% | ~219 |
+| How Do You Turn This On? | 5.00% | ~219 |
+| Lock And Load | 5.00% | ~219 |
+| Missions Dedication | 5.00% | ~219 |
+| Sailor | 5.00% | ~219 |
 | Active Member | 4.00% | ~175 |
 | Ancient Knowledge | 4.00% | ~175 |
 | Background Story | 4.00% | ~175 |
@@ -81,7 +81,7 @@ Rating: 4.09 (Ranked 1,020)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,369 (Ranked 208)  
+Progressed: 4,371 (Ranked 208)  
 Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 2 (0.05%) (Ranked 336)
 | 2024-01-07 | 4,299 | 2 |
 | 2024-01-08 | 4,327 | 2 |
 | 2024-01-09 | 4,351 | 2 |
-| 2024-01-10 | 4,369 | 2 |
+| 2024-01-10 | 4,371 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 483)  
 Sum: 156 (Ranked 440)  

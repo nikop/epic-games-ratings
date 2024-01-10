@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17757,
+  "EOS_Progressed": 17758,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -18115,6 +18115,11 @@
       "Time": "2024-01-10T16:07:08.6893691+00:00",
       "NumProgressed": 17757,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-10T17:06:14.117834+00:00",
+      "NumProgressed": 17758,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18166,7 +18171,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5682
+      "UsersEstimate": 5683
     },
     {
       "ID": "tpote_achievement_15",
@@ -18238,7 +18243,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3551
+      "UsersEstimate": 3552
     },
     {
       "ID": "tpote_achievement_23",
@@ -18270,7 +18275,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2309
     },
     {
       "ID": "tpote_achievement_27",
@@ -18390,7 +18395,7 @@
       "Name": "Tattletale",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 6925
+      "UsersEstimate": 6926
     },
     {
       "ID": "tpote_achievement_40",
@@ -18446,22 +18451,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6037
+      "UsersEstimate": 6038
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17757,
+      "Progressed": 17758,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:07:08.6893687+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:06:14.1178333+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:38.8316794+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:03:12.0482951+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:07:08.6894859+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:02:55.0873853+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:06:14.1179833+00:00"
 }

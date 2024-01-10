@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 475,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 466,
+  "Ranking_EOS_NewPlayers": 467,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -712,9 +712,9 @@
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "Epic_Formula_12",
@@ -784,9 +784,9 @@
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
       "SetID": "ba1m2fc",
       "Name": "Wrecking Ball",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Epic_InnerWorld_1",
@@ -872,9 +872,9 @@
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Epic_Revenge_1",
@@ -999,8 +999,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:05:29.4310933+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:04:50.3197665+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:25.8631749+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:00:50.6668217+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:05:29.4311357+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:59:57.0298703+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:04:50.3198115+00:00"
 }

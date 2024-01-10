@@ -2999,9 +2999,9 @@
       "Count": 151
     }
   ],
-  "EOS_Progressed": 679568,
+  "EOS_Progressed": 679573,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 2026,
+  "EOS_NewPlayers": 2013,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33479,6 +33479,11 @@
       "Time": "2024-01-10T16:11:01.9162488+00:00",
       "NumProgressed": 679568,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-10T17:10:10.8958627+00:00",
+      "NumProgressed": 679573,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 52,
@@ -33490,7 +33495,7 @@
       "Name": "Stroller",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 108731
+      "UsersEstimate": 108732
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -33498,7 +33503,7 @@
       "Name": "Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 81548
+      "UsersEstimate": 81549
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -33530,7 +33535,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 129118
+      "UsersEstimate": 129119
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -33738,7 +33743,7 @@
       "Name": "Incurious",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 122322
+      "UsersEstimate": 122323
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -33905,15 +33910,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 679568,
+      "Progressed": 679573,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2024-01-09T15:02:40.7024942+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:11:01.9162485+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:10:10.8958621+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:57.3345847+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:02:59.1524284+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:11:01.9164033+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:02:44.7614823+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:10:10.8960893+00:00"
 }

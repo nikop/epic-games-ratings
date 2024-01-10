@@ -381,9 +381,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2349,
+  "EOS_Progressed": 2350,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4346,6 +4346,11 @@
       "Time": "2024-01-10T16:07:36.2950388+00:00",
       "NumProgressed": 2349,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T17:06:37.2037593+00:00",
+      "NumProgressed": 2350,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4381,7 +4386,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "Achievement_006",
@@ -4421,7 +4426,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "Achievement_011",
@@ -4461,7 +4466,7 @@
       "Name": "Blood Brother",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Achievement_016",
@@ -4491,9 +4496,9 @@
       "ID": "Achievement_019",
       "SetID": "6b34g18",
       "Name": "I Like My Stakes Rare!",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 493
+      "UsersEstimate": 517
     },
     {
       "ID": "Achievement_020",
@@ -4661,7 +4666,7 @@
       "Name": "Heart Attack",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "Achievement_041",
@@ -4757,7 +4762,7 @@
       "Name": "Blacklight Down",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Achievement_056",
@@ -4884,7 +4889,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2349,
+      "Progressed": 2350,
       "Completed": 0
     }
   ],
@@ -4892,8 +4897,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:07:36.2950384+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:06:37.2037587+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:01:55.75164+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:07:36.295128+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:00:48.1187692+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:06:37.2038238+00:00"
 }

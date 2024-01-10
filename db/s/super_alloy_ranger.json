@@ -4,7 +4,7 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_NewPlayers": 421,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 156,
+  "EOS_Progressed": 157,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -766,6 +766,11 @@
       "Time": "2024-01-10T16:09:11.3153981+00:00",
       "NumProgressed": 156,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T17:08:38.4986396+00:00",
+      "NumProgressed": 157,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -809,7 +814,7 @@
       "Name": "The Fortress Conqueror",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achi_06",
@@ -873,7 +878,7 @@
       "Name": "Grand Escape",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achi_14",
@@ -929,7 +934,7 @@
       "Name": "Freshen Up",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Achi_21",
@@ -945,7 +950,7 @@
       "Name": "Iceberg Theory",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "Achi_23",
@@ -993,7 +998,7 @@
       "Name": "Ka-Ching!",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Achi_29",
@@ -1065,7 +1070,7 @@
       "Name": "Get to the Point",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Achi_38",
@@ -1176,7 +1181,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 156,
+      "Progressed": 157,
       "Completed": 1
     }
   ],
@@ -1184,8 +1189,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:09:11.3153976+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:08:38.4986394+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:44.9618155+00:00",
-  "LastUpdate_Ratings": "2024-01-10T15:57:20.7279177+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:09:11.3154422+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:57:10.3641206+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:08:38.4986792+00:00"
 }

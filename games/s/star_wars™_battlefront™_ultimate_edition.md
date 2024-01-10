@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,438 |
-| Off to a good start | 61.00% | ~1,729 |
-| Do... or do not. There is no try | 52.00% | ~1,474 |
-| A good blaster at your side | 24.00% | ~680 |
-| I suggest a new strategy | 17.00% | ~482 |
-| Great shot, kid! | 16.00% | ~454 |
-| Scrap collector | 15.00% | ~425 |
-| All right, I'll give it a try | 14.00% | ~397 |
-| The power of the Force | 12.00% | ~340 |
-| Together we can rule the galaxy | 12.00% | ~340 |
-| Shoot first | 12.00% | ~340 |
+| New Recruit | 86.00% | ~2,442 |
+| Off to a good start | 61.00% | ~1,732 |
+| Do... or do not. There is no try | 52.00% | ~1,477 |
+| A good blaster at your side | 24.00% | ~682 |
+| I suggest a new strategy | 17.00% | ~483 |
+| Scrap collector | 15.00% | ~426 |
+| Great shot, kid! | 15.00% | ~426 |
+| All right, I'll give it a try | 14.00% | ~398 |
+| The power of the Force | 12.00% | ~341 |
+| Together we can rule the galaxy | 12.00% | ~341 |
+| Shoot first | 12.00% | ~341 |
 | Collector | 11.00% | ~312 |
 | Tell Jabba that I've got his money | 8.00% | ~227 |
 | Best star-pilot in the galaxy | 8.00% | ~227 |
-| Never tell me the odds! | 7.00% | ~198 |
-| Survivor | 7.00% | ~198 |
+| Never tell me the odds! | 7.00% | ~199 |
+| Survivor | 7.00% | ~199 |
 | What's the cargo? | 6.00% | ~170 |
 | A cunning warrior | 6.00% | ~170 |
 | "Gonk? Gonk!" | 5.00% | ~142 |
 | Impressive. Most impressive. | 5.00% | ~142 |
 | Judge me by my size, do you? | 5.00% | ~142 |
-| Distinguished | 4.00% | ~113 |
-| A tremor in the Force | 4.00% | ~113 |
-| Support the troops | 4.00% | ~113 |
+| Distinguished | 4.00% | ~114 |
+| A tremor in the Force | 4.00% | ~114 |
+| Support the troops | 4.00% | ~114 |
 | Safety ain't the point of a joyride | 3.00% | ~85 |
 | Not bad for a little furball | 3.00% | ~85 |
 | Patience you must have | 3.00% | ~85 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,835 (Ranked 232)  
+Progressed: 2,840 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 1 (0.04%) (Ranked 349)
 | 2024-01-07 | 2,750 | 1 |
 | 2024-01-08 | 2,781 | 1 |
 | 2024-01-09 | 2,816 | 1 |
-| 2024-01-10 | 2,835 | 1 |
+| 2024-01-10 | 2,840 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

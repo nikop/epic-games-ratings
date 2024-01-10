@@ -23,7 +23,7 @@
 | The Familiar | 5.00% | ~7 |
 | Oracle Mastery | 5.00% | ~7 |
 | No Stone Unturned | 5.00% | ~7 |
-| Ancient Nemesis | 3.00% | ~4 |
+| Ancient Nemesis | 4.00% | ~6 |
 | Raider Mastery | 3.00% | ~4 |
 | Traveler Mastery | 3.00% | ~4 |
 | Warden Mastery | 3.00% | ~4 |

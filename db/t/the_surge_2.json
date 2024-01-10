@@ -300,9 +300,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2555,
+  "EOS_Progressed": 2556,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -4620,6 +4620,11 @@
       "Time": "2024-01-10T16:05:26.636838+00:00",
       "NumProgressed": 2555,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-10T17:04:48.0808015+00:00",
+      "NumProgressed": 2556,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4639,7 +4644,7 @@
       "Name": "Jailbreak",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "ACHV_03",
@@ -4647,7 +4652,7 @@
       "Name": "Dead Again",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ACHV_04",
@@ -4807,7 +4812,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "ACHV_24",
@@ -4831,7 +4836,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "ACHV_27",
@@ -4839,7 +4844,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "ACHV_28",
@@ -4895,7 +4900,7 @@
       "Name": "Shocking",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ACHV_35",
@@ -4935,7 +4940,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "ACHV_40",
@@ -4951,7 +4956,7 @@
       "Name": "Suited and Booted",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "ACHV_42",
@@ -4991,7 +4996,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ACHV_47",
@@ -5086,7 +5091,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2555,
+      "Progressed": 2556,
       "Completed": 13
     }
   ],
@@ -5094,8 +5099,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-07T10:02:57.9512677+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:05:26.6368376+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:04:48.0808009+00:00",
   "LastUpdate_AppInfo": "2024-01-06T17:57:07.4256179+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:03:05.3724111+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:05:26.6369097+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:02:49.6888487+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:04:48.0809058+00:00"
 }

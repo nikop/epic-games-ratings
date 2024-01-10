@@ -6,43 +6,43 @@ Rating: 4.59 (Ranked 452)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feels Familiar | 74.00% | ~1,126 |
-| I Broke It | 73.00% | ~1,110 |
-| Better On Ice | 68.00% | ~1,034 |
-| Notai Notes | 66.00% | ~1,004 |
+| I Broke It | 73.00% | ~1,111 |
+| Better On Ice | 68.00% | ~1,035 |
+| Notai Notes | 66.00% | ~1,005 |
 | Blue Dreams | 65.00% | ~989 |
 | He's Famous! | 65.00% | ~989 |
 | Cutie Poro | 65.00% | ~989 |
-| Krugmazing | 64.00% | ~973 |
+| Krugmazing | 64.00% | ~974 |
 | Moneyball | 60.00% | ~913 |
 | The Fire Below the Mountain | 60.00% | ~913 |
 | Iceborn | 55.00% | ~837 |
-| No Bites | 54.00% | ~821 |
+| No Bites | 54.00% | ~822 |
 | Tear of Freedom | 52.00% | ~791 |
 | Boom Things | 52.00% | ~791 |
-| My Darkest Day | 48.00% | ~730 |
+| My Darkest Day | 48.00% | ~731 |
 | Rhythm Of Willump | 46.00% | ~700 |
 | The Relentless Storm | 46.00% | ~700 |
-| A Tragic Reminder | 45.00% | ~684 |
-| 3000 Year Blackout | 44.00% | ~669 |
+| A Tragic Reminder | 45.00% | ~685 |
+| 3000 Year Blackout | 44.00% | ~670 |
 | So Close | 42.00% | ~639 |
 | The Finisher | 42.00% | ~639 |
 | You Get Used To It | 41.00% | ~624 |
-| Family | 39.00% | ~593 |
-| Biggest Snowball Ever | 39.00% | ~593 |
-| Freeze The Ice Witch | 39.00% | ~593 |
-| Boosted! | 39.00% | ~593 |
-| Deadliest and Biggest Snowball Ever! | 39.00% | ~593 |
+| Family | 39.00% | ~594 |
+| Biggest Snowball Ever | 39.00% | ~594 |
+| Freeze The Ice Witch | 39.00% | ~594 |
+| Boosted! | 39.00% | ~594 |
+| Deadliest and Biggest Snowball Ever! | 39.00% | ~594 |
 | True Legends | 38.00% | ~578 |
 | It Is Not Over | 36.00% | ~548 |
 | Bullseye | 36.00% | ~548 |
+| Snowy Poro | 33.00% | ~502 |
 | On The Rocks | 33.00% | ~502 |
-| Snowy Poro | 32.00% | ~487 |
 | Never Gets Old | 32.00% | ~487 |
-| Vertical Power | 26.00% | ~395 |
+| Vertical Power | 26.00% | ~396 |
 | One From The Heart | 14.00% | ~213 |
 | Yummy | 10.00% | ~152 |
 | Snowball Fightn't | 9.00% | ~137 |
-| It Was Him | 7.00% | ~106 |
+| It Was Him | 7.00% | ~107 |
 | Handy Yeti | 6.00% | ~91 |
 | The Pied Piper Of Freljord | 4.00% | ~61 |
 | Braum's Poro Ranch | 3.00% | ~46 |
@@ -50,7 +50,7 @@ Rating: 4.59 (Ranked 452)
 | We Are Speed | 2.00% | ~30 |
 | Sneaky Notai | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,521 (Ranked 266)  
+Progressed: 1,522 (Ranked 266)  
 Completed: 9 (0.59%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 9 (0.59%) (Ranked 208)
 | 2024-01-07 | 1,501 | 9 |
 | 2024-01-08 | 1,508 | 9 |
 | 2024-01-09 | 1,515 | 9 |
-| 2024-01-10 | 1,521 | 9 |
+| 2024-01-10 | 1,522 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

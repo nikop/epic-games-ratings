@@ -6,10 +6,10 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 63.00% | ~2,299 |
-| Keeping it classy | 27.00% | ~985 |
+| You're free now! | 63.00% | ~2,300 |
+| Keeping it classy | 27.00% | ~986 |
 | Welcome to the family | 21.00% | ~766 |
-| The finer things in life | 19.00% | ~693 |
+| The finer things in life | 19.00% | ~694 |
 | Backpacker | 13.00% | ~474 |
 | Go with the Flow | 13.00% | ~474 |
 | Plastic Surgeon | 10.00% | ~365 |
@@ -18,11 +18,11 @@ Number of Ratings: 111  (23.09.2022)
 | Good vibes | 9.00% | ~328 |
 | Keep the dream alive | 9.00% | ~328 |
 | Upfront shredder | 9.00% | ~328 |
-| Bottom ply killer | 7.00% | ~255 |
-| Fashionista | 7.00% | ~255 |
-| Finally he zips it | 7.00% | ~255 |
-| That pinch! | 7.00% | ~255 |
-| Tight lipslides | 7.00% | ~255 |
+| Bottom ply killer | 7.00% | ~256 |
+| Fashionista | 7.00% | ~256 |
+| Finally he zips it | 7.00% | ~256 |
+| That pinch! | 7.00% | ~256 |
+| Tight lipslides | 7.00% | ~256 |
 | Fulfilled the dream | 6.00% | ~219 |
 | G'Day Mate! | 6.00% | ~219 |
 | Purple passion | 6.00% | ~219 |
@@ -43,8 +43,8 @@ Number of Ratings: 111  (23.09.2022)
 | Prince of Philly | 4.00% | ~146 |
 | Tank commander | 4.00% | ~146 |
 | We get it, you're good | 4.00% | ~146 |
-| Many plys later... | 3.00% | ~109 |
-| Pew-Pew | 3.00% | ~109 |
+| Many plys later... | 3.00% | ~110 |
+| Pew-Pew | 3.00% | ~110 |
 | Cross lock country | 2.00% | ~73 |
 | That was wheelie fun | 2.00% | ~73 |
 | Dipped! | 1.00% | ~36 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,649 (Ranked 220)  
+Progressed: 3,650 (Ranked 220)  
 Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 2 (0.05%) (Ranked 336)
 | 2024-01-07 | 3,587 | 2 |
 | 2024-01-08 | 3,608 | 2 |
 | 2024-01-09 | 3,627 | 2 |
-| 2024-01-10 | 3,649 | 2 |
+| 2024-01-10 | 3,650 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 63  (Ranked 426)  
 Sum: 584 (Ranked 326)  

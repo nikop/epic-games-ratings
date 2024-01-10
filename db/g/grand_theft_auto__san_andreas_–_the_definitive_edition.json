@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 273,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -2371,9 +2371,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 19274,
+  "EOS_Progressed": 19284,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 1113,
+  "EOS_NewPlayers": 1119,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -19856,6 +19856,11 @@
       "Time": "2024-01-10T16:10:54.8986232+00:00",
       "NumProgressed": 19274,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-10T17:10:04.8860119+00:00",
+      "NumProgressed": 19284,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 35,
@@ -19867,7 +19872,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15612
+      "UsersEstimate": 15620
     },
     {
       "ID": "ACH02",
@@ -19875,7 +19880,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1350
     },
     {
       "ID": "ACH03",
@@ -19883,7 +19888,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1350
     },
     {
       "ID": "ACH04",
@@ -19899,7 +19904,7 @@
       "Name": "A Legitimate Business",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH06",
@@ -19907,7 +19912,7 @@
       "Name": "I\u2019ll Have Two Number 9s",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH07",
@@ -19915,7 +19920,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3662
+      "UsersEstimate": 3664
     },
     {
       "ID": "ACH08",
@@ -19923,7 +19928,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9637
+      "UsersEstimate": 9642
     },
     {
       "ID": "ACH09",
@@ -19931,7 +19936,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH10",
@@ -19939,7 +19944,7 @@
       "Name": "Who Needs Directions?",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH11",
@@ -19947,7 +19952,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "ACH12",
@@ -19955,7 +19960,7 @@
       "Name": "Swiss Army Strife",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH13",
@@ -19963,7 +19968,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3469
+      "UsersEstimate": 3471
     },
     {
       "ID": "ACH14",
@@ -19971,7 +19976,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1928
     },
     {
       "ID": "ACH15",
@@ -19987,7 +19992,7 @@
       "Name": "Smooth Moves",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3084
+      "UsersEstimate": 3085
     },
     {
       "ID": "ACH17",
@@ -19995,7 +20000,7 @@
       "Name": "What the City Needs",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH18",
@@ -20003,7 +20008,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "ACH19",
@@ -20019,7 +20024,7 @@
       "Name": "Yes I Speak English",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH21",
@@ -20035,7 +20040,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2698
+      "UsersEstimate": 2700
     },
     {
       "ID": "ACH23",
@@ -20043,7 +20048,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4818
+      "UsersEstimate": 4821
     },
     {
       "ID": "ACH24",
@@ -20067,7 +20072,7 @@
       "Name": "Double or Nothin\u0027",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH27",
@@ -20075,7 +20080,7 @@
       "Name": "Assassin",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH28",
@@ -20083,7 +20088,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "ACH29",
@@ -20091,7 +20096,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 2698
+      "UsersEstimate": 2700
     },
     {
       "ID": "ACH30",
@@ -20099,7 +20104,7 @@
       "Name": "Public Enemy No. 1",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH31",
@@ -20115,7 +20120,7 @@
       "Name": "Ain\u2019t Nothing But a G Thing",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH33",
@@ -20146,7 +20151,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19274,
+      "Progressed": 19284,
       "Completed": 75
     }
   ],
@@ -20154,8 +20159,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-10T10:03:21.9482399+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:10:54.8986229+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:10:04.8860117+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:02:53.0706329+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:10:54.8987278+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:02:40.8204373+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:10:04.8861571+00:00"
 }

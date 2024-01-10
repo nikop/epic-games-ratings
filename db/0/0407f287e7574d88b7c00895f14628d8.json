@@ -1018,9 +1018,9 @@
       "ID": "j3",
       "SetID": "b1ggf28",
       "Name": "Knowledge is Infinite",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "jg1",
@@ -1289,8 +1289,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:06:42.0643531+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:05:51.3359921+00:00",
   "LastUpdate_AppInfo": "2024-01-10T06:57:05.6487143+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:03:18.0198269+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:06:42.0643908+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:02:59.8147957+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:05:51.3360279+00:00"
 }

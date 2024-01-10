@@ -24,9 +24,9 @@
 | Another perspective | 11.00% | ~34 |
 | Playtime | 10.00% | ~31 |
 | Tough conversation | 10.00% | ~31 |
+| A new way | 9.00% | ~28 |
 | First steps | 9.00% | ~28 |
 | The tragedy unfolds | 9.00% | ~28 |
-| A new way | 8.00% | ~25 |
 | Breaking free | 8.00% | ~25 |
 | Heavy Burden | 7.00% | ~22 |
 | True Reflection | 7.00% | ~22 |

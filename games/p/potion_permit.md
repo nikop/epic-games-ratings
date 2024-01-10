@@ -18,7 +18,7 @@ Rating: 3.86 (Ranked 1,074)
 | Decorative Mind | 33.00% | ~638 |
 | Lumber Specialist | 31.00% | ~600 |
 | Kind-hearted | 25.00% | ~484 |
-| Catch of the Day | 24.00% | ~464 |
+| Catch of the Day | 25.00% | ~484 |
 | Amateur Chef | 22.00% | ~425 |
 | Fishing Guru | 20.00% | ~387 |
 | Spark of Love | 18.00% | ~348 |

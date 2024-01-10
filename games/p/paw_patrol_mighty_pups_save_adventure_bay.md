@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 80.00% | ~49 |
-| Grand Re-Opening | 69.00% | ~42 |
-| Pup Pup Boogie | 66.00% | ~40 |
-| Summer Day | 66.00% | ~40 |
-| Mr. Porter | 54.00% | ~33 |
+| Mighty Powers | 81.00% | ~50 |
+| Grand Re-Opening | 68.00% | ~42 |
+| Pup Pup Boogie | 66.00% | ~41 |
+| Summer Day | 65.00% | ~40 |
+| Mr. Porter | 53.00% | ~33 |
 | Risky Rescue | 52.00% | ~32 |
-| Carlos Is Tangled | 51.00% | ~31 |
+| Carlos Is Tangled | 50.00% | ~31 |
 | Mandy Family | 44.00% | ~27 |
-| Clear the Road | 43.00% | ~26 |
-| Paw patrol member | 41.00% | ~25 |
-| Robot Out of Control | 41.00% | ~25 |
-| Break Time | 36.00% | ~22 |
-| Training Day | 36.00% | ~22 |
-| In the Air | 36.00% | ~22 |
-| Never Miss | 36.00% | ~22 |
+| Clear the Road | 42.00% | ~26 |
+| Paw patrol member | 40.00% | ~25 |
+| Robot Out of Control | 40.00% | ~25 |
+| Break Time | 35.00% | ~22 |
+| Training Day | 35.00% | ~22 |
+| In the Air | 35.00% | ~22 |
+| Never Miss | 35.00% | ~22 |
 | Master of the Rope | 34.00% | ~21 |
-| Animal Sighting | 30.00% | ~18 |
+| Animal Sighting | 29.00% | ~18 |
 | The Fastest | 26.00% | ~16 |
 | Adventure Bay’s Citizen | 26.00% | ~16 |
-| Don’t Miss Any | 25.00% | ~15 |
+| Don’t Miss Any | 24.00% | ~15 |
 | Mountain and Ice | 23.00% | ~14 |
 | You Have Been Everywhere | 21.00% | ~13 |
-| Everything Under Control | 20.00% | ~12 |
+| Everything Under Control | 19.00% | ~12 |
 | Nothing Can Stop You | 11.00% | ~7 |
 | A Great Explorer | 10.00% | ~6 |
-| King of the Mountain | 7.00% | ~4 |
+| King of the Mountain | 6.00% | ~4 |
 | Air Ace | 2.00% | ~1 |
 | You Know Them All | 2.00% | ~1 |
 | The Collector | 2.00% | ~1 |
 | Pup Treat Master | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 541)  
+Progressed: 62 (Ranked 540)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,6 +93,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-04 | 59 | 0 |
 | 2024-01-07 | 60 | 0 |
 | 2024-01-09 | 61 | 0 |
+| 2024-01-10 | 62 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

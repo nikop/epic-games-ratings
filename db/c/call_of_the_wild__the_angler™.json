@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8248,
+  "EOS_Progressed": 8252,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 335,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13802,6 +13802,11 @@
       "Time": "2024-01-10T16:09:02.6491518+00:00",
       "NumProgressed": 8248,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T17:08:31.3372+00:00",
+      "NumProgressed": 8252,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13821,7 +13826,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -13837,7 +13842,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -13845,7 +13850,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -13853,7 +13858,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -13861,7 +13866,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -13901,7 +13906,7 @@
       "Name": "I\u0027m the Captain Now",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_013",
@@ -13925,7 +13930,7 @@
       "Name": "Going for Gold",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -13965,7 +13970,7 @@
       "Name": "Marathon",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_021",
@@ -13973,7 +13978,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -13989,7 +13994,7 @@
       "Name": "No Fin left to give",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_024",
@@ -14013,7 +14018,7 @@
       "Name": "Big Fish Small Pond",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -14029,7 +14034,7 @@
       "Name": "Golden Ridge Ranger",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_029",
@@ -14132,13 +14137,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8248,
+      "Progressed": 8252,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7620,
+      "Progressed": 7624,
       "Completed": 113
     }
   ],
@@ -14146,8 +14151,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:09:02.6491514+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:08:31.3371999+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:00:35.5418055+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:09:02.6492491+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:59:44.0392684+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:08:31.3372733+00:00"
 }

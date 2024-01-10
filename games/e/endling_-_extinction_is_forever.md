@@ -20,15 +20,15 @@
 | Maternity | 16.00% | ~95 |
 | Barking in The Rain | 15.00% | ~89 |
 | Family Reunion | 14.00% | ~83 |
+| Never Run Around | 14.00% | ~83 |
 | Beyond Words | 14.00% | ~83 |
-| Never Run Around | 13.00% | ~77 |
 | Two Peas in a Pod | 11.00% | ~66 |
 | All For One | 11.00% | ~66 |
 | Extinction is Forever | 11.00% | ~66 |
 | Three Little Foxes | 10.00% | ~60 |
 | We Are a Family | 9.00% | ~54 |
+| For a Better Tomorrow | 4.00% | ~24 |
 | Mother Love | 4.00% | ~24 |
-| For a Better Tomorrow | 3.00% | ~18 |
 | Easter Egg | 2.00% | ~12 |
 | Omnivore | 1.00% | ~6 |
 | Endling | 0.80% | ~5 |

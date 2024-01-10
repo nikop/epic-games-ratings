@@ -53,9 +53,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | This Wall Won't Fall | 1.00% | ~120 |
 | Not the Last Sarkorian | 1.00% | ~120 |
 | End of Eternal Guard | 0.90% | ~119 |
-| Masterful Charge | 0.70% | ~92 |
-| Playful Mood | 0.70% | ~92 |
-| Dreadful Dragon | 0.70% | ~92 |
+| Masterful Charge | 0.70% | ~93 |
+| Playful Mood | 0.70% | ~93 |
+| Dreadful Dragon | 0.70% | ~93 |
 | Prelate's Nemesis | 0.50% | ~66 |
 | Ashes to Ashes | 0.40% | ~53 |
 | Masterful Dispel | 0.30% | ~40 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,214 (Ranked 176)  
+Progressed: 13,215 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -388,7 +388,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 13,129 | 0 |
 | 2024-01-08 | 13,155 | 0 |
 | 2024-01-09 | 13,184 | 0 |
-| 2024-01-10 | 13,214 | 0 |
+| 2024-01-10 | 13,215 | 0 |
 ## Awards
 Max (Character Customization): 1,780  (Ranked 129)  
 Sum: 7,211 (Ranked 127)  

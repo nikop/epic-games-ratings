@@ -2,7 +2,7 @@
   "ID": "7bb9b09415a544f78fadf6390b2e3a80",
   "Name": "Paragon: The Overprime",
   "ProductSlug": "paragon-the-overprime-0bca60",
-  "Ranking_Rating": 931,
+  "Ranking_Rating": 924,
   "Ranking_Popularity": 169,
   "Ranking_PopularitySum": 132,
   "Ranking_EOS_Progress": 824,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.24,
+  "Rating": 4.25,
   "RatingHistory": [
     {
       "Time": "2022-11-10T14:19:52.8915147+00:00",
@@ -8551,6 +8551,12 @@
       "Rating": 4.24,
       "NumberOfAwards": 6605,
       "NumberOfAwardsMax": 919
+    },
+    {
+      "Time": "2024-01-10T17:00:17.7275671+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 6605,
+      "NumberOfAwardsMax": 919
     }
   ],
   "ReviewsDisabled": false,
@@ -8649,8 +8655,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2024-01-10T02:24:02.5509482+00:00",
+  "LastChanged": "2024-01-10T17:00:17.7275669+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:20.686286+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:01:18.1690733+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:09:59.1555739+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:00:17.7275674+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:09:18.4437922+00:00"
 }

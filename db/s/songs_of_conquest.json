@@ -5,9 +5,9 @@
   "Ranking_Rating": 236,
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 399,
-  "Ranking_EOS_Progress": 286,
+  "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -456,9 +456,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1120,
+  "EOS_Progressed": 1123,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3906,6 +3906,11 @@
       "Time": "2024-01-10T16:09:57.519914+00:00",
       "NumProgressed": 1120,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T17:09:17.1925969+00:00",
+      "NumProgressed": 1123,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3942,7 +3947,7 @@
       "Name": "Dressed For Success",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "AttackCount",
@@ -4062,7 +4067,7 @@
       "Name": "Double Kill",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4222,7 +4227,7 @@
       "Name": "Landlord Extraordinaire",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "TrojanHorse",
@@ -4236,9 +4241,9 @@
       "ID": "UltraKill",
       "SetID": "71c0n9i",
       "Name": "Ultra Kill",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 22
     },
     {
       "ID": "WielderLevel1",
@@ -4246,7 +4251,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 515
+      "UsersEstimate": 517
     },
     {
       "ID": "WielderLevel2",
@@ -4302,7 +4307,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -4349,15 +4354,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1120,
+      "Progressed": 1123,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-08T22:01:52.5110389+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:09:57.5199137+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:09:17.1925965+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-10T15:57:56.5856426+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:09:57.5199618+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:57:37.4718887+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:09:17.1926802+00:00"
 }

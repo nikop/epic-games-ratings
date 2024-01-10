@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 371,
+  "EOS_Progressed": 372,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
@@ -1549,6 +1549,11 @@
       "Time": "2024-01-10T16:09:28.0111078+00:00",
       "NumProgressed": 371,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T17:08:52.4980459+00:00",
+      "NumProgressed": 372,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -1647,9 +1652,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 126
     },
     {
       "ID": "AstralSeeker",
@@ -1671,9 +1676,9 @@
       "ID": "AstrariumofHolding",
       "SetID": "1jeo1g7",
       "Name": "Astrarium of Holding",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 11
     },
     {
       "ID": "AstreasSaviors",
@@ -1785,7 +1790,7 @@
       "Name": "Dicesmithing Time!",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "EndlessTricks",
@@ -1793,7 +1798,7 @@
       "Name": "Endless Tricks",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -1913,7 +1918,7 @@
       "Name": "Meissa\u0027s Savior",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "MindIlluminator",
@@ -1921,7 +1926,7 @@
       "Name": "Mind Illuminator",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1985,7 +1990,7 @@
       "Name": "Purification Pioneer",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ReflexiveMind",
@@ -2017,7 +2022,7 @@
       "Name": "Sanctuary Guardian",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "Sentinelphobic",
@@ -2057,7 +2062,7 @@
       "Name": "Star Killer",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "StellarDismantler",
@@ -2201,7 +2206,7 @@
       "Name": "Apian Champion",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ApianHero",
@@ -2303,9 +2308,9 @@
       "ID": "LacertianHero",
       "SetID": "1jeo1g7",
       "Name": "Lacertian Hero",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 11
     },
     {
       "ID": "LacertianMastery",
@@ -2319,9 +2324,9 @@
       "ID": "NoctuanChampion",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Champion",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 126
     },
     {
       "ID": "NoctuanHero",
@@ -2344,14 +2349,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 371,
+      "Progressed": 372,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:09:28.0111072+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:08:52.4980454+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:27.4116813+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:01:38.0379124+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:09:28.0112192+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:00:34.675018+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:08:52.4981608+00:00"
 }

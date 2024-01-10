@@ -6,27 +6,27 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~14,656 |
-| Finding Your Footing | 25.00% | ~13,570 |
-| Nomad | 17.00% | ~9,228 |
-| Picking Up Speed | 15.00% | ~8,142 |
-| Welcome Maya | 14.00% | ~7,599 |
-| Scout | 11.00% | ~5,971 |
-| Sightseer | 11.00% | ~5,971 |
-| Amateur | 10.00% | ~5,428 |
-| Unlock Maya | 8.00% | ~4,342 |
-| Wanderer | 8.00% | ~4,342 |
+| Rookie | 27.00% | ~14,659 |
+| Finding Your Footing | 25.00% | ~13,573 |
+| Nomad | 17.00% | ~9,229 |
+| Picking Up Speed | 15.00% | ~8,144 |
+| Welcome Maya | 14.00% | ~7,601 |
+| Scout | 11.00% | ~5,972 |
+| Sightseer | 11.00% | ~5,972 |
+| Amateur | 10.00% | ~5,429 |
+| Unlock Maya | 8.00% | ~4,343 |
+| Wanderer | 8.00% | ~4,343 |
 | Enter Paz | 7.00% | ~3,800 |
-| Aviator | 5.00% | ~2,714 |
-| My Little Friend | 5.00% | ~2,714 |
-| One With The Board | 5.00% | ~2,714 |
-| Voyager | 4.00% | ~2,171 |
-| Junkie | 3.00% | ~1,628 |
-| Traveler | 3.00% | ~1,628 |
-| Unlock Paz | 3.00% | ~1,628 |
-| Human Flight | 3.00% | ~1,628 |
-| Sandboarder | 3.00% | ~1,628 |
-| Izel Has Arrived | 3.00% | ~1,628 |
+| Aviator | 5.00% | ~2,715 |
+| My Little Friend | 5.00% | ~2,715 |
+| One With The Board | 5.00% | ~2,715 |
+| Voyager | 4.00% | ~2,172 |
+| Junkie | 3.00% | ~1,629 |
+| Traveler | 3.00% | ~1,629 |
+| Unlock Paz | 3.00% | ~1,629 |
+| Human Flight | 3.00% | ~1,629 |
+| Sandboarder | 3.00% | ~1,629 |
+| Izel Has Arrived | 3.00% | ~1,629 |
 | Explorer | 2.00% | ~1,086 |
 | Pro | 2.00% | ~1,086 |
 | Journeyer | 2.00% | ~1,086 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~54 |
 | Windswept | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,281 (Ranked 121)  
+Progressed: 54,291 (Ranked 121)  
 Completed: 5 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 5 (0.01%) (Ranked 372)
 | 2024-01-07 | 53,972 | 5 |
 | 2024-01-08 | 54,073 | 5 |
 | 2024-01-09 | 54,193 | 5 |
-| 2024-01-10 | 54,281 | 5 |
+| 2024-01-10 | 54,291 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 51  (Ranked 455)  
 Sum: 396 (Ranked 357)  

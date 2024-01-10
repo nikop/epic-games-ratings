@@ -5,9 +5,9 @@ Rating: 4.69 (Ranked 236)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 46.00% | ~596 |
-| Rail Rat | 35.00% | ~453 |
-| The Mysterious Stranger | 34.00% | ~440 |
+| Time Heals All Wounds | 46.00% | ~597 |
+| Rail Rat | 35.00% | ~454 |
+| The Mysterious Stranger | 34.00% | ~441 |
 | Immaculate Aim | 29.00% | ~376 |
 | The Brass Boss | 28.00% | ~363 |
 | Time Flies | 27.00% | ~350 |
@@ -30,15 +30,15 @@ Rating: 4.69 (Ranked 236)
 | Street Style | 18.00% | ~233 |
 | The Man Who Shattered Time | 18.00% | ~233 |
 | The Family Fortune | 18.00% | ~233 |
-| Whiz Kid | 15.00% | ~194 |
-| Good Neighbor | 15.00% | ~194 |
-| Family Memories | 14.00% | ~181 |
-| Chaincrawler Explorer | 13.00% | ~168 |
-| Syron for Hope | 13.00% | ~168 |
-| Ask Questions Later | 13.00% | ~168 |
-| Treasure Trove | 12.00% | ~155 |
-| Cartographer | 12.00% | ~155 |
-| Sump Explorer | 12.00% | ~155 |
+| Whiz Kid | 15.00% | ~195 |
+| Good Neighbor | 15.00% | ~195 |
+| Family Memories | 14.00% | ~182 |
+| Chaincrawler Explorer | 13.00% | ~169 |
+| Syron for Hope | 13.00% | ~169 |
+| Ask Questions Later | 13.00% | ~169 |
+| Treasure Trove | 12.00% | ~156 |
+| Cartographer | 12.00% | ~156 |
+| Sump Explorer | 12.00% | ~156 |
 | Factorywood Explorer | 10.00% | ~130 |
 | Fairgrounds Explorer | 10.00% | ~130 |
 | Theater Explorer | 10.00% | ~130 |
@@ -59,7 +59,7 @@ Rating: 4.69 (Ranked 236)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,295 (Ranked 279)  
+Progressed: 1,297 (Ranked 279)  
 Completed: 7 (0.54%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 7 (0.54%) (Ranked 215)
 | 2024-01-07 | 1,264 | 7 |
 | 2024-01-08 | 1,278 | 7 |
 | 2024-01-09 | 1,289 | 7 |
-| 2024-01-10 | 1,295 | 7 |
+| 2024-01-10 | 1,297 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

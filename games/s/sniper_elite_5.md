@@ -5,37 +5,37 @@ Rating: 4.47 (Ranked 666)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,999 |
-| Confirming Suspicions | 42.00% | ~1,786 |
-| The Kraken Wakes | 38.00% | ~1,616 |
-| It's Starting to Crack | 35.00% | ~1,489 |
-| Change the Channel | 32.00% | ~1,361 |
-| Lord of War | 31.00% | ~1,318 |
-| Taking it back | 30.00% | ~1,276 |
-| Resourceful | 28.00% | ~1,191 |
-| Target America | 28.00% | ~1,191 |
-| The Kraken Sleeps | 25.00% | ~1,063 |
+| Meeting Resistance | 47.00% | ~2,000 |
+| Confirming Suspicions | 42.00% | ~1,788 |
+| The Kraken Wakes | 38.00% | ~1,617 |
+| It's Starting to Crack | 35.00% | ~1,490 |
+| Change the Channel | 32.00% | ~1,362 |
+| Lord of War | 31.00% | ~1,319 |
+| Taking it back | 30.00% | ~1,277 |
+| Resourceful | 28.00% | ~1,192 |
+| Target America | 28.00% | ~1,192 |
+| The Kraken Sleeps | 25.00% | ~1,064 |
 | As Quiet as a Mouse | 24.00% | ~1,021 |
-| Liberté | 23.00% | ~978 |
-| Organ Grinder | 23.00% | ~978 |
-| Sharpshooter | 23.00% | ~978 |
+| Liberté | 23.00% | ~979 |
+| Organ Grinder | 23.00% | ~979 |
+| Sharpshooter | 23.00% | ~979 |
 | Explosive Efficiency | 20.00% | ~851 |
-| Gunslinger | 19.00% | ~808 |
-| Climbing the Ladder | 17.00% | ~723 |
-| Just a Flesh Wound | 17.00% | ~723 |
-| Der Geist | 17.00% | ~723 |
-| Skirmisher | 16.00% | ~680 |
-| Close Quarters | 16.00% | ~680 |
-| Snake in the Grass | 16.00% | ~680 |
-| Brains of the Operation | 16.00% | ~680 |
+| Gunslinger | 19.00% | ~809 |
+| Climbing the Ladder | 17.00% | ~724 |
+| Just a Flesh Wound | 17.00% | ~724 |
+| Der Geist | 17.00% | ~724 |
+| Skirmisher | 16.00% | ~681 |
+| Close Quarters | 16.00% | ~681 |
+| Snake in the Grass | 16.00% | ~681 |
+| Brains of the Operation | 16.00% | ~681 |
 | No Stone Unturned | 15.00% | ~638 |
 | Die Nussknacker Sweet! | 15.00% | ~638 |
-| Opposing Force | 14.00% | ~595 |
-| Enemy at the Gates | 14.00% | ~595 |
-| Fields of Glory | 14.00% | ~595 |
-| Set Europe Ablaze | 14.00% | ~595 |
-| Precision Is Key | 10.00% | ~425 |
-| My Little Friend | 10.00% | ~425 |
+| Opposing Force | 14.00% | ~596 |
+| Enemy at the Gates | 14.00% | ~596 |
+| Fields of Glory | 14.00% | ~596 |
+| Set Europe Ablaze | 14.00% | ~596 |
+| Precision Is Key | 10.00% | ~426 |
+| My Little Friend | 10.00% | ~426 |
 | Rigged to Blow | 9.00% | ~383 |
 | Herr Today, Gone Tomorrow | 7.00% | ~294 |
 | The Long Game | 6.00% | ~255 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 666)
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,253 (Ranked 210)  
+Progressed: 4,256 (Ranked 210)  
 Completed: 11 (0.26%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 11 (0.26%) (Ranked 263)
 | 2024-01-07 | 4,237 | 11 |
 | 2024-01-08 | 4,244 | 11 |
 | 2024-01-09 | 4,249 | 11 |
-| 2024-01-10 | 4,253 | 11 |
+| 2024-01-10 | 4,256 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 529)  
 Sum: 29 (Ranked 546)  

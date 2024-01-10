@@ -5,33 +5,33 @@ Rating: 4.85 (Ranked 40)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 60.00% | ~1,593 |
-| Welcome to the Tower | 54.00% | ~1,434 |
-| The great escape | 46.00% | ~1,221 |
-| The Preacher's fate | 44.00% | ~1,168 |
-| A new dawn | 37.00% | ~982 |
-| Scholar | 33.00% | ~876 |
-| True G3M4R | 31.00% | ~823 |
-| The darkness | 31.00% | ~823 |
-| A good beginning | 30.00% | ~796 |
-| One last step | 28.00% | ~743 |
+| That's the spirit | 60.00% | ~1,594 |
+| Welcome to the Tower | 54.00% | ~1,435 |
+| The great escape | 46.00% | ~1,222 |
+| The Preacher's fate | 44.00% | ~1,169 |
+| A new dawn | 37.00% | ~983 |
+| Scholar | 33.00% | ~877 |
+| True G3M4R | 31.00% | ~824 |
+| The darkness | 31.00% | ~824 |
+| A good beginning | 30.00% | ~797 |
+| One last step | 28.00% | ~744 |
 | I did it | 27.00% | ~717 |
 | Cable guy | 27.00% | ~717 |
 | Half the way | 27.00% | ~717 |
-| Peace walker | 26.00% | ~690 |
-| Rascal | 26.00% | ~690 |
+| Peace walker | 26.00% | ~691 |
+| Rascal | 26.00% | ~691 |
 | In this together | 25.00% | ~664 |
 | Champollion | 25.00% | ~664 |
-| Open door | 22.00% | ~584 |
-| Feels like springtime | 22.00% | ~584 |
+| Open door | 22.00% | ~585 |
+| Feels like springtime | 22.00% | ~585 |
 | Alchemists Express | 21.00% | ~558 |
-| Free at last | 19.00% | ~504 |
+| Free at last | 19.00% | ~505 |
 | A Link to the Past | 16.00% | ~425 |
 | A great audience | 14.00% | ~372 |
 | For its own good | 14.00% | ~372 |
 | Fashion victim | 9.00% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,655 (Ranked 235)  
+Progressed: 2,657 (Ranked 235)  
 Completed: 191 (7.19%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 191 (7.19%) (Ranked 57)
 | 2024-01-07 | 2,529 | 176 |
 | 2024-01-08 | 2,573 | 180 |
 | 2024-01-09 | 2,625 | 186 |
-| 2024-01-10 | 2,655 | 191 |
+| 2024-01-10 | 2,657 | 191 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

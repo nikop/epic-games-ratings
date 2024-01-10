@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewPlayers": 383,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -1285,17 +1285,17 @@
       "ID": "TROP014",
       "SetID": "9n0dl35",
       "Name": "Never Run Around",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 77
+      "UsersEstimate": 83
     },
     {
       "ID": "TROP015",
       "SetID": "9n0dl35",
       "Name": "For a Better Tomorrow",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 18
+      "UsersEstimate": 24
     },
     {
       "ID": "TROP016",
@@ -1406,8 +1406,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:10:59.3814591+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:10:08.6873585+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:55.943768+00:00",
-  "LastUpdate_Ratings": "2024-01-10T15:57:31.7729569+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:10:59.3814883+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:57:18.5883429+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:10:08.6873759+00:00"
 }

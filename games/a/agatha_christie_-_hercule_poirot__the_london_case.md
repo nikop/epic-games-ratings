@@ -7,10 +7,10 @@
 | Marc Allard | 77.00% | ~84 |
 | Little ideas | 74.00% | ~81 |
 | The Ship | 71.00% | ~77 |
-| Seeking the truth | 57.00% | ~62 |
-| An old friend | 54.00% | ~59 |
-| The Gala | 53.00% | ~58 |
-| A curious gathering | 50.00% | ~54 |
+| Seeking the truth | 58.00% | ~63 |
+| An old friend | 55.00% | ~60 |
+| The Gala | 54.00% | ~59 |
+| A curious gathering | 51.00% | ~56 |
 | Little grey cells | 49.00% | ~53 |
 | Impossible is possible | 48.00% | ~52 |
 | Arthur Hastings | 48.00% | ~52 |
@@ -21,8 +21,8 @@
 | Betty Allen | 36.00% | ~39 |
 | Order and method | 35.00% | ~38 |
 | The Investigation Begins | 34.00% | ~37 |
+| Irene Court-Smyth | 32.00% | ~35 |
 | Ms. Camilla B. Culsham | 31.00% | ~34 |
-| Irene Court-Smyth | 31.00% | ~34 |
 | An odd series of events | 30.00% | ~33 |
 | The Apartment | 30.00% | ~33 |
 | A rude awakening | 28.00% | ~31 |

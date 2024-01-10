@@ -1507,9 +1507,9 @@
       "ID": "ACH_BANDAGES",
       "SetID": "511e31d",
       "Name": "First aid",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_BATHROOM",
@@ -1531,25 +1531,25 @@
       "ID": "ACH_DOCDOCUMENTS",
       "SetID": "511e31d",
       "Name": "The experiment",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_ENTRANCE",
       "SetID": "511e31d",
       "Name": "I\u0027m close now",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_ENTRANCEEVIL",
       "SetID": "511e31d",
       "Name": "Failed attempt",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_ESCAPEDOC",
@@ -1571,9 +1571,9 @@
       "ID": "ACH_EVILDOCUMENTS",
       "SetID": "511e31d",
       "Name": "Horror book",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_FORCE",
@@ -1595,9 +1595,9 @@
       "ID": "ACH_HOHARMFORCE104",
       "SetID": "511e31d",
       "Name": "Let\u0027s play a game\u2026",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_KITCHEN",
@@ -1635,17 +1635,17 @@
       "ID": "ACH_NOKNIFE",
       "SetID": "511e31d",
       "Name": "Good choice",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_OUTOFMOTEL",
       "SetID": "511e31d",
       "Name": "It can\u0027t be true",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_PICKLOCK",
@@ -1659,9 +1659,9 @@
       "ID": "ACH_RESTAURANT",
       "SetID": "511e31d",
       "Name": "Take the long way round",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_REVENGE",
@@ -1738,8 +1738,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:08:10.9876979+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:06:40.5785495+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:32.0336088+00:00",
-  "LastUpdate_Ratings": "2024-01-10T15:57:40.0222339+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:08:10.9877244+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:57:24.8208335+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:06:40.5785902+00:00"
 }

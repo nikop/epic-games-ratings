@@ -1725,9 +1725,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 247535,
+  "EOS_Progressed": 247543,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1178,
+  "EOS_NewPlayers": 1176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25685,6 +25685,11 @@
       "Time": "2024-01-10T16:11:06.6630933+00:00",
       "NumProgressed": 247535,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-10T17:10:15.0204997+00:00",
+      "NumProgressed": 247543,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25728,7 +25733,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9901
+      "UsersEstimate": 9902
     },
     {
       "ID": "BookCollection",
@@ -25760,7 +25765,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9901
+      "UsersEstimate": 9902
     },
     {
       "ID": "Chapter4",
@@ -26096,7 +26101,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22278
+      "UsersEstimate": 22279
     },
     {
       "ID": "DwarfElf15Support",
@@ -26128,7 +26133,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14852
+      "UsersEstimate": 14853
     },
     {
       "ID": "ElfEpic",
@@ -26144,7 +26149,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 91588
+      "UsersEstimate": 91591
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -26192,7 +26197,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27229
+      "UsersEstimate": 27230
     },
     {
       "ID": "FollowBraztok",
@@ -26344,7 +26349,7 @@
       "Name": "Speedrun",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14852
+      "UsersEstimate": 14853
     },
     {
       "ID": "SupportCount4",
@@ -26392,28 +26397,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9901
+      "UsersEstimate": 9902
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 247535,
+      "Progressed": 247543,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 247535,
+      "Progressed": 247543,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-10T11:00:35.3209185+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:11:06.6630929+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:10:15.0204993+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8090113+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:01:22.5474993+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:11:06.6632883+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:00:21.4593502+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:10:15.0208179+00:00"
 }

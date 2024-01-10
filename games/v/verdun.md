@@ -6,16 +6,16 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~53,916 |
-| Worth it | 63.00% | ~43,547 |
-| Eagle Eye | 55.00% | ~38,018 |
-| Corpseman I | 39.00% | ~26,958 |
-| Blast fishing | 37.00% | ~25,576 |
-| Not alone | 32.00% | ~22,119 |
-| Headhunter I | 26.00% | ~17,972 |
+| Setting an example | 78.00% | ~53,918 |
+| Worth it | 63.00% | ~43,549 |
+| Eagle Eye | 55.00% | ~38,019 |
+| Corpseman I | 39.00% | ~26,959 |
+| Blast fishing | 37.00% | ~25,577 |
+| Not alone | 32.00% | ~22,120 |
+| Headhunter I | 26.00% | ~17,973 |
 | Developers, Developers, Developers | 24.00% | ~16,590 |
 | Manual Labour I | 24.00% | ~16,590 |
-| Basic Training | 23.00% | ~15,898 |
+| Basic Training | 23.00% | ~15,899 |
 | Furchtlos und Treu | 13.00% | ~8,986 |
 | Gott Mit Uns | 12.00% | ~8,295 |
 | This We'll Defend! | 9.00% | ~6,221 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | In My Defens God Me Defend | 3.00% | ~2,074 |
 | Silver x100 | 3.00% | ~2,074 |
 | Impavidum Ferient Bella! | 3.00% | ~2,074 |
-| Bronze x100 | 2.00% | ~1,382 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~1,382 |
+| Bronze x100 | 2.00% | ~1,383 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~1,383 |
 | Gold x100 | 1.00% | ~691 |
 | Hunting the Hun | 1.00% | ~691 |
 | #1 | 1.00% | ~691 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Headhunter II | 1.00% | ~691 |
 | Corpseman III | 1.00% | ~691 |
 | Elite Player | 0.80% | ~553 |
-| Manual Labour III | 0.40% | ~276 |
+| Manual Labour III | 0.40% | ~277 |
 | War is better with friends II | 0.20% | ~138 |
 | Buddy | 0.20% | ~138 |
 | Gold Collector | 0.10% | ~69 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~69 |
 | Blood Brother | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,123 (Ranked 114)  
+Progressed: 69,126 (Ranked 114)  
 Completed: 4 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 4 (0.01%) (Ranked 372)
 | 2024-01-07 | 68,903 | 4 |
 | 2024-01-08 | 69,001 | 4 |
 | 2024-01-09 | 69,082 | 4 |
-| 2024-01-10 | 69,123 | 4 |
+| 2024-01-10 | 69,126 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 374)  
 Sum: 833 (Ranked 289)  

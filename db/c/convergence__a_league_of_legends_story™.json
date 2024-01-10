@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1295,
+  "EOS_Progressed": 1297,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -3893,6 +3893,11 @@
       "Time": "2024-01-10T14:11:32.1875017+00:00",
       "NumProgressed": 1295,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-10T17:10:14.5312614+00:00",
+      "NumProgressed": 1297,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3920,7 +3925,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ChestCompletion1",
@@ -3928,7 +3933,7 @@
       "Name": "Treasure Trove",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -4000,7 +4005,7 @@
       "Name": "Family Memories",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "FactorywoodChests1",
@@ -4024,7 +4029,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -4056,7 +4061,7 @@
       "Name": "Whiz Kid",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "GrindingTime1",
@@ -4064,7 +4069,7 @@
       "Name": "Rail Rat",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "HexlockGift",
@@ -4104,7 +4109,7 @@
       "Name": "Cartographer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "NoCritterSump",
@@ -4192,7 +4197,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "RewindParry",
@@ -4248,7 +4253,7 @@
       "Name": "Sump Explorer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "SyronGift",
@@ -4256,7 +4261,7 @@
       "Name": "Syron for Hope",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "TemporalPulseKills1",
@@ -4296,7 +4301,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "WatcherSpared",
@@ -4304,7 +4309,7 @@
       "Name": "Good Neighbor",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "Zarkon1Defeated",
@@ -4327,7 +4332,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1295,
+      "Progressed": 1297,
       "Completed": 7
     }
   ],
@@ -4335,8 +4340,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:11:06.0331168+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:10:14.5312611+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:00:55.9229686+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:11:06.0331796+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:00:00.2986403+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:10:14.531327+00:00"
 }

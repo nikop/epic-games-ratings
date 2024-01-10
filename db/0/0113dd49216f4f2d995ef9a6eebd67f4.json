@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 265,
+  "EOS_Progressed": 266,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1189,6 +1189,11 @@
       "Time": "2024-01-10T05:09:05.1055478+00:00",
       "NumProgressed": 265,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T17:09:04.6838959+00:00",
+      "NumProgressed": 266,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1201,7 +1206,7 @@
       "Name": "Abdication",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "SG_ACROSSTHESTYX",
@@ -1225,7 +1230,7 @@
       "Name": "All The Help You Need",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "SG_ARROWOFEROSUNDONE",
@@ -1273,7 +1278,7 @@
       "Name": "End Of The Road",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1337,7 +1342,7 @@
       "Name": "Meant To Be",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -1425,7 +1430,7 @@
       "Name": "The Deep End",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -1496,14 +1501,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 265,
+      "Progressed": 266,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:09:42.458119+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:09:04.6838955+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:01:22.4970932+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:09:42.4581579+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:00:21.1652312+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:09:04.6839281+00:00"
 }

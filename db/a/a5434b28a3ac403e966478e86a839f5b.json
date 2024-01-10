@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 941,
+  "EOS_Progressed": 942,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -3270,6 +3270,11 @@
       "Time": "2024-01-10T16:09:27.2551076+00:00",
       "NumProgressed": 941,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-10T17:08:51.9075628+00:00",
+      "NumProgressed": 942,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3290,7 +3295,7 @@
       "Name": "Establish Communications",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH_eou2",
@@ -3306,7 +3311,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_eou4",
@@ -3330,7 +3335,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_eou7",
@@ -3354,7 +3359,7 @@
       "Name": "Disc Collector",
       "Percentage": 6,
       "XP": 120,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_n64",
@@ -3362,7 +3367,7 @@
       "Name": "Shut Down the Core",
       "Percentage": 6,
       "XP": 120,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_rogue",
@@ -3370,7 +3375,7 @@
       "Name": "Anti-Gravity",
       "Percentage": 6,
       "XP": 120,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_xatrix",
@@ -3385,14 +3390,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 941,
+      "Progressed": 942,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:09:27.2551072+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:08:51.9075621+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:20.0779143+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:00:50.8426047+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:09:27.2551341+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:59:57.1648676+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:08:51.9075895+00:00"
 }

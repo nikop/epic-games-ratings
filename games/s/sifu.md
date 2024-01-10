@@ -6,40 +6,40 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,535 |
-| Life is your teacher | 5.00% | ~37,945 |
-| The Assault | 4.00% | ~30,356 |
-| Lightning Hands | 4.00% | ~30,356 |
-| The Hateful Pole Fighter | 3.00% | ~22,767 |
-| State of constant learning | 3.00% | ~22,767 |
-| Qi Gong: Essence | 3.00% | ~22,767 |
-| Old Child | 3.00% | ~22,767 |
-| A Lady's Blood in the Snow | 2.00% | ~15,178 |
-| Lady Wing Chun | 2.00% | ~15,178 |
-| Furious Fists | 2.00% | ~15,178 |
-| Kill Nil | 2.00% | ~15,178 |
-| Stuntmaster | 2.00% | ~15,178 |
-| Street Fighting | 2.00% | ~15,178 |
-| Qi Gong: Breath | 2.00% | ~15,178 |
-| I know Kung-Fu | 2.00% | ~15,178 |
-| Path of the Prospect | 2.00% | ~15,178 |
-| Rumble in the Hangar | 2.00% | ~15,178 |
-| Take damage to save time | 2.00% | ~15,178 |
-| Diligence as a goal | 2.00% | ~1,364 |
-| Scareless | 1.00% | ~7,589 |
-| Dance of the Praying Mantis | 1.00% | ~7,589 |
-| Qi Gong: Mind | 1.00% | ~7,589 |
-| Kung-Fu Tussle | 1.00% | ~7,589 |
-| Project Arena | 1.00% | ~682 |
+| The Old Grandmaster | 6.00% | ~45,538 |
+| Life is your teacher | 5.00% | ~37,948 |
+| The Assault | 4.00% | ~30,359 |
+| Lightning Hands | 4.00% | ~30,359 |
+| The Hateful Pole Fighter | 3.00% | ~22,769 |
+| State of constant learning | 3.00% | ~22,769 |
+| Qi Gong: Essence | 3.00% | ~22,769 |
+| Old Child | 3.00% | ~22,769 |
+| A Lady's Blood in the Snow | 2.00% | ~15,179 |
+| Lady Wing Chun | 2.00% | ~15,179 |
+| Furious Fists | 2.00% | ~15,179 |
+| Kill Nil | 2.00% | ~15,179 |
+| Stuntmaster | 2.00% | ~15,179 |
+| Street Fighting | 2.00% | ~15,179 |
+| Qi Gong: Breath | 2.00% | ~15,179 |
+| I know Kung-Fu | 2.00% | ~15,179 |
+| Path of the Prospect | 2.00% | ~15,179 |
+| Rumble in the Hangar | 2.00% | ~15,179 |
+| Take damage to save time | 2.00% | ~15,179 |
+| Diligence as a goal | 2.00% | ~1,365 |
+| Scareless | 1.00% | ~7,590 |
+| Dance of the Praying Mantis | 1.00% | ~7,590 |
+| Qi Gong: Mind | 1.00% | ~7,590 |
+| Kung-Fu Tussle | 1.00% | ~7,590 |
+| Project Arena | 1.00% | ~683 |
 | Fight the way you practice | 0.80% | ~546 |
-| Muk Yan Master | 0.70% | ~5,312 |
-| Tiger on Fire | 0.60% | ~4,553 |
-| Source of Flying Daggers | 0.60% | ~4,553 |
-| Iron Money | 0.60% | ~4,553 |
-| Detective Story | 0.60% | ~4,553 |
-| Sword Stained With Blood | 0.60% | ~4,553 |
-| Bloody Sport | 0.60% | ~409 |
-| Martial Hub | 0.60% | ~409 |
+| Muk Yan Master | 0.70% | ~5,313 |
+| Tiger on Fire | 0.60% | ~4,554 |
+| Source of Flying Daggers | 0.60% | ~4,554 |
+| Iron Money | 0.60% | ~4,554 |
+| Detective Story | 0.60% | ~4,554 |
+| Sword Stained With Blood | 0.60% | ~4,554 |
+| Bloody Sport | 0.60% | ~410 |
+| Martial Hub | 0.60% | ~410 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,795 |
 | Prodigal Child | 0.50% | ~3,795 |
 | The 36th Chamber of Kung-Fu | 0.50% | ~3,795 |
@@ -55,11 +55,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Healing Memory | 0.20% | ~1,518 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,518 |
 | Be like water my friend | 0.20% | ~1,518 |
-| Secure, Protect, Leave | 0.20% | ~136 |
-| Crouching Tiger | 0.20% | ~136 |
-| Skill and an even stronger will | 0.20% | ~136 |
-| Master of the Flying Assassins | 0.20% | ~136 |
-| Beatmaker | 0.20% | ~136 |
+| Secure, Protect, Leave | 0.20% | ~137 |
+| Crouching Tiger | 0.20% | ~137 |
+| Skill and an even stronger will | 0.20% | ~137 |
+| Master of the Flying Assassins | 0.20% | ~137 |
+| Beatmaker | 0.20% | ~137 |
 | Warriors from the Mountain | 0.10% | ~759 |
 | Hidden Dragon | 0.10% | ~68 |
 | Here Cometh the Iceman | 0.10% | ~68 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~68 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 758,909 (Ranked 26)  
-Completed: 12,982 (1.71%) (Ranked 142)  
+Progressed: 758,964 (Ranked 26)  
+Completed: 12,982 (1.71%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -332,7 +332,7 @@ Completed: 12,982 (1.71%) (Ranked 142)
 | 2024-01-07 | 756,813 | 12,976 |
 | 2024-01-08 | 757,529 | 12,979 |
 | 2024-01-09 | 758,306 | 12,980 |
-| 2024-01-10 | 758,909 | 12,982 |
+| 2024-01-10 | 758,964 | 12,982 |
 ## Awards
 Max (Great Boss Battles): 7,166  (Ranked 56)  
 Sum: 12,677 (Ranked 85)  

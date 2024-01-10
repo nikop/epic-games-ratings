@@ -309,7 +309,7 @@
   "Tags": [],
   "EOS_Progressed": 1002,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -3630,9 +3630,9 @@
       "ID": "pack-and-sell",
       "SetID": "bed33dd",
       "Name": "Hokey-Pokey",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 681
     },
     {
       "ID": "play-at-night",
@@ -3726,8 +3726,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-05T21:03:11.6844011+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:08:23.3874152+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:06:51.3879261+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:39.3719101+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:03:13.2703069+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:08:23.3874529+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:02:56.1113185+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:06:51.3879681+00:00"
 }

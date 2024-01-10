@@ -1,18 +1,18 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 678)  
+Rating: 4.46 (Ranked 679)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~134,253 |
+| In The Zone | 53.00% | ~134,254 |
 | My First Runbow | 50.00% | ~126,654 |
 | It's The Fall | 26.00% | ~65,860 |
 | The Stunner | 23.00% | ~58,261 |
 | Be Aggressive | 21.00% | ~53,195 |
 | Curator | 20.00% | ~50,662 |
-| Crowning Around | 18.00% | ~45,595 |
-| Can You Dig It? | 17.00% | ~43,062 |
+| Crowning Around | 18.00% | ~45,596 |
+| Can You Dig It? | 17.00% | ~43,063 |
 | You Juan-A-Go? | 16.00% | ~40,529 |
 | Chan-tastic | 15.00% | ~37,996 |
 | Muddy Waters | 14.00% | ~35,463 |
@@ -21,7 +21,7 @@ Rating: 4.46 (Ranked 678)
 | Just A Phaze | 7.00% | ~17,732 |
 | Into The Drift | 7.00% | ~17,732 |
 | Ready? Fight! | 7.00% | ~17,732 |
-| Butt Butt | 6.00% | ~15,198 |
+| Butt Butt | 6.00% | ~15,199 |
 | He Who Laughs Last | 3.00% | ~7,599 |
 | Shoo, Cat! | 3.00% | ~7,599 |
 | And You're Okay | 2.00% | ~5,066 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 678)
 | Talent Scout | 0.10% | ~253 |
 | True Completionist | 0.10% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,308 (Ranked 70)  
+Progressed: 253,309 (Ranked 70)  
 Completed: 6 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 6 (0.00%) (Ranked 395)
 | 2024-01-07 | 253,235 | 6 |
 | 2024-01-08 | 253,259 | 6 |
 | 2024-01-09 | 253,291 | 6 |
-| 2024-01-10 | 253,308 | 6 |
+| 2024-01-10 | 253,309 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

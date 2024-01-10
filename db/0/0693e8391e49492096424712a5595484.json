@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 758,
+  "EOS_Progressed": 759,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.12,
+  "EOS_Completed_Percentage": 7.11,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -3089,6 +3089,11 @@
       "Time": "2024-01-10T16:03:54.3068633+00:00",
       "NumProgressed": 758,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2024-01-10T17:03:31.3216632+00:00",
+      "NumProgressed": 759,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 45,
@@ -3100,7 +3105,7 @@
       "Name": "Wild Run",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "BasiliskBroom",
@@ -3164,7 +3169,7 @@
       "Name": "Alms",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -3244,7 +3249,7 @@
       "Name": "Funny Hobo",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "FerrymanBird",
@@ -3252,7 +3257,7 @@
       "Name": "Happy Reunion",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "HastrmanAcorn",
@@ -3260,7 +3265,7 @@
       "Name": "Do Not Disturb",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "HastrmanAmanita",
@@ -3268,15 +3273,15 @@
       "Name": "Tastes Funny",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "HastrmanHappy",
       "SetID": "db30heh",
       "Name": "Regular Diet",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 334
+      "UsersEstimate": 326
     },
     {
       "ID": "HastrmanRum",
@@ -3308,7 +3313,7 @@
       "Name": "Your Soul Is Mine",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "PriestBroom",
@@ -3348,7 +3353,7 @@
       "Name": "Rummy",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "Priestess",
@@ -3372,7 +3377,7 @@
       "Name": "Treasure Chest",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "RogueEat",
@@ -3380,7 +3385,7 @@
       "Name": "Debt Free",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "RogueKing",
@@ -3404,7 +3409,7 @@
       "Name": "In Good Spirits",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -3412,7 +3417,7 @@
       "Name": "Wild Dreams",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "SleepingBasiliskPistol",
@@ -3459,14 +3464,14 @@
     {
       "ID": "db30heh",
       "IsBase": true,
-      "Progressed": 758,
+      "Progressed": 759,
       "Completed": 54
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:03:54.3068629+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:03:31.3216628+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:55.0577875+00:00",
-  "LastUpdate_Ratings": "2024-01-10T15:58:40.113459+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:03:54.3069122+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:58:13.0155503+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:03:31.3217344+00:00"
 }

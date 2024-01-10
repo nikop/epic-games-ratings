@@ -5,7 +5,7 @@ Rating: 3.68 (Ranked 1,094)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 21.00% | ~493 |
+| I Like My Stakes Rare! | 22.00% | ~517 |
 | Catch and Release | 16.00% | ~376 |
 | Home Is Where the Heart Is | 15.00% | ~352 |
 | Wounded Whispers | 15.00% | ~352 |
@@ -16,9 +16,9 @@ Rating: 3.68 (Ranked 1,094)
 | Fly Fisher | 11.00% | ~258 |
 | Sucks To Be You | 11.00% | ~258 |
 | Throw The First Stone | 10.00% | ~235 |
-| Enter of Your Own Free Will | 9.00% | ~211 |
-| Welcome to the Neighborhood | 9.00% | ~211 |
-| Heart Attack | 9.00% | ~211 |
+| Enter of Your Own Free Will | 9.00% | ~212 |
+| Welcome to the Neighborhood | 9.00% | ~212 |
+| Heart Attack | 9.00% | ~212 |
 | Grounded | 8.00% | ~188 |
 | Skin of Their Teeth | 8.00% | ~188 |
 | Neighborhood Revitalization | 6.00% | ~141 |
@@ -41,8 +41,8 @@ Rating: 3.68 (Ranked 1,094)
 | Right This Way | 2.00% | ~47 |
 | Nice Try | 2.00% | ~47 |
 | Curious Finch | 2.00% | ~47 |
-| Blood Brother | 1.00% | ~23 |
-| Blacklight Down | 1.00% | ~23 |
+| Blood Brother | 1.00% | ~24 |
+| Blacklight Down | 1.00% | ~24 |
 | Neighborhood Watch | 0.90% | ~21 |
 | Bloody Initiate | 0.90% | ~21 |
 | Empty Nest Syndrome | 0.80% | ~19 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,094)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,349 (Ranked 240)  
+Progressed: 2,350 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 2,301 | 0 |
 | 2024-01-08 | 2,317 | 0 |
 | 2024-01-09 | 2,331 | 0 |
-| 2024-01-10 | 2,349 | 0 |
+| 2024-01-10 | 2,350 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 556)  
 Sum: 24 (Ranked 563)  

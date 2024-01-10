@@ -4,7 +4,7 @@
   "ProductSlug": "gangs-of-sherwood",
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewPlayers": 421,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -557,9 +557,9 @@
       "ID": "ACH_100_HIT_COMBO",
       "SetID": "5akmpni",
       "Name": "Ultra Combo",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_25_FINISHER",
@@ -813,9 +813,9 @@
       "ID": "ACH_LAUNCH_ENEMY",
       "SetID": "5akmpni",
       "Name": "Spring Board",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_LONG_REBEL_INSTINCT",
@@ -956,8 +956,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:08:59.8511586+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:08:29.0720961+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0155882+00:00",
-  "LastUpdate_Ratings": "2024-01-10T15:58:40.4215169+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:08:59.8512249+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:58:13.1744425+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:08:29.0721416+00:00"
 }

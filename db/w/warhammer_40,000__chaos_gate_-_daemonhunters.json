@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -837,9 +837,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3873,
+  "EOS_Progressed": 3874,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5872,6 +5872,11 @@
       "Time": "2024-01-10T16:06:09.3754732+00:00",
       "NumProgressed": 3873,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T17:05:24.1430305+00:00",
+      "NumProgressed": 3874,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -6129,9 +6134,9 @@
       "ID": "KoramarCompleted",
       "SetID": "3jha1np",
       "Name": "An Ill Omen",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 542
+      "UsersEstimate": 581
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -6426,21 +6431,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3873,
+      "Progressed": 3874,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3873,
+      "Progressed": 3874,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-07T22:03:18.1525827+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:06:09.3754727+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:05:24.1430298+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:54.2702622+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:03:34.8340369+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:06:09.375544+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:03:12.7134123+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:05:24.1431332+00:00"
 }

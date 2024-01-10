@@ -14,7 +14,7 @@
 | Sapper | 21.00% | ~32 |
 | Tough Decision | 19.00% | ~29 |
 | Veteran Sniper | 18.00% | ~28 |
-| The Neuro-connector | 17.00% | ~26 |
+| The Neuro-connector | 18.00% | ~28 |
 | Unstoppable | 16.00% | ~24 |
 | Flatline | 16.00% | ~24 |
 | Mind Over Matter | 16.00% | ~24 |

@@ -9919,10 +9919,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28806,
       "NumberOfAwardsMax": 7769
+    },
+    {
+      "Time": "2024-01-10T16:59:16.5789767+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28808,
+      "NumberOfAwardsMax": 7769
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28806,
+  "NumberOfAwards": 28808,
   "NumberOfAwardsMax": 7769,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9984,7 +9990,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 1702
+      "Count": 1704
     },
     {
       "Text": "This game is Relaxing",
@@ -10005,9 +10011,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 816834,
+  "EOS_Progressed": 816836,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 1091,
+  "EOS_NewPlayers": 1078,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40010,6 +40016,11 @@
       "Time": "2024-01-10T16:11:02.7579604+00:00",
       "NumProgressed": 816834,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-10T17:10:11.6906745+00:00",
+      "NumProgressed": 816836,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -40045,7 +40056,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 130693
+      "UsersEstimate": 130694
     },
     {
       "ID": "Awakening",
@@ -40053,7 +40064,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 171535
+      "UsersEstimate": 171536
     },
     {
       "ID": "BadGirl",
@@ -40101,7 +40112,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 261387
+      "UsersEstimate": 261388
     },
     {
       "ID": "Bookworm",
@@ -40181,7 +40192,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 81683
+      "UsersEstimate": 81684
     },
     {
       "ID": "DavidHorak",
@@ -40237,7 +40248,7 @@
       "Name": "Firestarter",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 130693
+      "UsersEstimate": 130694
     },
     {
       "ID": "Freud",
@@ -40341,7 +40352,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 106188
+      "UsersEstimate": 106189
     },
     {
       "ID": "Judas",
@@ -40421,7 +40432,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 57178
+      "UsersEstimate": 57179
     },
     {
       "ID": "MercenarysHonor",
@@ -40525,7 +40536,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 57178
+      "UsersEstimate": 57179
     },
     {
       "ID": "Saviour",
@@ -40676,15 +40687,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 816834,
+      "Progressed": 816836,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2024-01-10T11:59:25.2590367+00:00",
-  "LastChanged_Achievements": "2024-01-10T16:11:02.75796+00:00",
+  "LastChanged": "2024-01-10T16:59:16.5789765+00:00",
+  "LastChanged_Achievements": "2024-01-10T17:10:11.6906741+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.1586279+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:00:00.7670725+00:00",
-  "LastUpdate_Achievements": "2024-01-10T16:11:02.7581405+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:59:16.5789776+00:00",
+  "LastUpdate_Achievements": "2024-01-10T17:10:11.6909426+00:00"
 }

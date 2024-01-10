@@ -47,20 +47,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 1.00% | ~164 |
 | Great | 0.90% | ~147 |
 | Able Difficulty | 0.90% | ~147 |
+| Furious Family | 0.90% | ~147 |
 | Apadana | 0.90% | ~147 |
 | Necropolis | 0.90% | ~147 |
 | Learn to Play 2 | 0.90% | ~147 |
 | Carthaginian Paganism | 0.90% | ~147 |
 | Regicide | 0.80% | ~131 |
+| Drillmaster | 0.80% | ~131 |
 | Wise | 0.80% | ~131 |
-| Furious Family | 0.80% | ~131 |
+| Legendary Cities | 0.80% | ~131 |
 | Acropolis | 0.80% | ~131 |
 | Musaeum | 0.80% | ~131 |
 | Manichaeism | 0.80% | ~131 |
 | Egyptian Paganism | 0.80% | ~131 |
-| Drillmaster | 0.70% | ~115 |
 | Valiant | 0.70% | ~115 |
-| Legendary Cities | 0.70% | ~115 |
 | Just Difficulty | 0.70% | ~115 |
 | Colossus | 0.70% | ~115 |
 | Mausoleum | 0.70% | ~115 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,359 (Ranked 169)  
+Progressed: 16,362 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -630,7 +630,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
-| 2024-01-10 | 16,359 | 5 |
+| 2024-01-10 | 16,362 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,919 (Ranked 224)  
