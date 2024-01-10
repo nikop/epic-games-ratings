@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -302,7 +302,7 @@
   "Tags": [],
   "EOS_Progressed": 2552,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -4878,9 +4878,9 @@
       "ID": "ACHV_34",
       "SetID": "8p5mlmc",
       "Name": "Shocking",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 485
+      "UsersEstimate": 510
     },
     {
       "ID": "ACHV_35",
@@ -5079,8 +5079,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-07T10:02:57.9512677+00:00",
-  "LastChanged_Achievements": "2024-01-10T12:05:07.0869697+00:00",
+  "LastChanged_Achievements": "2024-01-10T13:11:04.5324854+00:00",
   "LastUpdate_AppInfo": "2024-01-06T17:57:07.4256179+00:00",
-  "LastUpdate_Ratings": "2024-01-10T12:03:17.1538205+00:00",
-  "LastUpdate_Achievements": "2024-01-10T12:05:07.0870271+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:08:48.2979731+00:00",
+  "LastUpdate_Achievements": "2024-01-10T13:11:04.5325567+00:00"
 }

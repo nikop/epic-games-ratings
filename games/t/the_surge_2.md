@@ -20,7 +20,7 @@ Rating: 4.26 (Ranked 916)
 | True Survivor | 21.00% | ~536 |
 | It's a Trap | 21.00% | ~536 |
 | Offensive Defense | 20.00% | ~510 |
-| Shocking | 19.00% | ~485 |
+| Shocking | 20.00% | ~510 |
 | Unforeseeable Consequences | 19.00% | ~485 |
 | Court Martial | 18.00% | ~459 |
 | Clean Cut | 18.00% | ~459 |

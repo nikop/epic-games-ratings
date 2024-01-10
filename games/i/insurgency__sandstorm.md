@@ -6,15 +6,15 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~26,135 |
-| Wallbanger | 5.00% | ~26,135 |
-| Exploitative | 4.00% | ~20,908 |
-| High Speed Low Drag | 4.00% | ~20,908 |
-| Wet Feet | 4.00% | ~20,908 |
-| Checkpoint Victory | 3.00% | ~15,681 |
-| Lucky | 3.00% | ~15,681 |
-| Stylin' | 3.00% | ~15,681 |
-| Turf War | 3.00% | ~15,681 |
+| Point Shooting | 5.00% | ~26,136 |
+| Wallbanger | 5.00% | ~26,136 |
+| Exploitative | 4.00% | ~20,909 |
+| High Speed Low Drag | 4.00% | ~20,909 |
+| Wet Feet | 4.00% | ~20,909 |
+| Checkpoint Victory | 3.00% | ~15,682 |
+| Lucky | 3.00% | ~15,682 |
+| Stylin' | 3.00% | ~15,682 |
+| Turf War | 3.00% | ~15,682 |
 | Banged | 2.00% | ~10,454 |
 | First Blood | 2.00% | ~10,454 |
 | Flaccid Paralysis | 2.00% | ~10,454 |
@@ -32,7 +32,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | Special Delivery | 0.70% | ~3,659 |
 | Firefight Victory | 0.60% | ~3,136 |
 | #1 | 0.60% | ~3,136 |
-| Cinematic | 0.50% | ~2,613 |
+| Cinematic | 0.50% | ~2,614 |
 | Thanks Station! | 0.40% | ~2,091 |
 | Knock Knock | 0.30% | ~1,568 |
 | There For You | 0.30% | ~1,568 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~523 |
 | Road Hazard | 0.10% | ~523 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 522,692 (Ranked 40)  
+Progressed: 522,722 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,22 +307,22 @@ Completed: 2 (0.00%) (Ranked 395)
 | 2024-01-07 | 521,476 | 2 |
 | 2024-01-08 | 521,958 | 2 |
 | 2024-01-09 | 522,476 | 2 |
-| 2024-01-10 | 522,692 | 2 |
+| 2024-01-10 | 522,722 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 238)  
-Sum: 3,347 (Ranked 178)  
+Sum: 3,350 (Ranked 178)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 417 |
 | This game has Challenging Combat | 409 |
 | This game is Extremely Fun | 388 |
-| This game has Competitive Players | 384 |
+| This game has Competitive Players | 385 |
 | This game is Highly Recommended | 371 |
 | This game has Realistic Visuals | 368 |
 | This game has Amazing Characters | 354 |
 | This game has Amazing Storytelling | 341 |
-| This game has a Competitive Community | 315 |
+| This game has a Competitive Community | 317 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
 ## Ratings History
@@ -662,3 +662,4 @@ Diff (max vs sum): 60
 | 2024-01-07 | 4.61 | - | 415 | 3,340 |
 | 2024-01-08 | 4.61 | - | 415 | 3,343 |
 | 2024-01-09 | 4.61 | - | 417 | 3,347 |
+| 2024-01-10 | 4.61 | - | 417 | 3,350 |

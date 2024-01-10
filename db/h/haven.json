@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1940,
+  "EOS_Progressed": 1941,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -3519,6 +3519,11 @@
       "Time": "2024-01-10T12:04:39.1179782+00:00",
       "NumProgressed": 1940,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-10T13:10:30.224989+00:00",
+      "NumProgressed": 1941,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3546,7 +3551,7 @@
       "Name": "Strike!",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "12",
@@ -3586,7 +3591,7 @@
       "Name": "My little pony",
       "Percentage": 16,
       "XP": 70,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "17",
@@ -3594,7 +3599,7 @@
       "Name": "Balding bloot!",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "18",
@@ -3626,7 +3631,7 @@
       "Name": "Don\u0027t look back",
       "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "21",
@@ -3666,7 +3671,7 @@
       "Name": "Heartstrings",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "27",
@@ -3738,7 +3743,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "7",
@@ -3769,15 +3774,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1940,
+      "Progressed": 1941,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-10T12:04:39.117978+00:00",
+  "LastChanged_Achievements": "2024-01-10T13:10:30.2249886+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.2496519+00:00",
-  "LastUpdate_Ratings": "2024-01-10T11:59:21.3737912+00:00",
-  "LastUpdate_Achievements": "2024-01-10T12:04:39.118012+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:05:15.8038976+00:00",
+  "LastUpdate_Achievements": "2024-01-10T13:10:30.2250174+00:00"
 }

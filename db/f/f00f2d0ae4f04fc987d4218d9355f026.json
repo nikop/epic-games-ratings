@@ -376,9 +376,9 @@
       "ID": "DigestiveCollapse",
       "SetID": "aaidab7",
       "Name": "Digestive Collapse",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "HeartAttack",
@@ -512,9 +512,9 @@
       "ID": "RichieRich",
       "SetID": "aaidab7",
       "Name": "Richie Rich",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "SilentKiller",
@@ -552,9 +552,9 @@
       "ID": "WalkInThePark",
       "SetID": "aaidab7",
       "Name": "Walk In The Park",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
@@ -567,8 +567,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-01-10T12:05:27.1508774+00:00",
+  "LastChanged_Achievements": "2024-01-10T13:11:28.8854298+00:00",
   "LastUpdate_AppInfo": "2024-01-09T06:57:18.0695989+00:00",
-  "LastUpdate_Ratings": "2024-01-10T11:59:08.3399151+00:00",
-  "LastUpdate_Achievements": "2024-01-10T12:05:27.1508955+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:04:59.4967645+00:00",
+  "LastUpdate_Achievements": "2024-01-10T13:11:28.8854765+00:00"
 }

@@ -16,43 +16,43 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 2.00% | ~327 |
 | Hanging Gardens | 2.00% | ~327 |
 | Play a Single Player Game | 2.00% | ~327 |
-| Ambitious | 1.00% | ~163 |
-| Brilliant | 1.00% | ~163 |
-| Enlightened | 1.00% | ~163 |
-| Fountainhead | 1.00% | ~163 |
-| Glorious | 1.00% | ~163 |
-| Good | 1.00% | ~163 |
-| Just | 1.00% | ~163 |
-| Keystone | 1.00% | ~163 |
-| Learned | 1.00% | ~163 |
-| Magnificent | 1.00% | ~163 |
-| Noble | 1.00% | ~163 |
-| Pioneer | 1.00% | ~163 |
-| Warrior | 1.00% | ~163 |
-| Developing Cities | 1.00% | ~163 |
-| Strong Cities | 1.00% | ~163 |
-| Great Ziggurat | 1.00% | ~163 |
-| Ishtar Gate | 1.00% | ~163 |
-| Lighthouse | 1.00% | ~163 |
-| Oracle | 1.00% | ~163 |
-| Pyramids | 1.00% | ~163 |
-| Learn to Play 1 | 1.00% | ~163 |
-| Christianity | 1.00% | ~163 |
-| Judaism | 1.00% | ~163 |
-| Babylonian Paganism | 1.00% | ~163 |
-| Greek Paganism | 1.00% | ~163 |
-| Roman Paganism | 1.00% | ~163 |
-| Zoroastrianism | 1.00% | ~163 |
-| Naming Landmarks | 1.00% | ~163 |
-| Trade Caravan | 1.00% | ~163 |
+| Ambitious | 1.00% | ~164 |
+| Brilliant | 1.00% | ~164 |
+| Enlightened | 1.00% | ~164 |
+| Fountainhead | 1.00% | ~164 |
+| Glorious | 1.00% | ~164 |
+| Good | 1.00% | ~164 |
+| Just | 1.00% | ~164 |
+| Keystone | 1.00% | ~164 |
+| Learned | 1.00% | ~164 |
+| Magnificent | 1.00% | ~164 |
+| Noble | 1.00% | ~164 |
+| Pioneer | 1.00% | ~164 |
+| Warrior | 1.00% | ~164 |
+| Developing Cities | 1.00% | ~164 |
+| Strong Cities | 1.00% | ~164 |
+| Great Ziggurat | 1.00% | ~164 |
+| Ishtar Gate | 1.00% | ~164 |
+| Lighthouse | 1.00% | ~164 |
+| Oracle | 1.00% | ~164 |
+| Pyramids | 1.00% | ~164 |
+| Learn to Play 1 | 1.00% | ~164 |
+| Christianity | 1.00% | ~164 |
+| Judaism | 1.00% | ~164 |
+| Babylonian Paganism | 1.00% | ~164 |
+| Greek Paganism | 1.00% | ~164 |
+| Roman Paganism | 1.00% | ~164 |
+| Zoroastrianism | 1.00% | ~164 |
+| Naming Landmarks | 1.00% | ~164 |
+| Trade Caravan | 1.00% | ~164 |
 | Great | 0.90% | ~147 |
 | Wise | 0.90% | ~147 |
 | Able Difficulty | 0.90% | ~147 |
+| Furious Family | 0.90% | ~147 |
 | Apadana | 0.90% | ~147 |
 | Learn to Play 2 | 0.90% | ~147 |
 | Carthaginian Paganism | 0.90% | ~147 |
 | Regicide | 0.80% | ~131 |
-| Furious Family | 0.80% | ~131 |
 | Acropolis | 0.80% | ~131 |
 | Musaeum | 0.80% | ~131 |
 | Necropolis | 0.80% | ~131 |
@@ -138,6 +138,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Riches and Influence | 0.20% | ~33 |
 | Old | 0.20% | ~33 |
 | Noble Difficulty | 0.20% | ~33 |
+| The Eternal Treaty | 0.20% | ~33 |
 | Church of the Holy Sepulchre | 0.20% | ~33 |
 | Cao'an | 0.20% | ~33 |
 | Learn to Play 5 | 0.20% | ~33 |
@@ -197,7 +198,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Et tu Brutus? | 0.10% | ~16 |
 | Event Level High | 0.10% | ~16 |
 | Battle of the Fertile Crescent | 0.10% | ~16 |
-| The Eternal Treaty | 0.10% | ~16 |
 | Five Routs | 0.10% | ~16 |
 | Game of the Week | 0.10% | ~16 |
 | Defend Where? | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,347 (Ranked 169)  
+Progressed: 16,350 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -630,7 +630,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
-| 2024-01-10 | 16,347 | 5 |
+| 2024-01-10 | 16,350 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,919 (Ranked 224)  

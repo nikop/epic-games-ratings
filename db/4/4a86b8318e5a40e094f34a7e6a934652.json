@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 546,
+  "EOS_Progressed": 547,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -2259,6 +2259,11 @@
       "Time": "2024-01-10T09:04:10.3509645+00:00",
       "NumProgressed": 546,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-10T13:09:57.775442+00:00",
+      "NumProgressed": 547,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2271,7 +2276,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2279,7 +2284,7 @@
       "Name": "Design Engineer",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "BRING_MARY",
@@ -2311,7 +2316,7 @@
       "Name": "Fisherman",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -2327,7 +2332,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -2351,7 +2356,7 @@
       "Name": "Leech Lunch",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -2383,7 +2388,7 @@
       "Name": "Weed Warrior",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -2391,15 +2396,15 @@
       "Name": "Bridge Builder",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "SLEEP_50_HOURS",
       "SetID": "aniflfk",
       "Name": "Sleepyhead",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 38
     },
     {
       "ID": "SPEND_2000_COINS",
@@ -2430,14 +2435,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 546,
+      "Progressed": 547,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-10T12:04:12.8611172+00:00",
+  "LastChanged_Achievements": "2024-01-10T13:09:57.7754417+00:00",
   "LastUpdate_AppInfo": "2024-01-03T22:57:16.910321+00:00",
-  "LastUpdate_Ratings": "2024-01-10T12:00:10.4771639+00:00",
-  "LastUpdate_Achievements": "2024-01-10T12:04:12.8611486+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:06:15.8659985+00:00",
+  "LastUpdate_Achievements": "2024-01-10T13:09:57.7754622+00:00"
 }

@@ -85,9 +85,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2173,
+  "EOS_Progressed": 2175,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4155,6 +4155,11 @@
       "Time": "2024-01-10T12:10:45.4358695+00:00",
       "NumProgressed": 2173,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-10T13:16:42.1432759+00:00",
+      "NumProgressed": 2175,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4166,7 +4171,7 @@
       "Name": "Break Out",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "ACH_02",
@@ -4222,7 +4227,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ACH_09",
@@ -4230,7 +4235,7 @@
       "Name": "The Mentor",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_10",
@@ -4254,7 +4259,7 @@
       "Name": "Shardbearer",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_13",
@@ -4268,9 +4273,9 @@
       "ID": "ACH_14",
       "SetID": "efe2lj",
       "Name": "Airborne",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_15",
@@ -4286,7 +4291,7 @@
       "Name": "Essence Blow",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_17",
@@ -4318,7 +4323,7 @@
       "Name": "Flawless Victory",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_21",
@@ -4326,7 +4331,7 @@
       "Name": "Big Bazar",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_22",
@@ -4350,7 +4355,7 @@
       "Name": "All There Is",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_25",
@@ -4374,7 +4379,7 @@
       "Name": "False God",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_28",
@@ -4398,7 +4403,7 @@
       "Name": "Alchemist",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_31",
@@ -4422,7 +4427,7 @@
       "Name": "The Collector",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ACH_35",
@@ -4453,7 +4458,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2173,
+      "Progressed": 2175,
       "Completed": 3
     }
   ],
@@ -4461,8 +4466,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-09T14:59:34.4882092+00:00",
-  "LastChanged_Achievements": "2024-01-10T12:10:45.4358693+00:00",
+  "LastChanged_Achievements": "2024-01-10T13:16:42.1432756+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-10T12:00:39.5415228+00:00",
-  "LastUpdate_Achievements": "2024-01-10T12:10:45.4359008+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:06:53.2399655+00:00",
+  "LastUpdate_Achievements": "2024-01-10T13:16:42.1433186+00:00"
 }

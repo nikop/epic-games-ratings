@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -433,9 +433,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3250,
+  "EOS_Progressed": 3253,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 668,
+  "EOS_NewPlayers": 669,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5088,6 +5088,11 @@
       "Time": "2024-01-10T12:10:39.4342722+00:00",
       "NumProgressed": 3250,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-10T13:16:35.2819366+00:00",
+      "NumProgressed": 3253,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5100,7 +5105,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2860
+      "UsersEstimate": 2863
     },
     {
       "ID": "achievement_10",
@@ -5108,7 +5113,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "achievement_11",
@@ -5116,7 +5121,7 @@
       "Name": "The Means to Save It",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "achievement_12",
@@ -5148,7 +5153,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "achievement_16",
@@ -5156,7 +5161,7 @@
       "Name": "Recruit",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "achievement_17",
@@ -5164,7 +5169,7 @@
       "Name": "Lights Army",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "achievement_18",
@@ -5180,7 +5185,7 @@
       "Name": "Socialite",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "achievement_2",
@@ -5188,7 +5193,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2635
     },
     {
       "ID": "achievement_20",
@@ -5244,7 +5249,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 2242
+      "UsersEstimate": 2245
     },
     {
       "ID": "achievement_36",
@@ -5260,7 +5265,7 @@
       "Name": "Kitted Out",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "achievement_38",
@@ -5276,7 +5281,7 @@
       "Name": "No More Names",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1692
     },
     {
       "ID": "achievement_41",
@@ -5332,7 +5337,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2405
+      "UsersEstimate": 2407
     },
     {
       "ID": "achievement_49",
@@ -5340,7 +5345,7 @@
       "Name": "Soldier",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "achievement_5",
@@ -5348,7 +5353,7 @@
       "Name": "Initiate",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "achievement_50",
@@ -5372,7 +5377,7 @@
       "Name": "Master of Carmine",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_56",
@@ -5396,7 +5401,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "achievement_60",
@@ -5404,7 +5409,7 @@
       "Name": "Shroudfane Surveyor",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_62",
@@ -5412,7 +5417,7 @@
       "Name": "Tip of the Spear",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_63",
@@ -5428,7 +5433,7 @@
       "Name": "Fowl Play",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_66",
@@ -5452,7 +5457,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "achievement_8",
@@ -5468,14 +5473,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3250,
+      "Progressed": 3253,
       "Completed": 4
     }
   ],
@@ -5483,8 +5488,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-07T18:57:10.211335+00:00",
-  "LastChanged_Achievements": "2024-01-10T12:10:39.434272+00:00",
+  "LastChanged_Achievements": "2024-01-10T13:16:35.2819007+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8440656+00:00",
-  "LastUpdate_Ratings": "2024-01-10T11:58:44.5324885+00:00",
-  "LastUpdate_Achievements": "2024-01-10T12:10:39.4343204+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:04:30.6825812+00:00",
+  "LastUpdate_Achievements": "2024-01-10T13:16:35.2820115+00:00"
 }

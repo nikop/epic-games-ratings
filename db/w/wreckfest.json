@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
@@ -355,7 +355,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1041,
+  "EOS_Progressed": 1042,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 0,
@@ -2560,6 +2560,11 @@
       "Time": "2024-01-10T11:09:48.8491258+00:00",
       "NumProgressed": 1041,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T13:15:13.5041082+00:00",
+      "NumProgressed": 1042,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2580,7 +2585,7 @@
       "Name": "Highballer",
       "Percentage": 59,
       "XP": 90,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "CareerChamp1",
@@ -2612,7 +2617,7 @@
       "Name": "Pro Internationals Champion",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "CareerComplete",
@@ -2731,7 +2736,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1041,
+      "Progressed": 1042,
       "Completed": 0
     }
   ],
@@ -2739,8 +2744,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-07T05:59:24.3409501+00:00",
-  "LastChanged_Achievements": "2024-01-10T12:09:30.796495+00:00",
+  "LastChanged_Achievements": "2024-01-10T13:15:13.5041078+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
-  "LastUpdate_Ratings": "2024-01-10T12:00:57.6371536+00:00",
-  "LastUpdate_Achievements": "2024-01-10T12:09:30.7965219+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:07:14.7811679+00:00",
+  "LastUpdate_Achievements": "2024-01-10T13:15:13.504146+00:00"
 }

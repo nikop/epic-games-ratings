@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 824,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 577,
+  "Ranking_EOS_NewPlayers": 576,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
@@ -15589,10 +15589,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 34833,
       "NumberOfAwardsMax": 4315
+    },
+    {
+      "Time": "2024-01-10T13:05:28.9340746+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 34860,
+      "NumberOfAwardsMax": 4315
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34833,
+  "NumberOfAwards": 34860,
   "NumberOfAwardsMax": 4315,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -15606,7 +15612,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 3661
+      "Count": 3669
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -15624,7 +15630,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3615
+      "Count": 3625
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -15636,7 +15642,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3203
+      "Count": 3212
     },
     {
       "Text": "This game is Relaxing",
@@ -15680,8 +15686,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2024-01-10T08:59:54.6955576+00:00",
+  "LastChanged": "2024-01-10T13:05:28.9340744+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.0174834+00:00",
-  "LastUpdate_Ratings": "2024-01-10T11:59:32.7215115+00:00",
-  "LastUpdate_Achievements": "2024-01-10T12:10:19.2097865+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:05:28.9340751+00:00",
+  "LastUpdate_Achievements": "2024-01-10T13:16:10.5160905+00:00"
 }

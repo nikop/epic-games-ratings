@@ -6,16 +6,16 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~12,379 |
-| Overkill | 33.00% | ~10,750 |
+| I'm not dead yet | 38.00% | ~12,380 |
+| Overkill | 33.00% | ~10,751 |
 | Vaccine Incoming | 31.00% | ~10,099 |
-| A normal day in Gloomhaven | 29.00% | ~9,447 |
+| A normal day in Gloomhaven | 29.00% | ~9,448 |
 | Spread the plague | 27.00% | ~8,796 |
-| Get over here! | 24.00% | ~7,818 |
-| Just when I thought I was out... | 19.00% | ~6,189 |
+| Get over here! | 24.00% | ~7,819 |
+| Just when I thought I was out... | 19.00% | ~6,190 |
 | Mine... All Mine... | 16.00% | ~5,212 |
-| Precious! | 15.00% | ~4,886 |
-| Grizzled veteran | 15.00% | ~4,886 |
+| Precious! | 15.00% | ~4,887 |
+| Grizzled veteran | 15.00% | ~4,887 |
 | Anatomy Lesson | 14.00% | ~4,561 |
 | Light of my life | 13.00% | ~4,235 |
 | Who's the Boss? | 12.00% | ~3,909 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~33 |
 | Hard-travelling Heroes | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,576 (Ranked 140)  
+Progressed: 32,578 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 1 (0.00%) (Ranked 395)
 | 2024-01-07 | 32,091 | 1 |
 | 2024-01-08 | 32,291 | 1 |
 | 2024-01-09 | 32,485 | 1 |
-| 2024-01-10 | 32,576 | 1 |
+| 2024-01-10 | 32,578 | 1 |
 ## Awards
 Max (Character Customization): 3,617  (Ranked 95)  
 Sum: 8,470 (Ranked 108)  

@@ -1545,9 +1545,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 9920,
+  "EOS_Progressed": 9921,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1716,
+  "EOS_NewPlayers": 1717,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10815,6 +10815,11 @@
       "Time": "2024-01-10T12:06:52.0534364+00:00",
       "NumProgressed": 9920,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T13:13:13.1822295+00:00",
+      "NumProgressed": 9921,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -10835,7 +10840,7 @@
       "Name": "Stud Finder",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 3174
+      "UsersEstimate": 3175
     },
     {
       "ID": "achievement_11",
@@ -10867,7 +10872,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 3174
+      "UsersEstimate": 3175
     },
     {
       "ID": "achievement_15",
@@ -10987,14 +10992,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 9920,
+      "Progressed": 9921,
       "Completed": 0
     }
   ],
@@ -11002,8 +11007,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-10T02:57:53.70834+00:00",
-  "LastChanged_Achievements": "2024-01-10T12:06:52.0534361+00:00",
+  "LastChanged_Achievements": "2024-01-10T13:13:13.1822292+00:00",
   "LastUpdate_AppInfo": "2024-01-04T09:57:17.1124999+00:00",
-  "LastUpdate_Ratings": "2024-01-10T11:58:03.4282534+00:00",
-  "LastUpdate_Achievements": "2024-01-10T12:06:52.0534962+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:03:40.5801771+00:00",
+  "LastUpdate_Achievements": "2024-01-10T13:13:13.1822845+00:00"
 }

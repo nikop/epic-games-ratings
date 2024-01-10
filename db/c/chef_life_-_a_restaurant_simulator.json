@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1013,
+  "EOS_Progressed": 1015,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4352,6 +4352,11 @@
       "Time": "2024-01-10T12:10:24.7593581+00:00",
       "NumProgressed": 1013,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T13:16:17.1516176+00:00",
+      "NumProgressed": 1015,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4539,15 +4544,15 @@
       "Name": "The Big Day",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "Packing20",
       "SetID": "d1bm05f",
       "Name": "Next Level Cuisine",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 71
     },
     {
       "ID": "PerfectGrade25",
@@ -4563,7 +4568,7 @@
       "Name": "Home Cook",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "RecipeDifferent30",
@@ -4682,7 +4687,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 1013,
+      "Progressed": 1015,
       "Completed": 0
     }
   ],
@@ -4690,8 +4695,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2024-01-05T14:58:53.6267944+00:00",
-  "LastChanged_Achievements": "2024-01-10T12:10:24.7593579+00:00",
+  "LastChanged_Achievements": "2024-01-10T13:16:17.1516171+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2362119+00:00",
-  "LastUpdate_Ratings": "2024-01-10T11:57:45.8635029+00:00",
-  "LastUpdate_Achievements": "2024-01-10T12:10:24.759395+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:03:16.7921351+00:00",
+  "LastUpdate_Achievements": "2024-01-10T13:16:17.1516769+00:00"
 }

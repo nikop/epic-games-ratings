@@ -63,7 +63,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1293,
+  "EOS_Progressed": 1294,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 1,
@@ -3883,6 +3883,11 @@
       "Time": "2024-01-10T10:11:18.6740293+00:00",
       "NumProgressed": 1293,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-10T13:16:49.2110017+00:00",
+      "NumProgressed": 1294,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3902,7 +3907,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3926,7 +3931,7 @@
       "Name": "Right On Time",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ClockworkCompletion1",
@@ -3934,7 +3939,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ClockworkProgress1",
@@ -3942,7 +3947,7 @@
       "Name": "Like Clockwork",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ClovemaryGift",
@@ -3958,7 +3963,7 @@
       "Name": "Sartorialist",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "CosmeticProgress1",
@@ -3982,7 +3987,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -4020,9 +4025,9 @@
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 272
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -4158,7 +4163,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -4166,7 +4171,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "PidgeDefeated",
@@ -4206,7 +4211,7 @@
       "Name": "Golem Chaser",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "SkillCompletion1",
@@ -4222,7 +4227,7 @@
       "Name": "Fast Learner",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "SpeedRun",
@@ -4278,7 +4283,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "WatcherFought",
@@ -4317,7 +4322,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1293,
+      "Progressed": 1294,
       "Completed": 7
     }
   ],
@@ -4325,8 +4330,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-10T12:10:51.6412751+00:00",
+  "LastChanged_Achievements": "2024-01-10T13:16:49.2110013+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-10T12:00:08.2007783+00:00",
-  "LastUpdate_Achievements": "2024-01-10T12:10:51.6413186+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:06:13.9521942+00:00",
+  "LastUpdate_Achievements": "2024-01-10T13:16:49.2110503+00:00"
 }

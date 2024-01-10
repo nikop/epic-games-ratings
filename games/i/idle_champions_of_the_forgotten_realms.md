@@ -46,6 +46,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.30% | ~759 |
 | Waterdeep Detours | 0.30% | ~759 |
 | Underdeep Cartography | 0.30% | ~759 |
+| Pros and CONs | 0.20% | ~506 |
 | The Silken Swamp | 0.20% | ~506 |
 | Supply Run | 0.20% | ~506 |
 | Homecoming | 0.20% | ~506 |
@@ -74,7 +75,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rescue in the Jungle | 0.20% | ~506 |
 | The Beginning is the End | 0.20% | ~439 |
 | The Brains of an Illithid's Desire | 0.20% | ~439 |
-| Pros and CONs | 0.10% | ~253 |
 | Upholding the Law | 0.10% | ~253 |
 | Starving in the Jungle | 0.10% | ~253 |
 | Cold as Ice | 0.10% | ~219 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,155 (Ranked 70)  
+Progressed: 253,160 (Ranked 70)  
 Completed: 2,609 (1.03%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -818,7 +818,7 @@ Completed: 2,609 (1.03%) (Ranked 174)
 | 2024-01-07 | 252,516 | 2,599 |
 | 2024-01-08 | 252,794 | 2,602 |
 | 2024-01-09 | 253,044 | 2,606 |
-| 2024-01-10 | 253,155 | 2,609 |
+| 2024-01-10 | 253,160 | 2,609 |
 ## Awards
 Max (Great for Beginners): 5,768  (Ranked 74)  
 Sum: 33,423 (Ranked 41)  

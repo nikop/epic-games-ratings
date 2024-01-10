@@ -6,27 +6,27 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 86.00% | ~8,897 |
-| Photogenic | 82.00% | ~8,483 |
+| Let's Get This Party Started | 86.00% | ~8,898 |
+| Photogenic | 82.00% | ~8,484 |
 | Surge Gauntlet Jockey | 79.00% | ~8,173 |
-| Plug It In | 78.00% | ~8,069 |
-| Adventure Time | 75.00% | ~7,759 |
-| Playing With Power | 72.00% | ~7,448 |
+| Plug It In | 78.00% | ~8,070 |
+| Adventure Time | 75.00% | ~7,760 |
+| Playing With Power | 72.00% | ~7,449 |
 | Coup d'Etat | 55.00% | ~5,690 |
-| You're Fired | 54.00% | ~5,586 |
+| You're Fired | 54.00% | ~5,587 |
 | Get Furious | 53.00% | ~5,483 |
-| Hacks In Stacks | 52.00% | ~5,379 |
+| Hacks In Stacks | 52.00% | ~5,380 |
 | Gunplay And Cosplay | 51.00% | ~5,276 |
 | Meching Enemies | 46.00% | ~4,759 |
-| Ticket Toddler | 41.00% | ~4,241 |
-| Booty Bashing | 36.00% | ~3,724 |
-| Field Medic | 36.00% | ~3,724 |
+| Ticket Toddler | 41.00% | ~4,242 |
+| Booty Bashing | 36.00% | ~3,725 |
+| Field Medic | 36.00% | ~3,725 |
 | Here Comes a New Challenger | 35.00% | ~3,621 |
 | Rapid Response | 31.00% | ~3,207 |
 | Surge Ahead | 29.00% | ~3,000 |
 | The Full Monty | 29.00% | ~3,000 |
 | Guardian Angel | 26.00% | ~2,690 |
-| Poppin Noggins | 23.00% | ~2,379 |
+| Poppin Noggins | 23.00% | ~2,380 |
 | Clips and Crits | 18.00% | ~1,862 |
 | Grey Goo | 16.00% | ~1,655 |
 | Boss of Bosses | 14.00% | ~1,448 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~41 |
 | Pyrotechnical | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,345 (Ranked 180)  
+Progressed: 10,346 (Ranked 180)  
 Completed: 2 (0.02%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 2 (0.02%) (Ranked 361)
 | 2024-01-07 | 10,309 | 2 |
 | 2024-01-08 | 10,322 | 2 |
 | 2024-01-09 | 10,337 | 2 |
-| 2024-01-10 | 10,345 | 2 |
+| 2024-01-10 | 10,346 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 423)  
 Sum: 465 (Ranked 341)  

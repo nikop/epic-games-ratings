@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9445,9 +9445,9 @@
       "Count": 3634
     }
   ],
-  "EOS_Progressed": 253155,
+  "EOS_Progressed": 253160,
   "EOS_Completed": 2609,
-  "EOS_NewPlayers": 2846,
+  "EOS_NewPlayers": 2818,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39485,6 +39485,11 @@
       "Time": "2024-01-10T12:10:56.711113+00:00",
       "NumProgressed": 253155,
       "NumCompleted": 2609
+    },
+    {
+      "Time": "2024-01-10T13:16:54.6359986+00:00",
+      "NumProgressed": 253160,
+      "NumCompleted": 2609
     }
   ],
   "TotalAchievements": 546,
@@ -39510,9 +39515,9 @@
       "ID": "objective_completed_100",
       "SetID": "cc37lbc",
       "Name": "Pros and CONs",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_101",
@@ -43863,21 +43868,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219429,
+      "Progressed": 219434,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253155,
+      "Progressed": 253160,
       "Completed": 2609
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-10T11:58:32.7144475+00:00",
-  "LastChanged_Achievements": "2024-01-10T12:10:56.7111127+00:00",
+  "LastChanged_Achievements": "2024-01-10T13:16:54.6359982+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-10T11:58:32.7144481+00:00",
-  "LastUpdate_Achievements": "2024-01-10T12:10:56.7135114+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:04:17.4137423+00:00",
+  "LastUpdate_Achievements": "2024-01-10T13:16:54.6385508+00:00"
 }

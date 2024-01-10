@@ -19,11 +19,11 @@
 | Oh, you're up to no gouda! | 65.00% | ~99 |
 | Make Love not War-Craft a Mistlefoe | 63.00% | ~96 |
 | Meat grinder | 62.00% | ~95 |
-| You're not going to blow me up! | 56.00% | ~86 |
+| You're not going to blow me up! | 57.00% | ~87 |
 | Mushroom soup of the day | 54.00% | ~83 |
-| Butcher | 51.00% | ~78 |
-| Spare Ribs | 51.00% | ~78 |
-| Cockadoodledoo! | 51.00% | ~78 |
+| Butcher | 52.00% | ~80 |
+| Spare Ribs | 52.00% | ~80 |
+| Cockadoodledoo! | 52.00% | ~80 |
 | Honk honk! | 50.00% | ~76 |
 | Thats disgusting! | 50.00% | ~76 |
 | My pants squeak when I walk | 46.00% | ~70 |
@@ -31,12 +31,12 @@
 | Surprise!! | 44.00% | ~67 |
 | Haemochromatosis | 42.00% | ~64 |
 | Make America Grate Again | 41.00% | ~63 |
+| Pasta Bolognese | 38.00% | ~58 |
 | You are no match for me, Billy! | 37.00% | ~57 |
 | You can't stop me, bro! | 37.00% | ~57 |
-| Pasta Bolognese | 37.00% | ~57 |
 | Catch the bus with me! | 35.00% | ~54 |
 | Karaoke king | 35.00% | ~54 |
-| Meatballs, coming up! | 33.00% | ~50 |
+| Meatballs, coming up! | 34.00% | ~52 |
 | I'm going to get a concussion | 33.00% | ~50 |
 | Another one bites the iron | 33.00% | ~50 |
 | Ripe Meat Off The Bone! | 28.00% | ~43 |

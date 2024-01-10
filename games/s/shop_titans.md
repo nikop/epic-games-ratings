@@ -6,30 +6,30 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,561 |
-| Titan's First Steps | 11.00% | ~16,561 |
-| Basic in Bulk | 10.00% | ~15,055 |
-| Tinkle of Coins | 9.00% | ~13,550 |
+| Sponsored by Argon | 11.00% | ~16,562 |
+| Titan's First Steps | 11.00% | ~16,562 |
+| Basic in Bulk | 10.00% | ~15,056 |
+| Tinkle of Coins | 9.00% | ~13,551 |
 | Disintermediation | 7.00% | ~10,539 |
 | It's Free Real Estate | 7.00% | ~10,539 |
 | Capitalism Ho! | 7.00% | ~10,539 |
-| One Easy Payment | 6.00% | ~9,033 |
-| Some Assembly Required | 6.00% | ~9,033 |
-| Another Satisfied Customer | 6.00% | ~9,033 |
-| Budding Merchant | 6.00% | ~9,033 |
-| Own the Means of Production | 6.00% | ~9,033 |
+| One Easy Payment | 6.00% | ~9,034 |
+| Some Assembly Required | 6.00% | ~9,034 |
+| Another Satisfied Customer | 6.00% | ~9,034 |
+| Budding Merchant | 6.00% | ~9,034 |
+| Own the Means of Production | 6.00% | ~9,034 |
 | Pretty Penny | 5.00% | ~7,528 |
 | One-Armed Bandit | 5.00% | ~7,528 |
 | Through Repetition, Perfection | 5.00% | ~7,528 |
-| The Daily Grind | 4.00% | ~6,022 |
-| Bounty Hunters | 4.00% | ~6,022 |
-| Demand for Supplies | 4.00% | ~6,022 |
-| Flooding the Market | 4.00% | ~6,022 |
-| Where it Hurts | 4.00% | ~6,022 |
-| Gild-Gotten Goods | 4.00% | ~6,022 |
-| Dungeon Imports | 4.00% | ~6,022 |
-| Did we pack lunch? | 4.00% | ~6,022 |
-| Arcane Industries | 4.00% | ~6,022 |
+| The Daily Grind | 4.00% | ~6,023 |
+| Bounty Hunters | 4.00% | ~6,023 |
+| Demand for Supplies | 4.00% | ~6,023 |
+| Flooding the Market | 4.00% | ~6,023 |
+| Where it Hurts | 4.00% | ~6,023 |
+| Gild-Gotten Goods | 4.00% | ~6,023 |
+| Dungeon Imports | 4.00% | ~6,023 |
+| Did we pack lunch? | 4.00% | ~6,023 |
+| Arcane Industries | 4.00% | ~6,023 |
 | On the Path to Greatness | 3.00% | ~4,517 |
 | Ascended | 3.00% | ~4,517 |
 | Tax not Included | 3.00% | ~4,517 |
@@ -41,6 +41,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scrapbooker | 3.00% | ~4,517 |
 | This Power Level...! | 3.00% | ~4,517 |
 | Power of Love | 3.00% | ~4,517 |
+| Expansion in Session | 3.00% | ~4,517 |
 | Efficient Floor Space | 3.00% | ~4,517 |
 | Flawless Fusion | 3.00% | ~4,517 |
 | Trash to Treasure | 3.00% | ~4,517 |
@@ -73,7 +74,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master of Transmutation | 2.00% | ~3,011 |
 | Hidden Potential | 2.00% | ~3,011 |
 | Supercharged | 2.00% | ~3,011 |
-| Expansion in Session | 2.00% | ~3,011 |
 | Ritualist | 2.00% | ~3,011 |
 | Cranked up to 11 | 2.00% | ~3,011 |
 | Fit for a King | 2.00% | ~3,011 |
@@ -108,8 +108,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Eternal Crusade | 1.00% | ~1,506 |
 | The Greatest Grind | 0.90% | ~1,355 |
 | Marvels from the World Over | 0.90% | ~1,355 |
-| Bane of Legends | 0.80% | ~1,204 |
-| Anything not Nailed Down | 0.80% | ~1,204 |
+| Bane of Legends | 0.80% | ~1,205 |
+| Anything not Nailed Down | 0.80% | ~1,205 |
 | Ultimate Collector | 0.70% | ~1,054 |
 | Unleashed Potential | 0.70% | ~1,054 |
 | JACKPOT!!! | 0.70% | ~1,054 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~602 |
 | Capitalist Camaraderie | 0.30% | ~452 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,553 (Ranked 86)  
+Progressed: 150,564 (Ranked 86)  
 Completed: 345 (0.23%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -384,7 +384,7 @@ Completed: 345 (0.23%) (Ranked 269)
 | 2024-01-07 | 150,192 | 345 |
 | 2024-01-08 | 150,343 | 345 |
 | 2024-01-09 | 150,487 | 345 |
-| 2024-01-10 | 150,553 | 345 |
+| 2024-01-10 | 150,564 | 345 |
 ## Awards
 Max (Great for Beginners): 4,949  (Ranked 78)  
 Sum: 27,969 (Ranked 52)  

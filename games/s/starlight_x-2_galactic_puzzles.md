@@ -17,6 +17,7 @@
 | Complete 25 6x6 levels | 2.00% | ~2 |
 | By Yourself 5x5 | 2.00% | ~2 |
 | By Yourself 7x7 | 2.00% | ~2 |
+| By Yourself 8x8 | 2.00% | ~2 |
 | Play for 5 hours | 2.00% | ~2 |
 | Complete a Daily Pack | 1.00% | ~1 |
 | Fast 8x8 | 1.00% | ~1 |
@@ -25,7 +26,6 @@
 | Complete 25 7x7 levels | 1.00% | ~1 |
 | Complete 25 9x9 levels | 1.00% | ~1 |
 | By Yourself 6x6 | 1.00% | ~1 |
-| By Yourself 8x8 | 1.00% | ~1 |
 | By Yourself 9x9 | 1.00% | ~1 |
 | By Yourself 10x10 | 1.00% | ~1 |
 | By Yourself 11x11 | 1.00% | ~1 |

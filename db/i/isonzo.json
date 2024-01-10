@@ -1069,9 +1069,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9868,
+  "EOS_Progressed": 9869,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10929,6 +10929,11 @@
       "Time": "2024-01-10T10:10:20.0516056+00:00",
       "NumProgressed": 9868,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-10T13:15:52.784436+00:00",
+      "NumProgressed": 9869,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11092,7 +11097,7 @@
       "Name": "Machiavelli",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -11188,7 +11193,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2664
+      "UsersEstimate": 2665
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -11244,7 +11249,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -11260,7 +11265,7 @@
       "Name": "Tosca",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -11299,7 +11304,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9868,
+      "Progressed": 9869,
       "Completed": 10
     }
   ],
@@ -11307,8 +11312,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-06T21:59:00.913352+00:00",
-  "LastChanged_Achievements": "2024-01-10T12:10:04.0277272+00:00",
+  "LastChanged_Achievements": "2024-01-10T13:15:52.7844357+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:05.1405641+00:00",
-  "LastUpdate_Ratings": "2024-01-10T12:00:19.4494981+00:00",
-  "LastUpdate_Achievements": "2024-01-10T12:10:04.0278049+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:06:27.0192306+00:00",
+  "LastUpdate_Achievements": "2024-01-10T13:15:52.784504+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18793,
+  "EOS_Progressed": 18794,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 693,
+  "EOS_NewPlayers": 692,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16917,6 +16917,11 @@
       "Time": "2024-01-10T12:08:59.2603969+00:00",
       "NumProgressed": 18793,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-10T13:14:35.9894378+00:00",
+      "NumProgressed": 18794,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17049,7 +17054,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "24",
@@ -17208,13 +17213,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18793,
+      "Progressed": 18794,
       "Completed": 61
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4747,
+      "Progressed": 4748,
       "Completed": 1271
     }
   ],
@@ -17222,8 +17227,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-08T14:59:15.8971936+00:00",
-  "LastChanged_Achievements": "2024-01-10T12:08:59.2603967+00:00",
+  "LastChanged_Achievements": "2024-01-10T13:14:35.9894374+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-10T12:00:01.9287309+00:00",
-  "LastUpdate_Achievements": "2024-01-10T12:08:59.2604815+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:06:06.0082612+00:00",
+  "LastUpdate_Achievements": "2024-01-10T13:14:35.9895275+00:00"
 }

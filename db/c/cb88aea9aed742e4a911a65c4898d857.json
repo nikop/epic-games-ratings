@@ -311,9 +311,9 @@
       "Count": 116
     }
   ],
-  "EOS_Progressed": 10930,
+  "EOS_Progressed": 10938,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1156,
+  "EOS_NewPlayers": 1153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4351,6 +4351,11 @@
       "Time": "2024-01-10T11:10:55.6196268+00:00",
       "NumProgressed": 10930,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T13:16:39.3196031+00:00",
+      "NumProgressed": 10938,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4363,7 +4368,7 @@
       "Name": "Conspiracy",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1967
+      "UsersEstimate": 1969
     },
     {
       "ID": "03_TheStolenStar",
@@ -4371,7 +4376,7 @@
       "Name": "Stolen Star",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -4387,7 +4392,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -4475,7 +4480,7 @@
       "Name": "The Rise",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "17_TheExemplar",
@@ -4483,7 +4488,7 @@
       "Name": "Exemplar",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -4491,7 +4496,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "19_TheVoidWolf",
@@ -4499,7 +4504,7 @@
       "Name": "Void Wolf",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -4523,7 +4528,7 @@
       "Name": "Perfect Timing",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "23_DynastyRestored",
@@ -4531,7 +4536,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "24_TheHighrise",
@@ -4539,7 +4544,7 @@
       "Name": "Highrise",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "25_DynastyProspers",
@@ -4571,7 +4576,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -4619,7 +4624,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -4683,7 +4688,7 @@
       "Name": "Iron Judgement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -4691,7 +4696,7 @@
       "Name": "No Place Like Home",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -4715,7 +4720,7 @@
       "Name": "A Spark",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "47_AFlame",
@@ -4747,7 +4752,7 @@
       "Name": "Whodunit?",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -4833,9 +4838,9 @@
       "ID": "61_TheScourge",
       "SetID": "37a94m8",
       "Name": "Sweet Perdition",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 22
     },
     {
       "ID": "62_TheInvisibleBureaucracy",
@@ -4882,7 +4887,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10930,
+      "Progressed": 10938,
       "Completed": 1
     }
   ],
@@ -4890,8 +4895,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-09T16:59:10.7700574+00:00",
-  "LastChanged_Achievements": "2024-01-10T12:10:42.8272845+00:00",
+  "LastChanged_Achievements": "2024-01-10T13:16:39.3196027+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-10T11:59:10.1436697+00:00",
-  "LastUpdate_Achievements": "2024-01-10T12:10:42.8273578+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:05:01.7642994+00:00",
+  "LastUpdate_Achievements": "2024-01-10T13:16:39.3196668+00:00"
 }

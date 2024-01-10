@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 309,
+  "EOS_Progressed": 310,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1384,6 +1384,11 @@
       "Time": "2024-01-10T12:09:27.8828926+00:00",
       "NumProgressed": 309,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T13:15:10.1353587+00:00",
+      "NumProgressed": 310,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1476,7 +1481,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "decrypt_one_myth",
@@ -1500,7 +1505,7 @@
       "Name": "Refuse to look",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "do_what_you_have_to",
@@ -1548,7 +1553,7 @@
       "Name": "Scraps of love",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "find_one_photo",
@@ -1570,9 +1575,9 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 149
     },
     {
       "ID": "finished_it",
@@ -1580,7 +1585,7 @@
       "Name": "Finished it",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "first_step",
@@ -1668,7 +1673,7 @@
       "Name": "A piece of the story",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "playtime",
@@ -1732,7 +1737,7 @@
       "Name": "Something important",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "spy_one_item",
@@ -1802,23 +1807,23 @@
       "ID": "whispers_long_forgotten",
       "SetID": "f2im8d",
       "Name": "Whispers long forgotten",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 309,
+      "Progressed": 310,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-10T12:09:27.8828923+00:00",
+  "LastChanged_Achievements": "2024-01-10T13:15:10.1353583+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:37.800715+00:00",
-  "LastUpdate_Ratings": "2024-01-10T11:58:34.7730773+00:00",
-  "LastUpdate_Achievements": "2024-01-10T12:09:27.8829363+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:04:20.2390863+00:00",
+  "LastUpdate_Achievements": "2024-01-10T13:15:10.1354222+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1685,9 +1685,9 @@
       "Count": 78
     }
   ],
-  "EOS_Progressed": 7871,
+  "EOS_Progressed": 7872,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -16540,6 +16540,11 @@
       "Time": "2024-01-10T12:05:36.7959765+00:00",
       "NumProgressed": 7871,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-10T13:11:41.0550677+00:00",
+      "NumProgressed": 7872,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -16551,7 +16556,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5982
+      "UsersEstimate": 5983
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -16567,7 +16572,7 @@
       "Name": "Disassembled",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "DISMANTLE_ITEMS_50",
@@ -16591,7 +16596,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5982
+      "UsersEstimate": 5983
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -16599,7 +16604,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5746
+      "UsersEstimate": 5747
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -16623,7 +16628,7 @@
       "Name": "Oh Deer!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "HUNT_RABBIT_20",
@@ -16671,7 +16676,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -16687,7 +16692,7 @@
       "Name": "Fit For A King",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 2046
+      "UsersEstimate": 2047
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -16727,7 +16732,7 @@
       "Name": "Heating Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2597
+      "UsersEstimate": 2598
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -16735,7 +16740,7 @@
       "Name": "Winter Is Here",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 2046
+      "UsersEstimate": 2047
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -16759,7 +16764,7 @@
       "Name": "Novice Researcher",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 5352
+      "UsersEstimate": 5353
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -16775,7 +16780,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 2361
+      "UsersEstimate": 2362
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -16783,7 +16788,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4565
+      "UsersEstimate": 4566
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -16798,15 +16803,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7871,
+      "Progressed": 7872,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2024-01-10T06:58:18.7946428+00:00",
-  "LastChanged_Achievements": "2024-01-10T12:05:36.7959762+00:00",
+  "LastChanged_Achievements": "2024-01-10T13:11:41.0550673+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:28.5186287+00:00",
-  "LastUpdate_Ratings": "2024-01-10T11:58:46.1615219+00:00",
-  "LastUpdate_Achievements": "2024-01-10T12:05:36.7960772+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:04:33.0213677+00:00",
+  "LastUpdate_Achievements": "2024-01-10T13:11:41.0551472+00:00"
 }

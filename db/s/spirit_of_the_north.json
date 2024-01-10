@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 79649,
+  "EOS_Progressed": 79650,
   "EOS_Completed": 432,
-  "EOS_NewPlayers": 750,
+  "EOS_NewPlayers": 747,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -29609,6 +29609,11 @@
       "Time": "2024-01-10T12:10:20.4012823+00:00",
       "NumProgressed": 79649,
       "NumCompleted": 432
+    },
+    {
+      "Time": "2024-01-10T13:16:12.0574347+00:00",
+      "NumProgressed": 79650,
+      "NumCompleted": 432
     }
   ],
   "TotalAchievements": 24,
@@ -29620,7 +29625,7 @@
       "Name": "ANCIENT HISTORY",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2390
     },
     {
       "ID": "AWAKEN",
@@ -29772,7 +29777,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8761
+      "UsersEstimate": 8762
     },
     {
       "ID": "SPIRIT_FORM",
@@ -29780,7 +29785,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 13540
+      "UsersEstimate": 13541
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -29811,7 +29816,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 79649,
+      "Progressed": 79650,
       "Completed": 432
     }
   ],
@@ -29819,8 +29824,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-10T12:10:20.4012821+00:00",
+  "LastChanged_Achievements": "2024-01-10T13:16:12.0574343+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:00.3957366+00:00",
-  "LastUpdate_Ratings": "2024-01-10T11:57:49.7384838+00:00",
-  "LastUpdate_Achievements": "2024-01-10T12:10:20.4014125+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:03:22.2452734+00:00",
+  "LastUpdate_Achievements": "2024-01-10T13:16:12.0575723+00:00"
 }

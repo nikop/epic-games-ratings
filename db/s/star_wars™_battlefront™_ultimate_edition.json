@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2828,
+  "EOS_Progressed": 2829,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 0,
@@ -7669,6 +7669,11 @@
       "Time": "2024-01-10T10:11:19.0209207+00:00",
       "NumProgressed": 2828,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T13:16:49.540078+00:00",
+      "NumProgressed": 2829,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7815,9 +7820,9 @@
       "ID": "achievement_25",
       "SetID": "271ol84",
       "Name": "A tremor in the Force",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 85
     },
     {
       "ID": "achievement_26",
@@ -7905,7 +7910,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2432
+      "UsersEstimate": 2433
     },
     {
       "ID": "achievement_36",
@@ -7921,7 +7926,7 @@
       "Name": "Off to a good start",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "achievement_38",
@@ -8121,7 +8126,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "achievement_60",
@@ -8184,13 +8189,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2828,
+      "Progressed": 2829,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2828,
+      "Progressed": 2829,
       "Completed": 1
     }
   ],
@@ -8198,8 +8203,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-10T12:10:51.9149068+00:00",
+  "LastChanged_Achievements": "2024-01-10T13:16:49.5400776+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-10T11:59:44.6141055+00:00",
-  "LastUpdate_Achievements": "2024-01-10T12:10:51.9149733+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:05:43.9076551+00:00",
+  "LastUpdate_Achievements": "2024-01-10T13:16:49.540157+00:00"
 }

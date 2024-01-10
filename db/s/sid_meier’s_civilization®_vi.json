@@ -2,12 +2,12 @@
   "ID": "cd14dcaa4f3443f19f7169a980559c62",
   "Name": "Sid Meier\u2019s Civilization\u00AE VI",
   "ProductSlug": "sid-meiers-civilization-vi",
-  "Ranking_Rating": 164,
+  "Ranking_Rating": 165,
   "Ranking_Popularity": 14,
   "Ranking_PopularitySum": 11,
   "Ranking_EOS_Progress": 824,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 577,
+  "Ranking_EOS_NewPlayers": 576,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-05-21T15:00:00+00:00",
@@ -16001,24 +16001,30 @@
       "Rating": 4.74,
       "NumberOfAwards": 361164,
       "NumberOfAwardsMax": 45772
+    },
+    {
+      "Time": "2024-01-10T13:04:26.2623625+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 361288,
+      "NumberOfAwardsMax": 45831
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 361164,
-  "NumberOfAwardsMax": 45772,
+  "NumberOfAwards": 361288,
+  "NumberOfAwardsMax": 45831,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 45772
+      "Count": 45831
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 38238
+      "Count": 38303
     },
     {
       "Text": "This game is Educational",
@@ -16086,8 +16092,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2024-01-10T11:58:40.2597989+00:00",
+  "LastChanged": "2024-01-10T13:04:26.2623621+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:31.3818966+00:00",
-  "LastUpdate_Ratings": "2024-01-10T11:58:40.2598005+00:00",
-  "LastUpdate_Achievements": "2024-01-10T12:08:44.0306182+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:04:26.2623629+00:00",
+  "LastUpdate_Achievements": "2024-01-10T13:14:18.1568237+00:00"
 }

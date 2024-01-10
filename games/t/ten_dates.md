@@ -11,7 +11,7 @@
 | The boss | 21.00% | ~105 |
 | The activist | 20.00% | ~100 |
 | The individualist | 17.00% | ~85 |
-| Picky, Picky! | 10.00% | ~50 |
+| Picky, Picky! | 11.00% | ~55 |
 | The nice guy | 10.00% | ~50 |
 | The lad | 9.00% | ~45 |
 | The debonair | 9.00% | ~45 |
@@ -24,7 +24,7 @@
 | Muggy Misha | 3.00% | ~15 |
 | Keep the spark alive | 2.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 500 (Ranked 353)  
+Progressed: 500 (Ranked 354)  
 Completed: 6 (1.20%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |

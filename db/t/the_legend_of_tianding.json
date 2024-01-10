@@ -515,9 +515,9 @@
       "ID": "BeatBossWang",
       "SetID": "123m9l1",
       "Name": "Eat the Rich",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "BigEater",
@@ -643,9 +643,9 @@
       "ID": "Survivor",
       "SetID": "123m9l1",
       "Name": "Not Today",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "TeachGushanALesson",
@@ -692,8 +692,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-10T12:06:55.3544816+00:00",
+  "LastChanged_Achievements": "2024-01-10T13:13:17.2346716+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.6846029+00:00",
-  "LastUpdate_Ratings": "2024-01-10T11:58:43.9946529+00:00",
-  "LastUpdate_Achievements": "2024-01-10T12:06:55.3544947+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:04:29.9872409+00:00",
+  "LastUpdate_Achievements": "2024-01-10T13:13:17.2346895+00:00"
 }

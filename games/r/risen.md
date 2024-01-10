@@ -34,8 +34,8 @@ Rating: 4.56 (Ranked 510)
 | Pandora's box | 13.00% | ~24 |
 | Peacekeeper | 12.00% | ~22 |
 | Defender | 11.00% | ~20 |
+| Workaholic | 11.00% | ~20 |
 | Showdown | 10.00% | ~18 |
-| Workaholic | 10.00% | ~18 |
 | Safecracker | 10.00% | ~18 |
 | Freedom fighter | 9.00% | ~17 |
 | Titan Lord | 9.00% | ~17 |
@@ -47,11 +47,11 @@ Rating: 4.56 (Ranked 510)
 | The traveler | 4.00% | ~7 |
 | King Midas | 4.00% | ~7 |
 | Rune master | 3.00% | ~6 |
+| Jester | 3.00% | ~6 |
 | Big game hunter | 2.00% | ~4 |
 | Mage | 2.00% | ~4 |
 | Sharpshooter | 2.00% | ~4 |
 | Fervent swimmer | 2.00% | ~4 |
-| Jester | 2.00% | ~4 |
 | Gladiator | 0.50% | ~1 |
 | Master of the classes | 0.50% | ~1 |
 | Weaponsmith | 0.00% | ~0 |

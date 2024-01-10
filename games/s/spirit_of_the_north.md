@@ -16,22 +16,22 @@ Number of Ratings: 1,175  (23.09.2022)
 | SPIRIT BARK | 22.00% | ~17,523 |
 | ERADICATE | 21.00% | ~16,726 |
 | GARDEN OF LIGHT | 18.00% | ~14,337 |
-| SPIRIT FORM | 17.00% | ~13,540 |
+| SPIRIT FORM | 17.00% | ~13,541 |
 | UPROOTING DARKNESS | 16.00% | ~12,744 |
 | WRITTEN IN STONE | 16.00% | ~12,744 |
 | WEIGHTLESS | 12.00% | ~9,558 |
-| SPIRIT DASH | 11.00% | ~8,761 |
+| SPIRIT DASH | 11.00% | ~8,762 |
 | OLD COMPANION | 9.00% | ~7,168 |
 | PLAGUE DOCTOR | 9.00% | ~7,168 |
 | MATCH MAKER | 8.00% | ~6,372 |
 | NORTHERN LIGHTS | 8.00% | ~6,372 |
 | SPIRITED AWAY | 8.00% | ~6,372 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~3,186 |
-| ANCIENT HISTORY | 3.00% | ~2,389 |
+| ANCIENT HISTORY | 3.00% | ~2,390 |
 | NONE FORGOTTEN | 2.00% | ~1,593 |
 | KINDRED SPIRITS | 0.60% | ~478 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,649 (Ranked 111)  
+Progressed: 79,650 (Ranked 111)  
 Completed: 432 (0.54%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 432 (0.54%) (Ranked 215)
 | 2024-01-07 | 79,429 | 431 |
 | 2024-01-08 | 79,536 | 431 |
 | 2024-01-09 | 79,626 | 431 |
-| 2024-01-10 | 79,649 | 432 |
+| 2024-01-10 | 79,650 | 432 |
 ## Awards
 Max (Extremely Fun): 27  (Ranked 540)  
 Sum: 116 (Ranked 459)  

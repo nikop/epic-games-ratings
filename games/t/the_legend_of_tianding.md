@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Hero Arrives | 92.00% | ~76 |
-| Eat the Rich | 58.00% | ~48 |
+| Eat the Rich | 59.00% | ~49 |
 | Killing Machine | 45.00% | ~37 |
 | Death Battle | 42.00% | ~35 |
 | Phantom Kunoichi | 42.00% | ~35 |
@@ -20,7 +20,7 @@
 | Sewer Rat | 27.00% | ~22 |
 | Big Eater | 25.00% | ~21 |
 | Urban Explorer | 25.00% | ~21 |
-| Not Today | 24.00% | ~20 |
+| Not Today | 25.00% | ~21 |
 | Tour Guide | 23.00% | ~19 |
 | Coward | 23.00% | ~19 |
 | Tomb Raider | 23.00% | ~19 |

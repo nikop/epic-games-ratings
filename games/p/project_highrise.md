@@ -7,7 +7,7 @@
 | In the Black | 55.00% | ~281 |
 | Starting Skyward | 49.00% | ~250 |
 | Grime is Not Good | 42.00% | ~215 |
-| Floor Galore | 36.00% | ~184 |
+| Floor Galore | 37.00% | ~189 |
 | Campaign Launch | 36.00% | ~184 |
 | Dinner Dash | 36.00% | ~184 |
 | Need a Consult | 34.00% | ~174 |
@@ -15,7 +15,7 @@
 | It's Technical | 33.00% | ~169 |
 | Proper Walls | 29.00% | ~148 |
 | Delegate Maintenance | 29.00% | ~148 |
-| Destination Destiny | 28.00% | ~143 |
+| Destination Destiny | 29.00% | ~148 |
 | Happy Tenants | 23.00% | ~118 |
 | Potent Potables | 23.00% | ~118 |
 | Your Prestige is Rising | 22.00% | ~112 |
@@ -40,9 +40,9 @@
 | Thrilled Tenants | 11.00% | ~56 |
 | 28 Days Later | 10.00% | ~51 |
 | Terrifically Trashed | 10.00% | ~51 |
+| Aestheticly Pleased | 9.00% | ~46 |
 | Swimming in Surplus | 9.00% | ~46 |
 | Refined Palates | 9.00% | ~46 |
-| Aestheticly Pleased | 8.00% | ~41 |
 | Plaza Plan | 8.00% | ~41 |
 | First 100 Days | 7.00% | ~36 |
 | Master of Puppets | 7.00% | ~36 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 511 (Ranked 350)  
+Progressed: 511 (Ranked 351)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |

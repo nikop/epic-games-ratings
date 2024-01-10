@@ -5,8 +5,8 @@ Rating: 4.60 (Ranked 431)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 70.00% | ~1,119 |
-| The Teleprobe | 55.00% | ~879 |
+| The Camp | 70.00% | ~1,121 |
+| The Teleprobe | 55.00% | ~881 |
 | The City | 49.00% | ~784 |
 | The field base | 44.00% | ~704 |
 | The Alliance | 41.00% | ~656 |
@@ -33,9 +33,9 @@ Rating: 4.60 (Ranked 431)
 | Got lost again | 5.00% | ~80 |
 | I leave no man behind (no exceptions) | 2.00% | ~32 |
 | Convoy list | 0.90% | ~14 |
-| No more mistakes | 0.80% | ~13 |
+| No more mistakes | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,599 (Ranked 263)  
+Progressed: 1,601 (Ranked 263)  
 Completed: 1 (0.06%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 1 (0.06%) (Ranked 329)
 | 2024-01-07 | 1,508 | 1 |
 | 2024-01-08 | 1,543 | 1 |
 | 2024-01-09 | 1,579 | 1 |
-| 2024-01-10 | 1,599 | 1 |
+| 2024-01-10 | 1,601 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

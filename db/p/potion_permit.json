@@ -403,9 +403,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1933,
+  "EOS_Progressed": 1934,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3588,6 +3588,11 @@
       "Time": "2024-01-10T11:05:20.7857422+00:00",
       "NumProgressed": 1933,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-10T13:11:09.5714474+00:00",
+      "NumProgressed": 1934,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3599,7 +3604,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1894
+      "UsersEstimate": 1895
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3607,7 +3612,7 @@
       "Name": "Great Doctor",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -3655,7 +3660,7 @@
       "Name": "The First Step",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3711,7 +3716,7 @@
       "Name": "Friendly",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -3727,7 +3732,7 @@
       "Name": "Kind-hearted",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -3767,7 +3772,7 @@
       "Name": "The Capitalist",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -3775,7 +3780,7 @@
       "Name": "Lumber Specialist",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACHIEVEMENTS_24",
@@ -3863,7 +3868,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -3902,7 +3907,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1933,
+      "Progressed": 1934,
       "Completed": 11
     }
   ],
@@ -3910,8 +3915,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2024-01-09T09:59:08.4994389+00:00",
-  "LastChanged_Achievements": "2024-01-10T12:05:11.3648013+00:00",
+  "LastChanged_Achievements": "2024-01-10T13:11:09.5714471+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:08.493824+00:00",
-  "LastUpdate_Ratings": "2024-01-10T11:59:16.0860646+00:00",
-  "LastUpdate_Achievements": "2024-01-10T12:05:11.364844+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:05:09.5241509+00:00",
+  "LastUpdate_Achievements": "2024-01-10T13:11:09.5714907+00:00"
 }

@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~1,296 |
-| Hidden History | 71.00% | ~920 |
+| Land of the Rising Sun | 100.00% | ~1,297 |
+| Hidden History | 71.00% | ~921 |
 | Commencing of Quests | 61.00% | ~791 |
 | Budding Conjuror | 59.00% | ~765 |
-| Man-Machine Master | 49.00% | ~635 |
-| Mountain Splitter | 48.00% | ~622 |
-| Subsistence Skills | 48.00% | ~622 |
-| Charmed by the Hunt | 48.00% | ~622 |
-| Memory Rouser | 47.00% | ~609 |
-| Fusion Conjuror | 45.00% | ~583 |
-| Kemono Hunter | 42.00% | ~544 |
-| Expert Conjuror | 40.00% | ~518 |
-| Helpful Heart | 39.00% | ~505 |
+| Man-Machine Master | 49.00% | ~636 |
+| Mountain Splitter | 48.00% | ~623 |
+| Subsistence Skills | 48.00% | ~623 |
+| Charmed by the Hunt | 48.00% | ~623 |
+| Memory Rouser | 46.00% | ~597 |
+| Fusion Conjuror | 45.00% | ~584 |
+| Kemono Hunter | 42.00% | ~545 |
+| Expert Conjuror | 40.00% | ~519 |
+| Helpful Heart | 39.00% | ~506 |
 | Flawless Crystal | 37.00% | ~480 |
 | Bonds of Enmity | 37.00% | ~480 |
 | Distance Devourer | 35.00% | ~454 |
@@ -33,15 +33,15 @@
 | Team Hunter | 20.00% | ~259 |
 | Karakuri Isle | 19.00% | ~246 |
 | Reincarnation Cycle Stopper | 19.00% | ~246 |
-| Left Arm Leverager | 16.00% | ~207 |
-| Human Believer | 16.00% | ~207 |
-| Style Seeker | 15.00% | ~194 |
-| Unrivaled in Arms | 15.00% | ~194 |
-| Quintessence of Form | 15.00% | ~194 |
-| Threaded Harmony | 15.00% | ~194 |
-| Karakuri Minato | 14.00% | ~181 |
-| Canyon of Karakuri | 13.00% | ~168 |
-| Jack of All Trades | 13.00% | ~168 |
+| Left Arm Leverager | 16.00% | ~208 |
+| Human Believer | 16.00% | ~208 |
+| Style Seeker | 15.00% | ~195 |
+| Unrivaled in Arms | 15.00% | ~195 |
+| Quintessence of Form | 15.00% | ~195 |
+| Threaded Harmony | 15.00% | ~195 |
+| Karakuri Minato | 14.00% | ~182 |
+| Canyon of Karakuri | 13.00% | ~169 |
+| Jack of All Trades | 13.00% | ~169 |
 | Karakuri Fortress | 10.00% | ~130 |
 | Volatile Vocation | 10.00% | ~130 |
 | Tender Touch | 10.00% | ~130 |
@@ -53,7 +53,7 @@
 | Big Spender | 5.00% | ~65 |
 | Tsukumo Whisperer | 3.00% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,296 (Ranked 278)  
+Progressed: 1,297 (Ranked 278)  
 Completed: 8 (0.62%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,4 +170,4 @@ Completed: 8 (0.62%) (Ranked 204)
 | 2024-01-07 | 1,227 | 8 |
 | 2024-01-08 | 1,253 | 8 |
 | 2024-01-09 | 1,281 | 8 |
-| 2024-01-10 | 1,296 | 8 |
+| 2024-01-10 | 1,297 | 8 |

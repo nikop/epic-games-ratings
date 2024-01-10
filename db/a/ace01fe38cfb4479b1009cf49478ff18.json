@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 882,
+  "EOS_Progressed": 884,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2864,6 +2864,11 @@
       "Time": "2024-01-10T12:09:18.4934608+00:00",
       "NumProgressed": 882,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T13:14:58.8775409+00:00",
+      "NumProgressed": 884,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2876,7 +2881,7 @@
       "Name": "Chapter I - Complete",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -2884,7 +2889,7 @@
       "Name": "Chapter II - Complete",
       "Percentage": 9,
       "XP": 45,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ach_chapter_complete_3",
@@ -2971,14 +2976,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 882,
+      "Progressed": 884,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-10T12:09:18.4934605+00:00",
+  "LastChanged_Achievements": "2024-01-10T13:14:58.8775405+00:00",
   "LastUpdate_AppInfo": "2024-01-05T16:57:07.4104924+00:00",
-  "LastUpdate_Ratings": "2024-01-10T12:00:45.1014189+00:00",
-  "LastUpdate_Achievements": "2024-01-10T12:09:18.4934803+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:07:00.1787851+00:00",
+  "LastUpdate_Achievements": "2024-01-10T13:14:58.8775636+00:00"
 }
