@@ -6,18 +6,18 @@ Rating: 4.58 (Ranked 470)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 33.00% | ~1,364 |
-| Sputnik 2049 | 29.00% | ~1,198 |
+| Sputnik 2049 | 29.00% | ~1,199 |
 | Infinite Growth... | 28.00% | ~1,157 |
 | Without Breaking Some Eggs... | 27.00% | ~1,116 |
 | Space Society | 19.00% | ~785 |
 | A Thousand Strong | 19.00% | ~785 |
 | Ready for a New World | 19.00% | ~785 |
-| Permanent Redesigns | 17.00% | ~702 |
+| Permanent Redesigns | 17.00% | ~703 |
 | Fully Recycled | 15.00% | ~620 |
 | Ain't Nobody Got Time for That | 15.00% | ~620 |
 | The Ship of Theseus | 15.00% | ~620 |
-| Guy de Borderlands | 14.00% | ~578 |
-| Hope Seeker | 14.00% | ~578 |
+| Guy de Borderlands | 14.00% | ~579 |
+| Hope Seeker | 14.00% | ~579 |
 | A Hunk of Junk | 12.00% | ~496 |
 | Exceeding Capacity | 12.00% | ~496 |
 | Breaking Protocol | 12.00% | ~496 |
@@ -45,11 +45,11 @@ Rating: 4.58 (Ranked 470)
 | Help of the Forgotten Member | 3.00% | ~124 |
 | Pulsar Disciple | 3.00% | ~124 |
 | Mutual Loyalty | 2.00% | ~83 |
+| Better Him Than Me | 2.00% | ~83 |
 | Tiqqun Contender | 2.00% | ~83 |
 | Catastrophe Avoided | 2.00% | ~83 |
 | You Had One Job... | 2.00% | ~83 |
 | Tiqqun Unchained | 2.00% | ~83 |
-| Better Him Than Me | 1.00% | ~41 |
 | Remember the Dead | 1.00% | ~41 |
 | Gregor Spinoza | 1.00% | ~41 |
 | Scientifically Accurate | 1.00% | ~41 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 470)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,132 (Ranked 211)  
+Progressed: 4,133 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 4,075 | 0 |
 | 2024-01-08 | 4,096 | 0 |
 | 2024-01-09 | 4,126 | 0 |
-| 2024-01-10 | 4,132 | 0 |
+| 2024-01-10 | 4,133 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

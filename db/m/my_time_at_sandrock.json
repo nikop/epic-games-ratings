@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 245,
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -2204,7 +2204,7 @@
   ],
   "EOS_Progressed": 881,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9951,9 +9951,9 @@
       "ID": "P_REMOVEPOLLUTION",
       "SetID": "80dcan0",
       "Name": "Greeno-B-Gone",
-      "Percentage": 109,
+      "Percentage": 110,
       "XP": 20,
-      "UsersEstimate": 960
+      "UsersEstimate": 969
     },
     {
       "ID": "P_SAVESANDROCK",
@@ -10023,9 +10023,9 @@
       "ID": "S_CHAT",
       "SetID": "80dcan0",
       "Name": "Chatterbox",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 670
+      "UsersEstimate": 678
     },
     {
       "ID": "S_DANCE",
@@ -10079,9 +10079,9 @@
       "ID": "S_GIFT_LOVE",
       "SetID": "80dcan0",
       "Name": "Just What I Always Wanted!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 414
+      "UsersEstimate": 423
     },
     {
       "ID": "S_LOVE",
@@ -10215,8 +10215,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2024-01-10T14:00:39.7344463+00:00",
-  "LastChanged_Achievements": "2024-01-10T14:09:53.3132909+00:00",
+  "LastChanged_Achievements": "2024-01-10T15:08:50.2840877+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:07.0919525+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:00:39.7344469+00:00",
-  "LastUpdate_Achievements": "2024-01-10T14:09:53.3133855+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:59:34.5547155+00:00",
+  "LastUpdate_Achievements": "2024-01-10T15:08:50.2841613+00:00"
 }

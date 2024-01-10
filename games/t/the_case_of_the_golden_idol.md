@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Solved first case | 23.00% | ~57 |
 | Solved second case | 23.00% | ~57 |
-| Solved first case | 22.00% | ~54 |
 | Solved third case | 19.00% | ~47 |
 | Solved The Spider of Lanka 1st Case | 17.00% | ~33 |
 | Solved fourth case | 13.00% | ~32 |
@@ -22,8 +22,8 @@
 | Solved eleventh case | 4.00% | ~10 |
 | Solved the Lemurian Vampire 3rd Case | 3.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247 (Ranked 418)  
-Completed: 8 (3.24%) (Ranked 103)  
+Progressed: 248 (Ranked 418)  
+Completed: 8 (3.23%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,7 +139,7 @@ Completed: 8 (3.24%) (Ranked 103)
 | 2024-01-06 | 242 | 8 |
 | 2024-01-07 | 245 | 8 |
 | 2024-01-08 | 246 | 8 |
-| 2024-01-10 | 247 | 8 |
+| 2024-01-10 | 248 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

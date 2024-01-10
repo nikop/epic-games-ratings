@@ -3,8 +3,8 @@
   "Name": "Aya \u0026 Naya",
   "ProductSlug": "aya-and-naya-b7791e",
   "Ranking_EOS_Progress": 268,
-  "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_Completed": 80,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-08-17T20:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1505,
+  "EOS_Progressed": 1506,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.52,
   "EosHistory": [
@@ -4194,6 +4194,11 @@
       "Time": "2024-01-10T14:11:14.2180655+00:00",
       "NumProgressed": 1505,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2024-01-10T15:09:52.375484+00:00",
+      "NumProgressed": 1506,
+      "NumCompleted": 68
     }
   ],
   "AchievementsAdded": "2023-08-08T22:02:18.1743145+00:00",
@@ -4206,7 +4211,7 @@
       "Name": "Played!",
       "Percentage": 84,
       "XP": 200,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "Mission2",
@@ -4230,7 +4235,7 @@
       "Name": "Mission 3 clear",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Mission5",
@@ -4245,14 +4250,14 @@
     {
       "ID": "6igjng7",
       "IsBase": true,
-      "Progressed": 1505,
+      "Progressed": 1506,
       "Completed": 68
     }
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2024-01-10T14:11:14.2180648+00:00",
+  "LastChanged_Achievements": "2024-01-10T15:09:52.3754832+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.9854903+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:00:50.0518614+00:00",
-  "LastUpdate_Achievements": "2024-01-10T14:11:14.2180897+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:59:41.6510346+00:00",
+  "LastUpdate_Achievements": "2024-01-10T15:09:52.3755105+00:00"
 }

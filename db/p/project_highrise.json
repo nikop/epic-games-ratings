@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 511,
+  "EOS_Progressed": 512,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1685,6 +1685,11 @@
       "Time": "2024-01-10T11:05:23.6885091+00:00",
       "NumProgressed": 511,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T15:04:56.7773645+00:00",
+      "NumProgressed": 512,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1702,9 +1707,9 @@
       "ID": "ach_ada",
       "SetID": "b8gh1fi",
       "Name": "Meet ADA/360",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_apartments_1",
@@ -1734,9 +1739,9 @@
       "ID": "ach_area_1",
       "SetID": "b8gh1fi",
       "Name": "Under One Roof",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 67
     },
     {
       "ID": "ach_art",
@@ -2000,7 +2005,7 @@
       "Name": "Starting Skyward",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ach_floors_1",
@@ -2064,7 +2069,7 @@
       "Name": "Don\u0027t Feel a Loan",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ach_mod_1",
@@ -2136,7 +2141,7 @@
       "Name": "Your Prestige is Rising",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ach_prestige_2",
@@ -2150,9 +2155,9 @@
       "ID": "ach_prestige_3",
       "SetID": "b8gh1fi",
       "Name": "Sky High Stature",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_profit_0",
@@ -2160,7 +2165,7 @@
       "Name": "In the Black",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ach_profit_1",
@@ -2232,7 +2237,7 @@
       "Name": "Starred Dining",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ach_retail_1",
@@ -2240,7 +2245,7 @@
       "Name": "Retail Revenue",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ach_retail_2",
@@ -2270,9 +2275,9 @@
       "ID": "ach_revs_1",
       "SetID": "b8gh1fi",
       "Name": "Cashflow Chief",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 67
     },
     {
       "ID": "ach_revs_2",
@@ -2320,7 +2325,7 @@
       "Name": "Smooth Service",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ach_trash_1",
@@ -2342,9 +2347,9 @@
       "ID": "ach_util_cable",
       "SetID": "b8gh1fi",
       "Name": "Tuned In",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_util_gas",
@@ -2399,7 +2404,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 511,
+      "Progressed": 512,
       "Completed": 0
     }
   ],
@@ -2407,8 +2412,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-10T14:06:11.8146033+00:00",
+  "LastChanged_Achievements": "2024-01-10T15:04:56.7773641+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8765911+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:59:20.4104728+00:00",
-  "LastUpdate_Achievements": "2024-01-10T14:06:11.8146837+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:58:38.5626897+00:00",
+  "LastUpdate_Achievements": "2024-01-10T15:04:56.7774487+00:00"
 }

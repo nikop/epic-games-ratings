@@ -6,32 +6,32 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 65.00% | ~275 |
-| Cartographer | 58.00% | ~245 |
-| A Strange Artefact | 54.00% | ~228 |
-| Insomnia | 49.00% | ~207 |
+| The Adventure Begins | 65.00% | ~276 |
+| Cartographer | 58.00% | ~246 |
+| A Strange Artefact | 54.00% | ~229 |
+| Insomnia | 49.00% | ~208 |
 | Lost & Found & Lost Again | 43.00% | ~182 |
 | From Whence we Came | 43.00% | ~182 |
-| Fire and Flood | 41.00% | ~173 |
+| Fire and Flood | 42.00% | ~178 |
 | Spooky! | 38.00% | ~161 |
-| Treasure Hunt | 36.00% | ~152 |
+| Treasure Hunt | 36.00% | ~153 |
 | Shennong Herbalist | 35.00% | ~148 |
-| Good Mama | 32.00% | ~135 |
+| Good Mama | 32.00% | ~136 |
 | O Captain My Captain | 31.00% | ~131 |
 | Plunderer | 29.00% | ~123 |
 | Taxonomist | 27.00% | ~114 |
-| Traveller | 26.00% | ~110 |
+| Traveller | 25.00% | ~106 |
 | Uncertain Loyalties | 25.00% | ~106 |
-| Roll to Save | 23.00% | ~97 |
-| Nahua Seeker | 23.00% | ~97 |
+| Roll to Save | 23.00% | ~98 |
+| Nahua Seeker | 23.00% | ~98 |
 | Veteran Explorer | 22.00% | ~93 |
 | Red Flag Pirate | 20.00% | ~85 |
 | Iron Man | 17.00% | ~72 |
 | A Gentle Beast | 17.00% | ~72 |
 | Practical Palaeontology | 16.00% | ~68 |
-| Adventurer | 15.00% | ~63 |
-| For the Club! | 15.00% | ~63 |
-| Shortening of the Way | 15.00% | ~63 |
+| Adventurer | 15.00% | ~64 |
+| For the Club! | 15.00% | ~64 |
+| Shortening of the Way | 15.00% | ~64 |
 | Dapper | 14.00% | ~59 |
 | The New Director | 13.00% | ~55 |
 | The Director is Dead | 13.00% | ~55 |
@@ -42,11 +42,11 @@ Number of Ratings: 20  (23.09.2022)
 | Under the Table | 11.00% | ~47 |
 | It's Complicated | 10.00% | ~42 |
 | Cold Blood, Warm Heart | 9.00% | ~38 |
-| Errand Runner | 9.00% | ~38 |
 | SCHMETTERLING | 8.00% | ~34 |
 | No Laughing Matter | 8.00% | ~34 |
 | The Great Library | 8.00% | ~34 |
 | Level Up | 8.00% | ~34 |
+| Errand Runner | 8.00% | ~34 |
 | Zookeeper | 7.00% | ~30 |
 | The Workshop | 6.00% | ~25 |
 | Islander Understanding | 5.00% | ~21 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | Pacifism Ain't Easy | 0.70% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 423 (Ranked 366)  
+Progressed: 424 (Ranked 366)  
 Completed: 1 (0.24%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 1 (0.24%) (Ranked 266)
 | 2024-01-07 | 416 | 1 |
 | 2024-01-08 | 418 | 1 |
 | 2024-01-09 | 420 | 1 |
-| 2024-01-10 | 423 | 1 |
+| 2024-01-10 | 424 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

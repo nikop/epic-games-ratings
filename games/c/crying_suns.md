@@ -6,22 +6,22 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~312,615 |
-| Jeef Skeejj | 44.00% | ~208,410 |
-| Careful planning | 39.00% | ~184,727 |
-| Second Coming | 34.00% | ~161,044 |
-| Jeef Skagg | 30.00% | ~142,098 |
-| Mother | 25.00% | ~118,415 |
-| In space, no one can hear you scream | 24.00% | ~113,678 |
-| Chapter I: Echoes | 22.00% | ~104,205 |
-| Excelsior Rule | 22.00% | ~104,205 |
+| The Shutdown | 66.00% | ~312,617 |
+| Jeef Skeejj | 44.00% | ~208,411 |
+| Careful planning | 39.00% | ~184,728 |
+| Second Coming | 34.00% | ~161,045 |
+| Jeef Skagg | 30.00% | ~142,099 |
+| Mother | 25.00% | ~118,416 |
+| In space, no one can hear you scream | 24.00% | ~113,679 |
+| Chapter I: Echoes | 22.00% | ~104,206 |
+| Excelsior Rule | 22.00% | ~104,206 |
 | Things persisted in not being what they seemed | 20.00% | ~94,732 |
 | Knightmare Frames | 15.00% | ~71,049 |
 | May His passing cleanse the world | 15.00% | ~71,049 |
 | Chapter II: Fallible Flesh | 15.00% | ~71,049 |
 | Pope Zenon | 15.00% | ~71,049 |
 | Plan for the worst | 12.00% | ~56,839 |
-| Tetsuo | 11.00% | ~52,102 |
+| Tetsuo | 11.00% | ~52,103 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,366 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,893 |
 | Through the mirror | 8.00% | ~37,893 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~18 |
 | Kronos Rule | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,659 (Ranked 45)  
+Progressed: 473,662 (Ranked 45)  
 Completed: 21 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 21 (0.00%) (Ranked 395)
 | 2024-01-07 | 473,531 | 21 |
 | 2024-01-08 | 473,574 | 21 |
 | 2024-01-09 | 473,630 | 21 |
-| 2024-01-10 | 473,659 | 21 |
+| 2024-01-10 | 473,662 | 21 |
 ## Awards
 Max (Character Customization): 229  (Ranked 287)  
 Sum: 253 (Ranked 398)  

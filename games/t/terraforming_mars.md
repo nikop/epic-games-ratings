@@ -1,21 +1,21 @@
 # Terraforming Mars
 [Store](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)  
 [View Rawdata](../../db/t/terraforming_mars.json)  
-Rating: 4.53 (Ranked 563)  
+Rating: 4.53 (Ranked 564)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~33,297 |
-| Final touch | 34.00% | ~30,597 |
-| Prop-M Rover | 32.00% | ~28,797 |
-| Changing the Planet | 28.00% | ~25,198 |
-| Sojourner | 26.00% | ~23,398 |
-| New Home | 23.00% | ~20,698 |
-| Beagle 2 | 23.00% | ~20,698 |
-| Winner Winner Terraformer | 20.00% | ~17,998 |
-| Project Manager | 19.00% | ~17,098 |
-| Collector | 19.00% | ~17,098 |
+| It's a steal! | 37.00% | ~33,298 |
+| Final touch | 34.00% | ~30,598 |
+| Prop-M Rover | 32.00% | ~28,798 |
+| Changing the Planet | 28.00% | ~25,199 |
+| Sojourner | 26.00% | ~23,399 |
+| New Home | 23.00% | ~20,699 |
+| Beagle 2 | 23.00% | ~20,699 |
+| Winner Winner Terraformer | 20.00% | ~17,999 |
+| Project Manager | 19.00% | ~17,099 |
+| Collector | 19.00% | ~17,099 |
 | Curiosity | 18.00% | ~16,199 |
 | Master | 18.00% | ~16,199 |
 | No Longer Red | 17.00% | ~15,299 |
@@ -28,16 +28,16 @@ Number of Ratings: 2,731  (23.09.2022)
 | Most Achievements | 11.00% | ~9,899 |
 | Hellenic Elysium | 11.00% | ~9,899 |
 | Grand champion | 11.00% | ~9,899 |
-| Spirit | 10.00% | ~8,999 |
-| Variety Expert | 9.00% | ~8,099 |
-| Ultimate success | 9.00% | ~8,099 |
-| Frequent tester | 8.00% | ~7,199 |
-| Determined | 7.00% | ~6,299 |
+| Spirit | 10.00% | ~9,000 |
+| Variety Expert | 9.00% | ~8,100 |
+| Ultimate success | 9.00% | ~8,100 |
+| Frequent tester | 8.00% | ~7,200 |
+| Determined | 7.00% | ~6,300 |
 | Terraformer | 4.00% | ~3,600 |
 | Team Effort | 3.00% | ~2,700 |
 | Opportunity | 3.00% | ~2,700 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,992 (Ranked 105)  
+Progressed: 89,995 (Ranked 105)  
 Completed: 184 (0.20%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,10 +302,10 @@ Completed: 184 (0.20%) (Ranked 275)
 | 2024-01-07 | 89,700 | 180 |
 | 2024-01-08 | 89,828 | 182 |
 | 2024-01-09 | 89,940 | 183 |
-| 2024-01-10 | 89,992 | 184 |
+| 2024-01-10 | 89,995 | 184 |
 ## Awards
 Max (Relaxing): 539  (Ranked 216)  
-Sum: 3,332 (Ranked 179)  
+Sum: 3,333 (Ranked 179)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -317,7 +317,7 @@ Diff (max vs sum): 37
 | This game has Amazing Storytelling | 377 |
 | This game has Obsessive Gameplay | 334 |
 | This game has a Competitive Community | 262 |
-| This game has Amazing Characters | 205 |
+| This game has Amazing Characters | 206 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -575,3 +575,4 @@ Diff (max vs sum): 37
 | 2024-01-07 | 4.53 | - | 539 | 3,328 |
 | 2024-01-08 | 4.53 | - | 539 | 3,330 |
 | 2024-01-09 | 4.53 | - | 539 | 3,332 |
+| 2024-01-10 | 4.53 | - | 539 | 3,333 |

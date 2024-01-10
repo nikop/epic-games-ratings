@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -300,9 +300,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2553,
+  "EOS_Progressed": 2554,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -4610,6 +4610,11 @@
       "Time": "2024-01-10T14:06:02.4352846+00:00",
       "NumProgressed": 2553,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-10T15:04:45.5104355+00:00",
+      "NumProgressed": 2554,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4629,7 +4634,7 @@
       "Name": "Jailbreak",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "ACHV_03",
@@ -4645,7 +4650,7 @@
       "Name": "Overheated",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "ACHV_05",
@@ -4813,7 +4818,7 @@
       "Name": "Full Arsenal",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ACHV_26",
@@ -4821,7 +4826,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 1991
+      "UsersEstimate": 1992
     },
     {
       "ID": "ACHV_27",
@@ -4853,7 +4858,7 @@
       "Name": "Powered Up",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "ACHV_31",
@@ -4883,9 +4888,9 @@
       "ID": "ACHV_34",
       "SetID": "8p5mlmc",
       "Name": "Shocking",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 511
+      "UsersEstimate": 485
     },
     {
       "ID": "ACHV_35",
@@ -4925,7 +4930,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "ACHV_40",
@@ -5076,7 +5081,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2553,
+      "Progressed": 2554,
       "Completed": 13
     }
   ],
@@ -5084,8 +5089,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-07T10:02:57.9512677+00:00",
-  "LastChanged_Achievements": "2024-01-10T14:06:02.4352839+00:00",
+  "LastChanged_Achievements": "2024-01-10T15:04:45.5104352+00:00",
   "LastUpdate_AppInfo": "2024-01-06T17:57:07.4256179+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:03:43.2721199+00:00",
-  "LastUpdate_Achievements": "2024-01-10T14:06:02.4353572+00:00"
+  "LastUpdate_Ratings": "2024-01-10T15:02:59.5352336+00:00",
+  "LastUpdate_Achievements": "2024-01-10T15:04:45.5105029+00:00"
 }

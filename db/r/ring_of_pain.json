@@ -3886,9 +3886,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242721,
+  "EOS_Progressed": 242724,
   "EOS_Completed": 305,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31341,6 +31341,11 @@
       "Time": "2024-01-10T14:11:35.0158631+00:00",
       "NumProgressed": 242721,
       "NumCompleted": 305
+    },
+    {
+      "Time": "2024-01-10T15:10:09.2769365+00:00",
+      "NumProgressed": 242724,
+      "NumCompleted": 305
     }
   ],
   "TotalAchievements": 138,
@@ -31392,7 +31397,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2185
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -31448,7 +31453,7 @@
       "Name": "Delving Deeper",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2185
     },
     {
       "ID": "DEPTH12HARD",
@@ -31848,7 +31853,7 @@
       "Name": "Heartless",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2185
     },
     {
       "ID": "KILLPARANOIA",
@@ -31856,7 +31861,7 @@
       "Name": "What\u0027s Yours Is Mine",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2185
     },
     {
       "ID": "KILLREFLECT10",
@@ -31880,7 +31885,7 @@
       "Name": "Spine Breaker",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2185
     },
     {
       "ID": "KILLSPITTER",
@@ -31952,7 +31957,7 @@
       "Name": "C-C-Combo",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2185
     },
     {
       "ID": "NOEPIC",
@@ -31984,7 +31989,7 @@
       "Name": "Deflection",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2185
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -32120,7 +32125,7 @@
       "Name": "Sneaky",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2185
     },
     {
       "ID": "STEALTH100",
@@ -32455,13 +32460,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242721,
+      "Progressed": 242724,
       "Completed": 305
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4201,
+      "Progressed": 4204,
       "Completed": 424
     }
   ],
@@ -32469,8 +32474,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-09T13:57:40.165064+00:00",
-  "LastChanged_Achievements": "2024-01-10T14:11:35.0158629+00:00",
+  "LastChanged_Achievements": "2024-01-10T15:10:09.2769361+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:58:54.4535704+00:00",
-  "LastUpdate_Achievements": "2024-01-10T14:11:35.0161377+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:58:19.8339309+00:00",
+  "LastUpdate_Achievements": "2024-01-10T15:10:09.2772054+00:00"
 }

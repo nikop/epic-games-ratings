@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19304,
+  "EOS_Progressed": 19305,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14625,6 +14625,11 @@
       "Time": "2024-01-10T14:06:34.5668558+00:00",
       "NumProgressed": 19304,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-10T15:05:14.3515978+00:00",
+      "NumProgressed": 19305,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14636,7 +14641,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5791
+      "UsersEstimate": 5792
     },
     {
       "ID": "0002",
@@ -14836,7 +14841,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2316
+      "UsersEstimate": 2317
     },
     {
       "ID": "0027",
@@ -14844,7 +14849,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2123
+      "UsersEstimate": 2124
     },
     {
       "ID": "0028",
@@ -14876,7 +14881,7 @@
       "Name": "Private Collection",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2123
+      "UsersEstimate": 2124
     },
     {
       "ID": "0032",
@@ -14884,7 +14889,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2123
+      "UsersEstimate": 2124
     },
     {
       "ID": "0033",
@@ -14892,7 +14897,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2123
+      "UsersEstimate": 2124
     },
     {
       "ID": "0034",
@@ -14900,7 +14905,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2316
+      "UsersEstimate": 2317
     },
     {
       "ID": "0035",
@@ -14923,7 +14928,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19304,
+      "Progressed": 19305,
       "Completed": 4
     }
   ],
@@ -14931,8 +14936,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-10T14:06:34.5668555+00:00",
+  "LastChanged_Achievements": "2024-01-10T15:05:14.3515976+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:47.8848382+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:57:30.9753548+00:00",
-  "LastUpdate_Achievements": "2024-01-10T14:06:34.5669519+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:57:20.9391674+00:00",
+  "LastUpdate_Achievements": "2024-01-10T15:05:14.3516728+00:00"
 }

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 55.00% | ~281 |
-| Starting Skyward | 49.00% | ~250 |
+| In the Black | 55.00% | ~282 |
+| Starting Skyward | 49.00% | ~251 |
 | Grime is Not Good | 42.00% | ~215 |
 | Floor Galore | 37.00% | ~189 |
 | Campaign Launch | 36.00% | ~184 |
@@ -18,10 +18,10 @@
 | Destination Destiny | 29.00% | ~148 |
 | Happy Tenants | 23.00% | ~118 |
 | Potent Potables | 23.00% | ~118 |
-| Your Prestige is Rising | 22.00% | ~112 |
-| Smooth Service | 22.00% | ~112 |
-| Don't Feel a Loan | 21.00% | ~107 |
-| Retail Revenue | 21.00% | ~107 |
+| Your Prestige is Rising | 22.00% | ~113 |
+| Smooth Service | 22.00% | ~113 |
+| Don't Feel a Loan | 21.00% | ~108 |
+| Retail Revenue | 21.00% | ~108 |
 | People Mover | 19.00% | ~97 |
 | Artfully Done | 18.00% | ~92 |
 | Leveled Up Shops | 18.00% | ~92 |
@@ -32,9 +32,9 @@
 | Rehab Expert | 16.00% | ~82 |
 | Tasty Profits | 16.00% | ~82 |
 | Established Fame | 15.00% | ~77 |
-| Under One Roof | 14.00% | ~72 |
-| Cashflow Chief | 14.00% | ~72 |
-| Starred Dining | 13.00% | ~66 |
+| Under One Roof | 13.00% | ~67 |
+| Starred Dining | 13.00% | ~67 |
+| Cashflow Chief | 13.00% | ~67 |
 | Smooth Operator | 11.00% | ~56 |
 | Boutique Benefits | 11.00% | ~56 |
 | Thrilled Tenants | 11.00% | ~56 |
@@ -50,19 +50,19 @@
 | Water Features | 6.00% | ~31 |
 | Revenue Royalty | 6.00% | ~31 |
 | Golden Opportunity | 6.00% | ~31 |
-| Meet ADA/360 | 5.00% | ~26 |
 | I'm Busy Ruling | 5.00% | ~26 |
 | Careful Constructor | 5.00% | ~26 |
 | Meet Me at HQ | 5.00% | ~26 |
-| Sky High Stature | 5.00% | ~26 |
 | Profound Proceeds | 5.00% | ~26 |
 | Maximum Reuse | 5.00% | ~26 |
-| Tuned In | 5.00% | ~26 |
 | It's a Gas | 5.00% | ~26 |
 | Pipe Up | 5.00% | ~26 |
+| Meet ADA/360 | 4.00% | ~20 |
 | Penthouse in the Sky | 4.00% | ~20 |
 | Baron of Business | 4.00% | ~20 |
 | Sandbagger | 4.00% | ~20 |
+| Sky High Stature | 4.00% | ~20 |
+| Tuned In | 4.00% | ~20 |
 | Decorator's Touch | 3.00% | ~15 |
 | Office Bigwigs | 3.00% | ~15 |
 | Luxury Boutiques | 3.00% | ~15 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 511 (Ranked 351)  
+Progressed: 512 (Ranked 351)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 502 | 0 |
 | 2024-01-08 | 505 | 0 |
 | 2024-01-09 | 509 | 0 |
-| 2024-01-10 | 511 | 0 |
+| 2024-01-10 | 512 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

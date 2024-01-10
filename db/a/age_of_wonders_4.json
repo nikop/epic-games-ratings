@@ -759,9 +759,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7150,
+  "EOS_Progressed": 7153,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 382,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10959,6 +10959,11 @@
       "Time": "2024-01-10T14:07:58.5086708+00:00",
       "NumProgressed": 7150,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-10T15:06:18.508638+00:00",
+      "NumProgressed": 7153,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -11082,7 +11087,7 @@
       "Name": "Realm Estate",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "23",
@@ -11146,7 +11151,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "30",
@@ -11154,7 +11159,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "31",
@@ -11322,7 +11327,7 @@
       "Name": "Here be Dragons",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "46",
@@ -11330,7 +11335,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "47",
@@ -11370,7 +11375,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "52",
@@ -11449,13 +11454,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7150,
+      "Progressed": 7153,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7150,
+      "Progressed": 7153,
       "Completed": 7
     }
   ],
@@ -11463,8 +11468,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-10T06:57:43.8261312+00:00",
-  "LastChanged_Achievements": "2024-01-10T14:07:58.5086701+00:00",
+  "LastChanged_Achievements": "2024-01-10T15:06:18.5086374+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:58:29.9684291+00:00",
-  "LastUpdate_Achievements": "2024-01-10T14:07:58.5087596+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:58:02.199172+00:00",
+  "LastUpdate_Achievements": "2024-01-10T15:06:18.5087353+00:00"
 }

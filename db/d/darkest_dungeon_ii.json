@@ -10716,9 +10716,9 @@
       "Count": 1088
     }
   ],
-  "EOS_Progressed": 132359,
+  "EOS_Progressed": 132363,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 903,
+  "EOS_NewPlayers": 896,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39221,6 +39221,11 @@
       "Time": "2024-01-10T14:11:07.3783203+00:00",
       "NumProgressed": 132359,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-10T15:09:47.2779073+00:00",
+      "NumProgressed": 132363,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39520,7 +39525,7 @@
       "Name": "Spelunker",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5294
+      "UsersEstimate": 5295
     },
     {
       "ID": "driving_biome_clear_city",
@@ -39536,7 +39541,7 @@
       "Name": "Merry Time",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5294
+      "UsersEstimate": 5295
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -39544,7 +39549,7 @@
       "Name": "Harvest Festival",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5294
+      "UsersEstimate": 5295
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -39560,7 +39565,7 @@
       "Name": "Ramble On",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5294
+      "UsersEstimate": 5295
     },
     {
       "ID": "driving_distance_hard",
@@ -39608,7 +39613,7 @@
       "Name": "Whale",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5294
+      "UsersEstimate": 5295
     },
     {
       "ID": "hospital_full_service",
@@ -39680,7 +39685,7 @@
       "Name": "Nope",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5294
+      "UsersEstimate": 5295
     },
     {
       "ID": "run_victory_act01",
@@ -39688,7 +39693,7 @@
       "Name": "Unshackled",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 5294
+      "UsersEstimate": 5295
     },
     {
       "ID": "run_victory_act02",
@@ -39824,7 +39829,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "quest_complete_crusader",
@@ -39832,7 +39837,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -39863,21 +39868,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132359,
+      "Progressed": 132363,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7228,
+      "Progressed": 7232,
       "Completed": 823
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-10T07:59:48.2790961+00:00",
-  "LastChanged_Achievements": "2024-01-10T14:11:07.37832+00:00",
+  "LastChanged_Achievements": "2024-01-10T15:09:47.2779068+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:00:14.7172581+00:00",
-  "LastUpdate_Achievements": "2024-01-10T14:11:07.3785046+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:59:16.6072817+00:00",
+  "LastUpdate_Achievements": "2024-01-10T15:09:47.2780876+00:00"
 }

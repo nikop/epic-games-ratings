@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -667,7 +667,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4252,
+  "EOS_Progressed": 4253,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
@@ -9582,6 +9582,11 @@
       "Time": "2024-01-10T12:10:15.2998944+00:00",
       "NumProgressed": 4252,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-10T15:09:33.0099841+00:00",
+      "NumProgressed": 4253,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9673,7 +9678,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1998
+      "UsersEstimate": 1999
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9793,7 +9798,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -9833,7 +9838,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -9905,7 +9910,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1489
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -10160,13 +10165,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4203,
+      "Progressed": 4204,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4252,
+      "Progressed": 4253,
       "Completed": 11
     }
   ],
@@ -10174,8 +10179,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-09T13:14:28.403425+00:00",
-  "LastChanged_Achievements": "2024-01-10T14:10:48.7305532+00:00",
+  "LastChanged_Achievements": "2024-01-10T15:09:33.0099836+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:59.0213472+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:59:17.8866066+00:00",
-  "LastUpdate_Achievements": "2024-01-10T14:10:48.730644+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:58:35.9707277+00:00",
+  "LastUpdate_Achievements": "2024-01-10T15:09:33.0100746+00:00"
 }

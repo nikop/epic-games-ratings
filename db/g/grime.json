@@ -1861,9 +1861,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167533,
+  "EOS_Progressed": 167539,
   "EOS_Completed": 454,
-  "EOS_NewPlayers": 1274,
+  "EOS_NewPlayers": 1270,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22566,6 +22566,11 @@
       "Time": "2024-01-10T14:05:52.8151469+00:00",
       "NumProgressed": 167533,
       "NumCompleted": 454
+    },
+    {
+      "Time": "2024-01-10T15:04:38.5706032+00:00",
+      "NumProgressed": 167539,
+      "NumCompleted": 454
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22752,9 +22757,9 @@
       "ID": "DEFEAT_VULTURE",
       "SetID": "ccc0dlh",
       "Name": "Feast",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1340
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -22794,7 +22799,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6701
+      "UsersEstimate": 6702
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -22945,21 +22950,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167116,
+      "Progressed": 167122,
       "Completed": 1258
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167533,
+      "Progressed": 167539,
       "Completed": 454
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-10T10:00:21.3574697+00:00",
-  "LastChanged_Achievements": "2024-01-10T14:05:52.8151465+00:00",
+  "LastChanged_Achievements": "2024-01-10T15:04:38.5706024+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:00:32.2922847+00:00",
-  "LastUpdate_Achievements": "2024-01-10T14:05:52.8152841+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:59:29.3470555+00:00",
+  "LastUpdate_Achievements": "2024-01-10T15:04:38.5707163+00:00"
 }

@@ -6,30 +6,30 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~32,549 |
-| The Evilest Evil | 59.00% | ~27,434 |
-| Twistram is devastated | 58.00% | ~26,969 |
-| The Gehenna Stones | 50.00% | ~23,249 |
-| No one has to die today! | 47.00% | ~21,854 |
-| Death and destruction! | 46.00% | ~21,389 |
-| The Swamplanders from the swamplands | 44.00% | ~20,459 |
-| Rusty Steel | 41.00% | ~19,064 |
-| The One-Huge-Army-Building Evil | 40.00% | ~18,599 |
-| Braiiiiins! | 38.00% | ~17,669 |
-| The last burger | 37.00% | ~17,204 |
-| Hands off the Dungeonheart! | 36.00% | ~16,739 |
-| A trip on sea, what fun it can be | 34.00% | ~15,809 |
-| Damned good | 33.00% | ~15,344 |
-| Stock Market Crash | 31.00% | ~14,414 |
-| Factory farming | 31.00% | ~14,414 |
-| Shadow hunter | 29.00% | ~13,484 |
-| Not-So-Overproud | 29.00% | ~13,484 |
-| For a handfull of Catapults | 28.00% | ~13,019 |
-| Thirst quencher | 27.00% | ~12,554 |
-| Ogre Solo! | 27.00% | ~12,554 |
-| Destroy the thing | 26.00% | ~12,089 |
-| Tide Master | 26.00% | ~12,089 |
-| Difficult family relationships | 25.00% | ~11,624 |
+| The Shadow strikes | 70.00% | ~32,550 |
+| The Evilest Evil | 59.00% | ~27,435 |
+| Twistram is devastated | 58.00% | ~26,970 |
+| The Gehenna Stones | 50.00% | ~23,250 |
+| No one has to die today! | 47.00% | ~21,855 |
+| Death and destruction! | 46.00% | ~21,390 |
+| The Swamplanders from the swamplands | 44.00% | ~20,460 |
+| Rusty Steel | 41.00% | ~19,065 |
+| The One-Huge-Army-Building Evil | 40.00% | ~18,600 |
+| Braiiiiins! | 38.00% | ~17,670 |
+| The last burger | 37.00% | ~17,205 |
+| Hands off the Dungeonheart! | 36.00% | ~16,740 |
+| A trip on sea, what fun it can be | 34.00% | ~15,810 |
+| Damned good | 33.00% | ~15,345 |
+| Stock Market Crash | 31.00% | ~14,415 |
+| Factory farming | 31.00% | ~14,415 |
+| Shadow hunter | 29.00% | ~13,485 |
+| Not-So-Overproud | 29.00% | ~13,485 |
+| For a handfull of Catapults | 28.00% | ~13,020 |
+| Thirst quencher | 27.00% | ~12,555 |
+| Ogre Solo! | 27.00% | ~12,555 |
+| Destroy the thing | 26.00% | ~12,090 |
+| Tide Master | 26.00% | ~12,090 |
+| Difficult family relationships | 25.00% | ~11,625 |
 | MASS-O-BOT | 24.00% | ~11,160 |
 | Prepare the grave | 24.00% | ~11,160 |
 | Angel of Fire | 24.00% | ~11,160 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~930 |
 | Sacrifices! | 2.00% | ~930 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,498 (Ranked 127)  
+Progressed: 46,500 (Ranked 127)  
 Completed: 372 (0.80%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,10 +332,10 @@ Completed: 372 (0.80%) (Ranked 189)
 | 2024-01-07 | 46,283 | 369 |
 | 2024-01-08 | 46,355 | 370 |
 | 2024-01-09 | 46,458 | 371 |
-| 2024-01-10 | 46,498 | 372 |
+| 2024-01-10 | 46,500 | 372 |
 ## Awards
 Max (Great for Beginners): 398  (Ranked 241)  
-Sum: 2,847 (Ranked 188)  
+Sum: 2,848 (Ranked 188)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -343,7 +343,7 @@ Diff (max vs sum): 53
 | This game is Extremely Fun | 333 |
 | This game has Quickly Understood Controls | 319 |
 | This game is Highly Recommended | 315 |
-| This game has Amazing Storytelling | 308 |
+| This game has Amazing Storytelling | 309 |
 | This game has Amazing Characters | 307 |
 | This game has Diverse Characters | 306 |
 | This game is Relaxing | 283 |
@@ -614,3 +614,4 @@ Diff (max vs sum): 53
 | 2024-01-05 | 4.66 | - | 396 | 2,844 |
 | 2024-01-06 | 4.66 | - | 398 | 2,846 |
 | 2024-01-07 | 4.66 | - | 398 | 2,847 |
+| 2024-01-10 | 4.66 | - | 398 | 2,848 |

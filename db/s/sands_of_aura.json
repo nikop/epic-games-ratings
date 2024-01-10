@@ -2,9 +2,9 @@
   "ID": "ef02301060454cfd8345fae625743294",
   "Name": "Sands of Aura",
   "ProductSlug": "sands-of-aura",
-  "Ranking_EOS_Progress": 471,
+  "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 452,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 134,
+  "EOS_Progressed": 135,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -670,6 +670,11 @@
       "Time": "2024-01-10T06:05:29.6067167+00:00",
       "NumProgressed": 134,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T15:04:49.0254688+00:00",
+      "NumProgressed": 135,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -698,7 +703,7 @@
       "Name": "Overboard",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ALCHEMECT_MASTER",
@@ -786,7 +791,7 @@
       "Name": "Bladesmith",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "COMPLETE_ALAIRA_STORY",
@@ -834,7 +839,7 @@
       "Name": "A Small Thirsty Thing",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CRAGBOSS_MASTER",
@@ -882,7 +887,7 @@
       "Name": "Dousing a Venerable Flame",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "DEFEAT_ISHULAR_GIANT",
@@ -1058,7 +1063,7 @@
       "Name": "Leisis Bless You",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "SMITH_UPGRADE_1",
@@ -1066,7 +1071,7 @@
       "Name": "Advanced Armaments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "SMITH_UPGRADE_2",
@@ -1082,7 +1087,7 @@
       "Name": "Setting Sail",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "UBAANI_DEFEAT",
@@ -1145,7 +1150,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 134,
+      "Progressed": 135,
       "Completed": 0
     }
   ],
@@ -1153,8 +1158,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2024-01-10T14:06:06.3668575+00:00",
+  "LastChanged_Achievements": "2024-01-10T15:04:49.0254684+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:09.7391365+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:00:19.8289591+00:00",
-  "LastUpdate_Achievements": "2024-01-10T14:06:06.3669282+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:59:20.1562887+00:00",
+  "LastUpdate_Achievements": "2024-01-10T15:04:49.0255222+00:00"
 }

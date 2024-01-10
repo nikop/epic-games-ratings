@@ -3,7 +3,7 @@
   "Name": "Road Defense: Outsiders",
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 420,
-  "Ranking_EOS_Completed": 80,
+  "Ranking_EOS_Completed": 79,
   "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
@@ -1226,9 +1226,9 @@
       "ID": "REACH_LEVEL_10",
       "SetID": "14g34pl",
       "Name": "Powerful",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 60,
-      "UsersEstimate": 109
+      "UsersEstimate": 112
     },
     {
       "ID": "REACH_LEVEL_15",
@@ -1257,8 +1257,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2024-01-10T14:05:57.1336407+00:00",
+  "LastChanged_Achievements": "2024-01-10T15:04:41.5802102+00:00",
   "LastUpdate_AppInfo": "2024-01-10T01:46:07.1630016+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:59:35.2862867+00:00",
-  "LastUpdate_Achievements": "2024-01-10T14:05:57.1336565+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:58:48.9946767+00:00",
+  "LastUpdate_Achievements": "2024-01-10T15:04:41.5802257+00:00"
 }

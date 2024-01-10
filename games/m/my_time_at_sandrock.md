@@ -12,7 +12,7 @@ Number of Ratings: 892  (23.09.2022)
 | Officially Official | 125.00% | ~1,101 |
 | The Little Wood that Could | 120.00% | ~1,057 |
 | On that Grindset | 115.00% | ~1,013 |
-| Greeno-B-Gone | 109.00% | ~960 |
+| Greeno-B-Gone | 110.00% | ~969 |
 | Better Late than Never | 105.00% | ~925 |
 | Got Served | 93.00% | ~819 |
 | One of the Cool Kids | 93.00% | ~819 |
@@ -28,8 +28,8 @@ Number of Ratings: 892  (23.09.2022)
 | Panda-kin | 79.00% | ~696 |
 | Yakmel Whisperer | 79.00% | ~696 |
 | No Mountain Wide Enough | 77.00% | ~678 |
+| Chatterbox | 77.00% | ~678 |
 | First Love | 77.00% | ~678 |
-| Chatterbox | 76.00% | ~670 |
 | I Do! | 76.00% | ~670 |
 | Can We Keep It? | 73.00% | ~643 |
 | Builder of the Month | 72.00% | ~634 |
@@ -49,7 +49,7 @@ Number of Ratings: 892  (23.09.2022)
 | Finishing Touches | 53.00% | ~467 |
 | Call Me Fishmael | 53.00% | ~467 |
 | Kind of a Big Deal | 49.00% | ~432 |
-| Just What I Always Wanted! | 47.00% | ~414 |
+| Just What I Always Wanted! | 48.00% | ~423 |
 | Jewel of the Eufaula | 43.00% | ~379 |
 | My Time Mansion | 42.00% | ~370 |
 | Santa In Training | 41.00% | ~361 |

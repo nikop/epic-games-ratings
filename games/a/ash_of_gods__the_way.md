@@ -6,17 +6,17 @@
 | ---- | ---------- | ----- |
 | First success | 87.00% | ~66 |
 | Suicide squad | 46.00% | ~35 |
-| Train hard, fight easy | 29.00% | ~22 |
-| Under cover | 29.00% | ~22 |
-| First blood | 29.00% | ~22 |
-| Royal blessing | 24.00% | ~18 |
+| Train hard, fight easy | 30.00% | ~23 |
+| Under cover | 30.00% | ~23 |
+| First blood | 30.00% | ~23 |
+| Royal blessing | 25.00% | ~19 |
 | Blood and sand | 20.00% | ~15 |
 | All for one! | 18.00% | ~14 |
 | A hidden snake | 18.00% | ~14 |
+| Surpass the teacher | 16.00% | ~12 |
 | Help of the Gell | 16.00% | ~12 |
 | Crimson rivers | 14.00% | ~11 |
 | Power of Inquisition | 14.00% | ~11 |
-| Surpass the teacher | 14.00% | ~11 |
 | Rage | 14.00% | ~11 |
 | She-Wolf | 14.00% | ~11 |
 | Vene, vidi, vici | 13.00% | ~10 |

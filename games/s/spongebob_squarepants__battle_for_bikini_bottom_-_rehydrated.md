@@ -22,8 +22,8 @@ Number of Ratings: 76  (23.09.2022)
 | Shrimp Catcher | 8.00% | ~74 |
 | Toxic Terror | 8.00% | ~74 |
 | Hit Rock Bottom | 8.00% | ~74 |
+| Are you ready now? | 7.00% | ~64 |
 | Keep it Rolling | 7.00% | ~64 |
-| Are you ready now? | 6.00% | ~55 |
 | Hello, Bikini Bottom | 6.00% | ~55 |
 | Ultra Spatula Seeker | 6.00% | ~55 |
 | Robot encyclopedia | 5.00% | ~46 |

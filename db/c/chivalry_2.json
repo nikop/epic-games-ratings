@@ -4,10 +4,10 @@
   "ProductSlug": "chivalry-2",
   "Ranking_Rating": 431,
   "Ranking_Popularity": 76,
-  "Ranking_PopularitySum": 45,
+  "Ranking_PopularitySum": 44,
   "Ranking_EOS_Progress": 824,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 576,
+  "Ranking_EOS_NewPlayers": 579,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-06-08T15:00:00+00:00",
@@ -11052,11 +11052,17 @@
       "Rating": 4.6,
       "NumberOfAwards": 31693,
       "NumberOfAwardsMax": 5185
+    },
+    {
+      "Time": "2024-01-10T15:00:18.0310322+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 31703,
+      "NumberOfAwardsMax": 5194
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31693,
-  "NumberOfAwardsMax": 5185,
+  "NumberOfAwards": 31703,
+  "NumberOfAwardsMax": 5194,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -11093,7 +11099,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5185
+      "Count": 5194
     },
     {
       "Text": "This game is Highly Recommended",
@@ -11111,7 +11117,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 3754
+      "Count": 3755
     }
   ],
   "EOS_Progressed": 0,
@@ -11125,8 +11131,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.5003131+00:00",
-  "LastChanged": "2024-01-10T02:24:09.6526879+00:00",
+  "LastChanged": "2024-01-10T15:00:18.0310321+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:23.480937+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:01:42.6515829+00:00",
-  "LastUpdate_Achievements": "2024-01-10T14:04:47.0145216+00:00"
+  "LastUpdate_Ratings": "2024-01-10T15:00:18.0310326+00:00",
+  "LastUpdate_Achievements": "2024-01-10T15:03:47.9561236+00:00"
 }

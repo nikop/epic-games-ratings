@@ -2,9 +2,9 @@
   "ID": "2755e0338895421ebeb217fe1f742e7b",
   "Name": "Nocturnal",
   "ProductSlug": "nocturnal-ef3fa0",
-  "Ranking_EOS_Progress": 533,
-  "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_Progress": 531,
+  "Ranking_EOS_Completed": 81,
+  "Ranking_EOS_NewPlayers": 439,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-07T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 67,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.55,
+  "EOS_Completed_Percentage": 4.48,
   "EosHistory": [
     {
       "Time": "2023-06-12T20:01:31.4959965+00:00",
@@ -369,6 +369,11 @@
       "Time": "2024-01-07T14:09:54.8489086+00:00",
       "NumProgressed": 66,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-10T15:09:55.233909+00:00",
+      "NumProgressed": 67,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 11,
@@ -386,7 +391,7 @@
       "ID": "Nocturnal_Achivement_11_FireShrine",
       "SetID": "329ifed",
       "Name": "No Stone Unturned",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 150,
       "UsersEstimate": 3
     },
@@ -394,7 +399,7 @@
       "ID": "Nocturnal_Achivement_1_Flame",
       "SetID": "329ifed",
       "Name": "Form Blazing Sword",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 25,
       "UsersEstimate": 59
     },
@@ -402,7 +407,7 @@
       "ID": "Nocturnal_Achivement_2_Shrine",
       "SetID": "329ifed",
       "Name": "A Light in Dark Places",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 25,
       "UsersEstimate": 42
     },
@@ -458,7 +463,7 @@
       "ID": "Nocturnal_Achivement_9_Torches",
       "SetID": "329ifed",
       "Name": "The Torchbearer",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 150,
       "UsersEstimate": 40
     }
@@ -467,14 +472,14 @@
     {
       "ID": "329ifed",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 67,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-07-26T23:57:21.2236192+00:00",
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2024-01-10T14:11:17.8591981+00:00",
+  "LastChanged_Achievements": "2024-01-10T15:09:55.2339087+00:00",
   "LastUpdate_AppInfo": "2024-01-09T06:57:18.5252438+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:00:48.855159+00:00",
-  "LastUpdate_Achievements": "2024-01-10T14:11:17.8592083+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:59:40.9388859+00:00",
+  "LastUpdate_Achievements": "2024-01-10T15:09:55.2339163+00:00"
 }

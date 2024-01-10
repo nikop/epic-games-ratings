@@ -6,7 +6,7 @@ Rating: 4.62 (Ranked 379)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 17.00% | ~1,216 |
-| Realm Estate | 15.00% | ~1,072 |
+| Realm Estate | 15.00% | ~1,073 |
 | A Wonderful Discovery | 14.00% | ~1,001 |
 | Walls Cannot Stop Us | 14.00% | ~1,001 |
 | From Friends to Family | 12.00% | ~858 |
@@ -27,11 +27,11 @@ Rating: 4.62 (Ranked 379)
 | Fiery Friend | 4.00% | ~286 |
 | Against the Odds | 4.00% | ~286 |
 | Impenetrable Fortress | 4.00% | ~286 |
-| Crimson Caldera | 3.00% | ~214 |
-| Preparation Is Everything | 3.00% | ~214 |
-| Here be Dragons | 3.00% | ~214 |
-| Tipping the Scales | 3.00% | ~214 |
-| Freed Lands of Manuhari | 3.00% | ~214 |
+| Crimson Caldera | 3.00% | ~215 |
+| Preparation Is Everything | 3.00% | ~215 |
+| Here be Dragons | 3.00% | ~215 |
+| Tipping the Scales | 3.00% | ~215 |
+| Freed Lands of Manuhari | 3.00% | ~215 |
 | I've Got Everything I Need Right Here | 2.00% | ~143 |
 | God Emperor | 2.00% | ~143 |
 | Arch Mage | 2.00% | ~143 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 379)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,150 (Ranked 196)  
+Progressed: 7,153 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 7 (0.10%) (Ranked 309)
 | 2024-01-07 | 7,051 | 7 |
 | 2024-01-08 | 7,091 | 7 |
 | 2024-01-09 | 7,130 | 7 |
-| 2024-01-10 | 7,150 | 7 |
+| 2024-01-10 | 7,153 | 7 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 481)  
 Sum: 217 (Ranked 409)  

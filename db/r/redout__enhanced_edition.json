@@ -343,7 +343,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239088,
+  "EOS_Progressed": 239091,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 0,
@@ -28183,6 +28183,11 @@
       "Time": "2024-01-10T13:14:14.3755081+00:00",
       "NumProgressed": 239088,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-10T15:06:45.4820749+00:00",
+      "NumProgressed": 239091,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -28330,7 +28335,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78899
+      "UsersEstimate": 78900
     },
     {
       "ID": "NOBUNAGA",
@@ -28386,7 +28391,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11954
+      "UsersEstimate": 11955
     },
     {
       "ID": "RESPWND",
@@ -28418,7 +28423,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52599
+      "UsersEstimate": 52600
     },
     {
       "ID": "TACTICIAN",
@@ -28434,7 +28439,7 @@
       "Name": "TAKATORA",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11954
+      "UsersEstimate": 11955
     },
     {
       "ID": "TRICKUPYOURSLEEVE",
@@ -28442,7 +28447,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52599
+      "UsersEstimate": 52600
     },
     {
       "ID": "TUNINGMANIAC",
@@ -28458,22 +28463,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 98026
+      "UsersEstimate": 98027
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 239088,
+      "Progressed": 239091,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-10T14:08:34.1155938+00:00",
+  "LastChanged_Achievements": "2024-01-10T15:06:45.4820743+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.0149602+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:59:33.6402461+00:00",
-  "LastUpdate_Achievements": "2024-01-10T14:08:34.1157478+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:58:47.8531167+00:00",
+  "LastUpdate_Achievements": "2024-01-10T15:06:45.4822415+00:00"
 }

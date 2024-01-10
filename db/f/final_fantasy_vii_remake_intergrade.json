@@ -3,11 +3,11 @@
   "Name": "FINAL FANTASY VII REMAKE INTERGRADE",
   "ProductSlug": "final-fantasy-vii-remake-intergrade",
   "Ranking_Rating": 40,
-  "Ranking_Popularity": 72,
+  "Ranking_Popularity": 73,
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 824,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 576,
+  "Ranking_EOS_NewPlayers": 579,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-12-16T14:30:00+00:00",
@@ -5333,10 +5333,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 12845,
       "NumberOfAwardsMax": 5837
+    },
+    {
+      "Time": "2024-01-10T14:59:16.2086705+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 12847,
+      "NumberOfAwardsMax": 5837
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12845,
+  "NumberOfAwards": 12847,
   "NumberOfAwardsMax": 5837,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5404,7 +5410,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 302
+      "Count": 304
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5430,8 +5436,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:16.7757899+00:00",
-  "LastChanged": "2024-01-10T10:59:39.2326455+00:00",
+  "LastChanged": "2024-01-10T14:59:16.2086702+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.5732075+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:00:14.1478756+00:00",
-  "LastUpdate_Achievements": "2024-01-10T14:10:39.4519602+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:59:16.208671+00:00",
+  "LastUpdate_Achievements": "2024-01-10T15:09:25.7234461+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -1499,9 +1499,9 @@
       "ID": "ACH_ANTIDOTE",
       "SetID": "511e31d",
       "Name": "Antidote",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 163
     },
     {
       "ID": "ACH_BANDAGES",
@@ -1515,9 +1515,9 @@
       "ID": "ACH_BATHROOM",
       "SetID": "511e31d",
       "Name": "What\u0027s going on here?",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 281
     },
     {
       "ID": "ACH_COMMONAREA",
@@ -1619,9 +1619,9 @@
       "ID": "ACH_MUSICRADIO",
       "SetID": "511e31d",
       "Name": "Soundtrack",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_NOBULLETS",
@@ -1651,9 +1651,9 @@
       "ID": "ACH_PICKLOCK",
       "SetID": "511e31d",
       "Name": "Nimble fingers",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 246
     },
     {
       "ID": "ACH_RESTAURANT",
@@ -1738,8 +1738,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2024-01-10T14:08:17.8612898+00:00",
+  "LastChanged_Achievements": "2024-01-10T15:06:33.1199688+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:32.0336088+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:57:49.2952818+00:00",
-  "LastUpdate_Achievements": "2024-01-10T14:08:17.8613146+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:57:34.0648761+00:00",
+  "LastUpdate_Achievements": "2024-01-10T15:06:33.1199946+00:00"
 }

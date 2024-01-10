@@ -1069,9 +1069,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9872,
+  "EOS_Progressed": 9873,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10939,6 +10939,11 @@
       "Time": "2024-01-10T14:10:35.212089+00:00",
       "NumProgressed": 9872,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-10T15:09:22.4502224+00:00",
+      "NumProgressed": 9873,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10958,7 +10963,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -11006,7 +11011,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -11014,7 +11019,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -11086,7 +11091,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -11118,7 +11123,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3455
+      "UsersEstimate": 3456
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -11126,7 +11131,7 @@
       "Name": "Millenial",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -11142,7 +11147,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4442
+      "UsersEstimate": 4443
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -11198,7 +11203,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2665
+      "UsersEstimate": 2666
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -11309,7 +11314,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9872,
+      "Progressed": 9873,
       "Completed": 10
     }
   ],
@@ -11317,8 +11322,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-06T21:59:00.913352+00:00",
-  "LastChanged_Achievements": "2024-01-10T14:10:35.2120888+00:00",
+  "LastChanged_Achievements": "2024-01-10T15:09:22.4502217+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:05.1405641+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:01:21.4652946+00:00",
-  "LastUpdate_Achievements": "2024-01-10T14:10:35.2121578+00:00"
+  "LastUpdate_Ratings": "2024-01-10T15:00:03.2008287+00:00",
+  "LastUpdate_Achievements": "2024-01-10T15:09:22.4503085+00:00"
 }

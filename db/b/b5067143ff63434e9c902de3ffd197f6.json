@@ -4,7 +4,7 @@
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18833,
+  "EOS_Progressed": 18834,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 541,
+  "EOS_NewPlayers": 523,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11869,6 +11869,11 @@
       "Time": "2024-01-10T14:04:57.8355+00:00",
       "NumProgressed": 18833,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T15:03:56.4810251+00:00",
+      "NumProgressed": 18834,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -11921,7 +11926,7 @@
       "Name": "MEG",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_RUNFORYOURLIFE",
@@ -11961,7 +11966,7 @@
       "Name": "End?",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_WINELECTRICALSTATION",
@@ -12072,14 +12077,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 18833,
+      "Progressed": 18834,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2024-01-10T14:04:57.8354995+00:00",
+  "LastChanged_Achievements": "2024-01-10T15:03:56.4810245+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.8149755+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:00:33.2226841+00:00",
-  "LastUpdate_Achievements": "2024-01-10T14:04:57.8355715+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:59:29.9853682+00:00",
+  "LastUpdate_Achievements": "2024-01-10T15:03:56.4810955+00:00"
 }

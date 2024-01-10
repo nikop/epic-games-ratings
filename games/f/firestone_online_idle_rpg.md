@@ -1,14 +1,14 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.08 (Ranked 1,024)  
+Rating: 4.09 (Ranked 1,020)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,060 |
-| World Map | 78.00% | ~3,405 |
-| Temple of Eternals | 56.00% | ~2,445 |
-| Prestigious | 52.00% | ~2,270 |
+| Victor | 93.00% | ~4,061 |
+| World Map | 78.00% | ~3,406 |
+| Temple of Eternals | 56.00% | ~2,446 |
+| Prestigious | 52.00% | ~2,271 |
 | Fellowship Power | 41.00% | ~1,790 |
 | Full Party | 29.00% | ~1,266 |
 | Guild Power | 22.00% | ~961 |
@@ -27,8 +27,8 @@ Rating: 4.08 (Ranked 1,024)
 | Superior | 11.00% | ~480 |
 | The Unstoppable | 11.00% | ~480 |
 | Milestone collector | 10.00% | ~437 |
+| Scientist | 10.00% | ~437 |
 | Doing My Part | 9.00% | ~393 |
-| Scientist | 9.00% | ~393 |
 | The power of Awakening | 9.00% | ~393 |
 | Challenger | 8.00% | ~349 |
 | Daily Quest Completionist | 8.00% | ~349 |
@@ -77,11 +77,11 @@ Rating: 4.08 (Ranked 1,024)
 | Silverwood liberator | 0.80% | ~35 |
 | Training makes a Pro player | 0.80% | ~35 |
 | Beast War Machines | 0.70% | ~31 |
-| Ultimate War Machines | 0.50% | ~22 |
+| Ultimate War Machines | 0.60% | ~26 |
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,366 (Ranked 208)  
+Progressed: 4,367 (Ranked 208)  
 Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,10 +341,10 @@ Completed: 2 (0.05%) (Ranked 336)
 | 2024-01-07 | 4,299 | 2 |
 | 2024-01-08 | 4,327 | 2 |
 | 2024-01-09 | 4,351 | 2 |
-| 2024-01-10 | 4,366 | 2 |
+| 2024-01-10 | 4,367 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 483)  
-Sum: 155 (Ranked 440)  
+Sum: 156 (Ranked 440)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -352,7 +352,7 @@ Diff (max vs sum): 43
 | This game is Great for Quick Sessions | 35 |
 | This game has Diverse Characters | 30 |
 | This game has Playful Visuals | 28 |
-| This game has a Kind Community | 22 |
+| This game has a Kind Community | 23 |
 | This game is Highly Recommended | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -448,3 +448,4 @@ Diff (max vs sum): 43
 | 2024-01-07 | 4.06 | 40 | 155 |
 | 2024-01-08 | 4.07 | 40 | 155 |
 | 2024-01-09 | 4.08 | 40 | 155 |
+| 2024-01-10 | 4.09 | 40 | 156 |

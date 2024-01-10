@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -433,7 +433,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3257,
+  "EOS_Progressed": 3258,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 670,
   "EOS_NewCompleters": 2,
@@ -5098,6 +5098,11 @@
       "Time": "2024-01-10T14:11:17.9261807+00:00",
       "NumProgressed": 3257,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-10T15:09:55.4192834+00:00",
+      "NumProgressed": 3258,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5110,7 +5115,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2866
+      "UsersEstimate": 2867
     },
     {
       "ID": "achievement_10",
@@ -5118,7 +5123,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "achievement_11",
@@ -5158,7 +5163,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "achievement_16",
@@ -5166,7 +5171,7 @@
       "Name": "Recruit",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "achievement_17",
@@ -5198,7 +5203,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "achievement_20",
@@ -5254,7 +5259,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 2247
+      "UsersEstimate": 2248
     },
     {
       "ID": "achievement_36",
@@ -5342,7 +5347,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2411
     },
     {
       "ID": "achievement_49",
@@ -5406,7 +5411,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "achievement_60",
@@ -5485,7 +5490,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3257,
+      "Progressed": 3258,
       "Completed": 4
     }
   ],
@@ -5493,8 +5498,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-07T18:57:10.211335+00:00",
-  "LastChanged_Achievements": "2024-01-10T14:11:17.9261802+00:00",
+  "LastChanged_Achievements": "2024-01-10T15:09:55.4192831+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8440656+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:59:20.5950365+00:00",
-  "LastUpdate_Achievements": "2024-01-10T14:11:17.9262432+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:58:38.6759745+00:00",
+  "LastUpdate_Achievements": "2024-01-10T15:09:55.4193315+00:00"
 }

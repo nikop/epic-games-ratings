@@ -46,13 +46,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 1.00% | ~164 |
 | Trade Caravan | 1.00% | ~164 |
 | Great | 0.90% | ~147 |
-| Wise | 0.90% | ~147 |
 | Able Difficulty | 0.90% | ~147 |
-| Furious Family | 0.90% | ~147 |
 | Apadana | 0.90% | ~147 |
 | Learn to Play 2 | 0.90% | ~147 |
 | Carthaginian Paganism | 0.90% | ~147 |
 | Regicide | 0.80% | ~131 |
+| Wise | 0.80% | ~131 |
+| Furious Family | 0.80% | ~131 |
 | Acropolis | 0.80% | ~131 |
 | Musaeum | 0.80% | ~131 |
 | Necropolis | 0.80% | ~131 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,352 (Ranked 169)  
+Progressed: 16,356 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -630,7 +630,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
-| 2024-01-10 | 16,352 | 5 |
+| 2024-01-10 | 16,356 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,919 (Ranked 224)  

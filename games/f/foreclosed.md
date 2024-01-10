@@ -13,7 +13,7 @@
 | Telekinesis | 26.00% | ~40 |
 | Sapper | 21.00% | ~32 |
 | Tough Decision | 18.00% | ~28 |
-| Veteran Sniper | 17.00% | ~26 |
+| Veteran Sniper | 18.00% | ~28 |
 | The Neuro-connector | 17.00% | ~26 |
 | Unstoppable | 16.00% | ~24 |
 | Flatline | 16.00% | ~24 |

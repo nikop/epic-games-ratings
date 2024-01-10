@@ -5,26 +5,26 @@ Rating: 4.59 (Ranked 452)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~719 |
-| Fetch Quest Complete | 90.00% | ~674 |
-| I can't wait! | 82.00% | ~614 |
-| Swish | 56.00% | ~419 |
+| Pushing a pull door | 96.00% | ~720 |
+| Fetch Quest Complete | 90.00% | ~675 |
+| I can't wait! | 82.00% | ~615 |
+| Swish | 56.00% | ~420 |
 | Clean up on Aisle 9 | 39.00% | ~292 |
 | Machine Maxed | 29.00% | ~217 |
 | Existential dread | 26.00% | ~195 |
-| Bug Fixer | 25.00% | ~187 |
-| Gerald of Riviera | 25.00% | ~187 |
+| Bug Fixer | 25.00% | ~188 |
+| Gerald of Riviera | 25.00% | ~188 |
 | Goal | 22.00% | ~165 |
 | I ran the numbers | 15.00% | ~112 |
-| Taking the plunge | 13.00% | ~97 |
+| Taking the plunge | 13.00% | ~98 |
 | Hidden Packages | 11.00% | ~82 |
-| GOOOAAAL | 9.00% | ~67 |
-| Ahoy Hoy | 7.00% | ~52 |
-| New Kid on the Block | 7.00% | ~52 |
+| GOOOAAAL | 9.00% | ~68 |
+| Ahoy Hoy | 7.00% | ~53 |
+| New Kid on the Block | 7.00% | ~53 |
 | Rhythm is a dancer | 6.00% | ~45 |
 | Jimmy Goldman Would be Proud | 6.00% | ~45 |
 | You Spin Me Round | 6.00% | ~45 |
-| Bombscare | 5.00% | ~37 |
+| Bombscare | 5.00% | ~38 |
 | Crowning achievement | 4.00% | ~30 |
 | Your Bloody Valentine | 4.00% | ~30 |
 | GoldGuy Jr | 4.00% | ~30 |
@@ -38,12 +38,12 @@ Rating: 4.59 (Ranked 452)
 | Modern Gorefare | 2.00% | ~15 |
 | GTA: Crime City | 2.00% | ~15 |
 | Slacker | 2.00% | ~15 |
-| Fresh Prince of Grindstone | 1.00% | ~7 |
-| Drop the ball | 1.00% | ~7 |
-| Fat Princess | 1.00% | ~7 |
-| Hexadecimal | 1.00% | ~7 |
-| IMANOK CODE | 1.00% | ~7 |
-| Intergalactic, planetary, planetary... | 1.00% | ~7 |
+| Fresh Prince of Grindstone | 1.00% | ~8 |
+| Drop the ball | 1.00% | ~8 |
+| Fat Princess | 1.00% | ~8 |
+| Hexadecimal | 1.00% | ~8 |
+| IMANOK CODE | 1.00% | ~8 |
+| Intergalactic, planetary, planetary... | 1.00% | ~8 |
 | 1337 HAXXOR | 0.90% | ~7 |
 | True Capitalist | 0.90% | ~7 |
 | Smells like teen spirit | 0.90% | ~7 |
@@ -60,7 +60,7 @@ Rating: 4.59 (Ranked 452)
 | Another all nighter? | 0.10% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 749 (Ranked 316)  
+Progressed: 750 (Ranked 317)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 743 | 0 |
 | 2024-01-07 | 745 | 0 |
 | 2024-01-08 | 748 | 0 |
-| 2024-01-10 | 749 | 0 |
+| 2024-01-10 | 750 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

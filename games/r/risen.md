@@ -5,25 +5,25 @@ Rating: 4.56 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 91.00% | ~168 |
-| Map reader | 64.00% | ~118 |
+| Beginner | 91.00% | ~169 |
+| Map reader | 64.00% | ~119 |
 | Adventurer | 63.00% | ~117 |
-| Philanthropist | 60.00% | ~111 |
+| Philanthropist | 60.00% | ~112 |
 | Archer | 41.00% | ~76 |
 | The brave little tailor | 40.00% | ~74 |
-| Field hand | 37.00% | ~68 |
-| Well-to-do | 32.00% | ~59 |
+| Field hand | 37.00% | ~69 |
+| Well-to-do | 32.00% | ~60 |
 | Samaritan | 29.00% | ~54 |
-| Ladies' man | 29.00% | ~54 |
-| The merciful one | 28.00% | ~52 |
+| Ladies' man | 28.00% | ~52 |
+| The merciful one | 27.00% | ~50 |
 | Ferocious wild boars | 23.00% | ~43 |
 | Idiot | 22.00% | ~41 |
 | Beast slayer | 21.00% | ~39 |
 | Death of a legend | 19.00% | ~35 |
 | Ogre friend | 19.00% | ~35 |
-| Family man | 17.00% | ~31 |
-| Archaeologist | 17.00% | ~31 |
-| Sidelined | 17.00% | ~31 |
+| Family man | 17.00% | ~32 |
+| Archaeologist | 17.00% | ~32 |
+| Sidelined | 17.00% | ~32 |
 | Wise man | 16.00% | ~30 |
 | Little hero | 16.00% | ~30 |
 | Hard worker | 16.00% | ~30 |
@@ -35,8 +35,8 @@ Rating: 4.56 (Ranked 510)
 | Peacekeeper | 12.00% | ~22 |
 | Defender | 11.00% | ~20 |
 | Workaholic | 11.00% | ~20 |
-| Showdown | 10.00% | ~18 |
-| Safecracker | 10.00% | ~18 |
+| Showdown | 10.00% | ~19 |
+| Safecracker | 10.00% | ~19 |
 | Freedom fighter | 9.00% | ~17 |
 | Titan Lord | 9.00% | ~17 |
 | Master thief | 9.00% | ~17 |
@@ -56,7 +56,7 @@ Rating: 4.56 (Ranked 510)
 | Master of the classes | 0.50% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 185 (Ranked 435)  
+Progressed: 186 (Ranked 435)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,6 +129,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 177 | 0 |
 | 2024-01-08 | 181 | 0 |
 | 2024-01-09 | 185 | 0 |
+| 2024-01-10 | 186 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

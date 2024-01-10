@@ -347,9 +347,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4132,
+  "EOS_Progressed": 4133,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8347,6 +8347,11 @@
       "Time": "2024-01-10T13:12:35.8099907+00:00",
       "NumProgressed": 4132,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T15:06:01.1113323+00:00",
+      "NumProgressed": 4133,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8380,9 +8385,9 @@
       "ID": "ACH_BASE_12",
       "SetID": "92iocjf",
       "Name": "Better Him Than Me",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_BASE_14",
@@ -8438,7 +8443,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH_BASE_21",
@@ -8470,7 +8475,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "ACH_BASE_25",
@@ -8654,7 +8659,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "ACH_BASE_49",
@@ -8742,7 +8747,7 @@
       "Name": "Hope Seeker",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH_BASE_60",
@@ -8813,13 +8818,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2316,
+      "Progressed": 2317,
       "Completed": 11
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4132,
+      "Progressed": 4133,
       "Completed": 0
     }
   ],
@@ -8827,8 +8832,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-10T09:57:46.399395+00:00",
-  "LastChanged_Achievements": "2024-01-10T14:07:35.3728705+00:00",
+  "LastChanged_Achievements": "2024-01-10T15:06:01.1113317+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:25.5201636+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:58:03.2523669+00:00",
-  "LastUpdate_Achievements": "2024-01-10T14:07:35.3729443+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:57:44.4456519+00:00",
+  "LastUpdate_Achievements": "2024-01-10T15:06:01.1114137+00:00"
 }

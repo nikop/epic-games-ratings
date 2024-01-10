@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -337,7 +337,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18796,
+  "EOS_Progressed": 18797,
   "EOS_Completed": 61,
   "EOS_NewPlayers": 691,
   "EOS_NewCompleters": 3,
@@ -16927,6 +16927,11 @@
       "Time": "2024-01-10T14:09:16.0577791+00:00",
       "NumProgressed": 18796,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-10T15:08:21.5540601+00:00",
+      "NumProgressed": 18797,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16955,7 +16960,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "12",
@@ -17001,9 +17006,9 @@
       "ID": "17",
       "SetID": "458bbdk",
       "Name": "Spore Taste",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2068
+      "UsersEstimate": 2256
     },
     {
       "ID": "18",
@@ -17019,7 +17024,7 @@
       "Name": "Martian Music",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "2",
@@ -17091,7 +17096,7 @@
       "Name": "Bosmang",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "28",
@@ -17115,7 +17120,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2819
+      "UsersEstimate": 2820
     },
     {
       "ID": "30",
@@ -17147,7 +17152,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2631
+      "UsersEstimate": 2632
     },
     {
       "ID": "7",
@@ -17171,7 +17176,7 @@
       "Name": "Impossible Objects",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "31",
@@ -17218,13 +17223,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18796,
+      "Progressed": 18797,
       "Completed": 61
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4750,
+      "Progressed": 4751,
       "Completed": 1271
     }
   ],
@@ -17232,8 +17237,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-08T14:59:15.8971936+00:00",
-  "LastChanged_Achievements": "2024-01-10T14:09:16.0577787+00:00",
+  "LastChanged_Achievements": "2024-01-10T15:08:21.5540596+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:00:59.0822008+00:00",
-  "LastUpdate_Achievements": "2024-01-10T14:09:16.057886+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:59:47.8421953+00:00",
+  "LastUpdate_Achievements": "2024-01-10T15:08:21.5541469+00:00"
 }

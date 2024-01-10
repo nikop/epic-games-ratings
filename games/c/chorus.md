@@ -11,7 +11,7 @@ Number of Ratings: 58  (23.09.2022)
 | Space Traveler | 76.00% | ~1,070 |
 | Demigod | 74.00% | ~1,042 |
 | The Great Destroyer | 72.00% | ~1,014 |
-| Shields Down | 69.00% | ~972 |
+| Shields Down | 70.00% | ~986 |
 | Helping Hand | 64.00% | ~901 |
 | Safe Home | 64.00% | ~901 |
 | Paragon | 60.00% | ~845 |

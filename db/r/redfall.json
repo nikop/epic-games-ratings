@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -381,7 +381,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2346,
+  "EOS_Progressed": 2347,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
@@ -4336,6 +4336,11 @@
       "Time": "2024-01-10T14:08:12.9054543+00:00",
       "NumProgressed": 2346,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T15:06:29.4688552+00:00",
+      "NumProgressed": 2347,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4571,7 +4576,7 @@
       "Name": "ICU",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "Achievement_031",
@@ -4593,9 +4598,9 @@
       "ID": "Achievement_033",
       "SetID": "6b34g18",
       "Name": "Wounded Whispers",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 352
     },
     {
       "ID": "Achievement_034",
@@ -4603,7 +4608,7 @@
       "Name": "Catch and Release",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "Achievement_035",
@@ -4874,7 +4879,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2346,
+      "Progressed": 2347,
       "Completed": 0
     }
   ],
@@ -4882,8 +4887,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
-  "LastChanged_Achievements": "2024-01-10T14:08:12.9054538+00:00",
+  "LastChanged_Achievements": "2024-01-10T15:06:29.4688548+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:03:10.8893301+00:00",
-  "LastUpdate_Achievements": "2024-01-10T14:08:12.9055263+00:00"
+  "LastUpdate_Ratings": "2024-01-10T15:00:37.9406798+00:00",
+  "LastUpdate_Achievements": "2024-01-10T15:06:29.4689258+00:00"
 }
