@@ -32,11 +32,11 @@ Number of Ratings: 495  (23.09.2022)
 | Stoned | 4.00% | ~9,003 |
 | It's raining men | 3.00% | ~6,752 |
 | The Old Way | 3.00% | ~6,752 |
-| Atheist Ox | 2.00% | ~4,501 |
-| No Gimmicks | 2.00% | ~4,501 |
-| Old Man | 2.00% | ~4,501 |
-| The End | 2.00% | ~4,501 |
-| Winner Winner | 2.00% | ~4,501 |
+| Atheist Ox | 2.00% | ~4,502 |
+| No Gimmicks | 2.00% | ~4,502 |
+| Old Man | 2.00% | ~4,502 |
+| The End | 2.00% | ~4,502 |
+| Winner Winner | 2.00% | ~4,502 |
 | Meticulous | 1.00% | ~2,251 |
 | Undeserved Honor | 1.00% | ~2,251 |
 | When Cut Across the Neck | 1.00% | ~2,251 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~225 |
 | Release the Kraken | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,073 (Ranked 79)  
+Progressed: 225,075 (Ranked 79)  
 Completed: 105 (0.05%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 105 (0.05%) (Ranked 337)
 | 2024-01-07 | 224,723 | 105 |
 | 2024-01-08 | 224,898 | 105 |
 | 2024-01-09 | 225,058 | 105 |
-| 2024-01-10 | 225,073 | 105 |
+| 2024-01-10 | 225,075 | 105 |
 ## Awards
 Max (Great for Beginners): 592  (Ranked 211)  
 Sum: 4,954 (Ranked 150)  

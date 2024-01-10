@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 55.00% | ~280 |
-| Starting Skyward | 49.00% | ~249 |
+| Starting Skyward | 49.00% | ~250 |
 | Grime is Not Good | 42.00% | ~214 |
-| Floor Galore | 37.00% | ~188 |
-| Campaign Launch | 36.00% | ~183 |
-| Dinner Dash | 36.00% | ~183 |
+| Floor Galore | 36.00% | ~184 |
+| Campaign Launch | 36.00% | ~184 |
+| Dinner Dash | 36.00% | ~184 |
 | Need a Consult | 34.00% | ~173 |
 | Upgrade Unlock | 33.00% | ~168 |
 | It's Technical | 33.00% | ~168 |
@@ -27,10 +27,10 @@
 | Leveled Up Shops | 18.00% | ~92 |
 | We Don't Need No Education | 18.00% | ~92 |
 | Lux Living | 17.00% | ~87 |
-| Tasty Profits | 17.00% | ~87 |
 | Emporium Empire | 17.00% | ~87 |
 | Get Electrified | 17.00% | ~87 |
-| Rehab Expert | 16.00% | ~81 |
+| Rehab Expert | 16.00% | ~82 |
+| Tasty Profits | 16.00% | ~82 |
 | Established Fame | 15.00% | ~76 |
 | Under One Roof | 14.00% | ~71 |
 | Cashflow Chief | 14.00% | ~71 |
@@ -48,18 +48,18 @@
 | Master of Puppets | 7.00% | ~36 |
 | Phoning It In | 7.00% | ~36 |
 | Water Features | 6.00% | ~31 |
-| Meet Me at HQ | 6.00% | ~31 |
 | Revenue Royalty | 6.00% | ~31 |
 | Golden Opportunity | 6.00% | ~31 |
-| Pipe Up | 6.00% | ~31 |
-| Meet ADA/360 | 5.00% | ~25 |
-| I'm Busy Ruling | 5.00% | ~25 |
-| Careful Constructor | 5.00% | ~25 |
-| Sky High Stature | 5.00% | ~25 |
-| Profound Proceeds | 5.00% | ~25 |
-| Maximum Reuse | 5.00% | ~25 |
-| Tuned In | 5.00% | ~25 |
-| It's a Gas | 5.00% | ~25 |
+| Meet ADA/360 | 5.00% | ~26 |
+| I'm Busy Ruling | 5.00% | ~26 |
+| Careful Constructor | 5.00% | ~26 |
+| Meet Me at HQ | 5.00% | ~26 |
+| Sky High Stature | 5.00% | ~26 |
+| Profound Proceeds | 5.00% | ~26 |
+| Maximum Reuse | 5.00% | ~26 |
+| Tuned In | 5.00% | ~26 |
+| It's a Gas | 5.00% | ~26 |
+| Pipe Up | 5.00% | ~26 |
 | Penthouse in the Sky | 4.00% | ~20 |
 | Baron of Business | 4.00% | ~20 |
 | Sandbagger | 4.00% | ~20 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 509 (Ranked 350)  
+Progressed: 510 (Ranked 350)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,6 +221,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 502 | 0 |
 | 2024-01-08 | 505 | 0 |
 | 2024-01-09 | 509 | 0 |
+| 2024-01-10 | 510 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

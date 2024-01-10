@@ -3818,9 +3818,9 @@
       "ID": "ATK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beware of the Goat",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 627
+      "UsersEstimate": 641
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -4066,9 +4066,9 @@
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 555
+      "UsersEstimate": 570
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -4202,17 +4202,17 @@
       "ID": "NOTE_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Buy A Book",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 242
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Last of Us",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 470
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -4226,9 +4226,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 726
+      "UsersEstimate": 740
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -4313,8 +4313,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-10T01:59:09.6179812+00:00",
+  "LastChanged_Achievements": "2024-01-10T02:34:18.3189254+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:08.8169923+00:00",
-  "LastUpdate_Ratings": "2024-01-10T01:48:30.9311241+00:00",
-  "LastUpdate_Achievements": "2024-01-10T01:59:09.618054+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:23:49.372453+00:00",
+  "LastUpdate_Achievements": "2024-01-10T02:34:18.3189934+00:00"
 }

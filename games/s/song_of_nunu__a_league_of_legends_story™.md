@@ -29,12 +29,12 @@ Rating: 4.59 (Ranked 451)
 | You Get Used To It | 41.00% | ~622 |
 | Family | 39.00% | ~592 |
 | Biggest Snowball Ever | 39.00% | ~592 |
+| Freeze The Ice Witch | 39.00% | ~592 |
 | Boosted! | 39.00% | ~592 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~592 |
-| Freeze The Ice Witch | 38.00% | ~576 |
 | True Legends | 38.00% | ~576 |
+| It Is Not Over | 36.00% | ~546 |
 | Bullseye | 36.00% | ~546 |
-| It Is Not Over | 35.00% | ~531 |
 | On The Rocks | 33.00% | ~501 |
 | Snowy Poro | 32.00% | ~485 |
 | Never Gets Old | 32.00% | ~485 |
@@ -51,7 +51,7 @@ Rating: 4.59 (Ranked 451)
 | Sneaky Notai | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,517 (Ranked 266)  
-Completed: 9 (0.59%) (Ranked 207)  
+Completed: 9 (0.59%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

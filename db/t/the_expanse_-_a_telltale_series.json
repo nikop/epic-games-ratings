@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 159,
-  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
@@ -337,11 +337,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18767,
+  "EOS_Progressed": 18770,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 681,
+  "EOS_NewPlayers": 684,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.33,
+  "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
       "Time": "2023-07-26T16:06:14.482825+00:00",
@@ -16877,6 +16877,11 @@
       "Time": "2024-01-10T01:55:46.3557529+00:00",
       "NumProgressed": 18767,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-10T02:32:36.8220077+00:00",
+      "NumProgressed": 18770,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16895,9 +16900,9 @@
       "ID": "10",
       "SetID": "458bbdk",
       "Name": "Data Miner",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 113
     },
     {
       "ID": "11",
@@ -16921,7 +16926,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3378
+      "UsersEstimate": 3379
     },
     {
       "ID": "14",
@@ -16937,7 +16942,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2064
+      "UsersEstimate": 2065
     },
     {
       "ID": "16",
@@ -16953,7 +16958,7 @@
       "Name": "Spore Taste",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2064
+      "UsersEstimate": 2065
     },
     {
       "ID": "18",
@@ -17009,7 +17014,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "24",
@@ -17065,7 +17070,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2815
+      "UsersEstimate": 2816
     },
     {
       "ID": "30",
@@ -17097,7 +17102,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2627
+      "UsersEstimate": 2628
     },
     {
       "ID": "7",
@@ -17168,13 +17173,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18767,
+      "Progressed": 18770,
       "Completed": 61
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4721,
+      "Progressed": 4724,
       "Completed": 1270
     }
   ],
@@ -17182,8 +17187,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-08T14:59:15.8971936+00:00",
-  "LastChanged_Achievements": "2024-01-10T01:55:46.3557525+00:00",
+  "LastChanged_Achievements": "2024-01-10T02:32:36.8220074+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-10T01:48:23.4023034+00:00",
-  "LastUpdate_Achievements": "2024-01-10T01:55:46.3558743+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:23:40.9755118+00:00",
+  "LastUpdate_Achievements": "2024-01-10T02:32:36.8221193+00:00"
 }

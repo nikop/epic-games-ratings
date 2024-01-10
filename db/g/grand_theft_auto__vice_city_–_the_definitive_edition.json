@@ -1056,9 +1056,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16082,
+  "EOS_Progressed": 16087,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 940,
+  "EOS_NewPlayers": 944,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -17631,6 +17631,11 @@
       "Time": "2024-01-10T01:58:48.3343456+00:00",
       "NumProgressed": 16082,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2024-01-10T02:33:57.0398816+00:00",
+      "NumProgressed": 16087,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 34,
@@ -17650,7 +17655,7 @@
       "Name": "Running Rampant",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ACH03",
@@ -17658,7 +17663,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "ACH04",
@@ -17682,7 +17687,7 @@
       "Name": "Point A to Point B",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ACH07",
@@ -17690,7 +17695,7 @@
       "Name": "High Quality H2O",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ACH08",
@@ -17706,7 +17711,7 @@
       "Name": "Bull in a China Shop",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ACH10",
@@ -17722,7 +17727,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1769
+      "UsersEstimate": 1770
     },
     {
       "ID": "ACH12",
@@ -17738,7 +17743,7 @@
       "Name": "Somebody Call the Wambulance?",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ACH14",
@@ -17746,7 +17751,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6754
+      "UsersEstimate": 6757
     },
     {
       "ID": "ACH15",
@@ -17754,7 +17759,7 @@
       "Name": "Just Like the Real Thing",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ACH16",
@@ -17770,7 +17775,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "ACH18",
@@ -17786,7 +17791,7 @@
       "Name": "Don\u0027t Need Roads",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ACH20",
@@ -17802,7 +17807,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7559
+      "UsersEstimate": 7561
     },
     {
       "ID": "ACH22",
@@ -17810,7 +17815,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3377
+      "UsersEstimate": 3378
     },
     {
       "ID": "ACH23",
@@ -17818,7 +17823,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 4181
+      "UsersEstimate": 4183
     },
     {
       "ID": "ACH24",
@@ -17826,7 +17831,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2412
+      "UsersEstimate": 2413
     },
     {
       "ID": "ACH25",
@@ -17834,7 +17839,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2412
+      "UsersEstimate": 2413
     },
     {
       "ID": "ACH26",
@@ -17842,7 +17847,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2412
+      "UsersEstimate": 2413
     },
     {
       "ID": "ACH27",
@@ -17874,7 +17879,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "ACH31",
@@ -17906,14 +17911,14 @@
       "Name": "Kingpin",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     }
   ],
   "AchievementSets": [
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16082,
+      "Progressed": 16087,
       "Completed": 93
     }
   ],
@@ -17921,8 +17926,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-03T02:18:34.6735113+00:00",
-  "LastChanged_Achievements": "2024-01-10T01:58:48.3343451+00:00",
+  "LastChanged_Achievements": "2024-01-10T02:33:57.0398811+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:12.9251558+00:00",
-  "LastUpdate_Ratings": "2024-01-10T01:46:27.4792803+00:00",
-  "LastUpdate_Achievements": "2024-01-10T01:58:48.3344504+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:21:47.0876262+00:00",
+  "LastUpdate_Achievements": "2024-01-10T02:33:57.0399832+00:00"
 }

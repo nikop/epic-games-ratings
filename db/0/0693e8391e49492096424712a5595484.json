@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 57,
   "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -3238,9 +3238,9 @@
       "ID": "HastrmanAcorn",
       "SetID": "db30heh",
       "Name": "Do Not Disturb",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 368
+      "UsersEstimate": 376
     },
     {
       "ID": "HastrmanAmanita",
@@ -3294,9 +3294,9 @@
       "ID": "PriestBroom",
       "SetID": "db30heh",
       "Name": "Chastisement",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 188
+      "UsersEstimate": 195
     },
     {
       "ID": "PriestPistol",
@@ -3310,9 +3310,9 @@
       "ID": "PriestPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Zonked",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 255
+      "UsersEstimate": 263
     },
     {
       "ID": "PriestRogue",
@@ -3445,8 +3445,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-10T01:55:31.9498191+00:00",
+  "LastChanged_Achievements": "2024-01-10T02:32:22.6766994+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:24.0507598+00:00",
-  "LastUpdate_Ratings": "2024-01-10T01:46:54.280222+00:00",
-  "LastUpdate_Achievements": "2024-01-10T01:55:31.9498627+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:22:12.8535617+00:00",
+  "LastUpdate_Achievements": "2024-01-10T02:32:22.6767501+00:00"
 }

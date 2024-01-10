@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -2999,9 +2999,9 @@
       "Count": 151
     }
   ],
-  "EOS_Progressed": 679463,
+  "EOS_Progressed": 679469,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 2105,
+  "EOS_NewPlayers": 2106,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33404,6 +33404,11 @@
       "Time": "2024-01-10T01:59:05.4310563+00:00",
       "NumProgressed": 679463,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-10T02:34:14.1275045+00:00",
+      "NumProgressed": 679469,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 52,
@@ -33415,7 +33420,7 @@
       "Name": "Stroller",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 108714
+      "UsersEstimate": 108715
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -33455,7 +33460,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 129098
+      "UsersEstimate": 129099
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -33463,7 +33468,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 95125
+      "UsersEstimate": 95126
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -33535,7 +33540,7 @@
       "Name": "Toy Train",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 95125
+      "UsersEstimate": 95126
     },
     {
       "ID": "_01_21_TRACKS_1000",
@@ -33663,7 +33668,7 @@
       "Name": "Incurious",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 122303
+      "UsersEstimate": 122304
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -33735,7 +33740,7 @@
       "Name": "Climate Change",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 115509
+      "UsersEstimate": 115510
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -33830,15 +33835,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 679463,
+      "Progressed": 679469,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2024-01-09T15:02:40.7024942+00:00",
-  "LastChanged_Achievements": "2024-01-10T01:59:05.4310562+00:00",
+  "LastChanged_Achievements": "2024-01-10T02:34:14.1275042+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:57.3345847+00:00",
-  "LastUpdate_Ratings": "2024-01-10T01:51:54.1050778+00:00",
-  "LastUpdate_Achievements": "2024-01-10T01:59:05.4312262+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:26:57.6511418+00:00",
+  "LastUpdate_Achievements": "2024-01-10T02:34:14.1276665+00:00"
 }

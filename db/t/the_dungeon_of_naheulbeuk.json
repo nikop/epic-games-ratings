@@ -1719,9 +1719,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 247462,
+  "EOS_Progressed": 247463,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1188,
+  "EOS_NewPlayers": 1187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25604,6 +25604,11 @@
       "Time": "2024-01-10T01:59:09.5977582+00:00",
       "NumProgressed": 247462,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-10T02:34:18.1519228+00:00",
+      "NumProgressed": 247463,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25647,7 +25652,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9898
+      "UsersEstimate": 9899
     },
     {
       "ID": "BookCollection",
@@ -25679,7 +25684,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9898
+      "UsersEstimate": 9899
     },
     {
       "ID": "Chapter4",
@@ -26311,28 +26316,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9898
+      "UsersEstimate": 9899
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 247462,
+      "Progressed": 247463,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 247462,
+      "Progressed": 247463,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-09T20:59:37.5250632+00:00",
-  "LastChanged_Achievements": "2024-01-10T01:59:09.597758+00:00",
+  "LastChanged_Achievements": "2024-01-10T02:34:18.1519225+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8090113+00:00",
-  "LastUpdate_Ratings": "2024-01-10T01:48:47.7476854+00:00",
-  "LastUpdate_Achievements": "2024-01-10T01:59:09.5979316+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:24:05.398888+00:00",
+  "LastUpdate_Achievements": "2024-01-10T02:34:18.1521048+00:00"
 }

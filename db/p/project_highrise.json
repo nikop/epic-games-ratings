@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 509,
+  "EOS_Progressed": 510,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
@@ -1675,6 +1675,11 @@
       "Time": "2024-01-09T21:04:16.2146476+00:00",
       "NumProgressed": 509,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T02:28:36.3374496+00:00",
+      "NumProgressed": 510,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1694,7 +1699,7 @@
       "Name": "Meet ADA/360",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_apartments_1",
@@ -1716,9 +1721,9 @@
       "ID": "ach_area",
       "SetID": "b8gh1fi",
       "Name": "Floor Galore",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 184
     },
     {
       "ID": "ach_area_1",
@@ -1774,7 +1779,7 @@
       "Name": "Campaign Launch",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ach_campaigns_1",
@@ -1846,7 +1851,7 @@
       "Name": "I\u0027m Busy Ruling",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_consultants_c",
@@ -1990,7 +1995,7 @@
       "Name": "Starting Skyward",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ach_floors_1",
@@ -1998,7 +2003,7 @@
       "Name": "Careful Constructor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_floors_2",
@@ -2038,7 +2043,7 @@
       "Name": "Rehab Expert",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ach_happy",
@@ -2092,9 +2097,9 @@
       "ID": "ach_office_2",
       "SetID": "b8gh1fi",
       "Name": "Meet Me at HQ",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_plaza",
@@ -2142,7 +2147,7 @@
       "Name": "Sky High Stature",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_profit_0",
@@ -2166,7 +2171,7 @@
       "Name": "Profound Proceeds",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_recycling_1",
@@ -2174,7 +2179,7 @@
       "Name": "Maximum Reuse",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_renters",
@@ -2196,9 +2201,9 @@
       "ID": "ach_restaurants_2",
       "SetID": "b8gh1fi",
       "Name": "Tasty Profits",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 82
     },
     {
       "ID": "ach_restaurants_3",
@@ -2206,7 +2211,7 @@
       "Name": "Dinner Dash",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ach_restaurants_4",
@@ -2334,7 +2339,7 @@
       "Name": "Tuned In",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_util_gas",
@@ -2342,7 +2347,7 @@
       "Name": "It\u0027s a Gas",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_util_phone",
@@ -2364,9 +2369,9 @@
       "ID": "ach_util_water",
       "SetID": "b8gh1fi",
       "Name": "Pipe Up",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_veryhappy",
@@ -2389,7 +2394,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 509,
+      "Progressed": 510,
       "Completed": 0
     }
   ],
@@ -2397,8 +2402,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-10T01:53:33.0438824+00:00",
+  "LastChanged_Achievements": "2024-01-10T02:28:36.3374491+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8765911+00:00",
-  "LastUpdate_Ratings": "2024-01-10T01:47:13.6846879+00:00",
-  "LastUpdate_Achievements": "2024-01-10T01:53:33.043955+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:22:32.766957+00:00",
+  "LastUpdate_Achievements": "2024-01-10T02:28:36.3375444+00:00"
 }

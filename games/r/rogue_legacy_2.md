@@ -22,7 +22,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Looks Familiar | 0.70% | ~197 |
 | For Justice | 0.60% | ~169 |
 | Good Boy! | 0.60% | ~169 |
-| For Survival | 0.50% | ~140 |
+| For Survival | 0.50% | ~141 |
 | For Love | 0.40% | ~112 |
 | K.O. | 0.40% | ~112 |
 | Just the Beginning | 0.40% | ~112 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,100 (Ranked 144)  
+Progressed: 28,103 (Ranked 144)  
 Completed: 35 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 35 (0.12%) (Ranked 301)
 | 2024-01-07 | 27,951 | 35 |
 | 2024-01-08 | 28,025 | 35 |
 | 2024-01-09 | 28,095 | 35 |
-| 2024-01-10 | 28,100 | 35 |
+| 2024-01-10 | 28,103 | 35 |
 ## Awards
 Max (Extremely Fun): 227  (Ranked 290)  
 Sum: 1,723 (Ranked 229)  

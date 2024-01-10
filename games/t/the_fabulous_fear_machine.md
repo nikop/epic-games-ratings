@@ -29,14 +29,14 @@
 | Kirlian's best disciple | 16.00% | ~14 |
 | The bully | 14.00% | ~13 |
 | Blessed antennas | 13.00% | ~12 |
-| Pulp! The Beyond | 11.00% | ~10 |
-| The beast in the Oval Office | 10.00% | ~9 |
+| Pulp! The Beyond | 12.00% | ~11 |
+| The beast in the Oval Office | 11.00% | ~10 |
 | Blood Red Island | 10.00% | ~9 |
 | Bread and bocaua | 10.00% | ~9 |
 | Fanatacism is... poisonous | 10.00% | ~9 |
+| Pulp! True Adventures | 10.00% | ~9 |
+| America had no Faith | 10.00% | ~9 |
 | The adventurer | 9.00% | ~8 |
-| Pulp! True Adventures | 9.00% | ~8 |
-| America had no Faith | 9.00% | ~8 |
 | The scholar | 8.00% | ~7 |
 | The barbarian invasions | 8.00% | ~7 |
 | ECO mode | 8.00% | ~7 |

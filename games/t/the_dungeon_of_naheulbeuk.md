@@ -15,9 +15,9 @@ Number of Ratings: 118  (23.09.2022)
 | A beer, two curses, three companions | 5.00% | ~12,373 |
 | GG EZ | 5.00% | ~12,373 |
 | DM intervention | 5.00% | ~12,373 |
-| Way of the Wimp | 4.00% | ~9,898 |
-| The plot thickens... At the tavern | 4.00% | ~9,898 |
-| Fireproof Wizardess | 4.00% | ~9,898 |
+| Way of the Wimp | 4.00% | ~9,899 |
+| The plot thickens... At the tavern | 4.00% | ~9,899 |
+| Fireproof Wizardess | 4.00% | ~9,899 |
 | Livin' in a dwarven paradise | 3.00% | ~7,424 |
 | The demons' feast | 3.00% | ~7,424 |
 | The Great Library | 3.00% | ~7,424 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~247 |
 | Dwarf Candy | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,462 (Ranked 72)  
+Progressed: 247,463 (Ranked 72)  
 Completed: 8 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 8 (0.00%) (Ranked 395)
 | 2024-01-07 | 247,153 | 8 |
 | 2024-01-08 | 247,298 | 8 |
 | 2024-01-09 | 247,450 | 8 |
-| 2024-01-10 | 247,462 | 8 |
+| 2024-01-10 | 247,463 | 8 |
 ## Awards
 Max (Character Customization): 268  (Ranked 276)  
 Sum: 563 (Ranked 330)  

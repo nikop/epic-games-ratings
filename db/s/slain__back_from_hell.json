@@ -3,7 +3,7 @@
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
   "Ranking_Rating": 894,
-  "Ranking_Popularity": 350,
+  "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 328,
@@ -236,23 +236,29 @@
       "Rating": 4.28,
       "NumberOfAwards": 128,
       "NumberOfAwardsMax": 128
+    },
+    {
+      "Time": "2024-01-10T02:27:03.5087029+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 129,
+      "NumberOfAwardsMax": 129
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 128,
-  "NumberOfAwardsMax": 128,
+  "NumberOfAwards": 129,
+  "NumberOfAwardsMax": 129,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 128
+      "Count": 129
     }
   ],
-  "EOS_Progressed": 43893,
+  "EOS_Progressed": 43895,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 520,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -28985,6 +28991,11 @@
       "Time": "2024-01-10T01:52:58.0515322+00:00",
       "NumProgressed": 43893,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-10T02:28:01.1217755+00:00",
+      "NumProgressed": 43895,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -29227,16 +29238,16 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 43893,
+      "Progressed": 43895,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-10-06T18:03:31.3585803+00:00",
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
-  "LastChanged": "2023-12-18T19:58:40.3413682+00:00",
-  "LastChanged_Achievements": "2024-01-10T01:52:58.0515318+00:00",
+  "LastChanged": "2024-01-10T02:27:03.5087027+00:00",
+  "LastChanged_Achievements": "2024-01-10T02:28:01.1217751+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:02.3058441+00:00",
-  "LastUpdate_Ratings": "2024-01-10T01:52:00.030167+00:00",
-  "LastUpdate_Achievements": "2024-01-10T01:52:58.0516819+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:27:03.5087031+00:00",
+  "LastUpdate_Achievements": "2024-01-10T02:28:01.1219107+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -854,9 +854,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6233,
+  "EOS_Progressed": 6235,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -12924,6 +12924,11 @@
       "Time": "2024-01-10T01:55:07.9175745+00:00",
       "NumProgressed": 6233,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-10T02:30:09.8003566+00:00",
+      "NumProgressed": 6235,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12968,7 +12973,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1559
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -12992,7 +12997,7 @@
       "Name": "First Strike",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1371
+      "UsersEstimate": 1372
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -13030,9 +13035,9 @@
       "ID": "MF_Ach_HorderBetterFasterStronger",
       "SetID": "9b9n573",
       "Name": "Horder Better Faster Stronger",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1060
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -13088,7 +13093,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -13104,7 +13109,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1559
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -13119,15 +13124,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6233,
+      "Progressed": 6235,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-10T01:55:07.917574+00:00",
+  "LastChanged_Achievements": "2024-01-10T02:30:09.8003562+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-10T01:51:56.7488668+00:00",
-  "LastUpdate_Achievements": "2024-01-10T01:55:07.9176612+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:27:00.226032+00:00",
+  "LastUpdate_Achievements": "2024-01-10T02:30:09.8004338+00:00"
 }

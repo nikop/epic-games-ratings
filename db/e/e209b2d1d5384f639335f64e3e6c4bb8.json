@@ -335,9 +335,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 340352,
+  "EOS_Progressed": 340357,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2081,
+  "EOS_NewPlayers": 2082,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16905,6 +16905,11 @@
       "Time": "2024-01-10T01:54:14.7524071+00:00",
       "NumProgressed": 340352,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T02:29:16.8748373+00:00",
+      "NumProgressed": 340357,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -16941,7 +16946,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 149755
+      "UsersEstimate": 149757
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -16949,7 +16954,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 108913
+      "UsersEstimate": 108914
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -16957,7 +16962,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 71474
+      "UsersEstimate": 71475
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -16965,7 +16970,7 @@
       "Name": "Kalash Site",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 51053
+      "UsersEstimate": 51054
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -16973,7 +16978,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 40842
+      "UsersEstimate": 40843
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -17005,7 +17010,7 @@
       "Name": "The Whispering Gallery",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 27228
+      "UsersEstimate": 27229
     },
     {
       "ID": "ACHV_M10_COMPLETE",
@@ -17013,7 +17018,7 @@
       "Name": "Khashar Approach",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 27228
+      "UsersEstimate": 27229
     },
     {
       "ID": "ACHV_M11_COMPLETE",
@@ -17293,20 +17298,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 173580
+      "UsersEstimate": 173582
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 340352,
+      "Progressed": 340357,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 340341,
+      "Progressed": 340346,
       "Completed": 1
     }
   ],
@@ -17314,8 +17319,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2024-01-09T10:03:35.565686+00:00",
-  "LastChanged_Achievements": "2024-01-10T01:54:14.7524068+00:00",
+  "LastChanged_Achievements": "2024-01-10T02:29:16.874837+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:11.3845313+00:00",
-  "LastUpdate_Ratings": "2024-01-10T01:52:06.6284873+00:00",
-  "LastUpdate_Achievements": "2024-01-10T01:54:14.7524968+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:27:09.9264995+00:00",
+  "LastUpdate_Achievements": "2024-01-10T02:29:16.8749406+00:00"
 }

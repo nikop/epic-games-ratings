@@ -6,26 +6,26 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 72.00% | ~3,378 |
-| Ready for Winter | 61.00% | ~2,862 |
-| Ready for Summer | 48.00% | ~2,252 |
-| Cordon Bleu | 40.00% | ~1,877 |
-| Tapped! | 34.00% | ~1,595 |
+| Venture Outward | 72.00% | ~3,380 |
+| Ready for Winter | 61.00% | ~2,863 |
+| Ready for Summer | 48.00% | ~2,253 |
+| Cordon Bleu | 40.00% | ~1,878 |
+| Tapped! | 34.00% | ~1,596 |
 | Eureka | 29.00% | ~1,361 |
-| Scourge Slayer | 23.00% | ~1,079 |
-| Science, Troglodyte! | 21.00% | ~985 |
-| Exceptional Skill | 20.00% | ~938 |
-| Home Sweet Home | 20.00% | ~938 |
+| Scourge Slayer | 23.00% | ~1,080 |
+| Science, Troglodyte! | 21.00% | ~986 |
+| Exceptional Skill | 20.00% | ~939 |
+| Home Sweet Home | 20.00% | ~939 |
 | Encyclopedic! | 18.00% | ~845 |
 | The Power of Family | 15.00% | ~704 |
 | A Fortress Toppled! | 14.00% | ~657 |
 | Apex Predator | 14.00% | ~657 |
 | Strange amalgams | 11.00% | ~516 |
 | The Power of Faith | 11.00% | ~516 |
-| The Power of Freedom | 8.00% | ~375 |
-| Ace Detective | 7.00% | ~328 |
-| Gift from the Ancestors | 7.00% | ~328 |
-| Magic is a science | 7.00% | ~328 |
+| The Power of Freedom | 8.00% | ~376 |
+| Ace Detective | 7.00% | ~329 |
+| Gift from the Ancestors | 7.00% | ~329 |
+| Magic is a science | 7.00% | ~329 |
 | Hold my Mead and Watch This | 6.00% | ~282 |
 | House of Cards | 6.00% | ~282 |
 | Let ‘em eat magma! | 6.00% | ~282 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~14 |
 | The Absolute Pinnacle. | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,692 (Ranked 206)  
+Progressed: 4,694 (Ranked 206)  
 Completed: 5 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 5 (0.11%) (Ranked 304)
 | 2024-01-07 | 4,622 | 5 |
 | 2024-01-08 | 4,653 | 5 |
 | 2024-01-09 | 4,681 | 5 |
-| 2024-01-10 | 4,692 | 5 |
+| 2024-01-10 | 4,694 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 505)  
 Sum: 246 (Ranked 402)  

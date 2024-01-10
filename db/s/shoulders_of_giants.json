@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -99,9 +99,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2331,
+  "EOS_Progressed": 2332,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -2029,6 +2029,11 @@
       "Time": "2024-01-09T16:07:39.3181826+00:00",
       "NumProgressed": 2331,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-10T02:30:06.4088468+00:00",
+      "NumProgressed": 2332,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 19,
@@ -2080,7 +2085,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2029
     },
     {
       "ID": "deal_damage",
@@ -2104,7 +2109,7 @@
       "Name": "Do you feel like a tough guy?",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "fail_planet",
@@ -2112,7 +2117,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "piercing_beam",
@@ -2144,7 +2149,7 @@
       "Name": "Frogbot",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "save_planet_bestfriend",
@@ -2176,7 +2181,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "trash_truck",
@@ -2191,7 +2196,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2331,
+      "Progressed": 2332,
       "Completed": 10
     }
   ],
@@ -2199,8 +2204,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-12-04T09:57:32.2251724+00:00",
-  "LastChanged_Achievements": "2024-01-10T01:55:04.6001596+00:00",
+  "LastChanged_Achievements": "2024-01-10T02:30:06.4088466+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.9911287+00:00",
-  "LastUpdate_Ratings": "2024-01-10T01:47:19.6884187+00:00",
-  "LastUpdate_Achievements": "2024-01-10T01:55:04.6001846+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:22:39.0333809+00:00",
+  "LastUpdate_Achievements": "2024-01-10T02:30:06.408867+00:00"
 }

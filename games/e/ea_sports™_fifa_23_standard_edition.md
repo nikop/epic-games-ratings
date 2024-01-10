@@ -5,28 +5,28 @@ Rating: 4.26 (Ranked 915)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~158,946 |
-| Dead-ball specialist | 61.00% | ~129,276 |
-| European Legend | 52.00% | ~110,203 |
-| Multitasking | 51.00% | ~108,083 |
-| Balanced Path | 49.00% | ~103,845 |
-| High Grades | 48.00% | ~101,725 |
-| A Moment of Your Time | 46.00% | ~97,487 |
-| Let the Games Begin | 46.00% | ~97,487 |
-| Aiming High | 46.00% | ~97,487 |
-| Tactical Tinkerer | 40.00% | ~84,771 |
-| Intuition and Execution | 39.00% | ~82,652 |
+| Power Shot | 75.00% | ~158,948 |
+| Dead-ball specialist | 61.00% | ~129,277 |
+| European Legend | 52.00% | ~110,204 |
+| Multitasking | 51.00% | ~108,084 |
+| Balanced Path | 49.00% | ~103,846 |
+| High Grades | 48.00% | ~101,726 |
+| A Moment of Your Time | 46.00% | ~97,488 |
+| Let the Games Begin | 46.00% | ~97,488 |
+| Aiming High | 46.00% | ~97,488 |
+| Tactical Tinkerer | 40.00% | ~84,772 |
+| Intuition and Execution | 39.00% | ~82,653 |
 | Squad Building Connoisseur | 38.00% | ~80,533 |
-| The Winning Formula | 36.00% | ~76,294 |
+| The Winning Formula | 36.00% | ~76,295 |
 | Parking the Bus | 28.00% | ~59,340 |
-| Safe House | 26.00% | ~55,101 |
-| Best of Five | 26.00% | ~55,101 |
+| Safe House | 26.00% | ~55,102 |
+| Best of Five | 26.00% | ~55,102 |
 | Football is Everything | 24.00% | ~50,863 |
-| The Chosen One | 22.00% | ~46,624 |
+| The Chosen One | 22.00% | ~46,625 |
 | Fresh Fit | 20.00% | ~42,386 |
 | Bring it on | 17.00% | ~36,028 |
 | Life-Like | 14.00% | ~29,670 |
-| Make the Grade | 12.00% | ~25,431 |
+| Make the Grade | 12.00% | ~25,432 |
 | I Played Them All | 10.00% | ~21,193 |
 | Specialist | 10.00% | ~21,193 |
 | Teamwork works | 9.00% | ~19,074 |
@@ -45,7 +45,7 @@ Rating: 4.26 (Ranked 915)
 | Training Addict | 0.10% | ~212 |
 | Dazzling Personality | 0.10% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,928 (Ranked 81)  
+Progressed: 211,930 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 211,381 | 0 |
 | 2024-01-08 | 211,646 | 0 |
 | 2024-01-09 | 211,900 | 0 |
-| 2024-01-10 | 211,928 | 0 |
+| 2024-01-10 | 211,930 | 0 |
 ## Awards
 Max (Diverse Characters): 22,189  (Ranked 21)  
 Sum: 110,173 (Ranked 17)  

@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2819,
+  "EOS_Progressed": 2822,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7644,6 +7644,11 @@
       "Time": "2024-01-10T01:59:09.2805647+00:00",
       "NumProgressed": 2819,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T02:34:17.9584713+00:00",
+      "NumProgressed": 2822,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7728,7 +7733,7 @@
       "Name": "The power of the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "achievement_19",
@@ -7800,7 +7805,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "achievement_27",
@@ -7832,7 +7837,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "achievement_30",
@@ -7880,7 +7885,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2424
+      "UsersEstimate": 2427
     },
     {
       "ID": "achievement_36",
@@ -7896,7 +7901,7 @@
       "Name": "Off to a good start",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1721
     },
     {
       "ID": "achievement_38",
@@ -7904,7 +7909,7 @@
       "Name": "Survivor",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "achievement_39",
@@ -7920,7 +7925,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "achievement_40",
@@ -7928,7 +7933,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1467
     },
     {
       "ID": "achievement_41",
@@ -8008,7 +8013,7 @@
       "Name": "Shoot first",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "achievement_50",
@@ -8096,7 +8101,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "achievement_60",
@@ -8159,13 +8164,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2819,
+      "Progressed": 2822,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2819,
+      "Progressed": 2822,
       "Completed": 1
     }
   ],
@@ -8173,8 +8178,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-10T01:59:09.2805645+00:00",
+  "LastChanged_Achievements": "2024-01-10T02:34:17.958471+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-10T01:48:07.8441262+00:00",
-  "LastUpdate_Achievements": "2024-01-10T01:59:09.2806928+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:23:25.8663126+00:00",
+  "LastUpdate_Achievements": "2024-01-10T02:34:17.9585519+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3886,7 +3886,7 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242699,
+  "EOS_Progressed": 242700,
   "EOS_Completed": 304,
   "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 1,
@@ -31286,6 +31286,11 @@
       "Time": "2024-01-10T01:59:11.7847621+00:00",
       "NumProgressed": 242699,
       "NumCompleted": 304
+    },
+    {
+      "Time": "2024-01-10T02:34:20.3589222+00:00",
+      "NumProgressed": 242700,
+      "NumCompleted": 304
     }
   ],
   "TotalAchievements": 138,
@@ -31361,7 +31366,7 @@
       "Name": "Shadow Spreads",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "DARKENDINGMEDIUM",
@@ -31385,7 +31390,7 @@
       "Name": "Max Damage!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "DEPTH12",
@@ -31457,7 +31462,7 @@
       "Name": "To The Death!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "DIEHARD",
@@ -31505,7 +31510,7 @@
       "Name": "Well Prepared",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "ENDINGCHOICE",
@@ -31753,7 +31758,7 @@
       "Name": "Don\u0027t Ignore Me!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "KILLBOSSHARD",
@@ -31769,7 +31774,7 @@
       "Name": "All Consuming",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "KILLEDSELFWITHITEMS",
@@ -31849,7 +31854,7 @@
       "Name": "Illuminate, Eliminate",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "LIGHTENDINGHARD",
@@ -31961,7 +31966,7 @@
       "Name": "Doing Time",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "POISON300",
@@ -31969,7 +31974,7 @@
       "Name": "Spreading Plague",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "POISON30TIMES",
@@ -32001,7 +32006,7 @@
       "Name": "Antivenom",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "REROLL30TIMES",
@@ -32400,13 +32405,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242699,
+      "Progressed": 242700,
       "Completed": 304
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4179,
+      "Progressed": 4180,
       "Completed": 424
     }
   ],
@@ -32414,8 +32419,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-09T13:57:40.165064+00:00",
-  "LastChanged_Achievements": "2024-01-10T01:59:11.7847615+00:00",
+  "LastChanged_Achievements": "2024-01-10T02:34:20.3589218+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-10T01:46:56.8948368+00:00",
-  "LastUpdate_Achievements": "2024-01-10T01:59:11.7850532+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:22:15.5920321+00:00",
+  "LastUpdate_Achievements": "2024-01-10T02:34:20.359189+00:00"
 }

@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 83.00% | ~89,832 |
-| Struck A Pose | 82.00% | ~88,749 |
-| Look At Him Go | 69.00% | ~74,679 |
-| On Rails Experience | 44.00% | ~47,622 |
-| A Daring Devil | 43.00% | ~46,539 |
-| Break the Bank | 33.00% | ~35,716 |
-| It Took Two | 31.00% | ~33,552 |
-| Bug Sized Relaxation | 14.00% | ~15,152 |
-| Plastic Prison Breakers | 13.00% | ~14,070 |
-| Terror Of The Seven Seas | 10.00% | ~10,823 |
-| Realize Your Art | 8.00% | ~8,658 |
-| Force Triangulated | 8.00% | ~8,658 |
-| Meditation Maestro | 8.00% | ~8,658 |
-| Snackosaurus | 6.00% | ~6,494 |
-| Platforming Prodigy | 6.00% | ~6,494 |
-| Lost And Found | 6.00% | ~6,494 |
-| Something Fishy | 6.00% | ~6,494 |
-| Mood Swing | 4.00% | ~4,329 |
+| Fried Friendship | 83.00% | ~89,844 |
+| Struck A Pose | 82.00% | ~88,762 |
+| Look At Him Go | 69.00% | ~74,690 |
+| On Rails Experience | 44.00% | ~47,628 |
+| A Daring Devil | 43.00% | ~46,546 |
+| Break the Bank | 33.00% | ~35,721 |
+| It Took Two | 31.00% | ~33,556 |
+| Bug Sized Relaxation | 14.00% | ~15,154 |
+| Plastic Prison Breakers | 13.00% | ~14,072 |
+| Terror Of The Seven Seas | 10.00% | ~10,825 |
+| Realize Your Art | 8.00% | ~8,660 |
+| Force Triangulated | 8.00% | ~8,660 |
+| Meditation Maestro | 8.00% | ~8,660 |
+| Snackosaurus | 6.00% | ~6,495 |
+| Platforming Prodigy | 6.00% | ~6,495 |
+| Lost And Found | 6.00% | ~6,495 |
+| Something Fishy | 6.00% | ~6,495 |
+| Mood Swing | 4.00% | ~4,330 |
 | Faraway Frequencies | 3.00% | ~3,247 |
 | Minigame Megalomania | 2.00% | ~2,165 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 108,231 (Ranked 98)  
+Progressed: 108,246 (Ranked 98)  
 Completed: 246 (0.23%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,4 +142,4 @@ Completed: 246 (0.23%) (Ranked 269)
 | 2024-01-07 | 104,807 | 234 |
 | 2024-01-08 | 106,495 | 237 |
 | 2024-01-09 | 108,184 | 245 |
-| 2024-01-10 | 108,231 | 246 |
+| 2024-01-10 | 108,246 | 246 |

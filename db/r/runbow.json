@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253291,
+  "EOS_Progressed": 253294,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23682,6 +23682,11 @@
       "Time": "2024-01-09T23:10:39.7102398+00:00",
       "NumProgressed": 253291,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-10T02:34:06.86036+00:00",
+      "NumProgressed": 253294,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -23693,7 +23698,7 @@
       "Name": "Just A Phaze",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17730
+      "UsersEstimate": 17731
     },
     {
       "ID": "aWinnerIsYou",
@@ -23717,7 +23722,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53191
+      "UsersEstimate": 53192
     },
     {
       "ID": "blotbuster",
@@ -23741,7 +23746,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15197
+      "UsersEstimate": 15198
     },
     {
       "ID": "canYouDigIt",
@@ -23749,7 +23754,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 43059
+      "UsersEstimate": 43060
     },
     {
       "ID": "cantBeKeptDown",
@@ -23789,7 +23794,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45592
+      "UsersEstimate": 45593
     },
     {
       "ID": "curator",
@@ -23797,7 +23802,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50658
+      "UsersEstimate": 50659
     },
     {
       "ID": "didYourTime",
@@ -23869,7 +23874,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134244
+      "UsersEstimate": 134246
     },
     {
       "ID": "indegestible",
@@ -23885,7 +23890,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17730
+      "UsersEstimate": 17731
     },
     {
       "ID": "itsTheFall",
@@ -23909,7 +23914,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20263
+      "UsersEstimate": 20264
     },
     {
       "ID": "lockupLockdown",
@@ -23933,7 +23938,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126646
+      "UsersEstimate": 126647
     },
     {
       "ID": "notScared",
@@ -23965,7 +23970,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17730
+      "UsersEstimate": 17731
     },
     {
       "ID": "rideTheWave",
@@ -23997,7 +24002,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58257
+      "UsersEstimate": 58258
     },
     {
       "ID": "thunderstruck",
@@ -24060,7 +24065,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253291,
+      "Progressed": 253294,
       "Completed": 6
     }
   ],
@@ -24068,8 +24073,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-10T01:58:58.2769514+00:00",
+  "LastChanged_Achievements": "2024-01-10T02:34:06.8603595+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.2680738+00:00",
-  "LastUpdate_Ratings": "2024-01-10T01:47:27.8069125+00:00",
-  "LastUpdate_Achievements": "2024-01-10T01:58:58.277075+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:22:46.6147496+00:00",
+  "LastUpdate_Achievements": "2024-01-10T02:34:06.8604752+00:00"
 }

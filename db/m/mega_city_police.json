@@ -4,7 +4,7 @@
   "ProductSlug": "mega-city-police-22a245",
   "Ranking_EOS_Progress": 574,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 509,
+  "Ranking_EOS_NewPlayers": 508,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-07-28T14:00:00+00:00",
@@ -357,9 +357,9 @@
       "ID": "ACH_LEVEL_01",
       "SetID": "a2aifpa",
       "Name": "Law and Order",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_LEVEL_02",
@@ -458,8 +458,8 @@
   ],
   "FirstSeen": "2023-07-30T18:59:40.5539908+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:08.7767583+00:00",
-  "LastChanged_Achievements": "2024-01-10T01:59:01.8140743+00:00",
+  "LastChanged_Achievements": "2024-01-10T02:34:10.5972394+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:29.7620373+00:00",
-  "LastUpdate_Ratings": "2024-01-10T01:46:56.0355929+00:00",
-  "LastUpdate_Achievements": "2024-01-10T01:59:01.8141213+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:22:14.7254021+00:00",
+  "LastUpdate_Achievements": "2024-01-10T02:34:10.5972594+00:00"
 }

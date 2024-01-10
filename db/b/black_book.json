@@ -686,7 +686,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 66181,
+  "EOS_Progressed": 66183,
   "EOS_Completed": 69,
   "EOS_NewPlayers": 1631,
   "EOS_NewCompleters": 6,
@@ -16346,6 +16346,11 @@
       "Time": "2024-01-10T01:55:44.3235515+00:00",
       "NumProgressed": 66181,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2024-01-10T02:32:34.8534456+00:00",
+      "NumProgressed": 66183,
+      "NumCompleted": 69
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -16382,7 +16387,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 9265
+      "UsersEstimate": 9266
     },
     {
       "ID": "BAD_END",
@@ -16414,7 +16419,7 @@
       "Name": "Card Player",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5294
+      "UsersEstimate": 5295
     },
     {
       "ID": "CHEATER",
@@ -16534,7 +16539,7 @@
       "Name": "Healer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 9265
+      "UsersEstimate": 9266
     },
     {
       "ID": "HERBS_2",
@@ -16558,7 +16563,7 @@
       "Name": "Initiation",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 19192
+      "UsersEstimate": 19193
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -16574,7 +16579,7 @@
       "Name": "Dead Friend",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5294
+      "UsersEstimate": 5295
     },
     {
       "ID": "MERMAID_NOT_FREE",
@@ -16638,7 +16643,7 @@
       "Name": "Pine Tree",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5294
+      "UsersEstimate": 5295
     },
     {
       "ID": "PROSHKA_LOYAL",
@@ -16757,15 +16762,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 66181,
+      "Progressed": 66183,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-10T01:55:44.3235512+00:00",
+  "LastChanged_Achievements": "2024-01-10T02:32:34.8534453+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:33.7261793+00:00",
-  "LastUpdate_Ratings": "2024-01-10T01:46:13.99051+00:00",
-  "LastUpdate_Achievements": "2024-01-10T01:55:44.3236925+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:21:34.9350986+00:00",
+  "LastUpdate_Achievements": "2024-01-10T02:32:34.853573+00:00"
 }

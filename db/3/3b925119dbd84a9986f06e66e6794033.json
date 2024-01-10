@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 728,
+  "EOS_Progressed": 729,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
@@ -2309,6 +2309,11 @@
       "Time": "2024-01-10T01:58:53.2531151+00:00",
       "NumProgressed": 728,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T02:34:01.7614125+00:00",
+      "NumProgressed": 729,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -2393,7 +2398,7 @@
       "Name": "FixyText: Bestseller",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -2415,9 +2420,9 @@
       "ID": "TIME_JINX",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Timejinx",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 248
+      "UsersEstimate": 255
     },
     {
       "ID": "TIME_ORWELL",
@@ -2480,14 +2485,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 728,
+      "Progressed": 729,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-10T01:58:53.2531148+00:00",
+  "LastChanged_Achievements": "2024-01-10T02:34:01.761412+00:00",
   "LastUpdate_AppInfo": "2024-01-06T02:18:00.4383159+00:00",
-  "LastUpdate_Ratings": "2024-01-10T01:47:23.6757974+00:00",
-  "LastUpdate_Achievements": "2024-01-10T01:58:53.2531418+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:22:42.6128849+00:00",
+  "LastUpdate_Achievements": "2024-01-10T02:34:01.761442+00:00"
 }

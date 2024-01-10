@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -313,9 +313,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 1348,
+  "EOS_Progressed": 1349,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3878,6 +3878,11 @@
       "Time": "2024-01-10T00:08:23.1185905+00:00",
       "NumProgressed": 1348,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-10T02:32:31.9810535+00:00",
+      "NumProgressed": 1349,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3898,7 +3903,7 @@
       "Name": "Ab Initio",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "AnthropicHills",
@@ -3992,9 +3997,9 @@
       "ID": "EasternWetlands",
       "SetID": "1n308hc",
       "Name": "Eastern Wetlands",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 202
     },
     {
       "ID": "EcstaticTruth",
@@ -4114,7 +4119,7 @@
       "Name": "Museum Visitor",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "NewBeginning",
@@ -4146,7 +4151,7 @@
       "Name": "Overload",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "Persistent",
@@ -4232,9 +4237,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 310
     },
     {
       "ID": "TextAdventurer",
@@ -4282,7 +4287,7 @@
       "Name": "The Spark",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "TheThiefOfFire",
@@ -4361,7 +4366,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1348,
+      "Progressed": 1349,
       "Completed": 2
     }
   ],
@@ -4369,8 +4374,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-08T17:59:02.5867071+00:00",
-  "LastChanged_Achievements": "2024-01-10T01:55:41.4320226+00:00",
+  "LastChanged_Achievements": "2024-01-10T02:32:31.9810532+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-10T01:47:58.3403085+00:00",
-  "LastUpdate_Achievements": "2024-01-10T01:55:41.4320834+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:23:15.647172+00:00",
+  "LastUpdate_Achievements": "2024-01-10T02:32:31.9811243+00:00"
 }

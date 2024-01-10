@@ -7093,9 +7093,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 870145,
+  "EOS_Progressed": 870146,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 23113,
+  "EOS_NewPlayers": 23079,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37558,6 +37558,11 @@
       "Time": "2024-01-10T01:57:38.7955172+00:00",
       "NumProgressed": 870145,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-10T02:32:47.9618945+00:00",
+      "NumProgressed": 870146,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 37,
@@ -37649,7 +37654,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 617803
+      "UsersEstimate": 617804
     },
     {
       "ID": "2",
@@ -37697,7 +37702,7 @@
       "Name": "First Blood",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 104417
+      "UsersEstimate": 104418
     },
     {
       "ID": "25",
@@ -37729,7 +37734,7 @@
       "Name": "Now You See Me, Now You Don\u0027t",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 87014
+      "UsersEstimate": 87015
     },
     {
       "ID": "29",
@@ -37761,7 +37766,7 @@
       "Name": "Guardian Angel",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 278446
+      "UsersEstimate": 278447
     },
     {
       "ID": "32",
@@ -37864,7 +37869,7 @@
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 870145,
+      "Progressed": 870146,
       "Completed": 15
     }
   ],
@@ -37872,8 +37877,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2024-01-10T01:48:08.2668858+00:00",
-  "LastChanged_Achievements": "2024-01-10T01:57:38.795517+00:00",
+  "LastChanged_Achievements": "2024-01-10T02:32:47.9618943+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.7803049+00:00",
-  "LastUpdate_Ratings": "2024-01-10T01:48:08.2668865+00:00",
-  "LastUpdate_Achievements": "2024-01-10T01:57:38.795698+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:23:26.2475199+00:00",
+  "LastUpdate_Achievements": "2024-01-10T02:32:47.9620859+00:00"
 }

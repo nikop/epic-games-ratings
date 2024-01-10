@@ -32,22 +32,22 @@ Number of Ratings: 116  (23.09.2022)
 | Eat Your Heart Out | 29.00% | ~152 |
 | For Whom the Bell Tolls | 29.00% | ~152 |
 | Unyielding Strength | 26.00% | ~136 |
+| Big Spender | 26.00% | ~136 |
 | Can you restore the Balance? | 25.00% | ~131 |
-| Big Spender | 25.00% | ~131 |
 | Cleanup Crew | 24.00% | ~126 |
 | Crowd Source | 24.00% | ~126 |
 | Maximum Capacity | 22.00% | ~116 |
 | Demon Meddler | 22.00% | ~116 |
 | Seeing Red | 22.00% | ~116 |
 | Egomaniac | 20.00% | ~105 |
-| Protector of Humanity | 18.00% | ~94 |
-| Everybody Wants to Rule the World | 18.00% | ~94 |
+| Protector of Humanity | 19.00% | ~100 |
+| Everybody Wants to Rule the World | 19.00% | ~100 |
 | Community Outreach | 15.00% | ~79 |
 | Unbreakable Will | 14.00% | ~74 |
 | A Parting Gift | 14.00% | ~74 |
 | Path of the Horseman | 13.00% | ~68 |
+| Take it to the Limit | 13.00% | ~68 |
 | Demon Keeper | 12.00% | ~63 |
-| Take it to the Limit | 12.00% | ~63 |
 | Holy Keeper | 11.00% | ~58 |
 | Soul Reaper | 9.00% | ~47 |
 | Humanitarian | 9.00% | ~47 |

@@ -7,7 +7,7 @@ Number of Ratings: 170  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Light at the end of the tunnel | 76.00% | ~21,557 |
-| Mama? | 27.00% | ~7,658 |
+| Mama? | 27.00% | ~7,659 |
 | People's Haven | 18.00% | ~5,106 |
 | Cartographer | 16.00% | ~4,538 |
 | Knowledge for Power | 14.00% | ~3,971 |
@@ -19,7 +19,7 @@ Number of Ratings: 170  (23.09.2022)
 | In the belly of the beast | 11.00% | ~3,120 |
 | Condor condo | 10.00% | ~2,836 |
 | Memorial | 9.00% | ~2,553 |
-| An uninvited guest | 7.00% | ~1,985 |
+| An uninvited guest | 7.00% | ~1,986 |
 | Tails of Stone | 6.00% | ~1,702 |
 | Baa from the past | 6.00% | ~1,702 |
 | Written in stone | 6.00% | ~1,702 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Ripples on the surface | 5.00% | ~1,418 |
 | Hide and Seek | 4.00% | ~1,135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,364 (Ranked 143)  
+Progressed: 28,365 (Ranked 143)  
 Completed: 523 (1.84%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 523 (1.84%) (Ranked 140)
 | 2024-01-07 | 28,237 | 519 |
 | 2024-01-08 | 28,296 | 522 |
 | 2024-01-09 | 28,356 | 523 |
-| 2024-01-10 | 28,364 | 523 |
+| 2024-01-10 | 28,365 | 523 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Black Cat's Warning | 111.00% | ~118 |
 | Break no Sweat | 107.00% | ~113 |
-| Every little bit counts | 100.00% | ~106 |
+| Every little bit counts | 101.00% | ~107 |
 | Growth | 84.00% | ~89 |
-| Targeting the Enemy | 68.00% | ~72 |
+| Targeting the Enemy | 69.00% | ~73 |
 | Unavoidable | 67.00% | ~71 |
-| Revenge | 61.00% | ~65 |
+| Revenge | 62.00% | ~66 |
 | Reunion | 40.00% | ~42 |
 | Fluke | 34.00% | ~36 |
 | Elimination | 32.00% | ~34 |

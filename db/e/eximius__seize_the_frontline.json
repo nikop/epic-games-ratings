@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -339,9 +339,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 202887,
+  "EOS_Progressed": 202889,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 400,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28164,6 +28164,11 @@
       "Time": "2024-01-10T01:53:03.8422926+00:00",
       "NumProgressed": 202887,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-10T02:28:06.8185786+00:00",
+      "NumProgressed": 202889,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -28183,7 +28188,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 144050
+      "UsersEstimate": 144051
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -28269,9 +28274,9 @@
       "ID": "ACH_WIN_90_MAP_CONTROL",
       "SetID": "1kj8hdc",
       "Name": "Mastermind",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 1014
+      "UsersEstimate": 812
     },
     {
       "ID": "ACH_WIN_COOP_2_PLAYERS",
@@ -28295,14 +28300,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 8115
+      "UsersEstimate": 8116
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 202887,
+      "Progressed": 202889,
       "Completed": 4
     }
   ],
@@ -28310,8 +28315,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-12-30T17:59:44.6565075+00:00",
-  "LastChanged_Achievements": "2024-01-10T01:53:03.8422922+00:00",
+  "LastChanged_Achievements": "2024-01-10T02:28:06.8185782+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:02.6553104+00:00",
-  "LastUpdate_Ratings": "2024-01-10T01:49:38.1320988+00:00",
-  "LastUpdate_Achievements": "2024-01-10T01:53:03.8424222+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:26:53.2716337+00:00",
+  "LastUpdate_Achievements": "2024-01-10T02:28:06.8186818+00:00"
 }

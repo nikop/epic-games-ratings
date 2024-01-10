@@ -5,31 +5,31 @@ Rating: 4.47 (Ranked 664)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,997 |
+| Meeting Resistance | 47.00% | ~1,998 |
 | Confirming Suspicions | 42.00% | ~1,785 |
 | The Kraken Wakes | 38.00% | ~1,615 |
-| It's Starting to Crack | 35.00% | ~1,487 |
+| It's Starting to Crack | 35.00% | ~1,488 |
 | Change the Channel | 32.00% | ~1,360 |
-| Lord of War | 31.00% | ~1,317 |
+| Lord of War | 31.00% | ~1,318 |
 | Taking it back | 30.00% | ~1,275 |
 | Resourceful | 28.00% | ~1,190 |
 | Target America | 28.00% | ~1,190 |
 | The Kraken Sleeps | 25.00% | ~1,062 |
 | As Quiet as a Mouse | 24.00% | ~1,020 |
-| Liberté | 23.00% | ~977 |
-| Organ Grinder | 23.00% | ~977 |
-| Sharpshooter | 23.00% | ~977 |
+| Liberté | 23.00% | ~978 |
+| Organ Grinder | 23.00% | ~978 |
+| Sharpshooter | 23.00% | ~978 |
 | Explosive Efficiency | 20.00% | ~850 |
-| Gunslinger | 19.00% | ~807 |
+| Gunslinger | 19.00% | ~808 |
 | Climbing the Ladder | 17.00% | ~722 |
 | Just a Flesh Wound | 17.00% | ~722 |
 | Der Geist | 17.00% | ~722 |
 | Close Quarters | 16.00% | ~680 |
 | Snake in the Grass | 16.00% | ~680 |
 | Brains of the Operation | 16.00% | ~680 |
-| No Stone Unturned | 15.00% | ~637 |
-| Skirmisher | 15.00% | ~637 |
-| Die Nussknacker Sweet! | 15.00% | ~637 |
+| No Stone Unturned | 15.00% | ~638 |
+| Skirmisher | 15.00% | ~638 |
+| Die Nussknacker Sweet! | 15.00% | ~638 |
 | Opposing Force | 14.00% | ~595 |
 | Enemy at the Gates | 14.00% | ~595 |
 | Fields of Glory | 14.00% | ~595 |
@@ -49,10 +49,10 @@ Rating: 4.47 (Ranked 664)
 | Siegebreaker | 5.00% | ~210 |
 | Ghost of Falaise | 5.00% | ~210 |
 | Locomotion Commotion | 4.00% | ~170 |
-| From Paris with Love | 3.00% | ~127 |
-| Burn after reading | 3.00% | ~127 |
-| Souvenir hunter | 3.00% | ~127 |
-| Shoot for the Moon | 3.00% | ~127 |
+| From Paris with Love | 3.00% | ~128 |
+| Burn after reading | 3.00% | ~128 |
+| Souvenir hunter | 3.00% | ~128 |
+| Shoot for the Moon | 3.00% | ~128 |
 | If You Go Down To The Woods Today | 3.00% | ~126 |
 | Fight Another Day | 3.00% | ~126 |
 | Shipbreaker | 3.00% | ~126 |
@@ -73,11 +73,11 @@ Rating: 4.47 (Ranked 664)
 | Master of Rifles | 0.90% | ~38 |
 | Master of Pistols | 0.70% | ~30 |
 | Operation Overlord | 0.70% | ~29 |
-| Master-at-arms | 0.60% | ~25 |
+| Master-at-arms | 0.60% | ~26 |
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,249 (Ranked 210)  
+Progressed: 4,250 (Ranked 210)  
 Completed: 11 (0.26%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,6 +340,7 @@ Completed: 11 (0.26%) (Ranked 263)
 | 2024-01-07 | 4,237 | 11 |
 | 2024-01-08 | 4,244 | 11 |
 | 2024-01-09 | 4,249 | 11 |
+| 2024-01-10 | 4,250 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 529)  
 Sum: 29 (Ranked 546)  

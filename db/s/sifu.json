@@ -8877,9 +8877,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 758354,
+  "EOS_Progressed": 758369,
   "EOS_Completed": 12981,
-  "EOS_NewPlayers": 6119,
+  "EOS_NewPlayers": 6123,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -33097,6 +33097,11 @@
       "Time": "2024-01-10T01:58:23.6116821+00:00",
       "NumProgressed": 758354,
       "NumCompleted": 12981
+    },
+    {
+      "Time": "2024-01-10T02:33:32.8160755+00:00",
+      "NumProgressed": 758369,
+      "NumCompleted": 12981
     }
   ],
   "TotalAchievements": 60,
@@ -33108,7 +33113,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45501
+      "UsersEstimate": 45502
     },
     {
       "ID": "02_Vengeance_H1",
@@ -33116,7 +33121,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30334
+      "UsersEstimate": 30335
     },
     {
       "ID": "03_Vengeance_H2",
@@ -33156,7 +33161,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 5308
+      "UsersEstimate": 5309
     },
     {
       "ID": "08_Wude_H2",
@@ -33372,7 +33377,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30334
+      "UsersEstimate": 30335
     },
     {
       "ID": "35_WideStrike",
@@ -33587,21 +33592,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 67655,
+      "Progressed": 67670,
       "Completed": 10802
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 758354,
+      "Progressed": 758369,
       "Completed": 12981
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-09T21:02:58.5440984+00:00",
-  "LastChanged_Achievements": "2024-01-10T01:58:23.6116816+00:00",
+  "LastChanged_Achievements": "2024-01-10T02:33:32.8160751+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.3871095+00:00",
-  "LastUpdate_Ratings": "2024-01-10T01:52:12.8783214+00:00",
-  "LastUpdate_Achievements": "2024-01-10T01:58:23.6118392+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:27:15.4267087+00:00",
+  "LastUpdate_Achievements": "2024-01-10T02:33:32.8162307+00:00"
 }

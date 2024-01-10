@@ -5,15 +5,15 @@ Rating: 4.69 (Ranked 235)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 33.00% | ~214,474 |
-| 50 HEADSHOTS | 31.00% | ~201,476 |
-| SCIENCE AND INDUSTRY | 30.00% | ~194,977 |
-| FINISHED CHAPTER 1 | 29.00% | ~188,477 |
-| FINISHED CHAPTER 2 | 21.00% | ~136,484 |
-| 200 HEADSHOTS | 19.00% | ~123,485 |
-| FINISHED CHAPTER 3 | 18.00% | ~116,986 |
-| FINISHED CHAPTER 4 | 15.00% | ~97,488 |
-| FINISH CHAPTER 5 | 13.00% | ~84,490 |
+| 100 KILLS | 33.00% | ~214,472 |
+| 50 HEADSHOTS | 31.00% | ~201,474 |
+| SCIENCE AND INDUSTRY | 30.00% | ~194,974 |
+| FINISHED CHAPTER 1 | 29.00% | ~188,475 |
+| FINISHED CHAPTER 2 | 21.00% | ~136,482 |
+| 200 HEADSHOTS | 19.00% | ~123,484 |
+| FINISHED CHAPTER 3 | 18.00% | ~116,985 |
+| FINISHED CHAPTER 4 | 15.00% | ~97,487 |
+| FINISH CHAPTER 5 | 13.00% | ~84,489 |
 | FINISH CHAPTER 6 | 11.00% | ~71,491 |
 | CATHARTIC ESCAPISM | 11.00% | ~71,491 |
 | 1000 KILLS | 10.00% | ~64,992 |
@@ -26,7 +26,7 @@ Rating: 4.69 (Ranked 235)
 | TIME PARADOX | 1.00% | ~6,499 |
 | PARTYHARD | 0.80% | ~5,199 |
 | NEW GAME PLUS | 0.70% | ~4,549 |
-| FIREFIGHT LEVEL 40 | 0.60% | ~3,900 |
+| FIREFIGHT LEVEL 40 | 0.60% | ~3,899 |
 | CHURCH | 0.40% | ~2,600 |
 | FIREFIGHT LEVEL 50 | 0.30% | ~1,950 |
 | REMEMBER THE ARMORY | 0.30% | ~1,950 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 235)
 | THE GAMBLER | 0.10% | ~650 |
 | WARRIOR IN A GARDEN | 0.10% | ~650 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 649,922 (Ranked 32)  
+Progressed: 649,915 (Ranked 32)  
 Completed: 58 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |

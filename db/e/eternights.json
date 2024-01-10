@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -55,7 +55,7 @@
   "Tags": [],
   "EOS_Progressed": 861,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -3237,9 +3237,9 @@
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
       "SetID": "9bke6f1",
       "Name": "Expert Scavenger",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 258
+      "UsersEstimate": 267
     },
     {
       "ID": "ACHIEVEMENT_14_PromiseYuna",
@@ -3422,8 +3422,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-08T15:56:57.0770321+00:00",
-  "LastChanged_Achievements": "2024-01-10T01:58:12.7274929+00:00",
+  "LastChanged_Achievements": "2024-01-10T02:33:21.6329609+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.7410286+00:00",
-  "LastUpdate_Ratings": "2024-01-10T01:46:48.5586618+00:00",
-  "LastUpdate_Achievements": "2024-01-10T01:58:12.7275275+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:22:07.324743+00:00",
+  "LastUpdate_Achievements": "2024-01-10T02:33:21.6330204+00:00"
 }

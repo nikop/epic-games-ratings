@@ -6,10 +6,10 @@ Rating: 4.62 (Ranked 378)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 17.00% | ~1,213 |
-| Realm Estate | 15.00% | ~1,070 |
+| Realm Estate | 15.00% | ~1,071 |
 | A Wonderful Discovery | 14.00% | ~999 |
 | Walls Cannot Stop Us | 13.00% | ~928 |
-| From Friends to Family | 12.00% | ~856 |
+| From Friends to Family | 12.00% | ~857 |
 | Bone Peddler | 10.00% | ~714 |
 | Magical Synergy | 9.00% | ~642 |
 | Full Ascension | 8.00% | ~571 |
@@ -21,12 +21,12 @@ Rating: 4.62 (Ranked 378)
 | Intimidation Tactics | 6.00% | ~428 |
 | My Final Form | 5.00% | ~357 |
 | But this one is mine | 5.00% | ~357 |
-| Return of the Wizard King | 4.00% | ~285 |
-| Enchanted Archipelago | 4.00% | ~285 |
-| Digging for Treasure | 4.00% | ~285 |
-| Fiery Friend | 4.00% | ~285 |
-| Against the Odds | 4.00% | ~285 |
-| Impenetrable Fortress | 4.00% | ~285 |
+| Return of the Wizard King | 4.00% | ~286 |
+| Enchanted Archipelago | 4.00% | ~286 |
+| Digging for Treasure | 4.00% | ~286 |
+| Fiery Friend | 4.00% | ~286 |
+| Against the Odds | 4.00% | ~286 |
+| Impenetrable Fortress | 4.00% | ~286 |
 | Crimson Caldera | 3.00% | ~214 |
 | Preparation Is Everything | 3.00% | ~214 |
 | Here be Dragons | 3.00% | ~214 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 378)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,136 (Ranked 196)  
+Progressed: 7,138 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 7 (0.10%) (Ranked 309)
 | 2024-01-07 | 7,051 | 7 |
 | 2024-01-08 | 7,091 | 7 |
 | 2024-01-09 | 7,130 | 7 |
-| 2024-01-10 | 7,136 | 7 |
+| 2024-01-10 | 7,138 | 7 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 481)  
 Sum: 215 (Ranked 410)  
