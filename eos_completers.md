@@ -56,10 +56,10 @@
 | 54 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 55 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.44% |
 | 56 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.41% |
-| 57 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.18% |
-| 58 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.16% |
+| 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.19% |
+| 58 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.18% |
 | 59 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.04% |
-| 60 | [Sonic Origins](games/s/sonic_origins.md) | 6.99% |
+| 60 | [Sonic Origins](games/s/sonic_origins.md) | 6.98% |
 | 61 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.95% |
 | 62 | [Scorn](games/s/scorn.md) | 6.87% |
 | 63 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 6.67% |
@@ -90,13 +90,13 @@
 | 88 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.17% |
 | 88 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 4.17% |
 | 90 | [Dungeons 4](games/d/dungeons_4.md) | 4.13% |
-| 91 | [The Bunker](games/t/the_bunker.md) | 4.02% |
+| 91 | [The Bunker](games/t/the_bunker.md) | 4.00% |
 | 92 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.85% |
 | 93 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.73% |
 | 94 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 3.70% |
-| 95 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.62% |
-| 96 | [Doodle God](games/d/doodle_god.md) | 3.61% |
-| 96 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.61% |
+| 95 | [Doodle God](games/d/doodle_god.md) | 3.61% |
+| 95 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.61% |
+| 95 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.61% |
 | 98 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
 | 99 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.49% |
 | 100 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.47% |
@@ -145,7 +145,7 @@
 | 143 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.71% |
 | 143 | [Sifu](games/s/sifu.md) | 1.71% |
 | 145 | [Frogun](games/f/frogun.md) | 1.68% |
-| 146 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.65% |
+| 146 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.66% |
 | 147 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.59% |
 | 148 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.49% |
 | 148 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.49% |
@@ -155,9 +155,9 @@
 | 153 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.33% |
 | 154 | [Poosh XL](games/p/poosh_xl.md) | 1.29% |
 | 155 | [Chorus](games/c/chorus.md) | 1.28% |
-| 155 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.28% |
 | 155 | [Late Shift](games/l/late_shift.md) | 1.28% |
-| 158 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 1.27% |
+| 157 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.27% |
+| 157 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 1.27% |
 | 159 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.24% |
 | 160 | [Ten Dates](games/t/ten_dates.md) | 1.21% |
 | 161 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.20% |

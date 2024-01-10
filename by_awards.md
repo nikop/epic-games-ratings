@@ -54,7 +54,7 @@
 | 52 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 7,780 | 4.69 | 236 |
 | 53 | [Supraland](games/s/supraland.md) | 7,775 | 4.61 | 400 |
 | 54 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,769 | 4.71 | 203 |
-| 55 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 7,185 | 4.75 | 146 |
+| 55 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 7,204 | 4.75 | 146 |
 | 56 | [Sifu](games/s/sifu.md) | 7,166 | 4.82 | 67 |
 | 57 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 6,932 | 4.69 | 236 |
 | 58 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 6,872 | 4.50 | 614 |
@@ -99,8 +99,8 @@
 | 97 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,453 | 4.67 | 285 |
 | 98 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,451 | 4.76 | 130 |
 | 99 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,435 | 4.58 | 472 |
-| 100 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 3,296 | 4.50 | 614 |
-| 101 | [Gotham Knights](games/g/gotham_knights.md) | 3,167 | 4.19 | 974 |
+| 100 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 3,298 | 4.50 | 614 |
+| 101 | [Gotham Knights](games/g/gotham_knights.md) | 3,172 | 4.19 | 974 |
 | 102 | [Among Us](games/a/among_us.md) | 3,011 | 4.56 | 509 |
 | 103 | [RAGE 2](games/r/rage_2.md) | 2,881 | 4.27 | 904 |
 | 104 | [The Sims™ 4](games/t/the_sims™_4.md) | 2,824 | 4.62 | 379 |
@@ -299,7 +299,7 @@
 | 297 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 208 | 4.35 | 827 |
 | 298 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 207 | 4.52 | 574 |
 | 299 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 206 | 4.52 | 574 |
-| 300 | [Relicta](games/r/relicta.md) | 205 | 4.15 | 1,001 |
+| 300 | [Relicta](games/r/relicta.md) | 205 | 4.15 | 1,000 |
 | 301 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 203 | 4.58 | 472 |
 | 302 | [Star Stable Online](games/s/star_stable_online.md) | 201 | 4.41 | 751 |
 | 303 | [Crashlands](games/c/crashlands.md) | 198 | 4.66 | 301 |
@@ -341,7 +341,7 @@
 | 339 | [Alien: Isolation](games/a/alien__isolation.md) | 140 | 4.61 | 400 |
 | 339 | [while True: learn()](games/w/while_true__learn().md) | 140 | 4.51 | 593 |
 | 341 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 138 | 4.36 | 819 |
-| 342 | [SYNCED](games/s/synced.md) | 134 | 4.13 | 1,014 |
+| 342 | [SYNCED](games/s/synced.md) | 134 | 4.13 | 1,013 |
 | 343 | [Going Medieval](games/g/going_medieval.md) | 133 | 4.60 | 431 |
 | 344 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 132 | 4.52 | 574 |
 | 345 | [Aven Colony](games/a/aven_colony.md) | 131 | 4.20 | 964 |
@@ -400,7 +400,7 @@
 | 398 | [Aimlabs](games/a/aimlabs.md) | 87 | 4.61 | 400 |
 | 398 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 87 | 4.71 | 203 |
 | 400 | [Carcassonne](games/c/carcassonne.md) | 86 | 4.66 | 301 |
-| 401 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 85 | 4.14 | 1,009 |
+| 401 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 85 | 4.14 | 1,008 |
 | 402 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 84 | 4.60 | 431 |
 | 403 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 80 | 4.61 | 400 |
 | 404 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 79 | 4.21 | 954 |
@@ -489,12 +489,12 @@
 | 487 | [Northgard](games/n/northgard.md) | 39 | 4.67 | 285 |
 | 487 | [Rayman Origins](games/r/rayman_origins.md) | 39 | 4.84 | 50 |
 | 487 | [Steelrising](games/s/steelrising.md) | 39 | 4.31 | 867 |
-| 490 | [20XX](games/2/20xx.md) | 38 | 4.61 | 400 |
-| 490 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 38 | 4.20 | 964 |
-| 490 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 38 | 4.49 | 637 |
-| 490 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 38 | 4.42 | 740 |
-| 490 | [Warpips](games/w/warpips.md) | 38 | 4.42 | 740 |
-| 490 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 38 | 4.49 | 637 |
+| 487 | [Warpips](games/w/warpips.md) | 39 | 4.42 | 740 |
+| 491 | [20XX](games/2/20xx.md) | 38 | 4.61 | 400 |
+| 491 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 38 | 4.20 | 964 |
+| 491 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 38 | 4.49 | 637 |
+| 491 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 38 | 4.42 | 740 |
+| 491 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 38 | 4.49 | 637 |
 | 496 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 37 | 4.63 | 359 |
 | 496 | [TUNIC](games/t/tunic.md) | 37 | 4.83 | 56 |
 | 498 | [Art of Rally](games/a/art_of_rally_1.md) | 36 | 4.65 | 322 |
