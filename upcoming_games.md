@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 2024-01-10 | 14 (1,000 XP) | 0 | - | - |
 | [CounterAttack: Uprising](games/4/474de2af8ae04a7b9991ea3fbbc56c7b.md) | 2024-01-11 | 24 (1,000 XP) | 1 | - | - |
 | [Travel Cuisine Collector's Edition](games/9/91af0290094049ab8d143af764fe8f01.md) | 2024-01-11 | - |  | - | - |
 | [Strike Solitaire 2](games/f/f41697594aa546a09dcd518284b290d1.md) | 2024-01-14 | - |  | - | - |
@@ -473,6 +472,7 @@
 | [The Casting of Frank Stone™](games/4/41802c0165634dd99993e87b60107d1a.md) | 2099-01-01 | - |  | - | - |
 | [The Cecil The Journey Begins](games/t/the_cecil_the_journey_begins.md) | 2099-01-01 | - |  | - | - |
 | [The Dead Await](games/t/the_dead_await.md) | 2099-01-01 | - |  | - | - |
+| [The Eightfold Path](games/3/32aff53b2ea849249541da8da6d6592a.md) | 2099-01-01 | - |  | - | - |
 | [The Fold Ingression](games/t/the_fold_ingression.md) | 2099-01-01 | - |  | - | - |
 | [The Golden Eyed Ghosts](games/t/the_golden_eyed_ghosts.md) | 2099-01-01 | - |  | - | - |
 | [The Last Three](games/b/b4c33404eb6f4c7c938efb3ca8f0c264.md) | 2099-01-01 | - |  | - | - |
