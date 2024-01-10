@@ -5,28 +5,28 @@ Rating: 4.62 (Ranked 379)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 17.00% | ~1,217 |
+| Secret Technique | 17.00% | ~1,218 |
 | Realm Estate | 15.00% | ~1,074 |
-| A Wonderful Discovery | 14.00% | ~1,002 |
-| Walls Cannot Stop Us | 14.00% | ~1,002 |
-| From Friends to Family | 12.00% | ~859 |
+| A Wonderful Discovery | 14.00% | ~1,003 |
+| Walls Cannot Stop Us | 14.00% | ~1,003 |
+| From Friends to Family | 12.00% | ~860 |
 | Bone Peddler | 10.00% | ~716 |
-| Magical Synergy | 9.00% | ~644 |
+| Magical Synergy | 9.00% | ~645 |
 | There Can Only Be One! | 8.00% | ~573 |
 | Full Ascension | 8.00% | ~573 |
 | Stronger Together | 8.00% | ~573 |
 | Seat of Power | 8.00% | ~573 |
-| Valley of Wonders | 6.00% | ~429 |
-| In a Liege of Your Own | 6.00% | ~429 |
-| Intimidation Tactics | 6.00% | ~429 |
+| Valley of Wonders | 6.00% | ~430 |
+| In a Liege of Your Own | 6.00% | ~430 |
+| Intimidation Tactics | 6.00% | ~430 |
 | My Final Form | 5.00% | ~358 |
 | But this one is mine | 5.00% | ~358 |
-| Return of the Wizard King | 4.00% | ~286 |
-| Enchanted Archipelago | 4.00% | ~286 |
-| Digging for Treasure | 4.00% | ~286 |
-| Fiery Friend | 4.00% | ~286 |
-| Against the Odds | 4.00% | ~286 |
-| Impenetrable Fortress | 4.00% | ~286 |
+| Return of the Wizard King | 4.00% | ~287 |
+| Enchanted Archipelago | 4.00% | ~287 |
+| Digging for Treasure | 4.00% | ~287 |
+| Fiery Friend | 4.00% | ~287 |
+| Against the Odds | 4.00% | ~287 |
+| Impenetrable Fortress | 4.00% | ~287 |
 | Crimson Caldera | 3.00% | ~215 |
 | Preparation Is Everything | 3.00% | ~215 |
 | Here be Dragons | 3.00% | ~215 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 379)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,158 (Ranked 196)  
+Progressed: 7,163 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 7 (0.10%) (Ranked 309)
 | 2024-01-07 | 7,051 | 7 |
 | 2024-01-08 | 7,091 | 7 |
 | 2024-01-09 | 7,130 | 7 |
-| 2024-01-10 | 7,158 | 7 |
+| 2024-01-10 | 7,163 | 7 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 481)  
 Sum: 217 (Ranked 409)  

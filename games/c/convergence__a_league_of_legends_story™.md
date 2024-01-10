@@ -12,24 +12,24 @@ Rating: 4.69 (Ranked 236)
 | The Brass Boss | 28.00% | ~363 |
 | Time Flies | 27.00% | ~350 |
 | Make Up For Lost Time | 26.00% | ~337 |
+| The Harder They Fall | 26.00% | ~337 |
 | No, Thanks! | 26.00% | ~337 |
 | The Prince in Heels | 26.00% | ~337 |
 | Honest Mistake | 26.00% | ~337 |
-| The Harder They Fall | 25.00% | ~324 |
 | Fast Learner | 25.00% | ~324 |
 | Immaculate Aim | 25.00% | ~324 |
-| The Steel Shadow | 24.00% | ~311 |
-| Right On Time | 23.00% | ~298 |
-| Breaking Down Barriers | 23.00% | ~298 |
-| The Wicked Twins | 23.00% | ~298 |
-| Like Clockwork | 22.00% | ~285 |
-| Golem Chaser | 22.00% | ~285 |
-| The Betrayer | 21.00% | ~272 |
-| Check Your Pulse | 20.00% | ~259 |
-| The Loose Cannon | 19.00% | ~246 |
-| Street Style | 18.00% | ~233 |
-| The Man Who Shattered Time | 18.00% | ~233 |
-| The Family Fortune | 18.00% | ~233 |
+| The Steel Shadow | 24.00% | ~312 |
+| Breaking Down Barriers | 23.00% | ~299 |
+| The Wicked Twins | 23.00% | ~299 |
+| Right On Time | 22.00% | ~286 |
+| Like Clockwork | 22.00% | ~286 |
+| Golem Chaser | 22.00% | ~286 |
+| The Betrayer | 21.00% | ~273 |
+| Check Your Pulse | 20.00% | ~260 |
+| The Loose Cannon | 19.00% | ~247 |
+| Street Style | 18.00% | ~234 |
+| The Man Who Shattered Time | 18.00% | ~234 |
+| The Family Fortune | 18.00% | ~234 |
 | Whiz Kid | 15.00% | ~195 |
 | Good Neighbor | 15.00% | ~195 |
 | Family Memories | 14.00% | ~182 |
@@ -59,8 +59,8 @@ Rating: 4.69 (Ranked 236)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,297 (Ranked 279)  
-Completed: 7 (0.54%) (Ranked 215)  
+Progressed: 1,298 (Ranked 279)  
+Completed: 7 (0.54%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -230,7 +230,7 @@ Completed: 7 (0.54%) (Ranked 215)
 | 2024-01-07 | 1,264 | 7 |
 | 2024-01-08 | 1,278 | 7 |
 | 2024-01-09 | 1,289 | 7 |
-| 2024-01-10 | 1,297 | 7 |
+| 2024-01-10 | 1,298 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

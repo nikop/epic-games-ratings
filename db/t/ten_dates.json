@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 504,
+  "EOS_Progressed": 505,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
@@ -1481,6 +1481,11 @@
       "Time": "2024-01-10T16:10:31.500757+00:00",
       "NumProgressed": 504,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-10T18:09:40.9595751+00:00",
+      "NumProgressed": 505,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 19,
@@ -1500,7 +1505,7 @@
       "Name": "Picky, Picky!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "misha_date2_all",
@@ -1643,7 +1648,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 504,
+      "Progressed": 505,
       "Completed": 6
     }
   ],
@@ -1651,8 +1656,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:09:45.4524627+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:09:40.9595749+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.8807214+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:59:32.8923296+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:09:45.4524857+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:59:41.4550827+00:00",
+  "LastUpdate_Achievements": "2024-01-10T18:09:40.9595963+00:00"
 }

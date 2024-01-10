@@ -1487,9 +1487,9 @@
       "Count": 152
     }
   ],
-  "EOS_Progressed": 14507,
+  "EOS_Progressed": 14508,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 819,
+  "EOS_NewPlayers": 817,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -9532,6 +9532,11 @@
       "Time": "2024-01-10T17:09:14.4389345+00:00",
       "NumProgressed": 14507,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-10T18:09:10.1689115+00:00",
+      "NumProgressed": 14508,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 24,
@@ -9543,7 +9548,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2901
+      "UsersEstimate": 2902
     },
     {
       "ID": "Chatterbox",
@@ -9567,7 +9572,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8704
+      "UsersEstimate": 8705
     },
     {
       "ID": "DemonCastleRestoration",
@@ -9671,7 +9676,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8704
+      "UsersEstimate": 8705
     },
     {
       "ID": "SavedElderEnt_2",
@@ -9711,7 +9716,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 6818
+      "UsersEstimate": 6819
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -9734,15 +9739,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14507,
+      "Progressed": 14508,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-10T14:01:47.5850312+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:09:14.438934+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:09:10.1689113+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:25.8159814+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:00:31.0548873+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:09:14.4390145+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:00:39.47876+00:00",
+  "LastUpdate_Achievements": "2024-01-10T18:09:10.1689659+00:00"
 }

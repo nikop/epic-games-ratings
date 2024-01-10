@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1529,
+  "EOS_Progressed": 1530,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3385,6 +3385,11 @@
       "Time": "2024-01-10T17:06:15.4121938+00:00",
       "NumProgressed": 1529,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T18:06:13.1491319+00:00",
+      "NumProgressed": 1530,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3437,7 +3442,7 @@
       "Name": "Unblurred Lines",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
@@ -3445,7 +3450,7 @@
       "Name": "Aggressive Antivirus",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
@@ -3501,7 +3506,7 @@
       "Name": "Obsessively Thorough",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
@@ -3571,9 +3576,9 @@
       "ID": "ACHIEVEMENT_REUNITED",
       "SetID": "9991201",
       "Name": "Long Live Rock",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 260
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -3597,7 +3602,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -3636,14 +3641,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1529,
+      "Progressed": 1530,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:06:15.4121929+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:06:13.1491314+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:32.4570132+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:58:37.8983152+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:06:15.4122479+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:58:44.5417358+00:00",
+  "LastUpdate_Achievements": "2024-01-10T18:06:13.149158+00:00"
 }

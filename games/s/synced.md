@@ -1,20 +1,20 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.13 (Ranked 1,013)  
+Rating: 4.14 (Ranked 1,008)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 45.00% | ~38,702 |
-| More Power to You | 23.00% | ~19,781 |
-| As Far Away As Possible | 21.00% | ~18,061 |
-| A Most Unstable Organism | 14.00% | ~12,041 |
-| No Time to Follow Protocol | 9.00% | ~7,740 |
-| Nano Connoisseur | 7.00% | ~6,020 |
-| Float Like a Butterfly... | 7.00% | ~6,020 |
-| In Two Places At Once | 6.00% | ~5,160 |
-| Pulling Your Weight | 3.00% | ~2,580 |
-| Reaping Rivals | 3.00% | ~2,580 |
+| Your Lucky Day | 45.00% | ~38,710 |
+| More Power to You | 23.00% | ~19,785 |
+| As Far Away As Possible | 21.00% | ~18,065 |
+| A Most Unstable Organism | 14.00% | ~12,043 |
+| No Time to Follow Protocol | 9.00% | ~7,742 |
+| Nano Connoisseur | 7.00% | ~6,022 |
+| Float Like a Butterfly... | 7.00% | ~6,022 |
+| In Two Places At Once | 6.00% | ~5,161 |
+| Pulling Your Weight | 3.00% | ~2,581 |
+| Reaping Rivals | 3.00% | ~2,581 |
 | fifteenth Time's the Charm | 1.00% | ~860 |
 | Gone Rogue | 1.00% | ~860 |
 | Completely Customizable | 0.50% | ~430 |
@@ -22,7 +22,7 @@ Rating: 4.13 (Ranked 1,013)
 | Runs for Your Money | 0.30% | ~258 |
 | Past Master | 0.30% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,004 (Ranked 107)  
+Progressed: 86,023 (Ranked 107)  
 Completed: 66 (0.08%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,18 +158,18 @@ Completed: 66 (0.08%) (Ranked 321)
 | 2024-01-07 | 84,963 | 64 |
 | 2024-01-08 | 85,407 | 66 |
 | 2024-01-09 | 85,770 | 66 |
-| 2024-01-10 | 86,004 | 66 |
+| 2024-01-10 | 86,023 | 66 |
 ## Awards
 Max (Great for Beginners): 134  (Ranked 342)  
-Sum: 573 (Ranked 329)  
+Sum: 574 (Ranked 329)  
 Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 134 |
 | This game has Diverse Characters | 91 |
 | This game is Highly Recommended | 66 |
+| This game has Amazing Characters | 65 |
 | This game is Extremely Fun | 64 |
-| This game has Amazing Characters | 64 |
 | This game has Amazing Storytelling | 55 |
 | This game has a Competitive Community | 54 |
 | This game has Quickly Understood Controls | 52 |
@@ -292,3 +292,4 @@ Diff (max vs sum): 13
 | 2024-01-07 | 4.13 | 134 | 568 |
 | 2024-01-08 | 4.13 | 134 | 571 |
 | 2024-01-09 | 4.13 | 134 | 573 |
+| 2024-01-10 | 4.14 | 134 | 574 |

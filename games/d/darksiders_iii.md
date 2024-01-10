@@ -20,7 +20,7 @@ Number of Ratings: 116  (23.09.2022)
 | Devil's in the Details | 39.00% | ~211 |
 | Throne Potato | 39.00% | ~211 |
 | Five's a Crowd | 39.00% | ~211 |
-| 25 to Life | 38.00% | ~205 |
+| 25 to Life | 39.00% | ~211 |
 | Salvation | 37.00% | ~200 |
 | Unshakable Fortitude | 35.00% | ~189 |
 | Soul Harvester | 35.00% | ~189 |
@@ -32,14 +32,14 @@ Number of Ratings: 116  (23.09.2022)
 | Eat Your Heart Out | 29.00% | ~157 |
 | For Whom the Bell Tolls | 29.00% | ~157 |
 | Unyielding Strength | 26.00% | ~140 |
+| Big Spender | 26.00% | ~140 |
 | Can you restore the Balance? | 25.00% | ~135 |
 | Crowd Source | 25.00% | ~135 |
-| Big Spender | 25.00% | ~135 |
 | Cleanup Crew | 24.00% | ~130 |
 | Maximum Capacity | 22.00% | ~119 |
 | Demon Meddler | 22.00% | ~119 |
 | Seeing Red | 22.00% | ~119 |
-| Egomaniac | 20.00% | ~108 |
+| Egomaniac | 21.00% | ~113 |
 | Protector of Humanity | 19.00% | ~103 |
 | Everybody Wants to Rule the World | 19.00% | ~103 |
 | Community Outreach | 16.00% | ~86 |

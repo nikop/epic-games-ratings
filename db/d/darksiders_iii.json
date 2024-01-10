@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -2386,9 +2386,9 @@
       "ID": "Kill_Sin_Pride",
       "SetID": "7a5k76n",
       "Name": "Egomaniac",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 113
     },
     {
       "ID": "Kill_Sin_Sloth",
@@ -2474,17 +2474,17 @@
       "ID": "Spend_AttributePoint_25",
       "SetID": "7a5k76n",
       "Name": "25 to Life",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 211
     },
     {
       "ID": "Spend_AttributePoint_50",
       "SetID": "7a5k76n",
       "Name": "Big Spender",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 140
     },
     {
       "ID": "Unlocked_49_Achievements",
@@ -2530,8 +2530,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-10T06:57:57.6760335+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:04:45.9061069+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:04:44.4637051+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:58:12.9109794+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:04:45.9061717+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:58:21.1144177+00:00",
+  "LastUpdate_Achievements": "2024-01-10T18:04:44.4637851+00:00"
 }

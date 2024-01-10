@@ -306,9 +306,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 395,
+  "EOS_Progressed": 396,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1811,6 +1811,11 @@
       "Time": "2024-01-10T14:10:26.2457899+00:00",
       "NumProgressed": 395,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-10T18:09:14.7414714+00:00",
+      "NumProgressed": 396,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1823,7 +1828,7 @@
       "Name": "Mash Machine",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1853,9 +1858,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1895,7 +1900,7 @@
       "Name": "Cult Following",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1935,7 +1940,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1959,7 +1964,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1967,7 +1972,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
@@ -1991,7 +1996,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -1999,7 +2004,7 @@
       "Name": "Kaijuiced",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_KILL_MILENKOV",
@@ -2013,9 +2018,9 @@
       "ID": "ACH_KILL_ORANCHOV",
       "SetID": "4n84pon",
       "Name": "Freshly Squeezed",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -2071,7 +2076,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -2174,7 +2179,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 395,
+      "Progressed": 396,
       "Completed": 2
     }
   ],
@@ -2182,8 +2187,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:09:19.0941298+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:09:14.7414712+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:58:28.1602709+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:09:19.0941845+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:58:35.7639454+00:00",
+  "LastUpdate_Achievements": "2024-01-10T18:09:14.7415087+00:00"
 }

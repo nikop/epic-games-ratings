@@ -2,13 +2,13 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 1013,
+  "Ranking_Rating": 1008,
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.13,
+  "Rating": 4.14,
   "RatingHistory": [
     {
       "Time": "2023-09-09T22:00:06.1147594+00:00",
@@ -1657,10 +1657,16 @@
       "Rating": 4.13,
       "NumberOfAwards": 573,
       "NumberOfAwardsMax": 134
+    },
+    {
+      "Time": "2024-01-10T17:58:16.1928877+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 574,
+      "NumberOfAwardsMax": 134
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 573,
+  "NumberOfAwards": 574,
   "NumberOfAwardsMax": 134,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1722,12 +1728,12 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 64
+      "Count": 65
     }
   ],
-  "EOS_Progressed": 86004,
+  "EOS_Progressed": 86023,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 3523,
+  "EOS_NewPlayers": 3506,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -16190,6 +16196,11 @@
       "Time": "2024-01-10T17:05:54.8444999+00:00",
       "NumProgressed": 86004,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-10T18:05:53.227921+00:00",
+      "NumProgressed": 86023,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -16202,7 +16213,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 38702
+      "UsersEstimate": 38710
     },
     {
       "ID": "10",
@@ -16218,7 +16229,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2580
+      "UsersEstimate": 2581
     },
     {
       "ID": "12",
@@ -16226,7 +16237,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2580
+      "UsersEstimate": 2581
     },
     {
       "ID": "13",
@@ -16242,7 +16253,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 6020
+      "UsersEstimate": 6022
     },
     {
       "ID": "15",
@@ -16266,7 +16277,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 18061
+      "UsersEstimate": 18065
     },
     {
       "ID": "3",
@@ -16274,7 +16285,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 12041
+      "UsersEstimate": 12043
     },
     {
       "ID": "4",
@@ -16282,7 +16293,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7740
+      "UsersEstimate": 7742
     },
     {
       "ID": "5",
@@ -16290,7 +16301,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 6020
+      "UsersEstimate": 6022
     },
     {
       "ID": "6",
@@ -16298,7 +16309,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5160
+      "UsersEstimate": 5161
     },
     {
       "ID": "7",
@@ -16306,7 +16317,7 @@
       "Name": "More Power to You",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 19781
+      "UsersEstimate": 19785
     },
     {
       "ID": "8",
@@ -16329,16 +16340,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 86004,
+      "Progressed": 86023,
       "Completed": 66
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2024-01-09T02:21:58.0634593+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:05:54.8444994+00:00",
+  "LastChanged": "2024-01-10T17:58:16.1928876+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:05:53.2279208+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:51.8643288+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:58:08.4923731+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:05:54.8446105+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:58:16.192888+00:00",
+  "LastUpdate_Achievements": "2024-01-10T18:05:53.22802+00:00"
 }

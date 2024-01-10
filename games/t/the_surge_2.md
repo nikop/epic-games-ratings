@@ -5,42 +5,42 @@ Rating: 4.26 (Ranked 916)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 78.00% | ~1,994 |
-| Don't I Know You...? | 75.00% | ~1,917 |
-| Jailbreak | 64.00% | ~1,636 |
+| Rigged And Ready | 78.00% | ~1,995 |
+| Don't I Know You...? | 75.00% | ~1,918 |
+| Jailbreak | 64.00% | ~1,637 |
 | HEADSHOT! | 37.00% | ~946 |
 | Suited and Booted | 37.00% | ~946 |
-| Sleeping With The Fishes | 34.00% | ~869 |
+| Sleeping With The Fishes | 34.00% | ~870 |
 | High Performance | 30.00% | ~767 |
-| Overheated | 29.00% | ~741 |
-| Powered Up | 27.00% | ~690 |
-| Studied The Blade | 24.00% | ~613 |
-| Home Invasion | 22.00% | ~562 |
-| Luminary | 22.00% | ~562 |
+| Overheated | 29.00% | ~742 |
+| Powered Up | 27.00% | ~691 |
+| Studied The Blade | 24.00% | ~614 |
+| Home Invasion | 22.00% | ~563 |
+| Luminary | 22.00% | ~563 |
 | True Survivor | 21.00% | ~537 |
 | It's a Trap | 21.00% | ~537 |
-| Offensive Defense | 20.00% | ~511 |
-| Shocking | 19.00% | ~486 |
+| Offensive Defense | 20.00% | ~512 |
+| Shocking | 20.00% | ~512 |
 | Unforeseeable Consequences | 19.00% | ~486 |
 | Court Martial | 18.00% | ~460 |
 | Clean Cut | 18.00% | ~460 |
 | Dead Again | 17.00% | ~435 |
 | Full Arsenal | 16.00% | ~409 |
-| Can't Trust Banks | 15.00% | ~383 |
-| Mommy Dearest | 13.00% | ~332 |
-| Bad Dog | 13.00% | ~332 |
-| Risk Tolerant | 13.00% | ~332 |
-| What A Catchy Song | 13.00% | ~332 |
+| Can't Trust Banks | 15.00% | ~384 |
+| Mommy Dearest | 13.00% | ~333 |
+| Bad Dog | 13.00% | ~333 |
+| Risk Tolerant | 13.00% | ~333 |
+| What A Catchy Song | 13.00% | ~333 |
 | Where It All Began | 12.00% | ~307 |
 | Sorry, Didn't See You There | 12.00% | ~307 |
 | Corrupted Beauty | 11.00% | ~281 |
 | Marked For Success | 11.00% | ~281 |
 | Stimulating The Local Economy | 10.00% | ~256 |
 | Triplets | 10.00% | ~256 |
-| A Little Banged Up | 8.00% | ~204 |
-| Denying Prophecy | 8.00% | ~204 |
-| Following In Their Footsteps | 8.00% | ~204 |
-| Defense in Depth | 8.00% | ~204 |
+| A Little Banged Up | 8.00% | ~205 |
+| Denying Prophecy | 8.00% | ~205 |
+| Following In Their Footsteps | 8.00% | ~205 |
+| Defense in Depth | 8.00% | ~205 |
 | Reverse Engineering | 7.00% | ~179 |
 | Remote Surgery | 6.00% | ~153 |
 | Turbo Booster | 6.00% | ~153 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 916)
 | Three Birds With One Stone | 1.00% | ~26 |
 | The Easy Way Out | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,556 (Ranked 236)  
+Progressed: 2,558 (Ranked 236)  
 Completed: 13 (0.51%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 13 (0.51%) (Ranked 218)
 | 2024-01-07 | 2,519 | 13 |
 | 2024-01-08 | 2,534 | 13 |
 | 2024-01-09 | 2,547 | 13 |
-| 2024-01-10 | 2,556 | 13 |
+| 2024-01-10 | 2,558 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

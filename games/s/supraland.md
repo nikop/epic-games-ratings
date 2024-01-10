@@ -6,17 +6,17 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~732,346 |
+| Out of bed | 99.00% | ~732,347 |
 | The Blues | 85.00% | ~628,782 |
-| Fast | 66.00% | ~488,230 |
+| Fast | 66.00% | ~488,231 |
 | Healthbar | 55.00% | ~406,859 |
 | Force Cube | 53.00% | ~392,064 |
 | Double Jump | 48.00% | ~355,077 |
-| Regeneration | 47.00% | ~347,679 |
-| Triple Jump | 43.00% | ~318,089 |
+| Regeneration | 47.00% | ~347,680 |
+| Triple Jump | 43.00% | ~318,090 |
 | Climb the hill | 42.00% | ~310,692 |
 | Through the fire pipe | 39.00% | ~288,500 |
-| MacGuffin | 38.00% | ~281,102 |
+| MacGuffin | 38.00% | ~281,103 |
 | Just once | 37.00% | ~273,705 |
 | Armor | 30.00% | ~221,923 |
 | True holy spirit | 28.00% | ~207,128 |
@@ -24,13 +24,13 @@ Number of Ratings: 25,175  (23.09.2022)
 | Force Cube Catapult | 25.00% | ~184,936 |
 | Holy Sword | 23.00% | ~170,141 |
 | Telefrag | 23.00% | ~170,141 |
-| Freed from prison | 22.00% | ~162,743 |
+| Freed from prison | 22.00% | ~162,744 |
 | Stomp | 21.00% | ~155,346 |
 | Double Health | 19.00% | ~140,551 |
 | Buckle | 18.00% | ~133,154 |
 | Green Keycard | 18.00% | ~133,154 |
 | Rattle Hag | 16.00% | ~118,359 |
-| All Shells | 15.00% | ~110,961 |
+| All Shells | 15.00% | ~110,962 |
 | Beam | 14.00% | ~103,564 |
 | 9 | 14.00% | ~103,564 |
 | Supraball Noob | 14.00% | ~103,564 |
@@ -55,7 +55,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Momentum | 9.00% | ~66,577 |
 | Through the tiny pipe | 9.00% | ~66,577 |
 | Win! | 9.00% | ~66,577 |
-| The real real teleported man | 8.00% | ~59,179 |
+| The real real teleported man | 8.00% | ~59,180 |
 | Well deserved | 6.00% | ~44,385 |
 | Super Sword | 4.00% | ~29,590 |
 | Happiness | 3.00% | ~22,192 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~740 |
 | DLC: Top of the world | 0.10% | ~740 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 739,743 (Ranked 27)  
+Progressed: 739,744 (Ranked 27)  
 Completed: 780 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -370,7 +370,7 @@ Completed: 780 (0.11%) (Ranked 304)
 | 2024-01-07 | 739,435 | 780 |
 | 2024-01-08 | 739,548 | 780 |
 | 2024-01-09 | 739,660 | 780 |
-| 2024-01-10 | 739,743 | 780 |
+| 2024-01-10 | 739,744 | 780 |
 ## Awards
 Max (Challenging Puzzles): 7,775  (Ranked 53)  
 Sum: 10,150 (Ranked 94)  

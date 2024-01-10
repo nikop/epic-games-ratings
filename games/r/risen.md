@@ -11,7 +11,7 @@ Rating: 4.56 (Ranked 510)
 | Philanthropist | 60.00% | ~112 |
 | Archer | 41.00% | ~76 |
 | The brave little tailor | 40.00% | ~74 |
-| Field hand | 37.00% | ~69 |
+| Field hand | 38.00% | ~71 |
 | Well-to-do | 32.00% | ~60 |
 | Samaritan | 29.00% | ~54 |
 | Ladies' man | 28.00% | ~52 |
@@ -21,15 +21,15 @@ Rating: 4.56 (Ranked 510)
 | Idiot | 22.00% | ~41 |
 | Death of a legend | 19.00% | ~35 |
 | Ogre friend | 19.00% | ~35 |
+| Archaeologist | 18.00% | ~33 |
 | Family man | 17.00% | ~32 |
-| Archaeologist | 17.00% | ~32 |
 | Sidelined | 17.00% | ~32 |
 | Wise man | 16.00% | ~30 |
 | Little hero | 16.00% | ~30 |
 | Hard worker | 16.00% | ~30 |
+| The fourth triplet | 16.00% | ~30 |
 | Fence | 16.00% | ~30 |
 | Ghost hunter | 15.00% | ~28 |
-| The fourth triplet | 15.00% | ~28 |
 | Master detective | 15.00% | ~28 |
 | Pandora's box | 13.00% | ~24 |
 | Peacekeeper | 12.00% | ~22 |

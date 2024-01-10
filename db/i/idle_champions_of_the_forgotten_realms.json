@@ -9457,9 +9457,9 @@
       "Count": 3634
     }
   ],
-  "EOS_Progressed": 253211,
+  "EOS_Progressed": 253218,
   "EOS_Completed": 2610,
-  "EOS_NewPlayers": 2751,
+  "EOS_NewPlayers": 2733,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39522,6 +39522,11 @@
       "Time": "2024-01-10T17:10:19.1634418+00:00",
       "NumProgressed": 253211,
       "NumCompleted": 2610
+    },
+    {
+      "Time": "2024-01-10T18:10:15.3030415+00:00",
+      "NumProgressed": 253218,
+      "NumCompleted": 2610
     }
   ],
   "TotalAchievements": 546,
@@ -39533,7 +39538,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10128
+      "UsersEstimate": 10129
     },
     {
       "ID": "objective_completed_10",
@@ -40397,7 +40402,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "objective_completed_1203",
@@ -41325,7 +41330,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "objective_completed_390",
@@ -41669,7 +41674,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "objective_completed_54",
@@ -42749,7 +42754,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "objective_completed_80",
@@ -43900,21 +43905,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219485,
+      "Progressed": 219492,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253211,
+      "Progressed": 253218,
       "Completed": 2610
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-10T16:58:24.8685969+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:10:19.1634415+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:10:15.3030412+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:58:24.8685974+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:10:19.1658092+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:58:32.9087932+00:00",
+  "LastUpdate_Achievements": "2024-01-10T18:10:15.3055818+00:00"
 }

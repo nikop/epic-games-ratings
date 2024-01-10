@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 365,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -3169,9 +3169,9 @@
       "ID": "ID_05_SONIC1_DEFEAT_MOTORA",
       "SetID": "7o8nc5m",
       "Name": "Beware Moto Bugs!",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 262
     },
     {
       "ID": "ID_06_SONIC1_BREATHING_COUNT",
@@ -3425,8 +3425,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-12-13T19:57:46.4026225+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:10:08.9210812+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:10:04.7092664+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:14.816003+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:57:22.4263238+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:10:08.9211143+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:57:30.3836309+00:00",
+  "LastUpdate_Achievements": "2024-01-10T18:10:04.7093188+00:00"
 }

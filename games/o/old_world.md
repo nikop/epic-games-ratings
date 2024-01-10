@@ -82,6 +82,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 0.50% | ~82 |
 | Power to the People | 0.50% | ~82 |
 | Persian Paganism | 0.50% | ~82 |
+| Economic Reform | 0.50% | ~82 |
 | Points Victory | 0.50% | ~82 |
 | Win a Single Player Game | 0.50% | ~82 |
 | Bad Heir Day | 0.40% | ~65 |
@@ -97,7 +98,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.40% | ~65 |
 | Via Recta Souk | 0.40% | ~65 |
 | Assyrian Paganism | 0.40% | ~65 |
-| Economic Reform | 0.40% | ~65 |
 | Industrial Progress | 0.40% | ~65 |
 | Military Prestige | 0.40% | ~65 |
 | Dualism | 0.40% | ~65 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,362 (Ranked 169)  
+Progressed: 16,364 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -630,7 +630,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
-| 2024-01-10 | 16,362 | 5 |
+| 2024-01-10 | 16,364 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,919 (Ranked 224)  

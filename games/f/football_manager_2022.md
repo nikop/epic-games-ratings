@@ -9,15 +9,15 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Sheet | 50.00% | ~239,554 |
 | He's Signed! | 50.00% | ~239,554 |
 | First Victory | 50.00% | ~239,554 |
-| He's Sold! | 48.00% | ~229,971 |
+| He's Sold! | 48.00% | ~229,972 |
 | I'm The Boss! | 42.00% | ~201,225 |
 | Hat-trick | 41.00% | ~196,434 |
 | Scoring Streak | 38.00% | ~182,061 |
 | Unbeatable! | 37.00% | ~177,270 |
 | Thumping | 37.00% | ~177,270 |
-| Superb Dressing Room Atmosphere | 35.00% | ~167,687 |
-| Total Support | 32.00% | ~153,314 |
-| Record Signing | 32.00% | ~153,314 |
+| Superb Dressing Room Atmosphere | 35.00% | ~167,688 |
+| Total Support | 32.00% | ~153,315 |
+| Record Signing | 32.00% | ~153,315 |
 | He's a Natural | 31.00% | ~148,523 |
 | Millionaire's Club | 31.00% | ~148,523 |
 | Team Performance | 30.00% | ~143,732 |
@@ -41,9 +41,9 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Bill of Health | 22.00% | ~105,404 |
 | What A Goal! | 22.00% | ~105,404 |
 | Cup Glory! | 22.00% | ~105,404 |
-| Irresistible Force | 20.00% | ~95,821 |
-| Excellent Match Cohesion | 20.00% | ~95,821 |
-| Do The Double | 19.00% | ~91,030 |
+| Irresistible Force | 20.00% | ~95,822 |
+| Excellent Match Cohesion | 20.00% | ~95,822 |
+| Do The Double | 19.00% | ~91,031 |
 | Top Form | 17.00% | ~81,448 |
 | Cash To Burn | 17.00% | ~81,448 |
 | Beating Expectations | 16.00% | ~76,657 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~479 |
 | Shoestring Budget | 0.10% | ~479 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479,107 (Ranked 44)  
+Progressed: 479,108 (Ranked 44)  
 Completed: 22 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -370,7 +370,7 @@ Completed: 22 (0.00%) (Ranked 395)
 | 2024-01-07 | 479,004 | 22 |
 | 2024-01-08 | 479,050 | 22 |
 | 2024-01-09 | 479,089 | 22 |
-| 2024-01-10 | 479,107 | 22 |
+| 2024-01-10 | 479,108 | 22 |
 ## Awards
 Max (Relaxing): 6,496  (Ranked 62)  
 Sum: 51,245 (Ranked 30)  

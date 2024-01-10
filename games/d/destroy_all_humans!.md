@@ -6,25 +6,25 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 76.00% | ~329 |
-| Kaijuiced | 71.00% | ~307 |
+| Shop Til They Drop | 76.00% | ~330 |
+| Kaijuiced | 71.00% | ~308 |
 | Lie Back and Think of Albion | 66.00% | ~286 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~273 |
-| I Look Up As I Walk to Takoshima | 59.00% | ~255 |
-| Yettisoned | 58.00% | ~251 |
-| Pimp My Raid | 56.00% | ~242 |
-| Perfect Probulator | 56.00% | ~242 |
+| I Look Up As I Walk to Takoshima | 59.00% | ~256 |
+| Yettisoned | 58.00% | ~252 |
+| Pimp My Raid | 56.00% | ~243 |
+| Perfect Probulator | 56.00% | ~243 |
 | Lobster Blisque | 51.00% | ~221 |
 | Fly Me to the Moon Base | 48.00% | ~208 |
 | Earthly Pleasures | 48.00% | ~208 |
 | Ducks in a Row, Fish in a Barrel | 45.00% | ~195 |
-| Freshly Squeezed | 36.00% | ~156 |
 | Bodied Sattva | 36.00% | ~156 |
 | Forbidden Donut | 35.00% | ~152 |
+| Freshly Squeezed | 35.00% | ~152 |
 | Upgreatest | 35.00% | ~152 |
 | Deincarnated | 29.00% | ~126 |
 | Furon Fashion | 29.00% | ~126 |
-| Rock of the Bay | 28.00% | ~121 |
+| Rock of the Bay | 28.00% | ~122 |
 | Trans-Siberian Express | 24.00% | ~104 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~87 |
 | Arkvoodle Doodle | 18.00% | ~78 |
@@ -47,7 +47,7 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 2.00% | ~9 |
 | Against All Odds | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433 (Ranked 364)  
+Progressed: 434 (Ranked 364)  
 Completed: 5 (1.15%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 5 (1.15%) (Ranked 164)
 | 2024-01-07 | 392 | 5 |
 | 2024-01-08 | 406 | 5 |
 | 2024-01-09 | 424 | 5 |
-| 2024-01-10 | 433 | 5 |
+| 2024-01-10 | 434 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 505)  
 Sum: 35 (Ranked 534)  

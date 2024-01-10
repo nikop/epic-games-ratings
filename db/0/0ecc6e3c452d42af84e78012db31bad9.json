@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4936,
+  "EOS_Progressed": 4937,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -13095,6 +13095,11 @@
       "Time": "2024-01-10T15:04:43.9489915+00:00",
       "NumProgressed": 4936,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2024-01-10T18:04:44.9871266+00:00",
+      "NumProgressed": 4937,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 16,
@@ -13106,7 +13111,7 @@
       "Name": "Colored 10 easy pictures.",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "ach_10_hard_pictures",
@@ -13178,7 +13183,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 3998
+      "UsersEstimate": 3999
     },
     {
       "ID": "ach_food_completed",
@@ -13202,7 +13207,7 @@
       "Name": "Game opened",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3751
+      "UsersEstimate": 3752
     },
     {
       "ID": "ach_magic_wand",
@@ -13233,7 +13238,7 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4936,
+      "Progressed": 4937,
       "Completed": 44
     }
   ],
@@ -13241,8 +13246,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:04:46.414081+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:04:44.9871263+00:00",
   "LastUpdate_AppInfo": "2024-01-05T23:57:03.8408422+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:59:05.8004346+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:04:46.4141746+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:59:14.340282+00:00",
+  "LastUpdate_Achievements": "2024-01-10T18:04:44.98721+00:00"
 }

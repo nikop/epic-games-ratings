@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 742,
+  "EOS_Progressed": 743,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -2608,6 +2608,11 @@
       "Time": "2024-01-10T09:09:53.1504247+00:00",
       "NumProgressed": 742,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-10T18:09:23.1136329+00:00",
+      "NumProgressed": 743,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -2619,7 +2624,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2627,7 +2632,7 @@
       "Name": "Giant Lizard Killer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -2707,7 +2712,7 @@
       "Name": "Training Simulation",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2769,9 +2774,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "7pimpda",
       "Name": "Fashion Connoisseur",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 393
+      "UsersEstimate": 386
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2787,7 +2792,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2875,7 +2880,7 @@
       "Name": "Storm Traveller",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2939,7 +2944,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -2947,7 +2952,7 @@
       "Name": "Flower Thief",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -2955,7 +2960,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -2963,7 +2968,7 @@
       "Name": "Seal Breaker",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -2978,7 +2983,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 742,
+      "Progressed": 743,
       "Completed": 3
     }
   ],
@@ -2986,8 +2991,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-04T13:01:27.5517957+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:09:27.6288706+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:09:23.1136328+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.4482016+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:00:54.3053465+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:09:27.6289171+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:01:03.0935713+00:00",
+  "LastUpdate_Achievements": "2024-01-10T18:09:23.1136911+00:00"
 }

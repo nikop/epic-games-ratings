@@ -1,56 +1,56 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.67 (Ranked 285)  
+Rating: 4.67 (Ranked 286)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~125,224 |
-| The Fool | 11.00% | ~114,789 |
-| Right Back At Ya | 9.00% | ~93,918 |
-| Gun Fu | 9.00% | ~93,918 |
-| The Lovers | 8.00% | ~83,483 |
-| Full Body Conversion | 7.00% | ~73,047 |
-| Stanislavski's Method | 6.00% | ~62,612 |
-| The Wheel of Fortune | 6.00% | ~62,612 |
-| True Soldier | 6.00% | ~62,612 |
-| All the President's Men | 6.00% | ~10,329 |
-| Arachnophobia | 6.00% | ~10,329 |
-| Christmas Tree Attack | 5.00% | ~52,177 |
-| The Hermit | 5.00% | ~52,177 |
-| Life of the Road | 4.00% | ~41,741 |
-| The High Priestess | 4.00% | ~41,741 |
-| True Warrior | 4.00% | ~41,741 |
-| Legend of The Afterlife | 4.00% | ~41,741 |
-| Bushido and Chill | 3.00% | ~31,306 |
-| Master Crafter | 3.00% | ~31,306 |
-| I Am The Law | 3.00% | ~31,306 |
-| The Quick and the Dead | 3.00% | ~31,306 |
-| The World | 3.00% | ~31,306 |
-| Two Heads, One Bullet | 3.00% | ~31,306 |
-| Judy vs Night City | 3.00% | ~31,306 |
-| Relic Ruler | 3.00% | ~5,165 |
-| To Protect and Serve | 2.00% | ~20,871 |
-| The Wandering Fool | 2.00% | ~20,871 |
-| Spin Doctor | 2.00% | ~3,443 |
-| King of Wands | 2.00% | ~3,443 |
-| Easy Come, Easy Go | 2.00% | ~3,443 |
-| To Bad Decisions! | 1.00% | ~10,435 |
-| Breathtaking | 1.00% | ~10,435 |
-| Ten out of Ten | 1.00% | ~10,435 |
-| The Star | 1.00% | ~10,435 |
-| The Sun | 1.00% | ~10,435 |
-| Dirty Deeds | 1.00% | ~1,722 |
-| The APB is Not Enough | 0.90% | ~1,549 |
-| The Tower | 0.90% | ~1,549 |
-| Autojock | 0.80% | ~8,348 |
-| Temperance | 0.80% | ~8,348 |
-| Judgement Day | 0.80% | ~1,377 |
-| King of Swords | 0.80% | ~1,377 |
-| Must Be Rats | 0.70% | ~7,305 |
-| King of Pentacles | 0.70% | ~1,205 |
-| City Lights | 0.40% | ~4,174 |
+| V for Vendetta | 12.00% | ~125,244 |
+| The Fool | 11.00% | ~114,807 |
+| Right Back At Ya | 9.00% | ~93,933 |
+| Gun Fu | 9.00% | ~93,933 |
+| The Lovers | 8.00% | ~83,496 |
+| Full Body Conversion | 7.00% | ~73,059 |
+| Stanislavski's Method | 6.00% | ~62,622 |
+| The Wheel of Fortune | 6.00% | ~62,622 |
+| True Soldier | 6.00% | ~62,622 |
+| All the President's Men | 6.00% | ~10,339 |
+| Arachnophobia | 6.00% | ~10,339 |
+| Christmas Tree Attack | 5.00% | ~52,185 |
+| The Hermit | 5.00% | ~52,185 |
+| Life of the Road | 4.00% | ~41,748 |
+| The High Priestess | 4.00% | ~41,748 |
+| True Warrior | 4.00% | ~41,748 |
+| Legend of The Afterlife | 4.00% | ~41,748 |
+| Bushido and Chill | 3.00% | ~31,311 |
+| Master Crafter | 3.00% | ~31,311 |
+| I Am The Law | 3.00% | ~31,311 |
+| The Quick and the Dead | 3.00% | ~31,311 |
+| The World | 3.00% | ~31,311 |
+| Two Heads, One Bullet | 3.00% | ~31,311 |
+| Judy vs Night City | 3.00% | ~31,311 |
+| Relic Ruler | 3.00% | ~5,170 |
+| To Protect and Serve | 2.00% | ~20,874 |
+| The Wandering Fool | 2.00% | ~20,874 |
+| Spin Doctor | 2.00% | ~3,446 |
+| King of Wands | 2.00% | ~3,446 |
+| Easy Come, Easy Go | 2.00% | ~3,446 |
+| To Bad Decisions! | 1.00% | ~10,437 |
+| Breathtaking | 1.00% | ~10,437 |
+| Ten out of Ten | 1.00% | ~10,437 |
+| The Star | 1.00% | ~10,437 |
+| The Sun | 1.00% | ~10,437 |
+| Dirty Deeds | 1.00% | ~1,723 |
+| The APB is Not Enough | 0.90% | ~1,551 |
+| The Tower | 0.90% | ~1,551 |
+| Autojock | 0.80% | ~8,350 |
+| Temperance | 0.80% | ~8,350 |
+| Judgement Day | 0.80% | ~1,379 |
+| King of Swords | 0.80% | ~1,379 |
+| Must Be Rats | 0.70% | ~7,306 |
+| King of Pentacles | 0.70% | ~1,206 |
+| City Lights | 0.40% | ~4,175 |
 | King of Cups | 0.40% | ~689 |
 | Gunslinger | 0.30% | ~3,131 |
 | Mean Streets | 0.30% | ~3,131 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,043,534 (Ranked 17)  
+Progressed: 1,043,700 (Ranked 17)  
 Completed: 3,067 (0.29%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 3,067 (0.29%) (Ranked 258)
 | 2024-01-07 | 1,033,429 | 3,045 |
 | 2024-01-08 | 1,037,015 | 3,051 |
 | 2024-01-09 | 1,040,592 | 3,059 |
-| 2024-01-10 | 1,043,534 | 3,067 |
+| 2024-01-10 | 1,043,700 | 3,067 |
 ## Awards
 Max (Character Customization): 136,182  (Ranked 8)  
 Sum: 481,046 (Ranked 8)  

@@ -39,11 +39,11 @@ Rating: 4.09 (Ranked 1,020)
 | Relic Of The Past | 8.00% | ~350 |
 | Scroll Master | 8.00% | ~350 |
 | Four Leaf Clover | 7.00% | ~306 |
+| Here We Go Again | 7.00% | ~306 |
 | Master Enchanter | 7.00% | ~306 |
 | The father of Dragons | 7.00% | ~306 |
 | Trader | 7.00% | ~306 |
 | Dragon Slayer | 6.00% | ~262 |
-| Here We Go Again | 6.00% | ~262 |
 | The Expeditioner | 6.00% | ~262 |
 | Weekly Quest Completionist | 6.00% | ~262 |
 | Blueprint Upgrades | 5.00% | ~219 |

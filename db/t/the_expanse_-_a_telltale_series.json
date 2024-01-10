@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -337,7 +337,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18801,
+  "EOS_Progressed": 18804,
   "EOS_Completed": 61,
   "EOS_NewPlayers": 687,
   "EOS_NewCompleters": 3,
@@ -16942,6 +16942,11 @@
       "Time": "2024-01-10T17:08:20.7094657+00:00",
       "NumProgressed": 18801,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-10T18:08:17.0671602+00:00",
+      "NumProgressed": 18804,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16970,7 +16975,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "12",
@@ -16986,7 +16991,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3384
+      "UsersEstimate": 3385
     },
     {
       "ID": "14",
@@ -17034,7 +17039,7 @@
       "Name": "Martian Music",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "2",
@@ -17106,7 +17111,7 @@
       "Name": "Bosmang",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "28",
@@ -17130,7 +17135,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2820
+      "UsersEstimate": 2821
     },
     {
       "ID": "30",
@@ -17162,7 +17167,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "7",
@@ -17186,7 +17191,7 @@
       "Name": "Impossible Objects",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "31",
@@ -17194,7 +17199,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "32",
@@ -17233,22 +17238,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18801,
+      "Progressed": 18804,
       "Completed": 61
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4755,
-      "Completed": 1274
+      "Progressed": 4758,
+      "Completed": 1275
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-08T14:59:15.8971936+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:08:20.7094652+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:08:17.0671599+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:59:53.9068947+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:08:20.7095536+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:00:01.1973216+00:00",
+  "LastUpdate_Achievements": "2024-01-10T18:08:17.0672699+00:00"
 }

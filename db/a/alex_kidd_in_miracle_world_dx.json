@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 438,
+  "EOS_Progressed": 439,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -1009,6 +1009,11 @@
       "Time": "2024-01-10T14:08:13.3706039+00:00",
       "NumProgressed": 438,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-10T18:06:35.1209438+00:00",
+      "NumProgressed": 439,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -1068,15 +1073,15 @@
       "Name": "First Commander",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "GRIZZLY_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Assailants",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 105
+      "UsersEstimate": 101
     },
     {
       "ID": "JANKEN_DEFEATED",
@@ -1084,7 +1089,7 @@
       "Name": "Janken The Great",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "LEVEL_04",
@@ -1132,7 +1137,7 @@
       "Name": "Overwhelmed Beast",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "TELEPATHY_BALL_OBTAINED",
@@ -1140,14 +1145,14 @@
       "Name": "Magic Ball",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     }
   ],
   "AchievementSets": [
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 438,
+      "Progressed": 439,
       "Completed": 4
     }
   ],
@@ -1155,8 +1160,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:06:37.5119949+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:06:35.1209436+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:23.883052+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:00:27.6680454+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:06:37.5120123+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:00:36.0647535+00:00",
+  "LastUpdate_Achievements": "2024-01-10T18:06:35.1209626+00:00"
 }

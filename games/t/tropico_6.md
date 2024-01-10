@@ -6,8 +6,8 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~5,155 |
-| Un-Lonely Island | 44.00% | ~3,107 |
+| Just One...More...Term... | 73.00% | ~5,156 |
+| Un-Lonely Island | 44.00% | ~3,108 |
 | The Beginning of a Servantship | 43.00% | ~3,037 |
 | Trade Is My Trait | 35.00% | ~2,472 |
 | Number 18 | 23.00% | ~1,624 |
@@ -44,10 +44,10 @@ Number of Ratings: 398  (23.09.2022)
 | Curse of the Mummy | 2.00% | ~141 |
 | Chain Gang | 1.00% | ~71 |
 | From Knight to Little Duck | 1.00% | ~71 |
-| Survivor | 0.80% | ~56 |
+| Survivor | 0.80% | ~57 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,062 (Ranked 197)  
+Progressed: 7,063 (Ranked 197)  
 Completed: 2 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 2 (0.03%) (Ranked 354)
 | 2024-01-07 | 6,998 | 2 |
 | 2024-01-08 | 7,016 | 2 |
 | 2024-01-09 | 7,043 | 2 |
-| 2024-01-10 | 7,062 | 2 |
+| 2024-01-10 | 7,063 | 2 |
 ## Awards
 Max (Highly Recommended): 106  (Ranked 372)  
 Sum: 758 (Ranked 304)  

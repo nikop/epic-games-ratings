@@ -6,7 +6,7 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 42.00% | ~95 |
+| Entrepreneur | 43.00% | ~98 |
 | Best Buddy | 35.00% | ~79 |
 | Civilian | 34.00% | ~77 |
 | Role Model | 29.00% | ~66 |
@@ -36,8 +36,8 @@ Number of Ratings: 124  (23.09.2022)
 | Weaponsmith | 5.00% | ~11 |
 | Cleric | 5.00% | ~11 |
 | Alchemist | 4.00% | ~9 |
+| Self-Sufficient | 4.00% | ~9 |
 | Unbreakable | 4.00% | ~9 |
-| Self-Sufficient | 3.00% | ~7 |
 | Morkon | 3.00% | ~7 |
 | Legendary | 3.00% | ~7 |
 | Idealist | 2.00% | ~5 |

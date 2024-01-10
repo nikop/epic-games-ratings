@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 952,
+  "EOS_Progressed": 953,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -3420,6 +3420,11 @@
       "Time": "2024-01-10T17:04:11.4532447+00:00",
       "NumProgressed": 952,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-10T18:04:09.2285057+00:00",
+      "NumProgressed": 953,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -3454,17 +3459,17 @@
       "ID": "achievement_12",
       "SetID": "7ldgi7j",
       "Name": "From Way Downtown",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 524
+      "UsersEstimate": 515
     },
     {
       "ID": "achievement_13",
       "SetID": "7ldgi7j",
       "Name": "Competitor\u0027s Spirit",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 314
     },
     {
       "ID": "achievement_14",
@@ -3488,7 +3493,7 @@
       "Name": "Star Power",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "achievement_17",
@@ -3520,7 +3525,7 @@
       "Name": "A Passion for Excellence",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "achievement_4",
@@ -3528,7 +3533,7 @@
       "Name": "From Many, One",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "achievement_5",
@@ -3568,20 +3573,20 @@
       "Name": "Ace in the Hole",
       "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 952,
+      "Progressed": 953,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:04:11.4532443+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:04:09.2285054+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.2920939+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:57:29.2622863+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:04:11.4532821+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:57:37.3245497+00:00",
+  "LastUpdate_Achievements": "2024-01-10T18:04:09.2285314+00:00"
 }

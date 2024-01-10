@@ -1508,9 +1508,9 @@
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
       "SetID": "caeik3h",
       "Name": "I am Iron Man",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 241
+      "UsersEstimate": 244
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
@@ -2033,8 +2033,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:07:06.6115218+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:08:13.9476303+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.7688835+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:00:28.319478+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:07:06.6116145+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:00:36.7257266+00:00",
+  "LastUpdate_Achievements": "2024-01-10T18:08:13.9477058+00:00"
 }

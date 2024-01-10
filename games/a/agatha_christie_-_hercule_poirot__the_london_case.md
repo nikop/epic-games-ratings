@@ -11,8 +11,8 @@
 | An old friend | 55.00% | ~60 |
 | The Gala | 54.00% | ~59 |
 | A curious gathering | 51.00% | ~56 |
-| Little grey cells | 49.00% | ~53 |
-| Impossible is possible | 48.00% | ~52 |
+| Little grey cells | 50.00% | ~54 |
+| Impossible is possible | 49.00% | ~53 |
 | Arthur Hastings | 48.00% | ~52 |
 | The Missing Magdalene | 47.00% | ~51 |
 | Everything matters | 42.00% | ~46 |
@@ -25,13 +25,13 @@
 | Ms. Camilla B. Culsham | 31.00% | ~34 |
 | An odd series of events | 30.00% | ~33 |
 | The Apartment | 30.00% | ~33 |
+| Nathaniel Dryden | 29.00% | ~32 |
 | A rude awakening | 28.00% | ~31 |
-| Nathaniel Dryden | 28.00% | ~31 |
 | Bartholomew | 28.00% | ~31 |
-| Well-acquainted | 25.00% | ~27 |
-| Anastasia Babanin | 25.00% | ~27 |
-| The Scheme | 25.00% | ~27 |
-| Zakariya Demir | 24.00% | ~26 |
+| Well-acquainted | 26.00% | ~28 |
+| Anastasia Babanin | 26.00% | ~28 |
+| The Scheme | 26.00% | ~28 |
+| Zakariya Demir | 25.00% | ~27 |
 | Truth from within | 23.00% | ~25 |
 | A curious phrase | 20.00% | ~22 |
 | Evelyn Lakshmi Warbeck | 20.00% | ~22 |

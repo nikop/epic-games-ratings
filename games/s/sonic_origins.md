@@ -26,8 +26,8 @@ Number of Ratings: 154  (23.09.2022)
 | Beware Stingers! | 39.00% | ~269 |
 | Museum Time | 39.00% | ~269 |
 | Very First Mission Clear! | 39.00% | ~269 |
+| Beware Moto Bugs! | 38.00% | ~262 |
 | Cleared Sonic the Hedgehog 2 | 38.00% | ~262 |
-| Beware Moto Bugs! | 37.00% | ~255 |
 | Cleared Sonic CD | 36.00% | ~248 |
 | Cleared Sonic the Hedgehog 3 & Knuckles | 33.00% | ~227 |
 | Lucky Hedgehog | 29.00% | ~200 |

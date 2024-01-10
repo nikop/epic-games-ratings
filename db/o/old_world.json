@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2238,9 +2238,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16362,
+  "EOS_Progressed": 16364,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19513,6 +19513,11 @@
       "Time": "2024-01-10T17:10:18.7097888+00:00",
       "NumProgressed": 16362,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-10T18:10:14.5252805+00:00",
+      "NumProgressed": 16364,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21458,9 +21463,9 @@
       "ID": "ACHIEVEMENT_TECH_ECONOMIC_REFORM",
       "SetID": "9201eeb",
       "Name": "Economic Reform",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
@@ -22387,21 +22392,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16362,
+      "Progressed": 16364,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16362,
+      "Progressed": 16364,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-09T22:57:23.2402519+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:10:18.7097883+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:10:14.5252802+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:57:39.056206+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:10:18.7107846+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:57:46.4912921+00:00",
+  "LastUpdate_Achievements": "2024-01-10T18:10:14.5262948+00:00"
 }

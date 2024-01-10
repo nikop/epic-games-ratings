@@ -4,7 +4,7 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 428,
+  "Ranking_EOS_NewPlayers": 421,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 294,
+  "EOS_Progressed": 295,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.2,
+  "EOS_Completed_Percentage": 10.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -825,6 +825,11 @@
       "Time": "2024-01-10T17:09:51.2508916+00:00",
       "NumProgressed": 294,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-10T18:09:46.8553294+00:00",
+      "NumProgressed": 295,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 17,
@@ -836,7 +841,7 @@
       "Name": "And away we go!",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "bless_the_rain",
@@ -860,15 +865,15 @@
       "Name": "Brown nosing",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "cheat",
       "SetID": "202dmm8",
       "Name": "Cheat",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 80
     },
     {
       "ID": "delusions",
@@ -876,7 +881,7 @@
       "Name": "Delusions",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "dont_fear_the_baldness",
@@ -900,7 +905,7 @@
       "Name": "Job one. DONE!",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "just_like_me",
@@ -924,7 +929,7 @@
       "Name": "Prove it",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "sorry_kiddo",
@@ -932,7 +937,7 @@
       "Name": "Sorry, kiddo",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "the_truth",
@@ -940,7 +945,7 @@
       "Name": "The truth",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "the_whole_truth",
@@ -971,7 +976,7 @@
     {
       "ID": "202dmm8",
       "IsBase": true,
-      "Progressed": 294,
+      "Progressed": 295,
       "Completed": 30
     }
   ],
@@ -979,8 +984,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:09:51.2508913+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:09:46.8553291+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:34.6655092+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:58:44.0544412+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:09:51.2509097+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:58:50.7431891+00:00",
+  "LastUpdate_Achievements": "2024-01-10T18:09:46.8553484+00:00"
 }

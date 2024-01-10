@@ -15,12 +15,12 @@
 | Tough Decision | 19.00% | ~29 |
 | Veteran Sniper | 18.00% | ~28 |
 | The Neuro-connector | 18.00% | ~28 |
+| Full and Final Settlement | 16.00% | ~24 |
 | Unstoppable | 16.00% | ~24 |
 | Flatline | 16.00% | ~24 |
 | Mind Over Matter | 16.00% | ~24 |
-| Full and Final Settlement | 15.00% | ~23 |
 | One Click Away | 15.00% | ~23 |
-| Cyborg | 10.00% | ~15 |
+| Cyborg | 11.00% | ~17 |
 | Lifter | 8.00% | ~12 |
 | Brain-hacker | 8.00% | ~12 |
 | Gravity Bender | 7.00% | ~11 |

@@ -6,14 +6,14 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,568 |
+| Devoured by Darkness | 27.00% | ~3,569 |
 | A Spark | 20.00% | ~2,643 |
 | Burning City | 19.00% | ~2,511 |
-| Defender's Heart | 16.00% | ~2,114 |
-| Mythic Choices | 15.00% | ~1,982 |
+| Defender's Heart | 16.00% | ~2,115 |
+| Mythic Choices | 15.00% | ~1,983 |
 | Banner over the Citadel | 14.00% | ~1,850 |
 | Queen's Gratitude | 13.00% | ~1,718 |
-| Fifth Crusade | 9.00% | ~1,189 |
+| Fifth Crusade | 9.00% | ~1,190 |
 | Embrace of the Abyss | 7.00% | ~925 |
 | Path of the Angel | 7.00% | ~925 |
 | Demonic and Divine | 7.00% | ~925 |
@@ -30,11 +30,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Reinforcements | 4.00% | ~529 |
 | A Flame | 4.00% | ~529 |
 | Hey, I Know You! | 4.00% | ~529 |
-| Path of the Trickster | 3.00% | ~396 |
-| Path of the Lich | 3.00% | ~396 |
-| Heroic Victory | 3.00% | ~396 |
-| Capitulation Is Now Moot | 3.00% | ~396 |
-| Core of the Riddle | 3.00% | ~396 |
+| Path of the Trickster | 3.00% | ~397 |
+| Path of the Lich | 3.00% | ~397 |
+| Heroic Victory | 3.00% | ~397 |
+| Capitulation Is Now Moot | 3.00% | ~397 |
+| Core of the Riddle | 3.00% | ~397 |
 | Hanged Man's Notes | 3.00% | ~360 |
 | Sarkoris Will Be Green | 3.00% | ~360 |
 | The Lady of the Forest | 3.00% | ~360 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,215 (Ranked 176)  
+Progressed: 13,217 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -388,7 +388,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 13,129 | 0 |
 | 2024-01-08 | 13,155 | 0 |
 | 2024-01-09 | 13,184 | 0 |
-| 2024-01-10 | 13,215 | 0 |
+| 2024-01-10 | 13,217 | 0 |
 ## Awards
 Max (Character Customization): 1,780  (Ranked 129)  
 Sum: 7,211 (Ranked 127)  

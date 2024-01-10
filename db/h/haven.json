@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -189,7 +189,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1949,
+  "EOS_Progressed": 1950,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
@@ -3544,6 +3544,11 @@
       "Time": "2024-01-10T17:04:19.6114799+00:00",
       "NumProgressed": 1949,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-10T18:04:17.2849064+00:00",
+      "NumProgressed": 1950,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3617,9 +3622,9 @@
       "ID": "17",
       "SetID": "n50no0",
       "Name": "Balding bloot!",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1384
     },
     {
       "ID": "18",
@@ -3715,7 +3720,7 @@
       "Name": "Hug therapy",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "30",
@@ -3731,7 +3736,7 @@
       "Name": "\u00C0 la carte",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "32",
@@ -3755,7 +3760,7 @@
       "Name": "An eye for an eye",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "6",
@@ -3794,15 +3799,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1949,
+      "Progressed": 1950,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:04:19.6114791+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:04:17.284906+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.2496519+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:59:13.0330855+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:04:19.6115294+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:59:21.4463326+00:00",
+  "LastUpdate_Achievements": "2024-01-10T18:04:17.2849499+00:00"
 }

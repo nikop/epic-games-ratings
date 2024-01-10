@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -305,9 +305,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 433,
+  "EOS_Progressed": 434,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
@@ -1755,6 +1755,11 @@
       "Time": "2024-01-10T14:05:23.8438527+00:00",
       "NumProgressed": 433,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-10T18:04:14.3829289+00:00",
+      "NumProgressed": 434,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1807,7 +1812,7 @@
       "Name": "Yettisoned",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -1831,7 +1836,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -1839,15 +1844,15 @@
       "Name": "Rock of the Bay",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_ABILITY_TRANSMOG",
       "SetID": "cefn62b",
       "Name": "Freshly Squeezed",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_ABILITY_WITHWEAPON",
@@ -1927,7 +1932,7 @@
       "Name": "Kaijuiced",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -1999,7 +2004,7 @@
       "Name": "Pimp My Raid",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -2015,7 +2020,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -2063,7 +2068,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2086,15 +2091,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 433,
+      "Progressed": 434,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:04:16.5525484+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:04:14.3829286+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:15.0942873+00:00",
   "LastUpdate_Ratings": "2024-01-10T17:02:42.2247465+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:04:16.5525937+00:00"
+  "LastUpdate_Achievements": "2024-01-10T18:04:14.3829602+00:00"
 }

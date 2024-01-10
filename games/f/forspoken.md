@@ -5,8 +5,8 @@ Rating: 4.16 (Ranked 991)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 13.00% | ~6,111 |
-| Unlocked Potential | 11.00% | ~5,171 |
+| Attachments | 13.00% | ~6,112 |
+| Unlocked Potential | 11.00% | ~5,172 |
 | Tinkerer | 9.00% | ~4,231 |
 | Knock 'Em Dead | 8.00% | ~3,761 |
 | Pilgrimage: Initiate | 8.00% | ~3,761 |
@@ -15,10 +15,10 @@ Rating: 4.16 (Ranked 991)
 | Call of the Fount: Baptized | 7.00% | ~3,291 |
 | No Mercy | 6.00% | ~2,821 |
 | Explorer: Seeker | 6.00% | ~2,821 |
-| Through the Eyes of Another: Empath | 5.00% | ~2,350 |
-| Stuck | 5.00% | ~2,350 |
-| Help Me Out Here | 5.00% | ~2,350 |
-| The Interloper | 4.00% | ~1,880 |
+| Through the Eyes of Another: Empath | 5.00% | ~2,351 |
+| Stuck | 5.00% | ~2,351 |
+| Help Me Out Here | 5.00% | ~2,351 |
+| The Interloper | 4.00% | ~1,881 |
 | Outdoorsperson | 3.00% | ~1,410 |
 | Hop, Step, Jump | 3.00% | ~1,410 |
 | Endless Runner | 3.00% | ~1,410 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 991)
 | Remembrance | 0.10% | ~47 |
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,010 (Ranked 125)  
+Progressed: 47,014 (Ranked 126)  
 Completed: 4 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 4 (0.01%) (Ranked 372)
 | 2024-01-07 | 46,730 | 4 |
 | 2024-01-08 | 46,825 | 4 |
 | 2024-01-09 | 46,925 | 4 |
-| 2024-01-10 | 47,010 | 4 |
+| 2024-01-10 | 47,014 | 4 |
 ## Awards
 Max (Character Customization): 47  (Ranked 465)  
 Sum: 69 (Ranked 492)  

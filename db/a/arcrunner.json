@@ -2,9 +2,9 @@
   "ID": "4d96a32c1e5b49c3adccbcfa6deed873",
   "Name": "ArcRunner",
   "ProductSlug": "arcrunner-61fee6",
-  "Ranking_EOS_Progress": 300,
+  "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 941,
+  "EOS_Progressed": 944,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2276,6 +2276,11 @@
       "Time": "2024-01-10T17:09:43.657782+00:00",
       "NumProgressed": 941,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T18:09:39.1747567+00:00",
+      "NumProgressed": 944,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -2287,7 +2292,7 @@
       "Name": "Augmented",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -2295,7 +2300,7 @@
       "Name": "The Bigger They Are",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHV_CHALLENGEACCEPTED",
@@ -2303,7 +2308,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
@@ -2319,7 +2324,7 @@
       "Name": "The City",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACHV_CYBERNETIC",
@@ -2359,7 +2364,7 @@
       "Name": "Eden Heights",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHV_FULLYMODDED",
@@ -2397,9 +2402,9 @@
       "ID": "ACHV_NANONIC1",
       "SetID": "cceobco",
       "Name": "Nanonic I",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 264
     },
     {
       "ID": "ACHV_NANONIC2",
@@ -2407,15 +2412,15 @@
       "Name": "Nanonic II",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACHV_NANONIC3",
       "SetID": "cceobco",
       "Name": "Nanonic III",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 104
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHV_OUTERCORE",
@@ -2455,7 +2460,7 @@
       "Name": "Terminated I",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACHV_TERMINATED2",
@@ -2463,7 +2468,7 @@
       "Name": "Terminated II",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACHV_TERMINATED3",
@@ -2487,7 +2492,7 @@
       "Name": "Unlocked and Loaded",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -2518,13 +2523,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 941,
+      "Progressed": 944,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 367,
+      "Progressed": 370,
       "Completed": 3
     }
   ],
@@ -2532,8 +2537,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:09:43.6577813+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:09:39.1747563+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:44.3239042+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:00:04.5612332+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:09:43.6578267+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:00:12.3557673+00:00",
+  "LastUpdate_Achievements": "2024-01-10T18:09:39.1747969+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1926,
+  "EOS_Progressed": 1930,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4907,6 +4907,11 @@
       "Time": "2024-01-10T16:06:53.3543724+00:00",
       "NumProgressed": 1926,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T18:05:59.0195664+00:00",
+      "NumProgressed": 1930,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4919,7 +4924,7 @@
       "Name": "Rookie",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4935,7 +4940,7 @@
       "Name": "Out of control",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -5005,9 +5010,9 @@
       "ID": "ML_ACHIEVEMENT_12",
       "SetID": "5k00jcd",
       "Name": "Immortal",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 58
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -5119,7 +5124,7 @@
       "Name": "The Nitro Bot",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -5175,7 +5180,7 @@
       "Name": "Spin the wheel",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -5286,20 +5291,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1926,
+      "Progressed": 1930,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1594,
+      "Progressed": 1598,
       "Completed": 1012
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:06:00.9152281+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:05:59.0195662+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:58:58.007914+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:06:00.9152942+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:59:06.5853317+00:00",
+  "LastUpdate_Achievements": "2024-01-10T18:05:59.0196131+00:00"
 }

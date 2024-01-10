@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1069,9 +1069,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9877,
+  "EOS_Progressed": 9878,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10954,6 +10954,11 @@
       "Time": "2024-01-10T17:09:26.7420814+00:00",
       "NumProgressed": 9877,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-10T18:09:22.206319+00:00",
+      "NumProgressed": 9878,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10973,7 +10978,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 1975
+      "UsersEstimate": 1976
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -11029,7 +11034,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1975
+      "UsersEstimate": 1976
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -11117,7 +11122,7 @@
       "Name": "Machiavelli",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -11293,7 +11298,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4938
+      "UsersEstimate": 4939
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -11317,14 +11322,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 5037
+      "UsersEstimate": 5038
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9877,
+      "Progressed": 9878,
       "Completed": 10
     }
   ],
@@ -11332,8 +11337,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-06T21:59:00.913352+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:09:26.7420811+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:09:22.2063185+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:05.1405641+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:00:09.9141605+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:09:26.7421813+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:00:17.8776441+00:00",
+  "LastUpdate_Achievements": "2024-01-10T18:09:22.2063998+00:00"
 }

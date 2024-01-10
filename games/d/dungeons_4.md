@@ -39,7 +39,7 @@ Rating: 4.75 (Ranked 146)
 | Master of the Undead | 36.00% | ~272 |
 | The Finitude Drill | 34.00% | ~257 |
 | Ghost Pirates? Ghost Heroes! | 31.00% | ~234 |
-| Doom Hill | 30.00% | ~226 |
+| Doom Hill | 31.00% | ~234 |
 | Forbidden Knowledge | 29.00% | ~219 |
 | Brimstone Shaken, Not Stirred | 29.00% | ~219 |
 | Hungry, Hungry Gorgu! | 28.00% | ~211 |

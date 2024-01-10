@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2840,
+  "EOS_Progressed": 2844,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7694,6 +7694,11 @@
       "Time": "2024-01-10T17:10:14.8313164+00:00",
       "NumProgressed": 2840,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T18:10:10.9750926+00:00",
+      "NumProgressed": 2844,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7738,7 +7743,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "achievement_14",
@@ -7802,7 +7807,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "achievement_21",
@@ -7810,7 +7815,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_22",
@@ -7898,7 +7903,7 @@
       "Name": "Scrap collector",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "achievement_32",
@@ -7922,7 +7927,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_35",
@@ -7930,7 +7935,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2442
+      "UsersEstimate": 2446
     },
     {
       "ID": "achievement_36",
@@ -7946,7 +7951,7 @@
       "Name": "Off to a good start",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1735
     },
     {
       "ID": "achievement_38",
@@ -7978,7 +7983,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1479
     },
     {
       "ID": "achievement_41",
@@ -8010,7 +8015,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "achievement_45",
@@ -8146,7 +8151,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "achievement_60",
@@ -8160,9 +8165,9 @@
       "ID": "achievement_61",
       "SetID": "cemm4l8",
       "Name": "The circle is now complete",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 90,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_62",
@@ -8186,15 +8191,15 @@
       "Name": "A cunning warrior",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "achievement_8",
       "SetID": "271ol84",
       "Name": "Don\u0027t underestimate the Force",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 85
+      "UsersEstimate": 57
     },
     {
       "ID": "achievement_9",
@@ -8209,13 +8214,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2840,
+      "Progressed": 2844,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2840,
+      "Progressed": 2844,
       "Completed": 1
     }
   ],
@@ -8223,8 +8228,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:10:14.8313159+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:10:10.9750924+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:59:35.1489772+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:10:14.831448+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:59:43.4525751+00:00",
+  "LastUpdate_Achievements": "2024-01-10T18:10:10.9751682+00:00"
 }

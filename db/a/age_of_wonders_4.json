@@ -759,7 +759,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7158,
+  "EOS_Progressed": 7163,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 0,
@@ -10974,6 +10974,11 @@
       "Time": "2024-01-10T17:06:25.269999+00:00",
       "NumProgressed": 7158,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-10T18:06:22.9886078+00:00",
+      "NumProgressed": 7163,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10985,7 +10990,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "10",
@@ -11033,7 +11038,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "16",
@@ -11073,7 +11078,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "20",
@@ -11105,7 +11110,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "24",
@@ -11113,7 +11118,7 @@
       "Name": "Secret Technique",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "25",
@@ -11121,7 +11126,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "26",
@@ -11137,7 +11142,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "28",
@@ -11145,7 +11150,7 @@
       "Name": "From Friends to Family",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "29",
@@ -11177,7 +11182,7 @@
       "Name": "Magical Synergy",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "32",
@@ -11201,7 +11206,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "35",
@@ -11217,7 +11222,7 @@
       "Name": "Fiery Friend",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "37",
@@ -11225,7 +11230,7 @@
       "Name": "Against the Odds",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "38",
@@ -11241,7 +11246,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "4",
@@ -11257,7 +11262,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "41",
@@ -11464,13 +11469,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7158,
+      "Progressed": 7163,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7158,
+      "Progressed": 7163,
       "Completed": 7
     }
   ],
@@ -11478,8 +11483,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-10T06:57:43.8261312+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:06:25.2699985+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:06:22.9886074+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:57:56.9502841+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:06:25.2701163+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:58:03.9325603+00:00",
+  "LastUpdate_Achievements": "2024-01-10T18:06:22.98871+00:00"
 }

@@ -12,8 +12,8 @@
 | A continent with chemistry | 29.00% | ~26 |
 | The happy farmer girl | 27.00% | ~24 |
 | Giant | 24.00% | ~22 |
+| A rival with no options | 24.00% | ~22 |
 | Pulp! Terror Tales in the Night | 24.00% | ~22 |
-| A rival with no options | 23.00% | ~21 |
 | Pulp! Out of this World | 22.00% | ~20 |
 | Diagnosis: fear | 22.00% | ~20 |
 | Ambition is... blind | 22.00% | ~20 |
@@ -39,7 +39,7 @@
 | Pulp! True Adventures | 10.00% | ~9 |
 | ECO mode | 10.00% | ~9 |
 | America had no Faith | 10.00% | ~9 |
-| The barbarian invasions | 8.00% | ~7 |
+| The barbarian invasions | 9.00% | ~8 |
 | Vaccine fans | 7.00% | ~6 |
 | A new Hindenburg | 7.00% | ~6 |
 | Pulp! Tales from the Crypt | 4.00% | ~4 |

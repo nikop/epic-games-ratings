@@ -703,9 +703,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12155,
+  "EOS_Progressed": 12157,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 710,
+  "EOS_NewPlayers": 704,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15413,6 +15413,11 @@
       "Time": "2024-01-10T17:06:32.1452585+00:00",
       "NumProgressed": 12155,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2024-01-10T18:06:29.7937205+00:00",
+      "NumProgressed": 12157,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 29,
@@ -15424,7 +15429,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10089
+      "UsersEstimate": 10090
     },
     {
       "ID": "ACH02",
@@ -15446,9 +15451,9 @@
       "ID": "ACH04",
       "SetID": "552d41m",
       "Name": "Disposing of the Evidence",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4619
+      "UsersEstimate": 4741
     },
     {
       "ID": "ACH05",
@@ -15464,7 +15469,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 2309
+      "UsersEstimate": 2310
     },
     {
       "ID": "ACH07",
@@ -15496,7 +15501,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 3403
+      "UsersEstimate": 3404
     },
     {
       "ID": "ACH11",
@@ -15528,7 +15533,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2066
+      "UsersEstimate": 2067
     },
     {
       "ID": "ACH15",
@@ -15544,7 +15549,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3160
+      "UsersEstimate": 3161
     },
     {
       "ID": "ACH17",
@@ -15655,7 +15660,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12155,
+      "Progressed": 12157,
       "Completed": 84
     }
   ],
@@ -15663,8 +15668,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-08T18:02:03.5351927+00:00",
-  "LastChanged_Achievements": "2024-01-10T17:06:32.145258+00:00",
+  "LastChanged_Achievements": "2024-01-10T18:06:29.7937202+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.653696+00:00",
-  "LastUpdate_Ratings": "2024-01-10T16:57:43.2489184+00:00",
-  "LastUpdate_Achievements": "2024-01-10T17:06:32.1453793+00:00"
+  "LastUpdate_Ratings": "2024-01-10T17:57:50.5966013+00:00",
+  "LastUpdate_Achievements": "2024-01-10T18:06:29.7938218+00:00"
 }
