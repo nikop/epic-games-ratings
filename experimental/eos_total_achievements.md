@@ -50,6 +50,7 @@
 | [Fallout: New Vegas](../games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 75 | 1,655 |
 | [Firestone Online Idle RPG](../games/f/firestone_online_idle_rpg.md) | 75 | 1,000 |
 | [Iratus: Lord of the Dead](../games/i/iratus__lord_of_the_dead.md) | 75 | 1,000 |
+| [The Walking Dead No Man's Land](../games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 75 | 1,000 |
 | [NEXUS](../games/1/17ef2e993267472eacb83202c50d41e4.md) | 74 | 1,000 |
 | [Quest Hunter](../games/b/b72f5f79f855471e9691ff22e4967656.md) | 74 | 1,110 |
 | [Shotgun Farmers](../games/s/shotgun_farmers.md) | 74 | 1,150 |
