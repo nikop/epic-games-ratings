@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 396,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -347,7 +347,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4145,
+  "EOS_Progressed": 4147,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
@@ -8377,6 +8377,11 @@
       "Time": "2024-01-10T21:05:46.6240862+00:00",
       "NumProgressed": 4145,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T22:05:57.7896583+00:00",
+      "NumProgressed": 4147,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8388,7 +8393,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "ACH_BASE_10",
@@ -8468,7 +8473,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "ACH_BASE_21",
@@ -8476,7 +8481,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "ACH_BASE_22",
@@ -8500,7 +8505,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "ACH_BASE_25",
@@ -8524,7 +8529,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACH_BASE_28",
@@ -8556,7 +8561,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACH_BASE_31",
@@ -8596,7 +8601,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACH_BASE_36",
@@ -8772,7 +8777,7 @@
       "Name": "Hope Seeker",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "ACH_BASE_60",
@@ -8843,13 +8848,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2329,
+      "Progressed": 2331,
       "Completed": 11
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4145,
+      "Progressed": 4147,
       "Completed": 0
     }
   ],
@@ -8857,8 +8862,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-10T09:57:46.399395+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:05:46.6240859+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:05:57.789658+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:25.5201636+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:57:44.3971707+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:05:46.6241692+00:00"
+  "LastUpdate_Ratings": "2024-01-10T21:57:48.9500251+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:05:57.7897342+00:00"
 }

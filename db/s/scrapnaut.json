@@ -5,10 +5,10 @@
   "Ranking_Rating": 883,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 334,
+  "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -156,7 +156,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 657,
+  "EOS_Progressed": 658,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
@@ -2286,6 +2286,11 @@
       "Time": "2024-01-10T17:09:25.8552281+00:00",
       "NumProgressed": 657,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-10T22:09:24.5693883+00:00",
+      "NumProgressed": 658,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -2327,9 +2332,9 @@
       "ID": "ACH_COLLECT_100_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Master",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 230
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -2337,7 +2342,7 @@
       "Name": "Herbalist",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_COLLECT_10_MUSHROOMS",
@@ -2409,7 +2414,7 @@
       "Name": "Lumberjack",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -2433,7 +2438,7 @@
       "Name": "My New Home",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACH_KILL_100",
@@ -2441,7 +2446,7 @@
       "Name": "Robot Hunter",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_KILL_20",
@@ -2457,7 +2462,7 @@
       "Name": "Robot Destroyer",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
@@ -2544,7 +2549,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 657,
+      "Progressed": 658,
       "Completed": 4
     }
   ],
@@ -2552,8 +2557,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:09:16.7437091+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:09:24.5693881+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2095998+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:57:44.7703774+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:09:16.7437504+00:00"
+  "LastUpdate_Ratings": "2024-01-10T21:57:49.3367365+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:09:24.5694208+00:00"
 }

@@ -1861,9 +1861,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167583,
+  "EOS_Progressed": 167588,
   "EOS_Completed": 454,
-  "EOS_NewPlayers": 1265,
+  "EOS_NewPlayers": 1262,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22601,6 +22601,11 @@
       "Time": "2024-01-10T21:04:30.2923005+00:00",
       "NumProgressed": 167583,
       "NumCompleted": 454
+    },
+    {
+      "Time": "2024-01-10T22:04:42.4658735+00:00",
+      "NumProgressed": 167588,
+      "NumCompleted": 454
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22661,7 +22666,7 @@
       "Name": "The Hunt",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5027
+      "UsersEstimate": 5028
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -22677,7 +22682,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5027
+      "UsersEstimate": 5028
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -22709,7 +22714,7 @@
       "Name": "Shapely",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -22797,7 +22802,7 @@
       "Name": "Watcher",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -22829,7 +22834,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6703
+      "UsersEstimate": 6704
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -22885,7 +22890,7 @@
       "Name": "Ravenous",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5027
+      "UsersEstimate": 5028
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -22899,9 +22904,9 @@
       "ID": "MISC_UNLOCKNERVEPASSES",
       "SetID": "ccc0dlh",
       "Name": "Passage",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 503
     },
     {
       "ID": "QUEST_CHILD",
@@ -22909,7 +22914,7 @@
       "Name": "Dream",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "QUEST_CODA",
@@ -22980,21 +22985,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167166,
+      "Progressed": 167171,
       "Completed": 1259
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167583,
+      "Progressed": 167588,
       "Completed": 454
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-10T10:00:21.3574697+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:04:30.2923001+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:04:42.4658732+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:59:27.0336661+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:04:30.2924045+00:00"
+  "LastUpdate_Ratings": "2024-01-10T21:59:31.4631984+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:04:42.4659831+00:00"
 }

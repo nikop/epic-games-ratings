@@ -6,8 +6,8 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 112,
-  "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_Completed": 285,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74407,
+  "EOS_Progressed": 74411,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 1578,
+  "EOS_NewPlayers": 1573,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -6844,6 +6844,11 @@
       "Time": "2024-01-10T21:08:28.79499+00:00",
       "NumProgressed": 74407,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2024-01-10T22:06:58.6406991+00:00",
+      "NumProgressed": 74411,
+      "NumCompleted": 117
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -6856,7 +6861,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27531
+      "UsersEstimate": 27532
     },
     {
       "ID": "Achievement_10",
@@ -6944,7 +6949,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20834
+      "UsersEstimate": 20835
     },
     {
       "ID": "Achievement_20",
@@ -7088,7 +7093,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5208
+      "UsersEstimate": 5209
     },
     {
       "ID": "Achievement_6",
@@ -7127,7 +7132,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 74407,
+      "Progressed": 74411,
       "Completed": 117
     }
   ],
@@ -7135,8 +7140,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-09T18:03:16.5676566+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:08:28.7949895+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:06:58.6406989+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:21.0621045+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:03:02.9547399+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:08:28.7950543+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:03:14.4144517+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:06:58.6407462+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 263,
+  "Ranking_Rating": 262,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 396,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10716,9 +10716,9 @@
       "Count": 1088
     }
   ],
-  "EOS_Progressed": 132385,
+  "EOS_Progressed": 132387,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 858,
+  "EOS_NewPlayers": 853,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39256,6 +39256,11 @@
       "Time": "2024-01-10T21:09:41.5250359+00:00",
       "NumProgressed": 132385,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-10T22:09:49.9491055+00:00",
+      "NumProgressed": 132387,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39898,21 +39903,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132385,
+      "Progressed": 132387,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7254,
+      "Progressed": 7256,
       "Completed": 824
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-10T07:59:48.2790961+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:09:41.5250354+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:09:49.9491053+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:59:14.8036987+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:09:41.5252025+00:00"
+  "LastUpdate_Ratings": "2024-01-10T21:59:19.4565466+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:09:49.9492733+00:00"
 }

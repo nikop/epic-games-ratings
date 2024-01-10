@@ -2,13 +2,13 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 852,
+  "Ranking_Rating": 851,
   "Ranking_Popularity": 215,
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -420,9 +420,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 208916,
+  "EOS_Progressed": 208917,
   "EOS_Completed": 561,
-  "EOS_NewPlayers": 458,
+  "EOS_NewPlayers": 457,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -28805,6 +28805,11 @@
       "Time": "2024-01-10T21:07:54.0984008+00:00",
       "NumProgressed": 208916,
       "NumCompleted": 561
+    },
+    {
+      "Time": "2024-01-10T22:06:24.5471434+00:00",
+      "NumProgressed": 208917,
+      "NumCompleted": 561
     }
   ],
   "TotalAchievements": 29,
@@ -28840,7 +28845,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 196381
+      "UsersEstimate": 196382
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -28864,7 +28869,7 @@
       "Name": "A full deck.",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "ACHIEVEMENT_COCKPIT",
@@ -28888,7 +28893,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6267
+      "UsersEstimate": 6268
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -28984,7 +28989,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6267
+      "UsersEstimate": 6268
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -28992,7 +28997,7 @@
       "Name": "14237b6509eafd8c",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "ACHIEVEMENT_SNOOPER",
@@ -29047,7 +29052,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 208916,
+      "Progressed": 208917,
       "Completed": 561
     }
   ],
@@ -29055,8 +29060,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-10T17:58:59.5955278+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:07:54.0984004+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:06:24.5471431+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:20.3451627+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:58:50.4191204+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:07:54.0985603+00:00"
+  "LastUpdate_Ratings": "2024-01-10T21:58:56.1672082+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:06:24.5473354+00:00"
 }

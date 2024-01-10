@@ -5,12 +5,12 @@ Rating: 4.27 (Ranked 904)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Storm Warning | 69.00% | ~734 |
+| Storm Warning | 70.00% | ~745 |
 | Highballer | 59.00% | ~628 |
 | Dirty Roller | 32.00% | ~340 |
 | Regional Juniors Champion | 31.00% | ~330 |
 | Wheeler Dealer | 24.00% | ~255 |
-| Look Mom, I Can Fly | 21.00% | ~223 |
+| Look Mom, I Can Fly | 22.00% | ~234 |
 | National Amateurs Champion | 17.00% | ~181 |
 | Junk Collector | 14.00% | ~149 |
 | Hating Them Tin Cans | 14.00% | ~149 |

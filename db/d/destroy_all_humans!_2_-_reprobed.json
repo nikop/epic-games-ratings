@@ -2,7 +2,7 @@
   "ID": "4d62b26703d24f6d919750b3d88b6d52",
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
-  "Ranking_Rating": 552,
+  "Ranking_Rating": 551,
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 371,
@@ -1975,9 +1975,9 @@
       "ID": "ACH_ENTER_SOLARIS",
       "SetID": "4n84pon",
       "Name": "Fly Me to the Moon Base",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
@@ -1991,9 +1991,9 @@
       "ID": "ACH_ENTER_TUNGUSKA",
       "SetID": "4n84pon",
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_KILL_BONGWATER",
@@ -2192,8 +2192,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:09:10.6756464+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:09:18.8504456+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:58:29.5793043+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:09:10.6756923+00:00"
+  "LastUpdate_Ratings": "2024-01-10T21:58:34.4200071+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:09:18.8504778+00:00"
 }

@@ -1,25 +1,25 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.50 (Ranked 614)  
+Rating: 4.50 (Ranked 613)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 49.00% | ~1,734 |
-| First Love | 45.00% | ~1,593 |
-| Clean Race | 44.00% | ~1,557 |
-| Hear That Roar! | 42.00% | ~1,486 |
-| Bitter Rivalry | 31.00% | ~1,097 |
-| Rivals to the End | 31.00% | ~1,097 |
-| Champagne Spray | 30.00% | ~1,062 |
+| Eat My Dust | 49.00% | ~1,736 |
+| First Love | 45.00% | ~1,594 |
+| Clean Race | 44.00% | ~1,558 |
+| Hear That Roar! | 42.00% | ~1,488 |
+| Bitter Rivalry | 31.00% | ~1,098 |
+| Rivals to the End | 31.00% | ~1,098 |
+| Champagne Spray | 30.00% | ~1,063 |
 | We're Going to Need a Bigger Garage | 27.00% | ~956 |
 | Quick Pit Stop | 22.00% | ~779 |
-| I Want One Too! | 21.00% | ~743 |
+| I Want One Too! | 21.00% | ~744 |
 | Restored and Ready | 20.00% | ~708 |
 | Legendary!!! | 20.00% | ~708 |
 | Go-Faster Stripes | 17.00% | ~602 |
 | We've Just Begun | 15.00% | ~531 |
-| I'm Here Too! | 14.00% | ~495 |
+| I'm Here Too! | 14.00% | ~496 |
 | Is It the Right Size? | 9.00% | ~319 |
 | Stamina Star | 8.00% | ~283 |
 | Evangelist | 7.00% | ~248 |
@@ -55,7 +55,7 @@ Rating: 4.50 (Ranked 614)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,539 (Ranked 224)  
+Progressed: 3,542 (Ranked 224)  
 Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 0 (0.00%) (Ranked 396)
 | 2024-01-07 | 3,427 | 0 |
 | 2024-01-08 | 3,463 | 0 |
 | 2024-01-09 | 3,491 | 0 |
-| 2024-01-10 | 3,539 | 0 |
+| 2024-01-10 | 3,542 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

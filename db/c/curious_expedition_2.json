@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 426,
+  "EOS_Progressed": 427,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -736,6 +736,11 @@
       "Time": "2024-01-10T21:09:59.6575547+00:00",
       "NumProgressed": 426,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T22:10:08.021772+00:00",
+      "NumProgressed": 427,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -787,7 +792,7 @@
       "Name": "The New Director",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach-ascension-complete-years",
@@ -803,7 +808,7 @@
       "Name": "The Director is Dead",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach-ascension-inspector-return",
@@ -817,9 +822,9 @@
       "ID": "ach-butterflies",
       "SetID": "17ih7ma",
       "Name": "SCHMETTERLING",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 30
     },
     {
       "ID": "ach-campaign-allEndings",
@@ -835,7 +840,7 @@
       "Name": "And Here Is Your Statue",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach-campaign-finish-easy",
@@ -843,7 +848,7 @@
       "Name": "Traveller",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ach-campaign-finish-hard",
@@ -867,7 +872,7 @@
       "Name": "Iron Man",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ach-campaign-pacifist",
@@ -883,7 +888,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ach-campaign-story2",
@@ -891,7 +896,7 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ach-campaign-story3",
@@ -923,7 +928,7 @@
       "Name": "Cartographer",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ach-discover-locations-high",
@@ -971,7 +976,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ach-hardExpeditions",
@@ -1003,7 +1008,7 @@
       "Name": "Plays Well With Others",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach-kill-animal-groups",
@@ -1073,9 +1078,9 @@
       "ID": "ach-meetGhost",
       "SetID": "17ih7ma",
       "Name": "Spooky!",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 158
     },
     {
       "ID": "ach-noEquipment",
@@ -1115,7 +1120,7 @@
       "Name": "Uncertain Loyalties",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ach-portal-return",
@@ -1123,7 +1128,7 @@
       "Name": "From Whence we Came",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ach-promotion",
@@ -1139,7 +1144,7 @@
       "Name": "Good Mama",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ach-redElk",
@@ -1147,7 +1152,7 @@
       "Name": "A Gentle Beast",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ach-rideDinosaur",
@@ -1226,7 +1231,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 426,
+      "Progressed": 427,
       "Completed": 1
     }
   ],
@@ -1234,8 +1239,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:09:59.6575542+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:10:08.0217718+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:11.9345433+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:59:40.869844+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:09:59.6576282+00:00"
+  "LastUpdate_Ratings": "2024-01-10T21:59:44.6438327+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:10:08.0218276+00:00"
 }

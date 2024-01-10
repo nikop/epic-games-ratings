@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16568,
+  "EOS_Progressed": 16569,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6340,6 +6340,11 @@
       "Time": "2024-01-10T21:09:26.4250825+00:00",
       "NumProgressed": 16568,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-10T22:09:34.431749+00:00",
+      "NumProgressed": 16569,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6384,7 +6389,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12426
+      "UsersEstimate": 12427
     },
     {
       "ID": "ACH_AE_14",
@@ -6440,7 +6445,7 @@
       "Name": "Back to School",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3976
+      "UsersEstimate": 3977
     },
     {
       "ID": "ACH_AE_20",
@@ -6464,7 +6469,7 @@
       "Name": "The High Road",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3976
+      "UsersEstimate": 3977
     },
     {
       "ID": "ACH_AE_23",
@@ -6472,7 +6477,7 @@
       "Name": "Emergency Services",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "ACH_AE_24",
@@ -6480,7 +6485,7 @@
       "Name": "Think Fast",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "ACH_AE_25",
@@ -6496,7 +6501,7 @@
       "Name": "Live With It",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "ACH_AE_27",
@@ -6622,16 +6627,16 @@
       "ID": "ACH_AE_9",
       "SetID": "ck3465",
       "Name": "Paradise Lost",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1491
     }
   ],
   "AchievementSets": [
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16568,
+      "Progressed": 16569,
       "Completed": 15
     }
   ],
@@ -6639,8 +6644,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-06T19:57:04.811996+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:09:26.4250821+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:09:34.4317487+00:00",
   "LastUpdate_AppInfo": "2024-01-09T19:56:59.6965527+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:59:05.2454139+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:09:26.4251447+00:00"
+  "LastUpdate_Ratings": "2024-01-10T21:59:10.9364601+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:09:34.4318101+00:00"
 }

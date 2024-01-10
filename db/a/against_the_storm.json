@@ -6,7 +6,7 @@
   "Ranking_Popularity": 233,
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 154,
-  "Ranking_EOS_Completed": 284,
+  "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
@@ -3825,10 +3825,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3368,
       "NumberOfAwardsMax": 452
+    },
+    {
+      "Time": "2024-01-10T21:58:45.1687162+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3369,
+      "NumberOfAwardsMax": 452
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3368,
+  "NumberOfAwards": 3369,
   "NumberOfAwardsMax": 452,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3890,12 +3896,12 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 347
+      "Count": 348
     }
   ],
-  "EOS_Progressed": 20653,
+  "EOS_Progressed": 20657,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 601,
+  "EOS_NewPlayers": 598,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19233,6 +19239,11 @@
       "Time": "2024-01-10T21:04:46.9120121+00:00",
       "NumProgressed": 20653,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-10T22:04:59.0242156+00:00",
+      "NumProgressed": 20657,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19333,7 +19344,7 @@
       "Name": "First Real Expedition",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "WinHard",
@@ -19459,9 +19470,9 @@
       "ID": "WinNearOutpost",
       "SetID": "cfbk359",
       "Name": "Royal Outpost",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 826
+      "UsersEstimate": 1033
     },
     {
       "ID": "WinNearRuins",
@@ -19621,7 +19632,7 @@
       "Name": "No Deaths",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "WinWithoutOrders",
@@ -19645,7 +19656,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "WinNearFrosts",
@@ -19677,7 +19688,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "WinNearPresence",
@@ -19716,15 +19727,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20653,
+      "Progressed": 20657,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-10T19:58:54.3510088+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:04:46.9120116+00:00",
+  "LastChanged": "2024-01-10T21:58:45.168716+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:04:59.0242152+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:58:39.972482+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:04:46.9121234+00:00"
+  "LastUpdate_Ratings": "2024-01-10T21:58:45.1687165+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:04:59.0243267+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "e8bab5eae849405890fca0cd2d1f808e",
   "Name": "Aragami 2",
   "ProductSlug": "aragami-2",
-  "Ranking_Rating": 528,
+  "Ranking_Rating": 527,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -257,7 +257,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45035,
+  "EOS_Progressed": 45036,
   "EOS_Completed": 248,
   "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
@@ -20842,6 +20842,11 @@
       "Time": "2024-01-10T20:06:04.6232061+00:00",
       "NumProgressed": 45035,
       "NumCompleted": 248
+    },
+    {
+      "Time": "2024-01-10T22:05:47.3244732+00:00",
+      "NumProgressed": 45036,
+      "NumCompleted": 248
     }
   ],
   "TotalAchievements": 44,
@@ -20853,7 +20858,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25670
+      "UsersEstimate": 25671
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -20973,7 +20978,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 36028
+      "UsersEstimate": 36029
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -21069,7 +21074,7 @@
       "Name": "Apex Predator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 10808
+      "UsersEstimate": 10809
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -21077,7 +21082,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24769
+      "UsersEstimate": 24770
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -21085,7 +21090,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14411
+      "UsersEstimate": 14412
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -21093,7 +21098,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28372
+      "UsersEstimate": 28373
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -21101,7 +21106,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12159
+      "UsersEstimate": 12160
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -21117,7 +21122,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 27021
+      "UsersEstimate": 27022
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -21125,7 +21130,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 30173
+      "UsersEstimate": 30174
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -21173,7 +21178,7 @@
       "Name": "Pilgrimage",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 3152
+      "UsersEstimate": 3153
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -21197,14 +21202,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23418
+      "UsersEstimate": 23419
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 45035,
+      "Progressed": 45036,
       "Completed": 248
     }
   ],
@@ -21212,8 +21217,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:05:35.878628+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:05:47.3244728+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:52.8040993+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:03:07.1226497+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:05:35.8787808+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:03:18.4246051+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:05:47.3246326+00:00"
 }

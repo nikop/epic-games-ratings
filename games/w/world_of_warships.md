@@ -1,32 +1,32 @@
 # World of Warships
 [Store](https://store.epicgames.com/en-US/p/world-of-warships)  
 [View Rawdata](../../db/w/world_of_warships.json)  
-Rating: 4.41 (Ranked 753)  
+Rating: 4.41 (Ranked 752)  
 Number of Ratings: 4,733  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 75.00% | ~67,111 |
-| Initial Capital | 61.00% | ~54,583 |
-| Moneybags | 39.00% | ~34,898 |
-| Junior Supply Officer | 39.00% | ~34,898 |
-| Naval Warfare. Arson | 29.00% | ~25,949 |
-| Naval Warfare. Ramming | 28.00% | ~25,055 |
-| Amateur | 26.00% | ~23,265 |
-| Naval Warfare. Tactics | 26.00% | ~23,265 |
-| Naval Constructor | 25.00% | ~22,370 |
-| Naval Warfare. Weaponry Basics | 19.00% | ~17,001 |
-| Naval Warfare. Lucky Shot | 17.00% | ~15,212 |
-| Naval Warfare. Flooding | 16.00% | ~14,317 |
-| Battle Hero | 13.00% | ~11,633 |
-| Business Magnate | 13.00% | ~11,633 |
-| Smooth Supply | 11.00% | ~9,843 |
-| Warrior | 10.00% | ~8,948 |
-| Supply Officer | 10.00% | ~8,948 |
-| Veteran | 6.00% | ~5,369 |
-| Legend of the Seas | 3.00% | ~2,684 |
-| Chief Naval Architect | 3.00% | ~2,684 |
-| Shield | 3.00% | ~2,684 |
+| Junior Naval Designer | 75.00% | ~67,134 |
+| Initial Capital | 61.00% | ~54,602 |
+| Moneybags | 39.00% | ~34,910 |
+| Junior Supply Officer | 39.00% | ~34,910 |
+| Naval Warfare. Arson | 29.00% | ~25,958 |
+| Naval Warfare. Ramming | 28.00% | ~25,063 |
+| Amateur | 26.00% | ~23,273 |
+| Naval Warfare. Tactics | 26.00% | ~23,273 |
+| Naval Constructor | 25.00% | ~22,378 |
+| Naval Warfare. Weaponry Basics | 19.00% | ~17,007 |
+| Naval Warfare. Lucky Shot | 17.00% | ~15,217 |
+| Naval Warfare. Flooding | 16.00% | ~14,322 |
+| Battle Hero | 13.00% | ~11,637 |
+| Business Magnate | 13.00% | ~11,637 |
+| Smooth Supply | 11.00% | ~9,846 |
+| Warrior | 10.00% | ~8,951 |
+| Supply Officer | 10.00% | ~8,951 |
+| Veteran | 6.00% | ~5,371 |
+| Legend of the Seas | 3.00% | ~2,685 |
+| Chief Naval Architect | 3.00% | ~2,685 |
+| Shield | 3.00% | ~2,685 |
 | Weather Beaten | 2.00% | ~1,790 |
 | Important Missions | 2.00% | ~1,790 |
 | Guardian | 2.00% | ~1,790 |
@@ -38,20 +38,20 @@ Number of Ratings: 4,733  (23.09.2022)
 | Exterminator | 1.00% | ~895 |
 | American Cruisers | 1.00% | ~895 |
 | Old-Timer | 0.80% | ~716 |
-| Secret Instructions | 0.50% | ~447 |
-| Raider | 0.50% | ~447 |
+| Secret Instructions | 0.50% | ~448 |
+| Raider | 0.50% | ~448 |
 | Experienced One | 0.40% | ~358 |
-| Ravager | 0.30% | ~268 |
-| "Yamamoto Isoroku" | 0.30% | ~268 |
-| "Yamamoto Isoroku" | 0.30% | ~268 |
+| Ravager | 0.30% | ~269 |
+| "Yamamoto Isoroku" | 0.30% | ~269 |
+| "Yamamoto Isoroku" | 0.30% | ~269 |
 | "Honorable Service" | 0.20% | ~179 |
 | Hit Hard! Hit Fast! Hit Often! | 0.20% | ~179 |
-| "Science of Victory" with Honors | 0.10% | ~89 |
-| "Honorable Service" with Honors | 0.10% | ~89 |
-| "Yamamoto Isoroku" with Honors | 0.10% | ~89 |
-| Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~89 |
+| "Science of Victory" with Honors | 0.10% | ~90 |
+| "Honorable Service" with Honors | 0.10% | ~90 |
+| "Yamamoto Isoroku" with Honors | 0.10% | ~90 |
+| Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,481 (Ranked 106)  
+Progressed: 89,512 (Ranked 106)  
 Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,14 +201,14 @@ Completed: 0 (0.00%) (Ranked 396)
 | 2024-01-07 | 87,528 | 0 |
 | 2024-01-08 | 88,274 | 0 |
 | 2024-01-09 | 88,930 | 0 |
-| 2024-01-10 | 89,481 | 0 |
+| 2024-01-10 | 89,512 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 1,702  (Ranked 132)  
-Sum: 14,266 (Ranked 79)  
+Max (Quickly Understood Controls): 1,710  (Ranked 132)  
+Sum: 14,274 (Ranked 79)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 1,702 |
+| This game has Quickly Understood Controls | 1,710 |
 | This game is Relaxing | 1,701 |
 | This game has Challenging Combat | 1,677 |
 | This game is Extremely Fun | 1,652 |
@@ -584,4 +584,4 @@ Diff (max vs sum): 53
 | 2024-01-07 | 4.41 | - | 1,690 | 14,162 |
 | 2024-01-08 | 4.41 | - | 1,698 | 14,207 |
 | 2024-01-09 | 4.41 | - | 1,702 | 14,237 |
-| 2024-01-10 | 4.41 | - | 1,702 | 14,266 |
+| 2024-01-10 | 4.41 | - | 1,710 | 14,274 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2165,9 +2165,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 22042,
+  "EOS_Progressed": 22049,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1221,
+  "EOS_NewPlayers": 1225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13395,6 +13395,11 @@
       "Time": "2024-01-10T21:09:31.1811848+00:00",
       "NumProgressed": 22042,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-10T22:09:39.4078564+00:00",
+      "NumProgressed": 22049,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13422,7 +13427,7 @@
       "Name": "Giving Back",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2204
+      "UsersEstimate": 2205
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -13438,7 +13443,7 @@
       "Name": "Flesh Wound",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 5731
+      "UsersEstimate": 5733
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -13470,7 +13475,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1764
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -13510,7 +13515,7 @@
       "Name": "Get a Grip",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 4629
+      "UsersEstimate": 4630
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -13534,7 +13539,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4408
+      "UsersEstimate": 4410
     },
     {
       "ID": "KILL_ROBOT",
@@ -13542,7 +13547,7 @@
       "Name": "Terminated",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2204
+      "UsersEstimate": 2205
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -13550,7 +13555,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 3527
+      "UsersEstimate": 3528
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -13566,7 +13571,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3747
+      "UsersEstimate": 3748
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -13574,7 +13579,7 @@
       "Name": "Reforged",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "PRINT_WEAPON",
@@ -13582,7 +13587,7 @@
       "Name": "Paper Jams",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4849
+      "UsersEstimate": 4851
     },
     {
       "ID": "SHARE_PHOTO",
@@ -13598,7 +13603,7 @@
       "Name": "The Outer Way",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5731
+      "UsersEstimate": 5733
     },
     {
       "ID": "STORY_ESCAPE",
@@ -13606,7 +13611,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3527
+      "UsersEstimate": 3528
     },
     {
       "ID": "STORY_HABITAT",
@@ -13614,7 +13619,7 @@
       "Name": "Without A Paddle",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3086
+      "UsersEstimate": 3087
     },
     {
       "ID": "STORY_HANGAR",
@@ -13622,7 +13627,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2645
+      "UsersEstimate": 2646
     },
     {
       "ID": "STORY_MINETOWN",
@@ -13630,7 +13635,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2204
+      "UsersEstimate": 2205
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -13638,7 +13643,7 @@
       "Name": "Desperate Times",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5290
+      "UsersEstimate": 5292
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -13646,7 +13651,7 @@
       "Name": "Crash Site",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2645
+      "UsersEstimate": 2646
     },
     {
       "ID": "STORY_TOWER",
@@ -13654,7 +13659,7 @@
       "Name": "Full Circle",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2204
+      "UsersEstimate": 2205
     },
     {
       "ID": "STORY_TUNNELS",
@@ -13718,7 +13723,7 @@
       "Name": "Big Spender",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "DESTROY_FACTORY_CRATES",
@@ -13742,7 +13747,7 @@
       "Name": "This Isn\u0027t About Escape",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "FINISH_DLC4",
@@ -13766,7 +13771,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -13781,13 +13786,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22042,
+      "Progressed": 22049,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 9968,
+      "Progressed": 9975,
       "Completed": 29
     }
   ],
@@ -13795,8 +13800,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-10T20:03:40.0154243+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:09:31.1811843+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:09:39.4078562+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:03:13.1189321+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:09:31.1812766+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:03:24.293825+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:09:39.4079345+00:00"
 }

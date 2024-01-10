@@ -1,15 +1,15 @@
 # Chef Life - A Restaurant Simulator
 [Store](https://store.epicgames.com/en-US/p/chef-life-a-restaurant-simulator)  
 [View Rawdata](../../db/c/chef_life_-_a_restaurant_simulator.json)  
-Rating: 4.45 (Ranked 692)  
+Rating: 4.45 (Ranked 691)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Big Day | 61.00% | ~620 |
-| You're the Expert! | 27.00% | ~274 |
+| You're the Expert! | 27.00% | ~275 |
 | Home Cook | 24.00% | ~244 |
-| So Clean You Can Eat Off the Floor | 15.00% | ~152 |
-| S is for Scrumptious | 15.00% | ~152 |
+| So Clean You Can Eat Off the Floor | 15.00% | ~153 |
+| S is for Scrumptious | 15.00% | ~153 |
 | French Flair | 14.00% | ~142 |
 | Haute Cuisine | 7.00% | ~71 |
 | Next Level Cuisine | 7.00% | ~71 |
@@ -17,8 +17,8 @@ Rating: 4.45 (Ranked 692)
 | Sous-Chef | 4.00% | ~41 |
 | Rolling in Dough | 4.00% | ~41 |
 | Well-Stocked Kitchen | 4.00% | ~41 |
-| Culinary Arts | 3.00% | ~30 |
-| Perfectionist | 3.00% | ~30 |
+| Culinary Arts | 3.00% | ~31 |
+| Perfectionist | 3.00% | ~31 |
 | Leaning Tower of Pizza | 2.00% | ~20 |
 | The Bigger the Better | 0.50% | ~5 |
 | Eco Warrior | 0.40% | ~4 |
@@ -46,7 +46,7 @@ Rating: 4.45 (Ranked 692)
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,016 (Ranked 294)  
+Progressed: 1,017 (Ranked 294)  
 Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 0 (0.00%) (Ranked 396)
 | 2024-01-07 | 995 | 0 |
 | 2024-01-08 | 1,002 | 0 |
 | 2024-01-09 | 1,010 | 0 |
-| 2024-01-10 | 1,016 | 0 |
+| 2024-01-10 | 1,017 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

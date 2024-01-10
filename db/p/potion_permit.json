@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1936,
+  "EOS_Progressed": 1937,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3603,6 +3603,11 @@
       "Time": "2024-01-10T20:05:08.1164582+00:00",
       "NumProgressed": 1936,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-10T22:04:53.2834197+00:00",
+      "NumProgressed": 1937,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3614,7 +3619,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3662,7 +3667,7 @@
       "Name": "K.O.!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -3670,7 +3675,7 @@
       "Name": "The First Step",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1685
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3758,7 +3763,7 @@
       "Name": "Spark of Love",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACHIEVEMENTS_20",
@@ -3782,7 +3787,7 @@
       "Name": "The Capitalist",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -3868,9 +3873,9 @@
       "ID": "ACHIEVEMENTS_33",
       "SetID": "d4o538a",
       "Name": "Catch of the Day",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 484
     },
     {
       "ID": "ACHIEVEMENTS_34",
@@ -3878,7 +3883,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1200
+      "UsersEstimate": 1201
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -3917,7 +3922,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1936,
+      "Progressed": 1937,
       "Completed": 11
     }
   ],
@@ -3925,8 +3930,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2024-01-09T09:59:08.4994389+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:04:40.9863378+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:04:53.2834192+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:08.493824+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:59:04.7629464+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:04:40.9864044+00:00"
+  "LastUpdate_Ratings": "2024-01-10T21:59:10.5434671+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:04:53.2834599+00:00"
 }

@@ -1,7 +1,7 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.39 (Ranked 781)  
+Rating: 4.39 (Ranked 780)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,7 +10,7 @@ Rating: 4.39 (Ranked 781)
 | From X to Y | 74.00% | ~1,994 |
 | Departure | 74.00% | ~1,994 |
 | Way of Iron | 71.00% | ~1,913 |
-| Mystery Tour | 69.00% | ~1,860 |
+| Mystery Tour | 70.00% | ~1,886 |
 | We brake for nobody | 68.00% | ~1,833 |
 | Brainstorm | 66.00% | ~1,779 |
 | Mind the Gap | 66.00% | ~1,779 |
@@ -27,9 +27,9 @@ Rating: 4.39 (Ranked 781)
 | Bull and bear | 35.00% | ~943 |
 | Stoker | 34.00% | ~916 |
 | Full Steam ahead | 33.00% | ~889 |
+| Financial Shark | 32.00% | ~862 |
 | All mine | 31.00% | ~835 |
 | Mole | 31.00% | ~835 |
-| Financial Shark | 31.00% | ~835 |
 | General Manager | 29.00% | ~782 |
 | Country Life | 29.00% | ~782 |
 | Socializer | 28.00% | ~755 |

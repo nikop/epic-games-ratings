@@ -1,26 +1,26 @@
 # Redout: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/redout-enhanced-edition)  
 [View Rawdata](../../db/r/redout__enhanced_edition.json)  
-Rating: 4.49 (Ranked 637)  
+Rating: 4.49 (Ranked 636)  
 Number of Ratings: 274  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~98,035 |
-| NATURAL BORN WINNER | 33.00% | ~78,906 |
-| CALLING HOUSTON | 28.00% | ~66,951 |
-| SNEAKY SNEAKY | 22.00% | ~52,604 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~52,604 |
-| GT9STRADALE | 20.00% | ~47,822 |
-| CHALLENGER | 11.00% | ~26,302 |
+| VANGUARD | 41.00% | ~98,037 |
+| NATURAL BORN WINNER | 33.00% | ~78,908 |
+| CALLING HOUSTON | 28.00% | ~66,952 |
+| SNEAKY SNEAKY | 22.00% | ~52,605 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~52,605 |
+| GT9STRADALE | 20.00% | ~47,823 |
+| CHALLENGER | 11.00% | ~26,303 |
 | ON A ROLL | 10.00% | ~23,911 |
 | CENTAUR | 8.00% | ~19,129 |
 | FASTER THAN EVER | 8.00% | ~19,129 |
 | CHALLENGE THE WORLD | 7.00% | ~16,738 |
 | PHOTOFINISH | 7.00% | ~16,738 |
-| QAREEN | 5.00% | ~11,955 |
-| TAKATORA | 5.00% | ~11,955 |
-| SHOWOFF | 4.00% | ~9,564 |
+| QAREEN | 5.00% | ~11,956 |
+| TAKATORA | 5.00% | ~11,956 |
+| SHOWOFF | 4.00% | ~9,565 |
 | GILA | 3.00% | ~7,173 |
 | PRO | 2.00% | ~4,782 |
 | RESPWND | 2.00% | ~4,782 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~478 |
 | ENLIGHTENED | 0.10% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,109 (Ranked 75)  
+Progressed: 239,114 (Ranked 75)  
 Completed: 49 (0.02%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 49 (0.02%) (Ranked 362)
 | 2024-01-07 | 238,957 | 49 |
 | 2024-01-08 | 239,009 | 49 |
 | 2024-01-09 | 239,063 | 49 |
-| 2024-01-10 | 239,109 | 49 |
+| 2024-01-10 | 239,114 | 49 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

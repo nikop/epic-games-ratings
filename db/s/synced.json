@@ -1663,10 +1663,16 @@
       "Rating": 4.14,
       "NumberOfAwards": 574,
       "NumberOfAwardsMax": 134
+    },
+    {
+      "Time": "2024-01-10T21:58:17.9216314+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 576,
+      "NumberOfAwardsMax": 134
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 574,
+  "NumberOfAwards": 576,
   "NumberOfAwardsMax": 134,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1716,7 +1722,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 64
+      "Count": 66
     },
     {
       "Text": "This game is Relaxing",
@@ -1731,9 +1737,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 86083,
+  "EOS_Progressed": 86098,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 3457,
+  "EOS_NewPlayers": 3432,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -16216,6 +16222,11 @@
       "Time": "2024-01-10T21:05:36.8142084+00:00",
       "NumProgressed": 86083,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-10T22:05:48.193856+00:00",
+      "NumProgressed": 86098,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -16228,7 +16239,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 38737
+      "UsersEstimate": 38744
     },
     {
       "ID": "10",
@@ -16244,7 +16255,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2582
+      "UsersEstimate": 2583
     },
     {
       "ID": "12",
@@ -16252,7 +16263,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2582
+      "UsersEstimate": 2583
     },
     {
       "ID": "13",
@@ -16268,7 +16279,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 6026
+      "UsersEstimate": 6027
     },
     {
       "ID": "15",
@@ -16292,7 +16303,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 18077
+      "UsersEstimate": 18081
     },
     {
       "ID": "3",
@@ -16300,7 +16311,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 12052
+      "UsersEstimate": 12054
     },
     {
       "ID": "4",
@@ -16308,7 +16319,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7747
+      "UsersEstimate": 7749
     },
     {
       "ID": "5",
@@ -16316,7 +16327,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 6026
+      "UsersEstimate": 6027
     },
     {
       "ID": "6",
@@ -16324,7 +16335,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5165
+      "UsersEstimate": 5166
     },
     {
       "ID": "7",
@@ -16332,7 +16343,7 @@
       "Name": "More Power to You",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 19799
+      "UsersEstimate": 19803
     },
     {
       "ID": "8",
@@ -16355,16 +16366,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 86083,
+      "Progressed": 86098,
       "Completed": 66
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2024-01-10T17:58:16.1928876+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:05:36.8142078+00:00",
+  "LastChanged": "2024-01-10T21:58:17.9216312+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:05:48.1938556+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:51.8643288+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:58:12.3932279+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:05:36.8142776+00:00"
+  "LastUpdate_Ratings": "2024-01-10T21:58:17.9216317+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:05:48.193925+00:00"
 }

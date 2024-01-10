@@ -3,12 +3,12 @@
   "Name": "KINGDOM HEARTS HD 1.5\u002B2.5 ReMIX",
   "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
   "Ranking_Rating": 69,
-  "Ranking_Popularity": 153,
+  "Ranking_Popularity": 152,
   "Ranking_PopularitySum": 105,
   "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 396,
   "Ranking_EOS_NewPlayers": 579,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-03-30T13:00:00+00:00",
     "PcReleaseDate": "2021-03-30T13:00:00+00:00",
@@ -10515,11 +10515,17 @@
       "Rating": 4.82,
       "NumberOfAwards": 8698,
       "NumberOfAwardsMax": 1133
+    },
+    {
+      "Time": "2024-01-10T21:58:21.3264129+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 8721,
+      "NumberOfAwardsMax": 1148
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8698,
-  "NumberOfAwardsMax": 1133,
+  "NumberOfAwards": 8721,
+  "NumberOfAwardsMax": 1148,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -10544,7 +10550,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1133
+      "Count": 1148
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10556,7 +10562,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1106
+      "Count": 1114
     },
     {
       "Text": "This game has Challenging Combat",
@@ -10606,8 +10612,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2024-01-10T18:58:19.0922541+00:00",
+  "LastChanged": "2024-01-10T21:58:21.3264128+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:21.8006751+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:58:15.7616344+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:03:24.2472436+00:00"
+  "LastUpdate_Ratings": "2024-01-10T21:58:21.3264133+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:03:38.071013+00:00"
 }

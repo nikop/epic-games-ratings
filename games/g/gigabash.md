@@ -1,24 +1,24 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.52 (Ranked 574)  
+Rating: 4.52 (Ranked 573)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 19.00% | ~22,956 |
-| I've Had Enough! | 14.00% | ~16,915 |
-| Fists, Fury & a lot of Rage | 10.00% | ~12,082 |
-| Seasoned Fighter | 9.00% | ~10,874 |
+| All Grown Up! | 19.00% | ~22,958 |
+| I've Had Enough! | 14.00% | ~16,916 |
+| Fists, Fury & a lot of Rage | 10.00% | ~12,083 |
+| Seasoned Fighter | 9.00% | ~10,875 |
 | All For One and One For All | 8.00% | ~9,666 |
-| Home Sweet Home? | 6.00% | ~7,249 |
+| Home Sweet Home? | 6.00% | ~7,250 |
 | A New Age | 5.00% | ~6,041 |
 | Oh Baby, A Triple | 3.00% | ~3,625 |
 | Master of Disguise | 3.00% | ~3,625 |
 | Symbiotic | 3.00% | ~3,625 |
-| Battle Hardened | 2.00% | ~2,416 |
-| It's Mayhem! | 2.00% | ~2,416 |
-| Right back at'cha | 2.00% | ~2,416 |
-| Spectacular Finisher | 2.00% | ~2,416 |
+| Battle Hardened | 2.00% | ~2,417 |
+| It's Mayhem! | 2.00% | ~2,417 |
+| Right back at'cha | 2.00% | ~2,417 |
+| Spectacular Finisher | 2.00% | ~2,417 |
 | Cautious Veteran | 1.00% | ~1,208 |
 | Double Punch! | 1.00% | ~1,208 |
 | Martyrdom | 1.00% | ~1,208 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 574)
 | What's Mine is Yours | 0.10% | ~121 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,820 (Ranked 93)  
+Progressed: 120,829 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 396)
 | 2024-01-07 | 119,421 | 0 |
 | 2024-01-08 | 119,942 | 0 |
 | 2024-01-09 | 120,421 | 0 |
-| 2024-01-10 | 120,820 | 0 |
+| 2024-01-10 | 120,829 | 0 |
 ## Awards
 Max (Great Boss Battles): 54  (Ranked 446)  
 Sum: 54 (Ranked 506)  

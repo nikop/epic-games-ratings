@@ -2,13 +2,13 @@
   "ID": "964f58c4c2074404bf9c359483ab1a48",
   "Name": "Midnight Ghost Hunt",
   "ProductSlug": "midnight-ghost-hunt",
-  "Ranking_Rating": 840,
+  "Ranking_Rating": 839,
   "Ranking_Popularity": 389,
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 11,
   "Ranking_EOS_Completed": 396,
-  "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2281,10 +2281,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 657,
       "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2024-01-10T21:57:47.129608+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 658,
+      "NumberOfAwardsMax": 96
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 657,
+  "NumberOfAwards": 658,
   "NumberOfAwardsMax": 96,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2304,7 +2310,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 83
+      "Count": 84
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2361,9 +2367,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 1300280,
+  "EOS_Progressed": 1300287,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1555,
+  "EOS_NewPlayers": 1553,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28526,6 +28532,11 @@
       "Time": "2024-01-10T21:05:28.79761+00:00",
       "NumProgressed": 1300280,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T22:05:40.4184663+00:00",
+      "NumProgressed": 1300287,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -28649,7 +28660,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 143031
+      "UsersEstimate": 143032
     },
     {
       "ID": "10_ghost_wins",
@@ -28657,7 +28668,7 @@
       "Name": "10 Ghost Wins!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 104022
+      "UsersEstimate": 104023
     },
     {
       "ID": "10_hero_prop_kills",
@@ -28673,7 +28684,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 208045
+      "UsersEstimate": 208046
     },
     {
       "ID": "10_hunter_wins",
@@ -28825,7 +28836,7 @@
       "Name": "ACE!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 130028
+      "UsersEstimate": 130029
     },
     {
       "ID": "ghost_win",
@@ -28833,7 +28844,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 767165
+      "UsersEstimate": 767169
     },
     {
       "ID": "hunter_win",
@@ -28841,7 +28852,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 702151
+      "UsersEstimate": 702155
     },
     {
       "ID": "master_of_loadouts",
@@ -28865,23 +28876,23 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 286062
+      "UsersEstimate": 286063
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1300280,
+      "Progressed": 1300287,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-01T17:56:58.3739755+00:00",
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
-  "LastChanged": "2024-01-08T20:02:41.0808447+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:05:28.7976095+00:00",
+  "LastChanged": "2024-01-10T21:57:47.1296078+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:05:40.4184659+00:00",
   "LastUpdate_AppInfo": "2024-01-05T13:01:16.6265314+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:57:42.5487913+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:05:28.7977297+00:00"
+  "LastUpdate_Ratings": "2024-01-10T21:57:47.1296083+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:05:40.4185942+00:00"
 }

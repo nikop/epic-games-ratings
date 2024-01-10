@@ -1,25 +1,25 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.55 (Ranked 528)  
+Rating: 4.55 (Ranked 527)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Awakening | 93.00% | ~41,883 |
-| First Steps | 80.00% | ~36,028 |
-| Control the Shadows | 67.00% | ~30,173 |
-| Tools of the Trade | 63.00% | ~28,372 |
-| Apprentice | 60.00% | ~27,021 |
-| Secret Seeker | 57.00% | ~25,670 |
-| Forge of Assassins | 55.00% | ~24,769 |
-| Revenant | 52.00% | ~23,418 |
+| First Steps | 80.00% | ~36,029 |
+| Control the Shadows | 67.00% | ~30,174 |
+| Tools of the Trade | 63.00% | ~28,373 |
+| Apprentice | 60.00% | ~27,022 |
+| Secret Seeker | 57.00% | ~25,671 |
+| Forge of Assassins | 55.00% | ~24,770 |
+| Revenant | 52.00% | ~23,419 |
 | I don’t Care! | 45.00% | ~20,266 |
 | Bird of Prey | 37.00% | ~16,663 |
-| Engraved with Power | 32.00% | ~14,411 |
+| Engraved with Power | 32.00% | ~14,412 |
 | Lady | 31.00% | ~13,961 |
-| Fashionable Assassin | 27.00% | ~12,159 |
-| Apex Predator | 24.00% | ~10,808 |
+| Fashionable Assassin | 27.00% | ~12,160 |
+| Apex Predator | 24.00% | ~10,809 |
 | Soul Reaver | 23.00% | ~10,358 |
 | Embers | 22.00% | ~9,908 |
 | Wall Lizard | 20.00% | ~9,007 |
@@ -38,7 +38,7 @@ Number of Ratings: 88  (23.09.2022)
 | The Hidden Village | 9.00% | ~4,053 |
 | Denouement | 8.00% | ~3,603 |
 | A Pleasant Stay | 8.00% | ~3,603 |
-| Pilgrimage | 7.00% | ~3,152 |
+| Pilgrimage | 7.00% | ~3,153 |
 | The Lookout | 5.00% | ~2,252 |
 | The Spirit of Vengeance | 5.00% | ~2,252 |
 | Hollow | 5.00% | ~2,252 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~901 |
 | Legacy | 2.00% | ~901 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,035 (Ranked 128)  
+Progressed: 45,036 (Ranked 128)  
 Completed: 248 (0.55%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 248 (0.55%) (Ranked 213)
 | 2024-01-07 | 44,957 | 248 |
 | 2024-01-08 | 44,989 | 248 |
 | 2024-01-09 | 45,019 | 248 |
-| 2024-01-10 | 45,035 | 248 |
+| 2024-01-10 | 45,036 | 248 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

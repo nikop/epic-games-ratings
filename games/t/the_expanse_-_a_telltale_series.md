@@ -1,20 +1,20 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.52 (Ranked 574)  
+Rating: 4.52 (Ranked 573)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 18.00% | ~3,388 |
-| Captain Drummer | 15.00% | ~2,823 |
-| Celebrations are in Order | 14.00% | ~2,635 |
-| The Pit and the Pirates | 13.00% | ~2,447 |
-| Martian Music | 13.00% | ~2,447 |
-| Bosmang | 13.00% | ~2,447 |
-| Impossible Objects | 13.00% | ~2,447 |
+| Oyedang, Kopengs | 18.00% | ~3,389 |
+| Captain Drummer | 15.00% | ~2,824 |
+| Celebrations are in Order | 14.00% | ~2,636 |
+| The Pit and the Pirates | 13.00% | ~2,448 |
+| Martian Music | 13.00% | ~2,448 |
+| Bosmang | 13.00% | ~2,448 |
+| Impossible Objects | 13.00% | ~2,448 |
 | Spore Taste | 12.00% | ~2,259 |
 | Drone Dodger | 12.00% | ~2,259 |
-| Stogie for Fogey | 11.00% | ~2,070 |
+| Stogie for Fogey | 11.00% | ~2,071 |
 | Safe Cracker | 10.00% | ~478 |
 | Zen Master | 10.00% | ~478 |
 | Call it Even | 9.00% | ~1,694 |
@@ -25,23 +25,23 @@ Rating: 4.52 (Ranked 574)
 | Drug Gifter | 7.00% | ~1,318 |
 | Thorston Mayer | 7.00% | ~1,318 |
 | Khan's Revenge | 7.00% | ~1,318 |
-| Doctor Approved | 6.00% | ~1,129 |
-| Bottoms up! | 6.00% | ~1,129 |
+| Doctor Approved | 6.00% | ~1,130 |
+| Bottoms up! | 6.00% | ~1,130 |
 | Master Negotiator | 6.00% | ~287 |
 | Data Logger | 4.00% | ~753 |
 | Miraculous Maya | 4.00% | ~753 |
 | Data Master | 3.00% | ~565 |
-| Brother's Reaper | 2.00% | ~376 |
-| No Belter Left Behind | 2.00% | ~376 |
-| Debris Spree | 2.00% | ~376 |
-| Data Recoverer | 2.00% | ~376 |
+| Brother's Reaper | 2.00% | ~377 |
+| No Belter Left Behind | 2.00% | ~377 |
+| Debris Spree | 2.00% | ~377 |
+| Data Recoverer | 2.00% | ~377 |
 | Urshanabi Hoarder | 1.00% | ~188 |
 | Grave Robber | 0.80% | ~151 |
 | Data Miner | 0.70% | ~132 |
 | Scavenger Star | 0.30% | ~56 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,822 (Ranked 159)  
+Progressed: 18,827 (Ranked 159)  
 Completed: 62 (0.33%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 62 (0.33%) (Ranked 247)
 | 2024-01-07 | 18,579 | 60 |
 | 2024-01-08 | 18,665 | 60 |
 | 2024-01-09 | 18,754 | 61 |
-| 2024-01-10 | 18,822 | 62 |
+| 2024-01-10 | 18,827 | 62 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

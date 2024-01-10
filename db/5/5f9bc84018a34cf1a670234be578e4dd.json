@@ -4,8 +4,8 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -2302,9 +2302,9 @@
       "ID": "Batteries",
       "SetID": "7jbi7el",
       "Name": "Batteries",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 70,
-      "UsersEstimate": 241
+      "UsersEstimate": 245
     },
     {
       "ID": "Compiling",
@@ -2382,9 +2382,9 @@
       "ID": "Screwdriver",
       "SetID": "7jbi7el",
       "Name": "Screwdriver",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 70,
-      "UsersEstimate": 310
+      "UsersEstimate": 314
     },
     {
       "ID": "SecretRoom",
@@ -2413,8 +2413,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:05:45.698644+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:05:56.8063514+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:56.7874531+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:02:43.9868459+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:05:45.6987051+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:02:55.0080374+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:05:56.8063753+00:00"
 }

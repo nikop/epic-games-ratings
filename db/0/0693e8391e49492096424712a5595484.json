@@ -3249,9 +3249,9 @@
       "ID": "DwarfBeggarWoman",
       "SetID": "db30heh",
       "Name": "Funny Granny",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 343
+      "UsersEstimate": 351
     },
     {
       "ID": "DwarfHobo",
@@ -3393,9 +3393,9 @@
       "ID": "RogueEat",
       "SetID": "db30heh",
       "Name": "Debt Free",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 709
+      "UsersEstimate": 716
     },
     {
       "ID": "RogueKing",
@@ -3480,8 +3480,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:03:28.307549+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:03:42.3259883+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:55.0577875+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:58:16.1617093+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:03:28.3075928+00:00"
+  "LastUpdate_Ratings": "2024-01-10T21:58:21.8028695+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:03:42.326042+00:00"
 }

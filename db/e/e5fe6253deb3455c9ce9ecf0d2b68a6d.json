@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 396,
   "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T03:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 537,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2144,9 +2144,9 @@
       "ID": "Last_second",
       "SetID": "cjfnji1",
       "Name": "In the last second",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 247
     },
     {
       "ID": "Master",
@@ -2223,8 +2223,8 @@
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:05:52.8381316+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:06:03.9735504+00:00",
   "LastUpdate_AppInfo": "2024-01-09T04:57:00.8185326+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:57:40.4012849+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:05:52.8381536+00:00"
+  "LastUpdate_Ratings": "2024-01-10T21:57:45.0489509+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:06:03.9735715+00:00"
 }

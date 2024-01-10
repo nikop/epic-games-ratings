@@ -9,8 +9,8 @@
 | Foreman of Darkness | 96.00% | ~178 |
 | Brilliant Day | 94.00% | ~174 |
 | Evil Genius | 89.00% | ~165 |
+| Air Defense | 85.00% | ~157 |
 | Tinned Corpse | 84.00% | ~155 |
-| Air Defense | 84.00% | ~155 |
 | Your War is Over | 82.00% | ~152 |
 | The Starry Night | 77.00% | ~142 |
 | Go Home! | 76.00% | ~141 |

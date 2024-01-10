@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 441,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 429,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1748,
+  "EOS_Progressed": 1749,
   "EOS_Completed": 130,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.44,
+  "EOS_Completed_Percentage": 7.43,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -4374,6 +4374,11 @@
       "Time": "2024-01-10T04:11:00.8477678+00:00",
       "NumProgressed": 1748,
       "NumCompleted": 130
+    },
+    {
+      "Time": "2024-01-10T22:10:00.9198327+00:00",
+      "NumProgressed": 1749,
+      "NumCompleted": 130
     }
   ],
   "TotalAchievements": 30,
@@ -4385,7 +4390,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "LEVEL_002",
@@ -4393,7 +4398,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "LEVEL_003",
@@ -4401,7 +4406,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "LEVEL_004",
@@ -4409,7 +4414,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "LEVEL_005",
@@ -4417,7 +4422,7 @@
       "Name": "Small village",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "LEVEL_006",
@@ -4425,7 +4430,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "LEVEL_007",
@@ -4441,7 +4446,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "LEVEL_009",
@@ -4624,14 +4629,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1748,
+      "Progressed": 1749,
       "Completed": 130
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:09:52.5941482+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:10:00.9198325+00:00",
   "LastUpdate_AppInfo": "2024-01-09T06:57:18.9639779+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:00:08.7521327+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:09:52.594202+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:00:11.7626934+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:10:00.9198753+00:00"
 }

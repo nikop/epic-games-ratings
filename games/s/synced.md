@@ -5,16 +5,16 @@ Rating: 4.14 (Ranked 1,008)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 45.00% | ~38,737 |
-| More Power to You | 23.00% | ~19,799 |
-| As Far Away As Possible | 21.00% | ~18,077 |
-| A Most Unstable Organism | 14.00% | ~12,052 |
-| No Time to Follow Protocol | 9.00% | ~7,747 |
-| Nano Connoisseur | 7.00% | ~6,026 |
-| Float Like a Butterfly... | 7.00% | ~6,026 |
-| In Two Places At Once | 6.00% | ~5,165 |
-| Pulling Your Weight | 3.00% | ~2,582 |
-| Reaping Rivals | 3.00% | ~2,582 |
+| Your Lucky Day | 45.00% | ~38,744 |
+| More Power to You | 23.00% | ~19,803 |
+| As Far Away As Possible | 21.00% | ~18,081 |
+| A Most Unstable Organism | 14.00% | ~12,054 |
+| No Time to Follow Protocol | 9.00% | ~7,749 |
+| Nano Connoisseur | 7.00% | ~6,027 |
+| Float Like a Butterfly... | 7.00% | ~6,027 |
+| In Two Places At Once | 6.00% | ~5,166 |
+| Pulling Your Weight | 3.00% | ~2,583 |
+| Reaping Rivals | 3.00% | ~2,583 |
 | fifteenth Time's the Charm | 1.00% | ~861 |
 | Gone Rogue | 1.00% | ~861 |
 | Completely Customizable | 0.50% | ~430 |
@@ -22,7 +22,7 @@ Rating: 4.14 (Ranked 1,008)
 | Runs for Your Money | 0.30% | ~258 |
 | Past Master | 0.30% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,083 (Ranked 107)  
+Progressed: 86,098 (Ranked 107)  
 Completed: 66 (0.08%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,18 +158,18 @@ Completed: 66 (0.08%) (Ranked 322)
 | 2024-01-07 | 84,963 | 64 |
 | 2024-01-08 | 85,407 | 66 |
 | 2024-01-09 | 85,770 | 66 |
-| 2024-01-10 | 86,083 | 66 |
+| 2024-01-10 | 86,098 | 66 |
 ## Awards
 Max (Great for Beginners): 134  (Ranked 342)  
-Sum: 574 (Ranked 329)  
+Sum: 576 (Ranked 329)  
 Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 134 |
 | This game has Diverse Characters | 91 |
 | This game is Highly Recommended | 66 |
+| This game is Extremely Fun | 66 |
 | This game has Amazing Characters | 65 |
-| This game is Extremely Fun | 64 |
 | This game has Amazing Storytelling | 55 |
 | This game has a Competitive Community | 54 |
 | This game has Quickly Understood Controls | 52 |
@@ -292,4 +292,4 @@ Diff (max vs sum): 13
 | 2024-01-07 | 4.13 | 134 | 568 |
 | 2024-01-08 | 4.13 | 134 | 571 |
 | 2024-01-09 | 4.13 | 134 | 573 |
-| 2024-01-10 | 4.14 | 134 | 574 |
+| 2024-01-10 | 4.14 | 134 | 576 |

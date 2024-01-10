@@ -1,25 +1,25 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.55 (Ranked 528)  
+Rating: 4.55 (Ranked 527)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 107.00% | ~19,093 |
-| Before the Downfall | 102.00% | ~18,201 |
-| Money like Water | 100.00% | ~17,844 |
-| Minimalist | 99.00% | ~17,666 |
-| Builder | 91.00% | ~16,238 |
-| Eraser | 77.00% | ~13,740 |
-| Pocket of Trains | 71.00% | ~12,669 |
-| Inspector | 65.00% | ~11,599 |
-| Going the Distance | 59.00% | ~10,528 |
+| Trevithick's Legacy | 107.00% | ~19,092 |
+| Before the Downfall | 102.00% | ~18,200 |
+| Money like Water | 100.00% | ~17,843 |
+| Minimalist | 99.00% | ~17,665 |
+| Builder | 91.00% | ~16,237 |
+| Eraser | 77.00% | ~13,739 |
+| Pocket of Trains | 72.00% | ~12,847 |
+| Inspector | 65.00% | ~11,598 |
+| Going the Distance | 59.00% | ~10,527 |
 | Oil Baron | 46.00% | ~8,208 |
 | Loads-a-Money | 46.00% | ~8,208 |
-| Helper of the People | 43.00% | ~7,673 |
+| Helper of the People | 43.00% | ~7,672 |
 | Simplification | 37.00% | ~6,602 |
-| Box of Trains | 36.00% | ~6,424 |
-| Let There be Light | 36.00% | ~6,424 |
+| Box of Trains | 37.00% | ~6,602 |
+| Let There be Light | 36.00% | ~6,423 |
 | Hot Water | 34.00% | ~6,067 |
 | Indecisive | 32.00% | ~5,710 |
 | The scenic route | 30.00% | ~5,353 |
@@ -30,9 +30,9 @@ Rating: 4.55 (Ranked 528)
 | Man of Steel | 18.00% | ~3,212 |
 | Room Full of Trains | 14.00% | ~2,498 |
 | Investor | 11.00% | ~1,963 |
-| Multiverse | 8.00% | ~1,428 |
-| The poor groundwater levels | 8.00% | ~1,428 |
-| Metropolis | 8.00% | ~1,428 |
+| Multiverse | 8.00% | ~1,427 |
+| The poor groundwater levels | 8.00% | ~1,427 |
+| Metropolis | 8.00% | ~1,427 |
 | High Flier | 4.00% | ~714 |
 | To infinity, and beyond! | 3.00% | ~535 |
 | Space industrialization | 2.00% | ~357 |
@@ -43,8 +43,8 @@ Rating: 4.55 (Ranked 528)
 | Overdeer | 0.60% | ~107 |
 | Cloud Services | 0.30% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,844 (Ranked 161)  
-Completed: 25 (0.14%) (Ranked 294)  
+Progressed: 17,843 (Ranked 161)  
+Completed: 25 (0.14%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,17 +6,17 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 46.00% | ~894 |
-| Grenadier | 44.00% | ~855 |
-| War Never Changes | 44.00% | ~855 |
+| E1M1 | 46.00% | ~895 |
+| Grenadier | 44.00% | ~856 |
+| War Never Changes | 44.00% | ~856 |
 | Heroes Never Die | 41.00% | ~797 |
-| Mosquito bite | 37.00% | ~719 |
+| Mosquito bite | 37.00% | ~720 |
 | Spice It Up | 33.00% | ~642 |
-| Agent 47 | 28.00% | ~544 |
+| Agent 47 | 28.00% | ~545 |
 | You're Gonna Go Far, Kid | 27.00% | ~525 |
 | Bomberman | 27.00% | ~525 |
 | Death to the Oppressor! | 20.00% | ~389 |
-| The Gang's All Here | 17.00% | ~330 |
+| The Gang's All Here | 17.00% | ~331 |
 | Your Answer | 16.00% | ~311 |
 | One by One | 15.00% | ~292 |
 | The Big Bertha | 13.00% | ~253 |
@@ -28,7 +28,7 @@ Number of Ratings: 98  (23.09.2022)
 | Do a Barrel Roll! | 2.00% | ~39 |
 | Unbreakable Wall | 2.00% | ~39 |
 | Experienced Strategist | 1.00% | ~19 |
-| How?! | 0.90% | ~17 |
+| How?! | 0.90% | ~18 |
 | Tough as Nails | 0.50% | ~10 |
 | Commandos | 0.30% | ~6 |
 | A Little Culture | 0.20% | ~4 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | Defense of Steel | 0.10% | ~2 |
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,944 (Ranked 251)  
+Progressed: 1,945 (Ranked 251)  
 Completed: 2 (0.10%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 2 (0.10%) (Ranked 310)
 | 2024-01-07 | 1,941 | 2 |
 | 2024-01-08 | 1,942 | 2 |
 | 2024-01-09 | 1,943 | 2 |
-| 2024-01-10 | 1,944 | 2 |
+| 2024-01-10 | 1,945 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

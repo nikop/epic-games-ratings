@@ -6,48 +6,48 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 65.00% | ~277 |
-| Cartographer | 58.00% | ~247 |
-| A Strange Artefact | 54.00% | ~230 |
+| The Adventure Begins | 65.00% | ~278 |
+| Cartographer | 58.00% | ~248 |
+| A Strange Artefact | 54.00% | ~231 |
 | Insomnia | 49.00% | ~209 |
-| Lost & Found & Lost Again | 43.00% | ~183 |
-| From Whence we Came | 43.00% | ~183 |
+| Lost & Found & Lost Again | 43.00% | ~184 |
+| From Whence we Came | 43.00% | ~184 |
 | Fire and Flood | 41.00% | ~175 |
-| Spooky! | 38.00% | ~162 |
+| Spooky! | 37.00% | ~158 |
 | Shennong Herbalist | 35.00% | ~149 |
 | Treasure Hunt | 35.00% | ~149 |
-| Good Mama | 32.00% | ~136 |
+| Good Mama | 32.00% | ~137 |
 | O Captain My Captain | 31.00% | ~132 |
 | Plunderer | 29.00% | ~124 |
 | Taxonomist | 27.00% | ~115 |
-| Traveller | 25.00% | ~106 |
-| Uncertain Loyalties | 25.00% | ~106 |
+| Traveller | 25.00% | ~107 |
+| Uncertain Loyalties | 25.00% | ~107 |
 | Roll to Save | 23.00% | ~98 |
 | Nahua Seeker | 23.00% | ~98 |
 | Veteran Explorer | 22.00% | ~94 |
 | Red Flag Pirate | 20.00% | ~85 |
-| Iron Man | 17.00% | ~72 |
-| A Gentle Beast | 17.00% | ~72 |
+| Iron Man | 17.00% | ~73 |
+| A Gentle Beast | 17.00% | ~73 |
 | Practical Palaeontology | 16.00% | ~68 |
 | Adventurer | 15.00% | ~64 |
 | For the Club! | 15.00% | ~64 |
 | Shortening of the Way | 15.00% | ~64 |
 | Dapper | 14.00% | ~60 |
-| The New Director | 13.00% | ~55 |
-| The Director is Dead | 13.00% | ~55 |
-| And Here Is Your Statue | 13.00% | ~55 |
-| Plays Well With Others | 13.00% | ~55 |
+| The New Director | 13.00% | ~56 |
+| The Director is Dead | 13.00% | ~56 |
+| And Here Is Your Statue | 13.00% | ~56 |
+| Plays Well With Others | 13.00% | ~56 |
 | Discovery | 12.00% | ~51 |
 | Very Classy | 12.00% | ~51 |
 | Under the Table | 11.00% | ~47 |
 | It's Complicated | 10.00% | ~43 |
 | Cold Blood, Warm Heart | 9.00% | ~38 |
-| SCHMETTERLING | 8.00% | ~34 |
 | No Laughing Matter | 8.00% | ~34 |
 | The Great Library | 8.00% | ~34 |
 | Level Up | 8.00% | ~34 |
 | Errand Runner | 8.00% | ~34 |
 | Zookeeper | 7.00% | ~30 |
+| SCHMETTERLING | 7.00% | ~30 |
 | The Workshop | 6.00% | ~26 |
 | Islander Understanding | 5.00% | ~21 |
 | A Paris Sunset | 5.00% | ~21 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | Pacifism Ain't Easy | 0.70% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 426 (Ranked 366)  
+Progressed: 427 (Ranked 366)  
 Completed: 1 (0.23%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 1 (0.23%) (Ranked 269)
 | 2024-01-07 | 416 | 1 |
 | 2024-01-08 | 418 | 1 |
 | 2024-01-09 | 420 | 1 |
-| 2024-01-10 | 426 | 1 |
+| 2024-01-10 | 427 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

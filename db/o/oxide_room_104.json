@@ -2,10 +2,10 @@
   "ID": "877e0717992c4058acdb32363130958a",
   "Name": "Oxide Room 104",
   "ProductSlug": "oxide-room-104-4c1249",
-  "Ranking_EOS_Progress": 391,
+  "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 320,
+  "EOS_Progressed": 321,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -1479,6 +1479,11 @@
       "Time": "2024-01-10T18:06:38.4046294+00:00",
       "NumProgressed": 320,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T22:06:26.5868527+00:00",
+      "NumProgressed": 321,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -1506,7 +1511,7 @@
       "Name": "Antidote",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_BANDAGES",
@@ -1514,7 +1519,7 @@
       "Name": "First aid",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_BATHROOM",
@@ -1546,7 +1551,7 @@
       "Name": "I\u0027m close now",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_ENTRANCEEVIL",
@@ -1554,7 +1559,7 @@
       "Name": "Failed attempt",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_ESCAPEDOC",
@@ -1562,7 +1567,7 @@
       "Name": "The real escape",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_EVADOCUMENTS",
@@ -1576,9 +1581,9 @@
       "ID": "ACH_EVILDOCUMENTS",
       "SetID": "511e31d",
       "Name": "Horror book",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 10
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_FORCE",
@@ -1586,7 +1591,7 @@
       "Name": "Brute force",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACH_GOODENDING",
@@ -1600,9 +1605,9 @@
       "ID": "ACH_HOHARMFORCE104",
       "SetID": "511e31d",
       "Name": "Let\u0027s play a game\u2026",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 234
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_KITCHEN",
@@ -1626,7 +1631,7 @@
       "Name": "Soundtrack",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_NOBULLETS",
@@ -1642,7 +1647,7 @@
       "Name": "Good choice",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_OUTOFMOTEL",
@@ -1658,7 +1663,7 @@
       "Name": "Nimble fingers",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_RESTAURANT",
@@ -1666,7 +1671,7 @@
       "Name": "Take the long way round",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_REVENGE",
@@ -1682,7 +1687,7 @@
       "Name": "Room 104",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_ROOM203",
@@ -1706,7 +1711,7 @@
       "Name": "He who seeks, finds!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_THEGARDEN",
@@ -1714,7 +1719,7 @@
       "Name": "Face to face",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_THIRDFLOOR",
@@ -1737,14 +1742,14 @@
     {
       "ID": "511e31d",
       "IsBase": true,
-      "Progressed": 320,
+      "Progressed": 321,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:07:56.0834107+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:06:26.5868522+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:32.0336088+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:57:33.8968897+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:07:56.0834445+00:00"
+  "LastUpdate_Ratings": "2024-01-10T21:57:39.7255697+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:06:26.5868777+00:00"
 }

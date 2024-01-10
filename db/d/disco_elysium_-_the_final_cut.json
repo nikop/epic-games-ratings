@@ -1584,10 +1584,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 1164,
       "NumberOfAwardsMax": 763
+    },
+    {
+      "Time": "2024-01-10T21:59:24.5202954+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 1165,
+      "NumberOfAwardsMax": 763
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1164,
+  "NumberOfAwards": 1165,
   "NumberOfAwardsMax": 763,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1607,7 +1613,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game is Educational",
@@ -1670,9 +1676,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 138664,
+  "EOS_Progressed": 138665,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 1441,
+  "EOS_NewPlayers": 1439,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28070,6 +28076,11 @@
       "Time": "2024-01-10T21:08:35.1309284+00:00",
       "NumProgressed": 138664,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-10T22:08:44.3036584+00:00",
+      "NumProgressed": 138665,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -28400,15 +28411,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 138664,
+      "Progressed": 138665,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2024-01-08T21:59:00.2507162+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:08:35.130928+00:00",
+  "LastChanged": "2024-01-10T21:59:24.5202954+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:08:44.3036581+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.1301003+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:59:19.7434272+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:08:35.1310947+00:00"
+  "LastUpdate_Ratings": "2024-01-10T21:59:24.5202957+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:08:44.3038126+00:00"
 }

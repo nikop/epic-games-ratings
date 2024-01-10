@@ -1665,9 +1665,9 @@
       "ID": "FISH_COIN_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Ticket to Tranquility",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 121
     },
     {
       "ID": "GET_FISH_ALL",
@@ -1864,8 +1864,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:08:26.6482771+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:06:56.5606637+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:55.9554345+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:57:40.2191469+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:08:26.6483354+00:00"
+  "LastUpdate_Ratings": "2024-01-10T21:57:44.9059792+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:06:56.5607055+00:00"
 }

@@ -1,13 +1,13 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.51 (Ranked 593)  
+Rating: 4.51 (Ranked 592)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Prepper | 94.00% | ~5,852 |
+| All thumbs | 93.00% | ~5,789 |
 | I will survive! | 93.00% | ~5,789 |
-| All thumbs | 92.00% | ~5,727 |
 | Home, sweet home | 91.00% | ~5,665 |
 | Survivalist | 90.00% | ~5,602 |
 | One way ticket | 85.00% | ~5,291 |

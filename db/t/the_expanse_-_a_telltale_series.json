@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 574,
+  "Ranking_Rating": 573,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 159,
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18822,
+  "EOS_Progressed": 18827,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 688,
+  "EOS_NewPlayers": 689,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -16962,6 +16962,11 @@
       "Time": "2024-01-10T21:08:18.0363872+00:00",
       "NumProgressed": 18822,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2024-01-10T22:06:47.9337036+00:00",
+      "NumProgressed": 18827,
+      "NumCompleted": 62
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16990,7 +16995,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2447
+      "UsersEstimate": 2448
     },
     {
       "ID": "12",
@@ -17006,7 +17011,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3388
+      "UsersEstimate": 3389
     },
     {
       "ID": "14",
@@ -17014,7 +17019,7 @@
       "Name": "Doctor Approved",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "15",
@@ -17022,7 +17027,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2070
+      "UsersEstimate": 2071
     },
     {
       "ID": "16",
@@ -17046,7 +17051,7 @@
       "Name": "Bottoms up!",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "19",
@@ -17054,7 +17059,7 @@
       "Name": "Martian Music",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2447
+      "UsersEstimate": 2448
     },
     {
       "ID": "2",
@@ -17086,7 +17091,7 @@
       "Name": "Brother\u0027s Reaper",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "23",
@@ -17126,7 +17131,7 @@
       "Name": "Bosmang",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2447
+      "UsersEstimate": 2448
     },
     {
       "ID": "28",
@@ -17150,7 +17155,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2823
+      "UsersEstimate": 2824
     },
     {
       "ID": "30",
@@ -17158,7 +17163,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "4",
@@ -17166,7 +17171,7 @@
       "Name": "Debris Spree",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "5",
@@ -17182,7 +17187,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "7",
@@ -17198,7 +17203,7 @@
       "Name": "Data Recoverer",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "9",
@@ -17206,7 +17211,7 @@
       "Name": "Impossible Objects",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2447
+      "UsersEstimate": 2448
     },
     {
       "ID": "31",
@@ -17253,22 +17258,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18822,
+      "Progressed": 18827,
       "Completed": 62
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4776,
-      "Completed": 1275
+      "Progressed": 4781,
+      "Completed": 1276
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-08T14:59:15.8971936+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:08:18.0363867+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:06:47.9337032+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:59:45.5954363+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:08:18.0365092+00:00"
+  "LastUpdate_Ratings": "2024-01-10T21:59:49.0575566+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:06:47.9337979+00:00"
 }

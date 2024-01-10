@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~139 |
 | What body? | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,664 (Ranked 90)  
+Progressed: 138,665 (Ranked 90)  
 Completed: 29 (0.02%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,10 +312,10 @@ Completed: 29 (0.02%) (Ranked 362)
 | 2024-01-07 | 138,114 | 29 |
 | 2024-01-08 | 138,281 | 29 |
 | 2024-01-09 | 138,471 | 29 |
-| 2024-01-10 | 138,664 | 29 |
+| 2024-01-10 | 138,665 | 29 |
 ## Awards
 Max (Character Customization): 763  (Ranked 191)  
-Sum: 1,164 (Ranked 265)  
+Sum: 1,165 (Ranked 265)  
 Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
@@ -328,7 +328,7 @@ Diff (max vs sum): -74
 | This game has Amazing Characters | 39 |
 | This game is Relaxing | 38 |
 | This game has Diverse Characters | 37 |
-| This game is Extremely Fun | 33 |
+| This game is Extremely Fun | 34 |
 | This game has Obsessive Gameplay | 26 |
 | This game has a Creative Community | 24 |
 | This game has Easy Combat | 20 |
@@ -513,3 +513,4 @@ Diff (max vs sum): -74
 | 2024-01-04 | 4.87 | - | 758 | 1,157 |
 | 2024-01-07 | 4.87 | - | 761 | 1,162 |
 | 2024-01-08 | 4.86 | - | 763 | 1,164 |
+| 2024-01-10 | 4.86 | - | 763 | 1,165 |

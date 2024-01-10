@@ -1,37 +1,37 @@
 # Spirit of the North
 [Store](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)  
 [View Rawdata](../../db/s/spirit_of_the_north.json)  
-Rating: 4.36 (Ranked 818)  
+Rating: 4.36 (Ranked 817)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 69.00% | ~54,979 |
-| INFUSED WITH LIGHT | 53.00% | ~42,230 |
-| FOXIN' AROUND | 29.00% | ~23,107 |
-| FETCH | 28.00% | ~22,310 |
-| BLOOMS OF LIGHT | 26.00% | ~20,717 |
-| AWAKEN | 22.00% | ~17,529 |
-| BEST FRIENDS | 22.00% | ~17,529 |
-| SPIRIT BARK | 22.00% | ~17,529 |
+| A GUARDIAN FORGOTTEN | 69.00% | ~54,981 |
+| INFUSED WITH LIGHT | 53.00% | ~42,232 |
+| FOXIN' AROUND | 29.00% | ~23,108 |
+| FETCH | 28.00% | ~22,311 |
+| BLOOMS OF LIGHT | 26.00% | ~20,718 |
+| AWAKEN | 22.00% | ~17,530 |
+| BEST FRIENDS | 22.00% | ~17,530 |
+| SPIRIT BARK | 22.00% | ~17,530 |
 | ERADICATE | 21.00% | ~16,733 |
-| GARDEN OF LIGHT | 18.00% | ~14,342 |
-| SPIRIT FORM | 17.00% | ~13,545 |
+| GARDEN OF LIGHT | 18.00% | ~14,343 |
+| SPIRIT FORM | 17.00% | ~13,546 |
 | UPROOTING DARKNESS | 16.00% | ~12,749 |
 | WRITTEN IN STONE | 16.00% | ~12,749 |
-| WEIGHTLESS | 12.00% | ~9,561 |
+| WEIGHTLESS | 12.00% | ~9,562 |
 | SPIRIT DASH | 11.00% | ~8,765 |
 | OLD COMPANION | 9.00% | ~7,171 |
 | PLAGUE DOCTOR | 9.00% | ~7,171 |
-| MATCH MAKER | 8.00% | ~6,374 |
-| NORTHERN LIGHTS | 8.00% | ~6,374 |
-| SPIRITED AWAY | 8.00% | ~6,374 |
+| MATCH MAKER | 8.00% | ~6,375 |
+| NORTHERN LIGHTS | 8.00% | ~6,375 |
+| SPIRITED AWAY | 8.00% | ~6,375 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~3,187 |
 | ANCIENT HISTORY | 3.00% | ~2,390 |
 | NONE FORGOTTEN | 2.00% | ~1,594 |
 | KINDRED SPIRITS | 0.60% | ~478 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,679 (Ranked 111)  
+Progressed: 79,683 (Ranked 111)  
 Completed: 432 (0.54%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 432 (0.54%) (Ranked 214)
 | 2024-01-07 | 79,429 | 431 |
 | 2024-01-08 | 79,536 | 431 |
 | 2024-01-09 | 79,626 | 431 |
-| 2024-01-10 | 79,679 | 432 |
+| 2024-01-10 | 79,683 | 432 |
 ## Awards
 Max (Extremely Fun): 27  (Ranked 541)  
 Sum: 116 (Ranked 459)  

@@ -4,8 +4,8 @@
   "ProductSlug": "starlight-x2-galactic-puzzles-dede7d",
   "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 396,
-  "Ranking_EOS_NewPlayers": 469,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 468,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-07T07:00:00+00:00",
     "PcReleaseDate": "2021-04-15T10:00:00+00:00",
@@ -659,9 +659,9 @@
       "ID": "ach_nohints_00",
       "SetID": "8jkn3bi",
       "Name": "By Yourself 5x5",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_nohints_01",
@@ -794,8 +794,8 @@
   ],
   "FirstSeen": "2023-11-18T16:58:15.9400848+00:00",
   "FirstSeenAchievements": "2023-04-25T20:54:03.7448556+00:00",
-  "LastChanged_Achievements": "2024-01-10T21:09:56.1226168+00:00",
+  "LastChanged_Achievements": "2024-01-10T22:10:04.6102471+00:00",
   "LastUpdate_AppInfo": "2024-01-06T17:57:06.833753+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:58:34.9339033+00:00",
-  "LastUpdate_Achievements": "2024-01-10T21:09:56.1226491+00:00"
+  "LastUpdate_Ratings": "2024-01-10T21:58:39.4631384+00:00",
+  "LastUpdate_Achievements": "2024-01-10T22:10:04.6102781+00:00"
 }
