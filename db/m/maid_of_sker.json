@@ -2,7 +2,7 @@
   "ID": "89a30c2a3fdb4281b5df57350e797ca9",
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
-  "Ranking_EOS_Progress": 405,
+  "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 153,
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 292,
+  "EOS_Progressed": 293,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -820,6 +820,11 @@
       "Time": "2024-01-10T12:04:37.0696645+00:00",
       "NumProgressed": 292,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T16:04:50.0986853+00:00",
+      "NumProgressed": 293,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -1070,7 +1075,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 292,
+      "Progressed": 293,
       "Completed": 0
     }
   ],
@@ -1078,8 +1083,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2024-01-10T15:04:17.2606483+00:00",
+  "LastChanged_Achievements": "2024-01-10T16:04:50.098685+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:28.9331168+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:58:48.9679179+00:00",
-  "LastUpdate_Achievements": "2024-01-10T15:04:17.2606694+00:00"
+  "LastUpdate_Ratings": "2024-01-10T15:59:25.4901983+00:00",
+  "LastUpdate_Achievements": "2024-01-10T16:04:50.0987076+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1330,
+  "EOS_Progressed": 1332,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2879,6 +2879,11 @@
       "Time": "2024-01-10T14:06:40.2743795+00:00",
       "NumProgressed": 1330,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T16:06:04.6297921+00:00",
+      "NumProgressed": 1332,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -3058,7 +3063,7 @@
       "Name": "The Penitent Ones",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "EXILED_SOLDIER_FRIEND",
@@ -3074,7 +3079,7 @@
       "Name": "The City",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "GOLDMASTER",
@@ -3082,7 +3087,7 @@
       "Name": "Greedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "PREVENTRIOT",
@@ -3098,7 +3103,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "SUMMON_BOSS",
@@ -3178,7 +3183,7 @@
       "Name": "The Stranded King",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "WINMATCHWITH_MERCHANT",
@@ -3234,7 +3239,7 @@
       "Name": "Accepting the Prophecy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "WINMATCH_DIFF_STANDARD",
@@ -3249,7 +3254,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1330,
+      "Progressed": 1332,
       "Completed": 0
     }
   ],
@@ -3257,8 +3262,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-12-18T15:02:48.0768878+00:00",
-  "LastChanged_Achievements": "2024-01-10T15:05:18.5429111+00:00",
+  "LastChanged_Achievements": "2024-01-10T16:06:04.6297918+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.342608+00:00",
-  "LastUpdate_Ratings": "2024-01-10T15:03:13.5565495+00:00",
-  "LastUpdate_Achievements": "2024-01-10T15:05:18.5429713+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:03:23.7850686+00:00",
+  "LastUpdate_Achievements": "2024-01-10T16:06:04.6298299+00:00"
 }

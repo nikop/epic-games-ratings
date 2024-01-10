@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1708,
+  "EOS_Progressed": 1709,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4405,6 +4405,11 @@
       "Time": "2024-01-10T15:10:05.2042237+00:00",
       "NumProgressed": 1708,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T16:11:04.1523876+00:00",
+      "NumProgressed": 1709,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -4432,7 +4437,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4440,7 +4445,7 @@
       "Name": "Attenborough",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "BOOKWORM",
@@ -4488,7 +4493,7 @@
       "Name": "Commando",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "CROAKED",
@@ -4544,7 +4549,7 @@
       "Name": "Dressed To Kill",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "DR_JONES",
@@ -4568,7 +4573,7 @@
       "Name": "Endgame",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "EXORCIST",
@@ -4592,7 +4597,7 @@
       "Name": "Firestarter",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "FIRST_BLOOD",
@@ -4600,7 +4605,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -4664,7 +4669,7 @@
       "Name": "I am the law!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "INFILTRATOR",
@@ -4680,7 +4685,7 @@
       "Name": "Lumberjack",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -4720,7 +4725,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "RECYCLER",
@@ -4728,7 +4733,7 @@
       "Name": "Recycler",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "RUTHLESS",
@@ -4744,7 +4749,7 @@
       "Name": "Savior",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "SENSEI",
@@ -4776,7 +4781,7 @@
       "Name": "Silent but Violent",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "TECHNOPHOBE",
@@ -4784,7 +4789,7 @@
       "Name": "Technophobe",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -4800,7 +4805,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "THE_WATCHERS",
@@ -4823,7 +4828,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1708,
+      "Progressed": 1709,
       "Completed": 0
     }
   ],
@@ -4831,8 +4836,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2024-01-02T20:02:58.7354435+00:00",
-  "LastChanged_Achievements": "2024-01-10T15:10:05.204219+00:00",
+  "LastChanged_Achievements": "2024-01-10T16:11:04.1523873+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:50.6715934+00:00",
-  "LastUpdate_Ratings": "2024-01-10T15:03:16.1324263+00:00",
-  "LastUpdate_Achievements": "2024-01-10T15:10:05.2042823+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:03:28.0020018+00:00",
+  "LastUpdate_Achievements": "2024-01-10T16:11:04.1524396+00:00"
 }

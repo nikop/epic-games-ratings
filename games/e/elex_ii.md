@@ -7,8 +7,8 @@ Number of Ratings: 124  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 42.00% | ~95 |
+| Best Buddy | 35.00% | ~79 |
 | Civilian | 34.00% | ~77 |
-| Best Buddy | 34.00% | ~77 |
 | Role Model | 29.00% | ~66 |
 | Creator | 27.00% | ~61 |
 | Festival-goer | 26.00% | ~59 |
@@ -25,16 +25,16 @@ Number of Ratings: 124  (23.09.2022)
 | Alb | 11.00% | ~25 |
 | Berserker | 11.00% | ~25 |
 | Banker | 10.00% | ~23 |
+| Perfectionist | 8.00% | ~18 |
 | Beam Me Up | 7.00% | ~16 |
 | Hotshot | 7.00% | ~16 |
-| Perfectionist | 7.00% | ~16 |
 | Hunter | 7.00% | ~16 |
 | Lover | 7.00% | ~16 |
 | Treasure Hunter | 6.00% | ~14 |
 | Free as a Bird | 6.00% | ~14 |
 | Detective | 6.00% | ~14 |
+| Weaponsmith | 5.00% | ~11 |
 | Cleric | 5.00% | ~11 |
-| Weaponsmith | 4.00% | ~9 |
 | Alchemist | 4.00% | ~9 |
 | Unbreakable | 4.00% | ~9 |
 | Self-Sufficient | 3.00% | ~7 |

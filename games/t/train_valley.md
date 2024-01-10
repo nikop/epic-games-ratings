@@ -6,32 +6,32 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 76.00% | ~495 |
-| Close call! | 71.00% | ~462 |
-| Builder | 51.00% | ~332 |
-| Pangs of conscience | 44.00% | ~286 |
-| Living it large! | 44.00% | ~286 |
-| Collector | 43.00% | ~280 |
-| Need to think | 41.00% | ~267 |
-| Completely nuts! | 40.00% | ~260 |
-| Europe | 33.00% | ~215 |
+| Getting started | 76.00% | ~496 |
+| Close call! | 70.00% | ~457 |
+| Builder | 51.00% | ~333 |
+| Pangs of conscience | 44.00% | ~287 |
+| Living it large! | 44.00% | ~287 |
+| Collector | 42.00% | ~274 |
+| Need to think | 41.00% | ~268 |
+| Completely nuts! | 40.00% | ~261 |
 | Just in time! | 33.00% | ~215 |
+| Europe | 32.00% | ~209 |
 | Madness! | 31.00% | ~202 |
-| It's no coincidence. | 28.00% | ~182 |
-| Philatelist | 26.00% | ~169 |
+| It's no coincidence. | 28.00% | ~183 |
+| Philatelist | 26.00% | ~170 |
 | Let's roll! | 25.00% | ~163 |
-| Ouroboros | 24.00% | ~156 |
-| Non Stop! | 24.00% | ~156 |
-| Foreman | 20.00% | ~130 |
+| Ouroboros | 24.00% | ~157 |
+| Non Stop! | 24.00% | ~157 |
+| Foreman | 20.00% | ~131 |
 | Russia | 19.00% | ~124 |
-| America | 18.00% | ~117 |
-| Missed it! | 18.00% | ~117 |
+| America | 18.00% | ~118 |
+| Missed it! | 18.00% | ~118 |
 | Sabotage | 15.00% | ~98 |
 | Achtung! | 12.00% | ~78 |
 | Japan | 11.00% | ~72 |
-| Tycoon | 10.00% | ~65 |
 | Woodcutter | 10.00% | ~65 |
-| Engineer | 10.00% | ~65 |
+| Tycoon | 9.00% | ~59 |
+| Engineer | 9.00% | ~59 |
 | Germany | 7.00% | ~46 |
 | Supercrash! | 5.00% | ~33 |
 | Chuck Norris | 5.00% | ~33 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Mega-railroad | 0.60% | ~4 |
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 651 (Ranked 335)  
+Progressed: 653 (Ranked 335)  
 Completed: 2 (0.31%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,6 +196,7 @@ Completed: 2 (0.31%) (Ranked 252)
 | 2024-01-07 | 645 | 2 |
 | 2024-01-08 | 646 | 2 |
 | 2024-01-09 | 651 | 2 |
+| 2024-01-10 | 653 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

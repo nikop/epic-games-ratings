@@ -3788,9 +3788,9 @@
       "ID": "AMMO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "This Isn\u0027t The Last Box",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1027
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3828,9 +3828,9 @@
       "ID": "ATK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beware of the Goat",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 628
+      "UsersEstimate": 642
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -4220,17 +4220,17 @@
       "ID": "OUT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Last of Us",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 457
+      "UsersEstimate": 471
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beep Beep Boop",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 200
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -4323,8 +4323,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-10T15:10:07.5139986+00:00",
+  "LastChanged_Achievements": "2024-01-10T16:11:06.7280547+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:08.8169923+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:59:56.140917+00:00",
-  "LastUpdate_Achievements": "2024-01-10T15:10:07.5140963+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:00:59.1025033+00:00",
+  "LastUpdate_Achievements": "2024-01-10T16:11:06.7281423+00:00"
 }

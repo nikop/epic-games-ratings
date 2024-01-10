@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,436 |
-| Off to a good start | 61.00% | ~1,728 |
-| Do... or do not. There is no try | 52.00% | ~1,473 |
+| New Recruit | 86.00% | ~2,438 |
+| Off to a good start | 61.00% | ~1,729 |
+| Do... or do not. There is no try | 52.00% | ~1,474 |
 | A good blaster at your side | 24.00% | ~680 |
-| I suggest a new strategy | 17.00% | ~481 |
-| Great shot, kid! | 16.00% | ~453 |
+| I suggest a new strategy | 17.00% | ~482 |
+| Great shot, kid! | 16.00% | ~454 |
 | Scrap collector | 15.00% | ~425 |
-| All right, I'll give it a try | 14.00% | ~396 |
+| All right, I'll give it a try | 14.00% | ~397 |
 | The power of the Force | 12.00% | ~340 |
 | Together we can rule the galaxy | 12.00% | ~340 |
 | Shoot first | 12.00% | ~340 |
@@ -26,11 +26,12 @@
 | Impressive. Most impressive. | 5.00% | ~142 |
 | Judge me by my size, do you? | 5.00% | ~142 |
 | Distinguished | 4.00% | ~113 |
+| A tremor in the Force | 4.00% | ~113 |
 | Support the troops | 4.00% | ~113 |
-| A tremor in the Force | 3.00% | ~85 |
 | Safety ain't the point of a joyride | 3.00% | ~85 |
 | Not bad for a little furball | 3.00% | ~85 |
 | Patience you must have | 3.00% | ~85 |
+| Don't underestimate the Force | 3.00% | ~85 |
 | The Force is strong with this one | 2.00% | ~57 |
 | I've been waiting for you | 2.00% | ~57 |
 | When 900 years old you reach... | 2.00% | ~57 |
@@ -39,7 +40,6 @@
 | On the ball | 2.00% | ~57 |
 | Precision shot | 2.00% | ~57 |
 | That's no moon | 2.00% | ~57 |
-| Don't underestimate the Force | 2.00% | ~57 |
 | Hold the line! | 1.00% | ~28 |
 | Ackbar's Elite | 1.00% | ~28 |
 | This is a new day, a new beginning | 1.00% | ~28 |
@@ -48,7 +48,7 @@
 | What will you become? | 1.00% | ~28 |
 | The circle is now complete | 1.00% | ~28 |
 | Disturbed tranquility | 1.00% | ~28 |
-| Onwards! | 0.90% | ~25 |
+| Onwards! | 0.90% | ~26 |
 | Playing the objective | 0.80% | ~23 |
 | Walker defender | 0.80% | ~23 |
 | You have your moments | 0.70% | ~20 |
@@ -58,8 +58,8 @@
 | No such thing as luck | 0.50% | ~14 |
 | Do we take prisoners? | 0.50% | ~14 |
 | I’ll take that bet | 0.40% | ~11 |
-| Stay on target | 0.30% | ~8 |
-| Greed can be a very powerful ally | 0.30% | ~8 |
+| Stay on target | 0.30% | ~9 |
+| Greed can be a very powerful ally | 0.30% | ~9 |
 | That got him! | 0.20% | ~6 |
 | in a galaxy far, far away.... | 0.20% | ~6 |
 | Don't get cocky | 0.20% | ~6 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,832 (Ranked 232)  
+Progressed: 2,835 (Ranked 232)  
 Completed: 1 (0.04%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 1 (0.04%) (Ranked 349)
 | 2024-01-07 | 2,750 | 1 |
 | 2024-01-08 | 2,781 | 1 |
 | 2024-01-09 | 2,816 | 1 |
-| 2024-01-10 | 2,832 | 1 |
+| 2024-01-10 | 2,835 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

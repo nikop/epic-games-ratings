@@ -4,8 +4,8 @@
 Rating: 4.71 (Ranked 203)  
 ## Awards
 Max (Quickly Understood Controls): 23  (Ranked 562)  
-Sum: 66 (Ranked 494)  
-Diff (max vs sum): 68  
+Sum: 66 (Ranked 495)  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 215 |

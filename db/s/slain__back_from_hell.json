@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -256,9 +256,9 @@
       "Count": 129
     }
   ],
-  "EOS_Progressed": 43925,
+  "EOS_Progressed": 43927,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 519,
+  "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -29061,6 +29061,11 @@
       "Time": "2024-01-10T15:04:15.6435394+00:00",
       "NumProgressed": 43925,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-10T16:04:48.0580458+00:00",
+      "NumProgressed": 43927,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -29080,7 +29085,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9224
+      "UsersEstimate": 9225
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -29112,7 +29117,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -29184,7 +29189,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -29303,7 +29308,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 43925,
+      "Progressed": 43927,
       "Completed": 30
     }
   ],
@@ -29311,8 +29316,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2024-01-10T02:27:03.5087027+00:00",
-  "LastChanged_Achievements": "2024-01-10T15:04:15.643539+00:00",
+  "LastChanged_Achievements": "2024-01-10T16:04:48.0580454+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:02.3058441+00:00",
-  "LastUpdate_Ratings": "2024-01-10T15:03:01.2721839+00:00",
-  "LastUpdate_Achievements": "2024-01-10T15:04:15.6436665+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:03:07.8374302+00:00",
+  "LastUpdate_Achievements": "2024-01-10T16:04:48.0581797+00:00"
 }

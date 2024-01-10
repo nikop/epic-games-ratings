@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 87.00% | ~66 |
-| Suicide squad | 46.00% | ~35 |
+| First success | 87.00% | ~67 |
+| Suicide squad | 45.00% | ~35 |
 | Train hard, fight easy | 30.00% | ~23 |
 | Under cover | 30.00% | ~23 |
 | First blood | 30.00% | ~23 |
 | Royal blessing | 25.00% | ~19 |
-| Blood and sand | 20.00% | ~15 |
+| Blood and sand | 19.00% | ~15 |
 | All for one! | 18.00% | ~14 |
 | A hidden snake | 18.00% | ~14 |
 | Surpass the teacher | 16.00% | ~12 |
@@ -27,9 +27,9 @@
 | The champion of the arena | 8.00% | ~6 |
 | Punish the Punisher | 8.00% | ~6 |
 | The End | 8.00% | ~6 |
-| Collector | 7.00% | ~5 |
-| Stronger than Gellian steel | 7.00% | ~5 |
-| Protect the Healer! | 7.00% | ~5 |
+| Collector | 6.00% | ~5 |
+| Stronger than Gellian steel | 6.00% | ~5 |
+| Protect the Healer! | 6.00% | ~5 |
 | The best apprentice | 5.00% | ~4 |
 | First among Frisians | 5.00% | ~4 |
 | Defeat the bear | 5.00% | ~4 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76 (Ranked 523)  
+Progressed: 77 (Ranked 522)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 72 | 0 |
 | 2024-01-08 | 73 | 0 |
 | 2024-01-09 | 75 | 0 |
-| 2024-01-10 | 76 | 0 |
+| 2024-01-10 | 77 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

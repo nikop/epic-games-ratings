@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewPlayers": 57,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9395,10 +9395,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33423,
       "NumberOfAwardsMax": 5768
+    },
+    {
+      "Time": "2024-01-10T15:58:56.0510542+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33427,
+      "NumberOfAwardsMax": 5768
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33423,
+  "NumberOfAwards": 33427,
   "NumberOfAwardsMax": 5768,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9430,7 +9436,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4312
+      "Count": 4316
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9445,9 +9451,9 @@
       "Count": 3634
     }
   ],
-  "EOS_Progressed": 253191,
+  "EOS_Progressed": 253201,
   "EOS_Completed": 2610,
-  "EOS_NewPlayers": 2790,
+  "EOS_NewPlayers": 2777,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39500,6 +39506,11 @@
       "Time": "2024-01-10T15:10:11.5540607+00:00",
       "NumProgressed": 253191,
       "NumCompleted": 2610
+    },
+    {
+      "Time": "2024-01-10T16:11:11.0874832+00:00",
+      "NumProgressed": 253201,
+      "NumCompleted": 2610
     }
   ],
   "TotalAchievements": 546,
@@ -40741,9 +40752,9 @@
       "ID": "objective_completed_17",
       "SetID": "cc37lbc",
       "Name": "March of the Undead",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 760
     },
     {
       "ID": "objective_completed_170",
@@ -43878,21 +43889,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219465,
+      "Progressed": 219475,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253191,
+      "Progressed": 253201,
       "Completed": 2610
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-10T11:58:32.7144475+00:00",
-  "LastChanged_Achievements": "2024-01-10T15:10:11.5540602+00:00",
+  "LastChanged": "2024-01-10T15:58:56.051054+00:00",
+  "LastChanged_Achievements": "2024-01-10T16:11:11.0874828+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:58:28.1110278+00:00",
-  "LastUpdate_Achievements": "2024-01-10T15:10:11.5564718+00:00"
+  "LastUpdate_Ratings": "2024-01-10T15:58:56.0510546+00:00",
+  "LastUpdate_Achievements": "2024-01-10T16:11:11.0899845+00:00"
 }

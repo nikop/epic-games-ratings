@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 75.00% | ~116 |
-| Gear Up | 64.00% | ~99 |
-| A Grand Show | 64.00% | ~99 |
+| Iceberg Theory | 75.00% | ~117 |
+| Gear Up | 64.00% | ~100 |
+| A Grand Show | 64.00% | ~100 |
 | Freshen Up | 54.00% | ~84 |
-| GG EZ | 52.00% | ~81 |
-| Hydrophobia | 35.00% | ~54 |
-| Ka-Ching! | 30.00% | ~46 |
-| Stop Right There | 26.00% | ~40 |
+| GG EZ | 51.00% | ~80 |
+| Hydrophobia | 35.00% | ~55 |
+| Ka-Ching! | 29.00% | ~45 |
+| Stop Right There | 26.00% | ~41 |
 | Get to the Point | 24.00% | ~37 |
-| Mr. Want It All | 14.00% | ~22 |
-| Toe to Toe | 14.00% | ~22 |
-| Phew! | 14.00% | ~22 |
 | The Hidden Secret | 13.00% | ~20 |
+| Mr. Want It All | 13.00% | ~20 |
+| Toe to Toe | 13.00% | ~20 |
+| Phew! | 13.00% | ~20 |
 | The Abyss Conqueror | 9.00% | ~14 |
 | Space Warrior: Prologue | 9.00% | ~14 |
 | The Fortress Conqueror | 8.00% | ~12 |
 | Grand Escape | 8.00% | ~12 |
 | Keep it Up, rookie! | 6.00% | ~9 |
-| The Sunken City Conqueror | 5.00% | ~8 |
-| The Deep Frozen Conqueror | 5.00% | ~8 |
-| The Infinite Train Conqueror | 5.00% | ~8 |
-| The Paradox Coordinate Conqueror | 5.00% | ~8 |
-| The Inactivated Frozen Conqueror | 5.00% | ~8 |
 | The Hypergravitational Abyss Conqueror | 5.00% | ~8 |
 | he Ultra Fortress Conqueror | 5.00% | ~8 |
-| Antaeus | 5.00% | ~8 |
-| Hell of a Fight | 5.00% | ~8 |
 | Decapitation Strike | 5.00% | ~8 |
+| The Sunken City Conqueror | 4.00% | ~6 |
+| The Deep Frozen Conqueror | 4.00% | ~6 |
+| The Infinite Train Conqueror | 4.00% | ~6 |
+| The Paradox Coordinate Conqueror | 4.00% | ~6 |
 | The Zero Dimensional Capital Conqueror | 4.00% | ~6 |
+| The Inactivated Frozen Conqueror | 4.00% | ~6 |
 | Death Bringer Conqueror | 4.00% | ~6 |
+| Antaeus | 4.00% | ~6 |
+| Hell of a Fight | 4.00% | ~6 |
 | The Looping Space Conqueror | 3.00% | ~5 |
 | Break Through the Forbidden | 3.00% | ~5 |
 | Space Ranger: Prologue | 3.00% | ~5 |
@@ -55,8 +55,8 @@
 | Bullets Fear Me | 0.60% | ~1 |
 | Super Alloy Ranger! | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155 (Ranked 454)  
-Completed: 1 (0.65%) (Ranked 200)  
+Progressed: 156 (Ranked 454)  
+Completed: 1 (0.64%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -142,6 +142,7 @@ Completed: 1 (0.65%) (Ranked 200)
 | 2024-01-06 | 152 | 1 |
 | 2024-01-07 | 154 | 1 |
 | 2024-01-09 | 155 | 1 |
+| 2024-01-10 | 156 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

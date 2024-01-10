@@ -445,9 +445,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 587,
+  "EOS_Progressed": 590,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2090,6 +2090,11 @@
       "Time": "2024-01-10T14:11:15.1907494+00:00",
       "NumProgressed": 587,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T16:10:48.7559472+00:00",
+      "NumProgressed": 590,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -2100,7 +2105,7 @@
       "ID": "ABulletforAllSeasons",
       "SetID": "329ak73",
       "Name": "A Bullet for All Seasons",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -2188,7 +2193,7 @@
       "ID": "GoodDeeds",
       "SetID": "329ak73",
       "Name": "Good Deeds",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -2286,7 +2291,7 @@
       "Name": "Soul Cache",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "TheDeadCourt",
@@ -2316,7 +2321,7 @@
       "ID": "WalkingArmory",
       "SetID": "329ak73",
       "Name": "Walking Armory",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -2341,15 +2346,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 587,
+      "Progressed": 590,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-10T15:09:53.1021016+00:00",
+  "LastChanged_Achievements": "2024-01-10T16:10:48.7559468+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.460117+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:59:12.9908795+00:00",
-  "LastUpdate_Achievements": "2024-01-10T15:09:53.1021266+00:00"
+  "LastUpdate_Ratings": "2024-01-10T15:59:57.7422817+00:00",
+  "LastUpdate_Achievements": "2024-01-10T16:10:48.7559936+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 655,
+  "EOS_Progressed": 656,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2276,6 +2276,11 @@
       "Time": "2024-01-10T14:10:34.4468208+00:00",
       "NumProgressed": 655,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-10T16:10:08.1408404+00:00",
+      "NumProgressed": 656,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -2287,7 +2292,7 @@
       "Name": "Digger",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -2373,9 +2378,9 @@
       "ID": "ACH_COLLECT_50_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Gatherer",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 347
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH_COOK",
@@ -2383,7 +2388,7 @@
       "Name": "Cook",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -2423,7 +2428,7 @@
       "Name": "My New Home",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ACH_KILL_100",
@@ -2511,7 +2516,7 @@
       "Name": "Advanced Survivalist",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -2527,14 +2532,14 @@
       "Name": "Teleport",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     }
   ],
   "AchievementSets": [
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 655,
+      "Progressed": 656,
       "Completed": 4
     }
   ],
@@ -2542,8 +2547,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-10T15:09:21.8542044+00:00",
+  "LastChanged_Achievements": "2024-01-10T16:10:08.1408401+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2095998+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:57:44.8335874+00:00",
-  "LastUpdate_Achievements": "2024-01-10T15:09:21.8542405+00:00"
+  "LastUpdate_Ratings": "2024-01-10T15:57:55.4978036+00:00",
+  "LastUpdate_Achievements": "2024-01-10T16:10:08.1408698+00:00"
 }

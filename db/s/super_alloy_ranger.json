@@ -3,8 +3,8 @@
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 454,
-  "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_NewPlayers": 425,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 155,
+  "EOS_Progressed": 156,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.65,
+  "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:20.3185117+00:00",
@@ -761,6 +761,11 @@
       "Time": "2024-01-09T04:08:42.2635583+00:00",
       "NumProgressed": 155,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T16:09:11.3153981+00:00",
+      "NumProgressed": 156,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -770,17 +775,17 @@
       "ID": "Achi_01",
       "SetID": "51a97k7",
       "Name": "The Sunken City Conqueror",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Achi_02",
       "SetID": "51a97k7",
       "Name": "The Deep Frozen Conqueror",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Achi_03",
@@ -794,9 +799,9 @@
       "ID": "Achi_04",
       "SetID": "51a97k7",
       "Name": "The Infinite Train Conqueror",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Achi_05",
@@ -810,9 +815,9 @@
       "ID": "Achi_06",
       "SetID": "51a97k7",
       "Name": "The Paradox Coordinate Conqueror",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Achi_07",
@@ -826,9 +831,9 @@
       "ID": "Achi_08",
       "SetID": "51a97k7",
       "Name": "The Inactivated Frozen Conqueror",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Achi_09",
@@ -908,7 +913,7 @@
       "Name": "Gear Up",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "Achi_19",
@@ -940,7 +945,7 @@
       "Name": "Iceberg Theory",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Achi_23",
@@ -962,9 +967,9 @@
       "ID": "Achi_25",
       "SetID": "51a97k7",
       "Name": "Mr. Want It All",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "Achi_26",
@@ -978,17 +983,17 @@
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 80
     },
     {
       "ID": "Achi_28",
       "SetID": "51a97k7",
       "Name": "Ka-Ching!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 45
     },
     {
       "ID": "Achi_29",
@@ -1004,7 +1009,7 @@
       "Name": "A Grand Show",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "Achi_31",
@@ -1026,9 +1031,9 @@
       "ID": "Achi_33",
       "SetID": "51a97k7",
       "Name": "Antaeus",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Achi_34",
@@ -1036,7 +1041,7 @@
       "Name": "Hydrophobia",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Achi_35",
@@ -1044,7 +1049,7 @@
       "Name": "Stop Right There",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Achi_36",
@@ -1066,9 +1071,9 @@
       "ID": "Achi_38",
       "SetID": "51a97k7",
       "Name": "Hell of a Fight",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "Achi_39",
@@ -1082,9 +1087,9 @@
       "ID": "Achi_40",
       "SetID": "51a97k7",
       "Name": "Toe to Toe",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "Achi_41",
@@ -1138,9 +1143,9 @@
       "ID": "Achi_47",
       "SetID": "51a97k7",
       "Name": "Phew!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "Achi_48",
@@ -1171,7 +1176,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 155,
+      "Progressed": 156,
       "Completed": 1
     }
   ],
@@ -1179,8 +1184,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2024-01-10T15:08:37.527406+00:00",
+  "LastChanged_Achievements": "2024-01-10T16:09:11.3153976+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:44.9618155+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:57:20.2850278+00:00",
-  "LastUpdate_Achievements": "2024-01-10T15:08:37.5274636+00:00"
+  "LastUpdate_Ratings": "2024-01-10T15:57:20.7279177+00:00",
+  "LastUpdate_Achievements": "2024-01-10T16:09:11.3154422+00:00"
 }

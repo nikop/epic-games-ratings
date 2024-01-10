@@ -35,7 +35,7 @@
 | Nuisance Caller | 0.00% | ~0 |
 | The Longest Night | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 292 (Ranked 405)  
+Progressed: 293 (Ranked 404)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-06 | 281 | 0 |
 | 2024-01-07 | 287 | 0 |
 | 2024-01-09 | 291 | 0 |
-| 2024-01-10 | 292 | 0 |
+| 2024-01-10 | 293 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

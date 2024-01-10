@@ -17,8 +17,8 @@ Rating: 4.56 (Ranked 510)
 | Ladies' man | 28.00% | ~52 |
 | The merciful one | 27.00% | ~50 |
 | Ferocious wild boars | 23.00% | ~43 |
+| Beast slayer | 22.00% | ~41 |
 | Idiot | 22.00% | ~41 |
-| Beast slayer | 21.00% | ~39 |
 | Death of a legend | 19.00% | ~35 |
 | Ogre friend | 19.00% | ~35 |
 | Family man | 17.00% | ~32 |
@@ -28,9 +28,9 @@ Rating: 4.56 (Ranked 510)
 | Little hero | 16.00% | ~30 |
 | Hard worker | 16.00% | ~30 |
 | Fence | 16.00% | ~30 |
+| Ghost hunter | 15.00% | ~28 |
 | The fourth triplet | 15.00% | ~28 |
 | Master detective | 15.00% | ~28 |
-| Ghost hunter | 14.00% | ~26 |
 | Pandora's box | 13.00% | ~24 |
 | Peacekeeper | 12.00% | ~22 |
 | Defender | 11.00% | ~20 |

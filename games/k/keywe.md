@@ -7,8 +7,8 @@
 | You're Hired | 96.00% | ~158 |
 | Learn the Ropes | 68.00% | ~112 |
 | Practice Makes Postmasters | 38.00% | ~63 |
+| Fun in the Bungalow Basin Sun | 38.00% | ~63 |
 | Working for the Kiweekend | 38.00% | ~63 |
-| Fun in the Bungalow Basin Sun | 37.00% | ~61 |
 | A Startling Discovery | 28.00% | ~46 |
 | Pumpkins and Postage Stamps | 18.00% | ~30 |
 | Kiwinter Kiwonderland | 6.00% | ~10 |

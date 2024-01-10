@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Might be useful… | 38.00% | ~55 |
-| Treasure Hunting | 36.00% | ~53 |
+| Treasure Hunting | 37.00% | ~54 |
 | Shine! | 30.00% | ~44 |
 | Friend! | 29.00% | ~42 |
 | Uncut Gem | 27.00% | ~39 |

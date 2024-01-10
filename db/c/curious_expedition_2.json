@@ -2,7 +2,7 @@
   "ID": "2ba34162e36a4caf860fd00f934c8af1",
   "Name": "Curious Expedition 2",
   "ProductSlug": "curious-expedition-2-8cb901",
-  "Ranking_Rating": 165,
+  "Ranking_Rating": 166,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 366,
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 424,
+  "EOS_Progressed": 425,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -726,6 +726,11 @@
       "Time": "2024-01-10T15:10:06.083469+00:00",
       "NumProgressed": 424,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T16:11:05.3753135+00:00",
+      "NumProgressed": 425,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -873,7 +878,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ach-campaign-story2",
@@ -881,7 +886,7 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ach-campaign-story3",
@@ -889,7 +894,7 @@
       "Name": "O Captain My Captain",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ach-cartography-complete",
@@ -919,9 +924,9 @@
       "ID": "ach-discover-locations-high",
       "SetID": "17ih7ma",
       "Name": "Discovery",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 51
     },
     {
       "ID": "ach-drinkingContest",
@@ -935,9 +940,9 @@
       "ID": "ach-environmentKill",
       "SetID": "17ih7ma",
       "Name": "Fire and Flood",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 174
     },
     {
       "ID": "ach-find-treasure",
@@ -1001,7 +1006,7 @@
       "Name": "Taxonomist",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ach-kill-hyenas",
@@ -1025,7 +1030,7 @@
       "Name": "Shennong Herbalist",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -1033,7 +1038,7 @@
       "Name": "The Workshop",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach-maxClubLevel-british",
@@ -1057,7 +1062,7 @@
       "Name": "Veteran Explorer",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ach-meetGhost",
@@ -1065,7 +1070,7 @@
       "Name": "Spooky!",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ach-noEquipment",
@@ -1113,7 +1118,7 @@
       "Name": "From Whence we Came",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ach-promotion",
@@ -1209,14 +1214,14 @@
       "Name": "Dapper",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     }
   ],
   "AchievementSets": [
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 424,
+      "Progressed": 425,
       "Completed": 1
     }
   ],
@@ -1224,8 +1229,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-10T15:10:06.0834688+00:00",
+  "LastChanged_Achievements": "2024-01-10T16:11:05.3753131+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:11.9345433+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:59:43.2910532+00:00",
-  "LastUpdate_Achievements": "2024-01-10T15:10:06.0835134+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:00:40.3546055+00:00",
+  "LastUpdate_Achievements": "2024-01-10T16:11:05.3753661+00:00"
 }

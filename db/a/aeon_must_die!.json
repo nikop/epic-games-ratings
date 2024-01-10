@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3642,
+  "EOS_Progressed": 3643,
   "EOS_Completed": -28,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
@@ -924,6 +924,11 @@
       "Time": "2024-01-08T12:09:00.2012177+00:00",
       "NumProgressed": 3642,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2024-01-10T16:09:33.2063822+00:00",
+      "NumProgressed": 3643,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -935,7 +940,7 @@
       "Name": "The Purpose Of Betrayal",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "10",
@@ -1214,7 +1219,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3642,
+      "Progressed": 3643,
       "Completed": -28
     }
   ],
@@ -1222,8 +1227,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2024-01-10T15:08:55.1936856+00:00",
+  "LastChanged_Achievements": "2024-01-10T16:09:33.2063818+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:20.8957368+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:59:22.9742392+00:00",
-  "LastUpdate_Achievements": "2024-01-10T15:08:55.1937154+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:00:12.108524+00:00",
+  "LastUpdate_Achievements": "2024-01-10T16:09:33.2064152+00:00"
 }

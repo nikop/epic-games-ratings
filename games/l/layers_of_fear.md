@@ -8,23 +8,23 @@
 | A piece of the story | 65.00% | ~202 |
 | It's covered up for a reason | 59.00% | ~183 |
 | Wanderer | 53.00% | ~164 |
-| Scraps of love | 50.00% | ~155 |
-| The artist’s impression | 48.00% | ~149 |
+| Scraps of love | 51.00% | ~158 |
+| The artist’s impression | 49.00% | ~152 |
 | Do what you have to | 43.00% | ~133 |
-| Sign of weakness | 40.00% | ~124 |
+| Sign of weakness | 41.00% | ~127 |
 | Refuse to look | 36.00% | ~112 |
 | Face your fears | 30.00% | ~93 |
 | Finished it | 25.00% | ~78 |
 | Whispers long forgotten | 17.00% | ~53 |
 | Sound Bite | 13.00% | ~40 |
+| The art of movement | 13.00% | ~40 |
 | A Slice of Life | 12.00% | ~37 |
 | Debut | 12.00% | ~37 |
-| The art of movement | 12.00% | ~37 |
+| Lights! Camera! Action! | 12.00% | ~37 |
 | Another perspective | 11.00% | ~34 |
-| Lights! Camera! Action! | 11.00% | ~34 |
+| Playtime | 10.00% | ~31 |
 | Tough conversation | 10.00% | ~31 |
 | First steps | 9.00% | ~28 |
-| Playtime | 9.00% | ~28 |
 | The tragedy unfolds | 9.00% | ~28 |
 | A new way | 8.00% | ~25 |
 | Breaking free | 8.00% | ~25 |
@@ -33,8 +33,8 @@
 | Casting Finished | 6.00% | ~19 |
 | Instinct of self-preservation | 6.00% | ~19 |
 | Fisherman | 6.00% | ~19 |
+| I remember It Like Was Yesterday | 5.00% | ~16 |
 | Something to think about | 4.00% | ~12 |
-| I remember It Like Was Yesterday | 4.00% | ~12 |
 | Immortalized in my heart | 4.00% | ~12 |
 | We Are Not Alone | 3.00% | ~9 |
 | Dark correspondence | 3.00% | ~9 |

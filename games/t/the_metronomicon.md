@@ -1,4 +1,4 @@
-# The Metronomicon
+# The Metronomicon: Slay the Dance Floor
 [Store](https://store.epicgames.com/en-US/p/the-metronomicon-766679)  
 [View Rawdata](../../db/t/the_metronomicon.json)  
 ## Ratings History

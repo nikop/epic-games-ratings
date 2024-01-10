@@ -41,6 +41,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mind Spike | 0.40% | ~878 |
 | Low Initiative | 0.30% | ~760 |
 | Building Trust | 0.30% | ~760 |
+| March of the Undead | 0.30% | ~760 |
 | No Time To Rest | 0.30% | ~760 |
 | Useless Allies | 0.30% | ~760 |
 | Running of the Saurs | 0.30% | ~760 |
@@ -51,7 +52,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Supply Run | 0.20% | ~506 |
 | Homecoming | 0.20% | ~506 |
 | Street War | 0.20% | ~506 |
-| March of the Undead | 0.20% | ~506 |
 | Wisdom Check | 0.20% | ~506 |
 | The Mists of Ravenloft | 0.20% | ~506 |
 | Invisible Shadows | 0.20% | ~506 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,191 (Ranked 71)  
+Progressed: 253,201 (Ranked 71)  
 Completed: 2,610 (1.03%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -818,10 +818,10 @@ Completed: 2,610 (1.03%) (Ranked 174)
 | 2024-01-07 | 252,516 | 2,599 |
 | 2024-01-08 | 252,794 | 2,602 |
 | 2024-01-09 | 253,044 | 2,606 |
-| 2024-01-10 | 253,191 | 2,610 |
+| 2024-01-10 | 253,201 | 2,610 |
 ## Awards
 Max (Great for Beginners): 5,768  (Ranked 74)  
-Sum: 33,423 (Ranked 41)  
+Sum: 33,427 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -830,7 +830,7 @@ Diff (max vs sum): 33
 | This game has Quickly Understood Controls | 4,903 |
 | This game is Relaxing | 4,773 |
 | This game has Amazing Characters | 4,325 |
-| This game is Highly Recommended | 4,312 |
+| This game is Highly Recommended | 4,316 |
 | This game has Playful Visuals | 3,634 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -1184,4 +1184,4 @@ Diff (max vs sum): 33
 | 2024-01-07 | 4.06 | - | 5,756 | 33,386 |
 | 2024-01-08 | 4.06 | - | 5,763 | 33,403 |
 | 2024-01-09 | 4.06 | - | 5,768 | 33,417 |
-| 2024-01-10 | 4.06 | - | 5,768 | 33,423 |
+| 2024-01-10 | 4.06 | - | 5,768 | 33,427 |

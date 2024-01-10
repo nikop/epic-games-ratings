@@ -381,9 +381,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2347,
+  "EOS_Progressed": 2349,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4341,6 +4341,11 @@
       "Time": "2024-01-10T15:06:29.4688552+00:00",
       "NumProgressed": 2347,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T16:07:36.2950388+00:00",
+      "NumProgressed": 2349,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4350,9 +4355,9 @@
       "ID": "Achievement_001",
       "SetID": "6b34g18",
       "Name": "Neighborhood Revitalization",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 141
     },
     {
       "ID": "Achievement_002",
@@ -4502,9 +4507,9 @@
       "ID": "Achievement_021",
       "SetID": "6b34g18",
       "Name": "Radio Silence",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 141
     },
     {
       "ID": "Achievement_022",
@@ -4879,7 +4884,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2347,
+      "Progressed": 2349,
       "Completed": 0
     }
   ],
@@ -4887,8 +4892,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
-  "LastChanged_Achievements": "2024-01-10T15:06:29.4688548+00:00",
+  "LastChanged_Achievements": "2024-01-10T16:07:36.2950384+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-10T15:00:37.9406798+00:00",
-  "LastUpdate_Achievements": "2024-01-10T15:06:29.4689258+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:01:55.75164+00:00",
+  "LastUpdate_Achievements": "2024-01-10T16:07:36.295128+00:00"
 }

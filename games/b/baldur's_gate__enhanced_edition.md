@@ -1,12 +1,12 @@
 # Baldur's Gate: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/baldurs-gate-enhanced-edition)  
 [View Rawdata](../../db/b/baldur's_gate__enhanced_edition.json)  
-Rating: 4.78 (Ranked 109)  
+Rating: 4.78 (Ranked 110)  
 Number of Ratings: 66  (23.09.2022)  
 ## Awards
 Max (Character Customization): 56  (Ranked 442)  
-Sum: 56 (Ranked 502)  
-Diff (max vs sum): -60  
+Sum: 56 (Ranked 503)  
+Diff (max vs sum): -61  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 56 |

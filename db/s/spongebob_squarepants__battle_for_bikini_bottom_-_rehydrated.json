@@ -5,7 +5,7 @@
   "Ranking_Rating": 359,
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 531,
-  "Ranking_EOS_Progress": 301,
+  "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 106,
@@ -347,9 +347,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 919,
+  "EOS_Progressed": 920,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -2432,6 +2432,11 @@
       "Time": "2024-01-10T14:04:52.5053462+00:00",
       "NumProgressed": 919,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-10T16:04:17.7419861+00:00",
+      "NumProgressed": 920,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2626,9 +2631,9 @@
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Ultra Spatula Seeker",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
@@ -2644,7 +2649,7 @@
       "Name": "Sock Getter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -2692,22 +2697,22 @@
       "Name": "Time For Tutorial",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 919,
+      "Progressed": 920,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-09T20:57:04.6643475+00:00",
-  "LastChanged_Achievements": "2024-01-10T15:03:52.4560001+00:00",
+  "LastChanged_Achievements": "2024-01-10T16:04:17.7419857+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:57:39.9098592+00:00",
-  "LastUpdate_Achievements": "2024-01-10T15:03:52.45603+00:00"
+  "LastUpdate_Ratings": "2024-01-10T15:57:49.236609+00:00",
+  "LastUpdate_Achievements": "2024-01-10T16:04:17.7420165+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 188,
+  "EOS_Progressed": 189,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.06,
   "EosHistory": [
@@ -899,6 +899,11 @@
       "Time": "2024-01-10T15:06:42.8772194+00:00",
       "NumProgressed": 188,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-10T16:08:23.8490409+00:00",
+      "NumProgressed": 189,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 20,
@@ -966,15 +971,15 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "FirstBoss",
       "SetID": "7g1kpc8",
       "Name": "Scull",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 79
     },
     {
       "ID": "FirstStep",
@@ -1036,9 +1041,9 @@
       "ID": "ReturnShell",
       "SetID": "7g1kpc8",
       "Name": "Detective",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "SecondBoss",
@@ -1069,14 +1074,14 @@
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 188,
+      "Progressed": 189,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2024-01-10T15:06:42.8772191+00:00",
+  "LastChanged_Achievements": "2024-01-10T16:08:23.8490405+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:14.8141413+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:59:36.5851718+00:00",
-  "LastUpdate_Achievements": "2024-01-10T15:06:42.8772351+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:00:31.1595104+00:00",
+  "LastUpdate_Achievements": "2024-01-10T16:08:23.8490638+00:00"
 }

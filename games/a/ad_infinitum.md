@@ -8,10 +8,10 @@
 | Path of Despair | 85.00% | ~170 |
 | Not alone | 57.00% | ~114 |
 | Hunger | 50.00% | ~100 |
-| Awaken | 41.00% | ~82 |
+| Awaken | 42.00% | ~84 |
 | Path of Corruption | 34.00% | ~68 |
 | Hope | 30.00% | ~60 |
-| Rage | 29.00% | ~58 |
+| Rage | 30.00% | ~60 |
 | Path of Pain | 22.00% | ~44 |
 | Mayhem | 18.00% | ~36 |
 | Reflections | 18.00% | ~36 |

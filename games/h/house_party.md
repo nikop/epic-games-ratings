@@ -1,12 +1,12 @@
 # House Party
 [Store](https://store.epicgames.com/en-US/p/house-party-ae8b27)  
 [View Rawdata](../../db/h/house_party.json)  
-Rating: 4.31 (Ranked 867)  
+Rating: 4.31 (Ranked 866)  
 Number of Ratings: 177  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Friend in Need... | 7.00% | ~510 |
+| A Friend in Need... | 7.00% | ~511 |
 | Smooth Operator: Madison | 5.00% | ~365 |
 | The Brahdyssey | 3.00% | ~219 |
 | Caught in the Act | 3.00% | ~219 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,291 (Ranked 194)  
+Progressed: 7,294 (Ranked 194)  
 Completed: 3 (0.04%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 3 (0.04%) (Ranked 349)
 | 2024-01-07 | 7,231 | 3 |
 | 2024-01-08 | 7,258 | 3 |
 | 2024-01-09 | 7,281 | 3 |
-| 2024-01-10 | 7,291 | 3 |
+| 2024-01-10 | 7,294 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

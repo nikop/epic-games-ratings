@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 938,
+  "EOS_Progressed": 941,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -3265,6 +3265,11 @@
       "Time": "2024-01-10T12:09:30.1332898+00:00",
       "NumProgressed": 938,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-10T16:09:27.2551076+00:00",
+      "NumProgressed": 941,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3277,7 +3282,7 @@
       "Name": "Assassinate the Makron",
       "Percentage": 14,
       "XP": 120,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_eou1",
@@ -3285,7 +3290,7 @@
       "Name": "Establish Communications",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACH_eou2",
@@ -3293,7 +3298,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACH_eou3",
@@ -3309,7 +3314,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_eou5",
@@ -3341,7 +3346,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_mg2",
@@ -3380,14 +3385,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 938,
+      "Progressed": 941,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-10T15:08:50.4757547+00:00",
+  "LastChanged_Achievements": "2024-01-10T16:09:27.2551072+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:20.0779143+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:59:50.745474+00:00",
-  "LastUpdate_Achievements": "2024-01-10T15:08:50.4757802+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:00:50.8426047+00:00",
+  "LastUpdate_Achievements": "2024-01-10T16:09:27.2551341+00:00"
 }

@@ -11,10 +11,10 @@
 | The Weighing of the Soul | 25.00% | ~32 |
 | The Curse of Kih-Oskh | 19.00% | ~25 |
 | It's a Deal! | 16.00% | ~21 |
+| Cat Lover | 13.00% | ~17 |
+| Dynamite, Treason and Coconuts | 13.00% | ~17 |
 | In the Name of the Law | 12.00% | ~16 |
 | Au Revoir, Abudin | 12.00% | ~16 |
-| Cat Lover | 12.00% | ~16 |
-| Dynamite, Treason and Coconuts | 12.00% | ~16 |
 | Save a Friend | 12.00% | ~16 |
 | Mysterious Bungalow | 10.00% | ~13 |
 | The Eyes! | 9.00% | ~12 |

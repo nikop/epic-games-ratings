@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 370,
+  "EOS_Progressed": 371,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1544,6 +1544,11 @@
       "Time": "2024-01-10T14:09:54.4028313+00:00",
       "NumProgressed": 370,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T16:09:28.0111078+00:00",
+      "NumProgressed": 371,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -1556,7 +1561,7 @@
       "Name": "Anomaly Control",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "AnomalyDestroyer",
@@ -1636,7 +1641,7 @@
       "Name": "Artificer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "AstralAdventurer",
@@ -1748,7 +1753,7 @@
       "Name": "Can\u0027t touch this",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "CriticalTwist",
@@ -1844,7 +1849,7 @@
       "Name": "Heavy Purger",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "IfIHadFailed",
@@ -1884,7 +1889,7 @@
       "Name": "Loyal Partner",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "MechanicIntegration",
@@ -1900,7 +1905,7 @@
       "Name": "Mechanical Buddy",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "MeissasSavior",
@@ -1908,7 +1913,7 @@
       "Name": "Meissa\u0027s Savior",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "MindIlluminator",
@@ -1964,7 +1969,7 @@
       "Name": "Prestidigitation",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "PurificationAvatar",
@@ -1980,7 +1985,7 @@
       "Name": "Purification Pioneer",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ReflexiveMind",
@@ -2188,7 +2193,7 @@
       "Name": "Wild\u0027s Keeper",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ApianChampion",
@@ -2204,7 +2209,7 @@
       "Name": "Apian Hero",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ApianMastery",
@@ -2268,7 +2273,7 @@
       "Name": "Eridanian Champion",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "EridanianHero",
@@ -2339,14 +2344,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 370,
+      "Progressed": 371,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-10T15:08:51.0616733+00:00",
+  "LastChanged_Achievements": "2024-01-10T16:09:28.0111072+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:27.4116813+00:00",
-  "LastUpdate_Ratings": "2024-01-10T15:00:25.2367261+00:00",
-  "LastUpdate_Achievements": "2024-01-10T15:08:51.061776+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:01:38.0379124+00:00",
+  "LastUpdate_Achievements": "2024-01-10T16:09:28.0112192+00:00"
 }

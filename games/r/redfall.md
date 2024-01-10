@@ -21,9 +21,9 @@ Rating: 3.68 (Ranked 1,094)
 | Heart Attack | 9.00% | ~211 |
 | Grounded | 8.00% | ~188 |
 | Skin of Their Teeth | 8.00% | ~188 |
+| Neighborhood Revitalization | 6.00% | ~141 |
 | Bad Wiring | 6.00% | ~141 |
-| Neighborhood Revitalization | 5.00% | ~117 |
-| Radio Silence | 5.00% | ~117 |
+| Radio Silence | 6.00% | ~141 |
 | I Spit On Your Grave | 4.00% | ~94 |
 | Sic Transit Umbra | 3.00% | ~70 |
 | Bell-ringer | 3.00% | ~70 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,094)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,347 (Ranked 240)  
+Progressed: 2,349 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 2,301 | 0 |
 | 2024-01-08 | 2,317 | 0 |
 | 2024-01-09 | 2,331 | 0 |
-| 2024-01-10 | 2,347 | 0 |
+| 2024-01-10 | 2,349 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 556)  
 Sum: 24 (Ranked 563)  

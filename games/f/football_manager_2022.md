@@ -6,21 +6,21 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~239,551 |
-| He's Signed! | 50.00% | ~239,551 |
-| First Victory | 50.00% | ~239,551 |
-| He's Sold! | 48.00% | ~229,969 |
-| I'm The Boss! | 42.00% | ~201,223 |
-| Hat-trick | 41.00% | ~196,432 |
-| Scoring Streak | 38.00% | ~182,059 |
-| Unbeatable! | 37.00% | ~177,268 |
-| Thumping | 37.00% | ~177,268 |
-| Superb Dressing Room Atmosphere | 35.00% | ~167,686 |
-| Total Support | 32.00% | ~153,313 |
-| Record Signing | 32.00% | ~153,313 |
-| He's a Natural | 31.00% | ~148,522 |
-| Millionaire's Club | 31.00% | ~148,522 |
-| Team Performance | 30.00% | ~143,731 |
+| Clean Sheet | 50.00% | ~239,552 |
+| He's Signed! | 50.00% | ~239,552 |
+| First Victory | 50.00% | ~239,552 |
+| He's Sold! | 48.00% | ~229,970 |
+| I'm The Boss! | 42.00% | ~201,224 |
+| Hat-trick | 41.00% | ~196,433 |
+| Scoring Streak | 38.00% | ~182,060 |
+| Unbeatable! | 37.00% | ~177,269 |
+| Thumping | 37.00% | ~177,269 |
+| Superb Dressing Room Atmosphere | 35.00% | ~167,687 |
+| Total Support | 32.00% | ~153,314 |
+| Record Signing | 32.00% | ~153,314 |
+| He's a Natural | 31.00% | ~148,523 |
+| Millionaire's Club | 31.00% | ~148,523 |
+| Team Performance | 30.00% | ~143,732 |
 | Parked The Bus | 29.00% | ~138,940 |
 | Shrewd Spender | 29.00% | ~138,940 |
 | Star Man | 29.00% | ~138,940 |
@@ -31,30 +31,30 @@ Number of Ratings: 19,160  (23.09.2022)
 | On A Roll | 26.00% | ~124,567 |
 | Unstoppable Force | 26.00% | ~124,567 |
 | Armchair Expert | 25.00% | ~119,776 |
-| Fantastic Five | 24.00% | ~114,984 |
-| Full Faith | 24.00% | ~114,984 |
-| Iron Curtain | 24.00% | ~114,984 |
-| The Boss | 24.00% | ~114,984 |
-| Top Of The Class | 23.00% | ~110,193 |
-| Goal Machine | 23.00% | ~110,193 |
-| Splashing The Cash | 22.00% | ~105,402 |
-| Clean Bill of Health | 22.00% | ~105,402 |
-| What A Goal! | 22.00% | ~105,402 |
-| Cup Glory! | 22.00% | ~105,402 |
-| Irresistible Force | 20.00% | ~95,820 |
-| Excellent Match Cohesion | 20.00% | ~95,820 |
-| Do The Double | 19.00% | ~91,029 |
-| Top Form | 17.00% | ~81,447 |
-| Cash To Burn | 17.00% | ~81,447 |
-| Beating Expectations | 16.00% | ~76,656 |
-| Overachiever! | 16.00% | ~76,656 |
-| Rushed signing | 16.00% | ~76,656 |
-| Eyes and Ears | 15.00% | ~71,865 |
-| Window Shopping | 15.00% | ~71,865 |
-| Comeback King! | 14.00% | ~67,074 |
-| You're Up! | 13.00% | ~62,283 |
-| Money, Money, Money | 12.00% | ~57,492 |
-| Invincible! | 11.00% | ~52,701 |
+| Fantastic Five | 24.00% | ~114,985 |
+| Full Faith | 24.00% | ~114,985 |
+| Iron Curtain | 24.00% | ~114,985 |
+| The Boss | 24.00% | ~114,985 |
+| Top Of The Class | 23.00% | ~110,194 |
+| Goal Machine | 23.00% | ~110,194 |
+| Splashing The Cash | 22.00% | ~105,403 |
+| Clean Bill of Health | 22.00% | ~105,403 |
+| What A Goal! | 22.00% | ~105,403 |
+| Cup Glory! | 22.00% | ~105,403 |
+| Irresistible Force | 20.00% | ~95,821 |
+| Excellent Match Cohesion | 20.00% | ~95,821 |
+| Do The Double | 19.00% | ~91,030 |
+| Top Form | 17.00% | ~81,448 |
+| Cash To Burn | 17.00% | ~81,448 |
+| Beating Expectations | 16.00% | ~76,657 |
+| Overachiever! | 16.00% | ~76,657 |
+| Rushed signing | 16.00% | ~76,657 |
+| Eyes and Ears | 15.00% | ~71,866 |
+| Window Shopping | 15.00% | ~71,866 |
+| Comeback King! | 14.00% | ~67,075 |
+| You're Up! | 13.00% | ~62,284 |
+| Money, Money, Money | 12.00% | ~57,493 |
+| Invincible! | 11.00% | ~52,702 |
 | Superb Strike | 10.00% | ~47,910 |
 | International Superstar | 10.00% | ~47,910 |
 | Best In The World | 10.00% | ~47,910 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~479 |
 | Shoestring Budget | 0.10% | ~479 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479,102 (Ranked 44)  
+Progressed: 479,105 (Ranked 44)  
 Completed: 22 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -370,7 +370,7 @@ Completed: 22 (0.00%) (Ranked 395)
 | 2024-01-07 | 479,004 | 22 |
 | 2024-01-08 | 479,050 | 22 |
 | 2024-01-09 | 479,089 | 22 |
-| 2024-01-10 | 479,102 | 22 |
+| 2024-01-10 | 479,105 | 22 |
 ## Awards
 Max (Relaxing): 6,496  (Ranked 62)  
 Sum: 51,245 (Ranked 30)  

@@ -14,11 +14,11 @@
 | Socialite | 15.00% | ~7 |
 | Hands on the Helm | 13.00% | ~6 |
 | Couch-surfing | 11.00% | ~5 |
+| Sailor Swift | 11.00% | ~5 |
 | Replace the Rudder | 11.00% | ~5 |
 | Who Even Needs Keys | 9.00% | ~4 |
 | Shrub-Seeing: Townlife | 9.00% | ~4 |
 | Shrub-Seeing: Silly Birbs | 9.00% | ~4 |
-| Sailor Swift | 9.00% | ~4 |
 | No Evil | 9.00% | ~4 |
 | Safe Investment | 9.00% | ~4 |
 | Bank of Me | 9.00% | ~4 |

@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 55.00% | ~282 |
-| Starting Skyward | 49.00% | ~251 |
-| Grime is Not Good | 42.00% | ~215 |
-| Floor Galore | 37.00% | ~189 |
-| Campaign Launch | 36.00% | ~184 |
-| Dinner Dash | 36.00% | ~184 |
-| Need a Consult | 34.00% | ~174 |
-| Upgrade Unlock | 33.00% | ~169 |
-| It's Technical | 33.00% | ~169 |
-| Proper Walls | 29.00% | ~148 |
-| Delegate Maintenance | 29.00% | ~148 |
-| Destination Destiny | 29.00% | ~148 |
+| In the Black | 55.00% | ~283 |
+| Starting Skyward | 49.00% | ~252 |
+| Grime is Not Good | 42.00% | ~216 |
+| Floor Galore | 36.00% | ~185 |
+| Campaign Launch | 36.00% | ~185 |
+| Dinner Dash | 36.00% | ~185 |
+| Need a Consult | 33.00% | ~170 |
+| Upgrade Unlock | 33.00% | ~170 |
+| It's Technical | 32.00% | ~164 |
+| Proper Walls | 29.00% | ~149 |
+| Delegate Maintenance | 29.00% | ~149 |
+| Destination Destiny | 28.00% | ~144 |
 | Happy Tenants | 23.00% | ~118 |
 | Potent Potables | 23.00% | ~118 |
 | Your Prestige is Rising | 22.00% | ~113 |
 | Smooth Service | 22.00% | ~113 |
-| Don't Feel a Loan | 21.00% | ~108 |
 | Retail Revenue | 21.00% | ~108 |
-| People Mover | 19.00% | ~97 |
-| Artfully Done | 18.00% | ~92 |
-| Leveled Up Shops | 18.00% | ~92 |
-| We Don't Need No Education | 18.00% | ~92 |
+| Don't Feel a Loan | 20.00% | ~103 |
+| Artfully Done | 18.00% | ~93 |
+| People Mover | 18.00% | ~93 |
+| Leveled Up Shops | 18.00% | ~93 |
+| We Don't Need No Education | 18.00% | ~93 |
 | Lux Living | 17.00% | ~87 |
 | Emporium Empire | 17.00% | ~87 |
 | Get Electrified | 17.00% | ~87 |
@@ -35,9 +35,9 @@
 | Under One Roof | 13.00% | ~67 |
 | Starred Dining | 13.00% | ~67 |
 | Cashflow Chief | 13.00% | ~67 |
-| Smooth Operator | 11.00% | ~56 |
-| Boutique Benefits | 11.00% | ~56 |
-| Thrilled Tenants | 11.00% | ~56 |
+| Smooth Operator | 11.00% | ~57 |
+| Boutique Benefits | 11.00% | ~57 |
+| Thrilled Tenants | 11.00% | ~57 |
 | 28 Days Later | 10.00% | ~51 |
 | Terrifically Trashed | 10.00% | ~51 |
 | Aestheticly Pleased | 9.00% | ~46 |
@@ -57,12 +57,12 @@
 | Maximum Reuse | 5.00% | ~26 |
 | It's a Gas | 5.00% | ~26 |
 | Pipe Up | 5.00% | ~26 |
-| Meet ADA/360 | 4.00% | ~20 |
-| Penthouse in the Sky | 4.00% | ~20 |
-| Baron of Business | 4.00% | ~20 |
-| Sandbagger | 4.00% | ~20 |
-| Sky High Stature | 4.00% | ~20 |
-| Tuned In | 4.00% | ~20 |
+| Meet ADA/360 | 4.00% | ~21 |
+| Penthouse in the Sky | 4.00% | ~21 |
+| Baron of Business | 4.00% | ~21 |
+| Sandbagger | 4.00% | ~21 |
+| Sky High Stature | 4.00% | ~21 |
+| Tuned In | 4.00% | ~21 |
 | Decorator's Touch | 3.00% | ~15 |
 | Office Bigwigs | 3.00% | ~15 |
 | Luxury Boutiques | 3.00% | ~15 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 512 (Ranked 351)  
+Progressed: 514 (Ranked 351)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 502 | 0 |
 | 2024-01-08 | 505 | 0 |
 | 2024-01-09 | 509 | 0 |
-| 2024-01-10 | 512 | 0 |
+| 2024-01-10 | 514 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

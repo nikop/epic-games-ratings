@@ -2,7 +2,7 @@
   "ID": "5c7501617f3449c5a6eed7590392f9fa",
   "Name": "Botanicula",
   "ProductSlug": "botanicula-50043d",
-  "Ranking_EOS_Progress": 410,
+  "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 153,
@@ -1464,9 +1464,9 @@
       "ID": "Ach-05-loutky",
       "SetID": "2pjo9pi",
       "Name": "Loutky",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "Ach-05-nosatec",
@@ -1575,8 +1575,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-10T15:09:06.4004662+00:00",
+  "LastChanged_Achievements": "2024-01-10T16:09:48.2627649+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:13.3833834+00:00",
-  "LastUpdate_Ratings": "2024-01-10T15:02:45.9917896+00:00",
-  "LastUpdate_Achievements": "2024-01-10T15:09:06.400528+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:02:45.1184541+00:00",
+  "LastUpdate_Achievements": "2024-01-10T16:09:48.262814+00:00"
 }

@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8245,
+  "EOS_Progressed": 8248,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13797,6 +13797,11 @@
       "Time": "2024-01-10T15:08:31.1695623+00:00",
       "NumProgressed": 8245,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T16:09:02.6491518+00:00",
+      "NumProgressed": 8248,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13808,7 +13813,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -13824,7 +13829,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -13864,7 +13869,7 @@
       "Name": "Scaling up",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -14127,13 +14132,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8245,
+      "Progressed": 8248,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7617,
+      "Progressed": 7620,
       "Completed": 113
     }
   ],
@@ -14141,8 +14146,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-10T15:08:31.1695619+00:00",
+  "LastChanged_Achievements": "2024-01-10T16:09:02.6491514+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:59:39.5884296+00:00",
-  "LastUpdate_Achievements": "2024-01-10T15:08:31.1696384+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:00:35.5418055+00:00",
+  "LastUpdate_Achievements": "2024-01-10T16:09:02.6492491+00:00"
 }

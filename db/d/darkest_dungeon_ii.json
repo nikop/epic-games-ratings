@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10716,9 +10716,9 @@
       "Count": 1088
     }
   ],
-  "EOS_Progressed": 132363,
+  "EOS_Progressed": 132368,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 896,
+  "EOS_NewPlayers": 888,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39226,6 +39226,11 @@
       "Time": "2024-01-10T15:09:47.2779073+00:00",
       "NumProgressed": 132363,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-10T16:10:41.2825623+00:00",
+      "NumProgressed": 132368,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39589,7 +39594,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9265
+      "UsersEstimate": 9266
     },
     {
       "ID": "hero_story_complete_all",
@@ -39773,7 +39778,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "combat_kill_collector",
@@ -39781,7 +39786,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39868,21 +39873,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132363,
+      "Progressed": 132368,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7232,
+      "Progressed": 7237,
       "Completed": 823
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-10T07:59:48.2790961+00:00",
-  "LastChanged_Achievements": "2024-01-10T15:09:47.2779068+00:00",
+  "LastChanged_Achievements": "2024-01-10T16:10:41.2825619+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-10T14:59:16.6072817+00:00",
-  "LastUpdate_Achievements": "2024-01-10T15:09:47.2780876+00:00"
+  "LastUpdate_Ratings": "2024-01-10T16:00:03.1695082+00:00",
+  "LastUpdate_Achievements": "2024-01-10T16:10:41.2827288+00:00"
 }
