@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 90.00% | ~120 |
-| Dousing a Venerable Flame | 14.00% | ~19 |
-| Advanced Armaments | 14.00% | ~19 |
+| Setting Sail | 90.00% | ~121 |
 | A Small Thirsty Thing | 13.00% | ~17 |
-| Bladesmith | 11.00% | ~15 |
+| Dousing a Venerable Flame | 13.00% | ~17 |
+| Advanced Armaments | 13.00% | ~17 |
 | Spirit Within | 11.00% | ~15 |
 | Overboard | 10.00% | ~13 |
+| Bladesmith | 10.00% | ~13 |
 | Rain Must Fall | 9.00% | ~12 |
 | Leisis Bless You | 9.00% | ~12 |
-| Explorer | 8.00% | ~11 |
 | The Guardian of Fire | 8.00% | ~11 |
 | Twin Thorns | 8.00% | ~11 |
+| Explorer | 7.00% | ~9 |
 | The River Styx | 7.00% | ~9 |
 | Sovereignty of Irons | 6.00% | ~8 |
 | A Sandwyrm's Hoard | 6.00% | ~8 |
 | Sommelier | 5.00% | ~7 |
-| Let Me Solo Them | 5.00% | ~7 |
+| Let Me Solo Them | 4.00% | ~5 |
 | Frigid Winds | 4.00% | ~5 |
-| Pommelsmith | 2.00% | ~3 |
 | Missing Melodies | 2.00% | ~3 |
-| Smotherly Love | 2.00% | ~3 |
 | Transformative Nature | 2.00% | ~3 |
-| Redeemer | 0.80% | ~1 |
-| Champion of Starspire | 0.80% | ~1 |
+| Pommelsmith | 1.00% | ~1 |
+| Smotherly Love | 1.00% | ~1 |
+| Redeemer | 0.70% | ~1 |
+| Champion of Starspire | 0.70% | ~1 |
 | No Salvation | 0.00% | ~0 |
 | Unimpaired | 0.00% | ~0 |
 | A Momentary Reflection | 0.00% | ~0 |
@@ -63,7 +63,7 @@
 | Holding Out | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133 (Ranked 473)  
+Progressed: 134 (Ranked 470)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,6 +126,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-03 | 130 | 0 |
 | 2024-01-06 | 131 | 0 |
 | 2024-01-07 | 133 | 0 |
+| 2024-01-10 | 134 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

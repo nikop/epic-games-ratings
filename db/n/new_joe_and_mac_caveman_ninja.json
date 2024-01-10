@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -803,9 +803,9 @@
       "ID": "02",
       "SetID": "6glb5g1",
       "Name": "Crazy Jungle.",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 98
     },
     {
       "ID": "03",
@@ -819,9 +819,9 @@
       "ID": "04",
       "SetID": "6glb5g1",
       "Name": "At the top of the mountain.",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "05",
@@ -843,9 +843,9 @@
       "ID": "07",
       "SetID": "6glb5g1",
       "Name": "Swimming on a dino\u0027s back.",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "08",
@@ -875,9 +875,9 @@
       "ID": "11",
       "SetID": "6glb5g1",
       "Name": "Rocky fall.",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 30
+      "UsersEstimate": 34
     },
     {
       "ID": "12",
@@ -924,8 +924,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:08:26.6103366+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:08:58.4207417+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:14.6676617+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:57:15.2569114+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:08:26.6103499+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:57:08.236608+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:08:58.4207593+00:00"
 }

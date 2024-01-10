@@ -1,25 +1,25 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 592)  
+Rating: 4.51 (Ranked 593)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 39.00% | ~6,921 |
-| Man of politics | 34.00% | ~6,034 |
+| Tattletale | 39.00% | ~6,922 |
+| Man of politics | 34.00% | ~6,035 |
 | Yet another secret | 33.00% | ~5,857 |
-| Friends of sorts | 32.00% | ~5,679 |
+| Friends of sorts | 32.00% | ~5,680 |
 | Let there be darkness | 31.00% | ~5,502 |
 | End of Book One | 29.00% | ~5,147 |
 | Wannabe knight | 23.00% | ~4,082 |
 | Garden of Eden | 23.00% | ~4,082 |
 | Full house | 23.00% | ~4,082 |
 | Help an old friend | 21.00% | ~3,727 |
-| Two of us | 20.00% | ~3,549 |
-| Negotiation skills | 18.00% | ~3,194 |
-| Workers' union | 18.00% | ~3,194 |
-| End of Book Two | 18.00% | ~3,194 |
+| Two of us | 20.00% | ~3,550 |
+| Negotiation skills | 18.00% | ~3,195 |
+| Workers' union | 18.00% | ~3,195 |
+| End of Book Two | 18.00% | ~3,195 |
 | Everything's in order | 16.00% | ~2,840 |
 | Twist of Fate | 14.00% | ~2,485 |
 | Jack was here! | 14.00% | ~2,485 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~532 |
 | Boy of mystery | 2.00% | ~355 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,747 (Ranked 162)  
+Progressed: 17,749 (Ranked 162)  
 Completed: 125 (0.70%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,11 +313,11 @@ Completed: 125 (0.70%) (Ranked 196)
 | 2024-01-07 | 17,708 | 125 |
 | 2024-01-08 | 17,727 | 125 |
 | 2024-01-09 | 17,744 | 125 |
-| 2024-01-10 | 17,747 | 125 |
+| 2024-01-10 | 17,749 | 125 |
 ## Awards
-Max (Easy Puzzles): 156  (Ranked 325)  
+Max (Easy Puzzles): 156  (Ranked 326)  
 Sum: 200 (Ranked 418)  
-Diff (max vs sum): -93  
+Diff (max vs sum): -92  
 | Award | Count |
 | ----- | ----- |
 | This game features Easy Puzzles | 156 |

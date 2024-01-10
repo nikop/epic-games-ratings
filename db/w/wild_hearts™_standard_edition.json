@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -4260,9 +4260,9 @@
       "ID": "achievement_18",
       "SetID": "2cpn27e",
       "Name": "Man-Machine Master",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 618
+      "UsersEstimate": 631
     },
     {
       "ID": "achievement_19",
@@ -4578,8 +4578,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:09:31.9497394+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:10:30.7012507+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:30.0899668+00:00",
-  "LastUpdate_Ratings": "2024-01-10T05:00:19.2795399+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:09:31.9498146+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:01:43.4114419+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:10:30.7013233+00:00"
 }

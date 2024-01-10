@@ -1,11 +1,11 @@
 # DEMON'S TILT
 [Store](https://store.epicgames.com/en-US/p/demons-tilt)  
 [View Rawdata](../../db/d/demon's_tilt.json)  
-Rating: 4.53 (Ranked 561)  
+Rating: 4.53 (Ranked 562)  
 Number of Ratings: 276  (23.09.2022)  
 ## Awards
-Max (Great for Quick Sessions): 24  (Ranked 555)  
-Sum: 24 (Ranked 562)  
+Max (Great for Quick Sessions): 24  (Ranked 556)  
+Sum: 24 (Ranked 563)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |

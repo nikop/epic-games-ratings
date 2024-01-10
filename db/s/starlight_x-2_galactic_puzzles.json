@@ -4,8 +4,8 @@
   "ProductSlug": "starlight-x2-galactic-puzzles-dede7d",
   "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 461,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 462,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-07T07:00:00+00:00",
     "PcReleaseDate": "2021-04-15T10:00:00+00:00",
@@ -491,9 +491,9 @@
       "ID": "ach_fast_01",
       "SetID": "8jkn3bi",
       "Name": "Fast 7x7",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_fast_02",
@@ -794,8 +794,8 @@
   ],
   "FirstSeen": "2023-11-18T16:58:15.9400848+00:00",
   "FirstSeenAchievements": "2023-04-25T20:54:03.7448556+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:10:04.3030973+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:11:15.3558325+00:00",
   "LastUpdate_AppInfo": "2024-01-06T17:57:06.833753+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:58:20.2999956+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:10:04.3031368+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:58:45.0686874+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:11:15.3558666+00:00"
 }

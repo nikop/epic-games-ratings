@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,11 +20,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 947,
+  "EOS_Progressed": 948,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.06,
+  "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -3395,6 +3395,11 @@
       "Time": "2024-01-10T04:04:30.6763977+00:00",
       "NumProgressed": 947,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-10T06:04:38.8132707+00:00",
+      "NumProgressed": 948,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -3463,7 +3468,7 @@
       "Name": "Star Power",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "achievement_17",
@@ -3495,7 +3500,7 @@
       "Name": "A Passion for Excellence",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "achievement_4",
@@ -3503,7 +3508,7 @@
       "Name": "From Many, One",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "achievement_5",
@@ -3550,13 +3555,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 947,
+      "Progressed": 948,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:03:55.6462147+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:04:38.8132703+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.2920939+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:57:22.9307448+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:03:55.6462378+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:57:19.7007457+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:04:38.8132938+00:00"
 }

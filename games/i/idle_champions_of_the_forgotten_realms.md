@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 1,035)  
+Rating: 4.06 (Ranked 1,036)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -58,6 +58,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.20% | ~506 |
 | The Botched Kidnapping | 0.20% | ~506 |
 | Trollskull Manor | 0.20% | ~506 |
+| Attack on the Manor | 0.20% | ~506 |
 | The Death Curse | 0.20% | ~506 |
 | Premature Betrayal | 0.20% | ~506 |
 | A Tale of Two Cities | 0.20% | ~506 |
@@ -254,7 +255,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Gargoyle's Apprentice | 0.10% | ~253 |
 | House of Darkness | 0.10% | ~253 |
 | Home Not So Alone | 0.10% | ~219 |
-| Attack on the Manor | 0.10% | ~253 |
 | The Trepidatious Trio | 0.10% | ~253 |
 | Our Time To Shine | 0.10% | ~253 |
 | Review by the Blackstaff | 0.10% | ~219 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,102 (Ranked 70)  
+Progressed: 253,109 (Ranked 70)  
 Completed: 2,608 (1.03%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -818,10 +818,10 @@ Completed: 2,608 (1.03%) (Ranked 174)
 | 2024-01-07 | 252,516 | 2,599 |
 | 2024-01-08 | 252,794 | 2,602 |
 | 2024-01-09 | 253,044 | 2,606 |
-| 2024-01-10 | 253,102 | 2,608 |
+| 2024-01-10 | 253,109 | 2,608 |
 ## Awards
 Max (Great for Beginners): 5,768  (Ranked 74)  
-Sum: 33,419 (Ranked 41)  
+Sum: 33,421 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -829,7 +829,7 @@ Diff (max vs sum): 33
 | This game has Diverse Characters | 5,708 |
 | This game has Quickly Understood Controls | 4,903 |
 | This game is Relaxing | 4,771 |
-| This game has Amazing Characters | 4,323 |
+| This game has Amazing Characters | 4,325 |
 | This game is Highly Recommended | 4,312 |
 | This game has Playful Visuals | 3,634 |
 ## Ratings History
@@ -1184,4 +1184,4 @@ Diff (max vs sum): 33
 | 2024-01-07 | 4.06 | - | 5,756 | 33,386 |
 | 2024-01-08 | 4.06 | - | 5,763 | 33,403 |
 | 2024-01-09 | 4.06 | - | 5,768 | 33,417 |
-| 2024-01-10 | 4.06 | - | 5,768 | 33,419 |
+| 2024-01-10 | 4.06 | - | 5,768 | 33,421 |

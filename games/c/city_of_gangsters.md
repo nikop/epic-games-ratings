@@ -1,25 +1,25 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.29 (Ranked 882)  
+Rating: 4.29 (Ranked 883)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~166,211 |
-| Copacetic Coordination | 16.00% | ~57,812 |
-| Fronting the Money | 15.00% | ~54,199 |
+| Corner Clout | 46.00% | ~166,213 |
+| Copacetic Coordination | 16.00% | ~57,813 |
+| Fronting the Money | 15.00% | ~54,200 |
 | The Dawn of Automation | 14.00% | ~50,586 |
 | Extraordinary Logistics | 14.00% | ~50,586 |
 | Dirty Money | 13.00% | ~46,973 |
 | Family First | 13.00% | ~46,973 |
-| Cleaning House | 12.00% | ~43,359 |
-| Room in the Back | 12.00% | ~43,359 |
-| Beating the Heat | 11.00% | ~39,746 |
-| Booze Baron | 11.00% | ~39,746 |
+| Cleaning House | 12.00% | ~43,360 |
+| Room in the Back | 12.00% | ~43,360 |
+| Beating the Heat | 11.00% | ~39,747 |
+| Booze Baron | 11.00% | ~39,747 |
 | Friends on the Force | 10.00% | ~36,133 |
 | Neighborhood Watch | 10.00% | ~36,133 |
-| Core Corps | 8.00% | ~28,906 |
-| Sizeable Stash | 8.00% | ~28,906 |
+| Core Corps | 8.00% | ~28,907 |
+| Sizeable Stash | 8.00% | ~28,907 |
 | Street Fighter | 7.00% | ~25,293 |
 | Friendly Gestures | 7.00% | ~25,293 |
 | People Person | 7.00% | ~25,293 |
@@ -29,13 +29,13 @@ Rating: 4.29 (Ranked 882)
 | Wise Head | 6.00% | ~21,680 |
 | Show ‘em the Sugar | 6.00% | ~21,680 |
 | Killing Them Softly | 6.00% | ~21,680 |
-| Street Knowledge | 5.00% | ~18,066 |
-| Oh Captain | 5.00% | ~18,066 |
-| Branching Out | 5.00% | ~18,066 |
-| Improvement Missions | 5.00% | ~18,066 |
-| Opportunity Knocked | 5.00% | ~18,066 |
-| City of Big Shoulders | 5.00% | ~18,066 |
-| Mission Mastery | 5.00% | ~18,066 |
+| Street Knowledge | 5.00% | ~18,067 |
+| Oh Captain | 5.00% | ~18,067 |
+| Branching Out | 5.00% | ~18,067 |
+| Improvement Missions | 5.00% | ~18,067 |
+| Opportunity Knocked | 5.00% | ~18,067 |
+| City of Big Shoulders | 5.00% | ~18,067 |
+| Mission Mastery | 5.00% | ~18,067 |
 | Considerable Clams | 4.00% | ~14,453 |
 | Gin Joint | 4.00% | ~14,453 |
 | An Affront to the Enemy | 4.00% | ~14,453 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 882)
 | High Pillow | 0.10% | ~361 |
 | Station Master | 0.10% | ~361 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 361,328 (Ranked 58)  
+Progressed: 361,332 (Ranked 58)  
 Completed: 7 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 7 (0.00%) (Ranked 395)
 | 2024-01-07 | 360,959 | 7 |
 | 2024-01-08 | 361,120 | 7 |
 | 2024-01-09 | 361,293 | 7 |
-| 2024-01-10 | 361,328 | 7 |
+| 2024-01-10 | 361,332 | 7 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 437)  
 Sum: 270 (Ranked 393)  

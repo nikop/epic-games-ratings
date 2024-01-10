@@ -2,7 +2,7 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
-  "Ranking_Rating": 656,
+  "Ranking_Rating": 657,
   "Ranking_Popularity": 388,
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 346,
@@ -476,7 +476,7 @@
   ],
   "EOS_Progressed": 526,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2039,9 +2039,9 @@
       "ID": "Collect_HealthStone_HealUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Vigor",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 168
     },
     {
       "ID": "Collect_Hollow_Flame",
@@ -2071,9 +2071,9 @@
       "ID": "Collect_Hollow_Storm",
       "SetID": "7a5k76n",
       "Name": "Perfect Storm",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 247
     },
     {
       "ID": "Collect_Lurchers_100000",
@@ -2215,9 +2215,9 @@
       "ID": "Game_CompleteNormal",
       "SetID": "7a5k76n",
       "Name": "Path of the Horseman",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 74
     },
     {
       "ID": "Keeper_Kill_Final",
@@ -2351,9 +2351,9 @@
       "ID": "Kill_Sin_Wrath",
       "SetID": "7a5k76n",
       "Name": "Seeing Red",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 121
     },
     {
       "ID": "Level_Up_100",
@@ -2479,8 +2479,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:04:26.3249729+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:05:22.0751412+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:58:02.1851386+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:04:26.3250166+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:58:16.6964888+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:05:22.0751919+00:00"
 }

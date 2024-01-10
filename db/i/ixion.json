@@ -2,13 +2,13 @@
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
-  "Ranking_Rating": 451,
+  "Ranking_Rating": 452,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -341,9 +341,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4127,
+  "EOS_Progressed": 4128,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8316,6 +8316,11 @@
       "Time": "2024-01-10T00:05:35.8124629+00:00",
       "NumProgressed": 4127,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T06:07:03.3572177+00:00",
+      "NumProgressed": 4128,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8327,7 +8332,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "ACH_BASE_10",
@@ -8335,7 +8340,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "ACH_BASE_11",
@@ -8503,7 +8508,7 @@
       "Name": "Power Outage",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "ACH_BASE_32",
@@ -8679,7 +8684,7 @@
       "Name": "Please Make it Stop!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "ACH_BASE_57",
@@ -8782,13 +8787,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2311,
+      "Progressed": 2312,
       "Completed": 11
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4127,
+      "Progressed": 4128,
       "Completed": 0
     }
   ],
@@ -8796,8 +8801,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-08T15:02:36.7429513+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:05:37.7354571+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:07:03.3572175+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:25.5201636+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:57:28.4441159+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:05:37.7355552+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:57:28.9865423+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:07:03.3572873+00:00"
 }

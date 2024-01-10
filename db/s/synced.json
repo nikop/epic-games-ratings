@@ -2,7 +2,7 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 1013,
+  "Ranking_Rating": 1014,
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 107,
@@ -1725,9 +1725,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 85867,
+  "EOS_Progressed": 85878,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 3669,
+  "EOS_NewPlayers": 3657,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -16130,6 +16130,11 @@
       "Time": "2024-01-10T05:05:28.5505292+00:00",
       "NumProgressed": 85867,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-10T06:06:50.4985347+00:00",
+      "NumProgressed": 85878,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -16142,7 +16147,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 38640
+      "UsersEstimate": 38645
     },
     {
       "ID": "10",
@@ -16174,7 +16179,7 @@
       "Name": "Memory Keeper",
       "Percentage": 0.4,
       "XP": 150,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "14",
@@ -16198,7 +16203,7 @@
       "Name": "Completely Customizable",
       "Percentage": 0.4,
       "XP": 80,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "2",
@@ -16206,7 +16211,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 18032
+      "UsersEstimate": 18034
     },
     {
       "ID": "3",
@@ -16214,7 +16219,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 12021
+      "UsersEstimate": 12023
     },
     {
       "ID": "4",
@@ -16222,7 +16227,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7728
+      "UsersEstimate": 7729
     },
     {
       "ID": "5",
@@ -16238,7 +16243,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5152
+      "UsersEstimate": 5153
     },
     {
       "ID": "7",
@@ -16246,7 +16251,7 @@
       "Name": "More Power to You",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 18891
+      "UsersEstimate": 18893
     },
     {
       "ID": "8",
@@ -16269,7 +16274,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 85867,
+      "Progressed": 85878,
       "Completed": 66
     }
   ],
@@ -16277,8 +16282,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-09T02:21:58.0634593+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:05:28.5505288+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:06:50.4985344+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:51.8643288+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:57:58.0440132+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:05:28.5506529+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:58:10.9470823+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:06:50.4986102+00:00"
 }

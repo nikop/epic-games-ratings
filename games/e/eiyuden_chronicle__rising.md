@@ -1,7 +1,7 @@
 # Eiyuden Chronicle: Rising
 [Store](https://store.epicgames.com/en-US/p/eiyuden-chronicle-rising)  
 [View Rawdata](../../db/e/eiyuden_chronicle__rising.json)  
-Rating: 4.50 (Ranked 613)  
+Rating: 4.50 (Ranked 614)  
 Number of Ratings: 48  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,7 +13,7 @@ Number of Ratings: 48  (23.09.2022)
 | The Road to Recovery | 60.00% | ~479 |
 | Partners? | 58.00% | ~463 |
 | Magical Mineral Golem | 51.00% | ~407 |
-| On Outlander Lane | 50.00% | ~399 |
+| On Outlander Lane | 51.00% | ~407 |
 | First Time Fishing | 48.00% | ~383 |
 | A Girl About the Town | 47.00% | ~375 |
 | First Time Hunting | 46.00% | ~367 |

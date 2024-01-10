@@ -2,7 +2,7 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 1095,
+  "Ranking_Rating": 1096,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 108,
@@ -141,9 +141,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83164,
+  "EOS_Progressed": 83165,
   "EOS_Completed": 927,
-  "EOS_NewPlayers": 660,
+  "EOS_NewPlayers": 657,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -29676,6 +29676,11 @@
       "Time": "2024-01-10T05:03:41.6608754+00:00",
       "NumProgressed": 83164,
       "NumCompleted": 927
+    },
+    {
+      "Time": "2024-01-10T06:04:19.2224286+00:00",
+      "NumProgressed": 83165,
+      "NumCompleted": 927
     }
   ],
   "TotalAchievements": 25,
@@ -29791,7 +29796,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17464
+      "UsersEstimate": 17465
     },
     {
       "ID": "Meaty",
@@ -29823,7 +29828,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5821
+      "UsersEstimate": 5822
     },
     {
       "ID": "Piano Man",
@@ -29847,7 +29852,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5821
+      "UsersEstimate": 5822
     },
     {
       "ID": "Spicy",
@@ -29886,7 +29891,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83164,
+      "Progressed": 83165,
       "Completed": 927
     }
   ],
@@ -29894,8 +29899,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:03:41.6608752+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:04:19.2224284+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.3609745+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:59:12.5742916+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:03:41.6610177+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:00:04.0710217+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:04:19.2225757+00:00"
 }

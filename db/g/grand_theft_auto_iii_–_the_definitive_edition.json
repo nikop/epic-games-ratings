@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 953,
+  "Ranking_Rating": 954,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 178,
@@ -703,9 +703,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12094,
+  "EOS_Progressed": 12095,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 677,
+  "EOS_NewPlayers": 676,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15353,6 +15353,11 @@
       "Time": "2024-01-10T05:06:01.6330052+00:00",
       "NumProgressed": 12094,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2024-01-10T06:07:36.8885166+00:00",
+      "NumProgressed": 12095,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 29,
@@ -15364,7 +15369,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10038
+      "UsersEstimate": 10039
     },
     {
       "ID": "ACH02",
@@ -15386,9 +15391,9 @@
       "ID": "ACH04",
       "SetID": "552d41m",
       "Name": "Disposing of the Evidence",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4596
+      "UsersEstimate": 4717
     },
     {
       "ID": "ACH05",
@@ -15428,7 +15433,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "ACH10",
@@ -15436,7 +15441,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 3386
+      "UsersEstimate": 3387
     },
     {
       "ID": "ACH11",
@@ -15484,7 +15489,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3144
+      "UsersEstimate": 3145
     },
     {
       "ID": "ACH17",
@@ -15500,7 +15505,7 @@
       "Name": "Not So Fast",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "ACH19",
@@ -15556,7 +15561,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "ACH26",
@@ -15595,7 +15600,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12094,
+      "Progressed": 12095,
       "Completed": 84
     }
   ],
@@ -15603,8 +15608,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-08T18:02:03.5351927+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:06:01.6330046+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:07:36.8885162+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.653696+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:57:35.0936005+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:06:01.6330838+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:57:37.9440583+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:07:36.888601+00:00"
 }

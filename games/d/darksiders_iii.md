@@ -1,7 +1,7 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.48 (Ranked 656)  
+Rating: 4.48 (Ranked 657)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,7 +13,7 @@ Number of Ratings: 116  (23.09.2022)
 | Fight Fire with Fire | 58.00% | ~305 |
 | Increased Capacity | 55.00% | ~289 |
 | Just the start | 49.00% | ~258 |
-| Perfect Storm | 46.00% | ~242 |
+| Perfect Storm | 47.00% | ~247 |
 | All That Glitters | 46.00% | ~242 |
 | Enhance! | 43.00% | ~226 |
 | One Of the Chosen | 40.00% | ~210 |
@@ -27,7 +27,7 @@ Number of Ratings: 116  (23.09.2022)
 | I Wanna Rock | 34.00% | ~179 |
 | Delusions of Grandeur | 34.00% | ~179 |
 | Love Tap | 33.00% | ~174 |
-| Maximum Vigor | 31.00% | ~163 |
+| Maximum Vigor | 32.00% | ~168 |
 | Freeze Frame | 29.00% | ~153 |
 | Eat Your Heart Out | 29.00% | ~153 |
 | For Whom the Bell Tolls | 29.00% | ~153 |
@@ -37,15 +37,15 @@ Number of Ratings: 116  (23.09.2022)
 | Crowd Source | 25.00% | ~132 |
 | Cleanup Crew | 24.00% | ~126 |
 | Demon Meddler | 23.00% | ~121 |
+| Seeing Red | 23.00% | ~121 |
 | Maximum Capacity | 22.00% | ~116 |
-| Seeing Red | 22.00% | ~116 |
 | Egomaniac | 21.00% | ~110 |
 | Protector of Humanity | 19.00% | ~100 |
 | Everybody Wants to Rule the World | 19.00% | ~100 |
 | Community Outreach | 16.00% | ~84 |
 | Unbreakable Will | 14.00% | ~74 |
 | A Parting Gift | 14.00% | ~74 |
-| Path of the Horseman | 13.00% | ~68 |
+| Path of the Horseman | 14.00% | ~74 |
 | Take it to the Limit | 13.00% | ~68 |
 | Holy Keeper | 12.00% | ~63 |
 | Demon Keeper | 12.00% | ~63 |

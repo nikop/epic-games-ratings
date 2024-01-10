@@ -2,7 +2,7 @@
   "ID": "79d9bff700bb46a790b21e8c73b34899",
   "Name": "Salt and Sanctuary",
   "ProductSlug": "salt-and-sanctuary",
-  "Ranking_Rating": 399,
+  "Ranking_Rating": 400,
   "Ranking_Popularity": 261,
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 36,
@@ -2982,9 +2982,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 543899,
+  "EOS_Progressed": 543901,
   "EOS_Completed": 1678,
-  "EOS_NewPlayers": 779,
+  "EOS_NewPlayers": 780,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -32382,6 +32382,11 @@
       "Time": "2024-01-10T05:04:18.9595251+00:00",
       "NumProgressed": 543899,
       "NumCompleted": 1678
+    },
+    {
+      "Time": "2024-01-10T06:05:11.4999618+00:00",
+      "NumProgressed": 543901,
+      "NumCompleted": 1678
     }
   ],
   "TotalAchievements": 37,
@@ -32449,7 +32454,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 451436
+      "UsersEstimate": 451438
     },
     {
       "ID": "HONED",
@@ -32649,7 +32654,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 348095
+      "UsersEstimate": 348097
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -32688,15 +32693,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 543899,
+      "Progressed": 543901,
       "Completed": 1678
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2024-01-08T10:59:12.0666169+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:04:18.9595244+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:05:11.4999615+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.5863764+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:59:12.0900719+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:04:18.9596952+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:00:03.4552605+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:05:11.5001203+00:00"
 }

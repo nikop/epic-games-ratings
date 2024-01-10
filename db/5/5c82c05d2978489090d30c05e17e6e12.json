@@ -2,7 +2,7 @@
   "ID": "5c82c05d2978489090d30c05e17e6e12",
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
-  "Ranking_Rating": 981,
+  "Ranking_Rating": 982,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 112,
@@ -269,7 +269,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74305,
+  "EOS_Progressed": 74308,
   "EOS_Completed": 115,
   "EOS_NewPlayers": 1655,
   "EOS_NewCompleters": 8,
@@ -6764,6 +6764,11 @@
       "Time": "2024-01-10T05:08:36.7930219+00:00",
       "NumProgressed": 74305,
       "NumCompleted": 115
+    },
+    {
+      "Time": "2024-01-10T06:09:13.0828382+00:00",
+      "NumProgressed": 74308,
+      "NumCompleted": 115
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -6776,7 +6781,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27493
+      "UsersEstimate": 27494
     },
     {
       "ID": "Achievement_10",
@@ -6864,7 +6869,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20805
+      "UsersEstimate": 20806
     },
     {
       "ID": "Achievement_20",
@@ -7000,7 +7005,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6687
+      "UsersEstimate": 6688
     },
     {
       "ID": "Achievement_5",
@@ -7008,7 +7013,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5201
+      "UsersEstimate": 5202
     },
     {
       "ID": "Achievement_6",
@@ -7047,7 +7052,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 74305,
+      "Progressed": 74308,
       "Completed": 115
     }
   ],
@@ -7055,8 +7060,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-09T18:03:16.5676566+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:08:36.7930215+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:09:13.0828379+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:21.0621045+00:00",
-  "LastUpdate_Ratings": "2024-01-10T05:03:08.9906872+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:08:36.7930742+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:03:30.1451431+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:09:13.0828891+00:00"
 }

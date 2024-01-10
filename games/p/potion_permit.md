@@ -1,24 +1,24 @@
 # Potion Permit
 [Store](https://store.epicgames.com/en-US/p/potion-permit)  
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.86 (Ranked 1,073)  
+Rating: 3.86 (Ranked 1,074)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,892 |
-| The First Step | 87.00% | ~1,680 |
-| Moonbury Traveller | 62.00% | ~1,197 |
+| Welcome to Moonbury | 98.00% | ~1,893 |
+| The First Step | 87.00% | ~1,681 |
+| Moonbury Traveller | 62.00% | ~1,198 |
 | Rookie Chemist | 60.00% | ~1,159 |
-| Great Doctor | 49.00% | ~946 |
+| Great Doctor | 49.00% | ~947 |
 | Dog Whisperer | 47.00% | ~908 |
-| Friendly | 46.00% | ~888 |
-| The Capitalist | 43.00% | ~830 |
+| Friendly | 46.00% | ~889 |
+| The Capitalist | 43.00% | ~831 |
 | K.O.! | 42.00% | ~811 |
 | Intermediate Chemist | 39.00% | ~753 |
-| Decorative Mind | 33.00% | ~637 |
+| Decorative Mind | 33.00% | ~638 |
 | Lumber Specialist | 31.00% | ~599 |
 | Kind-hearted | 25.00% | ~483 |
-| Catch of the Day | 24.00% | ~463 |
+| Catch of the Day | 24.00% | ~464 |
 | Amateur Chef | 22.00% | ~425 |
 | Fishing Guru | 20.00% | ~386 |
 | Spark of Love | 18.00% | ~348 |
@@ -28,7 +28,7 @@ Rating: 3.86 (Ranked 1,073)
 | Line Cook | 12.00% | ~232 |
 | Sociable | 12.00% | ~232 |
 | Ablutomaniac | 12.00% | ~232 |
-| Production Sorter | 11.00% | ~212 |
+| Production Sorter | 11.00% | ~213 |
 | Good Samaritan | 10.00% | ~193 |
 | Acrobatic Adventurer | 9.00% | ~174 |
 | Animal Exterminator | 9.00% | ~174 |
@@ -44,7 +44,7 @@ Rating: 3.86 (Ranked 1,073)
 | Moonbury Navigator | 1.00% | ~19 |
 | Being a donut... | 0.70% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,931 (Ranked 252)  
+Progressed: 1,932 (Ranked 252)  
 Completed: 11 (0.57%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 11 (0.57%) (Ranked 210)
 | 2024-01-07 | 1,913 | 11 |
 | 2024-01-08 | 1,922 | 11 |
 | 2024-01-09 | 1,929 | 11 |
-| 2024-01-10 | 1,931 | 11 |
+| 2024-01-10 | 1,932 | 11 |
 ## Awards
 Max (Character Customization): 70  (Ranked 418)  
 Sum: 70 (Ranked 491)  

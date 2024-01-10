@@ -1,7 +1,7 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 261)  
+Rating: 4.68 (Ranked 262)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,12 +9,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Malpractice Assurance | 13.00% | ~937 |
 | Lost and Found | 8.00% | ~577 |
 | Autodidact | 7.00% | ~9,264 |
-| This guy... again? | 7.00% | ~504 |
+| This guy... again? | 7.00% | ~505 |
 | This Belongs in a Museum | 6.00% | ~7,940 |
 | Creep and Sleep | 6.00% | ~7,940 |
 | Overdue Notice | 6.00% | ~7,940 |
 | Escape from the Black Hole | 6.00% | ~7,940 |
-| Ploughshares to Swords | 6.00% | ~432 |
+| Ploughshares to Swords | 6.00% | ~433 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,617 |
 | Serenity Now! | 5.00% | ~6,617 |
 | It Rings a Bell | 5.00% | ~6,617 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,338 (Ranked 91)  
-Completed: 3 (0.00%) (Ranked 395)  
+Progressed: 132,340 (Ranked 91)  
+Completed: 4 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -341,16 +341,16 @@ Completed: 3 (0.00%) (Ranked 395)
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
 | 2024-01-09 | 132,315 | 3 |
-| 2024-01-10 | 132,338 | 3 |
+| 2024-01-10 | 132,340 | 4 |
 ## Awards
 Max (Character Customization): 8,000  (Ranked 50)  
-Sum: 21,572 (Ranked 58)  
+Sum: 21,574 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,000 |
 | This game has Diverse Characters | 1,839 |
-| This game has Challenging Combat | 1,674 |
+| This game has Challenging Combat | 1,676 |
 | This game is Highly Recommended | 1,603 |
 | This game has Amazing Characters | 1,527 |
 | This game is Extremely Fun | 1,520 |
@@ -710,4 +710,4 @@ Diff (max vs sum): -8
 | 2024-01-07 | 4.68 | - | 7,986 | 21,519 |
 | 2024-01-08 | 4.68 | - | 7,992 | 21,547 |
 | 2024-01-09 | 4.68 | - | 7,992 | 21,561 |
-| 2024-01-10 | 4.68 | - | 8,000 | 21,572 |
+| 2024-01-10 | 4.68 | - | 8,000 | 21,574 |

@@ -1,7 +1,7 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 300)  
+Rating: 4.66 (Ranked 301)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,23 +9,23 @@ Number of Ratings: 495  (23.09.2022)
 | Genin | 12.00% | ~27,011 |
 | A thief's beginning | 11.00% | ~24,760 |
 | Thorough | 11.00% | ~24,760 |
-| Disguised | 9.00% | ~20,258 |
-| Rescue Takuma | 9.00% | ~20,258 |
-| Rollin' | 9.00% | ~20,258 |
-| Tanuki Time | 9.00% | ~20,258 |
-| Ice Ice Yuki | 8.00% | ~18,007 |
-| Stoned Ox | 8.00% | ~18,007 |
-| Yabu | 8.00% | ~18,007 |
-| Happy Planning | 7.00% | ~15,756 |
-| Jonin | 7.00% | ~15,756 |
-| Mugen Unchained | 7.00% | ~15,756 |
-| Chunin | 6.00% | ~13,505 |
-| Flying Rocks | 6.00% | ~13,505 |
-| Warzone | 6.00% | ~13,505 |
-| Happy little accidents | 5.00% | ~11,254 |
-| Okkoto | 5.00% | ~11,254 |
-| Prisoners | 5.00% | ~11,254 |
-| Too Early | 5.00% | ~11,254 |
+| Disguised | 9.00% | ~20,259 |
+| Rescue Takuma | 9.00% | ~20,259 |
+| Rollin' | 9.00% | ~20,259 |
+| Tanuki Time | 9.00% | ~20,259 |
+| Ice Ice Yuki | 8.00% | ~18,008 |
+| Stoned Ox | 8.00% | ~18,008 |
+| Yabu | 8.00% | ~18,008 |
+| Happy Planning | 7.00% | ~15,757 |
+| Jonin | 7.00% | ~15,757 |
+| Mugen Unchained | 7.00% | ~15,757 |
+| Chunin | 6.00% | ~13,506 |
+| Flying Rocks | 6.00% | ~13,506 |
+| Warzone | 6.00% | ~13,506 |
+| Happy little accidents | 5.00% | ~11,255 |
+| Okkoto | 5.00% | ~11,255 |
+| Prisoners | 5.00% | ~11,255 |
+| Too Early | 5.00% | ~11,255 |
 | Gear up | 4.00% | ~9,004 |
 | Noboru | 4.00% | ~9,004 |
 | Still Rollin' | 4.00% | ~9,004 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~225 |
 | Release the Kraken | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,090 (Ranked 79)  
+Progressed: 225,095 (Ranked 79)  
 Completed: 105 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 105 (0.05%) (Ranked 336)
 | 2024-01-07 | 224,723 | 105 |
 | 2024-01-08 | 224,898 | 105 |
 | 2024-01-09 | 225,058 | 105 |
-| 2024-01-10 | 225,090 | 105 |
+| 2024-01-10 | 225,095 | 105 |
 ## Awards
 Max (Great for Beginners): 592  (Ranked 211)  
 Sum: 4,954 (Ranked 150)  

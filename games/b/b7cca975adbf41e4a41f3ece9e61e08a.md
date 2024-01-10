@@ -1,30 +1,30 @@
 # Love Is All Around
 [Store](https://store.epicgames.com/en-US/p/love-is-all-around-3a8046)  
 [View Rawdata](../../db/b/b7cca975adbf41e4a41f3ece9e61e08a.json)  
-Rating: 4.69 (Ranked 235)  
+Rating: 4.69 (Ranked 236)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~16,015 |
-| I Challenge You To Save More Money! | 81.00% | ~14,741 |
-| I Love How Tough You Are | 65.00% | ~11,829 |
-| Wanna Come To My Place For Dinner? | 58.00% | ~10,555 |
-| What I Want Is You | 53.00% | ~9,645 |
-| To Be Or Not To Be | 50.00% | ~9,100 |
-| Are You Alright? | 47.00% | ~8,554 |
-| Love Actually | 41.00% | ~7,462 |
-| Drama King | 36.00% | ~6,552 |
-| Go Clean up In Your Own Way | 33.00% | ~6,006 |
-| You're Really Something Else | 32.00% | ~5,824 |
-| Drama CP: Reel to Real | 31.00% | ~5,642 |
-| Happy Family | 30.00% | ~5,460 |
-| FIRST LOVE | 30.00% | ~5,460 |
-| Worthless Speech | 30.00% | ~5,460 |
-| Absolutely Elegant | 28.00% | ~5,096 |
-| ONE PUNCH | 28.00% | ~5,096 |
-| Still Single | 27.00% | ~4,914 |
-| Days Of Innocence | 26.00% | ~4,732 |
-| David | 26.00% | ~4,732 |
+| Last Night...Did We... | 88.00% | ~16,018 |
+| I Challenge You To Save More Money! | 81.00% | ~14,744 |
+| I Love How Tough You Are | 65.00% | ~11,831 |
+| Wanna Come To My Place For Dinner? | 58.00% | ~10,557 |
+| What I Want Is You | 53.00% | ~9,647 |
+| To Be Or Not To Be | 50.00% | ~9,101 |
+| Are You Alright? | 47.00% | ~8,555 |
+| Love Actually | 41.00% | ~7,463 |
+| Drama King | 36.00% | ~6,553 |
+| Go Clean up In Your Own Way | 33.00% | ~6,007 |
+| You're Really Something Else | 32.00% | ~5,825 |
+| Drama CP: Reel to Real | 31.00% | ~5,643 |
+| Happy Family | 30.00% | ~5,461 |
+| FIRST LOVE | 30.00% | ~5,461 |
+| Worthless Speech | 30.00% | ~5,461 |
+| Absolutely Elegant | 28.00% | ~5,097 |
+| ONE PUNCH | 28.00% | ~5,097 |
+| Still Single | 27.00% | ~4,915 |
+| Days Of Innocence | 26.00% | ~4,733 |
+| David | 26.00% | ~4,733 |
 | Go Get Some Fries On The Pier | 25.00% | ~4,550 |
 | All I Have Is Money | 21.00% | ~3,822 |
 | Lover In Dark Alley | 21.00% | ~3,822 |
@@ -48,8 +48,8 @@ Rating: 4.69 (Ranked 235)
 | Tall; Grande; Venti | 2.00% | ~364 |
 | Limerence | 2.00% | ~364 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,199 (Ranked 160)  
-Completed: 311 (1.71%) (Ranked 142)  
+Progressed: 18,202 (Ranked 160)  
+Completed: 312 (1.71%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -143,7 +143,7 @@ Completed: 311 (1.71%) (Ranked 142)
 | 2024-01-07 | 17,976 | 305 |
 | 2024-01-08 | 18,078 | 308 |
 | 2024-01-09 | 18,177 | 311 |
-| 2024-01-10 | 18,199 | 311 |
+| 2024-01-10 | 18,202 | 312 |
 ## Awards
 Max (Impact the Story): 36  (Ranked 498)  
 Sum: 36 (Ranked 531)  

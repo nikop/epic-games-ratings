@@ -2,13 +2,13 @@
   "ID": "a4824407d9ec4f6a8c13919e732f9400",
   "Name": "Eiyuden Chronicle: Rising",
   "ProductSlug": "eiyuden-chronicle-rising",
-  "Ranking_Rating": 613,
+  "Ranking_Rating": 614,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 53,
   "Ranking_EOS_NewPlayers": 416,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
     "PcReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -1046,9 +1046,9 @@
       "ID": "ACHIEVEMENT028",
       "SetID": "dejhjd5",
       "Name": "On Outlander Lane",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 407
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -1238,8 +1238,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:09:02.0266909+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:09:48.5522607+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:40.9292398+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:57:50.6215703+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:09:02.0267321+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:58:00.6108037+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:09:48.5523096+00:00"
 }

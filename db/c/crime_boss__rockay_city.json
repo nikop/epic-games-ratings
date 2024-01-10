@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5493,9 +5493,9 @@
       "Count": 538
     }
   ],
-  "EOS_Progressed": 93312,
+  "EOS_Progressed": 93315,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -30973,6 +30973,11 @@
       "Time": "2024-01-10T05:04:21.5051251+00:00",
       "NumProgressed": 93312,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-10T06:05:14.9652216+00:00",
+      "NumProgressed": 93315,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -30984,7 +30989,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3732
+      "UsersEstimate": 3733
     },
     {
       "ID": "ACH_0011",
@@ -31064,7 +31069,7 @@
       "Name": "I Like Trains",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "ACH_0050",
@@ -31080,7 +31085,7 @@
       "Name": "Freebooter",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "ACH_0061",
@@ -31128,7 +31133,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3732
+      "UsersEstimate": 3733
     },
     {
       "ID": "ACH_0210",
@@ -31136,7 +31141,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3732
+      "UsersEstimate": 3733
     },
     {
       "ID": "ACH_0211",
@@ -31311,13 +31316,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 93312,
+      "Progressed": 93315,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21659,
+      "Progressed": 21662,
       "Completed": 15599
     }
   ],
@@ -31325,8 +31330,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-10T04:01:44.6573835+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:04:21.5051247+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:05:14.9652213+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:40.4736817+00:00",
-  "LastUpdate_Ratings": "2024-01-10T05:00:26.5151118+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:04:21.5052438+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:01:53.8767394+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:05:14.9653441+00:00"
 }

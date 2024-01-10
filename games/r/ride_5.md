@@ -1,7 +1,7 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.50 (Ranked 613)  
+Rating: 4.50 (Ranked 614)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,11 +13,11 @@ Rating: 4.50 (Ranked 613)
 | Rivals to the End | 31.00% | ~1,086 |
 | Champagne Spray | 30.00% | ~1,051 |
 | We're Going to Need a Bigger Garage | 27.00% | ~946 |
-| Quick Pit Stop | 22.00% | ~770 |
-| I Want One Too! | 21.00% | ~735 |
-| Restored and Ready | 20.00% | ~700 |
-| Legendary!!! | 20.00% | ~700 |
-| Go-Faster Stripes | 17.00% | ~595 |
+| Quick Pit Stop | 22.00% | ~771 |
+| I Want One Too! | 21.00% | ~736 |
+| Restored and Ready | 20.00% | ~701 |
+| Legendary!!! | 20.00% | ~701 |
+| Go-Faster Stripes | 17.00% | ~596 |
 | I'm Here Too! | 15.00% | ~525 |
 | We've Just Begun | 15.00% | ~525 |
 | Is It the Right Size? | 9.00% | ~315 |
@@ -55,7 +55,7 @@ Rating: 4.50 (Ranked 613)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,502 (Ranked 223)  
+Progressed: 3,503 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 3,427 | 0 |
 | 2024-01-08 | 3,463 | 0 |
 | 2024-01-09 | 3,491 | 0 |
-| 2024-01-10 | 3,502 | 0 |
+| 2024-01-10 | 3,503 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

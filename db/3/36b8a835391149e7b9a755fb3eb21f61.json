@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 823,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 576,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-11-29T02:00:00+00:00",
@@ -28,9 +28,211 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-01-10T06:05:20.5173252+00:00",
+  "TotalAchievements": 25,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "A random killing",
+      "SetID": "a4o45l2",
+      "Name": "A random killing",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Entering the wilderness for the first time",
+      "SetID": "a4o45l2",
+      "Name": "Entering the wilderness for the first time",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Experience comes from all directions",
+      "SetID": "a4o45l2",
+      "Name": "Experience comes from all directions",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Explosive Mastery",
+      "SetID": "a4o45l2",
+      "Name": "Explosive Mastery",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Happy two dogs",
+      "SetID": "a4o45l2",
+      "Name": "Happy two dogs",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hundred Steps Flying Sword",
+      "SetID": "a4o45l2",
+      "Name": "Hundred Steps Flying Sword",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "I\u0027m invincible, you can do whatever you want",
+      "SetID": "a4o45l2",
+      "Name": "I\u0027m invincible, you can do whatever you want",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "If you catch me, I\u0027ll have sex with you",
+      "SetID": "a4o45l2",
+      "Name": "If you catch me, I\u0027ll have sex with you",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Life is nothing but starting over",
+      "SetID": "a4o45l2",
+      "Name": "Life is nothing but starting over",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Occasionally a genius 1",
+      "SetID": "a4o45l2",
+      "Name": "Occasionally a genius 1",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Occasionally a genius 2",
+      "SetID": "a4o45l2",
+      "Name": "Occasionally a genius 2",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Palm skills falling from the sky",
+      "SetID": "a4o45l2",
+      "Name": "Palm skills falling from the sky",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Perfectionism 1",
+      "SetID": "a4o45l2",
+      "Name": "Perfectionism 1",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Perfectionism 2",
+      "SetID": "a4o45l2",
+      "Name": "Perfectionism 2",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Perfectionism 3",
+      "SetID": "a4o45l2",
+      "Name": "Perfectionism 3",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Repeated defeats and battles",
+      "SetID": "a4o45l2",
+      "Name": "Repeated defeats and battles",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Rich in wealth",
+      "SetID": "a4o45l2",
+      "Name": "Rich in wealth",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Snakeskin moves",
+      "SetID": "a4o45l2",
+      "Name": "Snakeskin moves",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "That\u0027s how awesome",
+      "SetID": "a4o45l2",
+      "Name": "That\u0027s how awesome",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "There\u0027s lightning up and down and left and right",
+      "SetID": "a4o45l2",
+      "Name": "There\u0027s lightning up and down and left and right",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "They are a group, not one",
+      "SetID": "a4o45l2",
+      "Name": "They are a group, not one",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "bomb! bomb! bomb!",
+      "SetID": "a4o45l2",
+      "Name": "bomb! bomb! bomb!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "little dragon man",
+      "SetID": "a4o45l2",
+      "Name": "little dragon man",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "monster killer",
+      "SetID": "a4o45l2",
+      "Name": "monster killer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "wilderness war god",
+      "SetID": "a4o45l2",
+      "Name": "wilderness war god",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "a4o45l2",
@@ -40,8 +242,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-30T01:50:14.6628972+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:04:25.3160267+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:05:20.5173234+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:12.8276791+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:02:44.5648443+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:04:25.316029+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:57:01.3458449+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:05:20.5499368+00:00"
 }

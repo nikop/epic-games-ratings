@@ -1,7 +1,7 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.29 (Ranked 882)  
+Rating: 4.29 (Ranked 883)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,7 +15,7 @@ Number of Ratings: 124  (23.09.2022)
 | Peddler | 23.00% | ~52 |
 | Military Leader | 23.00% | ~52 |
 | Commander | 19.00% | ~43 |
-| Irissa's Fate | 16.00% | ~36 |
+| Irissa's Fate | 17.00% | ~39 |
 | Pass A38 | 16.00% | ~36 |
 | Long-Haul Flyer | 15.00% | ~34 |
 | Family Reunion | 14.00% | ~32 |

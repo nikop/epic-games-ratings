@@ -1,7 +1,7 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 358)  
+Rating: 4.63 (Ranked 359)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -25,7 +25,7 @@ Number of Ratings: 85  (23.09.2022)
 | Deincarnated | 29.00% | ~124 |
 | Furon Fashion | 29.00% | ~124 |
 | Rock of the Bay | 28.00% | ~120 |
-| Trans-Siberian Express | 24.00% | ~103 |
+| Trans-Siberian Express | 25.00% | ~107 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~86 |
 | Arkvoodle Doodle | 18.00% | ~77 |
 | Ouch of Body Experience | 16.00% | ~69 |

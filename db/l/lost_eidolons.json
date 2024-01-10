@@ -2,13 +2,13 @@
   "ID": "de3677b7bac547128656ac18c5b2f298",
   "Name": "Lost Eidolons",
   "ProductSlug": "lost-eidolons",
-  "Ranking_Rating": 826,
+  "Ranking_Rating": 827,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 3814,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1122,
+  "EOS_Progressed": 1121,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -3,
+  "EOS_NewPlayers": -4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2642,6 +2642,11 @@
       "Time": "2024-01-09T21:08:40.0130787+00:00",
       "NumProgressed": 1122,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T06:09:14.7103825+00:00",
+      "NumProgressed": 1121,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2701,7 +2706,7 @@
       "Name": "Monster Hunter",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 640
+      "UsersEstimate": 639
     },
     {
       "ID": "08",
@@ -2781,15 +2786,15 @@
       "Name": "Ready to Learn",
       "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 752
+      "UsersEstimate": 751
     },
     {
       "ID": "18",
       "SetID": "73ikgfc",
       "Name": "Earning Trust",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 606
+      "UsersEstimate": 617
     },
     {
       "ID": "19",
@@ -2821,7 +2826,7 @@
       "Name": "House Vulisica\u0027s Heirloom",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 180
+      "UsersEstimate": 179
     },
     {
       "ID": "23",
@@ -2836,7 +2841,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1122,
+      "Progressed": 1121,
       "Completed": 1
     }
   ],
@@ -2844,8 +2849,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:08:37.9384564+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:09:14.7103821+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:22.9341362+00:00",
-  "LastUpdate_Ratings": "2024-01-10T05:02:58.3499209+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:08:37.9384868+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:03:16.8210585+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:09:14.7104039+00:00"
 }

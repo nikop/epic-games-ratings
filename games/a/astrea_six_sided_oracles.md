@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 84.00% | ~307 |
-| Purification Pioneer | 79.00% | ~288 |
-| Mechanical Buddy | 74.00% | ~270 |
+| Meissa's Savior | 85.00% | ~311 |
+| Purification Pioneer | 80.00% | ~293 |
+| Mechanical Buddy | 74.00% | ~271 |
 | Dicesmithing Time! | 64.00% | ~234 |
-| Sanctuary Guardian | 54.00% | ~197 |
-| Endless Tricks | 51.00% | ~186 |
-| Wild's Keeper | 48.00% | ~175 |
-| Mind Illuminator | 44.00% | ~161 |
+| Sanctuary Guardian | 54.00% | ~198 |
+| Endless Tricks | 51.00% | ~187 |
+| Wild's Keeper | 48.00% | ~176 |
+| Mind Illuminator | 43.00% | ~157 |
 | Stellar Dismantler | 38.00% | ~139 |
-| Astral Adventurer | 35.00% | ~128 |
 | Noctuan Champion | 35.00% | ~128 |
+| Astral Adventurer | 34.00% | ~124 |
 | Anomaly Destroyer | 31.00% | ~113 |
 | Star Killer | 30.00% | ~110 |
-| Eridanian Champion | 25.00% | ~91 |
-| Loyal Partner | 22.00% | ~80 |
+| Eridanian Champion | 25.00% | ~92 |
+| Loyal Partner | 22.00% | ~81 |
 | Lacertian Champion | 21.00% | ~77 |
-| Apian Champion | 19.00% | ~69 |
+| Apian Champion | 19.00% | ~70 |
 | Shard Spender | 18.00% | ~66 |
 | Unbeatable | 18.00% | ~66 |
-| Sadistic Plan | 16.00% | ~58 |
-| Behenian Champion | 15.00% | ~55 |
+| Sadistic Plan | 16.00% | ~59 |
+| Behenian Champion | 14.00% | ~51 |
 | Heavy Purger | 12.00% | ~44 |
-| Wave Bender | 10.00% | ~36 |
-| Aquarian Champion | 10.00% | ~36 |
+| Wave Bender | 10.00% | ~37 |
+| Aquarian Champion | 10.00% | ~37 |
 | Astral Seeker | 9.00% | ~33 |
 | Heart Gate | 8.00% | ~29 |
 | Stellar Haste | 8.00% | ~29 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 365 (Ranked 375)  
+Progressed: 366 (Ranked 375)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,4 +179,4 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 354 | 0 |
 | 2024-01-08 | 360 | 0 |
 | 2024-01-09 | 364 | 0 |
-| 2024-01-10 | 365 | 0 |
+| 2024-01-10 | 366 | 0 |

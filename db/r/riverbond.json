@@ -2,7 +2,7 @@
   "ID": "100f8957d16d4d2d89716775b5767779",
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
-  "Ranking_Rating": 664,
+  "Ranking_Rating": 666,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 37,
@@ -503,9 +503,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 535298,
+  "EOS_Progressed": 535299,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 586,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -28678,6 +28678,11 @@
       "Time": "2024-01-10T05:08:34.7331345+00:00",
       "NumProgressed": 535298,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2024-01-10T06:09:10.0029983+00:00",
+      "NumProgressed": 535299,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 57,
@@ -28697,7 +28702,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 240884
+      "UsersEstimate": 240885
     },
     {
       "ID": "11",
@@ -28913,7 +28918,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 267649
+      "UsersEstimate": 267650
     },
     {
       "ID": "36",
@@ -28945,7 +28950,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 182001
+      "UsersEstimate": 182002
     },
     {
       "ID": "4",
@@ -29033,7 +29038,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 182001
+      "UsersEstimate": 182002
     },
     {
       "ID": "5",
@@ -29065,7 +29070,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 246237
+      "UsersEstimate": 246238
     },
     {
       "ID": "53",
@@ -29144,15 +29149,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 535298,
+      "Progressed": 535299,
       "Completed": 519
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-12-14T14:59:39.4842186+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:08:34.7331341+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:09:10.002998+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:34.7747339+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:57:51.341683+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:08:34.7332708+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:58:01.6994137+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:09:10.0031516+00:00"
 }

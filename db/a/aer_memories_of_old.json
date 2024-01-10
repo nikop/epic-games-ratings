@@ -2,12 +2,12 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 704,
+  "Ranking_Rating": 705,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -425,9 +425,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28368,
+  "EOS_Progressed": 28369,
   "EOS_Completed": 523,
-  "EOS_NewPlayers": 576,
+  "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -28960,6 +28960,11 @@
       "Time": "2024-01-10T05:04:02.3754405+00:00",
       "NumProgressed": 28368,
       "NumCompleted": 523
+    },
+    {
+      "Time": "2024-01-10T06:04:48.2725743+00:00",
+      "NumProgressed": 28369,
+      "NumCompleted": 523
     }
   ],
   "TotalAchievements": 20,
@@ -29003,7 +29008,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 3120
+      "UsersEstimate": 3121
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -29099,7 +29104,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7659
+      "UsersEstimate": 7660
     },
     {
       "ID": "NORTH_FINISHED",
@@ -29130,15 +29135,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 28368,
+      "Progressed": 28369,
       "Completed": 523
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-04T06:57:48.8328887+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:04:02.3754401+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:04:48.272574+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.2454847+00:00",
-  "LastUpdate_Ratings": "2024-01-10T05:00:33.4737192+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:04:02.3755864+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:02:43.7694168+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:04:48.2726984+00:00"
 }

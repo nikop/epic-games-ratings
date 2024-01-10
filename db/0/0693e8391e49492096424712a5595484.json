@@ -3395,9 +3395,9 @@
       "ID": "SleepingBasiliskAmanita",
       "SetID": "db30heh",
       "Name": "Wild Dreams",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 135
+      "UsersEstimate": 143
     },
     {
       "ID": "SleepingBasiliskPistol",
@@ -3427,9 +3427,9 @@
       "ID": "SwordMoneyBag",
       "SetID": "db30heh",
       "Name": "Expensive Deal",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 293
+      "UsersEstimate": 301
     },
     {
       "ID": "WormGrilled",
@@ -3450,8 +3450,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:06:32.7259964+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:08:40.6750694+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:55.0577875+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:58:02.2867208+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:06:32.7260693+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:58:16.7182414+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:08:40.6751337+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 948,
+  "Ranking_Rating": 949,
   "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 322,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2147,9 +2147,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 21934,
+  "EOS_Progressed": 21935,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1218,
+  "EOS_NewPlayers": 1214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13297,6 +13297,11 @@
       "Time": "2024-01-10T05:09:38.3633322+00:00",
       "NumProgressed": 21934,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-10T06:10:39.8653647+00:00",
+      "NumProgressed": 21935,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13324,7 +13329,7 @@
       "Name": "Giving Back",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -13444,7 +13449,7 @@
       "Name": "Terminated",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -13452,7 +13457,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 3509
+      "UsersEstimate": 3510
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -13484,7 +13489,7 @@
       "Name": "Paper Jams",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4825
+      "UsersEstimate": 4826
     },
     {
       "ID": "SHARE_PHOTO",
@@ -13508,7 +13513,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3509
+      "UsersEstimate": 3510
     },
     {
       "ID": "STORY_HABITAT",
@@ -13532,7 +13537,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -13556,7 +13561,7 @@
       "Name": "Full Circle",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "STORY_TUNNELS",
@@ -13683,13 +13688,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 21934,
+      "Progressed": 21935,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 9860,
+      "Progressed": 9861,
       "Completed": 29
     }
   ],
@@ -13697,8 +13702,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-09T23:03:39.0510048+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:09:38.3633319+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:10:39.8653644+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-10T05:03:19.3846636+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:09:38.3634224+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:03:45.371305+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:10:39.8654367+00:00"
 }

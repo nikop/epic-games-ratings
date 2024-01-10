@@ -2,13 +2,13 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 894,
+  "Ranking_Rating": 895,
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -531,7 +531,7 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 257430,
+  "EOS_Progressed": 257433,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 791,
   "EOS_NewCompleters": 0,
@@ -30246,6 +30246,11 @@
       "Time": "2024-01-10T05:06:34.8158506+00:00",
       "NumProgressed": 257430,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-10T06:08:43.5351451+00:00",
+      "NumProgressed": 257433,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -30257,7 +30262,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69506
+      "UsersEstimate": 69507
     },
     {
       "ID": "ACH_AON",
@@ -30401,7 +30406,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74655
+      "UsersEstimate": 74656
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -30561,7 +30566,7 @@
       "Name": "Griever",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20594
+      "UsersEstimate": 20595
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -30569,7 +30574,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20594
+      "UsersEstimate": 20595
     },
     {
       "ID": "ACH_SCRATCH",
@@ -30649,7 +30654,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 20594
+      "UsersEstimate": 20595
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -30672,7 +30677,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 257430,
+      "Progressed": 257433,
       "Completed": 8
     }
   ],
@@ -30680,8 +30685,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-07T06:59:33.5120789+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:06:34.8158503+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:08:43.5351448+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:49.3537821+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:57:48.6643191+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:06:34.8160242+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:57:58.0085575+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:08:43.5353323+00:00"
 }

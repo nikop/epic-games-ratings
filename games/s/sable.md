@@ -1,33 +1,33 @@
 # Sable
 [Store](https://store.epicgames.com/en-US/p/sable)  
 [View Rawdata](../../db/s/sable.json)  
-Rating: 4.53 (Ranked 561)  
+Rating: 4.53 (Ranked 562)  
 Number of Ratings: 43  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~37,437 |
-| Just The Two of Us | 32.00% | ~35,235 |
-| Up On High | 25.00% | ~27,527 |
-| Under The Hood | 25.00% | ~27,527 |
-| Got Your Nose | 24.00% | ~26,426 |
-| The Gift of Gab | 24.00% | ~26,426 |
-| Wrapping Up | 22.00% | ~24,224 |
+| Simoon | 34.00% | ~37,438 |
+| Just The Two of Us | 32.00% | ~35,236 |
+| Up On High | 25.00% | ~27,528 |
+| Under The Hood | 25.00% | ~27,528 |
+| Got Your Nose | 24.00% | ~26,427 |
+| The Gift of Gab | 24.00% | ~26,427 |
+| Wrapping Up | 22.00% | ~24,225 |
 | More Than A Box Of Sand | 18.00% | ~19,820 |
 | The Dunboyne | 17.00% | ~18,719 |
 | Badge Hobbyist | 17.00% | ~18,719 |
-| Chum Novice | 16.00% | ~17,617 |
-| Silver-Tongued Sable | 16.00% | ~17,617 |
-| Sticky Paws | 16.00% | ~17,617 |
-| Bubble Up | 16.00% | ~17,617 |
-| Thread The Needle | 15.00% | ~16,516 |
-| Power to the People | 14.00% | ~15,415 |
-| Nesting Giant | 14.00% | ~15,415 |
-| Take That! | 13.00% | ~14,314 |
-| Treasure Tracker | 13.00% | ~14,314 |
-| Big Spender | 13.00% | ~14,314 |
-| Badge Collector | 12.00% | ~13,213 |
-| Quite The Catch | 12.00% | ~13,213 |
+| Chum Novice | 16.00% | ~17,618 |
+| Silver-Tongued Sable | 16.00% | ~17,618 |
+| Sticky Paws | 16.00% | ~17,618 |
+| Bubble Up | 16.00% | ~17,618 |
+| Thread The Needle | 15.00% | ~16,517 |
+| Power to the People | 14.00% | ~15,416 |
+| Nesting Giant | 14.00% | ~15,416 |
+| Take That! | 13.00% | ~14,315 |
+| Treasure Tracker | 13.00% | ~14,315 |
+| Big Spender | 13.00% | ~14,315 |
+| Badge Collector | 12.00% | ~13,214 |
+| Quite The Catch | 12.00% | ~13,214 |
 | Rowleys Way | 11.00% | ~12,112 |
 | The Machinist Mask | 10.00% | ~11,011 |
 | The Cartographer Mask | 10.00% | ~11,011 |
@@ -54,16 +54,16 @@ Number of Ratings: 43  (23.09.2022)
 | The Merchant Mask | 6.00% | ~6,607 |
 | Honorary Chum | 6.00% | ~6,607 |
 | Bikes Don't Fly | 6.00% | ~6,607 |
-| The Gliding | 5.00% | ~5,505 |
-| The Entertainer Mask | 5.00% | ~5,505 |
-| The Quick and the Curious | 4.00% | ~4,404 |
-| Bike Aficionado | 4.00% | ~4,404 |
+| The Gliding | 5.00% | ~5,506 |
+| The Entertainer Mask | 5.00% | ~5,506 |
+| The Quick and the Curious | 4.00% | ~4,405 |
+| Bike Aficionado | 4.00% | ~4,405 |
 | Chum Expert | 3.00% | ~3,303 |
 | Gastric Bypass | 3.00% | ~3,303 |
 | The Angler Mask | 3.00% | ~3,303 |
 | Vivacious Vivarium | 2.00% | ~2,202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110,109 (Ranked 96)  
+Progressed: 110,113 (Ranked 96)  
 Completed: 1,117 (1.01%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 1,117 (1.01%) (Ranked 175)
 | 2024-01-07 | 109,752 | 1,114 |
 | 2024-01-08 | 109,913 | 1,116 |
 | 2024-01-09 | 110,076 | 1,117 |
-| 2024-01-10 | 110,109 | 1,117 |
+| 2024-01-10 | 110,113 | 1,117 |
 ## Awards
 Max (Extremely Fun): 30  (Ranked 523)  
 Sum: 148 (Ranked 441)  

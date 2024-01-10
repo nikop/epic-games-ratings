@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 573,
+  "Ranking_Rating": 574,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 159,
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18776,
+  "EOS_Progressed": 18778,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 687,
+  "EOS_NewPlayers": 688,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16892,6 +16892,11 @@
       "Time": "2024-01-10T04:08:49.94411+00:00",
       "NumProgressed": 18776,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-10T06:08:57.2800666+00:00",
+      "NumProgressed": 18778,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16952,7 +16957,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "16",
@@ -16968,7 +16973,7 @@
       "Name": "Spore Taste",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "18",
@@ -17080,7 +17085,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2816
+      "UsersEstimate": 2817
     },
     {
       "ID": "30",
@@ -17144,7 +17149,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "32",
@@ -17183,13 +17188,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18776,
+      "Progressed": 18778,
       "Completed": 61
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4730,
+      "Progressed": 4732,
       "Completed": 1270
     }
   ],
@@ -17197,8 +17202,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-08T14:59:15.8971936+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:08:25.6887923+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:08:57.2800663+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:59:30.7961386+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:08:25.688882+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:00:33.7165946+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:08:57.2801681+00:00"
 }

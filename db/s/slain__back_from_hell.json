@@ -2,13 +2,13 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 894,
+  "Ranking_Rating": 895,
   "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -256,7 +256,7 @@
       "Count": 129
     }
   ],
-  "EOS_Progressed": 43902,
+  "EOS_Progressed": 43903,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 521,
   "EOS_NewCompleters": 0,
@@ -29011,6 +29011,11 @@
       "Time": "2024-01-10T05:03:59.4549616+00:00",
       "NumProgressed": 43902,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-10T06:04:44.22018+00:00",
+      "NumProgressed": 43903,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -29030,7 +29035,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9219
+      "UsersEstimate": 9220
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -29253,7 +29258,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 43902,
+      "Progressed": 43903,
       "Completed": 30
     }
   ],
@@ -29261,8 +29266,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2024-01-10T02:27:03.5087027+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:03:59.4549611+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:04:44.2201796+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:02.3058441+00:00",
-  "LastUpdate_Ratings": "2024-01-10T05:02:54.0976812+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:03:59.4551212+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:03:11.6400107+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:04:44.220331+00:00"
 }

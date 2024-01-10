@@ -1,7 +1,7 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.47 (Ranked 664)  
+Rating: 4.47 (Ranked 666)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,8 +9,8 @@ Number of Ratings: 285  (23.09.2022)
 | Faceroll the Bones | 27.00% | ~1,684 |
 | Hit 'Em Where It Hurts | 26.00% | ~1,622 |
 | Perk Shard Punch Card | 26.00% | ~1,622 |
-| Debuff Dogpile | 25.00% | ~1,559 |
-| That'll Leave a Mark | 25.00% | ~1,559 |
+| Debuff Dogpile | 25.00% | ~1,560 |
+| That'll Leave a Mark | 25.00% | ~1,560 |
 | Mushroom Madness! | 23.00% | ~1,435 |
 | First Strike | 22.00% | ~1,372 |
 | Spending Spree | 19.00% | ~1,185 |
@@ -23,14 +23,14 @@ Number of Ratings: 285  (23.09.2022)
 | On this Episode! | 7.00% | ~437 |
 | Flawless Victory | 6.00% | ~374 |
 | The Harder They Fall | 6.00% | ~374 |
-| Deadication | 4.00% | ~249 |
-| Season Finale | 4.00% | ~249 |
+| Deadication | 4.00% | ~250 |
+| Season Finale | 4.00% | ~250 |
 | We've Got a Kaiju on the Field | 3.00% | ~187 |
 | The Fourth Gate | 2.00% | ~125 |
 | Vexed Her | 0.40% | ~25 |
 | Deadalus and Loving It | 0.20% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,237 (Ranked 199)  
+Progressed: 6,238 (Ranked 199)  
 Completed: 5 (0.08%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 5 (0.08%) (Ranked 322)
 | 2024-01-07 | 6,189 | 5 |
 | 2024-01-08 | 6,210 | 5 |
 | 2024-01-09 | 6,230 | 5 |
-| 2024-01-10 | 6,237 | 5 |
+| 2024-01-10 | 6,238 | 5 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 498)  
 Sum: 296 (Ranked 380)  

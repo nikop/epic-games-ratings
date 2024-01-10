@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.47 (Ranked 664)  
+Rating: 4.47 (Ranked 666)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -24,11 +24,11 @@ Rating: 4.47 (Ranked 664)
 | Climbing the Ladder | 17.00% | ~722 |
 | Just a Flesh Wound | 17.00% | ~722 |
 | Der Geist | 17.00% | ~722 |
+| Skirmisher | 16.00% | ~680 |
 | Close Quarters | 16.00% | ~680 |
 | Snake in the Grass | 16.00% | ~680 |
 | Brains of the Operation | 16.00% | ~680 |
 | No Stone Unturned | 15.00% | ~638 |
-| Skirmisher | 15.00% | ~638 |
 | Die Nussknacker Sweet! | 15.00% | ~638 |
 | Opposing Force | 14.00% | ~595 |
 | Enemy at the Gates | 14.00% | ~595 |

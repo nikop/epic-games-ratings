@@ -1,7 +1,7 @@
 # Wreckfest
 [Store](https://store.epicgames.com/en-US/p/wreckfest)  
 [View Rawdata](../../db/w/wreckfest.json)  
-Rating: 4.27 (Ranked 903)  
+Rating: 4.27 (Ranked 904)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,8 +14,8 @@ Rating: 4.27 (Ranked 903)
 | National Amateurs Champion | 17.00% | ~176 |
 | Junk Collector | 14.00% | ~145 |
 | Hating Them Tin Cans | 14.00% | ~145 |
-| Trashing Around | 13.00% | ~134 |
-| Challengers Champion | 10.00% | ~103 |
+| Trashing Around | 13.00% | ~135 |
+| Challengers Champion | 10.00% | ~104 |
 | Cash For Crashes | 7.00% | ~72 |
 | Pro Internationals Champion | 6.00% | ~62 |
 | Maniac Driver | 3.00% | ~31 |
@@ -26,7 +26,7 @@ Rating: 4.27 (Ranked 903)
 | Human Lover | 0.50% | ~5 |
 | Rocketeer | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,034 (Ranked 291)  
+Progressed: 1,035 (Ranked 291)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -54,7 +54,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 924 | 0 |
 | 2024-01-08 | 979 | 0 |
 | 2024-01-09 | 1,028 | 0 |
-| 2024-01-10 | 1,034 | 0 |
+| 2024-01-10 | 1,035 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2636,
+  "EOS_Progressed": 2637,
   "EOS_Completed": 189,
-  "EOS_NewPlayers": 382,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 47,
   "EOS_Completed_Percentage": 7.17,
   "EosHistory": [
@@ -6922,6 +6922,11 @@
       "Time": "2024-01-10T05:03:33.8486674+00:00",
       "NumProgressed": 2636,
       "NumCompleted": 189
+    },
+    {
+      "Time": "2024-01-10T06:04:08.4044507+00:00",
+      "NumProgressed": 2637,
+      "NumCompleted": 189
     }
   ],
   "TotalAchievements": 25,
@@ -6949,7 +6954,7 @@
       "Name": "Peace walker",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -7037,7 +7042,7 @@
       "Name": "Rascal",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -7093,7 +7098,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1424
     },
     {
       "ID": "PROGRESS_N2",
@@ -7109,7 +7114,7 @@
       "Name": "A new dawn",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "PROGRESS_N4",
@@ -7125,14 +7130,14 @@
       "Name": "One last step",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2636,
+      "Progressed": 2637,
       "Completed": 189
     }
   ],
@@ -7140,8 +7145,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:03:33.848667+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:04:08.4044502+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:59:36.4351385+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:03:33.848722+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:00:41.0206817+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:04:08.4045075+00:00"
 }

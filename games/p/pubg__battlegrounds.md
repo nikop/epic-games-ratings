@@ -1,31 +1,31 @@
 # PUBG: BATTLEGROUNDS
 [Store](https://store.epicgames.com/en-US/p/pubg-59c1d9)  
 [View Rawdata](../../db/p/pubg__battlegrounds.json)  
-Rating: 3.98 (Ranked 1,052)  
+Rating: 3.99 (Ranked 1,051)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 71.00% | ~617,806 |
-| Health Junkie | 38.00% | ~330,657 |
-| You Complete Me | 37.00% | ~321,956 |
-| Guardian Angel | 32.00% | ~278,448 |
-| Devil Inside Me | 25.00% | ~217,538 |
-| Fantastic Four | 19.00% | ~165,328 |
-| Killing Spree | 18.00% | ~156,627 |
-| Marksman Novice | 16.00% | ~139,224 |
-| First Blood | 12.00% | ~104,418 |
-| Top 10 | 11.00% | ~95,716 |
-| Now You See Me, Now You Don't | 10.00% | ~87,015 |
+| Blood on My Hands | 71.00% | ~617,810 |
+| Health Junkie | 38.00% | ~330,659 |
+| You Complete Me | 37.00% | ~321,957 |
+| Guardian Angel | 32.00% | ~278,450 |
+| Devil Inside Me | 25.00% | ~217,539 |
+| Fantastic Four | 19.00% | ~165,329 |
+| Killing Spree | 18.00% | ~156,628 |
+| Marksman Novice | 16.00% | ~139,225 |
+| First Blood | 12.00% | ~104,419 |
+| Top 10 | 11.00% | ~95,717 |
+| Now You See Me, Now You Don't | 10.00% | ~87,016 |
 | Marksman Expert | 8.00% | ~69,612 |
 | CQB Novice | 7.00% | ~60,911 |
 | Collateral Damage | 6.00% | ~52,209 |
 | Airborne | 5.00% | ~43,508 |
 | Pacifist | 5.00% | ~43,508 |
 | Last Survivor | 4.00% | ~34,806 |
-| Marksman Master | 3.00% | ~26,104 |
-| Trigonometry Novice | 3.00% | ~26,104 |
-| First Come, First Served | 3.00% | ~26,104 |
-| Dynamic Duo | 3.00% | ~26,104 |
+| Marksman Master | 3.00% | ~26,105 |
+| Trigonometry Novice | 3.00% | ~26,105 |
+| First Come, First Served | 3.00% | ~26,105 |
+| Dynamic Duo | 3.00% | ~26,105 |
 | Winner Winner Chicken Dinner! | 2.00% | ~17,403 |
 | Okay, Now I'm Ready | 2.00% | ~17,403 |
 | Agent 48 | 2.00% | ~17,403 |
@@ -43,7 +43,7 @@ Rating: 3.98 (Ranked 1,052)
 | Nade King Master | 0.10% | ~870 |
 | Shoot the Knee | 0.10% | ~870 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 870,150 (Ranked 19)  
+Progressed: 870,155 (Ranked 19)  
 Completed: 15 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 15 (0.00%) (Ranked 395)
 | 2024-01-07 | 864,389 | 15 |
 | 2024-01-08 | 867,265 | 15 |
 | 2024-01-09 | 870,047 | 15 |
-| 2024-01-10 | 870,150 | 15 |
+| 2024-01-10 | 870,155 | 15 |
 ## Awards
 Max (Competitive Players): 6,263  (Ranked 64)  
 Sum: 20,379 (Ranked 61)  
@@ -643,4 +643,4 @@ Diff (max vs sum): 3
 | 2024-01-07 | 3.98 | 6,193 | 20,173 |
 | 2024-01-08 | 3.98 | 6,193 | 20,246 |
 | 2024-01-09 | 3.98 | 6,235 | 20,351 |
-| 2024-01-10 | 3.98 | 6,263 | 20,379 |
+| 2024-01-10 | 3.99 | 6,263 | 20,379 |

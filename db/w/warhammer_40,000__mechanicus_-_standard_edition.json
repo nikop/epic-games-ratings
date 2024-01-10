@@ -2,13 +2,13 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 726,
+  "Ranking_Rating": 727,
   "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1092,7 +1092,7 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 231859,
+  "EOS_Progressed": 231861,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 639,
   "EOS_NewCompleters": 0,
@@ -30162,6 +30162,11 @@
       "Time": "2024-01-10T05:09:58.8520781+00:00",
       "NumProgressed": 231859,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-10T06:11:08.1759219+00:00",
+      "NumProgressed": 231861,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -30181,7 +30186,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60283
+      "UsersEstimate": 60284
     },
     {
       "ID": "ACH_BASE_11",
@@ -30444,7 +30449,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 231859,
+      "Progressed": 231861,
       "Completed": 5
     }
   ],
@@ -30452,8 +30457,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-10T01:46:14.71784+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:09:58.8520778+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:11:08.1759216+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:54.2987721+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:57:23.1881255+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:09:58.8522236+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:57:20.0781222+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:11:08.1760514+00:00"
 }

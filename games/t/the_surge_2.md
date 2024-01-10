@@ -1,40 +1,40 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.26 (Ranked 915)  
+Rating: 4.26 (Ranked 916)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 78.00% | ~1,989 |
-| Don't I Know You...? | 75.00% | ~1,912 |
-| Jailbreak | 64.00% | ~1,632 |
+| Rigged And Ready | 78.00% | ~1,990 |
+| Don't I Know You...? | 75.00% | ~1,913 |
+| Jailbreak | 64.00% | ~1,633 |
 | HEADSHOT! | 37.00% | ~944 |
 | Suited and Booted | 37.00% | ~944 |
 | Sleeping With The Fishes | 34.00% | ~867 |
 | High Performance | 30.00% | ~765 |
 | Overheated | 29.00% | ~740 |
-| Powered Up | 27.00% | ~688 |
+| Powered Up | 27.00% | ~689 |
 | Studied The Blade | 24.00% | ~612 |
 | Home Invasion | 22.00% | ~561 |
 | Luminary | 22.00% | ~561 |
 | True Survivor | 21.00% | ~536 |
 | It's a Trap | 21.00% | ~536 |
 | Offensive Defense | 20.00% | ~510 |
-| Shocking | 19.00% | ~484 |
-| Unforeseeable Consequences | 19.00% | ~484 |
+| Shocking | 19.00% | ~485 |
+| Unforeseeable Consequences | 19.00% | ~485 |
 | Court Martial | 18.00% | ~459 |
 | Clean Cut | 18.00% | ~459 |
 | Dead Again | 17.00% | ~434 |
 | Full Arsenal | 17.00% | ~434 |
-| Can't Trust Banks | 15.00% | ~382 |
+| Can't Trust Banks | 15.00% | ~383 |
 | Mommy Dearest | 13.00% | ~332 |
 | Bad Dog | 13.00% | ~332 |
 | Risk Tolerant | 13.00% | ~332 |
 | What A Catchy Song | 13.00% | ~332 |
 | Where It All Began | 12.00% | ~306 |
 | Sorry, Didn't See You There | 12.00% | ~306 |
-| Corrupted Beauty | 11.00% | ~280 |
-| Marked For Success | 11.00% | ~280 |
+| Corrupted Beauty | 11.00% | ~281 |
+| Marked For Success | 11.00% | ~281 |
 | Stimulating The Local Economy | 10.00% | ~255 |
 | Triplets | 10.00% | ~255 |
 | A Little Banged Up | 8.00% | ~204 |
@@ -53,7 +53,7 @@ Rating: 4.26 (Ranked 915)
 | Geronimo! | 4.00% | ~102 |
 | Homewrecker | 4.00% | ~102 |
 | Plank of Wood | 4.00% | ~102 |
-| Gotta Craft 'em All | 3.00% | ~76 |
+| Gotta Craft 'em All | 3.00% | ~77 |
 | Own Medicine | 2.00% | ~51 |
 | It Lives! It Sniffs! It Conquers! | 2.00% | ~51 |
 | Box Office Smash | 2.00% | ~51 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 915)
 | Three Birds With One Stone | 1.00% | ~26 |
 | The Easy Way Out | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,550 (Ranked 236)  
+Progressed: 2,551 (Ranked 236)  
 Completed: 13 (0.51%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 13 (0.51%) (Ranked 219)
 | 2024-01-07 | 2,519 | 13 |
 | 2024-01-08 | 2,534 | 13 |
 | 2024-01-09 | 2,547 | 13 |
-| 2024-01-10 | 2,550 | 13 |
+| 2024-01-10 | 2,551 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 664,
+  "Ranking_Rating": 666,
   "Ranking_Popularity": 498,
   "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 199,
@@ -854,9 +854,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6237,
+  "EOS_Progressed": 6238,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -12934,6 +12934,11 @@
       "Time": "2024-01-10T03:06:42.5464441+00:00",
       "NumProgressed": 6237,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-10T06:07:49.3886867+00:00",
+      "NumProgressed": 6238,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12962,7 +12967,7 @@
       "Name": "Deadication",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -12978,7 +12983,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -13090,7 +13095,7 @@
       "Name": "Season Finale",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -13114,7 +13119,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -13129,15 +13134,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6237,
+      "Progressed": 6238,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:06:10.6744147+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:07:49.388686+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-10T05:02:50.7684682+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:06:10.6745032+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:03:06.5860729+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:07:49.3887603+00:00"
 }

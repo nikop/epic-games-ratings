@@ -2,13 +2,13 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
-  "Ranking_Rating": 202,
+  "Ranking_Rating": 203,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -9999,9 +9999,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 816783,
+  "EOS_Progressed": 816784,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 1098,
+  "EOS_NewPlayers": 1093,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39949,6 +39949,11 @@
       "Time": "2024-01-10T05:10:05.6262309+00:00",
       "NumProgressed": 816783,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-10T06:11:17.0950076+00:00",
+      "NumProgressed": 816784,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -39992,7 +39997,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 171524
+      "UsersEstimate": 171525
     },
     {
       "ID": "BadGirl",
@@ -40024,7 +40029,7 @@
       "Name": "Bard",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24503
+      "UsersEstimate": 24504
     },
     {
       "ID": "Bastard",
@@ -40048,7 +40053,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 122517
+      "UsersEstimate": 122518
     },
     {
       "ID": "Buddy",
@@ -40112,7 +40117,7 @@
       "Name": "Conqueror",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24503
+      "UsersEstimate": 24504
     },
     {
       "ID": "Convict",
@@ -40232,7 +40237,7 @@
       "Name": "Ginger in a Pickle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24503
+      "UsersEstimate": 24504
     },
     {
       "ID": "Haggler",
@@ -40240,7 +40245,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 73510
+      "UsersEstimate": 73511
     },
     {
       "ID": "HardcoreHenry",
@@ -40304,7 +40309,7 @@
       "Name": "Kingdom did not come",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24503
+      "UsersEstimate": 24504
     },
     {
       "ID": "Knightrider",
@@ -40615,15 +40620,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 816783,
+      "Progressed": 816784,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2024-01-10T01:47:49.7587434+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:10:05.6262304+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:11:17.0950072+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.1586279+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:58:57.8051851+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:10:05.6264195+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:59:41.8549745+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:11:17.0951892+00:00"
 }

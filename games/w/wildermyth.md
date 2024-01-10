@@ -49,8 +49,8 @@ Number of Ratings: 45  (23.09.2022)
 | We Emerge Changed | 0.50% | ~8 |
 | No More Nightmares | 0.50% | ~8 |
 | Fight Like a Bird | 0.50% | ~8 |
+| The Power of Friendship | 0.40% | ~6 |
 | I'm Not Smiling | 0.40% | ~6 |
-| The Power of Friendship | 0.30% | ~5 |
 | Thwack! | 0.30% | ~5 |
 | Overwhelming Monstrosity | 0.20% | ~3 |
 | Drauvenslayers | 0.20% | ~3 |

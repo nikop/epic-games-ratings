@@ -2,13 +2,13 @@
   "ID": "9f101e25b1a9427a9e6971d2b21c5f82",
   "Name": "Rise of Industry",
   "ProductSlug": "rise-of-industry-0af838",
-  "Ranking_Rating": 923,
+  "Ranking_Rating": 924,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2019-05-01T23:00:00+00:00",
@@ -336,9 +336,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 767389,
+  "EOS_Progressed": 767391,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2131,
+  "EOS_NewPlayers": 2125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30851,6 +30851,11 @@
       "Time": "2024-01-10T05:05:21.9779947+00:00",
       "NumProgressed": 767389,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-10T06:06:41.2705448+00:00",
+      "NumProgressed": 767391,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -30926,7 +30931,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 283934
+      "UsersEstimate": 283935
     },
     {
       "ID": "ach_demolish_trees",
@@ -30990,7 +30995,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 368347
+      "UsersEstimate": 368348
     },
     {
       "ID": "ach_produced",
@@ -31006,7 +31011,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 122782
+      "UsersEstimate": 122783
     },
     {
       "ID": "ach_raise_money",
@@ -31077,7 +31082,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 767389,
+      "Progressed": 767391,
       "Completed": 4
     }
   ],
@@ -31085,8 +31090,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2024-01-07T11:01:40.5660673+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:05:21.9779943+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:06:41.2705444+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:34.1279614+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:58:06.7235399+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:05:21.9781613+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:58:23.6066259+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:06:41.2706987+00:00"
 }

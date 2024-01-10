@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -2516,9 +2516,9 @@
       "ID": "achievement_friendsBlock20Times",
       "SetID": "95dc8p",
       "Name": "The Power of Friendship",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_fullTransformation",
@@ -2892,8 +2892,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2024-01-03T23:58:17.6931046+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:10:06.1854669+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:11:17.7639041+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:17.4648519+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:57:59.6670175+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:10:06.1855131+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:58:12.880766+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:11:17.7639523+00:00"
 }

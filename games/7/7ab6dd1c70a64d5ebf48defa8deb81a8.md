@@ -1,36 +1,36 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.15 (Ranked 1,000)  
+Rating: 4.15 (Ranked 1,001)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 63.00% | ~1,361 |
-| Trinity | 31.00% | ~670 |
-| A Taste of Wrath | 25.00% | ~540 |
-| The Collector | 25.00% | ~540 |
-| Find Allies | 24.00% | ~518 |
+| Break Out | 63.00% | ~1,363 |
+| Trinity | 31.00% | ~671 |
+| A Taste of Wrath | 25.00% | ~541 |
+| The Collector | 25.00% | ~541 |
+| Find Allies | 24.00% | ~519 |
 | Shatter Them All | 23.00% | ~497 |
 | Geared Up | 23.00% | ~497 |
 | I Found It | 23.00% | ~497 |
-| Adventurer | 22.00% | ~475 |
-| Fashion Victim | 22.00% | ~475 |
-| Scholar | 22.00% | ~475 |
-| Tributes of Caladrias | 20.00% | ~432 |
-| Stone Collection | 20.00% | ~432 |
-| Powerful Allies | 19.00% | ~410 |
+| Adventurer | 22.00% | ~476 |
+| Fashion Victim | 22.00% | ~476 |
+| Scholar | 22.00% | ~476 |
+| Tributes of Caladrias | 20.00% | ~433 |
+| Stone Collection | 20.00% | ~433 |
+| Powerful Allies | 19.00% | ~411 |
 | Essence Blow | 13.00% | ~281 |
 | Big Bazar | 13.00% | ~281 |
 | Alchemist | 13.00% | ~281 |
 | The Mentor | 10.00% | ~216 |
-| Calm before the Storm | 9.00% | ~194 |
+| Calm before the Storm | 9.00% | ~195 |
 | To Battle | 8.00% | ~173 |
-| Godslayer | 8.00% | ~173 |
 | Airborne | 8.00% | ~173 |
+| Godslayer | 7.00% | ~151 |
 | Miner | 7.00% | ~151 |
-| Clear Sight | 4.00% | ~86 |
-| Shatterer | 4.00% | ~86 |
-| Fine Feathers Make Fine Birds | 4.00% | ~86 |
+| Clear Sight | 4.00% | ~87 |
+| Shatterer | 4.00% | ~87 |
+| Fine Feathers Make Fine Birds | 4.00% | ~87 |
 | Slayer | 3.00% | ~65 |
 | A Queen's Tale | 3.00% | ~65 |
 | Shardbearer | 2.00% | ~43 |
@@ -42,7 +42,7 @@ Rating: 4.15 (Ranked 1,000)
 | All That Gold | 0.70% | ~15 |
 | Feeling Fancy | 0.40% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,160 (Ranked 247)  
+Progressed: 2,163 (Ranked 247)  
 Completed: 3 (0.14%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 3 (0.14%) (Ranked 294)
 | 2024-01-07 | 2,015 | 3 |
 | 2024-01-08 | 2,086 | 3 |
 | 2024-01-09 | 2,146 | 3 |
-| 2024-01-10 | 2,160 | 3 |
+| 2024-01-10 | 2,163 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

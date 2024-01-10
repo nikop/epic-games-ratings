@@ -2,13 +2,13 @@
   "ID": "cbd5b3d310a54b12bf3fe8c41994174f",
   "Name": "VALORANT",
   "ProductSlug": "valorant",
-  "Ranking_Rating": 592,
+  "Ranking_Rating": 593,
   "Ranking_Popularity": 10,
   "Ranking_PopularitySum": 6,
   "Ranking_EOS_Progress": 823,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 576,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
     "PcReleaseDate": "2020-06-02T18:52:01+00:00",
@@ -14015,10 +14015,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 656994,
       "NumberOfAwardsMax": 92182
+    },
+    {
+      "Time": "2024-01-10T06:01:48.990324+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 657375,
+      "NumberOfAwardsMax": 92182
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 656994,
+  "NumberOfAwards": 657375,
   "NumberOfAwardsMax": 92182,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -14050,7 +14056,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 76286
+      "Count": 76489
     },
     {
       "Text": "This game has Amazing Characters",
@@ -14074,7 +14080,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 66492
+      "Count": 66670
     },
     {
       "Text": "This game has a Competitive Community",
@@ -14094,8 +14100,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2024-01-10T05:00:23.2086585+00:00",
+  "LastChanged": "2024-01-10T06:01:48.9903238+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:36.8674102+00:00",
-  "LastUpdate_Ratings": "2024-01-10T05:00:23.2086592+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:08:56.3325533+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:01:48.9903244+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:09:40.440752+00:00"
 }

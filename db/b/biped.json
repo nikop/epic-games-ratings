@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10189,
+  "EOS_Progressed": 10190,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 681,
+  "EOS_NewPlayers": 680,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16554,6 +16554,11 @@
       "Time": "2024-01-10T05:04:48.948144+00:00",
       "NumProgressed": 10189,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T06:05:54.4681865+00:00",
+      "NumProgressed": 10190,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -16661,7 +16666,7 @@
       "Name": "Blue Rapids",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "8",
@@ -16677,14 +16682,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10189,
+      "Progressed": 10190,
       "Completed": 0
     }
   ],
@@ -16692,8 +16697,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:04:48.9481437+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:05:54.4681862+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:19.9263192+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:58:37.1639898+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:04:48.9482374+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:59:10.47209+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:05:54.4683021+00:00"
 }

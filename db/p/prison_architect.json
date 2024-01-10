@@ -2,7 +2,7 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
-  "Ranking_Rating": 399,
+  "Ranking_Rating": 400,
   "Ranking_Popularity": 202,
   "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 80,
@@ -8199,9 +8199,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 214327,
+  "EOS_Progressed": 214331,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 3047,
+  "EOS_NewPlayers": 3043,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -38614,6 +38614,11 @@
       "Time": "2024-01-10T05:09:40.771306+00:00",
       "NumProgressed": 214327,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-10T06:10:43.2168055+00:00",
+      "NumProgressed": 214331,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 16,
@@ -38657,7 +38662,7 @@
       "Name": "Get Busy Living",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 32149
+      "UsersEstimate": 32150
     },
     {
       "ID": "Achievement_13",
@@ -38705,7 +38710,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 53582
+      "UsersEstimate": 53583
     },
     {
       "ID": "Achievement_5",
@@ -38737,7 +38742,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 19289
+      "UsersEstimate": 19290
     },
     {
       "ID": "Achievement_9",
@@ -38752,15 +38757,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 214327,
+      "Progressed": 214331,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2024-01-10T04:58:39.0352209+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:09:40.7713054+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:10:43.216805+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:20.5242713+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:58:39.0352216+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:09:40.7714518+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:59:13.4394807+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:10:43.216939+00:00"
 }

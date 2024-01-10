@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 613)  
+Rating: 4.50 (Ranked 614)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 613)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,501 (Ranked 137)  
+Progressed: 33,504 (Ranked 137)  
 Completed: 71 (0.21%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,17 +322,17 @@ Completed: 71 (0.21%) (Ranked 273)
 | 2024-01-07 | 33,430 | 71 |
 | 2024-01-08 | 33,470 | 71 |
 | 2024-01-09 | 33,497 | 71 |
-| 2024-01-10 | 33,501 | 71 |
+| 2024-01-10 | 33,504 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 256)  
-Sum: 2,956 (Ranked 186)  
+Sum: 2,958 (Ranked 186)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 328 |
 | This game is Great for Beginners | 327 |
 | This game has Diverse Characters | 313 |
-| This game has Amazing Storytelling | 294 |
+| This game has Amazing Storytelling | 296 |
 | This game is Highly Recommended | 293 |
 | This game has Competitive Players | 288 |
 | This game is Extremely Fun | 285 |
@@ -605,4 +605,4 @@ Diff (max vs sum): 70
 | 2024-01-06 | 4.50 | 328 | 2,952 |
 | 2024-01-07 | 4.50 | 328 | 2,953 |
 | 2024-01-09 | 4.50 | 328 | 2,954 |
-| 2024-01-10 | 4.50 | 328 | 2,956 |
+| 2024-01-10 | 4.50 | 328 | 2,958 |

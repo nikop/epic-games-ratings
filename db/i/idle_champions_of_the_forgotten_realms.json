@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1035,
+  "Ranking_Rating": 1036,
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
@@ -9383,10 +9383,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33419,
       "NumberOfAwardsMax": 5768
+    },
+    {
+      "Time": "2024-01-10T05:58:32.3693638+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33421,
+      "NumberOfAwardsMax": 5768
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33419,
+  "NumberOfAwards": 33421,
   "NumberOfAwardsMax": 5768,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9424,7 +9430,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4323
+      "Count": 4325
     },
     {
       "Text": "This game has Playful Visuals",
@@ -9433,9 +9439,9 @@
       "Count": 3634
     }
   ],
-  "EOS_Progressed": 253102,
+  "EOS_Progressed": 253109,
   "EOS_Completed": 2608,
-  "EOS_NewPlayers": 2936,
+  "EOS_NewPlayers": 2925,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39438,6 +39444,11 @@
       "Time": "2024-01-10T05:10:13.2893634+00:00",
       "NumProgressed": 253102,
       "NumCompleted": 2608
+    },
+    {
+      "Time": "2024-01-10T06:11:26.2518878+00:00",
+      "NumProgressed": 253109,
+      "NumCompleted": 2608
     }
   ],
   "TotalAchievements": 546,
@@ -41087,9 +41098,9 @@
       "ID": "objective_completed_283",
       "SetID": "cc37lbc",
       "Name": "Attack on the Manor",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_284",
@@ -43816,21 +43827,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219376,
-      "Completed": 4146
+      "Progressed": 219383,
+      "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253102,
+      "Progressed": 253109,
       "Completed": 2608
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-10T03:58:24.3745976+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:10:13.2893627+00:00",
+  "LastChanged": "2024-01-10T05:58:32.3693636+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:11:26.2518874+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:58:12.3376227+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:10:13.2918234+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:58:32.3693642+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:11:26.254339+00:00"
 }

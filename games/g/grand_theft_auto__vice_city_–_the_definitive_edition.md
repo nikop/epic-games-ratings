@@ -1,18 +1,18 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.52 (Ranked 573)  
+Rating: 4.52 (Ranked 574)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 47.00% | ~7,565 |
-| Greasy Palms | 42.00% | ~6,760 |
+| Legal Counsel | 47.00% | ~7,566 |
+| Greasy Palms | 42.00% | ~6,761 |
 | South American Connection | 26.00% | ~4,185 |
 | Life of the Party | 21.00% | ~3,380 |
-| Big Heat from Little Havana | 15.00% | ~2,414 |
-| Chauffeur | 15.00% | ~2,414 |
-| Tommy Two-Wheels | 15.00% | ~2,414 |
-| Salutations My Little Friend | 11.00% | ~1,770 |
+| Big Heat from Little Havana | 15.00% | ~2,415 |
+| Chauffeur | 15.00% | ~2,415 |
+| Tommy Two-Wheels | 15.00% | ~2,415 |
+| Salutations My Little Friend | 11.00% | ~1,771 |
 | Iron-y | 10.00% | ~1,610 |
 | Gun for Hire | 9.00% | ~1,449 |
 | Mischief Managed | 9.00% | ~1,449 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 573)
 | Done it All | 0.90% | ~145 |
 | Kingpin | 0.60% | ~97 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,095 (Ranked 171)  
+Progressed: 16,097 (Ranked 171)  
 Completed: 94 (0.58%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 94 (0.58%) (Ranked 209)
 | 2024-01-07 | 15,823 | 91 |
 | 2024-01-08 | 15,950 | 92 |
 | 2024-01-09 | 16,071 | 93 |
-| 2024-01-10 | 16,095 | 94 |
+| 2024-01-10 | 16,097 | 94 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

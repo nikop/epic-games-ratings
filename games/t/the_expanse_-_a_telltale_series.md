@@ -1,26 +1,26 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.52 (Ranked 573)  
+Rating: 4.52 (Ranked 574)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 18.00% | ~3,380 |
-| Captain Drummer | 15.00% | ~2,816 |
+| Captain Drummer | 15.00% | ~2,817 |
 | Celebrations are in Order | 14.00% | ~2,629 |
 | The Pit and the Pirates | 13.00% | ~2,441 |
 | Martian Music | 13.00% | ~2,441 |
 | Bosmang | 13.00% | ~2,441 |
 | Impossible Objects | 13.00% | ~2,441 |
 | Drone Dodger | 12.00% | ~2,253 |
-| Stogie for Fogey | 11.00% | ~2,065 |
-| Spore Taste | 11.00% | ~2,065 |
+| Stogie for Fogey | 11.00% | ~2,066 |
+| Spore Taste | 11.00% | ~2,066 |
 | Safe Cracker | 10.00% | ~473 |
 | Zen Master | 10.00% | ~473 |
 | Call it Even | 9.00% | ~1,690 |
 | Madame Undersecretary | 9.00% | ~426 |
 | Heal Thy Medic | 8.00% | ~1,502 |
-| Keep Arjun in Check | 8.00% | ~378 |
+| Keep Arjun in Check | 8.00% | ~379 |
 | Data Archivist | 7.00% | ~1,314 |
 | Drug Gifter | 7.00% | ~1,314 |
 | Thorston Mayer | 7.00% | ~1,314 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 573)
 | Scavenger Star | 0.30% | ~56 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,776 (Ranked 159)  
+Progressed: 18,778 (Ranked 159)  
 Completed: 61 (0.32%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 61 (0.32%) (Ranked 249)
 | 2024-01-07 | 18,579 | 60 |
 | 2024-01-08 | 18,665 | 60 |
 | 2024-01-09 | 18,754 | 61 |
-| 2024-01-10 | 18,776 | 61 |
+| 2024-01-10 | 18,778 | 61 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

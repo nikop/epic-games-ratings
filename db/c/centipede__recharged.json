@@ -2,7 +2,7 @@
   "ID": "a1edd0d2e28d4d298152c001e7c47e22",
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
-  "Ranking_Rating": 866,
+  "Ranking_Rating": 867,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 146,
@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25012,
+  "EOS_Progressed": 25014,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -22695,6 +22695,11 @@
       "Time": "2024-01-10T05:05:40.2402428+00:00",
       "NumProgressed": 25012,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2024-01-10T06:07:07.0735541+00:00",
+      "NumProgressed": 25014,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 16,
@@ -22714,7 +22719,7 @@
       "Name": "Burning For You",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6503
+      "UsersEstimate": 6504
     },
     {
       "ID": "Deadline",
@@ -22722,7 +22727,7 @@
       "Name": "Deadline",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 3001
+      "UsersEstimate": 3002
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -22738,7 +22743,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     },
     {
       "ID": "Feel_The_Thunder",
@@ -22802,7 +22807,7 @@
       "Name": "Shooting Shark",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 11756
+      "UsersEstimate": 11757
     },
     {
       "ID": "Sole_Survivor",
@@ -22810,7 +22815,7 @@
       "Name": "Sole Survivor",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 8504
+      "UsersEstimate": 8505
     },
     {
       "ID": "Still_Burning",
@@ -22833,15 +22838,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 25012,
+      "Progressed": 25014,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-09T13:57:36.5131842+00:00",
-  "LastChanged_Achievements": "2024-01-10T05:05:40.2402425+00:00",
+  "LastChanged_Achievements": "2024-01-10T06:07:07.0735537+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:51.4692455+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:58:01.2919966+00:00",
-  "LastUpdate_Achievements": "2024-01-10T05:05:40.2403806+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:58:15.3556908+00:00",
+  "LastUpdate_Achievements": "2024-01-10T06:07:07.073687+00:00"
 }

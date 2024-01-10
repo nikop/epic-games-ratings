@@ -1,21 +1,21 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.51 (Ranked 592)  
+Rating: 4.51 (Ranked 593)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~180,102 |
-| FIRST BLOOD | 40.00% | ~160,091 |
-| KEVIN! | 30.00% | ~120,068 |
-| JACK OF ALL TRADES | 23.00% | ~92,052 |
-| CRIMINAL | 20.00% | ~80,045 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~44,025 |
-| WITHOUT BREAKING A SWEAT | 10.00% | ~40,023 |
-| HONORS STUDENT | 8.00% | ~32,018 |
+| MASTER CHEF | 45.00% | ~180,106 |
+| FIRST BLOOD | 40.00% | ~160,094 |
+| KEVIN! | 30.00% | ~120,071 |
+| JACK OF ALL TRADES | 23.00% | ~92,054 |
+| CRIMINAL | 20.00% | ~80,047 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~44,026 |
+| WITHOUT BREAKING A SWEAT | 10.00% | ~40,024 |
+| HONORS STUDENT | 8.00% | ~32,019 |
 | BUTCHER | 6.00% | ~24,014 |
-| INDIVIDUAL APPROACH | 5.00% | ~20,011 |
-| RAMBO | 5.00% | ~20,011 |
+| INDIVIDUAL APPROACH | 5.00% | ~20,012 |
+| RAMBO | 5.00% | ~20,012 |
 | HELL'S KITCHEN | 4.00% | ~16,009 |
 | CELEBRITY | 3.00% | ~12,007 |
 | MARTYR | 3.00% | ~12,007 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 592)
 | MISTER ALL THUMBS | 0.10% | ~400 |
 | TRAVELER | 0.10% | ~400 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400,227 (Ranked 50)  
+Progressed: 400,236 (Ranked 50)  
 Completed: 57 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 57 (0.01%) (Ranked 372)
 | 2024-01-07 | 399,238 | 57 |
 | 2024-01-08 | 399,682 | 57 |
 | 2024-01-09 | 400,128 | 57 |
-| 2024-01-10 | 400,227 | 57 |
+| 2024-01-10 | 400,236 | 57 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
