@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -854,9 +854,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6238,
+  "EOS_Progressed": 6239,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -12939,6 +12939,11 @@
       "Time": "2024-01-10T06:07:49.3886867+00:00",
       "NumProgressed": 6238,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-10T07:06:15.7706003+00:00",
+      "NumProgressed": 6239,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12999,7 +13004,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1685
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -13007,7 +13012,7 @@
       "Name": "First Strike",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -13134,15 +13139,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6238,
+      "Progressed": 6239,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:07:49.388686+00:00",
+  "LastChanged_Achievements": "2024-01-10T07:06:15.7705998+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:03:06.5860729+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:07:49.3887603+00:00"
+  "LastUpdate_Ratings": "2024-01-10T07:03:02.7644829+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:06:15.7706842+00:00"
 }

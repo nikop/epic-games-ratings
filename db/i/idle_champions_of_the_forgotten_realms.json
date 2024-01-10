@@ -9439,10 +9439,10 @@
       "Count": 3634
     }
   ],
-  "EOS_Progressed": 253109,
+  "EOS_Progressed": 253115,
   "EOS_Completed": 2608,
-  "EOS_NewPlayers": 2925,
-  "EOS_NewCompleters": 22,
+  "EOS_NewPlayers": 2917,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -39449,6 +39449,11 @@
       "Time": "2024-01-10T06:11:26.2518878+00:00",
       "NumProgressed": 253109,
       "NumCompleted": 2608
+    },
+    {
+      "Time": "2024-01-10T07:10:33.424379+00:00",
+      "NumProgressed": 253115,
+      "NumCompleted": 2608
     }
   ],
   "TotalAchievements": 546,
@@ -39460,7 +39465,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10124
+      "UsersEstimate": 10125
     },
     {
       "ID": "objective_completed_10",
@@ -40650,9 +40655,9 @@
       "ID": "objective_completed_164",
       "SetID": "cc37lbc",
       "Name": "A Mysterious Summons",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 1012
     },
     {
       "ID": "objective_completed_165",
@@ -43827,21 +43832,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219383,
+      "Progressed": 219389,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253109,
+      "Progressed": 253115,
       "Completed": 2608
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-10T05:58:32.3693636+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:11:26.2518874+00:00",
+  "LastChanged_Achievements": "2024-01-10T07:10:33.4243786+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-10T05:58:32.3693642+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:11:26.254339+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:58:07.7684714+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:10:33.427052+00:00"
 }

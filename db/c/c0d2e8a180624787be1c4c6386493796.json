@@ -1427,9 +1427,9 @@
       "ID": "KR4_ACHIEVEMENT_BONEFLINGERS",
       "SetID": "caeik3h",
       "Name": "The Skeleton War",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "KR4_ACHIEVEMENT_BONEHART",
@@ -1499,9 +1499,9 @@
       "ID": "KR4_ACHIEVEMENT_DESTROY_MINE_CARTS",
       "SetID": "caeik3h",
       "Name": "Final Destination",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 158
     },
     {
       "ID": "KR4_ACHIEVEMENT_DWARVES_KINGDOM_FULL",
@@ -1643,9 +1643,9 @@
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
       "SetID": "caeik3h",
       "Name": "Ice sculptor",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 210
     },
     {
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
@@ -2008,8 +2008,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:08:48.860821+00:00",
+  "LastChanged_Achievements": "2024-01-10T07:08:42.5486644+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.7688835+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:01:18.2851407+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:08:48.8608881+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:59:56.0132124+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:08:42.5487506+00:00"
 }

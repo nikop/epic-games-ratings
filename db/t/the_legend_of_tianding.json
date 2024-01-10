@@ -4,8 +4,8 @@
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
     "PcReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 81,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 7.41,
   "EosHistory": [
@@ -470,17 +470,17 @@
       "ID": "BeatBossChen",
       "SetID": "123m9l1",
       "Name": "Death Battle",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 35
     },
     {
       "ID": "BeatBossKawa",
       "SetID": "123m9l1",
       "Name": "Phantom Kunoichi",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 35
     },
     {
       "ID": "BeatBossNaka",
@@ -510,9 +510,9 @@
       "ID": "BeatBossWang",
       "SetID": "123m9l1",
       "Name": "Eat the Rich",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 48
     },
     {
       "ID": "BigEater",
@@ -526,23 +526,23 @@
       "ID": "ClarifyRumors",
       "SetID": "123m9l1",
       "Name": "Dispel Rumors",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 27
     },
     {
       "ID": "Collector",
       "SetID": "123m9l1",
       "Name": "Collector",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "ExpressTrainExplorer",
       "SetID": "123m9l1",
       "Name": "Tour Guide",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 19
     },
@@ -582,7 +582,7 @@
       "ID": "Legendary",
       "SetID": "123m9l1",
       "Name": "The Legend",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 110,
       "UsersEstimate": 6
     },
@@ -630,9 +630,9 @@
       "ID": "SewerExplorer",
       "SetID": "123m9l1",
       "Name": "Sewer Rat",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 22
     },
     {
       "ID": "Survivor",
@@ -646,15 +646,15 @@
       "ID": "TeachGushanALesson",
       "SetID": "123m9l1",
       "Name": "Talk to the Fist",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "ThreatenLiHong",
       "SetID": "123m9l1",
       "Name": "Coward",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 19
     },
@@ -662,7 +662,7 @@
       "ID": "TombExplorer",
       "SetID": "123m9l1",
       "Name": "Tomb Raider",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 19
     },
@@ -670,7 +670,7 @@
       "ID": "TrickLiHong",
       "SetID": "123m9l1",
       "Name": "Fight Fire With Fire",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
       "UsersEstimate": 23
     }
@@ -687,8 +687,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:07:47.4328051+00:00",
+  "LastChanged_Achievements": "2024-01-10T07:06:14.4543033+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.6846029+00:00",
-  "LastUpdate_Ratings": "2024-01-10T05:58:47.5515907+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:07:47.4328256+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:58:16.9636272+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:06:14.454348+00:00"
 }

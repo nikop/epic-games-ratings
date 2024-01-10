@@ -6,14 +6,14 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,508 |
-| Life is your teacher | 5.00% | ~37,924 |
-| The Assault | 4.00% | ~30,339 |
-| Lightning Hands | 4.00% | ~30,339 |
-| The Hateful Pole Fighter | 3.00% | ~22,754 |
-| State of constant learning | 3.00% | ~22,754 |
-| Qi Gong: Essence | 3.00% | ~22,754 |
-| Old Child | 3.00% | ~22,754 |
+| The Old Grandmaster | 6.00% | ~45,510 |
+| Life is your teacher | 5.00% | ~37,925 |
+| The Assault | 4.00% | ~30,340 |
+| Lightning Hands | 4.00% | ~30,340 |
+| The Hateful Pole Fighter | 3.00% | ~22,755 |
+| State of constant learning | 3.00% | ~22,755 |
+| Qi Gong: Essence | 3.00% | ~22,755 |
+| Old Child | 3.00% | ~22,755 |
 | A Lady's Blood in the Snow | 2.00% | ~15,170 |
 | Lady Wing Chun | 2.00% | ~15,170 |
 | Kill Nil | 2.00% | ~15,170 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~68 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 758,475 (Ranked 26)  
-Completed: 12,981 (1.71%) (Ranked 142)  
+Progressed: 758,496 (Ranked 26)  
+Completed: 12,981 (1.71%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -332,7 +332,7 @@ Completed: 12,981 (1.71%) (Ranked 142)
 | 2024-01-07 | 756,813 | 12,976 |
 | 2024-01-08 | 757,529 | 12,979 |
 | 2024-01-09 | 758,306 | 12,980 |
-| 2024-01-10 | 758,475 | 12,981 |
+| 2024-01-10 | 758,496 | 12,981 |
 ## Awards
 Max (Great Boss Battles): 7,166  (Ranked 56)  
 Sum: 12,672 (Ranked 85)  

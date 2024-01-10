@@ -14,7 +14,7 @@
 | Countertop Champion | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 703 (Ranked 324)  
-Completed: 11 (1.56%) (Ranked 147)  
+Completed: 12 (1.71%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -231,3 +231,4 @@ Completed: 11 (1.56%) (Ranked 147)
 | 2024-01-07 | 699 | 10 |
 | 2024-01-08 | 702 | 11 |
 | 2024-01-09 | 703 | 11 |
+| 2024-01-10 | 703 | 12 |

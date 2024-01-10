@@ -871,9 +871,9 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "dl2",
@@ -1015,9 +1015,9 @@
       "ID": "jk1",
       "SetID": "b1ggf28",
       "Name": "Treatment of plague",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "jk2",
@@ -1063,9 +1063,9 @@
       "ID": "k1",
       "SetID": "b1ggf28",
       "Name": "Advanced Technology",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "k2",
@@ -1143,9 +1143,9 @@
       "ID": "storya2",
       "SetID": "b1ggf28",
       "Name": "Business Mind",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "w1",
@@ -1254,8 +1254,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:06:45.6304099+00:00",
-  "LastUpdate_AppInfo": "2024-01-03T05:57:01.0489301+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:03:22.9166928+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:06:45.6304563+00:00"
+  "LastChanged_Achievements": "2024-01-10T07:05:31.7831989+00:00",
+  "LastUpdate_AppInfo": "2024-01-10T06:57:05.6487143+00:00",
+  "LastUpdate_Ratings": "2024-01-10T07:03:13.066666+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:05:31.783248+00:00"
 }

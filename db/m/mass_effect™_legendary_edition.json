@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4074,
+  "EOS_Progressed": 4075,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 1,
@@ -7743,6 +7743,11 @@
       "Time": "2024-01-10T06:11:22.9238617+00:00",
       "NumProgressed": 4074,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-10T07:10:30.4933762+00:00",
+      "NumProgressed": 4075,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -7795,7 +7800,7 @@
       "Name": "Untouchable",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "achievement_104",
@@ -7827,7 +7832,7 @@
       "Name": "Eye of the Hurricane",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "achievement_108",
@@ -7859,7 +7864,7 @@
       "Name": "Giant Killer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "achievement_111",
@@ -7923,7 +7928,7 @@
       "Name": "Insanity II",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_119",
@@ -7947,7 +7952,7 @@
       "Name": "Paramour I",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "achievement_121",
@@ -7971,7 +7976,7 @@
       "Name": "Long Service Medal",
       "Percentage": 10,
       "XP": 125,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "achievement_124",
@@ -7979,7 +7984,7 @@
       "Name": "Recruit",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "achievement_125",
@@ -7987,7 +7992,7 @@
       "Name": "Soldier",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1385
+      "UsersEstimate": 1386
     },
     {
       "ID": "achievement_126",
@@ -8019,7 +8024,7 @@
       "Name": "Electronics Specialist",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "achievement_15",
@@ -8035,7 +8040,7 @@
       "Name": "First Aid Specialist",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "achievement_17",
@@ -8083,7 +8088,7 @@
       "Name": "Medal of Exploration I",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2282
     },
     {
       "ID": "achievement_22",
@@ -8139,7 +8144,7 @@
       "Name": "Quarian Ally",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "achievement_29",
@@ -8147,7 +8152,7 @@
       "Name": "Asari Ally",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "achievement_3",
@@ -8155,7 +8160,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 3667
+      "UsersEstimate": 3668
     },
     {
       "ID": "achievement_30",
@@ -8171,7 +8176,7 @@
       "Name": "Spectre Inductee",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 2689
+      "UsersEstimate": 2690
     },
     {
       "ID": "achievement_32",
@@ -8219,7 +8224,7 @@
       "Name": "Very Elusive",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "achievement_38",
@@ -8227,7 +8232,7 @@
       "Name": "Colony Defense",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "achievement_39",
@@ -8299,7 +8304,7 @@
       "Name": "The Convict",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "achievement_47",
@@ -8315,7 +8320,7 @@
       "Name": "The Krogan",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "achievement_49",
@@ -8347,7 +8352,7 @@
       "Name": "A House Divided",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "achievement_52",
@@ -8475,7 +8480,7 @@
       "Name": "Tactician",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_67",
@@ -8539,7 +8544,7 @@
       "Name": "Scholar",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "achievement_74",
@@ -8547,7 +8552,7 @@
       "Name": "Power Full",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "achievement_75",
@@ -8601,9 +8606,9 @@
       "ID": "achievement_80",
       "SetID": "d252ncf",
       "Name": "Bringer of War",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 896
+      "UsersEstimate": 856
     },
     {
       "ID": "achievement_81",
@@ -8619,7 +8624,7 @@
       "Name": "World Shaker",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "achievement_83",
@@ -8770,19 +8775,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 4074,
+      "Progressed": 4075,
       "Completed": 13
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 4074,
+      "Progressed": 4075,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:11:22.9238614+00:00",
+  "LastChanged_Achievements": "2024-01-10T07:10:30.493376+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:59:00.5356746+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:03:47.4987929+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:11:22.9240483+00:00"
+  "LastUpdate_Ratings": "2024-01-10T07:03:30.1369518+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:10:30.4935746+00:00"
 }

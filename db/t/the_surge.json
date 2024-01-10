@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5364,
+  "EOS_Progressed": 5365,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -5070,6 +5070,11 @@
       "Time": "2024-01-10T06:05:00.1964119+00:00",
       "NumProgressed": 5364,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-10T07:04:19.3459776+00:00",
+      "NumProgressed": 5365,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5129,7 +5134,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4506
+      "UsersEstimate": 4507
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5137,7 +5142,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5042
+      "UsersEstimate": 5043
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5273,7 +5278,7 @@
       "Name": "Duty-Bound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ID_ACHIEV_26",
@@ -5289,7 +5294,7 @@
       "Name": "Follow the White Rabbit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ID_ACHIEV_28",
@@ -5305,7 +5310,7 @@
       "Name": "Liberation",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ID_ACHIEV_30",
@@ -5425,7 +5430,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1877
+      "UsersEstimate": 1878
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -5609,22 +5614,22 @@
       "Name": "Risk Assessment",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     }
   ],
   "AchievementSets": [
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5364,
+      "Progressed": 5365,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:05:00.1964116+00:00",
+  "LastChanged_Achievements": "2024-01-10T07:04:19.3459771+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.5688271+00:00",
-  "LastUpdate_Ratings": "2024-01-10T05:58:59.6315092+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:05:00.1964877+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:58:25.2469134+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:04:19.3460533+00:00"
 }

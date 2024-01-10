@@ -686,9 +686,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 66204,
+  "EOS_Progressed": 66205,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 1631,
+  "EOS_NewPlayers": 1624,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16371,6 +16371,11 @@
       "Time": "2024-01-10T06:08:54.1330369+00:00",
       "NumProgressed": 66204,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2024-01-10T07:08:46.1166058+00:00",
+      "NumProgressed": 66205,
+      "NumCompleted": 69
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -16455,7 +16460,7 @@
       "Name": "Cow Level",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 7282
+      "UsersEstimate": 7283
     },
     {
       "ID": "DEAD_MAN",
@@ -16503,7 +16508,7 @@
       "Name": "Scientist",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7944
+      "UsersEstimate": 7945
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -16631,7 +16636,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7944
+      "UsersEstimate": 7945
     },
     {
       "ID": "NORMAL_END",
@@ -16782,15 +16787,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 66204,
+      "Progressed": 66205,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:08:54.1330365+00:00",
+  "LastChanged_Achievements": "2024-01-10T07:08:46.1166053+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:33.7261793+00:00",
-  "LastUpdate_Ratings": "2024-01-10T05:57:18.9878226+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:08:54.1331272+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:57:19.6972036+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:08:46.1167146+00:00"
 }

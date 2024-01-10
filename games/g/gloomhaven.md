@@ -12,7 +12,7 @@ Number of Ratings: 68  (23.09.2022)
 | A normal day in Gloomhaven | 29.00% | ~9,441 |
 | Spread the plague | 27.00% | ~8,790 |
 | Get over here! | 24.00% | ~7,813 |
-| Just when I thought I was out... | 19.00% | ~6,185 |
+| Just when I thought I was out... | 19.00% | ~6,186 |
 | Mine... All Mine... | 16.00% | ~5,209 |
 | Precious! | 15.00% | ~4,883 |
 | Grizzled veteran | 15.00% | ~4,883 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~33 |
 | Hard-travelling Heroes | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,555 (Ranked 140)  
+Progressed: 32,556 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 1 (0.00%) (Ranked 395)
 | 2024-01-07 | 32,091 | 1 |
 | 2024-01-08 | 32,291 | 1 |
 | 2024-01-09 | 32,485 | 1 |
-| 2024-01-10 | 32,555 | 1 |
+| 2024-01-10 | 32,556 | 1 |
 ## Awards
 Max (Character Customization): 3,617  (Ranked 95)  
 Sum: 8,470 (Ranked 108)  

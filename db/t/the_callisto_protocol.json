@@ -2147,9 +2147,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 21935,
+  "EOS_Progressed": 21938,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1214,
+  "EOS_NewPlayers": 1215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13302,6 +13302,11 @@
       "Time": "2024-01-10T06:10:39.8653647+00:00",
       "NumProgressed": 21935,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-10T07:09:59.260919+00:00",
+      "NumProgressed": 21938,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13417,7 +13422,7 @@
       "Name": "Get a Grip",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 4606
+      "UsersEstimate": 4607
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -13441,7 +13446,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4387
+      "UsersEstimate": 4388
     },
     {
       "ID": "KILL_ROBOT",
@@ -13481,7 +13486,7 @@
       "Name": "Reforged",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3948
+      "UsersEstimate": 3949
     },
     {
       "ID": "PRINT_WEAPON",
@@ -13505,7 +13510,7 @@
       "Name": "The Outer Way",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5703
+      "UsersEstimate": 5704
     },
     {
       "ID": "STORY_ESCAPE",
@@ -13529,7 +13534,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "STORY_MINETOWN",
@@ -13545,7 +13550,7 @@
       "Name": "Desperate Times",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5264
+      "UsersEstimate": 5265
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -13553,7 +13558,7 @@
       "Name": "Crash Site",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "STORY_TOWER",
@@ -13688,13 +13693,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 21935,
+      "Progressed": 21938,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 9861,
+      "Progressed": 9864,
       "Completed": 29
     }
   ],
@@ -13702,8 +13707,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-09T23:03:39.0510048+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:10:39.8653644+00:00",
+  "LastChanged_Achievements": "2024-01-10T07:09:59.2609188+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:03:45.371305+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:10:39.8654367+00:00"
+  "LastUpdate_Ratings": "2024-01-10T07:03:28.7230507+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:09:59.2610008+00:00"
 }

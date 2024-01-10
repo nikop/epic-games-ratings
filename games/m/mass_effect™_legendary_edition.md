@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~3,667 |
-| Spectre Inductee | 66.00% | ~2,689 |
-| Medal of Exploration I | 56.00% | ~2,281 |
-| Recruit | 52.00% | ~2,118 |
+| Distinguished Service Medal | 90.00% | ~3,668 |
+| Spectre Inductee | 66.00% | ~2,690 |
+| Medal of Exploration I | 56.00% | ~2,282 |
+| Recruit | 52.00% | ~2,119 |
 | Search and Rescue | 51.00% | ~2,078 |
-| Quarian Ally | 49.00% | ~1,996 |
+| Quarian Ally | 49.00% | ~1,997 |
 | Medal of Heroism | 43.00% | ~1,752 |
 | Honorarium of Corporate Service | 43.00% | ~1,752 |
 | Turian Ally | 40.00% | ~1,630 |
@@ -20,9 +20,9 @@
 | Meritorious Service Medal | 35.00% | ~1,426 |
 | Soldier Ally | 35.00% | ~1,426 |
 | Charismatic | 35.00% | ~1,426 |
-| Soldier | 34.00% | ~1,385 |
-| Asari Ally | 33.00% | ~1,344 |
-| Very Elusive | 33.00% | ~1,344 |
+| Soldier | 34.00% | ~1,386 |
+| Asari Ally | 33.00% | ~1,345 |
+| Very Elusive | 33.00% | ~1,345 |
 | Colonial Savior | 32.00% | ~1,304 |
 | Medal of Exploration III | 31.00% | ~1,263 |
 | Principled | 31.00% | ~1,263 |
@@ -30,16 +30,16 @@
 | Sentinel Ally | 30.00% | ~1,222 |
 | Krogan Ally | 30.00% | ~1,222 |
 | Merciless | 30.00% | ~1,222 |
-| Paramour I | 29.00% | ~1,181 |
-| Scholar | 29.00% | ~1,181 |
+| Paramour I | 29.00% | ~1,182 |
+| Scholar | 29.00% | ~1,182 |
 | The Archangel | 28.00% | ~1,141 |
 | The Professor | 28.00% | ~1,141 |
 | Head Hunter | 28.00% | ~1,141 |
 | Operative | 27.00% | ~1,100 |
-| The Convict | 26.00% | ~1,059 |
-| Power Full | 26.00% | ~1,059 |
-| Colony Defense | 25.00% | ~1,018 |
-| The Krogan | 25.00% | ~1,018 |
+| The Convict | 26.00% | ~1,060 |
+| Power Full | 26.00% | ~1,060 |
+| Colony Defense | 25.00% | ~1,019 |
+| The Krogan | 25.00% | ~1,019 |
 | Veteran | 24.00% | ~978 |
 | Broke, Blind, and Bedlam | 24.00% | ~978 |
 | Driven | 24.00% | ~978 |
@@ -49,7 +49,6 @@
 | The Quarian | 22.00% | ~896 |
 | The Prodigal | 22.00% | ~896 |
 | Galactic Explorer | 22.00% | ~896 |
-| Bringer of War | 22.00% | ~896 |
 | Shopaholic | 22.00% | ~896 |
 | A Personal Touch | 21.00% | ~856 |
 | Archivist | 21.00% | ~856 |
@@ -61,6 +60,7 @@
 | Big Game Hunter | 21.00% | ~856 |
 | Revenge! | 21.00% | ~856 |
 | Heart of Darkness | 21.00% | ~856 |
+| Bringer of War | 21.00% | ~856 |
 | Focused | 20.00% | ~815 |
 | Completionist | 20.00% | ~815 |
 | Friend or Foe | 20.00% | ~815 |
@@ -73,12 +73,12 @@
 | Suicide Mission | 19.00% | ~774 |
 | Against All Odds | 19.00% | ~774 |
 | Agent | 19.00% | ~774 |
-| Untouchable | 18.00% | ~733 |
-| Eye of the Hurricane | 18.00% | ~733 |
-| Giant Killer | 18.00% | ~733 |
-| First Aid Specialist | 18.00% | ~733 |
-| A House Divided | 18.00% | ~733 |
-| World Shaker | 18.00% | ~733 |
+| Untouchable | 18.00% | ~734 |
+| Eye of the Hurricane | 18.00% | ~734 |
+| Giant Killer | 18.00% | ~734 |
+| First Aid Specialist | 18.00% | ~734 |
+| A House Divided | 18.00% | ~734 |
+| World Shaker | 18.00% | ~734 |
 | Liberator | 17.00% | ~693 |
 | Savior | 16.00% | ~652 |
 | Weapon Specialist | 16.00% | ~652 |
@@ -104,8 +104,8 @@
 | Sabotage Specialist | 11.00% | ~448 |
 | Throw Mastery | 11.00% | ~448 |
 | Legend | 11.00% | ~448 |
-| Long Service Medal | 10.00% | ~407 |
-| Electronics Specialist | 10.00% | ~407 |
+| Long Service Medal | 10.00% | ~408 |
+| Electronics Specialist | 10.00% | ~408 |
 | Combined Arms | 9.00% | ~367 |
 | Mail Slot | 9.00% | ~367 |
 | Warp Mastery | 8.00% | ~326 |
@@ -123,8 +123,8 @@
 | Insanity I | 3.00% | ~122 |
 | Incineration Specialist | 3.00% | ~122 |
 | Warp Specialist | 3.00% | ~122 |
-| Insanity II | 2.00% | ~81 |
-| Tactician | 2.00% | ~81 |
+| Insanity II | 2.00% | ~82 |
+| Tactician | 2.00% | ~82 |
 | Stasis Mastery | 1.00% | ~41 |
 | Gunsmith | 1.00% | ~41 |
 | Insanity III | 1.00% | ~41 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~41 |
 | The One and Only | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,074 (Ranked 212)  
+Progressed: 4,075 (Ranked 212)  
 Completed: 13 (0.32%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,4 +249,4 @@ Completed: 13 (0.32%) (Ranked 249)
 | 2024-01-07 | 3,940 | 13 |
 | 2024-01-08 | 3,994 | 13 |
 | 2024-01-09 | 4,058 | 13 |
-| 2024-01-10 | 4,074 | 13 |
+| 2024-01-10 | 4,075 | 13 |

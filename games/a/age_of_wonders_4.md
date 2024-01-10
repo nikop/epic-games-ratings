@@ -6,15 +6,15 @@ Rating: 4.62 (Ranked 379)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 17.00% | ~1,214 |
-| Realm Estate | 15.00% | ~1,071 |
+| Realm Estate | 15.00% | ~1,072 |
 | A Wonderful Discovery | 14.00% | ~1,000 |
-| Walls Cannot Stop Us | 13.00% | ~928 |
+| Walls Cannot Stop Us | 13.00% | ~929 |
 | From Friends to Family | 12.00% | ~857 |
 | Bone Peddler | 10.00% | ~714 |
 | Magical Synergy | 9.00% | ~643 |
-| There Can Only Be One! | 8.00% | ~571 |
-| Full Ascension | 8.00% | ~571 |
-| Stronger Together | 8.00% | ~571 |
+| There Can Only Be One! | 8.00% | ~572 |
+| Full Ascension | 8.00% | ~572 |
+| Stronger Together | 8.00% | ~572 |
 | Seat of Power | 7.00% | ~500 |
 | Valley of Wonders | 6.00% | ~429 |
 | In a Liege of Your Own | 6.00% | ~429 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 379)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,142 (Ranked 196)  
+Progressed: 7,144 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,10 +299,10 @@ Completed: 7 (0.10%) (Ranked 309)
 | 2024-01-07 | 7,051 | 7 |
 | 2024-01-08 | 7,091 | 7 |
 | 2024-01-09 | 7,130 | 7 |
-| 2024-01-10 | 7,142 | 7 |
+| 2024-01-10 | 7,144 | 7 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 481)  
-Sum: 216 (Ranked 409)  
+Sum: 217 (Ranked 409)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
@@ -311,8 +311,8 @@ Diff (max vs sum): 72
 | This game is Extremely Fun | 28 |
 | This game has Challenging Combat | 23 |
 | This game is Highly Recommended | 22 |
+| This game has Quickly Understood Controls | 22 |
 | This game has Amazing Storytelling | 21 |
-| This game has Quickly Understood Controls | 21 |
 | This game has Beautiful Visuals | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -404,4 +404,4 @@ Diff (max vs sum): 72
 | 2024-01-06 | 4.62 | 40 | 211 |
 | 2024-01-07 | 4.62 | 40 | 212 |
 | 2024-01-09 | 4.62 | 41 | 215 |
-| 2024-01-10 | 4.62 | 41 | 216 |
+| 2024-01-10 | 4.62 | 41 | 217 |

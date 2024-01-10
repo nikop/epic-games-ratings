@@ -16,8 +16,8 @@
 | Quite A Snack | 61.00% | ~124 |
 | Impenetrable Skin | 56.00% | ~114 |
 | Overwhelming Power | 54.00% | ~110 |
-| Chomp Chomp! | 46.00% | ~94 |
-| Supreme Power | 45.00% | ~92 |
+| Chomp Chomp! | 47.00% | ~96 |
+| Supreme Power | 46.00% | ~94 |
 | Target Practice | 44.00% | ~90 |
 | The Duelist | 43.00% | ~88 |
 | Glorious Battle | 43.00% | ~88 |

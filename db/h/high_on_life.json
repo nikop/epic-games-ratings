@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25098,
+  "EOS_Progressed": 25100,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9001,6 +9001,11 @@
       "Time": "2024-01-10T06:09:28.7180536+00:00",
       "NumProgressed": 25098,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-10T07:09:10.2829315+00:00",
+      "NumProgressed": 25100,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -9124,7 +9129,7 @@
       "Name": "Sequel-Bait",
       "Percentage": 0.5,
       "XP": 45,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_JUGGLE_SKILLS",
@@ -9252,7 +9257,7 @@
       "Name": "Carried Stan\u0027s Load To Completion",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_SUITO_SUICIDE",
@@ -9363,13 +9368,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25098,
+      "Progressed": 25100,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2391,
+      "Progressed": 2393,
       "Completed": 1376
     }
   ],
@@ -9377,8 +9382,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:09:28.7180533+00:00",
+  "LastChanged_Achievements": "2024-01-10T07:09:10.2829309+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:08.9175912+00:00",
-  "LastUpdate_Ratings": "2024-01-10T05:59:48.8472293+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:09:28.7181277+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:58:56.6162657+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:09:10.2830099+00:00"
 }

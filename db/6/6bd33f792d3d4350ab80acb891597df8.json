@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 384,
+  "Ranking_EOS_NewPlayers": 383,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -729,17 +729,17 @@
       "ID": "CgkIxYDzrbcPEAIQCA",
       "SetID": "4egpam7",
       "Name": "Secrets of Justice",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCQ",
       "SetID": "4egpam7",
       "Name": "Ancient Enigma",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCg",
@@ -801,9 +801,9 @@
       "ID": "CgkIxYDzrbcPEAIQEQ",
       "SetID": "4egpam7",
       "Name": "Seeker of Mysteries",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEg",
@@ -873,25 +873,25 @@
       "ID": "CgkIxYDzrbcPEAIQGg",
       "SetID": "4egpam7",
       "Name": "Short History of Time Travel",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "CgkIxYDzrbcPEAIQGw",
       "SetID": "4egpam7",
       "Name": "Slow and Steady",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "CgkIxYDzrbcPEAIQHA",
       "SetID": "4egpam7",
       "Name": "Healthy Moderation",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 70,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "CgkIxYDzrbcPEAIQHQ",
@@ -920,8 +920,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:08:46.998547+00:00",
+  "LastChanged_Achievements": "2024-01-10T07:08:41.1648264+00:00",
   "LastUpdate_AppInfo": "2024-01-10T04:57:09.2024911+00:00",
-  "LastUpdate_Ratings": "2024-01-10T05:59:17.1137755+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:08:46.9985691+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:58:36.5976497+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:08:41.1648446+00:00"
 }

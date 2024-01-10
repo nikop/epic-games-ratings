@@ -8,16 +8,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 11.00% | ~16,558 |
 | Titan's First Steps | 11.00% | ~16,558 |
-| Basic in Bulk | 10.00% | ~15,052 |
-| Tinkle of Coins | 9.00% | ~13,547 |
+| Basic in Bulk | 10.00% | ~15,053 |
+| Tinkle of Coins | 9.00% | ~13,548 |
 | Disintermediation | 7.00% | ~10,537 |
 | It's Free Real Estate | 7.00% | ~10,537 |
 | Capitalism Ho! | 7.00% | ~10,537 |
-| One Easy Payment | 6.00% | ~9,031 |
-| Some Assembly Required | 6.00% | ~9,031 |
-| Another Satisfied Customer | 6.00% | ~9,031 |
-| Budding Merchant | 6.00% | ~9,031 |
-| Own the Means of Production | 6.00% | ~9,031 |
+| One Easy Payment | 6.00% | ~9,032 |
+| Some Assembly Required | 6.00% | ~9,032 |
+| Another Satisfied Customer | 6.00% | ~9,032 |
+| Budding Merchant | 6.00% | ~9,032 |
+| Own the Means of Production | 6.00% | ~9,032 |
 | Pretty Penny | 5.00% | ~7,526 |
 | One-Armed Bandit | 5.00% | ~7,526 |
 | Through Repetition, Perfection | 5.00% | ~7,526 |
@@ -49,58 +49,58 @@ Number of Ratings: 12,664  (23.09.2022)
 | Helping Hand | 3.00% | ~4,516 |
 | Accomplished Merchant | 3.00% | ~4,516 |
 | Natural 20 | 3.00% | ~4,516 |
+| Seasoned Journeyman | 3.00% | ~4,516 |
 | Magical Harmony | 3.00% | ~4,516 |
 | Special Ingredient | 3.00% | ~4,516 |
 | Complete Monopoly | 3.00% | ~4,516 |
-| A Notch Above the Rest | 2.00% | ~3,010 |
-| Cream of the Crop | 2.00% | ~3,010 |
-| Top of the World | 2.00% | ~3,010 |
-| Proud Paladin | 2.00% | ~3,010 |
-| Above the Norm | 2.00% | ~3,010 |
-| Constellated | 2.00% | ~3,010 |
-| A Ronin Reborn | 2.00% | ~3,010 |
-| The King's Caprice | 2.00% | ~3,010 |
-| Thirst for Knowledge | 2.00% | ~3,010 |
-| Big Game Hunting | 2.00% | ~3,010 |
-| Booty by the Boatload | 2.00% | ~3,010 |
-| Archivist | 2.00% | ~3,010 |
-| Locally Sourced | 2.00% | ~3,010 |
-| Fillin' the Bin | 2.00% | ~3,010 |
-| Flying off the Shelves | 2.00% | ~3,010 |
-| Industrial Evolution | 2.00% | ~3,010 |
-| Omae wa Mou Shindeiru | 2.00% | ~3,010 |
-| Master of Transmutation | 2.00% | ~3,010 |
-| Hidden Potential | 2.00% | ~3,010 |
-| Supercharged | 2.00% | ~3,010 |
-| Expansion in Session | 2.00% | ~3,010 |
-| Ritualist | 2.00% | ~3,010 |
-| Cranked up to 11 | 2.00% | ~3,010 |
-| Fit for a King | 2.00% | ~3,010 |
-| By Your Powers Combined... | 2.00% | ~3,010 |
-| A Legend is Born | 2.00% | ~3,010 |
-| Mammonite | 2.00% | ~3,010 |
-| Wealth Beyond Measure | 2.00% | ~3,010 |
-| Fat Cat Tag Team | 2.00% | ~3,010 |
-| Necromancer Queen | 2.00% | ~3,010 |
-| Item of Renown | 2.00% | ~3,010 |
-| Master Merchant | 2.00% | ~3,010 |
-| Miracle Alchemist | 2.00% | ~3,010 |
-| Laden with Loot | 2.00% | ~3,010 |
-| Bountiful Harvest | 2.00% | ~3,010 |
-| Seasoned Journeyman | 2.00% | ~3,010 |
-| Precision Engineering | 2.00% | ~3,010 |
-| Scourge of the Seas | 2.00% | ~3,010 |
-| Attrition Mission | 2.00% | ~3,010 |
-| Glittering Collection | 2.00% | ~3,010 |
-| Treasure Trove | 2.00% | ~3,010 |
-| Moment of Respite | 2.00% | ~3,010 |
-| Black Friday Special | 2.00% | ~3,010 |
-| King's Shadow | 2.00% | ~3,010 |
-| Master Recycler | 2.00% | ~3,010 |
-| All Accounted For | 2.00% | ~3,010 |
-| Exotic Commodities | 2.00% | ~3,010 |
-| Economy of Scarce | 2.00% | ~3,010 |
-| King's Blade | 2.00% | ~3,010 |
+| A Notch Above the Rest | 2.00% | ~3,011 |
+| Cream of the Crop | 2.00% | ~3,011 |
+| Top of the World | 2.00% | ~3,011 |
+| Proud Paladin | 2.00% | ~3,011 |
+| Above the Norm | 2.00% | ~3,011 |
+| Constellated | 2.00% | ~3,011 |
+| A Ronin Reborn | 2.00% | ~3,011 |
+| The King's Caprice | 2.00% | ~3,011 |
+| Thirst for Knowledge | 2.00% | ~3,011 |
+| Big Game Hunting | 2.00% | ~3,011 |
+| Booty by the Boatload | 2.00% | ~3,011 |
+| Archivist | 2.00% | ~3,011 |
+| Locally Sourced | 2.00% | ~3,011 |
+| Fillin' the Bin | 2.00% | ~3,011 |
+| Flying off the Shelves | 2.00% | ~3,011 |
+| Industrial Evolution | 2.00% | ~3,011 |
+| Omae wa Mou Shindeiru | 2.00% | ~3,011 |
+| Master of Transmutation | 2.00% | ~3,011 |
+| Hidden Potential | 2.00% | ~3,011 |
+| Supercharged | 2.00% | ~3,011 |
+| Expansion in Session | 2.00% | ~3,011 |
+| Ritualist | 2.00% | ~3,011 |
+| Cranked up to 11 | 2.00% | ~3,011 |
+| Fit for a King | 2.00% | ~3,011 |
+| By Your Powers Combined... | 2.00% | ~3,011 |
+| A Legend is Born | 2.00% | ~3,011 |
+| Mammonite | 2.00% | ~3,011 |
+| Wealth Beyond Measure | 2.00% | ~3,011 |
+| Fat Cat Tag Team | 2.00% | ~3,011 |
+| Necromancer Queen | 2.00% | ~3,011 |
+| Item of Renown | 2.00% | ~3,011 |
+| Master Merchant | 2.00% | ~3,011 |
+| Miracle Alchemist | 2.00% | ~3,011 |
+| Laden with Loot | 2.00% | ~3,011 |
+| Bountiful Harvest | 2.00% | ~3,011 |
+| Precision Engineering | 2.00% | ~3,011 |
+| Scourge of the Seas | 2.00% | ~3,011 |
+| Attrition Mission | 2.00% | ~3,011 |
+| Glittering Collection | 2.00% | ~3,011 |
+| Treasure Trove | 2.00% | ~3,011 |
+| Moment of Respite | 2.00% | ~3,011 |
+| Black Friday Special | 2.00% | ~3,011 |
+| King's Shadow | 2.00% | ~3,011 |
+| Master Recycler | 2.00% | ~3,011 |
+| All Accounted For | 2.00% | ~3,011 |
+| Exotic Commodities | 2.00% | ~3,011 |
+| Economy of Scarce | 2.00% | ~3,011 |
+| King's Blade | 2.00% | ~3,011 |
 | The Free Encyclopedia | 1.00% | ~1,505 |
 | Thank You Tom Nook | 1.00% | ~1,505 |
 | Jackpot! | 1.00% | ~1,505 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~602 |
 | Capitalist Camaraderie | 0.20% | ~301 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,524 (Ranked 86)  
+Progressed: 150,529 (Ranked 86)  
 Completed: 345 (0.23%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -384,14 +384,14 @@ Completed: 345 (0.23%) (Ranked 269)
 | 2024-01-07 | 150,192 | 345 |
 | 2024-01-08 | 150,343 | 345 |
 | 2024-01-09 | 150,487 | 345 |
-| 2024-01-10 | 150,524 | 345 |
+| 2024-01-10 | 150,529 | 345 |
 ## Awards
-Max (Great for Beginners): 4,948  (Ranked 78)  
-Sum: 27,968 (Ranked 52)  
+Max (Great for Beginners): 4,949  (Ranked 78)  
+Sum: 27,969 (Ranked 52)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,948 |
+| This game is Great for Beginners | 4,949 |
 | This game is Relaxing | 4,078 |
 | This game has Quickly Understood Controls | 4,073 |
 | This game has Diverse Characters | 4,031 |
@@ -746,3 +746,4 @@ Diff (max vs sum): 26
 | 2024-01-07 | 4.00 | - | 4,946 | 27,950 |
 | 2024-01-08 | 4.00 | - | 4,948 | 27,962 |
 | 2024-01-09 | 4.00 | - | 4,948 | 27,968 |
+| 2024-01-10 | 4.00 | - | 4,949 | 27,969 |

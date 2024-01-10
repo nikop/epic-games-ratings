@@ -1961,9 +1961,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 69102,
+  "EOS_Progressed": 69103,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 718,
+  "EOS_NewPlayers": 716,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31196,6 +31196,11 @@
       "Time": "2024-01-10T06:08:41.5796951+00:00",
       "NumProgressed": 69102,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-10T07:08:37.1312635+00:00",
+      "NumProgressed": 69103,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -31207,7 +31212,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 38006
+      "UsersEstimate": 38007
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -31327,7 +31332,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16584
+      "UsersEstimate": 16585
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -31495,7 +31500,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 43534
+      "UsersEstimate": 43535
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -31519,7 +31524,7 @@
       "Name": "Basic Training",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 15893
+      "UsersEstimate": 15894
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -31551,7 +31556,7 @@
       "Name": "Manual Labour I",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16584
+      "UsersEstimate": 16585
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -31678,15 +31683,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 69102,
+      "Progressed": 69103,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2024-01-09T20:00:35.3658762+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:08:41.5796946+00:00",
+  "LastChanged_Achievements": "2024-01-10T07:08:37.1312632+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:49.5305019+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:02:59.7348177+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:08:41.5798505+00:00"
+  "LastUpdate_Ratings": "2024-01-10T07:02:57.4434214+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:08:37.1314658+00:00"
 }

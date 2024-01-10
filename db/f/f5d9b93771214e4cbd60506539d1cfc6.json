@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 160707,
+  "EOS_Progressed": 160708,
   "EOS_Completed": 384,
-  "EOS_NewPlayers": 1056,
+  "EOS_NewPlayers": 1051,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -24703,6 +24703,11 @@
       "Time": "2024-01-10T06:04:09.3428799+00:00",
       "NumProgressed": 160707,
       "NumCompleted": 384
+    },
+    {
+      "Time": "2024-01-10T07:03:44.6263045+00:00",
+      "NumProgressed": 160708,
+      "NumCompleted": 384
     }
   ],
   "TotalAchievements": 31,
@@ -24722,7 +24727,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 112495
+      "UsersEstimate": 112496
     },
     {
       "ID": "EAwards_10",
@@ -24738,7 +24743,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 33748
+      "UsersEstimate": 33749
     },
     {
       "ID": "EAwards_12",
@@ -24898,7 +24903,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 30534
+      "UsersEstimate": 30535
     },
     {
       "ID": "EAwards_30",
@@ -24961,7 +24966,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 160707,
+      "Progressed": 160708,
       "Completed": 384
     }
   ],
@@ -24969,8 +24974,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:04:09.3428795+00:00",
+  "LastChanged_Achievements": "2024-01-10T07:03:44.626304+00:00",
   "LastUpdate_AppInfo": "2024-01-05T09:57:06.478649+00:00",
-  "LastUpdate_Ratings": "2024-01-10T05:57:10.7794139+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:04:09.3429911+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:57:14.4692621+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:03:44.6266437+00:00"
 }

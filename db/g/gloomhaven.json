@@ -2921,9 +2921,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 32555,
+  "EOS_Progressed": 32556,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1795,
+  "EOS_NewPlayers": 1793,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16416,6 +16416,11 @@
       "Time": "2024-01-10T06:10:32.9747485+00:00",
       "NumProgressed": 32555,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T07:09:54.6191106+00:00",
+      "NumProgressed": 32556,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -16732,7 +16737,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 6185
+      "UsersEstimate": 6186
     },
     {
       "ID": "Achievement_Trophy40",
@@ -16915,7 +16920,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 32555,
+      "Progressed": 32556,
       "Completed": 1
     }
   ],
@@ -16923,8 +16928,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2024-01-10T01:48:31.1756402+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:10:32.9747481+00:00",
+  "LastChanged_Achievements": "2024-01-10T07:09:54.61911+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:15.8559862+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:00:46.0155586+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:10:32.9748574+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:59:34.2909476+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:09:54.619226+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "5f9bc84018a34cf1a670234be578e4dd",
   "Name": "Access Denied Escape",
   "ProductSlug": "access-denied-escape-1d486e",
-  "Ranking_EOS_Progress": 363,
+  "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 20,
   "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 43,
@@ -2403,8 +2403,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:07:03.5057937+00:00",
+  "LastChanged_Achievements": "2024-01-10T07:05:43.9946581+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:56.7874531+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:02:56.529114+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:07:03.5058106+00:00"
+  "LastUpdate_Ratings": "2024-01-10T07:02:55.1660558+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:05:43.9946846+00:00"
 }

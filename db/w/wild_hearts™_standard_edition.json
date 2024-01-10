@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1287,
+  "EOS_Progressed": 1288,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -4178,6 +4178,11 @@
       "Time": "2024-01-10T05:09:31.9497399+00:00",
       "NumProgressed": 1287,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-10T07:09:52.9834268+00:00",
+      "NumProgressed": 1288,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -4190,7 +4195,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "achievement_10",
@@ -4230,7 +4235,7 @@
       "Name": "Fusion Conjuror",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "achievement_15",
@@ -4246,7 +4251,7 @@
       "Name": "Distance Devourer",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "achievement_17",
@@ -4340,9 +4345,9 @@
       "ID": "achievement_27",
       "SetID": "2cpn27e",
       "Name": "Mighty Marmelizer",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 348
     },
     {
       "ID": "achievement_28",
@@ -4350,7 +4355,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "achievement_29",
@@ -4366,15 +4371,15 @@
       "Name": "Bonds of Enmity",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "achievement_30",
       "SetID": "2cpn27e",
       "Name": "Tender Touch",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 129
     },
     {
       "ID": "achievement_31",
@@ -4406,7 +4411,7 @@
       "Name": "Kemono at Heart",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "achievement_35",
@@ -4444,9 +4449,9 @@
       "ID": "achievement_39",
       "SetID": "2cpn27e",
       "Name": "Big Spender",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_4",
@@ -4454,7 +4459,7 @@
       "Name": "Axer of Auspice",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "achievement_40",
@@ -4486,7 +4491,7 @@
       "Name": "Team Hunter",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "achievement_44",
@@ -4542,7 +4547,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "achievement_7",
@@ -4550,15 +4555,15 @@
       "Name": "Budding Conjuror",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "achievement_8",
       "SetID": "2cpn27e",
       "Name": "Expert Conjuror",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 502
+      "UsersEstimate": 515
     },
     {
       "ID": "achievement_9",
@@ -4573,13 +4578,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1287,
+      "Progressed": 1288,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:10:30.7012507+00:00",
+  "LastChanged_Achievements": "2024-01-10T07:09:52.9834262+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:30.0899668+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:01:43.4114419+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:10:30.7013233+00:00"
+  "LastUpdate_Ratings": "2024-01-10T07:00:12.550887+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:09:52.9834925+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~5,042 |
-| I'll Be Back | 84.00% | ~4,506 |
+| On My Own Two Feet | 94.00% | ~5,043 |
+| I'll Be Back | 84.00% | ~4,507 |
 | Sorry, I Dropped This | 76.00% | ~4,077 |
 | First Day on the Job | 76.00% | ~4,077 |
 | Butcher's Bill | 54.00% | ~2,897 |
 | P.A.X | 36.00% | ~1,931 |
 | Hey Listen | 36.00% | ~1,931 |
-| OPERATOR | 35.00% | ~1,877 |
+| OPERATOR | 35.00% | ~1,878 |
 | It's Blue Light | 33.00% | ~1,770 |
 | Most Wanted | 26.00% | ~1,395 |
 | Infidel | 23.00% | ~1,234 |
@@ -38,10 +38,10 @@ Number of Ratings: 62  (23.09.2022)
 | Squad Chief Helvig | 8.00% | ~429 |
 | No More Marching | 8.00% | ~429 |
 | Is This Real Life? | 8.00% | ~429 |
-| Duty-Bound | 7.00% | ~375 |
-| Follow the White Rabbit | 7.00% | ~375 |
-| Liberation | 7.00% | ~375 |
-| Risk Assessment | 7.00% | ~375 |
+| Duty-Bound | 7.00% | ~376 |
+| Follow the White Rabbit | 7.00% | ~376 |
+| Liberation | 7.00% | ~376 |
+| Risk Assessment | 7.00% | ~376 |
 | Sunglasses at Night | 6.00% | ~322 |
 | Carbon Cat | 6.00% | ~322 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~268 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~32 |
 | The Surge | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,364 (Ranked 203)  
+Progressed: 5,365 (Ranked 203)  
 Completed: 18 (0.34%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 18 (0.34%) (Ranked 245)
 | 2024-01-07 | 5,326 | 18 |
 | 2024-01-08 | 5,343 | 18 |
 | 2024-01-09 | 5,358 | 18 |
-| 2024-01-10 | 5,364 | 18 |
+| 2024-01-10 | 5,365 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 523)  
 Sum: 30 (Ranked 543)  

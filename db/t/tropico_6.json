@@ -1551,9 +1551,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7046,
+  "EOS_Progressed": 7047,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16426,6 +16426,11 @@
       "Time": "2024-01-10T06:07:55.7924094+00:00",
       "NumProgressed": 7046,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-10T07:06:20.2080941+00:00",
+      "NumProgressed": 7047,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -16541,7 +16546,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -16589,7 +16594,7 @@
       "Name": "The Governator",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -16693,7 +16698,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -16756,15 +16761,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7046,
+      "Progressed": 7047,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-07T17:59:09.5034143+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:07:55.792409+00:00",
+  "LastChanged_Achievements": "2024-01-10T07:06:20.2080935+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.4830018+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:01:38.3963631+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:07:55.7925144+00:00"
+  "LastUpdate_Ratings": "2024-01-10T07:00:09.3061116+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:06:20.2081984+00:00"
 }

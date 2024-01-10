@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2073,
+  "EOS_Progressed": 2074,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.62,
   "EosHistory": [
@@ -4844,6 +4844,11 @@
       "Time": "2024-01-10T06:11:00.4463897+00:00",
       "NumProgressed": 2073,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-10T07:10:13.5195878+00:00",
+      "NumProgressed": 2074,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 16,
@@ -4855,7 +4860,7 @@
       "Name": "Artist Assistant",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_DEEPLISTENER",
@@ -4941,9 +4946,9 @@
       "ID": "ACH_OUTSIDEWORLDSEER",
       "SetID": "7pam6gn",
       "Name": "Outside World Seer",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 40,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1224
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -4975,14 +4980,14 @@
       "Name": "Tour de Tieng",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 2073,
+      "Progressed": 2074,
       "Completed": 75
     }
   ],
@@ -4990,8 +4995,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:11:00.4463894+00:00",
+  "LastChanged_Achievements": "2024-01-10T07:10:13.5195873+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:30.8878388+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:01:36.2160548+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:11:00.4464199+00:00"
+  "LastUpdate_Ratings": "2024-01-10T07:00:07.9278498+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:10:13.5196249+00:00"
 }

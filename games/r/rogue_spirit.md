@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Silent Assassin | 52.00% | ~16 |
+| Parry Mastery | 32.00% | ~10 |
 | Liberator | 29.00% | ~9 |
-| Parry Mastery | 29.00% | ~9 |
 | Famine Defeated | 19.00% | ~6 |
 | Perceptive | 19.00% | ~6 |
 | Gold Collector | 13.00% | ~4 |

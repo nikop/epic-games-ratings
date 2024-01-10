@@ -62,6 +62,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.70% | ~114 |
 | Legendary Cities | 0.70% | ~114 |
 | Just Difficulty | 0.70% | ~114 |
+| Colossus | 0.70% | ~114 |
 | Mausoleum | 0.70% | ~114 |
 | Mythology | 0.70% | ~114 |
 | Hanging Gardens in Babylon | 0.60% | ~98 |
@@ -69,7 +70,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.60% | ~98 |
 | Artisans | 0.60% | ~98 |
 | Sages | 0.60% | ~98 |
-| Colossus | 0.60% | ~98 |
 | Learn to Play 3 | 0.60% | ~98 |
 | Building Wonders | 0.60% | ~98 |
 | Mighty | 0.50% | ~82 |

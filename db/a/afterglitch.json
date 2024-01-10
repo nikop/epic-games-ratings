@@ -4,7 +4,7 @@
   "ProductSlug": "afterglitch-06da0d",
   "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 576,
+  "Ranking_EOS_NewPlayers": 578,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-20T22:00:00+00:00",
@@ -162,8 +162,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:51.4740413+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:05:32.1864374+00:00",
+  "LastChanged_Achievements": "2024-01-10T07:04:41.1571226+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:24.6539114+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:01:19.5965643+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:05:32.1864453+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:59:56.8270585+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:04:41.1571299+00:00"
 }

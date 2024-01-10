@@ -1,56 +1,56 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.48 (Ranked 657)  
+Rating: 4.49 (Ranked 637)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 78.00% | ~410 |
-| First of many… | 69.00% | ~363 |
-| Helping Hand | 65.00% | ~342 |
+| Green with Envy | 78.00% | ~411 |
+| First of many… | 69.00% | ~364 |
+| Helping Hand | 65.00% | ~343 |
 | Increased Vigor | 60.00% | ~316 |
-| Fight Fire with Fire | 58.00% | ~305 |
-| Increased Capacity | 55.00% | ~289 |
+| Fight Fire with Fire | 58.00% | ~306 |
+| Increased Capacity | 54.00% | ~285 |
 | Just the start | 49.00% | ~258 |
-| Perfect Storm | 47.00% | ~247 |
+| Perfect Storm | 46.00% | ~242 |
 | All That Glitters | 46.00% | ~242 |
-| Enhance! | 43.00% | ~226 |
-| One Of the Chosen | 40.00% | ~210 |
-| Devil's in the Details | 40.00% | ~210 |
-| Throne Potato | 40.00% | ~210 |
-| Five's a Crowd | 40.00% | ~210 |
-| 25 to Life | 39.00% | ~205 |
+| Enhance! | 43.00% | ~227 |
+| One Of the Chosen | 40.00% | ~211 |
+| Devil's in the Details | 40.00% | ~211 |
+| Throne Potato | 40.00% | ~211 |
+| Five's a Crowd | 40.00% | ~211 |
+| 25 to Life | 39.00% | ~206 |
 | Salvation | 37.00% | ~195 |
-| Unshakable Fortitude | 36.00% | ~189 |
-| Soul Harvester | 36.00% | ~189 |
+| Soul Harvester | 36.00% | ~190 |
+| Unshakable Fortitude | 35.00% | ~184 |
+| Delusions of Grandeur | 35.00% | ~184 |
 | I Wanna Rock | 34.00% | ~179 |
-| Delusions of Grandeur | 34.00% | ~179 |
-| Love Tap | 33.00% | ~174 |
-| Maximum Vigor | 32.00% | ~168 |
+| Love Tap | 32.00% | ~169 |
+| Maximum Vigor | 31.00% | ~163 |
+| For Whom the Bell Tolls | 30.00% | ~158 |
 | Freeze Frame | 29.00% | ~153 |
 | Eat Your Heart Out | 29.00% | ~153 |
-| For Whom the Bell Tolls | 29.00% | ~153 |
 | Unyielding Strength | 26.00% | ~137 |
 | Big Spender | 26.00% | ~137 |
 | Can you restore the Balance? | 25.00% | ~132 |
-| Crowd Source | 25.00% | ~132 |
 | Cleanup Crew | 24.00% | ~126 |
+| Crowd Source | 24.00% | ~126 |
 | Demon Meddler | 23.00% | ~121 |
 | Seeing Red | 23.00% | ~121 |
 | Maximum Capacity | 22.00% | ~116 |
-| Egomaniac | 21.00% | ~110 |
+| Egomaniac | 20.00% | ~105 |
 | Protector of Humanity | 19.00% | ~100 |
 | Everybody Wants to Rule the World | 19.00% | ~100 |
 | Community Outreach | 16.00% | ~84 |
 | Unbreakable Will | 14.00% | ~74 |
 | A Parting Gift | 14.00% | ~74 |
 | Path of the Horseman | 14.00% | ~74 |
-| Take it to the Limit | 13.00% | ~68 |
+| Take it to the Limit | 13.00% | ~69 |
 | Holy Keeper | 12.00% | ~63 |
 | Demon Keeper | 12.00% | ~63 |
-| Humanitarian | 10.00% | ~53 |
 | Soul Reaper | 9.00% | ~47 |
+| Humanitarian | 9.00% | ~47 |
 | Made of Sterner Stuff | 7.00% | ~37 |
 | My Evil Twin | 6.00% | ~32 |
 | Purity of Power | 5.00% | ~26 |
@@ -68,10 +68,10 @@ Number of Ratings: 116  (23.09.2022)
 | "Apocalyptic!" | 2.00% | ~11 |
 | "Amazing!" | 2.00% | ~11 |
 | Death Incarnate | 2.00% | ~11 |
-| Quite Proper | 1.00% | ~5 |
-| Beast Mode | 1.00% | ~5 |
+| Quite Proper | 0.90% | ~5 |
+| Beast Mode | 0.90% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526 (Ranked 346)  
+Progressed: 527 (Ranked 346)  
 Completed: 2 (0.38%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,14 +97,14 @@ Completed: 2 (0.38%) (Ranked 240)
 | 2024-01-07 | 492 | 2 |
 | 2024-01-08 | 503 | 2 |
 | 2024-01-09 | 525 | 2 |
-| 2024-01-10 | 526 | 2 |
+| 2024-01-10 | 527 | 2 |
 ## Awards
-Max (Great Boss Battles): 96  (Ranked 388)  
-Sum: 96 (Ranked 472)  
+Max (Great Boss Battles): 97  (Ranked 387)  
+Sum: 97 (Ranked 471)  
 Diff (max vs sum): -84  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 96 |
+| This game has Great Boss Battles | 97 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -192,3 +192,4 @@ Diff (max vs sum): -84
 | 2024-01-01 | 4.47 | - | 94 | 94 |
 | 2024-01-02 | 4.47 | - | 96 | 96 |
 | 2024-01-03 | 4.48 | - | 96 | 96 |
+| 2024-01-10 | 4.49 | - | 97 | 97 |

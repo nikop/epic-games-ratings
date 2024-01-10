@@ -5,14 +5,14 @@ Rating: 4.15 (Ranked 1,001)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 63.00% | ~1,363 |
+| Break Out | 63.00% | ~1,364 |
 | Trinity | 31.00% | ~671 |
 | A Taste of Wrath | 25.00% | ~541 |
 | The Collector | 25.00% | ~541 |
-| Find Allies | 24.00% | ~519 |
-| Shatter Them All | 23.00% | ~497 |
-| Geared Up | 23.00% | ~497 |
-| I Found It | 23.00% | ~497 |
+| Find Allies | 24.00% | ~520 |
+| Shatter Them All | 23.00% | ~498 |
+| Geared Up | 23.00% | ~498 |
+| I Found It | 23.00% | ~498 |
 | Adventurer | 22.00% | ~476 |
 | Fashion Victim | 22.00% | ~476 |
 | Scholar | 22.00% | ~476 |
@@ -26,8 +26,8 @@ Rating: 4.15 (Ranked 1,001)
 | Calm before the Storm | 9.00% | ~195 |
 | To Battle | 8.00% | ~173 |
 | Airborne | 8.00% | ~173 |
-| Godslayer | 7.00% | ~151 |
-| Miner | 7.00% | ~151 |
+| Godslayer | 7.00% | ~152 |
+| Miner | 7.00% | ~152 |
 | Clear Sight | 4.00% | ~87 |
 | Shatterer | 4.00% | ~87 |
 | Fine Feathers Make Fine Birds | 4.00% | ~87 |
@@ -42,7 +42,7 @@ Rating: 4.15 (Ranked 1,001)
 | All That Gold | 0.70% | ~15 |
 | Feeling Fancy | 0.40% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,163 (Ranked 247)  
+Progressed: 2,165 (Ranked 247)  
 Completed: 3 (0.14%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 3 (0.14%) (Ranked 294)
 | 2024-01-07 | 2,015 | 3 |
 | 2024-01-08 | 2,086 | 3 |
 | 2024-01-09 | 2,146 | 3 |
-| 2024-01-10 | 2,163 | 3 |
+| 2024-01-10 | 2,165 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

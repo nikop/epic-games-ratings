@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -305,11 +305,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 429,
+  "EOS_Progressed": 430,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.17,
+  "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
     {
       "Time": "2023-12-18T10:04:38.3586261+00:00",
@@ -1740,6 +1740,11 @@
       "Time": "2024-01-10T05:03:59.8335017+00:00",
       "NumProgressed": 429,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-10T07:04:08.8230343+00:00",
+      "NumProgressed": 430,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1776,7 +1781,7 @@
       "Name": "Deincarnated",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_ABILITY_PKBURNINGINTOHUMAN",
@@ -1816,7 +1821,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -1832,15 +1837,15 @@
       "Name": "Freshly Squeezed",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_ABILITY_WITHWEAPON",
       "SetID": "cefn62b",
       "Name": "Lie Back and Think of Albion",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_CHALLENGE_ABDUCTIONTHREESTAR",
@@ -1856,7 +1861,7 @@
       "Name": "Furon Fashion",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_CHALLENGE_ARMAGEDDONTHREESTAR",
@@ -1864,7 +1869,7 @@
       "Name": "To Russia With Love",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_CHALLENGE_RACETHREESTAR",
@@ -1896,7 +1901,7 @@
       "Name": "Path of the Furon",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_CHANGE_SKIN",
@@ -1910,9 +1915,9 @@
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
       "SetID": "cefn62b",
       "Name": "Kaijuiced",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 301
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -1920,7 +1925,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -1958,9 +1963,9 @@
       "ID": "ACH_ENEMY_SILHOUETTE",
       "SetID": "cefn62b",
       "Name": "Arty Facts",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_INVADE_AREA42",
@@ -1984,7 +1989,7 @@
       "Name": "Pimp My Raid",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -2000,7 +2005,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -2024,7 +2029,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -2048,7 +2053,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2056,7 +2061,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_UPGRADE_TOPTIER",
@@ -2064,22 +2069,22 @@
       "Name": "Trans-Siberian Express",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     }
   ],
   "AchievementSets": [
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 429,
+      "Progressed": 430,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:04:44.7358817+00:00",
+  "LastChanged_Achievements": "2024-01-10T07:04:08.8230335+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:15.0942873+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:02:58.8423201+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:04:44.7359094+00:00"
+  "LastUpdate_Ratings": "2024-01-10T07:02:56.9523343+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:04:08.8230784+00:00"
 }

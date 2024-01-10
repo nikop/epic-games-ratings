@@ -4,8 +4,8 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 466,
+  "EOS_Progressed": 467,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 1,
@@ -1829,6 +1829,11 @@
       "Time": "2024-01-10T05:04:19.7541517+00:00",
       "NumProgressed": 466,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-10T07:04:27.9120116+00:00",
+      "NumProgressed": 467,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1913,7 +1918,7 @@
       "Name": "Hunger",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "AC_BOSS_01",
@@ -1967,17 +1972,17 @@
       "ID": "AC_COMBO_3",
       "SetID": "16i2akc",
       "Name": "Herd",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 45,
-      "UsersEstimate": 9
+      "UsersEstimate": 5
     },
     {
       "ID": "AC_CROSSBOW_MAX",
       "SetID": "16i2akc",
       "Name": "Bolt",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 5
     },
     {
       "ID": "AC_DEATH_1",
@@ -2009,7 +2014,7 @@
       "Name": "Killer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -2033,7 +2038,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2057,7 +2062,7 @@
       "Name": "Player",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -2176,14 +2181,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 466,
+      "Progressed": 467,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:05:12.6235578+00:00",
+  "LastChanged_Achievements": "2024-01-10T07:04:27.9120111+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:59.4542445+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:00:44.6382676+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:05:12.6235969+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:59:32.8347+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:04:27.9120551+00:00"
 }

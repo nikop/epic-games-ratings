@@ -703,9 +703,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12095,
+  "EOS_Progressed": 12097,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 676,
+  "EOS_NewPlayers": 677,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -15358,6 +15358,11 @@
       "Time": "2024-01-10T06:07:36.8885166+00:00",
       "NumProgressed": 12095,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2024-01-10T07:06:06.9200135+00:00",
+      "NumProgressed": 12097,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 29,
@@ -15369,7 +15374,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10039
+      "UsersEstimate": 10041
     },
     {
       "ID": "ACH02",
@@ -15377,7 +15382,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 4112
+      "UsersEstimate": 4113
     },
     {
       "ID": "ACH03",
@@ -15393,7 +15398,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4717
+      "UsersEstimate": 4718
     },
     {
       "ID": "ACH05",
@@ -15497,7 +15502,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     },
     {
       "ID": "ACH18",
@@ -15527,9 +15532,9 @@
       "ID": "ACH21",
       "SetID": "552d41m",
       "Name": "Splish Splash",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 363
     },
     {
       "ID": "ACH22",
@@ -15553,7 +15558,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "ACH25",
@@ -15600,7 +15605,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12095,
+      "Progressed": 12097,
       "Completed": 84
     }
   ],
@@ -15608,8 +15613,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-08T18:02:03.5351927+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:07:36.8885162+00:00",
+  "LastChanged_Achievements": "2024-01-10T07:06:06.9200129+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.653696+00:00",
-  "LastUpdate_Ratings": "2024-01-10T05:57:37.9440583+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:07:36.888601+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:57:31.9995903+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:06:06.9201205+00:00"
 }

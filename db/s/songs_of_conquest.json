@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -456,9 +456,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1113,
+  "EOS_Progressed": 1114,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3881,6 +3881,11 @@
       "Time": "2024-01-10T01:58:16.9454955+00:00",
       "NumProgressed": 1113,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T07:09:37.4023913+00:00",
+      "NumProgressed": 1114,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4037,7 +4042,7 @@
       "Name": "Double Kill",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4277,7 +4282,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -4324,15 +4329,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1113,
+      "Progressed": 1114,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-08T22:01:52.5110389+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:10:07.9983126+00:00",
+  "LastChanged_Achievements": "2024-01-10T07:09:37.4023907+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-10T05:57:30.5135295+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:10:07.998391+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:57:26.9707173+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:09:37.4024412+00:00"
 }

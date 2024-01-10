@@ -4,7 +4,7 @@
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
   "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
@@ -572,9 +572,9 @@
       "ID": "LEVEL_240_004",
       "SetID": "5g7b0mb",
       "Name": "Alley - 240 pieces",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "LEVEL_240_005",
@@ -699,8 +699,8 @@
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2024-01-10T06:04:34.9173817+00:00",
+  "LastChanged_Achievements": "2024-01-10T07:04:02.0548929+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.6686255+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:00:19.8774855+00:00",
-  "LastUpdate_Achievements": "2024-01-10T06:04:34.9174031+00:00"
+  "LastUpdate_Ratings": "2024-01-10T06:59:16.3702912+00:00",
+  "LastUpdate_Achievements": "2024-01-10T07:04:02.054918+00:00"
 }
