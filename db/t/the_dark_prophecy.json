@@ -2,10 +2,10 @@
   "ID": "2295ea8bd4db49aba47d2414fce88392",
   "Name": "The Dark Prophecy",
   "ProductSlug": "the-dark-prophecy-2193c4",
-  "Ranking_EOS_Progress": 823,
+  "Ranking_EOS_Progress": 824,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 578,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 577,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-02-28T18:00:00+00:00",
     "PcReleaseDate": "2022-02-28T18:00:00+00:00",
@@ -50,8 +50,8 @@
   "FirstSeenRating": "2023-03-31T05:58:33.727673+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:22.5854367+00:00",
   "LastChanged": "2023-03-31T05:58:33.7276731+00:00",
-  "LastChanged_Achievements": "2024-01-10T09:10:33.9807919+00:00",
+  "LastChanged_Achievements": "2024-01-10T10:10:59.8549662+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:22.8839532+00:00",
-  "LastUpdate_Ratings": "2024-01-10T09:01:17.4538148+00:00",
-  "LastUpdate_Achievements": "2024-01-10T09:10:33.9807949+00:00"
+  "LastUpdate_Ratings": "2024-01-10T10:01:31.524793+00:00",
+  "LastUpdate_Achievements": "2024-01-10T10:10:59.8549689+00:00"
 }

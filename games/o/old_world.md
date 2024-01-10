@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 322)  
+Rating: 4.65 (Ranked 321)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -32,6 +32,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 1.00% | ~163 |
 | Strong Cities | 1.00% | ~163 |
 | Great Ziggurat | 1.00% | ~163 |
+| Ishtar Gate | 1.00% | ~163 |
 | Lighthouse | 1.00% | ~163 |
 | Oracle | 1.00% | ~163 |
 | Pyramids | 1.00% | ~163 |
@@ -47,7 +48,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 0.90% | ~147 |
 | Able Difficulty | 0.90% | ~147 |
 | Apadana | 0.90% | ~147 |
-| Ishtar Gate | 0.90% | ~147 |
 | Learn to Play 2 | 0.90% | ~147 |
 | Carthaginian Paganism | 0.90% | ~147 |
 | Regicide | 0.80% | ~131 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,337 (Ranked 169)  
+Progressed: 16,340 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -630,7 +630,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
-| 2024-01-10 | 16,337 | 5 |
+| 2024-01-10 | 16,340 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,919 (Ranked 224)  

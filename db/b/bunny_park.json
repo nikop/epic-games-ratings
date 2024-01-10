@@ -4,8 +4,8 @@
   "ProductSlug": "bunny-park-835c4c",
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 484,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 463,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-09-30T00:00:00+00:00",
     "PcReleaseDate": "2020-01-14T12:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 312,
+  "EOS_Progressed": 313,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.21,
+  "EOS_Completed_Percentage": 3.19,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.4240429+00:00",
@@ -235,6 +235,11 @@
       "Time": "2024-01-08T01:59:13.9830438+00:00",
       "NumProgressed": 312,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-10T10:11:02.3527959+00:00",
+      "NumProgressed": 313,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 18,
@@ -246,7 +251,7 @@
       "Name": "Lonely Bunny",
       "Percentage": 97,
       "XP": 25,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "BP-02",
@@ -254,7 +259,7 @@
       "Name": "Bunny Party",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "BP-03",
@@ -270,7 +275,7 @@
       "Name": "Debris Finder",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "BP-05",
@@ -278,7 +283,7 @@
       "Name": "Debris Gatherer",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "BP-06",
@@ -382,14 +387,14 @@
       "Name": "Park Manager",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
     {
       "ID": "7fc93f2",
       "IsBase": true,
-      "Progressed": 312,
+      "Progressed": 313,
       "Completed": 10
     }
   ],
@@ -397,8 +402,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
   "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged_Achievements": "2024-01-10T09:10:36.4519495+00:00",
+  "LastChanged_Achievements": "2024-01-10T10:11:02.3527955+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.7374524+00:00",
-  "LastUpdate_Ratings": "2024-01-10T09:01:52.9193706+00:00",
-  "LastUpdate_Achievements": "2024-01-10T09:10:36.4519614+00:00"
+  "LastUpdate_Ratings": "2024-01-10T10:02:06.3850561+00:00",
+  "LastUpdate_Achievements": "2024-01-10T10:11:02.3528053+00:00"
 }

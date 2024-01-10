@@ -14,16 +14,16 @@ Rating: 4.47 (Ranked 666)
 | Taking it back | 30.00% | ~1,275 |
 | Resourceful | 28.00% | ~1,190 |
 | Target America | 28.00% | ~1,190 |
-| The Kraken Sleeps | 25.00% | ~1,062 |
+| The Kraken Sleeps | 25.00% | ~1,063 |
 | As Quiet as a Mouse | 24.00% | ~1,020 |
 | Liberté | 23.00% | ~978 |
 | Organ Grinder | 23.00% | ~978 |
 | Sharpshooter | 23.00% | ~978 |
 | Explosive Efficiency | 20.00% | ~850 |
 | Gunslinger | 19.00% | ~808 |
-| Climbing the Ladder | 17.00% | ~722 |
-| Just a Flesh Wound | 17.00% | ~722 |
-| Der Geist | 17.00% | ~722 |
+| Climbing the Ladder | 17.00% | ~723 |
+| Just a Flesh Wound | 17.00% | ~723 |
+| Der Geist | 17.00% | ~723 |
 | Skirmisher | 16.00% | ~680 |
 | Close Quarters | 16.00% | ~680 |
 | Snake in the Grass | 16.00% | ~680 |
@@ -36,15 +36,15 @@ Rating: 4.47 (Ranked 666)
 | Set Europe Ablaze | 14.00% | ~595 |
 | Precision Is Key | 10.00% | ~425 |
 | My Little Friend | 10.00% | ~425 |
-| Rigged to Blow | 9.00% | ~382 |
+| Rigged to Blow | 9.00% | ~383 |
 | Herr Today, Gone Tomorrow | 7.00% | ~294 |
 | The Long Game | 6.00% | ~255 |
 | Operation Foxley | 6.00% | ~252 |
-| Strategist | 5.00% | ~212 |
-| Tinkerer | 5.00% | ~212 |
-| It'll Buff Right Out | 5.00% | ~212 |
-| Road Rage | 5.00% | ~212 |
-| Don't hold your breath | 5.00% | ~212 |
+| Strategist | 5.00% | ~213 |
+| Tinkerer | 5.00% | ~213 |
+| It'll Buff Right Out | 5.00% | ~213 |
+| Road Rage | 5.00% | ~213 |
+| Don't hold your breath | 5.00% | ~213 |
 | Last Resort | 5.00% | ~210 |
 | Siegebreaker | 5.00% | ~210 |
 | Ghost of Falaise | 5.00% | ~210 |
@@ -64,8 +64,8 @@ Rating: 4.47 (Ranked 666)
 | Reich To The Point | 2.00% | ~84 |
 | Covert Elimination | 2.00% | ~84 |
 | Sink or Swim | 2.00% | ~84 |
-| Best of the Best | 1.00% | ~42 |
-| Sight Beyond Sights | 1.00% | ~42 |
+| Best of the Best | 1.00% | ~43 |
+| Sight Beyond Sights | 1.00% | ~43 |
 | From Führer Away | 1.00% | ~42 |
 | Alpha | 1.00% | ~42 |
 | Das Familienjuwel | 1.00% | ~42 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 666)
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,250 (Ranked 210)  
+Progressed: 4,251 (Ranked 210)  
 Completed: 11 (0.26%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 11 (0.26%) (Ranked 263)
 | 2024-01-07 | 4,237 | 11 |
 | 2024-01-08 | 4,244 | 11 |
 | 2024-01-09 | 4,249 | 11 |
-| 2024-01-10 | 4,250 | 11 |
+| 2024-01-10 | 4,251 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 529)  
 Sum: 29 (Ranked 546)  

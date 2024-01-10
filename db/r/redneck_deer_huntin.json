@@ -2,10 +2,10 @@
   "ID": "12903f7d854d44ef8556ea7b4e698216",
   "Name": "Redneck Deer Huntin",
   "ProductSlug": "redneck-deer-huntin-012a33",
-  "Ranking_EOS_Progress": 823,
+  "Ranking_EOS_Progress": 824,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 578,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 577,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-07-29T16:00:00+00:00",
     "PcReleaseDate": "2022-07-29T16:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:40.722916+00:00",
   "LastChanged": "2023-03-31T05:58:40.7229161+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:21.0281349+00:00",
-  "LastUpdate_Ratings": "2024-01-10T09:01:09.3888861+00:00",
-  "LastUpdate_Achievements": "2024-01-10T09:09:22.5597639+00:00"
+  "LastUpdate_Ratings": "2024-01-10T10:01:23.4983203+00:00",
+  "LastUpdate_Achievements": "2024-01-10T10:09:50.6141272+00:00"
 }

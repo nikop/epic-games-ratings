@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First success | 87.00% | ~66 |
-| Suicide squad | 45.00% | ~34 |
-| Train hard, fight easy | 28.00% | ~21 |
-| Under cover | 28.00% | ~21 |
-| First blood | 28.00% | ~21 |
-| Royal blessing | 22.00% | ~17 |
+| Suicide squad | 46.00% | ~35 |
+| Train hard, fight easy | 29.00% | ~22 |
+| Under cover | 29.00% | ~22 |
+| First blood | 29.00% | ~22 |
+| Royal blessing | 24.00% | ~18 |
 | Blood and sand | 20.00% | ~15 |
 | All for one! | 18.00% | ~14 |
 | A hidden snake | 18.00% | ~14 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76 (Ranked 522)  
+Progressed: 76 (Ranked 523)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |

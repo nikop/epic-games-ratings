@@ -28,7 +28,7 @@ Number of Ratings: 116  (23.09.2022)
 | Delusions of Grandeur | 34.00% | ~180 |
 | Love Tap | 32.00% | ~170 |
 | Maximum Vigor | 31.00% | ~164 |
-| Freeze Frame | 29.00% | ~154 |
+| Freeze Frame | 30.00% | ~159 |
 | Eat Your Heart Out | 29.00% | ~154 |
 | For Whom the Bell Tolls | 29.00% | ~154 |
 | Unyielding Strength | 26.00% | ~138 |
@@ -42,7 +42,7 @@ Number of Ratings: 116  (23.09.2022)
 | Egomaniac | 21.00% | ~111 |
 | Protector of Humanity | 19.00% | ~101 |
 | Everybody Wants to Rule the World | 19.00% | ~101 |
-| Community Outreach | 15.00% | ~80 |
+| Community Outreach | 16.00% | ~85 |
 | Unbreakable Will | 14.00% | ~74 |
 | A Parting Gift | 14.00% | ~74 |
 | Path of the Horseman | 14.00% | ~74 |

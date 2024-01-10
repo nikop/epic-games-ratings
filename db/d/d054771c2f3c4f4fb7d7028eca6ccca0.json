@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3891,
+  "EOS_Progressed": 3894,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4514,6 +4514,11 @@
       "Time": "2024-01-10T08:05:12.266006+00:00",
       "NumProgressed": 3891,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T10:06:03.4601006+00:00",
+      "NumProgressed": 3894,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -4550,7 +4555,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -4630,7 +4635,7 @@
       "Name": "Worthy Badge",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -4710,7 +4715,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -4726,7 +4731,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1713
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -4901,14 +4906,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 3891,
+      "Progressed": 3894,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-10T09:05:31.4708484+00:00",
+  "LastChanged_Achievements": "2024-01-10T10:06:03.4601001+00:00",
   "LastUpdate_AppInfo": "2024-01-09T13:13:37.5527845+00:00",
-  "LastUpdate_Ratings": "2024-01-10T09:01:05.1985009+00:00",
-  "LastUpdate_Achievements": "2024-01-10T09:05:31.4709039+00:00"
+  "LastUpdate_Ratings": "2024-01-10T10:01:19.2594637+00:00",
+  "LastUpdate_Achievements": "2024-01-10T10:06:03.4601493+00:00"
 }

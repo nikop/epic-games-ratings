@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -2419,9 +2419,9 @@
       "ID": "buy_trainer",
       "SetID": "69co12a",
       "Name": "Your own amateur gym",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 375
     },
     {
       "ID": "carla_journey",
@@ -2843,9 +2843,9 @@
       "ID": "work_promotion_1",
       "SetID": "69co12a",
       "Name": "Employee of the week",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 398
     },
     {
       "ID": "work_promotion_2",
@@ -2874,8 +2874,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-10T09:10:34.8053188+00:00",
+  "LastChanged_Achievements": "2024-01-10T10:11:00.8766305+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:10.7103832+00:00",
-  "LastUpdate_Ratings": "2024-01-10T08:57:03.9711352+00:00",
-  "LastUpdate_Achievements": "2024-01-10T09:10:34.8053819+00:00"
+  "LastUpdate_Ratings": "2024-01-10T09:57:20.0242608+00:00",
+  "LastUpdate_Achievements": "2024-01-10T10:11:00.8767032+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -63,7 +63,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1292,
+  "EOS_Progressed": 1293,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 1,
@@ -3878,6 +3878,11 @@
       "Time": "2024-01-10T05:10:08.5218508+00:00",
       "NumProgressed": 1292,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-10T10:11:18.6740293+00:00",
+      "NumProgressed": 1293,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -4009,7 +4014,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -4049,7 +4054,7 @@
       "Name": "Rail Rat",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "HexlockGift",
@@ -4073,7 +4078,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "LacunaCompleted",
@@ -4177,7 +4182,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "RewindParry",
@@ -4193,7 +4198,7 @@
       "Name": "Golem Hunter",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ScrambotProgress1",
@@ -4249,7 +4254,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "TheaterChests1",
@@ -4312,7 +4317,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1292,
+      "Progressed": 1293,
       "Completed": 7
     }
   ],
@@ -4320,8 +4325,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-10T09:10:53.4911622+00:00",
+  "LastChanged_Achievements": "2024-01-10T10:11:18.6740292+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-10T09:00:43.5370326+00:00",
-  "LastUpdate_Achievements": "2024-01-10T09:10:53.4912157+00:00"
+  "LastUpdate_Ratings": "2024-01-10T10:00:58.1126962+00:00",
+  "LastUpdate_Achievements": "2024-01-10T10:11:18.6740789+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "065d67923dbf4dbfa76af2b8e6685981",
   "Name": "Treasure Of The Giantess",
   "ProductSlug": "treasure-of-the-giantess-60391f",
-  "Ranking_EOS_Progress": 823,
+  "Ranking_EOS_Progress": 824,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 578,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 577,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-06T22:00:00+00:00",
     "PcReleaseDate": "2023-10-31T08:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-09T04:59:12.64945+00:00",
   "LastUpdate_AppInfo": "2024-01-03T10:57:04.7645472+00:00",
-  "LastUpdate_Ratings": "2024-01-10T08:59:20.6826813+00:00",
-  "LastUpdate_Achievements": "2024-01-10T09:06:56.242285+00:00"
+  "LastUpdate_Ratings": "2024-01-10T09:59:35.19553+00:00",
+  "LastUpdate_Achievements": "2024-01-10T10:07:25.9668453+00:00"
 }

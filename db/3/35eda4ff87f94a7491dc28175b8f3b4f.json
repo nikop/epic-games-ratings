@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 153,
-  "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_Completed": 223,
+  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -281,11 +281,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21208,
+  "EOS_Progressed": 21213,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 1430,
+  "EOS_NewPlayers": 1427,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 0.5,
+  "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
     {
       "Time": "2023-10-19T17:06:35.017307+00:00",
@@ -7531,6 +7531,11 @@
       "Time": "2024-01-10T09:05:03.121536+00:00",
       "NumProgressed": 21208,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2024-01-10T10:05:35.7095268+00:00",
+      "NumProgressed": 21213,
+      "NumCompleted": 105
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -7583,7 +7588,7 @@
       "Name": "Righter of Wrongs",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
@@ -7591,7 +7596,7 @@
       "Name": "Rescuer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2758
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -7622,7 +7627,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 21208,
+      "Progressed": 21213,
       "Completed": 105
     }
   ],
@@ -7630,8 +7635,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-02T16:59:56.4750656+00:00",
-  "LastChanged_Achievements": "2024-01-10T09:05:03.1215355+00:00",
+  "LastChanged_Achievements": "2024-01-10T10:05:35.7095262+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:24.8589698+00:00",
-  "LastUpdate_Ratings": "2024-01-10T08:59:41.7452171+00:00",
-  "LastUpdate_Achievements": "2024-01-10T09:05:03.1215812+00:00"
+  "LastUpdate_Ratings": "2024-01-10T09:59:56.9044836+00:00",
+  "LastUpdate_Achievements": "2024-01-10T10:05:35.7095745+00:00"
 }

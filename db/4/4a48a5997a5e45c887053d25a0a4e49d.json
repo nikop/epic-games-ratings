@@ -2,10 +2,10 @@
   "ID": "4a48a5997a5e45c887053d25a0a4e49d",
   "Name": "Liberta Rise of Freedom",
   "ProductSlug": "liberta-rise-of-freedom-87116b",
-  "Ranking_EOS_Progress": 823,
+  "Ranking_EOS_Progress": 824,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 578,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 577,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-08T13:01:57.2757448+00:00",
-  "LastUpdate_Ratings": "2024-01-10T09:00:25.4309169+00:00",
-  "LastUpdate_Achievements": "2024-01-10T09:06:53.0053338+00:00"
+  "LastUpdate_Ratings": "2024-01-10T10:00:39.3857529+00:00",
+  "LastUpdate_Achievements": "2024-01-10T10:07:22.9078052+00:00"
 }

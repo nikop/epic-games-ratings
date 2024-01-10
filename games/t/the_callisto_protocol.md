@@ -6,13 +6,13 @@ Rating: 4.22 (Ranked 949)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Outer Way | 26.00% | ~5,707 |
-| Flesh Wound | 25.00% | ~5,487 |
+| Flesh Wound | 25.00% | ~5,488 |
 | Desperate Times | 24.00% | ~5,268 |
 | Paper Jams | 22.00% | ~4,829 |
-| Get a Grip | 21.00% | ~4,609 |
+| Get a Grip | 21.00% | ~4,610 |
 | Chew 'Em Up | 20.00% | ~4,390 |
 | Reforged | 18.00% | ~3,951 |
-| Float Like A Butterfly | 17.00% | ~3,731 |
+| Float Like A Butterfly | 17.00% | ~3,732 |
 | Workplace Hazard | 16.00% | ~3,512 |
 | If the SHU Fits... | 16.00% | ~3,512 |
 | Without A Paddle | 14.00% | ~3,073 |
@@ -24,18 +24,18 @@ Rating: 4.22 (Ranked 949)
 | Terminated | 10.00% | ~2,195 |
 | What Lies Beneath | 10.00% | ~2,195 |
 | Full Circle | 10.00% | ~2,195 |
-| You Need a Gun | 9.00% | ~1,975 |
+| You Need a Gun | 9.00% | ~1,976 |
 | I Do Belong Here | 8.00% | ~1,756 |
 | Keep Fighting | 7.00% | ~691 |
-| In Striking Distance | 5.00% | ~1,097 |
-| The Commonality | 5.00% | ~1,097 |
+| In Striking Distance | 5.00% | ~1,098 |
+| The Commonality | 5.00% | ~1,098 |
 | It's Time | 5.00% | ~494 |
 | One Last Job | 3.00% | ~296 |
 | Big Spender | 2.00% | ~198 |
 | This Isn't About Escape | 2.00% | ~198 |
 | Armed to the Teeth | 1.00% | ~99 |
-| Grim Reaper | 1.00% | ~219 |
-| Mugshot | 1.00% | ~219 |
+| Grim Reaper | 1.00% | ~220 |
+| Mugshot | 1.00% | ~220 |
 | Instigator | 1.00% | ~99 |
 | Information Overload | 0.90% | ~89 |
 | Parole Denied | 0.80% | ~79 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 949)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,949 (Ranked 151)  
+Progressed: 21,950 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 82 (0.37%) (Ranked 241)
 | 2024-01-07 | 21,615 | 82 |
 | 2024-01-08 | 21,745 | 82 |
 | 2024-01-09 | 21,902 | 82 |
-| 2024-01-10 | 21,949 | 82 |
+| 2024-01-10 | 21,950 | 82 |
 ## Awards
 Max (Amazing Characters): 129  (Ranked 348)  
 Sum: 619 (Ranked 322)  

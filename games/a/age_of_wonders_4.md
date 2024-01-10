@@ -8,7 +8,7 @@ Rating: 4.62 (Ranked 379)
 | Secret Technique | 17.00% | ~1,215 |
 | Realm Estate | 15.00% | ~1,072 |
 | A Wonderful Discovery | 14.00% | ~1,000 |
-| Walls Cannot Stop Us | 13.00% | ~929 |
+| Walls Cannot Stop Us | 14.00% | ~1,000 |
 | From Friends to Family | 12.00% | ~858 |
 | Bone Peddler | 10.00% | ~715 |
 | Magical Synergy | 9.00% | ~643 |

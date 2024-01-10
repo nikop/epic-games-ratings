@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.82 (Ranked 67)  
+Rating: 4.82 (Ranked 68)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,8 +12,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | No Deaths | 8.00% | ~1,650 |
 | Abandoned Settlement | 8.00% | ~1,650 |
 | Petrified Necropolis | 8.00% | ~1,650 |
-| Overcoming Difficulty | 7.00% | ~1,443 |
-| The Marshlands | 7.00% | ~1,443 |
+| Overcoming Difficulty | 7.00% | ~1,444 |
+| The Marshlands | 7.00% | ~1,444 |
 | Coral Forest | 6.00% | ~1,237 |
 | The Scarlet Orchard | 6.00% | ~1,237 |
 | Ominous Presence | 6.00% | ~1,237 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,621 (Ranked 154)  
+Progressed: 20,623 (Ranked 154)  
 Completed: 34 (0.16%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 34 (0.16%) (Ranked 283)
 | 2024-01-07 | 20,428 | 34 |
 | 2024-01-08 | 20,508 | 34 |
 | 2024-01-09 | 20,595 | 34 |
-| 2024-01-10 | 20,621 | 34 |
+| 2024-01-10 | 20,623 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,365 (Ranked 177)  

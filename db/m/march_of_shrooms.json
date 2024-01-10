@@ -2,10 +2,10 @@
   "ID": "9240fb55fee446cf933257021f18fb15",
   "Name": "March of Shrooms",
   "ProductSlug": "march-of-shrooms-2581de",
-  "Ranking_EOS_Progress": 823,
+  "Ranking_EOS_Progress": 824,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 578,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 577,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-13T22:00:00+00:00",
     "PcReleaseDate": "2023-11-13T22:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-07T03:58:23.6544557+00:00",
-  "LastUpdate_Ratings": "2024-01-10T08:58:30.5853063+00:00",
-  "LastUpdate_Achievements": "2024-01-10T09:04:27.8822841+00:00"
+  "LastUpdate_Ratings": "2024-01-10T09:58:46.2585709+00:00",
+  "LastUpdate_Achievements": "2024-01-10T10:05:01.1789548+00:00"
 }

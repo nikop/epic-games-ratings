@@ -2,12 +2,12 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 472,
+  "Ranking_Rating": 471,
   "Ranking_Popularity": 138,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3886,9 +3886,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242708,
+  "EOS_Progressed": 242710,
   "EOS_Completed": 305,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31316,6 +31316,11 @@
       "Time": "2024-01-10T09:10:56.8454477+00:00",
       "NumProgressed": 242708,
       "NumCompleted": 305
+    },
+    {
+      "Time": "2024-01-10T10:11:21.6627679+00:00",
+      "NumProgressed": 242710,
+      "NumCompleted": 305
     }
   ],
   "TotalAchievements": 138,
@@ -31325,9 +31330,9 @@
       "ID": "ACCEPT500GIFTS",
       "SetID": "5l8oe0h",
       "Name": "Thank You, Friend",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 971
+      "UsersEstimate": 1214
     },
     {
       "ID": "ALLACHIEVEMENTS",
@@ -32430,13 +32435,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242708,
+      "Progressed": 242710,
       "Completed": 305
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4188,
+      "Progressed": 4190,
       "Completed": 424
     }
   ],
@@ -32444,8 +32449,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-09T13:57:40.165064+00:00",
-  "LastChanged_Achievements": "2024-01-10T09:10:56.8454471+00:00",
+  "LastChanged_Achievements": "2024-01-10T10:11:21.6627671+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-10T08:58:24.5623597+00:00",
-  "LastUpdate_Achievements": "2024-01-10T09:10:56.8457274+00:00"
+  "LastUpdate_Ratings": "2024-01-10T09:58:40.0738601+00:00",
+  "LastUpdate_Achievements": "2024-01-10T10:11:21.6630426+00:00"
 }

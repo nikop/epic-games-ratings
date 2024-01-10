@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 263,
-  "Ranking_EOS_Completed": 330,
+  "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -97,9 +97,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1595,
+  "EOS_Progressed": 1598,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4137,6 +4137,11 @@
       "Time": "2024-01-10T08:10:13.6389279+00:00",
       "NumProgressed": 1595,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T10:10:36.9267051+00:00",
+      "NumProgressed": 1598,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4149,7 +4154,7 @@
       "Name": "The Teleprobe",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 877
+      "UsersEstimate": 879
     },
     {
       "ID": "AchvAllMemories",
@@ -4157,7 +4162,7 @@
       "Name": "I remember everything!",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "AchvAssertive",
@@ -4165,7 +4170,7 @@
       "Name": "On her own",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "AchvBattleScore",
@@ -4173,7 +4178,7 @@
       "Name": "Fierce fight",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "AchvBombStop",
@@ -4181,7 +4186,7 @@
       "Name": "Peacemaker",
       "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "AchvBombing",
@@ -4213,7 +4218,7 @@
       "Name": "The Alliance",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "AchvDoom",
@@ -4229,7 +4234,7 @@
       "Name": "Evacuation",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "AchvInvShip",
@@ -4237,7 +4242,7 @@
       "Name": "Another giant",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "AchvKrautaAlive",
@@ -4253,7 +4258,7 @@
       "Name": "Volcanologist",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -4317,7 +4322,7 @@
       "Name": "The field base",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "AchvReachCamp",
@@ -4325,7 +4330,7 @@
       "Name": "The Camp",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1103
     },
     {
       "ID": "AchvReachCity",
@@ -4333,7 +4338,7 @@
       "Name": "The City",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "AchvReachCondor",
@@ -4341,7 +4346,7 @@
       "Name": "The Condor",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "AchvSurvivors",
@@ -4349,7 +4354,7 @@
       "Name": "Survivors",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -4357,7 +4362,7 @@
       "Name": "Flying Objects Operator",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "AchvTheEnd",
@@ -4365,7 +4370,7 @@
       "Name": "The End",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "AchvUnity",
@@ -4373,14 +4378,14 @@
       "Name": "Beyond divisions",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1595,
+      "Progressed": 1598,
       "Completed": 1
     }
   ],
@@ -4388,8 +4393,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-09T16:58:03.3059703+00:00",
-  "LastChanged_Achievements": "2024-01-10T09:10:09.22028+00:00",
+  "LastChanged_Achievements": "2024-01-10T10:10:36.9267046+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-10T08:58:16.4075749+00:00",
-  "LastUpdate_Achievements": "2024-01-10T09:10:09.2203212+00:00"
+  "LastUpdate_Ratings": "2024-01-10T09:58:31.5145919+00:00",
+  "LastUpdate_Achievements": "2024-01-10T10:10:36.9267409+00:00"
 }

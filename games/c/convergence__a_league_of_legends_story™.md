@@ -5,9 +5,9 @@ Rating: 4.69 (Ranked 236)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 46.00% | ~594 |
-| Rail Rat | 35.00% | ~452 |
-| The Mysterious Stranger | 34.00% | ~439 |
+| Time Heals All Wounds | 46.00% | ~595 |
+| Rail Rat | 35.00% | ~453 |
+| The Mysterious Stranger | 34.00% | ~440 |
 | Immaculate Aim | 29.00% | ~375 |
 | The Brass Boss | 28.00% | ~362 |
 | Time Flies | 27.00% | ~349 |
@@ -25,8 +25,8 @@ Rating: 4.69 (Ranked 236)
 | Like Clockwork | 22.00% | ~284 |
 | The Betrayer | 22.00% | ~284 |
 | Golem Chaser | 22.00% | ~284 |
-| Check Your Pulse | 20.00% | ~258 |
-| The Loose Cannon | 19.00% | ~245 |
+| Check Your Pulse | 20.00% | ~259 |
+| The Loose Cannon | 19.00% | ~246 |
 | Street Style | 18.00% | ~233 |
 | The Man Who Shattered Time | 18.00% | ~233 |
 | The Family Fortune | 18.00% | ~233 |
@@ -46,7 +46,7 @@ Rating: 4.69 (Ranked 236)
 | Corin Goes Home | 8.00% | ~103 |
 | Sartorialist | 8.00% | ~103 |
 | Entresol Explorer | 8.00% | ~103 |
-| Golem Hunter | 7.00% | ~90 |
+| Golem Hunter | 7.00% | ~91 |
 | Clovemary for Remembering | 6.00% | ~78 |
 | Hexlock for Protection | 6.00% | ~78 |
 | Rungs Was Right | 5.00% | ~65 |
@@ -59,7 +59,7 @@ Rating: 4.69 (Ranked 236)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,292 (Ranked 279)  
+Progressed: 1,293 (Ranked 279)  
 Completed: 7 (0.54%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 7 (0.54%) (Ranked 215)
 | 2024-01-07 | 1,264 | 7 |
 | 2024-01-08 | 1,278 | 7 |
 | 2024-01-09 | 1,289 | 7 |
-| 2024-01-10 | 1,292 | 7 |
+| 2024-01-10 | 1,293 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

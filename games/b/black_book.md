@@ -1,31 +1,31 @@
 # Black Book
 [Store](https://store.epicgames.com/en-US/p/black-book)  
 [View Rawdata](../../db/b/black_book.json)  
-Rating: 4.65 (Ranked 322)  
+Rating: 4.65 (Ranked 321)  
 Number of Ratings: 96  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~19,202 |
-| Student | 22.00% | ~14,567 |
-| Knower | 16.00% | ~10,594 |
-| Listener | 15.00% | ~9,932 |
-| Aspen Tree | 14.00% | ~9,270 |
-| Healer | 14.00% | ~9,270 |
-| Scientist | 12.00% | ~7,946 |
-| Soldier | 12.00% | ~7,946 |
+| Initiation | 29.00% | ~19,204 |
+| Student | 22.00% | ~14,569 |
+| Knower | 16.00% | ~10,595 |
+| Listener | 15.00% | ~9,933 |
+| Aspen Tree | 14.00% | ~9,271 |
+| Healer | 14.00% | ~9,271 |
+| Scientist | 12.00% | ~7,947 |
+| Soldier | 12.00% | ~7,947 |
 | Cow Level | 11.00% | ~7,284 |
-| Old Friend | 10.00% | ~6,621 |
-| Herbalist | 10.00% | ~6,621 |
-| Water | 10.00% | ~6,621 |
-| New Spirits | 9.00% | ~5,959 |
-| Voipel | 9.00% | ~5,959 |
-| Collector | 9.00% | ~5,959 |
-| Wolf | 9.00% | ~5,959 |
-| Black Mage | 9.00% | ~5,959 |
-| Card Player | 8.00% | ~5,297 |
-| Dead Friend | 8.00% | ~5,297 |
-| Pine Tree | 8.00% | ~5,297 |
+| Old Friend | 10.00% | ~6,622 |
+| Herbalist | 10.00% | ~6,622 |
+| Water | 10.00% | ~6,622 |
+| New Spirits | 9.00% | ~5,960 |
+| Voipel | 9.00% | ~5,960 |
+| Collector | 9.00% | ~5,960 |
+| Wolf | 9.00% | ~5,960 |
+| Black Mage | 9.00% | ~5,960 |
+| Card Player | 8.00% | ~5,298 |
+| Dead Friend | 8.00% | ~5,298 |
+| Pine Tree | 8.00% | ~5,298 |
 | Worthy | 7.00% | ~4,635 |
 | Black Book | 7.00% | ~4,635 |
 | Black Sorcerer | 7.00% | ~4,635 |
@@ -46,10 +46,10 @@ Number of Ratings: 96  (23.09.2022)
 | Righteous | 4.00% | ~2,649 |
 | Musician | 4.00% | ~2,649 |
 | Koldun | 4.00% | ~2,649 |
-| Black Sorceress | 3.00% | ~1,986 |
-| Cheater | 3.00% | ~1,986 |
-| Diplomat | 3.00% | ~1,986 |
-| White Head | 3.00% | ~1,986 |
+| Black Sorceress | 3.00% | ~1,987 |
+| Cheater | 3.00% | ~1,987 |
+| Diplomat | 3.00% | ~1,987 |
+| White Head | 3.00% | ~1,987 |
 | Revelation | 2.00% | ~1,324 |
 | Mistress of Hell | 2.00% | ~1,324 |
 | Detective | 2.00% | ~1,324 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,324 |
 | Word Master | 0.20% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,214 (Ranked 117)  
+Progressed: 66,221 (Ranked 117)  
 Completed: 69 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 69 (0.10%) (Ranked 309)
 | 2024-01-07 | 65,783 | 68 |
 | 2024-01-08 | 66,003 | 68 |
 | 2024-01-09 | 66,170 | 69 |
-| 2024-01-10 | 66,214 | 69 |
+| 2024-01-10 | 66,221 | 69 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

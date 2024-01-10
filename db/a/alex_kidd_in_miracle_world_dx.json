@@ -4,8 +4,8 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 436,
+  "EOS_Progressed": 437,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -999,6 +999,11 @@
       "Time": "2024-01-10T01:55:03.970943+00:00",
       "NumProgressed": 436,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-10T10:08:08.4444909+00:00",
+      "NumProgressed": 437,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -1066,7 +1071,7 @@
       "Name": "Assailants",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "JANKEN_DEFEATED",
@@ -1137,7 +1142,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 436,
+      "Progressed": 437,
       "Completed": 4
     }
   ],
@@ -1145,8 +1150,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2024-01-10T09:07:39.2686549+00:00",
+  "LastChanged_Achievements": "2024-01-10T10:08:08.4444907+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:23.883052+00:00",
-  "LastUpdate_Ratings": "2024-01-10T09:01:19.8109378+00:00",
-  "LastUpdate_Achievements": "2024-01-10T09:07:39.2686722+00:00"
+  "LastUpdate_Ratings": "2024-01-10T10:01:33.8229009+00:00",
+  "LastUpdate_Achievements": "2024-01-10T10:08:08.4445084+00:00"
 }

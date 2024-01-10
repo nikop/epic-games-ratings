@@ -4,8 +4,8 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 470,
+  "EOS_Progressed": 471,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -1839,6 +1839,11 @@
       "Time": "2024-01-10T09:05:08.5757363+00:00",
       "NumProgressed": 470,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-10T10:05:40.9649861+00:00",
+      "NumProgressed": 471,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1923,7 +1928,7 @@
       "Name": "Hunger",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "AC_BOSS_01",
@@ -1939,7 +1944,7 @@
       "Name": "Downfall",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "AC_BOSS_03",
@@ -1995,7 +2000,7 @@
       "Name": "Corpse",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "AC_DEATH_2",
@@ -2019,7 +2024,7 @@
       "Name": "Killer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -2033,9 +2038,9 @@
       "ID": "AC_DEATH_ENEMIES_3",
       "SetID": "16i2akc",
       "Name": "Genocide",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 45,
-      "UsersEstimate": 89
+      "UsersEstimate": 85
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -2043,7 +2048,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2091,7 +2096,7 @@
       "Name": "Schooling",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "AC_FULL_MAP",
@@ -2155,7 +2160,7 @@
       "Name": "Loss",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -2186,14 +2191,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 470,
+      "Progressed": 471,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-10T09:05:08.5757358+00:00",
+  "LastChanged_Achievements": "2024-01-10T10:05:40.9649856+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:59.4542445+00:00",
-  "LastUpdate_Ratings": "2024-01-10T09:00:45.8945399+00:00",
-  "LastUpdate_Achievements": "2024-01-10T09:05:08.5757759+00:00"
+  "LastUpdate_Ratings": "2024-01-10T10:01:00.4337117+00:00",
+  "LastUpdate_Achievements": "2024-01-10T10:05:40.9650298+00:00"
 }

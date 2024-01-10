@@ -1,29 +1,29 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 67)  
+Rating: 4.82 (Ranked 68)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,513 |
-| Life is your teacher | 5.00% | ~37,928 |
-| The Assault | 4.00% | ~30,342 |
-| Lightning Hands | 4.00% | ~30,342 |
-| The Hateful Pole Fighter | 3.00% | ~22,757 |
-| State of constant learning | 3.00% | ~22,757 |
-| Qi Gong: Essence | 3.00% | ~22,757 |
-| Old Child | 3.00% | ~22,757 |
-| A Lady's Blood in the Snow | 2.00% | ~15,171 |
-| Lady Wing Chun | 2.00% | ~15,171 |
-| Kill Nil | 2.00% | ~15,171 |
-| Stuntmaster | 2.00% | ~15,171 |
-| Street Fighting | 2.00% | ~15,171 |
-| Qi Gong: Breath | 2.00% | ~15,171 |
-| I know Kung-Fu | 2.00% | ~15,171 |
-| Path of the Prospect | 2.00% | ~15,171 |
-| Rumble in the Hangar | 2.00% | ~15,171 |
-| Diligence as a goal | 2.00% | ~1,357 |
+| The Old Grandmaster | 6.00% | ~45,515 |
+| Life is your teacher | 5.00% | ~37,929 |
+| The Assault | 4.00% | ~30,344 |
+| Lightning Hands | 4.00% | ~30,344 |
+| The Hateful Pole Fighter | 3.00% | ~22,758 |
+| State of constant learning | 3.00% | ~22,758 |
+| Qi Gong: Essence | 3.00% | ~22,758 |
+| Old Child | 3.00% | ~22,758 |
+| A Lady's Blood in the Snow | 2.00% | ~15,172 |
+| Lady Wing Chun | 2.00% | ~15,172 |
+| Kill Nil | 2.00% | ~15,172 |
+| Stuntmaster | 2.00% | ~15,172 |
+| Street Fighting | 2.00% | ~15,172 |
+| Qi Gong: Breath | 2.00% | ~15,172 |
+| I know Kung-Fu | 2.00% | ~15,172 |
+| Path of the Prospect | 2.00% | ~15,172 |
+| Rumble in the Hangar | 2.00% | ~15,172 |
+| Diligence as a goal | 2.00% | ~1,358 |
 | Furious Fists | 1.00% | ~7,586 |
 | Scareless | 1.00% | ~7,586 |
 | Dance of the Praying Mantis | 1.00% | ~7,586 |
@@ -33,11 +33,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Project Arena | 1.00% | ~679 |
 | Fight the way you practice | 0.80% | ~543 |
 | Muk Yan Master | 0.70% | ~5,310 |
-| Tiger on Fire | 0.60% | ~4,551 |
-| Source of Flying Daggers | 0.60% | ~4,551 |
-| Iron Money | 0.60% | ~4,551 |
-| Detective Story | 0.60% | ~4,551 |
-| Sword Stained With Blood | 0.60% | ~4,551 |
+| Tiger on Fire | 0.60% | ~4,552 |
+| Source of Flying Daggers | 0.60% | ~4,552 |
+| Iron Money | 0.60% | ~4,552 |
+| Detective Story | 0.60% | ~4,552 |
+| Sword Stained With Blood | 0.60% | ~4,552 |
 | Bloody Sport | 0.60% | ~407 |
 | Martial Hub | 0.60% | ~407 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,793 |
@@ -45,7 +45,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The 36th Chamber of Kung-Fu | 0.50% | ~3,793 |
 | The Pit Protector | 0.40% | ~3,034 |
 | Come Snap With Me | 0.40% | ~3,034 |
-| The best strikes are the ones we avoid | 0.40% | ~271 |
+| The best strikes are the ones we avoid | 0.40% | ~272 |
 | Drunken Fighter | 0.30% | ~2,276 |
 | Martial Artist | 0.30% | ~2,276 |
 | Knowledge Greed | 0.30% | ~2,276 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~68 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 758,557 (Ranked 26)  
+Progressed: 758,589 (Ranked 26)  
 Completed: 12,981 (1.71%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,10 +332,10 @@ Completed: 12,981 (1.71%) (Ranked 143)
 | 2024-01-07 | 756,813 | 12,976 |
 | 2024-01-08 | 757,529 | 12,979 |
 | 2024-01-09 | 758,306 | 12,980 |
-| 2024-01-10 | 758,557 | 12,981 |
+| 2024-01-10 | 758,589 | 12,981 |
 ## Awards
 Max (Great Boss Battles): 7,166  (Ranked 56)  
-Sum: 12,672 (Ranked 85)  
+Sum: 12,673 (Ranked 85)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -345,7 +345,7 @@ Diff (max vs sum): -29
 | This game has Amazing Storytelling | 617 |
 | This game has Amazing Characters | 611 |
 | This game is Highly Recommended | 607 |
-| This game has Quickly Understood Controls | 597 |
+| This game has Quickly Understood Controls | 598 |
 | This game is Extremely Fun | 585 |
 | This game has Unique Visuals | 585 |
 | This game is Relaxing | 561 |
@@ -711,3 +711,4 @@ Diff (max vs sum): -29
 | 2024-01-07 | 4.82 | - | 7,148 | 12,638 |
 | 2024-01-08 | 4.82 | - | 7,154 | 12,650 |
 | 2024-01-09 | 4.82 | - | 7,166 | 12,672 |
+| 2024-01-10 | 4.82 | - | 7,166 | 12,673 |

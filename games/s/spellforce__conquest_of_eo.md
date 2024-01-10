@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Home Sweet Home | 89.00% | ~121 |
-| Enough rooms to swing a cat | 76.00% | ~103 |
-| First to the post | 76.00% | ~103 |
+| Enough rooms to swing a cat | 77.00% | ~105 |
+| First to the post | 77.00% | ~105 |
 | A kind of Magic | 68.00% | ~92 |
 | Connected | 60.00% | ~82 |
 | Expansion | 56.00% | ~76 |
@@ -21,10 +21,10 @@
 | Redecorating | 30.00% | ~41 |
 | The Circle | 30.00% | ~41 |
 | Bad JuJu | 24.00% | ~33 |
-| Friend of Sevenkeeps | 21.00% | ~29 |
+| Friend of Sevenkeeps | 22.00% | ~30 |
 | Slave to the rhythm | 19.00% | ~26 |
 | Castle Meldec | 19.00% | ~26 |
-| Sevenkeeps Seat of Kings | 18.00% | ~24 |
+| Sevenkeeps Seat of Kings | 19.00% | ~26 |
 | Friend of Alluvyan | 15.00% | ~20 |
 | Friend of Connach | 15.00% | ~20 |
 | Friend of Gillyshire | 14.00% | ~19 |

@@ -13,8 +13,8 @@
 | Neurotrainer – power gainer! | 72.00% | ~409 |
 | Old movies enjoyer | 71.00% | ~403 |
 | Fitness professional | 70.00% | ~398 |
-| Employee of the week | 69.00% | ~392 |
-| Your own amateur gym | 65.00% | ~369 |
+| Employee of the week | 70.00% | ~398 |
+| Your own amateur gym | 66.00% | ~375 |
 | First defeat | 64.00% | ~364 |
 | Run K, run! | 64.00% | ~364 |
 | No bullying more | 62.00% | ~352 |

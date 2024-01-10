@@ -6,7 +6,7 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 4.00% | ~6,700 |
+| Imprint | 4.00% | ~6,701 |
 | The Hunt | 3.00% | ~5,025 |
 | Taste | 3.00% | ~5,025 |
 | Ravenous | 3.00% | ~5,025 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~167 |
 | Intensify | 0.10% | ~167 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 167,509 (Ranked 84)  
+Progressed: 167,514 (Ranked 84)  
 Completed: 454 (0.27%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,16 +295,16 @@ Completed: 454 (0.27%) (Ranked 260)
 | 2024-01-07 | 167,144 | 449 |
 | 2024-01-08 | 167,301 | 452 |
 | 2024-01-09 | 167,455 | 453 |
-| 2024-01-10 | 167,509 | 454 |
+| 2024-01-10 | 167,514 | 454 |
 ## Awards
 Max (Highly Recommended): 62  (Ranked 432)  
-Sum: 452 (Ranked 343)  
+Sum: 454 (Ranked 343)  
 Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 62 |
 | This game has Unique Visuals | 62 |
-| This game has Challenging Combat | 58 |
+| This game has Challenging Combat | 60 |
 | This game is Extremely Fun | 58 |
 | This game has Quickly Understood Controls | 58 |
 | This game has Amazing Storytelling | 58 |
@@ -492,3 +492,4 @@ Diff (max vs sum): 89
 | 2024-01-06 | 4.59 | - | 62 | 444 |
 | 2024-01-08 | 4.59 | - | 62 | 450 |
 | 2024-01-09 | 4.59 | - | 62 | 452 |
+| 2024-01-10 | 4.59 | - | 62 | 454 |

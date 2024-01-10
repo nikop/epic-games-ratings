@@ -2,13 +2,13 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 67,
+  "Ranking_Rating": 68,
   "Ranking_Popularity": 233,
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3881,9 +3881,9 @@
       "Count": 347
     }
   ],
-  "EOS_Progressed": 20621,
+  "EOS_Progressed": 20623,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 612,
+  "EOS_NewPlayers": 610,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19166,6 +19166,11 @@
       "Time": "2024-01-10T09:05:33.7086379+00:00",
       "NumProgressed": 20621,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-10T10:06:05.6563783+00:00",
+      "NumProgressed": 20623,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19274,7 +19279,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1444
     },
     {
       "ID": "WinImpossible",
@@ -19458,7 +19463,7 @@
       "Name": "The Marshlands",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1444
     },
     {
       "ID": "WinOnMoorlands",
@@ -19649,15 +19654,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20621,
+      "Progressed": 20623,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-10T04:58:25.2032242+00:00",
-  "LastChanged_Achievements": "2024-01-10T09:05:33.7086374+00:00",
+  "LastChanged_Achievements": "2024-01-10T10:06:05.6563777+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-10T08:58:55.039507+00:00",
-  "LastUpdate_Achievements": "2024-01-10T09:05:33.7087905+00:00"
+  "LastUpdate_Ratings": "2024-01-10T09:59:09.859557+00:00",
+  "LastUpdate_Achievements": "2024-01-10T10:06:05.6564949+00:00"
 }

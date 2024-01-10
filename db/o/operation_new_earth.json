@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -95,7 +95,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2204,
+  "EOS_Progressed": 2205,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
@@ -8500,6 +8500,11 @@
       "Time": "2024-01-09T22:06:32.8141418+00:00",
       "NumProgressed": 2204,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T10:08:26.4307405+00:00",
+      "NumProgressed": 2205,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8631,7 +8636,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -8695,7 +8700,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -8814,7 +8819,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2204,
+      "Progressed": 2205,
       "Completed": 1
     }
   ],
@@ -8822,8 +8827,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-10T09:07:57.2888567+00:00",
+  "LastChanged_Achievements": "2024-01-10T10:08:26.4307397+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:28.5639018+00:00",
-  "LastUpdate_Ratings": "2024-01-10T08:58:10.1554313+00:00",
-  "LastUpdate_Achievements": "2024-01-10T09:07:57.2889336+00:00"
+  "LastUpdate_Ratings": "2024-01-10T09:58:26.2650332+00:00",
+  "LastUpdate_Achievements": "2024-01-10T10:08:26.4308045+00:00"
 }

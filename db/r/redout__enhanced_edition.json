@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -343,7 +343,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239083,
+  "EOS_Progressed": 239084,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 497,
   "EOS_NewCompleters": 0,
@@ -28168,6 +28168,11 @@
       "Time": "2024-01-10T08:08:10.0414231+00:00",
       "NumProgressed": 239083,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-10T10:08:32.638152+00:00",
+      "NumProgressed": 239084,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -28195,7 +28200,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66943
+      "UsersEstimate": 66944
     },
     {
       "ID": "CENTAUR",
@@ -28259,7 +28264,7 @@
       "Name": "GILA",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7172
+      "UsersEstimate": 7173
     },
     {
       "ID": "GT9STRADALE",
@@ -28315,7 +28320,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78897
+      "UsersEstimate": 78898
     },
     {
       "ID": "NOBUNAGA",
@@ -28411,7 +28416,7 @@
       "Name": "TACTICIAN",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "TAKATORA",
@@ -28450,15 +28455,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 239083,
+      "Progressed": 239084,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-10T09:08:03.6323829+00:00",
+  "LastChanged_Achievements": "2024-01-10T10:08:32.6381512+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.0149602+00:00",
-  "LastUpdate_Ratings": "2024-01-10T08:59:04.9487101+00:00",
-  "LastUpdate_Achievements": "2024-01-10T09:08:03.6325414+00:00"
+  "LastUpdate_Ratings": "2024-01-10T09:59:20.1283689+00:00",
+  "LastUpdate_Achievements": "2024-01-10T10:08:32.6383562+00:00"
 }

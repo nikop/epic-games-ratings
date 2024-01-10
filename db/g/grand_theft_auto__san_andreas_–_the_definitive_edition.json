@@ -2297,10 +2297,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 1017,
       "NumberOfAwardsMax": 638
+    },
+    {
+      "Time": "2024-01-10T10:03:21.9482401+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1019,
+      "NumberOfAwardsMax": 638
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1017,
+  "NumberOfAwards": 1019,
   "NumberOfAwardsMax": 638,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2350,7 +2356,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 37
+      "Count": 39
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2365,7 +2371,7 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 19214,
+  "EOS_Progressed": 19219,
   "EOS_Completed": 75,
   "EOS_NewPlayers": 1090,
   "EOS_NewCompleters": 5,
@@ -19815,6 +19821,11 @@
       "Time": "2024-01-10T09:10:41.4679443+00:00",
       "NumProgressed": 19214,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-10T10:11:07.3444342+00:00",
+      "NumProgressed": 19219,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 35,
@@ -19826,7 +19837,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15563
+      "UsersEstimate": 15567
     },
     {
       "ID": "ACH02",
@@ -19874,7 +19885,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3651
+      "UsersEstimate": 3652
     },
     {
       "ID": "ACH08",
@@ -19882,7 +19893,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9607
+      "UsersEstimate": 9610
     },
     {
       "ID": "ACH09",
@@ -19890,7 +19901,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "ACH10",
@@ -19906,7 +19917,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "ACH12",
@@ -19930,7 +19941,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "ACH15",
@@ -19946,7 +19957,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3266
+      "UsersEstimate": 3267
     },
     {
       "ID": "ACH17",
@@ -19954,7 +19965,7 @@
       "Name": "What the City Needs",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "ACH18",
@@ -19994,7 +20005,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2690
+      "UsersEstimate": 2691
     },
     {
       "ID": "ACH23",
@@ -20002,7 +20013,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4804
+      "UsersEstimate": 4805
     },
     {
       "ID": "ACH24",
@@ -20042,7 +20053,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "ACH29",
@@ -20050,7 +20061,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 2690
+      "UsersEstimate": 2691
     },
     {
       "ID": "ACH30",
@@ -20082,7 +20093,7 @@
       "Name": "Remastered",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH34",
@@ -20105,16 +20116,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19214,
+      "Progressed": 19219,
       "Completed": 75
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-10T09:02:47.0184495+00:00",
-  "LastChanged_Achievements": "2024-01-10T09:10:41.4679437+00:00",
+  "LastChanged": "2024-01-10T10:03:21.9482399+00:00",
+  "LastChanged_Achievements": "2024-01-10T10:11:07.344434+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-10T09:02:47.0184499+00:00",
-  "LastUpdate_Achievements": "2024-01-10T09:10:41.4680387+00:00"
+  "LastUpdate_Ratings": "2024-01-10T10:03:21.9482403+00:00",
+  "LastUpdate_Achievements": "2024-01-10T10:11:07.3445672+00:00"
 }

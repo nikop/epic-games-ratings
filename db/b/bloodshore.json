@@ -4,8 +4,8 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 275,
+  "EOS_Progressed": 276,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.18,
+  "EOS_Completed_Percentage": 2.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -725,6 +725,11 @@
       "Time": "2024-01-09T19:07:33.1612803+00:00",
       "NumProgressed": 275,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-10T10:08:20.996794+00:00",
+      "NumProgressed": 276,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 17,
@@ -734,9 +739,9 @@
       "ID": "bromance",
       "SetID": "84ad177",
       "Name": "Bromance",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 83
     },
     {
       "ID": "comedy_killer",
@@ -752,7 +757,7 @@
       "Name": "Congratulations, you are a sadist",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "deathlooper",
@@ -768,7 +773,7 @@
       "Name": "Good job, nerd",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "leader_you_are_not",
@@ -800,7 +805,7 @@
       "Name": "Mikey Lizard",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "mission_complete",
@@ -808,15 +813,15 @@
       "Name": "Mission Complete",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 143
+      "UsersEstimate": 141
     },
     {
       "ID": "superstar_crossed_lovers",
@@ -864,14 +869,14 @@
       "Name": "I used to think I was indecisive...",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 275,
+      "Progressed": 276,
       "Completed": 6
     }
   ],
@@ -879,8 +884,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2024-01-10T09:07:52.0447826+00:00",
+  "LastChanged_Achievements": "2024-01-10T10:08:20.9967937+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.9728945+00:00",
-  "LastUpdate_Ratings": "2024-01-10T09:03:38.3679064+00:00",
-  "LastUpdate_Achievements": "2024-01-10T09:07:52.0448308+00:00"
+  "LastUpdate_Ratings": "2024-01-10T10:04:11.6943081+00:00",
+  "LastUpdate_Achievements": "2024-01-10T10:08:20.9968058+00:00"
 }

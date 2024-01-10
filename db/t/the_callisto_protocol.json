@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2147,9 +2147,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 21949,
+  "EOS_Progressed": 21950,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1220,
+  "EOS_NewPlayers": 1216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13317,6 +13317,11 @@
       "Time": "2024-01-10T09:10:11.283327+00:00",
       "NumProgressed": 21949,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-10T10:10:38.8186064+00:00",
+      "NumProgressed": 21950,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13352,7 +13357,7 @@
       "Name": "You Need a Gun",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1975
+      "UsersEstimate": 1976
     },
     {
       "ID": "DISARM_ENEMY",
@@ -13360,7 +13365,7 @@
       "Name": "Flesh Wound",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5487
+      "UsersEstimate": 5488
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -13368,7 +13373,7 @@
       "Name": "Grim Reaper",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -13432,7 +13437,7 @@
       "Name": "Get a Grip",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 4609
+      "UsersEstimate": 4610
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -13440,7 +13445,7 @@
       "Name": "In Striking Distance",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "KILL_2HEAD",
@@ -13480,7 +13485,7 @@
       "Name": "The Commonality",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -13488,7 +13493,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3731
+      "UsersEstimate": 3732
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -13512,7 +13517,7 @@
       "Name": "Mugshot",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -13703,13 +13708,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 21949,
+      "Progressed": 21950,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 9875,
+      "Progressed": 9876,
       "Completed": 29
     }
   ],
@@ -13717,8 +13722,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-09T23:03:39.0510048+00:00",
-  "LastChanged_Achievements": "2024-01-10T09:10:11.2833265+00:00",
+  "LastChanged_Achievements": "2024-01-10T10:10:38.8186058+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-10T09:03:37.3994271+00:00",
-  "LastUpdate_Achievements": "2024-01-10T09:10:11.2833986+00:00"
+  "LastUpdate_Ratings": "2024-01-10T10:04:10.8753935+00:00",
+  "LastUpdate_Achievements": "2024-01-10T10:10:38.8186968+00:00"
 }
