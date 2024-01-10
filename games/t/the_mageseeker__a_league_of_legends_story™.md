@@ -43,8 +43,8 @@ Rating: 4.77 (Ranked 116)
 | The Central Headquarters | 17.00% | ~578 |
 | Meltridge | 16.00% | ~544 |
 | Cloven Dell Headquarters | 16.00% | ~544 |
+| I smell fear | 15.00% | ~510 |
 | Whispers in the Woods IV | 14.00% | ~476 |
-| I smell fear | 14.00% | ~476 |
 | The end of the experiments | 14.00% | ~476 |
 | The Great City of Demacia | 14.00% | ~476 |
 | Call it 'redistribution of magic | 14.00% | ~476 |

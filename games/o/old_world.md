@@ -10,6 +10,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Architect | 2.00% | ~327 |
 | Explorer | 2.00% | ~327 |
 | Intrepid | 2.00% | ~327 |
+| Mason | 2.00% | ~327 |
 | Settler | 2.00% | ~327 |
 | Strong | 2.00% | ~327 |
 | Friendly Family | 2.00% | ~327 |
@@ -25,7 +26,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 1.00% | ~163 |
 | Learned | 1.00% | ~163 |
 | Magnificent | 1.00% | ~163 |
-| Mason | 1.00% | ~163 |
 | Noble | 1.00% | ~163 |
 | Pioneer | 1.00% | ~163 |
 | Warrior | 1.00% | ~163 |
@@ -46,12 +46,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 1.00% | ~163 |
 | Trade Caravan | 1.00% | ~163 |
 | Great | 0.90% | ~147 |
+| Wise | 0.90% | ~147 |
 | Able Difficulty | 0.90% | ~147 |
 | Apadana | 0.90% | ~147 |
 | Learn to Play 2 | 0.90% | ~147 |
 | Carthaginian Paganism | 0.90% | ~147 |
 | Regicide | 0.80% | ~131 |
-| Wise | 0.80% | ~131 |
 | Furious Family | 0.80% | ~131 |
 | Acropolis | 0.80% | ~131 |
 | Musaeum | 0.80% | ~131 |
@@ -75,6 +75,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 0.50% | ~82 |
 | Good Difficulty | 0.50% | ~82 |
 | Champions | 0.50% | ~82 |
+| Landowners | 0.50% | ~82 |
 | Patrons | 0.50% | ~82 |
 | Statesmen | 0.50% | ~82 |
 | Temple of Solomon | 0.50% | ~82 |
@@ -88,7 +89,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.40% | ~65 |
 | Subjugator | 0.40% | ~65 |
 | Victorious | 0.40% | ~65 |
-| Landowners | 0.40% | ~65 |
 | Riders | 0.40% | ~65 |
 | Traders | 0.40% | ~65 |
 | Hittite Iron | 0.40% | ~65 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,345 (Ranked 169)  
+Progressed: 16,347 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -630,7 +630,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
-| 2024-01-10 | 16,345 | 5 |
+| 2024-01-10 | 16,347 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,919 (Ranked 224)  

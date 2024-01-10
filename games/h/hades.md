@@ -6,27 +6,27 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 88.00% | ~636,854 |
-| Escaped Asphodel | 79.00% | ~571,721 |
-| Arms Collector | 70.00% | ~506,589 |
-| Friends in High Places | 67.00% | ~484,878 |
-| Escaped Elysium | 65.00% | ~470,404 |
-| Chthonic Colleagues | 62.00% | ~448,693 |
-| Is There No Escape? | 52.00% | ~376,323 |
-| Death Dealer | 45.00% | ~325,664 |
-| Skelly Slayer | 42.00% | ~303,953 |
-| Well Stocked | 40.00% | ~289,479 |
-| Back to Work | 38.00% | ~275,005 |
-| Day-or-Night Trader | 37.00% | ~267,768 |
-| Blessed by the Gods | 37.00% | ~267,768 |
-| Urge to Sing | 36.00% | ~260,531 |
-| Blood Bound | 35.00% | ~253,294 |
-| Three-Headed Boy | 31.00% | ~224,346 |
-| River Denizens | 28.00% | ~202,635 |
-| Grown Close | 28.00% | ~202,635 |
-| Home Makeover | 27.00% | ~195,398 |
-| Had to Happen | 25.00% | ~180,924 |
-| The Family Secret | 25.00% | ~180,924 |
+| Escaped Tartarus | 88.00% | ~636,858 |
+| Escaped Asphodel | 79.00% | ~571,725 |
+| Arms Collector | 70.00% | ~506,591 |
+| Friends in High Places | 67.00% | ~484,880 |
+| Escaped Elysium | 65.00% | ~470,406 |
+| Chthonic Colleagues | 62.00% | ~448,695 |
+| Is There No Escape? | 52.00% | ~376,325 |
+| Death Dealer | 45.00% | ~325,666 |
+| Skelly Slayer | 42.00% | ~303,955 |
+| Well Stocked | 40.00% | ~289,481 |
+| Back to Work | 38.00% | ~275,007 |
+| Day-or-Night Trader | 37.00% | ~267,770 |
+| Blessed by the Gods | 37.00% | ~267,770 |
+| Urge to Sing | 36.00% | ~260,533 |
+| Blood Bound | 35.00% | ~253,296 |
+| Three-Headed Boy | 31.00% | ~224,348 |
+| River Denizens | 28.00% | ~202,637 |
+| Grown Close | 28.00% | ~202,637 |
+| Home Makeover | 27.00% | ~195,400 |
+| Had to Happen | 25.00% | ~180,926 |
+| The Family Secret | 25.00% | ~180,926 |
 | Tools of the Architect | 23.00% | ~166,451 |
 | Master of Arms | 23.00% | ~166,451 |
 | To Charon's Credit | 22.00% | ~159,214 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,948 |
 | Friends Forever | 4.00% | ~28,948 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 723,698 (Ranked 28)  
+Progressed: 723,702 (Ranked 28)  
 Completed: 6,601 (0.91%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 6,601 (0.91%) (Ranked 181)
 | 2024-01-07 | 723,291 | 6,597 |
 | 2024-01-08 | 723,443 | 6,599 |
 | 2024-01-09 | 723,627 | 6,601 |
-| 2024-01-10 | 723,698 | 6,601 |
+| 2024-01-10 | 723,702 | 6,601 |
 ## Awards
 Max (Character Customization): 3,526  (Ranked 96)  
 Sum: 8,601 (Ranked 106)  

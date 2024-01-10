@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2022-09-22T12:00:00+00:00",
@@ -1363,9 +1363,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 3642,
+  "EOS_Progressed": 3643,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7858,6 +7858,11 @@
       "Time": "2024-01-10T08:05:31.9163057+00:00",
       "NumProgressed": 3642,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-10T12:05:30.7516358+00:00",
+      "NumProgressed": 3643,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -7869,7 +7874,7 @@
       "Name": "Backpacker",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "ACH_BING-BONG",
@@ -7973,7 +7978,7 @@
       "Name": "Go with the Flow",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -8021,7 +8026,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -8245,22 +8250,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 2294
+      "UsersEstimate": 2295
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3642,
+      "Progressed": 3643,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2024-01-07T05:01:33.5374268+00:00",
-  "LastChanged_Achievements": "2024-01-10T11:05:38.6366664+00:00",
+  "LastChanged_Achievements": "2024-01-10T12:05:30.7516357+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:55.5577816+00:00",
-  "LastUpdate_Ratings": "2024-01-10T11:03:33.480104+00:00",
-  "LastUpdate_Achievements": "2024-01-10T11:05:38.6367331+00:00"
+  "LastUpdate_Ratings": "2024-01-10T12:03:12.6159792+00:00",
+  "LastUpdate_Achievements": "2024-01-10T12:05:30.7516933+00:00"
 }

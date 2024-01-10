@@ -15,9 +15,9 @@ Rating: 4.21 (Ranked 954)
 | Your wounds… They are healing so fast! | 1.00% | ~3,436 |
 | Back to your senses | 0.80% | ~2,749 |
 | Bring it on! | 0.80% | ~2,749 |
-| They tricked me | 0.70% | ~2,405 |
-| We need to talk | 0.70% | ~2,405 |
-| They won't last long | 0.70% | ~2,405 |
+| They tricked me | 0.70% | ~2,406 |
+| We need to talk | 0.70% | ~2,406 |
+| They won't last long | 0.70% | ~2,406 |
 | I feel drawn to it | 0.60% | ~2,062 |
 | Here to stay | 0.60% | ~2,062 |
 | Counting on you | 0.50% | ~1,718 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 954)
 | Something... unnatural | 0.10% | ~344 |
 | We strike as one | 0.10% | ~344 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 343,632 (Ranked 59)  
+Progressed: 343,643 (Ranked 59)  
 Completed: 7 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 7 (0.00%) (Ranked 395)
 | 2024-01-07 | 342,630 | 7 |
 | 2024-01-08 | 343,058 | 7 |
 | 2024-01-09 | 343,454 | 7 |
-| 2024-01-10 | 343,632 | 7 |
+| 2024-01-10 | 343,643 | 7 |
 ## Awards
 Max (Great Boss Battles): 79  (Ranked 404)  
 Sum: 79 (Ranked 482)  

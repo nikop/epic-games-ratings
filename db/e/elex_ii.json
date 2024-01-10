@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1550,9 +1550,9 @@
       "ID": "20TRADER",
       "SetID": "a1angca",
       "Name": "Peddler",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "20WEAPONSCRAFTED",
@@ -1894,8 +1894,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-10T11:07:00.7357955+00:00",
+  "LastChanged_Achievements": "2024-01-10T12:06:58.2388787+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:22.4582393+00:00",
-  "LastUpdate_Ratings": "2024-01-10T11:00:37.7836938+00:00",
-  "LastUpdate_Achievements": "2024-01-10T11:07:00.7358391+00:00"
+  "LastUpdate_Ratings": "2024-01-10T12:00:33.3511697+00:00",
+  "LastUpdate_Achievements": "2024-01-10T12:06:58.2389081+00:00"
 }

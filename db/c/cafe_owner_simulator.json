@@ -4,8 +4,8 @@
   "ProductSlug": "cafe-owner-simulator-749e0f",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
     "PcReleaseDate": "2022-12-05T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1083,
+  "EOS_Progressed": 1086,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3341,6 +3341,11 @@
       "Time": "2024-01-10T10:11:02.554501+00:00",
       "NumProgressed": 1083,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T12:10:37.9540831+00:00",
+      "NumProgressed": 1086,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -3352,7 +3357,7 @@
       "Name": "ADVANCED",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "BUSINESS_OWNER",
@@ -3360,7 +3365,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1053
     },
     {
       "ID": "CHIEF",
@@ -3368,7 +3373,7 @@
       "Name": "CHIEF",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "CLEANER",
@@ -3376,7 +3381,7 @@
       "Name": "CLEANER",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1010
     },
     {
       "ID": "DEBTOR",
@@ -3384,7 +3389,7 @@
       "Name": "DEBTOR",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "FIREFIGHTER",
@@ -3392,7 +3397,7 @@
       "Name": "FIREFIGHTER",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 617
+      "UsersEstimate": 619
     },
     {
       "ID": "FIRST_100K",
@@ -3416,7 +3421,7 @@
       "Name": "OH NO, HE\u0027S LEAVING!",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 845
+      "UsersEstimate": 847
     },
     {
       "ID": "INTRODUCTION",
@@ -3456,14 +3461,14 @@
       "Name": "YETTI",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 1083,
+      "Progressed": 1086,
       "Completed": 0
     }
   ],
@@ -3471,8 +3476,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2024-01-10T11:10:50.8675076+00:00",
+  "LastChanged_Achievements": "2024-01-10T12:10:37.9540829+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:43.5506852+00:00",
-  "LastUpdate_Ratings": "2024-01-10T11:00:16.2821611+00:00",
-  "LastUpdate_Achievements": "2024-01-10T11:10:50.8675398+00:00"
+  "LastUpdate_Ratings": "2024-01-10T12:00:08.0930575+00:00",
+  "LastUpdate_Achievements": "2024-01-10T12:10:37.9541061+00:00"
 }

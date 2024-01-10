@@ -1,37 +1,37 @@
 # Spirit of the North
 [Store](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)  
 [View Rawdata](../../db/s/spirit_of_the_north.json)  
-Rating: 4.36 (Ranked 819)  
+Rating: 4.36 (Ranked 818)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 69.00% | ~54,954 |
-| INFUSED WITH LIGHT | 53.00% | ~42,211 |
-| FOXIN' AROUND | 29.00% | ~23,096 |
-| FETCH | 28.00% | ~22,300 |
-| BLOOMS OF LIGHT | 26.00% | ~20,707 |
-| AWAKEN | 22.00% | ~17,521 |
-| BEST FRIENDS | 22.00% | ~17,521 |
-| SPIRIT BARK | 22.00% | ~17,521 |
-| ERADICATE | 21.00% | ~16,725 |
-| GARDEN OF LIGHT | 18.00% | ~14,336 |
-| SPIRIT FORM | 17.00% | ~13,539 |
-| UPROOTING DARKNESS | 16.00% | ~12,743 |
-| WRITTEN IN STONE | 16.00% | ~12,743 |
-| WEIGHTLESS | 12.00% | ~9,557 |
+| A GUARDIAN FORGOTTEN | 69.00% | ~54,958 |
+| INFUSED WITH LIGHT | 53.00% | ~42,214 |
+| FOXIN' AROUND | 29.00% | ~23,098 |
+| FETCH | 28.00% | ~22,302 |
+| BLOOMS OF LIGHT | 26.00% | ~20,709 |
+| AWAKEN | 22.00% | ~17,523 |
+| BEST FRIENDS | 22.00% | ~17,523 |
+| SPIRIT BARK | 22.00% | ~17,523 |
+| ERADICATE | 21.00% | ~16,726 |
+| GARDEN OF LIGHT | 18.00% | ~14,337 |
+| SPIRIT FORM | 17.00% | ~13,540 |
+| UPROOTING DARKNESS | 16.00% | ~12,744 |
+| WRITTEN IN STONE | 16.00% | ~12,744 |
+| WEIGHTLESS | 12.00% | ~9,558 |
 | SPIRIT DASH | 11.00% | ~8,761 |
 | OLD COMPANION | 9.00% | ~7,168 |
 | PLAGUE DOCTOR | 9.00% | ~7,168 |
-| MATCH MAKER | 8.00% | ~6,371 |
-| NORTHERN LIGHTS | 8.00% | ~6,371 |
-| SPIRITED AWAY | 8.00% | ~6,371 |
+| MATCH MAKER | 8.00% | ~6,372 |
+| NORTHERN LIGHTS | 8.00% | ~6,372 |
+| SPIRITED AWAY | 8.00% | ~6,372 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~3,186 |
 | ANCIENT HISTORY | 3.00% | ~2,389 |
 | NONE FORGOTTEN | 2.00% | ~1,593 |
 | KINDRED SPIRITS | 0.60% | ~478 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,643 (Ranked 111)  
+Progressed: 79,649 (Ranked 111)  
 Completed: 432 (0.54%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 432 (0.54%) (Ranked 215)
 | 2024-01-07 | 79,429 | 431 |
 | 2024-01-08 | 79,536 | 431 |
 | 2024-01-09 | 79,626 | 431 |
-| 2024-01-10 | 79,643 | 432 |
+| 2024-01-10 | 79,649 | 432 |
 ## Awards
 Max (Extremely Fun): 27  (Ranked 540)  
 Sum: 116 (Ranked 459)  

@@ -16,14 +16,15 @@
 | Equivalent Exchange | 4.00% | ~2 |
 | Danger | 4.00% | ~2 |
 | Column Crusher | 2.00% | ~1 |
+| Rebellious Servant | 2.00% | ~1 |
 | A Twist of Fate | 2.00% | ~1 |
 | Strength | 2.00% | ~1 |
 | Eviction | 2.00% | ~1 |
+| For Justice | 2.00% | ~1 |
 | Rabbit Hunter | 2.00% | ~1 |
 | Breach of Contract | 2.00% | ~1 |
 | My Turn | 0.00% | ~0 |
 | Armor Annihilator | 0.00% | ~0 |
-| Rebellious Servant | 0.00% | ~0 |
 | Hermit | 0.00% | ~0 |
 | Tower | 0.00% | ~0 |
 | No Mercy | 0.00% | ~0 |
@@ -31,7 +32,6 @@
 | Criminal Investigator | 0.00% | ~0 |
 | Elite Scholar | 0.00% | ~0 |
 | Conqueror of the Devil Blade | 0.00% | ~0 |
-| For Justice | 0.00% | ~0 |
 | Astral Envoy | 0.00% | ~0 |
 | The End of Fate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

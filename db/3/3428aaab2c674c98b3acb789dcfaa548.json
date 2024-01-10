@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 38,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2010-10-19T11:26:00+00:00",
@@ -10161,18 +10161,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 20674,
       "NumberOfAwardsMax": 6932
+    },
+    {
+      "Time": "2024-01-10T11:59:29.3367898+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 20709,
+      "NumberOfAwardsMax": 6967
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20674,
-  "NumberOfAwardsMax": 6932,
+  "NumberOfAwards": 20709,
+  "NumberOfAwardsMax": 6967,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 6932
+      "Count": 6967
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -10241,9 +10247,9 @@
       "Count": 1574
     }
   ],
-  "EOS_Progressed": 886060,
+  "EOS_Progressed": 886074,
   "EOS_Completed": 242,
-  "EOS_NewPlayers": 5960,
+  "EOS_NewPlayers": 5945,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -37331,6 +37337,11 @@
       "Time": "2024-01-10T11:10:17.7927748+00:00",
       "NumProgressed": 886060,
       "NumCompleted": 242
+    },
+    {
+      "Time": "2024-01-10T12:10:02.0308183+00:00",
+      "NumProgressed": 886074,
+      "NumCompleted": 242
     }
   ],
   "TotalAchievements": 75,
@@ -37342,7 +37353,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 239236
+      "UsersEstimate": 239240
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -37478,7 +37489,7 @@
       "Name": "Eureka!",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7088
+      "UsersEstimate": 7089
     },
     {
       "ID": "ACHIEVEMENT_FOR_THE_REPUBLIC",
@@ -37486,7 +37497,7 @@
       "Name": "For the Republic",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 7088
+      "UsersEstimate": 7089
     },
     {
       "ID": "ACHIEVEMENT_GI_BLUES",
@@ -37494,7 +37505,7 @@
       "Name": "G.I. Blues",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 35442
+      "UsersEstimate": 35443
     },
     {
       "ID": "ACHIEVEMENT_GLOBE_TROTTER",
@@ -37550,7 +37561,7 @@
       "Name": "Jury Rigger",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35442
+      "UsersEstimate": 35443
     },
     {
       "ID": "ACHIEVEMENT_KNOW_WHEN_TO_FOLD_EM",
@@ -37566,7 +37577,7 @@
       "Name": "Lead Dealer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 44303
+      "UsersEstimate": 44304
     },
     {
       "ID": "ACHIEVEMENT_LITTLE_WHEEL",
@@ -37662,7 +37673,7 @@
       "Name": "No Tumbler Fumbler",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 44303
+      "UsersEstimate": 44304
     },
     {
       "ID": "ACHIEVEMENT_OLD_TYME_BRAWLER",
@@ -37702,7 +37713,7 @@
       "Name": "Outstanding Orator",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35442
+      "UsersEstimate": 35443
     },
     {
       "ID": "ACHIEVEMENT_O_DAUGHER_OF_BABYLON",
@@ -37750,7 +37761,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 44303
+      "UsersEstimate": 44304
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -37766,7 +37777,7 @@
       "Name": "Safety Deposit Box",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 6202
+      "UsersEstimate": 6203
     },
     {
       "ID": "ACHIEVEMENT_SIERRA_SOUVENIR_AFICIONADO",
@@ -37806,7 +37817,7 @@
       "Name": "That Lucky Old Sun",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 35442
+      "UsersEstimate": 35443
     },
     {
       "ID": "ACHIEVEMENT_THEY_WENT_THAT_A_WAY",
@@ -37814,7 +37825,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 62024
+      "UsersEstimate": 62025
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -37862,7 +37873,7 @@
       "Name": "Up and Comer",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 44303
+      "UsersEstimate": 44304
     },
     {
       "ID": "ACHIEVEMENT_UP_TO_THE_CHALLENGE",
@@ -37886,7 +37897,7 @@
       "Name": "Volare!",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 35442
+      "UsersEstimate": 35443
     },
     {
       "ID": "ACHIEVEMENT_WALKER_OF_THE_MOJAVE",
@@ -37894,7 +37905,7 @@
       "Name": "Walker of the Mojave",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 44303
+      "UsersEstimate": 44304
     },
     {
       "ID": "ACHIEVEMENT_WARHEAD_HUNTER",
@@ -37934,29 +37945,29 @@
       "Name": "You Run Barter Town",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 44303
+      "UsersEstimate": 44304
     }
   ],
   "AchievementSets": [
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 886060,
+      "Progressed": 886074,
       "Completed": 289
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 886060,
+      "Progressed": 886074,
       "Completed": 242
     }
   ],
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2024-01-10T07:59:50.9895583+00:00",
-  "LastChanged_Achievements": "2024-01-10T11:10:17.7927745+00:00",
+  "LastChanged": "2024-01-10T11:59:29.3367896+00:00",
+  "LastChanged_Achievements": "2024-01-10T12:10:02.0308181+00:00",
   "LastUpdate_AppInfo": "2024-01-05T13:01:18.2085277+00:00",
-  "LastUpdate_Ratings": "2024-01-10T10:59:41.2722197+00:00",
-  "LastUpdate_Achievements": "2024-01-10T11:10:17.7929523+00:00"
+  "LastUpdate_Ratings": "2024-01-10T11:59:29.3367902+00:00",
+  "LastUpdate_Achievements": "2024-01-10T12:10:02.0309779+00:00"
 }

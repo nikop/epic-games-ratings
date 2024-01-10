@@ -6,13 +6,13 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~480,360 |
-| Apprentice | 58.00% | ~386,956 |
+| The Fool | 72.00% | ~480,361 |
+| Apprentice | 58.00% | ~386,957 |
 | Close Shave | 25.00% | ~166,792 |
-| Mercenary | 23.00% | ~153,448 |
-| Ninja | 23.00% | ~153,448 |
-| Northern Scourge | 17.00% | ~113,418 |
-| Thief Bane | 14.00% | ~93,403 |
+| Mercenary | 23.00% | ~153,449 |
+| Ninja | 23.00% | ~153,449 |
+| Northern Scourge | 17.00% | ~113,419 |
+| Thief Bane | 14.00% | ~93,404 |
 | Master of Arms | 12.00% | ~80,060 |
 | Gambler | 10.00% | ~66,717 |
 | Dice Master | 10.00% | ~66,717 |
@@ -39,7 +39,7 @@ Number of Ratings: 780  (23.09.2022)
 | Cursed Soul | 1.00% | ~6,672 |
 | Champion | 1.00% | ~6,672 |
 | Final Death | 1.00% | ~6,672 |
-| Thomas' Bane | 0.90% | ~6,004 |
+| Thomas' Bane | 0.90% | ~6,005 |
 | Ally | 0.80% | ~5,337 |
 | Gamester | 0.70% | ~4,670 |
 | Hero | 0.60% | ~4,003 |
@@ -47,7 +47,7 @@ Number of Ratings: 780  (23.09.2022)
 | Dungeon Master | 0.50% | ~3,336 |
 | Pilgrim | 0.40% | ~2,669 |
 | Smiths Honour | 0.40% | ~2,669 |
-| Peaceful Coast | 0.30% | ~2,001 |
+| Peaceful Coast | 0.30% | ~2,002 |
 | Money Bags | 0.20% | ~1,334 |
 | Grifter | 0.10% | ~667 |
 | Unburdened | 0.10% | ~667 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~667 |
 | Blood Pact | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667,166 (Ranked 31)  
+Progressed: 667,168 (Ranked 31)  
 Completed: 174 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,11 +320,11 @@ Completed: 174 (0.03%) (Ranked 354)
 | 2024-01-07 | 667,043 | 174 |
 | 2024-01-08 | 667,098 | 174 |
 | 2024-01-09 | 667,143 | 174 |
-| 2024-01-10 | 667,166 | 174 |
+| 2024-01-10 | 667,168 | 174 |
 ## Awards
-Max (Amazing Storytelling): 36  (Ranked 498)  
+Max (Amazing Storytelling): 36  (Ranked 499)  
 Sum: 196 (Ranked 419)  
-Diff (max vs sum): 79  
+Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |

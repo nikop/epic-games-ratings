@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 471,
+  "EOS_Progressed": 472,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -1844,6 +1844,11 @@
       "Time": "2024-01-10T10:05:40.9649861+00:00",
       "NumProgressed": 471,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-10T12:04:57.4299119+00:00",
+      "NumProgressed": 472,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1912,7 +1917,7 @@
       "Name": "Gambler",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -1926,9 +1931,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 241
     },
     {
       "ID": "AC_BOSS_01",
@@ -1968,7 +1973,7 @@
       "Name": "Pack",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "AC_COMBO_2",
@@ -2048,7 +2053,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2056,15 +2061,15 @@
       "Name": "Journey",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 45,
-      "UsersEstimate": 127
+      "UsersEstimate": 123
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -2080,7 +2085,7 @@
       "Name": "Creation",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "AC_FLASHBACK_02",
@@ -2191,14 +2196,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 471,
+      "Progressed": 472,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-10T11:05:07.8307695+00:00",
+  "LastChanged_Achievements": "2024-01-10T12:04:57.4299116+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:59.4542445+00:00",
-  "LastUpdate_Ratings": "2024-01-10T11:00:17.9319879+00:00",
-  "LastUpdate_Achievements": "2024-01-10T11:05:07.8308431+00:00"
+  "LastUpdate_Ratings": "2024-01-10T12:00:10.8927084+00:00",
+  "LastUpdate_Achievements": "2024-01-10T12:04:57.4299481+00:00"
 }

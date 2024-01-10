@@ -4,11 +4,11 @@
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 236,
   "Ranking_Popularity": 523,
-  "Ranking_PopularitySum": 398,
+  "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -456,9 +456,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1117,
+  "EOS_Progressed": 1118,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3891,6 +3891,11 @@
       "Time": "2024-01-10T11:10:10.7217864+00:00",
       "NumProgressed": 1117,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T12:09:54.5032066+00:00",
+      "NumProgressed": 1118,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4181,9 +4186,9 @@
       "ID": "SorcerousSpree",
       "SetID": "71c0n9i",
       "Name": "Sorcerous Spree",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 89
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -4334,15 +4339,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1117,
+      "Progressed": 1118,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-08T22:01:52.5110389+00:00",
-  "LastChanged_Achievements": "2024-01-10T11:10:10.7217861+00:00",
+  "LastChanged_Achievements": "2024-01-10T12:09:54.5032063+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-10T10:58:07.0106005+00:00",
-  "LastUpdate_Achievements": "2024-01-10T11:10:10.7218351+00:00"
+  "LastUpdate_Ratings": "2024-01-10T11:57:46.6404894+00:00",
+  "LastUpdate_Achievements": "2024-01-10T12:09:54.5032601+00:00"
 }

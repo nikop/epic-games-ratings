@@ -6,8 +6,8 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 267,
-  "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_Completed": 126,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1505,
+  "EOS_Progressed": 1506,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.46,
   "EosHistory": [
@@ -5186,6 +5186,11 @@
       "Time": "2024-01-10T09:07:42.8809667+00:00",
       "NumProgressed": 1505,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-10T12:06:55.1236815+00:00",
+      "NumProgressed": 1506,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5198,7 +5203,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -5206,7 +5211,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "_03_FinishAct1",
@@ -5214,7 +5219,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -5238,7 +5243,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "_07_FinishAct3",
@@ -5262,7 +5267,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "_10_Completion_30",
@@ -5286,7 +5291,7 @@
       "Name": "Privateer",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "_13_Completion_60",
@@ -5366,7 +5371,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -5374,7 +5379,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -5405,7 +5410,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1505,
+      "Progressed": 1506,
       "Completed": 37
     }
   ],
@@ -5413,8 +5418,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-09T20:59:58.0673284+00:00",
-  "LastChanged_Achievements": "2024-01-10T11:06:57.7705717+00:00",
+  "LastChanged_Achievements": "2024-01-10T12:06:55.1236812+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.9098347+00:00",
-  "LastUpdate_Ratings": "2024-01-10T11:00:57.9826935+00:00",
-  "LastUpdate_Achievements": "2024-01-10T11:06:57.7706152+00:00"
+  "LastUpdate_Ratings": "2024-01-10T12:00:55.5795967+00:00",
+  "LastUpdate_Achievements": "2024-01-10T12:06:55.123715+00:00"
 }

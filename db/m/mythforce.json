@@ -3,11 +3,11 @@
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 666,
-  "Ranking_Popularity": 498,
+  "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -854,9 +854,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6240,
+  "EOS_Progressed": 6242,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -12949,6 +12949,11 @@
       "Time": "2024-01-10T08:07:21.5419425+00:00",
       "NumProgressed": 6240,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-10T12:06:56.9080828+00:00",
+      "NumProgressed": 6242,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12961,7 +12966,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -13025,7 +13030,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -13041,7 +13046,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -13049,7 +13054,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1622
+      "UsersEstimate": 1623
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -13057,7 +13062,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -13073,7 +13078,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -13097,7 +13102,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1622
+      "UsersEstimate": 1623
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -13144,15 +13149,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6240,
+      "Progressed": 6242,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-10T11:06:59.5451171+00:00",
+  "LastChanged_Achievements": "2024-01-10T12:06:56.9080824+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-10T11:03:35.8362103+00:00",
-  "LastUpdate_Achievements": "2024-01-10T11:06:59.545179+00:00"
+  "LastUpdate_Ratings": "2024-01-10T12:03:15.3395422+00:00",
+  "LastUpdate_Achievements": "2024-01-10T12:06:56.9081885+00:00"
 }

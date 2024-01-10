@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -313,7 +313,7 @@
   ],
   "EOS_Progressed": 10930,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1160,
+  "EOS_NewPlayers": 1156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4465,9 +4465,9 @@
       "ID": "15_Pentakill",
       "SetID": "37a94m8",
       "Name": "Pentakill",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 874
+      "UsersEstimate": 984
     },
     {
       "ID": "16_TheRise",
@@ -4890,8 +4890,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-09T16:59:10.7700574+00:00",
-  "LastChanged_Achievements": "2024-01-10T11:10:55.6196266+00:00",
+  "LastChanged_Achievements": "2024-01-10T12:10:42.8272845+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-10T10:59:24.8937223+00:00",
-  "LastUpdate_Achievements": "2024-01-10T11:10:55.6196953+00:00"
+  "LastUpdate_Ratings": "2024-01-10T11:59:10.1436697+00:00",
+  "LastUpdate_Achievements": "2024-01-10T12:10:42.8273578+00:00"
 }

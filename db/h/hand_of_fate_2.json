@@ -3,12 +3,12 @@
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
   "Ranking_Rating": 528,
-  "Ranking_Popularity": 498,
+  "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -961,7 +961,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 667166,
+  "EOS_Progressed": 667168,
   "EOS_Completed": 174,
   "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 0,
@@ -26236,6 +26236,11 @@
       "Time": "2024-01-10T11:10:21.523508+00:00",
       "NumProgressed": 667166,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-10T12:10:06.2813599+00:00",
+      "NumProgressed": 667168,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -26247,7 +26252,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 480360
+      "UsersEstimate": 480361
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -26255,7 +26260,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 386956
+      "UsersEstimate": 386957
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -26263,7 +26268,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 153448
+      "UsersEstimate": 153449
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -26383,7 +26388,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 153448
+      "UsersEstimate": 153449
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -26391,7 +26396,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 93403
+      "UsersEstimate": 93404
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -26399,7 +26404,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 113418
+      "UsersEstimate": 113419
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -26575,7 +26580,7 @@
       "Name": "Thomas\u0027 Bane",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6004
+      "UsersEstimate": 6005
     },
     {
       "ID": "Achievement_43_Final_Death",
@@ -26599,7 +26604,7 @@
       "Name": "Peaceful Coast",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "Achievement_46_Pilgrim",
@@ -26630,15 +26635,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 667166,
+      "Progressed": 667168,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2024-01-08T13:05:28.7282698+00:00",
-  "LastChanged_Achievements": "2024-01-10T11:10:21.5235077+00:00",
+  "LastChanged_Achievements": "2024-01-10T12:10:06.2813596+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:16.9289695+00:00",
-  "LastUpdate_Ratings": "2024-01-10T10:58:06.7264277+00:00",
-  "LastUpdate_Achievements": "2024-01-10T11:10:21.523634+00:00"
+  "LastUpdate_Ratings": "2024-01-10T11:57:46.2885378+00:00",
+  "LastUpdate_Achievements": "2024-01-10T12:10:06.2814727+00:00"
 }

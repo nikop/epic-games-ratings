@@ -38,11 +38,11 @@
 | Magic Academy | 11.00% | ~15 |
 | Silver Drift Hollow Mine | 10.00% | ~14 |
 | Friend of Windholme | 10.00% | ~14 |
+| The Forge of Regan Gor | 9.00% | ~12 |
 | Mage Teacher | 9.00% | ~12 |
 | Defeat Gor | 8.00% | ~11 |
 | Defeat Uram | 8.00% | ~11 |
 | Yngrid's Tale | 8.00% | ~11 |
-| The Forge of Regan Gor | 8.00% | ~11 |
 | Tuscari Sea Portal | 8.00% | ~11 |
 | Friend of Uram Gor | 8.00% | ~11 |
 | Defeat Raith | 7.00% | ~10 |

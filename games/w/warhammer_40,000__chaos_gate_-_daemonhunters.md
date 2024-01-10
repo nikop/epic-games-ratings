@@ -7,8 +7,8 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 20.00% | ~774 |
-| Look Over There! | 15.00% | ~580 |
-| Watch Where You Step... | 15.00% | ~580 |
+| Look Over There! | 15.00% | ~581 |
+| Watch Where You Step... | 15.00% | ~581 |
 | Not So Fast... | 14.00% | ~542 |
 | An Ill Omen | 14.00% | ~542 |
 | Purging Spree | 10.00% | ~387 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,870 (Ranked 218)  
+Progressed: 3,871 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 3,834 | 0 |
 | 2024-01-08 | 3,845 | 0 |
 | 2024-01-09 | 3,864 | 0 |
-| 2024-01-10 | 3,870 | 0 |
+| 2024-01-10 | 3,871 | 0 |
 ## Awards
 Max (Character Customization): 233  (Ranked 286)  
 Sum: 500 (Ranked 335)  

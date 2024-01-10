@@ -15,7 +15,7 @@ Rating: 4.62 (Ranked 379)
 | There Can Only Be One! | 8.00% | ~572 |
 | Full Ascension | 8.00% | ~572 |
 | Stronger Together | 8.00% | ~572 |
-| Seat of Power | 7.00% | ~500 |
+| Seat of Power | 8.00% | ~572 |
 | Valley of Wonders | 6.00% | ~429 |
 | In a Liege of Your Own | 6.00% | ~429 |
 | Intimidation Tactics | 6.00% | ~429 |

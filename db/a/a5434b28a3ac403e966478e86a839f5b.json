@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 937,
+  "EOS_Progressed": 938,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -3260,6 +3260,11 @@
       "Time": "2024-01-10T11:09:48.2448565+00:00",
       "NumProgressed": 937,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-10T12:09:30.1332898+00:00",
+      "NumProgressed": 938,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3280,7 +3285,7 @@
       "Name": "Establish Communications",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ACH_eou2",
@@ -3288,7 +3293,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_eou3",
@@ -3312,7 +3317,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_eou6",
@@ -3328,7 +3333,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_eou8",
@@ -3375,14 +3380,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 937,
+      "Progressed": 938,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-10T11:09:48.2448561+00:00",
+  "LastChanged_Achievements": "2024-01-10T12:09:30.1332896+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:20.0779143+00:00",
-  "LastUpdate_Ratings": "2024-01-10T11:00:13.6652361+00:00",
-  "LastUpdate_Achievements": "2024-01-10T11:09:48.2449023+00:00"
+  "LastUpdate_Ratings": "2024-01-10T12:00:05.1479393+00:00",
+  "LastUpdate_Achievements": "2024-01-10T12:09:30.1333126+00:00"
 }

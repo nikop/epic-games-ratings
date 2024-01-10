@@ -5,27 +5,27 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Don't Panic! | 97.00% | ~792 |
-| Friendzone | 80.00% | ~653 |
-| Space Colonization | 80.00% | ~653 |
-| Hello World | 75.00% | ~612 |
-| Space Engineer | 65.00% | ~530 |
-| Tinkerer | 63.00% | ~514 |
-| Dust to Dust | 59.00% | ~481 |
+| Friendzone | 80.00% | ~654 |
+| Space Colonization | 80.00% | ~654 |
+| Hello World | 74.00% | ~605 |
+| Space Engineer | 65.00% | ~531 |
+| Tinkerer | 63.00% | ~515 |
+| Dust to Dust | 59.00% | ~482 |
 | Across The Stars | 49.00% | ~400 |
 | Crafty | 49.00% | ~400 |
-| All Seats Taken | 40.00% | ~326 |
+| All Seats Taken | 40.00% | ~327 |
 | For Science! | 35.00% | ~286 |
 | Meet the Petersons | 32.00% | ~261 |
 | Stay Cool | 30.00% | ~245 |
-| KIA | 28.00% | ~228 |
+| KIA | 28.00% | ~229 |
 | Mutiny in making | 25.00% | ~204 |
-| Eco-Shuttle | 21.00% | ~171 |
+| Eco-Shuttle | 21.00% | ~172 |
 | Et tu, Astrocitizen? | 20.00% | ~163 |
 | Space Explorer | 17.00% | ~139 |
 | Hands Full | 13.00% | ~106 |
 | Gold Medalist | 12.00% | ~98 |
 | Non-Fiction | 12.00% | ~98 |
-| No Man Left Behind | 9.00% | ~73 |
+| No Man Left Behind | 9.00% | ~74 |
 | Fix-It Felix | 8.00% | ~65 |
 | Intergalactic Breakup | 8.00% | ~65 |
 | Second Life | 8.00% | ~65 |
@@ -35,7 +35,7 @@
 | Extreme Makeover | 5.00% | ~41 |
 | The Improvinator | 4.00% | ~33 |
 | The Last Supper | 4.00% | ~33 |
-| 2018: A Soup Odyssey | 3.00% | ~24 |
+| 2018: A Soup Odyssey | 3.00% | ~25 |
 | Bovine Domain | 2.00% | ~16 |
 | That's No Moon! | 2.00% | ~16 |
 | AAARGH! | 1.00% | ~8 |
@@ -49,7 +49,7 @@
 | Unidentified Flying Offspring | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 816 (Ranked 309)  
+Progressed: 817 (Ranked 309)  
 Completed: 1 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,6 +198,7 @@ Completed: 1 (0.12%) (Ranked 301)
 | 2024-01-07 | 813 | 1 |
 | 2024-01-08 | 815 | 1 |
 | 2024-01-09 | 816 | 1 |
+| 2024-01-10 | 817 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

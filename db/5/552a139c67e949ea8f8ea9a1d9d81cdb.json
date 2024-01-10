@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1920,
+  "EOS_Progressed": 1922,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4882,6 +4882,11 @@
       "Time": "2024-01-10T11:06:21.1612927+00:00",
       "NumProgressed": 1920,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T12:06:16.2303482+00:00",
+      "NumProgressed": 1922,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4942,7 +4947,7 @@
       "Name": "Globetrotter",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -4956,9 +4961,9 @@
       "ID": "ML_ACHIEVEMENT_09",
       "SetID": "5k00jcd",
       "Name": "Masterful!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 38
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -4980,9 +4985,9 @@
       "ID": "ML_ACHIEVEMENT_12",
       "SetID": "5k00jcd",
       "Name": "Immortal",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 38
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -5134,7 +5139,7 @@
       "Name": "Shopping time!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -5158,7 +5163,7 @@
       "Name": "Beyond the limit",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -5261,20 +5266,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1920,
+      "Progressed": 1922,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1588,
+      "Progressed": 1590,
       "Completed": 1011
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-10T11:06:21.1612923+00:00",
+  "LastChanged_Achievements": "2024-01-10T12:06:16.2303479+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-10T10:59:20.1832951+00:00",
-  "LastUpdate_Achievements": "2024-01-10T11:06:21.1613537+00:00"
+  "LastUpdate_Ratings": "2024-01-10T11:59:05.8784588+00:00",
+  "LastUpdate_Achievements": "2024-01-10T12:06:16.230412+00:00"
 }

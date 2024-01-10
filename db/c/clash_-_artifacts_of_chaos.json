@@ -3,9 +3,9 @@
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 453,
-  "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_Completed": 203,
+  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 157,
+  "EOS_Progressed": 158,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.64,
+  "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -526,6 +526,11 @@
       "Time": "2024-01-10T09:10:42.8093937+00:00",
       "NumProgressed": 157,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T12:10:43.0235665+00:00",
+      "NumProgressed": 158,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -535,9 +540,9 @@
       "ID": "Achievement1",
       "SetID": "jf6ho5",
       "Name": "Freedom",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 35,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "Achievement10",
@@ -545,7 +550,7 @@
       "Name": "The Pride of Moozhaw",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Achievement11",
@@ -585,7 +590,7 @@
       "Name": "Target Practice",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Achievement16",
@@ -593,7 +598,7 @@
       "Name": "The Bigger They Are",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Achievement17",
@@ -601,7 +606,7 @@
       "Name": "Declawing",
       "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "Achievement18",
@@ -633,7 +638,7 @@
       "Name": "Amokuali Tower",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Achievement21",
@@ -647,9 +652,9 @@
       "ID": "Achievement3",
       "SetID": "jf6ho5",
       "Name": "Enemies of Fate",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "Achievement4",
@@ -657,7 +662,7 @@
       "Name": "Omnia Vincit Amor",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Achievement5",
@@ -704,7 +709,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 157,
+      "Progressed": 158,
       "Completed": 1
     }
   ],
@@ -712,8 +717,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-01-10T11:10:55.8180212+00:00",
+  "LastChanged_Achievements": "2024-01-10T12:10:43.0235664+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:53.0986152+00:00",
-  "LastUpdate_Ratings": "2024-01-10T10:57:46.9397299+00:00",
-  "LastUpdate_Achievements": "2024-01-10T11:10:55.818051+00:00"
+  "LastUpdate_Ratings": "2024-01-10T11:57:25.5632226+00:00",
+  "LastUpdate_Achievements": "2024-01-10T12:10:43.0235841+00:00"
 }

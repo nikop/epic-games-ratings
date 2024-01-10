@@ -26,8 +26,8 @@
 | Savior | 17.00% | ~21 |
 | Hidden Experiment | 15.00% | ~18 |
 | Take Action! | 15.00% | ~18 |
+| Ascending Will | 14.00% | ~17 |
 | Ultra Combo | 14.00% | ~17 |
-| Ascending Will | 13.00% | ~16 |
 | Into the Lion's Den | 11.00% | ~13 |
 | Sky High Fighter | 9.00% | ~11 |
 | Haute Couture | 8.00% | ~10 |

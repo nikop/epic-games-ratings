@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -85,9 +85,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2172,
+  "EOS_Progressed": 2173,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4150,6 +4150,11 @@
       "Time": "2024-01-10T11:10:58.1712722+00:00",
       "NumProgressed": 2172,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-10T12:10:45.4358695+00:00",
+      "NumProgressed": 2173,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4161,7 +4166,7 @@
       "Name": "Break Out",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "ACH_02",
@@ -4169,7 +4174,7 @@
       "Name": "Find Allies",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "ACH_03",
@@ -4185,7 +4190,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_05",
@@ -4233,7 +4238,7 @@
       "Name": "Trinity",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "ACH_11",
@@ -4273,7 +4278,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ACH_16",
@@ -4401,7 +4406,7 @@
       "Name": "Stone Collection",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ACH_33",
@@ -4448,7 +4453,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2172,
+      "Progressed": 2173,
       "Completed": 3
     }
   ],
@@ -4456,8 +4461,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-09T14:59:34.4882092+00:00",
-  "LastChanged_Achievements": "2024-01-10T11:10:58.171272+00:00",
+  "LastChanged_Achievements": "2024-01-10T12:10:45.4358693+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-10T11:00:43.9319338+00:00",
-  "LastUpdate_Achievements": "2024-01-10T11:10:58.1713175+00:00"
+  "LastUpdate_Ratings": "2024-01-10T12:00:39.5415228+00:00",
+  "LastUpdate_Achievements": "2024-01-10T12:10:45.4359008+00:00"
 }

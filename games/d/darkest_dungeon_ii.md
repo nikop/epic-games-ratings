@@ -14,7 +14,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Creep and Sleep | 6.00% | ~7,941 |
 | Overdue Notice | 6.00% | ~7,941 |
 | Escape from the Black Hole | 6.00% | ~7,941 |
-| Ploughshares to Swords | 6.00% | ~433 |
+| Ploughshares to Swords | 6.00% | ~434 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,618 |
 | Serenity Now! | 5.00% | ~6,618 |
 | It Rings a Bell | 5.00% | ~6,618 |
@@ -63,11 +63,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | Clearing the Ledger | 1.00% | ~1,324 |
 | Hat Trick | 1.00% | ~1,324 |
 | Shrine of Reflection | 1.00% | ~1,324 |
+| Triage | 1.00% | ~1,324 |
 | Body of Work | 1.00% | ~1,324 |
 | No Mercy | 1.00% | ~72 |
 | Slap on the Wrist | 1.00% | ~72 |
 | For Old Time' Sake | 1.00% | ~72 |
-| Triage | 0.90% | ~1,191 |
 | Et Tu, Riposte? | 0.90% | ~65 |
 | The World As It Was | 0.70% | ~926 |
 | A Life Well Lived | 0.60% | ~794 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,353 (Ranked 91)  
+Progressed: 132,357 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 4 (0.00%) (Ranked 395)
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
 | 2024-01-09 | 132,315 | 3 |
-| 2024-01-10 | 132,353 | 4 |
+| 2024-01-10 | 132,357 | 4 |
 ## Awards
 Max (Character Customization): 8,000  (Ranked 50)  
 Sum: 21,576 (Ranked 58)  

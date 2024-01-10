@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -947,9 +947,9 @@
       "ID": "Landmark_ReganGorForge",
       "SetID": "7b9f97e",
       "Name": "The Forge of Regan Gor",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Landmark_SilverDriftMine",
@@ -1268,8 +1268,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-10T11:10:32.7809629+00:00",
+  "LastChanged_Achievements": "2024-01-10T12:10:18.5187449+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:39.1572287+00:00",
-  "LastUpdate_Ratings": "2024-01-10T10:58:22.9577317+00:00",
-  "LastUpdate_Achievements": "2024-01-10T11:10:32.781017+00:00"
+  "LastUpdate_Ratings": "2024-01-10T11:58:02.4493472+00:00",
+  "LastUpdate_Achievements": "2024-01-10T12:10:18.5187913+00:00"
 }

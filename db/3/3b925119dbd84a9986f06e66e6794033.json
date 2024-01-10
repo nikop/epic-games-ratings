@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 731,
+  "EOS_Progressed": 732,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2324,6 +2324,11 @@
       "Time": "2024-01-10T06:11:00.1938729+00:00",
       "NumProgressed": 731,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T12:10:34.901444+00:00",
+      "NumProgressed": 732,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -2456,7 +2461,7 @@
       "Name": "Timejinx: The Perfect Guest",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -2464,7 +2469,7 @@
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "TKO2_DOMINO",
@@ -2495,14 +2500,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 731,
+      "Progressed": 732,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-10T11:10:48.0321663+00:00",
+  "LastChanged_Achievements": "2024-01-10T12:10:34.9014437+00:00",
   "LastUpdate_AppInfo": "2024-01-06T02:18:00.4383159+00:00",
-  "LastUpdate_Ratings": "2024-01-10T10:59:10.791245+00:00",
-  "LastUpdate_Achievements": "2024-01-10T11:10:48.0321923+00:00"
+  "LastUpdate_Ratings": "2024-01-10T11:58:55.4168873+00:00",
+  "LastUpdate_Achievements": "2024-01-10T12:10:34.9014763+00:00"
 }

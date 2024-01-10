@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.53 (Ranked 562)  
+Rating: 4.54 (Ranked 553)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,7 +17,7 @@ Number of Ratings: 90  (23.09.2022)
 | Lie Back and Think of Albion | 28.00% | ~110 |
 | Upgreatest | 27.00% | ~106 |
 | Pimp My Raid | 25.00% | ~98 |
-| Freshly Squeezed | 22.00% | ~86 |
+| Freshly Squeezed | 23.00% | ~90 |
 | I Look Up As I Walk to Takoshima | 21.00% | ~83 |
 | Perfect Probulator | 18.00% | ~71 |
 | Die Nasty | 18.00% | ~71 |
@@ -98,9 +98,9 @@ Completed: 2 (0.51%) (Ranked 219)
 | 2024-01-09 | 384 | 2 |
 | 2024-01-10 | 393 | 2 |
 ## Awards
-Max (Great Boss Battles): 36  (Ranked 498)  
+Max (Great Boss Battles): 36  (Ranked 499)  
 Sum: 36 (Ranked 531)  
-Diff (max vs sum): -33  
+Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 36 |
@@ -154,3 +154,4 @@ Diff (max vs sum): -33
 | 2023-12-31 | 4.53 | - | 36 | 36 |
 | 2024-01-03 | 4.54 | - | 36 | 36 |
 | 2024-01-09 | 4.53 | - | 36 | 36 |
+| 2024-01-10 | 4.54 | - | 36 | 36 |

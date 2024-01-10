@@ -6,8 +6,8 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~5,146 |
-| Un-Lonely Island | 44.00% | ~3,102 |
+| Just One...More...Term... | 73.00% | ~5,148 |
+| Un-Lonely Island | 44.00% | ~3,103 |
 | The Beginning of a Servantship | 43.00% | ~3,032 |
 | Trade Is My Trait | 35.00% | ~2,468 |
 | Number 18 | 23.00% | ~1,622 |
@@ -19,19 +19,19 @@ Number of Ratings: 398  (23.09.2022)
 | Go Sovereigns! | 11.00% | ~776 |
 | Happy Ending? | 10.00% | ~705 |
 | For Science! | 10.00% | ~705 |
-| Of Seals And Men | 9.00% | ~634 |
-| Shackadelic | 9.00% | ~634 |
+| Of Seals And Men | 9.00% | ~635 |
+| Shackadelic | 9.00% | ~635 |
 | Double Trouble | 8.00% | ~564 |
 | Firestarter | 7.00% | ~494 |
 | Make Tropico Great Again! | 7.00% | ~494 |
 | French Connection | 7.00% | ~494 |
 | Don't Panic! | 6.00% | ~423 |
 | I Owe You Nothing | 6.00% | ~423 |
-| Viva Tropico! | 5.00% | ~352 |
-| Computer Says "No" | 5.00% | ~352 |
-| Beware The Betman | 5.00% | ~352 |
-| Watch The World Burn | 5.00% | ~352 |
-| Fairy Tale Come True | 5.00% | ~352 |
+| Viva Tropico! | 5.00% | ~353 |
+| Computer Says "No" | 5.00% | ~353 |
+| Beware The Betman | 5.00% | ~353 |
+| Watch The World Burn | 5.00% | ~353 |
+| Fairy Tale Come True | 5.00% | ~353 |
 | Been there, Done That | 3.00% | ~212 |
 | Apocalypso | 3.00% | ~212 |
 | Narcissist | 3.00% | ~212 |
@@ -42,12 +42,12 @@ Number of Ratings: 398  (23.09.2022)
 | Teamplayer | 2.00% | ~141 |
 | Terraformer | 2.00% | ~141 |
 | Curse of the Mummy | 2.00% | ~141 |
-| Chain Gang | 1.00% | ~70 |
-| From Knight to Little Duck | 1.00% | ~70 |
+| Chain Gang | 1.00% | ~71 |
+| From Knight to Little Duck | 1.00% | ~71 |
 | Survivor | 0.80% | ~56 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,050 (Ranked 197)  
+Progressed: 7,052 (Ranked 197)  
 Completed: 2 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 2 (0.03%) (Ranked 354)
 | 2024-01-07 | 6,998 | 2 |
 | 2024-01-08 | 7,016 | 2 |
 | 2024-01-09 | 7,043 | 2 |
-| 2024-01-10 | 7,050 | 2 |
+| 2024-01-10 | 7,052 | 2 |
 ## Awards
 Max (Highly Recommended): 106  (Ranked 372)  
 Sum: 758 (Ranked 304)  

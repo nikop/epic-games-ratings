@@ -7,8 +7,8 @@ Rating: 3.68 (Ranked 1,094)
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 21.00% | ~492 |
 | Catch and Release | 16.00% | ~375 |
-| Home Is Where the Heart Is | 15.00% | ~351 |
-| Wounded Whispers | 15.00% | ~351 |
+| Home Is Where the Heart Is | 15.00% | ~352 |
+| Wounded Whispers | 15.00% | ~352 |
 | ICU | 14.00% | ~328 |
 | Blood Will Have Blood | 12.00% | ~281 |
 | Ne Plus Ultra | 12.00% | ~281 |
@@ -19,8 +19,8 @@ Rating: 3.68 (Ranked 1,094)
 | Enter of Your Own Free Will | 9.00% | ~211 |
 | Welcome to the Neighborhood | 9.00% | ~211 |
 | Heart Attack | 9.00% | ~211 |
-| Grounded | 8.00% | ~187 |
-| Skin of Their Teeth | 8.00% | ~187 |
+| Grounded | 8.00% | ~188 |
+| Skin of Their Teeth | 8.00% | ~188 |
 | Neighborhood Revitalization | 6.00% | ~141 |
 | Bad Wiring | 6.00% | ~141 |
 | Radio Silence | 6.00% | ~141 |
@@ -43,8 +43,8 @@ Rating: 3.68 (Ranked 1,094)
 | Curious Finch | 2.00% | ~47 |
 | Blood Brother | 1.00% | ~23 |
 | Blacklight Down | 1.00% | ~23 |
+| Neighborhood Watch | 0.90% | ~21 |
 | Bloody Initiate | 0.90% | ~21 |
-| Neighborhood Watch | 0.80% | ~19 |
 | Empty Nest Syndrome | 0.80% | ~19 |
 | Scream Team | 0.70% | ~16 |
 | What Lies Below | 0.70% | ~16 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,094)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,343 (Ranked 240)  
+Progressed: 2,344 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 2,301 | 0 |
 | 2024-01-08 | 2,317 | 0 |
 | 2024-01-09 | 2,331 | 0 |
-| 2024-01-10 | 2,343 | 0 |
+| 2024-01-10 | 2,344 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 556)  
 Sum: 24 (Ranked 563)  

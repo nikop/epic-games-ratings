@@ -8,8 +8,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,126 |
 | The Cursed Farmer | 2.00% | ~5,063 |
-| Beast Intentions | 1.00% | ~2,531 |
-| The Mad Wizard | 1.00% | ~2,531 |
+| Beast Intentions | 1.00% | ~2,532 |
+| The Mad Wizard | 1.00% | ~2,532 |
 | The Ring of Regeneration | 0.90% | ~2,278 |
 | Are Ya Chicken? | 0.80% | ~2,025 |
 | Welcome to Sigil | 0.80% | ~1,755 |
@@ -17,9 +17,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.70% | ~1,772 |
 | Mad Cow Disease | 0.70% | ~1,772 |
 | Friendly Imps | 0.70% | ~1,772 |
+| A Persistent Buzzing | 0.60% | ~1,519 |
 | Pure Energy | 0.60% | ~1,519 |
 | Fast Food | 0.60% | ~1,317 |
-| A Persistent Buzzing | 0.50% | ~1,266 |
 | Terror in the Dark | 0.50% | ~1,266 |
 | The Overgrown Grove | 0.50% | ~1,097 |
 | Flames of Avernus | 0.50% | ~1,097 |
@@ -31,6 +31,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.40% | ~1,013 |
 | Exploring Port Nyanzaru | 0.40% | ~1,013 |
 | The Contagious Curse | 0.40% | ~1,013 |
+| Escort to Waterdeep | 0.40% | ~1,013 |
 | Arcane Suppression | 0.40% | ~878 |
 | Welcome to the Vrocks | 0.40% | ~878 |
 | Misaligned in Sigil | 0.40% | ~878 |
@@ -43,7 +44,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | No Time To Rest | 0.30% | ~759 |
 | Useless Allies | 0.30% | ~759 |
 | Running of the Saurs | 0.30% | ~759 |
-| Escort to Waterdeep | 0.30% | ~759 |
 | Waterdeep Detours | 0.30% | ~759 |
 | Underdeep Cartography | 0.30% | ~759 |
 | The Silken Swamp | 0.20% | ~506 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,145 (Ranked 70)  
+Progressed: 253,155 (Ranked 70)  
 Completed: 2,609 (1.03%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -818,17 +818,17 @@ Completed: 2,609 (1.03%) (Ranked 174)
 | 2024-01-07 | 252,516 | 2,599 |
 | 2024-01-08 | 252,794 | 2,602 |
 | 2024-01-09 | 253,044 | 2,606 |
-| 2024-01-10 | 253,145 | 2,609 |
+| 2024-01-10 | 253,155 | 2,609 |
 ## Awards
 Max (Great for Beginners): 5,768  (Ranked 74)  
-Sum: 33,421 (Ranked 41)  
+Sum: 33,423 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,768 |
 | This game has Diverse Characters | 5,708 |
 | This game has Quickly Understood Controls | 4,903 |
-| This game is Relaxing | 4,771 |
+| This game is Relaxing | 4,773 |
 | This game has Amazing Characters | 4,325 |
 | This game is Highly Recommended | 4,312 |
 | This game has Playful Visuals | 3,634 |
@@ -1184,4 +1184,4 @@ Diff (max vs sum): 33
 | 2024-01-07 | 4.06 | - | 5,756 | 33,386 |
 | 2024-01-08 | 4.06 | - | 5,763 | 33,403 |
 | 2024-01-09 | 4.06 | - | 5,768 | 33,417 |
-| 2024-01-10 | 4.06 | - | 5,768 | 33,421 |
+| 2024-01-10 | 4.06 | - | 5,768 | 33,423 |
