@@ -2,10 +2,10 @@
   "ID": "6bd7d2e32a724e119b9e4a2254aeec33",
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
-  "Ranking_EOS_Progress": 453,
-  "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 439,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Progress": 454,
+  "Ranking_EOS_Completed": 200,
+  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -1179,8 +1179,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2024-01-10T10:09:19.9427474+00:00",
+  "LastChanged_Achievements": "2024-01-10T11:09:36.072748+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:44.9618155+00:00",
-  "LastUpdate_Ratings": "2024-01-10T09:02:04.8968851+00:00",
-  "LastUpdate_Achievements": "2024-01-10T10:09:19.9427896+00:00"
+  "LastUpdate_Ratings": "2024-01-10T10:57:41.7270613+00:00",
+  "LastUpdate_Achievements": "2024-01-10T11:09:36.0728143+00:00"
 }

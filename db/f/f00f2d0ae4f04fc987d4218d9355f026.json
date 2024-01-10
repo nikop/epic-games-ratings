@@ -4,8 +4,8 @@
   "ProductSlug": "bio-inc-redemption-280fe5",
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 415,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 416,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-12T05:00:00+00:00",
     "PcReleaseDate": "2018-03-08T05:00:00+00:00",
@@ -336,9 +336,9 @@
       "ID": "CirculatoryCollapse",
       "SetID": "aaidab7",
       "Name": "Circulatory Collapse",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "CloseCall",
@@ -567,8 +567,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-01-10T10:06:18.7305566+00:00",
+  "LastChanged_Achievements": "2024-01-10T11:05:35.3675221+00:00",
   "LastUpdate_AppInfo": "2024-01-09T06:57:18.0695989+00:00",
-  "LastUpdate_Ratings": "2024-01-10T09:59:37.4325341+00:00",
-  "LastUpdate_Achievements": "2024-01-10T10:06:18.7305808+00:00"
+  "LastUpdate_Ratings": "2024-01-10T10:59:22.3991592+00:00",
+  "LastUpdate_Achievements": "2024-01-10T11:05:35.367543+00:00"
 }

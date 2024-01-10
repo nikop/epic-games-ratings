@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~91,574 |
+| Sowwy! | 37.00% | ~91,576 |
 | Alt+F4 | 10.00% | ~24,750 |
 | Where's that freaking Dwarf? | 9.00% | ~22,275 |
 | Déjà vu | 8.00% | ~19,800 |
@@ -46,18 +46,18 @@ Number of Ratings: 118  (23.09.2022)
 | Lëgal Legend | 1.00% | ~2,475 |
 | Lust and Debauchery | 1.00% | ~2,475 |
 | Material Girl | 1.00% | ~2,475 |
-| We come in peace | 0.90% | ~2,227 |
-| Holistic Adventuring Party | 0.70% | ~1,732 |
-| An old poacher makes the best gamekeeper | 0.70% | ~1,732 |
-| Law and Order | 0.70% | ~1,732 |
+| We come in peace | 0.90% | ~2,228 |
+| Holistic Adventuring Party | 0.70% | ~1,733 |
+| An old poacher makes the best gamekeeper | 0.70% | ~1,733 |
+| Law and Order | 0.70% | ~1,733 |
 | Scholar of the Lands of Fangh | 0.60% | ~1,485 |
-| It's been a hard day's night | 0.50% | ~1,237 |
+| It's been a hard day's night | 0.50% | ~1,238 |
 | Friendly fire | 0.40% | ~990 |
 | I'd rather... Just... Sing! | 0.40% | ~990 |
 | The number of the counting shalt be 7 | 0.40% | ~990 |
 | Inception | 0.40% | ~990 |
-| 100% satisfaction guarantee | 0.30% | ~742 |
-| Death is for wimps | 0.30% | ~742 |
+| 100% satisfaction guarantee | 0.30% | ~743 |
+| Death is for wimps | 0.30% | ~743 |
 | Cursed die | 0.20% | ~495 |
 | The Blood Countess | 0.20% | ~495 |
 | He’s alive! Aliiiive! | 0.20% | ~495 |
@@ -71,31 +71,31 @@ Number of Ratings: 118  (23.09.2022)
 | Insult to injury | 0.20% | ~495 |
 | Super-Ultra-Lydian | 0.20% | ~495 |
 | Demisemiquaver | 0.20% | ~495 |
-| Necrophilia | 0.10% | ~247 |
-| Restless night | 0.10% | ~247 |
-| King of the Arena | 0.10% | ~247 |
-| Finally free | 0.10% | ~247 |
-| Hoarding | 0.10% | ~247 |
-| Staff cut | 0.10% | ~247 |
-| Legendary brew | 0.10% | ~247 |
-| Elite Adventurers | 0.10% | ~247 |
-| Take your time back in time | 0.10% | ~247 |
-| Sleep schedule mastery | 0.10% | ~247 |
-| Cute Dungeon | 0.10% | ~247 |
-| Mystical Dungeon | 0.10% | ~247 |
-| Gloomy Dungeon | 0.10% | ~247 |
-| Power struggle | 0.10% | ~247 |
-| Hit snooze | 0.10% | ~247 |
-| Minmaxer | 0.10% | ~247 |
-| Iron Golems Tamer | 0.10% | ~247 |
-| And they lived happily ever after... | 0.10% | ~247 |
-| Star-crossed lovers | 0.10% | ~247 |
-| Pyrrhic victory | 0.10% | ~247 |
-| Lord of the Drunks | 0.10% | ~247 |
-| Dumb and dumber | 0.10% | ~247 |
-| Dwarf Candy | 0.10% | ~247 |
+| Necrophilia | 0.10% | ~248 |
+| Restless night | 0.10% | ~248 |
+| King of the Arena | 0.10% | ~248 |
+| Finally free | 0.10% | ~248 |
+| Hoarding | 0.10% | ~248 |
+| Staff cut | 0.10% | ~248 |
+| Legendary brew | 0.10% | ~248 |
+| Elite Adventurers | 0.10% | ~248 |
+| Take your time back in time | 0.10% | ~248 |
+| Sleep schedule mastery | 0.10% | ~248 |
+| Cute Dungeon | 0.10% | ~248 |
+| Mystical Dungeon | 0.10% | ~248 |
+| Gloomy Dungeon | 0.10% | ~248 |
+| Power struggle | 0.10% | ~248 |
+| Hit snooze | 0.10% | ~248 |
+| Minmaxer | 0.10% | ~248 |
+| Iron Golems Tamer | 0.10% | ~248 |
+| And they lived happily ever after... | 0.10% | ~248 |
+| Star-crossed lovers | 0.10% | ~248 |
+| Pyrrhic victory | 0.10% | ~248 |
+| Lord of the Drunks | 0.10% | ~248 |
+| Dumb and dumber | 0.10% | ~248 |
+| Dwarf Candy | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,496 (Ranked 72)  
+Progressed: 247,503 (Ranked 72)  
 Completed: 8 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,16 +319,16 @@ Completed: 8 (0.00%) (Ranked 395)
 | 2024-01-07 | 247,153 | 8 |
 | 2024-01-08 | 247,298 | 8 |
 | 2024-01-09 | 247,450 | 8 |
-| 2024-01-10 | 247,496 | 8 |
+| 2024-01-10 | 247,503 | 8 |
 ## Awards
 Max (Character Customization): 268  (Ranked 276)  
-Sum: 563 (Ranked 330)  
+Sum: 564 (Ranked 330)  
 Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 268 |
 | This game is Relaxing | 40 |
-| This game is Great for Beginners | 37 |
+| This game is Great for Beginners | 38 |
 | This game is Highly Recommended | 36 |
 | This game has Quickly Understood Controls | 36 |
 | This game has Amazing Storytelling | 34 |
@@ -553,3 +553,4 @@ Diff (max vs sum): -54
 | 2024-01-06 | 4.59 | - | 266 | 560 |
 | 2024-01-07 | 4.59 | - | 267 | 561 |
 | 2024-01-09 | 4.59 | - | 268 | 563 |
+| 2024-01-10 | 4.59 | - | 268 | 564 |

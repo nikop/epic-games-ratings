@@ -5,47 +5,47 @@ Rating: 4.83 (Ranked 56)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~242,553 |
-| Private Club | 73.00% | ~194,576 |
-| Rogue Guild | 64.00% | ~170,587 |
-| I Watched the Intro | 57.00% | ~151,929 |
-| Covert Consortium | 54.00% | ~143,933 |
-| Goat Queen | 52.00% | ~138,602 |
-| Reach the Stratosphere | 50.00% | ~133,271 |
-| Synchronization Complete | 47.00% | ~125,275 |
-| Secret Society | 44.00% | ~117,278 |
-| Shadow Syndicate | 37.00% | ~98,621 |
-| What a Waste of Money | 33.00% | ~87,959 |
-| New Goat Order | 30.00% | ~79,963 |
-| Don't touch the servers | 28.00% | ~74,632 |
-| Real Buoy | 27.00% | ~71,966 |
-| San Angora: Become Human | 26.00% | ~69,301 |
-| Raider of the Lost Parking Garage | 26.00% | ~69,301 |
-| Welcome to Earth | 25.00% | ~66,636 |
-| Egg Simulator | 19.00% | ~50,643 |
-| Into the Matrix | 19.00% | ~50,643 |
-| Where is It? | 17.00% | ~45,312 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~39,981 |
-| 401(K.O.) | 15.00% | ~39,981 |
-| Black Market | 14.00% | ~37,316 |
-| Car Cave | 12.00% | ~31,985 |
-| Club Mohair | 8.00% | ~21,323 |
-| A Center for Ants? | 8.00% | ~21,323 |
-| French Fika | 7.00% | ~18,658 |
-| Nasty! | 5.00% | ~13,327 |
+| Forgotten Sorority | 91.00% | ~242,567 |
+| Private Club | 73.00% | ~194,587 |
+| Rogue Guild | 64.00% | ~170,596 |
+| I Watched the Intro | 57.00% | ~151,937 |
+| Covert Consortium | 54.00% | ~143,941 |
+| Goat Queen | 52.00% | ~138,610 |
+| Reach the Stratosphere | 50.00% | ~133,278 |
+| Synchronization Complete | 47.00% | ~125,282 |
+| Secret Society | 44.00% | ~117,285 |
+| Shadow Syndicate | 37.00% | ~98,626 |
+| What a Waste of Money | 33.00% | ~87,964 |
+| New Goat Order | 30.00% | ~79,967 |
+| Don't touch the servers | 28.00% | ~74,636 |
+| Real Buoy | 27.00% | ~71,970 |
+| San Angora: Become Human | 26.00% | ~69,305 |
+| Raider of the Lost Parking Garage | 26.00% | ~69,305 |
+| Welcome to Earth | 25.00% | ~66,639 |
+| Egg Simulator | 19.00% | ~50,646 |
+| Into the Matrix | 19.00% | ~50,646 |
+| Where is It? | 17.00% | ~45,315 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~39,984 |
+| 401(K.O.) | 15.00% | ~39,984 |
+| Black Market | 14.00% | ~37,318 |
+| Car Cave | 12.00% | ~31,987 |
+| Club Mohair | 8.00% | ~21,325 |
+| A Center for Ants? | 8.00% | ~21,325 |
+| French Fika | 7.00% | ~18,659 |
+| Nasty! | 5.00% | ~13,328 |
 | Who Baywatches the Baywatch? | 4.00% | ~10,662 |
 | [REDACTED] | 4.00% | ~10,662 |
 | Cannibanana | 2.00% | ~5,331 |
 | Daredevil | 2.00% | ~5,331 |
-| Crocsquatch | 1.00% | ~2,665 |
-| You Trusted Your Instincts | 1.00% | ~2,665 |
-| Certified Fresh | 1.00% | ~2,665 |
-| Streaking | 1.00% | ~2,665 |
-| Try Hard 2 | 1.00% | ~2,665 |
+| Crocsquatch | 1.00% | ~2,666 |
+| You Trusted Your Instincts | 1.00% | ~2,666 |
+| Certified Fresh | 1.00% | ~2,666 |
+| Streaking | 1.00% | ~2,666 |
+| Try Hard 2 | 1.00% | ~2,666 |
 | Move! That! Bus! | 0.60% | ~1,599 |
 | G.O.A.T | 0.40% | ~1,066 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,542 (Ranked 66)  
+Progressed: 266,557 (Ranked 66)  
 Completed: 946 (0.35%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,15 +310,15 @@ Completed: 946 (0.35%) (Ranked 244)
 | 2024-01-07 | 265,922 | 942 |
 | 2024-01-08 | 266,172 | 945 |
 | 2024-01-09 | 266,449 | 946 |
-| 2024-01-10 | 266,542 | 946 |
+| 2024-01-10 | 266,557 | 946 |
 ## Awards
 Max (Great for Beginners): 539  (Ranked 216)  
-Sum: 4,330 (Ranked 159)  
+Sum: 4,332 (Ranked 159)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 539 |
-| This game has Diverse Characters | 492 |
+| This game has Diverse Characters | 494 |
 | This game is Highly Recommended | 463 |
 | This game has Amazing Characters | 436 |
 | This game is Extremely Fun | 415 |
@@ -618,4 +618,4 @@ Diff (max vs sum): 57
 | 2024-01-07 | 4.83 | 536 | 4,306 |
 | 2024-01-08 | 4.83 | 539 | 4,320 |
 | 2024-01-09 | 4.83 | 539 | 4,328 |
-| 2024-01-10 | 4.83 | 539 | 4,330 |
+| 2024-01-10 | 4.83 | 539 | 4,332 |

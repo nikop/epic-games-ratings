@@ -77,6 +77,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.50% | ~82 |
 | Patrons | 0.50% | ~82 |
 | Statesmen | 0.50% | ~82 |
+| Temple of Solomon | 0.50% | ~82 |
 | Greece | 0.50% | ~82 |
 | Power to the People | 0.50% | ~82 |
 | Persian Paganism | 0.50% | ~82 |
@@ -93,7 +94,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.40% | ~65 |
 | Circus Maximus | 0.40% | ~65 |
 | Hagia Sophia | 0.40% | ~65 |
-| Temple of Solomon | 0.40% | ~65 |
 | Pantheon | 0.40% | ~65 |
 | Via Recta Souk | 0.40% | ~65 |
 | Assyrian Paganism | 0.40% | ~65 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,340 (Ranked 169)  
+Progressed: 16,345 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -630,7 +630,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
-| 2024-01-10 | 16,340 | 5 |
+| 2024-01-10 | 16,345 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,919 (Ranked 224)  

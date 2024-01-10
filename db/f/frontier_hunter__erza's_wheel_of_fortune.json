@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -2625,9 +2625,9 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "7pimpda",
       "Name": "Giant Lizard Killer",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 200
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -2986,8 +2986,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-04T13:01:27.5517957+00:00",
-  "LastChanged_Achievements": "2024-01-10T10:10:20.876266+00:00",
+  "LastChanged_Achievements": "2024-01-10T11:10:20.248866+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.4482016+00:00",
-  "LastUpdate_Ratings": "2024-01-10T10:03:11.6396898+00:00",
-  "LastUpdate_Achievements": "2024-01-10T10:10:20.8763092+00:00"
+  "LastUpdate_Ratings": "2024-01-10T11:03:22.5154366+00:00",
+  "LastUpdate_Achievements": "2024-01-10T11:10:20.248906+00:00"
 }

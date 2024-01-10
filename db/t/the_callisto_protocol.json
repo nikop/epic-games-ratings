@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2097,10 +2097,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 619,
       "NumberOfAwardsMax": 129
+    },
+    {
+      "Time": "2024-01-10T11:04:02.5167917+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 620,
+      "NumberOfAwardsMax": 129
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 619,
+  "NumberOfAwards": 620,
   "NumberOfAwardsMax": 129,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -2120,7 +2126,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 107
+      "Count": 108
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2147,9 +2153,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 21950,
+  "EOS_Progressed": 21954,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1216,
+  "EOS_NewPlayers": 1215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13322,6 +13328,11 @@
       "Time": "2024-01-10T10:10:38.8186064+00:00",
       "NumProgressed": 21950,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-10T11:10:33.2757557+00:00",
+      "NumProgressed": 21954,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13453,7 +13464,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2414
+      "UsersEstimate": 2415
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -13461,7 +13472,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4390
+      "UsersEstimate": 4391
     },
     {
       "ID": "KILL_ROBOT",
@@ -13477,7 +13488,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 3512
+      "UsersEstimate": 3513
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -13501,7 +13512,7 @@
       "Name": "Reforged",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3951
+      "UsersEstimate": 3952
     },
     {
       "ID": "PRINT_WEAPON",
@@ -13509,7 +13520,7 @@
       "Name": "Paper Jams",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4829
+      "UsersEstimate": 4830
     },
     {
       "ID": "SHARE_PHOTO",
@@ -13525,7 +13536,7 @@
       "Name": "The Outer Way",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5707
+      "UsersEstimate": 5708
     },
     {
       "ID": "STORY_ESCAPE",
@@ -13533,7 +13544,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3512
+      "UsersEstimate": 3513
     },
     {
       "ID": "STORY_HABITAT",
@@ -13541,7 +13552,7 @@
       "Name": "Without A Paddle",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3073
+      "UsersEstimate": 3074
     },
     {
       "ID": "STORY_HANGAR",
@@ -13565,7 +13576,7 @@
       "Name": "Desperate Times",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5268
+      "UsersEstimate": 5269
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -13589,7 +13600,7 @@
       "Name": "Power Up",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2414
+      "UsersEstimate": 2415
     },
     {
       "ID": "DISMEMBER_100",
@@ -13685,7 +13696,7 @@
       "Name": "Keep Fighting",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -13708,22 +13719,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 21950,
+      "Progressed": 21954,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 9876,
+      "Progressed": 9880,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-01-09T23:03:39.0510048+00:00",
-  "LastChanged_Achievements": "2024-01-10T10:10:38.8186058+00:00",
+  "LastChanged": "2024-01-10T11:04:02.5167915+00:00",
+  "LastChanged_Achievements": "2024-01-10T11:10:33.2757554+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-10T10:04:10.8753935+00:00",
-  "LastUpdate_Achievements": "2024-01-10T10:10:38.8186968+00:00"
+  "LastUpdate_Ratings": "2024-01-10T11:04:02.516792+00:00",
+  "LastUpdate_Achievements": "2024-01-10T11:10:33.275831+00:00"
 }

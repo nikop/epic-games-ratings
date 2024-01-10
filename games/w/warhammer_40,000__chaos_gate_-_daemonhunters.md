@@ -16,8 +16,8 @@ Number of Ratings: 371  (23.09.2022)
 | Bloodless | 7.00% | ~271 |
 | Surgical Excision | 6.00% | ~232 |
 | Friendly Fire | 6.00% | ~232 |
-| Honoured Battle-Brother | 5.00% | ~193 |
-| A Foul Creche | 5.00% | ~193 |
+| Honoured Battle-Brother | 5.00% | ~194 |
+| A Foul Creche | 5.00% | ~194 |
 | The Emperor Protects | 4.00% | ~155 |
 | Nemesis Master | 4.00% | ~155 |
 | Gunmaster | 4.00% | ~155 |
@@ -43,8 +43,8 @@ Number of Ratings: 371  (23.09.2022)
 | Engine Kill | 0.90% | ~35 |
 | Death Comes For All | 0.90% | ~35 |
 | Harvest No More | 0.80% | ~31 |
+| True Mastery | 0.80% | ~31 |
 | Hands-On Research | 0.70% | ~27 |
-| True Mastery | 0.70% | ~27 |
 | Strike Force | 0.60% | ~23 |
 | Exercise in Restraint | 0.60% | ~23 |
 | Reign of Confusion | 0.50% | ~19 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,868 (Ranked 218)  
+Progressed: 3,870 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 3,834 | 0 |
 | 2024-01-08 | 3,845 | 0 |
 | 2024-01-09 | 3,864 | 0 |
-| 2024-01-10 | 3,868 | 0 |
+| 2024-01-10 | 3,870 | 0 |
 ## Awards
 Max (Character Customization): 233  (Ranked 286)  
 Sum: 500 (Ranked 335)  

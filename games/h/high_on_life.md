@@ -38,11 +38,11 @@ Rating: 4.65 (Ranked 321)
 | A Starfish Is Born | 0.30% | ~75 |
 | Meet Frasier from Frasier | 0.30% | ~7 |
 | Epic Legendary Prize | 0.20% | ~50 |
+| Playing Card To Get | 0.20% | ~50 |
 | Mods Please Ban | 0.20% | ~50 |
 | Luglox Genocide | 0.20% | ~50 |
 | Give Away All Your Money | 0.20% | ~5 |
 | It's Like The Santa Clause | 0.20% | ~5 |
-| Playing Card To Get | 0.10% | ~25 |
 | Seeing All The Sights | 0.10% | ~25 |
 | That's B.A.L.L., Folks | 0.10% | ~2 |
 | Cardbored | 0.10% | ~2 |

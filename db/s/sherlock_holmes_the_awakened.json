@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 270,
-  "Ranking_EOS_Completed": 105,
+  "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -175,11 +175,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1428,
-  "EOS_Completed": 45,
-  "EOS_NewPlayers": 42,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 3.15,
+  "EOS_Progressed": 1429,
+  "EOS_Completed": 46,
+  "EOS_NewPlayers": 43,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 3.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -5085,6 +5085,11 @@
       "Time": "2024-01-10T04:06:34.1018647+00:00",
       "NumProgressed": 1428,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2024-01-10T11:06:12.6432041+00:00",
+      "NumProgressed": 1429,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 28,
@@ -5104,7 +5109,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "MQ02_1",
@@ -5112,7 +5117,7 @@
       "Name": "High Profile",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "MQ02_2",
@@ -5128,7 +5133,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "MQ02_4",
@@ -5144,7 +5149,7 @@
       "Name": "Fond Memories",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "MQ03_2",
@@ -5160,7 +5165,7 @@
       "Name": "History Check",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "MQ03_4",
@@ -5168,7 +5173,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "MQ03_5",
@@ -5176,7 +5181,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "MQ04_1",
@@ -5208,7 +5213,7 @@
       "Name": "Open Sesame",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "MQ05_2",
@@ -5224,7 +5229,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "MQ05_4",
@@ -5232,7 +5237,7 @@
       "Name": "Knives Out",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "MQ06_1",
@@ -5280,7 +5285,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "MQ08_1",
@@ -5319,16 +5324,16 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1428,
-      "Completed": 45
+      "Progressed": 1429,
+      "Completed": 46
     }
   ],
   "FirstSeen": "2023-04-12T21:57:08.1785727+00:00",
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-09T11:03:12.1824937+00:00",
-  "LastChanged_Achievements": "2024-01-10T10:07:09.9195039+00:00",
+  "LastChanged_Achievements": "2024-01-10T11:06:12.6432034+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:40.4350556+00:00",
-  "LastUpdate_Ratings": "2024-01-10T10:04:02.2669904+00:00",
-  "LastUpdate_Achievements": "2024-01-10T10:07:09.9195427+00:00"
+  "LastUpdate_Ratings": "2024-01-10T11:03:56.6971331+00:00",
+  "LastUpdate_Achievements": "2024-01-10T11:06:12.6432508+00:00"
 }

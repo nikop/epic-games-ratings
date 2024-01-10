@@ -6,22 +6,22 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 72.00% | ~3,386 |
-| Ready for Winter | 61.00% | ~2,869 |
-| Ready for Summer | 48.00% | ~2,257 |
-| Cordon Bleu | 40.00% | ~1,881 |
-| Tapped! | 34.00% | ~1,599 |
-| Eureka | 29.00% | ~1,364 |
+| Venture Outward | 72.00% | ~3,388 |
+| Ready for Winter | 61.00% | ~2,871 |
+| Ready for Summer | 48.00% | ~2,259 |
+| Cordon Bleu | 40.00% | ~1,882 |
+| Tapped! | 34.00% | ~1,600 |
+| Eureka | 29.00% | ~1,365 |
 | Scourge Slayer | 23.00% | ~1,082 |
 | Science, Troglodyte! | 21.00% | ~988 |
 | Exceptional Skill | 20.00% | ~941 |
 | Home Sweet Home | 20.00% | ~941 |
 | Encyclopedic! | 18.00% | ~847 |
-| The Power of Family | 15.00% | ~705 |
-| A Fortress Toppled! | 14.00% | ~658 |
-| Apex Predator | 14.00% | ~658 |
-| Strange amalgams | 11.00% | ~517 |
-| The Power of Faith | 11.00% | ~517 |
+| The Power of Family | 15.00% | ~706 |
+| A Fortress Toppled! | 14.00% | ~659 |
+| Apex Predator | 14.00% | ~659 |
+| Strange amalgams | 11.00% | ~518 |
+| The Power of Faith | 11.00% | ~518 |
 | The Power of Freedom | 8.00% | ~376 |
 | Ace Detective | 7.00% | ~329 |
 | Gift from the Ancestors | 7.00% | ~329 |
@@ -43,13 +43,13 @@ Number of Ratings: 266  (23.09.2022)
 | Your actions define you | 2.00% | ~94 |
 | The blood is life | 1.00% | ~47 |
 | Vanquisher of nightmares | 1.00% | ~47 |
-| They'll Tell Stories About This | 0.90% | ~42 |
+| They'll Tell Stories About This | 0.80% | ~38 |
 | Through fire and flame. | 0.70% | ~33 |
 | Legacy of a master hunter | 0.40% | ~19 |
 | Master of Aurai | 0.30% | ~14 |
 | The Absolute Pinnacle. | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,703 (Ranked 206)  
+Progressed: 4,706 (Ranked 206)  
 Completed: 5 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 5 (0.11%) (Ranked 304)
 | 2024-01-07 | 4,622 | 5 |
 | 2024-01-08 | 4,653 | 5 |
 | 2024-01-09 | 4,681 | 5 |
-| 2024-01-10 | 4,703 | 5 |
+| 2024-01-10 | 4,706 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 505)  
 Sum: 246 (Ranked 402)  

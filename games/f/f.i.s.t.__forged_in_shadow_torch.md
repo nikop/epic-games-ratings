@@ -1,12 +1,12 @@
 # F.I.S.T.: Forged In Shadow Torch
 [Store](https://store.epicgames.com/en-US/p/fist-forged-in-shadow-torch)  
 [View Rawdata](../../db/f/f.i.s.t.__forged_in_shadow_torch.json)  
-Rating: 4.56 (Ranked 509)  
+Rating: 4.56 (Ranked 510)  
 Number of Ratings: 572  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 988  (Ranked 165)  
-Sum: 1,121 (Ranked 267)  
-Diff (max vs sum): -102  
+Sum: 1,121 (Ranked 266)  
+Diff (max vs sum): -101  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 988 |

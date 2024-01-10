@@ -5,7 +5,7 @@ Rating: 3.51 (Ranked 1,096)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~18,297 |
+| Be Seeing You | 22.00% | ~18,298 |
 | Master, Commander | 21.00% | ~17,466 |
 | Hard Worker | 20.00% | ~16,634 |
 | Adios, Friendo | 19.00% | ~15,802 |
@@ -19,7 +19,7 @@ Rating: 3.51 (Ranked 1,096)
 | Nothing Left to Say | 7.00% | ~5,822 |
 | Sniper | 7.00% | ~5,822 |
 | Cut Call | 6.00% | ~4,990 |
-| Magnetic Miracles | 5.00% | ~4,158 |
+| Magnetic Miracles | 5.00% | ~4,159 |
 | Butcher | 4.00% | ~3,327 |
 | Fair's Fair | 4.00% | ~3,327 |
 | Spicy | 4.00% | ~3,327 |
@@ -31,7 +31,7 @@ Rating: 3.51 (Ranked 1,096)
 | Audiophile | 2.00% | ~1,663 |
 | Tape Head | 2.00% | ~1,663 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,170 (Ranked 108)  
+Progressed: 83,171 (Ranked 108)  
 Completed: 928 (1.12%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 928 (1.12%) (Ranked 167)
 | 2024-01-07 | 83,018 | 925 |
 | 2024-01-08 | 83,086 | 925 |
 | 2024-01-09 | 83,149 | 927 |
-| 2024-01-10 | 83,170 | 928 |
+| 2024-01-10 | 83,171 | 928 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

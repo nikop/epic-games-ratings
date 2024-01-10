@@ -5,14 +5,14 @@ Rating: 4.08 (Ranked 1,024)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,057 |
-| World Map | 78.00% | ~3,402 |
+| Victor | 93.00% | ~4,058 |
+| World Map | 78.00% | ~3,403 |
 | Temple of Eternals | 56.00% | ~2,443 |
-| Prestigious | 52.00% | ~2,268 |
-| Fellowship Power | 41.00% | ~1,788 |
+| Prestigious | 52.00% | ~2,269 |
+| Fellowship Power | 41.00% | ~1,789 |
 | Full Party | 29.00% | ~1,265 |
 | Guild Power | 22.00% | ~960 |
-| Prestigious x10 | 20.00% | ~872 |
+| Prestigious x10 | 20.00% | ~873 |
 | The game is on | 18.00% | ~785 |
 | Exotic Merchant | 16.00% | ~698 |
 | Dragon Clicker | 15.00% | ~654 |
@@ -21,7 +21,7 @@ Rating: 4.08 (Ranked 1,024)
 | Dragon Master | 13.00% | ~567 |
 | Enlightenment | 13.00% | ~567 |
 | Hero inspection | 13.00% | ~567 |
-| Lieutenant | 12.00% | ~523 |
+| Lieutenant | 12.00% | ~524 |
 | Mysterious Rock | 11.00% | ~480 |
 | Natural Talent | 11.00% | ~480 |
 | Superior | 11.00% | ~480 |
@@ -54,11 +54,11 @@ Rating: 4.08 (Ranked 1,024)
 | Lock And Load | 5.00% | ~218 |
 | Missions Dedication | 5.00% | ~218 |
 | Sailor | 5.00% | ~218 |
-| Active Member | 4.00% | ~174 |
-| Ancient Knowledge | 4.00% | ~174 |
-| Background Story | 4.00% | ~174 |
-| Legendary | 4.00% | ~174 |
-| The Alchemist | 4.00% | ~174 |
+| Active Member | 4.00% | ~175 |
+| Ancient Knowledge | 4.00% | ~175 |
+| Background Story | 4.00% | ~175 |
+| Legendary | 4.00% | ~175 |
+| The Alchemist | 4.00% | ~175 |
 | Arena Challenger | 3.00% | ~131 |
 | Ebony Jungle Liberator | 3.00% | ~131 |
 | Cauldron Liberator | 2.00% | ~87 |
@@ -81,7 +81,7 @@ Rating: 4.08 (Ranked 1,024)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,362 (Ranked 209)  
+Progressed: 4,363 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 2 (0.05%) (Ranked 336)
 | 2024-01-07 | 4,299 | 2 |
 | 2024-01-08 | 4,327 | 2 |
 | 2024-01-09 | 4,351 | 2 |
-| 2024-01-10 | 4,362 | 2 |
+| 2024-01-10 | 4,363 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 483)  
 Sum: 155 (Ranked 440)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -381,7 +381,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2342,
+  "EOS_Progressed": 2343,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
@@ -4316,6 +4316,11 @@
       "Time": "2024-01-10T10:08:07.7371665+00:00",
       "NumProgressed": 2342,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T11:06:54.6938778+00:00",
+      "NumProgressed": 2343,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4573,9 +4578,9 @@
       "ID": "Achievement_033",
       "SetID": "6b34g18",
       "Name": "Wounded Whispers",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 351
     },
     {
       "ID": "Achievement_034",
@@ -4854,7 +4859,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2342,
+      "Progressed": 2343,
       "Completed": 0
     }
   ],
@@ -4862,8 +4867,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
-  "LastChanged_Achievements": "2024-01-10T10:08:07.7371658+00:00",
+  "LastChanged_Achievements": "2024-01-10T11:06:54.6938774+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-10T10:02:04.8332266+00:00",
-  "LastUpdate_Achievements": "2024-01-10T10:08:07.7372498+00:00"
+  "LastUpdate_Ratings": "2024-01-10T11:01:02.9230108+00:00",
+  "LastUpdate_Achievements": "2024-01-10T11:06:54.6939465+00:00"
 }

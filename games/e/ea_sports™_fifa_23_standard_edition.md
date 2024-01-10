@@ -5,27 +5,27 @@ Rating: 4.26 (Ranked 916)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~158,986 |
-| Dead-ball specialist | 61.00% | ~129,308 |
-| European Legend | 52.00% | ~110,230 |
-| Multitasking | 51.00% | ~108,110 |
-| Balanced Path | 49.00% | ~103,871 |
-| High Grades | 48.00% | ~101,751 |
-| A Moment of Your Time | 46.00% | ~97,511 |
-| Let the Games Begin | 46.00% | ~97,511 |
-| Aiming High | 46.00% | ~97,511 |
-| Tactical Tinkerer | 40.00% | ~84,792 |
+| Power Shot | 75.00% | ~158,987 |
+| Dead-ball specialist | 61.00% | ~129,310 |
+| European Legend | 52.00% | ~110,231 |
+| Multitasking | 51.00% | ~108,111 |
+| Balanced Path | 49.00% | ~103,872 |
+| High Grades | 48.00% | ~101,752 |
+| A Moment of Your Time | 46.00% | ~97,512 |
+| Let the Games Begin | 46.00% | ~97,512 |
+| Aiming High | 46.00% | ~97,512 |
+| Tactical Tinkerer | 40.00% | ~84,793 |
 | Intuition and Execution | 39.00% | ~82,673 |
-| Squad Building Connoisseur | 38.00% | ~80,553 |
-| The Winning Formula | 36.00% | ~76,313 |
+| Squad Building Connoisseur | 38.00% | ~80,554 |
+| The Winning Formula | 36.00% | ~76,314 |
 | Parking the Bus | 28.00% | ~59,355 |
-| Safe House | 26.00% | ~55,115 |
-| Best of Five | 26.00% | ~55,115 |
-| Football is Everything | 24.00% | ~50,875 |
+| Safe House | 26.00% | ~55,116 |
+| Best of Five | 26.00% | ~55,116 |
+| Football is Everything | 24.00% | ~50,876 |
 | The Chosen One | 22.00% | ~46,636 |
-| Fresh Fit | 20.00% | ~42,396 |
+| Fresh Fit | 20.00% | ~42,397 |
 | Bring it on | 17.00% | ~36,037 |
-| Life-Like | 14.00% | ~29,677 |
+| Life-Like | 14.00% | ~29,678 |
 | Make the Grade | 12.00% | ~25,438 |
 | I Played Them All | 10.00% | ~21,198 |
 | Specialist | 10.00% | ~21,198 |
@@ -45,7 +45,7 @@ Rating: 4.26 (Ranked 916)
 | Training Addict | 0.10% | ~212 |
 | Dazzling Personality | 0.10% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,981 (Ranked 81)  
+Progressed: 211,983 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,21 +163,21 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 211,381 | 0 |
 | 2024-01-08 | 211,646 | 0 |
 | 2024-01-09 | 211,900 | 0 |
-| 2024-01-10 | 211,981 | 0 |
+| 2024-01-10 | 211,983 | 0 |
 ## Awards
 Max (Diverse Characters): 22,189  (Ranked 21)  
-Sum: 110,186 (Ranked 17)  
+Sum: 110,204 (Ranked 17)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 22,189 |
-| This game is Highly Recommended | 15,068 |
+| This game is Highly Recommended | 15,072 |
 | This game has a Competitive Community | 14,420 |
-| This game has Amazing Characters | 12,395 |
+| This game has Amazing Characters | 12,401 |
 | This game is Extremely Fun | 11,886 |
 | This game has Competitive Players | 11,829 |
 | This game has Amazing Storytelling | 11,655 |
-| This game has Quickly Understood Controls | 10,744 |
+| This game has Quickly Understood Controls | 10,752 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -552,4 +552,4 @@ Diff (max vs sum): 4
 | 2024-01-07 | 4.26 | 22,168 | 110,086 |
 | 2024-01-08 | 4.26 | 22,178 | 110,130 |
 | 2024-01-09 | 4.26 | 22,189 | 110,173 |
-| 2024-01-10 | 4.26 | 22,189 | 110,186 |
+| 2024-01-10 | 4.26 | 22,189 | 110,204 |

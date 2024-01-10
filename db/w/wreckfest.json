@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -355,7 +355,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1040,
+  "EOS_Progressed": 1041,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 0,
@@ -2555,6 +2555,11 @@
       "Time": "2024-01-10T10:09:37.5035874+00:00",
       "NumProgressed": 1040,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T11:09:48.8491258+00:00",
+      "NumProgressed": 1041,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2567,7 +2572,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "CareerAllChallenges",
@@ -2583,7 +2588,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "CareerChamp2",
@@ -2623,7 +2628,7 @@
       "Name": "Storm Warning",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "CollectVehiclesA",
@@ -2726,7 +2731,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1040,
+      "Progressed": 1041,
       "Completed": 0
     }
   ],
@@ -2734,8 +2739,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-07T05:59:24.3409501+00:00",
-  "LastChanged_Achievements": "2024-01-10T10:09:37.5035871+00:00",
+  "LastChanged_Achievements": "2024-01-10T11:09:48.8491254+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
-  "LastUpdate_Ratings": "2024-01-10T10:02:00.4449777+00:00",
-  "LastUpdate_Achievements": "2024-01-10T10:09:37.5036139+00:00"
+  "LastUpdate_Ratings": "2024-01-10T11:00:59.9172234+00:00",
+  "LastUpdate_Achievements": "2024-01-10T11:09:48.8491732+00:00"
 }

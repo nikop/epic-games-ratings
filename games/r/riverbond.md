@@ -6,20 +6,20 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~374,715 |
-| Now You're Talking | 62.00% | ~331,890 |
-| Steel Yourself | 62.00% | ~331,890 |
+| First Step | 70.00% | ~374,716 |
+| Now You're Talking | 62.00% | ~331,892 |
+| Steel Yourself | 62.00% | ~331,892 |
 | Window Dressing | 50.00% | ~267,654 |
-| Trigger Happy | 46.00% | ~246,241 |
-| Riverborn | 45.00% | ~240,888 |
-| Starry Eyed | 34.00% | ~182,004 |
-| Poking Around | 34.00% | ~182,004 |
+| Trigger Happy | 46.00% | ~246,242 |
+| Riverborn | 45.00% | ~240,889 |
+| Starry Eyed | 34.00% | ~182,005 |
+| Poking Around | 34.00% | ~182,005 |
 | Talk of the Town | 24.00% | ~128,474 |
 | AAARR! | 23.00% | ~123,121 |
 | Hello Darkness | 23.00% | ~123,121 |
 | Wind At Our Backs | 22.00% | ~117,768 |
-| To the Beat | 20.00% | ~107,061 |
-| Sunny Shores | 17.00% | ~91,002 |
+| To the Beat | 20.00% | ~107,062 |
+| Sunny Shores | 17.00% | ~91,003 |
 | Sunday Best | 16.00% | ~85,649 |
 | To Victory! | 15.00% | ~80,296 |
 | Two of a Kind | 14.00% | ~74,943 |
@@ -31,15 +31,15 @@ Number of Ratings: 617  (23.09.2022)
 | Road Less Travelled | 9.00% | ~48,178 |
 | Lost and Found | 9.00% | ~48,178 |
 | Under the Radar | 8.00% | ~42,825 |
-| Partner in Crime | 7.00% | ~37,471 |
-| Hard to Hear | 7.00% | ~37,471 |
-| Moving On Up | 6.00% | ~32,118 |
-| Owl Knows Best | 6.00% | ~32,118 |
-| Mind the Moose | 6.00% | ~32,118 |
-| Oh, Romeo! | 6.00% | ~32,118 |
-| Dressed to Kill | 6.00% | ~32,118 |
-| Beast Mode | 6.00% | ~32,118 |
-| Slime Slayer | 6.00% | ~32,118 |
+| Partner in Crime | 7.00% | ~37,472 |
+| Hard to Hear | 7.00% | ~37,472 |
+| Moving On Up | 6.00% | ~32,119 |
+| Owl Knows Best | 6.00% | ~32,119 |
+| Mind the Moose | 6.00% | ~32,119 |
+| Oh, Romeo! | 6.00% | ~32,119 |
+| Dressed to Kill | 6.00% | ~32,119 |
+| Beast Mode | 6.00% | ~32,119 |
+| Slime Slayer | 6.00% | ~32,119 |
 | Noble Intentions | 5.00% | ~26,765 |
 | Rising Star | 5.00% | ~26,765 |
 | Privacy, Please! | 4.00% | ~21,412 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,606 |
 | Point Taken | 0.20% | ~1,071 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 535,307 (Ranked 37)  
+Progressed: 535,309 (Ranked 37)  
 Completed: 519 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,11 +329,11 @@ Completed: 519 (0.10%) (Ranked 309)
 | 2024-01-07 | 535,157 | 519 |
 | 2024-01-08 | 535,203 | 519 |
 | 2024-01-09 | 535,283 | 519 |
-| 2024-01-10 | 535,307 | 519 |
+| 2024-01-10 | 535,309 | 519 |
 ## Awards
-Max (Relaxing): 21  (Ranked 573)  
+Max (Relaxing): 21  (Ranked 574)  
 Sum: 21 (Ranked 576)  
-Diff (max vs sum): -3  
+Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 21 |

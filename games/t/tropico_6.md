@@ -8,23 +8,23 @@ Number of Ratings: 398  (23.09.2022)
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 73.00% | ~5,146 |
 | Un-Lonely Island | 44.00% | ~3,102 |
-| The Beginning of a Servantship | 43.00% | ~3,031 |
-| Trade Is My Trait | 35.00% | ~2,467 |
-| Number 18 | 23.00% | ~1,621 |
+| The Beginning of a Servantship | 43.00% | ~3,032 |
+| Trade Is My Trait | 35.00% | ~2,468 |
+| Number 18 | 23.00% | ~1,622 |
 | We Don't Have Time For That | 18.00% | ~1,269 |
 | The Legend of Langostino | 16.00% | ~1,128 |
 | The Governator | 16.00% | ~1,128 |
-| Caribbean Comrade | 15.00% | ~1,057 |
-| The Dreamer of Dreams | 15.00% | ~1,057 |
-| Go Sovereigns! | 11.00% | ~775 |
+| Caribbean Comrade | 15.00% | ~1,058 |
+| The Dreamer of Dreams | 15.00% | ~1,058 |
+| Go Sovereigns! | 11.00% | ~776 |
 | Happy Ending? | 10.00% | ~705 |
 | For Science! | 10.00% | ~705 |
 | Of Seals And Men | 9.00% | ~634 |
 | Shackadelic | 9.00% | ~634 |
 | Double Trouble | 8.00% | ~564 |
-| Firestarter | 7.00% | ~493 |
-| Make Tropico Great Again! | 7.00% | ~493 |
-| French Connection | 7.00% | ~493 |
+| Firestarter | 7.00% | ~494 |
+| Make Tropico Great Again! | 7.00% | ~494 |
+| French Connection | 7.00% | ~494 |
 | Don't Panic! | 6.00% | ~423 |
 | I Owe You Nothing | 6.00% | ~423 |
 | Viva Tropico! | 5.00% | ~352 |
@@ -32,10 +32,10 @@ Number of Ratings: 398  (23.09.2022)
 | Beware The Betman | 5.00% | ~352 |
 | Watch The World Burn | 5.00% | ~352 |
 | Fairy Tale Come True | 5.00% | ~352 |
-| Been there, Done That | 3.00% | ~211 |
-| Apocalypso | 3.00% | ~211 |
-| Narcissist | 3.00% | ~211 |
-| The Time For Wonders | 3.00% | ~211 |
+| Been there, Done That | 3.00% | ~212 |
+| Apocalypso | 3.00% | ~212 |
+| Narcissist | 3.00% | ~212 |
+| The Time For Wonders | 3.00% | ~212 |
 | One Does Not Simply Stage A Coup | 2.00% | ~141 |
 | Promising Endeavors | 2.00% | ~141 |
 | Sublime Subliminal Supreme | 2.00% | ~141 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~56 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,049 (Ranked 197)  
+Progressed: 7,050 (Ranked 197)  
 Completed: 2 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 2 (0.03%) (Ranked 354)
 | 2024-01-07 | 6,998 | 2 |
 | 2024-01-08 | 7,016 | 2 |
 | 2024-01-09 | 7,043 | 2 |
-| 2024-01-10 | 7,049 | 2 |
+| 2024-01-10 | 7,050 | 2 |
 ## Awards
 Max (Highly Recommended): 106  (Ranked 372)  
 Sum: 758 (Ranked 304)  

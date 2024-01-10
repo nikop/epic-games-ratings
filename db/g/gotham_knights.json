@@ -5189,9 +5189,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82368,
+  "EOS_Progressed": 82370,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 1194,
+  "EOS_NewPlayers": 1191,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -29674,6 +29674,11 @@
       "Time": "2024-01-10T10:06:32.8980313+00:00",
       "NumProgressed": 82368,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2024-01-10T11:05:45.3395551+00:00",
+      "NumProgressed": 82370,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 61,
@@ -29773,7 +29778,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 12355
+      "UsersEstimate": 12356
     },
     {
       "ID": "CHALLENGES_1",
@@ -29909,7 +29914,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 22239
+      "UsersEstimate": 22240
     },
     {
       "ID": "FREEZE_1_5",
@@ -29925,7 +29930,7 @@
       "Name": "Snow Problem",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 14826
+      "UsersEstimate": 14827
     },
     {
       "ID": "FREEZE_3",
@@ -29989,7 +29994,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28005
+      "UsersEstimate": 28006
     },
     {
       "ID": "HARLEY_2",
@@ -29997,7 +30002,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19768
+      "UsersEstimate": 19769
     },
     {
       "ID": "HARLEY_3",
@@ -30013,7 +30018,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 12355
+      "UsersEstimate": 12356
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -30029,7 +30034,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41184
+      "UsersEstimate": 41185
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -30077,7 +30082,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27181
+      "UsersEstimate": 27182
     },
     {
       "ID": "MYSTERY_02",
@@ -30085,7 +30090,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19768
+      "UsersEstimate": 19769
     },
     {
       "ID": "MYSTERY_03",
@@ -30141,7 +30146,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 9060
+      "UsersEstimate": 9061
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -30149,7 +30154,7 @@
       "Name": "Solid Alibi",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 6589
+      "UsersEstimate": 6590
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -30172,13 +30177,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82368,
+      "Progressed": 82370,
       "Completed": 133
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 52648,
+      "Progressed": 52650,
       "Completed": 2679
     }
   ],
@@ -30186,8 +30191,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-10T09:00:43.141783+00:00",
-  "LastChanged_Achievements": "2024-01-10T10:06:32.8980308+00:00",
+  "LastChanged_Achievements": "2024-01-10T11:05:45.3395548+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:43.7132471+00:00",
-  "LastUpdate_Ratings": "2024-01-10T10:00:57.7421057+00:00",
-  "LastUpdate_Achievements": "2024-01-10T10:06:32.8981786+00:00"
+  "LastUpdate_Ratings": "2024-01-10T11:00:16.0338015+00:00",
+  "LastUpdate_Achievements": "2024-01-10T11:05:45.3397151+00:00"
 }

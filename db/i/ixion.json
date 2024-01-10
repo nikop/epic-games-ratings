@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -347,9 +347,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4130,
+  "EOS_Progressed": 4131,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8337,6 +8337,11 @@
       "Time": "2024-01-10T10:07:28.7861068+00:00",
       "NumProgressed": 4130,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T11:06:26.7535773+00:00",
+      "NumProgressed": 4131,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8380,7 +8385,7 @@
       "Name": "Oats",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_BASE_15",
@@ -8404,7 +8409,7 @@
       "Name": "What They Hide From Us",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_BASE_18",
@@ -8412,7 +8417,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "ACH_BASE_19",
@@ -8420,7 +8425,7 @@
       "Name": "...  in a finite world",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_BASE_2",
@@ -8492,7 +8497,7 @@
       "Name": "In Dolos We Trust",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_BASE_29",
@@ -8684,7 +8689,7 @@
       "Name": "BRAWL!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_BASE_53",
@@ -8788,7 +8793,7 @@
       "Name": "What the Ruins Teach Us",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_BASE_9",
@@ -8803,13 +8808,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2314,
+      "Progressed": 2315,
       "Completed": 11
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4130,
+      "Progressed": 4131,
       "Completed": 0
     }
   ],
@@ -8817,8 +8822,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-10T09:57:46.399395+00:00",
-  "LastChanged_Achievements": "2024-01-10T10:07:28.7861066+00:00",
+  "LastChanged_Achievements": "2024-01-10T11:06:26.7535769+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:25.5201636+00:00",
-  "LastUpdate_Ratings": "2024-01-10T09:57:46.3993954+00:00",
-  "LastUpdate_Achievements": "2024-01-10T10:07:28.7861833+00:00"
+  "LastUpdate_Ratings": "2024-01-10T10:58:05.7238858+00:00",
+  "LastUpdate_Achievements": "2024-01-10T11:06:26.7536521+00:00"
 }

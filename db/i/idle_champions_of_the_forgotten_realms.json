@@ -9439,9 +9439,9 @@
       "Count": 3634
     }
   ],
-  "EOS_Progressed": 253134,
+  "EOS_Progressed": 253145,
   "EOS_Completed": 2609,
-  "EOS_NewPlayers": 2880,
+  "EOS_NewPlayers": 2865,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39469,6 +39469,11 @@
       "Time": "2024-01-10T10:11:24.1362418+00:00",
       "NumProgressed": 253134,
       "NumCompleted": 2609
+    },
+    {
+      "Time": "2024-01-10T11:11:08.43752+00:00",
+      "NumProgressed": 253145,
+      "NumCompleted": 2609
     }
   ],
   "TotalAchievements": 546,
@@ -39480,7 +39485,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10125
+      "UsersEstimate": 10126
     },
     {
       "ID": "objective_completed_10",
@@ -43784,7 +43789,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "objective_completed_1563",
@@ -43847,21 +43852,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219408,
+      "Progressed": 219419,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253134,
+      "Progressed": 253145,
       "Completed": 2609
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-10T05:58:32.3693636+00:00",
-  "LastChanged_Achievements": "2024-01-10T10:11:24.1362413+00:00",
+  "LastChanged_Achievements": "2024-01-10T11:11:08.4375197+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-10T09:58:51.6300911+00:00",
-  "LastUpdate_Achievements": "2024-01-10T10:11:24.1387192+00:00"
+  "LastUpdate_Ratings": "2024-01-10T10:58:51.1816291+00:00",
+  "LastUpdate_Achievements": "2024-01-10T11:11:08.4399544+00:00"
 }

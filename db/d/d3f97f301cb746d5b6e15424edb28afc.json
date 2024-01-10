@@ -2,13 +2,13 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_Rating": 509,
+  "Ranking_Rating": 510,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -5012,9 +5012,9 @@
       "ID": "GSS_ACH_31_TRASH_02",
       "SetID": "5fn8ia4",
       "Name": "Trash B Gone",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1394
     },
     {
       "ID": "GSS_ACH_32_TRASH_03",
@@ -5356,9 +5356,9 @@
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 880
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -5437,8 +5437,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-05T19:59:54.3830999+00:00",
-  "LastChanged_Achievements": "2024-01-10T10:06:41.9190462+00:00",
+  "LastChanged_Achievements": "2024-01-10T11:05:51.9374653+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.4325477+00:00",
-  "LastUpdate_Ratings": "2024-01-10T09:59:23.5968289+00:00",
-  "LastUpdate_Achievements": "2024-01-10T10:06:41.9191467+00:00"
+  "LastUpdate_Ratings": "2024-01-10T10:59:12.9496847+00:00",
+  "LastUpdate_Achievements": "2024-01-10T11:05:51.9375589+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Act of Kindness | 88.00% | ~106 |
-| Air Fighter | 72.00% | ~87 |
+| Air Fighter | 73.00% | ~88 |
 | Oo-De-Lally | 72.00% | ~87 |
 | Treasure Hunter | 64.00% | ~77 |
 | The Altruist | 64.00% | ~77 |
@@ -22,7 +22,7 @@
 | Finish Him! | 22.00% | ~27 |
 | First Aid | 21.00% | ~25 |
 | Ultra Rebel Instinct | 20.00% | ~24 |
-| Merry Go Round | 19.00% | ~23 |
+| Merry Go Round | 20.00% | ~24 |
 | Savior | 17.00% | ~21 |
 | Hidden Experiment | 15.00% | ~18 |
 | Take Action! | 15.00% | ~18 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121 (Ranked 480)  
+Progressed: 121 (Ranked 481)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |

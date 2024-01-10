@@ -4,8 +4,8 @@
   "ProductSlug": "xuan-yuan-sword-7-22c442",
   "Ranking_EOS_Progress": 574,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 463,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-06T02:00:00+00:00",
     "PcReleaseDate": "2020-10-28T16:00:00+00:00",
@@ -302,17 +302,17 @@
       "ID": "Chapter02_BlackTidings",
       "SetID": "c8fdd59",
       "Name": "Black Tidings",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Chapter03_DangerousDeal",
       "SetID": "c8fdd59",
       "Name": "Dangerous Deal",
-      "Percentage": 57,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Chapter04_AJourneyBegins",
@@ -454,9 +454,9 @@
       "ID": "FirstBuildingInElysium",
       "SetID": "c8fdd59",
       "Name": "Something in the Scroll",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "GoodCompany",
@@ -470,9 +470,9 @@
       "ID": "HitTheBoardRunning",
       "SetID": "c8fdd59",
       "Name": "Hit the Board Running",
-      "Percentage": 40,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Marker",
@@ -613,8 +613,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2024-01-10T10:11:14.8033287+00:00",
+  "LastChanged_Achievements": "2024-01-10T11:11:00.7455976+00:00",
   "LastUpdate_AppInfo": "2024-01-08T17:57:08.0794756+00:00",
-  "LastUpdate_Ratings": "2024-01-10T10:01:19.4492765+00:00",
-  "LastUpdate_Achievements": "2024-01-10T10:11:14.8033668+00:00"
+  "LastUpdate_Ratings": "2024-01-10T11:00:30.4679832+00:00",
+  "LastUpdate_Achievements": "2024-01-10T11:11:00.7456318+00:00"
 }

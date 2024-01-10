@@ -2,10 +2,10 @@
   "ID": "ba2b8f9cfb9344b6b76f87d3fc5f8b80",
   "Name": "Colossal Cave",
   "ProductSlug": "colossal-cave-6f902f",
-  "Ranking_EOS_Progress": 489,
+  "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 577,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 578,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-01-19T05:00:00+00:00",
     "PcReleaseDate": "2023-01-19T05:00:00+00:00",
@@ -401,8 +401,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2024-01-10T10:05:10.6204471+00:00",
+  "LastChanged_Achievements": "2024-01-10T11:04:45.9806346+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.8592733+00:00",
-  "LastUpdate_Ratings": "2024-01-10T10:03:41.4964458+00:00",
-  "LastUpdate_Achievements": "2024-01-10T10:05:10.6204655+00:00"
+  "LastUpdate_Ratings": "2024-01-10T11:03:42.6309149+00:00",
+  "LastUpdate_Achievements": "2024-01-10T11:04:45.9806498+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1056,9 +1056,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16107,
+  "EOS_Progressed": 16112,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 945,
+  "EOS_NewPlayers": 943,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -17676,6 +17676,11 @@
       "Time": "2024-01-10T10:10:51.6412592+00:00",
       "NumProgressed": 16107,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2024-01-10T11:10:42.8092465+00:00",
+      "NumProgressed": 16112,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 34,
@@ -17711,7 +17716,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "ACH05",
@@ -17759,7 +17764,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "ACH11",
@@ -17775,7 +17780,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "ACH13",
@@ -17791,7 +17796,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6765
+      "UsersEstimate": 6767
     },
     {
       "ID": "ACH15",
@@ -17845,9 +17850,9 @@
       "ID": "ACH21",
       "SetID": "9llo822",
       "Name": "Legal Counsel",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 7570
+      "UsersEstimate": 7412
     },
     {
       "ID": "ACH22",
@@ -17855,7 +17860,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3382
+      "UsersEstimate": 3384
     },
     {
       "ID": "ACH23",
@@ -17863,7 +17868,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 4188
+      "UsersEstimate": 4189
     },
     {
       "ID": "ACH24",
@@ -17871,7 +17876,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2416
+      "UsersEstimate": 2417
     },
     {
       "ID": "ACH25",
@@ -17879,7 +17884,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2416
+      "UsersEstimate": 2417
     },
     {
       "ID": "ACH26",
@@ -17887,7 +17892,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2416
+      "UsersEstimate": 2417
     },
     {
       "ID": "ACH27",
@@ -17895,7 +17900,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "ACH28",
@@ -17903,7 +17908,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "ACH29",
@@ -17958,7 +17963,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16107,
+      "Progressed": 16112,
       "Completed": 94
     }
   ],
@@ -17966,8 +17971,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-03T02:18:34.6735113+00:00",
-  "LastChanged_Achievements": "2024-01-10T10:10:51.6412586+00:00",
+  "LastChanged_Achievements": "2024-01-10T11:10:42.8092462+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:12.9251558+00:00",
-  "LastUpdate_Ratings": "2024-01-10T09:57:55.5488279+00:00",
-  "LastUpdate_Achievements": "2024-01-10T10:10:51.6413652+00:00"
+  "LastUpdate_Ratings": "2024-01-10T10:58:13.1803209+00:00",
+  "LastUpdate_Achievements": "2024-01-10T11:10:42.8093261+00:00"
 }

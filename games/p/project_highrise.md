@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 55.00% | ~280 |
+| In the Black | 55.00% | ~281 |
 | Starting Skyward | 49.00% | ~250 |
-| Grime is Not Good | 42.00% | ~214 |
+| Grime is Not Good | 42.00% | ~215 |
 | Floor Galore | 36.00% | ~184 |
 | Campaign Launch | 36.00% | ~184 |
 | Dinner Dash | 36.00% | ~184 |
-| Need a Consult | 34.00% | ~173 |
-| Upgrade Unlock | 33.00% | ~168 |
-| It's Technical | 33.00% | ~168 |
+| Need a Consult | 34.00% | ~174 |
+| Upgrade Unlock | 33.00% | ~169 |
+| It's Technical | 33.00% | ~169 |
 | Proper Walls | 29.00% | ~148 |
 | Delegate Maintenance | 29.00% | ~148 |
 | Destination Destiny | 28.00% | ~143 |
-| Happy Tenants | 23.00% | ~117 |
-| Potent Potables | 23.00% | ~117 |
+| Happy Tenants | 23.00% | ~118 |
+| Potent Potables | 23.00% | ~118 |
 | Your Prestige is Rising | 22.00% | ~112 |
 | Smooth Service | 22.00% | ~112 |
 | Retail Revenue | 21.00% | ~107 |
@@ -31,9 +31,9 @@
 | Get Electrified | 17.00% | ~87 |
 | Rehab Expert | 16.00% | ~82 |
 | Tasty Profits | 16.00% | ~82 |
-| Established Fame | 15.00% | ~76 |
-| Under One Roof | 14.00% | ~71 |
-| Cashflow Chief | 14.00% | ~71 |
+| Established Fame | 15.00% | ~77 |
+| Under One Roof | 14.00% | ~72 |
+| Cashflow Chief | 14.00% | ~72 |
 | Starred Dining | 13.00% | ~66 |
 | Smooth Operator | 11.00% | ~56 |
 | Boutique Benefits | 11.00% | ~56 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 510 (Ranked 350)  
+Progressed: 511 (Ranked 350)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 502 | 0 |
 | 2024-01-08 | 505 | 0 |
 | 2024-01-09 | 509 | 0 |
-| 2024-01-10 | 510 | 0 |
+| 2024-01-10 | 511 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 684,
+  "EOS_Progressed": 685,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -2482,6 +2482,11 @@
       "Time": "2024-01-10T08:10:41.5558663+00:00",
       "NumProgressed": 684,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-10T11:10:53.3611834+00:00",
+      "NumProgressed": 685,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2507,9 +2512,9 @@
       "ID": "completeact3",
       "SetID": "40n95i5",
       "Name": "On the Road",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 253
+      "UsersEstimate": 247
     },
     {
       "ID": "findalltapes",
@@ -2597,7 +2602,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "scoreminrankrv2",
@@ -2612,7 +2617,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 684,
+      "Progressed": 685,
       "Completed": 3
     }
   ],
@@ -2620,8 +2625,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-10T10:11:05.4473601+00:00",
+  "LastChanged_Achievements": "2024-01-10T11:10:53.3611831+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.1061642+00:00",
-  "LastUpdate_Ratings": "2024-01-10T10:00:12.8278316+00:00",
-  "LastUpdate_Achievements": "2024-01-10T10:11:05.4473804+00:00"
+  "LastUpdate_Ratings": "2024-01-10T10:59:46.2240862+00:00",
+  "LastUpdate_Achievements": "2024-01-10T11:10:53.3612081+00:00"
 }
