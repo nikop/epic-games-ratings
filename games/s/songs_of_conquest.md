@@ -6,7 +6,7 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~511 |
+| Adept | 46.00% | ~512 |
 | Double Kill | 41.00% | ~456 |
 | Critical Hit | 23.00% | ~256 |
 | Veteran | 23.00% | ~256 |
@@ -38,10 +38,10 @@ Number of Ratings: 292  (23.09.2022)
 | Cleave | 0.60% | ~7 |
 | Death To Diplomacy | 0.50% | ~6 |
 | Unlimited Power! | 0.50% | ~6 |
-| Coming Through! | 0.50% | ~6 |
-| Get Over Here! | 0.50% | ~6 |
 | Attack Bonanza | 0.40% | ~4 |
+| Coming Through! | 0.40% | ~4 |
 | Barbecue | 0.40% | ~4 |
+| Get Over Here! | 0.40% | ~4 |
 | Fully Charged | 0.30% | ~3 |
 | Oops! | 0.30% | ~3 |
 | The Marsh Expands | 0.30% | ~3 |
@@ -61,8 +61,8 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,111 (Ranked 287)  
-Completed: 0 (0.00%) (Ranked 394)  
+Progressed: 1,112 (Ranked 287)  
+Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,6 +122,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-07 | 1,067 | 0 |
 | 2024-01-08 | 1,089 | 0 |
 | 2024-01-09 | 1,111 | 0 |
+| 2024-01-10 | 1,112 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 522)  
 Sum: 252 (Ranked 398)  

@@ -4792,9 +4792,9 @@
       "ID": "GSS_ACH_05_TIP_03",
       "SetID": "5fn8ia4",
       "Name": "Tip of the Iceberg",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1225
     },
     {
       "ID": "GSS_ACH_06_FUEL_01",
@@ -5080,9 +5080,9 @@
       "ID": "GSS_ACH_42_CARAVAN_01",
       "SetID": "5fn8ia4",
       "Name": "Help Wanted!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1142
     },
     {
       "ID": "GSS_ACH_43_CARAVAN_02",
@@ -5417,8 +5417,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-05T19:59:54.3830999+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:05:57.5658436+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:05:01.2628106+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.4325477+00:00",
-  "LastUpdate_Ratings": "2024-01-09T22:58:56.2042562+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:05:57.565937+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:58:11.3397321+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:05:01.2629606+00:00"
 }

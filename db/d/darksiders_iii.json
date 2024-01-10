@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -476,7 +476,7 @@
   ],
   "EOS_Progressed": 525,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2394,9 +2394,9 @@
       "ID": "Save_Humans_5",
       "SetID": "7a5k76n",
       "Name": "Five\u0027s a Crowd",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 210
     },
     {
       "ID": "Save_Usiel_No_Kill",
@@ -2474,8 +2474,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:05:02.7993307+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:04:23.6462222+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-09T22:58:08.234525+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:05:02.799402+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:57:39.7749239+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:04:23.6462881+00:00"
 }

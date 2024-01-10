@@ -12,8 +12,8 @@
 | Aboard the Sea Bird | 30.00% | ~89 |
 | Dark and stinky | 29.00% | ~86 |
 | Sneak in, sneak out | 25.00% | ~74 |
+| A gift horse | 25.00% | ~74 |
 | Is this the end? | 24.00% | ~71 |
-| A gift horse | 24.00% | ~71 |
 | You sssaved me | 23.00% | ~68 |
 | Say hello to my little friends | 20.00% | ~59 |
 | Heal thyself | 20.00% | ~59 |
@@ -47,7 +47,7 @@
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 296 (Ranked 400)  
-Completed: 0 (0.00%) (Ranked 394)  
+Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -9427,10 +9427,10 @@
       "Count": 3634
     }
   ],
-  "EOS_Progressed": 253044,
-  "EOS_Completed": 2606,
-  "EOS_NewPlayers": 3012,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 253050,
+  "EOS_Completed": 2607,
+  "EOS_NewPlayers": 2999,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -39402,6 +39402,11 @@
       "Time": "2024-01-09T23:10:59.5386385+00:00",
       "NumProgressed": 253044,
       "NumCompleted": 2606
+    },
+    {
+      "Time": "2024-01-10T00:10:17.3100555+00:00",
+      "NumProgressed": 253050,
+      "NumCompleted": 2607
     }
   ],
   "TotalAchievements": 546,
@@ -41203,9 +41208,9 @@
       "ID": "objective_completed_39",
       "SetID": "cc37lbc",
       "Name": "Seeking Allies",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1771
     },
     {
       "ID": "objective_completed_390",
@@ -43780,21 +43785,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219318,
+      "Progressed": 219324,
       "Completed": 4145
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253044,
-      "Completed": 2606
+      "Progressed": 253050,
+      "Completed": 2607
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-09T15:58:29.6536775+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:10:59.5386381+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:10:17.3100552+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-09T22:58:24.3495626+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:10:59.5410711+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:57:50.0062558+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:10:17.3126034+00:00"
 }

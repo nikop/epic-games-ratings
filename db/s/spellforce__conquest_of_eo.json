@@ -2,9 +2,9 @@
   "ID": "0acc28c619c44fbab3dd30c7f87e9679",
   "Name": "SpellForce: Conquest of Eo",
   "ProductSlug": "spellforce-conquest-of-eo",
-  "Ranking_EOS_Progress": 474,
-  "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_Progress": 472,
+  "Ranking_EOS_Completed": 395,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 132,
+  "EOS_Progressed": 133,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -669,6 +669,11 @@
       "Time": "2024-01-09T12:09:50.6465291+00:00",
       "NumProgressed": 132,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T00:09:41.565721+00:00",
+      "NumProgressed": 133,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T16:04:46.0994968+00:00",
@@ -687,17 +692,17 @@
       "ID": "Build_First_Lodge",
       "SetID": "7b9f97e",
       "Name": "Expansion",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 76
     },
     {
       "ID": "Build_First_Room",
       "SetID": "7b9f97e",
       "Name": "Enough rooms to swing a cat",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 102
     },
     {
       "ID": "Build_First_Room_Extension",
@@ -713,13 +718,13 @@
       "Name": "Home Sweet Home",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "Cast_First_Spell",
       "SetID": "7b9f97e",
       "Name": "A kind of Magic",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
       "UsersEstimate": 92
     },
@@ -735,7 +740,7 @@
       "ID": "Craft_First_Glyph",
       "SetID": "7b9f97e",
       "Name": "Artificer\u0027s Apprentice",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
       "UsersEstimate": 59
     },
@@ -743,9 +748,9 @@
       "ID": "Craft_First_Potion",
       "SetID": "7b9f97e",
       "Name": "Alchemist\u0027s Apprentice",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 47
     },
     {
       "ID": "Craft_First_Undead",
@@ -833,15 +838,15 @@
       "Name": "Slave to the rhythm",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "First_LevelUp",
       "SetID": "7b9f97e",
       "Name": "First to the post",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 102
     },
     {
       "ID": "First_Node_Meld",
@@ -905,7 +910,7 @@
       "Name": "Castle Meldec",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Landmark_CryptRevenant",
@@ -945,7 +950,7 @@
       "Name": "Stormwatch Faste",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Landmark_Throne",
@@ -1089,7 +1094,7 @@
       "Name": "Friend of Gillyshire",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Max_Reputation_Goldenfields",
@@ -1097,7 +1102,7 @@
       "Name": "Friend of Lyraine",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Max_Reputation_MistyCoast",
@@ -1167,9 +1172,9 @@
       "ID": "Mine_First_Ore",
       "SetID": "7b9f97e",
       "Name": "Mine!",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 70
     },
     {
       "ID": "Recipes_All_Alchemy",
@@ -1207,7 +1212,7 @@
       "ID": "Remove_Raider_From_Tower",
       "SetID": "7b9f97e",
       "Name": "Get out of here!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
       "UsersEstimate": 55
     },
@@ -1240,7 +1245,7 @@
     {
       "ID": "7b9f97e",
       "IsBase": true,
-      "Progressed": 132,
+      "Progressed": 133,
       "Completed": 0
     }
   ],
@@ -1248,8 +1253,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:10:11.6229944+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:09:41.5657206+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:39.1572287+00:00",
-  "LastUpdate_Ratings": "2024-01-09T22:57:42.4902148+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:10:11.6230633+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:57:23.1653543+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:09:41.5657861+00:00"
 }

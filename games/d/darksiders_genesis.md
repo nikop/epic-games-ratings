@@ -24,10 +24,10 @@ Number of Ratings: 67  (23.09.2022)
 | Mint III | 0.70% | ~4 |
 | Why'd It Have to Be Snakes? | 0.70% | ~4 |
 | Gatekeeper | 0.50% | ~3 |
-| Are You Not Entertained? | 0.40% | ~2 |
-| Collector | 0.40% | ~2 |
-| Full of Hell | 0.40% | ~2 |
-| Wicked Killington | 0.40% | ~2 |
+| Are You Not Entertained? | 0.30% | ~2 |
+| Collector | 0.30% | ~2 |
+| Full of Hell | 0.30% | ~2 |
+| Wicked Killington | 0.30% | ~2 |
 | Blademaster | 0.20% | ~1 |
 | Ready to Blow | 0.20% | ~1 |
 | Respect For Animals | 0.20% | ~1 |
@@ -37,8 +37,8 @@ Number of Ratings: 67  (23.09.2022)
 | Moloch | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 571 (Ranked 340)  
-Completed: 0 (0.00%) (Ranked 394)  
+Progressed: 572 (Ranked 340)  
+Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -65,6 +65,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-07 | 514 | 0 |
 | 2024-01-08 | 545 | 0 |
 | 2024-01-09 | 571 | 0 |
+| 2024-01-10 | 572 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 472)  
 Sum: 45 (Ranked 519)  

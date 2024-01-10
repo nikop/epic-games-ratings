@@ -6,7 +6,7 @@
   "Ranking_Popularity": 388,
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 11,
-  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
@@ -2361,9 +2361,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 1300144,
+  "EOS_Progressed": 1300145,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1637,
+  "EOS_NewPlayers": 1631,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28416,6 +28416,11 @@
       "Time": "2024-01-09T23:06:22.5070717+00:00",
       "NumProgressed": 1300144,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T00:05:18.4690687+00:00",
+      "NumProgressed": 1300145,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -28723,7 +28728,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 767085
+      "UsersEstimate": 767086
     },
     {
       "ID": "hunter_win",
@@ -28762,7 +28767,7 @@
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1300144,
+      "Progressed": 1300145,
       "Completed": 0
     }
   ],
@@ -28770,8 +28775,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2024-01-08T20:02:41.0808447+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:06:22.5070713+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:05:18.4690683+00:00",
   "LastUpdate_AppInfo": "2024-01-05T13:01:16.6265314+00:00",
-  "LastUpdate_Ratings": "2024-01-09T22:57:16.4201881+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:06:22.5072177+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:57:05.011512+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:05:18.4692744+00:00"
 }

@@ -415,9 +415,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1693,
+  "EOS_Progressed": 1694,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4470,6 +4470,11 @@
       "Time": "2024-01-09T19:10:49.4163559+00:00",
       "NumProgressed": 1693,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T00:10:03.6310453+00:00",
+      "NumProgressed": 1694,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4481,7 +4486,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -4537,7 +4542,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1677
     },
     {
       "ID": "EXPERT_1",
@@ -4641,7 +4646,7 @@
       "Name": "One shot, one kill",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "PACIFIST",
@@ -4729,7 +4734,7 @@
       "Name": "Superhuman",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "TRAVELER_1",
@@ -4737,7 +4742,7 @@
       "Name": "Traveler",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "VVE",
@@ -4768,15 +4773,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1693,
+      "Progressed": 1694,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-07T01:53:39.5717953+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:10:42.2564488+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:10:03.6310449+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:01:28.6685763+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:10:42.2564909+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:59:54.4697191+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:10:03.6310931+00:00"
 }

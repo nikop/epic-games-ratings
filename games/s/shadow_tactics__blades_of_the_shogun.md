@@ -6,30 +6,30 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~27,007 |
-| A thief's beginning | 11.00% | ~24,756 |
-| Thorough | 11.00% | ~24,756 |
-| Disguised | 9.00% | ~20,255 |
-| Rescue Takuma | 9.00% | ~20,255 |
-| Rollin' | 9.00% | ~20,255 |
-| Tanuki Time | 9.00% | ~20,255 |
+| Genin | 12.00% | ~27,008 |
+| A thief's beginning | 11.00% | ~24,757 |
+| Thorough | 11.00% | ~24,757 |
+| Disguised | 9.00% | ~20,256 |
+| Rescue Takuma | 9.00% | ~20,256 |
+| Rollin' | 9.00% | ~20,256 |
+| Tanuki Time | 9.00% | ~20,256 |
 | Ice Ice Yuki | 8.00% | ~18,005 |
 | Stoned Ox | 8.00% | ~18,005 |
 | Yabu | 8.00% | ~18,005 |
 | Happy Planning | 7.00% | ~15,754 |
 | Jonin | 7.00% | ~15,754 |
 | Mugen Unchained | 7.00% | ~15,754 |
-| Chunin | 6.00% | ~13,503 |
-| Flying Rocks | 6.00% | ~13,503 |
-| Warzone | 6.00% | ~13,503 |
+| Chunin | 6.00% | ~13,504 |
+| Flying Rocks | 6.00% | ~13,504 |
+| Warzone | 6.00% | ~13,504 |
 | Happy little accidents | 5.00% | ~11,253 |
 | Okkoto | 5.00% | ~11,253 |
 | Prisoners | 5.00% | ~11,253 |
 | Too Early | 5.00% | ~11,253 |
-| Gear up | 4.00% | ~9,002 |
-| Noboru | 4.00% | ~9,002 |
-| Still Rollin' | 4.00% | ~9,002 |
-| Stoned | 4.00% | ~9,002 |
+| Gear up | 4.00% | ~9,003 |
+| Noboru | 4.00% | ~9,003 |
+| Still Rollin' | 4.00% | ~9,003 |
+| Stoned | 4.00% | ~9,003 |
 | It's raining men | 3.00% | ~6,752 |
 | The Old Way | 3.00% | ~6,752 |
 | Atheist Ox | 2.00% | ~4,501 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~225 |
 | Release the Kraken | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,058 (Ranked 79)  
+Progressed: 225,063 (Ranked 79)  
 Completed: 105 (0.05%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,6 +316,7 @@ Completed: 105 (0.05%) (Ranked 337)
 | 2024-01-07 | 224,723 | 105 |
 | 2024-01-08 | 224,898 | 105 |
 | 2024-01-09 | 225,058 | 105 |
+| 2024-01-10 | 225,063 | 105 |
 ## Awards
 Max (Great for Beginners): 592  (Ranked 211)  
 Sum: 4,954 (Ranked 150)  

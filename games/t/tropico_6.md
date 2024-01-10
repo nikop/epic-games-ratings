@@ -17,8 +17,8 @@ Number of Ratings: 398  (23.09.2022)
 | Caribbean Comrade | 15.00% | ~1,056 |
 | The Dreamer of Dreams | 15.00% | ~1,056 |
 | Go Sovereigns! | 11.00% | ~775 |
+| For Science! | 11.00% | ~775 |
 | Happy Ending? | 10.00% | ~704 |
-| For Science! | 10.00% | ~704 |
 | Of Seals And Men | 9.00% | ~634 |
 | Shackadelic | 9.00% | ~634 |
 | Double Trouble | 8.00% | ~563 |

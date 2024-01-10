@@ -3,8 +3,8 @@
   "Name": "Blood of Titans",
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 276,
-  "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 384,
+  "Ranking_EOS_Completed": 395,
+  "Ranking_EOS_NewPlayers": 377,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1325,
+  "EOS_Progressed": 1326,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4764,6 +4764,11 @@
       "Time": "2024-01-08T18:11:00.0371273+00:00",
       "NumProgressed": 1325,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T00:10:11.8410129+00:00",
+      "NumProgressed": 1326,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4775,7 +4780,7 @@
       "Name": "Adventurous 1",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "adventurous_2",
@@ -4831,7 +4836,7 @@
       "Name": "Call of Mana 2",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "call_of_mana_3",
@@ -4911,7 +4916,7 @@
       "Name": "Conqueror 3",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "diehard_1",
@@ -4999,7 +5004,7 @@
       "Name": "From Day to Day 2",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "from_day_to_day_3",
@@ -5023,7 +5028,7 @@
       "Name": "Glitter of Gold 2",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "glitter_of_gold_3",
@@ -5039,7 +5044,7 @@
       "Name": "Good Host 1",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "good_host_2",
@@ -5111,7 +5116,7 @@
       "Name": "Nimble Thief 1",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "nimble_thief_2",
@@ -5143,7 +5148,7 @@
       "Name": "Obsessed Carver 2",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "obsessed_carver_3",
@@ -5167,7 +5172,7 @@
       "Name": "Punctual 2",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "punctual_3",
@@ -5183,7 +5188,7 @@
       "Name": "Sophisticated Alchemist 1",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "sophisticated_alchemist_2",
@@ -5239,7 +5244,7 @@
       "Name": "Stronghold 2",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "stronghold_3",
@@ -5255,7 +5260,7 @@
       "Name": "Taste of Victory 1",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "taste_of_victory_2",
@@ -5302,14 +5307,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1325,
+      "Progressed": 1326,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:10:52.8581423+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:10:11.8410126+00:00",
   "LastUpdate_AppInfo": "2024-01-09T19:56:59.3851219+00:00",
-  "LastUpdate_Ratings": "2024-01-09T22:57:34.5179278+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:10:52.8582084+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:57:17.401472+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:10:11.8410887+00:00"
 }

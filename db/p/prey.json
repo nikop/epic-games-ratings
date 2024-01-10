@@ -2,11 +2,11 @@
   "ID": "6ea398b9c2244250a9177c0b8a69b5cd",
   "Name": "Prey",
   "ProductSlug": "prey",
-  "Ranking_Rating": 357,
+  "Ranking_Rating": 358,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 116,
   "Ranking_EOS_Progress": 823,
-  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 576,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
@@ -4509,6 +4509,6 @@
   "FirstSeen": "2022-07-22T20:32:29.7707864+00:00",
   "LastChanged": "2024-01-09T18:00:38.6164187+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:19.6902283+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:00:48.7110291+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:07:48.9368376+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:59:27.6576656+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:06:19.8366013+00:00"
 }

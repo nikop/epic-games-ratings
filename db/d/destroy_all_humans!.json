@@ -2,7 +2,7 @@
   "ID": "c12a5687fb024192999b2d22c555d4c6",
   "Name": "Destroy All Humans!",
   "ProductSlug": "destroy-all-humans",
-  "Ranking_Rating": 357,
+  "Ranking_Rating": 358,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 364,
@@ -305,7 +305,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 424,
+  "EOS_Progressed": 425,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
@@ -1720,6 +1720,11 @@
       "Time": "2024-01-09T23:04:25.8400937+00:00",
       "NumProgressed": 424,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-10T00:03:57.2125406+00:00",
+      "NumProgressed": 425,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1780,7 +1785,7 @@
       "Name": "Cult Following",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_ABILITY_PKTHROWANDCATCHHUMAN",
@@ -1796,7 +1801,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -1892,7 +1897,7 @@
       "Name": "Kaijuiced",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -1900,7 +1905,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -1916,7 +1921,7 @@
       "Name": "Albion Bridge Is for Falling Down",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_ENEMY_KILLROBOPREZ",
@@ -1932,7 +1937,7 @@
       "Name": "Lobster Blisque",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -1964,7 +1969,7 @@
       "Name": "Pimp My Raid",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -1972,7 +1977,7 @@
       "Name": "Upgreatest",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_INVADE_TURNIPSEED",
@@ -1980,7 +1985,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -2026,17 +2031,17 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "cefn62b",
       "Name": "Perfect Probulator",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
       "SetID": "cefn62b",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_UPGRADE_TOPTIER",
@@ -2051,15 +2056,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 424,
+      "Progressed": 425,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:04:25.8400934+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:03:57.2125402+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:15.0942873+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:02:52.1581751+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:04:25.84013+00:00"
+  "LastUpdate_Ratings": "2024-01-10T00:02:50.1569098+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:03:57.2125845+00:00"
 }

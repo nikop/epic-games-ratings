@@ -6,7 +6,7 @@
   "Ranking_Popularity": 472,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 340,
-  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
@@ -445,7 +445,7 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 571,
+  "EOS_Progressed": 572,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
@@ -2045,6 +2045,11 @@
       "Time": "2024-01-09T23:10:36.27603+00:00",
       "NumProgressed": 571,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T00:09:59.2657589+00:00",
+      "NumProgressed": 572,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -2063,7 +2068,7 @@
       "ID": "AreYouNotEntertained",
       "SetID": "329ak73",
       "Name": "Are You Not Entertained?",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -2103,7 +2108,7 @@
       "ID": "Collector",
       "SetID": "329ak73",
       "Name": "Collector",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 75,
       "UsersEstimate": 2
     },
@@ -2127,7 +2132,7 @@
       "ID": "FullofHell",
       "SetID": "329ak73",
       "Name": "Full of Hell",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -2287,7 +2292,7 @@
       "ID": "WickedKillington",
       "SetID": "329ak73",
       "Name": "Wicked Killington",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 25,
       "UsersEstimate": 2
     }
@@ -2296,15 +2301,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 571,
+      "Progressed": 572,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:10:36.2760296+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:09:59.2657585+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.460117+00:00",
-  "LastUpdate_Ratings": "2024-01-09T22:59:29.3378041+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:10:36.2760576+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:58:35.7405207+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:09:59.2657796+00:00"
 }

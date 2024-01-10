@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | Master trainee | 54.00% | ~49 |
 | You have three wishes left | 48.00% | ~43 |
+| Jung's dream | 38.00% | ~34 |
 | The battle of Great Britain | 38.00% | ~34 |
-| Jung's dream | 37.00% | ~33 |
 | Pulp! Where Monsters Dwell | 31.00% | ~28 |
 | A continent with chemistry | 29.00% | ~26 |
 | The happy farmer girl | 27.00% | ~24 |
 | Giant | 24.00% | ~22 |
 | Pulp! Terror Tales in the Night | 24.00% | ~22 |
-| A rival with no options | 22.00% | ~20 |
+| A rival with no options | 23.00% | ~21 |
 | Pulp! Out of this World | 22.00% | ~20 |
 | Diagnosis: fear | 22.00% | ~20 |
 | Ambition is... blind | 22.00% | ~20 |
@@ -26,9 +26,9 @@
 | You've awakened the beast | 17.00% | ~15 |
 | Hate is... addictive | 17.00% | ~15 |
 | You had one wish left | 17.00% | ~15 |
+| Kirlian's best disciple | 16.00% | ~14 |
 | The bully | 14.00% | ~13 |
-| Kirlian's best disciple | 14.00% | ~13 |
-| Blessed antennas | 12.00% | ~11 |
+| Blessed antennas | 13.00% | ~12 |
 | Pulp! The Beyond | 11.00% | ~10 |
 | The beast in the Oval Office | 10.00% | ~9 |
 | Blood Red Island | 10.00% | ~9 |
@@ -53,7 +53,7 @@
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 90 (Ranked 502)  
-Completed: 0 (0.00%) (Ranked 394)  
+Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

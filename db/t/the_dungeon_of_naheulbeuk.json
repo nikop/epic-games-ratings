@@ -6,7 +6,7 @@
   "Ranking_Popularity": 276,
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 72,
-  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
@@ -1719,9 +1719,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 247450,
+  "EOS_Progressed": 247456,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1195,
+  "EOS_NewPlayers": 1196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25594,6 +25594,11 @@
       "Time": "2024-01-09T23:10:54.6499218+00:00",
       "NumProgressed": 247450,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-10T00:10:13.2831182+00:00",
+      "NumProgressed": 247456,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25661,7 +25666,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12372
+      "UsersEstimate": 12373
     },
     {
       "ID": "Chapter3",
@@ -26005,7 +26010,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22270
+      "UsersEstimate": 22271
     },
     {
       "ID": "DwarfElf15Support",
@@ -26029,7 +26034,7 @@
       "Name": "%#*!$*!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2474
+      "UsersEstimate": 2475
     },
     {
       "ID": "DwarfLevel2",
@@ -26053,7 +26058,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 91556
+      "UsersEstimate": 91559
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -26069,7 +26074,7 @@
       "Name": "GG EZ",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12372
+      "UsersEstimate": 12373
     },
     {
       "ID": "EndCombatOneHp",
@@ -26077,7 +26082,7 @@
       "Name": "DM intervention",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12372
+      "UsersEstimate": 12373
     },
     {
       "ID": "EndGameCursed",
@@ -26101,7 +26106,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24745
+      "UsersEstimate": 24746
     },
     {
       "ID": "FollowBraztok",
@@ -26133,7 +26138,7 @@
       "Name": "Dead for good",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2474
+      "UsersEstimate": 2475
     },
     {
       "ID": "KillGolbargh",
@@ -26157,7 +26162,7 @@
       "Name": "Gargantua",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2474
+      "UsersEstimate": 2475
     },
     {
       "ID": "Orktobearfest",
@@ -26189,7 +26194,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2474
+      "UsersEstimate": 2475
     },
     {
       "ID": "QuestEmile",
@@ -26213,7 +26218,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2474
+      "UsersEstimate": 2475
     },
     {
       "ID": "QuestPriestess",
@@ -26221,7 +26226,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2474
+      "UsersEstimate": 2475
     },
     {
       "ID": "RangerEpic",
@@ -26293,7 +26298,7 @@
       "Name": "Material Girl",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2474
+      "UsersEstimate": 2475
     },
     {
       "ID": "WizardResistBurn",
@@ -26308,21 +26313,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 247450,
+      "Progressed": 247456,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 247450,
+      "Progressed": 247456,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-09T20:59:37.5250632+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:10:54.6499212+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:10:13.2831178+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8090113+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:00:58.9830904+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:10:54.650205+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:59:34.5117398+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:10:13.2833446+00:00"
 }

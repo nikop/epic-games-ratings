@@ -1612,9 +1612,9 @@
       "ID": "ACH_NOBULLETS",
       "SetID": "511e31d",
       "Name": "Sly as a fox",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_NOKNIFE",
@@ -1723,8 +1723,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:07:31.2705433+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:06:07.3759838+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:32.0336088+00:00",
-  "LastUpdate_Ratings": "2024-01-09T22:00:35.9128563+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:07:31.2705746+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:56:57.0597256+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:06:07.3760163+00:00"
 }

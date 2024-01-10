@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.62 (Ranked 379)  
+Rating: 4.62 (Ranked 378)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,15 +12,15 @@ Rating: 4.62 (Ranked 379)
 | From Friends to Family | 12.00% | ~856 |
 | Bone Peddler | 10.00% | ~713 |
 | Magical Synergy | 9.00% | ~642 |
-| Full Ascension | 8.00% | ~570 |
-| Stronger Together | 8.00% | ~570 |
+| Full Ascension | 8.00% | ~571 |
+| Stronger Together | 8.00% | ~571 |
 | There Can Only Be One! | 7.00% | ~499 |
 | Seat of Power | 7.00% | ~499 |
 | Valley of Wonders | 6.00% | ~428 |
 | In a Liege of Your Own | 6.00% | ~428 |
 | Intimidation Tactics | 6.00% | ~428 |
-| My Final Form | 5.00% | ~356 |
-| But this one is mine | 5.00% | ~356 |
+| My Final Form | 5.00% | ~357 |
+| But this one is mine | 5.00% | ~357 |
 | Return of the Wizard King | 4.00% | ~285 |
 | Enchanted Archipelago | 4.00% | ~285 |
 | Digging for Treasure | 4.00% | ~285 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 379)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,130 (Ranked 196)  
+Progressed: 7,132 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,6 +299,7 @@ Completed: 7 (0.10%) (Ranked 309)
 | 2024-01-07 | 7,051 | 7 |
 | 2024-01-08 | 7,091 | 7 |
 | 2024-01-09 | 7,130 | 7 |
+| 2024-01-10 | 7,132 | 7 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 481)  
 Sum: 215 (Ranked 410)  

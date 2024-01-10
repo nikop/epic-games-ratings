@@ -21,7 +21,7 @@ Rating: 4.45 (Ranked 691)
 | Perfectionist | 3.00% | ~30 |
 | Leaning Tower of Pizza | 2.00% | ~20 |
 | The Bigger the Better | 0.50% | ~5 |
-| Eco Warrior | 0.30% | ~3 |
+| Eco Warrior | 0.40% | ~4 |
 | Chef, Yes Chef! | 0.30% | ~3 |
 | Codename: Arrabbiata | 0.20% | ~2 |
 | Teamwork | 0.10% | ~1 |
@@ -47,7 +47,7 @@ Rating: 4.45 (Ranked 691)
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,010 (Ranked 293)  
-Completed: 0 (0.00%) (Ranked 394)  
+Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -19,9 +19,9 @@
 | Mysterious Bungalow | 10.00% | ~13 |
 | The Eyes! | 9.00% | ~12 |
 | Punctual | 9.00% | ~12 |
+| Keep the Doctor Away | 8.00% | ~10 |
 | Eyes Shut | 8.00% | ~10 |
 | Barking Dog | 8.00% | ~10 |
-| Keep the Doctor Away | 7.00% | ~9 |
 | Just a Palm Tree | 7.00% | ~9 |
 | Under the Hood | 7.00% | ~9 |
 | Long Live Gaipajama! | 7.00% | ~9 |
@@ -43,7 +43,7 @@
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 128 (Ranked 477)  
-Completed: 0 (0.00%) (Ranked 394)  
+Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

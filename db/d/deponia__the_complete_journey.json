@@ -2,11 +2,11 @@
   "ID": "e5decf71f325458b92653616ee98682a",
   "Name": "Deponia: The Complete Journey",
   "ProductSlug": "deponia-the-complete-journey",
-  "Ranking_Rating": 379,
+  "Ranking_Rating": 378,
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 823,
-  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 576,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
@@ -736,6 +736,6 @@
   "FirstSeen": "2022-07-22T20:29:58.1804178+00:00",
   "LastChanged": "2024-01-03T13:57:40.035033+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.7410824+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:02:32.7507689+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:08:21.1310594+00:00"
+  "LastUpdate_Ratings": "2024-01-10T00:00:17.211248+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:08:22.4349863+00:00"
 }

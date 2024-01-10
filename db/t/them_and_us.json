@@ -2,7 +2,7 @@
   "ID": "713cf66874564881adc4f5bb9ade5ceb",
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
-  "Ranking_EOS_Progress": 367,
+  "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 156,
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 410,
+  "EOS_Progressed": 411,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1791,6 +1791,11 @@
       "Time": "2024-01-09T21:08:49.0646256+00:00",
       "NumProgressed": 410,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T00:08:50.4857417+00:00",
+      "NumProgressed": 411,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1826,7 +1831,7 @@
       "Name": "Armed To The Teeth",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ETUA_BackInTime",
@@ -1898,7 +1903,7 @@
       "Name": "Forced to Kill",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -2074,7 +2079,7 @@
       "Name": "This Coffin Has Your Name On It!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ETUA_ThisMansionIsClean",
@@ -2088,9 +2093,9 @@
       "ID": "ETUA_Thiswillbealongnight",
       "SetID": "65jc0ap",
       "Name": "A Night To Remember",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 156
     },
     {
       "ID": "ETUA_Trapped",
@@ -2121,7 +2126,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 410,
+      "Progressed": 411,
       "Completed": 1
     }
   ],
@@ -2129,8 +2134,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:09:00.5210851+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:08:50.4857408+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:36.5425929+00:00",
-  "LastUpdate_Ratings": "2024-01-09T22:58:05.7937737+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:09:00.5211294+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:57:38.2402615+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:08:50.4857897+00:00"
 }

@@ -8,8 +8,8 @@
 | Learned how to walk! | 81.00% | ~42 |
 | Defeated Captain Tutorial | 73.00% | ~38 |
 | Immersion Breaking | 54.00% | ~28 |
+| Defeated Booty The Bootleg | 37.00% | ~19 |
 | Ḧ̴́͊̈́́̃̈́͊̂̏̅̈́̆͊͛͋̃̍̊̓͛̔̆͘͠͝Ë̵̢̢̧̛̛͇̪̟͓̝̼͕̞͔̻͎̠͔̤̥̺̹̱̼̪̺̪̺̰̱́̊͋̈́̔̍͑̄̅́̔͛̓̽̊̒̓́͛̀̀͗̈́́̃̈́̈́̄̔̓͐͆̀̈́̄́̚͘̕͘͘̕͝ͅL̸̀͠Ṕ̵̛̎̄̽̈́́͊̅͛̄ ̶̃M̶̨̧̼̪̞͈̯̬͖͖͎̞͎̻̥̍̌͊̀̓̄̋͋̂͌̏̈́̾͆̌̈́̆̈́̐̿̓͐͝͝͠͠E̵͒̓͊͋̄͘ | 37.00% | ~19 |
-| Defeated Booty The Bootleg | 35.00% | ~18 |
 | Too good for this racing mini-game | 31.00% | ~16 |
 | S̸̛̞̺̞̝͎̒͑̄̽͑̈̔̍̓͆͒̐͊̈́͗̌̔͆̎̉͑̚͘͘̕̚͘͝͝͝Ḁ̶̛̘̱̪͓̣̗̦̺͈̠͔̄͑̋͆̓́͒̀̈́̐̐̾̑͑͆̾͗͌̍͋̂́̿͜͝͝͠͝V̴̡̟̗̮̪͝Ẻ̸̛̛̋͆́͌́̏̐̽̔̀̈̔͗̈́̚͝͝͝ ̸̛̛̀͛̈̍̐͊͊͒̌̍͋̿̅̆̾͂̎́̈́͗́̈́͒̾̐͌̕͘͠͝͝M̷̨̧̡̨̨̡̹͎̞̠̮͕̯̥̰͙̳̱̝̝͙̙̺͍̫̻̳̭̭̎͛͗̑͊͜͜ͅE̷̡̛̛̗͍̰̹͎̳͕͉͇̫̩͎͔͍͉͉͉͎̫̱̮͓͍͉̪̻̠̅̉̃͑̏̎̌̂̆͊͒͆̒̀̈́͑̔̋̎̅̐̆͊̊͗́͆͗͋́͘̕̕͝͝ | 29.00% | ~15 |
 | Defeated Mistermind | 27.00% | ~14 |
@@ -17,7 +17,7 @@
 | Defeated the core of the outside world | 25.00% | ~13 |
 | Internet Explorer | 21.00% | ~11 |
 | LOVE | 19.00% | ~10 |
-| Good boy | 12.00% | ~6 |
+| Good boy | 13.00% | ~7 |
 | Murder | 10.00% | ~5 |
 | Pure hearted | 8.00% | ~4 |
 | HIGH striker | 8.00% | ~4 |
@@ -32,7 +32,7 @@
 | No time to waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 52 (Ranked 553)  
-Completed: 0 (0.00%) (Ranked 394)  
+Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

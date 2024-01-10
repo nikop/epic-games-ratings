@@ -6,7 +6,7 @@
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 42,
-  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 42,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
@@ -14235,9 +14235,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 495855,
+  "EOS_Progressed": 495867,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5212,
+  "EOS_NewPlayers": 5199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44745,6 +44745,11 @@
       "Time": "2024-01-09T23:10:55.4967003+00:00",
       "NumProgressed": 495855,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T00:10:14.1866526+00:00",
+      "NumProgressed": 495867,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -45794,9 +45799,9 @@
       "ID": "achievement_great_moravia",
       "SetID": "8p2n7he",
       "Name": "Great Moravia",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 496
     },
     {
       "ID": "achievement_great_perm",
@@ -47659,21 +47664,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 495855,
+      "Progressed": 495867,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 495855,
+      "Progressed": 495867,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-09T20:57:03.9412614+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:10:55.4966998+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:10:14.1866522+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.850256+00:00",
-  "LastUpdate_Ratings": "2024-01-09T22:57:12.2893167+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:10:55.4978161+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:57:02.2846798+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:10:14.1878343+00:00"
 }

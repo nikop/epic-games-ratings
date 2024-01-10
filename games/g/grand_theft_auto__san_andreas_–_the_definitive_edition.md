@@ -5,21 +5,21 @@ Rating: 4.55 (Ranked 526)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,523 |
-| Pay 'n' Spray | 50.00% | ~9,582 |
-| All Dressed Up for San Fierro | 25.00% | ~4,791 |
-| The American Dream | 19.00% | ~3,641 |
-| School's Out | 18.00% | ~3,450 |
-| Smooth Moves | 17.00% | ~3,258 |
-| What happens in Las Venturas... | 14.00% | ~2,683 |
-| Today Was a Good Day | 14.00% | ~2,683 |
-| Horror of the Santa Maria | 10.00% | ~1,916 |
-| Liberty City State of Mind | 9.00% | ~1,725 |
-| Original Gangster | 8.00% | ~1,533 |
-| With Extra Dip | 7.00% | ~1,341 |
-| The End of the Line | 7.00% | ~1,341 |
+| Getting Started | 81.00% | ~15,531 |
+| Pay 'n' Spray | 50.00% | ~9,587 |
+| All Dressed Up for San Fierro | 25.00% | ~4,794 |
+| The American Dream | 19.00% | ~3,643 |
+| School's Out | 18.00% | ~3,451 |
+| Smooth Moves | 17.00% | ~3,260 |
+| What happens in Las Venturas... | 14.00% | ~2,684 |
+| Today Was a Good Day | 14.00% | ~2,684 |
+| Horror of the Santa Maria | 10.00% | ~1,917 |
+| Liberty City State of Mind | 9.00% | ~1,726 |
+| Original Gangster | 8.00% | ~1,534 |
+| With Extra Dip | 7.00% | ~1,342 |
+| The End of the Line | 7.00% | ~1,342 |
 | Saviour | 6.00% | ~1,150 |
-| Rescue a Kitten Too? | 5.00% | ~958 |
+| Rescue a Kitten Too? | 5.00% | ~959 |
 | They Can’t Stop All of Us | 4.00% | ~767 |
 | What are the Odds | 4.00% | ~767 |
 | Bike or Biker | 3.00% | ~575 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 526)
 | ...Here we go again | 0.50% | ~96 |
 | I Ain't No Buster | 0.40% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,164 (Ranked 157)  
+Progressed: 19,174 (Ranked 157)  
 Completed: 75 (0.39%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,6 +306,7 @@ Completed: 75 (0.39%) (Ranked 238)
 | 2024-01-07 | 18,889 | 75 |
 | 2024-01-08 | 19,021 | 75 |
 | 2024-01-09 | 19,164 | 75 |
+| 2024-01-10 | 19,174 | 75 |
 ## Awards
 Max (Great Boss Battles): 638  (Ranked 201)  
 Sum: 1,016 (Ranked 273)  

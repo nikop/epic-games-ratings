@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 223,
-  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3491,
+  "EOS_Progressed": 3493,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8566,6 +8566,11 @@
       "Time": "2024-01-09T23:04:15.0381238+00:00",
       "NumProgressed": 3491,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T00:03:49.1330584+00:00",
+      "NumProgressed": 3493,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8578,7 +8583,7 @@
       "Name": "First Love",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -8586,7 +8591,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1467
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -8594,7 +8599,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -8610,7 +8615,7 @@
       "Name": "Restored and Ready",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -8634,7 +8639,7 @@
       "Name": "I Want One Too!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -8666,7 +8671,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -8778,7 +8783,7 @@
       "Name": "Evangelist",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -8786,7 +8791,7 @@
       "Name": "Clean Race",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -8832,9 +8837,9 @@
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "c7hf6a4",
       "Name": "We\u0027ve Just Begun",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 489
+      "UsersEstimate": 524
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -8866,7 +8871,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -8874,7 +8879,7 @@
       "Name": "Eat My Dust",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 1711
+      "UsersEstimate": 1712
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -8882,7 +8887,7 @@
       "Name": "Champagne Spray",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -8930,7 +8935,7 @@
       "Name": "Rivals to the End",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -8969,7 +8974,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3491,
+      "Progressed": 3493,
       "Completed": 0
     }
   ],
@@ -8977,8 +8982,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-09T14:57:26.7044021+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:04:15.0381235+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:03:49.1330579+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.6681713+00:00",
-  "LastUpdate_Ratings": "2024-01-09T22:58:05.1988012+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:04:15.038212+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:57:37.8767666+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:03:49.1331501+00:00"
 }

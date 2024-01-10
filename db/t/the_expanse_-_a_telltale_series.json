@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18754,
+  "EOS_Progressed": 18759,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 677,
+  "EOS_NewPlayers": 680,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -16867,6 +16867,11 @@
       "Time": "2024-01-09T23:08:29.2153836+00:00",
       "NumProgressed": 18754,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-10T00:08:28.0914863+00:00",
+      "NumProgressed": 18759,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16895,7 +16900,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2438
+      "UsersEstimate": 2439
     },
     {
       "ID": "12",
@@ -16911,7 +16916,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3376
+      "UsersEstimate": 3377
     },
     {
       "ID": "14",
@@ -16919,7 +16924,7 @@
       "Name": "Doctor Approved",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "15",
@@ -16951,7 +16956,7 @@
       "Name": "Bottoms up!",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "19",
@@ -16959,7 +16964,7 @@
       "Name": "Martian Music",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2438
+      "UsersEstimate": 2439
     },
     {
       "ID": "2",
@@ -16983,7 +16988,7 @@
       "Name": "Drone Dodger",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2250
+      "UsersEstimate": 2251
     },
     {
       "ID": "22",
@@ -16999,7 +17004,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "24",
@@ -17031,7 +17036,7 @@
       "Name": "Bosmang",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2438
+      "UsersEstimate": 2439
     },
     {
       "ID": "28",
@@ -17055,7 +17060,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2813
+      "UsersEstimate": 2814
     },
     {
       "ID": "30",
@@ -17111,7 +17116,7 @@
       "Name": "Impossible Objects",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2438
+      "UsersEstimate": 2439
     },
     {
       "ID": "31",
@@ -17143,7 +17148,7 @@
       "Name": "Master Negotiator",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "35",
@@ -17158,13 +17163,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18754,
+      "Progressed": 18759,
       "Completed": 61
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4708,
+      "Progressed": 4713,
       "Completed": 1270
     }
   ],
@@ -17172,8 +17177,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-08T14:59:15.8971936+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:08:29.2153831+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:08:28.0914858+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:00:20.4699244+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:08:29.2154809+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:59:09.6051958+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:08:28.0916313+00:00"
 }

@@ -22,12 +22,12 @@
 | Debut | 11.00% | ~34 |
 | Lights! Camera! Action! | 11.00% | ~34 |
 | Another perspective | 10.00% | ~30 |
+| First steps | 10.00% | ~30 |
 | Playtime | 10.00% | ~30 |
 | Tough conversation | 10.00% | ~30 |
-| First steps | 9.00% | ~27 |
+| Breaking free | 9.00% | ~27 |
 | The tragedy unfolds | 9.00% | ~27 |
 | A new way | 8.00% | ~24 |
-| Breaking free | 8.00% | ~24 |
 | True Reflection | 8.00% | ~24 |
 | Casting Finished | 7.00% | ~21 |
 | Heavy Burden | 7.00% | ~21 |
@@ -58,7 +58,7 @@
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 305 (Ranked 394)  
-Completed: 0 (0.00%) (Ranked 394)  
+Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

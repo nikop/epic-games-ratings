@@ -6,17 +6,17 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~38,772 |
-| Biggest Communism Builder | 23.00% | ~31,848 |
-| The World's Most Laughable Centrist | 20.00% | ~27,694 |
-| Il Coppo Del'Arte! | 18.00% | ~24,925 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,155 |
+| Goodest Of The Good Cops | 28.00% | ~38,773 |
+| Biggest Communism Builder | 23.00% | ~31,849 |
+| The World's Most Laughable Centrist | 20.00% | ~27,695 |
+| Il Coppo Del'Arte! | 18.00% | ~24,926 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,156 |
 | Hyperstellar Law Official | 15.00% | ~20,771 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~19,386 |
-| Gurdi-Ball Is Lit | 14.00% | ~19,386 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~18,001 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~19,387 |
+| Gurdi-Ball Is Lit | 14.00% | ~19,387 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~18,002 |
 | Truly Rabid *Traditionalist* | 11.00% | ~15,232 |
-| The Figurines Won't Win Her Back | 9.00% | ~12,462 |
+| The Figurines Won't Win Her Back | 9.00% | ~12,463 |
 | Unbelievably Boring **** | 8.00% | ~11,078 |
 | Enemy Of The Physical Realm | 8.00% | ~11,078 |
 | Hardie's Heroes | 6.00% | ~8,308 |
@@ -24,10 +24,10 @@ Number of Ratings: 1,611  (23.09.2022)
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,539 |
 | The Opener Of The Eighth Seal | 3.00% | ~4,154 |
 | Bother Kim After Hours | 3.00% | ~4,154 |
-| Baddest Of the Bad Cops | 2.00% | ~2,769 |
-| Expert Advanced Remote Viewer | 2.00% | ~2,769 |
-| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,769 |
-| Wheel of Pleasure and Light | 2.00% | ~2,769 |
+| Baddest Of the Bad Cops | 2.00% | ~2,770 |
+| Expert Advanced Remote Viewer | 2.00% | ~2,770 |
+| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,770 |
+| Wheel of Pleasure and Light | 2.00% | ~2,770 |
 | Massive Torque Dork | 1.00% | ~1,385 |
 | Avowed Inframaterialist | 1.00% | ~1,385 |
 | Venture into the HARDCORE | 0.90% | ~1,246 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~138 |
 | What body? | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,471 (Ranked 90)  
+Progressed: 138,475 (Ranked 90)  
 Completed: 29 (0.02%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,6 +312,7 @@ Completed: 29 (0.02%) (Ranked 361)
 | 2024-01-07 | 138,114 | 29 |
 | 2024-01-08 | 138,281 | 29 |
 | 2024-01-09 | 138,471 | 29 |
+| 2024-01-10 | 138,475 | 29 |
 ## Awards
 Max (Character Customization): 763  (Ranked 191)  
 Sum: 1,164 (Ranked 265)  

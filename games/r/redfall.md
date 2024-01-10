@@ -41,8 +41,8 @@ Rating: 3.68 (Ranked 1,093)
 | Right This Way | 2.00% | ~47 |
 | Nice Try | 2.00% | ~47 |
 | Curious Finch | 2.00% | ~47 |
+| Blood Brother | 1.00% | ~23 |
 | Blacklight Down | 1.00% | ~23 |
-| Blood Brother | 0.90% | ~21 |
 | Bloody Initiate | 0.90% | ~21 |
 | Neighborhood Watch | 0.80% | ~19 |
 | Empty Nest Syndrome | 0.80% | ~19 |
@@ -52,8 +52,8 @@ Rating: 3.68 (Ranked 1,093)
 | Scream Team | 0.60% | ~14 |
 | Sisterhood | 0.60% | ~14 |
 | Under a Bushel | 0.60% | ~14 |
+| Monster Hunters Club | 0.50% | ~12 |
 | Friendgineering | 0.50% | ~12 |
-| Monster Hunters Club | 0.40% | ~9 |
 | So Anyway I Started Blasting | 0.40% | ~9 |
 | Enemy of My Enemy | 0.40% | ~9 |
 | Bob’s Final Hour | 0.30% | ~7 |
@@ -73,7 +73,7 @@ Rating: 3.68 (Ranked 1,093)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,331 (Ranked 240)  
-Completed: 0 (0.00%) (Ranked 394)  
+Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

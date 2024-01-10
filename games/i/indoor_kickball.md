@@ -25,10 +25,10 @@
 | Save some water for the fishies | 23.00% | ~24 |
 | Bathroom Secret Spot | 23.00% | ~24 |
 | Angry Dad | 23.00% | ~24 |
+| Have Mercy | 21.00% | ~22 |
 | Angry Mom | 21.00% | ~22 |
-| Have Mercy | 20.00% | ~21 |
 | Hi Hungry, I'm Dad | 19.00% | ~20 |
-| Just how we drew it up | 12.00% | ~12 |
+| Just how we drew it up | 13.00% | ~14 |
 | Interference | 9.00% | ~9 |
 | You broke it, you bought it | 7.00% | ~7 |
 | Kitchen Secret Spot | 6.00% | ~6 |
@@ -46,7 +46,7 @@
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 104 (Ranked 491)  
-Completed: 0 (0.00%) (Ranked 394)  
+Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

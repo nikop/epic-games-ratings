@@ -3,7 +3,7 @@
   "Name": "Biped",
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 181,
-  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10178,
+  "EOS_Progressed": 10181,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 675,
+  "EOS_NewPlayers": 678,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16529,6 +16529,11 @@
       "Time": "2024-01-09T23:05:37.939167+00:00",
       "NumProgressed": 10178,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T00:04:46.96898+00:00",
+      "NumProgressed": 10181,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -16540,7 +16545,7 @@
       "Name": "First Step",
       "Percentage": 36,
       "XP": 45,
-      "UsersEstimate": 3664
+      "UsersEstimate": 3665
     },
     {
       "ID": "10",
@@ -16596,7 +16601,7 @@
       "Name": "Dense Forest",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2850
+      "UsersEstimate": 2851
     },
     {
       "ID": "3",
@@ -16659,7 +16664,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10178,
+      "Progressed": 10181,
       "Completed": 0
     }
   ],
@@ -16667,8 +16672,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:05:37.9391667+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:04:46.9689795+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:19.9263192+00:00",
-  "LastUpdate_Ratings": "2024-01-09T22:59:01.2021799+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:05:37.9392658+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:58:14.5859149+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:04:46.969143+00:00"
 }

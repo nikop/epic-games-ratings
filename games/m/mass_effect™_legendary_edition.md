@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~3,652 |
-| Spectre Inductee | 66.00% | ~2,678 |
-| Medal of Exploration I | 56.00% | ~2,272 |
-| Recruit | 52.00% | ~2,110 |
+| Distinguished Service Medal | 90.00% | ~3,653 |
+| Spectre Inductee | 66.00% | ~2,679 |
+| Medal of Exploration I | 56.00% | ~2,273 |
+| Recruit | 52.00% | ~2,111 |
 | Search and Rescue | 51.00% | ~2,070 |
-| Quarian Ally | 49.00% | ~1,988 |
+| Quarian Ally | 49.00% | ~1,989 |
 | Medal of Heroism | 43.00% | ~1,745 |
 | Honorarium of Corporate Service | 43.00% | ~1,745 |
-| Turian Ally | 40.00% | ~1,623 |
+| Turian Ally | 40.00% | ~1,624 |
 | Medal of Exploration II | 38.00% | ~1,542 |
 | Council Legion of Merit | 38.00% | ~1,542 |
 | Missing in Action | 36.00% | ~1,461 |
-| Medal of Honor | 35.00% | ~1,420 |
-| Meritorious Service Medal | 35.00% | ~1,420 |
-| Soldier Ally | 35.00% | ~1,420 |
-| Charismatic | 35.00% | ~1,420 |
+| Medal of Honor | 35.00% | ~1,421 |
+| Meritorious Service Medal | 35.00% | ~1,421 |
+| Soldier Ally | 35.00% | ~1,421 |
+| Charismatic | 35.00% | ~1,421 |
 | Soldier | 34.00% | ~1,380 |
 | Asari Ally | 33.00% | ~1,339 |
 | Very Elusive | 33.00% | ~1,339 |
@@ -27,25 +27,25 @@
 | Medal of Exploration III | 31.00% | ~1,258 |
 | Principled | 31.00% | ~1,258 |
 | Scientist | 31.00% | ~1,258 |
-| Sentinel Ally | 30.00% | ~1,217 |
-| Krogan Ally | 30.00% | ~1,217 |
-| Merciless | 30.00% | ~1,217 |
+| Sentinel Ally | 30.00% | ~1,218 |
+| Krogan Ally | 30.00% | ~1,218 |
+| Merciless | 30.00% | ~1,218 |
 | Paramour I | 29.00% | ~1,177 |
 | The Professor | 29.00% | ~1,177 |
 | Head Hunter | 29.00% | ~1,177 |
 | Scholar | 29.00% | ~1,177 |
-| The Archangel | 28.00% | ~1,136 |
+| The Archangel | 28.00% | ~1,137 |
 | Operative | 27.00% | ~1,096 |
 | The Convict | 26.00% | ~1,055 |
 | Power Full | 26.00% | ~1,055 |
-| Veteran | 25.00% | ~1,014 |
-| Colony Defense | 25.00% | ~1,014 |
-| The Krogan | 25.00% | ~1,014 |
-| Broke, Blind, and Bedlam | 25.00% | ~1,014 |
+| Veteran | 25.00% | ~1,015 |
+| Colony Defense | 25.00% | ~1,015 |
+| The Krogan | 25.00% | ~1,015 |
+| Broke, Blind, and Bedlam | 25.00% | ~1,015 |
 | Driven | 24.00% | ~974 |
-| Ghost Ship | 23.00% | ~933 |
-| The Assassin | 23.00% | ~933 |
-| The Quarian | 23.00% | ~933 |
+| Ghost Ship | 23.00% | ~934 |
+| The Assassin | 23.00% | ~934 |
+| The Quarian | 23.00% | ~934 |
 | The Justicar | 22.00% | ~893 |
 | The Prodigal | 22.00% | ~893 |
 | Galactic Explorer | 22.00% | ~893 |
@@ -73,12 +73,12 @@
 | Suicide Mission | 19.00% | ~771 |
 | Against All Odds | 19.00% | ~771 |
 | Agent | 19.00% | ~771 |
-| Untouchable | 18.00% | ~730 |
-| Eye of the Hurricane | 18.00% | ~730 |
-| Giant Killer | 18.00% | ~730 |
-| First Aid Specialist | 18.00% | ~730 |
-| A House Divided | 18.00% | ~730 |
-| World Shaker | 18.00% | ~730 |
+| Untouchable | 18.00% | ~731 |
+| Eye of the Hurricane | 18.00% | ~731 |
+| Giant Killer | 18.00% | ~731 |
+| First Aid Specialist | 18.00% | ~731 |
+| A House Divided | 18.00% | ~731 |
+| World Shaker | 18.00% | ~731 |
 | Liberator | 17.00% | ~690 |
 | Savior | 16.00% | ~649 |
 | Weapon Specialist | 16.00% | ~649 |
@@ -114,9 +114,9 @@
 | Paramour III | 7.00% | ~284 |
 | Bruiser | 7.00% | ~284 |
 | Overload Specialist | 7.00% | ~284 |
-| Sky High | 6.00% | ~243 |
-| Hijacker | 6.00% | ~243 |
-| Lift Mastery | 6.00% | ~243 |
+| Sky High | 6.00% | ~244 |
+| Hijacker | 6.00% | ~244 |
+| Lift Mastery | 6.00% | ~244 |
 | Damping Specialist | 4.00% | ~162 |
 | Singularity Mastery | 4.00% | ~162 |
 | Shield Breaker | 3.00% | ~122 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~41 |
 | The One and Only | 0.50% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,058 (Ranked 212)  
+Progressed: 4,059 (Ranked 212)  
 Completed: 13 (0.32%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,3 +249,4 @@ Completed: 13 (0.32%) (Ranked 250)
 | 2024-01-07 | 3,940 | 13 |
 | 2024-01-08 | 3,994 | 13 |
 | 2024-01-09 | 4,058 | 13 |
+| 2024-01-10 | 4,059 | 13 |

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 555,
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 240,
-  "Ranking_EOS_Completed": 394,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_Completed": 395,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -4391,17 +4391,17 @@
       "ID": "Achievement_014",
       "SetID": "6b34g18",
       "Name": "Monster Hunters Club",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "Achievement_015",
       "SetID": "6b34g18",
       "Name": "Blood Brother",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "Achievement_016",
@@ -4832,8 +4832,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:07:25.5862492+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:06:03.3774982+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:01:36.9808645+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:07:25.5863217+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:59:59.9593763+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:06:03.3775677+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 235,
-  "Ranking_EOS_Completed": 59,
+  "Ranking_EOS_Completed": 58,
   "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
@@ -127,11 +127,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2625,
+  "EOS_Progressed": 2627,
   "EOS_Completed": 186,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 46,
-  "EOS_Completed_Percentage": 7.09,
+  "EOS_Completed_Percentage": 7.08,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -6892,6 +6892,11 @@
       "Time": "2024-01-09T23:03:49.9281581+00:00",
       "NumProgressed": 2625,
       "NumCompleted": 186
+    },
+    {
+      "Time": "2024-01-10T00:03:30.3567797+00:00",
+      "NumProgressed": 2627,
+      "NumCompleted": 186
     }
   ],
   "TotalAchievements": 25,
@@ -6911,7 +6916,7 @@
       "Name": "In this together",
       "Percentage": 25,
       "XP": 200,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "META_ALL_LINK",
@@ -6919,7 +6924,7 @@
       "Name": "Peace walker",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -6999,7 +7004,7 @@
       "Name": "Alchemists Express",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -7007,7 +7012,7 @@
       "Name": "Rascal",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -7023,7 +7028,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -7039,7 +7044,7 @@
       "Name": "Champollion",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -7047,7 +7052,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7055,7 +7060,7 @@
       "Name": "Scholar",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "PROGRESS_N1",
@@ -7063,7 +7068,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "PROGRESS_N2",
@@ -7071,7 +7076,7 @@
       "Name": "The great escape",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "PROGRESS_N3",
@@ -7079,7 +7084,7 @@
       "Name": "A new dawn",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "PROGRESS_N4",
@@ -7095,14 +7100,14 @@
       "Name": "One last step",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2625,
+      "Progressed": 2627,
       "Completed": 186
     }
   ],
@@ -7110,8 +7115,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:03:49.9281578+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:03:30.3567793+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:00:28.3690348+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:03:49.9282118+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:59:14.5371374+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:03:30.3568651+00:00"
 }

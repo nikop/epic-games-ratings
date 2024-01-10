@@ -137,6 +137,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Grand Coalition | 0.10% | ~496 |
 | Grand Duchy | 0.10% | ~496 |
 | I'll graze my horse here.. And here… | 0.10% | ~496 |
+| Great Moravia | 0.10% | ~496 |
 | Guarantor of Peace | 0.10% | ~496 |
 | Hanukkah Mutapa | 0.10% | ~496 |
 | Hard Bargaining | 0.10% | ~496 |
@@ -343,7 +344,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | For Odin! | 0.00% | ~0 |
 | Frozen Assets | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
-| Great Moravia | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
 | Hoarder | 0.00% | ~0 |
 | It's All Greek To Me | 0.00% | ~0 |
@@ -370,8 +370,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 495,855 (Ranked 42)  
-Completed: 1 (0.00%) (Ranked 394)  
+Progressed: 495,867 (Ranked 42)  
+Completed: 1 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -635,6 +635,7 @@ Completed: 1 (0.00%) (Ranked 394)
 | 2024-01-07 | 494,650 | 1 |
 | 2024-01-08 | 495,265 | 1 |
 | 2024-01-09 | 495,855 | 1 |
+| 2024-01-10 | 495,867 | 1 |
 ## Awards
 Max (Educational): 7,780  (Ranked 52)  
 Sum: 64,168 (Ranked 24)  

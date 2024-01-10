@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 423,
-  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
@@ -1492,9 +1492,9 @@
       "ID": "1000ELEXIT",
       "SetID": "a1angca",
       "Name": "Entrepreneur",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "100HEALS",
@@ -1884,8 +1884,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:07:34.7703491+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:06:09.7888152+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:22.4582393+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:01:02.4536204+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:07:34.7703845+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:59:36.8095154+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:06:09.7888624+00:00"
 }

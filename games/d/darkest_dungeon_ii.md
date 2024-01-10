@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~934 |
+| Malpractice Assurance | 13.00% | ~935 |
 | Lost and Found | 8.00% | ~575 |
 | Autodidact | 7.00% | ~9,262 |
 | This guy... again? | 7.00% | ~503 |
@@ -33,25 +33,25 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ramble On | 4.00% | ~5,293 |
 | Whale | 4.00% | ~5,293 |
 | Nope | 4.00% | ~5,293 |
-| Friends 'Til the End | 4.00% | ~287 |
-| Resurrection | 3.00% | ~3,969 |
-| Unleash Hell | 3.00% | ~3,969 |
-| Funny Guy | 3.00% | ~3,969 |
-| Long Live the King | 3.00% | ~3,969 |
-| Wyrdly Reconstructed | 3.00% | ~3,969 |
-| Boxcar Kid | 3.00% | ~3,969 |
-| Unfulfilled Desires | 3.00% | ~3,969 |
-| Predator | 3.00% | ~3,969 |
-| Dissector | 3.00% | ~3,969 |
-| Banishment | 3.00% | ~3,969 |
-| Deprogramming | 3.00% | ~3,969 |
-| Now Stay Dead | 3.00% | ~3,969 |
-| Reverse Banditry | 3.00% | ~3,969 |
-| A Clear Conscience | 3.00% | ~3,969 |
-| When You Want Something Done Right | 3.00% | ~3,969 |
-| Utopia | 3.00% | ~3,969 |
-| Unshackled | 3.00% | ~3,969 |
-| Road Trip | 3.00% | ~3,969 |
+| Friends 'Til the End | 4.00% | ~288 |
+| Resurrection | 3.00% | ~3,970 |
+| Unleash Hell | 3.00% | ~3,970 |
+| Funny Guy | 3.00% | ~3,970 |
+| Long Live the King | 3.00% | ~3,970 |
+| Wyrdly Reconstructed | 3.00% | ~3,970 |
+| Boxcar Kid | 3.00% | ~3,970 |
+| Unfulfilled Desires | 3.00% | ~3,970 |
+| Predator | 3.00% | ~3,970 |
+| Dissector | 3.00% | ~3,970 |
+| Banishment | 3.00% | ~3,970 |
+| Deprogramming | 3.00% | ~3,970 |
+| Now Stay Dead | 3.00% | ~3,970 |
+| Reverse Banditry | 3.00% | ~3,970 |
+| A Clear Conscience | 3.00% | ~3,970 |
+| When You Want Something Done Right | 3.00% | ~3,970 |
+| Utopia | 3.00% | ~3,970 |
+| Unshackled | 3.00% | ~3,970 |
+| Road Trip | 3.00% | ~3,970 |
 | This Looks Familiar | 2.00% | ~2,646 |
 | Hope Rekindled | 2.00% | ~2,646 |
 | Ichthyophobic | 2.00% | ~2,646 |
@@ -61,11 +61,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eyes Up | 2.00% | ~2,646 |
 | Handled | 2.00% | ~2,646 |
 | Clearing the Ledger | 1.00% | ~1,323 |
-| Hat Trick | 1.00% | ~1,323 |
 | Shrine of Reflection | 1.00% | ~1,323 |
 | Body of Work | 1.00% | ~1,323 |
 | Slap on the Wrist | 1.00% | ~72 |
 | For Old Time' Sake | 1.00% | ~72 |
+| Hat Trick | 0.90% | ~1,191 |
 | Triage | 0.90% | ~1,191 |
 | No Mercy | 0.90% | ~65 |
 | Et Tu, Riposte? | 0.90% | ~65 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,315 (Ranked 91)  
-Completed: 3 (0.00%) (Ranked 394)  
+Progressed: 132,320 (Ranked 91)  
+Completed: 3 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -341,6 +341,7 @@ Completed: 3 (0.00%) (Ranked 394)
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
 | 2024-01-09 | 132,315 | 3 |
+| 2024-01-10 | 132,320 | 3 |
 ## Awards
 Max (Character Customization): 7,992  (Ranked 50)  
 Sum: 21,561 (Ranked 58)  

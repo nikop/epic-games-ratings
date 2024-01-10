@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -854,7 +854,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6230,
+  "EOS_Progressed": 6232,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 1,
@@ -12914,6 +12914,11 @@
       "Time": "2024-01-09T23:07:32.8298976+00:00",
       "NumProgressed": 6230,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-10T00:06:08.5044321+00:00",
+      "NumProgressed": 6232,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12926,7 +12931,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -12950,7 +12955,7 @@
       "Name": "Death Becomes You",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -12964,9 +12969,9 @@
       "ID": "MF_Ach_EverythingMustGo",
       "SetID": "9b9n573",
       "Name": "Everything Must Go!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 872
+      "UsersEstimate": 935
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -12974,7 +12979,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -13046,7 +13051,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -13086,7 +13091,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -13109,15 +13114,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6230,
+      "Progressed": 6232,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:07:32.8298973+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:06:08.5044317+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:03:00.6748604+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:07:32.8299895+00:00"
+  "LastUpdate_Ratings": "2024-01-10T00:02:55.9197527+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:06:08.5045213+00:00"
 }

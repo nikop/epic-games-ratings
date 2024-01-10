@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -313,9 +313,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 1347,
+  "EOS_Progressed": 1348,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3873,6 +3873,11 @@
       "Time": "2024-01-09T23:08:21.8741789+00:00",
       "NumProgressed": 1347,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-10T00:08:23.1185905+00:00",
+      "NumProgressed": 1348,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3925,7 +3930,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "BreakTheLoop",
@@ -3941,7 +3946,7 @@
       "Name": "Bridge Builder",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ChasingTheLight",
@@ -4149,7 +4154,7 @@
       "Name": "Persistent",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "PrometheusUnbound",
@@ -4187,9 +4192,9 @@
       "ID": "ScientiaVincereTenebras",
       "SetID": "1n308hc",
       "Name": "Scientia Vincere Tenebras",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 162
+      "UsersEstimate": 148
     },
     {
       "ID": "Signatory",
@@ -4197,7 +4202,7 @@
       "Name": "Signatory",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "SingleRod",
@@ -4245,7 +4250,7 @@
       "Name": "The All-Gifted",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "TheEdgeOfForever",
@@ -4285,7 +4290,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "TheWordEndures",
@@ -4293,7 +4298,7 @@
       "Name": "The Word Endures",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "TouchGrass",
@@ -4356,7 +4361,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1347,
+      "Progressed": 1348,
       "Completed": 2
     }
   ],
@@ -4364,8 +4369,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-08T17:59:02.5867071+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:08:21.8741785+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:08:23.1185899+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-09T22:59:43.198479+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:08:21.8742559+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:58:44.780057+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:08:23.1186734+00:00"
 }

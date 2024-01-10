@@ -33,8 +33,8 @@
 | Eva's diary | 3.00% | ~9 |
 | Horror book | 2.00% | ~6 |
 | A dark past | 2.00% | ~6 |
+| Sly as a fox | 0.60% | ~2 |
 | Matthew's mistakes | 0.30% | ~1 |
-| Sly as a fox | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 315 (Ranked 390)  
 Completed: 1 (0.32%) (Ranked 250)  

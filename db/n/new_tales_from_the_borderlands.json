@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 219,
-  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
@@ -177,7 +177,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3807,
+  "EOS_Progressed": 3808,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -2292,6 +2292,11 @@
       "Time": "2024-01-09T11:04:28.9737949+00:00",
       "NumProgressed": 3807,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T00:04:47.9183288+00:00",
+      "NumProgressed": 3808,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2335,7 +2340,7 @@
       "Name": "Totally Intentional",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1752
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -2367,7 +2372,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -2375,7 +2380,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -2415,7 +2420,7 @@
       "Name": "We\u0027re In",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -2431,7 +2436,7 @@
       "Name": "You Poor Now!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -2439,7 +2444,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -2471,7 +2476,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -2510,7 +2515,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3807,
+      "Progressed": 3808,
       "Completed": 0
     }
   ],
@@ -2518,8 +2523,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:05:39.3781574+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:04:47.9183284+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:34.4966642+00:00",
-  "LastUpdate_Ratings": "2024-01-09T22:58:14.0556597+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:05:39.378188+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:57:43.4684106+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:04:47.9183566+00:00"
 }

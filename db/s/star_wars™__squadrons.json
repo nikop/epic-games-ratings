@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-squadrons",
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-10-02T04:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39679,
+  "EOS_Progressed": 39693,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2632,
+  "EOS_NewPlayers": 2629,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13294,6 +13294,11 @@
       "Time": "2024-01-09T23:10:48.3715045+00:00",
       "NumProgressed": 39679,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-10T00:10:08.3384071+00:00",
+      "NumProgressed": 39693,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -13306,7 +13311,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 5952
+      "UsersEstimate": 5954
     },
     {
       "ID": "achievement_10",
@@ -13322,7 +13327,7 @@
       "Name": "Great Shot, Kid",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "achievement_12",
@@ -13354,7 +13359,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 7539
+      "UsersEstimate": 7542
     },
     {
       "ID": "achievement_16",
@@ -13386,7 +13391,7 @@
       "Name": "Stronger Together",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "achievement_2",
@@ -13394,7 +13399,7 @@
       "Name": "The Galaxy\u0027s Finest (Pilot)",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 2381
+      "UsersEstimate": 2382
     },
     {
       "ID": "achievement_20",
@@ -13410,7 +13415,7 @@
       "Name": "Sound Strategy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "achievement_22",
@@ -13418,7 +13423,7 @@
       "Name": "Fearless",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "achievement_23",
@@ -13426,7 +13431,7 @@
       "Name": "Back From the Brink",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "achievement_24",
@@ -13458,7 +13463,7 @@
       "Name": "Unkillable",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2778
+      "UsersEstimate": 2779
     },
     {
       "ID": "achievement_28",
@@ -13514,7 +13519,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 7142
+      "UsersEstimate": 7145
     },
     {
       "ID": "achievement_34",
@@ -13530,7 +13535,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 37695
+      "UsersEstimate": 37708
     },
     {
       "ID": "achievement_36",
@@ -13538,7 +13543,7 @@
       "Name": "Together, Vanguard",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2778
+      "UsersEstimate": 2779
     },
     {
       "ID": "achievement_37",
@@ -13546,7 +13551,7 @@
       "Name": "Asset Secured",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 4761
+      "UsersEstimate": 4763
     },
     {
       "ID": "achievement_38",
@@ -13554,7 +13559,7 @@
       "Name": "Temporary Guardian",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "achievement_39",
@@ -13562,7 +13567,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 9126
+      "UsersEstimate": 9129
     },
     {
       "ID": "achievement_4",
@@ -13578,7 +13583,7 @@
       "Name": "Flames Over Mon Cala",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "achievement_41",
@@ -13586,7 +13591,7 @@
       "Name": "Baited",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "achievement_42",
@@ -13594,7 +13599,7 @@
       "Name": "Against the Current",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "achievement_43",
@@ -13602,7 +13607,7 @@
       "Name": "Punch It",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "achievement_44",
@@ -13634,7 +13639,7 @@
       "Name": "Stomped",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "achievement_5",
@@ -13650,7 +13655,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 5158
+      "UsersEstimate": 5160
     },
     {
       "ID": "achievement_7",
@@ -13666,7 +13671,7 @@
       "Name": "A Better Idea",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 9126
+      "UsersEstimate": 9129
     },
     {
       "ID": "achievement_9",
@@ -13674,14 +13679,14 @@
       "Name": "A Promising Career",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 39679,
+      "Progressed": 39693,
       "Completed": 3
     }
   ],
@@ -13689,8 +13694,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:10:48.3715042+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:10:08.3384067+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:40.6174818+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:03:38.1234415+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:10:48.3715981+00:00"
+  "LastUpdate_Ratings": "2024-01-10T00:03:21.9672734+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:10:08.3385208+00:00"
 }

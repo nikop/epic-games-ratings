@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 89.00% | ~117 |
-| Enough rooms to swing a cat | 78.00% | ~103 |
-| First to the post | 78.00% | ~103 |
-| A kind of Magic | 70.00% | ~92 |
+| Home Sweet Home | 89.00% | ~118 |
+| Enough rooms to swing a cat | 77.00% | ~102 |
+| First to the post | 77.00% | ~102 |
+| A kind of Magic | 69.00% | ~92 |
 | Connected | 61.00% | ~81 |
-| Expansion | 58.00% | ~77 |
-| Mine! | 54.00% | ~71 |
+| Expansion | 57.00% | ~76 |
 | Harvest Time | 53.00% | ~70 |
-| Artificer's Apprentice | 45.00% | ~59 |
+| Mine! | 53.00% | ~70 |
+| Artificer's Apprentice | 44.00% | ~59 |
 | Fly the friendly Sky | 43.00% | ~57 |
-| Get out of here! | 42.00% | ~55 |
+| Get out of here! | 41.00% | ~55 |
 | Necromancer's Apprentice | 37.00% | ~49 |
-| Alchemist's Apprentice | 36.00% | ~48 |
-| Friend of Lyraine | 35.00% | ~46 |
+| Alchemist's Apprentice | 35.00% | ~47 |
+| Friend of Lyraine | 35.00% | ~47 |
 | Redecorating | 31.00% | ~41 |
 | The Circle | 31.00% | ~41 |
 | Bad JuJu | 24.00% | ~32 |
 | Friend of Sevenkeeps | 22.00% | ~29 |
-| Slave to the rhythm | 20.00% | ~26 |
-| Castle Meldec | 20.00% | ~26 |
+| Slave to the rhythm | 20.00% | ~27 |
+| Castle Meldec | 20.00% | ~27 |
 | Sevenkeeps Seat of Kings | 19.00% | ~25 |
 | Friend of Alluvyan | 16.00% | ~21 |
 | Friend of Connach | 16.00% | ~21 |
-| Stormwatch Faste | 14.00% | ~18 |
-| Friend of Gillyshire | 14.00% | ~18 |
+| Stormwatch Faste | 14.00% | ~19 |
+| Friend of Gillyshire | 14.00% | ~19 |
 | Friend of Orgash | 13.00% | ~17 |
 | Friend of Bastion | 13.00% | ~17 |
 | Break Free | 13.00% | ~17 |
@@ -75,8 +75,8 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132 (Ranked 474)  
-Completed: 0 (0.00%) (Ranked 394)  
+Progressed: 133 (Ranked 472)  
+Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -133,6 +133,7 @@ Completed: 0 (0.00%) (Ranked 394)
 | 2024-01-07 | 127 | 0 |
 | 2024-01-08 | 131 | 0 |
 | 2024-01-09 | 132 | 0 |
+| 2024-01-10 | 133 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

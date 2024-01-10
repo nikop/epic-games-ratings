@@ -2,9 +2,9 @@
   "ID": "f0bf1f8d40074c41bf35e4fc88aa0ea5",
   "Name": "Argol - Kronoss\u0027 Castle",
   "ProductSlug": "argol-kronoss-castle-84d829",
-  "Ranking_EOS_Progress": 641,
-  "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_Progress": 638,
+  "Ranking_EOS_Completed": 63,
+  "Ranking_EOS_NewPlayers": 437,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-26T23:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14,
+  "EOS_Progressed": 15,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.14,
+  "EOS_Completed_Percentage": 6.67,
   "EosHistory": [
     {
       "Time": "2023-12-20T22:04:50.3148671+00:00",
@@ -103,6 +103,11 @@
     {
       "Time": "2024-01-09T09:04:09.7721109+00:00",
       "NumProgressed": 14,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T00:04:29.4436387+00:00",
+      "NumProgressed": 15,
       "NumCompleted": 1
     }
   ],
@@ -234,7 +239,7 @@
       "ID": "VAMPYRE_QUEEN",
       "SetID": "d0gblle",
       "Name": "Vampire hunter",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 3
     }
@@ -243,14 +248,14 @@
     {
       "ID": "d0gblle",
       "IsBase": true,
-      "Progressed": 14,
+      "Progressed": 15,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-29T14:58:56.0005709+00:00",
   "FirstSeenAchievements": "2023-12-19T21:04:20.7899526+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:05:10.725723+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:04:29.4436383+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:57:00.8169788+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:01:42.554848+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:05:10.725739+00:00"
+  "LastUpdate_Ratings": "2024-01-10T00:00:03.420647+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:04:29.4436532+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Foretales",
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 400,
-  "Ranking_EOS_Completed": 394,
+  "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 450,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
@@ -543,9 +543,9 @@
       "ID": "theNovice",
       "SetID": "5bkacmp",
       "Name": "A gift horse",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 74
     },
     {
       "ID": "thePirate",
@@ -616,8 +616,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:05:13.4196048+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:04:31.4077835+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:35.1119247+00:00",
-  "LastUpdate_Ratings": "2024-01-09T22:57:13.0342705+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:05:13.4196362+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:57:02.7669567+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:04:31.4078173+00:00"
 }

@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2816,
+  "EOS_Progressed": 2818,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 296,
   "EOS_NewCompleters": 0,
@@ -7634,6 +7634,11 @@
       "Time": "2024-01-09T23:10:54.1274992+00:00",
       "NumProgressed": 2816,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T00:10:12.8791951+00:00",
+      "NumProgressed": 2818,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7838,7 +7843,7 @@
       "Name": "Scrap collector",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "achievement_32",
@@ -7846,7 +7851,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "achievement_33",
@@ -7854,7 +7859,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "achievement_34",
@@ -7870,7 +7875,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2422
+      "UsersEstimate": 2423
     },
     {
       "ID": "achievement_36",
@@ -7886,7 +7891,7 @@
       "Name": "Off to a good start",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1718
+      "UsersEstimate": 1719
     },
     {
       "ID": "achievement_38",
@@ -7918,7 +7923,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "achievement_41",
@@ -7934,7 +7939,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "achievement_43",
@@ -7966,7 +7971,7 @@
       "Name": "Patience you must have",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "achievement_47",
@@ -8149,13 +8154,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2816,
+      "Progressed": 2818,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2816,
+      "Progressed": 2818,
       "Completed": 1
     }
   ],
@@ -8163,8 +8168,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:10:54.1274985+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:10:12.8791942+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-09T22:59:56.7752365+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:10:54.127588+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:58:53.6040025+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:10:12.8793189+00:00"
 }

@@ -1099,9 +1099,9 @@
       "ID": "OX_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Wild Ox",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 174
+      "UsersEstimate": 178
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -1140,8 +1140,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:07:27.0430361+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:06:04.3220112+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:23.883052+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:01:05.405695+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:07:27.0430871+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:59:38.8679641+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:06:04.3220339+00:00"
 }

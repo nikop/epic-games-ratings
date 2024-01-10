@@ -2,13 +2,13 @@
   "ID": "b3d490d845c040ee82fd02f400ab0efc",
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
-  "Ranking_Rating": 357,
+  "Ranking_Rating": 358,
   "Ranking_Popularity": 497,
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -347,10 +347,10 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 906,
+  "EOS_Progressed": 907,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 244,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 243,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
     {
@@ -2387,6 +2387,11 @@
       "Time": "2024-01-09T23:03:54.3167648+00:00",
       "NumProgressed": 906,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-10T00:03:33.5679084+00:00",
+      "NumProgressed": 907,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2431,7 +2436,7 @@
       "Name": "Life\u0027s as extreme as you wanna make it!",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_DOWN_TOWN",
@@ -2503,7 +2508,7 @@
       "Name": "Shrimp Catcher",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -2511,7 +2516,7 @@
       "Name": "Toxic Terror",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -2535,7 +2540,7 @@
       "Name": "Hit Rock Bottom",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -2629,9 +2634,9 @@
       "ID": "ACH_STAT_STAR_SMASHER",
       "SetID": "biiejkc",
       "Name": "Star Smasher",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -2654,15 +2659,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 906,
+      "Progressed": 907,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-09T20:57:04.6643475+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:03:54.3167644+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:03:33.567908+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-09T22:57:13.2635136+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:03:54.3167927+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:57:03.0063365+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:03:33.5679817+00:00"
 }

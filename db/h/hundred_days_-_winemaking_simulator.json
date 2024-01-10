@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 228,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -1117,9 +1117,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 19954,
+  "EOS_Progressed": 19966,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1080,
+  "EOS_NewPlayers": 1088,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -16727,6 +16727,11 @@
       "Time": "2024-01-09T23:10:17.7243447+00:00",
       "NumProgressed": 19954,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-10T00:09:46.0118968+00:00",
+      "NumProgressed": 19966,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -16739,7 +16744,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1995
+      "UsersEstimate": 1997
     },
     {
       "ID": "a_10",
@@ -16787,7 +16792,7 @@
       "Name": "Bye Bye",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 8580
+      "UsersEstimate": 8585
     },
     {
       "ID": "a_19",
@@ -16795,7 +16800,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "a_2",
@@ -16811,7 +16816,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "a_21",
@@ -16819,7 +16824,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "a_22",
@@ -16827,7 +16832,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "a_23",
@@ -16835,7 +16840,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "a_25",
@@ -16986,7 +16991,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 19954,
+      "Progressed": 19966,
       "Completed": 13
     }
   ],
@@ -16994,8 +16999,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-06T23:58:14.6842319+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:10:17.7243442+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:09:46.0118963+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:04.08822+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:00:29.8185661+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:10:17.7244552+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:59:15.3562349+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:09:46.011995+00:00"
 }

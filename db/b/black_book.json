@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
     "PcReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -686,9 +686,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 66170,
+  "EOS_Progressed": 66171,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 1639,
+  "EOS_NewPlayers": 1635,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16336,6 +16336,11 @@
       "Time": "2024-01-09T23:08:26.317148+00:00",
       "NumProgressed": 66170,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2024-01-10T00:08:26.0037933+00:00",
+      "NumProgressed": 66171,
+      "NumCompleted": 69
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -16460,7 +16465,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 14557
+      "UsersEstimate": 14558
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -16468,7 +16473,7 @@
       "Name": "Scientist",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7940
+      "UsersEstimate": 7941
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -16548,7 +16553,7 @@
       "Name": "Initiation",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 19189
+      "UsersEstimate": 19190
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -16596,7 +16601,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7940
+      "UsersEstimate": 7941
     },
     {
       "ID": "NORMAL_END",
@@ -16660,7 +16665,7 @@
       "Name": "Susanin",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3308
+      "UsersEstimate": 3309
     },
     {
       "ID": "TALES_1",
@@ -16692,7 +16697,7 @@
       "Name": "Traveller",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3308
+      "UsersEstimate": 3309
     },
     {
       "ID": "WATER",
@@ -16747,15 +16752,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 66170,
+      "Progressed": 66171,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:08:26.3171474+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:08:26.0037929+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:33.7261793+00:00",
-  "LastUpdate_Ratings": "2024-01-09T22:57:08.3523602+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:08:26.3172612+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:57:00.8119783+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:08:26.0039329+00:00"
 }

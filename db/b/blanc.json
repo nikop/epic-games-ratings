@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4041,
+  "EOS_Progressed": 4044,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6886,6 +6886,11 @@
       "Time": "2024-01-09T21:05:48.0528131+00:00",
       "NumProgressed": 4041,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-10T00:06:02.3905427+00:00",
+      "NumProgressed": 4044,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -6961,7 +6966,7 @@
       "Name": "Starting as a duo",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -6969,7 +6974,7 @@
       "Name": "Stronger together",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "THE_END",
@@ -6977,7 +6982,7 @@
       "Name": "The end",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "TRANSMISSION",
@@ -6985,7 +6990,7 @@
       "Name": "Transmission",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -7000,7 +7005,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 4041,
+      "Progressed": 4044,
       "Completed": 6
     }
   ],
@@ -7008,8 +7013,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:07:24.306647+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:06:02.3905422+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:08.6041157+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:00:04.720806+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:07:24.3066815+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:58:59.4524974+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:06:02.390594+00:00"
 }

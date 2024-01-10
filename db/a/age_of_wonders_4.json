@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 379,
+  "Ranking_Rating": 378,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 196,
@@ -747,9 +747,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7130,
+  "EOS_Progressed": 7132,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 388,
+  "EOS_NewPlayers": 389,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10902,6 +10902,11 @@
       "Time": "2024-01-09T23:07:10.6889887+00:00",
       "NumProgressed": 7130,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-10T00:05:52.7489098+00:00",
+      "NumProgressed": 7132,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -10953,7 +10958,7 @@
       "Name": "Full Ascension",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "15",
@@ -11081,7 +11086,7 @@
       "Name": "Stronger Together",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "3",
@@ -11113,7 +11118,7 @@
       "Name": "My Final Form",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "33",
@@ -11377,7 +11382,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "60",
@@ -11392,13 +11397,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7130,
+      "Progressed": 7132,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7130,
+      "Progressed": 7132,
       "Completed": 7
     }
   ],
@@ -11406,8 +11411,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-09T16:57:46.579132+00:00",
-  "LastChanged_Achievements": "2024-01-09T23:07:10.6889882+00:00",
+  "LastChanged_Achievements": "2024-01-10T00:05:52.7489093+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-09T22:57:45.4052486+00:00",
-  "LastUpdate_Achievements": "2024-01-09T23:07:10.6891063+00:00"
+  "LastUpdate_Ratings": "2024-01-09T23:57:24.7617038+00:00",
+  "LastUpdate_Achievements": "2024-01-10T00:05:52.7489905+00:00"
 }

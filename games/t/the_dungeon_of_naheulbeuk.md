@@ -6,15 +6,15 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~91,556 |
-| Alt+F4 | 10.00% | ~24,745 |
-| Where's that freaking Dwarf? | 9.00% | ~22,270 |
+| Sowwy! | 37.00% | ~91,559 |
+| Alt+F4 | 10.00% | ~24,746 |
+| Where's that freaking Dwarf? | 9.00% | ~22,271 |
 | Déjà vu | 8.00% | ~19,796 |
 | Sock! SOCK! | 6.00% | ~14,847 |
 | Speedrun | 6.00% | ~14,847 |
-| A beer, two curses, three companions | 5.00% | ~12,372 |
-| GG EZ | 5.00% | ~12,372 |
-| DM intervention | 5.00% | ~12,372 |
+| A beer, two curses, three companions | 5.00% | ~12,373 |
+| GG EZ | 5.00% | ~12,373 |
+| DM intervention | 5.00% | ~12,373 |
 | Way of the Wimp | 4.00% | ~9,898 |
 | The plot thickens... At the tavern | 4.00% | ~9,898 |
 | Fireproof Wizardess | 4.00% | ~9,898 |
@@ -39,13 +39,13 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 2.00% | ~4,949 |
 | I am the night | 2.00% | ~4,949 |
 | Thieves' Guild Accreditation | 2.00% | ~4,949 |
-| %#*!$*! | 1.00% | ~2,474 |
-| Dead for good | 1.00% | ~2,474 |
-| Gargantua | 1.00% | ~2,474 |
-| In Navalu's footsteps | 1.00% | ~2,474 |
-| Lëgal Legend | 1.00% | ~2,474 |
-| Lust and Debauchery | 1.00% | ~2,474 |
-| Material Girl | 1.00% | ~2,474 |
+| %#*!$*! | 1.00% | ~2,475 |
+| Dead for good | 1.00% | ~2,475 |
+| Gargantua | 1.00% | ~2,475 |
+| In Navalu's footsteps | 1.00% | ~2,475 |
+| Lëgal Legend | 1.00% | ~2,475 |
+| Lust and Debauchery | 1.00% | ~2,475 |
+| Material Girl | 1.00% | ~2,475 |
 | We come in peace | 0.90% | ~2,227 |
 | Holistic Adventuring Party | 0.70% | ~1,732 |
 | An old poacher makes the best gamekeeper | 0.70% | ~1,732 |
@@ -95,8 +95,8 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~247 |
 | Dwarf Candy | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,450 (Ranked 72)  
-Completed: 8 (0.00%) (Ranked 394)  
+Progressed: 247,456 (Ranked 72)  
+Completed: 8 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -319,6 +319,7 @@ Completed: 8 (0.00%) (Ranked 394)
 | 2024-01-07 | 247,153 | 8 |
 | 2024-01-08 | 247,298 | 8 |
 | 2024-01-09 | 247,450 | 8 |
+| 2024-01-10 | 247,456 | 8 |
 ## Awards
 Max (Character Customization): 268  (Ranked 276)  
 Sum: 563 (Ranked 330)  

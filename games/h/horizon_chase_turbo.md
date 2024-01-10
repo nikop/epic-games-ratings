@@ -6,21 +6,21 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~992,624 |
-| I Need a Bigger Garage | 63.00% | ~694,836 |
-| Pump my Ride | 47.00% | ~518,370 |
-| Ghostbuster | 34.00% | ~374,991 |
-| Call Roadside Assistance | 18.00% | ~198,525 |
-| That Was Close | 18.00% | ~198,525 |
-| Quickie | 11.00% | ~121,321 |
-| California Dreamer | 7.00% | ~77,204 |
+| The First of Many | 90.00% | ~992,632 |
+| I Need a Bigger Garage | 63.00% | ~694,842 |
+| Pump my Ride | 47.00% | ~518,374 |
+| Ghostbuster | 34.00% | ~374,994 |
+| Call Roadside Assistance | 18.00% | ~198,526 |
+| That Was Close | 18.00% | ~198,526 |
+| Quickie | 11.00% | ~121,322 |
+| California Dreamer | 7.00% | ~77,205 |
 | Can't Touch This | 5.00% | ~55,146 |
 | Carménère Taster | 4.00% | ~44,117 |
 | Comeback | 4.00% | ~44,117 |
-| Driver from Ipanema | 3.00% | ~33,087 |
-| Supersonic | 3.00% | ~33,087 |
-| Marathonist | 3.00% | ~33,087 |
-| Living Legend | 3.00% | ~33,087 |
+| Driver from Ipanema | 3.00% | ~33,088 |
+| Supersonic | 3.00% | ~33,088 |
+| Marathonist | 3.00% | ~33,088 |
+| Living Legend | 3.00% | ~33,088 |
 | God of Roads | 2.00% | ~22,058 |
 | Pathfinder | 2.00% | ~22,058 |
 | Go-Kart Champion | 2.00% | ~22,058 |
@@ -36,16 +36,16 @@ Number of Ratings: 1,343  (23.09.2022)
 | Brave and Bold | 1.00% | ~11,029 |
 | Volcano Surfer | 0.90% | ~9,926 |
 | Otaku | 0.90% | ~9,926 |
-| Survivor | 0.60% | ~6,617 |
-| King of the World | 0.60% | ~6,617 |
+| Survivor | 0.60% | ~6,618 |
+| King of the World | 0.60% | ~6,618 |
 | Getting Famous | 0.50% | ~5,515 |
 | Now Go Play Outside | 0.30% | ~3,309 |
 | Master of the Racetrack | 0.20% | ~2,206 |
 | Look Mom, No Hands! | 0.20% | ~2,206 |
 | Transporter | 0.10% | ~1,103 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,102,915 (Ranked 14)  
-Completed: 532 (0.05%) (Ranked 337)  
+Progressed: 1,102,924 (Ranked 14)  
+Completed: 533 (0.05%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -309,6 +309,7 @@ Completed: 532 (0.05%) (Ranked 337)
 | 2024-01-07 | 1,102,065 | 532 |
 | 2024-01-08 | 1,102,512 | 532 |
 | 2024-01-09 | 1,102,915 | 532 |
+| 2024-01-10 | 1,102,924 | 533 |
 ## Awards
 Max (Great for Beginners): 184  (Ranked 311)  
 Sum: 1,638 (Ranked 236)  
