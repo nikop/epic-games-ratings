@@ -5,42 +5,42 @@ Rating: 4.39 (Ranked 779)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 76.00% | ~2,045 |
-| A new Journey | 75.00% | ~2,018 |
-| From X to Y | 74.00% | ~1,991 |
-| Departure | 74.00% | ~1,991 |
+| Country Bumpkin | 76.00% | ~2,046 |
+| A new Journey | 75.00% | ~2,019 |
+| From X to Y | 74.00% | ~1,992 |
+| Departure | 74.00% | ~1,992 |
 | Way of Iron | 71.00% | ~1,911 |
 | Mystery Tour | 69.00% | ~1,857 |
-| We brake for nobody | 68.00% | ~1,830 |
-| Brainstorm | 66.00% | ~1,776 |
-| Mind the Gap | 66.00% | ~1,776 |
-| Travel Company | 66.00% | ~1,776 |
-| All around the World | 63.00% | ~1,695 |
+| We brake for nobody | 68.00% | ~1,831 |
+| Brainstorm | 66.00% | ~1,777 |
+| Mind the Gap | 66.00% | ~1,777 |
+| Travel Company | 66.00% | ~1,777 |
+| All around the World | 63.00% | ~1,696 |
 | Right through the middle | 59.00% | ~1,588 |
-| Facility Manager | 54.00% | ~1,453 |
-| Poor Devil | 54.00% | ~1,453 |
-| Producer | 51.00% | ~1,372 |
-| Bridge Builder | 43.00% | ~1,157 |
-| Apprentice | 42.00% | ~1,130 |
+| Facility Manager | 54.00% | ~1,454 |
+| Poor Devil | 54.00% | ~1,454 |
+| Producer | 51.00% | ~1,373 |
+| Bridge Builder | 43.00% | ~1,158 |
+| Apprentice | 42.00% | ~1,131 |
 | Going once, going twice, sold | 37.00% | ~996 |
 | Access granted | 36.00% | ~969 |
 | Bull and bear | 35.00% | ~942 |
 | Stoker | 34.00% | ~915 |
 | Full Steam ahead | 33.00% | ~888 |
-| All mine | 31.00% | ~834 |
-| Mole | 31.00% | ~834 |
-| Financial Shark | 31.00% | ~834 |
-| General Manager | 29.00% | ~780 |
-| Country Life | 29.00% | ~780 |
-| Socializer | 28.00% | ~753 |
+| All mine | 31.00% | ~835 |
+| Mole | 31.00% | ~835 |
+| Financial Shark | 31.00% | ~835 |
+| General Manager | 29.00% | ~781 |
+| Country Life | 29.00% | ~781 |
+| Socializer | 28.00% | ~754 |
 | Hostile Takeover | 26.00% | ~700 |
 | Seven at one stroke | 25.00% | ~673 |
 | Breaking Ground | 23.00% | ~619 |
 | Trailblazer | 22.00% | ~592 |
 | Traffic Junction | 22.00% | ~592 |
 | Traffic Jam | 20.00% | ~538 |
-| Resistance is futile | 18.00% | ~484 |
-| Networker | 17.00% | ~457 |
+| Resistance is futile | 18.00% | ~485 |
+| Networker | 17.00% | ~458 |
 | Bold and beautiful | 16.00% | ~431 |
 | Settler | 16.00% | ~431 |
 | Assimilated | 15.00% | ~404 |
@@ -61,7 +61,7 @@ Rating: 4.39 (Ranked 779)
 | European Union | 0.60% | ~16 |
 | Together we stand | 0.50% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,691 (Ranked 233)  
+Progressed: 2,692 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 2,657 | 0 |
 | 2024-01-08 | 2,671 | 0 |
 | 2024-01-09 | 2,676 | 0 |
-| 2024-01-10 | 2,691 | 0 |
+| 2024-01-10 | 2,692 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

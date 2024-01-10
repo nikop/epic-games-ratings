@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -631,9 +631,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 47014,
+  "EOS_Progressed": 47020,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 782,
+  "EOS_NewPlayers": 786,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18371,6 +18371,11 @@
       "Time": "2024-01-10T18:05:56.5206304+00:00",
       "NumProgressed": 47014,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-10T19:05:53.7414521+00:00",
+      "NumProgressed": 47020,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18398,7 +18403,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -18430,7 +18435,7 @@
       "Name": "Attachments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6112
+      "UsersEstimate": 6113
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -18534,7 +18539,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4231
+      "UsersEstimate": 4232
     },
     {
       "ID": "CUFF_ATTACK",
@@ -18558,7 +18563,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "JUSTCOUNTER",
@@ -18622,7 +18627,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3761
+      "UsersEstimate": 3762
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -18670,7 +18675,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3761
+      "UsersEstimate": 3762
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -18686,7 +18691,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "PARKOUR_TIME",
@@ -18805,22 +18810,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47014,
+      "Progressed": 47020,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11851,
-      "Completed": 11851
+      "Progressed": 11857,
+      "Completed": 11857
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-09T14:02:53.1133514+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:05:56.5206302+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:05:53.7414516+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:02:54.7825735+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:05:56.5207598+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:03:06.0150466+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:05:53.7415662+00:00"
 }

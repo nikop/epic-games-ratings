@@ -31,7 +31,7 @@ Rating: 3.96 (Ranked 1,060)
 | Moneybags | 0.60% | ~560 |
 | Olympus Ascended | 0.60% | ~560 |
 | Ding Dong | 0.60% | ~560 |
-| All that Glitters | 0.50% | ~108 |
+| All that Glitters | 0.50% | ~109 |
 | Rockay Raider | 0.40% | ~373 |
 | Groundhog Days | 0.40% | ~373 |
 | Cracked the Jack | 0.40% | ~373 |
@@ -47,7 +47,7 @@ Rating: 3.96 (Ranked 1,060)
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,353 (Ranked 103)  
+Progressed: 93,357 (Ranked 103)  
 Completed: 58 (0.06%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,10 +312,10 @@ Completed: 58 (0.06%) (Ranked 329)
 | 2024-01-07 | 93,213 | 58 |
 | 2024-01-08 | 93,257 | 58 |
 | 2024-01-09 | 93,308 | 58 |
-| 2024-01-10 | 93,353 | 58 |
+| 2024-01-10 | 93,357 | 58 |
 ## Awards
 Max (Diverse Characters): 594  (Ranked 210)  
-Sum: 2,809 (Ranked 190)  
+Sum: 2,810 (Ranked 190)  
 Diff (max vs sum): 20  
 | Award | Count |
 | ----- | ----- |
@@ -323,7 +323,7 @@ Diff (max vs sum): 20
 | This game is Highly Recommended | 574 |
 | This game has Amazing Characters | 553 |
 | This game has Quickly Understood Controls | 550 |
-| This game is Extremely Fun | 538 |
+| This game is Extremely Fun | 539 |
 | This game has Challenging Combat | 514 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -613,4 +613,4 @@ Diff (max vs sum): 20
 | 2024-01-07 | 3.96 | 591 | 2,797 |
 | 2024-01-08 | 3.96 | 593 | 2,801 |
 | 2024-01-09 | 3.96 | 593 | 2,807 |
-| 2024-01-10 | 3.96 | 594 | 2,809 |
+| 2024-01-10 | 3.96 | 594 | 2,810 |

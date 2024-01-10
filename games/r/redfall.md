@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,094)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,351 (Ranked 240)  
+Progressed: 2,352 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 2,301 | 0 |
 | 2024-01-08 | 2,317 | 0 |
 | 2024-01-09 | 2,331 | 0 |
-| 2024-01-10 | 2,351 | 0 |
+| 2024-01-10 | 2,352 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 556)  
 Sum: 24 (Ranked 563)  

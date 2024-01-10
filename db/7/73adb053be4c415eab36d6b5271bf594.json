@@ -2,10 +2,10 @@
   "ID": "73adb053be4c415eab36d6b5271bf594",
   "Name": "Solitaire Game Halloween",
   "ProductSlug": "solitaire-game-halloween-5268c1",
-  "Ranking_EOS_Progress": 824,
+  "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-18T21:00:00+00:00",
     "PcReleaseDate": "2019-10-02T22:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-23T01:40:08.7504452+00:00",
   "LastUpdate_AppInfo": "2024-01-04T08:57:14.2988802+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:59:20.4615741+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:05:59.5372748+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:59:15.1394811+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:05:56.4573027+00:00"
 }

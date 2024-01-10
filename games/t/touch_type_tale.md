@@ -5,9 +5,9 @@ Rating: 4.75 (Ranked 146)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 87.00% | ~3,494 |
-| Flanked! | 75.00% | ~3,012 |
-| Economics 101 | 59.00% | ~2,369 |
+| You and what Army? | 87.00% | ~3,495 |
+| Flanked! | 75.00% | ~3,013 |
+| Economics 101 | 59.00% | ~2,370 |
 | Get Rich Quick | 41.00% | ~1,647 |
 | Do the Splits | 37.00% | ~1,486 |
 | Maestro | 25.00% | ~1,004 |
@@ -32,14 +32,14 @@ Rating: 4.75 (Ranked 146)
 | Sweet Revenge | 4.00% | ~161 |
 | We Have the Technology | 4.00% | ~161 |
 | Figure of Breach | 4.00% | ~161 |
-| Work It | 3.00% | ~120 |
-| Almost Like Winning | 3.00% | ~120 |
-| The Handyman Can! | 3.00% | ~120 |
-| A Brief Moment of Respite | 3.00% | ~120 |
+| Work It | 3.00% | ~121 |
+| Almost Like Winning | 3.00% | ~121 |
+| The Handyman Can! | 3.00% | ~121 |
+| A Brief Moment of Respite | 3.00% | ~121 |
 | Untouchable | 1.00% | ~40 |
 | All Geared Up | 0.80% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,016 (Ranked 214)  
+Progressed: 4,017 (Ranked 214)  
 Completed: 11 (0.27%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 11 (0.27%) (Ranked 260)
 | 2024-01-07 | 4,006 | 11 |
 | 2024-01-08 | 4,009 | 11 |
 | 2024-01-09 | 4,014 | 11 |
-| 2024-01-10 | 4,016 | 11 |
+| 2024-01-10 | 4,017 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

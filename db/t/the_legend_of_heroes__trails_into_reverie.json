@@ -2,10 +2,10 @@
   "ID": "d3363c653c6d4f38b7eb56c901a65e71",
   "Name": "The Legend of Heroes: Trails into Reverie",
   "ProductSlug": "the-legend-of-heroes-trails-into-reverie",
-  "Ranking_EOS_Progress": 824,
+  "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-07-07T17:00:00+00:00",
     "PcReleaseDate": "2023-07-07T17:00:00+00:00",
@@ -32,6 +32,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-07T21:59:25.6637024+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:51.9209712+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:58:16.1485149+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:09:13.7991468+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:58:15.1506916+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:09:19.5154315+00:00"
 }

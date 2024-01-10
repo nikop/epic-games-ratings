@@ -2,10 +2,10 @@
   "ID": "f804fcc3063f467699936dbd544d9e9a",
   "Name": "Eternal Damnation",
   "ProductSlug": "eternal-damnation-3454be",
-  "Ranking_EOS_Progress": 824,
+  "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-08T23:57:14.9541804+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:59:51.130988+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:04:44.1358654+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:59:42.7934704+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:04:47.6795672+00:00"
 }

@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shipwrecked! | 74.00% | ~34 |
-| Sea Legs | 63.00% | ~29 |
-| What?! | 39.00% | ~18 |
-| Frogs Legs | 22.00% | ~10 |
+| Shipwrecked! | 72.00% | ~34 |
+| Sea Legs | 62.00% | ~29 |
+| What?! | 38.00% | ~18 |
+| Frogs Legs | 21.00% | ~10 |
 | Mad Scientist | 17.00% | ~8 |
 | Hoist the Sails | 17.00% | ~8 |
 | Secure the Sheets | 17.00% | ~8 |
@@ -23,12 +23,12 @@
 | Safe Investment | 9.00% | ~4 |
 | Bank of Me | 9.00% | ~4 |
 | The Journey Continues | 9.00% | ~4 |
-| Shrub-Seeing: Ruins of old | 7.00% | ~3 |
-| Yeet! | 7.00% | ~3 |
-| Caught Ya! | 7.00% | ~3 |
-| Honey, I'm Home | 7.00% | ~3 |
-| Fantastic Fungi | 7.00% | ~3 |
-| Home Sweet Home | 7.00% | ~3 |
+| Shrub-Seeing: Ruins of old | 6.00% | ~3 |
+| Yeet! | 6.00% | ~3 |
+| Caught Ya! | 6.00% | ~3 |
+| Honey, I'm Home | 6.00% | ~3 |
+| Fantastic Fungi | 6.00% | ~3 |
+| Home Sweet Home | 6.00% | ~3 |
 | One with the frogs | 4.00% | ~2 |
 | Shrub-Seeing: Lights in the sky | 4.00% | ~2 |
 | Shrub-Seeing: Ancient Extractor | 4.00% | ~2 |
@@ -40,8 +40,8 @@
 | Crunch Time | 2.00% | ~1 |
 | Just Here for the Food | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46 (Ranked 570)  
-Completed: 1 (2.17%) (Ranked 133)  
+Progressed: 47 (Ranked 565)  
+Completed: 1 (2.13%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,6 +81,7 @@ Completed: 1 (2.17%) (Ranked 133)
 | 2024-01-07 | 43 | 1 |
 | 2024-01-08 | 45 | 1 |
 | 2024-01-09 | 46 | 1 |
+| 2024-01-10 | 47 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

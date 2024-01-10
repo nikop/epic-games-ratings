@@ -1,7 +1,7 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.63 (Ranked 359)  
+Rating: 4.63 (Ranked 360)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,8 +13,8 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Getter | 13.00% | ~120 |
 | Time For Tutorial | 13.00% | ~120 |
 | Sweet Victory | 12.00% | ~111 |
-| Super Spatula Seeker | 11.00% | ~101 |
-| Star Smasher | 11.00% | ~101 |
+| Super Spatula Seeker | 11.00% | ~102 |
+| Star Smasher | 11.00% | ~102 |
 | Uptown and Downtown | 10.00% | ~92 |
 | Squirrel Smasher | 10.00% | ~92 |
 | Surf's Up! | 10.00% | ~92 |
@@ -24,8 +24,8 @@ Number of Ratings: 76  (23.09.2022)
 | Hit Rock Bottom | 8.00% | ~74 |
 | Are you ready now? | 7.00% | ~65 |
 | Keep it Rolling | 7.00% | ~65 |
-| Ultra Spatula Seeker | 7.00% | ~65 |
 | Hello, Bikini Bottom | 6.00% | ~55 |
+| Ultra Spatula Seeker | 6.00% | ~55 |
 | Robot encyclopedia | 5.00% | ~46 |
 | Ship Shape | 5.00% | ~46 |
 | The Small Does Not Rule | 4.00% | ~37 |
@@ -34,12 +34,12 @@ Number of Ratings: 76  (23.09.2022)
 | SpongeBob vs SpongeBob! | 4.00% | ~37 |
 | Sleepy Time | 4.00% | ~37 |
 | Sock Concert | 4.00% | ~37 |
-| Mega Spatula Seeker | 3.00% | ~28 |
+| Mega Spatula Seeker | 4.00% | ~37 |
 | 100% SpongeBob | 1.00% | ~9 |
 | Sock Opera | 1.00% | ~9 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 922 (Ranked 302)  
+Progressed: 924 (Ranked 301)  
 Completed: 8 (0.87%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 8 (0.87%) (Ranked 187)
 | 2024-01-07 | 836 | 7 |
 | 2024-01-08 | 877 | 8 |
 | 2024-01-09 | 906 | 8 |
-| 2024-01-10 | 922 | 8 |
+| 2024-01-10 | 924 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 499)  
 Sum: 36 (Ranked 531)  

@@ -2,10 +2,10 @@
   "ID": "365ade02815042a9a804764344b17670",
   "Name": "NecroLand: Undead Corps",
   "ProductSlug": "necroland-undead-corps",
-  "Ranking_EOS_Progress": 824,
+  "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-06-30T17:00:00+00:00",
     "PcReleaseDate": "2021-06-30T17:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:26.8269401+00:00",
   "LastChanged": "2023-03-31T05:57:26.8269402+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:00.6168317+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:59:26.5012557+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:05:04.2073171+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:59:21.6548702+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:05:06.3376023+00:00"
 }

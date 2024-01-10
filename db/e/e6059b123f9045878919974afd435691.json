@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1432,
+  "EOS_Progressed": 1433,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
@@ -3789,6 +3789,11 @@
       "Time": "2024-01-10T18:10:11.2612554+00:00",
       "NumProgressed": 1432,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T19:10:12.6520428+00:00",
+      "NumProgressed": 1433,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3800,7 +3805,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3840,7 +3845,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3848,15 +3853,15 @@
       "Name": "Goat Whisperer",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "I Can Do This All Day",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 86
     },
     {
       "ID": "ATK_ACHIEVEMENT_4",
@@ -3872,7 +3877,7 @@
       "Name": "Capraphobia",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3920,7 +3925,7 @@
       "Name": "Burnt Smell",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -3928,7 +3933,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -4040,7 +4045,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -4048,7 +4053,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -4062,9 +4067,9 @@
       "ID": "FREE_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "Fly Free",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "KALL_ACHIEVEMENT_1",
@@ -4072,7 +4077,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -4096,7 +4101,7 @@
       "Name": "Decakill!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -4120,7 +4125,7 @@
       "Name": "And There We Go",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -4160,7 +4165,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -4238,9 +4243,9 @@
       "ID": "PASS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beep Beep Boop",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 201
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -4327,14 +4332,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1432,
+      "Progressed": 1433,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:10:11.2612552+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:10:12.6520425+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:08.8169923+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:00:10.3608077+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:10:11.2613244+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:00:00.9886394+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:10:12.652112+00:00"
 }

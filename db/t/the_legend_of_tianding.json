@@ -4,7 +4,7 @@
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -659,9 +659,9 @@
       "ID": "ThreatenLiHong",
       "SetID": "123m9l1",
       "Name": "Coward",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "TombExplorer",
@@ -692,8 +692,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:06:37.9081076+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:06:31.8484088+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.6846029+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:58:43.1951187+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:06:37.9081245+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:58:40.0495156+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:06:31.8484291+00:00"
 }

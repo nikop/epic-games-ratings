@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1004,
+  "EOS_Progressed": 1005,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -3562,6 +3562,11 @@
       "Time": "2024-01-10T18:06:48.8762893+00:00",
       "NumProgressed": 1004,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-10T19:06:41.663274+00:00",
+      "NumProgressed": 1005,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3573,7 +3578,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "cool-shirts",
@@ -3621,15 +3626,15 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "kill-lieutenants",
       "SetID": "bed33dd",
       "Name": "Spreading Fear",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 90
     },
     {
       "ID": "pack-and-sell",
@@ -3693,7 +3698,7 @@
       "Name": "Camellos",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "unlock-residences",
@@ -3709,7 +3714,7 @@
       "Name": "Take-Off",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "use-submarine",
@@ -3724,15 +3729,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 1004,
+      "Progressed": 1005,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-05T21:03:11.6844011+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:06:48.8762889+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:06:41.6632735+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:39.3719101+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:02:54.9285801+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:06:48.8763148+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:03:06.1491354+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:06:41.6633024+00:00"
 }

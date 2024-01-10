@@ -10,7 +10,7 @@ Rating: 4.75 (Ranked 146)
 | For the Horde! | 82.00% | ~619 |
 | Hammer Time, Round Two | 81.00% | ~612 |
 | The Hellwoods | 77.00% | ~581 |
-| The Plains of Strothalm | 72.00% | ~544 |
+| The Plains of Strothalm | 73.00% | ~551 |
 | Experienced Thalya | 71.00% | ~536 |
 | Bad Elves Go Everywhere | 69.00% | ~521 |
 | Thalya's Concentrated Fury | 68.00% | ~513 |
@@ -21,7 +21,7 @@ Rating: 4.75 (Ranked 146)
 | The Ascent | 59.00% | ~445 |
 | It's Warm and Cozy at Home | 59.00% | ~445 |
 | Trap Master | 56.00% | ~423 |
-| Minions, Minions! | 55.00% | ~415 |
+| Minions, Minions! | 56.00% | ~423 |
 | Hard Work | 55.00% | ~415 |
 | The Big Eaty | 55.00% | ~415 |
 | “… like son” | 53.00% | ~400 |
@@ -56,9 +56,9 @@ Rating: 4.75 (Ranked 146)
 | To the Max! | 19.00% | ~143 |
 | To Infinity And Beyond! | 19.00% | ~143 |
 | Evilification | 19.00% | ~143 |
+| Sacrificial Pit = Garbage Disposal? | 18.00% | ~136 |
 | My Little Torture Chamber | 18.00% | ~136 |
 | Heal Heal Blessing | 18.00% | ~136 |
-| Sacrificial Pit = Garbage Disposal? | 17.00% | ~128 |
 | Mirror, Mirror | 17.00% | ~128 |
 | Untouchable | 17.00% | ~128 |
 | Hands Off My Stones | 15.00% | ~113 |

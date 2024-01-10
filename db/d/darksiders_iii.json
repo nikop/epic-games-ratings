@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -482,7 +482,7 @@
   ],
   "EOS_Progressed": 540,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2106,9 +2106,9 @@
       "ID": "Collect_Hollow_Force",
       "SetID": "7a5k76n",
       "Name": "I Wanna Rock",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 184
     },
     {
       "ID": "Collect_Hollow_Stasis",
@@ -2314,9 +2314,9 @@
       "ID": "Kill_Demon_Abraxis",
       "SetID": "7a5k76n",
       "Name": "Demon Meddler",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 124
     },
     {
       "ID": "Kill_Demon_Kraken",
@@ -2530,8 +2530,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-10T06:57:57.6760335+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:04:44.4637051+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:04:48.0489029+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:58:21.1144177+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:04:44.4637851+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:58:19.6049092+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:04:48.048975+00:00"
 }

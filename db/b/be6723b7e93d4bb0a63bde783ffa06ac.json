@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2018-02-20T17:00:00+00:00",
@@ -1086,9 +1086,9 @@
       "ID": "ach27",
       "SetID": "baneh2j",
       "Name": "Preparation",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 35,
-      "UsersEstimate": 151
+      "UsersEstimate": 153
     },
     {
       "ID": "ach28",
@@ -1189,8 +1189,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:05:22.5850692+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:05:23.0027625+00:00",
   "LastUpdate_AppInfo": "2024-01-10T10:57:39.7888717+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:58:06.5254709+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:05:22.5850963+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:58:07.3007134+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:05:23.0027909+00:00"
 }

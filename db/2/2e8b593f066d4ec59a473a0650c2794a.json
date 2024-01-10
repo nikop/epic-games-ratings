@@ -2,10 +2,10 @@
   "ID": "2e8b593f066d4ec59a473a0650c2794a",
   "Name": "100 Doors - Escape from Work",
   "ProductSlug": "100-doors-escape-from-work-8e2958",
-  "Ranking_EOS_Progress": 824,
+  "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-15T22:00:00+00:00",
     "PcReleaseDate": "2022-02-28T23:00:00+00:00",
@@ -157,8 +157,8 @@
   ],
   "FirstSeen": "2023-11-12T14:57:49.5650201+00:00",
   "FirstSeenAchievements": "2023-10-12T07:03:22.7967841+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:05:53.5468835+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:05:50.9735121+00:00",
   "LastUpdate_AppInfo": "2024-01-04T13:00:40.4706789+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:00:49.8952557+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:05:53.546895+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:00:36.9617597+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:05:50.9735206+00:00"
 }

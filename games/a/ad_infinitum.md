@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Path of Despair | 86.00% | ~172 |
 | Morgengrauen | 85.00% | ~170 |
-| Path of Despair | 85.00% | ~170 |
-| Not alone | 57.00% | ~114 |
+| Not alone | 58.00% | ~116 |
 | Hunger | 50.00% | ~100 |
 | Awaken | 42.00% | ~84 |
 | Path of Corruption | 34.00% | ~68 |
@@ -19,7 +19,7 @@
 | Clarity | 16.00% | ~32 |
 | Health | 14.00% | ~28 |
 | Awaiting orders | 13.00% | ~26 |
-| Art critic | 10.00% | ~20 |
+| Art critic | 11.00% | ~22 |
 | Jigsaw | 10.00% | ~20 |
 | Peace | 10.00% | ~20 |
 | Lost | 8.00% | ~16 |

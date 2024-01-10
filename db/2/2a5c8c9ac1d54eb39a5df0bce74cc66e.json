@@ -2,10 +2,10 @@
   "ID": "2a5c8c9ac1d54eb39a5df0bce74cc66e",
   "Name": "Ememe",
   "ProductSlug": "ememe-220452",
-  "Ranking_EOS_Progress": 824,
+  "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
     "PcReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-09T16:57:15.0657836+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:58:07.1795201+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:04:35.1648828+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:58:07.8187655+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:04:39.3318985+00:00"
 }

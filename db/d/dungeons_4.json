@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 90,
   "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2498,25 +2498,25 @@
       "ID": "ach_main04undead_completed",
       "SetID": "4hg22ll",
       "Name": "The Plains of Strothalm",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 551
     },
     {
       "ID": "ach_main04undead_minions",
       "SetID": "4hg22ll",
       "Name": "Minions, Minions!",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 415
+      "UsersEstimate": 423
     },
     {
       "ID": "ach_main04undead_sacrifice",
       "SetID": "4hg22ll",
       "Name": "Sacrificial Pit = Garbage Disposal?",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 136
     },
     {
       "ID": "ach_main05evil_completed",
@@ -2923,8 +2923,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-08T17:59:07.5685099+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:09:12.1067983+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:09:18.0171076+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:59:37.0452764+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:09:12.1068499+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:59:30.9305253+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:09:18.0171671+00:00"
 }

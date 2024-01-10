@@ -2,10 +2,10 @@
   "ID": "e0ee1d8777e441d3ae01f796ed427261",
   "Name": "Amber",
   "ProductSlug": "amber-1e2240",
-  "Ranking_EOS_Progress": 824,
+  "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2024-02-14T13:00:00+00:00",
     "PcReleaseDate": "2024-02-14T13:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-10T01:46:07.1262216+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:58:57.1078771+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:06:00.3150888+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:58:51.8921839+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:05:57.1282125+00:00"
 }

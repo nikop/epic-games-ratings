@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 441,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1729,9 +1729,9 @@
       "ID": "ach_first_rocket_jump",
       "SetID": "cmg602e",
       "Name": "I Believe I Can Fly",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 188
     },
     {
       "ID": "ach_heal_x_points_with_health_pack",
@@ -2272,8 +2272,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:08:18.4109752+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:08:27.9087556+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:00.2079543+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:59:21.1640033+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:08:18.4110429+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:59:15.7917915+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:08:27.9088535+00:00"
 }

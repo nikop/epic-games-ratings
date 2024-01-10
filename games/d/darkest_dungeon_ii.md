@@ -6,16 +6,16 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~941 |
-| Lost and Found | 8.00% | ~579 |
+| Malpractice Assurance | 13.00% | ~942 |
+| Lost and Found | 8.00% | ~580 |
 | Autodidact | 7.00% | ~9,266 |
 | This guy... again? | 7.00% | ~507 |
-| Serenity Now! | 6.00% | ~7,942 |
-| This Belongs in a Museum | 6.00% | ~7,942 |
-| Creep and Sleep | 6.00% | ~7,942 |
-| Overdue Notice | 6.00% | ~7,942 |
-| Escape from the Black Hole | 6.00% | ~7,942 |
-| Ploughshares to Swords | 6.00% | ~434 |
+| Serenity Now! | 6.00% | ~7,943 |
+| This Belongs in a Museum | 6.00% | ~7,943 |
+| Creep and Sleep | 6.00% | ~7,943 |
+| Overdue Notice | 6.00% | ~7,943 |
+| Escape from the Black Hole | 6.00% | ~7,943 |
+| Ploughshares to Swords | 6.00% | ~435 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,619 |
 | It Rings a Bell | 5.00% | ~6,619 |
 | Not Today! | 5.00% | ~6,619 |
@@ -53,13 +53,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | When You Want Something Done Right | 3.00% | ~3,971 |
 | Utopia | 3.00% | ~3,971 |
 | Road Trip | 3.00% | ~3,971 |
-| This Looks Familiar | 2.00% | ~2,647 |
-| Ichthyophobic | 2.00% | ~2,647 |
-| No More Mouths to Feed | 2.00% | ~2,647 |
-| Worldly Traveller | 2.00% | ~2,647 |
-| Hot Air | 2.00% | ~2,647 |
-| Eyes Up | 2.00% | ~2,647 |
-| Handled | 2.00% | ~2,647 |
+| This Looks Familiar | 2.00% | ~2,648 |
+| Ichthyophobic | 2.00% | ~2,648 |
+| No More Mouths to Feed | 2.00% | ~2,648 |
+| Worldly Traveller | 2.00% | ~2,648 |
+| Hot Air | 2.00% | ~2,648 |
+| Eyes Up | 2.00% | ~2,648 |
+| Handled | 2.00% | ~2,648 |
 | Clearing the Ledger | 1.00% | ~1,324 |
 | Hat Trick | 1.00% | ~1,324 |
 | Shrine of Reflection | 1.00% | ~1,324 |
@@ -74,7 +74,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Bacon Bits | 0.60% | ~794 |
 | Eidetic | 0.50% | ~662 |
 | On This Long Road, We Found Redemption | 0.50% | ~36 |
-| Tears in the Rain | 0.40% | ~529 |
+| Tears in the Rain | 0.40% | ~530 |
 | Battle Hardened | 0.40% | ~29 |
 | Maître De La Lame | 0.30% | ~22 |
 | Circle of Life | 0.20% | ~265 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,372 (Ranked 91)  
+Progressed: 132,376 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 4 (0.00%) (Ranked 395)
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
 | 2024-01-09 | 132,315 | 3 |
-| 2024-01-10 | 132,372 | 4 |
+| 2024-01-10 | 132,376 | 4 |
 ## Awards
 Max (Character Customization): 8,000  (Ranked 50)  
 Sum: 21,576 (Ranked 58)  

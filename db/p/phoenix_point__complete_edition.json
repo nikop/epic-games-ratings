@@ -3,12 +3,12 @@
   "Name": "Phoenix Point: Complete Edition",
   "ProductSlug": "phoenix-point",
   "Ranking_Rating": 510,
-  "Ranking_Popularity": 125,
+  "Ranking_Popularity": 126,
   "Ranking_PopularitySum": 125,
-  "Ranking_EOS_Progress": 824,
+  "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-07-21T17:00:00+00:00",
     "PcReleaseDate": "2022-07-21T17:00:00+00:00",
@@ -3625,10 +3625,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 7372,
       "NumberOfAwardsMax": 1834
+    },
+    {
+      "Time": "2024-01-10T18:58:19.9139494+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 7373,
+      "NumberOfAwardsMax": 1834
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7372,
+  "NumberOfAwards": 7373,
   "NumberOfAwardsMax": 1834,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3672,7 +3678,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 645
+      "Count": 646
     },
     {
       "Text": "This game is Relaxing",
@@ -3704,8 +3710,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
-  "LastChanged": "2024-01-10T02:22:13.1042023+00:00",
+  "LastChanged": "2024-01-10T18:58:19.9139492+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:17.9311843+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:58:21.4869616+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:04:10.869735+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:58:19.9139497+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:04:17.2790385+00:00"
 }

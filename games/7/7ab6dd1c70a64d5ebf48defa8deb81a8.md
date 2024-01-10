@@ -5,23 +5,23 @@ Rating: 4.15 (Ranked 1,000)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 63.00% | ~1,385 |
-| Trinity | 31.00% | ~682 |
-| The Collector | 25.00% | ~550 |
-| Find Allies | 24.00% | ~528 |
-| A Taste of Wrath | 24.00% | ~528 |
-| Shatter Them All | 23.00% | ~506 |
-| Geared Up | 23.00% | ~506 |
-| I Found It | 23.00% | ~506 |
-| Adventurer | 22.00% | ~484 |
-| Fashion Victim | 22.00% | ~484 |
-| Scholar | 22.00% | ~484 |
-| Tributes of Caladrias | 20.00% | ~440 |
-| Stone Collection | 20.00% | ~440 |
-| Powerful Allies | 19.00% | ~418 |
-| Essence Blow | 13.00% | ~286 |
-| Big Bazar | 13.00% | ~286 |
-| Alchemist | 13.00% | ~286 |
+| Break Out | 63.00% | ~1,389 |
+| Trinity | 31.00% | ~683 |
+| The Collector | 25.00% | ~551 |
+| Find Allies | 24.00% | ~529 |
+| A Taste of Wrath | 24.00% | ~529 |
+| Shatter Them All | 23.00% | ~507 |
+| I Found It | 23.00% | ~507 |
+| Adventurer | 22.00% | ~485 |
+| Geared Up | 22.00% | ~485 |
+| Fashion Victim | 22.00% | ~485 |
+| Scholar | 22.00% | ~485 |
+| Tributes of Caladrias | 20.00% | ~441 |
+| Stone Collection | 20.00% | ~441 |
+| Powerful Allies | 19.00% | ~419 |
+| Essence Blow | 13.00% | ~287 |
+| Big Bazar | 13.00% | ~287 |
+| Alchemist | 13.00% | ~287 |
 | The Mentor | 10.00% | ~220 |
 | Calm before the Storm | 9.00% | ~198 |
 | To Battle | 8.00% | ~176 |
@@ -42,7 +42,7 @@ Rating: 4.15 (Ranked 1,000)
 | All That Gold | 0.70% | ~15 |
 | Feeling Fancy | 0.40% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,199 (Ranked 245)  
+Progressed: 2,204 (Ranked 245)  
 Completed: 3 (0.14%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 3 (0.14%) (Ranked 293)
 | 2024-01-07 | 2,015 | 3 |
 | 2024-01-08 | 2,086 | 3 |
 | 2024-01-09 | 2,146 | 3 |
-| 2024-01-10 | 2,199 | 3 |
+| 2024-01-10 | 2,204 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

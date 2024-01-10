@@ -2,10 +2,10 @@
   "ID": "5714d34c31374f07ae1f8dce31168650",
   "Name": "Edward\u0027s Journey",
   "ProductSlug": "edwards-journey-6dbfde",
-  "Ranking_EOS_Progress": 824,
+  "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-05T21:57:13.5689842+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:00:39.3677413+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:09:17.2908013+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:00:26.6285642+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:09:22.7680898+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "assassins-creed-mirage",
   "Ranking_Rating": 692,
   "Ranking_Popularity": 283,
-  "Ranking_PopularitySum": 221,
-  "Ranking_EOS_Progress": 824,
+  "Ranking_PopularitySum": 220,
+  "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -3193,10 +3193,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 2007,
       "NumberOfAwardsMax": 244
+    },
+    {
+      "Time": "2024-01-10T18:58:55.4809978+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 2012,
+      "NumberOfAwardsMax": 244
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2007,
+  "NumberOfAwards": 2012,
   "NumberOfAwardsMax": 244,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3204,7 +3210,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 240
+      "Count": 241
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3216,7 +3222,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 208
+      "Count": 212
     },
     {
       "Text": "This game is Educational",
@@ -3279,8 +3285,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2024-01-10T14:58:52.6375337+00:00",
+  "LastChanged": "2024-01-10T18:58:55.4809976+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:31.9661549+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:59:00.1753829+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:06:08.7311373+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:58:55.4809983+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:06:04.7936078+00:00"
 }

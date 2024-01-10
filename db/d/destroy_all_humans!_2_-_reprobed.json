@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -308,7 +308,7 @@
   ],
   "EOS_Progressed": 396,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1938,9 +1938,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -2162,9 +2162,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2187,8 +2187,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:09:14.7414712+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:09:20.3794717+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:58:35.7639454+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:09:14.7415087+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:58:33.5648809+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:09:20.379508+00:00"
 }

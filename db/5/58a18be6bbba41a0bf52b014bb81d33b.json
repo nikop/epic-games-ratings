@@ -2,10 +2,10 @@
   "ID": "58a18be6bbba41a0bf52b014bb81d33b",
   "Name": "Path of Exile 2",
   "ProductSlug": "path-of-exile-2",
-  "Ranking_EOS_Progress": 824,
+  "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.7930297+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:00:10.4958846+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:04:18.1121319+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:00:01.0157879+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:04:24.0174654+00:00"
 }

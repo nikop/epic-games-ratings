@@ -24,8 +24,8 @@ Number of Ratings: 116  (23.09.2022)
 | Salvation | 37.00% | ~200 |
 | Unshakable Fortitude | 35.00% | ~189 |
 | Soul Harvester | 35.00% | ~189 |
+| I Wanna Rock | 34.00% | ~184 |
 | Delusions of Grandeur | 34.00% | ~184 |
-| I Wanna Rock | 33.00% | ~178 |
 | Love Tap | 33.00% | ~178 |
 | Maximum Vigor | 31.00% | ~167 |
 | Freeze Frame | 29.00% | ~157 |
@@ -36,8 +36,8 @@ Number of Ratings: 116  (23.09.2022)
 | Can you restore the Balance? | 25.00% | ~135 |
 | Crowd Source | 25.00% | ~135 |
 | Cleanup Crew | 24.00% | ~130 |
+| Demon Meddler | 23.00% | ~124 |
 | Maximum Capacity | 22.00% | ~119 |
-| Demon Meddler | 22.00% | ~119 |
 | Seeing Red | 22.00% | ~119 |
 | Egomaniac | 21.00% | ~113 |
 | Protector of Humanity | 19.00% | ~103 |

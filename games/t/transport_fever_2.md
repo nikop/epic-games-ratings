@@ -18,7 +18,7 @@ Number of Ratings: 180  (23.09.2022)
 | First industry upgraded | 53.00% | ~1,295 |
 | Cadet | 52.00% | ~1,270 |
 | Transport millionaire | 51.00% | ~1,246 |
-| Transport master | 48.00% | ~1,173 |
+| Transport master | 49.00% | ~1,197 |
 | Cargo hub | 48.00% | ~1,173 |
 | Sculpturer | 45.00% | ~1,099 |
 | Settled down | 44.00% | ~1,075 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~5 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,443 (Ranked 237)  
+Progressed: 2,443 (Ranked 238)  
 Completed: 1 (0.04%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |

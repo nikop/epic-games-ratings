@@ -2,10 +2,10 @@
   "ID": "898948344c0c49218e067f34221acd08",
   "Name": "Corrupt - Political Simulator",
   "ProductSlug": "corrupt-political-simulator-f94058",
-  "Ranking_EOS_Progress": 824,
+  "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-07-01T07:00:00+00:00",
     "PcReleaseDate": "2017-09-14T22:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-05T03:57:11.8124789+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:25.082483+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:59:24.4452638+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:09:19.6996954+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:59:18.7040523+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:09:25.0606018+00:00"
 }

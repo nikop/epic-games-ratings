@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -101,7 +101,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 186,
+  "EOS_Progressed": 187,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
@@ -981,6 +981,11 @@
       "Time": "2024-01-10T15:10:02.118075+00:00",
       "NumProgressed": 186,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T19:10:07.1127693+00:00",
+      "NumProgressed": 187,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T08:07:32.4989951+00:00",
@@ -1017,7 +1022,7 @@
       "Name": "Death of a legend",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "id_15",
@@ -1025,7 +1030,7 @@
       "Name": "Archaeologist",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "id_16",
@@ -1049,7 +1054,7 @@
       "Name": "Defender",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "id_19",
@@ -1063,9 +1068,9 @@
       "ID": "id_2",
       "SetID": "bk9jib6",
       "Name": "Field hand",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 69
     },
     {
       "ID": "id_20",
@@ -1079,9 +1084,9 @@
       "ID": "id_22",
       "SetID": "bk9jib6",
       "Name": "Ghost hunter",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "id_23",
@@ -1119,9 +1124,9 @@
       "ID": "id_30",
       "SetID": "bk9jib6",
       "Name": "Beginner",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 168
     },
     {
       "ID": "id_32",
@@ -1129,15 +1134,15 @@
       "Name": "The brave little tailor",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "id_33",
       "SetID": "bk9jib6",
       "Name": "Ferocious wild boars",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "id_34",
@@ -1151,9 +1156,9 @@
       "ID": "id_36",
       "SetID": "bk9jib6",
       "Name": "Beast slayer",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "id_37",
@@ -1177,7 +1182,7 @@
       "Name": "Ogre friend",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "id_43",
@@ -1201,7 +1206,7 @@
       "Name": "Workaholic",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "id_46",
@@ -1337,7 +1342,7 @@
       "Name": "Adventurer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "id_61",
@@ -1345,7 +1350,7 @@
       "Name": "Map reader",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "id_62",
@@ -1353,7 +1358,7 @@
       "Name": "Archer",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "id_63",
@@ -1383,16 +1388,16 @@
       "ID": "id_9",
       "SetID": "bk9jib6",
       "Name": "Master detective",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
     {
       "ID": "bk9jib6",
       "IsBase": true,
-      "Progressed": 186,
+      "Progressed": 187,
       "Completed": 0
     }
   ],
@@ -1400,8 +1405,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-07T05:57:14.1879387+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:10:05.4215083+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:10:07.112769+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:37.3559183+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:59:10.7794507+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:10:05.4215515+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:59:05.1046297+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:10:07.1128261+00:00"
 }

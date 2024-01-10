@@ -2,10 +2,10 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 305,
+  "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 893,
+  "EOS_Progressed": 894,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2894,6 +2894,11 @@
       "Time": "2024-01-10T18:08:36.0728909+00:00",
       "NumProgressed": 893,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T19:08:44.2519588+00:00",
+      "NumProgressed": 894,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2960,9 +2965,9 @@
       "ID": "ach_defeat_great_unclean_one",
       "SetID": "d499apg",
       "Name": "Defeat a Great Unclean One",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 89
+      "UsersEstimate": 98
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -2970,7 +2975,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 24,
       "XP": 45,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -3001,14 +3006,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 893,
+      "Progressed": 894,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:08:36.0728907+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:08:44.2519583+00:00",
   "LastUpdate_AppInfo": "2024-01-05T16:57:07.4104924+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:00:44.742203+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:08:36.0729107+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:00:31.558742+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:08:44.2519827+00:00"
 }

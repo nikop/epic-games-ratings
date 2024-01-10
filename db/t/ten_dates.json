@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 505,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
@@ -1607,9 +1607,9 @@
       "ID": "success_kathleen",
       "SetID": "6h5h9ho",
       "Name": "The intellectual",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 121
+      "UsersEstimate": 126
     },
     {
       "ID": "success_lucas",
@@ -1656,8 +1656,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:09:40.9595749+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:09:44.7056527+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.8807214+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:59:41.4550827+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:09:40.9595963+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:59:34.45825+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:09:44.7056699+00:00"
 }

@@ -6,15 +6,15 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,539 |
-| Life is your teacher | 5.00% | ~37,950 |
-| The Assault | 4.00% | ~30,360 |
-| Lightning Hands | 4.00% | ~30,360 |
-| The Hateful Pole Fighter | 3.00% | ~22,770 |
-| Street Fighting | 3.00% | ~22,770 |
-| State of constant learning | 3.00% | ~22,770 |
-| Qi Gong: Essence | 3.00% | ~22,770 |
-| Old Child | 3.00% | ~22,770 |
+| The Old Grandmaster | 6.00% | ~45,541 |
+| Life is your teacher | 5.00% | ~37,951 |
+| The Assault | 4.00% | ~30,361 |
+| Lightning Hands | 4.00% | ~30,361 |
+| The Hateful Pole Fighter | 3.00% | ~22,771 |
+| Street Fighting | 3.00% | ~22,771 |
+| State of constant learning | 3.00% | ~22,771 |
+| Qi Gong: Essence | 3.00% | ~22,771 |
+| Old Child | 3.00% | ~22,771 |
 | A Lady's Blood in the Snow | 2.00% | ~15,180 |
 | Lady Wing Chun | 2.00% | ~15,180 |
 | Furious Fists | 2.00% | ~15,180 |
@@ -31,7 +31,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 1.00% | ~7,590 |
 | Kung-Fu Tussle | 1.00% | ~7,590 |
 | Project Arena | 1.00% | ~683 |
-| Fight the way you practice | 0.80% | ~546 |
+| Fight the way you practice | 0.80% | ~547 |
 | Muk Yan Master | 0.70% | ~5,313 |
 | Tiger on Fire | 0.60% | ~4,554 |
 | Source of Flying Daggers | 0.60% | ~4,554 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~68 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 758,991 (Ranked 26)  
+Progressed: 759,019 (Ranked 26)  
 Completed: 12,982 (1.71%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,16 +332,16 @@ Completed: 12,982 (1.71%) (Ranked 143)
 | 2024-01-07 | 756,813 | 12,976 |
 | 2024-01-08 | 757,529 | 12,979 |
 | 2024-01-09 | 758,306 | 12,980 |
-| 2024-01-10 | 758,991 | 12,982 |
+| 2024-01-10 | 759,019 | 12,982 |
 ## Awards
 Max (Great Boss Battles): 7,166  (Ranked 56)  
-Sum: 12,679 (Ranked 85)  
+Sum: 12,681 (Ranked 85)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,166 |
 | This game has Diverse Characters | 699 |
-| This game has Challenging Combat | 644 |
+| This game has Challenging Combat | 646 |
 | This game has Amazing Storytelling | 619 |
 | This game has Amazing Characters | 611 |
 | This game is Highly Recommended | 608 |
@@ -711,4 +711,4 @@ Diff (max vs sum): -29
 | 2024-01-07 | 4.82 | - | 7,148 | 12,638 |
 | 2024-01-08 | 4.82 | - | 7,154 | 12,650 |
 | 2024-01-09 | 4.82 | - | 7,166 | 12,672 |
-| 2024-01-10 | 4.82 | - | 7,166 | 12,679 |
+| 2024-01-10 | 4.82 | - | 7,166 | 12,681 |

@@ -5,10 +5,10 @@
   "Ranking_Rating": 286,
   "Ranking_Popularity": 458,
   "Ranking_PopularitySum": 372,
-  "Ranking_EOS_Progress": 237,
+  "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -899,7 +899,7 @@
   ],
   "EOS_Progressed": 2443,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6857,9 +6857,9 @@
       "ID": "achAccumulate10M",
       "SetID": "dgl390n",
       "Name": "Transport master",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1197
     },
     {
       "ID": "achAccumulate1B",
@@ -7337,8 +7337,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2024-01-07T21:03:10.1496131+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:09:05.8705198+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:09:12.1387543+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:39.8048245+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:02:55.4994784+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:09:05.8705924+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:03:06.6357227+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:09:12.1388221+00:00"
 }

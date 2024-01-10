@@ -2,10 +2,10 @@
   "ID": "ec77abf71c4b4cc6bdb509ecad14939d",
   "Name": "Plague: London 1665",
   "ProductSlug": "plague-london-1665-203017",
-  "Ranking_EOS_Progress": 824,
+  "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-06T01:42:39.3643289+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:59:11.9637064+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:03:26.0999793+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:59:06.1324922+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:03:37.1214223+00:00"
 }

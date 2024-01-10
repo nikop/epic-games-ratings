@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -759,7 +759,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7163,
+  "EOS_Progressed": 7168,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 0,
@@ -10979,6 +10979,11 @@
       "Time": "2024-01-10T18:06:22.9886078+00:00",
       "NumProgressed": 7163,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-10T19:06:18.1185121+00:00",
+      "NumProgressed": 7168,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -11102,7 +11107,7 @@
       "Name": "Realm Estate",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "23",
@@ -11110,7 +11115,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "24",
@@ -11118,7 +11123,7 @@
       "Name": "Secret Technique",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "25",
@@ -11126,7 +11131,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "26",
@@ -11134,7 +11139,7 @@
       "Name": "Bone Peddler",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "27",
@@ -11326,7 +11331,7 @@
       "Name": "Betrayal Most Foul",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "9",
@@ -11358,7 +11363,7 @@
       "Name": "Duality",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "48",
@@ -11469,13 +11474,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7163,
+      "Progressed": 7168,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7163,
+      "Progressed": 7168,
       "Completed": 7
     }
   ],
@@ -11483,8 +11488,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-10T06:57:43.8261312+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:06:22.9886074+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:06:18.1185116+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:58:03.9325603+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:06:22.98871+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:58:05.0849964+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:06:18.118646+00:00"
 }

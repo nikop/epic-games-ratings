@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -300,9 +300,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2558,
+  "EOS_Progressed": 2560,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -4630,6 +4630,11 @@
       "Time": "2024-01-10T18:04:46.630943+00:00",
       "NumProgressed": 2558,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-10T19:04:50.030409+00:00",
+      "NumProgressed": 2560,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4649,7 +4654,7 @@
       "Name": "Jailbreak",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "ACHV_03",
@@ -4689,7 +4694,7 @@
       "Name": "Court Martial",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ACHV_08",
@@ -4713,7 +4718,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACHV_11",
@@ -4777,7 +4782,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "ACHV_19",
@@ -4793,7 +4798,7 @@
       "Name": "Marked For Success",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACHV_21",
@@ -4817,7 +4822,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "ACHV_24",
@@ -4833,7 +4838,7 @@
       "Name": "Full Arsenal",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ACHV_26",
@@ -4841,7 +4846,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 1995
+      "UsersEstimate": 1997
     },
     {
       "ID": "ACHV_27",
@@ -4849,7 +4854,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "ACHV_28",
@@ -4857,7 +4862,7 @@
       "Name": "Clean Cut",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ACHV_29",
@@ -4889,7 +4894,7 @@
       "Name": "Remote Surgery",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHV_33",
@@ -4903,9 +4908,9 @@
       "ID": "ACHV_34",
       "SetID": "8p5mlmc",
       "Name": "Shocking",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 512
+      "UsersEstimate": 486
     },
     {
       "ID": "ACHV_35",
@@ -4945,7 +4950,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1918
+      "UsersEstimate": 1920
     },
     {
       "ID": "ACHV_40",
@@ -4961,7 +4966,7 @@
       "Name": "Suited and Booted",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "ACHV_42",
@@ -4993,7 +4998,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "ACHV_46",
@@ -5017,7 +5022,7 @@
       "Name": "Turbo Booster",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHV_49",
@@ -5081,7 +5086,7 @@
       "Name": "Squid Pro Quo",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHV_57",
@@ -5096,7 +5101,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2558,
+      "Progressed": 2560,
       "Completed": 13
     }
   ],
@@ -5104,8 +5109,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-07T10:02:57.9512677+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:04:46.6309429+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:04:50.0304086+00:00",
   "LastUpdate_AppInfo": "2024-01-06T17:57:07.4256179+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:02:47.4868957+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:04:46.6310243+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:03:00.2908229+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:04:50.030497+00:00"
 }

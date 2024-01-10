@@ -6,20 +6,20 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~38,819 |
-| Biggest Communism Builder | 23.00% | ~31,887 |
-| The World's Most Laughable Centrist | 20.00% | ~27,728 |
-| Il Coppo Del'Arte! | 18.00% | ~24,955 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,183 |
-| Hyperstellar Law Official | 15.00% | ~20,796 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~19,410 |
-| Gurdi-Ball Is Lit | 14.00% | ~19,410 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~18,023 |
+| Goodest Of The Good Cops | 28.00% | ~38,821 |
+| Biggest Communism Builder | 23.00% | ~31,889 |
+| The World's Most Laughable Centrist | 20.00% | ~27,730 |
+| Il Coppo Del'Arte! | 18.00% | ~24,957 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,184 |
+| Hyperstellar Law Official | 15.00% | ~20,797 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~19,411 |
+| Gurdi-Ball Is Lit | 14.00% | ~19,411 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~18,024 |
 | Truly Rabid *Traditionalist* | 11.00% | ~15,251 |
 | The Figurines Won't Win Her Back | 9.00% | ~12,478 |
-| Unbelievably Boring **** | 8.00% | ~11,091 |
-| Enemy Of The Physical Realm | 8.00% | ~11,091 |
-| Hardie's Heroes | 6.00% | ~8,318 |
+| Unbelievably Boring **** | 8.00% | ~11,092 |
+| Enemy Of The Physical Realm | 8.00% | ~11,092 |
+| Hardie's Heroes | 6.00% | ~8,319 |
 | The Lawbringer | 4.00% | ~5,546 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,546 |
 | The Opener Of The Eighth Seal | 3.00% | ~4,159 |
@@ -34,7 +34,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Real Musor | 0.90% | ~1,248 |
 | Baddest Brow in Town | 0.80% | ~1,109 |
 | Committee of la Responsabilité | 0.80% | ~1,109 |
-| Networthy Individual | 0.70% | ~970 |
+| Networthy Individual | 0.70% | ~971 |
 | Leopard Mindset | 0.60% | ~832 |
 | Modus: Mullen | 0.30% | ~416 |
 | Palerunner | 0.30% | ~416 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~139 |
 | What body? | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,641 (Ranked 90)  
+Progressed: 138,648 (Ranked 90)  
 Completed: 29 (0.02%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 29 (0.02%) (Ranked 361)
 | 2024-01-07 | 138,114 | 29 |
 | 2024-01-08 | 138,281 | 29 |
 | 2024-01-09 | 138,471 | 29 |
-| 2024-01-10 | 138,641 | 29 |
+| 2024-01-10 | 138,648 | 29 |
 ## Awards
 Max (Character Customization): 763  (Ranked 191)  
 Sum: 1,164 (Ranked 265)  

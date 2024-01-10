@@ -11,7 +11,7 @@ Number of Ratings: 371  (23.09.2022)
 | Watch Where You Step... | 15.00% | ~581 |
 | An Ill Omen | 15.00% | ~581 |
 | Not So Fast... | 14.00% | ~542 |
-| Purging Spree | 10.00% | ~387 |
+| Purging Spree | 10.00% | ~388 |
 | Blood for the Blood God! | 9.00% | ~349 |
 | Bloodless | 7.00% | ~271 |
 | Surgical Excision | 6.00% | ~232 |
@@ -24,13 +24,13 @@ Number of Ratings: 371  (23.09.2022)
 | Hold Your Ground | 3.00% | ~116 |
 | Just a Scratch | 3.00% | ~116 |
 | Hive Exterminator | 3.00% | ~116 |
-| Daemonkeeper | 2.00% | ~77 |
-| Corruption Cleanser | 2.00% | ~77 |
-| Mind Like a Fortress | 2.00% | ~77 |
-| Efficient Killer | 2.00% | ~77 |
-| Only in Death | 2.00% | ~77 |
-| A Gift Spurned | 2.00% | ~77 |
-| Execution Force | 2.00% | ~77 |
+| Daemonkeeper | 2.00% | ~78 |
+| Corruption Cleanser | 2.00% | ~78 |
+| Mind Like a Fortress | 2.00% | ~78 |
+| Efficient Killer | 2.00% | ~78 |
+| Only in Death | 2.00% | ~78 |
+| A Gift Spurned | 2.00% | ~78 |
+| Execution Force | 2.00% | ~78 |
 | Patron of Deimos | 1.00% | ~39 |
 | Fleetmaster | 1.00% | ~39 |
 | For the Machine God | 1.00% | ~39 |
@@ -49,7 +49,7 @@ Number of Ratings: 371  (23.09.2022)
 | Exercise in Restraint | 0.60% | ~23 |
 | Reign of Confusion | 0.50% | ~19 |
 | Abomination | 0.50% | ~19 |
-| Suffer Not the Mutant | 0.40% | ~15 |
+| Suffer Not the Mutant | 0.40% | ~16 |
 | Blood and Iron | 0.30% | ~12 |
 | Clean Slate | 0.30% | ~12 |
 | Unstable Immaterium | 0.30% | ~12 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,874 (Ranked 218)  
+Progressed: 3,875 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 3,834 | 0 |
 | 2024-01-08 | 3,845 | 0 |
 | 2024-01-09 | 3,864 | 0 |
-| 2024-01-10 | 3,874 | 0 |
+| 2024-01-10 | 3,875 | 0 |
 ## Awards
 Max (Character Customization): 233  (Ranked 286)  
 Sum: 500 (Ranked 335)  

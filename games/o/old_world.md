@@ -46,6 +46,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 1.00% | ~164 |
 | Trade Caravan | 1.00% | ~164 |
 | Great | 0.90% | ~147 |
+| Wise | 0.90% | ~147 |
 | Able Difficulty | 0.90% | ~147 |
 | Furious Family | 0.90% | ~147 |
 | Apadana | 0.90% | ~147 |
@@ -54,16 +55,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 0.90% | ~147 |
 | Regicide | 0.80% | ~131 |
 | Drillmaster | 0.80% | ~131 |
-| Wise | 0.80% | ~131 |
 | Legendary Cities | 0.80% | ~131 |
 | Acropolis | 0.80% | ~131 |
+| Mausoleum | 0.80% | ~131 |
 | Musaeum | 0.80% | ~131 |
 | Manichaeism | 0.80% | ~131 |
 | Egyptian Paganism | 0.80% | ~131 |
 | Valiant | 0.70% | ~115 |
 | Just Difficulty | 0.70% | ~115 |
 | Colossus | 0.70% | ~115 |
-| Mausoleum | 0.70% | ~115 |
 | Mythology | 0.70% | ~115 |
 | Hanging Gardens in Babylon | 0.60% | ~98 |
 | Beloved | 0.60% | ~98 |
@@ -83,6 +83,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.50% | ~82 |
 | Persian Paganism | 0.50% | ~82 |
 | Economic Reform | 0.50% | ~82 |
+| Military Prestige | 0.50% | ~82 |
 | Points Victory | 0.50% | ~82 |
 | Win a Single Player Game | 0.50% | ~82 |
 | Bad Heir Day | 0.40% | ~65 |
@@ -99,7 +100,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.40% | ~65 |
 | Assyrian Paganism | 0.40% | ~65 |
 | Industrial Progress | 0.40% | ~65 |
-| Military Prestige | 0.40% | ~65 |
 | Dualism | 0.40% | ~65 |
 | Enlightenment | 0.40% | ~65 |
 | Legalism | 0.40% | ~65 |
@@ -146,6 +146,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.20% | ~33 |
 | Pantheon of Gods | 0.20% | ~33 |
 | Hittite Paganism | 0.20% | ~33 |
+| Ten Crowns | 0.20% | ~33 |
 | Cataphract Archer | 0.20% | ~33 |
 | Siege Tower | 0.20% | ~33 |
 | No Undo | 0.20% | ~33 |
@@ -250,7 +251,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus in Roma | 0.10% | ~16 |
 | Pantheon in Roma | 0.10% | ~16 |
 | Capturing Cities | 0.10% | ~16 |
-| Ten Crowns | 0.10% | ~16 |
 | Word of God | 0.10% | ~16 |
 | Three Man Chariot | 0.10% | ~16 |
 | Great Ziggurat in Ur | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,364 (Ranked 169)  
+Progressed: 16,366 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -630,7 +630,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
-| 2024-01-10 | 16,364 | 5 |
+| 2024-01-10 | 16,366 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,919 (Ranked 224)  

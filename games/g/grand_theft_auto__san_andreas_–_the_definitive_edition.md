@@ -5,19 +5,19 @@ Rating: 4.55 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,627 |
-| Pay 'n' Spray | 50.00% | ~9,646 |
-| All Dressed Up for San Fierro | 25.00% | ~4,823 |
-| The American Dream | 18.00% | ~3,473 |
-| School's Out | 18.00% | ~3,473 |
-| Smooth Moves | 16.00% | ~3,087 |
-| What happens in Las Venturas... | 14.00% | ~2,701 |
-| Today Was a Good Day | 14.00% | ~2,701 |
-| Horror of the Santa Maria | 10.00% | ~1,929 |
-| Liberty City State of Mind | 9.00% | ~1,736 |
-| Original Gangster | 8.00% | ~1,543 |
-| With Extra Dip | 7.00% | ~1,350 |
-| The End of the Line | 7.00% | ~1,350 |
+| Getting Started | 81.00% | ~15,634 |
+| Pay 'n' Spray | 50.00% | ~9,650 |
+| All Dressed Up for San Fierro | 25.00% | ~4,825 |
+| The American Dream | 18.00% | ~3,474 |
+| School's Out | 18.00% | ~3,474 |
+| Smooth Moves | 16.00% | ~3,088 |
+| What happens in Las Venturas... | 14.00% | ~2,702 |
+| Today Was a Good Day | 14.00% | ~2,702 |
+| Horror of the Santa Maria | 10.00% | ~1,930 |
+| Liberty City State of Mind | 9.00% | ~1,737 |
+| Original Gangster | 8.00% | ~1,544 |
+| With Extra Dip | 7.00% | ~1,351 |
+| The End of the Line | 7.00% | ~1,351 |
 | Saviour | 6.00% | ~1,158 |
 | Rescue a Kitten Too? | 5.00% | ~965 |
 | They Can’t Stop All of Us | 4.00% | ~772 |
@@ -38,10 +38,10 @@ Rating: 4.55 (Ranked 528)
 | Not a Player | 1.00% | ~193 |
 | Chick Magnet | 1.00% | ~193 |
 | Remastered | 0.70% | ~135 |
-| ...Here we go again | 0.50% | ~96 |
+| ...Here we go again | 0.50% | ~97 |
 | I Ain't No Buster | 0.40% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,292 (Ranked 157)  
+Progressed: 19,301 (Ranked 157)  
 Completed: 75 (0.39%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,17 +306,17 @@ Completed: 75 (0.39%) (Ranked 238)
 | 2024-01-07 | 18,889 | 75 |
 | 2024-01-08 | 19,021 | 75 |
 | 2024-01-09 | 19,164 | 75 |
-| 2024-01-10 | 19,292 | 75 |
+| 2024-01-10 | 19,301 | 75 |
 ## Awards
 Max (Great Boss Battles): 638  (Ranked 201)  
-Sum: 1,022 (Ranked 273)  
+Sum: 1,024 (Ranked 273)  
 Diff (max vs sum): -72  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 638 |
 | This game has Amazing Characters | 57 |
+| This game has Amazing Storytelling | 54 |
 | This game is Relaxing | 53 |
-| This game has Amazing Storytelling | 52 |
 | This game is Highly Recommended | 52 |
 | This game is Great for Beginners | 51 |
 | This game has Diverse Characters | 42 |
@@ -552,4 +552,4 @@ Diff (max vs sum): -72
 | 2024-01-07 | 4.55 | 54 | 363 |
 | 2024-01-08 | 4.55 | 633 | 1,004 |
 | 2024-01-09 | 4.55 | 638 | 1,016 |
-| 2024-01-10 | 4.55 | 638 | 1,022 |
+| 2024-01-10 | 4.55 | 638 | 1,024 |

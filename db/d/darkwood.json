@@ -4,11 +4,11 @@
   "ProductSlug": "darkwood-fa73bd",
   "Ranking_Rating": 401,
   "Ranking_Popularity": 255,
-  "Ranking_PopularitySum": 203,
-  "Ranking_EOS_Progress": 824,
+  "Ranking_PopularitySum": 204,
+  "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2017-08-17T07:00:00+00:00",
@@ -582,10 +582,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 2432,
       "NumberOfAwardsMax": 329
+    },
+    {
+      "Time": "2024-01-10T18:57:23.3585402+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2433,
+      "NumberOfAwardsMax": 329
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2432,
+  "NumberOfAwards": 2433,
   "NumberOfAwardsMax": 329,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -629,7 +635,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 271
+      "Count": 272
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -662,8 +668,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-13T18:04:06.1897035+00:00",
   "FirstSeenRating": "2022-10-14T04:32:25.5553197+00:00",
-  "LastChanged": "2024-01-01T22:00:02.1756557+00:00",
+  "LastChanged": "2024-01-10T18:57:23.3585401+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:43.1814165+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:57:15.6175102+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:05:26.4915612+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:57:23.3585405+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:05:26.3928017+00:00"
 }

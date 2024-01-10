@@ -51,6 +51,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 0.20% | ~506 |
 | Supply Run | 0.20% | ~506 |
 | Homecoming | 0.20% | ~506 |
+| The Lost Heir of Omu | 0.20% | ~506 |
 | Street War | 0.20% | ~506 |
 | Wisdom Check | 0.20% | ~506 |
 | The Mists of Ravenloft | 0.20% | ~506 |
@@ -188,7 +189,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Anti-Dexterous Explorers | 0.10% | ~253 |
 | Struggling Toward Omu | 0.10% | ~253 |
 | Wagon Train | 0.10% | ~253 |
-| The Lost Heir of Omu | 0.10% | ~253 |
 | Not Very Charming | 0.10% | ~253 |
 | Lobsterfolk Assault | 0.10% | ~253 |
 | Taking Responsibility | 0.10% | ~253 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,218 (Ranked 71)  
+Progressed: 253,223 (Ranked 71)  
 Completed: 2,610 (1.03%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -818,7 +818,7 @@ Completed: 2,610 (1.03%) (Ranked 174)
 | 2024-01-07 | 252,516 | 2,599 |
 | 2024-01-08 | 252,794 | 2,602 |
 | 2024-01-09 | 253,044 | 2,606 |
-| 2024-01-10 | 253,218 | 2,610 |
+| 2024-01-10 | 253,223 | 2,610 |
 ## Awards
 Max (Great for Beginners): 5,768  (Ranked 74)  
 Sum: 33,430 (Ranked 41)  

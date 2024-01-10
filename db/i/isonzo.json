@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1069,9 +1069,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9878,
+  "EOS_Progressed": 9881,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10959,6 +10959,11 @@
       "Time": "2024-01-10T18:09:22.206319+00:00",
       "NumProgressed": 9878,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-10T19:09:27.543353+00:00",
+      "NumProgressed": 9881,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -10986,7 +10991,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4346
+      "UsersEstimate": 4348
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -11018,7 +11023,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 3062
+      "UsersEstimate": 3063
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -11042,7 +11047,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -11050,7 +11055,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -11082,7 +11087,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3161
+      "UsersEstimate": 3162
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -11114,7 +11119,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1581
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -11138,7 +11143,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3457
+      "UsersEstimate": 3458
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -11162,7 +11167,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4445
+      "UsersEstimate": 4446
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -11178,7 +11183,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -11210,7 +11215,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -11218,7 +11223,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -11298,7 +11303,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4939
+      "UsersEstimate": 4940
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -11306,7 +11311,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -11322,14 +11327,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 5038
+      "UsersEstimate": 5039
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9878,
+      "Progressed": 9881,
       "Completed": 10
     }
   ],
@@ -11337,8 +11342,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-06T21:59:00.913352+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:09:22.2063185+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:09:27.5433518+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:05.1405641+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:00:17.8776441+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:09:22.2063998+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:00:07.6340062+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:09:27.5434279+00:00"
 }

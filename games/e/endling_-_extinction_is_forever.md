@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 94.00% | ~561 |
+| Home Sweet Home | 95.00% | ~567 |
 | A Friend in Need | 60.00% | ~358 |
 | Surviving | 42.00% | ~251 |
 | Detox diet | 42.00% | ~251 |

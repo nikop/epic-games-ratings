@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1465,9 +1465,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260494,
+  "EOS_Progressed": 260495,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26845,6 +26845,11 @@
       "Time": "2024-01-10T16:06:56.7980764+00:00",
       "NumProgressed": 260494,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-10T19:05:58.6804415+00:00",
+      "NumProgressed": 260495,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -26960,7 +26965,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26049
+      "UsersEstimate": 26050
     },
     {
       "ID": "CreditLevel2",
@@ -27248,7 +27253,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26049
+      "UsersEstimate": 26050
     },
     {
       "ID": "ReachNDays2",
@@ -27303,7 +27308,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260494,
+      "Progressed": 260495,
       "Completed": 3
     }
   ],
@@ -27311,8 +27316,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-09T06:58:18.3655501+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:06:01.9328158+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:05:58.6804412+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:32.9058213+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:58:51.0257253+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:06:01.9329678+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:58:47.3776736+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:05:58.6805938+00:00"
 }

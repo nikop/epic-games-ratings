@@ -2,10 +2,10 @@
   "ID": "ab974cbcdfcc4f77be50a10c10f988e5",
   "Name": "Null Gravity Labyrinth",
   "ProductSlug": "null-gravity-labyrinth-daeebe",
-  "Ranking_EOS_Progress": 824,
+  "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-22T00:00:00+00:00",
     "PcReleaseDate": "2023-11-22T00:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-25T08:58:09.7081555+00:00",
   "LastUpdate_AppInfo": "2024-01-05T21:57:13.5302511+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:00:21.4168624+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:04:44.756379+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:00:11.0610298+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:04:48.1938852+00:00"
 }

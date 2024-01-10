@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -37,7 +37,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4016,
+  "EOS_Progressed": 4017,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -5587,6 +5587,11 @@
       "Time": "2024-01-10T13:10:28.5097416+00:00",
       "NumProgressed": 4016,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-10T19:04:22.0536514+00:00",
+      "NumProgressed": 4017,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5622,7 +5627,7 @@
       "Name": "Work It",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "bonus5",
@@ -5646,7 +5651,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3494
+      "UsersEstimate": 3495
     },
     {
       "ID": "campaign10",
@@ -5694,7 +5699,7 @@
       "Name": "Almost Like Winning",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "campaign16",
@@ -5710,7 +5715,7 @@
       "Name": "The Handyman Can!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "campaign18",
@@ -5734,7 +5739,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 3012
+      "UsersEstimate": 3013
     },
     {
       "ID": "campaign20",
@@ -5750,7 +5755,7 @@
       "Name": "Economics 101",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 2369
+      "UsersEstimate": 2370
     },
     {
       "ID": "campaign4",
@@ -5854,14 +5859,14 @@
       "Name": "A Brief Moment of Respite",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 4016,
+      "Progressed": 4017,
       "Completed": 11
     }
   ],
@@ -5869,8 +5874,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2024-01-05T08:58:52.7711213+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:04:16.0286821+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:04:22.0536511+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:04.3464482+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:57:28.3478241+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:04:16.0287292+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:57:33.2636841+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:04:22.0536957+00:00"
 }

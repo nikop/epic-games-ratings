@@ -6,29 +6,29 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~517 |
-| Double Kill | 41.00% | ~461 |
+| Adept | 46.00% | ~518 |
+| Double Kill | 40.00% | ~451 |
 | Critical Hit | 23.00% | ~259 |
 | Veteran | 23.00% | ~259 |
 | Dressed For Success | 16.00% | ~180 |
 | Veni, Vidi, Vici | 11.00% | ~124 |
-| Humiliation | 10.00% | ~112 |
+| Humiliation | 10.00% | ~113 |
 | Multi Kill | 9.00% | ~101 |
 | Sorcerous Spree | 9.00% | ~101 |
 | Master | 8.00% | ~90 |
 | Landlord Extraordinaire | 7.00% | ~79 |
-| The Song of Stoutheart | 6.00% | ~67 |
-| Whoops! | 6.00% | ~67 |
-| Don't Touch My Stuff | 5.00% | ~56 |
+| The Song of Stoutheart | 6.00% | ~68 |
+| Whoops! | 6.00% | ~68 |
+| Don't Touch My Stuff | 6.00% | ~68 |
 | Trojan Horse | 5.00% | ~56 |
 | Expert Essence Employment | 3.00% | ~34 |
-| This Spot's Taken | 2.00% | ~22 |
-| Deepstrike | 2.00% | ~22 |
-| Infernal Influence | 2.00% | ~22 |
-| From the Ashes | 2.00% | ~22 |
-| Ultra Kill | 2.00% | ~22 |
-| Pyrrhic Victory | 2.00% | ~22 |
-| Venisti, Vidisti, Perdidisti | 2.00% | ~22 |
+| This Spot's Taken | 2.00% | ~23 |
+| Deepstrike | 2.00% | ~23 |
+| Infernal Influence | 2.00% | ~23 |
+| From the Ashes | 2.00% | ~23 |
+| Ultra Kill | 2.00% | ~23 |
+| Pyrrhic Victory | 2.00% | ~23 |
+| Venisti, Vidisti, Perdidisti | 2.00% | ~23 |
 | In The Thick of It | 1.00% | ~11 |
 | Such A Fungi | 1.00% | ~11 |
 | Grand Master | 1.00% | ~11 |
@@ -38,10 +38,10 @@ Number of Ratings: 292  (23.09.2022)
 | Killing Spree | 0.60% | ~7 |
 | Cleave | 0.60% | ~7 |
 | Death To Diplomacy | 0.50% | ~6 |
-| Attack Bonanza | 0.40% | ~4 |
-| Coming Through! | 0.40% | ~4 |
-| Barbecue | 0.40% | ~4 |
-| Get Over Here! | 0.40% | ~4 |
+| Attack Bonanza | 0.40% | ~5 |
+| Coming Through! | 0.40% | ~5 |
+| Barbecue | 0.40% | ~5 |
+| Get Over Here! | 0.40% | ~5 |
 | Fully Charged | 0.30% | ~3 |
 | Oops! | 0.30% | ~3 |
 | The Marsh Expands | 0.30% | ~3 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,124 (Ranked 287)  
+Progressed: 1,127 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 1,067 | 0 |
 | 2024-01-08 | 1,089 | 0 |
 | 2024-01-09 | 1,111 | 0 |
-| 2024-01-10 | 1,124 | 0 |
+| 2024-01-10 | 1,127 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 523)  
 Sum: 252 (Ranked 399)  

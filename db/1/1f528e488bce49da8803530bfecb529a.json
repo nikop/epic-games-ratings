@@ -2,10 +2,10 @@
   "ID": "1f528e488bce49da8803530bfecb529a",
   "Name": "King\u0027s Bounty II - Duke\u0027s Edition",
   "ProductSlug": "kings-bounty-ii-dukes-edition-8df41c",
-  "Ranking_EOS_Progress": 824,
+  "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2021-08-24T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-10T00:00:39.365846+00:00",
   "LastUpdate_AppInfo": "2024-01-04T13:00:41.4997709+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:59:36.0734896+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:06:28.7954965+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:59:30.0745655+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:06:23.2557901+00:00"
 }

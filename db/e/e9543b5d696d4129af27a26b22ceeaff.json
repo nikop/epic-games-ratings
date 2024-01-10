@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -404,9 +404,9 @@
       "ID": "ACH_FIRST_WIN",
       "SetID": "1lnhagg",
       "Name": "The First of Many to Come",
-      "Percentage": 66,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_FIVE_STARS_MANAGER",
@@ -484,9 +484,9 @@
       "ID": "ACH_ON_FIRE",
       "SetID": "1lnhagg",
       "Name": "On Fire!",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_PLAYER_RECRUIT",
@@ -516,9 +516,9 @@
       "ID": "ACH_STAR_IS_BORN",
       "SetID": "1lnhagg",
       "Name": "A Star is Born",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_TRIPLE_DOUBLE",
@@ -587,8 +587,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:08:37.1168475+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:08:45.375903+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:09.2723811+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:57:08.1693977+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:08:37.1168685+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:57:16.9045783+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:08:45.3759321+00:00"
 }

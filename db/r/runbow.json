@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253310,
+  "EOS_Progressed": 253311,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23737,6 +23737,11 @@
       "Time": "2024-01-10T18:09:58.3650368+00:00",
       "NumProgressed": 253310,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-10T19:10:00.2498575+00:00",
+      "NumProgressed": 253311,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -23820,7 +23825,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37996
+      "UsersEstimate": 37997
     },
     {
       "ID": "clearCut",
@@ -23924,7 +23929,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134254
+      "UsersEstimate": 134255
     },
     {
       "ID": "indegestible",
@@ -23980,7 +23985,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35463
+      "UsersEstimate": 35464
     },
     {
       "ID": "myFirstRunbow",
@@ -23988,7 +23993,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126655
+      "UsersEstimate": 126656
     },
     {
       "ID": "notScared",
@@ -24052,7 +24057,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58261
+      "UsersEstimate": 58262
     },
     {
       "ID": "thunderstruck",
@@ -24115,7 +24120,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253310,
+      "Progressed": 253311,
       "Completed": 6
     }
   ],
@@ -24123,8 +24128,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:09:58.3650366+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:10:00.2498571+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.2680738+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:58:59.8858458+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:09:58.3651881+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:58:54.9595739+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:10:00.2499891+00:00"
 }

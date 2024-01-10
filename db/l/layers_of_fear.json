@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1484,9 +1484,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 184
     },
     {
       "ID": "decrypt_one_myth",
@@ -1580,9 +1580,9 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 153
     },
     {
       "ID": "finished_it",
@@ -1676,9 +1676,9 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 203
     },
     {
       "ID": "playtime",
@@ -1827,8 +1827,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:08:45.6419339+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:08:53.4471082+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:37.800715+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:58:35.0281477+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:08:45.6419833+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:58:32.942948+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:08:53.4471475+00:00"
 }

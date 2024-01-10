@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1133,
+  "EOS_Progressed": 1134,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4409,6 +4409,11 @@
       "Time": "2024-01-10T16:11:01.3595978+00:00",
       "NumProgressed": 1133,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T19:10:07.8534371+00:00",
+      "NumProgressed": 1134,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4436,7 +4441,7 @@
       "Name": "Basic Controls",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "BigPlane",
@@ -4452,7 +4457,7 @@
       "Name": "Budget Flight",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "Calculated",
@@ -4692,7 +4697,7 @@
       "Name": "Resource Economy",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "Restructuring",
@@ -4748,21 +4753,21 @@
       "Name": "Transport Hub",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1133,
+      "Progressed": 1134,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:10:06.1953601+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:10:07.8534367+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:59.6507211+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:00:29.5538314+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:10:06.1954236+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:00:17.999645+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:10:07.8534779+00:00"
 }

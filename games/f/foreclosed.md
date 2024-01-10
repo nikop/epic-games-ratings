@@ -18,8 +18,8 @@
 | Full and Final Settlement | 16.00% | ~24 |
 | Unstoppable | 16.00% | ~24 |
 | Flatline | 16.00% | ~24 |
+| One Click Away | 16.00% | ~24 |
 | Mind Over Matter | 16.00% | ~24 |
-| One Click Away | 15.00% | ~23 |
 | Cyborg | 11.00% | ~17 |
 | Lifter | 8.00% | ~12 |
 | Brain-hacker | 8.00% | ~12 |
@@ -30,7 +30,7 @@
 | A Voice in the Dark | 3.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 153 (Ranked 457)  
-Completed: 4 (2.61%) (Ranked 123)  
+Completed: 4 (2.61%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,10 +2,10 @@
   "ID": "efb6aef408a04c04aa5f69e565b5a918",
   "Name": "Clash Heroes of Feralia Terra",
   "ProductSlug": "clash-5f995e",
-  "Ranking_EOS_Progress": 824,
+  "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-08T02:57:24.6237268+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:02:49.7070949+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:05:24.3776688+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:03:02.1568514+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:05:24.5674489+00:00"
 }

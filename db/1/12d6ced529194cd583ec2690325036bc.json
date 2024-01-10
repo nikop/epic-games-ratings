@@ -2,10 +2,10 @@
   "ID": "12d6ced529194cd583ec2690325036bc",
   "Name": "1001 Jigsaw. World Tour: Great America",
   "ProductSlug": "1001-jigsaw-world-tour-great-america-61afca",
-  "Ranking_EOS_Progress": 824,
+  "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2024-02-04T21:00:00+00:00",
     "PcReleaseDate": "2019-01-20T21:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-10T06:57:05.2824874+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:00:55.6792015+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:08:21.1066423+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:00:43.1280739+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:08:30.1368402+00:00"
 }

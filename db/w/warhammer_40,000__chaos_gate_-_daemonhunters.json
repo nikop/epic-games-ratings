@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -837,9 +837,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3874,
+  "EOS_Progressed": 3875,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5877,6 +5877,11 @@
       "Time": "2024-01-10T17:05:24.1430305+00:00",
       "NumProgressed": 3874,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T19:05:22.78611+00:00",
+      "NumProgressed": 3875,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -6040,7 +6045,7 @@
       "Name": "Daemonkeeper",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "KadexDefeated_Nexus",
@@ -6072,7 +6077,7 @@
       "Name": "Corruption Cleanser",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Kills_Executioner",
@@ -6120,7 +6125,7 @@
       "Name": "Purging Spree",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "Kills_Vakir",
@@ -6144,7 +6149,7 @@
       "Name": "Mind Like a Fortress",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "MasterCraftLevel3_Armour",
@@ -6216,7 +6221,7 @@
       "Name": "Efficient Killer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -6272,7 +6277,7 @@
       "Name": "Only in Death",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Preservationist",
@@ -6312,7 +6317,7 @@
       "Name": "A Gift Spurned",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -6360,7 +6365,7 @@
       "Name": "Execution Force",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ExperiencedCallidus",
@@ -6408,7 +6413,7 @@
       "Name": "Suffer Not the Mutant",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MissionVictory_BoardingAction",
@@ -6431,21 +6436,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3874,
+      "Progressed": 3875,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3874,
+      "Progressed": 3875,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-07T22:03:18.1525827+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:05:22.2378194+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:05:22.7861096+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:54.2702622+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:03:10.9543713+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:05:22.2378956+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:03:21.4882595+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:05:22.786188+00:00"
 }

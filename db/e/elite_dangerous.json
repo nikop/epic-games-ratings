@@ -2,13 +2,13 @@
   "ID": "3db17abfd650423f993291624b1b2ac1",
   "Name": "Elite Dangerous",
   "ProductSlug": "elite-dangerous",
-  "Ranking_Rating": 359,
+  "Ranking_Rating": 360,
   "Ranking_Popularity": 110,
   "Ranking_PopularitySum": 82,
-  "Ranking_EOS_Progress": 824,
+  "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-11-19T16:00:00+00:00",
     "PcReleaseDate": "2015-04-02T16:00:00+00:00",
@@ -7349,11 +7349,17 @@
       "Rating": 4.63,
       "NumberOfAwards": 13245,
       "NumberOfAwardsMax": 2327
+    },
+    {
+      "Time": "2024-01-10T18:59:20.913746+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 13247,
+      "NumberOfAwardsMax": 2329
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13245,
-  "NumberOfAwardsMax": 2327,
+  "NumberOfAwards": 13247,
+  "NumberOfAwardsMax": 2329,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -7384,7 +7390,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2327
+      "Count": 2329
     },
     {
       "Text": "This game is Educational",
@@ -7410,8 +7416,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2024-01-10T14:00:13.1749137+00:00",
+  "LastChanged": "2024-01-10T18:59:20.9137457+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:20.4420914+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:59:25.6721529+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:05:11.874194+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:59:20.9137465+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:05:13.1777375+00:00"
 }

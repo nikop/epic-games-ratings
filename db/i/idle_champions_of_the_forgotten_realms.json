@@ -9457,9 +9457,9 @@
       "Count": 3634
     }
   ],
-  "EOS_Progressed": 253218,
+  "EOS_Progressed": 253223,
   "EOS_Completed": 2610,
-  "EOS_NewPlayers": 2733,
+  "EOS_NewPlayers": 2710,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39527,6 +39527,11 @@
       "Time": "2024-01-10T18:10:15.3030415+00:00",
       "NumProgressed": 253218,
       "NumCompleted": 2610
+    },
+    {
+      "Time": "2024-01-10T19:10:16.228748+00:00",
+      "NumProgressed": 253223,
+      "NumCompleted": 2610
     }
   ],
   "TotalAchievements": 546,
@@ -40504,9 +40509,9 @@
       "ID": "objective_completed_129",
       "SetID": "cc37lbc",
       "Name": "The Lost Heir of Omu",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_13",
@@ -43905,21 +43910,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219492,
+      "Progressed": 219497,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253218,
+      "Progressed": 253223,
       "Completed": 2610
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-10T16:58:24.8685969+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:10:15.3030412+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:10:16.2287474+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:58:32.9087932+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:10:15.3055818+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:58:31.0519581+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:10:16.2312482+00:00"
 }

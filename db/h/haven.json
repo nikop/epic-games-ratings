@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1950,
+  "EOS_Progressed": 1953,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -3549,6 +3549,11 @@
       "Time": "2024-01-10T18:04:17.2849064+00:00",
       "NumProgressed": 1950,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-10T19:04:23.2222785+00:00",
+      "NumProgressed": 1953,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3560,7 +3565,7 @@
       "Name": "Lovebirds",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "10",
@@ -3584,7 +3589,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "13",
@@ -3622,9 +3627,9 @@
       "ID": "17",
       "SetID": "n50no0",
       "Name": "Balding bloot!",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1367
     },
     {
       "ID": "18",
@@ -3640,7 +3645,7 @@
       "Name": "Second thoughts",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "2",
@@ -3654,9 +3659,9 @@
       "ID": "20",
       "SetID": "n50no0",
       "Name": "Don\u0027t look back",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 214
+      "UsersEstimate": 195
     },
     {
       "ID": "21",
@@ -3664,7 +3669,7 @@
       "Name": "Mooning the moon",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "22",
@@ -3680,7 +3685,7 @@
       "Name": "Pearls before Birble",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "24",
@@ -3696,7 +3701,7 @@
       "Name": "Heartstrings",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "27",
@@ -3704,7 +3709,7 @@
       "Name": "Strip-a-bobble",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "29",
@@ -3712,7 +3717,7 @@
       "Name": "A love supreme",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "3",
@@ -3720,7 +3725,7 @@
       "Name": "Hug therapy",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "30",
@@ -3768,7 +3773,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "7",
@@ -3776,7 +3781,7 @@
       "Name": "Ain\u0027t no mountain high enough",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "8",
@@ -3784,7 +3789,7 @@
       "Name": "Over my dead body",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "9",
@@ -3792,22 +3797,22 @@
       "Name": "Last minute",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     }
   ],
   "AchievementSets": [
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1950,
+      "Progressed": 1953,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:04:17.284906+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:04:23.2222781+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.2496519+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:59:21.4463326+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:04:17.2849499+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:59:16.0672668+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:04:23.2223154+00:00"
 }

@@ -15,8 +15,8 @@
 | Rain Must Fall | 9.00% | ~12 |
 | The Guardian of Fire | 8.00% | ~11 |
 | Twin Thorns | 8.00% | ~11 |
-| Explorer | 7.00% | ~9 |
-| The River Styx | 7.00% | ~9 |
+| Explorer | 7.00% | ~10 |
+| The River Styx | 7.00% | ~10 |
 | Sovereignty of Irons | 6.00% | ~8 |
 | A Sandwyrm's Hoard | 6.00% | ~8 |
 | Sommelier | 5.00% | ~7 |
@@ -63,7 +63,7 @@
 | Holding Out | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135 (Ranked 470)  
+Progressed: 136 (Ranked 469)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-03 | 130 | 0 |
 | 2024-01-06 | 131 | 0 |
 | 2024-01-07 | 133 | 0 |
-| 2024-01-10 | 135 | 0 |
+| 2024-01-10 | 136 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

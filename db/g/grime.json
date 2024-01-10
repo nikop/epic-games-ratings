@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1861,9 +1861,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167562,
+  "EOS_Progressed": 167571,
   "EOS_Completed": 454,
-  "EOS_NewPlayers": 1271,
+  "EOS_NewPlayers": 1275,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22586,6 +22586,11 @@
       "Time": "2024-01-10T18:04:38.7504083+00:00",
       "NumProgressed": 167562,
       "NumCompleted": 454
+    },
+    {
+      "Time": "2024-01-10T19:04:42.8150211+00:00",
+      "NumProgressed": 167571,
+      "NumCompleted": 454
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22774,7 +22779,7 @@
       "Name": "Feast",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -22814,7 +22819,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6702
+      "UsersEstimate": 6703
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -22854,7 +22859,7 @@
       "Name": "Yank",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -22965,21 +22970,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167145,
+      "Progressed": 167154,
       "Completed": 1258
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167562,
+      "Progressed": 167571,
       "Completed": 454
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-10T10:00:21.3574697+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:04:38.750408+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:04:42.8150206+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:59:40.7652745+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:04:38.7505899+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:59:34.0667139+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:04:42.8151926+00:00"
 }

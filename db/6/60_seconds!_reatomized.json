@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -291,9 +291,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6218,
+  "EOS_Progressed": 6219,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9276,6 +9276,11 @@
       "Time": "2024-01-10T18:04:03.5540087+00:00",
       "NumProgressed": 6218,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T19:04:10.8885379+00:00",
+      "NumProgressed": 6219,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -9287,7 +9292,7 @@
       "Name": "Souper!",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 4104
+      "UsersEstimate": 4105
     },
     {
       "ID": "ACH_10_WATER",
@@ -9359,7 +9364,7 @@
       "Name": "All thumbs",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5783
+      "UsersEstimate": 5784
     },
     {
       "ID": "ACH_BUG_KILLER",
@@ -9415,7 +9420,7 @@
       "Name": "One way ticket",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 5285
+      "UsersEstimate": 5286
     },
     {
       "ID": "ACH_DEEDEE",
@@ -9447,7 +9452,7 @@
       "Name": "Disco Roach",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "ACH_DOCEND",
@@ -9503,7 +9508,7 @@
       "Name": "Family guy",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 4788
+      "UsersEstimate": 4789
     },
     {
       "ID": "ACH_FIRE_POLICE",
@@ -9535,7 +9540,7 @@
       "Name": "Rescue time!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "ACH_HARD",
@@ -9551,7 +9556,7 @@
       "Name": "What goes around...",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2798
+      "UsersEstimate": 2799
     },
     {
       "ID": "ACH_HOLIDAYS",
@@ -9583,7 +9588,7 @@
       "Name": "Home, sweet home",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 5658
+      "UsersEstimate": 5659
     },
     {
       "ID": "ACH_MADHATTER",
@@ -9591,7 +9596,7 @@
       "Name": "Mad Hatter",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACH_MIB",
@@ -9631,7 +9636,7 @@
       "Name": "Duck and cover!",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 4104
+      "UsersEstimate": 4105
     },
     {
       "ID": "ACH_PANZER",
@@ -9703,7 +9708,7 @@
       "Name": "I will survive!",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5783
+      "UsersEstimate": 5784
     },
     {
       "ID": "ACH_SURVIVE_111_DAYS",
@@ -9719,7 +9724,7 @@
       "Name": "Survivalist",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 5596
+      "UsersEstimate": 5597
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -9735,7 +9740,7 @@
       "Name": "Prepper",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5845
+      "UsersEstimate": 5846
     },
     {
       "ID": "ACH_TOILET_BUSTER",
@@ -9766,7 +9771,7 @@
     {
       "ID": "5nj1ea3",
       "IsBase": true,
-      "Progressed": 6218,
+      "Progressed": 6219,
       "Completed": 1
     }
   ],
@@ -9774,8 +9779,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2024-01-09T19:57:35.8783744+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:04:03.5540084+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:04:10.8885374+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:25.5705631+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:58:17.1281587+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:04:03.5541032+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:58:16.410026+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:04:10.8886165+00:00"
 }

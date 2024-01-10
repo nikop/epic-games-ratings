@@ -2,10 +2,10 @@
   "ID": "ef02301060454cfd8345fae625743294",
   "Name": "Sands of Aura",
   "ProductSlug": "sands-of-aura",
-  "Ranking_EOS_Progress": 470,
+  "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 450,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
     "PcReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 135,
+  "EOS_Progressed": 136,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -675,6 +675,11 @@
       "Time": "2024-01-10T15:04:49.0254688+00:00",
       "NumProgressed": 135,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T19:04:52.8269426+00:00",
+      "NumProgressed": 136,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -903,7 +908,7 @@
       "Name": "Explorer",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "DISCOVER_ONCEMAN_TOWN",
@@ -911,7 +916,7 @@
       "Name": "The River Styx",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "DISCOVER_TRUE_LEISIS",
@@ -1150,7 +1155,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 135,
+      "Progressed": 136,
       "Completed": 0
     }
   ],
@@ -1158,8 +1163,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2024-01-10T18:04:49.7795898+00:00",
+  "LastChanged_Achievements": "2024-01-10T19:04:52.8269422+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:09.7391365+00:00",
-  "LastUpdate_Ratings": "2024-01-10T17:59:30.6762188+00:00",
-  "LastUpdate_Achievements": "2024-01-10T18:04:49.7796834+00:00"
+  "LastUpdate_Ratings": "2024-01-10T18:59:25.4421955+00:00",
+  "LastUpdate_Achievements": "2024-01-10T19:04:52.8270075+00:00"
 }
