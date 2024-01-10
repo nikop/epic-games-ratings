@@ -9,7 +9,7 @@ Number of Ratings: 37  (23.09.2022)
 | Eureka! | 14.00% | ~623 |
 | Tax-man I | 13.00% | ~578 |
 | A new beginning | 13.00% | ~578 |
-| Friends from the past | 11.00% | ~489 |
+| Friends from the past | 11.00% | ~490 |
 | I like to build stuff... I | 10.00% | ~445 |
 | A time consuming game I | 9.00% | ~400 |
 | Builder I | 8.00% | ~356 |
@@ -18,12 +18,12 @@ Number of Ratings: 37  (23.09.2022)
 | Researcher | 8.00% | ~356 |
 | Tax-man II | 8.00% | ~356 |
 | Time for some trade | 8.00% | ~356 |
-| Bread for the people I | 7.00% | ~311 |
-| I like to build stuff... II | 7.00% | ~311 |
-| Completionist I | 7.00% | ~311 |
-| Full-time job II | 7.00% | ~311 |
-| A time consuming game II | 7.00% | ~311 |
-| Knee deep in snow | 7.00% | ~311 |
+| Bread for the people I | 7.00% | ~312 |
+| I like to build stuff... II | 7.00% | ~312 |
+| Completionist I | 7.00% | ~312 |
+| Full-time job II | 7.00% | ~312 |
+| A time consuming game II | 7.00% | ~312 |
+| Knee deep in snow | 7.00% | ~312 |
 | Not a small trader anymore | 6.00% | ~267 |
 | The King's new clothes I | 6.00% | ~267 |
 | Tax-man III | 6.00% | ~267 |
@@ -41,16 +41,16 @@ Number of Ratings: 37  (23.09.2022)
 | My precious... I | 4.00% | ~178 |
 | Full-time job III | 4.00% | ~178 |
 | Tools of the trade II | 4.00% | ~178 |
-| Bread for the people III | 3.00% | ~133 |
-| Five brews are a schnitzel | 3.00% | ~133 |
-| I like to build stuff... V | 3.00% | ~133 |
-| The King's new clothes II | 3.00% | ~133 |
-| Saint Florian | 3.00% | ~133 |
-| My precious... II | 3.00% | ~133 |
-| Cosmas and Damian | 3.00% | ~133 |
-| Builder III | 3.00% | ~133 |
-| A time consuming game IV | 3.00% | ~133 |
-| Out of the frying pan | 3.00% | ~133 |
+| Bread for the people III | 3.00% | ~134 |
+| Five brews are a schnitzel | 3.00% | ~134 |
+| I like to build stuff... V | 3.00% | ~134 |
+| The King's new clothes II | 3.00% | ~134 |
+| Saint Florian | 3.00% | ~134 |
+| My precious... II | 3.00% | ~134 |
+| Cosmas and Damian | 3.00% | ~134 |
+| Builder III | 3.00% | ~134 |
+| A time consuming game IV | 3.00% | ~134 |
+| Out of the frying pan | 3.00% | ~134 |
 | The Art of War | 2.00% | ~89 |
 | The King's new clothes III | 2.00% | ~89 |
 | Survivalist | 2.00% | ~89 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,449 (Ranked 207)  
+Progressed: 4,450 (Ranked 207)  
 Completed: 4 (0.09%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 4 (0.09%) (Ranked 317)
 | 2024-01-07 | 4,434 | 4 |
 | 2024-01-08 | 4,445 | 4 |
 | 2024-01-09 | 4,447 | 4 |
-| 2024-01-10 | 4,449 | 4 |
+| 2024-01-10 | 4,450 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

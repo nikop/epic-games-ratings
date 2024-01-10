@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -543,9 +543,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 6323,
+  "EOS_Progressed": 6324,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 542,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9498,6 +9498,11 @@
       "Time": "2024-01-10T22:06:07.5736134+00:00",
       "NumProgressed": 6323,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-10T23:05:53.256003+00:00",
+      "NumProgressed": 6324,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -9541,7 +9546,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2782
+      "UsersEstimate": 2783
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -9621,7 +9626,7 @@
       "Name": "Call Me Snake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -9629,7 +9634,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 3604
+      "UsersEstimate": 3605
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -9709,7 +9714,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2782
+      "UsersEstimate": 2783
     },
     {
       "ID": "ACH_MISSION_03",
@@ -9725,7 +9730,7 @@
       "Name": "Making a Stand",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2276
+      "UsersEstimate": 2277
     },
     {
       "ID": "ACH_MISSION_05",
@@ -9757,7 +9762,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "ACH_MISSION_09",
@@ -9765,7 +9770,7 @@
       "Name": "The Passenger",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "ACH_MISSION_10",
@@ -9805,7 +9810,7 @@
       "Name": "Snatched Out",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -9868,7 +9873,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6323,
+      "Progressed": 6324,
       "Completed": 3
     }
   ],
@@ -9876,8 +9881,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-10T09:00:12.2019568+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:06:07.573613+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:05:53.2560028+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.3437063+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:59:35.0172371+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:06:07.5736996+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:59:30.2714663+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:05:53.2560833+00:00"
 }

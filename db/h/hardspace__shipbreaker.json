@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 396,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -315,9 +315,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1069,
+  "EOS_Progressed": 1070,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2485,6 +2485,11 @@
       "Time": "2024-01-10T20:09:45.9342119+00:00",
       "NumProgressed": 1069,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T23:09:25.1415111+00:00",
+      "NumProgressed": 1070,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2504,7 +2509,7 @@
       "Name": "Act II Complete",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_ACT_3_COMPLETE",
@@ -2528,7 +2533,7 @@
       "Name": "A drop in the Ocean",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_A_SUCCESSFUL_PROCEDURE",
@@ -2536,7 +2541,7 @@
       "Name": "A successful procedure!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_A_TUCKED_TALE",
@@ -2568,7 +2573,7 @@
       "Name": "Breaking the Ice",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
@@ -2576,7 +2581,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -2656,7 +2661,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -2670,9 +2675,9 @@
       "ID": "ACH_POST_NO_BILLS",
       "SetID": "108h92c",
       "Name": "Post No Bills",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 578
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -2702,16 +2707,16 @@
       "ID": "ACH_TRUELY_SHOCKING",
       "SetID": "108h92c",
       "Name": "Truly Shocking!",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 513
+      "UsersEstimate": 503
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 1069,
+      "Progressed": 1070,
       "Completed": 0
     }
   ],
@@ -2719,8 +2724,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2024-01-07T01:52:54.3373134+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:09:31.9204267+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:09:25.1415108+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:23.8683879+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:59:48.0790802+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:09:31.9204542+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:59:43.2147129+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:09:25.1415408+00:00"
 }

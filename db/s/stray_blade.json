@@ -2,10 +2,10 @@
   "ID": "8b8d2e16c20b4300ae0dc66db4d630ba",
   "Name": "Stray Blade",
   "ProductSlug": "stray-blade",
-  "Ranking_EOS_Progress": 455,
+  "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 396,
-  "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 156,
+  "EOS_Progressed": 157,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -769,6 +769,11 @@
       "Time": "2024-01-10T20:10:18.2089066+00:00",
       "NumProgressed": 156,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T23:09:56.2376003+00:00",
+      "NumProgressed": 157,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -818,9 +823,9 @@
       "ID": "ACH_CRAFT_FIRST_WEAPON",
       "SetID": "7i20me3",
       "Name": "Tinkerer",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_DEFEAT_BOSS_INGLA",
@@ -858,9 +863,9 @@
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
@@ -1044,7 +1049,7 @@
       "Name": "Don\u0027t Cry Wolf",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_OPEN_TEMPLE_GATE",
@@ -1052,7 +1057,7 @@
       "Name": "A new World ahead",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_PERFORM_MANY_PARRIES",
@@ -1195,13 +1200,13 @@
     {
       "ID": "7i20me3",
       "IsBase": true,
-      "Progressed": 156,
+      "Progressed": 157,
       "Completed": 0
     },
     {
       "ID": "doc1i1",
       "IsBase": false,
-      "Progressed": 154,
+      "Progressed": 155,
       "Completed": 117
     }
   ],
@@ -1209,8 +1214,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:10:03.4418291+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:09:56.2376001+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:06.39854+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:59:02.3115573+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:10:03.4418683+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:58:54.637996+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:09:56.2376523+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "deadwater-saloon-391b9d",
   "Ranking_EOS_Progress": 587,
   "Ranking_EOS_Completed": 396,
-  "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-21T13:00:00+00:00",
     "PcReleaseDate": "2022-09-13T13:00:00+00:00",
@@ -219,9 +219,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "631i43e",
       "Name": "First Shipment",
-      "Percentage": 72,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -235,9 +235,9 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "631i43e",
       "Name": "Hello Friend",
-      "Percentage": 58,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -307,9 +307,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "631i43e",
       "Name": "Get Your Swerve On",
-      "Percentage": 58,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -738,8 +738,8 @@
   ],
   "FirstSeen": "2023-10-08T01:44:07.0326373+00:00",
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:09:17.1425863+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:09:10.7839654+00:00",
   "LastUpdate_AppInfo": "2024-01-10T21:57:10.211451+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:59:37.690836+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:09:17.1426446+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:59:32.8083077+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:09:10.7840137+00:00"
 }

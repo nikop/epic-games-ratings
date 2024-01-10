@@ -3,9 +3,9 @@
   "Name": "Coffee Talk Episode 2 - Hibiscus and Butterfly",
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 449,
-  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -883,9 +883,9 @@
       "ID": "ACH_BAD_MEMORY",
       "SetID": "8h8m55b",
       "Name": "Bad Memory",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_BAD_REVIEW",
@@ -955,9 +955,9 @@
       "ID": "ACH_FAILED_MESSENGER",
       "SetID": "8h8m55b",
       "Name": "Failed Messenger",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_FELLOW_INFLUENCER",
@@ -1019,9 +1019,9 @@
       "ID": "ACH_GUEST_OF_HONOR",
       "SetID": "8h8m55b",
       "Name": "Guest of Honor",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_HARDBOILED_ADVICE",
@@ -1035,9 +1035,9 @@
       "ID": "ACH_HOW_I_MET_YOUR_ANCESTOR",
       "SetID": "8h8m55b",
       "Name": "How I Met Your Ancestor",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_HYDE_LEIBOVITZ",
@@ -1171,9 +1171,9 @@
       "ID": "ACH_TRASH_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Let me start over",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_TRUE_FAN",
@@ -1259,9 +1259,9 @@
       "ID": "ACH_WRONG_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Is this it?",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     }
   ],
   "AchievementSets": [
@@ -1274,8 +1274,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:04:25.8095828+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:04:11.2865701+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:58.8135864+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:59:29.8340393+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:04:25.8096256+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:59:25.122084+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:04:11.2866185+00:00"
 }

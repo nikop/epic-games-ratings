@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -759,9 +759,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7172,
+  "EOS_Progressed": 7178,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 379,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10999,6 +10999,11 @@
       "Time": "2024-01-10T22:06:14.5279015+00:00",
       "NumProgressed": 7172,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-10T23:05:59.9283143+00:00",
+      "NumProgressed": 7178,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -11010,7 +11015,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "10",
@@ -11034,7 +11039,7 @@
       "Name": "I\u0027ve Got Everything I Need Right Here",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "13",
@@ -11066,7 +11071,7 @@
       "Name": "God Emperor",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "17",
@@ -11082,7 +11087,7 @@
       "Name": "Arch Mage",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "19",
@@ -11090,7 +11095,7 @@
       "Name": "The Creator",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "2",
@@ -11114,7 +11119,7 @@
       "Name": "Eternal Lord",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "22",
@@ -11122,7 +11127,7 @@
       "Name": "Realm Estate",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "23",
@@ -11130,7 +11135,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "24",
@@ -11138,7 +11143,7 @@
       "Name": "Secret Technique",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "25",
@@ -11146,7 +11151,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "26",
@@ -11154,7 +11159,7 @@
       "Name": "Bone Peddler",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "27",
@@ -11202,7 +11207,7 @@
       "Name": "Magical Synergy",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "32",
@@ -11226,7 +11231,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "35",
@@ -11274,7 +11279,7 @@
       "Name": "The Eternal Court",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "40",
@@ -11282,7 +11287,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "41",
@@ -11386,7 +11391,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "49",
@@ -11394,7 +11399,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "50",
@@ -11418,7 +11423,7 @@
       "Name": "Sehiran Oasis",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "53",
@@ -11434,7 +11439,7 @@
       "Name": "Chaos Surge",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "55",
@@ -11458,7 +11463,7 @@
       "Name": "Spoils of War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "58",
@@ -11466,7 +11471,7 @@
       "Name": "Dawn of the Dread",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "59",
@@ -11489,13 +11494,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7172,
+      "Progressed": 7178,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7172,
+      "Progressed": 7178,
       "Completed": 7
     }
   ],
@@ -11503,8 +11508,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-10T06:57:43.8261312+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:06:14.527901+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:05:59.9283141+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:58:07.0856623+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:06:14.5279902+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:58:01.2412831+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:05:59.9284136+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 39.00% | ~6,929 |
-| Man of politics | 34.00% | ~6,040 |
+| Tattletale | 39.00% | ~6,930 |
+| Man of politics | 34.00% | ~6,041 |
 | Yet another secret | 33.00% | ~5,863 |
-| Friends of sorts | 32.00% | ~5,685 |
-| Let there be darkness | 31.00% | ~5,507 |
-| End of Book One | 29.00% | ~5,152 |
-| Wannabe knight | 23.00% | ~4,086 |
-| Garden of Eden | 23.00% | ~4,086 |
-| Full house | 23.00% | ~4,086 |
+| Friends of sorts | 32.00% | ~5,686 |
+| Let there be darkness | 31.00% | ~5,508 |
+| End of Book One | 29.00% | ~5,153 |
+| Wannabe knight | 23.00% | ~4,087 |
+| Garden of Eden | 23.00% | ~4,087 |
+| Full house | 23.00% | ~4,087 |
 | Help an old friend | 21.00% | ~3,731 |
-| Two of us | 20.00% | ~3,553 |
+| Two of us | 20.00% | ~3,554 |
 | Negotiation skills | 18.00% | ~3,198 |
 | Workers' union | 18.00% | ~3,198 |
 | End of Book Two | 18.00% | ~3,198 |
 | Everything's in order | 16.00% | ~2,843 |
-| Twist of Fate | 14.00% | ~2,487 |
-| Jack was here! | 14.00% | ~2,487 |
+| Twist of Fate | 14.00% | ~2,488 |
+| Jack was here! | 14.00% | ~2,488 |
 | Exterminator | 13.00% | ~2,310 |
 | Whodunnit | 12.00% | ~2,132 |
 | Good midwife | 10.00% | ~1,777 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~533 |
 | Boy of mystery | 2.00% | ~355 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,766 (Ranked 162)  
+Progressed: 17,768 (Ranked 162)  
 Completed: 125 (0.70%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,11 +313,11 @@ Completed: 125 (0.70%) (Ranked 197)
 | 2024-01-07 | 17,708 | 125 |
 | 2024-01-08 | 17,727 | 125 |
 | 2024-01-09 | 17,744 | 125 |
-| 2024-01-10 | 17,766 | 125 |
+| 2024-01-10 | 17,768 | 125 |
 ## Awards
-Max (Easy Puzzles): 156  (Ranked 326)  
+Max (Easy Puzzles): 156  (Ranked 327)  
 Sum: 200 (Ranked 418)  
-Diff (max vs sum): -92  
+Diff (max vs sum): -91  
 | Award | Count |
 | ----- | ----- |
 | This game features Easy Puzzles | 156 |

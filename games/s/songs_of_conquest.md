@@ -18,8 +18,8 @@ Number of Ratings: 292  (23.09.2022)
 | Master | 8.00% | ~90 |
 | Landlord Extraordinaire | 7.00% | ~79 |
 | Whoops! | 6.00% | ~68 |
+| Don't Touch My Stuff | 6.00% | ~68 |
 | The Song of Stoutheart | 5.00% | ~56 |
-| Don't Touch My Stuff | 5.00% | ~56 |
 | Trojan Horse | 5.00% | ~56 |
 | Expert Essence Employment | 4.00% | ~45 |
 | This Spot's Taken | 2.00% | ~23 |

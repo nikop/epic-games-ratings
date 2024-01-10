@@ -23,13 +23,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Land of Greed | 5.00% | ~1,033 |
 | Homesick | 4.00% | ~826 |
 | Fertile Meadows | 4.00% | ~826 |
+| Monastery of the Holy Flame | 4.00% | ~826 |
 | Watchtower | 4.00% | ~826 |
 | A Real Challenge | 4.00% | ~826 |
 | Ruined Armory | 3.00% | ~620 |
 | Bandit Camp | 3.00% | ~620 |
 | Ancient Battleground | 3.00% | ~620 |
 | Levitating Monument | 3.00% | ~620 |
-| Monastery of the Holy Flame | 3.00% | ~620 |
 | Lost Colonies | 3.00% | ~620 |
 | Statue of the Forefathers | 3.00% | ~620 |
 | Corrosive Torrent | 3.00% | ~620 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,657 (Ranked 154)  
+Progressed: 20,658 (Ranked 154)  
 Completed: 34 (0.16%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 34 (0.16%) (Ranked 285)
 | 2024-01-07 | 20,428 | 34 |
 | 2024-01-08 | 20,508 | 34 |
 | 2024-01-09 | 20,595 | 34 |
-| 2024-01-10 | 20,657 | 34 |
+| 2024-01-10 | 20,658 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,369 (Ranked 177)  

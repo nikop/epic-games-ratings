@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 396,
   "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -1566,9 +1566,9 @@
       "ID": "achDictator",
       "SetID": "72gjli4",
       "Name": "Boss 2 \u2714",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "achDog",
@@ -1742,9 +1742,9 @@
       "ID": "achSave",
       "SetID": "72gjli4",
       "Name": "King of survival \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 16
+      "UsersEstimate": 20
     },
     {
       "ID": "achSecretos",
@@ -1774,17 +1774,17 @@
       "ID": "achSpped",
       "SetID": "72gjli4",
       "Name": "Speedrun \u2714",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 70,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achTransform",
       "SetID": "72gjli4",
       "Name": "Mutation \u2714",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 86
     },
     {
       "ID": "achVip",
@@ -1839,8 +1839,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:10:08.2663719+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:10:01.09254+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.688521+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:59:34.0121773+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:10:08.2664263+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:59:29.3811656+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:10:01.0925755+00:00"
 }

@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 78.00% | ~101 |
-| A Loyal Friend | 44.00% | ~57 |
+| My Papyrus! | 79.00% | ~103 |
+| A Loyal Friend | 44.00% | ~58 |
 | Abandon Ship! | 33.00% | ~43 |
 | The Tomb of Kih-Oskh | 29.00% | ~38 |
-| The Weighing of the Soul | 25.00% | ~32 |
+| The Weighing of the Soul | 25.00% | ~33 |
 | The Curse of Kih-Oskh | 20.00% | ~26 |
 | It's a Deal! | 16.00% | ~21 |
 | Cat Lover | 13.00% | ~17 |
 | Dynamite, Treason and Coconuts | 13.00% | ~17 |
-| In the Name of the Law | 12.00% | ~16 |
-| Au Revoir, Abudin | 12.00% | ~16 |
 | Save a Friend | 12.00% | ~16 |
+| In the Name of the Law | 11.00% | ~14 |
+| Au Revoir, Abudin | 11.00% | ~14 |
 | Mysterious Bungalow | 11.00% | ~14 |
 | The Eyes! | 10.00% | ~13 |
 | Punctual | 10.00% | ~13 |
@@ -26,8 +26,8 @@
 | Under the Hood | 7.00% | ~9 |
 | Long Live Gaipajama! | 7.00% | ~9 |
 | Mummy Nightmare | 7.00% | ~9 |
-| Tintin, Reporter | 5.00% | ~6 |
-| Subtlety | 5.00% | ~6 |
+| Tintin, Reporter | 5.00% | ~7 |
+| Subtlety | 5.00% | ~7 |
 | Mountain Runner | 4.00% | ~5 |
 | A Yummy Detour | 3.00% | ~4 |
 | The Corporal's Golden Boy | 2.00% | ~3 |
@@ -42,7 +42,7 @@
 | Flying Ace | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130 (Ranked 478)  
+Progressed: 131 (Ranked 477)  
 Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,4 +93,4 @@ Completed: 0 (0.00%) (Ranked 396)
 | 2024-01-07 | 124 | 0 |
 | 2024-01-08 | 125 | 0 |
 | 2024-01-09 | 128 | 0 |
-| 2024-01-10 | 130 | 0 |
+| 2024-01-10 | 131 | 0 |

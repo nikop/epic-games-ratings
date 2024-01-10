@@ -44,6 +44,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Walker | 0.70% | ~1,699 |
 | Flesh Wound | 0.70% | ~1,699 |
 | Shapeshifting | 0.70% | ~1,699 |
+| To The Death! | 0.60% | ~1,456 |
 | Just Chilling | 0.60% | ~1,456 |
 | Save Our Souls | 0.60% | ~1,456 |
 | Stop Hitting Yourself | 0.60% | ~1,456 |
@@ -54,7 +55,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Thank You, Friend | 0.50% | ~1,214 |
 | Shadow Spreads | 0.50% | ~1,214 |
 | Max Damage! | 0.50% | ~1,214 |
-| To The Death! | 0.50% | ~1,214 |
 | Well Prepared | 0.50% | ~1,214 |
 | Don't Ignore Me! | 0.50% | ~1,214 |
 | All Consuming | 0.50% | ~1,214 |

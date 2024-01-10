@@ -5,9 +5,9 @@ Rating: 4.52 (Ranked 573)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~7,452 |
-| Greasy Palms | 42.00% | ~6,804 |
-| South American Connection | 26.00% | ~4,212 |
+| Legal Counsel | 46.00% | ~7,453 |
+| Greasy Palms | 42.00% | ~6,805 |
+| South American Connection | 26.00% | ~4,213 |
 | Life of the Party | 21.00% | ~3,402 |
 | Big Heat from Little Havana | 15.00% | ~2,430 |
 | Chauffeur | 15.00% | ~2,430 |
@@ -37,11 +37,11 @@ Rating: 4.52 (Ranked 573)
 | Keepie-Uppy Okie Dokie | 1.00% | ~162 |
 | I'm Famous! | 1.00% | ~162 |
 | Daredevil | 1.00% | ~162 |
-| Done it All | 0.90% | ~146 |
+| Done it All | 1.00% | ~162 |
 | Kingpin | 0.60% | ~97 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,200 (Ranked 171)  
-Completed: 94 (0.58%) (Ranked 210)  
+Progressed: 16,202 (Ranked 171)  
+Completed: 95 (0.59%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -305,7 +305,7 @@ Completed: 94 (0.58%) (Ranked 210)
 | 2024-01-07 | 15,823 | 91 |
 | 2024-01-08 | 15,950 | 92 |
 | 2024-01-09 | 16,071 | 93 |
-| 2024-01-10 | 16,200 | 94 |
+| 2024-01-10 | 16,202 | 95 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 159,
-  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18827,
+  "EOS_Progressed": 18829,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 689,
+  "EOS_NewPlayers": 688,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -16967,6 +16967,11 @@
       "Time": "2024-01-10T22:06:47.9337036+00:00",
       "NumProgressed": 18827,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2024-01-10T23:08:22.4920476+00:00",
+      "NumProgressed": 18829,
+      "NumCompleted": 62
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17123,7 +17128,7 @@
       "Name": "Call it Even",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "27",
@@ -17219,7 +17224,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "32",
@@ -17258,22 +17263,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18827,
+      "Progressed": 18829,
       "Completed": 62
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4781,
-      "Completed": 1276
+      "Progressed": 4783,
+      "Completed": 1277
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-08T14:59:15.8971936+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:06:47.9337032+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:08:22.4920473+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:59:49.0575566+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:06:47.9337979+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:59:44.2391987+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:08:22.4921527+00:00"
 }

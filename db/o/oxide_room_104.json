@@ -3,9 +3,9 @@
   "Name": "Oxide Room 104",
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 390,
-  "Ranking_EOS_Completed": 252,
+  "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 321,
-  "EOS_Completed": 1,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 20,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.31,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
     {
       "Time": "2023-05-04T03:02:36.1367715+00:00",
@@ -1484,6 +1484,11 @@
       "Time": "2024-01-10T22:06:26.5868527+00:00",
       "NumProgressed": 321,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T23:06:11.4621081+00:00",
+      "NumProgressed": 321,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 31,
@@ -1493,9 +1498,9 @@
       "ID": "ACH_ALLENDINGS",
       "SetID": "511e31d",
       "Name": "Matthew\u0027s mistakes",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_ALLROOMS",
@@ -1743,13 +1748,13 @@
       "ID": "511e31d",
       "IsBase": true,
       "Progressed": 321,
-      "Completed": 1
+      "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:06:26.5868522+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:06:11.4621079+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:32.0336088+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:57:39.7255697+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:06:26.5868777+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:57:33.8136298+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:06:11.4621407+00:00"
 }

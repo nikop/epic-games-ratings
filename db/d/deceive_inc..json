@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19309,
+  "EOS_Progressed": 19311,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14645,6 +14645,11 @@
       "Time": "2024-01-10T20:05:29.0664288+00:00",
       "NumProgressed": 19309,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-10T23:04:58.2217884+00:00",
+      "NumProgressed": 19311,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14664,7 +14669,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "0003",
@@ -14720,7 +14725,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4441
+      "UsersEstimate": 4442
     },
     {
       "ID": "0010",
@@ -14744,7 +14749,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3089
+      "UsersEstimate": 3090
     },
     {
       "ID": "0013",
@@ -14760,7 +14765,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3089
+      "UsersEstimate": 3090
     },
     {
       "ID": "0015",
@@ -14872,7 +14877,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4441
+      "UsersEstimate": 4442
     },
     {
       "ID": "0029",
@@ -14943,7 +14948,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19309,
+      "Progressed": 19311,
       "Completed": 4
     }
   ],
@@ -14951,8 +14956,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:05:13.569401+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:04:58.2217881+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:47.8848382+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:57:27.6206575+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:05:13.5694919+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:57:21.9002385+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:04:58.2218707+00:00"
 }

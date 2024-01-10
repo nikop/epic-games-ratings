@@ -6,36 +6,36 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 71.00% | ~44,141 |
-| I read Shakespeare and stuff | 59.00% | ~36,681 |
-| Just a sprinkle | 58.00% | ~36,059 |
-| I'm stumped | 56.00% | ~34,816 |
-| Plant get enough | 56.00% | ~34,816 |
-| This is just my weekend vehicle | 54.00% | ~33,572 |
-| It's just the beginning | 54.00% | ~33,572 |
-| Hard work pays off | 49.00% | ~30,464 |
-| It's never too late to farm | 45.00% | ~27,977 |
-| All out of Land | 41.00% | ~25,490 |
-| Field Trip | 40.00% | ~24,868 |
-| I like to switch it up | 37.00% | ~23,003 |
-| Help me to help you | 35.00% | ~21,760 |
-| Ultimutt Pawesomeness | 25.00% | ~15,543 |
-| Van Gogh | 23.00% | ~14,299 |
-| You wood not believe it | 20.00% | ~12,434 |
-| Vehicle fleet | 20.00% | ~12,434 |
+| Own use | 71.00% | ~44,145 |
+| I read Shakespeare and stuff | 59.00% | ~36,684 |
+| Just a sprinkle | 58.00% | ~36,062 |
+| I'm stumped | 56.00% | ~34,819 |
+| Plant get enough | 56.00% | ~34,819 |
+| This is just my weekend vehicle | 54.00% | ~33,575 |
+| It's just the beginning | 54.00% | ~33,575 |
+| Hard work pays off | 49.00% | ~30,466 |
+| It's never too late to farm | 45.00% | ~27,979 |
+| All out of Land | 41.00% | ~25,492 |
+| Field Trip | 40.00% | ~24,870 |
+| I like to switch it up | 37.00% | ~23,005 |
+| Help me to help you | 35.00% | ~21,762 |
+| Ultimutt Pawesomeness | 25.00% | ~15,544 |
+| Van Gogh | 23.00% | ~14,300 |
+| You wood not believe it | 20.00% | ~12,435 |
+| Vehicle fleet | 20.00% | ~12,435 |
 | Well-Oiled Machine | 15.00% | ~9,326 |
-| Clucky Streak | 14.00% | ~8,704 |
-| The plot thickens | 14.00% | ~8,704 |
-| Large-scale supplier | 14.00% | ~8,704 |
-| Long haul | 14.00% | ~8,704 |
-| That's a wrap | 13.00% | ~8,082 |
+| Clucky Streak | 14.00% | ~8,705 |
+| The plot thickens | 14.00% | ~8,705 |
+| Large-scale supplier | 14.00% | ~8,705 |
+| Long haul | 14.00% | ~8,705 |
+| That's a wrap | 13.00% | ~8,083 |
 | Rock on | 11.00% | ~6,839 |
 | Fix me up | 11.00% | ~6,839 |
-| Highly cultivated | 10.00% | ~6,217 |
-| It's sow easy | 10.00% | ~6,217 |
-| Giddy-up! | 9.00% | ~5,595 |
-| Cowherd | 6.00% | ~3,730 |
-| Fluffyness | 6.00% | ~3,730 |
+| Highly cultivated | 10.00% | ~6,218 |
+| It's sow easy | 10.00% | ~6,218 |
+| Giddy-up! | 9.00% | ~5,596 |
+| Cowherd | 6.00% | ~3,731 |
+| Fluffyness | 6.00% | ~3,731 |
 | Road Trip | 5.00% | ~3,109 |
 | Helper A does not stop … ever | 5.00% | ~3,109 |
 | Bringing in the Honey | 5.00% | ~3,109 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~249 |
 | Raisin the stakes | 0.30% | ~187 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,171 (Ranked 118)  
+Progressed: 62,176 (Ranked 118)  
 Completed: 6 (0.01%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,10 +315,10 @@ Completed: 6 (0.01%) (Ranked 373)
 | 2024-01-07 | 61,596 | 6 |
 | 2024-01-08 | 61,771 | 6 |
 | 2024-01-09 | 61,957 | 6 |
-| 2024-01-10 | 62,171 | 6 |
+| 2024-01-10 | 62,176 | 6 |
 ## Awards
 Max (Great for Beginners): 6,070  (Ranked 68)  
-Sum: 45,468 (Ranked 34)  
+Sum: 45,476 (Ranked 34)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -326,12 +326,12 @@ Diff (max vs sum): 34
 | This game has Diverse Characters | 4,912 |
 | This game is Educational | 4,552 |
 | This game is Highly Recommended | 4,541 |
-| This game is Relaxing | 4,434 |
+| This game is Relaxing | 4,440 |
 | This game has Quickly Understood Controls | 4,429 |
 | This game is Extremely Fun | 4,377 |
 | This game has Amazing Storytelling | 4,261 |
 | This game has Amazing Characters | 3,973 |
-| This game has a Creative Community | 3,919 |
+| This game has a Creative Community | 3,921 |
 | This game has Obsessive Gameplay | 2,386 |
 | This game has Easy Combat | 1,816 |
 ## Ratings History
@@ -695,4 +695,4 @@ Diff (max vs sum): 34
 | 2024-01-07 | 4.68 | - | 6,046 | 45,358 |
 | 2024-01-08 | 4.68 | - | 6,055 | 45,403 |
 | 2024-01-09 | 4.68 | - | 6,055 | 45,433 |
-| 2024-01-10 | 4.68 | - | 6,070 | 45,468 |
+| 2024-01-10 | 4.68 | - | 6,070 | 45,476 |

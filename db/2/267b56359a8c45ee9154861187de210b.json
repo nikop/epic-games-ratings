@@ -4,8 +4,8 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 467,
   "Ranking_EOS_Completed": 396,
-  "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -1140,9 +1140,9 @@
       "ID": "bonus_complete",
       "SetID": "3448go",
       "Name": "Extra Credit",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "bonus_diamond",
@@ -1316,9 +1316,9 @@
       "ID": "trophies_117",
       "SetID": "3448go",
       "Name": "No Stone Unturned",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "trophies_25",
@@ -1379,8 +1379,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:06:43.547725+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:06:28.6045926+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:15.6057122+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:57:14.3631231+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:06:43.5478004+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:57:10.2213369+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:06:28.6046657+00:00"
 }

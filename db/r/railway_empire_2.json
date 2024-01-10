@@ -2,13 +2,13 @@
   "ID": "2d2e05ea844c42dc80ef341d89542b16",
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
-  "Ranking_Rating": 780,
+  "Ranking_Rating": 781,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 396,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -317,9 +317,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2695,
+  "EOS_Progressed": 2696,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7897,6 +7897,11 @@
       "Time": "2024-01-10T21:03:31.0553899+00:00",
       "NumProgressed": 2695,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T23:03:29.7192976+00:00",
+      "NumProgressed": 2696,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -7916,7 +7921,7 @@
       "Name": "Stoker",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "A02",
@@ -7948,7 +7953,7 @@
       "Name": "A new Hope",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "A06",
@@ -7988,7 +7993,7 @@
       "Name": "From X to Y",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1995
     },
     {
       "ID": "A11",
@@ -8004,7 +8009,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1995
     },
     {
       "ID": "A13",
@@ -8020,7 +8025,7 @@
       "Name": "A new Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "A15",
@@ -8028,7 +8033,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "A16",
@@ -8044,7 +8049,7 @@
       "Name": "Facility Manager",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "A18",
@@ -8060,15 +8065,15 @@
       "Name": "Tycoon",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "A20",
       "SetID": "9b7p7eo",
       "Name": "Country Bumpkin",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2076
     },
     {
       "ID": "A21",
@@ -8100,7 +8105,7 @@
       "Name": "Access granted",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "A25",
@@ -8140,7 +8145,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "A30",
@@ -8148,7 +8153,7 @@
       "Name": "All mine",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "A31",
@@ -8180,7 +8185,7 @@
       "Name": "Producer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "A35",
@@ -8196,7 +8201,7 @@
       "Name": "Way of Iron",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1913
+      "UsersEstimate": 1914
     },
     {
       "ID": "A37",
@@ -8212,7 +8217,7 @@
       "Name": "Poor Devil",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "A39",
@@ -8236,7 +8241,7 @@
       "Name": "Right through the middle",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "A42",
@@ -8252,7 +8257,7 @@
       "Name": "Mole",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "A44",
@@ -8276,7 +8281,7 @@
       "Name": "Mystery Tour",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     },
     {
       "ID": "A47",
@@ -8292,15 +8297,15 @@
       "Name": "Bull and bear",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "A49",
       "SetID": "9b7p7eo",
       "Name": "Financial Shark",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 862
+      "UsersEstimate": 836
     },
     {
       "ID": "A50",
@@ -8347,7 +8352,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2695,
+      "Progressed": 2696,
       "Completed": 0
     }
   ],
@@ -8355,8 +8360,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2024-01-08T18:58:43.8865207+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:03:44.8784984+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:03:29.7192974+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.5860867+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:59:35.4923625+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:03:44.8785865+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:59:30.7512905+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:03:29.7193766+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1514,
+  "EOS_Progressed": 1515,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.44,
   "EosHistory": [
@@ -5226,6 +5226,11 @@
       "Time": "2024-01-10T22:06:26.0319271+00:00",
       "NumProgressed": 1514,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-10T23:06:10.9803063+00:00",
+      "NumProgressed": 1515,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5358,7 +5363,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -5406,7 +5411,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -5445,7 +5450,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1514,
+      "Progressed": 1515,
       "Completed": 37
     }
   ],
@@ -5453,8 +5458,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-09T20:59:58.0673284+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:06:26.0319267+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:06:10.980306+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.9098347+00:00",
-  "LastUpdate_Ratings": "2024-01-10T22:00:34.0283382+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:06:26.0319935+00:00"
+  "LastUpdate_Ratings": "2024-01-10T23:00:28.8312815+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:06:10.9803393+00:00"
 }

@@ -6,21 +6,21 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 84.00% | ~333 |
-| Mash Machine | 75.00% | ~298 |
-| Ducks in a Row, Fish in a Barrel | 55.00% | ~218 |
-| Furon Fashion | 47.00% | ~187 |
-| Shop Til They Drop | 40.00% | ~159 |
-| Bodied Sattva | 38.00% | ~151 |
-| Cult Following | 35.00% | ~139 |
-| Earthly Pleasures | 34.00% | ~135 |
-| Lie Back and Think of Albion | 28.00% | ~111 |
-| Upgreatest | 27.00% | ~107 |
-| Pimp My Raid | 25.00% | ~99 |
-| Freshly Squeezed | 22.00% | ~87 |
-| I Look Up As I Walk to Takoshima | 21.00% | ~83 |
-| Perfect Probulator | 18.00% | ~71 |
-| Die Nasty | 18.00% | ~71 |
+| Rock of the Bay | 84.00% | ~335 |
+| Mash Machine | 75.00% | ~299 |
+| Ducks in a Row, Fish in a Barrel | 55.00% | ~219 |
+| Furon Fashion | 47.00% | ~188 |
+| Shop Til They Drop | 40.00% | ~160 |
+| Bodied Sattva | 37.00% | ~148 |
+| Cult Following | 34.00% | ~136 |
+| Earthly Pleasures | 34.00% | ~136 |
+| Lie Back and Think of Albion | 28.00% | ~112 |
+| Upgreatest | 27.00% | ~108 |
+| Pimp My Raid | 25.00% | ~100 |
+| Freshly Squeezed | 22.00% | ~88 |
+| I Look Up As I Walk to Takoshima | 21.00% | ~84 |
+| Perfect Probulator | 18.00% | ~72 |
+| Die Nasty | 18.00% | ~72 |
 | Transmitting From Sol-3 | 16.00% | ~64 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 14.00% | ~56 |
 | Fly Me to the Moon Base | 12.00% | ~48 |
@@ -51,8 +51,8 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.50% | ~2 |
 | Trans-Siberian Express | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 397 (Ranked 371)  
-Completed: 2 (0.50%) (Ranked 221)  
+Progressed: 399 (Ranked 371)  
+Completed: 2 (0.50%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -96,7 +96,7 @@ Completed: 2 (0.50%) (Ranked 221)
 | 2024-01-07 | 355 | 2 |
 | 2024-01-08 | 370 | 2 |
 | 2024-01-09 | 384 | 2 |
-| 2024-01-10 | 397 | 2 |
+| 2024-01-10 | 399 | 2 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 499)  
 Sum: 36 (Ranked 532)  

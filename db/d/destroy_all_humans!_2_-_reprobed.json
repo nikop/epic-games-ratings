@@ -6,9 +6,9 @@
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 371,
-  "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 397,
+  "EOS_Progressed": 399,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -1821,6 +1821,11 @@
       "Time": "2024-01-10T20:09:32.930862+00:00",
       "NumProgressed": 397,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-10T23:09:12.6110976+00:00",
+      "NumProgressed": 399,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1833,7 +1838,7 @@
       "Name": "Mash Machine",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1849,7 +1854,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1865,7 +1870,7 @@
       "Name": "Furon Fashion",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1903,9 +1908,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1945,7 +1950,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1961,7 +1966,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1969,7 +1974,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 333
+      "UsersEstimate": 335
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1985,7 +1990,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -1999,9 +2004,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -2025,7 +2030,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -2033,7 +2038,7 @@
       "Name": "Die Nasty",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -2081,7 +2086,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -2089,7 +2094,7 @@
       "Name": "Upgreatest",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -2169,7 +2174,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2177,14 +2182,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 397,
+      "Progressed": 399,
       "Completed": 2
     }
   ],
@@ -2192,8 +2197,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:09:18.8504456+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:09:12.6110973+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:58:34.4200071+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:09:18.8504778+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:58:28.7075326+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:09:12.6111459+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "7f0be7eaee1f40039da74dd9591ed049",
   "Name": "Quick Race",
   "ProductSlug": "quick-race-293d39",
-  "Ranking_EOS_Progress": 530,
+  "Ranking_EOS_Progress": 525,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-12-29T17:00:00+00:00",
     "PcReleaseDate": "2021-02-20T01:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 71,
+  "EOS_Progressed": 72,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.82,
+  "EOS_Completed_Percentage": 2.78,
   "EosHistory": [
     {
       "Time": "2023-12-23T19:03:08.1103933+00:00",
@@ -317,6 +317,11 @@
       "Time": "2024-01-10T01:53:01.3893781+00:00",
       "NumProgressed": 71,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-10T23:04:09.4568035+00:00",
+      "NumProgressed": 72,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-23T19:03:08.11154+00:00",
@@ -353,7 +358,7 @@
       "Name": "Rookie Racer",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "20_RACES",
@@ -375,17 +380,17 @@
       "ID": "2PLAYERS",
       "SetID": "2g288ag",
       "Name": "Dynamic Duo",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "2_MAPS",
       "SetID": "2g288ag",
       "Name": "Twice on the Track, Twice to win",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "2_RACES",
@@ -393,7 +398,7 @@
       "Name": "Double Trouble",
       "Percentage": 85,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "30_RACES",
@@ -407,9 +412,9 @@
       "ID": "3_RACES",
       "SetID": "2g288ag",
       "Name": "Triple Threat",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "5_MAPS",
@@ -431,7 +436,7 @@
       "ID": "NO_CRASH",
       "SetID": "2g288ag",
       "Name": "Zen Racer on Map Number 1",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 100,
       "UsersEstimate": 34
     },
@@ -448,13 +453,13 @@
     {
       "ID": "2g288ag",
       "IsBase": true,
-      "Progressed": 71,
+      "Progressed": 72,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-12-23T19:03:08.11154+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:04:23.9952119+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:04:09.4568033+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:58.0575536+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:58:32.7880696+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:04:23.9952303+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:58:27.1095801+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:04:09.4568215+00:00"
 }

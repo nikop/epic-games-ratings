@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 3.00% | ~491 |
-| Play a Single Player Game | 3.00% | ~491 |
+| Settler | 3.00% | ~492 |
+| Play a Single Player Game | 3.00% | ~492 |
 | Able | 2.00% | ~328 |
 | Architect | 2.00% | ~328 |
 | Explorer | 2.00% | ~328 |
@@ -41,11 +41,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 1.00% | ~164 |
 | Judaism | 1.00% | ~164 |
 | Babylonian Paganism | 1.00% | ~164 |
+| Carthaginian Paganism | 1.00% | ~164 |
 | Greek Paganism | 1.00% | ~164 |
 | Roman Paganism | 1.00% | ~164 |
 | Zoroastrianism | 1.00% | ~164 |
 | Naming Landmarks | 1.00% | ~164 |
 | Trade Caravan | 1.00% | ~164 |
+| Regicide | 0.90% | ~147 |
 | Great | 0.90% | ~147 |
 | Wise | 0.90% | ~147 |
 | Able Difficulty | 0.90% | ~147 |
@@ -53,8 +55,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 0.90% | ~147 |
 | Learn to Play 2 | 0.90% | ~147 |
 | Manichaeism | 0.90% | ~147 |
-| Carthaginian Paganism | 0.90% | ~147 |
-| Regicide | 0.80% | ~131 |
 | Drillmaster | 0.80% | ~131 |
 | Legendary Cities | 0.80% | ~131 |
 | Acropolis | 0.80% | ~131 |
@@ -64,17 +64,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.70% | ~115 |
 | Valiant | 0.70% | ~115 |
 | Just Difficulty | 0.70% | ~115 |
+| Artisans | 0.70% | ~115 |
 | Colossus | 0.70% | ~115 |
 | Building Wonders | 0.70% | ~115 |
 | Mythology | 0.70% | ~115 |
 | Beloved | 0.60% | ~98 |
 | Intercessor | 0.60% | ~98 |
 | Good Difficulty | 0.60% | ~98 |
-| Artisans | 0.60% | ~98 |
+| Champions | 0.60% | ~98 |
 | Sages | 0.60% | ~98 |
 | Learn to Play 3 | 0.60% | ~98 |
 | Mighty | 0.50% | ~82 |
-| Champions | 0.50% | ~82 |
 | Landowners | 0.50% | ~82 |
 | Patrons | 0.50% | ~82 |
 | Statesmen | 0.50% | ~82 |
@@ -117,6 +117,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.30% | ~49 |
 | Clerics | 0.30% | ~49 |
 | Hunters | 0.30% | ~49 |
+| Church of the Holy Sepulchre | 0.30% | ~49 |
 | Adur Burzen-Mihr | 0.30% | ~49 |
 | Learn to Play 4 | 0.30% | ~49 |
 | Babylonia | 0.30% | ~49 |
@@ -140,7 +141,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.20% | ~33 |
 | Noble Difficulty | 0.20% | ~33 |
 | The Eternal Treaty | 0.20% | ~33 |
-| Church of the Holy Sepulchre | 0.20% | ~33 |
 | Cao'an | 0.20% | ~33 |
 | Learn to Play 5 | 0.20% | ~33 |
 | Old World Order | 0.20% | ~33 |
@@ -365,8 +365,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,382 (Ranked 169)  
-Completed: 5 (0.03%) (Ranked 355)  
+Progressed: 16,386 (Ranked 169)  
+Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -630,7 +630,7 @@ Completed: 5 (0.03%) (Ranked 355)
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
-| 2024-01-10 | 16,382 | 5 |
+| 2024-01-10 | 16,386 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,919 (Ranked 224)  

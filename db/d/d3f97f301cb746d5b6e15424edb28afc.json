@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -5060,9 +5060,9 @@
       "ID": "GSS_ACH_32_TRASH_03",
       "SetID": "5fn8ia4",
       "Name": "It has to be clean!",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1185
     },
     {
       "ID": "GSS_ACH_33_FLY",
@@ -5132,9 +5132,9 @@
       "ID": "GSS_ACH_41_PARTY_BUS",
       "SetID": "5fn8ia4",
       "Name": "Party Bus",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1135
     },
     {
       "ID": "GSS_ACH_42_CARAVAN_01",
@@ -5477,8 +5477,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-05T19:59:54.3830999+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:05:24.6250775+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:05:09.1824532+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.4325477+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:58:54.375835+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:05:24.6251991+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:58:47.2520238+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:05:09.182546+00:00"
 }

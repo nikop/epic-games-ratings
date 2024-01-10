@@ -19,11 +19,11 @@
 | A Good Paint Job | 6.00% | ~5 |
 | The Vega Turtle | 6.00% | ~5 |
 | Gold Seeker | 5.00% | ~4 |
+| A Land of Peace | 5.00% | ~4 |
 | The Planner | 5.00% | ~4 |
+| You can't fool me! | 5.00% | ~4 |
 | The Flying Octopus | 5.00% | ~4 |
-| A Land of Peace | 4.00% | ~3 |
 | Iron Fist | 4.00% | ~3 |
-| You can't fool me! | 4.00% | ~3 |
 | The Space Hydra | 4.00% | ~3 |
 | The Completionist | 3.00% | ~2 |
 | The Royal Guard | 3.00% | ~2 |

@@ -6,16 +6,16 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~5,055 |
+| On My Own Two Feet | 94.00% | ~5,056 |
 | I'll Be Back | 84.00% | ~4,518 |
-| Sorry, I Dropped This | 76.00% | ~4,087 |
-| First Day on the Job | 76.00% | ~4,087 |
-| Butcher's Bill | 54.00% | ~2,904 |
+| Sorry, I Dropped This | 76.00% | ~4,088 |
+| First Day on the Job | 76.00% | ~4,088 |
+| Butcher's Bill | 54.00% | ~2,905 |
 | P.A.X | 36.00% | ~1,936 |
 | Hey Listen | 36.00% | ~1,936 |
-| OPERATOR | 35.00% | ~1,882 |
+| OPERATOR | 35.00% | ~1,883 |
 | It's Blue Light | 33.00% | ~1,775 |
-| Most Wanted | 26.00% | ~1,398 |
+| Most Wanted | 26.00% | ~1,399 |
 | Infidel | 23.00% | ~1,237 |
 | Firebug | 20.00% | ~1,076 |
 | GOLIATH | 20.00% | ~1,076 |
@@ -38,10 +38,10 @@ Number of Ratings: 62  (23.09.2022)
 | Squad Chief Helvig | 8.00% | ~430 |
 | No More Marching | 8.00% | ~430 |
 | Is This Real Life? | 8.00% | ~430 |
-| Duty-Bound | 7.00% | ~376 |
-| Follow the White Rabbit | 7.00% | ~376 |
-| Liberation | 7.00% | ~376 |
-| Risk Assessment | 7.00% | ~376 |
+| Duty-Bound | 7.00% | ~377 |
+| Follow the White Rabbit | 7.00% | ~377 |
+| Liberation | 7.00% | ~377 |
+| Risk Assessment | 7.00% | ~377 |
 | Sunglasses at Night | 6.00% | ~323 |
 | Carbon Cat | 6.00% | ~323 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~269 |
@@ -74,8 +74,8 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~32 |
 | The Surge | 0.40% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,378 (Ranked 203)  
-Completed: 18 (0.33%) (Ranked 247)  
+Progressed: 5,379 (Ranked 203)  
+Completed: 18 (0.33%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -296,7 +296,7 @@ Completed: 18 (0.33%) (Ranked 247)
 | 2024-01-07 | 5,326 | 18 |
 | 2024-01-08 | 5,343 | 18 |
 | 2024-01-09 | 5,358 | 18 |
-| 2024-01-10 | 5,378 | 18 |
+| 2024-01-10 | 5,379 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 523)  
 Sum: 30 (Ranked 544)  

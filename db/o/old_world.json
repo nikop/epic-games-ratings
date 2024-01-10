@@ -6,9 +6,9 @@
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 169,
-  "Ranking_EOS_Completed": 355,
+  "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2238,9 +2238,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16382,
+  "EOS_Progressed": 16386,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19538,6 +19538,11 @@
       "Time": "2024-01-10T22:10:12.6568519+00:00",
       "NumProgressed": 16382,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-10T23:10:05.8641463+00:00",
+      "NumProgressed": 16386,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19595,9 +19600,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_ANOTHER_LEADER",
       "SetID": "9201eeb",
       "Name": "Regicide",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 147
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
@@ -20173,7 +20178,7 @@
       "Name": "Settler",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -20379,17 +20384,17 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_ARTISANS",
       "SetID": "7l38kb8",
       "Name": "Artisans",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 115
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CHAMPIONS",
       "SetID": "7l38kb8",
       "Name": "Champions",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 98
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CLERICS",
@@ -20923,9 +20928,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
       "SetID": "9201eeb",
       "Name": "Church of the Holy Sepulchre",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
@@ -21301,7 +21306,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -21363,9 +21368,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthaginian Paganism",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 164
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
@@ -22412,21 +22417,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16382,
+      "Progressed": 16386,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16382,
+      "Progressed": 16386,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-09T22:57:23.2402519+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:10:12.6568518+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:10:05.8641461+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:57:51.3231194+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:10:12.6579368+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:57:45.6052473+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:10:05.8651714+00:00"
 }

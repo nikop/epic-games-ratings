@@ -8,7 +8,7 @@
 | Inventory ✔ | 54.00% | ~178 |
 | Chest ✔ | 54.00% | ~178 |
 | Police officers ✔ | 29.00% | ~95 |
-| Mutation ✔ | 25.00% | ~82 |
+| Mutation ✔ | 26.00% | ~86 |
 | Doberman ✔ | 15.00% | ~49 |
 | Weapon ✔ | 12.00% | ~39 |
 | Chess ✔ | 10.00% | ~33 |
@@ -21,12 +21,12 @@
 | Antivirus ✔ | 6.00% | ~20 |
 | Betty ✔ | 6.00% | ~20 |
 | Cheats ✔ | 6.00% | ~20 |
+| King of survival ✔ | 6.00% | ~20 |
 | Boss 1 ✔ | 5.00% | ~16 |
 | Alice ✔ | 5.00% | ~16 |
 | Brain ✔ | 5.00% | ~16 |
 | Eva ✔ | 5.00% | ~16 |
 | Food ✔ | 5.00% | ~16 |
-| King of survival ✔ | 5.00% | ~16 |
 | All secrets revealed ✔ | 5.00% | ~16 |
 | Group Alpha ✔ | 4.00% | ~13 |
 | Mutant fight ✔ | 4.00% | ~13 |
@@ -38,6 +38,7 @@
 | Broadcasting ✔ | 4.00% | ~13 |
 | Crocodile Attack ✔ | 3.00% | ~10 |
 | Secret ✔ | 3.00% | ~10 |
+| Boss 2 ✔ | 3.00% | ~10 |
 | Osipov's video message ✔ | 3.00% | ~10 |
 | Rank B+ ✔ | 3.00% | ~10 |
 | Rank A ✔ | 3.00% | ~10 |
@@ -47,11 +48,10 @@
 | Seeker Three ✔ | 2.00% | ~7 |
 | Crocodile Escape ✔ | 2.00% | ~7 |
 | Exterminate pests ✔ | 2.00% | ~7 |
-| Boss 2 ✔ | 2.00% | ~7 |
 | The escape ✔ | 2.00% | ~7 |
 | VIP ✔ | 2.00% | ~7 |
+| Speedrun ✔ | 0.90% | ~3 |
 | Hardcore ✔ | 0.60% | ~2 |
-| Speedrun ✔ | 0.60% | ~2 |
 | Seeker Two ✔ | 0.30% | ~1 |
 | Rank A+ ✔ | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)

@@ -5,13 +5,13 @@ Rating: 4.52 (Ranked 573)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 19.00% | ~22,958 |
-| I've Had Enough! | 14.00% | ~16,916 |
-| Fists, Fury & a lot of Rage | 10.00% | ~12,083 |
-| Seasoned Fighter | 9.00% | ~10,875 |
-| All For One and One For All | 8.00% | ~9,666 |
-| Home Sweet Home? | 6.00% | ~7,250 |
-| A New Age | 5.00% | ~6,041 |
+| All Grown Up! | 19.00% | ~22,960 |
+| I've Had Enough! | 14.00% | ~16,918 |
+| Fists, Fury & a lot of Rage | 10.00% | ~12,084 |
+| Seasoned Fighter | 9.00% | ~10,876 |
+| All For One and One For All | 8.00% | ~9,667 |
+| Home Sweet Home? | 6.00% | ~7,251 |
+| A New Age | 5.00% | ~6,042 |
 | Oh Baby, A Triple | 3.00% | ~3,625 |
 | Master of Disguise | 3.00% | ~3,625 |
 | Symbiotic | 3.00% | ~3,625 |
@@ -22,9 +22,9 @@ Rating: 4.52 (Ranked 573)
 | Cautious Veteran | 1.00% | ~1,208 |
 | Double Punch! | 1.00% | ~1,208 |
 | Martyrdom | 1.00% | ~1,208 |
-| Katamari | 0.90% | ~1,087 |
-| Ninja Reflex | 0.90% | ~1,087 |
-| Zero-sum Game | 0.90% | ~1,087 |
+| Katamari | 0.90% | ~1,088 |
+| Ninja Reflex | 0.90% | ~1,088 |
+| Zero-sum Game | 0.90% | ~1,088 |
 | Taste Your Own Medicine | 0.70% | ~846 |
 | This is GigaBash! | 0.50% | ~604 |
 | Sidetracked... | 0.50% | ~604 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 573)
 | What's Mine is Yours | 0.10% | ~121 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,829 (Ranked 93)  
+Progressed: 120,843 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 396)
 | 2024-01-07 | 119,421 | 0 |
 | 2024-01-08 | 119,942 | 0 |
 | 2024-01-09 | 120,421 | 0 |
-| 2024-01-10 | 120,829 | 0 |
+| 2024-01-10 | 120,843 | 0 |
 ## Awards
 Max (Great Boss Battles): 54  (Ranked 446)  
 Sum: 54 (Ranked 506)  

@@ -9463,9 +9463,9 @@
       "Count": 3634
     }
   ],
-  "EOS_Progressed": 253244,
+  "EOS_Progressed": 253250,
   "EOS_Completed": 2611,
-  "EOS_NewPlayers": 2675,
+  "EOS_NewPlayers": 2656,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39553,6 +39553,11 @@
       "Time": "2024-01-10T22:10:13.6087951+00:00",
       "NumProgressed": 253244,
       "NumCompleted": 2611
+    },
+    {
+      "Time": "2024-01-10T23:10:06.2825632+00:00",
+      "NumProgressed": 253250,
+      "NumCompleted": 2611
     }
   ],
   "TotalAchievements": 546,
@@ -40540,7 +40545,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "objective_completed_130",
@@ -43308,7 +43313,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "objective_completed_902",
@@ -43931,21 +43936,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219518,
+      "Progressed": 219524,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253244,
+      "Progressed": 253250,
       "Completed": 2611
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-10T20:58:26.8090869+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:10:13.6087949+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:10:06.282563+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:58:31.9115462+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:10:13.6112812+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:58:26.2257716+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:10:06.2849232+00:00"
 }

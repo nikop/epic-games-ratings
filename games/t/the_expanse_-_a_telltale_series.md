@@ -17,10 +17,10 @@ Rating: 4.52 (Ranked 573)
 | Stogie for Fogey | 11.00% | ~2,071 |
 | Safe Cracker | 10.00% | ~478 |
 | Zen Master | 10.00% | ~478 |
-| Call it Even | 9.00% | ~1,694 |
+| Call it Even | 9.00% | ~1,695 |
 | Madame Undersecretary | 9.00% | ~430 |
 | Heal Thy Medic | 8.00% | ~1,506 |
-| Keep Arjun in Check | 8.00% | ~382 |
+| Keep Arjun in Check | 8.00% | ~383 |
 | Data Archivist | 7.00% | ~1,318 |
 | Drug Gifter | 7.00% | ~1,318 |
 | Thorston Mayer | 7.00% | ~1,318 |
@@ -41,8 +41,8 @@ Rating: 4.52 (Ranked 573)
 | Scavenger Star | 0.30% | ~56 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,827 (Ranked 159)  
-Completed: 62 (0.33%) (Ranked 247)  
+Progressed: 18,829 (Ranked 159)  
+Completed: 62 (0.33%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -213,7 +213,7 @@ Completed: 62 (0.33%) (Ranked 247)
 | 2024-01-07 | 18,579 | 60 |
 | 2024-01-08 | 18,665 | 60 |
 | 2024-01-09 | 18,754 | 61 |
-| 2024-01-10 | 18,827 | 62 |
+| 2024-01-10 | 18,829 | 62 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

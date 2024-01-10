@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 396,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3542,
+  "EOS_Progressed": 3543,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 286,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8676,6 +8676,11 @@
       "Time": "2024-01-10T22:04:13.5055379+00:00",
       "NumProgressed": 3542,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T23:03:59.1679799+00:00",
+      "NumProgressed": 3543,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8720,7 +8725,7 @@
       "Name": "Restored and Ready",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -8760,7 +8765,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -8776,7 +8781,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -8862,9 +8867,9 @@
       "ID": "ML_ACHIEVEMENT_23",
       "SetID": "c7hf6a4",
       "Name": "I\u0027m Here Too!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 531
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -8896,7 +8901,7 @@
       "Name": "Clean Race",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1559
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -9079,7 +9084,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3542,
+      "Progressed": 3543,
       "Completed": 0
     }
   ],
@@ -9087,8 +9092,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-09T14:57:26.7044021+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:04:13.5055376+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:03:59.1679796+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.6681713+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:58:19.731697+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:04:13.5056059+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:58:12.7930058+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:03:59.1680613+00:00"
 }

@@ -12,7 +12,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Defender's Heart | 16.00% | ~2,116 |
 | Mythic Choices | 15.00% | ~1,984 |
 | Banner over the Citadel | 14.00% | ~1,852 |
-| Queen's Gratitude | 13.00% | ~1,719 |
+| Queen's Gratitude | 13.00% | ~1,720 |
 | Fifth Crusade | 9.00% | ~1,190 |
 | Embrace of the Abyss | 7.00% | ~926 |
 | Path of the Angel | 7.00% | ~926 |
@@ -39,10 +39,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Sarkoris Will Be Green | 3.00% | ~360 |
 | The Lady of the Forest | 3.00% | ~360 |
 | Beware Still Water | 3.00% | ~360 |
-| Path of the Demon | 2.00% | ~264 |
-| Path of the Aeon | 2.00% | ~264 |
-| Your First Big Enemy | 2.00% | ~264 |
-| Truly Important Deed | 2.00% | ~264 |
+| Path of the Demon | 2.00% | ~265 |
+| Path of the Aeon | 2.00% | ~265 |
+| Your First Big Enemy | 2.00% | ~265 |
+| Truly Important Deed | 2.00% | ~265 |
 | Stay Underground | 2.00% | ~240 |
 | The Final Threshold | 1.00% | ~132 |
 | Path of the Dragon | 1.00% | ~132 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,225 (Ranked 176)  
+Progressed: 13,227 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -388,7 +388,7 @@ Completed: 0 (0.00%) (Ranked 396)
 | 2024-01-07 | 13,129 | 0 |
 | 2024-01-08 | 13,155 | 0 |
 | 2024-01-09 | 13,184 | 0 |
-| 2024-01-10 | 13,225 | 0 |
+| 2024-01-10 | 13,227 | 0 |
 ## Awards
 Max (Character Customization): 1,781  (Ranked 130)  
 Sum: 7,213 (Ranked 127)  

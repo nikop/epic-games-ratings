@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -420,7 +420,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 208917,
+  "EOS_Progressed": 208919,
   "EOS_Completed": 561,
   "EOS_NewPlayers": 457,
   "EOS_NewCompleters": 7,
@@ -28810,6 +28810,11 @@
       "Time": "2024-01-10T22:06:24.5471434+00:00",
       "NumProgressed": 208917,
       "NumCompleted": 561
+    },
+    {
+      "Time": "2024-01-10T23:06:09.5272989+00:00",
+      "NumProgressed": 208919,
+      "NumCompleted": 561
     }
   ],
   "TotalAchievements": 29,
@@ -28845,7 +28850,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 196382
+      "UsersEstimate": 196384
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -29021,7 +29026,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16713
+      "UsersEstimate": 16714
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -29052,7 +29057,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 208917,
+      "Progressed": 208919,
       "Completed": 561
     }
   ],
@@ -29060,8 +29065,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-10T17:58:59.5955278+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:06:24.5471431+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:06:09.5272986+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:20.3451627+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:58:56.1672082+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:06:24.5473354+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:58:48.9948971+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:06:09.5274661+00:00"
 }

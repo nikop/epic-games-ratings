@@ -3,9 +3,9 @@
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 328,
-  "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 691,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -2537,9 +2537,9 @@
       "ID": "completeact3",
       "SetID": "40n95i5",
       "Name": "On the Road",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 249
+      "UsersEstimate": 256
     },
     {
       "ID": "findalltapes",
@@ -2650,8 +2650,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:09:58.248115+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:09:51.0862082+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.1061642+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:59:26.0900128+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:09:58.2481312+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:59:20.5724389+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:09:51.086248+00:00"
 }

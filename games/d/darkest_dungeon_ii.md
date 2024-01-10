@@ -6,35 +6,35 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~943 |
-| Lost and Found | 8.00% | ~580 |
-| Autodidact | 7.00% | ~9,267 |
+| Malpractice Assurance | 13.00% | ~944 |
+| Lost and Found | 8.00% | ~581 |
+| Autodidact | 7.00% | ~9,268 |
 | This guy... again? | 7.00% | ~508 |
-| Serenity Now! | 6.00% | ~7,943 |
-| This Belongs in a Museum | 6.00% | ~7,943 |
-| Creep and Sleep | 6.00% | ~7,943 |
-| Overdue Notice | 6.00% | ~7,943 |
-| Escape from the Black Hole | 6.00% | ~7,943 |
-| Ploughshares to Swords | 6.00% | ~435 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,619 |
-| It Rings a Bell | 5.00% | ~6,619 |
-| Not Today! | 5.00% | ~6,619 |
-| Meat and Greet | 5.00% | ~6,619 |
-| Catch and Decease | 5.00% | ~6,619 |
-| It Happens | 5.00% | ~6,619 |
-| Rush Hour | 5.00% | ~6,619 |
-| To Grandmother's House | 5.00% | ~6,619 |
-| A Place to Lay Your Head | 5.00% | ~6,619 |
-| FNG | 5.00% | ~6,619 |
+| Serenity Now! | 6.00% | ~7,944 |
+| This Belongs in a Museum | 6.00% | ~7,944 |
+| Creep and Sleep | 6.00% | ~7,944 |
+| Overdue Notice | 6.00% | ~7,944 |
+| Escape from the Black Hole | 6.00% | ~7,944 |
+| Ploughshares to Swords | 6.00% | ~436 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,620 |
+| It Rings a Bell | 5.00% | ~6,620 |
+| Not Today! | 5.00% | ~6,620 |
+| Meat and Greet | 5.00% | ~6,620 |
+| Catch and Decease | 5.00% | ~6,620 |
+| It Happens | 5.00% | ~6,620 |
+| Rush Hour | 5.00% | ~6,620 |
+| To Grandmother's House | 5.00% | ~6,620 |
+| A Place to Lay Your Head | 5.00% | ~6,620 |
+| FNG | 5.00% | ~6,620 |
 | Bloody Graduation | 5.00% | ~363 |
-| Spelunker | 4.00% | ~5,295 |
-| Merry Time | 4.00% | ~5,295 |
-| Harvest Festival | 4.00% | ~5,295 |
-| Ramble On | 4.00% | ~5,295 |
-| Whale | 4.00% | ~5,295 |
-| Nope | 4.00% | ~5,295 |
-| Unshackled | 4.00% | ~5,295 |
-| Friends 'Til the End | 4.00% | ~290 |
+| Spelunker | 4.00% | ~5,296 |
+| Merry Time | 4.00% | ~5,296 |
+| Harvest Festival | 4.00% | ~5,296 |
+| Ramble On | 4.00% | ~5,296 |
+| Whale | 4.00% | ~5,296 |
+| Nope | 4.00% | ~5,296 |
+| Unshackled | 4.00% | ~5,296 |
+| Friends 'Til the End | 4.00% | ~291 |
 | Resurrection | 3.00% | ~3,972 |
 | Unleash Hell | 3.00% | ~3,972 |
 | Funny Guy | 3.00% | ~3,972 |
@@ -76,7 +76,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | On This Long Road, We Found Redemption | 0.50% | ~36 |
 | Tears in the Rain | 0.40% | ~530 |
 | Battle Hardened | 0.40% | ~29 |
-| Maître De La Lame | 0.30% | ~22 |
+| Maître De La Lame | 0.40% | ~29 |
 | Circle of Life | 0.20% | ~265 |
 | Grand Slam | 0.20% | ~265 |
 | These Boots Are Made For Kickin' | 0.20% | ~15 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,387 (Ranked 91)  
+Progressed: 132,395 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 4 (0.00%) (Ranked 396)
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
 | 2024-01-09 | 132,315 | 3 |
-| 2024-01-10 | 132,387 | 4 |
+| 2024-01-10 | 132,395 | 4 |
 ## Awards
 Max (Character Customization): 8,000  (Ranked 50)  
 Sum: 21,576 (Ranked 58)  

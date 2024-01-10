@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 496,376 (Ranked 42)  
+Progressed: 496,402 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,17 +635,17 @@ Completed: 1 (0.00%) (Ranked 396)
 | 2024-01-07 | 494,650 | 1 |
 | 2024-01-08 | 495,265 | 1 |
 | 2024-01-09 | 495,855 | 1 |
-| 2024-01-10 | 496,376 | 1 |
+| 2024-01-10 | 496,402 | 1 |
 ## Awards
 Max (Educational): 7,790  (Ranked 52)  
-Sum: 64,226 (Ranked 24)  
+Sum: 64,245 (Ranked 24)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,790 |
-| This game has Diverse Characters | 7,637 |
+| This game has Diverse Characters | 7,647 |
 | This game is Highly Recommended | 7,469 |
-| This game has Challenging Combat | 7,407 |
+| This game has Challenging Combat | 7,416 |
 | This game is Extremely Fun | 7,303 |
 | This game is Relaxing | 7,134 |
 | This game has Competitive Players | 6,979 |
@@ -1013,4 +1013,4 @@ Diff (max vs sum): 28
 | 2024-01-07 | 4.69 | - | 7,757 | 63,972 |
 | 2024-01-08 | 4.69 | - | 7,765 | 64,075 |
 | 2024-01-09 | 4.69 | - | 7,780 | 64,168 |
-| 2024-01-10 | 4.69 | - | 7,790 | 64,226 |
+| 2024-01-10 | 4.69 | - | 7,790 | 64,245 |

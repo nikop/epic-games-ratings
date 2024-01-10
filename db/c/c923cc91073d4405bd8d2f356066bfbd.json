@@ -4,8 +4,8 @@
   "ProductSlug": "bursthero-dd5a56",
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 396,
-  "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
     "PcReleaseDate": "2023-05-14T15:00:00+00:00",
@@ -599,9 +599,9 @@
       "ID": "LEVEL_COMPLETE_1_0",
       "SetID": "1fek4an",
       "Name": "Boneyard",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "LEVEL_COMPLETE_1_12",
@@ -815,9 +815,9 @@
       "ID": "TEAMWORK",
       "SetID": "1fek4an",
       "Name": "Teamwork",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "UPGRADE_DONE",
@@ -838,8 +838,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:05:54.1630733+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:05:39.5345277+00:00",
   "LastUpdate_AppInfo": "2024-01-10T13:02:38.4502332+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:59:34.6150925+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:05:54.1631428+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:59:29.8659675+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:05:39.5345963+00:00"
 }

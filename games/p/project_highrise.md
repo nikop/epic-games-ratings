@@ -12,10 +12,10 @@
 | Dinner Dash | 36.00% | ~185 |
 | Need a Consult | 33.00% | ~170 |
 | Upgrade Unlock | 33.00% | ~170 |
-| It's Technical | 32.00% | ~164 |
+| It's Technical | 32.00% | ~165 |
 | Proper Walls | 29.00% | ~149 |
 | Delegate Maintenance | 29.00% | ~149 |
-| Destination Destiny | 28.00% | ~144 |
+| Destination Destiny | 29.00% | ~149 |
 | Happy Tenants | 23.00% | ~118 |
 | Potent Potables | 23.00% | ~118 |
 | Your Prestige is Rising | 22.00% | ~113 |
@@ -26,9 +26,9 @@
 | People Mover | 18.00% | ~93 |
 | Leveled Up Shops | 18.00% | ~93 |
 | We Don't Need No Education | 18.00% | ~93 |
-| Lux Living | 17.00% | ~87 |
-| Emporium Empire | 17.00% | ~87 |
-| Get Electrified | 17.00% | ~87 |
+| Lux Living | 17.00% | ~88 |
+| Emporium Empire | 17.00% | ~88 |
+| Get Electrified | 17.00% | ~88 |
 | Rehab Expert | 16.00% | ~82 |
 | Tasty Profits | 16.00% | ~82 |
 | Established Fame | 15.00% | ~77 |
@@ -38,8 +38,8 @@
 | Smooth Operator | 11.00% | ~57 |
 | Boutique Benefits | 11.00% | ~57 |
 | Thrilled Tenants | 11.00% | ~57 |
-| 28 Days Later | 10.00% | ~51 |
-| Terrifically Trashed | 10.00% | ~51 |
+| 28 Days Later | 10.00% | ~52 |
+| Terrifically Trashed | 10.00% | ~52 |
 | Aestheticly Pleased | 9.00% | ~46 |
 | Swimming in Surplus | 9.00% | ~46 |
 | Refined Palates | 9.00% | ~46 |
@@ -60,13 +60,13 @@
 | Meet ADA/360 | 4.00% | ~21 |
 | Penthouse in the Sky | 4.00% | ~21 |
 | Baron of Business | 4.00% | ~21 |
-| Sandbagger | 4.00% | ~21 |
 | Sky High Stature | 4.00% | ~21 |
 | Tuned In | 4.00% | ~21 |
 | Decorator's Touch | 3.00% | ~15 |
 | Office Bigwigs | 3.00% | ~15 |
 | Luxury Boutiques | 3.00% | ~15 |
 | Three of a Kind | 3.00% | ~15 |
+| Sandbagger | 3.00% | ~15 |
 | Apartment Awareness | 2.00% | ~10 |
 | Loft Life | 2.00% | ~10 |
 | Glut of Gastronomy | 2.00% | ~10 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 514 (Ranked 351)  
+Progressed: 515 (Ranked 351)  
 Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 0 (0.00%) (Ranked 396)
 | 2024-01-07 | 502 | 0 |
 | 2024-01-08 | 505 | 0 |
 | 2024-01-09 | 509 | 0 |
-| 2024-01-10 | 514 | 0 |
+| 2024-01-10 | 515 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

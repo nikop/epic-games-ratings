@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -73,7 +73,7 @@
   "Tags": [],
   "EOS_Progressed": 755,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.11,
   "EosHistory": [
@@ -2546,9 +2546,9 @@
       "ID": "ach_main06transporter_completed",
       "SetID": "4hg22ll",
       "Name": "Heroes\u2019 Gorge",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 491
+      "UsersEstimate": 498
     },
     {
       "ID": "ach_main06transporter_towers",
@@ -2923,8 +2923,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-08T17:59:07.5685099+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:09:16.5750315+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:09:10.2718474+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:59:28.3700398+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:09:16.5751052+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:59:23.2277677+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:09:10.271911+00:00"
 }

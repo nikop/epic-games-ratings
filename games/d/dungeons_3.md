@@ -6,47 +6,47 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~32,573 |
-| The Evilest Evil | 59.00% | ~27,454 |
-| Twistram is devastated | 58.00% | ~26,989 |
-| The Gehenna Stones | 50.00% | ~23,266 |
+| The Shadow strikes | 70.00% | ~32,574 |
+| The Evilest Evil | 59.00% | ~27,456 |
+| Twistram is devastated | 58.00% | ~26,990 |
+| The Gehenna Stones | 50.00% | ~23,268 |
 | No one has to die today! | 47.00% | ~21,871 |
-| Death and destruction! | 46.00% | ~21,405 |
+| Death and destruction! | 46.00% | ~21,406 |
 | The Swamplanders from the swamplands | 44.00% | ~20,475 |
 | Rusty Steel | 41.00% | ~19,079 |
-| The One-Huge-Army-Building Evil | 40.00% | ~18,613 |
+| The One-Huge-Army-Building Evil | 40.00% | ~18,614 |
 | Braiiiiins! | 38.00% | ~17,683 |
-| The last burger | 37.00% | ~17,217 |
-| Hands off the Dungeonheart! | 36.00% | ~16,752 |
-| A trip on sea, what fun it can be | 34.00% | ~15,821 |
-| Damned good | 33.00% | ~15,356 |
-| Stock Market Crash | 31.00% | ~14,425 |
-| Factory farming | 31.00% | ~14,425 |
+| The last burger | 37.00% | ~17,218 |
+| Hands off the Dungeonheart! | 36.00% | ~16,753 |
+| A trip on sea, what fun it can be | 34.00% | ~15,822 |
+| Damned good | 33.00% | ~15,357 |
+| Stock Market Crash | 31.00% | ~14,426 |
+| Factory farming | 31.00% | ~14,426 |
 | Shadow hunter | 29.00% | ~13,495 |
 | Not-So-Overproud | 29.00% | ~13,495 |
-| For a handfull of Catapults | 28.00% | ~13,029 |
+| For a handfull of Catapults | 28.00% | ~13,030 |
 | Thirst quencher | 27.00% | ~12,564 |
 | Ogre Solo! | 27.00% | ~12,564 |
 | Destroy the thing | 26.00% | ~12,099 |
 | Tide Master | 26.00% | ~12,099 |
-| Difficult family relationships | 25.00% | ~11,633 |
+| Difficult family relationships | 25.00% | ~11,634 |
 | MASS-O-BOT | 24.00% | ~11,168 |
 | Prepare the grave | 24.00% | ~11,168 |
 | Angel of Fire | 24.00% | ~11,168 |
 | Where there is Light, there is Shadow | 23.00% | ~10,703 |
-| At the foot of Mount Destiny | 22.00% | ~10,237 |
+| At the foot of Mount Destiny | 22.00% | ~10,238 |
 | The Force disturbed | 21.00% | ~9,772 |
 | The Victorious Evil | 20.00% | ~9,307 |
-| Chorus of damnation | 19.00% | ~8,841 |
-| We don’t have time! | 19.00% | ~8,841 |
+| Chorus of damnation | 19.00% | ~8,842 |
+| We don’t have time! | 19.00% | ~8,842 |
 | The Stones’ Power | 18.00% | ~8,376 |
 | Flat as a pancake | 17.00% | ~7,911 |
 | Lifeguard | 17.00% | ~7,911 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~6,980 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~5,584 |
 | Then let them eat cake! | 12.00% | ~5,584 |
-| The White Knight | 10.00% | ~4,653 |
-| Please, no interruptions! | 10.00% | ~4,653 |
+| The White Knight | 10.00% | ~4,654 |
+| Please, no interruptions! | 10.00% | ~4,654 |
 | Use the terrain | 9.00% | ~4,188 |
 | Prison Break | 9.00% | ~4,188 |
 | Hearts of Iron | 8.00% | ~3,723 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~931 |
 | Sacrifices! | 2.00% | ~931 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,533 (Ranked 127)  
+Progressed: 46,535 (Ranked 127)  
 Completed: 372 (0.80%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 372 (0.80%) (Ranked 190)
 | 2024-01-07 | 46,283 | 369 |
 | 2024-01-08 | 46,355 | 370 |
 | 2024-01-09 | 46,458 | 371 |
-| 2024-01-10 | 46,533 | 372 |
+| 2024-01-10 | 46,535 | 372 |
 ## Awards
 Max (Great for Beginners): 398  (Ranked 241)  
 Sum: 2,848 (Ranked 188)  

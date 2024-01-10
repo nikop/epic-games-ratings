@@ -4,8 +4,8 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 643,
+  "EOS_Progressed": 644,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
@@ -2834,6 +2834,11 @@
       "Time": "2024-01-09T22:06:21.3119313+00:00",
       "NumProgressed": 643,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-10T23:06:11.957483+00:00",
+      "NumProgressed": 644,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2845,7 +2850,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2853,7 +2858,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2861,7 +2866,7 @@
       "Name": "The crucifixion",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -2893,7 +2898,7 @@
       "Name": "The path to enlightenment",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2901,7 +2906,7 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2917,7 +2922,7 @@
       "Name": "Unholy lands",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -2949,21 +2954,21 @@
       "Name": "Flagellation",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     }
   ],
   "AchievementSets": [
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 643,
+      "Progressed": 644,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:06:26.9729714+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:06:11.9574827+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.0957409+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:57:22.255183+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:06:26.9729963+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:57:18.4314502+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:06:11.9575235+00:00"
 }

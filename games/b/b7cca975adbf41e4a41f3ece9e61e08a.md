@@ -5,24 +5,24 @@ Rating: 4.69 (Ranked 237)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~16,111 |
-| I Challenge You To Save More Money! | 80.00% | ~14,646 |
-| I Love How Tough You Are | 65.00% | ~11,900 |
+| Last Night...Did We... | 88.00% | ~16,112 |
+| I Challenge You To Save More Money! | 80.00% | ~14,647 |
+| I Love How Tough You Are | 65.00% | ~11,901 |
 | Wanna Come To My Place For Dinner? | 58.00% | ~10,619 |
-| What I Want Is You | 53.00% | ~9,703 |
+| What I Want Is You | 53.00% | ~9,704 |
 | To Be Or Not To Be | 50.00% | ~9,154 |
 | Are You Alright? | 47.00% | ~8,605 |
-| Love Actually | 41.00% | ~7,506 |
+| Love Actually | 41.00% | ~7,507 |
 | Drama King | 36.00% | ~6,591 |
 | Go Clean up In Your Own Way | 33.00% | ~6,042 |
 | You're Really Something Else | 32.00% | ~5,859 |
-| Drama CP: Reel to Real | 31.00% | ~5,675 |
-| Happy Family | 30.00% | ~5,492 |
-| FIRST LOVE | 30.00% | ~5,492 |
-| Worthless Speech | 30.00% | ~5,492 |
-| Absolutely Elegant | 28.00% | ~5,126 |
-| Still Single | 28.00% | ~5,126 |
-| ONE PUNCH | 28.00% | ~5,126 |
+| Drama CP: Reel to Real | 31.00% | ~5,676 |
+| Happy Family | 30.00% | ~5,493 |
+| FIRST LOVE | 30.00% | ~5,493 |
+| Worthless Speech | 30.00% | ~5,493 |
+| Absolutely Elegant | 28.00% | ~5,127 |
+| Still Single | 28.00% | ~5,127 |
+| ONE PUNCH | 28.00% | ~5,127 |
 | Days Of Innocence | 26.00% | ~4,760 |
 | David | 26.00% | ~4,760 |
 | Go Get Some Fries On The Pier | 25.00% | ~4,577 |
@@ -48,7 +48,7 @@ Rating: 4.69 (Ranked 237)
 | Tall; Grande; Venti | 2.00% | ~366 |
 | Limerence | 2.00% | ~366 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,308 (Ranked 160)  
+Progressed: 18,309 (Ranked 160)  
 Completed: 316 (1.73%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 316 (1.73%) (Ranked 143)
 | 2024-01-07 | 17,976 | 305 |
 | 2024-01-08 | 18,078 | 308 |
 | 2024-01-09 | 18,177 | 311 |
-| 2024-01-10 | 18,308 | 316 |
+| 2024-01-10 | 18,309 | 316 |
 ## Awards
 Max (Impact the Story): 36  (Ranked 499)  
 Sum: 36 (Ranked 532)  

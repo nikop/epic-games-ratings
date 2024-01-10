@@ -1,35 +1,35 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.39 (Ranked 780)  
+Rating: 4.39 (Ranked 781)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 76.00% | ~2,048 |
-| A new Journey | 75.00% | ~2,021 |
-| From X to Y | 74.00% | ~1,994 |
-| Departure | 74.00% | ~1,994 |
-| Way of Iron | 71.00% | ~1,913 |
-| Mystery Tour | 70.00% | ~1,886 |
+| Country Bumpkin | 77.00% | ~2,076 |
+| A new Journey | 75.00% | ~2,022 |
+| From X to Y | 74.00% | ~1,995 |
+| Departure | 74.00% | ~1,995 |
+| Way of Iron | 71.00% | ~1,914 |
+| Mystery Tour | 70.00% | ~1,887 |
 | We brake for nobody | 68.00% | ~1,833 |
 | Brainstorm | 66.00% | ~1,779 |
 | Mind the Gap | 66.00% | ~1,779 |
 | Travel Company | 66.00% | ~1,779 |
 | All around the World | 63.00% | ~1,698 |
-| Right through the middle | 59.00% | ~1,590 |
-| Facility Manager | 54.00% | ~1,455 |
-| Poor Devil | 54.00% | ~1,455 |
-| Producer | 51.00% | ~1,374 |
+| Right through the middle | 59.00% | ~1,591 |
+| Facility Manager | 54.00% | ~1,456 |
+| Poor Devil | 54.00% | ~1,456 |
+| Producer | 51.00% | ~1,375 |
 | Bridge Builder | 43.00% | ~1,159 |
 | Apprentice | 42.00% | ~1,132 |
-| Going once, going twice, sold | 37.00% | ~997 |
-| Access granted | 36.00% | ~970 |
-| Bull and bear | 35.00% | ~943 |
-| Stoker | 34.00% | ~916 |
-| Full Steam ahead | 33.00% | ~889 |
-| Financial Shark | 32.00% | ~862 |
-| All mine | 31.00% | ~835 |
-| Mole | 31.00% | ~835 |
+| Going once, going twice, sold | 37.00% | ~998 |
+| Access granted | 36.00% | ~971 |
+| Bull and bear | 35.00% | ~944 |
+| Stoker | 34.00% | ~917 |
+| Full Steam ahead | 33.00% | ~890 |
+| All mine | 31.00% | ~836 |
+| Mole | 31.00% | ~836 |
+| Financial Shark | 31.00% | ~836 |
 | General Manager | 29.00% | ~782 |
 | Country Life | 29.00% | ~782 |
 | Socializer | 28.00% | ~755 |
@@ -47,8 +47,8 @@ Rating: 4.39 (Ranked 780)
 | Go West | 14.00% | ~377 |
 | Max Power | 14.00% | ~377 |
 | Locusts | 13.00% | ~350 |
-| Tycoon | 12.00% | ~323 |
-| A new Hope | 11.00% | ~296 |
+| Tycoon | 12.00% | ~324 |
+| A new Hope | 11.00% | ~297 |
 | Call of Duty | 10.00% | ~270 |
 | Unstoppable | 9.00% | ~243 |
 | Track to the Future | 9.00% | ~243 |
@@ -61,7 +61,7 @@ Rating: 4.39 (Ranked 780)
 | European Union | 0.60% | ~16 |
 | Together we stand | 0.50% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,695 (Ranked 233)  
+Progressed: 2,696 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 0 (0.00%) (Ranked 396)
 | 2024-01-07 | 2,657 | 0 |
 | 2024-01-08 | 2,671 | 0 |
 | 2024-01-09 | 2,676 | 0 |
-| 2024-01-10 | 2,695 | 0 |
+| 2024-01-10 | 2,696 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

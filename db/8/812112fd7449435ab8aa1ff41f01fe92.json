@@ -2,10 +2,10 @@
   "ID": "812112fd7449435ab8aa1ff41f01fe92",
   "Name": "Jump Challenge!",
   "ProductSlug": "jump-challenge-228ff0",
-  "Ranking_EOS_Progress": 566,
+  "Ranking_EOS_Progress": 563,
   "Ranking_EOS_Completed": 396,
-  "Ranking_EOS_NewPlayers": 429,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 423,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-23T18:00:00+00:00",
     "PcReleaseDate": "2022-03-19T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47,
+  "EOS_Progressed": 48,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -249,6 +249,11 @@
       "Time": "2024-01-10T14:09:25.980127+00:00",
       "NumProgressed": 47,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T23:08:29.4325693+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T15:03:01.8003971+00:00",
@@ -267,7 +272,7 @@
       "ID": "DEATH_ACID",
       "SetID": "5629o35",
       "Name": "Be wary of acid",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 16
     },
@@ -283,7 +288,7 @@
       "ID": "DEATH_CACTI",
       "SetID": "5629o35",
       "Name": "Spikey boy",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -291,7 +296,7 @@
       "ID": "DEATH_CANON",
       "SetID": "5629o35",
       "Name": "Hold that for a second",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -307,7 +312,7 @@
       "ID": "DEATH_LAVA",
       "SetID": "5629o35",
       "Name": "The floor is lava. Literally.",
-      "Percentage": 96,
+      "Percentage": 94,
       "XP": 50,
       "UsersEstimate": 45
     },
@@ -331,7 +336,7 @@
       "ID": "FIRST_DEATH",
       "SetID": "5629o35",
       "Name": "Welcome to the jumping challenge!",
-      "Percentage": 98,
+      "Percentage": 96,
       "XP": 50,
       "UsersEstimate": 46
     },
@@ -363,7 +368,7 @@
       "ID": "SCORE_100",
       "SetID": "5629o35",
       "Name": "Newbie jumper",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 25,
       "UsersEstimate": 27
     },
@@ -404,14 +409,14 @@
     {
       "ID": "5629o35",
       "IsBase": true,
-      "Progressed": 47,
+      "Progressed": 48,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-29T17:58:28.6807523+00:00",
   "FirstSeenAchievements": "2023-11-13T15:03:01.800397+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:06:54.9901935+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:08:29.4325691+00:00",
   "LastUpdate_AppInfo": "2024-01-08T18:57:16.4412882+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:57:55.2211254+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:06:54.9902042+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:57:49.6165227+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:08:29.432579+00:00"
 }

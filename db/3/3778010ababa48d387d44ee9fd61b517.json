@@ -2,10 +2,10 @@
   "ID": "3778010ababa48d387d44ee9fd61b517",
   "Name": "The Hive",
   "ProductSlug": "the-hive-f5c2c8",
-  "Ranking_EOS_Progress": 579,
+  "Ranking_EOS_Progress": 576,
   "Ranking_EOS_Completed": 396,
-  "Ranking_EOS_NewPlayers": 416,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
     "PcReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40,
+  "EOS_Progressed": 41,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -224,6 +224,11 @@
       "Time": "2024-01-10T18:05:59.7555847+00:00",
       "NumProgressed": 40,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T23:05:39.2365808+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-06T09:06:36.8528794+00:00",
@@ -242,7 +247,7 @@
       "ID": "A_ARTIFACT",
       "SetID": "324h56e",
       "Name": "The Artifact",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
       "UsersEstimate": 20
     },
@@ -250,7 +255,7 @@
       "ID": "A_AVATAR",
       "SetID": "324h56e",
       "Name": "The Avatar",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -266,7 +271,7 @@
       "ID": "A_CHESTS",
       "SetID": "324h56e",
       "Name": "Treasure Finder",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -274,7 +279,7 @@
       "ID": "A_CHESTS_2",
       "SetID": "324h56e",
       "Name": "Treasure Hunter",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -306,7 +311,7 @@
       "ID": "A_DAVID",
       "SetID": "324h56e",
       "Name": "David(s) vs Goliath",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -322,7 +327,7 @@
       "ID": "A_GOLD_PILES",
       "SetID": "324h56e",
       "Name": "Scrooge",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -330,7 +335,7 @@
       "ID": "A_HIVE_RESS hiveRes (0-100)",
       "SetID": "324h56e",
       "Name": "Hivespital",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -338,7 +343,7 @@
       "ID": "A_HUNT hunt (0-1)",
       "SetID": "324h56e",
       "Name": "Big Game Hunter",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
       "UsersEstimate": 23
     },
@@ -346,7 +351,7 @@
       "ID": "A_HUNT_2 hunt (0-5)",
       "SetID": "324h56e",
       "Name": "Bigger Game Hunter",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -354,7 +359,7 @@
       "ID": "A_ITEM_DROPS",
       "SetID": "324h56e",
       "Name": "Scavenger",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -362,7 +367,7 @@
       "ID": "A_KILLS kills_1 (0-100)",
       "SetID": "324h56e",
       "Name": "Slaughter",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
       "UsersEstimate": 16
     },
@@ -370,7 +375,7 @@
       "ID": "A_KILLS_2 kills_1 (0-1000)",
       "SetID": "324h56e",
       "Name": "Massacre",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -386,7 +391,7 @@
       "ID": "A_LEGIONNAIRES",
       "SetID": "324h56e",
       "Name": "We Are All You Need",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -402,7 +407,7 @@
       "ID": "A_MEAT meat (0-10000)",
       "SetID": "324h56e",
       "Name": "Fresh Meat!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -410,7 +415,7 @@
       "ID": "A_MEDIC_HEAL",
       "SetID": "324h56e",
       "Name": "Always Blame the Healer",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -418,7 +423,7 @@
       "ID": "A_MINERALS minerals (0-2500)",
       "SetID": "324h56e",
       "Name": "Miner",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 5,
       "UsersEstimate": 24
     },
@@ -434,7 +439,7 @@
       "ID": "A_ORB",
       "SetID": "324h56e",
       "Name": "Orb of Wisdom",
-      "Percentage": 78,
+      "Percentage": 76,
       "XP": 5,
       "UsersEstimate": 31
     },
@@ -450,7 +455,7 @@
       "ID": "A_QUEEN",
       "SetID": "324h56e",
       "Name": "Mother of Insectoids",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -482,7 +487,7 @@
       "ID": "A_SKIP_ADVISOR advisor (0-5)",
       "SetID": "324h56e",
       "Name": "Silencer",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -506,7 +511,7 @@
       "ID": "A_TURRET",
       "SetID": "324h56e",
       "Name": "All About That Base",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -530,7 +535,7 @@
       "ID": "A_WORKER",
       "SetID": "324h56e",
       "Name": "All-Star Worker",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 25,
       "UsersEstimate": 9
     },
@@ -538,7 +543,7 @@
       "ID": "A_WRAITH",
       "SetID": "324h56e",
       "Name": "So Bright It Burns",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 3
     }
@@ -547,14 +552,14 @@
     {
       "ID": "324h56e",
       "IsBase": true,
-      "Progressed": 40,
+      "Progressed": 41,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-10T22:05:53.916653+00:00",
+  "LastChanged_Achievements": "2024-01-10T23:05:39.2365806+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:15.4901037+00:00",
-  "LastUpdate_Ratings": "2024-01-10T21:59:10.7819389+00:00",
-  "LastUpdate_Achievements": "2024-01-10T22:05:53.9166773+00:00"
+  "LastUpdate_Ratings": "2024-01-10T22:59:04.6420759+00:00",
+  "LastUpdate_Achievements": "2024-01-10T23:05:39.23661+00:00"
 }

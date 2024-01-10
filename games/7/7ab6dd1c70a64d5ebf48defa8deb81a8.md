@@ -16,8 +16,8 @@ Rating: 4.15 (Ranked 1,000)
 | Adventurer | 22.00% | ~487 |
 | Fashion Victim | 22.00% | ~487 |
 | Scholar | 22.00% | ~487 |
-| Tributes of Caladrias | 20.00% | ~442 |
-| Stone Collection | 20.00% | ~442 |
+| Tributes of Caladrias | 20.00% | ~443 |
+| Stone Collection | 20.00% | ~443 |
 | Powerful Allies | 19.00% | ~420 |
 | Essence Blow | 13.00% | ~288 |
 | Big Bazar | 13.00% | ~288 |
@@ -28,9 +28,9 @@ Rating: 4.15 (Ranked 1,000)
 | Godslayer | 7.00% | ~155 |
 | Airborne | 7.00% | ~155 |
 | Miner | 7.00% | ~155 |
-| Clear Sight | 4.00% | ~88 |
-| Shatterer | 4.00% | ~88 |
-| Fine Feathers Make Fine Birds | 4.00% | ~88 |
+| Clear Sight | 4.00% | ~89 |
+| Shatterer | 4.00% | ~89 |
+| Fine Feathers Make Fine Birds | 4.00% | ~89 |
 | Slayer | 3.00% | ~66 |
 | A Queen's Tale | 3.00% | ~66 |
 | Shardbearer | 2.00% | ~44 |
@@ -42,7 +42,7 @@ Rating: 4.15 (Ranked 1,000)
 | All That Gold | 0.70% | ~15 |
 | Feeling Fancy | 0.50% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,212 (Ranked 244)  
+Progressed: 2,213 (Ranked 244)  
 Completed: 4 (0.18%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 4 (0.18%) (Ranked 282)
 | 2024-01-07 | 2,015 | 3 |
 | 2024-01-08 | 2,086 | 3 |
 | 2024-01-09 | 2,146 | 3 |
-| 2024-01-10 | 2,212 | 4 |
+| 2024-01-10 | 2,213 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

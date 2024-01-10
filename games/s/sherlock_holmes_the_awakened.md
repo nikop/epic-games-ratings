@@ -5,36 +5,36 @@ Rating: 4.53 (Ranked 563)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 63.00% | ~902 |
+| Read Between The Lines | 63.00% | ~903 |
 | To Hell In A Handcart | 61.00% | ~874 |
-| High Profile | 54.00% | ~773 |
+| High Profile | 54.00% | ~774 |
 | Whispers In The Dark | 52.00% | ~745 |
-| Fond Memories | 51.00% | ~730 |
-| A Method To His Madness | 48.00% | ~687 |
-| History Check | 47.00% | ~673 |
-| The New World | 45.00% | ~644 |
-| Gaze Into The Abyss | 44.00% | ~630 |
-| Open Sesame | 44.00% | ~630 |
-| Sticky Fingers | 44.00% | ~630 |
-| Knives Out | 44.00% | ~630 |
+| Fond Memories | 51.00% | ~731 |
+| A Method To His Madness | 48.00% | ~688 |
+| History Check | 47.00% | ~674 |
+| The New World | 45.00% | ~645 |
+| Gaze Into The Abyss | 44.00% | ~631 |
+| Open Sesame | 44.00% | ~631 |
+| Sticky Fingers | 44.00% | ~631 |
+| Knives Out | 44.00% | ~631 |
 | Lock, Stock, And Barrel | 43.00% | ~616 |
 | Back In The Saddle | 43.00% | ~616 |
 | Land, Ho! | 43.00% | ~616 |
-| No Man Is An Island | 42.00% | ~601 |
-| At Wits' End | 41.00% | ~587 |
-| Up In Flames | 39.00% | ~558 |
-| Fhtagn! | 39.00% | ~558 |
-| Bookworm | 38.00% | ~544 |
+| No Man Is An Island | 42.00% | ~602 |
+| At Wits' End | 41.00% | ~588 |
+| Up In Flames | 39.00% | ~559 |
+| Fhtagn! | 39.00% | ~559 |
+| Bookworm | 38.00% | ~545 |
 | Going Once... | 36.00% | ~516 |
-| Let Me Be Frank | 35.00% | ~501 |
-| No Stone Unturned | 32.00% | ~458 |
+| Let Me Be Frank | 35.00% | ~502 |
+| No Stone Unturned | 32.00% | ~459 |
 | Brain Food | 31.00% | ~444 |
-| Read It And Weep | 20.00% | ~286 |
+| Read It And Weep | 20.00% | ~287 |
 | Curiosity Killed The Cat | 19.00% | ~272 |
 | Big Breakthrough | 13.00% | ~186 |
 | Reawakened | 4.00% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,432 (Ranked 272)  
+Progressed: 1,433 (Ranked 272)  
 Completed: 47 (3.28%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 47 (3.28%) (Ranked 103)
 | 2024-01-07 | 1,419 | 43 |
 | 2024-01-08 | 1,423 | 43 |
 | 2024-01-09 | 1,427 | 44 |
-| 2024-01-10 | 1,432 | 47 |
+| 2024-01-10 | 1,433 | 47 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

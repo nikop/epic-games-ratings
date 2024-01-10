@@ -8,7 +8,7 @@ Number of Ratings: 398  (23.09.2022)
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 73.00% | ~5,160 |
 | Un-Lonely Island | 44.00% | ~3,110 |
-| The Beginning of a Servantship | 43.00% | ~3,039 |
+| The Beginning of a Servantship | 43.00% | ~3,040 |
 | Trade Is My Trait | 35.00% | ~2,474 |
 | Number 18 | 23.00% | ~1,626 |
 | We Don't Have Time For That | 18.00% | ~1,272 |
@@ -47,8 +47,8 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~57 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,068 (Ranked 197)  
-Completed: 2 (0.03%) (Ranked 355)  
+Progressed: 7,069 (Ranked 197)  
+Completed: 2 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -312,14 +312,14 @@ Completed: 2 (0.03%) (Ranked 355)
 | 2024-01-07 | 6,998 | 2 |
 | 2024-01-08 | 7,016 | 2 |
 | 2024-01-09 | 7,043 | 2 |
-| 2024-01-10 | 7,068 | 2 |
+| 2024-01-10 | 7,069 | 2 |
 ## Awards
-Max (Highly Recommended): 106  (Ranked 372)  
-Sum: 758 (Ranked 304)  
-Diff (max vs sum): 68  
+Max (Highly Recommended): 107  (Ranked 371)  
+Sum: 759 (Ranked 302)  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 106 |
+| This game is Highly Recommended | 107 |
 | This game is Great for Beginners | 106 |
 | This game is Relaxing | 104 |
 | This game has Quickly Understood Controls | 103 |
@@ -516,3 +516,4 @@ Diff (max vs sum): 68
 | 2024-01-04 | 4.66 | - | 106 | 755 |
 | 2024-01-05 | 4.66 | - | 106 | 756 |
 | 2024-01-07 | 4.66 | - | 106 | 758 |
+| 2024-01-10 | 4.65 | - | 107 | 759 |
