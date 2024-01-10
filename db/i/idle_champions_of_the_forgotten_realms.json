@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9427,10 +9427,10 @@
       "Count": 3634
     }
   ],
-  "EOS_Progressed": 253050,
-  "EOS_Completed": 2607,
-  "EOS_NewPlayers": 2999,
-  "EOS_NewCompleters": 22,
+  "EOS_Progressed": 253071,
+  "EOS_Completed": 2608,
+  "EOS_NewPlayers": 2971,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -39407,6 +39407,11 @@
       "Time": "2024-01-10T00:10:17.3100555+00:00",
       "NumProgressed": 253050,
       "NumCompleted": 2607
+    },
+    {
+      "Time": "2024-01-10T01:59:14.0440403+00:00",
+      "NumProgressed": 253071,
+      "NumCompleted": 2608
     }
   ],
   "TotalAchievements": 546,
@@ -39418,7 +39423,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10122
+      "UsersEstimate": 10123
     },
     {
       "ID": "objective_completed_10",
@@ -39786,7 +39791,7 @@
       "Name": "Beast Intentions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "objective_completed_110",
@@ -40800,9 +40805,9 @@
       "ID": "objective_completed_213",
       "SetID": "cc37lbc",
       "Name": "Family Entanglements",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_214",
@@ -41098,7 +41103,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2277
+      "UsersEstimate": 2278
     },
     {
       "ID": "objective_completed_35",
@@ -41282,7 +41287,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2025
     },
     {
       "ID": "objective_completed_40",
@@ -41968,9 +41973,9 @@
       "ID": "objective_completed_60",
       "SetID": "cc37lbc",
       "Name": "Dinosaur Racing",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 506
     },
     {
       "ID": "objective_completed_600",
@@ -42562,7 +42567,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "objective_completed_70",
@@ -43785,21 +43790,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219324,
-      "Completed": 4145
+      "Progressed": 219345,
+      "Completed": 4146
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253050,
-      "Completed": 2607
+      "Progressed": 253071,
+      "Completed": 2608
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-09T15:58:29.6536775+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:10:17.3100552+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:59:14.0440399+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:57:50.0062558+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:10:17.3126034+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:47:04.2516628+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:59:14.0465092+00:00"
 }

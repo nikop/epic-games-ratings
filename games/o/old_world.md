@@ -6,14 +6,15 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Architect | 2.00% | ~326 |
-| Explorer | 2.00% | ~326 |
-| Intrepid | 2.00% | ~326 |
-| Settler | 2.00% | ~326 |
-| Friendly Family | 2.00% | ~326 |
-| Hanging Gardens | 2.00% | ~326 |
-| Play a Single Player Game | 2.00% | ~326 |
-| Able | 1.00% | ~163 |
+| Able | 2.00% | ~327 |
+| Architect | 2.00% | ~327 |
+| Explorer | 2.00% | ~327 |
+| Intrepid | 2.00% | ~327 |
+| Settler | 2.00% | ~327 |
+| Strong | 2.00% | ~327 |
+| Friendly Family | 2.00% | ~327 |
+| Hanging Gardens | 2.00% | ~327 |
+| Play a Single Player Game | 2.00% | ~327 |
 | Ambitious | 1.00% | ~163 |
 | Enlightened | 1.00% | ~163 |
 | Fountainhead | 1.00% | ~163 |
@@ -26,10 +27,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mason | 1.00% | ~163 |
 | Noble | 1.00% | ~163 |
 | Pioneer | 1.00% | ~163 |
-| Strong | 1.00% | ~163 |
 | Warrior | 1.00% | ~163 |
 | Developing Cities | 1.00% | ~163 |
 | Strong Cities | 1.00% | ~163 |
+| Great Ziggurat | 1.00% | ~163 |
 | Oracle | 1.00% | ~163 |
 | Pyramids | 1.00% | ~163 |
 | Learn to Play 1 | 1.00% | ~163 |
@@ -37,21 +38,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 1.00% | ~163 |
 | Babylonian Paganism | 1.00% | ~163 |
 | Greek Paganism | 1.00% | ~163 |
+| Roman Paganism | 1.00% | ~163 |
 | Zoroastrianism | 1.00% | ~163 |
 | Naming Landmarks | 1.00% | ~163 |
 | Trade Caravan | 1.00% | ~163 |
 | Brilliant | 0.90% | ~147 |
 | Able Difficulty | 0.90% | ~147 |
-| Great Ziggurat | 0.90% | ~147 |
+| Apadana | 0.90% | ~147 |
 | Ishtar Gate | 0.90% | ~147 |
 | Lighthouse | 0.90% | ~147 |
 | Carthaginian Paganism | 0.90% | ~147 |
-| Roman Paganism | 0.90% | ~147 |
 | Great | 0.80% | ~131 |
 | Wise | 0.80% | ~131 |
 | Furious Family | 0.80% | ~131 |
 | Acropolis | 0.80% | ~131 |
-| Apadana | 0.80% | ~131 |
 | Musaeum | 0.80% | ~131 |
 | Necropolis | 0.80% | ~131 |
 | Learn to Play 2 | 0.80% | ~131 |
@@ -74,6 +74,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 0.50% | ~82 |
 | Good Difficulty | 0.50% | ~82 |
 | Champions | 0.50% | ~82 |
+| Patrons | 0.50% | ~82 |
 | Statesmen | 0.50% | ~82 |
 | Learn to Play 3 | 0.50% | ~82 |
 | Greece | 0.50% | ~82 |
@@ -87,7 +88,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.40% | ~65 |
 | Victorious | 0.40% | ~65 |
 | Landowners | 0.40% | ~65 |
-| Patrons | 0.40% | ~65 |
 | Riders | 0.40% | ~65 |
 | Traders | 0.40% | ~65 |
 | Hittite Iron | 0.40% | ~65 |
@@ -101,10 +101,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.40% | ~65 |
 | Military Prestige | 0.40% | ~65 |
 | Dualism | 0.40% | ~65 |
+| Enlightenment | 0.40% | ~65 |
 | Legalism | 0.40% | ~65 |
 | Cimmerian Archer | 0.40% | ~65 |
 | Legionary | 0.40% | ~65 |
 | Double Victory | 0.40% | ~65 |
+| The Clergy | 0.40% | ~65 |
 | Capable | 0.30% | ~49 |
 | Devout | 0.30% | ~49 |
 | Invincible | 0.30% | ~49 |
@@ -119,7 +121,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.30% | ~49 |
 | Egypt | 0.30% | ~49 |
 | Rome | 0.30% | ~49 |
-| Enlightenment | 0.30% | ~49 |
 | Gnosticism | 0.30% | ~49 |
 | Redemption | 0.30% | ~49 |
 | Revelation | 0.30% | ~49 |
@@ -129,7 +130,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.30% | ~49 |
 | All Nations | 0.30% | ~49 |
 | Ambition Victory | 0.30% | ~49 |
-| The Clergy | 0.30% | ~49 |
 | Deposed Tribe | 0.30% | ~49 |
 | Kushite Pyramids | 0.30% | ~49 |
 | Kushite Paganism | 0.30% | ~49 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,322 (Ranked 169)  
+Progressed: 16,326 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -630,7 +630,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-07 | 16,206 | 5 |
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
-| 2024-01-10 | 16,322 | 5 |
+| 2024-01-10 | 16,326 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,919 (Ranked 224)  

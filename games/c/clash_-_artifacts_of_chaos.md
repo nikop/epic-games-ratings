@@ -20,13 +20,13 @@
 | Armor Collector | 12.00% | ~19 |
 | Corwid Hill | 11.00% | ~17 |
 | Total Eclipse | 9.00% | ~14 |
-| Dreamwalker | 8.00% | ~12 |
+| Dreamwalker | 9.00% | ~14 |
 | Your Training Is Complete | 6.00% | ~9 |
 | Red in Tooth and Claw | 6.00% | ~9 |
 | Vivid Dreams | 2.00% | ~3 |
 | Broken Reflection | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156 (Ranked 451)  
+Progressed: 156 (Ranked 452)  
 Completed: 1 (0.64%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,7 +4,7 @@
   "ProductSlug": "garden-in-671c44",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 463,
+  "Ranking_EOS_NewPlayers": 452,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-01-26T13:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 216,
+  "EOS_Progressed": 217,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -451,6 +451,11 @@
       "Time": "2024-01-08T20:03:23.960472+00:00",
       "NumProgressed": 216,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T01:52:56.8478549+00:00",
+      "NumProgressed": 217,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -460,9 +465,9 @@
       "ID": "ACH_A_GREENER_DAY",
       "SetID": "95o50of",
       "Name": "A Greener Day",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_A_SAD_MOMENT",
@@ -470,7 +475,7 @@
       "Name": "A Sad Moment",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_BALCONY_OPTIMIZER",
@@ -492,9 +497,9 @@
       "ID": "ACH_DRY_NO_MORE",
       "SetID": "95o50of",
       "Name": "Dry No More",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_FEET_IN_THE_WATER",
@@ -548,9 +553,9 @@
       "ID": "ACH_LEAVE_MY_BABY_ALONE",
       "SetID": "95o50of",
       "Name": "Leave My Baby Alone!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_LETS_GO_FOR_A_WALK",
@@ -614,7 +619,7 @@
       "Name": "Research Complete",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_ROOM_REVEALER",
@@ -622,7 +627,7 @@
       "Name": "Room Revealer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_SAY_CHEESE",
@@ -638,7 +643,7 @@
       "Name": "Seed of Love",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_SPRAY_SPRAY_SPRAY",
@@ -652,9 +657,9 @@
       "ID": "ACH_TAKING_NOTES",
       "SetID": "95o50of",
       "Name": "Taking Notes",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_THE_BEST_ONE",
@@ -668,9 +673,9 @@
       "ID": "ACH_THE_MENDEL_EXPERIMENT",
       "SetID": "95o50of",
       "Name": "The Mendel Experiment",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_TIME_FOR_RENOVATIONS",
@@ -702,14 +707,14 @@
       "Name": "Who\u0027s a Good Plant?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "95o50of",
       "IsBase": true,
-      "Progressed": 216,
+      "Progressed": 217,
       "Completed": 1
     }
   ],
@@ -717,8 +722,8 @@
   "FirstSeenRating": "2023-03-31T05:57:23.5695131+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.2425806+00:00",
   "LastChanged": "2023-03-31T05:57:23.5695132+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:03:55.677556+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:52:56.8478545+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.7154457+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:58:48.8026264+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:03:55.6775826+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:48:03.1013031+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:52:56.8478699+00:00"
 }

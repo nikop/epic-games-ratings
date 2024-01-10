@@ -703,9 +703,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12071,
+  "EOS_Progressed": 12079,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 668,
+  "EOS_NewPlayers": 673,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -15328,6 +15328,11 @@
       "Time": "2024-01-10T00:05:59.3667351+00:00",
       "NumProgressed": 12071,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2024-01-10T01:54:59.1865257+00:00",
+      "NumProgressed": 12079,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 29,
@@ -15339,7 +15344,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10019
+      "UsersEstimate": 10026
     },
     {
       "ID": "ACH02",
@@ -15347,7 +15352,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 4104
+      "UsersEstimate": 4107
     },
     {
       "ID": "ACH03",
@@ -15355,7 +15360,7 @@
       "Name": "Escape Artist",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH04",
@@ -15363,7 +15368,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4708
+      "UsersEstimate": 4711
     },
     {
       "ID": "ACH05",
@@ -15379,7 +15384,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 2293
+      "UsersEstimate": 2295
     },
     {
       "ID": "ACH07",
@@ -15395,7 +15400,7 @@
       "Name": "Got This Figured Out",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH09",
@@ -15403,7 +15408,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "ACH10",
@@ -15411,7 +15416,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 3380
+      "UsersEstimate": 3382
     },
     {
       "ID": "ACH11",
@@ -15427,7 +15432,7 @@
       "Name": "Come Out to Play-y-y-y",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH13",
@@ -15435,7 +15440,7 @@
       "Name": "Where To?",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH14",
@@ -15443,7 +15448,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2053
     },
     {
       "ID": "ACH15",
@@ -15459,7 +15464,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3138
+      "UsersEstimate": 3141
     },
     {
       "ID": "ACH17",
@@ -15467,7 +15472,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1691
     },
     {
       "ID": "ACH18",
@@ -15475,7 +15480,7 @@
       "Name": "Not So Fast",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "ACH19",
@@ -15483,7 +15488,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "ACH20",
@@ -15497,9 +15502,9 @@
       "ID": "ACH21",
       "SetID": "552d41m",
       "Name": "Splish Splash",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 241
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH22",
@@ -15507,7 +15512,7 @@
       "Name": "Playing Doctor",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH23",
@@ -15523,7 +15528,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1569
+      "UsersEstimate": 1570
     },
     {
       "ID": "ACH25",
@@ -15531,7 +15536,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "ACH26",
@@ -15547,7 +15552,7 @@
       "Name": "Liberty City Secrets",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH28",
@@ -15563,14 +15568,14 @@
       "Name": "King of Liberty City",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     }
   ],
   "AchievementSets": [
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12071,
+      "Progressed": 12079,
       "Completed": 84
     }
   ],
@@ -15578,8 +15583,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-08T18:02:03.5351927+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:05:59.3667343+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:54:59.1865253+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.653696+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:57:13.1116335+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:05:59.366849+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:46:28.01593+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:54:59.1866411+00:00"
 }

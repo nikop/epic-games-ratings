@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 225,
+  "EOS_Progressed": 226,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1466,6 +1466,11 @@
       "Time": "2024-01-09T22:06:23.6264759+00:00",
       "NumProgressed": 225,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T01:55:09.1723033+00:00",
+      "NumProgressed": 226,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1494,7 +1499,7 @@
       "Name": "Entrepreneur",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "100HEALS",
@@ -1540,9 +1545,9 @@
       "ID": "20TRADER",
       "SetID": "a1angca",
       "Name": "Peddler",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "20WEAPONSCRAFTED",
@@ -1604,9 +1609,9 @@
       "ID": "5CREWMEMBER",
       "SetID": "a1angca",
       "Name": "Military Leader",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "ALLCOMBAT",
@@ -1638,7 +1643,7 @@
       "Name": "Idealist",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ALLSURVIVAL",
@@ -1654,7 +1659,7 @@
       "Name": "Role Model",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "BRINGTOYS",
@@ -1662,7 +1667,7 @@
       "Name": "Toy Time",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CHOSEABT",
@@ -1678,7 +1683,7 @@
       "Name": "Alb",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "CHOSEBSK",
@@ -1726,7 +1731,7 @@
       "Name": "Destroyer",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ENDGAME",
@@ -1740,9 +1745,9 @@
       "ID": "FINDALLIES",
       "SetID": "a1angca",
       "Name": "Commander",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "FINDBILLY",
@@ -1758,7 +1763,7 @@
       "Name": "Civilian",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "FINDCRONY",
@@ -1877,15 +1882,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 225,
+      "Progressed": 226,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:06:09.7888152+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:55:09.1723027+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:22.4582393+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:59:36.8095154+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:06:09.7888624+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:48:51.1650504+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:55:09.1723546+00:00"
 }

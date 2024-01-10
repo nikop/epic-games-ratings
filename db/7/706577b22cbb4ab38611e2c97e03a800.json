@@ -4,7 +4,7 @@
   "ProductSlug": "geometric-sniper-z-ef97ef",
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 437,
+  "Ranking_EOS_NewPlayers": 428,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-08T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 187,
+  "EOS_Progressed": 188,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -719,6 +719,11 @@
       "Time": "2024-01-07T21:04:30.740966+00:00",
       "NumProgressed": 187,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T01:53:52.3375186+00:00",
+      "NumProgressed": 188,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-28T19:04:41.1727076+00:00",
@@ -731,7 +736,7 @@
       "Name": "MISSION 01",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT_AV_02",
@@ -739,7 +744,7 @@
       "Name": "MISSION 02",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_AV_03",
@@ -779,7 +784,7 @@
       "Name": "MISSION 07",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_AV_08",
@@ -955,7 +960,7 @@
       "Name": "MY 4TH REWARD",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_MR_05",
@@ -1011,7 +1016,7 @@
       "Name": "RUNAWAY 04",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_RW_05",
@@ -1130,14 +1135,14 @@
     {
       "ID": "b50kim2",
       "IsBase": true,
-      "Progressed": 187,
+      "Progressed": 188,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:04:52.202969+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:53:52.3375183+00:00",
   "LastUpdate_AppInfo": "2024-01-09T09:57:12.4965835+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:56:57.4450748+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:04:52.2030302+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:46:10.499649+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:53:52.3375567+00:00"
 }

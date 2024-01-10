@@ -2,9 +2,9 @@
   "ID": "ad3283cc38a64db89c010975976948de",
   "Name": "Buddy and Friends in Halloween",
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
-  "Ranking_EOS_Progress": 513,
-  "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_Progress": 512,
+  "Ranking_EOS_Completed": 94,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80,
+  "EOS_Progressed": 81,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.75,
+  "EOS_Completed_Percentage": 3.7,
   "EosHistory": [
     {
       "Time": "2023-09-27T22:06:15.8881954+00:00",
@@ -429,6 +429,11 @@
       "Time": "2024-01-08T11:08:25.6605766+00:00",
       "NumProgressed": 80,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-10T01:52:51.4748445+00:00",
+      "NumProgressed": 81,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-27T20:05:04.1724035+00:00",
@@ -449,13 +454,13 @@
       "Name": "Mirror - 60 pieces",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "LEVEL_060_002",
       "SetID": "5g7b0mb",
       "Name": "Doors - 60 pieces",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 5,
       "UsersEstimate": 53
     },
@@ -463,7 +468,7 @@
       "ID": "LEVEL_060_003",
       "SetID": "5g7b0mb",
       "Name": "Sidewalk - 60 pieces",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 5,
       "UsersEstimate": 48
     },
@@ -479,7 +484,7 @@
       "ID": "LEVEL_060_005",
       "SetID": "5g7b0mb",
       "Name": "Grass - 60 pieces",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
       "UsersEstimate": 40
     },
@@ -487,7 +492,7 @@
       "ID": "LEVEL_060_006",
       "SetID": "5g7b0mb",
       "Name": "Warmth - 60 pieces",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
       "UsersEstimate": 36
     },
@@ -511,7 +516,7 @@
       "ID": "LEVEL_135_003",
       "SetID": "5g7b0mb",
       "Name": "Sidewalk - 135 pieces",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -559,7 +564,7 @@
       "ID": "LEVEL_240_003",
       "SetID": "5g7b0mb",
       "Name": "Sidewalk - 240 pieces",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -688,14 +693,14 @@
     {
       "ID": "5g7b0mb",
       "IsBase": true,
-      "Progressed": 80,
+      "Progressed": 81,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:03:50.2675587+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:52:51.4748439+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.6686255+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:59:00.7299797+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:03:50.2675837+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:48:14.5689557+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:52:51.4748652+00:00"
 }

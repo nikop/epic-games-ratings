@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -1716,17 +1716,17 @@
       "ID": "ach_area",
       "SetID": "b8gh1fi",
       "Name": "Floor Galore",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 188
     },
     {
       "ID": "ach_area_1",
       "SetID": "b8gh1fi",
       "Name": "Under One Roof",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 71
     },
     {
       "ID": "ach_art",
@@ -2108,9 +2108,9 @@
       "ID": "ach_pop_1",
       "SetID": "b8gh1fi",
       "Name": "People Mover",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 97
     },
     {
       "ID": "ach_pop_2",
@@ -2124,9 +2124,9 @@
       "ID": "ach_prestige_1",
       "SetID": "b8gh1fi",
       "Name": "Your Prestige is Rising",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 112
     },
     {
       "ID": "ach_prestige_2",
@@ -2244,9 +2244,9 @@
       "ID": "ach_retail_3",
       "SetID": "b8gh1fi",
       "Name": "Leveled Up Shops",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 92
     },
     {
       "ID": "ach_retail_4",
@@ -2260,9 +2260,9 @@
       "ID": "ach_revs_1",
       "SetID": "b8gh1fi",
       "Name": "Cashflow Chief",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 71
     },
     {
       "ID": "ach_revs_2",
@@ -2397,8 +2397,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:04:32.4916846+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:53:33.0438824+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8765911+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:57:59.7473264+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:04:32.4918022+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:47:13.6846879+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:53:33.043955+00:00"
 }

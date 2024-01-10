@@ -6,24 +6,24 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~38,773 |
-| Biggest Communism Builder | 23.00% | ~31,849 |
-| The World's Most Laughable Centrist | 20.00% | ~27,695 |
-| Il Coppo Del'Arte! | 18.00% | ~24,926 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,156 |
-| Hyperstellar Law Official | 15.00% | ~20,771 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~19,387 |
-| Gurdi-Ball Is Lit | 14.00% | ~19,387 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~18,002 |
-| Truly Rabid *Traditionalist* | 11.00% | ~15,232 |
-| The Figurines Won't Win Her Back | 9.00% | ~12,463 |
-| Unbelievably Boring **** | 8.00% | ~11,078 |
-| Enemy Of The Physical Realm | 8.00% | ~11,078 |
-| Hardie's Heroes | 6.00% | ~8,308 |
+| Goodest Of The Good Cops | 28.00% | ~38,776 |
+| Biggest Communism Builder | 23.00% | ~31,851 |
+| The World's Most Laughable Centrist | 20.00% | ~27,697 |
+| Il Coppo Del'Arte! | 18.00% | ~24,927 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,157 |
+| Hyperstellar Law Official | 15.00% | ~20,773 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~19,388 |
+| Gurdi-Ball Is Lit | 14.00% | ~19,388 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~18,003 |
+| Truly Rabid *Traditionalist* | 11.00% | ~15,233 |
+| The Figurines Won't Win Her Back | 9.00% | ~12,464 |
+| Unbelievably Boring **** | 8.00% | ~11,079 |
+| Enemy Of The Physical Realm | 8.00% | ~11,079 |
+| Hardie's Heroes | 6.00% | ~8,309 |
 | The Lawbringer | 4.00% | ~5,539 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,539 |
-| The Opener Of The Eighth Seal | 3.00% | ~4,154 |
-| Bother Kim After Hours | 3.00% | ~4,154 |
+| The Opener Of The Eighth Seal | 3.00% | ~4,155 |
+| Bother Kim After Hours | 3.00% | ~4,155 |
 | Baddest Of the Bad Cops | 2.00% | ~2,770 |
 | Expert Advanced Remote Viewer | 2.00% | ~2,770 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,770 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~138 |
 | What body? | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,475 (Ranked 90)  
+Progressed: 138,484 (Ranked 90)  
 Completed: 29 (0.02%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,11 +312,11 @@ Completed: 29 (0.02%) (Ranked 361)
 | 2024-01-07 | 138,114 | 29 |
 | 2024-01-08 | 138,281 | 29 |
 | 2024-01-09 | 138,471 | 29 |
-| 2024-01-10 | 138,475 | 29 |
+| 2024-01-10 | 138,484 | 29 |
 ## Awards
 Max (Character Customization): 763  (Ranked 191)  
-Sum: 1,164 (Ranked 265)  
-Diff (max vs sum): -74  
+Sum: 1,164 (Ranked 266)  
+Diff (max vs sum): -75  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 763 |

@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 305,
+  "EOS_Progressed": 306,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1364,6 +1364,11 @@
       "Time": "2024-01-09T22:08:59.6969127+00:00",
       "NumProgressed": 305,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T01:57:53.2833161+00:00",
+      "NumProgressed": 306,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1384,7 +1389,7 @@
       "Name": "Another perspective",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "assemble_puzzles",
@@ -1398,9 +1403,9 @@
       "ID": "breaking_free",
       "SetID": "f2im8d",
       "Name": "Breaking free",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 24
     },
     {
       "ID": "casting_finished",
@@ -1488,7 +1493,7 @@
       "Name": "Do what you have to",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "earn_all_trophies",
@@ -1528,7 +1533,7 @@
       "Name": "Scraps of love",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "find_one_photo",
@@ -1552,7 +1557,7 @@
       "Name": "The artist\u2019s impression",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "finished_it",
@@ -1566,9 +1571,9 @@
       "ID": "first_step",
       "SetID": "f2im8d",
       "Name": "First steps",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "hear_most_of_interviews",
@@ -1648,15 +1653,15 @@
       "Name": "A piece of the story",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "playtime",
       "SetID": "f2im8d",
       "Name": "Playtime",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "preferred_parent",
@@ -1712,7 +1717,7 @@
       "Name": "Something important",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "spy_one_item",
@@ -1744,7 +1749,7 @@
       "Name": "The tragedy unfolds",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "tough_conversation",
@@ -1752,7 +1757,7 @@
       "Name": "Tough conversation",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "true_reflection",
@@ -1791,14 +1796,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 305,
+      "Progressed": 306,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:08:55.5454707+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:57:53.2833156+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:37.800715+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:57:51.9884876+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:08:55.5455401+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:47:06.1063178+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:57:53.2833838+00:00"
 }

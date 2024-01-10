@@ -3,7 +3,7 @@
   "Name": "Madden NFL 23",
   "ProductSlug": "madden-nfl-23",
   "Ranking_Rating": 882,
-  "Ranking_Popularity": 461,
+  "Ranking_Popularity": 462,
   "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 395,
@@ -1033,9 +1033,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4362,
+  "EOS_Progressed": 4363,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8453,6 +8453,11 @@
       "Time": "2024-01-09T20:06:35.6542472+00:00",
       "NumProgressed": 4362,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T01:57:37.5258271+00:00",
+      "NumProgressed": 4363,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -8473,7 +8478,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 2399
+      "UsersEstimate": 2400
     },
     {
       "ID": "achievement_11",
@@ -8609,7 +8614,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "achievement_8",
@@ -8632,7 +8637,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4362,
+      "Progressed": 4363,
       "Completed": 0
     }
   ],
@@ -8640,8 +8645,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-09T22:00:12.8652525+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:08:39.553774+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:57:37.5258269+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:34.1147797+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:59:54.971143+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:08:39.553841+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:49:08.8761565+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:57:37.525885+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "125eda42f0574d97a16a5721f10d3ea1",
   "Name": "Definitely Sneaky But Not Sneaky",
   "ProductSlug": "my-product-b51a19",
-  "Ranking_EOS_Progress": 714,
+  "Ranking_EOS_Progress": 697,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 508,
+  "Ranking_EOS_NewPlayers": 483,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2024-01-07T17:30:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41,6 +41,11 @@
     {
       "Time": "2024-01-09T06:06:28.1546977+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T01:55:40.8834198+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -92,7 +97,7 @@
       "ID": "DIE",
       "SetID": "5770k2f",
       "Name": "Die",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -180,7 +185,7 @@
       "ID": "KILL",
       "SetID": "5770k2f",
       "Name": "Murderer",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -188,9 +193,9 @@
       "ID": "LEVEL_0_COMPLETED",
       "SetID": "5770k2f",
       "Name": "On Your Way",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SURVIVAL_BUY_ITEM",
@@ -277,13 +282,13 @@
     {
       "ID": "5770k2f",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-01-05T00:05:33.9112333+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:08:22.5767112+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:55:40.8834194+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:07.9830278+00:00",
-  "LastUpdate_Ratings": "2024-01-10T00:02:50.5335492+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:08:22.576734+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:51:52.0626857+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:55:40.8834376+00:00"
 }

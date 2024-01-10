@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2867,
+  "EOS_Progressed": 2868,
   "EOS_Completed": 265,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 9.24,
   "EosHistory": [
@@ -8311,6 +8311,11 @@
       "Time": "2024-01-09T21:09:12.1221878+00:00",
       "NumProgressed": 2867,
       "NumCompleted": 265
+    },
+    {
+      "Time": "2024-01-10T01:58:11.0237512+00:00",
+      "NumProgressed": 2868,
+      "NumCompleted": 265
     }
   ],
   "TotalAchievements": 12,
@@ -8346,7 +8351,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "Jacques a Dit",
@@ -8354,7 +8359,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "Jakob",
@@ -8370,7 +8375,7 @@
       "Name": "Jude",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "Le Juif et la France",
@@ -8378,7 +8383,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "Little Helper",
@@ -8402,7 +8407,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "Nuremberg Laws",
@@ -8417,7 +8422,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2867,
+      "Progressed": 2868,
       "Completed": 265
     }
   ],
@@ -8425,8 +8430,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:09:13.449062+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:58:11.023751+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:56:54.1144562+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:58:21.4479505+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:09:13.4491251+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:47:35.2286069+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:58:11.0238011+00:00"
 }

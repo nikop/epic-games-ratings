@@ -1027,7 +1027,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8219,
+  "EOS_Progressed": 8220,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 0,
@@ -13727,6 +13727,11 @@
       "Time": "2024-01-10T00:08:38.610531+00:00",
       "NumProgressed": 8219,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T01:57:36.6757194+00:00",
+      "NumProgressed": 8220,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13736,9 +13741,9 @@
       "ID": "ACHIEVEMENT_001",
       "SetID": "1a05lfd",
       "Name": "Fish Just Got Reel",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1644
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -13778,7 +13783,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -14057,13 +14062,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8219,
+      "Progressed": 8220,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7591,
+      "Progressed": 7592,
       "Completed": 113
     }
   ],
@@ -14071,8 +14076,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:08:38.6105305+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:57:36.6757192+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:59:01.6621843+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:08:38.6106465+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:48:15.5462508+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:57:36.6758132+00:00"
 }

@@ -5,20 +5,20 @@ Rating: 4.16 (Ranked 990)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 13.00% | ~6,102 |
-| Unlocked Potential | 11.00% | ~5,163 |
-| Tinkerer | 9.00% | ~4,224 |
-| Knock 'Em Dead | 8.00% | ~3,755 |
-| Pilgrimage: Initiate | 8.00% | ~3,755 |
-| Leapfrogger | 7.00% | ~3,285 |
-| Hell of a Run | 7.00% | ~3,285 |
-| Call of the Fount: Baptized | 7.00% | ~3,285 |
-| No Mercy | 6.00% | ~2,816 |
-| Explorer: Seeker | 6.00% | ~2,816 |
+| Attachments | 13.00% | ~6,103 |
+| Unlocked Potential | 11.00% | ~5,164 |
+| Tinkerer | 9.00% | ~4,225 |
+| Knock 'Em Dead | 8.00% | ~3,756 |
+| Pilgrimage: Initiate | 8.00% | ~3,756 |
+| Leapfrogger | 7.00% | ~3,286 |
+| Hell of a Run | 7.00% | ~3,286 |
+| Call of the Fount: Baptized | 7.00% | ~3,286 |
+| No Mercy | 6.00% | ~2,817 |
+| Explorer: Seeker | 6.00% | ~2,817 |
 | Through the Eyes of Another: Empath | 5.00% | ~2,347 |
 | Stuck | 5.00% | ~2,347 |
 | Help Me Out Here | 5.00% | ~2,347 |
-| The Interloper | 4.00% | ~1,877 |
+| The Interloper | 4.00% | ~1,878 |
 | Outdoorsperson | 3.00% | ~1,408 |
 | Hop, Step, Jump | 3.00% | ~1,408 |
 | Endless Runner | 3.00% | ~1,408 |
@@ -34,7 +34,7 @@ Rating: 4.16 (Ranked 990)
 | None the Wiser | 1.00% | ~469 |
 | Forspoken | 1.00% | ~469 |
 | Pilgrimage: Novice | 1.00% | ~469 |
-| Wildfire | 0.80% | ~375 |
+| Wildfire | 0.80% | ~376 |
 | Awakening | 0.70% | ~329 |
 | Realized Potential | 0.70% | ~329 |
 | Explorer: Trailblazer | 0.60% | ~282 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 990)
 | Remembrance | 0.10% | ~47 |
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,935 (Ranked 126)  
+Progressed: 46,948 (Ranked 126)  
 Completed: 4 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 4 (0.01%) (Ranked 372)
 | 2024-01-07 | 46,730 | 4 |
 | 2024-01-08 | 46,825 | 4 |
 | 2024-01-09 | 46,925 | 4 |
-| 2024-01-10 | 46,935 | 4 |
+| 2024-01-10 | 46,948 | 4 |
 ## Awards
 Max (Character Customization): 47  (Ranked 465)  
 Sum: 69 (Ranked 492)  

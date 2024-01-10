@@ -2,9 +2,9 @@
   "ID": "c923cc91073d4405bd8d2f356066bfbd",
   "Name": "Burst Hero",
   "ProductSlug": "bursthero-dd5a56",
-  "Ranking_EOS_Progress": 545,
+  "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 365,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
@@ -312,17 +312,17 @@
       "ID": "COMBO_DRONE",
       "SetID": "1fek4an",
       "Name": "Skynet",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "COMBO_HP",
       "SetID": "1fek4an",
       "Name": "Steel Egg",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "COMBO_SWORD",
@@ -424,9 +424,9 @@
       "ID": "HEROSTAR_G",
       "SetID": "1fek4an",
       "Name": "Graduate(Geisha)",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "HEROSTAR_H",
@@ -480,9 +480,9 @@
       "ID": "HEROSTAR_S",
       "SetID": "1fek4an",
       "Name": "Graduate(Smith)",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "HEROSTAR_T",
@@ -823,8 +823,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:05:32.5697028+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:54:32.6538596+00:00",
   "LastUpdate_AppInfo": "2024-01-03T13:01:17.6980494+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:58:54.4997706+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:05:32.5697803+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:48:08.6716394+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:54:32.653919+00:00"
 }

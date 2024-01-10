@@ -337,9 +337,9 @@
       "ID": "_01",
       "SetID": "670ak8f",
       "Name": "Let there be light",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "_02",
@@ -361,9 +361,9 @@
       "ID": "_04",
       "SetID": "670ak8f",
       "Name": "Multitasking",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "_05",
@@ -424,8 +424,8 @@
   ],
   "FirstSeen": "2023-10-05T01:45:17.1796579+00:00",
   "FirstSeenAchievements": "2023-09-18T15:06:02.8477562+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:09:08.1338388+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:58:05.7952066+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:23.0323215+00:00",
-  "LastUpdate_Ratings": "2024-01-10T00:00:16.3042373+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:09:08.1338501+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:49:29.4878689+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:58:05.7952214+00:00"
 }

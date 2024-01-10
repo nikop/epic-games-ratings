@@ -4,7 +4,7 @@
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 592,
   "Ranking_Popularity": 325,
-  "Ranking_PopularitySum": 417,
+  "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 201,
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17744,
+  "EOS_Progressed": 17746,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -18075,6 +18075,11 @@
       "Time": "2024-01-09T22:05:54.7464473+00:00",
       "NumProgressed": 17744,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-10T01:54:43.2617535+00:00",
+      "NumProgressed": 17746,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18086,7 +18091,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "tpote_achievement_10",
@@ -18102,7 +18107,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4081
+      "UsersEstimate": 4082
     },
     {
       "ID": "tpote_achievement_12",
@@ -18126,7 +18131,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5678
+      "UsersEstimate": 5679
     },
     {
       "ID": "tpote_achievement_15",
@@ -18158,7 +18163,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "tpote_achievement_19",
@@ -18214,7 +18219,7 @@
       "Name": "First profit",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "tpote_achievement_25",
@@ -18246,7 +18251,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "tpote_achievement_29",
@@ -18270,7 +18275,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "tpote_achievement_31",
@@ -18350,7 +18355,7 @@
       "Name": "Tattletale",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 6920
+      "UsersEstimate": 6921
     },
     {
       "ID": "tpote_achievement_40",
@@ -18374,7 +18379,7 @@
       "Name": "Garden of Eden",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4081
+      "UsersEstimate": 4082
     },
     {
       "ID": "tpote_achievement_6",
@@ -18382,7 +18387,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4081
+      "UsersEstimate": 4082
     },
     {
       "ID": "tpote_achievement_7",
@@ -18398,7 +18403,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3726
+      "UsersEstimate": 3727
     },
     {
       "ID": "tpote_achievement_9",
@@ -18406,22 +18411,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6033
+      "UsersEstimate": 6034
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17744,
+      "Progressed": 17746,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:05:43.4956098+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:54:43.2617532+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:38.8316794+00:00",
-  "LastUpdate_Ratings": "2024-01-10T00:03:02.6908021+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:05:43.4957581+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:52:03.1111298+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:54:43.261873+00:00"
 }

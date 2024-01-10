@@ -14,7 +14,7 @@
 | Settle Down | 68.00% | ~71 |
 | Stay Hydrated | 63.00% | ~66 |
 | First Win | 62.00% | ~64 |
-| True Story! | 44.00% | ~46 |
+| True Story! | 45.00% | ~47 |
 | Bedroom Secret Spot | 41.00% | ~43 |
 | At least everyone still had fun | 35.00% | ~36 |
 | Kick It | 34.00% | ~35 |
@@ -27,7 +27,7 @@
 | Angry Dad | 23.00% | ~24 |
 | Have Mercy | 21.00% | ~22 |
 | Angry Mom | 21.00% | ~22 |
-| Hi Hungry, I'm Dad | 19.00% | ~20 |
+| Hi Hungry, I'm Dad | 20.00% | ~21 |
 | Just how we drew it up | 13.00% | ~14 |
 | Interference | 9.00% | ~9 |
 | You broke it, you bought it | 7.00% | ~7 |

@@ -5,27 +5,27 @@ Rating: 4.69 (Ranked 235)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~15,998 |
-| I Challenge You To Save More Money! | 81.00% | ~14,725 |
-| I Love How Tough You Are | 65.00% | ~11,816 |
-| Wanna Come To My Place For Dinner? | 58.00% | ~10,544 |
-| What I Want Is You | 53.00% | ~9,635 |
-| To Be Or Not To Be | 50.00% | ~9,090 |
-| Are You Alright? | 47.00% | ~8,544 |
-| Love Actually | 41.00% | ~7,453 |
-| Drama King | 36.00% | ~6,544 |
-| Go Clean up In Your Own Way | 33.00% | ~5,999 |
-| You're Really Something Else | 32.00% | ~5,817 |
-| Drama CP: Reel to Real | 31.00% | ~5,635 |
-| Happy Family | 30.00% | ~5,454 |
-| FIRST LOVE | 30.00% | ~5,454 |
-| Worthless Speech | 30.00% | ~5,454 |
-| Absolutely Elegant | 28.00% | ~5,090 |
-| ONE PUNCH | 28.00% | ~5,090 |
-| Still Single | 27.00% | ~4,908 |
+| Last Night...Did We... | 88.00% | ~16,000 |
+| I Challenge You To Save More Money! | 81.00% | ~14,727 |
+| I Love How Tough You Are | 65.00% | ~11,818 |
+| Wanna Come To My Place For Dinner? | 58.00% | ~10,546 |
+| What I Want Is You | 53.00% | ~9,636 |
+| To Be Or Not To Be | 50.00% | ~9,091 |
+| Are You Alright? | 47.00% | ~8,546 |
+| Love Actually | 41.00% | ~7,455 |
+| Drama King | 36.00% | ~6,546 |
+| Go Clean up In Your Own Way | 33.00% | ~6,000 |
+| You're Really Something Else | 32.00% | ~5,818 |
+| Drama CP: Reel to Real | 31.00% | ~5,636 |
+| Happy Family | 30.00% | ~5,455 |
+| FIRST LOVE | 30.00% | ~5,455 |
+| Worthless Speech | 30.00% | ~5,455 |
+| Absolutely Elegant | 28.00% | ~5,091 |
+| ONE PUNCH | 28.00% | ~5,091 |
+| Still Single | 27.00% | ~4,909 |
 | Days Of Innocence | 26.00% | ~4,727 |
 | David | 26.00% | ~4,727 |
-| Go Get Some Fries On The Pier | 25.00% | ~4,545 |
+| Go Get Some Fries On The Pier | 25.00% | ~4,546 |
 | All I Have Is Money | 21.00% | ~3,818 |
 | Lover In Dark Alley | 21.00% | ~3,818 |
 | A Slap In The Face! | 21.00% | ~3,818 |
@@ -33,14 +33,14 @@ Rating: 4.69 (Ranked 235)
 | SALUTE | 21.00% | ~3,818 |
 | Let Me Be Your Toy Boy | 20.00% | ~3,636 |
 | Off We Sail Tonight | 15.00% | ~2,727 |
-| Love You Three Thousand | 13.00% | ~2,363 |
-| Can You Do This Or Not? | 13.00% | ~2,363 |
-| Doesn't Matter I'll Handle It | 12.00% | ~2,181 |
+| Love You Three Thousand | 13.00% | ~2,364 |
+| Can You Do This Or Not? | 13.00% | ~2,364 |
+| Doesn't Matter I'll Handle It | 12.00% | ~2,182 |
 | The Flash | 11.00% | ~2,000 |
 | New Yoga Pose Unlocked | 10.00% | ~1,818 |
-| My Dear Love! | 8.00% | ~1,454 |
-| Counting Sheep? | 8.00% | ~1,454 |
-| This Ain't Right In Many Ways... | 8.00% | ~1,454 |
+| My Dear Love! | 8.00% | ~1,455 |
+| Counting Sheep? | 8.00% | ~1,455 |
+| This Ain't Right In Many Ways... | 8.00% | ~1,455 |
 | Life Is A Rollercoaster | 7.00% | ~1,273 |
 | Boys Need To Protect Themselves | 7.00% | ~1,273 |
 | Stubborn Noob | 7.00% | ~1,273 |
@@ -48,7 +48,7 @@ Rating: 4.69 (Ranked 235)
 | Tall; Grande; Venti | 2.00% | ~364 |
 | Limerence | 2.00% | ~364 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,179 (Ranked 160)  
+Progressed: 18,182 (Ranked 160)  
 Completed: 311 (1.71%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,14 +143,14 @@ Completed: 311 (1.71%) (Ranked 142)
 | 2024-01-07 | 17,976 | 305 |
 | 2024-01-08 | 18,078 | 308 |
 | 2024-01-09 | 18,177 | 311 |
-| 2024-01-10 | 18,179 | 311 |
+| 2024-01-10 | 18,182 | 311 |
 ## Awards
-Max (Impact the Story): 34  (Ranked 509)  
-Sum: 34 (Ranked 536)  
-Diff (max vs sum): -27  
+Max (Impact the Story): 36  (Ranked 497)  
+Sum: 36 (Ranked 530)  
+Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
-| In this game, your choices Impact the Story | 34 |
+| In this game, your choices Impact the Story | 36 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -195,3 +195,4 @@ Diff (max vs sum): -27
 | 2024-01-05 | 4.73 | 34 | 34 |
 | 2024-01-08 | 4.71 | 34 | 34 |
 | 2024-01-09 | 4.69 | 34 | 34 |
+| 2024-01-10 | 4.69 | 36 | 36 |

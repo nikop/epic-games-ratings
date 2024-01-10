@@ -897,9 +897,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2425,
+  "EOS_Progressed": 2426,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6777,6 +6777,11 @@
       "Time": "2024-01-09T23:09:31.7931931+00:00",
       "NumProgressed": 2425,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T01:58:10.4968988+00:00",
+      "NumProgressed": 2426,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 61,
@@ -6788,7 +6793,7 @@
       "Name": "Transport shark",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "achAccumulate100MHard",
@@ -6804,7 +6809,7 @@
       "Name": "Transport master",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "achAccumulate1B",
@@ -6820,7 +6825,7 @@
       "Name": "Transport tycoon (Hard mode)",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achAccumulate1M",
@@ -6876,7 +6881,7 @@
       "Name": "Charles Alton Ellis",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achBuildBusStop",
@@ -6884,7 +6889,7 @@
       "Name": "First bus stop",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "achBuildTrainStation",
@@ -6932,7 +6937,7 @@
       "Name": "Campaign expert",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "achCompleteCampaignC",
@@ -6948,7 +6953,7 @@
       "Name": "Cadet",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "achCreateLine",
@@ -6956,7 +6961,7 @@
       "Name": "First line",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1771
     },
     {
       "ID": "achCrowdInATrain",
@@ -7010,9 +7015,9 @@
       "ID": "achFirstCargoWaiting",
       "SetID": "dgl390n",
       "Name": "First cargo item waiting",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1625
     },
     {
       "ID": "achFirstElectricTrainArrived",
@@ -7020,7 +7025,7 @@
       "Name": "First electric train arrived",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "achFirstIndustryUpgrade",
@@ -7028,7 +7033,7 @@
       "Name": "First industry upgraded",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "achFirstPassengerTransported",
@@ -7052,7 +7057,7 @@
       "Name": "First ship arrived",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "achFirstSteamTrainArrived",
@@ -7060,7 +7065,7 @@
       "Name": "First steam train arrived",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "achGlacierExpress",
@@ -7084,7 +7089,7 @@
       "Name": "Settled down",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "achHq20",
@@ -7100,7 +7105,7 @@
       "Name": "Industrialist",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achLandscape",
@@ -7108,7 +7113,7 @@
       "Name": "Sculpturer",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "achLongestTrain",
@@ -7140,7 +7145,7 @@
       "Name": "Metropolis",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achMissionAllMedals",
@@ -7148,7 +7153,7 @@
       "Name": "Exemplary student",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "achMuseumLine",
@@ -7196,7 +7201,7 @@
       "Name": "The king of the sea",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "achSmellOfSuccess",
@@ -7212,7 +7217,7 @@
       "Name": "Cargo hub",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "achTopSpeed120",
@@ -7228,7 +7233,7 @@
       "Name": "Speed of light",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achTrackLength",
@@ -7244,7 +7249,7 @@
       "Name": "Now what?",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "achTrainFever",
@@ -7260,7 +7265,7 @@
       "Name": "Truck Fever",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "achTunnelLength",
@@ -7275,15 +7280,15 @@
     {
       "ID": "dgl390n",
       "IsBase": true,
-      "Progressed": 2425,
+      "Progressed": 2426,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2024-01-07T21:03:10.1496131+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:09:12.8476006+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:58:10.4968984+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:39.8048245+00:00",
-  "LastUpdate_Ratings": "2024-01-10T00:03:04.1447198+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:09:12.8476917+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:52:04.5575309+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:58:10.4969646+00:00"
 }

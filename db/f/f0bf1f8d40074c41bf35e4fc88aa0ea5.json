@@ -4,7 +4,7 @@
   "ProductSlug": "argol-kronoss-castle-84d829",
   "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 437,
+  "Ranking_EOS_NewPlayers": 439,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-26T23:00:00+00:00",
@@ -143,9 +143,9 @@
       "ID": "GOLD",
       "SetID": "d0gblle",
       "Name": "King Midas",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GOLD_KEY",
@@ -254,8 +254,8 @@
   ],
   "FirstSeen": "2023-12-29T14:58:56.0005709+00:00",
   "FirstSeenAchievements": "2023-12-19T21:04:20.7899526+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:04:29.4436383+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:53:30.0166623+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:57:00.8169788+00:00",
-  "LastUpdate_Ratings": "2024-01-10T00:00:03.420647+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:04:29.4436532+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:49:17.5812151+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:53:30.0166719+00:00"
 }

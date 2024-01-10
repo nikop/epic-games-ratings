@@ -5,9 +5,9 @@
   "Ranking_Rating": 990,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 351,
+  "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 439,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 508,
+  "EOS_Progressed": 509,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -667,6 +667,11 @@
       "Time": "2024-01-08T05:04:02.9026688+00:00",
       "NumProgressed": 508,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T01:53:46.8517636+00:00",
+      "NumProgressed": 509,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -692,9 +697,9 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "631ndc2",
       "Name": "Lion Tamer",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 92
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -732,9 +737,9 @@
       "ID": "ACHIEVEMENT_08",
       "SetID": "631ndc2",
       "Name": "Built in a Day",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 183
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -742,7 +747,7 @@
       "Name": "Path of Learning",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -782,7 +787,7 @@
       "Name": "More Brain Than Brawn",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -798,7 +803,7 @@
       "Name": "Club Champion",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -910,7 +915,7 @@
       "Name": "King of District 1",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -1014,7 +1019,7 @@
       "Name": "Amazing!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -1077,7 +1082,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 508,
+      "Progressed": 509,
       "Completed": 1
     }
   ],
@@ -1085,8 +1090,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:04:46.7154835+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:53:46.8517629+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:16.2403757+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:59:24.4178568+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:04:46.7155354+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:48:37.3406784+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:53:46.8517948+00:00"
 }

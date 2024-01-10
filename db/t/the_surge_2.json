@@ -6,8 +6,8 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 236,
-  "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_Completed": 219,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -300,7 +300,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2547,
+  "EOS_Progressed": 2548,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
@@ -4580,6 +4580,11 @@
       "Time": "2024-01-09T21:04:09.7934022+00:00",
       "NumProgressed": 2547,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-10T01:53:26.5686834+00:00",
+      "NumProgressed": 2548,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4599,7 +4604,7 @@
       "Name": "Jailbreak",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "ACHV_03",
@@ -4623,7 +4628,7 @@
       "Name": "Studied The Blade",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "ACHV_06",
@@ -4631,7 +4636,7 @@
       "Name": "Home Invasion",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "ACHV_07",
@@ -4639,7 +4644,7 @@
       "Name": "Court Martial",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ACHV_08",
@@ -4759,7 +4764,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "ACHV_23",
@@ -4767,7 +4772,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "ACHV_24",
@@ -4807,7 +4812,7 @@
       "Name": "Clean Cut",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ACHV_29",
@@ -4879,7 +4884,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "ACHV_38",
@@ -4895,7 +4900,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "ACHV_40",
@@ -4911,7 +4916,7 @@
       "Name": "Suited and Booted",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "ACHV_42",
@@ -5046,7 +5051,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2547,
+      "Progressed": 2548,
       "Completed": 13
     }
   ],
@@ -5054,8 +5059,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-07T10:02:57.9512677+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:04:25.7655022+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:53:26.568683+00:00",
   "LastUpdate_AppInfo": "2024-01-06T17:57:07.4256179+00:00",
-  "LastUpdate_Ratings": "2024-01-10T00:02:57.5255674+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:04:25.7655787+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:51:58.431536+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:53:26.568735+00:00"
 }

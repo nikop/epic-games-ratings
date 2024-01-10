@@ -20,9 +20,9 @@
 | The Eyes! | 9.00% | ~12 |
 | Punctual | 9.00% | ~12 |
 | Keep the Doctor Away | 8.00% | ~10 |
+| Just a Palm Tree | 8.00% | ~10 |
 | Eyes Shut | 8.00% | ~10 |
 | Barking Dog | 8.00% | ~10 |
-| Just a Palm Tree | 7.00% | ~9 |
 | Under the Hood | 7.00% | ~9 |
 | Long Live Gaipajama! | 7.00% | ~9 |
 | Mummy Nightmare | 7.00% | ~9 |

@@ -7,7 +7,7 @@
 | In the Black | 55.00% | ~280 |
 | Starting Skyward | 49.00% | ~249 |
 | Grime is Not Good | 42.00% | ~214 |
-| Floor Galore | 36.00% | ~183 |
+| Floor Galore | 37.00% | ~188 |
 | Campaign Launch | 36.00% | ~183 |
 | Dinner Dash | 36.00% | ~183 |
 | Need a Consult | 34.00% | ~173 |
@@ -18,23 +18,23 @@
 | Destination Destiny | 28.00% | ~143 |
 | Happy Tenants | 23.00% | ~117 |
 | Potent Potables | 23.00% | ~117 |
+| Your Prestige is Rising | 22.00% | ~112 |
 | Smooth Service | 22.00% | ~112 |
-| Your Prestige is Rising | 21.00% | ~107 |
 | Retail Revenue | 21.00% | ~107 |
 | Don't Feel a Loan | 20.00% | ~102 |
+| People Mover | 19.00% | ~97 |
 | Artfully Done | 18.00% | ~92 |
-| People Mover | 18.00% | ~92 |
+| Leveled Up Shops | 18.00% | ~92 |
 | We Don't Need No Education | 18.00% | ~92 |
 | Lux Living | 17.00% | ~87 |
 | Tasty Profits | 17.00% | ~87 |
 | Emporium Empire | 17.00% | ~87 |
-| Leveled Up Shops | 17.00% | ~87 |
 | Get Electrified | 17.00% | ~87 |
 | Rehab Expert | 16.00% | ~81 |
 | Established Fame | 15.00% | ~76 |
-| Under One Roof | 13.00% | ~66 |
+| Under One Roof | 14.00% | ~71 |
+| Cashflow Chief | 14.00% | ~71 |
 | Starred Dining | 13.00% | ~66 |
-| Cashflow Chief | 13.00% | ~66 |
 | Smooth Operator | 11.00% | ~56 |
 | Boutique Benefits | 11.00% | ~56 |
 | Thrilled Tenants | 11.00% | ~56 |

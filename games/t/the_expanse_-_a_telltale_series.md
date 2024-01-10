@@ -5,31 +5,31 @@ Rating: 4.52 (Ranked 573)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 18.00% | ~3,377 |
-| Captain Drummer | 15.00% | ~2,814 |
-| Celebrations are in Order | 14.00% | ~2,626 |
-| The Pit and the Pirates | 13.00% | ~2,439 |
-| Martian Music | 13.00% | ~2,439 |
-| Bosmang | 13.00% | ~2,439 |
-| Impossible Objects | 13.00% | ~2,439 |
-| Drone Dodger | 12.00% | ~2,251 |
-| Stogie for Fogey | 11.00% | ~2,063 |
-| Spore Taste | 11.00% | ~2,063 |
-| Safe Cracker | 10.00% | ~471 |
-| Zen Master | 10.00% | ~471 |
-| Call it Even | 9.00% | ~1,688 |
-| Madame Undersecretary | 9.00% | ~424 |
+| Oyedang, Kopengs | 18.00% | ~3,378 |
+| Captain Drummer | 15.00% | ~2,815 |
+| Celebrations are in Order | 14.00% | ~2,627 |
+| The Pit and the Pirates | 13.00% | ~2,440 |
+| Martian Music | 13.00% | ~2,440 |
+| Bosmang | 13.00% | ~2,440 |
+| Impossible Objects | 13.00% | ~2,440 |
+| Drone Dodger | 12.00% | ~2,252 |
+| Stogie for Fogey | 11.00% | ~2,064 |
+| Spore Taste | 11.00% | ~2,064 |
+| Safe Cracker | 10.00% | ~472 |
+| Zen Master | 10.00% | ~472 |
+| Call it Even | 9.00% | ~1,689 |
+| Madame Undersecretary | 9.00% | ~425 |
 | Heal Thy Medic | 8.00% | ~1,501 |
-| Keep Arjun in Check | 8.00% | ~377 |
-| Data Archivist | 7.00% | ~1,313 |
-| Drug Gifter | 7.00% | ~1,313 |
-| Thorston Mayer | 7.00% | ~1,313 |
-| Khan's Revenge | 7.00% | ~1,313 |
+| Keep Arjun in Check | 8.00% | ~378 |
+| Data Archivist | 7.00% | ~1,314 |
+| Drug Gifter | 7.00% | ~1,314 |
+| Thorston Mayer | 7.00% | ~1,314 |
+| Khan's Revenge | 7.00% | ~1,314 |
 | Doctor Approved | 6.00% | ~1,126 |
 | Bottoms up! | 6.00% | ~1,126 |
 | Master Negotiator | 6.00% | ~283 |
-| Data Logger | 4.00% | ~750 |
-| Miraculous Maya | 4.00% | ~750 |
+| Data Logger | 4.00% | ~751 |
+| Miraculous Maya | 4.00% | ~751 |
 | Data Master | 3.00% | ~563 |
 | Brother's Reaper | 2.00% | ~375 |
 | No Belter Left Behind | 2.00% | ~375 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 573)
 | Scavenger Star | 0.30% | ~56 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,759 (Ranked 159)  
+Progressed: 18,767 (Ranked 159)  
 Completed: 61 (0.33%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 61 (0.33%) (Ranked 247)
 | 2024-01-07 | 18,579 | 60 |
 | 2024-01-08 | 18,665 | 60 |
 | 2024-01-09 | 18,754 | 61 |
-| 2024-01-10 | 18,759 | 61 |
+| 2024-01-10 | 18,767 | 61 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

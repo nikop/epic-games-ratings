@@ -10692,9 +10692,9 @@
       "Count": 1088
     }
   ],
-  "EOS_Progressed": 132320,
+  "EOS_Progressed": 132326,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 949,
+  "EOS_NewPlayers": 946,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39127,6 +39127,11 @@
       "Time": "2024-01-10T00:09:52.5619159+00:00",
       "NumProgressed": 132320,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-10T01:58:49.1598499+00:00",
+      "NumProgressed": 132326,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -39234,7 +39239,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -39242,7 +39247,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -39266,7 +39271,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7939
+      "UsersEstimate": 7940
     },
     {
       "ID": "combat_kill_cadavers",
@@ -39298,7 +39303,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7939
+      "UsersEstimate": 7940
     },
     {
       "ID": "combat_kill_fanatics",
@@ -39314,7 +39319,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "combat_kill_gaunts",
@@ -39330,7 +39335,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -39362,7 +39367,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7939
+      "UsersEstimate": 7940
     },
     {
       "ID": "combat_kill_pillagers",
@@ -39378,7 +39383,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7939
+      "UsersEstimate": 7940
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -39416,9 +39421,9 @@
       "ID": "combat_run_kill_three_lair_bosses",
       "SetID": "64l4lke",
       "Name": "Hat Trick",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1323
     },
     {
       "ID": "driving_biome_clear_cave",
@@ -39490,7 +39495,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9262
+      "UsersEstimate": 9263
     },
     {
       "ID": "hero_story_complete_all",
@@ -39554,7 +39559,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -39602,7 +39607,7 @@
       "Name": "Hot Air",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "run_victory_act03",
@@ -39610,7 +39615,7 @@
       "Name": "Eyes Up",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "run_victory_act04",
@@ -39618,7 +39623,7 @@
       "Name": "Handled",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "run_victory_act05",
@@ -39682,7 +39687,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39722,7 +39727,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -39730,7 +39735,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "quest_complete_crusader",
@@ -39738,7 +39743,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -39769,21 +39774,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132320,
+      "Progressed": 132326,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7189,
+      "Progressed": 7195,
       "Completed": 823
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-09T22:59:34.6341555+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:09:52.5619157+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:58:49.1598495+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:58:39.2384363+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:09:52.5620968+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:47:51.3422608+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:58:49.1600297+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "ad-infinitum",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -1170,9 +1170,9 @@
       "ID": "ACH_RAGE",
       "SetID": "88d7anj",
       "Name": "Rage",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_REFLECTIONS",
@@ -1209,8 +1209,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:08:34.3080009+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:57:32.2583983+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:12.9603165+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:59:03.7977884+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:08:34.3080312+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:48:17.6726042+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:57:32.2584261+00:00"
 }

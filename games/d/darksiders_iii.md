@@ -20,7 +20,7 @@ Number of Ratings: 116  (23.09.2022)
 | Five's a Crowd | 40.00% | ~210 |
 | Devil's in the Details | 39.00% | ~205 |
 | Throne Potato | 39.00% | ~205 |
-| 25 to Life | 38.00% | ~200 |
+| 25 to Life | 39.00% | ~205 |
 | Salvation | 37.00% | ~194 |
 | Unshakable Fortitude | 35.00% | ~184 |
 | Soul Harvester | 35.00% | ~184 |
@@ -43,20 +43,20 @@ Number of Ratings: 116  (23.09.2022)
 | Protector of Humanity | 18.00% | ~94 |
 | Everybody Wants to Rule the World | 18.00% | ~94 |
 | Community Outreach | 15.00% | ~79 |
+| Unbreakable Will | 14.00% | ~74 |
 | A Parting Gift | 14.00% | ~74 |
-| Unbreakable Will | 13.00% | ~68 |
 | Path of the Horseman | 13.00% | ~68 |
+| Demon Keeper | 12.00% | ~63 |
 | Take it to the Limit | 12.00% | ~63 |
 | Holy Keeper | 11.00% | ~58 |
-| Demon Keeper | 11.00% | ~58 |
+| Soul Reaper | 9.00% | ~47 |
 | Humanitarian | 9.00% | ~47 |
-| Soul Reaper | 8.00% | ~42 |
 | My Evil Twin | 6.00% | ~32 |
 | Made of Sterner Stuff | 6.00% | ~32 |
+| Purity of Power | 5.00% | ~26 |
 | Balance in all things | 5.00% | ~26 |
 | Keeper of the Bonfire | 5.00% | ~26 |
 | Keeper of the Sky | 5.00% | ~26 |
-| Purity of Power | 4.00% | ~21 |
 | "Impressive!" | 4.00% | ~21 |
 | Keeper of the Vale | 4.00% | ~21 |
 | Keeper of the Tempo | 4.00% | ~21 |

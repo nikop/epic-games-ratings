@@ -17,8 +17,8 @@ Number of Ratings: 292  (23.09.2022)
 | Sorcerous Spree | 9.00% | ~100 |
 | Master | 8.00% | ~89 |
 | Landlord Extraordinaire | 7.00% | ~78 |
+| The Song of Stoutheart | 6.00% | ~67 |
 | Whoops! | 6.00% | ~67 |
-| The Song of Stoutheart | 5.00% | ~56 |
 | Don't Touch My Stuff | 5.00% | ~56 |
 | Trojan Horse | 5.00% | ~56 |
 | Ultra Kill | 3.00% | ~33 |
@@ -34,10 +34,10 @@ Number of Ratings: 292  (23.09.2022)
 | Grand Master | 1.00% | ~11 |
 | Versatile Wielder | 0.90% | ~10 |
 | Together For Her | 0.90% | ~10 |
+| Unlimited Power! | 0.60% | ~7 |
 | Killing Spree | 0.60% | ~7 |
 | Cleave | 0.60% | ~7 |
 | Death To Diplomacy | 0.50% | ~6 |
-| Unlimited Power! | 0.50% | ~6 |
 | Attack Bonanza | 0.40% | ~4 |
 | Coming Through! | 0.40% | ~4 |
 | Barbecue | 0.40% | ~4 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,112 (Ranked 287)  
+Progressed: 1,113 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 1,067 | 0 |
 | 2024-01-08 | 1,089 | 0 |
 | 2024-01-09 | 1,111 | 0 |
-| 2024-01-10 | 1,112 | 0 |
+| 2024-01-10 | 1,113 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 522)  
 Sum: 252 (Ranked 398)  

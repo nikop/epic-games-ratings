@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1289,
+  "EOS_Progressed": 1290,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -3863,6 +3863,11 @@
       "Time": "2024-01-09T22:10:25.1494579+00:00",
       "NumProgressed": 1289,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-10T01:59:09.042745+00:00",
+      "NumProgressed": 1290,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3882,7 +3887,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3970,7 +3975,7 @@
       "Name": "Family Memories",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "FactorywoodChests1",
@@ -3994,7 +3999,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -4026,7 +4031,7 @@
       "Name": "Whiz Kid",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "GrindingTime1",
@@ -4138,7 +4143,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -4146,7 +4151,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "PidgeDefeated",
@@ -4256,9 +4261,9 @@
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 335
     },
     {
       "ID": "WatcherFought",
@@ -4274,7 +4279,7 @@
       "Name": "Good Neighbor",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "Zarkon1Defeated",
@@ -4297,7 +4302,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1289,
+      "Progressed": 1290,
       "Completed": 7
     }
   ],
@@ -4305,8 +4310,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:10:12.7114205+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:59:09.0427447+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:59:15.1703054+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:10:12.7114794+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:48:28.7513223+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:59:09.0428233+00:00"
 }

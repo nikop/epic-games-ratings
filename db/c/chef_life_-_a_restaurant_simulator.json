@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1010,
+  "EOS_Progressed": 1011,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4337,6 +4337,11 @@
       "Time": "2024-01-09T21:09:46.2813152+00:00",
       "NumProgressed": 1010,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T01:58:44.8097913+00:00",
+      "NumProgressed": 1011,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4396,7 +4401,7 @@
       "Name": "French Flair",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -4524,7 +4529,7 @@
       "Name": "The Big Day",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "Packing20",
@@ -4548,7 +4553,7 @@
       "Name": "Home Cook",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "RecipeDifferent30",
@@ -4667,7 +4672,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 1010,
+      "Progressed": 1011,
       "Completed": 0
     }
   ],
@@ -4675,8 +4680,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2024-01-05T14:58:53.6267944+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:09:48.106304+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:58:44.809791+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2362119+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:57:07.777483+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:09:48.106345+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:46:20.7510901+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:58:44.809833+00:00"
 }

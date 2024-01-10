@@ -2,9 +2,9 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 413,
+  "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 262,
+  "EOS_Progressed": 264,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1179,6 +1179,11 @@
       "Time": "2024-01-09T16:09:44.376089+00:00",
       "NumProgressed": 262,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T01:58:06.580945+00:00",
+      "NumProgressed": 264,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1199,7 +1204,7 @@
       "Name": "Across The Styx",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -1207,7 +1212,7 @@
       "Name": "Against All Odds",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "SG_ALLTHEHELPYOUNEED",
@@ -1223,7 +1228,7 @@
       "Name": "Arrow Of Eros Undone",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_BRANDNEWCHORUS",
@@ -1261,9 +1266,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 190
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1295,7 +1300,7 @@
       "Name": "Heartbreaker",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
@@ -1333,9 +1338,9 @@
       "ID": "SG_MYTIMETOSHINE",
       "SetID": "bj5g0n4",
       "Name": "My Time To Shine",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "SG_NOTALOSTGIRL",
@@ -1343,7 +1348,7 @@
       "Name": "Not A Lost Girl",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1399,7 +1404,7 @@
       "Name": "The Answer Is You",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_THECHOICEISYOURS",
@@ -1486,14 +1491,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 262,
+      "Progressed": 264,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:09:08.9247971+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:58:06.5809446+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:59:34.4033227+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:09:08.9248258+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:48:47.6206556+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:58:06.5809761+00:00"
 }

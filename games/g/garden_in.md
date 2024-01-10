@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taking Notes | 4.00% | ~9 |
+| Taking Notes | 5.00% | ~11 |
+| A Greener Day | 4.00% | ~9 |
+| Dry No More | 4.00% | ~9 |
+| Leave My Baby Alone! | 4.00% | ~9 |
+| The Mendel Experiment | 4.00% | ~9 |
 | Time for Renovations | 4.00% | ~9 |
-| A Greener Day | 3.00% | ~6 |
-| A Sad Moment | 3.00% | ~6 |
-| Dry No More | 3.00% | ~6 |
-| Leave My Baby Alone! | 3.00% | ~6 |
-| Research Complete | 3.00% | ~6 |
-| Room Revealer | 3.00% | ~6 |
-| Seed of Love | 3.00% | ~6 |
-| The Mendel Experiment | 3.00% | ~6 |
-| Who's a Good Plant? | 3.00% | ~6 |
+| A Sad Moment | 3.00% | ~7 |
+| Research Complete | 3.00% | ~7 |
+| Room Revealer | 3.00% | ~7 |
+| Seed of Love | 3.00% | ~7 |
+| Who's a Good Plant? | 3.00% | ~7 |
 | Budding Scientist | 2.00% | ~4 |
 | Hands in the Dirt | 2.00% | ~4 |
 | Lab-Room | 2.00% | ~4 |
@@ -36,7 +36,7 @@
 | Love and Science | 0.90% | ~2 |
 | Perfectionist | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216 (Ranked 425)  
+Progressed: 217 (Ranked 425)  
 Completed: 1 (0.46%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,6 +104,7 @@ Completed: 1 (0.46%) (Ranked 227)
 | 2024-01-04 | 213 | 1 |
 | 2024-01-06 | 215 | 1 |
 | 2024-01-08 | 216 | 1 |
+| 2024-01-10 | 217 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

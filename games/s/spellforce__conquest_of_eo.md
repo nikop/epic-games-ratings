@@ -62,10 +62,10 @@
 | Defeat Undergast | 5.00% | ~7 |
 | Defeat Yria | 5.00% | ~7 |
 | Lytra's Tale | 5.00% | ~7 |
+| Misty Coast Dragonbones | 5.00% | ~7 |
 | My Friends! | 5.00% | ~7 |
 | Master Necromancer | 5.00% | ~7 |
 | Defeat Isgrimm | 4.00% | ~5 |
-| Misty Coast Dragonbones | 4.00% | ~5 |
 | Breaking the circle | 4.00% | ~5 |
 | Defeat Rohen | 3.00% | ~4 |
 | Master Alchemist | 3.00% | ~4 |

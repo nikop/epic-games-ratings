@@ -456,7 +456,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1112,
+  "EOS_Progressed": 1113,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
@@ -3876,6 +3876,11 @@
       "Time": "2024-01-10T00:09:19.5775671+00:00",
       "NumProgressed": 1112,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T01:58:16.9454955+00:00",
+      "NumProgressed": 1113,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3894,9 +3899,9 @@
       "ID": "ArleonCampaign",
       "SetID": "71c0n9i",
       "Name": "The Song of Stoutheart",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 67
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -3966,9 +3971,9 @@
       "ID": "ChainLightningKills",
       "SetID": "71c0n9i",
       "Name": "Unlimited Power!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ChargerCount",
@@ -4319,15 +4324,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1112,
+      "Progressed": 1113,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-08T22:01:52.5110389+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:09:19.5775666+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:58:16.9454946+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:57:08.2683976+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:09:19.5776463+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:46:21.2647325+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:58:16.9455457+00:00"
 }

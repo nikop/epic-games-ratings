@@ -3,8 +3,8 @@
   "Name": "AXIOM VERGE",
   "ProductSlug": "axiom-verge",
   "Ranking_Rating": 526,
-  "Ranking_Popularity": 461,
-  "Ranking_PopularitySum": 515,
+  "Ranking_Popularity": 460,
+  "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 823,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 576,
@@ -404,18 +404,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 48,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2024-01-10T01:49:06.5356761+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 49,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48,
-  "NumberOfAwardsMax": 48,
+  "NumberOfAwards": 49,
+  "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 48
+      "Count": 49
     }
   ],
   "EOS_Progressed": 0,
@@ -429,8 +435,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:58.5809404+00:00",
-  "LastChanged": "2023-12-15T19:02:38.9254433+00:00",
+  "LastChanged": "2024-01-10T01:49:06.535676+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:08.9641547+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:59:52.5786624+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:05:33.9734677+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:49:06.5356763+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:54:34.03218+00:00"
 }

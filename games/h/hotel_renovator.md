@@ -5,35 +5,35 @@ Rating: 4.35 (Ranked 827)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~1,100 |
-| And so it begins | 72.00% | ~1,042 |
-| No pressure | 69.00% | ~998 |
+| Good start | 75.00% | ~1,086 |
+| And so it begins | 72.00% | ~1,043 |
+| No pressure | 69.00% | ~999 |
 | Memento | 59.00% | ~854 |
-| Let there be light | 56.00% | ~810 |
-| I think you dropped this | 52.00% | ~752 |
+| Let there be light | 56.00% | ~811 |
+| I think you dropped this | 52.00% | ~753 |
 | Soulmate? | 51.00% | ~738 |
-| Excellent service | 47.00% | ~680 |
+| Excellent service | 47.00% | ~681 |
 | Roll with it | 44.00% | ~637 |
 | Humble beginnings | 42.00% | ~608 |
-| Love is in the air | 41.00% | ~593 |
-| Fine, I'll do it myself | 39.00% | ~564 |
-| Moving up | 39.00% | ~564 |
-| No need to call anyone | 37.00% | ~535 |
+| Love is in the air | 41.00% | ~594 |
+| Fine, I'll do it myself | 39.00% | ~565 |
+| Moving up | 39.00% | ~565 |
+| No need to call anyone | 37.00% | ~536 |
 | Big fortune | 31.00% | ~449 |
 | Still more work ahead | 28.00% | ~405 |
 | Kaboom | 26.00% | ~376 |
 | Aesop's fable | 26.00% | ~376 |
 | Hotel sleuthing | 26.00% | ~376 |
-| Nearly there | 24.00% | ~347 |
-| Broken heart | 22.00% | ~318 |
+| Nearly there | 24.00% | ~348 |
+| Broken heart | 22.00% | ~319 |
 | Island boy | 21.00% | ~304 |
 | You're a star | 19.00% | ~275 |
-| Reunited | 18.00% | ~260 |
+| Reunited | 18.00% | ~261 |
 | Unstoppable | 17.00% | ~246 |
 | King of hospitality | 11.00% | ~159 |
 | Top spot in town | 2.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,447 (Ranked 269)  
+Progressed: 1,448 (Ranked 269)  
 Completed: 18 (1.24%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 18 (1.24%) (Ranked 159)
 | 2024-01-07 | 1,432 | 18 |
 | 2024-01-08 | 1,436 | 18 |
 | 2024-01-09 | 1,446 | 18 |
-| 2024-01-10 | 1,447 | 18 |
+| 2024-01-10 | 1,448 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -8101,9 +8101,9 @@
       "Count": 3820
     }
   ],
-  "EOS_Progressed": 150494,
+  "EOS_Progressed": 150501,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 1405,
+  "EOS_NewPlayers": 1399,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36061,6 +36061,11 @@
       "Time": "2024-01-10T00:08:47.9860666+00:00",
       "NumProgressed": 150494,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2024-01-10T01:57:46.135252+00:00",
+      "NumProgressed": 150501,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 112,
@@ -36240,7 +36245,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16554
+      "UsersEstimate": 16555
     },
     {
       "ID": "chest02",
@@ -36296,7 +36301,7 @@
       "Name": "Ultimate Collector",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "commonres01",
@@ -36304,7 +36309,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15049
+      "UsersEstimate": 15050
     },
     {
       "ID": "commonres02",
@@ -36368,7 +36373,7 @@
       "Name": "Oligarch Monarch",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "damage01",
@@ -36416,7 +36421,7 @@
       "Name": "Unleashed Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "energy01",
@@ -36544,7 +36549,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 13544
+      "UsersEstimate": 13545
     },
     {
       "ID": "gold02",
@@ -36640,7 +36645,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "legenchant01",
@@ -36680,7 +36685,7 @@
       "Name": "Merchant Extraordinaire",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "lilu_a",
@@ -36760,7 +36765,7 @@
       "Name": "The Greatest Grind",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1355
     },
     {
       "ID": "masterpiece",
@@ -36832,7 +36837,7 @@
       "Name": "Marvels from the World Over",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1355
     },
     {
       "ID": "rudo_a",
@@ -36888,7 +36893,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16554
+      "UsersEstimate": 16555
     },
     {
       "ID": "twinenchant01",
@@ -36967,15 +36972,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 150494,
+      "Progressed": 150501,
       "Completed": 345
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-09T12:03:26.2086123+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:08:47.9860662+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:57:46.1352518+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.0260329+00:00",
-  "LastUpdate_Ratings": "2024-01-10T00:03:19.8307502+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:08:47.9862998+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:52:20.825926+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:57:46.1354821+00:00"
 }

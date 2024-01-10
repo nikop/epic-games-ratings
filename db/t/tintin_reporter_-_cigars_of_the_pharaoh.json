@@ -4,7 +4,7 @@
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 365,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
@@ -662,9 +662,9 @@
       "ID": "Achievement15",
       "SetID": "9fa3l5n",
       "Name": "Just a Palm Tree",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Achievement16",
@@ -917,8 +917,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:05:40.1516852+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:54:40.0490748+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.5995051+00:00",
-  "LastUpdate_Ratings": "2024-01-10T00:00:11.8570681+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:05:40.151724+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:49:25.151329+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:54:40.0490996+00:00"
 }

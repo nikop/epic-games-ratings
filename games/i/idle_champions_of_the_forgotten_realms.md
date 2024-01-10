@@ -6,12 +6,12 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,122 |
+| A Brief Tour of the Realms | 4.00% | ~10,123 |
 | The Cursed Farmer | 2.00% | ~5,061 |
-| Beast Intentions | 1.00% | ~2,530 |
-| The Mad Wizard | 1.00% | ~2,530 |
-| The Ring of Regeneration | 0.90% | ~2,277 |
-| Are Ya Chicken? | 0.80% | ~2,024 |
+| Beast Intentions | 1.00% | ~2,531 |
+| The Mad Wizard | 1.00% | ~2,531 |
+| The Ring of Regeneration | 0.90% | ~2,278 |
+| Are Ya Chicken? | 0.80% | ~2,025 |
 | Welcome to Sigil | 0.80% | ~1,755 |
 | Were-verpowered | 0.70% | ~1,771 |
 | Seeking Allies | 0.70% | ~1,771 |
@@ -54,6 +54,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wisdom Check | 0.20% | ~506 |
 | The Mists of Ravenloft | 0.20% | ~506 |
 | Invisible Shadows | 0.20% | ~506 |
+| Family Entanglements | 0.20% | ~506 |
 | The Dinner Party | 0.20% | ~506 |
 | The Botched Kidnapping | 0.20% | ~506 |
 | Trollskull Manor | 0.20% | ~506 |
@@ -62,6 +63,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Cities | 0.20% | ~506 |
 | The Dead Three | 0.20% | ~506 |
 | Flying Monkey Skulls of Doom | 0.20% | ~506 |
+| Dinosaur Racing | 0.20% | ~506 |
 | Close Escort | 0.20% | ~506 |
 | Constant Banditry | 0.20% | ~506 |
 | Lost in the Deep | 0.20% | ~506 |
@@ -224,7 +226,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Hunt for Owl-y | 0.10% | ~253 |
 | Werewolves in the Mist | 0.10% | ~253 |
 | We're not in Faerûn Anymore | 0.10% | ~253 |
-| Family Entanglements | 0.10% | ~253 |
 | Haunted Fortunes | 0.10% | ~253 |
 | Poor Fortune | 0.10% | ~253 |
 | Relentless Misfortune | 0.10% | ~253 |
@@ -352,7 +353,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Twilight Grove | 0.10% | ~253 |
 | The Nimble Grove | 0.10% | ~253 |
 | The Misty Grove | 0.10% | ~219 |
-| Dinosaur Racing | 0.10% | ~253 |
 | Elturel Has Fallen | 0.10% | ~253 |
 | Everything is Awful | 0.10% | ~253 |
 | Earthquake! | 0.10% | ~219 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,050 (Ranked 70)  
-Completed: 2,607 (1.03%) (Ranked 174)  
+Progressed: 253,071 (Ranked 70)  
+Completed: 2,608 (1.03%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -818,7 +818,7 @@ Completed: 2,607 (1.03%) (Ranked 174)
 | 2024-01-07 | 252,516 | 2,599 |
 | 2024-01-08 | 252,794 | 2,602 |
 | 2024-01-09 | 253,044 | 2,606 |
-| 2024-01-10 | 253,050 | 2,607 |
+| 2024-01-10 | 253,071 | 2,608 |
 ## Awards
 Max (Great for Beginners): 5,768  (Ranked 74)  
 Sum: 33,417 (Ranked 41)  

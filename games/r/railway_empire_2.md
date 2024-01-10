@@ -6,36 +6,36 @@ Rating: 4.39 (Ranked 777)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 77.00% | ~2,061 |
-| A new Journey | 75.00% | ~2,007 |
-| From X to Y | 74.00% | ~1,980 |
-| Departure | 74.00% | ~1,980 |
-| Way of Iron | 71.00% | ~1,900 |
-| Mystery Tour | 70.00% | ~1,873 |
+| A new Journey | 75.00% | ~2,008 |
+| From X to Y | 74.00% | ~1,981 |
+| Departure | 74.00% | ~1,981 |
+| Way of Iron | 71.00% | ~1,901 |
+| Mystery Tour | 70.00% | ~1,874 |
 | We brake for nobody | 68.00% | ~1,820 |
-| Brainstorm | 67.00% | ~1,793 |
-| Mind the Gap | 66.00% | ~1,766 |
-| Travel Company | 66.00% | ~1,766 |
-| All around the World | 63.00% | ~1,686 |
+| Brainstorm | 67.00% | ~1,794 |
+| Mind the Gap | 66.00% | ~1,767 |
+| Travel Company | 66.00% | ~1,767 |
+| All around the World | 64.00% | ~1,713 |
 | Right through the middle | 59.00% | ~1,579 |
-| Facility Manager | 54.00% | ~1,445 |
-| Poor Devil | 54.00% | ~1,445 |
+| Facility Manager | 54.00% | ~1,446 |
+| Poor Devil | 54.00% | ~1,446 |
 | Producer | 51.00% | ~1,365 |
 | Bridge Builder | 43.00% | ~1,151 |
 | Apprentice | 42.00% | ~1,124 |
 | Going once, going twice, sold | 37.00% | ~990 |
-| Access granted | 36.00% | ~963 |
+| Access granted | 36.00% | ~964 |
 | Bull and bear | 35.00% | ~937 |
 | Stoker | 34.00% | ~910 |
 | Full Steam ahead | 33.00% | ~883 |
-| All mine | 32.00% | ~856 |
-| Financial Shark | 32.00% | ~856 |
+| Financial Shark | 32.00% | ~857 |
+| All mine | 31.00% | ~830 |
 | Mole | 31.00% | ~830 |
 | General Manager | 29.00% | ~776 |
 | Country Life | 29.00% | ~776 |
-| Socializer | 28.00% | ~749 |
+| Socializer | 28.00% | ~750 |
 | Hostile Takeover | 26.00% | ~696 |
 | Seven at one stroke | 25.00% | ~669 |
-| Breaking Ground | 23.00% | ~615 |
+| Breaking Ground | 23.00% | ~616 |
 | Trailblazer | 22.00% | ~589 |
 | Traffic Junction | 22.00% | ~589 |
 | Traffic Jam | 20.00% | ~535 |
@@ -43,7 +43,7 @@ Rating: 4.39 (Ranked 777)
 | Networker | 17.00% | ~455 |
 | Bold and beautiful | 16.00% | ~428 |
 | Settler | 16.00% | ~428 |
-| Assimilated | 15.00% | ~401 |
+| Assimilated | 15.00% | ~402 |
 | Go West | 14.00% | ~375 |
 | Max Power | 14.00% | ~375 |
 | Locusts | 13.00% | ~348 |
@@ -61,7 +61,7 @@ Rating: 4.39 (Ranked 777)
 | European Union | 0.60% | ~16 |
 | Together we stand | 0.50% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,676 (Ranked 233)  
+Progressed: 2,677 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,6 +298,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 2,657 | 0 |
 | 2024-01-08 | 2,671 | 0 |
 | 2024-01-09 | 2,676 | 0 |
+| 2024-01-10 | 2,677 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

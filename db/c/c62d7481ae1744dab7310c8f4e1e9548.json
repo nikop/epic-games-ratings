@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 73,
   "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -1171,9 +1171,9 @@
       "ID": "KrabiPyramida",
       "SetID": "ag48e8e",
       "Name": "Crab Pyramid",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "Kudla",
@@ -1275,9 +1275,9 @@
       "ID": "Sputnik2",
       "SetID": "ag48e8e",
       "Name": "Sputnik",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "Stonozka",
@@ -1346,8 +1346,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:04:34.3392539+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:53:34.8490866+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:05.0455932+00:00",
-  "LastUpdate_Ratings": "2024-01-10T00:03:06.4154336+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:04:34.3392832+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:52:07.249437+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:53:34.8491053+00:00"
 }

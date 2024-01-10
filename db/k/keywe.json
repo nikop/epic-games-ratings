@@ -811,9 +811,9 @@
       "ID": "findFirstCollectible",
       "SetID": "cfe0fhi",
       "Name": "A Startling Discovery",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "getABonusReward",
@@ -890,8 +890,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2024-01-10T00:06:23.2329639+00:00",
+  "LastChanged_Achievements": "2024-01-10T01:55:22.3882581+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.6179854+00:00",
-  "LastUpdate_Ratings": "2024-01-09T23:58:49.1599311+00:00",
-  "LastUpdate_Achievements": "2024-01-10T00:06:23.2329832+00:00"
+  "LastUpdate_Ratings": "2024-01-10T01:48:03.4429109+00:00",
+  "LastUpdate_Achievements": "2024-01-10T01:55:22.3882711+00:00"
 }
