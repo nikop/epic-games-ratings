@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 366,
-  "Ranking_EOS_Completed": 267,
+  "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
@@ -76,11 +76,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 425,
+  "EOS_Progressed": 426,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.24,
+  "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:50.9590463+00:00",
@@ -731,6 +731,11 @@
       "Time": "2024-01-10T16:11:05.3753135+00:00",
       "NumProgressed": 425,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T21:09:59.6575547+00:00",
+      "NumProgressed": 426,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -918,7 +923,7 @@
       "Name": "Cartographer",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ach-discover-locations-high",
@@ -942,7 +947,7 @@
       "Name": "Fire and Flood",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ach-find-treasure",
@@ -966,7 +971,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ach-hardExpeditions",
@@ -982,7 +987,7 @@
       "Name": "It\u0027s Complicated",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach-joinClubChallenge",
@@ -1078,7 +1083,7 @@
       "Name": "Look Ma, No Equipment!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach-noRest",
@@ -1086,7 +1091,7 @@
       "Name": "Insomnia",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ach-pacifist-goals",
@@ -1158,7 +1163,7 @@
       "Name": "Plunderer",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ach-salamanderPrince",
@@ -1188,9 +1193,9 @@
       "ID": "ach-treasureFameInExpedition",
       "SetID": "17ih7ma",
       "Name": "Treasure Hunt",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 149
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -1221,7 +1226,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 425,
+      "Progressed": 426,
       "Completed": 1
     }
   ],
@@ -1229,8 +1234,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-10T20:10:22.7326925+00:00",
+  "LastChanged_Achievements": "2024-01-10T21:09:59.6575542+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:11.9345433+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:59:57.5649248+00:00",
-  "LastUpdate_Achievements": "2024-01-10T20:10:22.7327416+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:59:40.869844+00:00",
+  "LastUpdate_Achievements": "2024-01-10T21:09:59.6576282+00:00"
 }

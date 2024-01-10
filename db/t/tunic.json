@@ -2,7 +2,7 @@
   "ID": "b6faa05b8b594ec39944ff71dbdfdfc1",
   "Name": "TUNIC",
   "ProductSlug": "tunic",
-  "Ranking_Rating": 57,
+  "Ranking_Rating": 56,
   "Ranking_Popularity": 496,
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 825,
@@ -261,6 +261,6 @@
   "FirstSeen": "2022-07-22T20:27:39.6224803+00:00",
   "LastChanged": "2024-01-10T03:58:00.7403281+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.3272818+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:58:23.8735568+00:00",
-  "LastUpdate_Achievements": "2024-01-10T20:10:01.4086514+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:58:10.6653483+00:00",
+  "LastUpdate_Achievements": "2024-01-10T21:09:39.1876688+00:00"
 }

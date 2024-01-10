@@ -29,8 +29,8 @@
 | We Are a Family | 10.00% | ~60 |
 | For a Better Tomorrow | 4.00% | ~24 |
 | Mother Love | 4.00% | ~24 |
+| Omnivore | 2.00% | ~12 |
 | Easter Egg | 2.00% | ~12 |
-| Omnivore | 1.00% | ~6 |
 | Endling | 0.80% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 597 (Ranked 340)  

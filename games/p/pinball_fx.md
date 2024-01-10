@@ -9,7 +9,7 @@ Number of Ratings: 756  (23.09.2022)
 | Ball Launched | 3.00% | ~8,815 |
 | I Found it! | 1.00% | ~2,938 |
 | Ready Steady Score | 0.50% | ~1,469 |
-| First but not Last | 0.30% | ~881 |
+| First but not Last | 0.30% | ~882 |
 | Full Loot Madness | 0.20% | ~588 |
 | Contender | 0.10% | ~294 |
 | My Table, my Rules | 0.10% | ~294 |
@@ -46,7 +46,7 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 293,829 (Ranked 63)  
+Progressed: 293,841 (Ranked 63)  
 Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,14 +311,14 @@ Completed: 0 (0.00%) (Ranked 396)
 | 2024-01-07 | 292,915 | 0 |
 | 2024-01-08 | 293,289 | 0 |
 | 2024-01-09 | 293,605 | 0 |
-| 2024-01-10 | 293,829 | 0 |
+| 2024-01-10 | 293,841 | 0 |
 ## Awards
-Max (Great for Beginners): 213  (Ranked 294)  
-Sum: 1,647 (Ranked 234)  
+Max (Great for Beginners): 214  (Ranked 294)  
+Sum: 1,648 (Ranked 234)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 213 |
+| This game is Great for Beginners | 214 |
 | This game is Great for Quick Sessions | 199 |
 | This game is Relaxing | 169 |
 | This game has Quickly Understood Controls | 168 |
@@ -547,4 +547,4 @@ Diff (max vs sum): 60
 | 2024-01-06 | 4.07 | - | 213 | 1,637 |
 | 2024-01-07 | 4.07 | - | 213 | 1,641 |
 | 2024-01-08 | 4.07 | - | 213 | 1,646 |
-| 2024-01-10 | 4.07 | - | 213 | 1,647 |
+| 2024-01-10 | 4.07 | - | 214 | 1,648 |

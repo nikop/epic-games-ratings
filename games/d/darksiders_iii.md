@@ -17,10 +17,10 @@ Number of Ratings: 116  (23.09.2022)
 | All That Glitters | 45.00% | ~244 |
 | Enhance! | 42.00% | ~228 |
 | One Of the Chosen | 40.00% | ~217 |
+| Five's a Crowd | 40.00% | ~217 |
 | Devil's in the Details | 39.00% | ~211 |
 | Throne Potato | 39.00% | ~211 |
-| Five's a Crowd | 39.00% | ~211 |
-| 25 to Life | 38.00% | ~206 |
+| 25 to Life | 39.00% | ~211 |
 | Salvation | 37.00% | ~201 |
 | Unshakable Fortitude | 35.00% | ~190 |
 | Soul Harvester | 35.00% | ~190 |
@@ -28,7 +28,7 @@ Number of Ratings: 116  (23.09.2022)
 | I Wanna Rock | 33.00% | ~179 |
 | Love Tap | 33.00% | ~179 |
 | Maximum Vigor | 31.00% | ~168 |
-| Freeze Frame | 29.00% | ~157 |
+| Freeze Frame | 30.00% | ~163 |
 | Eat Your Heart Out | 29.00% | ~157 |
 | For Whom the Bell Tolls | 29.00% | ~157 |
 | Unyielding Strength | 26.00% | ~141 |
@@ -47,8 +47,8 @@ Number of Ratings: 116  (23.09.2022)
 | Path of the Horseman | 14.00% | ~76 |
 | Unbreakable Will | 13.00% | ~70 |
 | Take it to the Limit | 13.00% | ~70 |
+| Holy Keeper | 12.00% | ~65 |
 | Demon Keeper | 12.00% | ~65 |
-| Holy Keeper | 11.00% | ~60 |
 | Humanitarian | 9.00% | ~49 |
 | Soul Reaper | 8.00% | ~43 |
 | My Evil Twin | 6.00% | ~33 |

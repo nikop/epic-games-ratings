@@ -631,9 +631,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 47022,
+  "EOS_Progressed": 47027,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 785,
+  "EOS_NewPlayers": 781,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18381,6 +18381,11 @@
       "Time": "2024-01-10T20:06:08.7494828+00:00",
       "NumProgressed": 47022,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-10T21:05:39.9190288+00:00",
+      "NumProgressed": 47027,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18440,7 +18445,7 @@
       "Name": "Attachments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6113
+      "UsersEstimate": 6114
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -18464,7 +18469,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -18472,7 +18477,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -18480,7 +18485,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -18488,7 +18493,7 @@
       "Name": "The Hue of Blue",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "CHAPTER_08_CLEAR",
@@ -18552,7 +18557,7 @@
       "Name": "No Mercy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -18592,7 +18597,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -18608,7 +18613,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -18640,7 +18645,7 @@
       "Name": "Shocker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -18664,7 +18669,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "MONUMENT_ALL",
@@ -18728,7 +18733,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5172
+      "UsersEstimate": 5173
     },
     {
       "ID": "SPRING_ALL",
@@ -18815,22 +18820,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47022,
+      "Progressed": 47027,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11859,
-      "Completed": 11859
+      "Progressed": 11864,
+      "Completed": 11864
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-09T14:02:53.1133514+00:00",
-  "LastChanged_Achievements": "2024-01-10T20:06:08.7494825+00:00",
+  "LastChanged_Achievements": "2024-01-10T21:05:39.9190284+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:03:21.2348032+00:00",
-  "LastUpdate_Achievements": "2024-01-10T20:06:08.7496261+00:00"
+  "LastUpdate_Ratings": "2024-01-10T21:02:54.7603343+00:00",
+  "LastUpdate_Achievements": "2024-01-10T21:05:39.9191466+00:00"
 }

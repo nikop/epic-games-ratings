@@ -25,7 +25,7 @@ Number of Ratings: 90  (23.09.2022)
 | The Irony of Fate, or Enjoy Your Tunguska! | 13.00% | ~52 |
 | Fly Me to the Moon Base | 11.00% | ~44 |
 | Kaijuiced | 11.00% | ~44 |
-| Dusted | 10.00% | ~40 |
+| Dusted | 11.00% | ~44 |
 | Scuttled | 9.00% | ~36 |
 | Lobster Blisque | 7.00% | ~28 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~28 |

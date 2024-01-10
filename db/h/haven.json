@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1954,
+  "EOS_Progressed": 1956,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -3559,6 +3559,11 @@
       "Time": "2024-01-10T20:04:38.3880561+00:00",
       "NumProgressed": 1954,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-10T21:04:11.989728+00:00",
+      "NumProgressed": 1956,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3570,7 +3575,7 @@
       "Name": "Lovebirds",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "10",
@@ -3592,9 +3597,9 @@
       "ID": "12",
       "SetID": "n50no0",
       "Name": "Shake the rust off their feet",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 352
+      "UsersEstimate": 333
     },
     {
       "ID": "13",
@@ -3618,7 +3623,7 @@
       "Name": "Back to rust",
       "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "16",
@@ -3634,7 +3639,7 @@
       "Name": "Balding bloot!",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "18",
@@ -3642,7 +3647,7 @@
       "Name": "Like new!",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "19",
@@ -3658,7 +3663,7 @@
       "Name": "Flower Powered",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "20",
@@ -3666,7 +3671,7 @@
       "Name": "Don\u0027t look back",
       "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "21",
@@ -3730,7 +3735,7 @@
       "Name": "Hug therapy",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "30",
@@ -3762,7 +3767,7 @@
       "Name": "Head in the clouds",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "5",
@@ -3792,9 +3797,9 @@
       "ID": "8",
       "SetID": "n50no0",
       "Name": "Over my dead body",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 664
+      "UsersEstimate": 645
     },
     {
       "ID": "9",
@@ -3809,15 +3814,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1954,
+      "Progressed": 1956,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-10T20:04:38.3880556+00:00",
+  "LastChanged_Achievements": "2024-01-10T21:04:11.9897276+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.2496519+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:59:25.3256104+00:00",
-  "LastUpdate_Achievements": "2024-01-10T20:04:38.3881002+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:59:10.1421916+00:00",
+  "LastUpdate_Achievements": "2024-01-10T21:04:11.9897694+00:00"
 }

@@ -5,29 +5,29 @@ Rating: 4.52 (Ranked 574)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 18.00% | ~3,387 |
+| Oyedang, Kopengs | 18.00% | ~3,388 |
 | Captain Drummer | 15.00% | ~2,823 |
 | Celebrations are in Order | 14.00% | ~2,635 |
-| The Pit and the Pirates | 13.00% | ~2,446 |
-| Martian Music | 13.00% | ~2,446 |
-| Bosmang | 13.00% | ~2,446 |
-| Impossible Objects | 13.00% | ~2,446 |
-| Spore Taste | 12.00% | ~2,258 |
-| Drone Dodger | 12.00% | ~2,258 |
+| The Pit and the Pirates | 13.00% | ~2,447 |
+| Martian Music | 13.00% | ~2,447 |
+| Bosmang | 13.00% | ~2,447 |
+| Impossible Objects | 13.00% | ~2,447 |
+| Spore Taste | 12.00% | ~2,259 |
+| Drone Dodger | 12.00% | ~2,259 |
 | Stogie for Fogey | 11.00% | ~2,070 |
-| Safe Cracker | 10.00% | ~477 |
-| Zen Master | 10.00% | ~477 |
+| Safe Cracker | 10.00% | ~478 |
+| Zen Master | 10.00% | ~478 |
 | Call it Even | 9.00% | ~1,694 |
-| Madame Undersecretary | 9.00% | ~429 |
-| Heal Thy Medic | 8.00% | ~1,505 |
+| Madame Undersecretary | 9.00% | ~430 |
+| Heal Thy Medic | 8.00% | ~1,506 |
 | Keep Arjun in Check | 8.00% | ~382 |
-| Data Archivist | 7.00% | ~1,317 |
-| Drug Gifter | 7.00% | ~1,317 |
-| Thorston Mayer | 7.00% | ~1,317 |
-| Khan's Revenge | 7.00% | ~1,317 |
+| Data Archivist | 7.00% | ~1,318 |
+| Drug Gifter | 7.00% | ~1,318 |
+| Thorston Mayer | 7.00% | ~1,318 |
+| Khan's Revenge | 7.00% | ~1,318 |
 | Doctor Approved | 6.00% | ~1,129 |
 | Bottoms up! | 6.00% | ~1,129 |
-| Master Negotiator | 6.00% | ~286 |
+| Master Negotiator | 6.00% | ~287 |
 | Data Logger | 4.00% | ~753 |
 | Miraculous Maya | 4.00% | ~753 |
 | Data Master | 3.00% | ~565 |
@@ -41,8 +41,8 @@ Rating: 4.52 (Ranked 574)
 | Scavenger Star | 0.30% | ~56 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,818 (Ranked 159)  
-Completed: 61 (0.32%) (Ranked 250)  
+Progressed: 18,822 (Ranked 159)  
+Completed: 62 (0.33%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -213,7 +213,7 @@ Completed: 61 (0.32%) (Ranked 250)
 | 2024-01-07 | 18,579 | 60 |
 | 2024-01-08 | 18,665 | 60 |
 | 2024-01-09 | 18,754 | 61 |
-| 2024-01-10 | 18,818 | 61 |
+| 2024-01-10 | 18,822 | 62 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

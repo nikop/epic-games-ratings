@@ -7,16 +7,16 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 27.00% | ~3,570 |
-| A Spark | 20.00% | ~2,644 |
-| Burning City | 19.00% | ~2,512 |
-| Defender's Heart | 16.00% | ~2,115 |
-| Mythic Choices | 15.00% | ~1,983 |
+| A Spark | 20.00% | ~2,645 |
+| Burning City | 19.00% | ~2,513 |
+| Defender's Heart | 16.00% | ~2,116 |
+| Mythic Choices | 15.00% | ~1,984 |
 | Banner over the Citadel | 14.00% | ~1,851 |
 | Queen's Gratitude | 13.00% | ~1,719 |
 | Fifth Crusade | 9.00% | ~1,190 |
-| Embrace of the Abyss | 7.00% | ~925 |
-| Path of the Angel | 7.00% | ~925 |
-| Demonic and Divine | 7.00% | ~925 |
+| Embrace of the Abyss | 7.00% | ~926 |
+| Path of the Angel | 7.00% | ~926 |
+| Demonic and Divine | 7.00% | ~926 |
 | Great Upstart | 6.00% | ~793 |
 | All Paths Open | 6.00% | ~793 |
 | Path of the Azata | 5.00% | ~661 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,221 (Ranked 176)  
+Progressed: 13,224 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -388,15 +388,15 @@ Completed: 0 (0.00%) (Ranked 396)
 | 2024-01-07 | 13,129 | 0 |
 | 2024-01-08 | 13,155 | 0 |
 | 2024-01-09 | 13,184 | 0 |
-| 2024-01-10 | 13,221 | 0 |
+| 2024-01-10 | 13,224 | 0 |
 ## Awards
-Max (Character Customization): 1,780  (Ranked 130)  
-Sum: 7,211 (Ranked 127)  
+Max (Character Customization): 1,781  (Ranked 130)  
+Sum: 7,213 (Ranked 127)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,780 |
-| This game is Extremely Fun | 664 |
+| This game has Inclusive Character Customization | 1,781 |
+| This game is Extremely Fun | 665 |
 | This game has Diverse Characters | 659 |
 | This game is Highly Recommended | 657 |
 | This game has Amazing Characters | 653 |
@@ -723,3 +723,4 @@ Diff (max vs sum): 3
 | 2024-01-06 | 4.76 | - | 1,778 | 7,202 |
 | 2024-01-08 | 4.76 | - | 1,780 | 7,210 |
 | 2024-01-09 | 4.76 | - | 1,780 | 7,211 |
+| 2024-01-10 | 4.76 | - | 1,781 | 7,213 |

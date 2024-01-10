@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 396,
-  "Ranking_EOS_NewPlayers": 540,
+  "Ranking_EOS_NewPlayers": 516,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 448,
+  "EOS_Progressed": 449,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -518,6 +518,11 @@
       "Time": "2024-01-09T04:04:24.631964+00:00",
       "NumProgressed": 448,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T21:05:03.5954306+00:00",
+      "NumProgressed": 449,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -689,7 +694,7 @@
       "Name": "Tuto",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "PlanetUdionTorix",
@@ -720,7 +725,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 448,
+      "Progressed": 449,
       "Completed": 0
     }
   ],
@@ -728,8 +733,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-11-02T00:00:47.6208108+00:00",
-  "LastChanged_Achievements": "2024-01-10T20:05:31.0035709+00:00",
+  "LastChanged_Achievements": "2024-01-10T21:05:03.5954302+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:05.5456218+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:00:19.3703645+00:00",
-  "LastUpdate_Achievements": "2024-01-10T20:05:31.0035999+00:00"
+  "LastUpdate_Ratings": "2024-01-10T21:00:04.0213245+00:00",
+  "LastUpdate_Achievements": "2024-01-10T21:05:03.5954701+00:00"
 }

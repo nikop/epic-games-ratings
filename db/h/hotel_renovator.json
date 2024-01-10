@@ -2,12 +2,12 @@
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
-  "Ranking_Rating": 827,
+  "Ranking_Rating": 826,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1453,
+  "EOS_Progressed": 1454,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.24,
   "EosHistory": [
@@ -3626,6 +3626,11 @@
       "Time": "2024-01-10T20:09:04.7552178+00:00",
       "NumProgressed": 1453,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-10T21:08:42.4878713+00:00",
+      "NumProgressed": 1454,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -3637,7 +3642,7 @@
       "Name": "Humble beginnings",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -3653,7 +3658,7 @@
       "Name": "Soulmate?",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -3661,7 +3666,7 @@
       "Name": "Roll with it",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -3725,7 +3730,7 @@
       "Name": "Memento",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -3741,7 +3746,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -3757,7 +3762,7 @@
       "Name": "Big fortune",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "ACH_POSTCARD",
@@ -3835,9 +3840,9 @@
       "ID": "ACH_TIP_EARNED",
       "SetID": "7k95e4n",
       "Name": "Excellent service",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 668
+      "UsersEstimate": 683
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -3852,7 +3857,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1453,
+      "Progressed": 1454,
       "Completed": 18
     }
   ],
@@ -3860,8 +3865,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2024-01-07T18:59:15.8643547+00:00",
-  "LastChanged_Achievements": "2024-01-10T20:09:04.7552172+00:00",
+  "LastChanged_Achievements": "2024-01-10T21:08:42.4878709+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:29.8455072+00:00",
   "LastUpdate_Ratings": "2024-01-10T20:00:43.9795253+00:00",
-  "LastUpdate_Achievements": "2024-01-10T20:09:04.7552644+00:00"
+  "LastUpdate_Achievements": "2024-01-10T21:08:42.4879143+00:00"
 }

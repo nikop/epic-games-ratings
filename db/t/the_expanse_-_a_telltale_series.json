@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 159,
-  "Ranking_EOS_Completed": 250,
+  "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -337,11 +337,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18818,
-  "EOS_Completed": 61,
-  "EOS_NewPlayers": 687,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.32,
+  "EOS_Progressed": 18822,
+  "EOS_Completed": 62,
+  "EOS_NewPlayers": 688,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
       "Time": "2023-07-26T16:06:14.482825+00:00",
@@ -16957,6 +16957,11 @@
       "Time": "2024-01-10T20:08:39.6364404+00:00",
       "NumProgressed": 18818,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-10T21:08:18.0363872+00:00",
+      "NumProgressed": 18822,
+      "NumCompleted": 62
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16985,7 +16990,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2446
+      "UsersEstimate": 2447
     },
     {
       "ID": "12",
@@ -16993,7 +16998,7 @@
       "Name": "Data Archivist",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "13",
@@ -17001,7 +17006,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3387
+      "UsersEstimate": 3388
     },
     {
       "ID": "14",
@@ -17025,7 +17030,7 @@
       "Name": "Drug Gifter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "17",
@@ -17033,7 +17038,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2258
+      "UsersEstimate": 2259
     },
     {
       "ID": "18",
@@ -17049,7 +17054,7 @@
       "Name": "Martian Music",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2446
+      "UsersEstimate": 2447
     },
     {
       "ID": "2",
@@ -17065,7 +17070,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "21",
@@ -17073,7 +17078,7 @@
       "Name": "Drone Dodger",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2258
+      "UsersEstimate": 2259
     },
     {
       "ID": "22",
@@ -17089,7 +17094,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "24",
@@ -17105,7 +17110,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "26",
@@ -17121,7 +17126,7 @@
       "Name": "Bosmang",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2446
+      "UsersEstimate": 2447
     },
     {
       "ID": "28",
@@ -17201,7 +17206,7 @@
       "Name": "Impossible Objects",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2446
+      "UsersEstimate": 2447
     },
     {
       "ID": "31",
@@ -17217,7 +17222,7 @@
       "Name": "Safe Cracker",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "33",
@@ -17225,7 +17230,7 @@
       "Name": "Zen Master",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "34",
@@ -17233,7 +17238,7 @@
       "Name": "Master Negotiator",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "35",
@@ -17241,20 +17246,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18818,
-      "Completed": 61
+      "Progressed": 18822,
+      "Completed": 62
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4772,
+      "Progressed": 4776,
       "Completed": 1275
     }
   ],
@@ -17262,8 +17267,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-08T14:59:15.8971936+00:00",
-  "LastChanged_Achievements": "2024-01-10T20:08:39.63644+00:00",
+  "LastChanged_Achievements": "2024-01-10T21:08:18.0363867+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:00:02.3293944+00:00",
-  "LastUpdate_Achievements": "2024-01-10T20:08:39.6365633+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:59:45.5954363+00:00",
+  "LastUpdate_Achievements": "2024-01-10T21:08:18.0365092+00:00"
 }

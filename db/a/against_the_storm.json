@@ -3893,9 +3893,9 @@
       "Count": 347
     }
   ],
-  "EOS_Progressed": 20650,
+  "EOS_Progressed": 20653,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19228,6 +19228,11 @@
       "Time": "2024-01-10T20:05:14.102779+00:00",
       "NumProgressed": 20650,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-10T21:04:46.9120121+00:00",
+      "NumProgressed": 20653,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19304,7 +19309,7 @@
       "Name": "Efficient Explorer",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "MetalChain",
@@ -19312,7 +19317,7 @@
       "Name": "Refinery",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "Win5Years",
@@ -19392,7 +19397,7 @@
       "Name": "Dangerous Lands",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "WinNearFertile",
@@ -19416,7 +19421,7 @@
       "Name": "Forbidden Lands",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "WinNearHaunted",
@@ -19480,7 +19485,7 @@
       "Name": "Forsaken Gods Temple",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "WinNearTorrent",
@@ -19576,7 +19581,7 @@
       "Name": "Taking Action",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1859
     },
     {
       "ID": "WinWithResolve",
@@ -19648,7 +19653,7 @@
       "Name": "Frosts",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "WinNearGreed",
@@ -19656,7 +19661,7 @@
       "Name": "Land of Greed",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "WinNearLibrary",
@@ -19664,7 +19669,7 @@
       "Name": "Overgrown Library",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1859
     },
     {
       "ID": "WinNearPetrified",
@@ -19711,15 +19716,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20650,
+      "Progressed": 20653,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-10T19:58:54.3510088+00:00",
-  "LastChanged_Achievements": "2024-01-10T20:05:14.1027786+00:00",
+  "LastChanged_Achievements": "2024-01-10T21:04:46.9120116+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:58:54.3510094+00:00",
-  "LastUpdate_Achievements": "2024-01-10T20:05:14.1028794+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:58:39.972482+00:00",
+  "LastUpdate_Achievements": "2024-01-10T21:04:46.9121234+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 780,
+  "Ranking_Rating": 781,
   "Ranking_Popularity": 446,
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 67,
@@ -1467,7 +1467,7 @@
   ],
   "EOS_Progressed": 260498,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27321,8 +27321,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-09T06:58:18.3655501+00:00",
-  "LastChanged_Achievements": "2024-01-10T20:06:13.5504623+00:00",
+  "LastChanged_Achievements": "2024-01-10T21:05:44.6325534+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:32.9058213+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:58:57.9744701+00:00",
-  "LastUpdate_Achievements": "2024-01-10T20:06:13.5506918+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:58:43.6600917+00:00",
+  "LastUpdate_Achievements": "2024-01-10T21:05:44.6327064+00:00"
 }

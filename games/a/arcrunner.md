@@ -16,9 +16,9 @@
 | Nanonic II | 15.00% | ~142 |
 | Fully Modded | 12.00% | ~113 |
 | Starship Docks | 11.00% | ~104 |
+| Nanonic III | 11.00% | ~104 |
 | Rookie | 11.00% | ~104 |
 | Supply Run | 11.00% | ~104 |
-| Nanonic III | 10.00% | ~94 |
 | Cybernetic | 9.00% | ~85 |
 | The Bigger They Are | 8.00% | ~76 |
 | Up Close And Personal | 7.00% | ~66 |

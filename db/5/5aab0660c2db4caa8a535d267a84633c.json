@@ -37,11 +37,17 @@
       "IsBase": true,
       "Progressed": 0,
       "Completed": 0
+    },
+    {
+      "ID": "5ob1f2i",
+      "IsBase": false,
+      "Progressed": 0,
+      "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-08T17:06:49.6815041+00:00",
-  "LastChanged_Achievements": "2024-01-10T20:09:07.1453143+00:00",
+  "LastChanged_Achievements": "2024-01-10T21:08:44.6357434+00:00",
   "LastUpdate_AppInfo": "2024-01-09T19:56:59.7094632+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:59:34.3470708+00:00",
-  "LastUpdate_Achievements": "2024-01-10T20:09:07.1453155+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:59:18.5064195+00:00",
+  "LastUpdate_Achievements": "2024-01-10T21:08:44.6357458+00:00"
 }

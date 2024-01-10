@@ -4,7 +4,7 @@
   "ProductSlug": "ghost-recon-breakpoint",
   "Ranking_Rating": 528,
   "Ranking_Popularity": 125,
-  "Ranking_PopularitySum": 77,
+  "Ranking_PopularitySum": 76,
   "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 396,
   "Ranking_EOS_NewPlayers": 579,
@@ -12322,10 +12322,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 14743,
       "NumberOfAwardsMax": 1868
+    },
+    {
+      "Time": "2024-01-10T20:58:20.2741927+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 14749,
+      "NumberOfAwardsMax": 1868
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14743,
+  "NumberOfAwards": 14749,
   "NumberOfAwardsMax": 1868,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -12345,7 +12351,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1551
+      "Count": 1557
     },
     {
       "Text": "This game has Diverse Characters",
@@ -12401,8 +12407,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
-  "LastChanged": "2024-01-10T14:58:21.4984392+00:00",
+  "LastChanged": "2024-01-10T20:58:20.2741925+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:24.1934284+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:58:34.845255+00:00",
-  "LastUpdate_Achievements": "2024-01-10T20:06:20.9108406+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:58:20.274193+00:00",
+  "LastUpdate_Achievements": "2024-01-10T21:05:51.4820629+00:00"
 }

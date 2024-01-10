@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8529,
+  "EOS_Progressed": 8530,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -9747,6 +9747,11 @@
       "Time": "2024-01-10T20:08:40.6974552+00:00",
       "NumProgressed": 8529,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2024-01-10T21:08:19.0672592+00:00",
+      "NumProgressed": 8530,
+      "NumCompleted": 51
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -9783,7 +9788,7 @@
       "Name": "Bzzzt",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6397
+      "UsersEstimate": 6398
     },
     {
       "ID": "achievement_01_05",
@@ -9791,7 +9796,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 4264
+      "UsersEstimate": 4265
     },
     {
       "ID": "achievement_01_06",
@@ -9807,7 +9812,7 @@
       "Name": "Car Workshop",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 3667
+      "UsersEstimate": 3668
     },
     {
       "ID": "achievement_01_08",
@@ -9815,7 +9820,7 @@
       "Name": "Trophy Collector",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6397
+      "UsersEstimate": 6398
     },
     {
       "ID": "achievement_01_09",
@@ -9823,7 +9828,7 @@
       "Name": "Right Foot",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 3923
+      "UsersEstimate": 3924
     },
     {
       "ID": "achievement_01_10",
@@ -9831,7 +9836,7 @@
       "Name": "Beat the Clock",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 4776
+      "UsersEstimate": 4777
     },
     {
       "ID": "achievement_02_01",
@@ -9877,9 +9882,9 @@
       "ID": "achievement_02_06",
       "SetID": "4f1m94d",
       "Name": "My Favorite Ride",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 256
     },
     {
       "ID": "achievement_02_07",
@@ -9887,7 +9892,7 @@
       "Name": "Whale of a Time",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 4179
+      "UsersEstimate": 4180
     },
     {
       "ID": "achievement_02_08",
@@ -9895,7 +9900,7 @@
       "Name": "Car Specialist",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "achievement_03_01",
@@ -9919,7 +9924,7 @@
       "Name": "Morocco - Check!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "achievement_03_04",
@@ -9999,7 +10004,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 4179
+      "UsersEstimate": 4180
     },
     {
       "ID": "achievement_04_03",
@@ -10023,7 +10028,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 2985
+      "UsersEstimate": 2986
     },
     {
       "ID": "achievement_04_06",
@@ -10047,7 +10052,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 7420
+      "UsersEstimate": 7421
     },
     {
       "ID": "achievement_04_09",
@@ -10062,7 +10067,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 8529,
+      "Progressed": 8530,
       "Completed": 51
     }
   ],
@@ -10070,8 +10075,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2024-01-09T20:59:07.1704455+00:00",
-  "LastChanged_Achievements": "2024-01-10T20:08:40.6974548+00:00",
+  "LastChanged_Achievements": "2024-01-10T21:08:19.0672588+00:00",
   "LastUpdate_AppInfo": "2024-01-05T01:43:58.6689875+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:59:57.8263468+00:00",
-  "LastUpdate_Achievements": "2024-01-10T20:08:40.6975265+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:59:41.131238+00:00",
+  "LastUpdate_Achievements": "2024-01-10T21:08:19.0673504+00:00"
 }

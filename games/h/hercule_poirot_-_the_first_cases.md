@@ -5,27 +5,27 @@ Rating: 4.38 (Ranked 793)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It Wasn’t a Burglary | 88.00% | ~436 |
-| Luc Piette | 74.00% | ~367 |
-| Angeline Van den Bosch | 72.00% | ~357 |
-| Elizabeth Padget | 69.00% | ~342 |
-| Little Grey Cells | 68.00% | ~337 |
-| The Bracelet | 65.00% | ~322 |
+| It Wasn’t a Burglary | 88.00% | ~437 |
+| Luc Piette | 74.00% | ~368 |
+| Angeline Van den Bosch | 72.00% | ~358 |
+| Elizabeth Padget | 69.00% | ~343 |
+| Little Grey Cells | 68.00% | ~338 |
+| The Bracelet | 65.00% | ~323 |
 | Florette Duval | 54.00% | ~268 |
 | The Blackmail | 53.00% | ~263 |
 | Major Felix Hagen | 53.00% | ~263 |
 | Order and Method | 52.00% | ~258 |
 | Fine-toothed Comb | 52.00% | ~258 |
-| The Altercation | 49.00% | ~243 |
-| Truth from Within | 48.00% | ~238 |
-| The Major | 46.00% | ~228 |
-| Comtesse Margaux de Vos | 44.00% | ~218 |
-| Curious and Beautiful | 43.00% | ~213 |
-| Jacqueline “Jackie” Conrad | 43.00% | ~213 |
-| The Interrogations | 43.00% | ~213 |
-| Well-acquainted | 41.00% | ~203 |
-| Zakariya Demir | 40.00% | ~198 |
-| Well-read | 39.00% | ~193 |
+| The Altercation | 49.00% | ~244 |
+| Truth from Within | 47.00% | ~234 |
+| The Major | 46.00% | ~229 |
+| Comtesse Margaux de Vos | 44.00% | ~219 |
+| Curious and Beautiful | 43.00% | ~214 |
+| Jacqueline “Jackie” Conrad | 43.00% | ~214 |
+| The Interrogations | 43.00% | ~214 |
+| Well-acquainted | 41.00% | ~204 |
+| Zakariya Demir | 40.00% | ~199 |
+| Well-read | 39.00% | ~194 |
 | Cassandra Van den Bosch | 37.00% | ~184 |
 | The Secret | 37.00% | ~184 |
 | Gedeon Demir | 35.00% | ~174 |
@@ -47,12 +47,12 @@ Rating: 4.38 (Ranked 793)
 | The Denouement | 18.00% | ~89 |
 | Sunken Secrets | 18.00% | ~89 |
 | What Else Did I Miss? | 18.00% | ~89 |
-| Probably the Greatest Detective in the World | 13.00% | ~64 |
+| Probably the Greatest Detective in the World | 13.00% | ~65 |
 | Take a Break | 11.00% | ~55 |
 | Room with a View | 7.00% | ~35 |
 | Work-life Balance | 3.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 496 (Ranked 356)  
+Progressed: 497 (Ranked 356)  
 Completed: 7 (1.41%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,6 +157,7 @@ Completed: 7 (1.41%) (Ranked 153)
 | 2024-01-05 | 490 | 6 |
 | 2024-01-06 | 495 | 6 |
 | 2024-01-08 | 496 | 7 |
+| 2024-01-10 | 497 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

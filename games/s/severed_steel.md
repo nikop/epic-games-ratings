@@ -1,23 +1,23 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.69 (Ranked 236)  
+Rating: 4.69 (Ranked 237)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 33.00% | ~214,376 |
-| 50 HEADSHOTS | 31.00% | ~201,383 |
-| SCIENCE AND INDUSTRY | 30.00% | ~194,887 |
-| FINISHED CHAPTER 1 | 29.00% | ~188,391 |
-| FINISHED CHAPTER 2 | 21.00% | ~136,421 |
-| 200 HEADSHOTS | 19.00% | ~123,428 |
-| FINISHED CHAPTER 3 | 18.00% | ~116,932 |
-| FINISHED CHAPTER 4 | 15.00% | ~97,443 |
-| FINISH CHAPTER 5 | 13.00% | ~84,451 |
-| FINISH CHAPTER 6 | 11.00% | ~71,459 |
-| CATHARTIC ESCAPISM | 11.00% | ~71,459 |
-| 1000 KILLS | 10.00% | ~64,962 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~25,985 |
+| 100 KILLS | 33.00% | ~214,372 |
+| 50 HEADSHOTS | 31.00% | ~201,379 |
+| SCIENCE AND INDUSTRY | 30.00% | ~194,883 |
+| FINISHED CHAPTER 1 | 29.00% | ~188,387 |
+| FINISHED CHAPTER 2 | 21.00% | ~136,418 |
+| 200 HEADSHOTS | 19.00% | ~123,426 |
+| FINISHED CHAPTER 3 | 18.00% | ~116,930 |
+| FINISHED CHAPTER 4 | 15.00% | ~97,442 |
+| FINISH CHAPTER 5 | 13.00% | ~84,449 |
+| FINISH CHAPTER 6 | 11.00% | ~71,457 |
+| CATHARTIC ESCAPISM | 11.00% | ~71,457 |
+| 1000 KILLS | 10.00% | ~64,961 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~25,984 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~12,992 |
 | FIRST BLOOD | 2.00% | ~12,992 |
 | FIREFIGHT LEVEL 30 | 1.00% | ~6,496 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 236)
 | THE GAMBLER | 0.10% | ~650 |
 | WARRIOR IN A GARDEN | 0.10% | ~650 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 649,623 (Ranked 32)  
+Progressed: 649,611 (Ranked 32)  
 Completed: 58 (0.01%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,9 +325,9 @@ Completed: 58 (0.01%) (Ranked 373)
 | 2024-01-09 | 650,401 | 59 |
 | 2024-01-10 | 649,954 | 58 |
 ## Awards
-Max (Great Boss Battles): 496  (Ranked 223)  
+Max (Great Boss Battles): 496  (Ranked 224)  
 Sum: 581 (Ranked 327)  
-Diff (max vs sum): -104  
+Diff (max vs sum): -103  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 496 |

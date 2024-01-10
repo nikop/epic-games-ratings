@@ -2,7 +2,7 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 236,
+  "Ranking_Rating": 218,
   "Ranking_Popularity": 359,
   "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 179,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.69,
+  "Rating": 4.7,
   "RatingHistory": [
     {
       "Time": "2023-12-11T06:59:42.897175+00:00",
@@ -297,6 +297,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 116,
       "NumberOfAwardsMax": 116
+    },
+    {
+      "Time": "2024-01-10T20:58:59.866237+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 116,
+      "NumberOfAwardsMax": 116
     }
   ],
   "ReviewsDisabled": false,
@@ -311,9 +317,9 @@
       "Count": 116
     }
   ],
-  "EOS_Progressed": 10982,
+  "EOS_Progressed": 10986,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1117,
+  "EOS_NewPlayers": 1108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4391,6 +4397,11 @@
       "Time": "2024-01-10T20:10:15.3376106+00:00",
       "NumProgressed": 10982,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T21:09:52.4007648+00:00",
+      "NumProgressed": 10986,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4507,7 +4518,7 @@
       "Name": "Pentakill",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "16_TheRise",
@@ -4563,7 +4574,7 @@
       "Name": "Perfect Timing",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "23_DynastyRestored",
@@ -4611,7 +4622,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -4627,7 +4638,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "31_DontTouchThis",
@@ -4651,7 +4662,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -4715,7 +4726,7 @@
       "Name": "Jungle Heat",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "42_TheIronJudgement",
@@ -4922,16 +4933,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10982,
+      "Progressed": 10986,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-01-09T16:59:10.7700574+00:00",
-  "LastChanged_Achievements": "2024-01-10T20:10:15.3376101+00:00",
+  "LastChanged": "2024-01-10T20:58:59.8662367+00:00",
+  "LastChanged_Achievements": "2024-01-10T21:09:52.4007645+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:59:15.1564361+00:00",
-  "LastUpdate_Achievements": "2024-01-10T20:10:15.3376891+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:58:59.8662372+00:00",
+  "LastUpdate_Achievements": "2024-01-10T21:09:52.4008338+00:00"
 }

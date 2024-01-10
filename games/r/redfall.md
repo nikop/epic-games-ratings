@@ -5,7 +5,7 @@ Rating: 3.68 (Ranked 1,094)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 22.00% | ~517 |
+| I Like My Stakes Rare! | 22.00% | ~518 |
 | Catch and Release | 16.00% | ~376 |
 | Home Is Where the Heart Is | 15.00% | ~353 |
 | Wounded Whispers | 15.00% | ~353 |
@@ -43,8 +43,8 @@ Rating: 3.68 (Ranked 1,094)
 | Curious Finch | 2.00% | ~47 |
 | Blood Brother | 1.00% | ~24 |
 | Blacklight Down | 1.00% | ~24 |
-| Neighborhood Watch | 0.90% | ~21 |
 | Bloody Initiate | 0.90% | ~21 |
+| Neighborhood Watch | 0.80% | ~19 |
 | Empty Nest Syndrome | 0.80% | ~19 |
 | Scream Team | 0.70% | ~16 |
 | What Lies Below | 0.70% | ~16 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,094)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,352 (Ranked 240)  
+Progressed: 2,353 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 0 (0.00%) (Ranked 396)
 | 2024-01-07 | 2,301 | 0 |
 | 2024-01-08 | 2,317 | 0 |
 | 2024-01-09 | 2,331 | 0 |
-| 2024-01-10 | 2,352 | 0 |
+| 2024-01-10 | 2,353 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 556)  
 Sum: 24 (Ranked 563)  

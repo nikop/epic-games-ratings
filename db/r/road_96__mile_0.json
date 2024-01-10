@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -2628,9 +2628,9 @@
       "ID": "scoreminrankrv2",
       "SetID": "40n95i5",
       "Name": "Friendzone",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
@@ -2645,8 +2645,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-10T20:10:12.7688035+00:00",
+  "LastChanged_Achievements": "2024-01-10T21:09:49.8551598+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.1061642+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:59:37.1266963+00:00",
-  "LastUpdate_Achievements": "2024-01-10T20:10:12.7688184+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:59:21.3403342+00:00",
+  "LastUpdate_Achievements": "2024-01-10T21:09:49.8551952+00:00"
 }

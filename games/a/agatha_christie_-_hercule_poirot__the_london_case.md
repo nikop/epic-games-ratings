@@ -18,8 +18,8 @@
 | Everything matters | 42.00% | ~46 |
 | An expert mediator | 41.00% | ~45 |
 | DI Hardwicke | 41.00% | ~45 |
+| Order and method | 36.00% | ~39 |
 | Betty Allen | 36.00% | ~39 |
-| Order and method | 35.00% | ~38 |
 | The Investigation Begins | 34.00% | ~37 |
 | Irene Court-Smyth | 32.00% | ~35 |
 | Ms. Camilla B. Culsham | 31.00% | ~34 |
@@ -44,10 +44,10 @@
 | Well-travelled | 17.00% | ~19 |
 | Florence Farquhar | 17.00% | ~19 |
 | The Investigation Starts Anew | 17.00% | ~19 |
+| A treasured heirloom | 14.00% | ~15 |
+| The Penitent Magdalene | 14.00% | ~15 |
 | A true performance | 14.00% | ~15 |
-| A treasured heirloom | 13.00% | ~14 |
-| The Penitent Magdalene | 13.00% | ~14 |
-| The Denouement | 11.00% | ~12 |
+| The Denouement | 12.00% | ~13 |
 | A perilous journey | 10.00% | ~11 |
 | Perkins | 6.00% | ~7 |
 ## Popularity (Based on EOS Achievements)

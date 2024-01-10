@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2662,
+  "EOS_Progressed": 2663,
   "EOS_Completed": 192,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 47,
   "EOS_Completed_Percentage": 7.21,
   "EosHistory": [
@@ -6987,6 +6987,11 @@
       "Time": "2024-01-10T20:04:08.786271+00:00",
       "NumProgressed": 2662,
       "NumCompleted": 192
+    },
+    {
+      "Time": "2024-01-10T21:03:43.4974349+00:00",
+      "NumProgressed": 2663,
+      "NumCompleted": 192
     }
   ],
   "TotalAchievements": 25,
@@ -7110,7 +7115,7 @@
       "Name": "True G3M4R",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -7118,7 +7123,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -7142,7 +7147,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1597
+      "UsersEstimate": 1598
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7150,7 +7155,7 @@
       "Name": "Scholar",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "PROGRESS_N1",
@@ -7158,7 +7163,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "PROGRESS_N2",
@@ -7182,7 +7187,7 @@
       "Name": "The darkness",
       "Percentage": 31,
       "XP": 60,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "PROGRESS_N5",
@@ -7190,14 +7195,14 @@
       "Name": "One last step",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2662,
+      "Progressed": 2663,
       "Completed": 192
     }
   ],
@@ -7205,8 +7210,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-10T20:04:08.7862706+00:00",
+  "LastChanged_Achievements": "2024-01-10T21:03:43.4974346+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:00:07.0363008+00:00",
-  "LastUpdate_Achievements": "2024-01-10T20:04:08.786335+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:59:51.1354828+00:00",
+  "LastUpdate_Achievements": "2024-01-10T21:03:43.497477+00:00"
 }

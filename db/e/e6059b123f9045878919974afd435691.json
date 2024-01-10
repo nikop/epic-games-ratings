@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 396,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1434,
+  "EOS_Progressed": 1435,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3799,6 +3799,11 @@
       "Time": "2024-01-10T20:10:24.0887275+00:00",
       "NumProgressed": 1434,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T21:10:00.947735+00:00",
+      "NumProgressed": 1435,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3810,7 +3815,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3818,7 +3823,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3882,7 +3887,7 @@
       "Name": "Capraphobia",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -4010,7 +4015,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -4018,15 +4023,15 @@
       "Name": "Think Bullets Will Affect Her?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Fire Alarm",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 244
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -4162,15 +4167,15 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Don\u0027t Turn Your Back",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 430
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -4178,7 +4183,7 @@
       "Name": "1, 2, 3! Grandma!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -4234,7 +4239,7 @@
       "Name": "Buy A Book",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -4242,7 +4247,7 @@
       "Name": "The Last of Us",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -4337,14 +4342,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1434,
+      "Progressed": 1435,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-10T20:10:24.0887272+00:00",
+  "LastChanged_Achievements": "2024-01-10T21:10:00.9477347+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:08.8169923+00:00",
-  "LastUpdate_Ratings": "2024-01-10T20:00:09.9328435+00:00",
-  "LastUpdate_Achievements": "2024-01-10T20:10:24.0888177+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:59:54.6463119+00:00",
+  "LastUpdate_Achievements": "2024-01-10T21:10:00.9478153+00:00"
 }

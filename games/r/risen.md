@@ -9,7 +9,7 @@ Rating: 4.56 (Ranked 510)
 | Map reader | 64.00% | ~120 |
 | Adventurer | 63.00% | ~118 |
 | Philanthropist | 60.00% | ~112 |
-| Archer | 41.00% | ~77 |
+| Archer | 42.00% | ~79 |
 | The brave little tailor | 40.00% | ~75 |
 | Field hand | 37.00% | ~69 |
 | Well-to-do | 32.00% | ~60 |
@@ -32,8 +32,8 @@ Rating: 4.56 (Ranked 510)
 | Ghost hunter | 14.00% | ~26 |
 | Master detective | 14.00% | ~26 |
 | Pandora's box | 13.00% | ~24 |
+| Defender | 12.00% | ~22 |
 | Peacekeeper | 12.00% | ~22 |
-| Defender | 11.00% | ~21 |
 | Workaholic | 11.00% | ~21 |
 | Showdown | 10.00% | ~19 |
 | Safecracker | 10.00% | ~19 |

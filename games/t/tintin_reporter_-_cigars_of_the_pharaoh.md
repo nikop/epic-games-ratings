@@ -17,8 +17,8 @@
 | Au Revoir, Abudin | 12.00% | ~16 |
 | Save a Friend | 12.00% | ~16 |
 | Mysterious Bungalow | 11.00% | ~14 |
-| The Eyes! | 9.00% | ~12 |
-| Punctual | 9.00% | ~12 |
+| The Eyes! | 10.00% | ~13 |
+| Punctual | 10.00% | ~13 |
 | Keep the Doctor Away | 8.00% | ~10 |
 | Just a Palm Tree | 8.00% | ~10 |
 | Eyes Shut | 8.00% | ~10 |

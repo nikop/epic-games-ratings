@@ -6,19 +6,19 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 65.00% | ~276 |
-| Cartographer | 58.00% | ~246 |
+| The Adventure Begins | 65.00% | ~277 |
+| Cartographer | 58.00% | ~247 |
 | A Strange Artefact | 54.00% | ~230 |
-| Insomnia | 49.00% | ~208 |
+| Insomnia | 49.00% | ~209 |
 | Lost & Found & Lost Again | 43.00% | ~183 |
 | From Whence we Came | 43.00% | ~183 |
-| Fire and Flood | 41.00% | ~174 |
+| Fire and Flood | 41.00% | ~175 |
 | Spooky! | 38.00% | ~162 |
-| Treasure Hunt | 36.00% | ~153 |
 | Shennong Herbalist | 35.00% | ~149 |
+| Treasure Hunt | 35.00% | ~149 |
 | Good Mama | 32.00% | ~136 |
 | O Captain My Captain | 31.00% | ~132 |
-| Plunderer | 29.00% | ~123 |
+| Plunderer | 29.00% | ~124 |
 | Taxonomist | 27.00% | ~115 |
 | Traveller | 25.00% | ~106 |
 | Uncertain Loyalties | 25.00% | ~106 |
@@ -40,7 +40,7 @@ Number of Ratings: 20  (23.09.2022)
 | Discovery | 12.00% | ~51 |
 | Very Classy | 12.00% | ~51 |
 | Under the Table | 11.00% | ~47 |
-| It's Complicated | 10.00% | ~42 |
+| It's Complicated | 10.00% | ~43 |
 | Cold Blood, Warm Heart | 9.00% | ~38 |
 | SCHMETTERLING | 8.00% | ~34 |
 | No Laughing Matter | 8.00% | ~34 |
@@ -60,15 +60,15 @@ Number of Ratings: 20  (23.09.2022)
 | Lunatic | 3.00% | ~13 |
 | A Perfect Map | 3.00% | ~13 |
 | Risk/Reward | 3.00% | ~13 |
-| Look Ma, No Equipment! | 2.00% | ~8 |
+| Look Ma, No Equipment! | 2.00% | ~9 |
 | It's Not Too Late | 0.90% | ~4 |
 | Abominable Hunger | 0.70% | ~3 |
 | Everything is FINE... | 0.70% | ~3 |
 | Pacifism Ain't Easy | 0.70% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425 (Ranked 366)  
-Completed: 1 (0.24%) (Ranked 267)  
+Progressed: 426 (Ranked 366)  
+Completed: 1 (0.23%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -143,7 +143,7 @@ Completed: 1 (0.24%) (Ranked 267)
 | 2024-01-07 | 416 | 1 |
 | 2024-01-08 | 418 | 1 |
 | 2024-01-09 | 420 | 1 |
-| 2024-01-10 | 425 | 1 |
+| 2024-01-10 | 426 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

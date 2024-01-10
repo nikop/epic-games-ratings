@@ -12,15 +12,15 @@ Number of Ratings: 9,133  (23.09.2022)
 | Awakening | 21.00% | ~171,542 |
 | Ranger | 20.00% | ~163,373 |
 | Scrooge | 20.00% | ~163,373 |
-| Anorectic | 16.00% | ~130,698 |
-| Firestarter | 16.00% | ~130,698 |
+| Anorectic | 16.00% | ~130,699 |
+| Firestarter | 16.00% | ~130,699 |
 | Bookworm | 15.00% | ~122,530 |
-| Insomniac | 13.00% | ~106,192 |
+| Insomniac | 13.00% | ~106,193 |
 | Buddy | 12.00% | ~98,024 |
 | Thief | 12.00% | ~98,024 |
 | Sinner | 11.00% | ~89,855 |
 | Traveller | 11.00% | ~89,855 |
-| Convict | 10.00% | ~81,686 |
+| Convict | 10.00% | ~81,687 |
 | Haggler | 9.00% | ~73,518 |
 | McLovin | 7.00% | ~57,181 |
 | Runt | 7.00% | ~57,181 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~817 |
 | Wingman | 0.10% | ~817 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 816,865 (Ranked 20)  
+Progressed: 816,866 (Ranked 20)  
 Completed: 53 (0.01%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,7 +354,7 @@ Completed: 53 (0.01%) (Ranked 373)
 | 2024-01-07 | 816,467 | 53 |
 | 2024-01-08 | 816,615 | 53 |
 | 2024-01-09 | 816,764 | 53 |
-| 2024-01-10 | 816,865 | 53 |
+| 2024-01-10 | 816,866 | 53 |
 ## Awards
 Max (Character Customization): 7,769  (Ranked 54)  
 Sum: 28,808 (Ranked 50)  

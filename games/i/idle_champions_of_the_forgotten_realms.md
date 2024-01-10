@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,129 |
+| A Brief Tour of the Realms | 4.00% | ~10,130 |
 | The Cursed Farmer | 2.00% | ~5,065 |
 | Beast Intentions | 1.00% | ~2,532 |
 | The Mad Wizard | 1.00% | ~2,532 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,233 (Ranked 71)  
+Progressed: 253,242 (Ranked 71)  
 Completed: 2,611 (1.03%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -818,14 +818,14 @@ Completed: 2,611 (1.03%) (Ranked 175)
 | 2024-01-07 | 252,516 | 2,599 |
 | 2024-01-08 | 252,794 | 2,602 |
 | 2024-01-09 | 253,044 | 2,606 |
-| 2024-01-10 | 253,233 | 2,611 |
+| 2024-01-10 | 253,242 | 2,611 |
 ## Awards
-Max (Great for Beginners): 5,768  (Ranked 74)  
-Sum: 33,430 (Ranked 41)  
+Max (Great for Beginners): 5,770  (Ranked 74)  
+Sum: 33,432 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,768 |
+| This game is Great for Beginners | 5,770 |
 | This game has Diverse Characters | 5,711 |
 | This game has Quickly Understood Controls | 4,903 |
 | This game is Relaxing | 4,773 |
@@ -1184,4 +1184,4 @@ Diff (max vs sum): 33
 | 2024-01-07 | 4.06 | - | 5,756 | 33,386 |
 | 2024-01-08 | 4.06 | - | 5,763 | 33,403 |
 | 2024-01-09 | 4.06 | - | 5,768 | 33,417 |
-| 2024-01-10 | 4.06 | - | 5,768 | 33,430 |
+| 2024-01-10 | 4.06 | - | 5,770 | 33,432 |

@@ -2,7 +2,7 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 705,
+  "Ranking_Rating": 706,
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 203,
@@ -400,7 +400,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5377,
+  "EOS_Progressed": 5378,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
@@ -5110,6 +5110,11 @@
       "Time": "2024-01-10T19:04:31.911872+00:00",
       "NumProgressed": 5377,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-10T21:04:20.0727656+00:00",
+      "NumProgressed": 5378,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5129,7 +5134,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -5169,7 +5174,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4517
+      "UsersEstimate": 4518
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5177,7 +5182,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5054
+      "UsersEstimate": 5055
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5201,7 +5206,7 @@
       "Name": "CREO Killed the Video Star",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ID_ACHIEV_12",
@@ -5225,7 +5230,7 @@
       "Name": "Who\u0027s in Charge Here?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ID_ACHIEV_15",
@@ -5281,7 +5286,7 @@
       "Name": "Shall Not Pass",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ID_ACHIEV_22",
@@ -5401,7 +5406,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -5457,7 +5462,7 @@
       "Name": "GOLIATH",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -5656,15 +5661,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5377,
+      "Progressed": 5378,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-10T20:04:46.8462362+00:00",
+  "LastChanged_Achievements": "2024-01-10T21:04:20.0727651+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.5688271+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:58:59.7265333+00:00",
-  "LastUpdate_Achievements": "2024-01-10T20:04:46.8463076+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:58:45.2534882+00:00",
+  "LastUpdate_Achievements": "2024-01-10T21:04:20.0728356+00:00"
 }

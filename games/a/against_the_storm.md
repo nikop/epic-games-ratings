@@ -6,8 +6,8 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taking Action | 9.00% | ~1,858 |
-| Overgrown Library | 9.00% | ~1,858 |
+| Taking Action | 9.00% | ~1,859 |
+| Overgrown Library | 9.00% | ~1,859 |
 | First Real Expedition | 8.00% | ~1,652 |
 | No Deaths | 8.00% | ~1,652 |
 | Abandoned Settlement | 8.00% | ~1,652 |
@@ -18,8 +18,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 6.00% | ~1,239 |
 | Ominous Presence | 6.00% | ~1,239 |
 | Gathering Storm | 6.00% | ~1,239 |
-| Frosts | 5.00% | ~1,032 |
-| Land of Greed | 5.00% | ~1,032 |
+| Frosts | 5.00% | ~1,033 |
+| Land of Greed | 5.00% | ~1,033 |
 | Homesick | 4.00% | ~826 |
 | Fertile Meadows | 4.00% | ~826 |
 | Royal Outpost | 4.00% | ~826 |
@@ -46,11 +46,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Victory Through Prosperity | 2.00% | ~413 |
 | Defying the Crown | 2.00% | ~413 |
 | Into the Forest | 2.00% | ~413 |
-| Efficient Explorer | 1.00% | ~206 |
-| Refinery | 1.00% | ~206 |
-| Dangerous Lands | 1.00% | ~206 |
-| Forbidden Lands | 1.00% | ~206 |
-| Forsaken Gods Temple | 1.00% | ~206 |
+| Efficient Explorer | 1.00% | ~207 |
+| Refinery | 1.00% | ~207 |
+| Dangerous Lands | 1.00% | ~207 |
+| Forbidden Lands | 1.00% | ~207 |
+| Forsaken Gods Temple | 1.00% | ~207 |
 | Feeding The People | 0.80% | ~165 |
 | Like a Machine | 0.80% | ~165 |
 | Prestigious Expedition | 0.50% | ~103 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,650 (Ranked 154)  
+Progressed: 20,653 (Ranked 154)  
 Completed: 34 (0.16%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 34 (0.16%) (Ranked 284)
 | 2024-01-07 | 20,428 | 34 |
 | 2024-01-08 | 20,508 | 34 |
 | 2024-01-09 | 20,595 | 34 |
-| 2024-01-10 | 20,650 | 34 |
+| 2024-01-10 | 20,653 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,368 (Ranked 177)  

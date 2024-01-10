@@ -355,9 +355,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1063,
+  "EOS_Progressed": 1064,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2595,6 +2595,11 @@
       "Time": "2024-01-10T20:09:08.7698224+00:00",
       "NumProgressed": 1063,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T21:08:46.1407978+00:00",
+      "NumProgressed": 1064,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2615,15 +2620,15 @@
       "Name": "Highballer",
       "Percentage": 59,
       "XP": 90,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "CareerChamp1",
       "SetID": "5hd282c",
       "Name": "Regional Juniors Champion",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 319
+      "UsersEstimate": 330
     },
     {
       "ID": "CareerChamp2",
@@ -2663,7 +2668,7 @@
       "Name": "Storm Warning",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "CollectVehiclesA",
@@ -2766,7 +2771,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1063,
+      "Progressed": 1064,
       "Completed": 0
     }
   ],
@@ -2774,8 +2779,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-07T05:59:24.3409501+00:00",
-  "LastChanged_Achievements": "2024-01-10T20:09:08.7698221+00:00",
+  "LastChanged_Achievements": "2024-01-10T21:08:46.1407974+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:00:43.0089969+00:00",
-  "LastUpdate_Achievements": "2024-01-10T20:09:08.7698471+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:57:07.4856931+00:00",
+  "LastUpdate_Achievements": "2024-01-10T21:08:46.1408221+00:00"
 }

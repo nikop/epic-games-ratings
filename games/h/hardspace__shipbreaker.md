@@ -10,7 +10,7 @@ Number of Ratings: 36  (23.09.2022)
 | It’s Heating up! | 69.00% | ~738 |
 | Let’s patch things up | 65.00% | ~695 |
 | I can fix it! | 62.00% | ~663 |
-| Post No Bills | 54.00% | ~577 |
+| Post No Bills | 55.00% | ~588 |
 | Truly Shocking! | 48.00% | ~513 |
 | Critical Thinker | 35.00% | ~374 |
 | Act I Complete | 29.00% | ~310 |
@@ -27,8 +27,8 @@ Number of Ratings: 36  (23.09.2022)
 | A Tucked Tale | 10.00% | ~107 |
 | The best thing money can buy | 9.00% | ~96 |
 | Act III Complete | 6.00% | ~64 |
+| Fire and Brimstone | 6.00% | ~64 |
 | See you Space Cowboy | 6.00% | ~64 |
-| Fire and Brimstone | 5.00% | ~53 |
 | Ghost in the Ship | 2.00% | ~21 |
 | Disagree and Commit | 0.10% | ~1 |
 | Captured Killer of Caerbannog | 0.00% | ~0 |

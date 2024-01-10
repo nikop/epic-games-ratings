@@ -6,8 +6,8 @@ Rating: 3.75 (Ranked 1,091)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I can do a thing or two | 60.00% | ~383 |
-| Buckle up | 58.00% | ~370 |
-| Quick charge | 58.00% | ~370 |
+| Buckle up | 59.00% | ~376 |
+| Quick charge | 59.00% | ~376 |
 | Hands up! | 52.00% | ~332 |
 | Now you know | 52.00% | ~332 |
 | Short circuit | 52.00% | ~332 |

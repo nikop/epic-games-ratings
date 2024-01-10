@@ -4,7 +4,7 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 3824,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewPlayers": 372,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3645,
+  "EOS_Progressed": 3647,
   "EOS_Completed": -28,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.77,
   "EosHistory": [
@@ -939,6 +939,11 @@
       "Time": "2024-01-10T19:08:59.9324976+00:00",
       "NumProgressed": 3645,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2024-01-10T21:08:49.9702629+00:00",
+      "NumProgressed": 3647,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -1006,7 +1011,7 @@
       "Name": "Moment Of Perfection",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "17",
@@ -1046,7 +1051,7 @@
       "Name": "Even While Weakened",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "21",
@@ -1086,7 +1091,7 @@
       "Name": "Like Swatting Flies",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "26",
@@ -1118,7 +1123,7 @@
       "Name": "Balance Incarnate",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "3",
@@ -1158,7 +1163,7 @@
       "Name": "Cheap Tricks",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "34",
@@ -1229,7 +1234,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3645,
+      "Progressed": 3647,
       "Completed": -28
     }
   ],
@@ -1237,8 +1242,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2024-01-10T20:09:12.6102073+00:00",
+  "LastChanged_Achievements": "2024-01-10T21:08:49.9702624+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:20.8957368+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:59:36.557577+00:00",
-  "LastUpdate_Achievements": "2024-01-10T20:09:12.6102418+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:59:20.7946414+00:00",
+  "LastUpdate_Achievements": "2024-01-10T21:08:49.970296+00:00"
 }

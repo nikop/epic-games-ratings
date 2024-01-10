@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17489,
+  "EOS_Progressed": 17490,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8312,6 +8312,11 @@
       "Time": "2024-01-10T19:08:40.2176464+00:00",
       "NumProgressed": 17489,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T21:08:31.4253136+00:00",
+      "NumProgressed": 17490,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -8323,7 +8328,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16615
+      "UsersEstimate": 16616
     },
     {
       "ID": "ACH001",
@@ -8363,7 +8368,7 @@
       "Name": "Make It Rain",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4022
+      "UsersEstimate": 4023
     },
     {
       "ID": "ACH0014",
@@ -8419,7 +8424,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12592
+      "UsersEstimate": 12593
     },
     {
       "ID": "ACH0020",
@@ -8443,7 +8448,7 @@
       "Name": "House Party!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 6121
+      "UsersEstimate": 6122
     },
     {
       "ID": "ACH0023",
@@ -8475,7 +8480,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 9444
+      "UsersEstimate": 9445
     },
     {
       "ID": "ACH004",
@@ -8483,7 +8488,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 15215
+      "UsersEstimate": 15216
     },
     {
       "ID": "ACH005",
@@ -8530,7 +8535,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17489,
+      "Progressed": 17490,
       "Completed": 1
     }
   ],
@@ -8538,8 +8543,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2024-01-05T00:01:53.1523613+00:00",
-  "LastChanged_Achievements": "2024-01-10T20:08:53.4342416+00:00",
+  "LastChanged_Achievements": "2024-01-10T21:08:31.4253131+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:10.6705655+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:59:39.1585333+00:00",
-  "LastUpdate_Achievements": "2024-01-10T20:08:53.434319+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:59:23.1376784+00:00",
+  "LastUpdate_Achievements": "2024-01-10T21:08:31.4253902+00:00"
 }

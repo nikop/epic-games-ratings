@@ -2,7 +2,7 @@
   "ID": "b7cca975adbf41e4a41f3ece9e61e08a",
   "Name": "Love Is All Around",
   "ProductSlug": "love-is-all-around-3a8046",
-  "Ranking_Rating": 236,
+  "Ranking_Rating": 237,
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 160,
@@ -307,9 +307,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 18305,
+  "EOS_Progressed": 18306,
   "EOS_Completed": 316,
-  "EOS_NewPlayers": 886,
+  "EOS_NewPlayers": 884,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 1.73,
   "EosHistory": [
@@ -9497,6 +9497,11 @@
       "Time": "2024-01-10T20:09:51.7480418+00:00",
       "NumProgressed": 18305,
       "NumCompleted": 316
+    },
+    {
+      "Time": "2024-01-10T21:09:29.5921258+00:00",
+      "NumProgressed": 18306,
+      "NumCompleted": 316
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -9509,15 +9514,15 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 16108
+      "UsersEstimate": 16109
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "7opfcp",
       "Name": "I Challenge You To Save More Money!",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 14827
+      "UsersEstimate": 14645
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -9589,7 +9594,7 @@
       "Name": "Days Of Innocence",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 4759
+      "UsersEstimate": 4760
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -9605,7 +9610,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 11898
+      "UsersEstimate": 11899
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -9653,7 +9658,7 @@
       "Name": "Absolutely Elegant",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5125
+      "UsersEstimate": 5126
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
@@ -9661,7 +9666,7 @@
       "Name": "Still Single",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5125
+      "UsersEstimate": 5126
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -9701,7 +9706,7 @@
       "Name": "New Yoga Pose Unlocked",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_31",
@@ -9725,7 +9730,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 9152
+      "UsersEstimate": 9153
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -9749,7 +9754,7 @@
       "Name": "ONE PUNCH",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 5125
+      "UsersEstimate": 5126
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -9765,7 +9770,7 @@
       "Name": "Are You Alright?",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 8603
+      "UsersEstimate": 8604
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -9789,7 +9794,7 @@
       "Name": "David",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 4759
+      "UsersEstimate": 4760
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_4",
@@ -9844,7 +9849,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 18305,
+      "Progressed": 18306,
       "Completed": 316
     }
   ],
@@ -9852,8 +9857,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-10T01:46:44.8636325+00:00",
-  "LastChanged_Achievements": "2024-01-10T20:09:51.7480415+00:00",
+  "LastChanged_Achievements": "2024-01-10T21:09:29.5921255+00:00",
   "LastUpdate_AppInfo": "2024-01-06T03:57:10.1244373+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:58:19.8194313+00:00",
-  "LastUpdate_Achievements": "2024-01-10T20:09:51.7481261+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:58:07.0735163+00:00",
+  "LastUpdate_Achievements": "2024-01-10T21:09:29.5922006+00:00"
 }
