@@ -6,7 +6,7 @@
 | 1 | [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 100.00% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.06% |
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
-| 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 41.80% |
+| 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 41.63% |
 | 8 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 9 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.72% |
 | 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 38.67% |
@@ -57,7 +57,7 @@
 | 55 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.44% |
 | 56 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.41% |
 | 57 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.18% |
-| 58 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.17% |
+| 58 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.16% |
 | 59 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.04% |
 | 60 | [Sonic Origins](games/s/sonic_origins.md) | 6.99% |
 | 61 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.95% |
@@ -99,7 +99,7 @@
 | 96 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.61% |
 | 98 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
 | 99 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.49% |
-| 100 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.48% |
+| 100 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.47% |
 | 101 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.33% |
 | 102 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.25% |
 | 103 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.23% |
@@ -117,7 +117,7 @@
 | 115 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2.86% |
 | 115 | [Without Escape](games/w/without_escape.md) | 2.86% |
 | 117 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 2.82% |
-| 118 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2.78% |
+| 118 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2.75% |
 | 119 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.70% |
 | 119 | [The Complex](games/t/the_complex.md) | 2.70% |
 | 121 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.65% |
@@ -141,12 +141,12 @@
 | 139 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
 | 140 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
 | 141 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
-| 142 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.71% |
-| 142 | [Sifu](games/s/sifu.md) | 1.71% |
-| 144 | [Frogun](games/f/frogun.md) | 1.68% |
-| 145 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.66% |
-| 146 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.59% |
-| 147 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.56% |
+| 142 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.72% |
+| 143 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.71% |
+| 143 | [Sifu](games/s/sifu.md) | 1.71% |
+| 145 | [Frogun](games/f/frogun.md) | 1.68% |
+| 146 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.65% |
+| 147 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.59% |
 | 148 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.49% |
 | 148 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.49% |
 | 150 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.46% |
@@ -163,7 +163,7 @@
 | 161 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.20% |
 | 162 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.18% |
 | 162 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.18% |
-| 164 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.17% |
+| 164 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.16% |
 | 165 | [Iron Danger](games/i/iron_danger.md) | 1.15% |
 | 165 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.15% |
 | 167 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
@@ -174,7 +174,7 @@
 | 172 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.05% |
 | 172 | [Lemon Cake](games/l/lemon_cake.md) | 1.05% |
 | 174 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
-| 175 | [Sable](games/s/sable.md) | 1.01% |
+| 175 | [Sable](games/s/sable.md) | 1.02% |
 | 176 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.97% |
 | 177 | [Colossal Cave](games/c/colossal_cave.md) | 0.95% |
 | 177 | [Trifox](games/t/trifox.md) | 0.95% |
@@ -228,8 +228,8 @@
 | 226 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.47% |
 | 227 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 227 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.46% |
-| 227 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.46% |
 | 227 | [Garden In](games/g/garden_in.md) | 0.46% |
+| 230 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.45% |
 | 231 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.44% |
 | 231 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.44% |
 | 231 | [Wildermyth](games/w/wildermyth.md) | 0.44% |
