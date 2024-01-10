@@ -16,9 +16,9 @@ Rating: 3.68 (Ranked 1,094)
 | Fly Fisher | 11.00% | ~257 |
 | Sucks To Be You | 11.00% | ~257 |
 | Throw The First Stone | 10.00% | ~234 |
-| Enter of Your Own Free Will | 9.00% | ~210 |
-| Welcome to the Neighborhood | 9.00% | ~210 |
-| Heart Attack | 9.00% | ~210 |
+| Enter of Your Own Free Will | 9.00% | ~211 |
+| Welcome to the Neighborhood | 9.00% | ~211 |
+| Heart Attack | 9.00% | ~211 |
 | Grounded | 8.00% | ~187 |
 | Skin of Their Teeth | 8.00% | ~187 |
 | Neighborhood Revitalization | 6.00% | ~140 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,094)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,338 (Ranked 240)  
+Progressed: 2,339 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 2,301 | 0 |
 | 2024-01-08 | 2,317 | 0 |
 | 2024-01-09 | 2,331 | 0 |
-| 2024-01-10 | 2,338 | 0 |
+| 2024-01-10 | 2,339 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 556)  
 Sum: 24 (Ranked 563)  

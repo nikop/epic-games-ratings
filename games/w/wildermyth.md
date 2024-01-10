@@ -33,21 +33,21 @@ Number of Ratings: 45  (23.09.2022)
 | Legends Never Die | 0.90% | ~14 |
 | No Time for Clawmonsters | 0.90% | ~14 |
 | Worldwalker | 0.80% | ~13 |
+| All My Birds, Safely Home | 0.80% | ~13 |
 | Bears are Scary | 0.80% | ~13 |
 | Plague Doctor | 0.70% | ~11 |
-| All My Birds, Safely Home | 0.70% | ~11 |
 | Grillmaster | 0.70% | ~11 |
 | Astrology | 0.70% | ~11 |
 | Tempest | 0.70% | ~11 |
 | Storied Past | 0.60% | ~10 |
 | Empty the Caves | 0.60% | ~10 |
 | Bonebreakers | 0.60% | ~10 |
+| No More Nightmares | 0.60% | ~10 |
 | A Hunger, Sated | 0.60% | ~10 |
 | Wingknight's Prowess | 0.60% | ~10 |
 | Into Mulch | 0.60% | ~10 |
 | Lochias's Hunger | 0.60% | ~10 |
 | We Emerge Changed | 0.50% | ~8 |
-| No More Nightmares | 0.50% | ~8 |
 | Fight Like a Bird | 0.50% | ~8 |
 | The Power of Friendship | 0.40% | ~6 |
 | I'm Not Smiling | 0.40% | ~6 |

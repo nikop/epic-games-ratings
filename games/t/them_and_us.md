@@ -15,8 +15,8 @@
 | This Coffin Has Your Name On It! | 14.00% | ~58 |
 | Alone In The Dark | 13.00% | ~53 |
 | The Cultists | 13.00% | ~53 |
+| The Forgotten Tower | 13.00% | ~53 |
 | Parasite Exterminated | 12.00% | ~49 |
-| The Forgotten Tower | 12.00% | ~49 |
 | Trapped | 11.00% | ~45 |
 | Modern Player | 10.00% | ~41 |
 | The Curse Is Real | 10.00% | ~41 |

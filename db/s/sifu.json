@@ -8877,9 +8877,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 758496,
+  "EOS_Progressed": 758522,
   "EOS_Completed": 12981,
-  "EOS_NewPlayers": 6126,
+  "EOS_NewPlayers": 6117,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -33127,6 +33127,11 @@
       "Time": "2024-01-10T07:09:44.1117281+00:00",
       "NumProgressed": 758496,
       "NumCompleted": 12981
+    },
+    {
+      "Time": "2024-01-10T08:09:54.3425059+00:00",
+      "NumProgressed": 758522,
+      "NumCompleted": 12981
     }
   ],
   "TotalAchievements": 60,
@@ -33138,7 +33143,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45510
+      "UsersEstimate": 45511
     },
     {
       "ID": "02_Vengeance_H1",
@@ -33146,7 +33151,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30340
+      "UsersEstimate": 30341
     },
     {
       "ID": "03_Vengeance_H2",
@@ -33154,7 +33159,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22755
+      "UsersEstimate": 22756
     },
     {
       "ID": "04_Vengeance_H3",
@@ -33186,7 +33191,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 5309
+      "UsersEstimate": 5310
     },
     {
       "ID": "08_Wude_H2",
@@ -33218,7 +33223,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3792
+      "UsersEstimate": 3793
     },
     {
       "ID": "12_MidAge",
@@ -33234,7 +33239,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3792
+      "UsersEstimate": 3793
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -33258,7 +33263,7 @@
       "Name": "Drunken Fighter",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "17_Detective_H3",
@@ -33266,7 +33271,7 @@
       "Name": "Martial Artist",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "18_Detective_H4",
@@ -33274,7 +33279,7 @@
       "Name": "Knowledge Greed",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "19_Detective_H5",
@@ -33314,7 +33319,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37925
+      "UsersEstimate": 37926
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -33322,7 +33327,7 @@
       "Name": "State of constant learning",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22755
+      "UsersEstimate": 22756
     },
     {
       "ID": "25_ShrineMind",
@@ -33346,7 +33351,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22755
+      "UsersEstimate": 22756
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -33354,7 +33359,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 3792
+      "UsersEstimate": 3793
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -33378,7 +33383,7 @@
       "Name": "Ferocity, speed, strength, accuracy",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "32_ReachMaxAge",
@@ -33386,7 +33391,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22755
+      "UsersEstimate": 22756
     },
     {
       "ID": "33_BladeOneShot",
@@ -33402,7 +33407,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30340
+      "UsersEstimate": 30341
     },
     {
       "ID": "35_WideStrike",
@@ -33458,7 +33463,7 @@
       "Name": "Warriors from the Mountain",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "42_PhotoMode_Trophy",
@@ -33602,7 +33607,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -33617,21 +33622,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 67797,
+      "Progressed": 67823,
       "Completed": 10802
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 758496,
+      "Progressed": 758522,
       "Completed": 12981
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-09T21:02:58.5440984+00:00",
-  "LastChanged_Achievements": "2024-01-10T07:09:44.1117275+00:00",
+  "LastChanged_Achievements": "2024-01-10T08:09:54.3425056+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.3871095+00:00",
-  "LastUpdate_Ratings": "2024-01-10T07:03:18.0378885+00:00",
-  "LastUpdate_Achievements": "2024-01-10T07:09:44.1119216+00:00"
+  "LastUpdate_Ratings": "2024-01-10T08:03:07.1203871+00:00",
+  "LastUpdate_Achievements": "2024-01-10T08:09:54.3426969+00:00"
 }

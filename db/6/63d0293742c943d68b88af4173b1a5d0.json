@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 716,
+  "EOS_Progressed": 717,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2314,6 +2314,11 @@
       "Time": "2024-01-10T01:52:44.6569402+00:00",
       "NumProgressed": 716,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T08:04:04.0306922+00:00",
+      "NumProgressed": 717,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2334,7 +2339,7 @@
       "Name": "Iced Iced Baby",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "5",
@@ -2342,7 +2347,7 @@
       "Name": "What\u0027s Cooking?",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "6",
@@ -2364,9 +2369,9 @@
       "ID": "8",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s On Fire",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 279
+      "UsersEstimate": 272
     },
     {
       "ID": "9",
@@ -2398,7 +2403,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "Remake_005",
@@ -2414,7 +2419,7 @@
       "Name": "Attempted Vehicular Infanticide",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Remake_007",
@@ -2436,9 +2441,9 @@
       "ID": "Remake_009",
       "SetID": "5pi96jj",
       "Name": "Make a fish your dish",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 193
+      "UsersEstimate": 186
     },
     {
       "ID": "Remake_010",
@@ -2470,7 +2475,7 @@
       "Name": "Toasted",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Remake_14",
@@ -2478,7 +2483,7 @@
       "Name": "This is not how you play Slip and Die",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Remake_15",
@@ -2494,7 +2499,7 @@
       "Name": "Choked on Balls",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Remake_17",
@@ -2549,14 +2554,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 716,
+      "Progressed": 717,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-10T07:03:55.4287086+00:00",
+  "LastChanged_Achievements": "2024-01-10T08:04:04.0306918+00:00",
   "LastUpdate_AppInfo": "2024-01-09T02:21:36.6517683+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:58:01.8492208+00:00",
-  "LastUpdate_Achievements": "2024-01-10T07:03:55.4287336+00:00"
+  "LastUpdate_Ratings": "2024-01-10T07:58:28.2685837+00:00",
+  "LastUpdate_Achievements": "2024-01-10T08:04:04.0307163+00:00"
 }

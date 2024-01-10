@@ -4,7 +4,7 @@
   "ProductSlug": "spirit-of-the-north-f58a66",
   "Ranking_Rating": 819,
   "Ranking_Popularity": 540,
-  "Ranking_PopularitySum": 458,
+  "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 128,
@@ -341,7 +341,7 @@
   ],
   "EOS_Progressed": 79638,
   "EOS_Completed": 432,
-  "EOS_NewPlayers": 753,
+  "EOS_NewPlayers": 751,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -29804,8 +29804,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-10T07:10:00.5471236+00:00",
+  "LastChanged_Achievements": "2024-01-10T08:10:17.2230391+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:00.3957366+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:57:29.7692327+00:00",
-  "LastUpdate_Achievements": "2024-01-10T07:10:00.5472745+00:00"
+  "LastUpdate_Ratings": "2024-01-10T07:57:41.883315+00:00",
+  "LastUpdate_Achievements": "2024-01-10T08:10:17.2231971+00:00"
 }

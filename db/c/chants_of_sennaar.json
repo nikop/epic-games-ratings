@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 235,
-  "Ranking_EOS_Completed": 58,
+  "Ranking_EOS_Completed": 57,
   "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
@@ -127,11 +127,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2640,
-  "EOS_Completed": 189,
-  "EOS_NewPlayers": 386,
-  "EOS_NewCompleters": 46,
-  "EOS_Completed_Percentage": 7.16,
+  "EOS_Progressed": 2641,
+  "EOS_Completed": 190,
+  "EOS_NewPlayers": 385,
+  "EOS_NewCompleters": 47,
+  "EOS_Completed_Percentage": 7.19,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -6932,6 +6932,11 @@
       "Time": "2024-01-10T07:03:43.8816419+00:00",
       "NumProgressed": 2640,
       "NumCompleted": 189
+    },
+    {
+      "Time": "2024-01-10T08:03:47.5843802+00:00",
+      "NumProgressed": 2641,
+      "NumCompleted": 190
     }
   ],
   "TotalAchievements": 25,
@@ -6959,7 +6964,7 @@
       "Name": "Peace walker",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -6975,7 +6980,7 @@
       "Name": "A good beginning",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "META_HALF_LINK",
@@ -7039,7 +7044,7 @@
       "Name": "Alchemists Express",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -7047,7 +7052,7 @@
       "Name": "Rascal",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -7055,7 +7060,7 @@
       "Name": "True G3M4R",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -7087,7 +7092,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7095,7 +7100,7 @@
       "Name": "Scholar",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "PROGRESS_N1",
@@ -7111,7 +7116,7 @@
       "Name": "The great escape",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "PROGRESS_N3",
@@ -7127,7 +7132,7 @@
       "Name": "The darkness",
       "Percentage": 31,
       "XP": 60,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "PROGRESS_N5",
@@ -7142,16 +7147,16 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2640,
-      "Completed": 189
+      "Progressed": 2641,
+      "Completed": 190
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-10T07:03:43.8816416+00:00",
+  "LastChanged_Achievements": "2024-01-10T08:03:47.58438+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:59:30.3445189+00:00",
-  "LastUpdate_Achievements": "2024-01-10T07:03:43.881698+00:00"
+  "LastUpdate_Ratings": "2024-01-10T08:00:41.3975425+00:00",
+  "LastUpdate_Achievements": "2024-01-10T08:03:47.584431+00:00"
 }

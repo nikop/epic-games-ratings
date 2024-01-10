@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -3541,10 +3541,10 @@
       "Count": 262
     }
   ],
-  "EOS_Progressed": 89973,
-  "EOS_Completed": 183,
-  "EOS_NewPlayers": 1062,
-  "EOS_NewCompleters": 3,
+  "EOS_Progressed": 89974,
+  "EOS_Completed": 184,
+  "EOS_NewPlayers": 1059,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -33186,6 +33186,11 @@
       "Time": "2024-01-10T06:05:53.5374678+00:00",
       "NumProgressed": 89973,
       "NumCompleted": 183
+    },
+    {
+      "Time": "2024-01-10T08:05:29.2466902+00:00",
+      "NumProgressed": 89974,
+      "NumCompleted": 184
     }
   ],
   "TotalAchievements": 30,
@@ -33229,7 +33234,7 @@
       "Name": "No Longer Red",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 15295
+      "UsersEstimate": 15296
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -33245,7 +33250,7 @@
       "Name": "Biggest Reward",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 11696
+      "UsersEstimate": 11697
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -33285,7 +33290,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 25192
+      "UsersEstimate": 25193
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -33293,7 +33298,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 28791
+      "UsersEstimate": 28792
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -33381,7 +33386,7 @@
       "Name": "Self-sufficient",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 15295
+      "UsersEstimate": 15296
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -33436,15 +33441,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 89973,
-      "Completed": 183
+      "Progressed": 89974,
+      "Completed": 184
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2024-01-09T22:02:43.9519959+00:00",
-  "LastChanged_Achievements": "2024-01-10T07:04:55.9132529+00:00",
+  "LastChanged_Achievements": "2024-01-10T08:05:29.2466895+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.1589708+00:00",
-  "LastUpdate_Ratings": "2024-01-10T07:02:56.4674854+00:00",
-  "LastUpdate_Achievements": "2024-01-10T07:04:55.9134277+00:00"
+  "LastUpdate_Ratings": "2024-01-10T08:02:16.5893506+00:00",
+  "LastUpdate_Achievements": "2024-01-10T08:05:29.246824+00:00"
 }

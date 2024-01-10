@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,125 |
-| The Cursed Farmer | 2.00% | ~5,062 |
+| The Cursed Farmer | 2.00% | ~5,063 |
 | Beast Intentions | 1.00% | ~2,531 |
 | The Mad Wizard | 1.00% | ~2,531 |
 | The Ring of Regeneration | 0.90% | ~2,278 |
@@ -24,13 +24,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Overgrown Grove | 0.50% | ~1,097 |
 | Flames of Avernus | 0.50% | ~1,097 |
 | Mental Gymnastics | 0.50% | ~1,097 |
-| Maddening | 0.40% | ~1,012 |
-| Beast Mode | 0.40% | ~1,012 |
-| A Mysterious Summons | 0.40% | ~1,012 |
-| Unearthed Evil | 0.40% | ~1,012 |
-| The Crumbling Temple | 0.40% | ~1,012 |
-| Exploring Port Nyanzaru | 0.40% | ~1,012 |
-| The Contagious Curse | 0.40% | ~1,012 |
+| Maddening | 0.40% | ~1,013 |
+| Beast Mode | 0.40% | ~1,013 |
+| A Mysterious Summons | 0.40% | ~1,013 |
+| Unearthed Evil | 0.40% | ~1,013 |
+| The Crumbling Temple | 0.40% | ~1,013 |
+| Exploring Port Nyanzaru | 0.40% | ~1,013 |
+| The Contagious Curse | 0.40% | ~1,013 |
 | Arcane Suppression | 0.40% | ~878 |
 | Welcome to the Vrocks | 0.40% | ~878 |
 | Misaligned in Sigil | 0.40% | ~878 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,115 (Ranked 70)  
+Progressed: 253,126 (Ranked 70)  
 Completed: 2,608 (1.03%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -818,7 +818,7 @@ Completed: 2,608 (1.03%) (Ranked 174)
 | 2024-01-07 | 252,516 | 2,599 |
 | 2024-01-08 | 252,794 | 2,602 |
 | 2024-01-09 | 253,044 | 2,606 |
-| 2024-01-10 | 253,115 | 2,608 |
+| 2024-01-10 | 253,126 | 2,608 |
 ## Awards
 Max (Great for Beginners): 5,768  (Ranked 74)  
 Sum: 33,421 (Ranked 41)  

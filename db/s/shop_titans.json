@@ -8107,9 +8107,9 @@
       "Count": 3820
     }
   ],
-  "EOS_Progressed": 150529,
+  "EOS_Progressed": 150534,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 1406,
+  "EOS_NewPlayers": 1409,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36102,6 +36102,11 @@
       "Time": "2024-01-10T07:09:06.7955637+00:00",
       "NumProgressed": 150529,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2024-01-10T08:09:01.369544+00:00",
+      "NumProgressed": 150534,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 112,
@@ -36281,7 +36286,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16558
+      "UsersEstimate": 16559
     },
     {
       "ID": "chest02",
@@ -36593,7 +36598,7 @@
       "Name": "Pretty Penny",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7526
+      "UsersEstimate": 7527
     },
     {
       "ID": "gold03",
@@ -36647,9 +36652,9 @@
       "ID": "help03",
       "SetID": "anfd17p",
       "Name": "Capitalist Camaraderie",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 452
     },
     {
       "ID": "hemma_a",
@@ -36665,7 +36670,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7526
+      "UsersEstimate": 7527
     },
     {
       "ID": "jackslot02",
@@ -36769,7 +36774,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7526
+      "UsersEstimate": 7527
     },
     {
       "ID": "master02",
@@ -36929,7 +36934,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16558
+      "UsersEstimate": 16559
     },
     {
       "ID": "twinenchant01",
@@ -37008,15 +37013,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 150529,
+      "Progressed": 150534,
       "Completed": 345
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-10T07:03:25.9129923+00:00",
-  "LastChanged_Achievements": "2024-01-10T07:09:06.7955632+00:00",
+  "LastChanged_Achievements": "2024-01-10T08:09:01.3695438+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.0260329+00:00",
-  "LastUpdate_Ratings": "2024-01-10T07:03:25.9129929+00:00",
-  "LastUpdate_Achievements": "2024-01-10T07:09:06.7958124+00:00"
+  "LastUpdate_Ratings": "2024-01-10T08:03:18.2129246+00:00",
+  "LastUpdate_Achievements": "2024-01-10T08:09:01.3697801+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_Rating": 262,
   "Ranking_Popularity": 425,
   "Ranking_PopularitySum": 326,
-  "Ranking_EOS_Progress": 221,
+  "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 157,
@@ -1363,9 +1363,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 3639,
+  "EOS_Progressed": 3642,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7853,6 +7853,11 @@
       "Time": "2024-01-10T05:04:50.0095833+00:00",
       "NumProgressed": 3639,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-10T08:05:31.9163057+00:00",
+      "NumProgressed": 3642,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -7944,7 +7949,7 @@
       "Name": "Fulfilled the dream",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_GDAY-MATE",
@@ -7952,7 +7957,7 @@
       "Name": "G\u0027Day Mate!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_GLOBETROTTER",
@@ -8096,7 +8101,7 @@
       "Name": "Purple passion",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_RENAISSANCE-MAN",
@@ -8120,7 +8125,7 @@
       "Name": "Squad goals",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_SUP-WIDDIT-BIG-DOG",
@@ -8128,7 +8133,7 @@
       "Name": "Sup widdit big dog!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_TANK-COMMANDER",
@@ -8168,7 +8173,7 @@
       "Name": "The finer things in life",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -8232,7 +8237,7 @@
       "Name": "Welcome to the family",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -8240,22 +8245,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 2293
+      "UsersEstimate": 2294
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3639,
+      "Progressed": 3642,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2024-01-07T05:01:33.5374268+00:00",
-  "LastChanged_Achievements": "2024-01-10T07:04:57.7964832+00:00",
+  "LastChanged_Achievements": "2024-01-10T08:05:31.9163054+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:55.5577816+00:00",
-  "LastUpdate_Ratings": "2024-01-10T07:03:00.362213+00:00",
-  "LastUpdate_Achievements": "2024-01-10T07:04:57.7965778+00:00"
+  "LastUpdate_Ratings": "2024-01-10T08:02:41.8930292+00:00",
+  "LastUpdate_Achievements": "2024-01-10T08:05:31.916374+00:00"
 }

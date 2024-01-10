@@ -15,10 +15,10 @@
 | In the heart of the volcano. | 10.00% | ~30 |
 | Dinosaur graveyard. | 10.00% | ~30 |
 | Swimming on a dino's back. | 9.00% | ~27 |
-| The entrails of the beast. | 8.00% | ~24 |
+| The entrails of the beast. | 9.00% | ~27 |
 | The mountain of peril. | 7.00% | ~21 |
+| Lightning swamp. | 6.00% | ~18 |
 | Passing the carcass. | 5.00% | ~15 |
-| Lightning swamp. | 5.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 305 (Ranked 395)  
 Completed: 7 (2.30%) (Ranked 131)  

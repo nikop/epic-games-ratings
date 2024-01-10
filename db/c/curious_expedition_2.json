@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 420,
+  "EOS_Progressed": 422,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -711,6 +711,11 @@
       "Time": "2024-01-09T15:09:50.9856294+00:00",
       "NumProgressed": 420,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T08:10:53.8849262+00:00",
+      "NumProgressed": 422,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -738,7 +743,7 @@
       "Name": "Zookeeper",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ach-anthropology-complete",
@@ -818,7 +823,7 @@
       "Name": "Traveller",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ach-campaign-finish-hard",
@@ -842,7 +847,7 @@
       "Name": "Iron Man",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ach-campaign-pacifist",
@@ -858,7 +863,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ach-campaign-story2",
@@ -874,7 +879,7 @@
       "Name": "O Captain My Captain",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ach-cartography-complete",
@@ -898,7 +903,7 @@
       "Name": "Cartographer",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ach-discover-locations-high",
@@ -922,7 +927,7 @@
       "Name": "Fire and Flood",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ach-find-treasure",
@@ -946,7 +951,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ach-hardExpeditions",
@@ -986,7 +991,7 @@
       "Name": "Taxonomist",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ach-kill-hyenas",
@@ -1010,7 +1015,7 @@
       "Name": "Shennong Herbalist",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -1042,7 +1047,7 @@
       "Name": "Veteran Explorer",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ach-meetGhost",
@@ -1066,7 +1071,7 @@
       "Name": "Insomnia",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ach-pacifist-goals",
@@ -1080,7 +1085,7 @@
       "ID": "ach-paleMask-cure",
       "SetID": "17ih7ma",
       "Name": "It\u0027s Not Too Late",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -1090,7 +1095,7 @@
       "Name": "Uncertain Loyalties",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ach-portal-return",
@@ -1112,9 +1117,9 @@
       "ID": "ach-raiseDino",
       "SetID": "17ih7ma",
       "Name": "Good Mama",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 135
     },
     {
       "ID": "ach-redElk",
@@ -1122,7 +1127,7 @@
       "Name": "A Gentle Beast",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ach-rideDinosaur",
@@ -1130,15 +1135,15 @@
       "Name": "Practical Palaeontology",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ach-rob-shrines",
       "SetID": "17ih7ma",
       "Name": "Plunderer",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 122
     },
     {
       "ID": "ach-salamanderPrince",
@@ -1170,7 +1175,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -1178,7 +1183,7 @@
       "Name": "Very Classy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ach-villageQuests",
@@ -1201,7 +1206,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 420,
+      "Progressed": 422,
       "Completed": 1
     }
   ],
@@ -1209,8 +1214,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-10T07:10:27.7132733+00:00",
+  "LastChanged_Achievements": "2024-01-10T08:10:53.8849261+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:11.9345433+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:59:20.7251261+00:00",
-  "LastUpdate_Achievements": "2024-01-10T07:10:27.7133326+00:00"
+  "LastUpdate_Ratings": "2024-01-10T08:00:26.6856791+00:00",
+  "LastUpdate_Achievements": "2024-01-10T08:10:53.8849751+00:00"
 }

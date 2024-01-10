@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25015,
+  "EOS_Progressed": 25017,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -22705,6 +22705,11 @@
       "Time": "2024-01-10T07:05:46.3954832+00:00",
       "NumProgressed": 25015,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2024-01-10T08:06:40.216965+00:00",
+      "NumProgressed": 25017,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 16,
@@ -22716,7 +22721,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 5753
+      "UsersEstimate": 5754
     },
     {
       "ID": "Burning_For_You",
@@ -22764,7 +22769,7 @@
       "Name": "Fireworks",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 7504
+      "UsersEstimate": 7505
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -22780,7 +22785,7 @@
       "Name": "I Am The Storm",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 3752
+      "UsersEstimate": 3753
     },
     {
       "ID": "Make_Rock_Not_War",
@@ -22812,7 +22817,7 @@
       "Name": "Shooting Shark",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 11757
+      "UsersEstimate": 11758
     },
     {
       "ID": "Sole_Survivor",
@@ -22820,7 +22825,7 @@
       "Name": "Sole Survivor",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 8505
+      "UsersEstimate": 8506
     },
     {
       "ID": "Still_Burning",
@@ -22828,7 +22833,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4002
+      "UsersEstimate": 4003
     },
     {
       "ID": "The_Reaper",
@@ -22843,15 +22848,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 25015,
+      "Progressed": 25017,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-09T13:57:36.5131842+00:00",
-  "LastChanged_Achievements": "2024-01-10T07:05:46.3954828+00:00",
+  "LastChanged_Achievements": "2024-01-10T08:06:40.2169646+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:51.4692455+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:57:56.8360473+00:00",
-  "LastUpdate_Achievements": "2024-01-10T07:05:46.395614+00:00"
+  "LastUpdate_Ratings": "2024-01-10T07:58:20.6789242+00:00",
+  "LastUpdate_Achievements": "2024-01-10T08:06:40.2171091+00:00"
 }

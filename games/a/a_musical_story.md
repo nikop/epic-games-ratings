@@ -27,24 +27,24 @@
 | TV Dreams | 26.00% | ~30 |
 | The Clash | 24.00% | ~27 |
 | Dreamers | 21.00% | ~24 |
-| The Fix | 19.00% | ~22 |
+| The Fix | 20.00% | ~23 |
 | Time | 18.00% | ~21 |
+| The Mountains, The Valleys | 17.00% | ~19 |
 | Bad Trip | 16.00% | ~18 |
 | Regrets | 16.00% | ~18 |
-| The Mountains, The Valleys | 16.00% | ~18 |
 | Chase the Crow | 14.00% | ~16 |
 | The Accident | 13.00% | ~15 |
 | The Awakening | 13.00% | ~15 |
 | Love | 12.00% | ~14 |
+| Flight of the Bumblebee | 12.00% | ~14 |
 | Here we go again! | 11.00% | ~13 |
-| Flight of the Bumblebee | 11.00% | ~13 |
-| As the Crow Flies | 9.00% | ~10 |
-| Milk and Alcohol | 8.00% | ~9 |
+| As the Crow Flies | 10.00% | ~11 |
+| Milk and Alcohol | 9.00% | ~10 |
+| Under the Bridge | 7.00% | ~8 |
+| Gasoline | 6.00% | ~7 |
 | On the Road Again | 6.00% | ~7 |
-| Under the Bridge | 6.00% | ~7 |
-| Gasoline | 5.00% | ~6 |
+| Unintended | 6.00% | ~7 |
 | Hospital Flowers | 5.00% | ~6 |
-| Unintended | 5.00% | ~6 |
 | Riders on the Storm | 4.00% | ~5 |
 | Under my Wheels | 4.00% | ~5 |
 | The Fight Song | 4.00% | ~5 |

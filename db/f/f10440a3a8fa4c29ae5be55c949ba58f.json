@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8069,
+  "EOS_Progressed": 8077,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 1922,
   "EOS_NewCompleters": 2,
@@ -2379,6 +2379,11 @@
       "Time": "2024-01-10T07:09:42.1213263+00:00",
       "NumProgressed": 8069,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-10T08:09:51.4217333+00:00",
+      "NumProgressed": 8077,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -2391,7 +2396,7 @@
       "Name": "Final Destination",
       "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 4034
+      "UsersEstimate": 4038
     },
     {
       "ID": "Document1",
@@ -2415,7 +2420,7 @@
       "Name": "Secrets Revealer",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Document4",
@@ -2431,7 +2436,7 @@
       "Name": "Master of Secrets",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Perservant",
@@ -2439,7 +2444,7 @@
       "Name": "Perseverant",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Untraceable2",
@@ -2447,21 +2452,21 @@
       "Name": "Untraceable",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     }
   ],
   "AchievementSets": [
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 8069,
+      "Progressed": 8077,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-10T07:09:42.1213261+00:00",
+  "LastChanged_Achievements": "2024-01-10T08:09:51.4217329+00:00",
   "LastUpdate_AppInfo": "2024-01-07T21:57:13.0406277+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:59:53.4369743+00:00",
-  "LastUpdate_Achievements": "2024-01-10T07:09:42.121346+00:00"
+  "LastUpdate_Ratings": "2024-01-10T08:01:15.441968+00:00",
+  "LastUpdate_Achievements": "2024-01-10T08:09:51.4217533+00:00"
 }

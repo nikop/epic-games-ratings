@@ -485,9 +485,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 226999,
+  "EOS_Progressed": 227002,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1361,
+  "EOS_NewPlayers": 1356,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30795,6 +30795,11 @@
       "Time": "2024-01-10T07:04:00.5087837+00:00",
       "NumProgressed": 226999,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-10T08:04:11.4334896+00:00",
+      "NumProgressed": 227002,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -30806,7 +30811,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 106690
+      "UsersEstimate": 106691
     },
     {
       "ID": "AlekhinesGun",
@@ -30854,7 +30859,7 @@
       "Name": "Check",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 127119
+      "UsersEstimate": 127121
     },
     {
       "ID": "Checkmate",
@@ -30862,7 +30867,7 @@
       "Name": "Checkmate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 68100
+      "UsersEstimate": 68101
     },
     {
       "ID": "ChessChampion",
@@ -30878,7 +30883,7 @@
       "Name": "Chop Wood",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 161169
+      "UsersEstimate": 161171
     },
     {
       "ID": "DoubleCheck",
@@ -30894,7 +30899,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 129389
+      "UsersEstimate": 129391
     },
     {
       "ID": "Elo",
@@ -31022,7 +31027,7 @@
       "Name": "Promotion",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 70370
+      "UsersEstimate": 70371
     },
     {
       "ID": "QueenSacrifice",
@@ -31109,7 +31114,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 226999,
+      "Progressed": 227002,
       "Completed": 2
     }
   ],
@@ -31117,8 +31122,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2024-01-06T17:03:00.3028127+00:00",
-  "LastChanged_Achievements": "2024-01-10T07:04:00.5087833+00:00",
+  "LastChanged_Achievements": "2024-01-10T08:04:11.4334892+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:59.7660252+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:57:42.4808885+00:00",
-  "LastUpdate_Achievements": "2024-01-10T07:04:00.508923+00:00"
+  "LastUpdate_Ratings": "2024-01-10T07:57:59.2396537+00:00",
+  "LastUpdate_Achievements": "2024-01-10T08:04:11.4336441+00:00"
 }

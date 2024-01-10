@@ -854,9 +854,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6239,
+  "EOS_Progressed": 6240,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -12944,6 +12944,11 @@
       "Time": "2024-01-10T07:06:15.7706003+00:00",
       "NumProgressed": 6239,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-10T08:07:21.5419425+00:00",
+      "NumProgressed": 6240,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13108,7 +13113,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -13139,15 +13144,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6239,
+      "Progressed": 6240,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-10T07:06:15.7705998+00:00",
+  "LastChanged_Achievements": "2024-01-10T08:07:21.5419422+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-10T07:03:02.7644829+00:00",
-  "LastUpdate_Achievements": "2024-01-10T07:06:15.7706842+00:00"
+  "LastUpdate_Ratings": "2024-01-10T08:02:44.6983077+00:00",
+  "LastUpdate_Achievements": "2024-01-10T08:07:21.5420281+00:00"
 }

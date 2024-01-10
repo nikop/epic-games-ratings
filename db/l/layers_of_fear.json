@@ -1397,9 +1397,9 @@
       "ID": "another_perspective",
       "SetID": "f2im8d",
       "Name": "Another perspective",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "assemble_puzzles",
@@ -1549,17 +1549,17 @@
       "ID": "find_one_photo",
       "SetID": "f2im8d",
       "Name": "A Slice of Life",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "find_one_poster",
       "SetID": "f2im8d",
       "Name": "Debut",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "find_one_rat_sketch",
@@ -1812,8 +1812,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-10T07:09:13.8820137+00:00",
+  "LastChanged_Achievements": "2024-01-10T08:09:11.1395995+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:37.800715+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:58:09.5975493+00:00",
-  "LastUpdate_Achievements": "2024-01-10T07:09:13.8820572+00:00"
+  "LastUpdate_Ratings": "2024-01-10T07:58:41.3777577+00:00",
+  "LastUpdate_Achievements": "2024-01-10T08:09:11.1396394+00:00"
 }

@@ -400,9 +400,9 @@
       "ID": "L10_5_PERFECT",
       "SetID": "6finf64",
       "Name": "Gasoline",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "L10_FINISH",
@@ -432,9 +432,9 @@
       "ID": "L11_PERFECT",
       "SetID": "6finf64",
       "Name": "Under the Bridge",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "L12_FINISH",
@@ -704,9 +704,9 @@
       "ID": "L5_PERFECT",
       "SetID": "6finf64",
       "Name": "The Fix",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "L6_FINISH",
@@ -720,9 +720,9 @@
       "ID": "L6_PERFECT",
       "SetID": "6finf64",
       "Name": "The Mountains, The Valleys",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "L7_5_FINISH",
@@ -736,9 +736,9 @@
       "ID": "L7_5_PERFECT",
       "SetID": "6finf64",
       "Name": "As the Crow Flies",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "L7_FINISH",
@@ -752,9 +752,9 @@
       "ID": "L7_PERFECT",
       "SetID": "6finf64",
       "Name": "Flight of the Bumblebee",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "L8_FINISH",
@@ -768,9 +768,9 @@
       "ID": "L8_PERFECT",
       "SetID": "6finf64",
       "Name": "Milk and Alcohol",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "L9_FINISH",
@@ -784,9 +784,9 @@
       "ID": "L9_PERFECT",
       "SetID": "6finf64",
       "Name": "Unintended",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "UNLOCK_L21",
@@ -809,8 +809,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2024-01-10T07:09:45.332404+00:00",
+  "LastChanged_Achievements": "2024-01-10T08:09:56.0561602+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:42.6916168+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:59:12.3469501+00:00",
-  "LastUpdate_Achievements": "2024-01-10T07:09:45.3324503+00:00"
+  "LastUpdate_Ratings": "2024-01-10T08:00:14.5726765+00:00",
+  "LastUpdate_Achievements": "2024-01-10T08:09:56.0562133+00:00"
 }

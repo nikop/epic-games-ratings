@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewPlayers": 373,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -338,11 +338,11 @@
       "Count": 131
     }
   ],
-  "EOS_Progressed": 687,
+  "EOS_Progressed": 688,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.99,
+  "EOS_Completed_Percentage": 6.98,
   "EosHistory": [
     {
       "Time": "2023-06-23T06:05:34.2509802+00:00",
@@ -3118,6 +3118,11 @@
       "Time": "2024-01-10T06:11:13.4727647+00:00",
       "NumProgressed": 687,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2024-01-10T08:10:47.674806+00:00",
+      "NumProgressed": 688,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 35,
@@ -3129,7 +3134,7 @@
       "Name": "Welcome to Sonic the Hedgehog",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "ID_02_SONICCD_WATCH_OPENING",
@@ -3137,7 +3142,7 @@
       "Name": "Welcome to Sonic CD",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ID_03_SONIC2_WATCH_OPENING",
@@ -3145,7 +3150,7 @@
       "Name": "Welcome to Sonic the Hedgehog 2",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ID_04_SONIC3K_WATCH_OPENING",
@@ -3153,7 +3158,7 @@
       "Name": "Welcome to Sonic 3 \u0026 Knuckles",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ID_05_SONIC1_DEFEAT_MOTORA",
@@ -3201,7 +3206,7 @@
       "Name": "Lucky Hedgehog",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ID_11_SONIC3K_DEFEAT_RHINOBOT",
@@ -3217,7 +3222,7 @@
       "Name": "Easy Peasy with Shields",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ID_13_RING_COLLECTOR",
@@ -3225,7 +3230,7 @@
       "Name": "Ring Collector",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ID_14_DEFEAT_ENEMY_BY_SPIN_DASH",
@@ -3271,9 +3276,9 @@
       "ID": "ID_19_TAILS_FLYING",
       "SetID": "7o8nc5m",
       "Name": "Miles \u0022Tails\u0022 Prower",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 378
     },
     {
       "ID": "ID_20_CHALLENGE_BOSSRUSH",
@@ -3319,9 +3324,9 @@
       "ID": "ID_25_PLAY_MIRRORING",
       "SetID": "7o8nc5m",
       "Name": "To the Mirror World",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 179
     },
     {
       "ID": "ID_26_MOVIE_MANIA",
@@ -3353,7 +3358,7 @@
       "Name": "Everyone\u0027s Hero",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ID_30_TRANSFORM_SUPER_SONIC",
@@ -3377,7 +3382,7 @@
       "Name": "Cleared Sonic CD",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ID_33_SONIC2_CLEAR_ALL_STAGE",
@@ -3401,22 +3406,22 @@
       "Name": "All Clear!",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     }
   ],
   "AchievementSets": [
     {
       "ID": "7o8nc5m",
       "IsBase": true,
-      "Progressed": 687,
+      "Progressed": 688,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-12-13T19:57:46.4026225+00:00",
-  "LastChanged_Achievements": "2024-01-10T07:10:22.9281063+00:00",
+  "LastChanged_Achievements": "2024-01-10T08:10:47.6748057+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:14.816003+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:57:13.9780907+00:00",
-  "LastUpdate_Achievements": "2024-01-10T07:10:22.9281424+00:00"
+  "LastUpdate_Ratings": "2024-01-10T07:57:18.4071463+00:00",
+  "LastUpdate_Achievements": "2024-01-10T08:10:47.6748459+00:00"
 }

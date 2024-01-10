@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 312,
+  "EOS_Progressed": 313,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1334,6 +1334,11 @@
       "Time": "2024-01-10T03:03:50.6209751+00:00",
       "NumProgressed": 312,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T08:03:44.1622903+00:00",
+      "NumProgressed": 313,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1344,9 +1349,9 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 197
+      "UsersEstimate": 194
     },
     {
       "ID": "10",
@@ -1466,7 +1471,7 @@
       "Name": "He is the doctor you\u0027re looking for",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "24",
@@ -1554,21 +1559,21 @@
       "Name": "Encore!",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 312,
+      "Progressed": 313,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-10T07:03:41.5533731+00:00",
+  "LastChanged_Achievements": "2024-01-10T08:03:44.1622899+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:18.4677846+00:00",
-  "LastUpdate_Ratings": "2024-01-10T07:03:20.1812219+00:00",
-  "LastUpdate_Achievements": "2024-01-10T07:03:41.5534009+00:00"
+  "LastUpdate_Ratings": "2024-01-10T08:03:10.0843154+00:00",
+  "LastUpdate_Achievements": "2024-01-10T08:03:44.1623114+00:00"
 }

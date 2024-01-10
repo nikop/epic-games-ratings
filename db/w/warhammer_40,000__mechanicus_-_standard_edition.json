@@ -1092,9 +1092,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 231862,
+  "EOS_Progressed": 231863,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 640,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30172,6 +30172,11 @@
       "Time": "2024-01-10T07:10:19.0078672+00:00",
       "NumProgressed": 231862,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-10T08:10:42.5502529+00:00",
+      "NumProgressed": 231863,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -30183,7 +30188,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46372
+      "UsersEstimate": 46373
     },
     {
       "ID": "ACH_BASE_10",
@@ -30207,7 +30212,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9274
+      "UsersEstimate": 9275
     },
     {
       "ID": "ACH_BASE_13",
@@ -30351,7 +30356,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9274
+      "UsersEstimate": 9275
     },
     {
       "ID": "ACH_BASE_30",
@@ -30439,7 +30444,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9274
+      "UsersEstimate": 9275
     },
     {
       "ID": "ACH_BASE_9",
@@ -30454,7 +30459,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 231862,
+      "Progressed": 231863,
       "Completed": 5
     }
   ],
@@ -30462,8 +30467,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-10T01:46:14.71784+00:00",
-  "LastChanged_Achievements": "2024-01-10T07:10:19.0078669+00:00",
+  "LastChanged_Achievements": "2024-01-10T08:10:42.5502527+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:54.2987721+00:00",
-  "LastUpdate_Ratings": "2024-01-10T06:57:20.3975294+00:00",
-  "LastUpdate_Achievements": "2024-01-10T07:10:19.0080309+00:00"
+  "LastUpdate_Ratings": "2024-01-10T07:57:28.2317276+00:00",
+  "LastUpdate_Achievements": "2024-01-10T08:10:42.5504132+00:00"
 }

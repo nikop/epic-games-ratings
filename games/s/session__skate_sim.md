@@ -6,10 +6,10 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 63.00% | ~2,293 |
+| You're free now! | 63.00% | ~2,294 |
 | Keeping it classy | 27.00% | ~983 |
-| Welcome to the family | 21.00% | ~764 |
-| The finer things in life | 19.00% | ~691 |
+| Welcome to the family | 21.00% | ~765 |
+| The finer things in life | 19.00% | ~692 |
 | Backpacker | 13.00% | ~473 |
 | Go with the Flow | 13.00% | ~473 |
 | Plastic Surgeon | 10.00% | ~364 |
@@ -23,11 +23,11 @@ Number of Ratings: 111  (23.09.2022)
 | Finally he zips it | 7.00% | ~255 |
 | That pinch! | 7.00% | ~255 |
 | Tight lipslides | 7.00% | ~255 |
-| Fulfilled the dream | 6.00% | ~218 |
-| G'Day Mate! | 6.00% | ~218 |
-| Purple passion | 6.00% | ~218 |
-| Squad goals | 6.00% | ~218 |
-| Sup widdit big dog! | 6.00% | ~218 |
+| Fulfilled the dream | 6.00% | ~219 |
+| G'Day Mate! | 6.00% | ~219 |
+| Purple passion | 6.00% | ~219 |
+| Squad goals | 6.00% | ~219 |
+| Sup widdit big dog! | 6.00% | ~219 |
 | Commence the Hijinx! | 5.00% | ~182 |
 | DIY Boss | 5.00% | ~182 |
 | Globetrotter | 5.00% | ~182 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,639 (Ranked 221)  
+Progressed: 3,642 (Ranked 220)  
 Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 2 (0.05%) (Ranked 336)
 | 2024-01-07 | 3,587 | 2 |
 | 2024-01-08 | 3,608 | 2 |
 | 2024-01-09 | 3,627 | 2 |
-| 2024-01-10 | 3,639 | 2 |
+| 2024-01-10 | 3,642 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 63  (Ranked 425)  
 Sum: 584 (Ranked 326)  

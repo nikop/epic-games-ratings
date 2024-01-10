@@ -6,14 +6,14 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,510 |
-| Life is your teacher | 5.00% | ~37,925 |
-| The Assault | 4.00% | ~30,340 |
-| Lightning Hands | 4.00% | ~30,340 |
-| The Hateful Pole Fighter | 3.00% | ~22,755 |
-| State of constant learning | 3.00% | ~22,755 |
-| Qi Gong: Essence | 3.00% | ~22,755 |
-| Old Child | 3.00% | ~22,755 |
+| The Old Grandmaster | 6.00% | ~45,511 |
+| Life is your teacher | 5.00% | ~37,926 |
+| The Assault | 4.00% | ~30,341 |
+| Lightning Hands | 4.00% | ~30,341 |
+| The Hateful Pole Fighter | 3.00% | ~22,756 |
+| State of constant learning | 3.00% | ~22,756 |
+| Qi Gong: Essence | 3.00% | ~22,756 |
+| Old Child | 3.00% | ~22,756 |
 | A Lady's Blood in the Snow | 2.00% | ~15,170 |
 | Lady Wing Chun | 2.00% | ~15,170 |
 | Kill Nil | 2.00% | ~15,170 |
@@ -31,8 +31,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 1.00% | ~7,585 |
 | Take damage to save time | 1.00% | ~7,585 |
 | Project Arena | 1.00% | ~678 |
-| Fight the way you practice | 0.80% | ~542 |
-| Muk Yan Master | 0.70% | ~5,309 |
+| Fight the way you practice | 0.80% | ~543 |
+| Muk Yan Master | 0.70% | ~5,310 |
 | Tiger on Fire | 0.60% | ~4,551 |
 | Source of Flying Daggers | 0.60% | ~4,551 |
 | Iron Money | 0.60% | ~4,551 |
@@ -40,16 +40,16 @@ Number of Ratings: 9,492  (23.09.2022)
 | Sword Stained With Blood | 0.60% | ~4,551 |
 | Bloody Sport | 0.60% | ~407 |
 | Martial Hub | 0.60% | ~407 |
-| Legendary Talismans of Wuxing | 0.50% | ~3,792 |
-| Prodigal Child | 0.50% | ~3,792 |
-| The 36th Chamber of Kung-Fu | 0.50% | ~3,792 |
+| Legendary Talismans of Wuxing | 0.50% | ~3,793 |
+| Prodigal Child | 0.50% | ~3,793 |
+| The 36th Chamber of Kung-Fu | 0.50% | ~3,793 |
 | The Pit Protector | 0.40% | ~3,034 |
 | Come Snap With Me | 0.40% | ~3,034 |
 | The best strikes are the ones we avoid | 0.40% | ~271 |
-| Drunken Fighter | 0.30% | ~2,275 |
-| Martial Artist | 0.30% | ~2,275 |
-| Knowledge Greed | 0.30% | ~2,275 |
-| Ferocity, speed, strength, accuracy | 0.30% | ~2,275 |
+| Drunken Fighter | 0.30% | ~2,276 |
+| Martial Artist | 0.30% | ~2,276 |
+| Knowledge Greed | 0.30% | ~2,276 |
+| Ferocity, speed, strength, accuracy | 0.30% | ~2,276 |
 | Deadly Venom | 0.30% | ~203 |
 | A Touch of Acumen | 0.30% | ~203 |
 | Healing Memory | 0.20% | ~1,517 |
@@ -60,14 +60,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | Skill and an even stronger will | 0.20% | ~136 |
 | Master of the Flying Assassins | 0.20% | ~136 |
 | Beatmaker | 0.20% | ~136 |
-| Warriors from the Mountain | 0.10% | ~758 |
+| Warriors from the Mountain | 0.10% | ~759 |
 | Hidden Dragon | 0.10% | ~68 |
 | Here Cometh the Iceman | 0.10% | ~68 |
 | Fighter in the Pond | 0.10% | ~68 |
 | Bonus Stage | 0.10% | ~68 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 758,496 (Ranked 26)  
+Progressed: 758,522 (Ranked 26)  
 Completed: 12,981 (1.71%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 12,981 (1.71%) (Ranked 143)
 | 2024-01-07 | 756,813 | 12,976 |
 | 2024-01-08 | 757,529 | 12,979 |
 | 2024-01-09 | 758,306 | 12,980 |
-| 2024-01-10 | 758,496 | 12,981 |
+| 2024-01-10 | 758,522 | 12,981 |
 ## Awards
 Max (Great Boss Battles): 7,166  (Ranked 56)  
 Sum: 12,672 (Ranked 85)  
