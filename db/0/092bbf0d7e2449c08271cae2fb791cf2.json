@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 546,
+  "EOS_Progressed": 547,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 4,
@@ -1809,6 +1809,11 @@
       "Time": "2024-01-10T02:32:22.8243778+00:00",
       "NumProgressed": 546,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-10T03:07:07.1036819+00:00",
+      "NumProgressed": 547,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1829,7 +1834,7 @@
       "Name": "Blabber",
       "Percentage": 50,
       "XP": 145,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ach3",
@@ -1876,14 +1881,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 546,
+      "Progressed": 547,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:32:22.8243775+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:07:07.1036816+00:00",
   "LastUpdate_AppInfo": "2024-01-03T20:57:14.741569+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:23:09.6789618+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:32:22.8243976+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:59:15.6550147+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:07:07.1037026+00:00"
 }

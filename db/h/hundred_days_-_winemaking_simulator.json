@@ -2,7 +2,7 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 827,
+  "Ranking_Rating": 826,
   "Ranking_Popularity": 297,
   "Ranking_PopularitySum": 228,
   "Ranking_EOS_Progress": 155,
@@ -1117,9 +1117,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 19975,
+  "EOS_Progressed": 19981,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1091,
+  "EOS_NewPlayers": 1095,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -16742,6 +16742,11 @@
       "Time": "2024-01-10T02:33:51.4641711+00:00",
       "NumProgressed": 19975,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-10T03:10:05.1072753+00:00",
+      "NumProgressed": 19981,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -16802,7 +16807,7 @@
       "Name": "Bye Bye",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 8589
+      "UsersEstimate": 8592
     },
     {
       "ID": "a_19",
@@ -16826,7 +16831,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "a_21",
@@ -16834,7 +16839,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "a_22",
@@ -17001,7 +17006,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 19975,
+      "Progressed": 19981,
       "Completed": 13
     }
   ],
@@ -17009,8 +17014,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-06T23:58:14.6842319+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:33:51.4641708+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:10:05.1072749+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:04.08822+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:23:47.2775962+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:33:51.4642802+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:59:56.6503492+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:10:05.1073736+00:00"
 }

@@ -38,6 +38,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fated Encounters | 3.00% | ~4,515 |
 | For the Hoard! | 3.00% | ~4,515 |
 | Blank Page Syndrome | 3.00% | ~4,515 |
+| Scrapbooker | 3.00% | ~4,515 |
 | This Power Level...! | 3.00% | ~4,515 |
 | Power of Love | 3.00% | ~4,515 |
 | Efficient Floor Space | 3.00% | ~4,515 |
@@ -62,7 +63,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Thirst for Knowledge | 2.00% | ~3,010 |
 | Big Game Hunting | 2.00% | ~3,010 |
 | Booty by the Boatload | 2.00% | ~3,010 |
-| Scrapbooker | 2.00% | ~3,010 |
 | Archivist | 2.00% | ~3,010 |
 | Locally Sourced | 2.00% | ~3,010 |
 | Fillin' the Bin | 2.00% | ~3,010 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~602 |
 | Capitalist Camaraderie | 0.20% | ~301 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,502 (Ranked 86)  
+Progressed: 150,504 (Ranked 86)  
 Completed: 345 (0.23%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -384,7 +384,7 @@ Completed: 345 (0.23%) (Ranked 269)
 | 2024-01-07 | 150,192 | 345 |
 | 2024-01-08 | 150,343 | 345 |
 | 2024-01-09 | 150,487 | 345 |
-| 2024-01-10 | 150,502 | 345 |
+| 2024-01-10 | 150,504 | 345 |
 ## Awards
 Max (Great for Beginners): 4,948  (Ranked 78)  
 Sum: 27,968 (Ranked 52)  

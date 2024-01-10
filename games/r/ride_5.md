@@ -46,16 +46,16 @@ Rating: 4.50 (Ranked 613)
 | Maximum Endurance | 0.20% | ~7 |
 | Beyond the Limiter | 0.20% | ~7 |
 | All My Own Toys | 0.20% | ~7 |
-| Dream Chaser | 0.10% | ~3 |
-| Endless | 0.10% | ~3 |
-| Full Power | 0.10% | ~3 |
-| At the Top | 0.10% | ~3 |
-| There's a Great View up Here | 0.10% | ~3 |
-| Absolute Champion | 0.10% | ~3 |
+| Dream Chaser | 0.10% | ~4 |
+| Endless | 0.10% | ~4 |
+| Full Power | 0.10% | ~4 |
+| At the Top | 0.10% | ~4 |
+| There's a Great View up Here | 0.10% | ~4 |
+| Absolute Champion | 0.10% | ~4 |
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,499 (Ranked 223)  
+Progressed: 3,500 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 3,427 | 0 |
 | 2024-01-08 | 3,463 | 0 |
 | 2024-01-09 | 3,491 | 0 |
-| 2024-01-10 | 3,499 | 0 |
+| 2024-01-10 | 3,500 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

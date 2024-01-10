@@ -2,7 +2,7 @@
   "ID": "ad43401ad02840c2b2bee5f1f1a59988",
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
-  "Ranking_Rating": 725,
+  "Ranking_Rating": 726,
   "Ranking_Popularity": 551,
   "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 142,
@@ -348,9 +348,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 28994,
+  "EOS_Progressed": 28995,
   "EOS_Completed": 203,
-  "EOS_NewPlayers": 893,
+  "EOS_NewPlayers": 890,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -10008,6 +10008,11 @@
       "Time": "2024-01-10T02:34:05.2054017+00:00",
       "NumProgressed": 28994,
       "NumCompleted": 203
+    },
+    {
+      "Time": "2024-01-10T03:10:20.2178599+00:00",
+      "NumProgressed": 28995,
+      "NumCompleted": 203
     }
   ],
   "TotalAchievements": 24,
@@ -10155,7 +10160,7 @@
       "Name": "Sector 2",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 8118
+      "UsersEstimate": 8119
     },
     {
       "ID": "ACH_Sector3",
@@ -10210,7 +10215,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 28994,
+      "Progressed": 28995,
       "Completed": 203
     }
   ],
@@ -10218,8 +10223,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-07T21:02:45.1474426+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:34:05.2054013+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:10:20.2178597+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:27.6717087+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:22:28.4987164+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:34:05.2054768+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:58:30.09669+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:10:20.2179223+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1930,
+  "EOS_Progressed": 1931,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3573,6 +3573,11 @@
       "Time": "2024-01-10T01:53:30.8001831+00:00",
       "NumProgressed": 1930,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-10T03:04:56.6173103+00:00",
+      "NumProgressed": 1931,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3584,7 +3589,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3640,7 +3645,7 @@
       "Name": "The First Step",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3648,7 +3653,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -3712,7 +3717,7 @@
       "Name": "Kind-hearted",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -3720,7 +3725,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 907
+      "UsersEstimate": 908
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -3728,7 +3733,7 @@
       "Name": "Spark of Love",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "ACHIEVEMENTS_20",
@@ -3760,7 +3765,7 @@
       "Name": "Lumber Specialist",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ACHIEVEMENTS_24",
@@ -3792,7 +3797,7 @@
       "Name": "Plantation Exterminator",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENTS_28",
@@ -3887,7 +3892,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1930,
+      "Progressed": 1931,
       "Completed": 11
     }
   ],
@@ -3895,8 +3900,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2024-01-09T09:59:08.4994389+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:28:33.9696729+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:04:56.6173099+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:08.493824+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:23:00.8339319+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:28:33.969725+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:59:05.9824923+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:04:56.6173513+00:00"
 }

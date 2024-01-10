@@ -2512,9 +2512,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 225075,
+  "EOS_Progressed": 225079,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 1460,
+  "EOS_NewPlayers": 1458,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -32967,6 +32967,11 @@
       "Time": "2024-01-10T02:27:44.504603+00:00",
       "NumProgressed": 225075,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2024-01-10T03:04:02.5564241+00:00",
+      "NumProgressed": 225079,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 44,
@@ -32978,7 +32983,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 24758
+      "UsersEstimate": 24759
     },
     {
       "ID": "AtheistOx",
@@ -33002,7 +33007,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 13504
+      "UsersEstimate": 13505
     },
     {
       "ID": "CompleteMastery",
@@ -33034,7 +33039,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13504
+      "UsersEstimate": 13505
     },
     {
       "ID": "GearUp",
@@ -33066,7 +33071,7 @@
       "Name": "Happy Planning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15755
+      "UsersEstimate": 15756
     },
     {
       "ID": "HighFiveTheMoon",
@@ -33098,7 +33103,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 15755
+      "UsersEstimate": 15756
     },
     {
       "ID": "Mercyful",
@@ -33130,7 +33135,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15755
+      "UsersEstimate": 15756
     },
     {
       "ID": "NoGimmicks",
@@ -33266,7 +33271,7 @@
       "Name": "Thorough",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24758
+      "UsersEstimate": 24759
     },
     {
       "ID": "TimeParadox",
@@ -33298,7 +33303,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13504
+      "UsersEstimate": 13505
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -33329,15 +33334,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 225075,
+      "Progressed": 225079,
       "Completed": 105
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-09T22:57:13.2342926+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:27:44.5046025+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:04:02.5564238+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:34.88387+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:21:37.4092765+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:27:44.5048637+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:57:30.6899142+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:04:02.5565739+00:00"
 }

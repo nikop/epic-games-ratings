@@ -6,23 +6,23 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~41,870 |
+| Awakening | 93.00% | ~41,871 |
 | First Steps | 80.00% | ~36,018 |
 | Control the Shadows | 67.00% | ~30,165 |
 | Tools of the Trade | 63.00% | ~28,364 |
-| Apprentice | 60.00% | ~27,013 |
+| Apprentice | 60.00% | ~27,014 |
 | Secret Seeker | 57.00% | ~25,663 |
-| Forge of Assassins | 55.00% | ~24,762 |
-| Revenant | 52.00% | ~23,411 |
+| Forge of Assassins | 55.00% | ~24,763 |
+| Revenant | 52.00% | ~23,412 |
 | I don’t Care! | 45.00% | ~20,260 |
-| Bird of Prey | 37.00% | ~16,658 |
+| Bird of Prey | 37.00% | ~16,659 |
 | Engraved with Power | 32.00% | ~14,407 |
 | Lady | 31.00% | ~13,957 |
 | Fashionable Assassin | 27.00% | ~12,156 |
-| Apex Predator | 24.00% | ~10,805 |
+| Apex Predator | 24.00% | ~10,806 |
 | Soul Reaver | 23.00% | ~10,355 |
 | Embers | 22.00% | ~9,905 |
-| Wall Lizard | 20.00% | ~9,004 |
+| Wall Lizard | 20.00% | ~9,005 |
 | Clinging to Life | 18.00% | ~8,104 |
 | Burning | 17.00% | ~7,654 |
 | Look Behind You | 17.00% | ~7,654 |
@@ -31,7 +31,7 @@ Number of Ratings: 88  (23.09.2022)
 | War Engines | 14.00% | ~6,303 |
 | Signature Move | 14.00% | ~6,303 |
 | Ruse | 12.00% | ~5,403 |
-| Master Ninja | 11.00% | ~4,952 |
+| Master Ninja | 11.00% | ~4,953 |
 | Hatching | 10.00% | ~4,502 |
 | Bonds | 9.00% | ~4,052 |
 | Get Over Here | 9.00% | ~4,052 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~900 |
 | Legacy | 2.00% | ~900 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,022 (Ranked 128)  
+Progressed: 45,023 (Ranked 128)  
 Completed: 248 (0.55%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 248 (0.55%) (Ranked 212)
 | 2024-01-07 | 44,957 | 248 |
 | 2024-01-08 | 44,989 | 248 |
 | 2024-01-09 | 45,019 | 248 |
-| 2024-01-10 | 45,022 | 248 |
+| 2024-01-10 | 45,023 | 248 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

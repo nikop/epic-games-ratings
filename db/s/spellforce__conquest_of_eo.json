@@ -2,9 +2,9 @@
   "ID": "0acc28c619c44fbab3dd30c7f87e9679",
   "Name": "SpellForce: Conquest of Eo",
   "ProductSlug": "spellforce-conquest-of-eo",
-  "Ranking_EOS_Progress": 472,
+  "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133,
+  "EOS_Progressed": 134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -674,6 +674,11 @@
       "Time": "2024-01-10T00:09:41.565721+00:00",
       "NumProgressed": 133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T03:10:00.5289181+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T16:04:46.0994968+00:00",
@@ -700,9 +705,9 @@
       "ID": "Build_First_Room",
       "SetID": "7b9f97e",
       "Name": "Enough rooms to swing a cat",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 105
     },
     {
       "ID": "Build_First_Room_Extension",
@@ -710,7 +715,7 @@
       "Name": "Redecorating",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Capture_Own_Tower",
@@ -718,7 +723,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "Cast_First_Spell",
@@ -734,7 +739,7 @@
       "Name": "The Circle",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Craft_First_Glyph",
@@ -758,7 +763,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Defeat_Gor",
@@ -828,39 +833,39 @@
       "ID": "Defeat_Yria",
       "SetID": "7b9f97e",
       "Name": "Defeat Yria",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "Enslave_Unit_Post_Battle",
       "SetID": "7b9f97e",
       "Name": "Slave to the rhythm",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "First_LevelUp",
       "SetID": "7b9f97e",
       "Name": "First to the post",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 105
     },
     {
       "ID": "First_Node_Meld",
       "SetID": "7b9f97e",
       "Name": "Connected",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 80
     },
     {
       "ID": "Harvest_First_Plant",
       "SetID": "7b9f97e",
       "Name": "Harvest Time",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
       "UsersEstimate": 70
     },
@@ -884,9 +889,9 @@
       "ID": "HeroStory_Lytra",
       "SetID": "7b9f97e",
       "Name": "Lytra\u0027s Tale",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "HeroStory_Philo",
@@ -908,25 +913,25 @@
       "ID": "Landmark_CastleMeldec",
       "SetID": "7b9f97e",
       "Name": "Castle Meldec",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "Landmark_CryptRevenant",
       "SetID": "7b9f97e",
       "Name": "Crypt of the Revenant",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "Landmark_MistyCoastBones",
       "SetID": "7b9f97e",
       "Name": "Misty Coast Dragonbones",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "Landmark_ReganGorForge",
@@ -940,17 +945,17 @@
       "ID": "Landmark_SilverDriftMine",
       "SetID": "7b9f97e",
       "Name": "Silver Drift Hollow Mine",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "Landmark_StormwatchFaste",
       "SetID": "7b9f97e",
       "Name": "Stormwatch Faste",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "Landmark_Throne",
@@ -972,9 +977,9 @@
       "ID": "Landmark_UramGorForge",
       "SetID": "7b9f97e",
       "Name": "Fireforge",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "MainCampaign_Alchemist",
@@ -1044,9 +1049,9 @@
       "ID": "MainCampaign_Hard",
       "SetID": "7b9f97e",
       "Name": "Hard Life",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "MainCampaign_Intended",
@@ -1068,9 +1073,9 @@
       "ID": "MainCampaign_Unbalanced",
       "SetID": "7b9f97e",
       "Name": "Impossible Mission",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "Max_Reputation_Alluvyan",
@@ -1100,9 +1105,9 @@
       "ID": "Max_Reputation_Goldenfields",
       "SetID": "7b9f97e",
       "Name": "Friend of Lyraine",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 46
     },
     {
       "ID": "Max_Reputation_MistyCoast",
@@ -1174,7 +1179,7 @@
       "Name": "Mine!",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Recipes_All_Alchemy",
@@ -1220,9 +1225,9 @@
       "ID": "Start_Of_A_Joke",
       "SetID": "7b9f97e",
       "Name": "A Joke",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "Tower_Fly",
@@ -1230,7 +1235,7 @@
       "Name": "Fly the friendly Sky",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Zombify_Unit_Post_Battle",
@@ -1245,7 +1250,7 @@
     {
       "ID": "7b9f97e",
       "IsBase": true,
-      "Progressed": 133,
+      "Progressed": 134,
       "Completed": 0
     }
   ],
@@ -1253,8 +1258,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:33:47.2886398+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:10:00.5289179+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:39.1572287+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:21:56.9910413+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:33:47.2886987+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:57:52.8704065+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:10:00.5290153+00:00"
 }

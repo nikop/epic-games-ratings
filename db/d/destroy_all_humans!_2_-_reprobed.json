@@ -302,7 +302,7 @@
   ],
   "EOS_Progressed": 391,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1811,9 +1811,9 @@
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
       "SetID": "4n84pon",
       "Name": "Perfect Probulator",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1827,9 +1827,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -2156,8 +2156,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-09T11:57:56.5976676+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:33:27.8028377+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:09:39.0922679+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:22:25.3685629+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:33:27.8028712+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:58:26.2959728+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:09:39.0923005+00:00"
 }

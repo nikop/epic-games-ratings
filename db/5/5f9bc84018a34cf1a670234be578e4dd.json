@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 20,
   "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -2279,9 +2279,9 @@
       "ID": "AllSafes",
       "SetID": "7jbi7el",
       "Name": "Safe Cracker",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 158
+      "UsersEstimate": 163
     },
     {
       "ID": "Batteries",
@@ -2295,9 +2295,9 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 197
+      "UsersEstimate": 201
     },
     {
       "ID": "FallDeath",
@@ -2343,9 +2343,9 @@
       "ID": "GasDeath",
       "SetID": "7jbi7el",
       "Name": "Contract Termination",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 180
     },
     {
       "ID": "GasFound",
@@ -2398,8 +2398,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:29:37.9551414+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:06:07.5316847+00:00",
   "LastUpdate_AppInfo": "2024-01-03T02:57:23.201102+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:26:53.8040331+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:29:37.9551601+00:00"
+  "LastUpdate_Ratings": "2024-01-10T03:03:01.1635494+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:06:07.5317116+00:00"
 }

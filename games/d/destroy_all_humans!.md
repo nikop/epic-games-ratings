@@ -6,28 +6,28 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 77.00% | ~329 |
-| Kaijuiced | 70.00% | ~299 |
+| Shop Til They Drop | 76.00% | ~325 |
+| Kaijuiced | 71.00% | ~304 |
 | Lie Back and Think of Albion | 65.00% | ~278 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~269 |
-| I Look Up As I Walk to Takoshima | 59.00% | ~252 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~270 |
+| I Look Up As I Walk to Takoshima | 59.00% | ~253 |
 | Yettisoned | 58.00% | ~248 |
-| Pimp My Raid | 56.00% | ~239 |
+| Pimp My Raid | 56.00% | ~240 |
 | Perfect Probulator | 55.00% | ~235 |
 | Lobster Blisque | 51.00% | ~218 |
 | Fly Me to the Moon Base | 48.00% | ~205 |
 | Earthly Pleasures | 48.00% | ~205 |
-| Ducks in a Row, Fish in a Barrel | 45.00% | ~192 |
+| Ducks in a Row, Fish in a Barrel | 45.00% | ~193 |
 | Forbidden Donut | 36.00% | ~154 |
 | Freshly Squeezed | 36.00% | ~154 |
 | Bodied Sattva | 36.00% | ~154 |
-| Upgreatest | 35.00% | ~149 |
+| Upgreatest | 35.00% | ~150 |
 | Deincarnated | 29.00% | ~124 |
 | Furon Fashion | 29.00% | ~124 |
 | Rock of the Bay | 28.00% | ~120 |
 | Trans-Siberian Express | 25.00% | ~107 |
-| Re-Return of the Clone of the Invasion II-2 | 20.00% | ~85 |
-| Arkvoodle Doodle | 19.00% | ~81 |
+| Re-Return of the Clone of the Invasion II-2 | 20.00% | ~86 |
+| Arkvoodle Doodle | 18.00% | ~77 |
 | Ouch of Body Experience | 16.00% | ~68 |
 | If You Know What I Mean | 16.00% | ~68 |
 | Die Nasty | 16.00% | ~68 |
@@ -37,7 +37,7 @@ Number of Ratings: 85  (23.09.2022)
 | Dusted | 13.00% | ~56 |
 | Scuttled | 11.00% | ~47 |
 | Higher Than the Futen Zoku | 10.00% | ~43 |
-| PK Slam Dunk | 9.00% | ~38 |
+| PK Slam Dunk | 9.00% | ~39 |
 | Arty Facts | 8.00% | ~34 |
 | Cult Following | 6.00% | ~26 |
 | Path of the Furon | 5.00% | ~21 |
@@ -47,7 +47,7 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 2.00% | ~9 |
 | Against All Odds | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427 (Ranked 364)  
+Progressed: 428 (Ranked 363)  
 Completed: 5 (1.17%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 5 (1.17%) (Ranked 164)
 | 2024-01-07 | 392 | 5 |
 | 2024-01-08 | 406 | 5 |
 | 2024-01-09 | 424 | 5 |
-| 2024-01-10 | 427 | 5 |
+| 2024-01-10 | 428 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 505)  
 Sum: 35 (Ranked 534)  

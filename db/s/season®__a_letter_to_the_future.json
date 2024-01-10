@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 2069,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.62,
   "EosHistory": [
@@ -4926,9 +4926,9 @@
       "ID": "ACH_OUTSIDEWORLDSEER",
       "SetID": "7pam6gn",
       "Name": "Outside World Seer",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1241
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -4975,8 +4975,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:34:02.3694132+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:10:17.1687803+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:30.8878388+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:24:23.1120899+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:34:02.3694646+00:00"
+  "LastUpdate_Ratings": "2024-01-10T03:00:37.1399829+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:10:17.1688194+00:00"
 }

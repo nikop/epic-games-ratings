@@ -709,9 +709,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473639,
+  "EOS_Progressed": 473640,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28059,6 +28059,11 @@
       "Time": "2024-01-10T01:59:08.7944571+00:00",
       "NumProgressed": 473639,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-10T03:10:33.2865192+00:00",
+      "NumProgressed": 473640,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -28086,7 +28091,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113673
+      "UsersEstimate": 113674
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -28254,7 +28259,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 161037
+      "UsersEstimate": 161038
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -28494,7 +28499,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208401
+      "UsersEstimate": 208402
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -28526,7 +28531,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184719
+      "UsersEstimate": 184720
     },
     {
       "ID": "achievement_win_run_hard",
@@ -28620,9 +28625,9 @@
       "ID": "achievement_unlock_phalanx_battleship",
       "SetID": "7plcbc4",
       "Name": "Soldiers of Fortune",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 88
     },
     {
       "ID": "achievement_unlock_pragmah_battleship",
@@ -28701,21 +28706,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17573,
+      "Progressed": 17574,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473639,
+      "Progressed": 473640,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:34:17.5007002+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:10:33.2865191+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:31.2733774+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:24:23.1977349+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:34:17.5009005+00:00"
+  "LastUpdate_Ratings": "2024-01-10T03:00:37.1712586+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:10:33.2866837+00:00"
 }

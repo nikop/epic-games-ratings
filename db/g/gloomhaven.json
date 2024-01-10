@@ -2921,9 +2921,9 @@
       "Count": 221
     }
   ],
-  "EOS_Progressed": 32536,
+  "EOS_Progressed": 32538,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1806,
+  "EOS_NewPlayers": 1799,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16396,6 +16396,11 @@
       "Time": "2024-01-10T02:33:43.5514097+00:00",
       "NumProgressed": 32536,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T03:09:56.2171652+00:00",
+      "NumProgressed": 32538,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -16448,7 +16453,7 @@
       "Name": "Who\u0027s the Boss?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 3904
+      "UsersEstimate": 3905
     },
     {
       "ID": "Achievement_Trophy07",
@@ -16574,9 +16579,9 @@
       "ID": "Achievement_Trophy22",
       "SetID": "724h0m0",
       "Name": "Precious!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 4880
+      "UsersEstimate": 5206
     },
     {
       "ID": "Achievement_Trophy23",
@@ -16584,7 +16589,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "Achievement_Trophy24",
@@ -16600,7 +16605,7 @@
       "Name": "You activated my trap card!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 3904
+      "UsersEstimate": 3905
     },
     {
       "ID": "Achievement_Trophy26",
@@ -16608,7 +16613,7 @@
       "Name": "Overkill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 10737
+      "UsersEstimate": 10738
     },
     {
       "ID": "Achievement_Trophy27",
@@ -16624,7 +16629,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 10086
+      "UsersEstimate": 10087
     },
     {
       "ID": "Achievement_Trophy29",
@@ -16648,7 +16653,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 9435
+      "UsersEstimate": 9436
     },
     {
       "ID": "Achievement_Trophy32",
@@ -16680,7 +16685,7 @@
       "Name": "The Pro from Dover",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "Achievement_Trophy36",
@@ -16688,7 +16693,7 @@
       "Name": "Pretty lights!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "Achievement_Trophy37",
@@ -16728,7 +16733,7 @@
       "Name": "Obstacle race",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 3904
+      "UsersEstimate": 3905
     },
     {
       "ID": "Achievement_Trophy42",
@@ -16895,7 +16900,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 32536,
+      "Progressed": 32538,
       "Completed": 1
     }
   ],
@@ -16903,8 +16908,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2024-01-10T01:48:31.1756402+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:33:43.551409+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:09:56.217165+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:15.8559862+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:23:49.6141253+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:33:43.5515196+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:59:59.4104281+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:09:56.2172551+00:00"
 }

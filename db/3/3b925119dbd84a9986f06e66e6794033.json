@@ -2356,9 +2356,9 @@
       "ID": "HYPNO_CORRECT_GROUP",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Brainiacs",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 117
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -2452,9 +2452,9 @@
       "ID": "TKO2_BEACH_LIFE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 80
     },
     {
       "ID": "TKO2_DOMINO",
@@ -2491,8 +2491,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:34:01.761412+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:10:16.5351238+00:00",
   "LastUpdate_AppInfo": "2024-01-06T02:18:00.4383159+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:22:42.6128849+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:34:01.761442+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:58:44.4387869+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:10:16.5351505+00:00"
 }

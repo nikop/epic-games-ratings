@@ -4,7 +4,7 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 158,
+  "EOS_Progressed": 159,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -636,6 +636,11 @@
       "Time": "2024-01-09T22:06:04.3997871+00:00",
       "NumProgressed": 158,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T03:06:25.0791971+00:00",
+      "NumProgressed": 159,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -647,7 +652,7 @@
       "Name": "Welcome to Stilesville",
       "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "10",
@@ -671,15 +676,15 @@
       "Name": "Stilesville Hidden Style",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "13",
       "SetID": "41h3j82",
       "Name": "Barcelona Hidden Style",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "14",
@@ -725,9 +730,9 @@
       "ID": "19",
       "SetID": "41h3j82",
       "Name": "Best Gala Ever",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 70,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "2",
@@ -735,7 +740,7 @@
       "Name": "Welcome to Barcelona",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "3",
@@ -749,9 +754,9 @@
       "ID": "4",
       "SetID": "41h3j82",
       "Name": "Welcome to the The Stylin\u0027 Soiree",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 70,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "5",
@@ -759,23 +764,23 @@
       "Name": "We will need a bigger wardrobe",
       "Percentage": 42,
       "XP": 70,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "6",
       "SetID": "41h3j82",
       "Name": "Scooter Race",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "7",
       "SetID": "41h3j82",
       "Name": "Roller Race",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 64
     },
     {
       "ID": "8",
@@ -789,16 +794,16 @@
       "ID": "9",
       "SetID": "41h3j82",
       "Name": "Talented Performer",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 70,
-      "UsersEstimate": 92
+      "UsersEstimate": 91
     }
   ],
   "AchievementSets": [
     {
       "ID": "41h3j82",
       "IsBase": true,
-      "Progressed": 158,
+      "Progressed": 159,
       "Completed": 0
     }
   ],
@@ -806,8 +811,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:29:53.7546398+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:06:25.0791969+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:24.7386942+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:24:11.6234687+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:29:53.7546589+00:00"
+  "LastUpdate_Ratings": "2024-01-10T03:00:24.6413115+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:06:25.0792086+00:00"
 }

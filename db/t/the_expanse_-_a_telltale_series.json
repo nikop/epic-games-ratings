@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18770,
+  "EOS_Progressed": 18773,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 684,
+  "EOS_NewPlayers": 685,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -16882,6 +16882,11 @@
       "Time": "2024-01-10T02:32:36.8220077+00:00",
       "NumProgressed": 18770,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-10T03:08:42.477293+00:00",
+      "NumProgressed": 18773,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -16998,7 +17003,7 @@
       "Name": "Drone Dodger",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2252
+      "UsersEstimate": 2253
     },
     {
       "ID": "22",
@@ -17038,7 +17043,7 @@
       "Name": "Call it Even",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1689
+      "UsersEstimate": 1690
     },
     {
       "ID": "27",
@@ -17142,7 +17147,7 @@
       "Name": "Safe Cracker",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "33",
@@ -17150,7 +17155,7 @@
       "Name": "Zen Master",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "34",
@@ -17158,7 +17163,7 @@
       "Name": "Master Negotiator",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "35",
@@ -17173,13 +17178,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18770,
+      "Progressed": 18773,
       "Completed": 61
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4724,
+      "Progressed": 4727,
       "Completed": 1270
     }
   ],
@@ -17187,8 +17192,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-08T14:59:15.8971936+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:32:36.8220074+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:08:42.4772926+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:23:40.9755118+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:32:36.8221193+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:59:50.3748297+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:08:42.4774926+00:00"
 }

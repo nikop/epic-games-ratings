@@ -11,9 +11,9 @@
 | Targeting the Enemy | 69.00% | ~73 |
 | Unavoidable | 67.00% | ~71 |
 | Revenge | 62.00% | ~66 |
-| Reunion | 40.00% | ~42 |
+| Reunion | 41.00% | ~43 |
 | Fluke | 34.00% | ~36 |
-| Elimination | 32.00% | ~34 |
+| Elimination | 33.00% | ~35 |
 | Victor's Prejudice | 31.00% | ~33 |
 | Excellent Driving Skills | 29.00% | ~31 |
 | Once Bitten, Twice Shy | 29.00% | ~31 |

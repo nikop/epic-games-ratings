@@ -5,38 +5,38 @@ Rating: 4.19 (Ranked 973)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,163 |
-| Har, Har, Har, Very Funny | 34.00% | ~27,991 |
+| First Step Into the Knight | 50.00% | ~41,164 |
+| Har, Har, Har, Very Funny | 34.00% | ~27,992 |
 | Loose Ends | 33.00% | ~27,168 |
-| To the Victor Go the Spoils | 27.00% | ~22,228 |
+| To the Victor Go the Spoils | 27.00% | ~22,229 |
 | Knighthood | 26.00% | ~21,405 |
-| Get ReQ'd | 24.00% | ~19,758 |
-| Whispered Words | 24.00% | ~19,758 |
+| Get ReQ'd | 24.00% | ~19,759 |
+| Whispered Words | 24.00% | ~19,759 |
 | The Batman Family | 22.00% | ~18,112 |
 | Lock and Key | 22.00% | ~18,112 |
-| Something in the Clay | 20.00% | ~16,465 |
-| Quartzer Life Crisis | 20.00% | ~16,465 |
-| Working Hard or Harley Working? | 20.00% | ~16,465 |
-| Unstoppable Force | 20.00% | ~16,465 |
-| Bad Apples in Every Orchard | 20.00% | ~16,465 |
+| Something in the Clay | 20.00% | ~16,466 |
+| Quartzer Life Crisis | 20.00% | ~16,466 |
+| Working Hard or Harley Working? | 20.00% | ~16,466 |
+| Unstoppable Force | 20.00% | ~16,466 |
+| Bad Apples in Every Orchard | 20.00% | ~16,466 |
 | Snow Problem | 18.00% | ~14,819 |
-| The Show Mud Go On | 17.00% | ~13,995 |
-| From Inside Gotham's Walls | 17.00% | ~13,995 |
+| The Show Mud Go On | 17.00% | ~13,996 |
+| From Inside Gotham's Walls | 17.00% | ~13,996 |
 | Protector of Gotham | 16.00% | ~13,172 |
 | In Your Element | 15.00% | ~12,349 |
 | Universal Health Scare | 15.00% | ~12,349 |
 | Rock and a Hard Place | 14.00% | ~11,526 |
 | Cooldown | 14.00% | ~11,526 |
 | Voiceless | 14.00% | ~11,526 |
-| Shock Til They Drop | 13.00% | ~10,702 |
-| Seeking Asylum | 13.00% | ~10,702 |
+| Shock Til They Drop | 13.00% | ~10,703 |
+| Seeking Asylum | 13.00% | ~10,703 |
 | End of an Era | 12.00% | ~9,879 |
 | Not On My Watch | 12.00% | ~9,879 |
 | Bulldozed | 12.00% | ~9,879 |
 | Gotham Knight | 12.00% | ~9,879 |
 | Gotham City Confidential | 11.00% | ~9,056 |
-| Out of Their League | 9.00% | ~7,409 |
-| Drone You Out | 9.00% | ~7,409 |
+| Out of Their League | 9.00% | ~7,410 |
+| Drone You Out | 9.00% | ~7,410 |
 | Solid Alibi | 8.00% | ~6,586 |
 | Fusion Expert | 7.00% | ~5,763 |
 | Family Meeting | 6.00% | ~4,940 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 973)
 | The Cold, the Bad and the Ugly | 0.30% | ~158 |
 | It's Nice to Be Wanted | 0.20% | ~105 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,326 (Ranked 109)  
+Progressed: 82,328 (Ranked 109)  
 Completed: 133 (0.16%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,10 +332,10 @@ Completed: 133 (0.16%) (Ranked 283)
 | 2024-01-07 | 81,989 | 132 |
 | 2024-01-08 | 82,151 | 132 |
 | 2024-01-09 | 82,304 | 133 |
-| 2024-01-10 | 82,326 | 133 |
+| 2024-01-10 | 82,328 | 133 |
 ## Awards
 Max (Great Boss Battles): 3,167  (Ranked 101)  
-Sum: 5,405 (Ranked 142)  
+Sum: 5,406 (Ranked 142)  
 Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
@@ -347,7 +347,7 @@ Diff (max vs sum): -41
 | This game has Quickly Understood Controls | 277 |
 | This game has Amazing Characters | 276 |
 | This game has Amazing Storytelling | 276 |
-| This game is Highly Recommended | 269 |
+| This game is Highly Recommended | 270 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -670,3 +670,4 @@ Diff (max vs sum): -41
 | 2024-01-07 | 4.19 | 3,146 | 5,381 |
 | 2024-01-08 | 4.19 | 3,157 | 5,395 |
 | 2024-01-09 | 4.19 | 3,167 | 5,405 |
+| 2024-01-10 | 4.19 | 3,167 | 5,406 |

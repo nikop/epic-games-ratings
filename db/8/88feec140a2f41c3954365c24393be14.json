@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113082,
+  "EOS_Progressed": 113083,
   "EOS_Completed": 5548,
-  "EOS_NewPlayers": 1686,
+  "EOS_NewPlayers": 1681,
   "EOS_NewCompleters": 150,
   "EOS_Completed_Percentage": 4.91,
   "EosHistory": [
@@ -13792,6 +13792,11 @@
       "Time": "2024-01-10T02:29:28.6441092+00:00",
       "NumProgressed": 113082,
       "NumCompleted": 5548
+    },
+    {
+      "Time": "2024-01-10T03:05:57.2830732+00:00",
+      "NumProgressed": 113083,
+      "NumCompleted": 5548
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -13844,7 +13849,7 @@
       "Name": "Ship Dip!",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 59933
+      "UsersEstimate": 59934
     },
     {
       "ID": "TheArtOfParley",
@@ -13852,7 +13857,7 @@
       "Name": "The Art of Parley",
       "Percentage": 76,
       "XP": 75,
-      "UsersEstimate": 85942
+      "UsersEstimate": 85943
     },
     {
       "ID": "TheGoldenRatio",
@@ -13868,7 +13873,7 @@
       "Name": "Tiles, Trails, Treasure!",
       "Percentage": 61,
       "XP": 75,
-      "UsersEstimate": 68980
+      "UsersEstimate": 68981
     },
     {
       "ID": "WeCanDoBetter",
@@ -13876,7 +13881,7 @@
       "Name": "We Can Do Better!",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 88204
+      "UsersEstimate": 88205
     },
     {
       "ID": "WeighAnchorSetSail",
@@ -13892,14 +13897,14 @@
       "Name": "Welcome Aboard!",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 89335
+      "UsersEstimate": 89336
     }
   ],
   "AchievementSets": [
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 113082,
+      "Progressed": 113083,
       "Completed": 5548
     }
   ],
@@ -13907,8 +13912,8 @@
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2024-01-04T23:57:45.1160065+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:29:28.6441089+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:05:57.2830729+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:20.130578+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:24:15.5599754+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:29:28.6441767+00:00"
+  "LastUpdate_Ratings": "2024-01-10T03:00:28.4348632+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:05:57.2831484+00:00"
 }

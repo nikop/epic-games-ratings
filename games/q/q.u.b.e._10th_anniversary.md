@@ -1,12 +1,12 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.43 (Ranked 725)  
+Rating: 4.43 (Ranked 726)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sector 1 | 32.00% | ~9,278 |
-| Sector 2 | 28.00% | ~8,118 |
+| Sector 2 | 28.00% | ~8,119 |
 | Crush That Cube! | 24.00% | ~6,959 |
 | Sector 3 | 24.00% | ~6,959 |
 | Sector 4 | 20.00% | ~5,799 |
@@ -30,7 +30,7 @@ Rating: 4.43 (Ranked 725)
 | Completed It. | 2.00% | ~580 |
 | Maxed Out | 2.00% | ~580 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,994 (Ranked 142)  
+Progressed: 28,995 (Ranked 142)  
 Completed: 203 (0.70%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 203 (0.70%) (Ranked 196)
 | 2024-01-07 | 28,785 | 200 |
 | 2024-01-08 | 28,887 | 202 |
 | 2024-01-09 | 28,984 | 203 |
-| 2024-01-10 | 28,994 | 203 |
+| 2024-01-10 | 28,995 | 203 |
 ## Awards
 Max (Challenging Puzzles): 25  (Ranked 551)  
 Sum: 25 (Ranked 559)  

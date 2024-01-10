@@ -505,9 +505,9 @@
       "ID": "ACH_ECHOES",
       "SetID": "5kae3ip",
       "Name": "Echoes",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_GUNNERS_DREAM",
@@ -521,9 +521,9 @@
       "ID": "ACH_HIGH_HOPES",
       "SetID": "5kae3ip",
       "Name": "High Hopes",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_KING_BEE",
@@ -562,8 +562,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
   "LastChanged": "2023-03-31T05:58:34.1207635+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:33:54.4665079+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:10:08.3385502+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:28.0415622+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:24:07.4415958+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:33:54.4665182+00:00"
+  "LastUpdate_Ratings": "2024-01-10T03:00:19.8522303+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:10:08.3385655+00:00"
 }

@@ -1,12 +1,13 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.57 (Ranked 497)  
+Rating: 4.57 (Ranked 496)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 3.00% | ~70 |
 | Become King | 2.00% | ~46 |
+| Collect Iron Ore | 2.00% | ~46 |
 | Collect Monster Parts | 2.00% | ~46 |
 | Ranged Weapon | 2.00% | ~46 |
 | Two Handed Weapon | 2.00% | ~46 |
@@ -16,7 +17,6 @@ Rating: 4.57 (Ranked 497)
 | Shield Maiden Yellow Tongue | 2.00% | ~19 |
 | The Bright Fir | 2.00% | ~19 |
 | Collect Gold | 1.00% | ~23 |
-| Collect Iron Ore | 1.00% | ~23 |
 | Return the Statues | 1.00% | ~23 |
 | Complete Elder Faction | 1.00% | ~23 |
 | End of the Mozis | 1.00% | ~23 |

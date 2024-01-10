@@ -48,16 +48,16 @@ Rating: 4.50 (Ranked 613)
 | Terrifying | 1.00% | ~335 |
 | Therapeutic | 0.80% | ~268 |
 | Rift Seeker | 0.60% | ~201 |
-| Master Collector | 0.50% | ~167 |
+| Master Collector | 0.50% | ~168 |
 | Ghost Expert | 0.30% | ~100 |
 | Catostrophic Destroyer | 0.20% | ~67 |
 | I don't need these | 0.20% | ~67 |
 | Little Help Here | 0.20% | ~67 |
 | Mycophile | 0.20% | ~67 |
 | Ultimate Defense | 0.20% | ~67 |
-| Line em' up | 0.10% | ~33 |
+| Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,499 (Ranked 137)  
+Progressed: 33,500 (Ranked 137)  
 Completed: 71 (0.21%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,10 +322,10 @@ Completed: 71 (0.21%) (Ranked 273)
 | 2024-01-07 | 33,430 | 71 |
 | 2024-01-08 | 33,470 | 71 |
 | 2024-01-09 | 33,497 | 71 |
-| 2024-01-10 | 33,499 | 71 |
+| 2024-01-10 | 33,500 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 256)  
-Sum: 2,954 (Ranked 186)  
+Sum: 2,956 (Ranked 186)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
@@ -334,7 +334,7 @@ Diff (max vs sum): 70
 | This game has Diverse Characters | 313 |
 | This game has Amazing Storytelling | 294 |
 | This game is Highly Recommended | 293 |
-| This game has Competitive Players | 286 |
+| This game has Competitive Players | 288 |
 | This game is Extremely Fun | 285 |
 | This game is Relaxing | 284 |
 | This game has Amazing Characters | 273 |
@@ -605,3 +605,4 @@ Diff (max vs sum): 70
 | 2024-01-06 | 4.50 | 328 | 2,952 |
 | 2024-01-07 | 4.50 | 328 | 2,953 |
 | 2024-01-09 | 4.50 | 328 | 2,954 |
+| 2024-01-10 | 4.50 | 328 | 2,956 |

@@ -9,7 +9,7 @@ Number of Ratings: 90  (23.09.2022)
 | Rock of the Bay | 84.00% | ~328 |
 | Mash Machine | 75.00% | ~293 |
 | Ducks in a Row, Fish in a Barrel | 54.00% | ~211 |
-| Furon Fashion | 47.00% | ~184 |
+| Furon Fashion | 48.00% | ~188 |
 | Shop Til They Drop | 39.00% | ~152 |
 | Bodied Sattva | 37.00% | ~145 |
 | Cult Following | 35.00% | ~137 |
@@ -19,8 +19,8 @@ Number of Ratings: 90  (23.09.2022)
 | Pimp My Raid | 25.00% | ~98 |
 | Freshly Squeezed | 22.00% | ~86 |
 | I Look Up As I Walk to Takoshima | 20.00% | ~78 |
+| Perfect Probulator | 18.00% | ~70 |
 | Die Nasty | 18.00% | ~70 |
-| Perfect Probulator | 17.00% | ~66 |
 | Transmitting From Sol-3 | 16.00% | ~63 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 13.00% | ~51 |
 | Fly Me to the Moon Base | 12.00% | ~47 |

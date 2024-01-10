@@ -3889,10 +3889,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2954,
       "NumberOfAwardsMax": 328
+    },
+    {
+      "Time": "2024-01-10T02:59:29.0166393+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2956,
+      "NumberOfAwardsMax": 328
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2954,
+  "NumberOfAwards": 2956,
   "NumberOfAwardsMax": 328,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -3960,7 +3966,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 286
+      "Count": 288
     },
     {
       "Text": "This game has Playful Visuals",
@@ -3969,9 +3975,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33499,
+  "EOS_Progressed": 33500,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 340,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -25104,6 +25110,11 @@
       "Time": "2024-01-10T01:57:59.6720128+00:00",
       "NumProgressed": 33499,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-10T03:09:17.858391+00:00",
+      "NumProgressed": 33500,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -25299,7 +25310,7 @@
       "Name": "Line em\u0027 up",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Little_Help",
@@ -25315,7 +25326,7 @@
       "Name": "Master Collector",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "Mycophile",
@@ -25522,16 +25533,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33499,
+      "Progressed": 33500,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2024-01-09T21:59:00.538389+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:33:08.3931668+00:00",
+  "LastChanged": "2024-01-10T02:59:29.0166391+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:09:17.8583905+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.8485347+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:23:20.955016+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:33:08.3933003+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:59:29.0166397+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:09:17.8585372+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "35eda4ff87f94a7491dc28175b8f3b4f",
   "Name": "Eternal Threads",
   "ProductSlug": "eternal-threads-197169",
-  "Ranking_Rating": 827,
+  "Ranking_Rating": 826,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 153,
@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21185,
+  "EOS_Progressed": 21186,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 1453,
+  "EOS_NewPlayers": 1450,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -7496,6 +7496,11 @@
       "Time": "2024-01-10T02:28:17.4136766+00:00",
       "NumProgressed": 21185,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2024-01-10T03:04:38.636167+00:00",
+      "NumProgressed": 21186,
+      "NumCompleted": 105
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -7587,7 +7592,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 21185,
+      "Progressed": 21186,
       "Completed": 105
     }
   ],
@@ -7595,8 +7600,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-02T16:59:56.4750656+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:28:17.4136762+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:04:38.6361666+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:24.8589698+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:23:06.617987+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:28:17.4137174+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:59:12.4056573+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:04:38.6362082+00:00"
 }

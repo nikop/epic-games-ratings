@@ -141,7 +141,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83156,
+  "EOS_Progressed": 83159,
   "EOS_Completed": 927,
   "EOS_NewPlayers": 661,
   "EOS_NewCompleters": 18,
@@ -29666,6 +29666,11 @@
       "Time": "2024-01-10T01:52:40.2780651+00:00",
       "NumProgressed": 83156,
       "NumCompleted": 927
+    },
+    {
+      "Time": "2024-01-10T03:04:01.4413656+00:00",
+      "NumProgressed": 83159,
+      "NumCompleted": 927
     }
   ],
   "TotalAchievements": 25,
@@ -29709,7 +29714,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18294
+      "UsersEstimate": 18295
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -29717,7 +29722,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14968
+      "UsersEstimate": 14969
     },
     {
       "ID": "Butcher",
@@ -29733,7 +29738,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4989
+      "UsersEstimate": 4990
     },
     {
       "ID": "Fair\u0027sFair",
@@ -29749,7 +29754,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16631
+      "UsersEstimate": 16632
     },
     {
       "ID": "Hearty",
@@ -29869,14 +29874,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6652
+      "UsersEstimate": 6653
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83156,
+      "Progressed": 83159,
       "Completed": 927
     }
   ],
@@ -29884,8 +29889,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:27:43.5499373+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:04:01.4413653+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.3609745+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:23:24.3947038+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:27:43.5500542+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:59:31.238532+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:04:01.4414858+00:00"
 }

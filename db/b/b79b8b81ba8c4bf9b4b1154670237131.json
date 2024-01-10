@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16560,
+  "EOS_Progressed": 16562,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6305,6 +6305,11 @@
       "Time": "2024-01-10T02:33:43.9974679+00:00",
       "NumProgressed": 16560,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-10T03:09:56.6815341+00:00",
+      "NumProgressed": 16562,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6317,7 +6322,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6293
+      "UsersEstimate": 6294
     },
     {
       "ID": "ACH_AE_10",
@@ -6325,7 +6330,7 @@
       "Name": "Together We Fight",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "ACH_AE_11",
@@ -6349,7 +6354,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12420
+      "UsersEstimate": 12422
     },
     {
       "ID": "ACH_AE_14",
@@ -6365,7 +6370,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3643
+      "UsersEstimate": 3644
     },
     {
       "ID": "ACH_AE_16",
@@ -6405,7 +6410,7 @@
       "Name": "Back to School",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3974
+      "UsersEstimate": 3975
     },
     {
       "ID": "ACH_AE_20",
@@ -6429,7 +6434,7 @@
       "Name": "The High Road",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3974
+      "UsersEstimate": 3975
     },
     {
       "ID": "ACH_AE_23",
@@ -6565,7 +6570,7 @@
       "Name": "Betrayal",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "ACH_AE_7",
@@ -6589,14 +6594,14 @@
       "Name": "Paradise Lost",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     }
   ],
   "AchievementSets": [
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16560,
+      "Progressed": 16562,
       "Completed": 15
     }
   ],
@@ -6604,8 +6609,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-06T19:57:04.811996+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:33:43.9974675+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:09:56.6815337+00:00",
   "LastUpdate_AppInfo": "2024-01-09T19:56:59.6965527+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:23:01.0929134+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:33:43.9975399+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:59:06.3032115+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:09:56.6816027+00:00"
 }

@@ -23,8 +23,8 @@ Rating: 4.69 (Ranked 235)
 | The Wicked Twins | 23.00% | ~297 |
 | Right On Time | 22.00% | ~284 |
 | Like Clockwork | 22.00% | ~284 |
+| The Betrayer | 22.00% | ~284 |
 | Golem Chaser | 22.00% | ~284 |
-| The Betrayer | 21.00% | ~271 |
 | Check Your Pulse | 20.00% | ~258 |
 | The Loose Cannon | 19.00% | ~245 |
 | Street Style | 18.00% | ~232 |

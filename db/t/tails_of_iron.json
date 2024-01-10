@@ -2,7 +2,7 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 497,
+  "Ranking_Rating": 496,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 242,
@@ -4382,9 +4382,9 @@
       "ID": "Collect20Iron",
       "SetID": "9lj35g4",
       "Name": "Collect Iron Ore",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 46
     },
     {
       "ID": "Collect50MonsterParts",
@@ -4669,8 +4669,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2024-01-06T21:58:36.9976729+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:29:03.0864704+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:05:28.7218485+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:03.3487718+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:23:37.9625911+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:29:03.0865118+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:59:46.888513+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:05:28.7219027+00:00"
 }

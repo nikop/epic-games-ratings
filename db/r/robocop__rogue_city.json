@@ -2,7 +2,7 @@
   "ID": "3a5c77a536854024add2714cbd0fa865",
   "Name": "RoboCop: Rogue City",
   "ProductSlug": "robocop-rogue-city",
-  "Ranking_Rating": 818,
+  "Ranking_Rating": 826,
   "Ranking_Popularity": 335,
   "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 227,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "robocop-rogue-city"
     }
   },
-  "Rating": 4.36,
+  "Rating": 4.35,
   "RatingHistory": [
     {
       "Time": "2023-11-07T18:58:52.6047076+00:00",
@@ -483,6 +483,12 @@
       "Rating": 4.36,
       "NumberOfAwards": 144,
       "NumberOfAwardsMax": 144
+    },
+    {
+      "Time": "2024-01-10T02:58:41.4528142+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 144,
+      "NumberOfAwardsMax": 144
     }
   ],
   "ReviewsDisabled": false,
@@ -497,9 +503,9 @@
       "Count": 144
     }
   ],
-  "EOS_Progressed": 3214,
+  "EOS_Progressed": 3215,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1138,
+  "EOS_NewPlayers": 1135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2797,6 +2803,11 @@
       "Time": "2024-01-10T02:32:49.9911268+00:00",
       "NumProgressed": 3214,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T03:08:57.1568006+00:00",
+      "NumProgressed": 3215,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-10T15:05:52.8911905+00:00",
@@ -3024,16 +3035,16 @@
     {
       "ID": "80nhi4a",
       "IsBase": true,
-      "Progressed": 3214,
+      "Progressed": 3215,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-02T16:00:47.732778+00:00",
   "FirstSeenRating": "2023-11-07T18:58:52.6047074+00:00",
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
-  "LastChanged": "2024-01-09T02:22:45.4116027+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:32:49.9911264+00:00",
+  "LastChanged": "2024-01-10T02:58:41.4528141+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:08:57.1568004+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:59.2171908+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:22:39.9662672+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:32:49.9911839+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:58:41.4528146+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:08:57.1568302+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 0.60% | ~2,975 |
+| Until death do us apart | 0.60% | ~2,976 |
 | That's a Grand Army | 0.50% | ~2,480 |
 | That is mine! | 0.50% | ~2,480 |
 | Victorious! | 0.50% | ~2,480 |
@@ -93,6 +93,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Core-fu | 0.10% | ~496 |
 | Cotton Kandy | 0.10% | ~496 |
 | Cowardly Tactics | 0.10% | ~496 |
+| Crossing the Finnish Line | 0.10% | ~496 |
 | Czechs and Balances | 0.10% | ~496 |
 | Dar al-Islam | 0.10% | ~496 |
 | David the Builder | 0.10% | ~496 |
@@ -336,7 +337,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Zoro-Austrians | 0.10% | ~496 |
 | Around the World in 80 Years | 0.00% | ~0 |
 | Barbarossa | 0.00% | ~0 |
-| Crossing the Finnish Line | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
 | Empire of Mann | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 495,911 (Ranked 42)  
+Progressed: 495,917 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,7 +635,7 @@ Completed: 1 (0.00%) (Ranked 395)
 | 2024-01-07 | 494,650 | 1 |
 | 2024-01-08 | 495,265 | 1 |
 | 2024-01-09 | 495,855 | 1 |
-| 2024-01-10 | 495,911 | 1 |
+| 2024-01-10 | 495,917 | 1 |
 ## Awards
 Max (Educational): 7,780  (Ranked 52)  
 Sum: 64,179 (Ranked 24)  

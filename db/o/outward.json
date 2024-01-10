@@ -553,9 +553,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4694,
+  "EOS_Progressed": 4695,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8148,6 +8148,11 @@
       "Time": "2024-01-10T02:29:32.9427905+00:00",
       "NumProgressed": 4694,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-10T03:06:02.1807294+00:00",
+      "NumProgressed": 4695,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8223,7 +8228,7 @@
       "Name": "Eureka",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1362
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -8343,7 +8348,7 @@
       "Name": "Ready for Summer",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "ReadyforWinter_42",
@@ -8351,7 +8356,7 @@
       "Name": "Ready for Winter",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2864
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -8494,15 +8499,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4694,
+      "Progressed": 4695,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-05T19:04:06.3891748+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:29:32.9427902+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:06:02.180729+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:45.0450053+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:27:11.5888553+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:29:32.9428633+00:00"
+  "LastUpdate_Ratings": "2024-01-10T03:03:21.330234+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:06:02.1808004+00:00"
 }

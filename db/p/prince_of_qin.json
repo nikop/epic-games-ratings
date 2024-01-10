@@ -4,7 +4,7 @@
   "ProductSlug": "prince-of-qin-3bb44c",
   "Ranking_EOS_Progress": 823,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 576,
+  "Ranking_EOS_NewPlayers": 575,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-22T04:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:46.2431069+00:00",
   "LastChanged": "2023-03-31T05:58:46.243107+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:08.2066074+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:21:43.7010963+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:28:22.0502174+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:57:37.5346738+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:04:43.7494519+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10183,
+  "EOS_Progressed": 10184,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 678,
+  "EOS_NewPlayers": 677,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16539,6 +16539,11 @@
       "Time": "2024-01-10T01:53:47.0893636+00:00",
       "NumProgressed": 10183,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T03:05:14.517863+00:00",
+      "NumProgressed": 10184,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -16606,7 +16611,7 @@
       "Name": "Dense Forest",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2851
+      "UsersEstimate": 2852
     },
     {
       "ID": "3",
@@ -16654,7 +16659,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "9",
@@ -16669,7 +16674,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10183,
+      "Progressed": 10184,
       "Completed": 0
     }
   ],
@@ -16677,8 +16682,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:28:50.0612906+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:05:14.5178627+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:19.9263192+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:22:47.80704+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:28:50.0613861+00:00"
+  "LastUpdate_Ratings": "2024-01-10T02:58:50.5310747+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:05:14.5179448+00:00"
 }

@@ -1,7 +1,7 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.56 (Ranked 509)  
+Rating: 4.56 (Ranked 508)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -27,8 +27,8 @@ Rating: 4.56 (Ranked 509)
 | Wise man | 16.00% | ~30 |
 | Little hero | 16.00% | ~30 |
 | Hard worker | 16.00% | ~30 |
+| Fence | 16.00% | ~30 |
 | The fourth triplet | 15.00% | ~28 |
-| Fence | 15.00% | ~28 |
 | Master detective | 15.00% | ~28 |
 | Ghost hunter | 14.00% | ~26 |
 | Pandora's box | 13.00% | ~24 |

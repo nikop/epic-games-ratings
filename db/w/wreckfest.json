@@ -355,9 +355,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1032,
+  "EOS_Progressed": 1033,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2530,6 +2530,11 @@
       "Time": "2024-01-10T01:57:56.1424235+00:00",
       "NumProgressed": 1032,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T03:09:13.9094386+00:00",
+      "NumProgressed": 1033,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2566,7 +2571,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "CareerChamp3",
@@ -2598,15 +2603,15 @@
       "Name": "Storm Warning",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "CollectVehiclesA",
       "SetID": "5hd282c",
       "Name": "Wheeler Dealer",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 258
+      "UsersEstimate": 248
     },
     {
       "ID": "CollectVehiclesB",
@@ -2614,7 +2619,7 @@
       "Name": "Junk Collector",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "CreditsEarnedA",
@@ -2654,7 +2659,7 @@
       "Name": "Dirty Roller",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "PlayerRankB",
@@ -2686,7 +2691,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "WreckOpponentsBus",
@@ -2701,7 +2706,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1032,
+      "Progressed": 1033,
       "Completed": 0
     }
   ],
@@ -2709,8 +2714,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-07T05:59:24.3409501+00:00",
-  "LastChanged_Achievements": "2024-01-10T02:33:04.9422642+00:00",
+  "LastChanged_Achievements": "2024-01-10T03:09:13.9094382+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
-  "LastUpdate_Ratings": "2024-01-10T02:24:27.8086322+00:00",
-  "LastUpdate_Achievements": "2024-01-10T02:33:04.942288+00:00"
+  "LastUpdate_Ratings": "2024-01-10T03:00:42.7261057+00:00",
+  "LastUpdate_Achievements": "2024-01-10T03:09:13.9094592+00:00"
 }

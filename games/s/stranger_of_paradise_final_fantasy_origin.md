@@ -36,9 +36,9 @@ Number of Ratings: 1,919  (23.09.2022)
 | Led by the Nose | 34.00% | ~27,990 |
 | Path of the Void Knight | 34.00% | ~27,990 |
 | Path of the Tyrant | 34.00% | ~27,990 |
+| Terminus of Fate | 33.00% | ~27,167 |
 | Path of the Ninja | 33.00% | ~27,167 |
 | His Name Is Garland | 33.00% | ~27,167 |
-| Terminus of Fate | 32.00% | ~26,343 |
 | Path of the Assassin | 31.00% | ~25,520 |
 | Seeker of Ultimate Power | 23.00% | ~18,934 |
 | Artifact Collector | 22.00% | ~18,111 |
