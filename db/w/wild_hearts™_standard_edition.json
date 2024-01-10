@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1297,
+  "EOS_Progressed": 1298,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -4208,6 +4208,11 @@
       "Time": "2024-01-10T13:16:02.2922761+00:00",
       "NumProgressed": 1297,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-10T14:10:44.7485637+00:00",
+      "NumProgressed": 1298,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -4220,7 +4225,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "achievement_10",
@@ -4228,7 +4233,7 @@
       "Name": "Karakuri Trail",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "achievement_11",
@@ -4236,7 +4241,7 @@
       "Name": "Karakuri Isle",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "achievement_12",
@@ -4348,7 +4353,7 @@
       "Name": "Single Minded",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "achievement_25",
@@ -4412,7 +4417,7 @@
       "Name": "Snare Specialist",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "achievement_32",
@@ -4460,7 +4465,7 @@
       "Name": "Hidden History",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "achievement_38",
@@ -4516,7 +4521,7 @@
       "Name": "Team Hunter",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "achievement_44",
@@ -4524,7 +4529,7 @@
       "Name": "Artful Assister",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "achievement_45",
@@ -4564,7 +4569,7 @@
       "Name": "Reincarnation Cycle Stopper",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "achievement_6",
@@ -4572,7 +4577,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "achievement_7",
@@ -4580,7 +4585,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "achievement_8",
@@ -4603,13 +4608,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1297,
+      "Progressed": 1298,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:16:02.2922757+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:10:44.7485634+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:30.0899668+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:07:14.608586+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:16:02.2923246+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:02:08.6094115+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:10:44.7486265+00:00"
 }

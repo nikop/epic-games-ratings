@@ -8051,10 +8051,16 @@
       "Rating": 4,
       "NumberOfAwards": 27969,
       "NumberOfAwardsMax": 4949
+    },
+    {
+      "Time": "2024-01-10T14:04:13.4714828+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 27970,
+      "NumberOfAwardsMax": 4949
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27969,
+  "NumberOfAwards": 27970,
   "NumberOfAwardsMax": 4949,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8068,7 +8074,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4031
+      "Count": 4032
     },
     {
       "Text": "This game is Great for Beginners",
@@ -8107,9 +8113,9 @@
       "Count": 3820
     }
   ],
-  "EOS_Progressed": 150564,
+  "EOS_Progressed": 150569,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 1408,
+  "EOS_NewPlayers": 1406,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36132,6 +36138,11 @@
       "Time": "2024-01-10T13:15:01.2144968+00:00",
       "NumProgressed": 150564,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2024-01-10T14:09:42.0226301+00:00",
+      "NumProgressed": 150569,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 112,
@@ -36311,7 +36322,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16562
+      "UsersEstimate": 16563
     },
     {
       "ID": "chest02",
@@ -36375,7 +36386,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15056
+      "UsersEstimate": 15057
     },
     {
       "ID": "commonres02",
@@ -36407,7 +36418,7 @@
       "Name": "Disintermediation",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10539
+      "UsersEstimate": 10540
     },
     {
       "ID": "craft02",
@@ -36519,7 +36530,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10539
+      "UsersEstimate": 10540
     },
     {
       "ID": "expansion02",
@@ -36919,7 +36930,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10539
+      "UsersEstimate": 10540
     },
     {
       "ID": "sell02",
@@ -36959,7 +36970,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16562
+      "UsersEstimate": 16563
     },
     {
       "ID": "twinenchant01",
@@ -37038,15 +37049,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 150564,
+      "Progressed": 150569,
       "Completed": 345
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2024-01-10T07:03:25.9129923+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:15:01.2144965+00:00",
+  "LastChanged": "2024-01-10T14:04:13.4714827+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:09:42.0226297+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.0260329+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:09:18.1483614+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:15:01.2147172+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:04:13.4714833+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:09:42.0228516+00:00"
 }

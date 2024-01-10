@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -415,9 +415,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1702,
+  "EOS_Progressed": 1704,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4510,6 +4510,11 @@
       "Time": "2024-01-10T12:10:41.706522+00:00",
       "NumProgressed": 1702,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T14:11:20.7906788+00:00",
+      "NumProgressed": 1704,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4569,7 +4574,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -4577,7 +4582,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1685
+      "UsersEstimate": 1687
     },
     {
       "ID": "EXPERT_1",
@@ -4591,9 +4596,9 @@
       "ID": "EXPLORER_1",
       "SetID": "bf13m8j",
       "Name": "Explorer",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 256
     },
     {
       "ID": "GHOSTBUSTER",
@@ -4609,7 +4614,7 @@
       "Name": "Grave Robber",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "HEAD_BURST_1",
@@ -4617,7 +4622,7 @@
       "Name": "Head Burst",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "INDY_1",
@@ -4697,7 +4702,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "PRIVATE_EYE",
@@ -4777,7 +4782,7 @@
       "Name": "Traveler",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "VVE",
@@ -4808,15 +4813,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1702,
+      "Progressed": 1704,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-07T01:53:39.5717953+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:16:37.9809785+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:11:20.7906785+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:07:10.3494285+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:16:37.9810245+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:02:04.8128184+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:11:20.7907185+00:00"
 }

@@ -6,13 +6,13 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,562 |
-| Titan's First Steps | 11.00% | ~16,562 |
-| Basic in Bulk | 10.00% | ~15,056 |
+| Sponsored by Argon | 11.00% | ~16,563 |
+| Titan's First Steps | 11.00% | ~16,563 |
+| Basic in Bulk | 10.00% | ~15,057 |
 | Tinkle of Coins | 9.00% | ~13,551 |
-| Disintermediation | 7.00% | ~10,539 |
-| It's Free Real Estate | 7.00% | ~10,539 |
-| Capitalism Ho! | 7.00% | ~10,539 |
+| Disintermediation | 7.00% | ~10,540 |
+| It's Free Real Estate | 7.00% | ~10,540 |
+| Capitalism Ho! | 7.00% | ~10,540 |
 | One Easy Payment | 6.00% | ~9,034 |
 | Some Assembly Required | 6.00% | ~9,034 |
 | Another Satisfied Customer | 6.00% | ~9,034 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~602 |
 | Capitalist Camaraderie | 0.30% | ~452 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,564 (Ranked 86)  
+Progressed: 150,569 (Ranked 86)  
 Completed: 345 (0.23%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -384,17 +384,17 @@ Completed: 345 (0.23%) (Ranked 269)
 | 2024-01-07 | 150,192 | 345 |
 | 2024-01-08 | 150,343 | 345 |
 | 2024-01-09 | 150,487 | 345 |
-| 2024-01-10 | 150,564 | 345 |
+| 2024-01-10 | 150,569 | 345 |
 ## Awards
 Max (Great for Beginners): 4,949  (Ranked 78)  
-Sum: 27,969 (Ranked 52)  
+Sum: 27,970 (Ranked 52)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,949 |
 | This game is Relaxing | 4,078 |
 | This game has Quickly Understood Controls | 4,073 |
-| This game has Diverse Characters | 4,031 |
+| This game has Diverse Characters | 4,032 |
 | This game is Highly Recommended | 3,820 |
 | This game has Easy Combat | 3,771 |
 | This game has Playful Visuals | 3,247 |
@@ -746,4 +746,4 @@ Diff (max vs sum): 26
 | 2024-01-07 | 4.00 | - | 4,946 | 27,950 |
 | 2024-01-08 | 4.00 | - | 4,948 | 27,962 |
 | 2024-01-09 | 4.00 | - | 4,948 | 27,968 |
-| 2024-01-10 | 4.00 | - | 4,949 | 27,969 |
+| 2024-01-10 | 4.00 | - | 4,949 | 27,970 |

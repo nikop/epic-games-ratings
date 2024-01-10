@@ -1,45 +1,45 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 68)  
+Rating: 4.82 (Ranked 69)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,525 |
-| Life is your teacher | 5.00% | ~37,937 |
-| The Assault | 4.00% | ~30,350 |
-| Lightning Hands | 4.00% | ~30,350 |
-| The Hateful Pole Fighter | 3.00% | ~22,762 |
-| State of constant learning | 3.00% | ~22,762 |
-| Qi Gong: Essence | 3.00% | ~22,762 |
-| Old Child | 3.00% | ~22,762 |
-| A Lady's Blood in the Snow | 2.00% | ~15,175 |
-| Lady Wing Chun | 2.00% | ~15,175 |
-| Furious Fists | 2.00% | ~15,175 |
-| Kill Nil | 2.00% | ~15,175 |
-| Stuntmaster | 2.00% | ~15,175 |
-| Street Fighting | 2.00% | ~15,175 |
-| Qi Gong: Breath | 2.00% | ~15,175 |
-| I know Kung-Fu | 2.00% | ~15,175 |
-| Path of the Prospect | 2.00% | ~15,175 |
-| Rumble in the Hangar | 2.00% | ~15,175 |
-| Diligence as a goal | 2.00% | ~1,361 |
-| Scareless | 1.00% | ~7,587 |
-| Dance of the Praying Mantis | 1.00% | ~7,587 |
-| Qi Gong: Mind | 1.00% | ~7,587 |
-| Kung-Fu Tussle | 1.00% | ~7,587 |
-| Take damage to save time | 1.00% | ~7,587 |
-| Project Arena | 1.00% | ~680 |
-| Fight the way you practice | 0.80% | ~544 |
-| Muk Yan Master | 0.70% | ~5,311 |
-| Tiger on Fire | 0.60% | ~4,552 |
-| Source of Flying Daggers | 0.60% | ~4,552 |
-| Iron Money | 0.60% | ~4,552 |
-| Detective Story | 0.60% | ~4,552 |
-| Sword Stained With Blood | 0.60% | ~4,552 |
-| Bloody Sport | 0.60% | ~408 |
-| Martial Hub | 0.60% | ~408 |
+| The Old Grandmaster | 6.00% | ~45,528 |
+| Life is your teacher | 5.00% | ~37,940 |
+| The Assault | 4.00% | ~30,352 |
+| Lightning Hands | 4.00% | ~30,352 |
+| The Hateful Pole Fighter | 3.00% | ~22,764 |
+| State of constant learning | 3.00% | ~22,764 |
+| Qi Gong: Essence | 3.00% | ~22,764 |
+| Old Child | 3.00% | ~22,764 |
+| A Lady's Blood in the Snow | 2.00% | ~15,176 |
+| Lady Wing Chun | 2.00% | ~15,176 |
+| Furious Fists | 2.00% | ~15,176 |
+| Kill Nil | 2.00% | ~15,176 |
+| Stuntmaster | 2.00% | ~15,176 |
+| Street Fighting | 2.00% | ~15,176 |
+| Qi Gong: Breath | 2.00% | ~15,176 |
+| I know Kung-Fu | 2.00% | ~15,176 |
+| Path of the Prospect | 2.00% | ~15,176 |
+| Rumble in the Hangar | 2.00% | ~15,176 |
+| Diligence as a goal | 2.00% | ~1,362 |
+| Scareless | 1.00% | ~7,588 |
+| Dance of the Praying Mantis | 1.00% | ~7,588 |
+| Qi Gong: Mind | 1.00% | ~7,588 |
+| Kung-Fu Tussle | 1.00% | ~7,588 |
+| Take damage to save time | 1.00% | ~7,588 |
+| Project Arena | 1.00% | ~681 |
+| Fight the way you practice | 0.80% | ~545 |
+| Muk Yan Master | 0.70% | ~5,312 |
+| Tiger on Fire | 0.60% | ~4,553 |
+| Source of Flying Daggers | 0.60% | ~4,553 |
+| Iron Money | 0.60% | ~4,553 |
+| Detective Story | 0.60% | ~4,553 |
+| Sword Stained With Blood | 0.60% | ~4,553 |
+| Bloody Sport | 0.60% | ~409 |
+| Martial Hub | 0.60% | ~409 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,794 |
 | Prodigal Child | 0.50% | ~3,794 |
 | The 36th Chamber of Kung-Fu | 0.50% | ~3,794 |
@@ -52,9 +52,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.30% | ~2,276 |
 | Deadly Venom | 0.30% | ~204 |
 | A Touch of Acumen | 0.30% | ~204 |
-| Healing Memory | 0.20% | ~1,517 |
-| Master of the Phoenix Eye Fist | 0.20% | ~1,517 |
-| Be like water my friend | 0.20% | ~1,517 |
+| Healing Memory | 0.20% | ~1,518 |
+| Master of the Phoenix Eye Fist | 0.20% | ~1,518 |
+| Be like water my friend | 0.20% | ~1,518 |
 | Secure, Protect, Leave | 0.20% | ~136 |
 | Crouching Tiger | 0.20% | ~136 |
 | Skill and an even stronger will | 0.20% | ~136 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~68 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 758,742 (Ranked 26)  
+Progressed: 758,797 (Ranked 26)  
 Completed: 12,982 (1.71%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,10 +332,10 @@ Completed: 12,982 (1.71%) (Ranked 142)
 | 2024-01-07 | 756,813 | 12,976 |
 | 2024-01-08 | 757,529 | 12,979 |
 | 2024-01-09 | 758,306 | 12,980 |
-| 2024-01-10 | 758,742 | 12,982 |
+| 2024-01-10 | 758,797 | 12,982 |
 ## Awards
 Max (Great Boss Battles): 7,166  (Ranked 56)  
-Sum: 12,676 (Ranked 85)  
+Sum: 12,677 (Ranked 85)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -344,7 +344,7 @@ Diff (max vs sum): -29
 | This game has Challenging Combat | 644 |
 | This game has Amazing Storytelling | 617 |
 | This game has Amazing Characters | 611 |
-| This game is Highly Recommended | 607 |
+| This game is Highly Recommended | 608 |
 | This game has Quickly Understood Controls | 598 |
 | This game is Extremely Fun | 585 |
 | This game has Unique Visuals | 585 |
@@ -711,4 +711,4 @@ Diff (max vs sum): -29
 | 2024-01-07 | 4.82 | - | 7,148 | 12,638 |
 | 2024-01-08 | 4.82 | - | 7,154 | 12,650 |
 | 2024-01-09 | 4.82 | - | 7,166 | 12,672 |
-| 2024-01-10 | 4.82 | - | 7,166 | 12,676 |
+| 2024-01-10 | 4.82 | - | 7,166 | 12,677 |

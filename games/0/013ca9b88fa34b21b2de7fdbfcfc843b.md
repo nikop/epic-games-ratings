@@ -10,11 +10,11 @@ Rating: 4.63 (Ranked 359)
 | ... And Spit Back Out | 4.00% | ~359 |
 | Miner 49er | 3.00% | ~269 |
 | Break-Net Speed | 3.00% | ~269 |
+| Humble Collector | 3.00% | ~269 |
 | Bramble Breaker | 3.00% | ~269 |
 | Calm Sailing | 2.00% | ~180 |
 | Open the Gate! | 2.00% | ~180 |
 | Lumberjack | 2.00% | ~180 |
-| Humble Collector | 2.00% | ~180 |
 | Mist Walker | 2.00% | ~180 |
 | Oui, Chef! | 2.00% | ~180 |
 | Clear the Air | 1.00% | ~90 |

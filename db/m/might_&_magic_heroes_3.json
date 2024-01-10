@@ -2,7 +2,7 @@
   "ID": "4912067a5f4f4346b312aa226b2787ac",
   "Name": "Might \u0026 Magic Heroes 3",
   "ProductSlug": "might-and-magic-heroes-3",
-  "Ranking_Rating": 68,
+  "Ranking_Rating": 56,
   "Ranking_Popularity": 281,
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 824,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.82,
+  "Rating": 4.83,
   "NumberOfRatings": 165,
   "RatingHistory": [
     {
@@ -2960,10 +2960,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 979,
       "NumberOfAwardsMax": 258
+    },
+    {
+      "Time": "2024-01-10T14:03:14.0001451+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 980,
+      "NumberOfAwardsMax": 258
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 979,
+  "NumberOfAwards": 980,
   "NumberOfAwardsMax": 258,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3001,7 +3007,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 81
+      "Count": 82
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3051,8 +3057,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
-  "LastChanged": "2024-01-09T14:59:55.4968018+00:00",
+  "LastChanged": "2024-01-10T14:03:14.0001449+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:39.997055+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:08:20.9702612+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:15:34.4295295+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:03:14.0001455+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:10:16.3936942+00:00"
 }

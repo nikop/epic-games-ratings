@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2873,
+  "EOS_Progressed": 2874,
   "EOS_Completed": 267,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 9.29,
   "EosHistory": [
@@ -8346,6 +8346,11 @@
       "Time": "2024-01-10T13:15:33.2183106+00:00",
       "NumProgressed": 2873,
       "NumCompleted": 267
+    },
+    {
+      "Time": "2024-01-10T14:10:15.1427472+00:00",
+      "NumProgressed": 2874,
+      "NumCompleted": 267
     }
   ],
   "TotalAchievements": 12,
@@ -8365,7 +8370,7 @@
       "Name": "Bernard",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "Building the Fox",
@@ -8452,7 +8457,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2873,
+      "Progressed": 2874,
       "Completed": 267
     }
   ],
@@ -8460,8 +8465,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:15:33.2183102+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:10:15.142747+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:56:54.1144562+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:04:59.4563881+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:15:33.2183603+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:59:51.1139509+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:10:15.1427914+00:00"
 }

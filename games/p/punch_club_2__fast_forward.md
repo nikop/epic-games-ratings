@@ -14,7 +14,7 @@
 | Old movies enjoyer | 71.00% | ~405 |
 | Fitness professional | 70.00% | ~399 |
 | Employee of the week | 69.00% | ~393 |
-| Your own amateur gym | 65.00% | ~370 |
+| Your own amateur gym | 66.00% | ~376 |
 | First defeat | 64.00% | ~365 |
 | Run K, run! | 64.00% | ~365 |
 | No bullying more | 62.00% | ~353 |
@@ -71,7 +71,7 @@
 | The only right decision | 25.00% | ~142 |
 | Silver’s past | 24.00% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 570 (Ranked 341)  
+Progressed: 570 (Ranked 342)  
 Completed: 9 (1.58%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |

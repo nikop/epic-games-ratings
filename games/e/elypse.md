@@ -25,9 +25,9 @@
 | Payback | 24.00% | ~32 |
 | Nokron tower | 23.00% | ~31 |
 | Bookworm | 23.00% | ~31 |
+| Full power | 22.00% | ~29 |
+| "Ah sh*t... Here we go again!" | 22.00% | ~29 |
 | Magnitude 5 | 22.00% | ~29 |
-| Full power | 21.00% | ~28 |
-| "Ah sh*t... Here we go again!" | 21.00% | ~28 |
 | Compulsive hoarder | 20.00% | ~27 |
 | GG EZ | 14.00% | ~19 |
 | Comeback | 14.00% | ~19 |

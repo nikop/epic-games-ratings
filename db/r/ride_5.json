@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3518,
+  "EOS_Progressed": 3519,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 280,
+  "EOS_NewPlayers": 281,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8631,6 +8631,11 @@
       "Time": "2024-01-10T13:10:15.6088368+00:00",
       "NumProgressed": 3518,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T14:05:12.6807877+00:00",
+      "NumProgressed": 3519,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8643,7 +8648,7 @@
       "Name": "First Love",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -8667,7 +8672,7 @@
       "Name": "Stamina Star",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -8929,9 +8934,9 @@
       "ID": "ML_ACHIEVEMENT_37",
       "SetID": "c7hf6a4",
       "Name": "Bitter Rivalry",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1056
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -8947,7 +8952,7 @@
       "Name": "Champagne Spray",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -9034,7 +9039,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3518,
+      "Progressed": 3519,
       "Completed": 0
     }
   ],
@@ -9042,8 +9047,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-09T14:57:26.7044021+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:10:15.6088364+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:05:12.6807874+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.6681713+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:03:59.2815062+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:10:15.6089132+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:58:47.809906+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:05:12.6808626+00:00"
 }

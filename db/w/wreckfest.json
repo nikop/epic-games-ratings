@@ -355,9 +355,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1042,
+  "EOS_Progressed": 1043,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2565,6 +2565,11 @@
       "Time": "2024-01-10T13:15:13.5041082+00:00",
       "NumProgressed": 1042,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T14:09:54.4931481+00:00",
+      "NumProgressed": 1043,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2633,7 +2638,7 @@
       "Name": "Storm Warning",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "CollectVehiclesA",
@@ -2689,7 +2694,7 @@
       "Name": "Dirty Roller",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "PlayerRankB",
@@ -2697,7 +2702,7 @@
       "Name": "Trashing Around",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "PlayerRankC",
@@ -2736,7 +2741,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1042,
+      "Progressed": 1043,
       "Completed": 0
     }
   ],
@@ -2744,8 +2749,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-07T05:59:24.3409501+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:15:13.5041078+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:09:54.4931479+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:07:14.7811679+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:15:13.504146+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:02:08.6816622+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:09:54.4931707+00:00"
 }

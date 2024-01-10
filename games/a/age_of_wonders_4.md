@@ -5,22 +5,22 @@ Rating: 4.62 (Ranked 379)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 17.00% | ~1,215 |
+| Secret Technique | 17.00% | ~1,216 |
 | Realm Estate | 15.00% | ~1,072 |
 | A Wonderful Discovery | 14.00% | ~1,001 |
 | Walls Cannot Stop Us | 14.00% | ~1,001 |
 | From Friends to Family | 12.00% | ~858 |
 | Bone Peddler | 10.00% | ~715 |
-| Magical Synergy | 9.00% | ~643 |
+| Magical Synergy | 9.00% | ~644 |
 | There Can Only Be One! | 8.00% | ~572 |
 | Full Ascension | 8.00% | ~572 |
 | Stronger Together | 8.00% | ~572 |
-| Seat of Power | 7.00% | ~500 |
+| Seat of Power | 8.00% | ~572 |
 | Valley of Wonders | 6.00% | ~429 |
 | In a Liege of Your Own | 6.00% | ~429 |
 | Intimidation Tactics | 6.00% | ~429 |
-| My Final Form | 5.00% | ~357 |
-| But this one is mine | 5.00% | ~357 |
+| My Final Form | 5.00% | ~358 |
+| But this one is mine | 5.00% | ~358 |
 | Return of the Wizard King | 4.00% | ~286 |
 | Enchanted Archipelago | 4.00% | ~286 |
 | Digging for Treasure | 4.00% | ~286 |
@@ -44,15 +44,15 @@ Rating: 4.62 (Ranked 379)
 | Chaos Surge | 2.00% | ~143 |
 | Spoils of War | 2.00% | ~143 |
 | Dawn of the Dread | 2.00% | ~143 |
-| Lord of Chaos | 1.00% | ~71 |
-| The Goddess of Nature | 1.00% | ~71 |
-| Manufactured War | 1.00% | ~71 |
-| Pruning for Progress | 1.00% | ~71 |
-| Grexolis | 1.00% | ~71 |
-| One for All, All for One | 1.00% | ~71 |
-| Prometheus Avenged | 1.00% | ~71 |
-| Seal the Deal | 1.00% | ~71 |
-| A Conqueror's Cohort | 1.00% | ~71 |
+| Lord of Chaos | 1.00% | ~72 |
+| The Goddess of Nature | 1.00% | ~72 |
+| Manufactured War | 1.00% | ~72 |
+| Pruning for Progress | 1.00% | ~72 |
+| Grexolis | 1.00% | ~72 |
+| One for All, All for One | 1.00% | ~72 |
+| Prometheus Avenged | 1.00% | ~72 |
+| Seal the Deal | 1.00% | ~72 |
+| A Conqueror's Cohort | 1.00% | ~72 |
 | Betrayal Most Foul | 0.90% | ~64 |
 | Duality | 0.90% | ~64 |
 | Snap Out of It! | 0.60% | ~43 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 379)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,147 (Ranked 196)  
+Progressed: 7,150 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 7 (0.10%) (Ranked 309)
 | 2024-01-07 | 7,051 | 7 |
 | 2024-01-08 | 7,091 | 7 |
 | 2024-01-09 | 7,130 | 7 |
-| 2024-01-10 | 7,147 | 7 |
+| 2024-01-10 | 7,150 | 7 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 481)  
 Sum: 217 (Ranked 409)  

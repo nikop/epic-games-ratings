@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68156,
+  "EOS_Progressed": 68170,
   "EOS_Completed": 11760,
-  "EOS_NewPlayers": 4023,
+  "EOS_NewPlayers": 4021,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 17.25,
   "EosHistory": [
@@ -16120,6 +16120,11 @@
       "Time": "2024-01-10T13:15:52.7991315+00:00",
       "NumProgressed": 68156,
       "NumCompleted": 11760
+    },
+    {
+      "Time": "2024-01-10T14:10:35.1967878+00:00",
+      "NumProgressed": 68170,
+      "NumCompleted": 11760
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -16140,7 +16145,7 @@
       "Name": "First blood",
       "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 50435
+      "UsersEstimate": 50446
     },
     {
       "ID": "grenadeKills",
@@ -16156,7 +16161,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     },
     {
       "ID": "headshots1000",
@@ -16172,7 +16177,7 @@
       "Name": "Head popping II",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "knifeKills",
@@ -16243,7 +16248,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 68156,
+      "Progressed": 68170,
       "Completed": 11760
     }
   ],
@@ -16251,8 +16256,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2024-01-06T23:59:09.4867908+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:15:52.7991313+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:10:35.1967875+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.275557+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:08:29.5132256+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:15:52.7992198+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:03:23.0615132+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:10:35.1968727+00:00"
 }

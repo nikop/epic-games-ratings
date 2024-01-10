@@ -6,13 +6,13 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,126 |
-| The Cursed Farmer | 2.00% | ~5,063 |
+| A Brief Tour of the Realms | 4.00% | ~10,127 |
+| The Cursed Farmer | 2.00% | ~5,064 |
 | Beast Intentions | 1.00% | ~2,532 |
 | The Mad Wizard | 1.00% | ~2,532 |
-| The Ring of Regeneration | 0.90% | ~2,278 |
+| The Ring of Regeneration | 0.90% | ~2,279 |
 | Are Ya Chicken? | 0.80% | ~2,025 |
-| Welcome to Sigil | 0.80% | ~1,755 |
+| Welcome to Sigil | 0.80% | ~1,756 |
 | Were-verpowered | 0.70% | ~1,772 |
 | Seeking Allies | 0.70% | ~1,772 |
 | Mad Cow Disease | 0.70% | ~1,772 |
@@ -39,13 +39,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | When Tentacles Attack | 0.40% | ~878 |
 | Don't Lose Your Head | 0.40% | ~878 |
 | Mind Spike | 0.40% | ~878 |
-| Low Initiative | 0.30% | ~759 |
-| Building Trust | 0.30% | ~759 |
-| No Time To Rest | 0.30% | ~759 |
-| Useless Allies | 0.30% | ~759 |
-| Running of the Saurs | 0.30% | ~759 |
-| Waterdeep Detours | 0.30% | ~759 |
-| Underdeep Cartography | 0.30% | ~759 |
+| Low Initiative | 0.30% | ~760 |
+| Building Trust | 0.30% | ~760 |
+| No Time To Rest | 0.30% | ~760 |
+| Useless Allies | 0.30% | ~760 |
+| Running of the Saurs | 0.30% | ~760 |
+| Waterdeep Detours | 0.30% | ~760 |
+| Underdeep Cartography | 0.30% | ~760 |
 | Pros and CONs | 0.20% | ~506 |
 | The Silken Swamp | 0.20% | ~506 |
 | Supply Run | 0.20% | ~506 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,160 (Ranked 70)  
+Progressed: 253,177 (Ranked 70)  
 Completed: 2,609 (1.03%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -818,7 +818,7 @@ Completed: 2,609 (1.03%) (Ranked 174)
 | 2024-01-07 | 252,516 | 2,599 |
 | 2024-01-08 | 252,794 | 2,602 |
 | 2024-01-09 | 253,044 | 2,606 |
-| 2024-01-10 | 253,160 | 2,609 |
+| 2024-01-10 | 253,177 | 2,609 |
 ## Awards
 Max (Great for Beginners): 5,768  (Ranked 74)  
 Sum: 33,423 (Ranked 41)  

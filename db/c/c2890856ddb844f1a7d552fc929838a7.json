@@ -291,9 +291,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 2431,
+  "EOS_Progressed": 2432,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5721,6 +5721,11 @@
       "Time": "2024-01-10T13:10:24.2400453+00:00",
       "NumProgressed": 2431,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T14:05:21.6563611+00:00",
+      "NumProgressed": 2432,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -5757,7 +5762,7 @@
       "Name": "Blood and Gold",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "AC04",
@@ -5765,7 +5770,7 @@
       "Name": "Blood and Iron",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "AC05",
@@ -5781,7 +5786,7 @@
       "Name": "The Last Ascension",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "AC07",
@@ -5797,7 +5802,7 @@
       "Name": "Forged in Fire",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "AC09",
@@ -5813,7 +5818,7 @@
       "Name": "The Wait is Over",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "AC11",
@@ -5885,7 +5890,7 @@
       "Name": "Soledad",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "AC20",
@@ -5901,7 +5906,7 @@
       "Name": "No Cherub Left Behind",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "AC22",
@@ -5917,7 +5922,7 @@
       "Name": "Hide and Seek",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "AC24",
@@ -5933,7 +5938,7 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "AC26",
@@ -5941,7 +5946,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "AC27",
@@ -5989,7 +5994,7 @@
       "Name": "Nobody Expects the Spanish Inquisition!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "AC33",
@@ -6037,7 +6042,7 @@
       "Name": "Edge of Orison",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "AC39",
@@ -6045,7 +6050,7 @@
       "Name": "Warrior of the Silent Sorrow",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "AC40",
@@ -6077,7 +6082,7 @@
       "Name": "The Finest Craftmanship",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "AC44",
@@ -6100,7 +6105,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2431,
+      "Progressed": 2432,
       "Completed": 0
     }
   ],
@@ -6108,8 +6113,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-07T11:57:39.4406053+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:10:24.2400449+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:05:21.6563608+00:00",
   "LastUpdate_AppInfo": "2024-01-10T04:57:09.7051995+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:05:53.1047019+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:10:24.2400969+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:00:45.4293413+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:05:21.6564087+00:00"
 }

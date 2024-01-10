@@ -5,9 +5,9 @@
   "Ranking_Rating": 1074,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 331,
-  "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_Progress": 332,
+  "Ranking_EOS_Completed": 180,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 660,
+  "EOS_Progressed": 661,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -1359,6 +1359,11 @@
       "Time": "2024-01-10T11:04:33.7602864+00:00",
       "NumProgressed": 660,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-10T14:05:04.1652299+00:00",
+      "NumProgressed": 661,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1490,7 +1495,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "Leisurely_Strol",
@@ -1546,7 +1551,7 @@
       "Name": "A Familiar Face",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Paparazzi",
@@ -1601,7 +1606,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 660,
+      "Progressed": 661,
       "Completed": 6
     }
   ],
@@ -1609,8 +1614,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:10:07.3960044+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:05:04.1652294+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:57:00.9618312+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:09:27.466653+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:10:07.3960368+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:04:23.019975+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:05:04.1652572+00:00"
 }

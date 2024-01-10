@@ -8,8 +8,8 @@ Rating: 4.59 (Ranked 452)
 | Feels Familiar | 74.00% | ~1,125 |
 | I Broke It | 73.00% | ~1,110 |
 | Better On Ice | 68.00% | ~1,034 |
+| Blue Dreams | 66.00% | ~1,003 |
 | Notai Notes | 66.00% | ~1,003 |
-| Blue Dreams | 65.00% | ~988 |
 | He's Famous! | 65.00% | ~988 |
 | Cutie Poro | 65.00% | ~988 |
 | Krugmazing | 64.00% | ~973 |
@@ -35,8 +35,8 @@ Rating: 4.59 (Ranked 452)
 | True Legends | 38.00% | ~578 |
 | It Is Not Over | 36.00% | ~547 |
 | Bullseye | 36.00% | ~547 |
+| Snowy Poro | 33.00% | ~502 |
 | On The Rocks | 33.00% | ~502 |
-| Snowy Poro | 32.00% | ~486 |
 | Never Gets Old | 32.00% | ~486 |
 | Vertical Power | 26.00% | ~395 |
 | One From The Heart | 14.00% | ~213 |

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're Going Down! | 91.00% | ~244 |
-| To Each Their Own | 40.00% | ~107 |
+| To Each Their Own | 41.00% | ~110 |
 | You Get An Upgrade, You Get An Upgrade! | 18.00% | ~48 |
 | Like Phileas Fogg | 17.00% | ~46 |
 | Onwards and Upwards | 12.00% | ~32 |

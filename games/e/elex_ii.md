@@ -19,8 +19,8 @@ Number of Ratings: 124  (23.09.2022)
 | Pass A38 | 16.00% | ~36 |
 | Long-Haul Flyer | 15.00% | ~34 |
 | Family Reunion | 14.00% | ~32 |
+| Eternal Oblivion | 13.00% | ~30 |
 | Storyteller | 12.00% | ~27 |
-| Eternal Oblivion | 12.00% | ~27 |
 | Globetrotter | 11.00% | ~25 |
 | Alb | 11.00% | ~25 |
 | Berserker | 11.00% | ~25 |

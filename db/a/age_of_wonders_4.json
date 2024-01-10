@@ -759,9 +759,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7147,
+  "EOS_Progressed": 7150,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10954,6 +10954,11 @@
       "Time": "2024-01-10T13:12:58.8344272+00:00",
       "NumProgressed": 7147,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-10T14:07:58.5086708+00:00",
+      "NumProgressed": 7150,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -11029,7 +11034,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "18",
@@ -11061,7 +11066,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "21",
@@ -11093,7 +11098,7 @@
       "Name": "Secret Technique",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "25",
@@ -11157,7 +11162,7 @@
       "Name": "Magical Synergy",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "32",
@@ -11165,15 +11170,15 @@
       "Name": "My Final Form",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "33",
       "SetID": "3aa2279",
       "Name": "Seat of Power",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 500
+      "UsersEstimate": 572
     },
     {
       "ID": "34",
@@ -11213,7 +11218,7 @@
       "Name": "Manufactured War",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "39",
@@ -11269,7 +11274,7 @@
       "Name": "Pruning for Progress",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "5",
@@ -11277,7 +11282,7 @@
       "Name": "Grexolis",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "6",
@@ -11285,7 +11290,7 @@
       "Name": "One for All, All for One",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "7",
@@ -11381,7 +11386,7 @@
       "Name": "Prometheus Avenged",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "54",
@@ -11397,7 +11402,7 @@
       "Name": "Seal the Deal",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "56",
@@ -11405,7 +11410,7 @@
       "Name": "A Conqueror\u0027s Cohort",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "57",
@@ -11429,7 +11434,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "60",
@@ -11444,13 +11449,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7147,
+      "Progressed": 7150,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7147,
+      "Progressed": 7150,
       "Completed": 7
     }
   ],
@@ -11458,8 +11463,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-10T06:57:43.8261312+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:12:58.8344269+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:07:58.5086701+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:03:42.0071773+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:12:58.83451+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:58:29.9684291+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:07:58.5087596+00:00"
 }

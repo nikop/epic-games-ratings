@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
@@ -2999,9 +2999,9 @@
       "Count": 151
     }
   ],
-  "EOS_Progressed": 679547,
+  "EOS_Progressed": 679552,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 2060,
+  "EOS_NewPlayers": 2047,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33464,6 +33464,11 @@
       "Time": "2024-01-10T13:16:44.9484619+00:00",
       "NumProgressed": 679547,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-10T14:11:27.9138913+00:00",
+      "NumProgressed": 679552,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 52,
@@ -33515,7 +33520,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 129114
+      "UsersEstimate": 129115
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -33643,7 +33648,7 @@
       "Name": "Marathon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 20386
+      "UsersEstimate": 20387
     },
     {
       "ID": "_02_00_DUCKY_DANGER",
@@ -33675,7 +33680,7 @@
       "Name": "Destructionist",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 20386
+      "UsersEstimate": 20387
     },
     {
       "ID": "_02_04_INDUSTRIALIST",
@@ -33723,7 +33728,7 @@
       "Name": "Incurious",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 122318
+      "UsersEstimate": 122319
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -33795,7 +33800,7 @@
       "Name": "Climate Change",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 115523
+      "UsersEstimate": 115524
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -33890,15 +33895,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 679547,
+      "Progressed": 679552,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2024-01-09T15:02:40.7024942+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:16:44.9484617+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:11:27.913891+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:57.3345847+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:08:42.0064797+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:16:44.9486159+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:03:37.0875619+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:11:27.9141015+00:00"
 }

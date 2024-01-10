@@ -2,9 +2,9 @@
   "ID": "812112fd7449435ab8aa1ff41f01fe92",
   "Name": "Jump Challenge!",
   "ProductSlug": "jump-challenge-228ff0",
-  "Ranking_EOS_Progress": 569,
+  "Ranking_EOS_Progress": 565,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 438,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-23T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46,
+  "EOS_Progressed": 47,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -244,6 +244,11 @@
       "Time": "2024-01-09T12:08:44.0633931+00:00",
       "NumProgressed": 46,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T14:09:25.980127+00:00",
+      "NumProgressed": 47,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T15:03:01.8003971+00:00",
@@ -262,7 +267,7 @@
       "ID": "DEATH_ACID",
       "SetID": "5629o35",
       "Name": "Be wary of acid",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 50,
       "UsersEstimate": 16
     },
@@ -304,7 +309,7 @@
       "Name": "The floor is lava. Literally.",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "DEATH_LAVA_100",
@@ -328,7 +333,7 @@
       "Name": "Welcome to the jumping challenge!",
       "Percentage": 98,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "OWN_SKINS",
@@ -342,7 +347,7 @@
       "ID": "REACH_SKY",
       "SetID": "5629o35",
       "Name": "Sky is not the limit",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -360,13 +365,13 @@
       "Name": "Newbie jumper",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "SCORE_300",
       "SetID": "5629o35",
       "Name": "Parkourer",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 10
     },
@@ -374,7 +379,7 @@
       "ID": "SCORE_600",
       "SetID": "5629o35",
       "Name": "S Tier Jumper",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -390,7 +395,7 @@
       "ID": "WIN_VERSUS",
       "SetID": "5629o35",
       "Name": "Tower Champion",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 3
     }
@@ -399,14 +404,14 @@
     {
       "ID": "5629o35",
       "IsBase": true,
-      "Progressed": 46,
+      "Progressed": 47,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-29T17:58:28.6807523+00:00",
   "FirstSeenAchievements": "2023-11-13T15:03:01.800397+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:14:45.572105+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:09:25.9801267+00:00",
   "LastUpdate_AppInfo": "2024-01-08T18:57:16.4412882+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:03:25.8598175+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:14:45.5721202+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:58:13.1050288+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:09:25.9801433+00:00"
 }

@@ -34,7 +34,7 @@
 | The beast in the Oval Office | 11.00% | ~10 |
 | Bread and bocaua | 11.00% | ~10 |
 | Fanatacism is... poisonous | 11.00% | ~10 |
-| The adventurer | 10.00% | ~9 |
+| The adventurer | 11.00% | ~10 |
 | Pulp! True Adventures | 10.00% | ~9 |
 | America had no Faith | 10.00% | ~9 |
 | The scholar | 9.00% | ~8 |

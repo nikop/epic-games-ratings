@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 79650,
+  "EOS_Progressed": 79653,
   "EOS_Completed": 432,
-  "EOS_NewPlayers": 747,
+  "EOS_NewPlayers": 742,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -29614,6 +29614,11 @@
       "Time": "2024-01-10T13:16:12.0574347+00:00",
       "NumProgressed": 79650,
       "NumCompleted": 432
+    },
+    {
+      "Time": "2024-01-10T14:10:55.0511239+00:00",
+      "NumProgressed": 79653,
+      "NumCompleted": 432
     }
   ],
   "TotalAchievements": 24,
@@ -29633,7 +29638,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17523
+      "UsersEstimate": 17524
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -29641,7 +29646,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 54958
+      "UsersEstimate": 54961
     },
     {
       "ID": "BEST_FRIENDS",
@@ -29649,7 +29654,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17523
+      "UsersEstimate": 17524
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -29657,7 +29662,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 20709
+      "UsersEstimate": 20710
     },
     {
       "ID": "ERADICATE",
@@ -29665,7 +29670,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16726
+      "UsersEstimate": 16727
     },
     {
       "ID": "FETCH",
@@ -29673,7 +29678,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 22302
+      "UsersEstimate": 22303
     },
     {
       "ID": "FOXIN_AROUND",
@@ -29681,7 +29686,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 23098
+      "UsersEstimate": 23099
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -29697,7 +29702,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 14337
+      "UsersEstimate": 14338
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -29705,7 +29710,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 42214
+      "UsersEstimate": 42216
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -29745,7 +29750,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 7168
+      "UsersEstimate": 7169
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -29753,7 +29758,7 @@
       "Name": "PLAGUE DOCTOR",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 7168
+      "UsersEstimate": 7169
     },
     {
       "ID": "SPIRITED_AWAY",
@@ -29769,7 +29774,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 17523
+      "UsersEstimate": 17524
     },
     {
       "ID": "SPIRIT_DASH",
@@ -29816,7 +29821,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 79650,
+      "Progressed": 79653,
       "Completed": 432
     }
   ],
@@ -29824,8 +29829,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:16:12.0574343+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:10:55.0511237+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:00.3957366+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:03:22.2452734+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:16:12.0575723+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:58:09.2229195+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:10:55.0512748+00:00"
 }

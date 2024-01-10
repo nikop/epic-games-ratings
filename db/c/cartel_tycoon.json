@@ -307,7 +307,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 997,
+  "EOS_Progressed": 998,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
@@ -3542,6 +3542,11 @@
       "Time": "2024-01-10T11:07:09.5771375+00:00",
       "NumProgressed": 997,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-10T14:08:29.977535+00:00",
+      "NumProgressed": 998,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3569,7 +3574,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "dont-miss-calls",
@@ -3617,7 +3622,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "play-at-night",
@@ -3657,7 +3662,7 @@
       "Name": "Bite the Blow",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "sell-variety",
@@ -3673,7 +3678,7 @@
       "Name": "Camellos",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "unlock-residences",
@@ -3681,7 +3686,7 @@
       "Name": "Pampered Life",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "upgrade-building",
@@ -3704,15 +3709,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 997,
+      "Progressed": 998,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-05T21:03:11.6844011+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:14:10.4676363+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:08:29.9775346+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:39.3719101+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:08:56.5228265+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:14:10.4676649+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:03:51.3963512+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:08:29.9775878+00:00"
 }

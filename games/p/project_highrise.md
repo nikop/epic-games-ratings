@@ -20,8 +20,8 @@
 | Potent Potables | 23.00% | ~118 |
 | Your Prestige is Rising | 22.00% | ~112 |
 | Smooth Service | 22.00% | ~112 |
+| Don't Feel a Loan | 21.00% | ~107 |
 | Retail Revenue | 21.00% | ~107 |
-| Don't Feel a Loan | 20.00% | ~102 |
 | People Mover | 19.00% | ~97 |
 | Artfully Done | 18.00% | ~92 |
 | Leveled Up Shops | 18.00% | ~92 |

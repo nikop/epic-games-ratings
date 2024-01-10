@@ -881,9 +881,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 242446,
+  "EOS_Progressed": 242450,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1247,
+  "EOS_NewPlayers": 1238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20741,6 +20741,11 @@
       "Time": "2024-01-10T13:16:37.734892+00:00",
       "NumProgressed": 242446,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T14:11:20.5421619+00:00",
+      "NumProgressed": 242450,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -20849,7 +20854,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7273
+      "UsersEstimate": 7274
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -20857,7 +20862,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7273
+      "UsersEstimate": 7274
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -20937,7 +20942,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33942
+      "UsersEstimate": 33943
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -20945,7 +20950,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16971
+      "UsersEstimate": 16972
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -21024,7 +21029,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 242446,
+      "Progressed": 242450,
       "Completed": 0
     }
   ],
@@ -21032,8 +21037,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-10T03:59:20.6689228+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:16:37.7348914+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:11:20.5421616+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:19.696761+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:05:07.4935263+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:16:37.7349836+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:59:59.7709221+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:11:20.5422791+00:00"
 }

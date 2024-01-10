@@ -9445,9 +9445,9 @@
       "Count": 3634
     }
   ],
-  "EOS_Progressed": 253160,
+  "EOS_Progressed": 253177,
   "EOS_Completed": 2609,
-  "EOS_NewPlayers": 2818,
+  "EOS_NewPlayers": 2810,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39490,6 +39490,11 @@
       "Time": "2024-01-10T13:16:54.6359986+00:00",
       "NumProgressed": 253160,
       "NumCompleted": 2609
+    },
+    {
+      "Time": "2024-01-10T14:11:37.6974563+00:00",
+      "NumProgressed": 253177,
+      "NumCompleted": 2609
     }
   ],
   "TotalAchievements": 546,
@@ -39501,7 +39506,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10126
+      "UsersEstimate": 10127
     },
     {
       "ID": "objective_completed_10",
@@ -40685,7 +40690,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "objective_completed_164",
@@ -40725,7 +40730,7 @@
       "Name": "Building Trust",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "objective_completed_17",
@@ -40837,7 +40842,7 @@
       "Name": "No Time To Rest",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "objective_completed_208",
@@ -41173,7 +41178,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5063
+      "UsersEstimate": 5064
     },
     {
       "ID": "objective_completed_34",
@@ -41181,7 +41186,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2278
+      "UsersEstimate": 2279
     },
     {
       "ID": "objective_completed_35",
@@ -41373,7 +41378,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "objective_completed_400",
@@ -41989,7 +41994,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "objective_completed_590",
@@ -42677,7 +42682,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "objective_completed_75",
@@ -42709,7 +42714,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "objective_completed_8",
@@ -43789,7 +43794,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1755
+      "UsersEstimate": 1756
     },
     {
       "ID": "objective_completed_1558",
@@ -43868,21 +43873,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219434,
+      "Progressed": 219451,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253160,
+      "Progressed": 253177,
       "Completed": 2609
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-10T11:58:32.7144475+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:16:54.6359982+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:11:37.697456+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:04:17.4137423+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:16:54.6385508+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:59:06.5427721+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:11:37.6999951+00:00"
 }

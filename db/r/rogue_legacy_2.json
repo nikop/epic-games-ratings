@@ -2,12 +2,12 @@
   "ID": "4966d5da285c4f2c876937844b0e23ee",
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
-  "Ranking_Rating": 39,
+  "Ranking_Rating": 40,
   "Ranking_Popularity": 290,
   "Ranking_PopularitySum": 229,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1590,9 +1590,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 28148,
+  "EOS_Progressed": 28151,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -13700,6 +13700,11 @@
       "Time": "2024-01-10T13:16:35.7708675+00:00",
       "NumProgressed": 28148,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-10T14:11:18.5687659+00:00",
+      "NumProgressed": 28151,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -13775,7 +13780,7 @@
       "Name": "Captain and Crew",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1407
+      "UsersEstimate": 1408
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -13783,7 +13788,7 @@
       "Name": "For Glory",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "BossCastleDefeated",
@@ -13839,7 +13844,7 @@
       "Name": "Harvest and Home",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -13871,7 +13876,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -13903,7 +13908,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1407
+      "UsersEstimate": 1408
     },
     {
       "ID": "EndTimerFail",
@@ -13967,7 +13972,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "RogueMode",
@@ -14022,21 +14027,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 28148,
+      "Progressed": 28151,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 7078,
+      "Progressed": 7081,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-09T06:57:19.694078+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:16:35.7708673+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:11:18.5687654+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:16.4635805+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:03:28.5100457+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:16:35.7710183+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:58:15.9720021+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:11:18.5688452+00:00"
 }

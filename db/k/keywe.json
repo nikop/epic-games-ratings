@@ -4,7 +4,7 @@
   "ProductSlug": "keywe-c3a70e",
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 165,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -705,6 +705,11 @@
       "Time": "2024-01-09T23:07:53.5893412+00:00",
       "NumProgressed": 162,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T14:04:32.8997577+00:00",
+      "NumProgressed": 165,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:04:51.255408+00:00",
@@ -725,7 +730,7 @@
       "Name": "Secrets of the Telepost",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "allCoursesCleared",
@@ -765,7 +770,7 @@
       "Name": "Practice Makes Postmasters",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "completeFall",
@@ -773,7 +778,7 @@
       "Name": "Pumpkins and Postage Stamps",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "completeGame",
@@ -789,21 +794,21 @@
       "Name": "You\u0027re Hired",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 158
     },
     {
       "ID": "completeSummer",
       "SetID": "cfe0fhi",
       "Name": "Fun in the Bungalow Basin Sun",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 61
     },
     {
       "ID": "completeTheFirstWeek",
       "SetID": "cfe0fhi",
       "Name": "Learn the Ropes",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 5,
       "UsersEstimate": 109
     },
@@ -811,9 +816,9 @@
       "ID": "findFirstCollectible",
       "SetID": "cfe0fhi",
       "Name": "A Startling Discovery",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 46
     },
     {
       "ID": "getABonusReward",
@@ -821,7 +826,7 @@
       "Name": "Working for the Kiweekend",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "goldOnAllLevels",
@@ -876,13 +881,13 @@
     {
       "ID": "cfe0fhi",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 165,
       "Completed": 0
     },
     {
       "ID": "cfj6lld",
       "IsBase": false,
-      "Progressed": 162,
+      "Progressed": 165,
       "Completed": 0
     }
   ],
@@ -890,8 +895,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:09:36.3305928+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:04:32.8997574+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.6179854+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:05:36.3123266+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:09:36.3306073+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:00:28.9579623+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:04:32.8997699+00:00"
 }

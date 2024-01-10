@@ -10,7 +10,7 @@ Number of Ratings: 116  (23.09.2022)
 | First of many… | 68.00% | ~364 |
 | Helping Hand | 64.00% | ~342 |
 | Increased Vigor | 59.00% | ~316 |
-| Fight Fire with Fire | 57.00% | ~305 |
+| Fight Fire with Fire | 58.00% | ~310 |
 | Increased Capacity | 54.00% | ~289 |
 | Just the start | 49.00% | ~262 |
 | Perfect Storm | 46.00% | ~246 |
@@ -20,16 +20,16 @@ Number of Ratings: 116  (23.09.2022)
 | Devil's in the Details | 39.00% | ~209 |
 | Throne Potato | 39.00% | ~209 |
 | Five's a Crowd | 39.00% | ~209 |
-| 25 to Life | 38.00% | ~203 |
+| 25 to Life | 39.00% | ~209 |
 | Salvation | 37.00% | ~198 |
+| Soul Harvester | 36.00% | ~193 |
 | Unshakable Fortitude | 35.00% | ~187 |
-| Soul Harvester | 35.00% | ~187 |
 | I Wanna Rock | 34.00% | ~182 |
 | Delusions of Grandeur | 34.00% | ~182 |
 | Love Tap | 33.00% | ~177 |
 | Maximum Vigor | 31.00% | ~166 |
 | Freeze Frame | 30.00% | ~160 |
-| Eat Your Heart Out | 29.00% | ~155 |
+| Eat Your Heart Out | 30.00% | ~160 |
 | For Whom the Bell Tolls | 29.00% | ~155 |
 | Unyielding Strength | 26.00% | ~139 |
 | Big Spender | 26.00% | ~139 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.90% | ~5 |
 | Beast Mode | 0.90% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 535 (Ranked 345)  
+Progressed: 535 (Ranked 346)  
 Completed: 2 (0.37%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |

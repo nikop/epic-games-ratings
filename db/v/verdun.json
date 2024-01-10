@@ -1961,9 +1961,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 69113,
+  "EOS_Progressed": 69114,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 706,
+  "EOS_NewPlayers": 704,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31226,6 +31226,11 @@
       "Time": "2024-01-10T13:09:32.7669741+00:00",
       "NumProgressed": 69113,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-10T14:04:29.2870324+00:00",
+      "NumProgressed": 69114,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -31237,7 +31242,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 38012
+      "UsersEstimate": 38013
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -31469,7 +31474,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17969
+      "UsersEstimate": 17970
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -31525,7 +31530,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 43541
+      "UsersEstimate": 43542
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -31605,7 +31610,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 53908
+      "UsersEstimate": 53909
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -31708,15 +31713,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 69113,
+      "Progressed": 69114,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2024-01-09T20:00:35.3658762+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:09:32.766974+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:04:29.2870322+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:49.5305019+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:08:39.7202678+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:09:32.7671279+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:03:34.5945247+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:04:29.2871837+00:00"
 }

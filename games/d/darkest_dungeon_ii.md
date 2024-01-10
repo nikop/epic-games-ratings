@@ -1,7 +1,7 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 262)  
+Rating: 4.68 (Ranked 263)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,13 +10,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Lost and Found | 8.00% | ~578 |
 | Autodidact | 7.00% | ~9,265 |
 | This guy... again? | 7.00% | ~506 |
-| This Belongs in a Museum | 6.00% | ~7,941 |
-| Creep and Sleep | 6.00% | ~7,941 |
-| Overdue Notice | 6.00% | ~7,941 |
-| Escape from the Black Hole | 6.00% | ~7,941 |
+| Serenity Now! | 6.00% | ~7,942 |
+| This Belongs in a Museum | 6.00% | ~7,942 |
+| Creep and Sleep | 6.00% | ~7,942 |
+| Overdue Notice | 6.00% | ~7,942 |
+| Escape from the Black Hole | 6.00% | ~7,942 |
 | Ploughshares to Swords | 6.00% | ~434 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,618 |
-| Serenity Now! | 5.00% | ~6,618 |
 | It Rings a Bell | 5.00% | ~6,618 |
 | Not Today! | 5.00% | ~6,618 |
 | Meat and Greet | 5.00% | ~6,618 |
@@ -74,8 +74,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Bacon Bits | 0.60% | ~794 |
 | Eidetic | 0.50% | ~662 |
 | On This Long Road, We Found Redemption | 0.50% | ~36 |
+| Tears in the Rain | 0.40% | ~529 |
 | Battle Hardened | 0.40% | ~29 |
-| Tears in the Rain | 0.30% | ~397 |
 | Maître De La Lame | 0.30% | ~22 |
 | Circle of Life | 0.20% | ~265 |
 | Grand Slam | 0.20% | ~265 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,358 (Ranked 91)  
+Progressed: 132,359 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 4 (0.00%) (Ranked 395)
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
 | 2024-01-09 | 132,315 | 3 |
-| 2024-01-10 | 132,358 | 4 |
+| 2024-01-10 | 132,359 | 4 |
 ## Awards
 Max (Character Customization): 8,000  (Ranked 50)  
 Sum: 21,576 (Ranked 58)  

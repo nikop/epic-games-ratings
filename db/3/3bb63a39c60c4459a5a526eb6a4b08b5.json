@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1129,
+  "EOS_Progressed": 1131,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4399,6 +4399,11 @@
       "Time": "2024-01-10T13:16:44.6166438+00:00",
       "NumProgressed": 1129,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T14:11:27.3314751+00:00",
+      "NumProgressed": 1131,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4418,7 +4423,7 @@
       "Name": "Active Pause",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "BasicControls",
@@ -4426,7 +4431,7 @@
       "Name": "Basic Controls",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "BigPlane",
@@ -4440,9 +4445,9 @@
       "ID": "BudgetFlight",
       "SetID": "1e89b4i",
       "Name": "Budget Flight",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 406
+      "UsersEstimate": 418
     },
     {
       "ID": "Calculated",
@@ -4450,7 +4455,7 @@
       "Name": "Calculated",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "Close",
@@ -4506,7 +4511,7 @@
       "Name": "Game Started",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "FullCompletion",
@@ -4608,9 +4613,9 @@
       "ID": "NewRecord",
       "SetID": "1e89b4i",
       "Name": "New Record",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 474
+      "UsersEstimate": 464
     },
     {
       "ID": "NoTimeForModernization",
@@ -4626,7 +4631,7 @@
       "Name": "No Way Back",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "NotPlanned",
@@ -4634,7 +4639,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "Ownway",
@@ -4674,15 +4679,15 @@
       "Name": "Reliable Transporter",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ResourceEconomy",
       "SetID": "1e89b4i",
       "Name": "Resource Economy",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 406
+      "UsersEstimate": 418
     },
     {
       "ID": "Restructuring",
@@ -4738,21 +4743,21 @@
       "Name": "Transport Hub",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1129,
+      "Progressed": 1131,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:16:44.6166435+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:11:27.3314747+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:59.6507211+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:06:40.1816639+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:16:44.6166912+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:01:34.2307076+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:11:27.3315267+00:00"
 }

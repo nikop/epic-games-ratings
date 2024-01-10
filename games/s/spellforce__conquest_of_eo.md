@@ -48,6 +48,7 @@
 | Defeat Raith | 7.00% | ~10 |
 | Crypt of the Revenant | 7.00% | ~10 |
 | Fireforge | 7.00% | ~10 |
+| Master Artificer | 7.00% | ~10 |
 | A Monopoly of Might | 7.00% | ~10 |
 | Heroes | 7.00% | ~10 |
 | A Joke | 7.00% | ~10 |
@@ -56,7 +57,6 @@
 | Defeat Ianna | 6.00% | ~8 |
 | Elynn's Tale | 6.00% | ~8 |
 | Lore's Tale | 6.00% | ~8 |
-| Master Artificer | 6.00% | ~8 |
 | Balanced | 6.00% | ~8 |
 | Friend of Grey Dusk Vale | 6.00% | ~8 |
 | Defeat Undergast | 5.00% | ~7 |

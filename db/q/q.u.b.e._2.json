@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -599,9 +599,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46999,
+  "EOS_Progressed": 47001,
   "EOS_Completed": 237,
-  "EOS_NewPlayers": 746,
+  "EOS_NewPlayers": 744,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -13699,6 +13699,11 @@
       "Time": "2024-01-10T13:15:53.8008145+00:00",
       "NumProgressed": 46999,
       "NumCompleted": 237
+    },
+    {
+      "Time": "2024-01-10T14:10:36.0809475+00:00",
+      "NumProgressed": 47001,
+      "NumCompleted": 237
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -13871,7 +13876,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 24439
+      "UsersEstimate": 24441
     },
     {
       "ID": "ACH_PEAK",
@@ -13903,7 +13908,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 31959
+      "UsersEstimate": 31961
     },
     {
       "ID": "ACH_S4",
@@ -13927,7 +13932,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 35249
+      "UsersEstimate": 35251
     },
     {
       "ID": "ACH_STATUE",
@@ -13942,15 +13947,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 46999,
+      "Progressed": 47001,
       "Completed": 237
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-08T09:58:39.2037674+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:15:53.8008142+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:10:36.0809472+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:23.089643+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:05:50.5851084+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:15:53.800909+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:00:42.7325135+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:10:36.0810345+00:00"
 }

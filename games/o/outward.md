@@ -6,22 +6,22 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 72.00% | ~3,393 |
-| Ready for Winter | 61.00% | ~2,875 |
-| Ready for Summer | 48.00% | ~2,262 |
-| Cordon Bleu | 40.00% | ~1,885 |
-| Tapped! | 34.00% | ~1,602 |
-| Eureka | 29.00% | ~1,367 |
-| Scourge Slayer | 23.00% | ~1,084 |
-| Science, Troglodyte! | 21.00% | ~990 |
+| Venture Outward | 72.00% | ~3,396 |
+| Ready for Winter | 61.00% | ~2,877 |
+| Ready for Summer | 48.00% | ~2,264 |
+| Cordon Bleu | 40.00% | ~1,887 |
+| Tapped! | 34.00% | ~1,604 |
+| Eureka | 29.00% | ~1,368 |
+| Scourge Slayer | 23.00% | ~1,085 |
+| Science, Troglodyte! | 21.00% | ~991 |
 | Exceptional Skill | 20.00% | ~943 |
 | Home Sweet Home | 20.00% | ~943 |
-| Encyclopedic! | 18.00% | ~848 |
-| The Power of Family | 15.00% | ~707 |
+| Encyclopedic! | 18.00% | ~849 |
+| The Power of Family | 15.00% | ~708 |
 | A Fortress Toppled! | 14.00% | ~660 |
 | Apex Predator | 14.00% | ~660 |
-| Strange amalgams | 11.00% | ~518 |
-| The Power of Faith | 11.00% | ~518 |
+| Strange amalgams | 11.00% | ~519 |
+| The Power of Faith | 11.00% | ~519 |
 | The Power of Freedom | 8.00% | ~377 |
 | Ace Detective | 7.00% | ~330 |
 | Gift from the Ancestors | 7.00% | ~330 |
@@ -35,7 +35,7 @@ Number of Ratings: 266  (23.09.2022)
 | Ancestor's Pride | 4.00% | ~189 |
 | For All Aurai | 4.00% | ~189 |
 | Memory of a legend | 4.00% | ~189 |
-| Light of Levant | 3.00% | ~141 |
+| Light of Levant | 3.00% | ~142 |
 | Crowd Pleaser. | 2.00% | ~94 |
 | Perfect Defense | 2.00% | ~94 |
 | Power! To! The People! | 2.00% | ~94 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~14 |
 | The Absolute Pinnacle. | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,713 (Ranked 206)  
+Progressed: 4,717 (Ranked 206)  
 Completed: 5 (0.11%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 5 (0.11%) (Ranked 304)
 | 2024-01-07 | 4,622 | 5 |
 | 2024-01-08 | 4,653 | 5 |
 | 2024-01-09 | 4,681 | 5 |
-| 2024-01-10 | 4,713 | 5 |
+| 2024-01-10 | 4,717 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 505)  
 Sum: 246 (Ranked 402)  

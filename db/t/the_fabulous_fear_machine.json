@@ -4,7 +4,7 @@
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 391,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -613,9 +613,9 @@
       "ID": "26",
       "SetID": "d37idgg",
       "Name": "The adventurer",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "27",
@@ -852,8 +852,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:11:34.909962+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:06:33.1865047+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.4038986+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:05:55.3599805+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:11:34.9099987+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:00:47.6916319+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:06:33.1865508+00:00"
 }

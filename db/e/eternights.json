@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -53,7 +53,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 869,
+  "EOS_Progressed": 870,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
@@ -3228,6 +3228,11 @@
       "Time": "2024-01-10T11:10:06.0850184+00:00",
       "NumProgressed": 869,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-10T14:10:17.5549453+00:00",
+      "NumProgressed": 870,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -3272,7 +3277,7 @@
       "Name": "Yuna\u0027s Promise",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -3288,7 +3293,7 @@
       "Name": "Yohan\u0027s Promise",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_17_PromiseSia",
@@ -3320,7 +3325,7 @@
       "Name": "Shelter Escape",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -3376,7 +3381,7 @@
       "Name": "The First Bond",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -3390,9 +3395,9 @@
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
       "SetID": "9bke6f1",
       "Name": "Master Craftsman",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 374
+      "UsersEstimate": 383
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
@@ -3408,7 +3413,7 @@
       "Name": "Piggyback Expert",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -3424,7 +3429,7 @@
       "Name": "Stone Retriever",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -3432,14 +3437,14 @@
       "Name": "Flawless",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 869,
+      "Progressed": 870,
       "Completed": 2
     }
   ],
@@ -3447,8 +3452,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-08T15:56:57.0770321+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:15:35.5872373+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:10:17.554945+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.7410286+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:03:53.4631265+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:15:35.5872654+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:58:42.0834457+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:10:17.5549713+00:00"
 }

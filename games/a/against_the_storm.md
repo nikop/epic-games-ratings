@@ -1,12 +1,12 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.82 (Ranked 68)  
+Rating: 4.82 (Ranked 69)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 9.00% | ~1,856 |
+| Overgrown Library | 9.00% | ~1,857 |
 | First Real Expedition | 8.00% | ~1,650 |
 | Taking Action | 8.00% | ~1,650 |
 | No Deaths | 8.00% | ~1,650 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,627 (Ranked 154)  
+Progressed: 20,629 (Ranked 154)  
 Completed: 34 (0.16%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 34 (0.16%) (Ranked 283)
 | 2024-01-07 | 20,428 | 34 |
 | 2024-01-08 | 20,508 | 34 |
 | 2024-01-09 | 20,595 | 34 |
-| 2024-01-10 | 20,627 | 34 |
+| 2024-01-10 | 20,629 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,365 (Ranked 177)  

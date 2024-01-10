@@ -6,17 +6,17 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 84.00% | ~331 |
+| Rock of the Bay | 84.00% | ~332 |
 | Mash Machine | 75.00% | ~296 |
 | Ducks in a Row, Fish in a Barrel | 54.00% | ~213 |
-| Furon Fashion | 48.00% | ~189 |
-| Shop Til They Drop | 40.00% | ~158 |
+| Furon Fashion | 48.00% | ~190 |
+| Shop Til They Drop | 39.00% | ~154 |
 | Bodied Sattva | 37.00% | ~146 |
 | Cult Following | 35.00% | ~138 |
 | Earthly Pleasures | 34.00% | ~134 |
-| Lie Back and Think of Albion | 28.00% | ~110 |
-| Upgreatest | 27.00% | ~106 |
-| Pimp My Raid | 25.00% | ~98 |
+| Lie Back and Think of Albion | 28.00% | ~111 |
+| Upgreatest | 27.00% | ~107 |
+| Pimp My Raid | 25.00% | ~99 |
 | Freshly Squeezed | 23.00% | ~91 |
 | I Look Up As I Walk to Takoshima | 21.00% | ~83 |
 | Perfect Probulator | 18.00% | ~71 |
@@ -24,9 +24,9 @@ Number of Ratings: 90  (23.09.2022)
 | Transmitting From Sol-3 | 16.00% | ~63 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 13.00% | ~51 |
 | Fly Me to the Moon Base | 11.00% | ~43 |
-| Kaijuiced | 10.00% | ~39 |
-| Dusted | 10.00% | ~39 |
-| Scuttled | 9.00% | ~35 |
+| Kaijuiced | 10.00% | ~40 |
+| Dusted | 10.00% | ~40 |
+| Scuttled | 9.00% | ~36 |
 | Lobster Blisque | 7.00% | ~28 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~28 |
 | Yettisoned | 6.00% | ~24 |
@@ -51,8 +51,8 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.50% | ~2 |
 | Trans-Siberian Express | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 394 (Ranked 372)  
-Completed: 2 (0.51%) (Ranked 219)  
+Progressed: 395 (Ranked 372)  
+Completed: 2 (0.51%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -96,7 +96,7 @@ Completed: 2 (0.51%) (Ranked 219)
 | 2024-01-07 | 355 | 2 |
 | 2024-01-08 | 370 | 2 |
 | 2024-01-09 | 384 | 2 |
-| 2024-01-10 | 394 | 2 |
+| 2024-01-10 | 395 | 2 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 499)  
 Sum: 36 (Ranked 531)  

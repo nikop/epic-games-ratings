@@ -2,9 +2,9 @@
   "ID": "de876d33cd8742ab90988913097c4ade",
   "Name": "Alex Kidd in Miracle World DX",
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
-  "Ranking_EOS_Progress": 363,
-  "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_Progress": 362,
+  "Ranking_EOS_Completed": 180,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 437,
+  "EOS_Progressed": 438,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.92,
+  "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.0192053+00:00",
@@ -1004,6 +1004,11 @@
       "Time": "2024-01-10T10:08:08.4444909+00:00",
       "NumProgressed": 437,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-10T14:08:13.3706039+00:00",
+      "NumProgressed": 438,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -1039,7 +1044,7 @@
       "Name": "Radaxian Protector",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CHOKKINA_DEFEATED",
@@ -1111,7 +1116,7 @@
       "Name": "Wild Ox",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -1142,7 +1147,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 437,
+      "Progressed": 438,
       "Completed": 4
     }
   ],
@@ -1150,8 +1155,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:13:13.4235128+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:08:13.3706036+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:23.883052+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:06:49.1137621+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:13:13.4235586+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:01:43.196742+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:08:13.3706265+00:00"
 }

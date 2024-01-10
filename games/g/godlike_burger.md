@@ -5,28 +5,28 @@ Rating: 4.51 (Ranked 593)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~180,155 |
-| FIRST BLOOD | 40.00% | ~160,138 |
-| KEVIN! | 30.00% | ~120,103 |
-| JACK OF ALL TRADES | 23.00% | ~92,079 |
-| CRIMINAL | 20.00% | ~80,069 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~44,038 |
-| WITHOUT BREAKING A SWEAT | 10.00% | ~40,034 |
-| HONORS STUDENT | 8.00% | ~32,028 |
-| BUTCHER | 6.00% | ~24,021 |
-| INDIVIDUAL APPROACH | 5.00% | ~20,017 |
-| RAMBO | 5.00% | ~20,017 |
-| HELL'S KITCHEN | 4.00% | ~16,014 |
-| CELEBRITY | 3.00% | ~12,010 |
-| MARTYR | 3.00% | ~12,010 |
+| MASTER CHEF | 45.00% | ~180,165 |
+| FIRST BLOOD | 40.00% | ~160,146 |
+| KEVIN! | 30.00% | ~120,110 |
+| JACK OF ALL TRADES | 23.00% | ~92,084 |
+| CRIMINAL | 20.00% | ~80,073 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~44,040 |
+| WITHOUT BREAKING A SWEAT | 10.00% | ~40,037 |
+| HONORS STUDENT | 8.00% | ~32,029 |
+| BUTCHER | 6.00% | ~24,022 |
+| INDIVIDUAL APPROACH | 5.00% | ~20,018 |
+| RAMBO | 5.00% | ~20,018 |
+| HELL'S KITCHEN | 4.00% | ~16,015 |
+| CELEBRITY | 3.00% | ~12,011 |
+| MARTYR | 3.00% | ~12,011 |
 | GRATITUDE | 2.00% | ~8,007 |
 | PATTY-KILLER | 2.00% | ~8,007 |
-| EXPERIMENTALIST | 1.00% | ~4,003 |
-| GOURMET | 1.00% | ~4,003 |
-| LAW-ABIDING CITIZEN | 1.00% | ~4,003 |
-| PRUDENT | 1.00% | ~4,003 |
+| EXPERIMENTALIST | 1.00% | ~4,004 |
+| GOURMET | 1.00% | ~4,004 |
+| LAW-ABIDING CITIZEN | 1.00% | ~4,004 |
+| PRUDENT | 1.00% | ~4,004 |
 | SCATTERBRAIN | 0.80% | ~3,203 |
-| HIGH TECHNOLOGIES | 0.70% | ~2,802 |
+| HIGH TECHNOLOGIES | 0.70% | ~2,803 |
 | TASTE UNTASTY | 0.60% | ~2,402 |
 | DEBTOR | 0.20% | ~801 |
 | I'VE SEEN SOME… | 0.20% | ~801 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 593)
 | MISTER ALL THUMBS | 0.10% | ~400 |
 | TRAVELER | 0.10% | ~400 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400,344 (Ranked 50)  
+Progressed: 400,366 (Ranked 50)  
 Completed: 57 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 57 (0.01%) (Ranked 372)
 | 2024-01-07 | 399,238 | 57 |
 | 2024-01-08 | 399,682 | 57 |
 | 2024-01-09 | 400,128 | 57 |
-| 2024-01-10 | 400,344 | 57 |
+| 2024-01-10 | 400,366 | 57 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

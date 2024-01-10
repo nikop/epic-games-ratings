@@ -6,9 +6,9 @@
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 372,
-  "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_Completed": 218,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 394,
+  "EOS_Progressed": 395,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1806,6 +1806,11 @@
       "Time": "2024-01-10T13:15:44.0928825+00:00",
       "NumProgressed": 394,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-10T14:10:26.2457899+00:00",
+      "NumProgressed": 395,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1850,7 +1855,7 @@
       "Name": "Furon Fashion",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1946,7 +1951,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1954,7 +1959,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -1994,7 +1999,7 @@
       "Name": "Kaijuiced",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_KILL_MILENKOV",
@@ -2042,7 +2047,7 @@
       "Name": "Scuttled",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_KILL_YETI",
@@ -2074,7 +2079,7 @@
       "Name": "Upgreatest",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -2106,7 +2111,7 @@
       "Name": "Dusted",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -2152,9 +2157,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2162,14 +2167,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 394,
+      "Progressed": 395,
       "Completed": 2
     }
   ],
@@ -2177,8 +2182,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:15:44.0928822+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:10:26.2457895+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:04:21.0827691+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:15:44.0929165+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:59:10.2624318+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:10:26.2458288+00:00"
 }

@@ -5,41 +5,41 @@ Rating: 4.39 (Ranked 779)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 76.00% | ~2,041 |
-| A new Journey | 75.00% | ~2,014 |
+| Country Bumpkin | 76.00% | ~2,042 |
+| A new Journey | 75.00% | ~2,015 |
 | From X to Y | 74.00% | ~1,988 |
 | Departure | 74.00% | ~1,988 |
-| Way of Iron | 71.00% | ~1,907 |
-| Mystery Tour | 69.00% | ~1,853 |
-| We brake for nobody | 68.00% | ~1,826 |
+| Way of Iron | 71.00% | ~1,908 |
+| Mystery Tour | 69.00% | ~1,854 |
+| We brake for nobody | 68.00% | ~1,827 |
 | Brainstorm | 66.00% | ~1,773 |
 | Mind the Gap | 66.00% | ~1,773 |
 | Travel Company | 66.00% | ~1,773 |
-| All around the World | 63.00% | ~1,692 |
+| All around the World | 63.00% | ~1,693 |
 | Right through the middle | 59.00% | ~1,585 |
-| Facility Manager | 54.00% | ~1,450 |
-| Poor Devil | 54.00% | ~1,450 |
+| Facility Manager | 54.00% | ~1,451 |
+| Poor Devil | 54.00% | ~1,451 |
 | Producer | 51.00% | ~1,370 |
 | Bridge Builder | 43.00% | ~1,155 |
-| Apprentice | 42.00% | ~1,128 |
+| Apprentice | 42.00% | ~1,129 |
 | Going once, going twice, sold | 37.00% | ~994 |
 | Access granted | 36.00% | ~967 |
 | Bull and bear | 35.00% | ~940 |
-| Stoker | 34.00% | ~913 |
-| Full Steam ahead | 33.00% | ~886 |
+| Stoker | 34.00% | ~914 |
+| Full Steam ahead | 33.00% | ~887 |
 | All mine | 31.00% | ~833 |
 | Mole | 31.00% | ~833 |
 | Financial Shark | 31.00% | ~833 |
 | General Manager | 29.00% | ~779 |
 | Country Life | 29.00% | ~779 |
 | Socializer | 28.00% | ~752 |
-| Hostile Takeover | 26.00% | ~698 |
+| Hostile Takeover | 26.00% | ~699 |
 | Seven at one stroke | 25.00% | ~672 |
 | Breaking Ground | 23.00% | ~618 |
 | Trailblazer | 22.00% | ~591 |
 | Traffic Junction | 22.00% | ~591 |
 | Traffic Jam | 20.00% | ~537 |
-| Resistance is futile | 18.00% | ~483 |
+| Resistance is futile | 18.00% | ~484 |
 | Networker | 17.00% | ~457 |
 | Bold and beautiful | 16.00% | ~430 |
 | Settler | 16.00% | ~430 |
@@ -48,7 +48,7 @@ Rating: 4.39 (Ranked 779)
 | Max Power | 14.00% | ~376 |
 | Locusts | 13.00% | ~349 |
 | Tycoon | 12.00% | ~322 |
-| A new Hope | 11.00% | ~295 |
+| A new Hope | 11.00% | ~296 |
 | Call of Duty | 10.00% | ~269 |
 | Unstoppable | 9.00% | ~242 |
 | Track to the Future | 9.00% | ~242 |
@@ -61,7 +61,7 @@ Rating: 4.39 (Ranked 779)
 | European Union | 0.60% | ~16 |
 | Together we stand | 0.50% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,686 (Ranked 233)  
+Progressed: 2,687 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 2,657 | 0 |
 | 2024-01-08 | 2,671 | 0 |
 | 2024-01-09 | 2,676 | 0 |
-| 2024-01-10 | 2,686 | 0 |
+| 2024-01-10 | 2,687 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

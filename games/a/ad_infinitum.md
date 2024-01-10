@@ -10,7 +10,7 @@
 | Hunger | 50.00% | ~100 |
 | Awaken | 41.00% | ~82 |
 | Path of Corruption | 33.00% | ~66 |
-| Hope | 29.00% | ~58 |
+| Hope | 30.00% | ~60 |
 | Rage | 28.00% | ~56 |
 | Path of Pain | 22.00% | ~44 |
 | Mayhem | 18.00% | ~36 |

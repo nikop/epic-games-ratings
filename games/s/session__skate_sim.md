@@ -1,20 +1,20 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.68 (Ranked 262)  
+Rating: 4.68 (Ranked 263)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 63.00% | ~2,296 |
-| Keeping it classy | 27.00% | ~984 |
-| Welcome to the family | 21.00% | ~765 |
+| You're free now! | 63.00% | ~2,298 |
+| Keeping it classy | 27.00% | ~985 |
+| Welcome to the family | 21.00% | ~766 |
 | The finer things in life | 19.00% | ~693 |
 | Backpacker | 13.00% | ~474 |
 | Go with the Flow | 13.00% | ~474 |
-| Plastic Surgeon | 10.00% | ~364 |
-| The flip trick crown jewel | 10.00% | ~364 |
-| The hard way | 10.00% | ~364 |
+| Plastic Surgeon | 10.00% | ~365 |
+| The flip trick crown jewel | 10.00% | ~365 |
+| The hard way | 10.00% | ~365 |
 | Good vibes | 9.00% | ~328 |
 | Keep the dream alive | 9.00% | ~328 |
 | Upfront shredder | 9.00% | ~328 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,645 (Ranked 220)  
+Progressed: 3,647 (Ranked 220)  
 Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 2 (0.05%) (Ranked 336)
 | 2024-01-07 | 3,587 | 2 |
 | 2024-01-08 | 3,608 | 2 |
 | 2024-01-09 | 3,627 | 2 |
-| 2024-01-10 | 3,645 | 2 |
+| 2024-01-10 | 3,647 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 63  (Ranked 426)  
 Sum: 584 (Ranked 326)  

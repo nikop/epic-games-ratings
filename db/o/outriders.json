@@ -4,7 +4,7 @@
   "ProductSlug": "outriders",
   "Ranking_Rating": 727,
   "Ranking_Popularity": 141,
-  "Ranking_PopularitySum": 185,
+  "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 824,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 576,
@@ -3740,10 +3740,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 3058,
       "NumberOfAwardsMax": 1370
+    },
+    {
+      "Time": "2024-01-10T13:59:08.5796827+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 3060,
+      "NumberOfAwardsMax": 1370
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3058,
+  "NumberOfAwards": 3060,
   "NumberOfAwardsMax": 1370,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3793,7 +3799,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 186
+      "Count": 188
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3825,8 +3831,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:16.889814+00:00",
-  "LastChanged": "2024-01-10T03:58:26.630684+00:00",
+  "LastChanged": "2024-01-10T13:59:08.5796825+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:37.8978556+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:04:19.338241+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:12:12.3487865+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:59:08.579683+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:07:11.0249013+00:00"
 }

@@ -6,24 +6,24 @@ Rating: 4.26 (Ranked 916)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 78.00% | ~1,991 |
-| Don't I Know You...? | 75.00% | ~1,914 |
-| Jailbreak | 64.00% | ~1,633 |
-| HEADSHOT! | 37.00% | ~944 |
-| Suited and Booted | 37.00% | ~944 |
+| Don't I Know You...? | 75.00% | ~1,915 |
+| Jailbreak | 64.00% | ~1,634 |
+| HEADSHOT! | 37.00% | ~945 |
+| Suited and Booted | 37.00% | ~945 |
 | Sleeping With The Fishes | 34.00% | ~868 |
 | High Performance | 30.00% | ~766 |
 | Overheated | 29.00% | ~740 |
 | Powered Up | 27.00% | ~689 |
-| Studied The Blade | 24.00% | ~612 |
-| Home Invasion | 22.00% | ~561 |
-| Luminary | 22.00% | ~561 |
+| Studied The Blade | 24.00% | ~613 |
+| Home Invasion | 22.00% | ~562 |
+| Luminary | 22.00% | ~562 |
 | True Survivor | 21.00% | ~536 |
 | It's a Trap | 21.00% | ~536 |
-| Offensive Defense | 20.00% | ~510 |
-| Shocking | 20.00% | ~510 |
+| Offensive Defense | 20.00% | ~511 |
+| Shocking | 20.00% | ~511 |
 | Unforeseeable Consequences | 19.00% | ~485 |
-| Court Martial | 18.00% | ~459 |
-| Clean Cut | 18.00% | ~459 |
+| Court Martial | 18.00% | ~460 |
+| Clean Cut | 18.00% | ~460 |
 | Dead Again | 17.00% | ~434 |
 | Full Arsenal | 16.00% | ~408 |
 | Can't Trust Banks | 15.00% | ~383 |
@@ -63,8 +63,8 @@ Rating: 4.26 (Ranked 916)
 | Three Birds With One Stone | 1.00% | ~26 |
 | The Easy Way Out | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,552 (Ranked 236)  
-Completed: 13 (0.51%) (Ranked 219)  
+Progressed: 2,553 (Ranked 236)  
+Completed: 13 (0.51%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -265,7 +265,7 @@ Completed: 13 (0.51%) (Ranked 219)
 | 2024-01-07 | 2,519 | 13 |
 | 2024-01-08 | 2,534 | 13 |
 | 2024-01-09 | 2,547 | 13 |
-| 2024-01-10 | 2,552 | 13 |
+| 2024-01-10 | 2,553 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2291,7 +2291,7 @@
   ],
   "EOS_Progressed": 22079,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13188,9 +13188,9 @@
       "ID": "EstateAgent",
       "SetID": "d0jo315",
       "Name": "Estate Agent",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1325
     },
     {
       "ID": "FirstMoney",
@@ -13340,8 +13340,8 @@
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2024-01-08T20:58:06.7738813+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:10:49.0102464+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:05:46.4158396+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:58.4708185+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:04:35.1299688+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:10:49.0103188+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:59:25.1125419+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:05:46.4159076+00:00"
 }

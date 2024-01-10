@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~1,297 |
-| Hidden History | 71.00% | ~921 |
-| Commencing of Quests | 61.00% | ~791 |
-| Budding Conjuror | 59.00% | ~765 |
+| Land of the Rising Sun | 100.00% | ~1,298 |
+| Hidden History | 71.00% | ~922 |
+| Commencing of Quests | 61.00% | ~792 |
+| Budding Conjuror | 59.00% | ~766 |
 | Man-Machine Master | 49.00% | ~636 |
 | Mountain Splitter | 48.00% | ~623 |
 | Subsistence Skills | 48.00% | ~623 |
@@ -26,13 +26,13 @@
 | Kemono at Heart | 27.00% | ~350 |
 | Mighty Marmelizer | 26.00% | ~337 |
 | Fair Means or Foul | 26.00% | ~337 |
-| Single Minded | 24.00% | ~311 |
-| Snare Specialist | 23.00% | ~298 |
-| Karakuri Trail | 22.00% | ~285 |
-| Artful Assister | 21.00% | ~272 |
-| Team Hunter | 20.00% | ~259 |
-| Karakuri Isle | 19.00% | ~246 |
-| Reincarnation Cycle Stopper | 19.00% | ~246 |
+| Single Minded | 24.00% | ~312 |
+| Snare Specialist | 23.00% | ~299 |
+| Karakuri Trail | 22.00% | ~286 |
+| Artful Assister | 21.00% | ~273 |
+| Team Hunter | 20.00% | ~260 |
+| Karakuri Isle | 19.00% | ~247 |
+| Reincarnation Cycle Stopper | 19.00% | ~247 |
 | Left Arm Leverager | 16.00% | ~208 |
 | Human Believer | 16.00% | ~208 |
 | Style Seeker | 15.00% | ~195 |
@@ -53,7 +53,7 @@
 | Big Spender | 5.00% | ~65 |
 | Tsukumo Whisperer | 3.00% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,297 (Ranked 278)  
+Progressed: 1,298 (Ranked 278)  
 Completed: 8 (0.62%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,4 +170,4 @@ Completed: 8 (0.62%) (Ranked 204)
 | 2024-01-07 | 1,227 | 8 |
 | 2024-01-08 | 1,253 | 8 |
 | 2024-01-09 | 1,281 | 8 |
-| 2024-01-10 | 1,297 | 8 |
+| 2024-01-10 | 1,298 | 8 |

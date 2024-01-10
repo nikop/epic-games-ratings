@@ -6,28 +6,28 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~374,720 |
-| Now You're Talking | 62.00% | ~331,895 |
-| Steel Yourself | 62.00% | ~331,895 |
-| Window Dressing | 50.00% | ~267,657 |
-| Trigger Happy | 46.00% | ~246,244 |
-| Riverborn | 45.00% | ~240,891 |
+| First Step | 70.00% | ~374,721 |
+| Now You're Talking | 62.00% | ~331,896 |
+| Steel Yourself | 62.00% | ~331,896 |
+| Window Dressing | 50.00% | ~267,658 |
+| Trigger Happy | 46.00% | ~246,245 |
+| Riverborn | 45.00% | ~240,892 |
 | Starry Eyed | 34.00% | ~182,007 |
 | Poking Around | 34.00% | ~182,007 |
-| Talk of the Town | 24.00% | ~128,475 |
-| AAARR! | 23.00% | ~123,122 |
-| Hello Darkness | 23.00% | ~123,122 |
-| Wind At Our Backs | 22.00% | ~117,769 |
+| Talk of the Town | 24.00% | ~128,476 |
+| AAARR! | 23.00% | ~123,123 |
+| Hello Darkness | 23.00% | ~123,123 |
+| Wind At Our Backs | 22.00% | ~117,770 |
 | To the Beat | 20.00% | ~107,063 |
-| Sunny Shores | 17.00% | ~91,003 |
-| Sunday Best | 16.00% | ~85,650 |
+| Sunny Shores | 17.00% | ~91,004 |
+| Sunday Best | 16.00% | ~85,651 |
 | To Victory! | 15.00% | ~80,297 |
 | Two of a Kind | 14.00% | ~74,944 |
 | Keep On Trucking | 13.00% | ~69,591 |
 | Going on an Adventure | 12.00% | ~64,238 |
 | Make Peace, Not War | 11.00% | ~58,885 |
-| Walking The Line | 10.00% | ~53,531 |
-| Not So Cute Anymore | 10.00% | ~53,531 |
+| Walking The Line | 10.00% | ~53,532 |
+| Not So Cute Anymore | 10.00% | ~53,532 |
 | Road Less Travelled | 9.00% | ~48,178 |
 | Lost and Found | 9.00% | ~48,178 |
 | Under the Radar | 8.00% | ~42,825 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,606 |
 | Point Taken | 0.20% | ~1,071 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 535,314 (Ranked 37)  
+Progressed: 535,316 (Ranked 37)  
 Completed: 519 (0.10%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 519 (0.10%) (Ranked 309)
 | 2024-01-07 | 535,157 | 519 |
 | 2024-01-08 | 535,203 | 519 |
 | 2024-01-09 | 535,283 | 519 |
-| 2024-01-10 | 535,314 | 519 |
+| 2024-01-10 | 535,316 | 519 |
 ## Awards
 Max (Relaxing): 21  (Ranked 574)  
 Sum: 21 (Ranked 576)  

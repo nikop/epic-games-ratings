@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2206,
+  "EOS_Progressed": 2208,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8510,6 +8510,11 @@
       "Time": "2024-01-10T11:07:07.9037255+00:00",
       "NumProgressed": 2206,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T14:08:28.3934354+00:00",
+      "NumProgressed": 2208,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8527,9 +8532,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 177
     },
     {
       "ID": "ach_defeat_players_10",
@@ -8537,7 +8542,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ach_defeat_players_100",
@@ -8585,7 +8590,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -8625,7 +8630,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -8657,7 +8662,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -8687,9 +8692,9 @@
       "ID": "objective_key_alliance_help_2",
       "SetID": "bm61c2p",
       "Name": "Brothers in Arms",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 155
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -8769,7 +8774,7 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -8824,7 +8829,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2206,
+      "Progressed": 2208,
       "Completed": 1
     }
   ],
@@ -8832,8 +8837,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:13:28.4069629+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:08:28.393435+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:28.5639018+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:03:52.9597572+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:13:28.4070277+00:00"
+  "LastUpdate_Ratings": "2024-01-10T13:58:41.7043105+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:08:28.3935092+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2829,
+  "EOS_Progressed": 2830,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7674,6 +7674,11 @@
       "Time": "2024-01-10T13:16:49.540078+00:00",
       "NumProgressed": 2829,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T14:11:32.5211964+00:00",
+      "NumProgressed": 2830,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7750,7 +7755,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "achievement_18",
@@ -7758,7 +7763,7 @@
       "Name": "The power of the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "achievement_19",
@@ -7830,7 +7835,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "achievement_27",
@@ -7910,7 +7915,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2433
+      "UsersEstimate": 2434
     },
     {
       "ID": "achievement_36",
@@ -7918,7 +7923,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "achievement_37",
@@ -7958,7 +7963,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "achievement_41",
@@ -7966,7 +7971,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "achievement_42",
@@ -8038,7 +8043,7 @@
       "Name": "Shoot first",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "achievement_50",
@@ -8189,13 +8194,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2829,
+      "Progressed": 2830,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2829,
+      "Progressed": 2830,
       "Completed": 1
     }
   ],
@@ -8203,8 +8208,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:16:49.5400776+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:11:32.5211961+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:05:43.9076551+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:16:49.540157+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:00:35.6069771+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:11:32.521279+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": null,
@@ -9200,9 +9200,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 479099,
+  "EOS_Progressed": 479101,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35810,6 +35810,11 @@
       "Time": "2024-01-10T13:15:18.5782226+00:00",
       "NumProgressed": 479099,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-10T14:09:59.7328439+00:00",
+      "NumProgressed": 479101,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -36549,7 +36554,7 @@
       "Name": "Draft Rivalry",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2395
+      "UsersEstimate": 2396
     },
     {
       "ID": "fantasy_draft_knockout_king",
@@ -36604,15 +36609,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 479099,
+      "Progressed": 479101,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2024-01-09T20:59:50.1870988+00:00",
-  "LastChanged_Achievements": "2024-01-10T13:15:18.5782219+00:00",
+  "LastChanged_Achievements": "2024-01-10T14:09:59.7328436+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:28.1927987+00:00",
-  "LastUpdate_Ratings": "2024-01-10T13:06:59.9981201+00:00",
-  "LastUpdate_Achievements": "2024-01-10T13:15:18.5784363+00:00"
+  "LastUpdate_Ratings": "2024-01-10T14:01:54.5459308+00:00",
+  "LastUpdate_Achievements": "2024-01-10T14:09:59.733057+00:00"
 }
