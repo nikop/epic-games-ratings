@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -837,9 +837,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3866,
+  "EOS_Progressed": 3868,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5852,6 +5852,11 @@
       "Time": "2024-01-10T06:06:10.3089149+00:00",
       "NumProgressed": 3866,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T09:06:06.5582558+00:00",
+      "NumProgressed": 3868,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -6031,7 +6036,7 @@
       "Name": "Not So Fast...",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "Kills_Bleed",
@@ -6055,7 +6060,7 @@
       "Name": "Executioner",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "Kills_Exterminator",
@@ -6111,7 +6116,7 @@
       "Name": "An Ill Omen",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -6309,9 +6314,9 @@
       "ID": "SkilledKnight",
       "SetID": "3jha1np",
       "Name": "True Mastery",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 27
     },
     {
       "ID": "StrategicCommand",
@@ -6406,21 +6411,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3866,
+      "Progressed": 3868,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3866,
+      "Progressed": 3868,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-07T22:03:18.1525827+00:00",
-  "LastChanged_Achievements": "2024-01-10T08:05:45.2689434+00:00",
+  "LastChanged_Achievements": "2024-01-10T09:06:06.5582555+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:54.2702622+00:00",
-  "LastUpdate_Ratings": "2024-01-10T08:03:16.3484801+00:00",
-  "LastUpdate_Achievements": "2024-01-10T08:05:45.2690298+00:00"
+  "LastUpdate_Ratings": "2024-01-10T09:03:31.1098862+00:00",
+  "LastUpdate_Achievements": "2024-01-10T09:06:06.5583415+00:00"
 }

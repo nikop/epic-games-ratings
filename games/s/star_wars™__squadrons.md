@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~37,780 |
-| Safety in the Storm | 23.00% | ~9,147 |
-| A Better Idea | 23.00% | ~9,147 |
-| Begin the Ceremony | 19.00% | ~7,556 |
-| Mission Accomplished | 18.00% | ~7,158 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~5,965 |
-| A Starfighter of Your Own | 13.00% | ~5,170 |
-| Asset Secured | 12.00% | ~4,772 |
+| Fracture at Fostar Haven | 95.00% | ~37,786 |
+| Safety in the Storm | 23.00% | ~9,148 |
+| A Better Idea | 23.00% | ~9,148 |
+| Begin the Ceremony | 19.00% | ~7,557 |
+| Mission Accomplished | 18.00% | ~7,160 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~5,966 |
+| A Starfighter of Your Own | 13.00% | ~5,171 |
+| Asset Secured | 12.00% | ~4,773 |
 | Unkillable | 7.00% | ~2,784 |
 | Together, Vanguard | 7.00% | ~2,784 |
 | The Galaxy's Finest (Pilot) | 6.00% | ~2,386 |
-| Sound Strategy | 5.00% | ~1,988 |
-| Stomped | 5.00% | ~1,988 |
+| Sound Strategy | 5.00% | ~1,989 |
+| Stomped | 5.00% | ~1,989 |
 | Fearless | 4.00% | ~1,591 |
 | Back From the Brink | 4.00% | ~1,591 |
 | Flames Over Mon Cala | 4.00% | ~1,591 |
@@ -26,10 +26,10 @@
 | Temporary Guardian | 3.00% | ~1,193 |
 | Baited | 3.00% | ~1,193 |
 | Punch It | 3.00% | ~1,193 |
-| Stun 'Em | 2.00% | ~795 |
-| Squadron Hunter | 2.00% | ~795 |
-| Combat Pilot | 2.00% | ~795 |
-| Dressed for the Job You Want | 2.00% | ~795 |
+| Stun 'Em | 2.00% | ~796 |
+| Squadron Hunter | 2.00% | ~796 |
+| Combat Pilot | 2.00% | ~796 |
+| Dressed for the Job You Want | 2.00% | ~796 |
 | I Have You Now | 1.00% | ~398 |
 | Against the Current | 0.80% | ~318 |
 | Denied | 0.70% | ~278 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~40 |
 | Ultimate Weapon | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,768 (Ranked 134)  
+Progressed: 39,775 (Ranked 134)  
 Completed: 3 (0.01%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 3 (0.01%) (Ranked 372)
 | 2024-01-07 | 39,123 | 3 |
 | 2024-01-08 | 39,442 | 3 |
 | 2024-01-09 | 39,679 | 3 |
-| 2024-01-10 | 39,768 | 3 |
+| 2024-01-10 | 39,775 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

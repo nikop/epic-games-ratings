@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
     "PcReleaseDate": "2019-12-05T15:00:00+00:00",
@@ -447,7 +447,7 @@
   ],
   "EOS_Progressed": 582,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2258,9 +2258,9 @@
       "ID": "ReadytoBlow",
       "SetID": "329ak73",
       "Name": "Ready to Blow",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "RespectforAnimals",
@@ -2338,8 +2338,8 @@
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-10T08:10:37.7575158+00:00",
+  "LastChanged_Achievements": "2024-01-10T09:10:35.5482234+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.460117+00:00",
-  "LastUpdate_Ratings": "2024-01-10T07:59:42.7789941+00:00",
-  "LastUpdate_Achievements": "2024-01-10T08:10:37.7575382+00:00"
+  "LastUpdate_Ratings": "2024-01-10T08:59:41.4660248+00:00",
+  "LastUpdate_Achievements": "2024-01-10T09:10:35.5482496+00:00"
 }

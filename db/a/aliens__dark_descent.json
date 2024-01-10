@@ -3,12 +3,12 @@
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
   "Ranking_Rating": 528,
-  "Ranking_Popularity": 431,
-  "Ranking_PopularitySum": 497,
+  "Ranking_Popularity": 425,
+  "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -523,23 +523,29 @@
       "Rating": 4.55,
       "NumberOfAwards": 62,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-01-10T09:00:12.2019572+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 63,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 62,
-  "NumberOfAwardsMax": 62,
+  "NumberOfAwards": 63,
+  "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 62
+      "Count": 63
     }
   ],
-  "EOS_Progressed": 6271,
+  "EOS_Progressed": 6272,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 544,
+  "EOS_NewPlayers": 540,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9422,6 +9428,11 @@
       "Time": "2024-01-10T08:06:51.5296117+00:00",
       "NumProgressed": 6271,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-10T09:07:14.0322142+00:00",
+      "NumProgressed": 6272,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -9465,7 +9476,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2759
+      "UsersEstimate": 2760
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -9481,7 +9492,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -9529,7 +9540,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 4013
+      "UsersEstimate": 4014
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -9553,7 +9564,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 3574
+      "UsersEstimate": 3575
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -9593,7 +9604,7 @@
       "Name": "Bandage Lover",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -9633,7 +9644,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2759
+      "UsersEstimate": 2760
     },
     {
       "ID": "ACH_MISSION_03",
@@ -9657,7 +9668,7 @@
       "Name": "Where It All Begun",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2069
+      "UsersEstimate": 2070
     },
     {
       "ID": "ACH_MISSION_06",
@@ -9681,7 +9692,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1443
     },
     {
       "ID": "ACH_MISSION_09",
@@ -9689,7 +9700,7 @@
       "Name": "The Passenger",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1443
     },
     {
       "ID": "ACH_MISSION_10",
@@ -9753,7 +9764,7 @@
       "Name": "People Person",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 2947
+      "UsersEstimate": 2948
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -9785,23 +9796,23 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2947
+      "UsersEstimate": 2948
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6271,
+      "Progressed": 6272,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-20T02:04:43.7723421+00:00",
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
-  "LastChanged": "2024-01-08T08:58:13.1526361+00:00",
-  "LastChanged_Achievements": "2024-01-10T08:06:51.5296113+00:00",
+  "LastChanged": "2024-01-10T09:00:12.2019568+00:00",
+  "LastChanged_Achievements": "2024-01-10T09:07:14.0322139+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.3437063+00:00",
-  "LastUpdate_Ratings": "2024-01-10T08:00:12.1854209+00:00",
-  "LastUpdate_Achievements": "2024-01-10T08:06:51.5296766+00:00"
+  "LastUpdate_Ratings": "2024-01-10T09:00:12.2019575+00:00",
+  "LastUpdate_Achievements": "2024-01-10T09:07:14.0322775+00:00"
 }

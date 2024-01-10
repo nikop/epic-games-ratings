@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24750,
+  "EOS_Progressed": 24751,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -22968,6 +22968,11 @@
       "Time": "2024-01-10T07:03:43.8380342+00:00",
       "NumProgressed": 24750,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2024-01-10T09:04:03.8254993+00:00",
+      "NumProgressed": 24751,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 14,
@@ -23035,7 +23040,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 12622
+      "UsersEstimate": 12623
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -23043,7 +23048,7 @@
       "Name": "In For The Kill",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2722
+      "UsersEstimate": 2723
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -23090,15 +23095,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 24750,
+      "Progressed": 24751,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2024-01-10T08:03:47.3526292+00:00",
+  "LastChanged_Achievements": "2024-01-10T09:04:03.8254987+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:43.5495434+00:00",
-  "LastUpdate_Ratings": "2024-01-10T08:02:58.0391687+00:00",
-  "LastUpdate_Achievements": "2024-01-10T08:03:47.3527678+00:00"
+  "LastUpdate_Ratings": "2024-01-10T09:03:10.3039984+00:00",
+  "LastUpdate_Achievements": "2024-01-10T09:04:03.8257221+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -553,9 +553,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4700,
+  "EOS_Progressed": 4701,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8163,6 +8163,11 @@
       "Time": "2024-01-10T08:06:30.1607538+00:00",
       "NumProgressed": 4700,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-10T09:06:52.5998531+00:00",
+      "NumProgressed": 4701,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8366,7 +8371,7 @@
       "Name": "Ready for Winter",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2867
+      "UsersEstimate": 2868
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -8494,7 +8499,7 @@
       "Name": "Venture Outward",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 3384
+      "UsersEstimate": 3385
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8509,15 +8514,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4700,
+      "Progressed": 4701,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-05T19:04:06.3891748+00:00",
-  "LastChanged_Achievements": "2024-01-10T08:06:30.1607534+00:00",
+  "LastChanged_Achievements": "2024-01-10T09:06:52.5998525+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:45.0450053+00:00",
-  "LastUpdate_Ratings": "2024-01-10T08:03:01.2218159+00:00",
-  "LastUpdate_Achievements": "2024-01-10T08:06:30.1608286+00:00"
+  "LastUpdate_Ratings": "2024-01-10T09:03:13.610776+00:00",
+  "LastUpdate_Achievements": "2024-01-10T09:06:52.5999247+00:00"
 }

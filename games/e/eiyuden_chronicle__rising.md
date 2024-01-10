@@ -18,7 +18,7 @@ Number of Ratings: 48  (23.09.2022)
 | A Girl About the Town | 47.00% | ~375 |
 | First Time Hunting | 46.00% | ~367 |
 | Rune Wall Wreckage | 45.00% | ~359 |
-| ...And Your Tax Money | 43.00% | ~343 |
+| ...And Your Tax Money | 44.00% | ~351 |
 | The Lords of the Snowpeak | 37.00% | ~295 |
 | The Go-To Girl | 34.00% | ~271 |
 | Scavenger's Honor | 34.00% | ~271 |

@@ -27,9 +27,9 @@ Number of Ratings: 67  (23.09.2022)
 | Are You Not Entertained? | 0.30% | ~2 |
 | Collector | 0.30% | ~2 |
 | Full of Hell | 0.30% | ~2 |
+| Ready to Blow | 0.30% | ~2 |
 | Wicked Killington | 0.30% | ~2 |
 | Blademaster | 0.20% | ~1 |
-| Ready to Blow | 0.20% | ~1 |
 | Respect For Animals | 0.20% | ~1 |
 | The Promised End | 0.20% | ~1 |
 | Belial | 0.00% | ~0 |

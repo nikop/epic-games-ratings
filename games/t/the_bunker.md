@@ -16,7 +16,7 @@
 | Descent | 58.00% | ~102 |
 | Awakenings | 57.00% | ~100 |
 | Cold Storage | 57.00% | ~100 |
-| Sam | 56.00% | ~98 |
+| Sam | 57.00% | ~100 |
 | Leave | 51.00% | ~89 |
 | Soldier | 51.00% | ~89 |
 | Churchill | 49.00% | ~86 |

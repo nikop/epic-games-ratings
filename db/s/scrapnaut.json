@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 652,
+  "EOS_Progressed": 653,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2266,6 +2266,11 @@
       "Time": "2024-01-10T00:09:28.3907956+00:00",
       "NumProgressed": 652,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-10T09:09:51.6373806+00:00",
+      "NumProgressed": 653,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -2301,7 +2306,7 @@
       "Name": "Electro-Scrap Master",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_COLLECT_100_SCRAP",
@@ -2325,7 +2330,7 @@
       "Name": "Mushroom Picker",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -2413,7 +2418,7 @@
       "Name": "My New Home",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACH_KILL_100",
@@ -2421,7 +2426,7 @@
       "Name": "Robot Hunter",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_KILL_20",
@@ -2429,7 +2434,7 @@
       "Name": "Scrapper",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACH_KILL_50",
@@ -2524,7 +2529,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 652,
+      "Progressed": 653,
       "Completed": 4
     }
   ],
@@ -2532,8 +2537,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-10T08:09:56.3445044+00:00",
+  "LastChanged_Achievements": "2024-01-10T09:09:51.6373802+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2095998+00:00",
-  "LastUpdate_Ratings": "2024-01-10T07:57:36.7180858+00:00",
-  "LastUpdate_Achievements": "2024-01-10T08:09:56.3445366+00:00"
+  "LastUpdate_Ratings": "2024-01-10T08:57:32.2016408+00:00",
+  "LastUpdate_Achievements": "2024-01-10T09:09:51.6374161+00:00"
 }

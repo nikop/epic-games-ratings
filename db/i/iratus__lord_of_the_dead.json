@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -2485,9 +2485,9 @@
       "Count": 105
     }
   ],
-  "EOS_Progressed": 49063,
+  "EOS_Progressed": 49064,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 540,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -31300,6 +31300,11 @@
       "Time": "2024-01-10T08:04:27.0385274+00:00",
       "NumProgressed": 49063,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2024-01-10T09:04:44.7820777+00:00",
+      "NumProgressed": 49064,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 75,
@@ -31319,7 +31324,7 @@
       "Name": "Unholy Bones",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 11284
+      "UsersEstimate": 11285
     },
     {
       "ID": "achievements_11",
@@ -31335,7 +31340,7 @@
       "Name": "Blood Elemental",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 11284
+      "UsersEstimate": 11285
     },
     {
       "ID": "achievements_13",
@@ -31423,7 +31428,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 26494
+      "UsersEstimate": 26495
     },
     {
       "ID": "achievements_25",
@@ -31455,7 +31460,7 @@
       "Name": "Mountain King - III",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 7359
+      "UsersEstimate": 7360
     },
     {
       "ID": "achievements_29",
@@ -31495,7 +31500,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 16681
+      "UsersEstimate": 16682
     },
     {
       "ID": "achievements_33",
@@ -31503,7 +31508,7 @@
       "Name": "Cannon Fodder - II",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 14228
+      "UsersEstimate": 14229
     },
     {
       "ID": "achievements_34",
@@ -31559,7 +31564,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 31891
+      "UsersEstimate": 31892
     },
     {
       "ID": "achievements_40",
@@ -31599,7 +31604,7 @@
       "Name": "Rare Warrior",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 7359
+      "UsersEstimate": 7360
     },
     {
       "ID": "achievements_45",
@@ -31663,7 +31668,7 @@
       "Name": "Prepared Necromancer",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 19625
+      "UsersEstimate": 19626
     },
     {
       "ID": "achievements_52",
@@ -31671,7 +31676,7 @@
       "Name": "Transmutation",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 20606
+      "UsersEstimate": 20607
     },
     {
       "ID": "achievements_53",
@@ -31687,7 +31692,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 21097
+      "UsersEstimate": 21098
     },
     {
       "ID": "achievements_55",
@@ -31735,7 +31740,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 16681
+      "UsersEstimate": 16682
     },
     {
       "ID": "achievements_61",
@@ -31751,7 +31756,7 @@
       "Name": "Revealed Secrets - I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 12756
+      "UsersEstimate": 12757
     },
     {
       "ID": "achievements_63",
@@ -31887,7 +31892,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 35816
+      "UsersEstimate": 35817
     },
     {
       "ID": "achievements_8",
@@ -31895,7 +31900,7 @@
       "Name": "Shadow Between Worlds",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 14228
+      "UsersEstimate": 14229
     },
     {
       "ID": "achievements_9",
@@ -31910,15 +31915,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 49063,
+      "Progressed": 49064,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2024-01-10T01:47:37.1501645+00:00",
-  "LastChanged_Achievements": "2024-01-10T08:04:27.0385272+00:00",
+  "LastChanged_Achievements": "2024-01-10T09:04:44.782077+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:56:54.8003491+00:00",
-  "LastUpdate_Ratings": "2024-01-10T07:59:26.2647279+00:00",
-  "LastUpdate_Achievements": "2024-01-10T08:04:27.0386811+00:00"
+  "LastUpdate_Ratings": "2024-01-10T08:59:25.7634272+00:00",
+  "LastUpdate_Achievements": "2024-01-10T09:04:44.782305+00:00"
 }

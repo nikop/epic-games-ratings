@@ -4,7 +4,7 @@
   "ProductSlug": "choice-clash-what-would-you-rather-b75cac",
   "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2024-01-05T19:00:00+00:00",
@@ -410,8 +410,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-28T04:04:09.7511505+00:00",
-  "LastChanged_Achievements": "2024-01-10T08:05:54.5342387+00:00",
+  "LastChanged_Achievements": "2024-01-10T09:06:15.9845148+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.4558901+00:00",
-  "LastUpdate_Ratings": "2024-01-10T08:01:14.8733103+00:00",
-  "LastUpdate_Achievements": "2024-01-10T08:05:54.5342529+00:00"
+  "LastUpdate_Ratings": "2024-01-10T09:01:16.0743263+00:00",
+  "LastUpdate_Achievements": "2024-01-10T09:06:15.9845303+00:00"
 }

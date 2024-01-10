@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1719,9 +1719,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 247491,
+  "EOS_Progressed": 247493,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1194,
+  "EOS_NewPlayers": 1190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25639,6 +25639,11 @@
       "Time": "2024-01-10T08:10:55.1956955+00:00",
       "NumProgressed": 247491,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-10T09:10:54.1999505+00:00",
+      "NumProgressed": 247493,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -26082,7 +26087,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14849
+      "UsersEstimate": 14850
     },
     {
       "ID": "ElfEpic",
@@ -26298,7 +26303,7 @@
       "Name": "Speedrun",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14849
+      "UsersEstimate": 14850
     },
     {
       "ID": "SupportCount4",
@@ -26353,21 +26358,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 247491,
+      "Progressed": 247493,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 247491,
+      "Progressed": 247493,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-09T20:59:37.5250632+00:00",
-  "LastChanged_Achievements": "2024-01-10T08:10:55.1956952+00:00",
+  "LastChanged_Achievements": "2024-01-10T09:10:54.19995+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8090113+00:00",
-  "LastUpdate_Ratings": "2024-01-10T08:01:10.0219552+00:00",
-  "LastUpdate_Achievements": "2024-01-10T08:10:55.1959602+00:00"
+  "LastUpdate_Ratings": "2024-01-10T09:01:12.6124896+00:00",
+  "LastUpdate_Achievements": "2024-01-10T09:10:54.200119+00:00"
 }

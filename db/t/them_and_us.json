@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -1837,9 +1837,9 @@
       "ID": "ETUA_BackInTime",
       "SetID": "65jc0ap",
       "Name": "Back In Time",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "ETUA_BeforeTheEclipse",
@@ -2037,9 +2037,9 @@
       "ID": "ETUA_The5thElement",
       "SetID": "65jc0ap",
       "Name": "The 5th Element",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "ETUA_TheBusStop",
@@ -2093,9 +2093,9 @@
       "ID": "ETUA_Thiswillbealongnight",
       "SetID": "65jc0ap",
       "Name": "A Night To Remember",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 160
     },
     {
       "ID": "ETUA_Trapped",
@@ -2134,8 +2134,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2024-01-10T08:09:04.2853195+00:00",
+  "LastChanged_Achievements": "2024-01-10T09:08:59.1258833+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:36.5425929+00:00",
-  "LastUpdate_Ratings": "2024-01-10T07:58:19.8344734+00:00",
-  "LastUpdate_Achievements": "2024-01-10T08:09:04.2853637+00:00"
+  "LastUpdate_Ratings": "2024-01-10T08:58:18.0803951+00:00",
+  "LastUpdate_Achievements": "2024-01-10T09:08:59.125916+00:00"
 }

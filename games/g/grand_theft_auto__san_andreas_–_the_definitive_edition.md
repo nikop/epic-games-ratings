@@ -5,23 +5,23 @@ Rating: 4.55 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,559 |
-| Pay 'n' Spray | 50.00% | ~9,604 |
-| All Dressed Up for San Fierro | 25.00% | ~4,802 |
-| The American Dream | 19.00% | ~3,650 |
-| School's Out | 18.00% | ~3,458 |
+| Getting Started | 81.00% | ~15,563 |
+| Pay 'n' Spray | 50.00% | ~9,607 |
+| All Dressed Up for San Fierro | 25.00% | ~4,804 |
+| The American Dream | 19.00% | ~3,651 |
+| School's Out | 18.00% | ~3,459 |
 | Smooth Moves | 17.00% | ~3,266 |
-| What happens in Las Venturas... | 14.00% | ~2,689 |
-| Today Was a Good Day | 14.00% | ~2,689 |
+| What happens in Las Venturas... | 14.00% | ~2,690 |
+| Today Was a Good Day | 14.00% | ~2,690 |
 | Horror of the Santa Maria | 10.00% | ~1,921 |
 | Liberty City State of Mind | 9.00% | ~1,729 |
 | Original Gangster | 8.00% | ~1,537 |
 | With Extra Dip | 7.00% | ~1,345 |
 | The End of the Line | 7.00% | ~1,345 |
 | Saviour | 6.00% | ~1,153 |
-| Rescue a Kitten Too? | 5.00% | ~960 |
-| They Can’t Stop All of Us | 4.00% | ~768 |
-| What are the Odds | 4.00% | ~768 |
+| They Can’t Stop All of Us | 5.00% | ~961 |
+| Rescue a Kitten Too? | 5.00% | ~961 |
+| What are the Odds | 4.00% | ~769 |
 | Bike or Biker | 3.00% | ~576 |
 | What the City Needs | 3.00% | ~576 |
 | A Legitimate Business | 2.00% | ~384 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 528)
 | ...Here we go again | 0.50% | ~96 |
 | I Ain't No Buster | 0.40% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,209 (Ranked 157)  
+Progressed: 19,214 (Ranked 157)  
 Completed: 75 (0.39%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,18 +306,18 @@ Completed: 75 (0.39%) (Ranked 238)
 | 2024-01-07 | 18,889 | 75 |
 | 2024-01-08 | 19,021 | 75 |
 | 2024-01-09 | 19,164 | 75 |
-| 2024-01-10 | 19,209 | 75 |
+| 2024-01-10 | 19,214 | 75 |
 ## Awards
 Max (Great Boss Battles): 638  (Ranked 201)  
-Sum: 1,016 (Ranked 274)  
-Diff (max vs sum): -73  
+Sum: 1,017 (Ranked 273)  
+Diff (max vs sum): -72  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 638 |
 | This game has Amazing Characters | 57 |
 | This game is Relaxing | 53 |
 | This game has Amazing Storytelling | 52 |
-| This game is Great for Beginners | 50 |
+| This game is Great for Beginners | 51 |
 | This game is Highly Recommended | 49 |
 | This game has Diverse Characters | 42 |
 | This game is Extremely Fun | 38 |
@@ -552,3 +552,4 @@ Diff (max vs sum): -73
 | 2024-01-07 | 4.55 | 54 | 363 |
 | 2024-01-08 | 4.55 | 633 | 1,004 |
 | 2024-01-09 | 4.55 | 638 | 1,016 |
+| 2024-01-10 | 4.55 | 638 | 1,017 |

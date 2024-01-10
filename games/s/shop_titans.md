@@ -8,11 +8,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 11.00% | ~16,559 |
 | Titan's First Steps | 11.00% | ~16,559 |
-| Basic in Bulk | 10.00% | ~15,053 |
+| Basic in Bulk | 10.00% | ~15,054 |
 | Tinkle of Coins | 9.00% | ~13,548 |
-| Disintermediation | 7.00% | ~10,537 |
-| It's Free Real Estate | 7.00% | ~10,537 |
-| Capitalism Ho! | 7.00% | ~10,537 |
+| Disintermediation | 7.00% | ~10,538 |
+| It's Free Real Estate | 7.00% | ~10,538 |
+| Capitalism Ho! | 7.00% | ~10,538 |
 | One Easy Payment | 6.00% | ~9,032 |
 | Some Assembly Required | 6.00% | ~9,032 |
 | Another Satisfied Customer | 6.00% | ~9,032 |
@@ -21,15 +21,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Pretty Penny | 5.00% | ~7,527 |
 | One-Armed Bandit | 5.00% | ~7,527 |
 | Through Repetition, Perfection | 5.00% | ~7,527 |
-| The Daily Grind | 4.00% | ~6,021 |
-| Bounty Hunters | 4.00% | ~6,021 |
-| Demand for Supplies | 4.00% | ~6,021 |
-| Flooding the Market | 4.00% | ~6,021 |
-| Where it Hurts | 4.00% | ~6,021 |
-| Gild-Gotten Goods | 4.00% | ~6,021 |
-| Dungeon Imports | 4.00% | ~6,021 |
-| Did we pack lunch? | 4.00% | ~6,021 |
-| Arcane Industries | 4.00% | ~6,021 |
+| The Daily Grind | 4.00% | ~6,022 |
+| Bounty Hunters | 4.00% | ~6,022 |
+| Demand for Supplies | 4.00% | ~6,022 |
+| Flooding the Market | 4.00% | ~6,022 |
+| Where it Hurts | 4.00% | ~6,022 |
+| Gild-Gotten Goods | 4.00% | ~6,022 |
+| Dungeon Imports | 4.00% | ~6,022 |
+| Did we pack lunch? | 4.00% | ~6,022 |
+| Arcane Industries | 4.00% | ~6,022 |
 | On the Path to Greatness | 3.00% | ~4,516 |
 | Ascended | 3.00% | ~4,516 |
 | Tax not Included | 3.00% | ~4,516 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~602 |
 | Capitalist Camaraderie | 0.30% | ~452 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,534 (Ranked 86)  
+Progressed: 150,538 (Ranked 86)  
 Completed: 345 (0.23%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -384,7 +384,7 @@ Completed: 345 (0.23%) (Ranked 269)
 | 2024-01-07 | 150,192 | 345 |
 | 2024-01-08 | 150,343 | 345 |
 | 2024-01-09 | 150,487 | 345 |
-| 2024-01-10 | 150,534 | 345 |
+| 2024-01-10 | 150,538 | 345 |
 ## Awards
 Max (Great for Beginners): 4,949  (Ranked 78)  
 Sum: 27,969 (Ranked 52)  

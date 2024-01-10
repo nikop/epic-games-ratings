@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
     "PcReleaseDate": "2021-06-10T11:05:23+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 949,
+  "EOS_Progressed": 950,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -864,6 +864,11 @@
       "Time": "2024-01-10T08:08:16.9173583+00:00",
       "NumProgressed": 949,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T09:08:10.7052492+00:00",
+      "NumProgressed": 950,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -963,7 +968,7 @@
       "Name": "Duet Desert",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "20",
@@ -971,7 +976,7 @@
       "Name": "Tempo",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "21",
@@ -1091,14 +1096,14 @@
       "Name": "Cadence",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     }
   ],
   "AchievementSets": [
     {
       "ID": "7l2nmpm",
       "IsBase": true,
-      "Progressed": 949,
+      "Progressed": 950,
       "Completed": 0
     }
   ],
@@ -1106,8 +1111,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2024-01-10T08:08:16.917358+00:00",
+  "LastChanged_Achievements": "2024-01-10T09:08:10.7052487+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:08.3557849+00:00",
-  "LastUpdate_Ratings": "2024-01-10T08:01:32.5974838+00:00",
-  "LastUpdate_Achievements": "2024-01-10T08:08:16.9173821+00:00"
+  "LastUpdate_Ratings": "2024-01-10T09:01:33.8136853+00:00",
+  "LastUpdate_Achievements": "2024-01-10T09:08:10.7052703+00:00"
 }

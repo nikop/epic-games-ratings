@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1504,
+  "EOS_Progressed": 1505,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.46,
   "EosHistory": [
@@ -5181,6 +5181,11 @@
       "Time": "2024-01-10T05:06:09.236043+00:00",
       "NumProgressed": 1504,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-10T09:07:42.8809667+00:00",
+      "NumProgressed": 1505,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5217,7 +5222,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "_05_FinishAct2",
@@ -5225,7 +5230,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -5249,7 +5254,7 @@
       "Name": "Swabbie",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "_09_Completion_20",
@@ -5321,7 +5326,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -5353,7 +5358,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -5377,7 +5382,7 @@
       "Name": "Jaded Judge",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -5385,7 +5390,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -5400,7 +5405,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1504,
+      "Progressed": 1505,
       "Completed": 37
     }
   ],
@@ -5408,8 +5413,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-09T20:59:58.0673284+00:00",
-  "LastChanged_Achievements": "2024-01-10T08:07:19.4395097+00:00",
+  "LastChanged_Achievements": "2024-01-10T09:07:42.8809662+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.9098347+00:00",
-  "LastUpdate_Ratings": "2024-01-10T08:01:42.0389765+00:00",
-  "LastUpdate_Achievements": "2024-01-10T08:07:19.4395686+00:00"
+  "LastUpdate_Ratings": "2024-01-10T09:01:43.92486+00:00",
+  "LastUpdate_Achievements": "2024-01-10T09:07:42.8810097+00:00"
 }

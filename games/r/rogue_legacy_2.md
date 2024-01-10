@@ -6,15 +6,15 @@ Number of Ratings: 1,331  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spells and Swords | 6.00% | ~1,687 |
+| Spells and Swords | 6.00% | ~1,688 |
 | Captain and Crew | 5.00% | ~1,406 |
 | No Harm in Looking | 5.00% | ~1,406 |
 | Harvest and Home | 3.00% | ~844 |
 | Poise and Poisons | 3.00% | ~844 |
-| Hands and Hammers | 2.00% | ~562 |
-| King and Kin | 2.00% | ~562 |
-| Progenitor and Protégé | 2.00% | ~562 |
-| Suns and Soldiers | 2.00% | ~562 |
+| Hands and Hammers | 2.00% | ~563 |
+| King and Kin | 2.00% | ~563 |
+| Progenitor and Protégé | 2.00% | ~563 |
+| Suns and Soldiers | 2.00% | ~563 |
 | For Glory | 1.00% | ~281 |
 | Prequel to the Sequel | 1.00% | ~281 |
 | Truly Blessed | 0.70% | ~197 |
@@ -23,10 +23,10 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Justice | 0.60% | ~169 |
 | Good Boy! | 0.60% | ~169 |
 | For Survival | 0.50% | ~141 |
-| For Love | 0.40% | ~112 |
-| K.O. | 0.40% | ~112 |
-| Just the Beginning | 0.40% | ~112 |
-| Jack of all Trades | 0.40% | ~112 |
+| For Love | 0.40% | ~113 |
+| K.O. | 0.40% | ~113 |
+| Just the Beginning | 0.40% | ~113 |
+| Jack of all Trades | 0.40% | ~113 |
 | For Wrath | 0.30% | ~84 |
 | For Pride | 0.30% | ~84 |
 | Wasted Betrayal | 0.30% | ~84 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,122 (Ranked 144)  
+Progressed: 28,127 (Ranked 144)  
 Completed: 35 (0.12%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 35 (0.12%) (Ranked 301)
 | 2024-01-07 | 27,951 | 35 |
 | 2024-01-08 | 28,025 | 35 |
 | 2024-01-09 | 28,095 | 35 |
-| 2024-01-10 | 28,122 | 35 |
+| 2024-01-10 | 28,127 | 35 |
 ## Awards
 Max (Extremely Fun): 227  (Ranked 290)  
 Sum: 1,723 (Ranked 229)  

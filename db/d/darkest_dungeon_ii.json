@@ -10716,9 +10716,9 @@
       "Count": 1088
     }
   ],
-  "EOS_Progressed": 132343,
+  "EOS_Progressed": 132345,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 929,
+  "EOS_NewPlayers": 928,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39191,6 +39191,11 @@
       "Time": "2024-01-10T08:10:29.3398383+00:00",
       "NumProgressed": 132343,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-10T09:10:26.8967638+00:00",
+      "NumProgressed": 132345,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39304,9 +39309,9 @@
       "ID": "altar_of_hope_upgrade_total_quarter",
       "SetID": "64l4lke",
       "Name": "Hope Rekindled",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2647
+      "UsersEstimate": 3970
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -39810,7 +39815,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -39833,21 +39838,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132343,
+      "Progressed": 132345,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7212,
+      "Progressed": 7214,
       "Completed": 823
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-10T07:59:48.2790961+00:00",
-  "LastChanged_Achievements": "2024-01-10T08:10:29.3398379+00:00",
+  "LastChanged_Achievements": "2024-01-10T09:10:26.8967634+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-10T07:59:48.2790967+00:00",
-  "LastUpdate_Achievements": "2024-01-10T08:10:29.340021+00:00"
+  "LastUpdate_Ratings": "2024-01-10T08:59:47.6300802+00:00",
+  "LastUpdate_Achievements": "2024-01-10T09:10:26.8969433+00:00"
 }

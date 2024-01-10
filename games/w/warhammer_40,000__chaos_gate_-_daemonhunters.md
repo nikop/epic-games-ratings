@@ -6,11 +6,11 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 20.00% | ~773 |
+| Executioner | 20.00% | ~774 |
 | Look Over There! | 15.00% | ~580 |
 | Watch Where You Step... | 15.00% | ~580 |
-| Not So Fast... | 14.00% | ~541 |
-| An Ill Omen | 14.00% | ~541 |
+| Not So Fast... | 14.00% | ~542 |
+| An Ill Omen | 14.00% | ~542 |
 | Purging Spree | 10.00% | ~387 |
 | Blood for the Blood God! | 9.00% | ~348 |
 | Bloodless | 7.00% | ~271 |
@@ -43,8 +43,8 @@ Number of Ratings: 371  (23.09.2022)
 | Engine Kill | 0.90% | ~35 |
 | Death Comes For All | 0.90% | ~35 |
 | Harvest No More | 0.80% | ~31 |
-| True Mastery | 0.80% | ~31 |
 | Hands-On Research | 0.70% | ~27 |
+| True Mastery | 0.70% | ~27 |
 | Strike Force | 0.60% | ~23 |
 | Exercise in Restraint | 0.60% | ~23 |
 | Reign of Confusion | 0.50% | ~19 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,866 (Ranked 218)  
+Progressed: 3,868 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 3,834 | 0 |
 | 2024-01-08 | 3,845 | 0 |
 | 2024-01-09 | 3,864 | 0 |
-| 2024-01-10 | 3,866 | 0 |
+| 2024-01-10 | 3,868 | 0 |
 ## Awards
 Max (Character Customization): 233  (Ranked 286)  
 Sum: 500 (Ranked 335)  

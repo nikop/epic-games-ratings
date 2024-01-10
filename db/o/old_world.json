@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2238,9 +2238,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16335,
+  "EOS_Progressed": 16337,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19468,6 +19468,11 @@
       "Time": "2024-01-10T06:11:24.9696685+00:00",
       "NumProgressed": 16335,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-10T09:10:58.3108952+00:00",
+      "NumProgressed": 16337,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19525,9 +19530,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_ANOTHER_LEADER",
       "SetID": "9201eeb",
       "Name": "Regicide",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
@@ -22342,21 +22347,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16335,
+      "Progressed": 16337,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16335,
+      "Progressed": 16337,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-09T22:57:23.2402519+00:00",
-  "LastChanged_Achievements": "2024-01-10T08:10:59.0618864+00:00",
+  "LastChanged_Achievements": "2024-01-10T09:10:58.3108948+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-10T07:57:39.6649344+00:00",
-  "LastUpdate_Achievements": "2024-01-10T08:10:59.0628974+00:00"
+  "LastUpdate_Ratings": "2024-01-10T08:57:35.4453817+00:00",
+  "LastUpdate_Achievements": "2024-01-10T09:10:58.3119559+00:00"
 }

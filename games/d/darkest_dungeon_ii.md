@@ -33,7 +33,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ramble On | 4.00% | ~5,294 |
 | Whale | 4.00% | ~5,294 |
 | Nope | 4.00% | ~5,294 |
-| Friends 'Til the End | 4.00% | ~288 |
+| Friends 'Til the End | 4.00% | ~289 |
 | Resurrection | 3.00% | ~3,970 |
 | Unleash Hell | 3.00% | ~3,970 |
 | Funny Guy | 3.00% | ~3,970 |
@@ -41,6 +41,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Wyrdly Reconstructed | 3.00% | ~3,970 |
 | Boxcar Kid | 3.00% | ~3,970 |
 | Unfulfilled Desires | 3.00% | ~3,970 |
+| Hope Rekindled | 3.00% | ~3,970 |
 | Predator | 3.00% | ~3,970 |
 | Dissector | 3.00% | ~3,970 |
 | Banishment | 3.00% | ~3,970 |
@@ -53,7 +54,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Unshackled | 3.00% | ~3,970 |
 | Road Trip | 3.00% | ~3,970 |
 | This Looks Familiar | 2.00% | ~2,647 |
-| Hope Rekindled | 2.00% | ~2,647 |
 | Ichthyophobic | 2.00% | ~2,647 |
 | No More Mouths to Feed | 2.00% | ~2,647 |
 | Worldly Traveller | 2.00% | ~2,647 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,343 (Ranked 91)  
+Progressed: 132,345 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 4 (0.00%) (Ranked 395)
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
 | 2024-01-09 | 132,315 | 3 |
-| 2024-01-10 | 132,343 | 4 |
+| 2024-01-10 | 132,345 | 4 |
 ## Awards
 Max (Character Customization): 8,000  (Ranked 50)  
 Sum: 21,576 (Ranked 58)  

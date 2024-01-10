@@ -302,7 +302,7 @@
   ],
   "EOS_Progressed": 393,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1869,9 +1869,9 @@
       "ID": "ACH_COMPLETE_ALL_OJ",
       "SetID": "4n84pon",
       "Name": "Against All Odds",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_COMPLETE_ARK01",
@@ -2045,9 +2045,9 @@
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
       "SetID": "4n84pon",
       "Name": "The Optional Mandate",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_OPEN_FLUFF_MENU",
@@ -2166,8 +2166,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-09T11:57:56.5976676+00:00",
-  "LastChanged_Achievements": "2024-01-10T08:09:47.3769709+00:00",
+  "LastChanged_Achievements": "2024-01-10T09:09:42.4370293+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-10T07:58:42.4842167+00:00",
-  "LastUpdate_Achievements": "2024-01-10T08:09:47.3770186+00:00"
+  "LastUpdate_Ratings": "2024-01-10T08:58:40.3447484+00:00",
+  "LastUpdate_Achievements": "2024-01-10T09:09:42.437067+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 395,
   "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1424,
+  "EOS_Progressed": 1425,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3769,6 +3769,11 @@
       "Time": "2024-01-10T01:59:09.6179814+00:00",
       "NumProgressed": 1424,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T09:10:54.3787471+00:00",
+      "NumProgressed": 1425,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3780,7 +3785,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3818,9 +3823,9 @@
       "ID": "ATK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beware of the Goat",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 641
+      "UsersEstimate": 627
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3828,7 +3833,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -3908,7 +3913,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -3916,7 +3921,7 @@
       "Name": "He\u0027s Getting Crazier",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "BURN_ACHIEVEMENT_4",
@@ -4092,7 +4097,7 @@
       "Name": "Do This In Silence",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_1",
@@ -4100,7 +4105,7 @@
       "Name": "And There We Go",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -4170,9 +4175,9 @@
       "ID": "MEAT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Night Snack",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 413
+      "UsersEstimate": 399
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -4202,17 +4207,17 @@
       "ID": "NOTE_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Buy A Book",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 228
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Last of Us",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 470
+      "UsersEstimate": 456
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -4228,7 +4233,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -4307,14 +4312,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1424,
+      "Progressed": 1425,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-10T08:10:55.5328926+00:00",
+  "LastChanged_Achievements": "2024-01-10T09:10:54.3787466+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:08.8169923+00:00",
-  "LastUpdate_Ratings": "2024-01-10T08:00:45.8137018+00:00",
-  "LastUpdate_Achievements": "2024-01-10T08:10:55.5329749+00:00"
+  "LastUpdate_Ratings": "2024-01-10T09:00:46.9966599+00:00",
+  "LastUpdate_Achievements": "2024-01-10T09:10:54.3788152+00:00"
 }

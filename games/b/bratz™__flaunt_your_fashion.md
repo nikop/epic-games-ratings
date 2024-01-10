@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Stilesville | 96.00% | ~154 |
+| Welcome to Stilesville | 97.00% | ~155 |
 | Talented Performer | 57.00% | ~91 |
 | Welcome to Barcelona | 56.00% | ~90 |
 | We will need a bigger wardrobe | 41.00% | ~66 |

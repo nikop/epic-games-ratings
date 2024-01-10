@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Introduction completed | 76.00% | ~32 |
-| Chapter 1 | 43.00% | ~18 |
+| Introduction completed | 74.00% | ~32 |
+| Chapter 1 | 42.00% | ~18 |
 | Chapter 2 | 40.00% | ~17 |
 | It's In My Nature | 40.00% | ~17 |
-| Chapter 3 | 38.00% | ~16 |
+| Chapter 3 | 37.00% | ~16 |
 | Chapter 4 | 33.00% | ~14 |
 | Your Days Are Numbered | 33.00% | ~14 |
-| Chapter 5 | 31.00% | ~13 |
-| All Materials | 31.00% | ~13 |
-| Chapter 6 | 24.00% | ~10 |
-| Best Student | 17.00% | ~7 |
+| Chapter 5 | 30.00% | ~13 |
+| All Materials | 30.00% | ~13 |
+| Chapter 6 | 23.00% | ~10 |
+| Best Student | 16.00% | ~7 |
 | Food Thief | 14.00% | ~6 |
 | Ads Fan | 12.00% | ~5 |
 | Hard To Wake Up | 12.00% | ~5 |
-| Highway Survival | 10.00% | ~4 |
-| Sugar Pills Lover | 10.00% | ~4 |
-| Tramp Saver | 10.00% | ~4 |
+| Highway Survival | 9.00% | ~4 |
+| Sugar Pills Lover | 9.00% | ~4 |
+| Tramp Saver | 9.00% | ~4 |
 | Chipmunk | 7.00% | ~3 |
 | Secret Locker | 7.00% | ~3 |
 | Paw Music | 7.00% | ~3 |
@@ -34,7 +34,7 @@
 | The World Is My Doormat | 0.00% | ~0 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42 (Ranked 572)  
+Progressed: 43 (Ranked 572)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,6 +70,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-04 | 40 | 0 |
 | 2024-01-06 | 41 | 0 |
 | 2024-01-07 | 42 | 0 |
+| 2024-01-10 | 43 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

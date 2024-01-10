@@ -311,9 +311,9 @@
       "Count": 116
     }
   ],
-  "EOS_Progressed": 10914,
+  "EOS_Progressed": 10920,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1160,
+  "EOS_NewPlayers": 1164,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4336,6 +4336,11 @@
       "Time": "2024-01-10T08:10:44.3217375+00:00",
       "NumProgressed": 10914,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T09:10:42.4414906+00:00",
+      "NumProgressed": 10920,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4348,7 +4353,7 @@
       "Name": "Conspiracy",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "03_TheStolenStar",
@@ -4452,7 +4457,7 @@
       "Name": "Pentakill",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "16_TheRise",
@@ -4484,7 +4489,7 @@
       "Name": "Void Wolf",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -4508,7 +4513,7 @@
       "Name": "Perfect Timing",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "23_DynastyRestored",
@@ -4556,7 +4561,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -4572,7 +4577,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "31_DontTouchThis",
@@ -4596,7 +4601,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -4604,7 +4609,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -4660,7 +4665,7 @@
       "Name": "Jungle Heat",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "42_TheIronJudgement",
@@ -4668,7 +4673,7 @@
       "Name": "Iron Judgement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -4708,7 +4713,7 @@
       "Name": "A Flame",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "48_TheUnexpectedCompany",
@@ -4812,7 +4817,7 @@
       "Name": "The Not-So-Bottomless Pit",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "61_TheScourge",
@@ -4867,7 +4872,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10914,
+      "Progressed": 10920,
       "Completed": 1
     }
   ],
@@ -4875,8 +4880,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-09T16:59:10.7700574+00:00",
-  "LastChanged_Achievements": "2024-01-10T08:10:44.3217372+00:00",
+  "LastChanged_Achievements": "2024-01-10T09:10:42.4414902+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-10T07:59:26.0096077+00:00",
-  "LastUpdate_Achievements": "2024-01-10T08:10:44.3218005+00:00"
+  "LastUpdate_Ratings": "2024-01-10T08:59:25.4067575+00:00",
+  "LastUpdate_Achievements": "2024-01-10T09:10:42.441559+00:00"
 }

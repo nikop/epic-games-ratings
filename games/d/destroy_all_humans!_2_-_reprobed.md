@@ -33,11 +33,11 @@ Number of Ratings: 90  (23.09.2022)
 | Ultimate Smoothie | 5.00% | ~20 |
 | Arkvoodle Doodle | 4.00% | ~16 |
 | Deincarnated | 3.00% | ~12 |
+| Against All Odds | 2.00% | ~8 |
 | Forbidden Donut | 2.00% | ~8 |
+| The Optional Mandate | 2.00% | ~8 |
 | Arty Facts | 1.00% | ~4 |
-| Against All Odds | 1.00% | ~4 |
 | Hidden Human Hive Harvest | 1.00% | ~4 |
-| The Optional Mandate | 1.00% | ~4 |
 | If You Know What I Mean | 1.00% | ~4 |
 | PK Slam Dunk | 0.80% | ~3 |
 | Gotta Catch All the Pop Art | 0.80% | ~3 |

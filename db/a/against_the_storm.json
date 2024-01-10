@@ -3881,9 +3881,9 @@
       "Count": 347
     }
   ],
-  "EOS_Progressed": 20615,
+  "EOS_Progressed": 20621,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 607,
+  "EOS_NewPlayers": 612,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19161,6 +19161,11 @@
       "Time": "2024-01-10T08:05:14.4655282+00:00",
       "NumProgressed": 20615,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-10T09:05:33.7086379+00:00",
+      "NumProgressed": 20621,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19261,7 +19266,7 @@
       "Name": "First Real Expedition",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "WinHard",
@@ -19285,7 +19290,7 @@
       "Name": "Ruined Armory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "WinNearBandit",
@@ -19293,7 +19298,7 @@
       "Name": "Bandit Camp",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "WinNearBarren",
@@ -19309,7 +19314,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "WinNearCrystals",
@@ -19365,7 +19370,7 @@
       "Name": "Levitating Monument",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "WinNearMines",
@@ -19381,7 +19386,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "WinNearOutpost",
@@ -19397,7 +19402,7 @@
       "Name": "Lost Colonies",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "WinNearStatue",
@@ -19405,7 +19410,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "WinNearTemple",
@@ -19421,7 +19426,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "WinNearWatchtower",
@@ -19445,7 +19450,7 @@
       "Name": "Cursed Lands",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "WinOnMarshlands",
@@ -19509,7 +19514,7 @@
       "Name": "Taking Action",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "WinWithResolve",
@@ -19541,7 +19546,7 @@
       "Name": "Trade Baron",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "WinWithoutDeath",
@@ -19549,7 +19554,7 @@
       "Name": "No Deaths",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "WinWithoutOrders",
@@ -19573,7 +19578,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "WinNearFrosts",
@@ -19597,7 +19602,7 @@
       "Name": "Overgrown Library",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     },
     {
       "ID": "WinNearPetrified",
@@ -19605,7 +19610,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "WinNearPresence",
@@ -19629,7 +19634,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "WinWithFoxes",
@@ -19644,15 +19649,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20615,
+      "Progressed": 20621,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-10T04:58:25.2032242+00:00",
-  "LastChanged_Achievements": "2024-01-10T08:05:14.4655278+00:00",
+  "LastChanged_Achievements": "2024-01-10T09:05:33.7086374+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-10T07:58:56.4381719+00:00",
-  "LastUpdate_Achievements": "2024-01-10T08:05:14.4656599+00:00"
+  "LastUpdate_Ratings": "2024-01-10T08:58:55.039507+00:00",
+  "LastUpdate_Achievements": "2024-01-10T09:05:33.7087905+00:00"
 }

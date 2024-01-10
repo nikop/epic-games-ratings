@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -85,9 +85,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2167,
+  "EOS_Progressed": 2169,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 463,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4135,6 +4135,11 @@
       "Time": "2024-01-10T08:10:47.5851445+00:00",
       "NumProgressed": 2167,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-10T09:10:45.753105+00:00",
+      "NumProgressed": 2169,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4146,7 +4151,7 @@
       "Name": "Break Out",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "ACH_02",
@@ -4154,7 +4159,7 @@
       "Name": "Find Allies",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ACH_03",
@@ -4178,7 +4183,7 @@
       "Name": "To Battle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_06",
@@ -4250,7 +4255,7 @@
       "Name": "Airborne",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACH_15",
@@ -4258,15 +4263,15 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 282
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_17",
@@ -4282,7 +4287,7 @@
       "Name": "Shatter Them All",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACH_19",
@@ -4322,7 +4327,7 @@
       "Name": "Geared Up",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACH_24",
@@ -4362,7 +4367,7 @@
       "Name": "I Found It",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACH_29",
@@ -4386,7 +4391,7 @@
       "Name": "Stone Collection",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACH_33",
@@ -4433,7 +4438,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2167,
+      "Progressed": 2169,
       "Completed": 3
     }
   ],
@@ -4441,8 +4446,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-09T14:59:34.4882092+00:00",
-  "LastChanged_Achievements": "2024-01-10T08:10:47.5851443+00:00",
+  "LastChanged_Achievements": "2024-01-10T09:10:45.7531047+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-10T08:01:22.890359+00:00",
-  "LastUpdate_Achievements": "2024-01-10T08:10:47.5852019+00:00"
+  "LastUpdate_Ratings": "2024-01-10T09:01:24.0344656+00:00",
+  "LastUpdate_Achievements": "2024-01-10T09:10:45.7531536+00:00"
 }

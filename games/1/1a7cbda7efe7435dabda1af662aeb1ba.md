@@ -8,8 +8,8 @@
 | Overcoming Weakness | 31.00% | ~15 |
 | Boulder Breaker | 27.00% | ~13 |
 | Fence-Sitter | 12.00% | ~6 |
+| Green Thumb | 10.00% | ~5 |
 | Setting Off | 10.00% | ~5 |
-| Green Thumb | 8.00% | ~4 |
 | Crystal Hunter | 6.00% | ~3 |
 | Bye-Bye, Butcher | 6.00% | ~3 |
 | Rejected Parasite | 4.00% | ~2 |

@@ -6,28 +6,28 @@ Rating: 4.55 (Ranked 528)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,829 |
-| Keep 'Em Coming | 64.00% | ~4,013 |
+| Keep 'Em Coming | 64.00% | ~4,014 |
 | Snatched Out | 63.00% | ~3,951 |
-| Cleaning Lethe, One Nest At A Time | 57.00% | ~3,574 |
+| Cleaning Lethe, One Nest At A Time | 57.00% | ~3,575 |
 | Call Me Snake | 53.00% | ~3,324 |
 | Something Lurks Under The Hills | 52.00% | ~3,261 |
 | This Was No Papercut | 50.00% | ~3,136 |
-| People Person | 47.00% | ~2,947 |
-| The Shrink Hates Me | 47.00% | ~2,947 |
-| Use The Bumper, That's What It's For | 44.00% | ~2,759 |
-| First Steps Into Madness | 44.00% | ~2,759 |
+| People Person | 47.00% | ~2,948 |
+| The Shrink Hates Me | 47.00% | ~2,948 |
+| Use The Bumper, That's What It's For | 44.00% | ~2,760 |
+| First Steps Into Madness | 44.00% | ~2,760 |
 | Colonial Barrels | 42.00% | ~2,634 |
 | Harper's Hell | 38.00% | ~2,383 |
 | Making a Stand | 36.00% | ~2,258 |
 | Damn Dude, You Gotta Lose Some Weight! | 35.00% | ~2,195 |
-| Where It All Begun | 33.00% | ~2,069 |
+| Where It All Begun | 33.00% | ~2,070 |
 | Recouped Investment | 31.00% | ~1,944 |
 | The More The Merrier | 28.00% | ~1,756 |
 | Living Nightmare | 27.00% | ~1,693 |
-| Omelette Du Fromage | 26.00% | ~1,630 |
+| Omelette Du Fromage | 26.00% | ~1,631 |
 | The Darwin Era Was Here | 24.00% | ~1,505 |
-| Deep Into Insanity | 23.00% | ~1,442 |
-| The Passenger | 23.00% | ~1,442 |
+| Deep Into Insanity | 23.00% | ~1,443 |
+| The Passenger | 23.00% | ~1,443 |
 | Come on, You Wanna Live Forever? | 22.00% | ~1,380 |
 | The Spire | 21.00% | ~1,317 |
 | El Riesgo Siempre Vive | 20.00% | ~1,254 |
@@ -37,7 +37,7 @@ Rating: 4.55 (Ranked 528)
 | One For Every Occasion | 17.00% | ~1,066 |
 | Frontliner | 17.00% | ~1,066 |
 | The Cable Guy | 17.00% | ~1,066 |
-| Bandage Lover | 16.00% | ~1,003 |
+| Bandage Lover | 16.00% | ~1,004 |
 | Regicide | 13.00% | ~815 |
 | This Went Smoothly | 11.00% | ~690 |
 | Flawless Victory | 10.00% | ~627 |
@@ -51,7 +51,7 @@ Rating: 4.55 (Ranked 528)
 | Chalk It Up To Experience | 0.70% | ~44 |
 | This Ain't No Picnic | 0.50% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,271 (Ranked 198)  
+Progressed: 6,272 (Ranked 198)  
 Completed: 3 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,14 +249,14 @@ Completed: 3 (0.05%) (Ranked 336)
 | 2024-01-07 | 6,120 | 3 |
 | 2024-01-08 | 6,180 | 3 |
 | 2024-01-09 | 6,254 | 3 |
-| 2024-01-10 | 6,271 | 3 |
+| 2024-01-10 | 6,272 | 3 |
 ## Awards
-Max (Great Boss Battles): 62  (Ranked 431)  
-Sum: 62 (Ranked 497)  
-Diff (max vs sum): -66  
+Max (Great Boss Battles): 63  (Ranked 425)  
+Sum: 63 (Ranked 496)  
+Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 62 |
+| This game has Great Boss Battles | 63 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -339,3 +339,4 @@ Diff (max vs sum): -66
 | 2024-01-04 | 4.54 | 60 | 60 |
 | 2024-01-05 | 4.55 | 60 | 60 |
 | 2024-01-08 | 4.55 | 62 | 62 |
+| 2024-01-10 | 4.55 | 63 | 63 |

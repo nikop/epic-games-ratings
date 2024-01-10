@@ -5883,7 +5883,7 @@
       "Count": 554
     }
   ],
-  "EOS_Progressed": 14022,
+  "EOS_Progressed": 14023,
   "EOS_Completed": 345,
   "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 6,
@@ -24903,6 +24903,11 @@
       "Time": "2024-01-10T08:09:37.2526795+00:00",
       "NumProgressed": 14022,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2024-01-10T09:09:32.1434961+00:00",
+      "NumProgressed": 14023,
+      "NumCompleted": 345
     }
   ],
   "TotalAchievements": 15,
@@ -24922,7 +24927,7 @@
       "Name": "Banker",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 5328
+      "UsersEstimate": 5329
     },
     {
       "ID": "Bestest_Friend",
@@ -24954,7 +24959,7 @@
       "Name": "Constructor",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 7011
+      "UsersEstimate": 7012
     },
     {
       "ID": "Duty_Bound",
@@ -24994,7 +24999,7 @@
       "Name": "Miner",
       "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "Photographer",
@@ -25026,14 +25031,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 8273
+      "UsersEstimate": 8274
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 14022,
+      "Progressed": 14023,
       "Completed": 345
     }
   ],
@@ -25041,8 +25046,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-10T04:00:16.7552933+00:00",
-  "LastChanged_Achievements": "2024-01-10T08:09:37.2526792+00:00",
+  "LastChanged_Achievements": "2024-01-10T09:09:32.1434956+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:11.1438624+00:00",
-  "LastUpdate_Ratings": "2024-01-10T08:00:27.5591196+00:00",
-  "LastUpdate_Achievements": "2024-01-10T08:09:37.2527989+00:00"
+  "LastUpdate_Ratings": "2024-01-10T09:00:28.5628515+00:00",
+  "LastUpdate_Achievements": "2024-01-10T09:09:32.1435965+00:00"
 }
