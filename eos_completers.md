@@ -57,10 +57,10 @@
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.44% |
 | 57 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.19% |
-| 58 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.07% |
+| 58 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.10% |
 | 59 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.04% |
 | 60 | [Sonic Origins](games/s/sonic_origins.md) | 7.00% |
-| 61 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.96% |
+| 61 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.95% |
 | 62 | [Scorn](games/s/scorn.md) | 6.88% |
 | 63 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 6.67% |
 | 64 | [Anna's Quest](games/a/anna's_quest.md) | 6.45% |
@@ -129,7 +129,7 @@
 | 126 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.46% |
 | 128 | [Mega City Force](games/m/mega_city_police.md) | 2.44% |
 | 129 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.43% |
-| 130 | [Destiny 2](games/d/destiny_2.md) | 2.38% |
+| 130 | [Destiny 2](games/d/destiny_2.md) | 2.39% |
 | 131 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.30% |
 | 132 | [Night Book](games/n/night_book.md) | 2.27% |
 | 133 | [Bloodshore](games/b/bloodshore.md) | 2.18% |
@@ -153,10 +153,10 @@
 | 150 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.46% |
 | 152 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.41% |
 | 153 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.33% |
-| 154 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.29% |
 | 154 | [Poosh XL](games/p/poosh_xl.md) | 1.29% |
-| 156 | [Chorus](games/c/chorus.md) | 1.28% |
-| 156 | [Late Shift](games/l/late_shift.md) | 1.28% |
+| 155 | [Chorus](games/c/chorus.md) | 1.28% |
+| 155 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.28% |
+| 155 | [Late Shift](games/l/late_shift.md) | 1.28% |
 | 158 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 1.27% |
 | 159 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.24% |
 | 160 | [Ten Dates](games/t/ten_dates.md) | 1.21% |
@@ -206,8 +206,8 @@
 | 204 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.62% |
 | 205 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.61% |
 | 205 | [Scrapnaut](games/s/scrapnaut.md) | 0.61% |
-| 207 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.59% |
-| 207 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.59% |
+| 207 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.60% |
+| 208 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.59% |
 | 209 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.58% |
 | 210 | [Grindstone](games/g/grindstone.md) | 0.57% |
 | 210 | [Potion Permit](games/p/potion_permit.md) | 0.57% |
@@ -247,11 +247,11 @@
 | 245 | [The Surge](games/t/the_surge.md) | 0.34% |
 | 245 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.34% |
 | 247 | [Remnant 2](games/r/remnant_2.md) | 0.33% |
-| 247 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.33% |
 | 247 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.33% |
-| 250 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
-| 250 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.32% |
-| 250 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.32% |
+| 249 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
+| 249 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.32% |
+| 249 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.32% |
+| 249 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.32% |
 | 253 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.31% |
 | 253 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 253 | [Train Valley](games/t/train_valley.md) | 0.31% |
@@ -821,4 +821,4 @@
 | 395 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 395 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 395 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,815 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,817 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
