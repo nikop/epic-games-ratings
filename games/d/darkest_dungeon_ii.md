@@ -6,9 +6,9 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~936 |
-| Lost and Found | 8.00% | ~576 |
-| Autodidact | 7.00% | ~9,263 |
+| Malpractice Assurance | 13.00% | ~937 |
+| Lost and Found | 8.00% | ~577 |
+| Autodidact | 7.00% | ~9,264 |
 | This guy... again? | 7.00% | ~504 |
 | This Belongs in a Museum | 6.00% | ~7,940 |
 | Creep and Sleep | 6.00% | ~7,940 |
@@ -27,12 +27,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 5.00% | ~6,617 |
 | FNG | 5.00% | ~6,617 |
 | Bloody Graduation | 5.00% | ~360 |
-| Spelunker | 4.00% | ~5,293 |
-| Merry Time | 4.00% | ~5,293 |
-| Harvest Festival | 4.00% | ~5,293 |
-| Ramble On | 4.00% | ~5,293 |
-| Whale | 4.00% | ~5,293 |
-| Nope | 4.00% | ~5,293 |
+| Spelunker | 4.00% | ~5,294 |
+| Merry Time | 4.00% | ~5,294 |
+| Harvest Festival | 4.00% | ~5,294 |
+| Ramble On | 4.00% | ~5,294 |
+| Whale | 4.00% | ~5,294 |
+| Nope | 4.00% | ~5,294 |
 | Friends 'Til the End | 4.00% | ~288 |
 | Resurrection | 3.00% | ~3,970 |
 | Unleash Hell | 3.00% | ~3,970 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,334 (Ranked 91)  
+Progressed: 132,338 (Ranked 91)  
 Completed: 3 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,14 +341,14 @@ Completed: 3 (0.00%) (Ranked 395)
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
 | 2024-01-09 | 132,315 | 3 |
-| 2024-01-10 | 132,334 | 3 |
+| 2024-01-10 | 132,338 | 3 |
 ## Awards
-Max (Character Customization): 7,992  (Ranked 50)  
-Sum: 21,564 (Ranked 58)  
+Max (Character Customization): 8,000  (Ranked 50)  
+Sum: 21,572 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,992 |
+| This game has Inclusive Character Customization | 8,000 |
 | This game has Diverse Characters | 1,839 |
 | This game has Challenging Combat | 1,674 |
 | This game is Highly Recommended | 1,603 |
@@ -710,4 +710,4 @@ Diff (max vs sum): -8
 | 2024-01-07 | 4.68 | - | 7,986 | 21,519 |
 | 2024-01-08 | 4.68 | - | 7,992 | 21,547 |
 | 2024-01-09 | 4.68 | - | 7,992 | 21,561 |
-| 2024-01-10 | 4.68 | - | 7,992 | 21,564 |
+| 2024-01-10 | 4.68 | - | 8,000 | 21,572 |

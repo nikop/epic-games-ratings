@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 89.00% | ~119 |
-| Enough rooms to swing a cat | 78.00% | ~105 |
-| First to the post | 78.00% | ~105 |
-| A kind of Magic | 69.00% | ~92 |
-| Connected | 60.00% | ~80 |
-| Expansion | 57.00% | ~76 |
-| Mine! | 53.00% | ~71 |
+| Home Sweet Home | 88.00% | ~119 |
+| Enough rooms to swing a cat | 77.00% | ~104 |
+| First to the post | 77.00% | ~104 |
+| A kind of Magic | 68.00% | ~92 |
+| Connected | 60.00% | ~81 |
+| Expansion | 56.00% | ~76 |
+| Mine! | 53.00% | ~72 |
 | Harvest Time | 52.00% | ~70 |
 | Artificer's Apprentice | 44.00% | ~59 |
-| Fly the friendly Sky | 43.00% | ~58 |
+| Fly the friendly Sky | 42.00% | ~57 |
 | Get out of here! | 41.00% | ~55 |
-| Necromancer's Apprentice | 37.00% | ~50 |
-| Alchemist's Apprentice | 36.00% | ~48 |
+| Alchemist's Apprentice | 36.00% | ~49 |
+| Necromancer's Apprentice | 36.00% | ~49 |
 | Friend of Lyraine | 34.00% | ~46 |
-| Redecorating | 31.00% | ~42 |
-| The Circle | 31.00% | ~42 |
+| Redecorating | 30.00% | ~40 |
+| The Circle | 30.00% | ~40 |
 | Bad JuJu | 24.00% | ~32 |
-| Friend of Sevenkeeps | 22.00% | ~29 |
-| Slave to the rhythm | 19.00% | ~25 |
-| Castle Meldec | 19.00% | ~25 |
-| Sevenkeeps Seat of Kings | 19.00% | ~25 |
-| Friend of Alluvyan | 16.00% | ~21 |
-| Friend of Connach | 16.00% | ~21 |
+| Friend of Sevenkeeps | 21.00% | ~28 |
+| Slave to the rhythm | 19.00% | ~26 |
+| Castle Meldec | 19.00% | ~26 |
+| Sevenkeeps Seat of Kings | 19.00% | ~26 |
+| Friend of Alluvyan | 16.00% | ~22 |
+| Friend of Connach | 16.00% | ~22 |
 | Friend of Gillyshire | 14.00% | ~19 |
-| Stormwatch Faste | 13.00% | ~17 |
-| Friend of Orgash | 13.00% | ~17 |
-| Friend of Bastion | 13.00% | ~17 |
-| Break Free | 13.00% | ~17 |
+| Stormwatch Faste | 13.00% | ~18 |
+| Friend of Orgash | 13.00% | ~18 |
+| Friend of Bastion | 13.00% | ~18 |
+| Break Free | 13.00% | ~18 |
 | Friend of Silver Drift Hollow | 12.00% | ~16 |
 | Philo's Tale | 11.00% | ~15 |
 | A Master of Magic | 11.00% | ~15 |
 | Magic Academy | 11.00% | ~15 |
-| Silver Drift Hollow Mine | 10.00% | ~13 |
-| Friend of Windholme | 10.00% | ~13 |
+| Silver Drift Hollow Mine | 10.00% | ~14 |
+| Friend of Windholme | 10.00% | ~14 |
 | Mage Teacher | 9.00% | ~12 |
 | Defeat Gor | 8.00% | ~11 |
 | Defeat Uram | 8.00% | ~11 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134 (Ranked 469)  
+Progressed: 135 (Ranked 468)  
 Completed: 0 (0.00%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 0 (0.00%) (Ranked 395)
 | 2024-01-07 | 127 | 0 |
 | 2024-01-08 | 131 | 0 |
 | 2024-01-09 | 132 | 0 |
-| 2024-01-10 | 134 | 0 |
+| 2024-01-10 | 135 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

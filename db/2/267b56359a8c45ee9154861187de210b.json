@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 138,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
@@ -659,6 +659,11 @@
       "Time": "2024-01-10T01:55:35.4200156+00:00",
       "NumProgressed": 137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T05:06:36.461922+00:00",
+      "NumProgressed": 138,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T22:03:23.4161887+00:00",
@@ -695,7 +700,7 @@
       "Name": "Challenger",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TOURN_PARTICIP_60",
@@ -759,7 +764,7 @@
       "Name": "Red-eye Flight",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "airtime_short",
@@ -789,15 +794,15 @@
       "ID": "beat_c1_gold",
       "SetID": "3448go",
       "Name": "Venture Time",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 46
     },
     {
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
       "UsersEstimate": 68
     },
@@ -847,7 +852,7 @@
       "Name": "Timing, Rhythm, and Rhyme",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "beat_c2_gold",
@@ -1247,7 +1252,7 @@
       "Name": "Marathon",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "rolldist_short",
@@ -1311,7 +1316,7 @@
       "Name": "Marble Detector",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "trophies_50",
@@ -1358,14 +1363,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 138,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:08:36.2286392+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:06:36.4619216+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:15.6057122+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:03:00.4586467+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:08:36.2287306+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:02:51.0110979+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:06:36.4620203+00:00"
 }

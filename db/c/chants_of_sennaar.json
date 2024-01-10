@@ -127,11 +127,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2635,
-  "EOS_Completed": 188,
+  "EOS_Progressed": 2636,
+  "EOS_Completed": 189,
   "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 47,
-  "EOS_Completed_Percentage": 7.13,
+  "EOS_Completed_Percentage": 7.17,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -6917,6 +6917,11 @@
       "Time": "2024-01-10T04:04:00.167097+00:00",
       "NumProgressed": 2635,
       "NumCompleted": 188
+    },
+    {
+      "Time": "2024-01-10T05:03:33.8486674+00:00",
+      "NumProgressed": 2636,
+      "NumCompleted": 189
     }
   ],
   "TotalAchievements": 25,
@@ -6928,7 +6933,7 @@
       "Name": "I did it",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "END_GOOD",
@@ -6952,7 +6957,7 @@
       "Name": "Cable guy",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "META_FIRST_LINK",
@@ -6968,7 +6973,7 @@
       "Name": "Half the way",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "META_RESULT_1-2",
@@ -7024,7 +7029,7 @@
       "Name": "Alchemists Express",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -7048,7 +7053,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -7072,7 +7077,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7096,7 +7101,7 @@
       "Name": "The great escape",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "PROGRESS_N3",
@@ -7127,16 +7132,16 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2635,
-      "Completed": 188
+      "Progressed": 2636,
+      "Completed": 189
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:04:00.1670969+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:03:33.848667+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:00:30.3397193+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:04:00.1671437+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:59:36.4351385+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:03:33.848722+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -97,7 +97,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1590,
+  "EOS_Progressed": 1591,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 1,
@@ -4122,6 +4122,11 @@
       "Time": "2024-01-10T04:10:28.5355545+00:00",
       "NumProgressed": 1590,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T05:09:36.9917089+00:00",
+      "NumProgressed": 1591,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4310,7 +4315,7 @@
       "Name": "The Camp",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "AchvReachCity",
@@ -4318,7 +4323,7 @@
       "Name": "The City",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "AchvReachCondor",
@@ -4326,7 +4331,7 @@
       "Name": "The Condor",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "AchvSurvivors",
@@ -4342,7 +4347,7 @@
       "Name": "Flying Objects Operator",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "AchvTheEnd",
@@ -4350,7 +4355,7 @@
       "Name": "The End",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "AchvUnity",
@@ -4365,7 +4370,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1590,
+      "Progressed": 1591,
       "Completed": 1
     }
   ],
@@ -4373,8 +4378,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-09T16:58:03.3059703+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:10:28.5355543+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:09:36.9917086+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-10T03:58:05.4170219+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:10:28.5355891+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:57:59.6844201+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:09:36.9917512+00:00"
 }

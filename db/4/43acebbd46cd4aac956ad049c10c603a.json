@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -313,9 +313,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 1351,
+  "EOS_Progressed": 1352,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3888,6 +3888,11 @@
       "Time": "2024-01-10T04:08:44.4668749+00:00",
       "NumProgressed": 1351,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-10T05:08:21.9304311+00:00",
+      "NumProgressed": 1352,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3908,7 +3913,7 @@
       "Name": "Ab Initio",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "AnthropicHills",
@@ -4124,7 +4129,7 @@
       "Name": "Museum Visitor",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "NewBeginning",
@@ -4156,7 +4161,7 @@
       "Name": "Overload",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "Persistent",
@@ -4292,7 +4297,7 @@
       "Name": "The Spark",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "TheThiefOfFire",
@@ -4371,7 +4376,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1351,
+      "Progressed": 1352,
       "Completed": 2
     }
   ],
@@ -4379,8 +4384,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-08T17:59:02.5867071+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:08:44.4668744+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:08:21.9304308+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-10T03:59:44.7199649+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:08:44.4669321+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:59:05.2043669+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:08:21.930513+00:00"
 }

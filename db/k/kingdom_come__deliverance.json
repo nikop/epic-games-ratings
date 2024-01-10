@@ -9999,7 +9999,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 816781,
+  "EOS_Progressed": 816783,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 1098,
   "EOS_NewCompleters": 0,
@@ -39944,6 +39944,11 @@
       "Time": "2024-01-10T04:11:07.0058381+00:00",
       "NumProgressed": 816781,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-10T05:10:05.6262309+00:00",
+      "NumProgressed": 816783,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -40035,7 +40040,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 261370
+      "UsersEstimate": 261371
     },
     {
       "ID": "Bookworm",
@@ -40067,7 +40072,7 @@
       "Name": "Cavalier",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 212363
+      "UsersEstimate": 212364
     },
     {
       "ID": "Chivalrous",
@@ -40435,7 +40440,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163356
+      "UsersEstimate": 163357
     },
     {
       "ID": "RevenantOfLedechko",
@@ -40475,7 +40480,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163356
+      "UsersEstimate": 163357
     },
     {
       "ID": "SerialKiller",
@@ -40610,15 +40615,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 816781,
+      "Progressed": 816783,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2024-01-10T01:47:49.7587434+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:11:07.0058379+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:10:05.6262304+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.1586279+00:00",
-  "LastUpdate_Ratings": "2024-01-10T03:59:34.1003371+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:11:07.0060431+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:58:57.8051851+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:10:05.6264195+00:00"
 }

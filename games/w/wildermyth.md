@@ -6,8 +6,8 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Me and My Familiar | 8.00% | ~127 |
-| The Cost of Heroism | 8.00% | ~127 |
+| Me and My Familiar | 8.00% | ~128 |
+| The Cost of Heroism | 8.00% | ~128 |
 | This Too Shall Pass | 7.00% | ~112 |
 | Passing Shadow | 6.00% | ~96 |
 | How Romantic! | 6.00% | ~96 |
@@ -24,16 +24,16 @@ Number of Ratings: 45  (23.09.2022)
 | Echoes Die | 2.00% | ~32 |
 | Let Me Get My Chisel | 1.00% | ~16 |
 | Chain Reaction | 1.00% | ~16 |
+| In Soil, In Smoke | 1.00% | ~16 |
 | Everfading | 1.00% | ~16 |
 | Another Tale to Tell | 1.00% | ~16 |
 | A Story of Heroes | 1.00% | ~16 |
 | Turncoat | 1.00% | ~16 |
 | Some Say I'm Too Flashy | 1.00% | ~16 |
 | Legends Never Die | 0.90% | ~14 |
-| In Soil, In Smoke | 0.90% | ~14 |
+| No Time for Clawmonsters | 0.90% | ~14 |
+| Worldwalker | 0.80% | ~13 |
 | Bears are Scary | 0.80% | ~13 |
-| No Time for Clawmonsters | 0.80% | ~13 |
-| Worldwalker | 0.70% | ~11 |
 | Plague Doctor | 0.70% | ~11 |
 | All My Birds, Safely Home | 0.70% | ~11 |
 | Grillmaster | 0.70% | ~11 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,593 (Ranked 263)  
+Progressed: 1,595 (Ranked 263)  
 Completed: 7 (0.44%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 7 (0.44%) (Ranked 231)
 | 2024-01-07 | 1,589 | 7 |
 | 2024-01-08 | 1,590 | 7 |
 | 2024-01-09 | 1,592 | 7 |
-| 2024-01-10 | 1,593 | 7 |
+| 2024-01-10 | 1,595 | 7 |
 ## Awards
 Max (Character Customization): 29  (Ranked 529)  
 Sum: 29 (Ranked 546)  

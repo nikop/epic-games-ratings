@@ -19,14 +19,14 @@
 | Amateur Survivor | 28.00% | ~91 |
 | 15K | 26.00% | ~98 |
 | Drinking Problem | 22.00% | ~82 |
+| Quick-Draw Pod | 22.00% | ~72 |
 | Grave Digger | 22.00% | ~72 |
-| Quick-Draw Pod | 21.00% | ~68 |
 | Pork Chop Express | 20.00% | ~75 |
 | Professional Survivor | 19.00% | ~62 |
 | Skin Of Your Teeth | 17.00% | ~64 |
 | Carrocketeer | 17.00% | ~64 |
+| Getting Started | 16.00% | ~60 |
 | This Is My Boomstick | 16.00% | ~52 |
-| Getting Started | 15.00% | ~56 |
 | Eggtraordinary | 14.00% | ~53 |
 | Oh My Gourd | 14.00% | ~46 |
 | Perfect | 14.00% | ~46 |

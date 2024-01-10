@@ -39,7 +39,7 @@ Number of Ratings: 116  (23.09.2022)
 | Demon Meddler | 23.00% | ~121 |
 | Maximum Capacity | 22.00% | ~116 |
 | Seeing Red | 22.00% | ~116 |
-| Egomaniac | 20.00% | ~105 |
+| Egomaniac | 21.00% | ~110 |
 | Protector of Humanity | 19.00% | ~100 |
 | Everybody Wants to Rule the World | 19.00% | ~100 |
 | Community Outreach | 16.00% | ~84 |

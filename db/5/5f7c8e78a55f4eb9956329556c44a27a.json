@@ -4,8 +4,8 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -1196,9 +1196,9 @@
       "ID": "TINGWD_CLICKER",
       "SetID": "c0imaa6",
       "Name": "Serial Clicker",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "TINGWD_CONSPI",
@@ -1363,8 +1363,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:04:48.916346+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:04:08.5720277+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.2042305+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:01:17.7342789+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:04:48.9163763+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:00:08.0694738+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:04:08.5720553+00:00"
 }

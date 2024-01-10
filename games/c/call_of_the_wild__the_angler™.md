@@ -32,11 +32,11 @@ Number of Ratings: 281  (23.09.2022)
 | The Beetles | 0.30% | ~25 |
 | Lake Me up Before You Go Go | 0.30% | ~25 |
 | Taylor Made | 0.30% | ~25 |
+| Rod and Troll | 0.30% | ~23 |
 | All Good Kings Must Come to an End | 0.30% | ~23 |
 | Three Square Meals | 0.30% | ~23 |
 | Big Fish Small Pond | 0.20% | ~16 |
 | Golden Ridge Ranger | 0.20% | ~16 |
-| Rod and Troll | 0.20% | ~15 |
 | Head for Heights | 0.10% | ~8 |
 | Lost and Flounder | 0.10% | ~8 |
 | Buckaroo | 0.10% | ~8 |

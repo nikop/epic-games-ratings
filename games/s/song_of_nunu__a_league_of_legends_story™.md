@@ -35,7 +35,7 @@ Rating: 4.59 (Ranked 451)
 | True Legends | 38.00% | ~577 |
 | It Is Not Over | 36.00% | ~546 |
 | Bullseye | 36.00% | ~546 |
-| On The Rocks | 33.00% | ~501 |
+| On The Rocks | 34.00% | ~516 |
 | Snowy Poro | 32.00% | ~486 |
 | Never Gets Old | 32.00% | ~486 |
 | Vertical Power | 26.00% | ~395 |

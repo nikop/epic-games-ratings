@@ -4,8 +4,8 @@
   "ProductSlug": "aya-and-naya-b7791e",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-17T20:00:00+00:00",
     "PcReleaseDate": "2023-08-31T16:00:00+00:00",
@@ -4194,9 +4194,9 @@
       "ID": "Mission1",
       "SetID": "6igjng7",
       "Name": "Played!",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 200,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1263
     },
     {
       "ID": "Mission2",
@@ -4241,8 +4241,8 @@
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:10:52.4949423+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:09:54.3773577+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.9854903+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:00:13.7111041+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:10:52.4949675+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:59:24.1408542+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:09:54.3773918+00:00"
 }

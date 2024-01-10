@@ -15,12 +15,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to Sigil | 0.80% | ~1,755 |
 | Were-verpowered | 0.70% | ~1,772 |
 | Seeking Allies | 0.70% | ~1,772 |
+| Mad Cow Disease | 0.70% | ~1,772 |
 | Friendly Imps | 0.70% | ~1,772 |
-| Mad Cow Disease | 0.60% | ~1,519 |
 | Pure Energy | 0.60% | ~1,519 |
 | Fast Food | 0.60% | ~1,316 |
-| A Persistent Buzzing | 0.50% | ~1,265 |
-| Terror in the Dark | 0.50% | ~1,265 |
+| A Persistent Buzzing | 0.50% | ~1,266 |
+| Terror in the Dark | 0.50% | ~1,266 |
 | The Overgrown Grove | 0.50% | ~1,097 |
 | Flames of Avernus | 0.50% | ~1,097 |
 | Mental Gymnastics | 0.50% | ~1,097 |
@@ -30,13 +30,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.40% | ~1,012 |
 | Exploring Port Nyanzaru | 0.40% | ~1,012 |
 | The Contagious Curse | 0.40% | ~1,012 |
-| Arcane Suppression | 0.40% | ~877 |
-| Welcome to the Vrocks | 0.40% | ~877 |
-| Misaligned in Sigil | 0.40% | ~877 |
-| Chaos Theory | 0.40% | ~877 |
-| When Tentacles Attack | 0.40% | ~877 |
-| Don't Lose Your Head | 0.40% | ~877 |
-| Mind Spike | 0.40% | ~877 |
+| Arcane Suppression | 0.40% | ~878 |
+| Welcome to the Vrocks | 0.40% | ~878 |
+| Misaligned in Sigil | 0.40% | ~878 |
+| Chaos Theory | 0.40% | ~878 |
+| When Tentacles Attack | 0.40% | ~878 |
+| Don't Lose Your Head | 0.40% | ~878 |
+| Mind Spike | 0.40% | ~878 |
 | Low Initiative | 0.30% | ~759 |
 | A Mysterious Summons | 0.30% | ~759 |
 | Building Trust | 0.30% | ~759 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~219 |
 | A Wise Approach | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,095 (Ranked 70)  
+Progressed: 253,102 (Ranked 70)  
 Completed: 2,608 (1.03%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -818,7 +818,7 @@ Completed: 2,608 (1.03%) (Ranked 174)
 | 2024-01-07 | 252,516 | 2,599 |
 | 2024-01-08 | 252,794 | 2,602 |
 | 2024-01-09 | 253,044 | 2,606 |
-| 2024-01-10 | 253,095 | 2,608 |
+| 2024-01-10 | 253,102 | 2,608 |
 ## Awards
 Max (Great for Beginners): 5,768  (Ranked 74)  
 Sum: 33,419 (Ranked 41)  

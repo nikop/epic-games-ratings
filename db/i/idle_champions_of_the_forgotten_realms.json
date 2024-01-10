@@ -9433,9 +9433,9 @@
       "Count": 3634
     }
   ],
-  "EOS_Progressed": 253095,
+  "EOS_Progressed": 253102,
   "EOS_Completed": 2608,
-  "EOS_NewPlayers": 2941,
+  "EOS_NewPlayers": 2936,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39433,6 +39433,11 @@
       "Time": "2024-01-10T04:11:16.1386594+00:00",
       "NumProgressed": 253095,
       "NumCompleted": 2608
+    },
+    {
+      "Time": "2024-01-10T05:10:13.2893634+00:00",
+      "NumProgressed": 253102,
+      "NumCompleted": 2608
     }
   ],
   "TotalAchievements": 546,
@@ -40420,7 +40425,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "objective_completed_130",
@@ -40564,7 +40569,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "objective_completed_150",
@@ -41578,9 +41583,9 @@
       "ID": "objective_completed_5",
       "SetID": "cc37lbc",
       "Name": "Mad Cow Disease",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1772
     },
     {
       "ID": "objective_completed_54",
@@ -43716,7 +43721,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "objective_completed_1352",
@@ -43724,7 +43729,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "objective_completed_1557",
@@ -43740,7 +43745,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "objective_completed_1562",
@@ -43756,7 +43761,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "objective_completed_598",
@@ -43772,7 +43777,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "objective_completed_678",
@@ -43796,7 +43801,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "objective_completed_865",
@@ -43804,28 +43809,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219369,
+      "Progressed": 219376,
       "Completed": 4146
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253095,
+      "Progressed": 253102,
       "Completed": 2608
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-10T03:58:24.3745976+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:11:16.138659+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:10:13.2893627+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-10T03:58:24.3745982+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:11:16.1410803+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:58:12.3376227+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:10:13.2918234+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -172,9 +172,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1593,
+  "EOS_Progressed": 1595,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -2422,6 +2422,11 @@
       "Time": "2024-01-10T01:59:06.6533462+00:00",
       "NumProgressed": 1593,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-10T05:10:06.1854671+00:00",
+      "NumProgressed": 1595,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 56,
@@ -2449,7 +2454,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -2471,9 +2476,9 @@
       "ID": "achievement_beatAllStoryCampaigns",
       "SetID": "95dc8p",
       "Name": "Worldwalker",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_beatGameOnIronmanMode",
@@ -2609,7 +2614,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_mythwalker",
@@ -2655,9 +2660,9 @@
       "ID": "completedStory_cvawn",
       "SetID": "95dc8p",
       "Name": "In Soil, In Smoke",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "completedStory_ecthis",
@@ -2871,24 +2876,24 @@
       "ID": "ulstryx_killCalabyneInOneTurn",
       "SetID": "95dc8p",
       "Name": "No Time for Clawmonsters",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1593,
+      "Progressed": 1595,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2024-01-03T23:58:17.6931046+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:11:07.9301503+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:10:06.1854669+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:17.4648519+00:00",
-  "LastUpdate_Ratings": "2024-01-10T03:58:05.3771593+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:11:07.9302033+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:57:59.6670175+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:10:06.1855131+00:00"
 }

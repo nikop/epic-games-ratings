@@ -12,9 +12,9 @@ Rating: 4.62 (Ranked 378)
 | From Friends to Family | 12.00% | ~857 |
 | Bone Peddler | 10.00% | ~714 |
 | Magical Synergy | 9.00% | ~643 |
+| There Can Only Be One! | 8.00% | ~571 |
 | Full Ascension | 8.00% | ~571 |
 | Stronger Together | 8.00% | ~571 |
-| There Can Only Be One! | 7.00% | ~500 |
 | Seat of Power | 7.00% | ~500 |
 | Valley of Wonders | 6.00% | ~428 |
 | In a Liege of Your Own | 6.00% | ~428 |

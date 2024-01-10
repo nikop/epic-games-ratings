@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1494,9 +1494,9 @@
       "ID": "10000ELEXIT",
       "SetID": "a1angca",
       "Name": "Banker",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "1000ELEXIT",
@@ -1894,8 +1894,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:07:40.8132583+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:06:11.8810769+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:22.4582393+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:01:03.5851946+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:07:40.8133065+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:59:58.146454+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:06:11.8811171+00:00"
 }

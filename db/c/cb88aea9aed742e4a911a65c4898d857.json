@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -311,9 +311,9 @@
       "Count": 116
     }
   ],
-  "EOS_Progressed": 10897,
+  "EOS_Progressed": 10902,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1166,
+  "EOS_NewPlayers": 1167,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4316,6 +4316,11 @@
       "Time": "2024-01-10T04:11:00.0469498+00:00",
       "NumProgressed": 10897,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T05:10:00.1690559+00:00",
+      "NumProgressed": 10902,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4328,7 +4333,7 @@
       "Name": "Conspiracy",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "03_TheStolenStar",
@@ -4368,7 +4373,7 @@
       "Name": "Grand Finale",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "08_TheEmperorsHand",
@@ -4606,9 +4611,9 @@
       "ID": "37_TheSirenicalDiplomat",
       "SetID": "37a94m8",
       "Name": "Silver-Tongued Diplomat",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 218
     },
     {
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
@@ -4847,7 +4852,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 10897,
+      "Progressed": 10902,
       "Completed": 1
     }
   ],
@@ -4855,8 +4860,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-09T16:59:10.7700574+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:11:00.0469496+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:10:00.1690556+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-10T03:59:14.4122426+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:11:00.0470153+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:58:44.7352045+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:10:00.1691131+00:00"
 }

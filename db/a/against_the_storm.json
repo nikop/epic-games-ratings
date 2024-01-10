@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3807,10 +3807,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3364,
       "NumberOfAwardsMax": 452
+    },
+    {
+      "Time": "2024-01-10T04:58:25.2032243+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3365,
+      "NumberOfAwardsMax": 452
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3364,
+  "NumberOfAwards": 3365,
   "NumberOfAwardsMax": 452,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3824,7 +3830,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 448
+      "Count": 449
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3875,9 +3881,9 @@
       "Count": 347
     }
   ],
-  "EOS_Progressed": 20610,
+  "EOS_Progressed": 20611,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 613,
+  "EOS_NewPlayers": 610,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19140,6 +19146,11 @@
       "Time": "2024-01-10T04:05:29.2886107+00:00",
       "NumProgressed": 20610,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-10T05:04:37.5172686+00:00",
+      "NumProgressed": 20611,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19560,7 +19571,7 @@
       "Name": "Frosts",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "WinNearGreed",
@@ -19568,7 +19579,7 @@
       "Name": "Land of Greed",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "WinNearLibrary",
@@ -19623,15 +19634,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20610,
+      "Progressed": 20611,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-09T13:14:32.6779074+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:05:29.2886102+00:00",
+  "LastChanged": "2024-01-10T04:58:25.2032242+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:04:37.5172682+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-10T03:58:43.5886594+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:05:29.2887243+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:58:25.2032248+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:04:37.5173894+00:00"
 }

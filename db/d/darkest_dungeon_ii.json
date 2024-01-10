@@ -10618,18 +10618,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 21564,
       "NumberOfAwardsMax": 7992
+    },
+    {
+      "Time": "2024-01-10T04:58:59.4324878+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21572,
+      "NumberOfAwardsMax": 8000
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21564,
-  "NumberOfAwardsMax": 7992,
+  "NumberOfAwards": 21572,
+  "NumberOfAwardsMax": 8000,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7992
+      "Count": 8000
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10698,7 +10704,7 @@
       "Count": 1088
     }
   ],
-  "EOS_Progressed": 132334,
+  "EOS_Progressed": 132338,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 942,
   "EOS_NewCompleters": 0,
@@ -39153,6 +39159,11 @@
       "Time": "2024-01-10T04:10:44.4247805+00:00",
       "NumProgressed": 132334,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-10T05:09:48.4655548+00:00",
+      "NumProgressed": 132338,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 79,
@@ -39452,7 +39463,7 @@
       "Name": "Spelunker",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5293
+      "UsersEstimate": 5294
     },
     {
       "ID": "driving_biome_clear_city",
@@ -39468,7 +39479,7 @@
       "Name": "Merry Time",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5293
+      "UsersEstimate": 5294
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -39476,7 +39487,7 @@
       "Name": "Harvest Festival",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5293
+      "UsersEstimate": 5294
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -39492,7 +39503,7 @@
       "Name": "Ramble On",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5293
+      "UsersEstimate": 5294
     },
     {
       "ID": "driving_distance_hard",
@@ -39516,7 +39527,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9263
+      "UsersEstimate": 9264
     },
     {
       "ID": "hero_story_complete_all",
@@ -39540,7 +39551,7 @@
       "Name": "Whale",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5293
+      "UsersEstimate": 5294
     },
     {
       "ID": "hospital_full_service",
@@ -39612,7 +39623,7 @@
       "Name": "Nope",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5293
+      "UsersEstimate": 5294
     },
     {
       "ID": "run_victory_act01",
@@ -39700,7 +39711,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "combat_kill_collector",
@@ -39764,7 +39775,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -39795,21 +39806,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132334,
+      "Progressed": 132338,
       "Completed": 3
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7203,
+      "Progressed": 7207,
       "Completed": 823
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-10T02:59:16.6167191+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:10:44.4247802+00:00",
+  "LastChanged": "2024-01-10T04:58:59.4324876+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:09:48.4655544+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-10T03:59:36.3849875+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:10:44.4249452+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:58:59.4324891+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:09:48.4657312+00:00"
 }

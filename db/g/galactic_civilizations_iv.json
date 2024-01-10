@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -1005,9 +1005,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7528,
+  "EOS_Progressed": 7529,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9700,6 +9700,11 @@
       "Time": "2024-01-09T19:10:55.0002529+00:00",
       "NumProgressed": 7528,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T05:10:03.6333252+00:00",
+      "NumProgressed": 7529,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9823,7 +9828,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5420
+      "UsersEstimate": 5421
     },
     {
       "ID": "First_Ship_Designed",
@@ -9847,7 +9852,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5721
+      "UsersEstimate": 5722
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -10199,7 +10204,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4893
+      "UsersEstimate": 4894
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -10286,15 +10291,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7528,
+      "Progressed": 7529,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-06T21:59:17.2587846+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:11:04.5812466+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:10:03.6333249+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8294647+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:01:02.0038549+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:11:04.5813471+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:59:57.1678807+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:10:03.6334155+00:00"
 }

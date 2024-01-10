@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74298,
+  "EOS_Progressed": 74305,
   "EOS_Completed": 115,
-  "EOS_NewPlayers": 1651,
+  "EOS_NewPlayers": 1655,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -6759,6 +6759,11 @@
       "Time": "2024-01-10T04:09:05.4866533+00:00",
       "NumProgressed": 74298,
       "NumCompleted": 115
+    },
+    {
+      "Time": "2024-01-10T05:08:36.7930219+00:00",
+      "NumProgressed": 74305,
+      "NumCompleted": 115
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -6771,7 +6776,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27490
+      "UsersEstimate": 27493
     },
     {
       "ID": "Achievement_10",
@@ -6859,7 +6864,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20803
+      "UsersEstimate": 20805
     },
     {
       "ID": "Achievement_20",
@@ -6947,7 +6952,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8916
+      "UsersEstimate": 8917
     },
     {
       "ID": "Achievement_30",
@@ -6987,7 +6992,7 @@
       "Name": "Warden",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "Achievement_4",
@@ -7042,7 +7047,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 74298,
+      "Progressed": 74305,
       "Completed": 115
     }
   ],
@@ -7050,8 +7055,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-09T18:03:16.5676566+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:09:05.486653+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:08:36.7930215+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:21.0621045+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:03:25.0699672+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:09:05.4867196+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:03:08.9906872+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:08:36.7930742+00:00"
 }

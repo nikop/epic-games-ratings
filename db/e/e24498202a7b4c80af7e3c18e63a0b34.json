@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8512,
+  "EOS_Progressed": 8513,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 281,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -9697,6 +9697,11 @@
       "Time": "2024-01-10T02:32:38.0401561+00:00",
       "NumProgressed": 8512,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2024-01-10T05:08:27.0952086+00:00",
+      "NumProgressed": 8513,
+      "NumCompleted": 51
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -9717,7 +9722,7 @@
       "Name": "Tournament Star",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1702
+      "UsersEstimate": 1703
     },
     {
       "ID": "achievement_01_03",
@@ -9733,7 +9738,7 @@
       "Name": "Bzzzt",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6384
+      "UsersEstimate": 6385
     },
     {
       "ID": "achievement_01_05",
@@ -9749,7 +9754,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 5192
+      "UsersEstimate": 5193
     },
     {
       "ID": "achievement_01_07",
@@ -9757,7 +9762,7 @@
       "Name": "Car Workshop",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 3660
+      "UsersEstimate": 3661
     },
     {
       "ID": "achievement_01_08",
@@ -9765,7 +9770,7 @@
       "Name": "Trophy Collector",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6384
+      "UsersEstimate": 6385
     },
     {
       "ID": "achievement_01_09",
@@ -9813,7 +9818,7 @@
       "Name": "Master Champion",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "achievement_02_05",
@@ -9821,7 +9826,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 2383
+      "UsersEstimate": 2384
     },
     {
       "ID": "achievement_02_06",
@@ -9885,7 +9890,7 @@
       "Name": "Thailand - Check!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "achievement_03_06",
@@ -9917,7 +9922,7 @@
       "Name": "Golden Master Champion",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "achievement_03_10",
@@ -9933,7 +9938,7 @@
       "Name": "Japan - Check!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "achievement_04_01",
@@ -9957,7 +9962,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 4596
+      "UsersEstimate": 4597
     },
     {
       "ID": "achievement_04_04",
@@ -9973,7 +9978,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 2979
+      "UsersEstimate": 2980
     },
     {
       "ID": "achievement_04_06",
@@ -9989,7 +9994,7 @@
       "Name": "Nitro Saver",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 4341
+      "UsersEstimate": 4342
     },
     {
       "ID": "achievement_04_08",
@@ -9997,7 +10002,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 7405
+      "UsersEstimate": 7406
     },
     {
       "ID": "achievement_04_09",
@@ -10012,7 +10017,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 8512,
+      "Progressed": 8513,
       "Completed": 51
     }
   ],
@@ -10020,8 +10025,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2024-01-09T20:59:07.1704455+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:08:51.7804586+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:08:27.0952083+00:00",
   "LastUpdate_AppInfo": "2024-01-05T01:43:58.6689875+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:00:16.1956078+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:08:51.7805193+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:59:25.9041024+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:08:27.0953017+00:00"
 }

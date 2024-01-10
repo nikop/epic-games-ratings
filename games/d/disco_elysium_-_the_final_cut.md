@@ -6,10 +6,10 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~38,780 |
-| Biggest Communism Builder | 23.00% | ~31,855 |
-| The World's Most Laughable Centrist | 20.00% | ~27,700 |
-| Il Coppo Del'Arte! | 18.00% | ~24,930 |
+| Goodest Of The Good Cops | 28.00% | ~38,781 |
+| Biggest Communism Builder | 23.00% | ~31,856 |
+| The World's Most Laughable Centrist | 20.00% | ~27,701 |
+| Il Coppo Del'Arte! | 18.00% | ~24,931 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,160 |
 | Hyperstellar Law Official | 15.00% | ~20,775 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~19,390 |
@@ -34,20 +34,20 @@ Number of Ratings: 1,611  (23.09.2022)
 | Real Musor | 0.90% | ~1,247 |
 | Baddest Brow in Town | 0.80% | ~1,108 |
 | Committee of la Responsabilité | 0.80% | ~1,108 |
-| Networthy Individual | 0.70% | ~969 |
+| Networthy Individual | 0.70% | ~970 |
 | Leopard Mindset | 0.60% | ~831 |
 | Modus: Mullen | 0.30% | ~416 |
 | Palerunner | 0.30% | ~416 |
 | Cause a ****storm | 0.20% | ~277 |
 | True Detective | 0.20% | ~277 |
 | The Icebreaker | 0.20% | ~277 |
-| The Most Honourable Cop in The Land | 0.10% | ~138 |
-| Gluten-Free Topping Pie | 0.10% | ~138 |
-| Get Kim to Wear *The Jacket* | 0.10% | ~138 |
-| Medal dispenser | 0.10% | ~138 |
-| What body? | 0.10% | ~138 |
+| The Most Honourable Cop in The Land | 0.10% | ~139 |
+| Gluten-Free Topping Pie | 0.10% | ~139 |
+| Get Kim to Wear *The Jacket* | 0.10% | ~139 |
+| Medal dispenser | 0.10% | ~139 |
+| What body? | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,500 (Ranked 90)  
+Progressed: 138,503 (Ranked 90)  
 Completed: 29 (0.02%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 29 (0.02%) (Ranked 361)
 | 2024-01-07 | 138,114 | 29 |
 | 2024-01-08 | 138,281 | 29 |
 | 2024-01-09 | 138,471 | 29 |
-| 2024-01-10 | 138,500 | 29 |
+| 2024-01-10 | 138,503 | 29 |
 ## Awards
 Max (Character Customization): 763  (Ranked 191)  
 Sum: 1,164 (Ranked 266)  

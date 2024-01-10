@@ -6,8 +6,8 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 63.00% | ~2,291 |
-| Keeping it classy | 27.00% | ~982 |
+| You're free now! | 63.00% | ~2,293 |
+| Keeping it classy | 27.00% | ~983 |
 | Welcome to the family | 21.00% | ~764 |
 | The finer things in life | 19.00% | ~691 |
 | Backpacker | 13.00% | ~473 |
@@ -15,9 +15,9 @@ Number of Ratings: 111  (23.09.2022)
 | Plastic Surgeon | 10.00% | ~364 |
 | The flip trick crown jewel | 10.00% | ~364 |
 | The hard way | 10.00% | ~364 |
-| Good vibes | 9.00% | ~327 |
-| Keep the dream alive | 9.00% | ~327 |
-| Upfront shredder | 9.00% | ~327 |
+| Good vibes | 9.00% | ~328 |
+| Keep the dream alive | 9.00% | ~328 |
+| Upfront shredder | 9.00% | ~328 |
 | Bottom ply killer | 7.00% | ~255 |
 | Fashionista | 7.00% | ~255 |
 | Finally he zips it | 7.00% | ~255 |
@@ -37,12 +37,12 @@ Number of Ratings: 111  (23.09.2022)
 | NAHELL! | 5.00% | ~182 |
 | Renaissance man | 5.00% | ~182 |
 | Trick shot marksman | 5.00% | ~182 |
-| Cops called! | 4.00% | ~145 |
-| G.O.A.T. status | 4.00% | ~145 |
-| Hoarder | 4.00% | ~145 |
-| Prince of Philly | 4.00% | ~145 |
-| Tank commander | 4.00% | ~145 |
-| We get it, you're good | 4.00% | ~145 |
+| Cops called! | 4.00% | ~146 |
+| G.O.A.T. status | 4.00% | ~146 |
+| Hoarder | 4.00% | ~146 |
+| Prince of Philly | 4.00% | ~146 |
+| Tank commander | 4.00% | ~146 |
+| We get it, you're good | 4.00% | ~146 |
 | Many plys later... | 3.00% | ~109 |
 | Pew-Pew | 3.00% | ~109 |
 | Cross lock country | 2.00% | ~73 |
@@ -55,8 +55,8 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,636 (Ranked 221)  
-Completed: 2 (0.06%) (Ranked 330)  
+Progressed: 3,639 (Ranked 221)  
+Completed: 2 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -295,7 +295,7 @@ Completed: 2 (0.06%) (Ranked 330)
 | 2024-01-07 | 3,587 | 2 |
 | 2024-01-08 | 3,608 | 2 |
 | 2024-01-09 | 3,627 | 2 |
-| 2024-01-10 | 3,636 | 2 |
+| 2024-01-10 | 3,639 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 63  (Ranked 425)  
 Sum: 584 (Ranked 326)  

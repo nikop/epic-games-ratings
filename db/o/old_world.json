@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2238,9 +2238,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16331,
+  "EOS_Progressed": 16334,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19458,6 +19458,11 @@
       "Time": "2024-01-10T04:11:14.7934604+00:00",
       "NumProgressed": 16331,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-10T05:10:12.2109225+00:00",
+      "NumProgressed": 16334,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19931,9 +19936,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
       "SetID": "7l38kb8",
       "Name": "Great",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 131
+      "UsersEstimate": 147
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_HOLY",
@@ -20995,17 +21000,17 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 2",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 147
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 3",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 98
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
@@ -21459,9 +21464,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
       "SetID": "7l38kb8",
       "Name": "Mythology",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 114
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REDEMPTION",
@@ -22332,21 +22337,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16331,
+      "Progressed": 16334,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16331,
+      "Progressed": 16334,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-09T22:57:23.2402519+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:11:14.7934601+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:10:12.2109222+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-10T03:57:25.9674973+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:11:14.7944871+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:57:31.1175534+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:10:12.2119732+00:00"
 }

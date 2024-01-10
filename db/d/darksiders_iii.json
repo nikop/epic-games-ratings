@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -476,7 +476,7 @@
   ],
   "EOS_Progressed": 526,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2335,9 +2335,9 @@
       "ID": "Kill_Sin_Pride",
       "SetID": "7a5k76n",
       "Name": "Egomaniac",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 110
     },
     {
       "ID": "Kill_Sin_Sloth",
@@ -2479,8 +2479,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-03T05:57:54.1795117+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:05:13.6319254+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:04:26.3249729+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-10T03:58:09.1542284+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:05:13.6319799+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:58:02.1851386+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:04:26.3250166+00:00"
 }

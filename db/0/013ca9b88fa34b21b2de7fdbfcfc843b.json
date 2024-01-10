@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8974,
+  "EOS_Progressed": 8975,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10002,6 +10002,11 @@
       "Time": "2024-01-10T01:59:05.1948756+00:00",
       "NumProgressed": 8974,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T05:10:04.6043284+00:00",
+      "NumProgressed": 8975,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10030,7 +10035,7 @@
       "Name": "Calm Sailing",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -10038,7 +10043,7 @@
       "Name": "Open the Gate!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -10102,7 +10107,7 @@
       "Name": "Lumberjack",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -10150,7 +10155,7 @@
       "Name": "Humble Collector",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -10174,7 +10179,7 @@
       "Name": "Mist Walker",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -10230,7 +10235,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -10357,13 +10362,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 8974,
+      "Progressed": 8975,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1591,
+      "Progressed": 1592,
       "Completed": 1050
     }
   ],
@@ -10371,8 +10376,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-04T01:49:56.9201089+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:11:05.7531451+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:10:04.6043281+00:00",
   "LastUpdate_AppInfo": "2024-01-05T13:01:18.6366016+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:03:41.7508643+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:11:05.7532115+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:03:20.1383195+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:10:04.6044097+00:00"
 }

@@ -5,35 +5,35 @@ Rating: 4.86 (Ranked 30)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 54.00% | ~8,911 |
-| Feeling the beat! | 54.00% | ~8,911 |
-| You can pet the cat! | 49.00% | ~8,086 |
-| Who put gears in there? | 40.00% | ~6,601 |
-| Cream of the Crop | 35.00% | ~5,776 |
-| Thanks for the free chip, Peppermint! | 34.00% | ~5,611 |
-| You got this, Peppermint? | 29.00% | ~4,786 |
-| Perfect Parry | 27.00% | ~4,456 |
-| Alright, that felt AWESOME! | 27.00% | ~4,456 |
-| I play my own way! | 23.00% | ~3,795 |
-| This will cost you big time | 21.00% | ~3,465 |
-| Uh, they were broken when I got here | 21.00% | ~3,465 |
-| Z-shielding's got nothing on us! | 20.00% | ~3,300 |
-| Kissing the sky! | 19.00% | ~3,135 |
-| Whoa! There's ANOTHER health bar!? | 17.00% | ~2,805 |
-| Does that say weakpoint? | 17.00% | ~2,805 |
-| The Negotiator | 15.00% | ~2,475 |
-| You must like calling me in, Chai | 14.00% | ~2,310 |
-| Headliner | 13.00% | ~2,145 |
-| Out in a puff of smoke | 13.00% | ~2,145 |
-| Time to pay up! | 12.00% | ~1,980 |
-| Perfecter Parry-er! | 12.00% | ~1,980 |
-| I look cool. But I can look COOLER. | 12.00% | ~1,980 |
-| Who's the boss now? | 11.00% | ~1,815 |
-| I have to read these things? | 11.00% | ~1,815 |
-| There's such a thing as TOO helpful | 8.00% | ~1,320 |
+| Start with a bang! | 54.00% | ~8,914 |
+| Feeling the beat! | 54.00% | ~8,914 |
+| You can pet the cat! | 49.00% | ~8,089 |
+| Who put gears in there? | 40.00% | ~6,603 |
+| Cream of the Crop | 35.00% | ~5,778 |
+| Thanks for the free chip, Peppermint! | 34.00% | ~5,613 |
+| You got this, Peppermint? | 29.00% | ~4,787 |
+| Perfect Parry | 27.00% | ~4,457 |
+| Alright, that felt AWESOME! | 27.00% | ~4,457 |
+| I play my own way! | 23.00% | ~3,797 |
+| This will cost you big time | 21.00% | ~3,467 |
+| Uh, they were broken when I got here | 21.00% | ~3,467 |
+| Z-shielding's got nothing on us! | 20.00% | ~3,302 |
+| Kissing the sky! | 19.00% | ~3,137 |
+| Whoa! There's ANOTHER health bar!? | 17.00% | ~2,806 |
+| Does that say weakpoint? | 17.00% | ~2,806 |
+| The Negotiator | 16.00% | ~2,641 |
+| You must like calling me in, Chai | 14.00% | ~2,311 |
+| Headliner | 13.00% | ~2,146 |
+| Out in a puff of smoke | 13.00% | ~2,146 |
+| Time to pay up! | 12.00% | ~1,981 |
+| Perfecter Parry-er! | 12.00% | ~1,981 |
+| I look cool. But I can look COOLER. | 12.00% | ~1,981 |
+| Who's the boss now? | 11.00% | ~1,816 |
+| I have to read these things? | 11.00% | ~1,816 |
+| There's such a thing as TOO helpful | 8.00% | ~1,321 |
 | NOW we got a kickass hideout! | 8.00% | ~1,202 |
-| Well that was a rush! | 7.00% | ~1,155 |
-| That's a lot of junk metal… | 7.00% | ~1,155 |
+| Well that was a rush! | 7.00% | ~1,156 |
+| That's a lot of junk metal… | 7.00% | ~1,156 |
 | Beat-hit mania | 6.00% | ~990 |
 | I told you I'd be fine, Peppermint! | 5.00% | ~825 |
 | Chip-tuned | 4.00% | ~660 |
@@ -77,8 +77,8 @@ Rating: 4.86 (Ranked 30)
 | Voices from within | 0.10% | ~15 |
 | Low budget finish | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,502 (Ranked 168)  
-Completed: 8 (0.05%) (Ranked 337)  
+Progressed: 16,508 (Ranked 168)  
+Completed: 8 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -332,14 +332,14 @@ Completed: 8 (0.05%) (Ranked 337)
 | 2024-01-07 | 16,087 | 8 |
 | 2024-01-08 | 16,279 | 8 |
 | 2024-01-09 | 16,474 | 8 |
-| 2024-01-10 | 16,502 | 8 |
+| 2024-01-10 | 16,508 | 8 |
 ## Awards
-Max (Great Boss Battles): 30  (Ranked 522)  
-Sum: 30 (Ranked 542)  
-Diff (max vs sum): -20  
+Max (Great Boss Battles): 32  (Ranked 518)  
+Sum: 32 (Ranked 541)  
+Diff (max vs sum): -23  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 30 |
+| This game has Great Boss Battles | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -380,3 +380,4 @@ Diff (max vs sum): -20
 | 2024-01-04 | 4.86 | 28 | 28 |
 | 2024-01-06 | 4.86 | 29 | 29 |
 | 2024-01-07 | 4.86 | 30 | 30 |
+| 2024-01-10 | 4.86 | 32 | 32 |

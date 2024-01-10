@@ -1122,9 +1122,9 @@
       "ID": "id_32",
       "SetID": "bk9jib6",
       "Name": "The brave little tailor",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "id_33",
@@ -1395,8 +1395,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-07T05:57:14.1879387+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:11:05.1411622+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:10:04.0481951+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:37.3559183+00:00",
-  "LastUpdate_Ratings": "2024-01-10T03:59:14.478564+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:11:05.1411992+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:58:44.7717405+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:10:04.04823+00:00"
 }

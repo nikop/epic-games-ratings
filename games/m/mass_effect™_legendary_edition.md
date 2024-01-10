@@ -38,15 +38,15 @@
 | Operative | 27.00% | ~1,099 |
 | The Convict | 26.00% | ~1,058 |
 | Power Full | 26.00% | ~1,058 |
+| Veteran | 25.00% | ~1,018 |
 | Colony Defense | 25.00% | ~1,018 |
 | The Krogan | 25.00% | ~1,018 |
 | Broke, Blind, and Bedlam | 25.00% | ~1,018 |
-| Veteran | 24.00% | ~977 |
 | Driven | 24.00% | ~977 |
 | Ghost Ship | 23.00% | ~936 |
 | The Assassin | 23.00% | ~936 |
+| The Quarian | 23.00% | ~936 |
 | The Justicar | 22.00% | ~895 |
-| The Quarian | 22.00% | ~895 |
 | The Prodigal | 22.00% | ~895 |
 | Galactic Explorer | 22.00% | ~895 |
 | Shopaholic | 22.00% | ~895 |
@@ -87,12 +87,12 @@
 | Arbiter | 16.00% | ~651 |
 | Party Crasher | 15.00% | ~610 |
 | Lost and Found | 15.00% | ~610 |
+| Under Pressure | 14.00% | ~570 |
 | Paramour II | 14.00% | ~570 |
 | Hard Target | 14.00% | ~570 |
 | Saboteur | 14.00% | ~570 |
 | Fact Finder | 14.00% | ~570 |
 | Problem Solver | 14.00% | ~570 |
-| Under Pressure | 13.00% | ~529 |
 | Last Resort | 13.00% | ~529 |
 | No One Left Behind | 13.00% | ~529 |
 | Last Witness | 13.00% | ~529 |

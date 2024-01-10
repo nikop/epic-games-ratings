@@ -83,7 +83,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Renowned Researcher | 0.10% | ~49 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 49,057 (Ranked 123)  
-Completed: 26 (0.05%) (Ranked 337)  
+Completed: 26 (0.05%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

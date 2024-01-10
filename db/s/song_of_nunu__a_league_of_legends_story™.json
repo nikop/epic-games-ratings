@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -4226,9 +4226,9 @@
       "ID": "EV_ACH19",
       "SetID": "6jeac23",
       "Name": "On The Rocks",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 516
     },
     {
       "ID": "EV_ACH20",
@@ -4443,8 +4443,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2024-01-09T13:16:23.2542222+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:11:07.6365024+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:10:05.9394139+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.6946611+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:01:28.6427798+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:11:07.6365487+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:00:15.7439226+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:10:05.9394697+00:00"
 }

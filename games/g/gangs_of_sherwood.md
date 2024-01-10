@@ -7,11 +7,11 @@
 | Act of Kindness | 87.00% | ~104 |
 | Air Fighter | 72.00% | ~86 |
 | Oo-De-Lally | 71.00% | ~84 |
-| Treasure Hunter | 63.00% | ~75 |
-| The Altruist | 62.00% | ~74 |
+| Treasure Hunter | 64.00% | ~76 |
+| The Altruist | 63.00% | ~75 |
 | Watch your Step! | 52.00% | ~62 |
+| MAX LEVEL | 51.00% | ~61 |
 | Tap Dancing | 50.00% | ~60 |
-| MAX LEVEL | 50.00% | ~60 |
 | Right between the eyes | 39.00% | ~46 |
 | Starry Night | 38.00% | ~45 |
 | Spring Board | 37.00% | ~44 |

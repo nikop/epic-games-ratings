@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -4571,9 +4571,9 @@
       "ID": "EXPLORER_1",
       "SetID": "bf13m8j",
       "Name": "Explorer",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 272
     },
     {
       "ID": "GHOSTBUSTER",
@@ -4795,8 +4795,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-07T01:53:39.5717953+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:10:59.1851527+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:09:59.4749284+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:01:30.3275459+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:10:59.1851982+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:00:16.8650742+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:09:59.4749648+00:00"
 }

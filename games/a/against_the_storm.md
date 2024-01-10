@@ -18,8 +18,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 6.00% | ~1,237 |
 | Ominous Presence | 6.00% | ~1,237 |
 | Gathering Storm | 6.00% | ~1,237 |
-| Frosts | 5.00% | ~1,030 |
-| Land of Greed | 5.00% | ~1,030 |
+| Frosts | 5.00% | ~1,031 |
+| Land of Greed | 5.00% | ~1,031 |
 | Homesick | 4.00% | ~824 |
 | Fertile Meadows | 4.00% | ~824 |
 | Royal Outpost | 4.00% | ~824 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,610 (Ranked 154)  
+Progressed: 20,611 (Ranked 154)  
 Completed: 34 (0.16%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,15 +331,15 @@ Completed: 34 (0.16%) (Ranked 283)
 | 2024-01-07 | 20,428 | 34 |
 | 2024-01-08 | 20,508 | 34 |
 | 2024-01-09 | 20,595 | 34 |
-| 2024-01-10 | 20,610 | 34 |
+| 2024-01-10 | 20,611 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
-Sum: 3,364 (Ranked 177)  
+Sum: 3,365 (Ranked 177)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 452 |
-| This game is Relaxing | 448 |
+| This game is Relaxing | 449 |
 | This game is Great for Beginners | 443 |
 | This game is Extremely Fun | 420 |
 | This game is Highly Recommended | 406 |
@@ -631,3 +631,4 @@ Diff (max vs sum): 56
 | 2024-01-07 | 4.82 | - | 449 | 3,354 |
 | 2024-01-08 | 4.82 | - | 452 | 3,361 |
 | 2024-01-09 | 4.82 | - | 452 | 3,364 |
+| 2024-01-10 | 4.82 | - | 452 | 3,365 |

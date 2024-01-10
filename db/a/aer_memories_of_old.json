@@ -425,9 +425,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28366,
+  "EOS_Progressed": 28368,
   "EOS_Completed": 523,
-  "EOS_NewPlayers": 578,
+  "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -28955,6 +28955,11 @@
       "Time": "2024-01-10T03:04:23.9472975+00:00",
       "NumProgressed": 28366,
       "NumCompleted": 523
+    },
+    {
+      "Time": "2024-01-10T05:04:02.3754405+00:00",
+      "NumProgressed": 28368,
+      "NumCompleted": 523
     }
   ],
   "TotalAchievements": 20,
@@ -28982,7 +28987,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3971
+      "UsersEstimate": 3972
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -29030,7 +29035,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3971
+      "UsersEstimate": 3972
     },
     {
       "ID": "FOUND_ERIN",
@@ -29086,7 +29091,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 21558
+      "UsersEstimate": 21560
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -29125,15 +29130,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 28366,
+      "Progressed": 28368,
       "Completed": 523
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-04T06:57:48.8328887+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:04:40.2284088+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:04:02.3754401+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.2454847+00:00",
-  "LastUpdate_Ratings": "2024-01-10T04:02:34.8872949+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:04:40.2286077+00:00"
+  "LastUpdate_Ratings": "2024-01-10T05:00:33.4737192+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:04:02.3755864+00:00"
 }

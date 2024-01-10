@@ -1745,9 +1745,9 @@
       "ID": "ach_hit_tree_with_shovel",
       "SetID": "cmg602e",
       "Name": "Getting Started",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 60
     },
     {
       "ID": "ach_honk_horn",
@@ -2049,9 +2049,9 @@
       "ID": "ach_kill_pistol_with_pistol",
       "SetID": "bf10c8p",
       "Name": "Quick-Draw Pod",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 72
     },
     {
       "ID": "ach_kill_self_with_pumpkin",
@@ -2272,8 +2272,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2024-01-10T04:08:51.3729444+00:00",
+  "LastChanged_Achievements": "2024-01-10T05:08:26.7151489+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:00.2079543+00:00",
-  "LastUpdate_Ratings": "2024-01-10T03:59:28.3096332+00:00",
-  "LastUpdate_Achievements": "2024-01-10T04:08:51.3730232+00:00"
+  "LastUpdate_Ratings": "2024-01-10T04:58:54.4151756+00:00",
+  "LastUpdate_Achievements": "2024-01-10T05:08:26.7152238+00:00"
 }
