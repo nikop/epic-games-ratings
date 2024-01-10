@@ -6,8 +6,8 @@
   "Ranking_Popularity": 351,
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 139,
-  "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_Completed": 264,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1398,9 +1398,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33066,
+  "EOS_Progressed": 33072,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 706,
+  "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -29978,6 +29978,11 @@
       "Time": "2024-01-10T19:09:52.4686541+00:00",
       "NumProgressed": 33066,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2024-01-10T20:10:04.0708694+00:00",
+      "NumProgressed": 33072,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 22,
@@ -30013,7 +30018,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "1019",
@@ -30029,7 +30034,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "1021",
@@ -30037,7 +30042,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "1022",
@@ -30061,7 +30066,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2645
+      "UsersEstimate": 2646
     },
     {
       "ID": "1025",
@@ -30093,7 +30098,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5952
+      "UsersEstimate": 5953
     },
     {
       "ID": "1029",
@@ -30101,7 +30106,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2645
+      "UsersEstimate": 2646
     },
     {
       "ID": "1030",
@@ -30109,7 +30114,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6283
+      "UsersEstimate": 6284
     },
     {
       "ID": "1031",
@@ -30125,7 +30130,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13226
+      "UsersEstimate": 13229
     },
     {
       "ID": "1033",
@@ -30149,7 +30154,7 @@
       "Name": "Royal Fleet",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 3968
+      "UsersEstimate": 3969
     },
     {
       "ID": "1036",
@@ -30164,15 +30169,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33066,
+      "Progressed": 33072,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-09T20:57:01.7893219+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:09:52.4686533+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:10:04.070869+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:53.1129394+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:57:40.689921+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:09:52.4688667+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:57:50.2252948+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:10:04.0710685+00:00"
 }

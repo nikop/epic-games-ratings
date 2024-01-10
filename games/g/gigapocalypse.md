@@ -10,8 +10,8 @@
 | Who's A Good Boy | 71.00% | ~146 |
 | Power Up | 71.00% | ~146 |
 | Thick Skin | 69.00% | ~141 |
-| Math Wizard | 66.00% | ~135 |
-| Destroy Erase Improve | 66.00% | ~135 |
+| Math Wizard | 67.00% | ~137 |
+| Destroy Erase Improve | 67.00% | ~137 |
 | Power Overload | 63.00% | ~129 |
 | Quite A Snack | 60.00% | ~123 |
 | Impenetrable Skin | 56.00% | ~115 |
@@ -59,7 +59,7 @@
 | Hearty Meteor | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 205 (Ranked 429)  
-Completed: 1 (0.49%) (Ranked 224)  
+Completed: 1 (0.49%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

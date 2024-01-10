@@ -2,13 +2,13 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 179,
-  "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 521,
-  "Ranking_EOS_Progress": 174,
-  "Ranking_EOS_Completed": 279,
+  "Ranking_Rating": 166,
+  "Ranking_Popularity": 472,
+  "Ranking_PopularitySum": 520,
+  "Ranking_EOS_Progress": 173,
+  "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.73,
+  "Rating": 4.74,
   "RatingHistory": [
     {
       "Time": "2023-10-30T17:01:05.4334371+00:00",
@@ -393,23 +393,29 @@
       "Rating": 4.73,
       "NumberOfAwards": 44,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2024-01-10T20:00:42.7473433+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 45,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44,
-  "NumberOfAwardsMax": 44,
+  "NumberOfAwards": 45,
+  "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 44
+      "Count": 45
     }
   ],
-  "EOS_Progressed": 14510,
+  "EOS_Progressed": 14518,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 1482,
+  "EOS_NewPlayers": 1483,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9892,6 +9898,11 @@
       "Time": "2024-01-10T19:10:03.9335915+00:00",
       "NumProgressed": 14510,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-10T20:10:15.7506175+00:00",
+      "NumProgressed": 14518,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -9912,7 +9923,7 @@
       "Name": "Baby Steps",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 5804
+      "UsersEstimate": 5807
     },
     {
       "ID": "BeLikeWater",
@@ -9944,7 +9955,7 @@
       "Name": "Connection Lost",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 3337
+      "UsersEstimate": 3339
     },
     {
       "ID": "Eavesdropper",
@@ -9960,7 +9971,7 @@
       "Name": "Explosive Personality",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2902
+      "UsersEstimate": 2904
     },
     {
       "ID": "FasterThanLight",
@@ -9976,7 +9987,7 @@
       "Name": "First Time?",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 7835
+      "UsersEstimate": 7840
     },
     {
       "ID": "FuneralForTheDeath",
@@ -9984,7 +9995,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2033
     },
     {
       "ID": "GarbageMan",
@@ -10008,7 +10019,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 2902
+      "UsersEstimate": 2904
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -10048,7 +10059,7 @@
       "Name": "Nasty!",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4063
+      "UsersEstimate": 4065
     },
     {
       "ID": "NoMoreTotems",
@@ -10056,7 +10067,7 @@
       "Name": "No More Totems",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "NotLikeTheOthers",
@@ -10072,7 +10083,7 @@
       "Name": "One-Star Man",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "ScorchSquad",
@@ -10096,7 +10107,7 @@
       "Name": "The Old-School Way",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 3628
+      "UsersEstimate": 3630
     },
     {
       "ID": "TheQuarterback",
@@ -10104,7 +10115,7 @@
       "Name": "The Quarterback",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6094
+      "UsersEstimate": 6098
     },
     {
       "ID": "ThisIsDharma",
@@ -10112,7 +10123,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2176
+      "UsersEstimate": 2178
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -10120,7 +10131,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3047
+      "UsersEstimate": 3049
     },
     {
       "ID": "UnResurrected",
@@ -10128,7 +10139,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -10136,7 +10147,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2902
+      "UsersEstimate": 2904
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -10144,7 +10155,7 @@
       "Name": "Digestive Issues",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2176
+      "UsersEstimate": 2178
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -10160,7 +10171,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "k01101110",
@@ -10168,23 +10179,23 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14510,
+      "Progressed": 14518,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged": "2024-01-09T02:59:48.4530576+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:10:03.9335913+00:00",
+  "LastChanged": "2024-01-10T20:00:42.7473431+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:10:15.7506172+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:18.9626026+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:00:35.2195176+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:10:03.9336554+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:00:42.7473436+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:10:15.750714+00:00"
 }

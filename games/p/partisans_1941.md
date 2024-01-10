@@ -38,7 +38,7 @@ Number of Ratings: 98  (23.09.2022)
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,944 (Ranked 251)  
-Completed: 2 (0.10%) (Ranked 309)  
+Completed: 2 (0.10%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

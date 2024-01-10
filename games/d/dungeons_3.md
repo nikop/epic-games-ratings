@@ -6,45 +6,45 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~32,563 |
-| The Evilest Evil | 59.00% | ~27,446 |
-| Twistram is devastated | 58.00% | ~26,981 |
-| The Gehenna Stones | 50.00% | ~23,260 |
-| No one has to die today! | 47.00% | ~21,864 |
-| Death and destruction! | 46.00% | ~21,399 |
-| The Swamplanders from the swamplands | 44.00% | ~20,468 |
-| Rusty Steel | 41.00% | ~19,073 |
-| The One-Huge-Army-Building Evil | 40.00% | ~18,608 |
-| Braiiiiins! | 38.00% | ~17,677 |
-| The last burger | 37.00% | ~17,212 |
-| Hands off the Dungeonheart! | 36.00% | ~16,747 |
-| A trip on sea, what fun it can be | 34.00% | ~15,816 |
-| Damned good | 33.00% | ~15,351 |
-| Stock Market Crash | 31.00% | ~14,421 |
-| Factory farming | 31.00% | ~14,421 |
+| The Shadow strikes | 70.00% | ~32,565 |
+| The Evilest Evil | 59.00% | ~27,448 |
+| Twistram is devastated | 58.00% | ~26,983 |
+| The Gehenna Stones | 50.00% | ~23,261 |
+| No one has to die today! | 47.00% | ~21,865 |
+| Death and destruction! | 46.00% | ~21,400 |
+| The Swamplanders from the swamplands | 44.00% | ~20,470 |
+| Rusty Steel | 41.00% | ~19,074 |
+| The One-Huge-Army-Building Evil | 40.00% | ~18,609 |
+| Braiiiiins! | 38.00% | ~17,678 |
+| The last burger | 37.00% | ~17,213 |
+| Hands off the Dungeonheart! | 36.00% | ~16,748 |
+| A trip on sea, what fun it can be | 34.00% | ~15,817 |
+| Damned good | 33.00% | ~15,352 |
+| Stock Market Crash | 31.00% | ~14,422 |
+| Factory farming | 31.00% | ~14,422 |
 | Shadow hunter | 29.00% | ~13,491 |
 | Not-So-Overproud | 29.00% | ~13,491 |
-| For a handfull of Catapults | 28.00% | ~13,025 |
-| Thirst quencher | 27.00% | ~12,560 |
-| Ogre Solo! | 27.00% | ~12,560 |
-| Destroy the thing | 26.00% | ~12,095 |
-| Tide Master | 26.00% | ~12,095 |
+| For a handfull of Catapults | 28.00% | ~13,026 |
+| Thirst quencher | 27.00% | ~12,561 |
+| Ogre Solo! | 27.00% | ~12,561 |
+| Destroy the thing | 26.00% | ~12,096 |
+| Tide Master | 26.00% | ~12,096 |
 | Difficult family relationships | 25.00% | ~11,630 |
 | MASS-O-BOT | 24.00% | ~11,165 |
 | Prepare the grave | 24.00% | ~11,165 |
 | Angel of Fire | 24.00% | ~11,165 |
-| Where there is Light, there is Shadow | 23.00% | ~10,699 |
-| At the foot of Mount Destiny | 22.00% | ~10,234 |
-| The Force disturbed | 21.00% | ~9,769 |
+| Where there is Light, there is Shadow | 23.00% | ~10,700 |
+| At the foot of Mount Destiny | 22.00% | ~10,235 |
+| The Force disturbed | 21.00% | ~9,770 |
 | The Victorious Evil | 20.00% | ~9,304 |
 | Chorus of damnation | 19.00% | ~8,839 |
 | We don’t have time! | 19.00% | ~8,839 |
-| The Stones’ Power | 18.00% | ~8,373 |
-| Flat as a pancake | 17.00% | ~7,908 |
-| Lifeguard | 17.00% | ~7,908 |
+| The Stones’ Power | 18.00% | ~8,374 |
+| Flat as a pancake | 17.00% | ~7,909 |
+| Lifeguard | 17.00% | ~7,909 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~6,978 |
-| This is fun, I’m going to keep doing this! | 12.00% | ~5,582 |
-| Then let them eat cake! | 12.00% | ~5,582 |
+| This is fun, I’m going to keep doing this! | 12.00% | ~5,583 |
+| Then let them eat cake! | 12.00% | ~5,583 |
 | The White Knight | 10.00% | ~4,652 |
 | Please, no interruptions! | 10.00% | ~4,652 |
 | Use the terrain | 9.00% | ~4,187 |
@@ -54,7 +54,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Ignore The Level Designer’s Plan | 8.00% | ~3,722 |
 | Can’t stand to see an Ogre bleed | 8.00% | ~3,722 |
 | Lifesaver | 8.00% | ~3,722 |
-| Hearts are trump | 7.00% | ~3,256 |
+| Hearts are trump | 7.00% | ~3,257 |
 | Spawner Killer | 6.00% | ~2,791 |
 | A little something extra | 6.00% | ~2,791 |
 | The Benevolent Evil | 6.00% | ~2,791 |
@@ -67,8 +67,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~930 |
 | Sacrifices! | 2.00% | ~930 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,519 (Ranked 127)  
-Completed: 372 (0.80%) (Ranked 189)  
+Progressed: 46,522 (Ranked 127)  
+Completed: 372 (0.80%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -332,7 +332,7 @@ Completed: 372 (0.80%) (Ranked 189)
 | 2024-01-07 | 46,283 | 369 |
 | 2024-01-08 | 46,355 | 370 |
 | 2024-01-09 | 46,458 | 371 |
-| 2024-01-10 | 46,519 | 372 |
+| 2024-01-10 | 46,522 | 372 |
 ## Awards
 Max (Great for Beginners): 398  (Ranked 241)  
 Sum: 2,848 (Ranked 188)  

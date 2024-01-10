@@ -4,8 +4,8 @@
   "ProductSlug": "hide-and-seek-9e0912",
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-11-17T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -27,7 +27,7 @@
   "EOS_Progressed": 118,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 11,
-  "EOS_NewCompleters": 4,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 27.12,
   "EosHistory": [
     {
@@ -572,9 +572,9 @@
       "ID": "ACHIEVEMENT_2",
       "SetID": "dhh8kbc",
       "Name": "Seek",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 175,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -619,8 +619,8 @@
   ],
   "FirstSeen": "2023-11-18T09:58:40.5450132+00:00",
   "FirstSeenAchievements": "2023-10-27T08:03:12.3312996+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:04:15.2685832+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:04:30.4748244+00:00",
   "LastUpdate_AppInfo": "2024-01-05T14:56:57.5230498+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:59:45.2349422+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:04:15.268593+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:59:55.8200467+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:04:30.474842+00:00"
 }

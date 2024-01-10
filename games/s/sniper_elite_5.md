@@ -15,9 +15,9 @@ Rating: 4.47 (Ranked 666)
 | Resourceful | 28.00% | ~1,192 |
 | Target America | 28.00% | ~1,192 |
 | The Kraken Sleeps | 25.00% | ~1,064 |
+| Organ Grinder | 24.00% | ~1,022 |
 | As Quiet as a Mouse | 24.00% | ~1,022 |
 | Liberté | 23.00% | ~979 |
-| Organ Grinder | 23.00% | ~979 |
 | Sharpshooter | 23.00% | ~979 |
 | Gunslinger | 19.00% | ~809 |
 | Explosive Efficiency | 19.00% | ~809 |
@@ -78,7 +78,7 @@ Rating: 4.47 (Ranked 666)
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,258 (Ranked 210)  
-Completed: 11 (0.26%) (Ranked 263)  
+Completed: 11 (0.26%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -343,8 +343,8 @@ Completed: 11 (0.26%) (Ranked 263)
 | 2024-01-10 | 4,258 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 529)  
-Sum: 29 (Ranked 546)  
-Diff (max vs sum): -17  
+Sum: 29 (Ranked 547)  
+Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 29 |

@@ -1,79 +1,79 @@
 # Alan Wake 2
 [Store](https://store.epicgames.com/en-US/p/alan-wake-2)  
 [View Rawdata](../../db/a/alan_wake_2.json)  
-Rating: 4.81 (Ranked 82)  
+Rating: 4.81 (Ranked 81)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hunting Season | 94.00% | ~349,679 |
-| Nightmare Territory | 91.00% | ~338,519 |
-| Not the Last | 82.00% | ~305,039 |
-| Somebody's Home | 75.00% | ~278,999 |
-| Coffee Thermos | 71.00% | ~264,119 |
-| Secret Stashes | 71.00% | ~264,119 |
-| Grew Bigger | 69.00% | ~256,679 |
-| Chased the Source | 69.00% | ~256,679 |
-| Darkness Coiled | 69.00% | ~256,679 |
-| Felt Good | 68.00% | ~252,959 |
-| Lawman | 67.00% | ~249,239 |
-| Into the Overlap | 67.00% | ~249,239 |
-| Bring It | 64.00% | ~238,079 |
-| Talk Show | 61.00% | ~226,919 |
-| Find the Light | 59.00% | ~219,479 |
-| Aimed Ahead | 59.00% | ~219,479 |
-| Carry his Words | 56.00% | ~208,319 |
-| Storm Cloud | 51.00% | ~189,719 |
-| New York City | 51.00% | ~189,719 |
-| Return | 50.00% | ~186,000 |
-| The Other Side | 50.00% | ~186,000 |
-| Shining in the Night | 46.00% | ~171,120 |
-| Growing Stronger | 45.00% | ~167,400 |
-| Finding a Way | 44.00% | ~163,680 |
-| Filling the Shape | 43.00% | ~159,960 |
-| Greatest Hits | 42.00% | ~156,240 |
-| This is the Moment | 42.00% | ~156,240 |
-| Stop the Monster | 42.00% | ~156,240 |
-| Lights Shining | 41.00% | ~152,520 |
-| Back in Watery | 41.00% | ~152,520 |
-| All His Life | 41.00% | ~152,520 |
-| Yippee Ki-yay | 40.00% | ~148,800 |
-| Bright Falls' Finest | 40.00% | ~148,800 |
-| Escape its Gravity | 39.00% | ~145,080 |
-| We Watch in the Night | 38.00% | ~141,360 |
-| In a Fancy Hotel | 35.00% | ~130,200 |
-| In One Go | 35.00% | ~130,200 |
-| Cut Short | 34.00% | ~126,480 |
-| Girl in Love | 33.00% | ~122,760 |
-| The Old Gods | 33.00% | ~122,760 |
-| Told and Retold | 33.00% | ~122,760 |
-| Behind the Masks | 32.00% | ~119,040 |
-| Seeing Double | 31.00% | ~115,320 |
-| Strange Reality | 30.00% | ~111,600 |
-| Stunning Vistas | 30.00% | ~111,600 |
-| The Cult of the Word | 30.00% | ~111,600 |
-| Stop Right There | 29.00% | ~107,880 |
-| Filled with Rage | 28.00% | ~104,160 |
-| Rock n' Roll, Baby | 28.00% | ~104,160 |
-| The Final Deerfest | 28.00% | ~104,160 |
-| His Way Out | 28.00% | ~104,160 |
-| Ready for a Fight | 27.00% | ~100,440 |
-| The Story Come True | 27.00% | ~100,440 |
-| End of the Road | 27.00% | ~100,440 |
-| Gone for Good | 24.00% | ~89,280 |
-| The Trail of the Writer | 22.00% | ~81,840 |
-| All Accounted For | 21.00% | ~78,120 |
-| Back to Life | 18.00% | ~66,960 |
-| The Koskela Brothers | 16.00% | ~59,520 |
-| All Smiles | 12.00% | ~44,640 |
-| The Nice Things in Life | 10.00% | ~37,200 |
-| I'll Find You | 8.00% | ~29,760 |
-| Shift in Reality | 8.00% | ~29,760 |
-| Hidden by the Trees | 7.00% | ~26,040 |
-| Coffee-Themed Fun | 7.00% | ~26,040 |
-| Rustic Charm | 7.00% | ~26,040 |
+| Hunting Season | 94.00% | ~349,809 |
+| Nightmare Territory | 91.00% | ~338,645 |
+| Not the Last | 82.00% | ~305,152 |
+| Somebody's Home | 75.00% | ~279,103 |
+| Coffee Thermos | 71.00% | ~264,217 |
+| Secret Stashes | 71.00% | ~264,217 |
+| Grew Bigger | 69.00% | ~256,775 |
+| Chased the Source | 69.00% | ~256,775 |
+| Darkness Coiled | 69.00% | ~256,775 |
+| Felt Good | 68.00% | ~253,053 |
+| Lawman | 67.00% | ~249,332 |
+| Into the Overlap | 67.00% | ~249,332 |
+| Bring It | 64.00% | ~238,168 |
+| Talk Show | 61.00% | ~227,004 |
+| Find the Light | 59.00% | ~219,561 |
+| Aimed Ahead | 59.00% | ~219,561 |
+| Carry his Words | 56.00% | ~208,397 |
+| Storm Cloud | 51.00% | ~189,790 |
+| New York City | 51.00% | ~189,790 |
+| Return | 50.00% | ~186,068 |
+| The Other Side | 50.00% | ~186,068 |
+| Shining in the Night | 46.00% | ~171,183 |
+| Growing Stronger | 45.00% | ~167,462 |
+| Finding a Way | 44.00% | ~163,740 |
+| Filling the Shape | 43.00% | ~160,019 |
+| Greatest Hits | 42.00% | ~156,298 |
+| This is the Moment | 42.00% | ~156,298 |
+| Stop the Monster | 42.00% | ~156,298 |
+| Lights Shining | 41.00% | ~152,576 |
+| Back in Watery | 41.00% | ~152,576 |
+| All His Life | 41.00% | ~152,576 |
+| Yippee Ki-yay | 40.00% | ~148,855 |
+| Bright Falls' Finest | 40.00% | ~148,855 |
+| Escape its Gravity | 39.00% | ~145,133 |
+| We Watch in the Night | 38.00% | ~141,412 |
+| In a Fancy Hotel | 35.00% | ~130,248 |
+| In One Go | 35.00% | ~130,248 |
+| Cut Short | 34.00% | ~126,527 |
+| Girl in Love | 33.00% | ~122,805 |
+| The Old Gods | 33.00% | ~122,805 |
+| Told and Retold | 33.00% | ~122,805 |
+| Behind the Masks | 32.00% | ~119,084 |
+| Seeing Double | 31.00% | ~115,362 |
+| Strange Reality | 30.00% | ~111,641 |
+| Stunning Vistas | 30.00% | ~111,641 |
+| The Cult of the Word | 30.00% | ~111,641 |
+| Stop Right There | 29.00% | ~107,920 |
+| Filled with Rage | 28.00% | ~104,198 |
+| Rock n' Roll, Baby | 28.00% | ~104,198 |
+| The Final Deerfest | 28.00% | ~104,198 |
+| His Way Out | 28.00% | ~104,198 |
+| Ready for a Fight | 27.00% | ~100,477 |
+| The Story Come True | 27.00% | ~100,477 |
+| End of the Road | 27.00% | ~100,477 |
+| Gone for Good | 24.00% | ~89,313 |
+| The Trail of the Writer | 22.00% | ~81,870 |
+| All Accounted For | 21.00% | ~78,149 |
+| Back to Life | 18.00% | ~66,985 |
+| The Koskela Brothers | 16.00% | ~59,542 |
+| All Smiles | 12.00% | ~44,656 |
+| The Nice Things in Life | 10.00% | ~37,214 |
+| I'll Find You | 8.00% | ~29,771 |
+| Shift in Reality | 8.00% | ~29,771 |
+| Hidden by the Trees | 7.00% | ~26,050 |
+| Coffee-Themed Fun | 7.00% | ~26,050 |
+| Rustic Charm | 7.00% | ~26,050 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 371,999 (Ranked 56)  
-Completed: 6,167 (1.66%) (Ranked 146)  
+Progressed: 372,137 (Ranked 56)  
+Completed: 6,170 (1.66%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -161,7 +161,7 @@ Completed: 6,167 (1.66%) (Ranked 146)
 | 2024-01-07 | 365,301 | 5,954 |
 | 2024-01-08 | 367,639 | 6,045 |
 | 2024-01-09 | 369,970 | 6,112 |
-| 2024-01-10 | 371,999 | 6,167 |
+| 2024-01-10 | 372,137 | 6,170 |
 ## Awards
 Max (Diverse Characters): 694  (Ranked 196)  
 Sum: 4,214 (Ranked 163)  

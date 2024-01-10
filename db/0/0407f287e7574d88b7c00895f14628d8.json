@@ -3,8 +3,8 @@
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 428,
-  "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_Completed": 396,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 209,
+  "EOS_Progressed": 210,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -864,6 +864,11 @@
       "Time": "2024-01-10T16:06:42.0643536+00:00",
       "NumProgressed": 209,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T20:06:02.6726838+00:00",
+      "NumProgressed": 210,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -908,7 +913,7 @@
       "Name": "Clear Road",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "dl2",
@@ -956,7 +961,7 @@
       "Name": "City Center",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "fw2",
@@ -980,7 +985,7 @@
       "Name": "Skilled Workers",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "g2",
@@ -1074,9 +1079,9 @@
       "ID": "jz1",
       "SetID": "b1ggf28",
       "Name": "Builder",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "jz2",
@@ -1084,7 +1089,7 @@
       "Name": "Architect",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "jz3",
@@ -1283,14 +1288,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 209,
+      "Progressed": 210,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:05:47.4823822+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:06:02.6726835+00:00",
   "LastUpdate_AppInfo": "2024-01-10T06:57:05.6487143+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:03:09.8423373+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:05:47.4824219+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:03:25.0820054+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:06:02.6727522+00:00"
 }

@@ -36,6 +36,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | The Bestiary | 0.80% | ~1,942 |
 | Shootout | 0.80% | ~1,942 |
 | Toxic | 0.80% | ~1,942 |
+| Consecutive Curses | 0.70% | ~1,699 |
 | Who To Trust? | 0.70% | ~1,699 |
 | Walk It Off | 0.70% | ~1,699 |
 | Destroy Your Fears | 0.70% | ~1,699 |
@@ -43,7 +44,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Walker | 0.70% | ~1,699 |
 | Flesh Wound | 0.70% | ~1,699 |
 | Shapeshifting | 0.70% | ~1,699 |
-| Consecutive Curses | 0.60% | ~1,456 |
 | Just Chilling | 0.60% | ~1,456 |
 | Save Our Souls | 0.60% | ~1,456 |
 | Stop Hitting Yourself | 0.60% | ~1,456 |
@@ -145,8 +145,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,734 (Ranked 73)  
-Completed: 305 (0.13%) (Ranked 298)  
+Progressed: 242,735 (Ranked 73)  
+Completed: 305 (0.13%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -410,10 +410,10 @@ Completed: 305 (0.13%) (Ranked 298)
 | 2024-01-07 | 242,574 | 304 |
 | 2024-01-08 | 242,637 | 304 |
 | 2024-01-09 | 242,696 | 304 |
-| 2024-01-10 | 242,734 | 305 |
+| 2024-01-10 | 242,735 | 305 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 138)  
-Sum: 11,790 (Ranked 89)  
+Sum: 11,791 (Ranked 89)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -424,7 +424,7 @@ Diff (max vs sum): 49
 | This game is Extremely Fun | 1,425 |
 | This game is Highly Recommended | 1,397 |
 | This game has Amazing Storytelling | 1,334 |
-| This game has Amazing Characters | 1,238 |
+| This game has Amazing Characters | 1,239 |
 | This game has Unique Visuals | 1,237 |
 | This game has Obsessive Gameplay | 1,088 |
 | This game has a Creative Community | 749 |
@@ -683,3 +683,4 @@ Diff (max vs sum): 49
 | 2024-01-04 | 4.58 | - | 1,514 | 11,786 |
 | 2024-01-06 | 4.58 | - | 1,514 | 11,788 |
 | 2024-01-09 | 4.58 | - | 1,514 | 11,790 |
+| 2024-01-10 | 4.58 | - | 1,514 | 11,791 |

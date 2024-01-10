@@ -3,7 +3,7 @@
   "Name": "Alex Kidd in Miracle World DX",
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 362,
-  "Ranking_EOS_Completed": 181,
+  "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 439,
+  "EOS_Progressed": 440,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -1014,6 +1014,11 @@
       "Time": "2024-01-10T18:06:35.1209438+00:00",
       "NumProgressed": 439,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-10T20:06:43.9139841+00:00",
+      "NumProgressed": 440,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -1119,9 +1124,9 @@
       "ID": "OX_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Wild Ox",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 180
+      "UsersEstimate": 176
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -1129,7 +1134,7 @@
       "Name": "Third Commander",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "PET_DOG",
@@ -1152,7 +1157,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 439,
+      "Progressed": 440,
       "Completed": 4
     }
   ],
@@ -1160,8 +1165,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:06:29.2314879+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:06:43.9139824+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:23.883052+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:00:23.7316435+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:06:29.2315042+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:00:31.3792567+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:06:43.9140012+00:00"
 }

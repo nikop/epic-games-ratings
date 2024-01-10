@@ -3,7 +3,7 @@
   "Name": "Whispers of a Machine",
   "ProductSlug": "whispers-of-a-machine",
   "Ranking_EOS_Progress": 825,
-  "Ranking_EOS_Completed": 395,
+  "Ranking_EOS_Completed": 396,
   "Ranking_EOS_NewPlayers": 579,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:25.0517771+00:00",
   "LastChanged": "2023-03-31T05:58:25.0517773+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.7292344+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:59:57.8325399+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:04:12.063837+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:00:06.9266148+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:04:27.1914548+00:00"
 }

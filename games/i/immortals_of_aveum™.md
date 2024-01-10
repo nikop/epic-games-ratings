@@ -6,10 +6,10 @@ Rating: 4.19 (Ranked 974)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 88.00% | ~2,878 |
-| Battlefields Have Memories | 81.00% | ~2,649 |
-| Enlisted | 74.00% | ~2,420 |
-| Maybe Engage a Little | 69.00% | ~2,256 |
-| No More Names | 52.00% | ~1,700 |
+| Battlefields Have Memories | 81.00% | ~2,650 |
+| Enlisted | 74.00% | ~2,421 |
+| Maybe Engage a Little | 69.00% | ~2,257 |
+| No More Names | 52.00% | ~1,701 |
 | Initiate | 38.00% | ~1,243 |
 | Thrada-Kul | 34.00% | ~1,112 |
 | Gravity-Challenged Rocks | 28.00% | ~916 |
@@ -20,8 +20,8 @@ Rating: 4.19 (Ranked 974)
 | Control is an Illusion | 20.00% | ~654 |
 | The Means to Save It | 17.00% | ~556 |
 | Resilience to Sin | 16.00% | ~523 |
-| A Familiar Nest | 15.00% | ~490 |
-| Periapt Alizarin | 15.00% | ~490 |
+| A Familiar Nest | 15.00% | ~491 |
+| Periapt Alizarin | 15.00% | ~491 |
 | Geas Aristeya | 14.00% | ~458 |
 | A Perfect Cycle | 13.00% | ~425 |
 | Recruit | 13.00% | ~425 |
@@ -53,8 +53,8 @@ Rating: 4.19 (Ranked 974)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,270 (Ranked 227)  
-Completed: 4 (0.12%) (Ranked 301)  
+Progressed: 3,271 (Ranked 227)  
+Completed: 4 (0.12%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -157,7 +157,7 @@ Completed: 4 (0.12%) (Ranked 301)
 | 2024-01-07 | 3,056 | 4 |
 | 2024-01-08 | 3,129 | 4 |
 | 2024-01-09 | 3,204 | 4 |
-| 2024-01-10 | 3,270 | 4 |
+| 2024-01-10 | 3,271 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

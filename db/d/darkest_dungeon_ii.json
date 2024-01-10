@@ -6,8 +6,8 @@
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
-  "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_Completed": 396,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10716,9 +10716,9 @@
       "Count": 1088
     }
   ],
-  "EOS_Progressed": 132376,
+  "EOS_Progressed": 132383,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 868,
+  "EOS_NewPlayers": 862,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39246,6 +39246,11 @@
       "Time": "2024-01-10T19:09:52.0376116+00:00",
       "NumProgressed": 132376,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-10T20:10:03.7273101+00:00",
+      "NumProgressed": 132383,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39609,7 +39614,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9266
+      "UsersEstimate": 9267
     },
     {
       "ID": "hero_story_complete_all",
@@ -39793,7 +39798,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "combat_kill_collector",
@@ -39801,7 +39806,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39809,7 +39814,7 @@
       "Name": "These Boots Are Made For Kickin\u0027",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "combat_kill_warlord_crusader",
@@ -39817,7 +39822,7 @@
       "Name": "No Mercy",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -39825,7 +39830,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -39849,7 +39854,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "quest_complete_crusader",
@@ -39873,7 +39878,7 @@
       "Name": "For Old Time\u0027 Sake",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -39888,21 +39893,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132376,
+      "Progressed": 132383,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7245,
+      "Progressed": 7252,
       "Completed": 824
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-10T07:59:48.2790961+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:09:52.0376112+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:10:03.7273097+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:59:21.9076234+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:09:52.0377977+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:59:30.5435741+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:10:03.7275227+00:00"
 }

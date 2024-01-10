@@ -23,9 +23,9 @@ Rating: 4.56 (Ranked 510)
 | Ogre friend | 19.00% | ~36 |
 | Archaeologist | 18.00% | ~34 |
 | Family man | 17.00% | ~32 |
+| Little hero | 17.00% | ~32 |
 | Sidelined | 17.00% | ~32 |
 | Wise man | 16.00% | ~30 |
-| Little hero | 16.00% | ~30 |
 | Hard worker | 16.00% | ~30 |
 | The fourth triplet | 16.00% | ~30 |
 | Fence | 16.00% | ~30 |
@@ -57,7 +57,7 @@ Rating: 4.56 (Ranked 510)
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 187 (Ranked 435)  
-Completed: 0 (0.00%) (Ranked 395)  
+Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

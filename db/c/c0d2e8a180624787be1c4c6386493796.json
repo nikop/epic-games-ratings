@@ -3,8 +3,8 @@
   "Name": "Kingdom Rush Vengeance",
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 396,
-  "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -1444,9 +1444,9 @@
       "ID": "KR4_ACHIEVEMENT_BLACKBURN_RETURNS",
       "SetID": "caeik3h",
       "Name": "Blackburn Returns",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "KR4_ACHIEVEMENT_BONEFLINGERS",
@@ -1716,9 +1716,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_DWARF_ENGINEERS",
       "SetID": "caeik3h",
       "Name": "Can\u0027t Touch This",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 256
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_EASY",
@@ -2033,8 +2033,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:08:23.5806604+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:08:36.8674701+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.7688835+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:00:24.2642097+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:08:23.5807287+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:00:32.0092168+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:08:36.8675376+00:00"
 }

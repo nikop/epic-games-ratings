@@ -1,15 +1,15 @@
 # Detroit: Become Human
 [Store](https://store.epicgames.com/en-US/p/detroit-become-human)  
 [View Rawdata](../../db/d/detroit__become_human.json)  
-Rating: 4.86 (Ranked 30)  
+Rating: 4.87 (Ranked 24)  
 Number of Ratings: 3,910  (23.09.2022)  
 ## Awards
-Max (Impact the Story): 1,564  (Ranked 137)  
-Sum: 1,750 (Ranked 226)  
+Max (Impact the Story): 1,566  (Ranked 137)  
+Sum: 1,752 (Ranked 226)  
 Diff (max vs sum): -89  
 | Award | Count |
 | ----- | ----- |
-| In this game, your choices Impact the Story | 1,564 |
+| In this game, your choices Impact the Story | 1,566 |
 | This game has Diverse Characters | 26 |
 | This game has Quickly Understood Controls | 25 |
 | This game has Amazing Characters | 24 |
@@ -216,3 +216,4 @@ Diff (max vs sum): -89
 | 2024-01-07 | 4.86 | - | 1,560 | 1,746 |
 | 2024-01-08 | 4.86 | - | 1,561 | 1,747 |
 | 2024-01-09 | 4.86 | - | 1,564 | 1,750 |
+| 2024-01-10 | 4.87 | - | 1,566 | 1,752 |

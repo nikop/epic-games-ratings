@@ -3,8 +3,8 @@
   "Name": "Night Book",
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 395,
-  "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_Completed": 133,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -761,9 +761,9 @@
       "ID": "no_one_is_safe",
       "SetID": "a3kkelb",
       "Name": "No One Is Safe",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 205
     },
     {
       "ID": "off_his_meds",
@@ -850,8 +850,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:05:51.980703+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:06:06.8934232+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:52.8888113+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:59:21.9716686+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:05:51.980717+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:59:30.605254+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:06:06.8934435+00:00"
 }

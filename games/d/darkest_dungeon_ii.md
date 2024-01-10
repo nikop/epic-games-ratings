@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~942 |
+| Malpractice Assurance | 13.00% | ~943 |
 | Lost and Found | 8.00% | ~580 |
-| Autodidact | 7.00% | ~9,266 |
-| This guy... again? | 7.00% | ~507 |
+| Autodidact | 7.00% | ~9,267 |
+| This guy... again? | 7.00% | ~508 |
 | Serenity Now! | 6.00% | ~7,943 |
 | This Belongs in a Museum | 6.00% | ~7,943 |
 | Creep and Sleep | 6.00% | ~7,943 |
@@ -26,7 +26,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 5.00% | ~6,619 |
 | A Place to Lay Your Head | 5.00% | ~6,619 |
 | FNG | 5.00% | ~6,619 |
-| Bloody Graduation | 5.00% | ~362 |
+| Bloody Graduation | 5.00% | ~363 |
 | Spelunker | 4.00% | ~5,295 |
 | Merry Time | 4.00% | ~5,295 |
 | Harvest Festival | 4.00% | ~5,295 |
@@ -65,9 +65,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Shrine of Reflection | 1.00% | ~1,324 |
 | Triage | 1.00% | ~1,324 |
 | Body of Work | 1.00% | ~1,324 |
-| No Mercy | 1.00% | ~72 |
-| Slap on the Wrist | 1.00% | ~72 |
-| For Old Time' Sake | 1.00% | ~72 |
+| No Mercy | 1.00% | ~73 |
+| Slap on the Wrist | 1.00% | ~73 |
+| For Old Time' Sake | 1.00% | ~73 |
 | Et Tu, Riposte? | 0.90% | ~65 |
 | The World As It Was | 0.70% | ~927 |
 | A Life Well Lived | 0.60% | ~794 |
@@ -79,15 +79,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | Maître De La Lame | 0.30% | ~22 |
 | Circle of Life | 0.20% | ~265 |
 | Grand Slam | 0.20% | ~265 |
-| These Boots Are Made For Kickin' | 0.20% | ~14 |
+| These Boots Are Made For Kickin' | 0.20% | ~15 |
 | Loop Year | 0.10% | ~132 |
 | No Gravestone Left Unturned | 0.10% | ~132 |
 | 20,000 Leagues Above the Sea | 0.10% | ~132 |
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,376 (Ranked 91)  
-Completed: 4 (0.00%) (Ranked 395)  
+Progressed: 132,383 (Ranked 91)  
+Completed: 4 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -341,7 +341,7 @@ Completed: 4 (0.00%) (Ranked 395)
 | 2024-01-07 | 132,108 | 3 |
 | 2024-01-08 | 132,215 | 3 |
 | 2024-01-09 | 132,315 | 3 |
-| 2024-01-10 | 132,376 | 4 |
+| 2024-01-10 | 132,383 | 4 |
 ## Awards
 Max (Character Customization): 8,000  (Ranked 50)  
 Sum: 21,576 (Ranked 58)  

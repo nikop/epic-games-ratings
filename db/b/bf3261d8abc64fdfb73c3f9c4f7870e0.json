@@ -3,8 +3,8 @@
   "Name": "Ash of Gods: Redemption",
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
   "Ranking_EOS_Progress": 479,
-  "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_Completed": 396,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
@@ -710,9 +710,9 @@
       "ID": "achievement_egoist",
       "SetID": "bngbnfb",
       "Name": "Egomaniac",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_feng_is_my_choise",
@@ -782,9 +782,9 @@
       "ID": "achievement_hardcore_ursus",
       "SetID": "bngbnfb",
       "Name": "Tin man",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_heartless",
@@ -806,9 +806,9 @@
       "ID": "achievement_kill_the_death",
       "SetID": "bngbnfb",
       "Name": "Defeater of death",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_kriger_alive",
@@ -1021,8 +1021,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:09:27.9315544+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:09:40.1662501+00:00",
   "LastUpdate_AppInfo": "2024-01-10T15:57:10.9159831+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:00:54.9170775+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:09:27.931587+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:03:11.3338757+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:09:40.1662922+00:00"
 }

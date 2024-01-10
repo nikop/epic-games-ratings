@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 227,
-  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
@@ -433,9 +433,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3270,
+  "EOS_Progressed": 3271,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 667,
+  "EOS_NewPlayers": 663,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5123,6 +5123,11 @@
       "Time": "2024-01-10T19:10:00.2697697+00:00",
       "NumProgressed": 3270,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-10T20:10:12.2931418+00:00",
+      "NumProgressed": 3271,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5167,7 +5172,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "achievement_14",
@@ -5223,7 +5228,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "achievement_20",
@@ -5279,7 +5284,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2257
     },
     {
       "ID": "achievement_36",
@@ -5311,7 +5316,7 @@
       "Name": "No More Names",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "achievement_41",
@@ -5351,7 +5356,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "achievement_46",
@@ -5367,7 +5372,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2420
+      "UsersEstimate": 2421
     },
     {
       "ID": "achievement_49",
@@ -5510,7 +5515,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3270,
+      "Progressed": 3271,
       "Completed": 4
     }
   ],
@@ -5518,8 +5523,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-07T18:57:10.211335+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:10:00.2697693+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:10:12.2931416+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8440656+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:58:40.5045049+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:10:00.2698293+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:58:51.7006316+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:10:12.2931966+00:00"
 }

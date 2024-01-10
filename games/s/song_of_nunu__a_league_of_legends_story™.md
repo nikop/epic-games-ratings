@@ -13,8 +13,8 @@ Rating: 4.59 (Ranked 452)
 | He's Famous! | 65.00% | ~989 |
 | Cutie Poro | 65.00% | ~989 |
 | Krugmazing | 64.00% | ~974 |
+| The Fire Below the Mountain | 61.00% | ~928 |
 | Moneyball | 60.00% | ~913 |
-| The Fire Below the Mountain | 60.00% | ~913 |
 | Iceborn | 55.00% | ~837 |
 | No Bites | 54.00% | ~822 |
 | Tear of Freedom | 52.00% | ~791 |
@@ -51,7 +51,7 @@ Rating: 4.59 (Ranked 452)
 | Sneaky Notai | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,522 (Ranked 266)  
-Completed: 9 (0.59%) (Ranked 208)  
+Completed: 9 (0.59%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

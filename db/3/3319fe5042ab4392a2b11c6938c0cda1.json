@@ -2,8 +2,8 @@
   "ID": "3319fe5042ab4392a2b11c6938c0cda1",
   "Name": "Thief",
   "ProductSlug": "thief-5bb95f",
-  "Ranking_EOS_Progress": 452,
-  "Ranking_EOS_Completed": 395,
+  "Ranking_EOS_Progress": 451,
+  "Ranking_EOS_Completed": 396,
   "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 160,
+  "EOS_Progressed": 161,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -709,6 +709,11 @@
       "Time": "2024-01-10T07:04:53.9357192+00:00",
       "NumProgressed": 160,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T20:05:22.5050596+00:00",
+      "NumProgressed": 161,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.6694863+00:00",
@@ -799,9 +804,9 @@
       "ID": "NEW_ACHIEVEMENT_1_18",
       "SetID": "ae95dh3",
       "Name": "Happy Birthday",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -911,9 +916,9 @@
       "ID": "NEW_ACHIEVEMENT_1_30",
       "SetID": "ae95dh3",
       "Name": "Dirty Secrets",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_31",
@@ -975,9 +980,9 @@
       "ID": "NEW_ACHIEVEMENT_2_0",
       "SetID": "ae95dh3",
       "Name": "The Forsaken",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -991,9 +996,9 @@
       "ID": "NEW_ACHIEVEMENT_2_2",
       "SetID": "ae95dh3",
       "Name": "The Hidden City",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -1016,14 +1021,14 @@
     {
       "ID": "ae95dh3",
       "IsBase": true,
-      "Progressed": 160,
+      "Progressed": 161,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:05:08.2822578+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:05:22.5050593+00:00",
   "LastUpdate_AppInfo": "2024-01-10T17:57:06.492546+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:00:21.8286478+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:05:08.2822857+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:00:29.2646067+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:05:22.5050921+00:00"
 }

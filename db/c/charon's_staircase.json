@@ -2,9 +2,9 @@
   "ID": "0702e42d70eb4d8fbb9293e332047474",
   "Name": "Charon\u0027s Staircase",
   "ProductSlug": "charons-staircase-b2d05f",
-  "Ranking_EOS_Progress": 507,
-  "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_Progress": 505,
+  "Ranking_EOS_Completed": 100,
+  "Ranking_EOS_NewPlayers": 540,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-28T07:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 86,
+  "EOS_Progressed": 87,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.49,
+  "EOS_Completed_Percentage": 3.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.3534175+00:00",
@@ -135,6 +135,11 @@
       "Time": "2023-12-31T23:09:39.9280344+00:00",
       "NumProgressed": 86,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-10T20:09:10.949939+00:00",
+      "NumProgressed": 87,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 20,
@@ -144,7 +149,7 @@
       "ID": "ACH_1",
       "SetID": "1g3d1lg",
       "Name": "Seth\u0027s office",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 35,
       "UsersEstimate": 49
     },
@@ -152,7 +157,7 @@
       "ID": "ACH_10",
       "SetID": "1g3d1lg",
       "Name": "First document retrieved",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 35,
       "UsersEstimate": 42
     },
@@ -184,7 +189,7 @@
       "ID": "ACH_14",
       "SetID": "1g3d1lg",
       "Name": "Agatha\u0027s favourite song",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 35,
       "UsersEstimate": 30
     },
@@ -192,7 +197,7 @@
       "ID": "ACH_15",
       "SetID": "1g3d1lg",
       "Name": "Lights and shadows",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 29
     },
@@ -224,7 +229,7 @@
       "ID": "ACH_19",
       "SetID": "1g3d1lg",
       "Name": "There is something strange here...",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 50,
       "UsersEstimate": 43
     },
@@ -280,7 +285,7 @@
       "ID": "ACH_7",
       "SetID": "1g3d1lg",
       "Name": "The lowest floor of the lift",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 35,
       "UsersEstimate": 23
     },
@@ -288,7 +293,7 @@
       "ID": "ACH_8",
       "SetID": "1g3d1lg",
       "Name": "Charon\u0027s coin",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 35,
       "UsersEstimate": 22
     },
@@ -305,7 +310,7 @@
     {
       "ID": "1g3d1lg",
       "IsBase": true,
-      "Progressed": 86,
+      "Progressed": 87,
       "Completed": 3
     }
   ],
@@ -313,8 +318,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00",
   "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:08:58.2101673+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:09:10.9499386+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.1664482+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:59:34.6939061+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:08:58.2101812+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:59:43.6178204+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:09:10.9499532+00:00"
 }

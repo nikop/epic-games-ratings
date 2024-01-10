@@ -12,9 +12,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | No Deaths | 8.00% | ~1,652 |
 | Abandoned Settlement | 8.00% | ~1,652 |
 | Petrified Necropolis | 8.00% | ~1,652 |
-| Overcoming Difficulty | 7.00% | ~1,445 |
-| Coral Forest | 7.00% | ~1,445 |
-| The Marshlands | 7.00% | ~1,445 |
+| Overcoming Difficulty | 7.00% | ~1,446 |
+| Coral Forest | 7.00% | ~1,446 |
+| The Marshlands | 7.00% | ~1,446 |
 | The Scarlet Orchard | 6.00% | ~1,239 |
 | Ominous Presence | 6.00% | ~1,239 |
 | Gathering Storm | 6.00% | ~1,239 |
@@ -25,17 +25,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 4.00% | ~826 |
 | Watchtower | 4.00% | ~826 |
 | A Real Challenge | 4.00% | ~826 |
-| Ruined Armory | 3.00% | ~619 |
-| Bandit Camp | 3.00% | ~619 |
-| Ancient Battleground | 3.00% | ~619 |
-| Levitating Monument | 3.00% | ~619 |
-| Monastery of the Holy Flame | 3.00% | ~619 |
-| Lost Colonies | 3.00% | ~619 |
-| Statue of the Forefathers | 3.00% | ~619 |
-| Corrosive Torrent | 3.00% | ~619 |
-| Cursed Lands | 3.00% | ~619 |
-| Trade Baron | 3.00% | ~619 |
-| Untamed Wilds | 3.00% | ~619 |
+| Ruined Armory | 3.00% | ~620 |
+| Bandit Camp | 3.00% | ~620 |
+| Ancient Battleground | 3.00% | ~620 |
+| Levitating Monument | 3.00% | ~620 |
+| Monastery of the Holy Flame | 3.00% | ~620 |
+| Lost Colonies | 3.00% | ~620 |
+| Statue of the Forefathers | 3.00% | ~620 |
+| Corrosive Torrent | 3.00% | ~620 |
+| Cursed Lands | 3.00% | ~620 |
+| Trade Baron | 3.00% | ~620 |
+| Untamed Wilds | 3.00% | ~620 |
 | Serving Ale | 2.00% | ~413 |
 | Against All Odds | 2.00% | ~413 |
 | Barren Lands | 2.00% | ~413 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,648 (Ranked 154)  
-Completed: 34 (0.16%) (Ranked 283)  
+Progressed: 20,650 (Ranked 154)  
+Completed: 34 (0.16%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -331,10 +331,10 @@ Completed: 34 (0.16%) (Ranked 283)
 | 2024-01-07 | 20,428 | 34 |
 | 2024-01-08 | 20,508 | 34 |
 | 2024-01-09 | 20,595 | 34 |
-| 2024-01-10 | 20,648 | 34 |
+| 2024-01-10 | 20,650 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
-Sum: 3,367 (Ranked 177)  
+Sum: 3,368 (Ranked 177)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -347,7 +347,7 @@ Diff (max vs sum): 56
 | This game has Amazing Storytelling | 333 |
 | This game has Amazing Characters | 295 |
 | This game has Obsessive Gameplay | 254 |
-| This game has a Creative Community | 220 |
+| This game has a Creative Community | 221 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -631,4 +631,4 @@ Diff (max vs sum): 56
 | 2024-01-07 | 4.82 | - | 449 | 3,354 |
 | 2024-01-08 | 4.82 | - | 452 | 3,361 |
 | 2024-01-09 | 4.82 | - | 452 | 3,364 |
-| 2024-01-10 | 4.82 | - | 452 | 3,367 |
+| 2024-01-10 | 4.82 | - | 452 | 3,368 |

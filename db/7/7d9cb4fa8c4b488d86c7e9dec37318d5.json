@@ -2,9 +2,9 @@
   "ID": "7d9cb4fa8c4b488d86c7e9dec37318d5",
   "Name": "Suicide Guy",
   "ProductSlug": "suicide-guy-9f7963",
-  "Ranking_EOS_Progress": 391,
-  "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 513,
+  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Completed": 396,
+  "Ranking_EOS_NewPlayers": 487,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-14T00:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 319,
+  "EOS_Progressed": 320,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1384,6 +1384,11 @@
       "Time": "2024-01-10T17:05:05.6096348+00:00",
       "NumProgressed": 319,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T20:05:20.2076595+00:00",
+      "NumProgressed": 320,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 10,
@@ -1435,7 +1440,7 @@
       "Name": "10 Suicide Guy statues",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "Statue Collector Master",
@@ -1443,7 +1448,7 @@
       "Name": "20 Suicide Guy statues",
       "Percentage": 13,
       "XP": 150,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Statue Collector beginner",
@@ -1451,7 +1456,7 @@
       "Name": "5 Suicide Guy statues",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "Suicide Guy",
@@ -1474,14 +1479,14 @@
     {
       "ID": "1fffk9d",
       "IsBase": true,
-      "Progressed": 319,
+      "Progressed": 320,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T07:57:21.3305809+00:00",
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:05:06.0215796+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:05:20.2076591+00:00",
   "LastUpdate_AppInfo": "2024-01-10T13:02:38.2424232+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:59:28.8851769+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:05:06.0215952+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:59:37.4286323+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:05:20.2076753+00:00"
 }

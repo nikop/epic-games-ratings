@@ -4,10 +4,10 @@
   "ProductSlug": "sniper-elite-5",
   "Ranking_Rating": 666,
   "Ranking_Popularity": 529,
-  "Ranking_PopularitySum": 546,
+  "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 210,
-  "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_Completed": 264,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -9670,9 +9670,9 @@
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 979
+      "UsersEstimate": 1022
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -10189,8 +10189,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-09T13:14:28.403425+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:09:37.995428+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:09:50.123695+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:59.0213472+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:58:38.6514458+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:09:37.9955408+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:58:49.9134481+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:09:50.1237835+00:00"
 }

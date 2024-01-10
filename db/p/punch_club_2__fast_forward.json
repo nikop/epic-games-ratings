@@ -3,8 +3,8 @@
   "Name": "Punch Club 2: Fast Forward",
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 342,
-  "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_Completed": 148,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 573,
+  "EOS_Progressed": 574,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.57,
   "EosHistory": [
@@ -2344,6 +2344,11 @@
       "Time": "2024-01-10T17:09:59.8869313+00:00",
       "NumProgressed": 573,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-10T20:10:09.8659535+00:00",
+      "NumProgressed": 574,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-07-17T10:06:19.5006804+00:00",
@@ -2372,7 +2377,7 @@
       "Name": "Now you are worthy",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "all_promotion_4",
@@ -2418,9 +2423,9 @@
       "ID": "any_stat_30",
       "SetID": "69co12a",
       "Name": "GYM professional",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 195
     },
     {
       "ID": "any_stat_5",
@@ -2428,7 +2433,7 @@
       "Name": "Fitness professional",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "buy_trainer",
@@ -2436,7 +2441,7 @@
       "Name": "Your own amateur gym",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "carla_journey",
@@ -2452,15 +2457,15 @@
       "Name": "Legal courier",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "fight_defeat_1",
       "SetID": "69co12a",
       "Name": "First defeat",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 367
+      "UsersEstimate": 362
     },
     {
       "ID": "fight_win_1",
@@ -2468,7 +2473,7 @@
       "Name": "First winning",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "fight_win_10",
@@ -2492,7 +2497,7 @@
       "Name": "Fight is life",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "first_job",
@@ -2538,9 +2543,9 @@
       "ID": "flash_yakuza",
       "SetID": "69co12a",
       "Name": "Better cooking at home",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 144
     },
     {
       "ID": "get_tape",
@@ -2548,7 +2553,7 @@
       "Name": "Old movies enjoyer",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "gpp_chip",
@@ -2556,7 +2561,7 @@
       "Name": "Good Person Chip",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "hack_device",
@@ -2564,7 +2569,7 @@
       "Name": "Not little hacker",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "hack_gpp",
@@ -2588,7 +2593,7 @@
       "Name": "No bullying more",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "intro_dream",
@@ -2596,7 +2601,7 @@
       "Name": "Such a strange dream\u2026",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "law_student",
@@ -2604,7 +2609,7 @@
       "Name": "Law student",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "league_1",
@@ -2620,7 +2625,7 @@
       "Name": "Champion \u2013 no way back",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "league_3",
@@ -2636,7 +2641,7 @@
       "Name": "Your first fight",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "met_casey",
@@ -2644,7 +2649,7 @@
       "Name": "Pal of your father?",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "met_k",
@@ -2652,7 +2657,7 @@
       "Name": "Depressed visitor",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "mick_house",
@@ -2676,7 +2681,7 @@
       "Name": "Mysterious voice",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "nero_basic",
@@ -2692,7 +2697,7 @@
       "Name": "Extreme neuropower!",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "not_ok",
@@ -2706,9 +2711,9 @@
       "ID": "own_home",
       "SetID": "69co12a",
       "Name": "Own four walls",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 293
     },
     {
       "ID": "plug_switch",
@@ -2716,7 +2721,7 @@
       "Name": "The only right decision",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "poisoned_fighter",
@@ -2724,7 +2729,7 @@
       "Name": "Poisoned fighter",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "police_promotion_1",
@@ -2770,9 +2775,9 @@
       "ID": "resistance_fake",
       "SetID": "69co12a",
       "Name": "Underground dwellers",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 195
     },
     {
       "ID": "resistance_slime",
@@ -2804,7 +2809,7 @@
       "Name": "Intriguing candies",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "soft_install",
@@ -2812,7 +2817,7 @@
       "Name": "Hello, world!",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "trainer_promotion_1",
@@ -2828,7 +2833,7 @@
       "Name": "Guiding on the right path",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "trainer_promotion_3",
@@ -2836,7 +2841,7 @@
       "Name": "Responsible approach",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "undercover_robot",
@@ -2860,7 +2865,7 @@
       "Name": "Employee of the week",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "work_promotion_2",
@@ -2876,21 +2881,21 @@
       "Name": "Employee of the year",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     }
   ],
   "AchievementSets": [
     {
       "ID": "69co12a",
       "IsBase": true,
-      "Progressed": 573,
+      "Progressed": 574,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:09:57.894724+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:10:09.8659528+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:10.7103832+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:57:29.5189025+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:09:57.8947935+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:57:39.1756771+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:10:09.8660235+00:00"
 }

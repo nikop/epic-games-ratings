@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Second Chance | 57.00% | ~171 |
-| Press-ganged | 41.00% | ~123 |
+| Press-ganged | 42.00% | ~126 |
 | The Package | 27.00% | ~81 |
 | Conquered | 18.00% | ~54 |
 | Randomized | 17.00% | ~51 |
@@ -105,7 +105,7 @@
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 300 (Ranked 400)  
-Completed: 0 (0.00%) (Ranked 395)  
+Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

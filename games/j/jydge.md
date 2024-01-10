@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Mission Mastered | 47.00% | ~8 |
 | The Dawn of Jydgement | 41.00% | ~7 |
-| Mission Mastered | 41.00% | ~7 |
 | The Jydgement Day | 18.00% | ~3 |
 | Savior | 12.00% | ~2 |
 | The Dusk Falls | 6.00% | ~1 |
@@ -21,7 +21,7 @@
 | Special Specialist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17 (Ranked 630)  
-Completed: 0 (0.00%) (Ranked 395)  
+Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

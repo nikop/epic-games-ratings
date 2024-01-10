@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 283,
-  "Ranking_EOS_Completed": 321,
+  "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1214,
+  "EOS_Progressed": 1215,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3511,6 +3511,11 @@
       "Time": "2024-01-10T19:03:33.2829092+00:00",
       "NumProgressed": 1214,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T20:03:48.3179014+00:00",
+      "NumProgressed": 1215,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -3522,7 +3527,7 @@
       "Name": "Cabin boy",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "ACH001",
@@ -3530,15 +3535,15 @@
       "Name": "Seafarer",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "ACH002",
       "SetID": "69nfp41",
       "Name": "Conquistador",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH003",
@@ -3626,7 +3631,7 @@
       "Name": "In a mint condition",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH014",
@@ -3658,7 +3663,7 @@
       "Name": "Pearly gates",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH018",
@@ -3688,9 +3693,9 @@
       "ID": "ACH021",
       "SetID": "69nfp41",
       "Name": "Collectionitis",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 352
+      "UsersEstimate": 340
     },
     {
       "ID": "ACH022",
@@ -3698,7 +3703,7 @@
       "Name": "Fleet Admiral",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH023",
@@ -3736,9 +3741,9 @@
       "ID": "ACH027",
       "SetID": "69nfp41",
       "Name": "I\u0027m out of here for a while",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 486
     },
     {
       "ID": "ACH028",
@@ -3746,7 +3751,7 @@
       "Name": "Traffic chaos",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH029",
@@ -3808,9 +3813,9 @@
       "ID": "ACH036",
       "SetID": "69nfp41",
       "Name": "Every beginning is difficult",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 753
+      "UsersEstimate": 741
     },
     {
       "ID": "ACH037",
@@ -3866,7 +3871,7 @@
       "Name": "Your vessel, my vessel",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH044",
@@ -3921,15 +3926,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1214,
+      "Progressed": 1215,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:03:33.2829088+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:03:48.3178962+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:24.8175956+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:57:45.6704682+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:03:33.283027+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:57:55.8966565+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:03:48.3179734+00:00"
 }

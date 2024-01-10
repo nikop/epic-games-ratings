@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 334,
-  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
@@ -2327,9 +2327,9 @@
       "ID": "ACH_COLLECT_100_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Master",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 223
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -2375,9 +2375,9 @@
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Gatherer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -2487,9 +2487,9 @@
       "ID": "ACH_MYTHRIL_SMELTER",
       "SetID": "7c4cldc",
       "Name": "Mythical Smelter",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_PERMADEATH",
@@ -2519,9 +2519,9 @@
       "ID": "ACH_SURVIVE_20_DAYS",
       "SetID": "7c4cldc",
       "Name": "Advanced Survivalist",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 112
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -2552,8 +2552,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:09:26.6146544+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:09:38.8333744+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2095998+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:57:47.5652026+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:09:26.6146804+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:57:57.8014583+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:09:38.8334202+00:00"
 }

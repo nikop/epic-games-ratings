@@ -3,7 +3,7 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 232,
-  "Ranking_EOS_Completed": 349,
+  "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2847,
+  "EOS_Progressed": 2852,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7704,6 +7704,11 @@
       "Time": "2024-01-10T19:10:12.3022611+00:00",
       "NumProgressed": 2847,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-10T20:10:23.8084866+00:00",
+      "NumProgressed": 2852,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7732,7 +7737,7 @@
       "Name": "Hold the line!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_12",
@@ -7780,7 +7785,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_18",
@@ -7812,7 +7817,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "achievement_21",
@@ -7892,7 +7897,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "achievement_30",
@@ -7908,7 +7913,7 @@
       "Name": "Scrap collector",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "achievement_32",
@@ -7924,7 +7929,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_34",
@@ -7940,7 +7945,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2453
     },
     {
       "ID": "achievement_36",
@@ -7956,7 +7961,7 @@
       "Name": "Off to a good start",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1740
     },
     {
       "ID": "achievement_38",
@@ -7964,7 +7969,7 @@
       "Name": "Survivor",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "achievement_39",
@@ -7972,7 +7977,7 @@
       "Name": "Ackbar\u0027s Elite",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_4",
@@ -7980,7 +7985,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "achievement_40",
@@ -7988,7 +7993,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1483
     },
     {
       "ID": "achievement_41",
@@ -7996,15 +8001,15 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_42",
       "SetID": "271ol84",
       "Name": "Not bad for a little furball",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_43",
@@ -8020,7 +8025,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "achievement_45",
@@ -8028,7 +8033,7 @@
       "Name": "This is a new day, a new beginning",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_46",
@@ -8036,7 +8041,7 @@
       "Name": "Patience you must have",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_47",
@@ -8076,7 +8081,7 @@
       "Name": "City in the Clouds",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_51",
@@ -8140,7 +8145,7 @@
       "Name": "Alternative solution",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_59",
@@ -8156,7 +8161,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "achievement_60",
@@ -8164,7 +8169,7 @@
       "Name": "What will you become?",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_61",
@@ -8188,7 +8193,7 @@
       "Name": "Disturbed tranquility",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_7",
@@ -8219,13 +8224,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2847,
+      "Progressed": 2852,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2847,
+      "Progressed": 2852,
       "Completed": 1
     }
   ],
@@ -8233,8 +8238,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:10:12.3022607+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:10:23.8084865+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:59:36.2429107+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:10:12.3023483+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:59:45.4430289+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:10:23.8085574+00:00"
 }

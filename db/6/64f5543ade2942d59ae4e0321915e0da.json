@@ -3,8 +3,8 @@
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 357,
-  "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 480,
+  "EOS_Progressed": 482,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -1864,6 +1864,11 @@
       "Time": "2024-01-10T19:04:41.0193323+00:00",
       "NumProgressed": 480,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-10T20:04:55.6250139+00:00",
+      "NumProgressed": 482,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1932,7 +1937,7 @@
       "Name": "Gambler",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -1948,7 +1953,7 @@
       "Name": "Hunger",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "AC_BOSS_01",
@@ -1956,7 +1961,7 @@
       "Name": "Misery",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "AC_BOSS_02",
@@ -1988,7 +1993,7 @@
       "Name": "Pack",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "AC_COMBO_2",
@@ -2020,7 +2025,7 @@
       "Name": "Corpse",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "AC_DEATH_2",
@@ -2044,31 +2049,31 @@
       "Name": "Killer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 115
+      "UsersEstimate": 111
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
       "SetID": "16i2akc",
       "Name": "Genocide",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 45,
-      "UsersEstimate": 91
+      "UsersEstimate": 87
     },
     {
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 384
+      "UsersEstimate": 381
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2076,15 +2081,15 @@
       "Name": "Journey",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 45,
-      "UsersEstimate": 125
+      "UsersEstimate": 130
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -2092,7 +2097,7 @@
       "Name": "Player",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -2130,9 +2135,9 @@
       "ID": "AC_MONEY_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Winner",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 53
     },
     {
       "ID": "AC_MUSIC_CONCERT",
@@ -2156,7 +2161,7 @@
       "Name": "Cook",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "AC_RECIPES_DONE_2",
@@ -2180,7 +2185,7 @@
       "Name": "Loss",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -2188,7 +2193,7 @@
       "Name": "Shot",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "AC_SNIPER_MAX",
@@ -2211,14 +2216,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 480,
+      "Progressed": 482,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:04:41.0193315+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:04:55.6250133+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:59.4542445+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:00:00.3410904+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:04:41.0193754+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:00:09.3503939+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:04:55.6250835+00:00"
 }

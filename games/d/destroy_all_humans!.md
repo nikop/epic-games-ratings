@@ -48,7 +48,7 @@ Number of Ratings: 85  (23.09.2022)
 | Against All Odds | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 435 (Ranked 364)  
-Completed: 5 (1.15%) (Ranked 164)  
+Completed: 5 (1.15%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,8 +78,8 @@ Completed: 5 (1.15%) (Ranked 164)
 | 2024-01-10 | 435 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 505)  
-Sum: 35 (Ranked 534)  
-Diff (max vs sum): -29  
+Sum: 35 (Ranked 535)  
+Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 35 |

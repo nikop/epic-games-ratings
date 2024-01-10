@@ -14,8 +14,8 @@
 | Amokuali Tower | 25.00% | ~40 |
 | Freedom | 24.00% | ~38 |
 | Winner | 22.00% | ~35 |
+| Omnia Vincit Amor | 21.00% | ~33 |
 | The Pride of Moozhaw | 20.00% | ~32 |
-| Omnia Vincit Amor | 20.00% | ~32 |
 | Stilt House | 15.00% | ~24 |
 | Armor Collector | 11.00% | ~17 |
 | Corwid Hill | 11.00% | ~17 |
@@ -27,7 +27,7 @@
 | Broken Reflection | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 158 (Ranked 453)  
-Completed: 1 (0.63%) (Ranked 202)  
+Completed: 1 (0.63%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -21,7 +21,7 @@ Number of Ratings: 292  (23.09.2022)
 | Whoops! | 6.00% | ~68 |
 | Don't Touch My Stuff | 6.00% | ~68 |
 | Trojan Horse | 5.00% | ~56 |
-| Expert Essence Employment | 3.00% | ~34 |
+| Expert Essence Employment | 4.00% | ~45 |
 | This Spot's Taken | 2.00% | ~23 |
 | Deepstrike | 2.00% | ~23 |
 | Infernal Influence | 2.00% | ~23 |
@@ -62,7 +62,7 @@ Number of Ratings: 292  (23.09.2022)
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,127 (Ranked 287)  
-Completed: 0 (0.00%) (Ranked 395)  
+Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

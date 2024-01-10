@@ -3,7 +3,7 @@
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 298,
-  "Ranking_EOS_Completed": 172,
+  "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
@@ -3576,9 +3576,9 @@
       "ID": "achievement_9",
       "SetID": "7ldgi7j",
       "Name": "Ace in the Hole",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 200
+      "UsersEstimate": 210
     }
   ],
   "AchievementSets": [
@@ -3590,8 +3590,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:04:15.8054833+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:04:31.1272275+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.2920939+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:57:41.5923085+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:04:15.8055562+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:57:51.0818511+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:04:31.1272919+00:00"
 }

@@ -1,33 +1,33 @@
 # Transport Fever 2
 [Store](https://store.epicgames.com/en-US/p/transport-fever-2)  
 [View Rawdata](../../db/t/transport_fever_2.json)  
-Rating: 4.67 (Ranked 286)  
+Rating: 4.67 (Ranked 285)  
 Number of Ratings: 180  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 73.00% | ~1,783 |
+| First line | 73.00% | ~1,784 |
 | First cargo item on board | 67.00% | ~1,637 |
 | First cargo item waiting | 67.00% | ~1,637 |
-| First bus stop | 66.00% | ~1,612 |
-| First passenger waiting | 63.00% | ~1,539 |
+| First bus stop | 66.00% | ~1,613 |
+| First passenger waiting | 63.00% | ~1,540 |
 | First passenger on board | 62.00% | ~1,515 |
-| First bus arrived | 61.00% | ~1,490 |
-| First train station | 59.00% | ~1,441 |
-| First steam train arrived | 56.00% | ~1,368 |
+| First bus arrived | 61.00% | ~1,491 |
+| First train station | 59.00% | ~1,442 |
+| First steam train arrived | 56.00% | ~1,369 |
 | First industry upgraded | 53.00% | ~1,295 |
-| Cadet | 52.00% | ~1,270 |
+| Cadet | 52.00% | ~1,271 |
 | Transport millionaire | 51.00% | ~1,246 |
-| Transport master | 49.00% | ~1,197 |
-| Cargo hub | 48.00% | ~1,173 |
-| Sculpturer | 45.00% | ~1,099 |
+| Cargo hub | 49.00% | ~1,198 |
+| Transport master | 48.00% | ~1,173 |
+| Sculpturer | 45.00% | ~1,100 |
 | Settled down | 44.00% | ~1,075 |
 | First electric train arrived | 42.00% | ~1,026 |
 | First ship arrived | 42.00% | ~1,026 |
 | Now what? | 42.00% | ~1,026 |
 | Exemplary student | 41.00% | ~1,002 |
-| First aircraft arrived | 38.00% | ~928 |
-| High speed | 38.00% | ~928 |
+| First aircraft arrived | 38.00% | ~929 |
+| High speed | 38.00% | ~929 |
 | Transport shark | 37.00% | ~904 |
 | Mass production | 32.00% | ~782 |
 | Aircraft entrepreneur | 30.00% | ~733 |
@@ -45,9 +45,9 @@ Number of Ratings: 180  (23.09.2022)
 | Campaign expert | 10.00% | ~244 |
 | Truck Fever | 10.00% | ~244 |
 | No free seats | 9.00% | ~220 |
-| Back to the future | 8.00% | ~195 |
-| Transport belt | 8.00% | ~195 |
-| Penny pincher | 8.00% | ~195 |
+| Back to the future | 8.00% | ~196 |
+| Transport belt | 8.00% | ~196 |
+| Penny pincher | 8.00% | ~196 |
 | Campaign shark | 5.00% | ~122 |
 | E.P.E.C. | 5.00% | ~122 |
 | Transport shark (Hard mode) | 4.00% | ~98 |
@@ -68,8 +68,8 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~5 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,443 (Ranked 238)  
-Completed: 1 (0.04%) (Ranked 349)  
+Progressed: 2,444 (Ranked 238)  
+Completed: 1 (0.04%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -318,7 +318,7 @@ Completed: 1 (0.04%) (Ranked 349)
 | 2024-01-07 | 2,398 | 1 |
 | 2024-01-08 | 2,410 | 1 |
 | 2024-01-09 | 2,425 | 1 |
-| 2024-01-10 | 2,443 | 1 |
+| 2024-01-10 | 2,444 | 1 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 458)  
 Sum: 333 (Ranked 372)  

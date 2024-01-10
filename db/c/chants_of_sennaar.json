@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 235,
-  "Ranking_EOS_Completed": 57,
+  "Ranking_EOS_Completed": 58,
   "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
@@ -127,11 +127,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2661,
+  "EOS_Progressed": 2662,
   "EOS_Completed": 192,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 47,
-  "EOS_Completed_Percentage": 7.22,
+  "EOS_Completed_Percentage": 7.21,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -6982,6 +6982,11 @@
       "Time": "2024-01-10T19:03:54.1601909+00:00",
       "NumProgressed": 2661,
       "NumCompleted": 192
+    },
+    {
+      "Time": "2024-01-10T20:04:08.786271+00:00",
+      "NumProgressed": 2662,
+      "NumCompleted": 192
     }
   ],
   "TotalAchievements": 25,
@@ -6993,7 +6998,7 @@
       "Name": "I did it",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "END_GOOD",
@@ -7001,7 +7006,7 @@
       "Name": "In this together",
       "Percentage": 25,
       "XP": 200,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "META_ALL_LINK",
@@ -7017,7 +7022,7 @@
       "Name": "Cable guy",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "META_FIRST_LINK",
@@ -7025,7 +7030,7 @@
       "Name": "A good beginning",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "META_HALF_LINK",
@@ -7033,7 +7038,7 @@
       "Name": "Half the way",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "META_RESULT_1-2",
@@ -7041,7 +7046,7 @@
       "Name": "Open door",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "META_RESULT_1-3",
@@ -7057,7 +7062,7 @@
       "Name": "Feels like springtime",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "META_RESULT_2-3",
@@ -7121,7 +7126,7 @@
       "Name": "Fashion victim",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -7129,7 +7134,7 @@
       "Name": "Champollion",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -7161,7 +7166,7 @@
       "Name": "The great escape",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "PROGRESS_N3",
@@ -7192,7 +7197,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2661,
+      "Progressed": 2662,
       "Completed": 192
     }
   ],
@@ -7200,8 +7205,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:03:54.1601905+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:04:08.7862706+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:59:57.9130619+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:03:54.1602515+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:00:07.0363008+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:04:08.786335+00:00"
 }

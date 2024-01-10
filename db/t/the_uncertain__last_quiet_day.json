@@ -6,8 +6,8 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 338,
-  "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_Completed": 110,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 637,
+  "EOS_Progressed": 638,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.98,
   "EosHistory": [
@@ -1114,6 +1114,11 @@
       "Time": "2024-01-08T21:11:02.9684433+00:00",
       "NumProgressed": 637,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2024-01-10T20:10:15.0532602+00:00",
+      "NumProgressed": 638,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 32,
@@ -1147,9 +1152,9 @@
       "ID": "BUCKLE_UP",
       "SetID": "2iigf77",
       "Name": "Buckle up",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 376
+      "UsersEstimate": 370
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -1173,7 +1178,7 @@
       "Name": "Everybody lies",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -1181,7 +1186,7 @@
       "Name": "Every little helps",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "FOUND_IT",
@@ -1213,7 +1218,7 @@
       "Name": "Hands up!",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -1245,7 +1250,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "LUCKY_DOG",
@@ -1285,7 +1290,7 @@
       "Name": "Now you know",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "PERFECT_HEARING",
@@ -1315,9 +1320,9 @@
       "ID": "QUICK_CHARGE",
       "SetID": "2iigf77",
       "Name": "Quick charge",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 376
+      "UsersEstimate": 370
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -1325,7 +1330,7 @@
       "Name": "Short circuit",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "SILENT",
@@ -1333,15 +1338,15 @@
       "Name": "Silent",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "SYSADMIN",
       "SetID": "2iigf77",
       "Name": "Sysadmin",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 140
+      "UsersEstimate": 134
     },
     {
       "ID": "THAT_IS_MUCH_BETTER",
@@ -1380,7 +1385,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 637,
+      "Progressed": 638,
       "Completed": 19
     }
   ],
@@ -1388,8 +1393,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:10:03.2257978+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:10:15.0532597+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.594595+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:59:18.2956843+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:10:03.2258179+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:59:27.6484802+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:10:15.0532847+00:00"
 }

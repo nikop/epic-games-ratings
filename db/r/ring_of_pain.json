@@ -6,7 +6,7 @@
   "Ranking_Popularity": 138,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 73,
-  "Ranking_EOS_Completed": 298,
+  "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
@@ -3812,10 +3812,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 11790,
       "NumberOfAwardsMax": 1514
+    },
+    {
+      "Time": "2024-01-10T19:58:32.8636314+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11791,
+      "NumberOfAwardsMax": 1514
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11790,
+  "NumberOfAwards": 11791,
   "NumberOfAwardsMax": 1514,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3829,7 +3835,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1238
+      "Count": 1239
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3886,9 +3892,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242734,
+  "EOS_Progressed": 242735,
   "EOS_Completed": 305,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31366,6 +31372,11 @@
       "Time": "2024-01-10T19:10:14.3991813+00:00",
       "NumProgressed": 242734,
       "NumCompleted": 305
+    },
+    {
+      "Time": "2024-01-10T20:10:25.8034293+00:00",
+      "NumProgressed": 242735,
+      "NumCompleted": 305
     }
   ],
   "TotalAchievements": 138,
@@ -31423,9 +31434,9 @@
       "ID": "CURSEDPOTIONS",
       "SetID": "5l8oe0h",
       "Name": "Consecutive Curses",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1456
+      "UsersEstimate": 1699
     },
     {
       "ID": "DAILY7",
@@ -32480,22 +32491,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242734,
+      "Progressed": 242735,
       "Completed": 305
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4214,
+      "Progressed": 4215,
       "Completed": 424
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2024-01-09T13:57:40.165064+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:10:14.3991809+00:00",
+  "LastChanged": "2024-01-10T19:58:32.8636311+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:10:25.8034291+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:58:22.3483086+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:10:14.3994999+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:58:32.8636317+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:10:25.8037016+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 189,
-  "Ranking_EOS_Completed": 395,
+  "Ranking_EOS_Completed": 396,
   "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8253,
+  "EOS_Progressed": 8254,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13812,6 +13812,11 @@
       "Time": "2024-01-10T19:08:36.0683291+00:00",
       "NumProgressed": 8253,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T20:08:49.1281014+00:00",
+      "NumProgressed": 8254,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13839,7 +13844,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -13879,7 +13884,7 @@
       "Name": "Scaling up",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -14111,7 +14116,7 @@
       "Name": "Live by the Rod, Diez by the Rod!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_039",
@@ -14119,7 +14124,7 @@
       "Name": "Aguas Claras Conquistador",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_040",
@@ -14142,13 +14147,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8253,
+      "Progressed": 8254,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7625,
+      "Progressed": 7626,
       "Completed": 113
     }
   ],
@@ -14156,8 +14161,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:08:36.0683288+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:08:49.1281011+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:59:43.7827311+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:08:36.0683947+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:59:54.2228321+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:08:49.1281938+00:00"
 }

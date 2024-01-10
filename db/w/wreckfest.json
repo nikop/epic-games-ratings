@@ -6,8 +6,8 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 292,
-  "Ranking_EOS_Completed": 395,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_Completed": 396,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
@@ -355,9 +355,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1057,
+  "EOS_Progressed": 1063,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2590,6 +2590,11 @@
       "Time": "2024-01-10T19:08:55.861488+00:00",
       "NumProgressed": 1057,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T20:09:08.7698224+00:00",
+      "NumProgressed": 1063,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2602,7 +2607,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "CareerAllChallenges",
@@ -2610,15 +2615,15 @@
       "Name": "Highballer",
       "Percentage": 59,
       "XP": 90,
-      "UsersEstimate": 624
+      "UsersEstimate": 627
     },
     {
       "ID": "CareerChamp1",
       "SetID": "5hd282c",
       "Name": "Regional Juniors Champion",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 328
+      "UsersEstimate": 319
     },
     {
       "ID": "CareerChamp2",
@@ -2626,7 +2631,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "CareerChamp3",
@@ -2642,7 +2647,7 @@
       "Name": "Pro Internationals Champion",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "CareerComplete",
@@ -2656,9 +2661,9 @@
       "ID": "CareerFirstWin",
       "SetID": "5hd282c",
       "Name": "Storm Warning",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 740
+      "UsersEstimate": 733
     },
     {
       "ID": "CollectVehiclesA",
@@ -2666,7 +2671,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "CollectVehiclesB",
@@ -2674,7 +2679,7 @@
       "Name": "Junk Collector",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "CreditsEarnedA",
@@ -2714,7 +2719,7 @@
       "Name": "Dirty Roller",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 338
+      "UsersEstimate": 340
     },
     {
       "ID": "PlayerRankB",
@@ -2722,7 +2727,7 @@
       "Name": "Trashing Around",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "PlayerRankC",
@@ -2746,7 +2751,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "WreckOpponentsBus",
@@ -2761,7 +2766,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1057,
+      "Progressed": 1063,
       "Completed": 0
     }
   ],
@@ -2769,8 +2774,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-07T05:59:24.3409501+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:08:55.8614876+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:09:08.7698221+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
   "LastUpdate_Ratings": "2024-01-10T19:00:43.0089969+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:08:55.8615123+00:00"
+  "LastUpdate_Achievements": "2024-01-10T20:09:08.7698471+00:00"
 }

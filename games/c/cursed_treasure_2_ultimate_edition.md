@@ -59,7 +59,7 @@
 | Loveless | 18.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 185 (Ranked 436)  
-Completed: 28 (15.14%) (Ranked 30)  
+Completed: 28 (15.14%) (Ranked 31)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

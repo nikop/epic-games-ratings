@@ -4,9 +4,9 @@
   "ProductSlug": "star-trek-resurgence",
   "Ranking_Rating": 810,
   "Ranking_Popularity": 529,
-  "Ranking_PopularitySum": 546,
+  "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 825,
-  "Ranking_EOS_Completed": 395,
+  "Ranking_EOS_Completed": 396,
   "Ranking_EOS_NewPlayers": 579,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
@@ -515,6 +515,6 @@
   "FirstSeenRating": "2023-05-27T09:58:07.9853002+00:00",
   "LastChanged": "2024-01-03T13:07:18.9575847+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:45.4138716+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:03:11.1348048+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:08:59.3503432+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:03:26.3100887+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:09:12.0147694+00:00"
 }

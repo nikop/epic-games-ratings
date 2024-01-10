@@ -6,8 +6,8 @@
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 199,
-  "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_Completed": 322,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -854,7 +854,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6250,
+  "EOS_Progressed": 6251,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 1,
@@ -12979,6 +12979,11 @@
       "Time": "2024-01-10T18:06:39.5769732+00:00",
       "NumProgressed": 6250,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-10T20:06:47.8403769+00:00",
+      "NumProgressed": 6251,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -12999,7 +13004,7 @@
       "Name": "Deadalus and Loving It",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "MF_Ach_Deadication",
@@ -13023,7 +13028,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -13087,7 +13092,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -13159,7 +13164,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -13174,15 +13179,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6250,
+      "Progressed": 6251,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:06:33.2311656+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:06:47.8403763+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:02:45.575575+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:06:33.2312355+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:57:22.601222+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:06:47.8404346+00:00"
 }

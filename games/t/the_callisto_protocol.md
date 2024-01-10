@@ -5,38 +5,38 @@ Rating: 4.22 (Ranked 949)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 26.00% | ~5,725 |
-| The Outer Way | 26.00% | ~5,725 |
-| Desperate Times | 24.00% | ~5,285 |
-| Paper Jams | 22.00% | ~4,845 |
-| Get a Grip | 21.00% | ~4,624 |
-| Chew 'Em Up | 20.00% | ~4,404 |
-| Reforged | 18.00% | ~3,964 |
-| Float Like A Butterfly | 17.00% | ~3,744 |
-| Workplace Hazard | 16.00% | ~3,523 |
-| If the SHU Fits... | 16.00% | ~3,523 |
-| Without A Paddle | 14.00% | ~3,083 |
-| In the Pipe, Five by Five | 12.00% | ~2,643 |
-| Crash Site | 12.00% | ~2,643 |
-| Two Heads Are Better Than One | 11.00% | ~2,422 |
-| Power Up | 11.00% | ~2,422 |
-| Giving Back | 10.00% | ~2,202 |
-| Terminated | 10.00% | ~2,202 |
-| What Lies Beneath | 10.00% | ~2,202 |
-| Full Circle | 10.00% | ~2,202 |
-| You Need a Gun | 9.00% | ~1,982 |
-| I Do Belong Here | 8.00% | ~1,762 |
-| Keep Fighting | 7.00% | ~696 |
-| In Striking Distance | 5.00% | ~1,101 |
-| The Commonality | 5.00% | ~1,101 |
-| It's Time | 5.00% | ~497 |
-| One Last Job | 3.00% | ~298 |
-| Mugshot | 2.00% | ~440 |
+| Flesh Wound | 26.00% | ~5,729 |
+| The Outer Way | 26.00% | ~5,729 |
+| Desperate Times | 24.00% | ~5,288 |
+| Paper Jams | 22.00% | ~4,847 |
+| Get a Grip | 21.00% | ~4,627 |
+| Chew 'Em Up | 20.00% | ~4,407 |
+| Reforged | 18.00% | ~3,966 |
+| Float Like A Butterfly | 17.00% | ~3,746 |
+| Workplace Hazard | 16.00% | ~3,525 |
+| If the SHU Fits... | 16.00% | ~3,525 |
+| Without A Paddle | 14.00% | ~3,085 |
+| In the Pipe, Five by Five | 12.00% | ~2,644 |
+| Crash Site | 12.00% | ~2,644 |
+| Two Heads Are Better Than One | 11.00% | ~2,424 |
+| Power Up | 11.00% | ~2,424 |
+| Giving Back | 10.00% | ~2,203 |
+| Terminated | 10.00% | ~2,203 |
+| What Lies Beneath | 10.00% | ~2,203 |
+| Full Circle | 10.00% | ~2,203 |
+| You Need a Gun | 9.00% | ~1,983 |
+| I Do Belong Here | 8.00% | ~1,763 |
+| Keep Fighting | 7.00% | ~697 |
+| In Striking Distance | 5.00% | ~1,102 |
+| The Commonality | 5.00% | ~1,102 |
+| It's Time | 5.00% | ~498 |
+| One Last Job | 3.00% | ~299 |
+| Mugshot | 2.00% | ~441 |
 | Big Spender | 2.00% | ~199 |
 | This Isn't About Escape | 2.00% | ~199 |
-| Armed to the Teeth | 1.00% | ~99 |
+| Armed to the Teeth | 1.00% | ~100 |
 | Grim Reaper | 1.00% | ~220 |
-| Instigator | 1.00% | ~99 |
+| Instigator | 1.00% | ~100 |
 | Information Overload | 0.90% | ~90 |
 | Parole Denied | 0.80% | ~80 |
 | Quick Pick | 0.80% | ~80 |
@@ -53,8 +53,8 @@ Rating: 4.22 (Ranked 949)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,021 (Ranked 151)  
-Completed: 82 (0.37%) (Ranked 240)  
+Progressed: 22,033 (Ranked 151)  
+Completed: 82 (0.37%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -310,16 +310,16 @@ Completed: 82 (0.37%) (Ranked 240)
 | 2024-01-07 | 21,615 | 82 |
 | 2024-01-08 | 21,745 | 82 |
 | 2024-01-09 | 21,902 | 82 |
-| 2024-01-10 | 22,021 | 82 |
+| 2024-01-10 | 22,033 | 82 |
 ## Awards
 Max (Amazing Characters): 129  (Ranked 348)  
-Sum: 624 (Ranked 321)  
+Sum: 628 (Ranked 321)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 129 |
 | This game is Highly Recommended | 118 |
-| This game is Extremely Fun | 111 |
+| This game is Extremely Fun | 115 |
 | This game has Quickly Understood Controls | 108 |
 | This game has Amazing Storytelling | 107 |
 | This game has Challenging Combat | 68 |
@@ -524,4 +524,4 @@ Diff (max vs sum): 27
 | 2024-01-07 | 4.21 | 126 | 603 |
 | 2024-01-08 | 4.21 | 126 | 607 |
 | 2024-01-09 | 4.22 | 129 | 619 |
-| 2024-01-10 | 4.22 | 129 | 624 |
+| 2024-01-10 | 4.22 | 129 | 628 |

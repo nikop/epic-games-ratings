@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 255,
-  "Ranking_EOS_Completed": 395,
+  "Ranking_EOS_Completed": 396,
   "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1875,
+  "EOS_Progressed": 1876,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4998,6 +4998,11 @@
       "Time": "2024-01-10T18:09:29.643927+00:00",
       "NumProgressed": 1875,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-10T20:09:46.4458515+00:00",
+      "NumProgressed": 1876,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5089,7 +5094,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -5281,7 +5286,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -5392,7 +5397,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1875,
+      "Progressed": 1876,
       "Completed": 0
     }
   ],
@@ -5400,8 +5405,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2024-01-09T16:02:23.0830001+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:09:34.4900989+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:09:46.4458511+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.830509+00:00",
-  "LastUpdate_Ratings": "2024-01-10T19:00:52.7449116+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:09:34.4901443+00:00"
+  "LastUpdate_Ratings": "2024-01-10T20:03:09.3220011+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:09:46.4459076+00:00"
 }

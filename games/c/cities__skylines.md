@@ -6,41 +6,41 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~894,525 |
-| Green Energy | 59.00% | ~743,338 |
-| Foggy Weather | 58.00% | ~730,739 |
-| Singing In The- | 58.00% | ~730,739 |
-| Unpopular Mayor | 40.00% | ~503,958 |
-| Power at Your Fingertips | 33.00% | ~415,765 |
-| City Planner | 22.00% | ~277,177 |
-| Rolling in Dough | 20.00% | ~251,979 |
-| Does My Bum Look Big In This? | 17.00% | ~214,182 |
-| Climbing the Social Ladder | 16.00% | ~201,583 |
-| Safe City | 13.00% | ~163,786 |
-| Quay-King | 11.00% | ~138,588 |
-| With Canals You Can! | 10.00% | ~125,990 |
-| Lawmaker | 9.00% | ~113,391 |
-| Nomen Est Omen | 7.00% | ~88,193 |
-| Well Informed | 6.00% | ~75,594 |
-| Fire Watch | 5.00% | ~62,995 |
-| Greenest City | 4.00% | ~50,396 |
-| Heavenly City | 3.00% | ~37,797 |
-| Reporting! | 3.00% | ~37,797 |
-| SIMulated City | 3.00% | ~37,797 |
-| The Safest Town | 3.00% | ~37,797 |
-| Professional Dumper | 2.00% | ~25,198 |
+| Pioneer | 71.00% | ~894,561 |
+| Green Energy | 59.00% | ~743,368 |
+| Foggy Weather | 58.00% | ~730,768 |
+| Singing In The- | 58.00% | ~730,768 |
+| Unpopular Mayor | 40.00% | ~503,978 |
+| Power at Your Fingertips | 33.00% | ~415,782 |
+| City Planner | 22.00% | ~277,188 |
+| Rolling in Dough | 20.00% | ~251,989 |
+| Does My Bum Look Big In This? | 17.00% | ~214,191 |
+| Climbing the Social Ladder | 16.00% | ~201,591 |
+| Safe City | 13.00% | ~163,793 |
+| Quay-King | 11.00% | ~138,594 |
+| With Canals You Can! | 10.00% | ~125,994 |
+| Lawmaker | 9.00% | ~113,395 |
+| Nomen Est Omen | 7.00% | ~88,196 |
+| Well Informed | 6.00% | ~75,597 |
+| Fire Watch | 5.00% | ~62,997 |
+| Greenest City | 4.00% | ~50,398 |
+| Heavenly City | 3.00% | ~37,798 |
+| Reporting! | 3.00% | ~37,798 |
+| SIMulated City | 3.00% | ~37,798 |
+| The Safest Town | 3.00% | ~37,798 |
+| Professional Dumper | 2.00% | ~25,199 |
 | City in Motion | 1.00% | ~12,599 |
 | Earthloving City | 1.00% | ~12,599 |
 | Metropolis | 1.00% | ~12,599 |
-| Higher Education | 0.80% | ~10,079 |
-| Beam Me Up | 0.70% | ~8,819 |
-| Terraformer | 0.60% | ~7,559 |
-| Decorator | 0.50% | ~6,299 |
-| Full Capacity | 0.50% | ~6,299 |
-| It's heading right for us! | 0.50% | ~6,299 |
-| Shake It Up! | 0.50% | ~6,299 |
-| The Waters of Our Lives | 0.50% | ~6,299 |
-| Twist and shout | 0.50% | ~6,299 |
+| Higher Education | 0.80% | ~10,080 |
+| Beam Me Up | 0.70% | ~8,820 |
+| Terraformer | 0.60% | ~7,560 |
+| Decorator | 0.50% | ~6,300 |
+| Full Capacity | 0.50% | ~6,300 |
+| It's heading right for us! | 0.50% | ~6,300 |
+| Shake It Up! | 0.50% | ~6,300 |
+| The Waters of Our Lives | 0.50% | ~6,300 |
+| Twist and shout | 0.50% | ~6,300 |
 | Airfield Expertise | 0.40% | ~5,040 |
 | Drop the Base | 0.40% | ~5,040 |
 | Get Your Snowshoes Ready! | 0.40% | ~5,040 |
@@ -126,8 +126,8 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,260 |
 | Z00 | 0.10% | ~1,260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,259,895 (Ranked 12)  
-Completed: 11 (0.00%) (Ranked 395)  
+Progressed: 1,259,945 (Ranked 12)  
+Completed: 11 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -391,10 +391,10 @@ Completed: 11 (0.00%) (Ranked 395)
 | 2024-01-07 | 1,256,109 | 11 |
 | 2024-01-08 | 1,257,411 | 11 |
 | 2024-01-09 | 1,258,819 | 11 |
-| 2024-01-10 | 1,259,895 | 11 |
+| 2024-01-10 | 1,259,945 | 11 |
 ## Awards
 Max (Great for Beginners): 6,676  (Ranked 61)  
-Sum: 49,120 (Ranked 32)  
+Sum: 49,126 (Ranked 32)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -403,7 +403,7 @@ Diff (max vs sum): 29
 | This game is Educational | 6,189 |
 | This game has Quickly Understood Controls | 6,015 |
 | This game is Extremely Fun | 5,624 |
-| This game is Highly Recommended | 5,456 |
+| This game is Highly Recommended | 5,462 |
 | This game has Amazing Storytelling | 4,528 |
 | This game has a Creative Community | 4,313 |
 | This game has Amazing Characters | 3,832 |
@@ -760,4 +760,4 @@ Diff (max vs sum): 29
 | 2024-01-07 | 4.66 | - | 6,662 | 49,005 |
 | 2024-01-08 | 4.66 | - | 6,672 | 49,061 |
 | 2024-01-09 | 4.66 | - | 6,676 | 49,104 |
-| 2024-01-10 | 4.66 | - | 6,676 | 49,120 |
+| 2024-01-10 | 4.66 | - | 6,676 | 49,126 |

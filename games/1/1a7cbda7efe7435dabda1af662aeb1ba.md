@@ -36,7 +36,7 @@
 | The End of Fate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 49 (Ranked 558)  
-Completed: 0 (0.00%) (Ranked 395)  
+Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

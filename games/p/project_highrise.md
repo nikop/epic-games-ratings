@@ -94,7 +94,7 @@
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 514 (Ranked 351)  
-Completed: 0 (0.00%) (Ranked 395)  
+Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

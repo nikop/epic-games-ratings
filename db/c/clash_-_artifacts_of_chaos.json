@@ -3,8 +3,8 @@
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 453,
-  "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_Completed": 203,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -660,9 +660,9 @@
       "ID": "Achievement4",
       "SetID": "jf6ho5",
       "Name": "Omnia Vincit Amor",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Achievement5",
@@ -717,8 +717,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:10:03.5334574+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:10:15.311747+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:53.0986152+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:57:29.3972035+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:10:03.5334714+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:57:39.0582036+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:10:15.311765+00:00"
 }

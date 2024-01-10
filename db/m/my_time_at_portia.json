@@ -2,11 +2,11 @@
   "ID": "cobra",
   "Name": "My Time At Portia",
   "ProductSlug": "my-time-at-portia",
-  "Ranking_Rating": 286,
+  "Ranking_Rating": 285,
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 825,
-  "Ranking_EOS_Completed": 395,
+  "Ranking_EOS_Completed": 396,
   "Ranking_EOS_NewPlayers": 579,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
@@ -3880,6 +3880,6 @@
   "FirstSeen": "2022-07-22T20:22:29.4113784+00:00",
   "LastChanged": "2024-01-10T14:00:28.7667425+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:03.6568822+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:59:31.5870299+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:04:51.2211774+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:59:40.4364335+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:05:05.4309088+00:00"
 }

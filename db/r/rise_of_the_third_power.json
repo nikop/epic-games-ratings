@@ -3,8 +3,8 @@
   "Name": "Rise of the Third Power",
   "ProductSlug": "rise-of-the-third-power-682886",
   "Ranking_EOS_Progress": 450,
-  "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 485,
+  "Ranking_EOS_Completed": 94,
+  "Ranking_EOS_NewPlayers": 468,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 161,
+  "EOS_Progressed": 162,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.73,
+  "EOS_Completed_Percentage": 3.7,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.958758+00:00",
@@ -259,6 +259,11 @@
       "Time": "2024-01-08T03:09:15.7206354+00:00",
       "NumProgressed": 161,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-10T20:08:59.4430098+00:00",
+      "NumProgressed": 162,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 21,
@@ -294,7 +299,7 @@
       "Name": "Bloodlust",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Determined",
@@ -334,15 +339,15 @@
       "Name": "Geared",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "GettingItDone",
       "SetID": "4nce15l",
       "Name": "Gettin\u0027 It Done",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 80
+      "UsersEstimate": 79
     },
     {
       "ID": "MasterCrafter",
@@ -382,7 +387,7 @@
       "Name": "Overpowered",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "Patience",
@@ -404,9 +409,9 @@
       "ID": "SideJob",
       "SetID": "4nce15l",
       "Name": "Side Job",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 118
     },
     {
       "ID": "Sparkly",
@@ -422,7 +427,7 @@
       "Name": "Specialist",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Teamwork",
@@ -430,14 +435,14 @@
       "Name": "Teamwork",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
     {
       "ID": "4nce15l",
       "IsBase": true,
-      "Progressed": 161,
+      "Progressed": 162,
       "Completed": 6
     }
   ],
@@ -445,8 +450,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:08:46.6005093+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:08:59.4430094+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:58.8298876+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:57:45.1761734+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:08:46.6005242+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:57:55.381124+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:08:59.4430282+00:00"
 }

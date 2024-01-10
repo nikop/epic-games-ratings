@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 186,
-  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8850,
+  "EOS_Progressed": 8852,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -11312,6 +11312,11 @@
       "Time": "2024-01-10T19:05:32.4643568+00:00",
       "NumProgressed": 8850,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-10T20:05:47.2262527+00:00",
+      "NumProgressed": 8852,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 21,
@@ -11371,7 +11376,7 @@
       "Name": "Energy Saver",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -11427,7 +11432,7 @@
       "Name": "In a Pinch",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "LIBERATOR",
@@ -11490,7 +11495,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8850,
+      "Progressed": 8852,
       "Completed": 35
     }
   ],
@@ -11498,8 +11503,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2024-01-07T07:02:31.8255744+00:00",
-  "LastChanged_Achievements": "2024-01-10T19:05:32.4643563+00:00",
+  "LastChanged_Achievements": "2024-01-10T20:05:47.2262522+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:39.7579112+00:00",
-  "LastUpdate_Ratings": "2024-01-10T18:58:48.3637887+00:00",
-  "LastUpdate_Achievements": "2024-01-10T19:05:32.4644388+00:00"
+  "LastUpdate_Ratings": "2024-01-10T19:58:59.1240386+00:00",
+  "LastUpdate_Achievements": "2024-01-10T20:05:47.2263291+00:00"
 }

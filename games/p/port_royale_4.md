@@ -6,30 +6,30 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 79.00% | ~959 |
+| Cabin boy | 79.00% | ~960 |
 | My little farm | 63.00% | ~765 |
-| Every beginning is difficult | 62.00% | ~753 |
+| Every beginning is difficult | 61.00% | ~741 |
 | Gofer | 55.00% | ~668 |
 | 3, 2, 1, mine | 54.00% | ~656 |
 | O Captain! My Captain! | 54.00% | ~656 |
-| Seafarer | 50.00% | ~607 |
+| Seafarer | 50.00% | ~608 |
 | Greed for gold | 42.00% | ~510 |
 | Intangible | 41.00% | ~498 |
-| I'm out of here for a while | 41.00% | ~498 |
-| In a mint condition | 37.00% | ~449 |
+| I'm out of here for a while | 40.00% | ~486 |
+| In a mint condition | 37.00% | ~450 |
 | Licence to Kill | 36.00% | ~437 |
 | Pirates! | 34.00% | ~413 |
-| Collectionitis | 29.00% | ~352 |
+| Collectionitis | 28.00% | ~340 |
 | Megalomania | 28.00% | ~340 |
 | Christening | 27.00% | ~328 |
 | Groundskeeper | 25.00% | ~304 |
 | Walk the plank | 21.00% | ~255 |
 | Wholesale | 21.00% | ~255 |
 | My precious! | 18.00% | ~219 |
-| Pearly gates | 17.00% | ~206 |
-| Conquistador | 14.00% | ~170 |
+| Pearly gates | 17.00% | ~207 |
+| Conquistador | 13.00% | ~158 |
 | Panic buying | 11.00% | ~134 |
-| Your vessel, my vessel | 10.00% | ~121 |
+| Your vessel, my vessel | 10.00% | ~122 |
 | Just a scratch | 9.00% | ~109 |
 | All mine! | 9.00% | ~109 |
 | Paths of Glory | 8.00% | ~97 |
@@ -53,12 +53,12 @@ Number of Ratings: 53  (23.09.2022)
 | Raiders of the Lost Ark | 1.00% | ~12 |
 | Capitalist | 0.90% | ~11 |
 | Parlay? | 0.90% | ~11 |
-| Fleet Admiral | 0.70% | ~8 |
-| Traffic chaos | 0.70% | ~8 |
+| Fleet Admiral | 0.70% | ~9 |
+| Traffic chaos | 0.70% | ~9 |
 | Davy Jones' locker | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,214 (Ranked 283)  
-Completed: 1 (0.08%) (Ranked 321)  
+Progressed: 1,215 (Ranked 283)  
+Completed: 1 (0.08%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -289,7 +289,7 @@ Completed: 1 (0.08%) (Ranked 321)
 | 2024-01-07 | 1,196 | 1 |
 | 2024-01-08 | 1,205 | 1 |
 | 2024-01-09 | 1,210 | 1 |
-| 2024-01-10 | 1,214 | 1 |
+| 2024-01-10 | 1,215 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

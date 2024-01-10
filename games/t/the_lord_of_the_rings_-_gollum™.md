@@ -26,8 +26,8 @@
 | Made a Song | 5.00% | ~34 |
 | So Silly! | 4.00% | ~27 |
 | So Tasty! | 4.00% | ~27 |
+| Break a Leg! | 3.00% | ~21 |
 | Sweet Darkness | 3.00% | ~21 |
-| Break a Leg! | 2.00% | ~14 |
 | And now we wish... | 2.00% | ~14 |
 | Ss ss ss... | 2.00% | ~14 |
 | Collectibles Part 2 | 1.00% | ~7 |
@@ -42,7 +42,7 @@
 | River Hobbit | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 685 (Ranked 330)  
-Completed: 1 (0.15%) (Ranked 289)  
+Completed: 1 (0.15%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,7 +1,7 @@
 # Metalstorm
 [Store](https://store.epicgames.com/en-US/p/metalstorm)  
 [View Rawdata](../../db/m/metalstorm.json)  
-Rating: 4.38 (Ranked 792)  
+Rating: 4.40 (Ranked 769)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -46,3 +46,4 @@ Rating: 4.38 (Ranked 792)
 | 2024-01-07 | 4.40 | 0 | 0 |
 | 2024-01-08 | 4.40 | 0 | 0 |
 | 2024-01-09 | 4.38 | 0 | 0 |
+| 2024-01-10 | 4.40 | 0 | 0 |
