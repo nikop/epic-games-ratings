@@ -4,7 +4,7 @@
   "ProductSlug": "ihas-cd3d96",
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewPlayers": 580,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -170,8 +170,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-19T16:05:23.420676+00:00",
-  "LastChanged_Achievements": "2024-01-11T13:10:53.3459723+00:00",
+  "LastChanged_Achievements": "2024-01-11T14:04:40.7850453+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:55.2496436+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:04:57.0717962+00:00",
-  "LastUpdate_Achievements": "2024-01-11T13:10:53.3459838+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:59:03.5071927+00:00",
+  "LastUpdate_Achievements": "2024-01-11T14:04:40.7850924+00:00"
 }

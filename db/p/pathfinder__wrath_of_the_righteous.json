@@ -4803,10 +4803,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7213,
       "NumberOfAwardsMax": 1781
+    },
+    {
+      "Time": "2024-01-11T13:58:04.7795937+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7214,
+      "NumberOfAwardsMax": 1781
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7213,
+  "NumberOfAwards": 7214,
   "NumberOfAwardsMax": 1781,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4844,7 +4850,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 657
+      "Count": 658
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -19682,9 +19688,9 @@
       "ID": "18_MythicChoices",
       "SetID": "989of5o",
       "Name": "Mythic Choices",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1985
+      "UsersEstimate": 2118
     },
     {
       "ID": "19_EqualToAroden",
@@ -20487,9 +20493,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2024-01-10T20:57:24.6346179+00:00",
-  "LastChanged_Achievements": "2024-01-11T13:16:30.2841436+00:00",
+  "LastChanged": "2024-01-11T13:58:04.7795935+00:00",
+  "LastChanged_Achievements": "2024-01-11T14:10:09.1906375+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:50.9176644+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:03:57.0815406+00:00",
-  "LastUpdate_Achievements": "2024-01-11T13:16:30.2843309+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:58:04.7795941+00:00",
+  "LastUpdate_Achievements": "2024-01-11T14:10:09.190828+00:00"
 }

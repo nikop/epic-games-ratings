@@ -431,7 +431,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28444,
+  "EOS_Progressed": 28446,
   "EOS_Completed": 524,
   "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 13,
@@ -29101,6 +29101,11 @@
       "Time": "2024-01-11T13:10:57.484126+00:00",
       "NumProgressed": 28444,
       "NumCompleted": 524
+    },
+    {
+      "Time": "2024-01-11T14:04:44.6711615+00:00",
+      "NumProgressed": 28446,
+      "NumCompleted": 524
     }
   ],
   "TotalAchievements": 20,
@@ -29152,7 +29157,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2844
+      "UsersEstimate": 2845
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -29168,7 +29173,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3413
+      "UsersEstimate": 3414
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -29224,7 +29229,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3413
+      "UsersEstimate": 3414
     },
     {
       "ID": "INTRO_FINISHED",
@@ -29232,7 +29237,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 21617
+      "UsersEstimate": 21619
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -29271,15 +29276,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 28444,
+      "Progressed": 28446,
       "Completed": 524
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-11T07:57:26.7354656+00:00",
-  "LastChanged_Achievements": "2024-01-11T13:10:57.4841257+00:00",
+  "LastChanged_Achievements": "2024-01-11T14:04:44.671161+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.2454847+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:03:36.6814483+00:00",
-  "LastUpdate_Achievements": "2024-01-11T13:10:57.4843051+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:57:45.5463567+00:00",
+  "LastUpdate_Achievements": "2024-01-11T14:04:44.6713781+00:00"
 }

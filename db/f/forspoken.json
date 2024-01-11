@@ -631,9 +631,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 47069,
+  "EOS_Progressed": 47072,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 759,
+  "EOS_NewPlayers": 758,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18456,6 +18456,11 @@
       "Time": "2024-01-11T13:12:31.3565016+00:00",
       "NumProgressed": 47069,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T14:06:12.6210792+00:00",
+      "NumProgressed": 47072,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18499,7 +18504,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2353
+      "UsersEstimate": 2354
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -18523,7 +18528,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2353
+      "UsersEstimate": 2354
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -18603,7 +18608,7 @@
       "Name": "Awakening",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "CRAFT_ALL",
@@ -18723,7 +18728,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2353
+      "UsersEstimate": 2354
     },
     {
       "ID": "MAGIC_IVY",
@@ -18795,7 +18800,7 @@
       "Name": "Realized Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -18890,22 +18895,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47069,
+      "Progressed": 47072,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11906,
-      "Completed": 11906
+      "Progressed": 11909,
+      "Completed": 11909
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-09T14:02:53.1133514+00:00",
-  "LastChanged_Achievements": "2024-01-11T13:12:31.3565012+00:00",
+  "LastChanged_Achievements": "2024-01-11T14:06:12.6210787+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:09:11.4816967+00:00",
-  "LastUpdate_Achievements": "2024-01-11T13:12:31.3567031+00:00"
+  "LastUpdate_Ratings": "2024-01-11T14:03:04.3685891+00:00",
+  "LastUpdate_Achievements": "2024-01-11T14:06:12.6211881+00:00"
 }

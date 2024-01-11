@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~950 |
+| Malpractice Assurance | 13.00% | ~951 |
 | Lost and Found | 8.00% | ~585 |
 | Autodidact | 7.00% | ~9,271 |
 | This guy... again? | 7.00% | ~512 |
@@ -34,7 +34,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 4.00% | ~5,298 |
 | Nope | 4.00% | ~5,298 |
 | Unshackled | 4.00% | ~5,298 |
-| Friends 'Til the End | 4.00% | ~292 |
+| Friends 'Til the End | 4.00% | ~293 |
 | Resurrection | 3.00% | ~3,973 |
 | Unleash Hell | 3.00% | ~3,973 |
 | Funny Guy | 3.00% | ~3,973 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,442 (Ranked 91)  
+Progressed: 132,445 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 4 (0.00%) (Ranked 397)
 | 2024-01-08 | 132,215 | 3 |
 | 2024-01-09 | 132,315 | 3 |
 | 2024-01-10 | 132,395 | 4 |
-| 2024-01-11 | 132,442 | 4 |
+| 2024-01-11 | 132,445 | 4 |
 ## Awards
 Max (Character Customization): 8,002  (Ranked 50)  
 Sum: 21,584 (Ranked 58)  

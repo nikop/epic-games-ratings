@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 85.00% | ~317 |
-| Purification Pioneer | 80.00% | ~298 |
-| Mechanical Buddy | 74.00% | ~276 |
+| Meissa's Savior | 85.00% | ~318 |
+| Purification Pioneer | 79.00% | ~295 |
+| Mechanical Buddy | 74.00% | ~277 |
 | Dicesmithing Time! | 64.00% | ~239 |
-| Sanctuary Guardian | 54.00% | ~201 |
-| Endless Tricks | 51.00% | ~190 |
+| Sanctuary Guardian | 54.00% | ~202 |
+| Endless Tricks | 51.00% | ~191 |
 | Wild's Keeper | 49.00% | ~183 |
-| Mind Illuminator | 43.00% | ~160 |
+| Mind Illuminator | 43.00% | ~161 |
 | Stellar Dismantler | 38.00% | ~142 |
-| Astral Adventurer | 35.00% | ~131 |
 | Noctuan Champion | 35.00% | ~131 |
+| Astral Adventurer | 34.00% | ~127 |
 | Anomaly Destroyer | 31.00% | ~116 |
 | Star Killer | 30.00% | ~112 |
-| Eridanian Champion | 25.00% | ~93 |
+| Eridanian Champion | 25.00% | ~94 |
 | Loyal Partner | 22.00% | ~82 |
-| Lacertian Champion | 21.00% | ~78 |
+| Lacertian Champion | 21.00% | ~79 |
 | Apian Champion | 19.00% | ~71 |
 | Shard Spender | 18.00% | ~67 |
 | Unbeatable | 18.00% | ~67 |
 | Sadistic Plan | 15.00% | ~56 |
 | Behenian Champion | 14.00% | ~52 |
-| Heavy Purger | 12.00% | ~45 |
+| Heavy Purger | 11.00% | ~41 |
 | Wave Bender | 10.00% | ~37 |
 | Astral Seeker | 9.00% | ~34 |
 | Aquarian Champion | 9.00% | ~34 |
-| Heart Gate | 8.00% | ~30 |
 | Stellar Haste | 8.00% | ~30 |
+| Heart Gate | 7.00% | ~26 |
 | The Corruption Goddess | 7.00% | ~26 |
 | The Goddes Avatar | 7.00% | ~26 |
 | Favored by the Cosmos | 6.00% | ~22 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 373 (Ranked 376)  
+Progressed: 374 (Ranked 376)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,4 +180,4 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 360 | 0 |
 | 2024-01-09 | 364 | 0 |
 | 2024-01-10 | 372 | 0 |
-| 2024-01-11 | 373 | 0 |
+| 2024-01-11 | 374 | 0 |

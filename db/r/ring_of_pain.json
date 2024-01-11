@@ -3898,7 +3898,7 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242767,
+  "EOS_Progressed": 242771,
   "EOS_Completed": 305,
   "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 1,
@@ -31453,6 +31453,11 @@
       "Time": "2024-01-11T13:16:31.4272117+00:00",
       "NumProgressed": 242767,
       "NumCompleted": 305
+    },
+    {
+      "Time": "2024-01-11T14:10:10.178333+00:00",
+      "NumProgressed": 242771,
+      "NumCompleted": 305
     }
   ],
   "TotalAchievements": 138,
@@ -32472,7 +32477,7 @@
       "Name": "Diviner",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "FINISHRUNALLMAGE",
@@ -32480,7 +32485,7 @@
       "Name": "Soul Kin",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "FINISHRUNALLONLYEQUIPMULTICLASS",
@@ -32512,7 +32517,7 @@
       "Name": "Nuclear",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "KILLBOSSINDIRECTLY",
@@ -32520,7 +32525,7 @@
       "Name": "Not Touching You",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "KILLBOSSWITHNOITEMS",
@@ -32544,7 +32549,7 @@
       "Name": "Expensive Look",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "SURVIVE60DAMAGESWAMPNEST",
@@ -32552,7 +32557,7 @@
       "Name": "What Doesn\u0027t Kill You",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "WEARSAMESETINSLOTS",
@@ -32560,20 +32565,20 @@
       "Name": "Matching",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     }
   ],
   "AchievementSets": [
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242767,
+      "Progressed": 242771,
       "Completed": 305
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4247,
+      "Progressed": 4251,
       "Completed": 424
     }
   ],
@@ -32581,8 +32586,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-11T01:48:01.788838+00:00",
-  "LastChanged_Achievements": "2024-01-11T13:16:31.4272112+00:00",
+  "LastChanged_Achievements": "2024-01-11T14:10:10.1783325+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:04:55.5338609+00:00",
-  "LastUpdate_Achievements": "2024-01-11T13:16:31.427474+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:59:02.0208978+00:00",
+  "LastUpdate_Achievements": "2024-01-11T14:10:10.178613+00:00"
 }

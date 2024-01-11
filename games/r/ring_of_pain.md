@@ -19,8 +19,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Uncharted Territory | 1.00% | ~2,428 |
 | Explorer | 1.00% | ~2,428 |
 | An Offering | 1.00% | ~2,428 |
-| Not Touching You | 1.00% | ~42 |
-| Matching | 1.00% | ~42 |
+| Not Touching You | 1.00% | ~43 |
+| Matching | 1.00% | ~43 |
 | Delving Deeper | 0.90% | ~2,185 |
 | R.I.P | 0.90% | ~2,185 |
 | The Bestiary | 0.90% | ~2,185 |
@@ -51,8 +51,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Doing Time | 0.60% | ~1,457 |
 | Acid Bath | 0.60% | ~1,457 |
 | New Perspectives | 0.60% | ~1,457 |
-| Expensive Look | 0.60% | ~25 |
-| What Doesn't Kill You | 0.60% | ~25 |
+| Expensive Look | 0.60% | ~26 |
+| What Doesn't Kill You | 0.60% | ~26 |
 | Thank You, Friend | 0.50% | ~1,214 |
 | Shadow Spreads | 0.50% | ~1,214 |
 | Max Damage! | 0.50% | ~1,214 |
@@ -103,9 +103,9 @@ Number of Ratings: 15,086  (23.09.2022)
 | No Mercy | 0.20% | ~486 |
 | Just Looking Around | 0.20% | ~486 |
 | Champion of the Day | 0.20% | ~486 |
-| Diviner | 0.20% | ~8 |
-| Soul Kin | 0.20% | ~8 |
-| Nuclear | 0.20% | ~8 |
+| Diviner | 0.20% | ~9 |
+| Soul Kin | 0.20% | ~9 |
+| Nuclear | 0.20% | ~9 |
 | Disposal | 0.10% | ~243 |
 | Hanging On | 0.10% | ~243 |
 | A Hard Carry | 0.10% | ~243 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,767 (Ranked 73)  
+Progressed: 242,771 (Ranked 73)  
 Completed: 305 (0.13%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -411,7 +411,7 @@ Completed: 305 (0.13%) (Ranked 300)
 | 2024-01-08 | 242,637 | 304 |
 | 2024-01-09 | 242,696 | 304 |
 | 2024-01-10 | 242,736 | 305 |
-| 2024-01-11 | 242,767 | 305 |
+| 2024-01-11 | 242,771 | 305 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 139)  
 Sum: 11,792 (Ranked 89)  

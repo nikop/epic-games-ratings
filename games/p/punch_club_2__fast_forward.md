@@ -55,9 +55,9 @@
 | Undercover robot | 30.00% | ~172 |
 | Problems of cyborgs | 29.00% | ~166 |
 | Absolute Champion! | 29.00% | ~166 |
+| Another world | 28.00% | ~161 |
 | Not little hacker | 28.00% | ~161 |
 | Trap disarmed | 27.00% | ~155 |
-| Another world | 27.00% | ~155 |
 | The lonesome road | 27.00% | ~155 |
 | Keep nature safe | 27.00% | ~155 |
 | Family comes first | 27.00% | ~155 |

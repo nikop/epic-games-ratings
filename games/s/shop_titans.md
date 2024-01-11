@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,576 |
-| Titan's First Steps | 11.00% | ~16,576 |
+| Sponsored by Argon | 11.00% | ~16,577 |
+| Titan's First Steps | 11.00% | ~16,577 |
 | Basic in Bulk | 10.00% | ~15,070 |
 | Tinkle of Coins | 9.00% | ~13,563 |
 | Disintermediation | 8.00% | ~12,056 |
@@ -27,6 +27,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flooding the Market | 4.00% | ~6,028 |
 | Where it Hurts | 4.00% | ~6,028 |
 | Gild-Gotten Goods | 4.00% | ~6,028 |
+| Accomplished Merchant | 4.00% | ~6,028 |
 | Dungeon Imports | 4.00% | ~6,028 |
 | Did we pack lunch? | 4.00% | ~6,028 |
 | Arcane Industries | 4.00% | ~6,028 |
@@ -48,7 +49,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gem Expert | 3.00% | ~4,521 |
 | Royal Ransom | 3.00% | ~4,521 |
 | Helping Hand | 3.00% | ~4,521 |
-| Accomplished Merchant | 3.00% | ~4,521 |
 | Natural 20 | 3.00% | ~4,521 |
 | Seasoned Journeyman | 3.00% | ~4,521 |
 | Magical Harmony | 3.00% | ~4,521 |
@@ -113,13 +113,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.70% | ~1,055 |
 | Unleashed Potential | 0.70% | ~1,055 |
 | JACKPOT!!! | 0.70% | ~1,055 |
-| Oligarch Monarch | 0.50% | ~753 |
-| Merchant Extraordinaire | 0.50% | ~753 |
+| Oligarch Monarch | 0.50% | ~754 |
+| Merchant Extraordinaire | 0.50% | ~754 |
 | To Hell and Back | 0.40% | ~603 |
 | Cash Only Please | 0.40% | ~603 |
 | Capitalist Camaraderie | 0.30% | ~452 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,695 (Ranked 86)  
+Progressed: 150,700 (Ranked 86)  
 Completed: 349 (0.23%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -385,7 +385,7 @@ Completed: 349 (0.23%) (Ranked 270)
 | 2024-01-08 | 150,343 | 345 |
 | 2024-01-09 | 150,487 | 345 |
 | 2024-01-10 | 150,626 | 348 |
-| 2024-01-11 | 150,695 | 349 |
+| 2024-01-11 | 150,700 | 349 |
 ## Awards
 Max (Great for Beginners): 4,952  (Ranked 78)  
 Sum: 27,979 (Ranked 52)  

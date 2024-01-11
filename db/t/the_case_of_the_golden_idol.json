@@ -4,7 +4,7 @@
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 248,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.23,
   "EosHistory": [
@@ -1114,9 +1114,9 @@
       "ID": "7",
       "SetID": "acl54ke",
       "Name": "Solved eighth case",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "8",
@@ -1201,8 +1201,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2024-01-11T13:12:15.2478474+00:00",
+  "LastChanged_Achievements": "2024-01-11T14:05:58.1949639+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.945311+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:05:33.3390006+00:00",
-  "LastUpdate_Achievements": "2024-01-11T13:12:15.2478604+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:59:38.8276545+00:00",
+  "LastUpdate_Achievements": "2024-01-11T14:05:58.1949848+00:00"
 }

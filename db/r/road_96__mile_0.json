@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 694,
+  "EOS_Progressed": 695,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -2527,6 +2527,11 @@
       "Time": "2024-01-11T13:16:17.6204862+00:00",
       "NumProgressed": 694,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-11T14:09:57.2109669+00:00",
+      "NumProgressed": 695,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2538,7 +2543,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 45,
       "XP": 60,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "completeact2",
@@ -2610,7 +2615,7 @@
       "Name": "Souvenirs",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "scoreminrankrp1",
@@ -2657,7 +2662,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 694,
+      "Progressed": 695,
       "Completed": 3
     }
   ],
@@ -2665,8 +2670,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-11T13:16:17.6204858+00:00",
+  "LastChanged_Achievements": "2024-01-11T14:09:57.2109664+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.1061642+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:06:04.7586627+00:00",
-  "LastUpdate_Achievements": "2024-01-11T13:16:17.6205103+00:00"
+  "LastUpdate_Ratings": "2024-01-11T14:00:08.6177277+00:00",
+  "LastUpdate_Achievements": "2024-01-11T14:09:57.2109942+00:00"
 }

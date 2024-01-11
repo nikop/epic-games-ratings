@@ -5505,7 +5505,7 @@
       "Count": 539
     }
   ],
-  "EOS_Progressed": 93388,
+  "EOS_Progressed": 93391,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
@@ -31135,6 +31135,11 @@
       "Time": "2024-01-11T13:11:18.6443836+00:00",
       "NumProgressed": 93388,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-11T14:05:04.7140259+00:00",
+      "NumProgressed": 93391,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -31258,7 +31263,7 @@
       "Name": "Headhunter",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "ACH_0101",
@@ -31424,9 +31429,9 @@
       "ID": "ACH_0460",
       "SetID": "3kam13l",
       "Name": "Impossible Dreamer",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 55,
-      "UsersEstimate": 187
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_0600",
@@ -31473,13 +31478,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 93388,
+      "Progressed": 93391,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21735,
+      "Progressed": 21738,
       "Completed": 15599
     }
   ],
@@ -31487,8 +31492,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-11T13:03:23.469899+00:00",
-  "LastChanged_Achievements": "2024-01-11T13:11:18.6443833+00:00",
+  "LastChanged_Achievements": "2024-01-11T14:05:04.7140255+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:40.4736817+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:03:23.4698995+00:00",
-  "LastUpdate_Achievements": "2024-01-11T13:11:18.6446451+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:57:34.6575676+00:00",
+  "LastUpdate_Achievements": "2024-01-11T14:05:04.7142153+00:00"
 }

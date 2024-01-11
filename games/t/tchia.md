@@ -18,11 +18,11 @@ Rating: 4.70 (Ranked 219)
 | Fashion Faux-Pas | 0.20% | ~18 |
 | Historian | 0.20% | ~18 |
 | Iconoclast | 0.20% | ~18 |
+| Liberator | 0.20% | ~18 |
 | Arrr! | 0.10% | ~9 |
 | Ça de Wizz! | 0.10% | ~9 |
 | Fashion Victim | 0.10% | ~9 |
 | Happy Camper | 0.10% | ~9 |
-| Liberator | 0.10% | ~9 |
 | Live Wire | 0.10% | ~9 |
 | Snip Snip | 0.10% | ~9 |
 | Thing | 0.10% | ~9 |

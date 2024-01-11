@@ -45,9 +45,9 @@ Rating: 4.75 (Ranked 147)
 | Brimstone Shaken, Not Stirred | 29.00% | ~220 |
 | Hungry, Hungry Gorgu! | 28.00% | ~212 |
 | Stop Tanos! | 28.00% | ~212 |
+| Sabotage! | 28.00% | ~212 |
 | Raiders of the Lost Stone | 28.00% | ~212 |
 | The Rune Sockets of Finitude (Part 1) | 28.00% | ~212 |
-| Sabotage! | 27.00% | ~204 |
 | Bonus Evilness | 26.00% | ~197 |
 | The Rune Sockets of Finitude (Part 2) | 26.00% | ~197 |
 | The Last Stand - This Time For Real! | 25.00% | ~189 |

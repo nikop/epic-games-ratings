@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 507,
+  "EOS_Progressed": 508,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -1496,6 +1496,11 @@
       "Time": "2024-01-11T08:09:51.5568709+00:00",
       "NumProgressed": 507,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-11T14:09:42.0451949+00:00",
+      "NumProgressed": 508,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 19,
@@ -1537,9 +1542,9 @@
       "ID": "profile_misha",
       "SetID": "6h5h9ho",
       "Name": "Let it begin",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 229
     },
     {
       "ID": "profile_ryan",
@@ -1547,7 +1552,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "ryan_date2_all",
@@ -1569,9 +1574,9 @@
       "ID": "success_azalea",
       "SetID": "6h5h9ho",
       "Name": "The activist",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 106
+      "UsersEstimate": 102
     },
     {
       "ID": "success_bash",
@@ -1587,7 +1592,7 @@
       "Name": "The boss",
       "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "success_derek",
@@ -1627,7 +1632,7 @@
       "Name": "The techie",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "success_toni",
@@ -1658,7 +1663,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 507,
+      "Progressed": 508,
       "Completed": 6
     }
   ],
@@ -1666,8 +1671,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-11T13:16:01.0713321+00:00",
+  "LastChanged_Achievements": "2024-01-11T14:09:42.0451942+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.8807214+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:06:13.2361894+00:00",
-  "LastUpdate_Achievements": "2024-01-11T13:16:01.0713582+00:00"
+  "LastUpdate_Ratings": "2024-01-11T14:00:15.2749191+00:00",
+  "LastUpdate_Achievements": "2024-01-11T14:09:42.0452171+00:00"
 }

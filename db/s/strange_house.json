@@ -2,9 +2,9 @@
   "ID": "e65306b6830641a68e3b76e5b1bc2dfd",
   "Name": "Strange House",
   "ProductSlug": "strange-house-5fd1b5",
-  "Ranking_EOS_Progress": 564,
+  "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 539,
+  "Ranking_EOS_NewPlayers": 514,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-03T11:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 48,
+  "EOS_Progressed": 49,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -267,6 +267,11 @@
       "Time": "2024-01-10T04:09:49.1368225+00:00",
       "NumProgressed": 48,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T14:09:09.1676644+00:00",
+      "NumProgressed": 49,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-08T22:03:43.7557522+00:00",
@@ -277,7 +282,7 @@
       "ID": "AlcoholMachine",
       "SetID": "a2ci5mh",
       "Name": "Alcoholic",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 150,
       "UsersEstimate": 9
     },
@@ -285,7 +290,7 @@
       "ID": "EndPrologue",
       "SetID": "a2ci5mh",
       "Name": "Chapter 1",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 150,
       "UsersEstimate": 8
     },
@@ -293,7 +298,7 @@
       "ID": "FoundPig",
       "SetID": "a2ci5mh",
       "Name": "Piglet",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 200,
       "UsersEstimate": 6
     },
@@ -301,7 +306,7 @@
       "ID": "LostCat",
       "SetID": "a2ci5mh",
       "Name": "Lost Cat",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 200,
       "UsersEstimate": 6
     },
@@ -309,7 +314,7 @@
       "ID": "Underground",
       "SetID": "a2ci5mh",
       "Name": "Underground",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 150,
       "UsersEstimate": 9
     },
@@ -317,7 +322,7 @@
       "ID": "VisorGlass1",
       "SetID": "a2ci5mh",
       "Name": "Nice Glass",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 150,
       "UsersEstimate": 10
     }
@@ -326,13 +331,13 @@
     {
       "ID": "a2ci5mh",
       "IsBase": true,
-      "Progressed": 48,
+      "Progressed": 49,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2024-01-11T13:15:26.0497333+00:00",
+  "LastChanged_Achievements": "2024-01-11T14:09:09.1676637+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:54.1646105+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:09:27.3993715+00:00",
-  "LastUpdate_Achievements": "2024-01-11T13:15:26.0497396+00:00"
+  "LastUpdate_Ratings": "2024-01-11T14:03:19.2051459+00:00",
+  "LastUpdate_Achievements": "2024-01-11T14:09:09.1676744+00:00"
 }

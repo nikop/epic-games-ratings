@@ -2238,9 +2238,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16411,
+  "EOS_Progressed": 16412,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 297,
+  "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19593,6 +19593,11 @@
       "Time": "2024-01-11T13:16:33.1356821+00:00",
       "NumProgressed": 16411,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-11T14:10:11.6215915+00:00",
+      "NumProgressed": 16412,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20162,9 +20167,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
       "SetID": "9201eeb",
       "Name": "Mighty",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 98
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
@@ -20802,17 +20807,17 @@
       "ID": "ACHIEVEMENT_GREECE5_BUCEPHALUS_10_KILLS",
       "SetID": "9201eeb",
       "Name": "Mighty Bucephalus",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_GREECE5_GORDIAN_KNOT",
       "SetID": "9201eeb",
       "Name": "Knot So Hard",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_GREECE5_PERSIAN_GATE",
@@ -20834,9 +20839,9 @@
       "ID": "ACHIEVEMENT_GREECE5_TYRE",
       "SetID": "9201eeb",
       "Name": "A Tyresome Siege",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_GREECE5_VICTORY",
@@ -20938,9 +20943,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
       "SetID": "9201eeb",
       "Name": "Circus Maximus",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
@@ -22467,21 +22472,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16411,
+      "Progressed": 16412,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16411,
+      "Progressed": 16412,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-09T22:57:23.2402519+00:00",
-  "LastChanged_Achievements": "2024-01-11T13:16:33.1356816+00:00",
+  "LastChanged_Achievements": "2024-01-11T14:10:11.6215911+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:04:20.3154042+00:00",
-  "LastUpdate_Achievements": "2024-01-11T13:16:33.1367346+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:58:26.6462336+00:00",
+  "LastUpdate_Achievements": "2024-01-11T14:10:11.6225694+00:00"
 }

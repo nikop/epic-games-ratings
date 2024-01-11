@@ -14,7 +14,7 @@
 | Blurry depth perception | 82.00% | ~125 |
 | Nerd | 81.00% | ~124 |
 | Up and down | 80.00% | ~122 |
-| Rolling, Rolling, Rolling | 77.00% | ~118 |
+| Rolling, Rolling, Rolling | 78.00% | ~119 |
 | Fire-fighter! | 67.00% | ~103 |
 | Oh, you're up to no gouda! | 65.00% | ~99 |
 | Make Love not War-Craft a Mistlefoe | 63.00% | ~96 |

@@ -72,6 +72,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 0.70% | ~115 |
 | Beloved | 0.60% | ~98 |
 | Intercessor | 0.60% | ~98 |
+| Mighty | 0.60% | ~98 |
 | Good Difficulty | 0.60% | ~98 |
 | Champions | 0.60% | ~98 |
 | Statesmen | 0.60% | ~98 |
@@ -80,13 +81,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.60% | ~98 |
 | Points Victory | 0.60% | ~98 |
 | Win a Single Player Game | 0.60% | ~98 |
-| Mighty | 0.50% | ~82 |
 | Victorious | 0.50% | ~82 |
 | Landowners | 0.50% | ~82 |
 | Patrons | 0.50% | ~82 |
 | Riders | 0.50% | ~82 |
 | Traders | 0.50% | ~82 |
 | Hittite Iron | 0.50% | ~82 |
+| Circus Maximus | 0.50% | ~82 |
 | Hagia Sophia | 0.50% | ~82 |
 | Temple of Solomon | 0.50% | ~82 |
 | Pantheon | 0.50% | ~82 |
@@ -103,7 +104,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.40% | ~66 |
 | Subjugator | 0.40% | ~66 |
 | Strong Difficulty | 0.40% | ~66 |
-| Circus Maximus | 0.40% | ~66 |
 | Learn to Play 4 | 0.40% | ~66 |
 | Assyrian Paganism | 0.40% | ~66 |
 | Industrial Progress | 0.40% | ~66 |
@@ -224,6 +224,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Philip's Bronze Crown | 0.10% | ~16 |
 | Philip's Golden Crown | 0.10% | ~16 |
 | Philip's Silver Crown | 0.10% | ~16 |
+| Mighty Bucephalus | 0.10% | ~16 |
+| Knot So Hard | 0.10% | ~16 |
+| A Tyresome Siege | 0.10% | ~16 |
 | The Eastern Empire | 0.10% | ~16 |
 | Mausoleum in Halicarnassus | 0.10% | ~16 |
 | Hardcore | 0.10% | ~16 |
@@ -317,11 +320,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Queen of Lies | 0.00% | ~0 |
 | Queen of Opportunity | 0.00% | ~0 |
 | Queen of War | 0.00% | ~0 |
-| Mighty Bucephalus | 0.00% | ~0 |
-| Knot So Hard | 0.00% | ~0 |
 | Gate to Victory | 0.00% | ~0 |
 | Pharaoh | 0.00% | ~0 |
-| A Tyresome Siege | 0.00% | ~0 |
 | Alexander the Mediocre | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the Alright | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,411 (Ranked 169)  
+Progressed: 16,412 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -631,7 +631,7 @@ Completed: 5 (0.03%) (Ranked 355)
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
-| 2024-01-11 | 16,411 | 5 |
+| 2024-01-11 | 16,412 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,919 (Ranked 224)  

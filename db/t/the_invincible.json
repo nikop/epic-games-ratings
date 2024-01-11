@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -97,9 +97,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1625,
+  "EOS_Progressed": 1626,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4237,6 +4237,11 @@
       "Time": "2024-01-11T13:15:56.4305607+00:00",
       "NumProgressed": 1625,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T14:09:37.8192224+00:00",
+      "NumProgressed": 1626,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4249,7 +4254,7 @@
       "Name": "The Teleprobe",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "AchvAllMemories",
@@ -4313,7 +4318,7 @@
       "Name": "The Alliance",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "AchvDoom",
@@ -4369,7 +4374,7 @@
       "Name": "I leave no man behind (no exceptions)",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "AchvNecro",
@@ -4377,7 +4382,7 @@
       "Name": "The Necroevolution",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "AchvNest",
@@ -4417,7 +4422,7 @@
       "Name": "The field base",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "AchvReachCamp",
@@ -4433,7 +4438,7 @@
       "Name": "The City",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "AchvReachCondor",
@@ -4441,7 +4446,7 @@
       "Name": "The Condor",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "AchvSurvivors",
@@ -4465,7 +4470,7 @@
       "Name": "The End",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "AchvUnity",
@@ -4473,14 +4478,14 @@
       "Name": "Beyond divisions",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1625,
+      "Progressed": 1626,
       "Completed": 1
     }
   ],
@@ -4488,8 +4493,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-09T16:58:03.3059703+00:00",
-  "LastChanged_Achievements": "2024-01-11T13:15:56.4305598+00:00",
+  "LastChanged_Achievements": "2024-01-11T14:09:37.8192218+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:04:49.845977+00:00",
-  "LastUpdate_Achievements": "2024-01-11T13:15:56.4306038+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:58:55.9689321+00:00",
+  "LastUpdate_Achievements": "2024-01-11T14:09:37.8192687+00:00"
 }

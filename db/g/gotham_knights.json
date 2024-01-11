@@ -5207,9 +5207,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82474,
+  "EOS_Progressed": 82475,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 1117,
+  "EOS_NewPlayers": 1110,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -29802,6 +29802,11 @@
       "Time": "2024-01-11T13:11:56.9384756+00:00",
       "NumProgressed": 82474,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2024-01-11T14:05:41.09891+00:00",
+      "NumProgressed": 82475,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 61,
@@ -29885,7 +29890,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "ALL_VILLAIN",
@@ -29933,7 +29938,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 11546
+      "UsersEstimate": 11547
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -30053,7 +30058,7 @@
       "Name": "Snow Problem",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 14845
+      "UsersEstimate": 14846
     },
     {
       "ID": "FREEZE_3",
@@ -30061,7 +30066,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 11546
+      "UsersEstimate": 11547
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -30117,7 +30122,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28041
+      "UsersEstimate": 28042
     },
     {
       "ID": "HARLEY_2",
@@ -30157,7 +30162,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41237
+      "UsersEstimate": 41238
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -30165,7 +30170,7 @@
       "Name": "He\u0027d Be So Proud of You",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "HERO_PROGRESSION_3",
@@ -30189,7 +30194,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21443
+      "UsersEstimate": 21444
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -30205,7 +30210,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27216
+      "UsersEstimate": 27217
     },
     {
       "ID": "MYSTERY_02",
@@ -30245,7 +30250,7 @@
       "Name": "Voiceless",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 11546
+      "UsersEstimate": 11547
     },
     {
       "ID": "MYSTERY_07",
@@ -30300,13 +30305,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82474,
+      "Progressed": 82475,
       "Completed": 133
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 52754,
+      "Progressed": 52755,
       "Completed": 2679
     }
   ],
@@ -30314,8 +30319,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-11T08:00:28.7381437+00:00",
-  "LastChanged_Achievements": "2024-01-11T13:11:56.9384753+00:00",
+  "LastChanged_Achievements": "2024-01-11T14:05:41.0989095+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:43.7132471+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:06:38.2725058+00:00",
-  "LastUpdate_Achievements": "2024-01-11T13:11:56.9386638+00:00"
+  "LastUpdate_Ratings": "2024-01-11T14:00:37.8659642+00:00",
+  "LastUpdate_Achievements": "2024-01-11T14:05:41.0990757+00:00"
 }

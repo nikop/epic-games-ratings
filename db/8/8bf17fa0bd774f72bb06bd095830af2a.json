@@ -4,7 +4,7 @@
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
   "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewPlayers": 488,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
@@ -347,9 +347,9 @@
       "ID": "SteamAchievment_BuildOneBuilding",
       "SetID": "b8gj0ip",
       "Name": "Emerging Constructor",
-      "Percentage": 64,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "SteamAchievment_CompleteAllChallenges",
@@ -539,9 +539,9 @@
       "ID": "SteamAchievment_FirstVisitCapitalCity",
       "SetID": "b8gj0ip",
       "Name": "The Dawn",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "SteamAchievment_MergeAnyArtifactOnMaxLevel",
@@ -562,8 +562,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2024-01-11T13:09:49.8671073+00:00",
+  "LastChanged_Achievements": "2024-01-11T14:03:41.6362074+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:55.2473353+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:04:53.3557405+00:00",
-  "LastUpdate_Achievements": "2024-01-11T13:09:49.867155+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:58:59.9192763+00:00",
+  "LastUpdate_Achievements": "2024-01-11T14:03:41.6362591+00:00"
 }

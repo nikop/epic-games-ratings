@@ -5,9 +5,9 @@ Rating: 4.50 (Ranked 615)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 11.00% | ~3,688 |
+| Stylish | 11.00% | ~3,689 |
 | Meticulously Efficient | 9.00% | ~3,018 |
-| Advancement | 8.00% | ~2,682 |
+| Advancement | 8.00% | ~2,683 |
 | Discovery | 6.00% | ~2,012 |
 | Solo Capture | 6.00% | ~2,012 |
 | Swift Rift Removers | 6.00% | ~2,012 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 615)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,531 (Ranked 137)  
+Progressed: 33,532 (Ranked 137)  
 Completed: 71 (0.21%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,10 +323,10 @@ Completed: 71 (0.21%) (Ranked 276)
 | 2024-01-08 | 33,470 | 71 |
 | 2024-01-09 | 33,497 | 71 |
 | 2024-01-10 | 33,517 | 71 |
-| 2024-01-11 | 33,531 | 71 |
+| 2024-01-11 | 33,532 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 256)  
-Sum: 2,959 (Ranked 186)  
+Sum: 2,960 (Ranked 186)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
@@ -335,7 +335,7 @@ Diff (max vs sum): 70
 | This game has Diverse Characters | 313 |
 | This game has Amazing Storytelling | 296 |
 | This game is Highly Recommended | 293 |
-| This game has Competitive Players | 288 |
+| This game has Competitive Players | 289 |
 | This game is Extremely Fun | 286 |
 | This game is Relaxing | 284 |
 | This game has Amazing Characters | 273 |
@@ -607,4 +607,4 @@ Diff (max vs sum): 70
 | 2024-01-07 | 4.50 | 328 | 2,953 |
 | 2024-01-09 | 4.50 | 328 | 2,954 |
 | 2024-01-10 | 4.50 | 328 | 2,958 |
-| 2024-01-11 | 4.50 | 328 | 2,959 |
+| 2024-01-11 | 4.50 | 328 | 2,960 |

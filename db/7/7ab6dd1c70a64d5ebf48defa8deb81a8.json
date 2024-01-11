@@ -85,7 +85,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2226,
+  "EOS_Progressed": 2227,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 1,
@@ -4255,6 +4255,11 @@
       "Time": "2024-01-11T13:16:22.7058992+00:00",
       "NumProgressed": 2226,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T14:10:02.0503141+00:00",
+      "NumProgressed": 2227,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -4266,7 +4271,7 @@
       "Name": "Break Out",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "ACH_02",
@@ -4322,7 +4327,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH_09",
@@ -4336,9 +4341,9 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 690
+      "UsersEstimate": 713
     },
     {
       "ID": "ACH_11",
@@ -4368,9 +4373,9 @@
       "ID": "ACH_14",
       "SetID": "efe2lj",
       "Name": "Airborne",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_15",
@@ -4386,7 +4391,7 @@
       "Name": "Essence Blow",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ACH_17",
@@ -4426,7 +4431,7 @@
       "Name": "Big Bazar",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ACH_22",
@@ -4498,7 +4503,7 @@
       "Name": "Alchemist",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ACH_31",
@@ -4520,9 +4525,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH_35",
@@ -4553,7 +4558,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2226,
+      "Progressed": 2227,
       "Completed": 4
     }
   ],
@@ -4561,8 +4566,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-09T14:59:34.4882092+00:00",
-  "LastChanged_Achievements": "2024-01-11T13:16:22.7058987+00:00",
+  "LastChanged_Achievements": "2024-01-11T14:10:02.0503136+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:03:13.3936839+00:00",
-  "LastUpdate_Achievements": "2024-01-11T13:16:22.7059547+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:57:24.6278446+00:00",
+  "LastUpdate_Achievements": "2024-01-11T14:10:02.0503561+00:00"
 }

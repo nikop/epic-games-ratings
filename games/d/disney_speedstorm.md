@@ -5,13 +5,13 @@ Rating: 4.42 (Ranked 740)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~51,271 |
-| IT MAKES BOOM! | 8.00% | ~31,552 |
-| EXTRA BOOST | 6.00% | ~23,664 |
-| PROTECTED | 5.00% | ~19,720 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,776 |
-| PRO | 4.00% | ~15,776 |
-| AGGRESSIVE RACER | 3.00% | ~11,832 |
+| ROOKIE | 13.00% | ~51,275 |
+| IT MAKES BOOM! | 8.00% | ~31,554 |
+| EXTRA BOOST | 6.00% | ~23,665 |
+| PROTECTED | 5.00% | ~19,721 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,777 |
+| PRO | 4.00% | ~15,777 |
+| AGGRESSIVE RACER | 3.00% | ~11,833 |
 | IT'S A LONG WAY TO THE TOP | 2.00% | ~7,888 |
 | TRAINING HARD | 2.00% | ~7,888 |
 | BE OUR GUEST | 2.00% | ~7,888 |
@@ -28,10 +28,10 @@ Rating: 4.42 (Ranked 740)
 | THE EYE OF THE HUNTER | 0.90% | ~3,550 |
 | FRAMED! | 0.70% | ~2,761 |
 | ACE TRICKSTER | 0.70% | ~2,761 |
-| PERFECTLY POISED | 0.60% | ~2,366 |
+| PERFECTLY POISED | 0.60% | ~2,367 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 394,395 (Ranked 52)  
-Completed: 1,563 (0.40%) (Ranked 238)  
+Progressed: 394,420 (Ranked 52)  
+Completed: 1,564 (0.40%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -292,10 +292,10 @@ Completed: 1,563 (0.40%) (Ranked 238)
 | 2024-01-08 | 391,815 | 1,530 |
 | 2024-01-09 | 392,943 | 1,547 |
 | 2024-01-10 | 393,978 | 1,557 |
-| 2024-01-11 | 394,395 | 1,563 |
+| 2024-01-11 | 394,420 | 1,564 |
 ## Awards
 Max (Great for Beginners): 178  (Ranked 313)  
-Sum: 1,174 (Ranked 264)  
+Sum: 1,175 (Ranked 264)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -309,7 +309,7 @@ Diff (max vs sum): 49
 | This game is Extremely Fun | 78 |
 | This game has Competitive Players | 70 |
 | This game has Quickly Understood Controls | 66 |
-| This game is Relaxing | 61 |
+| This game is Relaxing | 62 |
 | This game has Amazing Storytelling | 54 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -416,3 +416,4 @@ Diff (max vs sum): 49
 | 2024-01-08 | 4.42 | 176 | 1,149 |
 | 2024-01-09 | 4.42 | 178 | 1,166 |
 | 2024-01-10 | 4.42 | 178 | 1,174 |
+| 2024-01-11 | 4.42 | 178 | 1,175 |

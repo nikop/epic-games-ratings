@@ -10,7 +10,7 @@ Rating: 3.68 (Ranked 1,095)
 | Home Is Where the Heart Is | 15.00% | ~354 |
 | Wounded Whispers | 15.00% | ~354 |
 | ICU | 14.00% | ~330 |
-| Ne Plus Ultra | 13.00% | ~306 |
+| Ne Plus Ultra | 13.00% | ~307 |
 | Blood Will Have Blood | 12.00% | ~283 |
 | Peek-a-boo | 12.00% | ~283 |
 | Fly Fisher | 11.00% | ~259 |
@@ -47,9 +47,9 @@ Rating: 3.68 (Ranked 1,095)
 | Neighborhood Watch | 0.80% | ~19 |
 | Empty Nest Syndrome | 0.80% | ~19 |
 | Dexterity Save | 0.80% | ~19 |
-| Scream Team | 0.70% | ~16 |
-| What Lies Below | 0.70% | ~16 |
-| Good Samaritan | 0.70% | ~16 |
+| Scream Team | 0.70% | ~17 |
+| What Lies Below | 0.70% | ~17 |
+| Good Samaritan | 0.70% | ~17 |
 | Monster Hunters Club | 0.60% | ~14 |
 | Sisterhood | 0.60% | ~14 |
 | Under a Bushel | 0.60% | ~14 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,095)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,357 (Ranked 240)  
+Progressed: 2,358 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 2,317 | 0 |
 | 2024-01-09 | 2,331 | 0 |
 | 2024-01-10 | 2,353 | 0 |
-| 2024-01-11 | 2,357 | 0 |
+| 2024-01-11 | 2,358 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 555)  
 Sum: 24 (Ranked 562)  

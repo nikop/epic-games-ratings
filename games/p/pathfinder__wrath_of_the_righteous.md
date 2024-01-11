@@ -9,8 +9,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Devoured by Darkness | 27.00% | ~3,574 |
 | A Spark | 20.00% | ~2,647 |
 | Burning City | 19.00% | ~2,515 |
+| Mythic Choices | 16.00% | ~2,118 |
 | Defender's Heart | 16.00% | ~2,118 |
-| Mythic Choices | 15.00% | ~1,985 |
 | Banner over the Citadel | 14.00% | ~1,853 |
 | Queen's Gratitude | 13.00% | ~1,721 |
 | Fifth Crusade | 9.00% | ~1,191 |
@@ -392,14 +392,14 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-11 | 13,236 | 0 |
 ## Awards
 Max (Character Customization): 1,781  (Ranked 130)  
-Sum: 7,213 (Ranked 127)  
+Sum: 7,214 (Ranked 127)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,781 |
 | This game is Extremely Fun | 665 |
 | This game has Diverse Characters | 659 |
-| This game is Highly Recommended | 657 |
+| This game is Highly Recommended | 658 |
 | This game has Amazing Characters | 653 |
 | This game has Amazing Storytelling | 634 |
 | This game has Challenging Combat | 604 |
@@ -725,3 +725,4 @@ Diff (max vs sum): 3
 | 2024-01-08 | 4.76 | - | 1,780 | 7,210 |
 | 2024-01-09 | 4.76 | - | 1,780 | 7,211 |
 | 2024-01-10 | 4.76 | - | 1,781 | 7,213 |
+| 2024-01-11 | 4.76 | - | 1,781 | 7,214 |

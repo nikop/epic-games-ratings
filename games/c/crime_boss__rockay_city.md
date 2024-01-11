@@ -21,7 +21,7 @@ Rating: 3.96 (Ranked 1,061)
 | Hidden Sonata | 1.00% | ~934 |
 | Track Star | 1.00% | ~934 |
 | True Player | 1.00% | ~934 |
-| Headhunter | 0.90% | ~840 |
+| Headhunter | 0.90% | ~841 |
 | I Like Trains | 0.80% | ~747 |
 | Freebooter | 0.80% | ~747 |
 | Legend Looter | 0.60% | ~560 |
@@ -38,16 +38,16 @@ Rating: 3.96 (Ranked 1,061)
 | Classy Joint | 0.40% | ~374 |
 | Rockay Knight | 0.30% | ~280 |
 | Red Star | 0.30% | ~280 |
+| Impossible Dreamer | 0.30% | ~280 |
 | All for One | 0.30% | ~65 |
 | Now You See Me | 0.30% | ~65 |
 | Privateer | 0.20% | ~187 |
 | Talent Scout | 0.20% | ~187 |
-| Impossible Dreamer | 0.20% | ~187 |
 | One for All | 0.20% | ~43 |
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,388 (Ranked 103)  
+Progressed: 93,391 (Ranked 103)  
 Completed: 58 (0.06%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 58 (0.06%) (Ranked 331)
 | 2024-01-08 | 93,257 | 58 |
 | 2024-01-09 | 93,308 | 58 |
 | 2024-01-10 | 93,367 | 58 |
-| 2024-01-11 | 93,388 | 58 |
+| 2024-01-11 | 93,391 | 58 |
 ## Awards
 Max (Diverse Characters): 597  (Ranked 209)  
 Sum: 2,814 (Ranked 190)  

@@ -5,10 +5,10 @@
   "Ranking_Rating": 1037,
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 41,
-  "Ranking_EOS_Progress": 71,
+  "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9475,10 +9475,10 @@
       "Count": 3634
     }
   ],
-  "EOS_Progressed": 253325,
-  "EOS_Completed": 2611,
-  "EOS_NewPlayers": 2532,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 253338,
+  "EOS_Completed": 2612,
+  "EOS_NewPlayers": 2524,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -39635,6 +39635,11 @@
       "Time": "2024-01-11T12:10:19.4847216+00:00",
       "NumProgressed": 253325,
       "NumCompleted": 2611
+    },
+    {
+      "Time": "2024-01-11T14:10:12.8438665+00:00",
+      "NumProgressed": 253338,
+      "NumCompleted": 2612
     }
   ],
   "TotalAchievements": 546,
@@ -39646,7 +39651,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10133
+      "UsersEstimate": 10134
     },
     {
       "ID": "objective_completed_10",
@@ -40014,7 +40019,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5066
+      "UsersEstimate": 5067
     },
     {
       "ID": "objective_completed_110",
@@ -41318,7 +41323,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5066
+      "UsersEstimate": 5067
     },
     {
       "ID": "objective_completed_34",
@@ -44013,21 +44018,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219599,
+      "Progressed": 219612,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253325,
-      "Completed": 2611
+      "Progressed": 253338,
+      "Completed": 2612
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-11T13:05:05.0385272+00:00",
-  "LastChanged_Achievements": "2024-01-11T13:16:33.863491+00:00",
+  "LastChanged_Achievements": "2024-01-11T14:10:12.843866+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:05:05.0385278+00:00",
-  "LastUpdate_Achievements": "2024-01-11T13:16:33.8661128+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:59:15.4253254+00:00",
+  "LastUpdate_Achievements": "2024-01-11T14:10:12.8461791+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
   "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -706,17 +706,17 @@
       "ID": "36",
       "SetID": "d37idgg",
       "Name": "Pulp! Out of this World",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "37",
       "SetID": "d37idgg",
       "Name": "Pulp! Adventures into the Unknown",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "38",
@@ -762,9 +762,9 @@
       "ID": "42",
       "SetID": "d37idgg",
       "Name": "The barbarian invasions",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "43",
@@ -786,9 +786,9 @@
       "ID": "45",
       "SetID": "d37idgg",
       "Name": "Vaccine fans",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "46",
@@ -810,9 +810,9 @@
       "ID": "5",
       "SetID": "d37idgg",
       "Name": "The happy farmer girl",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "6",
@@ -857,8 +857,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2024-01-11T13:11:50.3433376+00:00",
+  "LastChanged_Achievements": "2024-01-11T14:05:34.8198398+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.4038986+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:06:23.6696677+00:00",
-  "LastUpdate_Achievements": "2024-01-11T13:11:50.3433889+00:00"
+  "LastUpdate_Ratings": "2024-01-11T14:00:24.8886619+00:00",
+  "LastUpdate_Achievements": "2024-01-11T14:05:34.8198831+00:00"
 }

@@ -3907,10 +3907,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2959,
       "NumberOfAwardsMax": 328
+    },
+    {
+      "Time": "2024-01-11T14:00:13.2961881+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2960,
+      "NumberOfAwardsMax": 328
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2959,
+  "NumberOfAwards": 2960,
   "NumberOfAwardsMax": 328,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -3978,7 +3984,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 288
+      "Count": 289
     },
     {
       "Text": "This game has Playful Visuals",
@@ -3987,9 +3993,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33531,
+  "EOS_Progressed": 33532,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -25202,6 +25208,11 @@
       "Time": "2024-01-11T13:15:15.5174668+00:00",
       "NumProgressed": 33531,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-11T14:08:59.4197397+00:00",
+      "NumProgressed": 33532,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -25213,7 +25224,7 @@
       "Name": "Advancement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "Animated",
@@ -25517,7 +25528,7 @@
       "Name": "Stylish",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3688
+      "UsersEstimate": 3689
     },
     {
       "ID": "Summoner",
@@ -25620,16 +25631,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33531,
+      "Progressed": 33532,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2024-01-11T10:59:46.5445466+00:00",
-  "LastChanged_Achievements": "2024-01-11T13:15:15.5174664+00:00",
+  "LastChanged": "2024-01-11T14:00:13.2961879+00:00",
+  "LastChanged_Achievements": "2024-01-11T14:08:59.4197394+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.8485347+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:06:10.9365304+00:00",
-  "LastUpdate_Achievements": "2024-01-11T13:15:15.5176257+00:00"
+  "LastUpdate_Ratings": "2024-01-11T14:00:13.2961886+00:00",
+  "LastUpdate_Achievements": "2024-01-11T14:08:59.4198451+00:00"
 }

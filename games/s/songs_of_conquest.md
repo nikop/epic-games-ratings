@@ -22,11 +22,11 @@ Number of Ratings: 292  (23.09.2022)
 | Don't Touch My Stuff | 6.00% | ~68 |
 | Trojan Horse | 5.00% | ~57 |
 | Expert Essence Employment | 4.00% | ~45 |
+| Ultra Kill | 3.00% | ~34 |
 | This Spot's Taken | 2.00% | ~23 |
 | Deepstrike | 2.00% | ~23 |
 | Infernal Influence | 2.00% | ~23 |
 | From the Ashes | 2.00% | ~23 |
-| Ultra Kill | 2.00% | ~23 |
 | Pyrrhic Victory | 2.00% | ~23 |
 | Venisti, Vidisti, Perdidisti | 2.00% | ~23 |
 | In The Thick of It | 1.00% | ~11 |
@@ -34,9 +34,9 @@ Number of Ratings: 292  (23.09.2022)
 | Grand Master | 1.00% | ~11 |
 | Versatile Wielder | 0.90% | ~10 |
 | Together For Her | 0.90% | ~10 |
+| Cleave | 0.70% | ~8 |
 | Unlimited Power! | 0.60% | ~7 |
 | Killing Spree | 0.60% | ~7 |
-| Cleave | 0.60% | ~7 |
 | Death To Diplomacy | 0.50% | ~6 |
 | Get Over Here! | 0.50% | ~6 |
 | Attack Bonanza | 0.40% | ~5 |

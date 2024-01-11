@@ -5,24 +5,24 @@ Rating: 4.38 (Ranked 793)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~693 |
-| Training Simulation | 79.00% | ~589 |
-| Kuku Bird Hunter | 65.00% | ~484 |
-| Storm Traveller | 60.00% | ~447 |
-| Wolf King Killer | 55.00% | ~410 |
-| Fashion Connoisseur | 52.00% | ~387 |
-| Arms Mechanic | 49.00% | ~365 |
-| Flower Thief | 44.00% | ~328 |
+| Travel Streamer | 93.00% | ~695 |
+| Training Simulation | 79.00% | ~590 |
+| Kuku Bird Hunter | 65.00% | ~486 |
+| Storm Traveller | 60.00% | ~448 |
+| Wolf King Killer | 54.00% | ~403 |
+| Fashion Connoisseur | 52.00% | ~388 |
+| Arms Mechanic | 49.00% | ~366 |
+| Flower Thief | 44.00% | ~329 |
 | Apostle of Flame | 39.00% | ~291 |
-| Beginner Artificer | 38.00% | ~283 |
+| Beginner Artificer | 38.00% | ~284 |
 | Beginner Cook | 37.00% | ~276 |
-| Seal Breaker | 32.00% | ~238 |
+| Seal Breaker | 32.00% | ~239 |
 | Handyman | 28.00% | ~209 |
 | Giant Lizard Killer | 26.00% | ~194 |
-| Guardian | 25.00% | ~186 |
-| Nosebleeder | 25.00% | ~186 |
+| Guardian | 25.00% | ~187 |
+| Nosebleeder | 25.00% | ~187 |
 | Trader | 22.00% | ~164 |
-| Weapon Boost | 21.00% | ~156 |
+| Weapon Boost | 21.00% | ~157 |
 | Flying Kobold Killer | 19.00% | ~142 |
 | Youth Magnet | 18.00% | ~134 |
 | Furious Scorpion Killer | 17.00% | ~127 |
@@ -35,8 +35,8 @@ Rating: 4.38 (Ranked 793)
 | Face Slapper | 15.00% | ~112 |
 | Boss challenge | 11.00% | ~82 |
 | Berserker Slayer | 11.00% | ~82 |
-| Giantess Slayer | 10.00% | ~74 |
-| Warden Slayer | 10.00% | ~74 |
+| Giantess Slayer | 10.00% | ~75 |
+| Warden Slayer | 10.00% | ~75 |
 | Master Cook | 8.00% | ~60 |
 | Silver Moon Wolf King Challenge | 4.00% | ~30 |
 | Blade Mantis Challenge | 3.00% | ~22 |
@@ -51,7 +51,7 @@ Rating: 4.38 (Ranked 793)
 | Giantess Challenge | 2.00% | ~15 |
 | Warden Challenge | 2.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 745 (Ranked 319)  
+Progressed: 747 (Ranked 319)  
 Completed: 3 (0.40%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 3 (0.40%) (Ranked 238)
 | 2024-01-08 | 738 | 3 |
 | 2024-01-09 | 741 | 3 |
 | 2024-01-10 | 744 | 3 |
-| 2024-01-11 | 745 | 3 |
+| 2024-01-11 | 747 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

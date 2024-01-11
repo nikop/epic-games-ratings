@@ -21,11 +21,11 @@ Number of Ratings: 124  (23.09.2022)
 | Family Reunion | 15.00% | ~35 |
 | Eternal Oblivion | 14.00% | ~33 |
 | Storyteller | 12.00% | ~28 |
+| Banker | 11.00% | ~26 |
 | Globetrotter | 11.00% | ~26 |
-| Banker | 10.00% | ~23 |
 | Alb | 10.00% | ~23 |
 | Berserker | 10.00% | ~23 |
-| Perfectionist | 8.00% | ~19 |
+| Perfectionist | 9.00% | ~21 |
 | Lover | 8.00% | ~19 |
 | Hotshot | 7.00% | ~16 |
 | Hunter | 7.00% | ~16 |

@@ -491,7 +491,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 227190,
+  "EOS_Progressed": 227195,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 1327,
   "EOS_NewCompleters": 0,
@@ -30951,6 +30951,11 @@
       "Time": "2024-01-11T13:10:46.6328908+00:00",
       "NumProgressed": 227190,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-11T14:04:34.5817624+00:00",
+      "NumProgressed": 227195,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -30962,7 +30967,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 106779
+      "UsersEstimate": 106782
     },
     {
       "ID": "AlekhinesGun",
@@ -31010,7 +31015,7 @@
       "Name": "Check",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 127226
+      "UsersEstimate": 127229
     },
     {
       "ID": "Checkmate",
@@ -31018,7 +31023,7 @@
       "Name": "Checkmate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 68157
+      "UsersEstimate": 68158
     },
     {
       "ID": "ChessChampion",
@@ -31034,7 +31039,7 @@
       "Name": "Chop Wood",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 161305
+      "UsersEstimate": 161308
     },
     {
       "ID": "DoubleCheck",
@@ -31042,7 +31047,7 @@
       "Name": "Double Check",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 15903
+      "UsersEstimate": 15904
     },
     {
       "ID": "DoubledPawn",
@@ -31050,7 +31055,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 129498
+      "UsersEstimate": 129501
     },
     {
       "ID": "Elo",
@@ -31082,7 +31087,7 @@
       "Name": "En Passant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 20447
+      "UsersEstimate": 20448
     },
     {
       "ID": "EpauletteMate",
@@ -31098,7 +31103,7 @@
       "Name": "Family Fork",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13631
+      "UsersEstimate": 13632
     },
     {
       "ID": "FoolsMate",
@@ -31130,7 +31135,7 @@
       "Name": "O-O",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 54526
+      "UsersEstimate": 54527
     },
     {
       "ID": "O-O-O",
@@ -31154,7 +31159,7 @@
       "Name": "Piece Collector",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13631
+      "UsersEstimate": 13632
     },
     {
       "ID": "ProblemSolved",
@@ -31178,7 +31183,7 @@
       "Name": "Promotion",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 70429
+      "UsersEstimate": 70430
     },
     {
       "ID": "QueenSacrifice",
@@ -31186,7 +31191,7 @@
       "Name": "Queen Sacrifice",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 45438
+      "UsersEstimate": 45439
     },
     {
       "ID": "ScholarsMate",
@@ -31202,7 +31207,7 @@
       "Name": "Spanish Bishop",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 47710
+      "UsersEstimate": 47711
     },
     {
       "ID": "Stalemate",
@@ -31210,7 +31215,7 @@
       "Name": "Stalemate",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 40894
+      "UsersEstimate": 40895
     },
     {
       "ID": "StrangerDanger",
@@ -31265,7 +31270,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 227190,
+      "Progressed": 227195,
       "Completed": 2
     }
   ],
@@ -31273,8 +31278,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2024-01-10T18:58:03.4906759+00:00",
-  "LastChanged_Achievements": "2024-01-11T13:10:46.6328905+00:00",
+  "LastChanged_Achievements": "2024-01-11T14:04:34.581762+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:59.7660252+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:04:35.5882423+00:00",
-  "LastUpdate_Achievements": "2024-01-11T13:10:46.6330634+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:58:41.5223036+00:00",
+  "LastUpdate_Achievements": "2024-01-11T14:04:34.5819103+00:00"
 }
