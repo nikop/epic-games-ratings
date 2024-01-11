@@ -73,7 +73,7 @@
 | 71 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 6.02% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.78% |
 | 73 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 74 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.90% |
+| 74 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.91% |
 | 75 | [Bugsnax](games/b/bugsnax.md) | 4.89% |
 | 76 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.85% |
 | 77 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.76% |
@@ -93,12 +93,12 @@
 | 91 | [Dungeons 4](games/d/dungeons_4.md) | 4.10% |
 | 92 | [The Bunker](games/t/the_bunker.md) | 3.98% |
 | 93 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 3.70% |
-| 93 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.70% |
 | 93 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.70% |
-| 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.69% |
-| 97 | [Doodle God](games/d/doodle_god.md) | 3.61% |
-| 98 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.59% |
-| 99 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
+| 95 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.69% |
+| 96 | [Doodle God](games/d/doodle_god.md) | 3.61% |
+| 97 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.59% |
+| 98 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
+| 98 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
 | 100 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
 | 101 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.41% |
 | 102 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.33% |
@@ -135,10 +135,10 @@
 | 133 | [tERRORbane](games/t/terrorbane.md) | 2.27% |
 | 134 | [Night Book](games/n/night_book.md) | 2.26% |
 | 135 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
-| 136 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.13% |
+| 136 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.08% |
 | 137 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.07% |
-| 138 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 2.00% |
-| 139 | [Serial Cleaners](games/s/serial_cleaners.md) | 1.97% |
+| 138 | [Serial Cleaners](games/s/serial_cleaners.md) | 1.97% |
+| 139 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 1.96% |
 | 140 | [Somerville](games/s/somerville.md) | 1.95% |
 | 141 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
 | 142 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
@@ -188,7 +188,7 @@
 | 186 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.90% |
 | 187 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.89% |
 | 188 | [A Musical Story](games/a/a_musical_story.md) | 0.88% |
-| 189 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.86% |
+| 189 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.85% |
 | 190 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 0.83% |
 | 191 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
 | 192 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.78% |
