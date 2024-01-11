@@ -239,9 +239,9 @@
       "ID": "VAMPYRE_QUEEN",
       "SetID": "d0gblle",
       "Name": "Vampire hunter",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -254,8 +254,8 @@
   ],
   "FirstSeen": "2023-12-29T14:58:56.0005709+00:00",
   "FirstSeenAchievements": "2023-12-19T21:04:20.7899526+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:06:42.3009609+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:06:37.5265678+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:57:00.8169788+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:57:52.464829+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:06:42.3009837+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:57:49.8796887+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:06:37.5265831+00:00"
 }

@@ -767,7 +767,7 @@
   ],
   "EOS_Progressed": 7194,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11114,17 +11114,17 @@
       "ID": "14",
       "SetID": "3aa2279",
       "Name": "Full Ascension",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 576
+      "UsersEstimate": 647
     },
     {
       "ID": "15",
       "SetID": "3aa2279",
       "Name": "Return of the Wizard King",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 288
+      "UsersEstimate": 360
     },
     {
       "ID": "16",
@@ -11354,9 +11354,9 @@
       "ID": "41",
       "SetID": "3aa2279",
       "Name": "Jack of All Tomes",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 36
     },
     {
       "ID": "42",
@@ -11569,8 +11569,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-11T19:59:30.8077807+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:04:25.2323499+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:04:15.3199237+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:59:18.7821041+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:04:25.2324467+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:59:24.5787216+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:04:15.3200664+00:00"
 }

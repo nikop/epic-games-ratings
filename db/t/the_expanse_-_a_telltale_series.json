@@ -3,8 +3,8 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 565,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 583,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 135,
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18862,
+  "EOS_Progressed": 18864,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 666,
+  "EOS_NewPlayers": 661,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -17058,6 +17058,11 @@
       "Time": "2024-01-11T21:09:03.9976949+00:00",
       "NumProgressed": 18862,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2024-01-11T22:08:43.2264514+00:00",
+      "NumProgressed": 18864,
+      "NumCompleted": 62
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17102,7 +17107,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3395
+      "UsersEstimate": 3396
     },
     {
       "ID": "14",
@@ -17134,7 +17139,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2263
+      "UsersEstimate": 2264
     },
     {
       "ID": "18",
@@ -17158,7 +17163,7 @@
       "Name": "Data Logger",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "20",
@@ -17174,7 +17179,7 @@
       "Name": "Drone Dodger",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2263
+      "UsersEstimate": 2264
     },
     {
       "ID": "22",
@@ -17196,9 +17201,9 @@
       "ID": "24",
       "SetID": "458bbdk",
       "Name": "Miraculous Maya",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 754
+      "UsersEstimate": 943
     },
     {
       "ID": "25",
@@ -17246,7 +17251,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2829
+      "UsersEstimate": 2830
     },
     {
       "ID": "30",
@@ -17342,29 +17347,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18862,
+      "Progressed": 18864,
       "Completed": 62
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4816,
-      "Completed": 1285
+      "Progressed": 4818,
+      "Completed": 1287
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-11T01:50:11.8166633+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:09:03.9976944+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:08:43.2264508+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:02:35.0002315+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:09:03.9978265+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:01:59.9459354+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:08:43.2265475+00:00"
 }

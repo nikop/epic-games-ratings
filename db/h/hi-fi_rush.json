@@ -5,7 +5,7 @@
   "Ranking_Rating": 31,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 541,
-  "Ranking_EOS_Progress": 167,
+  "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 338,
   "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 154,
@@ -261,9 +261,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 16802,
+  "EOS_Progressed": 16803,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1524,
+  "EOS_NewPlayers": 1521,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11871,6 +11871,11 @@
       "Time": "2024-01-11T21:04:17.2612486+00:00",
       "NumProgressed": 16802,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-11T22:04:07.0711213+00:00",
+      "NumProgressed": 16803,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -11882,7 +11887,7 @@
       "Name": "Start with a bang!",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 9073
+      "UsersEstimate": 9074
     },
     {
       "ID": "Ach002",
@@ -11898,7 +11903,7 @@
       "Name": "This will cost you big time",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "Ach004",
@@ -12008,9 +12013,9 @@
       "ID": "Ach017",
       "SetID": "12n4k20",
       "Name": "I play my own way!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 3864
+      "UsersEstimate": 4033
     },
     {
       "ID": "Ach018",
@@ -12018,7 +12023,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2856
+      "UsersEstimate": 2857
     },
     {
       "ID": "Ach019",
@@ -12058,7 +12063,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 9241
+      "UsersEstimate": 9242
     },
     {
       "ID": "Ach024",
@@ -12090,7 +12095,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 3360
+      "UsersEstimate": 3361
     },
     {
       "ID": "Ach028",
@@ -12138,7 +12143,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 3528
+      "UsersEstimate": 3529
     },
     {
       "ID": "Ach034",
@@ -12162,7 +12167,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3192
+      "UsersEstimate": 3193
     },
     {
       "ID": "Ach037",
@@ -12298,7 +12303,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2856
+      "UsersEstimate": 2857
     },
     {
       "ID": "Ach054",
@@ -12449,13 +12454,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 16802,
+      "Progressed": 16803,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15323,
+      "Progressed": 15324,
       "Completed": 1930
     }
   ],
@@ -12463,8 +12468,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-10T05:00:24.6881713+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:04:17.2612479+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:04:07.0711209+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:39.1696862+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:58:12.6334534+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:04:17.2613779+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:58:12.1942179+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:04:07.0712506+00:00"
 }

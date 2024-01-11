@@ -7,11 +7,11 @@ Number of Ratings: 37  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eureka! | 14.00% | ~623 |
-| Tax-man I | 13.00% | ~578 |
-| A new beginning | 13.00% | ~578 |
+| Tax-man I | 13.00% | ~579 |
+| A new beginning | 13.00% | ~579 |
 | Friends from the past | 11.00% | ~490 |
 | I like to build stuff... I | 10.00% | ~445 |
-| A time consuming game I | 9.00% | ~400 |
+| A time consuming game I | 9.00% | ~401 |
 | Builder I | 8.00% | ~356 |
 | An honorable Governor I | 8.00% | ~356 |
 | Full-time job I | 8.00% | ~356 |
@@ -28,13 +28,13 @@ Number of Ratings: 37  (23.09.2022)
 | The King's new clothes I | 6.00% | ~267 |
 | Tax-man III | 6.00% | ~267 |
 | Tools of the trade I | 6.00% | ~267 |
-| Bread for the people II | 5.00% | ~222 |
-| I like to build stuff... III | 5.00% | ~222 |
-| Builder II | 5.00% | ~222 |
-| An honorable Governor II | 5.00% | ~222 |
-| Tax-man IV | 5.00% | ~222 |
-| A time consuming game III | 5.00% | ~222 |
-| Conflicting parties | 5.00% | ~222 |
+| Bread for the people II | 5.00% | ~223 |
+| I like to build stuff... III | 5.00% | ~223 |
+| Builder II | 5.00% | ~223 |
+| An honorable Governor II | 5.00% | ~223 |
+| Tax-man IV | 5.00% | ~223 |
+| A time consuming game III | 5.00% | ~223 |
+| Conflicting parties | 5.00% | ~223 |
 | Another one bites the dust | 4.00% | ~178 |
 | I like to build stuff... IV | 4.00% | ~178 |
 | Experienced decorator | 4.00% | ~178 |
@@ -66,13 +66,13 @@ Number of Ratings: 37  (23.09.2022)
 | I've been everywhere V | 2.00% | ~89 |
 | Tax-man V | 2.00% | ~89 |
 | Tools of the trade III | 2.00% | ~89 |
-| When there's fire... | 1.00% | ~44 |
-| Reunification | 1.00% | ~44 |
-| Treat her well… | 1.00% | ~44 |
-| I've been everywhere II | 1.00% | ~44 |
-| I've been everywhere I | 1.00% | ~44 |
-| I've been everywhere VI | 1.00% | ~44 |
-| A time consuming game V | 1.00% | ~44 |
+| When there's fire... | 1.00% | ~45 |
+| Reunification | 1.00% | ~45 |
+| Treat her well… | 1.00% | ~45 |
+| I've been everywhere II | 1.00% | ~45 |
+| I've been everywhere I | 1.00% | ~45 |
+| I've been everywhere VI | 1.00% | ~45 |
+| A time consuming game V | 1.00% | ~45 |
 | Builder V | 0.90% | ~40 |
 | Ten-Hut! | 0.90% | ~40 |
 | The wood shortage | 0.90% | ~40 |
@@ -108,8 +108,8 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,450 (Ranked 208)  
-Completed: 4 (0.09%) (Ranked 318)  
+Progressed: 4,451 (Ranked 208)  
+Completed: 4 (0.09%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -269,6 +269,7 @@ Completed: 4 (0.09%) (Ranked 318)
 | 2024-01-08 | 4,445 | 4 |
 | 2024-01-09 | 4,447 | 4 |
 | 2024-01-10 | 4,450 | 4 |
+| 2024-01-11 | 4,451 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

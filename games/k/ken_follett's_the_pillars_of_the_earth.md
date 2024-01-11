@@ -6,17 +6,17 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 39.00% | ~6,939 |
-| Man of politics | 34.00% | ~6,049 |
-| Yet another secret | 33.00% | ~5,871 |
-| Friends of sorts | 32.00% | ~5,693 |
+| Tattletale | 39.00% | ~6,940 |
+| Man of politics | 34.00% | ~6,050 |
+| Yet another secret | 33.00% | ~5,872 |
+| Friends of sorts | 32.00% | ~5,694 |
 | Let there be darkness | 31.00% | ~5,516 |
 | End of Book One | 29.00% | ~5,160 |
-| Wannabe knight | 23.00% | ~4,092 |
-| Garden of Eden | 23.00% | ~4,092 |
-| Full house | 23.00% | ~4,092 |
-| Help an old friend | 21.00% | ~3,736 |
-| Two of us | 20.00% | ~3,558 |
+| Wannabe knight | 23.00% | ~4,093 |
+| Garden of Eden | 23.00% | ~4,093 |
+| Full house | 23.00% | ~4,093 |
+| Help an old friend | 21.00% | ~3,737 |
+| Two of us | 20.00% | ~3,559 |
 | Negotiation skills | 18.00% | ~3,203 |
 | Workers' union | 18.00% | ~3,203 |
 | End of Book Two | 18.00% | ~3,203 |
@@ -34,9 +34,9 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,601 |
 | The truth revealed | 9.00% | ~1,601 |
 | The End. | 9.00% | ~1,601 |
-| Nothing but make-believe | 8.00% | ~1,423 |
-| A cry for help | 7.00% | ~1,245 |
-| Silentium est aureum | 7.00% | ~1,245 |
+| Nothing but make-believe | 8.00% | ~1,424 |
+| A cry for help | 7.00% | ~1,246 |
+| Silentium est aureum | 7.00% | ~1,246 |
 | Rebel without a cause | 6.00% | ~1,068 |
 | Staring contest champion | 5.00% | ~890 |
 | Lone wolf | 5.00% | ~890 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~534 |
 | Boy of mystery | 2.00% | ~356 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,792 (Ranked 163)  
+Progressed: 17,794 (Ranked 164)  
 Completed: 125 (0.70%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 125 (0.70%) (Ranked 199)
 | 2024-01-08 | 17,727 | 125 |
 | 2024-01-09 | 17,744 | 125 |
 | 2024-01-10 | 17,768 | 125 |
-| 2024-01-11 | 17,792 | 125 |
+| 2024-01-11 | 17,794 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 327)  
 Sum: 200 (Ranked 418)  

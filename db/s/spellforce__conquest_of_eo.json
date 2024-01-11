@@ -4,7 +4,7 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -1039,9 +1039,9 @@
       "ID": "MainCampaign_CirclePage_AllfireNodes",
       "SetID": "7b9f97e",
       "Name": "A Monopoly of Might",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "MainCampaign_CirclePage_Apprentices",
@@ -1071,9 +1071,9 @@
       "ID": "MainCampaign_CirclePage_Reputation",
       "SetID": "7b9f97e",
       "Name": "My Friends!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MainCampaign_Hard",
@@ -1095,9 +1095,9 @@
       "ID": "MainCampaign_Necromancer",
       "SetID": "7b9f97e",
       "Name": "Master Necromancer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MainCampaign_Unbalanced",
@@ -1127,9 +1127,9 @@
       "ID": "Max_Reputation_Gillyshire",
       "SetID": "7b9f97e",
       "Name": "Friend of Gillyshire",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Max_Reputation_Goldenfields",
@@ -1288,8 +1288,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:10:36.8509643+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:10:21.4180223+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:39.1572287+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:59:16.6938974+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:10:36.8510269+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:59:22.3683829+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:10:21.4180743+00:00"
 }

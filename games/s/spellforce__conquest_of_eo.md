@@ -26,9 +26,9 @@
 | Castle Meldec | 19.00% | ~27 |
 | Sevenkeeps Seat of Kings | 19.00% | ~27 |
 | Friend of Alluvyan | 16.00% | ~22 |
+| Friend of Gillyshire | 15.00% | ~21 |
 | Friend of Connach | 15.00% | ~21 |
 | Stormwatch Faste | 14.00% | ~20 |
-| Friend of Gillyshire | 14.00% | ~20 |
 | Friend of Orgash | 14.00% | ~20 |
 | Friend of Bastion | 13.00% | ~18 |
 | Friend of Silver Drift Hollow | 12.00% | ~17 |
@@ -45,10 +45,10 @@
 | A Joke | 9.00% | ~13 |
 | Yngrid's Tale | 8.00% | ~11 |
 | Tuscari Sea Portal | 8.00% | ~11 |
+| A Monopoly of Might | 8.00% | ~11 |
 | Friend of Uram Gor | 8.00% | ~11 |
 | Crypt of the Revenant | 7.00% | ~10 |
 | Fireforge | 7.00% | ~10 |
-| A Monopoly of Might | 7.00% | ~10 |
 | Get to the Airship! | 6.00% | ~8 |
 | Defeat Hokan | 6.00% | ~8 |
 | Defeat Ianna | 6.00% | ~8 |
@@ -58,11 +58,11 @@
 | Lore's Tale | 6.00% | ~8 |
 | Master Artificer | 6.00% | ~8 |
 | Heroes | 6.00% | ~8 |
+| My Friends! | 6.00% | ~8 |
 | Balanced | 6.00% | ~8 |
+| Master Necromancer | 6.00% | ~8 |
 | Friend of Grey Dusk Vale | 6.00% | ~8 |
 | Misty Coast Dragonbones | 5.00% | ~7 |
-| My Friends! | 5.00% | ~7 |
-| Master Necromancer | 5.00% | ~7 |
 | Defeat Isgrimm | 4.00% | ~6 |
 | Defeat Rohen | 4.00% | ~6 |
 | Defeat Yria | 4.00% | ~6 |

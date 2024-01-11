@@ -5,32 +5,32 @@ Rating: 4.19 (Ranked 973)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,933 |
-| Battlefields Have Memories | 81.00% | ~2,700 |
-| Enlisted | 74.00% | ~2,466 |
-| Maybe Engage a Little | 69.00% | ~2,300 |
-| No More Names | 52.00% | ~1,733 |
-| Initiate | 39.00% | ~1,300 |
-| Thrada-Kul | 35.00% | ~1,167 |
-| Gravity-Challenged Rocks | 28.00% | ~933 |
-| Socialite | 24.00% | ~800 |
-| Soldier | 24.00% | ~800 |
-| All the Major Food Groups | 24.00% | ~800 |
-| Beggars Would Ride | 21.00% | ~700 |
+| Unforeseen | 88.00% | ~2,937 |
+| Battlefields Have Memories | 81.00% | ~2,703 |
+| Enlisted | 74.00% | ~2,469 |
+| Maybe Engage a Little | 69.00% | ~2,303 |
+| No More Names | 52.00% | ~1,735 |
+| Initiate | 39.00% | ~1,301 |
+| Thrada-Kul | 35.00% | ~1,168 |
+| Gravity-Challenged Rocks | 28.00% | ~934 |
+| Socialite | 24.00% | ~801 |
+| Soldier | 24.00% | ~801 |
+| All the Major Food Groups | 24.00% | ~801 |
+| Beggars Would Ride | 21.00% | ~701 |
 | Control is an Illusion | 20.00% | ~667 |
-| The Means to Save It | 18.00% | ~600 |
-| Resilience to Sin | 16.00% | ~533 |
-| A Familiar Nest | 16.00% | ~533 |
-| Geas Aristeya | 15.00% | ~500 |
-| Periapt Alizarin | 15.00% | ~500 |
+| The Means to Save It | 18.00% | ~601 |
+| Resilience to Sin | 16.00% | ~534 |
+| A Familiar Nest | 16.00% | ~534 |
+| Geas Aristeya | 15.00% | ~501 |
+| Periapt Alizarin | 15.00% | ~501 |
 | A Perfect Cycle | 14.00% | ~467 |
-| Recruit | 13.00% | ~433 |
+| Recruit | 13.00% | ~434 |
 | Armsman | 11.00% | ~367 |
-| Lights Army | 10.00% | ~333 |
+| Lights Army | 10.00% | ~334 |
 | Periapt Cerulean | 8.00% | ~267 |
 | Good Boy | 8.00% | ~267 |
+| Periapt Viridian | 7.00% | ~234 |
 | Best Dressed | 6.00% | ~200 |
-| Periapt Viridian | 6.00% | ~200 |
 | Shroudfane Explorer | 6.00% | ~200 |
 | Kitted Out | 5.00% | ~167 |
 | Scholar | 4.00% | ~133 |
@@ -43,7 +43,7 @@ Rating: 4.19 (Ranked 973)
 | Shroudfane Surveyor | 1.00% | ~33 |
 | Tip of the Spear | 1.00% | ~33 |
 | Witch-Taker | 0.80% | ~27 |
-| Master of Ultramarine | 0.80% | ~27 |
+| Master of Ultramarine | 0.70% | ~23 |
 | Backtracker | 0.70% | ~23 |
 | Family Business | 0.60% | ~20 |
 | Petite Bourgeoisie | 0.60% | ~20 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 973)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,333 (Ranked 228)  
+Progressed: 3,337 (Ranked 228)  
 Completed: 4 (0.12%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,14 @@ Completed: 4 (0.12%) (Ranked 303)
 | 2024-01-08 | 3,129 | 4 |
 | 2024-01-09 | 3,204 | 4 |
 | 2024-01-10 | 3,285 | 4 |
-| 2024-01-11 | 3,333 | 4 |
+| 2024-01-11 | 3,337 | 4 |
+## Awards
+Max (Quickly Understood Controls): 20  (Ranked 578)  
+Sum: 20 (Ranked 580)  
+Diff (max vs sum): -2  
+| Award | Count |
+| ----- | ----- |
+| This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -209,3 +216,4 @@ Completed: 4 (0.12%) (Ranked 303)
 | 2024-01-04 | 4.21 | 0 | 0 |
 | 2024-01-06 | 4.20 | 0 | 0 |
 | 2024-01-07 | 4.20 | 0 | 0 |
+| 2024-01-11 | 4.19 | 20 | 20 |

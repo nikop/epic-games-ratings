@@ -3,8 +3,8 @@
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
   "Ranking_Rating": 810,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 583,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 259,
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1013,
+  "EOS_Progressed": 1014,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -3607,6 +3607,11 @@
       "Time": "2024-01-11T20:08:57.1417555+00:00",
       "NumProgressed": 1013,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-11T22:08:34.019115+00:00",
+      "NumProgressed": 1014,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3618,7 +3623,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "cool-shirts",
@@ -3642,7 +3647,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "female-conqueror",
@@ -3658,7 +3663,7 @@
       "Name": "That was base",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "hire-lieutenant",
@@ -3666,7 +3671,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "kill-lieutenants",
@@ -3682,7 +3687,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "play-at-night",
@@ -3730,7 +3735,7 @@
       "Name": "Spread",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "send-smuggling",
@@ -3754,7 +3759,7 @@
       "Name": "Take-Off",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "use-submarine",
@@ -3769,15 +3774,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 1013,
+      "Progressed": 1014,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-05T21:03:11.6844011+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:08:54.5389386+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:08:34.0191145+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:39.3719101+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:03:35.5005002+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:08:54.5389731+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:03:22.5444882+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:08:34.0191485+00:00"
 }

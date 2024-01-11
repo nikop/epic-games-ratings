@@ -419,17 +419,17 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "631i43e",
       "Name": "Just A Little Taste",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "631i43e",
       "Name": "White Knuckles",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -691,9 +691,9 @@
       "ID": "NEW_ACHIEVEMENT_2_6",
       "SetID": "631i43e",
       "Name": "Shovels!",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_7",
@@ -738,8 +738,8 @@
   ],
   "FirstSeen": "2023-10-08T01:44:07.0326373+00:00",
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:10:09.3237877+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:09:52.2598999+00:00",
   "LastUpdate_AppInfo": "2024-01-10T21:57:10.211451+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:01:28.8396408+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:10:09.3238588+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:01:42.4831007+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:09:52.2599431+00:00"
 }

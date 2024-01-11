@@ -6,10 +6,10 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~5,169 |
-| Un-Lonely Island | 44.00% | ~3,116 |
-| The Beginning of a Servantship | 43.00% | ~3,045 |
-| Trade Is My Trait | 35.00% | ~2,478 |
+| Just One...More...Term... | 73.00% | ~5,171 |
+| Un-Lonely Island | 44.00% | ~3,117 |
+| The Beginning of a Servantship | 43.00% | ~3,046 |
+| Trade Is My Trait | 35.00% | ~2,479 |
 | Number 18 | 23.00% | ~1,629 |
 | We Don't Have Time For That | 18.00% | ~1,275 |
 | The Legend of Langostino | 16.00% | ~1,133 |
@@ -21,7 +21,7 @@ Number of Ratings: 398  (23.09.2022)
 | For Science! | 10.00% | ~708 |
 | Of Seals And Men | 9.00% | ~637 |
 | Shackadelic | 9.00% | ~637 |
-| Double Trouble | 8.00% | ~566 |
+| Double Trouble | 8.00% | ~567 |
 | Firestarter | 7.00% | ~496 |
 | Make Tropico Great Again! | 7.00% | ~496 |
 | French Connection | 7.00% | ~496 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~57 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,081 (Ranked 198)  
+Progressed: 7,083 (Ranked 198)  
 Completed: 2 (0.03%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,10 +313,10 @@ Completed: 2 (0.03%) (Ranked 355)
 | 2024-01-08 | 7,016 | 2 |
 | 2024-01-09 | 7,043 | 2 |
 | 2024-01-10 | 7,069 | 2 |
-| 2024-01-11 | 7,081 | 2 |
+| 2024-01-11 | 7,083 | 2 |
 ## Awards
 Max (Highly Recommended): 107  (Ranked 371)  
-Sum: 759 (Ranked 303)  
+Sum: 760 (Ranked 303)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
@@ -324,7 +324,7 @@ Diff (max vs sum): 68
 | This game is Great for Beginners | 106 |
 | This game is Relaxing | 104 |
 | This game has Quickly Understood Controls | 103 |
-| This game has Amazing Storytelling | 96 |
+| This game has Amazing Storytelling | 97 |
 | This game is Extremely Fun | 95 |
 | This game is Educational | 92 |
 | This game has Amazing Characters | 91 |
@@ -518,3 +518,4 @@ Diff (max vs sum): 68
 | 2024-01-05 | 4.66 | - | 106 | 756 |
 | 2024-01-07 | 4.66 | - | 106 | 758 |
 | 2024-01-10 | 4.65 | - | 107 | 759 |
+| 2024-01-11 | 4.65 | - | 107 | 760 |

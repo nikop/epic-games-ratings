@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 67.00% | ~276 |
+| Alone with Them | 67.00% | ~277 |
 | Forced to Kill | 64.00% | ~264 |
-| A Night To Remember | 39.00% | ~161 |
+| A Night To Remember | 38.00% | ~157 |
 | Safe...For now? | 31.00% | ~128 |
 | Open Sesame | 26.00% | ~107 |
 | What have I done!? | 18.00% | ~74 |
@@ -16,7 +16,7 @@
 | This Coffin Has Your Name On It! | 14.00% | ~58 |
 | The Cultists | 13.00% | ~54 |
 | The Forgotten Tower | 13.00% | ~54 |
-| Parasite Exterminated | 12.00% | ~49 |
+| Parasite Exterminated | 12.00% | ~50 |
 | Trapped | 11.00% | ~45 |
 | Modern Player | 10.00% | ~41 |
 | The Curse Is Real | 10.00% | ~41 |
@@ -26,7 +26,7 @@
 | Researcher | 6.00% | ~25 |
 | I Am The Gate Keeper! | 6.00% | ~25 |
 | Armed To The Teeth | 5.00% | ~21 |
-| This Mansion Is Clean | 4.00% | ~16 |
+| This Mansion Is Clean | 4.00% | ~17 |
 | Back In Time | 2.00% | ~8 |
 | Retro Player | 2.00% | ~8 |
 | Spiritual essence well spent | 2.00% | ~8 |
@@ -45,7 +45,7 @@
 | Nightmare Over | 0.20% | ~1 |
 | Survival Horror | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 412 (Ranked 368)  
+Progressed: 413 (Ranked 368)  
 Completed: 1 (0.24%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 1 (0.24%) (Ranked 268)
 | 2024-01-08 | 405 | 1 |
 | 2024-01-09 | 410 | 1 |
 | 2024-01-10 | 411 | 1 |
-| 2024-01-11 | 412 | 1 |
+| 2024-01-11 | 413 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1027,7 +1027,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8273,
+  "EOS_Progressed": 8274,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 0,
@@ -13882,6 +13882,11 @@
       "Time": "2024-01-11T21:09:16.9787374+00:00",
       "NumProgressed": 8273,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T22:08:57.1666388+00:00",
+      "NumProgressed": 8274,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13933,7 +13938,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -13941,7 +13946,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -14212,13 +14217,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8273,
+      "Progressed": 8274,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7645,
+      "Progressed": 7646,
       "Completed": 113
     }
   ],
@@ -14226,8 +14231,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:09:16.9787371+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:08:57.1666383+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:01:34.2889802+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:09:16.9788507+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:01:48.4783272+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:08:57.166741+00:00"
 }

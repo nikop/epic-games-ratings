@@ -3,11 +3,11 @@
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
   "Ranking_Rating": 147,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 583,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -37,7 +37,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4022,
+  "EOS_Progressed": 4023,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
@@ -5612,6 +5612,11 @@
       "Time": "2024-01-11T14:04:44.8959758+00:00",
       "NumProgressed": 4022,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-11T22:05:58.1255724+00:00",
+      "NumProgressed": 4023,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5671,7 +5676,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3499
+      "UsersEstimate": 3500
     },
     {
       "ID": "campaign10",
@@ -5759,7 +5764,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 3016
+      "UsersEstimate": 3017
     },
     {
       "ID": "campaign20",
@@ -5775,7 +5780,7 @@
       "Name": "Economics 101",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 2373
+      "UsersEstimate": 2374
     },
     {
       "ID": "campaign4",
@@ -5815,7 +5820,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "campaign9",
@@ -5831,7 +5836,7 @@
       "Name": "Do the Splits",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1489
     },
     {
       "ID": "scenario2",
@@ -5886,7 +5891,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 4022,
+      "Progressed": 4023,
       "Completed": 11
     }
   ],
@@ -5894,8 +5899,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2024-01-05T08:58:52.7711213+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:06:03.9758005+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:05:58.125572+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:04.3464482+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:58:33.1220765+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:06:03.9758673+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:58:34.3538995+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:05:58.1256191+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -930,9 +930,9 @@
       "ID": "ACH_BREW_LATTEART_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "It\u0027s a masterpiece!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_CAT_SHELTER",
@@ -1122,9 +1122,9 @@
       "ID": "ACH_OVERFLOWING_WARMTH",
       "SetID": "8h8m55b",
       "Name": "\u201COverflowing Warmth: CBAW\u201D",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_REMEMBRANCE",
@@ -1186,9 +1186,9 @@
       "ID": "ACH_TRASH_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Let me start over",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_TRUE_FAN",
@@ -1289,8 +1289,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:06:07.1206667+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:06:01.5609022+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:58.8135864+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:01:16.7298317+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:06:07.1207156+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:01:30.2347905+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:06:01.56094+00:00"
 }

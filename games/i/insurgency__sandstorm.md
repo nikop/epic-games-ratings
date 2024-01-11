@@ -11,15 +11,15 @@ Number of Ratings: 1,316  (23.09.2022)
 | Exploitative | 4.00% | ~20,933 |
 | High Speed Low Drag | 4.00% | ~20,933 |
 | Wet Feet | 4.00% | ~20,933 |
-| Checkpoint Victory | 3.00% | ~15,699 |
-| Lucky | 3.00% | ~15,699 |
-| Stylin' | 3.00% | ~15,699 |
-| Turf War | 3.00% | ~15,699 |
-| Banged | 2.00% | ~10,466 |
-| First Blood | 2.00% | ~10,466 |
-| Flaccid Paralysis | 2.00% | ~10,466 |
-| Push Victory | 2.00% | ~10,466 |
-| Self-destructive | 2.00% | ~10,466 |
+| Checkpoint Victory | 3.00% | ~15,700 |
+| Lucky | 3.00% | ~15,700 |
+| Stylin' | 3.00% | ~15,700 |
+| Turf War | 3.00% | ~15,700 |
+| Banged | 2.00% | ~10,467 |
+| First Blood | 2.00% | ~10,467 |
+| Flaccid Paralysis | 2.00% | ~10,467 |
+| Push Victory | 2.00% | ~10,467 |
+| Self-destructive | 2.00% | ~10,467 |
 | Blindfire | 1.00% | ~5,233 |
 | Ruthless | 1.00% | ~5,233 |
 | Semper Paratus | 1.00% | ~5,233 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~523 |
 | Road Hazard | 0.10% | ~523 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 523,315 (Ranked 40)  
+Progressed: 523,330 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,15 +308,15 @@ Completed: 2 (0.00%) (Ranked 397)
 | 2024-01-08 | 521,958 | 2 |
 | 2024-01-09 | 522,476 | 2 |
 | 2024-01-10 | 522,931 | 2 |
-| 2024-01-11 | 523,315 | 2 |
+| 2024-01-11 | 523,330 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 238)  
-Sum: 3,357 (Ranked 178)  
+Sum: 3,358 (Ranked 178)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 418 |
-| This game has Challenging Combat | 411 |
+| This game has Challenging Combat | 412 |
 | This game is Extremely Fun | 388 |
 | This game has Competitive Players | 385 |
 | This game is Highly Recommended | 371 |
@@ -664,4 +664,4 @@ Diff (max vs sum): 60
 | 2024-01-08 | 4.61 | - | 415 | 3,343 |
 | 2024-01-09 | 4.61 | - | 417 | 3,347 |
 | 2024-01-10 | 4.61 | - | 417 | 3,355 |
-| 2024-01-11 | 4.61 | - | 418 | 3,357 |
+| 2024-01-11 | 4.61 | - | 418 | 3,358 |

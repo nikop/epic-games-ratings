@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 557,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -2325,9 +2325,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 345
+      "UsersEstimate": 351
     },
     {
       "ID": "BRING_PROSPERO",
@@ -2349,9 +2349,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 262
+      "UsersEstimate": 267
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -2476,8 +2476,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:05:31.3299079+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:05:24.5678517+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:03.3646668+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:57:21.4248518+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:05:31.3299334+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:57:14.9806408+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:05:24.5678729+00:00"
 }

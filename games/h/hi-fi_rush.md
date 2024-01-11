@@ -5,8 +5,8 @@ Rating: 4.86 (Ranked 31)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 55.00% | ~9,241 |
-| Start with a bang! | 54.00% | ~9,073 |
+| Feeling the beat! | 55.00% | ~9,242 |
+| Start with a bang! | 54.00% | ~9,074 |
 | You can pet the cat! | 49.00% | ~8,233 |
 | Who put gears in there? | 40.00% | ~6,721 |
 | Cream of the Crop | 35.00% | ~5,881 |
@@ -14,13 +14,13 @@ Rating: 4.86 (Ranked 31)
 | You got this, Peppermint? | 30.00% | ~5,041 |
 | Perfect Parry | 28.00% | ~4,705 |
 | Alright, that felt AWESOME! | 27.00% | ~4,537 |
-| I play my own way! | 23.00% | ~3,864 |
-| This will cost you big time | 22.00% | ~3,696 |
-| Uh, they were broken when I got here | 21.00% | ~3,528 |
-| Z-shielding's got nothing on us! | 20.00% | ~3,360 |
-| Kissing the sky! | 19.00% | ~3,192 |
-| Whoa! There's ANOTHER health bar!? | 17.00% | ~2,856 |
-| Does that say weakpoint? | 17.00% | ~2,856 |
+| I play my own way! | 24.00% | ~4,033 |
+| This will cost you big time | 22.00% | ~3,697 |
+| Uh, they were broken when I got here | 21.00% | ~3,529 |
+| Z-shielding's got nothing on us! | 20.00% | ~3,361 |
+| Kissing the sky! | 19.00% | ~3,193 |
+| Whoa! There's ANOTHER health bar!? | 17.00% | ~2,857 |
+| Does that say weakpoint? | 17.00% | ~2,857 |
 | The Negotiator | 16.00% | ~2,688 |
 | You must like calling me in, Chai | 14.00% | ~2,352 |
 | Headliner | 13.00% | ~2,184 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 31)
 | Voices from within | 0.10% | ~15 |
 | Low budget finish | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,802 (Ranked 167)  
+Progressed: 16,803 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 8 (0.05%) (Ranked 338)
 | 2024-01-08 | 16,279 | 8 |
 | 2024-01-09 | 16,474 | 8 |
 | 2024-01-10 | 16,669 | 8 |
-| 2024-01-11 | 16,802 | 8 |
+| 2024-01-11 | 16,803 | 8 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 517)  
 Sum: 32 (Ranked 541)  

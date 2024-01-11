@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1292,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3535,9 +3535,9 @@
       "ID": "CompleteChapter5",
       "SetID": "52ail55",
       "Name": "Breathing Easy",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 336
     },
     {
       "ID": "CompleteChapter6",
@@ -3670,8 +3670,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:05:59.8005022+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:05:54.1610808+00:00",
   "LastUpdate_AppInfo": "2024-01-05T10:56:56.5895712+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:01:36.1353463+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:05:59.8005489+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:01:50.4520309+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:05:54.161118+00:00"
 }

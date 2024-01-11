@@ -525,9 +525,9 @@
       "ID": "BADGE_BUILDINGS_CAPTURE",
       "SetID": "ak6pfjk",
       "Name": "Takeover",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 130
     },
     {
       "ID": "BADGE_CHAMPIONS_KILL",
@@ -742,8 +742,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:06:27.4600854+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:06:22.0170249+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:52.3565826+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:03:52.6760449+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:06:27.4601212+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:03:39.8778268+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:06:22.0170731+00:00"
 }

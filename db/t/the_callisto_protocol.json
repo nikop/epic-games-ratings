@@ -2177,9 +2177,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 22161,
+  "EOS_Progressed": 22165,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1187,
+  "EOS_NewPlayers": 1179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13522,6 +13522,11 @@
       "Time": "2024-01-11T21:10:37.5185649+00:00",
       "NumProgressed": 22161,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-11T22:10:22.057231+00:00",
+      "NumProgressed": 22165,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13557,7 +13562,7 @@
       "Name": "You Need a Gun",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1995
     },
     {
       "ID": "DISARM_ENEMY",
@@ -13565,7 +13570,7 @@
       "Name": "Flesh Wound",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 5762
+      "UsersEstimate": 5763
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -13637,7 +13642,7 @@
       "Name": "Get a Grip",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 4875
+      "UsersEstimate": 4876
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -13661,7 +13666,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4432
+      "UsersEstimate": 4433
     },
     {
       "ID": "KILL_ROBOT",
@@ -13693,7 +13698,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 3989
+      "UsersEstimate": 3990
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -13709,7 +13714,7 @@
       "Name": "Paper Jams",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4875
+      "UsersEstimate": 4876
     },
     {
       "ID": "SHARE_PHOTO",
@@ -13725,7 +13730,7 @@
       "Name": "The Outer Way",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5762
+      "UsersEstimate": 5763
     },
     {
       "ID": "STORY_ESCAPE",
@@ -13749,7 +13754,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2659
+      "UsersEstimate": 2660
     },
     {
       "ID": "STORY_MINETOWN",
@@ -13765,7 +13770,7 @@
       "Name": "Desperate Times",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5540
+      "UsersEstimate": 5541
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -13773,7 +13778,7 @@
       "Name": "Crash Site",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2659
+      "UsersEstimate": 2660
     },
     {
       "ID": "STORY_TOWER",
@@ -13893,7 +13898,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -13908,13 +13913,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22161,
+      "Progressed": 22165,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10087,
+      "Progressed": 10091,
       "Completed": 29
     }
   ],
@@ -13922,8 +13927,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-11T11:03:22.6888373+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:10:37.5185647+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:10:22.0572304+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:04:03.0815074+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:10:37.518673+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:03:50.947096+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:10:22.0573252+00:00"
 }

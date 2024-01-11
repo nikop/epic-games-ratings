@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 182,
+  "EOS_Progressed": 183,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -809,6 +809,11 @@
       "Time": "2024-01-11T12:10:00.78749+00:00",
       "NumProgressed": 182,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T22:10:43.5317027+00:00",
+      "NumProgressed": 183,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 74,
@@ -836,15 +841,15 @@
       "Name": "The first treasure",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "digTreasure10",
       "SetID": "ci65fo0",
       "Name": "Treasure hunter",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 81
     },
     {
       "ID": "drown",
@@ -858,9 +863,9 @@
       "ID": "explodeItem10",
       "SetID": "ci65fo0",
       "Name": "Demoman",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     },
     {
       "ID": "explodeItem100",
@@ -908,7 +913,7 @@
       "Name": "Chests lover",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "killBoxes50",
@@ -956,7 +961,7 @@
       "Name": "Skeletons Fighter",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "killGolem1",
@@ -978,9 +983,9 @@
       "ID": "killGrave10",
       "SetID": "ci65fo0",
       "Name": "Gravedigger",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 104
     },
     {
       "ID": "killLeshy30",
@@ -994,9 +999,9 @@
       "ID": "killPlant20",
       "SetID": "ci65fo0",
       "Name": "Weed killer",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "killPlant5",
@@ -1028,7 +1033,7 @@
       "Name": "Stone Crusher",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "killStone500",
@@ -1042,9 +1047,9 @@
       "ID": "killTree100",
       "SetID": "ci65fo0",
       "Name": "Tree Hater",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 112
     },
     {
       "ID": "killTree50",
@@ -1058,17 +1063,17 @@
       "ID": "killZombie10",
       "SetID": "ci65fo0",
       "Name": "Paladin",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "killZombie50",
       "SetID": "ci65fo0",
       "Name": "Threat to the undead",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "locBanditBoss",
@@ -1100,15 +1105,15 @@
       "Name": "The first dungeon",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "locDungeon2",
       "SetID": "ci65fo0",
       "Name": "Bone cave",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     },
     {
       "ID": "locGoblins",
@@ -1116,15 +1121,15 @@
       "Name": "Goblins camp",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "locGraveyard",
       "SetID": "ci65fo0",
       "Name": "Graveyard",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 84
     },
     {
       "ID": "locSmith",
@@ -1132,7 +1137,7 @@
       "Name": "The second friend",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "locWorker",
@@ -1140,7 +1145,7 @@
       "Name": "The first friend",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "questAntiquities",
@@ -1156,7 +1161,7 @@
       "Name": "Bad news",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "questBountyHunter",
@@ -1186,9 +1191,9 @@
       "ID": "questCemetery",
       "SetID": "ci65fo0",
       "Name": "Cemetery secrets",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     },
     {
       "ID": "questCemetery2",
@@ -1196,7 +1201,7 @@
       "Name": "Cemetery secrets 2",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "questChef",
@@ -1210,17 +1215,17 @@
       "ID": "questCompTutorial",
       "SetID": "ci65fo0",
       "Name": "Survivor",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 159
     },
     {
       "ID": "questDeadArtifact",
       "SetID": "ci65fo0",
       "Name": "The Mystery of the Dead",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 102
     },
     {
       "ID": "questDefeatMainEnemy",
@@ -1260,7 +1265,7 @@
       "Name": "Generous",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "questHallucinationsKing",
@@ -1276,7 +1281,7 @@
       "Name": "Goblins Conqueror",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "questKillSwampMonster",
@@ -1292,7 +1297,7 @@
       "Name": "In charge of the cemetery",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "questPumpkinKing",
@@ -1300,7 +1305,7 @@
       "Name": "Pumpkin King",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "questReachLord",
@@ -1316,7 +1321,7 @@
       "Name": "The conqueror of the Reds",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "questReturnSun",
@@ -1332,7 +1337,7 @@
       "Name": "Thief",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "questSWAntidot",
@@ -1364,7 +1369,7 @@
       "Name": "The Savior of Princesses",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "questSavePrincessFinal",
@@ -1380,7 +1385,7 @@
       "Name": "A new friend",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "questTheft",
@@ -1411,20 +1416,20 @@
     {
       "ID": "2fb6h6c",
       "IsBase": false,
-      "Progressed": 182,
+      "Progressed": 183,
       "Completed": 0
     },
     {
       "ID": "ci65fo0",
       "IsBase": true,
-      "Progressed": 182,
+      "Progressed": 183,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:10:57.9102063+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:10:43.5317022+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:02.3295172+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:00:16.0057834+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:10:57.9102761+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:00:26.9634219+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:10:43.5317597+00:00"
 }

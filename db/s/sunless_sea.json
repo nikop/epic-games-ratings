@@ -808,9 +808,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44054,
+  "EOS_Progressed": 44057,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 496,
+  "EOS_NewPlayers": 497,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28088,6 +28088,11 @@
       "Time": "2024-01-11T21:04:34.2606839+00:00",
       "NumProgressed": 44054,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T22:04:24.6935438+00:00",
+      "NumProgressed": 44057,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -28115,7 +28120,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7489
+      "UsersEstimate": 7490
     },
     {
       "ID": "ach_antiquarian10",
@@ -28219,7 +28224,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15859
+      "UsersEstimate": 15861
     },
     {
       "ID": "ach_die10",
@@ -28227,7 +28232,7 @@
       "Name": "Never Stop Sinking...",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ach_die5",
@@ -28291,7 +28296,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5286
+      "UsersEstimate": 5287
     },
     {
       "ID": "ach_legacypupil",
@@ -28347,7 +28352,7 @@
       "Name": "His bones in whispers",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ach_portdeep",
@@ -28355,7 +28360,7 @@
       "Name": "The beauty of the deep",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ach_portdragon",
@@ -28363,7 +28368,7 @@
       "Name": "The dragon in the zee",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ach_portfish",
@@ -28371,7 +28376,7 @@
       "Name": "Thanks for all the fish",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ach_portknife",
@@ -28395,7 +28400,7 @@
       "Name": "Those are pearls that were his eyes",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ach_portregret",
@@ -28403,7 +28408,7 @@
       "Name": "No regrets",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ach_portrose",
@@ -28411,7 +28416,7 @@
       "Name": "Rosewater sailor",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ach_portunder",
@@ -28419,7 +28424,7 @@
       "Name": "Under the zee",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ach_scion",
@@ -28459,7 +28464,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5286
+      "UsersEstimate": 5287
     },
     {
       "ID": "ach_terror90",
@@ -28467,7 +28472,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6608
+      "UsersEstimate": 6609
     },
     {
       "ID": "ach_undercurrent",
@@ -28483,7 +28488,7 @@
       "Name": "Depth charge",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ach_underpressure",
@@ -28499,7 +28504,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 5286
+      "UsersEstimate": 5287
     },
     {
       "ID": "ach_year1",
@@ -28507,7 +28512,7 @@
       "Name": "One Year at Zee",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3524
+      "UsersEstimate": 3525
     },
     {
       "ID": "ach_year10",
@@ -28530,15 +28535,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44054,
+      "Progressed": 44057,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-05T23:59:49.2303848+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:04:34.2606835+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:04:24.693543+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.5653659+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:00:27.9947036+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:04:34.2609698+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:00:39.3626146+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:04:24.6937086+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_Rating": 40,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 583,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 57,
   "Ranking_EOS_NewPlayers": 168,
@@ -127,11 +127,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2691,
-  "EOS_Completed": 195,
-  "EOS_NewPlayers": 326,
+  "EOS_Progressed": 2693,
+  "EOS_Completed": 196,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 47,
-  "EOS_Completed_Percentage": 7.25,
+  "EOS_Completed_Percentage": 7.28,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -7082,6 +7082,11 @@
       "Time": "2024-01-11T21:05:25.7308516+00:00",
       "NumProgressed": 2691,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2024-01-11T22:05:18.3683596+00:00",
+      "NumProgressed": 2693,
+      "NumCompleted": 196
     }
   ],
   "TotalAchievements": 25,
@@ -7125,7 +7130,7 @@
       "Name": "A good beginning",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "META_HALF_LINK",
@@ -7149,7 +7154,7 @@
       "Name": "Free at last",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "META_RESULT_1-4",
@@ -7181,7 +7186,7 @@
       "Name": "A Link to the Past",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -7189,7 +7194,7 @@
       "Name": "Alchemists Express",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -7205,7 +7210,7 @@
       "Name": "True G3M4R",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -7213,7 +7218,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -7237,7 +7242,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7245,7 +7250,7 @@
       "Name": "Scholar",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "PROGRESS_N1",
@@ -7253,7 +7258,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "PROGRESS_N2",
@@ -7261,7 +7266,7 @@
       "Name": "The great escape",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "PROGRESS_N3",
@@ -7277,7 +7282,7 @@
       "Name": "The darkness",
       "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "PROGRESS_N5",
@@ -7285,23 +7290,23 @@
       "Name": "One last step",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2691,
-      "Completed": 195
+      "Progressed": 2693,
+      "Completed": 196
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:05:25.7308512+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:05:18.3683591+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:02:41.9996151+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:05:25.7309064+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:02:07.5522064+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:05:18.3684042+00:00"
 }

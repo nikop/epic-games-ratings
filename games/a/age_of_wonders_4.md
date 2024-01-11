@@ -11,18 +11,18 @@ Rating: 4.63 (Ranked 357)
 | Walls Cannot Stop Us | 14.00% | ~1,007 |
 | From Friends to Family | 12.00% | ~863 |
 | Bone Peddler | 10.00% | ~719 |
+| Full Ascension | 9.00% | ~647 |
 | Magical Synergy | 9.00% | ~647 |
 | There Can Only Be One! | 8.00% | ~576 |
-| Full Ascension | 8.00% | ~576 |
 | Stronger Together | 8.00% | ~576 |
 | Seat of Power | 8.00% | ~576 |
 | Valley of Wonders | 7.00% | ~504 |
 | In a Liege of Your Own | 7.00% | ~504 |
 | Intimidation Tactics | 7.00% | ~504 |
+| Return of the Wizard King | 5.00% | ~360 |
 | Digging for Treasure | 5.00% | ~360 |
 | My Final Form | 5.00% | ~360 |
 | But this one is mine | 5.00% | ~360 |
-| Return of the Wizard King | 4.00% | ~288 |
 | Enchanted Archipelago | 4.00% | ~288 |
 | Fiery Friend | 4.00% | ~288 |
 | Against the Odds | 4.00% | ~288 |
@@ -57,7 +57,7 @@ Rating: 4.63 (Ranked 357)
 | Duality | 0.90% | ~65 |
 | Snap Out of It! | 0.60% | ~43 |
 | The Magic That Empowers Me! | 0.60% | ~43 |
-| Jack of All Tomes | 0.40% | ~29 |
+| Jack of All Tomes | 0.50% | ~36 |
 | A Very Special Ring | 0.40% | ~29 |
 | Returning Circle | 0.20% | ~14 |
 | I Want to Break Free | 0.10% | ~7 |

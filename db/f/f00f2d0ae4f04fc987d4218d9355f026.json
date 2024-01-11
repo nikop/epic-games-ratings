@@ -2,7 +2,7 @@
   "ID": "f00f2d0ae4f04fc987d4218d9355f026",
   "Name": "Bio Inc. Redemption",
   "ProductSlug": "bio-inc-redemption-280fe5",
-  "Ranking_EOS_Progress": 547,
+  "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 154,
@@ -327,9 +327,9 @@
       "ID": "Athlete",
       "SetID": "aaidab7",
       "Name": "Athlete",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BioIncMaster",
@@ -351,9 +351,9 @@
       "ID": "CirculatoryCollapse",
       "SetID": "aaidab7",
       "Name": "Circulatory Collapse",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "CloseCall",
@@ -383,9 +383,9 @@
       "ID": "DiagnosticPro",
       "SetID": "aaidab7",
       "Name": "Diagnostic Professional",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "DigestiveCollapse",
@@ -439,9 +439,9 @@
       "ID": "Loser",
       "SetID": "aaidab7",
       "Name": "Loser",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Lupus",
@@ -511,9 +511,9 @@
       "ID": "RenalCollapse",
       "SetID": "aaidab7",
       "Name": "Renal Collapse",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "RespiratoryCollapse",
@@ -527,9 +527,9 @@
       "ID": "RichieRich",
       "SetID": "aaidab7",
       "Name": "Richie Rich",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "SilentKiller",
@@ -551,9 +551,9 @@
       "ID": "Stabilized",
       "SetID": "aaidab7",
       "Name": "Stabilized",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Thrifty",
@@ -582,8 +582,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:07:03.726067+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:06:59.8376254+00:00",
   "LastUpdate_AppInfo": "2024-01-09T06:57:18.0695989+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:00:36.8391421+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:07:03.7261088+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:00:50.1464665+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:06:59.8376429+00:00"
 }

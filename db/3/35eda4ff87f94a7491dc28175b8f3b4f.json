@@ -3,8 +3,8 @@
   "Name": "Eternal Threads",
   "ProductSlug": "eternal-threads-197169",
   "Ranking_Rating": 827,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 583,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 95,
@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21433,
+  "EOS_Progressed": 21441,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 1293,
+  "EOS_NewPlayers": 1286,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -7711,6 +7711,11 @@
       "Time": "2024-01-11T21:06:21.5586407+00:00",
       "NumProgressed": 21433,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2024-01-11T22:06:16.0765112+00:00",
+      "NumProgressed": 21441,
+      "NumCompleted": 107
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -7723,7 +7728,7 @@
       "Name": "Avid Reader",
       "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "BEAM_ME_UP_SCOTTY_1_7",
@@ -7731,7 +7736,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -7755,7 +7760,7 @@
       "Name": "Savior",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -7771,7 +7776,7 @@
       "Name": "Rescuer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -7779,7 +7784,7 @@
       "Name": "Secrets Out",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -7787,7 +7792,7 @@
       "Name": "Locksmith",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "WATCH_ALL_SCENES_1_5",
@@ -7802,7 +7807,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 21433,
+      "Progressed": 21441,
       "Completed": 107
     }
   ],
@@ -7810,8 +7815,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-02T16:59:56.4750656+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:06:21.5586403+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:06:16.0765105+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:13.403485+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:00:55.3694641+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:06:21.5586834+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:01:08.6826887+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:06:16.0765557+00:00"
 }

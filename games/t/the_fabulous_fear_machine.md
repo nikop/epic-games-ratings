@@ -26,8 +26,8 @@
 | Welcome to Hellville | 18.00% | ~16 |
 | You've awakened the beast | 16.00% | ~15 |
 | Hate is... addictive | 16.00% | ~15 |
+| Blessed antennas | 15.00% | ~14 |
 | Kirlian's best disciple | 15.00% | ~14 |
-| Blessed antennas | 14.00% | ~13 |
 | The bully | 14.00% | ~13 |
 | Blood Red Island | 12.00% | ~11 |
 | Bread and bocaua | 12.00% | ~11 |
@@ -47,9 +47,9 @@
 | Troy is burning! | 3.00% | ~3 |
 | Pulp! Weird Science | 2.00% | ~2 |
 | Pulp! Heart Throbs | 2.00% | ~2 |
+| Pulp! Skeleton Hand | 2.00% | ~2 |
 | Pulp! The Perfect Crime | 1.00% | ~1 |
 | Pulp! Mister Mystery | 1.00% | ~1 |
-| Pulp! Skeleton Hand | 1.00% | ~1 |
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 91 (Ranked 502)  

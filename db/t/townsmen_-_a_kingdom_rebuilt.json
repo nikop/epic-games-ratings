@@ -3,11 +3,11 @@
   "Name": "Townsmen - A Kingdom Rebuilt",
   "ProductSlug": "townsmen-a-kingdom-rebuilt-07c09d",
   "Ranking_Rating": 896,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 583,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 208,
-  "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_Completed": 317,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -254,9 +254,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4450,
+  "EOS_Progressed": 4451,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2054,6 +2054,11 @@
       "Time": "2024-01-10T23:10:03.8708256+00:00",
       "NumProgressed": 4450,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T22:11:03.0779636+00:00",
+      "NumProgressed": 4451,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -2105,7 +2110,7 @@
       "Name": "Bread for the people II",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_BREAD3",
@@ -2145,7 +2150,7 @@
       "Name": "I like to build stuff... III",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS4",
@@ -2217,7 +2222,7 @@
       "Name": "When there\u0027s fire...",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_FIREPROTECTOR",
@@ -2305,7 +2310,7 @@
       "Name": "Builder II",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_POPULATION3",
@@ -2345,7 +2350,7 @@
       "Name": "An honorable Governor II",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_PRESTIGE3",
@@ -2449,7 +2454,7 @@
       "Name": "Reunification",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_AVALANCHE",
@@ -2561,7 +2566,7 @@
       "Name": "Treat her well\u2026",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_HARSHWINTER",
@@ -2601,7 +2606,7 @@
       "Name": "I\u0027ve been everywhere II",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_LEGACY",
@@ -2641,7 +2646,7 @@
       "Name": "I\u0027ve been everywhere I",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_TRADINGPOST",
@@ -2689,7 +2694,7 @@
       "Name": "I\u0027ve been everywhere VI",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_WOODSHORTAGE",
@@ -2713,7 +2718,7 @@
       "Name": "Tax-man I",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ACHIEVEMENT_TAXES2",
@@ -2737,7 +2742,7 @@
       "Name": "Tax-man IV",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_TAXES5",
@@ -2753,7 +2758,7 @@
       "Name": "A time consuming game I",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACHIEVEMENT_TIME2",
@@ -2769,7 +2774,7 @@
       "Name": "A time consuming game III",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_TIME4",
@@ -2785,7 +2790,7 @@
       "Name": "A time consuming game V",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_TOOLS1",
@@ -2817,7 +2822,7 @@
       "Name": "A new beginning",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION02",
@@ -2849,7 +2854,7 @@
       "Name": "Conflicting parties",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION06",
@@ -2872,15 +2877,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4450,
+      "Progressed": 4451,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2024-01-09T19:00:12.6511007+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:11:16.6398817+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:11:03.0779631+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:13.50992+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:02:35.8419696+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:11:16.640008+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:02:00.8302293+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:11:03.0780631+00:00"
 }

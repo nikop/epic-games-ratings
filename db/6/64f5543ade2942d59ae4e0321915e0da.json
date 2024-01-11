@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 493,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2066,9 +2066,9 @@
       "ID": "AC_DEATH_2",
       "SetID": "16i2akc",
       "Name": "Carcass",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 54
     },
     {
       "ID": "AC_DEATH_3",
@@ -2186,9 +2186,9 @@
       "ID": "AC_PISTOL_MAX",
       "SetID": "16i2akc",
       "Name": "Gun",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 54
     },
     {
       "ID": "AC_RECIPES_DONE_1",
@@ -2257,8 +2257,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:06:27.8980078+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:06:22.4972806+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:59.4542445+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:02:43.076437+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:06:27.8980459+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:02:08.8124435+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:06:22.4973222+00:00"
 }

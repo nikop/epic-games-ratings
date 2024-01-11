@@ -3,11 +3,11 @@
   "Name": "Galactic Civilizations IV: Supernova",
   "ProductSlug": "galactic-civilizations-iv-supernova",
   "Ranking_Rating": 657,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 583,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-27T14:45:00+00:00",
@@ -279,9 +279,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2674,
+  "EOS_Progressed": 2676,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8744,6 +8744,11 @@
       "Time": "2024-01-11T17:09:46.8656991+00:00",
       "NumProgressed": 2674,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T22:09:02.9013926+00:00",
+      "NumProgressed": 2676,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 77,
@@ -9370,13 +9375,13 @@
     {
       "ID": "1b9olh7",
       "IsBase": true,
-      "Progressed": 2674,
+      "Progressed": 2676,
       "Completed": 0
     },
     {
       "ID": "8ce16g",
       "IsBase": false,
-      "Progressed": 2674,
+      "Progressed": 2676,
       "Completed": 0
     }
   ],
@@ -9384,8 +9389,8 @@
   "FirstSeenRating": "2023-04-27T21:57:06.0421025+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.6199843+00:00",
   "LastChanged": "2024-01-11T16:01:52.1730816+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:09:22.3741312+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:09:02.9013921+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:23.9709701+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:01:43.3355305+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:09:22.3742685+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:01:58.9934775+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:09:02.9015062+00:00"
 }

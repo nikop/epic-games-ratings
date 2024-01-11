@@ -3,8 +3,8 @@
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_Rating": 724,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 583,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 267,
@@ -4581,9 +4581,9 @@
       "ID": "Packing20",
       "SetID": "d1bm05f",
       "Name": "Next Level Cuisine",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 82
     },
     {
       "ID": "PerfectGrade25",
@@ -4726,8 +4726,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2024-01-11T14:58:15.2423898+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:10:44.5060689+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:10:29.3281499+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2362119+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:58:53.2092535+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:10:44.506134+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:58:56.9911085+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:10:29.3282015+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
   "Ranking_Rating": 866,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 146,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 584,
+  "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -365,7 +365,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25068,
+  "EOS_Progressed": 25069,
   "EOS_Completed": 119,
   "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 1,
@@ -22835,6 +22835,11 @@
       "Time": "2024-01-11T21:04:16.42825+00:00",
       "NumProgressed": 25068,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2024-01-11T22:04:06.1169743+00:00",
+      "NumProgressed": 25069,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 16,
@@ -22878,7 +22883,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2758
     },
     {
       "ID": "Feel_The_Thunder",
@@ -22894,7 +22899,7 @@
       "Name": "Fireworks",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 7520
+      "UsersEstimate": 7521
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -22973,15 +22978,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 25068,
+      "Progressed": 25069,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-09T13:57:36.5131842+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:04:16.4282496+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:04:06.1169738+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:51.4692455+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:59:37.3585622+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:04:16.4283879+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:59:44.0044664+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:04:06.1170961+00:00"
 }

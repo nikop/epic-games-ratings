@@ -420,9 +420,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 208954,
+  "EOS_Progressed": 208957,
   "EOS_Completed": 562,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -28890,6 +28890,11 @@
       "Time": "2024-01-11T21:08:47.5215395+00:00",
       "NumProgressed": 208954,
       "NumCompleted": 562
+    },
+    {
+      "Time": "2024-01-11T22:08:26.9010454+00:00",
+      "NumProgressed": 208957,
+      "NumCompleted": 562
     }
   ],
   "TotalAchievements": 29,
@@ -28925,7 +28930,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 196417
+      "UsersEstimate": 196420
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -29085,7 +29090,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20895
+      "UsersEstimate": 20896
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -29101,7 +29106,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16716
+      "UsersEstimate": 16717
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -29132,7 +29137,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 208954,
+      "Progressed": 208957,
       "Completed": 562
     }
   ],
@@ -29140,8 +29145,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-10T17:58:59.5955278+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:08:47.5215389+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:08:26.9010451+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:20.3451627+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:00:26.5956394+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:08:47.5216987+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:00:38.0635946+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:08:26.9011615+00:00"
 }

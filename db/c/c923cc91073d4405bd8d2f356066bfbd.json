@@ -2,9 +2,9 @@
   "ID": "c923cc91073d4405bd8d2f356066bfbd",
   "Name": "Burst Hero",
   "ProductSlug": "bursthero-dd5a56",
-  "Ranking_EOS_Progress": 547,
+  "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 59,
+  "EOS_Progressed": 60,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -274,6 +274,11 @@
       "Time": "2024-01-11T18:06:11.1936961+00:00",
       "NumProgressed": 59,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T22:08:03.5506014+00:00",
+      "NumProgressed": 60,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-17T12:04:51.9829669+00:00",
@@ -284,7 +289,7 @@
       "ID": "ACED",
       "SetID": "1fek4an",
       "Name": "ACED!",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 40
     },
@@ -294,7 +299,7 @@
       "Name": "New Challenger",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "CHALLENGER_CHAOS",
@@ -558,7 +563,7 @@
       "Name": "Grass",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "LEVEL_COMPLETE_0_12",
@@ -604,7 +609,7 @@
       "ID": "LEVEL_COMPLETE_1_0",
       "SetID": "1fek4an",
       "Name": "Boneyard",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -764,7 +769,7 @@
       "ID": "MISS",
       "SetID": "1fek4an",
       "Name": "MISS!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -820,7 +825,7 @@
       "ID": "TEAMWORK",
       "SetID": "1fek4an",
       "Name": "Teamwork",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
       "UsersEstimate": 32
     },
@@ -837,14 +842,14 @@
     {
       "ID": "1fek4an",
       "IsBase": true,
-      "Progressed": 59,
+      "Progressed": 60,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:08:25.3350062+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:08:03.550601+00:00",
   "LastUpdate_AppInfo": "2024-01-10T13:02:38.4502332+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:01:24.2515191+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:08:25.3350674+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:01:37.9521079+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:08:03.5506501+00:00"
 }

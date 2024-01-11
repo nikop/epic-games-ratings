@@ -675,9 +675,9 @@
       "ID": "ach_nohints_02",
       "SetID": "8jkn3bi",
       "Name": "By Yourself 7x7",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_nohints_03",
@@ -794,8 +794,8 @@
   ],
   "FirstSeen": "2023-11-18T16:58:15.9400848+00:00",
   "FirstSeenAchievements": "2023-04-25T20:54:03.7448556+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:11:08.937453+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:10:55.2644868+00:00",
   "LastUpdate_AppInfo": "2024-01-06T17:57:06.833753+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:00:04.6767148+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:11:08.9374852+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:00:14.3155045+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:10:55.264512+00:00"
 }

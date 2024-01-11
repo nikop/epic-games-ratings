@@ -1483,10 +1483,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 759,
       "NumberOfAwardsMax": 107
+    },
+    {
+      "Time": "2024-01-11T21:57:46.2728114+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 760,
+      "NumberOfAwardsMax": 107
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 759,
+  "NumberOfAwards": 760,
   "NumberOfAwardsMax": 107,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1518,7 +1524,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 96
+      "Count": 97
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1557,9 +1563,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7081,
+  "EOS_Progressed": 7083,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16527,6 +16533,11 @@
       "Time": "2024-01-11T17:04:57.789154+00:00",
       "NumProgressed": 7081,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-11T22:04:29.587068+00:00",
+      "NumProgressed": 7083,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -16554,7 +16565,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -16634,7 +16645,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3045
+      "UsersEstimate": 3046
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -16698,7 +16709,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5169
+      "UsersEstimate": 5171
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -16794,7 +16805,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3116
+      "UsersEstimate": 3117
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -16810,7 +16821,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2478
+      "UsersEstimate": 2479
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -16857,15 +16868,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7081,
+      "Progressed": 7083,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2024-01-10T23:00:26.7087107+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:04:38.8409037+00:00",
+  "LastChanged": "2024-01-11T21:57:46.2728112+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:04:29.5870675+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.4830018+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:57:49.0582809+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:04:38.8409993+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:57:46.2728117+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:04:29.5871906+00:00"
 }

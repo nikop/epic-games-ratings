@@ -3,8 +3,8 @@
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
   "Ranking_Rating": 724,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 583,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 200,
@@ -507,9 +507,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4021,
+  "EOS_Progressed": 4022,
   "EOS_Completed": 144,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.58,
   "EosHistory": [
@@ -7222,6 +7222,11 @@
       "Time": "2024-01-11T21:05:57.0408284+00:00",
       "NumProgressed": 4021,
       "NumCompleted": 144
+    },
+    {
+      "Time": "2024-01-11T22:05:51.6280743+00:00",
+      "NumProgressed": 4022,
+      "NumCompleted": 144
     }
   ],
   "TotalAchievements": 14,
@@ -7233,7 +7238,7 @@
       "Name": "Ancient Curse",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -7241,7 +7246,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1407
+      "UsersEstimate": 1408
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -7321,7 +7326,7 @@
       "Name": "Shovel Night",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1407
+      "UsersEstimate": 1408
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -7344,7 +7349,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4021,
+      "Progressed": 4022,
       "Completed": 144
     }
   ],
@@ -7352,8 +7357,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-05T23:57:59.2122093+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:05:57.0408281+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:05:51.6280735+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:45.5665199+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:57:39.0497819+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:05:57.040877+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:57:34.89262+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:05:51.6281208+00:00"
 }

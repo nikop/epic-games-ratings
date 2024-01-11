@@ -13,7 +13,7 @@ Rating: 4.54 (Ranked 552)
 | Rivals to the End | 31.00% | ~1,100 |
 | Champagne Spray | 30.00% | ~1,065 |
 | We're Going to Need a Bigger Garage | 27.00% | ~958 |
-| Quick Pit Stop | 22.00% | ~781 |
+| Quick Pit Stop | 23.00% | ~816 |
 | I Want One Too! | 21.00% | ~745 |
 | Restored and Ready | 20.00% | ~710 |
 | Legendary!!! | 20.00% | ~710 |

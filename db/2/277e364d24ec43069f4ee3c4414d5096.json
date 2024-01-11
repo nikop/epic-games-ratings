@@ -3,8 +3,8 @@
   "Name": "Guacamelee! 2",
   "ProductSlug": "guacamelee-2-ac4977",
   "Ranking_Rating": 399,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 583,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 338,
   "Ranking_EOS_NewPlayers": 131,
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 119751,
+  "EOS_Progressed": 119753,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 695,
+  "EOS_NewPlayers": 691,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -24532,6 +24532,11 @@
       "Time": "2024-01-11T21:11:06.3683329+00:00",
       "NumProgressed": 119751,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2024-01-11T22:10:52.4110951+00:00",
+      "NumProgressed": 119753,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 49,
@@ -24551,7 +24556,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 92208
+      "UsersEstimate": 92210
     },
     {
       "ID": "EAwards_10",
@@ -24615,7 +24620,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 44308
+      "UsersEstimate": 44309
     },
     {
       "ID": "EAwards_18",
@@ -24639,7 +24644,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 58678
+      "UsersEstimate": 58679
     },
     {
       "ID": "EAwards_20",
@@ -24687,7 +24692,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 23950
+      "UsersEstimate": 23951
     },
     {
       "ID": "EAwards_26",
@@ -24727,7 +24732,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 23950
+      "UsersEstimate": 23951
     },
     {
       "ID": "EAwards_30",
@@ -24934,7 +24939,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 119751,
+      "Progressed": 119753,
       "Completed": 60
     }
   ],
@@ -24942,8 +24947,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-07T23:57:01.9676007+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:11:06.3683324+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:10:52.4110947+00:00",
   "LastUpdate_AppInfo": "2024-01-05T09:57:07.0095771+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:00:12.9705431+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:11:06.3685165+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:00:23.5823542+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:10:52.4112111+00:00"
 }

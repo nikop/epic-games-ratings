@@ -11,8 +11,8 @@ Rating: 4.43 (Ranked 724)
 | So Clean You Can Eat Off the Floor | 15.00% | ~153 |
 | S is for Scrumptious | 15.00% | ~153 |
 | French Flair | 14.00% | ~143 |
+| Next Level Cuisine | 8.00% | ~82 |
 | Haute Cuisine | 7.00% | ~71 |
-| Next Level Cuisine | 7.00% | ~71 |
 | Italian Style | 6.00% | ~61 |
 | Sous-Chef | 4.00% | ~41 |
 | Rolling in Dough | 4.00% | ~41 |

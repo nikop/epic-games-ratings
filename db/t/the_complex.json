@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 825,
+  "EOS_Progressed": 826,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.67,
+  "EOS_Completed_Percentage": 2.66,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -1825,6 +1825,11 @@
       "Time": "2024-01-11T20:10:49.9775948+00:00",
       "NumProgressed": 825,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-11T22:10:23.3797801+00:00",
+      "NumProgressed": 826,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 20,
@@ -1844,7 +1849,7 @@
       "Name": "Blast From The Past",
       "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "deadly_secret",
@@ -1908,7 +1913,7 @@
       "Name": "Trust Me For Once",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ending_8",
@@ -1924,7 +1929,7 @@
       "Name": "Falling For You",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "free_champagne",
@@ -1980,7 +1985,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "tough_decision",
@@ -1988,14 +1993,14 @@
       "Name": "Tough Decision",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 825,
+      "Progressed": 826,
       "Completed": 22
     }
   ],
@@ -2003,8 +2008,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:10:38.7411985+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:10:23.3797796+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:38.6088522+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:03:29.2614313+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:10:38.7412239+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:03:16.0565698+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:10:23.3798028+00:00"
 }

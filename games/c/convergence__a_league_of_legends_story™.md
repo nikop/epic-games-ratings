@@ -5,18 +5,18 @@ Rating: 4.69 (Ranked 238)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 46.00% | ~600 |
+| Time Heals All Wounds | 46.00% | ~601 |
 | Rail Rat | 35.00% | ~457 |
 | The Mysterious Stranger | 34.00% | ~444 |
-| Immaculate Aim | 29.00% | ~378 |
-| The Brass Boss | 28.00% | ~365 |
-| Time Flies | 27.00% | ~352 |
-| Make Up For Lost Time | 26.00% | ~339 |
-| The Harder They Fall | 26.00% | ~339 |
-| No, Thanks! | 26.00% | ~339 |
-| The Prince in Heels | 26.00% | ~339 |
-| Honest Mistake | 26.00% | ~339 |
-| Immaculate Aim | 26.00% | ~339 |
+| Immaculate Aim | 29.00% | ~379 |
+| The Brass Boss | 28.00% | ~366 |
+| Time Flies | 27.00% | ~353 |
+| Make Up For Lost Time | 26.00% | ~340 |
+| The Harder They Fall | 26.00% | ~340 |
+| No, Thanks! | 26.00% | ~340 |
+| The Prince in Heels | 26.00% | ~340 |
+| Honest Mistake | 26.00% | ~340 |
+| Immaculate Aim | 26.00% | ~340 |
 | Fast Learner | 25.00% | ~326 |
 | The Steel Shadow | 24.00% | ~313 |
 | Right On Time | 23.00% | ~300 |
@@ -39,13 +39,13 @@ Rating: 4.69 (Ranked 238)
 | Cartographer | 12.00% | ~157 |
 | Sump Explorer | 12.00% | ~157 |
 | Syron for Hope | 12.00% | ~157 |
-| Factorywood Explorer | 10.00% | ~130 |
-| Fairgrounds Explorer | 10.00% | ~130 |
-| Theater Explorer | 10.00% | ~130 |
-| Cultivair Explorer | 9.00% | ~117 |
-| Entresol Explorer | 9.00% | ~117 |
+| Factorywood Explorer | 10.00% | ~131 |
+| Fairgrounds Explorer | 10.00% | ~131 |
+| Theater Explorer | 10.00% | ~131 |
+| Cultivair Explorer | 9.00% | ~118 |
 | Corin Goes Home | 8.00% | ~104 |
 | Sartorialist | 8.00% | ~104 |
+| Entresol Explorer | 8.00% | ~104 |
 | Golem Hunter | 7.00% | ~91 |
 | Clovemary for Remembering | 6.00% | ~78 |
 | Hexlock for Protection | 6.00% | ~78 |
@@ -59,7 +59,7 @@ Rating: 4.69 (Ranked 238)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,305 (Ranked 281)  
+Progressed: 1,306 (Ranked 281)  
 Completed: 8 (0.61%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 8 (0.61%) (Ranked 206)
 | 2024-01-08 | 1,278 | 7 |
 | 2024-01-09 | 1,289 | 7 |
 | 2024-01-10 | 1,300 | 7 |
-| 2024-01-11 | 1,305 | 8 |
+| 2024-01-11 | 1,306 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

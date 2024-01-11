@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -413,9 +413,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 14633,
+  "EOS_Progressed": 14634,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 1355,
+  "EOS_NewPlayers": 1341,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10028,6 +10028,11 @@
       "Time": "2024-01-11T21:11:04.3403716+00:00",
       "NumProgressed": 14633,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-11T22:10:50.3598109+00:00",
+      "NumProgressed": 14634,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10048,7 +10053,7 @@
       "Name": "Baby Steps",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 5853
+      "UsersEstimate": 5854
     },
     {
       "ID": "BeLikeWater",
@@ -10112,7 +10117,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8048
+      "UsersEstimate": 8049
     },
     {
       "ID": "FuneralForTheDeath",
@@ -10311,7 +10316,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14633,
+      "Progressed": 14634,
       "Completed": 27
     }
   ],
@@ -10319,8 +10324,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-10T20:00:42.7473431+00:00",
-  "LastChanged_Achievements": "2024-01-11T21:11:04.3403713+00:00",
+  "LastChanged_Achievements": "2024-01-11T22:10:50.3598104+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:57:40.5931083+00:00",
-  "LastUpdate_Achievements": "2024-01-11T21:11:04.3404433+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:57:36.5307006+00:00",
+  "LastUpdate_Achievements": "2024-01-11T22:10:50.3598816+00:00"
 }

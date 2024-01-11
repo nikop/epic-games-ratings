@@ -1,13 +1,13 @@
 # New Tales from the Borderlands
 [Store](https://store.epicgames.com/en-US/p/new-tales-from-the-borderlands)  
 [View Rawdata](../../db/n/new_tales_from_the_borderlands.json)  
-Rating: 4.08 (Ranked 1,026)  
+Rating: 4.08 (Ranked 1,025)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Who Needs Keys? | 51.00% | ~1,947 |
 | Totally Intentional | 46.00% | ~1,756 |
-| Each Sold Separately | 38.00% | ~1,450 |
+| Each Sold Separately | 38.00% | ~1,451 |
 | We're In | 33.00% | ~1,260 |
 | You're Not Naked | 30.00% | ~1,145 |
 | From Zeroes... | 29.00% | ~1,107 |
@@ -17,8 +17,8 @@ Rating: 4.08 (Ranked 1,026)
 | You Rich Now! | 23.00% | ~878 |
 | Our Lucky Winner | 21.00% | ~802 |
 | You Poor Now! | 21.00% | ~802 |
-| The Shardmenstration | 20.00% | ~763 |
-| You Got the Goods, Kid | 20.00% | ~763 |
+| The Shardmenstration | 20.00% | ~764 |
+| You Got the Goods, Kid | 20.00% | ~764 |
 | Those Were the Days... | 19.00% | ~725 |
 | ...To Heroes | 18.00% | ~687 |
 | Mas, Por Favor | 18.00% | ~687 |
@@ -32,7 +32,7 @@ Rating: 4.08 (Ranked 1,026)
 | Not Dolls. Action Figures! | 0.20% | ~8 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,817 (Ranked 220)  
+Progressed: 3,818 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 3,805 | 0 |
 | 2024-01-09 | 3,807 | 0 |
 | 2024-01-10 | 3,814 | 0 |
-| 2024-01-11 | 3,817 | 0 |
+| 2024-01-11 | 3,818 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
