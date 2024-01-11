@@ -5,17 +5,17 @@ Rating: 4.22 (Ranked 950)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 26.00% | ~5,748 |
-| The Outer Way | 26.00% | ~5,748 |
-| Desperate Times | 25.00% | ~5,527 |
-| Paper Jams | 22.00% | ~4,864 |
-| Get a Grip | 21.00% | ~4,643 |
+| Flesh Wound | 26.00% | ~5,749 |
+| The Outer Way | 26.00% | ~5,749 |
+| Desperate Times | 25.00% | ~5,528 |
+| Paper Jams | 22.00% | ~4,865 |
+| Get a Grip | 21.00% | ~4,644 |
 | Chew 'Em Up | 20.00% | ~4,422 |
 | Reforged | 19.00% | ~4,201 |
-| Float Like A Butterfly | 17.00% | ~3,758 |
-| Workplace Hazard | 16.00% | ~3,537 |
-| If the SHU Fits... | 16.00% | ~3,537 |
-| Without A Paddle | 14.00% | ~3,095 |
+| Float Like A Butterfly | 17.00% | ~3,759 |
+| Workplace Hazard | 16.00% | ~3,538 |
+| If the SHU Fits... | 16.00% | ~3,538 |
+| Without A Paddle | 14.00% | ~3,096 |
 | In the Pipe, Five by Five | 12.00% | ~2,653 |
 | Crash Site | 12.00% | ~2,653 |
 | Two Heads Are Better Than One | 11.00% | ~2,432 |
@@ -26,9 +26,9 @@ Rating: 4.22 (Ranked 950)
 | Full Circle | 10.00% | ~2,211 |
 | You Need a Gun | 9.00% | ~1,990 |
 | I Do Belong Here | 8.00% | ~1,769 |
-| Keep Fighting | 7.00% | ~702 |
-| In Striking Distance | 5.00% | ~1,105 |
-| The Commonality | 5.00% | ~1,105 |
+| Keep Fighting | 7.00% | ~703 |
+| In Striking Distance | 5.00% | ~1,106 |
+| The Commonality | 5.00% | ~1,106 |
 | It's Time | 5.00% | ~502 |
 | One Last Job | 3.00% | ~301 |
 | Mugshot | 2.00% | ~442 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 950)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,108 (Ranked 150)  
+Progressed: 22,112 (Ranked 150)  
 Completed: 82 (0.37%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,18 +311,18 @@ Completed: 82 (0.37%) (Ranked 243)
 | 2024-01-08 | 21,745 | 82 |
 | 2024-01-09 | 21,902 | 82 |
 | 2024-01-10 | 22,053 | 82 |
-| 2024-01-11 | 22,108 | 82 |
+| 2024-01-11 | 22,112 | 82 |
 ## Awards
 Max (Amazing Characters): 131  (Ranked 345)  
-Sum: 630 (Ranked 321)  
+Sum: 633 (Ranked 321)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 131 |
 | This game is Highly Recommended | 118 |
 | This game is Extremely Fun | 115 |
+| This game has Amazing Storytelling | 110 |
 | This game has Quickly Understood Controls | 108 |
-| This game has Amazing Storytelling | 107 |
 | This game has Challenging Combat | 68 |
 | This game has a Creative Community | 51 |
 ## Ratings History
@@ -526,4 +526,4 @@ Diff (max vs sum): 24
 | 2024-01-08 | 4.21 | 126 | 607 |
 | 2024-01-09 | 4.22 | 129 | 619 |
 | 2024-01-10 | 4.22 | 129 | 628 |
-| 2024-01-11 | 4.22 | 131 | 630 |
+| 2024-01-11 | 4.22 | 131 | 633 |

@@ -347,7 +347,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 938,
+  "EOS_Progressed": 940,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 1,
@@ -2502,6 +2502,11 @@
       "Time": "2024-01-11T09:05:10.8154696+00:00",
       "NumProgressed": 938,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-11T11:04:14.0293137+00:00",
+      "NumProgressed": 940,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2586,7 +2591,7 @@
       "Name": "Jellyfishing",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -2722,7 +2727,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -2730,7 +2735,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -2769,15 +2774,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 938,
+      "Progressed": 940,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-09T20:57:04.6643475+00:00",
-  "LastChanged_Achievements": "2024-01-11T10:03:55.5862535+00:00",
+  "LastChanged_Achievements": "2024-01-11T11:04:14.0293133+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-11T09:57:48.5999493+00:00",
-  "LastUpdate_Achievements": "2024-01-11T10:03:55.5862862+00:00"
+  "LastUpdate_Ratings": "2024-01-11T10:58:03.443258+00:00",
+  "LastUpdate_Achievements": "2024-01-11T11:04:14.0293437+00:00"
 }

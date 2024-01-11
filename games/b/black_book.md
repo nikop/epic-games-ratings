@@ -1,20 +1,20 @@
 # Black Book
 [Store](https://store.epicgames.com/en-US/p/black-book)  
 [View Rawdata](../../db/b/black_book.json)  
-Rating: 4.65 (Ranked 323)  
+Rating: 4.65 (Ranked 322)  
 Number of Ratings: 96  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~19,252 |
+| Initiation | 29.00% | ~19,253 |
 | Student | 22.00% | ~14,605 |
 | Knower | 16.00% | ~10,622 |
 | Listener | 15.00% | ~9,958 |
 | Aspen Tree | 14.00% | ~9,294 |
 | Healer | 14.00% | ~9,294 |
-| Scientist | 12.00% | ~7,966 |
-| Soldier | 12.00% | ~7,966 |
-| Cow Level | 11.00% | ~7,302 |
+| Scientist | 12.00% | ~7,967 |
+| Soldier | 12.00% | ~7,967 |
+| Cow Level | 11.00% | ~7,303 |
 | Old Friend | 10.00% | ~6,639 |
 | Herbalist | 10.00% | ~6,639 |
 | Water | 10.00% | ~6,639 |
@@ -43,9 +43,9 @@ Number of Ratings: 96  (23.09.2022)
 | Keeper of Knowledge | 6.00% | ~3,983 |
 | Susanin | 5.00% | ~3,319 |
 | Traveller | 5.00% | ~3,319 |
-| Righteous | 4.00% | ~2,655 |
-| Musician | 4.00% | ~2,655 |
-| Koldun | 4.00% | ~2,655 |
+| Righteous | 4.00% | ~2,656 |
+| Musician | 4.00% | ~2,656 |
+| Koldun | 4.00% | ~2,656 |
 | Black Sorceress | 3.00% | ~1,992 |
 | Cheater | 3.00% | ~1,992 |
 | Diplomat | 3.00% | ~1,992 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,328 |
 | Word Master | 0.20% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,386 (Ranked 117)  
+Progressed: 66,388 (Ranked 117)  
 Completed: 69 (0.10%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 69 (0.10%) (Ranked 311)
 | 2024-01-08 | 66,003 | 68 |
 | 2024-01-09 | 66,170 | 69 |
 | 2024-01-10 | 66,325 | 69 |
-| 2024-01-11 | 66,386 | 69 |
+| 2024-01-11 | 66,388 | 69 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

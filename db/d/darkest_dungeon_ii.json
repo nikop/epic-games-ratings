@@ -10642,18 +10642,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 21580,
       "NumberOfAwardsMax": 8000
+    },
+    {
+      "Time": "2024-01-11T10:59:35.5538897+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21582,
+      "NumberOfAwardsMax": 8002
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21580,
-  "NumberOfAwardsMax": 8000,
+  "NumberOfAwards": 21582,
+  "NumberOfAwardsMax": 8002,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8000
+      "Count": 8002
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10722,9 +10728,9 @@
       "Count": 1088
     }
   ],
-  "EOS_Progressed": 132433,
+  "EOS_Progressed": 132438,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 845,
+  "EOS_NewPlayers": 843,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39327,6 +39333,11 @@
       "Time": "2024-01-11T10:09:29.4509618+00:00",
       "NumProgressed": 132433,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T11:10:02.462284+00:00",
+      "NumProgressed": 132438,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39626,7 +39637,7 @@
       "Name": "Spelunker",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5297
+      "UsersEstimate": 5298
     },
     {
       "ID": "driving_biome_clear_city",
@@ -39642,7 +39653,7 @@
       "Name": "Merry Time",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5297
+      "UsersEstimate": 5298
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -39650,7 +39661,7 @@
       "Name": "Harvest Festival",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5297
+      "UsersEstimate": 5298
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -39666,7 +39677,7 @@
       "Name": "Ramble On",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5297
+      "UsersEstimate": 5298
     },
     {
       "ID": "driving_distance_hard",
@@ -39690,7 +39701,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9270
+      "UsersEstimate": 9271
     },
     {
       "ID": "hero_story_complete_all",
@@ -39714,7 +39725,7 @@
       "Name": "Whale",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5297
+      "UsersEstimate": 5298
     },
     {
       "ID": "hospital_full_service",
@@ -39786,7 +39797,7 @@
       "Name": "Nope",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5297
+      "UsersEstimate": 5298
     },
     {
       "ID": "run_victory_act01",
@@ -39794,7 +39805,7 @@
       "Name": "Unshackled",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 5297
+      "UsersEstimate": 5298
     },
     {
       "ID": "run_victory_act02",
@@ -39874,7 +39885,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "combat_kill_collector",
@@ -39938,7 +39949,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -39969,21 +39980,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132433,
+      "Progressed": 132438,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7302,
+      "Progressed": 7307,
       "Completed": 824
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-11T01:49:24.3424413+00:00",
-  "LastChanged_Achievements": "2024-01-11T10:09:29.4509616+00:00",
+  "LastChanged": "2024-01-11T10:59:35.5538895+00:00",
+  "LastChanged_Achievements": "2024-01-11T11:10:02.4622837+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-11T09:59:23.6744853+00:00",
-  "LastUpdate_Achievements": "2024-01-11T10:09:29.4511484+00:00"
+  "LastUpdate_Ratings": "2024-01-11T10:59:35.5538901+00:00",
+  "LastUpdate_Achievements": "2024-01-11T11:10:02.4624622+00:00"
 }

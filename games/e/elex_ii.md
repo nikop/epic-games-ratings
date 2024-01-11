@@ -7,9 +7,9 @@ Number of Ratings: 124  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 42.00% | ~98 |
-| Best Buddy | 34.00% | ~79 |
+| Best Buddy | 35.00% | ~82 |
 | Civilian | 33.00% | ~77 |
-| Role Model | 29.00% | ~68 |
+| Role Model | 30.00% | ~70 |
 | Creator | 27.00% | ~63 |
 | Festival-goer | 26.00% | ~61 |
 | Military Leader | 25.00% | ~58 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233 (Ranked 424)  
+Progressed: 234 (Ranked 424)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,6 +86,7 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 220 | 0 |
 | 2024-01-09 | 225 | 0 |
 | 2024-01-10 | 233 | 0 |
+| 2024-01-11 | 234 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

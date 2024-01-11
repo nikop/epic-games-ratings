@@ -2,7 +2,7 @@
   "ID": "2a09fb19b47f46dfb11ebd382f132a8f",
   "Name": "Marvel\u0027s Guardians of the Galaxy",
   "ProductSlug": "marvels-guardians-of-the-galaxy",
-  "Ranking_Rating": 301,
+  "Ranking_Rating": 322,
   "Ranking_Popularity": 117,
   "Ranking_PopularitySum": 200,
   "Ranking_EOS_Progress": 826,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.65,
   "NumberOfRatings": 898,
   "RatingHistory": [
     {
@@ -1880,6 +1880,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 2547,
       "NumberOfAwardsMax": 2076
+    },
+    {
+      "Time": "2024-01-11T11:00:33.1604483+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 2547,
+      "NumberOfAwardsMax": 2076
     }
   ],
   "ReviewsDisabled": false,
@@ -1953,8 +1959,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:01.0577713+00:00",
-  "LastChanged": "2024-01-11T00:02:31.2707981+00:00",
+  "LastChanged": "2024-01-11T11:00:33.1604481+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:24.222579+00:00",
-  "LastUpdate_Ratings": "2024-01-11T10:02:23.9083593+00:00",
-  "LastUpdate_Achievements": "2024-01-11T10:07:43.3588722+00:00"
+  "LastUpdate_Ratings": "2024-01-11T11:00:33.1604487+00:00",
+  "LastUpdate_Achievements": "2024-01-11T11:06:18.5573284+00:00"
 }

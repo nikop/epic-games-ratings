@@ -4,7 +4,7 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 264,
+  "EOS_Progressed": 265,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.14,
+  "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
     {
       "Time": "2023-11-10T21:13:00.589505+00:00",
@@ -1084,6 +1084,11 @@
       "Time": "2024-01-10T21:04:17.5528115+00:00",
       "NumProgressed": 264,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-11T11:04:44.1958647+00:00",
+      "NumProgressed": 265,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-11-06T19:03:25.5191161+00:00",
@@ -1096,7 +1101,7 @@
       "Name": "Administrator",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "TINGWD_ANIMAL",
@@ -1144,7 +1149,7 @@
       "Name": "To infinity and beyond!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "TINGWD_CARMACK",
@@ -1158,9 +1163,9 @@
       "ID": "TINGWD_CHAP_END_01",
       "SetID": "c0imaa6",
       "Name": "There\u0027s a bug in the soup",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 207
     },
     {
       "ID": "TINGWD_CHAP_END_02",
@@ -1168,7 +1173,7 @@
       "Name": "A soundly led quest",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "TINGWD_CHAP_END_03",
@@ -1176,7 +1181,7 @@
       "Name": "Princess saver",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "TINGWD_CHAP_END_04",
@@ -1216,7 +1221,7 @@
       "Name": "Conspiracy theorist",
       "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "TINGWD_DETECTIVE",
@@ -1224,7 +1229,7 @@
       "Name": "Private Detective",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -1272,7 +1277,7 @@
       "Name": "Have you no shame?",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -1288,7 +1293,7 @@
       "Name": "Life sentence",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "TINGWD_PUNCHMAN",
@@ -1367,14 +1372,14 @@
     {
       "ID": "c0imaa6",
       "IsBase": true,
-      "Progressed": 264,
+      "Progressed": 265,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-11T10:04:26.1833519+00:00",
+  "LastChanged_Achievements": "2024-01-11T11:04:44.1958589+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.2042305+00:00",
-  "LastUpdate_Ratings": "2024-01-11T10:02:28.6037169+00:00",
-  "LastUpdate_Achievements": "2024-01-11T10:04:26.1833813+00:00"
+  "LastUpdate_Ratings": "2024-01-11T11:02:47.5500046+00:00",
+  "LastUpdate_Achievements": "2024-01-11T11:04:44.1958927+00:00"
 }

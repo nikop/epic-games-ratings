@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18840,
+  "EOS_Progressed": 18842,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 684,
+  "EOS_NewPlayers": 682,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -17013,6 +17013,11 @@
       "Time": "2024-01-11T10:08:09.0096053+00:00",
       "NumProgressed": 18840,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2024-01-11T11:08:43.4755312+00:00",
+      "NumProgressed": 18842,
+      "NumCompleted": 62
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17057,7 +17062,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3391
+      "UsersEstimate": 3392
     },
     {
       "ID": "14",
@@ -17065,7 +17070,7 @@
       "Name": "Doctor Approved",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "15",
@@ -17073,7 +17078,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2072
+      "UsersEstimate": 2073
     },
     {
       "ID": "16",
@@ -17097,7 +17102,7 @@
       "Name": "Bottoms up!",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "19",
@@ -17273,7 +17278,7 @@
       "Name": "Safe Cracker",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "33",
@@ -17281,7 +17286,7 @@
       "Name": "Zen Master",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "34",
@@ -17297,20 +17302,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18840,
+      "Progressed": 18842,
       "Completed": 62
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4794,
+      "Progressed": 4796,
       "Completed": 1279
     }
   ],
@@ -17318,8 +17323,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-11T01:50:11.8166633+00:00",
-  "LastChanged_Achievements": "2024-01-11T10:08:09.0096051+00:00",
+  "LastChanged_Achievements": "2024-01-11T11:08:43.4755308+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-11T09:59:56.5339037+00:00",
-  "LastUpdate_Achievements": "2024-01-11T10:08:09.0096964+00:00"
+  "LastUpdate_Ratings": "2024-01-11T11:00:07.4077162+00:00",
+  "LastUpdate_Achievements": "2024-01-11T11:08:43.4756589+00:00"
 }

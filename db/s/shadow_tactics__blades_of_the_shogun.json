@@ -2518,9 +2518,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 225298,
+  "EOS_Progressed": 225301,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 1423,
+  "EOS_NewPlayers": 1420,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -33133,6 +33133,11 @@
       "Time": "2024-01-11T10:04:01.2493692+00:00",
       "NumProgressed": 225298,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2024-01-11T11:04:19.6587478+00:00",
+      "NumProgressed": 225301,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 44,
@@ -33272,7 +33277,7 @@
       "Name": "Merciful",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "Meticulous",
@@ -33495,15 +33500,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 225298,
+      "Progressed": 225301,
       "Completed": 106
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-10T11:57:40.3911972+00:00",
-  "LastChanged_Achievements": "2024-01-11T10:04:01.249369+00:00",
+  "LastChanged_Achievements": "2024-01-11T11:04:19.6587473+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:34.88387+00:00",
-  "LastUpdate_Ratings": "2024-01-11T09:57:48.5189871+00:00",
-  "LastUpdate_Achievements": "2024-01-11T10:04:01.2495636+00:00"
+  "LastUpdate_Ratings": "2024-01-11T10:58:03.3165737+00:00",
+  "LastUpdate_Achievements": "2024-01-11T11:04:19.6590055+00:00"
 }

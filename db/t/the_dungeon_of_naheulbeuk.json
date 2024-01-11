@@ -2,7 +2,7 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 453,
+  "Ranking_Rating": 471,
   "Ranking_Popularity": 277,
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 72,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.58,
   "NumberOfRatings": 118,
   "RatingHistory": [
     {
@@ -1657,6 +1657,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 564,
       "NumberOfAwardsMax": 268
+    },
+    {
+      "Time": "2024-01-11T10:57:13.077386+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 564,
+      "NumberOfAwardsMax": 268
     }
   ],
   "ReviewsDisabled": false,
@@ -1725,9 +1731,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 247614,
+  "EOS_Progressed": 247616,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1141,
+  "EOS_NewPlayers": 1137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25775,6 +25781,11 @@
       "Time": "2024-01-11T10:09:47.8044301+00:00",
       "NumProgressed": 247614,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-11T11:10:20.4241797+00:00",
+      "NumProgressed": 247616,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -26234,7 +26245,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 91617
+      "UsersEstimate": 91618
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -26489,21 +26500,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 247614,
+      "Progressed": 247616,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 247614,
+      "Progressed": 247616,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2024-01-10T11:00:35.3209185+00:00",
-  "LastChanged_Achievements": "2024-01-11T10:09:47.8044298+00:00",
+  "LastChanged": "2024-01-11T10:57:13.0773858+00:00",
+  "LastChanged_Achievements": "2024-01-11T11:10:20.4241793+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8090113+00:00",
-  "LastUpdate_Ratings": "2024-01-11T09:56:58.4677172+00:00",
-  "LastUpdate_Achievements": "2024-01-11T10:09:47.8046225+00:00"
+  "LastUpdate_Ratings": "2024-01-11T10:57:13.0773863+00:00",
+  "LastUpdate_Achievements": "2024-01-11T11:10:20.4243673+00:00"
 }

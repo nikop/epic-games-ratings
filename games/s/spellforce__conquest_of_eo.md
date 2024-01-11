@@ -40,12 +40,12 @@
 | The Forge of Regan Gor | 9.00% | ~12 |
 | Mage Teacher | 9.00% | ~12 |
 | Friend of Windholme | 9.00% | ~12 |
+| A Joke | 9.00% | ~12 |
 | Defeat Gor | 8.00% | ~11 |
 | Defeat Uram | 8.00% | ~11 |
 | Yngrid's Tale | 8.00% | ~11 |
 | Tuscari Sea Portal | 8.00% | ~11 |
 | Friend of Uram Gor | 8.00% | ~11 |
-| A Joke | 8.00% | ~11 |
 | Defeat Raith | 7.00% | ~10 |
 | Crypt of the Revenant | 7.00% | ~10 |
 | Fireforge | 7.00% | ~10 |

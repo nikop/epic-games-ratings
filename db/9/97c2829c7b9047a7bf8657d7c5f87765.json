@@ -328,9 +328,9 @@
       "ID": "3",
       "SetID": "7095412",
       "Name": "First Time User",
-      "Percentage": 62,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "30",
@@ -487,8 +487,8 @@
   ],
   "FirstSeen": "2023-08-25T14:00:23.6094208+00:00",
   "FirstSeenAchievements": "2023-06-30T11:02:07.8457996+00:00",
-  "LastChanged_Achievements": "2024-01-11T10:04:55.1200557+00:00",
+  "LastChanged_Achievements": "2024-01-11T11:05:12.226594+00:00",
   "LastUpdate_AppInfo": "2024-01-06T02:17:59.7524851+00:00",
-  "LastUpdate_Ratings": "2024-01-11T09:59:48.4414114+00:00",
-  "LastUpdate_Achievements": "2024-01-11T10:04:55.1200802+00:00"
+  "LastUpdate_Ratings": "2024-01-11T10:59:59.1111262+00:00",
+  "LastUpdate_Achievements": "2024-01-11T11:05:12.2266299+00:00"
 }

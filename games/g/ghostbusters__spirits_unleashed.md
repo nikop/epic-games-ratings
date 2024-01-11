@@ -57,8 +57,8 @@ Rating: 4.50 (Ranked 615)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,528 (Ranked 137)  
-Completed: 71 (0.21%) (Ranked 275)  
+Progressed: 33,529 (Ranked 137)  
+Completed: 71 (0.21%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -323,10 +323,10 @@ Completed: 71 (0.21%) (Ranked 275)
 | 2024-01-08 | 33,470 | 71 |
 | 2024-01-09 | 33,497 | 71 |
 | 2024-01-10 | 33,517 | 71 |
-| 2024-01-11 | 33,528 | 71 |
+| 2024-01-11 | 33,529 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 256)  
-Sum: 2,958 (Ranked 186)  
+Sum: 2,959 (Ranked 186)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
@@ -336,7 +336,7 @@ Diff (max vs sum): 70
 | This game has Amazing Storytelling | 296 |
 | This game is Highly Recommended | 293 |
 | This game has Competitive Players | 288 |
-| This game is Extremely Fun | 285 |
+| This game is Extremely Fun | 286 |
 | This game is Relaxing | 284 |
 | This game has Amazing Characters | 273 |
 | This game has Quickly Understood Controls | 271 |
@@ -607,3 +607,4 @@ Diff (max vs sum): 70
 | 2024-01-07 | 4.50 | 328 | 2,953 |
 | 2024-01-09 | 4.50 | 328 | 2,954 |
 | 2024-01-10 | 4.50 | 328 | 2,958 |
+| 2024-01-11 | 4.50 | 328 | 2,959 |

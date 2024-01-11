@@ -3427,9 +3427,9 @@
       "Count": 197
     }
   ],
-  "EOS_Progressed": 739813,
+  "EOS_Progressed": 739814,
   "EOS_Completed": 781,
-  "EOS_NewPlayers": 977,
+  "EOS_NewPlayers": 972,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -33492,6 +33492,11 @@
       "Time": "2024-01-11T10:09:48.373381+00:00",
       "NumProgressed": 739813,
       "NumCompleted": 781
+    },
+    {
+      "Time": "2024-01-11T11:10:21.0005438+00:00",
+      "NumProgressed": 739814,
+      "NumCompleted": 781
     }
   ],
   "TotalAchievements": 98,
@@ -33583,7 +33588,7 @@
       "Name": "Blue King\u0027s lair",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 81379
+      "UsersEstimate": 81380
     },
     {
       "ID": "Buckle",
@@ -33591,7 +33596,7 @@
       "Name": "Buckle",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 133166
+      "UsersEstimate": 133167
     },
     {
       "ID": "Burglar1",
@@ -33631,7 +33636,7 @@
       "Name": "Payback",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 81379
+      "UsersEstimate": 81380
     },
     {
       "ID": "CoinsBack",
@@ -33639,7 +33644,7 @@
       "Name": "Got the coins back",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 81379
+      "UsersEstimate": 81380
     },
     {
       "ID": "Crash2",
@@ -33711,7 +33716,7 @@
       "Name": "Double Health",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 140564
+      "UsersEstimate": 140565
     },
     {
       "ID": "Doublejump",
@@ -33719,7 +33724,7 @@
       "Name": "Double Jump",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 355110
+      "UsersEstimate": 355111
     },
     {
       "ID": "FireFlies",
@@ -33759,7 +33764,7 @@
       "Name": "Force Cube Catapult",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 184953
+      "UsersEstimate": 184954
     },
     {
       "ID": "Freed_from_Prison",
@@ -33823,7 +33828,7 @@
       "Name": "Green Keycard",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 133166
+      "UsersEstimate": 133167
     },
     {
       "ID": "GreenMoonDoor",
@@ -33839,7 +33844,7 @@
       "Name": "Got the gun back",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 81379
+      "UsersEstimate": 81380
     },
     {
       "ID": "Happiness",
@@ -33863,7 +33868,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 406897
+      "UsersEstimate": 406898
     },
     {
       "ID": "Healthregen",
@@ -33871,7 +33876,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 347712
+      "UsersEstimate": 347713
     },
     {
       "ID": "HelpedAStar",
@@ -33887,7 +33892,7 @@
       "Name": "Climb the hill",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 310721
+      "UsersEstimate": 310722
     },
     {
       "ID": "Holy_Sword",
@@ -33919,7 +33924,7 @@
       "Name": "Infiltrated",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 81379
+      "UsersEstimate": 81380
     },
     {
       "ID": "InvisibleWall",
@@ -34015,7 +34020,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 732415
+      "UsersEstimate": 732416
     },
     {
       "ID": "PanicLights",
@@ -34103,7 +34108,7 @@
       "Name": "Robbed",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 81379
+      "UsersEstimate": 81380
     },
     {
       "ID": "Shady",
@@ -34175,7 +34180,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 628841
+      "UsersEstimate": 628842
     },
     {
       "ID": "ThroughPipe",
@@ -34286,15 +34291,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 739813,
+      "Progressed": 739814,
       "Completed": 781
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2024-01-10T19:00:06.7844939+00:00",
-  "LastChanged_Achievements": "2024-01-11T10:09:48.3733808+00:00",
+  "LastChanged_Achievements": "2024-01-11T11:10:21.0005434+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:15.8548171+00:00",
-  "LastUpdate_Ratings": "2024-01-11T10:00:10.5682913+00:00",
-  "LastUpdate_Achievements": "2024-01-11T10:09:48.373586+00:00"
+  "LastUpdate_Ratings": "2024-01-11T11:00:21.7340842+00:00",
+  "LastUpdate_Achievements": "2024-01-11T11:10:21.0008508+00:00"
 }

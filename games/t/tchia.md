@@ -11,7 +11,7 @@ Rating: 4.70 (Ranked 219)
 | Body and Soul | 0.60% | ~53 |
 | Globe Trotter | 0.60% | ~53 |
 | Soul-Canon | 0.60% | ~53 |
-| Ahem Ahem | 0.40% | ~35 |
+| Ahem Ahem | 0.50% | ~44 |
 | Shredder | 0.40% | ~35 |
 | Audiophile | 0.30% | ~27 |
 | Clay Pigeon | 0.30% | ~27 |

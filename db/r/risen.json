@@ -1035,9 +1035,9 @@
       "ID": "id_14",
       "SetID": "bk9jib6",
       "Name": "Death of a legend",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "id_15",
@@ -1420,8 +1420,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-07T05:57:14.1879387+00:00",
-  "LastChanged_Achievements": "2024-01-11T10:09:42.9093633+00:00",
+  "LastChanged_Achievements": "2024-01-11T11:10:15.6739882+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:37.3559183+00:00",
-  "LastUpdate_Ratings": "2024-01-11T09:59:08.9952556+00:00",
-  "LastUpdate_Achievements": "2024-01-11T10:09:42.909397+00:00"
+  "LastUpdate_Ratings": "2024-01-11T10:59:20.8080464+00:00",
+  "LastUpdate_Achievements": "2024-01-11T11:10:15.6740308+00:00"
 }

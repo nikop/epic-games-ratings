@@ -5,18 +5,18 @@ Rating: 4.43 (Ranked 726)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~60,303 |
-| This is only the beginning | 20.00% | ~46,387 |
-| Knowledge is power | 13.00% | ~30,151 |
-| Galvanic Rifle | 10.00% | ~23,193 |
-| Radium Ready | 10.00% | ~23,193 |
+| No aid from the Omnissiah | 26.00% | ~60,304 |
+| This is only the beginning | 20.00% | ~46,388 |
+| Knowledge is power | 13.00% | ~30,152 |
+| Galvanic Rifle | 10.00% | ~23,194 |
+| Radium Ready | 10.00% | ~23,194 |
 | Power Ranger | 9.00% | ~20,874 |
 | Taser Goad | 9.00% | ~20,874 |
 | Half a cog | 9.00% | ~20,874 |
 | Watch them crumble | 6.00% | ~13,916 |
-| Competent Cohort | 4.00% | ~9,277 |
-| Celestial Cartography Catastrophe | 4.00% | ~9,277 |
-| One with the Machine | 4.00% | ~9,277 |
+| Competent Cohort | 4.00% | ~9,278 |
+| Celestial Cartography Catastrophe | 4.00% | ~9,278 |
+| One with the Machine | 4.00% | ~9,278 |
 | Legio Cybernetica | 3.00% | ~6,958 |
 | Fleshy Disposal | 3.00% | ~6,958 |
 | Battle Servitor | 2.00% | ~4,639 |
@@ -24,7 +24,7 @@ Rating: 4.43 (Ranked 726)
 | Impatient destruction | 2.00% | ~4,639 |
 | Vivisected Vizier | 2.00% | ~4,639 |
 | Architect Abortion | 2.00% | ~4,639 |
-| Cohortus Maximus | 0.80% | ~1,855 |
+| Cohortus Maximus | 0.80% | ~1,856 |
 | Mother of Xenarites | 0.40% | ~928 |
 | False God | 0.30% | ~696 |
 | Hard | 0.20% | ~464 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 726)
 | Perma-live | 0.10% | ~232 |
 | Purge the Heretek | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,934 (Ranked 77)  
+Progressed: 231,938 (Ranked 77)  
 Completed: 5 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 5 (0.00%) (Ranked 397)
 | 2024-01-08 | 231,760 | 5 |
 | 2024-01-09 | 231,845 | 5 |
 | 2024-01-10 | 231,901 | 5 |
-| 2024-01-11 | 231,934 | 5 |
+| 2024-01-11 | 231,938 | 5 |
 ## Awards
 Max (Highly Recommended): 292  (Ranked 266)  
 Sum: 2,230 (Ranked 212)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24788,
+  "EOS_Progressed": 24789,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 372,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -23068,6 +23068,11 @@
       "Time": "2024-01-11T09:05:06.8383995+00:00",
       "NumProgressed": 24788,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2024-01-11T11:04:10.1996059+00:00",
+      "NumProgressed": 24789,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 14,
@@ -23079,7 +23084,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 19087
+      "UsersEstimate": 19088
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -23183,22 +23188,22 @@
       "Name": "Wild West Hero",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 3222
+      "UsersEstimate": 3223
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 24788,
+      "Progressed": 24789,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2024-01-11T10:03:51.4462109+00:00",
+  "LastChanged_Achievements": "2024-01-11T11:04:10.1996055+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:43.5495434+00:00",
-  "LastUpdate_Ratings": "2024-01-11T10:02:48.0305085+00:00",
-  "LastUpdate_Achievements": "2024-01-11T10:03:51.4463206+00:00"
+  "LastUpdate_Ratings": "2024-01-11T11:03:05.9287129+00:00",
+  "LastUpdate_Achievements": "2024-01-11T11:04:10.1997302+00:00"
 }

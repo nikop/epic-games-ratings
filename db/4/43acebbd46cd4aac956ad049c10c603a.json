@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 466,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -319,7 +319,7 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 1363,
+  "EOS_Progressed": 1364,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
@@ -3939,6 +3939,11 @@
       "Time": "2024-01-11T08:08:32.2025346+00:00",
       "NumProgressed": 1363,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-11T11:08:43.1453093+00:00",
+      "NumProgressed": 1364,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4117,9 +4122,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 368
     },
     {
       "ID": "JustOneLap",
@@ -4175,7 +4180,7 @@
       "Name": "Museum Visitor",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "NewBeginning",
@@ -4215,7 +4220,7 @@
       "Name": "Persistent",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "PrometheusUnbound",
@@ -4239,7 +4244,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "RenaissanceRobot",
@@ -4263,7 +4268,7 @@
       "Name": "Signatory",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "SingleRod",
@@ -4422,7 +4427,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1363,
+      "Progressed": 1364,
       "Completed": 2
     }
   ],
@@ -4430,8 +4435,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-10T10:00:11.108793+00:00",
-  "LastChanged_Achievements": "2024-01-11T10:08:08.6564933+00:00",
+  "LastChanged_Achievements": "2024-01-11T11:08:43.1453089+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-11T09:59:30.1944086+00:00",
-  "LastUpdate_Achievements": "2024-01-11T10:08:08.6565658+00:00"
+  "LastUpdate_Ratings": "2024-01-11T10:59:41.0315861+00:00",
+  "LastUpdate_Achievements": "2024-01-11T11:08:43.145363+00:00"
 }

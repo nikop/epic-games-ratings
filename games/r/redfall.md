@@ -6,7 +6,7 @@ Rating: 3.68 (Ranked 1,095)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 22.00% | ~518 |
-| Catch and Release | 17.00% | ~400 |
+| Catch and Release | 17.00% | ~401 |
 | Home Is Where the Heart Is | 15.00% | ~353 |
 | Wounded Whispers | 15.00% | ~353 |
 | ICU | 14.00% | ~330 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,095)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,355 (Ranked 240)  
+Progressed: 2,356 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 2,317 | 0 |
 | 2024-01-09 | 2,331 | 0 |
 | 2024-01-10 | 2,353 | 0 |
-| 2024-01-11 | 2,355 | 0 |
+| 2024-01-11 | 2,356 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 555)  
 Sum: 24 (Ranked 562)  

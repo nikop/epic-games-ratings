@@ -85,9 +85,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2222,
+  "EOS_Progressed": 2224,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 469,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -4240,6 +4240,11 @@
       "Time": "2024-01-11T10:09:41.5628911+00:00",
       "NumProgressed": 2222,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T11:10:14.2773144+00:00",
+      "NumProgressed": 2224,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -4251,7 +4256,7 @@
       "Name": "Break Out",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "ACH_02",
@@ -4259,7 +4264,7 @@
       "Name": "Find Allies",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ACH_03",
@@ -4267,7 +4272,7 @@
       "Name": "Powerful Allies",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACH_04",
@@ -4321,9 +4326,9 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 711
+      "UsersEstimate": 689
     },
     {
       "ID": "ACH_11",
@@ -4347,15 +4352,15 @@
       "Name": "Adventurer",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "ACH_14",
       "SetID": "efe2lj",
       "Name": "Airborne",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_15",
@@ -4363,7 +4368,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ACH_16",
@@ -4387,7 +4392,7 @@
       "Name": "Shatter Them All",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "ACH_19",
@@ -4427,7 +4432,7 @@
       "Name": "Geared Up",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "ACH_24",
@@ -4467,7 +4472,7 @@
       "Name": "I Found It",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ACH_29",
@@ -4491,7 +4496,7 @@
       "Name": "Stone Collection",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ACH_33",
@@ -4513,9 +4518,9 @@
       "ID": "ACH_35",
       "SetID": "efe2lj",
       "Name": "Feeling Fancy",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_36",
@@ -4538,7 +4543,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2222,
+      "Progressed": 2224,
       "Completed": 4
     }
   ],
@@ -4546,8 +4551,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-09T14:59:34.4882092+00:00",
-  "LastChanged_Achievements": "2024-01-11T10:09:41.5628909+00:00",
+  "LastChanged_Achievements": "2024-01-11T11:10:14.2773138+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
   "LastUpdate_Ratings": "2024-01-11T10:02:24.9503874+00:00",
-  "LastUpdate_Achievements": "2024-01-11T10:09:41.5629363+00:00"
+  "LastUpdate_Achievements": "2024-01-11T11:10:14.2773664+00:00"
 }

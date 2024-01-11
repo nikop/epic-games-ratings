@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3416,
+  "EOS_Progressed": 3417,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -6351,6 +6351,11 @@
       "Time": "2024-01-11T01:55:58.9609116+00:00",
       "NumProgressed": 3416,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2024-01-11T11:05:46.2991992+00:00",
+      "NumProgressed": 3417,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 53,
@@ -6370,7 +6375,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -6426,7 +6431,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3245
+      "UsersEstimate": 3246
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6442,7 +6447,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2630
+      "UsersEstimate": 2631
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6474,7 +6479,7 @@
       "Name": "I chose my shackles",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -6498,15 +6503,15 @@
       "Name": "Old friend",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
       "SetID": "3pe2bac",
       "Name": "True power",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 547
+      "UsersEstimate": 581
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -6538,7 +6543,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2562
+      "UsersEstimate": 2563
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6546,7 +6551,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3074
+      "UsersEstimate": 3075
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6578,7 +6583,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2596
+      "UsersEstimate": 2597
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6610,7 +6615,7 @@
       "Name": "Sacred Woods",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 922
+      "UsersEstimate": 923
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -6698,7 +6703,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -6770,7 +6775,7 @@
       "Name": "Ancient power",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -6778,14 +6783,14 @@
       "Name": "Petricite Burst",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3416,
+      "Progressed": 3417,
       "Completed": 23
     }
   ],
@@ -6793,8 +6798,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-09T21:58:22.8970062+00:00",
-  "LastChanged_Achievements": "2024-01-11T10:05:29.4049597+00:00",
+  "LastChanged_Achievements": "2024-01-11T11:05:46.2991989+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:19.7763351+00:00",
-  "LastUpdate_Ratings": "2024-01-11T09:59:00.5317835+00:00",
-  "LastUpdate_Achievements": "2024-01-11T10:05:29.4050159+00:00"
+  "LastUpdate_Ratings": "2024-01-11T10:59:12.4873982+00:00",
+  "LastUpdate_Achievements": "2024-01-11T11:05:46.2992619+00:00"
 }

@@ -300,9 +300,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2565,
+  "EOS_Progressed": 2566,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -4655,6 +4655,11 @@
       "Time": "2024-01-11T10:04:46.2089402+00:00",
       "NumProgressed": 2565,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-11T11:05:03.5606599+00:00",
+      "NumProgressed": 2566,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4706,7 +4711,7 @@
       "Name": "Home Invasion",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "ACHV_07",
@@ -4722,7 +4727,7 @@
       "Name": "Mommy Dearest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACHV_09",
@@ -4730,7 +4735,7 @@
       "Name": "Bad Dog",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACHV_10",
@@ -4800,9 +4805,9 @@
       "ID": "ACHV_18",
       "SetID": "8p5mlmc",
       "Name": "True Survivor",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 513
     },
     {
       "ID": "ACHV_19",
@@ -4826,7 +4831,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACHV_22",
@@ -4858,7 +4863,7 @@
       "Name": "Full Arsenal",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACHV_26",
@@ -4890,7 +4895,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACHV_30",
@@ -4930,7 +4935,7 @@
       "Name": "Shocking",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ACHV_35",
@@ -4954,7 +4959,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "ACHV_38",
@@ -4962,7 +4967,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACHV_39",
@@ -5002,7 +5007,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACHV_44",
@@ -5026,7 +5031,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ACHV_47",
@@ -5121,7 +5126,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2565,
+      "Progressed": 2566,
       "Completed": 13
     }
   ],
@@ -5129,8 +5134,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-07T10:02:57.9512677+00:00",
-  "LastChanged_Achievements": "2024-01-11T10:04:46.20894+00:00",
+  "LastChanged_Achievements": "2024-01-11T11:05:03.5606596+00:00",
   "LastUpdate_AppInfo": "2024-01-06T17:57:07.4256179+00:00",
-  "LastUpdate_Ratings": "2024-01-11T10:02:40.5841317+00:00",
-  "LastUpdate_Achievements": "2024-01-11T10:04:46.2089963+00:00"
+  "LastUpdate_Ratings": "2024-01-11T11:02:59.1450463+00:00",
+  "LastUpdate_Achievements": "2024-01-11T11:05:03.5607194+00:00"
 }

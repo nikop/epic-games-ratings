@@ -18,7 +18,7 @@ Rating: 4.16 (Ranked 992)
 | Through the Eyes of Another: Empath | 5.00% | ~2,353 |
 | Stuck | 5.00% | ~2,353 |
 | Help Me Out Here | 5.00% | ~2,353 |
-| The Interloper | 4.00% | ~1,882 |
+| The Interloper | 4.00% | ~1,883 |
 | Outdoorsperson | 3.00% | ~1,412 |
 | Hop, Step, Jump | 3.00% | ~1,412 |
 | Endless Runner | 3.00% | ~1,412 |
@@ -34,7 +34,7 @@ Rating: 4.16 (Ranked 992)
 | None the Wiser | 1.00% | ~471 |
 | Forspoken | 1.00% | ~471 |
 | Pilgrimage: Novice | 1.00% | ~471 |
-| Wildfire | 0.80% | ~376 |
+| Wildfire | 0.80% | ~377 |
 | Awakening | 0.70% | ~329 |
 | Realized Potential | 0.70% | ~329 |
 | Explorer: Trailblazer | 0.60% | ~282 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 992)
 | Remembrance | 0.10% | ~47 |
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,062 (Ranked 126)  
+Progressed: 47,063 (Ranked 126)  
 Completed: 4 (0.01%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,11 +325,11 @@ Completed: 4 (0.01%) (Ranked 374)
 | 2024-01-08 | 46,825 | 4 |
 | 2024-01-09 | 46,925 | 4 |
 | 2024-01-10 | 47,035 | 4 |
-| 2024-01-11 | 47,062 | 4 |
+| 2024-01-11 | 47,063 | 4 |
 ## Awards
-Max (Character Customization): 47  (Ranked 467)  
+Max (Character Customization): 47  (Ranked 468)  
 Sum: 69 (Ranked 492)  
-Diff (max vs sum): -25  
+Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 47 |

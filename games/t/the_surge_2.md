@@ -15,28 +15,28 @@ Rating: 4.26 (Ranked 917)
 | Overheated | 29.00% | ~744 |
 | Powered Up | 27.00% | ~693 |
 | Studied The Blade | 24.00% | ~616 |
-| Home Invasion | 22.00% | ~564 |
-| Luminary | 22.00% | ~564 |
-| True Survivor | 21.00% | ~539 |
+| Home Invasion | 22.00% | ~565 |
+| Luminary | 22.00% | ~565 |
 | It's a Trap | 21.00% | ~539 |
+| True Survivor | 20.00% | ~513 |
 | Offensive Defense | 20.00% | ~513 |
-| Shocking | 19.00% | ~487 |
-| Unforeseeable Consequences | 19.00% | ~487 |
+| Shocking | 19.00% | ~488 |
+| Unforeseeable Consequences | 19.00% | ~488 |
 | Court Martial | 18.00% | ~462 |
 | Clean Cut | 18.00% | ~462 |
 | Dead Again | 17.00% | ~436 |
-| Full Arsenal | 16.00% | ~410 |
+| Full Arsenal | 16.00% | ~411 |
 | Can't Trust Banks | 15.00% | ~385 |
-| Mommy Dearest | 13.00% | ~333 |
-| Bad Dog | 13.00% | ~333 |
-| Risk Tolerant | 13.00% | ~333 |
-| What A Catchy Song | 13.00% | ~333 |
+| Mommy Dearest | 13.00% | ~334 |
+| Bad Dog | 13.00% | ~334 |
+| Risk Tolerant | 13.00% | ~334 |
+| What A Catchy Song | 13.00% | ~334 |
 | Where It All Began | 12.00% | ~308 |
 | Sorry, Didn't See You There | 12.00% | ~308 |
 | Corrupted Beauty | 11.00% | ~282 |
 | Marked For Success | 11.00% | ~282 |
-| Stimulating The Local Economy | 10.00% | ~256 |
-| Triplets | 10.00% | ~256 |
+| Stimulating The Local Economy | 10.00% | ~257 |
+| Triplets | 10.00% | ~257 |
 | A Little Banged Up | 8.00% | ~205 |
 | Denying Prophecy | 8.00% | ~205 |
 | Following In Their Footsteps | 8.00% | ~205 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 917)
 | Three Birds With One Stone | 1.00% | ~26 |
 | The Easy Way Out | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,565 (Ranked 236)  
+Progressed: 2,566 (Ranked 236)  
 Completed: 13 (0.51%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 13 (0.51%) (Ranked 221)
 | 2024-01-08 | 2,534 | 13 |
 | 2024-01-09 | 2,547 | 13 |
 | 2024-01-10 | 2,561 | 13 |
-| 2024-01-11 | 2,565 | 13 |
+| 2024-01-11 | 2,566 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

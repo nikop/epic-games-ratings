@@ -6,18 +6,18 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~12,441 |
-| Overkill | 33.00% | ~10,804 |
-| Vaccine Incoming | 31.00% | ~10,149 |
+| I'm not dead yet | 38.00% | ~12,442 |
+| Overkill | 33.00% | ~10,805 |
+| Vaccine Incoming | 31.00% | ~10,150 |
 | A normal day in Gloomhaven | 29.00% | ~9,495 |
-| Spread the plague | 27.00% | ~8,840 |
+| Spread the plague | 27.00% | ~8,841 |
 | Get over here! | 24.00% | ~7,858 |
 | Just when I thought I was out... | 19.00% | ~6,221 |
-| Precious! | 16.00% | ~5,238 |
-| Mine... All Mine... | 16.00% | ~5,238 |
+| Precious! | 16.00% | ~5,239 |
+| Mine... All Mine... | 16.00% | ~5,239 |
 | Grizzled veteran | 15.00% | ~4,911 |
 | Anatomy Lesson | 14.00% | ~4,584 |
-| Light of my life | 13.00% | ~4,256 |
+| Light of my life | 13.00% | ~4,257 |
 | Who's the Boss? | 12.00% | ~3,929 |
 | You activated my trap card! | 12.00% | ~3,929 |
 | Obstacle race | 12.00% | ~3,929 |
@@ -28,7 +28,7 @@ Number of Ratings: 68  (23.09.2022)
 | Pack leader | 7.00% | ~2,292 |
 | Black death | 7.00% | ~2,292 |
 | Play it again, Sam | 7.00% | ~2,292 |
-| Quad damage | 6.00% | ~1,964 |
+| Quad damage | 6.00% | ~1,965 |
 | Power Up! | 5.00% | ~1,637 |
 | Merchant of doom | 5.00% | ~1,637 |
 | Caught off guard | 5.00% | ~1,637 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~33 |
 | Hard-travelling Heroes | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,740 (Ranked 140)  
+Progressed: 32,743 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 1 (0.00%) (Ranked 397)
 | 2024-01-08 | 32,291 | 1 |
 | 2024-01-09 | 32,485 | 1 |
 | 2024-01-10 | 32,673 | 1 |
-| 2024-01-11 | 32,740 | 1 |
+| 2024-01-11 | 32,743 | 1 |
 ## Awards
 Max (Character Customization): 3,617  (Ranked 95)  
 Sum: 8,472 (Ranked 108)  

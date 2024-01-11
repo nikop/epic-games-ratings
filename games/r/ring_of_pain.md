@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 472)  
+Rating: 4.58 (Ranked 471)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,6 +22,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Not Touching You | 1.00% | ~42 |
 | Matching | 1.00% | ~42 |
 | Delving Deeper | 0.90% | ~2,185 |
+| R.I.P | 0.90% | ~2,185 |
 | The Bestiary | 0.90% | ~2,185 |
 | Heartless | 0.90% | ~2,185 |
 | What's Yours Is Mine | 0.90% | ~2,185 |
@@ -30,7 +31,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Deflection | 0.90% | ~2,185 |
 | Sneaky | 0.90% | ~2,185 |
 | Ambitious Intent | 0.80% | ~1,942 |
-| R.I.P | 0.80% | ~1,942 |
 | Dig Your Own Grave | 0.80% | ~1,942 |
 | Cold Hearted | 0.80% | ~1,942 |
 | I Am Overburdened | 0.80% | ~1,942 |
@@ -48,6 +48,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Just Chilling | 0.60% | ~1,457 |
 | Save Our Souls | 0.60% | ~1,457 |
 | Stop Hitting Yourself | 0.60% | ~1,457 |
+| Doing Time | 0.60% | ~1,457 |
 | Acid Bath | 0.60% | ~1,457 |
 | New Perspectives | 0.60% | ~1,457 |
 | Expensive Look | 0.60% | ~25 |
@@ -59,7 +60,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Don't Ignore Me! | 0.50% | ~1,214 |
 | All Consuming | 0.50% | ~1,214 |
 | Illuminate, Eliminate | 0.50% | ~1,214 |
-| Doing Time | 0.50% | ~1,214 |
 | Spreading Plague | 0.50% | ~1,214 |
 | Antivenom | 0.50% | ~1,214 |
 | A Rough Road | 0.40% | ~971 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,756 (Ranked 73)  
+Progressed: 242,761 (Ranked 73)  
 Completed: 305 (0.13%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -411,7 +411,7 @@ Completed: 305 (0.13%) (Ranked 300)
 | 2024-01-08 | 242,637 | 304 |
 | 2024-01-09 | 242,696 | 304 |
 | 2024-01-10 | 242,736 | 305 |
-| 2024-01-11 | 242,756 | 305 |
+| 2024-01-11 | 242,761 | 305 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 139)  
 Sum: 11,792 (Ranked 89)  

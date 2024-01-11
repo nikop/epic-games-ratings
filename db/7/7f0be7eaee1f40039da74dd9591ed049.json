@@ -4,7 +4,7 @@
   "ProductSlug": "quick-race-293d39",
   "Ranking_EOS_Progress": 525,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-12-29T17:00:00+00:00",
@@ -463,8 +463,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-23T19:03:08.11154+00:00",
-  "LastChanged_Achievements": "2024-01-11T10:04:20.0685483+00:00",
+  "LastChanged_Achievements": "2024-01-11T11:04:38.2007803+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:58.0575536+00:00",
-  "LastUpdate_Ratings": "2024-01-11T09:58:38.6032926+00:00",
-  "LastUpdate_Achievements": "2024-01-11T10:04:20.0685573+00:00"
+  "LastUpdate_Ratings": "2024-01-11T10:58:50.8253549+00:00",
+  "LastUpdate_Achievements": "2024-01-11T11:04:38.2007973+00:00"
 }
