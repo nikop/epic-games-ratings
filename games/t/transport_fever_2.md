@@ -6,69 +6,69 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 73.00% | ~1,788 |
-| First cargo item on board | 67.00% | ~1,641 |
-| First cargo item waiting | 67.00% | ~1,641 |
-| First bus stop | 66.00% | ~1,616 |
-| First passenger waiting | 63.00% | ~1,543 |
-| First passenger on board | 62.00% | ~1,518 |
-| First bus arrived | 61.00% | ~1,494 |
-| First train station | 59.00% | ~1,445 |
-| First steam train arrived | 56.00% | ~1,371 |
-| First industry upgraded | 53.00% | ~1,298 |
-| Cadet | 52.00% | ~1,273 |
-| Transport millionaire | 51.00% | ~1,249 |
-| Transport master | 49.00% | ~1,200 |
-| Cargo hub | 49.00% | ~1,200 |
-| Sculpturer | 45.00% | ~1,102 |
+| First line | 73.00% | ~1,789 |
+| First cargo item on board | 67.00% | ~1,642 |
+| First cargo item waiting | 67.00% | ~1,642 |
+| First bus stop | 66.00% | ~1,618 |
+| First passenger waiting | 63.00% | ~1,544 |
+| First passenger on board | 62.00% | ~1,520 |
+| First bus arrived | 61.00% | ~1,495 |
+| First train station | 59.00% | ~1,446 |
+| First steam train arrived | 56.00% | ~1,373 |
+| First industry upgraded | 53.00% | ~1,299 |
+| Cadet | 52.00% | ~1,275 |
+| Transport millionaire | 51.00% | ~1,250 |
+| Cargo hub | 49.00% | ~1,201 |
+| Transport master | 48.00% | ~1,176 |
+| Sculpturer | 45.00% | ~1,103 |
 | Settled down | 44.00% | ~1,078 |
 | First electric train arrived | 42.00% | ~1,029 |
 | First ship arrived | 42.00% | ~1,029 |
 | Now what? | 42.00% | ~1,029 |
-| Exemplary student | 41.00% | ~1,004 |
+| Exemplary student | 41.00% | ~1,005 |
 | First aircraft arrived | 38.00% | ~931 |
 | High speed | 38.00% | ~931 |
-| Transport shark | 37.00% | ~906 |
+| Transport shark | 37.00% | ~907 |
 | Mass production | 32.00% | ~784 |
 | Aircraft entrepreneur | 30.00% | ~735 |
 | Crowd in a train | 28.00% | ~686 |
 | The future is now, old man | 28.00% | ~686 |
-| Not in my backyard | 27.00% | ~661 |
+| Not in my backyard | 27.00% | ~662 |
 | The king of the sea | 26.00% | ~637 |
-| City | 25.00% | ~612 |
-| Transport tycoon | 21.00% | ~514 |
-| Old timer | 21.00% | ~514 |
+| City | 25.00% | ~613 |
+| Transport tycoon | 21.00% | ~515 |
+| Old timer | 21.00% | ~515 |
 | The ugly smell of success | 20.00% | ~490 |
-| Climate change | 19.00% | ~465 |
-| Heavily loaded | 19.00% | ~465 |
+| Climate change | 19.00% | ~466 |
+| Heavily loaded | 19.00% | ~466 |
 | Bob Ross | 14.00% | ~343 |
 | Campaign expert | 10.00% | ~245 |
 | Truck Fever | 10.00% | ~245 |
-| No free seats | 9.00% | ~220 |
+| No free seats | 9.00% | ~221 |
 | Back to the future | 8.00% | ~196 |
 | Transport belt | 8.00% | ~196 |
 | Penny pincher | 8.00% | ~196 |
-| Campaign shark | 5.00% | ~122 |
-| E.P.E.C. | 5.00% | ~122 |
+| Campaign shark | 5.00% | ~123 |
+| E.P.E.C. | 5.00% | ~123 |
 | Transport shark (Hard mode) | 4.00% | ~98 |
 | Antique | 4.00% | ~98 |
 | Transport corporation | 4.00% | ~98 |
-| Cannot get enough | 3.00% | ~73 |
+| Cannot get enough | 3.00% | ~74 |
 | Transport tycoon (Hard mode) | 2.00% | ~49 |
 | Charles Alton Ellis | 2.00% | ~49 |
 | Industrialist | 2.00% | ~49 |
 | Metropolis | 2.00% | ~49 |
 | Speed of light | 2.00% | ~49 |
-| No country for old trains | 1.00% | ~24 |
-| Campaign tycoon | 1.00% | ~24 |
-| Trans-Siberian Railway | 1.00% | ~24 |
+| No country for old trains | 1.00% | ~25 |
+| Campaign tycoon | 1.00% | ~25 |
+| Trans-Siberian Railway | 1.00% | ~25 |
 | Louis Favre | 0.80% | ~20 |
 | Train Fever | 0.70% | ~17 |
 | Big spender | 0.60% | ~15 |
 | Glacier express | 0.20% | ~5 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,449 (Ranked 238)  
+Progressed: 2,451 (Ranked 237)  
 Completed: 1 (0.04%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 1 (0.04%) (Ranked 351)
 | 2024-01-08 | 2,410 | 1 |
 | 2024-01-09 | 2,425 | 1 |
 | 2024-01-10 | 2,446 | 1 |
-| 2024-01-11 | 2,449 | 1 |
+| 2024-01-11 | 2,451 | 1 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 458)  
 Sum: 333 (Ranked 372)  

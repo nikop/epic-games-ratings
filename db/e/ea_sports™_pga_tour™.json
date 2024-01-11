@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 957,
+  "EOS_Progressed": 958,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -3445,6 +3445,11 @@
       "Time": "2024-01-11T02:28:44.863468+00:00",
       "NumProgressed": 957,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-11T07:04:40.1572902+00:00",
+      "NumProgressed": 958,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -3513,7 +3518,7 @@
       "Name": "Star Power",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "achievement_17",
@@ -3521,7 +3526,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "achievement_18",
@@ -3529,15 +3534,15 @@
       "Name": "Perfect Round",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "achievement_2",
       "SetID": "7ldgi7j",
       "Name": "A Tradition Unlike Any Other",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 163
+      "UsersEstimate": 172
     },
     {
       "ID": "achievement_3",
@@ -3553,7 +3558,7 @@
       "Name": "From Many, One",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "achievement_5",
@@ -3567,9 +3572,9 @@
       "ID": "achievement_6",
       "SetID": "7ldgi7j",
       "Name": "The Strongest Field in Golf",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 230
+      "UsersEstimate": 220
     },
     {
       "ID": "achievement_7",
@@ -3577,7 +3582,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "achievement_8",
@@ -3585,7 +3590,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "achievement_9",
@@ -3600,13 +3605,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 957,
+      "Progressed": 958,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-11T06:05:44.4323227+00:00",
+  "LastChanged_Achievements": "2024-01-11T07:04:40.1572898+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.2920939+00:00",
-  "LastUpdate_Ratings": "2024-01-11T05:58:20.2554088+00:00",
-  "LastUpdate_Achievements": "2024-01-11T06:05:44.4323468+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:57:57.7347974+00:00",
+  "LastUpdate_Achievements": "2024-01-11T07:04:40.1573407+00:00"
 }

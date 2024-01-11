@@ -84,6 +84,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Riders | 0.50% | ~82 |
 | Traders | 0.50% | ~82 |
 | Hittite Iron | 0.50% | ~82 |
+| Hagia Sophia | 0.50% | ~82 |
 | Temple of Solomon | 0.50% | ~82 |
 | Pantheon | 0.50% | ~82 |
 | Greece | 0.50% | ~82 |
@@ -100,7 +101,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.40% | ~66 |
 | Strong Difficulty | 0.40% | ~66 |
 | Circus Maximus | 0.40% | ~66 |
-| Hagia Sophia | 0.40% | ~66 |
 | Via Recta Souk | 0.40% | ~66 |
 | Assyrian Paganism | 0.40% | ~66 |
 | Industrial Progress | 0.40% | ~66 |

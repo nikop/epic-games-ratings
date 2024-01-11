@@ -4,7 +4,7 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 538,
+  "EOS_Progressed": 539,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2099,6 +2099,11 @@
       "Time": "2024-01-11T00:06:04.399139+00:00",
       "NumProgressed": 538,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T07:06:35.6547185+00:00",
+      "NumProgressed": 539,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -2135,7 +2140,7 @@
       "Name": "Full load",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "Island",
@@ -2151,7 +2156,7 @@
       "Name": "In the last second",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "Master",
@@ -2222,14 +2227,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 538,
+      "Progressed": 539,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2024-01-11T06:08:18.5904489+00:00",
+  "LastChanged_Achievements": "2024-01-11T07:06:35.6547179+00:00",
   "LastUpdate_AppInfo": "2024-01-09T04:57:00.8185326+00:00",
-  "LastUpdate_Ratings": "2024-01-11T05:58:22.3789802+00:00",
-  "LastUpdate_Achievements": "2024-01-11T06:08:18.5904648+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:57:59.2929965+00:00",
+  "LastUpdate_Achievements": "2024-01-11T07:06:35.6547394+00:00"
 }

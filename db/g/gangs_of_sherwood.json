@@ -4,7 +4,7 @@
   "ProductSlug": "gangs-of-sherwood",
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewPlayers": 415,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 121,
+  "EOS_Progressed": 122,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -515,6 +515,11 @@
       "Time": "2024-01-10T09:08:39.6341451+00:00",
       "NumProgressed": 121,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T07:08:50.4229166+00:00",
+      "NumProgressed": 122,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-21T10:10:18.7530566+00:00",
@@ -573,7 +578,7 @@
       "ID": "ACH_AIR_COMBO",
       "SetID": "5akmpni",
       "Name": "Air Fighter",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 5,
       "UsersEstimate": 88
     },
@@ -639,7 +644,7 @@
       "Name": "The Gang prevails",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_COMPLETE_LEVEL_COOP",
@@ -655,7 +660,7 @@
       "Name": "Oo-De-Lally",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_COOP_MISSIONS",
@@ -669,9 +674,9 @@
       "ID": "ACH_ENCOUNTER_S_RANK",
       "SetID": "5akmpni",
       "Name": "Savior",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_ENEMY_FIRE",
@@ -685,9 +690,9 @@
       "ID": "ACH_ENEMY_LEDGE_FALL",
       "SetID": "5akmpni",
       "Name": "Watch your Step!",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_ENEMY_LEDGE_THROW",
@@ -711,7 +716,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_EVO_MOMENT_37",
@@ -735,7 +740,7 @@
       "Name": "Act of Kindness",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_GRAPPLE_ENEMY",
@@ -749,7 +754,7 @@
       "ID": "ACH_HEADSHOT_KILL",
       "SetID": "5akmpni",
       "Name": "Right between the eyes",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
       "UsersEstimate": 48
     },
@@ -773,9 +778,9 @@
       "ID": "ACH_KILL_GISBORNE",
       "SetID": "5akmpni",
       "Name": "Locksley\u0027s Tears",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_KILL_KIRKLEES",
@@ -837,7 +842,7 @@
       "ID": "ACH_MONEY_TO_POOR",
       "SetID": "5akmpni",
       "Name": "The Altruist",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 20,
       "UsersEstimate": 77
     },
@@ -895,7 +900,7 @@
       "Name": "First Aid",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_THROW_ENEMY",
@@ -950,14 +955,14 @@
     {
       "ID": "5akmpni",
       "IsBase": true,
-      "Progressed": 121,
+      "Progressed": 122,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2024-01-11T06:09:18.6691426+00:00",
+  "LastChanged_Achievements": "2024-01-11T07:08:50.4229163+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0155882+00:00",
-  "LastUpdate_Ratings": "2024-01-11T05:59:16.0061095+00:00",
-  "LastUpdate_Achievements": "2024-01-11T06:09:18.6691895+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:58:39.7547739+00:00",
+  "LastUpdate_Achievements": "2024-01-11T07:08:50.4229617+00:00"
 }

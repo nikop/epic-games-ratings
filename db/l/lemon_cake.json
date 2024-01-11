@@ -4,7 +4,7 @@
   "ProductSlug": "lemon-cake-c683d8",
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewPlayers": 469,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 192,
+  "EOS_Progressed": 193,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -430,6 +430,11 @@
       "Time": "2024-01-11T00:09:14.8808348+00:00",
       "NumProgressed": 192,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-11T07:09:13.0610181+00:00",
+      "NumProgressed": 193,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 17,
@@ -441,7 +446,7 @@
       "Name": "Proving Your Skills",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "LC-02",
@@ -473,7 +478,7 @@
       "Name": "Apprentice Baker",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "LC-06",
@@ -497,7 +502,7 @@
       "Name": "Master Baker",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "LC-09",
@@ -537,7 +542,7 @@
       "Name": "The Kitchen Is On Fire",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "LC-14",
@@ -576,7 +581,7 @@
     {
       "ID": "ap2ljl4",
       "IsBase": true,
-      "Progressed": 192,
+      "Progressed": 193,
       "Completed": 2
     }
   ],
@@ -584,8 +589,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2024-01-11T06:09:48.9487428+00:00",
+  "LastChanged_Achievements": "2024-01-11T07:09:13.0610178+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:29.1126442+00:00",
-  "LastUpdate_Ratings": "2024-01-11T05:59:51.7766911+00:00",
-  "LastUpdate_Achievements": "2024-01-11T06:09:48.948761+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:59:06.1049396+00:00",
+  "LastUpdate_Achievements": "2024-01-11T07:09:13.0610281+00:00"
 }

@@ -9387,9 +9387,9 @@
       "ID": "ACH_BROKEN",
       "SetID": "5nj1ea3",
       "Name": "All thumbs",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5731
+      "UsersEstimate": 5793
     },
     {
       "ID": "ACH_BUG_KILLER",
@@ -9804,8 +9804,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2024-01-09T19:57:35.8783744+00:00",
-  "LastChanged_Achievements": "2024-01-11T06:05:38.3890981+00:00",
+  "LastChanged_Achievements": "2024-01-11T07:04:35.4526941+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:25.5705631+00:00",
-  "LastUpdate_Ratings": "2024-01-11T05:59:10.5952689+00:00",
-  "LastUpdate_Achievements": "2024-01-11T06:05:38.3891868+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:58:36.1381483+00:00",
+  "LastUpdate_Achievements": "2024-01-11T07:04:35.4527688+00:00"
 }

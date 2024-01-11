@@ -3,11 +3,11 @@
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
   "Ranking_Rating": 529,
-  "Ranking_Popularity": 426,
+  "Ranking_Popularity": 427,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -543,9 +543,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 6336,
+  "EOS_Progressed": 6337,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 539,
+  "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9533,6 +9533,11 @@
       "Time": "2024-01-11T06:08:23.7553842+00:00",
       "NumProgressed": 6336,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-11T07:06:39.6512574+00:00",
+      "NumProgressed": 6337,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -9584,7 +9589,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2661
+      "UsersEstimate": 2662
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -9592,7 +9597,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -9600,7 +9605,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -9640,7 +9645,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 4055
+      "UsersEstimate": 4056
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -9656,7 +9661,7 @@
       "Name": "Call Me Snake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3358
+      "UsersEstimate": 3359
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -9792,7 +9797,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "ACH_MISSION_09",
@@ -9800,7 +9805,7 @@
       "Name": "The Passenger",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "ACH_MISSION_10",
@@ -9816,7 +9821,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "ACH_MISSION_12",
@@ -9824,7 +9829,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -9903,7 +9908,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6336,
+      "Progressed": 6337,
       "Completed": 3
     }
   ],
@@ -9911,8 +9916,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-10T09:00:12.2019568+00:00",
-  "LastChanged_Achievements": "2024-01-11T06:08:23.7553838+00:00",
+  "LastChanged_Achievements": "2024-01-11T07:06:39.6512571+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.3437063+00:00",
-  "LastUpdate_Ratings": "2024-01-11T06:01:07.4723085+00:00",
-  "LastUpdate_Achievements": "2024-01-11T06:08:23.7554572+00:00"
+  "LastUpdate_Ratings": "2024-01-11T07:00:04.6854695+00:00",
+  "LastUpdate_Achievements": "2024-01-11T07:06:39.6513221+00:00"
 }

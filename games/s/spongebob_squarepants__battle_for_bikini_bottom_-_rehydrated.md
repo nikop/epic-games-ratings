@@ -28,9 +28,9 @@ Number of Ratings: 76  (23.09.2022)
 | Robot encyclopedia | 6.00% | ~56 |
 | Hello, Bikini Bottom | 6.00% | ~56 |
 | Ship Shape | 5.00% | ~47 |
+| Shanghaied | 5.00% | ~47 |
 | Kelp Forest of Fear | 5.00% | ~47 |
 | The Small Does Not Rule | 4.00% | ~37 |
-| Shanghaied | 4.00% | ~37 |
 | SpongeBob vs SpongeBob! | 4.00% | ~37 |
 | Sleepy Time | 4.00% | ~37 |
 | Sock Concert | 4.00% | ~37 |

@@ -323,9 +323,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 11028,
+  "EOS_Progressed": 11032,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1095,
+  "EOS_NewPlayers": 1094,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4448,6 +4448,11 @@
       "Time": "2024-01-11T06:11:18.6255063+00:00",
       "NumProgressed": 11028,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T07:10:21.1899536+00:00",
+      "NumProgressed": 11032,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4460,7 +4465,7 @@
       "Name": "Conspiracy",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1986
     },
     {
       "ID": "03_TheStolenStar",
@@ -4484,7 +4489,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -4572,7 +4577,7 @@
       "Name": "The Rise",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "17_TheExemplar",
@@ -4580,7 +4585,7 @@
       "Name": "Exemplar",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -4588,7 +4593,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "19_TheVoidWolf",
@@ -4596,7 +4601,7 @@
       "Name": "Void Wolf",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -4620,7 +4625,7 @@
       "Name": "Perfect Timing",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "23_DynastyRestored",
@@ -4716,7 +4721,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -4780,7 +4785,7 @@
       "Name": "Iron Judgement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -4812,7 +4817,7 @@
       "Name": "A Spark",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "47_AFlame",
@@ -4844,7 +4849,7 @@
       "Name": "Whodunit?",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -4979,7 +4984,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11028,
+      "Progressed": 11032,
       "Completed": 1
     }
   ],
@@ -4987,8 +4992,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-11T01:49:02.1008978+00:00",
-  "LastChanged_Achievements": "2024-01-11T06:11:18.6255059+00:00",
+  "LastChanged_Achievements": "2024-01-11T07:10:21.1899532+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-11T06:00:21.3856296+00:00",
-  "LastUpdate_Achievements": "2024-01-11T06:11:18.6255687+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:59:30.3556222+00:00",
+  "LastUpdate_Achievements": "2024-01-11T07:10:21.1900302+00:00"
 }

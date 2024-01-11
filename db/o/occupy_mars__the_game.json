@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1877,
+  "EOS_Progressed": 1878,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5008,6 +5008,11 @@
       "Time": "2024-01-10T22:09:32.4327632+00:00",
       "NumProgressed": 1877,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T07:09:50.6055274+00:00",
+      "NumProgressed": 1878,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5195,7 +5200,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -5211,7 +5216,7 @@
       "Name": "Gardener",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -5219,7 +5224,7 @@
       "Name": "Get your hands dirty",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -5267,7 +5272,7 @@
       "Name": "Miner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -5379,7 +5384,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -5402,7 +5407,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1877,
+      "Progressed": 1878,
       "Completed": 0
     }
   ],
@@ -5410,8 +5415,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2024-01-09T16:02:23.0830001+00:00",
-  "LastChanged_Achievements": "2024-01-11T06:10:38.7930607+00:00",
+  "LastChanged_Achievements": "2024-01-11T07:09:50.605527+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.830509+00:00",
-  "LastUpdate_Ratings": "2024-01-11T06:03:27.3702802+00:00",
-  "LastUpdate_Achievements": "2024-01-11T06:10:38.7931134+00:00"
+  "LastUpdate_Ratings": "2024-01-11T07:02:59.4241144+00:00",
+  "LastUpdate_Achievements": "2024-01-11T07:09:50.6055816+00:00"
 }

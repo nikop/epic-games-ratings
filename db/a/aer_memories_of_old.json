@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -425,10 +425,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28427,
+  "EOS_Progressed": 28428,
   "EOS_Completed": 524,
   "EOS_NewPlayers": 539,
-  "EOS_NewCompleters": 14,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
     {
@@ -29060,6 +29060,11 @@
       "Time": "2024-01-11T05:04:22.4915452+00:00",
       "NumProgressed": 28427,
       "NumCompleted": 524
+    },
+    {
+      "Time": "2024-01-11T07:04:47.1698297+00:00",
+      "NumProgressed": 28428,
+      "NumCompleted": 524
     }
   ],
   "TotalAchievements": 20,
@@ -29095,7 +29100,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2558
+      "UsersEstimate": 2559
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -29199,7 +29204,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7675
+      "UsersEstimate": 7676
     },
     {
       "ID": "NORTH_FINISHED",
@@ -29230,15 +29235,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 28427,
+      "Progressed": 28428,
       "Completed": 524
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-04T06:57:48.8328887+00:00",
-  "LastChanged_Achievements": "2024-01-11T06:05:53.8457888+00:00",
+  "LastChanged_Achievements": "2024-01-11T07:04:47.1698293+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.2454847+00:00",
-  "LastUpdate_Ratings": "2024-01-11T05:57:32.1179215+00:00",
-  "LastUpdate_Achievements": "2024-01-11T06:05:53.8459459+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:57:21.4460565+00:00",
+  "LastUpdate_Achievements": "2024-01-11T07:04:47.1699821+00:00"
 }

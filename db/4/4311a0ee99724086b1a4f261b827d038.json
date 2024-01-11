@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
@@ -881,9 +881,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 242550,
+  "EOS_Progressed": 242557,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1219,
+  "EOS_NewPlayers": 1225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20821,6 +20821,11 @@
       "Time": "2024-01-11T06:11:15.7987289+00:00",
       "NumProgressed": 242550,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T07:10:18.848901+00:00",
+      "NumProgressed": 242557,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -20889,7 +20894,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50936
+      "UsersEstimate": 50937
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -20929,7 +20934,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7276
+      "UsersEstimate": 7277
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -20937,7 +20942,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7276
+      "UsersEstimate": 7277
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -21017,7 +21022,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33957
+      "UsersEstimate": 33958
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -21025,7 +21030,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16978
+      "UsersEstimate": 16979
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -21089,7 +21094,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60638
+      "UsersEstimate": 60639
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -21104,7 +21109,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 242550,
+      "Progressed": 242557,
       "Completed": 0
     }
   ],
@@ -21112,8 +21117,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-10T03:59:20.6689228+00:00",
-  "LastChanged_Achievements": "2024-01-11T06:11:15.7987212+00:00",
+  "LastChanged_Achievements": "2024-01-11T07:10:18.8489006+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:19.696761+00:00",
-  "LastUpdate_Ratings": "2024-01-11T06:00:27.4080648+00:00",
-  "LastUpdate_Achievements": "2024-01-11T06:11:15.7988892+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:59:34.7752861+00:00",
+  "LastUpdate_Achievements": "2024-01-11T07:10:18.8490263+00:00"
 }

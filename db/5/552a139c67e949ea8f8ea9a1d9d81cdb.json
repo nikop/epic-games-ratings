@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1933,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4961,9 +4961,9 @@
       "ID": "ML_ACHIEVEMENT_04",
       "SetID": "5k00jcd",
       "Name": "Drifting teacher",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -5318,8 +5318,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-11T06:08:03.3277216+00:00",
+  "LastChanged_Achievements": "2024-01-11T07:06:24.141064+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.6791346+00:00",
-  "LastUpdate_Ratings": "2024-01-11T06:00:15.2679192+00:00",
-  "LastUpdate_Achievements": "2024-01-11T06:08:03.3277841+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:59:26.0504106+00:00",
+  "LastUpdate_Achievements": "2024-01-11T07:06:24.1411232+00:00"
 }

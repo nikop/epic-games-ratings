@@ -20,7 +20,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Persistent Buzzing | 0.60% | ~1,520 |
 | Pure Energy | 0.60% | ~1,520 |
 | Fast Food | 0.60% | ~1,317 |
-| Terror in the Dark | 0.50% | ~1,266 |
+| Terror in the Dark | 0.50% | ~1,267 |
 | The Overgrown Grove | 0.50% | ~1,098 |
 | Flames of Avernus | 0.50% | ~1,098 |
 | Mental Gymnastics | 0.50% | ~1,098 |
@@ -50,6 +50,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Templar's Camp | 0.30% | ~760 |
 | Pros and CONs | 0.20% | ~507 |
 | The Silken Swamp | 0.20% | ~507 |
+| Wet Feet | 0.20% | ~507 |
 | Supply Run | 0.20% | ~507 |
 | Homecoming | 0.20% | ~507 |
 | The Lost Heir of Omu | 0.20% | ~507 |
@@ -119,7 +120,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fairy Rings of Thither | 0.10% | ~220 |
 | Zarak's Revenge | 0.10% | ~220 |
 | Bully for You! | 0.10% | ~220 |
-| Wet Feet | 0.10% | ~253 |
 | The Dark Heart | 0.10% | ~220 |
 | Undergeared | 0.10% | ~220 |
 | Underdark Chill | 0.10% | ~220 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,291 (Ranked 71)  
+Progressed: 253,301 (Ranked 71)  
 Completed: 2,611 (1.03%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -819,7 +819,7 @@ Completed: 2,611 (1.03%) (Ranked 176)
 | 2024-01-08 | 252,794 | 2,602 |
 | 2024-01-09 | 253,044 | 2,606 |
 | 2024-01-10 | 253,250 | 2,611 |
-| 2024-01-11 | 253,291 | 2,611 |
+| 2024-01-11 | 253,301 | 2,611 |
 ## Awards
 Max (Great for Beginners): 5,770  (Ranked 74)  
 Sum: 33,432 (Ranked 41)  

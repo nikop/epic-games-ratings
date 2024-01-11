@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 60,
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 355,
-  "Ranking_EOS_NewPlayers": 38,
+  "Ranking_EOS_NewPlayers": 39,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
@@ -10191,10 +10191,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 20739,
       "NumberOfAwardsMax": 6967
+    },
+    {
+      "Time": "2024-01-11T06:59:48.8674998+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 20756,
+      "NumberOfAwardsMax": 6967
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20739,
+  "NumberOfAwards": 20756,
   "NumberOfAwardsMax": 6967,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10208,7 +10214,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 4024
+      "Count": 4038
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10256,7 +10262,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 612
+      "Count": 615
     },
     {
       "Text": "This game has a Creative Community",
@@ -10271,9 +10277,9 @@
       "Count": 1584
     }
   ],
-  "EOS_Progressed": 886595,
+  "EOS_Progressed": 886604,
   "EOS_Completed": 245,
-  "EOS_NewPlayers": 5813,
+  "EOS_NewPlayers": 5797,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -37456,6 +37462,11 @@
       "Time": "2024-01-11T06:10:25.9136801+00:00",
       "NumProgressed": 886595,
       "NumCompleted": 245
+    },
+    {
+      "Time": "2024-01-11T07:09:40.9334809+00:00",
+      "NumProgressed": 886604,
+      "NumCompleted": 245
     }
   ],
   "TotalAchievements": 75,
@@ -37467,7 +37478,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 239381
+      "UsersEstimate": 239383
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -38066,22 +38077,22 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 886595,
+      "Progressed": 886604,
       "Completed": 291
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 886595,
+      "Progressed": 886604,
       "Completed": 245
     }
   ],
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2024-01-11T04:59:17.1264166+00:00",
-  "LastChanged_Achievements": "2024-01-11T06:10:25.9136796+00:00",
+  "LastChanged": "2024-01-11T06:59:48.8674996+00:00",
+  "LastChanged_Achievements": "2024-01-11T07:09:40.9334806+00:00",
   "LastUpdate_AppInfo": "2024-01-05T13:01:18.2085277+00:00",
-  "LastUpdate_Ratings": "2024-01-11T06:00:45.8589157+00:00",
-  "LastUpdate_Achievements": "2024-01-11T06:10:25.9138943+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:59:48.8675008+00:00",
+  "LastUpdate_Achievements": "2024-01-11T07:09:40.9336506+00:00"
 }

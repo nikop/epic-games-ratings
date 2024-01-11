@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253328,
+  "EOS_Progressed": 253329,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23792,6 +23792,11 @@
       "Time": "2024-01-11T06:11:13.6615287+00:00",
       "NumProgressed": 253328,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-11T07:10:17.3003621+00:00",
+      "NumProgressed": 253329,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24003,7 +24008,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65865
+      "UsersEstimate": 65866
     },
     {
       "ID": "justABit",
@@ -24107,7 +24112,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58265
+      "UsersEstimate": 58266
     },
     {
       "ID": "thunderstruck",
@@ -24163,14 +24168,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40532
+      "UsersEstimate": 40533
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253328,
+      "Progressed": 253329,
       "Completed": 6
     }
   ],
@@ -24178,8 +24183,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-11T06:11:13.661528+00:00",
+  "LastChanged_Achievements": "2024-01-11T07:10:17.3003618+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.2680738+00:00",
-  "LastUpdate_Ratings": "2024-01-11T06:00:07.4645757+00:00",
-  "LastUpdate_Achievements": "2024-01-11T06:11:13.6617191+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:59:20.1996163+00:00",
+  "LastUpdate_Achievements": "2024-01-11T07:10:17.3004735+00:00"
 }

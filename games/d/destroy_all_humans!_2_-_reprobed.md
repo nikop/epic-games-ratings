@@ -1,32 +1,32 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.54 (Ranked 553)  
+Rating: 4.54 (Ranked 554)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 84.00% | ~339 |
-| Mash Machine | 75.00% | ~303 |
-| Ducks in a Row, Fish in a Barrel | 55.00% | ~222 |
-| Furon Fashion | 47.00% | ~190 |
+| Rock of the Bay | 84.00% | ~341 |
+| Mash Machine | 75.00% | ~304 |
+| Ducks in a Row, Fish in a Barrel | 55.00% | ~223 |
+| Furon Fashion | 47.00% | ~191 |
 | Shop Til They Drop | 40.00% | ~162 |
 | Bodied Sattva | 38.00% | ~154 |
-| Cult Following | 35.00% | ~141 |
-| Earthly Pleasures | 34.00% | ~137 |
-| Lie Back and Think of Albion | 28.00% | ~113 |
-| Upgreatest | 27.00% | ~109 |
-| Pimp My Raid | 25.00% | ~101 |
-| Freshly Squeezed | 23.00% | ~93 |
-| I Look Up As I Walk to Takoshima | 21.00% | ~85 |
+| Cult Following | 34.00% | ~138 |
+| Earthly Pleasures | 34.00% | ~138 |
+| Lie Back and Think of Albion | 28.00% | ~114 |
+| Upgreatest | 27.00% | ~110 |
+| Pimp My Raid | 25.00% | ~102 |
+| Freshly Squeezed | 22.00% | ~89 |
+| I Look Up As I Walk to Takoshima | 20.00% | ~81 |
 | Perfect Probulator | 18.00% | ~73 |
 | Die Nasty | 18.00% | ~73 |
 | Transmitting From Sol-3 | 16.00% | ~65 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 13.00% | ~53 |
-| Fly Me to the Moon Base | 12.00% | ~48 |
-| Kaijuiced | 11.00% | ~44 |
-| Dusted | 11.00% | ~44 |
-| Scuttled | 9.00% | ~36 |
+| Fly Me to the Moon Base | 12.00% | ~49 |
+| Kaijuiced | 11.00% | ~45 |
+| Dusted | 11.00% | ~45 |
+| Scuttled | 9.00% | ~37 |
 | Lobster Blisque | 7.00% | ~28 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~28 |
 | Yettisoned | 6.00% | ~24 |
@@ -51,8 +51,8 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.50% | ~2 |
 | Trans-Siberian Express | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 404 (Ranked 370)  
-Completed: 2 (0.50%) (Ranked 223)  
+Progressed: 406 (Ranked 370)  
+Completed: 2 (0.49%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -97,7 +97,7 @@ Completed: 2 (0.50%) (Ranked 223)
 | 2024-01-08 | 370 | 2 |
 | 2024-01-09 | 384 | 2 |
 | 2024-01-10 | 399 | 2 |
-| 2024-01-11 | 404 | 2 |
+| 2024-01-11 | 406 | 2 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 499)  
 Sum: 36 (Ranked 531)  

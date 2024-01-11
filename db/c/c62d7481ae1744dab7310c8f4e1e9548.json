@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 227,
+  "EOS_Progressed": 228,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.85,
+  "EOS_Completed_Percentage": 4.82,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -1109,6 +1109,11 @@
       "Time": "2024-01-11T00:04:58.169306+00:00",
       "NumProgressed": 227,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-11T07:05:24.0236685+00:00",
+      "NumProgressed": 228,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -1145,7 +1150,7 @@
       "Name": "Young Spirits",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Fletny",
@@ -1161,7 +1166,7 @@
       "Name": "Mushrooms",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Jing",
@@ -1169,15 +1174,15 @@
       "Name": "Jing Jang",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 105
     },
     {
       "ID": "Kour",
@@ -1201,15 +1206,15 @@
       "Name": "Knife",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Kvitky",
       "SetID": "ag48e8e",
       "Name": "Blossoms",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 91
     },
     {
       "ID": "MluviciPapouch",
@@ -1305,7 +1310,7 @@
       "Name": "Centipede",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Strom",
@@ -1337,7 +1342,7 @@
       "Name": "Rockheads",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Zelvak",
@@ -1353,21 +1358,21 @@
       "Name": "Dancing Fungus",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     }
   ],
   "AchievementSets": [
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 227,
+      "Progressed": 228,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-11T06:06:42.9700575+00:00",
+  "LastChanged_Achievements": "2024-01-11T07:05:24.023668+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:05.0455932+00:00",
-  "LastUpdate_Ratings": "2024-01-11T06:03:47.8592655+00:00",
-  "LastUpdate_Achievements": "2024-01-11T06:06:42.9701114+00:00"
+  "LastUpdate_Ratings": "2024-01-11T07:03:14.8030448+00:00",
+  "LastUpdate_Achievements": "2024-01-11T07:05:24.0236908+00:00"
 }

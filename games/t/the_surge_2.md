@@ -5,7 +5,7 @@ Rating: 4.26 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 78.00% | ~1,998 |
+| Rigged And Ready | 78.00% | ~1,999 |
 | Don't I Know You...? | 75.00% | ~1,922 |
 | Jailbreak | 64.00% | ~1,640 |
 | HEADSHOT! | 37.00% | ~948 |
@@ -19,8 +19,8 @@ Rating: 4.26 (Ranked 917)
 | Luminary | 22.00% | ~564 |
 | True Survivor | 21.00% | ~538 |
 | It's a Trap | 21.00% | ~538 |
-| Offensive Defense | 20.00% | ~512 |
-| Shocking | 20.00% | ~512 |
+| Offensive Defense | 20.00% | ~513 |
+| Shocking | 20.00% | ~513 |
 | Unforeseeable Consequences | 19.00% | ~487 |
 | Court Martial | 18.00% | ~461 |
 | Clean Cut | 18.00% | ~461 |
@@ -31,8 +31,8 @@ Rating: 4.26 (Ranked 917)
 | Bad Dog | 13.00% | ~333 |
 | Risk Tolerant | 13.00% | ~333 |
 | What A Catchy Song | 13.00% | ~333 |
-| Where It All Began | 12.00% | ~307 |
-| Sorry, Didn't See You There | 12.00% | ~307 |
+| Where It All Began | 12.00% | ~308 |
+| Sorry, Didn't See You There | 12.00% | ~308 |
 | Corrupted Beauty | 11.00% | ~282 |
 | Marked For Success | 11.00% | ~282 |
 | Stimulating The Local Economy | 10.00% | ~256 |
@@ -50,9 +50,9 @@ Rating: 4.26 (Ranked 917)
 | Counter-Sniper | 5.00% | ~128 |
 | Shrimp Cocktail | 5.00% | ~128 |
 | Juiced Up | 5.00% | ~128 |
-| Geronimo! | 4.00% | ~102 |
-| Homewrecker | 4.00% | ~102 |
-| Plank of Wood | 4.00% | ~102 |
+| Geronimo! | 4.00% | ~103 |
+| Homewrecker | 4.00% | ~103 |
+| Plank of Wood | 4.00% | ~103 |
 | Own Medicine | 2.00% | ~51 |
 | It Lives! It Sniffs! It Conquers! | 2.00% | ~51 |
 | Gotta Craft 'em All | 2.00% | ~51 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 917)
 | Three Birds With One Stone | 1.00% | ~26 |
 | The Easy Way Out | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,562 (Ranked 236)  
+Progressed: 2,563 (Ranked 236)  
 Completed: 13 (0.51%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 13 (0.51%) (Ranked 221)
 | 2024-01-08 | 2,534 | 13 |
 | 2024-01-09 | 2,547 | 13 |
 | 2024-01-10 | 2,561 | 13 |
-| 2024-01-11 | 2,562 | 13 |
+| 2024-01-11 | 2,563 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

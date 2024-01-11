@@ -473,9 +473,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 343929,
+  "EOS_Progressed": 343940,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3326,
+  "EOS_NewPlayers": 3330,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12938,6 +12938,11 @@
       "Time": "2024-01-11T06:09:46.0751205+00:00",
       "NumProgressed": 343929,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-11T07:09:11.04814+00:00",
+      "NumProgressed": 343940,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -12950,7 +12955,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17196
+      "UsersEstimate": 17197
     },
     {
       "ID": "S02_BRDA",
@@ -12982,7 +12987,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     },
     {
       "ID": "S06_LWTC",
@@ -13086,7 +13091,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17196
+      "UsersEstimate": 17197
     },
     {
       "ID": "S19_CHALLENGES",
@@ -13182,7 +13187,7 @@
       "Name": "Bring it on!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -13269,7 +13274,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 343929,
+      "Progressed": 343940,
       "Completed": 7
     }
   ],
@@ -13277,8 +13282,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-07T09:59:57.3535769+00:00",
-  "LastChanged_Achievements": "2024-01-11T06:09:46.0751201+00:00",
+  "LastChanged_Achievements": "2024-01-11T07:09:11.0481398+00:00",
   "LastUpdate_AppInfo": "2024-01-04T23:57:04.1079824+00:00",
-  "LastUpdate_Ratings": "2024-01-11T05:57:16.5693356+00:00",
-  "LastUpdate_Achievements": "2024-01-11T06:09:46.0752348+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:57:10.1330329+00:00",
+  "LastUpdate_Achievements": "2024-01-11T07:09:11.0482401+00:00"
 }

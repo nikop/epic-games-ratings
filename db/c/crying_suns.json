@@ -709,7 +709,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473686,
+  "EOS_Progressed": 473687,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
@@ -28179,6 +28179,11 @@
       "Time": "2024-01-11T05:10:12.4196749+00:00",
       "NumProgressed": 473686,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-11T07:10:29.048346+00:00",
+      "NumProgressed": 473687,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -28342,7 +28347,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 52105
+      "UsersEstimate": 52106
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -28374,7 +28379,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 161053
+      "UsersEstimate": 161054
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -28821,21 +28826,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17620,
+      "Progressed": 17621,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473686,
+      "Progressed": 473687,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-11T06:11:28.1675454+00:00",
+  "LastChanged_Achievements": "2024-01-11T07:10:29.0483456+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:31.2733774+00:00",
-  "LastUpdate_Ratings": "2024-01-11T05:57:34.2922889+00:00",
-  "LastUpdate_Achievements": "2024-01-11T06:11:28.1678675+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:57:23.0370059+00:00",
+  "LastUpdate_Achievements": "2024-01-11T07:10:29.0485449+00:00"
 }

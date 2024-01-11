@@ -5,22 +5,22 @@ Rating: 4.86 (Ranked 32)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 55.00% | ~9,185 |
-| Start with a bang! | 54.00% | ~9,018 |
-| You can pet the cat! | 49.00% | ~8,183 |
-| Who put gears in there? | 40.00% | ~6,680 |
-| Cream of the Crop | 35.00% | ~5,845 |
-| Thanks for the free chip, Peppermint! | 34.00% | ~5,678 |
-| You got this, Peppermint? | 29.00% | ~4,843 |
-| Perfect Parry | 27.00% | ~4,509 |
-| Alright, that felt AWESOME! | 27.00% | ~4,509 |
-| I play my own way! | 23.00% | ~3,841 |
-| This will cost you big time | 22.00% | ~3,674 |
-| Uh, they were broken when I got here | 21.00% | ~3,507 |
-| Z-shielding's got nothing on us! | 20.00% | ~3,340 |
-| Kissing the sky! | 19.00% | ~3,173 |
-| Whoa! There's ANOTHER health bar!? | 17.00% | ~2,839 |
-| Does that say weakpoint? | 17.00% | ~2,839 |
+| Feeling the beat! | 55.00% | ~9,187 |
+| Start with a bang! | 54.00% | ~9,020 |
+| You can pet the cat! | 49.00% | ~8,184 |
+| Who put gears in there? | 40.00% | ~6,681 |
+| Cream of the Crop | 35.00% | ~5,846 |
+| Thanks for the free chip, Peppermint! | 34.00% | ~5,679 |
+| You got this, Peppermint? | 29.00% | ~4,844 |
+| Perfect Parry | 27.00% | ~4,510 |
+| Alright, that felt AWESOME! | 27.00% | ~4,510 |
+| I play my own way! | 23.00% | ~3,842 |
+| This will cost you big time | 22.00% | ~3,675 |
+| Uh, they were broken when I got here | 21.00% | ~3,508 |
+| Z-shielding's got nothing on us! | 20.00% | ~3,341 |
+| Kissing the sky! | 19.00% | ~3,174 |
+| Whoa! There's ANOTHER health bar!? | 17.00% | ~2,840 |
+| Does that say weakpoint? | 17.00% | ~2,840 |
 | The Negotiator | 16.00% | ~2,672 |
 | You must like calling me in, Chai | 14.00% | ~2,338 |
 | Headliner | 13.00% | ~2,171 |
@@ -46,9 +46,9 @@ Rating: 4.86 (Ranked 32)
 | First we parry, then we counter | 2.00% | ~334 |
 | I hit things with a guitar really well. | 2.00% | ~334 |
 | You ever parry a volcano? | 2.00% | ~334 |
+| Call me Turbo Chai | 2.00% | ~304 |
 | Easy Listening | 1.00% | ~167 |
 | This is a breeze! | 1.00% | ~167 |
-| Call me Turbo Chai | 1.00% | ~152 |
 | OK, well THEY came after ME! | 0.80% | ~134 |
 | New bad guys? No problem! | 0.70% | ~107 |
 | Now this is how you fight like a team! | 0.50% | ~84 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 32)
 | Voices from within | 0.10% | ~15 |
 | Low budget finish | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,700 (Ranked 167)  
+Progressed: 16,703 (Ranked 167)  
 Completed: 8 (0.05%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 8 (0.05%) (Ranked 338)
 | 2024-01-08 | 16,279 | 8 |
 | 2024-01-09 | 16,474 | 8 |
 | 2024-01-10 | 16,669 | 8 |
-| 2024-01-11 | 16,700 | 8 |
+| 2024-01-11 | 16,703 | 8 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 517)  
 Sum: 32 (Ranked 541)  
