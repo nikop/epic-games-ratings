@@ -559,9 +559,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4726,
+  "EOS_Progressed": 4727,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8224,6 +8224,11 @@
       "Time": "2024-01-11T01:56:28.016919+00:00",
       "NumProgressed": 4726,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-11T04:05:52.0545+00:00",
+      "NumProgressed": 4727,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8275,7 +8280,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "CrowdPleaser",
@@ -8419,7 +8424,7 @@
       "Name": "Ready for Summer",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2269
     },
     {
       "ID": "ReadyforWinter_42",
@@ -8435,7 +8440,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -8570,15 +8575,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4726,
+      "Progressed": 4727,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-11T03:05:41.3331108+00:00",
+  "LastChanged_Achievements": "2024-01-11T04:05:52.0544995+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:45.0450053+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:02:51.7077525+00:00",
-  "LastUpdate_Achievements": "2024-01-11T03:05:41.3331696+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:02:58.0291136+00:00",
+  "LastUpdate_Achievements": "2024-01-11T04:05:52.0545568+00:00"
 }

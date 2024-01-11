@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 381,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -172,9 +172,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1596,
+  "EOS_Progressed": 1597,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -2432,6 +2432,11 @@
       "Time": "2024-01-11T02:34:23.6446783+00:00",
       "NumProgressed": 1596,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-11T04:10:08.0343344+00:00",
+      "NumProgressed": 1597,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 56,
@@ -2465,9 +2470,9 @@
       "ID": "achievement_3hookQuestsResolved",
       "SetID": "95dc8p",
       "Name": "Storied Past",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_5petsReceived",
@@ -2489,9 +2494,9 @@
       "ID": "achievement_beatGameOnIronmanMode",
       "SetID": "95dc8p",
       "Name": "Let Me Get My Chisel",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_beatGameOnWalkingLunch",
@@ -2625,9 +2630,9 @@
       "ID": "achievement_mythwalker",
       "SetID": "95dc8p",
       "Name": "Legends Never Die",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_rivalStuntAbility5Times",
@@ -2745,9 +2750,9 @@
       "ID": "enduringWar_destroyCores",
       "SetID": "95dc8p",
       "Name": "Core Failure",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 64
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -2825,9 +2830,9 @@
       "ID": "theme_shadow_heal30",
       "SetID": "95dc8p",
       "Name": "Symbiosis",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "theme_skeleton_terrify10Enemies",
@@ -2849,9 +2854,9 @@
       "ID": "theme_storm_kill3Enemies",
       "SetID": "95dc8p",
       "Name": "Tempest",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "theme_tree_knockback50Tiles",
@@ -2890,15 +2895,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1596,
+      "Progressed": 1597,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2024-01-03T23:58:17.6931046+00:00",
-  "LastChanged_Achievements": "2024-01-11T03:09:48.0005165+00:00",
+  "LastChanged_Achievements": "2024-01-11T04:10:08.0343341+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:17.4648519+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:58:12.3572822+00:00",
-  "LastUpdate_Achievements": "2024-01-11T03:09:48.0005647+00:00"
+  "LastUpdate_Ratings": "2024-01-11T03:58:13.6829077+00:00",
+  "LastUpdate_Achievements": "2024-01-11T04:10:08.0343839+00:00"
 }

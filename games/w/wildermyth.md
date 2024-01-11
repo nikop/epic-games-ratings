@@ -15,14 +15,15 @@ Number of Ratings: 45  (23.09.2022)
 | Daybreak | 6.00% | ~96 |
 | Gotta Ca... Must Collect All of Them | 5.00% | ~80 |
 | War Endured | 4.00% | ~64 |
+| Core Failure | 4.00% | ~64 |
 | A Mythic Menagerie | 3.00% | ~48 |
 | Completing the Look | 3.00% | ~48 |
 | Who's Counting? | 3.00% | ~48 |
-| Core Failure | 3.00% | ~48 |
+| Let Me Get My Chisel | 2.00% | ~32 |
 | Thematic Divergence | 2.00% | ~32 |
 | Pyrrhic Victory | 2.00% | ~32 |
 | Echoes Die | 2.00% | ~32 |
-| Let Me Get My Chisel | 1.00% | ~16 |
+| Legends Never Die | 1.00% | ~16 |
 | Chain Reaction | 1.00% | ~16 |
 | In Soil, In Smoke | 1.00% | ~16 |
 | Everfading | 1.00% | ~16 |
@@ -30,16 +31,15 @@ Number of Ratings: 45  (23.09.2022)
 | A Story of Heroes | 1.00% | ~16 |
 | Turncoat | 1.00% | ~16 |
 | Some Say I'm Too Flashy | 1.00% | ~16 |
-| Legends Never Die | 0.90% | ~14 |
 | No Time for Clawmonsters | 0.90% | ~14 |
 | Worldwalker | 0.80% | ~13 |
 | All My Birds, Safely Home | 0.80% | ~13 |
 | Bears are Scary | 0.80% | ~13 |
+| Tempest | 0.80% | ~13 |
+| Storied Past | 0.70% | ~11 |
 | Plague Doctor | 0.70% | ~11 |
 | Grillmaster | 0.70% | ~11 |
 | Astrology | 0.70% | ~11 |
-| Tempest | 0.70% | ~11 |
-| Storied Past | 0.60% | ~10 |
 | Empty the Caves | 0.60% | ~10 |
 | Bonebreakers | 0.60% | ~10 |
 | No More Nightmares | 0.60% | ~10 |
@@ -56,14 +56,14 @@ Number of Ratings: 45  (23.09.2022)
 | Drauvenslayers | 0.20% | ~3 |
 | Back into the Sea | 0.20% | ~3 |
 | War-Ender | 0.20% | ~3 |
+| Symbiosis | 0.20% | ~3 |
 | A Lowly Crust of Beef | 0.10% | ~2 |
 | Solid as the Hills | 0.10% | ~2 |
 | We Call That Mortificient! | 0.10% | ~2 |
-| Symbiosis | 0.10% | ~2 |
 | Peacemaker | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,596 (Ranked 265)  
+Progressed: 1,597 (Ranked 265)  
 Completed: 7 (0.44%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 7 (0.44%) (Ranked 234)
 | 2024-01-08 | 1,590 | 7 |
 | 2024-01-09 | 1,592 | 7 |
 | 2024-01-10 | 1,595 | 7 |
-| 2024-01-11 | 1,596 | 7 |
+| 2024-01-11 | 1,597 | 7 |
 ## Awards
 Max (Character Customization): 29  (Ranked 529)  
 Sum: 29 (Ranked 547)  

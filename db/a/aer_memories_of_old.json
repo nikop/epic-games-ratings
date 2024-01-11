@@ -2,13 +2,13 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 704,
+  "Ranking_Rating": 703,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -425,9 +425,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28421,
+  "EOS_Progressed": 28422,
   "EOS_Completed": 524,
-  "EOS_NewPlayers": 538,
+  "EOS_NewPlayers": 537,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -29050,6 +29050,11 @@
       "Time": "2024-01-11T03:04:11.9236914+00:00",
       "NumProgressed": 28421,
       "NumCompleted": 524
+    },
+    {
+      "Time": "2024-01-11T04:04:20.596682+00:00",
+      "NumProgressed": 28422,
+      "NumCompleted": 524
     }
   ],
   "TotalAchievements": 20,
@@ -29061,7 +29066,7 @@
       "Name": "Cartographer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4547
+      "UsersEstimate": 4548
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -29109,7 +29114,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1989
+      "UsersEstimate": 1990
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -29181,7 +29186,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 21600
+      "UsersEstimate": 21601
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -29220,15 +29225,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 28421,
+      "Progressed": 28422,
       "Completed": 524
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-04T06:57:48.8328887+00:00",
-  "LastChanged_Achievements": "2024-01-11T03:04:11.9236911+00:00",
+  "LastChanged_Achievements": "2024-01-11T04:04:20.5966816+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.2454847+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:57:05.1106237+00:00",
-  "LastUpdate_Achievements": "2024-01-11T03:04:11.9238203+00:00"
+  "LastUpdate_Ratings": "2024-01-11T03:57:05.4829674+00:00",
+  "LastUpdate_Achievements": "2024-01-11T04:04:20.5968554+00:00"
 }

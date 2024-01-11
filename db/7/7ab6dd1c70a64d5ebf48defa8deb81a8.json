@@ -85,7 +85,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2216,
+  "EOS_Progressed": 2217,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 1,
@@ -4215,6 +4215,11 @@
       "Time": "2024-01-11T02:34:20.6893491+00:00",
       "NumProgressed": 2216,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T04:10:05.0757235+00:00",
+      "NumProgressed": 2217,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -4226,7 +4231,7 @@
       "Name": "Break Out",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "ACH_02",
@@ -4250,7 +4255,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_05",
@@ -4370,7 +4375,7 @@
       "Name": "Slayer",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_20",
@@ -4448,9 +4453,9 @@
       "ID": "ACH_29",
       "SetID": "efe2lj",
       "Name": "All That Gold",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 60,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_30",
@@ -4498,7 +4503,7 @@
       "Name": "A Queen\u0027s Tale",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_38",
@@ -4513,7 +4518,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2216,
+      "Progressed": 2217,
       "Completed": 4
     }
   ],
@@ -4521,8 +4526,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-09T14:59:34.4882092+00:00",
-  "LastChanged_Achievements": "2024-01-11T03:09:45.0382614+00:00",
+  "LastChanged_Achievements": "2024-01-11T04:10:05.0757231+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:00:09.9962056+00:00",
-  "LastUpdate_Achievements": "2024-01-11T03:09:45.0383105+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:00:16.5558229+00:00",
+  "LastUpdate_Achievements": "2024-01-11T04:10:05.0757638+00:00"
 }

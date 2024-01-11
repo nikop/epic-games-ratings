@@ -1,38 +1,38 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 358)  
+Rating: 4.63 (Ranked 357)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 77.00% | ~341 |
-| Kaijuiced | 71.00% | ~315 |
-| Lie Back and Think of Albion | 65.00% | ~288 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 62.00% | ~275 |
-| I Look Up As I Walk to Takoshima | 59.00% | ~261 |
-| Yettisoned | 57.00% | ~253 |
-| Pimp My Raid | 56.00% | ~248 |
-| Perfect Probulator | 56.00% | ~248 |
-| Lobster Blisque | 51.00% | ~226 |
-| Fly Me to the Moon Base | 48.00% | ~213 |
-| Earthly Pleasures | 48.00% | ~213 |
-| Ducks in a Row, Fish in a Barrel | 46.00% | ~204 |
-| Bodied Sattva | 36.00% | ~159 |
-| Forbidden Donut | 35.00% | ~155 |
-| Freshly Squeezed | 35.00% | ~155 |
-| Upgreatest | 35.00% | ~155 |
-| Deincarnated | 29.00% | ~128 |
-| Furon Fashion | 29.00% | ~128 |
-| Rock of the Bay | 28.00% | ~124 |
-| Trans-Siberian Express | 24.00% | ~106 |
-| Re-Return of the Clone of the Invasion II-2 | 19.00% | ~84 |
+| Shop Til They Drop | 77.00% | ~343 |
+| Kaijuiced | 71.00% | ~316 |
+| Lie Back and Think of Albion | 65.00% | ~289 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~280 |
+| I Look Up As I Walk to Takoshima | 59.00% | ~263 |
+| Yettisoned | 57.00% | ~254 |
+| Pimp My Raid | 56.00% | ~249 |
+| Perfect Probulator | 56.00% | ~249 |
+| Lobster Blisque | 51.00% | ~227 |
+| Fly Me to the Moon Base | 48.00% | ~214 |
+| Earthly Pleasures | 48.00% | ~214 |
+| Ducks in a Row, Fish in a Barrel | 46.00% | ~205 |
+| Bodied Sattva | 36.00% | ~160 |
+| Forbidden Donut | 35.00% | ~156 |
+| Freshly Squeezed | 35.00% | ~156 |
+| Upgreatest | 34.00% | ~151 |
+| Deincarnated | 29.00% | ~129 |
+| Furon Fashion | 29.00% | ~129 |
+| Rock of the Bay | 27.00% | ~120 |
+| Trans-Siberian Express | 24.00% | ~107 |
+| Re-Return of the Clone of the Invasion II-2 | 19.00% | ~85 |
 | Arkvoodle Doodle | 18.00% | ~80 |
 | Ouch of Body Experience | 16.00% | ~71 |
 | If You Know What I Mean | 16.00% | ~71 |
 | Die Nasty | 16.00% | ~71 |
 | Mash Machine | 16.00% | ~71 |
-| Hidden Human Hive Harvest | 15.00% | ~66 |
+| Hidden Human Hive Harvest | 15.00% | ~67 |
 | Albion Bridge Is for Falling Down | 14.00% | ~62 |
 | Dusted | 13.00% | ~58 |
 | Scuttled | 11.00% | ~49 |
@@ -47,8 +47,8 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 2.00% | ~9 |
 | Against All Odds | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 443 (Ranked 362)  
-Completed: 5 (1.13%) (Ranked 168)  
+Progressed: 445 (Ranked 362)  
+Completed: 5 (1.12%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -76,7 +76,7 @@ Completed: 5 (1.13%) (Ranked 168)
 | 2024-01-08 | 406 | 5 |
 | 2024-01-09 | 424 | 5 |
 | 2024-01-10 | 439 | 5 |
-| 2024-01-11 | 443 | 5 |
+| 2024-01-11 | 445 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 505)  
 Sum: 35 (Ranked 534)  

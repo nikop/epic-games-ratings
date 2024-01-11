@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8258,
+  "EOS_Progressed": 8261,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 330,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13837,6 +13837,11 @@
       "Time": "2024-01-11T02:32:54.7473171+00:00",
       "NumProgressed": 8258,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T04:08:39.9966221+00:00",
+      "NumProgressed": 8261,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13864,7 +13869,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -13872,7 +13877,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -13904,7 +13909,7 @@
       "Name": "Scaling up",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -13952,7 +13957,7 @@
       "Name": "Goldfish?",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -14167,13 +14172,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8258,
+      "Progressed": 8261,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7630,
+      "Progressed": 7633,
       "Completed": 113
     }
   ],
@@ -14181,8 +14186,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-11T03:08:20.3121697+00:00",
+  "LastChanged_Achievements": "2024-01-11T04:08:39.9966218+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:59:31.7499567+00:00",
-  "LastUpdate_Achievements": "2024-01-11T03:08:20.3122772+00:00"
+  "LastUpdate_Ratings": "2024-01-11T03:59:36.6587795+00:00",
+  "LastUpdate_Achievements": "2024-01-11T04:08:39.9967228+00:00"
 }

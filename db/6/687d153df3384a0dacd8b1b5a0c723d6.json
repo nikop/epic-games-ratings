@@ -2,9 +2,9 @@
   "ID": "687d153df3384a0dacd8b1b5a0c723d6",
   "Name": "Top Web Search 23",
   "ProductSlug": "top-web-search-23-a34613",
-  "Ranking_EOS_Progress": 661,
+  "Ranking_EOS_Progress": 653,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2024-01-10T18:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 11,
+  "EOS_Progressed": 12,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 36.36,
+  "EOS_Completed_Percentage": 33.33,
   "EosHistory": [
     {
       "Time": "2024-01-10T19:04:16.2058384+00:00",
@@ -57,6 +57,11 @@
       "Time": "2024-01-11T01:54:10.0316788+00:00",
       "NumProgressed": 11,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T04:04:14.4485283+00:00",
+      "NumProgressed": 12,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2024-01-08T21:03:53.9988835+00:00",
@@ -67,7 +72,7 @@
       "ID": "DOUBLE_UP_DECISIONS",
       "SetID": "44h0e32",
       "Name": "Double Up Decisions",
-      "Percentage": 82,
+      "Percentage": 75,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -75,7 +80,7 @@
       "ID": "DYNAMIC_DOZEN_DECISIONIST",
       "SetID": "44h0e32",
       "Name": "Dynamic Dozen Decisionist",
-      "Percentage": 45,
+      "Percentage": 42,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -83,7 +88,7 @@
       "ID": "EPIC_EIGHT_EXPLORER",
       "SetID": "44h0e32",
       "Name": "Epic Eight Explorer",
-      "Percentage": 73,
+      "Percentage": 67,
       "XP": 100,
       "UsersEstimate": 8
     },
@@ -91,7 +96,7 @@
       "ID": "FANTASTIC_FOUR_CHOICES",
       "SetID": "44h0e32",
       "Name": "Fantastic Four Choices",
-      "Percentage": 82,
+      "Percentage": 75,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -99,7 +104,7 @@
       "ID": "FOURTEENSTAR_STRATEGIST",
       "SetID": "44h0e32",
       "Name": "Fourteen-Star Strategist",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -107,7 +112,7 @@
       "ID": "HIGH_FIVE_DECISION_MAKER",
       "SetID": "44h0e32",
       "Name": "High Five Decision Maker",
-      "Percentage": 73,
+      "Percentage": 67,
       "XP": 100,
       "UsersEstimate": 8
     },
@@ -115,7 +120,7 @@
       "ID": "LUCKY_SEVEN_NAVIGATOR",
       "SetID": "44h0e32",
       "Name": "Lucky Seven Navigator",
-      "Percentage": 73,
+      "Percentage": 67,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -123,7 +128,7 @@
       "ID": "MASTERFUL_ELEVEN",
       "SetID": "44h0e32",
       "Name": "Masterful Eleven",
-      "Percentage": 64,
+      "Percentage": 58,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -131,7 +136,7 @@
       "ID": "NINTH_WONDER_DECISIONMAKER",
       "SetID": "44h0e32",
       "Name": "Ninth Wonder Decision-Maker",
-      "Percentage": 73,
+      "Percentage": 67,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -139,7 +144,7 @@
       "ID": "PERFECT_TEN_CHOICES",
       "SetID": "44h0e32",
       "Name": "Perfect Ten Choices",
-      "Percentage": 73,
+      "Percentage": 67,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -147,7 +152,7 @@
       "ID": "SIXTH_SENSE_STRATEGIES",
       "SetID": "44h0e32",
       "Name": "Sixth Sense Strategies",
-      "Percentage": 73,
+      "Percentage": 67,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -155,7 +160,7 @@
       "ID": "STARTER_SCORE",
       "SetID": "44h0e32",
       "Name": "Starter Score",
-      "Percentage": 100,
+      "Percentage": 92,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -163,7 +168,7 @@
       "ID": "TRAILBLAZING_THIRTEEN",
       "SetID": "44h0e32",
       "Name": "Trailblazing Thirteen",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -171,7 +176,7 @@
       "ID": "TRIPLE_THREAT_CHOICES",
       "SetID": "44h0e32",
       "Name": "Triple Threat Choices",
-      "Percentage": 82,
+      "Percentage": 75,
       "XP": 50,
       "UsersEstimate": 9
     }
@@ -180,13 +185,13 @@
     {
       "ID": "44h0e32",
       "IsBase": true,
-      "Progressed": 11,
+      "Progressed": 12,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2024-01-08T21:03:53.9988833+00:00",
-  "LastChanged_Achievements": "2024-01-11T03:04:05.9039448+00:00",
+  "LastChanged_Achievements": "2024-01-11T04:04:14.4485278+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.0574061+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:58:01.2098888+00:00",
-  "LastUpdate_Achievements": "2024-01-11T03:04:05.9039542+00:00"
+  "LastUpdate_Ratings": "2024-01-11T03:58:01.2449042+00:00",
+  "LastUpdate_Achievements": "2024-01-11T04:04:14.4485367+00:00"
 }

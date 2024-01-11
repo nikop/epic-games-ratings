@@ -5,30 +5,30 @@ Rating: 4.52 (Ranked 574)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 47.00% | ~7,620 |
-| Greasy Palms | 42.00% | ~6,809 |
-| South American Connection | 26.00% | ~4,215 |
-| Life of the Party | 21.00% | ~3,405 |
-| Big Heat from Little Havana | 15.00% | ~2,432 |
-| Chauffeur | 15.00% | ~2,432 |
-| Tommy Two-Wheels | 15.00% | ~2,432 |
-| Salutations My Little Friend | 11.00% | ~1,783 |
-| Iron-y | 10.00% | ~1,621 |
-| Gun for Hire | 9.00% | ~1,459 |
-| Mischief Managed | 9.00% | ~1,459 |
+| Legal Counsel | 47.00% | ~7,622 |
+| Greasy Palms | 42.00% | ~6,811 |
+| South American Connection | 26.00% | ~4,216 |
+| Life of the Party | 21.00% | ~3,406 |
+| Big Heat from Little Havana | 15.00% | ~2,433 |
+| Chauffeur | 15.00% | ~2,433 |
+| Tommy Two-Wheels | 15.00% | ~2,433 |
+| Salutations My Little Friend | 11.00% | ~1,784 |
+| Iron-y | 10.00% | ~1,622 |
+| Gun for Hire | 9.00% | ~1,460 |
+| Mischief Managed | 9.00% | ~1,460 |
 | Vice City Mogul | 7.00% | ~1,135 |
 | Catch Me if You Can | 6.00% | ~973 |
 | Bloodstained Hands | 6.00% | ~973 |
 | Not my First Time | 5.00% | ~811 |
 | Grand Theft Auto | 5.00% | ~811 |
 | Pie Guy | 4.00% | ~649 |
-| Running Rampant | 3.00% | ~486 |
-| Point A to Point B | 3.00% | ~486 |
-| High Quality H2O | 3.00% | ~486 |
-| Bull in a China Shop | 3.00% | ~486 |
-| Somebody Call the Wambulance? | 3.00% | ~486 |
-| Just Like the Real Thing | 3.00% | ~486 |
-| Don't Need Roads | 3.00% | ~486 |
+| Running Rampant | 3.00% | ~487 |
+| Point A to Point B | 3.00% | ~487 |
+| High Quality H2O | 3.00% | ~487 |
+| Bull in a China Shop | 3.00% | ~487 |
+| Somebody Call the Wambulance? | 3.00% | ~487 |
+| Just Like the Real Thing | 3.00% | ~487 |
+| Don't Need Roads | 3.00% | ~487 |
 | One is Better Than Two | 2.00% | ~324 |
 | Take the Cannoli | 2.00% | ~324 |
 | Chopper’d Up | 2.00% | ~324 |
@@ -40,7 +40,7 @@ Rating: 4.52 (Ranked 574)
 | Done it All | 0.90% | ~146 |
 | Kingpin | 0.60% | ~97 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,213 (Ranked 171)  
+Progressed: 16,217 (Ranked 171)  
 Completed: 95 (0.59%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 95 (0.59%) (Ranked 211)
 | 2024-01-08 | 15,950 | 92 |
 | 2024-01-09 | 16,071 | 93 |
 | 2024-01-10 | 16,202 | 95 |
-| 2024-01-11 | 16,213 | 95 |
+| 2024-01-11 | 16,217 | 95 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

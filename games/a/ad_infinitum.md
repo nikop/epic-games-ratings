@@ -19,7 +19,7 @@
 | Clarity | 16.00% | ~32 |
 | Health | 14.00% | ~28 |
 | Awaiting orders | 13.00% | ~26 |
-| Art critic | 10.00% | ~20 |
+| Art critic | 11.00% | ~22 |
 | Jigsaw | 10.00% | ~20 |
 | Peace | 10.00% | ~20 |
 | Lost | 8.00% | ~16 |

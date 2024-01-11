@@ -5,30 +5,30 @@ Rating: 4.19 (Ranked 973)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,901 |
+| Unforeseen | 88.00% | ~2,902 |
 | Battlefields Have Memories | 81.00% | ~2,671 |
-| Enlisted | 74.00% | ~2,440 |
-| Maybe Engage a Little | 69.00% | ~2,275 |
-| No More Names | 52.00% | ~1,714 |
+| Enlisted | 74.00% | ~2,441 |
+| Maybe Engage a Little | 69.00% | ~2,276 |
+| No More Names | 52.00% | ~1,715 |
 | Initiate | 38.00% | ~1,253 |
 | Thrada-Kul | 34.00% | ~1,121 |
 | Gravity-Challenged Rocks | 28.00% | ~923 |
-| Socialite | 24.00% | ~791 |
-| Soldier | 24.00% | ~791 |
-| All the Major Food Groups | 23.00% | ~758 |
-| Beggars Would Ride | 21.00% | ~692 |
-| Control is an Illusion | 20.00% | ~659 |
-| The Means to Save It | 17.00% | ~560 |
+| Socialite | 24.00% | ~792 |
+| Soldier | 24.00% | ~792 |
+| All the Major Food Groups | 23.00% | ~759 |
+| Beggars Would Ride | 21.00% | ~693 |
+| Control is an Illusion | 20.00% | ~660 |
+| The Means to Save It | 17.00% | ~561 |
 | Resilience to Sin | 16.00% | ~528 |
 | A Familiar Nest | 16.00% | ~528 |
 | Geas Aristeya | 15.00% | ~495 |
 | Periapt Alizarin | 15.00% | ~495 |
-| A Perfect Cycle | 13.00% | ~429 |
+| A Perfect Cycle | 14.00% | ~462 |
 | Recruit | 13.00% | ~429 |
 | Armsman | 11.00% | ~363 |
 | Lights Army | 10.00% | ~330 |
 | Periapt Cerulean | 8.00% | ~264 |
-| Good Boy | 7.00% | ~231 |
+| Good Boy | 8.00% | ~264 |
 | Best Dressed | 6.00% | ~198 |
 | Periapt Viridian | 6.00% | ~198 |
 | Shroudfane Explorer | 6.00% | ~198 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 973)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,297 (Ranked 227)  
+Progressed: 3,298 (Ranked 227)  
 Completed: 4 (0.12%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 4 (0.12%) (Ranked 303)
 | 2024-01-08 | 3,129 | 4 |
 | 2024-01-09 | 3,204 | 4 |
 | 2024-01-10 | 3,285 | 4 |
-| 2024-01-11 | 3,297 | 4 |
+| 2024-01-11 | 3,298 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

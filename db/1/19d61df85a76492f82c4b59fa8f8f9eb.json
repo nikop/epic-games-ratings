@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 528,
+  "EOS_Progressed": 529,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 9.47,
+  "EOS_Completed_Percentage": 9.45,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -2479,6 +2479,11 @@
       "Time": "2024-01-11T03:08:48.3944516+00:00",
       "NumProgressed": 528,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2024-01-11T04:09:08.5492848+00:00",
+      "NumProgressed": 529,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 6,
@@ -2498,7 +2503,7 @@
       "Name": "File-cutter",
       "Percentage": 64,
       "XP": 165,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -2506,7 +2511,7 @@
       "Name": "Viola Organista",
       "Percentage": 47,
       "XP": 165,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -2514,7 +2519,7 @@
       "Name": "Scythed Chariot",
       "Percentage": 30,
       "XP": 165,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -2522,7 +2527,7 @@
       "Name": "Revolving Bridge",
       "Percentage": 30,
       "XP": 165,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
@@ -2530,21 +2535,21 @@
       "Name": "Flying Machine",
       "Percentage": 33,
       "XP": 165,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 528,
+      "Progressed": 529,
       "Completed": 50
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2024-01-11T03:08:48.394451+00:00",
+  "LastChanged_Achievements": "2024-01-11T04:09:08.5492843+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:10.7268546+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:59:40.5963454+00:00",
-  "LastUpdate_Achievements": "2024-01-11T03:08:48.3944841+00:00"
+  "LastUpdate_Ratings": "2024-01-11T03:59:46.5115316+00:00",
+  "LastUpdate_Achievements": "2024-01-11T04:09:08.549313+00:00"
 }

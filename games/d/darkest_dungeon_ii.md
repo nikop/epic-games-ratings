@@ -35,24 +35,24 @@ Number of Ratings: 7,767  (23.09.2022)
 | Nope | 4.00% | ~5,297 |
 | Unshackled | 4.00% | ~5,297 |
 | Friends 'Til the End | 4.00% | ~291 |
-| Resurrection | 3.00% | ~3,972 |
-| Unleash Hell | 3.00% | ~3,972 |
-| Funny Guy | 3.00% | ~3,972 |
-| Long Live the King | 3.00% | ~3,972 |
-| Wyrdly Reconstructed | 3.00% | ~3,972 |
-| Boxcar Kid | 3.00% | ~3,972 |
-| Unfulfilled Desires | 3.00% | ~3,972 |
-| Hope Rekindled | 3.00% | ~3,972 |
-| Predator | 3.00% | ~3,972 |
-| Dissector | 3.00% | ~3,972 |
-| Banishment | 3.00% | ~3,972 |
-| Deprogramming | 3.00% | ~3,972 |
-| Now Stay Dead | 3.00% | ~3,972 |
-| Reverse Banditry | 3.00% | ~3,972 |
-| A Clear Conscience | 3.00% | ~3,972 |
-| When You Want Something Done Right | 3.00% | ~3,972 |
-| Utopia | 3.00% | ~3,972 |
-| Road Trip | 3.00% | ~3,972 |
+| Resurrection | 3.00% | ~3,973 |
+| Unleash Hell | 3.00% | ~3,973 |
+| Funny Guy | 3.00% | ~3,973 |
+| Long Live the King | 3.00% | ~3,973 |
+| Wyrdly Reconstructed | 3.00% | ~3,973 |
+| Boxcar Kid | 3.00% | ~3,973 |
+| Unfulfilled Desires | 3.00% | ~3,973 |
+| Hope Rekindled | 3.00% | ~3,973 |
+| Predator | 3.00% | ~3,973 |
+| Dissector | 3.00% | ~3,973 |
+| Banishment | 3.00% | ~3,973 |
+| Deprogramming | 3.00% | ~3,973 |
+| Now Stay Dead | 3.00% | ~3,973 |
+| Reverse Banditry | 3.00% | ~3,973 |
+| A Clear Conscience | 3.00% | ~3,973 |
+| When You Want Something Done Right | 3.00% | ~3,973 |
+| Utopia | 3.00% | ~3,973 |
+| Road Trip | 3.00% | ~3,973 |
 | This Looks Familiar | 2.00% | ~2,648 |
 | Ichthyophobic | 2.00% | ~2,648 |
 | No More Mouths to Feed | 2.00% | ~2,648 |
@@ -70,10 +70,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 1.00% | ~73 |
 | Et Tu, Riposte? | 0.90% | ~66 |
 | The World As It Was | 0.70% | ~927 |
-| A Life Well Lived | 0.60% | ~794 |
-| Bacon Bits | 0.60% | ~794 |
+| A Life Well Lived | 0.60% | ~795 |
+| Bacon Bits | 0.60% | ~795 |
+| On This Long Road, We Found Redemption | 0.60% | ~44 |
 | Eidetic | 0.50% | ~662 |
-| On This Long Road, We Found Redemption | 0.50% | ~36 |
 | Tears in the Rain | 0.40% | ~530 |
 | Battle Hardened | 0.40% | ~29 |
 | Maître De La Lame | 0.40% | ~29 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,414 (Ranked 91)  
+Progressed: 132,417 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 4 (0.00%) (Ranked 397)
 | 2024-01-08 | 132,215 | 3 |
 | 2024-01-09 | 132,315 | 3 |
 | 2024-01-10 | 132,395 | 4 |
-| 2024-01-11 | 132,414 | 4 |
+| 2024-01-11 | 132,417 | 4 |
 ## Awards
 Max (Character Customization): 8,000  (Ranked 50)  
 Sum: 21,580 (Ranked 58)  

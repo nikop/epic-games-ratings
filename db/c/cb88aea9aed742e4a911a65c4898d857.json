@@ -323,9 +323,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 11017,
+  "EOS_Progressed": 11021,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1097,
+  "EOS_NewPlayers": 1095,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4433,6 +4433,11 @@
       "Time": "2024-01-11T02:34:18.7314461+00:00",
       "NumProgressed": 11017,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T04:10:03.3440861+00:00",
+      "NumProgressed": 11021,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4445,7 +4450,7 @@
       "Name": "Conspiracy",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "03_TheStolenStar",
@@ -4453,7 +4458,7 @@
       "Name": "Stolen Star",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -4557,7 +4562,7 @@
       "Name": "The Rise",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "17_TheExemplar",
@@ -4573,7 +4578,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "19_TheVoidWolf",
@@ -4581,7 +4586,7 @@
       "Name": "Void Wolf",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -4701,7 +4706,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -4765,7 +4770,7 @@
       "Name": "Iron Judgement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -4797,7 +4802,7 @@
       "Name": "A Spark",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "47_AFlame",
@@ -4964,7 +4969,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11017,
+      "Progressed": 11021,
       "Completed": 1
     }
   ],
@@ -4972,8 +4977,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-11T01:49:02.1008978+00:00",
-  "LastChanged_Achievements": "2024-01-11T03:09:42.9087222+00:00",
+  "LastChanged_Achievements": "2024-01-11T04:10:03.3440858+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:58:56.0663138+00:00",
-  "LastUpdate_Achievements": "2024-01-11T03:09:42.908786+00:00"
+  "LastUpdate_Ratings": "2024-01-11T03:58:59.5145324+00:00",
+  "LastUpdate_Achievements": "2024-01-11T04:10:03.3441835+00:00"
 }

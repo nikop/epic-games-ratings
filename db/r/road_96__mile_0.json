@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 691,
+  "EOS_Progressed": 692,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
@@ -2512,6 +2512,11 @@
       "Time": "2024-01-10T22:09:58.2481152+00:00",
       "NumProgressed": 691,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-11T04:10:00.5115915+00:00",
+      "NumProgressed": 692,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2619,7 +2624,7 @@
       "Name": "The Eye of the Storm",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "scoreminrankrv1",
@@ -2642,7 +2647,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 691,
+      "Progressed": 692,
       "Completed": 3
     }
   ],
@@ -2650,8 +2655,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-11T03:09:39.9367061+00:00",
+  "LastChanged_Achievements": "2024-01-11T04:10:00.5115911+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.1061642+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:59:16.1256142+00:00",
-  "LastUpdate_Achievements": "2024-01-11T03:09:39.9367332+00:00"
+  "LastUpdate_Ratings": "2024-01-11T03:59:20.8245861+00:00",
+  "LastUpdate_Achievements": "2024-01-11T04:10:00.5116141+00:00"
 }

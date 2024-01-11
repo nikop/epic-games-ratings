@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7333,
+  "EOS_Progressed": 7339,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 500,
+  "EOS_NewPlayers": 503,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -7869,6 +7869,11 @@
       "Time": "2024-01-11T01:57:40.3296974+00:00",
       "NumProgressed": 7333,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-11T04:03:19.9221725+00:00",
+      "NumProgressed": 7339,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -7881,7 +7886,7 @@
       "Name": "Finish The Hidden Room",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1688
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_HIDDENROOM",
@@ -7889,7 +7894,7 @@
       "Name": "Unlock the secret room",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1688
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_MASK",
@@ -7897,7 +7902,7 @@
       "Name": "Collect the mask",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 2347
+      "UsersEstimate": 2348
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_OPENGATE",
@@ -7905,7 +7910,7 @@
       "Name": "Unlock the gate",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 2347
+      "UsersEstimate": 2348
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_PC",
@@ -7913,7 +7918,7 @@
       "Name": "Unlock the PC",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 2713
+      "UsersEstimate": 2715
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
@@ -7921,7 +7926,7 @@
       "Name": "Move the sofa",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2495
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -7929,7 +7934,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 4180
+      "UsersEstimate": 4183
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -7937,7 +7942,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 5793
+      "UsersEstimate": 5798
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -7961,7 +7966,7 @@
       "Name": "Collect the mask in Speedrun",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_ONEMINUTE",
@@ -7977,7 +7982,7 @@
       "Name": "Unlock the gate in Speedrun",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_PC",
@@ -7993,7 +7998,7 @@
       "Name": "Move the sofa in Speedrun",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_TV",
@@ -8008,14 +8013,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 7333,
+      "Progressed": 7339,
       "Completed": 67
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-11T02:32:43.7847838+00:00",
+  "LastChanged_Achievements": "2024-01-11T04:03:19.9221721+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:18.8161236+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:59:00.9107723+00:00",
-  "LastUpdate_Achievements": "2024-01-11T02:32:43.7848611+00:00"
+  "LastUpdate_Ratings": "2024-01-11T03:59:04.2951435+00:00",
+  "LastUpdate_Achievements": "2024-01-11T04:03:19.9222481+00:00"
 }

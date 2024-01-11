@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 378,
+  "Ranking_Rating": 377,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 196,
@@ -759,9 +759,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7183,
+  "EOS_Progressed": 7184,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11019,6 +11019,11 @@
       "Time": "2024-01-11T02:30:45.5903673+00:00",
       "NumProgressed": 7183,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-11T04:06:13.9949825+00:00",
+      "NumProgressed": 7184,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -11142,7 +11147,7 @@
       "Name": "Realm Estate",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "23",
@@ -11206,7 +11211,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "30",
@@ -11214,7 +11219,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "31",
@@ -11222,7 +11227,7 @@
       "Name": "Magical Synergy",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "32",
@@ -11382,7 +11387,7 @@
       "Name": "Here be Dragons",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "46",
@@ -11390,7 +11395,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "47",
@@ -11430,7 +11435,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "52",
@@ -11509,13 +11514,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7183,
+      "Progressed": 7184,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7183,
+      "Progressed": 7184,
       "Completed": 7
     }
   ],
@@ -11523,8 +11528,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-10T06:57:43.8261312+00:00",
-  "LastChanged_Achievements": "2024-01-11T03:06:03.0227455+00:00",
+  "LastChanged_Achievements": "2024-01-11T04:06:13.9949822+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:58:01.6946194+00:00",
-  "LastUpdate_Achievements": "2024-01-11T03:06:03.022841+00:00"
+  "LastUpdate_Ratings": "2024-01-11T03:58:01.7496444+00:00",
+  "LastUpdate_Achievements": "2024-01-11T04:06:13.9950654+00:00"
 }

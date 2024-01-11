@@ -19,7 +19,7 @@ Number of Ratings: 48  (23.09.2022)
 | First Time Hunting | 46.00% | ~368 |
 | Rune Wall Wreckage | 45.00% | ~360 |
 | ...And Your Tax Money | 44.00% | ~352 |
-| The Lords of the Snowpeak | 37.00% | ~296 |
+| The Lords of the Snowpeak | 38.00% | ~304 |
 | The Go-To Girl | 34.00% | ~272 |
 | Scavenger's Honor | 34.00% | ~272 |
 | Natural Born Monster-Killer | 34.00% | ~272 |

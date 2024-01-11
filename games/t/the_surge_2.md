@@ -6,17 +6,17 @@ Rating: 4.26 (Ranked 916)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 78.00% | ~1,998 |
-| Don't I Know You...? | 75.00% | ~1,921 |
-| Jailbreak | 64.00% | ~1,639 |
+| Don't I Know You...? | 75.00% | ~1,922 |
+| Jailbreak | 64.00% | ~1,640 |
 | HEADSHOT! | 37.00% | ~948 |
 | Suited and Booted | 37.00% | ~948 |
 | Sleeping With The Fishes | 34.00% | ~871 |
-| High Performance | 30.00% | ~768 |
+| High Performance | 30.00% | ~769 |
 | Overheated | 29.00% | ~743 |
-| Powered Up | 27.00% | ~691 |
+| Powered Up | 27.00% | ~692 |
 | Studied The Blade | 24.00% | ~615 |
-| Home Invasion | 22.00% | ~563 |
-| Luminary | 22.00% | ~563 |
+| Home Invasion | 22.00% | ~564 |
+| Luminary | 22.00% | ~564 |
 | It's a Trap | 21.00% | ~538 |
 | True Survivor | 20.00% | ~512 |
 | Offensive Defense | 20.00% | ~512 |
@@ -24,7 +24,7 @@ Rating: 4.26 (Ranked 916)
 | Unforeseeable Consequences | 19.00% | ~487 |
 | Court Martial | 18.00% | ~461 |
 | Clean Cut | 18.00% | ~461 |
-| Dead Again | 17.00% | ~435 |
+| Dead Again | 17.00% | ~436 |
 | Full Arsenal | 16.00% | ~410 |
 | Can't Trust Banks | 15.00% | ~384 |
 | Mommy Dearest | 13.00% | ~333 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 916)
 | Three Birds With One Stone | 1.00% | ~26 |
 | The Easy Way Out | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,561 (Ranked 236)  
+Progressed: 2,562 (Ranked 236)  
 Completed: 13 (0.51%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,6 +266,7 @@ Completed: 13 (0.51%) (Ranked 221)
 | 2024-01-08 | 2,534 | 13 |
 | 2024-01-09 | 2,547 | 13 |
 | 2024-01-10 | 2,561 | 13 |
+| 2024-01-11 | 2,562 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

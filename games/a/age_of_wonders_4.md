@@ -1,17 +1,17 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.62 (Ranked 378)  
+Rating: 4.62 (Ranked 377)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 17.00% | ~1,221 |
-| Realm Estate | 15.00% | ~1,077 |
+| Realm Estate | 15.00% | ~1,078 |
 | A Wonderful Discovery | 14.00% | ~1,006 |
 | Walls Cannot Stop Us | 14.00% | ~1,006 |
 | From Friends to Family | 12.00% | ~862 |
 | Bone Peddler | 10.00% | ~718 |
-| Magical Synergy | 9.00% | ~646 |
+| Magical Synergy | 9.00% | ~647 |
 | There Can Only Be One! | 8.00% | ~575 |
 | Full Ascension | 8.00% | ~575 |
 | Stronger Together | 8.00% | ~575 |
@@ -27,11 +27,11 @@ Rating: 4.62 (Ranked 378)
 | Fiery Friend | 4.00% | ~287 |
 | Against the Odds | 4.00% | ~287 |
 | Impenetrable Fortress | 4.00% | ~287 |
-| Crimson Caldera | 3.00% | ~215 |
-| Preparation Is Everything | 3.00% | ~215 |
-| Here be Dragons | 3.00% | ~215 |
-| Tipping the Scales | 3.00% | ~215 |
-| Freed Lands of Manuhari | 3.00% | ~215 |
+| Crimson Caldera | 3.00% | ~216 |
+| Preparation Is Everything | 3.00% | ~216 |
+| Here be Dragons | 3.00% | ~216 |
+| Tipping the Scales | 3.00% | ~216 |
+| Freed Lands of Manuhari | 3.00% | ~216 |
 | I've Got Everything I Need Right Here | 2.00% | ~144 |
 | God Emperor | 2.00% | ~144 |
 | Arch Mage | 2.00% | ~144 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 378)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,183 (Ranked 196)  
+Progressed: 7,184 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 7 (0.10%) (Ranked 311)
 | 2024-01-08 | 7,091 | 7 |
 | 2024-01-09 | 7,130 | 7 |
 | 2024-01-10 | 7,178 | 7 |
-| 2024-01-11 | 7,183 | 7 |
+| 2024-01-11 | 7,184 | 7 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 481)  
 Sum: 217 (Ranked 410)  

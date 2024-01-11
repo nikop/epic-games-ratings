@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25111,
+  "EOS_Progressed": 25112,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9056,6 +9056,11 @@
       "Time": "2024-01-11T03:08:31.5580469+00:00",
       "NumProgressed": 25111,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-11T04:08:51.4939036+00:00",
+      "NumProgressed": 25112,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -9257,9 +9262,9 @@
       "ID": "ACH_KNIFE_GENE",
       "SetID": "cdkbb11",
       "Name": "Don\u0027t Knife The Hand That Feeds",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1004
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -9418,13 +9423,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25111,
+      "Progressed": 25112,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2404,
+      "Progressed": 2405,
       "Completed": 1376
     }
   ],
@@ -9432,8 +9437,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-11T03:08:31.5580465+00:00",
+  "LastChanged_Achievements": "2024-01-11T04:08:51.4939032+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:08.9175912+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:59:12.4986023+00:00",
-  "LastUpdate_Achievements": "2024-01-11T03:08:31.5581342+00:00"
+  "LastUpdate_Ratings": "2024-01-11T03:59:16.7108845+00:00",
+  "LastUpdate_Achievements": "2024-01-11T04:08:51.4939755+00:00"
 }

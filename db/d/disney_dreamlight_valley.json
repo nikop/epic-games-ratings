@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5889,9 +5889,9 @@
       "Count": 554
     }
   ],
-  "EOS_Progressed": 14050,
+  "EOS_Progressed": 14051,
   "EOS_Completed": 348,
-  "EOS_NewPlayers": 339,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
@@ -24984,6 +24984,11 @@
       "Time": "2024-01-11T01:58:42.7943437+00:00",
       "NumProgressed": 14050,
       "NumCompleted": 348
+    },
+    {
+      "Time": "2024-01-11T04:09:13.2343687+00:00",
+      "NumProgressed": 14051,
+      "NumCompleted": 348
     }
   ],
   "TotalAchievements": 15,
@@ -25035,7 +25040,7 @@
       "Name": "Constructor",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 7025
+      "UsersEstimate": 7026
     },
     {
       "ID": "Duty_Bound",
@@ -25059,7 +25064,7 @@
       "Name": "Generous",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3512
+      "UsersEstimate": 3513
     },
     {
       "ID": "Goofys_Investor",
@@ -25091,7 +25096,7 @@
       "Name": "Renovator",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 6884
+      "UsersEstimate": 6885
     },
     {
       "ID": "Thorn_Cleaner",
@@ -25114,7 +25119,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 14050,
+      "Progressed": 14051,
       "Completed": 348
     }
   ],
@@ -25122,8 +25127,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-10T16:59:49.434743+00:00",
-  "LastChanged_Achievements": "2024-01-11T03:08:53.0586554+00:00",
+  "LastChanged_Achievements": "2024-01-11T04:09:13.2343682+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:11.1438624+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:59:35.6029972+00:00",
-  "LastUpdate_Achievements": "2024-01-11T03:08:53.0587644+00:00"
+  "LastUpdate_Ratings": "2024-01-11T03:59:41.3837773+00:00",
+  "LastUpdate_Achievements": "2024-01-11T04:09:13.2344438+00:00"
 }

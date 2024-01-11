@@ -1,23 +1,23 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.63 (Ranked 358)  
+Rating: 4.63 (Ranked 357)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 22.00% | ~205 |
-| Sponge Smasher | 22.00% | ~205 |
+| Spatula Seeker | 22.00% | ~206 |
+| Sponge Smasher | 22.00% | ~206 |
 | Jellyfish Jam | 21.00% | ~196 |
-| Jellyfishing | 16.00% | ~149 |
-| Time For Tutorial | 14.00% | ~131 |
-| Sweet Victory | 13.00% | ~121 |
-| Sock Getter | 13.00% | ~121 |
-| Uptown and Downtown | 11.00% | ~103 |
+| Jellyfishing | 16.00% | ~150 |
+| Sweet Victory | 13.00% | ~122 |
+| Sock Getter | 13.00% | ~122 |
+| Time For Tutorial | 13.00% | ~122 |
 | Super Spatula Seeker | 11.00% | ~103 |
 | Star Smasher | 11.00% | ~103 |
-| Squirrel Smasher | 10.00% | ~93 |
-| Surf's Up! | 10.00% | ~93 |
+| Uptown and Downtown | 10.00% | ~94 |
+| Squirrel Smasher | 10.00% | ~94 |
+| Surf's Up! | 10.00% | ~94 |
 | Life's as extreme as you wanna make it! | 8.00% | ~75 |
 | Shrimp Catcher | 8.00% | ~75 |
 | Toxic Terror | 8.00% | ~75 |
@@ -28,9 +28,9 @@ Number of Ratings: 76  (23.09.2022)
 | Robot encyclopedia | 6.00% | ~56 |
 | Hello, Bikini Bottom | 6.00% | ~56 |
 | Ship Shape | 5.00% | ~47 |
-| Shanghaied | 5.00% | ~47 |
 | Kelp Forest of Fear | 5.00% | ~47 |
 | The Small Does Not Rule | 4.00% | ~37 |
+| Shanghaied | 4.00% | ~37 |
 | SpongeBob vs SpongeBob! | 4.00% | ~37 |
 | Sleepy Time | 4.00% | ~37 |
 | Sock Concert | 4.00% | ~37 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~9 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 933 (Ranked 301)  
+Progressed: 935 (Ranked 301)  
 Completed: 8 (0.86%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 8 (0.86%) (Ranked 189)
 | 2024-01-08 | 877 | 8 |
 | 2024-01-09 | 906 | 8 |
 | 2024-01-10 | 929 | 8 |
-| 2024-01-11 | 933 | 8 |
+| 2024-01-11 | 935 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 499)  
 Sum: 36 (Ranked 531)  

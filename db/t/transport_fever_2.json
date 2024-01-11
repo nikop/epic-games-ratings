@@ -897,9 +897,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2446,
+  "EOS_Progressed": 2447,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6847,6 +6847,11 @@
       "Time": "2024-01-10T23:09:04.7211644+00:00",
       "NumProgressed": 2446,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T04:09:13.6735584+00:00",
+      "NumProgressed": 2447,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 61,
@@ -6874,7 +6879,7 @@
       "Name": "Transport master",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "achAccumulate1B",
@@ -6898,7 +6903,7 @@
       "Name": "Transport millionaire",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "achAircraftEarnings",
@@ -6954,7 +6959,7 @@
       "Name": "First bus stop",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1614
+      "UsersEstimate": 1615
     },
     {
       "ID": "achBuildTrainStation",
@@ -6962,7 +6967,7 @@
       "Name": "First train station",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1444
     },
     {
       "ID": "achCannotGetEnough",
@@ -7042,7 +7047,7 @@
       "Name": "Not in my backyard",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "achEpec",
@@ -7058,7 +7063,7 @@
       "Name": "First aircraft arrived",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achFirstBusArrived",
@@ -7066,7 +7071,7 @@
       "Name": "First bus arrived",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "achFirstCargoTransported",
@@ -7090,7 +7095,7 @@
       "Name": "First electric train arrived",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "achFirstIndustryUpgrade",
@@ -7098,7 +7103,7 @@
       "Name": "First industry upgraded",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "achFirstPassengerTransported",
@@ -7114,7 +7119,7 @@
       "Name": "First passenger waiting",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     },
     {
       "ID": "achFirstShipArrived",
@@ -7122,7 +7127,7 @@
       "Name": "First ship arrived",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "achFirstSteamTrainArrived",
@@ -7154,7 +7159,7 @@
       "Name": "Settled down",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "achHq20",
@@ -7242,7 +7247,7 @@
       "Name": "Bob Ross",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "achPennyPincher",
@@ -7290,7 +7295,7 @@
       "Name": "High speed",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achTopSpeed300",
@@ -7314,7 +7319,7 @@
       "Name": "Now what?",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "achTrainFever",
@@ -7345,15 +7350,15 @@
     {
       "ID": "dgl390n",
       "IsBase": true,
-      "Progressed": 2446,
+      "Progressed": 2447,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2024-01-07T21:03:10.1496131+00:00",
-  "LastChanged_Achievements": "2024-01-11T03:08:53.521858+00:00",
+  "LastChanged_Achievements": "2024-01-11T04:09:13.6735581+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:39.8048245+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:02:48.3139576+00:00",
-  "LastUpdate_Achievements": "2024-01-11T03:08:53.5219544+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:02:53.8530343+00:00",
+  "LastUpdate_Achievements": "2024-01-11T04:09:13.6736417+00:00"
 }

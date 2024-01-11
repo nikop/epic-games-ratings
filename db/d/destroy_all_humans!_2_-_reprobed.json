@@ -1923,9 +1923,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -2019,9 +2019,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -2212,8 +2212,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-11T03:09:01.1501785+00:00",
+  "LastChanged_Achievements": "2024-01-11T04:09:21.4881576+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:58:27.0971566+00:00",
-  "LastUpdate_Achievements": "2024-01-11T03:09:01.1502203+00:00"
+  "LastUpdate_Ratings": "2024-01-11T03:58:29.5438081+00:00",
+  "LastUpdate_Achievements": "2024-01-11T04:09:21.4881927+00:00"
 }

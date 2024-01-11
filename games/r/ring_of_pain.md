@@ -22,6 +22,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Matching | 1.00% | ~42 |
 | Nothing To Lose | 0.90% | ~2,185 |
 | Delving Deeper | 0.90% | ~2,185 |
+| The Bestiary | 0.90% | ~2,185 |
 | Heartless | 0.90% | ~2,185 |
 | What's Yours Is Mine | 0.90% | ~2,185 |
 | Spine Breaker | 0.90% | ~2,185 |
@@ -33,7 +34,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Dig Your Own Grave | 0.80% | ~1,942 |
 | Cold Hearted | 0.80% | ~1,942 |
 | I Am Overburdened | 0.80% | ~1,942 |
-| The Bestiary | 0.80% | ~1,942 |
 | Shootout | 0.80% | ~1,942 |
 | Toxic | 0.80% | ~1,942 |
 | Consecutive Curses | 0.70% | ~1,699 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,743 (Ranked 73)  
+Progressed: 242,745 (Ranked 73)  
 Completed: 305 (0.13%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -411,7 +411,7 @@ Completed: 305 (0.13%) (Ranked 300)
 | 2024-01-08 | 242,637 | 304 |
 | 2024-01-09 | 242,696 | 304 |
 | 2024-01-10 | 242,736 | 305 |
-| 2024-01-11 | 242,743 | 305 |
+| 2024-01-11 | 242,745 | 305 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 139)  
 Sum: 11,792 (Ranked 89)  

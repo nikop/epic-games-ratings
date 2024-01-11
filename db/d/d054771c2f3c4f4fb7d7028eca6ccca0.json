@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3932,
+  "EOS_Progressed": 3933,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 459,
+  "EOS_NewPlayers": 458,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4589,6 +4589,11 @@
       "Time": "2024-01-11T02:29:25.6632775+00:00",
       "NumProgressed": 3932,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T04:04:54.574361+00:00",
+      "NumProgressed": 3933,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -4785,7 +4790,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -4801,7 +4806,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -4976,14 +4981,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 3932,
+      "Progressed": 3933,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-11T03:04:45.2040856+00:00",
+  "LastChanged_Achievements": "2024-01-11T04:04:54.5743607+00:00",
   "LastUpdate_AppInfo": "2024-01-09T13:13:37.5527845+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:59:58.8724037+00:00",
-  "LastUpdate_Achievements": "2024-01-11T03:04:45.2041377+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:00:05.577923+00:00",
+  "LastUpdate_Achievements": "2024-01-11T04:04:54.5744133+00:00"
 }

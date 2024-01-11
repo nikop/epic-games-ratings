@@ -1,36 +1,36 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.42 (Ranked 740)  
+Rating: 4.42 (Ranked 739)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~51,241 |
-| IT MAKES BOOM! | 8.00% | ~31,533 |
-| EXTRA BOOST | 6.00% | ~23,650 |
-| PROTECTED | 5.00% | ~19,708 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,767 |
-| PRO | 4.00% | ~15,767 |
-| AGGRESSIVE RACER | 3.00% | ~11,825 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,883 |
-| TRAINING HARD | 2.00% | ~7,883 |
-| BE OUR GUEST | 2.00% | ~7,883 |
-| ACE SPEEDSTER | 2.00% | ~7,883 |
-| A TIGER'S FEAR | 2.00% | ~7,883 |
+| ROOKIE | 13.00% | ~51,245 |
+| IT MAKES BOOM! | 8.00% | ~31,536 |
+| EXTRA BOOST | 6.00% | ~23,652 |
+| PROTECTED | 5.00% | ~19,710 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,768 |
+| PRO | 4.00% | ~15,768 |
+| AGGRESSIVE RACER | 3.00% | ~11,826 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,884 |
+| TRAINING HARD | 2.00% | ~7,884 |
+| BE OUR GUEST | 2.00% | ~7,884 |
+| ACE SPEEDSTER | 2.00% | ~7,884 |
+| A TIGER'S FEAR | 2.00% | ~7,884 |
 | RELEASE THE KRAKEN | 1.00% | ~3,942 |
 | DEFEAT OUR CHAMPION | 1.00% | ~3,942 |
 | ACE DEFENDER | 1.00% | ~3,942 |
 | FRIENDLY | 1.00% | ~3,942 |
 | MASTER | 1.00% | ~3,942 |
 | LEGENDARY HERO | 1.00% | ~3,942 |
-| EXPERIENCED CREW | 0.90% | ~3,547 |
-| ACE BRAWLER | 0.90% | ~3,547 |
-| THE EYE OF THE HUNTER | 0.90% | ~3,547 |
+| EXPERIENCED CREW | 0.90% | ~3,548 |
+| ACE BRAWLER | 0.90% | ~3,548 |
+| THE EYE OF THE HUNTER | 0.90% | ~3,548 |
 | FRAMED! | 0.70% | ~2,759 |
 | ACE TRICKSTER | 0.70% | ~2,759 |
 | PERFECTLY POISED | 0.60% | ~2,365 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 394,163 (Ranked 52)  
+Progressed: 394,194 (Ranked 52)  
 Completed: 1,558 (0.40%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 1,558 (0.40%) (Ranked 238)
 | 2024-01-08 | 391,815 | 1,530 |
 | 2024-01-09 | 392,943 | 1,547 |
 | 2024-01-10 | 393,978 | 1,557 |
-| 2024-01-11 | 394,163 | 1,558 |
+| 2024-01-11 | 394,194 | 1,558 |
 ## Awards
 Max (Great for Beginners): 178  (Ranked 313)  
 Sum: 1,174 (Ranked 264)  
