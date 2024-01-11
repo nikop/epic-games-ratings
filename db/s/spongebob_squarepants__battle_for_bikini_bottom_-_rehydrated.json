@@ -4,11 +4,11 @@
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
   "Ranking_Rating": 359,
   "Ranking_Popularity": 499,
-  "Ranking_PopularitySum": 532,
+  "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -347,9 +347,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 930,
+  "EOS_Progressed": 932,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -2477,6 +2477,11 @@
       "Time": "2024-01-11T00:03:59.7407704+00:00",
       "NumProgressed": 930,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-11T01:53:43.6875288+00:00",
+      "NumProgressed": 932,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2489,7 +2494,7 @@
       "Name": "Robot encyclopedia",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
@@ -2521,7 +2526,7 @@
       "Name": "Life\u0027s as extreme as you wanna make it!",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_DOWN_TOWN",
@@ -2529,7 +2534,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -2537,7 +2542,7 @@
       "Name": "Ship Shape",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_FIND_BB_SPATULAS",
@@ -2553,7 +2558,7 @@
       "Name": "Shanghaied",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_JELLYFISHING",
@@ -2569,7 +2574,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -2577,7 +2582,7 @@
       "Name": "Kelp Forest of Fear",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_MERMALAIR",
@@ -2593,7 +2598,7 @@
       "Name": "Shrimp Catcher",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -2601,7 +2606,7 @@
       "Name": "Toxic Terror",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -2625,7 +2630,7 @@
       "Name": "Hit Rock Bottom",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -2665,15 +2670,15 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Ultra Spatula Seeker",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
@@ -2687,9 +2692,9 @@
       "ID": "ACH_STAT_COLLECT_SOCKS",
       "SetID": "biiejkc",
       "Name": "Sock Getter",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -2721,7 +2726,7 @@
       "Name": "Star Smasher",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -2744,15 +2749,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 930,
+      "Progressed": 932,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-09T20:57:04.6643475+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:03:59.7407701+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:53:43.6875283+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:57:38.8236025+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:03:59.7407943+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:47:03.5351595+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:53:43.6875539+00:00"
 }

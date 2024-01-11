@@ -9,9 +9,9 @@ Number of Ratings: 58  (23.09.2022)
 | Another Life | 84.00% | ~1,185 |
 | Voices from the Past | 77.00% | ~1,086 |
 | Space Traveler | 76.00% | ~1,072 |
-| Demigod | 73.00% | ~1,030 |
+| Demigod | 74.00% | ~1,044 |
 | The Great Destroyer | 72.00% | ~1,016 |
-| Shields Down | 69.00% | ~974 |
+| Shields Down | 70.00% | ~988 |
 | Helping Hand | 65.00% | ~917 |
 | Safe Home | 64.00% | ~903 |
 | Paragon | 60.00% | ~847 |
@@ -269,8 +269,8 @@ Completed: 18 (1.28%) (Ranked 156)
 | 2024-01-10 | 1,411 | 18 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 505)  
-Sum: 35 (Ranked 535)  
-Diff (max vs sum): -30  
+Sum: 35 (Ranked 534)  
+Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 35 |

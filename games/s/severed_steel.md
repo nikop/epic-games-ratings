@@ -1,30 +1,30 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.69 (Ranked 237)  
+Rating: 4.69 (Ranked 236)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 33.00% | ~214,360 |
-| 50 HEADSHOTS | 31.00% | ~201,369 |
-| SCIENCE AND INDUSTRY | 30.00% | ~194,873 |
-| FINISHED CHAPTER 1 | 29.00% | ~188,377 |
-| FINISHED CHAPTER 2 | 21.00% | ~136,411 |
-| 200 HEADSHOTS | 19.00% | ~123,419 |
-| FINISHED CHAPTER 3 | 18.00% | ~116,924 |
-| FINISHED CHAPTER 4 | 15.00% | ~97,436 |
-| FINISH CHAPTER 5 | 13.00% | ~84,445 |
-| FINISH CHAPTER 6 | 11.00% | ~71,453 |
-| CATHARTIC ESCAPISM | 11.00% | ~71,453 |
-| 1000 KILLS | 10.00% | ~64,958 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~25,983 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~12,992 |
-| FIRST BLOOD | 2.00% | ~12,992 |
-| FIREFIGHT LEVEL 30 | 1.00% | ~6,496 |
-| OUT OF ORDER | 1.00% | ~6,496 |
-| PACEMAKER | 1.00% | ~6,496 |
-| TIME PARADOX | 1.00% | ~6,496 |
-| PARTYHARD | 0.80% | ~5,197 |
+| 100 KILLS | 33.00% | ~214,349 |
+| 50 HEADSHOTS | 31.00% | ~201,358 |
+| SCIENCE AND INDUSTRY | 30.00% | ~194,863 |
+| FINISHED CHAPTER 1 | 29.00% | ~188,367 |
+| FINISHED CHAPTER 2 | 21.00% | ~136,404 |
+| 200 HEADSHOTS | 19.00% | ~123,413 |
+| FINISHED CHAPTER 3 | 18.00% | ~116,918 |
+| FINISHED CHAPTER 4 | 15.00% | ~97,431 |
+| FINISH CHAPTER 5 | 13.00% | ~84,441 |
+| FINISH CHAPTER 6 | 11.00% | ~71,450 |
+| CATHARTIC ESCAPISM | 11.00% | ~71,450 |
+| 1000 KILLS | 10.00% | ~64,954 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~25,982 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~12,991 |
+| FIRST BLOOD | 2.00% | ~12,991 |
+| FIREFIGHT LEVEL 30 | 1.00% | ~6,495 |
+| OUT OF ORDER | 1.00% | ~6,495 |
+| PACEMAKER | 1.00% | ~6,495 |
+| TIME PARADOX | 1.00% | ~6,495 |
+| PARTYHARD | 0.80% | ~5,196 |
 | NEW GAME PLUS | 0.70% | ~4,547 |
 | FIREFIGHT LEVEL 40 | 0.60% | ~3,897 |
 | CHURCH | 0.40% | ~2,598 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 237)
 | THE GAMBLER | 0.10% | ~650 |
 | WARRIOR IN A GARDEN | 0.10% | ~650 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 649,576 (Ranked 32)  
+Progressed: 649,543 (Ranked 32)  
 Completed: 58 (0.01%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |

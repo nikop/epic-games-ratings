@@ -4,7 +4,7 @@
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 899,
+  "EOS_Progressed": 902,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2914,6 +2914,11 @@
       "Time": "2024-01-10T22:08:44.2977512+00:00",
       "NumProgressed": 899,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T01:58:04.4671773+00:00",
+      "NumProgressed": 902,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -3021,14 +3026,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 899,
+      "Progressed": 902,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:09:01.5316215+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:58:04.4671771+00:00",
   "LastUpdate_AppInfo": "2024-01-05T16:57:07.4104924+00:00",
-  "LastUpdate_Ratings": "2024-01-11T00:02:38.3273728+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:09:01.5316429+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:51:06.3762677+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:58:04.4671983+00:00"
 }

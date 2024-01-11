@@ -12,7 +12,7 @@ Rating: 4.60 (Ranked 431)
 | The Alliance | 42.00% | ~679 |
 | Survivors | 39.00% | ~630 |
 | The Condor | 37.00% | ~598 |
-| The End | 36.00% | ~582 |
+| The End | 37.00% | ~598 |
 | The Necroevolution | 29.00% | ~469 |
 | Krauta is alive | 28.00% | ~452 |
 | On her own | 22.00% | ~356 |
@@ -21,7 +21,7 @@ Rating: 4.60 (Ranked 431)
 | Fierce fight | 21.00% | ~339 |
 | Evacuation | 20.00% | ~323 |
 | Beyond divisions | 18.00% | ~291 |
-| Flying Objects Operator | 16.00% | ~259 |
+| Flying Objects Operator | 17.00% | ~275 |
 | I remember everything! | 13.00% | ~210 |
 | Another giant | 13.00% | ~210 |
 | Violent solution | 9.00% | ~145 |
@@ -29,8 +29,8 @@ Rating: 4.60 (Ranked 431)
 | Innate curiosity | 7.00% | ~113 |
 | Ubiquitous holes | 6.00% | ~97 |
 | The Invincible | 6.00% | ~97 |
+| Got lost again | 6.00% | ~97 |
 | Strong objection | 6.00% | ~97 |
-| Got lost again | 5.00% | ~81 |
 | I leave no man behind (no exceptions) | 2.00% | ~32 |
 | Convoy list | 0.90% | ~15 |
 | No more mistakes | 0.80% | ~13 |

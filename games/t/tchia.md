@@ -27,8 +27,8 @@ Rating: 4.70 (Ranked 218)
 | Snip Snip | 0.10% | ~9 |
 | Thing | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,860 (Ranked 186)  
-Completed: 35 (0.40%) (Ranked 237)  
+Progressed: 8,861 (Ranked 186)  
+Completed: 35 (0.39%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -291,7 +291,7 @@ Completed: 35 (0.40%) (Ranked 237)
 | 2024-01-08 | 8,806 | 35 |
 | 2024-01-09 | 8,829 | 35 |
 | 2024-01-10 | 8,859 | 35 |
-| 2024-01-11 | 8,860 | 35 |
+| 2024-01-11 | 8,861 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

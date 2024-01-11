@@ -2,9 +2,9 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 218,
-  "Ranking_Popularity": 359,
-  "Ranking_PopularitySum": 459,
+  "Ranking_Rating": 236,
+  "Ranking_Popularity": 358,
+  "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 106,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.7,
+  "Rating": 4.69,
   "RatingHistory": [
     {
       "Time": "2023-12-11T06:59:42.897175+00:00",
@@ -303,23 +303,29 @@
       "Rating": 4.7,
       "NumberOfAwards": 116,
       "NumberOfAwardsMax": 116
+    },
+    {
+      "Time": "2024-01-11T01:49:02.1009+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 119,
+      "NumberOfAwardsMax": 119
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 116,
-  "NumberOfAwardsMax": 116,
+  "NumberOfAwards": 119,
+  "NumberOfAwardsMax": 119,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 116
+      "Count": 119
     }
   ],
-  "EOS_Progressed": 11007,
+  "EOS_Progressed": 11014,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1106,
+  "EOS_NewPlayers": 1101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4417,6 +4423,11 @@
       "Time": "2024-01-11T00:10:17.4400746+00:00",
       "NumProgressed": 11007,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T01:59:53.0955383+00:00",
+      "NumProgressed": 11014,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4429,7 +4440,7 @@
       "Name": "Conspiracy",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1983
     },
     {
       "ID": "03_TheStolenStar",
@@ -4437,7 +4448,7 @@
       "Name": "Stolen Star",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -4445,7 +4456,7 @@
       "Name": "Trade Empire",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -4453,7 +4464,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -4525,7 +4536,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "15_Pentakill",
@@ -4541,7 +4552,7 @@
       "Name": "The Rise",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "17_TheExemplar",
@@ -4549,7 +4560,7 @@
       "Name": "Exemplar",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -4557,7 +4568,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "19_TheVoidWolf",
@@ -4587,9 +4598,9 @@
       "ID": "22_PerfectTiming",
       "SetID": "37a94m8",
       "Name": "Perfect Timing",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1212
     },
     {
       "ID": "23_DynastyRestored",
@@ -4597,7 +4608,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "24_TheHighrise",
@@ -4605,7 +4616,7 @@
       "Name": "Highrise",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "25_DynastyProspers",
@@ -4757,7 +4768,7 @@
       "Name": "No Place Like Home",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -4781,7 +4792,7 @@
       "Name": "A Spark",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "47_AFlame",
@@ -4813,7 +4824,7 @@
       "Name": "Whodunit?",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -4948,16 +4959,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11007,
+      "Progressed": 11014,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-01-10T20:58:59.8662367+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:10:17.4400744+00:00",
+  "LastChanged": "2024-01-11T01:49:02.1008978+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:59:53.0955381+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:58:58.8851978+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:10:17.4401393+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:49:02.1009003+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:59:53.0956174+00:00"
 }

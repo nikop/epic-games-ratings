@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4019,
+  "EOS_Progressed": 4020,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5597,6 +5597,11 @@
       "Time": "2024-01-10T21:04:10.706263+00:00",
       "NumProgressed": 4019,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-11T01:54:18.5463199+00:00",
+      "NumProgressed": 4020,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5744,7 +5749,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 3014
+      "UsersEstimate": 3015
     },
     {
       "ID": "campaign20",
@@ -5760,7 +5765,7 @@
       "Name": "Economics 101",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 2371
+      "UsersEstimate": 2372
     },
     {
       "ID": "campaign4",
@@ -5784,7 +5789,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "campaign7",
@@ -5824,7 +5829,7 @@
       "Name": "Full Employment",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "scenario3",
@@ -5871,7 +5876,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 4019,
+      "Progressed": 4020,
       "Completed": 11
     }
   ],
@@ -5879,8 +5884,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2024-01-05T08:58:52.7711213+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:04:24.1683156+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:54:18.5463194+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:04.3464482+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:57:29.2622498+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:04:24.1683612+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:46:48.0314048+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:54:18.5463622+00:00"
 }

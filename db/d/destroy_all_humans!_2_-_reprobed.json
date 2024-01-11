@@ -4,11 +4,11 @@
   "ProductSlug": "destroy-all-humans-2-reprobed",
   "Ranking_Rating": 551,
   "Ranking_Popularity": 499,
-  "Ranking_PopularitySum": 532,
-  "Ranking_EOS_Progress": 371,
+  "Ranking_PopularitySum": 531,
+  "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 402,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -1831,6 +1831,11 @@
       "Time": "2024-01-11T00:09:35.7675293+00:00",
       "NumProgressed": 400,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-11T01:58:54.4013764+00:00",
+      "NumProgressed": 402,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1843,7 +1848,7 @@
       "Name": "Mash Machine",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1865,7 +1870,7 @@
       "ID": "ACH_BASKETBALL_SLAM",
       "SetID": "4n84pon",
       "Name": "PK Slam Dunk",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -1875,7 +1880,7 @@
       "Name": "Furon Fashion",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1889,7 +1894,7 @@
       "ID": "ACH_COLLECT_DIEGETIC_ART",
       "SetID": "4n84pon",
       "Name": "Gotta Catch All the Pop Art",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -1897,7 +1902,7 @@
       "ID": "ACH_COLLECT_SOUNDTRACKS",
       "SetID": "4n84pon",
       "Name": "This Is Earth Radio",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -1905,17 +1910,17 @@
       "ID": "ACH_COMPLETE_ALL_OJ",
       "SetID": "4n84pon",
       "Name": "Against All Odds",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -1953,9 +1958,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -1971,7 +1976,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -1979,7 +1984,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 336
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -2001,9 +2006,9 @@
       "ID": "ACH_ENTER_TUNGUSKA",
       "SetID": "4n84pon",
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_KILL_BONGWATER",
@@ -2011,7 +2016,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -2065,9 +2070,9 @@
       "ID": "ACH_KILL_WARSHIP",
       "SetID": "4n84pon",
       "Name": "Scuttled",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_KILL_YETI",
@@ -2081,9 +2086,9 @@
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
       "SetID": "4n84pon",
       "Name": "The Optional Mandate",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_OPEN_FLUFF_MENU",
@@ -2091,7 +2096,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -2099,13 +2104,13 @@
       "Name": "Upgreatest",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
       "SetID": "4n84pon",
       "Name": "Higher Than the Futen Zoku",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -2179,7 +2184,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2194,7 +2199,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 402,
       "Completed": 2
     }
   ],
@@ -2202,8 +2207,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:09:35.7675289+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:58:54.4013759+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:58:28.1540156+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:09:35.7675719+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:48:17.5839835+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:58:54.401425+00:00"
 }

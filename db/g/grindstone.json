@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewPlayers": 373,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -219,9 +219,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5240,
+  "EOS_Progressed": 5241,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -1179,6 +1179,11 @@
       "Time": "2024-01-10T06:04:12.8051338+00:00",
       "NumProgressed": 5240,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-11T01:53:44.4213463+00:00",
+      "NumProgressed": 5241,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -1246,7 +1251,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -1270,7 +1275,7 @@
       "Name": "Hot Potato",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "ACHIEVE_50_MUSHROOMS",
@@ -1294,7 +1299,7 @@
       "Name": "Timber!",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3144
+      "UsersEstimate": 3145
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -1302,7 +1307,7 @@
       "Name": "Yummy!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "ACHIEVE_BIOHAZARD",
@@ -1318,7 +1323,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5135
+      "UsersEstimate": 5136
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1326,7 +1331,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3301
+      "UsersEstimate": 3302
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -1398,7 +1403,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4087
+      "UsersEstimate": 4088
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1406,7 +1411,7 @@
       "Name": "If It Bleeds, You Can Kill It",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_20",
@@ -1478,7 +1483,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5135
+      "UsersEstimate": 5136
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1566,7 +1571,7 @@
       "Name": "Pardon my Slob",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "ACHIEVE_WOKE_UP_INN",
@@ -1574,22 +1579,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3720
+      "UsersEstimate": 3721
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5240,
+      "Progressed": 5241,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-12-26T18:58:09.3460811+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:04:00.2465182+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:53:44.4213457+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:46.5070485+00:00",
-  "LastUpdate_Ratings": "2024-01-11T00:02:47.5057937+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:04:00.2465518+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:51:51.0058442+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:53:44.4213829+00:00"
 }

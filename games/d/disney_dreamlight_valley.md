@@ -1,28 +1,28 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.76 (Ranked 130)  
+Rating: 4.76 (Ranked 129)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 67.00% | ~9,412 |
-| Photographer | 67.00% | ~9,412 |
-| Valley's Helper | 59.00% | ~8,288 |
-| Constructor | 50.00% | ~7,024 |
+| Goofy's Investor | 67.00% | ~9,414 |
+| Photographer | 67.00% | ~9,414 |
+| Valley's Helper | 59.00% | ~8,290 |
+| Constructor | 49.00% | ~6,884 |
 | Renovator | 49.00% | ~6,884 |
-| Bestest Friend | 44.00% | ~6,181 |
-| Banker | 38.00% | ~5,338 |
-| Gardener | 30.00% | ~4,214 |
+| Bestest Friend | 44.00% | ~6,182 |
+| Banker | 38.00% | ~5,339 |
+| Gardener | 30.00% | ~4,215 |
 | Generous | 25.00% | ~3,512 |
-| Chef Cook | 18.00% | ~2,529 |
-| Miner | 11.00% | ~1,545 |
+| Chef Cook | 19.00% | ~2,670 |
+| Miner | 11.00% | ~1,546 |
 | Duty Bound | 8.00% | ~1,124 |
 | Angler | 6.00% | ~843 |
 | Thorn Cleaner | 6.00% | ~843 |
-| Chit Chatter | 3.00% | ~421 |
+| Chit Chatter | 3.00% | ~422 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,048 (Ranked 175)  
+Progressed: 14,050 (Ranked 175)  
 Completed: 348 (2.48%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 348 (2.48%) (Ranked 127)
 | 2024-01-08 | 13,960 | 344 |
 | 2024-01-09 | 14,001 | 345 |
 | 2024-01-10 | 14,047 | 348 |
-| 2024-01-11 | 14,048 | 348 |
+| 2024-01-11 | 14,050 | 348 |
 ## Awards
 Max (Great for Beginners): 1,179  (Ranked 150)  
 Sum: 8,388 (Ranked 109)  

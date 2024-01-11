@@ -28,9 +28,235 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-01-11T01:53:31.81265+00:00",
+  "TotalAchievements": 28,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "5ekljfg",
+      "Name": "Your lessons are boring!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10",
+      "SetID": "5ekljfg",
+      "Name": "Carpe diem",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "11",
+      "SetID": "5ekljfg",
+      "Name": "You\u0027re out!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "14",
+      "SetID": "5ekljfg",
+      "Name": "Friendly Beatdown",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "15",
+      "SetID": "5ekljfg",
+      "Name": "Perfect Parry",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "16",
+      "SetID": "5ekljfg",
+      "Name": "Stylish!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "17",
+      "SetID": "5ekljfg",
+      "Name": "Power Up",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "18",
+      "SetID": "5ekljfg",
+      "Name": "Help an Old Pal?",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "19",
+      "SetID": "5ekljfg",
+      "Name": "Smashed Statues",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2",
+      "SetID": "5ekljfg",
+      "Name": "Killed by Math",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20",
+      "SetID": "5ekljfg",
+      "Name": "A Real Workout",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "21",
+      "SetID": "5ekljfg",
+      "Name": "Defeating the Dark Arts",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "22",
+      "SetID": "5ekljfg",
+      "Name": "Fashionable Beatdown",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "23",
+      "SetID": "5ekljfg",
+      "Name": "A Bye Bye",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "24",
+      "SetID": "5ekljfg",
+      "Name": "So Metal",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "25",
+      "SetID": "5ekljfg",
+      "Name": "Like Father Like Daughter",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "26",
+      "SetID": "5ekljfg",
+      "Name": "O.M.G. Seriously?",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "27",
+      "SetID": "5ekljfg",
+      "Name": "Renegade",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "28",
+      "SetID": "5ekljfg",
+      "Name": "Don\u0027t mess with us!",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "29",
+      "SetID": "5ekljfg",
+      "Name": "TAKE THE WORLD ON",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3",
+      "SetID": "5ekljfg",
+      "Name": "Shop until they drop?",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "31",
+      "SetID": "5ekljfg",
+      "Name": "A New Challenger",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "32",
+      "SetID": "5ekljfg",
+      "Name": "Completionist",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "4",
+      "SetID": "5ekljfg",
+      "Name": "Bona fide bargain",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "5",
+      "SetID": "5ekljfg",
+      "Name": "Master of Unlocking",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "6",
+      "SetID": "5ekljfg",
+      "Name": "An Explosive Entrance",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "7",
+      "SetID": "5ekljfg",
+      "Name": "Full Service",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "8",
+      "SetID": "5ekljfg",
+      "Name": "River City Ransom",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "5ekljfg",
@@ -40,8 +266,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-10T02:27:31.2188456+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:03:51.8019265+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:53:31.8126484+00:00",
   "LastUpdate_AppInfo": "2024-01-10T02:21:27.1449311+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:57:29.1358967+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:03:51.8019284+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:46:47.8508823+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:53:31.8461886+00:00"
 }

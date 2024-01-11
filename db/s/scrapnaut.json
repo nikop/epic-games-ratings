@@ -2428,9 +2428,9 @@
       "ID": "ACH_FIND_10_TREASURES",
       "SetID": "7c4cldc",
       "Name": "Treasure Hunter",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_FIRST_BASE",
@@ -2557,8 +2557,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:09:41.376999+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:59:02.2579159+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2095998+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:57:44.1158075+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:09:41.3770394+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:47:10.3548552+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:59:02.2579494+00:00"
 }

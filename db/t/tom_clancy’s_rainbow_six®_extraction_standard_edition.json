@@ -4,7 +4,7 @@
   "ProductSlug": "rainbow-six-extraction",
   "Ranking_Rating": 613,
   "Ranking_Popularity": 310,
-  "Ranking_PopularitySum": 267,
+  "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 396,
   "Ranking_EOS_NewPlayers": 579,
@@ -2491,10 +2491,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 1119,
       "NumberOfAwardsMax": 187
+    },
+    {
+      "Time": "2024-01-11T01:49:03.9022333+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 1121,
+      "NumberOfAwardsMax": 187
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1119,
+  "NumberOfAwards": 1121,
   "NumberOfAwardsMax": 187,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2526,7 +2532,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 167
+      "Count": 169
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2570,8 +2576,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:18.7941234+00:00",
-  "LastChanged": "2024-01-10T04:58:45.9786117+00:00",
+  "LastChanged": "2024-01-11T01:49:03.9022331+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:56:59.5111629+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:59:00.097298+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:10:00.2096836+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:49:03.9022336+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:59:29.3060424+00:00"
 }

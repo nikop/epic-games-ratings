@@ -3,8 +3,8 @@
   "Name": "Jennifer Wilde Unlikely Revolutionaries",
   "ProductSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
   "Ranking_EOS_Progress": 525,
-  "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 467,
+  "Ranking_EOS_Completed": 90,
+  "Ranking_EOS_NewPlayers": 455,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-09T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72,
+  "EOS_Progressed": 73,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.17,
+  "EOS_Completed_Percentage": 4.11,
   "EosHistory": [
     {
       "Time": "2023-05-23T11:00:16.5750246+00:00",
@@ -374,6 +374,11 @@
       "Time": "2024-01-09T20:03:51.9289752+00:00",
       "NumProgressed": 72,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-11T01:54:48.0930916+00:00",
+      "NumProgressed": 73,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 10,
@@ -383,7 +388,7 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "1ejicho",
       "Name": "Clothes Hunter",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 100,
       "UsersEstimate": 17
     },
@@ -391,7 +396,7 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "1ejicho",
       "Name": "Con Artist",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 100,
       "UsersEstimate": 17
     },
@@ -407,7 +412,7 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "1ejicho",
       "Name": "Bedtime Storyteller",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 100,
       "UsersEstimate": 12
     },
@@ -439,7 +444,7 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "1ejicho",
       "Name": "Card Sharp",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 100,
       "UsersEstimate": 9
     },
@@ -464,14 +469,14 @@
     {
       "ID": "1ejicho",
       "IsBase": true,
-      "Progressed": 72,
+      "Progressed": 73,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-11T16:59:26.254378+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:04:44.6104759+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:54:48.0930912+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.304665+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:59:11.747365+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:04:44.6104839+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:49:23.0938625+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:54:48.0931004+00:00"
 }

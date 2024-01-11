@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 265,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1676,9 +1676,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 138672,
+  "EOS_Progressed": 138675,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 1437,
+  "EOS_NewPlayers": 1432,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28091,6 +28091,11 @@
       "Time": "2024-01-11T00:09:01.5098771+00:00",
       "NumProgressed": 138672,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-11T01:58:04.3870964+00:00",
+      "NumProgressed": 138675,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -28134,7 +28139,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 24961
+      "UsersEstimate": 24962
     },
     {
       "ID": "ACH_COP_BAD",
@@ -28142,7 +28147,7 @@
       "Name": "Baddest Of the Bad Cops",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "ACH_COP_BORING",
@@ -28182,7 +28187,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 38828
+      "UsersEstimate": 38829
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -28214,7 +28219,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 27734
+      "UsersEstimate": 27735
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -28222,7 +28227,7 @@
       "Name": "Expert Advanced Remote Viewer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "ACH_COP_SORRY",
@@ -28230,7 +28235,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 18027
+      "UsersEstimate": 18028
     },
     {
       "ID": "ACH_COP_STAR",
@@ -28254,7 +28259,7 @@
       "Name": "Recruit Detective Kuuno de Ruyter",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "ACH_DOLORES",
@@ -28262,7 +28267,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 12480
+      "UsersEstimate": 12481
     },
     {
       "ID": "ACH_GLUTEN",
@@ -28318,7 +28323,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 19414
+      "UsersEstimate": 19415
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -28382,7 +28387,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 19414
+      "UsersEstimate": 19415
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -28390,7 +28395,7 @@
       "Name": "Wheel of Pleasure and Light",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "ACH_POWERARMOR",
@@ -28421,15 +28426,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 138672,
+      "Progressed": 138675,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-10T21:59:24.5202954+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:09:01.5098768+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:58:04.3870958+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.1301003+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:59:17.3212201+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:09:01.5100193+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:49:31.9184447+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:58:04.3872575+00:00"
 }

@@ -6,26 +6,26 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~945 |
+| Malpractice Assurance | 13.00% | ~946 |
 | Lost and Found | 8.00% | ~582 |
-| Autodidact | 7.00% | ~9,268 |
-| This guy... again? | 7.00% | ~509 |
-| Serenity Now! | 6.00% | ~7,944 |
-| This Belongs in a Museum | 6.00% | ~7,944 |
-| Creep and Sleep | 6.00% | ~7,944 |
-| Overdue Notice | 6.00% | ~7,944 |
-| Escape from the Black Hole | 6.00% | ~7,944 |
-| Ploughshares to Swords | 6.00% | ~436 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,620 |
-| It Rings a Bell | 5.00% | ~6,620 |
-| Not Today! | 5.00% | ~6,620 |
-| Meat and Greet | 5.00% | ~6,620 |
-| Catch and Decease | 5.00% | ~6,620 |
-| It Happens | 5.00% | ~6,620 |
-| Rush Hour | 5.00% | ~6,620 |
-| To Grandmother's House | 5.00% | ~6,620 |
-| A Place to Lay Your Head | 5.00% | ~6,620 |
-| FNG | 5.00% | ~6,620 |
+| Autodidact | 7.00% | ~9,269 |
+| This guy... again? | 7.00% | ~510 |
+| Serenity Now! | 6.00% | ~7,945 |
+| This Belongs in a Museum | 6.00% | ~7,945 |
+| Creep and Sleep | 6.00% | ~7,945 |
+| Overdue Notice | 6.00% | ~7,945 |
+| Escape from the Black Hole | 6.00% | ~7,945 |
+| Ploughshares to Swords | 6.00% | ~437 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,621 |
+| It Rings a Bell | 5.00% | ~6,621 |
+| Not Today! | 5.00% | ~6,621 |
+| Meat and Greet | 5.00% | ~6,621 |
+| Catch and Decease | 5.00% | ~6,621 |
+| It Happens | 5.00% | ~6,621 |
+| Rush Hour | 5.00% | ~6,621 |
+| To Grandmother's House | 5.00% | ~6,621 |
+| A Place to Lay Your Head | 5.00% | ~6,621 |
+| FNG | 5.00% | ~6,621 |
 | Bloody Graduation | 5.00% | ~364 |
 | Spelunker | 4.00% | ~5,296 |
 | Merry Time | 4.00% | ~5,296 |
@@ -68,7 +68,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 1.00% | ~73 |
 | Slap on the Wrist | 1.00% | ~73 |
 | For Old Time' Sake | 1.00% | ~73 |
-| Et Tu, Riposte? | 0.90% | ~65 |
+| Et Tu, Riposte? | 0.90% | ~66 |
 | The World As It Was | 0.70% | ~927 |
 | A Life Well Lived | 0.60% | ~794 |
 | Bacon Bits | 0.60% | ~794 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,401 (Ranked 91)  
+Progressed: 132,411 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,15 +342,15 @@ Completed: 4 (0.00%) (Ranked 396)
 | 2024-01-08 | 132,215 | 3 |
 | 2024-01-09 | 132,315 | 3 |
 | 2024-01-10 | 132,395 | 4 |
-| 2024-01-11 | 132,401 | 4 |
+| 2024-01-11 | 132,411 | 4 |
 ## Awards
 Max (Character Customization): 8,000  (Ranked 50)  
-Sum: 21,576 (Ranked 58)  
+Sum: 21,580 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,000 |
-| This game has Diverse Characters | 1,839 |
+| This game has Diverse Characters | 1,843 |
 | This game has Challenging Combat | 1,676 |
 | This game is Highly Recommended | 1,603 |
 | This game has Amazing Characters | 1,529 |
@@ -712,3 +712,4 @@ Diff (max vs sum): -8
 | 2024-01-08 | 4.68 | - | 7,992 | 21,547 |
 | 2024-01-09 | 4.68 | - | 7,992 | 21,561 |
 | 2024-01-10 | 4.68 | - | 8,000 | 21,576 |
+| 2024-01-11 | 4.68 | - | 8,000 | 21,580 |

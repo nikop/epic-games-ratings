@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,130 |
+| A Brief Tour of the Realms | 4.00% | ~10,131 |
 | The Cursed Farmer | 2.00% | ~5,065 |
 | Beast Intentions | 1.00% | ~2,533 |
 | The Mad Wizard | 1.00% | ~2,533 |
 | The Ring of Regeneration | 0.90% | ~2,279 |
+| Were-verpowered | 0.80% | ~2,026 |
 | Are Ya Chicken? | 0.80% | ~2,026 |
 | Welcome to Sigil | 0.80% | ~1,756 |
-| Were-verpowered | 0.70% | ~1,773 |
 | Seeking Allies | 0.70% | ~1,773 |
 | Mad Cow Disease | 0.70% | ~1,773 |
 | Friendly Imps | 0.70% | ~1,773 |
@@ -70,6 +70,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dinosaur Racing | 0.20% | ~507 |
 | Close Escort | 0.20% | ~507 |
 | Constant Banditry | 0.20% | ~507 |
+| The Long Haul | 0.20% | ~507 |
 | Lost in the Deep | 0.20% | ~507 |
 | Easily Distracted | 0.20% | ~507 |
 | Overdue Rendezvous | 0.20% | ~507 |
@@ -425,7 +426,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~220 |
 | Mirage Arcane | 0.10% | ~220 |
 | Only Human | 0.10% | ~220 |
-| The Long Haul | 0.10% | ~253 |
 | Rude Welcome | 0.10% | ~253 |
 | Moose Tracks | 0.10% | ~220 |
 | An Awakened Axe | 0.10% | ~220 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,253 (Ranked 71)  
+Progressed: 253,270 (Ranked 71)  
 Completed: 2,611 (1.03%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -819,7 +819,7 @@ Completed: 2,611 (1.03%) (Ranked 175)
 | 2024-01-08 | 252,794 | 2,602 |
 | 2024-01-09 | 253,044 | 2,606 |
 | 2024-01-10 | 253,250 | 2,611 |
-| 2024-01-11 | 253,253 | 2,611 |
+| 2024-01-11 | 253,270 | 2,611 |
 ## Awards
 Max (Great for Beginners): 5,770  (Ranked 74)  
 Sum: 33,432 (Ranked 41)  

@@ -1,7 +1,7 @@
 # Haven
 [Store](https://store.epicgames.com/en-US/p/haven)  
 [View Rawdata](../../db/h/haven.json)  
-Rating: 4.76 (Ranked 130)  
+Rating: 4.76 (Ranked 129)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,7 +10,7 @@ Number of Ratings: 38  (23.09.2022)
 | Lovebirds | 42.00% | ~822 |
 | Life’s short, ride long | 38.00% | ~743 |
 | Hug therapy | 37.00% | ~724 |
-| Over my dead body | 33.00% | ~645 |
+| Over my dead body | 34.00% | ~665 |
 | Shake the rust off their feet | 17.00% | ~333 |
 | Strike! | 16.00% | ~313 |
 | My little pony | 16.00% | ~313 |

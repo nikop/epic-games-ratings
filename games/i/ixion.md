@@ -5,14 +5,14 @@ Rating: 4.58 (Ranked 470)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 33.00% | ~1,369 |
-| Sputnik 2049 | 29.00% | ~1,203 |
+| Wakey Wakey | 33.00% | ~1,370 |
+| Sputnik 2049 | 29.00% | ~1,204 |
 | Infinite Growth... | 28.00% | ~1,162 |
 | Without Breaking Some Eggs... | 27.00% | ~1,120 |
 | Space Society | 19.00% | ~788 |
 | A Thousand Strong | 19.00% | ~788 |
 | Ready for a New World | 19.00% | ~788 |
-| Permanent Redesigns | 17.00% | ~705 |
+| Permanent Redesigns | 17.00% | ~706 |
 | Fully Recycled | 15.00% | ~622 |
 | Ain't Nobody Got Time for That | 15.00% | ~622 |
 | The Ship of Theseus | 15.00% | ~622 |
@@ -21,9 +21,9 @@ Rating: 4.58 (Ranked 470)
 | A Hunk of Junk | 12.00% | ~498 |
 | Exceeding Capacity | 12.00% | ~498 |
 | Breaking Protocol | 12.00% | ~498 |
-| Man's Best Friend | 9.00% | ~373 |
-| Power Outage | 9.00% | ~373 |
-| Please Make it Stop! | 9.00% | ~373 |
+| Man's Best Friend | 9.00% | ~374 |
+| Power Outage | 9.00% | ~374 |
+| Please Make it Stop! | 9.00% | ~374 |
 | Sightseeing | 8.00% | ~332 |
 | Convenient Transport | 8.00% | ~332 |
 | Access Granted | 7.00% | ~290 |
@@ -31,12 +31,12 @@ Rating: 4.58 (Ranked 470)
 | From the Past | 7.00% | ~290 |
 | All in Good Health | 6.00% | ~249 |
 | Drill-dozer | 6.00% | ~249 |
-| Oats | 5.00% | ~207 |
-| What They Hide From Us | 5.00% | ~207 |
-| ...  in a finite world | 5.00% | ~207 |
-| In Dolos We Trust | 5.00% | ~207 |
-| BRAWL! | 5.00% | ~207 |
-| What the Ruins Teach Us | 5.00% | ~207 |
+| Oats | 5.00% | ~208 |
+| What They Hide From Us | 5.00% | ~208 |
+| ...  in a finite world | 5.00% | ~208 |
+| In Dolos We Trust | 5.00% | ~208 |
+| BRAWL! | 5.00% | ~208 |
+| What the Ruins Teach Us | 5.00% | ~208 |
 | Sustainable Energy | 4.00% | ~166 |
 | Pedal to the Metal | 4.00% | ~166 |
 | Praise the Hull! | 3.00% | ~124 |
@@ -49,10 +49,10 @@ Rating: 4.58 (Ranked 470)
 | Catastrophe Avoided | 2.00% | ~83 |
 | You Had One Job... | 2.00% | ~83 |
 | Tiqqun Unchained | 2.00% | ~83 |
-| Better Him Than Me | 1.00% | ~41 |
-| Remember the Dead | 1.00% | ~41 |
-| Gregor Spinoza | 1.00% | ~41 |
-| Scientifically Accurate | 1.00% | ~41 |
+| Better Him Than Me | 1.00% | ~42 |
+| Remember the Dead | 1.00% | ~42 |
+| Gregor Spinoza | 1.00% | ~42 |
+| Scientifically Accurate | 1.00% | ~42 |
 | Work Harder | 0.70% | ~29 |
 | Soylent Green | 0.50% | ~21 |
 | Crunch Culture | 0.40% | ~17 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 470)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,149 (Ranked 211)  
+Progressed: 4,150 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 0 (0.00%) (Ranked 396)
 | 2024-01-08 | 4,096 | 0 |
 | 2024-01-09 | 4,126 | 0 |
 | 2024-01-10 | 4,148 | 0 |
-| 2024-01-11 | 4,149 | 0 |
+| 2024-01-11 | 4,150 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

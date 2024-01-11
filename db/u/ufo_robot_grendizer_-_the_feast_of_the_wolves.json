@@ -2,9 +2,9 @@
   "ID": "3a077bc4fa864985b8c0b343176226d2",
   "Name": "UFO ROBOT GRENDIZER - The Feast of the Wolves",
   "ProductSlug": "goldorak-d90cf1",
-  "Ranking_EOS_Progress": 518,
+  "Ranking_EOS_Progress": 516,
   "Ranking_EOS_Completed": 396,
-  "Ranking_EOS_NewPlayers": 373,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78,
+  "EOS_Progressed": 79,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -404,6 +404,11 @@
       "Time": "2024-01-10T17:06:23.2092175+00:00",
       "NumProgressed": 78,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T01:56:56.3368844+00:00",
+      "NumProgressed": 79,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-14T10:09:31.9139151+00:00",
@@ -446,7 +451,7 @@
       "ID": "ACH_FIRSTCONTACT",
       "SetID": "ch874lb",
       "Name": "First Contact",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 35,
       "UsersEstimate": 31
     },
@@ -454,7 +459,7 @@
       "ID": "ACH_FIRSTDEATH",
       "SetID": "ch874lb",
       "Name": "Strength in Defeat",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 35,
       "UsersEstimate": 38
     },
@@ -464,7 +469,7 @@
       "Name": "The Remains of Fleed",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_FIRSTMEDITATION",
@@ -472,7 +477,7 @@
       "Name": "Life of Pi",
       "Percentage": 53,
       "XP": 35,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_FIRSTSKINCHANGE",
@@ -536,7 +541,7 @@
       "Name": "The Legend",
       "Percentage": 53,
       "XP": 35,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_PERFECTDODGE",
@@ -655,14 +660,14 @@
     {
       "ID": "ch874lb",
       "IsBase": true,
-      "Progressed": 78,
+      "Progressed": 79,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:06:12.7007732+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:56:56.3368842+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:49.9847922+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:58:05.3827427+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:06:12.7007912+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:47:43.7568167+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:56:56.3369064+00:00"
 }

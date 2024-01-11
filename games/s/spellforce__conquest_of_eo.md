@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Home Sweet Home | 89.00% | ~123 |
-| Enough rooms to swing a cat | 77.00% | ~106 |
-| First to the post | 77.00% | ~106 |
+| Enough rooms to swing a cat | 78.00% | ~108 |
+| First to the post | 78.00% | ~108 |
 | A kind of Magic | 67.00% | ~92 |
 | Connected | 59.00% | ~81 |
 | Expansion | 55.00% | ~76 |
-| Mine! | 52.00% | ~72 |
+| Mine! | 53.00% | ~73 |
 | Harvest Time | 51.00% | ~70 |
 | Artificer's Apprentice | 43.00% | ~59 |
 | Fly the friendly Sky | 41.00% | ~57 |

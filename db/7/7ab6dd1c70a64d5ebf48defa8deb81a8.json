@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -85,9 +85,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2213,
+  "EOS_Progressed": 2214,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 476,
+  "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -4205,6 +4205,11 @@
       "Time": "2024-01-10T23:09:55.8172137+00:00",
       "NumProgressed": 2213,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T01:59:55.5457814+00:00",
+      "NumProgressed": 2214,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -4216,7 +4221,7 @@
       "Name": "Break Out",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "ACH_02",
@@ -4232,7 +4237,7 @@
       "Name": "Powerful Allies",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ACH_04",
@@ -4272,7 +4277,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "ACH_09",
@@ -4286,9 +4291,9 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 686
+      "UsersEstimate": 708
     },
     {
       "ID": "ACH_11",
@@ -4472,7 +4477,7 @@
       "Name": "The Collector",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "ACH_35",
@@ -4503,7 +4508,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2213,
+      "Progressed": 2214,
       "Completed": 4
     }
   ],
@@ -4511,8 +4516,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-09T14:59:34.4882092+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:10:19.3354215+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:59:55.5457811+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-11T00:02:33.8016014+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:10:19.33547+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:50:57.9286927+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:59:55.5458439+00:00"
 }

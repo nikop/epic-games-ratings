@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 396,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 267,
+  "EOS_Progressed": 268,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1199,6 +1199,11 @@
       "Time": "2024-01-10T20:09:19.7291506+00:00",
       "NumProgressed": 267,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T01:58:36.1102468+00:00",
+      "NumProgressed": 268,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1283,7 +1288,7 @@
       "Name": "End Of The Road",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1363,7 +1368,7 @@
       "Name": "Not A Lost Girl",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1379,7 +1384,7 @@
       "Name": "Queen Without A Throne",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "SG_SAYINGGOODBYE",
@@ -1459,7 +1464,7 @@
       "Name": "The Muse\u2019s Encore",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "SG_THEQUEENOFTHEDEAD",
@@ -1506,14 +1511,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 267,
+      "Progressed": 268,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:09:23.2570882+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:58:36.1102465+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-11T00:00:06.5748154+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:09:23.2571144+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:50:48.7820566+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:58:36.1102812+00:00"
 }

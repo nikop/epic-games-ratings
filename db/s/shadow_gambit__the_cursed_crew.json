@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1515,
+  "EOS_Progressed": 1516,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.44,
   "EosHistory": [
@@ -5231,6 +5231,11 @@
       "Time": "2024-01-10T23:06:10.9803063+00:00",
       "NumProgressed": 1515,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-11T01:57:12.9667093+00:00",
+      "NumProgressed": 1516,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5251,7 +5256,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "_03_FinishAct1",
@@ -5259,7 +5264,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -5275,7 +5280,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -5299,7 +5304,7 @@
       "Name": "Swabbie",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "_09_Completion_20",
@@ -5371,7 +5376,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -5387,7 +5392,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -5450,7 +5455,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1515,
+      "Progressed": 1516,
       "Completed": 37
     }
   ],
@@ -5458,8 +5463,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-09T20:59:58.0673284+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:08:25.538507+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:57:12.966709+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.9098347+00:00",
-  "LastUpdate_Ratings": "2024-01-11T00:02:44.3949012+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:08:25.5385514+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:51:16.3310392+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:57:12.9667461+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 262,
-  "Ranking_Popularity": 523,
+  "Ranking_Popularity": 522,
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 396,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1129,
+  "EOS_Progressed": 1130,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3932,6 +3932,11 @@
       "Time": "2024-01-10T21:09:09.4871059+00:00",
       "NumProgressed": 1129,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T01:58:52.3637859+00:00",
+      "NumProgressed": 1130,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4272,7 +4277,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "WielderLevel2",
@@ -4375,15 +4380,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1129,
+      "Progressed": 1130,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:09:34.4172788+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:58:52.3637855+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:57:44.9352614+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:09:34.4173499+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:47:11.5715839+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:58:52.3638592+00:00"
 }

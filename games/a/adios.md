@@ -5,33 +5,33 @@ Rating: 3.51 (Ranked 1,096)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~18,306 |
-| Master, Commander | 21.00% | ~17,473 |
-| Hard Worker | 20.00% | ~16,641 |
-| Adios, Friendo | 19.00% | ~15,809 |
-| Mechanic | 19.00% | ~15,809 |
-| Bottom's Up | 18.00% | ~14,977 |
-| Nice Try | 16.00% | ~13,313 |
-| Right On Target | 14.00% | ~11,649 |
-| Piano Man | 11.00% | ~9,153 |
-| Lazy Bones | 9.00% | ~7,489 |
-| Vinyl Vibes | 8.00% | ~6,657 |
-| Nothing Left to Say | 7.00% | ~5,824 |
-| Sniper | 7.00% | ~5,824 |
-| Cut Call | 6.00% | ~4,992 |
-| Magnetic Miracles | 5.00% | ~4,160 |
-| Butcher | 4.00% | ~3,328 |
-| Fair's Fair | 4.00% | ~3,328 |
-| Spicy | 4.00% | ~3,328 |
-| A Man Of Taste | 3.00% | ~2,496 |
-| Ace in the Hole | 3.00% | ~2,496 |
-| Hearty | 3.00% | ~2,496 |
-| Meaty | 3.00% | ~2,496 |
-| Taco Toto | 3.00% | ~2,496 |
+| Be Seeing You | 22.00% | ~18,309 |
+| Master, Commander | 21.00% | ~17,476 |
+| Hard Worker | 20.00% | ~16,644 |
+| Adios, Friendo | 19.00% | ~15,812 |
+| Mechanic | 19.00% | ~15,812 |
+| Bottom's Up | 18.00% | ~14,980 |
+| Nice Try | 16.00% | ~13,315 |
+| Right On Target | 14.00% | ~11,651 |
+| Piano Man | 11.00% | ~9,154 |
+| Lazy Bones | 9.00% | ~7,490 |
+| Vinyl Vibes | 8.00% | ~6,658 |
+| Nothing Left to Say | 7.00% | ~5,825 |
+| Sniper | 7.00% | ~5,825 |
+| Cut Call | 6.00% | ~4,993 |
+| Magnetic Miracles | 5.00% | ~4,161 |
+| Butcher | 4.00% | ~3,329 |
+| Fair's Fair | 4.00% | ~3,329 |
+| Spicy | 4.00% | ~3,329 |
+| A Man Of Taste | 3.00% | ~2,497 |
+| Ace in the Hole | 3.00% | ~2,497 |
+| Hearty | 3.00% | ~2,497 |
+| Meaty | 3.00% | ~2,497 |
+| Taco Toto | 3.00% | ~2,497 |
 | Audiophile | 2.00% | ~1,664 |
 | Tape Head | 2.00% | ~1,664 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,207 (Ranked 108)  
+Progressed: 83,221 (Ranked 108)  
 Completed: 928 (1.12%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 928 (1.12%) (Ranked 168)
 | 2024-01-08 | 83,086 | 925 |
 | 2024-01-09 | 83,149 | 927 |
 | 2024-01-10 | 83,203 | 928 |
-| 2024-01-11 | 83,207 | 928 |
+| 2024-01-11 | 83,221 | 928 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

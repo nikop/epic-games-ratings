@@ -837,9 +837,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3876,
+  "EOS_Progressed": 3877,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5887,6 +5887,11 @@
       "Time": "2024-01-11T00:05:21.635475+00:00",
       "NumProgressed": 3876,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T01:55:42.1268841+00:00",
+      "NumProgressed": 3877,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5914,7 +5919,7 @@
       "Name": "Look Over There!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "BloodAndIron",
@@ -6122,7 +6127,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "Kills_Streak",
@@ -6146,7 +6151,7 @@
       "Name": "An Ill Omen",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -6441,21 +6446,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3876,
+      "Progressed": 3877,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3876,
+      "Progressed": 3877,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-07T22:03:18.1525827+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:05:21.6354748+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:55:42.1268835+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:54.2702622+00:00",
-  "LastUpdate_Ratings": "2024-01-11T00:03:17.2416597+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:05:21.6355472+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:52:38.8233715+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:55:42.1269594+00:00"
 }

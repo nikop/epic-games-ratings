@@ -1,7 +1,7 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 130)  
+Rating: 4.76 (Ranked 129)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,12 +19,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Demonic and Divine | 7.00% | ~926 |
 | Great Upstart | 6.00% | ~794 |
 | All Paths Open | 6.00% | ~794 |
-| Path of the Azata | 5.00% | ~661 |
-| Transformation | 5.00% | ~661 |
-| The Legacy | 5.00% | ~661 |
-| Voice from Your Dreams | 5.00% | ~661 |
-| Next-Door Play | 5.00% | ~661 |
-| Get the Toad | 5.00% | ~661 |
+| Path of the Azata | 5.00% | ~662 |
+| Transformation | 5.00% | ~662 |
+| The Legacy | 5.00% | ~662 |
+| Voice from Your Dreams | 5.00% | ~662 |
+| Next-Door Play | 5.00% | ~662 |
+| Get the Toad | 5.00% | ~662 |
 | Heart of the Fallen Land | 4.00% | ~529 |
 | Divide and Rule | 4.00% | ~529 |
 | Mythic Reinforcements | 4.00% | ~529 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,229 (Ranked 176)  
+Progressed: 13,230 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -389,7 +389,7 @@ Completed: 0 (0.00%) (Ranked 396)
 | 2024-01-08 | 13,155 | 0 |
 | 2024-01-09 | 13,184 | 0 |
 | 2024-01-10 | 13,227 | 0 |
-| 2024-01-11 | 13,229 | 0 |
+| 2024-01-11 | 13,230 | 0 |
 ## Awards
 Max (Character Customization): 1,781  (Ranked 130)  
 Sum: 7,213 (Ranked 127)  

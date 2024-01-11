@@ -4,8 +4,8 @@
   "ProductSlug": "atom-rpg-3adb54",
   "Ranking_Rating": 636,
   "Ranking_Popularity": 449,
-  "Ranking_PopularitySum": 507,
-  "Ranking_EOS_Progress": 260,
+  "Ranking_PopularitySum": 506,
+  "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 156,
@@ -415,9 +415,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1708,
+  "EOS_Progressed": 1709,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4535,6 +4535,11 @@
       "Time": "2024-01-10T23:09:52.4481872+00:00",
       "NumProgressed": 1708,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T01:59:51.3342196+00:00",
+      "NumProgressed": 1709,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4602,7 +4607,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "EXPERT_1",
@@ -4634,7 +4639,7 @@
       "Name": "Grave Robber",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "HEAD_BURST_1",
@@ -4810,7 +4815,7 @@
       "Name": "The Vitinsky Rifle",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "WANDERER_1",
@@ -4818,7 +4823,7 @@
       "Name": "Wanderer",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "WISHMASTER_1",
@@ -4833,15 +4838,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1708,
+      "Progressed": 1709,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-07T01:53:39.5717953+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:10:16.0731836+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:59:51.3342193+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-11T00:02:43.7387324+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:10:16.0732356+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:51:15.0673975+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:59:51.3342832+00:00"
 }

@@ -6,20 +6,20 @@
 | ---- | ---------- | ----- |
 | Master trainee | 54.00% | ~49 |
 | You have three wishes left | 48.00% | ~44 |
+| The battle of Great Britain | 38.00% | ~35 |
 | Jung's dream | 37.00% | ~34 |
-| The battle of Great Britain | 37.00% | ~34 |
 | Pulp! Where Monsters Dwell | 31.00% | ~28 |
 | A continent with chemistry | 29.00% | ~26 |
 | The happy farmer girl | 26.00% | ~24 |
+| A rival with no options | 25.00% | ~23 |
 | Giant | 24.00% | ~22 |
-| A rival with no options | 24.00% | ~22 |
 | Pulp! Terror Tales in the Night | 24.00% | ~22 |
 | Pulp! Out of this World | 22.00% | ~20 |
 | Diagnosis: fear | 22.00% | ~20 |
 | Ambition is... blind | 22.00% | ~20 |
+| The artist | 21.00% | ~19 |
 | You have two wishes left | 21.00% | ~19 |
 | Et in arcadia ego | 20.00% | ~18 |
-| The artist | 20.00% | ~18 |
 | Pulp! Adventures into the Unknown | 19.00% | ~17 |
 | The seer | 18.00% | ~16 |
 | Welcome to Hellville | 18.00% | ~16 |
@@ -42,7 +42,7 @@
 | The barbarian invasions | 9.00% | ~8 |
 | Vaccine fans | 7.00% | ~6 |
 | A new Hindenburg | 7.00% | ~6 |
-| Pulp! Tales from the Crypt | 4.00% | ~4 |
+| Pulp! Tales from the Crypt | 5.00% | ~5 |
 | Thirst for Oleum | 3.00% | ~3 |
 | Troy is burning! | 3.00% | ~3 |
 | Pulp! Weird Science | 2.00% | ~2 |

@@ -3,8 +3,8 @@
   "Name": "The Surge",
   "ProductSlug": "the-surge",
   "Ranking_Rating": 705,
-  "Ranking_Popularity": 523,
-  "Ranking_PopularitySum": 544,
+  "Ranking_Popularity": 522,
+  "Ranking_PopularitySum": 543,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 206,
@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5382,
+  "EOS_Progressed": 5384,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -5125,6 +5125,11 @@
       "Time": "2024-01-11T00:04:33.2763491+00:00",
       "NumProgressed": 5382,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-11T01:54:31.6137635+00:00",
+      "NumProgressed": 5384,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5144,7 +5149,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -5152,7 +5157,7 @@
       "Name": "Big Sister",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -5176,7 +5181,7 @@
       "Name": "For the Good of Mankind",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ID_ACHIEV_07",
@@ -5184,7 +5189,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4521
+      "UsersEstimate": 4523
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5192,7 +5197,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5059
+      "UsersEstimate": 5061
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5200,7 +5205,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4090
+      "UsersEstimate": 4092
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -5224,7 +5229,7 @@
       "Name": "Gear Up",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -5248,7 +5253,7 @@
       "Name": "Turing Test",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ID_ACHIEV_16",
@@ -5288,7 +5293,7 @@
       "Name": "Repeat Customer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ID_ACHIEV_21",
@@ -5352,7 +5357,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4090
+      "UsersEstimate": 4092
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5368,7 +5373,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -5376,7 +5381,7 @@
       "Name": "Evolution Theory",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ID_ACHIEV_32",
@@ -5384,7 +5389,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2906
+      "UsersEstimate": 2907
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -5400,7 +5405,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1399
+      "UsersEstimate": 1400
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -5416,7 +5421,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1777
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -5464,7 +5469,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -5472,7 +5477,7 @@
       "Name": "GOLIATH",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -5488,7 +5493,7 @@
       "Name": "SENTINEL",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -5671,15 +5676,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5382,
+      "Progressed": 5384,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:04:33.2763487+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:54:31.6137631+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.5688271+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:58:42.6309072+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:04:33.2764362+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:48:40.3616999+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:54:31.6138611+00:00"
 }

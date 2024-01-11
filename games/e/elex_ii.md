@@ -18,8 +18,8 @@ Number of Ratings: 124  (23.09.2022)
 | Irissa's Fate | 17.00% | ~40 |
 | Pass A38 | 17.00% | ~40 |
 | Long-Haul Flyer | 15.00% | ~35 |
+| Eternal Oblivion | 14.00% | ~33 |
 | Family Reunion | 13.00% | ~30 |
-| Eternal Oblivion | 13.00% | ~30 |
 | Storyteller | 12.00% | ~28 |
 | Globetrotter | 11.00% | ~26 |
 | Banker | 10.00% | ~23 |

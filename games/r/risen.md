@@ -16,17 +16,17 @@ Rating: 4.56 (Ranked 509)
 | Samaritan | 29.00% | ~55 |
 | Ladies' man | 28.00% | ~53 |
 | The merciful one | 27.00% | ~51 |
-| Ferocious wild boars | 22.00% | ~41 |
+| Ferocious wild boars | 23.00% | ~43 |
 | Idiot | 22.00% | ~41 |
 | Beast slayer | 21.00% | ~39 |
 | Death of a legend | 19.00% | ~36 |
 | Ogre friend | 19.00% | ~36 |
 | Archaeologist | 18.00% | ~34 |
 | Family man | 17.00% | ~32 |
+| Sidelined | 17.00% | ~32 |
 | Wise man | 16.00% | ~30 |
 | Little hero | 16.00% | ~30 |
 | The fourth triplet | 16.00% | ~30 |
-| Sidelined | 16.00% | ~30 |
 | Hard worker | 15.00% | ~28 |
 | Fence | 15.00% | ~28 |
 | Ghost hunter | 14.00% | ~26 |

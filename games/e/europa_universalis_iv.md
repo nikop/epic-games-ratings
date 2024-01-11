@@ -1,7 +1,7 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 237)  
+Rating: 4.69 (Ranked 236)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -116,6 +116,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Fine Goosestep | 0.10% | ~496 |
 | First Come, First Serve | 0.10% | ~496 |
 | The First Toungoo Empire | 0.10% | ~496 |
+| For Odin! | 0.10% | ~496 |
 | For the Emperor! | 0.10% | ~496 |
 | Forever Golden | 0.10% | ~496 |
 | Forgive me, for I have Sindh | 0.10% | ~496 |
@@ -341,7 +342,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Eat your Greens | 0.00% | ~0 |
 | Empire of Mann | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
-| For Odin! | 0.00% | ~0 |
 | Frozen Assets | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 496,418 (Ranked 42)  
+Progressed: 496,438 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -636,7 +636,7 @@ Completed: 1 (0.00%) (Ranked 396)
 | 2024-01-08 | 495,265 | 1 |
 | 2024-01-09 | 495,855 | 1 |
 | 2024-01-10 | 496,402 | 1 |
-| 2024-01-11 | 496,418 | 1 |
+| 2024-01-11 | 496,438 | 1 |
 ## Awards
 Max (Educational): 7,790  (Ranked 52)  
 Sum: 64,245 (Ranked 24)  

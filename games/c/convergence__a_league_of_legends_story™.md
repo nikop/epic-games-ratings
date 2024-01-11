@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.69 (Ranked 237)  
+Rating: 4.69 (Ranked 236)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -57,9 +57,9 @@ Rating: 4.69 (Ranked 237)
 | A Lesson in Precision | 0.90% | ~12 |
 | Wildlife Protection | 0.80% | ~10 |
 | Raw Talent | 0.70% | ~9 |
-| Going to Live Forever | 0.50% | ~6 |
+| Going to Live Forever | 0.50% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,300 (Ranked 280)  
+Progressed: 1,301 (Ranked 280)  
 Completed: 7 (0.54%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,6 +231,7 @@ Completed: 7 (0.54%) (Ranked 215)
 | 2024-01-08 | 1,278 | 7 |
 | 2024-01-09 | 1,289 | 7 |
 | 2024-01-10 | 1,300 | 7 |
+| 2024-01-11 | 1,301 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

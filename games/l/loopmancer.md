@@ -49,6 +49,7 @@
 | Escape Master | 2.00% | ~2 |
 | Clairvoyance | 2.00% | ~2 |
 | Encore | 2.00% | ~2 |
+| Terrible Weather | 0.90% | ~1 |
 | Pro Gamer | 0.90% | ~1 |
 | Heavenly Music | 0.90% | ~1 |
 | Cat Lover | 0.90% | ~1 |
@@ -58,7 +59,6 @@
 | Weapon Expert | 0.90% | ~1 |
 | Win by Surprise | 0.90% | ~1 |
 | Thoughts | 0.90% | ~1 |
-| Terrible Weather | 0.00% | ~0 |
 | Extreme Challenge | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

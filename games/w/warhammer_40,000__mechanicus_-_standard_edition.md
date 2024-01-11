@@ -5,18 +5,18 @@ Rating: 4.43 (Ranked 726)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~60,295 |
-| This is only the beginning | 20.00% | ~46,381 |
-| Knowledge is power | 13.00% | ~30,148 |
-| Galvanic Rifle | 10.00% | ~23,190 |
-| Radium Ready | 10.00% | ~23,190 |
-| Power Ranger | 9.00% | ~20,871 |
-| Taser Goad | 9.00% | ~20,871 |
-| Half a cog | 9.00% | ~20,871 |
-| Watch them crumble | 6.00% | ~13,914 |
-| Competent Cohort | 4.00% | ~9,276 |
-| Celestial Cartography Catastrophe | 4.00% | ~9,276 |
-| One with the Machine | 4.00% | ~9,276 |
+| No aid from the Omnissiah | 26.00% | ~60,297 |
+| This is only the beginning | 20.00% | ~46,383 |
+| Knowledge is power | 13.00% | ~30,149 |
+| Galvanic Rifle | 10.00% | ~23,191 |
+| Radium Ready | 10.00% | ~23,191 |
+| Power Ranger | 9.00% | ~20,872 |
+| Taser Goad | 9.00% | ~20,872 |
+| Half a cog | 9.00% | ~20,872 |
+| Watch them crumble | 6.00% | ~13,915 |
+| Competent Cohort | 4.00% | ~9,277 |
+| Celestial Cartography Catastrophe | 4.00% | ~9,277 |
+| One with the Machine | 4.00% | ~9,277 |
 | Legio Cybernetica | 3.00% | ~6,957 |
 | Fleshy Disposal | 3.00% | ~6,957 |
 | Battle Servitor | 2.00% | ~4,638 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 726)
 | Perma-live | 0.10% | ~232 |
 | Purge the Heretek | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,905 (Ranked 77)  
+Progressed: 231,913 (Ranked 77)  
 Completed: 5 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 5 (0.00%) (Ranked 396)
 | 2024-01-08 | 231,760 | 5 |
 | 2024-01-09 | 231,845 | 5 |
 | 2024-01-10 | 231,901 | 5 |
-| 2024-01-11 | 231,905 | 5 |
+| 2024-01-11 | 231,913 | 5 |
 ## Awards
 Max (Highly Recommended): 292  (Ranked 266)  
 Sum: 2,230 (Ranked 212)  

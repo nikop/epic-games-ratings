@@ -573,7 +573,7 @@
   ],
   "EOS_Progressed": 233,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1890,9 +1890,9 @@
       "ID": "KILLKAHN",
       "SetID": "a1angca",
       "Name": "Eternal Oblivion",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "LOVECAJA",
@@ -1914,8 +1914,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:08:28.7189251+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:57:17.6899011+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:22.4582393+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:00:11.7281013+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:08:28.7189707+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:46:04.744411+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:57:17.6899454+00:00"
 }

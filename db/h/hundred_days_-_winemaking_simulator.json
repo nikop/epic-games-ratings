@@ -1117,9 +1117,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 20097,
+  "EOS_Progressed": 20104,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1094,
+  "EOS_NewPlayers": 1098,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -16852,6 +16852,11 @@
       "Time": "2024-01-11T00:09:59.166085+00:00",
       "NumProgressed": 20097,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-11T01:59:27.8579827+00:00",
+      "NumProgressed": 20104,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -16912,7 +16917,7 @@
       "Name": "Bye Bye",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 8642
+      "UsersEstimate": 8645
     },
     {
       "ID": "a_19",
@@ -17088,7 +17093,7 @@
       "Name": "Knight of Langhe",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "a_8",
@@ -17111,7 +17116,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 20097,
+      "Progressed": 20104,
       "Completed": 13
     }
   ],
@@ -17119,8 +17124,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-06T23:58:14.6842319+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:09:59.1660846+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:59:27.8579825+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:04.08822+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:59:48.1459214+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:09:59.1661788+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:50:20.9349736+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:59:27.8580654+00:00"
 }

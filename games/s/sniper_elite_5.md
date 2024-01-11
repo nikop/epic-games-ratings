@@ -7,23 +7,23 @@ Rating: 4.47 (Ranked 665)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~2,003 |
 | Confirming Suspicions | 42.00% | ~1,790 |
-| The Kraken Wakes | 38.00% | ~1,619 |
-| It's Starting to Crack | 35.00% | ~1,491 |
+| The Kraken Wakes | 38.00% | ~1,620 |
+| It's Starting to Crack | 35.00% | ~1,492 |
 | Change the Channel | 32.00% | ~1,364 |
 | Lord of War | 31.00% | ~1,321 |
-| Taking it back | 30.00% | ~1,278 |
+| Taking it back | 30.00% | ~1,279 |
 | Resourceful | 28.00% | ~1,193 |
 | Target America | 28.00% | ~1,193 |
-| The Kraken Sleeps | 25.00% | ~1,065 |
+| The Kraken Sleeps | 25.00% | ~1,066 |
 | As Quiet as a Mouse | 24.00% | ~1,023 |
 | Liberté | 23.00% | ~980 |
 | Organ Grinder | 23.00% | ~980 |
 | Sharpshooter | 23.00% | ~980 |
 | Gunslinger | 19.00% | ~810 |
 | Explosive Efficiency | 19.00% | ~810 |
-| Climbing the Ladder | 17.00% | ~724 |
-| Just a Flesh Wound | 17.00% | ~724 |
-| Der Geist | 17.00% | ~724 |
+| Climbing the Ladder | 17.00% | ~725 |
+| Just a Flesh Wound | 17.00% | ~725 |
+| Der Geist | 17.00% | ~725 |
 | Skirmisher | 16.00% | ~682 |
 | Close Quarters | 16.00% | ~682 |
 | Snake in the Grass | 16.00% | ~682 |
@@ -36,7 +36,7 @@ Rating: 4.47 (Ranked 665)
 | Set Europe Ablaze | 14.00% | ~597 |
 | Precision Is Key | 10.00% | ~426 |
 | My Little Friend | 10.00% | ~426 |
-| Rigged to Blow | 9.00% | ~383 |
+| Rigged to Blow | 9.00% | ~384 |
 | Herr Today, Gone Tomorrow | 7.00% | ~295 |
 | The Long Game | 6.00% | ~256 |
 | Operation Foxley | 6.00% | ~253 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 665)
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,261 (Ranked 210)  
+Progressed: 4,262 (Ranked 210)  
 Completed: 11 (0.26%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,9 +341,10 @@ Completed: 11 (0.26%) (Ranked 264)
 | 2024-01-08 | 4,244 | 11 |
 | 2024-01-09 | 4,249 | 11 |
 | 2024-01-10 | 4,261 | 11 |
+| 2024-01-11 | 4,262 | 11 |
 ## Awards
-Max (Great for Beginners): 29  (Ranked 530)  
-Sum: 29 (Ranked 548)  
+Max (Great for Beginners): 29  (Ranked 529)  
+Sum: 29 (Ranked 547)  
 Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |

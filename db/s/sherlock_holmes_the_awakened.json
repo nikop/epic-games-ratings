@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -175,9 +175,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1433,
+  "EOS_Progressed": 1434,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 3.28,
   "EosHistory": [
@@ -5110,6 +5110,11 @@
       "Time": "2024-01-10T23:05:28.8759665+00:00",
       "NumProgressed": 1433,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2024-01-11T01:56:14.4853887+00:00",
+      "NumProgressed": 1434,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 28,
@@ -5129,7 +5134,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "MQ02_1",
@@ -5161,7 +5166,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "MQ03_1",
@@ -5177,7 +5182,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "MQ03_3",
@@ -5241,7 +5246,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "MQ05_3",
@@ -5265,7 +5270,7 @@
       "Name": "Brain Food",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "MQ06_2",
@@ -5281,7 +5286,7 @@
       "Name": "Land, Ho!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "MQ06_4",
@@ -5344,7 +5349,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1433,
+      "Progressed": 1434,
       "Completed": 47
     }
   ],
@@ -5352,8 +5357,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-09T11:03:12.1824937+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:05:44.2102132+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:56:14.4853879+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:40.4350556+00:00",
-  "LastUpdate_Ratings": "2024-01-11T00:03:15.7440393+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:05:44.2102477+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:52:34.921091+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:56:14.4854257+00:00"
 }

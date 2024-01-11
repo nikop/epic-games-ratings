@@ -14,17 +14,17 @@
 | Conciliator | 9.00% | ~27 |
 | Tactician | 9.00% | ~27 |
 | Fight Another Day | 9.00% | ~27 |
-| Taskmaster | 8.00% | ~24 |
+| Taskmaster | 9.00% | ~27 |
 | Acquaintance | 7.00% | ~21 |
 | Scholar | 6.00% | ~18 |
 | The More the Merrier | 6.00% | ~18 |
 | Harbinger | 6.00% | ~18 |
 | Tail-wind | 6.00% | ~18 |
 | Pilgrimage's End | 6.00% | ~18 |
+| Merchant | 6.00% | ~18 |
 | Strategist | 5.00% | ~15 |
 | Deputized | 5.00% | ~15 |
 | Courier | 5.00% | ~15 |
-| Merchant | 5.00% | ~15 |
 | Quartermaster | 4.00% | ~12 |
 | Been There | 4.00% | ~12 |
 | Spiritual Journey | 4.00% | ~12 |

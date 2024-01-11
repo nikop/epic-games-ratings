@@ -2,7 +2,7 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 237,
+  "Ranking_Rating": 236,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 42,
@@ -14271,9 +14271,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 496418,
+  "EOS_Progressed": 496438,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5012,
+  "EOS_NewPlayers": 4995,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44906,6 +44906,11 @@
       "Time": "2024-01-11T00:10:28.5182125+00:00",
       "NumProgressed": 496418,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T02:00:06.9544233+00:00",
+      "NumProgressed": 496438,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -45731,9 +45736,9 @@
       "ID": "achievement_for_odin",
       "SetID": "8p2n7he",
       "Name": "For Odin!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 496
     },
     {
       "ID": "achievement_for_the_emperor",
@@ -47820,21 +47825,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 496418,
+      "Progressed": 496438,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 496418,
+      "Progressed": 496438,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-10T22:57:38.7823219+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:10:28.5182122+00:00",
+  "LastChanged_Achievements": "2024-01-11T02:00:06.9544228+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.850256+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:57:38.3379562+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:10:28.5193898+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:47:02.5817357+00:00",
+  "LastUpdate_Achievements": "2024-01-11T02:00:06.9555345+00:00"
 }

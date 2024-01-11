@@ -4,8 +4,8 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 488,
+  "EOS_Progressed": 491,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -1889,6 +1889,11 @@
       "Time": "2024-01-11T00:04:41.7162697+00:00",
       "NumProgressed": 488,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-11T01:54:44.0562793+00:00",
+      "NumProgressed": 491,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -1901,7 +1906,7 @@
       "Name": "Sound",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "AC_ALL_COLUMNS",
@@ -1941,7 +1946,7 @@
       "Name": "Arsenal",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "AC_ALL_WEAPON_SLOTS",
@@ -1949,7 +1954,7 @@
       "Name": "Armory",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "AC_BLACKJACK_GAMES_1",
@@ -1973,7 +1978,7 @@
       "Name": "Hunger",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "AC_BOSS_01",
@@ -1981,7 +1986,7 @@
       "Name": "Misery",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "AC_BOSS_02",
@@ -1989,7 +1994,7 @@
       "Name": "Downfall",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "AC_BOSS_03",
@@ -1997,7 +2002,7 @@
       "Name": "Sacrilege",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "AC_BOSS_04",
@@ -2013,7 +2018,7 @@
       "Name": "Pack",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "AC_COMBO_2",
@@ -2045,7 +2050,7 @@
       "Name": "Corpse",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "AC_DEATH_2",
@@ -2069,7 +2074,7 @@
       "Name": "Killer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 246
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -2077,7 +2082,7 @@
       "Name": "Psycopath",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -2091,9 +2096,9 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 390
+      "UsersEstimate": 388
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2101,7 +2106,7 @@
       "Name": "Journey",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -2109,7 +2114,7 @@
       "Name": "Voyage",
       "Percentage": 26,
       "XP": 45,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -2125,7 +2130,7 @@
       "Name": "Creation",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "AC_FLASHBACK_02",
@@ -2141,7 +2146,7 @@
       "Name": "Schooling",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "AC_FULL_MAP",
@@ -2181,7 +2186,7 @@
       "Name": "Cook",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "AC_RECIPES_DONE_2",
@@ -2203,9 +2208,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 187
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -2236,14 +2241,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 488,
+      "Progressed": 491,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:04:41.7162693+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:54:44.0562782+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:59.4542445+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:59:49.6230757+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:04:41.7163067+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:50:23.1905067+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:54:44.0563152+00:00"
 }

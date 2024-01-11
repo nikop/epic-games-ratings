@@ -12,13 +12,13 @@ Rating: 4.29 (Ranked 883)
 | Burn and Pillage | 7.00% | ~93 |
 | Hear me out | 7.00% | ~93 |
 | Listening to the crowd | 6.00% | ~80 |
-| Ascended | 5.00% | ~67 |
 | The Penitent Ones | 5.00% | ~67 |
 | Greedy | 5.00% | ~67 |
 | Hidden Secrets | 5.00% | ~67 |
 | The Stranded King | 5.00% | ~67 |
 | Accepting the Prophecy | 5.00% | ~67 |
 | Just Chilling | 4.00% | ~53 |
+| Ascended | 4.00% | ~53 |
 | Incredible Strength | 4.00% | ~53 |
 | Prophecy Fulfilled | 4.00% | ~53 |
 | The Greedy Ones | 3.00% | ~40 |
@@ -28,8 +28,8 @@ Rating: 4.29 (Ranked 883)
 | The Council | 1.00% | ~13 |
 | The Mad | 1.00% | ~13 |
 | Like the dream | 1.00% | ~13 |
-| Charismatic Leader | 0.80% | ~11 |
 | Metropolis | 0.80% | ~11 |
+| Charismatic Leader | 0.70% | ~9 |
 | Knowledge is Power | 0.70% | ~9 |
 | Red Tape | 0.60% | ~8 |
 | Six Faces | 0.50% | ~7 |
@@ -40,18 +40,18 @@ Rating: 4.29 (Ranked 883)
 | The Incarnate | 0.30% | ~4 |
 | Mad Engineers | 0.20% | ~3 |
 | Aesthetics | 0.20% | ~3 |
-| The experiment | 0.20% | ~3 |
 | The Corrupted | 0.20% | ~3 |
-| The Foul | 0.20% | ~3 |
+| The experiment | 0.10% | ~1 |
 | Break the chains | 0.10% | ~1 |
 | Discover the truth | 0.10% | ~1 |
 | Oktoberfest | 0.10% | ~1 |
+| The Foul | 0.10% | ~1 |
 | Fate is against us | 0.10% | ~1 |
 | Despite everything | 0.10% | ~1 |
 | Purist | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,333 (Ranked 276)  
+Progressed: 1,334 (Ranked 276)  
 Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,6 +269,7 @@ Completed: 0 (0.00%) (Ranked 396)
 | 2024-01-08 | 1,323 | 0 |
 | 2024-01-09 | 1,327 | 0 |
 | 2024-01-10 | 1,333 | 0 |
+| 2024-01-11 | 1,334 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

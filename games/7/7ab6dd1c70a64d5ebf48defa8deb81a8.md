@@ -5,10 +5,10 @@ Rating: 4.15 (Ranked 1,000)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 63.00% | ~1,394 |
-| Trinity | 31.00% | ~686 |
-| A Taste of Wrath | 25.00% | ~553 |
-| The Collector | 25.00% | ~553 |
+| Break Out | 63.00% | ~1,395 |
+| Trinity | 32.00% | ~708 |
+| A Taste of Wrath | 25.00% | ~554 |
+| The Collector | 25.00% | ~554 |
 | Find Allies | 24.00% | ~531 |
 | I Found It | 24.00% | ~531 |
 | Adventurer | 23.00% | ~509 |
@@ -18,7 +18,7 @@ Rating: 4.15 (Ranked 1,000)
 | Scholar | 22.00% | ~487 |
 | Tributes of Caladrias | 20.00% | ~443 |
 | Stone Collection | 20.00% | ~443 |
-| Powerful Allies | 19.00% | ~420 |
+| Powerful Allies | 19.00% | ~421 |
 | Essence Blow | 13.00% | ~288 |
 | Big Bazar | 13.00% | ~288 |
 | Alchemist | 13.00% | ~288 |
@@ -42,7 +42,7 @@ Rating: 4.15 (Ranked 1,000)
 | All That Gold | 0.70% | ~15 |
 | Feeling Fancy | 0.50% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,213 (Ranked 244)  
+Progressed: 2,214 (Ranked 244)  
 Completed: 4 (0.18%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,6 +133,7 @@ Completed: 4 (0.18%) (Ranked 282)
 | 2024-01-08 | 2,086 | 3 |
 | 2024-01-09 | 2,146 | 3 |
 | 2024-01-10 | 2,213 | 4 |
+| 2024-01-11 | 2,214 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

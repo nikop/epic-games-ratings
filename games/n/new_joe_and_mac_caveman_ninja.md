@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The T-Rex plain. | 49.00% | ~149 |
+| The T-Rex plain. | 50.00% | ~152 |
 | Crazy Jungle. | 32.00% | ~98 |
 | A turbulent river. | 18.00% | ~55 |
 | In the treetops. | 17.00% | ~52 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1218,
+  "EOS_Progressed": 1219,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3526,6 +3526,11 @@
       "Time": "2024-01-10T22:03:36.3009324+00:00",
       "NumProgressed": 1218,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T01:53:10.4851894+00:00",
+      "NumProgressed": 1219,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -3537,7 +3542,7 @@
       "Name": "Cabin boy",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "ACH001",
@@ -3545,7 +3550,7 @@
       "Name": "Seafarer",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "ACH002",
@@ -3593,7 +3598,7 @@
       "Name": "My little farm",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "ACH008",
@@ -3625,7 +3630,7 @@
       "Name": "Intangible",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ACH012",
@@ -3657,7 +3662,7 @@
       "Name": "Groundskeeper",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH016",
@@ -3753,7 +3758,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ACH028",
@@ -3769,7 +3774,7 @@
       "Name": "Licence to Kill",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ACH030",
@@ -3825,7 +3830,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "ACH037",
@@ -3833,7 +3838,7 @@
       "Name": "Paths of Glory",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH038",
@@ -3936,15 +3941,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1218,
+      "Progressed": 1219,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:03:37.0760602+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:53:10.4851889+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:24.8175956+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:57:41.2729412+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:03:37.0761045+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:47:07.3172265+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:53:10.4852444+00:00"
 }

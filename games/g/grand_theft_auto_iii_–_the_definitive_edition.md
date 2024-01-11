@@ -5,22 +5,22 @@ Rating: 4.21 (Ranked 954)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~10,110 |
-| Disposing of the Evidence | 39.00% | ~4,751 |
-| Without a Scratch | 34.00% | ~4,142 |
-| Wreckless Driving | 28.00% | ~3,411 |
-| A Marked Man | 26.00% | ~3,167 |
-| Street Sweeper | 19.00% | ~2,314 |
-| Liberty City Minute | 17.00% | ~2,071 |
-| Offshore Delivery | 14.00% | ~1,705 |
+| First Day on the Job | 83.00% | ~10,116 |
+| Disposing of the Evidence | 39.00% | ~4,753 |
+| Without a Scratch | 34.00% | ~4,144 |
+| Wreckless Driving | 28.00% | ~3,413 |
+| A Marked Man | 26.00% | ~3,169 |
+| Street Sweeper | 19.00% | ~2,316 |
+| Liberty City Minute | 17.00% | ~2,072 |
+| Offshore Delivery | 14.00% | ~1,706 |
 | Dirty Money | 13.00% | ~1,584 |
-| By a Mile | 10.00% | ~1,218 |
-| Not So Fast | 10.00% | ~1,218 |
-| Right-hand Man | 10.00% | ~1,218 |
+| By a Mile | 10.00% | ~1,219 |
+| Not So Fast | 10.00% | ~1,219 |
+| Right-hand Man | 10.00% | ~1,219 |
 | A Gift from the King | 7.00% | ~853 |
-| Full Artillery | 4.00% | ~487 |
-| Mob Boss | 3.00% | ~365 |
-| Splish Splash | 3.00% | ~365 |
+| Full Artillery | 4.00% | ~488 |
+| Mob Boss | 3.00% | ~366 |
+| Splish Splash | 3.00% | ~366 |
 | Escape Artist | 2.00% | ~244 |
 | Got This Figured Out | 2.00% | ~244 |
 | Come Out to Play-y-y-y | 2.00% | ~244 |
@@ -35,7 +35,7 @@ Rating: 4.21 (Ranked 954)
 | Is That All You've Got? | 0.90% | ~110 |
 | King of Liberty City | 0.70% | ~85 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,181 (Ranked 178)  
+Progressed: 12,188 (Ranked 178)  
 Completed: 84 (0.69%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 84 (0.69%) (Ranked 199)
 | 2024-01-08 | 11,994 | 83 |
 | 2024-01-09 | 12,067 | 84 |
 | 2024-01-10 | 12,176 | 84 |
-| 2024-01-11 | 12,181 | 84 |
+| 2024-01-11 | 12,188 | 84 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

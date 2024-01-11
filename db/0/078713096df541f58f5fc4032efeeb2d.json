@@ -523,9 +523,9 @@
       "ID": "creepytale3_ach_12",
       "SetID": "7idcjbn",
       "Name": "Exchange of pleasantries",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "creepytale3_ach_14",
@@ -667,9 +667,9 @@
       "ID": "creepytale3_ach_34",
       "SetID": "7idcjbn",
       "Name": "Harvest",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "creepytale3_ach_35",
@@ -770,8 +770,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2024-01-11T00:04:27.4120782+00:00",
+  "LastChanged_Achievements": "2024-01-11T01:54:23.1473347+00:00",
   "LastUpdate_AppInfo": "2024-01-10T08:56:56.6839985+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:59:42.6834443+00:00",
-  "LastUpdate_Achievements": "2024-01-11T00:04:27.4121014+00:00"
+  "LastUpdate_Ratings": "2024-01-11T01:50:12.1908029+00:00",
+  "LastUpdate_Achievements": "2024-01-11T01:54:23.1473542+00:00"
 }
