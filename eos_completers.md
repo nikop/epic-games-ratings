@@ -60,8 +60,8 @@
 | 58 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.22% |
 | 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.08% |
 | 60 | [Sonic Origins](games/s/sonic_origins.md) | 6.97% |
-| 61 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.94% |
-| 62 | [Scorn](games/s/scorn.md) | 6.92% |
+| 61 | [Scorn](games/s/scorn.md) | 6.95% |
+| 62 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.94% |
 | 63 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.80% |
 | 64 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 6.67% |
 | 65 | [Anna's Quest](games/a/anna's_quest.md) | 6.45% |
@@ -147,7 +147,7 @@
 | 145 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.71% |
 | 145 | [Sifu](games/s/sifu.md) | 1.71% |
 | 147 | [Frogun](games/f/frogun.md) | 1.68% |
-| 148 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.66% |
+| 148 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.67% |
 | 149 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.57% |
 | 150 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.48% |
 | 150 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.48% |
@@ -158,12 +158,12 @@
 | 156 | [Poosh XL](games/p/poosh_xl.md) | 1.29% |
 | 157 | [Chorus](games/c/chorus.md) | 1.28% |
 | 158 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 1.27% |
-| 159 | [Late Shift](games/l/late_shift.md) | 1.25% |
+| 159 | [Late Shift](games/l/late_shift.md) | 1.24% |
 | 160 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.23% |
 | 161 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.22% |
 | 162 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.19% |
-| 162 | [Ten Dates](games/t/ten_dates.md) | 1.19% |
-| 164 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.18% |
+| 163 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.18% |
+| 163 | [Ten Dates](games/t/ten_dates.md) | 1.18% |
 | 165 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.17% |
 | 166 | [Iron Danger](games/i/iron_danger.md) | 1.15% |
 | 167 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.14% |
@@ -180,11 +180,11 @@
 | 178 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.96% |
 | 179 | [Trifox](games/t/trifox.md) | 0.95% |
 | 180 | [Colossal Cave](games/c/colossal_cave.md) | 0.93% |
-| 181 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.92% |
-| 182 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 0.91% |
-| 182 | [Hades](games/h/hades.md) | 0.91% |
-| 182 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.91% |
-| 182 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.91% |
+| 180 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.93% |
+| 182 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.92% |
+| 183 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 0.91% |
+| 183 | [Hades](games/h/hades.md) | 0.91% |
+| 183 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.91% |
 | 186 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.90% |
 | 187 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.89% |
 | 188 | [A Musical Story](games/a/a_musical_story.md) | 0.88% |
@@ -227,8 +227,8 @@
 | 223 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.50% |
 | 226 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 0.49% |
 | 226 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.49% |
-| 228 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.48% |
-| 229 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.47% |
+| 228 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.47% |
+| 228 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.47% |
 | 230 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 230 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.46% |
 | 230 | [Garden In](games/g/garden_in.md) | 0.46% |
