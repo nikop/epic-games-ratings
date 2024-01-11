@@ -8833,10 +8833,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12683,
       "NumberOfAwardsMax": 7166
+    },
+    {
+      "Time": "2024-01-11T06:03:54.8667438+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12686,
+      "NumberOfAwardsMax": 7166
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12683,
+  "NumberOfAwards": 12686,
   "NumberOfAwardsMax": 7166,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8868,7 +8874,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 611
+      "Count": 614
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8913,9 +8919,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 759192,
+  "EOS_Progressed": 759212,
   "EOS_Completed": 12982,
-  "EOS_NewPlayers": 6036,
+  "EOS_NewPlayers": 6014,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -33273,6 +33279,11 @@
       "Time": "2024-01-11T05:09:26.4194219+00:00",
       "NumProgressed": 759192,
       "NumCompleted": 12982
+    },
+    {
+      "Time": "2024-01-11T06:10:26.267857+00:00",
+      "NumProgressed": 759212,
+      "NumCompleted": 12982
     }
   ],
   "TotalAchievements": 60,
@@ -33284,7 +33295,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45552
+      "UsersEstimate": 45553
     },
     {
       "ID": "02_Vengeance_H1",
@@ -33460,7 +33471,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37960
+      "UsersEstimate": 37961
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -33652,7 +33663,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -33676,7 +33687,7 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "51_Arena_TigerAll",
@@ -33692,7 +33703,7 @@
       "Name": "Hidden Dragon",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "53_Arena_HighStamps",
@@ -33716,7 +33727,7 @@
       "Name": "Here Cometh the Iceman",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "56_Arena_LakeKill",
@@ -33724,7 +33735,7 @@
       "Name": "Fighter in the Pond",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "57_Arena_Car",
@@ -33732,7 +33743,7 @@
       "Name": "Bonus Stage",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "58_Arena_Music",
@@ -33756,28 +33767,28 @@
       "Name": "A Bit Of Everything, Simultaneously",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 68493,
+      "Progressed": 68513,
       "Completed": 10803
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 759192,
+      "Progressed": 759212,
       "Completed": 12982
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2024-01-11T02:27:35.5072956+00:00",
-  "LastChanged_Achievements": "2024-01-11T05:09:26.4194217+00:00",
+  "LastChanged": "2024-01-11T06:03:54.8667436+00:00",
+  "LastChanged_Achievements": "2024-01-11T06:10:26.2678562+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.3871095+00:00",
-  "LastUpdate_Ratings": "2024-01-11T05:03:01.6546796+00:00",
-  "LastUpdate_Achievements": "2024-01-11T05:09:26.4195514+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:03:54.8667443+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:10:26.268012+00:00"
 }

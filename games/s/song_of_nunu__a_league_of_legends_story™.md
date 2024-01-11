@@ -8,8 +8,8 @@ Rating: 4.59 (Ranked 453)
 | Feels Familiar | 74.00% | ~1,129 |
 | I Broke It | 73.00% | ~1,114 |
 | Better On Ice | 68.00% | ~1,038 |
+| Blue Dreams | 66.00% | ~1,007 |
 | Notai Notes | 66.00% | ~1,007 |
-| Blue Dreams | 65.00% | ~992 |
 | He's Famous! | 65.00% | ~992 |
 | Cutie Poro | 65.00% | ~992 |
 | Krugmazing | 64.00% | ~977 |
@@ -24,8 +24,8 @@ Rating: 4.59 (Ranked 453)
 | The Relentless Storm | 46.00% | ~702 |
 | A Tragic Reminder | 45.00% | ~687 |
 | 3000 Year Blackout | 44.00% | ~671 |
+| So Close | 42.00% | ~641 |
 | The Finisher | 42.00% | ~641 |
-| So Close | 41.00% | ~626 |
 | You Get Used To It | 41.00% | ~626 |
 | Family | 39.00% | ~595 |
 | Biggest Snowball Ever | 39.00% | ~595 |

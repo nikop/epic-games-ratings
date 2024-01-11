@@ -26,7 +26,7 @@ Rating: 4.77 (Ranked 117)
 | Whispers in the Woods I | 28.00% | ~956 |
 | I chose my shackles | 28.00% | ~956 |
 | Ancient power | 28.00% | ~956 |
-| Sacred Woods | 26.00% | ~888 |
+| Sacred Woods | 27.00% | ~922 |
 | Little light | 24.00% | ~820 |
 | Glyndemere | 24.00% | ~820 |
 | Capelworth | 24.00% | ~820 |

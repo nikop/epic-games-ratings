@@ -2,7 +2,7 @@
   "ID": "clover",
   "Name": "Little Inferno",
   "ProductSlug": "little-inferno",
-  "Ranking_Rating": 528,
+  "Ranking_Rating": 529,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 825,
@@ -393,6 +393,6 @@
   "FirstSeen": "2022-07-22T20:29:23.1362481+00:00",
   "LastChanged": "2024-01-03T08:01:39.157755+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:23.804652+00:00",
-  "LastUpdate_Ratings": "2024-01-11T05:00:24.9306075+00:00",
-  "LastUpdate_Achievements": "2024-01-11T05:09:26.9946888+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:03:16.9010108+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:10:27.0439463+00:00"
 }

@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 85.00% | ~316 |
+| Meissa's Savior | 85.00% | ~317 |
 | Purification Pioneer | 80.00% | ~298 |
-| Mechanical Buddy | 74.00% | ~275 |
-| Dicesmithing Time! | 64.00% | ~238 |
+| Mechanical Buddy | 74.00% | ~276 |
+| Dicesmithing Time! | 64.00% | ~239 |
 | Sanctuary Guardian | 54.00% | ~201 |
 | Endless Tricks | 51.00% | ~190 |
-| Wild's Keeper | 49.00% | ~182 |
-| Mind Illuminator | 44.00% | ~164 |
-| Stellar Dismantler | 38.00% | ~141 |
-| Astral Adventurer | 34.00% | ~126 |
-| Noctuan Champion | 34.00% | ~126 |
-| Anomaly Destroyer | 31.00% | ~115 |
+| Wild's Keeper | 49.00% | ~183 |
+| Mind Illuminator | 43.00% | ~160 |
+| Stellar Dismantler | 38.00% | ~142 |
+| Noctuan Champion | 35.00% | ~131 |
+| Astral Adventurer | 34.00% | ~127 |
+| Anomaly Destroyer | 31.00% | ~116 |
 | Star Killer | 30.00% | ~112 |
 | Eridanian Champion | 25.00% | ~93 |
 | Loyal Partner | 22.00% | ~82 |
@@ -27,8 +27,8 @@
 | Behenian Champion | 14.00% | ~52 |
 | Heavy Purger | 12.00% | ~45 |
 | Wave Bender | 10.00% | ~37 |
-| Astral Seeker | 9.00% | ~33 |
-| Aquarian Champion | 9.00% | ~33 |
+| Astral Seeker | 9.00% | ~34 |
+| Aquarian Champion | 9.00% | ~34 |
 | Heart Gate | 8.00% | ~30 |
 | Stellar Haste | 8.00% | ~30 |
 | The Corruption Goddess | 7.00% | ~26 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 372 (Ranked 376)  
+Progressed: 373 (Ranked 376)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,3 +180,4 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 360 | 0 |
 | 2024-01-09 | 364 | 0 |
 | 2024-01-10 | 372 | 0 |
+| 2024-01-11 | 373 | 0 |

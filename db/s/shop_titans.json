@@ -8113,9 +8113,9 @@
       "Count": 3820
     }
   ],
-  "EOS_Progressed": 150654,
+  "EOS_Progressed": 150659,
   "EOS_Completed": 348,
-  "EOS_NewPlayers": 1384,
+  "EOS_NewPlayers": 1385,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36218,6 +36218,11 @@
       "Time": "2024-01-11T05:08:50.0223927+00:00",
       "NumProgressed": 150654,
       "NumCompleted": 348
+    },
+    {
+      "Time": "2024-01-11T06:09:34.6926167+00:00",
+      "NumProgressed": 150659,
+      "NumCompleted": 348
     }
   ],
   "TotalAchievements": 112,
@@ -36309,7 +36314,7 @@
       "Name": "One Easy Payment",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9039
+      "UsersEstimate": 9040
     },
     {
       "ID": "bigsale02",
@@ -36333,7 +36338,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9039
+      "UsersEstimate": 9040
     },
     {
       "ID": "blueprint02",
@@ -36461,7 +36466,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15065
+      "UsersEstimate": 15066
     },
     {
       "ID": "commonres02",
@@ -36493,7 +36498,7 @@
       "Name": "Disintermediation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12052
+      "UsersEstimate": 12053
     },
     {
       "ID": "craft02",
@@ -36581,7 +36586,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9039
+      "UsersEstimate": 9040
     },
     {
       "ID": "energy02",
@@ -36813,7 +36818,7 @@
       "Name": "Budding Merchant",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9039
+      "UsersEstimate": 9040
     },
     {
       "ID": "level02",
@@ -37093,7 +37098,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9039
+      "UsersEstimate": 9040
     },
     {
       "ID": "workers02",
@@ -37124,15 +37129,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 150654,
+      "Progressed": 150659,
       "Completed": 348
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-10T14:04:13.4714827+00:00",
-  "LastChanged_Achievements": "2024-01-11T05:08:50.0223924+00:00",
+  "LastChanged_Achievements": "2024-01-11T06:09:34.6926155+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.0260329+00:00",
-  "LastUpdate_Ratings": "2024-01-11T05:03:10.2359589+00:00",
-  "LastUpdate_Achievements": "2024-01-11T05:08:50.0226249+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:04:06.4064573+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:09:34.6928642+00:00"
 }

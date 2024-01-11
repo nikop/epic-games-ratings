@@ -854,7 +854,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6257,
+  "EOS_Progressed": 6258,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 1,
@@ -12999,6 +12999,11 @@
       "Time": "2024-01-11T00:08:27.0533579+00:00",
       "NumProgressed": 6257,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-11T06:08:49.4636254+00:00",
+      "NumProgressed": 6258,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13059,7 +13064,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1689
+      "UsersEstimate": 1690
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -13177,9 +13182,9 @@
       "ID": "MF_Ach_ThatllLeaveAMark",
       "SetID": "9b9n573",
       "Name": "That\u0027ll Leave a Mark",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1627
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -13194,15 +13199,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6257,
+      "Progressed": 6258,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-11T05:06:27.2292454+00:00",
+  "LastChanged_Achievements": "2024-01-11T06:08:49.4636251+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-11T04:57:10.4812776+00:00",
-  "LastUpdate_Achievements": "2024-01-11T05:06:27.2293156+00:00"
+  "LastUpdate_Ratings": "2024-01-11T05:57:37.1057698+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:08:49.4636917+00:00"
 }

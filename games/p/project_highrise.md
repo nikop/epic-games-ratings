@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 55.00% | ~283 |
-| Starting Skyward | 49.00% | ~252 |
-| Grime is Not Good | 42.00% | ~216 |
-| Floor Galore | 37.00% | ~191 |
-| Campaign Launch | 36.00% | ~185 |
-| Dinner Dash | 36.00% | ~185 |
+| In the Black | 55.00% | ~284 |
+| Starting Skyward | 49.00% | ~253 |
+| Grime is Not Good | 42.00% | ~217 |
+| Floor Galore | 36.00% | ~186 |
+| Campaign Launch | 36.00% | ~186 |
+| Dinner Dash | 36.00% | ~186 |
 | Need a Consult | 33.00% | ~170 |
 | Upgrade Unlock | 33.00% | ~170 |
 | It's Technical | 32.00% | ~165 |
-| Proper Walls | 29.00% | ~149 |
-| Delegate Maintenance | 29.00% | ~149 |
-| Destination Destiny | 29.00% | ~149 |
-| Happy Tenants | 23.00% | ~118 |
-| Potent Potables | 23.00% | ~118 |
-| Your Prestige is Rising | 22.00% | ~113 |
-| Smooth Service | 22.00% | ~113 |
+| Proper Walls | 29.00% | ~150 |
+| Delegate Maintenance | 28.00% | ~144 |
+| Destination Destiny | 28.00% | ~144 |
+| Happy Tenants | 23.00% | ~119 |
+| Potent Potables | 23.00% | ~119 |
+| Your Prestige is Rising | 22.00% | ~114 |
+| Smooth Service | 22.00% | ~114 |
 | Retail Revenue | 21.00% | ~108 |
 | Don't Feel a Loan | 20.00% | ~103 |
 | Artfully Done | 18.00% | ~93 |
@@ -29,8 +29,8 @@
 | Lux Living | 17.00% | ~88 |
 | Emporium Empire | 17.00% | ~88 |
 | Get Electrified | 17.00% | ~88 |
-| Rehab Expert | 16.00% | ~82 |
-| Tasty Profits | 16.00% | ~82 |
+| Rehab Expert | 16.00% | ~83 |
+| Tasty Profits | 16.00% | ~83 |
 | Established Fame | 15.00% | ~77 |
 | Under One Roof | 13.00% | ~67 |
 | Starred Dining | 13.00% | ~67 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 515 (Ranked 351)  
+Progressed: 516 (Ranked 351)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,6 +222,7 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 505 | 0 |
 | 2024-01-09 | 509 | 0 |
 | 2024-01-10 | 515 | 0 |
+| 2024-01-11 | 516 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

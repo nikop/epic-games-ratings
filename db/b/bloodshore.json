@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 278,
+  "EOS_Progressed": 279,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.16,
+  "EOS_Completed_Percentage": 2.15,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -740,6 +740,11 @@
       "Time": "2024-01-11T02:30:59.8639745+00:00",
       "NumProgressed": 278,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-11T06:04:22.4455867+00:00",
+      "NumProgressed": 279,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 17,
@@ -751,7 +756,7 @@
       "Name": "Bromance",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "comedy_killer",
@@ -799,7 +804,7 @@
       "Name": "Lootaphilia",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "maybe_you_should_give_it_another_go",
@@ -823,7 +828,7 @@
       "Name": "Mission Complete",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "super_seducer",
@@ -871,7 +876,7 @@
       "Name": "Um, ok...",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -886,7 +891,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 278,
+      "Progressed": 279,
       "Completed": 6
     }
   ],
@@ -894,8 +899,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:06:28.1516713+00:00",
+  "LastChanged_Achievements": "2024-01-11T06:04:22.4455863+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.9728945+00:00",
-  "LastUpdate_Ratings": "2024-01-11T05:03:13.5540993+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:06:28.1516873+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:04:11.7898934+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:04:22.4456017+00:00"
 }

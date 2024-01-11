@@ -2329,9 +2329,9 @@
       "ID": "Kill_Demon_Abraxis",
       "SetID": "7a5k76n",
       "Name": "Demon Meddler",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 125
     },
     {
       "ID": "Kill_Demon_Kraken",
@@ -2545,8 +2545,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-10T06:57:57.6760335+00:00",
-  "LastChanged_Achievements": "2024-01-11T05:04:47.2074055+00:00",
+  "LastChanged_Achievements": "2024-01-11T06:06:28.8156579+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-11T04:58:17.1965159+00:00",
-  "LastUpdate_Achievements": "2024-01-11T05:04:47.2074686+00:00"
+  "LastUpdate_Ratings": "2024-01-11T05:59:15.8241493+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:06:28.8157299+00:00"
 }

@@ -4983,9 +4983,9 @@
       "Count": 590
     }
   ],
-  "EOS_Progressed": 23434,
+  "EOS_Progressed": 23436,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2577,
+  "EOS_NewPlayers": 2565,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15893,6 +15893,11 @@
       "Time": "2024-01-11T05:08:44.644841+00:00",
       "NumProgressed": 23434,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-11T06:09:27.0249717+00:00",
+      "NumProgressed": 23436,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -15945,7 +15950,7 @@
       "Name": "Titan",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 15466
+      "UsersEstimate": 15468
     },
     {
       "ID": "ach07",
@@ -15953,7 +15958,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 10311
+      "UsersEstimate": 10312
     },
     {
       "ID": "ach08",
@@ -15985,7 +15990,7 @@
       "Name": "Karnage",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "ach12",
@@ -16041,7 +16046,7 @@
       "Name": "Adventure Time",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6327
+      "UsersEstimate": 6328
     },
     {
       "ID": "ach19",
@@ -16073,7 +16078,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4452
+      "UsersEstimate": 4453
     },
     {
       "ID": "ach23",
@@ -16113,7 +16118,7 @@
       "Name": "So Krafty",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5624
+      "UsersEstimate": 5625
     },
     {
       "ID": "ach28",
@@ -16121,7 +16126,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5624
+      "UsersEstimate": 5625
     },
     {
       "ID": "ach29",
@@ -16129,7 +16134,7 @@
       "Name": "Unstoppable",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3749
+      "UsersEstimate": 3750
     },
     {
       "ID": "ach30",
@@ -16145,7 +16150,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 5155
+      "UsersEstimate": 5156
     },
     {
       "ID": "ach32",
@@ -16153,7 +16158,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4452
+      "UsersEstimate": 4453
     },
     {
       "ID": "ach33",
@@ -16169,7 +16174,7 @@
       "Name": "Always Accessorize",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5624
+      "UsersEstimate": 5625
     },
     {
       "ID": "ach35",
@@ -16193,7 +16198,7 @@
       "Name": "ABACABB",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 10780
+      "UsersEstimate": 10781
     },
     {
       "ID": "ach38",
@@ -16201,7 +16206,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7733
+      "UsersEstimate": 7734
     },
     {
       "ID": "ach39",
@@ -16241,7 +16246,7 @@
       "Name": "Working Overtime",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7499
+      "UsersEstimate": 7500
     },
     {
       "ID": "ach44",
@@ -16273,7 +16278,7 @@
       "Name": "Big Spender",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 3046
+      "UsersEstimate": 3047
     },
     {
       "ID": "ach48",
@@ -16281,7 +16286,7 @@
       "Name": "Total Disrespect",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3749
+      "UsersEstimate": 3750
     },
     {
       "ID": "ach49",
@@ -16297,14 +16302,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 7030
+      "UsersEstimate": 7031
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 23434,
+      "Progressed": 23436,
       "Completed": 2
     }
   ],
@@ -16312,8 +16317,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-11T02:27:22.0558934+00:00",
-  "LastChanged_Achievements": "2024-01-11T05:08:44.6448409+00:00",
+  "LastChanged_Achievements": "2024-01-11T06:09:27.0249709+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.6187018+00:00",
-  "LastUpdate_Ratings": "2024-01-11T05:02:48.5858872+00:00",
-  "LastUpdate_Achievements": "2024-01-11T05:08:44.6449182+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:03:34.8578679+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:09:27.0250866+00:00"
 }

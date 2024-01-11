@@ -94,6 +94,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.40% | ~66 |
 | Capable | 0.40% | ~66 |
 | Conqueror | 0.40% | ~66 |
+| Invincible | 0.40% | ~66 |
 | Ready | 0.40% | ~66 |
 | Subjugator | 0.40% | ~66 |
 | Victorious | 0.40% | ~66 |
@@ -113,7 +114,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 0.40% | ~66 |
 | Kushite Paganism | 0.40% | ~66 |
 | Devout | 0.30% | ~49 |
-| Invincible | 0.30% | ~49 |
 | Lion | 0.30% | ~49 |
 | Peacemaker | 0.30% | ~49 |
 | Clerics | 0.30% | ~49 |

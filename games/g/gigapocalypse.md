@@ -17,7 +17,7 @@
 | Impenetrable Skin | 57.00% | ~117 |
 | Overwhelming Power | 54.00% | ~111 |
 | Chomp Chomp! | 47.00% | ~96 |
-| Supreme Power | 45.00% | ~92 |
+| Supreme Power | 46.00% | ~94 |
 | Target Practice | 44.00% | ~90 |
 | The Duelist | 43.00% | ~88 |
 | Glorious Battle | 43.00% | ~88 |
@@ -26,11 +26,11 @@
 | Mutant And Proud | 39.00% | ~80 |
 | The Emperor's New Clothes | 33.00% | ~68 |
 | Animal Lover | 32.00% | ~66 |
+| Happy Little Home | 32.00% | ~66 |
 | Final Evolution | 32.00% | ~66 |
 | You Shall Not Pass | 31.00% | ~64 |
 | Godlike Power | 31.00% | ~64 |
 | Undying Skin | 31.00% | ~64 |
-| Happy Little Home | 31.00% | ~64 |
 | Fight Me! | 30.00% | ~62 |
 | Mommy's Very Angry | 29.00% | ~59 |
 | Supremacy | 29.00% | ~59 |

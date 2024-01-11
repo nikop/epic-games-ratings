@@ -2,7 +2,7 @@
   "ID": "74d82b28ab424956ac24407229fe6faa",
   "Name": "RUINER",
   "ProductSlug": "ruiner",
-  "Ranking_Rating": 552,
+  "Ranking_Rating": 553,
   "Ranking_Popularity": 555,
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 825,
@@ -389,6 +389,6 @@
   "FirstSeen": "2022-07-22T20:24:12.7413327+00:00",
   "LastChanged": "2023-10-23T01:44:36.4775937+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:55.1438934+00:00",
-  "LastUpdate_Ratings": "2024-01-11T04:57:30.0906094+00:00",
-  "LastUpdate_Achievements": "2024-01-11T05:09:07.4822551+00:00"
+  "LastUpdate_Ratings": "2024-01-11T05:58:05.6845571+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:09:59.7512058+00:00"
 }

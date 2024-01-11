@@ -36,8 +36,8 @@ Number of Ratings: 116  (23.09.2022)
 | Can you restore the Balance? | 25.00% | ~136 |
 | Crowd Source | 25.00% | ~136 |
 | Cleanup Crew | 24.00% | ~131 |
+| Demon Meddler | 23.00% | ~125 |
 | Maximum Capacity | 22.00% | ~120 |
-| Demon Meddler | 22.00% | ~120 |
 | Seeing Red | 22.00% | ~120 |
 | Egomaniac | 21.00% | ~114 |
 | Protector of Humanity | 19.00% | ~103 |

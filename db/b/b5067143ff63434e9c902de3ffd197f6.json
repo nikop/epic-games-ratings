@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18850,
+  "EOS_Progressed": 18852,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11924,6 +11924,11 @@
       "Time": "2024-01-11T05:04:01.1597392+00:00",
       "NumProgressed": 18850,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T06:05:23.6164125+00:00",
+      "NumProgressed": 18852,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -11960,7 +11965,7 @@
       "Name": "Liminal Hotel",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_LEVEL974",
@@ -12024,7 +12029,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -12032,7 +12037,7 @@
       "Name": "Level 0",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4712
+      "UsersEstimate": 4713
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -12127,14 +12132,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 18850,
+      "Progressed": 18852,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2024-01-11T05:04:01.1597391+00:00",
+  "LastChanged_Achievements": "2024-01-11T06:05:23.6164122+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.8149755+00:00",
-  "LastUpdate_Ratings": "2024-01-11T04:59:29.661124+00:00",
-  "LastUpdate_Achievements": "2024-01-11T05:04:01.1598015+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:01:02.7835114+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:05:23.6164721+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "c6d8ffe7390d4a8ab74d373d67f0762a",
   "Name": "Ash of Gods: The Way",
   "ProductSlug": "ash-of-gods-the-way-58bd36",
-  "Ranking_EOS_Progress": 523,
+  "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77,
+  "EOS_Progressed": 78,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -416,6 +416,11 @@
       "Time": "2024-01-10T16:10:20.599943+00:00",
       "NumProgressed": 77,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T06:10:41.3338919+00:00",
+      "NumProgressed": 78,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 49,
@@ -529,7 +534,7 @@
       "ID": "fights6",
       "SetID": "c64if4d",
       "Name": "Surpass the teacher",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -651,7 +656,7 @@
       "Name": "First success",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "story10",
@@ -673,7 +678,7 @@
       "ID": "story12",
       "SetID": "c64if4d",
       "Name": "Help of the Gell",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -737,7 +742,7 @@
       "ID": "story2",
       "SetID": "c64if4d",
       "Name": "Suicide squad",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 20,
       "UsersEstimate": 36
     },
@@ -761,7 +766,7 @@
       "ID": "story3",
       "SetID": "c64if4d",
       "Name": "Train hard, fight easy",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 23
     },
@@ -769,7 +774,7 @@
       "ID": "story4",
       "SetID": "c64if4d",
       "Name": "Royal blessing",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
       "UsersEstimate": 19
     },
@@ -777,7 +782,7 @@
       "ID": "story5",
       "SetID": "c64if4d",
       "Name": "Under cover",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 23
     },
@@ -785,7 +790,7 @@
       "ID": "story6",
       "SetID": "c64if4d",
       "Name": "First blood",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 23
     },
@@ -809,7 +814,7 @@
       "ID": "story9",
       "SetID": "c64if4d",
       "Name": "She-Wolf",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 12
     }
@@ -818,7 +823,7 @@
     {
       "ID": "c64if4d",
       "IsBase": true,
-      "Progressed": 77,
+      "Progressed": 78,
       "Completed": 0
     }
   ],
@@ -826,8 +831,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2024-01-11T05:09:37.1137136+00:00",
+  "LastChanged_Achievements": "2024-01-11T06:10:41.3338915+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:14.685228+00:00",
-  "LastUpdate_Ratings": "2024-01-11T04:57:31.9527996+00:00",
-  "LastUpdate_Achievements": "2024-01-11T05:09:37.1137438+00:00"
+  "LastUpdate_Ratings": "2024-01-11T05:58:09.365733+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:10:41.3339369+00:00"
 }

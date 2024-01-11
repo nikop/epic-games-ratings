@@ -4015,9 +4015,9 @@
       "ID": "EntresolChests1",
       "SetID": "a9e499d",
       "Name": "Entresol Explorer",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 117
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -4031,9 +4031,9 @@
       "ID": "FactorywoodChests1",
       "SetID": "a9e499d",
       "Name": "Factorywood Explorer",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 143
     },
     {
       "ID": "FairgroundsChests1",
@@ -4360,8 +4360,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-11T05:10:12.4148196+00:00",
+  "LastChanged_Achievements": "2024-01-11T06:11:28.0343515+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-11T04:59:53.0371781+00:00",
-  "LastUpdate_Achievements": "2024-01-11T05:10:12.414872+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:01:41.0301606+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:11:28.0344184+00:00"
 }

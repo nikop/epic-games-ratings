@@ -3607,7 +3607,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 46552,
+  "EOS_Progressed": 46553,
   "EOS_Completed": 372,
   "EOS_NewPlayers": 724,
   "EOS_NewCompleters": 6,
@@ -33237,6 +33237,11 @@
       "Time": "2024-01-11T04:05:24.8041647+00:00",
       "NumProgressed": 46552,
       "NumCompleted": 372
+    },
+    {
+      "Time": "2024-01-11T06:07:23.8959395+00:00",
+      "NumProgressed": 46553,
+      "NumCompleted": 372
     }
   ],
   "TotalAchievements": 60,
@@ -33256,7 +33261,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 21879
+      "UsersEstimate": 21880
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -33264,7 +33269,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 27000
+      "UsersEstimate": 27001
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -33288,7 +33293,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 10241
+      "UsersEstimate": 10242
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -33344,7 +33349,7 @@
       "Name": "The Stones\u2019 Power",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 8379
+      "UsersEstimate": 8380
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_2",
@@ -33392,7 +33397,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 11172
+      "UsersEstimate": 11173
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -33408,7 +33413,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 17224
+      "UsersEstimate": 17225
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -33416,7 +33421,7 @@
       "Name": "Prepare the grave",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 11172
+      "UsersEstimate": 11173
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -33432,7 +33437,7 @@
       "Name": "Angel of Fire",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 11172
+      "UsersEstimate": 11173
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -33480,7 +33485,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 19086
+      "UsersEstimate": 19087
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -33648,7 +33653,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 32586
+      "UsersEstimate": 32587
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -33672,7 +33677,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 9310
+      "UsersEstimate": 9311
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -33727,15 +33732,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 46552,
+      "Progressed": 46553,
       "Completed": 372
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2024-01-10T14:57:56.2988599+00:00",
-  "LastChanged_Achievements": "2024-01-11T05:05:26.0329763+00:00",
+  "LastChanged_Achievements": "2024-01-11T06:07:23.8959389+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:50.2098276+00:00",
-  "LastUpdate_Ratings": "2024-01-11T04:57:56.4708915+00:00",
-  "LastUpdate_Achievements": "2024-01-11T05:05:26.0331241+00:00"
+  "LastUpdate_Ratings": "2024-01-11T05:58:45.8048513+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:07:23.896143+00:00"
 }

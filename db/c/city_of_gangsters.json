@@ -1048,9 +1048,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 361485,
+  "EOS_Progressed": 361487,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1223,
+  "EOS_NewPlayers": 1220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31413,6 +31413,11 @@
       "Time": "2024-01-11T05:05:27.0585259+00:00",
       "NumProgressed": 361485,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-11T06:07:25.4730924+00:00",
+      "NumProgressed": 361487,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -31632,7 +31637,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 166283
+      "UsersEstimate": 166284
     },
     {
       "ID": "ach028",
@@ -31648,7 +31653,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39763
+      "UsersEstimate": 39764
     },
     {
       "ID": "ach030",
@@ -31728,7 +31733,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 36148
+      "UsersEstimate": 36149
     },
     {
       "ID": "ach040",
@@ -31824,7 +31829,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39763
+      "UsersEstimate": 39764
     },
     {
       "ID": "ach052",
@@ -31888,7 +31893,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 36148
+      "UsersEstimate": 36149
     },
     {
       "ID": "ach060",
@@ -32063,7 +32068,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 361485,
+      "Progressed": 361487,
       "Completed": 7
     }
   ],
@@ -32071,8 +32076,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2024-01-10T04:00:52.2617728+00:00",
-  "LastChanged_Achievements": "2024-01-11T05:05:27.0585257+00:00",
+  "LastChanged_Achievements": "2024-01-11T06:07:25.4730921+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:19.8615185+00:00",
-  "LastUpdate_Ratings": "2024-01-11T05:00:06.96826+00:00",
-  "LastUpdate_Achievements": "2024-01-11T05:05:27.058725+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:02:02.1643798+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:07:25.4733426+00:00"
 }

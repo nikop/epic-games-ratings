@@ -247,9 +247,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 414878,
+  "EOS_Progressed": 414922,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 15207,
+  "EOS_NewPlayers": 15169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2902,6 +2902,11 @@
       "Time": "2024-01-11T05:05:10.9130213+00:00",
       "NumProgressed": 414878,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-11T06:07:02.7524382+00:00",
+      "NumProgressed": 414922,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-05T09:03:44.926061+00:00",
@@ -2922,7 +2927,7 @@
       "Name": "Relentless Will",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 29041
+      "UsersEstimate": 29045
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -2946,7 +2951,7 @@
       "Name": "The Beginning of a Legend",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 95422
+      "UsersEstimate": 95432
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -2970,7 +2975,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 107868
+      "UsersEstimate": 107880
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -2978,7 +2983,7 @@
       "Name": "Level Analysis Complete",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 91273
+      "UsersEstimate": 91283
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -3010,7 +3015,7 @@
       "Name": "For Home Appreciation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12446
+      "UsersEstimate": 12448
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -3074,7 +3079,7 @@
       "Name": "Downloaded",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 37339
+      "UsersEstimate": 37343
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -3082,7 +3087,7 @@
       "Name": "The Strength to Fight",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12446
+      "UsersEstimate": 12448
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -3114,7 +3119,7 @@
       "Name": "One Step at a Time",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12446
+      "UsersEstimate": 12448
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -3122,7 +3127,7 @@
       "Name": "Training Advancement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 33190
+      "UsersEstimate": 33194
     },
     {
       "ID": "ACHIEVEMENT_028",
@@ -3138,7 +3143,7 @@
       "Name": "Training Shall Proceed!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12446
+      "UsersEstimate": 12448
     },
     {
       "ID": "ACHIEVEMENT_030",
@@ -3194,7 +3199,7 @@
       "Name": "Looking for Friends",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 2489
+      "UsersEstimate": 2490
     },
     {
       "ID": "ACHIEVEMENT_037",
@@ -3218,7 +3223,7 @@
       "Name": "Two Swords One Soul",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12446
+      "UsersEstimate": 12448
     },
     {
       "ID": "ACHIEVEMENT_040",
@@ -3257,7 +3262,7 @@
     {
       "ID": "dge1ook",
       "IsBase": true,
-      "Progressed": 414878,
+      "Progressed": 414922,
       "Completed": 2
     }
   ],
@@ -3265,8 +3270,8 @@
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
   "LastChanged": "2024-01-10T20:03:27.911734+00:00",
-  "LastChanged_Achievements": "2024-01-11T05:05:10.913021+00:00",
+  "LastChanged_Achievements": "2024-01-11T06:07:02.7524379+00:00",
   "LastUpdate_AppInfo": "2024-01-09T11:57:12.3251773+00:00",
-  "LastUpdate_Ratings": "2024-01-11T05:03:00.1051969+00:00",
-  "LastUpdate_Achievements": "2024-01-11T05:05:10.9130721+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:03:52.4445479+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:07:02.7524862+00:00"
 }

@@ -129,7 +129,7 @@
   "Tags": [],
   "EOS_Progressed": 2673,
   "EOS_Completed": 193,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 48,
   "EOS_Completed_Percentage": 7.22,
   "EosHistory": [
@@ -7220,9 +7220,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 829
+      "UsersEstimate": 855
     },
     {
       "ID": "PROGRESS_N5",
@@ -7245,8 +7245,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-11T05:03:54.5142962+00:00",
+  "LastChanged_Achievements": "2024-01-11T06:05:14.1478606+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-11T04:59:52.1754664+00:00",
-  "LastUpdate_Achievements": "2024-01-11T05:03:54.5143374+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:01:39.5830637+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:05:14.1479135+00:00"
 }

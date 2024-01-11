@@ -50,9 +50,9 @@ Rating: 3.68 (Ranked 1,095)
 | What Lies Below | 0.70% | ~16 |
 | Dexterity Save | 0.70% | ~16 |
 | Good Samaritan | 0.70% | ~16 |
+| Monster Hunters Club | 0.60% | ~14 |
 | Sisterhood | 0.60% | ~14 |
 | Under a Bushel | 0.60% | ~14 |
-| Monster Hunters Club | 0.50% | ~12 |
 | Friendgineering | 0.50% | ~12 |
 | So Anyway I Started Blasting | 0.40% | ~9 |
 | Enemy of My Enemy | 0.40% | ~9 |

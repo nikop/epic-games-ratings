@@ -2,9 +2,9 @@
   "ID": "e920c823522745c88a85e396965afc62",
   "Name": "Indoorlands",
   "ProductSlug": "indoorlands-3b2356",
-  "Ranking_EOS_Progress": 577,
+  "Ranking_EOS_Progress": 576,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41,
+  "EOS_Progressed": 42,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -229,6 +229,11 @@
       "Time": "2024-01-11T04:08:38.534053+00:00",
       "NumProgressed": 41,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T06:09:19.0004342+00:00",
+      "NumProgressed": 42,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-14T09:03:47.827813+00:00",
@@ -255,7 +260,7 @@
       "ID": "beautiful",
       "SetID": "d4692al",
       "Name": "It\u0027s beautiful",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -263,7 +268,7 @@
       "ID": "beginner",
       "SetID": "d4692al",
       "Name": "Beginner Guide",
-      "Percentage": 66,
+      "Percentage": 64,
       "XP": 5,
       "UsersEstimate": 27
     },
@@ -271,7 +276,7 @@
       "ID": "contractor",
       "SetID": "d4692al",
       "Name": "New Contractor",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
       "UsersEstimate": 17
     },
@@ -343,7 +348,7 @@
       "ID": "expansion",
       "SetID": "d4692al",
       "Name": "Expansion",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -359,7 +364,7 @@
       "ID": "happyVisitors",
       "SetID": "d4692al",
       "Name": "Happy visitors",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -375,7 +380,7 @@
       "ID": "keepComing",
       "SetID": "d4692al",
       "Name": "They keep coming",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -399,7 +404,7 @@
       "ID": "researcher",
       "SetID": "d4692al",
       "Name": "Researcher",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -455,7 +460,7 @@
       "ID": "vip",
       "SetID": "d4692al",
       "Name": "VIP",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -488,14 +493,14 @@
     {
       "ID": "d4692al",
       "IsBase": true,
-      "Progressed": 41,
+      "Progressed": 42,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-01-11T05:08:38.992975+00:00",
+  "LastChanged_Achievements": "2024-01-11T06:09:19.0004338+00:00",
   "LastUpdate_AppInfo": "2024-01-04T09:57:17.0588856+00:00",
-  "LastUpdate_Ratings": "2024-01-11T04:59:56.5587536+00:00",
-  "LastUpdate_Achievements": "2024-01-11T05:08:38.9929983+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:01:46.2891316+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:09:19.0004547+00:00"
 }

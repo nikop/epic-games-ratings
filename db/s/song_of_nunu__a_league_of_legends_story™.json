@@ -4117,9 +4117,9 @@
       "ID": "EV_ACH01",
       "SetID": "6jeac23",
       "Name": "Blue Dreams",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 992
+      "UsersEstimate": 1007
     },
     {
       "ID": "EV_ACH02",
@@ -4173,9 +4173,9 @@
       "ID": "EV_ACH08",
       "SetID": "6jeac23",
       "Name": "So Close",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 641
     },
     {
       "ID": "EV_ACH09",
@@ -4478,8 +4478,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2024-01-09T13:16:23.2542222+00:00",
-  "LastChanged_Achievements": "2024-01-11T05:10:09.8799566+00:00",
+  "LastChanged_Achievements": "2024-01-11T06:11:25.0053884+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.6946611+00:00",
-  "LastUpdate_Ratings": "2024-01-11T04:56:58.5882663+00:00",
-  "LastUpdate_Achievements": "2024-01-11T05:10:09.8800288+00:00"
+  "LastUpdate_Ratings": "2024-01-11T05:57:19.4294812+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:11:25.0054472+00:00"
 }

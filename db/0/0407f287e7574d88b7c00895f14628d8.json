@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 210,
+  "EOS_Progressed": 211,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -869,6 +869,11 @@
       "Time": "2024-01-10T20:06:02.6726838+00:00",
       "NumProgressed": 210,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T06:07:51.4942215+00:00",
+      "NumProgressed": 211,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -897,7 +902,7 @@
       "Name": "Mineral-Rich",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "c3",
@@ -937,7 +942,7 @@
       "Name": "Agriculture Tycoon",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "f2",
@@ -945,13 +950,13 @@
       "Name": "Tasty Food",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "f3",
       "SetID": "b1ggf28",
       "Name": "Seeds Collector",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -959,9 +964,9 @@
       "ID": "fw1",
       "SetID": "b1ggf28",
       "Name": "City Center",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 99
     },
     {
       "ID": "fw2",
@@ -985,7 +990,7 @@
       "Name": "Skilled Workers",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "g2",
@@ -1057,15 +1062,15 @@
       "Name": "Treatment of plague",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "jk2",
       "SetID": "b1ggf28",
       "Name": "Saving Lives",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "jk3",
@@ -1073,7 +1078,7 @@
       "Name": "Robust Settlers",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "jz1",
@@ -1081,7 +1086,7 @@
       "Name": "Builder",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "jz2",
@@ -1191,9 +1196,9 @@
       "ID": "w1",
       "SetID": "b1ggf28",
       "Name": "Against the Cold",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 135
     },
     {
       "ID": "w2",
@@ -1225,7 +1230,7 @@
       "Name": "Hard-Drinking",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "x3",
@@ -1247,7 +1252,7 @@
       "ID": "zf2",
       "SetID": "b1ggf28",
       "Name": "House Remodel",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -1288,14 +1293,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 210,
+      "Progressed": 211,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-11T05:05:45.6075093+00:00",
+  "LastChanged_Achievements": "2024-01-11T06:07:51.4942212+00:00",
   "LastUpdate_AppInfo": "2024-01-10T06:57:05.6487143+00:00",
-  "LastUpdate_Ratings": "2024-01-11T05:02:57.2192805+00:00",
-  "LastUpdate_Achievements": "2024-01-11T05:05:45.6075753+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:03:48.0487536+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:07:51.4942611+00:00"
 }

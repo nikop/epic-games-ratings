@@ -4476,9 +4476,9 @@
       "ID": "Achievement_014",
       "SetID": "6b34g18",
       "Name": "Monster Hunters Club",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement_015",
@@ -4917,8 +4917,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
-  "LastChanged_Achievements": "2024-01-11T05:06:23.7400917+00:00",
+  "LastChanged_Achievements": "2024-01-11T06:08:44.6485283+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-11T04:57:09.9754652+00:00",
-  "LastUpdate_Achievements": "2024-01-11T05:06:23.7401782+00:00"
+  "LastUpdate_Ratings": "2024-01-11T05:57:36.35445+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:08:44.6486214+00:00"
 }

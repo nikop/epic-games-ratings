@@ -12,9 +12,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | First Real Expedition | 8.00% | ~1,653 |
 | No Deaths | 8.00% | ~1,653 |
 | Petrified Necropolis | 8.00% | ~1,653 |
-| Overcoming Difficulty | 7.00% | ~1,446 |
-| Coral Forest | 7.00% | ~1,446 |
-| The Marshlands | 7.00% | ~1,446 |
+| Overcoming Difficulty | 7.00% | ~1,447 |
+| Coral Forest | 7.00% | ~1,447 |
+| The Marshlands | 7.00% | ~1,447 |
 | The Scarlet Orchard | 6.00% | ~1,240 |
 | Ominous Presence | 6.00% | ~1,240 |
 | Gathering Storm | 6.00% | ~1,240 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,664 (Ranked 154)  
+Progressed: 20,667 (Ranked 154)  
 Completed: 34 (0.16%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 34 (0.16%) (Ranked 286)
 | 2024-01-08 | 20,508 | 34 |
 | 2024-01-09 | 20,595 | 34 |
 | 2024-01-10 | 20,658 | 34 |
-| 2024-01-11 | 20,664 | 34 |
+| 2024-01-11 | 20,667 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,369 (Ranked 177)  

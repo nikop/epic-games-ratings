@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8261,
+  "EOS_Progressed": 8262,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 329,
+  "EOS_NewPlayers": 330,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13842,6 +13842,11 @@
       "Time": "2024-01-11T04:08:39.9966221+00:00",
       "NumProgressed": 8261,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T06:09:21.105753+00:00",
+      "NumProgressed": 8262,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13901,7 +13906,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -14172,13 +14177,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8261,
+      "Progressed": 8262,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7633,
+      "Progressed": 7634,
       "Completed": 113
     }
   ],
@@ -14186,8 +14191,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-11T05:08:40.4984616+00:00",
+  "LastChanged_Achievements": "2024-01-11T06:09:21.1057524+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-11T04:59:39.2507977+00:00",
-  "LastUpdate_Achievements": "2024-01-11T05:08:40.4985532+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:01:18.0248924+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:09:21.1058477+00:00"
 }

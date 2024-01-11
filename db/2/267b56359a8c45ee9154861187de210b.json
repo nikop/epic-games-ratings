@@ -4,7 +4,7 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 141,
+  "EOS_Progressed": 142,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -679,6 +679,11 @@
       "Time": "2024-01-11T02:32:42.8255797+00:00",
       "NumProgressed": 141,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T06:04:25.8203122+00:00",
+      "NumProgressed": 142,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T22:03:23.4161887+00:00",
@@ -785,9 +790,9 @@
       "ID": "airtime_short",
       "SetID": "3448go",
       "Name": "Glider",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "beat_c1_bronze",
@@ -801,25 +806,25 @@
       "ID": "beat_c1_diamond",
       "SetID": "3448go",
       "Name": "Wax On, Wax Off",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "beat_c1_gold",
       "SetID": "3448go",
       "Name": "Venture Time",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 50
     },
     {
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "beat_c1a_bronze",
@@ -865,9 +870,9 @@
       "ID": "beat_c2_diamond",
       "SetID": "3448go",
       "Name": "Timing, Rhythm, and Rhyme",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "beat_c2_gold",
@@ -881,9 +886,9 @@
       "ID": "beat_c2_silver",
       "SetID": "3448go",
       "Name": "Gone for a Whirl",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "beat_c2a_bronze",
@@ -939,7 +944,7 @@
       "Name": "Storm the Citadel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "beat_c3_silver",
@@ -1075,7 +1080,7 @@
       "Name": "Symbiotic Relationship",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "beat_c6_bronze",
@@ -1273,7 +1278,7 @@
       "ID": "rolldist_short",
       "SetID": "3448go",
       "Name": "Rolling the Competition",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 5,
       "UsersEstimate": 87
     },
@@ -1299,7 +1304,7 @@
       "Name": "Goal-Chaser",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "soccer_mid",
@@ -1313,9 +1318,9 @@
       "ID": "trophies_10",
       "SetID": "3448go",
       "Name": "Look What I Found!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "trophies_117",
@@ -1378,14 +1383,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 141,
+      "Progressed": 142,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-11T05:03:20.8596942+00:00",
-  "LastUpdate_AppInfo": "2024-01-04T04:57:15.6057122+00:00",
-  "LastUpdate_Ratings": "2024-01-11T04:57:10.7282392+00:00",
-  "LastUpdate_Achievements": "2024-01-11T05:03:20.8604901+00:00"
+  "LastChanged_Achievements": "2024-01-11T06:04:25.8203118+00:00",
+  "LastUpdate_AppInfo": "2024-01-11T05:57:03.57847+00:00",
+  "LastUpdate_Ratings": "2024-01-11T05:57:37.4664117+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:04:25.820413+00:00"
 }

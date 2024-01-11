@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -297,9 +297,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 2450,
+  "EOS_Progressed": 2451,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 290,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5777,6 +5777,11 @@
       "Time": "2024-01-11T05:04:19.2705475+00:00",
       "NumProgressed": 2450,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T06:05:49.4540095+00:00",
+      "NumProgressed": 2451,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -5797,7 +5802,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "AC02",
@@ -5805,7 +5810,7 @@
       "Name": "Blood and Dust",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1568
+      "UsersEstimate": 1569
     },
     {
       "ID": "AC03",
@@ -5821,7 +5826,7 @@
       "Name": "Blood and Iron",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "AC05",
@@ -5829,7 +5834,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "AC06",
@@ -5837,7 +5842,7 @@
       "Name": "The Last Ascension",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 1200
+      "UsersEstimate": 1201
     },
     {
       "ID": "AC07",
@@ -5869,7 +5874,7 @@
       "Name": "The Wait is Over",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "AC11",
@@ -5989,7 +5994,7 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "AC26",
@@ -6077,7 +6082,7 @@
       "Name": "Blessed Incense",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "AC37",
@@ -6093,7 +6098,7 @@
       "Name": "Edge of Orison",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "AC39",
@@ -6107,9 +6112,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1863
     },
     {
       "ID": "AC41",
@@ -6131,9 +6136,9 @@
       "ID": "AC43",
       "SetID": "l4abp0",
       "Name": "The Finest Craftmanship",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 1005
     },
     {
       "ID": "AC44",
@@ -6156,7 +6161,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2450,
+      "Progressed": 2451,
       "Completed": 0
     }
   ],
@@ -6164,8 +6169,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-10T20:59:36.1514701+00:00",
-  "LastChanged_Achievements": "2024-01-11T05:04:19.2705473+00:00",
+  "LastChanged_Achievements": "2024-01-11T06:05:49.4540093+00:00",
   "LastUpdate_AppInfo": "2024-01-10T04:57:09.7051995+00:00",
-  "LastUpdate_Ratings": "2024-01-11T04:59:38.07934+00:00",
-  "LastUpdate_Achievements": "2024-01-11T05:04:19.270607+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:01:16.3169965+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:05:49.454071+00:00"
 }

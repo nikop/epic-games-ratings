@@ -13,11 +13,11 @@
 | A curious gathering | 51.00% | ~56 |
 | Little grey cells | 50.00% | ~54 |
 | Impossible is possible | 49.00% | ~53 |
-| Arthur Hastings | 48.00% | ~52 |
-| The Missing Magdalene | 47.00% | ~51 |
-| Everything matters | 42.00% | ~46 |
+| Arthur Hastings | 49.00% | ~53 |
+| The Missing Magdalene | 48.00% | ~52 |
+| Everything matters | 43.00% | ~47 |
+| DI Hardwicke | 42.00% | ~46 |
 | An expert mediator | 41.00% | ~45 |
-| DI Hardwicke | 41.00% | ~45 |
 | Betty Allen | 37.00% | ~40 |
 | Order and method | 36.00% | ~39 |
 | The Investigation Begins | 35.00% | ~38 |

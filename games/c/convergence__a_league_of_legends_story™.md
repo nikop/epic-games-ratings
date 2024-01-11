@@ -39,13 +39,13 @@ Rating: 4.69 (Ranked 237)
 | Treasure Trove | 12.00% | ~156 |
 | Cartographer | 12.00% | ~156 |
 | Sump Explorer | 12.00% | ~156 |
-| Factorywood Explorer | 10.00% | ~130 |
+| Factorywood Explorer | 11.00% | ~143 |
 | Fairgrounds Explorer | 10.00% | ~130 |
 | Theater Explorer | 10.00% | ~130 |
 | Cultivair Explorer | 9.00% | ~117 |
+| Entresol Explorer | 9.00% | ~117 |
 | Corin Goes Home | 8.00% | ~104 |
 | Sartorialist | 8.00% | ~104 |
-| Entresol Explorer | 8.00% | ~104 |
 | Golem Hunter | 7.00% | ~91 |
 | Clovemary for Remembering | 6.00% | ~78 |
 | Hexlock for Protection | 6.00% | ~78 |

@@ -10,14 +10,14 @@ Rating: 3.96 (Ranked 1,061)
 | Downed but Not Outed | 4.00% | ~3,735 |
 | Too Old for This | 3.00% | ~2,801 |
 | Fancy Pants | 3.00% | ~2,801 |
-| Underworld Initiate | 2.00% | ~1,867 |
-| Roid Ranger | 2.00% | ~1,867 |
-| Case Closed | 2.00% | ~1,867 |
-| King of the Hill | 2.00% | ~1,867 |
-| Off the Rocks | 2.00% | ~1,867 |
-| Raider’s Ruin | 2.00% | ~1,867 |
-| Dragonslayer | 2.00% | ~1,867 |
-| Rockay Rex | 2.00% | ~1,867 |
+| Underworld Initiate | 2.00% | ~1,868 |
+| Roid Ranger | 2.00% | ~1,868 |
+| Case Closed | 2.00% | ~1,868 |
+| King of the Hill | 2.00% | ~1,868 |
+| Off the Rocks | 2.00% | ~1,868 |
+| Raider’s Ruin | 2.00% | ~1,868 |
+| Dragonslayer | 2.00% | ~1,868 |
+| Rockay Rex | 2.00% | ~1,868 |
 | Hidden Sonata | 1.00% | ~934 |
 | Track Star | 1.00% | ~934 |
 | True Player | 1.00% | ~934 |
@@ -32,10 +32,10 @@ Rating: 3.96 (Ranked 1,061)
 | Olympus Ascended | 0.60% | ~560 |
 | Ding Dong | 0.60% | ~560 |
 | All that Glitters | 0.50% | ~109 |
-| Rockay Raider | 0.40% | ~373 |
-| Groundhog Days | 0.40% | ~373 |
-| Cracked the Jack | 0.40% | ~373 |
-| Classy Joint | 0.40% | ~373 |
+| Rockay Raider | 0.40% | ~374 |
+| Groundhog Days | 0.40% | ~374 |
+| Cracked the Jack | 0.40% | ~374 |
+| Classy Joint | 0.40% | ~374 |
 | Rockay Knight | 0.30% | ~280 |
 | Red Star | 0.30% | ~280 |
 | All for One | 0.30% | ~65 |
@@ -47,7 +47,7 @@ Rating: 3.96 (Ranked 1,061)
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,374 (Ranked 103)  
+Progressed: 93,376 (Ranked 103)  
 Completed: 58 (0.06%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 58 (0.06%) (Ranked 331)
 | 2024-01-08 | 93,257 | 58 |
 | 2024-01-09 | 93,308 | 58 |
 | 2024-01-10 | 93,367 | 58 |
-| 2024-01-11 | 93,374 | 58 |
+| 2024-01-11 | 93,376 | 58 |
 ## Awards
 Max (Diverse Characters): 594  (Ranked 210)  
 Sum: 2,810 (Ranked 190)  

@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,552 |
-| Life is your teacher | 5.00% | ~37,960 |
+| The Old Grandmaster | 6.00% | ~45,553 |
+| Life is your teacher | 5.00% | ~37,961 |
 | The Assault | 4.00% | ~30,368 |
 | Lightning Hands | 4.00% | ~30,368 |
 | The Hateful Pole Fighter | 3.00% | ~22,776 |
@@ -50,8 +50,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Martial Artist | 0.30% | ~2,278 |
 | Knowledge Greed | 0.30% | ~2,278 |
 | Ferocity, speed, strength, accuracy | 0.30% | ~2,278 |
-| Deadly Venom | 0.30% | ~205 |
-| A Touch of Acumen | 0.30% | ~205 |
+| Deadly Venom | 0.30% | ~206 |
+| A Touch of Acumen | 0.30% | ~206 |
 | Healing Memory | 0.20% | ~1,518 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,518 |
 | Be like water my friend | 0.20% | ~1,518 |
@@ -61,13 +61,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Flying Assassins | 0.20% | ~137 |
 | Beatmaker | 0.20% | ~137 |
 | Warriors from the Mountain | 0.10% | ~759 |
-| Hidden Dragon | 0.10% | ~68 |
-| Here Cometh the Iceman | 0.10% | ~68 |
-| Fighter in the Pond | 0.10% | ~68 |
-| Bonus Stage | 0.10% | ~68 |
-| A Bit Of Everything, Simultaneously | 0.10% | ~68 |
+| Hidden Dragon | 0.10% | ~69 |
+| Here Cometh the Iceman | 0.10% | ~69 |
+| Fighter in the Pond | 0.10% | ~69 |
+| Bonus Stage | 0.10% | ~69 |
+| A Bit Of Everything, Simultaneously | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 759,192 (Ranked 26)  
+Progressed: 759,212 (Ranked 26)  
 Completed: 12,982 (1.71%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,10 +333,10 @@ Completed: 12,982 (1.71%) (Ranked 145)
 | 2024-01-08 | 757,529 | 12,979 |
 | 2024-01-09 | 758,306 | 12,980 |
 | 2024-01-10 | 759,091 | 12,982 |
-| 2024-01-11 | 759,192 | 12,982 |
+| 2024-01-11 | 759,212 | 12,982 |
 ## Awards
 Max (Great Boss Battles): 7,166  (Ranked 56)  
-Sum: 12,683 (Ranked 85)  
+Sum: 12,686 (Ranked 85)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -344,7 +344,7 @@ Diff (max vs sum): -29
 | This game has Diverse Characters | 699 |
 | This game has Challenging Combat | 646 |
 | This game has Amazing Storytelling | 619 |
-| This game has Amazing Characters | 611 |
+| This game has Amazing Characters | 614 |
 | This game is Highly Recommended | 608 |
 | This game has Quickly Understood Controls | 598 |
 | This game is Extremely Fun | 587 |
@@ -713,4 +713,4 @@ Diff (max vs sum): -29
 | 2024-01-08 | 4.82 | - | 7,154 | 12,650 |
 | 2024-01-09 | 4.82 | - | 7,166 | 12,672 |
 | 2024-01-10 | 4.82 | - | 7,166 | 12,681 |
-| 2024-01-11 | 4.82 | - | 7,166 | 12,683 |
+| 2024-01-11 | 4.82 | - | 7,166 | 12,686 |

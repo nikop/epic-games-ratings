@@ -1961,9 +1961,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 69165,
+  "EOS_Progressed": 69166,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 678,
+  "EOS_NewPlayers": 677,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31301,6 +31301,11 @@
       "Time": "2024-01-11T05:03:40.6409126+00:00",
       "NumProgressed": 69165,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T06:04:54.6810864+00:00",
+      "NumProgressed": 69166,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -31576,7 +31581,7 @@
       "Name": "Corpseman I",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 26974
+      "UsersEstimate": 26975
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -31600,7 +31605,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 43574
+      "UsersEstimate": 43575
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -31728,7 +31733,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8991
+      "UsersEstimate": 8992
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -31783,15 +31788,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 69165,
+      "Progressed": 69166,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2024-01-09T20:00:35.3658762+00:00",
-  "LastChanged_Achievements": "2024-01-11T05:03:40.6409124+00:00",
+  "LastChanged_Achievements": "2024-01-11T06:04:54.6810862+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:49.5305019+00:00",
-  "LastUpdate_Ratings": "2024-01-11T04:57:04.2915346+00:00",
-  "LastUpdate_Achievements": "2024-01-11T05:03:40.6410597+00:00"
+  "LastUpdate_Ratings": "2024-01-11T05:57:27.593954+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:04:54.681246+00:00"
 }

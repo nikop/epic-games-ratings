@@ -631,9 +631,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 47049,
+  "EOS_Progressed": 47052,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 767,
+  "EOS_NewPlayers": 769,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18421,6 +18421,11 @@
       "Time": "2024-01-11T05:05:52.1360456+00:00",
       "NumProgressed": 47049,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T06:08:00.6947288+00:00",
+      "NumProgressed": 47052,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18448,7 +18453,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -18464,7 +18469,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2352
+      "UsersEstimate": 2353
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -18480,7 +18485,7 @@
       "Name": "Attachments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6116
+      "UsersEstimate": 6117
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -18488,7 +18493,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2352
+      "UsersEstimate": 2353
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -18536,7 +18541,7 @@
       "Name": "The Truth Will Out",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "CHAPTER_09_CLEAR",
@@ -18552,7 +18557,7 @@
       "Name": "None the Wiser",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "CHAPTER_11_CLEAR",
@@ -18560,7 +18565,7 @@
       "Name": "Forspoken",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "CHAPTER_12_CLEAR",
@@ -18584,7 +18589,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4234
+      "UsersEstimate": 4235
     },
     {
       "ID": "CUFF_ATTACK",
@@ -18608,7 +18613,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "JUSTCOUNTER",
@@ -18624,7 +18629,7 @@
       "Name": "Leapfrogger",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3294
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -18688,7 +18693,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2352
+      "UsersEstimate": 2353
     },
     {
       "ID": "MAGIC_IVY",
@@ -18728,7 +18733,7 @@
       "Name": "Pilgrimage: Novice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "PARKOUR_DISTANCE",
@@ -18736,7 +18741,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "PARKOUR_TIME",
@@ -18768,7 +18773,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5175
+      "UsersEstimate": 5176
     },
     {
       "ID": "SPRING_ALL",
@@ -18784,7 +18789,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3294
     },
     {
       "ID": "STAYING_AIR",
@@ -18855,22 +18860,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47049,
+      "Progressed": 47052,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11886,
-      "Completed": 11886
+      "Progressed": 11889,
+      "Completed": 11889
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-09T14:02:53.1133514+00:00",
-  "LastChanged_Achievements": "2024-01-11T05:05:52.1360454+00:00",
+  "LastChanged_Achievements": "2024-01-11T06:08:00.6947285+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-11T05:02:54.0034601+00:00",
-  "LastUpdate_Achievements": "2024-01-11T05:05:52.1361587+00:00"
+  "LastUpdate_Ratings": "2024-01-11T06:03:43.1359646+00:00",
+  "LastUpdate_Achievements": "2024-01-11T06:08:00.6948643+00:00"
 }
