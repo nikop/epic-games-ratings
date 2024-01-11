@@ -31,9 +31,9 @@
 | Surprise!! | 44.00% | ~67 |
 | Haemochromatosis | 42.00% | ~64 |
 | Make America Grate Again | 41.00% | ~63 |
+| You can't stop me, bro! | 38.00% | ~58 |
 | Pasta Bolognese | 38.00% | ~58 |
 | You are no match for me, Billy! | 37.00% | ~57 |
-| You can't stop me, bro! | 37.00% | ~57 |
 | Catch the bus with me! | 35.00% | ~54 |
 | Karaoke king | 35.00% | ~54 |
 | Meatballs, coming up! | 34.00% | ~52 |

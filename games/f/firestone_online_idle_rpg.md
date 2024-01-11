@@ -5,15 +5,15 @@ Rating: 4.09 (Ranked 1,021)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,084 |
-| World Map | 78.00% | ~3,425 |
-| Temple of Eternals | 56.00% | ~2,459 |
-| Prestigious | 52.00% | ~2,283 |
-| Fellowship Power | 41.00% | ~1,800 |
-| Full Party | 29.00% | ~1,273 |
+| Victor | 93.00% | ~4,085 |
+| World Map | 78.00% | ~3,427 |
+| Temple of Eternals | 56.00% | ~2,460 |
+| Prestigious | 52.00% | ~2,284 |
+| Fellowship Power | 41.00% | ~1,801 |
+| Full Party | 29.00% | ~1,274 |
 | Guild Power | 22.00% | ~966 |
-| Prestigious x10 | 20.00% | ~878 |
-| The game is on | 18.00% | ~790 |
+| Prestigious x10 | 20.00% | ~879 |
+| The game is on | 18.00% | ~791 |
 | Exotic Merchant | 16.00% | ~703 |
 | Dragon Clicker | 15.00% | ~659 |
 | Miner Clicker | 15.00% | ~659 |
@@ -38,14 +38,14 @@ Rating: 4.09 (Ranked 1,021)
 | Moving Up The Ladder | 8.00% | ~351 |
 | Relic Of The Past | 8.00% | ~351 |
 | Scroll Master | 8.00% | ~351 |
-| Four Leaf Clover | 7.00% | ~307 |
-| Here We Go Again | 7.00% | ~307 |
-| Master Enchanter | 7.00% | ~307 |
-| The father of Dragons | 7.00% | ~307 |
-| Trader | 7.00% | ~307 |
-| Dragon Slayer | 6.00% | ~263 |
-| The Expeditioner | 6.00% | ~263 |
-| Weekly Quest Completionist | 6.00% | ~263 |
+| Four Leaf Clover | 7.00% | ~308 |
+| Here We Go Again | 7.00% | ~308 |
+| Master Enchanter | 7.00% | ~308 |
+| The father of Dragons | 7.00% | ~308 |
+| Trader | 7.00% | ~308 |
+| Dragon Slayer | 6.00% | ~264 |
+| The Expeditioner | 6.00% | ~264 |
+| Weekly Quest Completionist | 6.00% | ~264 |
 | Blueprint Upgrades | 5.00% | ~220 |
 | Crystal Mining | 5.00% | ~220 |
 | Enchanting skill | 5.00% | ~220 |
@@ -81,7 +81,7 @@ Rating: 4.09 (Ranked 1,021)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,391 (Ranked 208)  
+Progressed: 4,393 (Ranked 208)  
 Completed: 2 (0.05%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 2 (0.05%) (Ranked 338)
 | 2024-01-08 | 4,327 | 2 |
 | 2024-01-09 | 4,351 | 2 |
 | 2024-01-10 | 4,381 | 2 |
-| 2024-01-11 | 4,391 | 2 |
+| 2024-01-11 | 4,393 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 483)  
 Sum: 157 (Ranked 440)  

@@ -5207,9 +5207,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82473,
+  "EOS_Progressed": 82474,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 1122,
+  "EOS_NewPlayers": 1117,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -29797,6 +29797,11 @@
       "Time": "2024-01-11T12:05:50.6021009+00:00",
       "NumProgressed": 82473,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2024-01-11T13:11:56.9384756+00:00",
+      "NumProgressed": 82474,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 61,
@@ -29920,7 +29925,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 14020
+      "UsersEstimate": 14021
     },
     {
       "ID": "CLAYFACE_3",
@@ -30016,7 +30021,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10722
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -30152,7 +30157,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41236
+      "UsersEstimate": 41237
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -30232,7 +30237,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 14020
+      "UsersEstimate": 14021
     },
     {
       "ID": "MYSTERY_06",
@@ -30248,7 +30253,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10722
     },
     {
       "ID": "MYSTERY_08",
@@ -30295,13 +30300,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82473,
+      "Progressed": 82474,
       "Completed": 133
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 52753,
+      "Progressed": 52754,
       "Completed": 2679
     }
   ],
@@ -30309,8 +30314,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-11T08:00:28.7381437+00:00",
-  "LastChanged_Achievements": "2024-01-11T12:05:50.6021006+00:00",
+  "LastChanged_Achievements": "2024-01-11T13:11:56.9384753+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:43.7132471+00:00",
-  "LastUpdate_Ratings": "2024-01-11T12:00:19.977295+00:00",
-  "LastUpdate_Achievements": "2024-01-11T12:05:50.6022496+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:06:38.2725058+00:00",
+  "LastUpdate_Achievements": "2024-01-11T13:11:56.9386638+00:00"
 }

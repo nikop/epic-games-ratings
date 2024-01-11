@@ -6,9 +6,9 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taking Action | 9.00% | ~1,860 |
-| Abandoned Settlement | 9.00% | ~1,860 |
-| Overgrown Library | 9.00% | ~1,860 |
+| Taking Action | 9.00% | ~1,861 |
+| Abandoned Settlement | 9.00% | ~1,861 |
+| Overgrown Library | 9.00% | ~1,861 |
 | First Real Expedition | 8.00% | ~1,654 |
 | No Deaths | 8.00% | ~1,654 |
 | Petrified Necropolis | 8.00% | ~1,654 |
@@ -36,16 +36,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 3.00% | ~620 |
 | Trade Baron | 3.00% | ~620 |
 | Untamed Wilds | 3.00% | ~620 |
-| Serving Ale | 2.00% | ~413 |
-| Against All Odds | 2.00% | ~413 |
-| Barren Lands | 2.00% | ~413 |
-| Sparkdew Crystals | 2.00% | ~413 |
-| Fishmen Ritual Site | 2.00% | ~413 |
-| Haunted Forest | 2.00% | ~413 |
-| Flooded Mines | 2.00% | ~413 |
-| Victory Through Prosperity | 2.00% | ~413 |
-| Defying the Crown | 2.00% | ~413 |
-| Into the Forest | 2.00% | ~413 |
+| Serving Ale | 2.00% | ~414 |
+| Against All Odds | 2.00% | ~414 |
+| Barren Lands | 2.00% | ~414 |
+| Sparkdew Crystals | 2.00% | ~414 |
+| Fishmen Ritual Site | 2.00% | ~414 |
+| Haunted Forest | 2.00% | ~414 |
+| Flooded Mines | 2.00% | ~414 |
+| Victory Through Prosperity | 2.00% | ~414 |
+| Defying the Crown | 2.00% | ~414 |
+| Into the Forest | 2.00% | ~414 |
 | Efficient Explorer | 1.00% | ~207 |
 | Refinery | 1.00% | ~207 |
 | Dangerous Lands | 1.00% | ~207 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,672 (Ranked 154)  
+Progressed: 20,675 (Ranked 154)  
 Completed: 34 (0.16%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 34 (0.16%) (Ranked 286)
 | 2024-01-08 | 20,508 | 34 |
 | 2024-01-09 | 20,595 | 34 |
 | 2024-01-10 | 20,658 | 34 |
-| 2024-01-11 | 20,672 | 34 |
+| 2024-01-11 | 20,675 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,369 (Ranked 177)  

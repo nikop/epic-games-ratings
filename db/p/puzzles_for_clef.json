@@ -2,10 +2,10 @@
   "ID": "2b29c539b72d4729ada6faacf434cf6d",
   "Name": "Puzzles for Clef",
   "ProductSlug": "puzzles-for-clef-f4f19d",
-  "Ranking_EOS_Progress": 826,
+  "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-07T03:57:17.6908524+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:56:56.3632063+00:00",
-  "LastUpdate_Achievements": "2024-01-11T12:04:03.8382457+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:03:15.7477877+00:00",
+  "LastUpdate_Achievements": "2024-01-11T13:10:09.3902824+00:00"
 }

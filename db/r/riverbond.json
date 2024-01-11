@@ -503,9 +503,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 535371,
+  "EOS_Progressed": 535372,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 568,
+  "EOS_NewPlayers": 567,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -28823,6 +28823,11 @@
       "Time": "2024-01-11T12:08:37.6750666+00:00",
       "NumProgressed": 535371,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2024-01-11T13:14:52.4182649+00:00",
+      "NumProgressed": 535372,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 57,
@@ -28834,7 +28839,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 123135
+      "UsersEstimate": 123136
     },
     {
       "ID": "10",
@@ -28914,7 +28919,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 331930
+      "UsersEstimate": 331931
     },
     {
       "ID": "2",
@@ -29066,7 +29071,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 85659
+      "UsersEstimate": 85660
     },
     {
       "ID": "37",
@@ -29162,7 +29167,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 331930
+      "UsersEstimate": 331931
     },
     {
       "ID": "48",
@@ -29218,7 +29223,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 123135
+      "UsersEstimate": 123136
     },
     {
       "ID": "54",
@@ -29289,15 +29294,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 535371,
+      "Progressed": 535372,
       "Completed": 519
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-12-14T14:59:39.4842186+00:00",
-  "LastChanged_Achievements": "2024-01-11T12:08:37.6750664+00:00",
+  "LastChanged_Achievements": "2024-01-11T13:14:52.4182647+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:34.7747339+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:58:22.5349256+00:00",
-  "LastUpdate_Achievements": "2024-01-11T12:08:37.675251+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:04:41.720472+00:00",
+  "LastUpdate_Achievements": "2024-01-11T13:14:52.4184444+00:00"
 }

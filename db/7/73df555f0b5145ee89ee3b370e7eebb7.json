@@ -2,10 +2,10 @@
   "ID": "73df555f0b5145ee89ee3b370e7eebb7",
   "Name": "Can\u0027t Be Touched",
   "ProductSlug": "cant-be-touch-7e87e8",
-  "Ranking_EOS_Progress": 826,
+  "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-05T13:01:18.6769271+00:00",
-  "LastUpdate_Ratings": "2024-01-11T12:03:30.6336947+00:00",
-  "LastUpdate_Achievements": "2024-01-11T12:05:31.3272633+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:09:35.0856364+00:00",
+  "LastUpdate_Achievements": "2024-01-11T13:11:37.7890699+00:00"
 }

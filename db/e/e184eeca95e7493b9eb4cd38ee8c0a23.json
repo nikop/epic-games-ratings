@@ -2,10 +2,10 @@
   "ID": "e184eeca95e7493b9eb4cd38ee8c0a23",
   "Name": "Lighthouse of Madness",
   "ProductSlug": "lighthouse-of-madness-d7429f",
-  "Ranking_EOS_Progress": 826,
+  "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-09T02:21:38.0844614+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:57:56.6084659+00:00",
-  "LastUpdate_Achievements": "2024-01-11T12:09:32.6551176+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:04:15.6806995+00:00",
+  "LastUpdate_Achievements": "2024-01-11T13:15:46.7306931+00:00"
 }

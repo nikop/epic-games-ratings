@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -263,10 +263,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 160822,
-  "EOS_Completed": 385,
-  "EOS_NewPlayers": 992,
-  "EOS_NewCompleters": 8,
+  "EOS_Progressed": 160825,
+  "EOS_Completed": 386,
+  "EOS_NewPlayers": 993,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -24848,6 +24848,11 @@
       "Time": "2024-01-11T12:04:23.2585775+00:00",
       "NumProgressed": 160822,
       "NumCompleted": 385
+    },
+    {
+      "Time": "2024-01-11T13:10:29.5378043+00:00",
+      "NumProgressed": 160825,
+      "NumCompleted": 386
     }
   ],
   "TotalAchievements": 31,
@@ -24867,7 +24872,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 112575
+      "UsersEstimate": 112578
     },
     {
       "ID": "EAwards_10",
@@ -24875,7 +24880,7 @@
       "Name": "Combo Nerd",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 22515
+      "UsersEstimate": 22516
     },
     {
       "ID": "EAwards_11",
@@ -24899,7 +24904,7 @@
       "Name": "Next-gen!!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9649
+      "UsersEstimate": 9650
     },
     {
       "ID": "EAwards_14",
@@ -24907,7 +24912,7 @@
       "Name": "Do or Do Not",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 64329
+      "UsersEstimate": 64330
     },
     {
       "ID": "EAwards_15",
@@ -24931,7 +24936,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 35381
+      "UsersEstimate": 35382
     },
     {
       "ID": "EAwards_18",
@@ -24939,7 +24944,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 35381
+      "UsersEstimate": 35382
     },
     {
       "ID": "EAwards_19",
@@ -24955,7 +24960,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 45030
+      "UsersEstimate": 45031
     },
     {
       "ID": "EAwards_20",
@@ -24971,7 +24976,7 @@
       "Name": "Got to catch them all",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 17690
+      "UsersEstimate": 17691
     },
     {
       "ID": "EAwards_22",
@@ -24995,7 +25000,7 @@
       "Name": "The Never Ending Combo",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 9649
+      "UsersEstimate": 9650
     },
     {
       "ID": "EAwards_25",
@@ -25043,7 +25048,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 30556
+      "UsersEstimate": 30557
     },
     {
       "ID": "EAwards_30",
@@ -25059,7 +25064,7 @@
       "Name": "Snuffed Out",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 24123
+      "UsersEstimate": 24124
     },
     {
       "ID": "EAwards_5",
@@ -25091,7 +25096,7 @@
       "Name": "Flawless",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 61112
+      "UsersEstimate": 61114
     },
     {
       "ID": "EAwards_9",
@@ -25106,16 +25111,16 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 160822,
-      "Completed": 385
+      "Progressed": 160825,
+      "Completed": 386
     }
   ],
   "FirstSeen": "2023-06-15T17:57:10.0099472+00:00",
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2024-01-11T12:04:23.258577+00:00",
+  "LastChanged_Achievements": "2024-01-11T13:10:29.5378038+00:00",
   "LastUpdate_AppInfo": "2024-01-05T09:57:06.478649+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:57:46.1885142+00:00",
-  "LastUpdate_Achievements": "2024-01-11T12:04:23.2587402+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:04:04.8694795+00:00",
+  "LastUpdate_Achievements": "2024-01-11T13:10:29.5379723+00:00"
 }

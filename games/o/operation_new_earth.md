@@ -22,10 +22,10 @@ Rating: 3.28 (Ranked 1,101)
 | Captain | 8.00% | ~177 |
 | Factory Expansion | 8.00% | ~177 |
 | Exterminator | 7.00% | ~155 |
-| Brothers in Arms | 7.00% | ~155 |
 | Know The Enemy | 6.00% | ~133 |
 | Silver Achiever | 6.00% | ~133 |
 | Moving On Up | 6.00% | ~133 |
+| Brothers in Arms | 6.00% | ~133 |
 | Player Betrayer | 5.00% | ~111 |
 | Major | 5.00% | ~111 |
 | Gold Achiever | 4.00% | ~89 |
@@ -44,7 +44,7 @@ Rating: 3.28 (Ranked 1,101)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,215 (Ranked 247)  
+Progressed: 2,216 (Ranked 247)  
 Completed: 1 (0.05%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 1 (0.05%) (Ranked 338)
 | 2024-01-08 | 2,196 | 1 |
 | 2024-01-09 | 2,204 | 1 |
 | 2024-01-10 | 2,212 | 1 |
-| 2024-01-11 | 2,215 | 1 |
+| 2024-01-11 | 2,216 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

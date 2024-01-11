@@ -13,7 +13,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not So Fast... | 14.00% | ~543 |
 | Purging Spree | 10.00% | ~388 |
 | Blood for the Blood God! | 9.00% | ~349 |
-| Bloodless | 7.00% | ~272 |
+| Bloodless | 8.00% | ~310 |
 | Surgical Excision | 6.00% | ~233 |
 | Friendly Fire | 6.00% | ~233 |
 | Honoured Battle-Brother | 5.00% | ~194 |

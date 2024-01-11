@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 693,
+  "EOS_Progressed": 694,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1954,6 +1954,11 @@
       "Time": "2024-01-10T20:10:18.6735497+00:00",
       "NumProgressed": 693,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T13:16:23.701719+00:00",
+      "NumProgressed": 694,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1995,9 +2000,9 @@
       "ID": "BossKiller",
       "SetID": "82505mn",
       "Name": "Boss Killer",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 153
     },
     {
       "ID": "BugHunter",
@@ -2005,7 +2010,7 @@
       "Name": "Bug Hunter",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "Cryomancer",
@@ -2125,7 +2130,7 @@
       "Name": "Money Swag",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Necromancer",
@@ -2284,7 +2289,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 693,
+      "Progressed": 694,
       "Completed": 1
     }
   ],
@@ -2292,8 +2297,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-11T12:10:09.5228112+00:00",
+  "LastChanged_Achievements": "2024-01-11T13:16:23.7017185+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:09.081719+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:58:00.8995938+00:00",
-  "LastUpdate_Achievements": "2024-01-11T12:10:09.5228436+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:04:19.89506+00:00",
+  "LastUpdate_Achievements": "2024-01-11T13:16:23.7017612+00:00"
 }

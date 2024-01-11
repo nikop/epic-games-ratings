@@ -2,13 +2,13 @@
   "ID": "5e427319eea1401ab20c6cd78a4163c4",
   "Name": "Call of the Sea",
   "ProductSlug": "call-of-the-sea",
-  "Ranking_Rating": 769,
+  "Ranking_Rating": 770,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-08T13:25:14+00:00",
@@ -325,10 +325,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 139128,
+  "EOS_Progressed": 139130,
   "EOS_Completed": 1254,
-  "EOS_NewPlayers": 1259,
-  "EOS_NewCompleters": 18,
+  "EOS_NewPlayers": 1251,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
     {
@@ -30765,6 +30765,11 @@
       "Time": "2024-01-11T12:04:30.1887181+00:00",
       "NumProgressed": 139128,
       "NumCompleted": 1254
+    },
+    {
+      "Time": "2024-01-11T13:10:36.3542378+00:00",
+      "NumProgressed": 139130,
+      "NumCompleted": 1254
     }
   ],
   "TotalAchievements": 34,
@@ -30792,7 +30797,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 58434
+      "UsersEstimate": 58435
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -30800,7 +30805,7 @@
       "Name": "Halfway there",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 41738
+      "UsersEstimate": 41739
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -30832,7 +30837,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 111302
+      "UsersEstimate": 111304
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -30848,7 +30853,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 77912
+      "UsersEstimate": 77913
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -30864,7 +30869,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 55651
+      "UsersEstimate": 55652
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -30928,7 +30933,7 @@
       "Name": "Not Another Boring Slideshow!",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 22260
+      "UsersEstimate": 22261
     },
     {
       "ID": "ACH_L04A_MIC",
@@ -30976,7 +30981,7 @@
       "Name": "Naacalvision",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 22260
+      "UsersEstimate": 22261
     },
     {
       "ID": "ACH_L05_STREAMS",
@@ -31032,7 +31037,7 @@
       "Name": "FHALGOF\u0027N\u0027",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 31999
+      "UsersEstimate": 32000
     },
     {
       "ID": "ACH_L06_TEMPLE_OBJ",
@@ -31047,7 +31052,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 139128,
+      "Progressed": 139130,
       "Completed": 1254
     }
   ],
@@ -31055,8 +31060,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2024-01-10T13:04:20.7610519+00:00",
-  "LastChanged_Achievements": "2024-01-11T12:04:30.1887177+00:00",
+  "LastChanged_Achievements": "2024-01-11T13:10:36.3542376+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:31.1133234+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:58:49.0984539+00:00",
-  "LastUpdate_Achievements": "2024-01-11T12:04:30.1888712+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:05:07.3850701+00:00",
+  "LastUpdate_Achievements": "2024-01-11T13:10:36.3543958+00:00"
 }

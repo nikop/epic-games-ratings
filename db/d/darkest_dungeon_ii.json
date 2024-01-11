@@ -10734,9 +10734,9 @@
       "Count": 1088
     }
   ],
-  "EOS_Progressed": 132439,
+  "EOS_Progressed": 132442,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 836,
+  "EOS_NewPlayers": 834,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39349,6 +39349,11 @@
       "Time": "2024-01-11T12:09:55.812023+00:00",
       "NumProgressed": 132439,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T13:16:09.9496224+00:00",
+      "NumProgressed": 132442,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39368,7 +39373,7 @@
       "Name": "Serenity Now!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7946
+      "UsersEstimate": 7947
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -39488,7 +39493,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7946
+      "UsersEstimate": 7947
     },
     {
       "ID": "combat_kill_cadavers",
@@ -39520,7 +39525,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7946
+      "UsersEstimate": 7947
     },
     {
       "ID": "combat_kill_fanatics",
@@ -39584,7 +39589,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7946
+      "UsersEstimate": 7947
     },
     {
       "ID": "combat_kill_pillagers",
@@ -39600,7 +39605,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7946
+      "UsersEstimate": 7947
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -39944,7 +39949,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -39952,7 +39957,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "quest_complete_crusader",
@@ -39991,21 +39996,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132439,
+      "Progressed": 132442,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7308,
+      "Progressed": 7311,
       "Completed": 824
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-11T11:59:39.7015642+00:00",
-  "LastChanged_Achievements": "2024-01-11T12:09:55.8120226+00:00",
+  "LastChanged_Achievements": "2024-01-11T13:16:09.949622+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:59:39.7015646+00:00",
-  "LastUpdate_Achievements": "2024-01-11T12:09:55.8121889+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:05:57.426467+00:00",
+  "LastUpdate_Achievements": "2024-01-11T13:16:09.9498313+00:00"
 }

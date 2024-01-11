@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 466,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -319,9 +319,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 1364,
+  "EOS_Progressed": 1365,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3944,6 +3944,11 @@
       "Time": "2024-01-11T11:08:43.1453093+00:00",
       "NumProgressed": 1364,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-11T13:14:42.3773267+00:00",
+      "NumProgressed": 1365,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -3964,7 +3969,7 @@
       "Name": "Ab Initio",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "AnthropicHills",
@@ -3996,7 +4001,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "BreakTheLoop",
@@ -4012,7 +4017,7 @@
       "Name": "Bridge Builder",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ChasingTheLight",
@@ -4052,7 +4057,7 @@
       "Name": "Discovery",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "EasternWetlands",
@@ -4092,7 +4097,7 @@
       "Name": "Gnothi Seauton",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "GoodCitizen",
@@ -4124,7 +4129,7 @@
       "Name": "Into the Machine",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "JustOneLap",
@@ -4156,7 +4161,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "Mnemosyne",
@@ -4188,7 +4193,7 @@
       "Name": "A New Beginning",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "NewMorality",
@@ -4300,7 +4305,7 @@
       "Name": "Team Spirit",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "TextAdventurer",
@@ -4364,7 +4369,7 @@
       "Name": "The Word Endures",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "TouchGrass",
@@ -4396,7 +4401,7 @@
       "Name": "Wanderers",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "WesternDelta",
@@ -4427,7 +4432,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1364,
+      "Progressed": 1365,
       "Completed": 2
     }
   ],
@@ -4435,8 +4440,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-10T10:00:11.108793+00:00",
-  "LastChanged_Achievements": "2024-01-11T12:08:27.1630236+00:00",
+  "LastChanged_Achievements": "2024-01-11T13:14:42.3773264+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:20.1968805+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:59:45.5326176+00:00",
-  "LastUpdate_Achievements": "2024-01-11T12:08:27.1630913+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:06:03.4027496+00:00",
+  "LastUpdate_Achievements": "2024-01-11T13:14:42.3773826+00:00"
 }

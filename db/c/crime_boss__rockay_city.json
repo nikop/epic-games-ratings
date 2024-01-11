@@ -3,12 +3,12 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1061,
-  "Ranking_Popularity": 210,
+  "Ranking_Popularity": 209,
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5437,11 +5437,17 @@
       "Rating": 3.96,
       "NumberOfAwards": 2810,
       "NumberOfAwardsMax": 594
+    },
+    {
+      "Time": "2024-01-11T13:03:23.4698991+00:00",
+      "Rating": 3.96,
+      "NumberOfAwards": 2814,
+      "NumberOfAwardsMax": 597
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2810,
-  "NumberOfAwardsMax": 594,
+  "NumberOfAwards": 2814,
+  "NumberOfAwardsMax": 597,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -5454,13 +5460,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 594
+      "Count": 597
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 553
+      "Count": 554
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5499,9 +5505,9 @@
       "Count": 539
     }
   ],
-  "EOS_Progressed": 93385,
+  "EOS_Progressed": 93388,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 415,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -31124,6 +31130,11 @@
       "Time": "2024-01-11T12:05:12.2324432+00:00",
       "NumProgressed": 93385,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-11T13:11:18.6443836+00:00",
+      "NumProgressed": 93388,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 41,
@@ -31135,7 +31146,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3735
+      "UsersEstimate": 3736
     },
     {
       "ID": "ACH_0011",
@@ -31279,7 +31290,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3735
+      "UsersEstimate": 3736
     },
     {
       "ID": "ACH_0210",
@@ -31287,7 +31298,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3735
+      "UsersEstimate": 3736
     },
     {
       "ID": "ACH_0211",
@@ -31462,22 +31473,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 93385,
+      "Progressed": 93388,
       "Completed": 58
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21732,
+      "Progressed": 21735,
       "Completed": 15599
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2024-01-10T19:00:45.5839607+00:00",
-  "LastChanged_Achievements": "2024-01-11T12:05:12.2324428+00:00",
+  "LastChanged": "2024-01-11T13:03:23.469899+00:00",
+  "LastChanged_Achievements": "2024-01-11T13:11:18.6443833+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:40.4736817+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:57:04.4438931+00:00",
-  "LastUpdate_Achievements": "2024-01-11T12:05:12.2325624+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:03:23.4698995+00:00",
+  "LastUpdate_Achievements": "2024-01-11T13:11:18.6446451+00:00"
 }

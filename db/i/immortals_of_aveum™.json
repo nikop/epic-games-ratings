@@ -433,9 +433,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3317,
+  "EOS_Progressed": 3319,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 665,
+  "EOS_NewPlayers": 667,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5208,6 +5208,11 @@
       "Time": "2024-01-11T12:10:03.3832467+00:00",
       "NumProgressed": 3317,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T13:16:17.6351433+00:00",
+      "NumProgressed": 3319,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5220,7 +5225,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2919
+      "UsersEstimate": 2921
     },
     {
       "ID": "achievement_10",
@@ -5228,7 +5233,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "achievement_11",
@@ -5268,7 +5273,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "achievement_16",
@@ -5300,7 +5305,7 @@
       "Name": "Socialite",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "achievement_2",
@@ -5308,7 +5313,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2687
+      "UsersEstimate": 2688
     },
     {
       "ID": "achievement_20",
@@ -5364,7 +5369,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 2289
+      "UsersEstimate": 2290
     },
     {
       "ID": "achievement_36",
@@ -5396,7 +5401,7 @@
       "Name": "No More Names",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "achievement_41",
@@ -5428,7 +5433,7 @@
       "Name": "Periapt Cerulean",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "achievement_45",
@@ -5452,7 +5457,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2455
+      "UsersEstimate": 2456
     },
     {
       "ID": "achievement_49",
@@ -5460,7 +5465,7 @@
       "Name": "Soldier",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "achievement_5",
@@ -5468,7 +5473,7 @@
       "Name": "Initiate",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "achievement_50",
@@ -5514,9 +5519,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1162
     },
     {
       "ID": "achievement_60",
@@ -5564,7 +5569,7 @@
       "Name": "Good Boy",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "achievement_7",
@@ -5580,7 +5585,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "achievement_9",
@@ -5595,7 +5600,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3317,
+      "Progressed": 3319,
       "Completed": 4
     }
   ],
@@ -5603,8 +5608,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-07T18:57:10.211335+00:00",
-  "LastChanged_Achievements": "2024-01-11T12:10:03.3832466+00:00",
+  "LastChanged_Achievements": "2024-01-11T13:16:17.635143+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8440656+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:58:58.1616569+00:00",
-  "LastUpdate_Achievements": "2024-01-11T12:10:03.3832987+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:05:16.3457781+00:00",
+  "LastUpdate_Achievements": "2024-01-11T13:16:17.6352158+00:00"
 }

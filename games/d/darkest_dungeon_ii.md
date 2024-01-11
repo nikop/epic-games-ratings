@@ -10,12 +10,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | Lost and Found | 8.00% | ~585 |
 | Autodidact | 7.00% | ~9,271 |
 | This guy... again? | 7.00% | ~512 |
-| Serenity Now! | 6.00% | ~7,946 |
-| This Belongs in a Museum | 6.00% | ~7,946 |
-| Creep and Sleep | 6.00% | ~7,946 |
-| Overdue Notice | 6.00% | ~7,946 |
-| Escape from the Black Hole | 6.00% | ~7,946 |
-| Ploughshares to Swords | 6.00% | ~438 |
+| Serenity Now! | 6.00% | ~7,947 |
+| This Belongs in a Museum | 6.00% | ~7,947 |
+| Creep and Sleep | 6.00% | ~7,947 |
+| Overdue Notice | 6.00% | ~7,947 |
+| Escape from the Black Hole | 6.00% | ~7,947 |
+| Ploughshares to Swords | 6.00% | ~439 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,622 |
 | It Rings a Bell | 5.00% | ~6,622 |
 | Not Today! | 5.00% | ~6,622 |
@@ -26,7 +26,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 5.00% | ~6,622 |
 | A Place to Lay Your Head | 5.00% | ~6,622 |
 | FNG | 5.00% | ~6,622 |
-| Bloody Graduation | 5.00% | ~365 |
+| Bloody Graduation | 5.00% | ~366 |
 | Spelunker | 4.00% | ~5,298 |
 | Merry Time | 4.00% | ~5,298 |
 | Harvest Festival | 4.00% | ~5,298 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,439 (Ranked 91)  
+Progressed: 132,442 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 4 (0.00%) (Ranked 397)
 | 2024-01-08 | 132,215 | 3 |
 | 2024-01-09 | 132,315 | 3 |
 | 2024-01-10 | 132,395 | 4 |
-| 2024-01-11 | 132,439 | 4 |
+| 2024-01-11 | 132,442 | 4 |
 ## Awards
 Max (Character Customization): 8,002  (Ranked 50)  
 Sum: 21,584 (Ranked 58)  

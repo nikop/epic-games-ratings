@@ -2,10 +2,10 @@
   "ID": "263de26be57d43528bb9c7fdb133b9fe",
   "Name": "Turnip Boy Robs a Bank",
   "ProductSlug": "turnip-boy-robs-a-bank-3fae0e",
-  "Ranking_EOS_Progress": 826,
+  "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2024-01-18T15:00:00+00:00",
     "PcReleaseDate": "2024-01-18T15:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-11T12:04:08.1418517+00:00",
+  "LastChanged_Achievements": "2024-01-11T13:10:13.8350343+00:00",
   "LastUpdate_AppInfo": "2024-01-11T10:57:09.1430898+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:57:20.4942063+00:00",
-  "LastUpdate_Achievements": "2024-01-11T12:04:08.1418531+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:03:40.1052781+00:00",
+  "LastUpdate_Achievements": "2024-01-11T13:10:13.8350367+00:00"
 }

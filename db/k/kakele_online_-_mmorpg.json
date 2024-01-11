@@ -2,10 +2,10 @@
   "ID": "23239f6dd17d4cb9b20ed983b7c6937a",
   "Name": "Kakele Online - MMORPG",
   "ProductSlug": "kakele-online-mmorpg-790f2f",
-  "Ranking_EOS_Progress": 826,
+  "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2020-02-01T08:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-05-03T07:56:48.2772324+00:00",
   "LastChanged": "2023-05-03T07:56:48.2772325+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:24.9785852+00:00",
-  "LastUpdate_Ratings": "2024-01-11T12:00:18.336634+00:00",
-  "LastUpdate_Achievements": "2024-01-11T12:08:44.750815+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:06:36.4602643+00:00",
+  "LastUpdate_Achievements": "2024-01-11T13:14:58.8410194+00:00"
 }

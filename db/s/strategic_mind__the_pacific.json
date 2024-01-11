@@ -2,10 +2,10 @@
   "ID": "8b531e41c217468c8737452310e5e595",
   "Name": "Strategic Mind: The Pacific",
   "ProductSlug": "strategic-mind-the-pacific-a0d2eb",
-  "Ranking_EOS_Progress": 826,
+  "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-01-19T16:00:00+00:00",
     "PcReleaseDate": "2020-10-25T00:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:03.3193292+00:00",
   "LastChanged": "2023-03-31T05:58:03.3193293+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:56.7872397+00:00",
-  "LastUpdate_Ratings": "2024-01-11T12:02:53.1082325+00:00",
-  "LastUpdate_Achievements": "2024-01-11T12:05:20.7503523+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:08:59.3959649+00:00",
+  "LastUpdate_Achievements": "2024-01-11T13:11:27.1749283+00:00"
 }

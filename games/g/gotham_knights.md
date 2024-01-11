@@ -5,7 +5,7 @@ Rating: 4.19 (Ranked 973)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,236 |
+| First Step Into the Knight | 50.00% | ~41,237 |
 | Har, Har, Har, Very Funny | 34.00% | ~28,041 |
 | Loose Ends | 33.00% | ~27,216 |
 | To the Victor Go the Spoils | 27.00% | ~22,268 |
@@ -20,16 +20,16 @@ Rating: 4.19 (Ranked 973)
 | Unstoppable Force | 20.00% | ~16,495 |
 | Bad Apples in Every Orchard | 20.00% | ~16,495 |
 | Snow Problem | 18.00% | ~14,845 |
-| The Show Mud Go On | 17.00% | ~14,020 |
-| From Inside Gotham's Walls | 17.00% | ~14,020 |
+| The Show Mud Go On | 17.00% | ~14,021 |
+| From Inside Gotham's Walls | 17.00% | ~14,021 |
 | Protector of Gotham | 16.00% | ~13,196 |
 | In Your Element | 15.00% | ~12,371 |
 | Universal Health Scare | 15.00% | ~12,371 |
 | Rock and a Hard Place | 14.00% | ~11,546 |
 | Cooldown | 14.00% | ~11,546 |
 | Voiceless | 14.00% | ~11,546 |
-| Shock Til They Drop | 13.00% | ~10,721 |
-| Seeking Asylum | 13.00% | ~10,721 |
+| Shock Til They Drop | 13.00% | ~10,722 |
+| Seeking Asylum | 13.00% | ~10,722 |
 | End of an Era | 12.00% | ~9,897 |
 | Not On My Watch | 12.00% | ~9,897 |
 | Bulldozed | 12.00% | ~9,897 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 973)
 | The Cold, the Bad and the Ugly | 0.30% | ~158 |
 | It's Nice to Be Wanted | 0.20% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,473 (Ranked 109)  
+Progressed: 82,474 (Ranked 109)  
 Completed: 133 (0.16%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 133 (0.16%) (Ranked 286)
 | 2024-01-08 | 82,151 | 132 |
 | 2024-01-09 | 82,304 | 133 |
 | 2024-01-10 | 82,440 | 133 |
-| 2024-01-11 | 82,473 | 133 |
+| 2024-01-11 | 82,474 | 133 |
 ## Awards
 Max (Great Boss Battles): 3,177  (Ranked 101)  
 Sum: 5,425 (Ranked 142)  

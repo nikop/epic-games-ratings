@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-28T03:00:00+00:00",
     "PcReleaseDate": "2023-09-01T11:00:00+00:00",
@@ -215,7 +215,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68606,
+  "EOS_Progressed": 68620,
   "EOS_Completed": 11760,
   "EOS_NewPlayers": 4156,
   "EOS_NewCompleters": 0,
@@ -16235,6 +16235,11 @@
       "Time": "2024-01-11T12:09:28.7672419+00:00",
       "NumProgressed": 68606,
       "NumCompleted": 11760
+    },
+    {
+      "Time": "2024-01-11T13:15:42.7945294+00:00",
+      "NumProgressed": 68620,
+      "NumCompleted": 11760
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -16255,7 +16260,7 @@
       "Name": "First blood",
       "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 50768
+      "UsersEstimate": 50779
     },
     {
       "ID": "grenadeKills",
@@ -16271,7 +16276,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2744
+      "UsersEstimate": 2745
     },
     {
       "ID": "headshots1000",
@@ -16358,7 +16363,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 68606,
+      "Progressed": 68620,
       "Completed": 11760
     }
   ],
@@ -16366,8 +16371,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2024-01-06T23:59:09.4867908+00:00",
-  "LastChanged_Achievements": "2024-01-11T12:09:28.7672416+00:00",
+  "LastChanged_Achievements": "2024-01-11T13:15:42.7945291+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.275557+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:57:06.650424+00:00",
-  "LastUpdate_Achievements": "2024-01-11T12:09:28.7673437+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:03:25.794096+00:00",
+  "LastUpdate_Achievements": "2024-01-11T13:15:42.7946363+00:00"
 }

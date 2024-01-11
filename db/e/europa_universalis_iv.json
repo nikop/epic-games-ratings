@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14203,10 +14203,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 64253,
       "NumberOfAwardsMax": 7790
+    },
+    {
+      "Time": "2024-01-11T13:04:12.4780403+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 64265,
+      "NumberOfAwardsMax": 7790
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 64253,
+  "NumberOfAwards": 64265,
   "NumberOfAwardsMax": 7790,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14214,7 +14220,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 7469
+      "Count": 7481
     },
     {
       "Text": "This game has Challenging Combat",
@@ -14277,9 +14283,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 496585,
+  "EOS_Progressed": 496620,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4943,
+  "EOS_NewPlayers": 4936,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44972,6 +44978,11 @@
       "Time": "2024-01-11T12:10:18.3489398+00:00",
       "NumProgressed": 496585,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T13:16:32.5610642+00:00",
+      "NumProgressed": 496620,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -46933,9 +46944,9 @@
       "ID": "achievement_royal_authority",
       "SetID": "8p2n7he",
       "Name": "Royal Authority",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 993
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -47886,21 +47897,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 496585,
+      "Progressed": 496620,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 496585,
+      "Progressed": 496620,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-11T07:58:02.6697004+00:00",
-  "LastChanged_Achievements": "2024-01-11T12:10:18.3489395+00:00",
+  "LastChanged": "2024-01-11T13:04:12.4780402+00:00",
+  "LastChanged_Achievements": "2024-01-11T13:16:32.561064+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.850256+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:57:53.616822+00:00",
-  "LastUpdate_Achievements": "2024-01-11T12:10:18.3500104+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:04:12.4780407+00:00",
+  "LastUpdate_Achievements": "2024-01-11T13:16:32.5621577+00:00"
 }

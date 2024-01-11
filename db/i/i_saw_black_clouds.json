@@ -4,8 +4,8 @@
   "ProductSlug": "i-saw-black-clouds-67008d",
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-03-30T17:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 411,
+  "EOS_Progressed": 412,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.46,
   "EosHistory": [
@@ -911,6 +911,11 @@
       "Time": "2024-01-09T21:03:41.8795205+00:00",
       "NumProgressed": 411,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-11T13:10:56.2911139+00:00",
+      "NumProgressed": 412,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -930,7 +935,7 @@
       "Name": "Believer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "clear",
@@ -1041,7 +1046,7 @@
     {
       "ID": "8b5dfcp",
       "IsBase": true,
-      "Progressed": 411,
+      "Progressed": 412,
       "Completed": 6
     }
   ],
@@ -1049,8 +1054,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2024-01-11T12:04:50.0773965+00:00",
+  "LastChanged_Achievements": "2024-01-11T13:10:56.2911136+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:21.4770671+00:00",
   "LastUpdate_Ratings": "2024-01-11T12:02:39.1652624+00:00",
-  "LastUpdate_Achievements": "2024-01-11T12:04:50.0774105+00:00"
+  "LastUpdate_Achievements": "2024-01-11T13:10:56.2911269+00:00"
 }

@@ -22,8 +22,8 @@ Rating: 4.54 (Ranked 553)
 | Damn Dude, You Gotta Lose Some Weight! | 35.00% | ~2,219 |
 | Where It All Begun | 33.00% | ~2,093 |
 | Recouped Investment | 31.00% | ~1,966 |
+| The More The Merrier | 28.00% | ~1,775 |
 | Living Nightmare | 27.00% | ~1,712 |
-| The More The Merrier | 27.00% | ~1,712 |
 | Omelette Du Fromage | 26.00% | ~1,649 |
 | The Darwin Era Was Here | 24.00% | ~1,522 |
 | Deep Into Insanity | 23.00% | ~1,458 |
@@ -34,9 +34,9 @@ Rating: 4.54 (Ranked 553)
 | Stuff Of Nightmares | 18.00% | ~1,141 |
 | Excavating The Truth | 18.00% | ~1,141 |
 | Abysmal Horrors | 18.00% | ~1,141 |
+| One For Every Occasion | 17.00% | ~1,078 |
 | Frontliner | 17.00% | ~1,078 |
 | The Cable Guy | 17.00% | ~1,078 |
-| One For Every Occasion | 16.00% | ~1,015 |
 | Bandage Lover | 16.00% | ~1,015 |
 | Regicide | 13.00% | ~824 |
 | This Went Smoothly | 11.00% | ~698 |

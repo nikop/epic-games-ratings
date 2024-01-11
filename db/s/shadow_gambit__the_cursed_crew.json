@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1516,
+  "EOS_Progressed": 1517,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.44,
   "EosHistory": [
@@ -5236,6 +5236,11 @@
       "Time": "2024-01-11T01:57:12.9667093+00:00",
       "NumProgressed": 1516,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-11T13:09:38.8892736+00:00",
+      "NumProgressed": 1517,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5256,7 +5261,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "_03_FinishAct1",
@@ -5272,7 +5277,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "_05_FinishAct2",
@@ -5336,7 +5341,7 @@
       "Name": "Privateer",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "_13_Completion_60",
@@ -5360,7 +5365,7 @@
       "Name": "Marauder",
       "Percentage": 3,
       "XP": 125,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "_16_UnlockCore8Characters",
@@ -5424,7 +5429,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -5448,14 +5453,14 @@
       "Name": "Welcome Back Jester",
       "Percentage": 3,
       "XP": 140,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1516,
+      "Progressed": 1517,
       "Completed": 37
     }
   ],
@@ -5463,8 +5468,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-09T20:59:58.0673284+00:00",
-  "LastChanged_Achievements": "2024-01-11T11:08:31.0320603+00:00",
+  "LastChanged_Achievements": "2024-01-11T13:09:38.8892724+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.9098347+00:00",
-  "LastUpdate_Ratings": "2024-01-11T12:02:49.6593571+00:00",
-  "LastUpdate_Achievements": "2024-01-11T11:08:31.0321087+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:08:55.9549905+00:00",
+  "LastUpdate_Achievements": "2024-01-11T13:09:38.8895611+00:00"
 }

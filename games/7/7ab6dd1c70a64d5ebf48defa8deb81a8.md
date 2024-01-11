@@ -6,7 +6,7 @@ Rating: 4.15 (Ranked 1,001)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 63.00% | ~1,402 |
-| Trinity | 32.00% | ~712 |
+| Trinity | 31.00% | ~690 |
 | A Taste of Wrath | 25.00% | ~556 |
 | The Collector | 25.00% | ~556 |
 | Find Allies | 24.00% | ~534 |
@@ -22,7 +22,7 @@ Rating: 4.15 (Ranked 1,001)
 | Essence Blow | 13.00% | ~289 |
 | Big Bazar | 13.00% | ~289 |
 | Alchemist | 13.00% | ~289 |
-| The Mentor | 10.00% | ~222 |
+| The Mentor | 10.00% | ~223 |
 | Calm before the Storm | 9.00% | ~200 |
 | To Battle | 8.00% | ~178 |
 | Airborne | 8.00% | ~178 |
@@ -33,16 +33,16 @@ Rating: 4.15 (Ranked 1,001)
 | Fine Feathers Make Fine Birds | 4.00% | ~89 |
 | Slayer | 3.00% | ~67 |
 | A Queen's Tale | 3.00% | ~67 |
-| Shardbearer | 2.00% | ~44 |
-| Flawless Victory | 2.00% | ~44 |
-| All There Is | 2.00% | ~44 |
-| False God | 2.00% | ~44 |
+| Shardbearer | 2.00% | ~45 |
+| Flawless Victory | 2.00% | ~45 |
+| All There Is | 2.00% | ~45 |
+| False God | 2.00% | ~45 |
 | Forgemaster | 1.00% | ~22 |
 | Summiter | 1.00% | ~22 |
 | All That Gold | 0.80% | ~18 |
 | Feeling Fancy | 0.40% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,225 (Ranked 245)  
+Progressed: 2,226 (Ranked 245)  
 Completed: 4 (0.18%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 4 (0.18%) (Ranked 282)
 | 2024-01-08 | 2,086 | 3 |
 | 2024-01-09 | 2,146 | 3 |
 | 2024-01-10 | 2,213 | 4 |
-| 2024-01-11 | 2,225 | 4 |
+| 2024-01-11 | 2,226 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

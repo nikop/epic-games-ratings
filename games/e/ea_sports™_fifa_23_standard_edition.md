@@ -5,47 +5,47 @@ Rating: 4.26 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~159,168 |
-| Dead-ball specialist | 61.00% | ~129,457 |
-| European Legend | 52.00% | ~110,356 |
-| Multitasking | 51.00% | ~108,234 |
-| Balanced Path | 49.00% | ~103,990 |
-| High Grades | 48.00% | ~101,868 |
-| A Moment of Your Time | 46.00% | ~97,623 |
-| Let the Games Begin | 46.00% | ~97,623 |
-| Aiming High | 46.00% | ~97,623 |
-| Tactical Tinkerer | 40.00% | ~84,890 |
-| Intuition and Execution | 39.00% | ~82,767 |
-| Squad Building Connoisseur | 38.00% | ~80,645 |
-| The Winning Formula | 36.00% | ~76,401 |
-| Parking the Bus | 28.00% | ~59,423 |
-| Safe House | 26.00% | ~55,178 |
-| Best of Five | 26.00% | ~55,178 |
-| Football is Everything | 24.00% | ~50,934 |
-| The Chosen One | 22.00% | ~46,689 |
-| Fresh Fit | 20.00% | ~42,445 |
-| Bring it on | 17.00% | ~36,078 |
-| Life-Like | 14.00% | ~29,711 |
-| Make the Grade | 12.00% | ~25,467 |
-| I Played Them All | 10.00% | ~21,222 |
-| Specialist | 10.00% | ~21,222 |
-| Teamwork works | 9.00% | ~19,100 |
-| First of Many | 9.00% | ~19,100 |
-| Momentous Achievement | 6.00% | ~12,733 |
-| In Cahoots | 5.00% | ~10,611 |
-| Becoming Unplayable | 5.00% | ~10,611 |
-| Shop till you drop | 5.00% | ~10,611 |
-| On the way up | 5.00% | ~10,611 |
-| Volta's best | 4.00% | ~8,489 |
-| Tune Your Club | 4.00% | ~8,489 |
-| Full-House | 4.00% | ~8,489 |
+| Power Shot | 75.00% | ~159,178 |
+| Dead-ball specialist | 61.00% | ~129,465 |
+| European Legend | 52.00% | ~110,364 |
+| Multitasking | 51.00% | ~108,241 |
+| Balanced Path | 49.00% | ~103,997 |
+| High Grades | 48.00% | ~101,874 |
+| A Moment of Your Time | 46.00% | ~97,629 |
+| Let the Games Begin | 46.00% | ~97,629 |
+| Aiming High | 46.00% | ~97,629 |
+| Tactical Tinkerer | 40.00% | ~84,895 |
+| Intuition and Execution | 39.00% | ~82,773 |
+| Squad Building Connoisseur | 38.00% | ~80,650 |
+| The Winning Formula | 36.00% | ~76,406 |
+| Parking the Bus | 28.00% | ~59,427 |
+| Safe House | 26.00% | ~55,182 |
+| Best of Five | 26.00% | ~55,182 |
+| Football is Everything | 24.00% | ~50,937 |
+| The Chosen One | 22.00% | ~46,692 |
+| Fresh Fit | 20.00% | ~42,448 |
+| Bring it on | 17.00% | ~36,080 |
+| Life-Like | 14.00% | ~29,713 |
+| Make the Grade | 12.00% | ~25,469 |
+| I Played Them All | 10.00% | ~21,224 |
+| Specialist | 10.00% | ~21,224 |
+| Teamwork works | 9.00% | ~19,101 |
+| First of Many | 9.00% | ~19,101 |
+| Momentous Achievement | 6.00% | ~12,734 |
+| In Cahoots | 5.00% | ~10,612 |
+| Becoming Unplayable | 5.00% | ~10,612 |
+| Shop till you drop | 5.00% | ~10,612 |
+| On the way up | 5.00% | ~10,612 |
+| Volta's best | 4.00% | ~8,490 |
+| Tune Your Club | 4.00% | ~8,490 |
+| Full-House | 4.00% | ~8,490 |
 | Sharing is Caring | 3.00% | ~6,367 |
 | Full wardrobe | 0.50% | ~1,061 |
 | Girl Power | 0.40% | ~849 |
 | Training Addict | 0.10% | ~212 |
 | Dazzling Personality | 0.10% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,224 (Ranked 81)  
+Progressed: 212,238 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,18 +164,18 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 211,646 | 0 |
 | 2024-01-09 | 211,900 | 0 |
 | 2024-01-10 | 212,128 | 0 |
-| 2024-01-11 | 212,224 | 0 |
+| 2024-01-11 | 212,238 | 0 |
 ## Awards
 Max (Diverse Characters): 22,205  (Ranked 21)  
-Sum: 110,240 (Ranked 17)  
+Sum: 110,247 (Ranked 17)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 22,205 |
-| This game is Highly Recommended | 15,072 |
+| This game is Highly Recommended | 15,077 |
 | This game has a Competitive Community | 14,430 |
 | This game has Amazing Characters | 12,401 |
-| This game is Extremely Fun | 11,886 |
+| This game is Extremely Fun | 11,888 |
 | This game has Competitive Players | 11,836 |
 | This game has Amazing Storytelling | 11,655 |
 | This game has Quickly Understood Controls | 10,755 |
@@ -554,4 +554,4 @@ Diff (max vs sum): 4
 | 2024-01-08 | 4.26 | 22,178 | 110,130 |
 | 2024-01-09 | 4.26 | 22,189 | 110,173 |
 | 2024-01-10 | 4.26 | 22,205 | 110,230 |
-| 2024-01-11 | 4.26 | 22,205 | 110,240 |
+| 2024-01-11 | 4.26 | 22,205 | 110,247 |

@@ -1,7 +1,7 @@
 # Limbo
 [Store](https://store.epicgames.com/en-US/p/limbo)  
 [View Rawdata](../../db/l/limbo.json)  
-Rating: 4.62 (Ranked 378)  
+Rating: 4.63 (Ranked 358)  
 Number of Ratings: 198  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -80,3 +80,4 @@ Number of Ratings: 198  (23.09.2022)
 | 2023-03-31 | 4.62 | - | 0 | 0 |
 | 2023-05-05 | 4.61 | - | 0 | 0 |
 | 2023-06-13 | 4.62 | - | 0 | 0 |
+| 2024-01-11 | 4.63 | - | 0 | 0 |

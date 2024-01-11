@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2215,
+  "EOS_Progressed": 2216,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8545,6 +8545,11 @@
       "Time": "2024-01-11T10:07:59.780204+00:00",
       "NumProgressed": 2215,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T13:14:33.0150833+00:00",
+      "NumProgressed": 2216,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8722,9 +8727,9 @@
       "ID": "objective_key_alliance_help_2",
       "SetID": "bm61c2p",
       "Name": "Brothers in Arms",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 133
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -8859,7 +8864,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2215,
+      "Progressed": 2216,
       "Completed": 1
     }
   ],
@@ -8867,8 +8872,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-11T12:08:17.7988308+00:00",
+  "LastChanged_Achievements": "2024-01-11T13:14:33.0150827+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:28.5639018+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:58:27.0321607+00:00",
-  "LastUpdate_Achievements": "2024-01-11T12:08:17.7988925+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:04:45.9107805+00:00",
+  "LastUpdate_Achievements": "2024-01-11T13:14:33.0151671+00:00"
 }

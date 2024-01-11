@@ -8,7 +8,7 @@ Number of Ratings: 116  (23.09.2022)
 | ---- | ---------- | ----- |
 | Green with Envy | 77.00% | ~421 |
 | First of many… | 67.00% | ~366 |
-| Helping Hand | 63.00% | ~345 |
+| Helping Hand | 64.00% | ~350 |
 | Increased Vigor | 59.00% | ~323 |
 | Fight Fire with Fire | 57.00% | ~312 |
 | Increased Capacity | 54.00% | ~295 |
@@ -39,7 +39,7 @@ Number of Ratings: 116  (23.09.2022)
 | Demon Meddler | 23.00% | ~126 |
 | Seeing Red | 23.00% | ~126 |
 | Maximum Capacity | 22.00% | ~120 |
-| Egomaniac | 21.00% | ~115 |
+| Egomaniac | 22.00% | ~120 |
 | Protector of Humanity | 20.00% | ~109 |
 | Everybody Wants to Rule the World | 20.00% | ~109 |
 | Community Outreach | 16.00% | ~88 |

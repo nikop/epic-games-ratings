@@ -3899,9 +3899,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 20672,
+  "EOS_Progressed": 20675,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19289,6 +19289,11 @@
       "Time": "2024-01-11T12:05:30.4320442+00:00",
       "NumProgressed": 20672,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-11T13:11:36.869313+00:00",
+      "NumProgressed": 20675,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19301,7 +19306,7 @@
       "Name": "Serving Ale",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "AllFood",
@@ -19405,7 +19410,7 @@
       "Name": "Against All Odds",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "WinNearArmory",
@@ -19429,7 +19434,7 @@
       "Name": "Barren Lands",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "WinNearBattleground",
@@ -19445,7 +19450,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "WinNearDangerous",
@@ -19469,7 +19474,7 @@
       "Name": "Fishmen Ritual Site",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "WinNearForbidden",
@@ -19485,7 +19490,7 @@
       "Name": "Haunted Forest",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "WinNearLevitating",
@@ -19501,7 +19506,7 @@
       "Name": "Flooded Mines",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "WinNearMonastery",
@@ -19637,7 +19642,7 @@
       "Name": "Taking Action",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "WinWithResolve",
@@ -19645,7 +19650,7 @@
       "Name": "Victory Through Prosperity",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "WinWithRuins",
@@ -19685,7 +19690,7 @@
       "Name": "Defying the Crown",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "Year1Dangerous",
@@ -19693,7 +19698,7 @@
       "Name": "Into the Forest",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "WinNearAbandoned",
@@ -19701,7 +19706,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "WinNearFrosts",
@@ -19725,7 +19730,7 @@
       "Name": "Overgrown Library",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "WinNearPetrified",
@@ -19772,15 +19777,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20672,
+      "Progressed": 20675,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-10T21:58:45.168716+00:00",
-  "LastChanged_Achievements": "2024-01-11T12:05:30.432044+00:00",
+  "LastChanged_Achievements": "2024-01-11T13:11:36.8693127+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:59:01.5466643+00:00",
-  "LastUpdate_Achievements": "2024-01-11T12:05:30.4321834+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:05:19.8220798+00:00",
+  "LastUpdate_Achievements": "2024-01-11T13:11:36.8694372+00:00"
 }

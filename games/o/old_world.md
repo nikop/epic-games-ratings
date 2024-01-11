@@ -61,6 +61,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 0.80% | ~131 |
 | Legendary Cities | 0.80% | ~131 |
 | Mausoleum | 0.80% | ~131 |
+| Mythology | 0.80% | ~131 |
 | Hanging Gardens in Babylon | 0.70% | ~115 |
 | Valiant | 0.70% | ~115 |
 | Just Difficulty | 0.70% | ~115 |
@@ -69,12 +70,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 0.70% | ~115 |
 | Learn to Play 3 | 0.70% | ~115 |
 | Building Wonders | 0.70% | ~115 |
-| Mythology | 0.70% | ~115 |
 | Beloved | 0.60% | ~98 |
 | Intercessor | 0.60% | ~98 |
 | Good Difficulty | 0.60% | ~98 |
 | Champions | 0.60% | ~98 |
 | Statesmen | 0.60% | ~98 |
+| Greece | 0.60% | ~98 |
 | Power to the People | 0.60% | ~98 |
 | Persian Paganism | 0.60% | ~98 |
 | Points Victory | 0.60% | ~98 |
@@ -90,7 +91,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.50% | ~82 |
 | Pantheon | 0.50% | ~82 |
 | Via Recta Souk | 0.50% | ~82 |
-| Greece | 0.50% | ~82 |
 | Economic Reform | 0.50% | ~82 |
 | Military Prestige | 0.50% | ~82 |
 | Legionary | 0.50% | ~82 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,407 (Ranked 169)  
+Progressed: 16,411 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -631,7 +631,7 @@ Completed: 5 (0.03%) (Ranked 355)
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
-| 2024-01-11 | 16,407 | 5 |
+| 2024-01-11 | 16,411 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,919 (Ranked 224)  

@@ -5,8 +5,8 @@ Rating: 4.60 (Ranked 430)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 70.00% | ~1,137 |
-| The Teleprobe | 56.00% | ~909 |
+| The Camp | 70.00% | ~1,138 |
+| The Teleprobe | 56.00% | ~910 |
 | The City | 50.00% | ~812 |
 | The field base | 45.00% | ~731 |
 | The Alliance | 42.00% | ~682 |
@@ -15,9 +15,9 @@ Rating: 4.60 (Ranked 430)
 | The End | 37.00% | ~601 |
 | The Necroevolution | 29.00% | ~471 |
 | Krauta is alive | 28.00% | ~455 |
-| On her own | 22.00% | ~357 |
-| Peacemaker | 22.00% | ~357 |
-| Volcanologist | 22.00% | ~357 |
+| On her own | 22.00% | ~358 |
+| Peacemaker | 22.00% | ~358 |
+| Volcanologist | 22.00% | ~358 |
 | Fierce fight | 21.00% | ~341 |
 | Evacuation | 20.00% | ~325 |
 | Beyond divisions | 18.00% | ~292 |
@@ -27,15 +27,15 @@ Rating: 4.60 (Ranked 430)
 | Violent solution | 9.00% | ~146 |
 | I leave no man behind | 9.00% | ~146 |
 | Innate curiosity | 7.00% | ~114 |
-| Ubiquitous holes | 6.00% | ~97 |
-| The Invincible | 6.00% | ~97 |
-| Strong objection | 6.00% | ~97 |
-| Got lost again | 5.00% | ~81 |
+| Ubiquitous holes | 6.00% | ~98 |
+| The Invincible | 6.00% | ~98 |
+| Got lost again | 6.00% | ~98 |
+| Strong objection | 6.00% | ~98 |
 | I leave no man behind (no exceptions) | 2.00% | ~32 |
 | Convoy list | 0.90% | ~15 |
 | No more mistakes | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,624 (Ranked 264)  
+Progressed: 1,625 (Ranked 264)  
 Completed: 1 (0.06%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 1 (0.06%) (Ranked 331)
 | 2024-01-08 | 1,543 | 1 |
 | 2024-01-09 | 1,579 | 1 |
 | 2024-01-10 | 1,615 | 1 |
-| 2024-01-11 | 1,624 | 1 |
+| 2024-01-11 | 1,625 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

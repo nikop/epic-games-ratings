@@ -85,9 +85,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2225,
+  "EOS_Progressed": 2226,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -4250,6 +4250,11 @@
       "Time": "2024-01-11T12:10:08.5754716+00:00",
       "NumProgressed": 2225,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T13:16:22.7058992+00:00",
+      "NumProgressed": 2226,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -4325,15 +4330,15 @@
       "Name": "The Mentor",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 712
+      "UsersEstimate": 690
     },
     {
       "ID": "ACH_11",
@@ -4349,7 +4354,7 @@
       "Name": "Shardbearer",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_13",
@@ -4413,7 +4418,7 @@
       "Name": "Flawless Victory",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_21",
@@ -4445,7 +4450,7 @@
       "Name": "All There Is",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_25",
@@ -4469,7 +4474,7 @@
       "Name": "False God",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_28",
@@ -4548,7 +4553,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2225,
+      "Progressed": 2226,
       "Completed": 4
     }
   ],
@@ -4556,8 +4561,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-09T14:59:34.4882092+00:00",
-  "LastChanged_Achievements": "2024-01-11T12:10:08.5754711+00:00",
+  "LastChanged_Achievements": "2024-01-11T13:16:22.7058987+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:56:54.6976502+00:00",
-  "LastUpdate_Achievements": "2024-01-11T12:10:08.5755139+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:03:13.3936839+00:00",
+  "LastUpdate_Achievements": "2024-01-11T13:16:22.7059547+00:00"
 }

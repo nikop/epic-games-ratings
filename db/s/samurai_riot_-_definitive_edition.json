@@ -2,10 +2,10 @@
   "ID": "c4df3c04249542f281ac31e59bebe24b",
   "Name": "Samurai Riot - Definitive Edition",
   "ProductSlug": "samurai-riot-definitive-edition-182a31",
-  "Ranking_EOS_Progress": 826,
+  "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-31T23:00:00+00:00",
     "PcReleaseDate": "2022-05-31T23:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.8274704+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:57:22.6948496+00:00",
-  "LastUpdate_Achievements": "2024-01-11T12:06:28.8599397+00:00"
+  "LastUpdate_Ratings": "2024-01-11T13:03:42.2995137+00:00",
+  "LastUpdate_Achievements": "2024-01-11T13:12:35.3430966+00:00"
 }
