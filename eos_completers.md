@@ -25,8 +25,8 @@
 | 23 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 19.44% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.52% |
-| 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 18.18% |
-| 27 | [The Riflemen](games/t/the_riflemen.md) | 17.09% |
+| 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.39% |
+| 27 | [The Riflemen](games/t/the_riflemen.md) | 17.08% |
 | 28 | [Island Cities](games/i/island_cities.md) | 16.96% |
 | 29 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 30 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
@@ -40,10 +40,10 @@
 | 38 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 38 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 11.11% |
 | 40 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
-| 41 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.10% |
+| 41 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.07% |
 | 42 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
-| 43 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.42% |
-| 44 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
+| 43 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
+| 43 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.38% |
 | 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.35% |
 | 46 | [Smelter](games/s/smelter.md) | 8.51% |
 | 47 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
@@ -56,13 +56,13 @@
 | 54 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.51% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.42% |
-| 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.25% |
+| 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.28% |
 | 58 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.23% |
 | 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.04% |
 | 60 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.01% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.96% |
-| 62 | [Scorn](games/s/scorn.md) | 6.94% |
 | 62 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.94% |
+| 63 | [Scorn](games/s/scorn.md) | 6.93% |
 | 64 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 6.67% |
 | 65 | [Anna's Quest](games/a/anna's_quest.md) | 6.45% |
 | 65 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.45% |
@@ -120,7 +120,7 @@
 | 118 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2.75% |
 | 119 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 2.70% |
 | 119 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.70% |
-| 121 | [The Complex](games/t/the_complex.md) | 2.67% |
+| 121 | [The Complex](games/t/the_complex.md) | 2.66% |
 | 122 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.64% |
 | 123 | [FORECLOSED](games/f/foreclosed.md) | 2.61% |
 | 124 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.60% |
@@ -313,15 +313,15 @@
 | 311 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.10% |
 | 311 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 311 | [Black Book](games/b/black_book.md) | 0.10% |
-| 311 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 311 | [Isonzo](games/i/isonzo.md) | 0.10% |
 | 311 | [Partisans 1941](games/p/partisans_1941.md) | 0.10% |
 | 311 | [Riverbond](games/r/riverbond.md) | 0.10% |
-| 318 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.09% |
-| 318 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.09% |
-| 318 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
-| 318 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.09% |
-| 318 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 317 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.09% |
+| 317 | [House Flipper](games/h/house_flipper.md) | 0.09% |
+| 317 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.09% |
+| 317 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
+| 317 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.09% |
+| 317 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 323 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.08% |
 | 323 | [MythForce](games/m/mythforce.md) | 0.08% |
 | 323 | [Port Royale 4](games/p/port_royale_4.md) | 0.08% |
