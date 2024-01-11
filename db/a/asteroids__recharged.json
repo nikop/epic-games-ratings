@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6080,
+  "EOS_Progressed": 6085,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 2225,
+  "EOS_NewPlayers": 2226,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1989,6 +1989,11 @@
       "Time": "2024-01-11T09:09:45.2290714+00:00",
       "NumProgressed": 6080,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-11T10:08:16.9135935+00:00",
+      "NumProgressed": 6085,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 16,
@@ -2032,7 +2037,7 @@
       "Name": "Keep Yourself Alive",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "ACH_KILLER_QUEEN",
@@ -2056,7 +2061,7 @@
       "Name": "Misfire",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "ACH_NOW_IM_HERE",
@@ -2064,7 +2069,7 @@
       "Name": "Now I\u0027m Here",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 2797
+      "UsersEstimate": 2799
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -2088,7 +2093,7 @@
       "Name": "The Hero",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 3101
+      "UsersEstimate": 3103
     },
     {
       "ID": "ACH_THE_HITMAN",
@@ -2096,7 +2101,7 @@
       "Name": "The Hitman",
       "Percentage": 27,
       "XP": 75,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1643
     },
     {
       "ID": "ACH_THE_INVISIBLE",
@@ -2104,7 +2109,7 @@
       "Name": "The Invisible Man",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "ACH_THE_MIRACLE",
@@ -2120,14 +2125,14 @@
       "Name": "We Will Rock You",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 6080,
+      "Progressed": 6085,
       "Completed": 5
     }
   ],
@@ -2135,8 +2140,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2024-01-11T09:09:45.2290711+00:00",
+  "LastChanged_Achievements": "2024-01-11T10:08:16.9135932+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:56:54.4877584+00:00",
-  "LastUpdate_Ratings": "2024-01-11T09:00:12.3956648+00:00",
-  "LastUpdate_Achievements": "2024-01-11T09:09:45.2290874+00:00"
+  "LastUpdate_Ratings": "2024-01-11T09:59:08.0684002+00:00",
+  "LastUpdate_Achievements": "2024-01-11T10:08:16.9136064+00:00"
 }

@@ -1,9 +1,9 @@
 {
   "ID": "a514bb4f67f045e0a80351e8ee64ffec",
   "Name": "MtLincoln",
-  "Ranking_EOS_Progress": 825,
+  "Ranking_EOS_Progress": 826,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 581,
+  "Ranking_EOS_NewPlayers": 582,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:21.7320933+00:00",
-  "LastUpdate_Ratings": "2024-01-11T09:00:45.332381+00:00",
-  "LastUpdate_Achievements": "2024-01-11T08:08:19.6365941+00:00"
+  "LastUpdate_Ratings": "2024-01-11T09:59:41.7218431+00:00",
+  "LastUpdate_Achievements": "2024-01-11T10:03:12.4444771+00:00"
 }

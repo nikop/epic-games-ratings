@@ -606,9 +606,9 @@
       "ID": "ACH_KILL_SUCC_1",
       "SetID": "ajki3eh",
       "Name": "I... I did it?",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 507
     },
     {
       "ID": "ACH_KILL_SUCC_2",
@@ -758,8 +758,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2024-01-11T09:06:55.0885738+00:00",
+  "LastChanged_Achievements": "2024-01-11T10:05:39.2579009+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:23.0773571+00:00",
-  "LastUpdate_Ratings": "2024-01-11T08:59:25.7697045+00:00",
-  "LastUpdate_Achievements": "2024-01-11T09:06:55.0885986+00:00"
+  "LastUpdate_Ratings": "2024-01-11T09:58:22.694717+00:00",
+  "LastUpdate_Achievements": "2024-01-11T10:05:39.2579263+00:00"
 }

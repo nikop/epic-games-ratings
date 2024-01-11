@@ -19,7 +19,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.70% | ~1,773 |
 | A Persistent Buzzing | 0.60% | ~1,520 |
 | Pure Energy | 0.60% | ~1,520 |
-| Fast Food | 0.60% | ~1,317 |
+| Fast Food | 0.60% | ~1,318 |
 | Terror in the Dark | 0.50% | ~1,267 |
 | The Overgrown Grove | 0.50% | ~1,098 |
 | Flames of Avernus | 0.50% | ~1,098 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,307 (Ranked 71)  
+Progressed: 253,312 (Ranked 71)  
 Completed: 2,611 (1.03%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -819,16 +819,16 @@ Completed: 2,611 (1.03%) (Ranked 176)
 | 2024-01-08 | 252,794 | 2,602 |
 | 2024-01-09 | 253,044 | 2,606 |
 | 2024-01-10 | 253,250 | 2,611 |
-| 2024-01-11 | 253,307 | 2,611 |
+| 2024-01-11 | 253,312 | 2,611 |
 ## Awards
 Max (Great for Beginners): 5,770  (Ranked 74)  
-Sum: 33,432 (Ranked 41)  
+Sum: 33,435 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,770 |
 | This game has Diverse Characters | 5,711 |
-| This game has Quickly Understood Controls | 4,903 |
+| This game has Quickly Understood Controls | 4,906 |
 | This game is Relaxing | 4,773 |
 | This game has Amazing Characters | 4,325 |
 | This game is Highly Recommended | 4,316 |
@@ -1186,3 +1186,4 @@ Diff (max vs sum): 33
 | 2024-01-08 | 4.06 | - | 5,763 | 33,403 |
 | 2024-01-09 | 4.06 | - | 5,768 | 33,417 |
 | 2024-01-10 | 4.06 | - | 5,770 | 33,432 |
+| 2024-01-11 | 4.06 | - | 5,770 | 33,435 |

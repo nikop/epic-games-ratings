@@ -11,10 +11,10 @@ Rating: 3.28 (Ranked 1,101)
 | Corporal | 15.00% | ~332 |
 | Sergeant | 12.00% | ~266 |
 | Covert Operative | 12.00% | ~266 |
-| Lieutenant | 10.00% | ~221 |
-| Getting Deployment | 10.00% | ~221 |
-| Stocking Up | 10.00% | ~221 |
-| On Target | 10.00% | ~221 |
+| Lieutenant | 10.00% | ~222 |
+| Getting Deployment | 10.00% | ~222 |
+| Stocking Up | 10.00% | ~222 |
+| On Target | 10.00% | ~222 |
 | Keeping Busy | 9.00% | ~199 |
 | Infantry Reporting | 9.00% | ~199 |
 | Fighting for Survival | 8.00% | ~177 |
@@ -44,7 +44,7 @@ Rating: 3.28 (Ranked 1,101)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,214 (Ranked 245)  
+Progressed: 2,215 (Ranked 245)  
 Completed: 1 (0.05%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 1 (0.05%) (Ranked 338)
 | 2024-01-08 | 2,196 | 1 |
 | 2024-01-09 | 2,204 | 1 |
 | 2024-01-10 | 2,212 | 1 |
-| 2024-01-11 | 2,214 | 1 |
+| 2024-01-11 | 2,215 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,9 +2,9 @@
   "ID": "f07cd8651a8341b0a7e6dbb5b63f67ef",
   "Name": "The Way of Wrath",
   "ProductSlug": "the-way-of-wrath-9c561f",
-  "Ranking_EOS_Progress": 825,
+  "Ranking_EOS_Progress": 826,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 581,
+  "Ranking_EOS_NewPlayers": 582,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-06T23:57:16.7935462+00:00",
-  "LastUpdate_Ratings": "2024-01-11T08:59:05.9778122+00:00",
+  "LastUpdate_Ratings": "2024-01-11T09:58:03.4667588+00:00",
   "LastUpdate_Achievements": "2024-01-11T09:07:00.6023504+00:00"
 }

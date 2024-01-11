@@ -1371,7 +1371,7 @@
   ],
   "EOS_Progressed": 3657,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8085,9 +8085,9 @@
       "ID": "ACH_KEEPING-IT-CLASSY",
       "SetID": "72olkc5",
       "Name": "Keeping it classy",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 951
+      "UsersEstimate": 987
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -8325,8 +8325,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2024-01-11T07:03:02.1626339+00:00",
-  "LastChanged_Achievements": "2024-01-11T09:06:22.5265978+00:00",
+  "LastChanged_Achievements": "2024-01-11T10:05:07.7334107+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:55.5577816+00:00",
-  "LastUpdate_Ratings": "2024-01-11T09:03:52.5407125+00:00",
-  "LastUpdate_Achievements": "2024-01-11T09:06:22.5266668+00:00"
+  "LastUpdate_Ratings": "2024-01-11T10:02:38.1851274+00:00",
+  "LastUpdate_Achievements": "2024-01-11T10:05:07.7334632+00:00"
 }

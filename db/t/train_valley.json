@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -150,9 +150,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 656,
+  "EOS_Progressed": 657,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1940,6 +1940,11 @@
       "Time": "2024-01-11T07:05:32.9187852+00:00",
       "NumProgressed": 656,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-11T10:05:02.1362146+00:00",
+      "NumProgressed": 657,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1957,9 +1962,9 @@
       "ID": "02_collector",
       "SetID": "chb1m60",
       "Name": "Collector",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 276
     },
     {
       "ID": "03_philatelist",
@@ -2103,7 +2108,7 @@
       "Name": "Sabotage",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "21_missed",
@@ -2119,7 +2124,7 @@
       "Name": "Ouroboros",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "23_closecall",
@@ -2127,7 +2132,7 @@
       "Name": "Close call!",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "24_mega",
@@ -2167,7 +2172,7 @@
       "Name": "Non Stop!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "29_madness",
@@ -2175,7 +2180,7 @@
       "Name": "Madness!",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "30_completelynuts",
@@ -2183,7 +2188,7 @@
       "Name": "Completely nuts!",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "31_chancellor",
@@ -2262,15 +2267,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 656,
+      "Progressed": 657,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2024-01-01T09:01:13.9555975+00:00",
-  "LastChanged_Achievements": "2024-01-11T09:06:16.9482631+00:00",
+  "LastChanged_Achievements": "2024-01-11T10:05:02.1362142+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.7403389+00:00",
-  "LastUpdate_Ratings": "2024-01-11T08:58:44.8501632+00:00",
-  "LastUpdate_Achievements": "2024-01-11T09:06:16.948302+00:00"
+  "LastUpdate_Ratings": "2024-01-11T09:57:40.9034155+00:00",
+  "LastUpdate_Achievements": "2024-01-11T10:05:02.1362454+00:00"
 }

@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1320,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -4368,9 +4368,9 @@
       "ID": "achievement_19",
       "SetID": "2cpn27e",
       "Name": "Counter Specialist",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 436
     },
     {
       "ID": "achievement_2",
@@ -4384,9 +4384,9 @@
       "ID": "achievement_20",
       "SetID": "2cpn27e",
       "Name": "Subsistence Skills",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 620
+      "UsersEstimate": 634
     },
     {
       "ID": "achievement_21",
@@ -4678,8 +4678,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-11T09:10:41.1460849+00:00",
+  "LastChanged_Achievements": "2024-01-11T10:09:12.2012558+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:30.0899668+00:00",
-  "LastUpdate_Ratings": "2024-01-11T08:58:22.8843025+00:00",
-  "LastUpdate_Achievements": "2024-01-11T09:10:41.1461405+00:00"
+  "LastUpdate_Ratings": "2024-01-11T09:57:18.4584328+00:00",
+  "LastUpdate_Achievements": "2024-01-11T10:09:12.2013136+00:00"
 }

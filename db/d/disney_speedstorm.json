@@ -2775,9 +2775,9 @@
       "Count": 61
     }
   ],
-  "EOS_Progressed": 394304,
+  "EOS_Progressed": 394321,
   "EOS_Completed": 1560,
-  "EOS_NewPlayers": 11042,
+  "EOS_NewPlayers": 11024,
   "EOS_NewCompleters": 130,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -20480,6 +20480,11 @@
       "Time": "2024-01-11T09:09:45.8088054+00:00",
       "NumProgressed": 394304,
       "NumCompleted": 1560
+    },
+    {
+      "Time": "2024-01-11T10:08:17.5675141+00:00",
+      "NumProgressed": 394321,
+      "NumCompleted": 1560
     }
   ],
   "TotalAchievements": 24,
@@ -20499,7 +20504,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 23658
+      "UsersEstimate": 23659
     },
     {
       "ID": "11",
@@ -20531,7 +20536,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 31544
+      "UsersEstimate": 31546
     },
     {
       "ID": "15",
@@ -20587,7 +20592,7 @@
       "Name": "PROTECTED",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 19715
+      "UsersEstimate": 19716
     },
     {
       "ID": "21",
@@ -20619,7 +20624,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 15772
+      "UsersEstimate": 15773
     },
     {
       "ID": "3",
@@ -20635,7 +20640,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 11829
+      "UsersEstimate": 11830
     },
     {
       "ID": "5",
@@ -20643,7 +20648,7 @@
       "Name": "ROOKIE",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 51260
+      "UsersEstimate": 51262
     },
     {
       "ID": "6",
@@ -20651,7 +20656,7 @@
       "Name": "PRO",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 15772
+      "UsersEstimate": 15773
     },
     {
       "ID": "7",
@@ -20682,7 +20687,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 394304,
+      "Progressed": 394321,
       "Completed": 1560
     }
   ],
@@ -20690,8 +20695,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2024-01-10T21:58:24.8435202+00:00",
-  "LastChanged_Achievements": "2024-01-11T09:09:45.808805+00:00",
+  "LastChanged_Achievements": "2024-01-11T10:08:17.5675138+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.3145678+00:00",
-  "LastUpdate_Ratings": "2024-01-11T08:59:33.0075038+00:00",
-  "LastUpdate_Achievements": "2024-01-11T09:09:45.8089071+00:00"
+  "LastUpdate_Ratings": "2024-01-11T09:58:29.6158234+00:00",
+  "LastUpdate_Achievements": "2024-01-11T10:08:17.5676138+00:00"
 }

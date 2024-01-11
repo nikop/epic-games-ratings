@@ -2,9 +2,9 @@
   "ID": "8dca2f96365a4363894df83c3e6c4fb5",
   "Name": "Sugar Shack",
   "ProductSlug": "sugar-shack-6791f8",
-  "Ranking_EOS_Progress": 825,
+  "Ranking_EOS_Progress": 826,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 581,
+  "Ranking_EOS_NewPlayers": 582,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-07T01:51:58.1581274+00:00",
-  "LastUpdate_Ratings": "2024-01-11T09:00:01.8932611+00:00",
-  "LastUpdate_Achievements": "2024-01-11T09:10:24.668767+00:00"
+  "LastUpdate_Ratings": "2024-01-11T09:58:57.8055929+00:00",
+  "LastUpdate_Achievements": "2024-01-11T10:08:55.8839228+00:00"
 }

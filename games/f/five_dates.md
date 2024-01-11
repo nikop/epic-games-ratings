@@ -20,7 +20,7 @@
 | Sore Loser | 4.00% | ~89 |
 | Crash and Burn | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,214 (Ranked 245)  
+Progressed: 2,214 (Ranked 246)  
 Completed: 12 (0.54%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |

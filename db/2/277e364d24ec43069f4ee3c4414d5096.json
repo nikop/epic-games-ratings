@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 119706,
+  "EOS_Progressed": 119707,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 695,
+  "EOS_NewPlayers": 694,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -24472,6 +24472,11 @@
       "Time": "2024-01-11T09:11:09.8406225+00:00",
       "NumProgressed": 119706,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2024-01-11T10:09:40.913705+00:00",
+      "NumProgressed": 119707,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 49,
@@ -24555,7 +24560,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 44291
+      "UsersEstimate": 44292
     },
     {
       "ID": "EAwards_18",
@@ -24611,7 +24616,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9576
+      "UsersEstimate": 9577
     },
     {
       "ID": "EAwards_24",
@@ -24874,7 +24879,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 119706,
+      "Progressed": 119707,
       "Completed": 60
     }
   ],
@@ -24882,8 +24887,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-07T23:57:01.9676007+00:00",
-  "LastChanged_Achievements": "2024-01-11T09:11:09.8406223+00:00",
+  "LastChanged_Achievements": "2024-01-11T10:09:40.9137048+00:00",
   "LastUpdate_AppInfo": "2024-01-05T09:57:07.0095771+00:00",
-  "LastUpdate_Ratings": "2024-01-11T08:59:55.0650681+00:00",
-  "LastUpdate_Achievements": "2024-01-11T09:11:09.8407746+00:00"
+  "LastUpdate_Ratings": "2024-01-11T09:58:51.0886383+00:00",
+  "LastUpdate_Achievements": "2024-01-11T10:09:40.9138241+00:00"
 }

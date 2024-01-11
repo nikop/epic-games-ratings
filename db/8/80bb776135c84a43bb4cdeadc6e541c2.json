@@ -1,0 +1,283 @@
+{
+  "ID": "80bb776135c84a43bb4cdeadc6e541c2",
+  "Name": "War Hospital",
+  "ProductSlug": "war-hospital",
+  "Ranking_EOS_Progress": 760,
+  "Ranking_EOS_Completed": 397,
+  "Ranking_EOS_NewPlayers": 582,
+  "Ranking_EOS_NewCompleters": 156,
+  "Store": {
+    "ReleaseDate": "2024-01-11T09:00:00+00:00",
+    "PcReleaseDate": "2024-01-11T09:00:00+00:00",
+    "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
+    "CustomAttributes": {}
+  },
+  "RatingHistory": [],
+  "ReviewsDisabled": false,
+  "Tags": [],
+  "EOS_Progressed": 1,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [
+    {
+      "Time": "2024-01-11T10:03:10.9589401+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-01-11T10:03:10.9591765+00:00",
+  "TotalAchievements": 29,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "achievement_1",
+      "SetID": "20gon1k",
+      "Name": "I grant you the rank of Major",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_10",
+      "SetID": "20gon1k",
+      "Name": "Doing all you can",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_11",
+      "SetID": "20gon1k",
+      "Name": "Help with the pain",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_12",
+      "SetID": "20gon1k",
+      "Name": "Do be his madness there is method in it?",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_13",
+      "SetID": "20gon1k",
+      "Name": "Lovestruck",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_14",
+      "SetID": "20gon1k",
+      "Name": "Time Is the Simplest Thing",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_15",
+      "SetID": "20gon1k",
+      "Name": "Little dorothy",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_16",
+      "SetID": "20gon1k",
+      "Name": "Cannon Fodder",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_17",
+      "SetID": "20gon1k",
+      "Name": "Have some air",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_18",
+      "SetID": "20gon1k",
+      "Name": "It will cost you an arm and a leg",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_19",
+      "SetID": "20gon1k",
+      "Name": "No rest for the exhausted",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_2",
+      "SetID": "20gon1k",
+      "Name": "Perfectly Balanced",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_20",
+      "SetID": "20gon1k",
+      "Name": "Practice makes perfect",
+      "Percentage": 100,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_21",
+      "SetID": "20gon1k",
+      "Name": "Old man and the P14",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_22",
+      "SetID": "20gon1k",
+      "Name": "Ashes to Ashes",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_23",
+      "SetID": "20gon1k",
+      "Name": "Friend in the Hood",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_24",
+      "SetID": "20gon1k",
+      "Name": "Spy Games",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_25",
+      "SetID": "20gon1k",
+      "Name": "Surgical Specialization",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_26",
+      "SetID": "20gon1k",
+      "Name": "Chemical Specialization",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_27",
+      "SetID": "20gon1k",
+      "Name": "Trauma Specialization",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_28",
+      "SetID": "20gon1k",
+      "Name": "Boy Scout",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_29",
+      "SetID": "20gon1k",
+      "Name": "Esprit de corps",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_3",
+      "SetID": "20gon1k",
+      "Name": "Micromanagement",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_4",
+      "SetID": "20gon1k",
+      "Name": "Fully Operational",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_5",
+      "SetID": "20gon1k",
+      "Name": "The best in the entire front",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_6",
+      "SetID": "20gon1k",
+      "Name": "Cause a Full Belly Is a Righteous Belly!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_7",
+      "SetID": "20gon1k",
+      "Name": "Dr Jekyll",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_8",
+      "SetID": "20gon1k",
+      "Name": "Mr Hyde",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_9",
+      "SetID": "20gon1k",
+      "Name": "A Man of the People",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "20gon1k",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-01-11T10:03:10.9591765+00:00",
+  "LastChanged_Achievements": "2024-01-11T10:03:10.9589396+00:00",
+  "LastUpdate_AppInfo": "2024-01-11T09:56:57.1800723+00:00",
+  "LastUpdate_Ratings": "2024-01-11T09:56:57.4672211+00:00",
+  "LastUpdate_Achievements": "2024-01-11T10:03:10.961252+00:00"
+}

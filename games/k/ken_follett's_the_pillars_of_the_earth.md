@@ -7,16 +7,16 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 39.00% | ~6,931 |
-| Man of politics | 34.00% | ~6,042 |
+| Man of politics | 34.00% | ~6,043 |
 | Yet another secret | 33.00% | ~5,865 |
 | Friends of sorts | 32.00% | ~5,687 |
-| Let there be darkness | 31.00% | ~5,509 |
+| Let there be darkness | 31.00% | ~5,510 |
 | End of Book One | 29.00% | ~5,154 |
 | Wannabe knight | 23.00% | ~4,088 |
 | Garden of Eden | 23.00% | ~4,088 |
 | Full house | 23.00% | ~4,088 |
 | Help an old friend | 21.00% | ~3,732 |
-| Two of us | 20.00% | ~3,554 |
+| Two of us | 20.00% | ~3,555 |
 | Negotiation skills | 18.00% | ~3,199 |
 | Workers' union | 18.00% | ~3,199 |
 | End of Book Two | 18.00% | ~3,199 |
@@ -29,11 +29,11 @@ Number of Ratings: 368  (23.09.2022)
 | Friar Tuck | 10.00% | ~1,777 |
 | First profit | 10.00% | ~1,777 |
 | Team player | 10.00% | ~1,777 |
-| Skilled merchant | 9.00% | ~1,599 |
-| Brother Marcus | 9.00% | ~1,599 |
-| The oath | 9.00% | ~1,599 |
-| The truth revealed | 9.00% | ~1,599 |
-| The End. | 9.00% | ~1,599 |
+| Skilled merchant | 9.00% | ~1,600 |
+| Brother Marcus | 9.00% | ~1,600 |
+| The oath | 9.00% | ~1,600 |
+| The truth revealed | 9.00% | ~1,600 |
+| The End. | 9.00% | ~1,600 |
 | Nothing but make-believe | 8.00% | ~1,422 |
 | A cry for help | 7.00% | ~1,244 |
 | Silentium est aureum | 7.00% | ~1,244 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~533 |
 | Boy of mystery | 2.00% | ~355 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,772 (Ranked 163)  
+Progressed: 17,773 (Ranked 163)  
 Completed: 125 (0.70%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 125 (0.70%) (Ranked 198)
 | 2024-01-08 | 17,727 | 125 |
 | 2024-01-09 | 17,744 | 125 |
 | 2024-01-10 | 17,768 | 125 |
-| 2024-01-11 | 17,772 | 125 |
+| 2024-01-11 | 17,773 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 327)  
 Sum: 200 (Ranked 418)  

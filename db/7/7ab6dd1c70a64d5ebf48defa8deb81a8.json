@@ -85,9 +85,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2221,
+  "EOS_Progressed": 2222,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -4235,6 +4235,11 @@
       "Time": "2024-01-11T08:10:13.091309+00:00",
       "NumProgressed": 2221,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T10:09:41.5628911+00:00",
+      "NumProgressed": 2222,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -4246,7 +4251,7 @@
       "Name": "Break Out",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1399
+      "UsersEstimate": 1400
     },
     {
       "ID": "ACH_02",
@@ -4286,7 +4291,7 @@
       "Name": "Godslayer",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_07",
@@ -4302,7 +4307,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ACH_09",
@@ -4350,7 +4355,7 @@
       "Name": "Airborne",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_15",
@@ -4494,7 +4499,7 @@
       "Name": "Miner",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_34",
@@ -4502,7 +4507,7 @@
       "Name": "The Collector",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ACH_35",
@@ -4533,7 +4538,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2221,
+      "Progressed": 2222,
       "Completed": 4
     }
   ],
@@ -4541,8 +4546,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-09T14:59:34.4882092+00:00",
-  "LastChanged_Achievements": "2024-01-11T09:11:10.4951588+00:00",
+  "LastChanged_Achievements": "2024-01-11T10:09:41.5628909+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-11T09:03:39.0301718+00:00",
-  "LastUpdate_Achievements": "2024-01-11T09:11:10.4952142+00:00"
+  "LastUpdate_Ratings": "2024-01-11T10:02:24.9503874+00:00",
+  "LastUpdate_Achievements": "2024-01-11T10:09:41.5629363+00:00"
 }

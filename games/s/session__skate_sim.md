@@ -7,7 +7,7 @@ Number of Ratings: 111  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're free now! | 63.00% | ~2,304 |
-| Keeping it classy | 26.00% | ~951 |
+| Keeping it classy | 27.00% | ~987 |
 | Welcome to the family | 21.00% | ~768 |
 | The finer things in life | 19.00% | ~695 |
 | Backpacker | 13.00% | ~475 |

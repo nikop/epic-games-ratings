@@ -20,6 +20,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 2.00% | ~328 |
 | Hanging Gardens | 2.00% | ~328 |
 | Oracle | 2.00% | ~328 |
+| Judaism | 2.00% | ~328 |
 | Ambitious | 1.00% | ~164 |
 | Brilliant | 1.00% | ~164 |
 | Enlightened | 1.00% | ~164 |
@@ -44,7 +45,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 1.00% | ~164 |
 | Learn to Play 2 | 1.00% | ~164 |
 | Christianity | 1.00% | ~164 |
-| Judaism | 1.00% | ~164 |
 | Babylonian Paganism | 1.00% | ~164 |
 | Carthaginian Paganism | 1.00% | ~164 |
 | Greek Paganism | 1.00% | ~164 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,404 (Ranked 169)  
+Progressed: 16,405 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -631,7 +631,7 @@ Completed: 5 (0.03%) (Ranked 355)
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
-| 2024-01-11 | 16,404 | 5 |
+| 2024-01-11 | 16,405 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,919 (Ranked 224)  

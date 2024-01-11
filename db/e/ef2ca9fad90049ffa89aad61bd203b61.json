@@ -2,9 +2,9 @@
   "ID": "ef2ca9fad90049ffa89aad61bd203b61",
   "Name": "Kenshi",
   "ProductSlug": "kenshi-c79c40",
-  "Ranking_EOS_Progress": 825,
+  "Ranking_EOS_Progress": 826,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 581,
+  "Ranking_EOS_NewPlayers": 582,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-09T18:56:59.4471315+00:00",
-  "LastUpdate_Ratings": "2024-01-11T09:01:01.2013224+00:00",
-  "LastUpdate_Achievements": "2024-01-11T09:05:31.8637113+00:00"
+  "LastUpdate_Ratings": "2024-01-11T09:59:58.601281+00:00",
+  "LastUpdate_Achievements": "2024-01-11T10:04:16.6510698+00:00"
 }

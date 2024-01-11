@@ -4,7 +4,7 @@
   "ProductSlug": "madden-nfl-24",
   "Ranking_Rating": 1009,
   "Ranking_Popularity": 398,
-  "Ranking_PopularitySum": 358,
+  "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 78,
@@ -1507,10 +1507,16 @@
       "Rating": 4.14,
       "NumberOfAwards": 394,
       "NumberOfAwardsMax": 87
+    },
+    {
+      "Time": "2024-01-11T09:58:11.2148187+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 396,
+      "NumberOfAwardsMax": 87
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 394,
+  "NumberOfAwards": 396,
   "NumberOfAwardsMax": 87,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1572,12 +1578,12 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 32
+      "Count": 34
     }
   ],
-  "EOS_Progressed": 10100,
+  "EOS_Progressed": 10101,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1685,
+  "EOS_NewPlayers": 1683,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10940,6 +10946,11 @@
       "Time": "2024-01-11T09:04:28.5413355+00:00",
       "NumProgressed": 10100,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T10:03:13.4096194+00:00",
+      "NumProgressed": 10101,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -11048,7 +11059,7 @@
       "Name": "Saw It Coming",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 5858
+      "UsersEstimate": 5859
     },
     {
       "ID": "achievement_21",
@@ -11119,16 +11130,16 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 10100,
+      "Progressed": 10101,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2024-01-11T03:58:00.2415285+00:00",
-  "LastChanged_Achievements": "2024-01-11T09:04:28.5413353+00:00",
+  "LastChanged": "2024-01-11T09:58:11.2148186+00:00",
+  "LastChanged_Achievements": "2024-01-11T10:03:13.4096191+00:00",
   "LastUpdate_AppInfo": "2024-01-04T09:57:17.1124999+00:00",
-  "LastUpdate_Ratings": "2024-01-11T08:59:13.9272713+00:00",
-  "LastUpdate_Achievements": "2024-01-11T09:04:28.5414191+00:00"
+  "LastUpdate_Ratings": "2024-01-11T09:58:11.2148189+00:00",
+  "LastUpdate_Achievements": "2024-01-11T10:03:13.4096769+00:00"
 }

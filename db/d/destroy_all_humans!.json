@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -305,9 +305,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 447,
+  "EOS_Progressed": 448,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -1800,6 +1800,11 @@
       "Time": "2024-01-11T06:05:51.7410273+00:00",
       "NumProgressed": 447,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-11T10:04:18.0719688+00:00",
+      "NumProgressed": 448,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1820,7 +1825,7 @@
       "Name": "Arkvoodle Doodle",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_ABILITY_DRAINVEHICLE",
@@ -1868,7 +1873,7 @@
       "Name": "Forbidden Donut",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
@@ -1882,9 +1887,9 @@
       "ID": "ACH_ABILITY_SMASHBUTTON",
       "SetID": "cefn62b",
       "Name": "Rock of the Bay",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_ABILITY_TRANSMOG",
@@ -1892,7 +1897,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_ABILITY_WITHWEAPON",
@@ -1972,7 +1977,7 @@
       "Name": "Kaijuiced",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -2002,25 +2007,25 @@
       "ID": "ACH_ENEMY_KILLROBOPREZ",
       "SetID": "cefn62b",
       "Name": "Higher Than the Futen Zoku",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_ENEMY_KILLSWITHEXPLOSIVE",
       "SetID": "cefn62b",
       "Name": "Lobster Blisque",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
       "SetID": "cefn62b",
       "Name": "Arty Facts",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_INVADE_AREA42",
@@ -2044,7 +2049,7 @@
       "Name": "Pimp My Raid",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -2060,7 +2065,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -2108,7 +2113,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2124,22 +2129,22 @@
       "Name": "Trans-Siberian Express",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     }
   ],
   "AchievementSets": [
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 447,
+      "Progressed": 448,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-11T09:05:33.2449613+00:00",
+  "LastChanged_Achievements": "2024-01-11T10:04:18.0719685+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:15.0942873+00:00",
-  "LastUpdate_Ratings": "2024-01-11T08:58:25.5858116+00:00",
-  "LastUpdate_Achievements": "2024-01-11T09:05:33.2449983+00:00"
+  "LastUpdate_Ratings": "2024-01-11T09:57:21.4185592+00:00",
+  "LastUpdate_Achievements": "2024-01-11T10:04:18.0720097+00:00"
 }

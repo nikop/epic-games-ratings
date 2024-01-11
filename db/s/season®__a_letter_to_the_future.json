@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2089,
+  "EOS_Progressed": 2091,
   "EOS_Completed": 77,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 3.69,
+  "EOS_Completed_Percentage": 3.68,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -4914,6 +4914,11 @@
       "Time": "2024-01-11T06:11:08.1133305+00:00",
       "NumProgressed": 2089,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-11T10:09:32.1940626+00:00",
+      "NumProgressed": 2091,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 16,
@@ -4933,7 +4938,7 @@
       "Name": "Deep Listener",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -4941,15 +4946,15 @@
       "Name": "Dream Listener",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
       "SetID": "7pam6gn",
       "Name": "Emotional Baggage Handler",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 355
+      "UsersEstimate": 335
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -4973,23 +4978,23 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ACH_HOMELEAVER",
       "SetID": "7pam6gn",
       "Name": "Home Leaver",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 40,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1631
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
       "SetID": "7pam6gn",
       "Name": "Journal Beautifier",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 40,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1631
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -5013,7 +5018,7 @@
       "Name": "Outside World Seer",
       "Percentage": 59,
       "XP": 40,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -5029,7 +5034,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "ACH_THEEND",
@@ -5052,7 +5057,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 2089,
+      "Progressed": 2091,
       "Completed": 77
     }
   ],
@@ -5060,8 +5065,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-11T09:11:01.1479853+00:00",
+  "LastChanged_Achievements": "2024-01-11T10:09:32.1940622+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:30.8878388+00:00",
-  "LastUpdate_Ratings": "2024-01-11T08:58:21.1107997+00:00",
-  "LastUpdate_Achievements": "2024-01-11T09:11:01.1480262+00:00"
+  "LastUpdate_Ratings": "2024-01-11T09:57:16.5880008+00:00",
+  "LastUpdate_Achievements": "2024-01-11T10:09:32.1940932+00:00"
 }

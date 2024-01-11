@@ -2,9 +2,9 @@
   "ID": "21d4aa1a99174082b7a63e1e97fb673c",
   "Name": "qomp2",
   "ProductSlug": "qomp-2-f3ee6d",
-  "Ranking_EOS_Progress": 825,
+  "Ranking_EOS_Progress": 826,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 581,
+  "Ranking_EOS_NewPlayers": 582,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2024-02-20T08:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-09T22:57:01.0556856+00:00",
-  "LastUpdate_Ratings": "2024-01-11T08:58:36.293114+00:00",
-  "LastUpdate_Achievements": "2024-01-11T09:06:41.7988871+00:00"
+  "LastUpdate_Ratings": "2024-01-11T09:57:32.5068032+00:00",
+  "LastUpdate_Achievements": "2024-01-11T10:05:26.2872108+00:00"
 }

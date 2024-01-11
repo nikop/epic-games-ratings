@@ -854,9 +854,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6259,
+  "EOS_Progressed": 6260,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13009,6 +13009,11 @@
       "Time": "2024-01-11T07:08:28.5622588+00:00",
       "NumProgressed": 6259,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-11T10:03:11.8749236+00:00",
+      "NumProgressed": 6260,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13021,7 +13026,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -13109,7 +13114,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -13157,7 +13162,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -13181,7 +13186,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -13204,15 +13209,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6259,
+      "Progressed": 6260,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-11T08:08:18.9777768+00:00",
+  "LastChanged_Achievements": "2024-01-11T10:03:11.8749234+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-11T08:58:23.2595153+00:00",
-  "LastUpdate_Achievements": "2024-01-11T08:08:18.9778463+00:00"
+  "LastUpdate_Ratings": "2024-01-11T09:57:18.8376011+00:00",
+  "LastUpdate_Achievements": "2024-01-11T10:03:11.8750596+00:00"
 }

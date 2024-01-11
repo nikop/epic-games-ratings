@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~3,740 |
-| Spectre Inductee | 66.00% | ~2,743 |
+| Distinguished Service Medal | 90.00% | ~3,741 |
+| Spectre Inductee | 66.00% | ~2,744 |
 | Medal of Exploration I | 55.00% | ~2,286 |
-| Recruit | 51.00% | ~2,120 |
+| Recruit | 52.00% | ~2,162 |
 | Search and Rescue | 51.00% | ~2,120 |
 | Quarian Ally | 48.00% | ~1,995 |
-| Medal of Heroism | 43.00% | ~1,787 |
-| Honorarium of Corporate Service | 43.00% | ~1,787 |
-| Turian Ally | 40.00% | ~1,662 |
-| Medal of Exploration II | 38.00% | ~1,579 |
+| Medal of Heroism | 43.00% | ~1,788 |
+| Honorarium of Corporate Service | 43.00% | ~1,788 |
+| Turian Ally | 40.00% | ~1,663 |
+| Medal of Exploration II | 38.00% | ~1,580 |
 | Council Legion of Merit | 37.00% | ~1,538 |
-| Missing in Action | 36.00% | ~1,496 |
+| Missing in Action | 36.00% | ~1,497 |
 | Medal of Honor | 35.00% | ~1,455 |
 | Meritorious Service Medal | 35.00% | ~1,455 |
 | Soldier Ally | 35.00% | ~1,455 |
 | Soldier | 34.00% | ~1,413 |
 | Charismatic | 34.00% | ~1,413 |
-| Asari Ally | 33.00% | ~1,371 |
-| Very Elusive | 33.00% | ~1,371 |
+| Asari Ally | 33.00% | ~1,372 |
+| Very Elusive | 33.00% | ~1,372 |
 | Colonial Savior | 32.00% | ~1,330 |
-| Medal of Exploration III | 31.00% | ~1,288 |
-| Principled | 31.00% | ~1,288 |
-| Scientist | 31.00% | ~1,288 |
+| Medal of Exploration III | 31.00% | ~1,289 |
+| Principled | 31.00% | ~1,289 |
+| Scientist | 31.00% | ~1,289 |
 | Sentinel Ally | 30.00% | ~1,247 |
 | Krogan Ally | 30.00% | ~1,247 |
 | Merciless | 30.00% | ~1,247 |
-| Paramour I | 29.00% | ~1,205 |
-| Scholar | 29.00% | ~1,205 |
+| Paramour I | 29.00% | ~1,206 |
+| Scholar | 29.00% | ~1,206 |
 | The Archangel | 28.00% | ~1,164 |
 | The Professor | 28.00% | ~1,164 |
 | Head Hunter | 28.00% | ~1,164 |
@@ -40,16 +40,16 @@
 | Power Full | 26.00% | ~1,081 |
 | Colony Defense | 25.00% | ~1,039 |
 | The Krogan | 25.00% | ~1,039 |
-| Veteran | 24.00% | ~997 |
-| Broke, Blind, and Bedlam | 24.00% | ~997 |
-| Driven | 24.00% | ~997 |
+| Veteran | 24.00% | ~998 |
+| Broke, Blind, and Bedlam | 24.00% | ~998 |
+| Driven | 24.00% | ~998 |
 | Ghost Ship | 23.00% | ~956 |
 | The Assassin | 23.00% | ~956 |
-| The Justicar | 22.00% | ~914 |
-| The Quarian | 22.00% | ~914 |
-| The Prodigal | 22.00% | ~914 |
-| Galactic Explorer | 22.00% | ~914 |
-| Shopaholic | 22.00% | ~914 |
+| The Justicar | 22.00% | ~915 |
+| The Quarian | 22.00% | ~915 |
+| The Prodigal | 22.00% | ~915 |
+| Galactic Explorer | 22.00% | ~915 |
+| Shopaholic | 22.00% | ~915 |
 | A Personal Touch | 21.00% | ~873 |
 | Archivist | 21.00% | ~873 |
 | Battlemaster | 21.00% | ~873 |
@@ -84,8 +84,8 @@
 | Pathfinder | 16.00% | ~665 |
 | Tunnel Rat | 16.00% | ~665 |
 | Arbiter | 16.00% | ~665 |
-| Savior | 15.00% | ~623 |
-| Lost and Found | 15.00% | ~623 |
+| Savior | 15.00% | ~624 |
+| Lost and Found | 15.00% | ~624 |
 | Paramour II | 14.00% | ~582 |
 | Party Crasher | 14.00% | ~582 |
 | Hard Target | 14.00% | ~582 |
@@ -108,7 +108,7 @@
 | Electronics Specialist | 10.00% | ~416 |
 | Combined Arms | 9.00% | ~374 |
 | Mail Slot | 9.00% | ~374 |
-| Warp Mastery | 8.00% | ~332 |
+| Warp Mastery | 8.00% | ~333 |
 | Barrier Mastery | 7.00% | ~291 |
 | Always Prepared | 7.00% | ~291 |
 | Bruiser | 7.00% | ~291 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~42 |
 | The One and Only | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,156 (Ranked 211)  
+Progressed: 4,157 (Ranked 211)  
 Completed: 13 (0.31%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,4 +250,4 @@ Completed: 13 (0.31%) (Ranked 254)
 | 2024-01-08 | 3,994 | 13 |
 | 2024-01-09 | 4,058 | 13 |
 | 2024-01-10 | 4,135 | 13 |
-| 2024-01-11 | 4,156 | 13 |
+| 2024-01-11 | 4,157 | 13 |

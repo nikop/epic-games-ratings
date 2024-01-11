@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -413,9 +413,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 14584,
+  "EOS_Progressed": 14587,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 1432,
+  "EOS_NewPlayers": 1421,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9968,6 +9968,11 @@
       "Time": "2024-01-11T09:11:08.7114339+00:00",
       "NumProgressed": 14584,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-11T10:09:39.7401042+00:00",
+      "NumProgressed": 14587,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -9988,7 +9993,7 @@
       "Name": "Baby Steps",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 5834
+      "UsersEstimate": 5835
     },
     {
       "ID": "BeLikeWater",
@@ -10020,7 +10025,7 @@
       "Name": "Connection Lost",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 3354
+      "UsersEstimate": 3355
     },
     {
       "ID": "Eavesdropper",
@@ -10052,7 +10057,7 @@
       "Name": "First Time?",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 7875
+      "UsersEstimate": 7877
     },
     {
       "ID": "FuneralForTheDeath",
@@ -10172,7 +10177,7 @@
       "Name": "The Old-School Way",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 3646
+      "UsersEstimate": 3647
     },
     {
       "ID": "TheQuarterback",
@@ -10180,7 +10185,7 @@
       "Name": "The Quarterback",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6125
+      "UsersEstimate": 6127
     },
     {
       "ID": "ThisIsDharma",
@@ -10188,7 +10193,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2333
+      "UsersEstimate": 2334
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -10251,7 +10256,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14584,
+      "Progressed": 14587,
       "Completed": 27
     }
   ],
@@ -10259,8 +10264,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-10T20:00:42.7473431+00:00",
-  "LastChanged_Achievements": "2024-01-11T09:11:08.7114337+00:00",
+  "LastChanged_Achievements": "2024-01-11T10:09:39.740104+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:18.9626026+00:00",
-  "LastUpdate_Ratings": "2024-01-11T08:58:04.8212131+00:00",
-  "LastUpdate_Achievements": "2024-01-11T09:11:08.7115382+00:00"
+  "LastUpdate_Ratings": "2024-01-11T09:57:00.4384939+00:00",
+  "LastUpdate_Achievements": "2024-01-11T10:09:39.740195+00:00"
 }

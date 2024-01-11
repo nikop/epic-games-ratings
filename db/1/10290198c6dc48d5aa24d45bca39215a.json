@@ -2,9 +2,9 @@
   "ID": "10290198c6dc48d5aa24d45bca39215a",
   "Name": "Beach Invasion 1945 - Pacific",
   "ProductSlug": "beach-invasion-1945-pacific-dad6cf",
-  "Ranking_EOS_Progress": 825,
+  "Ranking_EOS_Progress": 826,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 581,
+  "Ranking_EOS_NewPlayers": 582,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -28,9 +28,571 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-01-11T10:05:00.4002988+00:00",
+  "TotalAchievements": 70,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "NEW_ACHIEVEMENT_1_0",
+      "SetID": "4flilh1",
+      "Name": "Marksman Auto. Rifle",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_1",
+      "SetID": "4flilh1",
+      "Name": "Marksman Machine Gun",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_10",
+      "SetID": "4flilh1",
+      "Name": "Bronze Star",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_11",
+      "SetID": "4flilh1",
+      "Name": "Silver Star",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_12",
+      "SetID": "4flilh1",
+      "Name": "Philippine Defense Medal",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_13",
+      "SetID": "4flilh1",
+      "Name": "Philippine Liberty Medal",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_14",
+      "SetID": "4flilh1",
+      "Name": "\u0022I came through and I shall return!\u0022",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_15",
+      "SetID": "4flilh1",
+      "Name": "American Campaign Medal",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_16",
+      "SetID": "4flilh1",
+      "Name": "Pacific Campaign Medal",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_17",
+      "SetID": "4flilh1",
+      "Name": "World War II Victory Medal",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_18",
+      "SetID": "4flilh1",
+      "Name": "Artilleryman",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_19",
+      "SetID": "4flilh1",
+      "Name": "Purple Heart",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_2",
+      "SetID": "4flilh1",
+      "Name": "Marksman AA",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_20",
+      "SetID": "4flilh1",
+      "Name": "Military Merit",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_21",
+      "SetID": "4flilh1",
+      "Name": "Legion of Merit",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_22",
+      "SetID": "4flilh1",
+      "Name": "Distinguished Service Medal",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_23",
+      "SetID": "4flilh1",
+      "Name": "Distinguished Service Cross",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_24",
+      "SetID": "4flilh1",
+      "Name": "Medal of Honor(Land)",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_25",
+      "SetID": "4flilh1",
+      "Name": "Observer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_26",
+      "SetID": "4flilh1",
+      "Name": "Navigator",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_27",
+      "SetID": "4flilh1",
+      "Name": "Senior Observer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_28",
+      "SetID": "4flilh1",
+      "Name": "Bombardier",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_29",
+      "SetID": "4flilh1",
+      "Name": "Senior Navigator",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_3",
+      "SetID": "4flilh1",
+      "Name": "Sharpshooter Auto. Rifle",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_30",
+      "SetID": "4flilh1",
+      "Name": "Distinguished Flier Cross",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_31",
+      "SetID": "4flilh1",
+      "Name": "\u0022Payback for Pearl Harbor!\u0022",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_4",
+      "SetID": "4flilh1",
+      "Name": "Sharpshooter Machine Gun",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_5",
+      "SetID": "4flilh1",
+      "Name": "Sharpshooter AA",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_6",
+      "SetID": "4flilh1",
+      "Name": "Expert Auto. Rifle",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_7",
+      "SetID": "4flilh1",
+      "Name": "Expert Machine Gun",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_8",
+      "SetID": "4flilh1",
+      "Name": "Expert AA",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_9",
+      "SetID": "4flilh1",
+      "Name": "Soldier\u0027s Medal",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_0",
+      "SetID": "4flilh1",
+      "Name": "Medal of Honor(Air)",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_1",
+      "SetID": "4flilh1",
+      "Name": "Naval Combatant",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_10",
+      "SetID": "4flilh1",
+      "Name": "Firefighting Merit",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_11",
+      "SetID": "4flilh1",
+      "Name": "NCO Regular",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_12",
+      "SetID": "4flilh1",
+      "Name": "Officer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_13",
+      "SetID": "4flilh1",
+      "Name": "Banzai!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_14",
+      "SetID": "4flilh1",
+      "Name": "Marksmanship 3rd Class",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_15",
+      "SetID": "4flilh1",
+      "Name": "Marksmanship 2rd Class",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_16",
+      "SetID": "4flilh1",
+      "Name": "Marksmanship 1st Class",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_17",
+      "SetID": "4flilh1",
+      "Name": "Descendent of Samurai!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_18",
+      "SetID": "4flilh1",
+      "Name": "Sea defender",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_19",
+      "SetID": "4flilh1",
+      "Name": "Coastal defender",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_2",
+      "SetID": "4flilh1",
+      "Name": "Coast Guard",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_20",
+      "SetID": "4flilh1",
+      "Name": "Coastal Gunner",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_21",
+      "SetID": "4flilh1",
+      "Name": "Veteran Coastal Defender",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_22",
+      "SetID": "4flilh1",
+      "Name": "Kamikaze!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_23",
+      "SetID": "4flilh1",
+      "Name": "\u0022Toro! Toro! Toro!\u0022",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_24",
+      "SetID": "4flilh1",
+      "Name": "Type 2 Wound Badge",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_25",
+      "SetID": "4flilh1",
+      "Name": "Occupation Medal",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_26",
+      "SetID": "4flilh1",
+      "Name": "Taisho Enthronement Medal",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_27",
+      "SetID": "4flilh1",
+      "Name": "Showa Enthronement Medal",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_28",
+      "SetID": "4flilh1",
+      "Name": "Old War Medal",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_29",
+      "SetID": "4flilh1",
+      "Name": "Long War Medal",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_3",
+      "SetID": "4flilh1",
+      "Name": "Coast Guard Commendation Medal",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_30",
+      "SetID": "4flilh1",
+      "Name": "Great East Asia War Medal",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_31",
+      "SetID": "4flilh1",
+      "Name": "Order of Culture",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_4",
+      "SetID": "4flilh1",
+      "Name": "Marine Heroism!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_5",
+      "SetID": "4flilh1",
+      "Name": "Navy Distinguished Service Medal",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_6",
+      "SetID": "4flilh1",
+      "Name": "Navy Cross",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_7",
+      "SetID": "4flilh1",
+      "Name": "Medal of Honor(Sea)",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_8",
+      "SetID": "4flilh1",
+      "Name": "Regular",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_9",
+      "SetID": "4flilh1",
+      "Name": "Three Legged Crow Badge",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_3_0",
+      "SetID": "4flilh1",
+      "Name": "Order of the Sacred Treasure",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_3_1",
+      "SetID": "4flilh1",
+      "Name": "The Order of the Rising Sun",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_3_2",
+      "SetID": "4flilh1",
+      "Name": "Order of the Paulownia Flowers",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_3_3",
+      "SetID": "4flilh1",
+      "Name": "Order of the Golden Kite",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_3_4",
+      "SetID": "4flilh1",
+      "Name": "The Order of the Chrysanthemum",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_3_5",
+      "SetID": "4flilh1",
+      "Name": "Tenno Heika Banzai!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "4flilh1",
@@ -40,8 +602,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-11T00:05:04.8948822+00:00",
-  "LastChanged_Achievements": "2024-01-11T09:06:15.2470866+00:00",
+  "LastChanged_Achievements": "2024-01-11T10:05:00.4002981+00:00",
   "LastUpdate_AppInfo": "2024-01-08T13:01:56.8515964+00:00",
-  "LastUpdate_Ratings": "2024-01-11T08:59:56.8535725+00:00",
-  "LastUpdate_Achievements": "2024-01-11T09:06:15.2470884+00:00"
+  "LastUpdate_Ratings": "2024-01-11T09:58:53.0242716+00:00",
+  "LastUpdate_Achievements": "2024-01-11T10:05:00.401127+00:00"
 }
