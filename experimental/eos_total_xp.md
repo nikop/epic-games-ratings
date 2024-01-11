@@ -104,6 +104,7 @@
 | [Angelo and Deemon: One Hell of a Quest](../games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 17 | 1,000 |
 | [Anna's Quest](../games/a/anna's_quest.md) | 39 | 1,000 |
 | [ANNO Mutationem](../games/a/anno_mutationem.md) | 36 | 1,000 |
+| [Anvil Saga](../games/3/3d0d05ac4f044b5b901eb481e9084c28.md) | 36 | 1,000 |
 | [Apotheorasis • Lab of the Blind Gods](../games/a/apotheorasis_•_lab_of_the_blind_gods.md) | 22 | 1,000 |
 | [Aragami 2](../games/a/aragami_2.md) | 44 | 1,000 |
 | [Arcade Paradise](../games/a/arcade_paradise.md) | 54 | 1,000 |

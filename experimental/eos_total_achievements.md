@@ -342,6 +342,7 @@
 | [Warhammer Age of Sigmar: Realms of Ruin](../games/0/0f4a57443f904107818acfc2068704f9.md) | 37 | 1,000 |
 | [Your Computer Might Be At Risk](../games/0/04db5160b1fa4fb9acd8f8603f65e12d.md) | 37 | 1,000 |
 | [ANNO Mutationem](../games/a/anno_mutationem.md) | 36 | 1,000 |
+| [Anvil Saga](../games/3/3d0d05ac4f044b5b901eb481e9084c28.md) | 36 | 1,000 |
 | [Atlas Fallen](../games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 36 | 1,000 |
 | [ATOM RPG](../games/a/atom_rpg.md) | 36 | 1,000 |
 | [Born of Bread](../games/2/269f94247b4f471b9381fd4052bf1fad.md) | 36 | 1,000 |
