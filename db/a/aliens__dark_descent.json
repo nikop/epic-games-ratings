@@ -543,9 +543,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 6329,
+  "EOS_Progressed": 6330,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 540,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9513,6 +9513,11 @@
       "Time": "2024-01-11T01:56:49.4811277+00:00",
       "NumProgressed": 6329,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-11T02:30:38.4612237+00:00",
+      "NumProgressed": 6330,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -9564,7 +9569,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -9636,7 +9641,7 @@
       "Name": "Call Me Snake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3354
+      "UsersEstimate": 3355
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -9700,7 +9705,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1392
+      "UsersEstimate": 1393
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -9716,7 +9721,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 3291
+      "UsersEstimate": 3292
     },
     {
       "ID": "ACH_MISSION_02",
@@ -9740,7 +9745,7 @@
       "Name": "Making a Stand",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2278
+      "UsersEstimate": 2279
     },
     {
       "ID": "ACH_MISSION_05",
@@ -9820,7 +9825,7 @@
       "Name": "Snatched Out",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3987
+      "UsersEstimate": 3988
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -9828,7 +9833,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 4873
+      "UsersEstimate": 4874
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -9836,7 +9841,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -9852,7 +9857,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2215
+      "UsersEstimate": 2216
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -9883,7 +9888,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6329,
+      "Progressed": 6330,
       "Completed": 3
     }
   ],
@@ -9891,8 +9896,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-10T09:00:12.2019568+00:00",
-  "LastChanged_Achievements": "2024-01-11T01:56:49.4811273+00:00",
+  "LastChanged_Achievements": "2024-01-11T02:30:38.4612234+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.3437063+00:00",
-  "LastUpdate_Ratings": "2024-01-11T01:49:48.175797+00:00",
-  "LastUpdate_Achievements": "2024-01-11T01:56:49.4811891+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:24:00.2586527+00:00",
+  "LastUpdate_Achievements": "2024-01-11T02:30:38.4612881+00:00"
 }

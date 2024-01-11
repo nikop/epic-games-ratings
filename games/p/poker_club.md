@@ -5,27 +5,27 @@ Rating: 3.84 (Ranked 1,080)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~418,487 |
-| Handy | 42.00% | ~231,269 |
-| Cold Caller | 40.00% | ~220,256 |
-| A Bit On The Side | 27.00% | ~148,673 |
+| Pro Creation | 76.00% | ~418,489 |
+| Handy | 42.00% | ~231,270 |
+| Cold Caller | 40.00% | ~220,258 |
+| A Bit On The Side | 27.00% | ~148,674 |
 | Backdoor | 26.00% | ~143,167 |
-| Rank Amateur | 22.00% | ~121,141 |
+| Rank Amateur | 22.00% | ~121,142 |
 | Three Way | 19.00% | ~104,622 |
 | Deadly Assassin | 16.00% | ~88,103 |
 | Gutshot | 14.00% | ~77,090 |
 | Risk It For A Biscuit | 14.00% | ~77,090 |
-| Showoff | 13.00% | ~71,583 |
+| Showoff | 13.00% | ~71,584 |
 | W.H.I.P. | 12.00% | ~66,077 |
 | Bet Bet Bet | 10.00% | ~55,064 |
 | Blindman's Bluff | 9.00% | ~49,558 |
 | Poker Joker | 9.00% | ~49,558 |
-| Never Give Up | 8.00% | ~44,051 |
-| The Bigger They Are | 8.00% | ~44,051 |
-| Total Knock Out | 8.00% | ~44,051 |
+| Never Give Up | 8.00% | ~44,052 |
+| The Bigger They Are | 8.00% | ~44,052 |
+| Total Knock Out | 8.00% | ~44,052 |
 | Dog Eat Dog | 7.00% | ~38,545 |
 | Quack Quack | 7.00% | ~38,545 |
-| Give Your Regards To Broadway | 6.00% | ~33,038 |
+| Give Your Regards To Broadway | 6.00% | ~33,039 |
 | Check Yourself | 4.00% | ~22,026 |
 | Moneymaker | 4.00% | ~22,026 |
 | In The Gang | 3.00% | ~16,519 |
@@ -35,7 +35,7 @@ Rating: 3.84 (Ranked 1,080)
 | Keep Your Heads Up | 2.00% | ~11,013 |
 | Bluffing Eh? | 1.00% | ~5,506 |
 | Go For It | 1.00% | ~5,506 |
-| Regular Punter | 0.70% | ~3,854 |
+| Regular Punter | 0.70% | ~3,855 |
 | Club Legend | 0.60% | ~3,304 |
 | How I Roll | 0.60% | ~3,304 |
 | Bring It On | 0.20% | ~1,101 |
@@ -51,7 +51,7 @@ Rating: 3.84 (Ranked 1,080)
 | Rounder | 0.10% | ~551 |
 | Top Dog | 0.10% | ~551 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 550,641 (Ranked 35)  
+Progressed: 550,644 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,11 +316,11 @@ Completed: 2 (0.00%) (Ranked 396)
 | 2024-01-08 | 550,165 | 2 |
 | 2024-01-09 | 550,384 | 2 |
 | 2024-01-10 | 550,625 | 2 |
-| 2024-01-11 | 550,641 | 2 |
+| 2024-01-11 | 550,644 | 2 |
 ## Awards
-Max (Great for Beginners): 67  (Ranked 421)  
+Max (Great for Beginners): 67  (Ranked 422)  
 Sum: 210 (Ranked 412)  
-Diff (max vs sum): 9  
+Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 67 |

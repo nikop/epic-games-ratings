@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 1047,
+  "Ranking_Rating": 1048,
   "Ranking_Popularity": 78,
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 86,
@@ -8113,7 +8113,7 @@
       "Count": 3820
     }
   ],
-  "EOS_Progressed": 150642,
+  "EOS_Progressed": 150645,
   "EOS_Completed": 348,
   "EOS_NewPlayers": 1387,
   "EOS_NewCompleters": 6,
@@ -36198,6 +36198,11 @@
       "Time": "2024-01-11T01:58:08.702128+00:00",
       "NumProgressed": 150642,
       "NumCompleted": 348
+    },
+    {
+      "Time": "2024-01-11T02:33:03.900077+00:00",
+      "NumProgressed": 150645,
+      "NumCompleted": 348
     }
   ],
   "TotalAchievements": 112,
@@ -36433,7 +36438,7 @@
       "Name": "Ultimate Collector",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "commonres01",
@@ -36473,7 +36478,7 @@
       "Name": "Disintermediation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12051
+      "UsersEstimate": 12052
     },
     {
       "ID": "craft02",
@@ -36553,7 +36558,7 @@
       "Name": "Unleashed Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "energy01",
@@ -36777,7 +36782,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "legenchant01",
@@ -37104,15 +37109,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 150642,
+      "Progressed": 150645,
       "Completed": 348
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-10T14:04:13.4714827+00:00",
-  "LastChanged_Achievements": "2024-01-11T01:58:08.7021276+00:00",
+  "LastChanged_Achievements": "2024-01-11T02:33:03.9000765+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.0260329+00:00",
-  "LastUpdate_Ratings": "2024-01-11T01:52:41.2449504+00:00",
-  "LastUpdate_Achievements": "2024-01-11T01:58:08.7023632+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:27:43.1574504+00:00",
+  "LastUpdate_Achievements": "2024-01-11T02:33:03.9003033+00:00"
 }

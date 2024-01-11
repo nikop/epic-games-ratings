@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 491,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2040,9 +2040,9 @@
       "ID": "AC_CROSSBOW_MAX",
       "SetID": "16i2akc",
       "Name": "Bolt",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "AC_DEATH_1",
@@ -2247,8 +2247,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-11T01:54:44.0562782+00:00",
+  "LastChanged_Achievements": "2024-01-11T02:29:09.6349796+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:59.4542445+00:00",
-  "LastUpdate_Ratings": "2024-01-11T01:50:23.1905067+00:00",
-  "LastUpdate_Achievements": "2024-01-11T01:54:44.0563152+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:24:23.1443998+00:00",
+  "LastUpdate_Achievements": "2024-01-11T02:29:09.6350209+00:00"
 }

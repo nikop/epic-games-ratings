@@ -531,9 +531,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 257507,
+  "EOS_Progressed": 257508,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 750,
+  "EOS_NewPlayers": 749,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30336,6 +30336,11 @@
       "Time": "2024-01-11T01:53:21.4180733+00:00",
       "NumProgressed": 257507,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-11T02:28:11.3880775+00:00",
+      "NumProgressed": 257508,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -30619,7 +30624,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 18025
+      "UsersEstimate": 18026
     },
     {
       "ID": "ACH_MEMESMART",
@@ -30762,7 +30767,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 257507,
+      "Progressed": 257508,
       "Completed": 8
     }
   ],
@@ -30770,8 +30775,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-07T06:59:33.5120789+00:00",
-  "LastChanged_Achievements": "2024-01-11T01:53:21.4180724+00:00",
+  "LastChanged_Achievements": "2024-01-11T02:28:11.3880771+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:49.3537821+00:00",
-  "LastUpdate_Ratings": "2024-01-11T01:47:38.9470469+00:00",
-  "LastUpdate_Achievements": "2024-01-11T01:53:21.4182258+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:22:32.8628856+00:00",
+  "LastUpdate_Achievements": "2024-01-11T02:28:11.3882114+00:00"
 }

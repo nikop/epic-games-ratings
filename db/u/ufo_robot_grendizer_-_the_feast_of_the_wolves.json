@@ -4,7 +4,7 @@
   "ProductSlug": "goldorak-d90cf1",
   "Ranking_EOS_Progress": 516,
   "Ranking_EOS_Completed": 396,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -666,8 +666,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2024-01-11T01:56:56.3368842+00:00",
+  "LastChanged_Achievements": "2024-01-11T02:30:43.4400718+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:49.9847922+00:00",
-  "LastUpdate_Ratings": "2024-01-11T01:47:43.7568167+00:00",
-  "LastUpdate_Achievements": "2024-01-11T01:56:56.3369064+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:22:36.2414808+00:00",
+  "LastUpdate_Achievements": "2024-01-11T02:30:43.4400976+00:00"
 }

@@ -883,7 +883,7 @@
   ],
   "EOS_Progressed": 242530,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1231,
+  "EOS_NewPlayers": 1226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20971,9 +20971,9 @@
       "ID": "HW2_MISSION13_COMPLETE",
       "SetID": "ae07go3",
       "Name": "Balcora Gate Complete",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1698
     },
     {
       "ID": "HW2_MISSION14_COMPLETE",
@@ -21092,8 +21092,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-10T03:59:20.6689228+00:00",
-  "LastChanged_Achievements": "2024-01-11T01:59:50.6390821+00:00",
+  "LastChanged_Achievements": "2024-01-11T02:34:16.7541889+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:19.696761+00:00",
-  "LastUpdate_Ratings": "2024-01-11T01:49:08.1845546+00:00",
-  "LastUpdate_Achievements": "2024-01-11T01:59:50.6393261+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:23:33.2919492+00:00",
+  "LastUpdate_Achievements": "2024-01-11T02:34:16.7542848+00:00"
 }

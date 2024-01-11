@@ -2210,7 +2210,7 @@
   ],
   "EOS_Progressed": 885,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9855,9 +9855,9 @@
       "ID": "M_ASSEMBLER_DIAGRAM",
       "SetID": "80dcan0",
       "Name": "Adept Assembler",
-      "Percentage": 207,
+      "Percentage": 208,
       "XP": 10,
-      "UsersEstimate": 1832
+      "UsersEstimate": 1841
     },
     {
       "ID": "M_BACKPACK",
@@ -9943,9 +9943,9 @@
       "ID": "P_CRANELIFT",
       "SetID": "80dcan0",
       "Name": "Better Late than Never",
-      "Percentage": 105,
+      "Percentage": 106,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 938
     },
     {
       "ID": "P_ENVIRONMENT",
@@ -10079,9 +10079,9 @@
       "ID": "S_CHAT",
       "SetID": "80dcan0",
       "Name": "Chatterbox",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 681
+      "UsersEstimate": 690
     },
     {
       "ID": "S_DANCE",
@@ -10271,8 +10271,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2024-01-11T01:49:50.5767223+00:00",
-  "LastChanged_Achievements": "2024-01-11T01:58:20.0050082+00:00",
+  "LastChanged_Achievements": "2024-01-11T02:33:11.9855177+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:07.0919525+00:00",
-  "LastUpdate_Ratings": "2024-01-11T01:49:50.5767228+00:00",
-  "LastUpdate_Achievements": "2024-01-11T01:58:20.0050974+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:24:02.4643208+00:00",
+  "LastUpdate_Achievements": "2024-01-11T02:33:11.9856048+00:00"
 }

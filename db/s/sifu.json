@@ -8827,10 +8827,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12681,
       "NumberOfAwardsMax": 7166
+    },
+    {
+      "Time": "2024-01-11T02:27:35.5072958+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12683,
+      "NumberOfAwardsMax": 7166
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12681,
+  "NumberOfAwards": 12683,
   "NumberOfAwardsMax": 7166,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8844,7 +8850,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 585
+      "Count": 587
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8907,9 +8913,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 759132,
+  "EOS_Progressed": 759143,
   "EOS_Completed": 12982,
-  "EOS_NewPlayers": 6082,
+  "EOS_NewPlayers": 6072,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -33247,6 +33253,11 @@
       "Time": "2024-01-11T01:59:00.8219748+00:00",
       "NumProgressed": 759132,
       "NumCompleted": 12982
+    },
+    {
+      "Time": "2024-01-11T02:33:40.7476682+00:00",
+      "NumProgressed": 759143,
+      "NumCompleted": 12982
     }
   ],
   "TotalAchievements": 60,
@@ -33258,7 +33269,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45548
+      "UsersEstimate": 45549
     },
     {
       "ID": "02_Vengeance_H1",
@@ -33266,7 +33277,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30365
+      "UsersEstimate": 30366
     },
     {
       "ID": "03_Vengeance_H2",
@@ -33522,7 +33533,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30365
+      "UsersEstimate": 30366
     },
     {
       "ID": "35_WideStrike",
@@ -33722,7 +33733,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -33737,21 +33748,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 68433,
-      "Completed": 10802
+      "Progressed": 68444,
+      "Completed": 10803
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 759132,
+      "Progressed": 759143,
       "Completed": 12982
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2024-01-10T19:03:14.1880524+00:00",
-  "LastChanged_Achievements": "2024-01-11T01:59:00.8219746+00:00",
+  "LastChanged": "2024-01-11T02:27:35.5072956+00:00",
+  "LastChanged_Achievements": "2024-01-11T02:33:40.7476681+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.3871095+00:00",
-  "LastUpdate_Ratings": "2024-01-11T01:52:27.5985055+00:00",
-  "LastUpdate_Achievements": "2024-01-11T01:59:00.8221267+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:27:35.5072961+00:00",
+  "LastUpdate_Achievements": "2024-01-11T02:33:40.7478076+00:00"
 }

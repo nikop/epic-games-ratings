@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 86.00% | ~268 |
-| A piece of the story | 65.00% | ~203 |
-| It's covered up for a reason | 59.00% | ~184 |
-| Wanderer | 54.00% | ~168 |
-| Scraps of love | 51.00% | ~159 |
-| The artist’s impression | 50.00% | ~156 |
-| Do what you have to | 44.00% | ~137 |
-| Sign of weakness | 41.00% | ~128 |
-| Refuse to look | 37.00% | ~115 |
+| Something important | 86.00% | ~270 |
+| A piece of the story | 65.00% | ~204 |
+| It's covered up for a reason | 59.00% | ~185 |
+| Wanderer | 54.00% | ~170 |
+| Scraps of love | 51.00% | ~160 |
+| The artist’s impression | 49.00% | ~154 |
+| Do what you have to | 44.00% | ~138 |
+| Sign of weakness | 41.00% | ~129 |
+| Refuse to look | 36.00% | ~113 |
 | Face your fears | 30.00% | ~94 |
 | Finished it | 25.00% | ~78 |
 | Whispers long forgotten | 17.00% | ~53 |
 | Sound Bite | 13.00% | ~41 |
-| The art of movement | 13.00% | ~41 |
-| A Slice of Life | 12.00% | ~37 |
-| Debut | 12.00% | ~37 |
-| Lights! Camera! Action! | 12.00% | ~37 |
-| Another perspective | 11.00% | ~34 |
+| A Slice of Life | 12.00% | ~38 |
+| Debut | 12.00% | ~38 |
+| The art of movement | 12.00% | ~38 |
+| Another perspective | 11.00% | ~35 |
+| Lights! Camera! Action! | 11.00% | ~35 |
 | Playtime | 10.00% | ~31 |
 | Tough conversation | 10.00% | ~31 |
 | A new way | 9.00% | ~28 |
@@ -33,9 +33,9 @@
 | Casting Finished | 6.00% | ~19 |
 | Instinct of self-preservation | 6.00% | ~19 |
 | Fisherman | 6.00% | ~19 |
-| Something to think about | 4.00% | ~12 |
-| I remember It Like Was Yesterday | 4.00% | ~12 |
-| Immortalized in my heart | 4.00% | ~12 |
+| Something to think about | 4.00% | ~13 |
+| I remember It Like Was Yesterday | 4.00% | ~13 |
+| Immortalized in my heart | 4.00% | ~13 |
 | We Are Not Alone | 3.00% | ~9 |
 | Dark correspondence | 3.00% | ~9 |
 | The Perfect Storm | 3.00% | ~9 |
@@ -57,7 +57,7 @@
 | Inheritance | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 312 (Ranked 394)  
+Progressed: 314 (Ranked 393)  
 Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,3 +137,4 @@ Completed: 0 (0.00%) (Ranked 396)
 | 2024-01-08 | 295 | 0 |
 | 2024-01-09 | 305 | 0 |
 | 2024-01-10 | 312 | 0 |
+| 2024-01-11 | 314 | 0 |

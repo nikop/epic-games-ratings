@@ -631,7 +631,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 47043,
+  "EOS_Progressed": 47045,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 773,
   "EOS_NewCompleters": 0,
@@ -18406,6 +18406,11 @@
       "Time": "2024-01-11T01:56:25.3331217+00:00",
       "NumProgressed": 47043,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T02:30:22.2069193+00:00",
+      "NumProgressed": 47045,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18657,7 +18662,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3763
+      "UsersEstimate": 3764
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -18705,7 +18710,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3763
+      "UsersEstimate": 3764
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -18729,7 +18734,7 @@
       "Name": "Hell of a Run",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3763
+      "UsersEstimate": 3764
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -18840,22 +18845,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47043,
+      "Progressed": 47045,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11880,
-      "Completed": 11880
+      "Progressed": 11882,
+      "Completed": 11882
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-09T14:02:53.1133514+00:00",
-  "LastChanged_Achievements": "2024-01-11T01:56:25.3331215+00:00",
+  "LastChanged_Achievements": "2024-01-11T02:30:22.2069189+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-11T01:52:15.7131814+00:00",
-  "LastUpdate_Achievements": "2024-01-11T01:56:25.3332308+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:27:27.3831377+00:00",
+  "LastUpdate_Achievements": "2024-01-11T02:30:22.2070208+00:00"
 }

@@ -20,7 +20,7 @@
 | Sovereignty of Irons | 6.00% | ~8 |
 | A Sandwyrm's Hoard | 6.00% | ~8 |
 | Sommelier | 5.00% | ~7 |
-| Let Me Solo Them | 4.00% | ~5 |
+| Let Me Solo Them | 5.00% | ~7 |
 | Frigid Winds | 4.00% | ~5 |
 | Missing Melodies | 2.00% | ~3 |
 | Transformative Nature | 2.00% | ~3 |

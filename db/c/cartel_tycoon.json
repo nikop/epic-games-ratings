@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1007,
+  "EOS_Progressed": 1008,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -3577,6 +3577,11 @@
       "Time": "2024-01-10T21:08:05.3369669+00:00",
       "NumProgressed": 1007,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-11T02:31:04.607559+00:00",
+      "NumProgressed": 1008,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3588,7 +3593,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "cool-shirts",
@@ -3636,7 +3641,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "kill-lieutenants",
@@ -3668,7 +3673,7 @@
       "Name": "Follow the Money",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "rage-quit",
@@ -3676,7 +3681,7 @@
       "Name": "Bad Trip",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "rename-lieutenant",
@@ -3716,7 +3721,7 @@
       "Name": "Pampered Life",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "upgrade-building",
@@ -3739,15 +3744,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 1007,
+      "Progressed": 1008,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-05T21:03:11.6844011+00:00",
-  "LastChanged_Achievements": "2024-01-11T01:57:26.5547785+00:00",
+  "LastChanged_Achievements": "2024-01-11T02:31:04.6075587+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:39.3719101+00:00",
-  "LastUpdate_Ratings": "2024-01-11T01:52:15.8962926+00:00",
-  "LastUpdate_Achievements": "2024-01-11T01:57:26.5548045+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:27:27.5097129+00:00",
+  "LastUpdate_Achievements": "2024-01-11T02:31:04.6075868+00:00"
 }

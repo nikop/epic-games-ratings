@@ -215,11 +215,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68502,
+  "EOS_Progressed": 68516,
   "EOS_Completed": 11760,
-  "EOS_NewPlayers": 4133,
+  "EOS_NewPlayers": 4141,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 17.17,
+  "EOS_Completed_Percentage": 17.16,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -16180,6 +16180,11 @@
       "Time": "2024-01-11T01:59:03.1277742+00:00",
       "NumProgressed": 68502,
       "NumCompleted": 11760
+    },
+    {
+      "Time": "2024-01-11T02:33:42.3672317+00:00",
+      "NumProgressed": 68516,
+      "NumCompleted": 11760
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -16198,9 +16203,9 @@
       "ID": "firstMatch",
       "SetID": "b3jeemd",
       "Name": "First blood",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 50691
+      "UsersEstimate": 51387
     },
     {
       "ID": "grenadeKills",
@@ -16216,7 +16221,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2740
+      "UsersEstimate": 2741
     },
     {
       "ID": "headshots1000",
@@ -16303,7 +16308,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 68502,
+      "Progressed": 68516,
       "Completed": 11760
     }
   ],
@@ -16311,8 +16316,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2024-01-06T23:59:09.4867908+00:00",
-  "LastChanged_Achievements": "2024-01-11T01:59:03.127774+00:00",
+  "LastChanged_Achievements": "2024-01-11T02:33:42.3672315+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.275557+00:00",
-  "LastUpdate_Ratings": "2024-01-11T01:51:54.5670519+00:00",
-  "LastUpdate_Achievements": "2024-01-11T01:59:03.1278737+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:27:13.1149111+00:00",
+  "LastUpdate_Achievements": "2024-01-11T02:33:42.3673221+00:00"
 }

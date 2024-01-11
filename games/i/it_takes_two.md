@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 83.00% | ~91,189 |
-| Struck A Pose | 82.00% | ~90,090 |
-| Look At Him Go | 69.00% | ~75,808 |
-| On Rails Experience | 44.00% | ~48,341 |
-| A Daring Devil | 43.00% | ~47,242 |
-| Break the Bank | 33.00% | ~36,256 |
-| It Took Two | 31.00% | ~34,058 |
-| Bug Sized Relaxation | 14.00% | ~15,381 |
-| Plastic Prison Breakers | 13.00% | ~14,283 |
-| Terror Of The Seven Seas | 10.00% | ~10,987 |
-| Realize Your Art | 8.00% | ~8,789 |
-| Force Triangulated | 8.00% | ~8,789 |
-| Meditation Maestro | 8.00% | ~8,789 |
-| Snackosaurus | 6.00% | ~6,592 |
-| Platforming Prodigy | 6.00% | ~6,592 |
-| Lost And Found | 6.00% | ~6,592 |
-| Something Fishy | 6.00% | ~6,592 |
+| Fried Friendship | 83.00% | ~91,203 |
+| Struck A Pose | 82.00% | ~90,104 |
+| Look At Him Go | 69.00% | ~75,819 |
+| On Rails Experience | 44.00% | ~48,349 |
+| A Daring Devil | 43.00% | ~47,250 |
+| Break the Bank | 33.00% | ~36,261 |
+| It Took Two | 31.00% | ~34,064 |
+| Bug Sized Relaxation | 14.00% | ~15,384 |
+| Plastic Prison Breakers | 13.00% | ~14,285 |
+| Terror Of The Seven Seas | 10.00% | ~10,988 |
+| Realize Your Art | 8.00% | ~8,791 |
+| Force Triangulated | 8.00% | ~8,791 |
+| Meditation Maestro | 8.00% | ~8,791 |
+| Snackosaurus | 6.00% | ~6,593 |
+| Platforming Prodigy | 6.00% | ~6,593 |
+| Lost And Found | 6.00% | ~6,593 |
+| Something Fishy | 6.00% | ~6,593 |
 | Mood Swing | 4.00% | ~4,395 |
 | Faraway Frequencies | 3.00% | ~3,296 |
-| Minigame Megalomania | 2.00% | ~2,197 |
+| Minigame Megalomania | 2.00% | ~2,198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109,866 (Ranked 98)  
+Progressed: 109,883 (Ranked 98)  
 Completed: 253 (0.23%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,4 +143,4 @@ Completed: 253 (0.23%) (Ranked 269)
 | 2024-01-08 | 106,495 | 237 |
 | 2024-01-09 | 108,184 | 245 |
 | 2024-01-10 | 109,818 | 253 |
-| 2024-01-11 | 109,866 | 253 |
+| 2024-01-11 | 109,883 | 253 |

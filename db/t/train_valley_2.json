@@ -4247,9 +4247,9 @@
       "Count": 62
     }
   ],
-  "EOS_Progressed": 431871,
+  "EOS_Progressed": 431874,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 1856,
+  "EOS_NewPlayers": 1855,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26087,6 +26087,11 @@
       "Time": "2024-01-11T01:55:51.6624417+00:00",
       "NumProgressed": 431871,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2024-01-11T02:29:58.0545852+00:00",
+      "NumProgressed": 431874,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 89,
@@ -26194,7 +26199,7 @@
       "Name": "Builder",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 73418
+      "UsersEstimate": 73419
     },
     {
       "ID": "AchievementCloseCall",
@@ -26202,7 +26207,7 @@
       "Name": "Close call!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 129561
+      "UsersEstimate": 129562
     },
     {
       "ID": "AchievementCommonCause",
@@ -26210,7 +26215,7 @@
       "Name": "Common cause",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 112286
+      "UsersEstimate": 112287
     },
     {
       "ID": "AchievementCriticalCare",
@@ -26218,7 +26223,7 @@
       "Name": "Critical care",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 112286
+      "UsersEstimate": 112287
     },
     {
       "ID": "AchievementDealmaker",
@@ -26226,7 +26231,7 @@
       "Name": "Dealmaker",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 315266
+      "UsersEstimate": 315268
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -26266,7 +26271,7 @@
       "Name": "Forgot something",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 151155
+      "UsersEstimate": 151156
     },
     {
       "ID": "AchievementForgotten",
@@ -26282,7 +26287,7 @@
       "Name": "Full garage",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 263441
+      "UsersEstimate": 263443
     },
     {
       "ID": "AchievementGemologist_NAME",
@@ -26298,7 +26303,7 @@
       "Name": "Get out my way",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 120924
+      "UsersEstimate": 120925
     },
     {
       "ID": "AchievementGlobalisationAge",
@@ -26322,7 +26327,7 @@
       "Name": "Individual delivery",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 202979
+      "UsersEstimate": 202981
     },
     {
       "ID": "AchievementIndustrialAge",
@@ -26330,7 +26335,7 @@
       "Name": "Industrial Age",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 38868
+      "UsersEstimate": 38869
     },
     {
       "ID": "AchievementInformationAge_NAME",
@@ -26378,7 +26383,7 @@
       "Name": "Juggler",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 155474
+      "UsersEstimate": 155475
     },
     {
       "ID": "AchievementJustInTime",
@@ -26418,7 +26423,7 @@
       "Name": "Mega-railroad",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 99330
+      "UsersEstimate": 99331
     },
     {
       "ID": "AchievementMetroBuilder",
@@ -26474,7 +26479,7 @@
       "Name": "Non-Stop",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 194342
+      "UsersEstimate": 194343
     },
     {
       "ID": "AchievementOneWay",
@@ -26578,7 +26583,7 @@
       "Name": "Steam Age",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 69099
+      "UsersEstimate": 69100
     },
     {
       "ID": "AchievementTheHare",
@@ -26610,7 +26615,7 @@
       "Name": "To the eyeballs!",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 220254
+      "UsersEstimate": 220256
     },
     {
       "ID": "AchievementTourismAge",
@@ -26634,7 +26639,7 @@
       "Name": "Upgrade complete",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 99330
+      "UsersEstimate": 99331
     },
     {
       "ID": "AchievementUrbanizationAge",
@@ -26722,7 +26727,7 @@
       "Name": "Long Haul",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 73306
+      "UsersEstimate": 73307
     },
     {
       "ID": "AchievementMaidenvoyage",
@@ -26809,21 +26814,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 431212,
+      "Progressed": 431215,
       "Completed": 10
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 431871,
+      "Progressed": 431874,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2024-01-10T22:59:08.2712076+00:00",
-  "LastChanged_Achievements": "2024-01-11T01:55:51.6624414+00:00",
+  "LastChanged_Achievements": "2024-01-11T02:29:58.0545849+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:19.6795504+00:00",
-  "LastUpdate_Ratings": "2024-01-11T01:49:16.4961393+00:00",
-  "LastUpdate_Achievements": "2024-01-11T01:55:51.6626284+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:23:38.2453149+00:00",
+  "LastUpdate_Achievements": "2024-01-11T02:29:58.0547621+00:00"
 }

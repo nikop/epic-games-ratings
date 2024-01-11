@@ -12,13 +12,13 @@ Rating: 4.65 (Ranked 322)
 | First Bounty Down | 5.00% | ~1,256 |
 | G3 Graduation | 5.00% | ~1,256 |
 | Cold-Blooded Driller | 5.00% | ~1,256 |
+| Don't Knife The Hand That Feeds | 5.00% | ~1,256 |
 | Creature Feature | 4.00% | ~1,004 |
 | RIP Davey Glutes | 4.00% | ~1,004 |
 | We're All Very Impressed, Trust Me | 4.00% | ~1,004 |
 | Hardest Battle In The Game | 4.00% | ~1,004 |
 | Who's The Boss? | 4.00% | ~1,004 |
 | Fallout Doesn't Let You Do This | 4.00% | ~1,004 |
-| Don't Knife The Hand That Feeds | 4.00% | ~1,004 |
 | Lezduit! | 3.00% | ~753 |
 | Legendary Bounty Hunter | 3.00% | ~753 |
 | Self-Actualization | 3.00% | ~753 |

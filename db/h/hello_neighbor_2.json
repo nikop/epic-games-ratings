@@ -507,7 +507,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4013,
+  "EOS_Progressed": 4014,
   "EOS_Completed": 144,
   "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 1,
@@ -7187,6 +7187,11 @@
       "Time": "2024-01-10T23:04:04.8735475+00:00",
       "NumProgressed": 4013,
       "NumCompleted": 144
+    },
+    {
+      "Time": "2024-01-11T02:28:47.2217826+00:00",
+      "NumProgressed": 4014,
+      "NumCompleted": 144
     }
   ],
   "TotalAchievements": 14,
@@ -7198,7 +7203,7 @@
       "Name": "Ancient Curse",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -7230,7 +7235,7 @@
       "Name": "Dog Person",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -7302,14 +7307,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3170
+      "UsersEstimate": 3171
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4013,
+      "Progressed": 4014,
       "Completed": 144
     }
   ],
@@ -7317,8 +7322,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-05T23:57:59.2122093+00:00",
-  "LastChanged_Achievements": "2024-01-11T01:54:12.7455896+00:00",
+  "LastChanged_Achievements": "2024-01-11T02:28:47.2217823+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:45.5665199+00:00",
-  "LastUpdate_Ratings": "2024-01-11T01:51:09.8306733+00:00",
-  "LastUpdate_Achievements": "2024-01-11T01:54:12.74563+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:24:54.3260203+00:00",
+  "LastUpdate_Achievements": "2024-01-11T02:28:47.2218204+00:00"
 }

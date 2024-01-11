@@ -85,9 +85,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2214,
+  "EOS_Progressed": 2216,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 474,
+  "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -4210,6 +4210,11 @@
       "Time": "2024-01-11T01:59:55.5457814+00:00",
       "NumProgressed": 2214,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T02:34:20.6893491+00:00",
+      "NumProgressed": 2216,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -4221,7 +4226,7 @@
       "Name": "Break Out",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "ACH_02",
@@ -4229,7 +4234,7 @@
       "Name": "Find Allies",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "ACH_03",
@@ -4285,7 +4290,7 @@
       "Name": "The Mentor",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_10",
@@ -4293,7 +4298,7 @@
       "Name": "Trinity",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "ACH_11",
@@ -4317,7 +4322,7 @@
       "Name": "Adventurer",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "ACH_14",
@@ -4357,7 +4362,7 @@
       "Name": "Shatter Them All",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "ACH_19",
@@ -4397,7 +4402,7 @@
       "Name": "Geared Up",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "ACH_24",
@@ -4413,7 +4418,7 @@
       "Name": "Fashion Victim",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ACH_26",
@@ -4421,7 +4426,7 @@
       "Name": "Scholar",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ACH_27",
@@ -4437,7 +4442,7 @@
       "Name": "I Found It",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "ACH_29",
@@ -4445,7 +4450,7 @@
       "Name": "All That Gold",
       "Percentage": 0.7,
       "XP": 60,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_30",
@@ -4508,7 +4513,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2214,
+      "Progressed": 2216,
       "Completed": 4
     }
   ],
@@ -4516,8 +4521,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-09T14:59:34.4882092+00:00",
-  "LastChanged_Achievements": "2024-01-11T01:59:55.5457811+00:00",
+  "LastChanged_Achievements": "2024-01-11T02:34:20.6893486+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-11T01:50:57.9286927+00:00",
-  "LastUpdate_Achievements": "2024-01-11T01:59:55.5458439+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:24:46.4433175+00:00",
+  "LastUpdate_Achievements": "2024-01-11T02:34:20.6893863+00:00"
 }

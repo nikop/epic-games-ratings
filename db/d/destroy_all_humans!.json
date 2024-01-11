@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -305,9 +305,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 442,
+  "EOS_Progressed": 443,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -1785,6 +1785,11 @@
       "Time": "2024-01-11T01:54:16.2933177+00:00",
       "NumProgressed": 442,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-11T02:28:49.7684254+00:00",
+      "NumProgressed": 443,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1797,7 +1802,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -1837,7 +1842,7 @@
       "Name": "Yettisoned",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -1859,9 +1864,9 @@
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
       "SetID": "cefn62b",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 261
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -1885,7 +1890,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_CHALLENGE_ABDUCTIONTHREESTAR",
@@ -1949,7 +1954,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
@@ -1957,7 +1962,7 @@
       "Name": "Kaijuiced",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -1965,7 +1970,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -1997,7 +2002,7 @@
       "Name": "Lobster Blisque",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -2045,7 +2050,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -2085,7 +2090,7 @@
       "Name": "Dusted",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_UPGRADE_CRYPTO",
@@ -2116,15 +2121,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 442,
+      "Progressed": 443,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-11T01:54:16.2933173+00:00",
+  "LastChanged_Achievements": "2024-01-11T02:28:49.7684248+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:15.0942873+00:00",
-  "LastUpdate_Ratings": "2024-01-11T01:46:20.5992893+00:00",
-  "LastUpdate_Achievements": "2024-01-11T01:54:16.2933503+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:21:40.0803653+00:00",
+  "LastUpdate_Achievements": "2024-01-11T02:28:49.768456+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 236,
   "Ranking_Popularity": 358,
-  "Ranking_PopularitySum": 458,
+  "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 373,
   "Ranking_EOS_NewPlayers": 106,
@@ -323,9 +323,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 11014,
+  "EOS_Progressed": 11017,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1101,
+  "EOS_NewPlayers": 1100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4428,6 +4428,11 @@
       "Time": "2024-01-11T01:59:53.0955383+00:00",
       "NumProgressed": 11014,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T02:34:18.7314461+00:00",
+      "NumProgressed": 11017,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4544,7 +4549,7 @@
       "Name": "Pentakill",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "16_TheRise",
@@ -4648,7 +4653,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -4664,7 +4669,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "31_DontTouchThis",
@@ -4688,7 +4693,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -4752,7 +4757,7 @@
       "Name": "Jungle Heat",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "42_TheIronJudgement",
@@ -4959,7 +4964,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11014,
+      "Progressed": 11017,
       "Completed": 1
     }
   ],
@@ -4967,8 +4972,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-11T01:49:02.1008978+00:00",
-  "LastChanged_Achievements": "2024-01-11T01:59:53.0955381+00:00",
+  "LastChanged_Achievements": "2024-01-11T02:34:18.7314459+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-11T01:49:02.1009003+00:00",
-  "LastUpdate_Achievements": "2024-01-11T01:59:53.0956174+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:23:29.1954591+00:00",
+  "LastUpdate_Achievements": "2024-01-11T02:34:18.7315081+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 77.00% | ~340 |
-| Kaijuiced | 71.00% | ~314 |
-| Lie Back and Think of Albion | 65.00% | ~287 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 62.00% | ~274 |
-| I Look Up As I Walk to Takoshima | 60.00% | ~265 |
-| Yettisoned | 57.00% | ~252 |
+| Shop Til They Drop | 77.00% | ~341 |
+| Kaijuiced | 71.00% | ~315 |
+| Lie Back and Think of Albion | 65.00% | ~288 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 62.00% | ~275 |
+| I Look Up As I Walk to Takoshima | 59.00% | ~261 |
+| Yettisoned | 57.00% | ~253 |
 | Pimp My Raid | 56.00% | ~248 |
 | Perfect Probulator | 56.00% | ~248 |
-| Lobster Blisque | 51.00% | ~225 |
-| Fly Me to the Moon Base | 48.00% | ~212 |
-| Earthly Pleasures | 48.00% | ~212 |
+| Lobster Blisque | 51.00% | ~226 |
+| Fly Me to the Moon Base | 48.00% | ~213 |
+| Earthly Pleasures | 48.00% | ~213 |
 | Ducks in a Row, Fish in a Barrel | 45.00% | ~199 |
 | Bodied Sattva | 36.00% | ~159 |
 | Forbidden Donut | 35.00% | ~155 |
@@ -34,7 +34,7 @@ Number of Ratings: 85  (23.09.2022)
 | Mash Machine | 16.00% | ~71 |
 | Hidden Human Hive Harvest | 15.00% | ~66 |
 | Albion Bridge Is for Falling Down | 14.00% | ~62 |
-| Dusted | 13.00% | ~57 |
+| Dusted | 13.00% | ~58 |
 | Scuttled | 11.00% | ~49 |
 | Higher Than the Futen Zoku | 11.00% | ~49 |
 | PK Slam Dunk | 9.00% | ~40 |
@@ -47,7 +47,7 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 2.00% | ~9 |
 | Against All Odds | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 442 (Ranked 362)  
+Progressed: 443 (Ranked 362)  
 Completed: 5 (1.13%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 5 (1.13%) (Ranked 167)
 | 2024-01-08 | 406 | 5 |
 | 2024-01-09 | 424 | 5 |
 | 2024-01-10 | 439 | 5 |
-| 2024-01-11 | 442 | 5 |
+| 2024-01-11 | 443 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 505)  
 Sum: 35 (Ranked 534)  

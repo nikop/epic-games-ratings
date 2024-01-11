@@ -25,12 +25,12 @@ Number of Ratings: 177  (23.09.2022)
 | The Crush | 0.90% | ~66 |
 | It Smells Like Roses | 0.80% | ~35 |
 | Smooth Operator: Ashley | 0.80% | ~58 |
+| The Magic Number | 0.80% | ~58 |
 | Amy: Scavenger Hunt | 0.70% | ~51 |
 | Casanova | 0.70% | ~51 |
 | Deck the Balls | 0.70% | ~30 |
 | Now It's a Party! | 0.70% | ~51 |
 | Stephanie | 0.70% | ~51 |
-| The Magic Number | 0.70% | ~51 |
 | Vickie | 0.70% | ~51 |
 | Te Amo Lety | 0.70% | ~51 |
 | Ashley | 0.60% | ~44 |

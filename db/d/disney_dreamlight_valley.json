@@ -5891,7 +5891,7 @@
   ],
   "EOS_Progressed": 14050,
   "EOS_Completed": 348,
-  "EOS_NewPlayers": 343,
+  "EOS_NewPlayers": 340,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
@@ -25033,9 +25033,9 @@
       "ID": "Constructor",
       "SetID": "chapdi4",
       "Name": "Constructor",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 6884
+      "UsersEstimate": 7025
     },
     {
       "ID": "Duty_Bound",
@@ -25122,8 +25122,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-10T16:59:49.434743+00:00",
-  "LastChanged_Achievements": "2024-01-11T01:58:42.7943434+00:00",
+  "LastChanged_Achievements": "2024-01-11T02:33:27.8773758+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:11.1438624+00:00",
-  "LastUpdate_Ratings": "2024-01-11T01:50:05.4353543+00:00",
-  "LastUpdate_Achievements": "2024-01-11T01:58:42.7944529+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:24:11.3944661+00:00",
+  "LastUpdate_Achievements": "2024-01-11T02:33:27.8774843+00:00"
 }

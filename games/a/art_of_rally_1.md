@@ -6,22 +6,22 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 79.00% | ~323,803 |
-| good drivers have dead flies on the side windows | 32.00% | ~131,161 |
-| keep it tidy | 26.00% | ~106,568 |
-| brail | 26.00% | ~106,568 |
-| car wash | 23.00% | ~94,272 |
-| the artist | 23.00% | ~94,272 |
-| podium | 20.00% | ~81,975 |
-| medium attack | 17.00% | ~69,679 |
-| bicycle race | 6.00% | ~24,593 |
-| grocery-getter | 5.00% | ~20,494 |
-| autopilot | 4.00% | ~16,395 |
-| rwd only | 3.00% | ~12,296 |
-| where is the stage? | 3.00% | ~12,296 |
-| night ride | 3.00% | ~12,296 |
-| snorkel | 3.00% | ~12,296 |
-| food tour: pasta | 3.00% | ~12,296 |
+| light attack | 79.00% | ~323,834 |
+| good drivers have dead flies on the side windows | 32.00% | ~131,173 |
+| keep it tidy | 26.00% | ~106,578 |
+| brail | 26.00% | ~106,578 |
+| car wash | 23.00% | ~94,281 |
+| the artist | 23.00% | ~94,281 |
+| podium | 20.00% | ~81,983 |
+| medium attack | 17.00% | ~69,686 |
+| bicycle race | 6.00% | ~24,595 |
+| grocery-getter | 5.00% | ~20,496 |
+| autopilot | 4.00% | ~16,397 |
+| rwd only | 3.00% | ~12,298 |
+| where is the stage? | 3.00% | ~12,298 |
+| night ride | 3.00% | ~12,298 |
+| snorkel | 3.00% | ~12,298 |
+| food tour: pasta | 3.00% | ~12,298 |
 | to finish first, first you must finish | 2.00% | ~8,198 |
 | perkele | 2.00% | ~8,198 |
 | turbo | 2.00% | ~8,198 |
@@ -32,12 +32,12 @@ Number of Ratings: 56  (23.09.2022)
 | espresso | 1.00% | ~4,099 |
 | in like a lamb, out like a lion | 1.00% | ~4,099 |
 | monster | 0.90% | ~3,689 |
-| eurobeat | 0.60% | ~2,459 |
-| viking | 0.60% | ~2,459 |
-| parallel universe | 0.60% | ~2,459 |
-| oktoberfest | 0.50% | ~2,049 |
-| group b | 0.50% | ~2,049 |
-| samir | 0.50% | ~2,049 |
+| eurobeat | 0.60% | ~2,460 |
+| viking | 0.60% | ~2,460 |
+| parallel universe | 0.60% | ~2,460 |
+| oktoberfest | 0.50% | ~2,050 |
+| group b | 0.50% | ~2,050 |
+| samir | 0.50% | ~2,050 |
 | maximum attack | 0.40% | ~1,640 |
 | parking lot | 0.30% | ~1,230 |
 | master of rally | 0.30% | ~1,230 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.10% | ~410 |
 | you're here for a good time, not a long time | 0.10% | ~410 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 409,877 (Ranked 49)  
+Progressed: 409,917 (Ranked 49)  
 Completed: 22 (0.01%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 22 (0.01%) (Ranked 373)
 | 2024-01-08 | 405,289 | 21 |
 | 2024-01-09 | 407,593 | 21 |
 | 2024-01-10 | 409,693 | 21 |
-| 2024-01-11 | 409,877 | 22 |
+| 2024-01-11 | 409,917 | 22 |
 ## Awards
 Max (Quickly Understood Controls): 37  (Ranked 496)  
 Sum: 224 (Ranked 409)  

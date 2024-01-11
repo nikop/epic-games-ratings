@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2669,
+  "EOS_Progressed": 2670,
   "EOS_Completed": 193,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 48,
   "EOS_Completed_Percentage": 7.23,
   "EosHistory": [
@@ -7012,6 +7012,11 @@
       "Time": "2024-01-11T01:53:39.0309965+00:00",
       "NumProgressed": 2669,
       "NumCompleted": 193
+    },
+    {
+      "Time": "2024-01-11T02:28:23.7050636+00:00",
+      "NumProgressed": 2670,
+      "NumCompleted": 193
     }
   ],
   "TotalAchievements": 25,
@@ -7031,7 +7036,7 @@
       "Name": "In this together",
       "Percentage": 25,
       "XP": 200,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "META_ALL_LINK",
@@ -7119,7 +7124,7 @@
       "Name": "Alchemists Express",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -7135,7 +7140,7 @@
       "Name": "True G3M4R",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -7143,7 +7148,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -7159,7 +7164,7 @@
       "Name": "Champollion",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -7167,7 +7172,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7183,7 +7188,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "PROGRESS_N2",
@@ -7207,7 +7212,7 @@
       "Name": "The darkness",
       "Percentage": 31,
       "XP": 60,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "PROGRESS_N5",
@@ -7215,14 +7220,14 @@
       "Name": "One last step",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2669,
+      "Progressed": 2670,
       "Completed": 193
     }
   ],
@@ -7230,8 +7235,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-11T01:53:39.030996+00:00",
+  "LastChanged_Achievements": "2024-01-11T02:28:23.7050632+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-11T01:50:19.6390659+00:00",
-  "LastUpdate_Achievements": "2024-01-11T01:53:39.0310356+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:24:20.6685134+00:00",
+  "LastUpdate_Achievements": "2024-01-11T02:28:23.7051075+00:00"
 }

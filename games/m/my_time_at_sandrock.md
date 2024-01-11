@@ -6,14 +6,14 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 207.00% | ~1,832 |
+| Adept Assembler | 208.00% | ~1,841 |
 | Super Spelunker | 151.00% | ~1,336 |
 | Iron Chef | 141.00% | ~1,248 |
 | Officially Official | 125.00% | ~1,106 |
 | The Little Wood that Could | 120.00% | ~1,062 |
 | On that Grindset | 116.00% | ~1,027 |
 | Greeno-B-Gone | 110.00% | ~974 |
-| Better Late than Never | 105.00% | ~929 |
+| Better Late than Never | 106.00% | ~938 |
 | Knowledge is Power | 94.00% | ~832 |
 | Got Served | 94.00% | ~832 |
 | Mole Masher | 93.00% | ~823 |
@@ -27,8 +27,8 @@ Number of Ratings: 892  (23.09.2022)
 | What Plants Crave | 82.00% | ~726 |
 | Panda-kin | 80.00% | ~708 |
 | Yakmel Whisperer | 79.00% | ~699 |
+| Chatterbox | 78.00% | ~690 |
 | No Mountain Wide Enough | 77.00% | ~681 |
-| Chatterbox | 77.00% | ~681 |
 | First Love | 76.00% | ~673 |
 | I Do! | 76.00% | ~673 |
 | Can We Keep It? | 73.00% | ~646 |

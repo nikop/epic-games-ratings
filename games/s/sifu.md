@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,548 |
+| The Old Grandmaster | 6.00% | ~45,549 |
 | Life is your teacher | 5.00% | ~37,957 |
-| The Assault | 4.00% | ~30,365 |
-| Lightning Hands | 4.00% | ~30,365 |
+| The Assault | 4.00% | ~30,366 |
+| Lightning Hands | 4.00% | ~30,366 |
 | The Hateful Pole Fighter | 3.00% | ~22,774 |
 | Street Fighting | 3.00% | ~22,774 |
 | State of constant learning | 3.00% | ~22,774 |
@@ -31,7 +31,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 1.00% | ~7,591 |
 | Kung-Fu Tussle | 1.00% | ~7,591 |
 | Project Arena | 1.00% | ~684 |
-| Fight the way you practice | 0.80% | ~547 |
+| Fight the way you practice | 0.80% | ~548 |
 | Muk Yan Master | 0.70% | ~5,314 |
 | Tiger on Fire | 0.60% | ~4,555 |
 | Source of Flying Daggers | 0.60% | ~4,555 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~68 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 759,132 (Ranked 26)  
+Progressed: 759,143 (Ranked 26)  
 Completed: 12,982 (1.71%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,10 +333,10 @@ Completed: 12,982 (1.71%) (Ranked 144)
 | 2024-01-08 | 757,529 | 12,979 |
 | 2024-01-09 | 758,306 | 12,980 |
 | 2024-01-10 | 759,091 | 12,982 |
-| 2024-01-11 | 759,132 | 12,982 |
+| 2024-01-11 | 759,143 | 12,982 |
 ## Awards
 Max (Great Boss Battles): 7,166  (Ranked 56)  
-Sum: 12,681 (Ranked 85)  
+Sum: 12,683 (Ranked 85)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -347,7 +347,7 @@ Diff (max vs sum): -29
 | This game has Amazing Characters | 611 |
 | This game is Highly Recommended | 608 |
 | This game has Quickly Understood Controls | 598 |
-| This game is Extremely Fun | 585 |
+| This game is Extremely Fun | 587 |
 | This game has Unique Visuals | 585 |
 | This game is Relaxing | 564 |
 | This game has a Creative Community | 436 |
@@ -713,3 +713,4 @@ Diff (max vs sum): -29
 | 2024-01-08 | 4.82 | - | 7,154 | 12,650 |
 | 2024-01-09 | 4.82 | - | 7,166 | 12,672 |
 | 2024-01-10 | 4.82 | - | 7,166 | 12,681 |
+| 2024-01-11 | 4.82 | - | 7,166 | 12,683 |

@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,11 +20,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 956,
+  "EOS_Progressed": 957,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.05,
+  "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -3440,6 +3440,11 @@
       "Time": "2024-01-10T22:04:16.8957399+00:00",
       "NumProgressed": 956,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-11T02:28:44.863468+00:00",
+      "NumProgressed": 957,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -3468,7 +3473,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "achievement_12",
@@ -3476,7 +3481,7 @@
       "Name": "From Way Downtown",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "achievement_13",
@@ -3484,7 +3489,7 @@
       "Name": "Competitor\u0027s Spirit",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "achievement_14",
@@ -3508,7 +3513,7 @@
       "Name": "Star Power",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "achievement_17",
@@ -3522,9 +3527,9 @@
       "ID": "achievement_18",
       "SetID": "7ldgi7j",
       "Name": "Perfect Round",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 335
+      "UsersEstimate": 325
     },
     {
       "ID": "achievement_2",
@@ -3588,20 +3593,20 @@
       "Name": "Ace in the Hole",
       "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 956,
+      "Progressed": 957,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-11T01:54:09.3533099+00:00",
+  "LastChanged_Achievements": "2024-01-11T02:28:44.8634677+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.2920939+00:00",
-  "LastUpdate_Ratings": "2024-01-11T01:47:00.6971935+00:00",
-  "LastUpdate_Achievements": "2024-01-11T01:54:09.3533379+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:22:06.7572679+00:00",
+  "LastUpdate_Achievements": "2024-01-11T02:28:44.8634939+00:00"
 }

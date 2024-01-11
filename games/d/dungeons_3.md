@@ -7,28 +7,28 @@ Number of Ratings: 1,635  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Shadow strikes | 70.00% | ~32,584 |
-| The Evilest Evil | 59.00% | ~27,463 |
+| The Evilest Evil | 59.00% | ~27,464 |
 | Twistram is devastated | 58.00% | ~26,998 |
 | The Gehenna Stones | 50.00% | ~23,274 |
 | No one has to die today! | 47.00% | ~21,878 |
-| Death and destruction! | 46.00% | ~21,412 |
-| The Swamplanders from the swamplands | 44.00% | ~20,481 |
+| Death and destruction! | 46.00% | ~21,413 |
+| The Swamplanders from the swamplands | 44.00% | ~20,482 |
 | Rusty Steel | 41.00% | ~19,085 |
-| The One-Huge-Army-Building Evil | 40.00% | ~18,619 |
-| Braiiiiins! | 38.00% | ~17,688 |
+| The One-Huge-Army-Building Evil | 40.00% | ~18,620 |
+| Braiiiiins! | 38.00% | ~17,689 |
 | The last burger | 37.00% | ~17,223 |
-| Hands off the Dungeonheart! | 36.00% | ~16,757 |
-| A trip on sea, what fun it can be | 34.00% | ~15,826 |
-| Damned good | 32.00% | ~14,895 |
+| Hands off the Dungeonheart! | 36.00% | ~16,758 |
+| A trip on sea, what fun it can be | 34.00% | ~15,827 |
+| Damned good | 32.00% | ~14,896 |
 | Stock Market Crash | 31.00% | ~14,430 |
 | Factory farming | 31.00% | ~14,430 |
 | Shadow hunter | 29.00% | ~13,499 |
 | Not-So-Overproud | 29.00% | ~13,499 |
-| For a handfull of Catapults | 28.00% | ~13,033 |
+| For a handfull of Catapults | 28.00% | ~13,034 |
 | Thirst quencher | 27.00% | ~12,568 |
 | Ogre Solo! | 27.00% | ~12,568 |
-| Destroy the thing | 26.00% | ~12,102 |
-| Tide Master | 26.00% | ~12,102 |
+| Destroy the thing | 26.00% | ~12,103 |
+| Tide Master | 26.00% | ~12,103 |
 | Difficult family relationships | 25.00% | ~11,637 |
 | MASS-O-BOT | 24.00% | ~11,172 |
 | Prepare the grave | 24.00% | ~11,172 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~931 |
 | Sacrifices! | 2.00% | ~931 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,548 (Ranked 127)  
+Progressed: 46,549 (Ranked 127)  
 Completed: 372 (0.80%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 372 (0.80%) (Ranked 190)
 | 2024-01-08 | 46,355 | 370 |
 | 2024-01-09 | 46,458 | 371 |
 | 2024-01-10 | 46,535 | 372 |
-| 2024-01-11 | 46,548 | 372 |
+| 2024-01-11 | 46,549 | 372 |
 ## Awards
 Max (Great for Beginners): 398  (Ranked 241)  
 Sum: 2,848 (Ranked 188)  

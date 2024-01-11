@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 373,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 277,
+  "EOS_Progressed": 278,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.17,
+  "EOS_Completed_Percentage": 2.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -735,6 +735,11 @@
       "Time": "2024-01-10T12:08:31.5842785+00:00",
       "NumProgressed": 277,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-11T02:30:59.8639745+00:00",
+      "NumProgressed": 278,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 17,
@@ -762,7 +767,7 @@
       "Name": "Congratulations, you are a sadist",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "deathlooper",
@@ -786,7 +791,7 @@
       "Name": "A leader, you are not",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "lootaphilia",
@@ -802,7 +807,7 @@
       "Name": "Maybe you should give it another go",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "mikey_lizard",
@@ -824,9 +829,9 @@
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 144
+      "UsersEstimate": 142
     },
     {
       "ID": "superstar_crossed_lovers",
@@ -881,7 +886,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 277,
+      "Progressed": 278,
       "Completed": 6
     }
   ],
@@ -889,8 +894,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2024-01-11T01:57:19.8192524+00:00",
+  "LastChanged_Achievements": "2024-01-11T02:30:59.8639742+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.9728945+00:00",
-  "LastUpdate_Ratings": "2024-01-11T01:52:47.2083955+00:00",
-  "LastUpdate_Achievements": "2024-01-11T01:57:19.8192684+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:27:47.3313024+00:00",
+  "LastUpdate_Achievements": "2024-01-11T02:30:59.8639934+00:00"
 }

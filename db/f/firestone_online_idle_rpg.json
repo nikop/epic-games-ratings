@@ -757,7 +757,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4385,
+  "EOS_Progressed": 4386,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
@@ -12307,6 +12307,11 @@
       "Time": "2024-01-11T01:56:50.9949561+00:00",
       "NumProgressed": 4385,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-11T02:30:39.553438+00:00",
+      "NumProgressed": 4386,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -12588,9 +12593,9 @@
       "ID": "inspection",
       "SetID": "3nl4bcg",
       "Name": "Inspection",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 614
+      "UsersEstimate": 570
     },
     {
       "ID": "jewelenchanting",
@@ -12646,7 +12651,7 @@
       "Name": "Milestone collector",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "minerclicker",
@@ -12710,7 +12715,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "prestigiousx10",
@@ -12878,7 +12883,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4078
+      "UsersEstimate": 4079
     },
     {
       "ID": "warmachinesarmy",
@@ -12910,14 +12915,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3420
+      "UsersEstimate": 3421
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4385,
+      "Progressed": 4386,
       "Completed": 2
     }
   ],
@@ -12925,8 +12930,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-10T22:57:46.9724637+00:00",
-  "LastChanged_Achievements": "2024-01-11T01:56:50.9949556+00:00",
+  "LastChanged_Achievements": "2024-01-11T02:30:39.5534376+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:00.5947712+00:00",
-  "LastUpdate_Ratings": "2024-01-11T01:47:15.8687911+00:00",
-  "LastUpdate_Achievements": "2024-01-11T01:56:50.9950716+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:22:16.9309898+00:00",
+  "LastUpdate_Achievements": "2024-01-11T02:30:39.5535457+00:00"
 }

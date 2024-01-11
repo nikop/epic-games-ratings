@@ -2350,9 +2350,9 @@
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 194
+      "UsersEstimate": 198
     },
     {
       "ID": "GasDeath",
@@ -2398,9 +2398,9 @@
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 194
+      "UsersEstimate": 198
     }
   ],
   "AchievementSets": [
@@ -2413,8 +2413,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2024-01-11T01:56:33.5219435+00:00",
+  "LastChanged_Achievements": "2024-01-11T02:30:27.5291768+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:56.7874531+00:00",
-  "LastUpdate_Ratings": "2024-01-11T01:52:00.6760438+00:00",
-  "LastUpdate_Achievements": "2024-01-11T01:56:33.5219698+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:27:17.7985542+00:00",
+  "LastUpdate_Achievements": "2024-01-11T02:30:27.529196+00:00"
 }
