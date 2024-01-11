@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 86.00% | ~270 |
-| A piece of the story | 65.00% | ~204 |
-| It's covered up for a reason | 59.00% | ~185 |
+| Something important | 86.00% | ~271 |
+| A piece of the story | 65.00% | ~205 |
+| It's covered up for a reason | 59.00% | ~186 |
 | Wanderer | 54.00% | ~170 |
-| Scraps of love | 51.00% | ~160 |
+| Scraps of love | 51.00% | ~161 |
 | The artist’s impression | 49.00% | ~154 |
-| Do what you have to | 44.00% | ~138 |
+| Do what you have to | 44.00% | ~139 |
 | Sign of weakness | 41.00% | ~129 |
 | Refuse to look | 36.00% | ~113 |
 | Face your fears | 30.00% | ~94 |
-| Finished it | 25.00% | ~78 |
-| Whispers long forgotten | 17.00% | ~53 |
+| Finished it | 25.00% | ~79 |
+| Whispers long forgotten | 17.00% | ~54 |
 | Sound Bite | 13.00% | ~41 |
 | A Slice of Life | 12.00% | ~38 |
 | Debut | 12.00% | ~38 |
 | The art of movement | 12.00% | ~38 |
 | Another perspective | 11.00% | ~35 |
 | Lights! Camera! Action! | 11.00% | ~35 |
-| Playtime | 10.00% | ~31 |
-| Tough conversation | 10.00% | ~31 |
+| Playtime | 10.00% | ~32 |
+| Tough conversation | 10.00% | ~32 |
 | A new way | 9.00% | ~28 |
 | First steps | 9.00% | ~28 |
 | The tragedy unfolds | 9.00% | ~28 |
@@ -35,9 +35,9 @@
 | Fisherman | 6.00% | ~19 |
 | Something to think about | 4.00% | ~13 |
 | I remember It Like Was Yesterday | 4.00% | ~13 |
-| Immortalized in my heart | 4.00% | ~13 |
 | We Are Not Alone | 3.00% | ~9 |
 | Dark correspondence | 3.00% | ~9 |
+| Immortalized in my heart | 3.00% | ~9 |
 | The Perfect Storm | 3.00% | ~9 |
 | Se7en Seas | 3.00% | ~9 |
 | Body of Work | 2.00% | ~6 |
@@ -57,7 +57,7 @@
 | Inheritance | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 314 (Ranked 393)  
+Progressed: 315 (Ranked 393)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,4 +137,4 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 295 | 0 |
 | 2024-01-09 | 305 | 0 |
 | 2024-01-10 | 312 | 0 |
-| 2024-01-11 | 314 | 0 |
+| 2024-01-11 | 315 | 0 |

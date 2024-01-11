@@ -11,9 +11,9 @@ Rating: 4.85 (Ranked 41)
 | The Preacher's fate | 44.00% | ~1,177 |
 | A new dawn | 37.00% | ~989 |
 | Scholar | 33.00% | ~882 |
+| A good beginning | 31.00% | ~829 |
 | True G3M4R | 31.00% | ~829 |
 | The darkness | 31.00% | ~829 |
-| A good beginning | 30.00% | ~802 |
 | One last step | 28.00% | ~749 |
 | I did it | 27.00% | ~722 |
 | Cable guy | 27.00% | ~722 |

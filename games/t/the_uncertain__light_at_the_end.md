@@ -5,14 +5,14 @@ Rating: 3.86 (Ranked 1,075)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bundle of Joy | 50.00% | ~331 |
-| A Friend in Need... | 44.00% | ~291 |
+| Bundle of Joy | 49.00% | ~325 |
+| A Friend in Need... | 44.00% | ~292 |
 | Bosom Buddies | 30.00% | ~199 |
-| Beat the Heat | 23.00% | ~152 |
+| Beat the Heat | 23.00% | ~153 |
 | A Familiar Face | 14.00% | ~93 |
 | Unexpected Consequences | 13.00% | ~86 |
-| F is for Feline | 12.00% | ~79 |
-| Does Not Compute | 12.00% | ~79 |
+| F is for Feline | 12.00% | ~80 |
+| Does Not Compute | 12.00% | ~80 |
 | Identity Theft | 11.00% | ~73 |
 | Mind the Gap | 11.00% | ~73 |
 | A Trip to Remember | 11.00% | ~73 |
@@ -21,10 +21,10 @@ Rating: 3.86 (Ranked 1,075)
 | Catch You Later | 7.00% | ~46 |
 | A Stealthy Outlook | 6.00% | ~40 |
 | Den Mother | 5.00% | ~33 |
-| Between the Covers | 4.00% | ~26 |
-| Antisocial Club | 4.00% | ~26 |
-| You Had One Job... | 4.00% | ~26 |
-| Smart cookie | 4.00% | ~26 |
+| Between the Covers | 4.00% | ~27 |
+| Antisocial Club | 4.00% | ~27 |
+| You Had One Job... | 4.00% | ~27 |
+| Smart cookie | 4.00% | ~27 |
 | Everything Must Go! | 3.00% | ~20 |
 | Paparazzi | 3.00% | ~20 |
 | Life of the Party | 3.00% | ~20 |
@@ -35,8 +35,8 @@ Rating: 3.86 (Ranked 1,075)
 | Marvellous Toys | 2.00% | ~13 |
 | Hardcore Gamer | 1.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 662 (Ranked 332)  
-Completed: 6 (0.91%) (Ranked 183)  
+Progressed: 664 (Ranked 332)  
+Completed: 6 (0.90%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -177,6 +177,7 @@ Completed: 6 (0.91%) (Ranked 183)
 | 2024-01-08 | 657 | 6 |
 | 2024-01-09 | 658 | 6 |
 | 2024-01-10 | 662 | 6 |
+| 2024-01-11 | 664 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

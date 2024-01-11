@@ -20,7 +20,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 958,
+  "EOS_Progressed": 959,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
@@ -3450,6 +3450,11 @@
       "Time": "2024-01-11T07:04:40.1572902+00:00",
       "NumProgressed": 958,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-11T09:05:28.2896881+00:00",
+      "NumProgressed": 959,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -3470,7 +3475,7 @@
       "Name": "Holey Moley",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "achievement_11",
@@ -3486,7 +3491,7 @@
       "Name": "From Way Downtown",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "achievement_13",
@@ -3510,7 +3515,7 @@
       "Name": "Victory Lap",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_16",
@@ -3518,7 +3523,7 @@
       "Name": "Star Power",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "achievement_17",
@@ -3526,7 +3531,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "achievement_18",
@@ -3542,7 +3547,7 @@
       "Name": "A Tradition Unlike Any Other",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_3",
@@ -3550,7 +3555,7 @@
       "Name": "A Passion for Excellence",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_4",
@@ -3574,7 +3579,7 @@
       "Name": "The Strongest Field in Golf",
       "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "achievement_7",
@@ -3605,13 +3610,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 958,
+      "Progressed": 959,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-11T08:04:32.6914042+00:00",
+  "LastChanged_Achievements": "2024-01-11T09:05:28.2896878+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.2920939+00:00",
-  "LastUpdate_Ratings": "2024-01-11T07:58:01.6993064+00:00",
-  "LastUpdate_Achievements": "2024-01-11T08:04:32.6914397+00:00"
+  "LastUpdate_Ratings": "2024-01-11T08:58:51.375788+00:00",
+  "LastUpdate_Achievements": "2024-01-11T09:05:28.2897294+00:00"
 }

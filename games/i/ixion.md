@@ -5,10 +5,10 @@ Rating: 4.58 (Ranked 471)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 33.00% | ~1,370 |
-| Sputnik 2049 | 29.00% | ~1,204 |
+| Wakey Wakey | 33.00% | ~1,371 |
+| Sputnik 2049 | 29.00% | ~1,205 |
 | Infinite Growth... | 28.00% | ~1,163 |
-| Without Breaking Some Eggs... | 27.00% | ~1,121 |
+| Without Breaking Some Eggs... | 27.00% | ~1,122 |
 | Space Society | 19.00% | ~789 |
 | A Thousand Strong | 19.00% | ~789 |
 | Ready for a New World | 19.00% | ~789 |
@@ -16,8 +16,8 @@ Rating: 4.58 (Ranked 471)
 | Fully Recycled | 15.00% | ~623 |
 | Ain't Nobody Got Time for That | 15.00% | ~623 |
 | The Ship of Theseus | 15.00% | ~623 |
-| Guy de Borderlands | 14.00% | ~581 |
-| Hope Seeker | 14.00% | ~581 |
+| Guy de Borderlands | 14.00% | ~582 |
+| Hope Seeker | 14.00% | ~582 |
 | A Hunk of Junk | 12.00% | ~498 |
 | Exceeding Capacity | 12.00% | ~498 |
 | Breaking Protocol | 12.00% | ~498 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 471)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,152 (Ranked 212)  
+Progressed: 4,154 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 4,096 | 0 |
 | 2024-01-09 | 4,126 | 0 |
 | 2024-01-10 | 4,148 | 0 |
-| 2024-01-11 | 4,152 | 0 |
+| 2024-01-11 | 4,154 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

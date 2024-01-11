@@ -30,16 +30,16 @@ Number of Ratings: 76  (23.09.2022)
 | Ship Shape | 5.00% | ~47 |
 | Shanghaied | 5.00% | ~47 |
 | Kelp Forest of Fear | 5.00% | ~47 |
-| The Small Does Not Rule | 4.00% | ~37 |
-| SpongeBob vs SpongeBob! | 4.00% | ~37 |
-| Sleepy Time | 4.00% | ~37 |
-| Sock Concert | 4.00% | ~37 |
-| Mega Spatula Seeker | 4.00% | ~37 |
+| The Small Does Not Rule | 4.00% | ~38 |
+| SpongeBob vs SpongeBob! | 4.00% | ~38 |
+| Sleepy Time | 4.00% | ~38 |
+| Sock Concert | 4.00% | ~38 |
+| Mega Spatula Seeker | 4.00% | ~38 |
 | 100% SpongeBob | 1.00% | ~9 |
 | Sock Opera | 1.00% | ~9 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 937 (Ranked 301)  
+Progressed: 938 (Ranked 301)  
 Completed: 8 (0.85%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 8 (0.85%) (Ranked 189)
 | 2024-01-08 | 877 | 8 |
 | 2024-01-09 | 906 | 8 |
 | 2024-01-10 | 929 | 8 |
-| 2024-01-11 | 937 | 8 |
+| 2024-01-11 | 938 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 499)  
 Sum: 36 (Ranked 531)  

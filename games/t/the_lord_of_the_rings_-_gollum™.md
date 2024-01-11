@@ -15,7 +15,7 @@
 | The Veteran | 19.00% | ~130 |
 | The Traitor | 15.00% | ~103 |
 | The Spider | 14.00% | ~96 |
-| Good as Fish | 11.00% | ~75 |
+| Good as Fish | 12.00% | ~82 |
 | Her Eyes | 11.00% | ~75 |
 | Murderer | 10.00% | ~69 |
 | Trigger-Happy | 10.00% | ~69 |
@@ -33,8 +33,8 @@
 | Collectibles Part 2 | 1.00% | ~7 |
 | We wants it! We needs it | 0.70% | ~5 |
 | Nervous Hands | 0.70% | ~5 |
+| Scout | 0.70% | ~5 |
 | Elf-Friend | 0.60% | ~4 |
-| Scout | 0.60% | ~4 |
 | We Hates Them! | 0.40% | ~3 |
 | Good Sméagol! | 0.40% | ~3 |
 | Rule them all! | 0.10% | ~1 |

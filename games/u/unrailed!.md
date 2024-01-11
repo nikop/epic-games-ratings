@@ -6,7 +6,7 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 19.00% | ~129,138 |
+| Advanced Stroller | 19.00% | ~129,139 |
 | Incurious | 18.00% | ~122,342 |
 | Climate Change | 17.00% | ~115,545 |
 | Stroller | 16.00% | ~108,748 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~680 |
 | 20 Miles under the Sea | 0.10% | ~680 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679,676 (Ranked 30)  
+Progressed: 679,677 (Ranked 30)  
 Completed: 15 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,16 +325,16 @@ Completed: 15 (0.00%) (Ranked 397)
 | 2024-01-08 | 679,232 | 14 |
 | 2024-01-09 | 679,440 | 14 |
 | 2024-01-10 | 679,620 | 15 |
-| 2024-01-11 | 679,676 | 15 |
+| 2024-01-11 | 679,677 | 15 |
 ## Awards
 Max (Great for Beginners): 209  (Ranked 296)  
-Sum: 1,635 (Ranked 237)  
+Sum: 1,637 (Ranked 237)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 209 |
 | This game has Diverse Characters | 205 |
-| This game has Quickly Understood Controls | 194 |
+| This game has Quickly Understood Controls | 196 |
 | This game is Extremely Fun | 189 |
 | This game is Relaxing | 184 |
 | This game has Amazing Characters | 173 |
@@ -512,4 +512,4 @@ Diff (max vs sum): 59
 | 2024-01-06 | 4.64 | - | 209 | 1,630 |
 | 2024-01-08 | 4.64 | - | 209 | 1,633 |
 | 2024-01-09 | 4.64 | - | 209 | 1,634 |
-| 2024-01-11 | 4.64 | - | 209 | 1,635 |
+| 2024-01-11 | 4.64 | - | 209 | 1,637 |

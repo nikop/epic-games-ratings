@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~948 |
+| Malpractice Assurance | 13.00% | ~949 |
 | Lost and Found | 8.00% | ~584 |
 | Autodidact | 7.00% | ~9,270 |
 | This guy... again? | 7.00% | ~511 |
@@ -16,16 +16,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 6.00% | ~7,946 |
 | Escape from the Black Hole | 6.00% | ~7,946 |
 | Ploughshares to Swords | 6.00% | ~438 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,621 |
-| It Rings a Bell | 5.00% | ~6,621 |
-| Not Today! | 5.00% | ~6,621 |
-| Meat and Greet | 5.00% | ~6,621 |
-| Catch and Decease | 5.00% | ~6,621 |
-| It Happens | 5.00% | ~6,621 |
-| Rush Hour | 5.00% | ~6,621 |
-| To Grandmother's House | 5.00% | ~6,621 |
-| A Place to Lay Your Head | 5.00% | ~6,621 |
-| FNG | 5.00% | ~6,621 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,622 |
+| It Rings a Bell | 5.00% | ~6,622 |
+| Not Today! | 5.00% | ~6,622 |
+| Meat and Greet | 5.00% | ~6,622 |
+| Catch and Decease | 5.00% | ~6,622 |
+| It Happens | 5.00% | ~6,622 |
+| Rush Hour | 5.00% | ~6,622 |
+| To Grandmother's House | 5.00% | ~6,622 |
+| A Place to Lay Your Head | 5.00% | ~6,622 |
+| FNG | 5.00% | ~6,622 |
 | Bloody Graduation | 5.00% | ~365 |
 | Spelunker | 4.00% | ~5,297 |
 | Merry Time | 4.00% | ~5,297 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,427 (Ranked 91)  
+Progressed: 132,431 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 4 (0.00%) (Ranked 397)
 | 2024-01-08 | 132,215 | 3 |
 | 2024-01-09 | 132,315 | 3 |
 | 2024-01-10 | 132,395 | 4 |
-| 2024-01-11 | 132,427 | 4 |
+| 2024-01-11 | 132,431 | 4 |
 ## Awards
 Max (Character Customization): 8,000  (Ranked 50)  
 Sum: 21,580 (Ranked 58)  

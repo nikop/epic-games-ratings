@@ -790,9 +790,9 @@
       "ID": "airtime_short",
       "SetID": "3448go",
       "Name": "Glider",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "beat_c1_bronze",
@@ -1389,8 +1389,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-11T08:03:35.0752651+00:00",
+  "LastChanged_Achievements": "2024-01-11T09:04:34.7112693+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:03.57847+00:00",
-  "LastUpdate_Ratings": "2024-01-11T07:57:30.5809114+00:00",
-  "LastUpdate_Achievements": "2024-01-11T08:03:35.0753483+00:00"
+  "LastUpdate_Ratings": "2024-01-11T08:58:23.3936759+00:00",
+  "LastUpdate_Achievements": "2024-01-11T09:04:34.7113668+00:00"
 }

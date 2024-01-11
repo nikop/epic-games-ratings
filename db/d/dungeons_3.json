@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -3607,9 +3607,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 46558,
+  "EOS_Progressed": 46559,
   "EOS_Completed": 372,
-  "EOS_NewPlayers": 724,
+  "EOS_NewPlayers": 723,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -33252,6 +33252,11 @@
       "Time": "2024-01-11T08:05:47.4560335+00:00",
       "NumProgressed": 46558,
       "NumCompleted": 372
+    },
+    {
+      "Time": "2024-01-11T09:06:37.9338517+00:00",
+      "NumProgressed": 46559,
+      "NumCompleted": 372
     }
   ],
   "TotalAchievements": 60,
@@ -33263,7 +33268,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 27469
+      "UsersEstimate": 27470
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -33271,7 +33276,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 21882
+      "UsersEstimate": 21883
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -33359,7 +33364,7 @@
       "Name": "The Stones\u2019 Power",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 8380
+      "UsersEstimate": 8381
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_2",
@@ -33375,7 +33380,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 23279
+      "UsersEstimate": 23280
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -33383,7 +33388,7 @@
       "Name": "Spawner Killer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_2",
@@ -33423,7 +33428,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 17226
+      "UsersEstimate": 17227
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -33479,7 +33484,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 18623
+      "UsersEstimate": 18624
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -33567,7 +33572,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10708
+      "UsersEstimate": 10709
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -33591,7 +33596,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 13036
+      "UsersEstimate": 13037
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -33631,7 +33636,7 @@
       "Name": "A little something extra",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_Completed",
@@ -33671,7 +33676,7 @@
       "Name": "The Benevolent Evil",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_2",
@@ -33742,15 +33747,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 46558,
+      "Progressed": 46559,
       "Completed": 372
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2024-01-10T14:57:56.2988599+00:00",
-  "LastChanged_Achievements": "2024-01-11T08:05:47.4560333+00:00",
+  "LastChanged_Achievements": "2024-01-11T09:06:37.9338513+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:50.2098276+00:00",
-  "LastUpdate_Ratings": "2024-01-11T07:58:20.6114815+00:00",
-  "LastUpdate_Achievements": "2024-01-11T08:05:47.4561882+00:00"
+  "LastUpdate_Ratings": "2024-01-11T08:59:09.1038969+00:00",
+  "LastUpdate_Achievements": "2024-01-11T09:06:37.9340225+00:00"
 }

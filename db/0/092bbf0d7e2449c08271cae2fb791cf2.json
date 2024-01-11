@@ -4,8 +4,8 @@
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 575,
+  "EOS_Progressed": 576,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
@@ -1879,6 +1879,11 @@
       "Time": "2024-01-11T00:03:34.6452799+00:00",
       "NumProgressed": 575,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-11T09:04:45.3403351+00:00",
+      "NumProgressed": 576,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1915,7 +1920,7 @@
       "Name": "Three Caps",
       "Percentage": 6,
       "XP": 140,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ach5",
@@ -1946,14 +1951,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 575,
+      "Progressed": 576,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-11T08:03:46.3940337+00:00",
+  "LastChanged_Achievements": "2024-01-11T09:04:45.3403349+00:00",
   "LastUpdate_AppInfo": "2024-01-10T21:57:10.0738096+00:00",
-  "LastUpdate_Ratings": "2024-01-11T07:59:47.1457845+00:00",
-  "LastUpdate_Achievements": "2024-01-11T08:03:46.3940472+00:00"
+  "LastUpdate_Ratings": "2024-01-11T09:00:27.3516971+00:00",
+  "LastUpdate_Achievements": "2024-01-11T09:04:45.3403478+00:00"
 }

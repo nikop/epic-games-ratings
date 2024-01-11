@@ -247,9 +247,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 414984,
+  "EOS_Progressed": 415004,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 15111,
+  "EOS_NewPlayers": 15061,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2917,6 +2917,11 @@
       "Time": "2024-01-11T08:05:31.4779276+00:00",
       "NumProgressed": 414984,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-11T09:06:22.269903+00:00",
+      "NumProgressed": 415004,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-05T09:03:44.926061+00:00",
@@ -2937,7 +2942,7 @@
       "Name": "Relentless Will",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 29049
+      "UsersEstimate": 29050
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -2961,7 +2966,7 @@
       "Name": "The Beginning of a Legend",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 95446
+      "UsersEstimate": 95451
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -2985,7 +2990,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 107896
+      "UsersEstimate": 107901
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -2993,7 +2998,7 @@
       "Name": "Level Analysis Complete",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 91296
+      "UsersEstimate": 91301
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -3089,7 +3094,7 @@
       "Name": "Downloaded",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 37349
+      "UsersEstimate": 37350
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -3137,7 +3142,7 @@
       "Name": "Training Advancement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 33199
+      "UsersEstimate": 33200
     },
     {
       "ID": "ACHIEVEMENT_028",
@@ -3272,7 +3277,7 @@
     {
       "ID": "dge1ook",
       "IsBase": true,
-      "Progressed": 414984,
+      "Progressed": 415004,
       "Completed": 2
     }
   ],
@@ -3280,8 +3285,8 @@
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
   "LastChanged": "2024-01-10T20:03:27.911734+00:00",
-  "LastChanged_Achievements": "2024-01-11T08:05:31.4779274+00:00",
+  "LastChanged_Achievements": "2024-01-11T09:06:22.2699028+00:00",
   "LastUpdate_AppInfo": "2024-01-09T11:57:12.3251773+00:00",
-  "LastUpdate_Ratings": "2024-01-11T08:03:08.8664791+00:00",
-  "LastUpdate_Achievements": "2024-01-11T08:05:31.4779641+00:00"
+  "LastUpdate_Ratings": "2024-01-11T09:04:08.3556123+00:00",
+  "LastUpdate_Achievements": "2024-01-11T09:06:22.2699477+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -843,9 +843,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3878,
+  "EOS_Progressed": 3879,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5903,6 +5903,11 @@
       "Time": "2024-01-11T06:07:17.4960384+00:00",
       "NumProgressed": 3878,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T09:06:32.7941945+00:00",
+      "NumProgressed": 3879,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -6250,7 +6255,7 @@
       "Name": "Bloodless",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -6457,21 +6462,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3878,
+      "Progressed": 3879,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3878,
+      "Progressed": 3879,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-11T05:03:08.5740841+00:00",
-  "LastChanged_Achievements": "2024-01-11T08:05:42.711122+00:00",
+  "LastChanged_Achievements": "2024-01-11T09:06:32.7941942+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:54.2702622+00:00",
-  "LastUpdate_Ratings": "2024-01-11T08:03:17.6611072+00:00",
-  "LastUpdate_Achievements": "2024-01-11T08:05:42.7111942+00:00"
+  "LastUpdate_Ratings": "2024-01-11T09:04:17.5417335+00:00",
+  "LastUpdate_Achievements": "2024-01-11T09:06:32.7942862+00:00"
 }

@@ -7,7 +7,7 @@ Number of Ratings: 292  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 46.00% | ~520 |
-| Double Kill | 41.00% | ~463 |
+| Double Kill | 41.00% | ~464 |
 | Critical Hit | 23.00% | ~260 |
 | Veteran | 23.00% | ~260 |
 | Dressed For Success | 16.00% | ~181 |
@@ -19,8 +19,8 @@ Number of Ratings: 292  (23.09.2022)
 | Landlord Extraordinaire | 7.00% | ~79 |
 | Whoops! | 6.00% | ~68 |
 | Don't Touch My Stuff | 6.00% | ~68 |
-| The Song of Stoutheart | 5.00% | ~56 |
-| Trojan Horse | 5.00% | ~56 |
+| The Song of Stoutheart | 5.00% | ~57 |
+| Trojan Horse | 5.00% | ~57 |
 | Expert Essence Employment | 4.00% | ~45 |
 | This Spot's Taken | 2.00% | ~23 |
 | Deepstrike | 2.00% | ~23 |
@@ -38,10 +38,10 @@ Number of Ratings: 292  (23.09.2022)
 | Killing Spree | 0.60% | ~7 |
 | Cleave | 0.60% | ~7 |
 | Death To Diplomacy | 0.50% | ~6 |
+| Get Over Here! | 0.50% | ~6 |
 | Attack Bonanza | 0.40% | ~5 |
 | Coming Through! | 0.40% | ~5 |
 | Barbecue | 0.40% | ~5 |
-| Get Over Here! | 0.40% | ~5 |
 | Fully Charged | 0.30% | ~3 |
 | Oops! | 0.30% | ~3 |
 | The Marsh Expands | 0.30% | ~3 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,130 (Ranked 287)  
+Progressed: 1,131 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 1,089 | 0 |
 | 2024-01-09 | 1,111 | 0 |
 | 2024-01-10 | 1,129 | 0 |
-| 2024-01-11 | 1,130 | 0 |
+| 2024-01-11 | 1,131 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 522)  
 Sum: 252 (Ranked 399)  

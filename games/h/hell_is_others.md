@@ -18,10 +18,10 @@ Rating: 4.40 (Ranked 769)
 | Pacifist | 4.00% | ~10,421 |
 | Vandalism | 4.00% | ~10,421 |
 | Capitalist I | 4.00% | ~10,421 |
-| Fixer II | 3.00% | ~7,815 |
-| It took a while | 3.00% | ~7,815 |
-| Adrenaline | 3.00% | ~7,815 |
-| Predator II | 3.00% | ~7,815 |
+| Fixer II | 3.00% | ~7,816 |
+| It took a while | 3.00% | ~7,816 |
+| Adrenaline | 3.00% | ~7,816 |
+| Predator II | 3.00% | ~7,816 |
 | By a hair | 2.00% | ~5,210 |
 | Samurai | 2.00% | ~5,210 |
 | I Left You a Present | 2.00% | ~5,210 |
@@ -62,7 +62,7 @@ Rating: 4.40 (Ranked 769)
 | Capitalist III | 0.10% | ~261 |
 | Hell Is You | 0.10% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,516 (Ranked 67)  
+Progressed: 260,517 (Ranked 67)  
 Completed: 3 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 3 (0.00%) (Ranked 397)
 | 2024-01-08 | 260,432 | 3 |
 | 2024-01-09 | 260,472 | 3 |
 | 2024-01-10 | 260,499 | 3 |
-| 2024-01-11 | 260,516 | 3 |
+| 2024-01-11 | 260,517 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 54  (Ranked 446)  
 Sum: 376 (Ranked 366)  

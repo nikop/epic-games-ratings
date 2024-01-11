@@ -1369,9 +1369,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 3656,
+  "EOS_Progressed": 3657,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -7919,6 +7919,11 @@
       "Time": "2024-01-11T06:07:03.044214+00:00",
       "NumProgressed": 3656,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-11T09:06:22.5265982+00:00",
+      "NumProgressed": 3657,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -8080,9 +8085,9 @@
       "ID": "ACH_KEEPING-IT-CLASSY",
       "SetID": "72olkc5",
       "Name": "Keeping it classy",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 987
+      "UsersEstimate": 951
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -8306,22 +8311,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 2303
+      "UsersEstimate": 2304
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3656,
+      "Progressed": 3657,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2024-01-11T07:03:02.1626339+00:00",
-  "LastChanged_Achievements": "2024-01-11T08:05:31.7604872+00:00",
+  "LastChanged_Achievements": "2024-01-11T09:06:22.5265978+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:55.5577816+00:00",
-  "LastUpdate_Ratings": "2024-01-11T08:02:52.9958525+00:00",
-  "LastUpdate_Achievements": "2024-01-11T08:05:31.7605434+00:00"
+  "LastUpdate_Ratings": "2024-01-11T09:03:52.5407125+00:00",
+  "LastUpdate_Achievements": "2024-01-11T09:06:22.5266668+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -2931,10 +2931,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 1635,
       "NumberOfAwardsMax": 209
+    },
+    {
+      "Time": "2024-01-11T09:03:51.7928842+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 1637,
+      "NumberOfAwardsMax": 209
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1635,
+  "NumberOfAwards": 1637,
   "NumberOfAwardsMax": 209,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2954,7 +2960,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 194
+      "Count": 196
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3005,9 +3011,9 @@
       "Count": 151
     }
   ],
-  "EOS_Progressed": 679676,
+  "EOS_Progressed": 679677,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 1902,
+  "EOS_NewPlayers": 1901,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33565,6 +33571,11 @@
       "Time": "2024-01-11T08:10:15.8587306+00:00",
       "NumProgressed": 679676,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-11T09:11:13.6145251+00:00",
+      "NumProgressed": 679677,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 52,
@@ -33616,7 +33627,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 129138
+      "UsersEstimate": 129139
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -33991,15 +34002,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 679676,
+      "Progressed": 679677,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
-  "LastChanged": "2024-01-11T01:52:02.2973554+00:00",
-  "LastChanged_Achievements": "2024-01-11T08:10:15.8587304+00:00",
+  "LastChanged": "2024-01-11T09:03:51.792884+00:00",
+  "LastChanged_Achievements": "2024-01-11T09:11:13.6145202+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:57.3345847+00:00",
-  "LastUpdate_Ratings": "2024-01-11T08:02:51.7961193+00:00",
-  "LastUpdate_Achievements": "2024-01-11T08:10:15.8588689+00:00"
+  "LastUpdate_Ratings": "2024-01-11T09:03:51.7928853+00:00",
+  "LastUpdate_Achievements": "2024-01-11T09:11:13.6147604+00:00"
 }

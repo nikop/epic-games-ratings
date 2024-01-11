@@ -10,10 +10,10 @@ Rating: 4.15 (Ranked 1,001)
 | A Taste of Wrath | 25.00% | ~555 |
 | The Collector | 25.00% | ~555 |
 | Find Allies | 24.00% | ~533 |
+| I Found It | 24.00% | ~533 |
 | Adventurer | 23.00% | ~511 |
 | Shatter Them All | 23.00% | ~511 |
 | Geared Up | 23.00% | ~511 |
-| I Found It | 23.00% | ~511 |
 | Fashion Victim | 22.00% | ~489 |
 | Scholar | 22.00% | ~489 |
 | Tributes of Caladrias | 20.00% | ~444 |

@@ -709,7 +709,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473688,
+  "EOS_Progressed": 473689,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 0,
@@ -28189,6 +28189,11 @@
       "Time": "2024-01-11T08:10:19.4060919+00:00",
       "NumProgressed": 473688,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-11T09:11:16.6897164+00:00",
+      "NumProgressed": 473689,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -28224,7 +28229,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 104211
+      "UsersEstimate": 104212
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -28288,7 +28293,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312634
+      "UsersEstimate": 312635
     },
     {
       "ID": "achievement_story_landa",
@@ -28632,7 +28637,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 142106
+      "UsersEstimate": 142107
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -28656,7 +28661,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184738
+      "UsersEstimate": 184739
     },
     {
       "ID": "achievement_win_run_hard",
@@ -28712,7 +28717,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 104211
+      "UsersEstimate": 104212
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -28831,21 +28836,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17622,
+      "Progressed": 17623,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473688,
+      "Progressed": 473689,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-11T08:10:19.4060916+00:00",
+  "LastChanged_Achievements": "2024-01-11T09:11:16.6897162+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:31.2733774+00:00",
-  "LastUpdate_Ratings": "2024-01-11T07:57:28.2845818+00:00",
-  "LastUpdate_Achievements": "2024-01-11T08:10:19.4062536+00:00"
+  "LastUpdate_Ratings": "2024-01-11T08:58:21.3615633+00:00",
+  "LastUpdate_Achievements": "2024-01-11T09:11:16.689885+00:00"
 }

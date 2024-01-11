@@ -6,41 +6,41 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~400,004 |
-| Happy Returns | 78.00% | ~385,189 |
-| Hey! That's mine! | 78.00% | ~385,189 |
-| Field Promotion | 74.00% | ~365,436 |
-| Leadhead | 71.00% | ~350,621 |
-| Eradicator | 68.00% | ~335,806 |
-| Surplus | 66.00% | ~325,929 |
-| I Spy | 64.00% | ~316,052 |
-| Burn Baby Burn | 59.00% | ~291,361 |
-| Yellow Beats Green | 56.00% | ~276,546 |
-| Salvage Rights | 53.00% | ~261,731 |
-| What IS that? | 51.00% | ~251,854 |
-| Close Call | 50.00% | ~246,916 |
-| Pew Pew | 50.00% | ~246,916 |
-| Penny Pincher | 49.00% | ~241,978 |
-| Arsenal | 46.00% | ~227,163 |
-| Boot Camp | 46.00% | ~227,163 |
-| Flawless Victory | 42.00% | ~207,409 |
-| Confident | 41.00% | ~202,471 |
-| Exterminator | 36.00% | ~177,780 |
-| Sharpshooter | 34.00% | ~167,903 |
-| Not So Fast | 33.00% | ~162,965 |
-| Great Ball of Fire | 32.00% | ~158,026 |
-| No Sale | 31.00% | ~153,088 |
-| Kaboom! | 30.00% | ~148,150 |
-| Liquidator | 29.00% | ~143,211 |
-| High Voltage | 24.00% | ~118,520 |
-| Filthy Rich | 20.00% | ~98,766 |
+| First Blood | 81.00% | ~400,007 |
+| Happy Returns | 78.00% | ~385,192 |
+| Hey! That's mine! | 78.00% | ~385,192 |
+| Field Promotion | 74.00% | ~365,439 |
+| Leadhead | 71.00% | ~350,624 |
+| Eradicator | 68.00% | ~335,808 |
+| Surplus | 66.00% | ~325,932 |
+| I Spy | 64.00% | ~316,055 |
+| Burn Baby Burn | 59.00% | ~291,363 |
+| Yellow Beats Green | 56.00% | ~276,548 |
+| Salvage Rights | 53.00% | ~261,733 |
+| What IS that? | 51.00% | ~251,856 |
+| Close Call | 50.00% | ~246,918 |
+| Pew Pew | 50.00% | ~246,918 |
+| Penny Pincher | 49.00% | ~241,980 |
+| Arsenal | 46.00% | ~227,165 |
+| Boot Camp | 46.00% | ~227,165 |
+| Flawless Victory | 42.00% | ~207,411 |
+| Confident | 41.00% | ~202,473 |
+| Exterminator | 36.00% | ~177,781 |
+| Sharpshooter | 34.00% | ~167,904 |
+| Not So Fast | 33.00% | ~162,966 |
+| Great Ball of Fire | 32.00% | ~158,028 |
+| No Sale | 31.00% | ~153,089 |
+| Kaboom! | 30.00% | ~148,151 |
+| Liquidator | 29.00% | ~143,212 |
+| High Voltage | 24.00% | ~118,521 |
+| Filthy Rich | 20.00% | ~98,767 |
 | Pyrrhic Victory | 18.00% | ~88,890 |
 | The Not-So-Friendly Skies | 18.00% | ~88,890 |
-| Power Builder | 17.00% | ~83,951 |
-| Death From Above | 16.00% | ~79,013 |
-| Retry | 16.00% | ~79,013 |
+| Power Builder | 17.00% | ~83,952 |
+| Death From Above | 16.00% | ~79,014 |
+| Retry | 16.00% | ~79,014 |
 | Head Trauma | 12.00% | ~59,260 |
-| Full Defense | 10.00% | ~49,383 |
+| Full Defense | 10.00% | ~49,384 |
 | Overseer | 9.00% | ~44,445 |
 | Annihilator | 8.00% | ~39,507 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~39,507 |
@@ -59,15 +59,15 @@ Number of Ratings: 1,225  (23.09.2022)
 | Gun Crazy | 1.00% | ~4,938 |
 | Well Invested | 1.00% | ~4,938 |
 | Xenocide | 1.00% | ~4,938 |
-| Planet Defender | 0.90% | ~4,444 |
+| Planet Defender | 0.90% | ~4,445 |
 | Master Siege Breaker | 0.80% | ~3,951 |
 | Few and Proud | 0.80% | ~3,951 |
 | Shell-shocked | 0.70% | ~3,457 |
 | Alien Tears | 0.50% | ~2,469 |
 | Full House | 0.50% | ~2,469 |
-| Kickstarter | 0.30% | ~1,481 |
-| Out of Bullets | 0.30% | ~1,481 |
-| The Container | 0.30% | ~1,481 |
+| Kickstarter | 0.30% | ~1,482 |
+| Out of Bullets | 0.30% | ~1,482 |
+| The Container | 0.30% | ~1,482 |
 | Foresight is 20/20 | 0.20% | ~988 |
 | Majestic Pony | 0.20% | ~988 |
 | Savant Genius | 0.20% | ~988 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~494 |
 | You Monster | 0.10% | ~494 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 493,832 (Ranked 43)  
+Progressed: 493,836 (Ranked 43)  
 Completed: 5 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -360,7 +360,7 @@ Completed: 5 (0.00%) (Ranked 397)
 | 2024-01-08 | 493,717 | 5 |
 | 2024-01-09 | 493,772 | 5 |
 | 2024-01-10 | 493,812 | 5 |
-| 2024-01-11 | 493,832 | 5 |
+| 2024-01-11 | 493,836 | 5 |
 ## Awards
 Max (Great for Beginners): 263  (Ranked 279)  
 Sum: 1,746 (Ranked 227)  

@@ -80,6 +80,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 0.60% | ~98 |
 | Win a Single Player Game | 0.60% | ~98 |
 | Mighty | 0.50% | ~82 |
+| Victorious | 0.50% | ~82 |
 | Landowners | 0.50% | ~82 |
 | Patrons | 0.50% | ~82 |
 | Riders | 0.50% | ~82 |
@@ -88,20 +89,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.50% | ~82 |
 | Temple of Solomon | 0.50% | ~82 |
 | Pantheon | 0.50% | ~82 |
+| Via Recta Souk | 0.50% | ~82 |
 | Greece | 0.50% | ~82 |
 | Economic Reform | 0.50% | ~82 |
 | Military Prestige | 0.50% | ~82 |
+| Legionary | 0.50% | ~82 |
 | Double Victory | 0.50% | ~82 |
 | Bad Heir Day | 0.40% | ~66 |
 | Capable | 0.40% | ~66 |
 | Conqueror | 0.40% | ~66 |
 | Invincible | 0.40% | ~66 |
+| Lion | 0.40% | ~66 |
 | Ready | 0.40% | ~66 |
 | Subjugator | 0.40% | ~66 |
-| Victorious | 0.40% | ~66 |
 | Strong Difficulty | 0.40% | ~66 |
 | Circus Maximus | 0.40% | ~66 |
-| Via Recta Souk | 0.40% | ~66 |
 | Assyrian Paganism | 0.40% | ~66 |
 | Industrial Progress | 0.40% | ~66 |
 | Dualism | 0.40% | ~66 |
@@ -109,15 +111,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.40% | ~66 |
 | Redemption | 0.40% | ~66 |
 | Cimmerian Archer | 0.40% | ~66 |
-| Legionary | 0.40% | ~66 |
+| Phalangite | 0.40% | ~66 |
 | Ambition Victory | 0.40% | ~66 |
 | The Clergy | 0.40% | ~66 |
 | Kushite Paganism | 0.40% | ~66 |
 | Devout | 0.30% | ~49 |
-| Lion | 0.30% | ~49 |
 | Peacemaker | 0.30% | ~49 |
 | Clerics | 0.30% | ~49 |
 | Hunters | 0.30% | ~49 |
+| Church of the Holy Sepulchre | 0.30% | ~49 |
 | Adur Burzen-Mihr | 0.30% | ~49 |
 | Learn to Play 4 | 0.30% | ~49 |
 | Babylonia | 0.30% | ~49 |
@@ -129,7 +131,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.30% | ~49 |
 | Veneration | 0.30% | ~49 |
 | Kushite Cavalry | 0.30% | ~49 |
-| Phalangite | 0.30% | ~49 |
 | Turreted Elephant | 0.30% | ~49 |
 | All Nations | 0.30% | ~49 |
 | Deposed Tribe | 0.30% | ~49 |
@@ -140,7 +141,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.20% | ~33 |
 | Noble Difficulty | 0.20% | ~33 |
 | The Eternal Treaty | 0.20% | ~33 |
-| Church of the Holy Sepulchre | 0.20% | ~33 |
 | Cao'an | 0.20% | ~33 |
 | Learn to Play 5 | 0.20% | ~33 |
 | Old World Order | 0.20% | ~33 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,402 (Ranked 169)  
+Progressed: 16,404 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -631,7 +631,7 @@ Completed: 5 (0.03%) (Ranked 355)
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
-| 2024-01-11 | 16,402 | 5 |
+| 2024-01-11 | 16,404 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,919 (Ranked 224)  

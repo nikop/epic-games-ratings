@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 79703,
+  "EOS_Progressed": 79704,
   "EOS_Completed": 432,
-  "EOS_NewPlayers": 726,
+  "EOS_NewPlayers": 721,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -29704,6 +29704,11 @@
       "Time": "2024-01-11T08:09:48.9444217+00:00",
       "NumProgressed": 79703,
       "NumCompleted": 432
+    },
+    {
+      "Time": "2024-01-11T09:10:47.7839631+00:00",
+      "NumProgressed": 79704,
+      "NumCompleted": 432
     }
   ],
   "TotalAchievements": 24,
@@ -29731,7 +29736,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 54995
+      "UsersEstimate": 54996
     },
     {
       "ID": "BEST_FRIENDS",
@@ -29883,7 +29888,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12752
+      "UsersEstimate": 12753
     },
     {
       "ID": "WEIGHTLESS",
@@ -29899,14 +29904,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 12752
+      "UsersEstimate": 12753
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 79703,
+      "Progressed": 79704,
       "Completed": 432
     }
   ],
@@ -29914,8 +29919,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-11T08:09:48.9444215+00:00",
+  "LastChanged_Achievements": "2024-01-11T09:10:47.7839629+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:00.3957366+00:00",
-  "LastUpdate_Ratings": "2024-01-11T07:58:12.504912+00:00",
-  "LastUpdate_Achievements": "2024-01-11T08:09:48.9445479+00:00"
+  "LastUpdate_Ratings": "2024-01-11T08:59:01.1859278+00:00",
+  "LastUpdate_Achievements": "2024-01-11T09:10:47.7841262+00:00"
 }
