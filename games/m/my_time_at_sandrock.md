@@ -6,10 +6,10 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 206.00% | ~1,844 |
+| Adept Assembler | 207.00% | ~1,853 |
 | Super Spelunker | 150.00% | ~1,342 |
 | Iron Chef | 140.00% | ~1,253 |
-| Officially Official | 124.00% | ~1,110 |
+| Officially Official | 125.00% | ~1,119 |
 | The Little Wood that Could | 120.00% | ~1,074 |
 | On that Grindset | 115.00% | ~1,029 |
 | Greeno-B-Gone | 109.00% | ~976 |
@@ -28,11 +28,11 @@ Number of Ratings: 892  (23.09.2022)
 | Yakmel Whisperer | 80.00% | ~716 |
 | Panda-kin | 79.00% | ~707 |
 | Chatterbox | 77.00% | ~689 |
+| First Love | 77.00% | ~689 |
 | No Mountain Wide Enough | 76.00% | ~680 |
-| First Love | 76.00% | ~680 |
 | I Do! | 76.00% | ~680 |
+| Can We Keep It? | 73.00% | ~653 |
 | Builder of the Month | 72.00% | ~644 |
-| Can We Keep It? | 72.00% | ~644 |
 | Bridging the Gap | 69.00% | ~618 |
 | Elementary, My Dear | 67.00% | ~600 |
 | Waste Not Want Not | 67.00% | ~600 |
@@ -49,7 +49,7 @@ Number of Ratings: 892  (23.09.2022)
 | Finishing Touches | 53.00% | ~474 |
 | Call Me Fishmael | 53.00% | ~474 |
 | Kind of a Big Deal | 48.00% | ~430 |
-| Just What I Always Wanted! | 47.00% | ~421 |
+| Just What I Always Wanted! | 48.00% | ~430 |
 | Jewel of the Eufaula | 43.00% | ~385 |
 | Sandrunning Speedster | 42.00% | ~376 |
 | My Time Mansion | 41.00% | ~367 |

@@ -2,13 +2,13 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 471,
+  "Ranking_Rating": 470,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1069,7 +1069,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9898,
+  "EOS_Progressed": 9899,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
@@ -11009,6 +11009,11 @@
       "Time": "2024-01-11T16:10:18.9124537+00:00",
       "NumProgressed": 9898,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-11T17:10:48.5545572+00:00",
+      "NumProgressed": 9899,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11036,7 +11041,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4355
+      "UsersEstimate": 4356
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -11068,7 +11073,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 3068
+      "UsersEstimate": 3069
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -11132,7 +11137,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3167
+      "UsersEstimate": 3168
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -11188,7 +11193,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3464
+      "UsersEstimate": 3465
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -11212,7 +11217,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4454
+      "UsersEstimate": 4455
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -11268,7 +11273,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -11348,7 +11353,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4949
+      "UsersEstimate": 4950
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -11379,7 +11384,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9898,
+      "Progressed": 9899,
       "Completed": 10
     }
   ],
@@ -11387,8 +11392,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-06T21:59:00.913352+00:00",
-  "LastChanged_Achievements": "2024-01-11T16:10:18.9124532+00:00",
+  "LastChanged_Achievements": "2024-01-11T17:10:48.554557+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:05.1405641+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:02:15.6200815+00:00",
-  "LastUpdate_Achievements": "2024-01-11T16:10:18.9125373+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:02:38.035133+00:00",
+  "LastUpdate_Achievements": "2024-01-11T17:10:48.5546571+00:00"
 }

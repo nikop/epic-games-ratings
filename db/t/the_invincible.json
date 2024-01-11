@@ -2,13 +2,13 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_Rating": 430,
+  "Ranking_Rating": 564,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.6,
+  "Rating": 4.53,
   "RatingHistory": [
     {
       "Time": "2023-12-23T17:00:23.3213833+00:00",
@@ -91,13 +91,19 @@
       "Rating": 4.6,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-11T16:59:53.370147+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1626,
+  "EOS_Progressed": 1627,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
@@ -4242,6 +4248,11 @@
       "Time": "2024-01-11T14:09:37.8192224+00:00",
       "NumProgressed": 1626,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T17:11:06.3814328+00:00",
+      "NumProgressed": 1627,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4262,7 +4273,7 @@
       "Name": "I remember everything!",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "AchvAssertive",
@@ -4278,7 +4289,7 @@
       "Name": "Fierce fight",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "AchvBombStop",
@@ -4342,7 +4353,7 @@
       "Name": "Another giant",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "AchvKrautaAlive",
@@ -4350,7 +4361,7 @@
       "Name": "Krauta is alive",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "AchvLava",
@@ -4430,7 +4441,7 @@
       "Name": "The Camp",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "AchvReachCity",
@@ -4438,7 +4449,7 @@
       "Name": "The City",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "AchvReachCondor",
@@ -4454,7 +4465,7 @@
       "Name": "Survivors",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -4462,7 +4473,7 @@
       "Name": "Flying Objects Operator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "AchvTheEnd",
@@ -4485,16 +4496,16 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1626,
+      "Progressed": 1627,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged": "2024-01-09T16:58:03.3059703+00:00",
-  "LastChanged_Achievements": "2024-01-11T16:10:37.209279+00:00",
+  "LastChanged": "2024-01-11T16:59:53.3701468+00:00",
+  "LastChanged_Achievements": "2024-01-11T17:11:06.3814326+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-11T15:59:34.970565+00:00",
-  "LastUpdate_Achievements": "2024-01-11T16:10:37.2093274+00:00"
+  "LastUpdate_Ratings": "2024-01-11T16:59:53.3701472+00:00",
+  "LastUpdate_Achievements": "2024-01-11T17:11:06.3814744+00:00"
 }

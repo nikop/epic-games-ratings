@@ -6,11 +6,11 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,694 |
+| Atom Agent | 99.00% | ~1,695 |
 | One HIT wonder | 34.00% | ~582 |
-| Wanderer | 32.00% | ~548 |
+| Wanderer | 31.00% | ~531 |
 | One shot, one kill | 25.00% | ~428 |
-| Traveler | 22.00% | ~376 |
+| Traveler | 22.00% | ~377 |
 | Grave Robber | 17.00% | ~291 |
 | Head Burst | 16.00% | ~274 |
 | Explorer | 15.00% | ~257 |
@@ -22,8 +22,8 @@ Number of Ratings: 54  (23.09.2022)
 | Bustin' nuts | 8.00% | ~137 |
 | Superhuman | 8.00% | ~137 |
 | Not-so-private Eye | 7.00% | ~120 |
-| Protection racket | 5.00% | ~86 |
 | The Vitinsky Rifle | 5.00% | ~86 |
+| Protection racket | 4.00% | ~68 |
 | Sacrifice | 4.00% | ~68 |
 | Secret room | 4.00% | ~68 |
 | Indy | 3.00% | ~51 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.10% | ~2 |
 | Pacifist | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,711 (Ranked 259)  
+Progressed: 1,712 (Ranked 259)  
 Completed: 1 (0.06%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,14 +261,14 @@ Completed: 1 (0.06%) (Ranked 331)
 | 2024-01-08 | 1,682 | 1 |
 | 2024-01-09 | 1,693 | 1 |
 | 2024-01-10 | 1,708 | 1 |
-| 2024-01-11 | 1,711 | 1 |
+| 2024-01-11 | 1,712 | 1 |
 ## Awards
-Max (Character Customization): 52  (Ranked 449)  
-Sum: 52 (Ranked 506)  
+Max (Character Customization): 53  (Ranked 449)  
+Sum: 53 (Ranked 506)  
 Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 52 |
+| This game has Inclusive Character Customization | 53 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -350,3 +350,4 @@ Diff (max vs sum): -57
 | 2023-11-03 | 4.47 | - | 52 | 52 |
 | 2023-12-27 | 4.48 | - | 52 | 52 |
 | 2024-01-07 | 4.49 | - | 52 | 52 |
+| 2024-01-11 | 4.49 | - | 53 | 53 |

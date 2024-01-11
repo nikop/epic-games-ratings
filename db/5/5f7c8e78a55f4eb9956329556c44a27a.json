@@ -4,7 +4,7 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 333,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 267,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -1285,9 +1285,9 @@
       "ID": "TINGWD_NOSHAME",
       "SetID": "c0imaa6",
       "Name": "Have you no shame?",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 230
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -1388,8 +1388,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-11T16:06:06.6955059+00:00",
+  "LastChanged_Achievements": "2024-01-11T17:06:38.6704857+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.2042305+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:02:27.954023+00:00",
-  "LastUpdate_Achievements": "2024-01-11T16:06:06.6955367+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:03:30.1254295+00:00",
+  "LastUpdate_Achievements": "2024-01-11T17:06:38.6705101+00:00"
 }

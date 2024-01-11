@@ -2,13 +2,13 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 495,
+  "Ranking_Rating": 494,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 376,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -272,9 +272,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2321,
+  "EOS_Progressed": 2322,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -4362,6 +4362,11 @@
       "Time": "2024-01-11T06:07:19.2159921+00:00",
       "NumProgressed": 2321,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-11T17:07:56.348365+00:00",
+      "NumProgressed": 2322,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4660,13 +4665,13 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2321,
+      "Progressed": 2322,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 962,
+      "Progressed": 963,
       "Completed": 920
     }
   ],
@@ -4674,8 +4679,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2024-01-06T21:58:36.9976729+00:00",
-  "LastChanged_Achievements": "2024-01-11T16:07:24.966253+00:00",
+  "LastChanged_Achievements": "2024-01-11T17:07:56.3483647+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:03.3487718+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:01:49.3041526+00:00",
-  "LastUpdate_Achievements": "2024-01-11T16:07:24.9663151+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:02:10.5506462+00:00",
+  "LastUpdate_Achievements": "2024-01-11T17:07:56.34841+00:00"
 }

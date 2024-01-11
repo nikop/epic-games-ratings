@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 338,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -757,9 +757,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4398,
+  "EOS_Progressed": 4403,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12337,6 +12337,11 @@
       "Time": "2024-01-11T16:08:30.6980375+00:00",
       "NumProgressed": 4398,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-11T17:09:01.9839972+00:00",
+      "NumProgressed": 4403,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -12482,9 +12487,9 @@
       "ID": "enchantingskill",
       "SetID": "3nl4bcg",
       "Name": "Enchanting skill",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 220
     },
     {
       "ID": "enchantingskillx5",
@@ -12532,7 +12537,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1805
     },
     {
       "ID": "fourleafclover",
@@ -12556,7 +12561,7 @@
       "Name": "Full Party",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1277
     },
     {
       "ID": "gearenchanting",
@@ -12580,15 +12585,15 @@
       "Name": "Guild Power",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "herewegoagain",
       "SetID": "3nl4bcg",
       "Name": "Here We Go Again",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 264
     },
     {
       "ID": "heroinspection",
@@ -12618,9 +12623,9 @@
       "ID": "inspection",
       "SetID": "3nl4bcg",
       "Name": "Inspection",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 616
+      "UsersEstimate": 572
     },
     {
       "ID": "jewelenchanting",
@@ -12740,7 +12745,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2287
+      "UsersEstimate": 2290
     },
     {
       "ID": "prestigiousx10",
@@ -12748,7 +12753,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "relicofthepast",
@@ -12804,7 +12809,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2463
+      "UsersEstimate": 2466
     },
     {
       "ID": "thealchemist",
@@ -12836,7 +12841,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "thepowerofawakening",
@@ -12908,7 +12913,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4090
+      "UsersEstimate": 4095
     },
     {
       "ID": "warmachinesarmy",
@@ -12940,14 +12945,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3430
+      "UsersEstimate": 3434
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4398,
+      "Progressed": 4403,
       "Completed": 2
     }
   ],
@@ -12955,8 +12960,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-10T22:57:46.9724637+00:00",
-  "LastChanged_Achievements": "2024-01-11T16:08:30.6980369+00:00",
+  "LastChanged_Achievements": "2024-01-11T17:09:01.9839969+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:00.5947712+00:00",
-  "LastUpdate_Ratings": "2024-01-11T15:58:55.0971529+00:00",
-  "LastUpdate_Achievements": "2024-01-11T16:08:30.6981385+00:00"
+  "LastUpdate_Ratings": "2024-01-11T16:59:14.8481428+00:00",
+  "LastUpdate_Achievements": "2024-01-11T17:09:01.9841136+00:00"
 }

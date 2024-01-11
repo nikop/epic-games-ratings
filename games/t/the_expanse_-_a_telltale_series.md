@@ -1,26 +1,26 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.53 (Ranked 565)  
+Rating: 4.53 (Ranked 564)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 18.00% | ~3,393 |
+| Oyedang, Kopengs | 18.00% | ~3,394 |
 | Captain Drummer | 15.00% | ~2,828 |
 | Celebrations are in Order | 14.00% | ~2,639 |
-| The Pit and the Pirates | 13.00% | ~2,450 |
-| Martian Music | 13.00% | ~2,450 |
-| Bosmang | 13.00% | ~2,450 |
-| Impossible Objects | 13.00% | ~2,450 |
+| The Pit and the Pirates | 13.00% | ~2,451 |
+| Martian Music | 13.00% | ~2,451 |
+| Bosmang | 13.00% | ~2,451 |
+| Impossible Objects | 13.00% | ~2,451 |
 | Spore Taste | 12.00% | ~2,262 |
 | Drone Dodger | 12.00% | ~2,262 |
 | Stogie for Fogey | 11.00% | ~2,074 |
-| Safe Cracker | 10.00% | ~480 |
-| Zen Master | 10.00% | ~480 |
-| Call it Even | 9.00% | ~1,696 |
-| Madame Undersecretary | 9.00% | ~432 |
+| Safe Cracker | 10.00% | ~481 |
+| Zen Master | 10.00% | ~481 |
+| Call it Even | 9.00% | ~1,697 |
+| Madame Undersecretary | 9.00% | ~433 |
 | Heal Thy Medic | 8.00% | ~1,508 |
-| Keep Arjun in Check | 8.00% | ~384 |
+| Keep Arjun in Check | 8.00% | ~385 |
 | Data Archivist | 7.00% | ~1,320 |
 | Drug Gifter | 7.00% | ~1,320 |
 | Thorston Mayer | 7.00% | ~1,320 |
@@ -35,13 +35,13 @@ Rating: 4.53 (Ranked 565)
 | No Belter Left Behind | 2.00% | ~377 |
 | Debris Spree | 2.00% | ~377 |
 | Data Recoverer | 2.00% | ~377 |
-| Urshanabi Hoarder | 1.00% | ~188 |
+| Urshanabi Hoarder | 1.00% | ~189 |
 | Grave Robber | 0.80% | ~151 |
 | Data Miner | 0.70% | ~132 |
 | Scavenger Star | 0.30% | ~57 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,850 (Ranked 159)  
+Progressed: 18,853 (Ranked 159)  
 Completed: 62 (0.33%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 62 (0.33%) (Ranked 250)
 | 2024-01-08 | 18,665 | 60 |
 | 2024-01-09 | 18,754 | 61 |
 | 2024-01-10 | 18,829 | 62 |
-| 2024-01-11 | 18,850 | 62 |
+| 2024-01-11 | 18,853 | 62 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -14,23 +14,24 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good | 2.00% | ~328 |
 | Intrepid | 2.00% | ~328 |
 | Just | 2.00% | ~328 |
+| Keystone | 2.00% | ~328 |
 | Learned | 2.00% | ~328 |
 | Mason | 2.00% | ~328 |
 | Noble | 2.00% | ~328 |
+| Pioneer | 2.00% | ~328 |
 | Strong | 2.00% | ~328 |
 | Friendly Family | 2.00% | ~328 |
 | Hanging Gardens | 2.00% | ~328 |
 | Oracle | 2.00% | ~328 |
 | Judaism | 2.00% | ~328 |
+| Trade Caravan | 2.00% | ~328 |
 | Ambitious | 1.00% | ~164 |
 | Brilliant | 1.00% | ~164 |
 | Enlightened | 1.00% | ~164 |
 | Fountainhead | 1.00% | ~164 |
 | Glorious | 1.00% | ~164 |
 | Great | 1.00% | ~164 |
-| Keystone | 1.00% | ~164 |
 | Magnificent | 1.00% | ~164 |
-| Pioneer | 1.00% | ~164 |
 | Warrior | 1.00% | ~164 |
 | Developing Cities | 1.00% | ~164 |
 | Strong Cities | 1.00% | ~164 |
@@ -51,7 +52,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 1.00% | ~164 |
 | Zoroastrianism | 1.00% | ~164 |
 | Naming Landmarks | 1.00% | ~164 |
-| Trade Caravan | 1.00% | ~164 |
 | Regicide | 0.90% | ~148 |
 | Wise | 0.90% | ~148 |
 | Acropolis | 0.90% | ~148 |
@@ -60,12 +60,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 0.90% | ~148 |
 | Drillmaster | 0.80% | ~131 |
 | Legendary Cities | 0.80% | ~131 |
+| Just Difficulty | 0.80% | ~131 |
 | Mausoleum | 0.80% | ~131 |
 | Mythology | 0.80% | ~131 |
 | Hanging Gardens in Babylon | 0.70% | ~115 |
 | Intercessor | 0.70% | ~115 |
 | Valiant | 0.70% | ~115 |
-| Just Difficulty | 0.70% | ~115 |
 | Artisans | 0.70% | ~115 |
 | Sages | 0.70% | ~115 |
 | Colossus | 0.70% | ~115 |
@@ -81,6 +81,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.60% | ~99 |
 | Points Victory | 0.60% | ~99 |
 | Win a Single Player Game | 0.60% | ~99 |
+| Conqueror | 0.50% | ~82 |
 | Victorious | 0.50% | ~82 |
 | Landowners | 0.50% | ~82 |
 | Patrons | 0.50% | ~82 |
@@ -98,7 +99,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.50% | ~82 |
 | Bad Heir Day | 0.40% | ~66 |
 | Capable | 0.40% | ~66 |
-| Conqueror | 0.40% | ~66 |
 | Invincible | 0.40% | ~66 |
 | Lion | 0.40% | ~66 |
 | Ready | 0.40% | ~66 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,417 (Ranked 169)  
+Progressed: 16,422 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -631,14 +631,14 @@ Completed: 5 (0.03%) (Ranked 355)
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
-| 2024-01-11 | 16,417 | 5 |
+| 2024-01-11 | 16,422 | 5 |
 ## Awards
-Max (Relaxing): 229  (Ranked 287)  
-Sum: 1,919 (Ranked 224)  
+Max (Relaxing): 230  (Ranked 287)  
+Sum: 1,920 (Ranked 224)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 229 |
+| This game is Relaxing | 230 |
 | This game has Diverse Characters | 222 |
 | This game is Extremely Fun | 222 |
 | This game is Highly Recommended | 222 |
@@ -842,3 +842,4 @@ Diff (max vs sum): 63
 | 2024-01-05 | 4.65 | - | 229 | 1,915 |
 | 2024-01-08 | 4.65 | - | 229 | 1,917 |
 | 2024-01-09 | 4.65 | - | 229 | 1,919 |
+| 2024-01-11 | 4.65 | - | 230 | 1,920 |

@@ -16,7 +16,7 @@ Rating: 4.27 (Ranked 906)
 | Junk Collector | 13.00% | ~140 |
 | Trashing Around | 13.00% | ~140 |
 | Challengers Champion | 10.00% | ~108 |
-| Cash For Crashes | 7.00% | ~75 |
+| Cash For Crashes | 7.00% | ~76 |
 | Pro Internationals Champion | 6.00% | ~65 |
 | Maniac Driver | 3.00% | ~32 |
 | World Masters Champion | 2.00% | ~22 |
@@ -26,7 +26,7 @@ Rating: 4.27 (Ranked 906)
 | Human Lover | 0.50% | ~5 |
 | Rocketeer | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,078 (Ranked 290)  
+Progressed: 1,079 (Ranked 290)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,7 +55,7 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 979 | 0 |
 | 2024-01-09 | 1,028 | 0 |
 | 2024-01-10 | 1,066 | 0 |
-| 2024-01-11 | 1,078 | 0 |
+| 2024-01-11 | 1,079 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "3d4ea555f7954f06b48050b3b821d6d0",
   "Name": "Fell Seal: Arbiter\u0027s Mark",
   "ProductSlug": "fell-seal-arbiters-mark",
-  "Ranking_Rating": 511,
+  "Ranking_Rating": 510,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 583,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-12-17T18:00:00+00:00",
     "PcReleaseDate": "2020-12-17T18:00:00+00:00",
@@ -194,6 +194,6 @@
   "FirstSeen": "2022-07-22T20:27:38.543998+00:00",
   "LastChanged": "2023-08-26T07:59:39.2491528+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:04.7116313+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:02:10.1543187+00:00",
-  "LastUpdate_Achievements": "2024-01-11T16:10:52.5410266+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:02:32.5724002+00:00",
+  "LastUpdate_Achievements": "2024-01-11T17:11:21.2120933+00:00"
 }

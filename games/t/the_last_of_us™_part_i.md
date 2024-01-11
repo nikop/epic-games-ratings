@@ -3,12 +3,12 @@
 [View Rawdata](../../db/t/the_last_of_us™_part_i.json)  
 Rating: 4.52 (Ranked 577)  
 ## Awards
-Max (Great Boss Battles): 377  (Ranked 245)  
-Sum: 443 (Ranked 345)  
-Diff (max vs sum): -100  
+Max (Great Boss Battles): 384  (Ranked 243)  
+Sum: 450 (Ranked 344)  
+Diff (max vs sum): -101  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 377 |
+| This game has Great Boss Battles | 384 |
 | This game has Diverse Characters | 24 |
 | This game is Highly Recommended | 22 |
 | This game is Relaxing | 20 |
@@ -184,4 +184,4 @@ Diff (max vs sum): -100
 | 2024-01-08 | 4.51 | 359 | 403 |
 | 2024-01-09 | 4.52 | 367 | 411 |
 | 2024-01-10 | 4.52 | 377 | 422 |
-| 2024-01-11 | 4.52 | 377 | 443 |
+| 2024-01-11 | 4.52 | 384 | 450 |

@@ -31,11 +31,14 @@
 | A Deceiving Gift | 1.00% | ~2 |
 | The Power of the Mountains | 1.00% | ~2 |
 | Sponsor | 0.60% | ~1 |
+| Style over Stats | 0.60% | ~1 |
 | Defeat Uskol | 0.60% | ~1 |
+| Wizard | 0.60% | ~1 |
+| Pathfinder | 0.60% | ~1 |
+| Globetrotter | 0.60% | ~1 |
 | The End | 0.60% | ~1 |
 | Unveiling the Truth | 0.60% | ~1 |
 | Small Setback | 0.60% | ~1 |
-| Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Bringing guns to a sword fight | 0.00% | ~0 |
 | Explorer by Heart | 0.00% | ~0 |
@@ -45,11 +48,8 @@
 | Fashionista | 0.00% | ~0 |
 | Ancient Powers | 0.00% | ~0 |
 | Knowledge is King | 0.00% | ~0 |
-| Wizard | 0.00% | ~0 |
 | Bookworm | 0.00% | ~0 |
 | Wayseeker | 0.00% | ~0 |
-| Pathfinder | 0.00% | ~0 |
-| Globetrotter | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 | Mind Over Matter | 0.00% | ~0 |
 | Coming Prepared | 0.00% | ~0 |

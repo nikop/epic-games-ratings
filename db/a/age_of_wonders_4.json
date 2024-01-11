@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -759,9 +759,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7192,
+  "EOS_Progressed": 7193,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11049,6 +11049,11 @@
       "Time": "2024-01-11T16:04:11.4186937+00:00",
       "NumProgressed": 7192,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-11T17:04:43.2939208+00:00",
+      "NumProgressed": 7193,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -11330,9 +11335,9 @@
       "ID": "40",
       "SetID": "3aa2279",
       "Name": "Intimidation Tactics",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 504
     },
     {
       "ID": "41",
@@ -11539,13 +11544,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7192,
+      "Progressed": 7193,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7192,
+      "Progressed": 7193,
       "Completed": 7
     }
   ],
@@ -11553,8 +11558,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-10T06:57:43.8261312+00:00",
-  "LastChanged_Achievements": "2024-01-11T16:04:11.4186933+00:00",
+  "LastChanged_Achievements": "2024-01-11T17:04:43.2939205+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-11T15:59:18.1790593+00:00",
-  "LastUpdate_Achievements": "2024-01-11T16:04:11.4188012+00:00"
+  "LastUpdate_Ratings": "2024-01-11T16:59:36.5466334+00:00",
+  "LastUpdate_Achievements": "2024-01-11T17:04:43.294022+00:00"
 }

@@ -22,13 +22,13 @@
 | Keep the Doctor Away | 8.00% | ~11 |
 | Just a Palm Tree | 8.00% | ~11 |
 | Under the Hood | 8.00% | ~11 |
+| Long Live Gaipajama! | 8.00% | ~11 |
 | Eyes Shut | 8.00% | ~11 |
 | Barking Dog | 8.00% | ~11 |
-| Long Live Gaipajama! | 7.00% | ~9 |
 | Mummy Nightmare | 7.00% | ~9 |
 | Tintin, Reporter | 6.00% | ~8 |
+| Mountain Runner | 5.00% | ~7 |
 | Subtlety | 5.00% | ~7 |
-| Mountain Runner | 4.00% | ~5 |
 | A Yummy Detour | 3.00% | ~4 |
 | The Corporal's Golden Boy | 2.00% | ~3 |
 | A Diagnosis | 2.00% | ~3 |

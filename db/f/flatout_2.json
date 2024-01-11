@@ -2,13 +2,13 @@
   "ID": "04aa210636b34e4181d617e015cb82b4",
   "Name": "Flatout 2",
   "ProductSlug": "flatout-2-9ffdd6",
-  "Ranking_Rating": 11,
+  "Ranking_Rating": 12,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 583,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-07-08T04:00:00+00:00",
     "PcReleaseDate": "2006-08-01T04:00:00+00:00",
@@ -148,6 +148,6 @@
   "FirstSeenRating": "2022-11-11T17:57:55.7315738+00:00",
   "LastChanged": "2023-12-26T12:59:50.2178267+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:01.909411+00:00",
-  "LastUpdate_Ratings": "2024-01-11T15:58:24.0209481+00:00",
-  "LastUpdate_Achievements": "2024-01-11T16:04:03.7019623+00:00"
+  "LastUpdate_Ratings": "2024-01-11T16:58:43.9576282+00:00",
+  "LastUpdate_Achievements": "2024-01-11T17:04:35.1810524+00:00"
 }

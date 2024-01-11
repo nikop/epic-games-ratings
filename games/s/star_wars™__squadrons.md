@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~38,124 |
-| Safety in the Storm | 23.00% | ~9,230 |
-| A Better Idea | 23.00% | ~9,230 |
-| Begin the Ceremony | 19.00% | ~7,625 |
-| Mission Accomplished | 18.00% | ~7,224 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~6,020 |
-| A Starfighter of Your Own | 13.00% | ~5,217 |
-| Asset Secured | 12.00% | ~4,816 |
-| Unkillable | 7.00% | ~2,809 |
-| Together, Vanguard | 7.00% | ~2,809 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~2,408 |
+| Fracture at Fostar Haven | 95.00% | ~38,142 |
+| Safety in the Storm | 23.00% | ~9,234 |
+| A Better Idea | 23.00% | ~9,234 |
+| Begin the Ceremony | 19.00% | ~7,628 |
+| Mission Accomplished | 18.00% | ~7,227 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~6,022 |
+| A Starfighter of Your Own | 13.00% | ~5,219 |
+| Asset Secured | 12.00% | ~4,818 |
+| Unkillable | 7.00% | ~2,810 |
+| Together, Vanguard | 7.00% | ~2,810 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~2,409 |
 | Sound Strategy | 5.00% | ~2,007 |
 | Stomped | 5.00% | ~2,007 |
-| Fearless | 4.00% | ~1,605 |
-| Back From the Brink | 4.00% | ~1,605 |
-| Flames Over Mon Cala | 4.00% | ~1,605 |
-| A Promising Career | 4.00% | ~1,605 |
+| Fearless | 4.00% | ~1,606 |
+| Back From the Brink | 4.00% | ~1,606 |
+| Flames Over Mon Cala | 4.00% | ~1,606 |
+| A Promising Career | 4.00% | ~1,606 |
 | Great Shot, Kid | 3.00% | ~1,204 |
 | Stronger Together | 3.00% | ~1,204 |
 | Temporary Guardian | 3.00% | ~1,204 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~40 |
 | Ultimate Weapon | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,131 (Ranked 134)  
+Progressed: 40,149 (Ranked 134)  
 Completed: 3 (0.01%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 3 (0.01%) (Ranked 374)
 | 2024-01-08 | 39,442 | 3 |
 | 2024-01-09 | 39,679 | 3 |
 | 2024-01-10 | 39,988 | 3 |
-| 2024-01-11 | 40,131 | 3 |
+| 2024-01-11 | 40,149 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

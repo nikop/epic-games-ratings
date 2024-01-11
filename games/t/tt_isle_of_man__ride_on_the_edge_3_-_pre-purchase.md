@@ -12,8 +12,8 @@
 | Serial Winner | 8.00% | ~22 |
 | Start Your Engines | 8.00% | ~22 |
 | Lone Wolf | 8.00% | ~22 |
+| Highly Qualified | 7.00% | ~19 |
 | No Room for Improvement | 7.00% | ~19 |
-| Highly Qualified | 6.00% | ~16 |
 | Playing God | 5.00% | ~14 |
 | Nerd | 4.00% | ~11 |
 | First and Foremost | 4.00% | ~11 |

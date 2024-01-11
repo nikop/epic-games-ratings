@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 338,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1937,
+  "EOS_Progressed": 1938,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4947,6 +4947,11 @@
       "Time": "2024-01-11T16:08:08.0580053+00:00",
       "NumProgressed": 1937,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T17:08:39.8782193+00:00",
+      "NumProgressed": 1938,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -5015,7 +5020,7 @@
       "Name": "Versatile riding",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -5135,7 +5140,7 @@
       "Name": "The Scorpion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -5159,7 +5164,7 @@
       "Name": "The Nitro Bot",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -5263,7 +5268,7 @@
       "Name": "Tools of the trade",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -5326,20 +5331,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1937,
+      "Progressed": 1938,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1605,
+      "Progressed": 1606,
       "Completed": 1013
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-11T16:08:08.0580049+00:00",
+  "LastChanged_Achievements": "2024-01-11T17:08:39.8782188+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.6791346+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:00:39.2657353+00:00",
-  "LastUpdate_Achievements": "2024-01-11T16:08:08.0580557+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:00:59.0114907+00:00",
+  "LastUpdate_Achievements": "2024-01-11T17:08:39.8783196+00:00"
 }

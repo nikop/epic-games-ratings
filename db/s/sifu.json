@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8925,10 +8925,10 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 759496,
+  "EOS_Progressed": 759516,
   "EOS_Completed": 12983,
-  "EOS_NewPlayers": 5794,
-  "EOS_NewCompleters": 10,
+  "EOS_NewPlayers": 5766,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
     {
@@ -33340,6 +33340,11 @@
       "Time": "2024-01-11T16:10:17.1973368+00:00",
       "NumProgressed": 759496,
       "NumCompleted": 12983
+    },
+    {
+      "Time": "2024-01-11T17:10:46.8736999+00:00",
+      "NumProgressed": 759516,
+      "NumCompleted": 12983
     }
   ],
   "TotalAchievements": 60,
@@ -33351,7 +33356,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45570
+      "UsersEstimate": 45571
     },
     {
       "ID": "02_Vengeance_H1",
@@ -33359,7 +33364,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30380
+      "UsersEstimate": 30381
     },
     {
       "ID": "03_Vengeance_H2",
@@ -33399,7 +33404,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 5316
+      "UsersEstimate": 5317
     },
     {
       "ID": "08_Wude_H2",
@@ -33431,7 +33436,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3797
+      "UsersEstimate": 3798
     },
     {
       "ID": "12_MidAge",
@@ -33447,7 +33452,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3797
+      "UsersEstimate": 3798
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -33471,7 +33476,7 @@
       "Name": "Drunken Fighter",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2278
+      "UsersEstimate": 2279
     },
     {
       "ID": "17_Detective_H3",
@@ -33479,7 +33484,7 @@
       "Name": "Martial Artist",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2278
+      "UsersEstimate": 2279
     },
     {
       "ID": "18_Detective_H4",
@@ -33487,7 +33492,7 @@
       "Name": "Knowledge Greed",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2278
+      "UsersEstimate": 2279
     },
     {
       "ID": "19_Detective_H5",
@@ -33527,7 +33532,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37975
+      "UsersEstimate": 37976
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -33567,7 +33572,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 3797
+      "UsersEstimate": 3798
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -33591,7 +33596,7 @@
       "Name": "Ferocity, speed, strength, accuracy",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2278
+      "UsersEstimate": 2279
     },
     {
       "ID": "32_ReachMaxAge",
@@ -33615,7 +33620,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30380
+      "UsersEstimate": 30381
     },
     {
       "ID": "35_WideStrike",
@@ -33671,7 +33676,7 @@
       "Name": "Warriors from the Mountain",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "42_PhotoMode_Trophy",
@@ -33815,7 +33820,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -33830,21 +33835,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 68797,
+      "Progressed": 68817,
       "Completed": 10805
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 759496,
+      "Progressed": 759516,
       "Completed": 12983
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-11T08:03:10.5578421+00:00",
-  "LastChanged_Achievements": "2024-01-11T16:10:17.1973328+00:00",
+  "LastChanged_Achievements": "2024-01-11T17:10:46.8736996+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.3871095+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:03:37.262577+00:00",
-  "LastUpdate_Achievements": "2024-01-11T16:10:17.197465+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:04:08.5745181+00:00",
+  "LastUpdate_Achievements": "2024-01-11T17:10:46.8738569+00:00"
 }

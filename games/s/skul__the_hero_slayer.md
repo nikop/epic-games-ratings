@@ -6,22 +6,22 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~13,563 |
-| What should I buy? | 80.00% | ~11,667 |
-| Focus! | 60.00% | ~8,750 |
-| Rescued Elder Ent | 60.00% | ~8,750 |
-| The End of the Gold Mane Knights | 47.00% | ~6,854 |
+| The Legend Begins | 93.00% | ~13,564 |
+| What should I buy? | 80.00% | ~11,668 |
+| Focus! | 60.00% | ~8,751 |
+| Rescued Elder Ent | 60.00% | ~8,751 |
+| The End of the Gold Mane Knights | 47.00% | ~6,855 |
 | False Goddess, Disappear | 39.00% | ~5,688 |
 | Rules of Etiquette | 37.00% | ~5,396 |
 | Inventory Management | 32.00% | ~4,667 |
-| The Fall of the Leonia Order | 30.00% | ~4,375 |
-| Quick Movements | 30.00% | ~4,375 |
+| The Fall of the Leonia Order | 30.00% | ~4,376 |
+| Quick Movements | 30.00% | ~4,376 |
 | Go Home... | 27.00% | ~3,938 |
 | The Final Battle of the First Hero | 26.00% | ~3,792 |
 | The Hero Killer | 25.00% | ~3,646 |
 | Brain at Full Throttle | 20.00% | ~2,917 |
 | Rookies Welcome | 17.00% | ~2,479 |
-| Deadly Power | 16.00% | ~2,333 |
+| Deadly Power | 16.00% | ~2,334 |
 | Castle Restoration Plans | 13.00% | ~1,896 |
 | The Dwarven Chandelier | 10.00% | ~1,458 |
 | Master of Speed | 9.00% | ~1,313 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~146 |
 | Cold-Blooded | 0.60% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,584 (Ranked 174)  
+Progressed: 14,585 (Ranked 174)  
 Completed: 21 (0.14%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,19 +276,19 @@ Completed: 21 (0.14%) (Ranked 296)
 | 2024-01-08 | 14,299 | 21 |
 | 2024-01-09 | 14,394 | 21 |
 | 2024-01-10 | 14,523 | 21 |
-| 2024-01-11 | 14,584 | 21 |
+| 2024-01-11 | 14,585 | 21 |
 ## Awards
 Max (Great for Beginners): 152  (Ranked 330)  
-Sum: 1,015 (Ranked 275)  
+Sum: 1,018 (Ranked 275)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 152 |
-| This game has Diverse Characters | 147 |
+| This game has Diverse Characters | 149 |
 | This game is Highly Recommended | 124 |
 | This game is Extremely Fun | 117 |
 | This game has Quickly Understood Controls | 114 |
-| This game is Relaxing | 112 |
+| This game is Relaxing | 113 |
 | This game has Amazing Storytelling | 95 |
 | This game has Amazing Characters | 88 |
 | This game has a Creative Community | 66 |
@@ -470,4 +470,4 @@ Diff (max vs sum): 55
 | 2024-01-08 | 4.75 | - | 151 | 1,010 |
 | 2024-01-09 | 4.74 | - | 151 | 1,011 |
 | 2024-01-10 | 4.75 | - | 152 | 1,012 |
-| 2024-01-11 | 4.75 | - | 152 | 1,015 |
+| 2024-01-11 | 4.75 | - | 152 | 1,018 |

@@ -4,8 +4,8 @@
 Rating: 3.84 (Ranked 1,081)  
 ## Awards
 Max (Quickly Understood Controls): 106  (Ranked 373)  
-Sum: 309 (Ranked 377)  
-Diff (max vs sum): -4  
+Sum: 309 (Ranked 378)  
+Diff (max vs sum): -5  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 106 |

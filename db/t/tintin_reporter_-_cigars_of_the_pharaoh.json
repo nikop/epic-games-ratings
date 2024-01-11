@@ -4,8 +4,8 @@
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-07T09:00:00+00:00",
@@ -703,9 +703,9 @@
       "ID": "Achievement17",
       "SetID": "9fa3l5n",
       "Name": "Long Live Gaipajama!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 85,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "Achievement18",
@@ -823,9 +823,9 @@
       "ID": "Achievement30",
       "SetID": "9fa3l5n",
       "Name": "Mountain Runner",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "Achievement31",
@@ -942,8 +942,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-11T16:08:20.9609709+00:00",
+  "LastChanged_Achievements": "2024-01-11T17:08:52.2435831+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.5995051+00:00",
-  "LastUpdate_Ratings": "2024-01-11T15:57:34.3637256+00:00",
-  "LastUpdate_Achievements": "2024-01-11T16:08:20.9609978+00:00"
+  "LastUpdate_Ratings": "2024-01-11T16:57:54.3637321+00:00",
+  "LastUpdate_Achievements": "2024-01-11T17:08:52.2436249+00:00"
 }

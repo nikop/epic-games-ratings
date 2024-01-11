@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1624,9 +1624,9 @@
       "ID": "hear_most_of_interviews",
       "SetID": "f2im8d",
       "Name": "Full Scoop",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "hear_one_interview",
@@ -1847,8 +1847,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-11T16:09:32.5220322+00:00",
+  "LastChanged_Achievements": "2024-01-11T17:10:02.9206277+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:37.800715+00:00",
-  "LastUpdate_Ratings": "2024-01-11T15:59:57.6704613+00:00",
-  "LastUpdate_Achievements": "2024-01-11T16:09:32.5220764+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:00:16.3898029+00:00",
+  "LastUpdate_Achievements": "2024-01-11T17:10:02.9207212+00:00"
 }

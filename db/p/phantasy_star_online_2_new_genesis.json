@@ -2,13 +2,13 @@
   "ID": "bf333e6236914222a95a536389c05813",
   "Name": "Phantasy Star Online 2 New Genesis",
   "ProductSlug": "phantasy-star-online-2",
-  "Ranking_Rating": 565,
+  "Ranking_Rating": 564,
   "Ranking_Popularity": 162,
   "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 583,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-02-17T06:00:00+00:00",
     "PcReleaseDate": "2021-02-17T06:00:00+00:00",
@@ -5445,6 +5445,6 @@
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
   "LastChanged": "2024-01-11T05:00:14.7761002+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:21.575931+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:02:22.6898649+00:00",
-  "LastUpdate_Achievements": "2024-01-11T16:06:10.0261648+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:03:24.7424699+00:00",
+  "LastUpdate_Achievements": "2024-01-11T17:06:42.0501411+00:00"
 }

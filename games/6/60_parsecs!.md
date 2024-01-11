@@ -49,7 +49,7 @@
 | Unidentified Flying Offspring | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 822 (Ranked 310)  
+Progressed: 822 (Ranked 311)  
 Completed: 1 (0.12%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |

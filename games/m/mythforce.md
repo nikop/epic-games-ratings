@@ -6,21 +6,21 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 27.00% | ~1,691 |
-| Hit 'Em Where It Hurts | 26.00% | ~1,628 |
-| Perk Shard Punch Card | 26.00% | ~1,628 |
+| Faceroll the Bones | 27.00% | ~1,692 |
+| Hit 'Em Where It Hurts | 26.00% | ~1,629 |
+| Perk Shard Punch Card | 26.00% | ~1,629 |
 | Debuff Dogpile | 25.00% | ~1,566 |
 | That'll Leave a Mark | 25.00% | ~1,566 |
-| Mushroom Madness! | 23.00% | ~1,440 |
-| First Strike | 22.00% | ~1,378 |
-| Spending Spree | 19.00% | ~1,190 |
-| Horder Better Faster Stronger | 18.00% | ~1,127 |
-| Ten Steps from the Grave | 16.00% | ~1,002 |
-| Everything Must Go! | 15.00% | ~939 |
-| Next Time on MythForce... | 15.00% | ~939 |
+| Mushroom Madness! | 23.00% | ~1,441 |
+| First Strike | 22.00% | ~1,379 |
+| Spending Spree | 19.00% | ~1,191 |
+| Horder Better Faster Stronger | 18.00% | ~1,128 |
+| Everything Must Go! | 15.00% | ~940 |
+| Next Time on MythForce... | 15.00% | ~940 |
+| Ten Steps from the Grave | 15.00% | ~940 |
 | Cold-Blooded Critters | 11.00% | ~689 |
 | Death Becomes You | 8.00% | ~501 |
-| On this Episode! | 7.00% | ~438 |
+| On this Episode! | 7.00% | ~439 |
 | Flawless Victory | 6.00% | ~376 |
 | The Harder They Fall | 6.00% | ~376 |
 | Deadication | 4.00% | ~251 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.40% | ~25 |
 | Deadalus and Loving It | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,263 (Ranked 199)  
+Progressed: 6,266 (Ranked 199)  
 Completed: 5 (0.08%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,11 +210,11 @@ Completed: 5 (0.08%) (Ranked 323)
 | 2024-01-08 | 6,210 | 5 |
 | 2024-01-09 | 6,230 | 5 |
 | 2024-01-10 | 6,255 | 5 |
-| 2024-01-11 | 6,263 | 5 |
+| 2024-01-11 | 6,266 | 5 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 499)  
-Sum: 296 (Ranked 381)  
-Diff (max vs sum): 118  
+Sum: 296 (Ranked 382)  
+Diff (max vs sum): 117  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |

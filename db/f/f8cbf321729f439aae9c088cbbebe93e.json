@@ -4,8 +4,8 @@
   "ProductSlug": "survivor-castaway-island-16f672",
   "Ranking_EOS_Progress": 536,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-03T08:00:00+00:00",
     "PcReleaseDate": "2023-10-03T08:00:00+00:00",
@@ -365,9 +365,9 @@
       "ID": "_02",
       "SetID": "670ak8f",
       "Name": "Only one family",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "_03",
@@ -413,9 +413,9 @@
       "ID": "_08",
       "SetID": "670ak8f",
       "Name": "Real Adventurer",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "_09",
@@ -444,8 +444,8 @@
   ],
   "FirstSeen": "2023-10-05T01:45:17.1796579+00:00",
   "FirstSeenAchievements": "2023-09-18T15:06:02.8477562+00:00",
-  "LastChanged_Achievements": "2024-01-11T16:09:47.4114287+00:00",
+  "LastChanged_Achievements": "2024-01-11T17:10:17.3710491+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:56.5614774+00:00",
-  "LastUpdate_Ratings": "2024-01-11T15:58:18.4870344+00:00",
-  "LastUpdate_Achievements": "2024-01-11T16:09:47.4114392+00:00"
+  "LastUpdate_Ratings": "2024-01-11T16:58:38.408584+00:00",
+  "LastUpdate_Achievements": "2024-01-11T17:10:17.371063+00:00"
 }

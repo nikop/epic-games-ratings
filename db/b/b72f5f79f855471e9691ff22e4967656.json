@@ -4,8 +4,8 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 376,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 182,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -986,9 +986,9 @@
       "ID": "killLeshy30",
       "SetID": "ci65fo0",
       "Name": "Wood goblins fighter",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "killPlant20",
@@ -1226,9 +1226,9 @@
       "ID": "questDefeatMainEnemy",
       "SetID": "ci65fo0",
       "Name": "The most important achievement",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "questDefender",
@@ -1322,9 +1322,9 @@
       "ID": "questReturnSun",
       "SetID": "ci65fo0",
       "Name": "Let there be light!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "questRobHut",
@@ -1370,9 +1370,9 @@
       "ID": "questSavePrincessFinal",
       "SetID": "ci65fo0",
       "Name": "Great rescuer",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "questSaveRoyalSmith",
@@ -1423,8 +1423,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2024-01-11T16:11:01.872175+00:00",
+  "LastChanged_Achievements": "2024-01-11T17:11:30.3128242+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:02.3295172+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:00:19.6209818+00:00",
-  "LastUpdate_Achievements": "2024-01-11T16:11:01.8722448+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:00:39.3911284+00:00",
+  "LastUpdate_Achievements": "2024-01-11T17:11:30.3129092+00:00"
 }

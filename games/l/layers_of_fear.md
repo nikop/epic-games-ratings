@@ -38,11 +38,11 @@
 | We Are Not Alone | 3.00% | ~10 |
 | Dark correspondence | 3.00% | ~10 |
 | Immortalized in my heart | 3.00% | ~10 |
+| Full Scoop | 3.00% | ~10 |
 | The Perfect Storm | 3.00% | ~10 |
 | Se7en Seas | 3.00% | ~10 |
 | Body of Work | 2.00% | ~6 |
 | It was worth a try | 2.00% | ~6 |
-| Full Scoop | 2.00% | ~6 |
 | Preferred Parent | 2.00% | ~6 |
 | A Mosaic of Misery | 2.00% | ~6 |
 | In One Take | 1.00% | ~3 |

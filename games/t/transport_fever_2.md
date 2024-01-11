@@ -22,9 +22,9 @@ Number of Ratings: 180  (23.09.2022)
 | Transport master | 48.00% | ~1,178 |
 | Sculpturer | 45.00% | ~1,105 |
 | Settled down | 44.00% | ~1,080 |
+| Now what? | 43.00% | ~1,056 |
 | First electric train arrived | 42.00% | ~1,031 |
 | First ship arrived | 42.00% | ~1,031 |
-| Now what? | 42.00% | ~1,031 |
 | Exemplary student | 41.00% | ~1,007 |
 | First aircraft arrived | 38.00% | ~933 |
 | High speed | 38.00% | ~933 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~5 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,455 (Ranked 238)  
+Progressed: 2,455 (Ranked 239)  
 Completed: 1 (0.04%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |

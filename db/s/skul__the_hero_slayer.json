@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1431,10 +1431,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 1015,
       "NumberOfAwardsMax": 152
+    },
+    {
+      "Time": "2024-01-11T16:57:40.6853418+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 1018,
+      "NumberOfAwardsMax": 152
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1015,
+  "NumberOfAwards": 1018,
   "NumberOfAwardsMax": 152,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1454,7 +1460,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 147
+      "Count": 149
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1484,7 +1490,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 112
+      "Count": 113
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1505,10 +1511,10 @@
       "Count": 152
     }
   ],
-  "EOS_Progressed": 14584,
+  "EOS_Progressed": 14585,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 794,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 786,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
     {
@@ -9655,6 +9661,11 @@
       "Time": "2024-01-11T16:10:03.2193779+00:00",
       "NumProgressed": 14584,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-11T17:10:33.0477177+00:00",
+      "NumProgressed": 14585,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 24,
@@ -9690,7 +9701,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8750
+      "UsersEstimate": 8751
     },
     {
       "ID": "DemonCastleRestoration",
@@ -9722,7 +9733,7 @@
       "Name": "Deadly Power",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2333
+      "UsersEstimate": 2334
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -9762,7 +9773,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 4375
+      "UsersEstimate": 4376
     },
     {
       "ID": "LeoniasFall_2",
@@ -9794,7 +9805,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8750
+      "UsersEstimate": 8751
     },
     {
       "ID": "SavedElderEnt_2",
@@ -9802,7 +9813,7 @@
       "Name": "Quick Movements",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 4375
+      "UsersEstimate": 4376
     },
     {
       "ID": "SkeletonKing",
@@ -9826,7 +9837,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 13563
+      "UsersEstimate": 13564
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -9834,7 +9845,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 6854
+      "UsersEstimate": 6855
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -9850,22 +9861,22 @@
       "Name": "What should I buy?",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 11667
+      "UsersEstimate": 11668
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14584,
+      "Progressed": 14585,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2024-01-11T14:57:16.5398441+00:00",
-  "LastChanged_Achievements": "2024-01-11T16:10:03.2193774+00:00",
+  "LastChanged": "2024-01-11T16:57:40.6853417+00:00",
+  "LastChanged_Achievements": "2024-01-11T17:10:33.0477174+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:25.8159814+00:00",
-  "LastUpdate_Ratings": "2024-01-11T15:57:20.8990875+00:00",
-  "LastUpdate_Achievements": "2024-01-11T16:10:03.2194473+00:00"
+  "LastUpdate_Ratings": "2024-01-11T16:57:40.685342+00:00",
+  "LastUpdate_Achievements": "2024-01-11T17:10:33.0477782+00:00"
 }

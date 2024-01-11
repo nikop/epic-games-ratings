@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1581,9 +1581,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 10112,
+  "EOS_Progressed": 10114,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1682,
+  "EOS_NewPlayers": 1679,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10976,6 +10976,11 @@
       "Time": "2024-01-11T16:04:19.4334327+00:00",
       "NumProgressed": 10112,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T17:04:51.0913428+00:00",
+      "NumProgressed": 10114,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -11020,7 +11025,7 @@
       "Name": "MVP",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "achievement_14",
@@ -11084,7 +11089,7 @@
       "Name": "Saw It Coming",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 5865
+      "UsersEstimate": 5866
     },
     {
       "ID": "achievement_21",
@@ -11092,7 +11097,7 @@
       "Name": "Clean The Pile",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "achievement_3",
@@ -11132,7 +11137,7 @@
       "Name": "Head-to-Head",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "achievement_8",
@@ -11148,14 +11153,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 10112,
+      "Progressed": 10114,
       "Completed": 0
     }
   ],
@@ -11163,8 +11168,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-11T09:58:11.2148186+00:00",
-  "LastChanged_Achievements": "2024-01-11T16:04:19.4334323+00:00",
+  "LastChanged_Achievements": "2024-01-11T17:04:51.0913426+00:00",
   "LastUpdate_AppInfo": "2024-01-11T10:57:09.7547705+00:00",
-  "LastUpdate_Ratings": "2024-01-11T15:59:15.5805347+00:00",
-  "LastUpdate_Achievements": "2024-01-11T16:04:19.4335302+00:00"
+  "LastUpdate_Ratings": "2024-01-11T16:59:33.87931+00:00",
+  "LastUpdate_Achievements": "2024-01-11T17:04:51.0914108+00:00"
 }

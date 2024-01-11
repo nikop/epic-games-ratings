@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 583,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2022-06-21T06:00:00+00:00",
@@ -28,9 +28,299 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-01-11T17:05:57.0224482+00:00",
+  "TotalAchievements": 36,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AllDuels",
+      "SetID": "18114nc",
+      "Name": "Born to win",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "All_top",
+      "SetID": "18114nc",
+      "Name": "The Greatest Diplomat",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Band_top",
+      "SetID": "18114nc",
+      "Name": "Slippery slope",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BanditsVictory",
+      "SetID": "18114nc",
+      "Name": "Outlaw blacksmith",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BeerLover",
+      "SetID": "18114nc",
+      "Name": "Not worshiping the bread",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BiggerMarathon",
+      "SetID": "18114nc",
+      "Name": "Even Greater \u041Carathoner",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Deathdoor",
+      "SetID": "18114nc",
+      "Name": "At death\u0027s door",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DumbDeath",
+      "SetID": "18114nc",
+      "Name": "Dumb ways to die",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Eng_top",
+      "SetID": "18114nc",
+      "Name": "Remember the roots",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EnglandVictory",
+      "SetID": "18114nc",
+      "Name": "Patriot of a distant homeland",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FinalGoal",
+      "SetID": "18114nc",
+      "Name": "And that\u0027s it!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FirstSandbox",
+      "SetID": "18114nc",
+      "Name": "I hate storylines",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Fr_top",
+      "SetID": "18114nc",
+      "Name": "The new home",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FranceVictory",
+      "SetID": "18114nc",
+      "Name": "This is their land!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GoldenTeeth",
+      "SetID": "18114nc",
+      "Name": "Golden Teeth",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JoanDishes",
+      "SetID": "18114nc",
+      "Name": "Not a woman\u0027s job",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KindSoul",
+      "SetID": "18114nc",
+      "Name": "Be kinder",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LuckyMe",
+      "SetID": "18114nc",
+      "Name": "Lucky me",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Marathon",
+      "SetID": "18114nc",
+      "Name": "\u041Carathoner",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NoFood",
+      "SetID": "18114nc",
+      "Name": "A too-strict fast",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NoPlague",
+      "SetID": "18114nc",
+      "Name": "The plague doesn\u0027t exist!!!",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NoRaiders",
+      "SetID": "18114nc",
+      "Name": "Reward of vigilance",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Olivia_half",
+      "SetID": "18114nc",
+      "Name": "Dubious charity",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Punishment",
+      "SetID": "18114nc",
+      "Name": "Shameful punishment",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Reprofiling",
+      "SetID": "18114nc",
+      "Name": "Reassignment",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Rich",
+      "SetID": "18114nc",
+      "Name": "Blacksmith Banker",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SatnsFriend",
+      "SetID": "18114nc",
+      "Name": "Satan\u0027s best friend",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SecondDuel",
+      "SetID": "18114nc",
+      "Name": "The second time isn\u0027t that scary",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SecondPlace",
+      "SetID": "18114nc",
+      "Name": "It\u0027s not about winning",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SecondSandbox",
+      "SetID": "18114nc",
+      "Name": "Freelance blacksmith",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SpinLover",
+      "SetID": "18114nc",
+      "Name": "Where\u0027s the casino?",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Swords_order_best",
+      "SetID": "18114nc",
+      "Name": "The Father\u0027s son",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Tent_upgrade",
+      "SetID": "18114nc",
+      "Name": "Forge Revival",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheBest",
+      "SetID": "18114nc",
+      "Name": "Winner takes it all",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "VladAlive",
+      "SetID": "18114nc",
+      "Name": "Guardian Arthur",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "VladDead",
+      "SetID": "18114nc",
+      "Name": "On your conscience...",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "18114nc",
@@ -40,8 +330,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-18T16:06:22.8154439+00:00",
-  "LastChanged_Achievements": "2024-01-11T16:05:25.2848933+00:00",
+  "LastChanged_Achievements": "2024-01-11T17:05:57.0224471+00:00",
   "LastUpdate_AppInfo": "2024-01-08T17:57:07.8984011+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:01:36.6479796+00:00",
-  "LastUpdate_Achievements": "2024-01-11T16:05:25.2848964+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:01:57.7829727+00:00",
+  "LastUpdate_Achievements": "2024-01-11T17:05:57.0571042+00:00"
 }

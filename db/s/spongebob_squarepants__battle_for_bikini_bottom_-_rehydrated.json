@@ -347,9 +347,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 947,
+  "EOS_Progressed": 948,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -2527,6 +2527,11 @@
       "Time": "2024-01-11T15:04:35.8542062+00:00",
       "NumProgressed": 947,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-11T17:05:53.9022206+00:00",
+      "NumProgressed": 948,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2537,9 +2542,9 @@
       "ID": "ACH_ALL_ROBOTS",
       "SetID": "biiejkc",
       "Name": "Robot encyclopedia",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
@@ -2747,7 +2752,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -2755,7 +2760,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -2777,9 +2782,9 @@
       "ID": "ACH_SURFS_UP",
       "SetID": "biiejkc",
       "Name": "Surf\u0027s Up!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -2794,15 +2799,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 947,
+      "Progressed": 948,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-09T20:57:04.6643475+00:00",
-  "LastChanged_Achievements": "2024-01-11T16:05:21.9848591+00:00",
+  "LastChanged_Achievements": "2024-01-11T17:05:53.9022202+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-11T15:58:43.0493171+00:00",
-  "LastUpdate_Achievements": "2024-01-11T16:05:21.9849003+00:00"
+  "LastUpdate_Ratings": "2024-01-11T16:59:02.808828+00:00",
+  "LastUpdate_Achievements": "2024-01-11T17:05:53.9022554+00:00"
 }

@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,570 |
-| Life is your teacher | 5.00% | ~37,975 |
-| The Assault | 4.00% | ~30,380 |
-| Lightning Hands | 4.00% | ~30,380 |
+| The Old Grandmaster | 6.00% | ~45,571 |
+| Life is your teacher | 5.00% | ~37,976 |
+| The Assault | 4.00% | ~30,381 |
+| Lightning Hands | 4.00% | ~30,381 |
 | The Hateful Pole Fighter | 3.00% | ~22,785 |
 | Street Fighting | 3.00% | ~22,785 |
 | State of constant learning | 3.00% | ~22,785 |
@@ -31,8 +31,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 1.00% | ~7,595 |
 | Kung-Fu Tussle | 1.00% | ~7,595 |
 | Project Arena | 1.00% | ~688 |
-| Fight the way you practice | 0.80% | ~550 |
-| Muk Yan Master | 0.70% | ~5,316 |
+| Fight the way you practice | 0.80% | ~551 |
+| Muk Yan Master | 0.70% | ~5,317 |
 | Tiger on Fire | 0.60% | ~4,557 |
 | Source of Flying Daggers | 0.60% | ~4,557 |
 | Iron Money | 0.60% | ~4,557 |
@@ -40,16 +40,16 @@ Number of Ratings: 9,492  (23.09.2022)
 | Sword Stained With Blood | 0.60% | ~4,557 |
 | Bloody Sport | 0.60% | ~413 |
 | Martial Hub | 0.60% | ~413 |
-| Legendary Talismans of Wuxing | 0.50% | ~3,797 |
-| Prodigal Child | 0.50% | ~3,797 |
-| The 36th Chamber of Kung-Fu | 0.50% | ~3,797 |
+| Legendary Talismans of Wuxing | 0.50% | ~3,798 |
+| Prodigal Child | 0.50% | ~3,798 |
+| The 36th Chamber of Kung-Fu | 0.50% | ~3,798 |
 | The Pit Protector | 0.40% | ~3,038 |
 | Come Snap With Me | 0.40% | ~3,038 |
 | The best strikes are the ones we avoid | 0.40% | ~275 |
-| Drunken Fighter | 0.30% | ~2,278 |
-| Martial Artist | 0.30% | ~2,278 |
-| Knowledge Greed | 0.30% | ~2,278 |
-| Ferocity, speed, strength, accuracy | 0.30% | ~2,278 |
+| Drunken Fighter | 0.30% | ~2,279 |
+| Martial Artist | 0.30% | ~2,279 |
+| Knowledge Greed | 0.30% | ~2,279 |
+| Ferocity, speed, strength, accuracy | 0.30% | ~2,279 |
 | Deadly Venom | 0.30% | ~206 |
 | A Touch of Acumen | 0.30% | ~206 |
 | Healing Memory | 0.20% | ~1,519 |
@@ -60,14 +60,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | Skill and an even stronger will | 0.20% | ~138 |
 | Master of the Flying Assassins | 0.20% | ~138 |
 | Beatmaker | 0.20% | ~138 |
-| Warriors from the Mountain | 0.10% | ~759 |
+| Warriors from the Mountain | 0.10% | ~760 |
 | Hidden Dragon | 0.10% | ~69 |
 | Here Cometh the Iceman | 0.10% | ~69 |
 | Fighter in the Pond | 0.10% | ~69 |
 | Bonus Stage | 0.10% | ~69 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 759,496 (Ranked 26)  
+Progressed: 759,516 (Ranked 26)  
 Completed: 12,983 (1.71%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 12,983 (1.71%) (Ranked 145)
 | 2024-01-08 | 757,529 | 12,979 |
 | 2024-01-09 | 758,306 | 12,980 |
 | 2024-01-10 | 759,091 | 12,982 |
-| 2024-01-11 | 759,496 | 12,983 |
+| 2024-01-11 | 759,516 | 12,983 |
 ## Awards
 Max (Great Boss Battles): 7,171  (Ranked 56)  
 Sum: 12,691 (Ranked 85)  

@@ -3899,9 +3899,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 20679,
+  "EOS_Progressed": 20683,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19299,6 +19299,11 @@
       "Time": "2024-01-11T14:05:22.2119659+00:00",
       "NumProgressed": 20679,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-11T17:07:22.3266397+00:00",
+      "NumProgressed": 20683,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19399,7 +19404,7 @@
       "Name": "First Real Expedition",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "WinHard",
@@ -19687,7 +19692,7 @@
       "Name": "No Deaths",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "WinWithoutOrders",
@@ -19743,7 +19748,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "WinNearPresence",
@@ -19782,15 +19787,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20679,
+      "Progressed": 20683,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-10T21:58:45.168716+00:00",
-  "LastChanged_Achievements": "2024-01-11T16:06:50.1702391+00:00",
+  "LastChanged_Achievements": "2024-01-11T17:07:22.3266394+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:00:13.9978758+00:00",
-  "LastUpdate_Achievements": "2024-01-11T16:06:50.1703416+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:00:33.9103959+00:00",
+  "LastUpdate_Achievements": "2024-01-11T17:07:22.3267644+00:00"
 }

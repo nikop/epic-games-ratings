@@ -33,6 +33,7 @@ Number of Ratings: 45  (23.09.2022)
 | Some Say I'm Too Flashy | 1.00% | ~16 |
 | No Time for Clawmonsters | 0.90% | ~14 |
 | Worldwalker | 0.80% | ~13 |
+| Bonebreakers | 0.80% | ~13 |
 | All My Birds, Safely Home | 0.80% | ~13 |
 | Bears are Scary | 0.80% | ~13 |
 | Tempest | 0.80% | ~13 |
@@ -41,7 +42,6 @@ Number of Ratings: 45  (23.09.2022)
 | Grillmaster | 0.70% | ~11 |
 | Astrology | 0.70% | ~11 |
 | Empty the Caves | 0.60% | ~10 |
-| Bonebreakers | 0.60% | ~10 |
 | No More Nightmares | 0.60% | ~10 |
 | A Hunger, Sated | 0.60% | ~10 |
 | Wingknight's Prowess | 0.60% | ~10 |

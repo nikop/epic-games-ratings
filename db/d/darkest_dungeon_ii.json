@@ -10740,9 +10740,9 @@
       "Count": 1092
     }
   ],
-  "EOS_Progressed": 132457,
+  "EOS_Progressed": 132460,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 833,
+  "EOS_NewPlayers": 826,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39375,6 +39375,11 @@
       "Time": "2024-01-11T16:10:55.416325+00:00",
       "NumProgressed": 132457,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T17:11:23.8953614+00:00",
+      "NumProgressed": 132460,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39394,7 +39399,7 @@
       "Name": "Serenity Now!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7947
+      "UsersEstimate": 7948
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -39514,7 +39519,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7947
+      "UsersEstimate": 7948
     },
     {
       "ID": "combat_kill_cadavers",
@@ -39546,7 +39551,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7947
+      "UsersEstimate": 7948
     },
     {
       "ID": "combat_kill_fanatics",
@@ -39610,7 +39615,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7947
+      "UsersEstimate": 7948
     },
     {
       "ID": "combat_kill_pillagers",
@@ -39626,7 +39631,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7947
+      "UsersEstimate": 7948
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -39922,7 +39927,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "combat_kill_collector",
@@ -40017,21 +40022,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132457,
+      "Progressed": 132460,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7326,
+      "Progressed": 7329,
       "Completed": 824
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-11T14:59:46.1831983+00:00",
-  "LastChanged_Achievements": "2024-01-11T16:10:55.4163246+00:00",
+  "LastChanged_Achievements": "2024-01-11T17:11:23.895361+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:01:07.7886175+00:00",
-  "LastUpdate_Achievements": "2024-01-11T16:10:55.4165876+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:01:28.1529736+00:00",
+  "LastUpdate_Achievements": "2024-01-11T17:11:23.8955325+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "03208f1f61764f5a8f6b7ea24c56edf1",
   "Name": "Roller Champions\u2122",
   "ProductSlug": "roller-champions",
-  "Ranking_Rating": 841,
+  "Ranking_Rating": 842,
   "Ranking_Popularity": 276,
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 583,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-06-23T13:40:00+00:00",
     "PcReleaseDate": "2022-05-25T14:00:00+00:00",
@@ -3482,6 +3482,6 @@
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
   "LastChanged": "2024-01-10T23:59:18.5744554+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.1650496+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:01:17.2728501+00:00",
-  "LastUpdate_Achievements": "2024-01-11T16:05:06.9837508+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:01:37.741094+00:00",
+  "LastUpdate_Achievements": "2024-01-11T17:05:39.2995006+00:00"
 }

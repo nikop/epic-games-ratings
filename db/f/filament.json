@@ -420,9 +420,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 208940,
+  "EOS_Progressed": 208945,
   "EOS_Completed": 562,
-  "EOS_NewPlayers": 435,
+  "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -28870,6 +28870,11 @@
       "Time": "2024-01-11T16:08:38.6607897+00:00",
       "NumProgressed": 208940,
       "NumCompleted": 562
+    },
+    {
+      "Time": "2024-01-11T17:09:09.9928207+00:00",
+      "NumProgressed": 208945,
+      "NumCompleted": 562
     }
   ],
   "TotalAchievements": 29,
@@ -28905,7 +28910,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 196404
+      "UsersEstimate": 196408
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -29017,7 +29022,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 12536
+      "UsersEstimate": 12537
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -29081,7 +29086,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16715
+      "UsersEstimate": 16716
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -29112,7 +29117,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 208940,
+      "Progressed": 208945,
       "Completed": 562
     }
   ],
@@ -29120,8 +29125,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-10T17:58:59.5955278+00:00",
-  "LastChanged_Achievements": "2024-01-11T16:08:38.6607894+00:00",
+  "LastChanged_Achievements": "2024-01-11T17:09:09.9928204+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:20.3451627+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:00:31.7012558+00:00",
-  "LastUpdate_Achievements": "2024-01-11T16:08:38.6609998+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:00:51.5008153+00:00",
+  "LastUpdate_Achievements": "2024-01-11T17:09:09.9929401+00:00"
 }

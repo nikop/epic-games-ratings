@@ -6,12 +6,12 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~451,535 |
-| The Three | 64.00% | ~348,172 |
-| The Banquet | 40.00% | ~217,607 |
-| Devara's Light | 31.00% | ~168,646 |
-| The Iron Ones | 19.00% | ~103,363 |
-| The Village | 17.00% | ~92,483 |
+| Find Sanctuary | 83.00% | ~451,538 |
+| The Three | 64.00% | ~348,174 |
+| The Banquet | 40.00% | ~217,609 |
+| Devara's Light | 31.00% | ~168,647 |
+| The Iron Ones | 19.00% | ~103,364 |
+| The Village | 17.00% | ~92,484 |
 | The Forest | 15.00% | ~81,603 |
 | Branded | 14.00% | ~76,163 |
 | The Imposter | 14.00% | ~76,163 |
@@ -20,10 +20,10 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Dome | 9.00% | ~48,962 |
 | The Red Hall | 9.00% | ~48,962 |
 | The Sacrifice | 9.00% | ~48,962 |
-| The Cave | 8.00% | ~43,521 |
-| The Ziggurat | 8.00% | ~43,521 |
-| The Mire | 7.00% | ~38,081 |
-| The Stone Roots | 7.00% | ~38,081 |
+| The Cave | 8.00% | ~43,522 |
+| The Ziggurat | 8.00% | ~43,522 |
+| The Mire | 7.00% | ~38,082 |
+| The Stone Roots | 7.00% | ~38,082 |
 | Storied | 6.00% | ~32,641 |
 | The Construct | 6.00% | ~32,641 |
 | The Lake | 6.00% | ~32,641 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,880 |
 | Fading Fast | 1.00% | ~5,440 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 544,018 (Ranked 36)  
+Progressed: 544,022 (Ranked 36)  
 Completed: 1,679 (0.31%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,11 +310,11 @@ Completed: 1,679 (0.31%) (Ranked 254)
 | 2024-01-08 | 543,797 | 1,676 |
 | 2024-01-09 | 543,880 | 1,678 |
 | 2024-01-10 | 543,970 | 1,678 |
-| 2024-01-11 | 544,018 | 1,679 |
+| 2024-01-11 | 544,022 | 1,679 |
 ## Awards
-Max (Challenging Combat): 298  (Ranked 260)  
+Max (Challenging Combat): 298  (Ranked 261)  
 Sum: 2,033 (Ranked 219)  
-Diff (max vs sum): 41  
+Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 298 |
