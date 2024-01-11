@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9475,10 +9475,10 @@
       "Count": 3634
     }
   ],
-  "EOS_Progressed": 253338,
+  "EOS_Progressed": 253351,
   "EOS_Completed": 2612,
-  "EOS_NewPlayers": 2524,
-  "EOS_NewCompleters": 22,
+  "EOS_NewPlayers": 2521,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -39640,6 +39640,11 @@
       "Time": "2024-01-11T14:10:12.8438665+00:00",
       "NumProgressed": 253338,
       "NumCompleted": 2612
+    },
+    {
+      "Time": "2024-01-11T15:10:13.8857647+00:00",
+      "NumProgressed": 253351,
+      "NumCompleted": 2612
     }
   ],
   "TotalAchievements": 546,
@@ -39657,9 +39662,9 @@
       "ID": "objective_completed_10",
       "SetID": "cc37lbc",
       "Name": "Maddening",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1267
     },
     {
       "ID": "objective_completed_100",
@@ -41513,9 +41518,9 @@
       "ID": "objective_completed_4",
       "SetID": "cc37lbc",
       "Name": "Are Ya Chicken?",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2280
     },
     {
       "ID": "objective_completed_40",
@@ -42795,7 +42800,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2533
+      "UsersEstimate": 2534
     },
     {
       "ID": "objective_completed_70",
@@ -44018,21 +44023,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219612,
+      "Progressed": 219625,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253338,
+      "Progressed": 253351,
       "Completed": 2612
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-11T13:05:05.0385272+00:00",
-  "LastChanged_Achievements": "2024-01-11T14:10:12.843866+00:00",
+  "LastChanged_Achievements": "2024-01-11T15:10:13.8857642+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:59:15.4253254+00:00",
-  "LastUpdate_Achievements": "2024-01-11T14:10:12.8461791+00:00"
+  "LastUpdate_Ratings": "2024-01-11T14:58:59.5781932+00:00",
+  "LastUpdate_Achievements": "2024-01-11T15:10:13.8883095+00:00"
 }

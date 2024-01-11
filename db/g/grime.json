@@ -4,11 +4,11 @@
   "ProductSlug": "grime",
   "Ranking_Rating": 453,
   "Ranking_Popularity": 432,
-  "Ranking_PopularitySum": 343,
+  "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1805,10 +1805,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 457,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-01-11T14:59:57.7039087+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 458,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 457,
+  "NumberOfAwards": 458,
   "NumberOfAwardsMax": 62,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1828,7 +1834,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game has a Creative Community",
@@ -1867,10 +1873,10 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167663,
+  "EOS_Progressed": 167672,
   "EOS_Completed": 455,
-  "EOS_NewPlayers": 1245,
-  "EOS_NewCompleters": 14,
+  "EOS_NewPlayers": 1238,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -22692,6 +22698,11 @@
       "Time": "2024-01-11T14:05:04.4306505+00:00",
       "NumProgressed": 167663,
       "NumCompleted": 455
+    },
+    {
+      "Time": "2024-01-11T15:05:18.6728323+00:00",
+      "NumProgressed": 167672,
+      "NumCompleted": 455
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22744,7 +22755,7 @@
       "Name": "Zygote",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACQUIRE_HUNTPOINT",
@@ -22816,7 +22827,7 @@
       "Name": "Glare",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -23016,7 +23027,7 @@
       "Name": "Kin",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "QUEST_LISTENER",
@@ -23024,7 +23035,7 @@
       "Name": "Listen",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "QUEST_YON",
@@ -23071,21 +23082,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167246,
+      "Progressed": 167255,
       "Completed": 1260
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167663,
+      "Progressed": 167672,
       "Completed": 455
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-01-10T23:59:24.4676142+00:00",
-  "LastChanged_Achievements": "2024-01-11T14:05:04.4306501+00:00",
+  "LastChanged": "2024-01-11T14:59:57.7039086+00:00",
+  "LastChanged_Achievements": "2024-01-11T15:05:18.6728318+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:00:14.1786714+00:00",
-  "LastUpdate_Achievements": "2024-01-11T14:05:04.4307973+00:00"
+  "LastUpdate_Ratings": "2024-01-11T14:59:57.7039091+00:00",
+  "LastUpdate_Achievements": "2024-01-11T15:05:18.672976+00:00"
 }

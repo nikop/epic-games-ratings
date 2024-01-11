@@ -1,7 +1,7 @@
 # Terraforming Mars
 [Store](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)  
 [View Rawdata](../../db/t/terraforming_mars.json)  
-Rating: 4.53 (Ranked 564)  
+Rating: 4.53 (Ranked 565)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,7 +22,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Self-sufficient | 17.00% | ~15,319 |
 | Money money | 15.00% | ~13,517 |
 | First Journey | 14.00% | ~12,616 |
-| Biggest Reward | 13.00% | ~11,714 |
+| Biggest Reward | 13.00% | ~11,715 |
 | Acquired knowledge | 12.00% | ~10,813 |
 | Landlord | 11.00% | ~9,912 |
 | Most Achievements | 11.00% | ~9,912 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,703 |
 | Opportunity | 3.00% | ~2,703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,111 (Ranked 105)  
+Progressed: 90,112 (Ranked 105)  
 Completed: 184 (0.20%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 184 (0.20%) (Ranked 278)
 | 2024-01-08 | 89,828 | 182 |
 | 2024-01-09 | 89,940 | 183 |
 | 2024-01-10 | 90,054 | 184 |
-| 2024-01-11 | 90,111 | 184 |
+| 2024-01-11 | 90,112 | 184 |
 ## Awards
 Max (Relaxing): 539  (Ranked 217)  
 Sum: 3,334 (Ranked 179)  

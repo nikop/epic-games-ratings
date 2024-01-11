@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -1707,9 +1707,9 @@
       "ID": "achPolice",
       "SetID": "72gjli4",
       "Name": "Police officers \u2714",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 96
     },
     {
       "ID": "achPriest",
@@ -1787,9 +1787,9 @@
       "ID": "achTransform",
       "SetID": "72gjli4",
       "Name": "Mutation \u2714",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 86
     },
     {
       "ID": "achVip",
@@ -1844,8 +1844,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2024-01-11T14:10:07.6319713+00:00",
+  "LastChanged_Achievements": "2024-01-11T15:10:08.8625793+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.688521+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:00:16.6235126+00:00",
-  "LastUpdate_Achievements": "2024-01-11T14:10:07.6320053+00:00"
+  "LastUpdate_Ratings": "2024-01-11T15:00:00.1321286+00:00",
+  "LastUpdate_Achievements": "2024-01-11T15:10:08.8626175+00:00"
 }

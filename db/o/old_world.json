@@ -2238,9 +2238,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16412,
+  "EOS_Progressed": 16414,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19598,6 +19598,11 @@
       "Time": "2024-01-11T14:10:11.6215915+00:00",
       "NumProgressed": 16412,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-11T15:10:13.231532+00:00",
+      "NumProgressed": 16414,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20087,9 +20092,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INTERCESSOR",
       "SetID": "9201eeb",
       "Name": "Intercessor",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 115
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
@@ -20127,9 +20132,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
       "SetID": "9201eeb",
       "Name": "Learned",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 328
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LIBERATOR",
@@ -20831,9 +20836,9 @@
       "ID": "ACHIEVEMENT_GREECE5_PHARAOH",
       "SetID": "9201eeb",
       "Name": "Pharaoh",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_GREECE5_TYRE",
@@ -21615,9 +21620,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
       "SetID": "7l38kb8",
       "Name": "Revelation",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
@@ -21647,9 +21652,9 @@
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
       "SetID": "9201eeb",
       "Name": "Cataphract Archer",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER",
@@ -22472,21 +22477,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16412,
+      "Progressed": 16414,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16412,
+      "Progressed": 16414,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-09T22:57:23.2402519+00:00",
-  "LastChanged_Achievements": "2024-01-11T14:10:11.6215911+00:00",
+  "LastChanged_Achievements": "2024-01-11T15:10:13.2315316+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:58:26.6462336+00:00",
-  "LastUpdate_Achievements": "2024-01-11T14:10:11.6225694+00:00"
+  "LastUpdate_Ratings": "2024-01-11T14:58:17.4163818+00:00",
+  "LastUpdate_Achievements": "2024-01-11T15:10:13.2325105+00:00"
 }

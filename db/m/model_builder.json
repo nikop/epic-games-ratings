@@ -2,10 +2,10 @@
   "ID": "23499f64e5304139b514c3e674c5c0d6",
   "Name": "Model Builder",
   "ProductSlug": "model-builder-f9b456",
-  "Ranking_Rating": 1009,
+  "Ranking_Rating": 1008,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 760,
+  "Ranking_EOS_Progress": 761,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 580,
   "Ranking_EOS_NewCompleters": 157,
@@ -893,8 +893,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1160749+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6201537+00:00",
   "LastChanged": "2024-01-08T17:03:40.8104334+00:00",
-  "LastChanged_Achievements": "2024-01-11T14:10:03.699106+00:00",
+  "LastChanged_Achievements": "2024-01-11T15:10:04.8520021+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:54.4690169+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:03:18.6138941+00:00",
-  "LastUpdate_Achievements": "2024-01-11T14:10:03.6991632+00:00"
+  "LastUpdate_Ratings": "2024-01-11T15:03:10.0972585+00:00",
+  "LastUpdate_Achievements": "2024-01-11T15:10:04.8520548+00:00"
 }

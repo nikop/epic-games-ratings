@@ -12,8 +12,8 @@ Rating: 4.70 (Ranked 219)
 | Globe Trotter | 0.60% | ~53 |
 | Soul-Canon | 0.60% | ~53 |
 | Ahem Ahem | 0.50% | ~44 |
+| Audiophile | 0.40% | ~35 |
 | Shredder | 0.40% | ~35 |
-| Audiophile | 0.30% | ~27 |
 | Clay Pigeon | 0.30% | ~27 |
 | Fashion Faux-Pas | 0.20% | ~18 |
 | Historian | 0.20% | ~18 |

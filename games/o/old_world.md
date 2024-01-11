@@ -14,6 +14,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good | 2.00% | ~328 |
 | Intrepid | 2.00% | ~328 |
 | Just | 2.00% | ~328 |
+| Learned | 2.00% | ~328 |
 | Mason | 2.00% | ~328 |
 | Noble | 2.00% | ~328 |
 | Strong | 2.00% | ~328 |
@@ -28,7 +29,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 1.00% | ~164 |
 | Great | 1.00% | ~164 |
 | Keystone | 1.00% | ~164 |
-| Learned | 1.00% | ~164 |
 | Magnificent | 1.00% | ~164 |
 | Pioneer | 1.00% | ~164 |
 | Warrior | 1.00% | ~164 |
@@ -63,6 +63,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.80% | ~131 |
 | Mythology | 0.80% | ~131 |
 | Hanging Gardens in Babylon | 0.70% | ~115 |
+| Intercessor | 0.70% | ~115 |
 | Valiant | 0.70% | ~115 |
 | Just Difficulty | 0.70% | ~115 |
 | Artisans | 0.70% | ~115 |
@@ -71,7 +72,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.70% | ~115 |
 | Building Wonders | 0.70% | ~115 |
 | Beloved | 0.60% | ~98 |
-| Intercessor | 0.60% | ~98 |
 | Mighty | 0.60% | ~98 |
 | Good Difficulty | 0.60% | ~98 |
 | Champions | 0.60% | ~98 |
@@ -111,6 +111,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.40% | ~66 |
 | Legalism | 0.40% | ~66 |
 | Redemption | 0.40% | ~66 |
+| Revelation | 0.40% | ~66 |
 | Cimmerian Archer | 0.40% | ~66 |
 | Phalangite | 0.40% | ~66 |
 | Ambition Victory | 0.40% | ~66 |
@@ -129,8 +130,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.30% | ~49 |
 | Hittite Paganism | 0.30% | ~49 |
 | Gnosticism | 0.30% | ~49 |
-| Revelation | 0.30% | ~49 |
 | Veneration | 0.30% | ~49 |
+| Cataphract Archer | 0.30% | ~49 |
 | Kushite Cavalry | 0.30% | ~49 |
 | Turreted Elephant | 0.30% | ~49 |
 | All Nations | 0.30% | ~49 |
@@ -147,7 +148,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.20% | ~33 |
 | Pantheon of Gods | 0.20% | ~33 |
 | Ten Crowns | 0.20% | ~33 |
-| Cataphract Archer | 0.20% | ~33 |
 | Siege Tower | 0.20% | ~33 |
 | No Undo | 0.20% | ~33 |
 | Poetic Leader | 0.20% | ~33 |
@@ -226,6 +226,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Philip's Silver Crown | 0.10% | ~16 |
 | Mighty Bucephalus | 0.10% | ~16 |
 | Knot So Hard | 0.10% | ~16 |
+| Pharaoh | 0.10% | ~16 |
 | A Tyresome Siege | 0.10% | ~16 |
 | The Eastern Empire | 0.10% | ~16 |
 | Mausoleum in Halicarnassus | 0.10% | ~16 |
@@ -321,7 +322,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Queen of Opportunity | 0.00% | ~0 |
 | Queen of War | 0.00% | ~0 |
 | Gate to Victory | 0.00% | ~0 |
-| Pharaoh | 0.00% | ~0 |
 | Alexander the Mediocre | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the Alright | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,412 (Ranked 169)  
+Progressed: 16,414 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -631,7 +631,7 @@ Completed: 5 (0.03%) (Ranked 355)
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
-| 2024-01-11 | 16,412 | 5 |
+| 2024-01-11 | 16,414 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,919 (Ranked 224)  

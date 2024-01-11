@@ -45,6 +45,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Flesh Wound | 0.70% | ~1,699 |
 | Shapeshifting | 0.70% | ~1,699 |
 | To The Death! | 0.60% | ~1,457 |
+| Well Prepared | 0.60% | ~1,457 |
 | Just Chilling | 0.60% | ~1,457 |
 | Save Our Souls | 0.60% | ~1,457 |
 | Stop Hitting Yourself | 0.60% | ~1,457 |
@@ -56,7 +57,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Thank You, Friend | 0.50% | ~1,214 |
 | Shadow Spreads | 0.50% | ~1,214 |
 | Max Damage! | 0.50% | ~1,214 |
-| Well Prepared | 0.50% | ~1,214 |
 | Don't Ignore Me! | 0.50% | ~1,214 |
 | All Consuming | 0.50% | ~1,214 |
 | Illuminate, Eliminate | 0.50% | ~1,214 |

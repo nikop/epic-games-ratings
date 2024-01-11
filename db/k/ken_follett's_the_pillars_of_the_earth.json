@@ -2,12 +2,12 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 593,
+  "Ranking_Rating": 594,
   "Ranking_Popularity": 327,
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17776,
+  "EOS_Progressed": 17778,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 1,
@@ -18170,6 +18170,11 @@
       "Time": "2024-01-11T14:06:24.6923508+00:00",
       "NumProgressed": 17776,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-11T15:06:37.4224536+00:00",
+      "NumProgressed": 17778,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18197,7 +18202,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4088
+      "UsersEstimate": 4089
     },
     {
       "ID": "tpote_achievement_12",
@@ -18221,7 +18226,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5688
+      "UsersEstimate": 5689
     },
     {
       "ID": "tpote_achievement_15",
@@ -18269,7 +18274,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5866
+      "UsersEstimate": 5867
     },
     {
       "ID": "tpote_achievement_20",
@@ -18285,7 +18290,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5155
+      "UsersEstimate": 5156
     },
     {
       "ID": "tpote_achievement_22",
@@ -18293,7 +18298,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3555
+      "UsersEstimate": 3556
     },
     {
       "ID": "tpote_achievement_23",
@@ -18469,7 +18474,7 @@
       "Name": "Garden of Eden",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4088
+      "UsersEstimate": 4089
     },
     {
       "ID": "tpote_achievement_6",
@@ -18477,7 +18482,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4088
+      "UsersEstimate": 4089
     },
     {
       "ID": "tpote_achievement_7",
@@ -18501,22 +18506,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6044
+      "UsersEstimate": 6045
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17776,
+      "Progressed": 17778,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-11T14:06:24.6923505+00:00",
+  "LastChanged_Achievements": "2024-01-11T15:06:37.4224531+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:38.8316794+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:03:03.6241504+00:00",
-  "LastUpdate_Achievements": "2024-01-11T14:06:24.692504+00:00"
+  "LastUpdate_Ratings": "2024-01-11T15:02:56.0452213+00:00",
+  "LastUpdate_Achievements": "2024-01-11T15:06:37.4225712+00:00"
 }

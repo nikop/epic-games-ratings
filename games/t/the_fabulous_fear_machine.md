@@ -15,13 +15,13 @@
 | A rival with no options | 25.00% | ~23 |
 | Pulp! Terror Tales in the Night | 25.00% | ~23 |
 | Pulp! Out of this World | 23.00% | ~21 |
-| Diagnosis: fear | 22.00% | ~20 |
-| Ambition is... blind | 22.00% | ~20 |
-| The artist | 21.00% | ~19 |
+| Diagnosis: fear | 23.00% | ~21 |
+| Ambition is... blind | 23.00% | ~21 |
+| The artist | 22.00% | ~20 |
 | You have two wishes left | 21.00% | ~19 |
 | Et in arcadia ego | 20.00% | ~18 |
 | Pulp! Adventures into the Unknown | 20.00% | ~18 |
-| The seer | 18.00% | ~16 |
+| The seer | 19.00% | ~17 |
 | Welcome to Hellville | 18.00% | ~16 |
 | You've awakened the beast | 16.00% | ~15 |
 | Hate is... addictive | 16.00% | ~15 |

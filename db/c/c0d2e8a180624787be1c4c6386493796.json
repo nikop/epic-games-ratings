@@ -37,7 +37,7 @@
   "Tags": [],
   "EOS_Progressed": 311,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -1561,9 +1561,9 @@
       "ID": "KR4_ACHIEVEMENT_ELITEHARASSERS",
       "SetID": "caeik3h",
       "Name": "Ultra Instinct",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "KR4_ACHIEVEMENT_FARMER_JOE",
@@ -1761,9 +1761,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
       "SetID": "caeik3h",
       "Name": "No Survivors II",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 252
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_WITH_VEZNAN_POWERS",
@@ -2056,8 +2056,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-11T14:03:50.6976347+00:00",
+  "LastChanged_Achievements": "2024-01-11T15:04:06.5610975+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.7688835+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:08:47.3377366+00:00",
-  "LastUpdate_Achievements": "2024-01-11T14:03:50.6977239+00:00"
+  "LastUpdate_Ratings": "2024-01-11T14:57:11.1468146+00:00",
+  "LastUpdate_Achievements": "2024-01-11T15:04:06.5611626+00:00"
 }

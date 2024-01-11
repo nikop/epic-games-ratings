@@ -21,7 +21,7 @@ Number of Ratings: 46  (23.09.2022)
 | Jawcrab | 0.70% | ~1,174 |
 | Jawstag | 0.70% | ~1,174 |
 | Shapely | 0.60% | ~1,006 |
-| Glare | 0.60% | ~1,003 |
+| Glare | 0.60% | ~1,004 |
 | Watcher | 0.60% | ~1,006 |
 | Assimilation | 0.50% | ~838 |
 | Host | 0.50% | ~836 |
@@ -38,10 +38,10 @@ Number of Ratings: 46  (23.09.2022)
 | Passage | 0.30% | ~503 |
 | Dream | 0.30% | ~502 |
 | Bloodhunter | 0.20% | ~335 |
-| Zygote | 0.20% | ~334 |
+| Zygote | 0.20% | ~335 |
 | Kinship | 0.20% | ~335 |
-| Kin | 0.20% | ~334 |
-| Listen | 0.20% | ~334 |
+| Kin | 0.20% | ~335 |
+| Listen | 0.20% | ~335 |
 | Proportions | 0.20% | ~335 |
 | Spiral Heart | 0.10% | ~161 |
 | Skinmaker | 0.10% | ~168 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~167 |
 | Intensify | 0.10% | ~167 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 167,663 (Ranked 84)  
+Progressed: 167,672 (Ranked 84)  
 Completed: 455 (0.27%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,16 +296,16 @@ Completed: 455 (0.27%) (Ranked 262)
 | 2024-01-08 | 167,301 | 452 |
 | 2024-01-09 | 167,455 | 453 |
 | 2024-01-10 | 167,592 | 454 |
-| 2024-01-11 | 167,663 | 455 |
+| 2024-01-11 | 167,672 | 455 |
 ## Awards
 Max (Highly Recommended): 62  (Ranked 432)  
-Sum: 457 (Ranked 343)  
-Diff (max vs sum): 89  
+Sum: 458 (Ranked 342)  
+Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 62 |
 | This game has Unique Visuals | 62 |
-| This game has Challenging Combat | 60 |
+| This game has Challenging Combat | 61 |
 | This game is Extremely Fun | 60 |
 | This game has Amazing Storytelling | 59 |
 | This game has Quickly Understood Controls | 58 |
@@ -494,3 +494,4 @@ Diff (max vs sum): 89
 | 2024-01-08 | 4.59 | - | 62 | 450 |
 | 2024-01-09 | 4.59 | - | 62 | 452 |
 | 2024-01-10 | 4.59 | - | 62 | 457 |
+| 2024-01-11 | 4.59 | - | 62 | 458 |

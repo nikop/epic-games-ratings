@@ -8,10 +8,10 @@
 | Hidden History | 71.00% | ~942 |
 | Commencing of Quests | 61.00% | ~809 |
 | Budding Conjuror | 59.00% | ~783 |
+| Charmed by the Hunt | 49.00% | ~650 |
 | Man-Machine Master | 48.00% | ~637 |
-| Charmed by the Hunt | 48.00% | ~637 |
+| Subsistence Skills | 48.00% | ~637 |
 | Mountain Splitter | 47.00% | ~624 |
-| Subsistence Skills | 47.00% | ~624 |
 | Memory Rouser | 46.00% | ~610 |
 | Fusion Conjuror | 45.00% | ~597 |
 | Kemono Hunter | 42.00% | ~557 |
@@ -20,8 +20,8 @@
 | Bonds of Enmity | 37.00% | ~491 |
 | Flawless Crystal | 36.00% | ~478 |
 | Distance Devourer | 35.00% | ~464 |
-| Counter Specialist | 32.00% | ~425 |
-| Master of the Skies | 30.00% | ~398 |
+| Counter Specialist | 33.00% | ~438 |
+| Master of the Skies | 31.00% | ~411 |
 | Kemono at Heart | 27.00% | ~358 |
 | Axer of Auspice | 27.00% | ~358 |
 | Mighty Marmelizer | 26.00% | ~345 |

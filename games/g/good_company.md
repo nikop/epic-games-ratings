@@ -1,7 +1,7 @@
 # Good Company
 [Store](https://store.epicgames.com/en-US/p/good-company)  
 [View Rawdata](../../db/g/good_company.json)  
-Rating: 4.45 (Ranked 691)  
+Rating: 4.45 (Ranked 692)  
 Number of Ratings: 75  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -54,10 +54,10 @@ Number of Ratings: 75  (23.09.2022)
 | Rockstar | 0.50% | ~29 |
 | Campaign: Man vs. Machine | 0.40% | ~23 |
 | A Happy Taskforce: Interior Designer | 0.40% | ~23 |
+| Fully Packed | 0.40% | ~23 |
 | The Machinery: Goal Orientated | 0.30% | ~17 |
 | The Machinery: Energy Saver | 0.30% | ~17 |
 | Super Rich | 0.30% | ~17 |
-| Fully Packed | 0.30% | ~17 |
 | Champion | 0.20% | ~12 |
 | Trophy Hoarder | 0.20% | ~12 |
 | Happy Hour | 0.20% | ~12 |

@@ -10,6 +10,7 @@ Number of Ratings: 67  (23.09.2022)
 | Soul Cache | 5.00% | ~30 |
 | Astarte | 2.00% | ~12 |
 | Mammon | 2.00% | ~12 |
+| A Bullet for All Seasons | 1.00% | ~6 |
 | Close the Rift | 1.00% | ~6 |
 | Demolition Derby | 1.00% | ~6 |
 | Hell's Forge | 1.00% | ~6 |
@@ -19,15 +20,14 @@ Number of Ratings: 67  (23.09.2022)
 | Mint II | 1.00% | ~6 |
 | The Dead Court | 1.00% | ~6 |
 | Walking Armory | 1.00% | ~6 |
-| A Bullet for All Seasons | 0.80% | ~5 |
 | Good Deeds | 0.80% | ~5 |
 | Mint III | 0.70% | ~4 |
 | Why'd It Have to Be Snakes? | 0.70% | ~4 |
 | Gatekeeper | 0.50% | ~3 |
+| Ready to Blow | 0.50% | ~3 |
 | Are You Not Entertained? | 0.30% | ~2 |
 | Collector | 0.30% | ~2 |
 | Full of Hell | 0.30% | ~2 |
-| Ready to Blow | 0.30% | ~2 |
 | Wicked Killington | 0.30% | ~2 |
 | Blademaster | 0.20% | ~1 |
 | Respect For Animals | 0.20% | ~1 |

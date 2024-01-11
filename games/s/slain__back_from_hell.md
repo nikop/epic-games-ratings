@@ -26,8 +26,8 @@ Rating: 4.28 (Ranked 896)
 | That'll Come In Handy... | 0.70% | ~308 |
 | Four Legged Friend | 0.50% | ~220 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~220 |
-| Ice To See You | 0.40% | ~176 |
-| Smack My Imp Up | 0.40% | ~176 |
+| Ice To See You | 0.50% | ~220 |
+| Smack My Imp Up | 0.50% | ~220 |
 | Vroll With It | 0.30% | ~132 |
 | Swift of Foot, Keen of Blade | 0.30% | ~132 |
 | Flame Retardant | 0.20% | ~88 |

@@ -1,22 +1,22 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 564)  
+Rating: 4.53 (Ranked 565)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~53,955 |
-| Worth it | 63.00% | ~43,579 |
-| Eagle Eye | 55.00% | ~38,045 |
-| Corpseman I | 39.00% | ~26,977 |
-| Blast fishing | 37.00% | ~25,594 |
-| Not alone | 32.00% | ~22,135 |
-| Headhunter I | 26.00% | ~17,985 |
+| Setting an example | 78.00% | ~53,957 |
+| Worth it | 63.00% | ~43,581 |
+| Eagle Eye | 55.00% | ~38,047 |
+| Corpseman I | 39.00% | ~26,979 |
+| Blast fishing | 37.00% | ~25,595 |
+| Not alone | 32.00% | ~22,136 |
+| Headhunter I | 26.00% | ~17,986 |
 | Developers, Developers, Developers | 24.00% | ~16,602 |
 | Manual Labour I | 24.00% | ~16,602 |
 | Basic Training | 23.00% | ~15,910 |
-| Furchtlos und Treu | 13.00% | ~8,992 |
+| Furchtlos und Treu | 13.00% | ~8,993 |
 | Gott Mit Uns | 12.00% | ~8,301 |
 | This We'll Defend! | 9.00% | ~6,226 |
 | Providentiea Memor | 9.00% | ~6,226 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | In My Defens God Me Defend | 3.00% | ~2,075 |
 | Silver x100 | 3.00% | ~2,075 |
 | Impavidum Ferient Bella! | 3.00% | ~2,075 |
-| Bronze x100 | 2.00% | ~1,383 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~1,383 |
+| Bronze x100 | 2.00% | ~1,384 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~1,384 |
 | Gold x100 | 1.00% | ~692 |
 | Hunting the Hun | 1.00% | ~692 |
 | #1 | 1.00% | ~692 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~69 |
 | Blood Brother | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,173 (Ranked 114)  
+Progressed: 69,176 (Ranked 114)  
 Completed: 4 (0.01%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 4 (0.01%) (Ranked 374)
 | 2024-01-08 | 69,001 | 4 |
 | 2024-01-09 | 69,082 | 4 |
 | 2024-01-10 | 69,148 | 4 |
-| 2024-01-11 | 69,173 | 4 |
+| 2024-01-11 | 69,176 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 374)  
 Sum: 833 (Ranked 289)  

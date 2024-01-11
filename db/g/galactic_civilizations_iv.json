@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -1005,9 +1005,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7534,
+  "EOS_Progressed": 7535,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9720,6 +9720,11 @@
       "Time": "2024-01-10T21:09:55.6590821+00:00",
       "NumProgressed": 7534,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T15:10:04.5137696+00:00",
+      "NumProgressed": 7535,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9771,7 +9776,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4520
+      "UsersEstimate": 4521
     },
     {
       "ID": "Control_All_Relics",
@@ -9835,7 +9840,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5801
+      "UsersEstimate": 5802
     },
     {
       "ID": "First_Race_Met",
@@ -9843,7 +9848,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5424
+      "UsersEstimate": 5425
     },
     {
       "ID": "First_Ship_Designed",
@@ -9867,7 +9872,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5726
+      "UsersEstimate": 5727
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -10051,7 +10056,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4520
+      "UsersEstimate": 4521
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -10067,7 +10072,7 @@
       "Name": "Galactic War",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "War_Without_Translator",
@@ -10219,7 +10224,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4897
+      "UsersEstimate": 4898
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -10283,7 +10288,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "Win_Quickly",
@@ -10306,15 +10311,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7534,
+      "Progressed": 7535,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-06T21:59:17.2587846+00:00",
-  "LastChanged_Achievements": "2024-01-11T14:10:03.4175132+00:00",
+  "LastChanged_Achievements": "2024-01-11T15:10:04.5137691+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8294647+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:00:51.8885367+00:00",
-  "LastUpdate_Achievements": "2024-01-11T14:10:03.4176257+00:00"
+  "LastUpdate_Ratings": "2024-01-11T15:02:35.6322478+00:00",
+  "LastUpdate_Achievements": "2024-01-11T15:10:04.5138627+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "c5730ad3d7004a65a472a7699b88008a",
   "Name": "Foretales",
   "ProductSlug": "foretales-d6c5bd",
-  "Ranking_EOS_Progress": 403,
+  "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 488,
+  "Ranking_EOS_NewPlayers": 464,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 296,
+  "EOS_Progressed": 297,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -270,6 +270,11 @@
       "Time": "2024-01-09T11:04:12.4899931+00:00",
       "NumProgressed": 296,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T15:05:31.0373791+00:00",
+      "NumProgressed": 297,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 41,
@@ -305,7 +310,7 @@
       "Name": "Isenburg\u0027s fall",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "chapter2",
@@ -353,7 +358,7 @@
       "Name": "Double trouble",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "familyReunion",
@@ -409,7 +414,7 @@
       "Name": "It\u0027s not cheating",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "meetYourMaker",
@@ -489,7 +494,7 @@
       "Name": "Stronk",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "superMothBoy",
@@ -497,7 +502,7 @@
       "Name": "Super Moth Boy",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "theBadPlace",
@@ -551,9 +556,9 @@
       "ID": "thePirate",
       "SetID": "5bkacmp",
       "Name": "Pieces of eight!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 122
     },
     {
       "ID": "thePolitician",
@@ -567,9 +572,9 @@
       "ID": "theRanger",
       "SetID": "5bkacmp",
       "Name": "Caged tiger",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 187
     },
     {
       "ID": "theUnionLeader",
@@ -593,7 +598,7 @@
       "Name": "Welcome to Forte Ailes",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "youSssavedMe",
@@ -608,7 +613,7 @@
     {
       "ID": "5bkacmp",
       "IsBase": true,
-      "Progressed": 296,
+      "Progressed": 297,
       "Completed": 0
     }
   ],
@@ -616,8 +621,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2024-01-11T14:05:16.911347+00:00",
+  "LastChanged_Achievements": "2024-01-11T15:05:31.0373788+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:35.1119247+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:58:19.8335429+00:00",
-  "LastUpdate_Achievements": "2024-01-11T14:05:16.9113895+00:00"
+  "LastUpdate_Ratings": "2024-01-11T14:58:10.7822172+00:00",
+  "LastUpdate_Achievements": "2024-01-11T15:05:31.0374068+00:00"
 }

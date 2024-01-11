@@ -16,10 +16,10 @@
 | The End of an Outlaw | 36.00% | ~30 |
 | Demon Slayer | 31.00% | ~26 |
 | Steal Her Away | 30.00% | ~25 |
-| Fight Fire With Fire | 29.00% | ~24 |
-| Sewer Rat | 27.00% | ~22 |
-| Big Eater | 25.00% | ~21 |
-| Urban Explorer | 25.00% | ~21 |
+| Fight Fire With Fire | 30.00% | ~25 |
+| Sewer Rat | 28.00% | ~23 |
+| Big Eater | 27.00% | ~22 |
+| Urban Explorer | 27.00% | ~22 |
 | Not Today | 25.00% | ~21 |
 | Coward | 24.00% | ~20 |
 | Tomb Raider | 24.00% | ~20 |
@@ -32,7 +32,7 @@
 | The Legend | 7.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 83 (Ranked 510)  
-Completed: 6 (7.23%) (Ranked 57)  
+Completed: 6 (7.23%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

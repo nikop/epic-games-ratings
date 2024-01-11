@@ -759,9 +759,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7189,
+  "EOS_Progressed": 7190,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11039,6 +11039,11 @@
       "Time": "2024-01-11T14:03:32.3706098+00:00",
       "NumProgressed": 7189,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-11T15:03:48.5865347+00:00",
+      "NumProgressed": 7190,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -11170,7 +11175,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "24",
@@ -11186,7 +11191,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "26",
@@ -11202,7 +11207,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "28",
@@ -11250,7 +11255,7 @@
       "Name": "My Final Form",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "33",
@@ -11514,7 +11519,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "60",
@@ -11529,13 +11534,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7189,
+      "Progressed": 7190,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7189,
+      "Progressed": 7190,
       "Completed": 7
     }
   ],
@@ -11543,8 +11548,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-10T06:57:43.8261312+00:00",
-  "LastChanged_Achievements": "2024-01-11T14:03:32.3706094+00:00",
+  "LastChanged_Achievements": "2024-01-11T15:03:48.5865345+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:58:43.4416732+00:00",
-  "LastUpdate_Achievements": "2024-01-11T14:03:32.3707373+00:00"
+  "LastUpdate_Ratings": "2024-01-11T14:58:33.4137662+00:00",
+  "LastUpdate_Achievements": "2024-01-11T15:03:48.5866226+00:00"
 }

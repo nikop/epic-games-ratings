@@ -6,8 +6,8 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 234,
-  "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_Completed": 57,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -127,11 +127,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2678,
-  "EOS_Completed": 193,
-  "EOS_NewPlayers": 342,
+  "EOS_Progressed": 2679,
+  "EOS_Completed": 194,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 48,
-  "EOS_Completed_Percentage": 7.21,
+  "EOS_Completed_Percentage": 7.24,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -7047,6 +7047,11 @@
       "Time": "2024-01-11T14:04:16.8845702+00:00",
       "NumProgressed": 2678,
       "NumCompleted": 193
+    },
+    {
+      "Time": "2024-01-11T15:04:32.6104445+00:00",
+      "NumProgressed": 2679,
+      "NumCompleted": 194
     }
   ],
   "TotalAchievements": 25,
@@ -7074,7 +7079,7 @@
       "Name": "Peace walker",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -7146,7 +7151,7 @@
       "Name": "A Link to the Past",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -7154,7 +7159,7 @@
       "Name": "Alchemists Express",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -7162,7 +7167,7 @@
       "Name": "Rascal",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -7178,7 +7183,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -7218,7 +7223,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "PROGRESS_N2",
@@ -7257,16 +7262,16 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2678,
-      "Completed": 193
+      "Progressed": 2679,
+      "Completed": 194
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-11T14:04:16.8845695+00:00",
+  "LastChanged_Achievements": "2024-01-11T15:04:32.6104439+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:00:37.3411137+00:00",
-  "LastUpdate_Achievements": "2024-01-11T14:04:16.8846288+00:00"
+  "LastUpdate_Ratings": "2024-01-11T15:00:20.9214749+00:00",
+  "LastUpdate_Achievements": "2024-01-11T15:04:32.6105105+00:00"
 }

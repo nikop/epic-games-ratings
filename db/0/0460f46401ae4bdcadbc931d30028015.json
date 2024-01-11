@@ -2,7 +2,7 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 1009,
+  "Ranking_Rating": 1008,
   "Ranking_Popularity": 398,
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 182,
@@ -1581,9 +1581,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 10110,
+  "EOS_Progressed": 10111,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1684,
+  "EOS_NewPlayers": 1683,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10966,6 +10966,11 @@
       "Time": "2024-01-11T14:03:37.9819097+00:00",
       "NumProgressed": 10110,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T15:03:54.1227837+00:00",
+      "NumProgressed": 10111,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -10986,7 +10991,7 @@
       "Name": "Stud Finder",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 3235
+      "UsersEstimate": 3236
     },
     {
       "ID": "achievement_11",
@@ -11002,7 +11007,7 @@
       "Name": "Dealmaker",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 2426
+      "UsersEstimate": 2427
     },
     {
       "ID": "achievement_13",
@@ -11018,7 +11023,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 3235
+      "UsersEstimate": 3236
     },
     {
       "ID": "achievement_15",
@@ -11114,7 +11119,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 2426
+      "UsersEstimate": 2427
     },
     {
       "ID": "achievement_7",
@@ -11145,7 +11150,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 10110,
+      "Progressed": 10111,
       "Completed": 0
     }
   ],
@@ -11153,8 +11158,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-11T09:58:11.2148186+00:00",
-  "LastChanged_Achievements": "2024-01-11T14:03:37.9819093+00:00",
+  "LastChanged_Achievements": "2024-01-11T15:03:54.1227834+00:00",
   "LastUpdate_AppInfo": "2024-01-11T10:57:09.7547705+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:58:41.7769086+00:00",
-  "LastUpdate_Achievements": "2024-01-11T14:03:37.9820005+00:00"
+  "LastUpdate_Ratings": "2024-01-11T14:58:31.7314559+00:00",
+  "LastUpdate_Achievements": "2024-01-11T15:03:54.1228392+00:00"
 }

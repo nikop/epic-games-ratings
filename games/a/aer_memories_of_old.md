@@ -1,17 +1,17 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.45 (Ranked 691)  
+Rating: 4.45 (Ranked 692)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~21,619 |
-| Mama? | 27.00% | ~7,680 |
-| People's Haven | 18.00% | ~5,120 |
-| Cartographer | 16.00% | ~4,551 |
-| Knowledge for Power | 14.00% | ~3,982 |
-| Antlers of Stone | 14.00% | ~3,982 |
+| Light at the end of the tunnel | 76.00% | ~21,621 |
+| Mama? | 27.00% | ~7,681 |
+| People's Haven | 18.00% | ~5,121 |
+| Cartographer | 16.00% | ~4,552 |
+| Knowledge for Power | 14.00% | ~3,983 |
+| Antlers of Stone | 14.00% | ~3,983 |
 | Gaze into the abyss | 13.00% | ~3,698 |
 | Mausoleum of Ice | 13.00% | ~3,698 |
 | Wings of Stone | 12.00% | ~3,414 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Ripples on the surface | 5.00% | ~1,422 |
 | Hide and Seek | 4.00% | ~1,138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,446 (Ranked 143)  
+Progressed: 28,449 (Ranked 143)  
 Completed: 524 (1.84%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 524 (1.84%) (Ranked 142)
 | 2024-01-08 | 28,296 | 522 |
 | 2024-01-09 | 28,356 | 523 |
 | 2024-01-10 | 28,411 | 524 |
-| 2024-01-11 | 28,446 | 524 |
+| 2024-01-11 | 28,449 | 524 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

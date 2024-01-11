@@ -258,7 +258,7 @@
   ],
   "EOS_Progressed": 43972,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -29275,17 +29275,17 @@
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
       "SetID": "443p4o4",
       "Name": "Ice To See You",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_18_DEFEATED_IMP",
       "SetID": "443p4o4",
       "Name": "Smack My Imp Up",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_19_DEFEATED_HOGRE",
@@ -29396,8 +29396,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2024-01-10T02:27:03.5087027+00:00",
-  "LastChanged_Achievements": "2024-01-11T14:04:42.4109779+00:00",
+  "LastChanged_Achievements": "2024-01-11T15:04:57.683712+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:02.3058441+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:03:00.1443985+00:00",
-  "LastUpdate_Achievements": "2024-01-11T14:04:42.4111539+00:00"
+  "LastUpdate_Ratings": "2024-01-11T15:02:53.0801331+00:00",
+  "LastUpdate_Achievements": "2024-01-11T15:04:57.6838255+00:00"
 }

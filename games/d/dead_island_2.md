@@ -5,42 +5,42 @@ Rating: 4.54 (Ranked 553)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 10.00% | ~80,049 |
-| Hotel California | 9.00% | ~72,044 |
-| Break A Leg | 8.00% | ~64,039 |
-| Coup de Grâce | 7.00% | ~56,034 |
-| Hazardous Materials | 7.00% | ~56,034 |
-| Git Gutte! | 6.00% | ~48,029 |
-| Friends Like These | 6.00% | ~48,029 |
-| Apex Predator | 6.00% | ~48,029 |
-| Personal Assistant Personally Assisted | 6.00% | ~48,029 |
-| Dr. Reed, I Presume? | 5.00% | ~40,024 |
-| Bookworm | 5.00% | ~40,024 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,024 |
-| Stacking the Deck | 5.00% | ~40,024 |
-| This is My Weapon | 5.00% | ~40,024 |
-| Anger Management | 4.00% | ~32,019 |
-| Perks of the Job | 4.00% | ~32,019 |
-| But Doctor, I am Butcho | 4.00% | ~32,019 |
-| Slayer Squad | 4.00% | ~32,019 |
-| Can't Handle the Truth | 4.00% | ~32,019 |
-| Like Riding a Bike | 4.00% | ~32,019 |
-| Zombologist | 4.00% | ~32,019 |
-| A Patton Emerges | 4.00% | ~32,019 |
-| Whatever It Takes | 4.00% | ~5,041 |
-| Pork Chopped | 4.00% | ~5,041 |
-| Making Your Mark | 3.00% | ~24,015 |
-| Ooh, Shiny! | 3.00% | ~24,015 |
-| Humanity Distilled | 3.00% | ~24,015 |
-| I Am the Resurrection | 3.00% | ~24,015 |
-| Our True Nature | 3.00% | ~24,015 |
-| One of Us | 3.00% | ~3,781 |
-| Not Even My Final Form | 2.00% | ~16,010 |
-| Jumbo Keyring | 2.00% | ~16,010 |
-| Down with the Sickness | 2.00% | ~16,010 |
-| Max Headroom | 2.00% | ~16,010 |
-| Go, Bobcats! | 2.00% | ~16,010 |
-| Rising Star | 2.00% | ~16,010 |
+| Welcome To Hell-A | 10.00% | ~80,053 |
+| Hotel California | 9.00% | ~72,048 |
+| Break A Leg | 8.00% | ~64,043 |
+| Coup de Grâce | 7.00% | ~56,037 |
+| Hazardous Materials | 7.00% | ~56,037 |
+| Git Gutte! | 6.00% | ~48,032 |
+| Friends Like These | 6.00% | ~48,032 |
+| Apex Predator | 6.00% | ~48,032 |
+| Personal Assistant Personally Assisted | 6.00% | ~48,032 |
+| Dr. Reed, I Presume? | 5.00% | ~40,027 |
+| Bookworm | 5.00% | ~40,027 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,027 |
+| Stacking the Deck | 5.00% | ~40,027 |
+| This is My Weapon | 5.00% | ~40,027 |
+| Anger Management | 4.00% | ~32,021 |
+| Perks of the Job | 4.00% | ~32,021 |
+| But Doctor, I am Butcho | 4.00% | ~32,021 |
+| Slayer Squad | 4.00% | ~32,021 |
+| Can't Handle the Truth | 4.00% | ~32,021 |
+| Like Riding a Bike | 4.00% | ~32,021 |
+| Zombologist | 4.00% | ~32,021 |
+| A Patton Emerges | 4.00% | ~32,021 |
+| Whatever It Takes | 4.00% | ~5,043 |
+| Pork Chopped | 4.00% | ~5,043 |
+| Making Your Mark | 3.00% | ~24,016 |
+| Ooh, Shiny! | 3.00% | ~24,016 |
+| Humanity Distilled | 3.00% | ~24,016 |
+| I Am the Resurrection | 3.00% | ~24,016 |
+| Our True Nature | 3.00% | ~24,016 |
+| One of Us | 3.00% | ~3,782 |
+| Not Even My Final Form | 2.00% | ~16,011 |
+| Jumbo Keyring | 2.00% | ~16,011 |
+| Down with the Sickness | 2.00% | ~16,011 |
+| Max Headroom | 2.00% | ~16,011 |
+| Go, Bobcats! | 2.00% | ~16,011 |
+| Rising Star | 2.00% | ~16,011 |
 | Make it So | 1.00% | ~8,005 |
 | LA Influential | 1.00% | ~8,005 |
 | On Safari | 1.00% | ~8,005 |
@@ -51,13 +51,13 @@ Rating: 4.54 (Ranked 553)
 | Sole Survivor | 0.80% | ~6,404 |
 | Sharpest Tool in the Box | 0.80% | ~6,404 |
 | Top That, Tisha! | 0.60% | ~756 |
-| Survival Skills | 0.50% | ~4,002 |
-| Donk! | 0.30% | ~2,401 |
+| Survival Skills | 0.50% | ~4,003 |
+| Donk! | 0.30% | ~2,402 |
 | Lawn and Order | 0.20% | ~252 |
-| Bucket List | 0.10% | ~800 |
+| Bucket List | 0.10% | ~801 |
 | Wilhelm | 0.10% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 800,486 (Ranked 21)  
+Progressed: 800,533 (Ranked 21)  
 Completed: 2,567 (0.32%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 2,567 (0.32%) (Ranked 253)
 | 2024-01-08 | 796,625 | 2,561 |
 | 2024-01-09 | 798,256 | 2,564 |
 | 2024-01-10 | 799,920 | 2,566 |
-| 2024-01-11 | 800,486 | 2,567 |
+| 2024-01-11 | 800,533 | 2,567 |
 ## Awards
 Max (Great Boss Battles): 10,140  (Ranked 41)  
 Sum: 15,492 (Ranked 71)  

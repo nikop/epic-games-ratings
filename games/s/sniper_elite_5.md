@@ -6,7 +6,7 @@ Rating: 4.47 (Ranked 665)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~2,005 |
-| Confirming Suspicions | 42.00% | ~1,791 |
+| Confirming Suspicions | 42.00% | ~1,792 |
 | The Kraken Wakes | 38.00% | ~1,621 |
 | It's Starting to Crack | 35.00% | ~1,493 |
 | Change the Channel | 32.00% | ~1,365 |
@@ -19,23 +19,23 @@ Rating: 4.47 (Ranked 665)
 | Liberté | 23.00% | ~981 |
 | Organ Grinder | 23.00% | ~981 |
 | Sharpshooter | 23.00% | ~981 |
-| Gunslinger | 19.00% | ~810 |
-| Explosive Efficiency | 19.00% | ~810 |
+| Gunslinger | 19.00% | ~811 |
+| Explosive Efficiency | 19.00% | ~811 |
 | Climbing the Ladder | 17.00% | ~725 |
 | Just a Flesh Wound | 17.00% | ~725 |
 | Der Geist | 17.00% | ~725 |
-| Skirmisher | 16.00% | ~682 |
-| Close Quarters | 16.00% | ~682 |
-| Snake in the Grass | 16.00% | ~682 |
-| Brains of the Operation | 16.00% | ~682 |
+| Skirmisher | 16.00% | ~683 |
+| Close Quarters | 16.00% | ~683 |
+| Snake in the Grass | 16.00% | ~683 |
+| Brains of the Operation | 16.00% | ~683 |
 | No Stone Unturned | 15.00% | ~640 |
 | Die Nussknacker Sweet! | 15.00% | ~640 |
 | Opposing Force | 14.00% | ~597 |
 | Enemy at the Gates | 14.00% | ~597 |
 | Fields of Glory | 14.00% | ~597 |
 | Set Europe Ablaze | 14.00% | ~597 |
-| Precision Is Key | 10.00% | ~426 |
-| My Little Friend | 10.00% | ~426 |
+| Precision Is Key | 10.00% | ~427 |
+| My Little Friend | 10.00% | ~427 |
 | Rigged to Blow | 9.00% | ~384 |
 | Herr Today, Gone Tomorrow | 7.00% | ~295 |
 | The Long Game | 6.00% | ~256 |
@@ -53,9 +53,9 @@ Rating: 4.47 (Ranked 665)
 | Burn after reading | 3.00% | ~128 |
 | Souvenir hunter | 3.00% | ~128 |
 | Shoot for the Moon | 3.00% | ~128 |
-| If You Go Down To The Woods Today | 3.00% | ~126 |
-| Fight Another Day | 3.00% | ~126 |
-| Shipbreaker | 3.00% | ~126 |
+| If You Go Down To The Woods Today | 3.00% | ~127 |
+| Fight Another Day | 3.00% | ~127 |
+| Shipbreaker | 3.00% | ~127 |
 | Out of Scope | 2.00% | ~85 |
 | Eagle Eyed | 2.00% | ~85 |
 | Up close and personal | 2.00% | ~85 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 665)
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,265 (Ranked 210)  
+Progressed: 4,266 (Ranked 210)  
 Completed: 11 (0.26%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 11 (0.26%) (Ranked 265)
 | 2024-01-08 | 4,244 | 11 |
 | 2024-01-09 | 4,249 | 11 |
 | 2024-01-10 | 4,261 | 11 |
-| 2024-01-11 | 4,265 | 11 |
+| 2024-01-11 | 4,266 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 529)  
 Sum: 29 (Ranked 547)  

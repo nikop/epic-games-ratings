@@ -1,7 +1,7 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.50 (Ranked 615)  
+Rating: 4.54 (Ranked 553)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -195,3 +195,4 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-01 | 4.52 | 0 | 0 |
 | 2024-01-02 | 4.46 | 0 | 0 |
 | 2024-01-09 | 4.50 | 0 | 0 |
+| 2024-01-11 | 4.54 | 0 | 0 |

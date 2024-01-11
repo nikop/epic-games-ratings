@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1935,
+  "EOS_Progressed": 1936,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4937,6 +4937,11 @@
       "Time": "2024-01-11T12:06:26.8483029+00:00",
       "NumProgressed": 1935,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T15:06:27.4685546+00:00",
+      "NumProgressed": 1936,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4947,9 +4952,9 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "5k00jcd",
       "Name": "Rookie",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 290
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5213,7 +5218,7 @@
       "Name": "Beyond the limit",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -5316,20 +5321,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1935,
+      "Progressed": 1936,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1603,
+      "Progressed": 1604,
       "Completed": 1013
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-11T14:06:14.6304661+00:00",
+  "LastChanged_Achievements": "2024-01-11T15:06:27.4685542+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.6791346+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:59:42.741545+00:00",
-  "LastUpdate_Achievements": "2024-01-11T14:06:14.6305247+00:00"
+  "LastUpdate_Ratings": "2024-01-11T14:59:27.2224867+00:00",
+  "LastUpdate_Achievements": "2024-01-11T15:06:27.4686075+00:00"
 }

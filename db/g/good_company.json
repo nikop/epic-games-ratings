@@ -2,7 +2,7 @@
   "ID": "b595ab13a93a4be8b6857cc14d2d6e8b",
   "Name": "Good Company",
   "ProductSlug": "good-company",
-  "Ranking_Rating": 691,
+  "Ranking_Rating": 692,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 202,
@@ -5835,9 +5835,9 @@
       "ID": "ach_fully_packed",
       "SetID": "8cb3id7",
       "Name": "Fully Packed",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 23
     },
     {
       "ID": "ach_happy_hour",
@@ -5979,8 +5979,8 @@
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-12-29T23:58:32.3539857+00:00",
-  "LastChanged_Achievements": "2024-01-11T14:05:01.6122915+00:00",
+  "LastChanged_Achievements": "2024-01-11T15:05:16.2655118+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:53.9486343+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:02:53.5462574+00:00",
-  "LastUpdate_Achievements": "2024-01-11T14:05:01.6123846+00:00"
+  "LastUpdate_Ratings": "2024-01-11T15:02:46.0813834+00:00",
+  "LastUpdate_Achievements": "2024-01-11T15:05:16.2655919+00:00"
 }

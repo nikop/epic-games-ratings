@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 2093,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.68,
   "EosHistory": [
@@ -4994,9 +4994,9 @@
       "ID": "ACH_HOMELEAVER",
       "SetID": "7pam6gn",
       "Name": "Home Leaver",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1653
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -5075,8 +5075,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-11T14:09:52.7510952+00:00",
+  "LastChanged_Achievements": "2024-01-11T15:09:53.9382943+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:30.8878388+00:00",
-  "LastUpdate_Ratings": "2024-01-11T13:57:46.8285798+00:00",
-  "LastUpdate_Achievements": "2024-01-11T14:09:52.751128+00:00"
+  "LastUpdate_Ratings": "2024-01-11T14:57:37.9492977+00:00",
+  "LastUpdate_Achievements": "2024-01-11T15:09:53.9383204+00:00"
 }

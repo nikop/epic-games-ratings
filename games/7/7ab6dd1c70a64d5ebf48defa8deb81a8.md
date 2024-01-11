@@ -1,29 +1,29 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.15 (Ranked 1,001)  
+Rating: 4.14 (Ranked 1,008)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 63.00% | ~1,403 |
-| Trinity | 32.00% | ~713 |
-| The Collector | 26.00% | ~579 |
-| A Taste of Wrath | 25.00% | ~557 |
-| Find Allies | 24.00% | ~534 |
-| I Found It | 24.00% | ~534 |
-| Adventurer | 23.00% | ~512 |
-| Shatter Them All | 23.00% | ~512 |
-| Geared Up | 23.00% | ~512 |
-| Fashion Victim | 22.00% | ~490 |
-| Scholar | 22.00% | ~490 |
-| Tributes of Caladrias | 20.00% | ~445 |
-| Stone Collection | 20.00% | ~445 |
-| Powerful Allies | 19.00% | ~423 |
+| Break Out | 63.00% | ~1,405 |
+| Trinity | 31.00% | ~691 |
+| The Collector | 26.00% | ~580 |
+| A Taste of Wrath | 25.00% | ~558 |
+| Find Allies | 24.00% | ~535 |
+| I Found It | 24.00% | ~535 |
+| Adventurer | 23.00% | ~513 |
+| Shatter Them All | 23.00% | ~513 |
+| Geared Up | 23.00% | ~513 |
+| Fashion Victim | 22.00% | ~491 |
+| Scholar | 22.00% | ~491 |
+| Tributes of Caladrias | 20.00% | ~446 |
+| Stone Collection | 20.00% | ~446 |
+| Powerful Allies | 19.00% | ~424 |
 | Essence Blow | 13.00% | ~290 |
 | Big Bazar | 13.00% | ~290 |
 | Alchemist | 13.00% | ~290 |
 | The Mentor | 10.00% | ~223 |
-| Calm before the Storm | 9.00% | ~200 |
+| Calm before the Storm | 9.00% | ~201 |
 | To Battle | 8.00% | ~178 |
 | Godslayer | 7.00% | ~156 |
 | Airborne | 7.00% | ~156 |
@@ -42,7 +42,7 @@ Rating: 4.15 (Ranked 1,001)
 | All That Gold | 0.80% | ~18 |
 | Feeling Fancy | 0.40% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,227 (Ranked 245)  
+Progressed: 2,230 (Ranked 245)  
 Completed: 4 (0.18%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 4 (0.18%) (Ranked 282)
 | 2024-01-08 | 2,086 | 3 |
 | 2024-01-09 | 2,146 | 3 |
 | 2024-01-10 | 2,213 | 4 |
-| 2024-01-11 | 2,227 | 4 |
+| 2024-01-11 | 2,230 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -146,3 +146,4 @@ Completed: 4 (0.18%) (Ranked 282)
 | 2024-01-07 | 4.16 | 0 | 0 |
 | 2024-01-08 | 4.18 | 0 | 0 |
 | 2024-01-09 | 4.15 | 0 | 0 |
+| 2024-01-11 | 4.14 | 0 | 0 |
