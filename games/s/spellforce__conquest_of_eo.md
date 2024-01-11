@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Home Sweet Home | 89.00% | ~124 |
 | Enough rooms to swing a cat | 78.00% | ~108 |
-| First to the post | 77.00% | ~107 |
-| A kind of Magic | 67.00% | ~93 |
+| First to the post | 78.00% | ~108 |
+| A kind of Magic | 68.00% | ~95 |
 | Connected | 58.00% | ~81 |
 | Expansion | 55.00% | ~76 |
 | Mine! | 53.00% | ~74 |
@@ -28,8 +28,8 @@
 | Friend of Alluvyan | 15.00% | ~21 |
 | Friend of Connach | 15.00% | ~21 |
 | Friend of Gillyshire | 14.00% | ~19 |
+| Friend of Orgash | 14.00% | ~19 |
 | Stormwatch Faste | 13.00% | ~18 |
-| Friend of Orgash | 13.00% | ~18 |
 | Philo's Tale | 12.00% | ~17 |
 | Friend of Silver Drift Hollow | 12.00% | ~17 |
 | Friend of Bastion | 12.00% | ~17 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139 (Ranked 469)  
+Progressed: 139 (Ranked 470)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |

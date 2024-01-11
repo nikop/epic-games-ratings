@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~91,628 |
+| Sowwy! | 37.00% | ~91,630 |
 | Alt+F4 | 11.00% | ~27,241 |
 | Where's that freaking Dwarf? | 9.00% | ~22,288 |
-| Déjà vu | 8.00% | ~19,811 |
+| Déjà vu | 8.00% | ~19,812 |
 | Sock! SOCK! | 6.00% | ~14,859 |
 | Speedrun | 6.00% | ~14,859 |
 | A beer, two curses, three companions | 5.00% | ~12,382 |
@@ -47,9 +47,9 @@ Number of Ratings: 118  (23.09.2022)
 | Lëgal Legend | 1.00% | ~2,476 |
 | Material Girl | 1.00% | ~2,476 |
 | We come in peace | 0.90% | ~2,229 |
-| Holistic Adventuring Party | 0.70% | ~1,733 |
-| An old poacher makes the best gamekeeper | 0.70% | ~1,733 |
-| Law and Order | 0.70% | ~1,733 |
+| Holistic Adventuring Party | 0.70% | ~1,734 |
+| An old poacher makes the best gamekeeper | 0.70% | ~1,734 |
+| Law and Order | 0.70% | ~1,734 |
 | Scholar of the Lands of Fangh | 0.60% | ~1,486 |
 | It's been a hard day's night | 0.50% | ~1,238 |
 | Friendly fire | 0.40% | ~991 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~248 |
 | Dwarf Candy | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,642 (Ranked 72)  
+Progressed: 247,649 (Ranked 72)  
 Completed: 8 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,10 +320,10 @@ Completed: 8 (0.00%) (Ranked 397)
 | 2024-01-08 | 247,298 | 8 |
 | 2024-01-09 | 247,450 | 8 |
 | 2024-01-10 | 247,582 | 8 |
-| 2024-01-11 | 247,642 | 8 |
+| 2024-01-11 | 247,649 | 8 |
 ## Awards
 Max (Character Customization): 268  (Ranked 277)  
-Sum: 564 (Ranked 330)  
+Sum: 565 (Ranked 330)  
 Diff (max vs sum): -53  
 | Award | Count |
 | ----- | ----- |
@@ -333,7 +333,7 @@ Diff (max vs sum): -53
 | This game is Highly Recommended | 36 |
 | This game has Quickly Understood Controls | 36 |
 | This game has Amazing Storytelling | 34 |
-| This game has Diverse Characters | 32 |
+| This game has Diverse Characters | 33 |
 | This game has Amazing Characters | 30 |
 | This game is Extremely Fun | 29 |
 | This game has Playful Visuals | 21 |
@@ -555,4 +555,4 @@ Diff (max vs sum): -53
 | 2024-01-07 | 4.59 | - | 267 | 561 |
 | 2024-01-09 | 4.59 | - | 268 | 563 |
 | 2024-01-10 | 4.59 | - | 268 | 564 |
-| 2024-01-11 | 4.58 | - | 268 | 564 |
+| 2024-01-11 | 4.58 | - | 268 | 565 |

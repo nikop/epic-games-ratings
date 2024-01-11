@@ -1,34 +1,34 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.39 (Ranked 783)  
+Rating: 4.39 (Ranked 784)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,573 |
+| First Blood | 92.00% | ~1,574 |
 | Ranidaphobia | 77.00% | ~1,317 |
-| Aspiring Editor | 74.00% | ~1,265 |
-| Gun for Hire | 69.00% | ~1,180 |
-| I am the law! | 63.00% | ~1,077 |
-| Lumberjack | 53.00% | ~906 |
+| Aspiring Editor | 74.00% | ~1,266 |
+| Gun for Hire | 69.00% | ~1,181 |
+| I am the law! | 63.00% | ~1,078 |
+| Lumberjack | 53.00% | ~907 |
 | Croaked | 49.00% | ~838 |
 | Limp Richard | 48.00% | ~821 |
 | Exorcist | 48.00% | ~821 |
 | From Darkness to Light | 48.00% | ~821 |
 | Editor Adept | 47.00% | ~804 |
 | Giant Killer | 45.00% | ~770 |
-| Sensei | 44.00% | ~752 |
-| Firestarter | 42.00% | ~718 |
-| The meaning of Kain | 42.00% | ~718 |
+| Sensei | 44.00% | ~753 |
+| Firestarter | 42.00% | ~719 |
+| The meaning of Kain | 42.00% | ~719 |
 | Recycler | 40.00% | ~684 |
 | Technophobe | 40.00% | ~684 |
 | Are you not entertained? | 36.00% | ~616 |
-| Ganglord | 35.00% | ~598 |
-| Jarhead | 35.00% | ~598 |
-| Infiltrator | 35.00% | ~598 |
-| Experienced | 33.00% | ~564 |
-| Hold The Line | 33.00% | ~564 |
-| Pushing Daisy | 33.00% | ~564 |
+| Jarhead | 36.00% | ~616 |
+| Ganglord | 35.00% | ~599 |
+| Infiltrator | 35.00% | ~599 |
+| Experienced | 33.00% | ~565 |
+| Hold The Line | 33.00% | ~565 |
+| Pushing Daisy | 33.00% | ~565 |
 | Endgame | 28.00% | ~479 |
 | Savior | 28.00% | ~479 |
 | Silent but Violent | 28.00% | ~479 |
@@ -39,7 +39,7 @@ Rating: 4.39 (Ranked 783)
 | Chaos Theory | 16.00% | ~274 |
 | Dr Jones | 16.00% | ~274 |
 | Newtonian Knockout | 16.00% | ~274 |
-| Ruthless | 14.00% | ~239 |
+| Ruthless | 14.00% | ~240 |
 | Side Order | 11.00% | ~188 |
 | Bot Whisperer | 9.00% | ~154 |
 | Chain Reaction | 9.00% | ~154 |
@@ -57,7 +57,7 @@ Rating: 4.39 (Ranked 783)
 | Alpha Editor | 0.80% | ~14 |
 | QA Has Suffered! (Redux) | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,710 (Ranked 260)  
+Progressed: 1,711 (Ranked 260)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 1,700 | 0 |
 | 2024-01-09 | 1,702 | 0 |
 | 2024-01-10 | 1,709 | 0 |
-| 2024-01-11 | 1,710 | 0 |
+| 2024-01-11 | 1,711 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

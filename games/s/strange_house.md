@@ -11,7 +11,7 @@
 | Piglet | 12.00% | ~6 |
 | Lost Cat | 12.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 560)  
+Progressed: 49 (Ranked 561)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |

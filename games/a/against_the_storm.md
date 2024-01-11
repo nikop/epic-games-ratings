@@ -6,9 +6,9 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taking Action | 9.00% | ~1,861 |
-| Abandoned Settlement | 9.00% | ~1,861 |
-| Overgrown Library | 9.00% | ~1,861 |
+| Taking Action | 9.00% | ~1,862 |
+| Abandoned Settlement | 9.00% | ~1,862 |
+| Overgrown Library | 9.00% | ~1,862 |
 | First Real Expedition | 8.00% | ~1,655 |
 | No Deaths | 8.00% | ~1,655 |
 | Petrified Necropolis | 8.00% | ~1,655 |
@@ -26,16 +26,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | Monastery of the Holy Flame | 4.00% | ~827 |
 | Watchtower | 4.00% | ~827 |
 | A Real Challenge | 4.00% | ~827 |
-| Ruined Armory | 3.00% | ~620 |
-| Bandit Camp | 3.00% | ~620 |
-| Ancient Battleground | 3.00% | ~620 |
-| Levitating Monument | 3.00% | ~620 |
-| Lost Colonies | 3.00% | ~620 |
-| Statue of the Forefathers | 3.00% | ~620 |
-| Corrosive Torrent | 3.00% | ~620 |
-| Cursed Lands | 3.00% | ~620 |
-| Trade Baron | 3.00% | ~620 |
-| Untamed Wilds | 3.00% | ~620 |
+| Ruined Armory | 3.00% | ~621 |
+| Bandit Camp | 3.00% | ~621 |
+| Ancient Battleground | 3.00% | ~621 |
+| Levitating Monument | 3.00% | ~621 |
+| Lost Colonies | 3.00% | ~621 |
+| Statue of the Forefathers | 3.00% | ~621 |
+| Corrosive Torrent | 3.00% | ~621 |
+| Cursed Lands | 3.00% | ~621 |
+| Trade Baron | 3.00% | ~621 |
+| Untamed Wilds | 3.00% | ~621 |
 | Serving Ale | 2.00% | ~414 |
 | Against All Odds | 2.00% | ~414 |
 | Barren Lands | 2.00% | ~414 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,683 (Ranked 154)  
+Progressed: 20,685 (Ranked 154)  
 Completed: 34 (0.16%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 34 (0.16%) (Ranked 286)
 | 2024-01-08 | 20,508 | 34 |
 | 2024-01-09 | 20,595 | 34 |
 | 2024-01-10 | 20,658 | 34 |
-| 2024-01-11 | 20,683 | 34 |
+| 2024-01-11 | 20,685 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,369 (Ranked 177)  

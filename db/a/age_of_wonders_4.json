@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -759,9 +759,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7193,
+  "EOS_Progressed": 7194,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11054,6 +11054,11 @@
       "Time": "2024-01-11T17:04:43.2939208+00:00",
       "NumProgressed": 7193,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-11T18:03:29.8182404+00:00",
+      "NumProgressed": 7194,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -11081,7 +11086,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "12",
@@ -11105,7 +11110,7 @@
       "Name": "Full Ascension",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "15",
@@ -11233,7 +11238,7 @@
       "Name": "Stronger Together",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "3",
@@ -11273,7 +11278,7 @@
       "Name": "Seat of Power",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "34",
@@ -11544,13 +11549,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7193,
+      "Progressed": 7194,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7193,
+      "Progressed": 7194,
       "Completed": 7
     }
   ],
@@ -11558,8 +11563,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-10T06:57:43.8261312+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:04:43.2939205+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:03:29.8182397+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:59:36.5466334+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:04:43.294022+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:58:25.8757733+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:03:29.8183208+00:00"
 }

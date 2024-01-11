@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10740,9 +10740,9 @@
       "Count": 1092
     }
   ],
-  "EOS_Progressed": 132460,
+  "EOS_Progressed": 132466,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 826,
+  "EOS_NewPlayers": 820,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39380,6 +39380,11 @@
       "Time": "2024-01-11T17:11:23.8953614+00:00",
       "NumProgressed": 132460,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T18:09:53.4263608+00:00",
+      "NumProgressed": 132466,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39679,7 +39684,7 @@
       "Name": "Spelunker",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5298
+      "UsersEstimate": 5299
     },
     {
       "ID": "driving_biome_clear_city",
@@ -39695,7 +39700,7 @@
       "Name": "Merry Time",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5298
+      "UsersEstimate": 5299
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -39703,7 +39708,7 @@
       "Name": "Harvest Festival",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5298
+      "UsersEstimate": 5299
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -39719,7 +39724,7 @@
       "Name": "Ramble On",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5298
+      "UsersEstimate": 5299
     },
     {
       "ID": "driving_distance_hard",
@@ -39743,7 +39748,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9272
+      "UsersEstimate": 9273
     },
     {
       "ID": "hero_story_complete_all",
@@ -39767,7 +39772,7 @@
       "Name": "Whale",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5298
+      "UsersEstimate": 5299
     },
     {
       "ID": "hospital_full_service",
@@ -39839,7 +39844,7 @@
       "Name": "Nope",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5298
+      "UsersEstimate": 5299
     },
     {
       "ID": "run_victory_act01",
@@ -39847,7 +39852,7 @@
       "Name": "Unshackled",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 5298
+      "UsersEstimate": 5299
     },
     {
       "ID": "run_victory_act02",
@@ -39927,7 +39932,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "combat_kill_collector",
@@ -39983,7 +39988,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "quest_complete_crusader",
@@ -39991,7 +39996,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -40022,21 +40027,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132460,
+      "Progressed": 132466,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7329,
+      "Progressed": 7335,
       "Completed": 824
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-11T14:59:46.1831983+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:11:23.895361+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:09:53.4263603+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:01:28.1529736+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:11:23.8955325+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:59:38.599431+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:09:53.4265743+00:00"
 }

@@ -181,7 +181,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3420,
+  "EOS_Progressed": 3421,
   "EOS_Completed": 23,
   "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 2,
@@ -6371,6 +6371,11 @@
       "Time": "2024-01-11T17:08:12.0373922+00:00",
       "NumProgressed": 3420,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2024-01-11T18:05:51.8857077+00:00",
+      "NumProgressed": 3421,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 53,
@@ -6414,7 +6419,7 @@
       "Name": "Whispers in the Woods III",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "STB_COPY_ABILITIES",
@@ -6422,7 +6427,7 @@
       "Name": "Hijack",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -6430,7 +6435,7 @@
       "Name": "Elemental master",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -6446,7 +6451,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3249
+      "UsersEstimate": 3250
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6454,15 +6459,15 @@
       "Name": "My heart and sword always for Demacia",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
       "SetID": "3pe2bac",
       "Name": "Everfrost",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2599
+      "UsersEstimate": 2634
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6478,7 +6483,7 @@
       "Name": "Friendly fire",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "STB_DEFEAT_MAGICSHIFTER",
@@ -6486,7 +6491,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -6534,7 +6539,7 @@
       "Name": "Do you trust me?",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "STB_FIND_ALL_SILVERWINGS",
@@ -6558,7 +6563,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2565
+      "UsersEstimate": 2566
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6566,7 +6571,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6590,7 +6595,7 @@
       "Name": "The great mage rebellion starts now",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "STB_MISSION1_COMPLETED",
@@ -6598,7 +6603,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2599
+      "UsersEstimate": 2600
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6614,7 +6619,7 @@
       "Name": "Clarion Cove",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -6622,7 +6627,7 @@
       "Name": "Devineur",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -6630,7 +6635,7 @@
       "Name": "Sacred Woods",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -6662,7 +6667,7 @@
       "Name": "The Central Headquarters",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "STB_MISSION8_COMPLETED",
@@ -6676,9 +6681,9 @@
       "ID": "STB_MISSION9_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Truth is a dark mirror",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 445
+      "UsersEstimate": 479
     },
     {
       "ID": "STB_PET_DOG",
@@ -6686,7 +6691,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2053
     },
     {
       "ID": "STB_PET_HORSE",
@@ -6710,7 +6715,7 @@
       "Name": "Back to sleep, then...",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -6805,7 +6810,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3420,
+      "Progressed": 3421,
       "Completed": 23
     }
   ],
@@ -6813,8 +6818,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-09T21:58:22.8970062+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:08:12.0373919+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:05:51.8857071+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:19.7763351+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:00:51.3168823+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:08:12.0374656+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:59:14.9329398+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:05:51.8857756+00:00"
 }

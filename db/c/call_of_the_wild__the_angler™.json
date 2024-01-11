@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8268,
+  "EOS_Progressed": 8269,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13862,6 +13862,11 @@
       "Time": "2024-01-11T17:09:40.9608185+00:00",
       "NumProgressed": 8268,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T18:08:41.5371112+00:00",
+      "NumProgressed": 8269,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13897,7 +13902,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -13937,7 +13942,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -14192,13 +14197,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8268,
+      "Progressed": 8269,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7640,
+      "Progressed": 7641,
       "Completed": 113
     }
   ],
@@ -14206,8 +14211,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:09:40.9608184+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:08:41.5371108+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:02:03.005741+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:09:40.9608909+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:59:59.9756714+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:08:41.537204+00:00"
 }

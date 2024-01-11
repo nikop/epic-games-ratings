@@ -14,7 +14,7 @@ Number of Ratings: 116  (23.09.2022)
 | Increased Capacity | 54.00% | ~299 |
 | Just the start | 48.00% | ~266 |
 | Perfect Storm | 45.00% | ~249 |
-| All That Glitters | 44.00% | ~244 |
+| All That Glitters | 45.00% | ~249 |
 | Enhance! | 41.00% | ~227 |
 | One Of the Chosen | 40.00% | ~222 |
 | Devil's in the Details | 39.00% | ~216 |
@@ -33,9 +33,9 @@ Number of Ratings: 116  (23.09.2022)
 | For Whom the Bell Tolls | 29.00% | ~161 |
 | Unyielding Strength | 25.00% | ~138 |
 | Can you restore the Balance? | 25.00% | ~138 |
+| Crowd Source | 25.00% | ~138 |
 | Big Spender | 25.00% | ~138 |
 | Cleanup Crew | 24.00% | ~133 |
-| Crowd Source | 24.00% | ~133 |
 | Demon Meddler | 23.00% | ~127 |
 | Seeing Red | 23.00% | ~127 |
 | Maximum Capacity | 22.00% | ~122 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 1.00% | ~6 |
 | Quite Proper | 0.90% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 554 (Ranked 345)  
+Progressed: 554 (Ranked 346)  
 Completed: 2 (0.36%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |

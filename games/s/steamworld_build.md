@@ -11,7 +11,7 @@
 | Going Places | 66.00% | ~175 |
 | Aristocratic | 63.00% | ~167 |
 | Tutti Frutti | 58.00% | ~154 |
-| Slotting Machine | 46.00% | ~122 |
+| Slotting Machine | 47.00% | ~125 |
 | Systematic | 46.00% | ~122 |
 | Gotta Go Fast | 44.00% | ~117 |
 | Mine Sweeper | 42.00% | ~111 |
@@ -19,7 +19,7 @@
 | Dopa-Miner | 33.00% | ~87 |
 | Up, Up And Away! | 33.00% | ~87 |
 | Whoa! | 30.00% | ~80 |
-| Botropolis | 26.00% | ~69 |
+| Botropolis | 27.00% | ~72 |
 | Steam Powered | 20.00% | ~53 |
 | Steaming Rich | 20.00% | ~53 |
 | Manic Mechanic | 19.00% | ~50 |
@@ -33,7 +33,7 @@
 | Yup. | 0.40% | ~1 |
 | Nothing But Road | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265 (Ranked 416)  
+Progressed: 265 (Ranked 417)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |

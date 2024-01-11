@@ -2,9 +2,9 @@
   "ID": "ad1d27353b5a4f49a8aa00853d729fd4",
   "Name": "SPACE ELITE FORCE",
   "ProductSlug": "space-elite-force-a00006",
-  "Ranking_EOS_Progress": 527,
+  "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 515,
+  "Ranking_EOS_NewPlayers": 517,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-07-27T13:00:00+00:00",
@@ -651,8 +651,8 @@
   ],
   "FirstSeen": "2023-08-06T03:57:23.4648086+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:05:39.4786144+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:04:08.134573+00:00",
   "LastUpdate_AppInfo": "2024-01-05T23:57:03.5182073+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:58:58.3032445+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:05:39.4786322+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:58:01.23948+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:04:08.1345945+00:00"
 }

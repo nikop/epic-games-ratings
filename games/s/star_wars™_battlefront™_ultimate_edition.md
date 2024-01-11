@@ -9,7 +9,7 @@
 | Do... or do not. There is no try | 52.00% | ~1,496 |
 | A good blaster at your side | 24.00% | ~690 |
 | I suggest a new strategy | 17.00% | ~489 |
-| Great shot, kid! | 15.00% | ~431 |
+| Great shot, kid! | 16.00% | ~460 |
 | Scrap collector | 14.00% | ~403 |
 | All right, I'll give it a try | 14.00% | ~403 |
 | The power of the Force | 12.00% | ~345 |

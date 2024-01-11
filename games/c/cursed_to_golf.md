@@ -1,7 +1,7 @@
 # Cursed to Golf
 [Store](https://store.epicgames.com/en-US/p/cursed-to-golf-a6bc22)  
 [View Rawdata](../../db/c/cursed_to_golf.json)  
-Rating: 4.17 (Ranked 987)  
+Rating: 4.15 (Ranked 1,000)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -17,3 +17,4 @@ Rating: 4.17 (Ranked 987)
 | 2024-01-06 | 4.19 | 0 | 0 |
 | 2024-01-07 | 4.16 | 0 | 0 |
 | 2024-01-09 | 4.17 | 0 | 0 |
+| 2024-01-11 | 4.15 | 0 | 0 |

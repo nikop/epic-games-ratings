@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -703,9 +703,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12213,
+  "EOS_Progressed": 12217,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 699,
+  "EOS_NewPlayers": 698,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -15518,6 +15518,11 @@
       "Time": "2024-01-11T16:04:40.339197+00:00",
       "NumProgressed": 12213,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2024-01-11T18:03:49.5510842+00:00",
+      "NumProgressed": 12217,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 29,
@@ -15529,7 +15534,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10137
+      "UsersEstimate": 10140
     },
     {
       "ID": "ACH02",
@@ -15537,7 +15542,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 4152
+      "UsersEstimate": 4154
     },
     {
       "ID": "ACH03",
@@ -15553,7 +15558,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4763
+      "UsersEstimate": 4765
     },
     {
       "ID": "ACH05",
@@ -15561,7 +15566,7 @@
       "Name": "Mob Boss",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ACH06",
@@ -15569,7 +15574,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "ACH07",
@@ -15593,7 +15598,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "ACH10",
@@ -15601,7 +15606,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 3420
+      "UsersEstimate": 3421
     },
     {
       "ID": "ACH11",
@@ -15633,7 +15638,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2076
+      "UsersEstimate": 2077
     },
     {
       "ID": "ACH15",
@@ -15649,7 +15654,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3175
+      "UsersEstimate": 3176
     },
     {
       "ID": "ACH17",
@@ -15665,7 +15670,7 @@
       "Name": "Not So Fast",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "ACH19",
@@ -15689,7 +15694,7 @@
       "Name": "Splish Splash",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ACH22",
@@ -15721,7 +15726,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "ACH26",
@@ -15753,14 +15758,14 @@
       "Name": "King of Liberty City",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     }
   ],
   "AchievementSets": [
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12213,
+      "Progressed": 12217,
       "Completed": 86
     }
   ],
@@ -15768,8 +15773,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-08T18:02:03.5351927+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:05:12.0098999+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:03:49.5510839+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.653696+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:59:18.3394791+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:05:12.0099915+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:58:13.9340039+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:03:49.5512033+00:00"
 }

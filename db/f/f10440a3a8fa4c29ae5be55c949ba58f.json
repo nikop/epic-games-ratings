@@ -4,7 +4,7 @@
   "ProductSlug": "tangles-e99298",
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8322,
+  "EOS_Progressed": 8334,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1679,
+  "EOS_NewPlayers": 1669,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2549,6 +2549,11 @@
       "Time": "2024-01-11T17:10:41.9447541+00:00",
       "NumProgressed": 8322,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-11T18:09:23.5973716+00:00",
+      "NumProgressed": 8334,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -2561,7 +2566,7 @@
       "Name": "Final Destination",
       "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 4161
+      "UsersEstimate": 4167
     },
     {
       "ID": "Document1",
@@ -2569,7 +2574,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "Document2",
@@ -2585,7 +2590,7 @@
       "Name": "Secrets Revealer",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Document4",
@@ -2609,7 +2614,7 @@
       "Name": "Perseverant",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Untraceable2",
@@ -2617,21 +2622,21 @@
       "Name": "Untraceable",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     }
   ],
   "AchievementSets": [
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 8322,
+      "Progressed": 8334,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:10:41.9447537+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:09:23.5973708+00:00",
   "LastUpdate_AppInfo": "2024-01-07T21:57:13.0406277+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:58:02.9901575+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:10:41.9447841+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:57:25.8085483+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:09:23.5973973+00:00"
 }

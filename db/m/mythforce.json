@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -13199,9 +13199,9 @@
       "ID": "MF_Ach_TenStepsFromTheGrave",
       "SetID": "9b9n573",
       "Name": "Ten Steps from the Grave",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 940
+      "UsersEstimate": 1003
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -13231,8 +13231,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:04:48.9416258+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:03:33.9819539+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:58:16.6449127+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:04:48.9419679+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:57:33.7036968+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:03:33.98223+00:00"
 }

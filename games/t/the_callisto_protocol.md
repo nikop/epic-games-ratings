@@ -1,35 +1,35 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.22 (Ranked 950)  
+Rating: 4.22 (Ranked 951)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 26.00% | ~5,757 |
-| The Outer Way | 26.00% | ~5,757 |
+| Flesh Wound | 26.00% | ~5,758 |
+| The Outer Way | 26.00% | ~5,758 |
 | Desperate Times | 25.00% | ~5,536 |
-| Paper Jams | 22.00% | ~4,871 |
-| Get a Grip | 21.00% | ~4,650 |
+| Paper Jams | 22.00% | ~4,872 |
+| Get a Grip | 21.00% | ~4,651 |
 | Chew 'Em Up | 20.00% | ~4,429 |
-| Reforged | 19.00% | ~4,207 |
+| Reforged | 19.00% | ~4,208 |
 | Float Like A Butterfly | 18.00% | ~3,986 |
 | Workplace Hazard | 16.00% | ~3,543 |
 | If the SHU Fits... | 16.00% | ~3,543 |
 | Without A Paddle | 14.00% | ~3,100 |
-| In the Pipe, Five by Five | 12.00% | ~2,657 |
-| Crash Site | 12.00% | ~2,657 |
+| In the Pipe, Five by Five | 12.00% | ~2,658 |
+| Crash Site | 12.00% | ~2,658 |
 | Two Heads Are Better Than One | 11.00% | ~2,436 |
 | Power Up | 11.00% | ~2,436 |
-| Giving Back | 10.00% | ~2,214 |
-| Terminated | 10.00% | ~2,214 |
-| What Lies Beneath | 10.00% | ~2,214 |
-| Full Circle | 10.00% | ~2,214 |
+| Giving Back | 10.00% | ~2,215 |
+| Terminated | 10.00% | ~2,215 |
+| What Lies Beneath | 10.00% | ~2,215 |
+| Full Circle | 10.00% | ~2,215 |
 | You Need a Gun | 9.00% | ~1,993 |
-| I Do Belong Here | 8.00% | ~1,771 |
+| I Do Belong Here | 8.00% | ~1,772 |
 | Keep Fighting | 7.00% | ~705 |
 | In Striking Distance | 5.00% | ~1,107 |
 | The Commonality | 5.00% | ~1,107 |
-| It's Time | 5.00% | ~503 |
+| It's Time | 5.00% | ~504 |
 | One Last Job | 3.00% | ~302 |
 | Mugshot | 2.00% | ~443 |
 | Big Spender | 2.00% | ~201 |
@@ -40,7 +40,7 @@ Rating: 4.22 (Ranked 950)
 | Information Overload | 0.90% | ~91 |
 | Parole Denied | 0.80% | ~81 |
 | Quick Pick | 0.80% | ~81 |
-| Subject Alpha | 0.70% | ~70 |
+| Subject Alpha | 0.70% | ~71 |
 | The Protocol is About Life | 0.40% | ~89 |
 | Don't Let It Mellow | 0.40% | ~40 |
 | Hoard Mode | 0.30% | ~30 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 950)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,143 (Ranked 150)  
+Progressed: 22,146 (Ranked 150)  
 Completed: 82 (0.37%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 82 (0.37%) (Ranked 243)
 | 2024-01-08 | 21,745 | 82 |
 | 2024-01-09 | 21,902 | 82 |
 | 2024-01-10 | 22,053 | 82 |
-| 2024-01-11 | 22,143 | 82 |
+| 2024-01-11 | 22,146 | 82 |
 ## Awards
 Max (Amazing Characters): 131  (Ranked 345)  
 Sum: 633 (Ranked 321)  

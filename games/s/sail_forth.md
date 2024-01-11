@@ -4,6 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Tootorial | 30.00% | ~435 |
+| Wind Master | 16.00% | ~232 |
+| Hook, Line and Stinker | 1.00% | ~14 |
+| Davy Jones | 0.40% | ~6 |
+| Race In Yo Face | 0.10% | ~1 |
+| Boarding Party | 0.10% | ~1 |
 | Polar Pontification | 0.00% | ~0 |
 | What's Krakalackin? | 0.00% | ~0 |
 | Aggro Kreb | 0.00% | ~0 |
@@ -19,23 +25,17 @@
 | Blowfish Me Down | 0.00% | ~0 |
 | Croaker Command's Most Wanted | 0.00% | ~0 |
 | In Service Of Glory And Valor | 0.00% | ~0 |
-| Hook, Line and Stinker | 0.00% | ~0 |
 | Getting Hooked | 0.00% | ~0 |
 | Sail Forth! | 0.00% | ~0 |
 | Over The Moon | 0.00% | ~0 |
 | Shooting Star | 0.00% | ~0 |
 | Snapping Turtle | 0.00% | ~0 |
-| Tootorial | 0.00% | ~0 |
 | Great Balls Of Fire | 0.00% | ~0 |
 | Baby's First Thingamabob | 0.00% | ~0 |
 | Crovert Ops | 0.00% | ~0 |
 | Light Up the Night | 0.00% | ~0 |
-| Race In Yo Face | 0.00% | ~0 |
 | Nice Shootin' Duds | 0.00% | ~0 |
-| Boarding Party | 0.00% | ~0 |
 | Tekk Savvy | 0.00% | ~0 |
-| Wind Master | 0.00% | ~0 |
-| Davy Jones | 0.00% | ~0 |
 | Fish And Tips | 0.00% | ~0 |
 | Fish Kabob | 0.00% | ~0 |
 | Crushed Ice | 0.00% | ~0 |
@@ -52,12 +52,13 @@
 | Pengy Fun | 0.00% | ~0 |
 | Don't I Know You? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 731)  
+Progressed: 1,449 (Ranked 271)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-05 | 2 | 0 |
+| 2024-01-11 | 1,449 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

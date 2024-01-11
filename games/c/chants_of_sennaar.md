@@ -5,34 +5,34 @@ Rating: 4.85 (Ranked 40)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 61.00% | ~1,637 |
-| Welcome to the Tower | 54.00% | ~1,449 |
-| The great escape | 46.00% | ~1,234 |
-| The Preacher's fate | 44.00% | ~1,181 |
-| A new dawn | 37.00% | ~993 |
-| Scholar | 33.00% | ~885 |
-| The darkness | 32.00% | ~859 |
-| A good beginning | 31.00% | ~832 |
-| True G3M4R | 31.00% | ~832 |
-| One last step | 29.00% | ~778 |
-| I did it | 27.00% | ~724 |
-| Cable guy | 27.00% | ~724 |
-| Half the way | 27.00% | ~724 |
+| That's the spirit | 60.00% | ~1,612 |
+| Welcome to the Tower | 54.00% | ~1,450 |
+| The great escape | 46.00% | ~1,236 |
+| The Preacher's fate | 44.00% | ~1,182 |
+| A new dawn | 37.00% | ~994 |
+| Scholar | 33.00% | ~886 |
+| The darkness | 32.00% | ~860 |
+| A good beginning | 31.00% | ~833 |
+| True G3M4R | 31.00% | ~833 |
+| One last step | 28.00% | ~752 |
+| I did it | 27.00% | ~725 |
+| Cable guy | 27.00% | ~725 |
+| Half the way | 27.00% | ~725 |
 | Peace walker | 26.00% | ~698 |
 | Rascal | 26.00% | ~698 |
-| In this together | 25.00% | ~671 |
-| Champollion | 25.00% | ~671 |
-| Open door | 22.00% | ~590 |
-| Feels like springtime | 22.00% | ~590 |
-| Alchemists Express | 21.00% | ~563 |
+| In this together | 25.00% | ~672 |
+| Champollion | 25.00% | ~672 |
+| Open door | 22.00% | ~591 |
+| Feels like springtime | 22.00% | ~591 |
+| Alchemists Express | 21.00% | ~564 |
 | Free at last | 19.00% | ~510 |
-| A Link to the Past | 16.00% | ~429 |
+| A Link to the Past | 16.00% | ~430 |
 | A great audience | 14.00% | ~376 |
 | For its own good | 14.00% | ~376 |
-| Fashion victim | 9.00% | ~241 |
+| Fashion victim | 9.00% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,683 (Ranked 234)  
-Completed: 194 (7.23%) (Ranked 57)  
+Progressed: 2,686 (Ranked 235)  
+Completed: 194 (7.22%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -204,7 +204,7 @@ Completed: 194 (7.23%) (Ranked 57)
 | 2024-01-08 | 2,573 | 180 |
 | 2024-01-09 | 2,625 | 186 |
 | 2024-01-10 | 2,665 | 192 |
-| 2024-01-11 | 2,683 | 194 |
+| 2024-01-11 | 2,686 | 194 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

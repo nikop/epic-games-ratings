@@ -33,6 +33,7 @@
 | Sponsor | 0.60% | ~1 |
 | Style over Stats | 0.60% | ~1 |
 | Defeat Uskol | 0.60% | ~1 |
+| Forest Expert | 0.60% | ~1 |
 | Wizard | 0.60% | ~1 |
 | Pathfinder | 0.60% | ~1 |
 | Globetrotter | 0.60% | ~1 |
@@ -44,7 +45,6 @@
 | Explorer by Heart | 0.00% | ~0 |
 | Mountain Lover | 0.00% | ~0 |
 | Wasteland Connoisseur | 0.00% | ~0 |
-| Forest Expert | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |
 | Ancient Powers | 0.00% | ~0 |
 | Knowledge is King | 0.00% | ~0 |
@@ -57,7 +57,7 @@
 | Whispers of the Sand | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158 (Ranked 454)  
+Progressed: 158 (Ranked 455)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |

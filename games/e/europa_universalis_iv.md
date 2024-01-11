@@ -6,7 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 0.60% | ~2,980 |
+| Until death do us apart | 0.60% | ~2,981 |
 | That's a Grand Army | 0.50% | ~2,484 |
 | That is mine! | 0.50% | ~2,484 |
 | Victorious! | 0.50% | ~2,484 |
@@ -14,18 +14,18 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Navy | 0.40% | ~1,987 |
 | Seriously?! | 0.40% | ~1,987 |
 | Cold War | 0.30% | ~1,490 |
-| Blockader | 0.20% | ~993 |
-| Defender of the Faith | 0.20% | ~993 |
-| Double the Love | 0.20% | ~993 |
-| For the Glory | 0.20% | ~993 |
-| It's all about luck | 0.20% | ~993 |
-| It's all about the money | 0.20% | ~993 |
-| Respected | 0.20% | ~993 |
-| Royal Authority | 0.20% | ~993 |
-| The Princess is in this Castle | 0.20% | ~993 |
-| Total Control | 0.20% | ~993 |
-| True Catholic | 0.20% | ~993 |
-| Truly Divine Ruler | 0.20% | ~993 |
+| Blockader | 0.20% | ~994 |
+| Defender of the Faith | 0.20% | ~994 |
+| Double the Love | 0.20% | ~994 |
+| For the Glory | 0.20% | ~994 |
+| It's all about luck | 0.20% | ~994 |
+| It's all about the money | 0.20% | ~994 |
+| Respected | 0.20% | ~994 |
+| Royal Authority | 0.20% | ~994 |
+| The Princess is in this Castle | 0.20% | ~994 |
+| Total Control | 0.20% | ~994 |
+| True Catholic | 0.20% | ~994 |
+| Truly Divine Ruler | 0.20% | ~994 |
 | The 52 Garhs | 0.10% | ~497 |
 | I don't like sand | 0.10% | ~497 |
 | A Blessed Nation | 0.10% | ~497 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 496,735 (Ranked 42)  
+Progressed: 496,770 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -636,7 +636,7 @@ Completed: 1 (0.00%) (Ranked 397)
 | 2024-01-08 | 495,265 | 1 |
 | 2024-01-09 | 495,855 | 1 |
 | 2024-01-10 | 496,402 | 1 |
-| 2024-01-11 | 496,735 | 1 |
+| 2024-01-11 | 496,770 | 1 |
 ## Awards
 Max (Educational): 7,790  (Ranked 52)  
 Sum: 64,265 (Ranked 24)  

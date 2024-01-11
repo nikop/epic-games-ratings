@@ -5,28 +5,28 @@ Rating: 4.19 (Ranked 973)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,926 |
-| Battlefields Have Memories | 81.00% | ~2,693 |
-| Enlisted | 74.00% | ~2,460 |
-| Maybe Engage a Little | 69.00% | ~2,294 |
-| No More Names | 52.00% | ~1,729 |
-| Initiate | 39.00% | ~1,297 |
+| Unforeseen | 88.00% | ~2,928 |
+| Battlefields Have Memories | 81.00% | ~2,695 |
+| Enlisted | 74.00% | ~2,462 |
+| Maybe Engage a Little | 69.00% | ~2,296 |
+| No More Names | 52.00% | ~1,730 |
+| Initiate | 39.00% | ~1,298 |
 | Thrada-Kul | 35.00% | ~1,164 |
-| Gravity-Challenged Rocks | 28.00% | ~931 |
+| Gravity-Challenged Rocks | 28.00% | ~932 |
 | Socialite | 24.00% | ~798 |
 | Soldier | 24.00% | ~798 |
 | All the Major Food Groups | 24.00% | ~798 |
-| Beggars Would Ride | 21.00% | ~698 |
+| Beggars Would Ride | 21.00% | ~699 |
 | Control is an Illusion | 20.00% | ~665 |
-| The Means to Save It | 18.00% | ~598 |
+| The Means to Save It | 18.00% | ~599 |
 | Resilience to Sin | 16.00% | ~532 |
 | A Familiar Nest | 16.00% | ~532 |
 | Geas Aristeya | 15.00% | ~499 |
 | Periapt Alizarin | 15.00% | ~499 |
 | A Perfect Cycle | 14.00% | ~466 |
-| Recruit | 13.00% | ~432 |
+| Recruit | 13.00% | ~433 |
 | Armsman | 11.00% | ~366 |
-| Lights Army | 10.00% | ~332 |
+| Lights Army | 10.00% | ~333 |
 | Periapt Cerulean | 8.00% | ~266 |
 | Good Boy | 8.00% | ~266 |
 | Best Dressed | 6.00% | ~200 |
@@ -37,8 +37,8 @@ Rating: 4.19 (Ranked 973)
 | Armaments Azure | 4.00% | ~133 |
 | Armaments Gules | 4.00% | ~133 |
 | Armaments Vert | 3.00% | ~100 |
-| Grand Magnus | 2.00% | ~66 |
-| Veteran | 2.00% | ~66 |
+| Grand Magnus | 2.00% | ~67 |
+| Veteran | 2.00% | ~67 |
 | Master of Carmine | 1.00% | ~33 |
 | Shroudfane Surveyor | 1.00% | ~33 |
 | Tip of the Spear | 1.00% | ~33 |
@@ -46,14 +46,14 @@ Rating: 4.19 (Ranked 973)
 | Master of Ultramarine | 0.80% | ~27 |
 | Backtracker | 0.70% | ~23 |
 | Family Business | 0.60% | ~20 |
+| Petite Bourgeoisie | 0.60% | ~20 |
 | Master of Malachite | 0.60% | ~20 |
 | Diplomat | 0.50% | ~17 |
-| Petite Bourgeoisie | 0.50% | ~17 |
 | Treasure Hunter | 0.40% | ~13 |
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,325 (Ranked 227)  
+Progressed: 3,327 (Ranked 227)  
 Completed: 4 (0.12%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 4 (0.12%) (Ranked 303)
 | 2024-01-08 | 3,129 | 4 |
 | 2024-01-09 | 3,204 | 4 |
 | 2024-01-10 | 3,285 | 4 |
-| 2024-01-11 | 3,325 | 4 |
+| 2024-01-11 | 3,327 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

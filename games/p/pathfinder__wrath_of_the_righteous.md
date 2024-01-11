@@ -7,7 +7,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 27.00% | ~3,574 |
-| A Spark | 20.00% | ~2,647 |
+| A Spark | 20.00% | ~2,648 |
 | Burning City | 19.00% | ~2,515 |
 | Mythic Choices | 16.00% | ~2,118 |
 | Defender's Heart | 16.00% | ~2,118 |
@@ -25,11 +25,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Voice from Your Dreams | 5.00% | ~662 |
 | Next-Door Play | 5.00% | ~662 |
 | Get the Toad | 5.00% | ~662 |
-| Heart of the Fallen Land | 4.00% | ~529 |
-| Divide and Rule | 4.00% | ~529 |
-| Mythic Reinforcements | 4.00% | ~529 |
-| A Flame | 4.00% | ~529 |
-| Hey, I Know You! | 4.00% | ~529 |
+| Heart of the Fallen Land | 4.00% | ~530 |
+| Divide and Rule | 4.00% | ~530 |
+| Mythic Reinforcements | 4.00% | ~530 |
+| A Flame | 4.00% | ~530 |
+| Hey, I Know You! | 4.00% | ~530 |
 | Path of the Trickster | 3.00% | ~397 |
 | Path of the Lich | 3.00% | ~397 |
 | Heroic Victory | 3.00% | ~397 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,237 (Ranked 177)  
+Progressed: 13,238 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -389,10 +389,10 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 13,155 | 0 |
 | 2024-01-09 | 13,184 | 0 |
 | 2024-01-10 | 13,227 | 0 |
-| 2024-01-11 | 13,237 | 0 |
+| 2024-01-11 | 13,238 | 0 |
 ## Awards
 Max (Character Customization): 1,781  (Ranked 130)  
-Sum: 7,214 (Ranked 127)  
+Sum: 7,215 (Ranked 127)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -405,7 +405,7 @@ Diff (max vs sum): 3
 | This game has Challenging Combat | 604 |
 | This game has Quickly Understood Controls | 587 |
 | This game is Relaxing | 567 |
-| This game has a Creative Community | 406 |
+| This game has a Creative Community | 407 |
 | This game has Obsessive Gameplay | 364 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -725,4 +725,4 @@ Diff (max vs sum): 3
 | 2024-01-08 | 4.76 | - | 1,780 | 7,210 |
 | 2024-01-09 | 4.76 | - | 1,780 | 7,211 |
 | 2024-01-10 | 4.76 | - | 1,781 | 7,213 |
-| 2024-01-11 | 4.76 | - | 1,781 | 7,214 |
+| 2024-01-11 | 4.76 | - | 1,781 | 7,215 |

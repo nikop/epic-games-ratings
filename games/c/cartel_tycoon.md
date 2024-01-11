@@ -26,7 +26,7 @@ Number of Ratings: 101  (23.09.2022)
 | Iron Lady | 0.60% | ~6 |
 | Sense Of Style | 0.40% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,012 (Ranked 295)  
+Progressed: 1,012 (Ranked 296)  
 Completed: 3 (0.30%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |

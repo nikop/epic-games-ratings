@@ -2,9 +2,9 @@
   "ID": "e4e71e80487245b682ed399fa518964e",
   "Name": "Horse Racing",
   "ProductSlug": "horse-racing-4192a0",
-  "Ranking_EOS_Progress": 674,
+  "Ranking_EOS_Progress": 675,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 583,
+  "Ranking_EOS_NewPlayers": 585,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-02T18:30:00+00:00",
@@ -140,8 +140,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-30T17:03:58.2919235+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:06:16.0220924+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:04:32.9859404+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:22.4694947+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:03:42.2606166+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:06:16.0220979+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:02:47.8828926+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:04:32.985948+00:00"
 }

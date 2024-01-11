@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -413,9 +413,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 14623,
+  "EOS_Progressed": 14625,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 1390,
+  "EOS_NewPlayers": 1379,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10008,6 +10008,11 @@
       "Time": "2024-01-11T17:11:37.5404151+00:00",
       "NumProgressed": 14623,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-11T18:10:03.2202749+00:00",
+      "NumProgressed": 14625,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10028,7 +10033,7 @@
       "Name": "Baby Steps",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 5849
+      "UsersEstimate": 5850
     },
     {
       "ID": "BeLikeWater",
@@ -10060,7 +10065,7 @@
       "Name": "Connection Lost",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 3363
+      "UsersEstimate": 3364
     },
     {
       "ID": "Eavesdropper",
@@ -10090,9 +10095,9 @@
       "ID": "FirstTime",
       "SetID": "acc6ea0",
       "Name": "First Time?",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 7896
+      "UsersEstimate": 8044
     },
     {
       "ID": "FuneralForTheDeath",
@@ -10100,7 +10105,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2047
+      "UsersEstimate": 2048
     },
     {
       "ID": "GarbageMan",
@@ -10132,7 +10137,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "JackOfAllTrades",
@@ -10204,7 +10209,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "TheOldSchoolWay",
@@ -10260,7 +10265,7 @@
       "Name": "Digestive Issues",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -10291,7 +10296,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14623,
+      "Progressed": 14625,
       "Completed": 27
     }
   ],
@@ -10299,8 +10304,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-10T20:00:42.7473431+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:11:37.5404147+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:10:03.2202743+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:57:48.1639941+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:11:37.5404716+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:57:15.9526585+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:10:03.2203492+00:00"
 }

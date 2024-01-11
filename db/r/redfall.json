@@ -381,9 +381,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2361,
+  "EOS_Progressed": 2363,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4401,6 +4401,11 @@
       "Time": "2024-01-11T16:08:40.1081857+00:00",
       "NumProgressed": 2361,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T18:08:21.4674394+00:00",
+      "NumProgressed": 2363,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4436,7 +4441,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "Achievement_006",
@@ -4460,7 +4465,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "Achievement_009",
@@ -4548,7 +4553,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "Achievement_020",
@@ -4604,7 +4609,7 @@
       "Name": "Fly Fisher",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "Achievement_027",
@@ -4612,7 +4617,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "Achievement_028",
@@ -4668,7 +4673,7 @@
       "Name": "Catch and Release",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "Achievement_035",
@@ -4716,7 +4721,7 @@
       "Name": "Heart Attack",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "Achievement_041",
@@ -4876,7 +4881,7 @@
       "Name": "Helping Hand",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Achievement_064",
@@ -4932,14 +4937,14 @@
       "Name": "I Spit On Your Grave",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2361,
+      "Progressed": 2363,
       "Completed": 0
     }
   ],
@@ -4947,8 +4952,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:09:11.468508+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:08:21.4674385+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:58:15.6541278+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:09:11.4685766+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:57:33.1753514+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:08:21.4675104+00:00"
 }

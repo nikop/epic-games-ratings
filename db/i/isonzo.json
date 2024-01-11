@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1069,9 +1069,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9899,
+  "EOS_Progressed": 9900,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11014,6 +11014,11 @@
       "Time": "2024-01-11T17:10:48.5545572+00:00",
       "NumProgressed": 9899,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-11T18:09:28.0528214+00:00",
+      "NumProgressed": 9900,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11377,14 +11382,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 5048
+      "UsersEstimate": 5049
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9899,
+      "Progressed": 9900,
       "Completed": 10
     }
   ],
@@ -11392,8 +11397,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-06T21:59:00.913352+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:10:48.554557+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:09:28.0528209+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:05.1405641+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:02:38.035133+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:10:48.5546571+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:02:31.6204792+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:09:28.0529389+00:00"
 }

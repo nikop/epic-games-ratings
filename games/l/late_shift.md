@@ -8,13 +8,13 @@
 | Fair Share | 67.00% | ~707 |
 | Even Tempered | 54.00% | ~570 |
 | Star-Crossed Lovers | 46.00% | ~485 |
-| The Delivery | 43.00% | ~454 |
+| The Delivery | 44.00% | ~464 |
 | Shill Bidder | 41.00% | ~433 |
 | The Frenzy | 31.00% | ~327 |
 | Good Karma | 29.00% | ~306 |
 | Office Clerk | 26.00% | ~274 |
 | Protector | 26.00% | ~274 |
-| The Bribe | 23.00% | ~243 |
+| The Bribe | 24.00% | ~253 |
 | The Ploy | 14.00% | ~148 |
 | Interrogation | 14.00% | ~148 |
 | Sabotage | 10.00% | ~106 |
@@ -25,7 +25,7 @@
 | Proficient Storyteller | 3.00% | ~32 |
 | Expert Storyteller | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,055 (Ranked 293)  
+Progressed: 1,055 (Ranked 294)  
 Completed: 13 (1.23%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |

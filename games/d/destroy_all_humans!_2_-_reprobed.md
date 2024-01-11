@@ -15,9 +15,9 @@ Number of Ratings: 90  (23.09.2022)
 | Cult Following | 35.00% | ~143 |
 | Earthly Pleasures | 34.00% | ~139 |
 | Lie Back and Think of Albion | 28.00% | ~114 |
-| Upgreatest | 27.00% | ~110 |
+| Upgreatest | 28.00% | ~114 |
 | Pimp My Raid | 25.00% | ~102 |
-| Freshly Squeezed | 22.00% | ~90 |
+| Freshly Squeezed | 23.00% | ~94 |
 | I Look Up As I Walk to Takoshima | 20.00% | ~82 |
 | Perfect Probulator | 18.00% | ~73 |
 | Die Nasty | 18.00% | ~73 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.50% | ~2 |
 | Trans-Siberian Express | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 408 (Ranked 370)  
+Progressed: 408 (Ranked 371)  
 Completed: 2 (0.49%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |

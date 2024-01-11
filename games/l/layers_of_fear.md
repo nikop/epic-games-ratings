@@ -7,7 +7,7 @@
 | Something important | 86.00% | ~273 |
 | A piece of the story | 65.00% | ~206 |
 | It's covered up for a reason | 59.00% | ~187 |
-| Wanderer | 54.00% | ~171 |
+| Wanderer | 55.00% | ~174 |
 | Scraps of love | 51.00% | ~162 |
 | The artist’s impression | 50.00% | ~158 |
 | Do what you have to | 44.00% | ~139 |
@@ -57,7 +57,7 @@
 | Inheritance | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 317 (Ranked 393)  
+Progressed: 317 (Ranked 394)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |

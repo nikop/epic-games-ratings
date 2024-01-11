@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -2295,9 +2295,9 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 22099,
+  "EOS_Progressed": 22100,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13215,6 +13215,11 @@
       "Time": "2024-01-11T16:06:18.7081605+00:00",
       "NumProgressed": 22099,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-11T18:04:56.5375697+00:00",
+      "NumProgressed": 22100,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -13274,7 +13279,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20994
+      "UsersEstimate": 20995
     },
     {
       "ID": "GameOver",
@@ -13409,15 +13414,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 22099,
+      "Progressed": 22100,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2024-01-11T17:00:34.0858737+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:06:50.7586108+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:04:56.5375692+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:58.4708185+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:00:34.0858742+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:06:50.7586757+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:59:03.8769858+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:04:56.5376584+00:00"
 }

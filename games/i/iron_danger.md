@@ -28,7 +28,7 @@
 | Trolled | 1.00% | ~3 |
 | Troll Hunter | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 348 (Ranked 382)  
+Progressed: 348 (Ranked 383)  
 Completed: 4 (1.15%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |

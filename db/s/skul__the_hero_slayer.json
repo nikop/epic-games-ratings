@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1511,9 +1511,9 @@
       "Count": 152
     }
   ],
-  "EOS_Progressed": 14585,
+  "EOS_Progressed": 14587,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 786,
+  "EOS_NewPlayers": 785,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -9666,6 +9666,11 @@
       "Time": "2024-01-11T17:10:33.0477177+00:00",
       "NumProgressed": 14585,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-11T18:09:17.5303655+00:00",
+      "NumProgressed": 14587,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 24,
@@ -9701,7 +9706,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8751
+      "UsersEstimate": 8752
     },
     {
       "ID": "DemonCastleRestoration",
@@ -9717,7 +9722,7 @@
       "Name": "The Dwarven Chandelier",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "FakeGoddessGone",
@@ -9725,7 +9730,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 5688
+      "UsersEstimate": 5689
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -9741,7 +9746,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 3792
+      "UsersEstimate": 3793
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -9765,7 +9770,7 @@
       "Name": "The Hero Killer",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 3646
+      "UsersEstimate": 3647
     },
     {
       "ID": "LeoniasFall",
@@ -9789,7 +9794,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 5396
+      "UsersEstimate": 5397
     },
     {
       "ID": "RookieWelcome",
@@ -9797,7 +9802,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2479
+      "UsersEstimate": 2480
     },
     {
       "ID": "SavedElderEnt",
@@ -9805,7 +9810,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8751
+      "UsersEstimate": 8752
     },
     {
       "ID": "SavedElderEnt_2",
@@ -9829,7 +9834,7 @@
       "Name": "Inventory Management",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4667
+      "UsersEstimate": 4668
     },
     {
       "ID": "TheLegendBegins",
@@ -9837,7 +9842,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 13564
+      "UsersEstimate": 13566
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -9845,7 +9850,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 6855
+      "UsersEstimate": 6856
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -9861,22 +9866,22 @@
       "Name": "What should I buy?",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 11668
+      "UsersEstimate": 11670
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14585,
+      "Progressed": 14587,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-11T16:57:40.6853417+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:10:33.0477174+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:09:17.5303651+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:25.8159814+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:57:40.685342+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:10:33.0477782+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:57:11.1946184+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:09:17.5304313+00:00"
 }

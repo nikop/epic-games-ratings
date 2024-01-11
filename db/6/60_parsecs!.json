@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 822,
+  "EOS_Progressed": 823,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1221,6 +1221,11 @@
       "Time": "2024-01-11T15:08:37.6458738+00:00",
       "NumProgressed": 822,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T18:08:39.2649055+00:00",
+      "NumProgressed": 823,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -1304,7 +1309,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "Achievement_DustToDust",
@@ -1312,7 +1317,7 @@
       "Name": "Dust to Dust",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -1408,7 +1413,7 @@
       "Name": "Hello World",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "Achievement_Improvinator",
@@ -1464,7 +1469,7 @@
       "Name": "Mutiny in making",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "Achievement_Muttnik",
@@ -1528,7 +1533,7 @@
       "Name": "Space Engineer",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -1576,14 +1581,14 @@
       "Name": "Et tu, Astrocitizen?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     }
   ],
   "AchievementSets": [
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 822,
+      "Progressed": 823,
       "Completed": 1
     }
   ],
@@ -1591,8 +1596,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:09:37.8088256+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:08:39.2649051+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:53.4860847+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:02:34.5670926+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:09:37.8088759+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:02:29.4750416+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:08:39.2649369+00:00"
 }

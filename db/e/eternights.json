@@ -5,9 +5,9 @@
   "Ranking_Rating": 100,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 306,
+  "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 883,
+  "EOS_Progressed": 884,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -3284,6 +3284,11 @@
       "Time": "2024-01-11T17:10:29.2931157+00:00",
       "NumProgressed": 883,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-11T18:09:15.0729855+00:00",
+      "NumProgressed": 884,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -3296,7 +3301,7 @@
       "Name": "New arm",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -3374,9 +3379,9 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 645
+      "UsersEstimate": 654
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -3424,7 +3429,7 @@
       "Name": "LOVEassistant",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_2_FirstBond",
@@ -3432,7 +3437,7 @@
       "Name": "The First Bond",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -3440,7 +3445,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -3495,7 +3500,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 883,
+      "Progressed": 884,
       "Completed": 2
     }
   ],
@@ -3503,8 +3508,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-10T15:58:31.5106151+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:10:29.2931154+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:09:15.072985+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.7410286+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:59:47.9962307+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:10:29.2931537+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:58:34.4973045+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:09:15.0730224+00:00"
 }

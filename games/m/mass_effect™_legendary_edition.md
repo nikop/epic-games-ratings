@@ -7,7 +7,7 @@
 | Distinguished Service Medal | 90.00% | ~3,764 |
 | Spectre Inductee | 66.00% | ~2,760 |
 | Medal of Exploration I | 55.00% | ~2,300 |
-| Recruit | 51.00% | ~2,133 |
+| Recruit | 52.00% | ~2,175 |
 | Search and Rescue | 51.00% | ~2,133 |
 | Quarian Ally | 48.00% | ~2,007 |
 | Medal of Heroism | 43.00% | ~1,798 |
@@ -80,24 +80,24 @@
 | World Shaker | 18.00% | ~753 |
 | First Aid Specialist | 17.00% | ~711 |
 | Liberator | 17.00% | ~711 |
+| Savior | 16.00% | ~669 |
 | Weapon Specialist | 16.00% | ~669 |
 | Pathfinder | 16.00% | ~669 |
 | Tunnel Rat | 16.00% | ~669 |
 | Arbiter | 16.00% | ~669 |
-| Savior | 15.00% | ~627 |
 | Lost and Found | 15.00% | ~627 |
 | Paramour II | 14.00% | ~585 |
 | Party Crasher | 14.00% | ~585 |
 | Hard Target | 14.00% | ~585 |
 | Fact Finder | 14.00% | ~585 |
 | Problem Solver | 14.00% | ~585 |
+| Pyromaniac | 13.00% | ~544 |
 | Under Pressure | 13.00% | ~544 |
 | Last Resort | 13.00% | ~544 |
 | No One Left Behind | 13.00% | ~544 |
 | Saboteur | 13.00% | ~544 |
 | Last Witness | 13.00% | ~544 |
 | Well Connected | 13.00% | ~544 |
-| Pyromaniac | 12.00% | ~502 |
 | Executioner | 12.00% | ~502 |
 | Patriot | 12.00% | ~502 |
 | Master and Commander | 12.00% | ~502 |

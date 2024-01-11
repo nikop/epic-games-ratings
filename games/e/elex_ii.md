@@ -8,9 +8,9 @@ Number of Ratings: 124  (23.09.2022)
 | ---- | ---------- | ----- |
 | Entrepreneur | 43.00% | ~101 |
 | Best Buddy | 36.00% | ~85 |
-| Civilian | 33.00% | ~78 |
+| Civilian | 34.00% | ~80 |
 | Role Model | 31.00% | ~73 |
-| Creator | 27.00% | ~63 |
+| Creator | 28.00% | ~66 |
 | Festival-goer | 26.00% | ~61 |
 | Military Leader | 25.00% | ~59 |
 | Peddler | 24.00% | ~56 |
@@ -26,9 +26,9 @@ Number of Ratings: 124  (23.09.2022)
 | Alb | 10.00% | ~24 |
 | Berserker | 10.00% | ~24 |
 | Perfectionist | 9.00% | ~21 |
+| Hunter | 8.00% | ~19 |
 | Lover | 8.00% | ~19 |
 | Hotshot | 7.00% | ~16 |
-| Hunter | 7.00% | ~16 |
 | Treasure Hunter | 6.00% | ~14 |
 | Beam Me Up | 6.00% | ~14 |
 | Free as a Bird | 6.00% | ~14 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235 (Ranked 424)  
+Progressed: 235 (Ranked 425)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4809,10 +4809,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7214,
       "NumberOfAwardsMax": 1781
+    },
+    {
+      "Time": "2024-01-11T17:57:49.5611227+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7215,
+      "NumberOfAwardsMax": 1781
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7214,
+  "NumberOfAwards": 7215,
   "NumberOfAwardsMax": 1781,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4880,12 +4886,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 406
+      "Count": 407
     }
   ],
-  "EOS_Progressed": 13237,
+  "EOS_Progressed": 13238,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19548,6 +19554,11 @@
       "Time": "2024-01-11T17:11:48.8303823+00:00",
       "NumProgressed": 13237,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T18:10:12.4720871+00:00",
+      "NumProgressed": 13238,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19599,7 +19610,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "07_FinalThreshold",
@@ -19791,7 +19802,7 @@
       "Name": "Divide and Rule",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "32_MythicReinforcements",
@@ -19799,7 +19810,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "33_DefendersHeart",
@@ -19927,7 +19938,7 @@
       "Name": "A Spark",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2647
+      "UsersEstimate": 2648
     },
     {
       "ID": "49_Flame",
@@ -19935,7 +19946,7 @@
       "Name": "A Flame",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -19943,7 +19954,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -20486,21 +20497,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12019,
+      "Progressed": 12020,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13237,
+      "Progressed": 13238,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2024-01-11T13:58:04.7795935+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:11:48.8303819+00:00",
+  "LastChanged": "2024-01-11T17:57:49.5611224+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:10:12.4720867+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:50.9176644+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:58:40.6453852+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:11:48.8306339+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:57:49.5611232+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:10:12.472286+00:00"
 }

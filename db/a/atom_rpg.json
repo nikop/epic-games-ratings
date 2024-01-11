@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -421,9 +421,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 1712,
+  "EOS_Progressed": 1713,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4561,6 +4561,11 @@
       "Time": "2024-01-11T17:11:35.7532179+00:00",
       "NumProgressed": 1712,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T18:10:01.8821661+00:00",
+      "NumProgressed": 1713,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4628,7 +4633,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "EXPERT_1",
@@ -4764,7 +4769,7 @@
       "Name": "Protection racket",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "RELICTS",
@@ -4788,7 +4793,7 @@
       "Name": "Sacrifice",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "SAVANT_1",
@@ -4804,7 +4809,7 @@
       "Name": "Secret room",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "SHOG",
@@ -4859,15 +4864,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1712,
+      "Progressed": 1713,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-11T16:57:59.0826026+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:11:35.7532177+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:10:01.8821655+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:57:59.0826034+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:11:35.7532565+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:57:23.0956783+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:10:01.8822371+00:00"
 }

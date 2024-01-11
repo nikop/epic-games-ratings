@@ -25,7 +25,7 @@ Number of Ratings: 85  (23.09.2022)
 | Furon Fashion | 30.00% | ~135 |
 | Deincarnated | 29.00% | ~131 |
 | Rock of the Bay | 27.00% | ~122 |
-| Trans-Siberian Express | 24.00% | ~108 |
+| Trans-Siberian Express | 25.00% | ~113 |
 | Re-Return of the Clone of the Invasion II-2 | 19.00% | ~86 |
 | Arkvoodle Doodle | 18.00% | ~81 |
 | Ouch of Body Experience | 16.00% | ~72 |
@@ -40,14 +40,14 @@ Number of Ratings: 85  (23.09.2022)
 | PK Slam Dunk | 9.00% | ~41 |
 | Arty Facts | 8.00% | ~36 |
 | Cult Following | 6.00% | ~27 |
+| Path of the Furon | 6.00% | ~27 |
 | To Russia With Love | 5.00% | ~23 |
-| Path of the Furon | 5.00% | ~23 |
 | Transmitting From Sol-3 | 3.00% | ~14 |
 | Steezy Down the Spine | 2.00% | ~9 |
 | Toilet Break | 2.00% | ~9 |
 | Against All Odds | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 451 (Ranked 360)  
+Progressed: 451 (Ranked 362)  
 Completed: 5 (1.11%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |

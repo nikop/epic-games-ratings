@@ -22,10 +22,10 @@
 | Et in arcadia ego | 20.00% | ~18 |
 | Pulp! Adventures into the Unknown | 20.00% | ~18 |
 | The seer | 19.00% | ~17 |
+| You had one wish left | 18.00% | ~16 |
 | Welcome to Hellville | 18.00% | ~16 |
 | You've awakened the beast | 16.00% | ~15 |
 | Hate is... addictive | 16.00% | ~15 |
-| You had one wish left | 16.00% | ~15 |
 | Kirlian's best disciple | 15.00% | ~14 |
 | The bully | 14.00% | ~13 |
 | Blessed antennas | 13.00% | ~12 |
@@ -52,7 +52,7 @@
 | Pulp! Skeleton Hand | 1.00% | ~1 |
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91 (Ranked 501)  
+Progressed: 91 (Ranked 502)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |

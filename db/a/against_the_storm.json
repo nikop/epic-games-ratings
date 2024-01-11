@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3899,9 +3899,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 20683,
+  "EOS_Progressed": 20685,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 568,
+  "EOS_NewPlayers": 567,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19304,6 +19304,11 @@
       "Time": "2024-01-11T17:07:22.3266397+00:00",
       "NumProgressed": 20683,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-11T18:05:17.8636557+00:00",
+      "NumProgressed": 20685,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19428,7 +19433,7 @@
       "Name": "Ruined Armory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "WinNearBandit",
@@ -19436,7 +19441,7 @@
       "Name": "Bandit Camp",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "WinNearBarren",
@@ -19452,7 +19457,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "WinNearCrystals",
@@ -19508,7 +19513,7 @@
       "Name": "Levitating Monument",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "WinNearMines",
@@ -19540,7 +19545,7 @@
       "Name": "Lost Colonies",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "WinNearStatue",
@@ -19548,7 +19553,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "WinNearTemple",
@@ -19564,7 +19569,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "WinNearWatchtower",
@@ -19588,7 +19593,7 @@
       "Name": "Cursed Lands",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "WinOnMarshlands",
@@ -19652,7 +19657,7 @@
       "Name": "Taking Action",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1861
+      "UsersEstimate": 1862
     },
     {
       "ID": "WinWithResolve",
@@ -19684,7 +19689,7 @@
       "Name": "Trade Baron",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "WinWithoutDeath",
@@ -19716,7 +19721,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1861
+      "UsersEstimate": 1862
     },
     {
       "ID": "WinNearFrosts",
@@ -19740,7 +19745,7 @@
       "Name": "Overgrown Library",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1861
+      "UsersEstimate": 1862
     },
     {
       "ID": "WinNearPetrified",
@@ -19772,7 +19777,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "WinWithFoxes",
@@ -19787,15 +19792,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20683,
+      "Progressed": 20685,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-10T21:58:45.168716+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:07:22.3266394+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:05:17.8636554+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:00:33.9103959+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:07:22.3267644+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:59:03.8228839+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:05:17.8637644+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 552,
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 531,
-  "Ranking_EOS_Progress": 370,
+  "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -2063,9 +2063,9 @@
       "ID": "ACH_KILL_ORANCHOV",
       "SetID": "4n84pon",
       "Name": "Freshly Squeezed",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 90
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -2127,9 +2127,9 @@
       "ID": "ACH_PURCHASE_CAPSTONE",
       "SetID": "4n84pon",
       "Name": "Upgreatest",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -2232,8 +2232,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:10:39.7524699+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:09:22.1779615+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:00:17.387051+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:10:39.7525018+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:58:54.0406785+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:09:22.1780008+00:00"
 }

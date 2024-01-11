@@ -2,9 +2,9 @@
   "ID": "d93cf08971eb4920862a95870a051f81",
   "Name": "Sail Forth",
   "ProductSlug": "sail-forth-51847e",
-  "Ranking_EOS_Progress": 731,
+  "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 583,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-21T19:00:00+00:00",
@@ -31,15 +31,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 1449,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1447,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-01-05T21:08:57.0505906+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T18:08:43.7061345+00:00",
+      "NumProgressed": 1449,
       "NumCompleted": 0
     }
   ],
@@ -171,9 +176,9 @@
       "ID": "CompleteFishCollection",
       "SetID": "aem3h3o",
       "Name": "Hook, Line and Stinker",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "CompleteFishCollectionHalf",
@@ -219,9 +224,9 @@
       "ID": "CompleteTutorial",
       "SetID": "aem3h3o",
       "Name": "Tootorial",
-      "Percentage": 0,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 435
     },
     {
       "ID": "EnemyBoatBurn",
@@ -259,9 +264,9 @@
       "ID": "FirstRaceWin",
       "SetID": "aem3h3o",
       "Name": "Race In Yo Face",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FirstTargetCourseWin",
@@ -275,9 +280,9 @@
       "ID": "GameplayBoardShip",
       "SetID": "aem3h3o",
       "Name": "Boarding Party",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GameplayCaptureTekkTanker",
@@ -291,17 +296,17 @@
       "ID": "GameplayGoodWind",
       "SetID": "aem3h3o",
       "Name": "Wind Master",
-      "Percentage": 0,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 232
     },
     {
       "ID": "GameplaySinkShip",
       "SetID": "aem3h3o",
       "Name": "Davy Jones",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "GetFishTip",
@@ -428,7 +433,7 @@
     {
       "ID": "aem3h3o",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 1449,
       "Completed": 0
     }
   ],
@@ -436,8 +441,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.4374953+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.5284182+00:00",
   "LastChanged": "2023-03-31T05:58:32.4374954+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:09:44.3095778+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:08:43.7061337+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:43.0879821+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:02:09.2215449+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:09:44.3096161+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:00:03.8125595+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:08:43.7061785+00:00"
 }

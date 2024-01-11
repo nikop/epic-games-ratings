@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -1005,9 +1005,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7535,
+  "EOS_Progressed": 7536,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9725,6 +9725,11 @@
       "Time": "2024-01-11T15:10:04.5137696+00:00",
       "NumProgressed": 7535,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T18:10:06.4723536+00:00",
+      "NumProgressed": 7536,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9776,7 +9781,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4521
+      "UsersEstimate": 4522
     },
     {
       "ID": "Control_All_Relics",
@@ -9840,7 +9845,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5802
+      "UsersEstimate": 5803
     },
     {
       "ID": "First_Race_Met",
@@ -9848,7 +9853,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5425
+      "UsersEstimate": 5426
     },
     {
       "ID": "First_Ship_Designed",
@@ -9856,7 +9861,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2035
     },
     {
       "ID": "First_Stream_Travel",
@@ -9952,7 +9957,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "Play_1000_Hours",
@@ -10040,7 +10045,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -10056,7 +10061,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4521
+      "UsersEstimate": 4522
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -10311,15 +10316,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7535,
+      "Progressed": 7536,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-06T21:59:17.2587846+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:11:41.6043922+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:10:06.472353+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8294647+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:02:22.0850325+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:11:41.6044794+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:57:02.3001895+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:10:06.4724782+00:00"
 }

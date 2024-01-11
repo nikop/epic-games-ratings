@@ -5,15 +5,15 @@ Rating: 4.69 (Ranked 238)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~16,186 |
-| I Challenge You To Save More Money! | 81.00% | ~14,898 |
-| I Love How Tough You Are | 65.00% | ~11,955 |
-| Wanna Come To My Place For Dinner? | 58.00% | ~10,668 |
-| What I Want Is You | 53.00% | ~9,748 |
-| To Be Or Not To Be | 50.00% | ~9,196 |
+| Last Night...Did We... | 88.00% | ~16,187 |
+| I Challenge You To Save More Money! | 81.00% | ~14,899 |
+| I Love How Tough You Are | 65.00% | ~11,956 |
+| Wanna Come To My Place For Dinner? | 58.00% | ~10,669 |
+| What I Want Is You | 53.00% | ~9,749 |
+| To Be Or Not To Be | 50.00% | ~9,197 |
 | Are You Alright? | 47.00% | ~8,645 |
-| Love Actually | 41.00% | ~7,541 |
-| Drama King | 36.00% | ~6,621 |
+| Love Actually | 41.00% | ~7,542 |
+| Drama King | 36.00% | ~6,622 |
 | Go Clean up In Your Own Way | 33.00% | ~6,070 |
 | You're Really Something Else | 32.00% | ~5,886 |
 | Drama CP: Reel to Real | 31.00% | ~5,702 |
@@ -26,7 +26,7 @@ Rating: 4.69 (Ranked 238)
 | Days Of Innocence | 26.00% | ~4,782 |
 | David | 26.00% | ~4,782 |
 | Go Get Some Fries On The Pier | 25.00% | ~4,598 |
-| That's So You | 22.00% | ~4,046 |
+| That's So You | 22.00% | ~4,047 |
 | All I Have Is Money | 21.00% | ~3,863 |
 | Lover In Dark Alley | 21.00% | ~3,863 |
 | A Slap In The Face! | 21.00% | ~3,863 |
@@ -38,9 +38,9 @@ Rating: 4.69 (Ranked 238)
 | Doesn't Matter I'll Handle It | 12.00% | ~2,207 |
 | The Flash | 11.00% | ~2,023 |
 | New Yoga Pose Unlocked | 10.00% | ~1,839 |
-| My Dear Love! | 8.00% | ~1,471 |
-| Counting Sheep? | 8.00% | ~1,471 |
-| This Ain't Right In Many Ways... | 8.00% | ~1,471 |
+| My Dear Love! | 8.00% | ~1,472 |
+| Counting Sheep? | 8.00% | ~1,472 |
+| This Ain't Right In Many Ways... | 8.00% | ~1,472 |
 | Life Is A Rollercoaster | 7.00% | ~1,288 |
 | Boys Need To Protect Themselves | 7.00% | ~1,288 |
 | Stubborn Noob | 7.00% | ~1,288 |
@@ -48,7 +48,7 @@ Rating: 4.69 (Ranked 238)
 | Tall; Grande; Venti | 2.00% | ~368 |
 | Limerence | 2.00% | ~368 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,393 (Ranked 160)  
+Progressed: 18,394 (Ranked 160)  
 Completed: 316 (1.72%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 316 (1.72%) (Ranked 144)
 | 2024-01-08 | 18,078 | 308 |
 | 2024-01-09 | 18,177 | 311 |
 | 2024-01-10 | 18,309 | 316 |
-| 2024-01-11 | 18,393 | 316 |
+| 2024-01-11 | 18,394 | 316 |
 ## Awards
 Max (Impact the Story): 36  (Ranked 499)  
 Sum: 36 (Ranked 531)  

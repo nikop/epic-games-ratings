@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9481,9 +9481,9 @@
       "Count": 3635
     }
   ],
-  "EOS_Progressed": 253374,
+  "EOS_Progressed": 253380,
   "EOS_Completed": 2612,
-  "EOS_NewPlayers": 2502,
+  "EOS_NewPlayers": 2475,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39661,6 +39661,11 @@
       "Time": "2024-01-11T17:11:52.8162012+00:00",
       "NumProgressed": 253374,
       "NumCompleted": 2612
+    },
+    {
+      "Time": "2024-01-11T18:10:15.8626734+00:00",
+      "NumProgressed": 253380,
+      "NumCompleted": 2612
     }
   ],
   "TotalAchievements": 546,
@@ -40040,7 +40045,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5067
+      "UsersEstimate": 5068
     },
     {
       "ID": "objective_completed_110",
@@ -40776,7 +40781,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "objective_completed_149",
@@ -40864,7 +40869,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "objective_completed_165",
@@ -41000,7 +41005,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "objective_completed_20",
@@ -41344,7 +41349,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5067
+      "UsersEstimate": 5068
     },
     {
       "ID": "objective_completed_34",
@@ -41360,7 +41365,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "objective_completed_36",
@@ -41816,7 +41821,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "objective_completed_540",
@@ -42216,7 +42221,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "objective_completed_60",
@@ -42744,7 +42749,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "objective_completed_690",
@@ -44039,21 +44044,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219648,
+      "Progressed": 219654,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253374,
+      "Progressed": 253380,
       "Completed": 2612
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-11T17:00:16.5813932+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:11:52.8162008+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:10:15.862673+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:00:16.5813938+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:11:52.8187325+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:58:53.5812743+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:10:15.8651355+00:00"
 }

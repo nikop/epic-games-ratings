@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -307,9 +307,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 18393,
+  "EOS_Progressed": 18394,
   "EOS_Completed": 316,
-  "EOS_NewPlayers": 845,
+  "EOS_NewPlayers": 844,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
@@ -9602,6 +9602,11 @@
       "Time": "2024-01-11T17:11:05.6719534+00:00",
       "NumProgressed": 18393,
       "NumCompleted": 316
+    },
+    {
+      "Time": "2024-01-11T18:09:40.519178+00:00",
+      "NumProgressed": 18394,
+      "NumCompleted": 316
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -9614,7 +9619,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 16186
+      "UsersEstimate": 16187
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -9622,7 +9627,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 14898
+      "UsersEstimate": 14899
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -9630,7 +9635,7 @@
       "Name": "My Dear Love!",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -9710,7 +9715,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 11955
+      "UsersEstimate": 11956
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -9750,7 +9755,7 @@
       "Name": "Love Actually",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 7541
+      "UsersEstimate": 7542
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -9774,7 +9779,7 @@
       "Name": "Counting Sheep?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
@@ -9798,7 +9803,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 10668
+      "UsersEstimate": 10669
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -9822,7 +9827,7 @@
       "Name": "What I Want Is You",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 9748
+      "UsersEstimate": 9749
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -9830,7 +9835,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 9196
+      "UsersEstimate": 9197
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -9902,7 +9907,7 @@
       "Name": "That\u0027s So You",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4046
+      "UsersEstimate": 4047
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_5",
@@ -9926,7 +9931,7 @@
       "Name": "Drama King",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6621
+      "UsersEstimate": 6622
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -9934,7 +9939,7 @@
       "Name": "This Ain\u0027t Right In Many Ways...",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_9",
@@ -9949,7 +9954,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 18393,
+      "Progressed": 18394,
       "Completed": 316
     }
   ],
@@ -9957,8 +9962,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-10T01:46:44.8636325+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:11:05.671953+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:09:40.5191776+00:00",
   "LastUpdate_AppInfo": "2024-01-06T03:57:10.1244373+00:00",
-  "LastUpdate_Ratings": "2024-01-11T16:59:42.8923157+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:11:05.6720113+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:58:30.2011134+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:09:40.5192624+00:00"
 }

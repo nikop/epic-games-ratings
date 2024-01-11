@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1878,
+  "EOS_Progressed": 1879,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5013,6 +5013,11 @@
       "Time": "2024-01-11T07:09:50.6055274+00:00",
       "NumProgressed": 1878,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T18:09:35.2294045+00:00",
+      "NumProgressed": 1879,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5104,7 +5109,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -5214,9 +5219,9 @@
       "ID": "NEW_ACHIEVEMENT_GARDENER",
       "SetID": "l546gc",
       "Name": "Gardener",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 488
+      "UsersEstimate": 470
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -5270,9 +5275,9 @@
       "ID": "NEW_ACHIEVEMENT_MINER",
       "SetID": "l546gc",
       "Name": "Miner",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 488
+      "UsersEstimate": 470
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -5296,7 +5301,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -5407,7 +5412,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1878,
+      "Progressed": 1879,
       "Completed": 0
     }
   ],
@@ -5415,8 +5420,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2024-01-09T16:02:23.0830001+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:10:58.6257459+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:09:35.2294036+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.830509+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:03:40.0983293+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:10:58.6257916+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:02:46.52445+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:09:35.2294522+00:00"
 }

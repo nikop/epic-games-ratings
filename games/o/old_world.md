@@ -8,23 +8,23 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Settler | 3.00% | ~493 |
 | Play a Single Player Game | 3.00% | ~493 |
-| Able | 2.00% | ~328 |
-| Architect | 2.00% | ~328 |
-| Explorer | 2.00% | ~328 |
-| Good | 2.00% | ~328 |
-| Intrepid | 2.00% | ~328 |
-| Just | 2.00% | ~328 |
-| Keystone | 2.00% | ~328 |
-| Learned | 2.00% | ~328 |
-| Mason | 2.00% | ~328 |
-| Noble | 2.00% | ~328 |
-| Pioneer | 2.00% | ~328 |
-| Strong | 2.00% | ~328 |
-| Friendly Family | 2.00% | ~328 |
-| Hanging Gardens | 2.00% | ~328 |
-| Oracle | 2.00% | ~328 |
-| Judaism | 2.00% | ~328 |
-| Trade Caravan | 2.00% | ~328 |
+| Able | 2.00% | ~329 |
+| Architect | 2.00% | ~329 |
+| Explorer | 2.00% | ~329 |
+| Good | 2.00% | ~329 |
+| Intrepid | 2.00% | ~329 |
+| Just | 2.00% | ~329 |
+| Keystone | 2.00% | ~329 |
+| Learned | 2.00% | ~329 |
+| Mason | 2.00% | ~329 |
+| Noble | 2.00% | ~329 |
+| Pioneer | 2.00% | ~329 |
+| Strong | 2.00% | ~329 |
+| Friendly Family | 2.00% | ~329 |
+| Hanging Gardens | 2.00% | ~329 |
+| Oracle | 2.00% | ~329 |
+| Judaism | 2.00% | ~329 |
+| Trade Caravan | 2.00% | ~329 |
 | Ambitious | 1.00% | ~164 |
 | Brilliant | 1.00% | ~164 |
 | Enlightened | 1.00% | ~164 |
@@ -53,12 +53,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 1.00% | ~164 |
 | Naming Landmarks | 1.00% | ~164 |
 | Regicide | 0.90% | ~148 |
+| Drillmaster | 0.90% | ~148 |
 | Wise | 0.90% | ~148 |
 | Acropolis | 0.90% | ~148 |
 | Musaeum | 0.90% | ~148 |
 | Manichaeism | 0.90% | ~148 |
 | Egyptian Paganism | 0.90% | ~148 |
-| Drillmaster | 0.80% | ~131 |
 | Legendary Cities | 0.80% | ~131 |
 | Just Difficulty | 0.80% | ~131 |
 | Mausoleum | 0.80% | ~131 |
@@ -75,6 +75,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 0.60% | ~99 |
 | Good Difficulty | 0.60% | ~99 |
 | Champions | 0.60% | ~99 |
+| Patrons | 0.60% | ~99 |
 | Statesmen | 0.60% | ~99 |
 | Greece | 0.60% | ~99 |
 | Power to the People | 0.60% | ~99 |
@@ -84,7 +85,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.50% | ~82 |
 | Victorious | 0.50% | ~82 |
 | Landowners | 0.50% | ~82 |
-| Patrons | 0.50% | ~82 |
 | Riders | 0.50% | ~82 |
 | Traders | 0.50% | ~82 |
 | Hittite Iron | 0.50% | ~82 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,422 (Ranked 169)  
+Progressed: 16,429 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -631,7 +631,7 @@ Completed: 5 (0.03%) (Ranked 355)
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
-| 2024-01-11 | 16,422 | 5 |
+| 2024-01-11 | 16,429 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,920 (Ranked 224)  

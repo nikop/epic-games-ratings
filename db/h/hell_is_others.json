@@ -1471,9 +1471,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260525,
+  "EOS_Progressed": 260527,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 317,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26926,6 +26926,11 @@
       "Time": "2024-01-11T17:08:43.4608391+00:00",
       "NumProgressed": 260525,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-11T18:06:12.996545+00:00",
+      "NumProgressed": 260527,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -26977,7 +26982,7 @@
       "Name": "By a hair",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5210
+      "UsersEstimate": 5211
     },
     {
       "ID": "BackHomeFirstTime",
@@ -27041,7 +27046,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26052
+      "UsersEstimate": 26053
     },
     {
       "ID": "CreditLevel2",
@@ -27201,7 +27206,7 @@
       "Name": "Samurai",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5210
+      "UsersEstimate": 5211
     },
     {
       "ID": "KillOtherWithLowHealth",
@@ -27217,7 +27222,7 @@
       "Name": "I Left You a Present",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5210
+      "UsersEstimate": 5211
     },
     {
       "ID": "KillOthers1",
@@ -27249,7 +27254,7 @@
       "Name": "Truffle Dog",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5210
+      "UsersEstimate": 5211
     },
     {
       "ID": "KillVengefulThingWithMeleeAndSurvive",
@@ -27257,7 +27262,7 @@
       "Name": "Don\u0027t try this at home",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5210
+      "UsersEstimate": 5211
     },
     {
       "ID": "MaxImagoLevel",
@@ -27329,7 +27334,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26052
+      "UsersEstimate": 26053
     },
     {
       "ID": "ReachNDays2",
@@ -27337,7 +27342,7 @@
       "Name": "A month in Century City",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5210
+      "UsersEstimate": 5211
     },
     {
       "ID": "ReachNDays3",
@@ -27384,7 +27389,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260525,
+      "Progressed": 260527,
       "Completed": 3
     }
   ],
@@ -27392,8 +27397,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-10T22:58:42.0323139+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:08:43.4608389+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:06:12.9965445+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:32.9058213+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:00:38.8983109+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:08:43.461017+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:59:07.0163673+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:06:12.9966789+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "552a139c67e949ea8f8ea9a1d9d81cdb",
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
-  "Ranking_EOS_Progress": 254,
+  "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1938,
+  "EOS_Progressed": 1939,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4952,6 +4952,11 @@
       "Time": "2024-01-11T17:08:39.8782193+00:00",
       "NumProgressed": 1938,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T18:06:10.5567206+00:00",
+      "NumProgressed": 1939,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4962,9 +4967,9 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "5k00jcd",
       "Name": "Rookie",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 310
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4980,7 +4985,7 @@
       "Name": "Out of control",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -5220,7 +5225,7 @@
       "Name": "Spin the wheel",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -5331,20 +5336,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1938,
+      "Progressed": 1939,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1606,
+      "Progressed": 1607,
       "Completed": 1013
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-11T17:08:39.8782188+00:00",
+  "LastChanged_Achievements": "2024-01-11T18:06:10.5567201+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.6791346+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:00:59.0114907+00:00",
-  "LastUpdate_Achievements": "2024-01-11T17:08:39.8783196+00:00"
+  "LastUpdate_Ratings": "2024-01-11T17:59:19.9594668+00:00",
+  "LastUpdate_Achievements": "2024-01-11T18:06:10.5567845+00:00"
 }

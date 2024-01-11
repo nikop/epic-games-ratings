@@ -25,8 +25,8 @@ Rating: 4.14 (Ranked 1,008)
 | The Mentor | 10.00% | ~223 |
 | Calm before the Storm | 9.00% | ~201 |
 | To Battle | 8.00% | ~179 |
+| Godslayer | 8.00% | ~179 |
 | Airborne | 8.00% | ~179 |
-| Godslayer | 7.00% | ~156 |
 | Miner | 7.00% | ~156 |
 | Clear Sight | 4.00% | ~89 |
 | Shatterer | 4.00% | ~89 |
@@ -42,7 +42,7 @@ Rating: 4.14 (Ranked 1,008)
 | All That Gold | 0.80% | ~18 |
 | Feeling Fancy | 0.40% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,233 (Ranked 245)  
+Progressed: 2,234 (Ranked 245)  
 Completed: 4 (0.18%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 4 (0.18%) (Ranked 282)
 | 2024-01-08 | 2,086 | 3 |
 | 2024-01-09 | 2,146 | 3 |
 | 2024-01-10 | 2,213 | 4 |
-| 2024-01-11 | 2,233 | 4 |
+| 2024-01-11 | 2,234 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
