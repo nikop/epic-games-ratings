@@ -620,6 +620,7 @@
 | [Rise of Industry](../games/r/rise_of_industry.md) | 27 | 1,000 |
 | [Rise of the Third Power](../games/r/rise_of_the_third_power.md) | 21 | 1,000 |
 | [Risen](../games/r/risen.md) | 50 | 1,000 |
+| [River City Girls](../games/a/a02304688fb3406192a3491b4281bee7.md) | 28 | 1,000 |
 | [Riverbond](../games/r/riverbond.md) | 57 | 1,000 |
 | [Road 96](../games/r/road_96.md) | 12 | 1,000 |
 | [Road 96: Mile 0](../games/r/road_96__mile_0.md) | 15 | 1,000 |

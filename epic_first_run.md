@@ -1,6 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 1,830 | - | 0 |
+| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 1,919 | - | 0 |
 | [Sipher Odyssey](games/6/64ece5ee89d84cb99ddd8929fa957a30.md) | 2024-06-30 | - |  | - | - |
 | [Blood Rush](games/d/d65e7e627d1a472b9821ea0985ab729d.md) | 2099-01-01 | - |  | - | - |
 | [The Watch](games/d/d42e6e432a35491e8ba1fe5150912641.md) | 2099-01-01 | - |  | - | - |
@@ -29,7 +29,7 @@
 | [Knowledge Party](games/f/f079b0c7395a487fb6151891e6d6faa8.md) | 2099-01-01 | - |  | - | - |
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2024-03-31 | - |  | - | - |
 | [dHexUs](games/1/18ce5f915fb44c1c957951439af675fb.md) | 2099-01-01 | - |  | - | - |
-| [Trash Troopers Earth Reclaim](games/4/403db5711e5047ef8407ba1ab1fb944a.md) | 2023-10-26 | 8 (1,000 XP) | 30 | - | 0 |
+| [Trash Troopers Earth Reclaim](games/4/403db5711e5047ef8407ba1ab1fb944a.md) | 2023-10-26 | 8 (1,000 XP) | 31 | - | 0 |
 | [SCP Horror Series 2](games/7/72aad6a073a644afb21d0966e2737c42.md) | 2099-01-01 | - |  | - | - |
 | [Avalon The Game](games/c/c1e86ca0e67349d1b6c62d3f23cda1d5.md) | 2024-12-31 | - |  | - | - |
 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2023-10-20 | 5 (1,000 XP) | 169 | - | 0 |

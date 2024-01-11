@@ -481,6 +481,7 @@
 | [MultiVersus](../games/m/multiversus.md) | 28 | 1,000 |
 | [One Hand Clapping](../games/o/one_hand_clapping.md) | 28 | 1,000 |
 | [Overpass 2](../games/e/e7a7820e516744b88212c1f78aa895df.md) | 28 | 1,000 |
+| [River City Girls](../games/a/a02304688fb3406192a3491b4281bee7.md) | 28 | 1,000 |
 | [Sherlock Holmes The Awakened](../games/s/sherlock_holmes_the_awakened.md) | 28 | 1,000 |
 | [SteamWorld Build](../games/s/steamworld_build.md) | 28 | 1,000 |
 | [The Bunker](../games/t/the_bunker.md) | 28 | 1,000 |
