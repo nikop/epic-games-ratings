@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 407,
+  "EOS_Progressed": 408,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -1856,6 +1856,11 @@
       "Time": "2024-01-11T14:09:19.3885304+00:00",
       "NumProgressed": 407,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-11T16:10:09.9458792+00:00",
+      "NumProgressed": 408,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1868,7 +1873,7 @@
       "Name": "Mash Machine",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1900,7 +1905,7 @@
       "Name": "Furon Fashion",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1940,7 +1945,7 @@
       "Name": "Cult Following",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -2004,7 +2009,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -2020,7 +2025,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -2052,7 +2057,7 @@
       "Name": "Lobster Blisque",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_KILL_ORANCHOV",
@@ -2116,15 +2121,15 @@
       "Name": "Earthly Pleasures",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
       "SetID": "4n84pon",
       "Name": "Upgreatest",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -2140,7 +2145,7 @@
       "Name": "Re-Return of the Clone of the Invasion II-2",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_SKATE_ALBION",
@@ -2154,9 +2159,9 @@
       "ID": "ACH_SKATE_AWAY_FROM_SPORE",
       "SetID": "4n84pon",
       "Name": "Dusted",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -2202,9 +2207,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 163
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2219,7 +2224,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 407,
+      "Progressed": 408,
       "Completed": 2
     }
   ],
@@ -2227,8 +2232,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-11T15:09:20.2830916+00:00",
+  "LastChanged_Achievements": "2024-01-11T16:10:09.9458788+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:59:00.0170335+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:09:20.2831293+00:00"
+  "LastUpdate_Ratings": "2024-01-11T15:59:58.6998024+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:10:09.945916+00:00"
 }

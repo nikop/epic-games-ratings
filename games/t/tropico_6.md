@@ -6,25 +6,25 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~5,165 |
-| Un-Lonely Island | 44.00% | ~3,113 |
-| The Beginning of a Servantship | 43.00% | ~3,043 |
-| Trade Is My Trait | 35.00% | ~2,477 |
-| Number 18 | 23.00% | ~1,627 |
+| Just One...More...Term... | 73.00% | ~5,168 |
+| Un-Lonely Island | 44.00% | ~3,115 |
+| The Beginning of a Servantship | 43.00% | ~3,044 |
+| Trade Is My Trait | 35.00% | ~2,478 |
+| Number 18 | 23.00% | ~1,628 |
 | We Don't Have Time For That | 18.00% | ~1,274 |
-| The Legend of Langostino | 16.00% | ~1,132 |
-| The Governator | 16.00% | ~1,132 |
-| Caribbean Comrade | 15.00% | ~1,061 |
-| The Dreamer of Dreams | 15.00% | ~1,061 |
-| Go Sovereigns! | 11.00% | ~778 |
+| The Legend of Langostino | 16.00% | ~1,133 |
+| The Governator | 16.00% | ~1,133 |
+| Caribbean Comrade | 15.00% | ~1,062 |
+| The Dreamer of Dreams | 15.00% | ~1,062 |
 | Happy Ending? | 10.00% | ~708 |
+| Go Sovereigns! | 10.00% | ~708 |
 | For Science! | 10.00% | ~708 |
 | Of Seals And Men | 9.00% | ~637 |
 | Shackadelic | 9.00% | ~637 |
 | Double Trouble | 8.00% | ~566 |
-| Firestarter | 7.00% | ~495 |
-| Make Tropico Great Again! | 7.00% | ~495 |
-| French Connection | 7.00% | ~495 |
+| Firestarter | 7.00% | ~496 |
+| Make Tropico Great Again! | 7.00% | ~496 |
+| French Connection | 7.00% | ~496 |
 | Don't Panic! | 6.00% | ~425 |
 | I Owe You Nothing | 6.00% | ~425 |
 | Computer Says "No" | 5.00% | ~354 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~57 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,076 (Ranked 197)  
+Progressed: 7,080 (Ranked 197)  
 Completed: 2 (0.03%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 2 (0.03%) (Ranked 355)
 | 2024-01-08 | 7,016 | 2 |
 | 2024-01-09 | 7,043 | 2 |
 | 2024-01-10 | 7,069 | 2 |
-| 2024-01-11 | 7,076 | 2 |
+| 2024-01-11 | 7,080 | 2 |
 ## Awards
 Max (Highly Recommended): 107  (Ranked 371)  
 Sum: 759 (Ranked 302)  

@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 3.00% | ~492 |
-| Play a Single Player Game | 3.00% | ~492 |
+| Settler | 3.00% | ~493 |
+| Play a Single Player Game | 3.00% | ~493 |
 | Able | 2.00% | ~328 |
 | Architect | 2.00% | ~328 |
 | Explorer | 2.00% | ~328 |
@@ -71,16 +71,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 0.70% | ~115 |
 | Learn to Play 3 | 0.70% | ~115 |
 | Building Wonders | 0.70% | ~115 |
-| Beloved | 0.60% | ~98 |
-| Mighty | 0.60% | ~98 |
-| Good Difficulty | 0.60% | ~98 |
-| Champions | 0.60% | ~98 |
-| Statesmen | 0.60% | ~98 |
-| Greece | 0.60% | ~98 |
-| Power to the People | 0.60% | ~98 |
-| Persian Paganism | 0.60% | ~98 |
-| Points Victory | 0.60% | ~98 |
-| Win a Single Player Game | 0.60% | ~98 |
+| Beloved | 0.60% | ~99 |
+| Mighty | 0.60% | ~99 |
+| Good Difficulty | 0.60% | ~99 |
+| Champions | 0.60% | ~99 |
+| Statesmen | 0.60% | ~99 |
+| Greece | 0.60% | ~99 |
+| Power to the People | 0.60% | ~99 |
+| Persian Paganism | 0.60% | ~99 |
+| Points Victory | 0.60% | ~99 |
+| Win a Single Player Game | 0.60% | ~99 |
 | Victorious | 0.50% | ~82 |
 | Landowners | 0.50% | ~82 |
 | Patrons | 0.50% | ~82 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,414 (Ranked 169)  
+Progressed: 16,417 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -631,7 +631,7 @@ Completed: 5 (0.03%) (Ranked 355)
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
-| 2024-01-11 | 16,414 | 5 |
+| 2024-01-11 | 16,417 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,919 (Ranked 224)  

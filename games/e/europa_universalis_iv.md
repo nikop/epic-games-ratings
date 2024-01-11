@@ -1,15 +1,15 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 237)  
+Rating: 4.69 (Ranked 238)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Until death do us apart | 0.60% | ~2,980 |
-| That's a Grand Army | 0.50% | ~2,483 |
-| That is mine! | 0.50% | ~2,483 |
-| Victorious! | 0.50% | ~2,483 |
+| That's a Grand Army | 0.50% | ~2,484 |
+| That is mine! | 0.50% | ~2,484 |
+| Victorious! | 0.50% | ~2,484 |
 | Brothers in Arms | 0.40% | ~1,987 |
 | That's a Grand Navy | 0.40% | ~1,987 |
 | Seriously?! | 0.40% | ~1,987 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 496,686 (Ranked 42)  
+Progressed: 496,713 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -636,7 +636,7 @@ Completed: 1 (0.00%) (Ranked 397)
 | 2024-01-08 | 495,265 | 1 |
 | 2024-01-09 | 495,855 | 1 |
 | 2024-01-10 | 496,402 | 1 |
-| 2024-01-11 | 496,686 | 1 |
+| 2024-01-11 | 496,713 | 1 |
 ## Awards
 Max (Educational): 7,790  (Ranked 52)  
 Sum: 64,265 (Ranked 24)  

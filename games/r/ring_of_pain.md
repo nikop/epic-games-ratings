@@ -6,7 +6,7 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 1.00% | ~2,428 |
+| First Steps | 2.00% | ~4,855 |
 | Nothing To Lose | 1.00% | ~2,428 |
 | Heavy Hitter | 1.00% | ~2,428 |
 | Getting A Glimpse | 1.00% | ~2,428 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,771 (Ranked 73)  
+Progressed: 242,772 (Ranked 73)  
 Completed: 305 (0.13%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -411,16 +411,16 @@ Completed: 305 (0.13%) (Ranked 300)
 | 2024-01-08 | 242,637 | 304 |
 | 2024-01-09 | 242,696 | 304 |
 | 2024-01-10 | 242,736 | 305 |
-| 2024-01-11 | 242,771 | 305 |
+| 2024-01-11 | 242,772 | 305 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 139)  
-Sum: 11,792 (Ranked 89)  
+Sum: 11,794 (Ranked 89)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,534 |
 | This game has Quickly Understood Controls | 1,514 |
-| This game is Relaxing | 1,449 |
+| This game is Relaxing | 1,451 |
 | This game has Challenging Combat | 1,447 |
 | This game is Extremely Fun | 1,426 |
 | This game is Highly Recommended | 1,397 |
@@ -685,4 +685,4 @@ Diff (max vs sum): 50
 | 2024-01-06 | 4.58 | - | 1,514 | 11,788 |
 | 2024-01-09 | 4.58 | - | 1,514 | 11,790 |
 | 2024-01-10 | 4.58 | - | 1,514 | 11,791 |
-| 2024-01-11 | 4.58 | - | 1,514 | 11,792 |
+| 2024-01-11 | 4.58 | - | 1,514 | 11,794 |

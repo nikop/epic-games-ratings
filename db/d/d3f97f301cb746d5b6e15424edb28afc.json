@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -4805,9 +4805,9 @@
       "ID": "ACH_FEED_GATOR",
       "SetID": "5fn8ia4",
       "Name": "Feed the Beast",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 670
+      "UsersEstimate": 687
     },
     {
       "ID": "ACH_FISH",
@@ -5005,9 +5005,9 @@
       "ID": "GSS_ACH_21_LOCKPICKING_01",
       "SetID": "5fn8ia4",
       "Name": "Thief!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1492
     },
     {
       "ID": "GSS_ACH_22_LOCKPICKING_02",
@@ -5293,9 +5293,9 @@
       "ID": "GSS_ACH_58_UPGRADE_WAREHOUSE_03",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 3",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 771
+      "UsersEstimate": 788
     },
     {
       "ID": "GSS_ACH_59_UPGRADE_WAREHOUSE_04",
@@ -5502,8 +5502,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-05T19:59:54.3830999+00:00",
-  "LastChanged_Achievements": "2024-01-11T15:06:00.294911+00:00",
+  "LastChanged_Achievements": "2024-01-11T16:07:27.9330053+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.4325477+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:59:18.5032507+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:06:00.2950106+00:00"
+  "LastUpdate_Ratings": "2024-01-11T16:00:27.4748699+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:07:27.9331225+00:00"
 }

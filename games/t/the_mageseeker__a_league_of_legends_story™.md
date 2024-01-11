@@ -5,20 +5,20 @@ Rating: 4.77 (Ranked 117)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,247 |
-| No more cages! | 90.00% | ~3,076 |
-| Everfrost | 77.00% | ~2,632 |
+| For Demacia | 95.00% | ~3,248 |
+| No more cages! | 90.00% | ~3,077 |
+| Everfrost | 76.00% | ~2,598 |
 | Dark Forest | 76.00% | ~2,598 |
 | Pentakill | 75.00% | ~2,564 |
-| The use of petricite | 73.00% | ~2,495 |
+| The use of petricite | 73.00% | ~2,496 |
 | You can pet the dog | 60.00% | ~2,051 |
 | Thornbarrow | 44.00% | ~1,504 |
-| Big Helmet Bro | 41.00% | ~1,401 |
-| Clarion Cove | 41.00% | ~1,401 |
+| Big Helmet Bro | 41.00% | ~1,402 |
+| Clarion Cove | 41.00% | ~1,402 |
 | Ternmoat Headquarters | 39.00% | ~1,333 |
 | Past trauma | 38.00% | ~1,299 |
 | Elemental master | 37.00% | ~1,265 |
-| Cypress Glen Headquarters | 35.00% | ~1,196 |
+| Cypress Glen Headquarters | 35.00% | ~1,197 |
 | Old friend | 33.00% | ~1,128 |
 | Petricite Burst | 33.00% | ~1,128 |
 | Devineur | 32.00% | ~1,094 |
@@ -26,21 +26,21 @@ Rating: 4.77 (Ranked 117)
 | Whispers in the Woods I | 28.00% | ~957 |
 | I chose my shackles | 28.00% | ~957 |
 | Ancient power | 28.00% | ~957 |
-| Sacred Woods | 27.00% | ~923 |
-| Little light | 24.00% | ~820 |
-| Glyndemere | 24.00% | ~820 |
-| Capelworth | 24.00% | ~820 |
+| Sacred Woods | 26.00% | ~889 |
+| Little light | 24.00% | ~821 |
+| Glyndemere | 24.00% | ~821 |
+| Capelworth | 24.00% | ~821 |
 | Full equipped | 23.00% | ~786 |
 | Iffighain Headquarters | 22.00% | ~752 |
-| Whispers in the Woods II | 19.00% | ~649 |
-| No more holding back | 19.00% | ~649 |
-| Terbisia | 19.00% | ~649 |
-| Quickmoore Headquarters | 19.00% | ~649 |
+| Whispers in the Woods II | 19.00% | ~650 |
+| No more holding back | 19.00% | ~650 |
+| Terbisia | 19.00% | ~650 |
+| Quickmoore Headquarters | 19.00% | ~650 |
 | Whispers in the Woods III | 17.00% | ~581 |
 | My heart and sword always for Demacia | 17.00% | ~581 |
 | Friendly fire | 17.00% | ~581 |
-| True power | 17.00% | ~581 |
 | The Central Headquarters | 17.00% | ~581 |
+| True power | 16.00% | ~547 |
 | Meltridge | 16.00% | ~547 |
 | Cloven Dell Headquarters | 16.00% | ~547 |
 | Whispers in the Woods IV | 14.00% | ~479 |
@@ -59,7 +59,7 @@ Rating: 4.77 (Ranked 117)
 | Silverwing nest | 2.00% | ~68 |
 | The Unshackled | 1.00% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,418 (Ranked 225)  
+Progressed: 3,419 (Ranked 225)  
 Completed: 23 (0.67%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 23 (0.67%) (Ranked 201)
 | 2024-01-08 | 3,370 | 22 |
 | 2024-01-09 | 3,388 | 22 |
 | 2024-01-10 | 3,415 | 23 |
-| 2024-01-11 | 3,418 | 23 |
+| 2024-01-11 | 3,419 | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

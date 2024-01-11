@@ -10740,9 +10740,9 @@
       "Count": 1092
     }
   ],
-  "EOS_Progressed": 132454,
+  "EOS_Progressed": 132457,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 837,
+  "EOS_NewPlayers": 833,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39370,6 +39370,11 @@
       "Time": "2024-01-11T15:09:51.4218289+00:00",
       "NumProgressed": 132454,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T16:10:55.416325+00:00",
+      "NumProgressed": 132457,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39965,7 +39970,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -40012,21 +40017,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132454,
+      "Progressed": 132457,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7323,
+      "Progressed": 7326,
       "Completed": 824
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-11T14:59:46.1831983+00:00",
-  "LastChanged_Achievements": "2024-01-11T15:09:51.4218286+00:00",
+  "LastChanged_Achievements": "2024-01-11T16:10:55.4163246+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:59:46.1831989+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:09:51.4219986+00:00"
+  "LastUpdate_Ratings": "2024-01-11T16:01:07.7886175+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:10:55.4165876+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "e43864d9ce5b4ac3927a289c6d977650",
   "Name": "Neon Noodles - Cyberpunk Kitchen Automation",
   "ProductSlug": "neon-noodles-cyberpunk-kitchen-automation-16a476",
-  "Ranking_EOS_Progress": 761,
+  "Ranking_EOS_Progress": 762,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 583,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-03T17:00:00+00:00",
     "PcReleaseDate": "2019-11-29T18:00:00+00:00",
@@ -203,8 +203,8 @@
   ],
   "FirstSeen": "2023-08-14T01:37:50.3732094+00:00",
   "FirstSeenAchievements": "2023-07-22T04:04:10.7334306+00:00",
-  "LastChanged_Achievements": "2024-01-11T15:04:43.9027215+00:00",
+  "LastChanged_Achievements": "2024-01-11T16:05:33.5892519+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:56.6791084+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:57:42.3743642+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:04:43.9027353+00:00"
+  "LastUpdate_Ratings": "2024-01-11T15:58:00.1309258+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:05:33.5892672+00:00"
 }

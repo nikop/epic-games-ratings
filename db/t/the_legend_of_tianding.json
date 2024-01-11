@@ -3,7 +3,7 @@
   "Name": "The Legend of Tianding",
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 510,
-  "Ranking_EOS_Completed": 58,
+  "Ranking_EOS_Completed": 57,
   "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
@@ -547,9 +547,9 @@
       "ID": "ExpressTrainExplorer",
       "SetID": "123m9l1",
       "Name": "Tour Guide",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "FanOfYang",
@@ -643,9 +643,9 @@
       "ID": "Survivor",
       "SetID": "123m9l1",
       "Name": "Not Today",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "TeachGushanALesson",
@@ -692,8 +692,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-11T15:03:47.8748746+00:00",
+  "LastChanged_Achievements": "2024-01-11T16:04:10.2728902+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.6846029+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:59:06.6118877+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:03:47.8748996+00:00"
+  "LastUpdate_Ratings": "2024-01-11T16:00:08.7364137+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:04:10.2729081+00:00"
 }

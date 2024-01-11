@@ -2,13 +2,13 @@
   "ID": "c9e311e119034b25a02ed1ebfdffc0d1",
   "Name": "Anno 2070",
   "ProductSlug": "anno-2070",
-  "Ranking_Rating": 576,
+  "Ranking_Rating": 565,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 583,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": "2011-11-17T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.52,
+  "Rating": 4.53,
   "NumberOfRatings": 32,
   "RatingHistory": [
     {
@@ -241,6 +241,12 @@
       "Rating": 4.52,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-11T16:01:20.3253453+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -259,8 +265,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:09.4589428+00:00",
   "FirstSeenRating": "2022-08-02T00:31:48.9578062+00:00",
-  "LastChanged": "2023-12-29T15:57:06.8288403+00:00",
+  "LastChanged": "2024-01-11T16:01:20.3253452+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.4470447+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:59:54.0847982+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:04:28.8997629+00:00"
+  "LastUpdate_Ratings": "2024-01-11T16:01:20.3253459+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:05:11.093269+00:00"
 }

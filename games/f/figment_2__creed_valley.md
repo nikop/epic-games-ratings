@@ -8,7 +8,7 @@
 | Remembering of the past | 44.00% | ~32 |
 | Fight like an idiot | 39.00% | ~28 |
 | Ouch, that hurt! | 35.00% | ~25 |
-| Slam-KABAM | 31.00% | ~22 |
+| Slam-KABAM | 32.00% | ~23 |
 | Heavy Thoughts | 25.00% | ~18 |
 | A heavy thinker | 22.00% | ~16 |
 | Flee like an idiot | 22.00% | ~16 |

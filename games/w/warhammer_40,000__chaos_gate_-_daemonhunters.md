@@ -54,12 +54,12 @@ Number of Ratings: 371  (23.09.2022)
 | Clean Slate | 0.30% | ~12 |
 | Unstable Immaterium | 0.30% | ~12 |
 | Warp Flickers | 0.30% | ~12 |
+| Phalanx | 0.30% | ~12 |
 | Killing Rampage | 0.30% | ~12 |
 | Deadshot | 0.30% | ~12 |
 | The Flesh is Weak | 0.20% | ~8 |
 | Opportunist | 0.20% | ~8 |
 | Brothers in Arms | 0.20% | ~8 |
-| Phalanx | 0.20% | ~8 |
 | Strategic Command | 0.20% | ~8 |
 | Terminal Meltdown | 0.20% | ~8 |
 | Arsenal of Destruction | 0.10% | ~4 |

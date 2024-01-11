@@ -4,8 +4,8 @@
   "ProductSlug": "figment2-creed-valley",
   "Ranking_EOS_Progress": 527,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 435,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 436,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -391,9 +391,9 @@
       "ID": "combat_slammer_friendly_fire",
       "SetID": "7e96e7l",
       "Name": "Slam-KABAM",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "combat_thought_block_friendly_fire",
@@ -544,8 +544,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2024-01-11T15:09:59.2707993+00:00",
+  "LastChanged_Achievements": "2024-01-11T16:11:06.2158533+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:58.0189058+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:59:09.6782672+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:09:59.2708126+00:00"
+  "LastUpdate_Ratings": "2024-01-11T16:00:13.2366695+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:11:06.2158688+00:00"
 }

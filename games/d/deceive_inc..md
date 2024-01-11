@@ -13,7 +13,7 @@ Rating: 4.59 (Ranked 453)
 | Never Say Loser Again | 18.00% | ~3,477 |
 | Tailor-Made | 18.00% | ~3,477 |
 | For your Eyes only | 18.00% | ~3,477 |
-| Assistant Accountant | 17.00% | ~3,283 |
+| Assistant Accountant | 17.00% | ~3,284 |
 | You Only Live Twice | 16.00% | ~3,090 |
 | Fully Decked Out | 16.00% | ~3,090 |
 | A view to Win | 13.00% | ~2,511 |
@@ -23,8 +23,8 @@ Rating: 4.59 (Ranked 453)
 | Private Collection | 11.00% | ~2,125 |
 | Killer Looks | 11.00% | ~2,125 |
 | Hostile Takeover | 11.00% | ~2,125 |
-| Keycards Royale | 10.00% | ~1,931 |
-| Dr. No Kill | 10.00% | ~1,931 |
+| Keycards Royale | 10.00% | ~1,932 |
+| Dr. No Kill | 10.00% | ~1,932 |
 | In It to Win It | 9.00% | ~1,738 |
 | Security Supervisor | 6.00% | ~1,159 |
 | License to Thrill | 5.00% | ~966 |
@@ -42,7 +42,7 @@ Rating: 4.59 (Ranked 453)
 | Extraction Confusion | 0.20% | ~39 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,314 (Ranked 157)  
+Progressed: 19,315 (Ranked 157)  
 Completed: 4 (0.02%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 4 (0.02%) (Ranked 363)
 | 2024-01-08 | 19,292 | 4 |
 | 2024-01-09 | 19,300 | 4 |
 | 2024-01-10 | 19,311 | 4 |
-| 2024-01-11 | 19,314 | 4 |
+| 2024-01-11 | 19,315 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

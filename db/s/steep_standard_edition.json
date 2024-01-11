@@ -4,11 +4,11 @@
   "ProductSlug": "steep",
   "Ranking_Rating": 219,
   "Ranking_Popularity": 566,
-  "Ranking_PopularitySum": 499,
+  "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 583,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2016-12-02T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -543,10 +543,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 62,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-01-11T15:59:25.8592257+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 63,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 62,
+  "NumberOfAwards": 63,
   "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -566,7 +572,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -580,8 +586,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:40.9407934+00:00",
-  "LastChanged": "2024-01-09T16:57:54.5371609+00:00",
+  "LastChanged": "2024-01-11T15:59:25.8592253+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:15.6569788+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:58:38.4673714+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:09:31.0522707+00:00"
+  "LastUpdate_Ratings": "2024-01-11T15:59:25.8592263+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:10:26.1635033+00:00"
 }

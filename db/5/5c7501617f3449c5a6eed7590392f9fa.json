@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2012-04-19T11:00:00+00:00",
@@ -1456,9 +1456,9 @@
       "ID": "Ach-05-hlavouni",
       "SetID": "2pjo9pi",
       "Name": "Hlavouni",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "Ach-05-hrouda",
@@ -1536,9 +1536,9 @@
       "ID": "Ach-05-zelva",
       "SetID": "2pjo9pi",
       "Name": "Zelva",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "Ach-05-zloC",
@@ -1615,8 +1615,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-11T15:09:11.9841369+00:00",
+  "LastChanged_Achievements": "2024-01-11T16:09:57.5792312+00:00",
   "LastUpdate_AppInfo": "2024-01-10T21:57:10.5143243+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:57:26.9706502+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:09:11.9841756+00:00"
+  "LastUpdate_Ratings": "2024-01-11T15:57:35.4926749+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:09:57.5792893+00:00"
 }

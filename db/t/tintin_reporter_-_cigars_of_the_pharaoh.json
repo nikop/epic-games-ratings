@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-07T09:00:00+00:00",
@@ -695,9 +695,9 @@
       "ID": "Achievement16",
       "SetID": "9fa3l5n",
       "Name": "Under the Hood",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "Achievement17",
@@ -719,9 +719,9 @@
       "ID": "Achievement19",
       "SetID": "9fa3l5n",
       "Name": "Tintin, Reporter",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 85,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement2",
@@ -942,8 +942,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-11T15:06:35.7247595+00:00",
+  "LastChanged_Achievements": "2024-01-11T16:08:20.9609709+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.5995051+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:57:26.2393004+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:06:35.7247913+00:00"
+  "LastUpdate_Ratings": "2024-01-11T15:57:34.3637256+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:08:20.9609978+00:00"
 }

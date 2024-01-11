@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -381,9 +381,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2359,
+  "EOS_Progressed": 2361,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4396,6 +4396,11 @@
       "Time": "2024-01-11T15:08:19.5861107+00:00",
       "NumProgressed": 2359,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T16:08:40.1081857+00:00",
+      "NumProgressed": 2361,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4599,7 +4604,7 @@
       "Name": "Fly Fisher",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "Achievement_027",
@@ -4631,7 +4636,7 @@
       "Name": "ICU",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "Achievement_031",
@@ -4639,7 +4644,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "Achievement_032",
@@ -4934,7 +4939,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2359,
+      "Progressed": 2361,
       "Completed": 0
     }
   ],
@@ -4942,8 +4947,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
-  "LastChanged_Achievements": "2024-01-11T15:08:19.5861103+00:00",
+  "LastChanged_Achievements": "2024-01-11T16:08:40.1081853+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:57:39.6719516+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:08:19.5861937+00:00"
+  "LastUpdate_Ratings": "2024-01-11T15:57:55.3145996+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:08:40.1082659+00:00"
 }

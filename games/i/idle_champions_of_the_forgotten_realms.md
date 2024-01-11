@@ -14,9 +14,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.90% | ~2,280 |
 | Were-verpowered | 0.80% | ~2,027 |
 | Welcome to Sigil | 0.80% | ~1,757 |
-| Seeking Allies | 0.70% | ~1,773 |
-| Mad Cow Disease | 0.70% | ~1,773 |
-| Friendly Imps | 0.70% | ~1,773 |
+| Seeking Allies | 0.70% | ~1,774 |
+| Mad Cow Disease | 0.70% | ~1,774 |
+| Friendly Imps | 0.70% | ~1,774 |
 | A Persistent Buzzing | 0.60% | ~1,520 |
 | Pure Energy | 0.60% | ~1,520 |
 | Fast Food | 0.60% | ~1,318 |
@@ -33,12 +33,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.40% | ~1,013 |
 | The Contagious Curse | 0.40% | ~1,013 |
 | Escort to Waterdeep | 0.40% | ~1,013 |
-| Arcane Suppression | 0.40% | ~878 |
-| Welcome to the Vrocks | 0.40% | ~878 |
-| Misaligned in Sigil | 0.40% | ~878 |
-| Chaos Theory | 0.40% | ~878 |
-| When Tentacles Attack | 0.40% | ~878 |
-| Mind Spike | 0.40% | ~878 |
+| Arcane Suppression | 0.40% | ~879 |
+| Welcome to the Vrocks | 0.40% | ~879 |
+| Misaligned in Sigil | 0.40% | ~879 |
+| Chaos Theory | 0.40% | ~879 |
+| When Tentacles Attack | 0.40% | ~879 |
+| Mind Spike | 0.40% | ~879 |
 | Low Initiative | 0.30% | ~760 |
 | Building Trust | 0.30% | ~760 |
 | March of the Undead | 0.30% | ~760 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,351 (Ranked 70)  
+Progressed: 253,358 (Ranked 70)  
 Completed: 2,612 (1.03%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -819,7 +819,7 @@ Completed: 2,612 (1.03%) (Ranked 176)
 | 2024-01-08 | 252,794 | 2,602 |
 | 2024-01-09 | 253,044 | 2,606 |
 | 2024-01-10 | 253,250 | 2,611 |
-| 2024-01-11 | 253,351 | 2,612 |
+| 2024-01-11 | 253,358 | 2,612 |
 ## Awards
 Max (Great for Beginners): 5,770  (Ranked 74)  
 Sum: 33,439 (Ranked 41)  

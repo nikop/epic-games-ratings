@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1327,
+  "EOS_Progressed": 1328,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -4298,6 +4298,11 @@
       "Time": "2024-01-11T14:09:32.7604246+00:00",
       "NumProgressed": 1327,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-11T16:10:29.8056533+00:00",
+      "NumProgressed": 1328,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -4310,7 +4315,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "achievement_10",
@@ -4350,7 +4355,7 @@
       "Name": "Fusion Conjuror",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "achievement_15",
@@ -4358,7 +4363,7 @@
       "Name": "Memory Rouser",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "achievement_16",
@@ -4366,7 +4371,7 @@
       "Name": "Distance Devourer",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "achievement_17",
@@ -4374,7 +4379,7 @@
       "Name": "Master of the Skies",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "achievement_18",
@@ -4422,7 +4427,7 @@
       "Name": "Kemono Hunter",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "achievement_23",
@@ -4438,7 +4443,7 @@
       "Name": "Single Minded",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "achievement_25",
@@ -4446,7 +4451,7 @@
       "Name": "Volatile Vocation",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "achievement_26",
@@ -4494,7 +4499,7 @@
       "Name": "Tender Touch",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "achievement_31",
@@ -4508,9 +4513,9 @@
       "ID": "achievement_32",
       "SetID": "2cpn27e",
       "Name": "Style Seeker",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 199
     },
     {
       "ID": "achievement_33",
@@ -4526,7 +4531,7 @@
       "Name": "Kemono at Heart",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "achievement_35",
@@ -4550,7 +4555,7 @@
       "Name": "Hidden History",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "achievement_38",
@@ -4574,15 +4579,15 @@
       "Name": "Axer of Auspice",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "achievement_40",
       "SetID": "2cpn27e",
       "Name": "Jack of All Trades",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_41",
@@ -4606,15 +4611,15 @@
       "Name": "Team Hunter",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "achievement_44",
       "SetID": "2cpn27e",
       "Name": "Artful Assister",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 279
     },
     {
       "ID": "achievement_45",
@@ -4630,7 +4635,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "achievement_47",
@@ -4646,7 +4651,7 @@
       "Name": "Haven Hunter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "achievement_5",
@@ -4662,7 +4667,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "achievement_7",
@@ -4670,7 +4675,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "achievement_8",
@@ -4693,13 +4698,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1327,
+      "Progressed": 1328,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-11T15:09:33.6884806+00:00",
+  "LastChanged_Achievements": "2024-01-11T16:10:29.8056528+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:30.0899668+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:57:39.789931+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:09:33.6885589+00:00"
+  "LastUpdate_Ratings": "2024-01-11T15:57:55.5099357+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:10:29.8057086+00:00"
 }

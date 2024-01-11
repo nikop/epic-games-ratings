@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -9200,9 +9200,9 @@
       "ID": "ACH_JUGGLE_SKILLS",
       "SetID": "cdkbb11",
       "Name": "We\u0027re All Very Impressed, Trust Me",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1256
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -9447,8 +9447,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-11T15:08:51.1823845+00:00",
+  "LastChanged_Achievements": "2024-01-11T16:09:26.6882655+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:08.9175912+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:59:48.4478857+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:08:51.1824443+00:00"
+  "LastUpdate_Ratings": "2024-01-11T16:01:11.4245612+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:09:26.6883387+00:00"
 }

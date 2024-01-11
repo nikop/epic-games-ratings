@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19314,
+  "EOS_Progressed": 19315,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14660,6 +14660,11 @@
       "Time": "2024-01-11T09:06:24.4314968+00:00",
       "NumProgressed": 19314,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T16:07:10.896015+00:00",
+      "NumProgressed": 19315,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14687,7 +14692,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3283
+      "UsersEstimate": 3284
     },
     {
       "ID": "0004",
@@ -14767,7 +14772,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     },
     {
       "ID": "0014",
@@ -14823,7 +14828,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     },
     {
       "ID": "0021",
@@ -14958,7 +14963,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19314,
+      "Progressed": 19315,
       "Completed": 4
     }
   ],
@@ -14966,8 +14971,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-11T15:05:49.2266463+00:00",
+  "LastChanged_Achievements": "2024-01-11T16:07:10.8960147+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:47.8848382+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:57:52.066976+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:05:49.2267445+00:00"
+  "LastUpdate_Ratings": "2024-01-11T15:58:14.9421187+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:07:10.896127+00:00"
 }

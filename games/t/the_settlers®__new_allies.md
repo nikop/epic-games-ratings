@@ -1,7 +1,7 @@
 # The Settlers®: New Allies
 [Store](https://store.epicgames.com/en-US/p/the-settlers)  
 [View Rawdata](../../db/t/the_settlers®__new_allies.json)  
-Rating: 3.83 (Ranked 1,082)  
+Rating: 3.84 (Ranked 1,081)  
 ## Awards
 Max (Quickly Understood Controls): 106  (Ranked 373)  
 Sum: 309 (Ranked 377)  
@@ -203,3 +203,4 @@ Diff (max vs sum): -4
 | 2024-01-07 | 3.83 | 103 | 302 |
 | 2024-01-08 | 3.83 | 104 | 305 |
 | 2024-01-09 | 3.84 | 106 | 309 |
+| 2024-01-11 | 3.84 | 106 | 309 |

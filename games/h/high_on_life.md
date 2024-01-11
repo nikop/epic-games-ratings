@@ -10,12 +10,12 @@ Rating: 4.65 (Ranked 322)
 | Are You Packin'? | 5.00% | ~1,256 |
 | Bring A Knife to a Gun Fight | 5.00% | ~1,256 |
 | Sweezy Like Sunday Morning | 5.00% | ~1,256 |
+| We're All Very Impressed, Trust Me | 5.00% | ~1,256 |
 | G3 Graduation | 5.00% | ~1,256 |
 | Cold-Blooded Driller | 5.00% | ~1,256 |
 | Don't Knife The Hand That Feeds | 5.00% | ~1,256 |
 | Creature Feature | 4.00% | ~1,005 |
 | RIP Davey Glutes | 4.00% | ~1,005 |
-| We're All Very Impressed, Trust Me | 4.00% | ~1,005 |
 | Hardest Battle In The Game | 4.00% | ~1,005 |
 | Who's The Boss? | 4.00% | ~1,005 |
 | Fallout Doesn't Let You Do This | 4.00% | ~1,005 |

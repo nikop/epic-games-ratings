@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 577,
+  "EOS_Progressed": 580,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.21,
   "EosHistory": [
@@ -1889,6 +1889,11 @@
       "Time": "2024-01-11T12:03:58.3216253+00:00",
       "NumProgressed": 577,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-11T16:04:43.9862757+00:00",
+      "NumProgressed": 580,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1901,7 +1906,7 @@
       "Name": "Good Morning",
       "Percentage": 17,
       "XP": 145,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ach2",
@@ -1909,7 +1914,7 @@
       "Name": "Blabber",
       "Percentage": 50,
       "XP": 145,
-      "UsersEstimate": 288
+      "UsersEstimate": 290
     },
     {
       "ID": "ach3",
@@ -1925,7 +1930,7 @@
       "Name": "Three Caps",
       "Percentage": 7,
       "XP": 140,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach5",
@@ -1949,21 +1954,21 @@
       "Name": "Snail Racing Champion",
       "Percentage": 11,
       "XP": 145,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     }
   ],
   "AchievementSets": [
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 577,
+      "Progressed": 580,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-11T15:04:10.4686633+00:00",
+  "LastChanged_Achievements": "2024-01-11T16:04:43.9862755+00:00",
   "LastUpdate_AppInfo": "2024-01-10T21:57:10.0738096+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:59:44.9592348+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:04:10.4686739+00:00"
+  "LastUpdate_Ratings": "2024-01-11T16:01:06.2360248+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:04:43.9862927+00:00"
 }

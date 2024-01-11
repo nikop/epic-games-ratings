@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9475,9 +9475,9 @@
       "Count": 3634
     }
   ],
-  "EOS_Progressed": 253351,
+  "EOS_Progressed": 253358,
   "EOS_Completed": 2612,
-  "EOS_NewPlayers": 2521,
+  "EOS_NewPlayers": 2502,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39645,6 +39645,11 @@
       "Time": "2024-01-11T15:10:13.8857647+00:00",
       "NumProgressed": 253351,
       "NumCompleted": 2612
+    },
+    {
+      "Time": "2024-01-11T16:11:24.7727967+00:00",
+      "NumProgressed": 253358,
+      "NumCompleted": 2612
     }
   ],
   "TotalAchievements": 546,
@@ -41448,7 +41453,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "objective_completed_390",
@@ -41792,7 +41797,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "objective_completed_54",
@@ -42872,7 +42877,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "objective_completed_80",
@@ -43928,7 +43933,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_1352",
@@ -43936,7 +43941,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_1557",
@@ -43952,7 +43957,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_1562",
@@ -43968,7 +43973,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_598",
@@ -43984,7 +43989,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "objective_completed_678",
@@ -44016,28 +44021,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219625,
+      "Progressed": 219632,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253351,
+      "Progressed": 253358,
       "Completed": 2612
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-11T13:05:05.0385272+00:00",
-  "LastChanged_Achievements": "2024-01-11T15:10:13.8857642+00:00",
+  "LastChanged_Achievements": "2024-01-11T16:11:24.7727964+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:58:59.5781932+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:10:13.8883095+00:00"
+  "LastUpdate_Ratings": "2024-01-11T15:59:57.871772+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:11:24.7752462+00:00"
 }

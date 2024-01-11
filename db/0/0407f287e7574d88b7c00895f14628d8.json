@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -1044,9 +1044,9 @@
       "ID": "jg2",
       "SetID": "b1ggf28",
       "Name": "Waterpower",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "jg3",
@@ -1299,8 +1299,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-11T15:06:20.7333863+00:00",
+  "LastChanged_Achievements": "2024-01-11T16:07:57.8126055+00:00",
   "LastUpdate_AppInfo": "2024-01-10T06:57:05.6487143+00:00",
-  "LastUpdate_Ratings": "2024-01-11T15:03:00.0454382+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:06:20.7334224+00:00"
+  "LastUpdate_Ratings": "2024-01-11T16:03:29.8631091+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:07:57.8126522+00:00"
 }

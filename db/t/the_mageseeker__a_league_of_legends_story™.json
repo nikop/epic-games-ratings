@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3418,
+  "EOS_Progressed": 3419,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -6361,6 +6361,11 @@
       "Time": "2024-01-11T13:12:12.7262825+00:00",
       "NumProgressed": 3418,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2024-01-11T16:07:40.2423965+00:00",
+      "NumProgressed": 3419,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 53,
@@ -6396,7 +6401,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -6428,7 +6433,7 @@
       "Name": "No more holding back",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -6436,7 +6441,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3247
+      "UsersEstimate": 3248
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6450,9 +6455,9 @@
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
       "SetID": "3pe2bac",
       "Name": "Everfrost",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2598
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6476,7 +6481,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -6500,7 +6505,7 @@
       "Name": "Little light",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -6514,9 +6519,9 @@
       "ID": "STB_DEFEAT_WISTERIA_II",
       "SetID": "3pe2bac",
       "Name": "True power",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 547
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -6556,7 +6561,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3076
+      "UsersEstimate": 3077
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6604,7 +6609,7 @@
       "Name": "Clarion Cove",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -6618,9 +6623,9 @@
       "ID": "STB_MISSION4_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Sacred Woods",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 923
+      "UsersEstimate": 889
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -6628,7 +6633,7 @@
       "Name": "Glyndemere",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -6636,7 +6641,7 @@
       "Name": "Capelworth",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -6644,7 +6649,7 @@
       "Name": "Terbisia",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -6716,7 +6721,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -6732,7 +6737,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -6748,7 +6753,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2495
+      "UsersEstimate": 2496
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -6795,7 +6800,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3418,
+      "Progressed": 3419,
       "Completed": 23
     }
   ],
@@ -6803,8 +6808,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-09T21:58:22.8970062+00:00",
-  "LastChanged_Achievements": "2024-01-11T15:06:08.8585734+00:00",
+  "LastChanged_Achievements": "2024-01-11T16:07:40.242396+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:19.7763351+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:59:22.0642247+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:06:08.8586516+00:00"
+  "LastUpdate_Ratings": "2024-01-11T16:00:31.4649374+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:07:40.242515+00:00"
 }

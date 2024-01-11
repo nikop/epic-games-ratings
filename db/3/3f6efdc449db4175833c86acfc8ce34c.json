@@ -4,8 +4,8 @@
   "ProductSlug": "aya-and-naya-b7791e",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-08-17T20:00:00+00:00",
     "PcReleaseDate": "2023-08-31T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1520,
+  "EOS_Progressed": 1521,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.47,
   "EosHistory": [
@@ -4259,6 +4259,11 @@
       "Time": "2024-01-11T15:09:54.5317653+00:00",
       "NumProgressed": 1520,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2024-01-11T16:10:59.5923916+00:00",
+      "NumProgressed": 1521,
+      "NumCompleted": 68
     }
   ],
   "AchievementsAdded": "2023-08-08T22:02:18.1743145+00:00",
@@ -4271,7 +4276,7 @@
       "Name": "Played!",
       "Percentage": 84,
       "XP": 200,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "Mission2",
@@ -4279,7 +4284,7 @@
       "Name": "Mission 1 clear",
       "Percentage": 41,
       "XP": 200,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "Mission3",
@@ -4287,7 +4292,7 @@
       "Name": "Mission 2 clear",
       "Percentage": 31,
       "XP": 200,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "Mission4",
@@ -4310,14 +4315,14 @@
     {
       "ID": "6igjng7",
       "IsBase": true,
-      "Progressed": 1520,
+      "Progressed": 1521,
       "Completed": 68
     }
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2024-01-11T15:09:54.5317649+00:00",
+  "LastChanged_Achievements": "2024-01-11T16:10:59.5923912+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.9854903+00:00",
-  "LastUpdate_Ratings": "2024-01-11T15:00:09.6923689+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:09:54.5317915+00:00"
+  "LastUpdate_Ratings": "2024-01-11T16:01:44.6723484+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:10:59.5924257+00:00"
 }

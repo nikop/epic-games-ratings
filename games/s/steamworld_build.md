@@ -8,7 +8,7 @@
 | Digging a Hole | 77.00% | ~204 |
 | It's Yours, My Friend | 74.00% | ~196 |
 | Conducted Trade | 67.00% | ~178 |
-| Going Places | 65.00% | ~172 |
+| Going Places | 66.00% | ~175 |
 | Aristocratic | 63.00% | ~167 |
 | Tutti Frutti | 58.00% | ~154 |
 | Slotting Machine | 46.00% | ~122 |

@@ -3824,10 +3824,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 11792,
       "NumberOfAwardsMax": 1514
+    },
+    {
+      "Time": "2024-01-11T15:59:42.9340934+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11794,
+      "NumberOfAwardsMax": 1514
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11792,
+  "NumberOfAwards": 11794,
   "NumberOfAwardsMax": 1514,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3889,7 +3895,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1449
+      "Count": 1451
     },
     {
       "Text": "This game has a Creative Community",
@@ -3898,7 +3904,7 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242771,
+  "EOS_Progressed": 242772,
   "EOS_Completed": 305,
   "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 1,
@@ -31458,6 +31464,11 @@
       "Time": "2024-01-11T14:10:10.178333+00:00",
       "NumProgressed": 242771,
       "NumCompleted": 305
+    },
+    {
+      "Time": "2024-01-11T16:11:21.875271+00:00",
+      "NumProgressed": 242772,
+      "NumCompleted": 305
     }
   ],
   "TotalAchievements": 138,
@@ -31499,9 +31510,9 @@
       "ID": "COMPLETEFIRSTRUN",
       "SetID": "5l8oe0h",
       "Name": "First Steps",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2428
+      "UsersEstimate": 4855
     },
     {
       "ID": "CURSE1HP",
@@ -32572,22 +32583,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242771,
+      "Progressed": 242772,
       "Completed": 305
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4251,
+      "Progressed": 4252,
       "Completed": 424
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2024-01-11T01:48:01.788838+00:00",
-  "LastChanged_Achievements": "2024-01-11T15:10:11.496771+00:00",
+  "LastChanged": "2024-01-11T15:59:42.9340933+00:00",
+  "LastChanged_Achievements": "2024-01-11T16:11:21.8752706+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:58:49.8006793+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:10:11.4970228+00:00"
+  "LastUpdate_Ratings": "2024-01-11T15:59:42.9340942+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:11:21.8756025+00:00"
 }

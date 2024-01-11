@@ -4,8 +4,8 @@
   "ProductSlug": "ash-of-gods-the-way-58bd36",
   "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
     "PcReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -558,9 +558,9 @@
       "ID": "special1",
       "SetID": "c64if4d",
       "Name": "All for one!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "special10",
@@ -831,8 +831,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2024-01-11T15:09:35.5076601+00:00",
+  "LastChanged_Achievements": "2024-01-11T16:10:31.8802946+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:14.685228+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:58:00.811764+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:09:35.5077118+00:00"
+  "LastUpdate_Ratings": "2024-01-11T15:58:29.2280809+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:10:31.8803349+00:00"
 }

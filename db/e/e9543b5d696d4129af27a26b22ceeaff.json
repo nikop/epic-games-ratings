@@ -4,8 +4,8 @@
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 59,
+  "EOS_Progressed": 60,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -314,6 +314,11 @@
       "Time": "2024-01-10T16:09:14.6601832+00:00",
       "NumProgressed": 59,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T16:09:21.1296155+00:00",
+      "NumProgressed": 60,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-23T13:12:02.8509977+00:00",
@@ -388,7 +393,7 @@
       "ID": "ACH_FIRST_CHAMPIONSHIP",
       "SetID": "1lnhagg",
       "Name": "First is Always Special",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -396,7 +401,7 @@
       "ID": "ACH_FIRST_STAR_MANAGER",
       "SetID": "1lnhagg",
       "Name": "The First Star",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -404,7 +409,7 @@
       "ID": "ACH_FIRST_WIN",
       "SetID": "1lnhagg",
       "Name": "The First of Many to Come",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 40
     },
@@ -428,7 +433,7 @@
       "ID": "ACH_FULL_ARENA",
       "SetID": "1lnhagg",
       "Name": "Full Arena",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 24
     },
@@ -516,7 +521,7 @@
       "ID": "ACH_STAR_IS_BORN",
       "SetID": "1lnhagg",
       "Name": "A Star is Born",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
       "UsersEstimate": 8
     },
@@ -534,7 +539,7 @@
       "Name": "Welcome to IBM 23!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_WINNER_STREAK",
@@ -581,14 +586,14 @@
     {
       "ID": "1lnhagg",
       "IsBase": true,
-      "Progressed": 59,
+      "Progressed": 60,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-11T15:08:47.3129043+00:00",
+  "LastChanged_Achievements": "2024-01-11T16:09:21.1296151+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:09.2723811+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:57:43.7537791+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:08:47.3129275+00:00"
+  "LastUpdate_Ratings": "2024-01-11T15:58:02.6029881+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:09:21.1296374+00:00"
 }

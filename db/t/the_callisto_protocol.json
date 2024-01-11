@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2177,9 +2177,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 22138,
+  "EOS_Progressed": 22140,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1219,
+  "EOS_NewPlayers": 1216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13492,6 +13492,11 @@
       "Time": "2024-01-11T15:09:40.7971446+00:00",
       "NumProgressed": 22138,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-11T16:10:39.4105354+00:00",
+      "NumProgressed": 22140,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13527,7 +13532,7 @@
       "Name": "You Need a Gun",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1992
+      "UsersEstimate": 1993
     },
     {
       "ID": "DISARM_ENEMY",
@@ -13671,7 +13676,7 @@
       "Name": "Reforged",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4206
+      "UsersEstimate": 4207
     },
     {
       "ID": "PRINT_WEAPON",
@@ -13679,7 +13684,7 @@
       "Name": "Paper Jams",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4870
+      "UsersEstimate": 4871
     },
     {
       "ID": "SHARE_PHOTO",
@@ -13711,7 +13716,7 @@
       "Name": "Without A Paddle",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3099
+      "UsersEstimate": 3100
     },
     {
       "ID": "STORY_HANGAR",
@@ -13735,7 +13740,7 @@
       "Name": "Desperate Times",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5534
+      "UsersEstimate": 5535
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -13855,7 +13860,7 @@
       "Name": "Keep Fighting",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -13878,13 +13883,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22138,
+      "Progressed": 22140,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10064,
+      "Progressed": 10066,
       "Completed": 29
     }
   ],
@@ -13892,8 +13897,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-11T11:03:22.6888373+00:00",
-  "LastChanged_Achievements": "2024-01-11T15:09:40.7971443+00:00",
+  "LastChanged_Achievements": "2024-01-11T16:10:39.4105349+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-11T15:03:15.5300408+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:09:40.7972188+00:00"
+  "LastUpdate_Ratings": "2024-01-11T16:03:53.7411956+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:10:39.4106618+00:00"
 }

@@ -20,7 +20,7 @@ Number of Ratings: 85  (23.09.2022)
 | Ducks in a Row, Fish in a Barrel | 46.00% | ~207 |
 | Bodied Sattva | 36.00% | ~162 |
 | Forbidden Donut | 35.00% | ~158 |
-| Freshly Squeezed | 34.00% | ~153 |
+| Freshly Squeezed | 35.00% | ~158 |
 | Upgreatest | 34.00% | ~153 |
 | Furon Fashion | 30.00% | ~135 |
 | Deincarnated | 28.00% | ~126 |

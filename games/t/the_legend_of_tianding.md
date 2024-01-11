@@ -20,10 +20,10 @@
 | Sewer Rat | 28.00% | ~23 |
 | Big Eater | 27.00% | ~22 |
 | Urban Explorer | 27.00% | ~22 |
-| Not Today | 25.00% | ~21 |
+| Not Today | 27.00% | ~22 |
+| Tour Guide | 24.00% | ~20 |
 | Coward | 24.00% | ~20 |
 | Tomb Raider | 24.00% | ~20 |
-| Tour Guide | 23.00% | ~19 |
 | The Real O.G. | 20.00% | ~17 |
 | The Hero of the People | 16.00% | ~13 |
 | Collector | 12.00% | ~10 |
@@ -32,7 +32,7 @@
 | The Legend | 7.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 83 (Ranked 510)  
-Completed: 6 (7.23%) (Ranked 58)  
+Completed: 6 (7.23%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

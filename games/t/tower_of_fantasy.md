@@ -3,12 +3,12 @@
 [View Rawdata](../../db/t/tower_of_fantasy.json)  
 Rating: 4.34 (Ranked 841)  
 ## Awards
-Max (Character Customization): 399  (Ranked 239)  
-Sum: 888 (Ranked 286)  
+Max (Character Customization): 402  (Ranked 239)  
+Sum: 891 (Ranked 286)  
 Diff (max vs sum): -47  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 399 |
+| This game has Inclusive Character Customization | 402 |
 | This game has Diverse Characters | 86 |
 | This game is Great for Beginners | 83 |
 | This game is Highly Recommended | 72 |
@@ -240,4 +240,4 @@ Diff (max vs sum): -47
 | 2024-01-08 | 4.34 | 392 | 870 |
 | 2024-01-09 | 4.34 | 392 | 875 |
 | 2024-01-10 | 4.34 | 399 | 886 |
-| 2024-01-11 | 4.34 | 399 | 888 |
+| 2024-01-11 | 4.34 | 402 | 891 |

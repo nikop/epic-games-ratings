@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1590,9 +1590,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 28217,
+  "EOS_Progressed": 28220,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 554,
+  "EOS_NewPlayers": 549,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -13825,6 +13825,11 @@
       "Time": "2024-01-11T15:09:58.345466+00:00",
       "NumProgressed": 28217,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-11T16:11:04.9021102+00:00",
+      "NumProgressed": 28220,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -14090,9 +14095,9 @@
       "ID": "PrequelReveal",
       "SetID": "3ojhj46",
       "Name": "Prequel to the Sequel",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 564
     },
     {
       "ID": "RogueMode",
@@ -14147,21 +14152,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 28217,
+      "Progressed": 28220,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 7147,
+      "Progressed": 7150,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-09T06:57:19.694078+00:00",
-  "LastChanged_Achievements": "2024-01-11T15:09:58.3454657+00:00",
+  "LastChanged_Achievements": "2024-01-11T16:11:04.9021098+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:16.4635805+00:00",
-  "LastUpdate_Ratings": "2024-01-11T14:58:24.1146418+00:00",
-  "LastUpdate_Achievements": "2024-01-11T15:09:58.3455328+00:00"
+  "LastUpdate_Ratings": "2024-01-11T15:59:03.3262171+00:00",
+  "LastUpdate_Achievements": "2024-01-11T16:11:04.9022161+00:00"
 }
