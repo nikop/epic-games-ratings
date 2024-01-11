@@ -20,7 +20,7 @@
 | 17 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 25.00% |
 | 17 | [Overloop](games/o/overloop.md) | 25.00% |
 | 20 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 21 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.95% |
+| 21 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.90% |
 | 22 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
 | 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.65% |
 | 24 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 18.84% |
@@ -80,8 +80,8 @@
 | 78 | [ZZT!](games/z/zzt!.md) | 4.74% |
 | 79 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.60% |
 | 80 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.53% |
-| 81 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.49% |
-| 82 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 4.48% |
+| 81 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.48% |
+| 81 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 4.48% |
 | 83 | [JARS](games/j/jars.md) | 4.42% |
 | 84 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.39% |
 | 85 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 4.35% |
@@ -100,7 +100,7 @@
 | 98 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
 | 98 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
 | 100 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
-| 101 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.41% |
+| 101 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.40% |
 | 102 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.33% |
 | 103 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.28% |
 | 104 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.23% |
@@ -184,8 +184,8 @@
 | 182 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.92% |
 | 183 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 0.91% |
 | 183 | [Hades](games/h/hades.md) | 0.91% |
-| 183 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.91% |
-| 186 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.90% |
+| 185 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.90% |
+| 185 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.90% |
 | 187 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.89% |
 | 188 | [A Musical Story](games/a/a_musical_story.md) | 0.88% |
 | 189 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.85% |
