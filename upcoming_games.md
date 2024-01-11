@@ -227,7 +227,7 @@
 | [Awaken](games/8/879a4b6564b4491e9f523c634d181756.md) | 2099-01-01 | - |  | - | - |
 | [Barista Simulator](games/d/d50a739b158c4d0fb8f3788f837b09d2.md) | 2099-01-01 | - |  | - | - |
 | [Battle Leet](games/6/68b61ac6800241caa70393fda6da575d.md) | 2099-01-01 | - |  | - | - |
-| [Beach Invasion 1945 - Pacific](games/1/10290198c6dc48d5aa24d45bca39215a.md) | 2099-01-01 | - |  | - | - |
+| [Beach Invasion 1945 - Pacific](games/1/10290198c6dc48d5aa24d45bca39215a.md) | 2099-01-01 | 70 (1,000 XP) | 0 | - | - |
 | [Beacon of Neyda](games/e/e6dabddbc7e3446583d31c5b5cb3104a.md) | 2099-01-01 | - |  | - | - |
 | [Beat Stickman: Infinity Clones](games/b/beat_stickman__infinity_clones.md) | 2099-01-01 | - |  | - | - |
 | [Beaten Path](games/8/800b1f0f82da449b8a82942fa187f9e9.md) | 2099-01-01 | - |  | - | - |
@@ -307,6 +307,7 @@
 | [Fireball Wizard](games/a/a39d4b1311c741a191345f39bf1446eb.md) | 2099-01-01 | - |  | - | - |
 | [First Dwarf](games/f/first_dwarf.md) | 2099-01-01 | - |  | - | - |
 | [First Jam](games/1/129195ec773340208309213bc6c99f42.md) | 2099-01-01 | - |  | - | - |
+| [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 2099-01-01 | - |  | - | - |
 | [Flipper Mechanic Simulator](games/f/flipper_mechanic_simulator.md) | 2099-01-01 | - |  | - | - |
 | [FlipScapes](games/f/flipscapes.md) | 2099-01-01 | - |  | - | - |
 | [Forza Polpo](games/1/11e946fd34244e56b7af5d99e87bf5d4.md) | 2099-01-01 | - |  | - | - |

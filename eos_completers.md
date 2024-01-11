@@ -13,14 +13,14 @@
 | 11 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 33.33% |
 | 12 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 32.14% |
 | 13 | [Volley Pals](games/v/volley_pals.md) | 31.34% |
-| 14 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 28.57% |
-| 15 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 27.12% |
-| 16 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 27.08% |
-| 17 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
-| 17 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 25.00% |
-| 17 | [Overloop](games/o/overloop.md) | 25.00% |
+| 14 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 27.12% |
+| 15 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 27.08% |
+| 16 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
+| 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
+| 16 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 25.00% |
+| 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 20 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 21 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.90% |
+| 21 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.84% |
 | 22 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
 | 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.65% |
 | 24 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 18.84% |
@@ -57,7 +57,7 @@
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.43% |
 | 57 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.23% |
-| 58 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.22% |
+| 58 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.21% |
 | 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.08% |
 | 60 | [Sonic Origins](games/s/sonic_origins.md) | 6.97% |
 | 61 | [Scorn](games/s/scorn.md) | 6.95% |
@@ -94,7 +94,7 @@
 | 92 | [The Bunker](games/t/the_bunker.md) | 3.98% |
 | 93 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 3.70% |
 | 93 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.70% |
-| 95 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.69% |
+| 95 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.68% |
 | 96 | [Doodle God](games/d/doodle_god.md) | 3.61% |
 | 97 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.59% |
 | 98 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
@@ -138,8 +138,8 @@
 | 136 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.08% |
 | 137 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.07% |
 | 138 | [Serial Cleaners](games/s/serial_cleaners.md) | 1.97% |
-| 139 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 1.96% |
-| 140 | [Somerville](games/s/somerville.md) | 1.95% |
+| 139 | [Somerville](games/s/somerville.md) | 1.95% |
+| 140 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 1.92% |
 | 141 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
 | 142 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
 | 143 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
@@ -804,6 +804,7 @@
 | 397 | [Virtual Rides 3](games/1/116f71b2da434337bba6498e0ea61d9c.md) | 0.00% |
 | 397 | [Vlad Circus - Descend Into Madness](games/8/8fbc379433724c8382bfc79d1d8dcb77.md) | 0.00% |
 | 397 | [Voltaire: The Vegan Vampire](games/v/voltaire__the_vegan_vampire.md) | 0.00% |
+| 397 | [War Hospital](games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | 0.00% |
 | 397 | [War Mongrels](games/w/war_mongrels.md) | 0.00% |
 | 397 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 0.00% |
 | 397 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 0.00% |
@@ -823,4 +824,4 @@
 | 397 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 397 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 397 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,826 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,828 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |

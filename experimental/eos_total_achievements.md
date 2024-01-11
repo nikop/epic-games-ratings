@@ -63,6 +63,7 @@
 | [Hi-Fi RUSH](../games/h/hi-fi_rush.md) | 71 | 1,250 |
 | [Sniper Elite 5](../games/s/sniper_elite_5.md) | 71 | 1,705 |
 | [The Evil Within](../games/d/d602fd70876141ba9bf4d54809c423d1.md) | 71 | 1,735 |
+| [Beach Invasion 1945 - Pacific](../games/1/10290198c6dc48d5aa24d45bca39215a.md) | 70 | 1,000 |
 | [Curse of the Deadwood](../games/c/curse_of_the_deadwood.md) | 70 | 1,000 |
 | [Model Builder](../games/m/model_builder.md) | 70 | 1,000 |
 | [SpellForce: Conquest of Eo](../games/s/spellforce__conquest_of_eo.md) | 70 | 1,000 |
@@ -472,6 +473,7 @@
 | [The Invincible](../games/t/the_invincible.md) | 29 | 1,000 |
 | [The Uncertain: Light at the End](../games/t/the_uncertain__light_at_the_end.md) | 29 | 1,000 |
 | [Time Loader](../games/t/time_loader.md) | 29 | 1,000 |
+| [War Hospital](../games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | 29 | 1,000 |
 | [Definitely Sneaky But Not Sneaky](../games/1/125eda42f0574d97a16a5721f10d3ea1.md) | 28 | 1,000 |
 | [Endling - Extinction is Forever](../games/e/endling_-_extinction_is_forever.md) | 28 | 1,000 |
 | [Filthy Animals \| Heist Simulator](../games/f/filthy_animals___heist_simulator.md) | 28 | 1,000 |

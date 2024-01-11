@@ -138,6 +138,7 @@
 | [Battlefield V Definitive Edition](../games/b/battlefield_v_definitive_edition.md) | 21 | 1,000 |
 | [Battlefield™ 2042](../games/b/battlefield™_2042.md) | 34 | 1,000 |
 | [Beach Invasion 1944](../games/b/beach_invasion_1944.md) | 40 | 1,000 |
+| [Beach Invasion 1945 - Pacific](../games/1/10290198c6dc48d5aa24d45bca39215a.md) | 70 | 1,000 |
 | [Bio Inc. Redemption](../games/f/f00f2d0ae4f04fc987d4218d9355f026.md) | 32 | 1,000 |
 | [Biped](../games/b/biped.md) | 15 | 1,000 |
 | [Black Academy](../games/5/5bc5fe63f152435caf6a316d66bc87e3.md) | 29 | 1,000 |
@@ -847,6 +848,7 @@
 | [Vlad Circus - Descend Into Madness](../games/8/8fbc379433724c8382bfc79d1d8dcb77.md) | 12 | 1,000 |
 | [Volley Pals](../games/v/volley_pals.md) | 10 | 1,000 |
 | [Voltaire: The Vegan Vampire](../games/v/voltaire__the_vegan_vampire.md) | 31 | 1,000 |
+| [War Hospital](../games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | 29 | 1,000 |
 | [War Mongrels](../games/w/war_mongrels.md) | 59 | 1,000 |
 | [Warhammer 40,000: Boltgun](../games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 12 | 1,000 |
 | [Warhammer 40,000: Mechanicus - Standard Edition](../games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 34 | 1,000 |
