@@ -4,8 +4,8 @@
   "ProductSlug": "persha-and-the-magic-labyrinth-ca72d4",
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-22T05:00:00+00:00",
     "PcReleaseDate": "2023-09-19T05:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 51,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -630,8 +630,8 @@
   ],
   "FirstSeen": "2024-01-02T01:47:17.1216415+00:00",
   "FirstSeenAchievements": "2023-11-22T06:03:17.9237808+00:00",
-  "LastChanged_Achievements": "2024-01-11T20:09:09.6541578+00:00",
+  "LastChanged_Achievements": "2024-01-11T21:09:06.9156324+00:00",
   "LastUpdate_AppInfo": "2024-01-10T08:56:57.4561687+00:00",
-  "LastUpdate_Ratings": "2024-01-11T19:57:42.5145627+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:09:09.6541837+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:57:39.5305556+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:09:06.9156685+00:00"
 }

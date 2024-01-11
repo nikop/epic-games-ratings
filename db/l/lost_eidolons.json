@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 3827,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -199,7 +199,7 @@
   "Tags": [],
   "EOS_Progressed": 1121,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -6,
+  "EOS_NewPlayers": -7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2777,9 +2777,9 @@
       "ID": "08",
       "SetID": "73ikgfc",
       "Name": "Monster Slayer",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 348
+      "UsersEstimate": 359
     },
     {
       "ID": "09",
@@ -2914,8 +2914,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-01-11T20:04:58.5633802+00:00",
+  "LastChanged_Achievements": "2024-01-11T21:04:51.1065274+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:22.9341362+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:03:35.3735672+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:04:58.5634035+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:03:34.7698179+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:04:51.1065593+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 355,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1559,7 +1559,7 @@
   ],
   "EOS_Progressed": 7081,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16584,9 +16584,9 @@
       "ID": "ACH_EP_BATTLEROYALE",
       "SetID": "1p8ab95",
       "Name": "Viva Tropico!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 283
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -16864,8 +16864,8 @@
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-10T23:00:26.7087107+00:00",
-  "LastChanged_Achievements": "2024-01-11T20:04:45.2543199+00:00",
+  "LastChanged_Achievements": "2024-01-11T21:04:38.8409037+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.4830018+00:00",
-  "LastUpdate_Ratings": "2024-01-11T19:57:52.8089616+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:04:45.2544313+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:57:49.0582809+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:04:38.8409993+00:00"
 }

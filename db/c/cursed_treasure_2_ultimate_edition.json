@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 31,
   "Ranking_EOS_NewPlayers": 515,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -325,9 +325,9 @@
       "ID": "BADGE_BOSS_2_KILL",
       "SetID": "ak6pfjk",
       "Name": "Top of the World",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 130
     },
     {
       "ID": "BADGE_BOSS_3_KILL",
@@ -565,9 +565,9 @@
       "ID": "BADGE_ENEMIES_KILL",
       "SetID": "ak6pfjk",
       "Name": "The Apotheosis of War",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "BADGE_ENEMIES_USING_MINES_KILL",
@@ -677,9 +677,9 @@
       "ID": "BADGE_POLYMORPH_COUNT",
       "SetID": "ak6pfjk",
       "Name": "Tastes Like Chicken",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 119
     },
     {
       "ID": "BADGE_SKILL_BRANCH_MAX",
@@ -701,9 +701,9 @@
       "ID": "BADGE_STASIS_COUNT",
       "SetID": "ak6pfjk",
       "Name": "Stasis Alcatraz",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "BADGE_THUNDER_COUNT",
@@ -742,8 +742,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2024-01-11T20:06:41.0266972+00:00",
+  "LastChanged_Achievements": "2024-01-11T21:06:27.4600854+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:52.3565826+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:03:53.3893158+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:06:41.026733+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:03:52.6760449+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:06:27.4601212+00:00"
 }

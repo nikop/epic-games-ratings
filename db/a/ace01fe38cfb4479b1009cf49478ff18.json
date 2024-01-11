@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 913,
+  "EOS_Progressed": 915,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2969,6 +2969,11 @@
       "Time": "2024-01-11T19:08:46.6894951+00:00",
       "NumProgressed": 913,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T21:09:23.9436198+00:00",
+      "NumProgressed": 915,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -3037,15 +3042,15 @@
       "Name": "Defeat a Great Unclean One",
       "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ach_defeat_lord_of_change",
       "SetID": "d499apg",
       "Name": "Defeat a Lord of Change",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 45,
-      "UsersEstimate": 219
+      "UsersEstimate": 229
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -3076,14 +3081,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 913,
+      "Progressed": 915,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-11T20:09:28.2853263+00:00",
+  "LastChanged_Achievements": "2024-01-11T21:09:23.9436194+00:00",
   "LastUpdate_AppInfo": "2024-01-05T16:57:07.4104924+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:02:39.9696476+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:09:28.2853473+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:03:01.551888+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:09:23.9436476+00:00"
 }

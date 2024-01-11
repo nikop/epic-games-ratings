@@ -2,13 +2,13 @@
   "ID": "869be603dee2405197126408e11eb41c",
   "Name": "BLOCKLORDS",
   "ProductSlug": "blocklords-2a2ccd",
-  "Ranking_Rating": 951,
+  "Ranking_Rating": 944,
   "Ranking_Popularity": 483,
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 585,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 584,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-15T06:00:00+00:00",
     "PcReleaseDate": "2023-09-15T06:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.22,
+  "Rating": 4.23,
   "RatingHistory": [
     {
       "Time": "2023-09-27T08:01:20.8251438+00:00",
@@ -545,10 +545,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 89,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2024-01-11T20:59:33.8399354+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 90,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 89,
+  "NumberOfAwards": 90,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -562,7 +568,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -583,8 +589,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-08T14:02:05.3768968+00:00",
   "FirstSeenRating": "2023-09-27T08:01:20.8251435+00:00",
-  "LastChanged": "2024-01-11T07:58:38.9516876+00:00",
+  "LastChanged": "2024-01-11T20:59:33.8399352+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:18.9082396+00:00",
-  "LastUpdate_Ratings": "2024-01-11T19:59:48.1095594+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:08:41.5879511+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:59:33.8399357+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:08:39.9919825+00:00"
 }

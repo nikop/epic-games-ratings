@@ -8,8 +8,8 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | You Shall Not Pass | 51.00% | ~5,051 |
 | Tutti Eroi! | 50.00% | ~4,952 |
-| Peak Performance | 45.00% | ~4,456 |
-| Avanti Savoia! | 44.00% | ~4,357 |
+| Peak Performance | 45.00% | ~4,457 |
+| Avanti Savoia! | 44.00% | ~4,358 |
 | Mamma Mia! | 35.00% | ~3,466 |
 | Gabriele D'Annunzio | 32.00% | ~3,169 |
 | Conrad von Hotzensocks | 31.00% | ~3,070 |
@@ -21,9 +21,9 @@ Number of Ratings: 98  (23.09.2022)
 | The Italian Job | 19.00% | ~1,882 |
 | Veni Vidi Vici | 19.00% | ~1,882 |
 | Ragazzi del '99 | 17.00% | ~1,684 |
-| Luigi Cadorna | 16.00% | ~1,584 |
-| The Lion of the Isonzo | 14.00% | ~1,386 |
-| Uomo Universale | 13.00% | ~1,287 |
+| Luigi Cadorna | 16.00% | ~1,585 |
+| The Lion of the Isonzo | 14.00% | ~1,387 |
+| Uomo Universale | 13.00% | ~1,288 |
 | Die Bosniaken Kommen! | 12.00% | ~1,188 |
 | Dirty Dozen | 12.00% | ~1,188 |
 | Shaken, Not Stirred | 12.00% | ~1,188 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~40 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,903 (Ranked 184)  
+Progressed: 9,904 (Ranked 184)  
 Completed: 10 (0.10%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 10 (0.10%) (Ranked 311)
 | 2024-01-08 | 9,845 | 10 |
 | 2024-01-09 | 9,861 | 10 |
 | 2024-01-10 | 9,889 | 10 |
-| 2024-01-11 | 9,903 | 10 |
+| 2024-01-11 | 9,904 | 10 |
 ## Awards
 Max (Diverse Characters): 43  (Ranked 479)  
 Sum: 339 (Ranked 371)  

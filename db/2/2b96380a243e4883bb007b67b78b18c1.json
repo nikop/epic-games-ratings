@@ -4,8 +4,8 @@
   "ProductSlug": "spiritus-b0efa2",
   "Ranking_EOS_Progress": 675,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 585,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 584,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-10T00:00:00+00:00",
     "PcReleaseDate": "2022-06-08T23:00:00+00:00",
@@ -166,8 +166,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-04T09:03:31.3588011+00:00",
-  "LastChanged_Achievements": "2024-01-11T20:06:55.8463982+00:00",
+  "LastChanged_Achievements": "2024-01-11T21:06:41.1531222+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:12.4758597+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:03:18.3437109+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:06:55.8464045+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:03:18.1740028+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:06:41.1531339+00:00"
 }

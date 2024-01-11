@@ -4,8 +4,8 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -1601,9 +1601,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "8d3ci0",
       "Name": "Duck invasion",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 129
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1673,9 +1673,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 151
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1728,8 +1728,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2024-01-11T20:06:58.8922492+00:00",
+  "LastChanged_Achievements": "2024-01-11T21:06:43.9722686+00:00",
   "LastUpdate_AppInfo": "2024-01-07T05:57:03.4341753+00:00",
-  "LastUpdate_Ratings": "2024-01-11T19:59:21.4277178+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:06:58.8922691+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:59:10.4742616+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:06:43.9723028+00:00"
 }

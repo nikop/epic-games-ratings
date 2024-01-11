@@ -7,14 +7,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 13.00% | ~955 |
-| Lost and Found | 8.00% | ~587 |
+| Lost and Found | 8.00% | ~588 |
 | Autodidact | 7.00% | ~9,273 |
 | This guy... again? | 7.00% | ~514 |
-| Serenity Now! | 6.00% | ~7,948 |
-| This Belongs in a Museum | 6.00% | ~7,948 |
-| Creep and Sleep | 6.00% | ~7,948 |
-| Overdue Notice | 6.00% | ~7,948 |
-| Escape from the Black Hole | 6.00% | ~7,948 |
+| Serenity Now! | 6.00% | ~7,949 |
+| This Belongs in a Museum | 6.00% | ~7,949 |
+| Creep and Sleep | 6.00% | ~7,949 |
+| Overdue Notice | 6.00% | ~7,949 |
+| Escape from the Black Hole | 6.00% | ~7,949 |
 | Ploughshares to Swords | 6.00% | ~441 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,624 |
 | It Rings a Bell | 5.00% | ~6,624 |
@@ -53,13 +53,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | When You Want Something Done Right | 3.00% | ~3,974 |
 | Utopia | 3.00% | ~3,974 |
 | Road Trip | 3.00% | ~3,974 |
-| This Looks Familiar | 2.00% | ~2,649 |
-| Ichthyophobic | 2.00% | ~2,649 |
-| No More Mouths to Feed | 2.00% | ~2,649 |
-| Worldly Traveller | 2.00% | ~2,649 |
-| Hot Air | 2.00% | ~2,649 |
-| Eyes Up | 2.00% | ~2,649 |
-| Handled | 2.00% | ~2,649 |
+| This Looks Familiar | 2.00% | ~2,650 |
+| Ichthyophobic | 2.00% | ~2,650 |
+| No More Mouths to Feed | 2.00% | ~2,650 |
+| Worldly Traveller | 2.00% | ~2,650 |
+| Hot Air | 2.00% | ~2,650 |
+| Eyes Up | 2.00% | ~2,650 |
+| Handled | 2.00% | ~2,650 |
 | Clearing the Ledger | 1.00% | ~1,325 |
 | Hat Trick | 1.00% | ~1,325 |
 | Shrine of Reflection | 1.00% | ~1,325 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,474 (Ranked 91)  
+Progressed: 132,478 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,11 +342,11 @@ Completed: 4 (0.00%) (Ranked 397)
 | 2024-01-08 | 132,215 | 3 |
 | 2024-01-09 | 132,315 | 3 |
 | 2024-01-10 | 132,395 | 4 |
-| 2024-01-11 | 132,474 | 4 |
+| 2024-01-11 | 132,478 | 4 |
 ## Awards
-Max (Character Customization): 8,002  (Ranked 50)  
-Sum: 21,590 (Ranked 58)  
-Diff (max vs sum): -8  
+Max (Character Customization): 8,002  (Ranked 51)  
+Sum: 21,592 (Ranked 58)  
+Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,002 |
@@ -355,7 +355,7 @@ Diff (max vs sum): -8
 | This game is Highly Recommended | 1,603 |
 | This game has Amazing Characters | 1,531 |
 | This game is Extremely Fun | 1,520 |
-| This game has Unique Visuals | 1,465 |
+| This game has Unique Visuals | 1,467 |
 | This game has Amazing Storytelling | 1,445 |
 | This game has Quickly Understood Controls | 1,413 |
 | This game has a Creative Community | 1,092 |
@@ -712,4 +712,4 @@ Diff (max vs sum): -8
 | 2024-01-08 | 4.68 | - | 7,992 | 21,547 |
 | 2024-01-09 | 4.68 | - | 7,992 | 21,561 |
 | 2024-01-10 | 4.68 | - | 8,000 | 21,576 |
-| 2024-01-11 | 4.68 | - | 8,002 | 21,590 |
+| 2024-01-11 | 4.68 | - | 8,002 | 21,592 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -507,9 +507,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4020,
+  "EOS_Progressed": 4021,
   "EOS_Completed": 144,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.58,
   "EosHistory": [
@@ -7217,6 +7217,11 @@
       "Time": "2024-01-11T14:04:40.3434088+00:00",
       "NumProgressed": 4020,
       "NumCompleted": 144
+    },
+    {
+      "Time": "2024-01-11T21:05:57.0408284+00:00",
+      "NumProgressed": 4021,
+      "NumCompleted": 144
     }
   ],
   "TotalAchievements": 14,
@@ -7276,7 +7281,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -7292,7 +7297,7 @@
       "Name": "Imprisonment",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -7308,7 +7313,7 @@
       "Name": "Reunion",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -7332,14 +7337,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3176
+      "UsersEstimate": 3177
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4020,
+      "Progressed": 4021,
       "Completed": 144
     }
   ],
@@ -7347,8 +7352,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-05T23:57:59.2122093+00:00",
-  "LastChanged_Achievements": "2024-01-11T20:06:09.96309+00:00",
+  "LastChanged_Achievements": "2024-01-11T21:05:57.0408281+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:45.5665199+00:00",
-  "LastUpdate_Ratings": "2024-01-11T19:57:41.9994524+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:06:09.9631324+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:57:39.0497819+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:05:57.040877+00:00"
 }

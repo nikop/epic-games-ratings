@@ -22,13 +22,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fast Food | 0.60% | ~1,318 |
 | Maddening | 0.50% | ~1,267 |
 | Terror in the Dark | 0.50% | ~1,267 |
+| Unearthed Evil | 0.50% | ~1,267 |
 | The Overgrown Grove | 0.50% | ~1,098 |
 | Flames of Avernus | 0.50% | ~1,098 |
 | Mental Gymnastics | 0.50% | ~1,098 |
 | Don't Lose Your Head | 0.50% | ~1,098 |
 | Beast Mode | 0.40% | ~1,014 |
 | A Mysterious Summons | 0.40% | ~1,014 |
-| Unearthed Evil | 0.40% | ~1,014 |
 | The Crumbling Temple | 0.40% | ~1,014 |
 | Exploring Port Nyanzaru | 0.40% | ~1,014 |
 | The Contagious Curse | 0.40% | ~1,014 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,396 (Ranked 70)  
+Progressed: 253,405 (Ranked 70)  
 Completed: 2,614 (1.03%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -819,7 +819,7 @@ Completed: 2,614 (1.03%) (Ranked 176)
 | 2024-01-08 | 252,794 | 2,602 |
 | 2024-01-09 | 253,044 | 2,606 |
 | 2024-01-10 | 253,250 | 2,611 |
-| 2024-01-11 | 253,396 | 2,614 |
+| 2024-01-11 | 253,405 | 2,614 |
 ## Awards
 Max (Great for Beginners): 5,770  (Ranked 74)  
 Sum: 33,445 (Ranked 41)  

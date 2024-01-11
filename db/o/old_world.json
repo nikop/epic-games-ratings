@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 355,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2244,9 +2244,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16439,
+  "EOS_Progressed": 16447,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19634,6 +19634,11 @@
       "Time": "2024-01-11T20:11:31.9864422+00:00",
       "NumProgressed": 16439,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-11T21:11:17.9921775+00:00",
+      "NumProgressed": 16447,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19723,17 +19728,17 @@
       "ID": "ACHIEVEMENT_BABYLON_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens in Babylon",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_BABYLON_ISHTAR_GATE",
       "SetID": "9201eeb",
       "Name": "Ishtar Gate in Babylon",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_BARBARIAN_INVASION",
@@ -20059,9 +20064,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_DEVOUT",
       "SetID": "9201eeb",
       "Name": "Devout",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ENLIGHTENED",
@@ -20323,9 +20328,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WISE",
       "SetID": "9201eeb",
       "Name": "Wise",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 164
     },
     {
       "ID": "ACHIEVEMENT_COUNCIL_OF_MADNESS",
@@ -20475,17 +20480,17 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_ARTISANS",
       "SetID": "7l38kb8",
       "Name": "Artisans",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CHAMPIONS",
       "SetID": "7l38kb8",
       "Name": "Champions",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 115
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CLERICS",
@@ -20987,9 +20992,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
       "SetID": "9201eeb",
       "Name": "Colossus",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
@@ -21067,9 +21072,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
       "SetID": "9201eeb",
       "Name": "Mausoleum",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 148
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
@@ -21259,9 +21264,9 @@
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthage",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_NATION_EGYPT",
@@ -21563,9 +21568,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME",
       "SetID": "9201eeb",
       "Name": "Naming Landmarks",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 164
+      "UsersEstimate": 329
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -21619,9 +21624,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
       "SetID": "7l38kb8",
       "Name": "Gnosticism",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
@@ -22508,21 +22513,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16439,
+      "Progressed": 16447,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16439,
+      "Progressed": 16447,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-11T16:59:12.7165564+00:00",
-  "LastChanged_Achievements": "2024-01-11T20:11:31.986442+00:00",
+  "LastChanged_Achievements": "2024-01-11T21:11:17.9921773+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-11T19:59:06.6987278+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:11:31.9874687+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:58:56.6014865+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:11:17.9932141+00:00"
 }

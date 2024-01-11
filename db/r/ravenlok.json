@@ -4,8 +4,8 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -3524,9 +3524,9 @@
       "ID": "28",
       "SetID": "d0g98p",
       "Name": "Sword, Shield, Fight!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 886
+      "UsersEstimate": 898
     },
     {
       "ID": "29",
@@ -3773,8 +3773,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2024-01-11T20:08:41.3314007+00:00",
+  "LastChanged_Achievements": "2024-01-11T21:08:39.8318849+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:08.0885123+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:02:38.4704729+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:08:41.3314489+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:03:00.1563825+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:08:39.831973+00:00"
 }

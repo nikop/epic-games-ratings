@@ -1,16 +1,16 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 400)  
+Rating: 4.61 (Ranked 399)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~26,165 |
-| Wallbanger | 5.00% | ~26,165 |
-| Exploitative | 4.00% | ~20,932 |
-| High Speed Low Drag | 4.00% | ~20,932 |
-| Wet Feet | 4.00% | ~20,932 |
+| Point Shooting | 5.00% | ~26,166 |
+| Wallbanger | 5.00% | ~26,166 |
+| Exploitative | 4.00% | ~20,933 |
+| High Speed Low Drag | 4.00% | ~20,933 |
+| Wet Feet | 4.00% | ~20,933 |
 | Checkpoint Victory | 3.00% | ~15,699 |
 | Lucky | 3.00% | ~15,699 |
 | Stylin' | 3.00% | ~15,699 |
@@ -27,12 +27,12 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 0.90% | ~4,710 |
 | Mount & Gun | 0.90% | ~4,710 |
 | Personal | 0.90% | ~4,710 |
-| Grounded | 0.80% | ~4,186 |
-| Play to Win | 0.80% | ~4,186 |
+| Grounded | 0.80% | ~4,187 |
+| Play to Win | 0.80% | ~4,187 |
 | Special Delivery | 0.70% | ~3,663 |
 | Firefight Victory | 0.60% | ~3,140 |
 | #1 | 0.60% | ~3,140 |
-| Cinematic | 0.50% | ~2,616 |
+| Cinematic | 0.50% | ~2,617 |
 | Thanks Station! | 0.40% | ~2,093 |
 | Knock Knock | 0.30% | ~1,570 |
 | There For You | 0.30% | ~1,570 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~523 |
 | Road Hazard | 0.10% | ~523 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 523,293 (Ranked 40)  
+Progressed: 523,315 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,10 +308,10 @@ Completed: 2 (0.00%) (Ranked 397)
 | 2024-01-08 | 521,958 | 2 |
 | 2024-01-09 | 522,476 | 2 |
 | 2024-01-10 | 522,931 | 2 |
-| 2024-01-11 | 523,293 | 2 |
+| 2024-01-11 | 523,315 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 418  (Ranked 238)  
-Sum: 3,356 (Ranked 178)  
+Sum: 3,357 (Ranked 178)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -323,7 +323,7 @@ Diff (max vs sum): 60
 | This game has Realistic Visuals | 368 |
 | This game has Amazing Characters | 354 |
 | This game has Amazing Storytelling | 344 |
-| This game has a Competitive Community | 317 |
+| This game has a Competitive Community | 318 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
 ## Ratings History
@@ -664,4 +664,4 @@ Diff (max vs sum): 60
 | 2024-01-08 | 4.61 | - | 415 | 3,343 |
 | 2024-01-09 | 4.61 | - | 417 | 3,347 |
 | 2024-01-10 | 4.61 | - | 417 | 3,355 |
-| 2024-01-11 | 4.61 | - | 418 | 3,356 |
+| 2024-01-11 | 4.61 | - | 418 | 3,357 |

@@ -20,15 +20,15 @@
 | Drunken Master | 73.00% | ~136 |
 | V.I.P. Cemetery | 72.00% | ~134 |
 | Woodcutter | 71.00% | ~132 |
+| Top of the World | 70.00% | ~130 |
 | Sharpshooter | 70.00% | ~130 |
 | Architect of Darkness | 70.00% | ~130 |
-| Top of the World | 69.00% | ~128 |
 | Takeover | 69.00% | ~128 |
-| The Apotheosis of War | 67.00% | ~125 |
-| Stasis Alcatraz | 67.00% | ~125 |
+| The Apotheosis of War | 68.00% | ~126 |
+| Stasis Alcatraz | 68.00% | ~126 |
+| Tastes Like Chicken | 64.00% | ~119 |
 | Brilliant: Holy Mountain | 63.00% | ~117 |
 | Combo Breaker | 63.00% | ~117 |
-| Tastes Like Chicken | 63.00% | ~117 |
 | Thunderstorm | 63.00% | ~117 |
 | Clean Forests | 61.00% | ~113 |
 | Starry: Meadowshire | 58.00% | ~108 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 338,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -2485,9 +2485,9 @@
       "Count": 105
     }
   ],
-  "EOS_Progressed": 49166,
+  "EOS_Progressed": 49167,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 519,
+  "EOS_NewPlayers": 516,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -31470,6 +31470,11 @@
       "Time": "2024-01-11T20:06:19.4681432+00:00",
       "NumProgressed": 49166,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2024-01-11T21:06:06.4420359+00:00",
+      "NumProgressed": 49167,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 75,
@@ -31545,7 +31550,7 @@
       "Name": "Bane of Monsters",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 13766
+      "UsersEstimate": 13767
     },
     {
       "ID": "achievements_2",
@@ -31601,7 +31606,7 @@
       "Name": "Chainbreaker - III",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 13766
+      "UsersEstimate": 13767
     },
     {
       "ID": "achievements_26",
@@ -31649,7 +31654,7 @@
       "Name": "Bane of Mercenaries - II",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 15241
+      "UsersEstimate": 15242
     },
     {
       "ID": "achievements_31",
@@ -31665,7 +31670,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 16716
+      "UsersEstimate": 16717
     },
     {
       "ID": "achievements_33",
@@ -31729,7 +31734,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 31958
+      "UsersEstimate": 31959
     },
     {
       "ID": "achievements_40",
@@ -31785,7 +31790,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 41791
+      "UsersEstimate": 41792
     },
     {
       "ID": "achievements_47",
@@ -31817,7 +31822,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 24583
+      "UsersEstimate": 24584
     },
     {
       "ID": "achievements_50",
@@ -31833,7 +31838,7 @@
       "Name": "Prepared Necromancer",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 19666
+      "UsersEstimate": 19667
     },
     {
       "ID": "achievements_52",
@@ -31857,7 +31862,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 21141
+      "UsersEstimate": 21142
     },
     {
       "ID": "achievements_55",
@@ -31905,7 +31910,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 16716
+      "UsersEstimate": 16717
     },
     {
       "ID": "achievements_61",
@@ -31993,7 +31998,7 @@
       "Name": "Graveyard Call - III",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "achievements_71",
@@ -32057,7 +32062,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 35891
+      "UsersEstimate": 35892
     },
     {
       "ID": "achievements_8",
@@ -32080,15 +32085,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 49166,
+      "Progressed": 49167,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2024-01-10T01:47:37.1501645+00:00",
-  "LastChanged_Achievements": "2024-01-11T20:06:19.4681425+00:00",
+  "LastChanged_Achievements": "2024-01-11T21:06:06.4420357+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:56:54.8003491+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:01:00.1322135+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:06:19.4683569+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:00:39.2994046+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:06:06.4422326+00:00"
 }

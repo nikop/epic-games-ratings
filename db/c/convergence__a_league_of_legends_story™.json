@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 281,
-  "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_Completed": 206,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -64,10 +64,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1305,
-  "EOS_Completed": 7,
+  "EOS_Completed": 8,
   "EOS_NewPlayers": 78,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.54,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
     {
       "Time": "2023-05-23T23:05:09.8369672+00:00",
@@ -3928,6 +3928,11 @@
       "Time": "2024-01-11T19:10:11.0605434+00:00",
       "NumProgressed": 1305,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-11T21:11:13.3869736+00:00",
+      "NumProgressed": 1305,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4153,9 +4158,9 @@
       "ID": "NoDeathRun",
       "SetID": "a9e499d",
       "Name": "Going to Live Forever",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NoGadgetFutureEkko3",
@@ -4363,15 +4368,15 @@
       "ID": "a9e499d",
       "IsBase": true,
       "Progressed": 1305,
-      "Completed": 7
+      "Completed": 8
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-11T20:11:27.251998+00:00",
+  "LastChanged_Achievements": "2024-01-11T21:11:13.3869734+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-11T19:57:19.3689621+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:11:27.2520532+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:57:19.5882494+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:11:13.3870278+00:00"
 }

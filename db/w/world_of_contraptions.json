@@ -4,8 +4,8 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
     "PcReleaseDate": "2022-03-24T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 402,
+  "EOS_Progressed": 403,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1774,6 +1774,11 @@
       "Time": "2024-01-11T03:09:07.4359452+00:00",
       "NumProgressed": 402,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T21:10:18.8069893+00:00",
+      "NumProgressed": 403,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -1785,7 +1790,7 @@
       "Name": "The first of many",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "GROUP_EASY_COMPLETED",
@@ -1985,7 +1990,7 @@
       "Name": "Graduated in contraptions",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "LEVEL_EXTREME",
@@ -2017,21 +2022,21 @@
       "Name": "Starting to take notes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     }
   ],
   "AchievementSets": [
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 402,
+      "Progressed": 403,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2024-01-11T20:10:28.1356586+00:00",
+  "LastChanged_Achievements": "2024-01-11T21:10:18.8069889+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:13.9985258+00:00",
-  "LastUpdate_Ratings": "2024-01-11T19:58:38.8515244+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:10:28.1356889+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:58:30.3431606+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:10:18.8070265+00:00"
 }

@@ -1,7 +1,7 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 356)  
+Rating: 4.63 (Ranked 357)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,8 +15,8 @@ Number of Ratings: 85  (23.09.2022)
 | Pimp My Raid | 56.00% | ~254 |
 | Perfect Probulator | 56.00% | ~254 |
 | Lobster Blisque | 51.00% | ~231 |
+| Earthly Pleasures | 49.00% | ~222 |
 | Fly Me to the Moon Base | 48.00% | ~217 |
-| Earthly Pleasures | 48.00% | ~217 |
 | Ducks in a Row, Fish in a Barrel | 46.00% | ~208 |
 | Bodied Sattva | 36.00% | ~163 |
 | Forbidden Donut | 35.00% | ~159 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -3087,9 +3087,9 @@
       "ID": "PROTECTOR",
       "SetID": "8eejhlh",
       "Name": "Protector",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 275
+      "UsersEstimate": 286
     },
     {
       "ID": "SABOTAGE",
@@ -3128,8 +3128,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-11T20:10:45.4712244+00:00",
+  "LastChanged_Achievements": "2024-01-11T21:10:34.4888057+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.9478908+00:00",
-  "LastUpdate_Ratings": "2024-01-11T19:59:06.9117779+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:10:45.4712529+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:58:56.9296388+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:10:34.4888466+00:00"
 }

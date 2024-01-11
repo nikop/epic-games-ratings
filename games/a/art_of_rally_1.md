@@ -6,51 +6,51 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 79.00% | ~325,043 |
-| good drivers have dead flies on the side windows | 32.00% | ~131,663 |
-| keep it tidy | 26.00% | ~106,976 |
-| brail | 26.00% | ~106,976 |
-| car wash | 23.00% | ~94,633 |
-| the artist | 23.00% | ~94,633 |
-| podium | 20.00% | ~82,289 |
-| medium attack | 17.00% | ~69,946 |
-| bicycle race | 6.00% | ~24,687 |
-| grocery-getter | 5.00% | ~20,572 |
-| autopilot | 4.00% | ~16,458 |
-| rwd only | 3.00% | ~12,343 |
-| where is the stage? | 3.00% | ~12,343 |
-| night ride | 3.00% | ~12,343 |
-| snorkel | 3.00% | ~12,343 |
-| food tour: pasta | 3.00% | ~12,343 |
-| to finish first, first you must finish | 2.00% | ~8,229 |
-| perkele | 2.00% | ~8,229 |
-| turbo | 2.00% | ~8,229 |
-| if in doubt, flat out! | 2.00% | ~8,229 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~8,229 |
-| mittens | 2.00% | ~8,229 |
-| food tour: pretzel | 2.00% | ~8,229 |
-| espresso | 1.00% | ~4,114 |
-| in like a lamb, out like a lion | 1.00% | ~4,114 |
-| monster | 0.90% | ~3,703 |
+| light attack | 79.00% | ~325,131 |
+| good drivers have dead flies on the side windows | 32.00% | ~131,699 |
+| keep it tidy | 26.00% | ~107,005 |
+| brail | 26.00% | ~107,005 |
+| car wash | 23.00% | ~94,658 |
+| the artist | 23.00% | ~94,658 |
+| podium | 20.00% | ~82,312 |
+| medium attack | 17.00% | ~69,965 |
+| bicycle race | 6.00% | ~24,693 |
+| grocery-getter | 5.00% | ~20,578 |
+| autopilot | 4.00% | ~16,462 |
+| rwd only | 3.00% | ~12,347 |
+| where is the stage? | 3.00% | ~12,347 |
+| night ride | 3.00% | ~12,347 |
+| snorkel | 3.00% | ~12,347 |
+| food tour: pasta | 3.00% | ~12,347 |
+| to finish first, first you must finish | 2.00% | ~8,231 |
+| perkele | 2.00% | ~8,231 |
+| turbo | 2.00% | ~8,231 |
+| if in doubt, flat out! | 2.00% | ~8,231 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~8,231 |
+| mittens | 2.00% | ~8,231 |
+| food tour: pretzel | 2.00% | ~8,231 |
+| espresso | 1.00% | ~4,116 |
+| in like a lamb, out like a lion | 1.00% | ~4,116 |
+| monster | 0.90% | ~3,704 |
 | eurobeat | 0.60% | ~2,469 |
 | viking | 0.60% | ~2,469 |
 | parallel universe | 0.60% | ~2,469 |
-| oktoberfest | 0.50% | ~2,057 |
-| group b | 0.50% | ~2,057 |
-| samir | 0.50% | ~2,057 |
+| oktoberfest | 0.50% | ~2,058 |
+| group b | 0.50% | ~2,058 |
+| samir | 0.50% | ~2,058 |
+| master of rally | 0.40% | ~1,646 |
 | antilag | 0.40% | ~1,646 |
 | maximum attack | 0.40% | ~1,646 |
-| parking lot | 0.30% | ~1,234 |
-| master of rally | 0.30% | ~1,234 |
-| real roads, real fast | 0.30% | ~1,234 |
+| parking lot | 0.30% | ~1,235 |
+| real roads, real fast | 0.30% | ~1,235 |
 | comfy seats | 0.20% | ~823 |
 | simulator | 0.20% | ~823 |
-| if everything seems under control, you're not going fast enough | 0.10% | ~411 |
-| absolute drift | 0.10% | ~411 |
-| barely keeping it together | 0.10% | ~411 |
-| you're here for a good time, not a long time | 0.10% | ~411 |
+| if everything seems under control, you're not going fast enough | 0.10% | ~412 |
+| absolute drift | 0.10% | ~412 |
+| barely keeping it together | 0.10% | ~412 |
+| you're here for a good time, not a long time | 0.10% | ~412 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 411,447 (Ranked 49)  
+Progressed: 411,558 (Ranked 49)  
 Completed: 22 (0.01%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,15 +246,15 @@ Completed: 22 (0.01%) (Ranked 374)
 | 2024-01-08 | 405,289 | 21 |
 | 2024-01-09 | 407,593 | 21 |
 | 2024-01-10 | 409,693 | 21 |
-| 2024-01-11 | 411,447 | 22 |
+| 2024-01-11 | 411,558 | 22 |
 ## Awards
 Max (Quickly Understood Controls): 37  (Ranked 496)  
-Sum: 228 (Ranked 409)  
-Diff (max vs sum): 87  
+Sum: 230 (Ranked 406)  
+Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 37 |
-| This game is Highly Recommended | 34 |
+| This game is Highly Recommended | 36 |
 | This game is Great for Quick Sessions | 32 |
 | This game is Relaxing | 30 |
 | This game is Great for Beginners | 28 |
@@ -321,4 +321,4 @@ Diff (max vs sum): 87
 | 2024-01-08 | 4.65 | - | 36 | 193 |
 | 2024-01-09 | 4.65 | - | 36 | 199 |
 | 2024-01-10 | 4.65 | - | 37 | 224 |
-| 2024-01-11 | 4.65 | - | 37 | 228 |
+| 2024-01-11 | 4.65 | - | 37 | 230 |

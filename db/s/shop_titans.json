@@ -8137,9 +8137,9 @@
       "Count": 3822
     }
   ],
-  "EOS_Progressed": 150754,
+  "EOS_Progressed": 150757,
   "EOS_Completed": 349,
-  "EOS_NewPlayers": 1326,
+  "EOS_NewPlayers": 1313,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36317,6 +36317,11 @@
       "Time": "2024-01-11T20:09:35.3206535+00:00",
       "NumProgressed": 150754,
       "NumCompleted": 349
+    },
+    {
+      "Time": "2024-01-11T21:09:30.5813097+00:00",
+      "NumProgressed": 150757,
+      "NumCompleted": 349
     }
   ],
   "TotalAchievements": 112,
@@ -36560,7 +36565,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15075
+      "UsersEstimate": 15076
     },
     {
       "ID": "commonres02",
@@ -36592,7 +36597,7 @@
       "Name": "Disintermediation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12060
+      "UsersEstimate": 12061
     },
     {
       "ID": "craft02",
@@ -37223,15 +37228,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 150754,
+      "Progressed": 150757,
       "Completed": 349
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-11T13:09:28.9961022+00:00",
-  "LastChanged_Achievements": "2024-01-11T20:09:35.3206533+00:00",
+  "LastChanged_Achievements": "2024-01-11T21:09:30.5813093+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.0260329+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:04:00.9329168+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:09:35.3209104+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:03:59.2409406+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:09:30.5815213+00:00"
 }

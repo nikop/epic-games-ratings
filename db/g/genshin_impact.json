@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 4,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 585,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 584,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-06-08T23:00:00+00:00",
     "PcReleaseDate": "2021-06-08T23:00:00+00:00",
@@ -16845,10 +16845,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1480124,
       "NumberOfAwardsMax": 324065
+    },
+    {
+      "Time": "2024-01-11T21:01:06.8928627+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1480288,
+      "NumberOfAwardsMax": 324065
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1480124,
+  "NumberOfAwards": 1480288,
   "NumberOfAwardsMax": 324065,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -16868,13 +16874,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 148510
+      "Count": 148589
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 127550
+      "Count": 127594
     },
     {
       "Text": "This game is Extremely Fun",
@@ -16910,7 +16916,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 116372
+      "Count": 116413
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -16930,8 +16936,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2024-01-11T16:01:14.6052909+00:00",
+  "LastChanged": "2024-01-11T21:01:06.8928625+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:10.2607058+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:01:29.2075553+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:06:40.4034204+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:01:06.8928631+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:06:26.650117+00:00"
 }

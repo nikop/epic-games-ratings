@@ -23,8 +23,8 @@ Number of Ratings: 124  (23.09.2022)
 | Storyteller | 12.00% | ~28 |
 | Banker | 11.00% | ~26 |
 | Globetrotter | 11.00% | ~26 |
+| Berserker | 11.00% | ~26 |
 | Alb | 10.00% | ~24 |
-| Berserker | 10.00% | ~24 |
 | Perfectionist | 9.00% | ~21 |
 | Hunter | 8.00% | ~19 |
 | Lover | 8.00% | ~19 |

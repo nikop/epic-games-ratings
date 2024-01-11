@@ -3,12 +3,12 @@
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
   "Ranking_Rating": 263,
-  "Ranking_Popularity": 50,
+  "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10660,10 +10660,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21590,
       "NumberOfAwardsMax": 8002
+    },
+    {
+      "Time": "2024-01-11T21:01:00.9596737+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21592,
+      "NumberOfAwardsMax": 8002
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21590,
+  "NumberOfAwards": 21592,
   "NumberOfAwardsMax": 8002,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10725,7 +10731,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1465
+      "Count": 1467
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10740,9 +10746,9 @@
       "Count": 1092
     }
   ],
-  "EOS_Progressed": 132474,
+  "EOS_Progressed": 132478,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 811,
+  "EOS_NewPlayers": 807,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39395,6 +39401,11 @@
       "Time": "2024-01-11T20:11:04.3171429+00:00",
       "NumProgressed": 132474,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T21:10:52.0656896+00:00",
+      "NumProgressed": 132478,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39414,7 +39425,7 @@
       "Name": "Serenity Now!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7948
+      "UsersEstimate": 7949
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -39502,7 +39513,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -39534,7 +39545,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7948
+      "UsersEstimate": 7949
     },
     {
       "ID": "combat_kill_cadavers",
@@ -39566,7 +39577,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7948
+      "UsersEstimate": 7949
     },
     {
       "ID": "combat_kill_fanatics",
@@ -39582,7 +39593,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "combat_kill_gaunts",
@@ -39598,7 +39609,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -39630,7 +39641,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7948
+      "UsersEstimate": 7949
     },
     {
       "ID": "combat_kill_pillagers",
@@ -39646,7 +39657,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7948
+      "UsersEstimate": 7949
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -39822,7 +39833,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -39870,7 +39881,7 @@
       "Name": "Hot Air",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "run_victory_act03",
@@ -39878,7 +39889,7 @@
       "Name": "Eyes Up",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "run_victory_act04",
@@ -39886,7 +39897,7 @@
       "Name": "Handled",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "run_victory_act05",
@@ -40006,7 +40017,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -40037,21 +40048,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132474,
+      "Progressed": 132478,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7343,
+      "Progressed": 7347,
       "Completed": 824
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-11T14:59:46.1831983+00:00",
-  "LastChanged_Achievements": "2024-01-11T20:11:04.3171424+00:00",
+  "LastChanged": "2024-01-11T21:01:00.9596735+00:00",
+  "LastChanged_Achievements": "2024-01-11T21:10:52.0656892+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:01:22.7123094+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:11:04.3173558+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:01:00.9596742+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:10:52.0659302+00:00"
 }

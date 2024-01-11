@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -355,9 +355,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1080,
+  "EOS_Progressed": 1082,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2665,6 +2665,11 @@
       "Time": "2024-01-11T20:09:44.8501055+00:00",
       "NumProgressed": 1080,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T21:09:39.3454099+00:00",
+      "NumProgressed": 1082,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2685,7 +2690,7 @@
       "Name": "Highballer",
       "Percentage": 60,
       "XP": 90,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "CareerChamp1",
@@ -2733,7 +2738,7 @@
       "Name": "Storm Warning",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "CollectVehiclesA",
@@ -2741,7 +2746,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "CollectVehiclesB",
@@ -2749,7 +2754,7 @@
       "Name": "Junk Collector",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "CreditsEarnedA",
@@ -2797,7 +2802,7 @@
       "Name": "Trashing Around",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "PlayerRankC",
@@ -2836,7 +2841,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1080,
+      "Progressed": 1082,
       "Completed": 0
     }
   ],
@@ -2844,8 +2849,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-07T05:59:24.3409501+00:00",
-  "LastChanged_Achievements": "2024-01-11T20:09:44.8501053+00:00",
+  "LastChanged_Achievements": "2024-01-11T21:09:39.3454093+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
-  "LastUpdate_Ratings": "2024-01-11T19:58:08.1841136+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:09:44.8501246+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:58:03.2703283+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:09:39.3454364+00:00"
 }

@@ -36,9 +36,9 @@ Rating: 4.77 (Ranked 117)
 | No more holding back | 19.00% | ~650 |
 | Terbisia | 19.00% | ~650 |
 | Quickmoore Headquarters | 19.00% | ~650 |
+| Friendly fire | 18.00% | ~616 |
 | Whispers in the Woods III | 17.00% | ~582 |
 | My heart and sword always for Demacia | 17.00% | ~582 |
-| Friendly fire | 17.00% | ~582 |
 | True power | 17.00% | ~582 |
 | The Central Headquarters | 17.00% | ~582 |
 | Meltridge | 16.00% | ~548 |

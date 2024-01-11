@@ -6,24 +6,24 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~41,894 |
-| First Steps | 80.00% | ~36,038 |
-| Control the Shadows | 67.00% | ~30,181 |
-| Tools of the Trade | 63.00% | ~28,380 |
-| Apprentice | 60.00% | ~27,028 |
-| Secret Seeker | 57.00% | ~25,677 |
-| Forge of Assassins | 55.00% | ~24,776 |
-| Revenant | 52.00% | ~23,424 |
-| I don’t Care! | 45.00% | ~20,271 |
-| Bird of Prey | 37.00% | ~16,667 |
-| Engraved with Power | 32.00% | ~14,415 |
+| Awakening | 93.00% | ~41,896 |
+| First Steps | 80.00% | ~36,039 |
+| Control the Shadows | 67.00% | ~30,183 |
+| Tools of the Trade | 63.00% | ~28,381 |
+| Apprentice | 60.00% | ~27,029 |
+| Secret Seeker | 57.00% | ~25,678 |
+| Forge of Assassins | 55.00% | ~24,777 |
+| Revenant | 52.00% | ~23,425 |
+| I don’t Care! | 45.00% | ~20,272 |
+| Bird of Prey | 37.00% | ~16,668 |
+| Engraved with Power | 32.00% | ~14,416 |
 | Lady | 31.00% | ~13,965 |
 | Fashionable Assassin | 27.00% | ~12,163 |
-| Apex Predator | 24.00% | ~10,811 |
+| Apex Predator | 24.00% | ~10,812 |
 | Soul Reaver | 23.00% | ~10,361 |
-| Embers | 22.00% | ~9,910 |
-| Wall Lizard | 20.00% | ~9,009 |
-| Clinging to Life | 18.00% | ~8,108 |
+| Embers | 22.00% | ~9,911 |
+| Wall Lizard | 20.00% | ~9,010 |
+| Clinging to Life | 18.00% | ~8,109 |
 | Burning | 17.00% | ~7,658 |
 | Look Behind You | 17.00% | ~7,658 |
 | Sleeping on the Job | 16.00% | ~7,208 |
@@ -51,8 +51,8 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~901 |
 | Legacy | 2.00% | ~901 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,047 (Ranked 128)  
-Completed: 248 (0.55%) (Ranked 215)  
+Progressed: 45,049 (Ranked 128)  
+Completed: 248 (0.55%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -317,7 +317,7 @@ Completed: 248 (0.55%) (Ranked 215)
 | 2024-01-08 | 44,989 | 248 |
 | 2024-01-09 | 45,019 | 248 |
 | 2024-01-10 | 45,036 | 248 |
-| 2024-01-11 | 45,047 | 248 |
+| 2024-01-11 | 45,049 | 248 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -10,8 +10,8 @@
 | Budding Conjuror | 59.00% | ~786 |
 | Charmed by the Hunt | 49.00% | ~653 |
 | Man-Machine Master | 48.00% | ~639 |
+| Mountain Splitter | 48.00% | ~639 |
 | Subsistence Skills | 48.00% | ~639 |
-| Mountain Splitter | 47.00% | ~626 |
 | Memory Rouser | 46.00% | ~613 |
 | Fusion Conjuror | 45.00% | ~599 |
 | Kemono Hunter | 42.00% | ~559 |
@@ -53,8 +53,8 @@
 | Big Spender | 5.00% | ~67 |
 | Tsukumo Whisperer | 3.00% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,332 (Ranked 278)  
-Completed: 8 (0.60%) (Ranked 209)  
+Progressed: 1,332 (Ranked 279)  
+Completed: 8 (0.60%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

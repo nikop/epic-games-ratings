@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 585,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 584,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-11-23T16:00:00+00:00",
     "PcReleaseDate": "2018-05-08T16:00:00+00:00",
@@ -9316,18 +9316,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 11386,
       "NumberOfAwardsMax": 1668
+    },
+    {
+      "Time": "2024-01-11T21:01:02.9170156+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11394,
+      "NumberOfAwardsMax": 1673
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11386,
-  "NumberOfAwardsMax": 1668,
+  "NumberOfAwards": 11394,
+  "NumberOfAwardsMax": 1673,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1668
+      "Count": 1673
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9363,13 +9369,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1461
+      "Count": 1462
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1332
+      "Count": 1334
     },
     {
       "Text": "This game has a Creative Community",
@@ -9389,8 +9395,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2024-01-11T01:49:26.993094+00:00",
+  "LastChanged": "2024-01-11T21:01:02.9170153+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:01.0021218+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:01:24.9466214+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:07:08.0535911+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:01:02.9170159+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:06:52.6944424+00:00"
 }

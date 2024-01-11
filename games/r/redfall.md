@@ -43,8 +43,8 @@ Rating: 3.68 (Ranked 1,095)
 | Curious Finch | 2.00% | ~47 |
 | Blood Brother | 1.00% | ~24 |
 | Blacklight Down | 1.00% | ~24 |
+| Neighborhood Watch | 0.90% | ~21 |
 | Bloody Initiate | 0.90% | ~21 |
-| Neighborhood Watch | 0.80% | ~19 |
 | Empty Nest Syndrome | 0.80% | ~19 |
 | Dexterity Save | 0.80% | ~19 |
 | Scream Team | 0.70% | ~17 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,095)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,364 (Ranked 242)  
+Progressed: 2,365 (Ranked 242)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 2,317 | 0 |
 | 2024-01-09 | 2,331 | 0 |
 | 2024-01-10 | 2,353 | 0 |
-| 2024-01-11 | 2,364 | 0 |
+| 2024-01-11 | 2,365 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 555)  
 Sum: 24 (Ranked 562)  

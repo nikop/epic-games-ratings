@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16586,
+  "EOS_Progressed": 16588,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6395,6 +6395,11 @@
       "Time": "2024-01-11T20:10:40.8683552+00:00",
       "NumProgressed": 16586,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-11T21:10:30.224563+00:00",
+      "NumProgressed": 16588,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6439,7 +6444,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12440
+      "UsersEstimate": 12441
     },
     {
       "ID": "ACH_AE_14",
@@ -6447,7 +6452,7 @@
       "Name": "Sticky Situation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3317
+      "UsersEstimate": 3318
     },
     {
       "ID": "ACH_AE_15",
@@ -6479,7 +6484,7 @@
       "Name": "Crime Fighter",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "ACH_AE_19",
@@ -6527,7 +6532,7 @@
       "Name": "Emergency Services",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "ACH_AE_24",
@@ -6535,7 +6540,7 @@
       "Name": "Think Fast",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "ACH_AE_25",
@@ -6551,7 +6556,7 @@
       "Name": "Live With It",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "ACH_AE_27",
@@ -6639,7 +6644,7 @@
       "Name": "The Bomb",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "ACH_AE_5",
@@ -6647,7 +6652,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "ACH_AE_6",
@@ -6686,7 +6691,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16586,
+      "Progressed": 16588,
       "Completed": 15
     }
   ],
@@ -6694,8 +6699,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-06T19:57:04.811996+00:00",
-  "LastChanged_Achievements": "2024-01-11T20:10:40.868355+00:00",
+  "LastChanged_Achievements": "2024-01-11T21:10:30.2245626+00:00",
   "LastUpdate_AppInfo": "2024-01-09T19:56:59.6965527+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:01:08.289045+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:10:40.8684195+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:00:47.4776664+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:10:30.2246223+00:00"
 }

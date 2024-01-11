@@ -3,12 +3,12 @@
   "Name": "Far Cry\u00AE3 Standard Edition",
   "ProductSlug": "far-cry-3",
   "Ranking_Rating": 204,
-  "Ranking_Popularity": 221,
+  "Ranking_Popularity": 222,
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 585,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 584,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2013-01-15T10:00:00+00:00",
     "PcReleaseDate": null,
@@ -1881,6 +1881,6 @@
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
   "LastChanged": "2024-01-11T19:00:31.0527732+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:16.6478445+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:02:31.3104496+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:10:01.1426539+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:02:53.6290893+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:09:54.0286239+00:00"
 }

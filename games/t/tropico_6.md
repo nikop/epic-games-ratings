@@ -27,11 +27,11 @@ Number of Ratings: 398  (23.09.2022)
 | French Connection | 7.00% | ~496 |
 | Don't Panic! | 6.00% | ~425 |
 | I Owe You Nothing | 6.00% | ~425 |
+| Viva Tropico! | 5.00% | ~354 |
 | Computer Says "No" | 5.00% | ~354 |
 | Beware The Betman | 5.00% | ~354 |
 | Watch The World Burn | 5.00% | ~354 |
 | Fairy Tale Come True | 5.00% | ~354 |
-| Viva Tropico! | 4.00% | ~283 |
 | Been there, Done That | 3.00% | ~212 |
 | Apocalypso | 3.00% | ~212 |
 | Narcissist | 3.00% | ~212 |

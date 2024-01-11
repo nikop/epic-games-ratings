@@ -6,10 +6,10 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 3.00% | ~8,824 |
+| Ball Launched | 3.00% | ~8,825 |
 | I Found it! | 1.00% | ~2,942 |
 | Ready Steady Score | 0.50% | ~1,471 |
-| First but not Last | 0.30% | ~882 |
+| First but not Last | 0.30% | ~883 |
 | Full Loot Madness | 0.20% | ~588 |
 | Contender | 0.10% | ~294 |
 | My Table, my Rules | 0.10% | ~294 |
@@ -46,7 +46,7 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 294,150 (Ranked 63)  
+Progressed: 294,167 (Ranked 63)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,10 +312,10 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 293,289 | 0 |
 | 2024-01-09 | 293,605 | 0 |
 | 2024-01-10 | 293,871 | 0 |
-| 2024-01-11 | 294,150 | 0 |
+| 2024-01-11 | 294,167 | 0 |
 ## Awards
 Max (Great for Beginners): 214  (Ranked 294)  
-Sum: 1,650 (Ranked 234)  
+Sum: 1,651 (Ranked 234)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -328,7 +328,7 @@ Diff (max vs sum): 60
 | This game has Competitive Players | 158 |
 | This game has Challenging Combat | 115 |
 | This game has a Competitive Community | 109 |
-| This game has Amazing Storytelling | 103 |
+| This game has Amazing Storytelling | 104 |
 | This game has Amazing Characters | 92 |
 | This game has Obsessive Gameplay | 65 |
 | This game has Realistic Visuals | 52 |
@@ -549,4 +549,4 @@ Diff (max vs sum): 60
 | 2024-01-07 | 4.07 | - | 213 | 1,641 |
 | 2024-01-08 | 4.07 | - | 213 | 1,646 |
 | 2024-01-10 | 4.07 | - | 214 | 1,648 |
-| 2024-01-11 | 4.07 | - | 214 | 1,650 |
+| 2024-01-11 | 4.07 | - | 214 | 1,651 |

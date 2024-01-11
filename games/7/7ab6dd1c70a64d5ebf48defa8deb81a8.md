@@ -8,8 +8,8 @@ Rating: 4.14 (Ranked 1,008)
 | Break Out | 63.00% | ~1,411 |
 | Trinity | 32.00% | ~716 |
 | The Collector | 26.00% | ~582 |
+| Find Allies | 25.00% | ~560 |
 | A Taste of Wrath | 25.00% | ~560 |
-| Find Allies | 24.00% | ~537 |
 | I Found It | 24.00% | ~537 |
 | Adventurer | 23.00% | ~515 |
 | Shatter Them All | 23.00% | ~515 |

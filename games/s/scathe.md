@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 5.00% | ~32 |
+| First Blood | 5.00% | ~33 |
 | Half a Life | 3.00% | ~20 |
 | Shock to the System | 3.00% | ~20 |
 | Bad Blood | 2.00% | ~13 |
-| Serious Bam | 1.00% | ~6 |
+| Serious Bam | 1.00% | ~7 |
 | Doomed | 0.80% | ~5 |
 | Postal Service | 0.80% | ~5 |
 | Unreal | 0.80% | ~5 |
@@ -35,7 +35,7 @@
 | Rage Quit | 0.20% | ~1 |
 | Until Dusk | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 650 (Ranked 337)  
+Progressed: 651 (Ranked 337)  
 Completed: 1 (0.15%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 1 (0.15%) (Ranked 291)
 | 2024-01-08 | 635 | 1 |
 | 2024-01-09 | 639 | 1 |
 | 2024-01-10 | 646 | 1 |
-| 2024-01-11 | 650 | 1 |
+| 2024-01-11 | 651 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tootorial | 59.00% | ~6,771 |
-| Wind Master | 44.00% | ~5,050 |
-| Davy Jones | 9.00% | ~1,033 |
-| Hook, Line and Stinker | 6.00% | ~689 |
-| Nice Shootin' Duds | 2.00% | ~230 |
-| Race In Yo Face | 1.00% | ~115 |
-| Baby's First Thingamabob | 0.40% | ~46 |
-| Gateway Slug | 0.30% | ~34 |
-| Great Balls Of Fire | 0.20% | ~23 |
-| Light Up the Night | 0.20% | ~23 |
-| Boarding Party | 0.10% | ~11 |
-| Tekk Savvy | 0.10% | ~11 |
-| This Is Fine | 0.10% | ~11 |
-| I Don't Like The Slugs | 0.10% | ~11 |
-| But The Slugs Like Me | 0.10% | ~11 |
-| Pengy Fun | 0.10% | ~11 |
+| Tootorial | 61.00% | ~9,449 |
+| Wind Master | 46.00% | ~7,125 |
+| Davy Jones | 10.00% | ~1,549 |
+| Hook, Line and Stinker | 7.00% | ~1,084 |
+| Nice Shootin' Duds | 2.00% | ~310 |
+| Race In Yo Face | 1.00% | ~155 |
+| Baby's First Thingamabob | 0.60% | ~93 |
+| Gateway Slug | 0.40% | ~62 |
+| Great Balls Of Fire | 0.30% | ~46 |
+| Light Up the Night | 0.30% | ~46 |
+| By The Power Of Underskull | 0.10% | ~15 |
+| Boarding Party | 0.10% | ~15 |
+| Tekk Savvy | 0.10% | ~15 |
+| This Is Fine | 0.10% | ~15 |
+| I Don't Like The Slugs | 0.10% | ~15 |
+| But The Slugs Like Me | 0.10% | ~15 |
+| Pengy Fun | 0.10% | ~15 |
 | Polar Pontification | 0.00% | ~0 |
 | What's Krakalackin? | 0.00% | ~0 |
 | Aggro Kreb | 0.00% | ~0 |
 | Total Eclipse of the Eel | 0.00% | ~0 |
-| By The Power Of Underskull | 0.00% | ~0 |
 | All Good Things... | 0.00% | ~0 |
 | No More Splosions | 0.00% | ~0 |
 | Lights Out | 0.00% | ~0 |
@@ -52,13 +52,13 @@
 | For Whom The Bells Toll | 0.00% | ~0 |
 | Don't I Know You? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,477 (Ranked 179)  
+Progressed: 15,490 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-05 | 2 | 0 |
-| 2024-01-11 | 11,477 | 0 |
+| 2024-01-11 | 15,490 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -10,8 +10,8 @@ Rating: 4.46 (Ranked 676)
 | It's The Fall | 26.00% | ~65,870 |
 | The Stunner | 23.00% | ~58,270 |
 | Be Aggressive | 21.00% | ~53,203 |
-| Curator | 20.00% | ~50,669 |
-| Crowning Around | 18.00% | ~45,602 |
+| Curator | 20.00% | ~50,670 |
+| Crowning Around | 18.00% | ~45,603 |
 | Can You Dig It? | 17.00% | ~43,069 |
 | You Juan-A-Go? | 16.00% | ~40,536 |
 | Chan-tastic | 15.00% | ~38,002 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 676)
 | Talent Scout | 0.10% | ~253 |
 | True Completionist | 0.10% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,347 (Ranked 71)  
+Progressed: 253,348 (Ranked 71)  
 Completed: 6 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 6 (0.00%) (Ranked 397)
 | 2024-01-08 | 253,259 | 6 |
 | 2024-01-09 | 253,291 | 6 |
 | 2024-01-10 | 253,318 | 6 |
-| 2024-01-11 | 253,347 | 6 |
+| 2024-01-11 | 253,348 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

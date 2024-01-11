@@ -4,8 +4,8 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
     "PcReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 511,
+  "EOS_Progressed": 512,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -1516,6 +1516,11 @@
       "Time": "2024-01-11T20:10:52.3394942+00:00",
       "NumProgressed": 511,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-11T21:10:40.9682767+00:00",
+      "NumProgressed": 512,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 19,
@@ -1567,7 +1572,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "ryan_date2_all",
@@ -1607,7 +1612,7 @@
       "Name": "The boss",
       "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "success_derek",
@@ -1678,7 +1683,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 511,
+      "Progressed": 512,
       "Completed": 6
     }
   ],
@@ -1686,8 +1691,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-11T20:10:52.3394938+00:00",
+  "LastChanged_Achievements": "2024-01-11T21:10:40.9682763+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.8807214+00:00",
-  "LastUpdate_Ratings": "2024-01-11T20:01:42.9410673+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:10:52.3395127+00:00"
+  "LastUpdate_Ratings": "2024-01-11T21:01:21.4108947+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:10:40.9682973+00:00"
 }

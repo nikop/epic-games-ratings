@@ -2,10 +2,10 @@
   "ID": "0acc28c619c44fbab3dd30c7f87e9679",
   "Name": "SpellForce: Conquest of Eo",
   "ProductSlug": "spellforce-conquest-of-eo",
-  "Ranking_EOS_Progress": 470,
+  "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 139,
+  "EOS_Progressed": 140,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -704,6 +704,11 @@
       "Time": "2024-01-11T17:11:07.5187542+00:00",
       "NumProgressed": 139,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T21:10:36.8509647+00:00",
+      "NumProgressed": 140,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T16:04:46.0994968+00:00",
@@ -722,7 +727,7 @@
       "ID": "Build_First_Lodge",
       "SetID": "7b9f97e",
       "Name": "Expansion",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
       "UsersEstimate": 76
     },
@@ -730,7 +735,7 @@
       "ID": "Build_First_Room",
       "SetID": "7b9f97e",
       "Name": "Enough rooms to swing a cat",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 15,
       "UsersEstimate": 108
     },
@@ -740,7 +745,7 @@
       "Name": "Redecorating",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Capture_Own_Tower",
@@ -748,15 +753,15 @@
       "Name": "Home Sweet Home",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "Cast_First_Spell",
       "SetID": "7b9f97e",
       "Name": "A kind of Magic",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 94
     },
     {
       "ID": "Circle_Page",
@@ -764,7 +769,7 @@
       "Name": "The Circle",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Craft_First_Glyph",
@@ -794,9 +799,9 @@
       "ID": "Defeat_Gor",
       "SetID": "7b9f97e",
       "Name": "Defeat Gor",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "Defeat_Hokan",
@@ -842,17 +847,17 @@
       "ID": "Defeat_Undergast",
       "SetID": "7b9f97e",
       "Name": "Defeat Undergast",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Defeat_Uram",
       "SetID": "7b9f97e",
       "Name": "Defeat Uram",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "Defeat_Yria",
@@ -868,13 +873,13 @@
       "Name": "Slave to the rhythm",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "First_LevelUp",
       "SetID": "7b9f97e",
       "Name": "First to the post",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 15,
       "UsersEstimate": 108
     },
@@ -922,9 +927,9 @@
       "ID": "HeroStory_Philo",
       "SetID": "7b9f97e",
       "Name": "Philo\u0027s Tale",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "HeroStory_Yngrid",
@@ -940,7 +945,7 @@
       "Name": "Castle Meldec",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Landmark_CryptRevenant",
@@ -980,7 +985,7 @@
       "Name": "Stormwatch Faste",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Landmark_Throne",
@@ -988,7 +993,7 @@
       "Name": "Sevenkeeps Seat of Kings",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Landmark_TuscariPortal",
@@ -1124,7 +1129,7 @@
       "Name": "Friend of Gillyshire",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Max_Reputation_Goldenfields",
@@ -1140,15 +1145,15 @@
       "Name": "Friend of Orgash",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Max_Reputation_Sevenkeeps",
       "SetID": "7b9f97e",
       "Name": "Friend of Sevenkeeps",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "Max_Reputation_SilverDriftHollow",
@@ -1202,9 +1207,9 @@
       "ID": "Mine_First_Ore",
       "SetID": "7b9f97e",
       "Name": "Mine!",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 73
     },
     {
       "ID": "Recipes_All_Alchemy",
@@ -1275,7 +1280,7 @@
     {
       "ID": "7b9f97e",
       "IsBase": true,
-      "Progressed": 139,
+      "Progressed": 140,
       "Completed": 0
     }
   ],
@@ -1283,8 +1288,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-11T20:10:48.0591604+00:00",
+  "LastChanged_Achievements": "2024-01-11T21:10:36.8509643+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:39.1572287+00:00",
-  "LastUpdate_Ratings": "2024-01-11T19:59:28.6794045+00:00",
-  "LastUpdate_Achievements": "2024-01-11T20:10:48.0592311+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:59:16.6938974+00:00",
+  "LastUpdate_Achievements": "2024-01-11T21:10:36.8510269+00:00"
 }

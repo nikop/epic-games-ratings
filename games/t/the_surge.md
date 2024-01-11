@@ -6,23 +6,23 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~5,067 |
+| On My Own Two Feet | 94.00% | ~5,068 |
 | I'll Be Back | 84.00% | ~4,528 |
-| Sorry, I Dropped This | 76.00% | ~4,096 |
-| First Day on the Job | 76.00% | ~4,096 |
+| Sorry, I Dropped This | 76.00% | ~4,097 |
+| First Day on the Job | 76.00% | ~4,097 |
 | Butcher's Bill | 54.00% | ~2,911 |
-| P.A.X | 36.00% | ~1,940 |
-| Hey Listen | 36.00% | ~1,940 |
-| OPERATOR | 35.00% | ~1,886 |
+| P.A.X | 36.00% | ~1,941 |
+| Hey Listen | 36.00% | ~1,941 |
+| OPERATOR | 35.00% | ~1,887 |
 | It's Blue Light | 33.00% | ~1,779 |
-| Most Wanted | 26.00% | ~1,401 |
+| Most Wanted | 26.00% | ~1,402 |
 | Infidel | 23.00% | ~1,240 |
 | Firebug | 20.00% | ~1,078 |
 | GOLIATH | 20.00% | ~1,078 |
 | I Choose You | 17.00% | ~916 |
 | Nothing to Lose | 17.00% | ~916 |
-| Big Sister | 15.00% | ~808 |
-| SENTINEL | 15.00% | ~808 |
+| Big Sister | 15.00% | ~809 |
+| SENTINEL | 15.00% | ~809 |
 | Gear Up | 14.00% | ~755 |
 | The Black Cerberus | 12.00% | ~647 |
 | Watchman | 12.00% | ~647 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~32 |
 | The Surge | 0.40% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,390 (Ranked 204)  
+Progressed: 5,391 (Ranked 204)  
 Completed: 18 (0.33%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 18 (0.33%) (Ranked 250)
 | 2024-01-08 | 5,343 | 18 |
 | 2024-01-09 | 5,358 | 18 |
 | 2024-01-10 | 5,379 | 18 |
-| 2024-01-11 | 5,390 | 18 |
+| 2024-01-11 | 5,391 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 522)  
 Sum: 30 (Ranked 543)  

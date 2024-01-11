@@ -5,15 +5,15 @@ Rating: 4.86 (Ranked 31)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 55.00% | ~9,239 |
-| Start with a bang! | 54.00% | ~9,071 |
-| You can pet the cat! | 49.00% | ~8,232 |
-| Who put gears in there? | 40.00% | ~6,720 |
-| Cream of the Crop | 35.00% | ~5,880 |
-| Thanks for the free chip, Peppermint! | 34.00% | ~5,712 |
-| You got this, Peppermint? | 30.00% | ~5,040 |
-| Perfect Parry | 28.00% | ~4,704 |
-| Alright, that felt AWESOME! | 27.00% | ~4,536 |
+| Feeling the beat! | 55.00% | ~9,241 |
+| Start with a bang! | 54.00% | ~9,073 |
+| You can pet the cat! | 49.00% | ~8,233 |
+| Who put gears in there? | 40.00% | ~6,721 |
+| Cream of the Crop | 35.00% | ~5,881 |
+| Thanks for the free chip, Peppermint! | 34.00% | ~5,713 |
+| You got this, Peppermint? | 30.00% | ~5,041 |
+| Perfect Parry | 28.00% | ~4,705 |
+| Alright, that felt AWESOME! | 27.00% | ~4,537 |
 | I play my own way! | 23.00% | ~3,864 |
 | This will cost you big time | 22.00% | ~3,696 |
 | Uh, they were broken when I got here | 21.00% | ~3,528 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 31)
 | Voices from within | 0.10% | ~15 |
 | Low budget finish | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,799 (Ranked 167)  
+Progressed: 16,802 (Ranked 167)  
 Completed: 8 (0.05%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 8 (0.05%) (Ranked 338)
 | 2024-01-08 | 16,279 | 8 |
 | 2024-01-09 | 16,474 | 8 |
 | 2024-01-10 | 16,669 | 8 |
-| 2024-01-11 | 16,799 | 8 |
+| 2024-01-11 | 16,802 | 8 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 517)  
 Sum: 32 (Ranked 541)  
