@@ -5270,9 +5270,9 @@
       "ID": "NEW_ACHIEVEMENT_MINER",
       "SetID": "l546gc",
       "Name": "Miner",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 488
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -5415,8 +5415,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2024-01-09T16:02:23.0830001+00:00",
-  "LastChanged_Achievements": "2024-01-11T07:09:50.605527+00:00",
+  "LastChanged_Achievements": "2024-01-11T08:09:41.1221894+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.830509+00:00",
-  "LastUpdate_Ratings": "2024-01-11T07:02:59.4241144+00:00",
-  "LastUpdate_Achievements": "2024-01-11T07:09:50.6055816+00:00"
+  "LastUpdate_Ratings": "2024-01-11T08:02:49.8559822+00:00",
+  "LastUpdate_Achievements": "2024-01-11T08:09:41.1222352+00:00"
 }

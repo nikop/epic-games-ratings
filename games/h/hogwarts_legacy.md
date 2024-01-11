@@ -1,57 +1,57 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.75 (Ranked 146)  
+Rating: 4.75 (Ranked 147)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 31.00% | ~118,091 |
-| First Class Student | 27.00% | ~102,854 |
-| Troll with the Punches | 25.00% | ~95,235 |
-| A Keen Sense of Spell | 22.00% | ~83,807 |
-| A Talent for Spending | 18.00% | ~68,569 |
-| That's a Keeper | 18.00% | ~68,569 |
-| Loom for Improvement | 15.00% | ~57,141 |
-| Followed the Butterflies | 14.00% | ~53,331 |
-| The Defender of Dragons | 13.00% | ~49,522 |
-| The Hallowed Hero | 12.00% | ~45,713 |
-| Challenge Accepted | 12.00% | ~45,713 |
-| Coasting Along | 12.00% | ~45,713 |
-| Grappling with a Graphorn | 11.00% | ~41,903 |
-| The One Who Mastered Memories | 11.00% | ~41,903 |
-| The Hero of Hogwarts | 11.00% | ~41,903 |
-| The Spell Master | 10.00% | ~38,094 |
-| Rising From the Ashes | 10.00% | ~38,094 |
-| Flight the Good Flight | 9.00% | ~34,285 |
-| The Avenging Gazelle | 8.00% | ~30,475 |
-| Beast Friends | 8.00% | ~30,475 |
-| A Sallow Grave | 8.00% | ~30,475 |
-| Raising Expectations | 8.00% | ~30,475 |
-| The Toast of the Town | 7.00% | ~26,666 |
-| The Root of the Problem | 7.00% | ~26,666 |
-| The Gryffindor in the Graveyard | 7.00% | ~26,666 |
-| The Seeker of Knowledge | 6.00% | ~22,856 |
-| Third Time's a Charm | 6.00% | ~22,856 |
-| The Ends Petrify the Means | 6.00% | ~22,856 |
-| The Wise Owl | 6.00% | ~22,856 |
-| Going Through the Potions | 5.00% | ~19,047 |
-| The Auror's Apprentice | 4.00% | ~15,238 |
-| Room with a View | 4.00% | ~15,238 |
-| The Intrepid Explorer | 4.00% | ~15,238 |
-| Put Down Roots | 3.00% | ~11,428 |
-| Floo Around the World | 3.00% | ~11,428 |
+| The Sort Who Makes an Entrance | 31.00% | ~118,100 |
+| First Class Student | 27.00% | ~102,862 |
+| Troll with the Punches | 25.00% | ~95,242 |
+| A Keen Sense of Spell | 22.00% | ~83,813 |
+| A Talent for Spending | 18.00% | ~68,574 |
+| That's a Keeper | 18.00% | ~68,574 |
+| Loom for Improvement | 15.00% | ~57,145 |
+| Followed the Butterflies | 14.00% | ~53,336 |
+| The Defender of Dragons | 13.00% | ~49,526 |
+| The Hallowed Hero | 12.00% | ~45,716 |
+| Challenge Accepted | 12.00% | ~45,716 |
+| Coasting Along | 12.00% | ~45,716 |
+| Grappling with a Graphorn | 11.00% | ~41,907 |
+| The One Who Mastered Memories | 11.00% | ~41,907 |
+| The Hero of Hogwarts | 11.00% | ~41,907 |
+| The Spell Master | 10.00% | ~38,097 |
+| Rising From the Ashes | 10.00% | ~38,097 |
+| Flight the Good Flight | 9.00% | ~34,287 |
+| The Avenging Gazelle | 8.00% | ~30,478 |
+| Beast Friends | 8.00% | ~30,478 |
+| A Sallow Grave | 8.00% | ~30,478 |
+| Raising Expectations | 8.00% | ~30,478 |
+| The Toast of the Town | 7.00% | ~26,668 |
+| The Root of the Problem | 7.00% | ~26,668 |
+| The Gryffindor in the Graveyard | 7.00% | ~26,668 |
+| The Seeker of Knowledge | 6.00% | ~22,858 |
+| Third Time's a Charm | 6.00% | ~22,858 |
+| The Ends Petrify the Means | 6.00% | ~22,858 |
+| The Wise Owl | 6.00% | ~22,858 |
+| Going Through the Potions | 5.00% | ~19,048 |
+| The Auror's Apprentice | 4.00% | ~15,239 |
+| Room with a View | 4.00% | ~15,239 |
+| The Intrepid Explorer | 4.00% | ~15,239 |
+| Put Down Roots | 3.00% | ~11,429 |
+| Floo Around the World | 3.00% | ~11,429 |
 | The Good Samaritan | 2.00% | ~7,619 |
 | Savvy Spender | 2.00% | ~7,619 |
 | Rise to the Challenges | 2.00% | ~7,619 |
 | Demiguise Dread | 2.00% | ~7,619 |
 | Finishing Touches | 2.00% | ~7,619 |
 | A Forte for Achievement | 2.00% | ~7,619 |
-| Merlin's Beard! | 1.00% | ~3,809 |
-| Spilled Milk | 0.90% | ~3,428 |
+| Merlin's Beard! | 1.00% | ~3,810 |
+| Spilled Milk | 0.90% | ~3,429 |
 | The Nature of the Beast | 0.70% | ~2,667 |
 | Collector's Edition | 0.30% | ~1,143 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 380,939 (Ranked 54)  
+Progressed: 380,969 (Ranked 54)  
 Completed: 556 (0.15%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 556 (0.15%) (Ranked 291)
 | 2024-01-08 | 376,174 | 554 |
 | 2024-01-09 | 378,238 | 554 |
 | 2024-01-10 | 380,531 | 556 |
-| 2024-01-11 | 380,939 | 556 |
+| 2024-01-11 | 380,969 | 556 |
 ## Awards
 Max (Character Customization): 30,046  (Ranked 16)  
 Sum: 60,726 (Ranked 26)  

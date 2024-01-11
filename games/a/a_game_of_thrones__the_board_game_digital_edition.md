@@ -1,14 +1,14 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.21 (Ranked 955)  
+Rating: 4.21 (Ranked 956)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~13,243 |
+| Conqueror | 40.00% | ~13,244 |
 | Battering Crew | 19.00% | ~6,291 |
-| The Kingsroad | 18.00% | ~5,959 |
+| The Kingsroad | 18.00% | ~5,960 |
 | Well Stocked | 13.00% | ~4,304 |
 | Royal Fleet | 12.00% | ~3,973 |
 | The Kraken’s Grasp | 9.00% | ~2,980 |
@@ -18,9 +18,9 @@ Number of Ratings: 2,500  (23.09.2022)
 | Oathkeeper | 7.00% | ~2,318 |
 | Influential | 7.00% | ~2,318 |
 | A Long Journey | 7.00% | ~2,318 |
-| Ours is the Fury | 6.00% | ~1,986 |
-| We Do Not Sow | 6.00% | ~1,986 |
-| Defender of the Wall | 6.00% | ~1,986 |
+| Ours is the Fury | 6.00% | ~1,987 |
+| We Do Not Sow | 6.00% | ~1,987 |
+| Defender of the Wall | 6.00% | ~1,987 |
 | Unbowed, Unbent, Unbroken | 5.00% | ~1,655 |
 | Growing Strong | 5.00% | ~1,655 |
 | Hear me Roar! | 5.00% | ~1,655 |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | The Swift | 2.00% | ~662 |
 | War of the Five Kings | 1.00% | ~331 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,108 (Ranked 139)  
+Progressed: 33,109 (Ranked 139)  
 Completed: 86 (0.26%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,7 +295,7 @@ Completed: 86 (0.26%) (Ranked 265)
 | 2024-01-08 | 32,932 | 86 |
 | 2024-01-09 | 33,018 | 86 |
 | 2024-01-10 | 33,085 | 86 |
-| 2024-01-11 | 33,108 | 86 |
+| 2024-01-11 | 33,109 | 86 |
 ## Awards
 Max (Quickly Understood Controls): 128  (Ranked 351)  
 Sum: 810 (Ranked 292)  

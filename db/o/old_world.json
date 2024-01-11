@@ -2238,9 +2238,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16400,
+  "EOS_Progressed": 16402,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19568,6 +19568,11 @@
       "Time": "2024-01-11T04:10:15.0454605+00:00",
       "NumProgressed": 16400,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-11T08:10:23.3620553+00:00",
+      "NumProgressed": 16402,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20897,9 +20902,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
       "SetID": "9201eeb",
       "Name": "Acropolis",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 148
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
@@ -20953,9 +20958,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
       "SetID": "9201eeb",
       "Name": "Church of the Holy Sepulchre",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
@@ -21249,9 +21254,9 @@
       "ID": "ACHIEVEMENT_ONE_TRUE_FAITH",
       "SetID": "9201eeb",
       "Name": "One True Faith",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_PANTHEON_OF_GODS",
@@ -21337,9 +21342,9 @@
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
       "SetID": "9201eeb",
       "Name": "Power to the People",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 98
     },
     {
       "ID": "ACHIEVEMENT_PUNIC_WARS",
@@ -22442,21 +22447,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16400,
+      "Progressed": 16402,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16400,
+      "Progressed": 16402,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-09T22:57:23.2402519+00:00",
-  "LastChanged_Achievements": "2024-01-11T07:10:33.2796097+00:00",
+  "LastChanged_Achievements": "2024-01-11T08:10:23.3620551+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-11T06:58:06.5779607+00:00",
-  "LastUpdate_Achievements": "2024-01-11T07:10:33.2806536+00:00"
+  "LastUpdate_Ratings": "2024-01-11T07:58:10.7403078+00:00",
+  "LastUpdate_Achievements": "2024-01-11T08:10:23.363073+00:00"
 }

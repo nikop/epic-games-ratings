@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -8063,10 +8063,16 @@
       "Rating": 4,
       "NumberOfAwards": 27973,
       "NumberOfAwardsMax": 4949
+    },
+    {
+      "Time": "2024-01-11T08:03:18.9296876+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 27975,
+      "NumberOfAwardsMax": 4949
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27973,
+  "NumberOfAwards": 27975,
   "NumberOfAwardsMax": 4949,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8116,13 +8122,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3820
+      "Count": 3822
     }
   ],
-  "EOS_Progressed": 150664,
-  "EOS_Completed": 348,
-  "EOS_NewPlayers": 1387,
-  "EOS_NewCompleters": 6,
+  "EOS_Progressed": 150669,
+  "EOS_Completed": 349,
+  "EOS_NewPlayers": 1388,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -36234,6 +36240,11 @@
       "Time": "2024-01-11T07:09:02.6613799+00:00",
       "NumProgressed": 150664,
       "NumCompleted": 348
+    },
+    {
+      "Time": "2024-01-11T08:08:53.0706305+00:00",
+      "NumProgressed": 150669,
+      "NumCompleted": 349
     }
   ],
   "TotalAchievements": 112,
@@ -36413,7 +36424,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16573
+      "UsersEstimate": 16574
     },
     {
       "ID": "chest02",
@@ -36477,7 +36488,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15066
+      "UsersEstimate": 15067
     },
     {
       "ID": "commonres02",
@@ -36509,7 +36520,7 @@
       "Name": "Disintermediation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12053
+      "UsersEstimate": 12054
     },
     {
       "ID": "craft02",
@@ -36621,7 +36632,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10546
+      "UsersEstimate": 10547
     },
     {
       "ID": "expansion02",
@@ -36723,9 +36734,9 @@
       "ID": "gold02",
       "SetID": "anfd17p",
       "Name": "Pretty Penny",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7533
+      "UsersEstimate": 9040
     },
     {
       "ID": "gold03",
@@ -37021,7 +37032,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10546
+      "UsersEstimate": 10547
     },
     {
       "ID": "sell02",
@@ -37061,7 +37072,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16573
+      "UsersEstimate": 16574
     },
     {
       "ID": "twinenchant01",
@@ -37140,15 +37151,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 150664,
-      "Completed": 348
+      "Progressed": 150669,
+      "Completed": 349
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2024-01-11T07:03:28.5527104+00:00",
-  "LastChanged_Achievements": "2024-01-11T07:09:02.6613795+00:00",
+  "LastChanged": "2024-01-11T08:03:18.9296874+00:00",
+  "LastChanged_Achievements": "2024-01-11T08:08:53.0706302+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.0260329+00:00",
-  "LastUpdate_Ratings": "2024-01-11T07:03:28.552711+00:00",
-  "LastUpdate_Achievements": "2024-01-11T07:09:02.6616037+00:00"
+  "LastUpdate_Ratings": "2024-01-11T08:03:18.929688+00:00",
+  "LastUpdate_Achievements": "2024-01-11T08:08:53.0708433+00:00"
 }

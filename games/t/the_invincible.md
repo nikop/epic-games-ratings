@@ -6,7 +6,7 @@ Rating: 4.60 (Ranked 430)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Camp | 70.00% | ~1,135 |
-| The Teleprobe | 55.00% | ~892 |
+| The Teleprobe | 56.00% | ~908 |
 | The City | 50.00% | ~811 |
 | The field base | 45.00% | ~730 |
 | The Alliance | 42.00% | ~681 |

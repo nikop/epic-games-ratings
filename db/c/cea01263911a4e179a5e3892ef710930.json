@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
@@ -245,9 +245,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 92955,
+  "EOS_Progressed": 92956,
   "EOS_Completed": 336,
-  "EOS_NewPlayers": 790,
+  "EOS_NewPlayers": 788,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -17510,6 +17510,11 @@
       "Time": "2024-01-11T07:03:48.2980613+00:00",
       "NumProgressed": 92955,
       "NumCompleted": 336
+    },
+    {
+      "Time": "2024-01-11T08:03:41.0018174+00:00",
+      "NumProgressed": 92956,
+      "NumCompleted": 336
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -17522,7 +17527,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 74364
+      "UsersEstimate": 74365
     },
     {
       "ID": "grp_beet",
@@ -17538,7 +17543,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 71575
+      "UsersEstimate": 71576
     },
     {
       "ID": "grp_endless",
@@ -17546,7 +17551,7 @@
       "Name": "That Sinking Feeling",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 32534
+      "UsersEstimate": 32535
     },
     {
       "ID": "grp_finallevel",
@@ -17626,7 +17631,7 @@
       "Name": "As the dodo flies",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 44618
+      "UsersEstimate": 44619
     },
     {
       "ID": "grp_stone",
@@ -17657,7 +17662,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 92955,
+      "Progressed": 92956,
       "Completed": 336
     }
   ],
@@ -17665,8 +17670,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2024-01-06T10:00:02.9214127+00:00",
-  "LastChanged_Achievements": "2024-01-11T07:03:48.2980609+00:00",
+  "LastChanged_Achievements": "2024-01-11T08:03:41.001817+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:23.7863776+00:00",
-  "LastUpdate_Ratings": "2024-01-11T06:59:00.709047+00:00",
-  "LastUpdate_Achievements": "2024-01-11T07:03:48.2981647+00:00"
+  "LastUpdate_Ratings": "2024-01-11T07:59:03.2658889+00:00",
+  "LastUpdate_Achievements": "2024-01-11T08:03:41.0019089+00:00"
 }

@@ -42,7 +42,7 @@ Number of Ratings: 116  (23.09.2022)
 | Egomaniac | 21.00% | ~114 |
 | Protector of Humanity | 19.00% | ~103 |
 | Everybody Wants to Rule the World | 19.00% | ~103 |
-| Community Outreach | 15.00% | ~82 |
+| Community Outreach | 16.00% | ~87 |
 | A Parting Gift | 14.00% | ~76 |
 | Path of the Horseman | 14.00% | ~76 |
 | Unbreakable Will | 13.00% | ~71 |

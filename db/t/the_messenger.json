@@ -2,7 +2,7 @@
   "ID": "752368fdba244e9386023cfb2b9d6ceb",
   "Name": "The Messenger",
   "ProductSlug": "the-messenger",
-  "Ranking_Rating": 82,
+  "Ranking_Rating": 81,
   "Ranking_Popularity": 251,
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 825,
@@ -826,6 +826,6 @@
   "FirstSeen": "2022-07-22T20:18:54.3850647+00:00",
   "LastChanged": "2024-01-04T14:58:18.6510438+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:18.6184374+00:00",
-  "LastUpdate_Ratings": "2024-01-11T06:58:31.4835611+00:00",
-  "LastUpdate_Achievements": "2024-01-11T07:10:01.5750281+00:00"
+  "LastUpdate_Ratings": "2024-01-11T07:58:35.0076963+00:00",
+  "LastUpdate_Achievements": "2024-01-11T08:09:51.8497035+00:00"
 }

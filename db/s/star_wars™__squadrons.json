@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40045,
+  "EOS_Progressed": 40049,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2546,
+  "EOS_NewPlayers": 2545,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13454,6 +13454,11 @@
       "Time": "2024-01-11T07:10:24.1258332+00:00",
       "NumProgressed": 40045,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-11T08:10:14.3126419+00:00",
+      "NumProgressed": 40049,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -13674,7 +13679,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 7208
+      "UsersEstimate": 7209
     },
     {
       "ID": "achievement_34",
@@ -13690,7 +13695,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 38043
+      "UsersEstimate": 38047
     },
     {
       "ID": "achievement_36",
@@ -13706,7 +13711,7 @@
       "Name": "Asset Secured",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 4805
+      "UsersEstimate": 4806
     },
     {
       "ID": "achievement_38",
@@ -13722,7 +13727,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 9210
+      "UsersEstimate": 9211
     },
     {
       "ID": "achievement_4",
@@ -13826,7 +13831,7 @@
       "Name": "A Better Idea",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 9210
+      "UsersEstimate": 9211
     },
     {
       "ID": "achievement_9",
@@ -13841,7 +13846,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 40045,
+      "Progressed": 40049,
       "Completed": 3
     }
   ],
@@ -13849,8 +13854,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2024-01-11T07:10:24.1258328+00:00",
+  "LastChanged_Achievements": "2024-01-11T08:10:14.3126417+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:40.6174818+00:00",
-  "LastUpdate_Ratings": "2024-01-11T07:03:30.5338799+00:00",
-  "LastUpdate_Achievements": "2024-01-11T07:10:24.1259558+00:00"
+  "LastUpdate_Ratings": "2024-01-11T08:03:21.1716234+00:00",
+  "LastUpdate_Achievements": "2024-01-11T08:10:14.3127272+00:00"
 }

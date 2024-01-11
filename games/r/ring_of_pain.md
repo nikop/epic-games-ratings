@@ -6,18 +6,18 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 1.00% | ~2,427 |
-| Heavy Hitter | 1.00% | ~2,427 |
-| Getting A Glimpse | 1.00% | ~2,427 |
-| That Was Quick | 1.00% | ~2,427 |
-| Colorful Corpse | 1.00% | ~2,427 |
-| Defeat The Dark | 1.00% | ~2,427 |
-| Goodbye, Frog Friend | 1.00% | ~2,427 |
-| A Donation | 1.00% | ~2,427 |
-| A Quick Escape | 1.00% | ~2,427 |
-| Uncharted Territory | 1.00% | ~2,427 |
-| Explorer | 1.00% | ~2,427 |
-| An Offering | 1.00% | ~2,427 |
+| First Steps | 1.00% | ~2,428 |
+| Heavy Hitter | 1.00% | ~2,428 |
+| Getting A Glimpse | 1.00% | ~2,428 |
+| That Was Quick | 1.00% | ~2,428 |
+| Colorful Corpse | 1.00% | ~2,428 |
+| Defeat The Dark | 1.00% | ~2,428 |
+| Goodbye, Frog Friend | 1.00% | ~2,428 |
+| A Donation | 1.00% | ~2,428 |
+| A Quick Escape | 1.00% | ~2,428 |
+| Uncharted Territory | 1.00% | ~2,428 |
+| Explorer | 1.00% | ~2,428 |
+| An Offering | 1.00% | ~2,428 |
 | Not Touching You | 1.00% | ~42 |
 | Matching | 1.00% | ~42 |
 | Nothing To Lose | 0.90% | ~2,185 |
@@ -44,12 +44,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Walker | 0.70% | ~1,699 |
 | Flesh Wound | 0.70% | ~1,699 |
 | Shapeshifting | 0.70% | ~1,699 |
-| To The Death! | 0.60% | ~1,456 |
-| Just Chilling | 0.60% | ~1,456 |
-| Save Our Souls | 0.60% | ~1,456 |
-| Stop Hitting Yourself | 0.60% | ~1,456 |
-| Acid Bath | 0.60% | ~1,456 |
-| New Perspectives | 0.60% | ~1,456 |
+| To The Death! | 0.60% | ~1,457 |
+| Just Chilling | 0.60% | ~1,457 |
+| Save Our Souls | 0.60% | ~1,457 |
+| Stop Hitting Yourself | 0.60% | ~1,457 |
+| Acid Bath | 0.60% | ~1,457 |
+| New Perspectives | 0.60% | ~1,457 |
 | Expensive Look | 0.60% | ~25 |
 | What Doesn't Kill You | 0.60% | ~25 |
 | Thank You, Friend | 0.50% | ~1,214 |
@@ -85,24 +85,24 @@ Number of Ratings: 15,086  (23.09.2022)
 | Sentimental Value | 0.30% | ~728 |
 | Precious | 0.30% | ~728 |
 | Raw Power | 0.30% | ~13 |
-| Quick Descent | 0.20% | ~485 |
-| A Week Attempt | 0.20% | ~485 |
-| A Long Climb | 0.20% | ~485 |
-| Hydrophobe | 0.20% | ~485 |
-| Dead Revels | 0.20% | ~485 |
-| Friend of Vermin | 0.20% | ~485 |
-| Explosive Betrayal | 0.20% | ~485 |
-| Grave Digger | 0.20% | ~485 |
-| Willing the World | 0.20% | ~485 |
-| Power Score | 0.20% | ~485 |
-| Predator | 0.20% | ~485 |
-| Resourceful | 0.20% | ~485 |
-| Become The Nightmare | 0.20% | ~485 |
-| Trail Of Death | 0.20% | ~485 |
-| The Boulder | 0.20% | ~485 |
-| No Mercy | 0.20% | ~485 |
-| Just Looking Around | 0.20% | ~485 |
-| Champion of the Day | 0.20% | ~485 |
+| Quick Descent | 0.20% | ~486 |
+| A Week Attempt | 0.20% | ~486 |
+| A Long Climb | 0.20% | ~486 |
+| Hydrophobe | 0.20% | ~486 |
+| Dead Revels | 0.20% | ~486 |
+| Friend of Vermin | 0.20% | ~486 |
+| Explosive Betrayal | 0.20% | ~486 |
+| Grave Digger | 0.20% | ~486 |
+| Willing the World | 0.20% | ~486 |
+| Power Score | 0.20% | ~486 |
+| Predator | 0.20% | ~486 |
+| Resourceful | 0.20% | ~486 |
+| Become The Nightmare | 0.20% | ~486 |
+| Trail Of Death | 0.20% | ~486 |
+| The Boulder | 0.20% | ~486 |
+| No Mercy | 0.20% | ~486 |
+| Just Looking Around | 0.20% | ~486 |
+| Champion of the Day | 0.20% | ~486 |
 | Diviner | 0.20% | ~8 |
 | Soul Kin | 0.20% | ~8 |
 | Nuclear | 0.20% | ~8 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,748 (Ranked 73)  
+Progressed: 242,751 (Ranked 73)  
 Completed: 305 (0.13%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -411,7 +411,7 @@ Completed: 305 (0.13%) (Ranked 300)
 | 2024-01-08 | 242,637 | 304 |
 | 2024-01-09 | 242,696 | 304 |
 | 2024-01-10 | 242,736 | 305 |
-| 2024-01-11 | 242,748 | 305 |
+| 2024-01-11 | 242,751 | 305 |
 ## Awards
 Max (Quickly Understood Controls): 1,514  (Ranked 139)  
 Sum: 11,792 (Ranked 89)  

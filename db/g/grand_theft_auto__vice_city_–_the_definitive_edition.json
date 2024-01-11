@@ -1056,9 +1056,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16224,
+  "EOS_Progressed": 16225,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 951,
+  "EOS_NewPlayers": 950,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -17781,6 +17781,11 @@
       "Time": "2024-01-11T07:10:07.4597806+00:00",
       "NumProgressed": 16224,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2024-01-11T08:09:57.8402633+00:00",
+      "NumProgressed": 16225,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 34,
@@ -17880,7 +17885,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "ACH13",
@@ -17952,7 +17957,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7625
+      "UsersEstimate": 7626
     },
     {
       "ID": "ACH22",
@@ -18008,7 +18013,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "ACH29",
@@ -18063,7 +18068,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16224,
+      "Progressed": 16225,
       "Completed": 96
     }
   ],
@@ -18071,8 +18076,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-03T02:18:34.6735113+00:00",
-  "LastChanged_Achievements": "2024-01-11T07:10:07.4597802+00:00",
+  "LastChanged_Achievements": "2024-01-11T08:09:57.840263+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:12.9251558+00:00",
-  "LastUpdate_Ratings": "2024-01-11T06:58:10.3167793+00:00",
-  "LastUpdate_Achievements": "2024-01-11T07:10:07.4598646+00:00"
+  "LastUpdate_Ratings": "2024-01-11T07:58:14.4250194+00:00",
+  "LastUpdate_Achievements": "2024-01-11T08:09:57.8403873+00:00"
 }

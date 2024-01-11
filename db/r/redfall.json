@@ -4641,9 +4641,9 @@
       "ID": "Achievement_034",
       "SetID": "6b34g18",
       "Name": "Catch and Release",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 400
     },
     {
       "ID": "Achievement_035",
@@ -4817,9 +4817,9 @@
       "ID": "Achievement_059",
       "SetID": "6b34g18",
       "Name": "Dexterity Save",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "Achievement_060",
@@ -4922,8 +4922,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
-  "LastChanged_Achievements": "2024-01-11T07:08:25.0607541+00:00",
+  "LastChanged_Achievements": "2024-01-11T08:08:15.5436957+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-11T06:57:24.5827602+00:00",
-  "LastUpdate_Achievements": "2024-01-11T07:08:25.0608424+00:00"
+  "LastUpdate_Ratings": "2024-01-11T07:57:29.7697957+00:00",
+  "LastUpdate_Achievements": "2024-01-11T08:08:15.5437739+00:00"
 }

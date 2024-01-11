@@ -6,7 +6,7 @@ Rating: 3.68 (Ranked 1,095)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 22.00% | ~518 |
-| Catch and Release | 16.00% | ~377 |
+| Catch and Release | 17.00% | ~400 |
 | Home Is Where the Heart Is | 15.00% | ~353 |
 | Wounded Whispers | 15.00% | ~353 |
 | ICU | 14.00% | ~330 |
@@ -46,9 +46,9 @@ Rating: 3.68 (Ranked 1,095)
 | Bloody Initiate | 0.90% | ~21 |
 | Neighborhood Watch | 0.80% | ~19 |
 | Empty Nest Syndrome | 0.80% | ~19 |
+| Dexterity Save | 0.80% | ~19 |
 | Scream Team | 0.70% | ~16 |
 | What Lies Below | 0.70% | ~16 |
-| Dexterity Save | 0.70% | ~16 |
 | Good Samaritan | 0.70% | ~16 |
 | Monster Hunters Club | 0.60% | ~14 |
 | Sisterhood | 0.60% | ~14 |

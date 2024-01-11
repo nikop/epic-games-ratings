@@ -686,9 +686,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 66369,
+  "EOS_Progressed": 66372,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 1530,
+  "EOS_NewPlayers": 1528,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16491,6 +16491,11 @@
       "Time": "2024-01-11T07:03:59.0898953+00:00",
       "NumProgressed": 66369,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2024-01-11T08:03:51.6372274+00:00",
+      "NumProgressed": 66372,
+      "NumCompleted": 69
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -16615,7 +16620,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 14601
+      "UsersEstimate": 14602
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -16623,7 +16628,7 @@
       "Name": "Scientist",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7964
+      "UsersEstimate": 7965
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -16703,7 +16708,7 @@
       "Name": "Initiation",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 19247
+      "UsersEstimate": 19248
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -16751,7 +16756,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7964
+      "UsersEstimate": 7965
     },
     {
       "ID": "NORMAL_END",
@@ -16815,7 +16820,7 @@
       "Name": "Susanin",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3318
+      "UsersEstimate": 3319
     },
     {
       "ID": "TALES_1",
@@ -16823,7 +16828,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 9955
+      "UsersEstimate": 9956
     },
     {
       "ID": "TALES_2",
@@ -16847,7 +16852,7 @@
       "Name": "Traveller",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3318
+      "UsersEstimate": 3319
     },
     {
       "ID": "WATER",
@@ -16879,7 +16884,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10619
+      "UsersEstimate": 10620
     },
     {
       "ID": "ZNATKOST_2",
@@ -16902,15 +16907,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 66369,
+      "Progressed": 66372,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-11T07:03:59.0898946+00:00",
+  "LastChanged_Achievements": "2024-01-11T08:03:51.6372269+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:33.7261793+00:00",
-  "LastUpdate_Ratings": "2024-01-11T06:57:56.8961784+00:00",
-  "LastUpdate_Achievements": "2024-01-11T07:03:59.0900078+00:00"
+  "LastUpdate_Ratings": "2024-01-11T07:58:00.7162629+00:00",
+  "LastUpdate_Achievements": "2024-01-11T08:03:51.6373838+00:00"
 }

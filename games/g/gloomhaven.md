@@ -6,17 +6,17 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~12,438 |
+| I'm not dead yet | 38.00% | ~12,439 |
 | Overkill | 33.00% | ~10,802 |
-| Vaccine Incoming | 31.00% | ~10,147 |
-| A normal day in Gloomhaven | 29.00% | ~9,492 |
+| Vaccine Incoming | 31.00% | ~10,148 |
+| A normal day in Gloomhaven | 29.00% | ~9,493 |
 | Spread the plague | 27.00% | ~8,838 |
 | Get over here! | 24.00% | ~7,856 |
 | Just when I thought I was out... | 19.00% | ~6,219 |
 | Precious! | 16.00% | ~5,237 |
 | Mine... All Mine... | 16.00% | ~5,237 |
 | Grizzled veteran | 15.00% | ~4,910 |
-| Anatomy Lesson | 14.00% | ~4,582 |
+| Anatomy Lesson | 14.00% | ~4,583 |
 | Light of my life | 13.00% | ~4,255 |
 | Who's the Boss? | 12.00% | ~3,928 |
 | You activated my trap card! | 12.00% | ~3,928 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~33 |
 | Hard-travelling Heroes | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,732 (Ranked 140)  
+Progressed: 32,734 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,22 +188,22 @@ Completed: 1 (0.00%) (Ranked 397)
 | 2024-01-08 | 32,291 | 1 |
 | 2024-01-09 | 32,485 | 1 |
 | 2024-01-10 | 32,673 | 1 |
-| 2024-01-11 | 32,732 | 1 |
+| 2024-01-11 | 32,734 | 1 |
 ## Awards
 Max (Character Customization): 3,617  (Ranked 95)  
-Sum: 8,470 (Ranked 108)  
+Sum: 8,472 (Ranked 108)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,617 |
 | This game has Diverse Characters | 612 |
 | This game has Challenging Combat | 557 |
-| This game is Highly Recommended | 555 |
+| This game is Highly Recommended | 556 |
 | This game is Extremely Fun | 551 |
 | This game is Relaxing | 495 |
 | This game has Amazing Characters | 494 |
 | This game has Quickly Understood Controls | 493 |
-| This game has Amazing Storytelling | 492 |
+| This game has Amazing Storytelling | 493 |
 | This game has Unique Visuals | 383 |
 | This game has a Creative Community | 221 |
 | This game has Obsessive Gameplay | 152 |
@@ -471,3 +471,4 @@ Diff (max vs sum): -13
 | 2024-01-06 | 4.47 | - | 3,616 | 8,465 |
 | 2024-01-08 | 4.47 | - | 3,616 | 8,468 |
 | 2024-01-10 | 4.47 | - | 3,617 | 8,470 |
+| 2024-01-11 | 4.47 | - | 3,617 | 8,472 |

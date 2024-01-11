@@ -6,21 +6,21 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~993,070 |
-| I Need a Bigger Garage | 63.00% | ~695,149 |
-| Pump my Ride | 47.00% | ~518,603 |
-| Ghostbuster | 34.00% | ~375,160 |
-| Call Roadside Assistance | 18.00% | ~198,614 |
-| That Was Close | 18.00% | ~198,614 |
-| Quickie | 11.00% | ~121,375 |
+| The First of Many | 90.00% | ~993,078 |
+| I Need a Bigger Garage | 63.00% | ~695,155 |
+| Pump my Ride | 47.00% | ~518,607 |
+| Ghostbuster | 34.00% | ~375,163 |
+| Call Roadside Assistance | 18.00% | ~198,616 |
+| That Was Close | 18.00% | ~198,616 |
+| Quickie | 11.00% | ~121,376 |
 | California Dreamer | 7.00% | ~77,239 |
 | Can't Touch This | 5.00% | ~55,171 |
-| Carménère Taster | 4.00% | ~44,136 |
-| Comeback | 4.00% | ~44,136 |
-| Driver from Ipanema | 3.00% | ~33,102 |
-| Supersonic | 3.00% | ~33,102 |
-| Marathonist | 3.00% | ~33,102 |
-| Living Legend | 3.00% | ~33,102 |
+| Carménère Taster | 4.00% | ~44,137 |
+| Comeback | 4.00% | ~44,137 |
+| Driver from Ipanema | 3.00% | ~33,103 |
+| Supersonic | 3.00% | ~33,103 |
+| Marathonist | 3.00% | ~33,103 |
+| Living Legend | 3.00% | ~33,103 |
 | God of Roads | 2.00% | ~22,068 |
 | Pathfinder | 2.00% | ~22,068 |
 | Go-Kart Champion | 2.00% | ~22,068 |
@@ -36,15 +36,15 @@ Number of Ratings: 1,343  (23.09.2022)
 | Brave and Bold | 1.00% | ~11,034 |
 | Volcano Surfer | 0.90% | ~9,931 |
 | Otaku | 0.90% | ~9,931 |
-| Survivor | 0.60% | ~6,620 |
-| King of the World | 0.60% | ~6,620 |
+| Survivor | 0.60% | ~6,621 |
+| King of the World | 0.60% | ~6,621 |
 | Getting Famous | 0.50% | ~5,517 |
 | Now Go Play Outside | 0.30% | ~3,310 |
 | Master of the Racetrack | 0.20% | ~2,207 |
 | Look Mom, No Hands! | 0.20% | ~2,207 |
 | Transporter | 0.10% | ~1,103 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,103,411 (Ranked 14)  
+Progressed: 1,103,420 (Ranked 14)  
 Completed: 533 (0.05%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 533 (0.05%) (Ranked 338)
 | 2024-01-08 | 1,102,512 | 532 |
 | 2024-01-09 | 1,102,915 | 532 |
 | 2024-01-10 | 1,103,313 | 533 |
-| 2024-01-11 | 1,103,411 | 533 |
+| 2024-01-11 | 1,103,420 | 533 |
 ## Awards
 Max (Great for Beginners): 185  (Ranked 311)  
 Sum: 1,639 (Ranked 236)  

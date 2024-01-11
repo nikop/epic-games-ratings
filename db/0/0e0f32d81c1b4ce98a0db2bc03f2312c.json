@@ -2,7 +2,7 @@
   "ID": "0e0f32d81c1b4ce98a0db2bc03f2312c",
   "Name": "Prince of Persia: Warrior Within Standard Edition",
   "ProductSlug": "prince-of-persia-warrior-within",
-  "Ranking_Rating": 146,
+  "Ranking_Rating": 130,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 825,
@@ -18,11 +18,17 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.75,
+  "Rating": 4.76,
   "RatingHistory": [
     {
       "Time": "2024-01-09T07:58:02.1145349+00:00",
       "Rating": 4.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-11T07:58:53.7526921+00:00",
+      "Rating": 4.76,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -43,8 +49,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T16:58:25.4707754+00:00",
   "FirstSeenRating": "2024-01-09T07:58:02.1145346+00:00",
-  "LastChanged": "2024-01-09T07:58:02.1145347+00:00",
+  "LastChanged": "2024-01-11T07:58:53.7526919+00:00",
   "LastUpdate_AppInfo": "2024-01-05T09:57:06.8837753+00:00",
-  "LastUpdate_Ratings": "2024-01-11T06:58:51.037675+00:00",
-  "LastUpdate_Achievements": "2024-01-11T07:05:41.8771976+00:00"
+  "LastUpdate_Ratings": "2024-01-11T07:58:53.7526924+00:00",
+  "LastUpdate_Achievements": "2024-01-11T08:05:34.7367664+00:00"
 }

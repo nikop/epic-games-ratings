@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5133,18 +5133,24 @@
       "Rating": 4.19,
       "NumberOfAwards": 5420,
       "NumberOfAwardsMax": 3172
+    },
+    {
+      "Time": "2024-01-11T08:00:28.7381438+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 5425,
+      "NumberOfAwardsMax": 3177
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5420,
-  "NumberOfAwardsMax": 3172,
+  "NumberOfAwards": 5425,
+  "NumberOfAwardsMax": 3177,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3172
+      "Count": 3177
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5201,9 +5207,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82466,
+  "EOS_Progressed": 82467,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 1143,
+  "EOS_NewPlayers": 1141,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -29776,6 +29782,11 @@
       "Time": "2024-01-11T06:07:12.4700181+00:00",
       "NumProgressed": 82466,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2024-01-11T08:05:38.8427372+00:00",
+      "NumProgressed": 82467,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 61,
@@ -30091,7 +30102,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28038
+      "UsersEstimate": 28039
     },
     {
       "ID": "HARLEY_2",
@@ -30131,7 +30142,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41233
+      "UsersEstimate": 41234
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -30274,22 +30285,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82466,
+      "Progressed": 82467,
       "Completed": 133
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 52746,
+      "Progressed": 52747,
       "Completed": 2679
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2024-01-10T17:00:00.0317648+00:00",
-  "LastChanged_Achievements": "2024-01-11T07:05:45.9750776+00:00",
+  "LastChanged": "2024-01-11T08:00:28.7381437+00:00",
+  "LastChanged_Achievements": "2024-01-11T08:05:38.842737+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:43.7132471+00:00",
-  "LastUpdate_Ratings": "2024-01-11T07:00:27.1723109+00:00",
-  "LastUpdate_Achievements": "2024-01-11T07:05:45.9752282+00:00"
+  "LastUpdate_Ratings": "2024-01-11T08:00:28.7381444+00:00",
+  "LastUpdate_Achievements": "2024-01-11T08:05:38.8428863+00:00"
 }

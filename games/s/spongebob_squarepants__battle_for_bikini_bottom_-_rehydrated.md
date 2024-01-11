@@ -16,8 +16,8 @@ Number of Ratings: 76  (23.09.2022)
 | Uptown and Downtown | 11.00% | ~103 |
 | Super Spatula Seeker | 11.00% | ~103 |
 | Star Smasher | 11.00% | ~103 |
+| Surf's Up! | 11.00% | ~103 |
 | Squirrel Smasher | 10.00% | ~94 |
-| Surf's Up! | 10.00% | ~94 |
 | Life's as extreme as you wanna make it! | 8.00% | ~75 |
 | Shrimp Catcher | 8.00% | ~75 |
 | Toxic Terror | 8.00% | ~75 |

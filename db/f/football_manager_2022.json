@@ -9200,9 +9200,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 479123,
+  "EOS_Progressed": 479124,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35880,6 +35880,11 @@
       "Time": "2024-01-11T07:09:16.7345058+00:00",
       "NumProgressed": 479123,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-11T08:09:07.3084301+00:00",
+      "NumProgressed": 479124,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -36091,7 +36096,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 91033
+      "UsersEstimate": 91034
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -36115,7 +36120,7 @@
       "Name": "Eyes and Ears",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 71868
+      "UsersEstimate": 71869
     },
     {
       "ID": "achievement_fine_player",
@@ -36179,7 +36184,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 134154
+      "UsersEstimate": 134155
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -36211,7 +36216,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 196440
+      "UsersEstimate": 196441
     },
     {
       "ID": "achievement_head_to_head",
@@ -36267,7 +36272,7 @@
       "Name": "Top Of The Class",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 110198
+      "UsersEstimate": 110199
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -36323,7 +36328,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 153319
+      "UsersEstimate": 153320
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -36395,7 +36400,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 153319
+      "UsersEstimate": 153320
     },
     {
       "ID": "achievement_rushed_signing",
@@ -36435,7 +36440,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 229979
+      "UsersEstimate": 229980
     },
     {
       "ID": "achievement_signed_a_player",
@@ -36451,7 +36456,7 @@
       "Name": "Goal Machine",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 110198
+      "UsersEstimate": 110199
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -36507,7 +36512,7 @@
       "Name": "Window Shopping",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 71868
+      "UsersEstimate": 71869
     },
     {
       "ID": "achievement_won_20_cup_competitions",
@@ -36674,15 +36679,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 479123,
+      "Progressed": 479124,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2024-01-09T20:59:50.1870988+00:00",
-  "LastChanged_Achievements": "2024-01-11T07:09:16.7345054+00:00",
+  "LastChanged_Achievements": "2024-01-11T08:09:07.3084299+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:28.1927987+00:00",
-  "LastUpdate_Ratings": "2024-01-11T07:02:50.3665166+00:00",
-  "LastUpdate_Achievements": "2024-01-11T07:09:16.7346968+00:00"
+  "LastUpdate_Ratings": "2024-01-11T08:01:02.1316552+00:00",
+  "LastUpdate_Achievements": "2024-01-11T08:09:07.3086293+00:00"
 }

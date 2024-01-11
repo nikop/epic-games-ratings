@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -507,7 +507,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4014,
+  "EOS_Progressed": 4015,
   "EOS_Completed": 144,
   "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 1,
@@ -7192,6 +7192,11 @@
       "Time": "2024-01-11T02:28:47.2217826+00:00",
       "NumProgressed": 4014,
       "NumCompleted": 144
+    },
+    {
+      "Time": "2024-01-11T08:04:35.0929269+00:00",
+      "NumProgressed": 4015,
+      "NumCompleted": 144
     }
   ],
   "TotalAchievements": 14,
@@ -7243,7 +7248,7 @@
       "Name": "Easy As Pie",
       "Percentage": 32,
       "XP": 55,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -7251,7 +7256,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -7259,7 +7264,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -7307,14 +7312,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3171
+      "UsersEstimate": 3172
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4014,
+      "Progressed": 4015,
       "Completed": 144
     }
   ],
@@ -7322,8 +7327,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-05T23:57:59.2122093+00:00",
-  "LastChanged_Achievements": "2024-01-11T07:04:42.6788845+00:00",
+  "LastChanged_Achievements": "2024-01-11T08:04:35.0929267+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:45.5665199+00:00",
   "LastUpdate_Ratings": "2024-01-11T07:02:52.6792811+00:00",
-  "LastUpdate_Achievements": "2024-01-11T07:04:42.6789273+00:00"
+  "LastUpdate_Achievements": "2024-01-11T08:04:35.0929728+00:00"
 }

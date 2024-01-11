@@ -2,7 +2,7 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 955,
+  "Ranking_Rating": 956,
   "Ranking_Popularity": 351,
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 139,
@@ -1398,7 +1398,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33108,
+  "EOS_Progressed": 33109,
   "EOS_Completed": 86,
   "EOS_NewPlayers": 707,
   "EOS_NewCompleters": 0,
@@ -30033,6 +30033,11 @@
       "Time": "2024-01-11T07:10:09.00818+00:00",
       "NumProgressed": 33108,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2024-01-11T08:09:59.3185885+00:00",
+      "NumProgressed": 33109,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 22,
@@ -30052,7 +30057,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "1017",
@@ -30060,7 +30065,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "1018",
@@ -30100,7 +30105,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "1023",
@@ -30148,7 +30153,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5959
+      "UsersEstimate": 5960
     },
     {
       "ID": "1029",
@@ -30180,7 +30185,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13243
+      "UsersEstimate": 13244
     },
     {
       "ID": "1033",
@@ -30219,15 +30224,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33108,
+      "Progressed": 33109,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-09T20:57:01.7893219+00:00",
-  "LastChanged_Achievements": "2024-01-11T07:10:09.0081796+00:00",
+  "LastChanged_Achievements": "2024-01-11T08:09:59.3185883+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:53.1129394+00:00",
-  "LastUpdate_Ratings": "2024-01-11T06:57:56.2792824+00:00",
-  "LastUpdate_Achievements": "2024-01-11T07:10:09.0083797+00:00"
+  "LastUpdate_Ratings": "2024-01-11T07:58:00.0132665+00:00",
+  "LastUpdate_Achievements": "2024-01-11T08:09:59.3187333+00:00"
 }

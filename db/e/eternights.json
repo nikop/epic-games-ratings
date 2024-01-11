@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 877,
+  "EOS_Progressed": 878,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -3269,6 +3269,11 @@
       "Time": "2024-01-11T04:09:14.8221679+00:00",
       "NumProgressed": 877,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-11T08:09:19.7240851+00:00",
+      "NumProgressed": 878,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -3313,7 +3318,7 @@
       "Name": "Yuna\u0027s Promise",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -3361,7 +3366,7 @@
       "Name": "Shelter Escape",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -3425,7 +3430,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -3439,17 +3444,17 @@
       "ID": "ACHIEVEMENT_5_FirstWall",
       "SetID": "9bke6f1",
       "Name": "First wall",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 377
+      "UsersEstimate": 369
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
       "SetID": "9bke6f1",
       "Name": "Piggyback Expert",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 360
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -3465,7 +3470,7 @@
       "Name": "Stone Retriever",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -3480,7 +3485,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 877,
+      "Progressed": 878,
       "Completed": 2
     }
   ],
@@ -3488,8 +3493,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-10T15:58:31.5106151+00:00",
-  "LastChanged_Achievements": "2024-01-11T07:09:29.1006722+00:00",
+  "LastChanged_Achievements": "2024-01-11T08:09:19.7240849+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.7410286+00:00",
-  "LastUpdate_Ratings": "2024-01-11T06:58:32.6104708+00:00",
-  "LastUpdate_Achievements": "2024-01-11T07:09:29.1007097+00:00"
+  "LastUpdate_Ratings": "2024-01-11T07:58:36.1176998+00:00",
+  "LastUpdate_Achievements": "2024-01-11T08:09:19.7241152+00:00"
 }

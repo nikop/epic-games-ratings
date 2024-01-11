@@ -54,12 +54,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 1.00% | ~164 |
 | Regicide | 0.90% | ~148 |
 | Wise | 0.90% | ~148 |
+| Acropolis | 0.90% | ~148 |
 | Musaeum | 0.90% | ~148 |
 | Manichaeism | 0.90% | ~148 |
 | Egyptian Paganism | 0.90% | ~148 |
 | Drillmaster | 0.80% | ~131 |
 | Legendary Cities | 0.80% | ~131 |
-| Acropolis | 0.80% | ~131 |
 | Mausoleum | 0.80% | ~131 |
 | Hanging Gardens in Babylon | 0.70% | ~115 |
 | Valiant | 0.70% | ~115 |
@@ -75,6 +75,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.60% | ~98 |
 | Statesmen | 0.60% | ~98 |
 | Learn to Play 3 | 0.60% | ~98 |
+| Power to the People | 0.60% | ~98 |
 | Persian Paganism | 0.60% | ~98 |
 | Points Victory | 0.60% | ~98 |
 | Win a Single Player Game | 0.60% | ~98 |
@@ -88,7 +89,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.50% | ~82 |
 | Pantheon | 0.50% | ~82 |
 | Greece | 0.50% | ~82 |
-| Power to the People | 0.50% | ~82 |
 | Economic Reform | 0.50% | ~82 |
 | Military Prestige | 0.50% | ~82 |
 | Double Victory | 0.50% | ~82 |
@@ -118,14 +118,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.30% | ~49 |
 | Clerics | 0.30% | ~49 |
 | Hunters | 0.30% | ~49 |
-| Church of the Holy Sepulchre | 0.30% | ~49 |
 | Adur Burzen-Mihr | 0.30% | ~49 |
 | Learn to Play 4 | 0.30% | ~49 |
 | Babylonia | 0.30% | ~49 |
 | Carthage | 0.30% | ~49 |
 | Egypt | 0.30% | ~49 |
 | Rome | 0.30% | ~49 |
-| One True Faith | 0.30% | ~49 |
 | Hittite Paganism | 0.30% | ~49 |
 | Gnosticism | 0.30% | ~49 |
 | Revelation | 0.30% | ~49 |
@@ -142,9 +140,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.20% | ~33 |
 | Noble Difficulty | 0.20% | ~33 |
 | The Eternal Treaty | 0.20% | ~33 |
+| Church of the Holy Sepulchre | 0.20% | ~33 |
 | Cao'an | 0.20% | ~33 |
 | Learn to Play 5 | 0.20% | ~33 |
 | Old World Order | 0.20% | ~33 |
+| One True Faith | 0.20% | ~33 |
 | Pantheon of Gods | 0.20% | ~33 |
 | Ten Crowns | 0.20% | ~33 |
 | Cataphract Archer | 0.20% | ~33 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,400 (Ranked 169)  
+Progressed: 16,402 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -631,7 +631,7 @@ Completed: 5 (0.03%) (Ranked 355)
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
-| 2024-01-11 | 16,400 | 5 |
+| 2024-01-11 | 16,402 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,919 (Ranked 224)  

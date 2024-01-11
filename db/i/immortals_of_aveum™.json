@@ -433,7 +433,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3307,
+  "EOS_Progressed": 3308,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 666,
   "EOS_NewCompleters": 2,
@@ -5183,6 +5183,11 @@
       "Time": "2024-01-11T07:10:17.5495095+00:00",
       "NumProgressed": 3307,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T08:10:07.8185023+00:00",
+      "NumProgressed": 3308,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5195,7 +5200,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2910
+      "UsersEstimate": 2911
     },
     {
       "ID": "achievement_10",
@@ -5203,7 +5208,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "achievement_11",
@@ -5339,7 +5344,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2283
     },
     {
       "ID": "achievement_36",
@@ -5427,7 +5432,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2447
+      "UsersEstimate": 2448
     },
     {
       "ID": "achievement_49",
@@ -5491,7 +5496,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "achievement_60",
@@ -5537,9 +5542,9 @@
       "ID": "achievement_67",
       "SetID": "18al4io",
       "Name": "Good Boy",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 265
     },
     {
       "ID": "achievement_7",
@@ -5563,14 +5568,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3307,
+      "Progressed": 3308,
       "Completed": 4
     }
   ],
@@ -5578,8 +5583,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-07T18:57:10.211335+00:00",
-  "LastChanged_Achievements": "2024-01-11T07:10:17.5495092+00:00",
+  "LastChanged_Achievements": "2024-01-11T08:10:07.818502+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8440656+00:00",
-  "LastUpdate_Ratings": "2024-01-11T06:59:02.3197148+00:00",
-  "LastUpdate_Achievements": "2024-01-11T07:10:17.5495714+00:00"
+  "LastUpdate_Ratings": "2024-01-11T07:59:04.8028823+00:00",
+  "LastUpdate_Achievements": "2024-01-11T08:10:07.8185698+00:00"
 }

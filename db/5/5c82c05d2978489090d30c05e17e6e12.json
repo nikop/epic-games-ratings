@@ -271,7 +271,7 @@
   "Tags": [],
   "EOS_Progressed": 74460,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 1558,
+  "EOS_NewPlayers": 1550,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -7072,9 +7072,9 @@
       "ID": "Achievement_29",
       "SetID": "2md12pi",
       "Name": "Gold Finger",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 447
+      "UsersEstimate": 521
     },
     {
       "ID": "Achievement_3",
@@ -7185,8 +7185,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-09T18:03:16.5676566+00:00",
-  "LastChanged_Achievements": "2024-01-11T07:08:53.9068734+00:00",
+  "LastChanged_Achievements": "2024-01-11T08:08:44.3099845+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:21.0621045+00:00",
-  "LastUpdate_Ratings": "2024-01-11T07:03:20.9340644+00:00",
-  "LastUpdate_Achievements": "2024-01-11T07:08:53.9069213+00:00"
+  "LastUpdate_Ratings": "2024-01-11T08:03:11.660713+00:00",
+  "LastUpdate_Achievements": "2024-01-11T08:08:44.3100395+00:00"
 }

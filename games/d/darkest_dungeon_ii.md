@@ -7,14 +7,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 13.00% | ~948 |
-| Lost and Found | 8.00% | ~583 |
+| Lost and Found | 8.00% | ~584 |
 | Autodidact | 7.00% | ~9,270 |
-| This guy... again? | 7.00% | ~510 |
-| Serenity Now! | 6.00% | ~7,945 |
-| This Belongs in a Museum | 6.00% | ~7,945 |
-| Creep and Sleep | 6.00% | ~7,945 |
-| Overdue Notice | 6.00% | ~7,945 |
-| Escape from the Black Hole | 6.00% | ~7,945 |
+| This guy... again? | 7.00% | ~511 |
+| Serenity Now! | 6.00% | ~7,946 |
+| This Belongs in a Museum | 6.00% | ~7,946 |
+| Creep and Sleep | 6.00% | ~7,946 |
+| Overdue Notice | 6.00% | ~7,946 |
+| Escape from the Black Hole | 6.00% | ~7,946 |
 | Ploughshares to Swords | 6.00% | ~438 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,621 |
 | It Rings a Bell | 5.00% | ~6,621 |
@@ -53,13 +53,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | When You Want Something Done Right | 3.00% | ~3,973 |
 | Utopia | 3.00% | ~3,973 |
 | Road Trip | 3.00% | ~3,973 |
-| This Looks Familiar | 2.00% | ~2,648 |
-| Ichthyophobic | 2.00% | ~2,648 |
-| No More Mouths to Feed | 2.00% | ~2,648 |
-| Worldly Traveller | 2.00% | ~2,648 |
-| Hot Air | 2.00% | ~2,648 |
-| Eyes Up | 2.00% | ~2,648 |
-| Handled | 2.00% | ~2,648 |
+| This Looks Familiar | 2.00% | ~2,649 |
+| Ichthyophobic | 2.00% | ~2,649 |
+| No More Mouths to Feed | 2.00% | ~2,649 |
+| Worldly Traveller | 2.00% | ~2,649 |
+| Hot Air | 2.00% | ~2,649 |
+| Eyes Up | 2.00% | ~2,649 |
+| Handled | 2.00% | ~2,649 |
 | Clearing the Ledger | 1.00% | ~1,324 |
 | Hat Trick | 1.00% | ~1,324 |
 | Shrine of Reflection | 1.00% | ~1,324 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,423 (Ranked 91)  
+Progressed: 132,427 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 4 (0.00%) (Ranked 397)
 | 2024-01-08 | 132,215 | 3 |
 | 2024-01-09 | 132,315 | 3 |
 | 2024-01-10 | 132,395 | 4 |
-| 2024-01-11 | 132,423 | 4 |
+| 2024-01-11 | 132,427 | 4 |
 ## Awards
 Max (Character Customization): 8,000  (Ranked 50)  
 Sum: 21,580 (Ranked 58)  

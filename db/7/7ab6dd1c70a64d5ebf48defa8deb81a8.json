@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -85,7 +85,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2220,
+  "EOS_Progressed": 2221,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 471,
   "EOS_NewCompleters": 1,
@@ -4230,6 +4230,11 @@
       "Time": "2024-01-11T07:10:22.8727437+00:00",
       "NumProgressed": 2220,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T08:10:13.091309+00:00",
+      "NumProgressed": 2221,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -4311,9 +4316,9 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 688
+      "UsersEstimate": 711
     },
     {
       "ID": "ACH_11",
@@ -4433,7 +4438,7 @@
       "Name": "Fashion Victim",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACH_26",
@@ -4441,7 +4446,7 @@
       "Name": "Scholar",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACH_27",
@@ -4528,7 +4533,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2220,
+      "Progressed": 2221,
       "Completed": 4
     }
   ],
@@ -4536,8 +4541,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-09T14:59:34.4882092+00:00",
-  "LastChanged_Achievements": "2024-01-11T07:10:22.8727434+00:00",
+  "LastChanged_Achievements": "2024-01-11T08:10:13.0913088+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-11T07:02:45.2437278+00:00",
-  "LastUpdate_Achievements": "2024-01-11T07:10:22.8728145+00:00"
+  "LastUpdate_Ratings": "2024-01-11T08:00:56.1478244+00:00",
+  "LastUpdate_Achievements": "2024-01-11T08:10:13.0913537+00:00"
 }

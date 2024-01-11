@@ -2,7 +2,7 @@
   "ID": "5b325322a4c04b9e9e780b9a1e9b2d70",
   "Name": "Aztez",
   "ProductSlug": "aztez",
-  "Ranking_Rating": 510,
+  "Ranking_Rating": 497,
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 825,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "NumberOfRatings": 43,
   "RatingHistory": [
     {
@@ -268,6 +268,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 21,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2024-01-11T08:00:58.5629811+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
@@ -294,8 +300,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:45.0438732+00:00",
   "FirstSeenRating": "2022-08-01T19:31:46.0667461+00:00",
-  "LastChanged": "2023-12-25T06:00:40.7420702+00:00",
+  "LastChanged": "2024-01-11T08:00:58.5629809+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:26.8426335+00:00",
-  "LastUpdate_Ratings": "2024-01-11T07:02:46.711506+00:00",
-  "LastUpdate_Achievements": "2024-01-11T07:09:45.6318046+00:00"
+  "LastUpdate_Ratings": "2024-01-11T08:00:58.5629813+00:00",
+  "LastUpdate_Achievements": "2024-01-11T08:09:36.1274576+00:00"
 }

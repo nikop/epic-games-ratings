@@ -9,7 +9,7 @@
 | Metalball Badge | 22.00% | ~39 |
 | Powerball Badge | 17.00% | ~30 |
 | Airball Badge | 3.00% | ~5 |
-| Spyglass | 2.00% | ~4 |
+| Spyglass | 3.00% | ~5 |
 | Speedroller Trainee | 1.00% | ~2 |
 | Speedroller Expert | 0.60% | ~1 |
 | Speedroller Master | 0.00% | ~0 |

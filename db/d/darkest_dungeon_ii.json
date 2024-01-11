@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10722,7 +10722,7 @@
       "Count": 1088
     }
   ],
-  "EOS_Progressed": 132423,
+  "EOS_Progressed": 132427,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 845,
   "EOS_NewCompleters": 1,
@@ -39312,6 +39312,11 @@
       "Time": "2024-01-11T07:10:09.5413544+00:00",
       "NumProgressed": 132423,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T08:09:59.9130391+00:00",
+      "NumProgressed": 132427,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39331,7 +39336,7 @@
       "Name": "Serenity Now!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7945
+      "UsersEstimate": 7946
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -39419,7 +39424,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -39451,7 +39456,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7945
+      "UsersEstimate": 7946
     },
     {
       "ID": "combat_kill_cadavers",
@@ -39483,7 +39488,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7945
+      "UsersEstimate": 7946
     },
     {
       "ID": "combat_kill_fanatics",
@@ -39499,7 +39504,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "combat_kill_gaunts",
@@ -39515,7 +39520,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -39547,7 +39552,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7945
+      "UsersEstimate": 7946
     },
     {
       "ID": "combat_kill_pillagers",
@@ -39563,7 +39568,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7945
+      "UsersEstimate": 7946
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -39739,7 +39744,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -39787,7 +39792,7 @@
       "Name": "Hot Air",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "run_victory_act03",
@@ -39795,7 +39800,7 @@
       "Name": "Eyes Up",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "run_victory_act04",
@@ -39803,7 +39808,7 @@
       "Name": "Handled",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "run_victory_act05",
@@ -39867,7 +39872,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39923,7 +39928,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -39954,21 +39959,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132423,
+      "Progressed": 132427,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7292,
+      "Progressed": 7296,
       "Completed": 824
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-11T01:49:24.3424413+00:00",
-  "LastChanged_Achievements": "2024-01-11T07:10:09.5413539+00:00",
+  "LastChanged_Achievements": "2024-01-11T08:09:59.9130389+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-11T06:59:47.2198317+00:00",
-  "LastUpdate_Achievements": "2024-01-11T07:10:09.5415196+00:00"
+  "LastUpdate_Ratings": "2024-01-11T07:59:47.9477634+00:00",
+  "LastUpdate_Achievements": "2024-01-11T08:09:59.9132196+00:00"
 }
