@@ -3,9 +3,9 @@
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 414,
-  "Ranking_EOS_Completed": 396,
+  "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -1430,9 +1430,9 @@
       "ID": "SG_THECHOICEISYOURS",
       "SetID": "bj5g0n4",
       "Name": "The Choice Is Yours",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "SG_THEDEEPEND",
@@ -1517,8 +1517,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-11T02:33:23.2075746+00:00",
+  "LastChanged_Achievements": "2024-01-11T03:08:48.5042842+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:24:40.3521858+00:00",
-  "LastUpdate_Achievements": "2024-01-11T02:33:23.2076003+00:00"
+  "LastUpdate_Ratings": "2024-01-11T03:00:03.7699288+00:00",
+  "LastUpdate_Achievements": "2024-01-11T03:08:48.5043162+00:00"
 }

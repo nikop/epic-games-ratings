@@ -20,8 +20,8 @@ Rating: 4.81 (Ranked 81)
 | All Good Things | 18.00% | ~273 |
 | Persistent Parasite | 16.00% | ~243 |
 | Seadog | 14.00% | ~212 |
+| Jaded Judge | 12.00% | ~182 |
 | Tobacco Travesty | 11.00% | ~167 |
-| Jaded Judge | 11.00% | ~167 |
 | Rustic Recipe | 11.00% | ~167 |
 | Accursed Artifacts | 10.00% | ~152 |
 | Privateer | 9.00% | ~136 |

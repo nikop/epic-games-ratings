@@ -3,9 +3,9 @@
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 392,
-  "Ranking_EOS_Completed": 396,
+  "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 319,
+  "EOS_Progressed": 320,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1359,6 +1359,11 @@
       "Time": "2024-01-10T23:03:38.7314053+00:00",
       "NumProgressed": 319,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T03:03:42.7280482+00:00",
+      "NumProgressed": 320,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1371,7 +1376,7 @@
       "Name": "A mystery? No! A trifle for Poirot!",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "10",
@@ -1523,7 +1528,7 @@
       "Name": "Dessert Connoisseur!",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "3",
@@ -1539,7 +1544,7 @@
       "Name": "A simple mistake leads to grave consequences",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "5",
@@ -1586,14 +1591,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 319,
+      "Progressed": 320,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-11T02:28:21.2212958+00:00",
+  "LastChanged_Achievements": "2024-01-11T03:03:42.7280476+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:18.4677846+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:27:37.7348788+00:00",
-  "LastUpdate_Achievements": "2024-01-11T02:28:21.2213147+00:00"
+  "LastUpdate_Ratings": "2024-01-11T03:02:58.3251274+00:00",
+  "LastUpdate_Achievements": "2024-01-11T03:03:42.7280738+00:00"
 }

@@ -1,7 +1,7 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 359)  
+Rating: 4.63 (Ranked 358)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,7 +17,7 @@ Number of Ratings: 85  (23.09.2022)
 | Lobster Blisque | 51.00% | ~226 |
 | Fly Me to the Moon Base | 48.00% | ~213 |
 | Earthly Pleasures | 48.00% | ~213 |
-| Ducks in a Row, Fish in a Barrel | 45.00% | ~199 |
+| Ducks in a Row, Fish in a Barrel | 46.00% | ~204 |
 | Bodied Sattva | 36.00% | ~159 |
 | Forbidden Donut | 35.00% | ~155 |
 | Freshly Squeezed | 35.00% | ~155 |
@@ -48,7 +48,7 @@ Number of Ratings: 85  (23.09.2022)
 | Against All Odds | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 443 (Ranked 362)  
-Completed: 5 (1.13%) (Ranked 167)  
+Completed: 5 (1.13%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

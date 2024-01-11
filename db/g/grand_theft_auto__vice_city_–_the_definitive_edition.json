@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
@@ -1056,9 +1056,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16211,
+  "EOS_Progressed": 16213,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 953,
+  "EOS_NewPlayers": 952,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -17756,6 +17756,11 @@
       "Time": "2024-01-11T02:34:05.7526951+00:00",
       "NumProgressed": 16211,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2024-01-11T03:09:29.9509238+00:00",
+      "NumProgressed": 16213,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 34,
@@ -17823,7 +17828,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "ACH09",
@@ -17927,7 +17932,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7619
+      "UsersEstimate": 7620
     },
     {
       "ID": "ACH22",
@@ -17935,7 +17940,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3404
+      "UsersEstimate": 3405
     },
     {
       "ID": "ACH23",
@@ -18038,7 +18043,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16211,
+      "Progressed": 16213,
       "Completed": 95
     }
   ],
@@ -18046,8 +18051,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-03T02:18:34.6735113+00:00",
-  "LastChanged_Achievements": "2024-01-11T02:34:05.7526947+00:00",
+  "LastChanged_Achievements": "2024-01-11T03:09:29.9509231+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:12.9251558+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:22:19.0880905+00:00",
-  "LastUpdate_Achievements": "2024-01-11T02:34:05.7528136+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:57:49.8875182+00:00",
+  "LastUpdate_Achievements": "2024-01-11T03:09:29.9510034+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 259,
-  "Ranking_EOS_Completed": 396,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_Completed": 397,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -4643,9 +4643,9 @@
       "ID": "GOAL",
       "SetID": "9a4jnji",
       "Name": "Goaaaaal!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "GUN_FOR_HIRE",
@@ -4771,9 +4771,9 @@
       "ID": "SIDE_ORDER",
       "SetID": "9a4jnji",
       "Name": "Side Order",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 188
     },
     {
       "ID": "SILENT_BUT_VIOLENT",
@@ -4836,8 +4836,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2024-01-02T20:02:58.7354435+00:00",
-  "LastChanged_Achievements": "2024-01-11T02:34:24.8707927+00:00",
+  "LastChanged_Achievements": "2024-01-11T03:09:49.2685791+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:50.6715934+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:27:37.1926379+00:00",
-  "LastUpdate_Achievements": "2024-01-11T02:34:24.8708451+00:00"
+  "LastUpdate_Ratings": "2024-01-11T03:02:57.7437678+00:00",
+  "LastUpdate_Achievements": "2024-01-11T03:09:49.2686287+00:00"
 }

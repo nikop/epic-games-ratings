@@ -6,9 +6,9 @@
   "Ranking_Popularity": 233,
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 154,
-  "Ranking_EOS_Completed": 285,
+  "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3899,9 +3899,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 20662,
+  "EOS_Progressed": 20664,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 589,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19259,6 +19259,11 @@
       "Time": "2024-01-11T01:55:10.0944339+00:00",
       "NumProgressed": 20662,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-11T03:04:47.7424736+00:00",
+      "NumProgressed": 20664,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19351,7 +19356,7 @@
       "Name": "Homesick",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "WinFirstGame",
@@ -19431,7 +19436,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "WinNearFishmen",
@@ -19479,7 +19484,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "WinNearOutpost",
@@ -19527,7 +19532,7 @@
       "Name": "Watchtower",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "WinOnCoral",
@@ -19583,7 +19588,7 @@
       "Name": "A Real Challenge",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "WinWIthCaches",
@@ -19669,9 +19674,9 @@
       "ID": "WinNearAbandoned",
       "SetID": "cfbk359",
       "Name": "Abandoned Settlement",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1860
     },
     {
       "ID": "WinNearFrosts",
@@ -19742,15 +19747,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20662,
+      "Progressed": 20664,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-10T21:58:45.168716+00:00",
-  "LastChanged_Achievements": "2024-01-11T02:29:28.2821478+00:00",
+  "LastChanged_Achievements": "2024-01-11T03:04:47.7424731+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:23:08.2047012+00:00",
-  "LastUpdate_Achievements": "2024-01-11T02:29:28.2822627+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:58:36.7380474+00:00",
+  "LastUpdate_Achievements": "2024-01-11T03:04:47.7425721+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 241,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 127,
-  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
@@ -3607,9 +3607,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 46549,
+  "EOS_Progressed": 46550,
   "EOS_Completed": 372,
-  "EOS_NewPlayers": 729,
+  "EOS_NewPlayers": 728,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -33227,6 +33227,11 @@
       "Time": "2024-01-11T02:29:56.055234+00:00",
       "NumProgressed": 46549,
       "NumCompleted": 372
+    },
+    {
+      "Time": "2024-01-11T03:05:14.5947469+00:00",
+      "NumProgressed": 46550,
+      "NumCompleted": 372
     }
   ],
   "TotalAchievements": 60,
@@ -33254,7 +33259,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 26998
+      "UsersEstimate": 26999
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -33262,7 +33267,7 @@
       "Name": "Use the terrain",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4189
+      "UsersEstimate": 4190
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_2",
@@ -33302,7 +33307,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 11637
+      "UsersEstimate": 11638
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -33350,7 +33355,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 23274
+      "UsersEstimate": 23275
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -33398,7 +33403,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 17223
+      "UsersEstimate": 17224
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -33470,7 +33475,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 19085
+      "UsersEstimate": 19086
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -33534,7 +33539,7 @@
       "Name": "Prison Break",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4189
+      "UsersEstimate": 4190
     },
     {
       "ID": "ACH_D3_Campaign_Pain_Completed",
@@ -33550,7 +33555,7 @@
       "Name": "Flat as a pancake",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 7913
+      "UsersEstimate": 7914
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_2",
@@ -33590,7 +33595,7 @@
       "Name": "The Force disturbed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 9775
+      "UsersEstimate": 9776
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -33638,7 +33643,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 32584
+      "UsersEstimate": 32585
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -33678,7 +33683,7 @@
       "Name": "Hearts are trump",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3258
+      "UsersEstimate": 3259
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_Completed",
@@ -33694,7 +33699,7 @@
       "Name": "Lifeguard",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 7913
+      "UsersEstimate": 7914
     },
     {
       "ID": "ACH_D3_Campaign_Water_2",
@@ -33717,15 +33722,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 46549,
+      "Progressed": 46550,
       "Completed": 372
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2024-01-10T14:57:56.2988599+00:00",
-  "LastChanged_Achievements": "2024-01-11T02:29:56.0552335+00:00",
+  "LastChanged_Achievements": "2024-01-11T03:05:14.5947466+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:50.2098276+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:22:24.8546286+00:00",
-  "LastUpdate_Achievements": "2024-01-11T02:29:56.05543+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:57:55.4415081+00:00",
+  "LastUpdate_Achievements": "2024-01-11T03:05:14.5949228+00:00"
 }

@@ -1,7 +1,7 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.63 (Ranked 359)  
+Rating: 4.63 (Ranked 358)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -25,8 +25,8 @@ Number of Ratings: 76  (23.09.2022)
 | Are you ready now? | 7.00% | ~65 |
 | Keep it Rolling | 7.00% | ~65 |
 | Ultra Spatula Seeker | 7.00% | ~65 |
+| Robot encyclopedia | 6.00% | ~56 |
 | Hello, Bikini Bottom | 6.00% | ~56 |
-| Robot encyclopedia | 5.00% | ~47 |
 | Ship Shape | 5.00% | ~47 |
 | Shanghaied | 5.00% | ~47 |
 | Kelp Forest of Fear | 5.00% | ~47 |
@@ -40,7 +40,7 @@ Number of Ratings: 76  (23.09.2022)
 | Super Ultra Mega Spatula Seeker | 1.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 933 (Ranked 301)  
-Completed: 8 (0.86%) (Ranked 188)  
+Completed: 8 (0.86%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

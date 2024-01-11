@@ -6,9 +6,9 @@
   "Ranking_Popularity": 425,
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 164,
-  "Ranking_EOS_Completed": 396,
+  "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -1443,9 +1443,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 17624,
+  "EOS_Progressed": 17625,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2500,
+  "EOS_NewPlayers": 2499,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11203,6 +11203,11 @@
       "Time": "2024-01-11T02:30:14.9092404+00:00",
       "NumProgressed": 17624,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T03:05:32.984204+00:00",
+      "NumProgressed": 17625,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -11263,7 +11268,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16038
+      "UsersEstimate": 16039
     },
     {
       "ID": "achievement_0008",
@@ -11359,7 +11364,7 @@
       "Name": "Undisputed Winner",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "achievement_0020",
@@ -11375,7 +11380,7 @@
       "Name": "Team Orders",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 11808
+      "UsersEstimate": 11809
     },
     {
       "ID": "achievement_0022",
@@ -11439,7 +11444,7 @@
       "Name": "Reduce",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 2467
+      "UsersEstimate": 2468
     },
     {
       "ID": "achievement_0030",
@@ -11463,7 +11468,7 @@
       "Name": "Tinkerer",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "achievement_0033",
@@ -11495,7 +11500,7 @@
       "Name": "Ups and Downs",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2467
+      "UsersEstimate": 2468
     },
     {
       "ID": "achievement_0037",
@@ -11559,7 +11564,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 6168
+      "UsersEstimate": 6169
     },
     {
       "ID": "achievement_0045",
@@ -11606,7 +11611,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 17624,
+      "Progressed": 17625,
       "Completed": 0
     }
   ],
@@ -11614,8 +11619,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-10T20:57:11.1394891+00:00",
-  "LastChanged_Achievements": "2024-01-11T02:30:14.9092402+00:00",
+  "LastChanged_Achievements": "2024-01-11T03:05:32.9842036+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:15.2115068+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:21:39.3539806+00:00",
-  "LastUpdate_Achievements": "2024-01-11T02:30:14.9093084+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:57:09.9955859+00:00",
+  "LastUpdate_Achievements": "2024-01-11T03:05:32.9842843+00:00"
 }

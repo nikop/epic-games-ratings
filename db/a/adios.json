@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 108,
-  "Ranking_EOS_Completed": 168,
+  "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
@@ -141,9 +141,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83224,
+  "EOS_Progressed": 83226,
   "EOS_Completed": 928,
-  "EOS_NewPlayers": 620,
+  "EOS_NewPlayers": 619,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -29776,6 +29776,11 @@
       "Time": "2024-01-11T02:28:30.7127718+00:00",
       "NumProgressed": 83224,
       "NumCompleted": 928
+    },
+    {
+      "Time": "2024-01-11T03:03:51.6607447+00:00",
+      "NumProgressed": 83226,
+      "NumCompleted": 928
     }
   ],
   "TotalAchievements": 25,
@@ -29811,7 +29816,7 @@
       "Name": "Audiophile",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "Be Seeing You",
@@ -29819,7 +29824,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18309
+      "UsersEstimate": 18310
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -29827,7 +29832,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14980
+      "UsersEstimate": 14981
     },
     {
       "ID": "Butcher",
@@ -29843,7 +29848,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4993
+      "UsersEstimate": 4994
     },
     {
       "ID": "Fair\u0027sFair",
@@ -29939,7 +29944,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11651
+      "UsersEstimate": 11652
     },
     {
       "ID": "Sniper",
@@ -29971,7 +29976,7 @@
       "Name": "Tape Head",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "Vinyl Vibes",
@@ -29986,7 +29991,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83224,
+      "Progressed": 83226,
       "Completed": 928
     }
   ],
@@ -29994,8 +29999,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-11T02:28:30.7127716+00:00",
+  "LastChanged_Achievements": "2024-01-11T03:03:51.6607444+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.3609745+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:23:56.9777872+00:00",
-  "LastUpdate_Achievements": "2024-01-11T02:28:30.7129337+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:59:22.4762359+00:00",
+  "LastUpdate_Achievements": "2024-01-11T03:03:51.6608809+00:00"
 }

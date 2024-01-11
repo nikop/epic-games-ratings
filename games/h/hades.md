@@ -6,45 +6,45 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 88.00% | ~636,973 |
-| Escaped Asphodel | 79.00% | ~571,828 |
-| Arms Collector | 70.00% | ~506,683 |
-| Friends in High Places | 67.00% | ~484,968 |
-| Escaped Elysium | 65.00% | ~470,491 |
-| Chthonic Colleagues | 62.00% | ~448,776 |
-| Is There No Escape? | 52.00% | ~376,393 |
-| Death Dealer | 45.00% | ~325,725 |
-| Skelly Slayer | 42.00% | ~304,010 |
-| Well Stocked | 40.00% | ~289,533 |
+| Escaped Tartarus | 88.00% | ~636,975 |
+| Escaped Asphodel | 79.00% | ~571,830 |
+| Arms Collector | 70.00% | ~506,684 |
+| Friends in High Places | 67.00% | ~484,969 |
+| Escaped Elysium | 65.00% | ~470,493 |
+| Chthonic Colleagues | 62.00% | ~448,778 |
+| Is There No Escape? | 52.00% | ~376,394 |
+| Death Dealer | 45.00% | ~325,726 |
+| Skelly Slayer | 42.00% | ~304,011 |
+| Well Stocked | 40.00% | ~289,534 |
 | Back to Work | 38.00% | ~275,057 |
-| Day-or-Night Trader | 37.00% | ~267,818 |
-| Blessed by the Gods | 37.00% | ~267,818 |
-| Urge to Sing | 36.00% | ~260,580 |
+| Day-or-Night Trader | 37.00% | ~267,819 |
+| Blessed by the Gods | 37.00% | ~267,819 |
+| Urge to Sing | 36.00% | ~260,581 |
 | Blood Bound | 35.00% | ~253,342 |
-| Three-Headed Boy | 31.00% | ~224,388 |
-| River Denizens | 28.00% | ~202,673 |
-| Grown Close | 28.00% | ~202,673 |
+| Three-Headed Boy | 31.00% | ~224,389 |
+| River Denizens | 28.00% | ~202,674 |
+| Grown Close | 28.00% | ~202,674 |
 | Home Makeover | 27.00% | ~195,435 |
-| Had to Happen | 25.00% | ~180,958 |
-| The Family Secret | 25.00% | ~180,958 |
+| Had to Happen | 25.00% | ~180,959 |
+| The Family Secret | 25.00% | ~180,959 |
 | Tools of the Architect | 23.00% | ~166,482 |
 | Master of Arms | 23.00% | ~166,482 |
-| To Charon's Credit | 22.00% | ~159,243 |
-| Rare Collectible | 22.00% | ~159,243 |
+| To Charon's Credit | 22.00% | ~159,244 |
+| Rare Collectible | 22.00% | ~159,244 |
 | Weapon of Fate | 21.00% | ~152,005 |
-| Something From Everyone | 19.00% | ~137,528 |
+| Something From Everyone | 19.00% | ~137,529 |
 | Hold the Onions | 18.00% | ~130,290 |
 | Well Versed | 17.00% | ~123,052 |
 | War-God's Bloodlust | 15.00% | ~108,575 |
 | Musician and Muse | 14.00% | ~101,337 |
-| The Useless Trinket | 13.00% | ~94,098 |
-| Champion of Elysium | 13.00% | ~94,098 |
+| The Useless Trinket | 13.00% | ~94,099 |
+| Champion of Elysium | 13.00% | ~94,099 |
 | Slashed Benefits | 12.00% | ~86,860 |
 | Haste of Hermes | 11.00% | ~79,622 |
-| Bad Call | 10.00% | ~72,383 |
-| Nyx's Mirror | 10.00% | ~72,383 |
-| Night and Darkness | 10.00% | ~72,383 |
-| End to Torment | 10.00% | ~72,383 |
+| Bad Call | 10.00% | ~72,384 |
+| Nyx's Mirror | 10.00% | ~72,384 |
+| Night and Darkness | 10.00% | ~72,384 |
+| End to Torment | 10.00% | ~72,384 |
 | Dark Reflections | 9.00% | ~65,145 |
 | Thanks, But No Thanks | 9.00% | ~65,145 |
 | Infernal Arms | 9.00% | ~65,145 |
@@ -56,8 +56,8 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,953 |
 | Friends Forever | 4.00% | ~28,953 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 723,833 (Ranked 28)  
-Completed: 6,603 (0.91%) (Ranked 181)  
+Progressed: 723,835 (Ranked 28)  
+Completed: 6,603 (0.91%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -322,14 +322,14 @@ Completed: 6,603 (0.91%) (Ranked 181)
 | 2024-01-08 | 723,443 | 6,599 |
 | 2024-01-09 | 723,627 | 6,601 |
 | 2024-01-10 | 723,823 | 6,603 |
-| 2024-01-11 | 723,833 | 6,603 |
+| 2024-01-11 | 723,835 | 6,603 |
 ## Awards
-Max (Character Customization): 3,526  (Ranked 96)  
-Sum: 8,605 (Ranked 106)  
+Max (Character Customization): 3,531  (Ranked 96)  
+Sum: 8,610 (Ranked 106)  
 Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 3,526 |
+| This game has Inclusive Character Customization | 3,531 |
 | This game has Great Boss Battles | 2,489 |
 | This game is Great for Beginners | 293 |
 | This game is Highly Recommended | 285 |
@@ -679,4 +679,4 @@ Diff (max vs sum): -10
 | 2024-01-08 | 4.92 | - | 3,519 | 8,591 |
 | 2024-01-09 | 4.92 | - | 3,526 | 8,601 |
 | 2024-01-10 | 4.92 | - | 3,526 | 8,602 |
-| 2024-01-11 | 4.92 | - | 3,526 | 8,605 |
+| 2024-01-11 | 4.92 | - | 3,531 | 8,610 |

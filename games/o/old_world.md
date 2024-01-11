@@ -13,6 +13,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 2.00% | ~328 |
 | Good | 2.00% | ~328 |
 | Intrepid | 2.00% | ~328 |
+| Just | 2.00% | ~328 |
 | Mason | 2.00% | ~328 |
 | Noble | 2.00% | ~328 |
 | Strong | 2.00% | ~328 |
@@ -25,7 +26,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 1.00% | ~164 |
 | Glorious | 1.00% | ~164 |
 | Great | 1.00% | ~164 |
-| Just | 1.00% | ~164 |
 | Keystone | 1.00% | ~164 |
 | Learned | 1.00% | ~164 |
 | Magnificent | 1.00% | ~164 |
@@ -33,6 +33,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 1.00% | ~164 |
 | Developing Cities | 1.00% | ~164 |
 | Strong Cities | 1.00% | ~164 |
+| Able Difficulty | 1.00% | ~164 |
 | Furious Family | 1.00% | ~164 |
 | Apadana | 1.00% | ~164 |
 | Great Ziggurat | 1.00% | ~164 |
@@ -40,6 +41,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 1.00% | ~164 |
 | Pyramids | 1.00% | ~164 |
 | Learn to Play 1 | 1.00% | ~164 |
+| Learn to Play 2 | 1.00% | ~164 |
 | Christianity | 1.00% | ~164 |
 | Judaism | 1.00% | ~164 |
 | Babylonian Paganism | 1.00% | ~164 |
@@ -51,10 +53,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 1.00% | ~164 |
 | Regicide | 0.90% | ~148 |
 | Wise | 0.90% | ~148 |
-| Able Difficulty | 0.90% | ~148 |
 | Musaeum | 0.90% | ~148 |
 | Necropolis | 0.90% | ~148 |
-| Learn to Play 2 | 0.90% | ~148 |
 | Manichaeism | 0.90% | ~148 |
 | Egyptian Paganism | 0.90% | ~148 |
 | Drillmaster | 0.80% | ~131 |
@@ -76,6 +76,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.60% | ~98 |
 | Learn to Play 3 | 0.60% | ~98 |
 | Persian Paganism | 0.60% | ~98 |
+| Points Victory | 0.60% | ~98 |
+| Win a Single Player Game | 0.60% | ~98 |
 | Mighty | 0.50% | ~82 |
 | Landowners | 0.50% | ~82 |
 | Patrons | 0.50% | ~82 |
@@ -89,8 +91,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.50% | ~82 |
 | Military Prestige | 0.50% | ~82 |
 | Double Victory | 0.50% | ~82 |
-| Points Victory | 0.50% | ~82 |
-| Win a Single Player Game | 0.50% | ~82 |
 | Bad Heir Day | 0.40% | ~66 |
 | Capable | 0.40% | ~66 |
 | Conqueror | 0.40% | ~66 |
@@ -365,8 +365,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,397 (Ranked 169)  
-Completed: 5 (0.03%) (Ranked 354)  
+Progressed: 16,399 (Ranked 169)  
+Completed: 5 (0.03%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -631,7 +631,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
-| 2024-01-11 | 16,397 | 5 |
+| 2024-01-11 | 16,399 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,919 (Ranked 224)  

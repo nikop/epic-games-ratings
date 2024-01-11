@@ -17,10 +17,10 @@ Rating: 4.09 (Ranked 1,020)
 | Exotic Merchant | 16.00% | ~702 |
 | Dragon Clicker | 15.00% | ~658 |
 | Miner Clicker | 15.00% | ~658 |
+| Inspection | 14.00% | ~614 |
 | Dragon Master | 13.00% | ~570 |
 | Enlightenment | 13.00% | ~570 |
 | Hero inspection | 13.00% | ~570 |
-| Inspection | 13.00% | ~570 |
 | Lieutenant | 12.00% | ~526 |
 | Mysterious Rock | 11.00% | ~482 |
 | Natural Talent | 11.00% | ~482 |
@@ -82,7 +82,7 @@ Rating: 4.09 (Ranked 1,020)
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,386 (Ranked 208)  
-Completed: 2 (0.05%) (Ranked 337)  
+Completed: 2 (0.05%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

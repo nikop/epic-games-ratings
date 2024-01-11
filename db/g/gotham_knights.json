@@ -6,9 +6,9 @@
   "Ranking_Popularity": 101,
   "Ranking_PopularitySum": 142,
   "Ranking_EOS_Progress": 109,
-  "Ranking_EOS_Completed": 285,
+  "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5201,7 +5201,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82460,
+  "EOS_Progressed": 82461,
   "EOS_Completed": 133,
   "EOS_NewPlayers": 1155,
   "EOS_NewCompleters": 3,
@@ -29761,6 +29761,11 @@
       "Time": "2024-01-11T01:55:37.3542979+00:00",
       "NumProgressed": 82460,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2024-01-11T03:05:06.3299895+00:00",
+      "NumProgressed": 82461,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 61,
@@ -29892,7 +29897,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 11544
+      "UsersEstimate": 11545
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -30020,7 +30025,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 11544
+      "UsersEstimate": 11545
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -30076,7 +30081,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28036
+      "UsersEstimate": 28037
     },
     {
       "ID": "HARLEY_2",
@@ -30084,7 +30089,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19790
+      "UsersEstimate": 19791
     },
     {
       "ID": "HARLEY_3",
@@ -30172,7 +30177,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19790
+      "UsersEstimate": 19791
     },
     {
       "ID": "MYSTERY_03",
@@ -30204,7 +30209,7 @@
       "Name": "Voiceless",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 11544
+      "UsersEstimate": 11545
     },
     {
       "ID": "MYSTERY_07",
@@ -30259,13 +30264,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82460,
+      "Progressed": 82461,
       "Completed": 133
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 52740,
+      "Progressed": 52741,
       "Completed": 2679
     }
   ],
@@ -30273,8 +30278,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-10T17:00:00.0317648+00:00",
-  "LastChanged_Achievements": "2024-01-11T02:29:47.823933+00:00",
+  "LastChanged_Achievements": "2024-01-11T03:05:06.3299889+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:43.7132471+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:24:21.2831506+00:00",
-  "LastUpdate_Achievements": "2024-01-11T02:29:47.8240878+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:59:45.1536562+00:00",
+  "LastUpdate_Achievements": "2024-01-11T03:05:06.3301361+00:00"
 }

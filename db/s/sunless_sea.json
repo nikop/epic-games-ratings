@@ -6,9 +6,9 @@
   "Ranking_Popularity": 292,
   "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 130,
-  "Ranking_EOS_Completed": 373,
+  "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -808,7 +808,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44013,
+  "EOS_Progressed": 44014,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 0,
@@ -28008,6 +28008,11 @@
       "Time": "2024-01-11T02:30:42.9315668+00:00",
       "NumProgressed": 44013,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T03:06:00.2824702+00:00",
+      "NumProgressed": 44014,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -28083,7 +28088,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4841
+      "UsersEstimate": 4842
     },
     {
       "ID": "ach_cursestone",
@@ -28107,7 +28112,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4841
+      "UsersEstimate": 4842
     },
     {
       "ID": "ach_deathofermod",
@@ -28187,7 +28192,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4841
+      "UsersEstimate": 4842
     },
     {
       "ID": "ach_invictus",
@@ -28243,7 +28248,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4841
+      "UsersEstimate": 4842
     },
     {
       "ID": "ach_newstories",
@@ -28371,7 +28376,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7922
+      "UsersEstimate": 7923
     },
     {
       "ID": "ach_terror100",
@@ -28450,15 +28455,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44013,
+      "Progressed": 44014,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-05T23:59:49.2303848+00:00",
-  "LastChanged_Achievements": "2024-01-11T02:30:42.9315664+00:00",
+  "LastChanged_Achievements": "2024-01-11T03:06:00.2824697+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.5653659+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:23:20.5324432+00:00",
-  "LastUpdate_Achievements": "2024-01-11T02:30:42.9316985+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:58:48.145907+00:00",
+  "LastUpdate_Achievements": "2024-01-11T03:06:00.2826201+00:00"
 }

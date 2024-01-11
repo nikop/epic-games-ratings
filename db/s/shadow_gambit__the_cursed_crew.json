@@ -193,7 +193,7 @@
   "Tags": [],
   "EOS_Progressed": 1516,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.44,
   "EosHistory": [
@@ -5430,9 +5430,9 @@
       "ID": "_24_CrewTale_SNP",
       "SetID": "8a1io5d",
       "Name": "Jaded Judge",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 182
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -5463,8 +5463,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-09T20:59:58.0673284+00:00",
-  "LastChanged_Achievements": "2024-01-11T02:30:55.0705893+00:00",
+  "LastChanged_Achievements": "2024-01-11T03:06:12.2922772+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.9098347+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:24:58.0995782+00:00",
-  "LastUpdate_Achievements": "2024-01-11T02:30:55.0706277+00:00"
+  "LastUpdate_Ratings": "2024-01-11T03:02:30.664428+00:00",
+  "LastUpdate_Achievements": "2024-01-11T03:06:12.2923249+00:00"
 }

@@ -1,7 +1,7 @@
 # Assassin's Creed Chronicles: China
 [Store](https://store.epicgames.com/en-US/p/assassins-creed-chronicles-china)  
 [View Rawdata](../../db/a/assassin's_creed_chronicles__china.json)  
-Rating: 4.64 (Ranked 344)  
+Rating: 4.62 (Ranked 378)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -23,3 +23,4 @@ Rating: 4.64 (Ranked 344)
 | 2023-10-17 | 4.65 | 0 | 0 |
 | 2023-11-08 | 4.66 | 0 | 0 |
 | 2023-12-26 | 4.64 | 0 | 0 |
+| 2024-01-11 | 4.62 | 0 | 0 |

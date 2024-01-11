@@ -370,8 +370,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 496,443 (Ranked 42)  
-Completed: 1 (0.00%) (Ranked 396)  
+Progressed: 496,450 (Ranked 42)  
+Completed: 1 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -636,7 +636,7 @@ Completed: 1 (0.00%) (Ranked 396)
 | 2024-01-08 | 495,265 | 1 |
 | 2024-01-09 | 495,855 | 1 |
 | 2024-01-10 | 496,402 | 1 |
-| 2024-01-11 | 496,443 | 1 |
+| 2024-01-11 | 496,450 | 1 |
 ## Awards
 Max (Educational): 7,790  (Ranked 52)  
 Sum: 64,245 (Ranked 24)  

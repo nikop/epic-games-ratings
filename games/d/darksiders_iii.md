@@ -29,7 +29,7 @@ Number of Ratings: 116  (23.09.2022)
 | Love Tap | 33.00% | ~179 |
 | Maximum Vigor | 31.00% | ~168 |
 | Freeze Frame | 30.00% | ~163 |
-| Eat Your Heart Out | 29.00% | ~157 |
+| Eat Your Heart Out | 30.00% | ~163 |
 | For Whom the Bell Tolls | 29.00% | ~157 |
 | Unyielding Strength | 26.00% | ~141 |
 | Big Spender | 26.00% | ~141 |
@@ -51,8 +51,8 @@ Number of Ratings: 116  (23.09.2022)
 | Demon Keeper | 12.00% | ~65 |
 | Humanitarian | 9.00% | ~49 |
 | Soul Reaper | 8.00% | ~43 |
+| Made of Sterner Stuff | 7.00% | ~38 |
 | My Evil Twin | 6.00% | ~33 |
-| Made of Sterner Stuff | 6.00% | ~33 |
 | Purity of Power | 5.00% | ~27 |
 | Balance in all things | 5.00% | ~27 |
 | Keeper of the Bonfire | 5.00% | ~27 |
@@ -72,7 +72,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 0.90% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 543 (Ranked 345)  
-Completed: 2 (0.37%) (Ranked 242)  
+Completed: 2 (0.37%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

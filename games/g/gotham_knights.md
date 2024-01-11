@@ -6,12 +6,12 @@ Rating: 4.19 (Ranked 973)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 50.00% | ~41,230 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,036 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,037 |
 | Loose Ends | 33.00% | ~27,212 |
 | To the Victor Go the Spoils | 27.00% | ~22,264 |
 | Knighthood | 26.00% | ~21,440 |
-| Get ReQ'd | 24.00% | ~19,790 |
-| Whispered Words | 24.00% | ~19,790 |
+| Get ReQ'd | 24.00% | ~19,791 |
+| Whispered Words | 24.00% | ~19,791 |
 | The Batman Family | 22.00% | ~18,141 |
 | Lock and Key | 22.00% | ~18,141 |
 | Something in the Clay | 20.00% | ~16,492 |
@@ -25,9 +25,9 @@ Rating: 4.19 (Ranked 973)
 | Protector of Gotham | 16.00% | ~13,194 |
 | In Your Element | 15.00% | ~12,369 |
 | Universal Health Scare | 15.00% | ~12,369 |
-| Rock and a Hard Place | 14.00% | ~11,544 |
-| Cooldown | 14.00% | ~11,544 |
-| Voiceless | 14.00% | ~11,544 |
+| Rock and a Hard Place | 14.00% | ~11,545 |
+| Cooldown | 14.00% | ~11,545 |
+| Voiceless | 14.00% | ~11,545 |
 | Shock Til They Drop | 13.00% | ~10,720 |
 | Seeking Asylum | 13.00% | ~10,720 |
 | End of an Era | 12.00% | ~9,895 |
@@ -67,8 +67,8 @@ Rating: 4.19 (Ranked 973)
 | The Cold, the Bad and the Ugly | 0.30% | ~158 |
 | It's Nice to Be Wanted | 0.20% | ~105 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,460 (Ranked 109)  
-Completed: 133 (0.16%) (Ranked 285)  
+Progressed: 82,461 (Ranked 109)  
+Completed: 133 (0.16%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -333,7 +333,7 @@ Completed: 133 (0.16%) (Ranked 285)
 | 2024-01-08 | 82,151 | 132 |
 | 2024-01-09 | 82,304 | 133 |
 | 2024-01-10 | 82,440 | 133 |
-| 2024-01-11 | 82,460 | 133 |
+| 2024-01-11 | 82,461 | 133 |
 ## Awards
 Max (Great Boss Battles): 3,172  (Ranked 101)  
 Sum: 5,420 (Ranked 142)  

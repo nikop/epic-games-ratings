@@ -17,8 +17,8 @@ Number of Ratings: 1,023  (23.09.2022)
 | Mystery | 10.00% | ~2,209 |
 | Artistic soul | 10.00% | ~2,209 |
 | Estate Agent | 6.00% | ~1,325 |
-| Millionaire | 5.00% | ~1,104 |
-| Perfectionist | 5.00% | ~1,104 |
+| Millionaire | 5.00% | ~1,105 |
+| Perfectionist | 5.00% | ~1,105 |
 | I'm Belieber | 3.00% | ~663 |
 | Knock, knock | 1.00% | ~221 |
 | You do it wrong | 1.00% | ~221 |
@@ -30,8 +30,8 @@ Number of Ratings: 1,023  (23.09.2022)
 | Do it ASAP | 0.60% | ~133 |
 | Senior Estate Agent | 0.60% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,090 (Ranked 150)  
-Completed: 21 (0.10%) (Ranked 310)  
+Progressed: 22,091 (Ranked 150)  
+Completed: 21 (0.10%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -295,10 +295,11 @@ Completed: 21 (0.10%) (Ranked 310)
 | 2024-01-08 | 22,060 | 21 |
 | 2024-01-09 | 22,071 | 21 |
 | 2024-01-10 | 22,090 | 21 |
+| 2024-01-11 | 22,091 | 21 |
 ## Awards
 Max (Great for Beginners): 330  (Ranked 254)  
-Sum: 2,300 (Ranked 209)  
-Diff (max vs sum): 45  
+Sum: 2,300 (Ranked 210)  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 330 |

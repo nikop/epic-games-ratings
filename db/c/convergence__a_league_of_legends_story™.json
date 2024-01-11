@@ -6,9 +6,9 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 280,
-  "Ranking_EOS_Completed": 215,
+  "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -3959,9 +3959,9 @@
       "ID": "ChronobreakMultiKill1",
       "SetID": "a9e499d",
       "Name": "Right On Time",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 299
     },
     {
       "ID": "ClockworkCompletion1",
@@ -4360,8 +4360,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-11T02:34:26.4469127+00:00",
+  "LastChanged_Achievements": "2024-01-11T03:09:50.8722172+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:24:21.5810947+00:00",
-  "LastUpdate_Achievements": "2024-01-11T02:34:26.4469779+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:59:45.4553185+00:00",
+  "LastUpdate_Achievements": "2024-01-11T03:09:50.8722692+00:00"
 }

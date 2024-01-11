@@ -6,9 +6,9 @@
   "Ranking_Popularity": 422,
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 35,
-  "Ranking_EOS_Completed": 396,
-  "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_Completed": 397,
+  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -1141,7 +1141,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 550644,
+  "EOS_Progressed": 550648,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 1931,
   "EOS_NewCompleters": 0,
@@ -31481,6 +31481,11 @@
       "Time": "2024-01-11T02:33:39.7203751+00:00",
       "NumProgressed": 550644,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-11T03:09:04.5151344+00:00",
+      "NumProgressed": 550648,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -31492,7 +31497,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 148674
+      "UsersEstimate": 148675
     },
     {
       "ID": "Backdoor",
@@ -31500,7 +31505,7 @@
       "Name": "Backdoor",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 143167
+      "UsersEstimate": 143168
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -31516,7 +31521,7 @@
       "Name": "Bet Bet Bet",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 55064
+      "UsersEstimate": 55065
     },
     {
       "ID": "BlindmansBluff",
@@ -31588,7 +31593,7 @@
       "Name": "Cold Caller",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 220258
+      "UsersEstimate": 220259
     },
     {
       "ID": "DeadlyAssassin",
@@ -31596,7 +31601,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 88103
+      "UsersEstimate": 88104
     },
     {
       "ID": "DogEatDog",
@@ -31636,7 +31641,7 @@
       "Name": "Gutshot",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 77090
+      "UsersEstimate": 77091
     },
     {
       "ID": "Handy",
@@ -31644,7 +31649,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 231270
+      "UsersEstimate": 231272
     },
     {
       "ID": "HoldingYourOwn",
@@ -31740,7 +31745,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 418489
+      "UsersEstimate": 418492
     },
     {
       "ID": "ProPlayer",
@@ -31764,7 +31769,7 @@
       "Name": "Rank Amateur",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 121142
+      "UsersEstimate": 121143
     },
     {
       "ID": "RegularPunter",
@@ -31780,7 +31785,7 @@
       "Name": "Risk It For A Biscuit",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 77090
+      "UsersEstimate": 77091
     },
     {
       "ID": "RockAndHighRoller",
@@ -31820,7 +31825,7 @@
       "Name": "Three Way",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 104622
+      "UsersEstimate": 104623
     },
     {
       "ID": "TopDog",
@@ -31844,14 +31849,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 66077
+      "UsersEstimate": 66078
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 550644,
+      "Progressed": 550648,
       "Completed": 2
     }
   ],
@@ -31859,8 +31864,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2024-01-10T09:01:08.1145753+00:00",
-  "LastChanged_Achievements": "2024-01-11T02:33:39.7203746+00:00",
+  "LastChanged_Achievements": "2024-01-11T03:09:04.5151339+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:20.8629968+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:24:38.1863102+00:00",
-  "LastUpdate_Achievements": "2024-01-11T02:33:39.7205682+00:00"
+  "LastUpdate_Ratings": "2024-01-11T03:00:01.4743179+00:00",
+  "LastUpdate_Achievements": "2024-01-11T03:09:04.5153156+00:00"
 }

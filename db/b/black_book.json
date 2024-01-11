@@ -6,7 +6,7 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 117,
-  "Ranking_EOS_Completed": 310,
+  "Ranking_EOS_Completed": 311,
   "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
@@ -686,9 +686,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 66343,
+  "EOS_Progressed": 66345,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 1534,
+  "EOS_NewPlayers": 1531,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16466,6 +16466,11 @@
       "Time": "2024-01-11T02:28:06.2834546+00:00",
       "NumProgressed": 66343,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2024-01-11T03:03:27.9767362+00:00",
+      "NumProgressed": 66345,
+      "NumCompleted": 69
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -16534,7 +16539,7 @@
       "Name": "Card Player",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5307
+      "UsersEstimate": 5308
     },
     {
       "ID": "CHEATER",
@@ -16590,7 +16595,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 14595
+      "UsersEstimate": 14596
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -16678,7 +16683,7 @@
       "Name": "Initiation",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 19239
+      "UsersEstimate": 19240
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -16694,7 +16699,7 @@
       "Name": "Dead Friend",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5307
+      "UsersEstimate": 5308
     },
     {
       "ID": "MERMAID_NOT_FREE",
@@ -16758,7 +16763,7 @@
       "Name": "Pine Tree",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5307
+      "UsersEstimate": 5308
     },
     {
       "ID": "PROSHKA_LOYAL",
@@ -16798,7 +16803,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 9951
+      "UsersEstimate": 9952
     },
     {
       "ID": "TALES_2",
@@ -16877,15 +16882,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 66343,
+      "Progressed": 66345,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-11T02:28:06.2834543+00:00",
+  "LastChanged_Achievements": "2024-01-11T03:03:27.9767358+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:33.7261793+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:22:06.1606828+00:00",
-  "LastUpdate_Achievements": "2024-01-11T02:28:06.2835486+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:57:37.1880528+00:00",
+  "LastUpdate_Achievements": "2024-01-11T03:03:27.9768215+00:00"
 }

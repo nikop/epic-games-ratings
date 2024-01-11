@@ -5,24 +5,24 @@ Rating: 4.86 (Ranked 31)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 54.00% | ~9,008 |
-| Feeling the beat! | 54.00% | ~9,008 |
-| You can pet the cat! | 49.00% | ~8,174 |
-| Who put gears in there? | 40.00% | ~6,673 |
-| Cream of the Crop | 35.00% | ~5,839 |
-| Thanks for the free chip, Peppermint! | 34.00% | ~5,672 |
-| You got this, Peppermint? | 29.00% | ~4,838 |
-| Perfect Parry | 27.00% | ~4,504 |
-| Alright, that felt AWESOME! | 27.00% | ~4,504 |
-| I play my own way! | 23.00% | ~3,837 |
-| This will cost you big time | 22.00% | ~3,670 |
-| Uh, they were broken when I got here | 21.00% | ~3,503 |
-| Z-shielding's got nothing on us! | 20.00% | ~3,336 |
+| Start with a bang! | 54.00% | ~9,010 |
+| Feeling the beat! | 54.00% | ~9,010 |
+| You can pet the cat! | 49.00% | ~8,176 |
+| Who put gears in there? | 40.00% | ~6,674 |
+| Cream of the Crop | 35.00% | ~5,840 |
+| Thanks for the free chip, Peppermint! | 34.00% | ~5,673 |
+| You got this, Peppermint? | 29.00% | ~4,839 |
+| Perfect Parry | 27.00% | ~4,505 |
+| Alright, that felt AWESOME! | 27.00% | ~4,505 |
+| I play my own way! | 23.00% | ~3,838 |
+| This will cost you big time | 22.00% | ~3,671 |
+| Uh, they were broken when I got here | 21.00% | ~3,504 |
+| Z-shielding's got nothing on us! | 20.00% | ~3,337 |
 | Kissing the sky! | 19.00% | ~3,170 |
 | Whoa! There's ANOTHER health bar!? | 17.00% | ~2,836 |
 | Does that say weakpoint? | 17.00% | ~2,836 |
-| The Negotiator | 16.00% | ~2,669 |
-| You must like calling me in, Chai | 14.00% | ~2,335 |
+| The Negotiator | 16.00% | ~2,670 |
+| You must like calling me in, Chai | 14.00% | ~2,336 |
 | Headliner | 13.00% | ~2,169 |
 | Out in a puff of smoke | 13.00% | ~2,169 |
 | I look cool. But I can look COOLER. | 13.00% | ~2,169 |
@@ -38,7 +38,7 @@ Rating: 4.86 (Ranked 31)
 | I told you I'd be fine, Peppermint! | 5.00% | ~834 |
 | Chip-tuned | 4.00% | ~667 |
 | Wanna hear my playlist? | 4.00% | ~667 |
-| Check out my moves! | 3.00% | ~500 |
+| Check out my moves! | 3.00% | ~501 |
 | I think I deserve some praise, here! | 2.00% | ~334 |
 | I think I found your calling, Macaron | 2.00% | ~334 |
 | We're Jammin' | 2.00% | ~334 |
@@ -77,8 +77,8 @@ Rating: 4.86 (Ranked 31)
 | Voices from within | 0.10% | ~15 |
 | Low budget finish | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,682 (Ranked 167)  
-Completed: 8 (0.05%) (Ranked 337)  
+Progressed: 16,685 (Ranked 167)  
+Completed: 8 (0.05%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -333,7 +333,7 @@ Completed: 8 (0.05%) (Ranked 337)
 | 2024-01-08 | 16,279 | 8 |
 | 2024-01-09 | 16,474 | 8 |
 | 2024-01-10 | 16,669 | 8 |
-| 2024-01-11 | 16,682 | 8 |
+| 2024-01-11 | 16,685 | 8 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 517)  
 Sum: 32 (Ranked 541)  

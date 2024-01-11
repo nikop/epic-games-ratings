@@ -3,12 +3,12 @@
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
   "Ranking_Rating": 470,
-  "Ranking_Popularity": 138,
+  "Ranking_Popularity": 139,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 73,
-  "Ranking_EOS_Completed": 299,
+  "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3898,10 +3898,10 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242742,
+  "EOS_Progressed": 242743,
   "EOS_Completed": 305,
   "EOS_NewPlayers": 433,
-  "EOS_NewCompleters": 2,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
     {
@@ -31403,6 +31403,11 @@
       "Time": "2024-01-11T02:34:28.9716441+00:00",
       "NumProgressed": 242742,
       "NumCompleted": 305
+    },
+    {
+      "Time": "2024-01-11T03:09:53.4926101+00:00",
+      "NumProgressed": 242743,
+      "NumCompleted": 305
     }
   ],
   "TotalAchievements": 138,
@@ -32517,13 +32522,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242742,
+      "Progressed": 242743,
       "Completed": 305
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4222,
+      "Progressed": 4223,
       "Completed": 424
     }
   ],
@@ -32531,8 +32536,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-11T01:48:01.788838+00:00",
-  "LastChanged_Achievements": "2024-01-11T02:34:28.9716438+00:00",
+  "LastChanged_Achievements": "2024-01-11T03:09:53.4926096+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:22:48.0013433+00:00",
-  "LastUpdate_Achievements": "2024-01-11T02:34:28.9719086+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:58:17.2132367+00:00",
+  "LastUpdate_Achievements": "2024-01-11T03:09:53.4928747+00:00"
 }

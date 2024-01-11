@@ -4,11 +4,11 @@
   "ProductSlug": "house-flipper",
   "Ranking_Rating": 236,
   "Ranking_Popularity": 254,
-  "Ranking_PopularitySum": 209,
+  "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 150,
-  "Ranking_EOS_Completed": 310,
+  "Ranking_EOS_Completed": 311,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2289,7 +2289,7 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 22090,
+  "EOS_Progressed": 22091,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
@@ -13179,6 +13179,11 @@
       "Time": "2024-01-10T22:04:38.0928121+00:00",
       "NumProgressed": 22090,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-11T03:04:26.3398646+00:00",
+      "NumProgressed": 22091,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -13294,7 +13299,7 @@
       "Name": "Millionaire",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "MrAndMrsJantart",
@@ -13318,7 +13323,7 @@
       "Name": "Perfectionist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "RafaelErko",
@@ -13373,15 +13378,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 22090,
+      "Progressed": 22091,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2024-01-08T20:58:06.7738813+00:00",
-  "LastChanged_Achievements": "2024-01-11T02:29:06.6575904+00:00",
+  "LastChanged_Achievements": "2024-01-11T03:04:26.3398642+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:58.4708185+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:23:08.565282+00:00",
-  "LastUpdate_Achievements": "2024-01-11T02:29:06.6576551+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:58:37.0453581+00:00",
+  "LastUpdate_Achievements": "2024-01-11T03:04:26.3399336+00:00"
 }

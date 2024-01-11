@@ -40,7 +40,7 @@ Rating: 4.39 (Ranked 781)
 | Dr Jones | 16.00% | ~273 |
 | Newtonian Knockout | 16.00% | ~273 |
 | Ruthless | 14.00% | ~239 |
-| Side Order | 10.00% | ~171 |
+| Side Order | 11.00% | ~188 |
 | Bot Whisperer | 9.00% | ~154 |
 | Chain Reaction | 9.00% | ~154 |
 | Curveball | 8.00% | ~137 |
@@ -53,12 +53,12 @@ Rating: 4.39 (Ranked 781)
 | Five Finger Deathcount | 1.00% | ~17 |
 | Shadow Boxin' | 1.00% | ~17 |
 | Fratricide | 0.90% | ~15 |
+| Goaaaaal! | 0.90% | ~15 |
 | Alpha Editor | 0.80% | ~14 |
-| Goaaaaal! | 0.80% | ~14 |
 | QA Has Suffered! (Redux) | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,709 (Ranked 259)  
-Completed: 0 (0.00%) (Ranked 396)  
+Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

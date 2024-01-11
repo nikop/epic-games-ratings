@@ -6,9 +6,9 @@
   "Ranking_Popularity": 437,
   "Ranking_PopularitySum": 394,
   "Ranking_EOS_Progress": 58,
-  "Ranking_EOS_Completed": 396,
-  "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_Completed": 397,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -1048,9 +1048,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 361470,
+  "EOS_Progressed": 361474,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1217,
+  "EOS_NewPlayers": 1219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31398,6 +31398,11 @@
       "Time": "2024-01-11T02:29:57.127967+00:00",
       "NumProgressed": 361470,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-11T03:05:15.7134062+00:00",
+      "NumProgressed": 361474,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -31425,7 +31430,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43376
+      "UsersEstimate": 43377
     },
     {
       "ID": "ach004",
@@ -31465,7 +31470,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43376
+      "UsersEstimate": 43377
     },
     {
       "ID": "ach009",
@@ -31513,7 +31518,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 54220
+      "UsersEstimate": 54221
     },
     {
       "ID": "ach015",
@@ -31537,7 +31542,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 46991
+      "UsersEstimate": 46992
     },
     {
       "ID": "ach018",
@@ -31617,7 +31622,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 166276
+      "UsersEstimate": 166278
     },
     {
       "ID": "ach028",
@@ -31761,7 +31766,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46991
+      "UsersEstimate": 46992
     },
     {
       "ID": "ach046",
@@ -31937,7 +31942,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 57835
+      "UsersEstimate": 57836
     },
     {
       "ID": "ach069",
@@ -32048,7 +32053,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 361470,
+      "Progressed": 361474,
       "Completed": 7
     }
   ],
@@ -32056,8 +32061,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2024-01-10T04:00:52.2617728+00:00",
-  "LastChanged_Achievements": "2024-01-11T02:29:57.1279666+00:00",
+  "LastChanged_Achievements": "2024-01-11T03:05:15.7134058+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:19.8615185+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:24:35.761949+00:00",
-  "LastUpdate_Achievements": "2024-01-11T02:29:57.1281774+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:59:59.1155024+00:00",
+  "LastUpdate_Achievements": "2024-01-11T03:05:15.7135815+00:00"
 }

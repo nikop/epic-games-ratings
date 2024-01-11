@@ -7,10 +7,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Taking Action | 9.00% | ~1,860 |
+| Abandoned Settlement | 9.00% | ~1,860 |
 | Overgrown Library | 9.00% | ~1,860 |
 | First Real Expedition | 8.00% | ~1,653 |
 | No Deaths | 8.00% | ~1,653 |
-| Abandoned Settlement | 8.00% | ~1,653 |
 | Petrified Necropolis | 8.00% | ~1,653 |
 | Overcoming Difficulty | 7.00% | ~1,446 |
 | Coral Forest | 7.00% | ~1,446 |
@@ -21,11 +21,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 5.00% | ~1,033 |
 | Frosts | 5.00% | ~1,033 |
 | Land of Greed | 5.00% | ~1,033 |
-| Homesick | 4.00% | ~826 |
-| Fertile Meadows | 4.00% | ~826 |
-| Monastery of the Holy Flame | 4.00% | ~826 |
-| Watchtower | 4.00% | ~826 |
-| A Real Challenge | 4.00% | ~826 |
+| Homesick | 4.00% | ~827 |
+| Fertile Meadows | 4.00% | ~827 |
+| Monastery of the Holy Flame | 4.00% | ~827 |
+| Watchtower | 4.00% | ~827 |
+| A Real Challenge | 4.00% | ~827 |
 | Ruined Armory | 3.00% | ~620 |
 | Bandit Camp | 3.00% | ~620 |
 | Ancient Battleground | 3.00% | ~620 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,662 (Ranked 154)  
-Completed: 34 (0.16%) (Ranked 285)  
+Progressed: 20,664 (Ranked 154)  
+Completed: 34 (0.16%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -332,7 +332,7 @@ Completed: 34 (0.16%) (Ranked 285)
 | 2024-01-08 | 20,508 | 34 |
 | 2024-01-09 | 20,595 | 34 |
 | 2024-01-10 | 20,658 | 34 |
-| 2024-01-11 | 20,662 | 34 |
+| 2024-01-11 | 20,664 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,369 (Ranked 177)  

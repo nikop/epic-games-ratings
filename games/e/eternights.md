@@ -5,7 +5,7 @@ Rating: 4.79 (Ranked 99)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New arm | 75.00% | ~657 |
+| New arm | 76.00% | ~666 |
 | Shelter Escape | 74.00% | ~648 |
 | The First Bond | 63.00% | ~552 |
 | Novice Scavenger | 56.00% | ~491 |
@@ -32,7 +32,7 @@ Rating: 4.79 (Ranked 99)
 | Bond Lord | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 876 (Ranked 306)  
-Completed: 2 (0.23%) (Ranked 269)  
+Completed: 2 (0.23%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

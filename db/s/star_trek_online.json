@@ -2,13 +2,13 @@
   "ID": "06a97980aac14fdfb914ef603a113792",
   "Name": "Star Trek Online",
   "ProductSlug": "star-trek-online",
-  "Ranking_Rating": 705,
+  "Ranking_Rating": 704,
   "Ranking_Popularity": 206,
   "Ranking_PopularitySum": 199,
   "Ranking_EOS_Progress": 825,
-  "Ranking_EOS_Completed": 396,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_Completed": 397,
+  "Ranking_EOS_NewPlayers": 581,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-10-06T16:00:00+00:00",
     "PcReleaseDate": "2020-10-06T16:00:00+00:00",
@@ -3121,10 +3121,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 2564,
       "NumberOfAwardsMax": 620
+    },
+    {
+      "Time": "2024-01-11T02:57:27.1327099+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 2565,
+      "NumberOfAwardsMax": 620
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2564,
+  "NumberOfAwards": 2565,
   "NumberOfAwardsMax": 620,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3174,7 +3180,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 265
+      "Count": 266
     },
     {
       "Text": "This game has a Creative Community",
@@ -3206,8 +3212,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:13.4550293+00:00",
-  "LastChanged": "2024-01-10T01:49:36.5206499+00:00",
+  "LastChanged": "2024-01-11T02:57:27.1327097+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:14.0253832+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:21:55.3209579+00:00",
-  "LastUpdate_Achievements": "2024-01-11T02:33:52.1877628+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:57:27.1327102+00:00",
+  "LastUpdate_Achievements": "2024-01-11T03:09:16.7678187+00:00"
 }

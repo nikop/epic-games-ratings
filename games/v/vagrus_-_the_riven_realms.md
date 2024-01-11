@@ -10,9 +10,9 @@
 | Conquered | 18.00% | ~54 |
 | Randomized | 17.00% | ~51 |
 | Scribe | 11.00% | ~33 |
+| Tactician | 10.00% | ~30 |
 | Breached | 10.00% | ~30 |
 | Conciliator | 9.00% | ~27 |
-| Tactician | 9.00% | ~27 |
 | Fight Another Day | 9.00% | ~27 |
 | Taskmaster | 9.00% | ~27 |
 | Acquaintance | 7.00% | ~21 |
@@ -105,7 +105,7 @@
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 300 (Ranked 400)  
-Completed: 0 (0.00%) (Ranked 396)  
+Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

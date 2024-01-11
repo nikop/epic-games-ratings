@@ -1,7 +1,7 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 677)  
+Rating: 4.46 (Ranked 676)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,13 +15,13 @@ Rating: 4.46 (Ranked 677)
 | Can You Dig It? | 17.00% | ~43,065 |
 | You Juan-A-Go? | 16.00% | ~40,532 |
 | Chan-tastic | 15.00% | ~37,999 |
-| Muddy Waters | 14.00% | ~35,465 |
+| Muddy Waters | 14.00% | ~35,466 |
 | Toasty! | 13.00% | ~32,932 |
 | Lazy Laser | 8.00% | ~20,266 |
 | Just A Phaze | 7.00% | ~17,733 |
 | Into The Drift | 7.00% | ~17,733 |
 | Ready? Fight! | 7.00% | ~17,733 |
-| Butt Butt | 6.00% | ~15,199 |
+| Butt Butt | 6.00% | ~15,200 |
 | He Who Laughs Last | 3.00% | ~7,600 |
 | Shoo, Cat! | 3.00% | ~7,600 |
 | And You're Okay | 2.00% | ~5,066 |
@@ -52,8 +52,8 @@ Rating: 4.46 (Ranked 677)
 | Talent Scout | 0.10% | ~253 |
 | True Completionist | 0.10% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,324 (Ranked 70)  
-Completed: 6 (0.00%) (Ranked 396)  
+Progressed: 253,325 (Ranked 70)  
+Completed: 6 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -318,7 +318,7 @@ Completed: 6 (0.00%) (Ranked 396)
 | 2024-01-08 | 253,259 | 6 |
 | 2024-01-09 | 253,291 | 6 |
 | 2024-01-10 | 253,318 | 6 |
-| 2024-01-11 | 253,324 | 6 |
+| 2024-01-11 | 253,325 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

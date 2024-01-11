@@ -6,9 +6,9 @@
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 345,
-  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -2380,9 +2380,9 @@
       "ID": "Kill_Sin_Gluttony",
       "SetID": "7a5k76n",
       "Name": "Eat Your Heart Out",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 163
     },
     {
       "ID": "Kill_Sin_Lust",
@@ -2508,9 +2508,9 @@
       "ID": "Upgrade_Armor_First",
       "SetID": "7a5k76n",
       "Name": "Made of Sterner Stuff",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 38
     },
     {
       "ID": "Upgrade_Weapon_First",
@@ -2540,8 +2540,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-10T06:57:57.6760335+00:00",
-  "LastChanged_Achievements": "2024-01-11T02:29:16.5114372+00:00",
+  "LastChanged_Achievements": "2024-01-11T03:04:35.9109645+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-11T02:22:45.3096505+00:00",
-  "LastUpdate_Achievements": "2024-01-11T02:29:16.5114952+00:00"
+  "LastUpdate_Ratings": "2024-01-11T02:58:14.6778983+00:00",
+  "LastUpdate_Achievements": "2024-01-11T03:04:35.9110162+00:00"
 }

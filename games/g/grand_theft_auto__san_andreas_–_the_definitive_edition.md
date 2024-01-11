@@ -10,7 +10,7 @@ Rating: 4.55 (Ranked 527)
 | All Dressed Up for San Fierro | 25.00% | ~4,837 |
 | The American Dream | 19.00% | ~3,676 |
 | School's Out | 18.00% | ~3,482 |
-| Smooth Moves | 16.00% | ~3,096 |
+| Smooth Moves | 17.00% | ~3,289 |
 | What happens in Las Venturas... | 14.00% | ~2,709 |
 | Today Was a Good Day | 14.00% | ~2,709 |
 | Horror of the Santa Maria | 10.00% | ~1,935 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 527)
 | I Ain't No Buster | 0.40% | ~77 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 19,347 (Ranked 156)  
-Completed: 75 (0.39%) (Ranked 240)  
+Completed: 75 (0.39%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

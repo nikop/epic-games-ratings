@@ -35,8 +35,8 @@
 | Beginner climber | 0.00% | ~0 |
 | Mountain master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 401 (Ranked 371)  
-Completed: 0 (0.00%) (Ranked 396)  
+Progressed: 402 (Ranked 371)  
+Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -163,3 +163,4 @@ Completed: 0 (0.00%) (Ranked 396)
 | 2024-01-07 | 397 | 0 |
 | 2024-01-08 | 400 | 0 |
 | 2024-01-09 | 401 | 0 |
+| 2024-01-11 | 402 | 0 |

@@ -28,10 +28,10 @@
 | Higher on the street | 2.00% | ~1 |
 | Dance machine | 2.00% | ~1 |
 | Arcade master | 2.00% | ~1 |
-| Real completionist | 0.00% | ~0 |
+| Real completionist | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 44 (Ranked 572)  
-Completed: 0 (0.00%) (Ranked 396)  
+Completed: 1 (2.27%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -47,6 +47,7 @@ Completed: 0 (0.00%) (Ranked 396)
 | 2023-09-27 | 42 | 0 |
 | 2023-12-16 | 43 | 0 |
 | 2023-12-28 | 44 | 0 |
+| 2024-01-11 | 44 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,21 +5,21 @@ Rating: 4.22 (Ranked 949)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 26.00% | ~5,740 |
-| The Outer Way | 26.00% | ~5,740 |
-| Desperate Times | 24.00% | ~5,298 |
-| Paper Jams | 22.00% | ~4,857 |
-| Get a Grip | 21.00% | ~4,636 |
-| Chew 'Em Up | 20.00% | ~4,415 |
+| Flesh Wound | 26.00% | ~5,741 |
+| The Outer Way | 26.00% | ~5,741 |
+| Desperate Times | 24.00% | ~5,299 |
+| Paper Jams | 22.00% | ~4,858 |
+| Get a Grip | 21.00% | ~4,637 |
+| Chew 'Em Up | 20.00% | ~4,416 |
 | Reforged | 18.00% | ~3,974 |
-| Float Like A Butterfly | 17.00% | ~3,753 |
-| Workplace Hazard | 16.00% | ~3,532 |
-| If the SHU Fits... | 16.00% | ~3,532 |
+| Float Like A Butterfly | 17.00% | ~3,754 |
+| Workplace Hazard | 16.00% | ~3,533 |
+| If the SHU Fits... | 16.00% | ~3,533 |
 | Without A Paddle | 14.00% | ~3,091 |
-| In the Pipe, Five by Five | 12.00% | ~2,649 |
-| Crash Site | 12.00% | ~2,649 |
-| Two Heads Are Better Than One | 11.00% | ~2,428 |
-| Power Up | 11.00% | ~2,428 |
+| In the Pipe, Five by Five | 12.00% | ~2,650 |
+| Crash Site | 12.00% | ~2,650 |
+| Two Heads Are Better Than One | 11.00% | ~2,429 |
+| Power Up | 11.00% | ~2,429 |
 | Giving Back | 10.00% | ~2,208 |
 | Terminated | 10.00% | ~2,208 |
 | What Lies Beneath | 10.00% | ~2,208 |
@@ -53,8 +53,8 @@ Rating: 4.22 (Ranked 949)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,077 (Ranked 151)  
-Completed: 82 (0.37%) (Ranked 242)  
+Progressed: 22,080 (Ranked 151)  
+Completed: 82 (0.37%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -311,7 +311,7 @@ Completed: 82 (0.37%) (Ranked 242)
 | 2024-01-08 | 21,745 | 82 |
 | 2024-01-09 | 21,902 | 82 |
 | 2024-01-10 | 22,053 | 82 |
-| 2024-01-11 | 22,077 | 82 |
+| 2024-01-11 | 22,080 | 82 |
 ## Awards
 Max (Amazing Characters): 129  (Ranked 348)  
 Sum: 628 (Ranked 321)  

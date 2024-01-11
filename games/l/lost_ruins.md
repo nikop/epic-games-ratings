@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Inquisitor | 35.00% | ~243 |
-| Goblin Tales | 28.00% | ~194 |
+| Goblin Tales | 29.00% | ~201 |
 | Bug Hunter | 23.00% | ~159 |
 | Boss Killer | 22.00% | ~152 |
 | The Fallen | 20.00% | ~139 |
@@ -46,7 +46,7 @@
 | Hardboiled | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 693 (Ranked 327)  
-Completed: 1 (0.14%) (Ranked 295)  
+Completed: 1 (0.14%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
