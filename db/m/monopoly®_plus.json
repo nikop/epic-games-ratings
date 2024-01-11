@@ -2,13 +2,13 @@
   "ID": "7061cd389bdc4c068910da67cd8e154c",
   "Name": "MONOPOLY\u00AE PLUS",
   "ProductSlug": "monopoly-plus",
-  "Ranking_Rating": 1045,
+  "Ranking_Rating": 1044,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 581,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 582,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-03-17T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.02,
+  "Rating": 4.03,
   "NumberOfRatings": 142,
   "RatingHistory": [
     {
@@ -554,6 +554,12 @@
       "Rating": 4.02,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-11T05:02:41.6035445+00:00",
+      "Rating": 4.03,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -571,8 +577,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:40.4652835+00:00",
-  "LastChanged": "2024-01-08T05:59:29.6707723+00:00",
+  "LastChanged": "2024-01-11T05:02:41.6035443+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:47.8946299+00:00",
-  "LastUpdate_Ratings": "2024-01-11T04:02:40.6719808+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:04:34.0246897+00:00"
+  "LastUpdate_Ratings": "2024-01-11T05:02:41.6035447+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:04:35.8041443+00:00"
 }

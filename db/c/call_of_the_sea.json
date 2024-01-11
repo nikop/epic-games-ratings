@@ -2,7 +2,7 @@
   "ID": "5e427319eea1401ab20c6cd78a4163c4",
   "Name": "Call of the Sea",
   "ProductSlug": "call-of-the-sea",
-  "Ranking_Rating": 768,
+  "Ranking_Rating": 769,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 89,
@@ -327,7 +327,7 @@
   "Tags": [],
   "EOS_Progressed": 139096,
   "EOS_Completed": 1254,
-  "EOS_NewPlayers": 1266,
+  "EOS_NewPlayers": 1263,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -31020,8 +31020,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2024-01-10T13:04:20.7610519+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:04:00.3796443+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:04:02.276147+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:31.1133234+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:58:29.295535+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:04:00.3798044+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:58:30.2155082+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:04:02.2762779+00:00"
 }

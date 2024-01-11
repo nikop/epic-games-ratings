@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.69 (Ranked 236)  
+Rating: 4.69 (Ranked 237)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,8 +23,8 @@ Rating: 4.69 (Ranked 236)
 | Breaking Down Barriers | 23.00% | ~299 |
 | The Wicked Twins | 23.00% | ~299 |
 | Like Clockwork | 22.00% | ~286 |
+| The Betrayer | 22.00% | ~286 |
 | Golem Chaser | 22.00% | ~286 |
-| The Betrayer | 21.00% | ~273 |
 | Check Your Pulse | 20.00% | ~260 |
 | The Loose Cannon | 19.00% | ~247 |
 | Street Style | 18.00% | ~234 |

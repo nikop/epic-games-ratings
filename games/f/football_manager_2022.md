@@ -1,25 +1,25 @@
 # Football Manager 2022
 [Store](https://store.epicgames.com/en-US/p/football-manager-2022)  
 [View Rawdata](../../db/f/football_manager_2022.json)  
-Rating: 4.80 (Ranked 91)  
+Rating: 4.80 (Ranked 92)  
 Number of Ratings: 19,160  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~239,558 |
-| He's Signed! | 50.00% | ~239,558 |
-| First Victory | 50.00% | ~239,558 |
-| He's Sold! | 48.00% | ~229,976 |
-| I'm The Boss! | 42.00% | ~201,229 |
+| Clean Sheet | 50.00% | ~239,559 |
+| He's Signed! | 50.00% | ~239,559 |
+| First Victory | 50.00% | ~239,559 |
+| He's Sold! | 48.00% | ~229,977 |
+| I'm The Boss! | 42.00% | ~201,230 |
 | Hat-trick | 41.00% | ~196,438 |
-| Scoring Streak | 38.00% | ~182,064 |
-| Unbeatable! | 37.00% | ~177,273 |
-| Thumping | 37.00% | ~177,273 |
+| Scoring Streak | 38.00% | ~182,065 |
+| Unbeatable! | 37.00% | ~177,274 |
+| Thumping | 37.00% | ~177,274 |
 | Superb Dressing Room Atmosphere | 35.00% | ~167,691 |
-| Total Support | 32.00% | ~153,317 |
-| Record Signing | 32.00% | ~153,317 |
-| He's a Natural | 31.00% | ~148,526 |
-| Millionaire's Club | 31.00% | ~148,526 |
+| Total Support | 32.00% | ~153,318 |
+| Record Signing | 32.00% | ~153,318 |
+| He's a Natural | 31.00% | ~148,527 |
+| Millionaire's Club | 31.00% | ~148,527 |
 | Team Performance | 30.00% | ~143,735 |
 | Parked The Bus | 29.00% | ~138,944 |
 | Shrewd Spender | 29.00% | ~138,944 |
@@ -28,9 +28,9 @@ Number of Ratings: 19,160  (23.09.2022)
 | You're On Fire | 27.00% | ~129,362 |
 | Tremendous Trio | 27.00% | ~129,362 |
 | Record Sale | 27.00% | ~129,362 |
-| On A Roll | 26.00% | ~124,570 |
-| Unstoppable Force | 26.00% | ~124,570 |
-| Armchair Expert | 25.00% | ~119,779 |
+| On A Roll | 26.00% | ~124,571 |
+| Unstoppable Force | 26.00% | ~124,571 |
+| Armchair Expert | 25.00% | ~119,780 |
 | Fantastic Five | 24.00% | ~114,988 |
 | Full Faith | 24.00% | ~114,988 |
 | Iron Curtain | 24.00% | ~114,988 |
@@ -41,8 +41,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Bill of Health | 22.00% | ~105,406 |
 | What A Goal! | 22.00% | ~105,406 |
 | Cup Glory! | 22.00% | ~105,406 |
-| Irresistible Force | 20.00% | ~95,823 |
-| Excellent Match Cohesion | 20.00% | ~95,823 |
+| Irresistible Force | 20.00% | ~95,824 |
+| Excellent Match Cohesion | 20.00% | ~95,824 |
 | Do The Double | 19.00% | ~91,032 |
 | Top Form | 17.00% | ~81,450 |
 | Cash To Burn | 17.00% | ~81,450 |
@@ -51,7 +51,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Rushed signing | 16.00% | ~76,659 |
 | Eyes and Ears | 15.00% | ~71,868 |
 | Window Shopping | 15.00% | ~71,868 |
-| Comeback King! | 14.00% | ~67,076 |
+| Comeback King! | 14.00% | ~67,077 |
 | You're Up! | 13.00% | ~62,285 |
 | Money, Money, Money | 12.00% | ~57,494 |
 | Invincible! | 11.00% | ~52,703 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~479 |
 | Shoestring Budget | 0.10% | ~479 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479,117 (Ranked 44)  
+Progressed: 479,118 (Ranked 44)  
 Completed: 22 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -371,7 +371,7 @@ Completed: 22 (0.00%) (Ranked 397)
 | 2024-01-08 | 479,050 | 22 |
 | 2024-01-09 | 479,089 | 22 |
 | 2024-01-10 | 479,112 | 22 |
-| 2024-01-11 | 479,117 | 22 |
+| 2024-01-11 | 479,118 | 22 |
 ## Awards
 Max (Relaxing): 6,496  (Ranked 62)  
 Sum: 51,245 (Ranked 30)  

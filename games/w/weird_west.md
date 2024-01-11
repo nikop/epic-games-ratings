@@ -1,26 +1,26 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.43 (Ranked 725)  
+Rating: 4.43 (Ranked 726)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 89.00% | ~1,832 |
-| Self-Improvement | 71.00% | ~1,461 |
+| Unforgiven | 89.00% | ~1,833 |
+| Self-Improvement | 71.00% | ~1,462 |
 | Perky | 65.00% | ~1,338 |
-| Let’s Ride | 59.00% | ~1,214 |
-| Welcome to the Weird West | 56.00% | ~1,152 |
+| Let’s Ride | 59.00% | ~1,215 |
+| Welcome to the Weird West | 56.00% | ~1,153 |
 | Dead or Alive | 55.00% | ~1,132 |
-| Full House | 37.00% | ~761 |
+| Full House | 37.00% | ~762 |
 | Off the Trail | 34.00% | ~700 |
-| Justice Served | 30.00% | ~617 |
+| Justice Served | 30.00% | ~618 |
 | Chain Reaction | 27.00% | ~556 |
 | Through Their Eyes | 26.00% | ~535 |
-| Dishonored | 25.00% | ~514 |
-| Rain of Death | 25.00% | ~514 |
-| Scholar | 25.00% | ~514 |
-| The Great Escape | 23.00% | ~473 |
+| Dishonored | 25.00% | ~515 |
+| Rain of Death | 25.00% | ~515 |
+| Scholar | 25.00% | ~515 |
+| The Great Escape | 23.00% | ~474 |
 | That’s All, Folks | 19.00% | ~391 |
 | Fallen Star | 16.00% | ~329 |
 | For Balance | 16.00% | ~329 |
@@ -43,7 +43,7 @@ Number of Ratings: 125  (23.09.2022)
 | Monster Hunter | 8.00% | ~165 |
 | Knuckle Sandwich | 8.00% | ~165 |
 | Getting the Gang Back Together | 7.00% | ~144 |
-| Who You Gonna Call? | 6.00% | ~123 |
+| Who You Gonna Call? | 6.00% | ~124 |
 | Healing Old Wounds | 5.00% | ~103 |
 | This Is Sparta | 5.00% | ~103 |
 | What’s in the Box? | 5.00% | ~103 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.50% | ~10 |
 | Winter Has Come | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,058 (Ranked 249)  
+Progressed: 2,059 (Ranked 249)  
 Completed: 7 (0.34%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,6 +256,7 @@ Completed: 7 (0.34%) (Ranked 248)
 | 2024-01-05 | 2,056 | 7 |
 | 2024-01-06 | 2,057 | 7 |
 | 2024-01-10 | 2,058 | 7 |
+| 2024-01-11 | 2,059 | 7 |
 ## Awards
 Max (Impact the Story): 29  (Ranked 529)  
 Sum: 29 (Ranked 547)  

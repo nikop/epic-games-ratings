@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sweep | 94.00% | ~423 |
-| Scavenger | 73.00% | ~328 |
-| Line of Duty | 72.00% | ~324 |
-| Gunner | 57.00% | ~256 |
-| DocKing | 45.00% | ~202 |
+| Clean Sweep | 93.00% | ~419 |
+| Scavenger | 73.00% | ~329 |
+| Line of Duty | 72.00% | ~325 |
+| Gunner | 57.00% | ~257 |
+| DocKing | 45.00% | ~203 |
 | What-A-Shot | 43.00% | ~194 |
 | Batteries Included | 38.00% | ~171 |
-| Death from Above | 33.00% | ~148 |
-| Hull King | 25.00% | ~112 |
+| Death from Above | 33.00% | ~149 |
+| Hull King | 25.00% | ~113 |
 | Extra Ammo | 19.00% | ~86 |
 | Splash Damage | 19.00% | ~86 |
 | Boss Down | 18.00% | ~81 |
@@ -22,7 +22,7 @@
 | Salvage | 10.00% | ~45 |
 | Sixty Seconds | 10.00% | ~45 |
 | Shocking | 10.00% | ~45 |
-| Perfect Timing | 9.00% | ~40 |
+| Perfect Timing | 9.00% | ~41 |
 | Killer Elite | 6.00% | ~27 |
 | Bumper Car | 4.00% | ~18 |
 | The Disruptor | 4.00% | ~18 |
@@ -36,10 +36,10 @@
 | Hornet Lock On | 2.00% | ~9 |
 | Specialized | 2.00% | ~9 |
 | The First Step | 2.00% | ~9 |
-| Having a Blast | 1.00% | ~4 |
-| Heavy Metal | 1.00% | ~4 |
-| Power Up | 1.00% | ~4 |
-| The Cannoneer | 1.00% | ~4 |
+| Having a Blast | 1.00% | ~5 |
+| Heavy Metal | 1.00% | ~5 |
+| Power Up | 1.00% | ~5 |
+| The Cannoneer | 1.00% | ~5 |
 | Demolition Derby | 0.70% | ~3 |
 | Military Intelligence | 0.70% | ~3 |
 | Time Run | 0.70% | ~3 |
@@ -49,7 +49,7 @@
 | Burn Them | 0.20% | ~1 |
 | Final Ascension | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450 (Ranked 360)  
+Progressed: 451 (Ranked 360)  
 Completed: 1 (0.22%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,6 +126,7 @@ Completed: 1 (0.22%) (Ranked 274)
 | 2024-01-04 | 445 | 1 |
 | 2024-01-06 | 448 | 1 |
 | 2024-01-07 | 450 | 1 |
+| 2024-01-11 | 451 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

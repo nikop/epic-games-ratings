@@ -1,29 +1,29 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.22 (Ranked 949)  
+Rating: 4.22 (Ranked 950)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 26.00% | ~5,742 |
-| The Outer Way | 26.00% | ~5,742 |
-| Desperate Times | 24.00% | ~5,300 |
+| Flesh Wound | 26.00% | ~5,743 |
+| The Outer Way | 26.00% | ~5,743 |
+| Desperate Times | 24.00% | ~5,301 |
 | Paper Jams | 22.00% | ~4,859 |
 | Get a Grip | 21.00% | ~4,638 |
-| Chew 'Em Up | 20.00% | ~4,417 |
-| Reforged | 19.00% | ~4,196 |
-| Float Like A Butterfly | 17.00% | ~3,754 |
+| Chew 'Em Up | 20.00% | ~4,418 |
+| Reforged | 19.00% | ~4,197 |
+| Float Like A Butterfly | 17.00% | ~3,755 |
 | Workplace Hazard | 16.00% | ~3,534 |
 | If the SHU Fits... | 16.00% | ~3,534 |
 | Without A Paddle | 14.00% | ~3,092 |
-| In the Pipe, Five by Five | 12.00% | ~2,650 |
-| Crash Site | 12.00% | ~2,650 |
-| Two Heads Are Better Than One | 11.00% | ~2,429 |
-| Power Up | 11.00% | ~2,429 |
-| Giving Back | 10.00% | ~2,208 |
-| Terminated | 10.00% | ~2,208 |
-| What Lies Beneath | 10.00% | ~2,208 |
-| Full Circle | 10.00% | ~2,208 |
+| In the Pipe, Five by Five | 12.00% | ~2,651 |
+| Crash Site | 12.00% | ~2,651 |
+| Two Heads Are Better Than One | 11.00% | ~2,430 |
+| Power Up | 11.00% | ~2,430 |
+| Giving Back | 10.00% | ~2,209 |
+| Terminated | 10.00% | ~2,209 |
+| What Lies Beneath | 10.00% | ~2,209 |
+| Full Circle | 10.00% | ~2,209 |
 | You Need a Gun | 9.00% | ~1,988 |
 | I Do Belong Here | 8.00% | ~1,767 |
 | Keep Fighting | 7.00% | ~701 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 949)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,085 (Ranked 151)  
+Progressed: 22,088 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 82 (0.37%) (Ranked 243)
 | 2024-01-08 | 21,745 | 82 |
 | 2024-01-09 | 21,902 | 82 |
 | 2024-01-10 | 22,053 | 82 |
-| 2024-01-11 | 22,085 | 82 |
+| 2024-01-11 | 22,088 | 82 |
 ## Awards
 Max (Amazing Characters): 129  (Ranked 348)  
 Sum: 628 (Ranked 321)  

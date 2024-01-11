@@ -2,7 +2,7 @@
   "ID": "25d726130e6c4fe68f88e71933bda955",
   "Name": "Terraforming Mars",
   "ProductSlug": "terraforming-mars-18c3ad",
-  "Ranking_Rating": 563,
+  "Ranking_Rating": 564,
   "Ranking_Popularity": 217,
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 105,
@@ -3553,9 +3553,9 @@
       "Count": 262
     }
   ],
-  "EOS_Progressed": 90073,
+  "EOS_Progressed": 90074,
   "EOS_Completed": 184,
-  "EOS_NewPlayers": 1012,
+  "EOS_NewPlayers": 1007,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -33303,6 +33303,11 @@
       "Time": "2024-01-11T04:05:06.9411993+00:00",
       "NumProgressed": 90073,
       "NumCompleted": 184
+    },
+    {
+      "Time": "2024-01-11T05:05:08.4018984+00:00",
+      "NumProgressed": 90074,
+      "NumCompleted": 184
     }
   ],
   "TotalAchievements": 30,
@@ -33346,7 +33351,7 @@
       "Name": "No Longer Red",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 15312
+      "UsersEstimate": 15313
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -33362,7 +33367,7 @@
       "Name": "Biggest Reward",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 11709
+      "UsersEstimate": 11710
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -33402,7 +33407,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 25220
+      "UsersEstimate": 25221
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -33410,7 +33415,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 28823
+      "UsersEstimate": 28824
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -33498,7 +33503,7 @@
       "Name": "Self-sufficient",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 15312
+      "UsersEstimate": 15313
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -33553,15 +33558,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 90073,
+      "Progressed": 90074,
       "Completed": 184
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2024-01-10T18:57:15.0014702+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:05:06.9411989+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:05:08.4018981+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.1589708+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:57:10.6703442+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:05:06.9413665+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:57:12.8206734+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:05:08.4020799+00:00"
 }

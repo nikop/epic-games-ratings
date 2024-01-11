@@ -2,13 +2,13 @@
   "ID": "b4e95103463b491ab34b29e616404325",
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
-  "Ranking_Rating": 218,
+  "Ranking_Rating": 219,
   "Ranking_Popularity": 455,
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -970,9 +970,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 54358,
+  "EOS_Progressed": 54360,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 972,
+  "EOS_NewPlayers": 974,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31215,6 +31215,11 @@
       "Time": "2024-01-11T04:06:12.0843336+00:00",
       "NumProgressed": 54358,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-11T05:06:14.2320701+00:00",
+      "NumProgressed": 54360,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -31250,7 +31255,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5979
+      "UsersEstimate": 5980
     },
     {
       "ID": "distance500000",
@@ -31450,7 +31455,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5979
+      "UsersEstimate": 5980
     },
     {
       "ID": "ultimate",
@@ -31537,15 +31542,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 54358,
+      "Progressed": 54360,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2024-01-08T03:58:25.2323956+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:06:12.0843333+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:06:14.2320699+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:13.3110756+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:59:41.9017387+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:06:12.0844935+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:59:43.6731965+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:06:14.2321975+00:00"
 }

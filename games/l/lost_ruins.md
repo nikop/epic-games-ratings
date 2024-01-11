@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Inquisitor | 35.00% | ~243 |
 | Goblin Tales | 29.00% | ~201 |
+| Boss Killer | 23.00% | ~159 |
 | Bug Hunter | 23.00% | ~159 |
-| Boss Killer | 22.00% | ~152 |
 | The Fallen | 20.00% | ~139 |
 | Artifact Collector | 19.00% | ~132 |
 | Trap Master | 18.00% | ~125 |
@@ -28,8 +28,8 @@
 | Trio | 5.00% | ~35 |
 | Pyromancer | 4.00% | ~28 |
 | Arrive Home | 3.00% | ~21 |
+| Holy Knight | 3.00% | ~21 |
 | Spell Master | 3.00% | ~21 |
-| Holy Knight | 2.00% | ~14 |
 | Hoarder | 2.00% | ~14 |
 | Marksman | 2.00% | ~14 |
 | Meat Lover | 2.00% | ~14 |

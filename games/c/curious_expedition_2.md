@@ -1,7 +1,7 @@
 # Curious Expedition 2
 [Store](https://store.epicgames.com/en-US/p/curious-expedition-2-8cb901)  
 [View Rawdata](../../db/c/curious_expedition_2.json)  
-Rating: 4.74 (Ranked 166)  
+Rating: 4.74 (Ranked 167)  
 Number of Ratings: 20  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,7 +13,7 @@ Number of Ratings: 20  (23.09.2022)
 | Lost & Found & Lost Again | 43.00% | ~184 |
 | From Whence we Came | 43.00% | ~184 |
 | Fire and Flood | 41.00% | ~175 |
-| Spooky! | 37.00% | ~158 |
+| Spooky! | 38.00% | ~162 |
 | Shennong Herbalist | 35.00% | ~149 |
 | Treasure Hunt | 35.00% | ~149 |
 | Good Mama | 32.00% | ~137 |

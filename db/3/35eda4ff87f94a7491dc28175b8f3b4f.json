@@ -2,10 +2,10 @@
   "ID": "35eda4ff87f94a7491dc28175b8f3b4f",
   "Name": "Eternal Threads",
   "ProductSlug": "eternal-threads-197169",
-  "Ranking_Rating": 826,
+  "Ranking_Rating": 827,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 153,
+  "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 23,
@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21328,
+  "EOS_Progressed": 21335,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 1361,
+  "EOS_NewPlayers": 1362,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -7626,6 +7626,11 @@
       "Time": "2024-01-11T04:04:34.0996865+00:00",
       "NumProgressed": 21328,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2024-01-11T05:04:35.9431067+00:00",
+      "NumProgressed": 21335,
+      "NumCompleted": 107
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -7678,7 +7683,7 @@
       "Name": "Righter of Wrongs",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
@@ -7686,7 +7691,7 @@
       "Name": "Rescuer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -7717,7 +7722,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 21328,
+      "Progressed": 21335,
       "Completed": 107
     }
   ],
@@ -7725,8 +7730,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-02T16:59:56.4750656+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:04:34.099686+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:04:35.9431064+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:24.8589698+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:59:09.9363887+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:04:34.0997386+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:59:12.0947875+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:04:35.9431472+00:00"
 }

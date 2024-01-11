@@ -2,7 +2,7 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 470,
+  "Ranking_Rating": 471,
   "Ranking_Popularity": 139,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 73,
@@ -3898,9 +3898,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242745,
+  "EOS_Progressed": 242746,
   "EOS_Completed": 305,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31413,6 +31413,11 @@
       "Time": "2024-01-11T04:10:13.4447995+00:00",
       "NumProgressed": 242745,
       "NumCompleted": 305
+    },
+    {
+      "Time": "2024-01-11T05:10:14.9898492+00:00",
+      "NumProgressed": 242746,
+      "NumCompleted": 305
     }
   ],
   "TotalAchievements": 138,
@@ -31766,9 +31771,9 @@
       "ID": "HIGHHEALTH",
       "SetID": "5l8oe0h",
       "Name": "Gigantic",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 728
     },
     {
       "ID": "HIGHSCORE",
@@ -32527,13 +32532,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242745,
+      "Progressed": 242746,
       "Completed": 305
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4225,
+      "Progressed": 4226,
       "Completed": 424
     }
   ],
@@ -32541,8 +32546,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-11T01:48:01.788838+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:10:13.4447992+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:10:14.9898491+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:58:19.190073+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:10:13.4451116+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:58:19.8409517+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:10:14.9901262+00:00"
 }

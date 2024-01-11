@@ -4,8 +4,8 @@
   "ProductSlug": "lemon-cake-c683d8",
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 490,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 491,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
     "PcReleaseDate": "2021-02-18T01:00:00+00:00",
@@ -471,9 +471,9 @@
       "ID": "LC-05",
       "SetID": "ap2ljl4",
       "Name": "Apprentice Baker",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "LC-06",
@@ -584,8 +584,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:08:59.6366474+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:08:59.9784031+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:29.1126442+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:58:40.2612497+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:08:59.6366618+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:58:40.8622307+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:08:59.9784193+00:00"
 }

@@ -1,7 +1,7 @@
 # Eternights
 [Store](https://store.epicgames.com/en-US/p/eternights-c2fbca)  
 [View Rawdata](../../db/e/eternights.json)  
-Rating: 4.79 (Ranked 99)  
+Rating: 4.79 (Ranked 100)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,7 +12,7 @@ Rating: 4.79 (Ranked 99)
 | Master Craftsman | 44.00% | ~386 |
 | First wall | 43.00% | ~377 |
 | Piggyback Expert | 42.00% | ~368 |
-| Second wall | 31.00% | ~272 |
+| Second wall | 32.00% | ~281 |
 | Expert Scavenger | 30.00% | ~263 |
 | Their Rock | 26.00% | ~228 |
 | Yuna's Promise | 25.00% | ~219 |

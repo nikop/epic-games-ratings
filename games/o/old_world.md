@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 322)  
+Rating: 4.65 (Ranked 323)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -39,6 +39,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 1.00% | ~164 |
 | Ishtar Gate | 1.00% | ~164 |
 | Lighthouse | 1.00% | ~164 |
+| Necropolis | 1.00% | ~164 |
 | Pyramids | 1.00% | ~164 |
 | Learn to Play 1 | 1.00% | ~164 |
 | Learn to Play 2 | 1.00% | ~164 |
@@ -54,7 +55,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 0.90% | ~148 |
 | Wise | 0.90% | ~148 |
 | Musaeum | 0.90% | ~148 |
-| Necropolis | 0.90% | ~148 |
 | Manichaeism | 0.90% | ~148 |
 | Egyptian Paganism | 0.90% | ~148 |
 | Drillmaster | 0.80% | ~131 |
@@ -65,6 +65,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.70% | ~115 |
 | Just Difficulty | 0.70% | ~115 |
 | Artisans | 0.70% | ~115 |
+| Sages | 0.70% | ~115 |
 | Colossus | 0.70% | ~115 |
 | Building Wonders | 0.70% | ~115 |
 | Mythology | 0.70% | ~115 |
@@ -72,7 +73,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.60% | ~98 |
 | Good Difficulty | 0.60% | ~98 |
 | Champions | 0.60% | ~98 |
-| Sages | 0.60% | ~98 |
 | Statesmen | 0.60% | ~98 |
 | Learn to Play 3 | 0.60% | ~98 |
 | Persian Paganism | 0.60% | ~98 |

@@ -4,8 +4,8 @@
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 905,
+  "EOS_Progressed": 907,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2934,6 +2934,11 @@
       "Time": "2024-01-11T04:08:46.0806974+00:00",
       "NumProgressed": 905,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T05:08:46.4751839+00:00",
+      "NumProgressed": 907,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -2954,7 +2959,7 @@
       "Name": "Chapter II - Complete",
       "Percentage": 9,
       "XP": 45,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ach_chapter_complete_3",
@@ -3010,7 +3015,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 24,
       "XP": 45,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -3041,14 +3046,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 905,
+      "Progressed": 907,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:08:46.0806969+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:08:46.4751837+00:00",
   "LastUpdate_AppInfo": "2024-01-05T16:57:07.4104924+00:00",
-  "LastUpdate_Ratings": "2024-01-11T04:00:21.4348725+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:08:46.0807182+00:00"
+  "LastUpdate_Ratings": "2024-01-11T05:00:23.9713056+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:08:46.4752203+00:00"
 }

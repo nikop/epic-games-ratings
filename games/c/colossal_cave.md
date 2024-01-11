@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We've only just begun | 93.00% | ~100 |
-| You're spelunkin' now! | 79.00% | ~85 |
-| The Birdman of The Caves | 49.00% | ~52 |
-| I've Fallen & I Can't Get Up | 48.00% | ~51 |
+| We've only just begun | 94.00% | ~101 |
+| You're spelunkin' now! | 80.00% | ~86 |
+| The Birdman of The Caves | 50.00% | ~54 |
+| I've Fallen & I Can't Get Up | 49.00% | ~52 |
 | Charmin' the Snake | 34.00% | ~36 |
 | Drums in the Deep | 23.00% | ~25 |
 | Bridge Builder | 23.00% | ~25 |

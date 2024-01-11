@@ -1,7 +1,7 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 357)  
+Rating: 4.63 (Ranked 358)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,8 +10,8 @@ Number of Ratings: 85  (23.09.2022)
 | Kaijuiced | 71.00% | ~316 |
 | Lie Back and Think of Albion | 65.00% | ~289 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~280 |
-| I Look Up As I Walk to Takoshima | 59.00% | ~263 |
-| Yettisoned | 57.00% | ~254 |
+| I Look Up As I Walk to Takoshima | 60.00% | ~267 |
+| Yettisoned | 58.00% | ~258 |
 | Pimp My Raid | 56.00% | ~249 |
 | Perfect Probulator | 56.00% | ~249 |
 | Lobster Blisque | 51.00% | ~227 |
@@ -24,7 +24,7 @@ Number of Ratings: 85  (23.09.2022)
 | Upgreatest | 34.00% | ~151 |
 | Deincarnated | 29.00% | ~129 |
 | Furon Fashion | 29.00% | ~129 |
-| Rock of the Bay | 27.00% | ~120 |
+| Rock of the Bay | 28.00% | ~125 |
 | Trans-Siberian Express | 24.00% | ~107 |
 | Re-Return of the Clone of the Invasion II-2 | 19.00% | ~85 |
 | Arkvoodle Doodle | 18.00% | ~80 |

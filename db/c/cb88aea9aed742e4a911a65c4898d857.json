@@ -2,13 +2,13 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 236,
+  "Ranking_Rating": 237,
   "Ranking_Popularity": 358,
   "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -323,9 +323,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 11021,
+  "EOS_Progressed": 11023,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1095,
+  "EOS_NewPlayers": 1093,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4438,6 +4438,11 @@
       "Time": "2024-01-11T04:10:03.3440861+00:00",
       "NumProgressed": 11021,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T05:10:05.0373584+00:00",
+      "NumProgressed": 11023,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4466,7 +4471,7 @@
       "Name": "Trade Empire",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -4610,7 +4615,7 @@
       "Name": "Perfect Timing",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "23_DynastyRestored",
@@ -4618,7 +4623,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "24_TheHighrise",
@@ -4778,7 +4783,7 @@
       "Name": "No Place Like Home",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -4888,9 +4893,9 @@
       "ID": "57_TheBurningHeritage",
       "SetID": "37a94m8",
       "Name": "Burning Inheritance",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 220
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -4928,9 +4933,9 @@
       "ID": "62_TheInvisibleBureaucracy",
       "SetID": "37a94m8",
       "Name": "Invisible Bureaucracy",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 110
     },
     {
       "ID": "63_YouShouldGoToAnotherWindow",
@@ -4969,7 +4974,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11021,
+      "Progressed": 11023,
       "Completed": 1
     }
   ],
@@ -4977,8 +4982,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-11T01:49:02.1008978+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:10:03.3440858+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:10:05.0373582+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:17.7362494+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:58:59.5145324+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:10:03.3441835+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:59:01.5202266+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:10:05.0374208+00:00"
 }

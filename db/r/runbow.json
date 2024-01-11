@@ -2,13 +2,13 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 676,
+  "Ranking_Rating": 677,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253326,
+  "EOS_Progressed": 253327,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23782,6 +23782,11 @@
       "Time": "2024-01-11T04:09:59.8713095+00:00",
       "NumProgressed": 253326,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-11T05:10:01.495702+00:00",
+      "NumProgressed": 253327,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -23817,7 +23822,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53198
+      "UsersEstimate": 53199
     },
     {
       "ID": "blotbuster",
@@ -23849,7 +23854,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 43065
+      "UsersEstimate": 43066
     },
     {
       "ID": "cantBeKeptDown",
@@ -24033,7 +24038,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126663
+      "UsersEstimate": 126664
     },
     {
       "ID": "notScared",
@@ -24113,7 +24118,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32932
+      "UsersEstimate": 32933
     },
     {
       "ID": "treeMedalist",
@@ -24160,7 +24165,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253326,
+      "Progressed": 253327,
       "Completed": 6
     }
   ],
@@ -24168,8 +24173,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:09:59.871309+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:10:01.4957018+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.2680738+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:58:50.2259189+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:09:59.8714427+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:58:51.2881812+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:10:01.4958497+00:00"
 }

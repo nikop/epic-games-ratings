@@ -1,34 +1,34 @@
 # Frontier Hunter: Erza's Wheel of Fortune
 [Store](https://store.epicgames.com/en-US/p/frontier-hunter-erzas-wheel-of-fortune)  
 [View Rawdata](../../db/f/frontier_hunter__erza's_wheel_of_fortune.json)  
-Rating: 4.38 (Ranked 792)  
+Rating: 4.38 (Ranked 793)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~692 |
-| Training Simulation | 79.00% | ~588 |
+| Travel Streamer | 93.00% | ~693 |
+| Training Simulation | 79.00% | ~589 |
 | Kuku Bird Hunter | 65.00% | ~484 |
-| Storm Traveller | 60.00% | ~446 |
-| Wolf King Killer | 55.00% | ~409 |
-| Fashion Connoisseur | 53.00% | ~394 |
+| Storm Traveller | 60.00% | ~447 |
+| Wolf King Killer | 55.00% | ~410 |
+| Fashion Connoisseur | 52.00% | ~387 |
 | Arms Mechanic | 49.00% | ~365 |
-| Flower Thief | 44.00% | ~327 |
-| Apostle of Flame | 39.00% | ~290 |
+| Flower Thief | 44.00% | ~328 |
+| Apostle of Flame | 39.00% | ~291 |
 | Beginner Artificer | 38.00% | ~283 |
-| Beginner Cook | 37.00% | ~275 |
+| Beginner Cook | 37.00% | ~276 |
 | Seal Breaker | 32.00% | ~238 |
-| Handyman | 28.00% | ~208 |
-| Giant Lizard Killer | 26.00% | ~193 |
+| Handyman | 28.00% | ~209 |
+| Giant Lizard Killer | 26.00% | ~194 |
 | Guardian | 25.00% | ~186 |
 | Nosebleeder | 25.00% | ~186 |
 | Trader | 22.00% | ~164 |
 | Weapon Boost | 21.00% | ~156 |
-| Flying Kobold Killer | 19.00% | ~141 |
+| Flying Kobold Killer | 19.00% | ~142 |
 | Youth Magnet | 18.00% | ~134 |
-| Furious Scorpion Killer | 17.00% | ~126 |
-| Lethal Blade Mantis Killer | 17.00% | ~126 |
-| Squeaky Clean | 17.00% | ~126 |
-| Master Artificer | 17.00% | ~126 |
+| Furious Scorpion Killer | 17.00% | ~127 |
+| Lethal Blade Mantis Killer | 17.00% | ~127 |
+| Squeaky Clean | 17.00% | ~127 |
+| Master Artificer | 17.00% | ~127 |
 | Kind Adventurer | 15.00% | ~112 |
 | Mermaid Killer | 15.00% | ~112 |
 | Cave Master | 15.00% | ~112 |
@@ -51,7 +51,7 @@ Rating: 4.38 (Ranked 792)
 | Giantess Challenge | 2.00% | ~15 |
 | Warden Challenge | 2.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 744 (Ranked 319)  
+Progressed: 745 (Ranked 319)  
 Completed: 3 (0.40%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,6 +179,7 @@ Completed: 3 (0.40%) (Ranked 238)
 | 2024-01-08 | 738 | 3 |
 | 2024-01-09 | 741 | 3 |
 | 2024-01-10 | 744 | 3 |
+| 2024-01-11 | 745 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

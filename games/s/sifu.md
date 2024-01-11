@@ -1,20 +1,20 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 69)  
+Rating: 4.82 (Ranked 70)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,551 |
-| Life is your teacher | 5.00% | ~37,959 |
-| The Assault | 4.00% | ~30,367 |
-| Lightning Hands | 4.00% | ~30,367 |
-| The Hateful Pole Fighter | 3.00% | ~22,775 |
-| Street Fighting | 3.00% | ~22,775 |
-| State of constant learning | 3.00% | ~22,775 |
-| Qi Gong: Essence | 3.00% | ~22,775 |
-| Old Child | 3.00% | ~22,775 |
+| The Old Grandmaster | 6.00% | ~45,552 |
+| Life is your teacher | 5.00% | ~37,960 |
+| The Assault | 4.00% | ~30,368 |
+| Lightning Hands | 4.00% | ~30,368 |
+| The Hateful Pole Fighter | 3.00% | ~22,776 |
+| Street Fighting | 3.00% | ~22,776 |
+| State of constant learning | 3.00% | ~22,776 |
+| Qi Gong: Essence | 3.00% | ~22,776 |
+| Old Child | 3.00% | ~22,776 |
 | A Lady's Blood in the Snow | 2.00% | ~15,184 |
 | Lady Wing Chun | 2.00% | ~15,184 |
 | Furious Fists | 2.00% | ~15,184 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~68 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 759,176 (Ranked 26)  
+Progressed: 759,192 (Ranked 26)  
 Completed: 12,982 (1.71%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 12,982 (1.71%) (Ranked 145)
 | 2024-01-08 | 757,529 | 12,979 |
 | 2024-01-09 | 758,306 | 12,980 |
 | 2024-01-10 | 759,091 | 12,982 |
-| 2024-01-11 | 759,176 | 12,982 |
+| 2024-01-11 | 759,192 | 12,982 |
 ## Awards
 Max (Great Boss Battles): 7,166  (Ranked 56)  
 Sum: 12,683 (Ranked 85)  

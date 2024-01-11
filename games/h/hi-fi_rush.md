@@ -1,26 +1,26 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.86 (Ranked 31)  
+Rating: 4.86 (Ranked 32)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 54.00% | ~9,013 |
-| Feeling the beat! | 54.00% | ~9,013 |
-| You can pet the cat! | 49.00% | ~8,179 |
-| Who put gears in there? | 40.00% | ~6,676 |
-| Cream of the Crop | 35.00% | ~5,842 |
-| Thanks for the free chip, Peppermint! | 34.00% | ~5,675 |
-| You got this, Peppermint? | 29.00% | ~4,840 |
-| Perfect Parry | 27.00% | ~4,507 |
-| Alright, that felt AWESOME! | 27.00% | ~4,507 |
-| I play my own way! | 23.00% | ~3,839 |
-| This will cost you big time | 22.00% | ~3,672 |
-| Uh, they were broken when I got here | 21.00% | ~3,505 |
-| Z-shielding's got nothing on us! | 20.00% | ~3,338 |
-| Kissing the sky! | 19.00% | ~3,171 |
-| Whoa! There's ANOTHER health bar!? | 17.00% | ~2,837 |
-| Does that say weakpoint? | 17.00% | ~2,837 |
+| Start with a bang! | 54.00% | ~9,015 |
+| Feeling the beat! | 54.00% | ~9,015 |
+| You can pet the cat! | 49.00% | ~8,181 |
+| Who put gears in there? | 40.00% | ~6,678 |
+| Cream of the Crop | 35.00% | ~5,843 |
+| Thanks for the free chip, Peppermint! | 34.00% | ~5,676 |
+| You got this, Peppermint? | 29.00% | ~4,842 |
+| Perfect Parry | 27.00% | ~4,508 |
+| Alright, that felt AWESOME! | 27.00% | ~4,508 |
+| I play my own way! | 23.00% | ~3,840 |
+| This will cost you big time | 22.00% | ~3,673 |
+| Uh, they were broken when I got here | 21.00% | ~3,506 |
+| Z-shielding's got nothing on us! | 20.00% | ~3,339 |
+| Kissing the sky! | 19.00% | ~3,172 |
+| Whoa! There's ANOTHER health bar!? | 17.00% | ~2,838 |
+| Does that say weakpoint? | 17.00% | ~2,838 |
 | The Negotiator | 16.00% | ~2,671 |
 | You must like calling me in, Chai | 14.00% | ~2,337 |
 | Headliner | 13.00% | ~2,170 |
@@ -30,11 +30,11 @@ Rating: 4.86 (Ranked 31)
 | Perfecter Parry-er! | 12.00% | ~2,003 |
 | Who's the boss now? | 11.00% | ~1,836 |
 | I have to read these things? | 11.00% | ~1,836 |
-| There's such a thing as TOO helpful | 8.00% | ~1,335 |
+| There's such a thing as TOO helpful | 8.00% | ~1,336 |
 | NOW we got a kickass hideout! | 8.00% | ~1,217 |
-| Well that was a rush! | 7.00% | ~1,168 |
-| That's a lot of junk metal… | 7.00% | ~1,168 |
-| Beat-hit mania | 6.00% | ~1,001 |
+| Well that was a rush! | 7.00% | ~1,169 |
+| That's a lot of junk metal… | 7.00% | ~1,169 |
+| Beat-hit mania | 6.00% | ~1,002 |
 | I told you I'd be fine, Peppermint! | 5.00% | ~835 |
 | Chip-tuned | 4.00% | ~668 |
 | Wanna hear my playlist? | 4.00% | ~668 |
@@ -50,7 +50,7 @@ Rating: 4.86 (Ranked 31)
 | This is a breeze! | 1.00% | ~167 |
 | Call me Turbo Chai | 1.00% | ~152 |
 | OK, well THEY came after ME! | 0.80% | ~134 |
-| New bad guys? No problem! | 0.70% | ~106 |
+| New bad guys? No problem! | 0.70% | ~107 |
 | Now this is how you fight like a team! | 0.50% | ~83 |
 | I am a good person who likes to help | 0.40% | ~67 |
 | And the crowd goes wild! | 0.30% | ~50 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 31)
 | Voices from within | 0.10% | ~15 |
 | Low budget finish | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,691 (Ranked 167)  
+Progressed: 16,695 (Ranked 167)  
 Completed: 8 (0.05%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 8 (0.05%) (Ranked 338)
 | 2024-01-08 | 16,279 | 8 |
 | 2024-01-09 | 16,474 | 8 |
 | 2024-01-10 | 16,669 | 8 |
-| 2024-01-11 | 16,691 | 8 |
+| 2024-01-11 | 16,695 | 8 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 517)  
 Sum: 32 (Ranked 541)  

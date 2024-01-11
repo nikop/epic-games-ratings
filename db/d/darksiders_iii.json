@@ -2,7 +2,7 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
-  "Ranking_Rating": 636,
+  "Ranking_Rating": 637,
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 345,
@@ -482,7 +482,7 @@
   ],
   "EOS_Progressed": 544,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2353,7 +2353,7 @@
       "ID": "Kill_Enemies_HavocForm_666",
       "SetID": "7a5k76n",
       "Name": "Beast Mode",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -2545,8 +2545,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-10T06:57:57.6760335+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:04:45.6505084+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:04:47.2074055+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:58:16.5789608+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:04:45.6505756+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:58:17.1965159+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:04:47.2074686+00:00"
 }

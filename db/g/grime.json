@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 452,
+  "Ranking_Rating": 453,
   "Ranking_Popularity": 432,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 84,
@@ -1867,9 +1867,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167624,
+  "EOS_Progressed": 167626,
   "EOS_Completed": 454,
-  "EOS_NewPlayers": 1259,
+  "EOS_NewPlayers": 1255,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22642,6 +22642,11 @@
       "Time": "2024-01-11T04:04:40.1896298+00:00",
       "NumProgressed": 167624,
       "NumCompleted": 454
+    },
+    {
+      "Time": "2024-01-11T05:04:41.5968086+00:00",
+      "NumProgressed": 167626,
+      "NumCompleted": 454
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22726,7 +22731,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3352
+      "UsersEstimate": 3353
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -22734,7 +22739,7 @@
       "Name": "Hunt Down",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -22822,7 +22827,7 @@
       "Name": "Inevitable",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -23021,21 +23026,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167207,
+      "Progressed": 167209,
       "Completed": 1259
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167624,
+      "Progressed": 167626,
       "Completed": 454
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-10T23:59:24.4676142+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:04:40.1896295+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:04:41.5968083+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:59:26.3178404+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:04:40.1897454+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:59:29.0374349+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:04:41.5969192+00:00"
 }

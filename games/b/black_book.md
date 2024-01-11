@@ -1,23 +1,23 @@
 # Black Book
 [Store](https://store.epicgames.com/en-US/p/black-book)  
 [View Rawdata](../../db/b/black_book.json)  
-Rating: 4.65 (Ranked 322)  
+Rating: 4.65 (Ranked 323)  
 Number of Ratings: 96  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~19,242 |
-| Student | 22.00% | ~14,597 |
-| Knower | 16.00% | ~10,616 |
+| Initiation | 29.00% | ~19,243 |
+| Student | 22.00% | ~14,598 |
+| Knower | 16.00% | ~10,617 |
 | Listener | 15.00% | ~9,953 |
-| Aspen Tree | 14.00% | ~9,289 |
-| Healer | 14.00% | ~9,289 |
-| Scientist | 12.00% | ~7,962 |
-| Soldier | 12.00% | ~7,962 |
+| Aspen Tree | 14.00% | ~9,290 |
+| Healer | 14.00% | ~9,290 |
+| Scientist | 12.00% | ~7,963 |
+| Soldier | 12.00% | ~7,963 |
 | Cow Level | 11.00% | ~7,299 |
-| Old Friend | 10.00% | ~6,635 |
-| Herbalist | 10.00% | ~6,635 |
-| Water | 10.00% | ~6,635 |
+| Old Friend | 10.00% | ~6,636 |
+| Herbalist | 10.00% | ~6,636 |
+| Water | 10.00% | ~6,636 |
 | New Spirits | 9.00% | ~5,972 |
 | Voipel | 9.00% | ~5,972 |
 | Collector | 9.00% | ~5,972 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,327 |
 | Word Master | 0.20% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,351 (Ranked 117)  
+Progressed: 66,356 (Ranked 117)  
 Completed: 69 (0.10%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 69 (0.10%) (Ranked 311)
 | 2024-01-08 | 66,003 | 68 |
 | 2024-01-09 | 66,170 | 69 |
 | 2024-01-10 | 66,325 | 69 |
-| 2024-01-11 | 66,351 | 69 |
+| 2024-01-11 | 66,356 | 69 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

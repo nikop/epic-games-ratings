@@ -2,7 +2,7 @@
   "ID": "b3d490d845c040ee82fd02f400ab0efc",
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
-  "Ranking_Rating": 357,
+  "Ranking_Rating": 358,
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 301,
@@ -347,11 +347,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 935,
+  "EOS_Progressed": 937,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.86,
+  "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -2492,6 +2492,11 @@
       "Time": "2024-01-11T04:03:55.9220792+00:00",
       "NumProgressed": 935,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-11T05:03:57.7936385+00:00",
+      "NumProgressed": 937,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2512,7 +2517,7 @@
       "Name": "Are you ready now?",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
@@ -2542,9 +2547,9 @@
       "ID": "ACH_DOWN_TOWN",
       "SetID": "biiejkc",
       "Name": "Uptown and Downtown",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -2574,9 +2579,9 @@
       "ID": "ACH_JELLYFISHING",
       "SetID": "biiejkc",
       "Name": "Jellyfishing",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -2584,7 +2589,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -2600,7 +2605,7 @@
       "Name": "Keep it Rolling",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_PRAWN_BOSS",
@@ -2622,9 +2627,9 @@
       "ID": "ACH_ROBO_SANDY_BOSS",
       "SetID": "biiejkc",
       "Name": "Sweet Victory",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -2688,7 +2693,7 @@
       "Name": "Ultra Spatula Seeker",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
@@ -2759,15 +2764,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 935,
+      "Progressed": 937,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-09T20:57:04.6643475+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:03:55.9220788+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:03:57.7936383+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:57:39.3838734+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:03:55.9221114+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:57:41.3308004+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:03:57.7936673+00:00"
 }

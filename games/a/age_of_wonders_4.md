@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.62 (Ranked 377)  
+Rating: 4.62 (Ranked 378)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,11 +19,11 @@ Rating: 4.62 (Ranked 377)
 | Valley of Wonders | 6.00% | ~431 |
 | In a Liege of Your Own | 6.00% | ~431 |
 | Intimidation Tactics | 6.00% | ~431 |
+| Digging for Treasure | 5.00% | ~359 |
 | My Final Form | 5.00% | ~359 |
 | But this one is mine | 5.00% | ~359 |
 | Return of the Wizard King | 4.00% | ~287 |
 | Enchanted Archipelago | 4.00% | ~287 |
-| Digging for Treasure | 4.00% | ~287 |
 | Fiery Friend | 4.00% | ~287 |
 | Against the Odds | 4.00% | ~287 |
 | Impenetrable Fortress | 4.00% | ~287 |

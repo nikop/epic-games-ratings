@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.54 (Ranked 551)  
+Rating: 4.54 (Ranked 552)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,10 +14,10 @@ Number of Ratings: 90  (23.09.2022)
 | Bodied Sattva | 38.00% | ~153 |
 | Cult Following | 35.00% | ~141 |
 | Earthly Pleasures | 34.00% | ~137 |
-| Lie Back and Think of Albion | 28.00% | ~113 |
+| Lie Back and Think of Albion | 29.00% | ~117 |
 | Upgreatest | 27.00% | ~109 |
 | Pimp My Raid | 25.00% | ~101 |
-| Freshly Squeezed | 22.00% | ~89 |
+| Freshly Squeezed | 23.00% | ~93 |
 | I Look Up As I Walk to Takoshima | 21.00% | ~85 |
 | Perfect Probulator | 18.00% | ~73 |
 | Die Nasty | 18.00% | ~73 |
@@ -38,11 +38,11 @@ Number of Ratings: 90  (23.09.2022)
 | Against All Odds | 1.00% | ~4 |
 | Hidden Human Hive Harvest | 1.00% | ~4 |
 | The Optional Mandate | 1.00% | ~4 |
+| Higher Than the Futen Zoku | 1.00% | ~4 |
 | If You Know What I Mean | 1.00% | ~4 |
 | PK Slam Dunk | 0.70% | ~3 |
 | Gotta Catch All the Pop Art | 0.70% | ~3 |
 | This Is Earth Radio | 0.70% | ~3 |
-| Higher Than the Futen Zoku | 0.70% | ~3 |
 | Toilet Break | 0.50% | ~2 |
 | Albion Bridge Is for Falling Down | 0.50% | ~2 |
 | Ouch of Body Experience | 0.50% | ~2 |

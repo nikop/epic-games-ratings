@@ -1,20 +1,20 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 563)  
+Rating: 4.53 (Ranked 564)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~53,948 |
-| Worth it | 63.00% | ~43,573 |
-| Eagle Eye | 55.00% | ~38,040 |
+| Setting an example | 78.00% | ~53,949 |
+| Worth it | 63.00% | ~43,574 |
+| Eagle Eye | 55.00% | ~38,041 |
 | Corpseman I | 39.00% | ~26,974 |
 | Blast fishing | 37.00% | ~25,591 |
-| Not alone | 32.00% | ~22,132 |
+| Not alone | 32.00% | ~22,133 |
 | Headhunter I | 26.00% | ~17,983 |
-| Developers, Developers, Developers | 24.00% | ~16,599 |
-| Manual Labour I | 24.00% | ~16,599 |
+| Developers, Developers, Developers | 24.00% | ~16,600 |
+| Manual Labour I | 24.00% | ~16,600 |
 | Basic Training | 23.00% | ~15,908 |
 | Furchtlos und Treu | 13.00% | ~8,991 |
 | Gott Mit Uns | 12.00% | ~8,300 |
@@ -23,8 +23,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | For King and Country | 9.00% | ~6,225 |
 | Battle hardened | 8.00% | ~5,533 |
 | Anker wirf! | 8.00% | ~5,533 |
-| Semper Fidelis! | 7.00% | ~4,841 |
-| Honneur et Patrie | 7.00% | ~4,841 |
+| Semper Fidelis! | 7.00% | ~4,842 |
+| Honneur et Patrie | 7.00% | ~4,842 |
 | In Treue Fest | 5.00% | ~3,458 |
 | Voor De Koning | 5.00% | ~3,458 |
 | Extreme Headhunter | 5.00% | ~3,458 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~69 |
 | Blood Brother | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,164 (Ranked 114)  
+Progressed: 69,165 (Ranked 114)  
 Completed: 4 (0.01%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 4 (0.01%) (Ranked 374)
 | 2024-01-08 | 69,001 | 4 |
 | 2024-01-09 | 69,082 | 4 |
 | 2024-01-10 | 69,148 | 4 |
-| 2024-01-11 | 69,164 | 4 |
+| 2024-01-11 | 69,165 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 374)  
 Sum: 833 (Ranked 289)  

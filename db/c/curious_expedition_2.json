@@ -2,13 +2,13 @@
   "ID": "2ba34162e36a4caf860fd00f934c8af1",
   "Name": "Curious Expedition 2",
   "ProductSlug": "curious-expedition-2-8cb901",
-  "Ranking_Rating": 166,
+  "Ranking_Rating": 167,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -1078,9 +1078,9 @@
       "ID": "ach-meetGhost",
       "SetID": "17ih7ma",
       "Name": "Spooky!",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 162
     },
     {
       "ID": "ach-noEquipment",
@@ -1239,8 +1239,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:10:10.2894279+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:10:11.8833886+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:11.9345433+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:59:40.763211+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:10:10.2894805+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:59:42.5322741+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:10:11.8834656+00:00"
 }

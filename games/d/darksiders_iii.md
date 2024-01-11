@@ -1,7 +1,7 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.49 (Ranked 636)  
+Rating: 4.49 (Ranked 637)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -68,8 +68,8 @@ Number of Ratings: 116  (23.09.2022)
 | "Apocalyptic!" | 2.00% | ~11 |
 | "Amazing!" | 2.00% | ~11 |
 | Death Incarnate | 2.00% | ~11 |
+| Beast Mode | 1.00% | ~5 |
 | Quite Proper | 0.90% | ~5 |
-| Beast Mode | 0.90% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 544 (Ranked 345)  
 Completed: 2 (0.37%) (Ranked 243)  

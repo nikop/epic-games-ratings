@@ -1,7 +1,7 @@
 # Dungeons 3
 [Store](https://store.epicgames.com/en-US/p/dungeons-3)  
 [View Rawdata](../../db/d/dungeons_3.json)  
-Rating: 4.66 (Ranked 300)  
+Rating: 4.66 (Ranked 301)  
 Number of Ratings: 1,635  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,7 +19,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | The last burger | 37.00% | ~17,224 |
 | Hands off the Dungeonheart! | 36.00% | ~16,759 |
 | A trip on sea, what fun it can be | 34.00% | ~15,828 |
-| Damned good | 32.00% | ~14,897 |
+| Damned good | 33.00% | ~15,362 |
 | Stock Market Crash | 31.00% | ~14,431 |
 | Factory farming | 31.00% | ~14,431 |
 | Shadow hunter | 29.00% | ~13,500 |

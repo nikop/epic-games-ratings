@@ -1,7 +1,7 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 262)  
+Rating: 4.68 (Ranked 263)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -34,7 +34,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 4.00% | ~5,297 |
 | Nope | 4.00% | ~5,297 |
 | Unshackled | 4.00% | ~5,297 |
-| Friends 'Til the End | 4.00% | ~291 |
+| Friends 'Til the End | 4.00% | ~292 |
 | Resurrection | 3.00% | ~3,973 |
 | Unleash Hell | 3.00% | ~3,973 |
 | Funny Guy | 3.00% | ~3,973 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,417 (Ranked 91)  
+Progressed: 132,419 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 4 (0.00%) (Ranked 397)
 | 2024-01-08 | 132,215 | 3 |
 | 2024-01-09 | 132,315 | 3 |
 | 2024-01-10 | 132,395 | 4 |
-| 2024-01-11 | 132,417 | 4 |
+| 2024-01-11 | 132,419 | 4 |
 ## Awards
 Max (Character Customization): 8,000  (Ranked 50)  
 Sum: 21,580 (Ranked 58)  

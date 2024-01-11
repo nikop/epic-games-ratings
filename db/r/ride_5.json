@@ -2,13 +2,13 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_Rating": 613,
+  "Ranking_Rating": 614,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3544,
+  "EOS_Progressed": 3545,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8686,6 +8686,11 @@
       "Time": "2024-01-11T00:04:14.7896266+00:00",
       "NumProgressed": 3544,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T05:04:12.6880947+00:00",
+      "NumProgressed": 3545,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8706,7 +8711,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1489
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -8714,7 +8719,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -8906,7 +8911,7 @@
       "Name": "Clean Race",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -9002,7 +9007,7 @@
       "Name": "Champagne Spray",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -9089,7 +9094,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3544,
+      "Progressed": 3545,
       "Completed": 0
     }
   ],
@@ -9097,8 +9102,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-09T14:57:26.7044021+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:04:10.7934072+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:04:12.6880945+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.6681713+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:58:13.9436514+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:04:10.7934807+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:58:15.1062183+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:04:12.6881502+00:00"
 }

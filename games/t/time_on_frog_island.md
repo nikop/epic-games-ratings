@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shipwrecked! | 72.00% | ~34 |
-| Sea Legs | 62.00% | ~29 |
-| What?! | 38.00% | ~18 |
+| Shipwrecked! | 73.00% | ~35 |
+| Sea Legs | 63.00% | ~30 |
+| What?! | 40.00% | ~19 |
 | Frogs Legs | 21.00% | ~10 |
 | Mad Scientist | 17.00% | ~8 |
 | Hoist the Sails | 17.00% | ~8 |
 | Secure the Sheets | 17.00% | ~8 |
 | Socialite | 15.00% | ~7 |
 | Hands on the Helm | 13.00% | ~6 |
-| Couch-surfing | 11.00% | ~5 |
-| Sailor Swift | 11.00% | ~5 |
-| Replace the Rudder | 11.00% | ~5 |
-| Who Even Needs Keys | 9.00% | ~4 |
-| Shrub-Seeing: Townlife | 9.00% | ~4 |
-| Shrub-Seeing: Silly Birbs | 9.00% | ~4 |
-| No Evil | 9.00% | ~4 |
-| Safe Investment | 9.00% | ~4 |
-| Bank of Me | 9.00% | ~4 |
-| The Journey Continues | 9.00% | ~4 |
+| Couch-surfing | 10.00% | ~5 |
+| Sailor Swift | 10.00% | ~5 |
+| Replace the Rudder | 10.00% | ~5 |
+| Who Even Needs Keys | 8.00% | ~4 |
+| Shrub-Seeing: Townlife | 8.00% | ~4 |
+| Shrub-Seeing: Silly Birbs | 8.00% | ~4 |
+| No Evil | 8.00% | ~4 |
+| Safe Investment | 8.00% | ~4 |
+| Bank of Me | 8.00% | ~4 |
+| The Journey Continues | 8.00% | ~4 |
 | Shrub-Seeing: Ruins of old | 6.00% | ~3 |
 | Yeet! | 6.00% | ~3 |
 | Caught Ya! | 6.00% | ~3 |
@@ -40,8 +40,8 @@
 | Crunch Time | 2.00% | ~1 |
 | Just Here for the Food | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47 (Ranked 567)  
-Completed: 1 (2.13%) (Ranked 136)  
+Progressed: 48 (Ranked 563)  
+Completed: 1 (2.08%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,6 +82,7 @@ Completed: 1 (2.13%) (Ranked 136)
 | 2024-01-08 | 45 | 1 |
 | 2024-01-09 | 46 | 1 |
 | 2024-01-10 | 47 | 1 |
+| 2024-01-11 | 48 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,13 @@
   "ID": "c0d2e8a180624787be1c4c6386493796",
   "Name": "Kingdom Rush Vengeance",
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
+  "Ranking_Rating": 7,
+  "Ranking_Popularity": 583,
+  "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -19,7 +22,15 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "RatingHistory": [],
+  "Rating": 4.9,
+  "RatingHistory": [
+    {
+      "Time": "2024-01-11T05:00:16.5712266+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
@@ -1700,9 +1711,9 @@
       "ID": "KR4_ACHIEVEMENT_JOKULL",
       "SetID": "caeik3h",
       "Name": "How To Tame Your Dragon",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 207
     },
     {
       "ID": "KR4_ACHIEVEMENT_KERMIT",
@@ -1756,9 +1767,9 @@
       "ID": "KR4_ACHIEVEMENT_KING",
       "SetID": "caeik3h",
       "Name": "The True King",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 182
+      "UsersEstimate": 185
     },
     {
       "ID": "KR4_ACHIEVEMENT_LINIREA",
@@ -1884,9 +1895,9 @@
       "ID": "KR4_ACHIEVEMENT_SELL_TOWERS",
       "SetID": "caeik3h",
       "Name": "Go Green or Go Home",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 136
     },
     {
       "ID": "KR4_ACHIEVEMENT_SHADOWARCHERS",
@@ -2032,9 +2043,11 @@
     }
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
+  "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:03:25.4494698+00:00",
+  "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:03:27.1953222+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.7688835+00:00",
-  "LastUpdate_Ratings": "2024-01-11T04:00:14.1247355+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:03:25.4495329+00:00"
+  "LastUpdate_Ratings": "2024-01-11T05:00:16.5712278+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:03:27.1954+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
-  "Ranking_Rating": 203,
+  "Ranking_Rating": 204,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -10029,7 +10029,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 816892,
+  "EOS_Progressed": 816895,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 1048,
   "EOS_NewCompleters": 0,
@@ -40094,6 +40094,11 @@
       "Time": "2024-01-11T04:10:08.5752272+00:00",
       "NumProgressed": 816892,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-11T05:10:10.1481865+00:00",
+      "NumProgressed": 816895,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -40137,7 +40142,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 171547
+      "UsersEstimate": 171548
     },
     {
       "ID": "BadGirl",
@@ -40185,7 +40190,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 261405
+      "UsersEstimate": 261406
     },
     {
       "ID": "Bookworm",
@@ -40217,7 +40222,7 @@
       "Name": "Cavalier",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 212392
+      "UsersEstimate": 212393
     },
     {
       "ID": "Chivalrous",
@@ -40265,7 +40270,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 81689
+      "UsersEstimate": 81690
     },
     {
       "ID": "DavidHorak",
@@ -40305,7 +40310,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 187885
+      "UsersEstimate": 187886
     },
     {
       "ID": "Fighter",
@@ -40385,7 +40390,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 73520
+      "UsersEstimate": 73521
     },
     {
       "ID": "HardcoreHenry",
@@ -40505,7 +40510,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 57182
+      "UsersEstimate": 57183
     },
     {
       "ID": "MercenarysHonor",
@@ -40585,7 +40590,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163378
+      "UsersEstimate": 163379
     },
     {
       "ID": "RevenantOfLedechko",
@@ -40609,7 +40614,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 57182
+      "UsersEstimate": 57183
     },
     {
       "ID": "Saviour",
@@ -40625,7 +40630,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163378
+      "UsersEstimate": 163379
     },
     {
       "ID": "SerialKiller",
@@ -40760,15 +40765,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 816892,
+      "Progressed": 816895,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2024-01-11T01:49:21.79603+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:10:08.5752269+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:10:10.1481863+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.1586279+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:59:11.9146673+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:10:08.5754101+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:59:13.9696092+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:10:10.148419+00:00"
 }

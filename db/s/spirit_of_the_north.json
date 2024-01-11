@@ -2,12 +2,12 @@
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
-  "Ranking_Rating": 816,
+  "Ranking_Rating": 817,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 79697,
+  "EOS_Progressed": 79700,
   "EOS_Completed": 432,
-  "EOS_NewPlayers": 725,
+  "EOS_NewPlayers": 727,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -29689,6 +29689,11 @@
       "Time": "2024-01-11T04:09:42.1435727+00:00",
       "NumProgressed": 79697,
       "NumCompleted": 432
+    },
+    {
+      "Time": "2024-01-11T05:09:42.5487004+00:00",
+      "NumProgressed": 79700,
+      "NumCompleted": 432
     }
   ],
   "TotalAchievements": 24,
@@ -29708,7 +29713,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17533
+      "UsersEstimate": 17534
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -29716,7 +29721,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 54991
+      "UsersEstimate": 54993
     },
     {
       "ID": "BEST_FRIENDS",
@@ -29724,7 +29729,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 17533
+      "UsersEstimate": 17534
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -29732,7 +29737,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 20721
+      "UsersEstimate": 20722
     },
     {
       "ID": "ERADICATE",
@@ -29740,7 +29745,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16736
+      "UsersEstimate": 16737
     },
     {
       "ID": "FETCH",
@@ -29748,7 +29753,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 22315
+      "UsersEstimate": 22316
     },
     {
       "ID": "FOXIN_AROUND",
@@ -29756,7 +29761,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 23112
+      "UsersEstimate": 23113
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -29772,7 +29777,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 14345
+      "UsersEstimate": 14346
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -29780,7 +29785,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 42239
+      "UsersEstimate": 42241
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -29844,7 +29849,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 17533
+      "UsersEstimate": 17534
     },
     {
       "ID": "SPIRIT_DASH",
@@ -29860,7 +29865,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 13548
+      "UsersEstimate": 13549
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -29891,7 +29896,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 79697,
+      "Progressed": 79700,
       "Completed": 432
     }
   ],
@@ -29899,8 +29904,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:09:42.1435723+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:09:42.5487002+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:00.3957366+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:57:47.6655966+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:09:42.1437138+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:57:49.1592538+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:09:42.548817+00:00"
 }

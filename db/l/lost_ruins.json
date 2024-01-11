@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -1995,9 +1995,9 @@
       "ID": "BossKiller",
       "SetID": "82505mn",
       "Name": "Boss Killer",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 159
     },
     {
       "ID": "BugHunter",
@@ -2059,9 +2059,9 @@
       "ID": "HolyKnight",
       "SetID": "82505mn",
       "Name": "Holy Knight",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 21
     },
     {
       "ID": "Horder",
@@ -2292,8 +2292,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:10:05.8971649+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:10:07.5780755+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:09.081719+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:57:45.5448067+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:10:05.8971968+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:57:47.1910848+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:10:07.5781146+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 954,
+  "Ranking_Rating": 955,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 178,
@@ -703,9 +703,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12195,
+  "EOS_Progressed": 12196,
   "EOS_Completed": 85,
-  "EOS_NewPlayers": 719,
+  "EOS_NewPlayers": 718,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -15463,6 +15463,11 @@
       "Time": "2024-01-11T04:03:27.3336809+00:00",
       "NumProgressed": 12195,
       "NumCompleted": 85
+    },
+    {
+      "Time": "2024-01-11T05:03:28.995966+00:00",
+      "NumProgressed": 12196,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 29,
@@ -15474,7 +15479,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10122
+      "UsersEstimate": 10123
     },
     {
       "ID": "ACH02",
@@ -15482,7 +15487,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 4146
+      "UsersEstimate": 4147
     },
     {
       "ID": "ACH03",
@@ -15705,7 +15710,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12195,
+      "Progressed": 12196,
       "Completed": 85
     }
   ],
@@ -15713,8 +15718,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-08T18:02:03.5351927+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:03:27.3336805+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:03:28.9959658+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.653696+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:57:49.5604735+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:03:27.3337885+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:57:51.0723074+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:03:28.9960522+00:00"
 }

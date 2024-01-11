@@ -2,13 +2,13 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 527,
+  "Ranking_Rating": 528,
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -543,7 +543,7 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 6333,
+  "EOS_Progressed": 6334,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 0,
@@ -9523,6 +9523,11 @@
       "Time": "2024-01-11T04:06:06.8869894+00:00",
       "NumProgressed": 6333,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-11T05:06:08.9692131+00:00",
+      "NumProgressed": 6334,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -9630,7 +9635,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 4053
+      "UsersEstimate": 4054
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -9646,7 +9651,7 @@
       "Name": "Call Me Snake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3356
+      "UsersEstimate": 3357
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -9726,7 +9731,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3294
     },
     {
       "ID": "ACH_MISSION_02",
@@ -9838,7 +9843,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 4876
+      "UsersEstimate": 4877
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -9846,7 +9851,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3166
+      "UsersEstimate": 3167
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -9870,7 +9875,7 @@
       "Name": "Recouped Investment",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -9893,7 +9898,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6333,
+      "Progressed": 6334,
       "Completed": 3
     }
   ],
@@ -9901,8 +9906,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-10T09:00:12.2019568+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:06:06.886989+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:06:08.9692129+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.3437063+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:59:30.1040468+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:06:06.8870521+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:59:32.5679092+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:06:08.9692892+00:00"
 }

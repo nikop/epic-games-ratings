@@ -1,30 +1,30 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 431)  
+Rating: 4.60 (Ranked 432)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 76.00% | ~5,997 |
-| Having A Field Day | 76.00% | ~5,997 |
-| Reap What You Sow | 73.00% | ~5,760 |
+| Get A Room | 76.00% | ~5,998 |
+| Having A Field Day | 76.00% | ~5,998 |
+| Reap What You Sow | 73.00% | ~5,761 |
 | The First Day | 70.00% | ~5,524 |
-| Novice Researcher | 68.00% | ~5,366 |
-| Green Thumb | 67.00% | ~5,287 |
-| Home Cooked Meal | 62.00% | ~4,892 |
+| Novice Researcher | 68.00% | ~5,367 |
+| Green Thumb | 67.00% | ~5,288 |
+| Home Cooked Meal | 62.00% | ~4,893 |
 | Onward | 58.00% | ~4,577 |
-| The First Week | 56.00% | ~4,419 |
-| Beam Me Up | 53.00% | ~4,182 |
-| Studious Researcher | 53.00% | ~4,182 |
+| The First Week | 56.00% | ~4,420 |
+| Beam Me Up | 53.00% | ~4,183 |
+| Studious Researcher | 53.00% | ~4,183 |
 | Adept Researcher | 45.00% | ~3,551 |
-| Retribution | 43.00% | ~3,393 |
-| Putting Food on the Table | 43.00% | ~3,393 |
-| ...And Don’t Come Back! | 43.00% | ~3,393 |
+| Retribution | 43.00% | ~3,394 |
+| Putting Food on the Table | 43.00% | ~3,394 |
+| ...And Don’t Come Back! | 43.00% | ~3,394 |
 | Feast or Famine | 35.00% | ~2,762 |
 | Heating Up | 33.00% | ~2,604 |
-| Luminary Researcher | 30.00% | ~2,367 |
-| Winter Is Coming | 29.00% | ~2,288 |
+| Luminary Researcher | 30.00% | ~2,368 |
+| Winter Is Coming | 29.00% | ~2,289 |
 | Fit For A King | 26.00% | ~2,052 |
 | Winter Is Here | 26.00% | ~2,052 |
 | Disassembled | 23.00% | ~1,815 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~158 |
 | Wabbit Season | 0.50% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,891 (Ranked 191)  
+Progressed: 7,892 (Ranked 191)  
 Completed: 14 (0.18%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 14 (0.18%) (Ranked 283)
 | 2024-01-08 | 7,846 | 14 |
 | 2024-01-09 | 7,860 | 14 |
 | 2024-01-10 | 7,883 | 14 |
-| 2024-01-11 | 7,891 | 14 |
+| 2024-01-11 | 7,892 | 14 |
 ## Awards
 Max (Great for Beginners): 133  (Ranked 343)  
 Sum: 1,060 (Ranked 270)  

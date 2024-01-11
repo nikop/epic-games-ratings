@@ -1,24 +1,24 @@
 # Circus Electrique
 [Store](https://store.epicgames.com/en-US/p/circus-electrique)  
 [View Rawdata](../../db/c/circus_electrique.json)  
-Rating: 4.16 (Ranked 991)  
+Rating: 4.16 (Ranked 992)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self Defense | 49.00% | ~249 |
+| Self Defense | 49.00% | ~250 |
 | Grand Opening | 44.00% | ~224 |
 | Circus Electrique Proudly Presents... | 44.00% | ~224 |
 | Path of Learning | 43.00% | ~219 |
-| Built in a Day | 36.00% | ~183 |
+| Built in a Day | 35.00% | ~178 |
 | More Brain Than Brawn | 31.00% | ~158 |
-| Perfect Illusion | 25.00% | ~127 |
-| Hundred Percent First | 25.00% | ~127 |
+| Perfect Illusion | 25.00% | ~128 |
+| Hundred Percent First | 25.00% | ~128 |
 | Dirty Dozen | 21.00% | ~107 |
 | Fan Service | 19.00% | ~97 |
 | Lion Tamer | 18.00% | ~92 |
-| King of District 1 | 17.00% | ~87 |
 | Amazing! | 17.00% | ~87 |
+| King of District 1 | 16.00% | ~82 |
 | Lucky Day | 15.00% | ~76 |
 | Bar Brawler | 15.00% | ~76 |
 | Flawless Presentation | 15.00% | ~76 |
@@ -32,9 +32,9 @@ Number of Ratings: 22  (23.09.2022)
 | Hundred Percent Second | 7.00% | ~36 |
 | Spirits High | 7.00% | ~36 |
 | Mobile Infantry | 7.00% | ~36 |
-| Club Champion | 6.00% | ~31 |
-| Around the Clock | 5.00% | ~25 |
-| King of District 4 | 5.00% | ~25 |
+| Around the Clock | 5.00% | ~26 |
+| Club Champion | 5.00% | ~26 |
+| King of District 4 | 5.00% | ~26 |
 | City Savior | 4.00% | ~20 |
 | King of District 5 | 4.00% | ~20 |
 | Hundred Percent Third | 3.00% | ~15 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.40% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 509 (Ranked 352)  
+Progressed: 510 (Ranked 352)  
 Completed: 1 (0.20%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,6 +134,7 @@ Completed: 1 (0.20%) (Ranked 278)
 | 2024-01-07 | 507 | 1 |
 | 2024-01-08 | 508 | 1 |
 | 2024-01-10 | 509 | 1 |
+| 2024-01-11 | 510 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

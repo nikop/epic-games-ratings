@@ -2,13 +2,13 @@
   "ID": "effee7c2775148e9a99f5685d29751d2",
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
-  "Ranking_Rating": 916,
+  "Ranking_Rating": 917,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -4782,17 +4782,17 @@
       "ID": "ACHV_17",
       "SetID": "8p5mlmc",
       "Name": "Following In Their Footsteps",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 205
     },
     {
       "ID": "ACHV_18",
       "SetID": "8p5mlmc",
       "Name": "True Survivor",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 538
     },
     {
       "ID": "ACHV_19",
@@ -4846,9 +4846,9 @@
       "ID": "ACHV_25",
       "SetID": "8p5mlmc",
       "Name": "Full Arsenal",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 410
+      "UsersEstimate": 436
     },
     {
       "ID": "ACHV_26",
@@ -5119,8 +5119,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-07T10:02:57.9512677+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:04:47.621108+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:04:49.269493+00:00",
   "LastUpdate_AppInfo": "2024-01-06T17:57:07.4256179+00:00",
-  "LastUpdate_Ratings": "2024-01-11T04:02:47.5605702+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:04:47.6211662+00:00"
+  "LastUpdate_Ratings": "2024-01-11T05:02:48.6994101+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:04:49.2695778+00:00"
 }

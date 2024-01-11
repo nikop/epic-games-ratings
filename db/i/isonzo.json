@@ -2,13 +2,13 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 470,
+  "Ranking_Rating": 471,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1069,7 +1069,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9890,
+  "EOS_Progressed": 9891,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
@@ -10979,6 +10979,11 @@
       "Time": "2024-01-11T00:09:42.3439472+00:00",
       "NumProgressed": 9890,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-11T05:09:28.2351012+00:00",
+      "NumProgressed": 9891,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11022,7 +11027,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -11134,7 +11139,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1582
+      "UsersEstimate": 1583
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -11182,7 +11187,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4450
+      "UsersEstimate": 4451
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -11238,7 +11243,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2670
+      "UsersEstimate": 2671
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -11318,7 +11323,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -11349,7 +11354,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9890,
+      "Progressed": 9891,
       "Completed": 10
     }
   ],
@@ -11357,8 +11362,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-06T21:59:00.913352+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:09:27.8898078+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:09:28.2351009+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:05.1405641+00:00",
-  "LastUpdate_Ratings": "2024-01-11T04:00:00.4296312+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:09:27.8898897+00:00"
+  "LastUpdate_Ratings": "2024-01-11T05:00:01.4371838+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:09:28.2351972+00:00"
 }

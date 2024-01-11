@@ -1,18 +1,18 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.19 (Ranked 973)  
+Rating: 4.19 (Ranked 974)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,902 |
-| Battlefields Have Memories | 81.00% | ~2,671 |
-| Enlisted | 74.00% | ~2,441 |
-| Maybe Engage a Little | 69.00% | ~2,276 |
-| No More Names | 52.00% | ~1,715 |
-| Initiate | 38.00% | ~1,253 |
-| Thrada-Kul | 34.00% | ~1,121 |
-| Gravity-Challenged Rocks | 28.00% | ~923 |
+| Unforeseen | 88.00% | ~2,906 |
+| Battlefields Have Memories | 81.00% | ~2,675 |
+| Enlisted | 74.00% | ~2,443 |
+| Maybe Engage a Little | 69.00% | ~2,278 |
+| No More Names | 52.00% | ~1,717 |
+| Initiate | 38.00% | ~1,255 |
+| Thrada-Kul | 34.00% | ~1,123 |
+| Gravity-Challenged Rocks | 28.00% | ~925 |
 | Socialite | 24.00% | ~792 |
 | Soldier | 24.00% | ~792 |
 | All the Major Food Groups | 23.00% | ~759 |
@@ -47,13 +47,13 @@ Rating: 4.19 (Ranked 973)
 | Backtracker | 0.70% | ~23 |
 | Family Business | 0.60% | ~20 |
 | Master of Malachite | 0.60% | ~20 |
-| Diplomat | 0.50% | ~16 |
-| Petite Bourgeoisie | 0.50% | ~16 |
+| Diplomat | 0.50% | ~17 |
+| Petite Bourgeoisie | 0.50% | ~17 |
 | Treasure Hunter | 0.40% | ~13 |
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,298 (Ranked 227)  
+Progressed: 3,302 (Ranked 227)  
 Completed: 4 (0.12%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 4 (0.12%) (Ranked 303)
 | 2024-01-08 | 3,129 | 4 |
 | 2024-01-09 | 3,204 | 4 |
 | 2024-01-10 | 3,285 | 4 |
-| 2024-01-11 | 3,298 | 4 |
+| 2024-01-11 | 3,302 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "e209b2d1d5384f639335f64e3e6c4bb8",
   "Name": "Homeworld: Deserts of Kharak",
   "ProductSlug": "homeworld-deserts-of-kharak",
-  "Ranking_Rating": 768,
+  "Ranking_Rating": 769,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-24T15:00:00+00:00",
     "PcReleaseDate": "2016-01-20T12:00:00+00:00",
@@ -335,7 +335,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 340595,
+  "EOS_Progressed": 340601,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 2031,
   "EOS_NewCompleters": 0,
@@ -17040,6 +17040,11 @@
       "Time": "2024-01-11T04:05:35.4800729+00:00",
       "NumProgressed": 340595,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T05:05:36.8011113+00:00",
+      "NumProgressed": 340601,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -17076,7 +17081,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 149862
+      "UsersEstimate": 149864
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -17084,7 +17089,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 108990
+      "UsersEstimate": 108992
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -17092,7 +17097,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 71525
+      "UsersEstimate": 71526
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -17100,7 +17105,7 @@
       "Name": "Kalash Site",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 51089
+      "UsersEstimate": 51090
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -17108,7 +17113,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 40871
+      "UsersEstimate": 40872
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -17116,7 +17121,7 @@
       "Name": "Beladin Dune Sea",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 37465
+      "UsersEstimate": 37466
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -17428,20 +17433,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 173703
+      "UsersEstimate": 173707
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 340595,
+      "Progressed": 340601,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 340584,
+      "Progressed": 340590,
       "Completed": 1
     }
   ],
@@ -17449,8 +17454,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2024-01-09T10:03:35.565686+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:05:35.4800725+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:05:36.8011112+00:00",
   "LastUpdate_AppInfo": "2024-01-05T04:57:11.3845313+00:00",
-  "LastUpdate_Ratings": "2024-01-11T04:02:56.1498619+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:05:35.4801889+00:00"
+  "LastUpdate_Ratings": "2024-01-11T05:02:56.1381343+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:05:36.8012122+00:00"
 }

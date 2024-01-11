@@ -2,13 +2,13 @@
   "ID": "a7e2a2c51b9149c097b771926ed91877",
   "Name": "F.I.S.T.: Forged In Shadow Torch",
   "ProductSlug": "fist-forged-in-shadow-torch",
-  "Ranking_Rating": 509,
+  "Ranking_Rating": 510,
   "Ranking_Popularity": 165,
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 581,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 582,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-12-14T08:00:00+00:00",
     "PcReleaseDate": "2021-12-14T08:00:00+00:00",
@@ -1686,6 +1686,6 @@
   "FirstSeen": "2022-07-22T20:26:53.9715824+00:00",
   "LastChanged": "2024-01-09T13:14:41.5936578+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:29.0836393+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:58:47.9913537+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:05:26.5300837+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:58:48.7951439+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:05:27.7540994+00:00"
 }

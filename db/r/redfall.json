@@ -2,13 +2,13 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
-  "Ranking_Rating": 1094,
+  "Ranking_Rating": 1095,
   "Ranking_Popularity": 555,
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -381,9 +381,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2353,
+  "EOS_Progressed": 2354,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4366,6 +4366,11 @@
       "Time": "2024-01-10T21:07:53.3187651+00:00",
       "NumProgressed": 2353,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T05:06:23.7400919+00:00",
+      "NumProgressed": 2354,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4431,9 +4436,9 @@
       "ID": "Achievement_009",
       "SetID": "6b34g18",
       "Name": "Ne Plus Ultra",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 282
+      "UsersEstimate": 306
     },
     {
       "ID": "Achievement_010",
@@ -4601,7 +4606,7 @@
       "Name": "ICU",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "Achievement_031",
@@ -4633,7 +4638,7 @@
       "Name": "Catch and Release",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "Achievement_035",
@@ -4904,7 +4909,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2353,
+      "Progressed": 2354,
       "Completed": 0
     }
   ],
@@ -4912,8 +4917,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:06:21.5255937+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:06:23.7400917+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:57:08.3216982+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:06:21.5256649+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:57:09.9754652+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:06:23.7401782+00:00"
 }

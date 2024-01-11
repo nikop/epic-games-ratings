@@ -2,13 +2,13 @@
   "ID": "1d1f92fdf89a4827a98aa4c38c31e626",
   "Name": "Baldur\u0027s Gate Dark Alliance II",
   "ProductSlug": "baldurs-gate-dark-alliance-2-14db6b",
-  "Ranking_Rating": 792,
+  "Ranking_Rating": 793,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 825,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 581,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 582,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-07-20T15:00:00+00:00",
     "PcReleaseDate": "2022-07-20T15:00:00+00:00",
@@ -153,8 +153,8 @@
   "FirstSeenRating": "2022-08-07T10:00:50.3521431+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.3103222+00:00",
   "LastChanged": "2023-12-28T14:00:42.80718+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:03:21.8501819+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:03:23.4983145+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:33.5368894+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:58:44.3986398+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:03:21.8501887+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:58:45.2212035+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:03:23.4983177+00:00"
 }

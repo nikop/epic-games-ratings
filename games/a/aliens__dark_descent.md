@@ -1,17 +1,17 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.55 (Ranked 527)  
+Rating: 4.55 (Ranked 528)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,876 |
-| Keep 'Em Coming | 64.00% | ~4,053 |
+| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,877 |
+| Keep 'Em Coming | 64.00% | ~4,054 |
 | Snatched Out | 63.00% | ~3,990 |
 | Cleaning Lethe, One Nest At A Time | 57.00% | ~3,610 |
-| Call Me Snake | 53.00% | ~3,356 |
-| Something Lurks Under The Hills | 52.00% | ~3,293 |
-| This Was No Papercut | 50.00% | ~3,166 |
+| Call Me Snake | 53.00% | ~3,357 |
+| Something Lurks Under The Hills | 52.00% | ~3,294 |
+| This Was No Papercut | 50.00% | ~3,167 |
 | People Person | 47.00% | ~2,977 |
 | The Shrink Hates Me | 47.00% | ~2,977 |
 | Use The Bumper, That's What It's For | 44.00% | ~2,787 |
@@ -21,7 +21,7 @@ Rating: 4.55 (Ranked 527)
 | Making a Stand | 36.00% | ~2,280 |
 | Damn Dude, You Gotta Lose Some Weight! | 35.00% | ~2,217 |
 | Where It All Begun | 33.00% | ~2,090 |
-| Recouped Investment | 31.00% | ~1,963 |
+| Recouped Investment | 31.00% | ~1,964 |
 | Living Nightmare | 27.00% | ~1,710 |
 | The More The Merrier | 27.00% | ~1,710 |
 | Omelette Du Fromage | 26.00% | ~1,647 |
@@ -51,7 +51,7 @@ Rating: 4.55 (Ranked 527)
 | Chalk It Up To Experience | 0.70% | ~44 |
 | This Ain't No Picnic | 0.60% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,333 (Ranked 198)  
+Progressed: 6,334 (Ranked 198)  
 Completed: 3 (0.05%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 3 (0.05%) (Ranked 338)
 | 2024-01-08 | 6,180 | 3 |
 | 2024-01-09 | 6,254 | 3 |
 | 2024-01-10 | 6,324 | 3 |
-| 2024-01-11 | 6,333 | 3 |
+| 2024-01-11 | 6,334 | 3 |
 ## Awards
 Max (Great Boss Battles): 63  (Ranked 426)  
 Sum: 63 (Ranked 497)  

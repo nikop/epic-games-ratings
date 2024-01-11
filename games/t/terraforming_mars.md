@@ -1,15 +1,15 @@
 # Terraforming Mars
 [Store](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)  
 [View Rawdata](../../db/t/terraforming_mars.json)  
-Rating: 4.53 (Ranked 563)  
+Rating: 4.53 (Ranked 564)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's a steal! | 37.00% | ~33,327 |
 | Final touch | 34.00% | ~30,625 |
-| Prop-M Rover | 32.00% | ~28,823 |
-| Changing the Planet | 28.00% | ~25,220 |
+| Prop-M Rover | 32.00% | ~28,824 |
+| Changing the Planet | 28.00% | ~25,221 |
 | Sojourner | 26.00% | ~23,419 |
 | New Home | 23.00% | ~20,717 |
 | Beagle 2 | 23.00% | ~20,717 |
@@ -18,11 +18,11 @@ Number of Ratings: 2,731  (23.09.2022)
 | Collector | 19.00% | ~17,114 |
 | Curiosity | 18.00% | ~16,213 |
 | Master | 18.00% | ~16,213 |
-| No Longer Red | 17.00% | ~15,312 |
-| Self-sufficient | 17.00% | ~15,312 |
+| No Longer Red | 17.00% | ~15,313 |
+| Self-sufficient | 17.00% | ~15,313 |
 | Money money | 15.00% | ~13,511 |
 | First Journey | 14.00% | ~12,610 |
-| Biggest Reward | 13.00% | ~11,709 |
+| Biggest Reward | 13.00% | ~11,710 |
 | Acquired knowledge | 12.00% | ~10,809 |
 | Landlord | 11.00% | ~9,908 |
 | Most Achievements | 11.00% | ~9,908 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,702 |
 | Opportunity | 3.00% | ~2,702 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,073 (Ranked 105)  
+Progressed: 90,074 (Ranked 105)  
 Completed: 184 (0.20%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 184 (0.20%) (Ranked 278)
 | 2024-01-08 | 89,828 | 182 |
 | 2024-01-09 | 89,940 | 183 |
 | 2024-01-10 | 90,054 | 184 |
-| 2024-01-11 | 90,073 | 184 |
+| 2024-01-11 | 90,074 | 184 |
 ## Awards
 Max (Relaxing): 539  (Ranked 217)  
 Sum: 3,334 (Ranked 179)  

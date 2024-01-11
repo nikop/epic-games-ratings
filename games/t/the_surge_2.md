@@ -1,7 +1,7 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.26 (Ranked 916)  
+Rating: 4.26 (Ranked 917)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,15 +17,15 @@ Rating: 4.26 (Ranked 916)
 | Studied The Blade | 24.00% | ~615 |
 | Home Invasion | 22.00% | ~564 |
 | Luminary | 22.00% | ~564 |
+| True Survivor | 21.00% | ~538 |
 | It's a Trap | 21.00% | ~538 |
-| True Survivor | 20.00% | ~512 |
 | Offensive Defense | 20.00% | ~512 |
 | Shocking | 19.00% | ~487 |
 | Unforeseeable Consequences | 19.00% | ~487 |
 | Court Martial | 18.00% | ~461 |
 | Clean Cut | 18.00% | ~461 |
 | Dead Again | 17.00% | ~436 |
-| Full Arsenal | 16.00% | ~410 |
+| Full Arsenal | 17.00% | ~436 |
 | Can't Trust Banks | 15.00% | ~384 |
 | Mommy Dearest | 13.00% | ~333 |
 | Bad Dog | 13.00% | ~333 |
@@ -39,9 +39,9 @@ Rating: 4.26 (Ranked 916)
 | Triplets | 10.00% | ~256 |
 | A Little Banged Up | 8.00% | ~205 |
 | Denying Prophecy | 8.00% | ~205 |
+| Following In Their Footsteps | 8.00% | ~205 |
 | Defense in Depth | 8.00% | ~205 |
 | Reverse Engineering | 7.00% | ~179 |
-| Following In Their Footsteps | 7.00% | ~179 |
 | Remote Surgery | 6.00% | ~154 |
 | Turbo Booster | 6.00% | ~154 |
 | Squid Pro Quo | 6.00% | ~154 |

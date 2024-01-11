@@ -2,13 +2,13 @@
   "ID": "8a574ca3cbfc46c69ea8d3491932e973",
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
-  "Ranking_Rating": 904,
+  "Ranking_Rating": 905,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 292,
+  "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -355,7 +355,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1070,
+  "EOS_Progressed": 1071,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 0,
@@ -2620,6 +2620,11 @@
       "Time": "2024-01-11T04:08:57.4349289+00:00",
       "NumProgressed": 1070,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T05:08:57.7877475+00:00",
+      "NumProgressed": 1071,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2632,7 +2637,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "CareerAllChallenges",
@@ -2640,7 +2645,7 @@
       "Name": "Highballer",
       "Percentage": 60,
       "XP": 90,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "CareerChamp1",
@@ -2688,7 +2693,7 @@
       "Name": "Storm Warning",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "CollectVehiclesA",
@@ -2744,7 +2749,7 @@
       "Name": "Dirty Roller",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "PlayerRankB",
@@ -2791,7 +2796,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1070,
+      "Progressed": 1071,
       "Completed": 0
     }
   ],
@@ -2799,8 +2804,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-07T05:59:24.3409501+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:08:57.4349285+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:08:57.7877473+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:57:07.5676269+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:08:57.4349504+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:57:09.0646984+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:08:57.7877641+00:00"
 }

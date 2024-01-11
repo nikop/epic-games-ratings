@@ -4,8 +4,8 @@
   "ProductSlug": "colossal-cave-6f902f",
   "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 517,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 518,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-01-19T05:00:00+00:00",
     "PcReleaseDate": "2023-01-19T05:00:00+00:00",
@@ -210,25 +210,25 @@
       "ID": "01-OnlyJustBegun",
       "SetID": "5iij4gg",
       "Name": "We\u0027ve only just begun",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "02-YoureSpelunkinNow",
       "SetID": "5iij4gg",
       "Name": "You\u0027re spelunkin\u0027 now!",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "03-BirdmanOfTheCaves",
       "SetID": "5iij4gg",
       "Name": "The Birdman of The Caves",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "04-CharminTheSnake",
@@ -274,9 +274,9 @@
       "ID": "09-IveFallenAndICantGetUp",
       "SetID": "5iij4gg",
       "Name": "I\u0027ve Fallen \u0026 I Can\u0027t Get Up",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "10-BridgeBuilder",
@@ -411,8 +411,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:04:16.1777452+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:04:18.0667959+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.8592733+00:00",
-  "LastUpdate_Ratings": "2024-01-11T04:02:52.370876+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:04:16.1777628+00:00"
+  "LastUpdate_Ratings": "2024-01-11T05:02:53.2920057+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:04:18.0668108+00:00"
 }

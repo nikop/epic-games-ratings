@@ -2,12 +2,12 @@
   "ID": "213259527d2f41baa90cbe0ae5555271",
   "Name": "Dungeons 3",
   "ProductSlug": "dungeons-3",
-  "Ranking_Rating": 300,
+  "Ranking_Rating": 301,
   "Ranking_Popularity": 241,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -3609,7 +3609,7 @@
   ],
   "EOS_Progressed": 46552,
   "EOS_Completed": 372,
-  "EOS_NewPlayers": 726,
+  "EOS_NewPlayers": 724,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -33622,9 +33622,9 @@
       "ID": "ACH_D3_Campaign_Sacrifice_Completed",
       "SetID": "cda475f",
       "Name": "Damned good",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 14897
+      "UsersEstimate": 15362
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -33734,8 +33734,8 @@
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2024-01-10T14:57:56.2988599+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:05:24.8041643+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:05:26.0329763+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:50.2098276+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:57:54.9645438+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:05:24.8043452+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:57:56.4708915+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:05:26.0331241+00:00"
 }

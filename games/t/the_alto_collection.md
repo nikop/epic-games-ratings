@@ -1,7 +1,7 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.70 (Ranked 218)  
+Rating: 4.70 (Ranked 219)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,8 +11,8 @@ Number of Ratings: 332  (23.09.2022)
 | Nomad | 17.00% | ~9,241 |
 | Picking Up Speed | 15.00% | ~8,154 |
 | Welcome Maya | 14.00% | ~7,610 |
-| Scout | 11.00% | ~5,979 |
-| Sightseer | 11.00% | ~5,979 |
+| Scout | 11.00% | ~5,980 |
+| Sightseer | 11.00% | ~5,980 |
 | Amateur | 10.00% | ~5,436 |
 | Unlock Maya | 8.00% | ~4,349 |
 | Wanderer | 8.00% | ~4,349 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~54 |
 | Windswept | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,358 (Ranked 121)  
+Progressed: 54,360 (Ranked 121)  
 Completed: 5 (0.01%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 5 (0.01%) (Ranked 374)
 | 2024-01-08 | 54,073 | 5 |
 | 2024-01-09 | 54,193 | 5 |
 | 2024-01-10 | 54,339 | 5 |
-| 2024-01-11 | 54,358 | 5 |
+| 2024-01-11 | 54,360 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 51  (Ranked 455)  
 Sum: 396 (Ranked 357)  

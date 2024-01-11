@@ -2,7 +2,7 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 262,
+  "Ranking_Rating": 263,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
@@ -10722,9 +10722,9 @@
       "Count": 1088
     }
   ],
-  "EOS_Progressed": 132417,
+  "EOS_Progressed": 132419,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 850,
+  "EOS_NewPlayers": 845,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39297,6 +39297,11 @@
       "Time": "2024-01-11T04:09:52.3567578+00:00",
       "NumProgressed": 132417,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T05:09:53.7548749+00:00",
+      "NumProgressed": 132419,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39916,7 +39921,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -39939,21 +39944,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132417,
+      "Progressed": 132419,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7286,
+      "Progressed": 7288,
       "Completed": 824
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-11T01:49:24.3424413+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:09:52.3567573+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:09:53.7548748+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:59:13.5973196+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:09:52.3569339+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:59:15.6013959+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:09:53.7550517+00:00"
 }

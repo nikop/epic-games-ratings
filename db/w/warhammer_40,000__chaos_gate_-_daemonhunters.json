@@ -2,13 +2,13 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 470,
+  "Ranking_Rating": 471,
   "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -769,10 +769,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 500,
       "NumberOfAwardsMax": 233
+    },
+    {
+      "Time": "2024-01-11T05:03:08.5740842+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 502,
+      "NumberOfAwardsMax": 233
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 500,
+  "NumberOfAwards": 502,
   "NumberOfAwardsMax": 233,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -786,7 +792,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -804,7 +810,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Competitive Players",
@@ -839,7 +845,7 @@
   ],
   "EOS_Progressed": 3877,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6458,9 +6464,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
-  "LastChanged": "2024-01-07T22:03:18.1525827+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:05:20.0874975+00:00",
+  "LastChanged": "2024-01-11T05:03:08.5740841+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:05:21.3916252+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:54.2702622+00:00",
-  "LastUpdate_Ratings": "2024-01-11T04:03:08.822819+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:05:20.0875723+00:00"
+  "LastUpdate_Ratings": "2024-01-11T05:03:08.5740845+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:05:21.3917087+00:00"
 }

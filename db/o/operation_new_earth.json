@@ -2,13 +2,13 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_Rating": 1100,
+  "Ranking_Rating": 1101,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2213,
+  "EOS_Progressed": 2214,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8535,6 +8535,11 @@
       "Time": "2024-01-11T04:08:21.3301538+00:00",
       "NumProgressed": 2213,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T05:08:21.8051776+00:00",
+      "NumProgressed": 2214,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8552,9 +8557,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 155
     },
     {
       "ID": "ach_defeat_players_10",
@@ -8802,7 +8807,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -8849,7 +8854,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2213,
+      "Progressed": 2214,
       "Completed": 1
     }
   ],
@@ -8857,8 +8862,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:08:21.3301535+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:08:21.8051773+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:28.5639018+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:58:09.2777062+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:08:21.3302248+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:58:11.003402+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:08:21.8052289+00:00"
 }

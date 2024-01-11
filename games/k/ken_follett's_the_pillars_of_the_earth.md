@@ -1,17 +1,17 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 592)  
+Rating: 4.51 (Ranked 593)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 39.00% | ~6,930 |
+| Tattletale | 39.00% | ~6,931 |
 | Man of politics | 34.00% | ~6,042 |
 | Yet another secret | 33.00% | ~5,864 |
-| Friends of sorts | 32.00% | ~5,686 |
+| Friends of sorts | 32.00% | ~5,687 |
 | Let there be darkness | 31.00% | ~5,509 |
-| End of Book One | 29.00% | ~5,153 |
+| End of Book One | 29.00% | ~5,154 |
 | Wannabe knight | 23.00% | ~4,087 |
 | Garden of Eden | 23.00% | ~4,087 |
 | Full house | 23.00% | ~4,087 |
@@ -24,7 +24,7 @@ Number of Ratings: 368  (23.09.2022)
 | Twist of Fate | 14.00% | ~2,488 |
 | Jack was here! | 14.00% | ~2,488 |
 | Exterminator | 13.00% | ~2,310 |
-| Whodunnit | 12.00% | ~2,132 |
+| Whodunnit | 12.00% | ~2,133 |
 | Good midwife | 10.00% | ~1,777 |
 | Friar Tuck | 10.00% | ~1,777 |
 | First profit | 10.00% | ~1,777 |
@@ -38,9 +38,9 @@ Number of Ratings: 368  (23.09.2022)
 | A cry for help | 7.00% | ~1,244 |
 | Silentium est aureum | 7.00% | ~1,244 |
 | Rebel without a cause | 6.00% | ~1,066 |
-| Staring contest champion | 5.00% | ~888 |
-| Lone wolf | 5.00% | ~888 |
-| Vox Populi | 5.00% | ~888 |
+| Staring contest champion | 5.00% | ~889 |
+| Lone wolf | 5.00% | ~889 |
+| Vox Populi | 5.00% | ~889 |
 | Revenge | 4.00% | ~711 |
 | Countess Aliena | 4.00% | ~711 |
 | Care, like a brother cares | 3.00% | ~533 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~533 |
 | Boy of mystery | 2.00% | ~355 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,770 (Ranked 163)  
+Progressed: 17,771 (Ranked 163)  
 Completed: 125 (0.70%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 125 (0.70%) (Ranked 198)
 | 2024-01-08 | 17,727 | 125 |
 | 2024-01-09 | 17,744 | 125 |
 | 2024-01-10 | 17,768 | 125 |
-| 2024-01-11 | 17,770 | 125 |
+| 2024-01-11 | 17,771 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 327)  
 Sum: 200 (Ranked 418)  

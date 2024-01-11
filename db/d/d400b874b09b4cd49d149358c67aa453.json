@@ -4,8 +4,8 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -2682,9 +2682,9 @@
       "ID": "ACH_END_FIRST_MAIL_MISSION",
       "SetID": "al4k4nh",
       "Name": "I love customers",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 555
+      "UsersEstimate": 562
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -2849,8 +2849,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2024-01-11T04:06:21.7388292+00:00",
+  "LastChanged_Achievements": "2024-01-11T05:06:23.9374958+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:15.1835695+00:00",
-  "LastUpdate_Ratings": "2024-01-11T03:58:37.9493806+00:00",
-  "LastUpdate_Achievements": "2024-01-11T04:06:21.7388495+00:00"
+  "LastUpdate_Ratings": "2024-01-11T04:58:38.9431047+00:00",
+  "LastUpdate_Achievements": "2024-01-11T05:06:23.9375272+00:00"
 }
