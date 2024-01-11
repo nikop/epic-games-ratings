@@ -2,7 +2,7 @@
   "ID": "dba7dabb038f40209c6075de144754de",
   "Name": "ZZT!",
   "ProductSlug": "zzt",
-  "Ranking_EOS_Progress": 223,
+  "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 76,
   "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 80,
@@ -6587,8 +6587,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:08:56.3233927+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:08:56.2666431+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:13.5109674+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:57:36.9190904+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:08:56.3234278+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:57:44.3464737+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:08:56.266678+00:00"
 }

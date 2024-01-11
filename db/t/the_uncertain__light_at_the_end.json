@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 664,
+  "EOS_Progressed": 665,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -1374,6 +1374,11 @@
       "Time": "2024-01-11T09:05:19.0954875+00:00",
       "NumProgressed": 664,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-11T19:04:26.1622922+00:00",
+      "NumProgressed": 665,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1409,7 +1414,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "Doors_Closing",
@@ -1471,9 +1476,9 @@
       "ID": "Healthy_Child",
       "SetID": "ek310c",
       "Name": "Bundle of Joy",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 326
     },
     {
       "ID": "Hitman",
@@ -1505,7 +1510,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "Leisurely_Strol",
@@ -1577,7 +1582,7 @@
       "Name": "Catch You Later",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Party",
@@ -1616,7 +1621,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 664,
+      "Progressed": 665,
       "Completed": 6
     }
   ],
@@ -1624,8 +1629,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:04:26.1392645+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:04:26.1622919+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:57:00.9618312+00:00",
-  "LastUpdate_Ratings": "2024-01-11T18:03:20.6878633+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:04:26.1392861+00:00"
+  "LastUpdate_Ratings": "2024-01-11T19:03:18.9986159+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:04:26.1623314+00:00"
 }

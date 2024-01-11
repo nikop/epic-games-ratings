@@ -7,12 +7,12 @@ Number of Ratings: 124  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 43.00% | ~101 |
-| Best Buddy | 36.00% | ~85 |
+| Best Buddy | 37.00% | ~87 |
 | Civilian | 34.00% | ~80 |
 | Role Model | 31.00% | ~73 |
 | Creator | 28.00% | ~66 |
+| Military Leader | 26.00% | ~61 |
 | Festival-goer | 26.00% | ~61 |
-| Military Leader | 25.00% | ~59 |
 | Peddler | 24.00% | ~56 |
 | Commander | 20.00% | ~47 |
 | Irissa's Fate | 17.00% | ~40 |
@@ -36,9 +36,9 @@ Number of Ratings: 124  (23.09.2022)
 | Detective | 6.00% | ~14 |
 | Weaponsmith | 5.00% | ~12 |
 | Alchemist | 4.00% | ~9 |
+| Unbreakable | 4.00% | ~9 |
 | Self-Sufficient | 3.00% | ~7 |
 | Idealist | 3.00% | ~7 |
-| Unbreakable | 3.00% | ~7 |
 | Morkon | 3.00% | ~7 |
 | Legendary | 3.00% | ~7 |
 | Toy Time | 2.00% | ~5 |

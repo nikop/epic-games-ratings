@@ -5,9 +5,9 @@
   "Ranking_Rating": 1026,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 219,
+  "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3816,
+  "EOS_Progressed": 3817,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2332,6 +2332,11 @@
       "Time": "2024-01-11T03:04:58.8632064+00:00",
       "NumProgressed": 3816,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T19:05:29.2293316+00:00",
+      "NumProgressed": 3817,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2375,7 +2380,7 @@
       "Name": "Totally Intentional",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1755
+      "UsersEstimate": 1756
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -2407,7 +2412,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -2437,9 +2442,9 @@
       "ID": "GAMEOVER_FIRST_TIME",
       "SetID": "kakdpn",
       "Name": "Tale in the Toilet",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1107
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -2455,7 +2460,7 @@
       "Name": "We\u0027re In",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -2463,7 +2468,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1946
+      "UsersEstimate": 1947
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -2471,7 +2476,7 @@
       "Name": "You Poor Now!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -2519,7 +2524,7 @@
       "Name": "And Still Champion...",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "WIN_FIRST_VAULTLANDER_BATTLE",
@@ -2527,7 +2532,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -2535,7 +2540,7 @@
       "Name": "Murderous Mascot Mayhem",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "WISH_FOR_MORE_TACOS",
@@ -2550,7 +2555,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3816,
+      "Progressed": 3817,
       "Completed": 0
     }
   ],
@@ -2558,8 +2563,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:05:28.4822294+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:05:29.229331+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:34.4966642+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:58:44.5120858+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:05:28.4822973+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:58:52.3978362+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:05:29.2293515+00:00"
 }

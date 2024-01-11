@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 357,
+  "EOS_Progressed": 358,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.12,
+  "EOS_Completed_Percentage": 8.1,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -1574,6 +1574,11 @@
       "Time": "2024-01-11T15:05:29.2977022+00:00",
       "NumProgressed": 357,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-11T19:05:11.9265043+00:00",
+      "NumProgressed": 358,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 16,
@@ -1609,7 +1614,7 @@
       "Name": "Ducks adrift",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -1633,7 +1638,7 @@
       "Name": "Putting challenge",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -1649,7 +1654,7 @@
       "Name": "Family pond",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1657,7 +1662,7 @@
       "Name": "Make a wish",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1665,7 +1670,7 @@
       "Name": "Catch a flight",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1681,7 +1686,7 @@
       "Name": "Private pool",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1705,21 +1710,21 @@
       "Name": "Watery help",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 357,
+      "Progressed": 358,
       "Completed": 29
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:05:11.1500694+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:05:11.9265039+00:00",
   "LastUpdate_AppInfo": "2024-01-07T05:57:03.4341753+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:58:20.0471259+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:05:11.1500868+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:58:28.6076981+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:05:11.9265203+00:00"
 }

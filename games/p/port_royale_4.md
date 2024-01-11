@@ -11,7 +11,7 @@ Number of Ratings: 53  (23.09.2022)
 | Every beginning is difficult | 61.00% | ~744 |
 | Gofer | 55.00% | ~671 |
 | 3, 2, 1, mine | 54.00% | ~659 |
-| O Captain! My Captain! | 53.00% | ~647 |
+| O Captain! My Captain! | 54.00% | ~659 |
 | Seafarer | 50.00% | ~610 |
 | Greed for gold | 42.00% | ~512 |
 | Intangible | 40.00% | ~488 |

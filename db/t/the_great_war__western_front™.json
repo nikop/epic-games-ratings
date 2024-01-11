@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 932,
+  "EOS_Progressed": 933,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4041,6 +4041,11 @@
       "Time": "2024-01-11T18:05:22.2042572+00:00",
       "NumProgressed": 932,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T19:05:22.9117059+00:00",
+      "NumProgressed": 933,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -4116,7 +4121,7 @@
       "Name": "Earth Shattering",
       "Percentage": 44,
       "XP": 90,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -4132,7 +4137,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -4147,7 +4152,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 932,
+      "Progressed": 933,
       "Completed": 0
     }
   ],
@@ -4155,8 +4160,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2024-01-11T10:59:21.285993+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:05:22.2042566+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:05:22.9117055+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:07.6580361+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:59:24.3880324+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:05:22.2042936+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:59:32.3574174+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:05:22.911737+00:00"
 }

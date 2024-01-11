@@ -1,18 +1,18 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.63 (Ranked 358)  
+Rating: 4.63 (Ranked 356)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Azoria Beckons | 5.00% | ~450 |
 | A Thorny Situation | 4.00% | ~360 |
 | ... And Spit Back Out | 4.00% | ~360 |
+| Calm Sailing | 3.00% | ~270 |
 | Miner 49er | 3.00% | ~270 |
 | Break-Net Speed | 3.00% | ~270 |
 | Humble Collector | 3.00% | ~270 |
 | Bramble Breaker | 3.00% | ~270 |
-| Calm Sailing | 2.00% | ~180 |
 | Open the Gate! | 2.00% | ~180 |
 | Lumberjack | 2.00% | ~180 |
 | Mist Walker | 2.00% | ~180 |
@@ -29,8 +29,8 @@ Rating: 4.63 (Ranked 358)
 | Fae Farmer | 0.70% | ~63 |
 | Got to Catch Them All | 0.70% | ~63 |
 | Rumble in the Jumble | 0.70% | ~63 |
+| Fanatical Farmer | 0.70% | ~63 |
 | Scattered Scroll Scrounger | 0.60% | ~54 |
-| Fanatical Farmer | 0.60% | ~54 |
 | Azorian Hat Dance | 0.60% | ~10 |
 | I Now Pronounce You... | 0.40% | ~36 |
 | Chatty Neighbor | 0.40% | ~36 |

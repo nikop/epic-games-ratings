@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 52,
+  "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -473,9 +473,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 344147,
+  "EOS_Progressed": 344160,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3313,
+  "EOS_NewPlayers": 3304,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12998,6 +12998,11 @@
       "Time": "2024-01-11T18:08:58.6620618+00:00",
       "NumProgressed": 344147,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-11T19:08:58.5522376+00:00",
+      "NumProgressed": 344160,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -13010,7 +13015,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17207
+      "UsersEstimate": 17208
     },
     {
       "ID": "S02_BRDA",
@@ -13018,7 +13023,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10324
+      "UsersEstimate": 10325
     },
     {
       "ID": "S03_OTWA",
@@ -13026,7 +13031,7 @@
       "Name": "Rumors are true",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3441
+      "UsersEstimate": 3442
     },
     {
       "ID": "S04_BRDC",
@@ -13034,7 +13039,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3441
+      "UsersEstimate": 3442
     },
     {
       "ID": "S05_SWRA",
@@ -13146,7 +13151,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17207
+      "UsersEstimate": 17208
     },
     {
       "ID": "S19_CHALLENGES",
@@ -13202,7 +13207,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3441
+      "UsersEstimate": 3442
     },
     {
       "ID": "S26_CRTA",
@@ -13234,7 +13239,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3441
+      "UsersEstimate": 3442
     },
     {
       "ID": "S30_DIAMOND",
@@ -13329,7 +13334,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 344147,
+      "Progressed": 344160,
       "Completed": 7
     }
   ],
@@ -13337,8 +13342,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-07T09:59:57.3535769+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:08:58.6620614+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:08:58.5522372+00:00",
   "LastUpdate_AppInfo": "2024-01-04T23:57:04.1079824+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:57:19.9731259+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:08:58.6621441+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:57:27.6652547+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:08:58.5523129+00:00"
 }

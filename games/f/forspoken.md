@@ -7,7 +7,7 @@ Rating: 4.16 (Ranked 991)
 | ---- | ---------- | ----- |
 | Attachments | 13.00% | ~6,121 |
 | Unlocked Potential | 12.00% | ~5,650 |
-| Tinkerer | 9.00% | ~4,237 |
+| Tinkerer | 9.00% | ~4,238 |
 | Knock 'Em Dead | 8.00% | ~3,767 |
 | Pilgrimage: Initiate | 8.00% | ~3,767 |
 | Hell of a Run | 8.00% | ~3,767 |
@@ -19,9 +19,9 @@ Rating: 4.16 (Ranked 991)
 | Stuck | 5.00% | ~2,354 |
 | Help Me Out Here | 5.00% | ~2,354 |
 | The Interloper | 4.00% | ~1,883 |
-| Outdoorsperson | 3.00% | ~1,412 |
-| Hop, Step, Jump | 3.00% | ~1,412 |
-| Endless Runner | 3.00% | ~1,412 |
+| Outdoorsperson | 3.00% | ~1,413 |
+| Hop, Step, Jump | 3.00% | ~1,413 |
+| Endless Runner | 3.00% | ~1,413 |
 | What Must Be Done | 2.00% | ~942 |
 | Might and Main | 2.00% | ~942 |
 | Damned If You Do... | 2.00% | ~942 |
@@ -37,7 +37,7 @@ Rating: 4.16 (Ranked 991)
 | Wildfire | 0.80% | ~377 |
 | Awakening | 0.70% | ~330 |
 | Realized Potential | 0.70% | ~330 |
-| Explorer: Trailblazer | 0.60% | ~282 |
+| Explorer: Trailblazer | 0.60% | ~283 |
 | Through the Eyes of Another: Seer | 0.50% | ~235 |
 | Craftsperson | 0.40% | ~188 |
 | Archivist | 0.30% | ~141 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 991)
 | Remembrance | 0.10% | ~47 |
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,082 (Ranked 126)  
+Progressed: 47,086 (Ranked 126)  
 Completed: 4 (0.01%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 4 (0.01%) (Ranked 374)
 | 2024-01-08 | 46,825 | 4 |
 | 2024-01-09 | 46,925 | 4 |
 | 2024-01-10 | 47,035 | 4 |
-| 2024-01-11 | 47,082 | 4 |
+| 2024-01-11 | 47,086 | 4 |
 ## Awards
 Max (Character Customization): 47  (Ranked 468)  
 Sum: 69 (Ranked 492)  

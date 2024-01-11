@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 944,
+  "EOS_Progressed": 945,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.17,
+  "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -3285,6 +3285,11 @@
       "Time": "2024-01-11T18:08:57.3346108+00:00",
       "NumProgressed": 944,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-11T19:08:57.2317157+00:00",
+      "NumProgressed": 945,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3305,7 +3310,7 @@
       "Name": "Establish Communications",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_eou2",
@@ -3400,14 +3405,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 944,
+      "Progressed": 945,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:08:57.3346104+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:08:57.2317155+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:20.0779143+00:00",
-  "LastUpdate_Ratings": "2024-01-11T18:00:10.6195514+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:08:57.3346354+00:00"
+  "LastUpdate_Ratings": "2024-01-11T19:00:21.0981867+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:08:57.2317418+00:00"
 }

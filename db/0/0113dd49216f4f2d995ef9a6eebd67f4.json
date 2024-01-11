@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 269,
+  "EOS_Progressed": 270,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1209,6 +1209,11 @@
       "Time": "2024-01-11T14:09:06.2690486+00:00",
       "NumProgressed": 269,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T19:09:08.8217707+00:00",
+      "NumProgressed": 270,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1229,7 +1234,7 @@
       "Name": "Across The Styx",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -1269,7 +1274,7 @@
       "Name": "Brave On Time",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "SG_CHARISMATIC",
@@ -1291,9 +1296,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 192
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1395,9 +1400,9 @@
       "ID": "SG_SAYINGGOODBYE",
       "SetID": "bj5g0n4",
       "Name": "Saying Goodbye",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "SG_SHARETHISDANCE",
@@ -1516,14 +1521,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 269,
+      "Progressed": 270,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:09:09.1740423+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:09:08.8217701+00:00",
   "LastUpdate_AppInfo": "2024-01-04T19:57:19.3214389+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:57:14.2216374+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:09:09.1740846+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:57:21.7915909+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:09:08.8218002+00:00"
 }

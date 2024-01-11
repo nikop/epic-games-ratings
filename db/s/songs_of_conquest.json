@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -462,7 +462,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1135,
+  "EOS_Progressed": 1136,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
@@ -3957,6 +3957,11 @@
       "Time": "2024-01-11T12:09:21.3470237+00:00",
       "NumProgressed": 1135,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T19:09:20.8739685+00:00",
+      "NumProgressed": 1136,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3991,9 +3996,9 @@
       "ID": "ArtifactsEquipped",
       "SetID": "71c0n9i",
       "Name": "Dressed For Success",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 170
     },
     {
       "ID": "AttackCount",
@@ -4113,7 +4118,7 @@
       "Name": "Double Kill",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4273,7 +4278,7 @@
       "Name": "Landlord Extraordinaire",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "TrojanHorse",
@@ -4297,7 +4302,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "WielderLevel2",
@@ -4400,15 +4405,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1135,
+      "Progressed": 1136,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:09:21.2497476+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:09:20.8739681+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:58:09.091424+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:09:21.2498075+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:58:16.978149+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:09:20.8740234+00:00"
 }

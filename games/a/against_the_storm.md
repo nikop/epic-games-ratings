@@ -21,11 +21,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 5.00% | ~1,034 |
 | Frosts | 5.00% | ~1,034 |
 | Land of Greed | 5.00% | ~1,034 |
-| Homesick | 4.00% | ~827 |
-| Fertile Meadows | 4.00% | ~827 |
-| Monastery of the Holy Flame | 4.00% | ~827 |
-| Watchtower | 4.00% | ~827 |
-| A Real Challenge | 4.00% | ~827 |
+| Homesick | 4.00% | ~828 |
+| Fertile Meadows | 4.00% | ~828 |
+| Monastery of the Holy Flame | 4.00% | ~828 |
+| Watchtower | 4.00% | ~828 |
+| A Real Challenge | 4.00% | ~828 |
 | Ruined Armory | 3.00% | ~621 |
 | Bandit Camp | 3.00% | ~621 |
 | Ancient Battleground | 3.00% | ~621 |
@@ -51,8 +51,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Dangerous Lands | 1.00% | ~207 |
 | Forbidden Lands | 1.00% | ~207 |
 | Forsaken Gods Temple | 1.00% | ~207 |
-| Feeding The People | 0.80% | ~165 |
-| Like a Machine | 0.80% | ~165 |
+| Feeding The People | 0.80% | ~166 |
+| Like a Machine | 0.80% | ~166 |
 | Prestigious Expedition | 0.50% | ~103 |
 | Blood Flower Farmer | 0.50% | ~103 |
 | Fox Utopia | 0.50% | ~103 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,685 (Ranked 154)  
+Progressed: 20,690 (Ranked 154)  
 Completed: 34 (0.16%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,20 +332,20 @@ Completed: 34 (0.16%) (Ranked 286)
 | 2024-01-08 | 20,508 | 34 |
 | 2024-01-09 | 20,595 | 34 |
 | 2024-01-10 | 20,658 | 34 |
-| 2024-01-11 | 20,685 | 34 |
+| 2024-01-11 | 20,690 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
-Sum: 3,369 (Ranked 177)  
+Sum: 3,371 (Ranked 177)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 452 |
 | This game is Relaxing | 449 |
-| This game is Great for Beginners | 445 |
+| This game is Great for Beginners | 446 |
 | This game is Extremely Fun | 420 |
 | This game is Highly Recommended | 406 |
 | This game has Unique Visuals | 348 |
-| This game has Amazing Storytelling | 333 |
+| This game has Amazing Storytelling | 334 |
 | This game has Amazing Characters | 295 |
 | This game has Obsessive Gameplay | 254 |
 | This game has a Creative Community | 221 |
@@ -633,3 +633,4 @@ Diff (max vs sum): 56
 | 2024-01-08 | 4.82 | - | 452 | 3,361 |
 | 2024-01-09 | 4.82 | - | 452 | 3,364 |
 | 2024-01-10 | 4.82 | - | 452 | 3,369 |
+| 2024-01-11 | 4.82 | - | 452 | 3,371 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
@@ -881,9 +881,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 242633,
+  "EOS_Progressed": 242649,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1227,
+  "EOS_NewPlayers": 1235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20881,6 +20881,11 @@
       "Time": "2024-01-11T18:10:01.0154058+00:00",
       "NumProgressed": 242633,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T19:10:01.0342623+00:00",
+      "NumProgressed": 242649,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -20949,7 +20954,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50953
+      "UsersEstimate": 50956
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -20957,7 +20962,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21837
+      "UsersEstimate": 21838
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -20973,7 +20978,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9705
+      "UsersEstimate": 9706
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -21029,7 +21034,7 @@
       "Name": "Keepers of Sajuuk Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "HW2_MISSION11_COMPLETE",
@@ -21037,7 +21042,7 @@
       "Name": "Sacrifice Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "HW2_MISSION12_COMPLETE",
@@ -21053,7 +21058,7 @@
       "Name": "Balcora Gate Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "HW2_MISSION14_COMPLETE",
@@ -21077,7 +21082,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 33969
+      "UsersEstimate": 33971
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -21085,7 +21090,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16984
+      "UsersEstimate": 16985
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -21125,7 +21130,7 @@
       "Name": "Derelicts Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "HW2_MISSION8_COMPLETE",
@@ -21133,7 +21138,7 @@
       "Name": "Dreadnaught Berth Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1699
     },
     {
       "ID": "HW2_MISSION9_COMPLETE",
@@ -21149,7 +21154,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60658
+      "UsersEstimate": 60662
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -21164,7 +21169,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 242633,
+      "Progressed": 242649,
       "Completed": 0
     }
   ],
@@ -21172,8 +21177,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-10T03:59:20.6689228+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:10:01.0154056+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:10:01.034262+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:19.696761+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:59:27.9719115+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:10:01.0155262+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:59:36.4707056+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:10:01.0343766+00:00"
 }

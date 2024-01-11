@@ -5,9 +5,9 @@
   "Ranking_Rating": 1095,
   "Ranking_Popularity": 555,
   "Ranking_PopularitySum": 562,
-  "Ranking_EOS_Progress": 241,
+  "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -383,7 +383,7 @@
   ],
   "EOS_Progressed": 2363,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4639,9 +4639,9 @@
       "ID": "Achievement_030",
       "SetID": "6b34g18",
       "Name": "ICU",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 331
+      "UsersEstimate": 354
     },
     {
       "ID": "Achievement_031",
@@ -4952,8 +4952,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:08:21.4674385+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:08:21.0547463+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:57:33.1753514+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:08:21.4675104+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:57:40.7730134+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:08:21.0548166+00:00"
 }

@@ -1,7 +1,7 @@
 # The Invincible
 [Store](https://store.epicgames.com/en-US/p/the-invincible)  
 [View Rawdata](../../db/t/the_invincible.json)  
-Rating: 4.53 (Ranked 564)  
+Rating: 4.53 (Ranked 565)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,7 +11,7 @@ Rating: 4.53 (Ranked 564)
 | The field base | 45.00% | ~733 |
 | The Alliance | 42.00% | ~684 |
 | Survivors | 40.00% | ~652 |
-| The Condor | 37.00% | ~603 |
+| The Condor | 38.00% | ~619 |
 | The End | 37.00% | ~603 |
 | The Necroevolution | 29.00% | ~472 |
 | Krauta is alive | 28.00% | ~456 |
@@ -35,7 +35,7 @@ Rating: 4.53 (Ranked 564)
 | Convoy list | 0.90% | ~15 |
 | No more mistakes | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,629 (Ranked 264)  
+Progressed: 1,629 (Ranked 265)  
 Completed: 1 (0.06%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |

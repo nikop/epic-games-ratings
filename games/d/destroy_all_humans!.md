@@ -1,7 +1,7 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 358)  
+Rating: 4.63 (Ranked 356)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -31,8 +31,8 @@ Number of Ratings: 85  (23.09.2022)
 | Ouch of Body Experience | 16.00% | ~72 |
 | If You Know What I Mean | 16.00% | ~72 |
 | Die Nasty | 16.00% | ~72 |
+| Mash Machine | 16.00% | ~72 |
 | Hidden Human Hive Harvest | 15.00% | ~68 |
-| Mash Machine | 15.00% | ~68 |
 | Albion Bridge Is for Falling Down | 14.00% | ~63 |
 | Dusted | 13.00% | ~59 |
 | Scuttled | 11.00% | ~50 |

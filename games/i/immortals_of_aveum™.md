@@ -5,24 +5,24 @@ Rating: 4.19 (Ranked 973)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,928 |
-| Battlefields Have Memories | 81.00% | ~2,695 |
-| Enlisted | 74.00% | ~2,462 |
-| Maybe Engage a Little | 69.00% | ~2,296 |
-| No More Names | 52.00% | ~1,730 |
-| Initiate | 39.00% | ~1,298 |
-| Thrada-Kul | 35.00% | ~1,164 |
+| Unforeseen | 88.00% | ~2,930 |
+| Battlefields Have Memories | 81.00% | ~2,697 |
+| Enlisted | 74.00% | ~2,464 |
+| Maybe Engage a Little | 69.00% | ~2,298 |
+| No More Names | 52.00% | ~1,732 |
+| Initiate | 39.00% | ~1,299 |
+| Thrada-Kul | 35.00% | ~1,166 |
 | Gravity-Challenged Rocks | 28.00% | ~932 |
-| Socialite | 24.00% | ~798 |
-| Soldier | 24.00% | ~798 |
-| All the Major Food Groups | 24.00% | ~798 |
+| Socialite | 24.00% | ~799 |
+| Soldier | 24.00% | ~799 |
+| All the Major Food Groups | 24.00% | ~799 |
 | Beggars Would Ride | 21.00% | ~699 |
-| Control is an Illusion | 20.00% | ~665 |
+| Control is an Illusion | 20.00% | ~666 |
 | The Means to Save It | 18.00% | ~599 |
-| Resilience to Sin | 16.00% | ~532 |
-| A Familiar Nest | 16.00% | ~532 |
-| Geas Aristeya | 15.00% | ~499 |
-| Periapt Alizarin | 15.00% | ~499 |
+| Resilience to Sin | 16.00% | ~533 |
+| A Familiar Nest | 16.00% | ~533 |
+| Geas Aristeya | 15.00% | ~500 |
+| Periapt Alizarin | 15.00% | ~500 |
 | A Perfect Cycle | 14.00% | ~466 |
 | Recruit | 13.00% | ~433 |
 | Armsman | 11.00% | ~366 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 973)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,327 (Ranked 227)  
+Progressed: 3,330 (Ranked 228)  
 Completed: 4 (0.12%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 4 (0.12%) (Ranked 303)
 | 2024-01-08 | 3,129 | 4 |
 | 2024-01-09 | 3,204 | 4 |
 | 2024-01-10 | 3,285 | 4 |
-| 2024-01-11 | 3,327 | 4 |
+| 2024-01-11 | 3,330 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

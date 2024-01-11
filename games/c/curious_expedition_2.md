@@ -9,23 +9,23 @@ Number of Ratings: 20  (23.09.2022)
 | The Adventure Begins | 65.00% | ~278 |
 | Cartographer | 58.00% | ~248 |
 | A Strange Artefact | 54.00% | ~231 |
-| Insomnia | 49.00% | ~209 |
-| From Whence we Came | 44.00% | ~188 |
+| Insomnia | 49.00% | ~210 |
 | Lost & Found & Lost Again | 43.00% | ~184 |
+| From Whence we Came | 43.00% | ~184 |
 | Fire and Flood | 41.00% | ~175 |
-| Spooky! | 38.00% | ~162 |
-| Shennong Herbalist | 35.00% | ~149 |
-| Treasure Hunt | 35.00% | ~149 |
+| Spooky! | 38.00% | ~163 |
+| Shennong Herbalist | 35.00% | ~150 |
+| Treasure Hunt | 35.00% | ~150 |
 | Good Mama | 32.00% | ~137 |
-| O Captain My Captain | 31.00% | ~132 |
+| O Captain My Captain | 31.00% | ~133 |
 | Plunderer | 30.00% | ~128 |
-| Taxonomist | 27.00% | ~115 |
+| Taxonomist | 27.00% | ~116 |
 | Traveller | 25.00% | ~107 |
 | Uncertain Loyalties | 25.00% | ~107 |
 | Roll to Save | 23.00% | ~98 |
 | Nahua Seeker | 23.00% | ~98 |
 | Veteran Explorer | 22.00% | ~94 |
-| Red Flag Pirate | 20.00% | ~85 |
+| Red Flag Pirate | 20.00% | ~86 |
 | Iron Man | 17.00% | ~73 |
 | A Gentle Beast | 17.00% | ~73 |
 | Practical Palaeontology | 16.00% | ~68 |
@@ -41,7 +41,7 @@ Number of Ratings: 20  (23.09.2022)
 | Very Classy | 12.00% | ~51 |
 | Under the Table | 11.00% | ~47 |
 | It's Complicated | 11.00% | ~47 |
-| Cold Blood, Warm Heart | 9.00% | ~38 |
+| Cold Blood, Warm Heart | 9.00% | ~39 |
 | No Laughing Matter | 8.00% | ~34 |
 | The Great Library | 8.00% | ~34 |
 | Level Up | 8.00% | ~34 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | Pacifism Ain't Easy | 0.70% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427 (Ranked 367)  
+Progressed: 428 (Ranked 367)  
 Completed: 1 (0.23%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,6 +144,7 @@ Completed: 1 (0.23%) (Ranked 270)
 | 2024-01-08 | 418 | 1 |
 | 2024-01-09 | 420 | 1 |
 | 2024-01-10 | 427 | 1 |
+| 2024-01-11 | 428 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

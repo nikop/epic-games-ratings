@@ -2,12 +2,12 @@
   "ID": "2d2e05ea844c42dc80ef341d89542b16",
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
-  "Ranking_Rating": 784,
+  "Ranking_Rating": 783,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 233,
+  "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -8112,9 +8112,9 @@
       "ID": "A22",
       "SetID": "9b7p7eo",
       "Name": "Brainstorm",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1785
+      "UsersEstimate": 1812
     },
     {
       "ID": "A23",
@@ -8160,9 +8160,9 @@
       "ID": "A28",
       "SetID": "9b7p7eo",
       "Name": "We brake for nobody",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1866
     },
     {
       "ID": "A29",
@@ -8385,8 +8385,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2024-01-08T18:58:43.8865207+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:04:03.6154437+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:04:02.6937316+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.5860867+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:59:54.0056548+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:04:03.6155124+00:00"
+  "LastUpdate_Ratings": "2024-01-11T19:00:03.0982233+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:04:02.6938024+00:00"
 }

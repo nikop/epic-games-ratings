@@ -39,8 +39,8 @@ Rating: 4.77 (Ranked 117)
 | Whispers in the Woods III | 17.00% | ~582 |
 | My heart and sword always for Demacia | 17.00% | ~582 |
 | Friendly fire | 17.00% | ~582 |
+| True power | 17.00% | ~582 |
 | The Central Headquarters | 17.00% | ~582 |
-| True power | 16.00% | ~547 |
 | Meltridge | 16.00% | ~547 |
 | Cloven Dell Headquarters | 16.00% | ~547 |
 | Whispers in the Woods IV | 14.00% | ~479 |
@@ -59,7 +59,7 @@ Rating: 4.77 (Ranked 117)
 | Silverwing nest | 2.00% | ~68 |
 | The Unshackled | 1.00% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,421 (Ranked 225)  
+Progressed: 3,421 (Ranked 226)  
 Completed: 23 (0.67%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |

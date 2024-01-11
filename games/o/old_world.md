@@ -1,16 +1,16 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 322)  
+Rating: 4.65 (Ranked 321)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Explorer | 3.00% | ~493 |
 | Settler | 3.00% | ~493 |
 | Play a Single Player Game | 3.00% | ~493 |
 | Able | 2.00% | ~329 |
 | Architect | 2.00% | ~329 |
-| Explorer | 2.00% | ~329 |
 | Good | 2.00% | ~329 |
 | Intrepid | 2.00% | ~329 |
 | Just | 2.00% | ~329 |
@@ -23,6 +23,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 2.00% | ~329 |
 | Hanging Gardens | 2.00% | ~329 |
 | Oracle | 2.00% | ~329 |
+| Pyramids | 2.00% | ~329 |
 | Judaism | 2.00% | ~329 |
 | Trade Caravan | 2.00% | ~329 |
 | Ambitious | 1.00% | ~164 |
@@ -42,7 +43,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 1.00% | ~164 |
 | Lighthouse | 1.00% | ~164 |
 | Necropolis | 1.00% | ~164 |
-| Pyramids | 1.00% | ~164 |
 | Learn to Play 1 | 1.00% | ~164 |
 | Learn to Play 2 | 1.00% | ~164 |
 | Christianity | 1.00% | ~164 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,429 (Ranked 169)  
+Progressed: 16,432 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -631,7 +631,7 @@ Completed: 5 (0.03%) (Ranked 355)
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
-| 2024-01-11 | 16,429 | 5 |
+| 2024-01-11 | 16,432 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,920 (Ranked 224)  

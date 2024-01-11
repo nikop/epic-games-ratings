@@ -309,7 +309,7 @@
   ],
   "EOS_Progressed": 18394,
   "EOS_Completed": 316,
-  "EOS_NewPlayers": 844,
+  "EOS_NewPlayers": 841,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
@@ -9769,9 +9769,9 @@
       "ID": "NEW_ACHIEVEMENT_1_26",
       "SetID": "7opfcp",
       "Name": "Still Single",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4966
+      "UsersEstimate": 5150
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -9962,8 +9962,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-10T01:46:44.8636325+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:09:40.5191776+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:09:40.5366056+00:00",
   "LastUpdate_AppInfo": "2024-01-06T03:57:10.1244373+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:58:30.2011134+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:09:40.5192624+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:58:39.1580494+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:09:40.5366901+00:00"
 }

@@ -3831,10 +3831,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3369,
       "NumberOfAwardsMax": 452
+    },
+    {
+      "Time": "2024-01-11T18:59:12.0102617+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3371,
+      "NumberOfAwardsMax": 452
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3369,
+  "NumberOfAwards": 3371,
   "NumberOfAwardsMax": 452,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3872,7 +3878,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 445
+      "Count": 446
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3884,7 +3890,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 333
+      "Count": 334
     },
     {
       "Text": "This game has a Creative Community",
@@ -3899,9 +3905,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 20685,
+  "EOS_Progressed": 20690,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 561,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19309,6 +19315,11 @@
       "Time": "2024-01-11T18:05:17.8636557+00:00",
       "NumProgressed": 20685,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-11T19:05:18.6269406+00:00",
+      "NumProgressed": 20690,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19329,7 +19340,7 @@
       "Name": "Feeding The People",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "AllNeeds",
@@ -19401,7 +19412,7 @@
       "Name": "Homesick",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "WinFirstGame",
@@ -19481,7 +19492,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "WinNearFishmen",
@@ -19529,7 +19540,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "WinNearOutpost",
@@ -19577,7 +19588,7 @@
       "Name": "Watchtower",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "WinOnCoral",
@@ -19633,7 +19644,7 @@
       "Name": "A Real Challenge",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "WinWIthCaches",
@@ -19681,7 +19692,7 @@
       "Name": "Like a Machine",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -19792,15 +19803,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20685,
+      "Progressed": 20690,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-10T21:58:45.168716+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:05:17.8636554+00:00",
+  "LastChanged": "2024-01-11T18:59:12.0102616+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:05:18.6269401+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:59:03.8228839+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:05:17.8637644+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:59:12.0102621+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:05:18.6270473+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewPlayers": 391,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 770,
+  "EOS_Progressed": 771,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2760,6 +2760,11 @@
       "Time": "2024-01-08T19:10:05.9320299+00:00",
       "NumProgressed": 770,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T19:10:10.7963873+00:00",
+      "NumProgressed": 771,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2899,7 +2904,7 @@
       "Name": "Collectibles of Chapter I",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_COLL_CH02",
@@ -2907,7 +2912,7 @@
       "Name": "Collectibles of Chapter II",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_COLL_CH03",
@@ -3011,7 +3016,7 @@
       "Name": "The Motivation",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -3051,7 +3056,7 @@
       "Name": "The Difference",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_FIN_CH09",
@@ -3067,7 +3072,7 @@
       "Name": "Broken Hopes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_FIN_CH11",
@@ -3097,9 +3102,9 @@
       "ID": "ACH_HARD_ALL",
       "SetID": "1j25agn",
       "Name": "Piece of Cake",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 46
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_HEAL",
@@ -3115,7 +3120,7 @@
       "Name": "Missing in Action",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -3123,7 +3128,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_JOACHIM_FATE2",
@@ -3163,7 +3168,7 @@
       "Name": "It\u0027s Just an Accident",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_KILL_FRAG",
@@ -3179,7 +3184,7 @@
       "Name": "Eat Lead!",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -3242,15 +3247,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 770,
+      "Progressed": 771,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:10:10.7227586+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:10:10.7963869+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:07.8864884+00:00",
-  "LastUpdate_Ratings": "2024-01-11T18:02:37.4444516+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:10:10.7228128+00:00"
+  "LastUpdate_Ratings": "2024-01-11T19:02:35.9885389+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:10:10.7964353+00:00"
 }

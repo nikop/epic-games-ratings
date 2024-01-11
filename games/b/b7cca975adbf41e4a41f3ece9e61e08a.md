@@ -21,8 +21,8 @@ Rating: 4.69 (Ranked 238)
 | FIRST LOVE | 30.00% | ~5,518 |
 | Worthless Speech | 30.00% | ~5,518 |
 | Absolutely Elegant | 28.00% | ~5,150 |
+| Still Single | 28.00% | ~5,150 |
 | ONE PUNCH | 28.00% | ~5,150 |
-| Still Single | 27.00% | ~4,966 |
 | Days Of Innocence | 26.00% | ~4,782 |
 | David | 26.00% | ~4,782 |
 | Go Get Some Fries On The Pier | 25.00% | ~4,598 |

@@ -2,7 +2,7 @@
   "ID": "b3d490d845c040ee82fd02f400ab0efc",
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
-  "Ranking_Rating": 358,
+  "Ranking_Rating": 356,
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 300,
@@ -347,9 +347,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 948,
+  "EOS_Progressed": 950,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -2532,6 +2532,11 @@
       "Time": "2024-01-11T17:05:53.9022206+00:00",
       "NumProgressed": 948,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-11T19:04:17.3330083+00:00",
+      "NumProgressed": 950,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2568,7 +2573,7 @@
       "Name": "100% SpongeBob",
       "Percentage": 1,
       "XP": 200,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_DONT_EAT_THE_SAND",
@@ -2592,7 +2597,7 @@
       "Name": "Ship Shape",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_FIND_BB_SPATULAS",
@@ -2608,7 +2613,7 @@
       "Name": "Shanghaied",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_JELLYFISHING",
@@ -2616,7 +2621,7 @@
       "Name": "Jellyfishing",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -2624,7 +2629,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -2632,7 +2637,7 @@
       "Name": "Kelp Forest of Fear",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_MERMALAIR",
@@ -2664,7 +2669,7 @@
       "Name": "Sweet Victory",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -2704,7 +2709,7 @@
       "Name": "Sock Opera",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_STAT_100_SPATULA_SEEKER",
@@ -2712,7 +2717,7 @@
       "Name": "Super Ultra Mega Spatula Seeker",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_STAT_25_SPATULA_SEEKER",
@@ -2744,7 +2749,7 @@
       "Name": "Sock Getter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -2792,22 +2797,22 @@
       "Name": "Time For Tutorial",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 948,
+      "Progressed": 950,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-09T20:57:04.6643475+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:04:18.0629804+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:04:17.3330079+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:58:04.1025129+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:04:18.0630137+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:58:11.7696258+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:04:17.3330361+00:00"
 }

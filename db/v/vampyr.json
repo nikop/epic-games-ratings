@@ -4,7 +4,7 @@
   "ProductSlug": "vampyr",
   "Ranking_Rating": 859,
   "Ranking_Popularity": 213,
-  "Ranking_PopularitySum": 301,
+  "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 585,
@@ -1469,10 +1469,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 771,
       "NumberOfAwardsMax": 588
+    },
+    {
+      "Time": "2024-01-11T18:58:52.65741+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 773,
+      "NumberOfAwardsMax": 588
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 771,
+  "NumberOfAwards": 773,
   "NumberOfAwardsMax": 588,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1522,7 +1528,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 25
+      "Count": 27
     },
     {
       "Text": "This game is Relaxing",
@@ -1542,8 +1548,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:20.3532845+00:00",
-  "LastChanged": "2024-01-08T13:02:06.1224031+00:00",
+  "LastChanged": "2024-01-11T18:58:52.6574098+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:34.0888196+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:58:44.7675339+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:04:58.4023296+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:58:52.6574102+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:04:58.6777511+00:00"
 }

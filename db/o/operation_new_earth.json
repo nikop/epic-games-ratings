@@ -5,7 +5,7 @@
   "Ranking_Rating": 1101,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 247,
+  "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 338,
   "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 155,
@@ -8577,9 +8577,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 178
     },
     {
       "ID": "ach_defeat_players_10",
@@ -8882,8 +8882,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-12-25T23:58:10.3014256+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:08:24.7040246+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:08:24.2861698+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:28.5639018+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:58:34.1862836+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:08:24.7040878+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:58:42.2399316+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:08:24.2862482+00:00"
 }

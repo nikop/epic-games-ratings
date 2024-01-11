@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 59.00% | ~195 |
-| Chest ✔ | 55.00% | ~182 |
-| Inventory ✔ | 54.00% | ~178 |
+| Fright ✔ | 60.00% | ~199 |
+| Inventory ✔ | 54.00% | ~179 |
+| Chest ✔ | 54.00% | ~179 |
 | Police officers ✔ | 29.00% | ~96 |
 | Mutation ✔ | 26.00% | ~86 |
 | Doberman ✔ | 15.00% | ~50 |
-| Weapon ✔ | 12.00% | ~40 |
+| Weapon ✔ | 11.00% | ~36 |
 | Chess ✔ | 10.00% | ~33 |
 | Master of Unlocking ✔ | 9.00% | ~30 |
 | Survival ✔ | 8.00% | ~26 |
@@ -22,12 +22,12 @@
 | Betty ✔ | 6.00% | ~20 |
 | Cheats ✔ | 6.00% | ~20 |
 | King of survival ✔ | 6.00% | ~20 |
-| Boss 1 ✔ | 5.00% | ~16 |
-| Alice ✔ | 5.00% | ~16 |
-| Brain ✔ | 5.00% | ~16 |
-| Eva ✔ | 5.00% | ~16 |
-| Food ✔ | 5.00% | ~16 |
-| All secrets revealed ✔ | 5.00% | ~16 |
+| Boss 1 ✔ | 5.00% | ~17 |
+| Alice ✔ | 5.00% | ~17 |
+| Brain ✔ | 5.00% | ~17 |
+| Eva ✔ | 5.00% | ~17 |
+| Food ✔ | 5.00% | ~17 |
+| All secrets revealed ✔ | 5.00% | ~17 |
 | Group Alpha ✔ | 4.00% | ~13 |
 | Mutant fight ✔ | 4.00% | ~13 |
 | Mutant run ✔ | 4.00% | ~13 |
@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.30% | ~1 |
 | Rank A+ ✔ | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 330 (Ranked 388)  
+Progressed: 331 (Ranked 388)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 326 | 0 |
 | 2024-01-09 | 328 | 0 |
 | 2024-01-10 | 329 | 0 |
-| 2024-01-11 | 330 | 0 |
+| 2024-01-11 | 331 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

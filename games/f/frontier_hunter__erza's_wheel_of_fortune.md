@@ -37,7 +37,7 @@ Rating: 4.38 (Ranked 794)
 | Berserker Slayer | 11.00% | ~82 |
 | Giantess Slayer | 10.00% | ~75 |
 | Warden Slayer | 10.00% | ~75 |
-| Master Cook | 8.00% | ~60 |
+| Master Cook | 9.00% | ~67 |
 | Silver Moon Wolf King Challenge | 4.00% | ~30 |
 | Blade Mantis Challenge | 3.00% | ~22 |
 | Flying Kobold Challenge | 3.00% | ~22 |

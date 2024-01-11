@@ -2,9 +2,9 @@
   "ID": "6c79fa8a8e2849e58b605f233c20a889",
   "Name": "Feud",
   "ProductSlug": "feud-19b141",
-  "Ranking_EOS_Progress": 228,
+  "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 355,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3216,
+  "EOS_Progressed": 3217,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8814,6 +8814,11 @@
       "Time": "2024-01-11T17:11:29.0501581+00:00",
       "NumProgressed": 3216,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T19:09:56.7856522+00:00",
+      "NumProgressed": 3217,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -8857,7 +8862,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -8905,7 +8910,7 @@
       "Name": "Novice",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "GLOVE_SLAP",
@@ -8961,7 +8966,7 @@
       "Name": "Knight Commander",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "MEDIC_MASTERY",
@@ -9000,14 +9005,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 3216,
+      "Progressed": 3217,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:09:56.912953+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:09:56.7856518+00:00",
   "LastUpdate_AppInfo": "2024-01-10T10:57:40.6079481+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:59:53.8561458+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:09:56.9129957+00:00"
+  "LastUpdate_Ratings": "2024-01-11T19:00:02.9160918+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:09:56.7857246+00:00"
 }

@@ -27,8 +27,8 @@
 | You've awakened the beast | 16.00% | ~15 |
 | Hate is... addictive | 16.00% | ~15 |
 | Kirlian's best disciple | 15.00% | ~14 |
+| Blessed antennas | 14.00% | ~13 |
 | The bully | 14.00% | ~13 |
-| Blessed antennas | 13.00% | ~12 |
 | Blood Red Island | 12.00% | ~11 |
 | Bread and bocaua | 12.00% | ~11 |
 | Fanatacism is... poisonous | 12.00% | ~11 |

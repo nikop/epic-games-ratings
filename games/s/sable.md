@@ -1,21 +1,21 @@
 # Sable
 [Store](https://store.epicgames.com/en-US/p/sable)  
 [View Rawdata](../../db/s/sable.json)  
-Rating: 4.53 (Ranked 564)  
+Rating: 4.53 (Ranked 565)  
 Number of Ratings: 43  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~37,510 |
-| Just The Two of Us | 32.00% | ~35,304 |
-| Up On High | 25.00% | ~27,581 |
-| Under The Hood | 25.00% | ~27,581 |
+| Simoon | 34.00% | ~37,511 |
+| Just The Two of Us | 32.00% | ~35,305 |
+| Up On High | 25.00% | ~27,582 |
+| Under The Hood | 25.00% | ~27,582 |
 | Got Your Nose | 24.00% | ~26,478 |
 | The Gift of Gab | 24.00% | ~26,478 |
 | Wrapping Up | 22.00% | ~24,272 |
-| More Than A Box Of Sand | 18.00% | ~19,858 |
-| The Dunboyne | 17.00% | ~18,755 |
-| Badge Hobbyist | 17.00% | ~18,755 |
+| More Than A Box Of Sand | 18.00% | ~19,859 |
+| The Dunboyne | 17.00% | ~18,756 |
+| Badge Hobbyist | 17.00% | ~18,756 |
 | Chum Novice | 16.00% | ~17,652 |
 | Silver-Tongued Sable | 16.00% | ~17,652 |
 | Sticky Paws | 16.00% | ~17,652 |
@@ -23,17 +23,17 @@ Number of Ratings: 43  (23.09.2022)
 | Thread The Needle | 15.00% | ~16,549 |
 | Power to the People | 14.00% | ~15,446 |
 | Nesting Giant | 14.00% | ~15,446 |
-| Take That! | 13.00% | ~14,342 |
-| Treasure Tracker | 13.00% | ~14,342 |
-| Big Spender | 13.00% | ~14,342 |
+| Take That! | 13.00% | ~14,343 |
+| Treasure Tracker | 13.00% | ~14,343 |
+| Big Spender | 13.00% | ~14,343 |
 | Badge Collector | 12.00% | ~13,239 |
 | Quite The Catch | 12.00% | ~13,239 |
 | Rowleys Way | 11.00% | ~12,136 |
-| The Machinist Mask | 10.00% | ~11,032 |
-| The Cartographer Mask | 10.00% | ~11,032 |
-| Balfron Connection | 10.00% | ~11,032 |
-| Ceiling Of Stars | 10.00% | ~11,032 |
-| Playing Dress Up | 10.00% | ~11,032 |
+| The Machinist Mask | 10.00% | ~11,033 |
+| The Cartographer Mask | 10.00% | ~11,033 |
+| Balfron Connection | 10.00% | ~11,033 |
+| Ceiling Of Stars | 10.00% | ~11,033 |
+| Playing Dress Up | 10.00% | ~11,033 |
 | Many Different Faces | 9.00% | ~9,929 |
 | Trellick's Pillar | 9.00% | ~9,929 |
 | Centre Of Brunswick | 9.00% | ~9,929 |
@@ -61,9 +61,9 @@ Number of Ratings: 43  (23.09.2022)
 | Chum Expert | 3.00% | ~3,310 |
 | Gastric Bypass | 3.00% | ~3,310 |
 | The Angler Mask | 3.00% | ~3,310 |
-| Vivacious Vivarium | 2.00% | ~2,206 |
+| Vivacious Vivarium | 2.00% | ~2,207 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110,325 (Ranked 97)  
+Progressed: 110,327 (Ranked 97)  
 Completed: 1,123 (1.02%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 1,123 (1.02%) (Ranked 177)
 | 2024-01-08 | 109,913 | 1,116 |
 | 2024-01-09 | 110,076 | 1,117 |
 | 2024-01-10 | 110,218 | 1,120 |
-| 2024-01-11 | 110,325 | 1,123 |
+| 2024-01-11 | 110,327 | 1,123 |
 ## Awards
 Max (Extremely Fun): 30  (Ranked 522)  
 Sum: 151 (Ranked 441)  

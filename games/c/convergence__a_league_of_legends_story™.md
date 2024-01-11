@@ -5,9 +5,9 @@ Rating: 4.69 (Ranked 238)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 46.00% | ~599 |
-| Rail Rat | 35.00% | ~456 |
-| The Mysterious Stranger | 34.00% | ~443 |
+| Time Heals All Wounds | 46.00% | ~600 |
+| Rail Rat | 35.00% | ~457 |
+| The Mysterious Stranger | 34.00% | ~444 |
 | Immaculate Aim | 29.00% | ~378 |
 | The Brass Boss | 28.00% | ~365 |
 | Time Flies | 27.00% | ~352 |
@@ -18,28 +18,28 @@ Rating: 4.69 (Ranked 238)
 | Honest Mistake | 26.00% | ~339 |
 | Immaculate Aim | 26.00% | ~339 |
 | Fast Learner | 25.00% | ~326 |
-| The Steel Shadow | 24.00% | ~312 |
-| Right On Time | 23.00% | ~299 |
-| Breaking Down Barriers | 23.00% | ~299 |
-| The Wicked Twins | 23.00% | ~299 |
-| Like Clockwork | 22.00% | ~286 |
-| The Betrayer | 22.00% | ~286 |
-| Golem Chaser | 22.00% | ~286 |
-| Check Your Pulse | 20.00% | ~260 |
-| The Loose Cannon | 19.00% | ~247 |
-| Street Style | 18.00% | ~234 |
-| The Man Who Shattered Time | 18.00% | ~234 |
-| The Family Fortune | 18.00% | ~234 |
-| Whiz Kid | 15.00% | ~195 |
-| Good Neighbor | 15.00% | ~195 |
-| Family Memories | 14.00% | ~182 |
-| Chaincrawler Explorer | 13.00% | ~169 |
-| Syron for Hope | 13.00% | ~169 |
-| Ask Questions Later | 13.00% | ~169 |
-| Treasure Trove | 12.00% | ~156 |
-| Cartographer | 12.00% | ~156 |
-| Sump Explorer | 12.00% | ~156 |
-| Factorywood Explorer | 11.00% | ~143 |
+| The Steel Shadow | 24.00% | ~313 |
+| Right On Time | 23.00% | ~300 |
+| Breaking Down Barriers | 23.00% | ~300 |
+| The Wicked Twins | 23.00% | ~300 |
+| Like Clockwork | 22.00% | ~287 |
+| The Betrayer | 22.00% | ~287 |
+| Golem Chaser | 22.00% | ~287 |
+| Check Your Pulse | 20.00% | ~261 |
+| The Loose Cannon | 19.00% | ~248 |
+| Street Style | 18.00% | ~235 |
+| The Man Who Shattered Time | 18.00% | ~235 |
+| The Family Fortune | 18.00% | ~235 |
+| Whiz Kid | 15.00% | ~196 |
+| Good Neighbor | 15.00% | ~196 |
+| Family Memories | 14.00% | ~183 |
+| Chaincrawler Explorer | 13.00% | ~170 |
+| Ask Questions Later | 13.00% | ~170 |
+| Treasure Trove | 12.00% | ~157 |
+| Cartographer | 12.00% | ~157 |
+| Sump Explorer | 12.00% | ~157 |
+| Syron for Hope | 12.00% | ~157 |
+| Factorywood Explorer | 10.00% | ~130 |
 | Fairgrounds Explorer | 10.00% | ~130 |
 | Theater Explorer | 10.00% | ~130 |
 | Cultivair Explorer | 9.00% | ~117 |
@@ -59,7 +59,7 @@ Rating: 4.69 (Ranked 238)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.50% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,302 (Ranked 281)  
+Progressed: 1,305 (Ranked 281)  
 Completed: 7 (0.54%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 7 (0.54%) (Ranked 216)
 | 2024-01-08 | 1,278 | 7 |
 | 2024-01-09 | 1,289 | 7 |
 | 2024-01-10 | 1,300 | 7 |
-| 2024-01-11 | 1,302 | 7 |
+| 2024-01-11 | 1,305 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

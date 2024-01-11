@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 317,
+  "EOS_Progressed": 318,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1414,6 +1414,11 @@
       "Time": "2024-01-11T15:08:55.1249352+00:00",
       "NumProgressed": 317,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T19:08:56.7038265+00:00",
+      "NumProgressed": 318,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1424,9 +1429,9 @@
       "ID": "a_new_way",
       "SetID": "f2im8d",
       "Name": "A new way",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 25
     },
     {
       "ID": "another_perspective",
@@ -1506,7 +1511,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "decrypt_one_myth",
@@ -1538,7 +1543,7 @@
       "Name": "Do what you have to",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "earn_all_trophies",
@@ -1576,9 +1581,9 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 165
     },
     {
       "ID": "find_one_photo",
@@ -1600,9 +1605,9 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 156
     },
     {
       "ID": "finished_it",
@@ -1610,7 +1615,7 @@
       "Name": "Finished it",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "first_step",
@@ -1672,9 +1677,9 @@
       "ID": "lights_camera_action",
       "SetID": "f2im8d",
       "Name": "Lights! Camera! Action!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "once_upon_a_time",
@@ -1698,7 +1703,7 @@
       "Name": "A piece of the story",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "playtime",
@@ -1824,9 +1829,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 172
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1841,14 +1846,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 317,
+      "Progressed": 318,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:08:56.7672928+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:08:56.7038261+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:37.800715+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:58:53.464225+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:08:56.7673366+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:59:00.9039462+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:08:56.7038849+00:00"
 }

@@ -5,49 +5,49 @@ Rating: 4.75 (Ranked 147)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 89.00% | ~675 |
-| Thalya – Simply Immortal | 88.00% | ~667 |
+| The Last Stand | 88.00% | ~668 |
+| Thalya – Simply Immortal | 88.00% | ~668 |
 | For the Horde! | 82.00% | ~622 |
-| Hammer Time, Round Two | 81.00% | ~614 |
+| Hammer Time, Round Two | 81.00% | ~615 |
 | The Hellwoods | 77.00% | ~584 |
 | The Plains of Strothalm | 72.00% | ~546 |
-| Experienced Thalya | 72.00% | ~546 |
-| Bad Elves Go Everywhere | 69.00% | ~523 |
-| Thalya's Concentrated Fury | 68.00% | ~515 |
+| Experienced Thalya | 71.00% | ~539 |
+| Bad Elves Go Everywhere | 69.00% | ~524 |
+| Thalya's Concentrated Fury | 68.00% | ~516 |
 | Heroes’ Gorge | 65.00% | ~493 |
 | Unicorn steaks – fresh off the hoof! | 63.00% | ~478 |
-| Master of Magic | 62.00% | ~470 |
-| Magic Accidents | 59.00% | ~447 |
-| The Ascent | 59.00% | ~447 |
-| It's Warm and Cozy at Home | 59.00% | ~447 |
-| Trap Master | 56.00% | ~424 |
-| Minions, Minions! | 56.00% | ~424 |
+| Master of Magic | 62.00% | ~471 |
+| The Ascent | 59.00% | ~448 |
+| It's Warm and Cozy at Home | 59.00% | ~448 |
+| Magic Accidents | 58.00% | ~440 |
+| Trap Master | 56.00% | ~425 |
+| Minions, Minions! | 55.00% | ~417 |
 | Hard Work | 55.00% | ~417 |
 | The Big Eaty | 55.00% | ~417 |
 | “… like son” | 53.00% | ~402 |
 | YOU SHALL NOT PASS! | 51.00% | ~387 |
-| The Cathedral of Light | 49.00% | ~371 |
+| The Cathedral of Light | 49.00% | ~372 |
 | Shame! Shame! Shame! | 48.00% | ~364 |
-| Tanos' Crusade Against Thalya | 47.00% | ~356 |
+| Tanos' Crusade Against Thalya | 47.00% | ~357 |
 | Dungeonlord Gorgu | 46.00% | ~349 |
-| Pure Dynamite! | 45.00% | ~341 |
+| Pure Dynamite! | 45.00% | ~342 |
 | All’s Well That Ends Evil | 43.00% | ~326 |
-| Mana Cannon | 42.00% | ~318 |
-| The Duel | 40.00% | ~303 |
-| If Looks Could Kill | 37.00% | ~280 |
+| Mana Cannon | 42.00% | ~319 |
+| The Duel | 40.00% | ~304 |
+| If Looks Could Kill | 37.00% | ~281 |
 | Unstoppable Horde | 36.00% | ~273 |
 | Master of the Undead | 36.00% | ~273 |
-| The Finitude Drill | 35.00% | ~265 |
+| The Finitude Drill | 35.00% | ~266 |
 | Ghost Pirates? Ghost Heroes! | 31.00% | ~235 |
 | Doom Hill | 31.00% | ~235 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 29.00% | ~220 |
 | Forbidden Knowledge | 29.00% | ~220 |
 | Brimstone Shaken, Not Stirred | 29.00% | ~220 |
-| Hungry, Hungry Gorgu! | 28.00% | ~212 |
-| Stop Tanos! | 28.00% | ~212 |
-| Sabotage! | 28.00% | ~212 |
-| Raiders of the Lost Stone | 28.00% | ~212 |
-| The Rune Sockets of Finitude (Part 1) | 28.00% | ~212 |
+| Hungry, Hungry Gorgu! | 28.00% | ~213 |
+| Stop Tanos! | 28.00% | ~213 |
+| Sabotage! | 28.00% | ~213 |
+| Raiders of the Lost Stone | 28.00% | ~213 |
+| The Rune Sockets of Finitude (Part 1) | 28.00% | ~213 |
 | Bonus Evilness | 26.00% | ~197 |
 | The Rune Sockets of Finitude (Part 2) | 26.00% | ~197 |
 | The Last Stand - This Time For Real! | 25.00% | ~190 |
@@ -57,8 +57,8 @@ Rating: 4.75 (Ranked 147)
 | To the Max! | 19.00% | ~144 |
 | To Infinity And Beyond! | 19.00% | ~144 |
 | Evilification | 19.00% | ~144 |
-| Sacrificial Pit = Garbage Disposal? | 18.00% | ~136 |
-| Heal Heal Blessing | 18.00% | ~136 |
+| Sacrificial Pit = Garbage Disposal? | 18.00% | ~137 |
+| Heal Heal Blessing | 18.00% | ~137 |
 | Mirror, Mirror | 17.00% | ~129 |
 | Untouchable | 17.00% | ~129 |
 | Hands Off My Stones | 15.00% | ~114 |
@@ -67,8 +67,8 @@ Rating: 4.75 (Ranked 147)
 | No Mana, No Cry | 11.00% | ~83 |
 | I Don't Need Any Help | 10.00% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 758 (Ranked 318)  
-Completed: 31 (4.09%) (Ranked 91)  
+Progressed: 759 (Ranked 318)  
+Completed: 31 (4.08%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -134,7 +134,7 @@ Completed: 31 (4.09%) (Ranked 91)
 | 2024-01-08 | 746 | 31 |
 | 2024-01-09 | 749 | 31 |
 | 2024-01-10 | 755 | 31 |
-| 2024-01-11 | 758 | 31 |
+| 2024-01-11 | 759 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -20,9 +20,9 @@
 | Up, Up And Away! | 33.00% | ~87 |
 | Whoa! | 30.00% | ~80 |
 | Botropolis | 27.00% | ~72 |
+| Manic Mechanic | 20.00% | ~53 |
 | Steam Powered | 20.00% | ~53 |
 | Steaming Rich | 20.00% | ~53 |
-| Manic Mechanic | 19.00% | ~50 |
 | Room To Spare | 15.00% | ~40 |
 | Click 'Em All | 7.00% | ~19 |
 | Accustomed Customer | 5.00% | ~13 |

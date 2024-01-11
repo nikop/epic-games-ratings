@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 517,
+  "EOS_Progressed": 518,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1710,6 +1710,11 @@
       "Time": "2024-01-11T08:05:16.1358532+00:00",
       "NumProgressed": 517,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T19:05:16.5998254+00:00",
+      "NumProgressed": 518,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1871,9 +1876,9 @@
       "ID": "ach_consultants_a",
       "SetID": "b8gh1fi",
       "Name": "Aestheticly Pleased",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_consultants_b",
@@ -2025,7 +2030,7 @@
       "Name": "Starting Skyward",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ach_floors_1",
@@ -2057,7 +2062,7 @@
       "Name": "Grime is Not Good",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ach_grime_1",
@@ -2089,7 +2094,7 @@
       "Name": "Don\u0027t Feel a Loan",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ach_mod_1",
@@ -2121,7 +2126,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ach_office_2",
@@ -2185,7 +2190,7 @@
       "Name": "In the Black",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ach_profit_1",
@@ -2223,9 +2228,9 @@
       "ID": "ach_restaurants_1",
       "SetID": "b8gh1fi",
       "Name": "Refined Palates",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_restaurants_2",
@@ -2424,7 +2429,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 517,
+      "Progressed": 518,
       "Completed": 0
     }
   ],
@@ -2432,8 +2437,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:05:15.8612152+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:05:16.5998249+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8765911+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:59:00.7726753+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:05:15.8613002+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:59:08.8940233+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:05:16.5999233+00:00"
 }

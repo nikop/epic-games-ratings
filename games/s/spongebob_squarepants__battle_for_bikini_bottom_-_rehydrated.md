@@ -1,18 +1,18 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.63 (Ranked 358)  
+Rating: 4.63 (Ranked 356)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Spatula Seeker | 22.00% | ~209 |
 | Sponge Smasher | 22.00% | ~209 |
-| Jellyfish Jam | 21.00% | ~199 |
-| Jellyfishing | 17.00% | ~161 |
-| Sweet Victory | 13.00% | ~123 |
-| Sock Getter | 13.00% | ~123 |
-| Time For Tutorial | 13.00% | ~123 |
+| Jellyfish Jam | 21.00% | ~200 |
+| Jellyfishing | 17.00% | ~162 |
+| Sweet Victory | 13.00% | ~124 |
+| Sock Getter | 13.00% | ~124 |
+| Time For Tutorial | 13.00% | ~124 |
 | Star Smasher | 12.00% | ~114 |
 | Uptown and Downtown | 11.00% | ~104 |
 | Super Spatula Seeker | 11.00% | ~104 |
@@ -27,19 +27,19 @@ Number of Ratings: 76  (23.09.2022)
 | Ultra Spatula Seeker | 7.00% | ~66 |
 | Robot encyclopedia | 6.00% | ~57 |
 | Hello, Bikini Bottom | 6.00% | ~57 |
-| Ship Shape | 5.00% | ~47 |
-| Shanghaied | 5.00% | ~47 |
-| Kelp Forest of Fear | 5.00% | ~47 |
+| Ship Shape | 5.00% | ~48 |
+| Shanghaied | 5.00% | ~48 |
+| Kelp Forest of Fear | 5.00% | ~48 |
 | The Small Does Not Rule | 4.00% | ~38 |
 | SpongeBob vs SpongeBob! | 4.00% | ~38 |
 | Sleepy Time | 4.00% | ~38 |
 | Sock Concert | 4.00% | ~38 |
 | Mega Spatula Seeker | 4.00% | ~38 |
-| 100% SpongeBob | 1.00% | ~9 |
-| Sock Opera | 1.00% | ~9 |
-| Super Ultra Mega Spatula Seeker | 1.00% | ~9 |
+| 100% SpongeBob | 1.00% | ~10 |
+| Sock Opera | 1.00% | ~10 |
+| Super Ultra Mega Spatula Seeker | 1.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 948 (Ranked 300)  
+Progressed: 950 (Ranked 300)  
 Completed: 8 (0.84%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 8 (0.84%) (Ranked 189)
 | 2024-01-08 | 877 | 8 |
 | 2024-01-09 | 906 | 8 |
 | 2024-01-10 | 929 | 8 |
-| 2024-01-11 | 948 | 8 |
+| 2024-01-11 | 950 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 499)  
 Sum: 36 (Ranked 531)  

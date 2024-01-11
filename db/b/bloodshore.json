@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 279,
+  "EOS_Progressed": 280,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.15,
+  "EOS_Completed_Percentage": 2.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -745,6 +745,11 @@
       "Time": "2024-01-11T06:04:22.4455867+00:00",
       "NumProgressed": 279,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-11T19:03:37.9971323+00:00",
+      "NumProgressed": 280,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 17,
@@ -770,9 +775,9 @@
       "ID": "congratulations_you_are_a_sadist",
       "SetID": "84ad177",
       "Name": "Congratulations, you are a sadist",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 131
+      "UsersEstimate": 129
     },
     {
       "ID": "deathlooper",
@@ -788,7 +793,7 @@
       "Name": "Good job, nerd",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "leader_you_are_not",
@@ -834,17 +839,17 @@
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 145
+      "UsersEstimate": 143
     },
     {
       "ID": "superstar_crossed_lovers",
       "SetID": "84ad177",
       "Name": "Superstar-crossed lovers",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 114
+      "UsersEstimate": 112
     },
     {
       "ID": "thats_my_boy",
@@ -858,9 +863,9 @@
       "ID": "this_wont_end_well",
       "SetID": "84ad177",
       "Name": "This won\u0027t end well...",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 87
     },
     {
       "ID": "tried_to_warn_you",
@@ -891,7 +896,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 279,
+      "Progressed": 280,
       "Completed": 6
     }
   ],
@@ -899,8 +904,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:03:38.9695669+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:03:37.9971321+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.9728945+00:00",
-  "LastUpdate_Ratings": "2024-01-11T18:03:17.8084139+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:03:38.969581+00:00"
+  "LastUpdate_Ratings": "2024-01-11T19:03:15.4363294+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:03:37.9971432+00:00"
 }

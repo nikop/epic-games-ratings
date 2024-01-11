@@ -363,9 +363,9 @@
       "ID": "Chapter09_EmergedConcern",
       "SetID": "c8fdd59",
       "Name": "Emerged Concern",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Chapter10_AThousandMiles",
@@ -618,8 +618,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:10:07.6876727+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:10:07.7964261+00:00",
   "LastUpdate_AppInfo": "2024-01-08T17:57:08.0794756+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:57:09.4052985+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:10:07.6877155+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:57:17.2652173+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:10:07.7964548+00:00"
 }

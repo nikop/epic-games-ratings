@@ -18,7 +18,7 @@
 | The Steed | 9.00% | ~13 |
 | Card Completionist | 9.00% | ~13 |
 | The Bodyguard | 6.00% | ~9 |
-| The Apprentice | 5.00% | ~7 |
+| The Apprentice | 6.00% | ~9 |
 | Braving Miasma | 5.00% | ~7 |
 | The Familiar | 5.00% | ~7 |
 | Oracle Mastery | 5.00% | ~7 |

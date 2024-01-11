@@ -3,7 +3,7 @@
   "Name": "Anno 1800 Standard Edition",
   "ProductSlug": "anno-1800",
   "Ranking_Rating": 81,
-  "Ranking_Popularity": 116,
+  "Ranking_Popularity": 117,
   "Ranking_PopularitySum": 69,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 397,
@@ -12477,10 +12477,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 16105,
       "NumberOfAwardsMax": 2084
+    },
+    {
+      "Time": "2024-01-11T18:57:17.777012+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 16109,
+      "NumberOfAwardsMax": 2084
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16105,
+  "NumberOfAwards": 16109,
   "NumberOfAwardsMax": 2084,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -12506,7 +12512,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 1850
+      "Count": 1854
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -12562,8 +12568,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2024-01-11T10:02:24.5890885+00:00",
+  "LastChanged": "2024-01-11T18:57:17.777012+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:07.4386125+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:57:09.8847931+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:04:09.6322125+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:57:17.7770124+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:04:08.6339697+00:00"
 }

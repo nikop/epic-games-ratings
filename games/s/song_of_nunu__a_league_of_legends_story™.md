@@ -17,8 +17,8 @@ Rating: 4.59 (Ranked 452)
 | The Fire Below the Mountain | 60.00% | ~920 |
 | Iceborn | 55.00% | ~843 |
 | No Bites | 54.00% | ~828 |
+| Tear of Freedom | 52.00% | ~797 |
 | Boom Things | 52.00% | ~797 |
-| Tear of Freedom | 51.00% | ~782 |
 | My Darkest Day | 48.00% | ~736 |
 | Rhythm Of Willump | 46.00% | ~705 |
 | The Relentless Storm | 46.00% | ~705 |
@@ -50,7 +50,7 @@ Rating: 4.59 (Ranked 452)
 | We Are Speed | 2.00% | ~31 |
 | Sneaky Notai | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,533 (Ranked 267)  
+Progressed: 1,533 (Ranked 268)  
 Completed: 9 (0.59%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |

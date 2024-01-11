@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.53 (Ranked 564)  
+Rating: 4.53 (Ranked 565)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,8 +12,8 @@ Rating: 4.53 (Ranked 564)
 | Martian Music | 13.00% | ~2,451 |
 | Bosmang | 13.00% | ~2,451 |
 | Impossible Objects | 13.00% | ~2,451 |
-| Spore Taste | 12.00% | ~2,262 |
-| Drone Dodger | 12.00% | ~2,262 |
+| Spore Taste | 12.00% | ~2,263 |
+| Drone Dodger | 12.00% | ~2,263 |
 | Stogie for Fogey | 11.00% | ~2,074 |
 | Safe Cracker | 10.00% | ~481 |
 | Zen Master | 10.00% | ~481 |
@@ -27,7 +27,7 @@ Rating: 4.53 (Ranked 564)
 | Khan's Revenge | 7.00% | ~1,320 |
 | Doctor Approved | 6.00% | ~1,131 |
 | Bottoms up! | 6.00% | ~1,131 |
-| Master Negotiator | 6.00% | ~288 |
+| Master Negotiator | 6.00% | ~289 |
 | Data Logger | 4.00% | ~754 |
 | Miraculous Maya | 4.00% | ~754 |
 | Data Master | 3.00% | ~566 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 564)
 | Scavenger Star | 0.30% | ~57 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,854 (Ranked 159)  
+Progressed: 18,856 (Ranked 159)  
 Completed: 62 (0.33%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 62 (0.33%) (Ranked 250)
 | 2024-01-08 | 18,665 | 60 |
 | 2024-01-09 | 18,754 | 61 |
 | 2024-01-10 | 18,829 | 62 |
-| 2024-01-11 | 18,854 | 62 |
+| 2024-01-11 | 18,856 | 62 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

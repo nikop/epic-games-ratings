@@ -12,22 +12,22 @@ Number of Ratings: 48  (23.09.2022)
 | Amateur Adventurer | 61.00% | ~487 |
 | The Road to Recovery | 60.00% | ~479 |
 | Partners? | 58.00% | ~463 |
-| Magical Mineral Golem | 51.00% | ~407 |
-| On Outlander Lane | 50.00% | ~400 |
+| Magical Mineral Golem | 52.00% | ~415 |
+| On Outlander Lane | 51.00% | ~407 |
 | First Time Fishing | 48.00% | ~384 |
 | A Girl About the Town | 47.00% | ~376 |
 | First Time Hunting | 46.00% | ~368 |
 | Rune Wall Wreckage | 45.00% | ~360 |
 | ...And Your Tax Money | 44.00% | ~352 |
 | The Lords of the Snowpeak | 38.00% | ~304 |
+| The Lava Mantor Wyrm | 34.00% | ~272 |
 | The Go-To Girl | 34.00% | ~272 |
 | Scavenger's Honor | 34.00% | ~272 |
 | Natural Born Monster-Killer | 34.00% | ~272 |
 | The Great Forest...On Foot! | 34.00% | ~272 |
-| The Lava Mantor Wyrm | 33.00% | ~264 |
 | One Mean Merc | 33.00% | ~264 |
+| Adept, for an Acting Mayor | 33.00% | ~264 |
 | Money, Money, Money | 33.00% | ~264 |
-| Adept, for an Acting Mayor | 32.00% | ~256 |
 | Rune Wall Master | 31.00% | ~248 |
 | The Quarry...On Foot! | 29.00% | ~232 |
 | The Runebarrows...On Foot! | 27.00% | ~216 |

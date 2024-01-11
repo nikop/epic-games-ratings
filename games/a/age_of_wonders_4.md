@@ -16,9 +16,9 @@ Rating: 4.62 (Ranked 379)
 | Full Ascension | 8.00% | ~576 |
 | Stronger Together | 8.00% | ~576 |
 | Seat of Power | 8.00% | ~576 |
+| In a Liege of Your Own | 7.00% | ~504 |
 | Intimidation Tactics | 7.00% | ~504 |
 | Valley of Wonders | 6.00% | ~432 |
-| In a Liege of Your Own | 6.00% | ~432 |
 | Digging for Treasure | 5.00% | ~360 |
 | My Final Form | 5.00% | ~360 |
 | But this one is mine | 5.00% | ~360 |

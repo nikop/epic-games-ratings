@@ -5,9 +5,9 @@
   "Ranking_Rating": 1008,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
-  "Ranking_EOS_Progress": 245,
+  "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -91,9 +91,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2234,
+  "EOS_Progressed": 2235,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 461,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -4286,6 +4286,11 @@
       "Time": "2024-01-11T18:10:05.1282748+00:00",
       "NumProgressed": 2234,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T19:10:05.0480251+00:00",
+      "NumProgressed": 2235,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -4297,7 +4302,7 @@
       "Name": "Break Out",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1407
+      "UsersEstimate": 1408
     },
     {
       "ID": "ACH_02",
@@ -4313,7 +4318,7 @@
       "Name": "Powerful Allies",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ACH_04",
@@ -4353,7 +4358,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "ACH_09",
@@ -4361,7 +4366,7 @@
       "Name": "The Mentor",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_10",
@@ -4417,7 +4422,7 @@
       "Name": "Essence Blow",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_17",
@@ -4457,7 +4462,7 @@
       "Name": "Big Bazar",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_22",
@@ -4489,7 +4494,7 @@
       "Name": "Fashion Victim",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACH_26",
@@ -4497,7 +4502,7 @@
       "Name": "Scholar",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACH_27",
@@ -4529,7 +4534,7 @@
       "Name": "Alchemist",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_31",
@@ -4584,7 +4589,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2234,
+      "Progressed": 2235,
       "Completed": 4
     }
   ],
@@ -4592,8 +4597,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-11T14:57:15.6904807+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:10:05.1282743+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:10:05.0480247+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:57:10.3947837+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:10:05.1283247+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:57:18.2370661+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:10:05.0480695+00:00"
 }

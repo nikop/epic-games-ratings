@@ -5,9 +5,9 @@
   "Ranking_Rating": 665,
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 382,
-  "Ranking_EOS_Progress": 199,
+  "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -854,9 +854,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6266,
+  "EOS_Progressed": 6267,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13029,6 +13029,11 @@
       "Time": "2024-01-11T17:04:48.9416265+00:00",
       "NumProgressed": 6266,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-11T19:03:33.1678601+00:00",
+      "NumProgressed": 6267,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13073,7 +13078,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1566
+      "UsersEstimate": 1567
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -13209,7 +13214,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1566
+      "UsersEstimate": 1567
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -13224,15 +13229,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6266,
+      "Progressed": 6267,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:03:33.9819539+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:03:33.1678595+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-11T17:57:33.7036968+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:03:33.98223+00:00"
+  "LastUpdate_Ratings": "2024-01-11T18:57:41.3710619+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:03:33.1679293+00:00"
 }

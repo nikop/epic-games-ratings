@@ -2,7 +2,7 @@
   "ID": "2b96380a243e4883bb007b67b78b18c1",
   "Name": "SPIRITUS",
   "ProductSlug": "spiritus-b0efa2",
-  "Ranking_EOS_Progress": 682,
+  "Ranking_EOS_Progress": 675,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 585,
   "Ranking_EOS_NewCompleters": 155,
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -56,6 +56,11 @@
     {
       "Time": "2023-12-15T03:05:17.5135095+00:00",
       "NumProgressed": 6,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T19:05:09.749612+00:00",
+      "NumProgressed": 7,
       "NumCompleted": 0
     }
   ],
@@ -99,7 +104,7 @@
       "ID": "FirstKill",
       "SetID": "98k75ll",
       "Name": "First Kill",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -107,7 +112,7 @@
       "ID": "GameOver",
       "SetID": "98k75ll",
       "Name": "Game Over",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -115,7 +120,7 @@
       "ID": "Headshot",
       "SetID": "98k75ll",
       "Name": "Headshot!",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -123,7 +128,7 @@
       "ID": "NewGame",
       "SetID": "98k75ll",
       "Name": "Enter the survival horror.",
-      "Percentage": 67,
+      "Percentage": 57,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -131,7 +136,7 @@
       "ID": "Shotgun",
       "SetID": "98k75ll",
       "Name": "Obtain the shotgun",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -139,7 +144,7 @@
       "ID": "SurvivetheHorde",
       "SetID": "98k75ll",
       "Name": "Survive the Horde",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -147,7 +152,7 @@
       "ID": "TheEnd",
       "SetID": "98k75ll",
       "Name": "The End?",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 75,
       "UsersEstimate": 1
     }
@@ -156,13 +161,13 @@
     {
       "ID": "98k75ll",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-11-04T09:03:31.3588011+00:00",
-  "LastChanged_Achievements": "2024-01-11T18:05:09.0945343+00:00",
+  "LastChanged_Achievements": "2024-01-11T19:05:09.7496116+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:12.4758597+00:00",
-  "LastUpdate_Ratings": "2024-01-11T18:02:45.2189627+00:00",
-  "LastUpdate_Achievements": "2024-01-11T18:05:09.094545+00:00"
+  "LastUpdate_Ratings": "2024-01-11T19:02:44.3704397+00:00",
+  "LastUpdate_Achievements": "2024-01-11T19:05:09.7496188+00:00"
 }
