@@ -4,21 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tootorial | 54.00% | ~3,569 |
-| Wind Master | 38.00% | ~2,511 |
-| Davy Jones | 6.00% | ~397 |
-| Hook, Line and Stinker | 5.00% | ~330 |
-| Nice Shootin' Duds | 1.00% | ~66 |
-| Race In Yo Face | 0.70% | ~46 |
-| Great Balls Of Fire | 0.20% | ~13 |
-| Baby's First Thingamabob | 0.20% | ~13 |
-| Gateway Slug | 0.20% | ~13 |
-| Light Up the Night | 0.10% | ~7 |
-| Boarding Party | 0.10% | ~7 |
-| This Is Fine | 0.10% | ~7 |
-| I Don't Like The Slugs | 0.10% | ~7 |
-| But The Slugs Like Me | 0.10% | ~7 |
-| Pengy Fun | 0.10% | ~7 |
+| Tootorial | 59.00% | ~6,771 |
+| Wind Master | 44.00% | ~5,050 |
+| Davy Jones | 9.00% | ~1,033 |
+| Hook, Line and Stinker | 6.00% | ~689 |
+| Nice Shootin' Duds | 2.00% | ~230 |
+| Race In Yo Face | 1.00% | ~115 |
+| Baby's First Thingamabob | 0.40% | ~46 |
+| Gateway Slug | 0.30% | ~34 |
+| Great Balls Of Fire | 0.20% | ~23 |
+| Light Up the Night | 0.20% | ~23 |
+| Boarding Party | 0.10% | ~11 |
+| Tekk Savvy | 0.10% | ~11 |
+| This Is Fine | 0.10% | ~11 |
+| I Don't Like The Slugs | 0.10% | ~11 |
+| But The Slugs Like Me | 0.10% | ~11 |
+| Pengy Fun | 0.10% | ~11 |
 | Polar Pontification | 0.00% | ~0 |
 | What's Krakalackin? | 0.00% | ~0 |
 | Aggro Kreb | 0.00% | ~0 |
@@ -40,7 +41,6 @@
 | Shooting Star | 0.00% | ~0 |
 | Snapping Turtle | 0.00% | ~0 |
 | Crovert Ops | 0.00% | ~0 |
-| Tekk Savvy | 0.00% | ~0 |
 | Fish And Tips | 0.00% | ~0 |
 | Fish Kabob | 0.00% | ~0 |
 | Crushed Ice | 0.00% | ~0 |
@@ -52,13 +52,13 @@
 | For Whom The Bells Toll | 0.00% | ~0 |
 | Don't I Know You? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,609 (Ranked 198)  
+Progressed: 11,477 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-05 | 2 | 0 |
-| 2024-01-11 | 6,609 | 0 |
+| 2024-01-11 | 11,477 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

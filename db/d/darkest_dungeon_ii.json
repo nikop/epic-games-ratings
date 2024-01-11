@@ -10740,9 +10740,9 @@
       "Count": 1092
     }
   ],
-  "EOS_Progressed": 132468,
+  "EOS_Progressed": 132474,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 813,
+  "EOS_NewPlayers": 811,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39390,6 +39390,11 @@
       "Time": "2024-01-11T19:09:53.2882867+00:00",
       "NumProgressed": 132468,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T20:11:04.3171429+00:00",
+      "NumProgressed": 132474,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39401,7 +39406,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6623
+      "UsersEstimate": 6624
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -39417,7 +39422,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6623
+      "UsersEstimate": 6624
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -39553,7 +39558,7 @@
       "Name": "Not Today!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6623
+      "UsersEstimate": 6624
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -39601,7 +39606,7 @@
       "Name": "Meat and Greet",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6623
+      "UsersEstimate": 6624
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -39617,7 +39622,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6623
+      "UsersEstimate": 6624
     },
     {
       "ID": "combat_kill_librarian",
@@ -39673,7 +39678,7 @@
       "Name": "It Happens",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6623
+      "UsersEstimate": 6624
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -39697,7 +39702,7 @@
       "Name": "Rush Hour",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6623
+      "UsersEstimate": 6624
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -39721,7 +39726,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6623
+      "UsersEstimate": 6624
     },
     {
       "ID": "driving_distance_easy",
@@ -39793,7 +39798,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6623
+      "UsersEstimate": 6624
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -39809,7 +39814,7 @@
       "Name": "FNG",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6623
+      "UsersEstimate": 6624
     },
     {
       "ID": "inn_visit_all_variants",
@@ -39937,7 +39942,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "combat_kill_collector",
@@ -39985,7 +39990,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -40009,7 +40014,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -40032,21 +40037,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132468,
+      "Progressed": 132474,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7337,
+      "Progressed": 7343,
       "Completed": 824
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-11T14:59:46.1831983+00:00",
-  "LastChanged_Achievements": "2024-01-11T19:09:53.2882861+00:00",
+  "LastChanged_Achievements": "2024-01-11T20:11:04.3171424+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-11T18:59:46.9345923+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:09:53.2884678+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:01:22.7123094+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:11:04.3173558+00:00"
 }

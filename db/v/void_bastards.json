@@ -737,10 +737,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 137,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-01-11T19:59:31.9430453+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 138,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 137,
+  "NumberOfAwards": 138,
   "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -778,7 +784,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 23
+      "Count": 24
     }
   ],
   "EOS_Progressed": 0,
@@ -792,8 +798,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:35.6625013+00:00",
-  "LastChanged": "2023-12-31T09:59:43.0022157+00:00",
+  "LastChanged": "2024-01-11T19:59:31.9430451+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:49.2158813+00:00",
-  "LastUpdate_Ratings": "2024-01-11T18:58:35.7212555+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:04:36.6258878+00:00"
+  "LastUpdate_Ratings": "2024-01-11T19:59:31.9430456+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:06:08.4324625+00:00"
 }

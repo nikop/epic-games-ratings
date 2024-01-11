@@ -5,7 +5,7 @@
   "Ranking_Rating": 219,
   "Ranking_Popularity": 358,
   "Ranking_PopularitySum": 459,
-  "Ranking_EOS_Progress": 179,
+  "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 155,
@@ -329,9 +329,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 11087,
+  "EOS_Progressed": 11090,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1046,
+  "EOS_NewPlayers": 1031,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4519,6 +4519,11 @@
       "Time": "2024-01-11T19:10:03.5326435+00:00",
       "NumProgressed": 11087,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T20:11:18.0286573+00:00",
+      "NumProgressed": 11090,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4539,7 +4544,7 @@
       "Name": "Stolen Star",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -4553,9 +4558,9 @@
       "ID": "05_TheComorraghSurvivors",
       "SetID": "37a94m8",
       "Name": "Commorragh Survivors",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 665
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -4617,9 +4622,9 @@
       "ID": "13_TheDoomTrader",
       "SetID": "37a94m8",
       "Name": "Doom Trader",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 333
     },
     {
       "ID": "14_TheBreezeOfPain",
@@ -4643,7 +4648,7 @@
       "Name": "The Rise",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "17_TheExemplar",
@@ -4659,15 +4664,15 @@
       "Name": "Rookie Skipper",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "19_TheVoidWolf",
       "SetID": "37a94m8",
       "Name": "Void Wolf",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 887
+      "UsersEstimate": 998
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -4707,7 +4712,7 @@
       "Name": "Highrise",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "25_DynastyProspers",
@@ -4883,7 +4888,7 @@
       "Name": "A Spark",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "47_AFlame",
@@ -5050,7 +5055,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11087,
+      "Progressed": 11090,
       "Completed": 1
     }
   ],
@@ -5058,8 +5063,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-11T16:00:45.2454852+00:00",
-  "LastChanged_Achievements": "2024-01-11T19:10:03.5326429+00:00",
+  "LastChanged_Achievements": "2024-01-11T20:11:18.0286572+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-11T18:59:31.996184+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:10:03.532708+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:01:00.066936+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:11:18.0287339+00:00"
 }

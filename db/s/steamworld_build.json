@@ -4,7 +4,7 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 265,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1272,9 +1272,9 @@
       "ID": "SteamPowered",
       "SetID": "4bd750m",
       "Name": "Steam Powered",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "SteamingRich",
@@ -1304,9 +1304,9 @@
       "ID": "UpUpAndAway",
       "SetID": "4bd750m",
       "Name": "Up, Up And Away!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 90
     },
     {
       "ID": "Whoa",
@@ -1335,8 +1335,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-11T19:04:12.3790366+00:00",
+  "LastChanged_Achievements": "2024-01-11T20:05:33.1737952+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.7828616+00:00",
-  "LastUpdate_Ratings": "2024-01-11T19:03:12.364531+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:04:12.3790638+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:04:01.2672342+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:05:33.1738162+00:00"
 }

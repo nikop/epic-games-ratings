@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -343,7 +343,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18856,
+  "EOS_Progressed": 18860,
   "EOS_Completed": 62,
   "EOS_NewPlayers": 669,
   "EOS_NewCompleters": 4,
@@ -17048,6 +17048,11 @@
       "Time": "2024-01-11T19:08:31.3499577+00:00",
       "NumProgressed": 18856,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2024-01-11T20:09:06.6392036+00:00",
+      "NumProgressed": 18860,
+      "NumCompleted": 62
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17076,7 +17081,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2451
+      "UsersEstimate": 2452
     },
     {
       "ID": "12",
@@ -17092,7 +17097,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3394
+      "UsersEstimate": 3395
     },
     {
       "ID": "14",
@@ -17100,7 +17105,7 @@
       "Name": "Doctor Approved",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "15",
@@ -17108,7 +17113,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2074
+      "UsersEstimate": 2075
     },
     {
       "ID": "16",
@@ -17132,7 +17137,7 @@
       "Name": "Bottoms up!",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "19",
@@ -17140,7 +17145,7 @@
       "Name": "Martian Music",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2451
+      "UsersEstimate": 2452
     },
     {
       "ID": "2",
@@ -17180,7 +17185,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "24",
@@ -17212,7 +17217,7 @@
       "Name": "Bosmang",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2451
+      "UsersEstimate": 2452
     },
     {
       "ID": "28",
@@ -17236,7 +17241,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2828
+      "UsersEstimate": 2829
     },
     {
       "ID": "30",
@@ -17292,7 +17297,7 @@
       "Name": "Impossible Objects",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2451
+      "UsersEstimate": 2452
     },
     {
       "ID": "31",
@@ -17339,22 +17344,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18856,
+      "Progressed": 18860,
       "Completed": 62
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4810,
-      "Completed": 1280
+      "Progressed": 4814,
+      "Completed": 1282
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-11T01:50:11.8166633+00:00",
-  "LastChanged_Achievements": "2024-01-11T19:08:31.3499573+00:00",
+  "LastChanged_Achievements": "2024-01-11T20:09:06.6392034+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-11T19:00:18.1162845+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:08:31.3500574+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:02:09.7233035+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:09:06.6393086+00:00"
 }

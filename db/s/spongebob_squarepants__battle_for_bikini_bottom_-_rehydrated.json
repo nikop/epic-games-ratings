@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
@@ -347,9 +347,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 950,
+  "EOS_Progressed": 951,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -2537,6 +2537,11 @@
       "Time": "2024-01-11T19:04:17.3330083+00:00",
       "NumProgressed": 950,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-11T20:05:40.4172277+00:00",
+      "NumProgressed": 951,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2557,7 +2562,7 @@
       "Name": "Are you ready now?",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
@@ -2589,7 +2594,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -2645,7 +2650,7 @@
       "Name": "Keep it Rolling",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_PRAWN_BOSS",
@@ -2725,7 +2730,7 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -2733,7 +2738,7 @@
       "Name": "Ultra Spatula Seeker",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
@@ -2789,7 +2794,7 @@
       "Name": "Surf\u0027s Up!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -2804,15 +2809,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 950,
+      "Progressed": 951,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-09T20:57:04.6643475+00:00",
-  "LastChanged_Achievements": "2024-01-11T19:04:17.3330079+00:00",
+  "LastChanged_Achievements": "2024-01-11T20:05:40.4172273+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-11T18:58:11.7696258+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:04:17.3330361+00:00"
+  "LastUpdate_Ratings": "2024-01-11T19:58:56.4768947+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:05:40.4172577+00:00"
 }

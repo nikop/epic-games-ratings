@@ -7,11 +7,11 @@ Rating: 4.54 (Ranked 552)
 | ---- | ---------- | ----- |
 | Eat My Dust | 50.00% | ~1,774 |
 | First Love | 45.00% | ~1,597 |
-| Clean Race | 44.00% | ~1,561 |
+| Clean Race | 44.00% | ~1,562 |
 | Hear That Roar! | 43.00% | ~1,526 |
 | Bitter Rivalry | 31.00% | ~1,100 |
 | Rivals to the End | 31.00% | ~1,100 |
-| Champagne Spray | 30.00% | ~1,064 |
+| Champagne Spray | 30.00% | ~1,065 |
 | We're Going to Need a Bigger Garage | 27.00% | ~958 |
 | Quick Pit Stop | 22.00% | ~781 |
 | I Want One Too! | 21.00% | ~745 |
@@ -55,7 +55,7 @@ Rating: 4.54 (Ranked 552)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,548 (Ranked 225)  
+Progressed: 3,549 (Ranked 225)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 3,463 | 0 |
 | 2024-01-09 | 3,491 | 0 |
 | 2024-01-10 | 3,543 | 0 |
-| 2024-01-11 | 3,548 | 0 |
+| 2024-01-11 | 3,549 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

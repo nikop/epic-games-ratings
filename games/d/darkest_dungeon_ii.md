@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~954 |
+| Malpractice Assurance | 13.00% | ~955 |
 | Lost and Found | 8.00% | ~587 |
 | Autodidact | 7.00% | ~9,273 |
 | This guy... again? | 7.00% | ~514 |
@@ -15,17 +15,17 @@ Number of Ratings: 7,767  (23.09.2022)
 | Creep and Sleep | 6.00% | ~7,948 |
 | Overdue Notice | 6.00% | ~7,948 |
 | Escape from the Black Hole | 6.00% | ~7,948 |
-| Ploughshares to Swords | 6.00% | ~440 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,623 |
-| It Rings a Bell | 5.00% | ~6,623 |
-| Not Today! | 5.00% | ~6,623 |
-| Meat and Greet | 5.00% | ~6,623 |
-| Catch and Decease | 5.00% | ~6,623 |
-| It Happens | 5.00% | ~6,623 |
-| Rush Hour | 5.00% | ~6,623 |
-| To Grandmother's House | 5.00% | ~6,623 |
-| A Place to Lay Your Head | 5.00% | ~6,623 |
-| FNG | 5.00% | ~6,623 |
+| Ploughshares to Swords | 6.00% | ~441 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,624 |
+| It Rings a Bell | 5.00% | ~6,624 |
+| Not Today! | 5.00% | ~6,624 |
+| Meat and Greet | 5.00% | ~6,624 |
+| Catch and Decease | 5.00% | ~6,624 |
+| It Happens | 5.00% | ~6,624 |
+| Rush Hour | 5.00% | ~6,624 |
+| To Grandmother's House | 5.00% | ~6,624 |
+| A Place to Lay Your Head | 5.00% | ~6,624 |
+| FNG | 5.00% | ~6,624 |
 | Bloody Graduation | 5.00% | ~367 |
 | Spelunker | 4.00% | ~5,299 |
 | Merry Time | 4.00% | ~5,299 |
@@ -34,7 +34,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 4.00% | ~5,299 |
 | Nope | 4.00% | ~5,299 |
 | Unshackled | 4.00% | ~5,299 |
-| Friends 'Til the End | 4.00% | ~293 |
+| Friends 'Til the End | 4.00% | ~294 |
 | Resurrection | 3.00% | ~3,974 |
 | Unleash Hell | 3.00% | ~3,974 |
 | Funny Guy | 3.00% | ~3,974 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,468 (Ranked 91)  
+Progressed: 132,474 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 4 (0.00%) (Ranked 397)
 | 2024-01-08 | 132,215 | 3 |
 | 2024-01-09 | 132,315 | 3 |
 | 2024-01-10 | 132,395 | 4 |
-| 2024-01-11 | 132,468 | 4 |
+| 2024-01-11 | 132,474 | 4 |
 ## Awards
 Max (Character Customization): 8,002  (Ranked 50)  
 Sum: 21,590 (Ranked 58)  

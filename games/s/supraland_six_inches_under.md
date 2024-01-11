@@ -26,11 +26,11 @@ Number of Ratings: 209  (23.09.2022)
 | Boomeraxe | 87.00% | ~2,114 |
 | Iron Pickaxe | 87.00% | ~2,114 |
 | Banking District | 86.00% | ~2,090 |
+| Mission Unlikely | 86.00% | ~2,090 |
 | Arrested | 85.00% | ~2,066 |
 | Zappy Gun | 85.00% | ~2,066 |
 | Got your own one now | 85.00% | ~2,066 |
 | Don't draw dicks pls | 85.00% | ~2,066 |
-| Mission Unlikely | 85.00% | ~2,066 |
 | Ripped | 84.00% | ~2,041 |
 | Beat the big arena | 83.00% | ~2,017 |
 | Force Cube | 82.00% | ~1,993 |
@@ -295,8 +295,8 @@ Completed: 296 (12.18%) (Ranked 37)
 | 2024-01-10 | 2,429 | 296 |
 | 2024-01-11 | 2,430 | 296 |
 ## Awards
-Max (Challenging Puzzles): 109  (Ranked 367)  
-Sum: 109 (Ranked 466)  
+Max (Challenging Puzzles): 109  (Ranked 368)  
+Sum: 109 (Ranked 467)  
 Diff (max vs sum): -99  
 | Award | Count |
 | ----- | ----- |

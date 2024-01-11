@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2689,
+  "EOS_Progressed": 2690,
   "EOS_Completed": 195,
-  "EOS_NewPlayers": 333,
+  "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 47,
   "EOS_Completed_Percentage": 7.25,
   "EosHistory": [
@@ -7072,6 +7072,11 @@
       "Time": "2024-01-11T19:04:13.983255+00:00",
       "NumProgressed": 2689,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2024-01-11T20:05:35.5219088+00:00",
+      "NumProgressed": 2690,
+      "NumCompleted": 195
     }
   ],
   "TotalAchievements": 25,
@@ -7089,9 +7094,9 @@
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 200,
-      "UsersEstimate": 672
+      "UsersEstimate": 699
     },
     {
       "ID": "META_ALL_LINK",
@@ -7155,7 +7160,7 @@
       "Name": "A great audience",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "META_RESULT_2-4",
@@ -7163,7 +7168,7 @@
       "Name": "For its own good",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "META_RESULT_3-4",
@@ -7203,7 +7208,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -7217,9 +7222,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 672
+      "UsersEstimate": 699
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -7227,7 +7232,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1614
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7235,7 +7240,7 @@
       "Name": "Scholar",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "PROGRESS_N1",
@@ -7243,7 +7248,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "PROGRESS_N2",
@@ -7267,7 +7272,7 @@
       "Name": "The darkness",
       "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "PROGRESS_N5",
@@ -7282,7 +7287,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2689,
+      "Progressed": 2690,
       "Completed": 195
     }
   ],
@@ -7290,8 +7295,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-11T19:04:13.9832546+00:00",
+  "LastChanged_Achievements": "2024-01-11T20:05:35.5219084+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-11T19:00:23.2129007+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:04:13.9833031+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:02:17.3969245+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:05:35.5219549+00:00"
 }

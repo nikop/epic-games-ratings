@@ -1,7 +1,7 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.49 (Ranked 637)  
+Rating: 4.48 (Ranked 657)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -24,8 +24,8 @@ Number of Ratings: 116  (23.09.2022)
 | Salvation | 37.00% | ~205 |
 | Unshakable Fortitude | 35.00% | ~194 |
 | Soul Harvester | 35.00% | ~194 |
+| Delusions of Grandeur | 34.00% | ~188 |
 | I Wanna Rock | 33.00% | ~183 |
-| Delusions of Grandeur | 33.00% | ~183 |
 | Love Tap | 32.00% | ~177 |
 | Maximum Vigor | 31.00% | ~172 |
 | Freeze Frame | 30.00% | ~166 |
@@ -39,20 +39,20 @@ Number of Ratings: 116  (23.09.2022)
 | Demon Meddler | 23.00% | ~127 |
 | Seeing Red | 23.00% | ~127 |
 | Maximum Capacity | 22.00% | ~122 |
-| Egomaniac | 21.00% | ~116 |
+| Egomaniac | 22.00% | ~122 |
 | Protector of Humanity | 20.00% | ~111 |
 | Everybody Wants to Rule the World | 20.00% | ~111 |
 | Community Outreach | 15.00% | ~83 |
+| Unbreakable Will | 14.00% | ~78 |
 | A Parting Gift | 14.00% | ~78 |
 | Path of the Horseman | 14.00% | ~78 |
-| Unbreakable Will | 13.00% | ~72 |
 | Take it to the Limit | 13.00% | ~72 |
 | Holy Keeper | 12.00% | ~66 |
 | Demon Keeper | 12.00% | ~66 |
 | Humanitarian | 10.00% | ~55 |
 | Soul Reaper | 9.00% | ~50 |
+| Made of Sterner Stuff | 7.00% | ~39 |
 | My Evil Twin | 6.00% | ~33 |
-| Made of Sterner Stuff | 6.00% | ~33 |
 | Purity of Power | 5.00% | ~28 |
 | Balance in all things | 5.00% | ~28 |
 | Keeper of the Bonfire | 5.00% | ~28 |
@@ -100,12 +100,12 @@ Completed: 2 (0.36%) (Ranked 244)
 | 2024-01-10 | 542 | 2 |
 | 2024-01-11 | 554 | 2 |
 ## Awards
-Max (Great Boss Battles): 97  (Ranked 387)  
-Sum: 97 (Ranked 471)  
-Diff (max vs sum): -84  
+Max (Great Boss Battles): 98  (Ranked 384)  
+Sum: 98 (Ranked 470)  
+Diff (max vs sum): -86  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 97 |
+| This game has Great Boss Battles | 98 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -194,3 +194,4 @@ Diff (max vs sum): -84
 | 2024-01-02 | 4.47 | - | 96 | 96 |
 | 2024-01-03 | 4.48 | - | 96 | 96 |
 | 2024-01-10 | 4.49 | - | 97 | 97 |
+| 2024-01-11 | 4.48 | - | 98 | 98 |

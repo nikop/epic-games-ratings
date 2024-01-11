@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25065,
+  "EOS_Progressed": 25066,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -22825,6 +22825,11 @@
       "Time": "2024-01-11T19:03:22.9564533+00:00",
       "NumProgressed": 25065,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2024-01-11T20:04:21.0618686+00:00",
+      "NumProgressed": 25066,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 16,
@@ -22860,7 +22865,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 2506
+      "UsersEstimate": 2507
     },
     {
       "ID": "Eyes_On_Fire",
@@ -22948,7 +22953,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4010
+      "UsersEstimate": 4011
     },
     {
       "ID": "The_Reaper",
@@ -22963,15 +22968,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 25065,
+      "Progressed": 25066,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-09T13:57:36.5131842+00:00",
-  "LastChanged_Achievements": "2024-01-11T19:03:22.9564528+00:00",
+  "LastChanged_Achievements": "2024-01-11T20:04:21.0618684+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:51.4692455+00:00",
-  "LastUpdate_Ratings": "2024-01-11T18:58:47.4800569+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:03:22.9565836+00:00"
+  "LastUpdate_Ratings": "2024-01-11T19:59:51.5657308+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:04:21.061971+00:00"
 }

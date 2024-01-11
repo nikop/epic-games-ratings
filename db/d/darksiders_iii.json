@@ -2,12 +2,12 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
-  "Ranking_Rating": 637,
-  "Ranking_Popularity": 387,
-  "Ranking_PopularitySum": 471,
+  "Ranking_Rating": 657,
+  "Ranking_Popularity": 384,
+  "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.48,
   "NumberOfRatings": 116,
   "RatingHistory": [
     {
@@ -466,18 +466,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 97,
       "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2024-01-11T19:59:53.1108335+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 98,
+      "NumberOfAwardsMax": 98
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 97,
-  "NumberOfAwardsMax": 97,
+  "NumberOfAwards": 98,
+  "NumberOfAwardsMax": 98,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 97
+      "Count": 98
     }
   ],
   "EOS_Progressed": 554,
@@ -2060,9 +2066,9 @@
       "ID": "Collect_AdamantineLarge_30",
       "SetID": "7a5k76n",
       "Name": "Unbreakable Will",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 78
     },
     {
       "ID": "Collect_AdamantineMedium_30",
@@ -2428,17 +2434,17 @@
       "ID": "Kill_Sin_Lust",
       "SetID": "7a5k76n",
       "Name": "Delusions of Grandeur",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 188
     },
     {
       "ID": "Kill_Sin_Pride",
       "SetID": "7a5k76n",
       "Name": "Egomaniac",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 122
     },
     {
       "ID": "Kill_Sin_Sloth",
@@ -2548,9 +2554,9 @@
       "ID": "Upgrade_Armor_First",
       "SetID": "7a5k76n",
       "Name": "Made of Sterner Stuff",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 39
     },
     {
       "ID": "Upgrade_Weapon_First",
@@ -2579,9 +2585,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
-  "LastChanged": "2024-01-10T06:57:57.6760335+00:00",
-  "LastChanged_Achievements": "2024-01-11T19:05:07.1077688+00:00",
+  "LastChanged": "2024-01-11T19:59:53.1108333+00:00",
+  "LastChanged_Achievements": "2024-01-11T20:06:52.0738338+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-11T18:58:48.603466+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:05:07.1078208+00:00"
+  "LastUpdate_Ratings": "2024-01-11T19:59:53.1108337+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:06:52.0738856+00:00"
 }

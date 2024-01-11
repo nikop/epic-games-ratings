@@ -990,9 +990,9 @@
       "ID": "FirstStep",
       "SetID": "7g1kpc8",
       "Name": "Start of the Path",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 135
     },
     {
       "ID": "FourthBoss",
@@ -1022,9 +1022,9 @@
       "ID": "Leprechaun",
       "SetID": "7g1kpc8",
       "Name": "Leprechaun",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "MonsterSlayer",
@@ -1085,8 +1085,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2024-01-11T19:03:52.9194838+00:00",
+  "LastChanged_Achievements": "2024-01-11T20:05:05.3990308+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:14.8141413+00:00",
-  "LastUpdate_Ratings": "2024-01-11T19:00:06.580954+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:03:52.9194996+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:01:52.2719431+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:05:05.3990453+00:00"
 }

@@ -2177,9 +2177,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 22159,
+  "EOS_Progressed": 22160,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1209,
+  "EOS_NewPlayers": 1194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13512,6 +13512,11 @@
       "Time": "2024-01-11T19:09:42.3949716+00:00",
       "NumProgressed": 22159,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-11T20:10:48.7883198+00:00",
+      "NumProgressed": 22160,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13555,7 +13560,7 @@
       "Name": "Flesh Wound",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 5761
+      "UsersEstimate": 5762
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -13643,7 +13648,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2438
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -13667,7 +13672,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 3545
+      "UsersEstimate": 3546
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -13715,7 +13720,7 @@
       "Name": "The Outer Way",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5761
+      "UsersEstimate": 5762
     },
     {
       "ID": "STORY_ESCAPE",
@@ -13723,7 +13728,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3545
+      "UsersEstimate": 3546
     },
     {
       "ID": "STORY_HABITAT",
@@ -13779,7 +13784,7 @@
       "Name": "Power Up",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2438
     },
     {
       "ID": "DISMEMBER_100",
@@ -13898,13 +13903,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22159,
+      "Progressed": 22160,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10085,
+      "Progressed": 10086,
       "Completed": 29
     }
   ],
@@ -13912,8 +13917,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-11T11:03:22.6888373+00:00",
-  "LastChanged_Achievements": "2024-01-11T19:09:42.3949713+00:00",
+  "LastChanged_Achievements": "2024-01-11T20:10:48.7883196+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-11T19:03:14.909946+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:09:42.3950451+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:04:05.0915592+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:10:48.7884345+00:00"
 }

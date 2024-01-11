@@ -2,7 +2,7 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 70,
+  "Ranking_Rating": 68,
   "Ranking_Popularity": 233,
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 154,
@@ -3905,9 +3905,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 20690,
+  "EOS_Progressed": 20691,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 561,
+  "EOS_NewPlayers": 559,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19320,6 +19320,11 @@
       "Time": "2024-01-11T19:05:18.6269406+00:00",
       "NumProgressed": 20690,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-11T20:07:08.8808453+00:00",
+      "NumProgressed": 20691,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19548,7 +19553,7 @@
       "Name": "Royal Outpost",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "WinNearRuins",
@@ -19740,7 +19745,7 @@
       "Name": "Frosts",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "WinNearGreed",
@@ -19748,7 +19753,7 @@
       "Name": "Land of Greed",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "WinNearLibrary",
@@ -19803,15 +19808,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20690,
+      "Progressed": 20691,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-11T18:59:12.0102616+00:00",
-  "LastChanged_Achievements": "2024-01-11T19:05:18.6269401+00:00",
+  "LastChanged_Achievements": "2024-01-11T20:07:08.8808449+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-11T18:59:12.0102621+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:05:18.6270473+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:00:29.1187151+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:07:08.880976+00:00"
 }

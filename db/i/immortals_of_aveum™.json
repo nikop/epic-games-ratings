@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -433,9 +433,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3330,
+  "EOS_Progressed": 3331,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 652,
+  "EOS_NewPlayers": 646,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5233,6 +5233,11 @@
       "Time": "2024-01-11T19:10:00.4495471+00:00",
       "NumProgressed": 3330,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T20:11:14.0161024+00:00",
+      "NumProgressed": 3331,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5245,7 +5250,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2930
+      "UsersEstimate": 2931
     },
     {
       "ID": "achievement_10",
@@ -5261,7 +5266,7 @@
       "Name": "The Means to Save It",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "achievement_12",
@@ -5333,7 +5338,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2697
+      "UsersEstimate": 2698
     },
     {
       "ID": "achievement_20",
@@ -5405,7 +5410,7 @@
       "Name": "Kitted Out",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "achievement_38",
@@ -5477,7 +5482,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2464
+      "UsersEstimate": 2465
     },
     {
       "ID": "achievement_49",
@@ -5597,7 +5602,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "achievement_8",
@@ -5613,14 +5618,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3330,
+      "Progressed": 3331,
       "Completed": 4
     }
   ],
@@ -5628,8 +5633,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-07T18:57:10.211335+00:00",
-  "LastChanged_Achievements": "2024-01-11T19:10:00.4495466+00:00",
+  "LastChanged_Achievements": "2024-01-11T20:11:14.0161022+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8440656+00:00",
-  "LastUpdate_Ratings": "2024-01-11T18:59:09.1202951+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:10:00.4495967+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:00:24.4785765+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:11:14.0161594+00:00"
 }

@@ -6,21 +6,21 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~14,696 |
-| Finding Your Footing | 25.00% | ~13,607 |
-| Nomad | 17.00% | ~9,253 |
-| Picking Up Speed | 15.00% | ~8,164 |
-| Welcome Maya | 14.00% | ~7,620 |
-| Scout | 11.00% | ~5,987 |
-| Sightseer | 11.00% | ~5,987 |
-| Amateur | 10.00% | ~5,443 |
-| Unlock Maya | 8.00% | ~4,354 |
-| Wanderer | 8.00% | ~4,354 |
-| Enter Paz | 7.00% | ~3,810 |
-| Aviator | 5.00% | ~2,721 |
-| My Little Friend | 5.00% | ~2,721 |
-| One With The Board | 5.00% | ~2,721 |
-| Voyager | 4.00% | ~2,177 |
+| Rookie | 27.00% | ~14,699 |
+| Finding Your Footing | 25.00% | ~13,610 |
+| Nomad | 17.00% | ~9,255 |
+| Picking Up Speed | 15.00% | ~8,166 |
+| Welcome Maya | 14.00% | ~7,621 |
+| Scout | 11.00% | ~5,988 |
+| Sightseer | 11.00% | ~5,988 |
+| Amateur | 10.00% | ~5,444 |
+| Unlock Maya | 8.00% | ~4,355 |
+| Wanderer | 8.00% | ~4,355 |
+| Enter Paz | 7.00% | ~3,811 |
+| Aviator | 5.00% | ~2,722 |
+| My Little Friend | 5.00% | ~2,722 |
+| One With The Board | 5.00% | ~2,722 |
+| Voyager | 4.00% | ~2,178 |
 | Junkie | 3.00% | ~1,633 |
 | Traveler | 3.00% | ~1,633 |
 | Unlock Paz | 3.00% | ~1,633 |
@@ -37,7 +37,7 @@ Number of Ratings: 332  (23.09.2022)
 | Introducing Sumara | 1.00% | ~544 |
 | Vandal | 1.00% | ~544 |
 | Unlock Felipe | 0.90% | ~490 |
-| Adventurer | 0.80% | ~435 |
+| Adventurer | 0.80% | ~436 |
 | Unlock Tupa | 0.50% | ~272 |
 | Master Of The Sands | 0.30% | ~163 |
 | Master | 0.20% | ~109 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~54 |
 | Windswept | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,428 (Ranked 121)  
+Progressed: 54,439 (Ranked 121)  
 Completed: 5 (0.01%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,11 +312,11 @@ Completed: 5 (0.01%) (Ranked 374)
 | 2024-01-08 | 54,073 | 5 |
 | 2024-01-09 | 54,193 | 5 |
 | 2024-01-10 | 54,339 | 5 |
-| 2024-01-11 | 54,428 | 5 |
+| 2024-01-11 | 54,439 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 51  (Ranked 455)  
-Sum: 396 (Ranked 357)  
-Diff (max vs sum): 98  
+Sum: 396 (Ranked 358)  
+Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 51 |

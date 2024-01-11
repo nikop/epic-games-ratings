@@ -7,9 +7,9 @@ Rating: 3.68 (Ranked 1,095)
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 22.00% | ~520 |
 | Catch and Release | 17.00% | ~402 |
-| Home Is Where the Heart Is | 15.00% | ~354 |
-| ICU | 15.00% | ~354 |
-| Wounded Whispers | 15.00% | ~354 |
+| Home Is Where the Heart Is | 16.00% | ~378 |
+| ICU | 15.00% | ~355 |
+| Wounded Whispers | 15.00% | ~355 |
 | Ne Plus Ultra | 13.00% | ~307 |
 | Blood Will Have Blood | 12.00% | ~284 |
 | Fly Fisher | 12.00% | ~284 |
@@ -24,13 +24,13 @@ Rating: 3.68 (Ranked 1,095)
 | Neighborhood Revitalization | 6.00% | ~142 |
 | Bad Wiring | 6.00% | ~142 |
 | Radio Silence | 6.00% | ~142 |
+| You Clean It Up | 4.00% | ~95 |
 | Helping Hand | 4.00% | ~95 |
 | I Spit On Your Grave | 4.00% | ~95 |
 | Sic Transit Umbra | 3.00% | ~71 |
 | Bell-ringer | 3.00% | ~71 |
 | Silence Is Golden | 3.00% | ~71 |
 | Good Morning | 3.00% | ~71 |
-| You Clean It Up | 3.00% | ~71 |
 | From the Shadows | 3.00% | ~71 |
 | Starve the Beast | 3.00% | ~71 |
 | Harvest’s End | 3.00% | ~71 |
@@ -50,9 +50,9 @@ Rating: 3.68 (Ranked 1,095)
 | Scream Team | 0.70% | ~17 |
 | What Lies Below | 0.70% | ~17 |
 | Good Samaritan | 0.70% | ~17 |
-| Monster Hunters Club | 0.60% | ~14 |
 | Sisterhood | 0.60% | ~14 |
 | Under a Bushel | 0.60% | ~14 |
+| Monster Hunters Club | 0.50% | ~12 |
 | Friendgineering | 0.50% | ~12 |
 | So Anyway I Started Blasting | 0.40% | ~9 |
 | Enemy of My Enemy | 0.40% | ~9 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,095)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,363 (Ranked 242)  
+Progressed: 2,364 (Ranked 242)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 2,317 | 0 |
 | 2024-01-09 | 2,331 | 0 |
 | 2024-01-10 | 2,353 | 0 |
-| 2024-01-11 | 2,363 | 0 |
+| 2024-01-11 | 2,364 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 555)  
 Sum: 24 (Ranked 562)  

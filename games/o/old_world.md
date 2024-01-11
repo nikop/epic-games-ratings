@@ -48,6 +48,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 1.00% | ~164 |
 | Babylonian Paganism | 1.00% | ~164 |
 | Carthaginian Paganism | 1.00% | ~164 |
+| Egyptian Paganism | 1.00% | ~164 |
 | Greek Paganism | 1.00% | ~164 |
 | Roman Paganism | 1.00% | ~164 |
 | Zoroastrianism | 1.00% | ~164 |
@@ -58,11 +59,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 0.90% | ~148 |
 | Musaeum | 0.90% | ~148 |
 | Manichaeism | 0.90% | ~148 |
-| Egyptian Paganism | 0.90% | ~148 |
-| Legendary Cities | 0.80% | ~131 |
-| Just Difficulty | 0.80% | ~131 |
-| Mausoleum | 0.80% | ~131 |
-| Mythology | 0.80% | ~131 |
+| Legendary Cities | 0.80% | ~132 |
+| Just Difficulty | 0.80% | ~132 |
+| Mausoleum | 0.80% | ~132 |
+| Mythology | 0.80% | ~132 |
 | Hanging Gardens in Babylon | 0.70% | ~115 |
 | Intercessor | 0.70% | ~115 |
 | Valiant | 0.70% | ~115 |
@@ -128,6 +128,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.30% | ~49 |
 | Egypt | 0.30% | ~49 |
 | Rome | 0.30% | ~49 |
+| One True Faith | 0.30% | ~49 |
 | Hittite Paganism | 0.30% | ~49 |
 | Gnosticism | 0.30% | ~49 |
 | Veneration | 0.30% | ~49 |
@@ -145,7 +146,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.20% | ~33 |
 | Learn to Play 5 | 0.20% | ~33 |
 | Old World Order | 0.20% | ~33 |
-| One True Faith | 0.20% | ~33 |
 | Pantheon of Gods | 0.20% | ~33 |
 | Ten Crowns | 0.20% | ~33 |
 | Siege Tower | 0.20% | ~33 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,432 (Ranked 169)  
+Progressed: 16,439 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -631,7 +631,7 @@ Completed: 5 (0.03%) (Ranked 355)
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
-| 2024-01-11 | 16,432 | 5 |
+| 2024-01-11 | 16,439 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,920 (Ranked 224)  

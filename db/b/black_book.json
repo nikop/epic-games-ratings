@@ -686,9 +686,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 66443,
+  "EOS_Progressed": 66449,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 1478,
+  "EOS_NewPlayers": 1463,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -16551,6 +16551,11 @@
       "Time": "2024-01-11T19:03:56.421373+00:00",
       "NumProgressed": 66443,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2024-01-11T20:05:10.289898+00:00",
+      "NumProgressed": 66449,
+      "NumCompleted": 69
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -16587,7 +16592,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 9302
+      "UsersEstimate": 9303
     },
     {
       "ID": "BAD_END",
@@ -16619,7 +16624,7 @@
       "Name": "Card Player",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5315
+      "UsersEstimate": 5316
     },
     {
       "ID": "CHEATER",
@@ -16667,7 +16672,7 @@
       "Name": "Old Friend",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6644
+      "UsersEstimate": 6645
     },
     {
       "ID": "ENCYCLOPEDIA_1",
@@ -16675,7 +16680,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 14617
+      "UsersEstimate": 14619
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -16683,7 +16688,7 @@
       "Name": "Scientist",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7973
+      "UsersEstimate": 7974
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -16739,7 +16744,7 @@
       "Name": "Healer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 9302
+      "UsersEstimate": 9303
     },
     {
       "ID": "HERBS_2",
@@ -16747,7 +16752,7 @@
       "Name": "Herbalist",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6644
+      "UsersEstimate": 6645
     },
     {
       "ID": "HERBS_3",
@@ -16763,7 +16768,7 @@
       "Name": "Initiation",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 19268
+      "UsersEstimate": 19270
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -16779,7 +16784,7 @@
       "Name": "Dead Friend",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5315
+      "UsersEstimate": 5316
     },
     {
       "ID": "MERMAID_NOT_FREE",
@@ -16811,7 +16816,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7973
+      "UsersEstimate": 7974
     },
     {
       "ID": "NORMAL_END",
@@ -16843,7 +16848,7 @@
       "Name": "Pine Tree",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5315
+      "UsersEstimate": 5316
     },
     {
       "ID": "PROSHKA_LOYAL",
@@ -16883,7 +16888,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 9966
+      "UsersEstimate": 9967
     },
     {
       "ID": "TALES_2",
@@ -16915,7 +16920,7 @@
       "Name": "Water",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6644
+      "UsersEstimate": 6645
     },
     {
       "ID": "WOLF",
@@ -16939,7 +16944,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10631
+      "UsersEstimate": 10632
     },
     {
       "ID": "ZNATKOST_2",
@@ -16962,15 +16967,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 66443,
+      "Progressed": 66449,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-11T19:03:56.4213727+00:00",
+  "LastChanged_Achievements": "2024-01-11T20:05:10.2898978+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:33.7261793+00:00",
-  "LastUpdate_Ratings": "2024-01-11T18:58:09.5093631+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:03:56.421478+00:00"
+  "LastUpdate_Ratings": "2024-01-11T19:58:53.2248737+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:05:10.2899992+00:00"
 }

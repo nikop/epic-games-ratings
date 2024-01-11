@@ -20,8 +20,8 @@ Number of Ratings: 124  (23.09.2022)
 | Long-Haul Flyer | 15.00% | ~35 |
 | Family Reunion | 14.00% | ~33 |
 | Eternal Oblivion | 14.00% | ~33 |
+| Storyteller | 12.00% | ~28 |
 | Banker | 11.00% | ~26 |
-| Storyteller | 11.00% | ~26 |
 | Globetrotter | 11.00% | ~26 |
 | Alb | 10.00% | ~24 |
 | Berserker | 10.00% | ~24 |
@@ -35,7 +35,7 @@ Number of Ratings: 124  (23.09.2022)
 | Cleric | 6.00% | ~14 |
 | Detective | 6.00% | ~14 |
 | Weaponsmith | 5.00% | ~12 |
-| Alchemist | 4.00% | ~9 |
+| Alchemist | 5.00% | ~12 |
 | Unbreakable | 4.00% | ~9 |
 | Self-Sufficient | 3.00% | ~7 |
 | Idealist | 3.00% | ~7 |

@@ -488,9 +488,9 @@
       "ID": "A_MINERALS minerals (0-2500)",
       "SetID": "324h56e",
       "Name": "Miner",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "A_NOFISH",
@@ -504,9 +504,9 @@
       "ID": "A_ORB",
       "SetID": "324h56e",
       "Name": "Orb of Wisdom",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "A_POPULATION",
@@ -552,9 +552,9 @@
       "ID": "A_SKIP_ADVISOR advisor (0-5)",
       "SetID": "324h56e",
       "Name": "Silencer",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "A_SUN",
@@ -623,8 +623,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-11T19:06:10.9099211+00:00",
+  "LastChanged_Achievements": "2024-01-11T20:08:24.2352831+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.8788926+00:00",
-  "LastUpdate_Ratings": "2024-01-11T18:59:37.5781146+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:06:10.9099448+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:01:07.7327112+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:08:24.2353085+00:00"
 }

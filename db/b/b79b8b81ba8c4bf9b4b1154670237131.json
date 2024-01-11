@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16584,
+  "EOS_Progressed": 16586,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6390,6 +6390,11 @@
       "Time": "2024-01-11T19:09:36.8642145+00:00",
       "NumProgressed": 16584,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-11T20:10:40.8683552+00:00",
+      "NumProgressed": 16586,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6402,7 +6407,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6302
+      "UsersEstimate": 6303
     },
     {
       "ID": "ACH_AE_10",
@@ -6434,7 +6439,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12438
+      "UsersEstimate": 12440
     },
     {
       "ID": "ACH_AE_14",
@@ -6450,7 +6455,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3648
+      "UsersEstimate": 3649
     },
     {
       "ID": "ACH_AE_16",
@@ -6490,7 +6495,7 @@
       "Name": "Back to School",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3980
+      "UsersEstimate": 3981
     },
     {
       "ID": "ACH_AE_20",
@@ -6498,7 +6503,7 @@
       "Name": "Let It Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACH_AE_21",
@@ -6514,7 +6519,7 @@
       "Name": "The High Road",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3980
+      "UsersEstimate": 3981
     },
     {
       "ID": "ACH_AE_23",
@@ -6538,7 +6543,7 @@
       "Name": "Family History",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACH_AE_26",
@@ -6578,7 +6583,7 @@
       "Name": "Pajama Boy",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2653
+      "UsersEstimate": 2654
     },
     {
       "ID": "ACH_AE_30",
@@ -6658,7 +6663,7 @@
       "Name": "Renewal",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACH_AE_8",
@@ -6666,7 +6671,7 @@
       "Name": "Prisoner Dilemma",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "ACH_AE_9",
@@ -6674,14 +6679,14 @@
       "Name": "Paradise Lost",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     }
   ],
   "AchievementSets": [
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16584,
+      "Progressed": 16586,
       "Completed": 15
     }
   ],
@@ -6689,8 +6694,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-06T19:57:04.811996+00:00",
-  "LastChanged_Achievements": "2024-01-11T19:09:36.864214+00:00",
+  "LastChanged_Achievements": "2024-01-11T20:10:40.868355+00:00",
   "LastUpdate_AppInfo": "2024-01-09T19:56:59.6965527+00:00",
-  "LastUpdate_Ratings": "2024-01-11T18:59:37.8133763+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:09:36.8642834+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:01:08.289045+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:10:40.8684195+00:00"
 }

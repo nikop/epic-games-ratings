@@ -23,9 +23,9 @@
 | The Investigation Begins | 36.00% | ~39 |
 | Irene Court-Smyth | 34.00% | ~37 |
 | Ms. Camilla B. Culsham | 33.00% | ~36 |
-| An odd series of events | 31.00% | ~34 |
-| The Apartment | 31.00% | ~34 |
-| Nathaniel Dryden | 29.00% | ~32 |
+| An odd series of events | 32.00% | ~35 |
+| The Apartment | 32.00% | ~35 |
+| Nathaniel Dryden | 30.00% | ~33 |
 | A rude awakening | 28.00% | ~31 |
 | Bartholomew | 28.00% | ~31 |
 | Well-acquainted | 26.00% | ~28 |

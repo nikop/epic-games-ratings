@@ -2,12 +2,12 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 379,
+  "Ranking_Rating": 356,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 410,
-  "Ranking_EOS_Progress": 196,
+  "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.62,
+  "Rating": 4.63,
   "RatingHistory": [
     {
       "Time": "2023-05-02T18:59:30.6410122+00:00",
@@ -703,10 +703,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 217,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2024-01-11T19:59:30.8077809+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 218,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 217,
+  "NumberOfAwards": 218,
   "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -750,7 +756,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -761,7 +767,7 @@
   ],
   "EOS_Progressed": 7194,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11068,9 +11074,9 @@
       "ID": "1",
       "SetID": "3aa2279",
       "Name": "Valley of Wonders",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 504
     },
     {
       "ID": "10",
@@ -11562,9 +11568,9 @@
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2024-01-10T06:57:43.8261312+00:00",
-  "LastChanged_Achievements": "2024-01-11T19:03:29.1595485+00:00",
+  "LastChanged": "2024-01-11T19:59:30.8077807+00:00",
+  "LastChanged_Achievements": "2024-01-11T20:04:30.3386809+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-11T18:58:35.0691096+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:03:29.1596349+00:00"
+  "LastUpdate_Ratings": "2024-01-11T19:59:30.8077813+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:04:30.3387671+00:00"
 }

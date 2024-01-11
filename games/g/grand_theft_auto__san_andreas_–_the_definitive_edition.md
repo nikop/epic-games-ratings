@@ -5,23 +5,23 @@ Rating: 4.55 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,703 |
-| Pay 'n' Spray | 50.00% | ~9,694 |
-| All Dressed Up for San Fierro | 25.00% | ~4,847 |
+| Getting Started | 81.00% | ~15,707 |
+| Pay 'n' Spray | 50.00% | ~9,696 |
+| All Dressed Up for San Fierro | 25.00% | ~4,848 |
 | The American Dream | 19.00% | ~3,684 |
 | School's Out | 18.00% | ~3,490 |
 | Smooth Moves | 17.00% | ~3,296 |
-| What happens in Las Venturas... | 14.00% | ~2,714 |
-| Today Was a Good Day | 14.00% | ~2,714 |
+| What happens in Las Venturas... | 14.00% | ~2,715 |
+| Today Was a Good Day | 14.00% | ~2,715 |
 | Horror of the Santa Maria | 10.00% | ~1,939 |
 | Liberty City State of Mind | 9.00% | ~1,745 |
 | Original Gangster | 8.00% | ~1,551 |
 | With Extra Dip | 7.00% | ~1,357 |
 | The End of the Line | 7.00% | ~1,357 |
 | Saviour | 6.00% | ~1,163 |
-| Rescue a Kitten Too? | 5.00% | ~969 |
-| They Can’t Stop All of Us | 4.00% | ~775 |
-| What are the Odds | 4.00% | ~775 |
+| Rescue a Kitten Too? | 5.00% | ~970 |
+| They Can’t Stop All of Us | 4.00% | ~776 |
+| What are the Odds | 4.00% | ~776 |
 | Bike or Biker | 3.00% | ~582 |
 | What the City Needs | 3.00% | ~582 |
 | A Legitimate Business | 2.00% | ~388 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 529)
 | ...Here we go again | 0.50% | ~97 |
 | I Ain't No Buster | 0.40% | ~78 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,387 (Ranked 156)  
+Progressed: 19,391 (Ranked 156)  
 Completed: 75 (0.39%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,16 +307,16 @@ Completed: 75 (0.39%) (Ranked 241)
 | 2024-01-08 | 19,021 | 75 |
 | 2024-01-09 | 19,164 | 75 |
 | 2024-01-10 | 19,333 | 75 |
-| 2024-01-11 | 19,387 | 75 |
+| 2024-01-11 | 19,391 | 75 |
 ## Awards
 Max (Great Boss Battles): 647  (Ranked 201)  
-Sum: 1,035 (Ranked 272)  
+Sum: 1,036 (Ranked 272)  
 Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 647 |
 | This game has Amazing Characters | 58 |
-| This game has Amazing Storytelling | 54 |
+| This game has Amazing Storytelling | 55 |
 | This game is Relaxing | 53 |
 | This game is Highly Recommended | 52 |
 | This game is Great for Beginners | 51 |
@@ -554,4 +554,4 @@ Diff (max vs sum): -71
 | 2024-01-08 | 4.55 | 633 | 1,004 |
 | 2024-01-09 | 4.55 | 638 | 1,016 |
 | 2024-01-10 | 4.55 | 647 | 1,034 |
-| 2024-01-11 | 4.55 | 647 | 1,035 |
+| 2024-01-11 | 4.55 | 647 | 1,036 |

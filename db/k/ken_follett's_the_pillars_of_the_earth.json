@@ -6,7 +6,7 @@
   "Ranking_Popularity": 327,
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 163,
-  "Ranking_EOS_Completed": 198,
+  "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17786,
+  "EOS_Progressed": 17787,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -18190,6 +18190,11 @@
       "Time": "2024-01-11T19:06:19.8914612+00:00",
       "NumProgressed": 17786,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-11T20:08:36.738663+00:00",
+      "NumProgressed": 17787,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18281,7 +18286,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3201
+      "UsersEstimate": 3202
     },
     {
       "ID": "tpote_achievement_2",
@@ -18289,7 +18294,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5869
+      "UsersEstimate": 5870
     },
     {
       "ID": "tpote_achievement_20",
@@ -18353,7 +18358,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3201
+      "UsersEstimate": 3202
     },
     {
       "ID": "tpote_achievement_28",
@@ -18393,7 +18398,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3201
+      "UsersEstimate": 3202
     },
     {
       "ID": "tpote_achievement_32",
@@ -18521,22 +18526,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6047
+      "UsersEstimate": 6048
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17786,
+      "Progressed": 17787,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-11T19:06:19.8914607+00:00",
+  "LastChanged_Achievements": "2024-01-11T20:08:36.7386626+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:38.8316794+00:00",
-  "LastUpdate_Ratings": "2024-01-11T19:02:54.944464+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:06:19.8915749+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:03:34.8444449+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:08:36.7387947+00:00"
 }

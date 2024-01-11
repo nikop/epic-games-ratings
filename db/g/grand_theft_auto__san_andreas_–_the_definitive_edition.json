@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2327,10 +2327,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 1035,
       "NumberOfAwardsMax": 647
+    },
+    {
+      "Time": "2024-01-11T20:03:22.0648754+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1036,
+      "NumberOfAwardsMax": 647
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1035,
+  "NumberOfAwards": 1036,
   "NumberOfAwardsMax": 647,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2350,7 +2356,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 54
+      "Count": 55
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2395,9 +2401,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 19387,
+  "EOS_Progressed": 19391,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 1074,
+  "EOS_NewPlayers": 1071,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -20005,6 +20011,11 @@
       "Time": "2024-01-11T19:10:02.0754335+00:00",
       "NumProgressed": 19387,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-11T20:11:16.111468+00:00",
+      "NumProgressed": 19391,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 35,
@@ -20016,7 +20027,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15703
+      "UsersEstimate": 15707
     },
     {
       "ID": "ACH02",
@@ -20072,7 +20083,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9694
+      "UsersEstimate": 9696
     },
     {
       "ID": "ACH09",
@@ -20128,7 +20139,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "ACH16",
@@ -20160,7 +20171,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "ACH20",
@@ -20184,7 +20195,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2714
+      "UsersEstimate": 2715
     },
     {
       "ID": "ACH23",
@@ -20192,7 +20203,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4847
+      "UsersEstimate": 4848
     },
     {
       "ID": "ACH24",
@@ -20208,7 +20219,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "ACH26",
@@ -20240,7 +20251,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 2714
+      "UsersEstimate": 2715
     },
     {
       "ID": "ACH30",
@@ -20295,16 +20306,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19387,
+      "Progressed": 19391,
       "Completed": 75
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-11T00:02:53.6737016+00:00",
-  "LastChanged_Achievements": "2024-01-11T19:10:02.0754333+00:00",
+  "LastChanged": "2024-01-11T20:03:22.0648753+00:00",
+  "LastChanged_Achievements": "2024-01-11T20:11:16.1114677+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-11T19:02:46.7931795+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:10:02.0755404+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:03:22.0648759+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:11:16.1115679+00:00"
 }

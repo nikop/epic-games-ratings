@@ -5,20 +5,20 @@ Rating: 4.77 (Ranked 117)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,250 |
-| No more cages! | 90.00% | ~3,079 |
-| Everfrost | 77.00% | ~2,634 |
-| Dark Forest | 76.00% | ~2,600 |
+| For Demacia | 95.00% | ~3,251 |
+| No more cages! | 90.00% | ~3,080 |
+| Everfrost | 77.00% | ~2,635 |
+| Dark Forest | 76.00% | ~2,601 |
 | Pentakill | 75.00% | ~2,566 |
-| The use of petricite | 73.00% | ~2,497 |
+| The use of petricite | 73.00% | ~2,498 |
 | You can pet the dog | 60.00% | ~2,053 |
-| Thornbarrow | 44.00% | ~1,505 |
+| Thornbarrow | 44.00% | ~1,506 |
 | Big Helmet Bro | 41.00% | ~1,403 |
 | Clarion Cove | 41.00% | ~1,403 |
-| Ternmoat Headquarters | 39.00% | ~1,334 |
+| Ternmoat Headquarters | 39.00% | ~1,335 |
 | Past trauma | 38.00% | ~1,300 |
 | Elemental master | 37.00% | ~1,266 |
-| Cypress Glen Headquarters | 35.00% | ~1,197 |
+| Cypress Glen Headquarters | 35.00% | ~1,198 |
 | Old friend | 33.00% | ~1,129 |
 | Petricite Burst | 33.00% | ~1,129 |
 | Devineur | 32.00% | ~1,095 |
@@ -41,8 +41,8 @@ Rating: 4.77 (Ranked 117)
 | Friendly fire | 17.00% | ~582 |
 | True power | 17.00% | ~582 |
 | The Central Headquarters | 17.00% | ~582 |
-| Meltridge | 16.00% | ~547 |
-| Cloven Dell Headquarters | 16.00% | ~547 |
+| Meltridge | 16.00% | ~548 |
+| Cloven Dell Headquarters | 16.00% | ~548 |
 | Whispers in the Woods IV | 14.00% | ~479 |
 | I smell fear | 14.00% | ~479 |
 | The end of the experiments | 14.00% | ~479 |
@@ -59,7 +59,7 @@ Rating: 4.77 (Ranked 117)
 | Silverwing nest | 2.00% | ~68 |
 | The Unshackled | 1.00% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,421 (Ranked 226)  
+Progressed: 3,422 (Ranked 226)  
 Completed: 23 (0.67%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 23 (0.67%) (Ranked 201)
 | 2024-01-08 | 3,370 | 22 |
 | 2024-01-09 | 3,388 | 22 |
 | 2024-01-10 | 3,415 | 23 |
-| 2024-01-11 | 3,421 | 23 |
+| 2024-01-11 | 3,422 | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

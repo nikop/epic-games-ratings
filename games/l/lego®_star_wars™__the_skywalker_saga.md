@@ -6,33 +6,33 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 96.00% | ~56,781 |
-| ''I don't like you either!'' | 77.00% | ~45,543 |
-| ''Impressive, most impressive'' | 69.00% | ~40,811 |
-| ''You think you're some kind of Jedi?'' | 69.00% | ~40,811 |
-| The Phantom Menace | 56.00% | ~33,122 |
-| ''Aggressive Negotiations'' | 56.00% | ~33,122 |
-| ''I can fly anything'' | 54.00% | ~31,939 |
-| ''And who gave you permission...?'' | 51.00% | ~30,165 |
-| A New Hope | 45.00% | ~26,616 |
-| Attack of the Clones | 44.00% | ~26,025 |
-| Revenge of the Sith | 38.00% | ~22,476 |
-| The Empire Strikes Back | 35.00% | ~20,701 |
-| ''A fine addition to my collection'' | 35.00% | ~20,701 |
-| Return of the Jedi | 30.00% | ~17,744 |
-| The Force Awakens | 25.00% | ~14,787 |
-| The Last Jedi | 21.00% | ~12,421 |
-| The Rise of Skywalker | 19.00% | ~11,238 |
-| ''It's true... all of it'' | 18.00% | ~10,646 |
-| ''Get the crews to their fighters'' | 17.00% | ~10,055 |
+| ''You guys got yourself a ship!'' | 96.00% | ~56,789 |
+| ''I don't like you either!'' | 77.00% | ~45,549 |
+| ''Impressive, most impressive'' | 69.00% | ~40,817 |
+| ''You think you're some kind of Jedi?'' | 69.00% | ~40,817 |
+| The Phantom Menace | 56.00% | ~33,127 |
+| ''Aggressive Negotiations'' | 56.00% | ~33,127 |
+| ''I can fly anything'' | 54.00% | ~31,944 |
+| ''And who gave you permission...?'' | 51.00% | ~30,169 |
+| A New Hope | 45.00% | ~26,620 |
+| Attack of the Clones | 44.00% | ~26,028 |
+| Revenge of the Sith | 38.00% | ~22,479 |
+| The Empire Strikes Back | 35.00% | ~20,704 |
+| ''A fine addition to my collection'' | 35.00% | ~20,704 |
+| Return of the Jedi | 30.00% | ~17,746 |
+| The Force Awakens | 25.00% | ~14,789 |
+| The Last Jedi | 21.00% | ~12,423 |
+| The Rise of Skywalker | 19.00% | ~11,239 |
+| ''It's true... all of it'' | 18.00% | ~10,648 |
+| ''Get the crews to their fighters'' | 17.00% | ~10,056 |
 | ''Raw, untamed power'' | 8.00% | ~4,732 |
 | Rishi Maze | 4.00% | ~2,366 |
 | ''Only one business in the Galaxy...'' | 4.00% | ~2,366 |
-| ''You may fire when ready'' | 3.00% | ~1,774 |
-| ''What have you done with those plans?'' | 3.00% | ~1,774 |
-| ''GONK!'' | 3.00% | ~1,774 |
-| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,774 |
-| The Slice | 3.00% | ~1,774 |
+| ''You may fire when ready'' | 3.00% | ~1,775 |
+| ''What have you done with those plans?'' | 3.00% | ~1,775 |
+| ''GONK!'' | 3.00% | ~1,775 |
+| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,775 |
+| The Slice | 3.00% | ~1,775 |
 | ''Hello there!'' | 2.00% | ~1,183 |
 | Unknown Regions | 2.00% | ~1,183 |
 | ''Do or do not. There is no try'' | 2.00% | ~1,183 |
@@ -48,11 +48,11 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Power! Unlimited power!'' | 2.00% | ~1,183 |
 | ''You needn't worry about your reward'' | 2.00% | ~1,183 |
 | ''Now I am the Master'' | 2.00% | ~1,183 |
-| ''Jedi Business'' | 1.00% | ~591 |
-| ''No more training, do you require'' | 1.00% | ~591 |
+| ''Jedi Business'' | 1.00% | ~592 |
+| ''No more training, do you require'' | 1.00% | ~592 |
 | ''I've never seen a real one!'' | 0.90% | ~532 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,147 (Ranked 119)  
+Progressed: 59,155 (Ranked 119)  
 Completed: 260 (0.44%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,10 +317,10 @@ Completed: 260 (0.44%) (Ranked 234)
 | 2024-01-08 | 58,654 | 259 |
 | 2024-01-09 | 58,857 | 259 |
 | 2024-01-10 | 59,073 | 260 |
-| 2024-01-11 | 59,147 | 260 |
+| 2024-01-11 | 59,155 | 260 |
 ## Awards
 Max (Great Boss Battles): 2,496  (Ranked 109)  
-Sum: 6,841 (Ranked 130)  
+Sum: 6,842 (Ranked 130)  
 Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |
@@ -332,7 +332,7 @@ Diff (max vs sum): -21
 | This game has Easy Combat | 480 |
 | This game has Amazing Storytelling | 476 |
 | This game is Extremely Fun | 465 |
-| This game has Quickly Understood Controls | 449 |
+| This game has Quickly Understood Controls | 450 |
 | This game is Relaxing | 442 |
 | This game has Obsessive Gameplay | 341 |
 | This game has a Creative Community | 307 |
@@ -632,4 +632,4 @@ Diff (max vs sum): -21
 | 2024-01-08 | 4.77 | - | 2,489 | 6,823 |
 | 2024-01-09 | 4.77 | - | 2,494 | 6,836 |
 | 2024-01-10 | 4.77 | - | 2,496 | 6,838 |
-| 2024-01-11 | 4.77 | - | 2,496 | 6,841 |
+| 2024-01-11 | 4.77 | - | 2,496 | 6,842 |

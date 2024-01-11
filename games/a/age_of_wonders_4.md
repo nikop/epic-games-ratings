@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.62 (Ranked 379)  
+Rating: 4.63 (Ranked 356)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,9 +16,9 @@ Rating: 4.62 (Ranked 379)
 | Full Ascension | 8.00% | ~576 |
 | Stronger Together | 8.00% | ~576 |
 | Seat of Power | 8.00% | ~576 |
+| Valley of Wonders | 7.00% | ~504 |
 | In a Liege of Your Own | 7.00% | ~504 |
 | Intimidation Tactics | 7.00% | ~504 |
-| Valley of Wonders | 6.00% | ~432 |
 | Digging for Treasure | 5.00% | ~360 |
 | My Final Form | 5.00% | ~360 |
 | But this one is mine | 5.00% | ~360 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 379)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,194 (Ranked 196)  
+Progressed: 7,194 (Ranked 197)  
 Completed: 7 (0.10%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 7 (0.10%) (Ranked 311)
 | 2024-01-11 | 7,194 | 7 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 481)  
-Sum: 217 (Ranked 410)  
+Sum: 218 (Ranked 410)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
@@ -311,8 +311,8 @@ Diff (max vs sum): 71
 | This game has Diverse Characters | 39 |
 | This game is Extremely Fun | 28 |
 | This game has Challenging Combat | 23 |
+| This game has Quickly Understood Controls | 23 |
 | This game is Highly Recommended | 22 |
-| This game has Quickly Understood Controls | 22 |
 | This game has Amazing Storytelling | 21 |
 | This game has Beautiful Visuals | 21 |
 ## Ratings History
@@ -406,3 +406,4 @@ Diff (max vs sum): 71
 | 2024-01-07 | 4.62 | 40 | 212 |
 | 2024-01-09 | 4.62 | 41 | 215 |
 | 2024-01-10 | 4.62 | 41 | 217 |
+| 2024-01-11 | 4.63 | 41 | 218 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74552,
+  "EOS_Progressed": 74563,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 1509,
+  "EOS_NewPlayers": 1496,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -6949,6 +6949,11 @@
       "Time": "2024-01-11T19:08:42.6932406+00:00",
       "NumProgressed": 74552,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2024-01-11T20:09:22.633103+00:00",
+      "NumProgressed": 74563,
+      "NumCompleted": 120
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -6961,7 +6966,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27584
+      "UsersEstimate": 27588
     },
     {
       "ID": "Achievement_10",
@@ -6993,7 +6998,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2982
+      "UsersEstimate": 2983
     },
     {
       "ID": "Achievement_14",
@@ -7049,7 +7054,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20875
+      "UsersEstimate": 20878
     },
     {
       "ID": "Achievement_20",
@@ -7081,7 +7086,7 @@
       "Name": "Festival Masters",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "Achievement_24",
@@ -7089,7 +7094,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2982
+      "UsersEstimate": 2983
     },
     {
       "ID": "Achievement_25",
@@ -7113,7 +7118,7 @@
       "Name": "Critter King",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "Achievement_28",
@@ -7137,7 +7142,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8946
+      "UsersEstimate": 8948
     },
     {
       "ID": "Achievement_30",
@@ -7185,7 +7190,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6710
+      "UsersEstimate": 6711
     },
     {
       "ID": "Achievement_5",
@@ -7201,7 +7206,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2982
+      "UsersEstimate": 2983
     },
     {
       "ID": "Achievement_7",
@@ -7232,7 +7237,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 74552,
+      "Progressed": 74563,
       "Completed": 120
     }
   ],
@@ -7240,8 +7245,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-09T18:03:16.5676566+00:00",
-  "LastChanged_Achievements": "2024-01-11T19:08:42.6932403+00:00",
+  "LastChanged_Achievements": "2024-01-11T20:09:22.6331025+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:28.0983464+00:00",
-  "LastUpdate_Ratings": "2024-01-11T19:03:05.0900904+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:08:42.6933183+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:03:49.9952995+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:09:22.6331533+00:00"
 }

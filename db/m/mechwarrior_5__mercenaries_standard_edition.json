@@ -2,7 +2,7 @@
   "ID": "b9def67e597b4be7a16146146a044d02",
   "Name": "MechWarrior 5: Mercenaries Standard Edition",
   "ProductSlug": "mechwarrior-5",
-  "Ranking_Rating": 401,
+  "Ranking_Rating": 400,
   "Ranking_Popularity": 142,
   "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 827,
@@ -6403,11 +6403,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 8278,
       "NumberOfAwardsMax": 1370
+    },
+    {
+      "Time": "2024-01-11T19:58:36.7621447+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 8279,
+      "NumberOfAwardsMax": 1371
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8278,
-  "NumberOfAwardsMax": 1370,
+  "NumberOfAwards": 8279,
+  "NumberOfAwardsMax": 1371,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6462,7 +6468,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1370
+      "Count": 1371
     }
   ],
   "EOS_Progressed": 0,
@@ -6476,8 +6482,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:39.9366975+00:00",
-  "LastChanged": "2024-01-11T15:58:23.0075158+00:00",
+  "LastChanged": "2024-01-11T19:58:36.7621446+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:31.3999236+00:00",
-  "LastUpdate_Ratings": "2024-01-11T18:57:58.8367586+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:05:35.1975418+00:00"
+  "LastUpdate_Ratings": "2024-01-11T19:58:36.762145+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:07:32.5330594+00:00"
 }

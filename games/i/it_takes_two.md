@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 83.00% | ~92,447 |
-| Struck A Pose | 82.00% | ~91,333 |
-| Look At Him Go | 69.00% | ~76,854 |
-| On Rails Experience | 44.00% | ~49,008 |
-| A Daring Devil | 43.00% | ~47,894 |
-| Break the Bank | 33.00% | ~36,756 |
-| It Took Two | 31.00% | ~34,528 |
-| Bug Sized Relaxation | 14.00% | ~15,593 |
-| Plastic Prison Breakers | 13.00% | ~14,480 |
-| Terror Of The Seven Seas | 10.00% | ~11,138 |
-| Realize Your Art | 8.00% | ~8,911 |
-| Force Triangulated | 8.00% | ~8,911 |
-| Meditation Maestro | 8.00% | ~8,911 |
-| Snackosaurus | 6.00% | ~6,683 |
-| Platforming Prodigy | 6.00% | ~6,683 |
-| Lost And Found | 6.00% | ~6,683 |
-| Something Fishy | 6.00% | ~6,683 |
-| Mood Swing | 4.00% | ~4,455 |
-| Faraway Frequencies | 3.00% | ~3,341 |
+| Fried Friendship | 83.00% | ~92,473 |
+| Struck A Pose | 82.00% | ~91,359 |
+| Look At Him Go | 69.00% | ~76,875 |
+| On Rails Experience | 44.00% | ~49,022 |
+| A Daring Devil | 43.00% | ~47,908 |
+| Break the Bank | 33.00% | ~36,766 |
+| It Took Two | 31.00% | ~34,538 |
+| Bug Sized Relaxation | 14.00% | ~15,598 |
+| Plastic Prison Breakers | 13.00% | ~14,484 |
+| Terror Of The Seven Seas | 10.00% | ~11,141 |
+| Realize Your Art | 8.00% | ~8,913 |
+| Force Triangulated | 8.00% | ~8,913 |
+| Meditation Maestro | 8.00% | ~8,913 |
+| Snackosaurus | 6.00% | ~6,685 |
+| Platforming Prodigy | 6.00% | ~6,685 |
+| Lost And Found | 6.00% | ~6,685 |
+| Something Fishy | 6.00% | ~6,685 |
+| Mood Swing | 4.00% | ~4,457 |
+| Faraway Frequencies | 3.00% | ~3,342 |
 | Minigame Megalomania | 2.00% | ~2,228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111,382 (Ranked 96)  
+Progressed: 111,413 (Ranked 96)  
 Completed: 254 (0.23%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,4 +143,4 @@ Completed: 254 (0.23%) (Ranked 270)
 | 2024-01-08 | 106,495 | 237 |
 | 2024-01-09 | 108,184 | 245 |
 | 2024-01-10 | 109,818 | 253 |
-| 2024-01-11 | 111,382 | 254 |
+| 2024-01-11 | 111,413 | 254 |

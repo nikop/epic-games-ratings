@@ -1141,9 +1141,9 @@
       "ID": "TINGWD_BUTTON_PLAY",
       "SetID": "c0imaa6",
       "Name": "I want to PLAY!!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "TINGWD_BUTTON_UNINSTALL",
@@ -1213,9 +1213,9 @@
       "ID": "TINGWD_CHAP_END_06",
       "SetID": "c0imaa6",
       "Name": "Home at last",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "TINGWD_CLICKER",
@@ -1388,8 +1388,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-11T19:04:48.6340443+00:00",
+  "LastChanged_Achievements": "2024-01-11T20:06:25.7087142+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.2042305+00:00",
-  "LastUpdate_Ratings": "2024-01-11T19:02:37.7489567+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:04:48.6340846+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:02:39.538028+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:06:25.7087478+00:00"
 }

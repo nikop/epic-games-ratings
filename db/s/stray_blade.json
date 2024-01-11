@@ -4,7 +4,7 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 158,
+  "EOS_Progressed": 159,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -779,6 +779,11 @@
       "Time": "2024-01-11T11:10:14.7497474+00:00",
       "NumProgressed": 158,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T20:11:20.7369794+00:00",
+      "NumProgressed": 159,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -828,9 +833,9 @@
       "ID": "ACH_CRAFT_FIRST_WEAPON",
       "SetID": "7i20me3",
       "Name": "Tinkerer",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_DEFEAT_BOSS_INGLA",
@@ -868,9 +873,9 @@
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
@@ -1036,9 +1041,9 @@
       "ID": "ACH_FIND_WOODEN_CLUB",
       "SetID": "7i20me3",
       "Name": "Welcome to the Club",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_FINISH_GAME",
@@ -1205,13 +1210,13 @@
     {
       "ID": "7i20me3",
       "IsBase": true,
-      "Progressed": 158,
+      "Progressed": 159,
       "Completed": 0
     },
     {
       "ID": "doc1i1",
       "IsBase": false,
-      "Progressed": 156,
+      "Progressed": 157,
       "Completed": 117
     }
   ],
@@ -1219,8 +1224,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2024-01-11T19:10:05.7465134+00:00",
+  "LastChanged_Achievements": "2024-01-11T20:11:20.7369791+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:06.39854+00:00",
-  "LastUpdate_Ratings": "2024-01-11T18:59:28.714397+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:10:05.7465541+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:00:53.7919253+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:11:20.7370141+00:00"
 }

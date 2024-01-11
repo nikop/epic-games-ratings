@@ -5,9 +5,9 @@
   "Ranking_Rating": 956,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 411,
-  "Ranking_EOS_Progress": 190,
+  "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1027,7 +1027,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8271,
+  "EOS_Progressed": 8272,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 0,
@@ -13872,6 +13872,11 @@
       "Time": "2024-01-11T19:08:41.2992301+00:00",
       "NumProgressed": 8271,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T20:09:20.5625443+00:00",
+      "NumProgressed": 8272,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13899,7 +13904,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -13913,9 +13918,9 @@
       "ID": "ACHIEVEMENT_005",
       "SetID": "1a05lfd",
       "Name": "Fish Out of Water",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 579
+      "UsersEstimate": 662
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -14202,13 +14207,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8271,
+      "Progressed": 8272,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7643,
+      "Progressed": 7644,
       "Completed": 113
     }
   ],
@@ -14216,8 +14221,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-11T19:08:41.2992298+00:00",
+  "LastChanged_Achievements": "2024-01-11T20:09:20.5625441+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-11T19:00:09.6237696+00:00",
-  "LastUpdate_Achievements": "2024-01-11T19:08:41.299328+00:00"
+  "LastUpdate_Ratings": "2024-01-11T20:01:56.6856784+00:00",
+  "LastUpdate_Achievements": "2024-01-11T20:09:20.5626271+00:00"
 }
