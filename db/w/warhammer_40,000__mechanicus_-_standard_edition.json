@@ -1098,9 +1098,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 231938,
+  "EOS_Progressed": 231939,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 619,
+  "EOS_NewPlayers": 617,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30308,6 +30308,11 @@
       "Time": "2024-01-11T11:10:10.7164987+00:00",
       "NumProgressed": 231938,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-11T12:10:04.6137351+00:00",
+      "NumProgressed": 231939,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -30359,7 +30364,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20874
+      "UsersEstimate": 20875
     },
     {
       "ID": "ACH_BASE_16",
@@ -30375,7 +30380,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20874
+      "UsersEstimate": 20875
     },
     {
       "ID": "ACH_BASE_18",
@@ -30583,14 +30588,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20874
+      "UsersEstimate": 20875
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 231938,
+      "Progressed": 231939,
       "Completed": 5
     }
   ],
@@ -30598,8 +30603,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-10T22:57:37.8537194+00:00",
-  "LastChanged_Achievements": "2024-01-11T11:10:10.7164985+00:00",
+  "LastChanged_Achievements": "2024-01-11T12:10:04.6137349+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:54.2987721+00:00",
-  "LastUpdate_Ratings": "2024-01-11T10:58:01.6479879+00:00",
-  "LastUpdate_Achievements": "2024-01-11T11:10:10.7166879+00:00"
+  "LastUpdate_Ratings": "2024-01-11T11:57:52.6577139+00:00",
+  "LastUpdate_Achievements": "2024-01-11T12:10:04.6138787+00:00"
 }

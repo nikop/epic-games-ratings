@@ -5,19 +5,19 @@ Rating: 4.69 (Ranked 237)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 46.00% | ~598 |
-| Rail Rat | 35.00% | ~455 |
-| The Mysterious Stranger | 34.00% | ~442 |
-| Immaculate Aim | 29.00% | ~377 |
-| The Brass Boss | 28.00% | ~364 |
-| Time Flies | 27.00% | ~351 |
-| Make Up For Lost Time | 26.00% | ~338 |
-| The Harder They Fall | 26.00% | ~338 |
-| No, Thanks! | 26.00% | ~338 |
-| The Prince in Heels | 26.00% | ~338 |
-| Honest Mistake | 26.00% | ~338 |
-| Immaculate Aim | 26.00% | ~338 |
-| Fast Learner | 25.00% | ~325 |
+| Time Heals All Wounds | 46.00% | ~599 |
+| Rail Rat | 35.00% | ~456 |
+| The Mysterious Stranger | 34.00% | ~443 |
+| Immaculate Aim | 29.00% | ~378 |
+| The Brass Boss | 28.00% | ~365 |
+| Time Flies | 27.00% | ~352 |
+| Make Up For Lost Time | 26.00% | ~339 |
+| The Harder They Fall | 26.00% | ~339 |
+| No, Thanks! | 26.00% | ~339 |
+| The Prince in Heels | 26.00% | ~339 |
+| Honest Mistake | 26.00% | ~339 |
+| Immaculate Aim | 26.00% | ~339 |
+| Fast Learner | 25.00% | ~326 |
 | The Steel Shadow | 24.00% | ~312 |
 | Right On Time | 23.00% | ~299 |
 | Breaking Down Barriers | 23.00% | ~299 |
@@ -59,7 +59,7 @@ Rating: 4.69 (Ranked 237)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.50% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,301 (Ranked 280)  
+Progressed: 1,302 (Ranked 280)  
 Completed: 7 (0.54%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 7 (0.54%) (Ranked 216)
 | 2024-01-08 | 1,278 | 7 |
 | 2024-01-09 | 1,289 | 7 |
 | 2024-01-10 | 1,300 | 7 |
-| 2024-01-11 | 1,301 | 7 |
+| 2024-01-11 | 1,302 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

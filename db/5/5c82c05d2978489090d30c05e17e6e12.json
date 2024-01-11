@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74479,
+  "EOS_Progressed": 74484,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 1552,
+  "EOS_NewPlayers": 1551,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -6909,6 +6909,11 @@
       "Time": "2024-01-11T11:08:53.9215818+00:00",
       "NumProgressed": 74479,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2024-01-11T12:08:39.4200107+00:00",
+      "NumProgressed": 74484,
+      "NumCompleted": 120
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -6921,7 +6926,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27557
+      "UsersEstimate": 27559
     },
     {
       "ID": "Achievement_10",
@@ -7009,7 +7014,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20854
+      "UsersEstimate": 20856
     },
     {
       "ID": "Achievement_20",
@@ -7097,7 +7102,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8937
+      "UsersEstimate": 8938
     },
     {
       "ID": "Achievement_30",
@@ -7145,7 +7150,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6703
+      "UsersEstimate": 6704
     },
     {
       "ID": "Achievement_5",
@@ -7169,7 +7174,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2234
+      "UsersEstimate": 2235
     },
     {
       "ID": "Achievement_8",
@@ -7177,7 +7182,7 @@
       "Name": "House In Order",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2234
+      "UsersEstimate": 2235
     },
     {
       "ID": "Achievement_9",
@@ -7192,7 +7197,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 74479,
+      "Progressed": 74484,
       "Completed": 120
     }
   ],
@@ -7200,8 +7205,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-09T18:03:16.5676566+00:00",
-  "LastChanged_Achievements": "2024-01-11T11:08:53.9215813+00:00",
+  "LastChanged_Achievements": "2024-01-11T12:08:39.4200104+00:00",
   "LastUpdate_AppInfo": "2024-01-04T16:57:21.0621045+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:03:12.9852832+00:00",
-  "LastUpdate_Achievements": "2024-01-11T11:08:53.9216488+00:00"
+  "LastUpdate_Ratings": "2024-01-11T12:03:15.422756+00:00",
+  "LastUpdate_Achievements": "2024-01-11T12:08:39.4200594+00:00"
 }

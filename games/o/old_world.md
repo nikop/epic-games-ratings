@@ -67,6 +67,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 0.70% | ~115 |
 | Sages | 0.70% | ~115 |
 | Colossus | 0.70% | ~115 |
+| Learn to Play 3 | 0.70% | ~115 |
 | Building Wonders | 0.70% | ~115 |
 | Mythology | 0.70% | ~115 |
 | Beloved | 0.60% | ~98 |
@@ -74,7 +75,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 0.60% | ~98 |
 | Champions | 0.60% | ~98 |
 | Statesmen | 0.60% | ~98 |
-| Learn to Play 3 | 0.60% | ~98 |
 | Power to the People | 0.60% | ~98 |
 | Persian Paganism | 0.60% | ~98 |
 | Points Victory | 0.60% | ~98 |
@@ -104,6 +104,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.40% | ~66 |
 | Strong Difficulty | 0.40% | ~66 |
 | Circus Maximus | 0.40% | ~66 |
+| Learn to Play 4 | 0.40% | ~66 |
 | Assyrian Paganism | 0.40% | ~66 |
 | Industrial Progress | 0.40% | ~66 |
 | Dualism | 0.40% | ~66 |
@@ -114,6 +115,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.40% | ~66 |
 | Ambition Victory | 0.40% | ~66 |
 | The Clergy | 0.40% | ~66 |
+| Kushite Pyramids | 0.40% | ~66 |
 | Kushite Paganism | 0.40% | ~66 |
 | Devout | 0.30% | ~49 |
 | Peacemaker | 0.30% | ~49 |
@@ -121,7 +123,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.30% | ~49 |
 | Church of the Holy Sepulchre | 0.30% | ~49 |
 | Adur Burzen-Mihr | 0.30% | ~49 |
-| Learn to Play 4 | 0.30% | ~49 |
 | Babylonia | 0.30% | ~49 |
 | Carthage | 0.30% | ~49 |
 | Egypt | 0.30% | ~49 |
@@ -134,7 +135,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.30% | ~49 |
 | All Nations | 0.30% | ~49 |
 | Deposed Tribe | 0.30% | ~49 |
-| Kushite Pyramids | 0.30% | ~49 |
 | Ishtar Gate in Babylon | 0.20% | ~33 |
 | Carthage - Ox Hide | 0.20% | ~33 |
 | Carthage - Riches and Influence | 0.20% | ~33 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,405 (Ranked 169)  
+Progressed: 16,407 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -631,7 +631,7 @@ Completed: 5 (0.03%) (Ranked 355)
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
-| 2024-01-11 | 16,405 | 5 |
+| 2024-01-11 | 16,407 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,919 (Ranked 224)  

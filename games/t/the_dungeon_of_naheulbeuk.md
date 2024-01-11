@@ -8,7 +8,7 @@ Number of Ratings: 118  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sowwy! | 37.00% | ~91,618 |
 | Alt+F4 | 11.00% | ~27,238 |
-| Where's that freaking Dwarf? | 9.00% | ~22,285 |
+| Where's that freaking Dwarf? | 9.00% | ~22,286 |
 | Déjà vu | 8.00% | ~19,809 |
 | Sock! SOCK! | 6.00% | ~14,857 |
 | Speedrun | 6.00% | ~14,857 |
@@ -18,14 +18,14 @@ Number of Ratings: 118  (23.09.2022)
 | Way of the Wimp | 4.00% | ~9,905 |
 | The plot thickens... At the tavern | 4.00% | ~9,905 |
 | Fireproof Wizardess | 4.00% | ~9,905 |
-| Livin' in a dwarven paradise | 3.00% | ~7,428 |
-| The demons' feast | 3.00% | ~7,428 |
-| The Great Library | 3.00% | ~7,428 |
-| Torture and Sensibility | 3.00% | ~7,428 |
-| Urik's Depths | 3.00% | ~7,428 |
-| The Woman in the High Castle | 3.00% | ~7,428 |
-| Team Building Exercise | 3.00% | ~7,428 |
-| Oh, when I'll be level 10... | 3.00% | ~7,428 |
+| Livin' in a dwarven paradise | 3.00% | ~7,429 |
+| The demons' feast | 3.00% | ~7,429 |
+| The Great Library | 3.00% | ~7,429 |
+| Torture and Sensibility | 3.00% | ~7,429 |
+| Urik's Depths | 3.00% | ~7,429 |
+| The Woman in the High Castle | 3.00% | ~7,429 |
+| Team Building Exercise | 3.00% | ~7,429 |
+| Oh, when I'll be level 10... | 3.00% | ~7,429 |
 | Shiny and Crôm | 2.00% | ~4,952 |
 | The Dungeon Master | 2.00% | ~4,952 |
 | The Statuette of Gladeulfeurah | 2.00% | ~4,952 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~248 |
 | Dwarf Candy | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,616 (Ranked 72)  
+Progressed: 247,617 (Ranked 72)  
 Completed: 8 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 8 (0.00%) (Ranked 397)
 | 2024-01-08 | 247,298 | 8 |
 | 2024-01-09 | 247,450 | 8 |
 | 2024-01-10 | 247,582 | 8 |
-| 2024-01-11 | 247,616 | 8 |
+| 2024-01-11 | 247,617 | 8 |
 ## Awards
 Max (Character Customization): 268  (Ranked 277)  
 Sum: 564 (Ranked 330)  

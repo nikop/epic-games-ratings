@@ -2,9 +2,9 @@
   "ID": "e462ded8eeed40d7b81015ca87cdb5d8",
   "Name": "The Complex",
   "ProductSlug": "the-complex-0ca5bb",
-  "Ranking_EOS_Progress": 311,
+  "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 820,
+  "EOS_Progressed": 821,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.68,
   "EosHistory": [
@@ -1800,6 +1800,11 @@
       "Time": "2024-01-10T15:09:37.8701362+00:00",
       "NumProgressed": 820,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-11T12:09:45.2429839+00:00",
+      "NumProgressed": 821,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 20,
@@ -1819,7 +1824,7 @@
       "Name": "Blast From The Past",
       "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "deadly_secret",
@@ -1827,7 +1832,7 @@
       "Name": "Deadly Secret",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ending_1",
@@ -1899,7 +1904,7 @@
       "Name": "Falling For You",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "free_champagne",
@@ -1923,7 +1928,7 @@
       "Name": "Kindar Surprise",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "not_a_people_person",
@@ -1947,7 +1952,7 @@
       "Name": "Storage Hunter",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -1955,7 +1960,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "tough_decision",
@@ -1963,14 +1968,14 @@
       "Name": "Tough Decision",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 820,
+      "Progressed": 821,
       "Completed": 22
     }
   ],
@@ -1978,8 +1983,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2024-01-11T11:09:52.9268914+00:00",
+  "LastChanged_Achievements": "2024-01-11T12:09:45.2429837+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:38.6088522+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:03:00.4145168+00:00",
-  "LastUpdate_Achievements": "2024-01-11T11:09:52.9269125+00:00"
+  "LastUpdate_Ratings": "2024-01-11T12:03:00.3337951+00:00",
+  "LastUpdate_Achievements": "2024-01-11T12:09:45.2430067+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -759,9 +759,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7185,
+  "EOS_Progressed": 7188,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11029,6 +11029,11 @@
       "Time": "2024-01-11T06:08:33.959686+00:00",
       "NumProgressed": 7185,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-11T12:03:34.3899926+00:00",
+      "NumProgressed": 7188,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -11088,7 +11093,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "16",
@@ -11128,7 +11133,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "20",
@@ -11168,7 +11173,7 @@
       "Name": "Secret Technique",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "25",
@@ -11184,7 +11189,7 @@
       "Name": "Bone Peddler",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "27",
@@ -11200,7 +11205,7 @@
       "Name": "From Friends to Family",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "29",
@@ -11272,7 +11277,7 @@
       "Name": "Fiery Friend",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "37",
@@ -11280,7 +11285,7 @@
       "Name": "Against the Odds",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "38",
@@ -11296,7 +11301,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "4",
@@ -11519,13 +11524,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7185,
+      "Progressed": 7188,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7185,
+      "Progressed": 7188,
       "Completed": 7
     }
   ],
@@ -11533,8 +11538,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-10T06:57:43.8261312+00:00",
-  "LastChanged_Achievements": "2024-01-11T10:07:48.8810502+00:00",
+  "LastChanged_Achievements": "2024-01-11T12:03:34.3899919+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-11T10:58:25.8089343+00:00",
-  "LastUpdate_Achievements": "2024-01-11T10:07:48.8811492+00:00"
+  "LastUpdate_Ratings": "2024-01-11T11:58:18.8332152+00:00",
+  "LastUpdate_Achievements": "2024-01-11T12:03:34.3904675+00:00"
 }

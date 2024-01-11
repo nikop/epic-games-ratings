@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2395,9 +2395,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 19364,
+  "EOS_Progressed": 19365,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 1113,
+  "EOS_NewPlayers": 1109,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -19965,6 +19965,11 @@
       "Time": "2024-01-11T11:10:11.3091835+00:00",
       "NumProgressed": 19364,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-11T12:10:05.2870562+00:00",
+      "NumProgressed": 19365,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 35,
@@ -19976,7 +19981,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15685
+      "UsersEstimate": 15686
     },
     {
       "ID": "ACH02",
@@ -19984,7 +19989,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "ACH03",
@@ -19992,7 +19997,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "ACH04",
@@ -20255,7 +20260,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19364,
+      "Progressed": 19365,
       "Completed": 75
     }
   ],
@@ -20263,8 +20268,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-11T00:02:53.6737016+00:00",
-  "LastChanged_Achievements": "2024-01-11T11:10:11.309183+00:00",
+  "LastChanged_Achievements": "2024-01-11T12:10:05.2870559+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:02:55.364346+00:00",
-  "LastUpdate_Achievements": "2024-01-11T11:10:11.3093338+00:00"
+  "LastUpdate_Ratings": "2024-01-11T12:02:54.886822+00:00",
+  "LastUpdate_Achievements": "2024-01-11T12:10:05.2871707+00:00"
 }

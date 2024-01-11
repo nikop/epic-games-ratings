@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1934,
+  "EOS_Progressed": 1935,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4932,6 +4932,11 @@
       "Time": "2024-01-11T09:07:05.4485883+00:00",
       "NumProgressed": 1934,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T12:06:26.8483029+00:00",
+      "NumProgressed": 1935,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4944,7 +4949,7 @@
       "Name": "Rookie",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5311,20 +5316,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1934,
+      "Progressed": 1935,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1602,
+      "Progressed": 1603,
       "Completed": 1013
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-11T11:06:04.648468+00:00",
+  "LastChanged_Achievements": "2024-01-11T12:06:26.8483027+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.6791346+00:00",
-  "LastUpdate_Ratings": "2024-01-11T10:59:17.1701751+00:00",
-  "LastUpdate_Achievements": "2024-01-11T11:06:04.6485349+00:00"
+  "LastUpdate_Ratings": "2024-01-11T11:59:18.9614319+00:00",
+  "LastUpdate_Achievements": "2024-01-11T12:06:26.8483547+00:00"
 }

@@ -6,53 +6,53 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 39.00% | ~420,957 |
-| Sword Runner | 24.00% | ~259,050 |
-| Running out of breath | 18.00% | ~194,288 |
-| Wallrunner | 17.00% | ~183,494 |
-| I call it luck | 13.00% | ~140,319 |
-| Out of order | 12.00% | ~129,525 |
-| Homerunner | 11.00% | ~118,731 |
-| Running Wild | 9.00% | ~97,144 |
-| Back to hell | 8.00% | ~86,350 |
-| Sword to a gunfight | 8.00% | ~86,350 |
-| Where are my Keys? | 8.00% | ~86,350 |
-| Perfection | 7.00% | ~75,556 |
-| Artificial selection | 6.00% | ~64,763 |
-| Upgrades not mandatory | 6.00% | ~64,763 |
-| Why not both | 6.00% | ~64,763 |
-| Finish line | 5.00% | ~53,969 |
-| Control freak | 5.00% | ~53,969 |
-| Dead in the air | 4.00% | ~43,175 |
-| Unstoppable force | 4.00% | ~43,175 |
-| Wave of mutilation | 4.00% | ~43,175 |
-| Can't Run Can't Hide | 3.00% | ~32,381 |
-| Improvise, adapt, overrun | 2.00% | ~21,588 |
-| Pre-empative strike | 2.00% | ~21,588 |
-| R is for Running | 2.00% | ~21,588 |
-| Strike | 2.00% | ~21,588 |
-| Triple A | 2.00% | ~21,588 |
-| More than human | 1.00% | ~10,794 |
-| Push it to the limit | 0.70% | ~7,556 |
-| Fine addition | 0.60% | ~6,476 |
-| About Adam | 0.30% | ~3,238 |
-| One Of Those Days | 0.30% | ~3,238 |
-| Hit me if you can | 0.20% | ~2,159 |
-| Junkrunner | 0.20% | ~2,159 |
-| One man's trash | 0.20% | ~2,159 |
-| Where He Stood | 0.20% | ~2,159 |
-| A Grade | 0.10% | ~1,079 |
-| Everyone Needs A Hobby | 0.10% | ~1,079 |
-| GR Project Complete | 0.10% | ~1,079 |
-| Just A Man | 0.10% | ~1,079 |
-| Legacy Drivers | 0.10% | ~1,079 |
-| Obedient Machine | 0.10% | ~1,079 |
-| Scrapped | 0.10% | ~1,079 |
-| Sticks And Stones | 0.10% | ~1,079 |
-| Strafing Run | 0.10% | ~1,079 |
-| Up Close And Personal | 0.10% | ~1,079 |
+| Longrunner | 39.00% | ~421,288 |
+| Sword Runner | 24.00% | ~259,254 |
+| Running out of breath | 18.00% | ~194,441 |
+| Wallrunner | 17.00% | ~183,638 |
+| I call it luck | 13.00% | ~140,429 |
+| Out of order | 12.00% | ~129,627 |
+| Homerunner | 11.00% | ~118,825 |
+| Running Wild | 9.00% | ~97,220 |
+| Back to hell | 8.00% | ~86,418 |
+| Sword to a gunfight | 8.00% | ~86,418 |
+| Where are my Keys? | 8.00% | ~86,418 |
+| Perfection | 7.00% | ~75,616 |
+| Artificial selection | 6.00% | ~64,814 |
+| Upgrades not mandatory | 6.00% | ~64,814 |
+| Why not both | 6.00% | ~64,814 |
+| Finish line | 5.00% | ~54,011 |
+| Control freak | 5.00% | ~54,011 |
+| Dead in the air | 4.00% | ~43,209 |
+| Unstoppable force | 4.00% | ~43,209 |
+| Wave of mutilation | 4.00% | ~43,209 |
+| Can't Run Can't Hide | 3.00% | ~32,407 |
+| Improvise, adapt, overrun | 2.00% | ~21,605 |
+| Pre-empative strike | 2.00% | ~21,605 |
+| R is for Running | 2.00% | ~21,605 |
+| Strike | 2.00% | ~21,605 |
+| Triple A | 2.00% | ~21,605 |
+| More than human | 1.00% | ~10,802 |
+| Push it to the limit | 0.70% | ~7,562 |
+| Fine addition | 0.60% | ~6,481 |
+| About Adam | 0.30% | ~3,241 |
+| One Of Those Days | 0.30% | ~3,241 |
+| Hit me if you can | 0.20% | ~2,160 |
+| Junkrunner | 0.20% | ~2,160 |
+| One man's trash | 0.20% | ~2,160 |
+| Where He Stood | 0.20% | ~2,160 |
+| A Grade | 0.10% | ~1,080 |
+| Everyone Needs A Hobby | 0.10% | ~1,080 |
+| GR Project Complete | 0.10% | ~1,080 |
+| Just A Man | 0.10% | ~1,080 |
+| Legacy Drivers | 0.10% | ~1,080 |
+| Obedient Machine | 0.10% | ~1,080 |
+| Scrapped | 0.10% | ~1,080 |
+| Sticks And Stones | 0.10% | ~1,080 |
+| Strafing Run | 0.10% | ~1,080 |
+| Up Close And Personal | 0.10% | ~1,080 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,079,377 (Ranked 16)  
+Progressed: 1,080,226 (Ranked 16)  
 Completed: 197 (0.02%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,14 +318,14 @@ Completed: 197 (0.02%) (Ranked 363)
 | 2024-01-08 | 1,040,180 | 181 |
 | 2024-01-09 | 1,058,062 | 188 |
 | 2024-01-10 | 1,073,311 | 197 |
-| 2024-01-11 | 1,079,377 | 197 |
+| 2024-01-11 | 1,080,226 | 197 |
 ## Awards
-Max (Great Boss Battles): 1,216  (Ranked 148)  
-Sum: 1,494 (Ranked 246)  
+Max (Great Boss Battles): 1,259  (Ranked 147)  
+Sum: 1,537 (Ranked 245)  
 Diff (max vs sum): -98  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 1,216 |
+| This game has Great Boss Battles | 1,259 |
 | This game has Diverse Characters | 48 |
 | This game has a Creative Community | 36 |
 | This game has Amazing Characters | 35 |
@@ -536,4 +536,4 @@ Diff (max vs sum): -98
 | 2024-01-08 | 4.62 | - | 1,117 | 1,327 |
 | 2024-01-09 | 4.61 | - | 1,170 | 1,389 |
 | 2024-01-10 | 4.61 | - | 1,216 | 1,446 |
-| 2024-01-11 | 4.61 | - | 1,216 | 1,494 |
+| 2024-01-11 | 4.61 | - | 1,259 | 1,537 |

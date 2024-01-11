@@ -23,11 +23,11 @@ Rating: 4.75 (Ranked 147)
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~281 |
 | Damage Control | 7.00% | ~281 |
 | Master of the Brawl | 7.00% | ~281 |
+| A Secret Recipe | 6.00% | ~241 |
 | Your Biggest Fans | 5.00% | ~201 |
 | An Ally in Need | 5.00% | ~201 |
 | For the Queen | 5.00% | ~201 |
 | Not a Drop Wasted | 5.00% | ~201 |
-| A Secret Recipe | 5.00% | ~201 |
 | Reinforcements | 4.00% | ~161 |
 | Sweet Revenge | 4.00% | ~161 |
 | We Have the Technology | 4.00% | ~161 |

@@ -4,7 +4,7 @@
   "ProductSlug": "bandle-tale-a-league-of-legends-story",
   "Ranking_EOS_Progress": 826,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 582,
+  "Ranking_EOS_NewPlayers": 580,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -39,8 +39,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-27T11:05:00.7152408+00:00",
-  "LastChanged_Achievements": "2024-01-11T11:05:47.9967405+00:00",
+  "LastChanged_Achievements": "2024-01-11T12:06:08.4794999+00:00",
   "LastUpdate_AppInfo": "2024-01-05T01:43:58.8656461+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:03:15.9980479+00:00",
-  "LastUpdate_Achievements": "2024-01-11T11:05:47.9967441+00:00"
+  "LastUpdate_Ratings": "2024-01-11T12:03:19.2220575+00:00",
+  "LastUpdate_Achievements": "2024-01-11T12:06:08.4795032+00:00"
 }

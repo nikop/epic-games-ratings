@@ -5,7 +5,7 @@
   "Ranking_Rating": 263,
   "Ranking_Popularity": 522,
   "Ranking_PopularitySum": 399,
-  "Ranking_EOS_Progress": 287,
+  "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 397,
   "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 156,
@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1134,
+  "EOS_Progressed": 1135,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3952,6 +3952,11 @@
       "Time": "2024-01-11T11:09:31.0903109+00:00",
       "NumProgressed": 1134,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T12:09:21.3470237+00:00",
+      "NumProgressed": 1135,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -3988,7 +3993,7 @@
       "Name": "Dressed For Success",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "AttackCount",
@@ -4324,7 +4329,7 @@
       "Name": "Humiliation",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -4395,15 +4400,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1134,
+      "Progressed": 1135,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-11T11:09:31.0903104+00:00",
+  "LastChanged_Achievements": "2024-01-11T12:09:21.3470232+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-11T10:58:08.3407358+00:00",
-  "LastUpdate_Achievements": "2024-01-11T11:09:31.0903605+00:00"
+  "LastUpdate_Ratings": "2024-01-11T11:57:59.9249147+00:00",
+  "LastUpdate_Achievements": "2024-01-11T12:09:21.347096+00:00"
 }

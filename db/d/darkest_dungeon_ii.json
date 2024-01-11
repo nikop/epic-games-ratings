@@ -10648,10 +10648,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21582,
       "NumberOfAwardsMax": 8002
+    },
+    {
+      "Time": "2024-01-11T11:59:39.7015643+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21584,
+      "NumberOfAwardsMax": 8002
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21582,
+  "NumberOfAwards": 21584,
   "NumberOfAwardsMax": 8002,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10719,7 +10725,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1443
+      "Count": 1445
     },
     {
       "Text": "This game has a Creative Community",
@@ -10728,9 +10734,9 @@
       "Count": 1088
     }
   ],
-  "EOS_Progressed": 132438,
+  "EOS_Progressed": 132439,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 843,
+  "EOS_NewPlayers": 836,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39338,6 +39344,11 @@
       "Time": "2024-01-11T11:10:02.462284+00:00",
       "NumProgressed": 132438,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T12:09:55.812023+00:00",
+      "NumProgressed": 132439,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39893,7 +39904,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -39980,21 +39991,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132438,
+      "Progressed": 132439,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7307,
+      "Progressed": 7308,
       "Completed": 824
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-11T10:59:35.5538895+00:00",
-  "LastChanged_Achievements": "2024-01-11T11:10:02.4622837+00:00",
+  "LastChanged": "2024-01-11T11:59:39.7015642+00:00",
+  "LastChanged_Achievements": "2024-01-11T12:09:55.8120226+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-11T10:59:35.5538901+00:00",
-  "LastUpdate_Achievements": "2024-01-11T11:10:02.4624622+00:00"
+  "LastUpdate_Ratings": "2024-01-11T11:59:39.7015646+00:00",
+  "LastUpdate_Achievements": "2024-01-11T12:09:55.8121889+00:00"
 }

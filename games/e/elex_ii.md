@@ -18,7 +18,7 @@ Number of Ratings: 124  (23.09.2022)
 | Irissa's Fate | 17.00% | ~40 |
 | Pass A38 | 17.00% | ~40 |
 | Long-Haul Flyer | 15.00% | ~35 |
-| Family Reunion | 14.00% | ~33 |
+| Family Reunion | 15.00% | ~35 |
 | Eternal Oblivion | 14.00% | ~33 |
 | Storyteller | 12.00% | ~28 |
 | Globetrotter | 11.00% | ~26 |
@@ -32,9 +32,9 @@ Number of Ratings: 124  (23.09.2022)
 | Treasure Hunter | 6.00% | ~14 |
 | Beam Me Up | 6.00% | ~14 |
 | Free as a Bird | 6.00% | ~14 |
+| Cleric | 6.00% | ~14 |
 | Detective | 6.00% | ~14 |
 | Weaponsmith | 5.00% | ~12 |
-| Cleric | 5.00% | ~12 |
 | Alchemist | 4.00% | ~9 |
 | Self-Sufficient | 3.00% | ~7 |
 | Idealist | 3.00% | ~7 |

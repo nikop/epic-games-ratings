@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Goodbye | 90.00% | ~158 |
-| The Routine | 80.00% | ~141 |
-| Mother | 78.00% | ~137 |
-| Failure | 75.00% | ~132 |
-| Replace Fuse | 67.00% | ~118 |
-| Alarm | 66.00% | ~116 |
-| Air Filtration | 63.00% | ~111 |
-| Broken | 61.00% | ~107 |
-| Radiation | 60.00% | ~106 |
-| Descent | 58.00% | ~102 |
-| Awakenings | 57.00% | ~100 |
-| Cold Storage | 57.00% | ~100 |
-| Sam | 57.00% | ~100 |
-| Leave | 51.00% | ~90 |
+| Last Goodbye | 89.00% | ~158 |
+| The Routine | 79.00% | ~140 |
+| Mother | 77.00% | ~136 |
+| Failure | 75.00% | ~133 |
+| Replace Fuse | 67.00% | ~119 |
+| Alarm | 66.00% | ~117 |
+| Air Filtration | 63.00% | ~112 |
+| Broken | 60.00% | ~106 |
+| Radiation | 59.00% | ~104 |
+| Descent | 58.00% | ~103 |
+| Awakenings | 57.00% | ~101 |
+| Cold Storage | 57.00% | ~101 |
+| Sam | 56.00% | ~99 |
 | Soldier | 51.00% | ~90 |
-| Churchill | 49.00% | ~86 |
-| Commissioner | 49.00% | ~86 |
-| Engineer | 49.00% | ~86 |
-| Doctor | 45.00% | ~79 |
-| Press Play | 36.00% | ~63 |
-| General | 28.00% | ~49 |
+| Leave | 50.00% | ~88 |
+| Churchill | 49.00% | ~87 |
+| Commissioner | 49.00% | ~87 |
+| Engineer | 49.00% | ~87 |
+| Doctor | 45.00% | ~80 |
+| Press Play | 36.00% | ~64 |
+| General | 28.00% | ~50 |
 | Bookworm | 26.00% | ~46 |
 | Floppy Disk Finder | 16.00% | ~28 |
 | Stay | 13.00% | ~23 |
@@ -33,8 +33,8 @@
 | Friends | 6.00% | ~11 |
 | The Missing Piece | 6.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 176 (Ranked 441)  
-Completed: 7 (3.98%) (Ranked 92)  
+Progressed: 177 (Ranked 441)  
+Completed: 7 (3.95%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,6 +105,7 @@ Completed: 7 (3.98%) (Ranked 92)
 | 2024-01-08 | 173 | 7 |
 | 2024-01-09 | 174 | 7 |
 | 2024-01-10 | 176 | 7 |
+| 2024-01-11 | 177 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

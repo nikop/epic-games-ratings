@@ -4,7 +4,7 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -829,9 +829,9 @@
       "ID": "Defeat_Rohen",
       "SetID": "7b9f97e",
       "Name": "Defeat Rohen",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "Defeat_Undergast",
@@ -949,9 +949,9 @@
       "ID": "Landmark_MistyCoastBones",
       "SetID": "7b9f97e",
       "Name": "Misty Coast Dragonbones",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Landmark_ReganGorForge",
@@ -965,9 +965,9 @@
       "ID": "Landmark_SilverDriftMine",
       "SetID": "7b9f97e",
       "Name": "Silver Drift Hollow Mine",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Landmark_StormwatchFaste",
@@ -1278,8 +1278,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-11T11:09:51.2470071+00:00",
+  "LastChanged_Achievements": "2024-01-11T12:09:43.435381+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:39.1572287+00:00",
-  "LastUpdate_Ratings": "2024-01-11T10:58:24.5768807+00:00",
-  "LastUpdate_Achievements": "2024-01-11T11:09:51.2470786+00:00"
+  "LastUpdate_Ratings": "2024-01-11T11:58:17.2542029+00:00",
+  "LastUpdate_Achievements": "2024-01-11T12:09:43.435437+00:00"
 }

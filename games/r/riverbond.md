@@ -6,25 +6,25 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~374,759 |
-| Now You're Talking | 62.00% | ~331,929 |
-| Steel Yourself | 62.00% | ~331,929 |
-| Window Dressing | 50.00% | ~267,685 |
-| Trigger Happy | 46.00% | ~246,270 |
-| Riverborn | 45.00% | ~240,916 |
+| First Step | 70.00% | ~374,760 |
+| Now You're Talking | 62.00% | ~331,930 |
+| Steel Yourself | 62.00% | ~331,930 |
+| Window Dressing | 50.00% | ~267,686 |
+| Trigger Happy | 46.00% | ~246,271 |
+| Riverborn | 45.00% | ~240,917 |
 | Starry Eyed | 34.00% | ~182,026 |
 | Poking Around | 34.00% | ~182,026 |
 | Talk of the Town | 24.00% | ~128,489 |
 | AAARR! | 23.00% | ~123,135 |
 | Hello Darkness | 23.00% | ~123,135 |
-| Wind At Our Backs | 22.00% | ~117,781 |
+| Wind At Our Backs | 22.00% | ~117,782 |
 | To the Beat | 20.00% | ~107,074 |
 | Sunny Shores | 17.00% | ~91,013 |
 | Sunday Best | 16.00% | ~85,659 |
 | To Victory! | 15.00% | ~80,306 |
 | Two of a Kind | 14.00% | ~74,952 |
 | Keep On Trucking | 13.00% | ~69,598 |
-| Going on an Adventure | 12.00% | ~64,244 |
+| Going on an Adventure | 12.00% | ~64,245 |
 | Make Peace, Not War | 11.00% | ~58,891 |
 | Walking The Line | 10.00% | ~53,537 |
 | Not So Cute Anymore | 10.00% | ~53,537 |
@@ -40,8 +40,8 @@ Number of Ratings: 617  (23.09.2022)
 | Dressed to Kill | 6.00% | ~32,122 |
 | Beast Mode | 6.00% | ~32,122 |
 | Slime Slayer | 6.00% | ~32,122 |
-| Noble Intentions | 5.00% | ~26,768 |
-| Rising Star | 5.00% | ~26,768 |
+| Noble Intentions | 5.00% | ~26,769 |
+| Rising Star | 5.00% | ~26,769 |
 | Privacy, Please! | 4.00% | ~21,415 |
 | Silky Smooth | 4.00% | ~21,415 |
 | Hash It Over | 4.00% | ~21,415 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,606 |
 | Point Taken | 0.20% | ~1,071 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 535,370 (Ranked 37)  
+Progressed: 535,371 (Ranked 37)  
 Completed: 519 (0.10%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 519 (0.10%) (Ranked 311)
 | 2024-01-08 | 535,203 | 519 |
 | 2024-01-09 | 535,283 | 519 |
 | 2024-01-10 | 535,349 | 519 |
-| 2024-01-11 | 535,370 | 519 |
+| 2024-01-11 | 535,371 | 519 |
 ## Awards
 Max (Relaxing): 21  (Ranked 574)  
 Sum: 21 (Ranked 576)  

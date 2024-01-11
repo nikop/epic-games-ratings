@@ -9,7 +9,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Malpractice Assurance | 13.00% | ~950 |
 | Lost and Found | 8.00% | ~585 |
 | Autodidact | 7.00% | ~9,271 |
-| This guy... again? | 7.00% | ~511 |
+| This guy... again? | 7.00% | ~512 |
 | Serenity Now! | 6.00% | ~7,946 |
 | This Belongs in a Museum | 6.00% | ~7,946 |
 | Creep and Sleep | 6.00% | ~7,946 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,438 (Ranked 91)  
+Progressed: 132,439 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,10 +342,10 @@ Completed: 4 (0.00%) (Ranked 397)
 | 2024-01-08 | 132,215 | 3 |
 | 2024-01-09 | 132,315 | 3 |
 | 2024-01-10 | 132,395 | 4 |
-| 2024-01-11 | 132,438 | 4 |
+| 2024-01-11 | 132,439 | 4 |
 ## Awards
 Max (Character Customization): 8,002  (Ranked 50)  
-Sum: 21,582 (Ranked 58)  
+Sum: 21,584 (Ranked 58)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -356,7 +356,7 @@ Diff (max vs sum): -8
 | This game has Amazing Characters | 1,529 |
 | This game is Extremely Fun | 1,520 |
 | This game has Unique Visuals | 1,465 |
-| This game has Amazing Storytelling | 1,443 |
+| This game has Amazing Storytelling | 1,445 |
 | This game has Quickly Understood Controls | 1,413 |
 | This game has a Creative Community | 1,088 |
 | This game has Obsessive Gameplay | 585 |
@@ -712,4 +712,4 @@ Diff (max vs sum): -8
 | 2024-01-08 | 4.68 | - | 7,992 | 21,547 |
 | 2024-01-09 | 4.68 | - | 7,992 | 21,561 |
 | 2024-01-10 | 4.68 | - | 8,000 | 21,576 |
-| 2024-01-11 | 4.68 | - | 8,002 | 21,582 |
+| 2024-01-11 | 4.68 | - | 8,002 | 21,584 |

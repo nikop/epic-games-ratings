@@ -4,7 +4,7 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 296,
+  "EOS_Progressed": 297,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.14,
+  "EOS_Completed_Percentage": 10.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -835,6 +835,11 @@
       "Time": "2024-01-10T21:09:39.3740934+00:00",
       "NumProgressed": 296,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-11T12:09:52.5290281+00:00",
+      "NumProgressed": 297,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 17,
@@ -844,9 +849,9 @@
       "ID": "and_away_we_go",
       "SetID": "202dmm8",
       "Name": "And away we go!",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 261
     },
     {
       "ID": "bless_the_rain",
@@ -892,17 +897,17 @@
       "ID": "dont_fear_the_baldness",
       "SetID": "202dmm8",
       "Name": "Don\u0027t fear the baldness",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 110
     },
     {
       "ID": "instinct",
       "SetID": "202dmm8",
       "Name": "Instinct",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 113
     },
     {
       "ID": "job_one_done",
@@ -942,7 +947,7 @@
       "Name": "Sorry, kiddo",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "the_truth",
@@ -958,7 +963,7 @@
       "Name": "The whole truth",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "toby_foolery",
@@ -981,7 +986,7 @@
     {
       "ID": "202dmm8",
       "IsBase": true,
-      "Progressed": 296,
+      "Progressed": 297,
       "Completed": 30
     }
   ],
@@ -989,8 +994,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2024-01-11T11:09:59.5285686+00:00",
+  "LastChanged_Achievements": "2024-01-11T12:09:52.5290279+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:34.6655092+00:00",
-  "LastUpdate_Ratings": "2024-01-11T10:59:05.4860274+00:00",
-  "LastUpdate_Achievements": "2024-01-11T11:09:59.5285797+00:00"
+  "LastUpdate_Ratings": "2024-01-11T11:59:05.5306768+00:00",
+  "LastUpdate_Achievements": "2024-01-11T12:09:52.5290461+00:00"
 }

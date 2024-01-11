@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1301,
+  "EOS_Progressed": 1302,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -3918,6 +3918,11 @@
       "Time": "2024-01-11T02:00:03.0062329+00:00",
       "NumProgressed": 1301,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-11T12:10:14.5317172+00:00",
+      "NumProgressed": 1302,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -4049,7 +4054,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -4089,7 +4094,7 @@
       "Name": "Rail Rat",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "HexlockGift",
@@ -4121,7 +4126,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "MapCompletion1",
@@ -4169,7 +4174,7 @@
       "Name": "Time Flies",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ParryBoss",
@@ -4177,7 +4182,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ParryRepeated1",
@@ -4185,7 +4190,7 @@
       "Name": "No, Thanks!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "PhaseDiveCounter",
@@ -4209,7 +4214,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "RewindDamage1",
@@ -4217,7 +4222,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "RewindParry",
@@ -4225,7 +4230,7 @@
       "Name": "Honest Mistake",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ScrambotCompletion1",
@@ -4257,7 +4262,7 @@
       "Name": "Fast Learner",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "SpeedRun",
@@ -4305,7 +4310,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "WarwickDefeated",
@@ -4313,7 +4318,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "WatcherFought",
@@ -4337,7 +4342,7 @@
       "Name": "The Brass Boss",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "Zarkon2Defeated",
@@ -4352,7 +4357,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1301,
+      "Progressed": 1302,
       "Completed": 7
     }
   ],
@@ -4360,8 +4365,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-11T11:10:19.8632021+00:00",
+  "LastChanged_Achievements": "2024-01-11T12:10:14.531717+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:00:13.7795124+00:00",
-  "LastUpdate_Achievements": "2024-01-11T11:10:19.8632805+00:00"
+  "LastUpdate_Ratings": "2024-01-11T12:00:20.2545238+00:00",
+  "LastUpdate_Achievements": "2024-01-11T12:10:14.5318125+00:00"
 }

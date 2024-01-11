@@ -34,9 +34,9 @@
 | Friend of Silver Drift Hollow | 12.00% | ~17 |
 | Friend of Bastion | 12.00% | ~17 |
 | Break Free | 12.00% | ~17 |
+| Silver Drift Hollow Mine | 11.00% | ~15 |
 | A Master of Magic | 11.00% | ~15 |
 | Magic Academy | 11.00% | ~15 |
-| Silver Drift Hollow Mine | 10.00% | ~14 |
 | The Forge of Regan Gor | 9.00% | ~12 |
 | Mage Teacher | 9.00% | ~12 |
 | Friend of Windholme | 9.00% | ~12 |
@@ -60,14 +60,14 @@
 | Balanced | 6.00% | ~8 |
 | Friend of Grey Dusk Vale | 6.00% | ~8 |
 | Defeat Undergast | 5.00% | ~7 |
+| Misty Coast Dragonbones | 5.00% | ~7 |
 | My Friends! | 5.00% | ~7 |
 | Master Necromancer | 5.00% | ~7 |
 | Defeat Isgrimm | 4.00% | ~6 |
+| Defeat Rohen | 4.00% | ~6 |
 | Defeat Yria | 4.00% | ~6 |
 | Lytra's Tale | 4.00% | ~6 |
-| Misty Coast Dragonbones | 4.00% | ~6 |
 | Breaking the circle | 4.00% | ~6 |
-| Defeat Rohen | 3.00% | ~4 |
 | Master Alchemist | 3.00% | ~4 |
 | Hard Life | 1.00% | ~1 |
 | Impossible Mission | 1.00% | ~1 |

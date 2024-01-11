@@ -2,12 +2,12 @@
   "ID": "6daaf10529e94fccaa8ee43b66adbe4a",
   "Name": "Pathfinder: Kingmaker - Enhanced Plus Edition",
   "ProductSlug": "pathfinder-kingmaker",
-  "Ranking_Rating": 471,
+  "Ranking_Rating": 496,
   "Ranking_Popularity": 99,
   "Ranking_PopularitySum": 101,
   "Ranking_EOS_Progress": 826,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 582,
+  "Ranking_EOS_NewPlayers": 580,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-05-13T19:30:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.57,
   "NumberOfRatings": 3868,
   "RatingHistory": [
     {
@@ -6996,10 +6996,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 9319,
       "NumberOfAwardsMax": 3437
+    },
+    {
+      "Time": "2024-01-11T11:59:48.0063947+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 9320,
+      "NumberOfAwardsMax": 3437
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9319,
+  "NumberOfAwards": 9320,
   "NumberOfAwardsMax": 3437,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7061,7 +7067,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 422
+      "Count": 423
     },
     {
       "Text": "This game has a Creative Community",
@@ -7093,8 +7099,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:35.6101884+00:00",
-  "LastChanged": "2024-01-10T20:59:22.219141+00:00",
+  "LastChanged": "2024-01-11T11:59:48.0063944+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.5743882+00:00",
-  "LastUpdate_Ratings": "2024-01-11T10:59:43.1831861+00:00",
-  "LastUpdate_Achievements": "2024-01-11T11:04:03.8764188+00:00"
+  "LastUpdate_Ratings": "2024-01-11T11:59:48.006395+00:00",
+  "LastUpdate_Achievements": "2024-01-11T12:04:14.3728834+00:00"
 }

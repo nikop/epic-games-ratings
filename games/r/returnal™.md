@@ -3,8 +3,8 @@
 [View Rawdata](../../db/r/returnal™.json)  
 Rating: 4.62 (Ranked 378)  
 ## Awards
-Max (Great Boss Battles): 149  (Ranked 331)  
-Sum: 149 (Ranked 443)  
+Max (Great Boss Battles): 149  (Ranked 332)  
+Sum: 149 (Ranked 444)  
 Diff (max vs sum): -112  
 | Award | Count |
 | ----- | ----- |

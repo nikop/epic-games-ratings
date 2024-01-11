@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 86.00% | ~271 |
+| Something important | 85.00% | ~269 |
 | A piece of the story | 65.00% | ~205 |
 | It's covered up for a reason | 59.00% | ~186 |
-| Wanderer | 54.00% | ~170 |
+| Wanderer | 54.00% | ~171 |
 | Scraps of love | 51.00% | ~161 |
-| The artist’s impression | 49.00% | ~154 |
+| The artist’s impression | 49.00% | ~155 |
 | Do what you have to | 44.00% | ~139 |
-| Sign of weakness | 41.00% | ~129 |
-| Refuse to look | 36.00% | ~113 |
-| Face your fears | 30.00% | ~94 |
+| Sign of weakness | 41.00% | ~130 |
+| Refuse to look | 36.00% | ~114 |
+| Face your fears | 30.00% | ~95 |
 | Finished it | 25.00% | ~79 |
 | Whispers long forgotten | 17.00% | ~54 |
 | Sound Bite | 13.00% | ~41 |
@@ -22,10 +22,10 @@
 | The art of movement | 12.00% | ~38 |
 | Another perspective | 11.00% | ~35 |
 | Lights! Camera! Action! | 11.00% | ~35 |
-| Playtime | 10.00% | ~32 |
 | Tough conversation | 10.00% | ~32 |
 | A new way | 9.00% | ~28 |
 | First steps | 9.00% | ~28 |
+| Playtime | 9.00% | ~28 |
 | The tragedy unfolds | 9.00% | ~28 |
 | Breaking free | 8.00% | ~25 |
 | Heavy Burden | 7.00% | ~22 |
@@ -45,9 +45,9 @@
 | Full Scoop | 2.00% | ~6 |
 | Preferred Parent | 2.00% | ~6 |
 | A Mosaic of Misery | 2.00% | ~6 |
-| The Big Picture | 1.00% | ~3 |
 | In One Take | 1.00% | ~3 |
-| Sword of the Serpent | 1.00% | ~3 |
+| The Big Picture | 0.90% | ~3 |
+| Sword of the Serpent | 0.90% | ~3 |
 | Rocket Science | 0.60% | ~2 |
 | You Can’t Handle the Truth | 0.30% | ~1 |
 | Letting go | 0.30% | ~1 |
@@ -57,7 +57,7 @@
 | Inheritance | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 315 (Ranked 393)  
+Progressed: 316 (Ranked 393)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,4 +137,4 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 295 | 0 |
 | 2024-01-09 | 305 | 0 |
 | 2024-01-10 | 312 | 0 |
-| 2024-01-11 | 315 | 0 |
+| 2024-01-11 | 316 | 0 |

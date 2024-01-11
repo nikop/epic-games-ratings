@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5207,9 +5207,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82472,
+  "EOS_Progressed": 82473,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 1132,
+  "EOS_NewPlayers": 1122,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -29792,6 +29792,11 @@
       "Time": "2024-01-11T10:05:14.4921349+00:00",
       "NumProgressed": 82472,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2024-01-11T12:05:50.6021009+00:00",
+      "NumProgressed": 82473,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 61,
@@ -29907,7 +29912,7 @@
       "Name": "Something in the Clay",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16494
+      "UsersEstimate": 16495
     },
     {
       "ID": "CLAYFACE_2",
@@ -29987,7 +29992,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7422
+      "UsersEstimate": 7423
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -30019,7 +30024,7 @@
       "Name": "Drone You Out",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7422
+      "UsersEstimate": 7423
     },
     {
       "ID": "FREEZE_1",
@@ -30027,7 +30032,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 22267
+      "UsersEstimate": 22268
     },
     {
       "ID": "FREEZE_1_5",
@@ -30035,7 +30040,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16494
+      "UsersEstimate": 16495
     },
     {
       "ID": "FREEZE_2",
@@ -30107,7 +30112,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28040
+      "UsersEstimate": 28041
     },
     {
       "ID": "HARLEY_2",
@@ -30115,7 +30120,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19793
+      "UsersEstimate": 19794
     },
     {
       "ID": "HARLEY_3",
@@ -30123,7 +30128,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16494
+      "UsersEstimate": 16495
     },
     {
       "ID": "HARLEY_4",
@@ -30171,7 +30176,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16494
+      "UsersEstimate": 16495
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -30203,7 +30208,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19793
+      "UsersEstimate": 19794
     },
     {
       "ID": "MYSTERY_03",
@@ -30219,7 +30224,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16494
+      "UsersEstimate": 16495
     },
     {
       "ID": "MYSTERY_05",
@@ -30290,13 +30295,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82472,
+      "Progressed": 82473,
       "Completed": 133
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 52752,
+      "Progressed": 52753,
       "Completed": 2679
     }
   ],
@@ -30304,8 +30309,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-11T08:00:28.7381437+00:00",
-  "LastChanged_Achievements": "2024-01-11T11:05:31.4192665+00:00",
+  "LastChanged_Achievements": "2024-01-11T12:05:50.6021006+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:43.7132471+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:00:13.1779058+00:00",
-  "LastUpdate_Achievements": "2024-01-11T11:05:31.4194039+00:00"
+  "LastUpdate_Ratings": "2024-01-11T12:00:19.977295+00:00",
+  "LastUpdate_Achievements": "2024-01-11T12:05:50.6022496+00:00"
 }

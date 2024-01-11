@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
@@ -832,9 +832,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 10356,
+  "EOS_Progressed": 10357,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14152,6 +14152,11 @@
       "Time": "2024-01-11T11:04:28.8060461+00:00",
       "NumProgressed": 10356,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-11T12:04:41.7867102+00:00",
+      "NumProgressed": 10357,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 50,
@@ -14163,7 +14168,7 @@
       "Name": "Adventure Time",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 7767
+      "UsersEstimate": 7768
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -14171,7 +14176,7 @@
       "Name": "Booty Bashing",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 3728
+      "UsersEstimate": 3729
     },
     {
       "ID": "ACH_BOSS_OF_BOSSES",
@@ -14219,7 +14224,7 @@
       "Name": "Field Medic",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 3728
+      "UsersEstimate": 3729
     },
     {
       "ID": "ACH_GET_FURIOUS",
@@ -14275,7 +14280,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 5385
+      "UsersEstimate": 5386
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -14307,7 +14312,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 8906
+      "UsersEstimate": 8907
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -14363,7 +14368,7 @@
       "Name": "Photogenic",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 8492
+      "UsersEstimate": 8493
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -14371,7 +14376,7 @@
       "Name": "Playing With Power",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7456
+      "UsersEstimate": 7457
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -14403,7 +14408,7 @@
       "Name": "Rapid Response",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 3210
+      "UsersEstimate": 3211
     },
     {
       "ID": "ACH_RESCUE_RANGER",
@@ -14459,7 +14464,7 @@
       "Name": "Surge Ahead",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 3003
+      "UsersEstimate": 3004
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_JOCKEY",
@@ -14467,7 +14472,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 8181
+      "UsersEstimate": 8182
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -14507,7 +14512,7 @@
       "Name": "The Full Monty",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 3003
+      "UsersEstimate": 3004
     },
     {
       "ID": "ACH_THIS_IS_MY_BOOMSTICK",
@@ -14555,22 +14560,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 5592
+      "UsersEstimate": 5593
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 10356,
+      "Progressed": 10357,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-12-06T04:01:07.9880717+00:00",
-  "LastChanged_Achievements": "2024-01-11T11:04:28.8060457+00:00",
+  "LastChanged_Achievements": "2024-01-11T12:04:41.7867099+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:39.3660601+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:03:04.6751864+00:00",
-  "LastUpdate_Achievements": "2024-01-11T11:04:28.8061351+00:00"
+  "LastUpdate_Ratings": "2024-01-11T12:03:05.0990279+00:00",
+  "LastUpdate_Achievements": "2024-01-11T12:04:41.7867925+00:00"
 }

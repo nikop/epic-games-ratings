@@ -6,34 +6,34 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~732,416 |
-| The Blues | 85.00% | ~628,842 |
-| Fast | 66.00% | ~488,277 |
-| Healthbar | 55.00% | ~406,898 |
-| Force Cube | 53.00% | ~392,101 |
-| Double Jump | 48.00% | ~355,111 |
-| Regeneration | 47.00% | ~347,713 |
-| Triple Jump | 43.00% | ~318,120 |
-| Climb the hill | 42.00% | ~310,722 |
-| Through the fire pipe | 39.00% | ~288,527 |
-| MacGuffin | 38.00% | ~281,129 |
-| Just once | 37.00% | ~273,731 |
-| Armor | 30.00% | ~221,944 |
-| True holy spirit | 28.00% | ~207,148 |
-| That's how electronics work obviously | 27.00% | ~199,750 |
+| Out of bed | 99.00% | ~732,420 |
+| The Blues | 85.00% | ~628,845 |
+| Fast | 66.00% | ~488,280 |
+| Healthbar | 55.00% | ~406,900 |
+| Force Cube | 53.00% | ~392,104 |
+| Double Jump | 48.00% | ~355,113 |
+| Regeneration | 47.00% | ~347,714 |
+| Triple Jump | 43.00% | ~318,122 |
+| Climb the hill | 42.00% | ~310,724 |
+| Through the fire pipe | 39.00% | ~288,529 |
+| MacGuffin | 38.00% | ~281,131 |
+| Just once | 37.00% | ~273,733 |
+| Armor | 30.00% | ~221,945 |
+| True holy spirit | 28.00% | ~207,149 |
+| That's how electronics work obviously | 27.00% | ~199,751 |
 | Force Cube Catapult | 25.00% | ~184,954 |
-| Holy Sword | 23.00% | ~170,157 |
-| Telefrag | 23.00% | ~170,157 |
-| Freed from prison | 22.00% | ~162,759 |
-| Stomp | 21.00% | ~155,361 |
+| Holy Sword | 23.00% | ~170,158 |
+| Telefrag | 23.00% | ~170,158 |
+| Freed from prison | 22.00% | ~162,760 |
+| Stomp | 21.00% | ~155,362 |
 | Double Health | 19.00% | ~140,565 |
 | Buckle | 18.00% | ~133,167 |
 | Green Keycard | 18.00% | ~133,167 |
-| Rattle Hag | 16.00% | ~118,370 |
-| All Shells | 15.00% | ~110,972 |
-| Beam | 14.00% | ~103,574 |
-| 9 | 14.00% | ~103,574 |
-| Supraball Noob | 14.00% | ~103,574 |
+| Rattle Hag | 16.00% | ~118,371 |
+| All Shells | 15.00% | ~110,973 |
+| Beam | 14.00% | ~103,575 |
+| 9 | 14.00% | ~103,575 |
+| Supraball Noob | 14.00% | ~103,575 |
 | Health Drink | 13.00% | ~96,176 |
 | Helped a star | 13.00% | ~96,176 |
 | Purple Cube | 13.00% | ~96,176 |
@@ -44,21 +44,21 @@ Number of Ratings: 25,175  (23.09.2022)
 | Got the gun back | 11.00% | ~81,380 |
 | Infiltrated | 11.00% | ~81,380 |
 | Robbed | 11.00% | ~81,380 |
-| Fire Flies | 10.00% | ~73,981 |
-| Cave Flies | 10.00% | ~73,981 |
-| Gold Scam | 10.00% | ~73,981 |
-| Gold Scam Uncovered | 10.00% | ~73,981 |
-| Panic Lights | 10.00% | ~73,981 |
-| Translocator | 10.00% | ~73,981 |
-| Yellow Shot Button | 10.00% | ~73,981 |
-| Moon Door | 9.00% | ~66,583 |
-| Momentum | 9.00% | ~66,583 |
-| Through the tiny pipe | 9.00% | ~66,583 |
-| Win! | 9.00% | ~66,583 |
+| Fire Flies | 10.00% | ~73,982 |
+| Cave Flies | 10.00% | ~73,982 |
+| Gold Scam | 10.00% | ~73,982 |
+| Gold Scam Uncovered | 10.00% | ~73,982 |
+| Panic Lights | 10.00% | ~73,982 |
+| Translocator | 10.00% | ~73,982 |
+| Yellow Shot Button | 10.00% | ~73,982 |
+| Moon Door | 9.00% | ~66,584 |
+| Momentum | 9.00% | ~66,584 |
+| Through the tiny pipe | 9.00% | ~66,584 |
+| Win! | 9.00% | ~66,584 |
 | The real real teleported man | 8.00% | ~59,185 |
 | Well deserved | 6.00% | ~44,389 |
 | Super Sword | 4.00% | ~29,593 |
-| Happiness | 3.00% | ~22,194 |
+| Happiness | 3.00% | ~22,195 |
 | All Chests | 2.00% | ~14,796 |
 | Poor ancestors | 2.00% | ~14,796 |
 | Shelf filled | 2.00% | ~14,796 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~740 |
 | DLC: Top of the world | 0.10% | ~740 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 739,814 (Ranked 27)  
+Progressed: 739,818 (Ranked 27)  
 Completed: 781 (0.11%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -371,10 +371,10 @@ Completed: 781 (0.11%) (Ranked 306)
 | 2024-01-08 | 739,548 | 780 |
 | 2024-01-09 | 739,660 | 780 |
 | 2024-01-10 | 739,782 | 780 |
-| 2024-01-11 | 739,814 | 781 |
+| 2024-01-11 | 739,818 | 781 |
 ## Awards
 Max (Challenging Puzzles): 7,775  (Ranked 53)  
-Sum: 10,151 (Ranked 94)  
+Sum: 10,152 (Ranked 94)  
 Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
@@ -387,7 +387,7 @@ Diff (max vs sum): -41
 | This game has Quickly Understood Controls | 271 |
 | This game is Extremely Fun | 264 |
 | This game has Obsessive Gameplay | 243 |
-| This game is Highly Recommended | 241 |
+| This game is Highly Recommended | 242 |
 | This game has a Creative Community | 197 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -613,3 +613,4 @@ Diff (max vs sum): -41
 | 2024-01-07 | 4.61 | - | 7,774 | 10,148 |
 | 2024-01-08 | 4.61 | - | 7,775 | 10,150 |
 | 2024-01-10 | 4.61 | - | 7,775 | 10,151 |
+| 2024-01-11 | 4.61 | - | 7,775 | 10,152 |

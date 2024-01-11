@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315,
+  "EOS_Progressed": 316,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
@@ -1404,6 +1404,11 @@
       "Time": "2024-01-11T09:10:01.835329+00:00",
       "NumProgressed": 315,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T12:08:55.0168951+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1430,7 +1435,7 @@
       "ID": "assemble_puzzles",
       "SetID": "f2im8d",
       "Name": "The Big Picture",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -1520,7 +1525,7 @@
       "Name": "Refuse to look",
       "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "do_what_you_have_to",
@@ -1544,7 +1549,7 @@
       "Name": "Face your fears",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -1592,7 +1597,7 @@
       "Name": "The artist\u2019s impression",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "finished_it",
@@ -1694,9 +1699,9 @@
       "ID": "playtime",
       "SetID": "f2im8d",
       "Name": "Playtime",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "preferred_parent",
@@ -1744,15 +1749,15 @@
       "Name": "Sign of weakness",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 269
     },
     {
       "ID": "spy_one_item",
@@ -1766,7 +1771,7 @@
       "ID": "sword_of_the_serpent",
       "SetID": "f2im8d",
       "Name": "Sword of the Serpent",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1816,7 +1821,7 @@
       "Name": "Wanderer",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1831,14 +1836,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 315,
+      "Progressed": 316,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-11T11:09:07.545905+00:00",
+  "LastChanged_Achievements": "2024-01-11T12:08:55.0168947+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:37.800715+00:00",
-  "LastUpdate_Ratings": "2024-01-11T10:58:51.5483741+00:00",
-  "LastUpdate_Achievements": "2024-01-11T11:09:07.545947+00:00"
+  "LastUpdate_Ratings": "2024-01-11T11:58:48.8047024+00:00",
+  "LastUpdate_Achievements": "2024-01-11T12:08:55.0169334+00:00"
 }

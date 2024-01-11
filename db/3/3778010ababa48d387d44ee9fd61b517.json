@@ -4,7 +4,7 @@
   "ProductSlug": "the-hive-f5c2c8",
   "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -479,9 +479,9 @@
       "ID": "A_ORB",
       "SetID": "324h56e",
       "Name": "Orb of Wisdom",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "A_POPULATION",
@@ -598,8 +598,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-11T11:06:04.7589993+00:00",
+  "LastChanged_Achievements": "2024-01-11T12:06:26.8152611+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.8788926+00:00",
-  "LastUpdate_Ratings": "2024-01-11T10:59:26.1773271+00:00",
-  "LastUpdate_Achievements": "2024-01-11T11:06:04.7590299+00:00"
+  "LastUpdate_Ratings": "2024-01-11T11:59:29.73991+00:00",
+  "LastUpdate_Achievements": "2024-01-11T12:06:26.815284+00:00"
 }

@@ -13,8 +13,8 @@
 | Wild's Keeper | 49.00% | ~183 |
 | Mind Illuminator | 43.00% | ~160 |
 | Stellar Dismantler | 38.00% | ~142 |
+| Astral Adventurer | 35.00% | ~131 |
 | Noctuan Champion | 35.00% | ~131 |
-| Astral Adventurer | 34.00% | ~127 |
 | Anomaly Destroyer | 31.00% | ~116 |
 | Star Killer | 30.00% | ~112 |
 | Eridanian Champion | 25.00% | ~93 |

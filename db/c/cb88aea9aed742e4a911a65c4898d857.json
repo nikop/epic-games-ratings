@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 374,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -323,9 +323,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 11043,
+  "EOS_Progressed": 11046,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1087,
+  "EOS_NewPlayers": 1085,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4473,6 +4473,11 @@
       "Time": "2024-01-11T11:10:12.7329317+00:00",
       "NumProgressed": 11043,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T12:10:06.8509117+00:00",
+      "NumProgressed": 11046,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4597,7 +4602,7 @@
       "Name": "The Rise",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "17_TheExemplar",
@@ -4613,7 +4618,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "19_TheVoidWolf",
@@ -4621,7 +4626,7 @@
       "Name": "Void Wolf",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -4693,7 +4698,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -4741,7 +4746,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -4805,7 +4810,7 @@
       "Name": "Iron Judgement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -4837,7 +4842,7 @@
       "Name": "A Spark",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "47_AFlame",
@@ -4915,9 +4920,9 @@
       "ID": "56_ThoroughInvestigation",
       "SetID": "37a94m8",
       "Name": "Thorough Investigation",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 44
     },
     {
       "ID": "57_TheBurningHeritage",
@@ -5004,7 +5009,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11043,
+      "Progressed": 11046,
       "Completed": 1
     }
   ],
@@ -5012,8 +5017,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-11T01:49:02.1008978+00:00",
-  "LastChanged_Achievements": "2024-01-11T11:10:12.7329314+00:00",
+  "LastChanged_Achievements": "2024-01-11T12:10:06.8509115+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-11T10:59:21.0500099+00:00",
-  "LastUpdate_Achievements": "2024-01-11T11:10:12.7329935+00:00"
+  "LastUpdate_Ratings": "2024-01-11T11:59:24.067031+00:00",
+  "LastUpdate_Achievements": "2024-01-11T12:10:06.8509756+00:00"
 }

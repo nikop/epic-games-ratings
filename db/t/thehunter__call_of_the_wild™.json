@@ -2,12 +2,12 @@
   "ID": "c7f9346e3db148fca6dd63e9dd8451bd",
   "Name": "theHunter: Call of the Wild\u2122",
   "ProductSlug": "thehunter-call-of-the-wild",
-  "Ranking_Rating": 497,
+  "Ranking_Rating": 496,
   "Ranking_Popularity": 80,
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 826,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 582,
+  "Ranking_EOS_NewPlayers": 580,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-11-25T16:00:00+00:00",
@@ -11980,6 +11980,6 @@
   "FirstSeen": "2022-07-22T20:19:14.0161067+00:00",
   "LastChanged": "2024-01-11T07:57:37.4480291+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:30.4727322+00:00",
-  "LastUpdate_Ratings": "2024-01-11T10:57:40.4253893+00:00",
-  "LastUpdate_Achievements": "2024-01-11T11:04:01.4265468+00:00"
+  "LastUpdate_Ratings": "2024-01-11T11:57:28.0400103+00:00",
+  "LastUpdate_Achievements": "2024-01-11T12:04:11.6659493+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 432,
   "EOS_Completed": 103,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 23.84,
   "EosHistory": [
@@ -2360,9 +2360,9 @@
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 194
+      "UsersEstimate": 199
     },
     {
       "ID": "GasDeath",
@@ -2408,9 +2408,9 @@
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 194
+      "UsersEstimate": 199
     }
   ],
   "AchievementSets": [
@@ -2423,8 +2423,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2024-01-11T11:06:07.6609596+00:00",
+  "LastChanged_Achievements": "2024-01-11T12:06:30.1384339+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:56.7874531+00:00",
-  "LastUpdate_Ratings": "2024-01-11T11:02:55.0804857+00:00",
-  "LastUpdate_Achievements": "2024-01-11T11:06:07.660984+00:00"
+  "LastUpdate_Ratings": "2024-01-11T12:02:54.8788565+00:00",
+  "LastUpdate_Achievements": "2024-01-11T12:06:30.1384721+00:00"
 }

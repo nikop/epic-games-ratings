@@ -16,8 +16,8 @@
 | Arthur Hastings | 49.00% | ~53 |
 | The Missing Magdalene | 48.00% | ~52 |
 | Everything matters | 43.00% | ~47 |
+| DI Hardwicke | 43.00% | ~47 |
 | An expert mediator | 42.00% | ~46 |
-| DI Hardwicke | 42.00% | ~46 |
 | Order and method | 37.00% | ~40 |
 | Betty Allen | 37.00% | ~40 |
 | The Investigation Begins | 35.00% | ~38 |
