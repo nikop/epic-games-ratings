@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nice Glass | 20.00% | ~10 |
-| Alcoholic | 18.00% | ~9 |
-| Underground | 18.00% | ~9 |
+| Nice Glass | 22.00% | ~11 |
+| Alcoholic | 20.00% | ~10 |
+| Underground | 20.00% | ~10 |
 | Chapter 1 | 16.00% | ~8 |
 | Piglet | 12.00% | ~6 |
 | Lost Cat | 12.00% | ~6 |

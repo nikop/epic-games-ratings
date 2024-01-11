@@ -2,8 +2,8 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 956,
-  "Ranking_Popularity": 351,
+  "Ranking_Rating": 957,
+  "Ranking_Popularity": 349,
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 265,
@@ -1336,11 +1336,17 @@
       "Rating": 4.21,
       "NumberOfAwards": 810,
       "NumberOfAwardsMax": 128
+    },
+    {
+      "Time": "2024-01-11T22:58:09.7752457+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 811,
+      "NumberOfAwardsMax": 129
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 810,
-  "NumberOfAwardsMax": 128,
+  "NumberOfAwards": 811,
+  "NumberOfAwardsMax": 129,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -1377,7 +1383,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 128
+      "Count": 129
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1398,9 +1404,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33167,
+  "EOS_Progressed": 33170,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 712,
+  "EOS_NewPlayers": 710,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -30103,6 +30109,11 @@
       "Time": "2024-01-11T22:10:35.7300099+00:00",
       "NumProgressed": 33167,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2024-01-11T23:09:32.2944681+00:00",
+      "NumProgressed": 33170,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 22,
@@ -30186,7 +30197,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2653
+      "UsersEstimate": 2654
     },
     {
       "ID": "1025",
@@ -30218,7 +30229,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5970
+      "UsersEstimate": 5971
     },
     {
       "ID": "1029",
@@ -30226,7 +30237,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2653
+      "UsersEstimate": 2654
     },
     {
       "ID": "1030",
@@ -30250,7 +30261,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13267
+      "UsersEstimate": 13268
     },
     {
       "ID": "1033",
@@ -30289,15 +30300,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33167,
+      "Progressed": 33170,
       "Completed": 86
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
-  "LastChanged": "2024-01-09T20:57:01.7893219+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:10:35.7300096+00:00",
+  "LastChanged": "2024-01-11T22:58:09.7752455+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:09:32.2944676+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:53.1129394+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:58:45.6500353+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:10:35.7301502+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:58:09.7752462+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:09:32.2945994+00:00"
 }

@@ -6,39 +6,39 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~12,481 |
-| Overkill | 33.00% | ~10,839 |
-| Vaccine Incoming | 31.00% | ~10,182 |
-| A normal day in Gloomhaven | 29.00% | ~9,525 |
-| Spread the plague | 27.00% | ~8,868 |
-| Get over here! | 24.00% | ~7,883 |
-| Just when I thought I was out... | 19.00% | ~6,241 |
-| Precious! | 16.00% | ~5,255 |
-| Mine... All Mine... | 16.00% | ~5,255 |
-| Grizzled veteran | 15.00% | ~4,927 |
-| Anatomy Lesson | 14.00% | ~4,598 |
-| Light of my life | 13.00% | ~4,270 |
-| Who's the Boss? | 12.00% | ~3,941 |
-| You activated my trap card! | 12.00% | ~3,941 |
-| Obstacle race | 12.00% | ~3,941 |
-| Augmented rat | 10.00% | ~3,284 |
-| Doom and gloom | 10.00% | ~3,284 |
+| I'm not dead yet | 38.00% | ~12,485 |
+| Overkill | 33.00% | ~10,842 |
+| Vaccine Incoming | 31.00% | ~10,185 |
+| A normal day in Gloomhaven | 29.00% | ~9,528 |
+| Spread the plague | 27.00% | ~8,871 |
+| Get over here! | 24.00% | ~7,885 |
+| Just when I thought I was out... | 19.00% | ~6,242 |
+| Precious! | 16.00% | ~5,257 |
+| Mine... All Mine... | 16.00% | ~5,257 |
+| Grizzled veteran | 15.00% | ~4,928 |
+| Anatomy Lesson | 14.00% | ~4,600 |
+| Light of my life | 13.00% | ~4,271 |
+| Who's the Boss? | 12.00% | ~3,943 |
+| You activated my trap card! | 12.00% | ~3,943 |
+| Obstacle race | 12.00% | ~3,943 |
+| Augmented rat | 10.00% | ~3,286 |
+| Doom and gloom | 10.00% | ~3,286 |
 | Dungeon Veteran | 8.00% | ~2,628 |
 | Pain is your friend | 8.00% | ~2,628 |
-| Pack leader | 7.00% | ~2,299 |
-| Black death | 7.00% | ~2,299 |
-| Play it again, Sam | 7.00% | ~2,299 |
+| Pack leader | 7.00% | ~2,300 |
+| Black death | 7.00% | ~2,300 |
+| Play it again, Sam | 7.00% | ~2,300 |
 | Quad damage | 6.00% | ~1,971 |
-| Power Up! | 5.00% | ~1,642 |
-| Merchant of doom | 5.00% | ~1,642 |
-| Caught off guard | 5.00% | ~1,642 |
-| Now you see me... | 5.00% | ~1,642 |
+| Power Up! | 5.00% | ~1,643 |
+| Merchant of doom | 5.00% | ~1,643 |
+| Caught off guard | 5.00% | ~1,643 |
+| Now you see me... | 5.00% | ~1,643 |
 | The Pro from Dover | 4.00% | ~1,314 |
 | Pretty lights! | 4.00% | ~1,314 |
-| I hate portals | 3.00% | ~985 |
-| Down the hatch | 3.00% | ~985 |
-| An eye for an eye | 3.00% | ~985 |
-| The Cephalophore | 3.00% | ~985 |
+| I hate portals | 3.00% | ~986 |
+| Down the hatch | 3.00% | ~986 |
+| An eye for an eye | 3.00% | ~986 |
+| The Cephalophore | 3.00% | ~986 |
 | From Gloom, only greed and death emerges | 2.00% | ~657 |
 | The Rat King | 2.00% | ~657 |
 | How to train your Drake | 2.00% | ~657 |
@@ -46,11 +46,11 @@ Number of Ratings: 68  (23.09.2022)
 | The Sniper | 2.00% | ~657 |
 | Grin and bear it | 2.00% | ~657 |
 | An axe to grind | 2.00% | ~657 |
-| Betray this | 1.00% | ~328 |
-| Add a bit of colour | 1.00% | ~328 |
-| Captain hooked | 1.00% | ~328 |
-| Spoiler police! | 1.00% | ~328 |
-| New Blood | 1.00% | ~328 |
+| Betray this | 1.00% | ~329 |
+| Add a bit of colour | 1.00% | ~329 |
+| Captain hooked | 1.00% | ~329 |
+| Spoiler police! | 1.00% | ~329 |
+| New Blood | 1.00% | ~329 |
 | The Pacifist | 0.50% | ~164 |
 | The evil that men do | 0.50% | ~164 |
 | Born Support | 0.50% | ~164 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~33 |
 | Hard-travelling Heroes | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,845 (Ranked 140)  
+Progressed: 32,855 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,16 +188,16 @@ Completed: 1 (0.00%) (Ranked 397)
 | 2024-01-08 | 32,291 | 1 |
 | 2024-01-09 | 32,485 | 1 |
 | 2024-01-10 | 32,673 | 1 |
-| 2024-01-11 | 32,845 | 1 |
+| 2024-01-11 | 32,855 | 1 |
 ## Awards
 Max (Character Customization): 3,617  (Ranked 95)  
-Sum: 8,474 (Ranked 108)  
+Sum: 8,475 (Ranked 108)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,617 |
 | This game has Diverse Characters | 614 |
-| This game has Challenging Combat | 557 |
+| This game has Challenging Combat | 558 |
 | This game is Highly Recommended | 556 |
 | This game is Extremely Fun | 551 |
 | This game is Relaxing | 495 |
@@ -471,4 +471,4 @@ Diff (max vs sum): -13
 | 2024-01-06 | 4.47 | - | 3,616 | 8,465 |
 | 2024-01-08 | 4.47 | - | 3,616 | 8,468 |
 | 2024-01-10 | 4.47 | - | 3,617 | 8,470 |
-| 2024-01-11 | 4.47 | - | 3,617 | 8,474 |
+| 2024-01-11 | 4.47 | - | 3,617 | 8,475 |

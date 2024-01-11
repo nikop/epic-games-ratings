@@ -141,7 +141,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83290,
+  "EOS_Progressed": 83292,
   "EOS_Completed": 929,
   "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 13,
@@ -29871,6 +29871,11 @@
       "Time": "2024-01-11T22:05:27.5628438+00:00",
       "NumProgressed": 83290,
       "NumCompleted": 929
+    },
+    {
+      "Time": "2024-01-11T23:04:24.1032797+00:00",
+      "NumProgressed": 83292,
+      "NumCompleted": 929
     }
   ],
   "TotalAchievements": 25,
@@ -29922,7 +29927,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14992
+      "UsersEstimate": 14993
     },
     {
       "ID": "Butcher",
@@ -29938,7 +29943,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4997
+      "UsersEstimate": 4998
     },
     {
       "ID": "Fair\u0027sFair",
@@ -29978,7 +29983,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 4164
+      "UsersEstimate": 4165
     },
     {
       "ID": "Master, Commander",
@@ -30010,7 +30015,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 13326
+      "UsersEstimate": 13327
     },
     {
       "ID": "Nothing Left to Say",
@@ -30081,7 +30086,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83290,
+      "Progressed": 83292,
       "Completed": 929
     }
   ],
@@ -30089,8 +30094,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:05:27.5628433+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:04:24.1032794+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.3609745+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:01:34.6139144+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:05:27.5630626+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:00:13.9522526+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:04:24.1034188+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 311,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
     "PcReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -686,10 +686,10 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 66469,
+  "EOS_Progressed": 66474,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 1457,
-  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 1447,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
@@ -16566,6 +16566,11 @@
       "Time": "2024-01-11T22:04:53.3420915+00:00",
       "NumProgressed": 66469,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2024-01-11T23:03:58.3157163+00:00",
+      "NumProgressed": 66474,
+      "NumCompleted": 69
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -16690,7 +16695,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 14623
+      "UsersEstimate": 14624
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -16698,7 +16703,7 @@
       "Name": "Scientist",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7976
+      "UsersEstimate": 7977
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -16778,7 +16783,7 @@
       "Name": "Initiation",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 19276
+      "UsersEstimate": 19277
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -16818,7 +16823,7 @@
       "Name": "New Spirits",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5982
+      "UsersEstimate": 5983
     },
     {
       "ID": "NIKOLAY_LOYAL",
@@ -16826,7 +16831,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7976
+      "UsersEstimate": 7977
     },
     {
       "ID": "NORMAL_END",
@@ -16866,7 +16871,7 @@
       "Name": "Voipel",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5982
+      "UsersEstimate": 5983
     },
     {
       "ID": "SAVVY",
@@ -16890,7 +16895,7 @@
       "Name": "Susanin",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3323
+      "UsersEstimate": 3324
     },
     {
       "ID": "TALES_1",
@@ -16898,7 +16903,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 9970
+      "UsersEstimate": 9971
     },
     {
       "ID": "TALES_2",
@@ -16906,7 +16911,7 @@
       "Name": "Collector",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5982
+      "UsersEstimate": 5983
     },
     {
       "ID": "TALES_3",
@@ -16922,7 +16927,7 @@
       "Name": "Traveller",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3323
+      "UsersEstimate": 3324
     },
     {
       "ID": "WATER",
@@ -16938,7 +16943,7 @@
       "Name": "Wolf",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5982
+      "UsersEstimate": 5983
     },
     {
       "ID": "WORD_MASTER",
@@ -16954,7 +16959,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10635
+      "UsersEstimate": 10636
     },
     {
       "ID": "ZNATKOST_2",
@@ -16962,7 +16967,7 @@
       "Name": "Black Mage",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5982
+      "UsersEstimate": 5983
     },
     {
       "ID": "ZNATKOST_3",
@@ -16977,15 +16982,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 66469,
+      "Progressed": 66474,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:04:53.342091+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:03:58.3157159+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:33.7261793+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:58:47.3893652+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:04:53.3422032+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:58:10.3640574+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:03:58.3158486+00:00"
 }

@@ -4815,10 +4815,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7215,
       "NumberOfAwardsMax": 1781
+    },
+    {
+      "Time": "2024-01-11T22:57:56.8068933+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7217,
+      "NumberOfAwardsMax": 1781
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7215,
+  "NumberOfAwards": 7217,
   "NumberOfAwardsMax": 1781,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4850,7 +4856,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 659
+      "Count": 661
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4889,9 +4895,9 @@
       "Count": 407
     }
   ],
-  "EOS_Progressed": 13241,
+  "EOS_Progressed": 13243,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19569,6 +19575,11 @@
       "Time": "2024-01-11T21:11:15.060616+00:00",
       "NumProgressed": 13241,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T23:09:53.7063087+00:00",
+      "NumProgressed": 13243,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19580,7 +19591,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3575
+      "UsersEstimate": 3576
     },
     {
       "ID": "02_BurningCity",
@@ -19780,7 +19791,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "28_GreatUpstart",
@@ -19788,7 +19799,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "29_StrategicVictory",
@@ -19932,7 +19943,7 @@
       "Name": "All Paths Open",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -19948,7 +19959,7 @@
       "Name": "A Spark",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "49_Flame",
@@ -20507,21 +20518,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12023,
+      "Progressed": 12025,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13241,
+      "Progressed": 13243,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2024-01-11T17:57:49.5611224+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:11:01.6503594+00:00",
+  "LastChanged": "2024-01-11T22:57:56.8068931+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:09:53.7063085+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:50.9176644+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:58:27.1875406+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:11:01.6505355+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:57:56.8068938+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:09:53.7064727+00:00"
 }

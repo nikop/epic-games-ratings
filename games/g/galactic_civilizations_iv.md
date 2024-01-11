@@ -6,15 +6,15 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,803 |
-| Worker Specialization | 76.00% | ~5,728 |
+| Colonize a Planet | 77.00% | ~5,804 |
+| Worker Specialization | 76.00% | ~5,729 |
 | First Contact | 72.00% | ~5,427 |
-| Win a Battle | 65.00% | ~4,899 |
-| Anomaly Researcher | 60.00% | ~4,522 |
-| Unleash My Power | 60.00% | ~4,522 |
+| Win a Battle | 65.00% | ~4,900 |
+| Anomaly Researcher | 60.00% | ~4,523 |
+| Unleash My Power | 60.00% | ~4,523 |
 | Own 30 Planets | 32.00% | ~2,412 |
-| Xenocide | 31.00% | ~2,336 |
-| Design a Civilization | 31.00% | ~2,336 |
+| Xenocide | 31.00% | ~2,337 |
+| Design a Civilization | 31.00% | ~2,337 |
 | Commodity Trader | 29.00% | ~2,186 |
 | Design a Ship | 27.00% | ~2,035 |
 | Commodity Seller | 24.00% | ~1,809 |
@@ -26,8 +26,8 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Terrans | 6.00% | ~452 |
 | Win with a Custom Faction | 6.00% | ~452 |
 | War with the Unknown | 5.00% | ~377 |
-| Conquest Victory! | 4.00% | ~301 |
-| Win Quickly | 4.00% | ~301 |
+| Conquest Victory! | 4.00% | ~302 |
+| Win Quickly | 4.00% | ~302 |
 | Pirate Cleansing | 3.00% | ~226 |
 | Win an Immense Game | 3.00% | ~226 |
 | Artifact Mastery | 2.00% | ~151 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,537 (Ranked 194)  
+Progressed: 7,538 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 7,525 | 0 |
 | 2024-01-09 | 7,528 | 0 |
 | 2024-01-10 | 7,534 | 0 |
-| 2024-01-11 | 7,537 | 0 |
+| 2024-01-11 | 7,538 | 0 |
 ## Awards
 Max (Diverse Characters): 99  (Ranked 382)  
 Sum: 700 (Ranked 314)  

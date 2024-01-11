@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5815,10 +5815,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 8388,
       "NumberOfAwardsMax": 1179
+    },
+    {
+      "Time": "2024-01-11T23:00:28.4207651+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8389,
+      "NumberOfAwardsMax": 1179
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8388,
+  "NumberOfAwards": 8389,
   "NumberOfAwardsMax": 1179,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5880,7 +5886,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 733
+      "Count": 734
     },
     {
       "Text": "This game has Easy Combat",
@@ -5889,9 +5895,9 @@
       "Count": 554
     }
   ],
-  "EOS_Progressed": 14065,
+  "EOS_Progressed": 14066,
   "EOS_Completed": 349,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
@@ -25044,6 +25050,11 @@
       "Time": "2024-01-11T22:09:41.9221439+00:00",
       "NumProgressed": 14065,
       "NumCompleted": 349
+    },
+    {
+      "Time": "2024-01-11T23:08:50.2516868+00:00",
+      "NumProgressed": 14066,
+      "NumCompleted": 349
     }
   ],
   "TotalAchievements": 15,
@@ -25079,7 +25090,7 @@
       "Name": "Chef Cook",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "Chit_Chatter",
@@ -25095,7 +25106,7 @@
       "Name": "Constructor",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 7032
+      "UsersEstimate": 7033
     },
     {
       "ID": "Duty_Bound",
@@ -25167,23 +25178,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 8298
+      "UsersEstimate": 8299
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 14065,
+      "Progressed": 14066,
       "Completed": 349
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2024-01-10T16:59:49.434743+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:09:41.9221434+00:00",
+  "LastChanged": "2024-01-11T23:00:28.4207649+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:08:50.2516863+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:11.1438624+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:01:54.379326+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:09:41.9222529+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:00:28.4207655+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:08:50.2517907+00:00"
 }

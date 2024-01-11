@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 355,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2882,
+  "EOS_Progressed": 2884,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 288,
+  "EOS_NewPlayers": 289,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7814,6 +7814,11 @@
       "Time": "2024-01-11T22:11:00.7723048+00:00",
       "NumProgressed": 2882,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T23:09:52.8460149+00:00",
+      "NumProgressed": 2884,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8018,7 +8023,7 @@
       "Name": "Scrap collector",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "achievement_32",
@@ -8026,7 +8031,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "achievement_33",
@@ -8034,7 +8039,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_34",
@@ -8050,7 +8055,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2479
+      "UsersEstimate": 2480
     },
     {
       "ID": "achievement_36",
@@ -8066,7 +8071,7 @@
       "Name": "Off to a good start",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1758
+      "UsersEstimate": 1759
     },
     {
       "ID": "achievement_38",
@@ -8098,7 +8103,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1499
+      "UsersEstimate": 1500
     },
     {
       "ID": "achievement_41",
@@ -8146,7 +8151,7 @@
       "Name": "Patience you must have",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_47",
@@ -8264,9 +8269,9 @@
       "ID": "achievement_6",
       "SetID": "271ol84",
       "Name": "Great shot, kid!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 461
+      "UsersEstimate": 433
     },
     {
       "ID": "achievement_60",
@@ -8329,13 +8334,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2882,
+      "Progressed": 2884,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2882,
+      "Progressed": 2884,
       "Completed": 1
     }
   ],
@@ -8343,8 +8348,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:11:00.7723043+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:09:52.8460146+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:01:36.386877+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:11:00.7723991+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:00:15.6152878+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:09:52.8460886+00:00"
 }

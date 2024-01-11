@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 768,
+  "Ranking_Rating": 782,
   "Ranking_Popularity": 446,
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 67,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.4,
+  "Rating": 4.39,
   "RatingHistory": [
     {
       "Time": "2023-02-05T15:57:56.0114161+00:00",
@@ -1403,6 +1403,12 @@
       "Rating": 4.4,
       "NumberOfAwards": 376,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-01-11T22:59:25.581631+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 376,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
@@ -1471,9 +1477,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260532,
+  "EOS_Progressed": 260535,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26941,6 +26947,11 @@
       "Time": "2024-01-11T20:08:28.4060872+00:00",
       "NumProgressed": 260532,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-11T23:06:26.4935932+00:00",
+      "NumProgressed": 260535,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -27000,7 +27011,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80765
+      "UsersEstimate": 80766
     },
     {
       "ID": "BackHomeNTimes",
@@ -27056,7 +27067,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26053
+      "UsersEstimate": 26054
     },
     {
       "ID": "CreditLevel2",
@@ -27240,7 +27251,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59922
+      "UsersEstimate": 59923
     },
     {
       "ID": "KillOthers2",
@@ -27344,7 +27355,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26053
+      "UsersEstimate": 26054
     },
     {
       "ID": "ReachNDays2",
@@ -27399,16 +27410,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260532,
+      "Progressed": 260535,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2024-01-10T22:58:42.0323139+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:08:05.9084713+00:00",
+  "LastChanged": "2024-01-11T22:59:25.5816308+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:06:26.4935927+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:32.9058213+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:00:26.7784561+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:08:05.908645+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:59:25.5816312+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:06:26.4937784+00:00"
 }

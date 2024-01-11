@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1292,
+  "EOS_Progressed": 1293,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
@@ -3357,6 +3357,11 @@
       "Time": "2024-01-11T03:04:09.4330097+00:00",
       "NumProgressed": 1292,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T23:04:44.3699853+00:00",
+      "NumProgressed": 1293,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3401,7 +3406,7 @@
       "Name": "Liberator",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -3425,7 +3430,7 @@
       "Name": "Pathfinder",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "CompleteChapter10",
@@ -3489,7 +3494,7 @@
       "Name": "Fool\u0027s Errand",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "CompleteChapter17NoIdenDeath",
@@ -3505,7 +3510,7 @@
       "Name": "The Might of Sigmar\u0027s Warriors",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "CompleteChapter2",
@@ -3513,7 +3518,7 @@
       "Name": "Met the Enemy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "CompleteChapter3",
@@ -3545,7 +3550,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "CompleteChapter7",
@@ -3553,7 +3558,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "CompleteChapter8",
@@ -3664,14 +3669,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1292,
+      "Progressed": 1293,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:05:54.1610808+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:04:44.3699849+00:00",
   "LastUpdate_AppInfo": "2024-01-05T10:56:56.5895712+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:01:50.4520309+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:05:54.161118+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:00:25.7454241+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:04:44.3700288+00:00"
 }

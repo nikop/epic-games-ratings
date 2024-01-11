@@ -6,7 +6,7 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,696 |
+| I will finish what you started | 29.00% | ~74,697 |
 | Powergamer | 27.00% | ~69,545 |
 | Write that down | 25.00% | ~64,394 |
 | Barely scratched the surface | 25.00% | ~64,394 |
@@ -27,14 +27,14 @@ Number of Ratings: 33  (23.09.2022)
 | Hoarder | 3.00% | ~7,727 |
 | I like to sniff around | 3.00% | ~7,727 |
 | Mind reader | 3.00% | ~7,727 |
-| Catnip | 2.00% | ~5,151 |
-| Gentleman's classic | 2.00% | ~5,151 |
-| Is that a rift? | 2.00% | ~5,151 |
-| It's alive! | 2.00% | ~5,151 |
-| Enjoy the beach | 2.00% | ~5,151 |
-| Rinse and repeat | 2.00% | ~5,151 |
-| Mama, I'm a criminal | 2.00% | ~5,151 |
-| Never gonna give you up | 2.00% | ~5,151 |
+| Catnip | 2.00% | ~5,152 |
+| Gentleman's classic | 2.00% | ~5,152 |
+| Is that a rift? | 2.00% | ~5,152 |
+| It's alive! | 2.00% | ~5,152 |
+| Enjoy the beach | 2.00% | ~5,152 |
+| Rinse and repeat | 2.00% | ~5,152 |
+| Mama, I'm a criminal | 2.00% | ~5,152 |
+| Never gonna give you up | 2.00% | ~5,152 |
 | A muscle to rely on | 1.00% | ~2,576 |
 | A true blacksmith | 1.00% | ~2,576 |
 | I am in great pain, please help me | 1.00% | ~2,576 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~515 |
 | Memory 5 | 0.10% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257,574 (Ranked 68)  
+Progressed: 257,575 (Ranked 68)  
 Completed: 8 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 8 (0.00%) (Ranked 397)
 | 2024-01-08 | 257,325 | 8 |
 | 2024-01-09 | 257,410 | 8 |
 | 2024-01-10 | 257,504 | 8 |
-| 2024-01-11 | 257,574 | 8 |
+| 2024-01-11 | 257,575 | 8 |
 ## Awards
 Max (Character Customization): 98  (Ranked 384)  
 Sum: 98 (Ranked 470)  

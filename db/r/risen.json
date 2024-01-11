@@ -5,9 +5,9 @@
   "Ranking_Rating": 510,
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
-  "Ranking_EOS_Progress": 435,
+  "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 190,
+  "EOS_Progressed": 191,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1001,6 +1001,11 @@
       "Time": "2024-01-11T10:09:42.9093636+00:00",
       "NumProgressed": 190,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T23:09:47.5857438+00:00",
+      "NumProgressed": 191,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T08:07:32.4989951+00:00",
@@ -1013,7 +1018,7 @@
       "Name": "The merciful one",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "id_11",
@@ -1021,7 +1026,7 @@
       "Name": "Wise man",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "id_12",
@@ -1085,7 +1090,7 @@
       "Name": "Field hand",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "id_20",
@@ -1133,7 +1138,7 @@
       "Name": "Philanthropist",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "id_30",
@@ -1141,7 +1146,7 @@
       "Name": "Beginner",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "id_32",
@@ -1205,7 +1210,7 @@
       "Name": "Hard worker",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "id_44",
@@ -1219,9 +1224,9 @@
       "ID": "id_45",
       "SetID": "bk9jib6",
       "Name": "Workaholic",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "id_46",
@@ -1277,7 +1282,7 @@
       "Name": "The fourth triplet",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "id_52",
@@ -1323,9 +1328,9 @@
       "ID": "id_57",
       "SetID": "bk9jib6",
       "Name": "Well-to-do",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 59
     },
     {
       "ID": "id_58",
@@ -1349,15 +1354,15 @@
       "Name": "Fence",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "id_60",
       "SetID": "bk9jib6",
       "Name": "Adventurer",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 118
     },
     {
       "ID": "id_61",
@@ -1412,7 +1417,7 @@
     {
       "ID": "bk9jib6",
       "IsBase": true,
-      "Progressed": 190,
+      "Progressed": 191,
       "Completed": 0
     }
   ],
@@ -1420,8 +1425,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-07T05:57:14.1879387+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:10:54.7844238+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:09:47.5857435+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:37.3559183+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:00:52.5945272+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:10:54.7844845+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:59:43.8156063+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:09:47.5857759+00:00"
 }

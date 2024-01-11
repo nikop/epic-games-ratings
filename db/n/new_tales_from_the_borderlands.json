@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3818,
+  "EOS_Progressed": 3819,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2342,6 +2342,11 @@
       "Time": "2024-01-11T22:07:03.7874626+00:00",
       "NumProgressed": 3818,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T23:05:38.279001+00:00",
+      "NumProgressed": 3819,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2353,7 +2358,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -2385,7 +2390,7 @@
       "Name": "Totally Intentional",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1756
+      "UsersEstimate": 1757
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -2401,7 +2406,7 @@
       "Name": "From Zeroes...",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -2409,7 +2414,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -2449,7 +2454,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -2473,7 +2478,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -2521,7 +2526,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -2560,7 +2565,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3818,
+      "Progressed": 3819,
       "Completed": 0
     }
   ],
@@ -2568,8 +2573,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:07:03.7874621+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:05:38.2790007+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:34.4966642+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:59:51.0086055+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:07:03.7874902+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:58:58.2878578+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:05:38.2790219+00:00"
 }

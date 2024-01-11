@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 518,
+  "EOS_Progressed": 519,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1715,6 +1715,11 @@
       "Time": "2024-01-11T19:05:16.5998254+00:00",
       "NumProgressed": 518,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T23:05:24.7297344+00:00",
+      "NumProgressed": 519,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1758,7 +1763,7 @@
       "Name": "Floor Galore",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ach_area_1",
@@ -1812,9 +1817,9 @@
       "ID": "ach_buzz",
       "SetID": "b8gh1fi",
       "Name": "Campaign Launch",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 182
     },
     {
       "ID": "ach_campaigns_1",
@@ -1878,7 +1883,7 @@
       "Name": "Aestheticly Pleased",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_consultants_b",
@@ -1934,7 +1939,7 @@
       "Name": "Proper Walls",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ach_drones",
@@ -2142,7 +2147,7 @@
       "Name": "Plaza Plan",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_pop_1",
@@ -2230,7 +2235,7 @@
       "Name": "Refined Palates",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_restaurants_2",
@@ -2246,7 +2251,7 @@
       "Name": "Dinner Dash",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ach_restaurants_4",
@@ -2429,7 +2434,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 518,
+      "Progressed": 519,
       "Completed": 0
     }
   ],
@@ -2437,8 +2442,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:06:46.2708414+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:05:24.7297339+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8765911+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:00:16.4017761+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:06:46.2709359+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:59:17.0142882+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:05:24.7298184+00:00"
 }

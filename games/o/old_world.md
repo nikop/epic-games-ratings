@@ -25,6 +25,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 2.00% | ~329 |
 | Pyramids | 2.00% | ~329 |
 | Judaism | 2.00% | ~329 |
+| Greek Paganism | 2.00% | ~329 |
 | Naming Landmarks | 2.00% | ~329 |
 | Trade Caravan | 2.00% | ~329 |
 | Ambitious | 1.00% | ~165 |
@@ -48,10 +49,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 1.00% | ~165 |
 | Learn to Play 2 | 1.00% | ~165 |
 | Christianity | 1.00% | ~165 |
+| Manichaeism | 1.00% | ~165 |
 | Babylonian Paganism | 1.00% | ~165 |
 | Carthaginian Paganism | 1.00% | ~165 |
 | Egyptian Paganism | 1.00% | ~165 |
-| Greek Paganism | 1.00% | ~165 |
 | Roman Paganism | 1.00% | ~165 |
 | Zoroastrianism | 1.00% | ~165 |
 | Regicide | 0.90% | ~148 |
@@ -60,7 +61,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 0.90% | ~148 |
 | Mausoleum | 0.90% | ~148 |
 | Musaeum | 0.90% | ~148 |
-| Manichaeism | 0.90% | ~148 |
 | Hanging Gardens in Babylon | 0.80% | ~132 |
 | Just Difficulty | 0.80% | ~132 |
 | Artisans | 0.80% | ~132 |
@@ -123,6 +123,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 0.40% | ~66 |
 | Kushite Pyramids | 0.40% | ~66 |
 | Ishtar Gate in Babylon | 0.30% | ~49 |
+| Old | 0.30% | ~49 |
 | Peacemaker | 0.30% | ~49 |
 | Clerics | 0.30% | ~49 |
 | Hunters | 0.30% | ~49 |
@@ -141,7 +142,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Deposed Tribe | 0.30% | ~49 |
 | Carthage - Ox Hide | 0.20% | ~33 |
 | Carthage - Riches and Influence | 0.20% | ~33 |
-| Old | 0.20% | ~33 |
 | Noble Difficulty | 0.20% | ~33 |
 | The Eternal Treaty | 0.20% | ~33 |
 | Cao'an | 0.20% | ~33 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,452 (Ranked 170)  
+Progressed: 16,456 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -631,7 +631,7 @@ Completed: 5 (0.03%) (Ranked 355)
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
-| 2024-01-11 | 16,452 | 5 |
+| 2024-01-11 | 16,456 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,921 (Ranked 224)  

@@ -5,27 +5,27 @@ Rating: 4.14 (Ranked 1,008)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 63.00% | ~1,413 |
+| Break Out | 63.00% | ~1,414 |
 | Trinity | 32.00% | ~718 |
-| The Collector | 26.00% | ~583 |
+| The Collector | 26.00% | ~584 |
 | Find Allies | 25.00% | ~561 |
 | A Taste of Wrath | 25.00% | ~561 |
-| I Found It | 24.00% | ~538 |
+| I Found It | 24.00% | ~539 |
 | Adventurer | 23.00% | ~516 |
 | Shatter Them All | 23.00% | ~516 |
 | Geared Up | 23.00% | ~516 |
-| Fashion Victim | 22.00% | ~493 |
-| Scholar | 22.00% | ~493 |
-| Tributes of Caladrias | 20.00% | ~449 |
+| Fashion Victim | 22.00% | ~494 |
+| Scholar | 22.00% | ~494 |
+| Tributes of Caladrias | 21.00% | ~471 |
 | Stone Collection | 20.00% | ~449 |
-| Powerful Allies | 19.00% | ~426 |
+| Powerful Allies | 19.00% | ~427 |
 | Essence Blow | 13.00% | ~292 |
 | Big Bazar | 13.00% | ~292 |
 | Alchemist | 13.00% | ~292 |
 | The Mentor | 10.00% | ~224 |
 | Calm before the Storm | 9.00% | ~202 |
-| To Battle | 8.00% | ~179 |
-| Godslayer | 7.00% | ~157 |
+| To Battle | 8.00% | ~180 |
+| Godslayer | 8.00% | ~180 |
 | Airborne | 7.00% | ~157 |
 | Miner | 7.00% | ~157 |
 | Clear Sight | 4.00% | ~90 |
@@ -42,7 +42,7 @@ Rating: 4.14 (Ranked 1,008)
 | All That Gold | 0.80% | ~18 |
 | Feeling Fancy | 0.40% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,243 (Ranked 246)  
+Progressed: 2,245 (Ranked 246)  
 Completed: 4 (0.18%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 4 (0.18%) (Ranked 282)
 | 2024-01-08 | 2,086 | 3 |
 | 2024-01-09 | 2,146 | 3 |
 | 2024-01-10 | 2,213 | 4 |
-| 2024-01-11 | 2,243 | 4 |
+| 2024-01-11 | 2,245 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

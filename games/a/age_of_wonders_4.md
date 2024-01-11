@@ -10,9 +10,9 @@ Rating: 4.63 (Ranked 357)
 | A Wonderful Discovery | 14.00% | ~1,007 |
 | Walls Cannot Stop Us | 14.00% | ~1,007 |
 | From Friends to Family | 12.00% | ~863 |
-| Bone Peddler | 10.00% | ~719 |
-| Full Ascension | 9.00% | ~647 |
-| Magical Synergy | 9.00% | ~647 |
+| Bone Peddler | 10.00% | ~720 |
+| Full Ascension | 9.00% | ~648 |
+| Magical Synergy | 9.00% | ~648 |
 | There Can Only Be One! | 8.00% | ~576 |
 | Stronger Together | 8.00% | ~576 |
 | Seat of Power | 8.00% | ~576 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 357)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,194 (Ranked 197)  
+Progressed: 7,195 (Ranked 197)  
 Completed: 7 (0.10%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,11 +300,11 @@ Completed: 7 (0.10%) (Ranked 311)
 | 2024-01-08 | 7,091 | 7 |
 | 2024-01-09 | 7,130 | 7 |
 | 2024-01-10 | 7,178 | 7 |
-| 2024-01-11 | 7,194 | 7 |
+| 2024-01-11 | 7,195 | 7 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 481)  
-Sum: 218 (Ranked 410)  
-Diff (max vs sum): 71  
+Sum: 238 (Ranked 405)  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 41 |
@@ -315,6 +315,7 @@ Diff (max vs sum): 71
 | This game is Highly Recommended | 22 |
 | This game has Amazing Storytelling | 21 |
 | This game has Beautiful Visuals | 21 |
+| This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -406,4 +407,4 @@ Diff (max vs sum): 71
 | 2024-01-07 | 4.62 | 40 | 212 |
 | 2024-01-09 | 4.62 | 41 | 215 |
 | 2024-01-10 | 4.62 | 41 | 217 |
-| 2024-01-11 | 4.63 | 41 | 218 |
+| 2024-01-11 | 4.63 | 41 | 238 |

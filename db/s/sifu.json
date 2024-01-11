@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 37,
+  "Ranking_EOS_NewPlayers": 36,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8845,10 +8845,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12691,
       "NumberOfAwardsMax": 7171
+    },
+    {
+      "Time": "2024-01-11T23:02:59.4447063+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12693,
+      "NumberOfAwardsMax": 7171
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12691,
+  "NumberOfAwards": 12693,
   "NumberOfAwardsMax": 7171,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8886,7 +8892,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 699
+      "Count": 701
     },
     {
       "Text": "This game is Relaxing",
@@ -8925,9 +8931,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 759598,
+  "EOS_Progressed": 759612,
   "EOS_Completed": 12983,
-  "EOS_NewPlayers": 5704,
+  "EOS_NewPlayers": 5706,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -33370,6 +33376,11 @@
       "Time": "2024-01-11T22:10:01.208301+00:00",
       "NumProgressed": 759598,
       "NumCompleted": 12983
+    },
+    {
+      "Time": "2024-01-11T23:09:04.9372537+00:00",
+      "NumProgressed": 759612,
+      "NumCompleted": 12983
     }
   ],
   "TotalAchievements": 60,
@@ -33381,7 +33392,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45576
+      "UsersEstimate": 45577
     },
     {
       "ID": "02_Vengeance_H1",
@@ -33557,7 +33568,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37980
+      "UsersEstimate": 37981
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -33860,21 +33871,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 68899,
+      "Progressed": 68913,
       "Completed": 10806
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 759598,
+      "Progressed": 759612,
       "Completed": 12983
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2024-01-11T08:03:10.5578421+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:10:01.2083006+00:00",
+  "LastChanged": "2024-01-11T23:02:59.444706+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:09:04.9372532+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.3871095+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:03:34.4252403+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:10:01.2084736+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:02:59.4447068+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:09:04.9374421+00:00"
 }

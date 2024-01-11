@@ -127,7 +127,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2693,
+  "EOS_Progressed": 2694,
   "EOS_Completed": 196,
   "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 47,
@@ -7087,6 +7087,11 @@
       "Time": "2024-01-11T22:05:18.3683596+00:00",
       "NumProgressed": 2693,
       "NumCompleted": 196
+    },
+    {
+      "Time": "2024-01-11T23:04:17.3135317+00:00",
+      "NumProgressed": 2694,
+      "NumCompleted": 196
     }
   ],
   "TotalAchievements": 25,
@@ -7146,7 +7151,7 @@
       "Name": "Open door",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "META_RESULT_1-3",
@@ -7162,7 +7167,7 @@
       "Name": "Feels like springtime",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "META_RESULT_2-3",
@@ -7240,9 +7245,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1643
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7258,7 +7263,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "PROGRESS_N2",
@@ -7274,7 +7279,7 @@
       "Name": "A new dawn",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "PROGRESS_N4",
@@ -7297,7 +7302,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2693,
+      "Progressed": 2694,
       "Completed": 196
     }
   ],
@@ -7305,8 +7310,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:05:18.3683591+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:04:17.3135313+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:02:07.5522064+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:05:18.3684042+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:00:38.4802856+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:04:17.3135771+00:00"
 }

@@ -17,10 +17,10 @@
 | Twin Thorns | 8.00% | ~11 |
 | Explorer | 7.00% | ~10 |
 | The River Styx | 7.00% | ~10 |
+| Let Me Solo Them | 6.00% | ~8 |
 | Sovereignty of Irons | 6.00% | ~8 |
 | A Sandwyrm's Hoard | 6.00% | ~8 |
 | Sommelier | 5.00% | ~7 |
-| Let Me Solo Them | 5.00% | ~7 |
 | Frigid Winds | 4.00% | ~5 |
 | Missing Melodies | 2.00% | ~3 |
 | Transformative Nature | 2.00% | ~3 |

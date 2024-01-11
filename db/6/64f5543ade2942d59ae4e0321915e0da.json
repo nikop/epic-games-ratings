@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -1954,9 +1954,9 @@
       "ID": "AC_ALL_WEAPONS",
       "SetID": "16i2akc",
       "Name": "Arsenal",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 25
+      "UsersEstimate": 30
     },
     {
       "ID": "AC_ALL_WEAPON_SLOTS",
@@ -2257,8 +2257,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:06:22.4972806+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:05:06.3489939+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:59.4542445+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:02:08.8124435+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:06:22.4973222+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:00:39.3926847+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:05:06.349031+00:00"
 }

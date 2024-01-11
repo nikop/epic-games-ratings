@@ -6,19 +6,19 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,575 |
-| A Spark | 20.00% | ~2,648 |
+| Devoured by Darkness | 27.00% | ~3,576 |
+| A Spark | 20.00% | ~2,649 |
 | Burning City | 19.00% | ~2,516 |
 | Mythic Choices | 16.00% | ~2,119 |
 | Defender's Heart | 16.00% | ~2,119 |
 | Banner over the Citadel | 14.00% | ~1,854 |
-| Queen's Gratitude | 13.00% | ~1,721 |
+| Queen's Gratitude | 13.00% | ~1,722 |
 | Fifth Crusade | 9.00% | ~1,192 |
 | Embrace of the Abyss | 7.00% | ~927 |
 | Path of the Angel | 7.00% | ~927 |
 | Demonic and Divine | 7.00% | ~927 |
-| Great Upstart | 6.00% | ~794 |
-| All Paths Open | 6.00% | ~794 |
+| Great Upstart | 6.00% | ~795 |
+| All Paths Open | 6.00% | ~795 |
 | Path of the Azata | 5.00% | ~662 |
 | Transformation | 5.00% | ~662 |
 | The Legacy | 5.00% | ~662 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,241 (Ranked 178)  
+Progressed: 13,243 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -389,16 +389,16 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 13,155 | 0 |
 | 2024-01-09 | 13,184 | 0 |
 | 2024-01-10 | 13,227 | 0 |
-| 2024-01-11 | 13,241 | 0 |
+| 2024-01-11 | 13,243 | 0 |
 ## Awards
 Max (Character Customization): 1,781  (Ranked 130)  
-Sum: 7,215 (Ranked 127)  
+Sum: 7,217 (Ranked 127)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,781 |
 | This game is Extremely Fun | 665 |
-| This game has Diverse Characters | 659 |
+| This game has Diverse Characters | 661 |
 | This game is Highly Recommended | 658 |
 | This game has Amazing Characters | 653 |
 | This game has Amazing Storytelling | 634 |
@@ -725,4 +725,4 @@ Diff (max vs sum): 3
 | 2024-01-08 | 4.76 | - | 1,780 | 7,210 |
 | 2024-01-09 | 4.76 | - | 1,780 | 7,211 |
 | 2024-01-10 | 4.76 | - | 1,781 | 7,213 |
-| 2024-01-11 | 4.76 | - | 1,781 | 7,215 |
+| 2024-01-11 | 4.76 | - | 1,781 | 7,217 |

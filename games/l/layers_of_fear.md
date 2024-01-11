@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 86.00% | ~274 |
-| A piece of the story | 66.00% | ~211 |
-| It's covered up for a reason | 59.00% | ~188 |
-| Wanderer | 54.00% | ~172 |
-| Scraps of love | 52.00% | ~166 |
+| Something important | 86.00% | ~276 |
+| A piece of the story | 65.00% | ~209 |
+| It's covered up for a reason | 59.00% | ~189 |
+| Wanderer | 54.00% | ~173 |
+| Scraps of love | 52.00% | ~167 |
 | The artist’s impression | 50.00% | ~160 |
-| Do what you have to | 44.00% | ~140 |
-| Sign of weakness | 41.00% | ~131 |
-| Refuse to look | 36.00% | ~115 |
+| Do what you have to | 43.00% | ~138 |
+| Sign of weakness | 41.00% | ~132 |
+| Refuse to look | 36.00% | ~116 |
 | Face your fears | 30.00% | ~96 |
-| Finished it | 24.00% | ~77 |
-| Whispers long forgotten | 17.00% | ~54 |
-| Sound Bite | 13.00% | ~41 |
-| A Slice of Life | 12.00% | ~38 |
-| Debut | 12.00% | ~38 |
-| Lights! Camera! Action! | 12.00% | ~38 |
-| The art of movement | 12.00% | ~38 |
+| Finished it | 25.00% | ~80 |
+| Whispers long forgotten | 17.00% | ~55 |
+| Sound Bite | 13.00% | ~42 |
+| A Slice of Life | 12.00% | ~39 |
+| Debut | 12.00% | ~39 |
+| Lights! Camera! Action! | 12.00% | ~39 |
+| The art of movement | 12.00% | ~39 |
 | Another perspective | 11.00% | ~35 |
 | Tough conversation | 10.00% | ~32 |
 | First steps | 9.00% | ~29 |
@@ -38,11 +38,11 @@
 | We Are Not Alone | 3.00% | ~10 |
 | Dark correspondence | 3.00% | ~10 |
 | Immortalized in my heart | 3.00% | ~10 |
-| Full Scoop | 3.00% | ~10 |
 | The Perfect Storm | 3.00% | ~10 |
 | Se7en Seas | 3.00% | ~10 |
 | Body of Work | 2.00% | ~6 |
 | It was worth a try | 2.00% | ~6 |
+| Full Scoop | 2.00% | ~6 |
 | Preferred Parent | 2.00% | ~6 |
 | A Mosaic of Misery | 2.00% | ~6 |
 | In One Take | 1.00% | ~3 |
@@ -57,7 +57,7 @@
 | Inheritance | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 319 (Ranked 394)  
+Progressed: 321 (Ranked 394)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,4 +137,4 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 295 | 0 |
 | 2024-01-09 | 305 | 0 |
 | 2024-01-10 | 312 | 0 |
-| 2024-01-11 | 319 | 0 |
+| 2024-01-11 | 321 | 0 |

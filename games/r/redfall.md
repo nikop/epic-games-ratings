@@ -27,6 +27,7 @@ Rating: 3.68 (Ranked 1,095)
 | You Clean It Up | 4.00% | ~95 |
 | Helping Hand | 4.00% | ~95 |
 | I Spit On Your Grave | 4.00% | ~95 |
+| Block Party | 3.00% | ~71 |
 | Sic Transit Umbra | 3.00% | ~71 |
 | Bell-ringer | 3.00% | ~71 |
 | Silence Is Golden | 3.00% | ~71 |
@@ -36,7 +37,6 @@ Rating: 3.68 (Ranked 1,095)
 | Harvest’s End | 3.00% | ~71 |
 | Revelations | 2.00% | ~47 |
 | Contingency Plans | 2.00% | ~47 |
-| Block Party | 2.00% | ~47 |
 | Check, Please! | 2.00% | ~47 |
 | Right This Way | 2.00% | ~47 |
 | Nice Try | 2.00% | ~47 |

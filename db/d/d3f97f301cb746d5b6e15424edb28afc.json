@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -157,7 +157,7 @@
   "Tags": [],
   "EOS_Progressed": 1682,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4793,9 +4793,9 @@
       "ID": "ACH_CAR_WASH_02",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 2",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 589
+      "UsersEstimate": 606
     },
     {
       "ID": "ACH_CAR_WASH_03",
@@ -4825,9 +4825,9 @@
       "ID": "ACH_FEED_GATOR",
       "SetID": "5fn8ia4",
       "Name": "Feed the Beast",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 673
+      "UsersEstimate": 690
     },
     {
       "ID": "ACH_FISH",
@@ -4897,9 +4897,9 @@
       "ID": "GSS_ACH_05_TIP_03",
       "SetID": "5fn8ia4",
       "Name": "Tip of the Iceberg",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1245
     },
     {
       "ID": "GSS_ACH_06_FUEL_01",
@@ -5025,9 +5025,9 @@
       "ID": "GSS_ACH_21_LOCKPICKING_01",
       "SetID": "5fn8ia4",
       "Name": "Thief!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1497
     },
     {
       "ID": "GSS_ACH_22_LOCKPICKING_02",
@@ -5161,9 +5161,9 @@
       "ID": "GSS_ACH_39_GARAGE_02",
       "SetID": "5fn8ia4",
       "Name": "Machine Head",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1194
     },
     {
       "ID": "GSS_ACH_40_GARAGE_03",
@@ -5193,9 +5193,9 @@
       "ID": "GSS_ACH_43_CARAVAN_02",
       "SetID": "5fn8ia4",
       "Name": "Raising the Stakes",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 723
+      "UsersEstimate": 740
     },
     {
       "ID": "GSS_ACH_44_CARAVAN_03",
@@ -5265,9 +5265,9 @@
       "ID": "GSS_ACH_52_UPGRADE_WORKSHOP_02",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 2",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1026
     },
     {
       "ID": "GSS_ACH_53_UPGRADE_WORKSHOP_03",
@@ -5313,9 +5313,9 @@
       "ID": "GSS_ACH_58_UPGRADE_WAREHOUSE_03",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 3",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 774
+      "UsersEstimate": 791
     },
     {
       "ID": "GSS_ACH_59_UPGRADE_WAREHOUSE_04",
@@ -5522,8 +5522,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-05T19:59:54.3830999+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:07:24.2197947+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:05:54.1437275+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.4325477+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:00:34.8707329+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:07:24.2199142+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:59:32.3327546+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:05:54.1438161+00:00"
 }

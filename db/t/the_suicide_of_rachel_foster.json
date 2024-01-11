@@ -4325,9 +4325,9 @@
       "ID": "ACH_FineGioco",
       "SetID": "7a9m7mj",
       "Name": "All together, again",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 607
+      "UsersEstimate": 625
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -4373,8 +4373,8 @@
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:05:08.0267623+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:04:09.5702645+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.0730929+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:03:16.0808621+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:05:08.026791+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:02:46.3969253+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:04:09.5703003+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 529,
   "Ranking_Popularity": 201,
-  "Ranking_PopularitySum": 272,
-  "Ranking_EOS_Progress": 156,
+  "Ranking_PopularitySum": 271,
+  "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 81,
@@ -2333,18 +2333,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 1036,
       "NumberOfAwardsMax": 647
+    },
+    {
+      "Time": "2024-01-11T23:02:41.0010816+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1041,
+      "NumberOfAwardsMax": 652
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1036,
-  "NumberOfAwardsMax": 647,
+  "NumberOfAwards": 1041,
+  "NumberOfAwardsMax": 652,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 647
+      "Count": 652
     },
     {
       "Text": "This game is Relaxing",
@@ -2401,9 +2407,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 19396,
+  "EOS_Progressed": 19399,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 1059,
+  "EOS_NewPlayers": 1055,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -20026,6 +20032,11 @@
       "Time": "2024-01-11T22:10:48.9546319+00:00",
       "NumProgressed": 19396,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-11T23:09:42.8621109+00:00",
+      "NumProgressed": 19399,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 35,
@@ -20037,7 +20048,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15711
+      "UsersEstimate": 15713
     },
     {
       "ID": "ACH02",
@@ -20085,7 +20096,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3685
+      "UsersEstimate": 3686
     },
     {
       "ID": "ACH08",
@@ -20093,7 +20104,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9698
+      "UsersEstimate": 9700
     },
     {
       "ID": "ACH09",
@@ -20133,7 +20144,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3491
+      "UsersEstimate": 3492
     },
     {
       "ID": "ACH14",
@@ -20157,7 +20168,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3297
+      "UsersEstimate": 3298
     },
     {
       "ID": "ACH17",
@@ -20205,7 +20216,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2715
+      "UsersEstimate": 2716
     },
     {
       "ID": "ACH23",
@@ -20213,7 +20224,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4849
+      "UsersEstimate": 4850
     },
     {
       "ID": "ACH24",
@@ -20261,7 +20272,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 2715
+      "UsersEstimate": 2716
     },
     {
       "ID": "ACH30",
@@ -20316,16 +20327,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19396,
+      "Progressed": 19399,
       "Completed": 75
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-11T20:03:22.0648753+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:10:48.9546316+00:00",
+  "LastChanged": "2024-01-11T23:02:41.0010814+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:09:42.8621106+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:03:08.5647042+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:10:48.9547216+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:02:41.001082+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:09:42.8622968+00:00"
 }

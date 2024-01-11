@@ -21,11 +21,11 @@
 | Fleet-footed | 26.00% | ~28 |
 | Defeat the AI | 25.00% | ~26 |
 | Invincible | 25.00% | ~26 |
+| Best in Dragon City | 23.00% | ~24 |
 | Unsalvageable | 23.00% | ~24 |
-| Best in Dragon City | 22.00% | ~23 |
+| Neutralize | 23.00% | ~24 |
 | Walking into a Trap | 22.00% | ~23 |
-| Neutralize | 22.00% | ~23 |
-| Disdain | 20.00% | ~21 |
+| Disdain | 21.00% | ~22 |
 | Brain in a Vat | 18.00% | ~19 |
 | Final Battle | 17.00% | ~18 |
 | Outsider's Profit | 17.00% | ~18 |

@@ -5,17 +5,17 @@ Rating: 4.56 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 90.00% | ~171 |
-| Adventurer | 63.00% | ~120 |
+| Beginner | 90.00% | ~172 |
 | Map reader | 63.00% | ~120 |
-| Philanthropist | 59.00% | ~112 |
+| Adventurer | 62.00% | ~118 |
+| Philanthropist | 59.00% | ~113 |
 | Archer | 41.00% | ~78 |
 | The brave little tailor | 40.00% | ~76 |
-| Field hand | 37.00% | ~70 |
-| Well-to-do | 32.00% | ~61 |
+| Field hand | 37.00% | ~71 |
+| Well-to-do | 31.00% | ~59 |
 | Samaritan | 29.00% | ~55 |
 | Ladies' man | 28.00% | ~53 |
-| The merciful one | 27.00% | ~51 |
+| The merciful one | 27.00% | ~52 |
 | Ferocious wild boars | 23.00% | ~44 |
 | Idiot | 22.00% | ~42 |
 | Beast slayer | 21.00% | ~40 |
@@ -25,17 +25,17 @@ Rating: 4.56 (Ranked 510)
 | Family man | 17.00% | ~32 |
 | Little hero | 17.00% | ~32 |
 | Sidelined | 17.00% | ~32 |
-| Wise man | 16.00% | ~30 |
-| The fourth triplet | 16.00% | ~30 |
-| Hard worker | 15.00% | ~28 |
-| Fence | 15.00% | ~28 |
+| Wise man | 16.00% | ~31 |
+| The fourth triplet | 16.00% | ~31 |
+| Hard worker | 15.00% | ~29 |
+| Fence | 15.00% | ~29 |
 | Pandora's box | 14.00% | ~27 |
 | Ghost hunter | 14.00% | ~27 |
 | Master detective | 14.00% | ~27 |
 | Defender | 12.00% | ~23 |
 | Peacekeeper | 12.00% | ~23 |
-| Workaholic | 11.00% | ~21 |
 | Showdown | 10.00% | ~19 |
+| Workaholic | 10.00% | ~19 |
 | Safecracker | 9.00% | ~17 |
 | Master thief | 9.00% | ~17 |
 | Freedom fighter | 8.00% | ~15 |
@@ -56,7 +56,7 @@ Rating: 4.56 (Ranked 510)
 | Master of the classes | 0.50% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 190 (Ranked 435)  
+Progressed: 191 (Ranked 434)  
 Completed: 0 (0.00%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-08 | 181 | 0 |
 | 2024-01-09 | 185 | 0 |
 | 2024-01-10 | 188 | 0 |
-| 2024-01-11 | 190 | 0 |
+| 2024-01-11 | 191 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

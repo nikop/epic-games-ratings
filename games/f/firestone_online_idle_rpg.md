@@ -1,31 +1,31 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.09 (Ranked 1,021)  
+Rating: 4.10 (Ranked 1,020)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,104 |
-| World Map | 78.00% | ~3,442 |
-| Temple of Eternals | 56.00% | ~2,471 |
+| Victor | 93.00% | ~4,105 |
+| World Map | 78.00% | ~3,443 |
+| Temple of Eternals | 56.00% | ~2,472 |
 | Prestigious | 52.00% | ~2,295 |
-| Fellowship Power | 41.00% | ~1,809 |
+| Fellowship Power | 41.00% | ~1,810 |
 | Full Party | 29.00% | ~1,280 |
 | Guild Power | 22.00% | ~971 |
 | Prestigious x10 | 20.00% | ~883 |
-| The game is on | 18.00% | ~794 |
+| The game is on | 18.00% | ~795 |
 | Exotic Merchant | 16.00% | ~706 |
 | Dragon Clicker | 15.00% | ~662 |
 | Miner Clicker | 15.00% | ~662 |
+| Inspection | 14.00% | ~618 |
 | Dragon Master | 13.00% | ~574 |
 | Enlightenment | 13.00% | ~574 |
 | Hero inspection | 13.00% | ~574 |
-| Inspection | 13.00% | ~574 |
 | Lieutenant | 12.00% | ~530 |
-| Mysterious Rock | 11.00% | ~485 |
-| Natural Talent | 11.00% | ~485 |
-| Superior | 11.00% | ~485 |
-| The Unstoppable | 11.00% | ~485 |
+| Mysterious Rock | 11.00% | ~486 |
+| Natural Talent | 11.00% | ~486 |
+| Superior | 11.00% | ~486 |
+| The Unstoppable | 11.00% | ~486 |
 | Milestone collector | 10.00% | ~441 |
 | Doing My Part | 9.00% | ~397 |
 | Scientist | 9.00% | ~397 |
@@ -81,7 +81,7 @@ Rating: 4.09 (Ranked 1,021)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,413 (Ranked 209)  
+Progressed: 4,414 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 2 (0.05%) (Ranked 338)
 | 2024-01-08 | 4,327 | 2 |
 | 2024-01-09 | 4,351 | 2 |
 | 2024-01-10 | 4,381 | 2 |
-| 2024-01-11 | 4,413 | 2 |
+| 2024-01-11 | 4,414 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 483)  
 Sum: 157 (Ranked 440)  
@@ -450,3 +450,4 @@ Diff (max vs sum): 43
 | 2024-01-08 | 4.07 | 40 | 155 |
 | 2024-01-09 | 4.08 | 40 | 155 |
 | 2024-01-10 | 4.09 | 40 | 157 |
+| 2024-01-11 | 4.10 | 40 | 157 |

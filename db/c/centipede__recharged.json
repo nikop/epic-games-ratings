@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25069,
+  "EOS_Progressed": 25070,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 345,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -22840,6 +22840,11 @@
       "Time": "2024-01-11T22:04:06.1169743+00:00",
       "NumProgressed": 25069,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2024-01-11T23:03:22.014126+00:00",
+      "NumProgressed": 25070,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 16,
@@ -22891,7 +22896,7 @@
       "Name": "Feel The Thunder",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "Fireworks",
@@ -22923,7 +22928,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 9526
+      "UsersEstimate": 9527
     },
     {
       "ID": "Mirrors",
@@ -22947,7 +22952,7 @@
       "Name": "Shooting Shark",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 11782
+      "UsersEstimate": 11783
     },
     {
       "ID": "Sole_Survivor",
@@ -22955,7 +22960,7 @@
       "Name": "Sole Survivor",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 8523
+      "UsersEstimate": 8524
     },
     {
       "ID": "Still_Burning",
@@ -22978,15 +22983,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 25069,
+      "Progressed": 25070,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-09T13:57:36.5131842+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:04:06.1169738+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:03:22.0141256+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:51.4692455+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:59:44.0044664+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:04:06.1170961+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:58:52.8284581+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:03:22.0142282+00:00"
 }

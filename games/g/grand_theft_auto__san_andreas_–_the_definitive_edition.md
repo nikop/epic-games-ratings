@@ -5,14 +5,14 @@ Rating: 4.55 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,711 |
-| Pay 'n' Spray | 50.00% | ~9,698 |
-| All Dressed Up for San Fierro | 25.00% | ~4,849 |
-| The American Dream | 19.00% | ~3,685 |
-| School's Out | 18.00% | ~3,491 |
-| Smooth Moves | 17.00% | ~3,297 |
-| What happens in Las Venturas... | 14.00% | ~2,715 |
-| Today Was a Good Day | 14.00% | ~2,715 |
+| Getting Started | 81.00% | ~15,713 |
+| Pay 'n' Spray | 50.00% | ~9,700 |
+| All Dressed Up for San Fierro | 25.00% | ~4,850 |
+| The American Dream | 19.00% | ~3,686 |
+| School's Out | 18.00% | ~3,492 |
+| Smooth Moves | 17.00% | ~3,298 |
+| What happens in Las Venturas... | 14.00% | ~2,716 |
+| Today Was a Good Day | 14.00% | ~2,716 |
 | Horror of the Santa Maria | 10.00% | ~1,940 |
 | Liberty City State of Mind | 9.00% | ~1,746 |
 | Original Gangster | 8.00% | ~1,552 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 529)
 | ...Here we go again | 0.50% | ~97 |
 | I Ain't No Buster | 0.40% | ~78 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,396 (Ranked 156)  
+Progressed: 19,399 (Ranked 157)  
 Completed: 75 (0.39%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,14 +307,14 @@ Completed: 75 (0.39%) (Ranked 241)
 | 2024-01-08 | 19,021 | 75 |
 | 2024-01-09 | 19,164 | 75 |
 | 2024-01-10 | 19,333 | 75 |
-| 2024-01-11 | 19,396 | 75 |
+| 2024-01-11 | 19,399 | 75 |
 ## Awards
-Max (Great Boss Battles): 647  (Ranked 201)  
-Sum: 1,036 (Ranked 272)  
-Diff (max vs sum): -71  
+Max (Great Boss Battles): 652  (Ranked 201)  
+Sum: 1,041 (Ranked 271)  
+Diff (max vs sum): -70  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 647 |
+| This game has Great Boss Battles | 652 |
 | This game has Amazing Characters | 58 |
 | This game has Amazing Storytelling | 55 |
 | This game is Relaxing | 53 |
@@ -554,4 +554,4 @@ Diff (max vs sum): -71
 | 2024-01-08 | 4.55 | 633 | 1,004 |
 | 2024-01-09 | 4.55 | 638 | 1,016 |
 | 2024-01-10 | 4.55 | 647 | 1,034 |
-| 2024-01-11 | 4.55 | 647 | 1,036 |
+| 2024-01-11 | 4.55 | 652 | 1,041 |

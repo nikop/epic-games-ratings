@@ -5,28 +5,28 @@ Rating: 4.22 (Ranked 952)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 26.00% | ~5,763 |
-| The Outer Way | 26.00% | ~5,763 |
-| Desperate Times | 25.00% | ~5,541 |
-| Get a Grip | 22.00% | ~4,876 |
-| Paper Jams | 22.00% | ~4,876 |
-| Chew 'Em Up | 20.00% | ~4,433 |
-| Reforged | 19.00% | ~4,211 |
+| Flesh Wound | 26.00% | ~5,764 |
+| The Outer Way | 26.00% | ~5,764 |
+| Desperate Times | 25.00% | ~5,542 |
+| Paper Jams | 23.00% | ~5,099 |
+| Get a Grip | 22.00% | ~4,877 |
+| Chew 'Em Up | 20.00% | ~4,434 |
+| Reforged | 19.00% | ~4,212 |
 | Float Like A Butterfly | 18.00% | ~3,990 |
-| Workplace Hazard | 16.00% | ~3,546 |
-| If the SHU Fits... | 16.00% | ~3,546 |
-| Without A Paddle | 14.00% | ~3,103 |
+| Workplace Hazard | 16.00% | ~3,547 |
+| If the SHU Fits... | 16.00% | ~3,547 |
+| Without A Paddle | 14.00% | ~3,104 |
 | In the Pipe, Five by Five | 12.00% | ~2,660 |
 | Crash Site | 12.00% | ~2,660 |
-| Two Heads Are Better Than One | 11.00% | ~2,438 |
-| Power Up | 11.00% | ~2,438 |
-| Giving Back | 10.00% | ~2,216 |
-| Terminated | 10.00% | ~2,216 |
-| What Lies Beneath | 10.00% | ~2,216 |
-| Full Circle | 10.00% | ~2,216 |
+| Two Heads Are Better Than One | 11.00% | ~2,439 |
+| Power Up | 11.00% | ~2,439 |
+| Giving Back | 10.00% | ~2,217 |
+| Terminated | 10.00% | ~2,217 |
+| What Lies Beneath | 10.00% | ~2,217 |
+| Full Circle | 10.00% | ~2,217 |
 | You Need a Gun | 9.00% | ~1,995 |
-| I Do Belong Here | 8.00% | ~1,773 |
-| Keep Fighting | 7.00% | ~706 |
+| I Do Belong Here | 8.00% | ~1,774 |
+| Keep Fighting | 7.00% | ~707 |
 | In Striking Distance | 5.00% | ~1,108 |
 | The Commonality | 5.00% | ~1,108 |
 | It's Time | 5.00% | ~505 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 952)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,165 (Ranked 150)  
+Progressed: 22,169 (Ranked 150)  
 Completed: 82 (0.37%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,10 +311,10 @@ Completed: 82 (0.37%) (Ranked 243)
 | 2024-01-08 | 21,745 | 82 |
 | 2024-01-09 | 21,902 | 82 |
 | 2024-01-10 | 22,053 | 82 |
-| 2024-01-11 | 22,165 | 82 |
+| 2024-01-11 | 22,169 | 82 |
 ## Awards
 Max (Amazing Characters): 131  (Ranked 345)  
-Sum: 633 (Ranked 321)  
+Sum: 634 (Ranked 321)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
@@ -324,7 +324,7 @@ Diff (max vs sum): 24
 | This game has Amazing Storytelling | 110 |
 | This game has Quickly Understood Controls | 108 |
 | This game has Challenging Combat | 68 |
-| This game has a Creative Community | 51 |
+| This game has a Creative Community | 52 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -526,4 +526,4 @@ Diff (max vs sum): 24
 | 2024-01-08 | 4.21 | 126 | 607 |
 | 2024-01-09 | 4.22 | 129 | 619 |
 | 2024-01-10 | 4.22 | 129 | 628 |
-| 2024-01-11 | 4.22 | 131 | 633 |
+| 2024-01-11 | 4.22 | 131 | 634 |

@@ -4,10 +4,10 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 357,
   "Ranking_Popularity": 481,
-  "Ranking_PopularitySum": 410,
+  "Ranking_PopularitySum": 405,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -709,10 +709,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 218,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2024-01-11T22:58:38.2332493+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 238,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 218,
+  "NumberOfAwards": 238,
   "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -763,11 +769,17 @@
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
       "Count": 21
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 20
     }
   ],
-  "EOS_Progressed": 7194,
+  "EOS_Progressed": 7195,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11065,6 +11077,11 @@
       "Time": "2024-01-11T18:03:29.8182404+00:00",
       "NumProgressed": 7194,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-11T23:03:29.0050324+00:00",
+      "NumProgressed": 7195,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -11116,7 +11133,7 @@
       "Name": "Full Ascension",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "15",
@@ -11220,7 +11237,7 @@
       "Name": "Bone Peddler",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "27",
@@ -11268,7 +11285,7 @@
       "Name": "Magical Synergy",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "32",
@@ -11555,22 +11572,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7194,
+      "Progressed": 7195,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7194,
+      "Progressed": 7195,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2024-01-11T19:59:30.8077807+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:04:15.3199237+00:00",
+  "LastChanged": "2024-01-11T22:58:38.2332491+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:03:29.005032+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:59:24.5787216+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:04:15.3200664+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:58:38.2332495+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:03:29.0051254+00:00"
 }

@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4190,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 490,
+  "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -8583,9 +8583,9 @@
       "ID": "achievement_57",
       "SetID": "d252ncf",
       "Name": "Ghost of the Father",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 880
+      "UsersEstimate": 922
     },
     {
       "ID": "achievement_58",
@@ -8759,9 +8759,9 @@
       "ID": "achievement_77",
       "SetID": "d252ncf",
       "Name": "Digital Exorcist",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 838
+      "UsersEstimate": 880
     },
     {
       "ID": "achievement_78",
@@ -8971,8 +8971,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:11:02.6056288+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:09:54.5448001+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:59:00.5356746+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:03:53.9491744+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:11:02.6058049+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:03:13.1315538+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:09:54.5449683+00:00"
 }

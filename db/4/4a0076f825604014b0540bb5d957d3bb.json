@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 146,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -754,9 +754,9 @@
       "ID": "CgkInO_K3eIdEAIQBQ",
       "SetID": "6bj96in",
       "Name": "SAILOR\u0027S GIFT",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 40,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "CgkInO_K3eIdEAIQBg",
@@ -826,9 +826,9 @@
       "ID": "CgkInO_K3eIdEAIQDg",
       "SetID": "6bj96in",
       "Name": "CHRONOSPY",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 40,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "CgkInO_K3eIdEAIQDw",
@@ -842,9 +842,9 @@
       "ID": "CgkInO_K3eIdEAIQEA",
       "SetID": "6bj96in",
       "Name": "EAGLE EYED",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 40,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "CgkInO_K3eIdEAIQEQ",
@@ -937,8 +937,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:10:44.301911+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:09:38.9084887+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:03.5069577+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:57:58.4300165+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:10:44.3019293+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:57:33.5043647+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:09:38.9085031+00:00"
 }

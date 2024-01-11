@@ -4,7 +4,7 @@
   "ProductSlug": "orwells-animal-farm",
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 584,
+  "Ranking_EOS_NewPlayers": 583,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-12-10T14:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:47.1841437+00:00",
   "LastChanged": "2023-03-31T05:58:47.1841438+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:23.4029237+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:01:49.3308221+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:08:40.3879697+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:00:24.9389179+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:08:02.7129692+00:00"
 }

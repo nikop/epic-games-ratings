@@ -5,10 +5,10 @@
   "Ranking_Rating": 565,
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
-  "Ranking_EOS_Progress": 159,
+  "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -343,10 +343,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18864,
-  "EOS_Completed": 62,
-  "EOS_NewPlayers": 661,
-  "EOS_NewCompleters": 4,
+  "EOS_Progressed": 18866,
+  "EOS_Completed": 63,
+  "EOS_NewPlayers": 653,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -17063,6 +17063,11 @@
       "Time": "2024-01-11T22:08:43.2264514+00:00",
       "NumProgressed": 18864,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2024-01-11T23:08:04.9141127+00:00",
+      "NumProgressed": 18866,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17091,7 +17096,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2452
+      "UsersEstimate": 2453
     },
     {
       "ID": "12",
@@ -17099,7 +17104,7 @@
       "Name": "Data Archivist",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "13",
@@ -17131,7 +17136,7 @@
       "Name": "Drug Gifter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "17",
@@ -17155,7 +17160,7 @@
       "Name": "Martian Music",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2452
+      "UsersEstimate": 2453
     },
     {
       "ID": "2",
@@ -17171,7 +17176,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "21",
@@ -17211,7 +17216,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "26",
@@ -17227,7 +17232,7 @@
       "Name": "Bosmang",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2452
+      "UsersEstimate": 2453
     },
     {
       "ID": "28",
@@ -17307,7 +17312,7 @@
       "Name": "Impossible Objects",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2452
+      "UsersEstimate": 2453
     },
     {
       "ID": "31",
@@ -17315,7 +17320,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "32",
@@ -17354,22 +17359,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18864,
-      "Completed": 62
+      "Progressed": 18866,
+      "Completed": 63
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4818,
-      "Completed": 1287
+      "Progressed": 4820,
+      "Completed": 1289
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-11T01:50:11.8166633+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:08:43.2264508+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:08:04.9141122+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:01:59.9459354+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:08:43.2265475+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:00:33.2217071+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:08:04.9142038+00:00"
 }

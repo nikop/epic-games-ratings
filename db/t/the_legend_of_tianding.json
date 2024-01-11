@@ -499,9 +499,9 @@
       "ID": "BeatBossShimada",
       "SetID": "123m9l1",
       "Name": "Final Showdown",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "BeatBossTing",
@@ -523,9 +523,9 @@
       "ID": "BigEater",
       "SetID": "123m9l1",
       "Name": "Big Eater",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ClarifyRumors",
@@ -563,9 +563,9 @@
       "ID": "FinishTheGame",
       "SetID": "123m9l1",
       "Name": "The End of an Outlaw",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "FinishTutorialStage",
@@ -579,9 +579,9 @@
       "ID": "HardcorePlayer",
       "SetID": "123m9l1",
       "Name": "The Hero of the People",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Legendary",
@@ -692,8 +692,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:04:13.8748968+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:03:27.8877985+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.6846029+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:00:16.1515691+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:04:13.8749577+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:59:16.8776578+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:03:27.8878236+00:00"
 }

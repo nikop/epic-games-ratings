@@ -6,23 +6,23 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~19,276 |
-| Student | 22.00% | ~14,623 |
-| Knower | 16.00% | ~10,635 |
-| Listener | 15.00% | ~9,970 |
+| Initiation | 29.00% | ~19,277 |
+| Student | 22.00% | ~14,624 |
+| Knower | 16.00% | ~10,636 |
+| Listener | 15.00% | ~9,971 |
 | Aspen Tree | 14.00% | ~9,306 |
 | Healer | 14.00% | ~9,306 |
-| Scientist | 12.00% | ~7,976 |
-| Soldier | 12.00% | ~7,976 |
+| Scientist | 12.00% | ~7,977 |
+| Soldier | 12.00% | ~7,977 |
 | Cow Level | 11.00% | ~7,312 |
 | Old Friend | 10.00% | ~6,647 |
 | Herbalist | 10.00% | ~6,647 |
 | Water | 10.00% | ~6,647 |
-| New Spirits | 9.00% | ~5,982 |
-| Voipel | 9.00% | ~5,982 |
-| Collector | 9.00% | ~5,982 |
-| Wolf | 9.00% | ~5,982 |
-| Black Mage | 9.00% | ~5,982 |
+| New Spirits | 9.00% | ~5,983 |
+| Voipel | 9.00% | ~5,983 |
+| Collector | 9.00% | ~5,983 |
+| Wolf | 9.00% | ~5,983 |
+| Black Mage | 9.00% | ~5,983 |
 | Card Player | 8.00% | ~5,318 |
 | Dead Friend | 8.00% | ~5,318 |
 | Pine Tree | 8.00% | ~5,318 |
@@ -41,8 +41,8 @@ Number of Ratings: 96  (23.09.2022)
 | Sinner | 6.00% | ~3,988 |
 | Folklorist | 6.00% | ~3,988 |
 | Keeper of Knowledge | 6.00% | ~3,988 |
-| Susanin | 5.00% | ~3,323 |
-| Traveller | 5.00% | ~3,323 |
+| Susanin | 5.00% | ~3,324 |
+| Traveller | 5.00% | ~3,324 |
 | Righteous | 4.00% | ~2,659 |
 | Musician | 4.00% | ~2,659 |
 | Koldun | 4.00% | ~2,659 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,329 |
 | Word Master | 0.20% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,469 (Ranked 117)  
+Progressed: 66,474 (Ranked 117)  
 Completed: 69 (0.10%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 69 (0.10%) (Ranked 311)
 | 2024-01-08 | 66,003 | 68 |
 | 2024-01-09 | 66,170 | 69 |
 | 2024-01-10 | 66,325 | 69 |
-| 2024-01-11 | 66,469 | 69 |
+| 2024-01-11 | 66,474 | 69 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

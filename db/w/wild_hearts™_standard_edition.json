@@ -2,7 +2,7 @@
   "ID": "4cbfe407ada24702a556b6e4d28a8800",
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
-  "Ranking_EOS_Progress": 279,
+  "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 154,
@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1333,
+  "EOS_Progressed": 1334,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
@@ -4323,6 +4323,11 @@
       "Time": "2024-01-11T22:10:13.1446635+00:00",
       "NumProgressed": 1333,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-11T23:09:14.2905495+00:00",
+      "NumProgressed": 1334,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -4335,7 +4340,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "achievement_10",
@@ -4365,9 +4370,9 @@
       "ID": "achievement_13",
       "SetID": "2cpn27e",
       "Name": "Karakuri Fortress",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 133
     },
     {
       "ID": "achievement_14",
@@ -4383,7 +4388,7 @@
       "Name": "Memory Rouser",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "achievement_16",
@@ -4399,7 +4404,7 @@
       "Name": "Master of the Skies",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "achievement_18",
@@ -4495,7 +4500,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "achievement_29",
@@ -4511,7 +4516,7 @@
       "Name": "Bonds of Enmity",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "achievement_30",
@@ -4575,7 +4580,7 @@
       "Name": "Hidden History",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "achievement_38",
@@ -4655,7 +4660,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "achievement_47",
@@ -4687,7 +4692,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "achievement_7",
@@ -4695,7 +4700,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "achievement_8",
@@ -4718,13 +4723,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1333,
+      "Progressed": 1334,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-11T22:10:13.1446631+00:00",
+  "LastChanged_Achievements": "2024-01-11T23:09:14.2905493+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:30.0899668+00:00",
-  "LastUpdate_Ratings": "2024-01-11T21:58:03.7180548+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:10:13.14472+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:57:38.1874444+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:09:14.2905926+00:00"
 }

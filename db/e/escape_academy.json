@@ -2,12 +2,12 @@
   "ID": "040baa2d100d465caf428c688cc3cdba",
   "Name": "Escape Academy",
   "ProductSlug": "escape-academy-bfc2bf",
-  "Ranking_Rating": 794,
+  "Ranking_Rating": 782,
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 584,
+  "Ranking_EOS_NewPlayers": 583,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-07-14T04:00:00+00:00",
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.38,
+  "Rating": 4.39,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:28.0407296+00:00",
@@ -94,6 +94,12 @@
       "Rating": 4.38,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-11T22:59:31.5069458+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -112,8 +118,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:39.3995544+00:00",
   "FirstSeenRating": "2023-03-31T05:57:28.0407293+00:00",
-  "LastChanged": "2024-01-10T15:59:26.9474204+00:00",
+  "LastChanged": "2024-01-11T22:59:31.5069456+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:19.5921514+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:00:33.9940983+00:00",
-  "LastUpdate_Achievements": "2024-01-11T22:10:33.3369552+00:00"
+  "LastUpdate_Ratings": "2024-01-11T22:59:31.5069462+00:00",
+  "LastUpdate_Achievements": "2024-01-11T23:09:30.4344203+00:00"
 }

@@ -23,11 +23,11 @@ Number of Ratings: 111  (23.09.2022)
 | Finally he zips it | 7.00% | ~256 |
 | That pinch! | 7.00% | ~256 |
 | Tight lipslides | 7.00% | ~256 |
-| Fulfilled the dream | 6.00% | ~219 |
-| G'Day Mate! | 6.00% | ~219 |
-| Purple passion | 6.00% | ~219 |
-| Squad goals | 6.00% | ~219 |
-| Sup widdit big dog! | 6.00% | ~219 |
+| Fulfilled the dream | 6.00% | ~220 |
+| G'Day Mate! | 6.00% | ~220 |
+| Purple passion | 6.00% | ~220 |
+| Squad goals | 6.00% | ~220 |
+| Sup widdit big dog! | 6.00% | ~220 |
 | Commence the Hijinx! | 5.00% | ~183 |
 | DIY Boss | 5.00% | ~183 |
 | Globetrotter | 5.00% | ~183 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,658 (Ranked 222)  
+Progressed: 3,659 (Ranked 222)  
 Completed: 2 (0.05%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,7 +296,7 @@ Completed: 2 (0.05%) (Ranked 338)
 | 2024-01-08 | 3,608 | 2 |
 | 2024-01-09 | 3,627 | 2 |
 | 2024-01-10 | 3,653 | 2 |
-| 2024-01-11 | 3,658 | 2 |
+| 2024-01-11 | 3,659 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 64  (Ranked 425)  
 Sum: 587 (Ranked 326)  
