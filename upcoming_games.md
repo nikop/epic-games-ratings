@@ -223,6 +223,7 @@
 | [Ascent of Ashes](games/a/a2cbb09ffa5d49aab9b00a2607be7508.md) | 2099-01-01 | - |  | - | - |
 | [Asterogues](games/a/asterogues.md) | 2099-01-01 | - |  | - | - |
 | [Astro Duel 2](games/a/astro_duel_2.md) | 2099-01-01 | - |  | - | - |
+| [Astrometica](games/d/d5edf91e135b4742b668c25dea1e2e52.md) | 2099-01-01 | - |  | - | - |
 | [Awaken](games/8/879a4b6564b4491e9f523c634d181756.md) | 2099-01-01 | - |  | - | - |
 | [Barista Simulator](games/d/d50a739b158c4d0fb8f3788f837b09d2.md) | 2099-01-01 | - |  | - | - |
 | [Battle Leet](games/6/68b61ac6800241caa70393fda6da575d.md) | 2099-01-01 | - |  | - | - |
@@ -389,7 +390,7 @@
 | [Nifty Island](games/9/95afff33bcc840f99fdfb7f2a387c855.md) | 2099-01-01 | - |  | - | - |
 | [Nirvana Noir](games/b/bfe6ea830f804ba0a9fb3202d6e87514.md) | 2099-01-01 | - |  | - | - |
 | [No More Room in Hell 2](games/n/no_more_room_in_hell_2.md) | 2099-01-01 | - |  | - | - |
-| [Noch](games/7/7eaefaa491c24dfab7520e3ddd24f5ad.md) | 2099-01-01 | 44 (1,000 XP) | 406 | - | - |
+| [Noch](games/7/7eaefaa491c24dfab7520e3ddd24f5ad.md) | 2099-01-01 | 44 (1,000 XP) | 408 | - | - |
 | [Nova Assault](games/b/burnout.md) | 2099-01-01 | - |  | - | - |
 | [Nyan Heroes](games/8/8e8c6752bd704123adc71241c92e7bce.md) | 2099-01-01 | - |  | - | - |
 | [Ocean's Heart](games/a/ab65f37619d340748fafdccfead657f1.md) | 2099-01-01 | - |  | - | - |

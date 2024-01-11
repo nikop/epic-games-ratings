@@ -4,7 +4,7 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [The InVincible Iron Ivy - Enter the Pretty Pretty Princess](games/6/6416a7e47acb440da6f7fc0eff798318.md) | 100.00% |
 | 1 | [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 100.00% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.54% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.41% |
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
 | 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 41.30% |
 | 8 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
@@ -75,7 +75,7 @@
 | 73 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 74 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.91% |
 | 75 | [Bugsnax](games/b/bugsnax.md) | 4.89% |
-| 76 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.85% |
+| 76 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.82% |
 | 77 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.76% |
 | 78 | [ZZT!](games/z/zzt!.md) | 4.74% |
 | 79 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.60% |
@@ -159,7 +159,7 @@
 | 157 | [Chorus](games/c/chorus.md) | 1.28% |
 | 158 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 1.27% |
 | 159 | [Late Shift](games/l/late_shift.md) | 1.25% |
-| 160 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.24% |
+| 160 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.23% |
 | 161 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.22% |
 | 162 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.19% |
 | 162 | [Ten Dates](games/t/ten_dates.md) | 1.19% |
@@ -222,11 +222,11 @@
 | 220 | [Tails of Iron](games/t/tails_of_iron.md) | 0.52% |
 | 221 | [Haven](games/h/haven.md) | 0.51% |
 | 221 | [The Surge 2](games/t/the_surge_2.md) | 0.51% |
-| 223 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 0.50% |
 | 223 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.50% |
 | 223 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.50% |
 | 223 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.50% |
-| 227 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.49% |
+| 226 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 0.49% |
+| 226 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.49% |
 | 228 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.48% |
 | 229 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.47% |
 | 230 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
@@ -256,9 +256,9 @@
 | 254 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.31% |
 | 254 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.31% |
 | 254 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 254 | [Train Valley](games/t/train_valley.md) | 0.31% |
-| 258 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.30% |
-| 258 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.30% |
+| 257 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.30% |
+| 257 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.30% |
+| 257 | [Train Valley](games/t/train_valley.md) | 0.30% |
 | 260 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.29% |
 | 261 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.28% |
 | 262 | [Filament](games/f/filament.md) | 0.27% |
@@ -823,4 +823,4 @@
 | 397 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 397 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 397 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,825 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,826 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
