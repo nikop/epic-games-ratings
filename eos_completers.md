@@ -26,7 +26,7 @@
 | 24 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 18.84% |
 | 25 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 26 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.52% |
-| 27 | [The Riflemen](games/t/the_riflemen.md) | 17.16% |
+| 27 | [The Riflemen](games/t/the_riflemen.md) | 17.15% |
 | 28 | [Island Cities](games/i/island_cities.md) | 17.00% |
 | 29 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 30 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
@@ -134,7 +134,7 @@
 | 132 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.30% |
 | 133 | [tERRORbane](games/t/terrorbane.md) | 2.27% |
 | 134 | [Night Book](games/n/night_book.md) | 2.26% |
-| 135 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
+| 135 | [Bloodshore](games/b/bloodshore.md) | 2.15% |
 | 136 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.08% |
 | 137 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.07% |
 | 138 | [Serial Cleaners](games/s/serial_cleaners.md) | 1.97% |
