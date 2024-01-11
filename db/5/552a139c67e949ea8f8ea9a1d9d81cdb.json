@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1930,
+  "EOS_Progressed": 1931,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
@@ -4912,6 +4912,11 @@
       "Time": "2024-01-10T18:05:59.0195664+00:00",
       "NumProgressed": 1930,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T00:05:53.8613065+00:00",
+      "NumProgressed": 1931,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -5004,7 +5009,7 @@
       "Name": "It\u0027s me you have to beat",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -5076,7 +5081,7 @@
       "Name": "Challenge accepted!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -5084,7 +5089,7 @@
       "Name": "I\u0027m in charge here!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -5204,7 +5209,7 @@
       "Name": "Perfectionist",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -5291,20 +5296,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1930,
+      "Progressed": 1931,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1598,
+      "Progressed": 1599,
       "Completed": 1012
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-10T23:05:38.915149+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:05:53.8613063+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:16.9780766+00:00",
-  "LastUpdate_Ratings": "2024-01-10T22:58:54.1646577+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:05:38.915227+00:00"
+  "LastUpdate_Ratings": "2024-01-10T23:58:55.0501777+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:05:53.8613685+00:00"
 }

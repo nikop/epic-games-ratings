@@ -5,23 +5,23 @@ Rating: 4.39 (Ranked 781)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 77.00% | ~2,076 |
-| A new Journey | 75.00% | ~2,022 |
-| From X to Y | 74.00% | ~1,995 |
-| Departure | 74.00% | ~1,995 |
-| Way of Iron | 71.00% | ~1,914 |
-| Mystery Tour | 70.00% | ~1,887 |
-| We brake for nobody | 68.00% | ~1,833 |
-| Brainstorm | 66.00% | ~1,779 |
-| Mind the Gap | 66.00% | ~1,779 |
-| Travel Company | 66.00% | ~1,779 |
-| All around the World | 63.00% | ~1,698 |
+| Country Bumpkin | 76.00% | ~2,050 |
+| A new Journey | 75.00% | ~2,023 |
+| From X to Y | 74.00% | ~1,996 |
+| Departure | 74.00% | ~1,996 |
+| Way of Iron | 71.00% | ~1,915 |
+| Mystery Tour | 70.00% | ~1,888 |
+| We brake for nobody | 68.00% | ~1,834 |
+| Brainstorm | 66.00% | ~1,780 |
+| Mind the Gap | 66.00% | ~1,780 |
+| Travel Company | 66.00% | ~1,780 |
+| All around the World | 63.00% | ~1,699 |
 | Right through the middle | 59.00% | ~1,591 |
 | Facility Manager | 54.00% | ~1,456 |
 | Poor Devil | 54.00% | ~1,456 |
 | Producer | 51.00% | ~1,375 |
-| Bridge Builder | 43.00% | ~1,159 |
-| Apprentice | 42.00% | ~1,132 |
+| Bridge Builder | 43.00% | ~1,160 |
+| Apprentice | 42.00% | ~1,133 |
 | Going once, going twice, sold | 37.00% | ~998 |
 | Access granted | 36.00% | ~971 |
 | Bull and bear | 35.00% | ~944 |
@@ -41,12 +41,12 @@ Rating: 4.39 (Ranked 781)
 | Traffic Jam | 20.00% | ~539 |
 | Resistance is futile | 18.00% | ~485 |
 | Networker | 17.00% | ~458 |
-| Bold and beautiful | 16.00% | ~431 |
-| Settler | 16.00% | ~431 |
-| Assimilated | 15.00% | ~404 |
-| Go West | 14.00% | ~377 |
-| Max Power | 14.00% | ~377 |
-| Locusts | 13.00% | ~350 |
+| Bold and beautiful | 16.00% | ~432 |
+| Settler | 16.00% | ~432 |
+| Assimilated | 15.00% | ~405 |
+| Go West | 14.00% | ~378 |
+| Max Power | 14.00% | ~378 |
+| Locusts | 13.00% | ~351 |
 | Tycoon | 12.00% | ~324 |
 | A new Hope | 11.00% | ~297 |
 | Call of Duty | 10.00% | ~270 |
@@ -61,7 +61,7 @@ Rating: 4.39 (Ranked 781)
 | European Union | 0.60% | ~16 |
 | Together we stand | 0.50% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,696 (Ranked 233)  
+Progressed: 2,697 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,6 +299,7 @@ Completed: 0 (0.00%) (Ranked 396)
 | 2024-01-08 | 2,671 | 0 |
 | 2024-01-09 | 2,676 | 0 |
 | 2024-01-10 | 2,696 | 0 |
+| 2024-01-11 | 2,697 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

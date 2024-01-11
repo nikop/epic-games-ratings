@@ -11,9 +11,9 @@ Rating: 4.15 (Ranked 1,000)
 | The Collector | 25.00% | ~553 |
 | Find Allies | 24.00% | ~531 |
 | I Found It | 24.00% | ~531 |
+| Adventurer | 23.00% | ~509 |
 | Shatter Them All | 23.00% | ~509 |
 | Geared Up | 23.00% | ~509 |
-| Adventurer | 22.00% | ~487 |
 | Fashion Victim | 22.00% | ~487 |
 | Scholar | 22.00% | ~487 |
 | Tributes of Caladrias | 20.00% | ~443 |

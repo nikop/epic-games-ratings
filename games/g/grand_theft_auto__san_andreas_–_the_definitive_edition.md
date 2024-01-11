@@ -5,19 +5,19 @@ Rating: 4.55 (Ranked 527)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,660 |
-| Pay 'n' Spray | 50.00% | ~9,666 |
-| All Dressed Up for San Fierro | 25.00% | ~4,833 |
-| The American Dream | 19.00% | ~3,673 |
-| School's Out | 18.00% | ~3,480 |
-| Smooth Moves | 17.00% | ~3,287 |
+| Getting Started | 81.00% | ~15,663 |
+| Pay 'n' Spray | 50.00% | ~9,668 |
+| All Dressed Up for San Fierro | 25.00% | ~4,834 |
+| The American Dream | 19.00% | ~3,674 |
+| School's Out | 18.00% | ~3,481 |
+| Smooth Moves | 16.00% | ~3,094 |
 | What happens in Las Venturas... | 14.00% | ~2,707 |
 | Today Was a Good Day | 14.00% | ~2,707 |
-| Horror of the Santa Maria | 10.00% | ~1,933 |
+| Horror of the Santa Maria | 10.00% | ~1,934 |
 | Liberty City State of Mind | 9.00% | ~1,740 |
 | Original Gangster | 8.00% | ~1,547 |
-| With Extra Dip | 7.00% | ~1,353 |
-| The End of the Line | 7.00% | ~1,353 |
+| With Extra Dip | 7.00% | ~1,354 |
+| The End of the Line | 7.00% | ~1,354 |
 | Saviour | 6.00% | ~1,160 |
 | Rescue a Kitten Too? | 5.00% | ~967 |
 | They Can’t Stop All of Us | 4.00% | ~773 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 527)
 | ...Here we go again | 0.50% | ~97 |
 | I Ain't No Buster | 0.40% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,333 (Ranked 156)  
+Progressed: 19,337 (Ranked 156)  
 Completed: 75 (0.39%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,14 +307,15 @@ Completed: 75 (0.39%) (Ranked 241)
 | 2024-01-08 | 19,021 | 75 |
 | 2024-01-09 | 19,164 | 75 |
 | 2024-01-10 | 19,333 | 75 |
+| 2024-01-11 | 19,337 | 75 |
 ## Awards
 Max (Great Boss Battles): 647  (Ranked 201)  
-Sum: 1,034 (Ranked 272)  
+Sum: 1,035 (Ranked 272)  
 Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 647 |
-| This game has Amazing Characters | 57 |
+| This game has Amazing Characters | 58 |
 | This game has Amazing Storytelling | 54 |
 | This game is Relaxing | 53 |
 | This game is Highly Recommended | 52 |
@@ -553,3 +554,4 @@ Diff (max vs sum): -71
 | 2024-01-08 | 4.55 | 633 | 1,004 |
 | 2024-01-09 | 4.55 | 638 | 1,016 |
 | 2024-01-10 | 4.55 | 647 | 1,034 |
+| 2024-01-11 | 4.55 | 647 | 1,035 |

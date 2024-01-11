@@ -3010,9 +3010,9 @@
       "ID": "DIE_ASCEND",
       "SetID": "6ohhfoc",
       "Name": "Ascended",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 67
     },
     {
       "ID": "DIE_FORGE_CUSTOM",
@@ -3267,8 +3267,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-12-18T15:02:48.0768878+00:00",
-  "LastChanged_Achievements": "2024-01-10T23:05:02.3878138+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:05:17.9813441+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.342608+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:02:57.5437105+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:05:02.3878577+00:00"
+  "LastUpdate_Ratings": "2024-01-11T00:03:10.4741998+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:05:17.9813934+00:00"
 }

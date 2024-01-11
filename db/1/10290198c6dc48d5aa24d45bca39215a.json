@@ -31,8 +31,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "4flilh1",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-01-11T00:05:04.8948822+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:05:04.8948812+00:00",
   "LastUpdate_AppInfo": "2024-01-08T13:01:56.8515964+00:00",
-  "LastUpdate_Ratings": "2024-01-10T22:58:41.6682376+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:04:49.4930721+00:00"
+  "LastUpdate_Ratings": "2024-01-10T23:58:40.7682101+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:05:04.8948944+00:00"
 }

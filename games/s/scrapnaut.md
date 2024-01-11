@@ -8,11 +8,11 @@ Number of Ratings: 38  (23.09.2022)
 | ---- | ---------- | ----- |
 | My New Home | 60.00% | ~395 |
 | Mushroom Picker | 54.00% | ~355 |
-| Scrap Gatherer | 52.00% | ~342 |
+| Scrap Gatherer | 53.00% | ~349 |
 | Scrapper | 43.00% | ~283 |
 | Cook | 42.00% | ~276 |
 | Teleport | 42.00% | ~276 |
-| Scrap Master | 34.00% | ~224 |
+| Scrap Master | 35.00% | ~230 |
 | Smelter | 33.00% | ~217 |
 | Digger | 30.00% | ~197 |
 | Electro-Scrap Gatherer | 30.00% | ~197 |
@@ -39,7 +39,7 @@ Number of Ratings: 38  (23.09.2022)
 | Invincible | 0.50% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 658 (Ranked 333)  
-Completed: 4 (0.61%) (Ranked 206)  
+Completed: 4 (0.61%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

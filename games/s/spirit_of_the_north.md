@@ -1,15 +1,15 @@
 # Spirit of the North
 [Store](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)  
 [View Rawdata](../../db/s/spirit_of_the_north.json)  
-Rating: 4.36 (Ranked 817)  
+Rating: 4.36 (Ranked 816)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 69.00% | ~54,984 |
-| INFUSED WITH LIGHT | 53.00% | ~42,234 |
-| FOXIN' AROUND | 29.00% | ~23,109 |
-| FETCH | 28.00% | ~22,312 |
+| A GUARDIAN FORGOTTEN | 69.00% | ~54,985 |
+| INFUSED WITH LIGHT | 53.00% | ~42,235 |
+| FOXIN' AROUND | 29.00% | ~23,110 |
+| FETCH | 28.00% | ~22,313 |
 | BLOOMS OF LIGHT | 26.00% | ~20,719 |
 | AWAKEN | 22.00% | ~17,531 |
 | BEST FRIENDS | 22.00% | ~17,531 |
@@ -19,19 +19,19 @@ Number of Ratings: 1,175  (23.09.2022)
 | SPIRIT FORM | 17.00% | ~13,547 |
 | UPROOTING DARKNESS | 16.00% | ~12,750 |
 | WRITTEN IN STONE | 16.00% | ~12,750 |
-| WEIGHTLESS | 12.00% | ~9,562 |
+| WEIGHTLESS | 12.00% | ~9,563 |
 | SPIRIT DASH | 11.00% | ~8,766 |
 | OLD COMPANION | 9.00% | ~7,172 |
 | PLAGUE DOCTOR | 9.00% | ~7,172 |
 | MATCH MAKER | 8.00% | ~6,375 |
 | NORTHERN LIGHTS | 8.00% | ~6,375 |
 | SPIRITED AWAY | 8.00% | ~6,375 |
-| FOX? OR FLYING SQUIRREL? | 4.00% | ~3,187 |
+| FOX? OR FLYING SQUIRREL? | 4.00% | ~3,188 |
 | ANCIENT HISTORY | 3.00% | ~2,391 |
 | NONE FORGOTTEN | 2.00% | ~1,594 |
 | KINDRED SPIRITS | 0.60% | ~478 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,687 (Ranked 111)  
+Progressed: 79,688 (Ranked 111)  
 Completed: 432 (0.54%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,6 +297,7 @@ Completed: 432 (0.54%) (Ranked 215)
 | 2024-01-08 | 79,536 | 431 |
 | 2024-01-09 | 79,626 | 431 |
 | 2024-01-10 | 79,687 | 432 |
+| 2024-01-11 | 79,688 | 432 |
 ## Awards
 Max (Extremely Fun): 27  (Ranked 541)  
 Sum: 116 (Ranked 459)  

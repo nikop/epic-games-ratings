@@ -4247,9 +4247,9 @@
       "Count": 62
     }
   ],
-  "EOS_Progressed": 431860,
+  "EOS_Progressed": 431861,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 1873,
+  "EOS_NewPlayers": 1864,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26077,6 +26077,11 @@
       "Time": "2024-01-10T23:05:12.6954858+00:00",
       "NumProgressed": 431860,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2024-01-11T00:05:28.3373327+00:00",
+      "NumProgressed": 431861,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 89,
@@ -26176,7 +26181,7 @@
       "Name": "Bridgemania",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 60460
+      "UsersEstimate": 60461
     },
     {
       "ID": "AchievementBuilder",
@@ -26216,7 +26221,7 @@
       "Name": "Dealmaker",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 315258
+      "UsersEstimate": 315259
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -26312,7 +26317,7 @@
       "Name": "Individual delivery",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 202974
+      "UsersEstimate": 202975
     },
     {
       "ID": "AchievementIndustrialAge",
@@ -26456,7 +26461,7 @@
       "Name": "Need to think",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 60460
+      "UsersEstimate": 60461
     },
     {
       "ID": "AchievementNonStop",
@@ -26799,21 +26804,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 431201,
+      "Progressed": 431202,
       "Completed": 10
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 431860,
+      "Progressed": 431861,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2024-01-10T22:59:08.2712076+00:00",
-  "LastChanged_Achievements": "2024-01-10T23:05:12.6954856+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:05:28.3373324+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:19.6795504+00:00",
-  "LastUpdate_Ratings": "2024-01-10T22:59:08.271208+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:05:12.695654+00:00"
+  "LastUpdate_Ratings": "2024-01-10T23:59:07.5609633+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:05:28.3374991+00:00"
 }

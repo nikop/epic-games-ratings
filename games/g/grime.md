@@ -25,9 +25,9 @@ Number of Ratings: 46  (23.09.2022)
 | Watcher | 0.60% | ~1,006 |
 | Assimilation | 0.50% | ~838 |
 | Host | 0.50% | ~836 |
+| Celebration | 0.50% | ~838 |
 | Predator | 0.50% | ~838 |
 | Hunt Down | 0.40% | ~670 |
-| Celebration | 0.40% | ~670 |
 | Inevitable | 0.40% | ~670 |
 | Breath | 0.30% | ~503 |
 | Artisan | 0.30% | ~503 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~167 |
 | Intensify | 0.10% | ~167 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 167,592 (Ranked 84)  
+Progressed: 167,596 (Ranked 84)  
 Completed: 454 (0.27%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,18 +296,19 @@ Completed: 454 (0.27%) (Ranked 261)
 | 2024-01-08 | 167,301 | 452 |
 | 2024-01-09 | 167,455 | 453 |
 | 2024-01-10 | 167,592 | 454 |
+| 2024-01-11 | 167,596 | 454 |
 ## Awards
 Max (Highly Recommended): 62  (Ranked 432)  
-Sum: 454 (Ranked 343)  
+Sum: 457 (Ranked 343)  
 Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 62 |
 | This game has Unique Visuals | 62 |
 | This game has Challenging Combat | 60 |
-| This game is Extremely Fun | 58 |
+| This game is Extremely Fun | 60 |
+| This game has Amazing Storytelling | 59 |
 | This game has Quickly Understood Controls | 58 |
-| This game has Amazing Storytelling | 58 |
 | This game has Amazing Characters | 55 |
 | This game has a Creative Community | 41 |
 | This game has Diverse Characters | 20 |
@@ -492,4 +493,4 @@ Diff (max vs sum): 89
 | 2024-01-06 | 4.59 | - | 62 | 444 |
 | 2024-01-08 | 4.59 | - | 62 | 450 |
 | 2024-01-09 | 4.59 | - | 62 | 452 |
-| 2024-01-10 | 4.59 | - | 62 | 454 |
+| 2024-01-10 | 4.59 | - | 62 | 457 |

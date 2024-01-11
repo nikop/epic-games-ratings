@@ -7,7 +7,7 @@ Rating: 4.58 (Ranked 470)
 | ---- | ---------- | ----- |
 | Wakey Wakey | 33.00% | ~1,369 |
 | Sputnik 2049 | 29.00% | ~1,203 |
-| Infinite Growth... | 28.00% | ~1,161 |
+| Infinite Growth... | 28.00% | ~1,162 |
 | Without Breaking Some Eggs... | 27.00% | ~1,120 |
 | Space Society | 19.00% | ~788 |
 | A Thousand Strong | 19.00% | ~788 |
@@ -26,9 +26,9 @@ Rating: 4.58 (Ranked 470)
 | Please Make it Stop! | 9.00% | ~373 |
 | Sightseeing | 8.00% | ~332 |
 | Convenient Transport | 8.00% | ~332 |
+| Access Granted | 7.00% | ~290 |
 | Necessary Enhancement | 7.00% | ~290 |
 | From the Past | 7.00% | ~290 |
-| Access Granted | 6.00% | ~249 |
 | All in Good Health | 6.00% | ~249 |
 | Drill-dozer | 6.00% | ~249 |
 | Oats | 5.00% | ~207 |
@@ -63,7 +63,7 @@ Rating: 4.58 (Ranked 470)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,148 (Ranked 211)  
+Progressed: 4,149 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,6 +319,7 @@ Completed: 0 (0.00%) (Ranked 396)
 | 2024-01-08 | 4,096 | 0 |
 | 2024-01-09 | 4,126 | 0 |
 | 2024-01-10 | 4,148 | 0 |
+| 2024-01-11 | 4,149 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

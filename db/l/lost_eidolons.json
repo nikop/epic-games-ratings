@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 3822,
+  "Ranking_EOS_NewPlayers": 3823,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1124,
+  "EOS_Progressed": 1123,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -4,
+  "EOS_NewPlayers": -5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2687,6 +2687,11 @@
       "Time": "2024-01-10T23:03:15.655176+00:00",
       "NumProgressed": 1124,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T00:03:31.433016+00:00",
+      "NumProgressed": 1123,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2730,7 +2735,7 @@
       "Name": "The First Step",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 832
+      "UsersEstimate": 831
     },
     {
       "ID": "06",
@@ -2738,7 +2743,7 @@
       "Name": "First Blood",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 787
+      "UsersEstimate": 786
     },
     {
       "ID": "07",
@@ -2746,7 +2751,7 @@
       "Name": "Monster Hunter",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 641
+      "UsersEstimate": 640
     },
     {
       "ID": "08",
@@ -2826,7 +2831,7 @@
       "Name": "Ready to Learn",
       "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 753
+      "UsersEstimate": 752
     },
     {
       "ID": "18",
@@ -2850,7 +2855,7 @@
       "Name": "Digging Deep",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 168
     },
     {
       "ID": "21",
@@ -2866,7 +2871,7 @@
       "Name": "House Vulisica\u0027s Heirloom",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 168
     },
     {
       "ID": "23",
@@ -2874,14 +2879,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 214
+      "UsersEstimate": 213
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1124,
+      "Progressed": 1123,
       "Completed": 1
     }
   ],
@@ -2889,8 +2894,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-01-10T23:03:15.6551756+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:03:31.4330158+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:22.9341362+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:02:49.7026929+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:03:15.655225+00:00"
+  "LastUpdate_Ratings": "2024-01-11T00:03:03.1504328+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:03:31.4330558+00:00"
 }

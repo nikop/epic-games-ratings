@@ -1,35 +1,35 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 301)  
+Rating: 4.66 (Ranked 300)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~27,028 |
-| A thief's beginning | 11.00% | ~24,776 |
-| Thorough | 11.00% | ~24,776 |
-| Disguised | 9.00% | ~20,271 |
-| Rescue Takuma | 9.00% | ~20,271 |
-| Rollin' | 9.00% | ~20,271 |
-| Tanuki Time | 9.00% | ~20,271 |
+| Genin | 12.00% | ~27,029 |
+| A thief's beginning | 11.00% | ~24,777 |
+| Thorough | 11.00% | ~24,777 |
+| Disguised | 9.00% | ~20,272 |
+| Rescue Takuma | 9.00% | ~20,272 |
+| Rollin' | 9.00% | ~20,272 |
+| Tanuki Time | 9.00% | ~20,272 |
 | Ice Ice Yuki | 8.00% | ~18,019 |
 | Jonin | 8.00% | ~18,019 |
 | Stoned Ox | 8.00% | ~18,019 |
 | Yabu | 8.00% | ~18,019 |
-| Happy Planning | 7.00% | ~15,766 |
-| Mugen Unchained | 7.00% | ~15,766 |
-| Chunin | 6.00% | ~13,514 |
-| Flying Rocks | 6.00% | ~13,514 |
-| Warzone | 6.00% | ~13,514 |
+| Happy Planning | 7.00% | ~15,767 |
+| Mugen Unchained | 7.00% | ~15,767 |
+| Chunin | 6.00% | ~13,515 |
+| Flying Rocks | 6.00% | ~13,515 |
+| Warzone | 6.00% | ~13,515 |
 | Happy little accidents | 5.00% | ~11,262 |
 | Okkoto | 5.00% | ~11,262 |
 | Prisoners | 5.00% | ~11,262 |
 | Too Early | 5.00% | ~11,262 |
-| Gear up | 4.00% | ~9,009 |
-| Noboru | 4.00% | ~9,009 |
-| Still Rollin' | 4.00% | ~9,009 |
-| Stoned | 4.00% | ~9,009 |
+| Gear up | 4.00% | ~9,010 |
+| Noboru | 4.00% | ~9,010 |
+| Still Rollin' | 4.00% | ~9,010 |
+| Stoned | 4.00% | ~9,010 |
 | It's raining men | 3.00% | ~6,757 |
 | The Old Way | 3.00% | ~6,757 |
 | Atheist Ox | 2.00% | ~4,505 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~225 |
 | Release the Kraken | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,235 (Ranked 79)  
+Progressed: 225,242 (Ranked 79)  
 Completed: 106 (0.05%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,6 +317,7 @@ Completed: 106 (0.05%) (Ranked 337)
 | 2024-01-08 | 224,898 | 105 |
 | 2024-01-09 | 225,058 | 105 |
 | 2024-01-10 | 225,235 | 106 |
+| 2024-01-11 | 225,242 | 106 |
 ## Awards
 Max (Great for Beginners): 593  (Ranked 211)  
 Sum: 4,955 (Ranked 150)  

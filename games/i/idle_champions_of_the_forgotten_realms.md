@@ -8,8 +8,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,130 |
 | The Cursed Farmer | 2.00% | ~5,065 |
-| Beast Intentions | 1.00% | ~2,532 |
-| The Mad Wizard | 1.00% | ~2,532 |
+| Beast Intentions | 1.00% | ~2,533 |
+| The Mad Wizard | 1.00% | ~2,533 |
 | The Ring of Regeneration | 0.90% | ~2,279 |
 | Are Ya Chicken? | 0.80% | ~2,026 |
 | Welcome to Sigil | 0.80% | ~1,756 |
@@ -47,33 +47,33 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.30% | ~760 |
 | Waterdeep Detours | 0.30% | ~760 |
 | Underdeep Cartography | 0.30% | ~760 |
-| Pros and CONs | 0.20% | ~506 |
-| The Silken Swamp | 0.20% | ~506 |
-| Supply Run | 0.20% | ~506 |
-| Homecoming | 0.20% | ~506 |
-| The Lost Heir of Omu | 0.20% | ~506 |
-| Street War | 0.20% | ~506 |
-| Wisdom Check | 0.20% | ~506 |
-| The Mists of Ravenloft | 0.20% | ~506 |
-| Invisible Shadows | 0.20% | ~506 |
-| Family Entanglements | 0.20% | ~506 |
-| The Dinner Party | 0.20% | ~506 |
-| The Botched Kidnapping | 0.20% | ~506 |
-| Trollskull Manor | 0.20% | ~506 |
-| Attack on the Manor | 0.20% | ~506 |
-| The Death Curse | 0.20% | ~506 |
-| Premature Betrayal | 0.20% | ~506 |
-| A Tale of Two Cities | 0.20% | ~506 |
-| The Dead Three | 0.20% | ~506 |
-| Flying Monkey Skulls of Doom | 0.20% | ~506 |
-| Dinosaur Racing | 0.20% | ~506 |
-| Close Escort | 0.20% | ~506 |
-| Constant Banditry | 0.20% | ~506 |
-| Lost in the Deep | 0.20% | ~506 |
-| Easily Distracted | 0.20% | ~506 |
-| Overdue Rendezvous | 0.20% | ~506 |
-| The Templar's Camp | 0.20% | ~506 |
-| Rescue in the Jungle | 0.20% | ~506 |
+| The Templar's Camp | 0.30% | ~760 |
+| Pros and CONs | 0.20% | ~507 |
+| The Silken Swamp | 0.20% | ~507 |
+| Supply Run | 0.20% | ~507 |
+| Homecoming | 0.20% | ~507 |
+| The Lost Heir of Omu | 0.20% | ~507 |
+| Street War | 0.20% | ~507 |
+| Wisdom Check | 0.20% | ~507 |
+| The Mists of Ravenloft | 0.20% | ~507 |
+| Invisible Shadows | 0.20% | ~507 |
+| Family Entanglements | 0.20% | ~507 |
+| The Dinner Party | 0.20% | ~507 |
+| The Botched Kidnapping | 0.20% | ~507 |
+| Trollskull Manor | 0.20% | ~507 |
+| Attack on the Manor | 0.20% | ~507 |
+| The Death Curse | 0.20% | ~507 |
+| Premature Betrayal | 0.20% | ~507 |
+| A Tale of Two Cities | 0.20% | ~507 |
+| The Dead Three | 0.20% | ~507 |
+| Flying Monkey Skulls of Doom | 0.20% | ~507 |
+| Dinosaur Racing | 0.20% | ~507 |
+| Close Escort | 0.20% | ~507 |
+| Constant Banditry | 0.20% | ~507 |
+| Lost in the Deep | 0.20% | ~507 |
+| Easily Distracted | 0.20% | ~507 |
+| Overdue Rendezvous | 0.20% | ~507 |
+| Rescue in the Jungle | 0.20% | ~507 |
 | The Beginning is the End | 0.20% | ~439 |
 | The Brains of an Illithid's Desire | 0.20% | ~439 |
 | Upholding the Law | 0.10% | ~253 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,250 (Ranked 71)  
+Progressed: 253,253 (Ranked 71)  
 Completed: 2,611 (1.03%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -819,6 +819,7 @@ Completed: 2,611 (1.03%) (Ranked 175)
 | 2024-01-08 | 252,794 | 2,602 |
 | 2024-01-09 | 253,044 | 2,606 |
 | 2024-01-10 | 253,250 | 2,611 |
+| 2024-01-11 | 253,253 | 2,611 |
 ## Awards
 Max (Great for Beginners): 5,770  (Ranked 74)  
 Sum: 33,432 (Ranked 41)  

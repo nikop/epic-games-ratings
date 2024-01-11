@@ -5,8 +5,8 @@ Rating: 4.40 (Ranked 768)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,755 |
-| Predator I | 23.00% | ~59,915 |
+| Survivor | 31.00% | ~80,756 |
+| Predator I | 23.00% | ~59,916 |
 | Fixer I | 10.00% | ~26,050 |
 | A week in Century City | 10.00% | ~26,050 |
 | The Wait | 7.00% | ~18,235 |
@@ -40,29 +40,29 @@ Rating: 4.40 (Ranked 768)
 | The Gamble | 0.60% | ~1,563 |
 | A major purchase | 0.60% | ~1,563 |
 | Interior designer | 0.60% | ~1,563 |
-| The Descent | 0.50% | ~1,302 |
+| The Descent | 0.50% | ~1,303 |
 | Expert Hunter | 0.40% | ~1,042 |
 | Fungi hunter | 0.40% | ~1,042 |
 | Predator III | 0.40% | ~1,042 |
-| Arms dealer | 0.30% | ~781 |
-| Fixer III | 0.30% | ~781 |
-| AML questionnaire | 0.30% | ~781 |
-| Heartbreaker | 0.30% | ~781 |
+| Arms dealer | 0.30% | ~782 |
+| Fixer III | 0.30% | ~782 |
+| AML questionnaire | 0.30% | ~782 |
+| Heartbreaker | 0.30% | ~782 |
 | Workhorse | 0.20% | ~521 |
 | Homerun | 0.20% | ~521 |
 | A season in Century City | 0.20% | ~521 |
-| Saver III | 0.10% | ~260 |
-| Collector | 0.10% | ~260 |
-| Mansion | 0.10% | ~260 |
-| Green thumb III | 0.10% | ~260 |
-| Plantation | 0.10% | ~260 |
-| Reminescence | 0.10% | ~260 |
-| Beloved | 0.10% | ~260 |
-| Capitalist II | 0.10% | ~260 |
-| Capitalist III | 0.10% | ~260 |
-| Hell Is You | 0.10% | ~260 |
+| Saver III | 0.10% | ~261 |
+| Collector | 0.10% | ~261 |
+| Mansion | 0.10% | ~261 |
+| Green thumb III | 0.10% | ~261 |
+| Plantation | 0.10% | ~261 |
+| Reminescence | 0.10% | ~261 |
+| Beloved | 0.10% | ~261 |
+| Capitalist II | 0.10% | ~261 |
+| Capitalist III | 0.10% | ~261 |
+| Hell Is You | 0.10% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,499 (Ranked 67)  
+Progressed: 260,504 (Ranked 67)  
 Completed: 3 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,6 +328,7 @@ Completed: 3 (0.00%) (Ranked 396)
 | 2024-01-08 | 260,432 | 3 |
 | 2024-01-09 | 260,472 | 3 |
 | 2024-01-10 | 260,499 | 3 |
+| 2024-01-11 | 260,504 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 54  (Ranked 446)  
 Sum: 376 (Ranked 366)  

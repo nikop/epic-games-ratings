@@ -38,10 +38,10 @@ Rating: 4.38 (Ranked 792)
 | The Family | 28.00% | ~139 |
 | Well-travelled | 27.00% | ~134 |
 | Thinking of Everything | 27.00% | ~134 |
+| Archibald Sterling | 26.00% | ~129 |
 | Viscount Edwin Van den Bosch | 26.00% | ~129 |
 | Exquisite Artwork | 25.00% | ~124 |
-| Archibald Sterling | 25.00% | ~124 |
-| Well-prepared | 21.00% | ~104 |
+| Well-prepared | 22.00% | ~109 |
 | The Truth | 21.00% | ~104 |
 | I Like an Audience | 19.00% | ~94 |
 | The Denouement | 18.00% | ~89 |

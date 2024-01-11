@@ -473,9 +473,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 343827,
+  "EOS_Progressed": 343842,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3335,
+  "EOS_NewPlayers": 3330,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12903,6 +12903,11 @@
       "Time": "2024-01-10T23:08:48.9474836+00:00",
       "NumProgressed": 343827,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-11T00:09:12.7758242+00:00",
+      "NumProgressed": 343842,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -12915,7 +12920,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17191
+      "UsersEstimate": 17192
     },
     {
       "ID": "S02_BRDA",
@@ -13051,7 +13056,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17191
+      "UsersEstimate": 17192
     },
     {
       "ID": "S19_CHALLENGES",
@@ -13131,7 +13136,7 @@
       "Name": "Not even from this world",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "S29_RECOVER",
@@ -13234,7 +13239,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 343827,
+      "Progressed": 343842,
       "Completed": 7
     }
   ],
@@ -13242,8 +13247,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-07T09:59:57.3535769+00:00",
-  "LastChanged_Achievements": "2024-01-10T23:08:48.9474834+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:09:12.7758241+00:00",
   "LastUpdate_AppInfo": "2024-01-04T23:57:04.1079824+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:00:33.4293505+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:08:48.9475494+00:00"
+  "LastUpdate_Ratings": "2024-01-11T00:02:49.107186+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:09:12.7758987+00:00"
 }

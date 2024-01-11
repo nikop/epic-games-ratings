@@ -4,7 +4,7 @@
   "ProductSlug": "bursthero-dd5a56",
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 396,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
@@ -295,9 +295,9 @@
       "ID": "CHALLENGER_CHAOS",
       "SetID": "1fek4an",
       "Name": "Chaos Challenger",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "COMBO_BULLETSIZE",
@@ -838,8 +838,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-10T23:05:39.5345277+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:05:54.4545223+00:00",
   "LastUpdate_AppInfo": "2024-01-10T13:02:38.4502332+00:00",
-  "LastUpdate_Ratings": "2024-01-10T22:59:29.8659675+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:05:39.5345963+00:00"
+  "LastUpdate_Ratings": "2024-01-10T23:59:27.695509+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:05:54.4545746+00:00"
 }

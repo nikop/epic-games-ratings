@@ -2321,10 +2321,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 1034,
       "NumberOfAwardsMax": 647
+    },
+    {
+      "Time": "2024-01-11T00:02:53.6737021+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1035,
+      "NumberOfAwardsMax": 647
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1034,
+  "NumberOfAwards": 1035,
   "NumberOfAwardsMax": 647,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2350,7 +2356,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2389,9 +2395,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 19333,
+  "EOS_Progressed": 19337,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 1126,
+  "EOS_NewPlayers": 1127,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -19909,6 +19915,11 @@
       "Time": "2024-01-10T23:09:52.6406298+00:00",
       "NumProgressed": 19333,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-11T00:10:16.1580128+00:00",
+      "NumProgressed": 19337,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 35,
@@ -19920,7 +19931,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15660
+      "UsersEstimate": 15663
     },
     {
       "ID": "ACH02",
@@ -19928,7 +19939,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "ACH03",
@@ -19936,7 +19947,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "ACH04",
@@ -19968,7 +19979,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3673
+      "UsersEstimate": 3674
     },
     {
       "ID": "ACH08",
@@ -19976,7 +19987,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9666
+      "UsersEstimate": 9668
     },
     {
       "ID": "ACH09",
@@ -20016,7 +20027,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3480
+      "UsersEstimate": 3481
     },
     {
       "ID": "ACH14",
@@ -20024,7 +20035,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "ACH15",
@@ -20038,9 +20049,9 @@
       "ID": "ACH16",
       "SetID": "4ck5mbe",
       "Name": "Smooth Moves",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3287
+      "UsersEstimate": 3094
     },
     {
       "ID": "ACH17",
@@ -20096,7 +20107,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4833
+      "UsersEstimate": 4834
     },
     {
       "ID": "ACH24",
@@ -20199,16 +20210,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19333,
+      "Progressed": 19337,
       "Completed": 75
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-10T20:03:10.3622197+00:00",
-  "LastChanged_Achievements": "2024-01-10T23:09:52.6406295+00:00",
+  "LastChanged": "2024-01-11T00:02:53.6737016+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:10:16.1580126+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:00:38.7694907+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:09:52.6407373+00:00"
+  "LastUpdate_Ratings": "2024-01-11T00:02:53.6737023+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:10:16.158128+00:00"
 }

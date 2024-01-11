@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2858,
+  "EOS_Progressed": 2859,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7724,6 +7724,11 @@
       "Time": "2024-01-10T23:10:01.9153496+00:00",
       "NumProgressed": 2858,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-11T00:10:25.5947033+00:00",
+      "NumProgressed": 2859,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7768,7 +7773,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "achievement_14",
@@ -7960,7 +7965,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2458
+      "UsersEstimate": 2459
     },
     {
       "ID": "achievement_36",
@@ -8008,7 +8013,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "achievement_41",
@@ -8174,9 +8179,9 @@
       "ID": "achievement_6",
       "SetID": "271ol84",
       "Name": "Great shot, kid!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 429
     },
     {
       "ID": "achievement_60",
@@ -8216,7 +8221,7 @@
       "Name": "A cunning warrior",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "achievement_8",
@@ -8239,13 +8244,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2858,
+      "Progressed": 2859,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2858,
+      "Progressed": 2859,
       "Completed": 1
     }
   ],
@@ -8253,8 +8258,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-10T23:10:01.9153494+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:10:25.594703+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-10T22:59:28.9428574+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:10:01.9154289+00:00"
+  "LastUpdate_Ratings": "2024-01-10T23:59:26.8526352+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:10:25.5948117+00:00"
 }

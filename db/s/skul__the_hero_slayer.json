@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1487,9 +1487,9 @@
       "Count": 152
     }
   ],
-  "EOS_Progressed": 14523,
+  "EOS_Progressed": 14524,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 816,
+  "EOS_NewPlayers": 814,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -9562,6 +9562,11 @@
       "Time": "2024-01-10T23:09:08.2091611+00:00",
       "NumProgressed": 14523,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-11T00:09:31.4992053+00:00",
+      "NumProgressed": 14524,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 24,
@@ -9733,7 +9738,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 13506
+      "UsersEstimate": 13507
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -9757,22 +9762,22 @@
       "Name": "What should I buy?",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 11618
+      "UsersEstimate": 11619
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14523,
+      "Progressed": 14524,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-10T14:01:47.5850312+00:00",
-  "LastChanged_Achievements": "2024-01-10T23:09:08.2091609+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:09:31.4992051+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:25.8159814+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:00:16.9673463+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:09:08.2092025+00:00"
+  "LastUpdate_Ratings": "2024-01-11T00:02:33.8360453+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:09:31.4992628+00:00"
 }

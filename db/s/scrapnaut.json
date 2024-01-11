@@ -6,8 +6,8 @@
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 333,
-  "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_Completed": 205,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -158,7 +158,7 @@
   "Tags": [],
   "EOS_Progressed": 658,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2332,9 +2332,9 @@
       "ID": "ACH_COLLECT_100_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Master",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 224
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -2388,9 +2388,9 @@
       "ID": "ACH_COLLECT_50_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Gatherer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 342
+      "UsersEstimate": 349
     },
     {
       "ID": "ACH_COOK",
@@ -2557,8 +2557,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-10T23:09:18.1345264+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:09:41.376999+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2095998+00:00",
-  "LastUpdate_Ratings": "2024-01-10T22:57:43.4551455+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:09:18.1345629+00:00"
+  "LastUpdate_Ratings": "2024-01-10T23:57:44.1158075+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:09:41.3770394+00:00"
 }

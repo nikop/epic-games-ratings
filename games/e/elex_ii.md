@@ -11,7 +11,7 @@ Number of Ratings: 124  (23.09.2022)
 | Civilian | 33.00% | ~77 |
 | Role Model | 29.00% | ~68 |
 | Creator | 27.00% | ~63 |
-| Festival-goer | 25.00% | ~58 |
+| Festival-goer | 26.00% | ~61 |
 | Peddler | 24.00% | ~56 |
 | Military Leader | 24.00% | ~56 |
 | Commander | 19.00% | ~44 |

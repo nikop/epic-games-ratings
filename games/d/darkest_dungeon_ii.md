@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~944 |
-| Lost and Found | 8.00% | ~581 |
+| Malpractice Assurance | 13.00% | ~945 |
+| Lost and Found | 8.00% | ~582 |
 | Autodidact | 7.00% | ~9,268 |
-| This guy... again? | 7.00% | ~508 |
+| This guy... again? | 7.00% | ~509 |
 | Serenity Now! | 6.00% | ~7,944 |
 | This Belongs in a Museum | 6.00% | ~7,944 |
 | Creep and Sleep | 6.00% | ~7,944 |
@@ -26,7 +26,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 5.00% | ~6,620 |
 | A Place to Lay Your Head | 5.00% | ~6,620 |
 | FNG | 5.00% | ~6,620 |
-| Bloody Graduation | 5.00% | ~363 |
+| Bloody Graduation | 5.00% | ~364 |
 | Spelunker | 4.00% | ~5,296 |
 | Merry Time | 4.00% | ~5,296 |
 | Harvest Festival | 4.00% | ~5,296 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,395 (Ranked 91)  
+Progressed: 132,401 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,6 +342,7 @@ Completed: 4 (0.00%) (Ranked 396)
 | 2024-01-08 | 132,215 | 3 |
 | 2024-01-09 | 132,315 | 3 |
 | 2024-01-10 | 132,395 | 4 |
+| 2024-01-11 | 132,401 | 4 |
 ## Awards
 Max (Character Customization): 8,000  (Ranked 50)  
 Sum: 21,576 (Ranked 58)  

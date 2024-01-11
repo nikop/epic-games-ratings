@@ -22,7 +22,7 @@
 | The Circle | 30.00% | ~41 |
 | Bad JuJu | 23.00% | ~32 |
 | Friend of Sevenkeeps | 22.00% | ~30 |
-| Slave to the rhythm | 19.00% | ~26 |
+| Slave to the rhythm | 20.00% | ~28 |
 | Castle Meldec | 19.00% | ~26 |
 | Sevenkeeps Seat of Kings | 19.00% | ~26 |
 | Friend of Alluvyan | 15.00% | ~21 |
@@ -30,10 +30,10 @@
 | Friend of Gillyshire | 14.00% | ~19 |
 | Stormwatch Faste | 13.00% | ~18 |
 | Friend of Orgash | 13.00% | ~18 |
+| Philo's Tale | 12.00% | ~17 |
 | Friend of Silver Drift Hollow | 12.00% | ~17 |
 | Friend of Bastion | 12.00% | ~17 |
 | Break Free | 12.00% | ~17 |
-| Philo's Tale | 11.00% | ~15 |
 | A Master of Magic | 11.00% | ~15 |
 | Magic Academy | 11.00% | ~15 |
 | Silver Drift Hollow Mine | 10.00% | ~14 |
@@ -45,13 +45,13 @@
 | Yngrid's Tale | 8.00% | ~11 |
 | Tuscari Sea Portal | 8.00% | ~11 |
 | Friend of Uram Gor | 8.00% | ~11 |
+| A Joke | 8.00% | ~11 |
 | Defeat Raith | 7.00% | ~10 |
 | Crypt of the Revenant | 7.00% | ~10 |
 | Fireforge | 7.00% | ~10 |
 | Master Artificer | 7.00% | ~10 |
 | A Monopoly of Might | 7.00% | ~10 |
 | Heroes | 7.00% | ~10 |
-| A Joke | 7.00% | ~10 |
 | Get to the Airship! | 6.00% | ~8 |
 | Defeat Hokan | 6.00% | ~8 |
 | Defeat Ianna | 6.00% | ~8 |

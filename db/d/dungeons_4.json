@@ -2642,9 +2642,9 @@
       "ID": "ach_main09journey_nospells",
       "SetID": "4hg22ll",
       "Name": "Forbidden Knowledge",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 226
     },
     {
       "ID": "ach_main10fire_completed",
@@ -2923,8 +2923,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-08T17:59:07.5685099+00:00",
-  "LastChanged_Achievements": "2024-01-10T23:09:10.2718474+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:09:33.5824921+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-10T22:59:23.2277677+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:09:10.271911+00:00"
+  "LastUpdate_Ratings": "2024-01-10T23:59:21.1534075+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:09:33.5825489+00:00"
 }

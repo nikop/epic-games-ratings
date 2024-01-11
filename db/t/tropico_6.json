@@ -2,7 +2,7 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 321,
+  "Ranking_Rating": 322,
   "Ranking_Popularity": 371,
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 197,
@@ -1559,7 +1559,7 @@
   ],
   "EOS_Progressed": 7069,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16834,8 +16834,8 @@
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-10T23:00:26.7087107+00:00",
-  "LastChanged_Achievements": "2024-01-10T23:06:15.9184637+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:08:30.2415482+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.4830018+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:00:26.7087112+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:06:15.9185627+00:00"
+  "LastUpdate_Ratings": "2024-01-11T00:02:42.8941589+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:08:30.2416479+00:00"
 }

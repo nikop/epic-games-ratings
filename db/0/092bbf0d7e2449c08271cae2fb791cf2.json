@@ -2,9 +2,9 @@
   "ID": "092bbf0d7e2449c08271cae2fb791cf2",
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
-  "Ranking_EOS_Progress": 343,
+  "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 573,
+  "EOS_Progressed": 575,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 4,
@@ -1874,6 +1874,11 @@
       "Time": "2024-01-10T20:03:46.1436001+00:00",
       "NumProgressed": 573,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-11T00:03:34.6452799+00:00",
+      "NumProgressed": 575,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1886,7 +1891,7 @@
       "Name": "Good Morning",
       "Percentage": 17,
       "XP": 145,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ach2",
@@ -1894,7 +1899,7 @@
       "Name": "Blabber",
       "Percentage": 50,
       "XP": 145,
-      "UsersEstimate": 286
+      "UsersEstimate": 288
     },
     {
       "ID": "ach3",
@@ -1918,7 +1923,7 @@
       "Name": "Cloudbuster",
       "Percentage": 2,
       "XP": 140,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach6",
@@ -1941,14 +1946,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 573,
+      "Progressed": 575,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-10T23:03:19.0123324+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:03:34.6452797+00:00",
   "LastUpdate_AppInfo": "2024-01-10T21:57:10.0738096+00:00",
-  "LastUpdate_Ratings": "2024-01-10T22:59:13.1394115+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:03:19.0123496+00:00"
+  "LastUpdate_Ratings": "2024-01-10T23:59:11.9943682+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:03:34.6452961+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 0.60% | ~2,978 |
+| Until death do us apart | 0.60% | ~2,979 |
 | That's a Grand Army | 0.50% | ~2,482 |
 | That is mine! | 0.50% | ~2,482 |
 | Victorious! | 0.50% | ~2,482 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 496,402 (Ranked 42)  
+Progressed: 496,418 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -636,6 +636,7 @@ Completed: 1 (0.00%) (Ranked 396)
 | 2024-01-08 | 495,265 | 1 |
 | 2024-01-09 | 495,855 | 1 |
 | 2024-01-10 | 496,402 | 1 |
+| 2024-01-11 | 496,418 | 1 |
 ## Awards
 Max (Educational): 7,790  (Ranked 52)  
 Sum: 64,245 (Ranked 24)  

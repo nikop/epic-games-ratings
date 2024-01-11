@@ -9931,10 +9931,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28811,
       "NumberOfAwardsMax": 7769
+    },
+    {
+      "Time": "2024-01-10T23:59:10.8901881+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28812,
+      "NumberOfAwardsMax": 7769
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28811,
+  "NumberOfAwards": 28812,
   "NumberOfAwardsMax": 7769,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9948,7 +9954,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5657
+      "Count": 5658
     },
     {
       "Text": "This game is Highly Recommended",
@@ -10017,9 +10023,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 816875,
+  "EOS_Progressed": 816877,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 1058,
+  "EOS_NewPlayers": 1053,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40057,6 +40063,11 @@
       "Time": "2024-01-10T23:09:59.114627+00:00",
       "NumProgressed": 816875,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-11T00:10:22.6344582+00:00",
+      "NumProgressed": 816877,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -40148,7 +40159,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 261400
+      "UsersEstimate": 261401
     },
     {
       "ID": "Bookworm",
@@ -40156,7 +40167,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 122531
+      "UsersEstimate": 122532
     },
     {
       "ID": "Buddy",
@@ -40172,7 +40183,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 49012
+      "UsersEstimate": 49013
     },
     {
       "ID": "Cavalier",
@@ -40268,7 +40279,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 187881
+      "UsersEstimate": 187882
     },
     {
       "ID": "Fighter",
@@ -40723,15 +40734,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 816875,
+      "Progressed": 816877,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2024-01-10T22:59:11.9710537+00:00",
-  "LastChanged_Achievements": "2024-01-10T23:09:59.1146268+00:00",
+  "LastChanged": "2024-01-10T23:59:10.8901879+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:10:22.6344581+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.1586279+00:00",
-  "LastUpdate_Ratings": "2024-01-10T22:59:11.9710542+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:09:59.1148118+00:00"
+  "LastUpdate_Ratings": "2024-01-10T23:59:10.8901886+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:10:22.6346452+00:00"
 }

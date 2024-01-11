@@ -29,7 +29,7 @@ Number of Ratings: 116  (23.09.2022)
 | Love Tap | 33.00% | ~179 |
 | Maximum Vigor | 31.00% | ~168 |
 | Freeze Frame | 30.00% | ~163 |
-| Eat Your Heart Out | 29.00% | ~157 |
+| Eat Your Heart Out | 30.00% | ~163 |
 | For Whom the Bell Tolls | 29.00% | ~157 |
 | Unyielding Strength | 26.00% | ~141 |
 | Can you restore the Balance? | 25.00% | ~136 |

@@ -312,9 +312,9 @@
       "ID": "BADGE_BOSS_1_KILL",
       "SetID": "ak6pfjk",
       "Name": "Your War is Over",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 154
     },
     {
       "ID": "BADGE_BOSS_2_KILL",
@@ -552,9 +552,9 @@
       "ID": "BADGE_ENEMIES_FRIGHTEN",
       "SetID": "ak6pfjk",
       "Name": "Go Home!",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "BADGE_ENEMIES_KILL",
@@ -737,8 +737,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2024-01-10T23:04:25.7205762+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:04:40.9763066+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:52.3565826+00:00",
-  "LastUpdate_Ratings": "2024-01-10T23:03:01.4005238+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:04:25.720613+00:00"
+  "LastUpdate_Ratings": "2024-01-11T00:03:14.1776403+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:04:40.9763584+00:00"
 }

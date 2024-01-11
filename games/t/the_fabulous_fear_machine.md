@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Master trainee | 54.00% | ~49 |
-| You have three wishes left | 48.00% | ~43 |
-| Jung's dream | 38.00% | ~34 |
-| The battle of Great Britain | 38.00% | ~34 |
+| You have three wishes left | 48.00% | ~44 |
+| Jung's dream | 37.00% | ~34 |
+| The battle of Great Britain | 37.00% | ~34 |
 | Pulp! Where Monsters Dwell | 31.00% | ~28 |
 | A continent with chemistry | 29.00% | ~26 |
-| The happy farmer girl | 27.00% | ~24 |
+| The happy farmer girl | 26.00% | ~24 |
 | Giant | 24.00% | ~22 |
 | A rival with no options | 24.00% | ~22 |
 | Pulp! Terror Tales in the Night | 24.00% | ~22 |
@@ -23,10 +23,10 @@
 | Pulp! Adventures into the Unknown | 19.00% | ~17 |
 | The seer | 18.00% | ~16 |
 | Welcome to Hellville | 18.00% | ~16 |
-| You've awakened the beast | 17.00% | ~15 |
-| Hate is... addictive | 17.00% | ~15 |
-| You had one wish left | 17.00% | ~15 |
-| Kirlian's best disciple | 16.00% | ~14 |
+| You've awakened the beast | 16.00% | ~15 |
+| Hate is... addictive | 16.00% | ~15 |
+| You had one wish left | 16.00% | ~15 |
+| Kirlian's best disciple | 15.00% | ~14 |
 | The bully | 14.00% | ~13 |
 | Blessed antennas | 13.00% | ~12 |
 | Blood Red Island | 12.00% | ~11 |
@@ -52,7 +52,7 @@
 | Pulp! Skeleton Hand | 1.00% | ~1 |
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90 (Ranked 503)  
+Progressed: 91 (Ranked 501)  
 Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,3 +102,4 @@ Completed: 0 (0.00%) (Ranked 396)
 | 2024-01-07 | 87 | 0 |
 | 2024-01-08 | 89 | 0 |
 | 2024-01-09 | 90 | 0 |
+| 2024-01-11 | 91 | 0 |

@@ -789,9 +789,9 @@
       "ID": "CgkInO_K3eIdEAIQCg",
       "SetID": "6bj96in",
       "Name": "ADVANCED CRAFTSMAN",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 40,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "CgkInO_K3eIdEAIQCw",
@@ -932,8 +932,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-10T23:09:49.4309477+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:10:12.9573366+00:00",
   "LastUpdate_AppInfo": "2024-01-04T04:57:12.4832166+00:00",
-  "LastUpdate_Ratings": "2024-01-10T22:57:05.7826875+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:09:49.4309762+00:00"
+  "LastUpdate_Ratings": "2024-01-10T23:57:05.9409431+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:10:12.957381+00:00"
 }

@@ -327,9 +327,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 120843,
+  "EOS_Progressed": 120859,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4779,
+  "EOS_NewPlayers": 4769,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4127,6 +4127,11 @@
       "Time": "2024-01-10T23:04:55.7551403+00:00",
       "NumProgressed": 120843,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T00:05:11.2270681+00:00",
+      "NumProgressed": 120859,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -4139,7 +4144,7 @@
       "Name": "Oh Baby, A Triple",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3625
+      "UsersEstimate": 3626
     },
     {
       "ID": "ACH_5_STAGES_OF_GRIEF",
@@ -4171,7 +4176,7 @@
       "Name": "Cautious Veteran",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "ACH_COLLECTOR",
@@ -4187,7 +4192,7 @@
       "Name": "Double Punch!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "ACH_EYE_OF_THE_TITAN",
@@ -4203,7 +4208,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 12084
+      "UsersEstimate": 12086
     },
     {
       "ID": "ACH_GROWNUP",
@@ -4211,7 +4216,7 @@
       "Name": "All Grown Up!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 22960
+      "UsersEstimate": 22963
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -4235,7 +4240,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 16918
+      "UsersEstimate": 16920
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -4251,7 +4256,7 @@
       "Name": "Martyrdom",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "ACH_MASTER_OF_DISGUISE",
@@ -4259,7 +4264,7 @@
       "Name": "Master of Disguise",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3625
+      "UsersEstimate": 3626
     },
     {
       "ID": "ACH_MAYHEM",
@@ -4291,7 +4296,7 @@
       "Name": "All For One and One For All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 9667
+      "UsersEstimate": 9669
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -4307,7 +4312,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 10876
+      "UsersEstimate": 10877
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -4347,7 +4352,7 @@
       "Name": "Symbiotic",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3625
+      "UsersEstimate": 3626
     },
     {
       "ID": "ACH_TASTE_YOUR_OWN_MEDICINE",
@@ -4363,7 +4368,7 @@
       "Name": "A New Age",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 6042
+      "UsersEstimate": 6043
     },
     {
       "ID": "ACH_TOP_OF_THE_FOOD_CHAIN",
@@ -4403,7 +4408,7 @@
       "Name": "Home Sweet Home?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7251
+      "UsersEstimate": 7252
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -4418,7 +4423,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 120843,
+      "Progressed": 120859,
       "Completed": 0
     }
   ],
@@ -4426,8 +4431,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-09T22:59:41.2764533+00:00",
-  "LastChanged_Achievements": "2024-01-10T23:04:55.7551401+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:05:11.2270678+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:10.4556568+00:00",
-  "LastUpdate_Ratings": "2024-01-10T22:59:18.1343072+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:04:55.7552011+00:00"
+  "LastUpdate_Ratings": "2024-01-10T23:59:16.477771+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:05:11.2271134+00:00"
 }

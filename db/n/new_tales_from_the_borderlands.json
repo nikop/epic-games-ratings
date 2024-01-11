@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 396,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3814,
+  "EOS_Progressed": 3815,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2322,6 +2322,11 @@
       "Time": "2024-01-10T18:05:10.3354574+00:00",
       "NumProgressed": 3814,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-11T00:05:10.8083311+00:00",
+      "NumProgressed": 3815,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2365,7 +2370,7 @@
       "Name": "Totally Intentional",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1754
+      "UsersEstimate": 1755
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -2373,7 +2378,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -2453,7 +2458,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1945
+      "UsersEstimate": 1946
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -2477,7 +2482,7 @@
       "Name": "Super Trusting Friend!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "SUMMON_SEXY_INTERNS",
@@ -2540,7 +2545,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3814,
+      "Progressed": 3815,
       "Completed": 0
     }
   ],
@@ -2548,8 +2553,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2024-01-10T23:04:55.334379+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:05:10.8083308+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:34.4966642+00:00",
-  "LastUpdate_Ratings": "2024-01-10T22:58:18.7756801+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:04:55.334408+00:00"
+  "LastUpdate_Ratings": "2024-01-10T23:58:18.97285+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:05:10.808357+00:00"
 }

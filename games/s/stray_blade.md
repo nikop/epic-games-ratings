@@ -7,8 +7,8 @@
 | Self-Defence | 20.00% | ~31 |
 | Tinkerer | 15.00% | ~24 |
 | Welcome to the Club | 10.00% | ~16 |
+| A new World ahead | 9.00% | ~14 |
 | Don't Cry Wolf | 8.00% | ~13 |
-| A new World ahead | 8.00% | ~13 |
 | Apprentice | 5.00% | ~8 |
 | Craftsmen | 4.00% | ~6 |
 | Locked and Loaded | 4.00% | ~6 |

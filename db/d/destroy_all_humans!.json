@@ -2,7 +2,7 @@
   "ID": "c12a5687fb024192999b2d22c555d4c6",
   "Name": "Destroy All Humans!",
   "ProductSlug": "destroy-all-humans",
-  "Ranking_Rating": 360,
+  "Ranking_Rating": 359,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 363,
@@ -1958,9 +1958,9 @@
       "ID": "ACH_COLLECT_PROBE",
       "SetID": "cefn62b",
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -2094,9 +2094,9 @@
       "ID": "ACH_UPGRADE_SAUCER",
       "SetID": "cefn62b",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_UPGRADE_TOPTIER",
@@ -2118,8 +2118,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-10T23:04:07.2249307+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:04:22.6689002+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:15.0942873+00:00",
-  "LastUpdate_Ratings": "2024-01-10T22:57:12.8631807+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:04:07.2249667+00:00"
+  "LastUpdate_Ratings": "2024-01-10T23:57:12.6694108+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:04:22.6689247+00:00"
 }

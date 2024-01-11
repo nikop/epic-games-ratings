@@ -6,9 +6,9 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 84.00% | ~335 |
-| Mash Machine | 75.00% | ~299 |
-| Ducks in a Row, Fish in a Barrel | 55.00% | ~219 |
+| Rock of the Bay | 84.00% | ~336 |
+| Mash Machine | 75.00% | ~300 |
+| Ducks in a Row, Fish in a Barrel | 55.00% | ~220 |
 | Furon Fashion | 47.00% | ~188 |
 | Shop Til They Drop | 40.00% | ~160 |
 | Bodied Sattva | 37.00% | ~148 |
@@ -26,7 +26,7 @@ Number of Ratings: 90  (23.09.2022)
 | Fly Me to the Moon Base | 12.00% | ~48 |
 | Kaijuiced | 11.00% | ~44 |
 | Dusted | 11.00% | ~44 |
-| Scuttled | 9.00% | ~36 |
+| Scuttled | 10.00% | ~40 |
 | Lobster Blisque | 7.00% | ~28 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~28 |
 | Yettisoned | 6.00% | ~24 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.50% | ~2 |
 | Trans-Siberian Express | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 399 (Ranked 371)  
+Progressed: 400 (Ranked 371)  
 Completed: 2 (0.50%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,6 +97,7 @@ Completed: 2 (0.50%) (Ranked 222)
 | 2024-01-08 | 370 | 2 |
 | 2024-01-09 | 384 | 2 |
 | 2024-01-10 | 399 | 2 |
+| 2024-01-11 | 400 | 2 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 499)  
 Sum: 36 (Ranked 532)  

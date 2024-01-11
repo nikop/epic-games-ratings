@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 321)  
+Rating: 4.65 (Ranked 322)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -47,20 +47,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 1.00% | ~164 |
 | Naming Landmarks | 1.00% | ~164 |
 | Trade Caravan | 1.00% | ~164 |
-| Regicide | 0.90% | ~147 |
-| Great | 0.90% | ~147 |
-| Wise | 0.90% | ~147 |
-| Able Difficulty | 0.90% | ~147 |
-| Furious Family | 0.90% | ~147 |
-| Necropolis | 0.90% | ~147 |
-| Learn to Play 2 | 0.90% | ~147 |
-| Manichaeism | 0.90% | ~147 |
+| Regicide | 0.90% | ~148 |
+| Great | 0.90% | ~148 |
+| Wise | 0.90% | ~148 |
+| Able Difficulty | 0.90% | ~148 |
+| Furious Family | 0.90% | ~148 |
+| Necropolis | 0.90% | ~148 |
+| Learn to Play 2 | 0.90% | ~148 |
+| Manichaeism | 0.90% | ~148 |
+| Egyptian Paganism | 0.90% | ~148 |
 | Drillmaster | 0.80% | ~131 |
 | Legendary Cities | 0.80% | ~131 |
 | Acropolis | 0.80% | ~131 |
 | Mausoleum | 0.80% | ~131 |
 | Musaeum | 0.80% | ~131 |
-| Egyptian Paganism | 0.80% | ~131 |
 | Hanging Gardens in Babylon | 0.70% | ~115 |
 | Valiant | 0.70% | ~115 |
 | Just Difficulty | 0.70% | ~115 |
@@ -73,18 +73,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 0.60% | ~98 |
 | Champions | 0.60% | ~98 |
 | Sages | 0.60% | ~98 |
+| Statesmen | 0.60% | ~98 |
 | Learn to Play 3 | 0.60% | ~98 |
+| Persian Paganism | 0.60% | ~98 |
 | Mighty | 0.50% | ~82 |
 | Landowners | 0.50% | ~82 |
 | Patrons | 0.50% | ~82 |
-| Statesmen | 0.50% | ~82 |
+| Riders | 0.50% | ~82 |
+| Traders | 0.50% | ~82 |
 | Temple of Solomon | 0.50% | ~82 |
 | Pantheon | 0.50% | ~82 |
 | Greece | 0.50% | ~82 |
 | Power to the People | 0.50% | ~82 |
-| Persian Paganism | 0.50% | ~82 |
 | Economic Reform | 0.50% | ~82 |
 | Military Prestige | 0.50% | ~82 |
+| Double Victory | 0.50% | ~82 |
 | Points Victory | 0.50% | ~82 |
 | Win a Single Player Game | 0.50% | ~82 |
 | Bad Heir Day | 0.40% | ~66 |
@@ -93,8 +96,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.40% | ~66 |
 | Subjugator | 0.40% | ~66 |
 | Victorious | 0.40% | ~66 |
-| Riders | 0.40% | ~66 |
-| Traders | 0.40% | ~66 |
+| Strong Difficulty | 0.40% | ~66 |
 | Hittite Iron | 0.40% | ~66 |
 | Circus Maximus | 0.40% | ~66 |
 | Hagia Sophia | 0.40% | ~66 |
@@ -107,14 +109,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.40% | ~66 |
 | Cimmerian Archer | 0.40% | ~66 |
 | Legionary | 0.40% | ~66 |
-| Double Victory | 0.40% | ~66 |
+| Ambition Victory | 0.40% | ~66 |
 | The Clergy | 0.40% | ~66 |
 | Kushite Paganism | 0.40% | ~66 |
 | Devout | 0.30% | ~49 |
 | Invincible | 0.30% | ~49 |
 | Lion | 0.30% | ~49 |
 | Peacemaker | 0.30% | ~49 |
-| Strong Difficulty | 0.30% | ~49 |
 | Clerics | 0.30% | ~49 |
 | Hunters | 0.30% | ~49 |
 | Church of the Holy Sepulchre | 0.30% | ~49 |
@@ -124,6 +125,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.30% | ~49 |
 | Egypt | 0.30% | ~49 |
 | Rome | 0.30% | ~49 |
+| One True Faith | 0.30% | ~49 |
 | Hittite Paganism | 0.30% | ~49 |
 | Gnosticism | 0.30% | ~49 |
 | Revelation | 0.30% | ~49 |
@@ -132,7 +134,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.30% | ~49 |
 | Turreted Elephant | 0.30% | ~49 |
 | All Nations | 0.30% | ~49 |
-| Ambition Victory | 0.30% | ~49 |
 | Deposed Tribe | 0.30% | ~49 |
 | Kushite Pyramids | 0.30% | ~49 |
 | Ishtar Gate in Babylon | 0.20% | ~33 |
@@ -144,7 +145,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.20% | ~33 |
 | Learn to Play 5 | 0.20% | ~33 |
 | Old World Order | 0.20% | ~33 |
-| One True Faith | 0.20% | ~33 |
 | Pantheon of Gods | 0.20% | ~33 |
 | Ten Crowns | 0.20% | ~33 |
 | Cataphract Archer | 0.20% | ~33 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,386 (Ranked 169)  
+Progressed: 16,392 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -631,6 +631,7 @@ Completed: 5 (0.03%) (Ranked 354)
 | 2024-01-08 | 16,258 | 5 |
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
+| 2024-01-11 | 16,392 | 5 |
 ## Awards
 Max (Relaxing): 229  (Ranked 287)  
 Sum: 1,919 (Ranked 224)  

@@ -2,13 +2,13 @@
   "ID": "ae373893881044d2bf26d6f8363a120e",
   "Name": "Supraland",
   "ProductSlug": "supraland",
-  "Ranking_Rating": 401,
+  "Ranking_Rating": 400,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 94,
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-07-02T15:00:00+00:00",
     "PcReleaseDate": "2018-03-09T19:16:06+00:00",
@@ -3428,9 +3428,9 @@
     }
   ],
   "EOS_Progressed": 739782,
-  "EOS_Completed": 780,
-  "EOS_NewPlayers": 995,
-  "EOS_NewCompleters": 1,
+  "EOS_Completed": 781,
+  "EOS_NewPlayers": 988,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
@@ -33437,6 +33437,11 @@
       "Time": "2024-01-10T23:10:02.5185084+00:00",
       "NumProgressed": 739782,
       "NumCompleted": 780
+    },
+    {
+      "Time": "2024-01-11T00:10:26.1640411+00:00",
+      "NumProgressed": 739782,
+      "NumCompleted": 781
     }
   ],
   "TotalAchievements": 98,
@@ -34232,14 +34237,14 @@
       "ID": "3m49pn8",
       "IsBase": true,
       "Progressed": 739782,
-      "Completed": 780
+      "Completed": 781
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2024-01-10T19:00:06.7844939+00:00",
-  "LastChanged_Achievements": "2024-01-10T23:10:02.5185082+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:10:26.1640409+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:15.8548171+00:00",
-  "LastUpdate_Ratings": "2024-01-10T22:59:58.4927951+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:10:02.5187275+00:00"
+  "LastUpdate_Ratings": "2024-01-10T23:59:56.1803471+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:10:26.1642475+00:00"
 }

@@ -1,15 +1,15 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.62 (Ranked 380)  
+Rating: 4.62 (Ranked 379)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 17.00% | ~1,220 |
+| Secret Technique | 17.00% | ~1,221 |
 | Realm Estate | 15.00% | ~1,077 |
 | A Wonderful Discovery | 14.00% | ~1,005 |
 | Walls Cannot Stop Us | 14.00% | ~1,005 |
-| From Friends to Family | 12.00% | ~861 |
+| From Friends to Family | 12.00% | ~862 |
 | Bone Peddler | 10.00% | ~718 |
 | Magical Synergy | 9.00% | ~646 |
 | There Can Only Be One! | 8.00% | ~574 |
@@ -56,7 +56,7 @@ Rating: 4.62 (Ranked 380)
 | Betrayal Most Foul | 0.90% | ~65 |
 | Duality | 0.90% | ~65 |
 | Snap Out of It! | 0.60% | ~43 |
-| The Magic That Empowers Me! | 0.50% | ~36 |
+| The Magic That Empowers Me! | 0.60% | ~43 |
 | Jack of All Tomes | 0.40% | ~29 |
 | A Very Special Ring | 0.40% | ~29 |
 | Returning Circle | 0.20% | ~14 |
@@ -66,7 +66,7 @@ Rating: 4.62 (Ranked 380)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,178 (Ranked 196)  
+Progressed: 7,180 (Ranked 196)  
 Completed: 7 (0.10%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,6 +300,7 @@ Completed: 7 (0.10%) (Ranked 310)
 | 2024-01-08 | 7,091 | 7 |
 | 2024-01-09 | 7,130 | 7 |
 | 2024-01-10 | 7,178 | 7 |
+| 2024-01-11 | 7,180 | 7 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 481)  
 Sum: 217 (Ranked 410)  

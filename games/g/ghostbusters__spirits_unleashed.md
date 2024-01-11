@@ -7,7 +7,7 @@ Rating: 4.50 (Ranked 613)
 | ---- | ---------- | ----- |
 | Stylish | 11.00% | ~3,687 |
 | Meticulously Efficient | 9.00% | ~3,017 |
-| Advancement | 8.00% | ~2,681 |
+| Advancement | 8.00% | ~2,682 |
 | Discovery | 6.00% | ~2,011 |
 | Solo Capture | 6.00% | ~2,011 |
 | Swift Rift Removers | 6.00% | ~2,011 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 613)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,517 (Ranked 137)  
+Progressed: 33,519 (Ranked 137)  
 Completed: 71 (0.21%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,6 +323,7 @@ Completed: 71 (0.21%) (Ranked 274)
 | 2024-01-08 | 33,470 | 71 |
 | 2024-01-09 | 33,497 | 71 |
 | 2024-01-10 | 33,517 | 71 |
+| 2024-01-11 | 33,519 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 256)  
 Sum: 2,958 (Ranked 186)  

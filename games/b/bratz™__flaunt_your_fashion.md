@@ -13,8 +13,8 @@
 | Welcome to Seoul | 38.00% | ~61 |
 | Stilesville Hidden Style | 34.00% | ~55 |
 | Creating New Trends | 27.00% | ~43 |
-| Best Gala Ever | 26.00% | ~42 |
-| Welcome to the The Stylin' Soiree | 26.00% | ~42 |
+| Best Gala Ever | 27.00% | ~43 |
+| Welcome to the The Stylin' Soiree | 27.00% | ~43 |
 | Scooter Race | 26.00% | ~42 |
 | Barcelona Hidden Style | 19.00% | ~31 |
 | Seoul Hidden Style | 16.00% | ~26 |
@@ -24,7 +24,7 @@
 | Talented Photographer | 0.60% | ~1 |
 | Exclusive Photoshoot | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 161 (Ranked 451)  
+Progressed: 161 (Ranked 452)  
 Completed: 0 (0.00%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |

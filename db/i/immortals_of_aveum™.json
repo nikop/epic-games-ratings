@@ -433,9 +433,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3285,
+  "EOS_Progressed": 3288,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 663,
+  "EOS_NewPlayers": 665,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5143,6 +5143,11 @@
       "Time": "2024-01-10T23:09:50.6432987+00:00",
       "NumProgressed": 3285,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-11T00:10:14.1703522+00:00",
+      "NumProgressed": 3288,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5155,7 +5160,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2891
+      "UsersEstimate": 2893
     },
     {
       "ID": "achievement_10",
@@ -5163,7 +5168,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "achievement_11",
@@ -5171,7 +5176,7 @@
       "Name": "The Means to Save It",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "achievement_12",
@@ -5193,9 +5198,9 @@
       "ID": "achievement_14",
       "SetID": "18al4io",
       "Name": "Geas Aristeya",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 493
     },
     {
       "ID": "achievement_15",
@@ -5219,7 +5224,7 @@
       "Name": "Lights Army",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "achievement_18",
@@ -5235,7 +5240,7 @@
       "Name": "Socialite",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "achievement_2",
@@ -5243,7 +5248,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2661
+      "UsersEstimate": 2663
     },
     {
       "ID": "achievement_20",
@@ -5291,7 +5296,7 @@
       "Name": "Scholar",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_3",
@@ -5299,7 +5304,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 2267
+      "UsersEstimate": 2269
     },
     {
       "ID": "achievement_36",
@@ -5307,7 +5312,7 @@
       "Name": "Armsman",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "achievement_37",
@@ -5331,7 +5336,7 @@
       "Name": "No More Names",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1710
     },
     {
       "ID": "achievement_41",
@@ -5339,7 +5344,7 @@
       "Name": "Armaments Azure",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_42",
@@ -5347,7 +5352,7 @@
       "Name": "Armaments Gules",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_43",
@@ -5387,7 +5392,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2431
+      "UsersEstimate": 2433
     },
     {
       "ID": "achievement_49",
@@ -5395,7 +5400,7 @@
       "Name": "Soldier",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "achievement_5",
@@ -5403,7 +5408,7 @@
       "Name": "Initiate",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "achievement_50",
@@ -5451,7 +5456,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "achievement_60",
@@ -5497,9 +5502,9 @@
       "ID": "achievement_67",
       "SetID": "18al4io",
       "Name": "Good Boy",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 263
     },
     {
       "ID": "achievement_7",
@@ -5507,7 +5512,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "achievement_8",
@@ -5530,7 +5535,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3285,
+      "Progressed": 3288,
       "Completed": 4
     }
   ],
@@ -5538,8 +5543,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-07T18:57:10.211335+00:00",
-  "LastChanged_Achievements": "2024-01-10T23:09:50.6432985+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:10:14.170352+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8440656+00:00",
-  "LastUpdate_Ratings": "2024-01-10T22:58:35.8426496+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:09:50.6433532+00:00"
+  "LastUpdate_Ratings": "2024-01-10T23:58:34.9169199+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:10:14.1704044+00:00"
 }

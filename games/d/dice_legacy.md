@@ -12,13 +12,13 @@ Rating: 4.29 (Ranked 883)
 | Burn and Pillage | 7.00% | ~93 |
 | Hear me out | 7.00% | ~93 |
 | Listening to the crowd | 6.00% | ~80 |
+| Ascended | 5.00% | ~67 |
 | The Penitent Ones | 5.00% | ~67 |
 | Greedy | 5.00% | ~67 |
 | Hidden Secrets | 5.00% | ~67 |
 | The Stranded King | 5.00% | ~67 |
 | Accepting the Prophecy | 5.00% | ~67 |
 | Just Chilling | 4.00% | ~53 |
-| Ascended | 4.00% | ~53 |
 | Incredible Strength | 4.00% | ~53 |
 | Prophecy Fulfilled | 4.00% | ~53 |
 | The Greedy Ones | 3.00% | ~40 |

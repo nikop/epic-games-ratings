@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5379,
+  "EOS_Progressed": 5382,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -5120,6 +5120,11 @@
       "Time": "2024-01-10T23:04:17.8896567+00:00",
       "NumProgressed": 5379,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-11T00:04:33.2763491+00:00",
+      "NumProgressed": 5382,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5131,7 +5136,7 @@
       "Name": "P.A.X",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1938
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -5155,7 +5160,7 @@
       "Name": "The Black Cerberus",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "ID_ACHIEV_05",
@@ -5179,7 +5184,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4518
+      "UsersEstimate": 4521
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5187,7 +5192,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5059
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5195,7 +5200,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4088
+      "UsersEstimate": 4090
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -5203,7 +5208,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1938
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -5227,7 +5232,7 @@
       "Name": "Watchman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "ID_ACHIEV_14",
@@ -5267,7 +5272,7 @@
       "Name": "Pusher Man",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ID_ACHIEV_19",
@@ -5275,7 +5280,7 @@
       "Name": "Melting Down",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ID_ACHIEV_20",
@@ -5315,7 +5320,7 @@
       "Name": "Core Power",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "ID_ACHIEV_25",
@@ -5347,7 +5352,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4088
+      "UsersEstimate": 4090
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5379,7 +5384,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2905
+      "UsersEstimate": 2906
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -5403,7 +5408,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -5411,7 +5416,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1776
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -5419,7 +5424,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -5451,7 +5456,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -5475,7 +5480,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1883
+      "UsersEstimate": 1884
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -5507,7 +5512,7 @@
       "Name": "Squad Chief Helvig",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ID_ACHIEV_50",
@@ -5547,7 +5552,7 @@
       "Name": "No More Marching",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ID_ACHIEV_55",
@@ -5579,7 +5584,7 @@
       "Name": "Is This Real Life?",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ID_ACHIEV_59",
@@ -5666,15 +5671,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5379,
+      "Progressed": 5382,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-10T23:04:17.8896563+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:04:33.2763487+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.5688271+00:00",
-  "LastUpdate_Ratings": "2024-01-10T22:58:43.931917+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:04:17.8897545+00:00"
+  "LastUpdate_Ratings": "2024-01-10T23:58:42.6309072+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:04:33.2764362+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1799,10 +1799,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 454,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-01-10T23:59:24.4676147+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 457,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 454,
+  "NumberOfAwards": 457,
   "NumberOfAwardsMax": 62,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1834,7 +1840,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 58
+      "Count": 60
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1852,7 +1858,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 58
+      "Count": 59
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1861,9 +1867,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167592,
+  "EOS_Progressed": 167596,
   "EOS_Completed": 454,
-  "EOS_NewPlayers": 1263,
+  "EOS_NewPlayers": 1256,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22611,6 +22617,11 @@
       "Time": "2024-01-10T23:04:27.9867963+00:00",
       "NumProgressed": 167592,
       "NumCompleted": 454
+    },
+    {
+      "Time": "2024-01-11T00:04:43.1594705+00:00",
+      "NumProgressed": 167596,
+      "NumCompleted": 454
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22781,9 +22792,9 @@
       "ID": "DEFEAT_PERFORMER",
       "SetID": "ccc0dlh",
       "Name": "Celebration",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 670
+      "UsersEstimate": 838
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -22990,21 +23001,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167175,
+      "Progressed": 167179,
       "Completed": 1259
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167592,
+      "Progressed": 167596,
       "Completed": 454
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-01-10T10:00:21.3574697+00:00",
-  "LastChanged_Achievements": "2024-01-10T23:04:27.986796+00:00",
+  "LastChanged": "2024-01-10T23:59:24.4676142+00:00",
+  "LastChanged_Achievements": "2024-01-11T00:04:43.1594702+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-10T22:59:26.6993598+00:00",
-  "LastUpdate_Achievements": "2024-01-10T23:04:27.9869112+00:00"
+  "LastUpdate_Ratings": "2024-01-10T23:59:24.4676149+00:00",
+  "LastUpdate_Achievements": "2024-01-11T00:04:43.1596017+00:00"
 }

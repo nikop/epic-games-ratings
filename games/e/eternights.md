@@ -10,8 +10,8 @@ Rating: 4.79 (Ranked 99)
 | The First Bond | 62.00% | ~543 |
 | Novice Scavenger | 56.00% | ~491 |
 | Master Craftsman | 44.00% | ~385 |
-| First wall | 42.00% | ~368 |
-| Piggyback Expert | 41.00% | ~359 |
+| First wall | 43.00% | ~377 |
+| Piggyback Expert | 42.00% | ~368 |
 | Second wall | 32.00% | ~280 |
 | Expert Scavenger | 30.00% | ~263 |
 | Their Rock | 26.00% | ~228 |
@@ -31,7 +31,7 @@ Rating: 4.79 (Ranked 99)
 | Dreamboat | 0.90% | ~8 |
 | Bond Lord | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 876 (Ranked 306)  
+Progressed: 876 (Ranked 305)  
 Completed: 2 (0.23%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
