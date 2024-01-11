@@ -4,7 +4,7 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [The InVincible Iron Ivy - Enter the Pretty Pretty Princess](games/6/6416a7e47acb440da6f7fc0eff798318.md) | 100.00% |
 | 1 | [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 100.00% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.28% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.15% |
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
 | 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 41.60% |
 | 8 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
@@ -21,11 +21,11 @@
 | 19 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 20 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.84% |
 | 21 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
-| 22 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.60% |
+| 22 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.55% |
 | 23 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 19.44% |
-| 24 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 19.05% |
-| 25 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
-| 26 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.52% |
+| 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
+| 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.52% |
+| 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 18.18% |
 | 27 | [The Riflemen](games/t/the_riflemen.md) | 17.09% |
 | 28 | [Island Cities](games/i/island_cities.md) | 16.96% |
 | 29 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
@@ -58,7 +58,7 @@
 | 56 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.42% |
 | 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.25% |
 | 58 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.23% |
-| 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.05% |
+| 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.04% |
 | 60 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.01% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.96% |
 | 62 | [Scorn](games/s/scorn.md) | 6.94% |
@@ -157,12 +157,12 @@
 | 155 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.33% |
 | 156 | [Poosh XL](games/p/poosh_xl.md) | 1.29% |
 | 157 | [Chorus](games/c/chorus.md) | 1.27% |
-| 157 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 1.27% |
+| 158 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 1.25% |
 | 159 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.23% |
 | 159 | [Late Shift](games/l/late_shift.md) | 1.23% |
-| 161 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.21% |
-| 162 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.19% |
-| 163 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.18% |
+| 161 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.20% |
+| 162 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.18% |
+| 162 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.18% |
 | 164 | [Ten Dates](games/t/ten_dates.md) | 1.17% |
 | 165 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.16% |
 | 166 | [Iron Danger](games/i/iron_danger.md) | 1.15% |
@@ -177,7 +177,7 @@
 | 174 | [Lemon Cake](games/l/lemon_cake.md) | 1.04% |
 | 176 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
 | 177 | [Sable](games/s/sable.md) | 1.02% |
-| 178 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.97% |
+| 178 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.96% |
 | 179 | [Trifox](games/t/trifox.md) | 0.95% |
 | 180 | [Colossal Cave](games/c/colossal_cave.md) | 0.93% |
 | 181 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.92% |
@@ -205,20 +205,20 @@
 | 202 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.64% |
 | 204 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.62% |
 | 204 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.62% |
+| 206 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.61% |
 | 206 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.61% |
 | 206 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.61% |
 | 206 | [Scrapnaut](games/s/scrapnaut.md) | 0.61% |
-| 209 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.60% |
-| 209 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.60% |
+| 210 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.60% |
+| 211 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 0.59% |
 | 211 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
 | 211 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.59% |
-| 213 | [Grindstone](games/g/grindstone.md) | 0.57% |
-| 213 | [Potion Permit](games/p/potion_permit.md) | 0.57% |
-| 215 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
-| 216 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.54% |
-| 216 | [Five Dates](games/f/five_dates.md) | 0.54% |
-| 216 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.54% |
-| 216 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
+| 214 | [Grindstone](games/g/grindstone.md) | 0.57% |
+| 214 | [Potion Permit](games/p/potion_permit.md) | 0.57% |
+| 216 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
+| 217 | [Five Dates](games/f/five_dates.md) | 0.54% |
+| 217 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.54% |
+| 217 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
 | 220 | [Tails of Iron](games/t/tails_of_iron.md) | 0.52% |
 | 221 | [Haven](games/h/haven.md) | 0.51% |
 | 221 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.51% |
