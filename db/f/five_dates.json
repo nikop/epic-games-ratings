@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2238,
+  "EOS_Progressed": 2239,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -4220,6 +4220,11 @@
       "Time": "2024-01-12T00:09:43.1417532+00:00",
       "NumProgressed": 2238,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-12T08:10:40.2563319+00:00",
+      "NumProgressed": 2239,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -4231,7 +4236,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "booty_call",
@@ -4255,7 +4260,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "hold_my_beer",
@@ -4263,7 +4268,7 @@
       "Name": "Hold my Beer",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -4303,7 +4308,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "only_thyme_will_tell",
@@ -4350,7 +4355,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 2238,
+      "Progressed": 2239,
       "Completed": 12
     }
   ],
@@ -4358,8 +4363,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-12T07:10:39.2664505+00:00",
+  "LastChanged_Achievements": "2024-01-12T08:10:40.2563315+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:20.6091046+00:00",
-  "LastUpdate_Ratings": "2024-01-12T06:57:38.5469825+00:00",
-  "LastUpdate_Achievements": "2024-01-12T07:10:39.2664866+00:00"
+  "LastUpdate_Ratings": "2024-01-12T07:57:36.0263369+00:00",
+  "LastUpdate_Achievements": "2024-01-12T08:10:40.2563561+00:00"
 }

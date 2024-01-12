@@ -355,7 +355,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1088,
+  "EOS_Progressed": 1089,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
@@ -2690,6 +2690,11 @@
       "Time": "2024-01-12T07:09:15.277837+00:00",
       "NumProgressed": 1088,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T08:09:21.981369+00:00",
+      "NumProgressed": 1089,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2702,7 +2707,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "CareerAllChallenges",
@@ -2718,7 +2723,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "CareerChamp2",
@@ -2774,7 +2779,7 @@
       "Name": "Junk Collector",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "CreditsEarnedA",
@@ -2822,7 +2827,7 @@
       "Name": "Trashing Around",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "PlayerRankC",
@@ -2861,7 +2866,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1088,
+      "Progressed": 1089,
       "Completed": 0
     }
   ],
@@ -2869,8 +2874,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-07T05:59:24.3409501+00:00",
-  "LastChanged_Achievements": "2024-01-12T07:09:15.2778365+00:00",
+  "LastChanged_Achievements": "2024-01-12T08:09:21.9813685+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
-  "LastUpdate_Ratings": "2024-01-12T06:58:16.4522212+00:00",
-  "LastUpdate_Achievements": "2024-01-12T07:09:15.2778661+00:00"
+  "LastUpdate_Ratings": "2024-01-12T07:58:11.3899943+00:00",
+  "LastUpdate_Achievements": "2024-01-12T08:09:21.9813919+00:00"
 }

@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Final square (Eternal Battle) | 75.00% | ~6 |
-| I'll be back | 50.00% | ~4 |
-| Victory Royale | 38.00% | ~3 |
-| Combo Pro | 25.00% | ~2 |
-| Sense of Priorities | 25.00% | ~2 |
-| Business Acumen | 25.00% | ~2 |
-| Chain Reaction | 25.00% | ~2 |
-| Sound Barrier | 25.00% | ~2 |
-| Legend | 13.00% | ~1 |
-| Champion | 13.00% | ~1 |
-| Flawless Round | 13.00% | ~1 |
-| Neo Victory | 13.00% | ~1 |
-| Arcade Room King | 13.00% | ~1 |
-| Versus Victory | 13.00% | ~1 |
-| Juggler | 13.00% | ~1 |
-| Expert | 13.00% | ~1 |
-| Final chance | 13.00% | ~1 |
-| Pro | 13.00% | ~1 |
-| Semi-pro | 13.00% | ~1 |
-| Collector | 13.00% | ~1 |
-| Purist | 13.00% | ~1 |
-| Insatiable | 13.00% | ~1 |
+| Final square (Eternal Battle) | 67.00% | ~6 |
+| I'll be back | 44.00% | ~4 |
+| Victory Royale | 33.00% | ~3 |
+| Combo Pro | 22.00% | ~2 |
+| Sense of Priorities | 22.00% | ~2 |
+| Business Acumen | 22.00% | ~2 |
+| Chain Reaction | 22.00% | ~2 |
+| Sound Barrier | 22.00% | ~2 |
+| Legend | 11.00% | ~1 |
+| Champion | 11.00% | ~1 |
+| Flawless Round | 11.00% | ~1 |
+| Neo Victory | 11.00% | ~1 |
+| Arcade Room King | 11.00% | ~1 |
+| Versus Victory | 11.00% | ~1 |
+| Juggler | 11.00% | ~1 |
+| Expert | 11.00% | ~1 |
+| Final chance | 11.00% | ~1 |
+| Pro | 11.00% | ~1 |
+| Semi-pro | 11.00% | ~1 |
+| Collector | 11.00% | ~1 |
+| Purist | 11.00% | ~1 |
+| Insatiable | 11.00% | ~1 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8 (Ranked 672)  
+Progressed: 9 (Ranked 668)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -37,6 +37,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2023-05-20 | 6 | 0 |
 | 2024-01-04 | 7 | 0 |
 | 2024-01-05 | 8 | 0 |
+| 2024-01-12 | 9 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

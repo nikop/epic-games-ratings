@@ -37,12 +37,12 @@
 | Silver Drift Hollow Mine | 11.00% | ~16 |
 | A Master of Magic | 11.00% | ~16 |
 | Magic Academy | 11.00% | ~16 |
+| Friend of Windholme | 10.00% | ~14 |
 | Defeat Gor | 9.00% | ~13 |
 | Defeat Uram | 9.00% | ~13 |
 | Yngrid's Tale | 9.00% | ~13 |
 | The Forge of Regan Gor | 9.00% | ~13 |
 | Mage Teacher | 9.00% | ~13 |
-| Friend of Windholme | 9.00% | ~13 |
 | A Joke | 9.00% | ~13 |
 | Tuscari Sea Portal | 8.00% | ~11 |
 | A Monopoly of Might | 8.00% | ~11 |

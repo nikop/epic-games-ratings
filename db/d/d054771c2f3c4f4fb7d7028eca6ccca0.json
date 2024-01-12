@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3983,
+  "EOS_Progressed": 3984,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4704,6 +4704,11 @@
       "Time": "2024-01-12T07:06:52.9540262+00:00",
       "NumProgressed": 3983,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T08:06:40.554737+00:00",
+      "NumProgressed": 3984,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -4740,7 +4745,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -4780,7 +4785,7 @@
       "Name": "Terrible Journey",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -4820,7 +4825,7 @@
       "Name": "Worthy Badge",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -4900,7 +4905,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -5091,14 +5096,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 3983,
+      "Progressed": 3984,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-12T07:06:52.9540256+00:00",
+  "LastChanged_Achievements": "2024-01-12T08:06:40.5547367+00:00",
   "LastUpdate_AppInfo": "2024-01-09T13:13:37.5527845+00:00",
-  "LastUpdate_Ratings": "2024-01-12T06:57:42.5737005+00:00",
-  "LastUpdate_Achievements": "2024-01-12T07:06:52.9540809+00:00"
+  "LastUpdate_Ratings": "2024-01-12T07:57:40.5031735+00:00",
+  "LastUpdate_Achievements": "2024-01-12T08:06:40.5547965+00:00"
 }

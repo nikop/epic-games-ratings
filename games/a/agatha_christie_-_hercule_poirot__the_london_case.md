@@ -34,8 +34,8 @@
 | Zakariya Demir | 25.00% | ~28 |
 | Truth from within | 24.00% | ~26 |
 | A curious phrase | 21.00% | ~23 |
-| Evelyn Lakshmi Warbeck | 20.00% | ~22 |
-| The Suspects | 20.00% | ~22 |
+| Evelyn Lakshmi Warbeck | 21.00% | ~23 |
+| The Suspects | 21.00% | ~23 |
 | Horace Mountjoy | 19.00% | ~21 |
 | Johan Kristiansen | 19.00% | ~21 |
 | The Secrets | 19.00% | ~21 |

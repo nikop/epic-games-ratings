@@ -2,7 +2,7 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 264,
+  "Ranking_Rating": 265,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 287,
@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1138,
+  "EOS_Progressed": 1139,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3972,6 +3972,11 @@
       "Time": "2024-01-12T00:09:03.9040766+00:00",
       "NumProgressed": 1138,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T08:09:53.007991+00:00",
+      "NumProgressed": 1139,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4174,9 +4179,9 @@
       "ID": "LothCampaign",
       "SetID": "71c0n9i",
       "Name": "Together For Her",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LothCampaignFinaleOnHard",
@@ -4192,7 +4197,7 @@
       "Name": "Multi Kill",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "MultiplayerWins",
@@ -4264,7 +4269,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -4312,7 +4317,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "WielderLevel2",
@@ -4415,15 +4420,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1138,
+      "Progressed": 1139,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-12T07:09:47.9768906+00:00",
+  "LastChanged_Achievements": "2024-01-12T08:09:53.0079904+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-12T06:59:12.4987097+00:00",
-  "LastUpdate_Achievements": "2024-01-12T07:09:47.9769519+00:00"
+  "LastUpdate_Ratings": "2024-01-12T07:59:06.2489393+00:00",
+  "LastUpdate_Achievements": "2024-01-12T08:09:53.0080525+00:00"
 }

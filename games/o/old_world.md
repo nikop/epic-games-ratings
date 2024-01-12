@@ -81,6 +81,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.60% | ~99 |
 | Greece | 0.60% | ~99 |
 | Power to the People | 0.60% | ~99 |
+| Legionary | 0.60% | ~99 |
 | Points Victory | 0.60% | ~99 |
 | Win a Single Player Game | 0.60% | ~99 |
 | Conqueror | 0.50% | ~82 |
@@ -99,7 +100,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.50% | ~82 |
 | Dualism | 0.50% | ~82 |
 | Cimmerian Archer | 0.50% | ~82 |
-| Legionary | 0.50% | ~82 |
 | Double Victory | 0.50% | ~82 |
 | The Clergy | 0.50% | ~82 |
 | Kushite Paganism | 0.50% | ~82 |
@@ -155,6 +155,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.20% | ~33 |
 | Siege Tower | 0.20% | ~33 |
 | Poetic Leader | 0.20% | ~33 |
+| Beja Archer | 0.20% | ~33 |
 | Centenarian | 0.10% | ~16 |
 | Alexander the Great | 0.10% | ~16 |
 | Alexander the who? | 0.10% | ~16 |
@@ -299,7 +300,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | History Repeats | 0.10% | ~16 |
 | Egypt Campaign | 0.10% | ~16 |
 | Kush | 0.10% | ~16 |
-| Beja Archer | 0.10% | ~16 |
+| Cothon in Carthago | 0.10% | ~16 |
 | Al Khazneh | 0.10% | ~16 |
 | Colosseum | 0.10% | ~16 |
 | Cothon | 0.10% | ~16 |
@@ -357,7 +358,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Greatest Pharaoh! | 0.00% | ~0 |
 | Pharaonic History Repeats | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
-| Cothon in Carthago | 0.00% | ~0 |
 | Yazilikaya in Hattusa | 0.00% | ~0 |
 | Heliopolis in Heliopolis | 0.00% | ~0 |
 | Jerwan Aqueduct in Jerwan | 0.00% | ~0 |

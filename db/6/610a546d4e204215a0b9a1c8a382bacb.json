@@ -1989,9 +1989,9 @@
       "Count": 82
     }
   ],
-  "EOS_Progressed": 49078,
+  "EOS_Progressed": 49079,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3772,
+  "EOS_NewPlayers": 3765,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9919,6 +9919,11 @@
       "Time": "2024-01-12T07:10:24.1964412+00:00",
       "NumProgressed": 49078,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T08:10:26.3325665+00:00",
+      "NumProgressed": 49079,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T16:07:36.390537+00:00",
@@ -9995,7 +10000,7 @@
       "Name": "Parked The Bus",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 7852
+      "UsersEstimate": 7853
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -10067,7 +10072,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 24539
+      "UsersEstimate": 24540
     },
     {
       "ID": "achievement_club_world_cup",
@@ -10219,7 +10224,7 @@
       "Name": "Hat-trick",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 19140
+      "UsersEstimate": 19141
     },
     {
       "ID": "achievement_head_to_head",
@@ -10235,7 +10240,7 @@
       "Name": "They\u0027re a Natural",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 12760
+      "UsersEstimate": 12761
     },
     {
       "ID": "achievement_impenetrable",
@@ -10289,9 +10294,9 @@
       "ID": "achievement_motivational_speaker",
       "SetID": "5240afh",
       "Name": "Motivational Speaker",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 29447
+      "UsersEstimate": 29938
     },
     {
       "ID": "achievement_name_on_the_trophy",
@@ -10315,7 +10320,7 @@
       "Name": "One From the Training Ground",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 23557
+      "UsersEstimate": 23558
     },
     {
       "ID": "achievement_one_of_our_own",
@@ -10435,7 +10440,7 @@
       "Name": "Record Signing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 12760
+      "UsersEstimate": 12761
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -10459,7 +10464,7 @@
       "Name": "Off the Books",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 24048
+      "UsersEstimate": 24049
     },
     {
       "ID": "achievement_shots_for_days",
@@ -10499,7 +10504,7 @@
       "Name": "Super-Sub",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 23557
+      "UsersEstimate": 23558
     },
     {
       "ID": "achievement_the_fixer",
@@ -10715,7 +10720,7 @@
       "Name": "#DoneDeal",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 23557
+      "UsersEstimate": 23558
     },
     {
       "ID": "placeholder_achievement_we_meet_again",
@@ -10730,7 +10735,7 @@
     {
       "ID": "5240afh",
       "IsBase": true,
-      "Progressed": 49078,
+      "Progressed": 49079,
       "Completed": 0
     }
   ],
@@ -10738,8 +10743,8 @@
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
   "LastChanged": "2024-01-12T07:01:04.8203574+00:00",
-  "LastChanged_Achievements": "2024-01-12T07:10:24.1964407+00:00",
+  "LastChanged_Achievements": "2024-01-12T08:10:26.3325661+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:58.4808725+00:00",
-  "LastUpdate_Ratings": "2024-01-12T07:01:04.8203578+00:00",
-  "LastUpdate_Achievements": "2024-01-12T07:10:24.196576+00:00"
+  "LastUpdate_Ratings": "2024-01-12T08:00:49.0754523+00:00",
+  "LastUpdate_Achievements": "2024-01-12T08:10:26.3326881+00:00"
 }

@@ -1,20 +1,20 @@
 # Songs of Conquest
 [Store](https://store.epicgames.com/en-US/p/songs-of-conquest)  
 [View Rawdata](../../db/s/songs_of_conquest.json)  
-Rating: 4.68 (Ranked 264)  
+Rating: 4.68 (Ranked 265)  
 Number of Ratings: 292  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~523 |
+| Adept | 46.00% | ~524 |
 | Double Kill | 41.00% | ~467 |
 | Critical Hit | 23.00% | ~262 |
 | Veteran | 23.00% | ~262 |
 | Dressed For Success | 16.00% | ~182 |
 | Veni, Vidi, Vici | 11.00% | ~125 |
 | Humiliation | 10.00% | ~114 |
-| Multi Kill | 9.00% | ~102 |
-| Sorcerous Spree | 9.00% | ~102 |
+| Multi Kill | 9.00% | ~103 |
+| Sorcerous Spree | 9.00% | ~103 |
 | Master | 8.00% | ~91 |
 | Landlord Extraordinaire | 7.00% | ~80 |
 | The Song of Stoutheart | 6.00% | ~68 |
@@ -30,10 +30,10 @@ Number of Ratings: 292  (23.09.2022)
 | Pyrrhic Victory | 2.00% | ~23 |
 | Venisti, Vidisti, Perdidisti | 2.00% | ~23 |
 | In The Thick of It | 1.00% | ~11 |
+| Together For Her | 1.00% | ~11 |
 | Such A Fungi | 1.00% | ~11 |
 | Grand Master | 1.00% | ~11 |
 | Versatile Wielder | 0.90% | ~10 |
-| Together For Her | 0.90% | ~10 |
 | Cleave | 0.70% | ~8 |
 | Unlimited Power! | 0.60% | ~7 |
 | Killing Spree | 0.60% | ~7 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,138 (Ranked 287)  
+Progressed: 1,139 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 1,111 | 0 |
 | 2024-01-10 | 1,129 | 0 |
 | 2024-01-11 | 1,137 | 0 |
-| 2024-01-12 | 1,138 | 0 |
+| 2024-01-12 | 1,139 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 524)  
 Sum: 252 (Ranked 399)  

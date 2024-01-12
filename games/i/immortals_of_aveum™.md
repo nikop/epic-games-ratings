@@ -5,28 +5,28 @@ Rating: 4.18 (Ranked 983)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,951 |
-| Battlefields Have Memories | 81.00% | ~2,716 |
-| Enlisted | 74.00% | ~2,481 |
-| Maybe Engage a Little | 69.00% | ~2,314 |
-| No More Names | 52.00% | ~1,744 |
+| Unforeseen | 88.00% | ~2,952 |
+| Battlefields Have Memories | 81.00% | ~2,718 |
+| Enlisted | 74.00% | ~2,483 |
+| Maybe Engage a Little | 69.00% | ~2,315 |
+| No More Names | 52.00% | ~1,745 |
 | Initiate | 39.00% | ~1,308 |
 | Thrada-Kul | 35.00% | ~1,174 |
-| Gravity-Challenged Rocks | 29.00% | ~972 |
+| Gravity-Challenged Rocks | 29.00% | ~973 |
 | Socialite | 24.00% | ~805 |
 | Soldier | 24.00% | ~805 |
 | All the Major Food Groups | 24.00% | ~805 |
 | Beggars Would Ride | 22.00% | ~738 |
 | Control is an Illusion | 20.00% | ~671 |
 | The Means to Save It | 18.00% | ~604 |
-| Resilience to Sin | 16.00% | ~536 |
-| A Familiar Nest | 16.00% | ~536 |
+| Resilience to Sin | 16.00% | ~537 |
+| A Familiar Nest | 16.00% | ~537 |
 | Geas Aristeya | 15.00% | ~503 |
 | Periapt Alizarin | 15.00% | ~503 |
-| A Perfect Cycle | 14.00% | ~469 |
-| Recruit | 14.00% | ~469 |
+| A Perfect Cycle | 14.00% | ~470 |
+| Recruit | 14.00% | ~470 |
 | Armsman | 11.00% | ~369 |
-| Lights Army | 10.00% | ~335 |
+| Lights Army | 10.00% | ~336 |
 | Periapt Cerulean | 8.00% | ~268 |
 | Good Boy | 8.00% | ~268 |
 | Periapt Viridian | 7.00% | ~235 |
@@ -53,7 +53,7 @@ Rating: 4.18 (Ranked 983)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,353 (Ranked 228)  
+Progressed: 3,355 (Ranked 228)  
 Completed: 4 (0.12%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 4 (0.12%) (Ranked 305)
 | 2024-01-09 | 3,204 | 4 |
 | 2024-01-10 | 3,285 | 4 |
 | 2024-01-11 | 3,340 | 4 |
-| 2024-01-12 | 3,353 | 4 |
+| 2024-01-12 | 3,355 | 4 |
 ## Awards
 Max (Quickly Understood Controls): 20  (Ranked 579)  
 Sum: 20 (Ranked 580)  

@@ -1988,9 +1988,9 @@
       "ID": "AC_BLACKJACK_GAMES_2",
       "SetID": "16i2akc",
       "Name": "Ludopath",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 40
     },
     {
       "ID": "AC_BOSS_00",
@@ -2020,9 +2020,9 @@
       "ID": "AC_BOSS_03",
       "SetID": "16i2akc",
       "Name": "Sacrilege",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 74
     },
     {
       "ID": "AC_BOSS_04",
@@ -2267,8 +2267,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-12T07:06:30.3040909+00:00",
+  "LastChanged_Achievements": "2024-01-12T08:06:19.1699748+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:59.4542445+00:00",
-  "LastUpdate_Ratings": "2024-01-12T07:02:13.4194343+00:00",
-  "LastUpdate_Achievements": "2024-01-12T07:06:30.3041297+00:00"
+  "LastUpdate_Ratings": "2024-01-12T08:02:45.4743184+00:00",
+  "LastUpdate_Achievements": "2024-01-12T08:06:19.1700157+00:00"
 }

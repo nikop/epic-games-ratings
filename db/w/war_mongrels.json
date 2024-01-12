@@ -2982,9 +2982,9 @@
       "ID": "ACH_COLL_CH11",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter XI",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_COLL_CH12",
@@ -3254,8 +3254,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2024-01-12T07:10:55.498655+00:00",
+  "LastChanged_Achievements": "2024-01-12T08:10:55.8737196+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:07.8864884+00:00",
-  "LastUpdate_Ratings": "2024-01-12T07:02:22.3852519+00:00",
-  "LastUpdate_Achievements": "2024-01-12T07:10:55.4987175+00:00"
+  "LastUpdate_Ratings": "2024-01-12T08:02:54.9938663+00:00",
+  "LastUpdate_Achievements": "2024-01-12T08:10:55.8737951+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "spiritfarer",
   "Ranking_Rating": 18,
   "Ranking_Popularity": 561,
-  "Ranking_PopularitySum": 496,
+  "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 582,
+  "Ranking_EOS_NewPlayers": 583,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -397,10 +397,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 64,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-01-12T08:00:23.9001353+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 84,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 64,
+  "NumberOfAwards": 84,
   "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -421,6 +427,12 @@
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
       "Count": 20
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Prefix": "This game has",
+      "Type": "Unique Visuals",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -434,8 +446,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:28.7454672+00:00",
-  "LastChanged": "2023-12-26T15:59:10.2085252+00:00",
+  "LastChanged": "2024-01-12T08:00:23.9001351+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:34.714022+00:00",
-  "LastUpdate_Ratings": "2024-01-12T07:00:38.0390968+00:00",
-  "LastUpdate_Achievements": "2024-01-12T07:06:29.8287487+00:00"
+  "LastUpdate_Ratings": "2024-01-12T08:00:23.9001355+00:00",
+  "LastUpdate_Achievements": "2024-01-12T08:06:18.7123307+00:00"
 }

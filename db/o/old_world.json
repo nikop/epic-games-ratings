@@ -21771,9 +21771,9 @@
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
       "SetID": "9201eeb",
       "Name": "Legionary",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
@@ -22427,17 +22427,17 @@
       "ID": "ACHIEVEMENT_UNIT_BEJA_ARCHER",
       "SetID": "9201eeb",
       "Name": "Beja Archer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGO_COTHON",
       "SetID": "9201eeb",
       "Name": "Cothon in Carthago",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_HATTUSA_YAZILIKAYA",
@@ -22577,8 +22577,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-11T21:59:00.3473334+00:00",
-  "LastChanged_Achievements": "2024-01-12T07:11:00.5482504+00:00",
+  "LastChanged_Achievements": "2024-01-12T08:11:01.2197769+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-12T06:59:13.03675+00:00",
-  "LastUpdate_Achievements": "2024-01-12T07:11:00.5493147+00:00"
+  "LastUpdate_Ratings": "2024-01-12T07:59:06.7488453+00:00",
+  "LastUpdate_Achievements": "2024-01-12T08:11:01.2209799+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 264,
+  "Ranking_Rating": 265,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
@@ -10666,10 +10666,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21592,
       "NumberOfAwardsMax": 8002
+    },
+    {
+      "Time": "2024-01-12T08:01:09.3047528+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21595,
+      "NumberOfAwardsMax": 8002
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21592,
+  "NumberOfAwards": 21595,
   "NumberOfAwardsMax": 8002,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10707,7 +10713,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1413
+      "Count": 1416
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10746,9 +10752,9 @@
       "Count": 1092
     }
   ],
-  "EOS_Progressed": 132517,
+  "EOS_Progressed": 132518,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 790,
+  "EOS_NewPlayers": 788,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39456,6 +39462,11 @@
       "Time": "2024-01-12T07:10:34.1021258+00:00",
       "NumProgressed": 132517,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-12T08:10:35.2725167+00:00",
+      "NumProgressed": 132518,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -40098,21 +40109,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132517,
+      "Progressed": 132518,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7386,
+      "Progressed": 7387,
       "Completed": 825
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-11T21:01:00.9596735+00:00",
-  "LastChanged_Achievements": "2024-01-12T07:10:34.1021254+00:00",
+  "LastChanged": "2024-01-12T08:01:09.3047526+00:00",
+  "LastChanged_Achievements": "2024-01-12T08:10:35.2725162+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-12T07:01:25.9349972+00:00",
-  "LastUpdate_Achievements": "2024-01-12T07:10:34.1023069+00:00"
+  "LastUpdate_Ratings": "2024-01-12T08:01:09.3047533+00:00",
+  "LastUpdate_Achievements": "2024-01-12T08:10:35.2726926+00:00"
 }

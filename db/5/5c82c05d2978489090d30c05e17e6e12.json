@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74644,
+  "EOS_Progressed": 74648,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 1462,
+  "EOS_NewPlayers": 1458,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -7009,6 +7009,11 @@
       "Time": "2024-01-12T07:08:53.5159783+00:00",
       "NumProgressed": 74644,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2024-01-12T08:09:01.5787719+00:00",
+      "NumProgressed": 74648,
+      "NumCompleted": 120
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -7021,7 +7026,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27618
+      "UsersEstimate": 27620
     },
     {
       "ID": "Achievement_10",
@@ -7109,7 +7114,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20900
+      "UsersEstimate": 20901
     },
     {
       "ID": "Achievement_20",
@@ -7197,7 +7202,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8957
+      "UsersEstimate": 8958
     },
     {
       "ID": "Achievement_30",
@@ -7292,7 +7297,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 74644,
+      "Progressed": 74648,
       "Completed": 120
     }
   ],
@@ -7300,8 +7305,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-09T18:03:16.5676566+00:00",
-  "LastChanged_Achievements": "2024-01-12T07:08:53.5159777+00:00",
+  "LastChanged_Achievements": "2024-01-12T08:09:01.5787711+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:28.0983464+00:00",
-  "LastUpdate_Ratings": "2024-01-12T07:03:30.1844663+00:00",
-  "LastUpdate_Achievements": "2024-01-12T07:08:53.5160381+00:00"
+  "LastUpdate_Ratings": "2024-01-12T08:03:29.4673954+00:00",
+  "LastUpdate_Achievements": "2024-01-12T08:09:01.5788204+00:00"
 }

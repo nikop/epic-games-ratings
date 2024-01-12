@@ -5,16 +5,16 @@ Rating: 4.47 (Ranked 665)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~2,006 |
+| Meeting Resistance | 47.00% | ~2,007 |
 | Confirming Suspicions | 42.00% | ~1,793 |
-| The Kraken Wakes | 38.00% | ~1,622 |
+| The Kraken Wakes | 38.00% | ~1,623 |
 | It's Starting to Crack | 35.00% | ~1,494 |
 | Change the Channel | 32.00% | ~1,366 |
-| Lord of War | 31.00% | ~1,323 |
+| Lord of War | 31.00% | ~1,324 |
 | Taking it back | 30.00% | ~1,281 |
-| Resourceful | 28.00% | ~1,195 |
-| Target America | 28.00% | ~1,195 |
-| The Kraken Sleeps | 25.00% | ~1,067 |
+| Resourceful | 28.00% | ~1,196 |
+| Target America | 28.00% | ~1,196 |
+| The Kraken Sleeps | 25.00% | ~1,068 |
 | Liberté | 24.00% | ~1,025 |
 | Organ Grinder | 24.00% | ~1,025 |
 | As Quiet as a Mouse | 24.00% | ~1,025 |
@@ -40,11 +40,11 @@ Rating: 4.47 (Ranked 665)
 | Herr Today, Gone Tomorrow | 7.00% | ~295 |
 | The Long Game | 6.00% | ~256 |
 | Operation Foxley | 6.00% | ~253 |
-| Strategist | 5.00% | ~213 |
-| Tinkerer | 5.00% | ~213 |
-| It'll Buff Right Out | 5.00% | ~213 |
-| Road Rage | 5.00% | ~213 |
-| Don't hold your breath | 5.00% | ~213 |
+| Strategist | 5.00% | ~214 |
+| Tinkerer | 5.00% | ~214 |
+| It'll Buff Right Out | 5.00% | ~214 |
+| Road Rage | 5.00% | ~214 |
+| Don't hold your breath | 5.00% | ~214 |
 | Last Resort | 5.00% | ~211 |
 | Siegebreaker | 5.00% | ~211 |
 | Ghost of Falaise | 5.00% | ~211 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 665)
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,269 (Ranked 211)  
+Progressed: 4,270 (Ranked 211)  
 Completed: 11 (0.26%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 11 (0.26%) (Ranked 267)
 | 2024-01-09 | 4,249 | 11 |
 | 2024-01-10 | 4,261 | 11 |
 | 2024-01-11 | 4,268 | 11 |
-| 2024-01-12 | 4,269 | 11 |
+| 2024-01-12 | 4,270 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 529)  
 Sum: 29 (Ranked 548)  

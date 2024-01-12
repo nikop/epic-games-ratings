@@ -1,24 +1,24 @@
 # The Lord of The Rings Return to Moria
 [Store](https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344)  
 [View Rawdata](../../db/t/the_lord_of_the_rings_return_to_moria.json)  
-Rating: 4.43 (Ranked 725)  
+Rating: 4.43 (Ranked 726)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 82.00% | ~312,872 |
-| Delving Onward | 68.00% | ~259,455 |
-| Miner's Helper | 59.00% | ~225,115 |
-| Suit Up | 53.00% | ~202,222 |
-| To the Mountain's Roots | 49.00% | ~186,960 |
-| Remains To Be Seen | 34.00% | ~129,727 |
-| Covered Head to Toe | 33.00% | ~125,912 |
-| Line of Azog, Ended | 31.00% | ~118,281 |
-| Risk a Little Real Light | 30.00% | ~114,465 |
-| Caradhras The Cruel | 18.00% | ~68,679 |
-| A Memory of this Place | 17.00% | ~64,864 |
-| Battering Ram | 13.00% | ~49,602 |
-| False King, Deposed | 13.00% | ~49,602 |
-| Baruk Khazâd! | 12.00% | ~45,786 |
+| Speak Friend | 82.00% | ~312,880 |
+| Delving Onward | 68.00% | ~259,461 |
+| Miner's Helper | 59.00% | ~225,121 |
+| Suit Up | 53.00% | ~202,227 |
+| To the Mountain's Roots | 49.00% | ~186,965 |
+| Remains To Be Seen | 34.00% | ~129,731 |
+| Covered Head to Toe | 33.00% | ~125,915 |
+| Line of Azog, Ended | 31.00% | ~118,284 |
+| Risk a Little Real Light | 30.00% | ~114,468 |
+| Caradhras The Cruel | 18.00% | ~68,681 |
+| A Memory of this Place | 17.00% | ~64,865 |
+| Battering Ram | 13.00% | ~49,603 |
+| False King, Deposed | 13.00% | ~49,603 |
+| Baruk Khazâd! | 12.00% | ~45,787 |
 | Shadow's Bane | 9.00% | ~34,340 |
 | Westgate Weaponcraft | 9.00% | ~34,340 |
 | Deeps Weaponcraft | 7.00% | ~26,709 |
@@ -33,7 +33,7 @@ Rating: 4.43 (Ranked 725)
 | Hard-headed | 0.90% | ~3,434 |
 | We're Gonna Need More Mugs | 0.20% | ~763 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 381,551 (Ranked 55)  
+Progressed: 381,561 (Ranked 55)  
 Completed: 324 (0.08%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 324 (0.08%) (Ranked 325)
 | 2024-01-09 | 378,556 | 314 |
 | 2024-01-10 | 380,425 | 316 |
 | 2024-01-11 | 381,324 | 321 |
-| 2024-01-12 | 381,551 | 324 |
+| 2024-01-12 | 381,561 | 324 |
 ## Awards
 Max (Great for Beginners): 922  (Ranked 170)  
 Sum: 5,252 (Ranked 148)  

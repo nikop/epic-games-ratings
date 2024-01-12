@@ -5,15 +5,15 @@ Rating: 4.54 (Ranked 553)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 10.00% | ~80,112 |
-| Hotel California | 9.00% | ~72,100 |
-| Break A Leg | 8.00% | ~64,089 |
-| Coup de Grâce | 7.00% | ~56,078 |
-| Hazardous Materials | 7.00% | ~56,078 |
-| Git Gutte! | 6.00% | ~48,067 |
-| Friends Like These | 6.00% | ~48,067 |
-| Apex Predator | 6.00% | ~48,067 |
-| Personal Assistant Personally Assisted | 6.00% | ~48,067 |
+| Welcome To Hell-A | 10.00% | ~80,113 |
+| Hotel California | 9.00% | ~72,101 |
+| Break A Leg | 8.00% | ~64,090 |
+| Coup de Grâce | 7.00% | ~56,079 |
+| Hazardous Materials | 7.00% | ~56,079 |
+| Git Gutte! | 6.00% | ~48,068 |
+| Friends Like These | 6.00% | ~48,068 |
+| Apex Predator | 6.00% | ~48,068 |
+| Personal Assistant Personally Assisted | 6.00% | ~48,068 |
 | Dr. Reed, I Presume? | 5.00% | ~40,056 |
 | Bookworm | 5.00% | ~40,056 |
 | I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,056 |
@@ -28,21 +28,21 @@ Rating: 4.54 (Ranked 553)
 | Zombologist | 4.00% | ~32,045 |
 | A Patton Emerges | 4.00% | ~32,045 |
 | Our True Nature | 4.00% | ~32,045 |
-| Whatever It Takes | 4.00% | ~5,066 |
-| Pork Chopped | 4.00% | ~5,066 |
-| Making Your Mark | 3.00% | ~24,033 |
-| Ooh, Shiny! | 3.00% | ~24,033 |
-| Humanity Distilled | 3.00% | ~24,033 |
-| I Am the Resurrection | 3.00% | ~24,033 |
+| Whatever It Takes | 4.00% | ~5,067 |
+| Pork Chopped | 4.00% | ~5,067 |
+| Making Your Mark | 3.00% | ~24,034 |
+| Ooh, Shiny! | 3.00% | ~24,034 |
+| Humanity Distilled | 3.00% | ~24,034 |
+| I Am the Resurrection | 3.00% | ~24,034 |
 | One of Us | 3.00% | ~3,800 |
-| Smorgasbord | 2.00% | ~16,022 |
-| Not Even My Final Form | 2.00% | ~16,022 |
-| Internet Famous | 2.00% | ~16,022 |
-| Jumbo Keyring | 2.00% | ~16,022 |
-| Down with the Sickness | 2.00% | ~16,022 |
-| Max Headroom | 2.00% | ~16,022 |
-| Go, Bobcats! | 2.00% | ~16,022 |
-| Rising Star | 2.00% | ~16,022 |
+| Smorgasbord | 2.00% | ~16,023 |
+| Not Even My Final Form | 2.00% | ~16,023 |
+| Internet Famous | 2.00% | ~16,023 |
+| Jumbo Keyring | 2.00% | ~16,023 |
+| Down with the Sickness | 2.00% | ~16,023 |
+| Max Headroom | 2.00% | ~16,023 |
+| Go, Bobcats! | 2.00% | ~16,023 |
+| Rising Star | 2.00% | ~16,023 |
 | Make it So | 1.00% | ~8,011 |
 | LA Influential | 1.00% | ~8,011 |
 | On Safari | 1.00% | ~8,011 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 553)
 | Bucket List | 0.10% | ~801 |
 | Wilhelm | 0.10% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 801,116 (Ranked 21)  
+Progressed: 801,127 (Ranked 21)  
 Completed: 2,571 (0.32%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,14 +324,14 @@ Completed: 2,571 (0.32%) (Ranked 255)
 | 2024-01-09 | 798,256 | 2,564 |
 | 2024-01-10 | 799,920 | 2,566 |
 | 2024-01-11 | 800,916 | 2,571 |
-| 2024-01-12 | 801,116 | 2,571 |
+| 2024-01-12 | 801,127 | 2,571 |
 ## Awards
-Max (Great Boss Battles): 10,140  (Ranked 41)  
-Sum: 15,521 (Ranked 71)  
+Max (Great Boss Battles): 10,211  (Ranked 41)  
+Sum: 15,592 (Ranked 71)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 10,140 |
+| This game has Great Boss Battles | 10,211 |
 | This game is Great for Beginners | 788 |
 | This game has Diverse Characters | 740 |
 | This game has Quickly Understood Controls | 707 |
@@ -609,4 +609,4 @@ Diff (max vs sum): -30
 | 2024-01-09 | 4.54 | 10,024 | 15,312 |
 | 2024-01-10 | 4.54 | 10,080 | 15,418 |
 | 2024-01-11 | 4.54 | 10,140 | 15,514 |
-| 2024-01-12 | 4.54 | 10,140 | 15,521 |
+| 2024-01-12 | 4.54 | 10,211 | 15,592 |

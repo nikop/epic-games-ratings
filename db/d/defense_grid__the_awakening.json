@@ -2,7 +2,7 @@
   "ID": "0dabb0f14acf4fef84bd2b2bf3085dfc",
   "Name": "Defense Grid: The Awakening",
   "ProductSlug": "defense-grid",
-  "Ranking_Rating": 692,
+  "Ranking_Rating": 693,
   "Ranking_Popularity": 280,
   "Ranking_PopularitySum": 227,
   "Ranking_EOS_Progress": 43,
@@ -2140,9 +2140,9 @@
       "Count": 75
     }
   ],
-  "EOS_Progressed": 493898,
+  "EOS_Progressed": 493899,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 510,
+  "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30435,6 +30435,11 @@
       "Time": "2024-01-12T07:10:05.1609247+00:00",
       "NumProgressed": 493898,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-12T08:10:09.0013757+00:00",
+      "NumProgressed": 493899,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 87,
@@ -30462,7 +30467,7 @@
       "Name": "Arsenal",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 227193
+      "UsersEstimate": 227194
     },
     {
       "ID": "BASEDEFENDER",
@@ -30494,7 +30499,7 @@
       "Name": "Boot Camp",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 227193
+      "UsersEstimate": 227194
     },
     {
       "ID": "BURNBABYBURN",
@@ -30542,7 +30547,7 @@
       "Name": "Close Call",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 246949
+      "UsersEstimate": 246950
     },
     {
       "ID": "COMBATTURMOIL",
@@ -30558,7 +30563,7 @@
       "Name": "Confident",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 202498
+      "UsersEstimate": 202499
     },
     {
       "ID": "CORECONTAINER",
@@ -30598,7 +30603,7 @@
       "Name": "Exterminator",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 177803
+      "UsersEstimate": 177804
     },
     {
       "ID": "FAITHFULCOMPANION",
@@ -30638,7 +30643,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 400057
+      "UsersEstimate": 400058
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -30646,7 +30651,7 @@
       "Name": "Flawless Victory",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 207437
+      "UsersEstimate": 207438
     },
     {
       "ID": "FLURRY",
@@ -30702,7 +30707,7 @@
       "Name": "Great Ball of Fire",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 158047
+      "UsersEstimate": 158048
     },
     {
       "ID": "GUNCRAZY",
@@ -30718,7 +30723,7 @@
       "Name": "Happy Returns",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 385240
+      "UsersEstimate": 385241
     },
     {
       "ID": "HEADTRAUMA",
@@ -30734,7 +30739,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 385240
+      "UsersEstimate": 385241
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -30766,7 +30771,7 @@
       "Name": "Kaboom!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 148169
+      "UsersEstimate": 148170
     },
     {
       "ID": "KICKSTARTER",
@@ -30790,7 +30795,7 @@
       "Name": "Liquidator",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 143230
+      "UsersEstimate": 143231
     },
     {
       "ID": "MAJESTICPONY",
@@ -30846,7 +30851,7 @@
       "Name": "No Sale",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 153108
+      "UsersEstimate": 153109
     },
     {
       "ID": "NOTSOFAST",
@@ -30854,7 +30859,7 @@
       "Name": "Not So Fast",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 162986
+      "UsersEstimate": 162987
     },
     {
       "ID": "OUTOFBULLETS",
@@ -30894,7 +30899,7 @@
       "Name": "Penny Pincher",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 242010
+      "UsersEstimate": 242011
     },
     {
       "ID": "PEWPEW",
@@ -30902,7 +30907,7 @@
       "Name": "Pew Pew",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 246949
+      "UsersEstimate": 246950
     },
     {
       "ID": "PLANETARYSERVICE",
@@ -30990,7 +30995,7 @@
       "Name": "Sharpshooter",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 167925
+      "UsersEstimate": 167926
     },
     {
       "ID": "SHELLSHOCKED",
@@ -31141,15 +31146,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 493898,
+      "Progressed": 493899,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2024-01-10T02:27:16.2754067+00:00",
-  "LastChanged_Achievements": "2024-01-12T07:10:05.1609244+00:00",
+  "LastChanged_Achievements": "2024-01-12T08:10:09.0013752+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:50.0654494+00:00",
-  "LastUpdate_Ratings": "2024-01-12T07:03:29.8611815+00:00",
-  "LastUpdate_Achievements": "2024-01-12T07:10:05.1611042+00:00"
+  "LastUpdate_Ratings": "2024-01-12T08:03:29.1928253+00:00",
+  "LastUpdate_Achievements": "2024-01-12T08:10:09.0015554+00:00"
 }

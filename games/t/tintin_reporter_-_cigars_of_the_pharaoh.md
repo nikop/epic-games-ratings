@@ -8,7 +8,7 @@
 | A Loyal Friend | 43.00% | ~57 |
 | Abandon Ship! | 32.00% | ~43 |
 | The Tomb of Kih-Oskh | 29.00% | ~39 |
-| The Weighing of the Soul | 25.00% | ~33 |
+| The Weighing of the Soul | 26.00% | ~35 |
 | The Curse of Kih-Oskh | 20.00% | ~27 |
 | It's a Deal! | 16.00% | ~21 |
 | Cat Lover | 13.00% | ~17 |

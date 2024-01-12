@@ -1,7 +1,7 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 264)  
+Rating: 4.68 (Ranked 265)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,517 (Ranked 91)  
+Progressed: 132,518 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,10 +343,10 @@ Completed: 4 (0.00%) (Ranked 399)
 | 2024-01-09 | 132,315 | 3 |
 | 2024-01-10 | 132,395 | 4 |
 | 2024-01-11 | 132,491 | 4 |
-| 2024-01-12 | 132,517 | 4 |
+| 2024-01-12 | 132,518 | 4 |
 ## Awards
 Max (Character Customization): 8,002  (Ranked 51)  
-Sum: 21,592 (Ranked 58)  
+Sum: 21,595 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -358,7 +358,7 @@ Diff (max vs sum): -7
 | This game is Extremely Fun | 1,520 |
 | This game has Unique Visuals | 1,467 |
 | This game has Amazing Storytelling | 1,445 |
-| This game has Quickly Understood Controls | 1,413 |
+| This game has Quickly Understood Controls | 1,416 |
 | This game has a Creative Community | 1,092 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -714,3 +714,4 @@ Diff (max vs sum): -7
 | 2024-01-09 | 4.68 | - | 7,992 | 21,561 |
 | 2024-01-10 | 4.68 | - | 8,000 | 21,576 |
 | 2024-01-11 | 4.68 | - | 8,002 | 21,592 |
+| 2024-01-12 | 4.68 | - | 8,002 | 21,595 |

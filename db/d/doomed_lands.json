@@ -4,7 +4,7 @@
   "ProductSlug": "doomed-lands-7e2565",
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 582,
+  "Ranking_EOS_NewPlayers": 583,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-17T16:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-04-21T05:59:20.8834796+00:00",
   "LastChanged": "2023-04-21T05:59:20.8834796+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:57.1340233+00:00",
-  "LastUpdate_Ratings": "2024-01-12T06:59:22.6863678+00:00",
-  "LastUpdate_Achievements": "2024-01-12T07:08:36.4018094+00:00"
+  "LastUpdate_Ratings": "2024-01-12T07:59:15.606445+00:00",
+  "LastUpdate_Achievements": "2024-01-12T08:08:45.7759921+00:00"
 }
