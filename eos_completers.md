@@ -22,21 +22,21 @@
 | 20 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.79% |
 | 21 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
 | 22 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.55% |
-| 23 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 19.44% |
+| 22 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 20.55% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.52% |
-| 26 | [The Riflemen](games/t/the_riflemen.md) | 17.04% |
-| 27 | [Island Cities](games/i/island_cities.md) | 16.96% |
-| 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 29 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
-| 30 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
-| 31 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 14.85% |
-| 32 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 14.81% |
+| 25 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 18.52% |
+| 27 | [The Riflemen](games/t/the_riflemen.md) | 17.04% |
+| 28 | [Island Cities](games/i/island_cities.md) | 16.96% |
+| 29 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
+| 30 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
+| 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
+| 32 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 14.85% |
 | 33 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 34 | [Seven Doors](games/s/seven_doors.md) | 13.79% |
 | 35 | [Remains](games/r/remains.md) | 12.70% |
 | 36 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.50% |
-| 37 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.18% |
+| 37 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.17% |
 | 38 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 38 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 11.11% |
 | 40 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
@@ -102,7 +102,7 @@
 | 100 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
 | 101 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.36% |
 | 102 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.33% |
-| 103 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.27% |
+| 103 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.26% |
 | 104 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.23% |
 | 104 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.23% |
 | 106 | [Bunny Park](games/b/bunny_park.md) | 3.19% |
@@ -137,7 +137,7 @@
 | 135 | [Bloodshore](games/b/bloodshore.md) | 2.14% |
 | 136 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.07% |
 | 137 | [Strange House](games/s/strange_house.md) | 2.04% |
-| 137 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.04% |
+| 138 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.00% |
 | 139 | [Serial Cleaners](games/s/serial_cleaners.md) | 1.97% |
 | 140 | [Somerville](games/s/somerville.md) | 1.95% |
 | 141 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 1.92% |
@@ -199,9 +199,9 @@
 | 197 | [Infindustry](games/i/infindustry.md) | 0.74% |
 | 198 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.73% |
 | 199 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 0.72% |
+| 200 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.71% |
 | 200 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.71% |
-| 201 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.70% |
-| 201 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
+| 202 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
 | 203 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.67% |
 | 204 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.64% |
 | 204 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.64% |
