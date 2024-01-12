@@ -6,31 +6,31 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 22.00% | ~210 |
-| Sponge Smasher | 22.00% | ~210 |
+| Spatula Seeker | 22.00% | ~211 |
+| Sponge Smasher | 22.00% | ~211 |
 | Jellyfish Jam | 21.00% | ~201 |
-| Jellyfishing | 17.00% | ~162 |
-| Sweet Victory | 13.00% | ~124 |
-| Sock Getter | 13.00% | ~124 |
-| Time For Tutorial | 13.00% | ~124 |
+| Jellyfishing | 17.00% | ~163 |
+| Sweet Victory | 13.00% | ~125 |
+| Sock Getter | 13.00% | ~125 |
+| Time For Tutorial | 13.00% | ~125 |
 | Star Smasher | 12.00% | ~115 |
 | Uptown and Downtown | 11.00% | ~105 |
 | Super Spatula Seeker | 11.00% | ~105 |
 | Surf's Up! | 11.00% | ~105 |
 | Squirrel Smasher | 10.00% | ~96 |
-| Life's as extreme as you wanna make it! | 8.00% | ~76 |
-| Shrimp Catcher | 8.00% | ~76 |
-| Toxic Terror | 8.00% | ~76 |
-| Hit Rock Bottom | 8.00% | ~76 |
+| Life's as extreme as you wanna make it! | 8.00% | ~77 |
+| Shrimp Catcher | 8.00% | ~77 |
+| Toxic Terror | 8.00% | ~77 |
+| Hit Rock Bottom | 8.00% | ~77 |
 | Are you ready now? | 7.00% | ~67 |
 | Keep it Rolling | 7.00% | ~67 |
 | Ultra Spatula Seeker | 7.00% | ~67 |
 | Robot encyclopedia | 6.00% | ~57 |
 | Hello, Bikini Bottom | 6.00% | ~57 |
 | Ship Shape | 5.00% | ~48 |
-| Shanghaied | 5.00% | ~48 |
 | Kelp Forest of Fear | 5.00% | ~48 |
 | The Small Does Not Rule | 4.00% | ~38 |
+| Shanghaied | 4.00% | ~38 |
 | SpongeBob vs SpongeBob! | 4.00% | ~38 |
 | Sleepy Time | 4.00% | ~38 |
 | Sock Concert | 4.00% | ~38 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~10 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 955 (Ranked 300)  
+Progressed: 958 (Ranked 300)  
 Completed: 8 (0.84%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 8 (0.84%) (Ranked 190)
 | 2024-01-09 | 906 | 8 |
 | 2024-01-10 | 929 | 8 |
 | 2024-01-11 | 954 | 8 |
-| 2024-01-12 | 955 | 8 |
+| 2024-01-12 | 958 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 499)  
 Sum: 36 (Ranked 531)  

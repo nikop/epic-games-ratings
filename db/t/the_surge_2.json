@@ -2,13 +2,13 @@
   "ID": "effee7c2775148e9a99f5685d29751d2",
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
-  "Ranking_Rating": 917,
+  "Ranking_Rating": 918,
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -302,7 +302,7 @@
   "Tags": [],
   "EOS_Progressed": 2571,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -4953,9 +4953,9 @@
       "ID": "ACHV_34",
       "SetID": "8p5mlmc",
       "Name": "Shocking",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 488
+      "UsersEstimate": 514
     },
     {
       "ID": "ACHV_35",
@@ -5154,8 +5154,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-07T10:02:57.9512677+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:05:22.9820536+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:54:27.4837538+00:00",
   "LastUpdate_AppInfo": "2024-01-06T17:57:07.4256179+00:00",
-  "LastUpdate_Ratings": "2024-01-12T00:02:50.5175084+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:05:22.9821085+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:52:02.6574987+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:54:27.4838281+00:00"
 }

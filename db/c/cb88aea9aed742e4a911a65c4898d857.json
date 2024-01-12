@@ -2,13 +2,13 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 219,
+  "Ranking_Rating": 220,
   "Ranking_Popularity": 358,
   "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -329,9 +329,9 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 11111,
+  "EOS_Progressed": 11113,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1012,
+  "EOS_NewPlayers": 999,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4544,6 +4544,11 @@
       "Time": "2024-01-12T00:09:49.0942631+00:00",
       "NumProgressed": 11111,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T01:58:58.7009731+00:00",
+      "NumProgressed": 11113,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4564,7 +4569,7 @@
       "Name": "Stolen Star",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -4668,7 +4673,7 @@
       "Name": "The Rise",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "17_TheExemplar",
@@ -4684,7 +4689,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "19_TheVoidWolf",
@@ -4732,7 +4737,7 @@
       "Name": "Highrise",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "25_DynastyProspers",
@@ -4802,9 +4807,9 @@
       "ID": "33_TzeentchCleaning",
       "SetID": "37a94m8",
       "Name": "Cleening Out the Tzeentch",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1111
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -4908,7 +4913,7 @@
       "Name": "A Spark",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "47_AFlame",
@@ -5075,7 +5080,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11111,
+      "Progressed": 11113,
       "Completed": 1
     }
   ],
@@ -5083,8 +5088,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-11T16:00:45.2454852+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:09:49.0942629+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:58:58.7009726+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:59:31.1830581+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:09:49.0943624+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:48:39.9585956+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:58:58.7010996+00:00"
 }

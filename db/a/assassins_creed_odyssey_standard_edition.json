@@ -2,13 +2,13 @@
   "ID": "clary",
   "Name": "Assassins Creed Odyssey Standard Edition",
   "ProductSlug": "assassins-creed-odyssey",
-  "Ranking_Rating": 147,
+  "Ranking_Rating": 148,
   "Ranking_Popularity": 55,
   "Ranking_PopularitySum": 62,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 583,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 582,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2018-10-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -13164,10 +13164,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 19257,
       "NumberOfAwardsMax": 7228
+    },
+    {
+      "Time": "2024-01-12T01:47:36.1610772+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 19282,
+      "NumberOfAwardsMax": 7228
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19257,
+  "NumberOfAwards": 19282,
   "NumberOfAwardsMax": 7228,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -13181,7 +13187,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 4878
+      "Count": 4893
     },
     {
       "Text": "This game is Educational",
@@ -13211,7 +13217,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 750
+      "Count": 755
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -13229,7 +13235,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 747
+      "Count": 750
     },
     {
       "Text": "This game is Extremely Fun",
@@ -13241,7 +13247,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 717
+      "Count": 719
     },
     {
       "Text": "This game has a Creative Community",
@@ -13267,8 +13273,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2024-01-11T22:58:31.6166131+00:00",
+  "LastChanged": "2024-01-12T01:47:36.1610771+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:19.659232+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:58:24.1394559+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:03:24.509044+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:47:36.1610779+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:52:34.3913794+00:00"
 }

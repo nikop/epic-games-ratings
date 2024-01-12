@@ -2,13 +2,13 @@
   "ID": "879b0d8776ab46a59a129983ba78f0ce",
   "Name": "Genshin Impact",
   "ProductSlug": "genshin-impact",
-  "Ranking_Rating": 263,
+  "Ranking_Rating": 264,
   "Ranking_Popularity": 3,
   "Ranking_PopularitySum": 4,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 583,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 582,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-06-08T23:00:00+00:00",
     "PcReleaseDate": "2021-06-08T23:00:00+00:00",
@@ -16851,10 +16851,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1480288,
       "NumberOfAwardsMax": 324065
+    },
+    {
+      "Time": "2024-01-12T01:48:59.5455745+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1480377,
+      "NumberOfAwardsMax": 324065
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1480288,
+  "NumberOfAwards": 1480377,
   "NumberOfAwardsMax": 324065,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -16910,7 +16916,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 116063
+      "Count": 116097
     },
     {
       "Text": "This game is Relaxing",
@@ -16922,7 +16928,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 118972
+      "Count": 119027
     }
   ],
   "EOS_Progressed": 0,
@@ -16936,8 +16942,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2024-01-11T21:01:06.8928625+00:00",
+  "LastChanged": "2024-01-12T01:48:59.5455741+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:10.2607058+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:59:51.9350125+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:05:11.681356+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:48:59.5455749+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:54:16.6487561+00:00"
 }

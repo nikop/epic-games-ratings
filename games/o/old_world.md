@@ -29,6 +29,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 2.00% | ~329 |
 | Naming Landmarks | 2.00% | ~329 |
 | Trade Caravan | 2.00% | ~329 |
+| Regicide | 1.00% | ~165 |
 | Ambitious | 1.00% | ~165 |
 | Brilliant | 1.00% | ~165 |
 | Enlightened | 1.00% | ~165 |
@@ -55,7 +56,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 1.00% | ~165 |
 | Roman Paganism | 1.00% | ~165 |
 | Zoroastrianism | 1.00% | ~165 |
-| Regicide | 0.90% | ~148 |
 | Drillmaster | 0.90% | ~148 |
 | Legendary Cities | 0.90% | ~148 |
 | Acropolis | 0.90% | ~148 |
@@ -101,6 +101,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.50% | ~82 |
 | Legionary | 0.50% | ~82 |
 | Double Victory | 0.50% | ~82 |
+| The Clergy | 0.50% | ~82 |
 | Kushite Paganism | 0.50% | ~82 |
 | Bad Heir Day | 0.40% | ~66 |
 | Capable | 0.40% | ~66 |
@@ -125,7 +126,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Cavalry | 0.40% | ~66 |
 | Phalangite | 0.40% | ~66 |
 | Ambition Victory | 0.40% | ~66 |
-| The Clergy | 0.40% | ~66 |
 | Kushite Pyramids | 0.40% | ~66 |
 | Ishtar Gate in Babylon | 0.30% | ~49 |
 | Old | 0.30% | ~49 |
@@ -149,6 +149,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persia | 0.20% | ~33 |
 | Old World Order | 0.20% | ~33 |
 | Pantheon of Gods | 0.20% | ~33 |
+| Capturing Cities | 0.20% | ~33 |
 | Ten Crowns | 0.20% | ~33 |
 | Siege Tower | 0.20% | ~33 |
 | Poetic Leader | 0.20% | ~33 |
@@ -255,7 +256,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Papacy | 0.10% | ~16 |
 | Circus Maximus in Roma | 0.10% | ~16 |
 | Pantheon in Roma | 0.10% | ~16 |
-| Capturing Cities | 0.10% | ~16 |
 | Word of God | 0.10% | ~16 |
 | Three Man Chariot | 0.10% | ~16 |
 | Great Ziggurat in Ur | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,463 (Ranked 170)  
+Progressed: 16,474 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -632,7 +632,7 @@ Completed: 5 (0.03%) (Ranked 356)
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
-| 2024-01-12 | 16,463 | 5 |
+| 2024-01-12 | 16,474 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,921 (Ranked 224)  

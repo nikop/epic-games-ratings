@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1944,
+  "EOS_Progressed": 1945,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
@@ -4972,6 +4972,11 @@
       "Time": "2024-01-12T00:06:30.3461641+00:00",
       "NumProgressed": 1944,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T01:55:30.1330116+00:00",
+      "NumProgressed": 1945,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -5038,17 +5043,17 @@
       "ID": "ML_ACHIEVEMENT_08",
       "SetID": "5k00jcd",
       "Name": "Versatile riding",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 97
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
       "SetID": "5k00jcd",
       "Name": "Masterful!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 58
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -5062,9 +5067,9 @@
       "ID": "ML_ACHIEVEMENT_11",
       "SetID": "5k00jcd",
       "Name": "It\u0027s me you have to beat",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 117
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -5288,7 +5293,7 @@
       "Name": "Tools of the trade",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -5351,20 +5356,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1944,
+      "Progressed": 1945,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1612,
+      "Progressed": 1613,
       "Completed": 1013
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:06:30.3461594+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:55:30.133011+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.6791346+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:59:27.0210479+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:06:30.3462128+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:48:35.9864372+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:55:30.1330612+00:00"
 }

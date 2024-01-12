@@ -1,23 +1,23 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.54 (Ranked 552)  
+Rating: 4.54 (Ranked 553)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rock of the Bay | 84.00% | ~346 |
 | Mash Machine | 75.00% | ~309 |
-| Ducks in a Row, Fish in a Barrel | 55.00% | ~227 |
+| Ducks in a Row, Fish in a Barrel | 56.00% | ~231 |
 | Furon Fashion | 47.00% | ~194 |
 | Shop Til They Drop | 40.00% | ~165 |
 | Bodied Sattva | 38.00% | ~157 |
 | Cult Following | 35.00% | ~144 |
-| Earthly Pleasures | 34.00% | ~140 |
+| Earthly Pleasures | 35.00% | ~144 |
 | Lie Back and Think of Albion | 28.00% | ~115 |
 | Upgreatest | 28.00% | ~115 |
 | Pimp My Raid | 25.00% | ~103 |
-| Freshly Squeezed | 22.00% | ~91 |
+| Freshly Squeezed | 23.00% | ~95 |
 | I Look Up As I Walk to Takoshima | 20.00% | ~82 |
 | Perfect Probulator | 18.00% | ~74 |
 | Die Nasty | 18.00% | ~74 |

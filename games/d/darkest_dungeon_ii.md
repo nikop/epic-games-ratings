@@ -1,13 +1,13 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 263)  
+Rating: 4.68 (Ranked 264)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 13.00% | ~958 |
-| Lost and Found | 8.00% | ~589 |
+| Lost and Found | 8.00% | ~590 |
 | Autodidact | 7.00% | ~9,275 |
 | This guy... again? | 7.00% | ~516 |
 | Serenity Now! | 6.00% | ~7,950 |
@@ -26,7 +26,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 5.00% | ~6,625 |
 | A Place to Lay Your Head | 5.00% | ~6,625 |
 | FNG | 5.00% | ~6,625 |
-| Bloody Graduation | 5.00% | ~368 |
+| Bloody Graduation | 5.00% | ~369 |
 | Spelunker | 4.00% | ~5,300 |
 | Merry Time | 4.00% | ~5,300 |
 | Harvest Festival | 4.00% | ~5,300 |
@@ -69,24 +69,24 @@ Number of Ratings: 7,767  (23.09.2022)
 | Slap on the Wrist | 1.00% | ~74 |
 | For Old Time' Sake | 1.00% | ~74 |
 | Et Tu, Riposte? | 0.90% | ~66 |
-| The World As It Was | 0.70% | ~927 |
+| The World As It Was | 0.70% | ~928 |
 | A Life Well Lived | 0.60% | ~795 |
 | Bacon Bits | 0.60% | ~795 |
 | On This Long Road, We Found Redemption | 0.60% | ~44 |
-| Eidetic | 0.50% | ~662 |
+| Eidetic | 0.50% | ~663 |
 | Tears in the Rain | 0.40% | ~530 |
 | Battle Hardened | 0.40% | ~29 |
 | Maître De La Lame | 0.40% | ~29 |
 | Circle of Life | 0.20% | ~265 |
 | Grand Slam | 0.20% | ~265 |
 | These Boots Are Made For Kickin' | 0.20% | ~15 |
-| Loop Year | 0.10% | ~132 |
-| No Gravestone Left Unturned | 0.10% | ~132 |
-| 20,000 Leagues Above the Sea | 0.10% | ~132 |
-| The Clash | 0.10% | ~132 |
-| Hard Mode | 0.10% | ~132 |
+| Loop Year | 0.10% | ~133 |
+| No Gravestone Left Unturned | 0.10% | ~133 |
+| 20,000 Leagues Above the Sea | 0.10% | ~133 |
+| The Clash | 0.10% | ~133 |
+| Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,498 (Ranked 91)  
+Progressed: 132,503 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 4 (0.00%) (Ranked 398)
 | 2024-01-09 | 132,315 | 3 |
 | 2024-01-10 | 132,395 | 4 |
 | 2024-01-11 | 132,491 | 4 |
-| 2024-01-12 | 132,498 | 4 |
+| 2024-01-12 | 132,503 | 4 |
 ## Awards
 Max (Character Customization): 8,002  (Ranked 51)  
 Sum: 21,592 (Ranked 58)  

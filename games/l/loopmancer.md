@@ -28,7 +28,7 @@
 | Disdain | 21.00% | ~22 |
 | Final Battle | 18.00% | ~19 |
 | Brain in a Vat | 18.00% | ~19 |
-| Outsider's Profit | 17.00% | ~18 |
+| Outsider's Profit | 18.00% | ~19 |
 | Reappearance | 15.00% | ~16 |
 | King of the Streets | 9.00% | ~10 |
 | Survival Expert | 9.00% | ~10 |

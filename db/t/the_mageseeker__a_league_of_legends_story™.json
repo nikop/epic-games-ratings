@@ -2,12 +2,12 @@
   "ID": "1e1d639f7fa045f08a1378885ec7080c",
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
-  "Ranking_Rating": 117,
+  "Ranking_Rating": 118,
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -183,7 +183,7 @@
   "Tags": [],
   "EOS_Progressed": 3425,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -6576,9 +6576,9 @@
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
       "SetID": "3pe2bac",
       "Name": "Pentakill",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2569
+      "UsersEstimate": 2603
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6833,8 +6833,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-09T21:58:22.8970062+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:06:10.2585316+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:55:11.744141+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:19.7763351+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:59:21.8330722+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:06:10.2586093+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:48:31.0772873+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:55:11.7442045+00:00"
 }

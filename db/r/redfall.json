@@ -2,13 +2,13 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
-  "Ranking_Rating": 1095,
+  "Ranking_Rating": 1096,
   "Ranking_Popularity": 555,
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -381,9 +381,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2367,
+  "EOS_Progressed": 2368,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4426,6 +4426,11 @@
       "Time": "2024-01-12T00:07:58.8104317+00:00",
       "NumProgressed": 2367,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T01:57:16.0414773+00:00",
+      "NumProgressed": 2368,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4693,7 +4698,7 @@
       "Name": "Catch and Release",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "Achievement_035",
@@ -4964,7 +4969,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2367,
+      "Progressed": 2368,
       "Completed": 0
     }
   ],
@@ -4972,8 +4977,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:07:58.8104316+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:57:16.0414771+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:57:33.8737311+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:07:58.8104997+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:46:48.6495104+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:57:16.0415465+00:00"
 }

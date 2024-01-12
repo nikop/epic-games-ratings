@@ -4,8 +4,8 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 323,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1429,17 +1429,17 @@
       "ID": "14",
       "SetID": "6bgoh8g",
       "Name": "End of the line, everyone disembark",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "15",
       "SetID": "6bgoh8g",
       "Name": "My little grey cells did not let me down!",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "16",
@@ -1612,8 +1612,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:04:21.7892607+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:53:29.1554708+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:13.0818555+00:00",
-  "LastUpdate_Ratings": "2024-01-12T00:03:07.5207365+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:04:21.7892876+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:52:18.1632835+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:53:29.1555004+00:00"
 }

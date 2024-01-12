@@ -1,13 +1,13 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.56 (Ranked 510)  
+Rating: 4.56 (Ranked 511)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Beginner | 90.00% | ~173 |
+| Adventurer | 63.00% | ~121 |
 | Map reader | 63.00% | ~121 |
-| Adventurer | 62.00% | ~119 |
 | Philanthropist | 59.00% | ~113 |
 | Archer | 41.00% | ~79 |
 | The brave little tailor | 40.00% | ~77 |

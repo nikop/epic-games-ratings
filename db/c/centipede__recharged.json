@@ -2,13 +2,13 @@
   "ID": "a1edd0d2e28d4d298152c001e7c47e22",
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
-  "Ranking_Rating": 866,
+  "Ranking_Rating": 868,
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
-  "Ranking_EOS_Progress": 147,
+  "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25074,
+  "EOS_Progressed": 25081,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 346,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -22850,6 +22850,11 @@
       "Time": "2024-01-12T00:03:28.9954492+00:00",
       "NumProgressed": 25074,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2024-01-12T01:52:38.6572428+00:00",
+      "NumProgressed": 25081,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 16,
@@ -22861,7 +22866,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 5767
+      "UsersEstimate": 5769
     },
     {
       "ID": "Burning_For_You",
@@ -22869,7 +22874,7 @@
       "Name": "Burning For You",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6519
+      "UsersEstimate": 6521
     },
     {
       "ID": "Deadline",
@@ -22877,7 +22882,7 @@
       "Name": "Deadline",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 3009
+      "UsersEstimate": 3010
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -22885,7 +22890,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 2507
+      "UsersEstimate": 2508
     },
     {
       "ID": "Eyes_On_Fire",
@@ -22893,7 +22898,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 2758
+      "UsersEstimate": 2759
     },
     {
       "ID": "Feel_The_Thunder",
@@ -22909,7 +22914,7 @@
       "Name": "Fireworks",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 7522
+      "UsersEstimate": 7524
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -22917,7 +22922,7 @@
       "Name": "Harvester Of Eyes",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 1504
+      "UsersEstimate": 1505
     },
     {
       "ID": "I_Am_The_Storm",
@@ -22925,7 +22930,7 @@
       "Name": "I Am The Storm",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 3761
+      "UsersEstimate": 3762
     },
     {
       "ID": "Make_Rock_Not_War",
@@ -22933,7 +22938,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 9528
+      "UsersEstimate": 9531
     },
     {
       "ID": "Mirrors",
@@ -22949,7 +22954,7 @@
       "Name": "Shadow Warrior",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "Shooting_Shark",
@@ -22957,7 +22962,7 @@
       "Name": "Shooting Shark",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 11785
+      "UsersEstimate": 11788
     },
     {
       "ID": "Sole_Survivor",
@@ -22965,7 +22970,7 @@
       "Name": "Sole Survivor",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 8525
+      "UsersEstimate": 8528
     },
     {
       "ID": "Still_Burning",
@@ -22973,7 +22978,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4012
+      "UsersEstimate": 4013
     },
     {
       "ID": "The_Reaper",
@@ -22981,22 +22986,22 @@
       "Name": "The Reaper",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 1504
+      "UsersEstimate": 1505
     }
   ],
   "AchievementSets": [
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 25074,
+      "Progressed": 25081,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-09T13:57:36.5131842+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:03:28.9954491+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:52:38.6572427+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:51.4692455+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:58:44.3909704+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:03:28.995545+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:47:54.4994023+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:52:38.6573339+00:00"
 }

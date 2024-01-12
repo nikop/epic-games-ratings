@@ -2,13 +2,13 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 263,
+  "Ranking_Rating": 264,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 398,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10746,9 +10746,9 @@
       "Count": 1092
     }
   ],
-  "EOS_Progressed": 132498,
+  "EOS_Progressed": 132503,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 804,
+  "EOS_NewPlayers": 802,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39421,6 +39421,11 @@
       "Time": "2024-01-12T00:09:38.437273+00:00",
       "NumProgressed": 132498,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-12T01:58:48.5724571+00:00",
+      "NumProgressed": 132503,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39520,7 +39525,7 @@
       "Name": "The World As It Was",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "altar_of_hope_upgrade_total_half",
@@ -39544,7 +39549,7 @@
       "Name": "Loop Year",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "combat_kill_animal",
@@ -39696,7 +39701,7 @@
       "Name": "No Gravestone Left Unturned",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "combat_party_wipe_any_run_boss",
@@ -39768,7 +39773,7 @@
       "Name": "20,000 Leagues Above the Sea",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "hero_loss_memoried",
@@ -39856,7 +39861,7 @@
       "Name": "The Clash",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "relationships_all_positive_mountain",
@@ -39872,7 +39877,7 @@
       "Name": "Eidetic",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "run_end_abandon",
@@ -39936,7 +39941,7 @@
       "Name": "Hard Mode",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "stagecoach_upgrade_equip_all",
@@ -40024,7 +40029,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "quest_complete_crusader",
@@ -40032,7 +40037,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -40063,21 +40068,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132498,
+      "Progressed": 132503,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7367,
+      "Progressed": 7372,
       "Completed": 824
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-11T21:01:00.9596735+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:09:38.4372728+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:58:48.5724569+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:59:47.2961601+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:09:38.437491+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:48:55.1324701+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:58:48.5726289+00:00"
 }

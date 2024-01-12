@@ -2,13 +2,13 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 470,
+  "Ranking_Rating": 471,
   "Ranking_Popularity": 139,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3904,9 +3904,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242792,
+  "EOS_Progressed": 242797,
   "EOS_Completed": 305,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31504,6 +31504,11 @@
       "Time": "2024-01-12T00:09:59.3902973+00:00",
       "NumProgressed": 242792,
       "NumCompleted": 305
+    },
+    {
+      "Time": "2024-01-12T01:59:08.0923114+00:00",
+      "NumProgressed": 242797,
+      "NumCompleted": 305
     }
   ],
   "TotalAchievements": 138,
@@ -32618,13 +32623,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242792,
+      "Progressed": 242797,
       "Completed": 305
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4272,
+      "Progressed": 4277,
       "Completed": 424
     }
   ],
@@ -32632,8 +32637,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-11T15:59:42.9340933+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:09:59.3902971+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:59:08.092311+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:58:48.561897+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:09:59.3905601+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:47:58.1473965+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:59:08.0926144+00:00"
 }

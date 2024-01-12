@@ -8,7 +8,7 @@ Number of Ratings: 85  (23.09.2022)
 | ---- | ---------- | ----- |
 | Shop Til They Drop | 77.00% | ~350 |
 | Kaijuiced | 71.00% | ~322 |
-| Lie Back and Think of Albion | 65.00% | ~295 |
+| Lie Back and Think of Albion | 66.00% | ~300 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~286 |
 | I Look Up As I Walk to Takoshima | 59.00% | ~268 |
 | Yettisoned | 58.00% | ~263 |

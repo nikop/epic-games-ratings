@@ -1,37 +1,37 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.22 (Ranked 952)  
+Rating: 4.22 (Ranked 953)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 26.00% | ~5,764 |
-| The Outer Way | 26.00% | ~5,764 |
-| Desperate Times | 25.00% | ~5,542 |
-| Paper Jams | 23.00% | ~5,099 |
-| Get a Grip | 22.00% | ~4,877 |
-| Chew 'Em Up | 20.00% | ~4,434 |
-| Reforged | 19.00% | ~4,212 |
-| Float Like A Butterfly | 18.00% | ~3,990 |
-| Workplace Hazard | 16.00% | ~3,547 |
-| If the SHU Fits... | 16.00% | ~3,547 |
-| Without A Paddle | 14.00% | ~3,104 |
-| In the Pipe, Five by Five | 12.00% | ~2,660 |
-| Crash Site | 12.00% | ~2,660 |
+| Flesh Wound | 26.00% | ~5,766 |
+| The Outer Way | 26.00% | ~5,766 |
+| Desperate Times | 25.00% | ~5,544 |
+| Paper Jams | 23.00% | ~5,100 |
+| Get a Grip | 22.00% | ~4,878 |
+| Chew 'Em Up | 20.00% | ~4,435 |
+| Reforged | 19.00% | ~4,213 |
+| Float Like A Butterfly | 18.00% | ~3,992 |
+| Workplace Hazard | 16.00% | ~3,548 |
+| If the SHU Fits... | 16.00% | ~3,548 |
+| Without A Paddle | 14.00% | ~3,105 |
+| In the Pipe, Five by Five | 12.00% | ~2,661 |
+| Crash Site | 12.00% | ~2,661 |
 | Two Heads Are Better Than One | 11.00% | ~2,439 |
 | Power Up | 11.00% | ~2,439 |
-| Giving Back | 10.00% | ~2,217 |
-| Terminated | 10.00% | ~2,217 |
-| What Lies Beneath | 10.00% | ~2,217 |
-| Full Circle | 10.00% | ~2,217 |
-| You Need a Gun | 9.00% | ~1,995 |
+| Giving Back | 10.00% | ~2,218 |
+| Terminated | 10.00% | ~2,218 |
+| What Lies Beneath | 10.00% | ~2,218 |
+| Full Circle | 10.00% | ~2,218 |
+| You Need a Gun | 9.00% | ~1,996 |
 | I Do Belong Here | 8.00% | ~1,774 |
 | Keep Fighting | 7.00% | ~707 |
-| In Striking Distance | 5.00% | ~1,108 |
-| The Commonality | 5.00% | ~1,108 |
+| In Striking Distance | 5.00% | ~1,109 |
+| The Commonality | 5.00% | ~1,109 |
 | It's Time | 5.00% | ~505 |
 | One Last Job | 3.00% | ~303 |
-| Mugshot | 2.00% | ~443 |
+| Mugshot | 2.00% | ~444 |
 | Big Spender | 2.00% | ~202 |
 | This Isn't About Escape | 2.00% | ~202 |
 | Armed to the Teeth | 1.00% | ~101 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 952)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,169 (Ranked 151)  
+Progressed: 22,175 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,6 +312,7 @@ Completed: 82 (0.37%) (Ranked 244)
 | 2024-01-09 | 21,902 | 82 |
 | 2024-01-10 | 22,053 | 82 |
 | 2024-01-11 | 22,169 | 82 |
+| 2024-01-12 | 22,175 | 82 |
 ## Awards
 Max (Amazing Characters): 131  (Ranked 345)  
 Sum: 634 (Ranked 321)  

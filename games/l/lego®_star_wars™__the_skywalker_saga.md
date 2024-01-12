@@ -1,30 +1,30 @@
 # LEGO® Star Wars™: The Skywalker Saga
 [Store](https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga)  
 [View Rawdata](../../db/l/lego®_star_wars™__the_skywalker_saga.json)  
-Rating: 4.77 (Ranked 117)  
+Rating: 4.77 (Ranked 118)  
 Number of Ratings: 2,536  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 96.00% | ~56,803 |
-| ''I don't like you either!'' | 77.00% | ~45,561 |
-| ''Impressive, most impressive'' | 69.00% | ~40,827 |
-| ''You think you're some kind of Jedi?'' | 69.00% | ~40,827 |
-| The Phantom Menace | 56.00% | ~33,135 |
-| ''Aggressive Negotiations'' | 56.00% | ~33,135 |
-| ''I can fly anything'' | 54.00% | ~31,952 |
-| ''And who gave you permission...?'' | 51.00% | ~30,177 |
-| A New Hope | 45.00% | ~26,626 |
-| Attack of the Clones | 44.00% | ~26,035 |
-| Revenge of the Sith | 38.00% | ~22,485 |
-| The Empire Strikes Back | 35.00% | ~20,710 |
-| ''A fine addition to my collection'' | 35.00% | ~20,710 |
-| Return of the Jedi | 30.00% | ~17,751 |
-| The Force Awakens | 25.00% | ~14,792 |
-| The Last Jedi | 21.00% | ~12,426 |
-| The Rise of Skywalker | 19.00% | ~11,242 |
-| ''It's true... all of it'' | 18.00% | ~10,651 |
-| ''Get the crews to their fighters'' | 17.00% | ~10,059 |
+| ''You guys got yourself a ship!'' | 96.00% | ~56,809 |
+| ''I don't like you either!'' | 77.00% | ~45,566 |
+| ''Impressive, most impressive'' | 69.00% | ~40,831 |
+| ''You think you're some kind of Jedi?'' | 69.00% | ~40,831 |
+| The Phantom Menace | 56.00% | ~33,139 |
+| ''Aggressive Negotiations'' | 56.00% | ~33,139 |
+| ''I can fly anything'' | 54.00% | ~31,955 |
+| ''And who gave you permission...?'' | 51.00% | ~30,180 |
+| A New Hope | 45.00% | ~26,629 |
+| Attack of the Clones | 44.00% | ~26,037 |
+| Revenge of the Sith | 38.00% | ~22,487 |
+| The Empire Strikes Back | 35.00% | ~20,712 |
+| ''A fine addition to my collection'' | 35.00% | ~20,712 |
+| Return of the Jedi | 30.00% | ~17,753 |
+| The Force Awakens | 25.00% | ~14,794 |
+| The Last Jedi | 21.00% | ~12,427 |
+| The Rise of Skywalker | 19.00% | ~11,243 |
+| ''It's true... all of it'' | 18.00% | ~10,652 |
+| ''Get the crews to their fighters'' | 17.00% | ~10,060 |
 | ''Raw, untamed power'' | 8.00% | ~4,734 |
 | Rishi Maze | 4.00% | ~2,367 |
 | ''Only one business in the Galaxy...'' | 4.00% | ~2,367 |
@@ -33,26 +33,26 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''GONK!'' | 3.00% | ~1,775 |
 | ''Hey, what are you trying to push on us?'' | 3.00% | ~1,775 |
 | The Slice | 3.00% | ~1,775 |
-| ''Hello there!'' | 2.00% | ~1,183 |
-| Unknown Regions | 2.00% | ~1,183 |
-| ''Do or do not. There is no try'' | 2.00% | ~1,183 |
-| ''See you around, kid'' | 2.00% | ~1,183 |
-| ''The fastest hunk of junk in the galaxy'' | 2.00% | ~1,183 |
-| Greater Javin | 2.00% | ~1,183 |
-| New Territories | 2.00% | ~1,183 |
-| The Interior | 2.00% | ~1,183 |
-| Western Reaches | 2.00% | ~1,183 |
-| Trailing Sectors | 2.00% | ~1,183 |
-| The Arkanis Sector | 2.00% | ~1,183 |
-| ''A little short for a Stormtrooper...'' | 2.00% | ~1,183 |
-| ''Power! Unlimited power!'' | 2.00% | ~1,183 |
-| ''You needn't worry about your reward'' | 2.00% | ~1,183 |
-| ''Now I am the Master'' | 2.00% | ~1,183 |
+| ''Hello there!'' | 2.00% | ~1,184 |
+| Unknown Regions | 2.00% | ~1,184 |
+| ''Do or do not. There is no try'' | 2.00% | ~1,184 |
+| ''See you around, kid'' | 2.00% | ~1,184 |
+| ''The fastest hunk of junk in the galaxy'' | 2.00% | ~1,184 |
+| Greater Javin | 2.00% | ~1,184 |
+| New Territories | 2.00% | ~1,184 |
+| The Interior | 2.00% | ~1,184 |
+| Western Reaches | 2.00% | ~1,184 |
+| Trailing Sectors | 2.00% | ~1,184 |
+| The Arkanis Sector | 2.00% | ~1,184 |
+| ''A little short for a Stormtrooper...'' | 2.00% | ~1,184 |
+| ''Power! Unlimited power!'' | 2.00% | ~1,184 |
+| ''You needn't worry about your reward'' | 2.00% | ~1,184 |
+| ''Now I am the Master'' | 2.00% | ~1,184 |
 | ''Jedi Business'' | 1.00% | ~592 |
 | ''No more training, do you require'' | 1.00% | ~592 |
 | ''I've never seen a real one!'' | 0.90% | ~533 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,170 (Ranked 119)  
+Progressed: 59,176 (Ranked 119)  
 Completed: 260 (0.44%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 260 (0.44%) (Ranked 235)
 | 2024-01-09 | 58,857 | 259 |
 | 2024-01-10 | 59,073 | 260 |
 | 2024-01-11 | 59,167 | 260 |
-| 2024-01-12 | 59,170 | 260 |
+| 2024-01-12 | 59,176 | 260 |
 ## Awards
 Max (Great Boss Battles): 2,498  (Ranked 109)  
 Sum: 6,844 (Ranked 130)  

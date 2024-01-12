@@ -2,13 +2,13 @@
   "ID": "corydalis",
   "Name": "Slime Rancher",
   "ProductSlug": "slime-rancher",
-  "Ranking_Rating": 68,
+  "Ranking_Rating": 69,
   "Ranking_Popularity": 234,
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 583,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 582,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2017-08-01T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -4151,10 +4151,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3381,
       "NumberOfAwardsMax": 446
+    },
+    {
+      "Time": "2024-01-12T01:47:37.6454328+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3382,
+      "NumberOfAwardsMax": 446
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3381,
+  "NumberOfAwards": 3382,
   "NumberOfAwardsMax": 446,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4168,7 +4174,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 377
+      "Count": 378
     },
     {
       "Text": "This game is Relaxing",
@@ -4242,8 +4248,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2024-01-10T06:57:39.9612631+00:00",
+  "LastChanged": "2024-01-12T01:47:37.6454326+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:10.5951326+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:58:26.0234092+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:04:16.8489273+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:47:37.6454332+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:53:24.5340778+00:00"
 }

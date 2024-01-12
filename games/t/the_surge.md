@@ -1,16 +1,16 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.44 (Ranked 704)  
+Rating: 4.44 (Ranked 705)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On My Own Two Feet | 94.00% | ~5,068 |
-| I'll Be Back | 84.00% | ~4,528 |
-| Sorry, I Dropped This | 76.00% | ~4,097 |
-| First Day on the Job | 76.00% | ~4,097 |
-| Butcher's Bill | 54.00% | ~2,911 |
+| I'll Be Back | 84.00% | ~4,529 |
+| Sorry, I Dropped This | 76.00% | ~4,098 |
+| First Day on the Job | 76.00% | ~4,098 |
+| Butcher's Bill | 54.00% | ~2,912 |
 | P.A.X | 36.00% | ~1,941 |
 | Hey Listen | 36.00% | ~1,941 |
 | OPERATOR | 35.00% | ~1,887 |
@@ -19,8 +19,8 @@ Number of Ratings: 62  (23.09.2022)
 | Infidel | 23.00% | ~1,240 |
 | Firebug | 20.00% | ~1,078 |
 | GOLIATH | 20.00% | ~1,078 |
-| I Choose You | 17.00% | ~916 |
-| Nothing to Lose | 17.00% | ~916 |
+| I Choose You | 17.00% | ~917 |
+| Nothing to Lose | 17.00% | ~917 |
 | Big Sister | 15.00% | ~809 |
 | SENTINEL | 15.00% | ~809 |
 | Gear Up | 14.00% | ~755 |
@@ -42,8 +42,8 @@ Number of Ratings: 62  (23.09.2022)
 | Follow the White Rabbit | 7.00% | ~377 |
 | Liberation | 7.00% | ~377 |
 | Risk Assessment | 7.00% | ~377 |
-| Sunglasses at Night | 6.00% | ~323 |
-| Carbon Cat | 6.00% | ~323 |
+| Sunglasses at Night | 6.00% | ~324 |
+| Carbon Cat | 6.00% | ~324 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~270 |
 | Man of Steel | 5.00% | ~270 |
 | Jack of All Trades | 5.00% | ~270 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~32 |
 | The Surge | 0.40% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,391 (Ranked 204)  
+Progressed: 5,392 (Ranked 204)  
 Completed: 18 (0.33%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,9 +298,10 @@ Completed: 18 (0.33%) (Ranked 251)
 | 2024-01-09 | 5,358 | 18 |
 | 2024-01-10 | 5,379 | 18 |
 | 2024-01-11 | 5,391 | 18 |
+| 2024-01-12 | 5,392 | 18 |
 ## Awards
-Max (Great Boss Battles): 30  (Ranked 523)  
-Sum: 30 (Ranked 544)  
+Max (Great Boss Battles): 30  (Ranked 524)  
+Sum: 30 (Ranked 545)  
 Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |

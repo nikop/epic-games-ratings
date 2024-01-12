@@ -2,13 +2,13 @@
   "ID": "dda64c2956b54f1ba3cd97f6aaee775f",
   "Name": "Total War: WARHAMMER III",
   "ProductSlug": "total-war-warhammer-3",
-  "Ranking_Rating": 204,
+  "Ranking_Rating": 205,
   "Ranking_Popularity": 113,
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 583,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 582,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-02-17T06:00:00+00:00",
     "PcReleaseDate": "2022-02-17T06:00:00+00:00",
@@ -10061,6 +10061,6 @@
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
   "LastChanged": "2024-01-11T18:59:13.9354227+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:28.1096639+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:59:12.0356601+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:06:36.0396624+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:48:21.0911788+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:55:35.4089802+00:00"
 }

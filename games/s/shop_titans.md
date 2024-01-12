@@ -1,24 +1,24 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 4.00 (Ranked 1,049)  
+Rating: 4.00 (Ranked 1,050)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,585 |
-| Titan's First Steps | 11.00% | ~16,585 |
-| Basic in Bulk | 10.00% | ~15,077 |
+| Sponsored by Argon | 11.00% | ~16,586 |
+| Titan's First Steps | 11.00% | ~16,586 |
+| Basic in Bulk | 10.00% | ~15,078 |
 | Tinkle of Coins | 9.00% | ~13,570 |
-| Disintermediation | 8.00% | ~12,062 |
-| It's Free Real Estate | 7.00% | ~10,554 |
-| Capitalism Ho! | 7.00% | ~10,554 |
-| One Easy Payment | 6.00% | ~9,046 |
-| Some Assembly Required | 6.00% | ~9,046 |
-| Another Satisfied Customer | 6.00% | ~9,046 |
-| Pretty Penny | 6.00% | ~9,046 |
-| Budding Merchant | 6.00% | ~9,046 |
-| Own the Means of Production | 6.00% | ~9,046 |
+| Disintermediation | 8.00% | ~12,063 |
+| It's Free Real Estate | 7.00% | ~10,555 |
+| Capitalism Ho! | 7.00% | ~10,555 |
+| One Easy Payment | 6.00% | ~9,047 |
+| Some Assembly Required | 6.00% | ~9,047 |
+| Another Satisfied Customer | 6.00% | ~9,047 |
+| Pretty Penny | 6.00% | ~9,047 |
+| Budding Merchant | 6.00% | ~9,047 |
+| Own the Means of Production | 6.00% | ~9,047 |
 | One-Armed Bandit | 5.00% | ~7,539 |
 | Through Repetition, Perfection | 5.00% | ~7,539 |
 | The Daily Grind | 4.00% | ~6,031 |
@@ -54,53 +54,53 @@ Number of Ratings: 12,664  (23.09.2022)
 | Magical Harmony | 3.00% | ~4,523 |
 | Special Ingredient | 3.00% | ~4,523 |
 | Complete Monopoly | 3.00% | ~4,523 |
-| A Notch Above the Rest | 2.00% | ~3,015 |
-| Cream of the Crop | 2.00% | ~3,015 |
-| Top of the World | 2.00% | ~3,015 |
-| Proud Paladin | 2.00% | ~3,015 |
-| Above the Norm | 2.00% | ~3,015 |
-| Constellated | 2.00% | ~3,015 |
-| A Ronin Reborn | 2.00% | ~3,015 |
-| The King's Caprice | 2.00% | ~3,015 |
-| Thirst for Knowledge | 2.00% | ~3,015 |
-| Big Game Hunting | 2.00% | ~3,015 |
-| Booty by the Boatload | 2.00% | ~3,015 |
-| Archivist | 2.00% | ~3,015 |
-| Locally Sourced | 2.00% | ~3,015 |
-| Fillin' the Bin | 2.00% | ~3,015 |
-| Flying off the Shelves | 2.00% | ~3,015 |
-| Industrial Evolution | 2.00% | ~3,015 |
-| Omae wa Mou Shindeiru | 2.00% | ~3,015 |
-| Master of Transmutation | 2.00% | ~3,015 |
-| Hidden Potential | 2.00% | ~3,015 |
-| Supercharged | 2.00% | ~3,015 |
-| Ritualist | 2.00% | ~3,015 |
-| Cranked up to 11 | 2.00% | ~3,015 |
-| Fit for a King | 2.00% | ~3,015 |
-| By Your Powers Combined... | 2.00% | ~3,015 |
-| A Legend is Born | 2.00% | ~3,015 |
-| Mammonite | 2.00% | ~3,015 |
-| Wealth Beyond Measure | 2.00% | ~3,015 |
-| Fat Cat Tag Team | 2.00% | ~3,015 |
-| Necromancer Queen | 2.00% | ~3,015 |
-| Item of Renown | 2.00% | ~3,015 |
-| Master Merchant | 2.00% | ~3,015 |
-| Miracle Alchemist | 2.00% | ~3,015 |
-| Laden with Loot | 2.00% | ~3,015 |
-| Bountiful Harvest | 2.00% | ~3,015 |
-| Precision Engineering | 2.00% | ~3,015 |
-| Scourge of the Seas | 2.00% | ~3,015 |
-| Attrition Mission | 2.00% | ~3,015 |
-| Glittering Collection | 2.00% | ~3,015 |
-| Treasure Trove | 2.00% | ~3,015 |
-| Moment of Respite | 2.00% | ~3,015 |
-| Black Friday Special | 2.00% | ~3,015 |
-| King's Shadow | 2.00% | ~3,015 |
-| Master Recycler | 2.00% | ~3,015 |
-| All Accounted For | 2.00% | ~3,015 |
-| Exotic Commodities | 2.00% | ~3,015 |
-| Economy of Scarce | 2.00% | ~3,015 |
-| King's Blade | 2.00% | ~3,015 |
+| A Notch Above the Rest | 2.00% | ~3,016 |
+| Cream of the Crop | 2.00% | ~3,016 |
+| Top of the World | 2.00% | ~3,016 |
+| Proud Paladin | 2.00% | ~3,016 |
+| Above the Norm | 2.00% | ~3,016 |
+| Constellated | 2.00% | ~3,016 |
+| A Ronin Reborn | 2.00% | ~3,016 |
+| The King's Caprice | 2.00% | ~3,016 |
+| Thirst for Knowledge | 2.00% | ~3,016 |
+| Big Game Hunting | 2.00% | ~3,016 |
+| Booty by the Boatload | 2.00% | ~3,016 |
+| Archivist | 2.00% | ~3,016 |
+| Locally Sourced | 2.00% | ~3,016 |
+| Fillin' the Bin | 2.00% | ~3,016 |
+| Flying off the Shelves | 2.00% | ~3,016 |
+| Industrial Evolution | 2.00% | ~3,016 |
+| Omae wa Mou Shindeiru | 2.00% | ~3,016 |
+| Master of Transmutation | 2.00% | ~3,016 |
+| Hidden Potential | 2.00% | ~3,016 |
+| Supercharged | 2.00% | ~3,016 |
+| Ritualist | 2.00% | ~3,016 |
+| Cranked up to 11 | 2.00% | ~3,016 |
+| Fit for a King | 2.00% | ~3,016 |
+| By Your Powers Combined... | 2.00% | ~3,016 |
+| A Legend is Born | 2.00% | ~3,016 |
+| Mammonite | 2.00% | ~3,016 |
+| Wealth Beyond Measure | 2.00% | ~3,016 |
+| Fat Cat Tag Team | 2.00% | ~3,016 |
+| Necromancer Queen | 2.00% | ~3,016 |
+| Item of Renown | 2.00% | ~3,016 |
+| Master Merchant | 2.00% | ~3,016 |
+| Miracle Alchemist | 2.00% | ~3,016 |
+| Laden with Loot | 2.00% | ~3,016 |
+| Bountiful Harvest | 2.00% | ~3,016 |
+| Precision Engineering | 2.00% | ~3,016 |
+| Scourge of the Seas | 2.00% | ~3,016 |
+| Attrition Mission | 2.00% | ~3,016 |
+| Glittering Collection | 2.00% | ~3,016 |
+| Treasure Trove | 2.00% | ~3,016 |
+| Moment of Respite | 2.00% | ~3,016 |
+| Black Friday Special | 2.00% | ~3,016 |
+| King's Shadow | 2.00% | ~3,016 |
+| Master Recycler | 2.00% | ~3,016 |
+| All Accounted For | 2.00% | ~3,016 |
+| Exotic Commodities | 2.00% | ~3,016 |
+| Economy of Scarce | 2.00% | ~3,016 |
+| King's Blade | 2.00% | ~3,016 |
 | The Free Encyclopedia | 1.00% | ~1,508 |
 | Thank You Tom Nook | 1.00% | ~1,508 |
 | Jackpot! | 1.00% | ~1,508 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~603 |
 | Capitalist Camaraderie | 0.30% | ~452 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,774 (Ranked 86)  
+Progressed: 150,783 (Ranked 86)  
 Completed: 349 (0.23%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -386,7 +386,7 @@ Completed: 349 (0.23%) (Ranked 271)
 | 2024-01-09 | 150,487 | 345 |
 | 2024-01-10 | 150,626 | 348 |
 | 2024-01-11 | 150,768 | 349 |
-| 2024-01-12 | 150,774 | 349 |
+| 2024-01-12 | 150,783 | 349 |
 ## Awards
 Max (Great for Beginners): 4,952  (Ranked 78)  
 Sum: 27,979 (Ranked 52)  

@@ -2,13 +2,13 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 529,
+  "Ranking_Rating": 530,
   "Ranking_Popularity": 201,
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 157,
-  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2408,10 +2408,10 @@
     }
   ],
   "EOS_Progressed": 19400,
-  "EOS_Completed": 75,
-  "EOS_NewPlayers": 1051,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.39,
+  "EOS_Completed": 77,
+  "EOS_NewPlayers": 1042,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:18.653518+00:00",
@@ -20042,6 +20042,11 @@
       "Time": "2024-01-12T00:09:47.6111906+00:00",
       "NumProgressed": 19400,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-12T01:58:57.0411054+00:00",
+      "NumProgressed": 19400,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 35,
@@ -20163,9 +20168,9 @@
       "ID": "ACH15",
       "SetID": "4ck5mbe",
       "Name": "They Can\u2019t Stop All of Us",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 776
+      "UsersEstimate": 970
     },
     {
       "ID": "ACH16",
@@ -20333,15 +20338,15 @@
       "ID": "4ck5mbe",
       "IsBase": true,
       "Progressed": 19400,
-      "Completed": 75
+      "Completed": 77
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-11T23:02:41.0010814+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:09:47.6111904+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:58:57.0411049+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-12T00:02:45.882687+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:09:47.6113106+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:51:57.2131835+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:58:57.0412296+00:00"
 }

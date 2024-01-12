@@ -2,13 +2,13 @@
   "ID": "cc1d104767dc4a2fa22a44d487e2db64",
   "Name": "60 Seconds! Reatomized",
   "ProductSlug": "60-seconds-reatomized-91ffa3",
-  "Ranking_Rating": 594,
+  "Ranking_Rating": 595,
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
-  "Ranking_EOS_Progress": 201,
+  "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 364,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -293,7 +293,7 @@
   "Tags": [],
   "EOS_Progressed": 6245,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9854,8 +9854,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2024-01-09T19:57:35.8783744+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:04:42.4147888+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:53:48.9990313+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:25.5705631+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:58:41.6900715+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:04:42.4148844+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:47:52.3932397+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:53:48.999137+00:00"
 }

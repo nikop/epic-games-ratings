@@ -2,10 +2,10 @@
   "ID": "3a077bc4fa864985b8c0b343176226d2",
   "Name": "UFO ROBOT GRENDIZER - The Feast of the Wolves",
   "ProductSlug": "goldorak-d90cf1",
-  "Ranking_EOS_Progress": 518,
+  "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 375,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 384,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
     "PcReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 79,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -467,17 +467,17 @@
       "ID": "ACH_FIRSTLEGENDARYLOOT",
       "SetID": "ch874lb",
       "Name": "The Remains of Fleed",
-      "Percentage": 53,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_FIRSTMEDITATION",
       "SetID": "ch874lb",
       "Name": "Life of Pi",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_FIRSTSKINCHANGE",
@@ -539,9 +539,9 @@
       "ID": "ACH_LEGENDARYMATERIAL",
       "SetID": "ch874lb",
       "Name": "The Legend",
-      "Percentage": 53,
+      "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_PERFECTDODGE",
@@ -666,8 +666,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:03:43.6972551+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:52:52.8024358+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:49.9847922+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:58:35.1795707+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:03:43.6972851+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:47:46.2747003+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:52:52.8024603+00:00"
 }

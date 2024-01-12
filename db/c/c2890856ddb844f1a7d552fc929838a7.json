@@ -2,13 +2,13 @@
   "ID": "c2890856ddb844f1a7d552fc929838a7",
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
-  "Ranking_Rating": 51,
+  "Ranking_Rating": 52,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -305,7 +305,7 @@
   ],
   "EOS_Progressed": 2465,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5923,9 +5923,9 @@
       "ID": "AC10",
       "SetID": "l4abp0",
       "Name": "The Wait is Over",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 813
+      "UsersEstimate": 838
     },
     {
       "ID": "AC11",
@@ -5987,9 +5987,9 @@
       "ID": "AC18",
       "SetID": "l4abp0",
       "Name": "Acquired Taste",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 961
+      "UsersEstimate": 986
     },
     {
       "ID": "AC19",
@@ -6083,9 +6083,9 @@
       "ID": "AC30",
       "SetID": "l4abp0",
       "Name": "The Anointed One",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1208
     },
     {
       "ID": "AC31",
@@ -6220,8 +6220,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-11T21:01:32.4954396+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:04:50.5288336+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:53:56.7950147+00:00",
   "LastUpdate_AppInfo": "2024-01-10T04:57:09.7051995+00:00",
-  "LastUpdate_Ratings": "2024-01-12T00:00:10.0611861+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:04:50.5288986+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:49:15.8280741+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:53:56.7950711+00:00"
 }

@@ -1,20 +1,20 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.13 (Ranked 1,014)  
+Rating: 4.14 (Ranked 1,009)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 45.00% | ~38,884 |
-| More Power to You | 23.00% | ~19,874 |
-| As Far Away As Possible | 21.00% | ~18,146 |
-| A Most Unstable Organism | 14.00% | ~12,097 |
-| No Time to Follow Protocol | 9.00% | ~7,777 |
-| Nano Connoisseur | 7.00% | ~6,049 |
-| Float Like a Butterfly... | 7.00% | ~6,049 |
-| In Two Places At Once | 6.00% | ~5,184 |
-| Pulling Your Weight | 3.00% | ~2,592 |
-| Reaping Rivals | 3.00% | ~2,592 |
+| Your Lucky Day | 45.00% | ~38,893 |
+| More Power to You | 23.00% | ~19,879 |
+| As Far Away As Possible | 21.00% | ~18,150 |
+| A Most Unstable Organism | 14.00% | ~12,100 |
+| No Time to Follow Protocol | 9.00% | ~7,779 |
+| Nano Connoisseur | 7.00% | ~6,050 |
+| Float Like a Butterfly... | 7.00% | ~6,050 |
+| In Two Places At Once | 6.00% | ~5,186 |
+| Pulling Your Weight | 3.00% | ~2,593 |
+| Reaping Rivals | 3.00% | ~2,593 |
 | fifteenth Time's the Charm | 1.00% | ~864 |
 | Gone Rogue | 1.00% | ~864 |
 | Completely Customizable | 0.50% | ~432 |
@@ -22,7 +22,7 @@ Rating: 4.13 (Ranked 1,014)
 | Runs for Your Money | 0.30% | ~259 |
 | Past Master | 0.30% | ~259 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,408 (Ranked 107)  
+Progressed: 86,429 (Ranked 107)  
 Completed: 67 (0.08%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 67 (0.08%) (Ranked 324)
 | 2024-01-09 | 85,770 | 66 |
 | 2024-01-10 | 86,114 | 66 |
 | 2024-01-11 | 86,392 | 67 |
-| 2024-01-12 | 86,408 | 67 |
+| 2024-01-12 | 86,429 | 67 |
 ## Awards
 Max (Great for Beginners): 135  (Ranked 342)  
 Sum: 577 (Ranked 328)  
@@ -296,3 +296,4 @@ Diff (max vs sum): 14
 | 2024-01-09 | 4.13 | 134 | 573 |
 | 2024-01-10 | 4.14 | 134 | 576 |
 | 2024-01-11 | 4.13 | 135 | 577 |
+| 2024-01-12 | 4.14 | 135 | 577 |

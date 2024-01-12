@@ -4,8 +4,8 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 305,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.3,
   "EosHistory": [
@@ -811,9 +811,9 @@
       "ID": "03",
       "SetID": "6glb5g1",
       "Name": "In the treetops.",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 55
     },
     {
       "ID": "04",
@@ -924,8 +924,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:08:10.1962259+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:57:26.6828373+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:14.6676617+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:57:56.8687976+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:08:10.1962511+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:47:09.875591+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:57:26.6828497+00:00"
 }

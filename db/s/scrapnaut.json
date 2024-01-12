@@ -2,13 +2,13 @@
   "ID": "c1edd23d035a4df0bbc419f2d0fbb40d",
   "Name": "Scrapnaut",
   "ProductSlug": "scrapnaut",
-  "Ranking_Rating": 884,
+  "Ranking_Rating": 885,
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -2438,9 +2438,9 @@
       "ID": "ACH_FIND_10_TREASURES",
       "SetID": "7c4cldc",
       "Name": "Treasure Hunter",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_FIRST_BASE",
@@ -2567,8 +2567,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:09:09.788554+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:58:21.6423763+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2095998+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:58:11.4101559+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:09:09.7885912+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:47:23.5169431+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:58:21.6424089+00:00"
 }

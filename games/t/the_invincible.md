@@ -1,7 +1,7 @@
 # The Invincible
 [Store](https://store.epicgames.com/en-US/p/the-invincible)  
 [View Rawdata](../../db/t/the_invincible.json)  
-Rating: 4.53 (Ranked 565)  
+Rating: 4.53 (Ranked 566)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,7 +11,7 @@ Rating: 4.53 (Ranked 565)
 | The field base | 45.00% | ~736 |
 | The Alliance | 42.00% | ~687 |
 | Survivors | 40.00% | ~654 |
-| The Condor | 37.00% | ~605 |
+| The Condor | 38.00% | ~621 |
 | The End | 37.00% | ~605 |
 | The Necroevolution | 29.00% | ~474 |
 | Krauta is alive | 28.00% | ~458 |

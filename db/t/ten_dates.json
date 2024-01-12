@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
     "PcReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -1554,9 +1554,9 @@
       "ID": "misha_date3_all",
       "SetID": "6h5h9ho",
       "Name": "Keep the spark alive",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "profile_misha",
@@ -1691,8 +1691,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:09:29.0311431+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:58:39.8884552+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.8807214+00:00",
-  "LastUpdate_Ratings": "2024-01-12T00:00:01.3380147+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:09:29.0311637+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:49:08.1464237+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:58:39.8884746+00:00"
 }

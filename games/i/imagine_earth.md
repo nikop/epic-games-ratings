@@ -1,37 +1,37 @@
 # Imagine Earth
 [Store](https://store.epicgames.com/en-US/p/imagine-earth-7498e4)  
 [View Rawdata](../../db/i/imagine_earth.json)  
-Rating: 4.32 (Ranked 860)  
+Rating: 4.32 (Ranked 861)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tuto | 59.00% | ~265 |
-| Joma | 43.00% | ~193 |
-| Campaign Bronze | 35.00% | ~157 |
-| Lorian | 31.00% | ~139 |
-| Metropolis | 27.00% | ~121 |
+| Tuto | 59.00% | ~266 |
+| Joma | 42.00% | ~189 |
+| Campaign Bronze | 35.00% | ~158 |
+| Lorian | 31.00% | ~140 |
+| Metropolis | 27.00% | ~122 |
 | Rounos | 24.00% | ~108 |
 | Campaign Silver | 21.00% | ~94 |
 | Magni | 21.00% | ~94 |
 | Bora | 18.00% | ~81 |
-| Scientist | 15.00% | ~67 |
+| Scientist | 15.00% | ~68 |
 | Campaign Gold | 14.00% | ~63 |
 | Edora | 14.00% | ~63 |
 | Environmentalist | 12.00% | ~54 |
 | Iqunox | 9.00% | ~40 |
 | Udion Torix | 8.00% | ~36 |
-| Forester | 7.00% | ~31 |
+| Forester | 7.00% | ~32 |
 | Thera | 6.00% | ~27 |
 | Campaign Titanium | 5.00% | ~22 |
 | Builder | 4.00% | ~18 |
 | World Creator | 4.00% | ~18 |
-| Multitalent | 3.00% | ~13 |
+| Multitalent | 3.00% | ~14 |
 | Competitor Bronze | 0.40% | ~2 |
 | Competitor Silver | 0.20% | ~1 |
 | Competitor Gold | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449 (Ranked 363)  
+Progressed: 450 (Ranked 363)  
 Completed: 0 (0.00%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,6 +103,7 @@ Completed: 0 (0.00%) (Ranked 398)
 | 2024-01-05 | 447 | 0 |
 | 2024-01-09 | 448 | 0 |
 | 2024-01-10 | 449 | 0 |
+| 2024-01-12 | 450 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

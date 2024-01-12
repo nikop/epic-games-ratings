@@ -2,13 +2,13 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 1014,
+  "Ranking_Rating": 1009,
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.13,
+  "Rating": 4.14,
   "RatingHistory": [
     {
       "Time": "2023-09-09T22:00:06.1147594+00:00",
@@ -1681,6 +1681,12 @@
       "Rating": 4.13,
       "NumberOfAwards": 577,
       "NumberOfAwardsMax": 135
+    },
+    {
+      "Time": "2024-01-12T01:47:51.6618439+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 577,
+      "NumberOfAwardsMax": 135
     }
   ],
   "ReviewsDisabled": false,
@@ -1749,9 +1755,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 86408,
+  "EOS_Progressed": 86429,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 3174,
+  "EOS_NewPlayers": 3147,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -16364,6 +16370,11 @@
       "Time": "2024-01-12T00:03:37.1278899+00:00",
       "NumProgressed": 86408,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-12T01:52:46.6241338+00:00",
+      "NumProgressed": 86429,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -16376,7 +16387,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 38884
+      "UsersEstimate": 38893
     },
     {
       "ID": "10",
@@ -16392,7 +16403,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2592
+      "UsersEstimate": 2593
     },
     {
       "ID": "12",
@@ -16400,7 +16411,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2592
+      "UsersEstimate": 2593
     },
     {
       "ID": "13",
@@ -16416,7 +16427,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 6049
+      "UsersEstimate": 6050
     },
     {
       "ID": "15",
@@ -16440,7 +16451,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 18146
+      "UsersEstimate": 18150
     },
     {
       "ID": "3",
@@ -16448,7 +16459,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 12097
+      "UsersEstimate": 12100
     },
     {
       "ID": "4",
@@ -16456,7 +16467,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7777
+      "UsersEstimate": 7779
     },
     {
       "ID": "5",
@@ -16464,7 +16475,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 6049
+      "UsersEstimate": 6050
     },
     {
       "ID": "6",
@@ -16472,7 +16483,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5184
+      "UsersEstimate": 5186
     },
     {
       "ID": "7",
@@ -16480,7 +16491,7 @@
       "Name": "More Power to You",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 19874
+      "UsersEstimate": 19879
     },
     {
       "ID": "8",
@@ -16503,16 +16514,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 86408,
+      "Progressed": 86429,
       "Completed": 67
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2024-01-11T05:59:09.4334064+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:03:37.1278897+00:00",
+  "LastChanged": "2024-01-12T01:47:51.6618437+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:52:46.6241335+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:51.8643288+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:58:40.8611579+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:03:37.12799+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:47:51.6618443+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:52:46.6242281+00:00"
 }

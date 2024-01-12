@@ -1,25 +1,25 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 204)  
+Rating: 4.71 (Ranked 205)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Blacksmith's Son | 32.00% | ~261,444 |
-| Cavalier | 26.00% | ~212,423 |
+| Cavalier | 26.00% | ~212,424 |
 | Fatso | 23.00% | ~187,913 |
-| Awakening | 21.00% | ~171,572 |
-| Ranger | 20.00% | ~163,402 |
-| Scrooge | 20.00% | ~163,402 |
+| Awakening | 21.00% | ~171,573 |
+| Ranger | 20.00% | ~163,403 |
+| Scrooge | 20.00% | ~163,403 |
 | Anorectic | 16.00% | ~130,722 |
 | Firestarter | 16.00% | ~130,722 |
 | Bookworm | 15.00% | ~122,552 |
-| Insomniac | 13.00% | ~106,211 |
-| Buddy | 12.00% | ~98,041 |
-| Thief | 12.00% | ~98,041 |
-| Sinner | 11.00% | ~89,871 |
-| Traveller | 11.00% | ~89,871 |
+| Insomniac | 13.00% | ~106,212 |
+| Buddy | 12.00% | ~98,042 |
+| Thief | 12.00% | ~98,042 |
+| Sinner | 11.00% | ~89,872 |
+| Traveller | 11.00% | ~89,872 |
 | Convict | 10.00% | ~81,701 |
 | Haggler | 9.00% | ~73,531 |
 | McLovin | 7.00% | ~57,191 |
@@ -28,9 +28,9 @@ Number of Ratings: 9,133  (23.09.2022)
 | Bad Trip | 5.00% | ~40,851 |
 | Monk | 5.00% | ~40,851 |
 | Serial Killer | 5.00% | ~40,851 |
-| Bastard | 4.00% | ~32,680 |
-| Hunter | 4.00% | ~32,680 |
-| Plague Doctor | 4.00% | ~32,680 |
+| Bastard | 4.00% | ~32,681 |
+| Hunter | 4.00% | ~32,681 |
+| Plague Doctor | 4.00% | ~32,681 |
 | Bard | 3.00% | ~24,510 |
 | Conqueror | 3.00% | ~24,510 |
 | Ginger in a Pickle | 3.00% | ~24,510 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~817 |
 | Wingman | 0.10% | ~817 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 817,011 (Ranked 20)  
+Progressed: 817,014 (Ranked 20)  
 Completed: 53 (0.01%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,7 +356,7 @@ Completed: 53 (0.01%) (Ranked 374)
 | 2024-01-09 | 816,764 | 53 |
 | 2024-01-10 | 816,875 | 53 |
 | 2024-01-11 | 817,003 | 53 |
-| 2024-01-12 | 817,011 | 53 |
+| 2024-01-12 | 817,014 | 53 |
 ## Awards
 Max (Character Customization): 7,771  (Ranked 54)  
 Sum: 28,819 (Ranked 50)  

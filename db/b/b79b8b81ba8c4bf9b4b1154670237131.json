@@ -2,13 +2,13 @@
   "ID": "b79b8b81ba8c4bf9b4b1154670237131",
   "Name": "Invincible Presents: Atom Eve",
   "ProductSlug": "atom-eve-ff090d",
-  "Ranking_Rating": 866,
+  "Ranking_Rating": 868,
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16597,
+  "EOS_Progressed": 16598,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6415,6 +6415,11 @@
       "Time": "2024-01-12T00:09:20.1326843+00:00",
       "NumProgressed": 16597,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-12T01:58:31.6900826+00:00",
+      "NumProgressed": 16598,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6467,7 +6472,7 @@
       "Name": "Sticky Situation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3319
+      "UsersEstimate": 3320
     },
     {
       "ID": "ACH_AE_15",
@@ -6475,7 +6480,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3651
+      "UsersEstimate": 3652
     },
     {
       "ID": "ACH_AE_16",
@@ -6515,7 +6520,7 @@
       "Name": "Back to School",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "ACH_AE_20",
@@ -6539,7 +6544,7 @@
       "Name": "The High Road",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "ACH_AE_23",
@@ -6706,7 +6711,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16597,
+      "Progressed": 16598,
       "Completed": 15
     }
   ],
@@ -6714,8 +6719,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-06T19:57:04.811996+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:09:20.1326841+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:58:31.6900823+00:00",
   "LastUpdate_AppInfo": "2024-01-09T19:56:59.6965527+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:59:37.1040453+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:09:20.1327301+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:48:45.8851105+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:58:31.6901372+00:00"
 }

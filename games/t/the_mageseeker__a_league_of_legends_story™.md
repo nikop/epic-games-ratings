@@ -1,15 +1,15 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.77 (Ranked 117)  
+Rating: 4.77 (Ranked 118)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | For Demacia | 95.00% | ~3,254 |
 | No more cages! | 90.00% | ~3,082 |
 | Everfrost | 77.00% | ~2,637 |
+| Pentakill | 76.00% | ~2,603 |
 | Dark Forest | 76.00% | ~2,603 |
-| Pentakill | 75.00% | ~2,569 |
 | The use of petricite | 73.00% | ~2,500 |
 | You can pet the dog | 60.00% | ~2,055 |
 | Thornbarrow | 44.00% | ~1,507 |

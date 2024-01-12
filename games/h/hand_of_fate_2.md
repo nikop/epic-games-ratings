@@ -1,19 +1,19 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.55 (Ranked 529)  
+Rating: 4.55 (Ranked 530)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~480,398 |
-| Apprentice | 58.00% | ~386,987 |
-| Close Shave | 25.00% | ~166,805 |
-| Mercenary | 23.00% | ~153,460 |
-| Ninja | 23.00% | ~153,460 |
-| Northern Scourge | 17.00% | ~113,427 |
+| The Fool | 72.00% | ~480,400 |
+| Apprentice | 58.00% | ~386,989 |
+| Close Shave | 25.00% | ~166,806 |
+| Mercenary | 23.00% | ~153,461 |
+| Ninja | 23.00% | ~153,461 |
+| Northern Scourge | 17.00% | ~113,428 |
 | Thief Bane | 14.00% | ~93,411 |
-| Master of Arms | 12.00% | ~80,066 |
+| Master of Arms | 12.00% | ~80,067 |
 | Gambler | 10.00% | ~66,722 |
 | Dice Master | 10.00% | ~66,722 |
 | Swordsman | 9.00% | ~60,050 |
@@ -21,9 +21,9 @@ Number of Ratings: 780  (23.09.2022)
 | Cure for Corruption | 8.00% | ~53,378 |
 | Focused | 8.00% | ~53,378 |
 | Flurry of Fury | 8.00% | ~53,378 |
-| Long Shot | 7.00% | ~46,705 |
-| Devil Dice | 7.00% | ~46,705 |
-| Broken Heart | 7.00% | ~46,705 |
+| Long Shot | 7.00% | ~46,706 |
+| Devil Dice | 7.00% | ~46,706 |
+| Broken Heart | 7.00% | ~46,706 |
 | Adventurer | 6.00% | ~40,033 |
 | Empire's Bane | 6.00% | ~40,033 |
 | Jack of all Trades | 5.00% | ~33,361 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~667 |
 | Blood Pact | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667,219 (Ranked 31)  
+Progressed: 667,222 (Ranked 31)  
 Completed: 174 (0.03%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 174 (0.03%) (Ranked 356)
 | 2024-01-09 | 667,143 | 174 |
 | 2024-01-10 | 667,182 | 174 |
 | 2024-01-11 | 667,218 | 174 |
-| 2024-01-12 | 667,219 | 174 |
+| 2024-01-12 | 667,222 | 174 |
 ## Awards
 Max (Amazing Storytelling): 36  (Ranked 499)  
 Sum: 196 (Ranked 419)  

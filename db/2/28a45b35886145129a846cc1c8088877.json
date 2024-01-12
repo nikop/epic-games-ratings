@@ -2,13 +2,13 @@
   "ID": "28a45b35886145129a846cc1c8088877",
   "Name": "Mortal Online 2",
   "ProductSlug": "mortal-online-2-d7bb78",
-  "Ranking_Rating": 752,
-  "Ranking_Popularity": 523,
-  "Ranking_PopularitySum": 544,
+  "Ranking_Rating": 725,
+  "Ranking_Popularity": 521,
+  "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 583,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 582,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-11T11:00:00+00:00",
     "PcReleaseDate": "2023-12-11T11:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.41,
+  "Rating": 4.43,
   "RatingHistory": [
     {
       "Time": "2023-12-21T16:59:51.7204837+00:00",
@@ -155,18 +155,24 @@
       "Rating": 4.41,
       "NumberOfAwards": 30,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2024-01-12T01:47:19.2401927+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 31,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30,
-  "NumberOfAwardsMax": 30,
+  "NumberOfAwards": 31,
+  "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 30
+      "Count": 31
     }
   ],
   "EOS_Progressed": 0,
@@ -181,8 +187,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-11T20:58:55.3583755+00:00",
   "FirstSeenRating": "2023-12-21T16:59:51.7204834+00:00",
-  "LastChanged": "2024-01-11T19:58:56.8395174+00:00",
+  "LastChanged": "2024-01-12T01:47:19.2401925+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.4971293+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:58:06.9241931+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:06:42.1272968+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:47:19.240193+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:55:40.9514589+00:00"
 }

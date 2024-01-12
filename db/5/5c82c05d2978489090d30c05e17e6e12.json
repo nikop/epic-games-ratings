@@ -2,13 +2,13 @@
   "ID": "5c82c05d2978489090d30c05e17e6e12",
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
-  "Ranking_Rating": 983,
+  "Ranking_Rating": 984,
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74593,
+  "EOS_Progressed": 74610,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 1473,
+  "EOS_NewPlayers": 1472,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -6974,6 +6974,11 @@
       "Time": "2024-01-12T00:08:21.9735984+00:00",
       "NumProgressed": 74593,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2024-01-12T01:57:37.2834095+00:00",
+      "NumProgressed": 74610,
+      "NumCompleted": 120
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -6986,7 +6991,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27599
+      "UsersEstimate": 27606
     },
     {
       "ID": "Achievement_10",
@@ -7074,7 +7079,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20886
+      "UsersEstimate": 20891
     },
     {
       "ID": "Achievement_20",
@@ -7162,7 +7167,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8951
+      "UsersEstimate": 8953
     },
     {
       "ID": "Achievement_30",
@@ -7210,7 +7215,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6713
+      "UsersEstimate": 6715
     },
     {
       "ID": "Achievement_5",
@@ -7218,7 +7223,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5222
+      "UsersEstimate": 5223
     },
     {
       "ID": "Achievement_6",
@@ -7257,7 +7262,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 74593,
+      "Progressed": 74610,
       "Completed": 120
     }
   ],
@@ -7265,8 +7270,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-09T18:03:16.5676566+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:08:21.9735982+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:57:37.2834091+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:28.0983464+00:00",
-  "LastUpdate_Ratings": "2024-01-12T00:03:06.2019325+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:08:21.9736668+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:52:16.9762093+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:57:37.2834636+00:00"
 }

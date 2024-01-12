@@ -1,57 +1,57 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.55 (Ranked 529)  
+Rating: 4.55 (Ranked 530)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~41,896 |
-| First Steps | 80.00% | ~36,039 |
-| Control the Shadows | 67.00% | ~30,183 |
-| Tools of the Trade | 63.00% | ~28,381 |
-| Apprentice | 60.00% | ~27,029 |
-| Secret Seeker | 57.00% | ~25,678 |
-| Forge of Assassins | 55.00% | ~24,777 |
-| Revenant | 52.00% | ~23,425 |
-| I don’t Care! | 45.00% | ~20,272 |
-| Bird of Prey | 37.00% | ~16,668 |
+| Awakening | 93.00% | ~41,897 |
+| First Steps | 80.00% | ~36,041 |
+| Control the Shadows | 67.00% | ~30,184 |
+| Tools of the Trade | 63.00% | ~28,382 |
+| Apprentice | 60.00% | ~27,031 |
+| Secret Seeker | 57.00% | ~25,679 |
+| Forge of Assassins | 55.00% | ~24,778 |
+| Revenant | 52.00% | ~23,427 |
+| I don’t Care! | 45.00% | ~20,273 |
+| Bird of Prey | 37.00% | ~16,669 |
 | Engraved with Power | 32.00% | ~14,416 |
-| Lady | 31.00% | ~13,965 |
-| Fashionable Assassin | 27.00% | ~12,163 |
+| Lady | 31.00% | ~13,966 |
+| Fashionable Assassin | 27.00% | ~12,164 |
 | Apex Predator | 24.00% | ~10,812 |
-| Soul Reaver | 23.00% | ~10,361 |
+| Soul Reaver | 23.00% | ~10,362 |
 | Embers | 22.00% | ~9,911 |
 | Wall Lizard | 20.00% | ~9,010 |
 | Clinging to Life | 18.00% | ~8,109 |
-| Burning | 17.00% | ~7,658 |
-| Look Behind You | 17.00% | ~7,658 |
+| Burning | 17.00% | ~7,659 |
+| Look Behind You | 17.00% | ~7,659 |
 | Sleeping on the Job | 16.00% | ~7,208 |
 | Family | 14.00% | ~6,307 |
 | War Engines | 14.00% | ~6,307 |
 | Signature Move | 14.00% | ~6,307 |
 | Ruse | 12.00% | ~5,406 |
-| Master Ninja | 11.00% | ~4,955 |
+| Master Ninja | 11.00% | ~4,956 |
 | Hatching | 10.00% | ~4,505 |
-| Bonds | 9.00% | ~4,054 |
-| Get Over Here | 9.00% | ~4,054 |
-| The Hidden Village | 9.00% | ~4,054 |
+| Bonds | 9.00% | ~4,055 |
+| Get Over Here | 9.00% | ~4,055 |
+| The Hidden Village | 9.00% | ~4,055 |
 | Denouement | 8.00% | ~3,604 |
 | A Pleasant Stay | 8.00% | ~3,604 |
-| Pilgrimage | 7.00% | ~3,153 |
-| The Lookout | 5.00% | ~2,252 |
-| The Spirit of Vengeance | 5.00% | ~2,252 |
-| Hollow | 5.00% | ~2,252 |
+| Pilgrimage | 7.00% | ~3,154 |
+| The Lookout | 5.00% | ~2,253 |
+| The Spirit of Vengeance | 5.00% | ~2,253 |
+| Hollow | 5.00% | ~2,253 |
 | Left Behind | 4.00% | ~1,802 |
 | Secrets of the Earth | 4.00% | ~1,802 |
 | Heart of Fire | 4.00% | ~1,802 |
-| The Lion’s Den | 3.00% | ~1,351 |
-| Forest Spirits | 3.00% | ~1,351 |
+| The Lion’s Den | 3.00% | ~1,352 |
+| Forest Spirits | 3.00% | ~1,352 |
 | Hot Potato | 2.00% | ~901 |
 | Anger Management | 2.00% | ~901 |
 | Legacy | 2.00% | ~901 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,049 (Ranked 128)  
+Progressed: 45,051 (Ranked 128)  
 Completed: 248 (0.55%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,6 +318,7 @@ Completed: 248 (0.55%) (Ranked 217)
 | 2024-01-09 | 45,019 | 248 |
 | 2024-01-10 | 45,036 | 248 |
 | 2024-01-11 | 45,049 | 248 |
+| 2024-01-12 | 45,051 | 248 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

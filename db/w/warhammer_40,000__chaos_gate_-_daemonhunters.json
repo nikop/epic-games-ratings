@@ -2,13 +2,13 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 470,
+  "Ranking_Rating": 471,
   "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -843,9 +843,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3880,
+  "EOS_Progressed": 3883,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5913,6 +5913,11 @@
       "Time": "2024-01-11T19:05:40.7082796+00:00",
       "NumProgressed": 3880,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T01:54:59.8238129+00:00",
+      "NumProgressed": 3883,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -6260,7 +6265,7 @@
       "Name": "Bloodless",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -6467,21 +6472,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3880,
+      "Progressed": 3883,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3880,
+      "Progressed": 3883,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-11T05:03:08.5740841+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:05:57.8710876+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:54:59.8238126+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:54.2702622+00:00",
-  "LastUpdate_Ratings": "2024-01-12T00:03:13.3236548+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:05:57.871158+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:52:23.0886611+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:54:59.8238873+00:00"
 }

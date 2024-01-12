@@ -2,10 +2,10 @@
   "ID": "9a3407ecc4744962bc0571e024d6c6ea",
   "Name": "Fort Solis",
   "ProductSlug": "fort-solis-9164ca",
-  "Ranking_EOS_Progress": 278,
+  "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1334,
+  "EOS_Progressed": 1335,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -3894,6 +3894,11 @@
       "Time": "2024-01-11T22:10:41.8550684+00:00",
       "NumProgressed": 1334,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-12T01:58:51.6175118+00:00",
+      "NumProgressed": 1335,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -3906,7 +3911,7 @@
       "Name": "A Better Tomorrow",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "BostonHayDay",
@@ -3922,7 +3927,7 @@
       "Name": "Boxing Clever",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "Cartographer",
@@ -3930,7 +3935,7 @@
       "Name": "Cartographer",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "Causality",
@@ -3946,7 +3951,7 @@
       "Name": "Congratulations, you\u0027re an engineer",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "DarkestBeforeTheDawn",
@@ -3962,7 +3967,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "DustDancing",
@@ -4002,7 +4007,7 @@
       "Name": "Once more into the Breach",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "Outpatient",
@@ -4010,7 +4015,7 @@
       "Name": "Outpatient",
       "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "Relic",
@@ -4042,7 +4047,7 @@
       "Name": "The Safety of Disbelief",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "TragedyDocumented",
@@ -4065,14 +4070,14 @@
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1334,
+      "Progressed": 1335,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:09:41.8401257+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:58:51.6175115+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:03.1590179+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:59:53.471972+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:09:41.8401492+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:49:00.8256691+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:58:51.6175417+00:00"
 }

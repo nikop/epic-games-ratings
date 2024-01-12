@@ -1,12 +1,12 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.68 (Ranked 1,095)  
+Rating: 3.68 (Ranked 1,096)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 22.00% | ~521 |
-| Catch and Release | 17.00% | ~402 |
+| Catch and Release | 17.00% | ~403 |
 | Home Is Where the Heart Is | 16.00% | ~379 |
 | ICU | 15.00% | ~355 |
 | Wounded Whispers | 15.00% | ~355 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,095)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,367 (Ranked 242)  
+Progressed: 2,368 (Ranked 242)  
 Completed: 0 (0.00%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 0 (0.00%) (Ranked 398)
 | 2024-01-09 | 2,331 | 0 |
 | 2024-01-10 | 2,353 | 0 |
 | 2024-01-11 | 2,366 | 0 |
-| 2024-01-12 | 2,367 | 0 |
+| 2024-01-12 | 2,368 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 555)  
 Sum: 24 (Ranked 562)  

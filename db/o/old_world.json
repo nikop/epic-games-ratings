@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2250,9 +2250,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16463,
+  "EOS_Progressed": 16474,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 343,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19660,6 +19660,11 @@
       "Time": "2024-01-12T00:10:01.1734825+00:00",
       "NumProgressed": 16463,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-12T01:59:09.9649799+00:00",
+      "NumProgressed": 16474,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19717,9 +19722,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_ANOTHER_LEADER",
       "SetID": "9201eeb",
       "Name": "Regicide",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 165
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
@@ -21581,9 +21586,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED",
       "SetID": "9201eeb",
       "Name": "Capturing Cities",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME",
@@ -21949,9 +21954,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
       "SetID": "9201eeb",
       "Name": "The Clergy",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -22534,21 +22539,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16463,
+      "Progressed": 16474,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16463,
+      "Progressed": 16474,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-11T21:59:00.3473334+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:10:01.1734823+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:59:09.9649795+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:58:13.7414283+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:10:01.1744822+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:47:25.6161215+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:59:09.9662694+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 68,
+  "Ranking_Rating": 69,
   "Ranking_Popularity": 233,
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3837,10 +3837,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3371,
       "NumberOfAwardsMax": 452
+    },
+    {
+      "Time": "2024-01-12T01:48:19.2884448+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3372,
+      "NumberOfAwardsMax": 452
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3371,
+  "NumberOfAwards": 3372,
   "NumberOfAwardsMax": 452,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3866,7 +3872,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 420
+      "Count": 421
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3905,9 +3911,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 20700,
+  "EOS_Progressed": 20703,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 556,
+  "EOS_NewPlayers": 554,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19340,6 +19346,11 @@
       "Time": "2024-01-11T23:05:26.8073875+00:00",
       "NumProgressed": 20700,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-12T01:54:37.1176159+00:00",
+      "NumProgressed": 20703,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19823,15 +19834,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20700,
+      "Progressed": 20703,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-11T18:59:12.0102616+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:05:33.2935663+00:00",
+  "LastChanged": "2024-01-12T01:48:19.2884447+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:54:37.1176156+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:59:10.3846311+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:05:33.2936668+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:48:19.2884453+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:54:37.1177196+00:00"
 }

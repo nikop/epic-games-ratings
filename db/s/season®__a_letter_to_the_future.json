@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2097,
+  "EOS_Progressed": 2098,
   "EOS_Completed": 78,
   "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 5,
@@ -4949,6 +4949,11 @@
       "Time": "2024-01-12T00:09:40.6372248+00:00",
       "NumProgressed": 2097,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2024-01-12T01:58:50.6885735+00:00",
+      "NumProgressed": 2098,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 16,
@@ -4968,7 +4973,7 @@
       "Name": "Deep Listener",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -5040,7 +5045,7 @@
       "Name": "Music for Cows",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACH_OUTSIDEWORLDSEER",
@@ -5048,7 +5053,7 @@
       "Name": "Outside World Seer",
       "Percentage": 59,
       "XP": 40,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -5087,7 +5092,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 2097,
+      "Progressed": 2098,
       "Completed": 78
     }
   ],
@@ -5095,8 +5100,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:09:40.6372245+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:58:50.6885733+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:30.8878388+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:57:32.030464+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:09:40.637266+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:46:46.8990565+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:58:50.6886024+00:00"
 }

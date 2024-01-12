@@ -2,13 +2,13 @@
   "ID": "fc3ec7982b584a4291d7943204ea424b",
   "Name": "Assassin\u0027s Creed Chronicles: India",
   "ProductSlug": "assassins-creed-chronicles-india",
-  "Ranking_Rating": 738,
+  "Ranking_Rating": 740,
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 583,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 582,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-26T15:00:00+00:00",
     "PcReleaseDate": "2016-01-12T15:00:00+00:00",
@@ -89,6 +89,6 @@
   "FirstSeenRating": "2023-03-31T05:57:27.3356521+00:00",
   "LastChanged": "2024-01-07T14:00:13.1757312+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9709879+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:58:48.9162031+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:06:18.286799+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:47:58.4503218+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:55:19.0463026+00:00"
 }

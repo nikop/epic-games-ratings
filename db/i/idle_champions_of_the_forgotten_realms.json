@@ -2,11 +2,11 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1037,
+  "Ranking_Rating": 1038,
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
-  "Ranking_EOS_Completed": 177,
+  "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
@@ -9493,9 +9493,9 @@
       "Count": 3635
     }
   ],
-  "EOS_Progressed": 253427,
+  "EOS_Progressed": 253446,
   "EOS_Completed": 2614,
-  "EOS_NewPlayers": 2274,
+  "EOS_NewPlayers": 2241,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39708,6 +39708,11 @@
       "Time": "2024-01-12T00:10:02.1940187+00:00",
       "NumProgressed": 253427,
       "NumCompleted": 2614
+    },
+    {
+      "Time": "2024-01-12T01:59:10.5460185+00:00",
+      "NumProgressed": 253446,
+      "NumCompleted": 2614
     }
   ],
   "TotalAchievements": 546,
@@ -39719,7 +39724,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10137
+      "UsersEstimate": 10138
     },
     {
       "ID": "objective_completed_10",
@@ -40583,7 +40588,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2028
     },
     {
       "ID": "objective_completed_1203",
@@ -44086,21 +44091,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219701,
+      "Progressed": 219720,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253427,
+      "Progressed": 253446,
       "Completed": 2614
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-11T23:58:59.1066648+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:10:02.1940186+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:59:10.5460181+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:58:59.1066656+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:10:02.1964751+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:48:08.0725806+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:59:10.5490344+00:00"
 }

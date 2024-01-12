@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 21.00% | ~33 |
-| Tinkerer | 16.00% | ~25 |
-| Welcome to the Club | 11.00% | ~17 |
+| Self-Defence | 20.00% | ~32 |
+| Tinkerer | 16.00% | ~26 |
+| Welcome to the Club | 11.00% | ~18 |
 | A new World ahead | 9.00% | ~14 |
 | Don't Cry Wolf | 8.00% | ~13 |
 | Apprentice | 5.00% | ~8 |
@@ -14,12 +14,12 @@
 | Locked and Loaded | 4.00% | ~6 |
 | Defeat Tezuth | 3.00% | ~5 |
 | Freezing Cold | 3.00% | ~5 |
-| Searing Heat | 3.00% | ~5 |
-| Witch | 3.00% | ~5 |
-| The A-Team | 3.00% | ~5 |
 | Expert | 3.00% | ~5 |
 | The Golden Flash | 3.00% | ~5 |
+| Searing Heat | 2.00% | ~3 |
+| Witch | 2.00% | ~3 |
 | Can't touch this | 2.00% | ~3 |
+| The A-Team | 2.00% | ~3 |
 | Changing the World | 2.00% | ~3 |
 | Mirror, Mirror on the Wall | 1.00% | ~2 |
 | Defeat Ingla | 1.00% | ~2 |
@@ -57,7 +57,7 @@
 | Whispers of the Sand | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159 (Ranked 455)  
+Progressed: 161 (Ranked 454)  
 Completed: 0 (0.00%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,6 +166,7 @@ Completed: 0 (0.00%) (Ranked 398)
 | 2024-01-09 | 155 | 0 |
 | 2024-01-10 | 157 | 0 |
 | 2024-01-11 | 159 | 0 |
+| 2024-01-12 | 161 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2884,
+  "EOS_Progressed": 2887,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7819,6 +7819,11 @@
       "Time": "2024-01-11T23:09:52.8460149+00:00",
       "NumProgressed": 2884,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T01:59:06.1849433+00:00",
+      "NumProgressed": 2887,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7927,7 +7932,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "achievement_21",
@@ -7965,9 +7970,9 @@
       "ID": "achievement_25",
       "SetID": "271ol84",
       "Name": "A tremor in the Force",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_26",
@@ -7975,7 +7980,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "achievement_27",
@@ -8055,7 +8060,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2480
+      "UsersEstimate": 2483
     },
     {
       "ID": "achievement_36",
@@ -8071,7 +8076,7 @@
       "Name": "Off to a good start",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1759
+      "UsersEstimate": 1761
     },
     {
       "ID": "achievement_38",
@@ -8095,7 +8100,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "achievement_40",
@@ -8103,7 +8108,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "achievement_41",
@@ -8135,7 +8140,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "achievement_45",
@@ -8334,13 +8339,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2884,
+      "Progressed": 2887,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2884,
+      "Progressed": 2887,
       "Completed": 1
     }
   ],
@@ -8348,8 +8353,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:09:57.3913456+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:59:06.1849431+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-12T00:00:02.7321905+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:09:57.3914182+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:49:09.2646235+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:59:06.1850379+00:00"
 }

@@ -1,7 +1,7 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.26 (Ranked 917)  
+Rating: 4.26 (Ranked 918)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,7 +20,7 @@ Rating: 4.26 (Ranked 917)
 | True Survivor | 21.00% | ~540 |
 | It's a Trap | 21.00% | ~540 |
 | Offensive Defense | 20.00% | ~514 |
-| Shocking | 19.00% | ~488 |
+| Shocking | 20.00% | ~514 |
 | Unforeseeable Consequences | 19.00% | ~488 |
 | Court Martial | 18.00% | ~463 |
 | Clean Cut | 18.00% | ~463 |

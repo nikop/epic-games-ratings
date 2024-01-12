@@ -4,8 +4,8 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -1205,9 +1205,9 @@
       "ID": "TINGWD_CHAP_END_05",
       "SetID": "c0imaa6",
       "Name": "It\u0027s not over yet",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "TINGWD_CHAP_END_06",
@@ -1261,9 +1261,9 @@
       "ID": "TINGWD_HEADSHOT",
       "SetID": "c0imaa6",
       "Name": "Headshot",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "TINGWD_HONEY",
@@ -1293,9 +1293,9 @@
       "ID": "TINGWD_OUTBOX",
       "SetID": "c0imaa6",
       "Name": "Outside the box",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "TINGWD_PERPETUITY",
@@ -1388,8 +1388,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:05:00.2256548+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:54:06.2519114+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.2042305+00:00",
-  "LastUpdate_Ratings": "2024-01-12T00:02:37.5779035+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:05:00.2256855+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:51:49.5568169+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:54:06.2519384+00:00"
 }

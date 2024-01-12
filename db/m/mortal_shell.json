@@ -2,13 +2,13 @@
   "ID": "ff8c96d781824ba1ae62d18d207fc52e",
   "Name": "Mortal Shell",
   "ProductSlug": "mortal-shell",
-  "Ranking_Rating": 906,
-  "Ranking_Popularity": 578,
+  "Ranking_Rating": 907,
+  "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 583,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 582,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-08-18T12:00:00+00:00",
     "PcReleaseDate": "2020-08-18T12:00:00+00:00",
@@ -649,11 +649,17 @@
       "Rating": 4.27,
       "NumberOfAwards": 40,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2024-01-12T01:52:12.7373152+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 41,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40,
-  "NumberOfAwardsMax": 20,
+  "NumberOfAwards": 41,
+  "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -672,7 +678,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -686,8 +692,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:45.0826323+00:00",
-  "LastChanged": "2023-12-30T07:02:52.9259823+00:00",
+  "LastChanged": "2024-01-12T01:52:12.7373151+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:45.851802+00:00",
-  "LastUpdate_Ratings": "2024-01-12T00:03:01.7516467+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:06:07.2310806+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:52:12.7373163+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:55:08.766206+00:00"
 }

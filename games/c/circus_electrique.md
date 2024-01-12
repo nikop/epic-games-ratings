@@ -1,20 +1,20 @@
 # Circus Electrique
 [Store](https://store.epicgames.com/en-US/p/circus-electrique)  
 [View Rawdata](../../db/c/circus_electrique.json)  
-Rating: 4.16 (Ranked 991)  
+Rating: 4.16 (Ranked 992)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self Defense | 49.00% | ~250 |
+| Self Defense | 49.00% | ~251 |
 | Circus Electrique Proudly Presents... | 44.00% | ~225 |
 | Grand Opening | 43.00% | ~220 |
 | Path of Learning | 43.00% | ~220 |
 | Built in a Day | 35.00% | ~179 |
-| More Brain Than Brawn | 31.00% | ~158 |
+| More Brain Than Brawn | 31.00% | ~159 |
 | Perfect Illusion | 25.00% | ~128 |
 | Hundred Percent First | 25.00% | ~128 |
-| Dirty Dozen | 21.00% | ~107 |
+| Dirty Dozen | 21.00% | ~108 |
 | Fan Service | 19.00% | ~97 |
 | Lion Tamer | 18.00% | ~92 |
 | Amazing! | 17.00% | ~87 |
@@ -23,7 +23,7 @@ Number of Ratings: 22  (23.09.2022)
 | Bar Brawler | 15.00% | ~77 |
 | Flawless Presentation | 15.00% | ~77 |
 | One More Thing... | 14.00% | ~72 |
-| King of District 2 | 13.00% | ~66 |
+| King of District 2 | 13.00% | ~67 |
 | Time Travel! | 12.00% | ~61 |
 | Marketing Manager | 11.00% | ~56 |
 | Circus Versus Circus | 9.00% | ~46 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.40% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 511 (Ranked 354)  
+Progressed: 512 (Ranked 353)  
 Completed: 1 (0.20%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,6 +135,7 @@ Completed: 1 (0.20%) (Ranked 278)
 | 2024-01-08 | 508 | 1 |
 | 2024-01-10 | 509 | 1 |
 | 2024-01-11 | 511 | 1 |
+| 2024-01-12 | 512 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

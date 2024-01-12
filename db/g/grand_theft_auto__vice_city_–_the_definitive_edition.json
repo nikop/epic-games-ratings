@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 577,
+  "Ranking_Rating": 578,
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 171,
@@ -1056,9 +1056,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16264,
+  "EOS_Progressed": 16265,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 891,
+  "EOS_NewPlayers": 882,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -17851,6 +17851,11 @@
       "Time": "2024-01-12T00:09:35.512006+00:00",
       "NumProgressed": 16264,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2024-01-12T01:58:46.0035823+00:00",
+      "NumProgressed": 16265,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 34,
@@ -17934,7 +17939,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "ACH11",
@@ -18022,7 +18027,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7644
+      "UsersEstimate": 7645
     },
     {
       "ID": "ACH22",
@@ -18030,7 +18035,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3415
+      "UsersEstimate": 3416
     },
     {
       "ID": "ACH23",
@@ -18133,7 +18138,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16264,
+      "Progressed": 16265,
       "Completed": 96
     }
   ],
@@ -18141,8 +18146,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-03T02:18:34.6735113+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:09:35.5120058+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:58:46.0035821+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:12.9251558+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:58:18.0328935+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:09:35.5121013+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:47:29.639564+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:58:46.003663+00:00"
 }

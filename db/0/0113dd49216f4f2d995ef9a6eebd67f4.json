@@ -2,10 +2,10 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 414,
+  "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 398,
   "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 270,
+  "EOS_Progressed": 271,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -1214,6 +1214,11 @@
       "Time": "2024-01-11T19:09:08.8217707+00:00",
       "NumProgressed": 270,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T01:58:03.5574154+00:00",
+      "NumProgressed": 271,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1296,9 +1301,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 195
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1330,7 +1335,7 @@
       "Name": "Heartbreaker",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
@@ -1362,7 +1367,7 @@
       "Name": "Meant To Be",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -1378,7 +1383,7 @@
       "Name": "Not A Lost Girl",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1400,9 +1405,9 @@
       "ID": "SG_SAYINGGOODBYE",
       "SetID": "bj5g0n4",
       "Name": "Saying Goodbye",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "SG_SHARETHISDANCE",
@@ -1521,14 +1526,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 270,
+      "Progressed": 271,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:08:50.569117+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:58:03.5574151+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:09.0015101+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:57:13.3124755+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:08:50.5691422+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:46:27.8137985+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:58:03.5574564+00:00"
 }

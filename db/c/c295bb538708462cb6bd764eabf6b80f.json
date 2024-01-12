@@ -2,13 +2,13 @@
   "ID": "c295bb538708462cb6bd764eabf6b80f",
   "Name": "Starsiege: Deadzone",
   "ProductSlug": "starsiege-deadzone",
-  "Ranking_Rating": 1049,
+  "Ranking_Rating": 1050,
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 583,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 582,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-07-18T14:00:00+00:00",
     "PcReleaseDate": "2023-07-18T14:00:00+00:00",
@@ -76,5 +76,5 @@
   "LastChanged": "2023-10-23T03:59:45.7488032+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:02.8733339+00:00",
   "LastUpdate_Ratings": "2024-01-12T00:02:32.7501507+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:05:55.2896895+00:00"
+  "LastUpdate_Achievements": "2024-01-12T01:54:57.3539141+00:00"
 }

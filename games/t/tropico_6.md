@@ -14,13 +14,13 @@ Number of Ratings: 398  (23.09.2022)
 | We Don't Have Time For That | 18.00% | ~1,275 |
 | The Legend of Langostino | 16.00% | ~1,133 |
 | The Governator | 16.00% | ~1,133 |
-| Caribbean Comrade | 15.00% | ~1,062 |
-| The Dreamer of Dreams | 15.00% | ~1,062 |
+| Caribbean Comrade | 15.00% | ~1,063 |
+| The Dreamer of Dreams | 15.00% | ~1,063 |
 | Happy Ending? | 10.00% | ~708 |
 | Go Sovereigns! | 10.00% | ~708 |
 | For Science! | 10.00% | ~708 |
-| Of Seals And Men | 9.00% | ~637 |
-| Shackadelic | 9.00% | ~637 |
+| Of Seals And Men | 9.00% | ~638 |
+| Shackadelic | 9.00% | ~638 |
 | Double Trouble | 8.00% | ~567 |
 | Firestarter | 7.00% | ~496 |
 | Make Tropico Great Again! | 7.00% | ~496 |
@@ -32,10 +32,10 @@ Number of Ratings: 398  (23.09.2022)
 | Beware The Betman | 5.00% | ~354 |
 | Watch The World Burn | 5.00% | ~354 |
 | Fairy Tale Come True | 5.00% | ~354 |
-| Been there, Done That | 3.00% | ~212 |
-| Apocalypso | 3.00% | ~212 |
-| Narcissist | 3.00% | ~212 |
-| The Time For Wonders | 3.00% | ~212 |
+| Been there, Done That | 3.00% | ~213 |
+| Apocalypso | 3.00% | ~213 |
+| Narcissist | 3.00% | ~213 |
+| The Time For Wonders | 3.00% | ~213 |
 | One Does Not Simply Stage A Coup | 2.00% | ~142 |
 | Promising Endeavors | 2.00% | ~142 |
 | Sublime Subliminal Supreme | 2.00% | ~142 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~57 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,083 (Ranked 198)  
+Progressed: 7,084 (Ranked 198)  
 Completed: 2 (0.03%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,6 +314,7 @@ Completed: 2 (0.03%) (Ranked 356)
 | 2024-01-09 | 7,043 | 2 |
 | 2024-01-10 | 7,069 | 2 |
 | 2024-01-11 | 7,083 | 2 |
+| 2024-01-12 | 7,084 | 2 |
 ## Awards
 Max (Highly Recommended): 107  (Ranked 371)  
 Sum: 760 (Ranked 303)  

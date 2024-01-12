@@ -2,10 +2,10 @@
   "ID": "3778010ababa48d387d44ee9fd61b517",
   "Name": "The Hive",
   "ProductSlug": "the-hive-f5c2c8",
-  "Ranking_EOS_Progress": 541,
+  "Ranking_EOS_Progress": 540,
   "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
     "PcReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 62,
+  "EOS_Progressed": 63,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -309,6 +309,11 @@
       "Time": "2024-01-12T00:03:25.0076544+00:00",
       "NumProgressed": 62,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T01:52:34.9096751+00:00",
+      "NumProgressed": 63,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-06T09:06:36.8528794+00:00",
@@ -351,7 +356,7 @@
       "ID": "A_CHESTS",
       "SetID": "324h56e",
       "Name": "Treasure Finder",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -407,7 +412,7 @@
       "ID": "A_GOLD_PILES",
       "SetID": "324h56e",
       "Name": "Scrooge",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
       "UsersEstimate": 28
     },
@@ -415,7 +420,7 @@
       "ID": "A_HIVE_RESS hiveRes (0-100)",
       "SetID": "324h56e",
       "Name": "Hivespital",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 16
     },
@@ -423,9 +428,9 @@
       "ID": "A_HUNT hunt (0-1)",
       "SetID": "324h56e",
       "Name": "Big Game Hunter",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "A_HUNT_2 hunt (0-5)",
@@ -463,9 +468,9 @@
       "ID": "A_LEGENDARY",
       "SetID": "324h56e",
       "Name": "Loot of Legends",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "A_LEGIONNAIRES",
@@ -487,7 +492,7 @@
       "ID": "A_MEAT meat (0-10000)",
       "SetID": "324h56e",
       "Name": "Fresh Meat!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -503,9 +508,9 @@
       "ID": "A_MINERALS minerals (0-2500)",
       "SetID": "324h56e",
       "Name": "Miner",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "A_NOFISH",
@@ -519,9 +524,9 @@
       "ID": "A_ORB",
       "SetID": "324h56e",
       "Name": "Orb of Wisdom",
-      "Percentage": 69,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "A_POPULATION",
@@ -535,9 +540,9 @@
       "ID": "A_QUEEN",
       "SetID": "324h56e",
       "Name": "Mother of Insectoids",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "A_RESS",
@@ -591,7 +596,7 @@
       "ID": "A_TURRET",
       "SetID": "324h56e",
       "Name": "All About That Base",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -632,14 +637,14 @@
     {
       "ID": "324h56e",
       "IsBase": true,
-      "Progressed": 62,
+      "Progressed": 63,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:03:25.0076542+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:52:34.9096748+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.8788926+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:59:36.8263289+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:03:25.0077035+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:48:45.6052643+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:52:34.9097123+00:00"
 }

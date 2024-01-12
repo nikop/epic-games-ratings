@@ -2,13 +2,13 @@
   "ID": "b0ebefb11a9145488af78f6d2488afff",
   "Name": "Neon Abyss",
   "ProductSlug": "neon-abyss",
-  "Ranking_Rating": 263,
+  "Ranking_Rating": 264,
   "Ranking_Popularity": 192,
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 583,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 582,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-07-29T15:00:00+00:00",
     "PcReleaseDate": "2020-07-29T15:00:00+00:00",
@@ -4674,6 +4674,6 @@
   "FirstSeen": "2022-07-22T20:20:56.8709558+00:00",
   "LastChanged": "2024-01-11T13:08:53.5773623+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:54.6955603+00:00",
-  "LastUpdate_Ratings": "2024-01-12T00:02:39.0784828+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:06:28.132626+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:51:51.0475108+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:55:28.0427637+00:00"
 }

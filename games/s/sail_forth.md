@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tootorial | 63.00% | ~15,349 |
-| Wind Master | 49.00% | ~11,938 |
-| Davy Jones | 12.00% | ~2,924 |
-| Hook, Line and Stinker | 9.00% | ~2,193 |
-| Nice Shootin' Duds | 3.00% | ~731 |
-| Race In Yo Face | 2.00% | ~487 |
-| Baby's First Thingamabob | 0.90% | ~219 |
-| Gateway Slug | 0.80% | ~195 |
-| Light Up the Night | 0.60% | ~146 |
-| Great Balls Of Fire | 0.40% | ~97 |
-| Boarding Party | 0.30% | ~73 |
-| Polar Pontification | 0.10% | ~24 |
-| By The Power Of Underskull | 0.10% | ~24 |
-| No More Splosions | 0.10% | ~24 |
-| Blowfish Me Down | 0.10% | ~24 |
-| Snapping Turtle | 0.10% | ~24 |
-| Crovert Ops | 0.10% | ~24 |
-| Tekk Savvy | 0.10% | ~24 |
-| Fish Kabob | 0.10% | ~24 |
-| Enter The Croakers | 0.10% | ~24 |
-| This Is Fine | 0.10% | ~24 |
-| I Don't Like The Slugs | 0.10% | ~24 |
-| But The Slugs Like Me | 0.10% | ~24 |
-| Pengy Fun | 0.10% | ~24 |
+| Tootorial | 64.00% | ~18,539 |
+| Wind Master | 49.00% | ~14,194 |
+| Davy Jones | 12.00% | ~3,476 |
+| Hook, Line and Stinker | 9.00% | ~2,607 |
+| Nice Shootin' Duds | 3.00% | ~869 |
+| Race In Yo Face | 2.00% | ~579 |
+| Baby's First Thingamabob | 1.00% | ~290 |
+| Gateway Slug | 0.90% | ~261 |
+| Light Up the Night | 0.60% | ~174 |
+| Great Balls Of Fire | 0.50% | ~145 |
+| Boarding Party | 0.40% | ~116 |
+| By The Power Of Underskull | 0.20% | ~58 |
+| Polar Pontification | 0.10% | ~29 |
+| Aggro Kreb | 0.10% | ~29 |
+| No More Splosions | 0.10% | ~29 |
+| Blowfish Me Down | 0.10% | ~29 |
+| Snapping Turtle | 0.10% | ~29 |
+| Crovert Ops | 0.10% | ~29 |
+| Tekk Savvy | 0.10% | ~29 |
+| Fish Kabob | 0.10% | ~29 |
+| Enter The Croakers | 0.10% | ~29 |
+| This Is Fine | 0.10% | ~29 |
+| I Don't Like The Slugs | 0.10% | ~29 |
+| But The Slugs Like Me | 0.10% | ~29 |
+| Pengy Fun | 0.10% | ~29 |
 | What's Krakalackin? | 0.00% | ~0 |
-| Aggro Kreb | 0.00% | ~0 |
 | Total Eclipse of the Eel | 0.00% | ~0 |
 | All Good Things... | 0.00% | ~0 |
 | Lights Out | 0.00% | ~0 |
@@ -52,14 +52,14 @@
 | For Whom The Bells Toll | 0.00% | ~0 |
 | Don't I Know You? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,363 (Ranked 149)  
+Progressed: 28,967 (Ranked 143)  
 Completed: 0 (0.00%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-05 | 2 | 0 |
 | 2024-01-11 | 21,760 | 0 |
-| 2024-01-12 | 24,363 | 0 |
+| 2024-01-12 | 28,967 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

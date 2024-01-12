@@ -1,15 +1,15 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 470)  
+Rating: 4.58 (Ranked 471)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~91,641 |
+| Sowwy! | 37.00% | ~91,644 |
 | Alt+F4 | 11.00% | ~27,245 |
-| Where's that freaking Dwarf? | 9.00% | ~22,291 |
-| Déjà vu | 8.00% | ~19,814 |
+| Where's that freaking Dwarf? | 9.00% | ~22,292 |
+| Déjà vu | 8.00% | ~19,815 |
 | Sock! SOCK! | 6.00% | ~14,861 |
 | Speedrun | 6.00% | ~14,861 |
 | A beer, two curses, three companions | 5.00% | ~12,384 |
@@ -18,14 +18,14 @@ Number of Ratings: 118  (23.09.2022)
 | Way of the Wimp | 4.00% | ~9,907 |
 | The plot thickens... At the tavern | 4.00% | ~9,907 |
 | Fireproof Wizardess | 4.00% | ~9,907 |
-| Livin' in a dwarven paradise | 3.00% | ~7,430 |
-| The demons' feast | 3.00% | ~7,430 |
-| The Great Library | 3.00% | ~7,430 |
-| Torture and Sensibility | 3.00% | ~7,430 |
-| Urik's Depths | 3.00% | ~7,430 |
-| The Woman in the High Castle | 3.00% | ~7,430 |
-| Team Building Exercise | 3.00% | ~7,430 |
-| Oh, when I'll be level 10... | 3.00% | ~7,430 |
+| Livin' in a dwarven paradise | 3.00% | ~7,431 |
+| The demons' feast | 3.00% | ~7,431 |
+| The Great Library | 3.00% | ~7,431 |
+| Torture and Sensibility | 3.00% | ~7,431 |
+| Urik's Depths | 3.00% | ~7,431 |
+| The Woman in the High Castle | 3.00% | ~7,431 |
+| Team Building Exercise | 3.00% | ~7,431 |
+| Oh, when I'll be level 10... | 3.00% | ~7,431 |
 | Shiny and Crôm | 2.00% | ~4,954 |
 | The Dungeon Master | 2.00% | ~4,954 |
 | The Statuette of Gladeulfeurah | 2.00% | ~4,954 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~248 |
 | Dwarf Candy | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,679 (Ranked 72)  
+Progressed: 247,686 (Ranked 72)  
 Completed: 8 (0.00%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 8 (0.00%) (Ranked 398)
 | 2024-01-09 | 247,450 | 8 |
 | 2024-01-10 | 247,582 | 8 |
 | 2024-01-11 | 247,677 | 8 |
-| 2024-01-12 | 247,679 | 8 |
+| 2024-01-12 | 247,686 | 8 |
 ## Awards
 Max (Character Customization): 268  (Ranked 277)  
 Sum: 565 (Ranked 330)  

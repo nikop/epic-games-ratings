@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 917,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3018,9 +3018,9 @@
       "ID": "ach_complete_difficulty_easy",
       "SetID": "d499apg",
       "Name": "The Emperor Protects",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 55
+      "UsersEstimate": 64
     },
     {
       "ID": "ach_complete_difficulty_extreme",
@@ -3042,9 +3042,9 @@
       "ID": "ach_complete_difficulty_medium",
       "SetID": "d499apg",
       "Name": "My Armour is Contempt",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 95,
-      "UsersEstimate": 46
+      "UsersEstimate": 55
     },
     {
       "ID": "ach_defeat_great_unclean_one",
@@ -3097,8 +3097,8 @@
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:08:26.1779421+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:57:41.2448398+00:00",
   "LastUpdate_AppInfo": "2024-01-05T16:57:07.4104924+00:00",
-  "LastUpdate_Ratings": "2024-01-12T00:02:37.7094022+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:08:26.1779638+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:51:49.6873278+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:57:41.2448607+00:00"
 }

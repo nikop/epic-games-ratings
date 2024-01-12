@@ -2,13 +2,13 @@
   "ID": "dc61166eea95474e912953b163791d42",
   "Name": "The Outer Worlds: Spacer\u0027s Choice Edition",
   "ProductSlug": "the-outer-worlds-spacers-choice-edition",
-  "Ranking_Rating": 616,
+  "Ranking_Rating": 617,
   "Ranking_Popularity": 91,
   "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 583,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 582,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-07T16:00:00+00:00",
     "PcReleaseDate": "2023-03-07T16:00:00+00:00",
@@ -1251,10 +1251,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 4911,
       "NumberOfAwardsMax": 4010
+    },
+    {
+      "Time": "2024-01-12T01:48:56.8632788+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 4923,
+      "NumberOfAwardsMax": 4010
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4911,
+  "NumberOfAwards": 4923,
   "NumberOfAwardsMax": 4010,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1310,7 +1316,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 113
+      "Count": 125
     },
     {
       "Text": "This game has a Creative Community",
@@ -1339,9 +1345,9 @@
   "FirstSeen": "2023-03-07T20:56:52.9843527+00:00",
   "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00",
-  "LastChanged": "2024-01-11T22:01:17.3935803+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:04:45.8348103+00:00",
+  "LastChanged": "2024-01-12T01:48:56.8632786+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:53:52.3035374+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:40.3845685+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:59:49.0970841+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:04:45.8348126+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:48:56.8632791+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:53:52.3035401+00:00"
 }

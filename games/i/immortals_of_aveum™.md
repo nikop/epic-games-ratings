@@ -1,7 +1,7 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.19 (Ranked 973)  
+Rating: 4.19 (Ranked 974)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,11 +12,11 @@ Rating: 4.19 (Ranked 973)
 | No More Names | 52.00% | ~1,738 |
 | Initiate | 39.00% | ~1,303 |
 | Thrada-Kul | 35.00% | ~1,170 |
-| Gravity-Challenged Rocks | 28.00% | ~936 |
+| Gravity-Challenged Rocks | 29.00% | ~969 |
 | Socialite | 24.00% | ~802 |
 | Soldier | 24.00% | ~802 |
 | All the Major Food Groups | 24.00% | ~802 |
-| Beggars Would Ride | 21.00% | ~702 |
+| Beggars Would Ride | 22.00% | ~735 |
 | Control is an Illusion | 20.00% | ~668 |
 | The Means to Save It | 18.00% | ~602 |
 | Resilience to Sin | 16.00% | ~535 |
@@ -161,9 +161,9 @@ Completed: 4 (0.12%) (Ranked 304)
 | 2024-01-11 | 3,340 | 4 |
 | 2024-01-12 | 3,342 | 4 |
 ## Awards
-Max (Quickly Understood Controls): 20  (Ranked 578)  
+Max (Quickly Understood Controls): 20  (Ranked 579)  
 Sum: 20 (Ranked 580)  
-Diff (max vs sum): -2  
+Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 20 |

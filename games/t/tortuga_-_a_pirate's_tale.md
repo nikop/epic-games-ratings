@@ -1,18 +1,18 @@
 # Tortuga - A Pirate's Tale
 [Store](https://store.epicgames.com/en-US/p/tortuga-a-pirates-tale-e02635)  
 [View Rawdata](../../db/t/tortuga_-_a_pirate's_tale.json)  
-Rating: 3.80 (Ranked 1,088)  
+Rating: 3.80 (Ranked 1,089)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~16,625 |
-| No Half Measures | 87.00% | ~15,225 |
-| Personal Matter | 86.00% | ~15,050 |
-| But You Have Heard of Me | 72.00% | ~12,600 |
-| Double the Barrels, double the Fun | 54.00% | ~9,450 |
-| Pimp My Glide | 49.00% | ~8,575 |
-| ... And Where Do the Stories Come From? | 40.00% | ~7,000 |
-| House Party! | 35.00% | ~6,125 |
+| Eeligally Ambitious | 95.00% | ~16,627 |
+| No Half Measures | 87.00% | ~15,227 |
+| Personal Matter | 86.00% | ~15,052 |
+| But You Have Heard of Me | 72.00% | ~12,601 |
+| Double the Barrels, double the Fun | 54.00% | ~9,451 |
+| Pimp My Glide | 49.00% | ~8,576 |
+| ... And Where Do the Stories Come From? | 40.00% | ~7,001 |
+| House Party! | 35.00% | ~6,126 |
 | Make It Rain | 23.00% | ~4,025 |
 | Curse of the Seven Seas | 22.00% | ~3,850 |
 | Head First | 16.00% | ~2,800 |
@@ -32,7 +32,7 @@ Rating: 3.80 (Ranked 1,088)
 | Heavy Tunaing | 0.10% | ~18 |
 | Pufferfish | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,500 (Ranked 166)  
+Progressed: 17,502 (Ranked 166)  
 Completed: 1 (0.01%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,6 +294,7 @@ Completed: 1 (0.01%) (Ranked 374)
 | 2024-01-09 | 17,476 | 1 |
 | 2024-01-10 | 17,491 | 1 |
 | 2024-01-11 | 17,500 | 1 |
+| 2024-01-12 | 17,502 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,14 +1,14 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.22 (Ranked 952)  
+Rating: 4.22 (Ranked 953)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Day on the Job | 83.00% | ~10,150 |
 | Disposing of the Evidence | 39.00% | ~4,769 |
 | Without a Scratch | 34.00% | ~4,158 |
-| Wreckless Driving | 28.00% | ~3,424 |
+| Wreckless Driving | 29.00% | ~3,546 |
 | A Marked Man | 26.00% | ~3,180 |
 | Street Sweeper | 19.00% | ~2,324 |
 | Liberty City Minute | 17.00% | ~2,079 |

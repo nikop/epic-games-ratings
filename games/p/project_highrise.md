@@ -41,9 +41,9 @@
 | 28 Days Later | 10.00% | ~52 |
 | Terrifically Trashed | 10.00% | ~52 |
 | Swimming in Surplus | 9.00% | ~47 |
+| Refined Palates | 9.00% | ~47 |
 | Aestheticly Pleased | 8.00% | ~42 |
 | Plaza Plan | 8.00% | ~42 |
-| Refined Palates | 8.00% | ~42 |
 | First 100 Days | 7.00% | ~36 |
 | Master of Puppets | 7.00% | ~36 |
 | Phoning It In | 7.00% | ~36 |

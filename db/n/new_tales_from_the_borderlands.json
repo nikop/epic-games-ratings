@@ -2,13 +2,13 @@
   "ID": "28ed8f56800c4bcc9eaa0c5264ec6917",
   "Name": "New Tales from the Borderlands",
   "ProductSlug": "new-tales-from-the-borderlands",
-  "Ranking_Rating": 1025,
+  "Ranking_Rating": 1026,
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 398,
   "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,7 +177,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3819,
+  "EOS_Progressed": 3820,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
@@ -2347,6 +2347,11 @@
       "Time": "2024-01-11T23:05:38.279001+00:00",
       "NumProgressed": 3819,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T01:54:47.4662108+00:00",
+      "NumProgressed": 3820,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2398,7 +2403,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -2438,7 +2443,7 @@
       "Name": "...To Heroes",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -2462,7 +2467,7 @@
       "Name": "You Rich Now!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -2470,7 +2475,7 @@
       "Name": "We\u0027re In",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -2558,14 +2563,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3819,
+      "Progressed": 3820,
       "Completed": 0
     }
   ],
@@ -2573,8 +2578,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:05:44.9296426+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:54:47.4662105+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:34.4966642+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:58:49.6400877+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:05:44.9296696+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:47:59.2066805+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:54:47.4662335+00:00"
 }

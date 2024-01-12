@@ -1,13 +1,13 @@
 # Potion Permit
 [Store](https://store.epicgames.com/en-US/p/potion-permit)  
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.85 (Ranked 1,077)  
+Rating: 3.85 (Ranked 1,078)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Moonbury | 98.00% | ~1,901 |
 | The First Step | 87.00% | ~1,688 |
-| Moonbury Traveller | 62.00% | ~1,203 |
+| Moonbury Traveller | 63.00% | ~1,222 |
 | Rookie Chemist | 60.00% | ~1,164 |
 | Great Doctor | 49.00% | ~951 |
 | Dog Whisperer | 47.00% | ~912 |

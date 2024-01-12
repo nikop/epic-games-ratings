@@ -1,7 +1,7 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 529)  
+Rating: 4.55 (Ranked 530)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,8 +19,8 @@ Rating: 4.55 (Ranked 529)
 | With Extra Dip | 7.00% | ~1,358 |
 | The End of the Line | 7.00% | ~1,358 |
 | Saviour | 6.00% | ~1,164 |
+| They Can’t Stop All of Us | 5.00% | ~970 |
 | Rescue a Kitten Too? | 5.00% | ~970 |
-| They Can’t Stop All of Us | 4.00% | ~776 |
 | What are the Odds | 4.00% | ~776 |
 | Bike or Biker | 3.00% | ~582 |
 | What the City Needs | 3.00% | ~582 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 529)
 | I Ain't No Buster | 0.40% | ~78 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 19,400 (Ranked 157)  
-Completed: 75 (0.39%) (Ranked 242)  
+Completed: 77 (0.40%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -308,7 +308,7 @@ Completed: 75 (0.39%) (Ranked 242)
 | 2024-01-09 | 19,164 | 75 |
 | 2024-01-10 | 19,333 | 75 |
 | 2024-01-11 | 19,399 | 75 |
-| 2024-01-12 | 19,400 | 75 |
+| 2024-01-12 | 19,400 | 77 |
 ## Awards
 Max (Great Boss Battles): 652  (Ranked 201)  
 Sum: 1,041 (Ranked 271)  

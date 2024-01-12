@@ -1,26 +1,26 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.10 (Ranked 1,020)  
+Rating: 4.10 (Ranked 1,021)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,108 |
-| World Map | 78.00% | ~3,445 |
-| Temple of Eternals | 56.00% | ~2,474 |
-| Prestigious | 52.00% | ~2,297 |
-| Fellowship Power | 41.00% | ~1,811 |
-| Full Party | 29.00% | ~1,281 |
+| Victor | 93.00% | ~4,111 |
+| World Map | 78.00% | ~3,448 |
+| Temple of Eternals | 56.00% | ~2,475 |
+| Prestigious | 52.00% | ~2,298 |
+| Fellowship Power | 41.00% | ~1,812 |
+| Full Party | 29.00% | ~1,282 |
 | Guild Power | 22.00% | ~972 |
-| Prestigious x10 | 20.00% | ~883 |
-| The game is on | 18.00% | ~795 |
+| Prestigious x10 | 20.00% | ~884 |
+| The game is on | 18.00% | ~796 |
 | Exotic Merchant | 16.00% | ~707 |
 | Dragon Clicker | 15.00% | ~663 |
 | Miner Clicker | 15.00% | ~663 |
-| Dragon Master | 13.00% | ~574 |
-| Enlightenment | 13.00% | ~574 |
-| Hero inspection | 13.00% | ~574 |
-| Inspection | 13.00% | ~574 |
+| Dragon Master | 13.00% | ~575 |
+| Enlightenment | 13.00% | ~575 |
+| Hero inspection | 13.00% | ~575 |
+| Inspection | 13.00% | ~575 |
 | Lieutenant | 12.00% | ~530 |
 | Mysterious Rock | 11.00% | ~486 |
 | Natural Talent | 11.00% | ~486 |
@@ -30,14 +30,14 @@ Rating: 4.10 (Ranked 1,020)
 | Doing My Part | 9.00% | ~398 |
 | Scientist | 9.00% | ~398 |
 | The power of Awakening | 9.00% | ~398 |
-| Challenger | 8.00% | ~353 |
-| Daily Quest Completionist | 8.00% | ~353 |
-| Frostfire Liberator | 8.00% | ~353 |
-| Hunter | 8.00% | ~353 |
-| Mastery | 8.00% | ~353 |
-| Moving Up The Ladder | 8.00% | ~353 |
-| Relic Of The Past | 8.00% | ~353 |
-| Scroll Master | 8.00% | ~353 |
+| Challenger | 8.00% | ~354 |
+| Daily Quest Completionist | 8.00% | ~354 |
+| Frostfire Liberator | 8.00% | ~354 |
+| Hunter | 8.00% | ~354 |
+| Mastery | 8.00% | ~354 |
+| Moving Up The Ladder | 8.00% | ~354 |
+| Relic Of The Past | 8.00% | ~354 |
+| Scroll Master | 8.00% | ~354 |
 | Four Leaf Clover | 7.00% | ~309 |
 | Master Enchanter | 7.00% | ~309 |
 | The father of Dragons | 7.00% | ~309 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 1,020)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,417 (Ranked 209)  
+Progressed: 4,420 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 2 (0.05%) (Ranked 339)
 | 2024-01-09 | 4,351 | 2 |
 | 2024-01-10 | 4,381 | 2 |
 | 2024-01-11 | 4,414 | 2 |
-| 2024-01-12 | 4,417 | 2 |
+| 2024-01-12 | 4,420 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 483)  
 Sum: 157 (Ranked 440)  

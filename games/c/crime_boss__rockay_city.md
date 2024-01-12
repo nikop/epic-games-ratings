@@ -1,7 +1,7 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.96 (Ranked 1,060)  
+Rating: 3.96 (Ranked 1,061)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,8 +20,8 @@ Rating: 3.96 (Ranked 1,060)
 | Rockay Rex | 2.00% | ~1,868 |
 | Hidden Sonata | 1.00% | ~934 |
 | Track Star | 1.00% | ~934 |
+| Headhunter | 1.00% | ~934 |
 | True Player | 1.00% | ~934 |
-| Headhunter | 0.90% | ~841 |
 | I Like Trains | 0.80% | ~747 |
 | Freebooter | 0.80% | ~747 |
 | Legend Looter | 0.60% | ~560 |

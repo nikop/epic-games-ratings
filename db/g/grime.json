@@ -2,13 +2,13 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 452,
+  "Ranking_Rating": 453,
   "Ranking_Popularity": 432,
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1873,10 +1873,10 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167718,
+  "EOS_Progressed": 167728,
   "EOS_Completed": 455,
-  "EOS_NewPlayers": 1213,
-  "EOS_NewCompleters": 12,
+  "EOS_NewPlayers": 1215,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -22748,6 +22748,11 @@
       "Time": "2024-01-12T00:05:14.2606035+00:00",
       "NumProgressed": 167718,
       "NumCompleted": 455
+    },
+    {
+      "Time": "2024-01-12T01:54:19.1250897+00:00",
+      "NumProgressed": 167728,
+      "NumCompleted": 455
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22832,7 +22837,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3354
+      "UsersEstimate": 3355
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -22942,9 +22947,9 @@
       "ID": "DEFEAT_WATCHER",
       "SetID": "ccc0dlh",
       "Name": "Watcher",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1174
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -23016,7 +23021,7 @@
       "Name": "Yank",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -23024,7 +23029,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -23127,21 +23132,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167301,
+      "Progressed": 167311,
       "Completed": 1260
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167718,
+      "Progressed": 167728,
       "Completed": 455
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-11T14:59:57.7039086+00:00",
-  "LastChanged_Achievements": "2024-01-12T00:05:14.2606033+00:00",
+  "LastChanged_Achievements": "2024-01-12T01:54:19.1250893+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-12T00:00:00.1108442+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:05:14.2607417+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:49:07.0462085+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:54:19.1252191+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "df2da503f2074f078f8090da3c27ec47",
   "Name": "BioShock Infinite: Complete Edition",
   "ProductSlug": "bioshock-infinite-complete-edition",
-  "Ranking_Rating": 219,
+  "Ranking_Rating": 220,
   "Ranking_Popularity": 85,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 583,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 582,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-06-02T15:00:00+00:00",
     "PcReleaseDate": "2013-03-25T15:00:00+00:00",
@@ -2668,6 +2668,6 @@
   "FirstSeen": "2022-07-22T20:20:42.6159254+00:00",
   "LastChanged": "2024-01-10T19:58:31.7802904+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:32.8625595+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:58:47.2736197+00:00",
-  "LastUpdate_Achievements": "2024-01-12T00:05:21.9313761+00:00"
+  "LastUpdate_Ratings": "2024-01-12T01:47:57.0649869+00:00",
+  "LastUpdate_Achievements": "2024-01-12T01:54:26.4866666+00:00"
 }
