@@ -2,9 +2,9 @@
   "ID": "5f7c8e78a55f4eb9956329556c44a27a",
   "Name": "There Is No Game - Wrong Dimension",
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
-  "Ranking_EOS_Progress": 416,
+  "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 268,
+  "EOS_Progressed": 269,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -1104,6 +1104,11 @@
       "Time": "2024-01-12T04:05:01.7839306+00:00",
       "NumProgressed": 268,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-12T06:06:08.9318864+00:00",
+      "NumProgressed": 269,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-11-06T19:03:25.5191161+00:00",
@@ -1116,7 +1121,7 @@
       "Name": "Administrator",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "TINGWD_ANIMAL",
@@ -1148,7 +1153,7 @@
       "Name": "I want to PLAY!!",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "TINGWD_BUTTON_UNINSTALL",
@@ -1180,7 +1185,7 @@
       "Name": "There\u0027s a bug in the soup",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "TINGWD_CHAP_END_02",
@@ -1188,7 +1193,7 @@
       "Name": "A soundly led quest",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "TINGWD_CHAP_END_03",
@@ -1196,7 +1201,7 @@
       "Name": "Princess saver",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "TINGWD_CHAP_END_04",
@@ -1210,9 +1215,9 @@
       "ID": "TINGWD_CHAP_END_05",
       "SetID": "c0imaa6",
       "Name": "It\u0027s not over yet",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "TINGWD_CHAP_END_06",
@@ -1236,7 +1241,7 @@
       "Name": "Conspiracy theorist",
       "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "TINGWD_DETECTIVE",
@@ -1244,7 +1249,7 @@
       "Name": "Private Detective",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -1266,9 +1271,9 @@
       "ID": "TINGWD_HEADSHOT",
       "SetID": "c0imaa6",
       "Name": "Headshot",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 54
     },
     {
       "ID": "TINGWD_HONEY",
@@ -1292,15 +1297,15 @@
       "Name": "Have you no shame?",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "TINGWD_OUTBOX",
       "SetID": "c0imaa6",
       "Name": "Outside the box",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 54
     },
     {
       "ID": "TINGWD_PERPETUITY",
@@ -1387,14 +1392,14 @@
     {
       "ID": "c0imaa6",
       "IsBase": true,
-      "Progressed": 268,
+      "Progressed": 269,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-12T05:04:54.3167449+00:00",
+  "LastChanged_Achievements": "2024-01-12T06:06:08.9318862+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.2042305+00:00",
-  "LastUpdate_Ratings": "2024-01-12T05:02:38.0000271+00:00",
-  "LastUpdate_Achievements": "2024-01-12T05:04:54.316779+00:00"
+  "LastUpdate_Ratings": "2024-01-12T06:03:04.8981604+00:00",
+  "LastUpdate_Achievements": "2024-01-12T06:06:08.9319118+00:00"
 }

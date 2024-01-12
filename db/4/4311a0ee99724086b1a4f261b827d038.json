@@ -881,9 +881,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 242711,
+  "EOS_Progressed": 242715,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1242,
+  "EOS_NewPlayers": 1239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20936,6 +20936,11 @@
       "Time": "2024-01-12T05:09:55.5515591+00:00",
       "NumProgressed": 242711,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T06:10:58.8718209+00:00",
+      "NumProgressed": 242715,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -21004,7 +21009,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 50969
+      "UsersEstimate": 50970
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -21028,7 +21033,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9708
+      "UsersEstimate": 9709
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -21204,7 +21209,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60678
+      "UsersEstimate": 60679
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -21219,7 +21224,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 242711,
+      "Progressed": 242715,
       "Completed": 0
     }
   ],
@@ -21227,8 +21232,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-10T03:59:20.6689228+00:00",
-  "LastChanged_Achievements": "2024-01-12T05:09:55.5515589+00:00",
+  "LastChanged_Achievements": "2024-01-12T06:10:58.8718207+00:00",
   "LastUpdate_AppInfo": "2024-01-05T06:57:19.696761+00:00",
-  "LastUpdate_Ratings": "2024-01-12T04:59:37.0155195+00:00",
-  "LastUpdate_Achievements": "2024-01-12T05:09:55.5516797+00:00"
+  "LastUpdate_Ratings": "2024-01-12T06:00:53.6995215+00:00",
+  "LastUpdate_Achievements": "2024-01-12T06:10:58.8719382+00:00"
 }

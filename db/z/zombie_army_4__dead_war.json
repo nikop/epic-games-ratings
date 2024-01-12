@@ -2718,9 +2718,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44425,
+  "EOS_Progressed": 44426,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11118,6 +11118,11 @@
       "Time": "2024-01-12T03:06:04.2799292+00:00",
       "NumProgressed": 44425,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2024-01-12T06:08:28.7903791+00:00",
+      "NumProgressed": 44426,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -11145,7 +11150,7 @@
       "Name": "That\u0027s a lot of them, and only 4 of us",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "SE_COMPLETE_ALPINE_BLITZ",
@@ -11201,7 +11206,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 18658
+      "UsersEstimate": 18659
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -11377,7 +11382,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21768
+      "UsersEstimate": 21769
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -11417,7 +11422,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16437
+      "UsersEstimate": 16438
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -11425,7 +11430,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18658
+      "UsersEstimate": 18659
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -11449,7 +11454,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16437
+      "UsersEstimate": 16438
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -11457,7 +11462,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 31097
+      "UsersEstimate": 31098
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -11489,7 +11494,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25322
+      "UsersEstimate": 25323
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -11521,7 +11526,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19991
+      "UsersEstimate": 19992
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -11529,7 +11534,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29320
+      "UsersEstimate": 29321
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -11585,7 +11590,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29320
+      "UsersEstimate": 29321
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -11641,7 +11646,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7996
+      "UsersEstimate": 7997
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -11656,15 +11661,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44425,
+      "Progressed": 44426,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2024-01-06T22:57:52.3210761+00:00",
-  "LastChanged_Achievements": "2024-01-12T05:06:10.8665126+00:00",
+  "LastChanged_Achievements": "2024-01-12T06:08:28.7903788+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:16.5382429+00:00",
-  "LastUpdate_Ratings": "2024-01-12T05:02:31.3318282+00:00",
-  "LastUpdate_Achievements": "2024-01-12T05:06:10.8666049+00:00"
+  "LastUpdate_Ratings": "2024-01-12T06:02:55.6211596+00:00",
+  "LastUpdate_Achievements": "2024-01-12T06:08:28.7905038+00:00"
 }

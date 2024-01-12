@@ -4,7 +4,7 @@
   "ProductSlug": "dolmenjord-viking-islands-965b06",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 374,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 706,
+  "EOS_Progressed": 707,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.97,
   "EosHistory": [
@@ -2264,6 +2264,11 @@
       "Time": "2024-01-11T16:10:20.287925+00:00",
       "NumProgressed": 706,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-12T06:10:17.7631214+00:00",
+      "NumProgressed": 707,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 11,
@@ -2275,7 +2280,7 @@
       "Name": "Pit-house",
       "Percentage": 94,
       "XP": 45,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "LEVEL_003",
@@ -2283,15 +2288,15 @@
       "Name": "Smith house",
       "Percentage": 87,
       "XP": 45,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "LEVEL_004",
       "SetID": "7jk5g4e",
       "Name": "Two-story house",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 45,
-      "UsersEstimate": 530
+      "UsersEstimate": 537
     },
     {
       "ID": "LEVEL_006",
@@ -2362,14 +2367,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 706,
+      "Progressed": 707,
       "Completed": 21
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2024-01-12T05:09:24.4943479+00:00",
+  "LastChanged_Achievements": "2024-01-12T06:10:17.763121+00:00",
   "LastUpdate_AppInfo": "2024-01-09T06:57:17.8483752+00:00",
-  "LastUpdate_Ratings": "2024-01-12T04:58:33.0462545+00:00",
-  "LastUpdate_Achievements": "2024-01-12T05:09:24.4943658+00:00"
+  "LastUpdate_Ratings": "2024-01-12T05:59:23.8860099+00:00",
+  "LastUpdate_Achievements": "2024-01-12T06:10:17.7631465+00:00"
 }

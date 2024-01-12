@@ -6,8 +6,8 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~959 |
-| Lost and Found | 8.00% | ~590 |
+| Malpractice Assurance | 13.00% | ~960 |
+| Lost and Found | 8.00% | ~591 |
 | Autodidact | 7.00% | ~9,276 |
 | This guy... again? | 7.00% | ~517 |
 | Serenity Now! | 6.00% | ~7,951 |
@@ -27,13 +27,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 5.00% | ~6,626 |
 | A Place to Lay Your Head | 5.00% | ~6,626 |
 | FNG | 5.00% | ~6,626 |
-| Spelunker | 4.00% | ~5,300 |
-| Merry Time | 4.00% | ~5,300 |
-| Harvest Festival | 4.00% | ~5,300 |
-| Ramble On | 4.00% | ~5,300 |
-| Whale | 4.00% | ~5,300 |
-| Nope | 4.00% | ~5,300 |
-| Unshackled | 4.00% | ~5,300 |
+| Spelunker | 4.00% | ~5,301 |
+| Merry Time | 4.00% | ~5,301 |
+| Harvest Festival | 4.00% | ~5,301 |
+| Ramble On | 4.00% | ~5,301 |
+| Whale | 4.00% | ~5,301 |
+| Nope | 4.00% | ~5,301 |
+| Unshackled | 4.00% | ~5,301 |
 | Friends 'Til the End | 4.00% | ~295 |
 | Resurrection | 3.00% | ~3,975 |
 | Unleash Hell | 3.00% | ~3,975 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,510 (Ranked 91)  
+Progressed: 132,514 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 4 (0.00%) (Ranked 399)
 | 2024-01-09 | 132,315 | 3 |
 | 2024-01-10 | 132,395 | 4 |
 | 2024-01-11 | 132,491 | 4 |
-| 2024-01-12 | 132,510 | 4 |
+| 2024-01-12 | 132,514 | 4 |
 ## Awards
 Max (Character Customization): 8,002  (Ranked 51)  
 Sum: 21,592 (Ranked 58)  

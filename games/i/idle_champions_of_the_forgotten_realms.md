@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,139 |
-| Beast Intentions | 2.00% | ~5,069 |
-| The Cursed Farmer | 2.00% | ~5,069 |
+| Beast Intentions | 2.00% | ~5,070 |
+| The Cursed Farmer | 2.00% | ~5,070 |
 | The Mad Wizard | 1.00% | ~2,535 |
 | The Ring of Regeneration | 0.90% | ~2,281 |
 | Are Ya Chicken? | 0.90% | ~2,281 |
@@ -52,7 +52,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 0.20% | ~507 |
 | Wet Feet | 0.20% | ~507 |
 | Supply Run | 0.20% | ~507 |
-| Vecna Lives! | 0.20% | ~439 |
+| Vecna Lives! | 0.20% | ~440 |
 | Homecoming | 0.20% | ~507 |
 | The Lost Heir of Omu | 0.20% | ~507 |
 | Street War | 0.20% | ~507 |
@@ -78,8 +78,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Easily Distracted | 0.20% | ~507 |
 | Overdue Rendezvous | 0.20% | ~507 |
 | Rescue in the Jungle | 0.20% | ~507 |
-| The Beginning is the End | 0.20% | ~439 |
-| The Brains of an Illithid's Desire | 0.20% | ~439 |
+| The Beginning is the End | 0.20% | ~440 |
+| The Brains of an Illithid's Desire | 0.20% | ~440 |
 | Upholding the Law | 0.10% | ~253 |
 | Starving in the Jungle | 0.10% | ~253 |
 | Cold as Ice | 0.10% | ~220 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,472 (Ranked 70)  
+Progressed: 253,476 (Ranked 70)  
 Completed: 2,614 (1.03%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -820,7 +820,7 @@ Completed: 2,614 (1.03%) (Ranked 177)
 | 2024-01-09 | 253,044 | 2,606 |
 | 2024-01-10 | 253,250 | 2,611 |
 | 2024-01-11 | 253,420 | 2,614 |
-| 2024-01-12 | 253,472 | 2,614 |
+| 2024-01-12 | 253,476 | 2,614 |
 ## Awards
 Max (Great for Beginners): 5,770  (Ranked 74)  
 Sum: 33,451 (Ranked 41)  

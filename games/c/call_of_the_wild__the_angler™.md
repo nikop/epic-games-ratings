@@ -6,13 +6,13 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 20.00% | ~1,655 |
+| Fish Just Got Reel | 20.00% | ~1,656 |
 | More Fish in the Sea | 17.00% | ~1,407 |
 | Hey Good Hookin | 16.00% | ~1,324 |
 | Can you smell what the Rod is Hooking | 15.00% | ~1,242 |
 | Scaling up | 14.00% | ~1,159 |
 | I'm on a Boat! | 13.00% | ~1,076 |
-| Ready to Rod and Roll | 11.00% | ~910 |
+| Ready to Rod and Roll | 11.00% | ~911 |
 | Fish Out of Water | 8.00% | ~662 |
 | Things that go Splash in the Night | 8.00% | ~662 |
 | Goldfish? | 6.00% | ~497 |
@@ -23,8 +23,8 @@ Number of Ratings: 281  (23.09.2022)
 | Diamond in the Rough | 2.00% | ~166 |
 | I'm the Captain Now | 1.00% | ~83 |
 | Marathon | 1.00% | ~83 |
-| More than a Tourist | 0.90% | ~74 |
-| Hook, Line and Sinker | 0.90% | ~74 |
+| More than a Tourist | 0.90% | ~75 |
+| Hook, Line and Sinker | 0.90% | ~75 |
 | Gonna Need a Bigger Boat | 0.70% | ~58 |
 | No Fin left to give | 0.60% | ~50 |
 | The Beetles | 0.40% | ~33 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,277 (Ranked 191)  
+Progressed: 8,278 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 8,216 | 0 |
 | 2024-01-10 | 8,256 | 0 |
 | 2024-01-11 | 8,274 | 0 |
-| 2024-01-12 | 8,277 | 0 |
+| 2024-01-12 | 8,278 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 481)  
 Sum: 213 (Ranked 411)  

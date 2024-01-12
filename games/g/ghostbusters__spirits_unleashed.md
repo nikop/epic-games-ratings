@@ -6,7 +6,7 @@ Rating: 4.50 (Ranked 617)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 11.00% | ~3,692 |
-| Meticulously Efficient | 9.00% | ~3,020 |
+| Meticulously Efficient | 9.00% | ~3,021 |
 | Advancement | 8.00% | ~2,685 |
 | Discovery | 6.00% | ~2,014 |
 | Solo Capture | 6.00% | ~2,014 |
@@ -17,11 +17,11 @@ Rating: 4.50 (Ranked 617)
 | Teamwork | 5.00% | ~1,678 |
 | There you are! | 5.00% | ~1,678 |
 | Vaporous Expansion | 5.00% | ~1,678 |
-| Cultured | 4.00% | ~1,342 |
-| Daily Dose | 4.00% | ~1,342 |
-| Ghostbuster In Training | 4.00% | ~1,342 |
-| Right back at ya | 4.00% | ~1,342 |
-| Whoopsie | 4.00% | ~1,342 |
+| Cultured | 4.00% | ~1,343 |
+| Daily Dose | 4.00% | ~1,343 |
+| Ghostbuster In Training | 4.00% | ~1,343 |
+| Right back at ya | 4.00% | ~1,343 |
+| Whoopsie | 4.00% | ~1,343 |
 | Animated | 3.00% | ~1,007 |
 | Back Off | 3.00% | ~1,007 |
 | We have the best insurance | 3.00% | ~1,007 |
@@ -29,13 +29,13 @@ Rating: 4.50 (Ranked 617)
 | Icing on the Cake | 3.00% | ~1,007 |
 | Legions | 3.00% | ~1,007 |
 | Pesky Jerks | 3.00% | ~1,007 |
+| Rift Destroyer | 3.00% | ~1,007 |
 | Seasoned | 3.00% | ~1,007 |
 | Side Hustle | 3.00% | ~1,007 |
 | Summoner | 3.00% | ~1,007 |
 | Collector | 2.00% | ~671 |
 | Escape Artist | 2.00% | ~671 |
 | Reckless | 2.00% | ~671 |
-| Rift Destroyer | 2.00% | ~671 |
 | Skilled | 2.00% | ~671 |
 | Stunner | 2.00% | ~671 |
 | Tobin's Prodigy | 2.00% | ~671 |
@@ -46,7 +46,7 @@ Rating: 4.50 (Ranked 617)
 | Rivalry | 1.00% | ~336 |
 | Surprise! | 1.00% | ~336 |
 | Terrifying | 1.00% | ~336 |
-| Therapeutic | 0.80% | ~268 |
+| Therapeutic | 0.80% | ~269 |
 | Rift Seeker | 0.60% | ~201 |
 | Master Collector | 0.50% | ~168 |
 | Ghost Expert | 0.30% | ~101 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 617)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,560 (Ranked 138)  
+Progressed: 33,563 (Ranked 138)  
 Completed: 71 (0.21%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 71 (0.21%) (Ranked 278)
 | 2024-01-09 | 33,497 | 71 |
 | 2024-01-10 | 33,517 | 71 |
 | 2024-01-11 | 33,549 | 71 |
-| 2024-01-12 | 33,560 | 71 |
+| 2024-01-12 | 33,563 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 256)  
 Sum: 2,961 (Ranked 186)  

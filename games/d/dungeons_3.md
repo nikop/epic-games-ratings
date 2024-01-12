@@ -6,25 +6,25 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~32,643 |
-| The Evilest Evil | 59.00% | ~27,513 |
-| Twistram is devastated | 58.00% | ~27,047 |
-| The Gehenna Stones | 50.00% | ~23,316 |
+| The Shadow strikes | 70.00% | ~32,644 |
+| The Evilest Evil | 59.00% | ~27,514 |
+| Twistram is devastated | 58.00% | ~27,048 |
+| The Gehenna Stones | 50.00% | ~23,317 |
 | No one has to die today! | 47.00% | ~21,918 |
-| Death and destruction! | 46.00% | ~21,451 |
+| Death and destruction! | 46.00% | ~21,452 |
 | The Swamplanders from the swamplands | 44.00% | ~20,519 |
 | Rusty Steel | 41.00% | ~19,120 |
-| The One-Huge-Army-Building Evil | 40.00% | ~18,653 |
+| The One-Huge-Army-Building Evil | 40.00% | ~18,654 |
 | Braiiiiins! | 38.00% | ~17,721 |
-| The last burger | 37.00% | ~17,254 |
+| The last burger | 37.00% | ~17,255 |
 | Hands off the Dungeonheart! | 36.00% | ~16,788 |
-| A trip on sea, what fun it can be | 34.00% | ~15,855 |
+| A trip on sea, what fun it can be | 34.00% | ~15,856 |
 | Damned good | 32.00% | ~14,923 |
-| Stock Market Crash | 31.00% | ~14,456 |
-| Factory farming | 31.00% | ~14,456 |
+| Stock Market Crash | 31.00% | ~14,457 |
+| Factory farming | 31.00% | ~14,457 |
 | Shadow hunter | 29.00% | ~13,524 |
 | Not-So-Overproud | 29.00% | ~13,524 |
-| For a handfull of Catapults | 28.00% | ~13,057 |
+| For a handfull of Catapults | 28.00% | ~13,058 |
 | Thirst quencher | 27.00% | ~12,591 |
 | Ogre Solo! | 27.00% | ~12,591 |
 | Destroy the thing | 26.00% | ~12,125 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~933 |
 | Sacrifices! | 2.00% | ~933 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,633 (Ranked 127)  
+Progressed: 46,634 (Ranked 127)  
 Completed: 373 (0.80%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 373 (0.80%) (Ranked 193)
 | 2024-01-09 | 46,458 | 371 |
 | 2024-01-10 | 46,535 | 372 |
 | 2024-01-11 | 46,613 | 373 |
-| 2024-01-12 | 46,633 | 373 |
+| 2024-01-12 | 46,634 | 373 |
 ## Awards
 Max (Great for Beginners): 398  (Ranked 241)  
 Sum: 2,849 (Ranked 189)  

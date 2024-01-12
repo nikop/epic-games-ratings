@@ -28,9 +28,9 @@ Number of Ratings: 124  (23.09.2022)
 | Perfectionist | 8.00% | ~19 |
 | Hunter | 8.00% | ~19 |
 | Lover | 8.00% | ~19 |
+| Beam Me Up | 7.00% | ~17 |
 | Hotshot | 7.00% | ~17 |
 | Treasure Hunter | 6.00% | ~14 |
-| Beam Me Up | 6.00% | ~14 |
 | Free as a Bird | 6.00% | ~14 |
 | Cleric | 6.00% | ~14 |
 | Detective | 6.00% | ~14 |

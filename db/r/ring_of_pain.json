@@ -3830,11 +3830,17 @@
       "Rating": 4.58,
       "NumberOfAwards": 11794,
       "NumberOfAwardsMax": 1514
+    },
+    {
+      "Time": "2024-01-12T05:59:51.3980396+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11795,
+      "NumberOfAwardsMax": 1515
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11794,
-  "NumberOfAwardsMax": 1514,
+  "NumberOfAwards": 11795,
+  "NumberOfAwardsMax": 1515,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -3865,7 +3871,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1514
+      "Count": 1515
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3904,9 +3910,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242800,
+  "EOS_Progressed": 242803,
   "EOS_Completed": 305,
-  "EOS_NewPlayers": 425,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31519,6 +31525,11 @@
       "Time": "2024-01-12T04:10:12.0469483+00:00",
       "NumProgressed": 242800,
       "NumCompleted": 305
+    },
+    {
+      "Time": "2024-01-12T06:11:13.6634998+00:00",
+      "NumProgressed": 242803,
+      "NumCompleted": 305
     }
   ],
   "TotalAchievements": 138,
@@ -32616,9 +32627,9 @@
       "ID": "SURVIVE60DAMAGESWAMPNEST",
       "SetID": "1peahb6",
       "Name": "What Doesn\u0027t Kill You",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "WEARSAMESETINSLOTS",
@@ -32633,22 +32644,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242800,
+      "Progressed": 242803,
       "Completed": 305
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4280,
+      "Progressed": 4283,
       "Completed": 424
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2024-01-11T15:59:42.9340933+00:00",
-  "LastChanged_Achievements": "2024-01-12T05:10:08.0385977+00:00",
+  "LastChanged": "2024-01-12T05:59:51.3980392+00:00",
+  "LastChanged_Achievements": "2024-01-12T06:11:13.6634995+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-12T04:58:51.5300865+00:00",
-  "LastUpdate_Achievements": "2024-01-12T05:10:08.0388687+00:00"
+  "LastUpdate_Ratings": "2024-01-12T05:59:51.3980412+00:00",
+  "LastUpdate_Achievements": "2024-01-12T06:11:13.6637857+00:00"
 }

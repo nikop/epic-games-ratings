@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1881,
+  "EOS_Progressed": 1882,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5028,6 +5028,11 @@
       "Time": "2024-01-12T00:09:18.4537843+00:00",
       "NumProgressed": 1881,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T06:10:25.7431208+00:00",
+      "NumProgressed": 1882,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5117,9 +5122,9 @@
       "ID": "ACHIEVEMENT_ZERO_WASTE",
       "SetID": "l546gc",
       "Name": "Zero Waste",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 564
+      "UsersEstimate": 546
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -5143,7 +5148,7 @@
       "Name": "All Wheel Trouble",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "NEW_ACHIEVEMENT_BAREEL_ROLL",
@@ -5191,7 +5196,7 @@
       "Name": "Detective",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -5295,7 +5300,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -5311,7 +5316,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -5399,7 +5404,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -5422,7 +5427,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1881,
+      "Progressed": 1882,
       "Completed": 0
     }
   ],
@@ -5430,8 +5435,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2024-01-09T16:02:23.0830001+00:00",
-  "LastChanged_Achievements": "2024-01-12T05:09:30.4300366+00:00",
+  "LastChanged_Achievements": "2024-01-12T06:10:25.7431204+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.830509+00:00",
-  "LastUpdate_Ratings": "2024-01-12T04:56:57.6588687+00:00",
-  "LastUpdate_Achievements": "2024-01-12T05:09:30.4301084+00:00"
+  "LastUpdate_Ratings": "2024-01-12T05:57:14.4364818+00:00",
+  "LastUpdate_Achievements": "2024-01-12T06:10:25.7431774+00:00"
 }

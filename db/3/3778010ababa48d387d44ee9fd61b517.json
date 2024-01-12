@@ -4,7 +4,7 @@
   "ProductSlug": "the-hive-f5c2c8",
   "Ranking_EOS_Progress": 537,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 64,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -577,9 +577,9 @@
       "ID": "A_SKIP_ADVISOR advisor (0-5)",
       "SetID": "324h56e",
       "Name": "Silencer",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "A_SUN",
@@ -648,8 +648,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-12T05:03:26.4728909+00:00",
+  "LastChanged_Achievements": "2024-01-12T06:04:11.3623391+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.8788926+00:00",
-  "LastUpdate_Ratings": "2024-01-12T04:59:37.5250133+00:00",
-  "LastUpdate_Achievements": "2024-01-12T05:03:26.4729321+00:00"
+  "LastUpdate_Ratings": "2024-01-12T06:00:54.4713047+00:00",
+  "LastUpdate_Achievements": "2024-01-12T06:04:11.362365+00:00"
 }

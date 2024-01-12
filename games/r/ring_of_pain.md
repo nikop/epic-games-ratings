@@ -44,6 +44,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Walker | 0.70% | ~1,700 |
 | Flesh Wound | 0.70% | ~1,700 |
 | Shapeshifting | 0.70% | ~1,700 |
+| What Doesn't Kill You | 0.70% | ~30 |
 | To The Death! | 0.60% | ~1,457 |
 | Well Prepared | 0.60% | ~1,457 |
 | Just Chilling | 0.60% | ~1,457 |
@@ -53,7 +54,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Acid Bath | 0.60% | ~1,457 |
 | New Perspectives | 0.60% | ~1,457 |
 | Expensive Look | 0.60% | ~26 |
-| What Doesn't Kill You | 0.60% | ~26 |
 | Thank You, Friend | 0.50% | ~1,214 |
 | Shadow Spreads | 0.50% | ~1,214 |
 | Max Damage! | 0.50% | ~1,214 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,800 (Ranked 73)  
+Progressed: 242,803 (Ranked 73)  
 Completed: 305 (0.13%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,15 +412,15 @@ Completed: 305 (0.13%) (Ranked 302)
 | 2024-01-09 | 242,696 | 304 |
 | 2024-01-10 | 242,736 | 305 |
 | 2024-01-11 | 242,789 | 305 |
-| 2024-01-12 | 242,800 | 305 |
+| 2024-01-12 | 242,803 | 305 |
 ## Awards
-Max (Quickly Understood Controls): 1,514  (Ranked 139)  
-Sum: 11,794 (Ranked 89)  
+Max (Quickly Understood Controls): 1,515  (Ranked 139)  
+Sum: 11,795 (Ranked 89)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,534 |
-| This game has Quickly Understood Controls | 1,514 |
+| This game has Quickly Understood Controls | 1,515 |
 | This game is Relaxing | 1,451 |
 | This game has Challenging Combat | 1,447 |
 | This game is Extremely Fun | 1,426 |
@@ -687,3 +687,4 @@ Diff (max vs sum): 50
 | 2024-01-09 | 4.58 | - | 1,514 | 11,790 |
 | 2024-01-10 | 4.58 | - | 1,514 | 11,791 |
 | 2024-01-11 | 4.58 | - | 1,514 | 11,794 |
+| 2024-01-12 | 4.58 | - | 1,515 | 11,795 |

@@ -4,7 +4,7 @@
   "ProductSlug": "strike-force-kitty-4603e5",
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 198,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1199,8 +1199,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2024-01-12T05:05:45.5591677+00:00",
+  "LastChanged_Achievements": "2024-01-12T06:07:16.9447089+00:00",
   "LastUpdate_AppInfo": "2024-01-10T10:57:39.7888717+00:00",
-  "LastUpdate_Ratings": "2024-01-12T04:58:37.6416819+00:00",
-  "LastUpdate_Achievements": "2024-01-12T05:05:45.5591951+00:00"
+  "LastUpdate_Ratings": "2024-01-12T05:59:31.1254738+00:00",
+  "LastUpdate_Achievements": "2024-01-12T06:07:16.9447507+00:00"
 }

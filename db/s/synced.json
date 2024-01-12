@@ -1761,9 +1761,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 86454,
+  "EOS_Progressed": 86460,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 3107,
+  "EOS_NewPlayers": 3113,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -16401,6 +16401,11 @@
       "Time": "2024-01-12T05:03:37.6615626+00:00",
       "NumProgressed": 86454,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-12T06:04:26.0488997+00:00",
+      "NumProgressed": 86460,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -16413,7 +16418,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 38904
+      "UsersEstimate": 38907
     },
     {
       "ID": "10",
@@ -16477,7 +16482,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 18155
+      "UsersEstimate": 18157
     },
     {
       "ID": "3",
@@ -16509,7 +16514,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5187
+      "UsersEstimate": 5188
     },
     {
       "ID": "7",
@@ -16517,7 +16522,7 @@
       "Name": "More Power to You",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 19884
+      "UsersEstimate": 19886
     },
     {
       "ID": "8",
@@ -16540,7 +16545,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 86454,
+      "Progressed": 86460,
       "Completed": 67
     }
   ],
@@ -16548,8 +16553,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-12T03:58:59.8666839+00:00",
-  "LastChanged_Achievements": "2024-01-12T05:03:37.6615623+00:00",
+  "LastChanged_Achievements": "2024-01-12T06:04:26.0488991+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:51.8643288+00:00",
-  "LastUpdate_Ratings": "2024-01-12T04:58:45.4794791+00:00",
-  "LastUpdate_Achievements": "2024-01-12T05:03:37.6616207+00:00"
+  "LastUpdate_Ratings": "2024-01-12T05:59:42.5218041+00:00",
+  "LastUpdate_Achievements": "2024-01-12T06:04:26.0489769+00:00"
 }

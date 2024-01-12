@@ -3999,7 +3999,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33560,
+  "EOS_Progressed": 33563,
   "EOS_Completed": 71,
   "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 0,
@@ -25279,6 +25279,11 @@
       "Time": "2024-01-12T04:09:03.1468256+00:00",
       "NumProgressed": 33560,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-12T06:09:42.7710189+00:00",
+      "NumProgressed": 33563,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -25354,7 +25359,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "Daily_Dose",
@@ -25362,7 +25367,7 @@
       "Name": "Daily Dose",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "Diabolical",
@@ -25402,7 +25407,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 3020
+      "UsersEstimate": 3021
     },
     {
       "ID": "Escape_Artist",
@@ -25434,7 +25439,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "Ghost_Expert",
@@ -25520,9 +25525,9 @@
       "ID": "Rift_Destroyer",
       "SetID": "819popo",
       "Name": "Rift Destroyer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 1007
     },
     {
       "ID": "Rift_Seeker",
@@ -25538,7 +25543,7 @@
       "Name": "Right back at ya",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "Rivalry",
@@ -25642,7 +25647,7 @@
       "Name": "Therapeutic",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "There_You_Are",
@@ -25690,14 +25695,14 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33560,
+      "Progressed": 33563,
       "Completed": 71
     }
   ],
@@ -25705,8 +25710,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-11T18:59:58.0026653+00:00",
-  "LastChanged_Achievements": "2024-01-12T05:08:57.9935293+00:00",
+  "LastChanged_Achievements": "2024-01-12T06:09:42.7710185+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.8485347+00:00",
-  "LastUpdate_Ratings": "2024-01-12T04:59:57.7851722+00:00",
-  "LastUpdate_Achievements": "2024-01-12T05:08:57.9936375+00:00"
+  "LastUpdate_Ratings": "2024-01-12T06:01:23.5993807+00:00",
+  "LastUpdate_Achievements": "2024-01-12T06:09:42.7711526+00:00"
 }

@@ -335,9 +335,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 11125,
+  "EOS_Progressed": 11126,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1001,
+  "EOS_NewPlayers": 998,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4575,6 +4575,11 @@
       "Time": "2024-01-12T05:09:58.3682631+00:00",
       "NumProgressed": 11125,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T06:11:02.3724433+00:00",
+      "NumProgressed": 11126,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4619,7 +4624,7 @@
       "Name": "Expanse Calamity",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "07_TheGrandFinale",
@@ -4731,7 +4736,7 @@
       "Name": "Purge the Unclean",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "21_PreciseDefense",
@@ -4787,7 +4792,7 @@
       "Name": "Uncover the Ice",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "28_TheLightOfAstronomicon",
@@ -4803,7 +4808,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "30_The GreatestExploration",
@@ -4819,7 +4824,7 @@
       "Name": "Don\u0027t Touch This",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "32_AviationSaviour",
@@ -4835,7 +4840,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -4867,7 +4872,7 @@
       "Name": "Silver-Tongued Diplomat",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
@@ -4899,7 +4904,7 @@
       "Name": "Jungle Heat",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "42_TheIronJudgement",
@@ -4987,7 +4992,7 @@
       "Name": "Frog Trader",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "53_GardensOfMadness",
@@ -5003,7 +5008,7 @@
       "Name": "This Is a Job for the Lord Captain!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -5011,7 +5016,7 @@
       "Name": "Returning the Boots",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "56_ThoroughInvestigation",
@@ -5019,7 +5024,7 @@
       "Name": "Thorough Investigation",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "57_TheBurningHeritage",
@@ -5027,7 +5032,7 @@
       "Name": "Burning Inheritance",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -5106,7 +5111,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11125,
+      "Progressed": 11126,
       "Completed": 1
     }
   ],
@@ -5114,8 +5119,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-12T03:59:45.455551+00:00",
-  "LastChanged_Achievements": "2024-01-12T05:09:58.3682628+00:00",
+  "LastChanged_Achievements": "2024-01-12T06:11:02.372443+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-12T04:59:32.3252839+00:00",
-  "LastUpdate_Achievements": "2024-01-12T05:09:58.3683239+00:00"
+  "LastUpdate_Ratings": "2024-01-12T06:00:47.3722326+00:00",
+  "LastUpdate_Achievements": "2024-01-12T06:11:02.3725223+00:00"
 }

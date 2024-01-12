@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 139242,
+  "EOS_Progressed": 139243,
   "EOS_Completed": 1255,
-  "EOS_NewPlayers": 1222,
+  "EOS_NewPlayers": 1219,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -30850,6 +30850,11 @@
       "Time": "2024-01-12T05:04:27.83602+00:00",
       "NumProgressed": 139242,
       "NumCompleted": 1255
+    },
+    {
+      "Time": "2024-01-12T06:05:33.5862293+00:00",
+      "NumProgressed": 139243,
+      "NumCompleted": 1255
     }
   ],
   "TotalAchievements": 34,
@@ -30957,7 +30962,7 @@
       "Name": "Weekend at Walakea\u0027s",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 37595
+      "UsersEstimate": 37596
     },
     {
       "ID": "ACH_L02_LOGO",
@@ -31029,7 +31034,7 @@
       "Name": "Quite a Show",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 37595
+      "UsersEstimate": 37596
     },
     {
       "ID": "ACH_L04B_DESERT_END",
@@ -31069,7 +31074,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 34810
+      "UsersEstimate": 34811
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -31077,7 +31082,7 @@
       "Name": "Sunken",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 34810
+      "UsersEstimate": 34811
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -31132,7 +31137,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 139242,
+      "Progressed": 139243,
       "Completed": 1255
     }
   ],
@@ -31140,8 +31145,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2024-01-10T13:04:20.7610519+00:00",
-  "LastChanged_Achievements": "2024-01-12T05:04:27.8360197+00:00",
+  "LastChanged_Achievements": "2024-01-12T06:05:33.586229+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:31.1133234+00:00",
-  "LastUpdate_Ratings": "2024-01-12T04:59:02.4524108+00:00",
-  "LastUpdate_Achievements": "2024-01-12T05:04:27.8361667+00:00"
+  "LastUpdate_Ratings": "2024-01-12T06:00:05.368514+00:00",
+  "LastUpdate_Achievements": "2024-01-12T06:05:33.5863849+00:00"
 }

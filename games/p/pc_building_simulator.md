@@ -6,14 +6,14 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,767,744 |
-| Easy to forget | 46.00% | ~1,659,514 |
-| Back in the black | 39.00% | ~1,406,980 |
-| That's what I'm talking about | 29.00% | ~1,046,216 |
-| The Best of Both Worlds | 25.00% | ~901,910 |
-| Get your wings | 20.00% | ~721,528 |
-| Double trouble | 16.00% | ~577,222 |
-| Smashing it | 11.00% | ~396,840 |
+| You need to plug it in... | 49.00% | ~1,767,748 |
+| Easy to forget | 46.00% | ~1,659,518 |
+| Back in the black | 39.00% | ~1,406,983 |
+| That's what I'm talking about | 29.00% | ~1,046,218 |
+| The Best of Both Worlds | 25.00% | ~901,912 |
+| Get your wings | 20.00% | ~721,530 |
+| Double trouble | 16.00% | ~577,224 |
+| Smashing it | 11.00% | ~396,841 |
 | But can it run Crysis? | 9.00% | ~324,688 |
 | My favourite feature... | 9.00% | ~324,688 |
 | From humble beginnings... | 7.00% | ~252,535 |
@@ -38,7 +38,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Building isn't cheap! | 1.00% | ~36,076 |
 | Majority Shareholder | 1.00% | ~36,076 |
 | Owner | 1.00% | ~36,076 |
-| Work ethic 101 | 0.70% | ~25,253 |
+| Work ethic 101 | 0.70% | ~25,254 |
 | Building momentum | 0.60% | ~21,646 |
 | Lead by example | 0.60% | ~21,646 |
 | Treat yourself - RAM | 0.50% | ~18,038 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,608 |
 | Treat yourself - GPU | 0.10% | ~3,608 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,607,640 (Ranked 5)  
+Progressed: 3,607,648 (Ranked 5)  
 Completed: 41 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,11 +326,11 @@ Completed: 41 (0.00%) (Ranked 399)
 | 2024-01-09 | 3,606,732 | 41 |
 | 2024-01-10 | 3,607,189 | 41 |
 | 2024-01-11 | 3,607,576 | 41 |
-| 2024-01-12 | 3,607,640 | 41 |
+| 2024-01-12 | 3,607,648 | 41 |
 ## Awards
 Max (Great for Beginners): 1,139  (Ranked 153)  
-Sum: 8,287 (Ranked 114)  
-Diff (max vs sum): 39  
+Sum: 8,290 (Ranked 113)  
+Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,139 |
@@ -340,7 +340,7 @@ Diff (max vs sum): 39
 | This game has Quickly Understood Controls | 969 |
 | This game is Highly Recommended | 932 |
 | This game has Amazing Storytelling | 841 |
-| This game has Amazing Characters | 684 |
+| This game has Amazing Characters | 687 |
 | This game has a Creative Community | 670 |
 | This game has Obsessive Gameplay | 664 |
 ## Ratings History
@@ -653,3 +653,4 @@ Diff (max vs sum): 39
 | 2024-01-09 | 4.66 | - | 1,138 | 8,283 |
 | 2024-01-10 | 4.66 | - | 1,139 | 8,285 |
 | 2024-01-11 | 4.66 | - | 1,139 | 8,287 |
+| 2024-01-12 | 4.66 | - | 1,139 | 8,290 |

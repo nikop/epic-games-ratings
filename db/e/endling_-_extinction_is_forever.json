@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewPlayers": 375,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 598,
+  "EOS_Progressed": 599,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -1174,6 +1174,11 @@
       "Time": "2024-01-11T17:11:40.1779729+00:00",
       "NumProgressed": 598,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-12T06:11:04.3326546+00:00",
+      "NumProgressed": 599,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -1249,7 +1254,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "TROP009",
@@ -1257,7 +1262,7 @@
       "Name": "Surviving",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "TROP010",
@@ -1281,7 +1286,7 @@
       "Name": "Never Give Up",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "TROP013",
@@ -1353,7 +1358,7 @@
       "Name": "Tasty",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "TROP022",
@@ -1369,7 +1374,7 @@
       "Name": "Detox diet",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "TROP024",
@@ -1377,7 +1382,7 @@
       "Name": "You Can Pet The Fox",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "TROP025",
@@ -1393,7 +1398,7 @@
       "Name": "Lullaby",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "TROP027",
@@ -1408,7 +1413,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 598,
+      "Progressed": 599,
       "Completed": 3
     }
   ],
@@ -1416,8 +1421,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2024-01-12T05:09:59.9127543+00:00",
+  "LastChanged_Achievements": "2024-01-12T06:11:04.3326543+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:55.943768+00:00",
-  "LastUpdate_Ratings": "2024-01-12T04:58:01.5122863+00:00",
-  "LastUpdate_Achievements": "2024-01-12T05:09:59.9127746+00:00"
+  "LastUpdate_Ratings": "2024-01-12T05:58:42.0325598+00:00",
+  "LastUpdate_Achievements": "2024-01-12T06:11:04.3326945+00:00"
 }

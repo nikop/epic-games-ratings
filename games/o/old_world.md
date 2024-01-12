@@ -76,6 +76,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.60% | ~99 |
 | Mighty | 0.60% | ~99 |
 | Good Difficulty | 0.60% | ~99 |
+| Landowners | 0.60% | ~99 |
 | Patrons | 0.60% | ~99 |
 | Statesmen | 0.60% | ~99 |
 | Greece | 0.60% | ~99 |
@@ -86,7 +87,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.50% | ~82 |
 | Subjugator | 0.50% | ~82 |
 | Victorious | 0.50% | ~82 |
-| Landowners | 0.50% | ~82 |
 | Riders | 0.50% | ~82 |
 | Traders | 0.50% | ~82 |
 | Hittite Iron | 0.50% | ~82 |

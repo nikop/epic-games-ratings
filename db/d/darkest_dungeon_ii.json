@@ -10746,9 +10746,9 @@
       "Count": 1092
     }
   ],
-  "EOS_Progressed": 132510,
+  "EOS_Progressed": 132514,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 792,
+  "EOS_NewPlayers": 791,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39446,6 +39446,11 @@
       "Time": "2024-01-12T05:09:48.7732483+00:00",
       "NumProgressed": 132510,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-12T06:10:50.3532993+00:00",
+      "NumProgressed": 132514,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39745,7 +39750,7 @@
       "Name": "Spelunker",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5300
+      "UsersEstimate": 5301
     },
     {
       "ID": "driving_biome_clear_city",
@@ -39761,7 +39766,7 @@
       "Name": "Merry Time",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5300
+      "UsersEstimate": 5301
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -39769,7 +39774,7 @@
       "Name": "Harvest Festival",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5300
+      "UsersEstimate": 5301
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -39785,7 +39790,7 @@
       "Name": "Ramble On",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5300
+      "UsersEstimate": 5301
     },
     {
       "ID": "driving_distance_hard",
@@ -39833,7 +39838,7 @@
       "Name": "Whale",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5300
+      "UsersEstimate": 5301
     },
     {
       "ID": "hospital_full_service",
@@ -39905,7 +39910,7 @@
       "Name": "Nope",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5300
+      "UsersEstimate": 5301
     },
     {
       "ID": "run_victory_act01",
@@ -39913,7 +39918,7 @@
       "Name": "Unshackled",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 5300
+      "UsersEstimate": 5301
     },
     {
       "ID": "run_victory_act02",
@@ -39993,7 +39998,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "combat_kill_collector",
@@ -40057,7 +40062,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -40088,21 +40093,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132510,
+      "Progressed": 132514,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7379,
+      "Progressed": 7383,
       "Completed": 825
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-11T21:01:00.9596735+00:00",
-  "LastChanged_Achievements": "2024-01-12T05:09:48.773248+00:00",
+  "LastChanged_Achievements": "2024-01-12T06:10:50.3532989+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-12T04:59:46.909651+00:00",
-  "LastUpdate_Achievements": "2024-01-12T05:09:48.7734218+00:00"
+  "LastUpdate_Ratings": "2024-01-12T06:01:08.2379837+00:00",
+  "LastUpdate_Achievements": "2024-01-12T06:10:50.3534888+00:00"
 }

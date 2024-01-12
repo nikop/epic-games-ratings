@@ -2301,9 +2301,9 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 22107,
+  "EOS_Progressed": 22108,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -13251,6 +13251,11 @@
       "Time": "2024-01-12T05:05:02.840899+00:00",
       "NumProgressed": 22107,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-12T06:06:20.0958275+00:00",
+      "NumProgressed": 22108,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -13310,7 +13315,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 21002
+      "UsersEstimate": 21003
     },
     {
       "ID": "GameOver",
@@ -13374,7 +13379,7 @@
       "Name": "Just Enough",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4421
+      "UsersEstimate": 4422
     },
     {
       "ID": "Negotiator",
@@ -13398,7 +13403,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4421
+      "UsersEstimate": 4422
     },
     {
       "ID": "SeniorEstateAgent",
@@ -13414,7 +13419,7 @@
       "Name": "Pro-creative",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4200
+      "UsersEstimate": 4201
     },
     {
       "ID": "Strongman",
@@ -13445,15 +13450,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 22107,
+      "Progressed": 22108,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2024-01-11T23:59:10.5298224+00:00",
-  "LastChanged_Achievements": "2024-01-12T05:05:02.8408987+00:00",
+  "LastChanged_Achievements": "2024-01-12T06:06:20.0958271+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:58.4708185+00:00",
-  "LastUpdate_Ratings": "2024-01-12T04:59:12.8301868+00:00",
-  "LastUpdate_Achievements": "2024-01-12T05:05:02.8409556+00:00"
+  "LastUpdate_Ratings": "2024-01-12T06:00:20.4167728+00:00",
+  "LastUpdate_Achievements": "2024-01-12T06:06:20.095903+00:00"
 }

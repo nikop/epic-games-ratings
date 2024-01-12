@@ -4,7 +4,7 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -862,9 +862,9 @@
       "ID": "ACH_DEFEAT_BOSS_USKOL",
       "SetID": "7i20me3",
       "Name": "Defeat Uskol",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_DEFEAT_ENEMEIS_WITH_FISTS",
@@ -894,9 +894,9 @@
       "ID": "ACH_ENTER_REGION_LIZARD",
       "SetID": "7i20me3",
       "Name": "Searing Heat",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_ENTER_REGION_SPIRE",
@@ -974,9 +974,9 @@
       "ID": "ACH_FIND_ALL_PLANT_TYPES",
       "SetID": "7i20me3",
       "Name": "Witch",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_FIND_ALL_RUNES",
@@ -990,9 +990,9 @@
       "ID": "ACH_FIND_ALL_STORY_MURALS",
       "SetID": "7i20me3",
       "Name": "Nothing but the Truth",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_FIND_ALL_STORY_NOTES",
@@ -1229,8 +1229,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2024-01-12T05:10:00.1472467+00:00",
+  "LastChanged_Achievements": "2024-01-12T06:11:04.6046312+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:06.39854+00:00",
-  "LastUpdate_Ratings": "2024-01-12T04:59:29.0919672+00:00",
-  "LastUpdate_Achievements": "2024-01-12T05:10:00.1472937+00:00"
+  "LastUpdate_Ratings": "2024-01-12T06:00:42.7913838+00:00",
+  "LastUpdate_Achievements": "2024-01-12T06:11:04.6046819+00:00"
 }

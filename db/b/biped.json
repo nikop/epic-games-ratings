@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10317,
+  "EOS_Progressed": 10319,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 668,
+  "EOS_NewPlayers": 666,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16749,6 +16749,11 @@
       "Time": "2024-01-12T05:05:33.5785334+00:00",
       "NumProgressed": 10317,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T06:07:00.8000012+00:00",
+      "NumProgressed": 10319,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -16760,7 +16765,7 @@
       "Name": "First Step",
       "Percentage": 36,
       "XP": 45,
-      "UsersEstimate": 3714
+      "UsersEstimate": 3715
     },
     {
       "ID": "10",
@@ -16776,7 +16781,7 @@
       "Name": "Telepathic",
       "Percentage": 8,
       "XP": 70,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "12",
@@ -16840,7 +16845,7 @@
       "Name": "Snowy Peak",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "6",
@@ -16879,7 +16884,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10317,
+      "Progressed": 10319,
       "Completed": 0
     }
   ],
@@ -16887,8 +16892,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-12T05:05:33.5785332+00:00",
+  "LastChanged_Achievements": "2024-01-12T06:07:00.8000009+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:19.9263192+00:00",
-  "LastUpdate_Ratings": "2024-01-12T04:59:24.5242903+00:00",
-  "LastUpdate_Achievements": "2024-01-12T05:05:33.5786045+00:00"
+  "LastUpdate_Ratings": "2024-01-12T06:00:36.3805281+00:00",
+  "LastUpdate_Achievements": "2024-01-12T06:07:00.8000887+00:00"
 }

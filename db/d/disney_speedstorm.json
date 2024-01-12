@@ -2811,10 +2811,10 @@
       "Count": 62
     }
   ],
-  "EOS_Progressed": 395087,
-  "EOS_Completed": 1572,
-  "EOS_NewPlayers": 10006,
-  "EOS_NewCompleters": 126,
+  "EOS_Progressed": 395109,
+  "EOS_Completed": 1573,
+  "EOS_NewPlayers": 9977,
+  "EOS_NewCompleters": 127,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
     {
@@ -20616,6 +20616,11 @@
       "Time": "2024-01-12T05:08:36.0462337+00:00",
       "NumProgressed": 395087,
       "NumCompleted": 1572
+    },
+    {
+      "Time": "2024-01-12T06:09:13.825557+00:00",
+      "NumProgressed": 395109,
+      "NumCompleted": 1573
     }
   ],
   "TotalAchievements": 24,
@@ -20635,7 +20640,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 23705
+      "UsersEstimate": 23707
     },
     {
       "ID": "11",
@@ -20667,7 +20672,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 35558
+      "UsersEstimate": 35560
     },
     {
       "ID": "15",
@@ -20723,7 +20728,7 @@
       "Name": "PROTECTED",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 19754
+      "UsersEstimate": 19755
     },
     {
       "ID": "21",
@@ -20755,7 +20760,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 15803
+      "UsersEstimate": 15804
     },
     {
       "ID": "3",
@@ -20779,7 +20784,7 @@
       "Name": "ROOKIE",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 51361
+      "UsersEstimate": 51364
     },
     {
       "ID": "6",
@@ -20787,7 +20792,7 @@
       "Name": "PRO",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 15803
+      "UsersEstimate": 15804
     },
     {
       "ID": "7",
@@ -20818,16 +20823,16 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 395087,
-      "Completed": 1572
+      "Progressed": 395109,
+      "Completed": 1573
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2024-01-12T04:58:52.1475876+00:00",
-  "LastChanged_Achievements": "2024-01-12T05:08:36.0462334+00:00",
+  "LastChanged_Achievements": "2024-01-12T06:09:13.8255564+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.3145678+00:00",
-  "LastUpdate_Ratings": "2024-01-12T04:58:52.147588+00:00",
-  "LastUpdate_Achievements": "2024-01-12T05:08:36.0463212+00:00"
+  "LastUpdate_Ratings": "2024-01-12T05:59:52.2481076+00:00",
+  "LastUpdate_Achievements": "2024-01-12T06:09:13.8256387+00:00"
 }

@@ -23,10 +23,10 @@ Number of Ratings: 76  (23.09.2022)
 | Toxic Terror | 8.00% | ~77 |
 | Hit Rock Bottom | 8.00% | ~77 |
 | Are you ready now? | 7.00% | ~67 |
+| Hello, Bikini Bottom | 7.00% | ~67 |
 | Keep it Rolling | 7.00% | ~67 |
 | Ultra Spatula Seeker | 7.00% | ~67 |
 | Robot encyclopedia | 6.00% | ~58 |
-| Hello, Bikini Bottom | 6.00% | ~58 |
 | Ship Shape | 5.00% | ~48 |
 | Kelp Forest of Fear | 5.00% | ~48 |
 | The Small Does Not Rule | 4.00% | ~38 |

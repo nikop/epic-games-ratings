@@ -3,9 +3,9 @@
   "Name": "Top Web Search 23",
   "ProductSlug": "top-web-search-23-a34613",
   "Ranking_EOS_Progress": 609,
-  "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_Completed": 25,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2024-01-10T18:00:00+00:00",
     "PcReleaseDate": "2024-01-10T18:00:00+00:00",
@@ -23,10 +23,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 27,
-  "EOS_Completed": 4,
+  "EOS_Completed": 5,
   "EOS_NewPlayers": 26,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 14.81,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 18.52,
   "EosHistory": [
     {
       "Time": "2024-01-10T19:04:16.2058384+00:00",
@@ -117,6 +117,11 @@
       "Time": "2024-01-12T04:04:49.4432592+00:00",
       "NumProgressed": 27,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-12T06:05:51.9034954+00:00",
+      "NumProgressed": 27,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2024-01-08T21:03:53.9988835+00:00",
@@ -159,9 +164,9 @@
       "ID": "FOURTEENSTAR_STRATEGIST",
       "SetID": "44h0e32",
       "Name": "Fourteen-Star Strategist",
-      "Percentage": 15,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "HIGH_FIVE_DECISION_MAKER",
@@ -241,12 +246,12 @@
       "ID": "44h0e32",
       "IsBase": true,
       "Progressed": 27,
-      "Completed": 4
+      "Completed": 5
     }
   ],
   "FirstSeenAchievements": "2024-01-08T21:03:53.9988833+00:00",
-  "LastChanged_Achievements": "2024-01-12T05:04:41.3810115+00:00",
+  "LastChanged_Achievements": "2024-01-12T06:05:51.9034949+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.0574061+00:00",
-  "LastUpdate_Ratings": "2024-01-12T04:58:35.340606+00:00",
-  "LastUpdate_Achievements": "2024-01-12T05:04:41.3810204+00:00"
+  "LastUpdate_Ratings": "2024-01-12T05:59:27.5395668+00:00",
+  "LastUpdate_Achievements": "2024-01-12T06:05:51.9035075+00:00"
 }

@@ -14,10 +14,10 @@ Rating: 4.40 (Ranked 769)
 | Halfway there | 30.00% | ~41,773 |
 | A brigantine, a brig and a barque | 28.00% | ~38,988 |
 | 506 East Hampden Avenue | 28.00% | ~38,988 |
-| Weekend at Walakea's | 27.00% | ~37,595 |
-| Quite a Show | 27.00% | ~37,595 |
-| Dark Water Ride | 25.00% | ~34,810 |
-| Sunken | 25.00% | ~34,810 |
+| Weekend at Walakea's | 27.00% | ~37,596 |
+| Quite a Show | 27.00% | ~37,596 |
+| Dark Water Ride | 25.00% | ~34,811 |
+| Sunken | 25.00% | ~34,811 |
 | Deep Cut | 24.00% | ~33,418 |
 | FHALGOF'N' | 23.00% | ~32,026 |
 | Marsh Cannery | 21.00% | ~29,241 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 769)
 | Soundcheck | 2.00% | ~2,785 |
 | Meta-reference | 1.00% | ~1,392 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,242 (Ranked 89)  
+Progressed: 139,243 (Ranked 89)  
 Completed: 1,255 (0.90%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 1,255 (0.90%) (Ranked 187)
 | 2024-01-09 | 138,924 | 1,251 |
 | 2024-01-10 | 139,070 | 1,254 |
 | 2024-01-11 | 139,212 | 1,254 |
-| 2024-01-12 | 139,242 | 1,255 |
+| 2024-01-12 | 139,243 | 1,255 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

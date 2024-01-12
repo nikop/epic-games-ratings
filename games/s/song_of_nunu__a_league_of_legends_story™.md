@@ -5,23 +5,23 @@ Rating: 4.59 (Ranked 452)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 74.00% | ~1,134 |
-| I Broke It | 73.00% | ~1,119 |
-| Better On Ice | 68.00% | ~1,042 |
+| Feels Familiar | 74.00% | ~1,135 |
+| I Broke It | 73.00% | ~1,120 |
+| Better On Ice | 68.00% | ~1,043 |
 | Notai Notes | 66.00% | ~1,012 |
-| Blue Dreams | 65.00% | ~996 |
-| He's Famous! | 65.00% | ~996 |
-| Cutie Poro | 65.00% | ~996 |
-| Krugmazing | 64.00% | ~981 |
-| The Fire Below the Mountain | 61.00% | ~935 |
+| Blue Dreams | 65.00% | ~997 |
+| He's Famous! | 65.00% | ~997 |
+| Cutie Poro | 65.00% | ~997 |
+| Krugmazing | 64.00% | ~982 |
 | Moneyball | 60.00% | ~920 |
-| Iceborn | 55.00% | ~843 |
+| The Fire Below the Mountain | 60.00% | ~920 |
+| Iceborn | 55.00% | ~844 |
 | No Bites | 54.00% | ~828 |
-| Tear of Freedom | 52.00% | ~797 |
-| Boom Things | 52.00% | ~797 |
+| Tear of Freedom | 52.00% | ~798 |
+| Boom Things | 52.00% | ~798 |
 | My Darkest Day | 48.00% | ~736 |
-| Rhythm Of Willump | 46.00% | ~705 |
-| The Relentless Storm | 46.00% | ~705 |
+| Rhythm Of Willump | 46.00% | ~706 |
+| The Relentless Storm | 46.00% | ~706 |
 | A Tragic Reminder | 44.00% | ~675 |
 | 3000 Year Blackout | 44.00% | ~675 |
 | The Finisher | 42.00% | ~644 |
@@ -47,10 +47,10 @@ Rating: 4.59 (Ranked 452)
 | The Pied Piper Of Freljord | 4.00% | ~61 |
 | Braum's Poro Ranch | 3.00% | ~46 |
 | Rock Star | 2.00% | ~31 |
-| We Are Speed | 2.00% | ~31 |
 | Sneaky Notai | 1.00% | ~15 |
+| We Are Speed | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,533 (Ranked 268)  
+Progressed: 1,534 (Ranked 267)  
 Completed: 9 (0.59%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,6 +134,7 @@ Completed: 9 (0.59%) (Ranked 213)
 | 2024-01-09 | 1,515 | 9 |
 | 2024-01-10 | 1,524 | 9 |
 | 2024-01-11 | 1,533 | 9 |
+| 2024-01-12 | 1,534 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

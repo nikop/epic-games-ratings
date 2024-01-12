@@ -7,18 +7,19 @@ Rating: 4.57 (Ranked 494)
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 3.00% | ~70 |
 | Become King | 2.00% | ~46 |
+| Collect Gold | 2.00% | ~46 |
 | Collect Iron Ore | 2.00% | ~46 |
 | Collect Monster Parts | 2.00% | ~46 |
 | Ranged Weapon | 2.00% | ~46 |
 | Two Handed Weapon | 2.00% | ~46 |
 | Defeat 25 Grubs | 2.00% | ~46 |
 | Defeat 25 Frogs | 2.00% | ~46 |
+| Smithy Ready to Craft | 2.00% | ~46 |
 | Rescue Redgi's Brothers | 2.00% | ~46 |
 | Defeat Croakhis Khan | 2.00% | ~19 |
 | Shield Maiden Yellow Tongue | 2.00% | ~19 |
 | I Remember My First Beer | 2.00% | ~19 |
 | The Bright Fir | 2.00% | ~19 |
-| Collect Gold | 1.00% | ~23 |
 | Return the Statues | 1.00% | ~23 |
 | Complete Elder Faction | 1.00% | ~23 |
 | End of the Mozis | 1.00% | ~23 |
@@ -28,16 +29,15 @@ Rating: 4.57 (Ranked 494)
 | Defeat 25 Mozis | 1.00% | ~23 |
 | Meet the Creatures from the Deep | 1.00% | ~23 |
 | Kitchen Ready To Cook | 1.00% | ~23 |
-| Smithy Ready to Craft | 1.00% | ~23 |
 | Throne Room Fit For A King | 1.00% | ~23 |
 | Return Power To The Depths | 1.00% | ~23 |
 | Defeat the Grub Buster | 1.00% | ~10 |
 | Defeat the Stalker Queen | 1.00% | ~10 |
 | Complete the Chefs Book | 0.90% | ~21 |
 | Defeat Avor Warden of the Northern Wastes | 0.80% | ~19 |
+| Complete Arena Faction | 0.70% | ~16 |
 | Discover the mystery of the Kings Chambers | 0.70% | ~16 |
 | Complete Redgi's Armory | 0.60% | ~14 |
-| Complete Arena Faction | 0.60% | ~14 |
 | Complete Ranger Faction | 0.60% | ~14 |
 | King of Kings | 0.50% | ~12 |
 | A new Warchief rises | 0.00% | ~0 |

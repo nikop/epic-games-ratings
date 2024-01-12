@@ -1,7 +1,7 @@
 # Dungeons 4
 [Store](https://store.epicgames.com/en-US/p/dungeons-4-595454)  
 [View Rawdata](../../db/d/dungeons_4.json)  
-Rating: 4.75 (Ranked 148)  
+Rating: 4.75 (Ranked 149)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -63,7 +63,7 @@ Rating: 4.75 (Ranked 148)
 | Untouchable | 17.00% | ~129 |
 | Hands Off My Stones | 15.00% | ~114 |
 | Laser Eyes Are So Useless | 14.00% | ~106 |
-| Gorgu is in the Best of Health | 12.00% | ~91 |
+| Gorgu is in the Best of Health | 13.00% | ~99 |
 | No Mana, No Cry | 11.00% | ~83 |
 | I Don't Need Any Help | 10.00% | ~76 |
 ## Popularity (Based on EOS Achievements)

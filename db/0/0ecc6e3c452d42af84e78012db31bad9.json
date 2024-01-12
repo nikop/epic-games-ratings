@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4960,
+  "EOS_Progressed": 4961,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -13180,6 +13180,11 @@
       "Time": "2024-01-12T01:54:25.2218004+00:00",
       "NumProgressed": 4960,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2024-01-12T06:06:32.8500197+00:00",
+      "NumProgressed": 4961,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 16,
@@ -13191,7 +13196,7 @@
       "Name": "Colored 10 easy pictures.",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "ach_10_hard_pictures",
@@ -13223,7 +13228,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3819
+      "UsersEstimate": 3820
     },
     {
       "ID": "ach_architecture_completed",
@@ -13287,7 +13292,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3720
+      "UsersEstimate": 3721
     },
     {
       "ID": "ach_magic_wand",
@@ -13303,7 +13308,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "ach_tornado",
@@ -13318,7 +13323,7 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4960,
+      "Progressed": 4961,
       "Completed": 44
     }
   ],
@@ -13326,8 +13331,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2024-01-12T05:05:12.8289452+00:00",
+  "LastChanged_Achievements": "2024-01-12T06:06:32.8500193+00:00",
   "LastUpdate_AppInfo": "2024-01-05T23:57:03.8408422+00:00",
-  "LastUpdate_Ratings": "2024-01-12T04:59:35.3333728+00:00",
-  "LastUpdate_Achievements": "2024-01-12T05:05:12.8290332+00:00"
+  "LastUpdate_Ratings": "2024-01-12T06:00:51.2808318+00:00",
+  "LastUpdate_Achievements": "2024-01-12T06:06:32.8501062+00:00"
 }

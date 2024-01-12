@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 375,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -637,9 +637,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 47112,
+  "EOS_Progressed": 47113,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 717,
+  "EOS_NewPlayers": 712,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18537,6 +18537,11 @@
       "Time": "2024-01-12T05:08:05.7826471+00:00",
       "NumProgressed": 47112,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-12T06:08:33.6920686+00:00",
+      "NumProgressed": 47113,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18612,7 +18617,7 @@
       "Name": "The Interloper",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -18884,7 +18889,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5653
+      "UsersEstimate": 5654
     },
     {
       "ID": "SPRING_ALL",
@@ -18971,22 +18976,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47112,
+      "Progressed": 47113,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11949,
-      "Completed": 11949
+      "Progressed": 11950,
+      "Completed": 11950
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-12T00:02:56.2381129+00:00",
-  "LastChanged_Achievements": "2024-01-12T05:08:05.7826466+00:00",
+  "LastChanged_Achievements": "2024-01-12T06:08:33.6920682+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-12T05:02:52.9718654+00:00",
-  "LastUpdate_Achievements": "2024-01-12T05:08:05.7827842+00:00"
+  "LastUpdate_Ratings": "2024-01-12T06:03:22.9419939+00:00",
+  "LastUpdate_Achievements": "2024-01-12T06:08:33.6921965+00:00"
 }
