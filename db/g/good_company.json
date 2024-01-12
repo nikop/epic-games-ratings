@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5826,
+  "EOS_Progressed": 5828,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5359,6 +5359,11 @@
       "Time": "2024-01-12T21:05:23.724691+00:00",
       "NumProgressed": 5826,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T22:05:16.0982852+00:00",
+      "NumProgressed": 5828,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -5482,7 +5487,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2855
+      "UsersEstimate": 2856
     },
     {
       "ID": "ach_campaign_progress6",
@@ -5490,7 +5495,7 @@
       "Name": "Level: Rising Markets",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ach_campaign_progress7",
@@ -5977,15 +5982,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5826,
+      "Progressed": 5828,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-12-29T23:58:32.3539857+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:05:23.7246906+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:05:16.0982847+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:53.9486343+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:57:18.3218159+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:05:23.7247881+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:57:21.1211638+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:05:16.0984052+00:00"
 }

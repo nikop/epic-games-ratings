@@ -86,13 +86,13 @@
 | Tunnel Rat | 16.00% | ~677 |
 | Arbiter | 16.00% | ~677 |
 | Lost and Found | 15.00% | ~635 |
+| Under Pressure | 14.00% | ~593 |
 | Paramour II | 14.00% | ~593 |
 | Party Crasher | 14.00% | ~593 |
 | Hard Target | 14.00% | ~593 |
 | Fact Finder | 14.00% | ~593 |
 | Problem Solver | 14.00% | ~593 |
 | Pyromaniac | 13.00% | ~550 |
-| Under Pressure | 13.00% | ~550 |
 | Last Resort | 13.00% | ~550 |
 | No One Left Behind | 13.00% | ~550 |
 | Saboteur | 13.00% | ~550 |

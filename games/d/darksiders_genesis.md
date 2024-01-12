@@ -22,13 +22,13 @@ Number of Ratings: 67  (23.09.2022)
 | Walking Armory | 1.00% | ~6 |
 | Good Deeds | 0.80% | ~5 |
 | Mint III | 0.80% | ~5 |
+| Gatekeeper | 0.60% | ~4 |
 | Why'd It Have to Be Snakes? | 0.60% | ~4 |
-| Gatekeeper | 0.50% | ~3 |
 | Ready to Blow | 0.50% | ~3 |
+| Wicked Killington | 0.50% | ~3 |
 | Are You Not Entertained? | 0.30% | ~2 |
 | Collector | 0.30% | ~2 |
 | Full of Hell | 0.30% | ~2 |
-| Wicked Killington | 0.30% | ~2 |
 | Blademaster | 0.20% | ~1 |
 | Respect For Animals | 0.20% | ~1 |
 | The Promised End | 0.20% | ~1 |

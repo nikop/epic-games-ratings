@@ -1,7 +1,7 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.59 (Ranked 453)  
+Rating: 4.59 (Ranked 452)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -51,7 +51,7 @@ Rating: 4.59 (Ranked 453)
 | We Are Speed | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,538 (Ranked 267)  
-Completed: 9 (0.59%) (Ranked 213)  
+Completed: 9 (0.59%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

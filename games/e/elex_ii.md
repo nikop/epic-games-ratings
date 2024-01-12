@@ -1,32 +1,32 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.29 (Ranked 883)  
+Rating: 4.29 (Ranked 884)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 44.00% | ~105 |
 | Best Buddy | 37.00% | ~88 |
-| Civilian | 35.00% | ~83 |
-| Role Model | 32.00% | ~76 |
+| Civilian | 35.00% | ~84 |
+| Role Model | 31.00% | ~74 |
 | Creator | 29.00% | ~69 |
 | Military Leader | 26.00% | ~62 |
 | Festival-goer | 26.00% | ~62 |
 | Peddler | 24.00% | ~57 |
 | Commander | 21.00% | ~50 |
 | Irissa's Fate | 19.00% | ~45 |
-| Pass A38 | 17.00% | ~40 |
-| Long-Haul Flyer | 16.00% | ~38 |
-| Family Reunion | 16.00% | ~38 |
+| Pass A38 | 18.00% | ~43 |
+| Long-Haul Flyer | 15.00% | ~36 |
+| Family Reunion | 15.00% | ~36 |
 | Eternal Oblivion | 14.00% | ~33 |
 | Storyteller | 13.00% | ~31 |
+| Berserker | 12.00% | ~29 |
 | Banker | 11.00% | ~26 |
 | Globetrotter | 11.00% | ~26 |
 | Alb | 11.00% | ~26 |
-| Berserker | 11.00% | ~26 |
-| Perfectionist | 9.00% | ~21 |
-| Lover | 9.00% | ~21 |
+| Perfectionist | 9.00% | ~22 |
+| Lover | 9.00% | ~22 |
 | Hunter | 8.00% | ~19 |
 | Beam Me Up | 7.00% | ~17 |
 | Hotshot | 7.00% | ~17 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238 (Ranked 423)  
+Progressed: 239 (Ranked 422)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 225 | 0 |
 | 2024-01-10 | 233 | 0 |
 | 2024-01-11 | 235 | 0 |
-| 2024-01-12 | 238 | 0 |
+| 2024-01-12 | 239 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

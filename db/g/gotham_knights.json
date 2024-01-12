@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 974,
+  "Ranking_Rating": 975,
   "Ranking_Popularity": 101,
   "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5231,9 +5231,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82598,
+  "EOS_Progressed": 82602,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 1008,
+  "EOS_NewPlayers": 1005,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -29981,6 +29981,11 @@
       "Time": "2024-01-12T21:06:02.6117602+00:00",
       "NumProgressed": 82598,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2024-01-12T22:05:54.3310236+00:00",
+      "NumProgressed": 82602,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 61,
@@ -30216,7 +30221,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 22301
+      "UsersEstimate": 22303
     },
     {
       "ID": "FREEZE_1_5",
@@ -30296,7 +30301,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28083
+      "UsersEstimate": 28085
     },
     {
       "ID": "HARLEY_2",
@@ -30336,7 +30341,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41299
+      "UsersEstimate": 41301
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -30368,7 +30373,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21475
+      "UsersEstimate": 21477
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -30384,7 +30389,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27257
+      "UsersEstimate": 27259
     },
     {
       "ID": "MYSTERY_02",
@@ -30479,13 +30484,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82598,
+      "Progressed": 82602,
       "Completed": 133
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 52878,
+      "Progressed": 52882,
       "Completed": 2679
     }
   ],
@@ -30493,8 +30498,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-12T18:57:45.9696333+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:06:02.6117597+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:05:54.331023+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:43.7132471+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:57:26.6160675+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:06:02.6118957+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:57:27.947401+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:05:54.3311791+00:00"
 }

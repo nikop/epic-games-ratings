@@ -9,7 +9,7 @@
 | Mother | 78.00% | ~140 |
 | Failure | 75.00% | ~134 |
 | Replace Fuse | 66.00% | ~118 |
-| Alarm | 65.00% | ~116 |
+| Alarm | 66.00% | ~118 |
 | Air Filtration | 63.00% | ~113 |
 | Broken | 60.00% | ~107 |
 | Radiation | 59.00% | ~106 |

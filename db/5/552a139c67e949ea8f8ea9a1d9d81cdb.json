@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -5250,9 +5250,9 @@
       "ID": "ML_ACHIEVEMENT_32",
       "SetID": "5k00jcd",
       "Name": "Spendthrift",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 39
     },
     {
       "ID": "ML_ACHIEVEMENT_33",
@@ -5383,8 +5383,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:08:16.3143506+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:06:16.9867546+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.6791346+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:59:49.8025014+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:08:16.3144099+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:59:49.1885184+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:06:16.9868081+00:00"
 }

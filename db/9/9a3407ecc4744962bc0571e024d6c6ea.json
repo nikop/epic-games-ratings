@@ -4,8 +4,8 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1339,
+  "EOS_Progressed": 1340,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
@@ -3914,6 +3914,11 @@
       "Time": "2024-01-12T21:09:52.9623826+00:00",
       "NumProgressed": 1339,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-12T22:09:23.470649+00:00",
+      "NumProgressed": 1340,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -3966,7 +3971,7 @@
       "Name": "Congratulations, you\u0027re an engineer",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "DarkestBeforeTheDawn",
@@ -3974,7 +3979,7 @@
       "Name": "Darkest Before the Dawn",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -4006,7 +4011,7 @@
       "Name": "Lights Out",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "MiCasaSuCasa",
@@ -4030,7 +4035,7 @@
       "Name": "Outpatient",
       "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "Relic",
@@ -4038,7 +4043,7 @@
       "Name": "Relic",
       "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "SkeletonCrew",
@@ -4046,7 +4051,7 @@
       "Name": "Skeleton Crew",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "TerraTourGuide",
@@ -4062,7 +4067,7 @@
       "Name": "The Safety of Disbelief",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "TragedyDocumented",
@@ -4078,21 +4083,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1339,
+      "Progressed": 1340,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:09:52.9623822+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:09:23.4706474+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:03.1590179+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:00:13.5424958+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:09:52.9624217+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:00:14.4051171+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:09:23.4706799+00:00"
 }

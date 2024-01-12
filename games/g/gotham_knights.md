@@ -1,15 +1,15 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.19 (Ranked 974)  
+Rating: 4.19 (Ranked 975)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,299 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,083 |
-| Loose Ends | 33.00% | ~27,257 |
-| To the Victor Go the Spoils | 27.00% | ~22,301 |
-| Knighthood | 26.00% | ~21,475 |
+| First Step Into the Knight | 50.00% | ~41,301 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,085 |
+| Loose Ends | 33.00% | ~27,259 |
+| To the Victor Go the Spoils | 27.00% | ~22,303 |
+| Knighthood | 26.00% | ~21,477 |
 | Get ReQ'd | 24.00% | ~19,824 |
 | Whispered Words | 24.00% | ~19,824 |
 | The Batman Family | 22.00% | ~18,172 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 974)
 | The Cold, the Bad and the Ugly | 0.30% | ~159 |
 | It's Nice to Be Wanted | 0.20% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,598 (Ranked 110)  
+Progressed: 82,602 (Ranked 110)  
 Completed: 133 (0.16%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 133 (0.16%) (Ranked 287)
 | 2024-01-09 | 82,304 | 133 |
 | 2024-01-10 | 82,440 | 133 |
 | 2024-01-11 | 82,506 | 133 |
-| 2024-01-12 | 82,598 | 133 |
+| 2024-01-12 | 82,602 | 133 |
 ## Awards
 Max (Great Boss Battles): 3,189  (Ranked 101)  
 Sum: 5,444 (Ranked 141)  

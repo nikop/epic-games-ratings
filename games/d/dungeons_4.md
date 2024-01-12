@@ -5,9 +5,9 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~670 |
+| The Last Stand | 89.00% | ~677 |
 | Thalya – Simply Immortal | 88.00% | ~670 |
-| For the Horde! | 82.00% | ~624 |
+| For the Horde! | 83.00% | ~632 |
 | Hammer Time, Round Two | 81.00% | ~616 |
 | The Hellwoods | 77.00% | ~586 |
 | The Plains of Strothalm | 73.00% | ~556 |

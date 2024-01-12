@@ -5,10 +5,10 @@
   "Ranking_Rating": 1007,
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 328,
-  "Ranking_EOS_Progress": 107,
+  "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1767,10 +1767,10 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 86644,
-  "EOS_Completed": 67,
-  "EOS_NewPlayers": 2899,
-  "EOS_NewCompleters": 4,
+  "EOS_Progressed": 86652,
+  "EOS_Completed": 68,
+  "EOS_NewPlayers": 2886,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
     {
@@ -16487,6 +16487,11 @@
       "Time": "2024-01-12T21:03:55.3024904+00:00",
       "NumProgressed": 86644,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-12T22:03:47.7892224+00:00",
+      "NumProgressed": 86652,
+      "NumCompleted": 68
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -16499,7 +16504,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 39856
+      "UsersEstimate": 39860
     },
     {
       "ID": "10",
@@ -16507,7 +16512,7 @@
       "Name": "fifteenth Time\u0027s the Charm",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "11",
@@ -16515,7 +16520,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2599
+      "UsersEstimate": 2600
     },
     {
       "ID": "12",
@@ -16523,7 +16528,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2599
+      "UsersEstimate": 2600
     },
     {
       "ID": "13",
@@ -16539,7 +16544,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 6065
+      "UsersEstimate": 6066
     },
     {
       "ID": "15",
@@ -16547,7 +16552,7 @@
       "Name": "Gone Rogue",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "16",
@@ -16563,7 +16568,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 18195
+      "UsersEstimate": 18197
     },
     {
       "ID": "3",
@@ -16571,7 +16576,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 12130
+      "UsersEstimate": 12131
     },
     {
       "ID": "4",
@@ -16579,7 +16584,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7798
+      "UsersEstimate": 7799
     },
     {
       "ID": "5",
@@ -16587,7 +16592,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 6065
+      "UsersEstimate": 6066
     },
     {
       "ID": "6",
@@ -16603,7 +16608,7 @@
       "Name": "More Power to You",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 19928
+      "UsersEstimate": 19930
     },
     {
       "ID": "8",
@@ -16626,16 +16631,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 86644,
-      "Completed": 67
+      "Progressed": 86652,
+      "Completed": 68
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-12T19:59:17.0404616+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:03:55.3024899+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:03:47.789222+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:51.8643288+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:59:07.002485+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:03:55.3025706+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:59:07.0488946+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:03:47.789305+00:00"
 }

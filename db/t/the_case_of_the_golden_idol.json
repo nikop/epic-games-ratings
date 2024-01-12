@@ -4,8 +4,8 @@
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 413,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 248,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.23,
   "EosHistory": [
@@ -1201,8 +1201,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:03:24.392093+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:03:17.4554967+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.945311+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:59:46.6353686+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:03:24.3921106+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:59:46.1289689+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:03:17.4555189+00:00"
 }

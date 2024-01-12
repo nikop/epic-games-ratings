@@ -1,14 +1,14 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.19 (Ranked 974)  
+Rating: 4.19 (Ranked 975)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,966 |
+| Unforeseen | 88.00% | ~2,967 |
 | Battlefields Have Memories | 81.00% | ~2,731 |
 | Enlisted | 74.00% | ~2,495 |
-| Maybe Engage a Little | 69.00% | ~2,326 |
+| Maybe Engage a Little | 69.00% | ~2,327 |
 | No More Names | 53.00% | ~1,787 |
 | Initiate | 39.00% | ~1,315 |
 | Thrada-Kul | 35.00% | ~1,180 |
@@ -20,8 +20,8 @@ Rating: 4.19 (Ranked 974)
 | Control is an Illusion | 21.00% | ~708 |
 | The Means to Save It | 18.00% | ~607 |
 | Resilience to Sin | 17.00% | ~573 |
-| A Familiar Nest | 16.00% | ~539 |
-| Periapt Alizarin | 16.00% | ~539 |
+| A Familiar Nest | 16.00% | ~540 |
+| Periapt Alizarin | 16.00% | ~540 |
 | Geas Aristeya | 15.00% | ~506 |
 | A Perfect Cycle | 14.00% | ~472 |
 | Recruit | 14.00% | ~472 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 974)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,371 (Ranked 229)  
+Progressed: 3,372 (Ranked 229)  
 Completed: 4 (0.12%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 4 (0.12%) (Ranked 305)
 | 2024-01-09 | 3,204 | 4 |
 | 2024-01-10 | 3,285 | 4 |
 | 2024-01-11 | 3,340 | 4 |
-| 2024-01-12 | 3,371 | 4 |
+| 2024-01-12 | 3,372 | 4 |
 ## Awards
 Max (Quickly Understood Controls): 20  (Ranked 579)  
 Sum: 20 (Ranked 580)  

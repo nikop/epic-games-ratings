@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Newbie | 75.00% | ~404 |
+| Newbie | 75.00% | ~405 |
 | Photo shoot | 16.00% | ~86 |
 | No brakes | 13.00% | ~70 |
 | Wannabe | 11.00% | ~59 |
@@ -45,6 +45,7 @@
 | Amateur top racer | 0.20% | ~1 |
 | Pro top pit crew | 0.20% | ~1 |
 | Amateur blue flag wonder | 0.20% | ~1 |
+| Enemies for life | 0.20% | ~1 |
 | Wet qualifying record breaker | 0.20% | ~1 |
 | First Pro taste | 0.20% | ~1 |
 | Top Amateur | 0.20% | ~1 |
@@ -132,7 +133,6 @@
 | Elite podium national invader | 0.00% | ~0 |
 | Master podium national invader | 0.00% | ~0 |
 | The wall | 0.00% | ~0 |
-| Enemies for life | 0.00% | ~0 |
 | Oval overtaker | 0.00% | ~0 |
 | Overtaker | 0.00% | ~0 |
 | Dino | 0.00% | ~0 |
@@ -167,7 +167,7 @@
 | Top Elite | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 539 (Ranked 348)  
+Progressed: 540 (Ranked 348)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,4 +314,4 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-05 | 529 | 0 |
 | 2024-01-09 | 536 | 0 |
 | 2024-01-10 | 537 | 0 |
-| 2024-01-12 | 539 | 0 |
+| 2024-01-12 | 540 | 0 |

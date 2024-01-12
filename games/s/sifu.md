@@ -1,14 +1,14 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 70)  
+Rating: 4.82 (Ranked 69)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,600 |
-| Life is your teacher | 5.00% | ~38,000 |
-| Lightning Hands | 5.00% | ~38,000 |
+| The Old Grandmaster | 6.00% | ~45,601 |
+| Life is your teacher | 5.00% | ~38,001 |
+| Lightning Hands | 5.00% | ~38,001 |
 | The Assault | 4.00% | ~30,400 |
 | The Hateful Pole Fighter | 3.00% | ~22,800 |
 | Street Fighting | 3.00% | ~22,800 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~69 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 760,003 (Ranked 26)  
+Progressed: 760,011 (Ranked 26)  
 Completed: 12,984 (1.71%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 12,984 (1.71%) (Ranked 146)
 | 2024-01-09 | 758,306 | 12,980 |
 | 2024-01-10 | 759,091 | 12,982 |
 | 2024-01-11 | 759,612 | 12,983 |
-| 2024-01-12 | 760,003 | 12,984 |
+| 2024-01-12 | 760,011 | 12,984 |
 ## Awards
 Max (Great Boss Battles): 7,179  (Ranked 57)  
 Sum: 12,710 (Ranked 85)  

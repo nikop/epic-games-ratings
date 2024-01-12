@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 375,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -335,7 +335,7 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 11195,
+  "EOS_Progressed": 11203,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 945,
   "EOS_NewCompleters": 0,
@@ -4650,6 +4650,11 @@
       "Time": "2024-01-12T21:09:59.7967782+00:00",
       "NumProgressed": 11195,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T22:09:30.2893661+00:00",
+      "NumProgressed": 11203,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4662,7 +4667,7 @@
       "Name": "Conspiracy",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 2127
+      "UsersEstimate": 2129
     },
     {
       "ID": "03_TheStolenStar",
@@ -4670,7 +4675,7 @@
       "Name": "Stolen Star",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -4774,7 +4779,7 @@
       "Name": "The Rise",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "17_TheExemplar",
@@ -4790,7 +4795,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "19_TheVoidWolf",
@@ -4822,7 +4827,7 @@
       "Name": "Perfect Timing",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "23_DynastyRestored",
@@ -4870,7 +4875,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -5014,7 +5019,7 @@
       "Name": "A Spark",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "47_AFlame",
@@ -5181,7 +5186,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11195,
+      "Progressed": 11203,
       "Completed": 1
     }
   ],
@@ -5189,8 +5194,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-12T03:59:45.455551+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:09:59.7967778+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:09:30.2893653+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:59:53.401245+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:09:59.7968653+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:59:53.8245599+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:09:30.2894323+00:00"
 }

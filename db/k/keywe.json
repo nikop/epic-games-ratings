@@ -4,8 +4,8 @@
   "ProductSlug": "keywe-c3a70e",
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
     "PcReleaseDate": "2021-08-31T00:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 175,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -925,8 +925,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:04:25.9053425+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:04:18.2800997+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.6179854+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:02:27.0721905+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:04:25.9053857+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:00:17.0972511+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:04:18.2801171+00:00"
 }

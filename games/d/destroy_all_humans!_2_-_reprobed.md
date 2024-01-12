@@ -12,7 +12,7 @@ Number of Ratings: 90  (23.09.2022)
 | Furon Fashion | 47.00% | ~195 |
 | Shop Til They Drop | 40.00% | ~166 |
 | Bodied Sattva | 38.00% | ~158 |
-| Cult Following | 35.00% | ~145 |
+| Cult Following | 36.00% | ~149 |
 | Earthly Pleasures | 35.00% | ~145 |
 | Lie Back and Think of Albion | 28.00% | ~116 |
 | Upgreatest | 28.00% | ~116 |

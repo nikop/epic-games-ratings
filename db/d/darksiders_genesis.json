@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
     "PcReleaseDate": "2019-12-05T15:00:00+00:00",
@@ -2300,9 +2300,9 @@
       "ID": "Gatekeeper",
       "SetID": "329ak73",
       "Name": "Gatekeeper",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "GoodDeeds",
@@ -2452,9 +2452,9 @@
       "ID": "WickedKillington",
       "SetID": "329ak73",
       "Name": "Wicked Killington",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -2468,8 +2468,8 @@
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:09:54.2488333+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:09:24.6759271+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.460117+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:00:04.3075839+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:09:54.2488651+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:00:04.6146603+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:09:24.6759571+00:00"
 }

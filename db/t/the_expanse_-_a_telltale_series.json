@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18911,
+  "EOS_Progressed": 18914,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 603,
+  "EOS_NewPlayers": 596,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -17163,6 +17163,11 @@
       "Time": "2024-01-12T21:03:37.420751+00:00",
       "NumProgressed": 18911,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-12T22:03:30.3746077+00:00",
+      "NumProgressed": 18914,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17191,7 +17196,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2458
+      "UsersEstimate": 2459
     },
     {
       "ID": "12",
@@ -17207,7 +17212,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3404
+      "UsersEstimate": 3405
     },
     {
       "ID": "14",
@@ -17223,7 +17228,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2080
+      "UsersEstimate": 2081
     },
     {
       "ID": "16",
@@ -17239,7 +17244,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2269
+      "UsersEstimate": 2270
     },
     {
       "ID": "18",
@@ -17255,7 +17260,7 @@
       "Name": "Martian Music",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2458
+      "UsersEstimate": 2459
     },
     {
       "ID": "2",
@@ -17279,7 +17284,7 @@
       "Name": "Drone Dodger",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2269
+      "UsersEstimate": 2270
     },
     {
       "ID": "22",
@@ -17327,7 +17332,7 @@
       "Name": "Bosmang",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2458
+      "UsersEstimate": 2459
     },
     {
       "ID": "28",
@@ -17407,7 +17412,7 @@
       "Name": "Impossible Objects",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2458
+      "UsersEstimate": 2459
     },
     {
       "ID": "31",
@@ -17423,7 +17428,7 @@
       "Name": "Safe Cracker",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "33",
@@ -17431,7 +17436,7 @@
       "Name": "Zen Master",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "34",
@@ -17454,13 +17459,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18911,
+      "Progressed": 18914,
       "Completed": 63
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4865,
+      "Progressed": 4868,
       "Completed": 1296
     }
   ],
@@ -17468,8 +17473,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-11T01:50:11.8166633+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:03:37.4207506+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:03:30.374607+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:57:06.307731+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:03:37.4208631+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:57:08.8469586+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:03:30.3747059+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 91,
   "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2451,9 +2451,9 @@
       "ID": "ach_main01begin_completed",
       "SetID": "4hg22ll",
       "Name": "The Last Stand",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 670
+      "UsersEstimate": 677
     },
     {
       "ID": "ach_main01begin_die",
@@ -2483,9 +2483,9 @@
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 624
+      "UsersEstimate": 632
     },
     {
       "ID": "ach_main02horde_traps",
@@ -2948,8 +2948,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-08T17:59:07.5685099+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:09:17.8858118+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:08:47.587587+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:02:25.9339491+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:09:17.8858761+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:00:16.2661522+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:08:47.5876501+00:00"
 }

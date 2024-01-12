@@ -30,8 +30,8 @@
 | Little hacker | 52.00% | ~301 |
 | Champion – starter pack | 52.00% | ~301 |
 | It's good to be alive | 52.00% | ~301 |
+| Own four walls | 51.00% | ~295 |
 | Intriguing candies | 51.00% | ~295 |
-| Own four walls | 50.00% | ~289 |
 | Employee of the year | 50.00% | ~289 |
 | Extreme neuropower! | 48.00% | ~277 |
 | Legal courier | 47.00% | ~272 |

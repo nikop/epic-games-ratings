@@ -4,8 +4,8 @@
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
     "PcReleaseDate": "2023-02-12T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 539,
+  "EOS_Progressed": 540,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1234,6 +1234,11 @@
       "Time": "2024-01-12T18:10:04.6709298+00:00",
       "NumProgressed": 539,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T22:09:39.0169556+00:00",
+      "NumProgressed": 540,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -1309,7 +1314,7 @@
       "Name": "Newbie",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -2195,9 +2200,9 @@
       "ID": "ACHIEVEMENT_354",
       "SetID": "76k7b7p",
       "Name": "Enemies for life",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_355",
@@ -2540,14 +2545,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 539,
+      "Progressed": 540,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:10:08.6046772+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:09:39.0169549+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:11.952044+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:57:50.4211855+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:10:08.6049291+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:57:51.4478702+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:09:39.0171821+00:00"
 }

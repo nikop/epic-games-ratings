@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 522,
+  "EOS_Progressed": 523,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1735,6 +1735,11 @@
       "Time": "2024-01-12T17:06:58.6219102+00:00",
       "NumProgressed": 522,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T22:05:34.1337147+00:00",
+      "NumProgressed": 523,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1882,7 +1887,7 @@
       "Name": "Need a Consult",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ach_consultant_1",
@@ -1890,7 +1895,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ach_consultants_a",
@@ -1914,7 +1919,7 @@
       "Name": "Smooth Operator",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ach_contracts_1",
@@ -1954,7 +1959,7 @@
       "Name": "Proper Walls",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ach_drones",
@@ -2114,7 +2119,7 @@
       "Name": "Don\u0027t Feel a Loan",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ach_mod_1",
@@ -2210,7 +2215,7 @@
       "Name": "In the Black",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ach_profit_1",
@@ -2314,7 +2319,7 @@
       "Name": "Boutique Benefits",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ach_revs_1",
@@ -2434,7 +2439,7 @@
       "Name": "Thrilled Tenants",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ach_visitors_1",
@@ -2449,7 +2454,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 522,
+      "Progressed": 523,
       "Completed": 0
     }
   ],
@@ -2457,8 +2462,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:05:41.9413786+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:05:34.1337143+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8765911+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:59:30.479866+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:05:41.9414758+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:59:31.1209749+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:05:34.1338068+00:00"
 }

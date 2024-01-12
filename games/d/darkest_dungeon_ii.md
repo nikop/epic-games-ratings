@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,042 |
+| Malpractice Assurance | 14.00% | ~1,043 |
 | Lost and Found | 8.00% | ~596 |
-| Autodidact | 7.00% | ~9,280 |
-| This guy... again? | 7.00% | ~521 |
+| Autodidact | 7.00% | ~9,281 |
+| This guy... again? | 7.00% | ~522 |
 | Serenity Now! | 6.00% | ~7,955 |
 | This Belongs in a Museum | 6.00% | ~7,955 |
 | Creep and Sleep | 6.00% | ~7,955 |
@@ -65,9 +65,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Shrine of Reflection | 1.00% | ~1,326 |
 | Triage | 1.00% | ~1,326 |
 | Body of Work | 1.00% | ~1,326 |
-| No Mercy | 1.00% | ~74 |
-| Slap on the Wrist | 1.00% | ~74 |
-| For Old Time' Sake | 1.00% | ~74 |
+| No Mercy | 1.00% | ~75 |
+| Slap on the Wrist | 1.00% | ~75 |
+| For Old Time' Sake | 1.00% | ~75 |
 | Et Tu, Riposte? | 0.90% | ~67 |
 | The World As It Was | 0.70% | ~928 |
 | A Life Well Lived | 0.60% | ~795 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,576 (Ranked 91)  
+Progressed: 132,583 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 4 (0.00%) (Ranked 399)
 | 2024-01-09 | 132,315 | 3 |
 | 2024-01-10 | 132,395 | 4 |
 | 2024-01-11 | 132,491 | 4 |
-| 2024-01-12 | 132,576 | 4 |
+| 2024-01-12 | 132,583 | 4 |
 ## Awards
 Max (Character Customization): 8,007  (Ranked 51)  
 Sum: 21,609 (Ranked 58)  

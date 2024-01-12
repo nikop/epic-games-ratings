@@ -1,23 +1,23 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.43 (Ranked 725)  
+Rating: 4.43 (Ranked 726)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 32.00% | ~9,372 |
-| Sector 2 | 29.00% | ~8,494 |
-| Crush That Cube! | 24.00% | ~7,029 |
-| Sector 3 | 24.00% | ~7,029 |
-| Sector 4 | 20.00% | ~5,858 |
-| Crush That Ball! | 19.00% | ~5,565 |
-| Sector 5 | 13.00% | ~3,808 |
-| Sector 6 | 11.00% | ~3,222 |
-| Feeling the Blues | 8.00% | ~2,343 |
-| Squished | 8.00% | ~2,343 |
-| Finale | 8.00% | ~2,343 |
-| Sector 7 | 8.00% | ~2,343 |
-| Did That Work? -- No! | 7.00% | ~2,050 |
+| Sector 1 | 32.00% | ~9,375 |
+| Sector 2 | 29.00% | ~8,496 |
+| Crush That Cube! | 24.00% | ~7,031 |
+| Sector 3 | 24.00% | ~7,031 |
+| Sector 4 | 20.00% | ~5,859 |
+| Crush That Ball! | 19.00% | ~5,566 |
+| Sector 5 | 13.00% | ~3,809 |
+| Sector 6 | 11.00% | ~3,223 |
+| Feeling the Blues | 8.00% | ~2,344 |
+| Squished | 8.00% | ~2,344 |
+| Finale | 8.00% | ~2,344 |
+| Sector 7 | 8.00% | ~2,344 |
+| Did That Work? -- No! | 7.00% | ~2,051 |
 | Master Room | 4.00% | ~1,172 |
 | The Collector | 2.00% | ~586 |
 | Bronze Trophy | 2.00% | ~586 |
@@ -30,8 +30,8 @@ Rating: 4.43 (Ranked 725)
 | Completed It. | 2.00% | ~586 |
 | Maxed Out | 2.00% | ~586 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,289 (Ranked 142)  
-Completed: 207 (0.71%) (Ranked 200)  
+Progressed: 29,297 (Ranked 142)  
+Completed: 208 (0.71%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -120,7 +120,7 @@ Completed: 207 (0.71%) (Ranked 200)
 | 2024-01-09 | 28,984 | 203 |
 | 2024-01-10 | 29,073 | 204 |
 | 2024-01-11 | 29,184 | 206 |
-| 2024-01-12 | 29,289 | 207 |
+| 2024-01-12 | 29,297 | 208 |
 ## Awards
 Max (Challenging Puzzles): 25  (Ranked 552)  
 Sum: 25 (Ranked 561)  

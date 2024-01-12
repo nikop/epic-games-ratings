@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1331,
+  "EOS_Progressed": 1332,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
@@ -4789,6 +4789,11 @@
       "Time": "2024-01-12T17:11:01.610067+00:00",
       "NumProgressed": 1331,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T22:09:35.3552387+00:00",
+      "NumProgressed": 1332,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4824,7 +4829,7 @@
       "Name": "Archmage 1",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "archmage_2",
@@ -5327,14 +5332,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1331,
+      "Progressed": 1332,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:10:04.8771776+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:09:35.3552385+00:00",
   "LastUpdate_AppInfo": "2024-01-09T19:56:59.3851219+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:58:48.5777075+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:10:04.8772567+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:58:50.4414624+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:09:35.3553212+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1526,
+  "EOS_Progressed": 1527,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.42,
   "EosHistory": [
@@ -5276,6 +5276,11 @@
       "Time": "2024-01-12T19:04:44.1172154+00:00",
       "NumProgressed": 1526,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-12T22:03:45.4380839+00:00",
+      "NumProgressed": 1527,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5296,7 +5301,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "_03_FinishAct1",
@@ -5344,7 +5349,7 @@
       "Name": "Swabbie",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "_09_Completion_20",
@@ -5416,7 +5421,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -5495,7 +5500,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1526,
+      "Progressed": 1527,
       "Completed": 37
     }
   ],
@@ -5503,8 +5508,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-09T20:59:58.0673284+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:03:53.0428367+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:03:45.4380833+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.9098347+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:57:20.298286+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:03:53.0428834+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:57:23.05104+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:03:45.4381163+00:00"
 }

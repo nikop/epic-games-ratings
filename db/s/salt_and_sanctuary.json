@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2994,9 +2994,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 544129,
+  "EOS_Progressed": 544130,
   "EOS_Completed": 1681,
-  "EOS_NewPlayers": 694,
+  "EOS_NewPlayers": 692,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -32694,6 +32694,11 @@
       "Time": "2024-01-12T21:05:21.3380744+00:00",
       "NumProgressed": 544129,
       "NumCompleted": 1681
+    },
+    {
+      "Time": "2024-01-12T22:05:13.8468205+00:00",
+      "NumProgressed": 544130,
+      "NumCompleted": 1681
     }
   ],
   "TotalAchievements": 37,
@@ -32761,7 +32766,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 451627
+      "UsersEstimate": 451628
     },
     {
       "ID": "HONED",
@@ -32865,7 +32870,7 @@
       "Name": "The Forest",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 81619
+      "UsersEstimate": 81620
     },
     {
       "ID": "THE_IMPOSTER",
@@ -33000,15 +33005,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 544129,
+      "Progressed": 544130,
       "Completed": 1681
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2024-01-12T09:00:29.6964649+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:05:21.3380737+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:05:13.8468202+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.5863764+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:57:07.4407446+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:05:21.3382762+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:57:10.2239249+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:05:13.8469648+00:00"
 }

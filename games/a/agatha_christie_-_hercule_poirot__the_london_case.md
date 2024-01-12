@@ -14,10 +14,10 @@
 | Little grey cells | 50.00% | ~55 |
 | Impossible is possible | 49.00% | ~54 |
 | Arthur Hastings | 49.00% | ~54 |
-| The Missing Magdalene | 47.00% | ~52 |
-| Everything matters | 44.00% | ~48 |
-| An expert mediator | 43.00% | ~47 |
-| DI Hardwicke | 43.00% | ~47 |
+| The Missing Magdalene | 48.00% | ~53 |
+| Everything matters | 45.00% | ~50 |
+| An expert mediator | 44.00% | ~48 |
+| DI Hardwicke | 44.00% | ~48 |
 | Betty Allen | 38.00% | ~42 |
 | Order and method | 37.00% | ~41 |
 | The Investigation Begins | 36.00% | ~40 |

@@ -4,8 +4,8 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 3837,
-  "Ranking_EOS_NewPlayers": 387,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
     "PcReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3649,
+  "EOS_Progressed": 3650,
   "EOS_Completed": -28,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.77,
   "EosHistory": [
@@ -954,6 +954,11 @@
       "Time": "2024-01-12T04:09:02.3312941+00:00",
       "NumProgressed": 3649,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2024-01-12T22:08:28.8978293+00:00",
+      "NumProgressed": 3650,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -973,7 +978,7 @@
       "Name": "Purpose Lost",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "11",
@@ -1053,7 +1058,7 @@
       "Name": "A Scarlet Mark",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "20",
@@ -1141,7 +1146,7 @@
       "Name": "Dreams Of Perfection",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "30",
@@ -1149,7 +1154,7 @@
       "Name": "Untouchable Legend",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "31",
@@ -1173,7 +1178,7 @@
       "Name": "Cheap Tricks",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "34",
@@ -1244,7 +1249,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3649,
+      "Progressed": 3650,
       "Completed": -28
     }
   ],
@@ -1252,8 +1257,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:08:58.3639734+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:08:28.8978289+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:20.8957368+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:00:13.667031+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:08:58.3640071+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:00:14.5138228+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:08:28.8978549+00:00"
 }

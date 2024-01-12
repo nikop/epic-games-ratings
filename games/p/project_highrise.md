@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 55.00% | ~287 |
+| In the Black | 55.00% | ~288 |
 | Starting Skyward | 49.00% | ~256 |
 | Grime is Not Good | 41.00% | ~214 |
 | Floor Galore | 36.00% | ~188 |
 | Campaign Launch | 35.00% | ~183 |
 | Dinner Dash | 35.00% | ~183 |
-| Need a Consult | 33.00% | ~172 |
-| Upgrade Unlock | 33.00% | ~172 |
+| Need a Consult | 33.00% | ~173 |
+| Upgrade Unlock | 33.00% | ~173 |
 | It's Technical | 32.00% | ~167 |
-| Proper Walls | 29.00% | ~151 |
+| Proper Walls | 29.00% | ~152 |
 | Delegate Maintenance | 28.00% | ~146 |
 | Destination Destiny | 28.00% | ~146 |
 | Happy Tenants | 23.00% | ~120 |
@@ -21,7 +21,7 @@
 | Your Prestige is Rising | 22.00% | ~115 |
 | Smooth Service | 22.00% | ~115 |
 | Retail Revenue | 21.00% | ~110 |
-| Don't Feel a Loan | 20.00% | ~104 |
+| Don't Feel a Loan | 20.00% | ~105 |
 | Artfully Done | 18.00% | ~94 |
 | People Mover | 18.00% | ~94 |
 | Leveled Up Shops | 18.00% | ~94 |
@@ -35,9 +35,9 @@
 | Under One Roof | 13.00% | ~68 |
 | Starred Dining | 13.00% | ~68 |
 | Cashflow Chief | 13.00% | ~68 |
-| Smooth Operator | 11.00% | ~57 |
-| Boutique Benefits | 11.00% | ~57 |
-| Thrilled Tenants | 11.00% | ~57 |
+| Smooth Operator | 11.00% | ~58 |
+| Boutique Benefits | 11.00% | ~58 |
+| Thrilled Tenants | 11.00% | ~58 |
 | 28 Days Later | 10.00% | ~52 |
 | Terrifically Trashed | 10.00% | ~52 |
 | Aestheticly Pleased | 9.00% | ~47 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 522 (Ranked 352)  
+Progressed: 523 (Ranked 352)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 509 | 0 |
 | 2024-01-10 | 515 | 0 |
 | 2024-01-11 | 519 | 0 |
-| 2024-01-12 | 522 | 0 |
+| 2024-01-12 | 523 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

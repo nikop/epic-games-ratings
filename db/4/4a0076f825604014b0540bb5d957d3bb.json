@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -756,9 +756,9 @@
       "ID": "CgkInO_K3eIdEAIQBA",
       "SetID": "6bj96in",
       "Name": "TRAINING DAY",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "CgkInO_K3eIdEAIQBQ",
@@ -947,8 +947,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:09:54.6079371+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:09:25.0151016+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:03.5069577+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:57:59.9754995+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:09:54.6079583+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:58:00.7186147+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:09:25.015121+00:00"
 }

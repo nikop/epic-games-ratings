@@ -9,12 +9,12 @@
 | Nimble fingers | 77.00% | ~249 |
 | Room 104 | 77.00% | ~249 |
 | Face to face | 76.00% | ~246 |
+| Let's play a game… | 73.00% | ~237 |
 | Now or never | 73.00% | ~237 |
-| Let's play a game… | 72.00% | ~233 |
-| Soundtrack | 62.00% | ~201 |
+| Soundtrack | 63.00% | ~204 |
 | First aid | 57.00% | ~185 |
-| Antidote | 50.00% | ~162 |
-| Pick the right door | 23.00% | ~75 |
+| Antidote | 51.00% | ~165 |
+| Pick the right door | 24.00% | ~78 |
 | The third floor | 18.00% | ~58 |
 | One-way | 16.00% | ~52 |
 | On the right path | 15.00% | ~49 |

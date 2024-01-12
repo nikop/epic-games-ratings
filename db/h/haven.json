@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1975,
+  "EOS_Progressed": 1976,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -3629,6 +3629,11 @@
       "Time": "2024-01-12T21:05:06.8410346+00:00",
       "NumProgressed": 1975,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-12T22:04:59.6689569+00:00",
+      "NumProgressed": 1976,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3704,7 +3709,7 @@
       "Name": "Balding bloot!",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "18",
@@ -3768,7 +3773,7 @@
       "Name": "In my shoes",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "25",
@@ -3798,9 +3803,9 @@
       "ID": "3",
       "SetID": "n50no0",
       "Name": "Hug therapy",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 731
+      "UsersEstimate": 711
     },
     {
       "ID": "30",
@@ -3808,7 +3813,7 @@
       "Name": "Self-sustainability",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "31",
@@ -3879,15 +3884,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1975,
+      "Progressed": 1976,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:05:06.8410341+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:04:59.6689564+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.2496519+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:00:03.149865+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:05:06.8410722+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:00:03.3105959+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:04:59.6689969+00:00"
 }

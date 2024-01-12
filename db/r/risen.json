@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -1026,9 +1026,9 @@
       "ID": "id_10",
       "SetID": "bk9jib6",
       "Name": "The merciful one",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "id_11",
@@ -1370,17 +1370,17 @@
       "ID": "id_60",
       "SetID": "bk9jib6",
       "Name": "Adventurer",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 122
     },
     {
       "ID": "id_61",
       "SetID": "bk9jib6",
       "Name": "Map reader",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 124
     },
     {
       "ID": "id_62",
@@ -1435,8 +1435,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-07T05:57:14.1879387+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:10:02.3927153+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:09:32.9282907+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:37.3559183+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:59:53.5261223+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:10:02.3927511+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:59:53.9385127+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:09:32.9283424+00:00"
 }

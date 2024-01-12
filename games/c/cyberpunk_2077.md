@@ -6,43 +6,43 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~125,789 |
-| The Fool | 11.00% | ~115,307 |
-| Right Back At Ya | 9.00% | ~94,342 |
-| Gun Fu | 9.00% | ~94,342 |
-| The Lovers | 8.00% | ~83,860 |
-| Full Body Conversion | 7.00% | ~73,377 |
-| Christmas Tree Attack | 6.00% | ~62,895 |
-| Stanislavski's Method | 6.00% | ~62,895 |
-| The Hermit | 6.00% | ~62,895 |
-| The Wheel of Fortune | 6.00% | ~62,895 |
-| True Soldier | 6.00% | ~62,895 |
-| All the President's Men | 6.00% | ~10,612 |
-| Arachnophobia | 6.00% | ~10,612 |
-| The High Priestess | 5.00% | ~52,412 |
-| Legend of The Afterlife | 5.00% | ~52,412 |
-| Master Crafter | 4.00% | ~41,930 |
-| Life of the Road | 4.00% | ~41,930 |
-| True Warrior | 4.00% | ~41,930 |
-| Bushido and Chill | 3.00% | ~31,447 |
-| I Am The Law | 3.00% | ~31,447 |
-| The Quick and the Dead | 3.00% | ~31,447 |
-| The World | 3.00% | ~31,447 |
-| Two Heads, One Bullet | 3.00% | ~31,447 |
-| Judy vs Night City | 3.00% | ~31,447 |
-| Relic Ruler | 3.00% | ~5,306 |
-| To Protect and Serve | 2.00% | ~20,965 |
-| The Wandering Fool | 2.00% | ~20,965 |
-| The Sun | 2.00% | ~20,965 |
-| Spin Doctor | 2.00% | ~3,537 |
-| King of Wands | 2.00% | ~3,537 |
-| Easy Come, Easy Go | 2.00% | ~3,537 |
-| To Bad Decisions! | 1.00% | ~10,482 |
-| Breathtaking | 1.00% | ~10,482 |
-| Ten out of Ten | 1.00% | ~10,482 |
-| The Star | 1.00% | ~10,482 |
+| V for Vendetta | 12.00% | ~125,796 |
+| The Fool | 11.00% | ~115,313 |
+| Right Back At Ya | 9.00% | ~94,347 |
+| Gun Fu | 9.00% | ~94,347 |
+| The Lovers | 8.00% | ~83,864 |
+| Full Body Conversion | 7.00% | ~73,381 |
+| Christmas Tree Attack | 6.00% | ~62,898 |
+| Stanislavski's Method | 6.00% | ~62,898 |
+| The Hermit | 6.00% | ~62,898 |
+| The Wheel of Fortune | 6.00% | ~62,898 |
+| True Soldier | 6.00% | ~62,898 |
+| All the President's Men | 6.00% | ~10,615 |
+| Arachnophobia | 6.00% | ~10,615 |
+| The High Priestess | 5.00% | ~52,415 |
+| Legend of The Afterlife | 5.00% | ~52,415 |
+| Master Crafter | 4.00% | ~41,932 |
+| Life of the Road | 4.00% | ~41,932 |
+| True Warrior | 4.00% | ~41,932 |
+| Bushido and Chill | 3.00% | ~31,449 |
+| I Am The Law | 3.00% | ~31,449 |
+| The Quick and the Dead | 3.00% | ~31,449 |
+| The World | 3.00% | ~31,449 |
+| Two Heads, One Bullet | 3.00% | ~31,449 |
+| Judy vs Night City | 3.00% | ~31,449 |
+| Relic Ruler | 3.00% | ~5,308 |
+| To Protect and Serve | 2.00% | ~20,966 |
+| The Wandering Fool | 2.00% | ~20,966 |
+| The Sun | 2.00% | ~20,966 |
+| Spin Doctor | 2.00% | ~3,538 |
+| King of Wands | 2.00% | ~3,538 |
+| Easy Come, Easy Go | 2.00% | ~3,538 |
+| To Bad Decisions! | 1.00% | ~10,483 |
+| Breathtaking | 1.00% | ~10,483 |
+| Ten out of Ten | 1.00% | ~10,483 |
+| The Star | 1.00% | ~10,483 |
 | Dirty Deeds | 1.00% | ~1,769 |
-| Autojock | 0.90% | ~9,434 |
+| Autojock | 0.90% | ~9,435 |
 | The APB is Not Enough | 0.90% | ~1,592 |
 | Judgement Day | 0.90% | ~1,592 |
 | The Tower | 0.90% | ~1,592 |
@@ -50,7 +50,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Swords | 0.80% | ~1,415 |
 | Must Be Rats | 0.70% | ~7,338 |
 | King of Pentacles | 0.70% | ~1,238 |
-| King of Cups | 0.50% | ~884 |
+| King of Cups | 0.50% | ~885 |
 | City Lights | 0.40% | ~4,193 |
 | The Devil | 0.40% | ~4,193 |
 | Gunslinger | 0.30% | ~3,145 |
@@ -60,7 +60,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Greetings from Pacifica! | 0.30% | ~3,145 |
 | The Jungle | 0.30% | ~3,145 |
 | It's Elementary | 0.30% | ~3,145 |
-| Daemon In The Shell | 0.20% | ~2,096 |
+| Daemon In The Shell | 0.20% | ~2,097 |
 | Frequent Flyer | 0.10% | ~1,048 |
 | Rough Landing | 0.10% | ~1,048 |
 | All the President's Men | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,048,245 (Ranked 17)  
+Progressed: 1,048,298 (Ranked 17)  
 Completed: 3,079 (0.29%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,10 +341,10 @@ Completed: 3,079 (0.29%) (Ranked 261)
 | 2024-01-09 | 1,040,592 | 3,059 |
 | 2024-01-10 | 1,044,342 | 3,067 |
 | 2024-01-11 | 1,046,687 | 3,071 |
-| 2024-01-12 | 1,048,245 | 3,079 |
+| 2024-01-12 | 1,048,298 | 3,079 |
 ## Awards
 Max (Character Customization): 138,203  (Ranked 8)  
-Sum: 487,149 (Ranked 8)  
+Sum: 487,257 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -358,7 +358,7 @@ Diff (max vs sum): 0
 | This game has Amazing Characters | 27,773 |
 | This game has Quickly Understood Controls | 26,872 |
 | This game is Relaxing | 26,867 |
-| This game has a Creative Community | 18,602 |
+| This game has a Creative Community | 18,710 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -720,4 +720,4 @@ Diff (max vs sum): 0
 | 2024-01-09 | 4.67 | - | 136,182 | 479,385 |
 | 2024-01-10 | 4.67 | - | 136,867 | 482,007 |
 | 2024-01-11 | 4.67 | - | 137,500 | 484,717 |
-| 2024-01-12 | 4.67 | - | 138,203 | 487,149 |
+| 2024-01-12 | 4.67 | - | 138,203 | 487,257 |

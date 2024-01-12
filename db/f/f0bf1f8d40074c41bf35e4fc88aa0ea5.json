@@ -3,9 +3,9 @@
   "Name": "Argol - Kronoss\u0027 Castle",
   "ProductSlug": "argol-kronoss-castle-84d829",
   "Ranking_EOS_Progress": 641,
-  "Ranking_EOS_Completed": 64,
+  "Ranking_EOS_Completed": 35,
   "Ranking_EOS_NewPlayers": 479,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-12-26T23:00:00+00:00",
     "PcReleaseDate": "2023-12-24T23:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 15,
-  "EOS_Completed": 1,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.67,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 13.33,
   "EosHistory": [
     {
       "Time": "2023-12-20T22:04:50.3148671+00:00",
@@ -109,6 +109,11 @@
       "Time": "2024-01-10T00:04:29.4436387+00:00",
       "NumProgressed": 15,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T22:05:25.9747238+00:00",
+      "NumProgressed": 15,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-20T12:04:22.9309924+00:00",
@@ -119,9 +124,9 @@
       "ID": "BAD_END",
       "SetID": "d0gblle",
       "Name": "Shadow Lord",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CERBERUS",
@@ -159,9 +164,9 @@
       "ID": "GOOD_END",
       "SetID": "d0gblle",
       "Name": "Beloved",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 125,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GUARDIAN",
@@ -183,17 +188,17 @@
       "ID": "KRONOSS",
       "SetID": "d0gblle",
       "Name": "Time Lord",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 150,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LYRA",
       "SetID": "d0gblle",
       "Name": "Orpheus",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MEDUSA",
@@ -249,13 +254,13 @@
       "ID": "d0gblle",
       "IsBase": true,
       "Progressed": 15,
-      "Completed": 1
+      "Completed": 2
     }
   ],
   "FirstSeen": "2023-12-29T14:58:56.0005709+00:00",
   "FirstSeenAchievements": "2023-12-19T21:04:20.7899526+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:05:34.0566754+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:05:25.9747231+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:57:00.8169788+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:57:54.6608524+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:05:34.0566922+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:57:55.6707184+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:05:25.9747323+00:00"
 }

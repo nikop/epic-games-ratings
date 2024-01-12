@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 375,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58748,
+  "EOS_Progressed": 58751,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15776,6 +15776,11 @@
       "Time": "2024-01-12T21:04:14.7685397+00:00",
       "NumProgressed": 58748,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-12T22:04:07.6497545+00:00",
+      "NumProgressed": 58751,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -15835,7 +15840,7 @@
       "Name": "Elf Chaser",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "Explorer",
@@ -15883,7 +15888,7 @@
       "Name": "Fool Me Twice",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "FoundAllBackers",
@@ -15947,7 +15952,7 @@
       "Name": "Hi Fiver",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "IsThisPossible",
@@ -15971,7 +15976,7 @@
       "Name": "Beaten By A Little Girl",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "LordOfHFZ",
@@ -16019,7 +16024,7 @@
       "Name": "Old School Jammin\u0027",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "PacifistVictory",
@@ -16059,7 +16064,7 @@
       "Name": "Broken Present Risk Taker",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "Saint",
@@ -16099,7 +16104,7 @@
       "Name": "Sunflower Master",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2937
+      "UsersEstimate": 2938
     },
     {
       "ID": "Teamwork",
@@ -16123,7 +16128,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4112
+      "UsersEstimate": 4113
     },
     {
       "ID": "TimelySplash",
@@ -16131,7 +16136,7 @@
       "Name": "A Timely Splash",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "TotalBummer",
@@ -16139,7 +16144,7 @@
       "Name": "Totally Bummed Again",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "TrulyEvil",
@@ -16147,7 +16152,7 @@
       "Name": "Truly Evil",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "WakeyWakey",
@@ -16155,7 +16160,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "WhyDoIKeepDoingThat",
@@ -16178,7 +16183,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58748,
+      "Progressed": 58751,
       "Completed": 6
     }
   ],
@@ -16186,8 +16191,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:04:14.768538+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:04:07.649754+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.3766793+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:00:28.8727358+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:04:14.7686647+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:57:00.2242998+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:04:07.6498755+00:00"
 }

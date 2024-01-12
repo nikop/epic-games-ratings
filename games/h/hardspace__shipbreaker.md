@@ -6,21 +6,21 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 72.00% | ~775 |
-| It’s Heating up! | 69.00% | ~742 |
-| Let’s patch things up | 64.00% | ~689 |
-| I can fix it! | 62.00% | ~667 |
-| Post No Bills | 54.00% | ~581 |
-| Truly Shocking! | 47.00% | ~506 |
+| Breathe In… Breathe Out… | 72.00% | ~776 |
+| It’s Heating up! | 69.00% | ~744 |
+| Let’s patch things up | 64.00% | ~690 |
+| I can fix it! | 62.00% | ~668 |
+| Post No Bills | 54.00% | ~582 |
+| Truly Shocking! | 47.00% | ~507 |
 | Critical Thinker | 35.00% | ~377 |
-| Act I Complete | 29.00% | ~312 |
-| Always Finding Your Mark | 29.00% | ~312 |
-| The Weight of the World | 29.00% | ~312 |
-| A drop in the Ocean | 28.00% | ~301 |
+| Act I Complete | 29.00% | ~313 |
+| Always Finding Your Mark | 29.00% | ~313 |
+| The Weight of the World | 29.00% | ~313 |
+| A drop in the Ocean | 28.00% | ~302 |
 | No Niños | 26.00% | ~280 |
-| I ain’t afraid of no Ghost | 24.00% | ~258 |
+| I ain’t afraid of no Ghost | 24.00% | ~259 |
 | Act II Complete | 21.00% | ~226 |
-| Bing Bang BOOM | 19.00% | ~204 |
+| Bing Bang BOOM | 19.00% | ~205 |
 | A successful procedure! | 18.00% | ~194 |
 | Breaking the Ice | 18.00% | ~194 |
 | Solidarity Forever | 12.00% | ~129 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,076 (Ranked 293)  
+Progressed: 1,078 (Ranked 292)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 1,066 | 0 |
 | 2024-01-10 | 1,070 | 0 |
 | 2024-01-11 | 1,074 | 0 |
-| 2024-01-12 | 1,076 | 0 |
+| 2024-01-12 | 1,078 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

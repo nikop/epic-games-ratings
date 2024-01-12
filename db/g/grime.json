@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 453,
+  "Ranking_Rating": 452,
   "Ranking_Popularity": 432,
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 84,
@@ -1879,9 +1879,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167838,
+  "EOS_Progressed": 167846,
   "EOS_Completed": 456,
-  "EOS_NewPlayers": 1153,
+  "EOS_NewPlayers": 1151,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22849,6 +22849,11 @@
       "Time": "2024-01-12T21:05:24.7286182+00:00",
       "NumProgressed": 167838,
       "NumCompleted": 456
+    },
+    {
+      "Time": "2024-01-12T22:05:17.126035+00:00",
+      "NumProgressed": 167846,
+      "NumCompleted": 456
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23155,9 +23160,9 @@
       "ID": "QUEST_CHILD",
       "SetID": "72k7oh",
       "Name": "Dream",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 502
+      "UsersEstimate": 670
     },
     {
       "ID": "QUEST_CODA",
@@ -23228,21 +23233,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167421,
-      "Completed": 1260
+      "Progressed": 167429,
+      "Completed": 1261
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167838,
+      "Progressed": 167846,
       "Completed": 456
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-12T18:57:16.5787168+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:05:24.7286178+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:05:17.1260347+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:57:07.2130096+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:05:24.7287511+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:57:10.0057793+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:05:17.1261551+00:00"
 }

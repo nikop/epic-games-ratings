@@ -6,24 +6,24 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 75.00% | ~67,864 |
-| Initial Capital | 61.00% | ~55,196 |
-| Junior Supply Officer | 39.00% | ~35,289 |
-| Moneybags | 38.00% | ~34,384 |
-| Naval Warfare. Arson | 29.00% | ~26,241 |
-| Naval Warfare. Ramming | 28.00% | ~25,336 |
-| Amateur | 26.00% | ~23,526 |
-| Naval Warfare. Tactics | 26.00% | ~23,526 |
-| Naval Constructor | 25.00% | ~22,621 |
-| Naval Warfare. Weaponry Basics | 19.00% | ~17,192 |
-| Naval Warfare. Lucky Shot | 17.00% | ~15,382 |
-| Naval Warfare. Flooding | 16.00% | ~14,478 |
-| Business Magnate | 13.00% | ~11,763 |
-| Battle Hero | 12.00% | ~10,858 |
-| Smooth Supply | 11.00% | ~9,953 |
-| Warrior | 10.00% | ~9,048 |
-| Supply Officer | 10.00% | ~9,048 |
-| Veteran | 6.00% | ~5,429 |
+| Junior Naval Designer | 75.00% | ~67,881 |
+| Initial Capital | 61.00% | ~55,210 |
+| Junior Supply Officer | 39.00% | ~35,298 |
+| Moneybags | 38.00% | ~34,393 |
+| Naval Warfare. Arson | 29.00% | ~26,247 |
+| Naval Warfare. Ramming | 28.00% | ~25,342 |
+| Amateur | 26.00% | ~23,532 |
+| Naval Warfare. Tactics | 26.00% | ~23,532 |
+| Naval Constructor | 25.00% | ~22,627 |
+| Naval Warfare. Weaponry Basics | 19.00% | ~17,197 |
+| Naval Warfare. Lucky Shot | 17.00% | ~15,386 |
+| Naval Warfare. Flooding | 16.00% | ~14,481 |
+| Business Magnate | 13.00% | ~11,766 |
+| Battle Hero | 12.00% | ~10,861 |
+| Smooth Supply | 11.00% | ~9,956 |
+| Warrior | 10.00% | ~9,051 |
+| Supply Officer | 10.00% | ~9,051 |
+| Veteran | 6.00% | ~5,430 |
 | Legend of the Seas | 3.00% | ~2,715 |
 | Chief Naval Architect | 3.00% | ~2,715 |
 | Shield | 3.00% | ~2,715 |
@@ -38,20 +38,20 @@ Number of Ratings: 4,733  (23.09.2022)
 | Exterminator | 1.00% | ~905 |
 | American Cruisers | 1.00% | ~905 |
 | Old-Timer | 0.80% | ~724 |
-| Secret Instructions | 0.50% | ~452 |
-| Raider | 0.50% | ~452 |
+| Secret Instructions | 0.50% | ~453 |
+| Raider | 0.50% | ~453 |
 | Experienced One | 0.40% | ~362 |
-| Ravager | 0.30% | ~271 |
-| "Yamamoto Isoroku" | 0.30% | ~271 |
-| "Yamamoto Isoroku" | 0.30% | ~271 |
+| Ravager | 0.30% | ~272 |
+| "Yamamoto Isoroku" | 0.30% | ~272 |
+| "Yamamoto Isoroku" | 0.30% | ~272 |
 | "Honorable Service" | 0.20% | ~181 |
 | Hit Hard! Hit Fast! Hit Often! | 0.20% | ~181 |
-| "Science of Victory" with Honors | 0.10% | ~90 |
-| "Honorable Service" with Honors | 0.10% | ~90 |
-| "Yamamoto Isoroku" with Honors | 0.10% | ~90 |
-| Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~90 |
+| "Science of Victory" with Honors | 0.10% | ~91 |
+| "Honorable Service" with Honors | 0.10% | ~91 |
+| "Yamamoto Isoroku" with Honors | 0.10% | ~91 |
+| Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,485 (Ranked 105)  
+Progressed: 90,508 (Ranked 105)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,22 +203,22 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 88,930 | 0 |
 | 2024-01-10 | 89,533 | 0 |
 | 2024-01-11 | 90,012 | 0 |
-| 2024-01-12 | 90,485 | 0 |
+| 2024-01-12 | 90,508 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 1,713  (Ranked 132)  
-Sum: 14,321 (Ranked 80)  
-Diff (max vs sum): 52  
+Max (Quickly Understood Controls): 1,713  (Ranked 133)  
+Sum: 14,334 (Ranked 80)  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 1,713 |
 | This game is Relaxing | 1,710 |
 | This game has Challenging Combat | 1,684 |
 | This game is Extremely Fun | 1,661 |
+| This game is Highly Recommended | 1,645 |
 | This game has Competitive Players | 1,644 |
-| This game is Highly Recommended | 1,639 |
 | This game has Realistic Visuals | 1,502 |
 | This game has Amazing Storytelling | 1,422 |
-| This game has a Competitive Community | 1,346 |
+| This game has a Competitive Community | 1,353 |
 | This game has Amazing Characters | 942 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -588,4 +588,4 @@ Diff (max vs sum): 52
 | 2024-01-09 | 4.41 | - | 1,702 | 14,237 |
 | 2024-01-10 | 4.41 | - | 1,710 | 14,274 |
 | 2024-01-11 | 4.41 | - | 1,710 | 14,307 |
-| 2024-01-12 | 4.41 | - | 1,713 | 14,321 |
+| 2024-01-12 | 4.41 | - | 1,713 | 14,334 |

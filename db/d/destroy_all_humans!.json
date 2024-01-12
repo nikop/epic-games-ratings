@@ -6,9 +6,9 @@
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 360,
-  "Ranking_EOS_Completed": 172,
+  "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -305,11 +305,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 460,
+  "EOS_Progressed": 461,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.09,
+  "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
     {
       "Time": "2023-12-18T10:04:38.3586261+00:00",
@@ -1860,6 +1860,11 @@
       "Time": "2024-01-12T21:05:04.8294952+00:00",
       "NumProgressed": 460,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-12T22:04:57.7329193+00:00",
+      "NumProgressed": 461,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1872,7 +1877,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -1896,7 +1901,7 @@
       "Name": "Deincarnated",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_ABILITY_PKBURNINGINTOHUMAN",
@@ -1934,17 +1939,17 @@
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
       "SetID": "cefn62b",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 272
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
       "SetID": "cefn62b",
       "Name": "Rock of the Bay",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_ABILITY_TRANSMOG",
@@ -1998,9 +2003,9 @@
       "ID": "ACH_CHALLENGE_RAMPAGETHREESTAR",
       "SetID": "cefn62b",
       "Name": "If You Know What I Mean",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_CHALLENGE_THREESTARSEVERYWHERE",
@@ -2022,9 +2027,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "cefn62b",
       "Name": "Earthly Pleasures",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
@@ -2038,17 +2043,17 @@
       "ID": "ACH_COLLECT_PROBE",
       "SetID": "cefn62b",
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
       "SetID": "cefn62b",
       "Name": "Die Nasty",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_ENEMY_KILLARMQUIST",
@@ -2056,7 +2061,7 @@
       "Name": "Albion Bridge Is for Falling Down",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_ENEMY_KILLROBOPREZ",
@@ -2120,7 +2125,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -2144,7 +2149,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -2160,7 +2165,7 @@
       "Name": "Dusted",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_UPGRADE_CRYPTO",
@@ -2191,15 +2196,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 460,
+      "Progressed": 461,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:05:04.829495+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:04:57.7329189+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:15.0942873+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:58:05.6082295+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:05:04.8295453+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:58:06.5143642+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:04:57.7329501+00:00"
 }

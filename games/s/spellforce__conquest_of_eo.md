@@ -10,11 +10,11 @@
 | A kind of Magic | 67.00% | ~95 |
 | Connected | 57.00% | ~81 |
 | Expansion | 54.00% | ~77 |
+| Harvest Time | 51.00% | ~72 |
 | Mine! | 51.00% | ~72 |
-| Harvest Time | 50.00% | ~71 |
 | Artificer's Apprentice | 42.00% | ~60 |
+| Get out of here! | 40.00% | ~57 |
 | Fly the friendly Sky | 40.00% | ~57 |
-| Get out of here! | 39.00% | ~55 |
 | Alchemist's Apprentice | 35.00% | ~50 |
 | Necromancer's Apprentice | 35.00% | ~50 |
 | Friend of Lyraine | 32.00% | ~45 |

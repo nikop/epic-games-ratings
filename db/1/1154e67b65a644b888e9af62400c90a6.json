@@ -3,12 +3,12 @@
   "Name": "Palia",
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 595,
-  "Ranking_Popularity": 133,
+  "Ranking_Popularity": 132,
   "Ranking_PopularitySum": 155,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 581,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
     "PcReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -3263,18 +3263,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 4676,
       "NumberOfAwardsMax": 1705
+    },
+    {
+      "Time": "2024-01-12T21:58:15.4435911+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 4729,
+      "NumberOfAwardsMax": 1737
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4676,
-  "NumberOfAwardsMax": 1705,
+  "NumberOfAwards": 4729,
+  "NumberOfAwardsMax": 1737,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1705
+      "Count": 1737
     },
     {
       "Text": "This game is Relaxing",
@@ -3316,13 +3322,13 @@
       "Text": "This game has a Kind Community",
       "Prefix": "This game has a",
       "Type": "Kind Community",
-      "Count": 287
+      "Count": 296
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 298
+      "Count": 310
     },
     {
       "Text": "This game has Easy Combat",
@@ -3355,8 +3361,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2024-01-12T20:58:14.2213445+00:00",
+  "LastChanged": "2024-01-12T21:58:15.4435909+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:57:00.8695332+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:58:14.2213452+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:08:07.656326+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:58:15.4435915+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:06:08.3335417+00:00"
 }

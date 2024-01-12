@@ -2,13 +2,13 @@
   "ID": "33a47f9b76374045b7da20af80c40aa1",
   "Name": "Immortals of Aveum\u2122",
   "ProductSlug": "immortals-of-aveum",
-  "Ranking_Rating": 974,
+  "Ranking_Rating": 975,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -459,9 +459,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3371,
+  "EOS_Progressed": 3372,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 585,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5359,6 +5359,11 @@
       "Time": "2024-01-12T21:09:57.0541153+00:00",
       "NumProgressed": 3371,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-12T22:09:27.5422457+00:00",
+      "NumProgressed": 3372,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5371,7 +5376,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2966
+      "UsersEstimate": 2967
     },
     {
       "ID": "achievement_10",
@@ -5403,7 +5408,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "achievement_14",
@@ -5515,7 +5520,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 2326
+      "UsersEstimate": 2327
     },
     {
       "ID": "achievement_36",
@@ -5587,7 +5592,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "achievement_46",
@@ -5746,7 +5751,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3371,
+      "Progressed": 3372,
       "Completed": 4
     }
   ],
@@ -5754,8 +5759,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-12T19:59:42.6787305+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:09:57.0541149+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:09:27.5422451+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8440656+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:59:30.3344252+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:09:57.0541829+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:59:30.9774465+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:09:27.542299+00:00"
 }

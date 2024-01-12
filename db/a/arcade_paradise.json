@@ -2,13 +2,13 @@
   "ID": "89b9c510e8d74b9da34c447915b1ffb1",
   "Name": "Arcade Paradise",
   "ProductSlug": "arcade-paradise",
-  "Ranking_Rating": 453,
+  "Ranking_Rating": 452,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 387,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
     "PcReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -99,9 +99,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 753,
+  "EOS_Progressed": 754,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -964,6 +964,11 @@
       "Time": "2024-01-12T21:05:19.9319541+00:00",
       "NumProgressed": 753,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T22:05:12.4848238+00:00",
+      "NumProgressed": 754,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -1023,7 +1028,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "AhoyTrophy",
@@ -1119,7 +1124,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "Ext4Trophy",
@@ -1151,7 +1156,7 @@
       "Name": "Machine Maxed",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "GoldGuyTrophy",
@@ -1255,7 +1260,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "MaxPriceTrophy",
@@ -1406,7 +1411,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 753,
+      "Progressed": 754,
       "Completed": 0
     }
   ],
@@ -1414,8 +1419,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-12-23T15:58:00.3414014+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:05:19.9319536+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:05:12.4848233+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.2493953+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:02:36.9586369+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:05:19.9320073+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:02:28.5647463+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:05:12.4848642+00:00"
 }

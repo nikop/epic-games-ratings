@@ -6,57 +6,57 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 78.00% | ~445 |
+| Green with Envy | 77.00% | ~440 |
 | First of many… | 68.00% | ~388 |
-| Helping Hand | 65.00% | ~370 |
-| Increased Vigor | 60.00% | ~342 |
+| Helping Hand | 64.00% | ~365 |
+| Increased Vigor | 60.00% | ~343 |
 | Fight Fire with Fire | 58.00% | ~331 |
 | Increased Capacity | 55.00% | ~314 |
-| Just the start | 49.00% | ~279 |
-| Perfect Storm | 46.00% | ~262 |
-| All That Glitters | 45.00% | ~256 |
-| Enhance! | 42.00% | ~239 |
+| Just the start | 50.00% | ~286 |
+| Perfect Storm | 46.00% | ~263 |
+| All That Glitters | 45.00% | ~257 |
+| Enhance! | 42.00% | ~240 |
 | One Of the Chosen | 40.00% | ~228 |
 | Five's a Crowd | 40.00% | ~228 |
-| Devil's in the Details | 39.00% | ~222 |
-| Throne Potato | 39.00% | ~222 |
-| 25 to Life | 39.00% | ~222 |
+| Devil's in the Details | 39.00% | ~223 |
+| Throne Potato | 39.00% | ~223 |
+| 25 to Life | 39.00% | ~223 |
 | Salvation | 38.00% | ~217 |
-| Soul Harvester | 36.00% | ~205 |
+| Soul Harvester | 36.00% | ~206 |
 | Unshakable Fortitude | 35.00% | ~200 |
-| I Wanna Rock | 34.00% | ~194 |
 | Delusions of Grandeur | 34.00% | ~194 |
+| I Wanna Rock | 33.00% | ~188 |
 | Love Tap | 33.00% | ~188 |
 | Maximum Vigor | 31.00% | ~177 |
 | Freeze Frame | 30.00% | ~171 |
 | Eat Your Heart Out | 30.00% | ~171 |
-| For Whom the Bell Tolls | 29.00% | ~165 |
+| For Whom the Bell Tolls | 29.00% | ~166 |
 | Unyielding Strength | 26.00% | ~148 |
 | Can you restore the Balance? | 26.00% | ~148 |
 | Big Spender | 26.00% | ~148 |
-| Crowd Source | 25.00% | ~142 |
+| Crowd Source | 25.00% | ~143 |
 | Cleanup Crew | 24.00% | ~137 |
-| Demon Meddler | 24.00% | ~137 |
-| Seeing Red | 24.00% | ~137 |
-| Maximum Capacity | 22.00% | ~125 |
-| Egomaniac | 21.00% | ~120 |
+| Demon Meddler | 23.00% | ~131 |
+| Seeing Red | 23.00% | ~131 |
+| Maximum Capacity | 22.00% | ~126 |
+| Egomaniac | 22.00% | ~126 |
 | Protector of Humanity | 20.00% | ~114 |
 | Everybody Wants to Rule the World | 20.00% | ~114 |
-| Community Outreach | 15.00% | ~86 |
-| Unbreakable Will | 14.00% | ~80 |
+| Community Outreach | 16.00% | ~91 |
 | A Parting Gift | 14.00% | ~80 |
 | Path of the Horseman | 14.00% | ~80 |
+| Unbreakable Will | 13.00% | ~74 |
 | Take it to the Limit | 13.00% | ~74 |
-| Holy Keeper | 12.00% | ~68 |
-| Demon Keeper | 12.00% | ~68 |
+| Holy Keeper | 12.00% | ~69 |
+| Demon Keeper | 12.00% | ~69 |
 | Humanitarian | 10.00% | ~57 |
 | Soul Reaper | 8.00% | ~46 |
 | Made of Sterner Stuff | 7.00% | ~40 |
 | My Evil Twin | 6.00% | ~34 |
-| Purity of Power | 5.00% | ~28 |
-| Balance in all things | 5.00% | ~28 |
-| Keeper of the Bonfire | 5.00% | ~28 |
-| Keeper of the Sky | 5.00% | ~28 |
+| Purity of Power | 5.00% | ~29 |
+| Balance in all things | 5.00% | ~29 |
+| Keeper of the Bonfire | 5.00% | ~29 |
+| Keeper of the Sky | 5.00% | ~29 |
 | "Impressive!" | 4.00% | ~23 |
 | Keeper of the Vale | 4.00% | ~23 |
 | Keeper of the Tempo | 4.00% | ~23 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 1.00% | ~6 |
 | Quite Proper | 0.90% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 570 (Ranked 345)  
+Progressed: 571 (Ranked 345)  
 Completed: 2 (0.35%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 2 (0.35%) (Ranked 248)
 | 2024-01-09 | 525 | 2 |
 | 2024-01-10 | 542 | 2 |
 | 2024-01-11 | 557 | 2 |
-| 2024-01-12 | 570 | 2 |
+| 2024-01-12 | 571 | 2 |
 ## Awards
 Max (Great Boss Battles): 98  (Ranked 384)  
 Sum: 98 (Ranked 471)  

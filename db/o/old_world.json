@@ -2,13 +2,13 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 321,
+  "Ranking_Rating": 322,
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2250,7 +2250,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16545,
+  "EOS_Progressed": 16546,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 411,
   "EOS_NewCompleters": 0,
@@ -19755,6 +19755,11 @@
       "Time": "2024-01-12T21:10:09.8992538+00:00",
       "NumProgressed": 16545,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-12T22:09:40.2407941+00:00",
+      "NumProgressed": 16546,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20764,9 +20769,9 @@
       "ID": "ACHIEVEMENT_GREECE2_SALAMIS_PERFECT",
       "SetID": "9201eeb",
       "Name": "Not a Chance",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_SALAMIS_WIN",
@@ -21100,9 +21105,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
       "SetID": "9201eeb",
       "Name": "Circus Maximus",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
@@ -21220,9 +21225,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
       "SetID": "9201eeb",
       "Name": "Pantheon",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
@@ -21604,9 +21609,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
       "SetID": "9201eeb",
       "Name": "Hittite Paganism",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
@@ -22629,21 +22634,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16545,
+      "Progressed": 16546,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16545,
+      "Progressed": 16546,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-11T21:59:00.3473334+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:10:09.8992532+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:09:40.2407935+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:58:40.2615095+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:10:09.9003076+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:58:41.1042157+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:09:40.2417705+00:00"
 }

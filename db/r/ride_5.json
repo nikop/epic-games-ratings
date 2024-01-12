@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -57,9 +57,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3565,
+  "EOS_Progressed": 3567,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8757,6 +8757,11 @@
       "Time": "2024-01-12T20:05:06.7032337+00:00",
       "NumProgressed": 3565,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T22:04:48.7372134+00:00",
+      "NumProgressed": 3567,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8769,7 +8774,7 @@
       "Name": "First Love",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1605
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -8777,7 +8782,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -9057,7 +9062,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -9065,7 +9070,7 @@
       "Name": "Eat My Dust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1784
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -9121,7 +9126,7 @@
       "Name": "Rivals to the End",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -9160,7 +9165,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3565,
+      "Progressed": 3567,
       "Completed": 0
     }
   ],
@@ -9168,8 +9173,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-11T14:58:44.7616206+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:04:56.8199754+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:04:48.7372126+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.6681713+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:59:08.7432243+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:04:56.8200657+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:59:09.0348533+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:04:48.7372985+00:00"
 }

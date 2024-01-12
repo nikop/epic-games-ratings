@@ -5,33 +5,33 @@ Rating: 4.22 (Ranked 954)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Outer Way | 27.00% | ~6,000 |
-| Flesh Wound | 26.00% | ~5,778 |
-| Desperate Times | 25.00% | ~5,556 |
+| The Outer Way | 27.00% | ~6,002 |
+| Flesh Wound | 26.00% | ~5,779 |
+| Desperate Times | 25.00% | ~5,557 |
 | Paper Jams | 23.00% | ~5,112 |
-| Get a Grip | 22.00% | ~4,889 |
-| Chew 'Em Up | 20.00% | ~4,445 |
+| Get a Grip | 22.00% | ~4,890 |
+| Chew 'Em Up | 20.00% | ~4,446 |
 | Reforged | 19.00% | ~4,223 |
-| Float Like A Butterfly | 18.00% | ~4,000 |
-| If the SHU Fits... | 17.00% | ~3,778 |
+| Float Like A Butterfly | 18.00% | ~4,001 |
+| If the SHU Fits... | 17.00% | ~3,779 |
 | Workplace Hazard | 16.00% | ~3,556 |
-| Without A Paddle | 14.00% | ~3,111 |
+| Without A Paddle | 14.00% | ~3,112 |
 | Two Heads Are Better Than One | 12.00% | ~2,667 |
 | In the Pipe, Five by Five | 12.00% | ~2,667 |
 | Crash Site | 12.00% | ~2,667 |
 | Terminated | 11.00% | ~2,445 |
 | Power Up | 11.00% | ~2,445 |
-| Giving Back | 10.00% | ~2,222 |
-| What Lies Beneath | 10.00% | ~2,222 |
-| Full Circle | 10.00% | ~2,222 |
-| You Need a Gun | 9.00% | ~2,000 |
+| Giving Back | 10.00% | ~2,223 |
+| What Lies Beneath | 10.00% | ~2,223 |
+| Full Circle | 10.00% | ~2,223 |
+| You Need a Gun | 9.00% | ~2,001 |
 | I Do Belong Here | 8.00% | ~1,778 |
 | Keep Fighting | 7.00% | ~711 |
 | It's Time | 6.00% | ~609 |
 | In Striking Distance | 5.00% | ~1,111 |
 | The Commonality | 5.00% | ~1,111 |
-| One Last Job | 3.00% | ~304 |
-| Mugshot | 2.00% | ~444 |
+| One Last Job | 3.00% | ~305 |
+| Mugshot | 2.00% | ~445 |
 | Big Spender | 2.00% | ~203 |
 | This Isn't About Escape | 2.00% | ~203 |
 | Armed to the Teeth | 1.00% | ~102 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 954)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,224 (Ranked 151)  
+Progressed: 22,228 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 82 (0.37%) (Ranked 245)
 | 2024-01-09 | 21,902 | 82 |
 | 2024-01-10 | 22,053 | 82 |
 | 2024-01-11 | 22,169 | 82 |
-| 2024-01-12 | 22,224 | 82 |
+| 2024-01-12 | 22,228 | 82 |
 ## Awards
 Max (Amazing Characters): 131  (Ranked 345)  
 Sum: 641 (Ranked 320)  

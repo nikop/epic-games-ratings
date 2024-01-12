@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.82 (Ranked 70)  
+Rating: 4.82 (Ranked 69)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,726 (Ranked 155)  
+Progressed: 20,727 (Ranked 155)  
 Completed: 34 (0.16%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,10 +333,10 @@ Completed: 34 (0.16%) (Ranked 287)
 | 2024-01-09 | 20,595 | 34 |
 | 2024-01-10 | 20,658 | 34 |
 | 2024-01-11 | 20,700 | 34 |
-| 2024-01-12 | 20,726 | 34 |
+| 2024-01-12 | 20,727 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
-Sum: 3,374 (Ranked 177)  
+Sum: 3,375 (Ranked 177)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -347,7 +347,7 @@ Diff (max vs sum): 56
 | This game is Highly Recommended | 406 |
 | This game has Unique Visuals | 348 |
 | This game has Amazing Storytelling | 334 |
-| This game has Amazing Characters | 295 |
+| This game has Amazing Characters | 296 |
 | This game has Obsessive Gameplay | 254 |
 | This game has a Creative Community | 221 |
 ## Ratings History
@@ -635,4 +635,4 @@ Diff (max vs sum): 56
 | 2024-01-09 | 4.82 | - | 452 | 3,364 |
 | 2024-01-10 | 4.82 | - | 452 | 3,369 |
 | 2024-01-11 | 4.82 | - | 452 | 3,371 |
-| 2024-01-12 | 4.82 | - | 452 | 3,374 |
+| 2024-01-12 | 4.82 | - | 452 | 3,375 |

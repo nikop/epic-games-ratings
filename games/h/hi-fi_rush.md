@@ -5,20 +5,20 @@ Rating: 4.86 (Ranked 31)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 55.00% | ~9,298 |
-| Start with a bang! | 54.00% | ~9,129 |
-| You can pet the cat! | 49.00% | ~8,283 |
-| Who put gears in there? | 40.00% | ~6,762 |
-| Cream of the Crop | 35.00% | ~5,917 |
-| Thanks for the free chip, Peppermint! | 35.00% | ~5,917 |
+| Feeling the beat! | 55.00% | ~9,299 |
+| Start with a bang! | 54.00% | ~9,130 |
+| You can pet the cat! | 49.00% | ~8,285 |
+| Who put gears in there? | 40.00% | ~6,763 |
+| Cream of the Crop | 36.00% | ~6,087 |
+| Thanks for the free chip, Peppermint! | 35.00% | ~5,918 |
 | You got this, Peppermint? | 30.00% | ~5,072 |
-| Perfect Parry | 28.00% | ~4,733 |
-| Alright, that felt AWESOME! | 27.00% | ~4,564 |
-| I play my own way! | 24.00% | ~4,057 |
-| This will cost you big time | 22.00% | ~3,719 |
-| Uh, they were broken when I got here | 22.00% | ~3,719 |
-| Z-shielding's got nothing on us! | 20.00% | ~3,381 |
-| Kissing the sky! | 20.00% | ~3,381 |
+| Perfect Parry | 28.00% | ~4,734 |
+| Alright, that felt AWESOME! | 27.00% | ~4,565 |
+| I play my own way! | 24.00% | ~4,058 |
+| This will cost you big time | 22.00% | ~3,720 |
+| Uh, they were broken when I got here | 22.00% | ~3,720 |
+| Z-shielding's got nothing on us! | 20.00% | ~3,382 |
+| Kissing the sky! | 20.00% | ~3,382 |
 | Whoa! There's ANOTHER health bar!? | 17.00% | ~2,874 |
 | Does that say weakpoint? | 17.00% | ~2,874 |
 | The Negotiator | 16.00% | ~2,705 |
@@ -30,10 +30,10 @@ Rating: 4.86 (Ranked 31)
 | Perfecter Parry-er! | 12.00% | ~2,029 |
 | Who's the boss now? | 11.00% | ~1,860 |
 | I have to read these things? | 11.00% | ~1,860 |
-| There's such a thing as TOO helpful | 8.00% | ~1,352 |
+| There's such a thing as TOO helpful | 8.00% | ~1,353 |
 | NOW we got a kickass hideout! | 8.00% | ~1,234 |
-| Well that was a rush! | 7.00% | ~1,183 |
-| That's a lot of junk metal… | 7.00% | ~1,183 |
+| Well that was a rush! | 7.00% | ~1,184 |
+| That's a lot of junk metal… | 7.00% | ~1,184 |
 | Beat-hit mania | 6.00% | ~1,014 |
 | I told you I'd be fine, Peppermint! | 5.00% | ~845 |
 | Chip-tuned | 4.00% | ~676 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 31)
 | Voices from within | 0.10% | ~15 |
 | Low budget finish | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,905 (Ranked 168)  
+Progressed: 16,908 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 8 (0.05%) (Ranked 340)
 | 2024-01-09 | 16,474 | 8 |
 | 2024-01-10 | 16,669 | 8 |
 | 2024-01-11 | 16,805 | 8 |
-| 2024-01-12 | 16,905 | 8 |
+| 2024-01-12 | 16,908 | 8 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 510)  
 Sum: 34 (Ranked 538)  

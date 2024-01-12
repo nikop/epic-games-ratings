@@ -2,13 +2,13 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 453,
+  "Ranking_Rating": 452,
   "Ranking_Popularity": 535,
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -355,9 +355,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 235283,
+  "EOS_Progressed": 235284,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27555,6 +27555,11 @@
       "Time": "2024-01-12T21:09:26.658498+00:00",
       "NumProgressed": 235283,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-12T22:08:57.5250301+00:00",
+      "NumProgressed": 235284,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -27710,7 +27715,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79996
+      "UsersEstimate": 79997
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -27726,7 +27731,7 @@
       "Name": "Be Gentle...",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 49409
+      "UsersEstimate": 49410
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -27734,7 +27739,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7058
+      "UsersEstimate": 7059
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -27789,7 +27794,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 235283,
+      "Progressed": 235284,
       "Completed": 6
     }
   ],
@@ -27797,8 +27802,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2024-01-07T19:57:29.8230192+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:09:26.6584976+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:08:57.5250297+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:56:58.3666306+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:00:03.0038008+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:09:26.6586713+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:00:03.1147524+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:08:57.5251805+00:00"
 }

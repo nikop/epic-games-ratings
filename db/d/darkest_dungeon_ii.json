@@ -10782,9 +10782,9 @@
       "Count": 1092
     }
   ],
-  "EOS_Progressed": 132576,
+  "EOS_Progressed": 132583,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 773,
+  "EOS_NewPlayers": 774,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39562,6 +39562,11 @@
       "Time": "2024-01-12T21:09:51.0235012+00:00",
       "NumProgressed": 132576,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-12T22:09:21.5864969+00:00",
+      "NumProgressed": 132583,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39925,7 +39930,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9280
+      "UsersEstimate": 9281
     },
     {
       "ID": "hero_story_complete_all",
@@ -40109,7 +40114,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "combat_kill_collector",
@@ -40117,7 +40122,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -40133,7 +40138,7 @@
       "Name": "No Mercy",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -40141,7 +40146,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -40189,7 +40194,7 @@
       "Name": "For Old Time\u0027 Sake",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -40204,21 +40209,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132576,
+      "Progressed": 132583,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7445,
+      "Progressed": 7452,
       "Completed": 825
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-12T20:00:22.32678+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:09:51.0235008+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:09:21.5864963+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:00:08.0584773+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:09:51.0237204+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:00:08.5320022+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:09:21.5867095+00:00"
 }

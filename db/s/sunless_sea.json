@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 375,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -808,9 +808,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44112,
+  "EOS_Progressed": 44115,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 474,
+  "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28198,6 +28198,11 @@
       "Time": "2024-01-12T21:04:00.4636866+00:00",
       "NumProgressed": 44112,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-12T22:03:52.9781125+00:00",
+      "NumProgressed": 44115,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -28225,7 +28230,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7499
+      "UsersEstimate": 7500
     },
     {
       "ID": "ach_antiquarian10",
@@ -28233,7 +28238,7 @@
       "Name": "Old Unhappy Far-Off Things",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "ach_combuoy",
@@ -28273,7 +28278,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4852
+      "UsersEstimate": 4853
     },
     {
       "ID": "ach_cursestone",
@@ -28297,7 +28302,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4852
+      "UsersEstimate": 4853
     },
     {
       "ID": "ach_deathofermod",
@@ -28329,7 +28334,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15880
+      "UsersEstimate": 15881
     },
     {
       "ID": "ach_die10",
@@ -28345,7 +28350,7 @@
       "Name": "Sink Beneath the Waves. Again.",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "ach_dive",
@@ -28377,7 +28382,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4852
+      "UsersEstimate": 4853
     },
     {
       "ID": "ach_invictus",
@@ -28401,7 +28406,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5293
+      "UsersEstimate": 5294
     },
     {
       "ID": "ach_legacypupil",
@@ -28433,7 +28438,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4852
+      "UsersEstimate": 4853
     },
     {
       "ID": "ach_newstories",
@@ -28561,7 +28566,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7940
+      "UsersEstimate": 7941
     },
     {
       "ID": "ach_terror100",
@@ -28569,7 +28574,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5293
+      "UsersEstimate": 5294
     },
     {
       "ID": "ach_terror90",
@@ -28609,7 +28614,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 5293
+      "UsersEstimate": 5294
     },
     {
       "ID": "ach_year1",
@@ -28640,15 +28645,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44112,
+      "Progressed": 44115,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-05T23:59:49.2303848+00:00",
-  "LastChanged_Achievements": "2024-01-12T21:04:00.4636862+00:00",
+  "LastChanged_Achievements": "2024-01-12T22:03:52.978112+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.5653659+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:59:46.1399447+00:00",
-  "LastUpdate_Achievements": "2024-01-12T21:04:00.4638698+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:59:45.3053681+00:00",
+  "LastUpdate_Achievements": "2024-01-12T22:03:52.9782598+00:00"
 }
