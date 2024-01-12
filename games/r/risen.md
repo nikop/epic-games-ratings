@@ -43,8 +43,8 @@ Rating: 4.56 (Ranked 510)
 | King of the handymen | 7.00% | ~14 |
 | Terror of the hens | 6.00% | ~12 |
 | Expert | 6.00% | ~12 |
+| The traveler | 5.00% | ~10 |
 | Moneybags | 5.00% | ~10 |
-| The traveler | 4.00% | ~8 |
 | King Midas | 4.00% | ~8 |
 | Rune master | 3.00% | ~6 |
 | Jester | 3.00% | ~6 |

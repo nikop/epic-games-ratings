@@ -33,8 +33,8 @@
 | Casting Finished | 6.00% | ~19 |
 | Instinct of self-preservation | 6.00% | ~19 |
 | Fisherman | 6.00% | ~19 |
+| I remember It Like Was Yesterday | 5.00% | ~16 |
 | Something to think about | 4.00% | ~13 |
-| I remember It Like Was Yesterday | 4.00% | ~13 |
 | We Are Not Alone | 3.00% | ~10 |
 | Dark correspondence | 3.00% | ~10 |
 | Immortalized in my heart | 3.00% | ~10 |

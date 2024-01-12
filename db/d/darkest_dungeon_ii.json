@@ -2,7 +2,7 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 265,
+  "Ranking_Rating": 264,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
@@ -10684,18 +10684,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 21600,
       "NumberOfAwardsMax": 8002
+    },
+    {
+      "Time": "2024-01-12T14:00:42.1728595+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21605,
+      "NumberOfAwardsMax": 8007
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21600,
-  "NumberOfAwardsMax": 8002,
+  "NumberOfAwards": 21605,
+  "NumberOfAwardsMax": 8007,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8002
+      "Count": 8007
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10764,9 +10770,9 @@
       "Count": 1092
     }
   ],
-  "EOS_Progressed": 132537,
+  "EOS_Progressed": 132540,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 788,
+  "EOS_NewPlayers": 786,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39504,6 +39510,11 @@
       "Time": "2024-01-12T13:15:48.899019+00:00",
       "NumProgressed": 132537,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-12T14:10:18.3472938+00:00",
+      "NumProgressed": 132540,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39803,7 +39814,7 @@
       "Name": "Spelunker",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5301
+      "UsersEstimate": 5302
     },
     {
       "ID": "driving_biome_clear_city",
@@ -39819,7 +39830,7 @@
       "Name": "Merry Time",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5301
+      "UsersEstimate": 5302
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -39827,7 +39838,7 @@
       "Name": "Harvest Festival",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5301
+      "UsersEstimate": 5302
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -39843,7 +39854,7 @@
       "Name": "Ramble On",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5301
+      "UsersEstimate": 5302
     },
     {
       "ID": "driving_distance_hard",
@@ -39891,7 +39902,7 @@
       "Name": "Whale",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5301
+      "UsersEstimate": 5302
     },
     {
       "ID": "hospital_full_service",
@@ -39963,7 +39974,7 @@
       "Name": "Nope",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5301
+      "UsersEstimate": 5302
     },
     {
       "ID": "run_victory_act01",
@@ -39971,7 +39982,7 @@
       "Name": "Unshackled",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 5301
+      "UsersEstimate": 5302
     },
     {
       "ID": "run_victory_act02",
@@ -40059,7 +40070,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -40099,7 +40110,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -40107,7 +40118,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "quest_complete_crusader",
@@ -40115,7 +40126,7 @@
       "Name": "Lost and Found",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -40146,21 +40157,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132537,
+      "Progressed": 132540,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7406,
+      "Progressed": 7409,
       "Completed": 825
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-12T13:06:10.0106049+00:00",
-  "LastChanged_Achievements": "2024-01-12T13:15:48.8990186+00:00",
+  "LastChanged": "2024-01-12T14:00:42.1728594+00:00",
+  "LastChanged_Achievements": "2024-01-12T14:10:18.3472931+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:06:10.0106055+00:00",
-  "LastUpdate_Achievements": "2024-01-12T13:15:48.8992142+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:00:42.17286+00:00",
+  "LastUpdate_Achievements": "2024-01-12T14:10:18.3474585+00:00"
 }

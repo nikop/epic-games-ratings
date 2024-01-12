@@ -9,9 +9,9 @@
 | Commencing of Quests | 61.00% | ~818 |
 | Budding Conjuror | 60.00% | ~805 |
 | Man-Machine Master | 49.00% | ~657 |
+| Charmed by the Hunt | 49.00% | ~657 |
 | Mountain Splitter | 48.00% | ~644 |
 | Subsistence Skills | 48.00% | ~644 |
-| Charmed by the Hunt | 48.00% | ~644 |
 | Memory Rouser | 47.00% | ~630 |
 | Fusion Conjuror | 45.00% | ~603 |
 | Kemono Hunter | 43.00% | ~577 |
@@ -54,7 +54,7 @@
 | Tsukumo Whisperer | 3.00% | ~40 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,341 (Ranked 277)  
-Completed: 8 (0.60%) (Ranked 211)  
+Completed: 8 (0.60%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -13,10 +13,10 @@ Rating: 4.59 (Ranked 452)
 | A Thousand Strong | 19.00% | ~791 |
 | Ready for a New World | 19.00% | ~791 |
 | Permanent Redesigns | 17.00% | ~707 |
+| Guy de Borderlands | 15.00% | ~624 |
 | Fully Recycled | 15.00% | ~624 |
 | Ain't Nobody Got Time for That | 15.00% | ~624 |
 | The Ship of Theseus | 15.00% | ~624 |
-| Guy de Borderlands | 14.00% | ~583 |
 | Hope Seeker | 14.00% | ~583 |
 | A Hunk of Junk | 12.00% | ~499 |
 | Exceeding Capacity | 12.00% | ~499 |
@@ -25,9 +25,9 @@ Rating: 4.59 (Ranked 452)
 | Power Outage | 9.00% | ~374 |
 | Please Make it Stop! | 9.00% | ~374 |
 | Sightseeing | 8.00% | ~333 |
+| Necessary Enhancement | 8.00% | ~333 |
 | Convenient Transport | 8.00% | ~333 |
 | Access Granted | 7.00% | ~291 |
-| Necessary Enhancement | 7.00% | ~291 |
 | From the Past | 7.00% | ~291 |
 | All in Good Health | 6.00% | ~250 |
 | Drill-dozer | 6.00% | ~250 |

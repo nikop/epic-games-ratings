@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25096,
+  "EOS_Progressed": 25097,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -22895,6 +22895,11 @@
       "Time": "2024-01-12T11:04:03.3636858+00:00",
       "NumProgressed": 25096,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2024-01-12T14:04:06.3982878+00:00",
+      "NumProgressed": 25097,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 16,
@@ -22970,7 +22975,7 @@
       "Name": "I Am The Storm",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 3764
+      "UsersEstimate": 3765
     },
     {
       "ID": "Make_Rock_Not_War",
@@ -22978,7 +22983,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 9536
+      "UsersEstimate": 9537
     },
     {
       "ID": "Mirrors",
@@ -23002,7 +23007,7 @@
       "Name": "Shooting Shark",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 11795
+      "UsersEstimate": 11796
     },
     {
       "ID": "Sole_Survivor",
@@ -23018,7 +23023,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4015
+      "UsersEstimate": 4016
     },
     {
       "ID": "The_Reaper",
@@ -23033,15 +23038,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 25096,
+      "Progressed": 25097,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-09T13:57:36.5131842+00:00",
-  "LastChanged_Achievements": "2024-01-12T13:09:44.6973608+00:00",
+  "LastChanged_Achievements": "2024-01-12T14:04:06.3982875+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:51.4692455+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:04:59.7248762+00:00",
-  "LastUpdate_Achievements": "2024-01-12T13:09:44.6974632+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:59:34.2434431+00:00",
+  "LastUpdate_Achievements": "2024-01-12T14:04:06.3983957+00:00"
 }

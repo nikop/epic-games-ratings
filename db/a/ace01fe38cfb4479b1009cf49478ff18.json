@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 921,
+  "EOS_Progressed": 922,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3004,6 +3004,11 @@
       "Time": "2024-01-12T12:08:40.4808909+00:00",
       "NumProgressed": 921,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T14:09:04.0259395+00:00",
+      "NumProgressed": 922,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -3032,7 +3037,7 @@
       "Name": "Chapter III - Complete",
       "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_complete_difficulty_easy",
@@ -3040,7 +3045,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_complete_difficulty_extreme",
@@ -3111,14 +3116,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 921,
+      "Progressed": 922,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-12T13:14:34.2457009+00:00",
+  "LastChanged_Achievements": "2024-01-12T14:09:04.0259391+00:00",
   "LastUpdate_AppInfo": "2024-01-05T16:57:07.4104924+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:08:39.4418183+00:00",
-  "LastUpdate_Achievements": "2024-01-12T13:14:34.2457254+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:02:56.5234123+00:00",
+  "LastUpdate_Achievements": "2024-01-12T14:09:04.0259608+00:00"
 }

@@ -1,26 +1,26 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 431)  
+Rating: 4.60 (Ranked 430)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 76.00% | ~6,006 |
-| Having A Field Day | 76.00% | ~6,006 |
-| Reap What You Sow | 73.00% | ~5,769 |
-| The First Day | 70.00% | ~5,532 |
-| Green Thumb | 68.00% | ~5,374 |
-| Novice Researcher | 68.00% | ~5,374 |
+| Get A Room | 76.00% | ~6,007 |
+| Having A Field Day | 76.00% | ~6,007 |
+| Reap What You Sow | 73.00% | ~5,770 |
+| The First Day | 70.00% | ~5,533 |
+| Green Thumb | 68.00% | ~5,375 |
+| Novice Researcher | 68.00% | ~5,375 |
 | Home Cooked Meal | 62.00% | ~4,900 |
 | Onward | 58.00% | ~4,584 |
 | The First Week | 56.00% | ~4,426 |
 | Beam Me Up | 53.00% | ~4,189 |
 | Studious Researcher | 53.00% | ~4,189 |
-| Adept Researcher | 45.00% | ~3,556 |
-| Retribution | 43.00% | ~3,398 |
-| Putting Food on the Table | 43.00% | ~3,398 |
-| ...And Don’t Come Back! | 43.00% | ~3,398 |
+| Adept Researcher | 45.00% | ~3,557 |
+| Retribution | 43.00% | ~3,399 |
+| Putting Food on the Table | 43.00% | ~3,399 |
+| ...And Don’t Come Back! | 43.00% | ~3,399 |
 | Feast or Famine | 34.00% | ~2,687 |
 | Heating Up | 33.00% | ~2,608 |
 | Luminary Researcher | 30.00% | ~2,371 |
@@ -31,14 +31,14 @@ Number of Ratings: 706  (23.09.2022)
 | Oh Deer! | 23.00% | ~1,818 |
 | A Party Now | 22.00% | ~1,739 |
 | All Year Round | 22.00% | ~1,739 |
-| Don't Cry Wolf | 14.00% | ~1,106 |
-| Nothing Wasted | 13.00% | ~1,027 |
+| Don't Cry Wolf | 14.00% | ~1,107 |
+| Nothing Wasted | 13.00% | ~1,028 |
 | Deerly Departed | 8.00% | ~632 |
 | Where Wolf? | 5.00% | ~395 |
 | Food Chain | 2.00% | ~158 |
 | Wabbit Season | 0.50% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,903 (Ranked 192)  
+Progressed: 7,904 (Ranked 192)  
 Completed: 14 (0.18%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 14 (0.18%) (Ranked 284)
 | 2024-01-09 | 7,860 | 14 |
 | 2024-01-10 | 7,883 | 14 |
 | 2024-01-11 | 7,897 | 14 |
-| 2024-01-12 | 7,903 | 14 |
+| 2024-01-12 | 7,904 | 14 |
 ## Awards
 Max (Great for Beginners): 133  (Ranked 343)  
 Sum: 1,061 (Ranked 270)  

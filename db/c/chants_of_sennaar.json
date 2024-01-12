@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -129,8 +129,8 @@
   "Tags": [],
   "EOS_Progressed": 2709,
   "EOS_Completed": 197,
-  "EOS_NewPlayers": 313,
-  "EOS_NewCompleters": 44,
+  "EOS_NewPlayers": 312,
+  "EOS_NewCompleters": 43,
   "EOS_Completed_Percentage": 7.27,
   "EosHistory": [
     {
@@ -7154,9 +7154,9 @@
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 200,
-      "UsersEstimate": 677
+      "UsersEstimate": 704
     },
     {
       "ID": "META_ALL_LINK",
@@ -7282,17 +7282,17 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 677
+      "UsersEstimate": 704
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1625
+      "UsersEstimate": 1652
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7306,9 +7306,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1490
     },
     {
       "ID": "PROGRESS_N2",
@@ -7355,8 +7355,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-12T13:10:42.7996405+00:00",
+  "LastChanged_Achievements": "2024-01-12T14:05:06.3065404+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:02:58.058526+00:00",
-  "LastUpdate_Achievements": "2024-01-12T13:10:42.7997036+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:57:34.8341543+00:00",
+  "LastUpdate_Achievements": "2024-01-12T14:05:06.3065931+00:00"
 }

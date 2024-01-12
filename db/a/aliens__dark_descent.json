@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -557,7 +557,7 @@
   ],
   "EOS_Progressed": 6369,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 475,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9875,9 +9875,9 @@
       "ID": "ACH_MISSION_04",
       "SetID": "816efe",
       "Name": "Making a Stand",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2293
+      "UsersEstimate": 2357
     },
     {
       "ID": "ACH_MISSION_05",
@@ -9899,9 +9899,9 @@
       "ID": "ACH_MISSION_07",
       "SetID": "816efe",
       "Name": "The Darwin Era Was Here",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1592
     },
     {
       "ID": "ACH_MISSION_08",
@@ -10028,8 +10028,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-12T09:00:33.1677408+00:00",
-  "LastChanged_Achievements": "2024-01-12T13:09:41.6567832+00:00",
+  "LastChanged_Achievements": "2024-01-12T14:04:03.4441746+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.3437063+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:08:18.1379543+00:00",
-  "LastUpdate_Achievements": "2024-01-12T13:09:41.6568456+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:00:57.6792911+00:00",
+  "LastUpdate_Achievements": "2024-01-12T14:04:03.4442489+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 578,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2019-09-13T15:00:00+00:00",
     "PcReleaseDate": "2019-09-13T15:00:00+00:00",
@@ -17591,10 +17591,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 377734,
       "NumberOfAwardsMax": 125184
+    },
+    {
+      "Time": "2024-01-12T13:58:37.829288+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 377755,
+      "NumberOfAwardsMax": 125184
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 377734,
+  "NumberOfAwards": 377755,
   "NumberOfAwardsMax": 125184,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -17650,7 +17656,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 26703
+      "Count": 26724
     },
     {
       "Text": "This game has Unique Visuals",
@@ -17676,8 +17682,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2024-01-12T13:04:01.9941742+00:00",
+  "LastChanged": "2024-01-12T13:58:37.8292878+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:51.2015404+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:04:01.9941748+00:00",
-  "LastUpdate_Achievements": "2024-01-12T13:11:38.4069231+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:58:37.8292884+00:00",
+  "LastUpdate_Achievements": "2024-01-12T14:06:01.5625485+00:00"
 }

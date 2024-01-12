@@ -9505,9 +9505,9 @@
       "Count": 3635
     }
   ],
-  "EOS_Progressed": 253523,
+  "EOS_Progressed": 253534,
   "EOS_Completed": 2614,
-  "EOS_NewPlayers": 2090,
+  "EOS_NewPlayers": 2075,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39785,6 +39785,11 @@
       "Time": "2024-01-12T13:16:11.5768417+00:00",
       "NumProgressed": 253523,
       "NumCompleted": 2614
+    },
+    {
+      "Time": "2024-01-12T14:10:40.91771+00:00",
+      "NumProgressed": 253534,
+      "NumCompleted": 2614
     }
   ],
   "TotalAchievements": 546,
@@ -40164,7 +40169,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5070
+      "UsersEstimate": 5071
     },
     {
       "ID": "objective_completed_110",
@@ -41468,7 +41473,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5070
+      "UsersEstimate": 5071
     },
     {
       "ID": "objective_completed_34",
@@ -42338,9 +42343,9 @@
       "ID": "objective_completed_6",
       "SetID": "cc37lbc",
       "Name": "The Contagious Curse",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1268
     },
     {
       "ID": "objective_completed_60",
@@ -42994,9 +42999,9 @@
       "ID": "objective_completed_77",
       "SetID": "cc37lbc",
       "Name": "Rude Welcome",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 507
     },
     {
       "ID": "objective_completed_79",
@@ -44163,21 +44168,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219797,
+      "Progressed": 219808,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253523,
+      "Progressed": 253534,
       "Completed": 2614
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-12T13:05:15.497125+00:00",
-  "LastChanged_Achievements": "2024-01-12T13:16:11.5768412+00:00",
+  "LastChanged_Achievements": "2024-01-12T14:10:40.9177096+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:05:15.4971255+00:00",
-  "LastUpdate_Achievements": "2024-01-12T13:16:11.579276+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:59:49.5357641+00:00",
+  "LastUpdate_Achievements": "2024-01-12T14:10:40.9201055+00:00"
 }

@@ -6,31 +6,31 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~261,458 |
-| Cavalier | 26.00% | ~212,435 |
-| Fatso | 23.00% | ~187,923 |
-| Awakening | 21.00% | ~171,582 |
-| Ranger | 20.00% | ~163,411 |
-| Scrooge | 20.00% | ~163,411 |
-| Anorectic | 16.00% | ~130,729 |
-| Firestarter | 16.00% | ~130,729 |
-| Bookworm | 15.00% | ~122,559 |
-| Insomniac | 13.00% | ~106,217 |
-| Buddy | 12.00% | ~98,047 |
-| Thief | 12.00% | ~98,047 |
-| Sinner | 11.00% | ~89,876 |
-| Traveller | 11.00% | ~89,876 |
+| Blacksmith's Son | 32.00% | ~261,460 |
+| Cavalier | 26.00% | ~212,437 |
+| Fatso | 23.00% | ~187,925 |
+| Awakening | 21.00% | ~171,583 |
+| Ranger | 20.00% | ~163,413 |
+| Scrooge | 20.00% | ~163,413 |
+| Anorectic | 16.00% | ~130,730 |
+| Firestarter | 16.00% | ~130,730 |
+| Bookworm | 15.00% | ~122,560 |
+| Insomniac | 13.00% | ~106,218 |
+| Buddy | 12.00% | ~98,048 |
+| Thief | 12.00% | ~98,048 |
+| Sinner | 11.00% | ~89,877 |
+| Traveller | 11.00% | ~89,877 |
 | Convict | 10.00% | ~81,706 |
-| Haggler | 9.00% | ~73,535 |
+| Haggler | 9.00% | ~73,536 |
 | McLovin | 7.00% | ~57,194 |
 | Runt | 7.00% | ~57,194 |
-| Casanova | 6.00% | ~49,023 |
+| Casanova | 6.00% | ~49,024 |
 | Bad Trip | 5.00% | ~40,853 |
 | Monk | 5.00% | ~40,853 |
 | Serial Killer | 5.00% | ~40,853 |
-| Bastard | 4.00% | ~32,682 |
-| Hunter | 4.00% | ~32,682 |
-| Plague Doctor | 4.00% | ~32,682 |
+| Bastard | 4.00% | ~32,683 |
+| Hunter | 4.00% | ~32,683 |
+| Plague Doctor | 4.00% | ~32,683 |
 | Bard | 3.00% | ~24,512 |
 | Conqueror | 3.00% | ~24,512 |
 | Ginger in a Pickle | 3.00% | ~24,512 |
@@ -53,7 +53,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Stealth Killer | 1.00% | ~8,171 |
 | Bailiff | 0.90% | ~7,354 |
 | Tracker | 0.90% | ~7,354 |
-| David Horak | 0.80% | ~6,536 |
+| David Horak | 0.80% | ~6,537 |
 | Fighter | 0.70% | ~5,719 |
 | Mercenary's Honour | 0.70% | ~5,719 |
 | Saviour | 0.70% | ~5,719 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~817 |
 | Wingman | 0.10% | ~817 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 817,057 (Ranked 20)  
+Progressed: 817,064 (Ranked 20)  
 Completed: 53 (0.01%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,14 +356,14 @@ Completed: 53 (0.01%) (Ranked 375)
 | 2024-01-09 | 816,764 | 53 |
 | 2024-01-10 | 816,875 | 53 |
 | 2024-01-11 | 817,003 | 53 |
-| 2024-01-12 | 817,057 | 53 |
+| 2024-01-12 | 817,064 | 53 |
 ## Awards
-Max (Character Customization): 7,771  (Ranked 54)  
-Sum: 28,822 (Ranked 50)  
-Diff (max vs sum): 4  
+Max (Character Customization): 7,775  (Ranked 53)  
+Sum: 28,826 (Ranked 50)  
+Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,771 |
+| This game has Inclusive Character Customization | 7,775 |
 | This game has Great Boss Battles | 5,661 |
 | This game has Challenging Combat | 1,811 |
 | This game has Diverse Characters | 1,772 |
@@ -728,4 +728,4 @@ Diff (max vs sum): 4
 | 2024-01-09 | 4.71 | - | 7,766 | 28,802 |
 | 2024-01-10 | 4.71 | - | 7,769 | 28,812 |
 | 2024-01-11 | 4.71 | - | 7,771 | 28,819 |
-| 2024-01-12 | 4.71 | - | 7,771 | 28,822 |
+| 2024-01-12 | 4.71 | - | 7,775 | 28,826 |

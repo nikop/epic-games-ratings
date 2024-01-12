@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Remains of Fleed | 55.00% | ~44 |
-| Life of Pi | 55.00% | ~44 |
-| The Legend | 55.00% | ~44 |
-| Strength in Defeat | 49.00% | ~39 |
-| Escape from Fleed | 43.00% | ~34 |
+| The Remains of Fleed | 56.00% | ~45 |
+| Life of Pi | 56.00% | ~45 |
+| The Legend | 56.00% | ~45 |
+| Strength in Defeat | 48.00% | ~39 |
+| Escape from Fleed | 42.00% | ~34 |
 | First Contact | 40.00% | ~32 |
-| The Exterminator | 24.00% | ~19 |
+| The Exterminator | 23.00% | ~19 |
 | Technology first! | 19.00% | ~15 |
 | Earth's Savior | 19.00% | ~15 |
 | The Keeper of Fleed | 10.00% | ~8 |
 | The Collector | 10.00% | ~8 |
-| The Broken Guard | 8.00% | ~6 |
+| The Broken Guard | 7.00% | ~6 |
 | Gold Seeker | 6.00% | ~5 |
 | A Good Paint Job | 6.00% | ~5 |
 | The Planner | 6.00% | ~5 |
@@ -26,7 +26,7 @@
 | Iron Fist | 4.00% | ~3 |
 | The Completionist | 4.00% | ~3 |
 | The Space Hydra | 4.00% | ~3 |
-| The Royal Guard | 3.00% | ~2 |
+| The Royal Guard | 2.00% | ~2 |
 | The Power of Friendship | 1.00% | ~1 |
 | Saucer Beast Unchained | 1.00% | ~1 |
 | The Battle Axe | 1.00% | ~1 |
@@ -35,7 +35,7 @@
 | Vengeance of the Wolf | 1.00% | ~1 |
 | The Fire Cannons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80 (Ranked 518)  
+Progressed: 81 (Ranked 517)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,4 +69,4 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 74 | 0 |
 | 2024-01-10 | 78 | 0 |
 | 2024-01-11 | 79 | 0 |
-| 2024-01-12 | 80 | 0 |
+| 2024-01-12 | 81 | 0 |

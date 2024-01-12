@@ -26,8 +26,8 @@ Number of Ratings: 124  (23.09.2022)
 | Alb | 11.00% | ~26 |
 | Berserker | 11.00% | ~26 |
 | Perfectionist | 9.00% | ~21 |
+| Lover | 9.00% | ~21 |
 | Hunter | 8.00% | ~19 |
-| Lover | 8.00% | ~19 |
 | Beam Me Up | 7.00% | ~17 |
 | Hotshot | 7.00% | ~17 |
 | Treasure Hunter | 6.00% | ~14 |

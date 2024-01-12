@@ -8143,9 +8143,9 @@
       "Count": 3822
     }
   ],
-  "EOS_Progressed": 150831,
+  "EOS_Progressed": 150837,
   "EOS_Completed": 349,
-  "EOS_NewPlayers": 1228,
+  "EOS_NewPlayers": 1226,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36403,6 +36403,11 @@
       "Time": "2024-01-12T13:14:41.0307758+00:00",
       "NumProgressed": 150831,
       "NumCompleted": 349
+    },
+    {
+      "Time": "2024-01-12T14:09:10.9199221+00:00",
+      "NumProgressed": 150837,
+      "NumCompleted": 349
     }
   ],
   "TotalAchievements": 112,
@@ -36582,7 +36587,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16591
+      "UsersEstimate": 16592
     },
     {
       "ID": "chest02",
@@ -36646,7 +36651,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15083
+      "UsersEstimate": 15084
     },
     {
       "ID": "commonres02",
@@ -36678,7 +36683,7 @@
       "Name": "Disintermediation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12066
+      "UsersEstimate": 12067
     },
     {
       "ID": "craft02",
@@ -36790,7 +36795,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10558
+      "UsersEstimate": 10559
     },
     {
       "ID": "expansion02",
@@ -36950,7 +36955,7 @@
       "Name": "Capitalist Camaraderie",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "hemma_a",
@@ -37102,7 +37107,7 @@
       "Name": "The Greatest Grind",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "masterpiece",
@@ -37174,7 +37179,7 @@
       "Name": "Marvels from the World Over",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "rudo_a",
@@ -37190,7 +37195,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10558
+      "UsersEstimate": 10559
     },
     {
       "ID": "sell02",
@@ -37230,7 +37235,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16591
+      "UsersEstimate": 16592
     },
     {
       "ID": "twinenchant01",
@@ -37309,15 +37314,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 150831,
+      "Progressed": 150837,
       "Completed": 349
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-12T02:28:20.4391597+00:00",
-  "LastChanged_Achievements": "2024-01-12T13:14:41.0307755+00:00",
+  "LastChanged_Achievements": "2024-01-12T14:09:10.9199218+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.0260329+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:09:11.1458849+00:00",
-  "LastUpdate_Achievements": "2024-01-12T13:14:41.0309905+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:03:31.7114432+00:00",
+  "LastUpdate_Achievements": "2024-01-12T14:09:10.9202097+00:00"
 }

@@ -11,6 +11,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 3.00% | ~495 |
 | Play a Single Player Game | 3.00% | ~495 |
 | Able | 2.00% | ~330 |
+| Ambitious | 2.00% | ~330 |
 | Architect | 2.00% | ~330 |
 | Enlightened | 2.00% | ~330 |
 | Glorious | 2.00% | ~330 |
@@ -32,7 +33,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 2.00% | ~330 |
 | Trade Caravan | 2.00% | ~330 |
 | Regicide | 1.00% | ~165 |
-| Ambitious | 1.00% | ~165 |
 | Drillmaster | 1.00% | ~165 |
 | Brilliant | 1.00% | ~165 |
 | Fountainhead | 1.00% | ~165 |
@@ -72,23 +72,24 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 0.80% | ~132 |
 | Good Difficulty | 0.70% | ~115 |
 | Champions | 0.70% | ~115 |
+| Statesmen | 0.70% | ~115 |
 | Learn to Play 3 | 0.70% | ~115 |
 | Persian Paganism | 0.70% | ~115 |
+| Points Victory | 0.70% | ~115 |
 | Beloved | 0.60% | ~99 |
 | Mighty | 0.60% | ~99 |
 | Victorious | 0.60% | ~99 |
 | Landowners | 0.60% | ~99 |
 | Patrons | 0.60% | ~99 |
-| Statesmen | 0.60% | ~99 |
 | Hagia Sophia | 0.60% | ~99 |
 | Temple of Solomon | 0.60% | ~99 |
 | Greece | 0.60% | ~99 |
 | Power to the People | 0.60% | ~99 |
 | Economic Reform | 0.60% | ~99 |
 | Legionary | 0.60% | ~99 |
-| Points Victory | 0.60% | ~99 |
 | Win a Single Player Game | 0.60% | ~99 |
 | Bad Heir Day | 0.50% | ~82 |
+| Capable | 0.50% | ~82 |
 | Conqueror | 0.50% | ~82 |
 | Ready | 0.50% | ~82 |
 | Subjugator | 0.50% | ~82 |
@@ -98,6 +99,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.50% | ~82 |
 | Pantheon | 0.50% | ~82 |
 | Via Recta Souk | 0.50% | ~82 |
+| Industrial Progress | 0.50% | ~82 |
 | Military Prestige | 0.50% | ~82 |
 | Dualism | 0.50% | ~82 |
 | Legalism | 0.50% | ~82 |
@@ -105,7 +107,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.50% | ~82 |
 | The Clergy | 0.50% | ~82 |
 | Kushite Paganism | 0.50% | ~82 |
-| Capable | 0.40% | ~66 |
 | Devout | 0.40% | ~66 |
 | Invincible | 0.40% | ~66 |
 | Lion | 0.40% | ~66 |
@@ -119,7 +120,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.40% | ~66 |
 | Rome | 0.40% | ~66 |
 | Assyrian Paganism | 0.40% | ~66 |
-| Industrial Progress | 0.40% | ~66 |
 | Enlightenment | 0.40% | ~66 |
 | Gnosticism | 0.40% | ~66 |
 | Redemption | 0.40% | ~66 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,496 (Ranked 170)  
+Progressed: 16,499 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -632,7 +632,7 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
-| 2024-01-12 | 16,496 | 5 |
+| 2024-01-12 | 16,499 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,921 (Ranked 224)  

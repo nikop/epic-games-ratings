@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -4166,9 +4166,9 @@
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
       "SetID": "6kcl14p",
       "Name": "Das Ist Endg\u00FCltig!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 122
+      "UsersEstimate": 131
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -4191,8 +4191,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2024-01-12T11:00:14.7563806+00:00",
-  "LastChanged_Achievements": "2024-01-12T13:11:58.7495871+00:00",
+  "LastChanged_Achievements": "2024-01-12T14:06:21.3176491+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:07.6580361+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:05:52.468548+00:00",
-  "LastUpdate_Achievements": "2024-01-12T13:11:58.7496203+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:00:25.0070614+00:00",
+  "LastUpdate_Achievements": "2024-01-12T14:06:21.3176739+00:00"
 }

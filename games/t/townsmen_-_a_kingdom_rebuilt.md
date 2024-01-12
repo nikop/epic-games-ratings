@@ -11,8 +11,8 @@ Number of Ratings: 37  (23.09.2022)
 | A new beginning | 13.00% | ~579 |
 | Friends from the past | 11.00% | ~490 |
 | I like to build stuff... I | 10.00% | ~445 |
+| Builder I | 9.00% | ~401 |
 | A time consuming game I | 9.00% | ~401 |
-| Builder I | 8.00% | ~356 |
 | An honorable Governor I | 8.00% | ~356 |
 | Full-time job I | 8.00% | ~356 |
 | Researcher | 8.00% | ~356 |

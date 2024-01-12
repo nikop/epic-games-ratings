@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 740,
+  "EOS_Progressed": 741,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2364,6 +2364,11 @@
       "Time": "2024-01-11T22:10:40.9286517+00:00",
       "NumProgressed": 740,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T14:10:20.0213579+00:00",
+      "NumProgressed": 741,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -2494,9 +2499,9 @@
       "ID": "TIME_PERFECT_GUEST",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Guest",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 178
+      "UsersEstimate": 185
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -2504,7 +2509,7 @@
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "TKO2_DOMINO",
@@ -2535,14 +2540,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 740,
+      "Progressed": 741,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-12T13:15:50.7275657+00:00",
+  "LastChanged_Achievements": "2024-01-12T14:10:20.0213575+00:00",
   "LastUpdate_AppInfo": "2024-01-06T02:18:00.4383159+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:05:35.3058488+00:00",
-  "LastUpdate_Achievements": "2024-01-12T13:15:50.7275921+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:00:08.1373643+00:00",
+  "LastUpdate_Achievements": "2024-01-12T14:10:20.0213812+00:00"
 }

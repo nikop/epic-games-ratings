@@ -1,22 +1,22 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 265)  
+Rating: 4.68 (Ranked 264)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 14.00% | ~1,037 |
-| Lost and Found | 8.00% | ~592 |
+| Lost and Found | 8.00% | ~593 |
 | Autodidact | 7.00% | ~9,278 |
-| This guy... again? | 7.00% | ~518 |
+| This guy... again? | 7.00% | ~519 |
 | Serenity Now! | 6.00% | ~7,952 |
 | This Belongs in a Museum | 6.00% | ~7,952 |
 | Creep and Sleep | 6.00% | ~7,952 |
 | Overdue Notice | 6.00% | ~7,952 |
 | Escape from the Black Hole | 6.00% | ~7,952 |
-| Ploughshares to Swords | 6.00% | ~444 |
-| Bloody Graduation | 6.00% | ~444 |
+| Ploughshares to Swords | 6.00% | ~445 |
+| Bloody Graduation | 6.00% | ~445 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,627 |
 | It Rings a Bell | 5.00% | ~6,627 |
 | Not Today! | 5.00% | ~6,627 |
@@ -27,13 +27,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 5.00% | ~6,627 |
 | A Place to Lay Your Head | 5.00% | ~6,627 |
 | FNG | 5.00% | ~6,627 |
-| Spelunker | 4.00% | ~5,301 |
-| Merry Time | 4.00% | ~5,301 |
-| Harvest Festival | 4.00% | ~5,301 |
-| Ramble On | 4.00% | ~5,301 |
-| Whale | 4.00% | ~5,301 |
-| Nope | 4.00% | ~5,301 |
-| Unshackled | 4.00% | ~5,301 |
+| Spelunker | 4.00% | ~5,302 |
+| Merry Time | 4.00% | ~5,302 |
+| Harvest Festival | 4.00% | ~5,302 |
+| Ramble On | 4.00% | ~5,302 |
+| Whale | 4.00% | ~5,302 |
+| Nope | 4.00% | ~5,302 |
+| Unshackled | 4.00% | ~5,302 |
 | Friends 'Til the End | 4.00% | ~296 |
 | Resurrection | 3.00% | ~3,976 |
 | Unleash Hell | 3.00% | ~3,976 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,537 (Ranked 91)  
+Progressed: 132,540 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,14 +343,14 @@ Completed: 4 (0.00%) (Ranked 399)
 | 2024-01-09 | 132,315 | 3 |
 | 2024-01-10 | 132,395 | 4 |
 | 2024-01-11 | 132,491 | 4 |
-| 2024-01-12 | 132,537 | 4 |
+| 2024-01-12 | 132,540 | 4 |
 ## Awards
-Max (Character Customization): 8,002  (Ranked 51)  
-Sum: 21,600 (Ranked 58)  
+Max (Character Customization): 8,007  (Ranked 51)  
+Sum: 21,605 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 8,002 |
+| This game has Inclusive Character Customization | 8,007 |
 | This game has Diverse Characters | 1,846 |
 | This game has Challenging Combat | 1,676 |
 | This game is Highly Recommended | 1,603 |
@@ -714,4 +714,4 @@ Diff (max vs sum): -7
 | 2024-01-09 | 4.68 | - | 7,992 | 21,561 |
 | 2024-01-10 | 4.68 | - | 8,000 | 21,576 |
 | 2024-01-11 | 4.68 | - | 8,002 | 21,592 |
-| 2024-01-12 | 4.68 | - | 8,002 | 21,600 |
+| 2024-01-12 | 4.68 | - | 8,007 | 21,605 |

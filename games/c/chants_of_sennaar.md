@@ -5,8 +5,8 @@ Rating: 4.85 (Ranked 40)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 60.00% | ~1,625 |
-| Welcome to the Tower | 54.00% | ~1,463 |
+| That's the spirit | 61.00% | ~1,652 |
+| Welcome to the Tower | 55.00% | ~1,490 |
 | The great escape | 46.00% | ~1,246 |
 | The Preacher's fate | 44.00% | ~1,192 |
 | A new dawn | 37.00% | ~1,002 |
@@ -18,10 +18,10 @@ Rating: 4.85 (Ranked 40)
 | I did it | 27.00% | ~731 |
 | Cable guy | 27.00% | ~731 |
 | Half the way | 27.00% | ~731 |
+| In this together | 26.00% | ~704 |
 | Peace walker | 26.00% | ~704 |
 | Rascal | 26.00% | ~704 |
-| In this together | 25.00% | ~677 |
-| Champollion | 25.00% | ~677 |
+| Champollion | 26.00% | ~704 |
 | Open door | 22.00% | ~596 |
 | Feels like springtime | 22.00% | ~596 |
 | Alchemists Express | 21.00% | ~569 |

@@ -5,25 +5,25 @@ Rating: 4.43 (Ranked 726)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~60,325 |
-| This is only the beginning | 20.00% | ~46,404 |
+| No aid from the Omnissiah | 26.00% | ~60,327 |
+| This is only the beginning | 20.00% | ~46,405 |
 | Knowledge is power | 13.00% | ~30,163 |
-| Galvanic Rifle | 10.00% | ~23,202 |
-| Radium Ready | 10.00% | ~23,202 |
+| Galvanic Rifle | 10.00% | ~23,203 |
+| Radium Ready | 10.00% | ~23,203 |
 | Power Ranger | 9.00% | ~20,882 |
 | Taser Goad | 9.00% | ~20,882 |
 | Half a cog | 9.00% | ~20,882 |
-| Watch them crumble | 6.00% | ~13,921 |
+| Watch them crumble | 6.00% | ~13,922 |
 | Competent Cohort | 4.00% | ~9,281 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,281 |
 | One with the Machine | 4.00% | ~9,281 |
 | Legio Cybernetica | 3.00% | ~6,961 |
 | Fleshy Disposal | 3.00% | ~6,961 |
-| Battle Servitor | 2.00% | ~4,640 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,640 |
-| Impatient destruction | 2.00% | ~4,640 |
-| Vivisected Vizier | 2.00% | ~4,640 |
-| Architect Abortion | 2.00% | ~4,640 |
+| Battle Servitor | 2.00% | ~4,641 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,641 |
+| Impatient destruction | 2.00% | ~4,641 |
+| Vivisected Vizier | 2.00% | ~4,641 |
+| Architect Abortion | 2.00% | ~4,641 |
 | Cohortus Maximus | 0.80% | ~1,856 |
 | Mother of Xenarites | 0.40% | ~928 |
 | False God | 0.30% | ~696 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 726)
 | Perma-live | 0.10% | ~232 |
 | Purge the Heretek | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,021 (Ranked 77)  
+Progressed: 232,026 (Ranked 77)  
 Completed: 5 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 5 (0.00%) (Ranked 399)
 | 2024-01-09 | 231,845 | 5 |
 | 2024-01-10 | 231,901 | 5 |
 | 2024-01-11 | 231,980 | 5 |
-| 2024-01-12 | 232,021 | 5 |
+| 2024-01-12 | 232,026 | 5 |
 ## Awards
 Max (Highly Recommended): 292  (Ranked 269)  
 Sum: 2,232 (Ranked 212)  

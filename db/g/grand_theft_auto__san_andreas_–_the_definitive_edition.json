@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2345,10 +2345,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 1043,
       "NumberOfAwardsMax": 652
+    },
+    {
+      "Time": "2024-01-12T14:03:01.5229405+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1048,
+      "NumberOfAwardsMax": 652
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1043,
+  "NumberOfAwards": 1048,
   "NumberOfAwardsMax": 652,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2362,7 +2368,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 53
+      "Count": 55
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2410,12 +2416,12 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 42
+      "Count": 45
     }
   ],
-  "EOS_Progressed": 19414,
+  "EOS_Progressed": 19415,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 1007,
+  "EOS_NewPlayers": 997,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -20093,6 +20099,11 @@
       "Time": "2024-01-12T13:15:57.6783018+00:00",
       "NumProgressed": 19414,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-12T14:10:26.9744183+00:00",
+      "NumProgressed": 19415,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 35,
@@ -20104,7 +20115,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15725
+      "UsersEstimate": 15726
     },
     {
       "ID": "ACH02",
@@ -20160,7 +20171,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9707
+      "UsersEstimate": 9708
     },
     {
       "ID": "ACH09",
@@ -20208,7 +20219,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "ACH15",
@@ -20224,7 +20235,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3300
+      "UsersEstimate": 3301
     },
     {
       "ID": "ACH17",
@@ -20383,16 +20394,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19414,
+      "Progressed": 19415,
       "Completed": 77
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-12T02:27:55.1730493+00:00",
-  "LastChanged_Achievements": "2024-01-12T13:15:57.6783016+00:00",
+  "LastChanged": "2024-01-12T14:03:01.5229403+00:00",
+  "LastChanged_Achievements": "2024-01-12T14:10:26.974418+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:08:43.6854794+00:00",
-  "LastUpdate_Achievements": "2024-01-12T13:15:57.6784122+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:03:01.5229411+00:00",
+  "LastUpdate_Achievements": "2024-01-12T14:10:26.9745058+00:00"
 }

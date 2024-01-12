@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -382,9 +382,9 @@
       "ID": "ACH_COACH_OF_THE_SEASON",
       "SetID": "1lnhagg",
       "Name": "Standing at the Top",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_EMPTY_ARENA",
@@ -597,8 +597,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-12T13:14:36.5755446+00:00",
+  "LastChanged_Achievements": "2024-01-12T14:09:06.4630154+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:05.9985691+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:03:47.0472302+00:00",
-  "LastUpdate_Achievements": "2024-01-12T13:14:36.5755669+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:58:24.3028395+00:00",
+  "LastUpdate_Achievements": "2024-01-12T14:09:06.4630352+00:00"
 }

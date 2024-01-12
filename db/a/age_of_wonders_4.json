@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -777,7 +777,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7200,
+  "EOS_Progressed": 7201,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 0,
@@ -11097,6 +11097,11 @@
       "Time": "2024-01-12T13:09:52.284037+00:00",
       "NumProgressed": 7200,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-12T14:04:14.0792555+00:00",
+      "NumProgressed": 7201,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -11170,9 +11175,9 @@
       "ID": "17",
       "SetID": "3aa2279",
       "Name": "Lord of Chaos",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 72
     },
     {
       "ID": "18",
@@ -11587,13 +11592,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7200,
+      "Progressed": 7201,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7200,
+      "Progressed": 7201,
       "Completed": 7
     }
   ],
@@ -11601,8 +11606,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-11T22:58:38.2332491+00:00",
-  "LastChanged_Achievements": "2024-01-12T13:09:52.2840367+00:00",
+  "LastChanged_Achievements": "2024-01-12T14:04:14.0792552+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:04:44.4152211+00:00",
-  "LastUpdate_Achievements": "2024-01-12T13:09:52.2841125+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:59:19.5332747+00:00",
+  "LastUpdate_Achievements": "2024-01-12T14:04:14.0793293+00:00"
 }

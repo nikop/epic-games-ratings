@@ -47,7 +47,7 @@ Rating: 4.85 (Ranked 40)
 | Hardboiled | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 697 (Ranked 329)  
-Completed: 1 (0.14%) (Ranked 297)  
+Completed: 1 (0.14%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

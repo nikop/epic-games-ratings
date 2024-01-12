@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -331,7 +331,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25123,
+  "EOS_Progressed": 25124,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
@@ -9101,6 +9101,11 @@
       "Time": "2024-01-12T10:08:58.3562016+00:00",
       "NumProgressed": 25123,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-12T14:09:10.4349225+00:00",
+      "NumProgressed": 25124,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -9432,7 +9437,7 @@
       "Name": "Fall In Love With A Parasite",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_PLAY_ALL_CHEEKS_SCENARIOS",
@@ -9463,13 +9468,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25123,
+      "Progressed": 25124,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2416,
+      "Progressed": 2417,
       "Completed": 1376
     }
   ],
@@ -9477,8 +9482,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-12T13:14:40.5640258+00:00",
+  "LastChanged_Achievements": "2024-01-12T14:09:10.4349221+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:08.9175912+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:06:13.0496253+00:00",
-  "LastUpdate_Achievements": "2024-01-12T13:14:40.5640881+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:00:44.9797796+00:00",
+  "LastUpdate_Achievements": "2024-01-12T14:09:10.4349819+00:00"
 }

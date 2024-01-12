@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -103,7 +103,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1639,
+  "EOS_Progressed": 1640,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
@@ -4293,6 +4293,11 @@
       "Time": "2024-01-12T13:15:34.1072087+00:00",
       "NumProgressed": 1639,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T14:10:04.0010317+00:00",
+      "NumProgressed": 1640,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4393,7 +4398,7 @@
       "Name": "Another giant",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "AchvKrautaAlive",
@@ -4481,7 +4486,7 @@
       "Name": "The Camp",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "AchvReachCity",
@@ -4521,7 +4526,7 @@
       "Name": "The End",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "AchvUnity",
@@ -4536,7 +4541,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1639,
+      "Progressed": 1640,
       "Completed": 1
     }
   ],
@@ -4544,8 +4549,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-11T16:59:53.3701468+00:00",
-  "LastChanged_Achievements": "2024-01-12T13:15:34.1072085+00:00",
+  "LastChanged_Achievements": "2024-01-12T14:10:04.0010313+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:04:57.7639716+00:00",
-  "LastUpdate_Achievements": "2024-01-12T13:15:34.1072491+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:59:32.0009063+00:00",
+  "LastUpdate_Achievements": "2024-01-12T14:10:04.0010775+00:00"
 }

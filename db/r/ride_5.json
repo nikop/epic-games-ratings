@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -57,9 +57,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3558,
+  "EOS_Progressed": 3559,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8737,6 +8737,11 @@
       "Time": "2024-01-12T13:11:02.5281918+00:00",
       "NumProgressed": 3558,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T14:05:26.3648927+00:00",
+      "NumProgressed": 3559,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8749,7 +8754,7 @@
       "Name": "First Love",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -8853,7 +8858,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -9045,7 +9050,7 @@
       "Name": "Eat My Dust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -9053,7 +9058,7 @@
       "Name": "Champagne Spray",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -9140,7 +9145,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3558,
+      "Progressed": 3559,
       "Completed": 0
     }
   ],
@@ -9148,8 +9153,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-11T14:58:44.7616206+00:00",
-  "LastChanged_Achievements": "2024-01-12T13:11:02.5281916+00:00",
+  "LastChanged_Achievements": "2024-01-12T14:05:26.3648922+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.6681713+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:04:58.7698006+00:00",
-  "LastUpdate_Achievements": "2024-01-12T13:11:02.5282576+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:59:32.8586665+00:00",
+  "LastUpdate_Achievements": "2024-01-12T14:05:26.3649568+00:00"
 }

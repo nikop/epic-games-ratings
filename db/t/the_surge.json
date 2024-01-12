@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5394,
+  "EOS_Progressed": 5395,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -5175,6 +5175,11 @@
       "Time": "2024-01-12T06:06:12.6839428+00:00",
       "NumProgressed": 5394,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-12T14:05:47.4037839+00:00",
+      "NumProgressed": 5395,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5234,7 +5239,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4531
+      "UsersEstimate": 4532
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5242,7 +5247,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5070
+      "UsersEstimate": 5071
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5250,7 +5255,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4099
+      "UsersEstimate": 4100
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -5354,7 +5359,7 @@
       "Name": "Right Tool for the Job",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ID_ACHIEV_23",
@@ -5402,7 +5407,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4099
+      "UsersEstimate": 4100
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5418,7 +5423,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -5450,7 +5455,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -5514,7 +5519,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -5721,15 +5726,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5394,
+      "Progressed": 5395,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-12T13:11:23.9487138+00:00",
+  "LastChanged_Achievements": "2024-01-12T14:05:47.4037835+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.5688271+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:05:33.6890754+00:00",
-  "LastUpdate_Achievements": "2024-01-12T13:11:23.9488177+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:00:06.5730366+00:00",
+  "LastUpdate_Achievements": "2024-01-12T14:05:47.4038567+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -59,7 +59,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 886,
+  "EOS_Progressed": 887,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
@@ -3299,6 +3299,11 @@
       "Time": "2024-01-12T10:09:20.3068955+00:00",
       "NumProgressed": 886,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-12T14:09:35.4562315+00:00",
+      "NumProgressed": 887,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -3311,7 +3316,7 @@
       "Name": "New arm",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -3327,7 +3332,7 @@
       "Name": "Their Rock",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -3447,7 +3452,7 @@
       "Name": "The First Bond",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -3455,7 +3460,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -3471,7 +3476,7 @@
       "Name": "First wall",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -3479,7 +3484,7 @@
       "Name": "Piggyback Expert",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -3510,7 +3515,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 886,
+      "Progressed": 887,
       "Completed": 2
     }
   ],
@@ -3518,8 +3523,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-10T15:58:31.5106151+00:00",
-  "LastChanged_Achievements": "2024-01-12T13:15:05.0912997+00:00",
+  "LastChanged_Achievements": "2024-01-12T14:09:35.456231+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.7410286+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:04:53.7392569+00:00",
-  "LastUpdate_Achievements": "2024-01-12T13:15:05.0913279+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:59:28.2204222+00:00",
+  "LastUpdate_Achievements": "2024-01-12T14:09:35.4562551+00:00"
 }

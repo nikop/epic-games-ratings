@@ -32,8 +32,8 @@ Rating: 4.22 (Ranked 954)
 | The Commonality | 5.00% | ~1,110 |
 | One Last Job | 3.00% | ~304 |
 | Mugshot | 2.00% | ~444 |
-| Big Spender | 2.00% | ~202 |
-| This Isn't About Escape | 2.00% | ~202 |
+| Big Spender | 2.00% | ~203 |
+| This Isn't About Escape | 2.00% | ~203 |
 | Armed to the Teeth | 1.00% | ~101 |
 | Grim Reaper | 1.00% | ~222 |
 | Instigator | 1.00% | ~101 |
@@ -42,7 +42,7 @@ Rating: 4.22 (Ranked 954)
 | Quick Pick | 0.80% | ~81 |
 | Subject Alpha | 0.70% | ~71 |
 | The Protocol is About Life | 0.40% | ~89 |
-| Don't Let It Mellow | 0.40% | ~40 |
+| Don't Let It Mellow | 0.40% | ~41 |
 | Hoard Mode | 0.30% | ~30 |
 | Recidivist | 0.20% | ~20 |
 | Bear Trap | 0.20% | ~20 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 954)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,199 (Ranked 151)  
+Progressed: 22,201 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 82 (0.37%) (Ranked 245)
 | 2024-01-09 | 21,902 | 82 |
 | 2024-01-10 | 22,053 | 82 |
 | 2024-01-11 | 22,169 | 82 |
-| 2024-01-12 | 22,199 | 82 |
+| 2024-01-12 | 22,201 | 82 |
 ## Awards
 Max (Amazing Characters): 131  (Ranked 345)  
 Sum: 636 (Ranked 320)  

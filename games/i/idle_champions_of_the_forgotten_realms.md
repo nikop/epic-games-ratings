@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,141 |
-| Beast Intentions | 2.00% | ~5,070 |
-| The Cursed Farmer | 2.00% | ~5,070 |
+| Beast Intentions | 2.00% | ~5,071 |
+| The Cursed Farmer | 2.00% | ~5,071 |
 | The Mad Wizard | 1.00% | ~2,535 |
 | The Ring of Regeneration | 0.90% | ~2,282 |
 | Are Ya Chicken? | 0.90% | ~2,282 |
@@ -23,6 +23,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 0.50% | ~1,268 |
 | Terror in the Dark | 0.50% | ~1,268 |
 | Unearthed Evil | 0.50% | ~1,268 |
+| The Contagious Curse | 0.50% | ~1,268 |
 | The Overgrown Grove | 0.50% | ~1,099 |
 | Flames of Avernus | 0.50% | ~1,099 |
 | Mental Gymnastics | 0.50% | ~1,099 |
@@ -31,7 +32,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.40% | ~1,014 |
 | The Crumbling Temple | 0.40% | ~1,014 |
 | Exploring Port Nyanzaru | 0.40% | ~1,014 |
-| The Contagious Curse | 0.40% | ~1,014 |
 | Escort to Waterdeep | 0.40% | ~1,014 |
 | Arcane Suppression | 0.40% | ~879 |
 | Welcome to the Vrocks | 0.40% | ~879 |
@@ -76,6 +76,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Long Haul | 0.20% | ~507 |
 | Lost in the Deep | 0.20% | ~507 |
 | Easily Distracted | 0.20% | ~507 |
+| Rude Welcome | 0.20% | ~507 |
 | Overdue Rendezvous | 0.20% | ~507 |
 | Rescue in the Jungle | 0.20% | ~507 |
 | The Beginning is the End | 0.20% | ~440 |
@@ -426,7 +427,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~220 |
 | Mirage Arcane | 0.10% | ~220 |
 | Only Human | 0.10% | ~220 |
-| Rude Welcome | 0.10% | ~254 |
 | Moose Tracks | 0.10% | ~220 |
 | An Awakened Axe | 0.10% | ~220 |
 | CONtagious Cold | 0.10% | ~220 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,523 (Ranked 70)  
+Progressed: 253,534 (Ranked 70)  
 Completed: 2,614 (1.03%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -820,7 +820,7 @@ Completed: 2,614 (1.03%) (Ranked 177)
 | 2024-01-09 | 253,044 | 2,606 |
 | 2024-01-10 | 253,250 | 2,611 |
 | 2024-01-11 | 253,420 | 2,614 |
-| 2024-01-12 | 253,523 | 2,614 |
+| 2024-01-12 | 253,534 | 2,614 |
 ## Awards
 Max (Great for Beginners): 5,770  (Ranked 74)  
 Sum: 33,459 (Ranked 41)  

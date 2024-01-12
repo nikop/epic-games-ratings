@@ -4,8 +4,8 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 305,
+  "EOS_Progressed": 306,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.3,
+  "EOS_Completed_Percentage": 2.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -786,6 +786,11 @@
       "Time": "2024-01-10T01:55:47.315679+00:00",
       "NumProgressed": 305,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-12T14:03:55.816884+00:00",
+      "NumProgressed": 306,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 15,
@@ -797,7 +802,7 @@
       "Name": "The T-Rex plain.",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "02",
@@ -843,9 +848,9 @@
       "ID": "07",
       "SetID": "6glb5g1",
       "Name": "Swimming on a dino\u0027s back.",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 27
+      "UsersEstimate": 24
     },
     {
       "ID": "08",
@@ -861,7 +866,7 @@
       "Name": "In the heart of the volcano.",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "10",
@@ -885,7 +890,7 @@
       "Name": "Dinosaur graveyard.",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "13",
@@ -907,16 +912,16 @@
       "ID": "15",
       "SetID": "6glb5g1",
       "Name": "The entrails of the beast.",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 140,
-      "UsersEstimate": 27
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 305,
+      "Progressed": 306,
       "Completed": 7
     }
   ],
@@ -924,8 +929,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2024-01-12T13:09:34.0427713+00:00",
+  "LastChanged_Achievements": "2024-01-12T14:03:55.8168835+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:14.6676617+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:04:07.3692083+00:00",
-  "LastUpdate_Achievements": "2024-01-12T13:09:34.0427848+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:58:43.3897294+00:00",
+  "LastUpdate_Achievements": "2024-01-12T14:03:55.8168992+00:00"
 }

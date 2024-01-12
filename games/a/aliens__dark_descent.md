@@ -18,14 +18,14 @@ Rating: 4.55 (Ranked 530)
 | First Steps Into Madness | 44.00% | ~2,802 |
 | Colonial Barrels | 42.00% | ~2,675 |
 | Harper's Hell | 38.00% | ~2,420 |
-| Making a Stand | 36.00% | ~2,293 |
+| Making a Stand | 37.00% | ~2,357 |
 | Damn Dude, You Gotta Lose Some Weight! | 35.00% | ~2,229 |
 | Where It All Begun | 33.00% | ~2,102 |
 | Recouped Investment | 32.00% | ~2,038 |
 | The More The Merrier | 28.00% | ~1,783 |
 | Living Nightmare | 27.00% | ~1,720 |
 | Omelette Du Fromage | 26.00% | ~1,656 |
-| The Darwin Era Was Here | 24.00% | ~1,529 |
+| The Darwin Era Was Here | 25.00% | ~1,592 |
 | Deep Into Insanity | 23.00% | ~1,465 |
 | The Passenger | 23.00% | ~1,465 |
 | Come on, You Wanna Live Forever? | 22.00% | ~1,401 |

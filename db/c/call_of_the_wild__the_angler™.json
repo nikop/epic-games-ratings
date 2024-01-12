@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8280,
+  "EOS_Progressed": 8281,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 302,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13917,6 +13917,11 @@
       "Time": "2024-01-12T12:08:35.4587143+00:00",
       "NumProgressed": 8280,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T14:08:58.3871778+00:00",
+      "NumProgressed": 8281,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13968,7 +13973,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -14247,13 +14252,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8280,
+      "Progressed": 8281,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7652,
+      "Progressed": 7653,
       "Completed": 113
     }
   ],
@@ -14261,8 +14266,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-12T13:14:28.6005547+00:00",
+  "LastChanged_Achievements": "2024-01-12T14:08:58.3871774+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:08:22.859083+00:00",
-  "LastUpdate_Achievements": "2024-01-12T13:14:28.600644+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:01:01.8419428+00:00",
+  "LastUpdate_Achievements": "2024-01-12T14:08:58.3872827+00:00"
 }
