@@ -2,13 +2,13 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 471,
+  "Ranking_Rating": 470,
   "Ranking_Popularity": 277,
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 398,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1737,9 +1737,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 247686,
+  "EOS_Progressed": 247689,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1083,
+  "EOS_NewPlayers": 1082,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25857,6 +25857,11 @@
       "Time": "2024-01-12T01:59:05.8940567+00:00",
       "NumProgressed": 247686,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-12T02:35:12.3048178+00:00",
+      "NumProgressed": 247689,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25900,7 +25905,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9907
+      "UsersEstimate": 9908
     },
     {
       "ID": "BookCollection",
@@ -25932,7 +25937,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9907
+      "UsersEstimate": 9908
     },
     {
       "ID": "Chapter4",
@@ -26316,7 +26321,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 91644
+      "UsersEstimate": 91645
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -26364,7 +26369,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27245
+      "UsersEstimate": 27246
     },
     {
       "ID": "FollowBraztok",
@@ -26564,28 +26569,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9907
+      "UsersEstimate": 9908
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 247686,
+      "Progressed": 247689,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 247686,
+      "Progressed": 247689,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-11T17:57:14.3541781+00:00",
-  "LastChanged_Achievements": "2024-01-12T01:59:05.8940563+00:00",
+  "LastChanged_Achievements": "2024-01-12T02:35:12.3048173+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8090113+00:00",
-  "LastUpdate_Ratings": "2024-01-12T01:46:28.0711814+00:00",
-  "LastUpdate_Achievements": "2024-01-12T01:59:05.8942284+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:22:29.8308866+00:00",
+  "LastUpdate_Achievements": "2024-01-12T02:35:12.3050289+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "shadow-tactics",
   "Ranking_Rating": 302,
   "Ranking_Popularity": 212,
-  "Ranking_PopularitySum": 150,
+  "Ranking_PopularitySum": 151,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 90,
@@ -2518,9 +2518,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 225413,
+  "EOS_Progressed": 225416,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 1364,
+  "EOS_NewPlayers": 1360,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -33208,6 +33208,11 @@
       "Time": "2024-01-12T01:53:40.8010419+00:00",
       "NumProgressed": 225413,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2024-01-12T02:29:37.7976877+00:00",
+      "NumProgressed": 225416,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 44,
@@ -33219,7 +33224,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 24795
+      "UsersEstimate": 24796
     },
     {
       "ID": "AtheistOx",
@@ -33507,7 +33512,7 @@
       "Name": "Thorough",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24795
+      "UsersEstimate": 24796
     },
     {
       "ID": "TimeParadox",
@@ -33570,15 +33575,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 225413,
+      "Progressed": 225416,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-10T11:57:40.3911972+00:00",
-  "LastChanged_Achievements": "2024-01-12T01:53:40.8010414+00:00",
+  "LastChanged_Achievements": "2024-01-12T02:29:37.7976871+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:34.88387+00:00",
-  "LastUpdate_Ratings": "2024-01-12T01:47:18.9802849+00:00",
-  "LastUpdate_Achievements": "2024-01-12T01:53:40.8012598+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:23:20.192756+00:00",
+  "LastUpdate_Achievements": "2024-01-12T02:29:37.7978654+00:00"
 }

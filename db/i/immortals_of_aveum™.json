@@ -447,9 +447,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3342,
+  "EOS_Progressed": 3343,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 632,
+  "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5272,6 +5272,11 @@
       "Time": "2024-01-12T00:09:45.9443713+00:00",
       "NumProgressed": 3342,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-12T02:35:01.9238609+00:00",
+      "NumProgressed": 3343,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5284,7 +5289,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2941
+      "UsersEstimate": 2942
     },
     {
       "ID": "achievement_10",
@@ -5292,7 +5297,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "achievement_11",
@@ -5338,9 +5343,9 @@
       "ID": "achievement_16",
       "SetID": "18al4io",
       "Name": "Recruit",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 434
+      "UsersEstimate": 468
     },
     {
       "ID": "achievement_17",
@@ -5372,7 +5377,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2707
+      "UsersEstimate": 2708
     },
     {
       "ID": "achievement_20",
@@ -5428,7 +5433,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 2306
+      "UsersEstimate": 2307
     },
     {
       "ID": "achievement_36",
@@ -5516,7 +5521,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2473
+      "UsersEstimate": 2474
     },
     {
       "ID": "achievement_49",
@@ -5532,7 +5537,7 @@
       "Name": "Initiate",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "achievement_50",
@@ -5659,7 +5664,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3342,
+      "Progressed": 3343,
       "Completed": 4
     }
   ],
@@ -5667,8 +5672,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-11T22:00:16.9634248+00:00",
-  "LastChanged_Achievements": "2024-01-12T01:58:55.531241+00:00",
+  "LastChanged_Achievements": "2024-01-12T02:35:01.9238606+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8440656+00:00",
-  "LastUpdate_Ratings": "2024-01-12T01:48:16.0237565+00:00",
-  "LastUpdate_Achievements": "2024-01-12T01:58:55.5312898+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:24:19.9828171+00:00",
+  "LastUpdate_Achievements": "2024-01-12T02:35:01.9239117+00:00"
 }

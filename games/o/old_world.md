@@ -9,26 +9,26 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 3.00% | ~494 |
 | Settler | 3.00% | ~494 |
 | Play a Single Player Game | 3.00% | ~494 |
-| Able | 2.00% | ~329 |
-| Architect | 2.00% | ~329 |
-| Glorious | 2.00% | ~329 |
-| Good | 2.00% | ~329 |
-| Intrepid | 2.00% | ~329 |
-| Just | 2.00% | ~329 |
-| Keystone | 2.00% | ~329 |
-| Learned | 2.00% | ~329 |
-| Mason | 2.00% | ~329 |
-| Noble | 2.00% | ~329 |
-| Pioneer | 2.00% | ~329 |
-| Strong | 2.00% | ~329 |
-| Friendly Family | 2.00% | ~329 |
-| Hanging Gardens | 2.00% | ~329 |
-| Oracle | 2.00% | ~329 |
-| Pyramids | 2.00% | ~329 |
-| Judaism | 2.00% | ~329 |
-| Greek Paganism | 2.00% | ~329 |
-| Naming Landmarks | 2.00% | ~329 |
-| Trade Caravan | 2.00% | ~329 |
+| Able | 2.00% | ~330 |
+| Architect | 2.00% | ~330 |
+| Glorious | 2.00% | ~330 |
+| Good | 2.00% | ~330 |
+| Intrepid | 2.00% | ~330 |
+| Just | 2.00% | ~330 |
+| Keystone | 2.00% | ~330 |
+| Learned | 2.00% | ~330 |
+| Mason | 2.00% | ~330 |
+| Noble | 2.00% | ~330 |
+| Pioneer | 2.00% | ~330 |
+| Strong | 2.00% | ~330 |
+| Friendly Family | 2.00% | ~330 |
+| Hanging Gardens | 2.00% | ~330 |
+| Oracle | 2.00% | ~330 |
+| Pyramids | 2.00% | ~330 |
+| Judaism | 2.00% | ~330 |
+| Greek Paganism | 2.00% | ~330 |
+| Naming Landmarks | 2.00% | ~330 |
+| Trade Caravan | 2.00% | ~330 |
 | Regicide | 1.00% | ~165 |
 | Ambitious | 1.00% | ~165 |
 | Brilliant | 1.00% | ~165 |
@@ -42,6 +42,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 1.00% | ~165 |
 | Able Difficulty | 1.00% | ~165 |
 | Furious Family | 1.00% | ~165 |
+| Acropolis | 1.00% | ~165 |
 | Apadana | 1.00% | ~165 |
 | Great Ziggurat | 1.00% | ~165 |
 | Ishtar Gate | 1.00% | ~165 |
@@ -58,19 +59,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 1.00% | ~165 |
 | Drillmaster | 0.90% | ~148 |
 | Legendary Cities | 0.90% | ~148 |
-| Acropolis | 0.90% | ~148 |
 | Mausoleum | 0.90% | ~148 |
 | Musaeum | 0.90% | ~148 |
 | Hanging Gardens in Babylon | 0.80% | ~132 |
 | Valiant | 0.80% | ~132 |
 | Just Difficulty | 0.80% | ~132 |
 | Artisans | 0.80% | ~132 |
+| Sages | 0.80% | ~132 |
 | Colossus | 0.80% | ~132 |
 | Building Wonders | 0.80% | ~132 |
 | Mythology | 0.80% | ~132 |
 | Intercessor | 0.70% | ~115 |
 | Champions | 0.70% | ~115 |
-| Sages | 0.70% | ~115 |
 | Learn to Play 3 | 0.70% | ~115 |
 | Persian Paganism | 0.70% | ~115 |
 | Beloved | 0.60% | ~99 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,474 (Ranked 170)  
+Progressed: 16,478 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -632,7 +632,7 @@ Completed: 5 (0.03%) (Ranked 356)
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
-| 2024-01-12 | 16,474 | 5 |
+| 2024-01-12 | 16,478 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,921 (Ranked 224)  

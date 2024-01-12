@@ -686,9 +686,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 66486,
+  "EOS_Progressed": 66488,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 1442,
+  "EOS_NewPlayers": 1439,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -16581,6 +16581,11 @@
       "Time": "2024-01-12T01:53:13.6018173+00:00",
       "NumProgressed": 66486,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2024-01-12T02:29:11.0162222+00:00",
+      "NumProgressed": 66488,
+      "NumCompleted": 70
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -16665,7 +16670,7 @@
       "Name": "Cow Level",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 7313
+      "UsersEstimate": 7314
     },
     {
       "ID": "DEAD_MAN",
@@ -16713,7 +16718,7 @@
       "Name": "Scientist",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7978
+      "UsersEstimate": 7979
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -16745,7 +16750,7 @@
       "Name": "Righteous",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2659
+      "UsersEstimate": 2660
     },
     {
       "ID": "GREAT_SORCERER",
@@ -16793,7 +16798,7 @@
       "Name": "Initiation",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 19281
+      "UsersEstimate": 19282
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -16825,7 +16830,7 @@
       "Name": "Musician",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2659
+      "UsersEstimate": 2660
     },
     {
       "ID": "NEW_SPIRITS",
@@ -16841,7 +16846,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7978
+      "UsersEstimate": 7979
     },
     {
       "ID": "NORMAL_END",
@@ -16849,7 +16854,7 @@
       "Name": "Koldun",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2659
+      "UsersEstimate": 2660
     },
     {
       "ID": "OLD_SPIRITS",
@@ -16992,15 +16997,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 66486,
+      "Progressed": 66488,
       "Completed": 70
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-12T01:53:13.6018169+00:00",
+  "LastChanged_Achievements": "2024-01-12T02:29:11.0162212+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:33.7261793+00:00",
-  "LastUpdate_Ratings": "2024-01-12T01:47:16.9958802+00:00",
-  "LastUpdate_Achievements": "2024-01-12T01:53:13.6019412+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:23:18.1790702+00:00",
+  "LastUpdate_Achievements": "2024-01-12T02:29:11.0163186+00:00"
 }

@@ -6,15 +6,15 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~19,281 |
+| Initiation | 29.00% | ~19,282 |
 | Student | 22.00% | ~14,627 |
 | Knower | 16.00% | ~10,638 |
 | Listener | 15.00% | ~9,973 |
 | Aspen Tree | 14.00% | ~9,308 |
 | Healer | 14.00% | ~9,308 |
-| Scientist | 12.00% | ~7,978 |
-| Soldier | 12.00% | ~7,978 |
-| Cow Level | 11.00% | ~7,313 |
+| Scientist | 12.00% | ~7,979 |
+| Soldier | 12.00% | ~7,979 |
+| Cow Level | 11.00% | ~7,314 |
 | Old Friend | 10.00% | ~6,649 |
 | Herbalist | 10.00% | ~6,649 |
 | Water | 10.00% | ~6,649 |
@@ -43,9 +43,9 @@ Number of Ratings: 96  (23.09.2022)
 | Keeper of Knowledge | 6.00% | ~3,989 |
 | Susanin | 5.00% | ~3,324 |
 | Traveller | 5.00% | ~3,324 |
-| Righteous | 4.00% | ~2,659 |
-| Musician | 4.00% | ~2,659 |
-| Koldun | 4.00% | ~2,659 |
+| Righteous | 4.00% | ~2,660 |
+| Musician | 4.00% | ~2,660 |
+| Koldun | 4.00% | ~2,660 |
 | Black Sorceress | 3.00% | ~1,995 |
 | Cheater | 3.00% | ~1,995 |
 | Diplomat | 3.00% | ~1,995 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,330 |
 | Word Master | 0.20% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,486 (Ranked 117)  
+Progressed: 66,488 (Ranked 117)  
 Completed: 70 (0.11%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 70 (0.11%) (Ranked 307)
 | 2024-01-09 | 66,170 | 69 |
 | 2024-01-10 | 66,325 | 69 |
 | 2024-01-11 | 66,474 | 69 |
-| 2024-01-12 | 66,486 | 70 |
+| 2024-01-12 | 66,488 | 70 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

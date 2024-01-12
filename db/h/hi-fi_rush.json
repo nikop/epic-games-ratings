@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -261,9 +261,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 16810,
+  "EOS_Progressed": 16811,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1500,
+  "EOS_NewPlayers": 1497,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11891,6 +11891,11 @@
       "Time": "2024-01-12T01:52:39.5551325+00:00",
       "NumProgressed": 16810,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-12T02:28:37.8839997+00:00",
+      "NumProgressed": 16811,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -11902,7 +11907,7 @@
       "Name": "Start with a bang!",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 9077
+      "UsersEstimate": 9078
     },
     {
       "ID": "Ach002",
@@ -12014,7 +12019,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 5715
+      "UsersEstimate": 5716
     },
     {
       "ID": "Ach016",
@@ -12030,7 +12035,7 @@
       "Name": "I play my own way!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 4034
+      "UsersEstimate": 4035
     },
     {
       "ID": "Ach018",
@@ -12102,7 +12107,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2353
+      "UsersEstimate": 2354
     },
     {
       "ID": "Ach027",
@@ -12326,7 +12331,7 @@
       "Name": "I told you I\u0027d be fine, Peppermint!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "Ach055",
@@ -12390,7 +12395,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "Ach063",
@@ -12469,13 +12474,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 16810,
+      "Progressed": 16811,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15331,
+      "Progressed": 15332,
       "Completed": 1930
     }
   ],
@@ -12483,8 +12488,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-10T05:00:24.6881713+00:00",
-  "LastChanged_Achievements": "2024-01-12T01:52:39.5551319+00:00",
+  "LastChanged_Achievements": "2024-01-12T02:28:37.8839994+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:39.1696862+00:00",
-  "LastUpdate_Ratings": "2024-01-12T01:46:54.4496239+00:00",
-  "LastUpdate_Achievements": "2024-01-12T01:52:39.5552788+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:22:55.0753686+00:00",
+  "LastUpdate_Achievements": "2024-01-12T02:28:37.8841274+00:00"
 }

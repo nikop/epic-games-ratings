@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2016-09-20T17:00:00+00:00",
@@ -632,9 +632,9 @@
       "ID": "LEAVE",
       "SetID": "bho0i1h",
       "Name": "Leave",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "MISSING_PIECE",
@@ -737,8 +737,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2024-01-12T01:54:08.4376455+00:00",
+  "LastChanged_Achievements": "2024-01-12T02:30:05.1600036+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:23.6751454+00:00",
-  "LastUpdate_Ratings": "2024-01-12T01:46:41.5062649+00:00",
-  "LastUpdate_Achievements": "2024-01-12T01:54:08.4376845+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:22:42.517204+00:00",
+  "LastUpdate_Achievements": "2024-01-12T02:30:05.1600221+00:00"
 }

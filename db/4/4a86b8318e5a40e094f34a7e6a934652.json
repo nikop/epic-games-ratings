@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -2397,9 +2397,9 @@
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Picky Eater",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 22
     },
     {
       "ID": "NOT_FAINT_HOUSEWARMING",
@@ -2476,8 +2476,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-12T01:53:35.5851902+00:00",
+  "LastChanged_Achievements": "2024-01-12T02:29:32.5412701+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:03.3646668+00:00",
-  "LastUpdate_Ratings": "2024-01-12T01:46:15.8392354+00:00",
-  "LastUpdate_Achievements": "2024-01-12T01:53:35.5852204+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:22:17.4215041+00:00",
+  "LastUpdate_Achievements": "2024-01-12T02:29:32.5412923+00:00"
 }

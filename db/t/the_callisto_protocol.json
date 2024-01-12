@@ -2,13 +2,13 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 953,
+  "Ranking_Rating": 954,
   "Ranking_Popularity": 345,
   "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2183,9 +2183,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 22175,
+  "EOS_Progressed": 22178,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1161,
+  "EOS_NewPlayers": 1160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13543,6 +13543,11 @@
       "Time": "2024-01-12T01:58:37.4784807+00:00",
       "NumProgressed": 22175,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-12T02:34:43.5789308+00:00",
+      "NumProgressed": 22178,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13658,7 +13663,7 @@
       "Name": "Get a Grip",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 4878
+      "UsersEstimate": 4879
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -13674,7 +13679,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2439
+      "UsersEstimate": 2440
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -13682,7 +13687,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4435
+      "UsersEstimate": 4436
     },
     {
       "ID": "KILL_ROBOT",
@@ -13722,7 +13727,7 @@
       "Name": "Reforged",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4213
+      "UsersEstimate": 4214
     },
     {
       "ID": "PRINT_WEAPON",
@@ -13730,7 +13735,7 @@
       "Name": "Paper Jams",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5100
+      "UsersEstimate": 5101
     },
     {
       "ID": "SHARE_PHOTO",
@@ -13810,7 +13815,7 @@
       "Name": "Power Up",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2439
+      "UsersEstimate": 2440
     },
     {
       "ID": "DISMEMBER_100",
@@ -13929,13 +13934,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22175,
+      "Progressed": 22178,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10101,
+      "Progressed": 10104,
       "Completed": 29
     }
   ],
@@ -13943,8 +13948,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-11T23:03:11.4531837+00:00",
-  "LastChanged_Achievements": "2024-01-12T01:58:37.4784803+00:00",
+  "LastChanged_Achievements": "2024-01-12T02:34:43.5789303+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-12T01:52:26.9891697+00:00",
-  "LastUpdate_Achievements": "2024-01-12T01:58:37.4785539+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:28:23.3708753+00:00",
+  "LastUpdate_Achievements": "2024-01-12T02:34:43.5790063+00:00"
 }

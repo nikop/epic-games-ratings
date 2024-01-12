@@ -1067,9 +1067,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 649152,
+  "EOS_Progressed": 649148,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": -4182,
+  "EOS_NewPlayers": -4132,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31787,6 +31787,11 @@
       "Time": "2024-01-12T01:58:53.6180846+00:00",
       "NumProgressed": 649152,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-12T02:35:00.1018762+00:00",
+      "NumProgressed": 649148,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 52,
@@ -31806,7 +31811,7 @@
       "Name": "100 KILLS",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 214220
+      "UsersEstimate": 214219
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -31814,7 +31819,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 123339
+      "UsersEstimate": 123338
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -31822,7 +31827,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 201237
+      "UsersEstimate": 201236
     },
     {
       "ID": "BIGUPS",
@@ -31862,7 +31867,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 188254
+      "UsersEstimate": 188253
     },
     {
       "ID": "CHAPTER2",
@@ -31870,7 +31875,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 136322
+      "UsersEstimate": 136321
     },
     {
       "ID": "CHAPTER3",
@@ -31886,7 +31891,7 @@
       "Name": "FINISHED CHAPTER 4",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 97373
+      "UsersEstimate": 97372
     },
     {
       "ID": "CHAPTER5",
@@ -31894,7 +31899,7 @@
       "Name": "FINISH CHAPTER 5",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 84390
+      "UsersEstimate": 84389
     },
     {
       "ID": "CHAPTER6",
@@ -31902,7 +31907,7 @@
       "Name": "FINISH CHAPTER 6",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 71407
+      "UsersEstimate": 71406
     },
     {
       "ID": "CHURCH",
@@ -31926,7 +31931,7 @@
       "Name": "CATHARTIC ESCAPISM",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 71407
+      "UsersEstimate": 71406
     },
     {
       "ID": "FIREFIGHT10 LEVEL (0-10)",
@@ -31950,7 +31955,7 @@
       "Name": "FIREFIGHT LEVEL 30",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 6492
+      "UsersEstimate": 6491
     },
     {
       "ID": "FIREFIGHT40 LEVEL (0-40)",
@@ -32086,7 +32091,7 @@
       "Name": "OUT OF ORDER",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 6492
+      "UsersEstimate": 6491
     },
     {
       "ID": "OVERCLOCKED",
@@ -32102,7 +32107,7 @@
       "Name": "PACEMAKER",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 6492
+      "UsersEstimate": 6491
     },
     {
       "ID": "PAINTRAIN",
@@ -32118,7 +32123,7 @@
       "Name": "TIME PARADOX",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 6492
+      "UsersEstimate": 6491
     },
     {
       "ID": "PARTYHARD",
@@ -32174,7 +32179,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 194746
+      "UsersEstimate": 194744
     },
     {
       "ID": "SOUL",
@@ -32213,7 +32218,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 649152,
+      "Progressed": 649148,
       "Completed": 58
     }
   ],
@@ -32221,8 +32226,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2024-01-11T08:59:58.9453725+00:00",
-  "LastChanged_Achievements": "2024-01-12T01:58:53.6180843+00:00",
+  "LastChanged_Achievements": "2024-01-12T02:35:00.1018757+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.2792836+00:00",
-  "LastUpdate_Ratings": "2024-01-12T01:48:24.6803567+00:00",
-  "LastUpdate_Achievements": "2024-01-12T01:58:53.6182701+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:24:29.2837898+00:00",
+  "LastUpdate_Achievements": "2024-01-12T02:35:00.1020258+00:00"
 }

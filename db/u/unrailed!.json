@@ -3011,9 +3011,9 @@
       "Count": 151
     }
   ],
-  "EOS_Progressed": 679856,
+  "EOS_Progressed": 679859,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 1831,
+  "EOS_NewPlayers": 1829,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33656,6 +33656,11 @@
       "Time": "2024-01-12T01:59:02.4874506+00:00",
       "NumProgressed": 679856,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-12T02:35:09.0628456+00:00",
+      "NumProgressed": 679859,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 52,
@@ -33915,7 +33920,7 @@
       "Name": "Incurious",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 122374
+      "UsersEstimate": 122375
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -33923,7 +33928,7 @@
       "Name": "Mojave Courier",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 40791
+      "UsersEstimate": 40792
     },
     {
       "ID": "_03_02_NANUK",
@@ -34075,22 +34080,22 @@
       "Name": "Saved by Nausica\u00E4",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 40791
+      "UsersEstimate": 40792
     }
   ],
   "AchievementSets": [
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 679856,
+      "Progressed": 679859,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2024-01-11T09:03:51.792884+00:00",
-  "LastChanged_Achievements": "2024-01-12T01:59:02.4874503+00:00",
+  "LastChanged_Achievements": "2024-01-12T02:35:09.0628453+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:57.3345847+00:00",
-  "LastUpdate_Ratings": "2024-01-12T01:51:57.8360867+00:00",
-  "LastUpdate_Achievements": "2024-01-12T01:59:02.4876102+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:27:55.8572091+00:00",
+  "LastUpdate_Achievements": "2024-01-12T02:35:09.062998+00:00"
 }

@@ -9,8 +9,8 @@ Number of Ratings: 90  (23.09.2022)
 | Rock of the Bay | 84.00% | ~346 |
 | Mash Machine | 75.00% | ~309 |
 | Ducks in a Row, Fish in a Barrel | 56.00% | ~231 |
-| Furon Fashion | 47.00% | ~194 |
-| Shop Til They Drop | 40.00% | ~165 |
+| Furon Fashion | 48.00% | ~198 |
+| Shop Til They Drop | 41.00% | ~169 |
 | Bodied Sattva | 38.00% | ~157 |
 | Cult Following | 35.00% | ~144 |
 | Earthly Pleasures | 35.00% | ~144 |

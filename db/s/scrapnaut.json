@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -2374,9 +2374,9 @@
       "ID": "ACH_COLLECT_20_YELLOW_BOOKS",
       "SetID": "7c4cldc",
       "Name": "Blacksmith",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_COLLECT_30_BLUE_BOOKS",
@@ -2567,8 +2567,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-12T01:58:21.6423763+00:00",
+  "LastChanged_Achievements": "2024-01-12T02:34:28.0493852+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2095998+00:00",
-  "LastUpdate_Ratings": "2024-01-12T01:47:23.5169431+00:00",
-  "LastUpdate_Achievements": "2024-01-12T01:58:21.6424089+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:23:24.7240384+00:00",
+  "LastUpdate_Achievements": "2024-01-12T02:34:28.0494166+00:00"
 }

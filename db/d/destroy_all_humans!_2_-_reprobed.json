@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -1918,9 +1918,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -2222,9 +2222,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2247,8 +2247,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-12T01:58:17.0850285+00:00",
+  "LastChanged_Achievements": "2024-01-12T02:34:23.6179405+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-12T01:48:08.6702848+00:00",
-  "LastUpdate_Achievements": "2024-01-12T01:58:17.0850717+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:24:10.953874+00:00",
+  "LastUpdate_Achievements": "2024-01-12T02:34:23.6179948+00:00"
 }

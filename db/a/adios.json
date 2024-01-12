@@ -141,7 +141,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83305,
+  "EOS_Progressed": 83307,
   "EOS_Completed": 929,
   "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 13,
@@ -29886,6 +29886,11 @@
       "Time": "2024-01-12T01:53:38.0045469+00:00",
       "NumProgressed": 83305,
       "NumCompleted": 929
+    },
+    {
+      "Time": "2024-01-12T02:29:35.1083758+00:00",
+      "NumProgressed": 83307,
+      "NumCompleted": 929
     }
   ],
   "TotalAchievements": 25,
@@ -29929,7 +29934,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18327
+      "UsersEstimate": 18328
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -29985,7 +29990,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7497
+      "UsersEstimate": 7498
     },
     {
       "ID": "Magnetic Miracles",
@@ -30089,14 +30094,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6664
+      "UsersEstimate": 6665
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83305,
+      "Progressed": 83307,
       "Completed": 929
     }
   ],
@@ -30104,8 +30109,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-12T01:53:38.0045467+00:00",
+  "LastChanged_Achievements": "2024-01-12T02:29:35.1083754+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.3609745+00:00",
-  "LastUpdate_Ratings": "2024-01-12T01:49:08.0107943+00:00",
-  "LastUpdate_Achievements": "2024-01-12T01:53:38.0046944+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:25:13.3587788+00:00",
+  "LastUpdate_Achievements": "2024-01-12T02:29:35.1085143+00:00"
 }

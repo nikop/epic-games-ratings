@@ -307,9 +307,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 18399,
+  "EOS_Progressed": 18401,
   "EOS_Completed": 316,
-  "EOS_NewPlayers": 836,
+  "EOS_NewPlayers": 834,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
@@ -9622,6 +9622,11 @@
       "Time": "2024-01-12T01:58:35.6781279+00:00",
       "NumProgressed": 18399,
       "NumCompleted": 316
+    },
+    {
+      "Time": "2024-01-12T02:34:41.8561009+00:00",
+      "NumProgressed": 18401,
+      "NumCompleted": 316
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -9634,7 +9639,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 16191
+      "UsersEstimate": 16193
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -9642,7 +9647,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 14903
+      "UsersEstimate": 14905
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -9730,7 +9735,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 11959
+      "UsersEstimate": 11961
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -9818,7 +9823,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 10671
+      "UsersEstimate": 10673
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -9842,7 +9847,7 @@
       "Name": "What I Want Is You",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 9751
+      "UsersEstimate": 9753
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -9920,9 +9925,9 @@
       "ID": "NEW_ACHIEVEMENT_2_4",
       "SetID": "7opfcp",
       "Name": "That\u0027s So You",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4048
+      "UsersEstimate": 3864
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_5",
@@ -9969,7 +9974,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 18399,
+      "Progressed": 18401,
       "Completed": 316
     }
   ],
@@ -9977,8 +9982,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-10T01:46:44.8636325+00:00",
-  "LastChanged_Achievements": "2024-01-12T01:58:35.6781277+00:00",
+  "LastChanged_Achievements": "2024-01-12T02:34:41.8561007+00:00",
   "LastUpdate_AppInfo": "2024-01-06T03:57:10.1244373+00:00",
-  "LastUpdate_Ratings": "2024-01-12T01:47:46.4094328+00:00",
-  "LastUpdate_Achievements": "2024-01-12T01:58:35.6781884+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:23:47.3169242+00:00",
+  "LastUpdate_Achievements": "2024-01-12T02:34:41.8561616+00:00"
 }

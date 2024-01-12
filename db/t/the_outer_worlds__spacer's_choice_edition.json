@@ -3,12 +3,12 @@
   "Name": "The Outer Worlds: Spacer\u0027s Choice Edition",
   "ProductSlug": "the-outer-worlds-spacers-choice-edition",
   "Ranking_Rating": 617,
-  "Ranking_Popularity": 91,
-  "Ranking_PopularitySum": 152,
+  "Ranking_Popularity": 90,
+  "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 398,
   "Ranking_EOS_NewPlayers": 582,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-07T16:00:00+00:00",
     "PcReleaseDate": "2023-03-07T16:00:00+00:00",
@@ -1257,18 +1257,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 4923,
       "NumberOfAwardsMax": 4010
+    },
+    {
+      "Time": "2024-01-12T02:25:01.5292399+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 5069,
+      "NumberOfAwardsMax": 4156
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4923,
-  "NumberOfAwardsMax": 4010,
+  "NumberOfAwards": 5069,
+  "NumberOfAwardsMax": 4156,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 4010
+      "Count": 4156
     },
     {
       "Text": "This game is Relaxing",
@@ -1345,9 +1351,9 @@
   "FirstSeen": "2023-03-07T20:56:52.9843527+00:00",
   "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00",
-  "LastChanged": "2024-01-12T01:48:56.8632786+00:00",
-  "LastChanged_Achievements": "2024-01-12T01:53:52.3035374+00:00",
+  "LastChanged": "2024-01-12T02:25:01.5292398+00:00",
+  "LastChanged_Achievements": "2024-01-12T02:29:48.967155+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:40.3845685+00:00",
-  "LastUpdate_Ratings": "2024-01-12T01:48:56.8632791+00:00",
-  "LastUpdate_Achievements": "2024-01-12T01:53:52.3035401+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:25:01.5292403+00:00",
+  "LastUpdate_Achievements": "2024-01-12T02:29:48.967158+00:00"
 }

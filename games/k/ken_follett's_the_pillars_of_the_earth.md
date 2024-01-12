@@ -6,7 +6,7 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 39.00% | ~6,940 |
+| Tattletale | 39.00% | ~6,941 |
 | Man of politics | 34.00% | ~6,051 |
 | Yet another secret | 33.00% | ~5,873 |
 | Friends of sorts | 32.00% | ~5,695 |
@@ -20,10 +20,10 @@ Number of Ratings: 368  (23.09.2022)
 | Negotiation skills | 18.00% | ~3,203 |
 | Workers' union | 18.00% | ~3,203 |
 | End of Book Two | 18.00% | ~3,203 |
-| Everything's in order | 16.00% | ~2,847 |
-| Twist of Fate | 14.00% | ~2,491 |
-| Jack was here! | 14.00% | ~2,491 |
-| Exterminator | 13.00% | ~2,313 |
+| Everything's in order | 16.00% | ~2,848 |
+| Twist of Fate | 14.00% | ~2,492 |
+| Jack was here! | 14.00% | ~2,492 |
+| Exterminator | 13.00% | ~2,314 |
 | Whodunnit | 12.00% | ~2,136 |
 | Good midwife | 10.00% | ~1,780 |
 | Friar Tuck | 10.00% | ~1,780 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~534 |
 | Boy of mystery | 2.00% | ~356 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,796 (Ranked 165)  
+Progressed: 17,797 (Ranked 165)  
 Completed: 125 (0.70%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 125 (0.70%) (Ranked 200)
 | 2024-01-09 | 17,744 | 125 |
 | 2024-01-10 | 17,768 | 125 |
 | 2024-01-11 | 17,794 | 125 |
-| 2024-01-12 | 17,796 | 125 |
+| 2024-01-12 | 17,797 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 327)  
 Sum: 200 (Ranked 418)  

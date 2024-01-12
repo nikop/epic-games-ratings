@@ -16,8 +16,8 @@ Rating: 4.14 (Ranked 1,009)
 | Geared Up | 23.00% | ~517 |
 | Fashion Victim | 22.00% | ~495 |
 | Scholar | 22.00% | ~495 |
+| Stone Collection | 21.00% | ~472 |
 | Tributes of Caladrias | 20.00% | ~450 |
-| Stone Collection | 20.00% | ~450 |
 | Powerful Allies | 19.00% | ~427 |
 | Essence Blow | 13.00% | ~292 |
 | Big Bazar | 13.00% | ~292 |

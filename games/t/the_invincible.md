@@ -22,8 +22,8 @@ Rating: 4.53 (Ranked 566)
 | Evacuation | 20.00% | ~327 |
 | Beyond divisions | 18.00% | ~294 |
 | Flying Objects Operator | 17.00% | ~278 |
+| Another giant | 14.00% | ~229 |
 | I remember everything! | 13.00% | ~213 |
-| Another giant | 13.00% | ~213 |
 | Violent solution | 10.00% | ~164 |
 | I leave no man behind | 9.00% | ~147 |
 | Innate curiosity | 7.00% | ~114 |

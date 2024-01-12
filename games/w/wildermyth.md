@@ -6,8 +6,8 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Cost of Heroism | 9.00% | ~144 |
 | Me and My Familiar | 8.00% | ~128 |
-| The Cost of Heroism | 8.00% | ~128 |
 | This Too Shall Pass | 7.00% | ~112 |
 | Passing Shadow | 6.00% | ~96 |
 | How Romantic! | 6.00% | ~96 |

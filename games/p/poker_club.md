@@ -5,29 +5,29 @@ Rating: 3.84 (Ranked 1,082)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~418,635 |
-| Handy | 42.00% | ~231,351 |
-| Cold Caller | 40.00% | ~220,334 |
-| A Bit On The Side | 27.00% | ~148,725 |
-| Backdoor | 26.00% | ~143,217 |
-| Rank Amateur | 22.00% | ~121,184 |
-| Three Way | 19.00% | ~104,659 |
-| Deadly Assassin | 16.00% | ~88,134 |
-| Gutshot | 14.00% | ~77,117 |
-| Risk It For A Biscuit | 14.00% | ~77,117 |
+| Pro Creation | 76.00% | ~418,640 |
+| Handy | 42.00% | ~231,354 |
+| Cold Caller | 40.00% | ~220,337 |
+| A Bit On The Side | 27.00% | ~148,727 |
+| Backdoor | 26.00% | ~143,219 |
+| Rank Amateur | 22.00% | ~121,185 |
+| Three Way | 19.00% | ~104,660 |
+| Deadly Assassin | 16.00% | ~88,135 |
+| Gutshot | 14.00% | ~77,118 |
+| Risk It For A Biscuit | 14.00% | ~77,118 |
 | Showoff | 13.00% | ~71,609 |
-| W.H.I.P. | 12.00% | ~66,100 |
+| W.H.I.P. | 12.00% | ~66,101 |
 | Bet Bet Bet | 10.00% | ~55,084 |
-| Blindman's Bluff | 9.00% | ~49,575 |
-| Poker Joker | 9.00% | ~49,575 |
+| Blindman's Bluff | 9.00% | ~49,576 |
+| Poker Joker | 9.00% | ~49,576 |
 | Never Give Up | 8.00% | ~44,067 |
 | The Bigger They Are | 8.00% | ~44,067 |
 | Total Knock Out | 8.00% | ~44,067 |
-| Dog Eat Dog | 7.00% | ~38,558 |
-| Quack Quack | 7.00% | ~38,558 |
-| Give Your Regards To Broadway | 6.00% | ~33,050 |
-| Check Yourself | 4.00% | ~22,033 |
-| Moneymaker | 4.00% | ~22,033 |
+| Dog Eat Dog | 7.00% | ~38,559 |
+| Quack Quack | 7.00% | ~38,559 |
+| Give Your Regards To Broadway | 6.00% | ~33,051 |
+| Check Yourself | 4.00% | ~22,034 |
+| Moneymaker | 4.00% | ~22,034 |
 | In The Gang | 3.00% | ~16,525 |
 | On The Button | 3.00% | ~16,525 |
 | Before You Wreck Yourself | 2.00% | ~11,017 |
@@ -51,7 +51,7 @@ Rating: 3.84 (Ranked 1,082)
 | Rounder | 0.10% | ~551 |
 | Top Dog | 0.10% | ~551 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 550,835 (Ranked 35)  
+Progressed: 550,842 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 2 (0.00%) (Ranked 398)
 | 2024-01-09 | 550,384 | 2 |
 | 2024-01-10 | 550,625 | 2 |
 | 2024-01-11 | 550,814 | 2 |
-| 2024-01-12 | 550,835 | 2 |
+| 2024-01-12 | 550,842 | 2 |
 ## Awards
 Max (Great for Beginners): 67  (Ranked 422)  
 Sum: 210 (Ranked 412)  

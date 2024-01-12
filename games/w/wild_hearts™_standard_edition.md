@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~1,335 |
-| Hidden History | 71.00% | ~948 |
-| Commencing of Quests | 61.00% | ~814 |
+| Land of the Rising Sun | 100.00% | ~1,336 |
+| Hidden History | 71.00% | ~949 |
+| Commencing of Quests | 61.00% | ~815 |
 | Budding Conjuror | 59.00% | ~788 |
-| Charmed by the Hunt | 49.00% | ~654 |
-| Man-Machine Master | 48.00% | ~641 |
+| Man-Machine Master | 49.00% | ~655 |
+| Charmed by the Hunt | 49.00% | ~655 |
 | Mountain Splitter | 48.00% | ~641 |
 | Subsistence Skills | 48.00% | ~641 |
-| Memory Rouser | 47.00% | ~627 |
+| Memory Rouser | 47.00% | ~628 |
 | Fusion Conjuror | 45.00% | ~601 |
 | Kemono Hunter | 42.00% | ~561 |
 | Helpful Heart | 39.00% | ~521 |
 | Expert Conjuror | 39.00% | ~521 |
 | Flawless Crystal | 37.00% | ~494 |
 | Bonds of Enmity | 37.00% | ~494 |
-| Distance Devourer | 35.00% | ~467 |
+| Distance Devourer | 35.00% | ~468 |
 | Counter Specialist | 33.00% | ~441 |
 | Master of the Skies | 31.00% | ~414 |
-| Kemono at Heart | 27.00% | ~360 |
-| Axer of Auspice | 27.00% | ~360 |
+| Kemono at Heart | 27.00% | ~361 |
+| Axer of Auspice | 27.00% | ~361 |
 | Mighty Marmelizer | 26.00% | ~347 |
 | Fair Means or Foul | 26.00% | ~347 |
-| Single Minded | 24.00% | ~320 |
+| Single Minded | 24.00% | ~321 |
 | Snare Specialist | 23.00% | ~307 |
 | Karakuri Trail | 22.00% | ~294 |
 | Team Hunter | 20.00% | ~267 |
@@ -47,13 +47,13 @@
 | Tender Touch | 9.00% | ~120 |
 | Haven Hunter | 9.00% | ~120 |
 | Superlative View | 8.00% | ~107 |
-| Relentless Kemono Hunter | 7.00% | ~93 |
-| Vanquisher of the Volatile | 7.00% | ~93 |
+| Relentless Kemono Hunter | 7.00% | ~94 |
+| Vanquisher of the Volatile | 7.00% | ~94 |
 | Bewitched by Bathing | 5.00% | ~67 |
 | Big Spender | 5.00% | ~67 |
 | Tsukumo Whisperer | 3.00% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,335 (Ranked 277)  
+Progressed: 1,336 (Ranked 277)  
 Completed: 8 (0.60%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,4 +172,4 @@ Completed: 8 (0.60%) (Ranked 211)
 | 2024-01-09 | 1,281 | 8 |
 | 2024-01-10 | 1,310 | 8 |
 | 2024-01-11 | 1,334 | 8 |
-| 2024-01-12 | 1,335 | 8 |
+| 2024-01-12 | 1,336 | 8 |
