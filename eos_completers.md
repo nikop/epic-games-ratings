@@ -61,8 +61,8 @@
 | 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.03% |
 | 60 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.99% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.96% |
-| 62 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.94% |
-| 63 | [Scorn](games/s/scorn.md) | 6.93% |
+| 62 | [Scorn](games/s/scorn.md) | 6.93% |
+| 63 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.85% |
 | 64 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 6.67% |
 | 65 | [Anna's Quest](games/a/anna's_quest.md) | 6.45% |
 | 65 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.45% |
