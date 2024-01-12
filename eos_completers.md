@@ -12,7 +12,7 @@
 | 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 38.31% |
 | 11 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 32.14% |
 | 12 | [Volley Pals](games/v/volley_pals.md) | 30.43% |
-| 13 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 27.64% |
+| 13 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 27.42% |
 | 14 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 27.08% |
 | 15 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
@@ -26,7 +26,7 @@
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.52% |
 | 25 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 18.52% |
-| 27 | [The Riflemen](games/t/the_riflemen.md) | 17.01% |
+| 27 | [The Riflemen](games/t/the_riflemen.md) | 17.00% |
 | 28 | [Island Cities](games/i/island_cities.md) | 16.96% |
 | 29 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 30 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
@@ -56,7 +56,7 @@
 | 54 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.51% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.42% |
-| 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.31% |
+| 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.30% |
 | 58 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.23% |
 | 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.12% |
 | 60 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.95% |
@@ -91,10 +91,10 @@
 | 89 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 4.17% |
 | 90 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.11% |
 | 91 | [Dungeons 4](games/d/dungeons_4.md) | 4.08% |
-| 92 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 4.00% |
+| 92 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.95% |
 | 93 | [The Bunker](games/t/the_bunker.md) | 3.93% |
-| 94 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.71% |
-| 95 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.70% |
+| 94 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.70% |
+| 94 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.70% |
 | 96 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 3.66% |
 | 97 | [Doodle God](games/d/doodle_god.md) | 3.61% |
 | 98 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.57% |
@@ -128,8 +128,8 @@
 | 126 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 127 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.49% |
 | 128 | [Mega City Force](games/m/mega_city_police.md) | 2.44% |
+| 129 | [Destiny 2](games/d/destiny_2.md) | 2.43% |
 | 129 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.43% |
-| 130 | [Destiny 2](games/d/destiny_2.md) | 2.42% |
 | 131 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.33% |
 | 132 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.29% |
 | 133 | [Night Book](games/n/night_book.md) | 2.24% |
@@ -237,8 +237,8 @@
 | 235 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.45% |
 | 236 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.44% |
 | 236 | [Wildermyth](games/w/wildermyth.md) | 0.44% |
-| 238 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.43% |
 | 238 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.43% |
+| 239 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.42% |
 | 240 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.40% |
 | 240 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.40% |
 | 240 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.40% |
@@ -825,4 +825,4 @@
 | 399 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 399 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 399 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,832 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,835 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
