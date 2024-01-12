@@ -25,13 +25,13 @@
 | 23 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 19.44% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.52% |
-| 26 | [The Riflemen](games/t/the_riflemen.md) | 17.05% |
+| 26 | [The Riflemen](games/t/the_riflemen.md) | 17.04% |
 | 27 | [Island Cities](games/i/island_cities.md) | 16.96% |
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 29 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
-| 29 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 15.38% |
-| 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
-| 32 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 14.85% |
+| 30 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
+| 31 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 14.85% |
+| 32 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 14.81% |
 | 33 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 34 | [Seven Doors](games/s/seven_doors.md) | 13.79% |
 | 35 | [Remains](games/r/remains.md) | 12.70% |
@@ -58,7 +58,7 @@
 | 56 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.42% |
 | 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.26% |
 | 58 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.23% |
-| 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.03% |
+| 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.16% |
 | 60 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.99% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.96% |
 | 62 | [Scorn](games/s/scorn.md) | 6.93% |
@@ -74,7 +74,7 @@
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.78% |
 | 73 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 74 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.92% |
-| 75 | [Bugsnax](games/b/bugsnax.md) | 4.90% |
+| 75 | [Bugsnax](games/b/bugsnax.md) | 4.89% |
 | 76 | [ZZT!](games/z/zzt!.md) | 4.77% |
 | 77 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.76% |
 | 78 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.74% |
@@ -115,8 +115,8 @@
 | 113 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 113 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 115 | [Lamentum](games/l/lamentum.md) | 2.87% |
-| 116 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2.86% |
 | 116 | [Without Escape](games/w/without_escape.md) | 2.86% |
+| 117 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2.78% |
 | 118 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2.75% |
 | 119 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 2.70% |
 | 119 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.70% |
