@@ -6,7 +6,7 @@
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 117,
-  "Ranking_EOS_Completed": 307,
+  "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
@@ -686,9 +686,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 66497,
+  "EOS_Progressed": 66500,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 1445,
+  "EOS_NewPlayers": 1432,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -16596,6 +16596,11 @@
       "Time": "2024-01-12T04:04:11.3710786+00:00",
       "NumProgressed": 66497,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2024-01-12T05:04:03.2663813+00:00",
+      "NumProgressed": 66500,
+      "NumCompleted": 70
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -16720,7 +16725,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 14629
+      "UsersEstimate": 14630
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -16808,7 +16813,7 @@
       "Name": "Initiation",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 19284
+      "UsersEstimate": 19285
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -17007,15 +17012,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 66497,
+      "Progressed": 66500,
       "Completed": 70
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-12T04:04:11.3710783+00:00",
+  "LastChanged_Achievements": "2024-01-12T05:04:03.2663809+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:33.7261793+00:00",
-  "LastUpdate_Ratings": "2024-01-12T03:58:25.1671144+00:00",
-  "LastUpdate_Achievements": "2024-01-12T04:04:11.3712006+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:58:11.5532697+00:00",
+  "LastUpdate_Achievements": "2024-01-12T05:04:03.2665501+00:00"
 }

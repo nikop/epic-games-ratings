@@ -4,7 +4,7 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 268,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -1242,9 +1242,9 @@
       "ID": "TINGWD_DETECTIVE",
       "SetID": "c0imaa6",
       "Name": "Private Detective",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 241
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -1290,9 +1290,9 @@
       "ID": "TINGWD_NOSHAME",
       "SetID": "c0imaa6",
       "Name": "Have you no shame?",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 230
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -1393,8 +1393,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-12T04:05:01.7839304+00:00",
+  "LastChanged_Achievements": "2024-01-12T05:04:54.3167449+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.2042305+00:00",
-  "LastUpdate_Ratings": "2024-01-12T04:00:40.3282063+00:00",
-  "LastUpdate_Achievements": "2024-01-12T04:05:01.7839609+00:00"
+  "LastUpdate_Ratings": "2024-01-12T05:02:38.0000271+00:00",
+  "LastUpdate_Achievements": "2024-01-12T05:04:54.316779+00:00"
 }

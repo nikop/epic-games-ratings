@@ -5,9 +5,9 @@ Rating: 4.69 (Ranked 238)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 46.00% | ~601 |
-| Rail Rat | 35.00% | ~457 |
-| The Mysterious Stranger | 34.00% | ~444 |
+| Time Heals All Wounds | 46.00% | ~602 |
+| Rail Rat | 35.00% | ~458 |
+| The Mysterious Stranger | 34.00% | ~445 |
 | Immaculate Aim | 29.00% | ~379 |
 | The Brass Boss | 28.00% | ~366 |
 | Time Flies | 27.00% | ~353 |
@@ -24,9 +24,9 @@ Rating: 4.69 (Ranked 238)
 | Right On Time | 22.00% | ~288 |
 | The Betrayer | 22.00% | ~288 |
 | Golem Chaser | 22.00% | ~288 |
-| Like Clockwork | 21.00% | ~274 |
-| Check Your Pulse | 20.00% | ~261 |
-| The Loose Cannon | 19.00% | ~248 |
+| Like Clockwork | 21.00% | ~275 |
+| Check Your Pulse | 20.00% | ~262 |
+| The Loose Cannon | 19.00% | ~249 |
 | Street Style | 18.00% | ~235 |
 | The Man Who Shattered Time | 18.00% | ~235 |
 | The Family Fortune | 18.00% | ~235 |
@@ -46,7 +46,7 @@ Rating: 4.69 (Ranked 238)
 | Corin Goes Home | 8.00% | ~105 |
 | Sartorialist | 8.00% | ~105 |
 | Entresol Explorer | 8.00% | ~105 |
-| Golem Hunter | 7.00% | ~91 |
+| Golem Hunter | 7.00% | ~92 |
 | Clovemary for Remembering | 6.00% | ~78 |
 | Hexlock for Protection | 6.00% | ~78 |
 | Rungs Was Right | 5.00% | ~65 |
@@ -59,8 +59,8 @@ Rating: 4.69 (Ranked 238)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,307 (Ranked 281)  
-Completed: 8 (0.61%) (Ranked 207)  
+Progressed: 1,308 (Ranked 281)  
+Completed: 8 (0.61%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -232,7 +232,7 @@ Completed: 8 (0.61%) (Ranked 207)
 | 2024-01-09 | 1,289 | 7 |
 | 2024-01-10 | 1,300 | 7 |
 | 2024-01-11 | 1,306 | 8 |
-| 2024-01-12 | 1,307 | 8 |
+| 2024-01-12 | 1,308 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

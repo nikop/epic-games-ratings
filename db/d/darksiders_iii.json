@@ -6,7 +6,7 @@
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 345,
-  "Ranking_EOS_Completed": 245,
+  "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
@@ -488,7 +488,7 @@
   ],
   "EOS_Progressed": 558,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2449,9 +2449,9 @@
       "ID": "Kill_Sin_Lust",
       "SetID": "7a5k76n",
       "Name": "Delusions of Grandeur",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 190
     },
     {
       "ID": "Kill_Sin_Pride",
@@ -2529,9 +2529,9 @@
       "ID": "Save_Usiel_No_Kill",
       "SetID": "7a5k76n",
       "Name": "For Whom the Bell Tolls",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 162
     },
     {
       "ID": "Spend_AttributePoint_1",
@@ -2601,8 +2601,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-11T19:59:53.1108333+00:00",
-  "LastChanged_Achievements": "2024-01-12T04:05:19.9111923+00:00",
+  "LastChanged_Achievements": "2024-01-12T05:05:13.3463533+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-12T03:59:03.2791723+00:00",
-  "LastUpdate_Achievements": "2024-01-12T04:05:19.9112608+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:58:49.0304344+00:00",
+  "LastUpdate_Achievements": "2024-01-12T05:05:13.3464207+00:00"
 }

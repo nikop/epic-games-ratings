@@ -16,8 +16,8 @@ Number of Ratings: 20  (23.09.2022)
 | Spooky! | 38.00% | ~163 |
 | Treasure Hunt | 36.00% | ~154 |
 | Shennong Herbalist | 35.00% | ~150 |
+| O Captain My Captain | 32.00% | ~137 |
 | Good Mama | 32.00% | ~137 |
-| O Captain My Captain | 31.00% | ~133 |
 | Plunderer | 30.00% | ~128 |
 | Taxonomist | 27.00% | ~116 |
 | Traveller | 25.00% | ~107 |
@@ -68,7 +68,7 @@ Number of Ratings: 20  (23.09.2022)
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 428 (Ranked 367)  
-Completed: 1 (0.23%) (Ranked 271)  
+Completed: 1 (0.23%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

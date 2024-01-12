@@ -4,11 +4,11 @@
   "ProductSlug": "destroy-all-humans",
   "Ranking_Rating": 357,
   "Ranking_Popularity": 505,
-  "Ranking_PopularitySum": 534,
+  "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -307,7 +307,7 @@
   ],
   "EOS_Progressed": 454,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
@@ -2168,8 +2168,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-12T04:04:54.3386597+00:00",
+  "LastChanged_Achievements": "2024-01-12T05:04:46.480183+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:15.0942873+00:00",
-  "LastUpdate_Ratings": "2024-01-12T03:57:59.1293682+00:00",
-  "LastUpdate_Achievements": "2024-01-12T04:04:54.3386969+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:57:45.2246546+00:00",
+  "LastUpdate_Achievements": "2024-01-12T05:04:46.4802212+00:00"
 }

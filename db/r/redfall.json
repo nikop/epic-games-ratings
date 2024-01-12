@@ -4,11 +4,11 @@
   "ProductSlug": "redfall",
   "Ranking_Rating": 1096,
   "Ranking_Popularity": 555,
-  "Ranking_PopularitySum": 562,
-  "Ranking_EOS_Progress": 242,
-  "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_PopularitySum": 563,
+  "Ranking_EOS_Progress": 243,
+  "Ranking_EOS_Completed": 399,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -4840,9 +4840,9 @@
       "ID": "Achievement_055",
       "SetID": "6b34g18",
       "Name": "Blacklight Down",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 47
     },
     {
       "ID": "Achievement_056",
@@ -4977,8 +4977,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
-  "LastChanged_Achievements": "2024-01-12T04:06:36.1756741+00:00",
+  "LastChanged_Achievements": "2024-01-12T05:08:22.0143086+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-12T03:57:56.2315269+00:00",
-  "LastUpdate_Achievements": "2024-01-12T04:06:36.1757407+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:57:42.3337989+00:00",
+  "LastUpdate_Achievements": "2024-01-12T05:08:22.0143941+00:00"
 }

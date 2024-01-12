@@ -14,12 +14,13 @@
 | Defeat Tezuth | 4.00% | ~6 |
 | Freezing Cold | 4.00% | ~6 |
 | Locked and Loaded | 4.00% | ~6 |
-| Expert | 3.00% | ~5 |
+| Expert | 4.00% | ~6 |
 | The Golden Flash | 3.00% | ~5 |
 | Searing Heat | 2.00% | ~3 |
 | Witch | 2.00% | ~3 |
 | Can't touch this | 2.00% | ~3 |
 | The A-Team | 2.00% | ~3 |
+| The Power of the Mountains | 2.00% | ~3 |
 | Changing the World | 2.00% | ~3 |
 | Mirror, Mirror on the Wall | 1.00% | ~2 |
 | Defeat Ingla | 1.00% | ~2 |
@@ -29,7 +30,6 @@
 | Finally! | 1.00% | ~2 |
 | But what of the Acreans? | 1.00% | ~2 |
 | A Deceiving Gift | 1.00% | ~2 |
-| The Power of the Mountains | 1.00% | ~2 |
 | Sponsor | 0.60% | ~1 |
 | Style over Stats | 0.60% | ~1 |
 | Defeat Uskol | 0.60% | ~1 |
@@ -58,7 +58,7 @@
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 161 (Ranked 454)  
-Completed: 0 (0.00%) (Ranked 398)  
+Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

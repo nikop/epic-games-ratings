@@ -6,9 +6,9 @@
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 191,
-  "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Completed": 399,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8276,
+  "EOS_Progressed": 8277,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13897,6 +13897,11 @@
       "Time": "2024-01-12T01:57:36.1053485+00:00",
       "NumProgressed": 8276,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T05:08:37.2603203+00:00",
+      "NumProgressed": 8277,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13916,7 +13921,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -14227,13 +14232,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8276,
+      "Progressed": 8277,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7648,
+      "Progressed": 7649,
       "Completed": 113
     }
   ],
@@ -14241,8 +14246,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-12T04:08:42.6089443+00:00",
+  "LastChanged_Achievements": "2024-01-12T05:08:37.2603201+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-12T04:00:21.6065607+00:00",
-  "LastUpdate_Achievements": "2024-01-12T04:08:42.6090367+00:00"
+  "LastUpdate_Ratings": "2024-01-12T05:00:08.8992976+00:00",
+  "LastUpdate_Achievements": "2024-01-12T05:08:37.2604312+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 455,
-  "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Progress": 454,
+  "Ranking_EOS_Completed": 206,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 160,
+  "EOS_Progressed": 161,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -541,6 +541,11 @@
       "Time": "2024-01-11T13:16:19.9819179+00:00",
       "NumProgressed": 160,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T05:09:57.1305688+00:00",
+      "NumProgressed": 161,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -552,7 +557,7 @@
       "Name": "Freedom",
       "Percentage": 24,
       "XP": 35,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Achievement10",
@@ -568,7 +573,7 @@
       "Name": "Your Training Continues",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Achievement12",
@@ -598,9 +603,9 @@
       "ID": "Achievement15",
       "SetID": "jf6ho5",
       "Name": "Target Practice",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 72
     },
     {
       "ID": "Achievement16",
@@ -608,7 +613,7 @@
       "Name": "The Bigger They Are",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Achievement17",
@@ -616,7 +621,7 @@
       "Name": "Declawing",
       "Percentage": 64,
       "XP": 35,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "Achievement18",
@@ -656,23 +661,23 @@
       "Name": "Stilt House",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Achievement3",
       "SetID": "jf6ho5",
       "Name": "Enemies of Fate",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "Achievement4",
       "SetID": "jf6ho5",
       "Name": "Omnia Vincit Amor",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "Achievement5",
@@ -719,7 +724,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 160,
+      "Progressed": 161,
       "Completed": 1
     }
   ],
@@ -727,8 +732,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-01-12T04:10:01.383385+00:00",
+  "LastChanged_Achievements": "2024-01-12T05:09:57.1305683+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:53.0986152+00:00",
-  "LastUpdate_Ratings": "2024-01-12T03:58:12.9859587+00:00",
-  "LastUpdate_Achievements": "2024-01-12T04:10:01.3834137+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:57:59.330004+00:00",
+  "LastUpdate_Achievements": "2024-01-12T05:09:57.1305945+00:00"
 }

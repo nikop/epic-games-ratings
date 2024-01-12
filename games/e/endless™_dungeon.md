@@ -8,8 +8,8 @@
 | Getting the Hang of It | 42.00% | ~644 |
 | Hoarder | 33.00% | ~506 |
 | Pest Control | 28.00% | ~430 |
+| Exhaustive Explorer | 27.00% | ~414 |
 | Blobmeister | 26.00% | ~399 |
-| Exhaustive Explorer | 26.00% | ~399 |
 | How Low Can We Go? | 24.00% | ~368 |
 | Team Builder | 20.00% | ~307 |
 | Long Live Rock | 17.00% | ~261 |
@@ -36,7 +36,7 @@
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,534 (Ranked 267)  
-Completed: 0 (0.00%) (Ranked 398)  
+Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

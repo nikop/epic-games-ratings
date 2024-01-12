@@ -3,9 +3,9 @@
   "Name": "Full Metal Sergeant",
   "ProductSlug": "full-metal-sergeant-f8e345",
   "Ranking_EOS_Progress": 827,
-  "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 583,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Completed": 399,
+  "Ranking_EOS_NewPlayers": 582,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2024-07-04T16:00:00+00:00",
     "PcReleaseDate": "2023-04-03T16:00:00+00:00",
@@ -121,8 +121,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:39.6140161+00:00",
-  "LastChanged_Achievements": "2024-01-12T04:09:30.2680116+00:00",
+  "LastChanged_Achievements": "2024-01-12T05:09:25.4697047+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:17.8047795+00:00",
-  "LastUpdate_Ratings": "2024-01-12T03:57:21.2727015+00:00",
-  "LastUpdate_Achievements": "2024-01-12T04:09:30.2680234+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:57:05.9824058+00:00",
+  "LastUpdate_Achievements": "2024-01-12T05:09:25.4697093+00:00"
 }

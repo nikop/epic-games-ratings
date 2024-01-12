@@ -3,9 +3,9 @@
   "Name": "Total War: PHARAOH",
   "ProductSlug": "total-war-pharaoh",
   "Ranking_EOS_Progress": 827,
-  "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 583,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Completed": 399,
+  "Ranking_EOS_NewPlayers": 582,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2099-10-11T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -38,8 +38,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-18T15:04:14.5273766+00:00",
-  "LastChanged_Achievements": "2024-01-12T04:09:03.8621245+00:00",
+  "LastChanged_Achievements": "2024-01-12T05:08:58.7476492+00:00",
   "LastUpdate_AppInfo": "2024-01-10T10:57:41.1421852+00:00",
-  "LastUpdate_Ratings": "2024-01-12T03:57:33.4830719+00:00",
-  "LastUpdate_Achievements": "2024-01-12T04:09:03.8621264+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:57:19.5140478+00:00",
+  "LastUpdate_Achievements": "2024-01-12T05:08:58.7476528+00:00"
 }

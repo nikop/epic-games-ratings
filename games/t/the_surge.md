@@ -6,19 +6,19 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~5,068 |
-| I'll Be Back | 84.00% | ~4,529 |
-| Sorry, I Dropped This | 76.00% | ~4,098 |
-| First Day on the Job | 76.00% | ~4,098 |
+| On My Own Two Feet | 94.00% | ~5,069 |
+| I'll Be Back | 84.00% | ~4,530 |
+| Sorry, I Dropped This | 76.00% | ~4,099 |
+| First Day on the Job | 76.00% | ~4,099 |
 | Butcher's Bill | 54.00% | ~2,912 |
 | P.A.X | 36.00% | ~1,941 |
 | Hey Listen | 36.00% | ~1,941 |
-| OPERATOR | 35.00% | ~1,887 |
-| It's Blue Light | 33.00% | ~1,779 |
+| OPERATOR | 35.00% | ~1,888 |
+| It's Blue Light | 33.00% | ~1,780 |
 | Most Wanted | 26.00% | ~1,402 |
 | Infidel | 23.00% | ~1,240 |
-| Firebug | 20.00% | ~1,078 |
-| GOLIATH | 20.00% | ~1,078 |
+| Firebug | 20.00% | ~1,079 |
+| GOLIATH | 20.00% | ~1,079 |
 | I Choose You | 17.00% | ~917 |
 | Nothing to Lose | 17.00% | ~917 |
 | Big Sister | 15.00% | ~809 |
@@ -38,10 +38,10 @@ Number of Ratings: 62  (23.09.2022)
 | Squad Chief Helvig | 8.00% | ~431 |
 | No More Marching | 8.00% | ~431 |
 | Is This Real Life? | 8.00% | ~431 |
-| Duty-Bound | 7.00% | ~377 |
-| Follow the White Rabbit | 7.00% | ~377 |
-| Liberation | 7.00% | ~377 |
-| Risk Assessment | 7.00% | ~377 |
+| Duty-Bound | 7.00% | ~378 |
+| Follow the White Rabbit | 7.00% | ~378 |
+| Liberation | 7.00% | ~378 |
+| Risk Assessment | 7.00% | ~378 |
 | Sunglasses at Night | 6.00% | ~324 |
 | Carbon Cat | 6.00% | ~324 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~270 |
@@ -74,8 +74,8 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~32 |
 | The Surge | 0.40% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,392 (Ranked 204)  
-Completed: 18 (0.33%) (Ranked 251)  
+Progressed: 5,393 (Ranked 204)  
+Completed: 18 (0.33%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -298,11 +298,11 @@ Completed: 18 (0.33%) (Ranked 251)
 | 2024-01-09 | 5,358 | 18 |
 | 2024-01-10 | 5,379 | 18 |
 | 2024-01-11 | 5,391 | 18 |
-| 2024-01-12 | 5,392 | 18 |
+| 2024-01-12 | 5,393 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 524)  
-Sum: 30 (Ranked 545)  
-Diff (max vs sum): -21  
+Sum: 30 (Ranked 546)  
+Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 30 |

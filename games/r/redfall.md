@@ -40,9 +40,9 @@ Rating: 3.68 (Ranked 1,096)
 | Check, Please! | 2.00% | ~47 |
 | Right This Way | 2.00% | ~47 |
 | Nice Try | 2.00% | ~47 |
+| Blacklight Down | 2.00% | ~47 |
 | Curious Finch | 2.00% | ~47 |
 | Blood Brother | 1.00% | ~24 |
-| Blacklight Down | 1.00% | ~24 |
 | Neighborhood Watch | 0.90% | ~21 |
 | Bloody Initiate | 0.90% | ~21 |
 | Empty Nest Syndrome | 0.80% | ~19 |
@@ -72,8 +72,8 @@ Rating: 3.68 (Ranked 1,096)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,368 (Ranked 242)  
-Completed: 0 (0.00%) (Ranked 398)  
+Progressed: 2,368 (Ranked 243)  
+Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -219,8 +219,8 @@ Completed: 0 (0.00%) (Ranked 398)
 | 2024-01-12 | 2,368 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 555)  
-Sum: 24 (Ranked 562)  
-Diff (max vs sum): -7  
+Sum: 24 (Ranked 563)  
+Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 24 |

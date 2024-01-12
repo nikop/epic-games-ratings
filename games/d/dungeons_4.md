@@ -31,8 +31,8 @@ Rating: 4.75 (Ranked 148)
 | Tanos' Crusade Against Thalya | 47.00% | ~357 |
 | Dungeonlord Gorgu | 46.00% | ~349 |
 | Pure Dynamite! | 45.00% | ~342 |
+| Mana Cannon | 43.00% | ~326 |
 | All’s Well That Ends Evil | 43.00% | ~326 |
-| Mana Cannon | 42.00% | ~319 |
 | The Duel | 40.00% | ~304 |
 | If Looks Could Kill | 37.00% | ~281 |
 | Unstoppable Horde | 36.00% | ~273 |
@@ -40,8 +40,8 @@ Rating: 4.75 (Ranked 148)
 | The Finitude Drill | 35.00% | ~266 |
 | Ghost Pirates? Ghost Heroes! | 31.00% | ~235 |
 | Doom Hill | 31.00% | ~235 |
+| Forbidden Knowledge | 30.00% | ~228 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 29.00% | ~220 |
-| Forbidden Knowledge | 29.00% | ~220 |
 | Brimstone Shaken, Not Stirred | 29.00% | ~220 |
 | Hungry, Hungry Gorgu! | 28.00% | ~213 |
 | Stop Tanos! | 28.00% | ~213 |

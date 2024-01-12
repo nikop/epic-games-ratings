@@ -24,13 +24,13 @@ Number of Ratings: 116  (23.09.2022)
 | Salvation | 37.00% | ~206 |
 | Unshakable Fortitude | 35.00% | ~195 |
 | Soul Harvester | 35.00% | ~195 |
+| Delusions of Grandeur | 34.00% | ~190 |
 | I Wanna Rock | 33.00% | ~184 |
-| Delusions of Grandeur | 33.00% | ~184 |
 | Love Tap | 32.00% | ~179 |
 | Maximum Vigor | 31.00% | ~173 |
 | Freeze Frame | 30.00% | ~167 |
 | Eat Your Heart Out | 30.00% | ~167 |
-| For Whom the Bell Tolls | 28.00% | ~156 |
+| For Whom the Bell Tolls | 29.00% | ~162 |
 | Big Spender | 26.00% | ~145 |
 | Unyielding Strength | 25.00% | ~140 |
 | Can you restore the Balance? | 25.00% | ~140 |
@@ -72,7 +72,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.90% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 558 (Ranked 345)  
-Completed: 2 (0.36%) (Ranked 245)  
+Completed: 2 (0.36%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

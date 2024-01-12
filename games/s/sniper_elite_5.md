@@ -78,7 +78,7 @@ Rating: 4.47 (Ranked 665)
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,268 (Ranked 211)  
-Completed: 11 (0.26%) (Ranked 266)  
+Completed: 11 (0.26%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -344,8 +344,8 @@ Completed: 11 (0.26%) (Ranked 266)
 | 2024-01-11 | 4,268 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 529)  
-Sum: 29 (Ranked 547)  
-Diff (max vs sum): -18  
+Sum: 29 (Ranked 548)  
+Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 29 |

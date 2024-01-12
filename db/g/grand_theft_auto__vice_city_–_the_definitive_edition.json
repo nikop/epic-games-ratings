@@ -6,7 +6,7 @@
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 212,
+  "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
@@ -1056,9 +1056,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16268,
+  "EOS_Progressed": 16269,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 879,
+  "EOS_NewPlayers": 874,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -17861,6 +17861,11 @@
       "Time": "2024-01-12T04:09:50.4716965+00:00",
       "NumProgressed": 16268,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2024-01-12T05:09:45.882846+00:00",
+      "NumProgressed": 16269,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 34,
@@ -17952,7 +17957,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "ACH12",
@@ -18126,9 +18131,9 @@
       "ID": "ACH33",
       "SetID": "9llo822",
       "Name": "Done it All",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 163
     },
     {
       "ID": "ACH34",
@@ -18143,7 +18148,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16268,
+      "Progressed": 16269,
       "Completed": 96
     }
   ],
@@ -18151,8 +18156,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-03T02:18:34.6735113+00:00",
-  "LastChanged_Achievements": "2024-01-12T04:09:50.4716963+00:00",
+  "LastChanged_Achievements": "2024-01-12T05:09:45.8828458+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:12.9251558+00:00",
-  "LastUpdate_Ratings": "2024-01-12T03:58:38.6201872+00:00",
-  "LastUpdate_Achievements": "2024-01-12T04:09:50.4717749+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:58:24.1271337+00:00",
+  "LastUpdate_Achievements": "2024-01-12T05:09:45.8829341+00:00"
 }

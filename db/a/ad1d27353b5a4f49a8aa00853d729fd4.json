@@ -4,8 +4,8 @@
   "ProductSlug": "space-elite-force-a00006",
   "Ranking_EOS_Progress": 527,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 485,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 483,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-07-27T13:00:00+00:00",
     "PcReleaseDate": "2018-05-17T08:30:00+00:00",
@@ -529,9 +529,9 @@
       "ID": "missile",
       "SetID": "94981fl",
       "Name": "missile",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "no_scratches",
@@ -656,8 +656,8 @@
   ],
   "FirstSeen": "2023-08-06T03:57:23.4648086+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2024-01-12T04:04:22.0436224+00:00",
+  "LastChanged_Achievements": "2024-01-12T05:04:13.9884768+00:00",
   "LastUpdate_AppInfo": "2024-01-05T23:57:03.5182073+00:00",
-  "LastUpdate_Ratings": "2024-01-12T03:58:23.964304+00:00",
-  "LastUpdate_Achievements": "2024-01-12T04:04:22.043665+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:58:10.6863137+00:00",
+  "LastUpdate_Achievements": "2024-01-12T05:04:13.9885021+00:00"
 }

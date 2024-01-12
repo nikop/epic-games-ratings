@@ -6,7 +6,7 @@
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 246,
-  "Ranking_EOS_Completed": 283,
+  "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
@@ -91,9 +91,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2251,
+  "EOS_Progressed": 2253,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -4321,6 +4321,11 @@
       "Time": "2024-01-12T04:10:03.790371+00:00",
       "NumProgressed": 2251,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-12T05:09:59.4856014+00:00",
+      "NumProgressed": 2253,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -4332,7 +4337,7 @@
       "Name": "Break Out",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "ACH_02",
@@ -4404,7 +4409,7 @@
       "Name": "Trinity",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "ACH_11",
@@ -4524,7 +4529,7 @@
       "Name": "Fashion Victim",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACH_26",
@@ -4548,7 +4553,7 @@
       "Name": "I Found It",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "ACH_29",
@@ -4588,7 +4593,7 @@
       "Name": "The Collector",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ACH_35",
@@ -4619,7 +4624,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2251,
+      "Progressed": 2253,
       "Completed": 4
     }
   ],
@@ -4627,8 +4632,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-11T14:57:15.6904807+00:00",
-  "LastChanged_Achievements": "2024-01-12T04:10:03.7903708+00:00",
+  "LastChanged_Achievements": "2024-01-12T05:09:59.4856013+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-12T03:57:32.8763689+00:00",
-  "LastUpdate_Achievements": "2024-01-12T04:10:03.7904296+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:57:19.0275118+00:00",
+  "LastUpdate_Achievements": "2024-01-12T05:09:59.4856396+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 281,
-  "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -63,7 +63,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1307,
+  "EOS_Progressed": 1308,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 2,
@@ -3943,6 +3943,11 @@
       "Time": "2024-01-12T00:09:56.8287782+00:00",
       "NumProgressed": 1307,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-12T05:10:05.2859978+00:00",
+      "NumProgressed": 1308,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4002,7 +4007,7 @@
       "Name": "Like Clockwork",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ClovemaryGift",
@@ -4074,7 +4079,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -4114,7 +4119,7 @@
       "Name": "Rail Rat",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "HexlockGift",
@@ -4138,7 +4143,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "LacunaCompleted",
@@ -4242,7 +4247,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "RewindParry",
@@ -4258,7 +4263,7 @@
       "Name": "Golem Hunter",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ScrambotProgress1",
@@ -4314,7 +4319,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "TheaterChests1",
@@ -4377,7 +4382,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1307,
+      "Progressed": 1308,
       "Completed": 8
     }
   ],
@@ -4385,8 +4390,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-12T04:10:09.6745629+00:00",
+  "LastChanged_Achievements": "2024-01-12T05:10:05.2859976+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-12T03:57:23.9018792+00:00",
-  "LastUpdate_Achievements": "2024-01-12T04:10:09.6746203+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:57:08.9026142+00:00",
+  "LastUpdate_Achievements": "2024-01-12T05:10:05.2860479+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~13,574 |
-| What should I buy? | 80.00% | ~11,677 |
-| Focus! | 60.00% | ~8,758 |
-| Rescued Elder Ent | 60.00% | ~8,758 |
-| The End of the Gold Mane Knights | 47.00% | ~6,860 |
-| False Goddess, Disappear | 39.00% | ~5,692 |
-| Rules of Etiquette | 37.00% | ~5,401 |
-| Inventory Management | 32.00% | ~4,671 |
-| The Fall of the Leonia Order | 30.00% | ~4,379 |
-| Quick Movements | 30.00% | ~4,379 |
-| Go Home... | 27.00% | ~3,941 |
-| The Final Battle of the First Hero | 26.00% | ~3,795 |
-| The Hero Killer | 25.00% | ~3,649 |
-| Brain at Full Throttle | 20.00% | ~2,919 |
-| Rookies Welcome | 18.00% | ~2,627 |
-| Deadly Power | 16.00% | ~2,335 |
-| Castle Restoration Plans | 13.00% | ~1,897 |
+| The Legend Begins | 93.00% | ~13,577 |
+| What should I buy? | 80.00% | ~11,679 |
+| Focus! | 60.00% | ~8,759 |
+| Rescued Elder Ent | 60.00% | ~8,759 |
+| The End of the Gold Mane Knights | 47.00% | ~6,862 |
+| False Goddess, Disappear | 39.00% | ~5,694 |
+| Rules of Etiquette | 37.00% | ~5,402 |
+| Inventory Management | 32.00% | ~4,672 |
+| The Fall of the Leonia Order | 30.00% | ~4,380 |
+| Quick Movements | 30.00% | ~4,380 |
+| Go Home... | 27.00% | ~3,942 |
+| The Final Battle of the First Hero | 26.00% | ~3,796 |
+| The Hero Killer | 25.00% | ~3,650 |
+| Brain at Full Throttle | 20.00% | ~2,920 |
+| Rookies Welcome | 18.00% | ~2,628 |
+| Deadly Power | 16.00% | ~2,336 |
+| Castle Restoration Plans | 13.00% | ~1,898 |
 | The Dwarven Chandelier | 10.00% | ~1,460 |
 | Master of Speed | 9.00% | ~1,314 |
 | The Levitator | 8.00% | ~1,168 |
@@ -31,8 +31,8 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~146 |
 | Cold-Blooded | 0.60% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,596 (Ranked 175)  
-Completed: 21 (0.14%) (Ranked 297)  
+Progressed: 14,599 (Ranked 175)  
+Completed: 21 (0.14%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -277,7 +277,7 @@ Completed: 21 (0.14%) (Ranked 297)
 | 2024-01-09 | 14,394 | 21 |
 | 2024-01-10 | 14,523 | 21 |
 | 2024-01-11 | 14,593 | 21 |
-| 2024-01-12 | 14,596 | 21 |
+| 2024-01-12 | 14,599 | 21 |
 ## Awards
 Max (Great for Beginners): 152  (Ranked 330)  
 Sum: 1,018 (Ranked 275)  

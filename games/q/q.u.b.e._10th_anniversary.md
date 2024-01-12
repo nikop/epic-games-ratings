@@ -30,8 +30,8 @@ Rating: 4.43 (Ranked 725)
 | Completed It. | 2.00% | ~584 |
 | Maxed Out | 2.00% | ~584 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,200 (Ranked 142)  
-Completed: 206 (0.71%) (Ranked 199)  
+Progressed: 29,201 (Ranked 142)  
+Completed: 206 (0.71%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -120,11 +120,11 @@ Completed: 206 (0.71%) (Ranked 199)
 | 2024-01-09 | 28,984 | 203 |
 | 2024-01-10 | 29,073 | 204 |
 | 2024-01-11 | 29,184 | 206 |
-| 2024-01-12 | 29,200 | 206 |
+| 2024-01-12 | 29,201 | 206 |
 ## Awards
 Max (Challenging Puzzles): 25  (Ranked 552)  
-Sum: 25 (Ranked 560)  
-Diff (max vs sum): -8  
+Sum: 25 (Ranked 561)  
+Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 25 |

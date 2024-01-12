@@ -5,14 +5,14 @@ Rating: 4.19 (Ranked 974)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,946 |
-| Battlefields Have Memories | 81.00% | ~2,712 |
-| Enlisted | 74.00% | ~2,478 |
-| Maybe Engage a Little | 69.00% | ~2,310 |
-| No More Names | 52.00% | ~1,741 |
-| Initiate | 39.00% | ~1,306 |
-| Thrada-Kul | 35.00% | ~1,172 |
-| Gravity-Challenged Rocks | 29.00% | ~971 |
+| Unforeseen | 88.00% | ~2,950 |
+| Battlefields Have Memories | 81.00% | ~2,715 |
+| Enlisted | 74.00% | ~2,480 |
+| Maybe Engage a Little | 69.00% | ~2,313 |
+| No More Names | 52.00% | ~1,743 |
+| Initiate | 39.00% | ~1,307 |
+| Thrada-Kul | 35.00% | ~1,173 |
+| Gravity-Challenged Rocks | 29.00% | ~972 |
 | Socialite | 24.00% | ~804 |
 | Soldier | 24.00% | ~804 |
 | All the Major Food Groups | 24.00% | ~804 |
@@ -21,27 +21,27 @@ Rating: 4.19 (Ranked 974)
 | The Means to Save It | 18.00% | ~603 |
 | Resilience to Sin | 16.00% | ~536 |
 | A Familiar Nest | 16.00% | ~536 |
-| Geas Aristeya | 15.00% | ~502 |
-| Periapt Alizarin | 15.00% | ~502 |
+| Geas Aristeya | 15.00% | ~503 |
+| Periapt Alizarin | 15.00% | ~503 |
 | A Perfect Cycle | 14.00% | ~469 |
 | Recruit | 14.00% | ~469 |
-| Armsman | 11.00% | ~368 |
+| Armsman | 11.00% | ~369 |
 | Lights Army | 10.00% | ~335 |
 | Periapt Cerulean | 8.00% | ~268 |
 | Good Boy | 8.00% | ~268 |
-| Periapt Viridian | 7.00% | ~234 |
+| Periapt Viridian | 7.00% | ~235 |
 | Best Dressed | 6.00% | ~201 |
 | Shroudfane Explorer | 6.00% | ~201 |
-| Kitted Out | 5.00% | ~167 |
+| Kitted Out | 5.00% | ~168 |
 | Scholar | 4.00% | ~134 |
 | Armaments Azure | 4.00% | ~134 |
 | Armaments Gules | 4.00% | ~134 |
-| Armaments Vert | 3.00% | ~100 |
+| Armaments Vert | 3.00% | ~101 |
 | Grand Magnus | 2.00% | ~67 |
 | Veteran | 2.00% | ~67 |
-| Master of Carmine | 1.00% | ~33 |
-| Shroudfane Surveyor | 1.00% | ~33 |
-| Tip of the Spear | 1.00% | ~33 |
+| Master of Carmine | 1.00% | ~34 |
+| Shroudfane Surveyor | 1.00% | ~34 |
+| Tip of the Spear | 1.00% | ~34 |
 | Witch-Taker | 0.80% | ~27 |
 | Master of Ultramarine | 0.70% | ~23 |
 | Backtracker | 0.70% | ~23 |
@@ -53,8 +53,8 @@ Rating: 4.19 (Ranked 974)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,348 (Ranked 228)  
-Completed: 4 (0.12%) (Ranked 304)  
+Progressed: 3,352 (Ranked 228)  
+Completed: 4 (0.12%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -159,7 +159,7 @@ Completed: 4 (0.12%) (Ranked 304)
 | 2024-01-09 | 3,204 | 4 |
 | 2024-01-10 | 3,285 | 4 |
 | 2024-01-11 | 3,340 | 4 |
-| 2024-01-12 | 3,348 | 4 |
+| 2024-01-12 | 3,352 | 4 |
 ## Awards
 Max (Quickly Understood Controls): 20  (Ranked 579)  
 Sum: 20 (Ranked 580)  

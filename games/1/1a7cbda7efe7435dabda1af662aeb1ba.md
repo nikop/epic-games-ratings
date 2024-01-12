@@ -7,7 +7,7 @@
 | Breaking Free | 37.00% | ~18 |
 | Overcoming Weakness | 35.00% | ~17 |
 | Boulder Breaker | 27.00% | ~13 |
-| Fence-Sitter | 12.00% | ~6 |
+| Fence-Sitter | 14.00% | ~7 |
 | Green Thumb | 10.00% | ~5 |
 | Setting Off | 10.00% | ~5 |
 | Crystal Hunter | 6.00% | ~3 |
@@ -36,7 +36,7 @@
 | The End of Fate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 49 (Ranked 562)  
-Completed: 0 (0.00%) (Ranked 398)  
+Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

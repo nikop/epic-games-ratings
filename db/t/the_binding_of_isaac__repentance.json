@@ -4,11 +4,11 @@
   "ProductSlug": "the-binding-of-isaac-repentance",
   "Ranking_Rating": 7,
   "Ranking_Popularity": 120,
-  "Ranking_PopularitySum": 101,
+  "Ranking_PopularitySum": 100,
   "Ranking_EOS_Progress": 827,
-  "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 583,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Completed": 399,
+  "Ranking_EOS_NewPlayers": 582,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-03-31T07:00:00+00:00",
     "PcReleaseDate": "2021-03-31T07:00:00+00:00",
@@ -5902,10 +5902,16 @@
       "Rating": 4.9,
       "NumberOfAwards": 9324,
       "NumberOfAwardsMax": 1991
+    },
+    {
+      "Time": "2024-01-12T05:02:40.2908563+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 9327,
+      "NumberOfAwardsMax": 1991
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9324,
+  "NumberOfAwards": 9327,
   "NumberOfAwardsMax": 1991,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5925,7 +5931,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 648
+      "Count": 649
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5949,7 +5955,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 627
+      "Count": 628
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5967,7 +5973,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 745
+      "Count": 746
     },
     {
       "Text": "This game has Unique Visuals",
@@ -5999,8 +6005,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
-  "LastChanged": "2024-01-11T23:02:37.3574317+00:00",
+  "LastChanged": "2024-01-12T05:02:40.2908562+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:48.3362935+00:00",
-  "LastUpdate_Ratings": "2024-01-12T04:00:42.7021106+00:00",
-  "LastUpdate_Achievements": "2024-01-12T04:05:02.4312775+00:00"
+  "LastUpdate_Ratings": "2024-01-12T05:02:40.2908567+00:00",
+  "LastUpdate_Achievements": "2024-01-12T05:04:54.8619076+00:00"
 }

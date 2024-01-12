@@ -25,7 +25,7 @@ Number of Ratings: 63  (23.09.2022)
 | Pardon my Slob | 33.00% | ~1,730 |
 | Top of the Food Chain | 32.00% | ~1,677 |
 | Humerus Achievement | 32.00% | ~1,677 |
-| Ghost Facers! | 27.00% | ~1,415 |
+| Ghost Facers! | 28.00% | ~1,468 |
 | If It Bleeds, You Can Kill It | 21.00% | ~1,101 |
 | Royal Flush, Again | 19.00% | ~996 |
 | Trying To Get Into That 1%, Huh? | 18.00% | ~944 |
@@ -57,7 +57,7 @@ Number of Ratings: 63  (23.09.2022)
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,242 (Ranked 205)  
-Completed: 30 (0.57%) (Ranked 215)  
+Completed: 30 (0.57%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

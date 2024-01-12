@@ -45,15 +45,15 @@
 | Pulp! Tales from the Crypt | 5.00% | ~5 |
 | Thirst for Oleum | 4.00% | ~4 |
 | Pulp! Weird Science | 3.00% | ~3 |
+| Pulp! Heart Throbs | 3.00% | ~3 |
 | Troy is burning! | 3.00% | ~3 |
 | Pulp! The Perfect Crime | 2.00% | ~2 |
-| Pulp! Heart Throbs | 2.00% | ~2 |
 | Pulp! Mister Mystery | 2.00% | ~2 |
 | Pulp! Skeleton Hand | 2.00% | ~2 |
-| Pulp! The Vault of Horror | 1.00% | ~1 |
+| Pulp! The Vault of Horror | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 91 (Ranked 502)  
-Completed: 0 (0.00%) (Ranked 398)  
+Completed: 1 (1.10%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -103,3 +103,4 @@ Completed: 0 (0.00%) (Ranked 398)
 | 2024-01-08 | 89 | 0 |
 | 2024-01-09 | 90 | 0 |
 | 2024-01-11 | 91 | 0 |
+| 2024-01-12 | 91 | 1 |

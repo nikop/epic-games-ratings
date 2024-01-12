@@ -6,9 +6,9 @@
   "Ranking_Popularity": 425,
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 164,
-  "Ranking_EOS_Completed": 398,
+  "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -1449,9 +1449,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 17806,
+  "EOS_Progressed": 17811,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2401,
+  "EOS_NewPlayers": 2381,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11339,6 +11339,11 @@
       "Time": "2024-01-12T04:06:15.0525468+00:00",
       "NumProgressed": 17806,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T05:06:10.5166218+00:00",
+      "NumProgressed": 17811,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -11351,7 +11356,7 @@
       "Name": "Spring Cleaning",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 3205
+      "UsersEstimate": 3206
     },
     {
       "ID": "achievement_0002",
@@ -11391,7 +11396,7 @@
       "Name": "Setting up for Success",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 12286
+      "UsersEstimate": 12290
     },
     {
       "ID": "achievement_0007",
@@ -11399,7 +11404,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16203
+      "UsersEstimate": 16208
     },
     {
       "ID": "achievement_0008",
@@ -11407,7 +11412,7 @@
       "Name": "On the Top Step",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 14601
+      "UsersEstimate": 14605
     },
     {
       "ID": "achievement_0009",
@@ -11423,7 +11428,7 @@
       "Name": "Network Success",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 4095
+      "UsersEstimate": 4097
     },
     {
       "ID": "achievement_0011",
@@ -11463,7 +11468,7 @@
       "Name": "Lightning Round the World",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "achievement_0016",
@@ -11471,7 +11476,7 @@
       "Name": "Hitting a Season",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 4630
+      "UsersEstimate": 4631
     },
     {
       "ID": "achievement_0017",
@@ -11495,7 +11500,7 @@
       "Name": "Undisputed Winner",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "achievement_0020",
@@ -11511,7 +11516,7 @@
       "Name": "Team Orders",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 11930
+      "UsersEstimate": 11933
     },
     {
       "ID": "achievement_0022",
@@ -11519,7 +11524,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 4273
+      "UsersEstimate": 4275
     },
     {
       "ID": "achievement_0023",
@@ -11527,7 +11532,7 @@
       "Name": "Sharing the Love",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 5698
+      "UsersEstimate": 5700
     },
     {
       "ID": "achievement_0024",
@@ -11575,7 +11580,7 @@
       "Name": "Reduce",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "achievement_0030",
@@ -11591,7 +11596,7 @@
       "Name": "Recycle",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     },
     {
       "ID": "achievement_0032",
@@ -11599,7 +11604,7 @@
       "Name": "Tinkerer",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "achievement_0033",
@@ -11607,7 +11612,7 @@
       "Name": "Engineer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 8013
+      "UsersEstimate": 8015
     },
     {
       "ID": "achievement_0034",
@@ -11615,7 +11620,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 4095
+      "UsersEstimate": 4097
     },
     {
       "ID": "achievement_0035",
@@ -11631,7 +11636,7 @@
       "Name": "Ups and Downs",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "achievement_0037",
@@ -11687,7 +11692,7 @@
       "Name": "Familiar Faces",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 7300
+      "UsersEstimate": 7303
     },
     {
       "ID": "achievement_0044",
@@ -11695,7 +11700,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 6232
+      "UsersEstimate": 6234
     },
     {
       "ID": "achievement_0045",
@@ -11703,7 +11708,7 @@
       "Name": "Making History",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4273
+      "UsersEstimate": 4275
     },
     {
       "ID": "achievement_0046",
@@ -11711,7 +11716,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3383
+      "UsersEstimate": 3384
     },
     {
       "ID": "achievement_0047",
@@ -11742,7 +11747,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 17806,
+      "Progressed": 17811,
       "Completed": 0
     }
   ],
@@ -11750,8 +11755,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-11T18:57:43.1140449+00:00",
-  "LastChanged_Achievements": "2024-01-12T04:06:15.0525465+00:00",
+  "LastChanged_Achievements": "2024-01-12T05:06:10.5166215+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:15.2115068+00:00",
-  "LastUpdate_Ratings": "2024-01-12T03:57:58.641842+00:00",
-  "LastUpdate_Achievements": "2024-01-12T04:06:15.0526301+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:57:44.8924874+00:00",
+  "LastUpdate_Achievements": "2024-01-12T05:06:10.516693+00:00"
 }

@@ -12,7 +12,7 @@ Rating: 4.52 (Ranked 579)
 | Tommy Two-Wheels | 16.00% | ~2,603 |
 | Big Heat from Little Havana | 15.00% | ~2,440 |
 | Chauffeur | 15.00% | ~2,440 |
-| Salutations My Little Friend | 11.00% | ~1,789 |
+| Salutations My Little Friend | 11.00% | ~1,790 |
 | Iron-y | 10.00% | ~1,627 |
 | Gun for Hire | 9.00% | ~1,464 |
 | Mischief Managed | 9.00% | ~1,464 |
@@ -37,11 +37,11 @@ Rating: 4.52 (Ranked 579)
 | Keepie-Uppy Okie Dokie | 1.00% | ~163 |
 | I'm Famous! | 1.00% | ~163 |
 | Daredevil | 1.00% | ~163 |
-| Done it All | 0.90% | ~146 |
+| Done it All | 1.00% | ~163 |
 | Kingpin | 0.60% | ~98 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,268 (Ranked 171)  
-Completed: 96 (0.59%) (Ranked 212)  
+Progressed: 16,269 (Ranked 171)  
+Completed: 96 (0.59%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -307,7 +307,7 @@ Completed: 96 (0.59%) (Ranked 212)
 | 2024-01-09 | 16,071 | 93 |
 | 2024-01-10 | 16,202 | 95 |
 | 2024-01-11 | 16,263 | 96 |
-| 2024-01-12 | 16,268 | 96 |
+| 2024-01-12 | 16,269 | 96 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

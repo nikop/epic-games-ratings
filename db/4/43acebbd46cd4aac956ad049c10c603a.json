@@ -6,9 +6,9 @@
   "Ranking_Popularity": 366,
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 276,
-  "Ranking_EOS_Completed": 291,
+  "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -4297,9 +4297,9 @@
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 260
     },
     {
       "ID": "SingleRod",
@@ -4466,8 +4466,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-11T20:01:30.2731124+00:00",
-  "LastChanged_Achievements": "2024-01-12T04:03:29.9920435+00:00",
+  "LastChanged_Achievements": "2024-01-12T05:03:20.9711737+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-12T04:00:04.372248+00:00",
-  "LastUpdate_Achievements": "2024-01-12T04:03:29.9921177+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:59:51.930067+00:00",
+  "LastUpdate_Achievements": "2024-01-12T05:03:20.9712219+00:00"
 }

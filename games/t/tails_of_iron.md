@@ -14,7 +14,9 @@ Rating: 4.57 (Ranked 494)
 | Defeat 25 Grubs | 2.00% | ~46 |
 | Defeat 25 Frogs | 2.00% | ~46 |
 | Rescue Redgi's Brothers | 2.00% | ~46 |
+| Defeat Croakhis Khan | 2.00% | ~19 |
 | Shield Maiden Yellow Tongue | 2.00% | ~19 |
+| I Remember My First Beer | 2.00% | ~19 |
 | The Bright Fir | 2.00% | ~19 |
 | Collect Gold | 1.00% | ~23 |
 | Return the Statues | 1.00% | ~23 |
@@ -29,10 +31,8 @@ Rating: 4.57 (Ranked 494)
 | Smithy Ready to Craft | 1.00% | ~23 |
 | Throne Room Fit For A King | 1.00% | ~23 |
 | Return Power To The Depths | 1.00% | ~23 |
-| Defeat Croakhis Khan | 1.00% | ~10 |
 | Defeat the Grub Buster | 1.00% | ~10 |
 | Defeat the Stalker Queen | 1.00% | ~10 |
-| I Remember My First Beer | 1.00% | ~10 |
 | Complete the Chefs Book | 0.90% | ~21 |
 | Defeat Avor Warden of the Northern Wastes | 0.80% | ~19 |
 | Discover the mystery of the Kings Chambers | 0.70% | ~16 |
@@ -43,7 +43,7 @@ Rating: 4.57 (Ranked 494)
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,323 (Ranked 245)  
-Completed: 12 (0.52%) (Ranked 221)  
+Completed: 12 (0.52%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

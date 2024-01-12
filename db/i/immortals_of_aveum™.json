@@ -6,7 +6,7 @@
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 228,
-  "Ranking_EOS_Completed": 304,
+  "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
@@ -447,9 +447,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3348,
+  "EOS_Progressed": 3352,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 630,
+  "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5287,6 +5287,11 @@
       "Time": "2024-01-12T04:09:59.6556576+00:00",
       "NumProgressed": 3348,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-12T05:09:55.3829662+00:00",
+      "NumProgressed": 3352,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5299,7 +5304,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2946
+      "UsersEstimate": 2950
     },
     {
       "ID": "achievement_10",
@@ -5339,7 +5344,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "achievement_15",
@@ -5387,7 +5392,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2712
+      "UsersEstimate": 2715
     },
     {
       "ID": "achievement_20",
@@ -5443,7 +5448,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 2310
+      "UsersEstimate": 2313
     },
     {
       "ID": "achievement_36",
@@ -5451,7 +5456,7 @@
       "Name": "Armsman",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "achievement_37",
@@ -5459,7 +5464,7 @@
       "Name": "Kitted Out",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "achievement_38",
@@ -5475,7 +5480,7 @@
       "Name": "No More Names",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1743
     },
     {
       "ID": "achievement_41",
@@ -5499,7 +5504,7 @@
       "Name": "Armaments Vert",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "achievement_44",
@@ -5515,7 +5520,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "achievement_46",
@@ -5523,7 +5528,7 @@
       "Name": "Periapt Viridian",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "achievement_48",
@@ -5531,7 +5536,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2478
+      "UsersEstimate": 2480
     },
     {
       "ID": "achievement_49",
@@ -5547,7 +5552,7 @@
       "Name": "Initiate",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "achievement_50",
@@ -5571,7 +5576,7 @@
       "Name": "Master of Carmine",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "achievement_56",
@@ -5595,7 +5600,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "achievement_60",
@@ -5603,7 +5608,7 @@
       "Name": "Shroudfane Surveyor",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "achievement_62",
@@ -5611,7 +5616,7 @@
       "Name": "Tip of the Spear",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "achievement_63",
@@ -5651,7 +5656,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "achievement_8",
@@ -5674,7 +5679,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3348,
+      "Progressed": 3352,
       "Completed": 4
     }
   ],
@@ -5682,8 +5687,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-11T22:00:16.9634248+00:00",
-  "LastChanged_Achievements": "2024-01-12T04:09:59.6556574+00:00",
+  "LastChanged_Achievements": "2024-01-12T05:09:55.382966+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8440656+00:00",
-  "LastUpdate_Ratings": "2024-01-12T03:59:23.0386759+00:00",
-  "LastUpdate_Achievements": "2024-01-12T04:09:59.6557065+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:59:09.6938545+00:00",
+  "LastUpdate_Achievements": "2024-01-12T05:09:55.3830305+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "3778010ababa48d387d44ee9fd61b517",
   "Name": "The Hive",
   "ProductSlug": "the-hive-f5c2c8",
-  "Ranking_EOS_Progress": 540,
-  "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Progress": 537,
+  "Ranking_EOS_Completed": 399,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
     "PcReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63,
+  "EOS_Progressed": 64,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -314,6 +314,11 @@
       "Time": "2024-01-12T01:52:34.9096751+00:00",
       "NumProgressed": 63,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T05:03:26.4728912+00:00",
+      "NumProgressed": 64,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-06T09:06:36.8528794+00:00",
@@ -324,7 +329,7 @@
       "ID": "A_ALL_UPGRADES",
       "SetID": "324h56e",
       "Name": "Researcher",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -412,7 +417,7 @@
       "ID": "A_GOLD_PILES",
       "SetID": "324h56e",
       "Name": "Scrooge",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
       "UsersEstimate": 29
     },
@@ -428,7 +433,7 @@
       "ID": "A_HUNT hunt (0-1)",
       "SetID": "324h56e",
       "Name": "Big Game Hunter",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 5,
       "UsersEstimate": 31
     },
@@ -444,7 +449,7 @@
       "ID": "A_ITEM_DROPS",
       "SetID": "324h56e",
       "Name": "Scavenger",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 13
     },
@@ -492,7 +497,7 @@
       "ID": "A_MEAT meat (0-10000)",
       "SetID": "324h56e",
       "Name": "Fresh Meat!",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -524,7 +529,7 @@
       "ID": "A_ORB",
       "SetID": "324h56e",
       "Name": "Orb of Wisdom",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 5,
       "UsersEstimate": 45
     },
@@ -572,7 +577,7 @@
       "ID": "A_SKIP_ADVISOR advisor (0-5)",
       "SetID": "324h56e",
       "Name": "Silencer",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -637,14 +642,14 @@
     {
       "ID": "324h56e",
       "IsBase": true,
-      "Progressed": 63,
+      "Progressed": 64,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-12T04:03:35.294768+00:00",
+  "LastChanged_Achievements": "2024-01-12T05:03:26.4728909+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.8788926+00:00",
-  "LastUpdate_Ratings": "2024-01-12T03:59:50.5758684+00:00",
-  "LastUpdate_Achievements": "2024-01-12T04:03:35.2948178+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:59:37.5250133+00:00",
+  "LastUpdate_Achievements": "2024-01-12T05:03:26.4729321+00:00"
 }

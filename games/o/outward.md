@@ -14,14 +14,14 @@ Number of Ratings: 266  (23.09.2022)
 | Eureka | 29.00% | ~1,374 |
 | Scourge Slayer | 23.00% | ~1,090 |
 | Science, Troglodyte! | 21.00% | ~995 |
-| Exceptional Skill | 20.00% | ~947 |
-| Home Sweet Home | 20.00% | ~947 |
+| Exceptional Skill | 20.00% | ~948 |
+| Home Sweet Home | 20.00% | ~948 |
 | Encyclopedic! | 18.00% | ~853 |
 | The Power of Family | 15.00% | ~711 |
 | A Fortress Toppled! | 14.00% | ~663 |
 | Apex Predator | 14.00% | ~663 |
+| The Power of Faith | 12.00% | ~569 |
 | Strange amalgams | 11.00% | ~521 |
-| The Power of Faith | 11.00% | ~521 |
 | The Power of Freedom | 8.00% | ~379 |
 | Ace Detective | 7.00% | ~332 |
 | Gift from the Ancestors | 7.00% | ~332 |
@@ -32,9 +32,9 @@ Number of Ratings: 266  (23.09.2022)
 | The power of ambition | 6.00% | ~284 |
 | Blood and justice | 5.00% | ~237 |
 | The stuff of legends. | 5.00% | ~237 |
-| Ancestor's Pride | 4.00% | ~189 |
-| For All Aurai | 4.00% | ~189 |
-| Memory of a legend | 4.00% | ~189 |
+| Ancestor's Pride | 4.00% | ~190 |
+| For All Aurai | 4.00% | ~190 |
+| Memory of a legend | 4.00% | ~190 |
 | Light of Levant | 3.00% | ~142 |
 | Crowd Pleaser. | 2.00% | ~95 |
 | Perfect Defense | 2.00% | ~95 |
@@ -49,8 +49,8 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~14 |
 | The Absolute Pinnacle. | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,737 (Ranked 207)  
-Completed: 5 (0.11%) (Ranked 307)  
+Progressed: 4,738 (Ranked 207)  
+Completed: 5 (0.11%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -302,7 +302,7 @@ Completed: 5 (0.11%) (Ranked 307)
 | 2024-01-09 | 4,681 | 5 |
 | 2024-01-10 | 4,724 | 5 |
 | 2024-01-11 | 4,735 | 5 |
-| 2024-01-12 | 4,737 | 5 |
+| 2024-01-12 | 4,738 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 505)  
 Sum: 246 (Ranked 402)  

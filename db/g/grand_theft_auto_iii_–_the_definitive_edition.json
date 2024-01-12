@@ -6,7 +6,7 @@
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 179,
-  "Ranking_EOS_Completed": 200,
+  "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
@@ -709,9 +709,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12230,
+  "EOS_Progressed": 12231,
   "EOS_Completed": 86,
-  "EOS_NewPlayers": 661,
+  "EOS_NewPlayers": 652,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -15559,6 +15559,11 @@
       "Time": "2024-01-12T04:04:04.10913+00:00",
       "NumProgressed": 12230,
       "NumCompleted": 86
+    },
+    {
+      "Time": "2024-01-12T05:03:55.8401726+00:00",
+      "NumProgressed": 12231,
+      "NumCompleted": 86
     }
   ],
   "TotalAchievements": 29,
@@ -15570,7 +15575,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10151
+      "UsersEstimate": 10152
     },
     {
       "ID": "ACH02",
@@ -15578,7 +15583,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 4158
+      "UsersEstimate": 4159
     },
     {
       "ID": "ACH03",
@@ -15801,7 +15806,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12230,
+      "Progressed": 12231,
       "Completed": 86
     }
   ],
@@ -15809,8 +15814,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-11T22:58:24.400965+00:00",
-  "LastChanged_Achievements": "2024-01-12T04:04:04.1091296+00:00",
+  "LastChanged_Achievements": "2024-01-12T05:03:55.8401723+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.653696+00:00",
-  "LastUpdate_Ratings": "2024-01-12T03:58:38.1372151+00:00",
-  "LastUpdate_Achievements": "2024-01-12T04:04:04.1092574+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:58:23.6198198+00:00",
+  "LastUpdate_Achievements": "2024-01-12T05:03:55.8402406+00:00"
 }

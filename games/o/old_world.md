@@ -21,6 +21,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 2.00% | ~330 |
 | Pioneer | 2.00% | ~330 |
 | Strong | 2.00% | ~330 |
+| Developing Cities | 2.00% | ~330 |
 | Friendly Family | 2.00% | ~330 |
 | Hanging Gardens | 2.00% | ~330 |
 | Oracle | 2.00% | ~330 |
@@ -38,7 +39,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 1.00% | ~165 |
 | Warrior | 1.00% | ~165 |
 | Wise | 1.00% | ~165 |
-| Developing Cities | 1.00% | ~165 |
 | Strong Cities | 1.00% | ~165 |
 | Able Difficulty | 1.00% | ~165 |
 | Furious Family | 1.00% | ~165 |
@@ -365,8 +365,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,480 (Ranked 170)  
-Completed: 5 (0.03%) (Ranked 356)  
+Progressed: 16,482 (Ranked 170)  
+Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -632,7 +632,7 @@ Completed: 5 (0.03%) (Ranked 356)
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
-| 2024-01-12 | 16,480 | 5 |
+| 2024-01-12 | 16,482 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,921 (Ranked 224)  

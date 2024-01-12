@@ -6,7 +6,7 @@
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
-  "Ranking_EOS_Completed": 398,
+  "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
@@ -10746,9 +10746,9 @@
       "Count": 1092
     }
   ],
-  "EOS_Progressed": 132509,
+  "EOS_Progressed": 132510,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 797,
+  "EOS_NewPlayers": 792,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39441,6 +39441,11 @@
       "Time": "2024-01-12T04:09:53.0865535+00:00",
       "NumProgressed": 132509,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-12T05:09:48.7732483+00:00",
+      "NumProgressed": 132510,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39452,7 +39457,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6625
+      "UsersEstimate": 6626
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -39468,7 +39473,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6625
+      "UsersEstimate": 6626
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -39604,7 +39609,7 @@
       "Name": "Not Today!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6625
+      "UsersEstimate": 6626
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -39652,7 +39657,7 @@
       "Name": "Meat and Greet",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6625
+      "UsersEstimate": 6626
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -39668,7 +39673,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6625
+      "UsersEstimate": 6626
     },
     {
       "ID": "combat_kill_librarian",
@@ -39724,7 +39729,7 @@
       "Name": "It Happens",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6625
+      "UsersEstimate": 6626
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -39748,7 +39753,7 @@
       "Name": "Rush Hour",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6625
+      "UsersEstimate": 6626
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -39772,7 +39777,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6625
+      "UsersEstimate": 6626
     },
     {
       "ID": "driving_distance_easy",
@@ -39844,7 +39849,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6625
+      "UsersEstimate": 6626
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -39860,7 +39865,7 @@
       "Name": "FNG",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6625
+      "UsersEstimate": 6626
     },
     {
       "ID": "inn_visit_all_variants",
@@ -39996,7 +40001,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -40083,21 +40088,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132509,
+      "Progressed": 132510,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7378,
-      "Completed": 824
+      "Progressed": 7379,
+      "Completed": 825
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-11T21:01:00.9596735+00:00",
-  "LastChanged_Achievements": "2024-01-12T04:09:53.0865533+00:00",
+  "LastChanged_Achievements": "2024-01-12T05:09:48.773248+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-12T03:59:59.6070847+00:00",
-  "LastUpdate_Achievements": "2024-01-12T04:09:53.0867301+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:59:46.909651+00:00",
+  "LastUpdate_Achievements": "2024-01-12T05:09:48.7734218+00:00"
 }

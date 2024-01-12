@@ -6,9 +6,9 @@
   "Ranking_Popularity": 356,
   "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 180,
-  "Ranking_EOS_Completed": 374,
+  "Ranking_EOS_Completed": 375,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -335,9 +335,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 11120,
+  "EOS_Progressed": 11125,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1002,
+  "EOS_NewPlayers": 1001,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4570,6 +4570,11 @@
       "Time": "2024-01-12T04:10:02.707611+00:00",
       "NumProgressed": 11120,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T05:09:58.3682631+00:00",
+      "NumProgressed": 11125,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4582,7 +4587,7 @@
       "Name": "Conspiracy",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2114
     },
     {
       "ID": "03_TheStolenStar",
@@ -4598,7 +4603,7 @@
       "Name": "Trade Empire",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -4606,7 +4611,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -4678,7 +4683,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "15_Pentakill",
@@ -4742,7 +4747,7 @@
       "Name": "Perfect Timing",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "23_DynastyRestored",
@@ -4750,7 +4755,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "24_TheHighrise",
@@ -4790,7 +4795,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -4910,7 +4915,7 @@
       "Name": "No Place Like Home",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -5101,7 +5106,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11120,
+      "Progressed": 11125,
       "Completed": 1
     }
   ],
@@ -5109,8 +5114,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-12T03:59:45.455551+00:00",
-  "LastChanged_Achievements": "2024-01-12T04:10:02.7076108+00:00",
+  "LastChanged_Achievements": "2024-01-12T05:09:58.3682628+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-12T03:59:45.4555514+00:00",
-  "LastUpdate_Achievements": "2024-01-12T04:10:02.7076802+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:59:32.3252839+00:00",
+  "LastUpdate_Achievements": "2024-01-12T05:09:58.3683239+00:00"
 }

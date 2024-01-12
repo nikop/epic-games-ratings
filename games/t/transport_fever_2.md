@@ -11,8 +11,8 @@ Number of Ratings: 180  (23.09.2022)
 | First cargo item waiting | 67.00% | ~1,648 |
 | First bus stop | 66.00% | ~1,623 |
 | First passenger waiting | 63.00% | ~1,549 |
+| First bus arrived | 62.00% | ~1,525 |
 | First passenger on board | 62.00% | ~1,525 |
-| First bus arrived | 61.00% | ~1,500 |
 | First train station | 59.00% | ~1,451 |
 | First steam train arrived | 56.00% | ~1,377 |
 | First industry upgraded | 53.00% | ~1,303 |
@@ -69,7 +69,7 @@ Number of Ratings: 180  (23.09.2022)
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,459 (Ranked 240)  
-Completed: 1 (0.04%) (Ranked 352)  
+Completed: 1 (0.04%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

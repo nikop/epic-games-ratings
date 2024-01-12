@@ -4,11 +4,11 @@
   "ProductSlug": "the-surge",
   "Ranking_Rating": 705,
   "Ranking_Popularity": 524,
-  "Ranking_PopularitySum": 545,
+  "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 204,
-  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5392,
+  "EOS_Progressed": 5393,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -5165,6 +5165,11 @@
       "Time": "2024-01-12T01:54:09.3473111+00:00",
       "NumProgressed": 5392,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-12T05:04:57.2432808+00:00",
+      "NumProgressed": 5393,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5184,7 +5189,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -5224,7 +5229,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4529
+      "UsersEstimate": 4530
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5232,7 +5237,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5068
+      "UsersEstimate": 5069
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5240,7 +5245,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4098
+      "UsersEstimate": 4099
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -5368,7 +5373,7 @@
       "Name": "Duty-Bound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ID_ACHIEV_26",
@@ -5384,7 +5389,7 @@
       "Name": "Follow the White Rabbit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ID_ACHIEV_28",
@@ -5392,7 +5397,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4098
+      "UsersEstimate": 4099
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5400,7 +5405,7 @@
       "Name": "Liberation",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ID_ACHIEV_30",
@@ -5456,7 +5461,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -5512,7 +5517,7 @@
       "Name": "GOLIATH",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -5520,7 +5525,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1887
+      "UsersEstimate": 1888
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -5704,22 +5709,22 @@
       "Name": "Risk Assessment",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     }
   ],
   "AchievementSets": [
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5392,
+      "Progressed": 5393,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-12T04:05:04.6352261+00:00",
+  "LastChanged_Achievements": "2024-01-12T05:04:57.2432805+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.5688271+00:00",
-  "LastUpdate_Ratings": "2024-01-12T03:59:31.0417487+00:00",
-  "LastUpdate_Achievements": "2024-01-12T04:05:04.6353328+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:59:17.5222457+00:00",
+  "LastUpdate_Achievements": "2024-01-12T05:04:57.2433525+00:00"
 }

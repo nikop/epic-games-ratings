@@ -2,10 +2,10 @@
   "ID": "59b1a57188fb429db7bf5afea8e70d88",
   "Name": "Dinobreak",
   "ProductSlug": "dinobreak-307b09",
-  "Ranking_EOS_Progress": 580,
-  "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 512,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Progress": 578,
+  "Ranking_EOS_Completed": 399,
+  "Ranking_EOS_NewPlayers": 483,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-04T14:00:00+00:00",
     "PcReleaseDate": "2023-10-04T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41,
+  "EOS_Progressed": 42,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -224,6 +224,11 @@
       "Time": "2024-01-09T04:03:26.8219106+00:00",
       "NumProgressed": 41,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T05:04:41.858691+00:00",
+      "NumProgressed": 42,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T15:02:12.9396867+00:00",
@@ -266,7 +271,7 @@
       "ID": "DINO_CHOW_ACH",
       "SetID": "7jaf9il",
       "Name": "Dino Chow",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -290,7 +295,7 @@
       "ID": "HERE_WE_GO_AGAIN_ACH",
       "SetID": "7jaf9il",
       "Name": "Here We Go Again",
-      "Percentage": 76,
+      "Percentage": 74,
       "XP": 5,
       "UsersEstimate": 31
     },
@@ -370,7 +375,7 @@
       "ID": "SOMETHING_ISNT_RIGHT_ACH",
       "SetID": "7jaf9il",
       "Name": "Something Isn\u0027t Right",
-      "Percentage": 59,
+      "Percentage": 57,
       "XP": 5,
       "UsersEstimate": 24
     },
@@ -386,7 +391,7 @@
       "ID": "TAPE_IT_BACK_TOGETHER_ACH",
       "SetID": "7jaf9il",
       "Name": "Tape It Back Together",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -394,7 +399,7 @@
       "ID": "TEMPORARY_SHELTER_ACH",
       "SetID": "7jaf9il",
       "Name": "Temporary Shelter",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -435,14 +440,14 @@
     {
       "ID": "7jaf9il",
       "IsBase": true,
-      "Progressed": 41,
+      "Progressed": 42,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-10T23:57:30.9159633+00:00",
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2024-01-12T04:04:49.873673+00:00",
+  "LastChanged_Achievements": "2024-01-12T05:04:41.8586908+00:00",
   "LastUpdate_AppInfo": "2024-01-11T03:56:56.4911103+00:00",
-  "LastUpdate_Ratings": "2024-01-12T04:03:10.540927+00:00",
-  "LastUpdate_Achievements": "2024-01-12T04:04:49.8736839+00:00"
+  "LastUpdate_Ratings": "2024-01-12T05:02:59.3041084+00:00",
+  "LastUpdate_Achievements": "2024-01-12T05:04:41.858705+00:00"
 }
