@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 695,
+  "EOS_Progressed": 696,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1974,6 +1974,11 @@
       "Time": "2024-01-11T18:10:06.2318456+00:00",
       "NumProgressed": 695,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T04:10:04.8011372+00:00",
+      "NumProgressed": 696,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2057,7 +2062,7 @@
       "Name": "Gladiator",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "GoblinTales",
@@ -2105,7 +2110,7 @@
       "Name": "Inquisitor",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "Librarian",
@@ -2121,7 +2126,7 @@
       "Name": "Lumberjack",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Marksman",
@@ -2169,7 +2174,7 @@
       "Name": "Orcs Must Die!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Pyromancer",
@@ -2241,7 +2246,7 @@
       "Name": "The End",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "TheFallen",
@@ -2304,7 +2309,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 695,
+      "Progressed": 696,
       "Completed": 1
     }
   ],
@@ -2312,8 +2317,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2024-01-12T01:47:25.1685373+00:00",
-  "LastChanged_Achievements": "2024-01-12T03:09:48.6256346+00:00",
+  "LastChanged_Achievements": "2024-01-12T04:10:04.8011369+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:09.081719+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:58:17.4631493+00:00",
-  "LastUpdate_Achievements": "2024-01-12T03:09:48.6256651+00:00"
+  "LastUpdate_Ratings": "2024-01-12T03:58:33.8039923+00:00",
+  "LastUpdate_Achievements": "2024-01-12T04:10:04.8011776+00:00"
 }

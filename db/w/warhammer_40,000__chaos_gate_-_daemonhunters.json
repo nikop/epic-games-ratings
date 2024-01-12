@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -843,7 +843,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3883,
+  "EOS_Progressed": 3884,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
@@ -5918,6 +5918,11 @@
       "Time": "2024-01-12T01:54:59.8238129+00:00",
       "NumProgressed": 3883,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T04:05:52.9077085+00:00",
+      "NumProgressed": 3884,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -5945,7 +5950,7 @@
       "Name": "Look Over There!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "BloodAndIron",
@@ -6089,7 +6094,7 @@
       "Name": "Hold Your Ground",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Kills_Auto",
@@ -6097,7 +6102,7 @@
       "Name": "Not So Fast...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Kills_Bleed",
@@ -6105,7 +6110,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -6121,7 +6126,7 @@
       "Name": "Executioner",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "Kills_Exterminator",
@@ -6153,7 +6158,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Kills_Streak",
@@ -6177,7 +6182,7 @@
       "Name": "An Ill Omen",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -6289,7 +6294,7 @@
       "Name": "Just a Scratch",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "NexusCompleted",
@@ -6465,28 +6470,28 @@
       "Name": "Hive Exterminator",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     }
   ],
   "AchievementSets": [
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3883,
+      "Progressed": 3884,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3883,
+      "Progressed": 3884,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-11T05:03:08.5740841+00:00",
-  "LastChanged_Achievements": "2024-01-12T03:05:41.0201204+00:00",
+  "LastChanged_Achievements": "2024-01-12T04:05:52.9077078+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:54.2702622+00:00",
-  "LastUpdate_Ratings": "2024-01-12T03:03:04.328076+00:00",
-  "LastUpdate_Achievements": "2024-01-12T03:05:41.0202214+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:03:18.0431852+00:00",
+  "LastUpdate_Achievements": "2024-01-12T04:05:52.9077949+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 398,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10746,9 +10746,9 @@
       "Count": 1092
     }
   ],
-  "EOS_Progressed": 132505,
+  "EOS_Progressed": 132509,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 793,
+  "EOS_NewPlayers": 797,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39436,6 +39436,11 @@
       "Time": "2024-01-12T03:09:36.5305958+00:00",
       "NumProgressed": 132505,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-12T04:09:53.0865535+00:00",
+      "NumProgressed": 132509,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39455,7 +39460,7 @@
       "Name": "Serenity Now!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7950
+      "UsersEstimate": 7951
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -39575,7 +39580,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7950
+      "UsersEstimate": 7951
     },
     {
       "ID": "combat_kill_cadavers",
@@ -39607,7 +39612,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7950
+      "UsersEstimate": 7951
     },
     {
       "ID": "combat_kill_fanatics",
@@ -39671,7 +39676,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7950
+      "UsersEstimate": 7951
     },
     {
       "ID": "combat_kill_pillagers",
@@ -39687,7 +39692,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7950
+      "UsersEstimate": 7951
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -39799,7 +39804,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9275
+      "UsersEstimate": 9276
     },
     {
       "ID": "hero_story_complete_all",
@@ -39967,7 +39972,7 @@
       "Name": "Battle Hardened",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "altar_of_hope_memory_equip_all_duelist",
@@ -39975,7 +39980,7 @@
       "Name": "Ma\u00EEtre De La Lame",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "combat_kill_chirurgeon",
@@ -40031,7 +40036,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -40039,7 +40044,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "quest_complete_crusader",
@@ -40078,21 +40083,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132505,
+      "Progressed": 132509,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7374,
+      "Progressed": 7378,
       "Completed": 824
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-11T21:01:00.9596735+00:00",
-  "LastChanged_Achievements": "2024-01-12T03:09:36.5305956+00:00",
+  "LastChanged_Achievements": "2024-01-12T04:09:53.0865533+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:59:50.5478034+00:00",
-  "LastUpdate_Achievements": "2024-01-12T03:09:36.5307734+00:00"
+  "LastUpdate_Ratings": "2024-01-12T03:59:59.6070847+00:00",
+  "LastUpdate_Achievements": "2024-01-12T04:09:53.0867301+00:00"
 }

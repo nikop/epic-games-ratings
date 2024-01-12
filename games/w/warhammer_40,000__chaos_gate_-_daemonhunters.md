@@ -6,13 +6,13 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 21.00% | ~815 |
-| Look Over There! | 15.00% | ~582 |
-| Not So Fast... | 15.00% | ~582 |
-| Watch Where You Step... | 15.00% | ~582 |
-| An Ill Omen | 15.00% | ~582 |
+| Executioner | 21.00% | ~816 |
+| Look Over There! | 15.00% | ~583 |
+| Not So Fast... | 15.00% | ~583 |
+| Watch Where You Step... | 15.00% | ~583 |
+| An Ill Omen | 15.00% | ~583 |
 | Purging Spree | 11.00% | ~427 |
-| Blood for the Blood God! | 9.00% | ~349 |
+| Blood for the Blood God! | 9.00% | ~350 |
 | Bloodless | 8.00% | ~311 |
 | Surgical Excision | 6.00% | ~233 |
 | Friendly Fire | 6.00% | ~233 |
@@ -21,9 +21,9 @@ Number of Ratings: 371  (23.09.2022)
 | A Foul Creche | 5.00% | ~194 |
 | Nemesis Master | 4.00% | ~155 |
 | Gunmaster | 4.00% | ~155 |
-| Hold Your Ground | 3.00% | ~116 |
-| Just a Scratch | 3.00% | ~116 |
-| Hive Exterminator | 3.00% | ~116 |
+| Hold Your Ground | 3.00% | ~117 |
+| Just a Scratch | 3.00% | ~117 |
+| Hive Exterminator | 3.00% | ~117 |
 | Daemonkeeper | 2.00% | ~78 |
 | Corruption Cleanser | 2.00% | ~78 |
 | Mind Like a Fortress | 2.00% | ~78 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,883 (Ranked 219)  
+Progressed: 3,884 (Ranked 219)  
 Completed: 0 (0.00%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 0 (0.00%) (Ranked 398)
 | 2024-01-09 | 3,864 | 0 |
 | 2024-01-10 | 3,875 | 0 |
 | 2024-01-11 | 3,880 | 0 |
-| 2024-01-12 | 3,883 | 0 |
+| 2024-01-12 | 3,884 | 0 |
 ## Awards
 Max (Character Customization): 233  (Ranked 286)  
 Sum: 502 (Ranked 336)  

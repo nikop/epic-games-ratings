@@ -4,7 +4,7 @@
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 278,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -1620,8 +1620,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-12T03:08:56.546204+00:00",
+  "LastChanged_Achievements": "2024-01-12T04:09:14.3217458+00:00",
   "LastUpdate_AppInfo": "2024-01-10T21:57:10.5143243+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:57:25.6842718+00:00",
-  "LastUpdate_Achievements": "2024-01-12T03:08:56.5462551+00:00"
+  "LastUpdate_Ratings": "2024-01-12T03:57:42.8389264+00:00",
+  "LastUpdate_Achievements": "2024-01-12T04:09:14.3218031+00:00"
 }

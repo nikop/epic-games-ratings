@@ -8,7 +8,7 @@ Rating: 4.29 (Ranked 885)
 | Bragging Rights | 55.00% | ~2,407 |
 | Big Spender | 53.00% | ~2,320 |
 | MVP | 53.00% | ~2,320 |
-| Stud Finder | 40.00% | ~1,751 |
+| Stud Finder | 41.00% | ~1,795 |
 | Dealmaker | 38.00% | ~1,663 |
 | ROTY | 32.00% | ~1,401 |
 | Roster Reshuffle | 31.00% | ~1,357 |

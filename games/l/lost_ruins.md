@@ -5,7 +5,7 @@ Rating: 4.85 (Ranked 40)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Inquisitor | 35.00% | ~243 |
+| Inquisitor | 35.00% | ~244 |
 | Goblin Tales | 28.00% | ~195 |
 | Bug Hunter | 23.00% | ~160 |
 | Boss Killer | 22.00% | ~153 |
@@ -16,10 +16,10 @@ Rating: 4.85 (Ranked 40)
 | Iconoclasm | 14.00% | ~97 |
 | Reincarnation | 14.00% | ~97 |
 | Librarian | 13.00% | ~90 |
-| Orcs Must Die! | 12.00% | ~83 |
-| The End | 12.00% | ~83 |
-| Gladiator | 11.00% | ~76 |
-| Lumberjack | 11.00% | ~76 |
+| Orcs Must Die! | 12.00% | ~84 |
+| The End | 12.00% | ~84 |
+| Gladiator | 11.00% | ~77 |
+| Lumberjack | 11.00% | ~77 |
 | Troubleshooter | 10.00% | ~70 |
 | Money Swag | 8.00% | ~56 |
 | Oops | 7.00% | ~49 |
@@ -46,7 +46,7 @@ Rating: 4.85 (Ranked 40)
 | Cryomancer | 0.30% | ~2 |
 | Hardboiled | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 695 (Ranked 329)  
+Progressed: 696 (Ranked 329)  
 Completed: 1 (0.14%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,6 +188,7 @@ Completed: 1 (0.14%) (Ranked 297)
 | 2024-01-09 | 689 | 1 |
 | 2024-01-10 | 693 | 1 |
 | 2024-01-11 | 695 | 1 |
+| 2024-01-12 | 696 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

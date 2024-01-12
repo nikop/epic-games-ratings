@@ -658,9 +658,9 @@
       "ID": "30",
       "SetID": "d37idgg",
       "Name": "Pulp! Mister Mystery",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "31",
@@ -857,8 +857,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2024-01-12T03:05:31.0968437+00:00",
+  "LastChanged_Achievements": "2024-01-12T04:05:43.0524614+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.4038986+00:00",
-  "LastUpdate_Ratings": "2024-01-12T03:00:13.2113952+00:00",
-  "LastUpdate_Achievements": "2024-01-12T03:05:31.09689+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:00:22.008796+00:00",
+  "LastUpdate_Achievements": "2024-01-12T04:05:43.0525272+00:00"
 }

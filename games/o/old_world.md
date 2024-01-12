@@ -47,6 +47,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 1.00% | ~165 |
 | Ishtar Gate | 1.00% | ~165 |
 | Lighthouse | 1.00% | ~165 |
+| Musaeum | 1.00% | ~165 |
 | Necropolis | 1.00% | ~165 |
 | Learn to Play 1 | 1.00% | ~165 |
 | Learn to Play 2 | 1.00% | ~165 |
@@ -60,8 +61,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 0.90% | ~148 |
 | Legendary Cities | 0.90% | ~148 |
 | Mausoleum | 0.90% | ~148 |
-| Musaeum | 0.90% | ~148 |
 | Hanging Gardens in Babylon | 0.80% | ~132 |
+| Intercessor | 0.80% | ~132 |
 | Valiant | 0.80% | ~132 |
 | Just Difficulty | 0.80% | ~132 |
 | Artisans | 0.80% | ~132 |
@@ -69,7 +70,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 0.80% | ~132 |
 | Building Wonders | 0.80% | ~132 |
 | Mythology | 0.80% | ~132 |
-| Intercessor | 0.70% | ~115 |
 | Champions | 0.70% | ~115 |
 | Learn to Play 3 | 0.70% | ~115 |
 | Persian Paganism | 0.70% | ~115 |
@@ -149,6 +149,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persia | 0.20% | ~33 |
 | Old World Order | 0.20% | ~33 |
 | Pantheon of Gods | 0.20% | ~33 |
+| Play a Free-For-All Game (>2 Players) | 0.20% | ~33 |
+| Play a Network Game | 0.20% | ~33 |
 | Capturing Cities | 0.20% | ~33 |
 | Ten Crowns | 0.20% | ~33 |
 | Siege Tower | 0.20% | ~33 |
@@ -245,11 +247,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hatti | 0.10% | ~16 |
 | Apadana in Parsa | 0.10% | ~16 |
 | Play a 1-v-1 Game | 0.10% | ~16 |
-| Play a Free-For-All Game (>2 Players) | 0.10% | ~16 |
 | Play a Hotseat Game | 0.10% | ~16 |
 | Play a LAN Game | 0.10% | ~16 |
 | Play a MP Teams Game | 0.10% | ~16 |
-| Play a Network Game | 0.10% | ~16 |
 | Play a Play-By-Cloud Game | 0.10% | ~16 |
 | Punic Wars | 0.10% | ~16 |
 | Colossus in Rhodes | 0.10% | ~16 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,479 (Ranked 170)  
+Progressed: 16,480 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -632,7 +632,7 @@ Completed: 5 (0.03%) (Ranked 356)
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
-| 2024-01-12 | 16,479 | 5 |
+| 2024-01-12 | 16,480 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,921 (Ranked 224)  

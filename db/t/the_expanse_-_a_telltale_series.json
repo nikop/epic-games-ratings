@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18877,
+  "EOS_Progressed": 18881,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 647,
+  "EOS_NewPlayers": 644,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -17083,6 +17083,11 @@
       "Time": "2024-01-12T02:33:31.5927262+00:00",
       "NumProgressed": 18877,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-12T04:03:29.4060247+00:00",
+      "NumProgressed": 18881,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17111,7 +17116,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2454
+      "UsersEstimate": 2455
     },
     {
       "ID": "12",
@@ -17119,7 +17124,7 @@
       "Name": "Data Archivist",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "13",
@@ -17127,7 +17132,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3398
+      "UsersEstimate": 3399
     },
     {
       "ID": "14",
@@ -17143,7 +17148,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2076
+      "UsersEstimate": 2077
     },
     {
       "ID": "16",
@@ -17151,7 +17156,7 @@
       "Name": "Drug Gifter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "17",
@@ -17159,7 +17164,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2265
+      "UsersEstimate": 2266
     },
     {
       "ID": "18",
@@ -17175,7 +17180,7 @@
       "Name": "Martian Music",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2454
+      "UsersEstimate": 2455
     },
     {
       "ID": "2",
@@ -17191,7 +17196,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "21",
@@ -17199,7 +17204,7 @@
       "Name": "Drone Dodger",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2265
+      "UsersEstimate": 2266
     },
     {
       "ID": "22",
@@ -17231,7 +17236,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "26",
@@ -17247,7 +17252,7 @@
       "Name": "Bosmang",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2454
+      "UsersEstimate": 2455
     },
     {
       "ID": "28",
@@ -17327,7 +17332,7 @@
       "Name": "Impossible Objects",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2454
+      "UsersEstimate": 2455
     },
     {
       "ID": "31",
@@ -17335,7 +17340,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "32",
@@ -17343,7 +17348,7 @@
       "Name": "Safe Cracker",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "33",
@@ -17351,7 +17356,7 @@
       "Name": "Zen Master",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "34",
@@ -17374,13 +17379,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18877,
+      "Progressed": 18881,
       "Completed": 63
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4831,
+      "Progressed": 4835,
       "Completed": 1291
     }
   ],
@@ -17388,8 +17393,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-11T01:50:11.8166633+00:00",
-  "LastChanged_Achievements": "2024-01-12T02:33:31.5927251+00:00",
+  "LastChanged_Achievements": "2024-01-12T04:03:29.4060243+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-12T03:00:20.0730951+00:00",
-  "LastUpdate_Achievements": "2024-01-12T02:33:31.5928171+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:00:29.0175562+00:00",
+  "LastUpdate_Achievements": "2024-01-12T04:03:29.4061982+00:00"
 }

@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 21.00% | ~34 |
-| Tinkerer | 16.00% | ~26 |
+| Self-Defence | 22.00% | ~35 |
+| Tinkerer | 17.00% | ~27 |
 | Welcome to the Club | 12.00% | ~19 |
-| A new World ahead | 9.00% | ~14 |
-| Don't Cry Wolf | 8.00% | ~13 |
+| A new World ahead | 10.00% | ~16 |
+| Don't Cry Wolf | 9.00% | ~14 |
 | Apprentice | 6.00% | ~10 |
 | Craftsmen | 4.00% | ~6 |
 | Defeat Tezuth | 4.00% | ~6 |
+| Freezing Cold | 4.00% | ~6 |
 | Locked and Loaded | 4.00% | ~6 |
-| Freezing Cold | 3.00% | ~5 |
 | Expert | 3.00% | ~5 |
 | The Golden Flash | 3.00% | ~5 |
 | Searing Heat | 2.00% | ~3 |

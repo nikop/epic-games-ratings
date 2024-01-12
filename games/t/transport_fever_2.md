@@ -26,9 +26,9 @@ Number of Ratings: 180  (23.09.2022)
 | First electric train arrived | 42.00% | ~1,033 |
 | First ship arrived | 42.00% | ~1,033 |
 | Exemplary student | 41.00% | ~1,008 |
+| First aircraft arrived | 38.00% | ~934 |
 | High speed | 38.00% | ~934 |
 | Transport shark | 37.00% | ~910 |
-| First aircraft arrived | 37.00% | ~910 |
 | Mass production | 32.00% | ~787 |
 | Aircraft entrepreneur | 30.00% | ~738 |
 | Crowd in a train | 28.00% | ~689 |
@@ -38,8 +38,8 @@ Number of Ratings: 180  (23.09.2022)
 | City | 25.00% | ~615 |
 | Transport tycoon | 21.00% | ~516 |
 | Old timer | 21.00% | ~516 |
+| Climate change | 20.00% | ~492 |
 | The ugly smell of success | 20.00% | ~492 |
-| Climate change | 19.00% | ~467 |
 | Heavily loaded | 19.00% | ~467 |
 | Bob Ross | 14.00% | ~344 |
 | Campaign expert | 10.00% | ~246 |

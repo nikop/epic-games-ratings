@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 79769,
+  "EOS_Progressed": 79770,
   "EOS_Completed": 432,
-  "EOS_NewPlayers": 688,
+  "EOS_NewPlayers": 689,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -29794,6 +29794,11 @@
       "Time": "2024-01-12T03:09:25.0793216+00:00",
       "NumProgressed": 79769,
       "NumCompleted": 432
+    },
+    {
+      "Time": "2024-01-12T04:09:41.8078916+00:00",
+      "NumProgressed": 79770,
+      "NumCompleted": 432
     }
   ],
   "TotalAchievements": 24,
@@ -29845,7 +29850,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16751
+      "UsersEstimate": 16752
     },
     {
       "ID": "FETCH",
@@ -29853,7 +29858,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 22335
+      "UsersEstimate": 22336
     },
     {
       "ID": "FOXIN_AROUND",
@@ -29877,7 +29882,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 14358
+      "UsersEstimate": 14359
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -29996,7 +30001,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 79769,
+      "Progressed": 79770,
       "Completed": 432
     }
   ],
@@ -30004,8 +30009,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-12T03:09:25.0793213+00:00",
+  "LastChanged_Achievements": "2024-01-12T04:09:41.8078913+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:00.3957366+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:58:19.7991794+00:00",
-  "LastUpdate_Achievements": "2024-01-12T03:09:25.0794837+00:00"
+  "LastUpdate_Ratings": "2024-01-12T03:58:35.7331081+00:00",
+  "LastUpdate_Achievements": "2024-01-12T04:09:41.8080498+00:00"
 }

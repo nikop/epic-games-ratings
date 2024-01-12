@@ -8,15 +8,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 13.00% | ~959 |
 | Lost and Found | 8.00% | ~590 |
-| Autodidact | 7.00% | ~9,275 |
+| Autodidact | 7.00% | ~9,276 |
 | This guy... again? | 7.00% | ~516 |
-| Serenity Now! | 6.00% | ~7,950 |
-| This Belongs in a Museum | 6.00% | ~7,950 |
-| Creep and Sleep | 6.00% | ~7,950 |
-| Overdue Notice | 6.00% | ~7,950 |
-| Escape from the Black Hole | 6.00% | ~7,950 |
-| Ploughshares to Swords | 6.00% | ~442 |
-| Bloody Graduation | 6.00% | ~442 |
+| Serenity Now! | 6.00% | ~7,951 |
+| This Belongs in a Museum | 6.00% | ~7,951 |
+| Creep and Sleep | 6.00% | ~7,951 |
+| Overdue Notice | 6.00% | ~7,951 |
+| Escape from the Black Hole | 6.00% | ~7,951 |
+| Ploughshares to Swords | 6.00% | ~443 |
+| Bloody Graduation | 6.00% | ~443 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,625 |
 | It Rings a Bell | 5.00% | ~6,625 |
 | Not Today! | 5.00% | ~6,625 |
@@ -75,8 +75,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | On This Long Road, We Found Redemption | 0.60% | ~44 |
 | Eidetic | 0.50% | ~663 |
 | Tears in the Rain | 0.40% | ~530 |
-| Battle Hardened | 0.40% | ~29 |
-| Maître De La Lame | 0.40% | ~29 |
+| Battle Hardened | 0.40% | ~30 |
+| Maître De La Lame | 0.40% | ~30 |
 | Circle of Life | 0.20% | ~265 |
 | Grand Slam | 0.20% | ~265 |
 | These Boots Are Made For Kickin' | 0.20% | ~15 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,505 (Ranked 91)  
+Progressed: 132,509 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 4 (0.00%) (Ranked 398)
 | 2024-01-09 | 132,315 | 3 |
 | 2024-01-10 | 132,395 | 4 |
 | 2024-01-11 | 132,491 | 4 |
-| 2024-01-12 | 132,505 | 4 |
+| 2024-01-12 | 132,509 | 4 |
 ## Awards
 Max (Character Customization): 8,002  (Ranked 51)  
 Sum: 21,592 (Ranked 58)  

@@ -5,44 +5,44 @@ Rating: 4.14 (Ranked 1,009)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 63.00% | ~1,417 |
+| Break Out | 63.00% | ~1,418 |
 | Trinity | 32.00% | ~720 |
 | The Collector | 26.00% | ~585 |
-| Find Allies | 25.00% | ~562 |
-| A Taste of Wrath | 25.00% | ~562 |
+| Find Allies | 25.00% | ~563 |
+| A Taste of Wrath | 25.00% | ~563 |
 | I Found It | 24.00% | ~540 |
-| Adventurer | 23.00% | ~517 |
-| Shatter Them All | 23.00% | ~517 |
-| Geared Up | 23.00% | ~517 |
+| Adventurer | 23.00% | ~518 |
+| Shatter Them All | 23.00% | ~518 |
+| Geared Up | 23.00% | ~518 |
+| Scholar | 23.00% | ~518 |
 | Fashion Victim | 22.00% | ~495 |
-| Scholar | 22.00% | ~495 |
-| Stone Collection | 21.00% | ~472 |
-| Tributes of Caladrias | 20.00% | ~450 |
-| Powerful Allies | 19.00% | ~427 |
-| Essence Blow | 13.00% | ~292 |
-| Big Bazar | 13.00% | ~292 |
-| Alchemist | 13.00% | ~292 |
+| Tributes of Caladrias | 21.00% | ~473 |
+| Stone Collection | 21.00% | ~473 |
+| Powerful Allies | 19.00% | ~428 |
+| Essence Blow | 13.00% | ~293 |
+| Big Bazar | 13.00% | ~293 |
+| Alchemist | 13.00% | ~293 |
 | The Mentor | 10.00% | ~225 |
-| Calm before the Storm | 9.00% | ~202 |
+| Calm before the Storm | 9.00% | ~203 |
 | To Battle | 8.00% | ~180 |
 | Godslayer | 8.00% | ~180 |
-| Airborne | 7.00% | ~157 |
-| Miner | 7.00% | ~157 |
+| Airborne | 7.00% | ~158 |
+| Miner | 7.00% | ~158 |
 | Clear Sight | 4.00% | ~90 |
 | Shatterer | 4.00% | ~90 |
 | Fine Feathers Make Fine Birds | 4.00% | ~90 |
-| Slayer | 3.00% | ~67 |
-| A Queen's Tale | 3.00% | ~67 |
+| Slayer | 3.00% | ~68 |
+| A Queen's Tale | 3.00% | ~68 |
 | Shardbearer | 2.00% | ~45 |
 | Flawless Victory | 2.00% | ~45 |
 | All There Is | 2.00% | ~45 |
 | False God | 2.00% | ~45 |
-| Forgemaster | 1.00% | ~22 |
-| Summiter | 1.00% | ~22 |
+| Forgemaster | 1.00% | ~23 |
+| Summiter | 1.00% | ~23 |
 | All That Gold | 0.80% | ~18 |
 | Feeling Fancy | 0.40% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,249 (Ranked 246)  
+Progressed: 2,251 (Ranked 246)  
 Completed: 4 (0.18%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 4 (0.18%) (Ranked 283)
 | 2024-01-09 | 2,146 | 3 |
 | 2024-01-10 | 2,213 | 4 |
 | 2024-01-11 | 2,245 | 4 |
-| 2024-01-12 | 2,249 | 4 |
+| 2024-01-12 | 2,251 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

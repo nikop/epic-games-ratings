@@ -5,8 +5,8 @@ Rating: 4.85 (Ranked 40)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 61.00% | ~1,647 |
-| Welcome to the Tower | 54.00% | ~1,458 |
+| That's the spirit | 61.00% | ~1,648 |
+| Welcome to the Tower | 54.00% | ~1,459 |
 | The great escape | 46.00% | ~1,242 |
 | The Preacher's fate | 44.00% | ~1,188 |
 | A new dawn | 37.00% | ~999 |
@@ -31,7 +31,7 @@ Rating: 4.85 (Ranked 40)
 | For its own good | 14.00% | ~378 |
 | Fashion victim | 9.00% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,700 (Ranked 236)  
+Progressed: 2,701 (Ranked 236)  
 Completed: 196 (7.26%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 196 (7.26%) (Ranked 57)
 | 2024-01-09 | 2,625 | 186 |
 | 2024-01-10 | 2,665 | 192 |
 | 2024-01-11 | 2,694 | 196 |
-| 2024-01-12 | 2,700 | 196 |
+| 2024-01-12 | 2,701 | 196 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

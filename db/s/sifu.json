@@ -8851,10 +8851,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12693,
       "NumberOfAwardsMax": 7171
+    },
+    {
+      "Time": "2024-01-12T04:03:11.9829281+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12695,
+      "NumberOfAwardsMax": 7171
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12693,
+  "NumberOfAwards": 12695,
   "NumberOfAwardsMax": 7171,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8904,7 +8910,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 646
+      "Count": 648
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8931,9 +8937,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 759645,
+  "EOS_Progressed": 759655,
   "EOS_Completed": 12983,
-  "EOS_NewPlayers": 5621,
+  "EOS_NewPlayers": 5631,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -33401,6 +33407,11 @@
       "Time": "2024-01-12T03:09:10.2676125+00:00",
       "NumProgressed": 759645,
       "NumCompleted": 12983
+    },
+    {
+      "Time": "2024-01-12T04:09:27.6081175+00:00",
+      "NumProgressed": 759655,
+      "NumCompleted": 12983
     }
   ],
   "TotalAchievements": 60,
@@ -33428,7 +33439,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22789
+      "UsersEstimate": 22790
     },
     {
       "ID": "04_Vengeance_H3",
@@ -33500,7 +33511,7 @@
       "Name": "Scareless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7596
+      "UsersEstimate": 7597
     },
     {
       "ID": "13_LowAge",
@@ -33572,7 +33583,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7596
+      "UsersEstimate": 7597
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -33580,7 +33591,7 @@
       "Name": "Street Fighting",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22789
+      "UsersEstimate": 22790
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -33588,7 +33599,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37982
+      "UsersEstimate": 37983
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -33596,7 +33607,7 @@
       "Name": "State of constant learning",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22789
+      "UsersEstimate": 22790
     },
     {
       "ID": "25_ShrineMind",
@@ -33604,7 +33615,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7596
+      "UsersEstimate": 7597
     },
     {
       "ID": "26_ShrineSpirit",
@@ -33620,7 +33631,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22789
+      "UsersEstimate": 22790
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -33660,7 +33671,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22789
+      "UsersEstimate": 22790
     },
     {
       "ID": "33_BladeOneShot",
@@ -33684,7 +33695,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7596
+      "UsersEstimate": 7597
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -33748,7 +33759,7 @@
       "Name": "Project Arena",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -33891,21 +33902,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 68946,
+      "Progressed": 68956,
       "Completed": 10806
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 759645,
+      "Progressed": 759655,
       "Completed": 12983
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2024-01-11T23:02:59.444706+00:00",
-  "LastChanged_Achievements": "2024-01-12T03:09:10.2676124+00:00",
+  "LastChanged": "2024-01-12T04:03:11.982928+00:00",
+  "LastChanged_Achievements": "2024-01-12T04:09:27.6081172+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.3871095+00:00",
-  "LastUpdate_Ratings": "2024-01-12T03:02:57.0789804+00:00",
-  "LastUpdate_Achievements": "2024-01-12T03:09:10.2677697+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:03:11.9829284+00:00",
+  "LastUpdate_Achievements": "2024-01-12T04:09:27.6082955+00:00"
 }

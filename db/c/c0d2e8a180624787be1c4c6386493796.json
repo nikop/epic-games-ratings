@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -1430,9 +1430,9 @@
       "ID": "KR4_ACHIEVEMENT_APEX_PREDATOR",
       "SetID": "caeik3h",
       "Name": "Apex Predator",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 100
     },
     {
       "ID": "KR4_ACHIEVEMENT_ASRA_MAX",
@@ -2061,8 +2061,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-12T03:03:48.2133741+00:00",
+  "LastChanged_Achievements": "2024-01-12T04:04:03.1364949+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:57:09.6176455+00:00",
-  "LastUpdate_Achievements": "2024-01-12T03:03:48.2134675+00:00"
+  "LastUpdate_Ratings": "2024-01-12T03:57:28.3139655+00:00",
+  "LastUpdate_Achievements": "2024-01-12T04:04:03.13659+00:00"
 }

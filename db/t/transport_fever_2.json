@@ -899,7 +899,7 @@
   ],
   "EOS_Progressed": 2459,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6962,9 +6962,9 @@
       "ID": "achAllClimates",
       "SetID": "dgl390n",
       "Name": "Climate change",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 492
     },
     {
       "ID": "achAllElecHighSpeed",
@@ -7106,9 +7106,9 @@
       "ID": "achFirstAircraftArrived",
       "SetID": "dgl390n",
       "Name": "First aircraft arrived",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 910
+      "UsersEstimate": 934
     },
     {
       "ID": "achFirstBusArrived",
@@ -7402,8 +7402,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2024-01-07T21:03:10.1496131+00:00",
-  "LastChanged_Achievements": "2024-01-12T03:08:57.7867015+00:00",
+  "LastChanged_Achievements": "2024-01-12T04:09:15.5533246+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:39.8048245+00:00",
-  "LastUpdate_Ratings": "2024-01-12T03:02:50.3558344+00:00",
-  "LastUpdate_Achievements": "2024-01-12T03:08:57.7867631+00:00"
+  "LastUpdate_Ratings": "2024-01-12T04:03:05.519517+00:00",
+  "LastUpdate_Achievements": "2024-01-12T04:09:15.5534116+00:00"
 }

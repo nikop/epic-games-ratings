@@ -2518,9 +2518,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 225418,
+  "EOS_Progressed": 225422,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 1359,
+  "EOS_NewPlayers": 1363,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -33218,6 +33218,11 @@
       "Time": "2024-01-12T03:04:23.3145462+00:00",
       "NumProgressed": 225418,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2024-01-12T04:04:37.5699825+00:00",
+      "NumProgressed": 225422,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 44,
@@ -33301,7 +33306,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 27050
+      "UsersEstimate": 27051
     },
     {
       "ID": "HappyLittleAccidents",
@@ -33317,7 +33322,7 @@
       "Name": "Happy Planning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15779
+      "UsersEstimate": 15780
     },
     {
       "ID": "HighFiveTheMoon",
@@ -33333,7 +33338,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 18033
+      "UsersEstimate": 18034
     },
     {
       "ID": "ItsRainingMen",
@@ -33349,7 +33354,7 @@
       "Name": "Jonin",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 18033
+      "UsersEstimate": 18034
     },
     {
       "ID": "Mercyful",
@@ -33381,7 +33386,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15779
+      "UsersEstimate": 15780
     },
     {
       "ID": "NoGimmicks",
@@ -33477,7 +33482,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 18033
+      "UsersEstimate": 18034
     },
     {
       "ID": "TanukiTime",
@@ -33573,22 +33578,22 @@
       "Name": "Yabu",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 18033
+      "UsersEstimate": 18034
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 225418,
+      "Progressed": 225422,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-10T11:57:40.3911972+00:00",
-  "LastChanged_Achievements": "2024-01-12T03:04:23.3145461+00:00",
+  "LastChanged_Achievements": "2024-01-12T04:04:37.5699822+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:34.88387+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:58:10.4316325+00:00",
-  "LastUpdate_Achievements": "2024-01-12T03:04:23.314701+00:00"
+  "LastUpdate_Ratings": "2024-01-12T03:58:28.1127342+00:00",
+  "LastUpdate_Achievements": "2024-01-12T04:04:37.5701838+00:00"
 }

@@ -43,7 +43,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Aeon | 2.00% | ~265 |
 | Your First Big Enemy | 2.00% | ~265 |
 | Truly Important Deed | 2.00% | ~265 |
-| Stay Underground | 2.00% | ~240 |
+| Stay Underground | 2.00% | ~241 |
 | The Final Threshold | 1.00% | ~132 |
 | Path of the Dragon | 1.00% | ~132 |
 | Path of the Legend | 1.00% | ~132 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,243 (Ranked 178)  
+Progressed: 13,244 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -390,6 +390,7 @@ Completed: 0 (0.00%) (Ranked 398)
 | 2024-01-09 | 13,184 | 0 |
 | 2024-01-10 | 13,227 | 0 |
 | 2024-01-11 | 13,243 | 0 |
+| 2024-01-12 | 13,244 | 0 |
 ## Awards
 Max (Character Customization): 1,781  (Ranked 130)  
 Sum: 7,217 (Ranked 127)  

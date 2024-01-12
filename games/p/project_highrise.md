@@ -8,8 +8,8 @@
 | Starting Skyward | 49.00% | ~255 |
 | Grime is Not Good | 42.00% | ~218 |
 | Floor Galore | 36.00% | ~187 |
+| Campaign Launch | 36.00% | ~187 |
 | Dinner Dash | 36.00% | ~187 |
-| Campaign Launch | 35.00% | ~182 |
 | Need a Consult | 33.00% | ~172 |
 | Upgrade Unlock | 33.00% | ~172 |
 | It's Technical | 32.00% | ~166 |

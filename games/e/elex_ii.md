@@ -8,14 +8,14 @@ Number of Ratings: 124  (23.09.2022)
 | ---- | ---------- | ----- |
 | Entrepreneur | 43.00% | ~101 |
 | Best Buddy | 37.00% | ~87 |
-| Civilian | 35.00% | ~82 |
+| Civilian | 35.00% | ~83 |
 | Role Model | 31.00% | ~73 |
-| Creator | 29.00% | ~68 |
+| Creator | 28.00% | ~66 |
 | Military Leader | 26.00% | ~61 |
 | Festival-goer | 26.00% | ~61 |
-| Peddler | 24.00% | ~56 |
+| Peddler | 24.00% | ~57 |
 | Commander | 20.00% | ~47 |
-| Irissa's Fate | 18.00% | ~42 |
+| Irissa's Fate | 19.00% | ~45 |
 | Pass A38 | 17.00% | ~40 |
 | Long-Haul Flyer | 16.00% | ~38 |
 | Family Reunion | 15.00% | ~35 |
@@ -23,12 +23,12 @@ Number of Ratings: 124  (23.09.2022)
 | Storyteller | 12.00% | ~28 |
 | Banker | 11.00% | ~26 |
 | Globetrotter | 11.00% | ~26 |
+| Alb | 11.00% | ~26 |
 | Berserker | 11.00% | ~26 |
-| Alb | 10.00% | ~24 |
-| Perfectionist | 9.00% | ~21 |
-| Lover | 9.00% | ~21 |
+| Perfectionist | 8.00% | ~19 |
 | Hunter | 8.00% | ~19 |
-| Hotshot | 7.00% | ~16 |
+| Lover | 8.00% | ~19 |
+| Hotshot | 7.00% | ~17 |
 | Treasure Hunter | 6.00% | ~14 |
 | Beam Me Up | 6.00% | ~14 |
 | Free as a Bird | 6.00% | ~14 |
@@ -45,8 +45,8 @@ Number of Ratings: 124  (23.09.2022)
 | Destroyer | 2.00% | ~5 |
 | Pack Rat | 1.00% | ~2 |
 | Outlaw | 1.00% | ~2 |
-| Defector | 0.90% | ~2 |
-| Ruthless | 0.90% | ~2 |
+| Defector | 0.80% | ~2 |
+| Ruthless | 0.80% | ~2 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |
 | Socializer | 0.00% | ~0 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235 (Ranked 425)  
+Progressed: 236 (Ranked 424)  
 Completed: 0 (0.00%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,6 +87,7 @@ Completed: 0 (0.00%) (Ranked 398)
 | 2024-01-09 | 225 | 0 |
 | 2024-01-10 | 233 | 0 |
 | 2024-01-11 | 235 | 0 |
+| 2024-01-12 | 236 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

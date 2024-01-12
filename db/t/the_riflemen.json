@@ -215,11 +215,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68981,
+  "EOS_Progressed": 68994,
   "EOS_Completed": 11760,
-  "EOS_NewPlayers": 4150,
+  "EOS_NewPlayers": 4163,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 17.05,
+  "EOS_Completed_Percentage": 17.04,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -16310,6 +16310,11 @@
       "Time": "2024-01-12T03:09:10.4254913+00:00",
       "NumProgressed": 68981,
       "NumCompleted": 11760
+    },
+    {
+      "Time": "2024-01-12T04:09:27.6481325+00:00",
+      "NumProgressed": 68994,
+      "NumCompleted": 11760
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -16330,7 +16335,7 @@
       "Name": "First blood",
       "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 51736
+      "UsersEstimate": 51746
     },
     {
       "ID": "grenadeKills",
@@ -16346,7 +16351,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2759
+      "UsersEstimate": 2760
     },
     {
       "ID": "headshots1000",
@@ -16433,7 +16438,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 68981,
+      "Progressed": 68994,
       "Completed": 11760
     }
   ],
@@ -16441,8 +16446,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2024-01-06T23:59:09.4867908+00:00",
-  "LastChanged_Achievements": "2024-01-12T03:09:10.4254911+00:00",
+  "LastChanged_Achievements": "2024-01-12T04:09:27.6481323+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.275557+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:57:25.7944548+00:00",
-  "LastUpdate_Achievements": "2024-01-12T03:09:10.4255879+00:00"
+  "LastUpdate_Ratings": "2024-01-12T03:57:42.8454019+00:00",
+  "LastUpdate_Achievements": "2024-01-12T04:09:27.6482222+00:00"
 }

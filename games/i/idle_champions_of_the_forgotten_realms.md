@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,138 |
+| A Brief Tour of the Realms | 4.00% | ~10,139 |
 | Beast Intentions | 2.00% | ~5,069 |
 | The Cursed Farmer | 2.00% | ~5,069 |
 | The Mad Wizard | 1.00% | ~2,535 |
@@ -52,6 +52,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 0.20% | ~507 |
 | Wet Feet | 0.20% | ~507 |
 | Supply Run | 0.20% | ~507 |
+| Vecna Lives! | 0.20% | ~439 |
 | Homecoming | 0.20% | ~507 |
 | The Lost Heir of Omu | 0.20% | ~507 |
 | Street War | 0.20% | ~507 |
@@ -157,7 +158,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flapjacks and Waffles | 0.10% | ~220 |
 | On the Hunt | 0.10% | ~253 |
 | Best Thay Ever | 0.10% | ~220 |
-| Vecna Lives! | 0.10% | ~220 |
 | Overwhelmed with Knowledge | 0.10% | ~220 |
 | A Demi-god's Defender | 0.10% | ~220 |
 | Vecna Loots! | 0.10% | ~220 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,454 (Ranked 70)  
+Progressed: 253,467 (Ranked 70)  
 Completed: 2,614 (1.03%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -820,7 +820,7 @@ Completed: 2,614 (1.03%) (Ranked 176)
 | 2024-01-09 | 253,044 | 2,606 |
 | 2024-01-10 | 253,250 | 2,611 |
 | 2024-01-11 | 253,420 | 2,614 |
-| 2024-01-12 | 253,454 | 2,614 |
+| 2024-01-12 | 253,467 | 2,614 |
 ## Awards
 Max (Great for Beginners): 5,770  (Ranked 74)  
 Sum: 33,451 (Ranked 41)  

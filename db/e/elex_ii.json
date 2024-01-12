@@ -5,9 +5,9 @@
   "Ranking_Rating": 885,
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
-  "Ranking_EOS_Progress": 425,
+  "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,7 +571,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 235,
+  "EOS_Progressed": 236,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
@@ -1506,6 +1506,11 @@
       "Time": "2024-01-11T17:04:55.1644112+00:00",
       "NumProgressed": 235,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T04:03:52.9992129+00:00",
+      "NumProgressed": 236,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1582,7 +1587,7 @@
       "Name": "Peddler",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "20WEAPONSCRAFTED",
@@ -1654,7 +1659,7 @@
       "Name": "Hotshot",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ALLCRAFT",
@@ -1708,7 +1713,7 @@
       "ID": "CHOSEABT",
       "SetID": "a1angca",
       "Name": "Defector",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -1716,9 +1721,9 @@
       "ID": "CHOSEALB",
       "SetID": "a1angca",
       "Name": "Alb",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "CHOSEBSK",
@@ -1756,9 +1761,9 @@
       "ID": "CONSTRUCTION",
       "SetID": "a1angca",
       "Name": "Creator",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 66
     },
     {
       "ID": "DESTRUCTION",
@@ -1772,9 +1777,9 @@
       "ID": "ENDGAME",
       "SetID": "a1angca",
       "Name": "Perfectionist",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "FINDALLIES",
@@ -1798,7 +1803,7 @@
       "Name": "Civilian",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "FINDCRONY",
@@ -1828,9 +1833,9 @@
       "ID": "FUTUREIRISSA",
       "SetID": "a1angca",
       "Name": "Irissa\u0027s Fate",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "HELPCHILDREN",
@@ -1876,7 +1881,7 @@
       "ID": "KILL30AMBIENT",
       "SetID": "a1angca",
       "Name": "Ruthless",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -1908,24 +1913,24 @@
       "ID": "LOVECAJA",
       "SetID": "a1angca",
       "Name": "Lover",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 235,
+      "Progressed": 236,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-12T03:03:37.9871229+00:00",
+  "LastChanged_Achievements": "2024-01-12T04:03:52.9992127+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:22.4582393+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:57:30.2084001+00:00",
-  "LastUpdate_Achievements": "2024-01-12T03:03:37.9871716+00:00"
+  "LastUpdate_Ratings": "2024-01-12T03:57:48.4542301+00:00",
+  "LastUpdate_Achievements": "2024-01-12T04:03:52.999279+00:00"
 }

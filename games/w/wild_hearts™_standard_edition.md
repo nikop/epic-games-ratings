@@ -14,7 +14,7 @@
 | Subsistence Skills | 48.00% | ~641 |
 | Memory Rouser | 47.00% | ~628 |
 | Fusion Conjuror | 45.00% | ~601 |
-| Kemono Hunter | 42.00% | ~561 |
+| Kemono Hunter | 43.00% | ~574 |
 | Helpful Heart | 39.00% | ~521 |
 | Expert Conjuror | 39.00% | ~521 |
 | Flawless Crystal | 37.00% | ~494 |
@@ -42,7 +42,7 @@
 | Karakuri Minato | 14.00% | ~187 |
 | Jack of All Trades | 13.00% | ~174 |
 | Canyon of Karakuri | 12.00% | ~160 |
-| Karakuri Fortress | 10.00% | ~134 |
+| Karakuri Fortress | 11.00% | ~147 |
 | Volatile Vocation | 9.00% | ~120 |
 | Tender Touch | 9.00% | ~120 |
 | Haven Hunter | 9.00% | ~120 |

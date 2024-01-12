@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -4411,9 +4411,9 @@
       "ID": "AchvNecro",
       "SetID": "1hj060c",
       "Name": "The Necroevolution",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 474
+      "UsersEstimate": 490
     },
     {
       "ID": "AchvNest",
@@ -4524,8 +4524,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-11T16:59:53.3701468+00:00",
-  "LastChanged_Achievements": "2024-01-12T03:09:23.8769372+00:00",
+  "LastChanged_Achievements": "2024-01-12T04:09:40.7557377+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:58:44.8697311+00:00",
-  "LastUpdate_Achievements": "2024-01-12T03:09:23.8769683+00:00"
+  "LastUpdate_Ratings": "2024-01-12T03:59:00.8252892+00:00",
+  "LastUpdate_Achievements": "2024-01-12T04:09:40.7557803+00:00"
 }

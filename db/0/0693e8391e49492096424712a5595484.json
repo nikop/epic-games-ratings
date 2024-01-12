@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 768,
-  "EOS_Completed": 54,
-  "EOS_NewPlayers": 59,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.03,
+  "EOS_Completed": 55,
+  "EOS_NewPlayers": 58,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 7.16,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -3134,6 +3134,11 @@
       "Time": "2024-01-12T01:53:17.5370152+00:00",
       "NumProgressed": 768,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2024-01-12T04:04:15.2010612+00:00",
+      "NumProgressed": 768,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 45,
@@ -3143,9 +3148,9 @@
       "ID": "AmanitaRun",
       "SetID": "db30heh",
       "Name": "Wild Run",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 338
+      "UsersEstimate": 346
     },
     {
       "ID": "BasiliskBroom",
@@ -3399,9 +3404,9 @@
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 422
+      "UsersEstimate": 430
     },
     {
       "ID": "PrincessThrone",
@@ -3455,9 +3460,9 @@
       "ID": "SleepingBasiliskAmanita",
       "SetID": "db30heh",
       "Name": "Wild Dreams",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 138
+      "UsersEstimate": 146
     },
     {
       "ID": "SleepingBasiliskPistol",
@@ -3505,13 +3510,13 @@
       "ID": "db30heh",
       "IsBase": true,
       "Progressed": 768,
-      "Completed": 54
+      "Completed": 55
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-12T03:04:00.6987689+00:00",
+  "LastChanged_Achievements": "2024-01-12T04:04:15.201061+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:55.0577875+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:58:47.1516256+00:00",
-  "LastUpdate_Achievements": "2024-01-12T03:04:00.6988273+00:00"
+  "LastUpdate_Ratings": "2024-01-12T03:59:02.9937409+00:00",
+  "LastUpdate_Achievements": "2024-01-12T04:04:15.2010989+00:00"
 }

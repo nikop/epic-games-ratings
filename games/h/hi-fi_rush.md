@@ -5,23 +5,23 @@ Rating: 4.86 (Ranked 31)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 55.00% | ~9,248 |
-| Start with a bang! | 54.00% | ~9,080 |
-| You can pet the cat! | 49.00% | ~8,239 |
+| Feeling the beat! | 55.00% | ~9,249 |
+| Start with a bang! | 54.00% | ~9,081 |
+| You can pet the cat! | 49.00% | ~8,240 |
 | Who put gears in there? | 40.00% | ~6,726 |
-| Cream of the Crop | 35.00% | ~5,885 |
+| Cream of the Crop | 35.00% | ~5,886 |
 | Thanks for the free chip, Peppermint! | 34.00% | ~5,717 |
-| You got this, Peppermint? | 30.00% | ~5,044 |
+| You got this, Peppermint? | 30.00% | ~5,045 |
 | Perfect Parry | 28.00% | ~4,708 |
 | Alright, that felt AWESOME! | 27.00% | ~4,540 |
-| I play my own way! | 24.00% | ~4,035 |
-| This will cost you big time | 22.00% | ~3,699 |
+| I play my own way! | 24.00% | ~4,036 |
+| This will cost you big time | 22.00% | ~3,700 |
 | Uh, they were broken when I got here | 21.00% | ~3,531 |
 | Z-shielding's got nothing on us! | 20.00% | ~3,363 |
 | Kissing the sky! | 19.00% | ~3,195 |
-| Whoa! There's ANOTHER health bar!? | 17.00% | ~2,858 |
-| Does that say weakpoint? | 17.00% | ~2,858 |
-| The Negotiator | 16.00% | ~2,690 |
+| Whoa! There's ANOTHER health bar!? | 17.00% | ~2,859 |
+| Does that say weakpoint? | 17.00% | ~2,859 |
+| The Negotiator | 16.00% | ~2,691 |
 | You must like calling me in, Chai | 14.00% | ~2,354 |
 | Headliner | 13.00% | ~2,186 |
 | Out in a puff of smoke | 13.00% | ~2,186 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 31)
 | Voices from within | 0.10% | ~15 |
 | Low budget finish | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,814 (Ranked 168)  
+Progressed: 16,816 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 8 (0.05%) (Ranked 339)
 | 2024-01-09 | 16,474 | 8 |
 | 2024-01-10 | 16,669 | 8 |
 | 2024-01-11 | 16,805 | 8 |
-| 2024-01-12 | 16,814 | 8 |
+| 2024-01-12 | 16,816 | 8 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 517)  
 Sum: 32 (Ranked 541)  

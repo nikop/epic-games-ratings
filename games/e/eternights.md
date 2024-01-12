@@ -27,7 +27,7 @@ Rating: 4.79 (Ranked 100)
 | Flawless | 5.00% | ~44 |
 | Plushyboy | 4.00% | ~35 |
 | LOVEassistant | 3.00% | ~27 |
-| True Player | 0.90% | ~8 |
+| True Player | 1.00% | ~9 |
 | Dreamboat | 0.90% | ~8 |
 | Bond Lord | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
