@@ -6,21 +6,21 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 72.00% | ~3,420 |
-| Ready for Winter | 61.00% | ~2,898 |
-| Ready for Summer | 48.00% | ~2,280 |
-| Cordon Bleu | 40.00% | ~1,900 |
-| Tapped! | 34.00% | ~1,615 |
+| Venture Outward | 72.00% | ~3,421 |
+| Ready for Winter | 61.00% | ~2,899 |
+| Ready for Summer | 48.00% | ~2,281 |
+| Cordon Bleu | 40.00% | ~1,901 |
+| Tapped! | 34.00% | ~1,616 |
 | Eureka | 29.00% | ~1,378 |
-| Scourge Slayer | 23.00% | ~1,092 |
+| Scourge Slayer | 23.00% | ~1,093 |
 | Science, Troglodyte! | 21.00% | ~998 |
 | Exceptional Skill | 20.00% | ~950 |
 | Home Sweet Home | 20.00% | ~950 |
 | Encyclopedic! | 18.00% | ~855 |
-| The Power of Family | 15.00% | ~712 |
+| The Power of Family | 15.00% | ~713 |
 | A Fortress Toppled! | 14.00% | ~665 |
 | Apex Predator | 14.00% | ~665 |
-| The Power of Faith | 11.00% | ~522 |
+| The Power of Faith | 11.00% | ~523 |
 | Strange amalgams | 10.00% | ~475 |
 | The Power of Freedom | 8.00% | ~380 |
 | Ace Detective | 7.00% | ~333 |
@@ -35,7 +35,7 @@ Number of Ratings: 266  (23.09.2022)
 | Ancestor's Pride | 4.00% | ~190 |
 | For All Aurai | 4.00% | ~190 |
 | Memory of a legend | 4.00% | ~190 |
-| Light of Levant | 3.00% | ~142 |
+| Light of Levant | 3.00% | ~143 |
 | Crowd Pleaser. | 2.00% | ~95 |
 | Perfect Defense | 2.00% | ~95 |
 | Power! To! The People! | 2.00% | ~95 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~14 |
 | The Absolute Pinnacle. | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,750 (Ranked 207)  
+Progressed: 4,752 (Ranked 207)  
 Completed: 5 (0.11%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 5 (0.11%) (Ranked 308)
 | 2024-01-09 | 4,681 | 5 |
 | 2024-01-10 | 4,724 | 5 |
 | 2024-01-11 | 4,735 | 5 |
-| 2024-01-12 | 4,750 | 5 |
+| 2024-01-12 | 4,752 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 505)  
 Sum: 246 (Ranked 402)  

@@ -10,30 +10,31 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 3.00% | ~496 |
 | Friendly Family | 3.00% | ~496 |
 | Play a Single Player Game | 3.00% | ~496 |
-| Able | 2.00% | ~330 |
-| Ambitious | 2.00% | ~330 |
-| Architect | 2.00% | ~330 |
-| Enlightened | 2.00% | ~330 |
-| Glorious | 2.00% | ~330 |
-| Good | 2.00% | ~330 |
-| Intrepid | 2.00% | ~330 |
-| Just | 2.00% | ~330 |
-| Keystone | 2.00% | ~330 |
-| Learned | 2.00% | ~330 |
-| Mason | 2.00% | ~330 |
-| Noble | 2.00% | ~330 |
-| Pioneer | 2.00% | ~330 |
-| Strong | 2.00% | ~330 |
-| Warrior | 2.00% | ~330 |
-| Developing Cities | 2.00% | ~330 |
-| Hanging Gardens | 2.00% | ~330 |
-| Oracle | 2.00% | ~330 |
-| Pyramids | 2.00% | ~330 |
-| Judaism | 2.00% | ~330 |
-| Babylonian Paganism | 2.00% | ~330 |
-| Greek Paganism | 2.00% | ~330 |
-| Naming Landmarks | 2.00% | ~330 |
-| Trade Caravan | 2.00% | ~330 |
+| Able | 2.00% | ~331 |
+| Ambitious | 2.00% | ~331 |
+| Architect | 2.00% | ~331 |
+| Enlightened | 2.00% | ~331 |
+| Glorious | 2.00% | ~331 |
+| Good | 2.00% | ~331 |
+| Intrepid | 2.00% | ~331 |
+| Just | 2.00% | ~331 |
+| Keystone | 2.00% | ~331 |
+| Learned | 2.00% | ~331 |
+| Mason | 2.00% | ~331 |
+| Noble | 2.00% | ~331 |
+| Pioneer | 2.00% | ~331 |
+| Strong | 2.00% | ~331 |
+| Warrior | 2.00% | ~331 |
+| Developing Cities | 2.00% | ~331 |
+| Hanging Gardens | 2.00% | ~331 |
+| Oracle | 2.00% | ~331 |
+| Pyramids | 2.00% | ~331 |
+| Learn to Play 1 | 2.00% | ~331 |
+| Judaism | 2.00% | ~331 |
+| Babylonian Paganism | 2.00% | ~331 |
+| Greek Paganism | 2.00% | ~331 |
+| Naming Landmarks | 2.00% | ~331 |
+| Trade Caravan | 2.00% | ~331 |
 | Regicide | 1.00% | ~165 |
 | Drillmaster | 1.00% | ~165 |
 | Brilliant | 1.00% | ~165 |
@@ -52,7 +53,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 1.00% | ~165 |
 | Musaeum | 1.00% | ~165 |
 | Necropolis | 1.00% | ~165 |
-| Learn to Play 1 | 1.00% | ~165 |
 | Learn to Play 2 | 1.00% | ~165 |
 | Christianity | 1.00% | ~165 |
 | Manichaeism | 1.00% | ~165 |
@@ -77,6 +77,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.70% | ~116 |
 | Learn to Play 3 | 0.70% | ~116 |
 | Greece | 0.70% | ~116 |
+| Power to the People | 0.70% | ~116 |
 | Persian Paganism | 0.70% | ~116 |
 | Points Victory | 0.70% | ~116 |
 | Victorious | 0.60% | ~99 |
@@ -85,7 +86,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.60% | ~99 |
 | Temple of Solomon | 0.60% | ~99 |
 | Pantheon | 0.60% | ~99 |
-| Power to the People | 0.60% | ~99 |
+| Via Recta Souk | 0.60% | ~99 |
 | Economic Reform | 0.60% | ~99 |
 | Legionary | 0.60% | ~99 |
 | Double Victory | 0.60% | ~99 |
@@ -99,7 +100,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.50% | ~83 |
 | Hittite Iron | 0.50% | ~83 |
 | Circus Maximus | 0.50% | ~83 |
-| Via Recta Souk | 0.50% | ~83 |
 | Industrial Progress | 0.50% | ~83 |
 | Military Prestige | 0.50% | ~83 |
 | Dualism | 0.50% | ~83 |
@@ -128,6 +128,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Cavalry | 0.40% | ~66 |
 | Phalangite | 0.40% | ~66 |
 | Turreted Elephant | 0.40% | ~66 |
+| All Nations | 0.40% | ~66 |
 | Deposed Tribe | 0.40% | ~66 |
 | Kushite Pyramids | 0.40% | ~66 |
 | Ishtar Gate in Babylon | 0.30% | ~50 |
@@ -139,7 +140,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.30% | ~50 |
 | Veneration | 0.30% | ~50 |
 | Cataphract Archer | 0.30% | ~50 |
-| All Nations | 0.30% | ~50 |
 | No Undo | 0.30% | ~50 |
 | Carthage - Ox Hide | 0.20% | ~33 |
 | Carthage - Riches and Influence | 0.20% | ~33 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,522 (Ranked 170)  
+Progressed: 16,535 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -632,7 +632,7 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
-| 2024-01-12 | 16,522 | 5 |
+| 2024-01-12 | 16,535 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,921 (Ranked 224)  

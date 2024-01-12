@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -267,9 +267,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 16897,
+  "EOS_Progressed": 16899,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1348,
+  "EOS_NewPlayers": 1347,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -11987,6 +11987,11 @@
       "Time": "2024-01-12T19:04:38.9573325+00:00",
       "NumProgressed": 16897,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-12T20:03:56.0034579+00:00",
+      "NumProgressed": 16899,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -11998,15 +12003,15 @@
       "Name": "Start with a bang!",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 9124
+      "UsersEstimate": 9125
     },
     {
       "ID": "Ach002",
       "SetID": "12n4k20",
       "Name": "Cream of the Crop",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 5914
+      "UsersEstimate": 6084
     },
     {
       "ID": "Ach003",
@@ -12014,7 +12019,7 @@
       "Name": "This will cost you big time",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 3717
+      "UsersEstimate": 3718
     },
     {
       "ID": "Ach004",
@@ -12110,7 +12115,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 5914
+      "UsersEstimate": 5915
     },
     {
       "ID": "Ach016",
@@ -12126,7 +12131,7 @@
       "Name": "I play my own way!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 4055
+      "UsersEstimate": 4056
     },
     {
       "ID": "Ach018",
@@ -12134,7 +12139,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2872
+      "UsersEstimate": 2873
     },
     {
       "ID": "Ach019",
@@ -12174,7 +12179,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 9293
+      "UsersEstimate": 9294
     },
     {
       "ID": "Ach024",
@@ -12190,7 +12195,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 5069
+      "UsersEstimate": 5070
     },
     {
       "ID": "Ach026",
@@ -12206,7 +12211,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 3379
+      "UsersEstimate": 3380
     },
     {
       "ID": "Ach028",
@@ -12238,7 +12243,7 @@
       "Name": "Perfect Parry",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 4731
+      "UsersEstimate": 4732
     },
     {
       "ID": "Ach032",
@@ -12254,7 +12259,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3717
+      "UsersEstimate": 3718
     },
     {
       "ID": "Ach034",
@@ -12278,7 +12283,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3379
+      "UsersEstimate": 3380
     },
     {
       "ID": "Ach037",
@@ -12366,7 +12371,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6759
+      "UsersEstimate": 6760
     },
     {
       "ID": "Ach048",
@@ -12374,7 +12379,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 4562
+      "UsersEstimate": 4563
     },
     {
       "ID": "Ach049",
@@ -12398,7 +12403,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8280
+      "UsersEstimate": 8281
     },
     {
       "ID": "Ach052",
@@ -12414,7 +12419,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2872
+      "UsersEstimate": 2873
     },
     {
       "ID": "Ach054",
@@ -12486,7 +12491,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "Ach063",
@@ -12565,13 +12570,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 16897,
+      "Progressed": 16899,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15418,
+      "Progressed": 15420,
       "Completed": 1930
     }
   ],
@@ -12579,8 +12584,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-12T13:03:48.8797963+00:00",
-  "LastChanged_Achievements": "2024-01-12T19:04:38.957332+00:00",
+  "LastChanged_Achievements": "2024-01-12T20:03:56.0034576+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:39.1696862+00:00",
-  "LastUpdate_Ratings": "2024-01-12T18:58:51.3651398+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:04:38.957448+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:58:19.3756347+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:03:56.0035799+00:00"
 }

@@ -35,10 +35,10 @@
 | Reincarnation Cycle Stopper | 18.00% | ~242 |
 | Left Arm Leverager | 16.00% | ~215 |
 | Human Believer | 16.00% | ~215 |
+| Style Seeker | 15.00% | ~201 |
 | Unrivaled in Arms | 15.00% | ~201 |
 | Quintessence of Form | 15.00% | ~201 |
 | Threaded Harmony | 15.00% | ~201 |
-| Style Seeker | 14.00% | ~188 |
 | Karakuri Minato | 14.00% | ~188 |
 | Jack of All Trades | 13.00% | ~174 |
 | Canyon of Karakuri | 12.00% | ~161 |

@@ -6,10 +6,10 @@ Rating: 4.55 (Ranked 530)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Camp | 70.00% | ~1,152 |
-| The Teleprobe | 56.00% | ~921 |
+| The Teleprobe | 56.00% | ~922 |
 | The City | 51.00% | ~839 |
 | The field base | 46.00% | ~757 |
-| The Alliance | 43.00% | ~707 |
+| The Alliance | 43.00% | ~708 |
 | Survivors | 40.00% | ~658 |
 | The Condor | 38.00% | ~625 |
 | The End | 37.00% | ~609 |
@@ -18,13 +18,13 @@ Rating: 4.55 (Ranked 530)
 | On her own | 22.00% | ~362 |
 | Peacemaker | 22.00% | ~362 |
 | Volcanologist | 22.00% | ~362 |
-| Fierce fight | 21.00% | ~345 |
+| Fierce fight | 21.00% | ~346 |
 | Evacuation | 20.00% | ~329 |
 | Beyond divisions | 18.00% | ~296 |
 | Flying Objects Operator | 17.00% | ~280 |
 | Another giant | 14.00% | ~230 |
 | I remember everything! | 13.00% | ~214 |
-| Violent solution | 10.00% | ~164 |
+| Violent solution | 10.00% | ~165 |
 | I leave no man behind | 9.00% | ~148 |
 | Innate curiosity | 7.00% | ~115 |
 | Ubiquitous holes | 6.00% | ~99 |
@@ -35,7 +35,7 @@ Rating: 4.55 (Ranked 530)
 | Convoy list | 0.90% | ~15 |
 | No more mistakes | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,645 (Ranked 265)  
+Progressed: 1,646 (Ranked 265)  
 Completed: 1 (0.06%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 1 (0.06%) (Ranked 333)
 | 2024-01-09 | 1,579 | 1 |
 | 2024-01-10 | 1,615 | 1 |
 | 2024-01-11 | 1,635 | 1 |
-| 2024-01-12 | 1,645 | 1 |
+| 2024-01-12 | 1,646 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

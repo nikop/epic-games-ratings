@@ -6,24 +6,24 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~13,609 |
-| What should I buy? | 80.00% | ~11,706 |
-| Focus! | 60.00% | ~8,780 |
-| Rescued Elder Ent | 60.00% | ~8,780 |
+| The Legend Begins | 93.00% | ~13,611 |
+| What should I buy? | 80.00% | ~11,708 |
+| Focus! | 60.00% | ~8,781 |
+| Rescued Elder Ent | 60.00% | ~8,781 |
 | The End of the Gold Mane Knights | 47.00% | ~6,878 |
-| False Goddess, Disappear | 39.00% | ~5,707 |
-| Rules of Etiquette | 37.00% | ~5,414 |
+| False Goddess, Disappear | 39.00% | ~5,708 |
+| Rules of Etiquette | 37.00% | ~5,415 |
 | Inventory Management | 32.00% | ~4,683 |
 | The Fall of the Leonia Order | 30.00% | ~4,390 |
 | Quick Movements | 30.00% | ~4,390 |
 | Go Home... | 27.00% | ~3,951 |
 | The Final Battle of the First Hero | 26.00% | ~3,805 |
-| The Hero Killer | 25.00% | ~3,658 |
+| The Hero Killer | 25.00% | ~3,659 |
 | Brain at Full Throttle | 20.00% | ~2,927 |
 | Rookies Welcome | 18.00% | ~2,634 |
-| Deadly Power | 16.00% | ~2,341 |
-| Castle Restoration Plans | 13.00% | ~1,902 |
-| The Dwarven Chandelier | 10.00% | ~1,463 |
+| Deadly Power | 16.00% | ~2,342 |
+| Castle Restoration Plans | 13.00% | ~1,903 |
+| The Dwarven Chandelier | 10.00% | ~1,464 |
 | Master of Speed | 9.00% | ~1,317 |
 | The Levitator | 8.00% | ~1,171 |
 | The God of Battle | 4.00% | ~585 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~146 |
 | Cold-Blooded | 0.60% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,633 (Ranked 175)  
+Progressed: 14,635 (Ranked 175)  
 Completed: 22 (0.15%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 22 (0.15%) (Ranked 291)
 | 2024-01-09 | 14,394 | 21 |
 | 2024-01-10 | 14,523 | 21 |
 | 2024-01-11 | 14,593 | 21 |
-| 2024-01-12 | 14,633 | 22 |
+| 2024-01-12 | 14,635 | 22 |
 ## Awards
 Max (Great for Beginners): 152  (Ranked 332)  
 Sum: 1,018 (Ranked 275)  

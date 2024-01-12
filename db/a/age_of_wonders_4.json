@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -779,7 +779,7 @@
   ],
   "EOS_Progressed": 7205,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11475,9 +11475,9 @@
       "ID": "9",
       "SetID": "3aa2279",
       "Name": "I\u0027ll Fight You All",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 14
     },
     {
       "ID": "45",
@@ -11626,8 +11626,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-11T22:58:38.2332491+00:00",
-  "LastChanged_Achievements": "2024-01-12T19:04:46.5111853+00:00",
+  "LastChanged_Achievements": "2024-01-12T20:04:01.2414975+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:00:03.1799421+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:04:46.5112696+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:59:07.2658938+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:04:01.2415791+00:00"
 }

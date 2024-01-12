@@ -5,13 +5,13 @@ Rating: 4.43 (Ranked 725)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 32.00% | ~9,366 |
-| Sector 2 | 29.00% | ~8,488 |
-| Crush That Cube! | 24.00% | ~7,025 |
-| Sector 3 | 24.00% | ~7,025 |
-| Sector 4 | 20.00% | ~5,854 |
-| Crush That Ball! | 19.00% | ~5,561 |
-| Sector 5 | 13.00% | ~3,805 |
+| Sector 1 | 32.00% | ~9,368 |
+| Sector 2 | 29.00% | ~8,490 |
+| Crush That Cube! | 24.00% | ~7,026 |
+| Sector 3 | 24.00% | ~7,026 |
+| Sector 4 | 20.00% | ~5,855 |
+| Crush That Ball! | 19.00% | ~5,562 |
+| Sector 5 | 13.00% | ~3,806 |
 | Sector 6 | 11.00% | ~3,220 |
 | Feeling the Blues | 8.00% | ~2,342 |
 | Squished | 8.00% | ~2,342 |
@@ -19,18 +19,18 @@ Rating: 4.43 (Ranked 725)
 | Sector 7 | 8.00% | ~2,342 |
 | Did That Work? -- No! | 7.00% | ~2,049 |
 | Master Room | 4.00% | ~1,171 |
-| The Collector | 2.00% | ~585 |
-| Bronze Trophy | 2.00% | ~585 |
-| Master Of The Collectables | 2.00% | ~585 |
-| Gold Trophy | 2.00% | ~585 |
-| Hopefully that's all of them! | 2.00% | ~585 |
-| Phew! | 2.00% | ~585 |
-| The Puzzle Master | 2.00% | ~585 |
-| Silver Trophy | 2.00% | ~585 |
-| Completed It. | 2.00% | ~585 |
-| Maxed Out | 2.00% | ~585 |
+| The Collector | 2.00% | ~586 |
+| Bronze Trophy | 2.00% | ~586 |
+| Master Of The Collectables | 2.00% | ~586 |
+| Gold Trophy | 2.00% | ~586 |
+| Hopefully that's all of them! | 2.00% | ~586 |
+| Phew! | 2.00% | ~586 |
+| The Puzzle Master | 2.00% | ~586 |
+| Silver Trophy | 2.00% | ~586 |
+| Completed It. | 2.00% | ~586 |
+| Maxed Out | 2.00% | ~586 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,269 (Ranked 142)  
+Progressed: 29,276 (Ranked 142)  
 Completed: 207 (0.71%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 207 (0.71%) (Ranked 200)
 | 2024-01-09 | 28,984 | 203 |
 | 2024-01-10 | 29,073 | 204 |
 | 2024-01-11 | 29,184 | 206 |
-| 2024-01-12 | 29,269 | 207 |
+| 2024-01-12 | 29,276 | 207 |
 ## Awards
 Max (Challenging Puzzles): 25  (Ranked 552)  
 Sum: 25 (Ranked 561)  

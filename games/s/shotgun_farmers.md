@@ -18,9 +18,9 @@
 | 10K | 29.00% | ~109 |
 | Amateur Survivor | 28.00% | ~91 |
 | 15K | 26.00% | ~98 |
+| Grave Digger | 23.00% | ~75 |
 | Drinking Problem | 22.00% | ~82 |
 | Quick-Draw Pod | 22.00% | ~72 |
-| Grave Digger | 22.00% | ~72 |
 | Pork Chop Express | 20.00% | ~75 |
 | Professional Survivor | 19.00% | ~62 |
 | Skin Of Your Teeth | 17.00% | ~64 |

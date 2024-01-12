@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 683,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 461,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2024-01-12T02:00:00+00:00",
     "PcReleaseDate": "2019-03-11T07:00:00+00:00",
@@ -73,9 +73,9 @@
       "ID": "1kAutomatons",
       "SetID": "c18da06",
       "Name": "Kill 1000 Automatons",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "200Attachments",
@@ -169,9 +169,9 @@
       "ID": "Kill100",
       "SetID": "c18da06",
       "Name": "Kill 100 Automatons",
-      "Percentage": 83,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Kill100k",
@@ -255,8 +255,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-12T23:09:03.0564734+00:00",
-  "LastChanged_Achievements": "2024-01-12T19:09:40.9604106+00:00",
+  "LastChanged_Achievements": "2024-01-12T20:09:15.0028277+00:00",
   "LastUpdate_AppInfo": "2024-01-08T02:21:08.020016+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:01:38.9223429+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:09:40.9604322+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:00:13.7586429+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:09:15.0028664+00:00"
 }

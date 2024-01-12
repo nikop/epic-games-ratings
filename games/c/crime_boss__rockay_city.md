@@ -8,8 +8,8 @@ Rating: 3.96 (Ranked 1,062)
 | Neophyte Ninja | 4.00% | ~3,737 |
 | First One’s Free | 4.00% | ~3,737 |
 | Downed but Not Outed | 4.00% | ~3,737 |
-| Too Old for This | 3.00% | ~2,802 |
-| Fancy Pants | 3.00% | ~2,802 |
+| Too Old for This | 3.00% | ~2,803 |
+| Fancy Pants | 3.00% | ~2,803 |
 | Underworld Initiate | 2.00% | ~1,868 |
 | Roid Ranger | 2.00% | ~1,868 |
 | Case Closed | 2.00% | ~1,868 |
@@ -24,13 +24,13 @@ Rating: 3.96 (Ranked 1,062)
 | True Player | 1.00% | ~934 |
 | I Like Trains | 0.80% | ~747 |
 | Freebooter | 0.80% | ~747 |
-| Legend Looter | 0.60% | ~560 |
-| Imports and Exports | 0.60% | ~560 |
-| Savvy Seeker | 0.60% | ~560 |
-| Foo Finder | 0.60% | ~560 |
-| Moneybags | 0.60% | ~560 |
-| Olympus Ascended | 0.60% | ~560 |
-| Ding Dong | 0.60% | ~560 |
+| Legend Looter | 0.60% | ~561 |
+| Imports and Exports | 0.60% | ~561 |
+| Savvy Seeker | 0.60% | ~561 |
+| Foo Finder | 0.60% | ~561 |
+| Moneybags | 0.60% | ~561 |
+| Olympus Ascended | 0.60% | ~561 |
+| Ding Dong | 0.60% | ~561 |
 | All that Glitters | 0.50% | ~109 |
 | Rockay Raider | 0.40% | ~374 |
 | Groundhog Days | 0.40% | ~374 |
@@ -47,7 +47,7 @@ Rating: 3.96 (Ranked 1,062)
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,416 (Ranked 103)  
+Progressed: 93,417 (Ranked 103)  
 Completed: 59 (0.06%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 59 (0.06%) (Ranked 333)
 | 2024-01-09 | 93,308 | 58 |
 | 2024-01-10 | 93,367 | 58 |
 | 2024-01-11 | 93,401 | 59 |
-| 2024-01-12 | 93,416 | 59 |
+| 2024-01-12 | 93,417 | 59 |
 ## Awards
 Max (Diverse Characters): 597  (Ranked 209)  
 Sum: 2,819 (Ranked 191)  

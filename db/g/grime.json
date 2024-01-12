@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 452,
+  "Ranking_Rating": 453,
   "Ranking_Popularity": 432,
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 84,
@@ -1879,9 +1879,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167820,
+  "EOS_Progressed": 167828,
   "EOS_Completed": 456,
-  "EOS_NewPlayers": 1158,
+  "EOS_NewPlayers": 1157,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22839,6 +22839,11 @@
       "Time": "2024-01-12T19:06:55.300645+00:00",
       "NumProgressed": 167820,
       "NumCompleted": 456
+    },
+    {
+      "Time": "2024-01-12T20:05:36.311494+00:00",
+      "NumProgressed": 167828,
+      "NumCompleted": 456
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22923,7 +22928,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3356
+      "UsersEstimate": 3357
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -23218,21 +23223,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167403,
+      "Progressed": 167411,
       "Completed": 1260
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167820,
+      "Progressed": 167828,
       "Completed": 456
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-12T18:57:16.5787168+00:00",
-  "LastChanged_Achievements": "2024-01-12T19:06:55.3006444+00:00",
+  "LastChanged_Achievements": "2024-01-12T20:05:36.3114927+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-12T18:57:16.5787176+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:06:55.3008187+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:57:12.7266417+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:05:36.3116362+00:00"
 }

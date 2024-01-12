@@ -1,22 +1,22 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.42 (Ranked 740)  
+Rating: 4.42 (Ranked 741)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~51,422 |
-| IT MAKES BOOM! | 9.00% | ~35,600 |
-| EXTRA BOOST | 6.00% | ~23,733 |
-| PROTECTED | 5.00% | ~19,778 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,822 |
-| PRO | 4.00% | ~15,822 |
-| AGGRESSIVE RACER | 3.00% | ~11,867 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,911 |
-| TRAINING HARD | 2.00% | ~7,911 |
-| BE OUR GUEST | 2.00% | ~7,911 |
-| ACE SPEEDSTER | 2.00% | ~7,911 |
-| A TIGER'S FEAR | 2.00% | ~7,911 |
+| ROOKIE | 13.00% | ~51,427 |
+| IT MAKES BOOM! | 9.00% | ~35,604 |
+| EXTRA BOOST | 6.00% | ~23,736 |
+| PROTECTED | 5.00% | ~19,780 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,824 |
+| PRO | 4.00% | ~15,824 |
+| AGGRESSIVE RACER | 3.00% | ~11,868 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,912 |
+| TRAINING HARD | 2.00% | ~7,912 |
+| BE OUR GUEST | 2.00% | ~7,912 |
+| ACE SPEEDSTER | 2.00% | ~7,912 |
+| A TIGER'S FEAR | 2.00% | ~7,912 |
 | RELEASE THE KRAKEN | 1.00% | ~3,956 |
 | ACE BRAWLER | 1.00% | ~3,956 |
 | DEFEAT OUR CHAMPION | 1.00% | ~3,956 |
@@ -28,9 +28,9 @@ Rating: 4.42 (Ranked 740)
 | THE EYE OF THE HUNTER | 0.90% | ~3,560 |
 | FRAMED! | 0.70% | ~2,769 |
 | ACE TRICKSTER | 0.70% | ~2,769 |
-| PERFECTLY POISED | 0.60% | ~2,373 |
+| PERFECTLY POISED | 0.60% | ~2,374 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 395,554 (Ranked 52)  
+Progressed: 395,596 (Ranked 52)  
 Completed: 1,580 (0.40%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,17 +293,17 @@ Completed: 1,580 (0.40%) (Ranked 240)
 | 2024-01-09 | 392,943 | 1,547 |
 | 2024-01-10 | 393,978 | 1,557 |
 | 2024-01-11 | 394,848 | 1,570 |
-| 2024-01-12 | 395,554 | 1,580 |
+| 2024-01-12 | 395,596 | 1,580 |
 ## Awards
 Max (Great for Beginners): 179  (Ranked 313)  
-Sum: 1,185 (Ranked 264)  
+Sum: 1,187 (Ranked 264)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 179 |
 | This game is Great for Quick Sessions | 166 |
 | This game has Diverse Characters | 129 |
-| This game has a Competitive Community | 102 |
+| This game has a Competitive Community | 104 |
 | This game has Playful Visuals | 99 |
 | This game has Amazing Characters | 89 |
 | This game is Highly Recommended | 88 |
@@ -418,4 +418,4 @@ Diff (max vs sum): 49
 | 2024-01-09 | 4.42 | 178 | 1,166 |
 | 2024-01-10 | 4.42 | 178 | 1,174 |
 | 2024-01-11 | 4.42 | 179 | 1,181 |
-| 2024-01-12 | 4.42 | 179 | 1,185 |
+| 2024-01-12 | 4.42 | 179 | 1,187 |

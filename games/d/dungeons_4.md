@@ -11,7 +11,7 @@ Rating: 4.75 (Ranked 150)
 | Hammer Time, Round Two | 81.00% | ~616 |
 | The Hellwoods | 77.00% | ~585 |
 | The Plains of Strothalm | 73.00% | ~555 |
-| Experienced Thalya | 71.00% | ~540 |
+| Experienced Thalya | 72.00% | ~547 |
 | Bad Elves Go Everywhere | 69.00% | ~524 |
 | Thalya's Concentrated Fury | 68.00% | ~517 |
 | Heroes’ Gorge | 66.00% | ~502 |

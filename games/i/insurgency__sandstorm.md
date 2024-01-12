@@ -6,15 +6,15 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~26,184 |
-| Wallbanger | 5.00% | ~26,184 |
-| Exploitative | 4.00% | ~20,947 |
-| High Speed Low Drag | 4.00% | ~20,947 |
-| Wet Feet | 4.00% | ~20,947 |
-| Checkpoint Victory | 3.00% | ~15,710 |
-| Lucky | 3.00% | ~15,710 |
-| Stylin' | 3.00% | ~15,710 |
-| Turf War | 3.00% | ~15,710 |
+| Point Shooting | 5.00% | ~26,185 |
+| Wallbanger | 5.00% | ~26,185 |
+| Exploitative | 4.00% | ~20,948 |
+| High Speed Low Drag | 4.00% | ~20,948 |
+| Wet Feet | 4.00% | ~20,948 |
+| Checkpoint Victory | 3.00% | ~15,711 |
+| Lucky | 3.00% | ~15,711 |
+| Stylin' | 3.00% | ~15,711 |
+| Turf War | 3.00% | ~15,711 |
 | Banged | 2.00% | ~10,474 |
 | First Blood | 2.00% | ~10,474 |
 | Flaccid Paralysis | 2.00% | ~10,474 |
@@ -27,8 +27,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 0.90% | ~4,713 |
 | Mount & Gun | 0.90% | ~4,713 |
 | Personal | 0.90% | ~4,713 |
-| Grounded | 0.80% | ~4,189 |
-| Play to Win | 0.80% | ~4,189 |
+| Grounded | 0.80% | ~4,190 |
+| Play to Win | 0.80% | ~4,190 |
 | Special Delivery | 0.70% | ~3,666 |
 | Firefight Victory | 0.60% | ~3,142 |
 | #1 | 0.60% | ~3,142 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~524 |
 | Road Hazard | 0.10% | ~524 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 523,680 (Ranked 40)  
+Progressed: 523,698 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,10 +309,10 @@ Completed: 2 (0.00%) (Ranked 399)
 | 2024-01-09 | 522,476 | 2 |
 | 2024-01-10 | 522,931 | 2 |
 | 2024-01-11 | 523,343 | 2 |
-| 2024-01-12 | 523,680 | 2 |
+| 2024-01-12 | 523,698 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 419  (Ranked 237)  
-Sum: 3,364 (Ranked 178)  
+Sum: 3,365 (Ranked 178)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -321,7 +321,7 @@ Diff (max vs sum): 59
 | This game is Extremely Fun | 389 |
 | This game has Competitive Players | 385 |
 | This game is Highly Recommended | 375 |
-| This game has Realistic Visuals | 368 |
+| This game has Realistic Visuals | 369 |
 | This game has Amazing Characters | 354 |
 | This game has Amazing Storytelling | 344 |
 | This game has a Competitive Community | 318 |
@@ -666,4 +666,4 @@ Diff (max vs sum): 59
 | 2024-01-09 | 4.61 | - | 417 | 3,347 |
 | 2024-01-10 | 4.61 | - | 417 | 3,355 |
 | 2024-01-11 | 4.61 | - | 418 | 3,358 |
-| 2024-01-12 | 4.61 | - | 419 | 3,364 |
+| 2024-01-12 | 4.61 | - | 419 | 3,365 |

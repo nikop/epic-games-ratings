@@ -36,12 +36,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Cold Hearted | 0.80% | ~1,943 |
 | I Am Overburdened | 0.80% | ~1,943 |
 | Shootout | 0.80% | ~1,943 |
+| Stone Touch | 0.80% | ~1,943 |
 | Toxic | 0.80% | ~1,943 |
 | Flesh Wound | 0.80% | ~1,943 |
 | Consecutive Curses | 0.70% | ~1,700 |
 | Who To Trust? | 0.70% | ~1,700 |
 | Destroy Your Fears | 0.70% | ~1,700 |
-| Stone Touch | 0.70% | ~1,700 |
 | Shadow Walker | 0.70% | ~1,700 |
 | Shapeshifting | 0.70% | ~1,700 |
 | What Doesn't Kill You | 0.70% | ~30 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,835 (Ranked 73)  
+Progressed: 242,837 (Ranked 73)  
 Completed: 305 (0.13%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,7 +412,7 @@ Completed: 305 (0.13%) (Ranked 300)
 | 2024-01-09 | 242,696 | 304 |
 | 2024-01-10 | 242,736 | 305 |
 | 2024-01-11 | 242,789 | 305 |
-| 2024-01-12 | 242,835 | 305 |
+| 2024-01-12 | 242,837 | 305 |
 ## Awards
 Max (Quickly Understood Controls): 1,515  (Ranked 139)  
 Sum: 11,795 (Ranked 89)  

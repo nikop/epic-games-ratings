@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Master trainee | 54.00% | ~50 |
-| You have three wishes left | 48.00% | ~44 |
-| Jung's dream | 38.00% | ~35 |
-| The battle of Great Britain | 38.00% | ~35 |
+| You have three wishes left | 49.00% | ~45 |
+| Jung's dream | 39.00% | ~36 |
+| The battle of Great Britain | 39.00% | ~36 |
 | Pulp! Where Monsters Dwell | 32.00% | ~29 |
 | A continent with chemistry | 29.00% | ~27 |
 | The happy farmer girl | 27.00% | ~25 |
+| A rival with no options | 26.00% | ~24 |
 | Giant | 25.00% | ~23 |
-| A rival with no options | 25.00% | ~23 |
 | Pulp! Terror Tales in the Night | 25.00% | ~23 |
 | Pulp! Out of this World | 23.00% | ~21 |
 | Diagnosis: fear | 23.00% | ~21 |
@@ -29,10 +29,10 @@
 | Blessed antennas | 15.00% | ~14 |
 | Kirlian's best disciple | 15.00% | ~14 |
 | The bully | 14.00% | ~13 |
+| Pulp! The Beyond | 13.00% | ~12 |
 | Blood Red Island | 12.00% | ~11 |
 | Bread and bocaua | 12.00% | ~11 |
 | Fanatacism is... poisonous | 12.00% | ~11 |
-| Pulp! The Beyond | 12.00% | ~11 |
 | The beast in the Oval Office | 11.00% | ~10 |
 | The adventurer | 11.00% | ~10 |
 | The scholar | 10.00% | ~9 |

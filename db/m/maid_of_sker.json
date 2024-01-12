@@ -2,10 +2,10 @@
   "ID": "89a30c2a3fdb4281b5df57350e797ca9",
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
-  "Ranking_EOS_Progress": 406,
+  "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 296,
+  "EOS_Progressed": 297,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -835,6 +835,11 @@
       "Time": "2024-01-11T19:04:41.6008903+00:00",
       "NumProgressed": 296,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T20:05:15.9257681+00:00",
+      "NumProgressed": 297,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -886,7 +891,7 @@
       "Name": "Choking Hazard",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "dodgy_geezer",
@@ -910,7 +915,7 @@
       "Name": "Easy Listening",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ending_on_a_high_note",
@@ -1030,7 +1035,7 @@
       "Name": "Rapturous Applause!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "scholar",
@@ -1054,7 +1059,7 @@
       "Name": "Smooth Operator",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "the_long_night",
@@ -1085,7 +1090,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 296,
+      "Progressed": 297,
       "Completed": 0
     }
   ],
@@ -1093,8 +1098,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2024-01-12T19:06:27.9392092+00:00",
+  "LastChanged_Achievements": "2024-01-12T20:05:15.9257674+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:28.9331168+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:01:10.2531079+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:06:27.9392371+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:59:53.2550227+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:05:15.925798+00:00"
 }

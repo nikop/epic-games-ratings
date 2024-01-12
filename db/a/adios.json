@@ -141,9 +141,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83354,
+  "EOS_Progressed": 83356,
   "EOS_Completed": 929,
-  "EOS_NewPlayers": 584,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -29971,6 +29971,11 @@
       "Time": "2024-01-12T19:05:59.2244398+00:00",
       "NumProgressed": 83354,
       "NumCompleted": 929
+    },
+    {
+      "Time": "2024-01-12T20:04:54.6345347+00:00",
+      "NumProgressed": 83356,
+      "NumCompleted": 929
     }
   ],
   "TotalAchievements": 25,
@@ -29998,7 +30003,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15837
+      "UsersEstimate": 15838
     },
     {
       "ID": "Audiophile",
@@ -30086,7 +30091,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17504
+      "UsersEstimate": 17505
     },
     {
       "ID": "Meaty",
@@ -30102,7 +30107,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15837
+      "UsersEstimate": 15838
     },
     {
       "ID": "Nice Try",
@@ -30181,7 +30186,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83354,
+      "Progressed": 83356,
       "Completed": 929
     }
   ],
@@ -30189,8 +30194,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-12T19:05:59.2244394+00:00",
+  "LastChanged_Achievements": "2024-01-12T20:04:54.6345342+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.3609745+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:02:09.7165579+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:05:59.2246121+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:00:33.6354474+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:04:54.6346884+00:00"
 }

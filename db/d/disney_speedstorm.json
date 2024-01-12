@@ -2,7 +2,7 @@
   "ID": "47bf168a2214456fb7bd4c217e2a4fd6",
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
-  "Ranking_Rating": 740,
+  "Ranking_Rating": 741,
   "Ranking_Popularity": 313,
   "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 52,
@@ -2743,10 +2743,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 1185,
       "NumberOfAwardsMax": 179
+    },
+    {
+      "Time": "2024-01-12T19:59:24.092+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 1187,
+      "NumberOfAwardsMax": 179
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1185,
+  "NumberOfAwards": 1187,
   "NumberOfAwardsMax": 179,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2796,7 +2802,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 102
+      "Count": 104
     },
     {
       "Text": "This game has Competitive Players",
@@ -2823,10 +2829,10 @@
       "Count": 62
     }
   ],
-  "EOS_Progressed": 395554,
+  "EOS_Progressed": 395596,
   "EOS_Completed": 1580,
-  "EOS_NewPlayers": 9324,
-  "EOS_NewCompleters": 116,
+  "EOS_NewPlayers": 9251,
+  "EOS_NewCompleters": 114,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
     {
@@ -20698,6 +20704,11 @@
       "Time": "2024-01-12T19:08:54.7096275+00:00",
       "NumProgressed": 395554,
       "NumCompleted": 1580
+    },
+    {
+      "Time": "2024-01-12T20:08:41.4779417+00:00",
+      "NumProgressed": 395596,
+      "NumCompleted": 1580
     }
   ],
   "TotalAchievements": 24,
@@ -20709,7 +20720,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 7911
+      "UsersEstimate": 7912
     },
     {
       "ID": "10",
@@ -20717,7 +20728,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 23733
+      "UsersEstimate": 23736
     },
     {
       "ID": "11",
@@ -20725,7 +20736,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 2373
+      "UsersEstimate": 2374
     },
     {
       "ID": "12",
@@ -20733,7 +20744,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7911
+      "UsersEstimate": 7912
     },
     {
       "ID": "13",
@@ -20749,7 +20760,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 35600
+      "UsersEstimate": 35604
     },
     {
       "ID": "15",
@@ -20773,7 +20784,7 @@
       "Name": "BE OUR GUEST",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7911
+      "UsersEstimate": 7912
     },
     {
       "ID": "18",
@@ -20797,7 +20808,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 7911
+      "UsersEstimate": 7912
     },
     {
       "ID": "20",
@@ -20805,7 +20816,7 @@
       "Name": "PROTECTED",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 19778
+      "UsersEstimate": 19780
     },
     {
       "ID": "21",
@@ -20829,7 +20840,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 7911
+      "UsersEstimate": 7912
     },
     {
       "ID": "24",
@@ -20837,7 +20848,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 15822
+      "UsersEstimate": 15824
     },
     {
       "ID": "3",
@@ -20853,7 +20864,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 11867
+      "UsersEstimate": 11868
     },
     {
       "ID": "5",
@@ -20861,7 +20872,7 @@
       "Name": "ROOKIE",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 51422
+      "UsersEstimate": 51427
     },
     {
       "ID": "6",
@@ -20869,7 +20880,7 @@
       "Name": "PRO",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 15822
+      "UsersEstimate": 15824
     },
     {
       "ID": "7",
@@ -20900,16 +20911,16 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 395554,
+      "Progressed": 395596,
       "Completed": 1580
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2024-01-12T19:00:28.9568988+00:00",
-  "LastChanged_Achievements": "2024-01-12T19:08:54.7096271+00:00",
+  "LastChanged": "2024-01-12T19:59:24.0919998+00:00",
+  "LastChanged_Achievements": "2024-01-12T20:08:41.4779412+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.3145678+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:00:28.9568994+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:08:54.7097188+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:59:24.0920004+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:08:41.4780381+00:00"
 }

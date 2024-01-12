@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 641,
   "Ranking_EOS_Completed": 64,
   "Ranking_EOS_NewPlayers": 479,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-26T23:00:00+00:00",
     "PcReleaseDate": "2023-12-24T23:00:00+00:00",
@@ -167,9 +167,9 @@
       "ID": "GUARDIAN",
       "SetID": "d0gblle",
       "Name": "Hellfire",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "HEART",
@@ -254,8 +254,8 @@
   ],
   "FirstSeen": "2023-12-29T14:58:56.0005709+00:00",
   "FirstSeenAchievements": "2023-12-19T21:04:20.7899526+00:00",
-  "LastChanged_Achievements": "2024-01-12T19:07:08.5539775+00:00",
+  "LastChanged_Achievements": "2024-01-12T20:05:45.3940066+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:57:00.8169788+00:00",
-  "LastUpdate_Ratings": "2024-01-12T18:58:30.5079612+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:07:08.5539877+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:58:04.0562604+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:05:45.3940172+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 327,
+  "EOS_Progressed": 328,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.92,
+  "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:57.7196507+00:00",
@@ -855,6 +855,11 @@
       "Time": "2024-01-11T18:05:37.9265921+00:00",
       "NumProgressed": 327,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-12T20:06:14.1691054+00:00",
+      "NumProgressed": 328,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -864,9 +869,9 @@
       "ID": "a_woman_scorned",
       "SetID": "2db2j74",
       "Name": "A Woman Scorned",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 89
     },
     {
       "ID": "book_em_danny",
@@ -890,7 +895,7 @@
       "Name": "Chameleon",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "chicken",
@@ -946,7 +951,7 @@
       "Name": "Patient Listener",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "play_it_again_sam",
@@ -962,7 +967,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "poetent",
@@ -978,7 +983,7 @@
       "Name": "Put A Ring On It",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "show_me_some_skin",
@@ -1033,7 +1038,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 327,
+      "Progressed": 328,
       "Completed": 3
     }
   ],
@@ -1041,8 +1046,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2024-01-12T19:07:48.460746+00:00",
+  "LastChanged_Achievements": "2024-01-12T20:06:14.1691051+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:51.7616566+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:03:36.852072+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:07:48.46077+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:03:10.7564228+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:06:14.1691539+00:00"
 }

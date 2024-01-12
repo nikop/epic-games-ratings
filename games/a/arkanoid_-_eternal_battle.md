@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Final square (Eternal Battle) | 67.00% | ~6 |
 | I'll be back | 44.00% | ~4 |
+| Combo Pro | 33.00% | ~3 |
 | Chain Reaction | 33.00% | ~3 |
 | Victory Royale | 33.00% | ~3 |
-| Combo Pro | 22.00% | ~2 |
 | Sense of Priorities | 22.00% | ~2 |
 | Business Acumen | 22.00% | ~2 |
 | Sound Barrier | 22.00% | ~2 |

@@ -4,8 +4,8 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 416,
+  "EOS_Progressed": 417,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -1821,6 +1821,11 @@
       "Time": "2024-01-12T11:09:02.3300353+00:00",
       "NumProgressed": 416,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T20:08:53.6541454+00:00",
+      "NumProgressed": 417,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1832,7 +1837,7 @@
       "Name": "Lover of classics",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ETUA_AloneInTheDark",
@@ -1928,7 +1933,7 @@
       "Name": "Forced to Kill",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -2024,7 +2029,7 @@
       "Name": "Rest In Peace",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ETUA_SUPER",
@@ -2151,7 +2156,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 416,
+      "Progressed": 417,
       "Completed": 1
     }
   ],
@@ -2159,8 +2164,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2024-01-12T19:09:11.2319936+00:00",
+  "LastChanged_Achievements": "2024-01-12T20:08:53.6541449+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:36.5425929+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:00:21.8374939+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:09:11.2320351+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:59:19.8223721+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:08:53.6541976+00:00"
 }

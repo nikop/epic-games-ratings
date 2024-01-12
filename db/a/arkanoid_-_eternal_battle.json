@@ -4,8 +4,8 @@
   "ProductSlug": "arkanoid-eternal-battle-e1b089",
   "Ranking_EOS_Progress": 668,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 538,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 537,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-10-27T05:00:00+00:00",
     "PcReleaseDate": "2022-10-27T05:00:00+00:00",
@@ -117,9 +117,9 @@
       "ID": "Achievement_14",
       "SetID": "nl7ma1",
       "Name": "Combo Pro",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement_15",
@@ -262,8 +262,8 @@
   "FirstSeenRating": "2023-03-31T06:57:05.6220405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.465852+00:00",
   "LastChanged": "2023-03-31T06:57:05.6220407+00:00",
-  "LastChanged_Achievements": "2024-01-12T19:09:46.5326766+00:00",
+  "LastChanged_Achievements": "2024-01-12T20:09:18.8243794+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.2792664+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:02:03.7378867+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:09:46.5326973+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:00:29.6743018+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:09:18.8243912+00:00"
 }

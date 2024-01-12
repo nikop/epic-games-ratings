@@ -5,9 +5,9 @@ Rating: 4.77 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,259 |
-| No more cages! | 90.00% | ~3,088 |
-| Everfrost | 77.00% | ~2,642 |
+| For Demacia | 95.00% | ~3,260 |
+| No more cages! | 90.00% | ~3,089 |
+| Everfrost | 77.00% | ~2,643 |
 | Pentakill | 76.00% | ~2,608 |
 | Dark Forest | 76.00% | ~2,608 |
 | The use of petricite | 73.00% | ~2,505 |
@@ -19,18 +19,18 @@ Rating: 4.77 (Ranked 119)
 | Elemental master | 38.00% | ~1,304 |
 | Past trauma | 38.00% | ~1,304 |
 | Cypress Glen Headquarters | 35.00% | ~1,201 |
-| Old friend | 33.00% | ~1,132 |
-| Petricite Burst | 33.00% | ~1,132 |
+| Old friend | 33.00% | ~1,133 |
+| Petricite Burst | 33.00% | ~1,133 |
 | Devineur | 32.00% | ~1,098 |
 | Hijack | 31.00% | ~1,064 |
 | Whispers in the Woods I | 28.00% | ~961 |
 | I chose my shackles | 28.00% | ~961 |
 | Ancient power | 28.00% | ~961 |
-| Sacred Woods | 27.00% | ~926 |
-| Little light | 24.00% | ~823 |
-| Glyndemere | 24.00% | ~823 |
-| Capelworth | 24.00% | ~823 |
-| Full equipped | 24.00% | ~823 |
+| Sacred Woods | 27.00% | ~927 |
+| Little light | 24.00% | ~824 |
+| Glyndemere | 24.00% | ~824 |
+| Capelworth | 24.00% | ~824 |
+| Full equipped | 24.00% | ~824 |
 | Iffighain Headquarters | 23.00% | ~789 |
 | Whispers in the Woods II | 19.00% | ~652 |
 | No more holding back | 19.00% | ~652 |
@@ -53,13 +53,13 @@ Rating: 4.77 (Ranked 119)
 | Do you trust me? | 12.00% | ~412 |
 | The great mage rebellion starts now | 12.00% | ~412 |
 | Back to sleep, then... | 12.00% | ~412 |
-| Chains master | 11.00% | ~377 |
-| You can pet the... horse | 11.00% | ~377 |
+| Chains master | 11.00% | ~378 |
+| You can pet the... horse | 11.00% | ~378 |
 | Spellcrafting | 10.00% | ~343 |
 | Silverwing nest | 2.00% | ~69 |
 | The Unshackled | 1.00% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,431 (Ranked 228)  
+Progressed: 3,432 (Ranked 228)  
 Completed: 23 (0.67%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 23 (0.67%) (Ranked 203)
 | 2024-01-09 | 3,388 | 22 |
 | 2024-01-10 | 3,415 | 23 |
 | 2024-01-11 | 3,423 | 23 |
-| 2024-01-12 | 3,431 | 23 |
+| 2024-01-12 | 3,432 | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

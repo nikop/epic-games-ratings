@@ -2,13 +2,13 @@
   "ID": "03ecca4e19a9483aa05b3d99948c43ce",
   "Name": "Tom Clancy\u0027s The Division",
   "ProductSlug": "the-division",
-  "Ranking_Rating": 452,
+  "Ranking_Rating": 430,
   "Ranking_Popularity": 231,
   "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2016-03-08T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "NumberOfRatings": 247,
   "RatingHistory": [
     {
@@ -3095,10 +3095,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1230,
       "NumberOfAwardsMax": 453
+    },
+    {
+      "Time": "2024-01-12T19:59:18.5911194+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1232,
+      "NumberOfAwardsMax": 453
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1230,
+  "NumberOfAwards": 1232,
   "NumberOfAwardsMax": 453,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3130,7 +3136,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 54
+      "Count": 56
     },
     {
       "Text": "This game has Competitive Players",
@@ -3198,8 +3204,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2024-01-12T07:59:43.9760871+00:00",
+  "LastChanged": "2024-01-12T19:59:18.5911192+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:25.2519389+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:00:19.9559872+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:08:24.4367809+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:59:18.5911197+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:08:19.9567454+00:00"
 }

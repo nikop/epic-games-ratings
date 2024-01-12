@@ -8179,10 +8179,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4877,
       "NumberOfAwardsMax": 633
+    },
+    {
+      "Time": "2024-01-12T20:00:01.186244+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4880,
+      "NumberOfAwardsMax": 633
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4877,
+  "NumberOfAwards": 4880,
   "NumberOfAwardsMax": 633,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8226,7 +8232,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 574
+      "Count": 576
     },
     {
       "Text": "This game is Relaxing",
@@ -8244,7 +8250,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 375
+      "Count": 376
     },
     {
       "Text": "This game is Educational",
@@ -8253,9 +8259,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 215484,
+  "EOS_Progressed": 215512,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 3194,
+  "EOS_NewPlayers": 3195,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -38978,6 +38984,11 @@
       "Time": "2024-01-12T19:10:23.6606315+00:00",
       "NumProgressed": 215484,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-12T20:09:46.9961389+00:00",
+      "NumProgressed": 215512,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 16,
@@ -38997,7 +39008,7 @@
       "Name": "Crowd Control",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "Achievement_10",
@@ -39021,7 +39032,7 @@
       "Name": "Get Busy Living",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 32323
+      "UsersEstimate": 32327
     },
     {
       "ID": "Achievement_13",
@@ -39029,7 +39040,7 @@
       "Name": "It\u0027s Not What You Know...",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "Achievement_14",
@@ -39037,7 +39048,7 @@
       "Name": "... It\u0027s What You Can Prove",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "Achievement_15",
@@ -39069,7 +39080,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 53871
+      "UsersEstimate": 53878
     },
     {
       "ID": "Achievement_5",
@@ -39085,7 +39096,7 @@
       "Name": "Confined",
       "Percentage": 0.3,
       "XP": 120,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "Achievement_7",
@@ -39101,7 +39112,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 19394
+      "UsersEstimate": 19396
     },
     {
       "ID": "Achievement_9",
@@ -39109,22 +39120,22 @@
       "Name": "Spare The Rod",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8619
+      "UsersEstimate": 8620
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 215484,
+      "Progressed": 215512,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2024-01-12T17:59:45.8953083+00:00",
-  "LastChanged_Achievements": "2024-01-12T19:10:23.6606311+00:00",
+  "LastChanged": "2024-01-12T20:00:01.1862438+00:00",
+  "LastChanged_Achievements": "2024-01-12T20:09:46.9961384+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:20.5242713+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:01:21.7011154+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:10:23.6607922+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:00:01.1862444+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:09:46.9963668+00:00"
 }

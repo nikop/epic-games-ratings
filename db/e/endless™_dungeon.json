@@ -4,8 +4,8 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1534,
+  "EOS_Progressed": 1535,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3410,6 +3410,11 @@
       "Time": "2024-01-11T09:07:17.6692839+00:00",
       "NumProgressed": 1534,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T20:03:33.3924848+00:00",
+      "NumProgressed": 1535,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3502,7 +3507,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -3518,7 +3523,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -3566,7 +3571,7 @@
       "Name": "Hoarder",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -3661,14 +3666,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1534,
+      "Progressed": 1535,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-12T19:04:08.4635699+00:00",
+  "LastChanged_Achievements": "2024-01-12T20:03:33.3924843+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:32.4570132+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:00:56.1712125+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:04:08.4636117+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:59:43.4248233+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:03:33.3925224+00:00"
 }

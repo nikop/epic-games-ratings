@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9461,10 +9461,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33463,
       "NumberOfAwardsMax": 5774
+    },
+    {
+      "Time": "2024-01-12T19:59:34.1425103+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33467,
+      "NumberOfAwardsMax": 5774
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33463,
+  "NumberOfAwards": 33467,
   "NumberOfAwardsMax": 5774,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9496,7 +9502,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4321
+      "Count": 4325
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9511,9 +9517,9 @@
       "Count": 3635
     }
   ],
-  "EOS_Progressed": 253570,
+  "EOS_Progressed": 253577,
   "EOS_Completed": 2614,
-  "EOS_NewPlayers": 1954,
+  "EOS_NewPlayers": 1938,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39821,6 +39827,11 @@
       "Time": "2024-01-12T19:11:05.4648443+00:00",
       "NumProgressed": 253570,
       "NumCompleted": 2614
+    },
+    {
+      "Time": "2024-01-12T20:10:19.4976047+00:00",
+      "NumProgressed": 253577,
+      "NumCompleted": 2614
     }
   ],
   "TotalAchievements": 546,
@@ -40200,7 +40211,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5071
+      "UsersEstimate": 5072
     },
     {
       "ID": "objective_completed_110",
@@ -41504,7 +41515,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5071
+      "UsersEstimate": 5072
     },
     {
       "ID": "objective_completed_34",
@@ -44199,21 +44210,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219844,
+      "Progressed": 219851,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253570,
+      "Progressed": 253577,
       "Completed": 2614
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-12T15:00:30.3477007+00:00",
-  "LastChanged_Achievements": "2024-01-12T19:11:05.4648437+00:00",
+  "LastChanged": "2024-01-12T19:59:34.1425101+00:00",
+  "LastChanged_Achievements": "2024-01-12T20:10:19.4976043+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:00:43.8469+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:11:05.4672522+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:59:34.1425109+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:10:19.4999531+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -3314,9 +3314,9 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 665
+      "UsersEstimate": 674
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -3523,8 +3523,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-10T15:58:31.5106151+00:00",
-  "LastChanged_Achievements": "2024-01-12T19:09:43.4290202+00:00",
+  "LastChanged_Achievements": "2024-01-12T20:09:16.9367879+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.7410286+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:00:14.3714522+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:09:43.4290546+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:59:14.8268612+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:09:16.9368295+00:00"
 }

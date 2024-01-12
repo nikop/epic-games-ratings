@@ -2,13 +2,13 @@
   "ID": "c6e54ebd92da4ee8819c1c0956cebdc4",
   "Name": "OUTRIDERS",
   "ProductSlug": "outriders",
-  "Ranking_Rating": 740,
+  "Ranking_Rating": 725,
   "Ranking_Popularity": 141,
   "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-04-15T16:00:00+00:00",
     "PcReleaseDate": "2021-04-01T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "NumberOfRatings": 1201,
   "RatingHistory": [
     {
@@ -3800,6 +3800,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 3073,
       "NumberOfAwardsMax": 1376
+    },
+    {
+      "Time": "2024-01-12T19:59:33.4958649+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 3073,
+      "NumberOfAwardsMax": 1376
     }
   ],
   "ReviewsDisabled": false,
@@ -3885,8 +3891,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:16.889814+00:00",
-  "LastChanged": "2024-01-12T19:00:42.9277747+00:00",
+  "LastChanged": "2024-01-12T19:59:33.4958647+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:37.8978556+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:00:42.9277754+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:08:10.110799+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:59:33.4958653+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:06:30.0538895+00:00"
 }

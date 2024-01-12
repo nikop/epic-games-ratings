@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
     "PcReleaseDate": "2022-10-27T11:00:00+00:00",
@@ -370,9 +370,9 @@
       "ID": "ACH_08_WESTERN_RANCH",
       "SetID": "9loam6m",
       "Name": "Western ranch",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_09_RESCUE_DOG",
@@ -490,9 +490,9 @@
       "ID": "ACH_23_SLALOM",
       "SetID": "9loam6m",
       "Name": "Slalom",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_24_WILD_WEST",
@@ -657,8 +657,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2024-01-12T19:04:22.8878083+00:00",
+  "LastChanged_Achievements": "2024-01-12T20:03:44.1313019+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:11.6252135+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:02:31.1715602+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:04:22.8878314+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:02:47.0438209+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:03:44.1313581+00:00"
 }

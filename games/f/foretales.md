@@ -30,8 +30,8 @@
 | The pelican brief | 7.00% | ~21 |
 | The Good Place | 7.00% | ~21 |
 | Trial by combat | 7.00% | ~21 |
+| A bard day's night | 6.00% | ~18 |
 | Peaceful protest | 6.00% | ~18 |
-| A bard day's night | 5.00% | ~15 |
 | Money talks | 5.00% | ~15 |
 | Squid Game | 4.00% | ~12 |
 | Lyre lyre pants on fyre | 4.00% | ~12 |

@@ -18,7 +18,7 @@ Rating: 3.68 (Ranked 1,096)
 | Enter of Your Own Free Will | 10.00% | ~237 |
 | Welcome to the Neighborhood | 10.00% | ~237 |
 | Throw The First Stone | 10.00% | ~237 |
-| Heart Attack | 9.00% | ~213 |
+| Heart Attack | 10.00% | ~237 |
 | Skin of Their Teeth | 9.00% | ~213 |
 | Grounded | 8.00% | ~190 |
 | Bad Wiring | 7.00% | ~166 |

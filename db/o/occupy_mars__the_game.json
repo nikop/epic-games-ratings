@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1882,
+  "EOS_Progressed": 1883,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5033,6 +5033,11 @@
       "Time": "2024-01-12T06:10:25.7431208+00:00",
       "NumProgressed": 1882,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T20:09:38.2520027+00:00",
+      "NumProgressed": 1883,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5130,9 +5135,9 @@
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
       "SetID": "l546gc",
       "Name": "5G Network",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALIENS",
@@ -5164,7 +5169,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -5236,7 +5241,7 @@
       "Name": "Gardener",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -5290,9 +5295,9 @@
       "ID": "NEW_ACHIEVEMENT_MINER",
       "SetID": "l546gc",
       "Name": "Miner",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 489
+      "UsersEstimate": 471
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -5427,7 +5432,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1882,
+      "Progressed": 1883,
       "Completed": 0
     }
   ],
@@ -5435,8 +5440,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2024-01-09T16:02:23.0830001+00:00",
-  "LastChanged_Achievements": "2024-01-12T19:10:12.3037758+00:00",
+  "LastChanged_Achievements": "2024-01-12T20:09:38.2520022+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.830509+00:00",
-  "LastUpdate_Ratings": "2024-01-12T18:57:36.2491844+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:10:12.3038289+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:57:26.3674944+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:09:38.252055+00:00"
 }

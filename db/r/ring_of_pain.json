@@ -3910,9 +3910,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242835,
+  "EOS_Progressed": 242837,
   "EOS_Completed": 305,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31590,6 +31590,11 @@
       "Time": "2024-01-12T19:11:02.9119764+00:00",
       "NumProgressed": 242835,
       "NumCompleted": 305
+    },
+    {
+      "Time": "2024-01-12T20:10:17.1069251+00:00",
+      "NumProgressed": 242837,
+      "NumCompleted": 305
     }
   ],
   "TotalAchievements": 138,
@@ -32255,9 +32260,9 @@
       "ID": "PETRIFY50",
       "SetID": "5l8oe0h",
       "Name": "Stone Touch",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1943
     },
     {
       "ID": "PLAY10HOURS",
@@ -32704,13 +32709,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242835,
+      "Progressed": 242837,
       "Completed": 305
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4315,
+      "Progressed": 4317,
       "Completed": 425
     }
   ],
@@ -32718,8 +32723,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-12T05:59:51.3980392+00:00",
-  "LastChanged_Achievements": "2024-01-12T19:11:02.9119757+00:00",
+  "LastChanged_Achievements": "2024-01-12T20:10:17.1069246+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:00:27.9396382+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:11:02.9122534+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:59:23.4695471+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:10:17.1072043+00:00"
 }

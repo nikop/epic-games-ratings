@@ -12,7 +12,7 @@ Number of Ratings: 706  (23.09.2022)
 | The First Day | 70.00% | ~5,536 |
 | Green Thumb | 68.00% | ~5,377 |
 | Novice Researcher | 68.00% | ~5,377 |
-| Home Cooked Meal | 62.00% | ~4,903 |
+| Home Cooked Meal | 63.00% | ~4,982 |
 | Onward | 58.00% | ~4,587 |
 | The First Week | 56.00% | ~4,428 |
 | Beam Me Up | 53.00% | ~4,191 |

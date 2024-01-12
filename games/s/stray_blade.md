@@ -14,10 +14,10 @@
 | Defeat Tezuth | 4.00% | ~6 |
 | Freezing Cold | 4.00% | ~6 |
 | Locked and Loaded | 4.00% | ~6 |
+| Can't touch this | 4.00% | ~6 |
 | Expert | 4.00% | ~6 |
 | Searing Heat | 3.00% | ~5 |
 | Witch | 3.00% | ~5 |
-| Can't touch this | 3.00% | ~5 |
 | The Golden Flash | 3.00% | ~5 |
 | Defeat Ingla | 2.00% | ~3 |
 | Through Dangers Untold | 2.00% | ~3 |

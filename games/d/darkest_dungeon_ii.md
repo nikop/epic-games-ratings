@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,040 |
-| Lost and Found | 8.00% | ~594 |
-| Autodidact | 7.00% | ~9,279 |
-| This guy... again? | 7.00% | ~520 |
+| Malpractice Assurance | 14.00% | ~1,041 |
+| Lost and Found | 8.00% | ~595 |
+| Autodidact | 7.00% | ~9,280 |
+| This guy... again? | 7.00% | ~521 |
 | Serenity Now! | 6.00% | ~7,954 |
 | This Belongs in a Museum | 6.00% | ~7,954 |
 | Creep and Sleep | 6.00% | ~7,954 |
@@ -27,13 +27,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 5.00% | ~6,628 |
 | A Place to Lay Your Head | 5.00% | ~6,628 |
 | FNG | 5.00% | ~6,628 |
-| Spelunker | 4.00% | ~5,302 |
-| Merry Time | 4.00% | ~5,302 |
-| Harvest Festival | 4.00% | ~5,302 |
-| Ramble On | 4.00% | ~5,302 |
-| Whale | 4.00% | ~5,302 |
-| Nope | 4.00% | ~5,302 |
-| Unshackled | 4.00% | ~5,302 |
+| Spelunker | 4.00% | ~5,303 |
+| Merry Time | 4.00% | ~5,303 |
+| Harvest Festival | 4.00% | ~5,303 |
+| Ramble On | 4.00% | ~5,303 |
+| Whale | 4.00% | ~5,303 |
+| Nope | 4.00% | ~5,303 |
+| Unshackled | 4.00% | ~5,303 |
 | Friends 'Til the End | 4.00% | ~297 |
 | Resurrection | 3.00% | ~3,977 |
 | Unleash Hell | 3.00% | ~3,977 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,562 (Ranked 91)  
+Progressed: 132,568 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,10 +343,10 @@ Completed: 4 (0.00%) (Ranked 399)
 | 2024-01-09 | 132,315 | 3 |
 | 2024-01-10 | 132,395 | 4 |
 | 2024-01-11 | 132,491 | 4 |
-| 2024-01-12 | 132,562 | 4 |
+| 2024-01-12 | 132,568 | 4 |
 ## Awards
 Max (Character Customization): 8,007  (Ranked 51)  
-Sum: 21,608 (Ranked 58)  
+Sum: 21,609 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -354,7 +354,7 @@ Diff (max vs sum): -7
 | This game has Diverse Characters | 1,846 |
 | This game has Challenging Combat | 1,679 |
 | This game is Highly Recommended | 1,603 |
-| This game has Amazing Characters | 1,531 |
+| This game has Amazing Characters | 1,532 |
 | This game is Extremely Fun | 1,522 |
 | This game has Unique Visuals | 1,467 |
 | This game has Amazing Storytelling | 1,445 |
@@ -714,4 +714,4 @@ Diff (max vs sum): -7
 | 2024-01-09 | 4.68 | - | 7,992 | 21,561 |
 | 2024-01-10 | 4.68 | - | 8,000 | 21,576 |
 | 2024-01-11 | 4.68 | - | 8,002 | 21,592 |
-| 2024-01-12 | 4.68 | - | 8,007 | 21,608 |
+| 2024-01-12 | 4.68 | - | 8,007 | 21,609 |

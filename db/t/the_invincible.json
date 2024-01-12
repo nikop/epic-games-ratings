@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -109,7 +109,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1645,
+  "EOS_Progressed": 1646,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
@@ -4324,6 +4324,11 @@
       "Time": "2024-01-12T19:10:19.7033463+00:00",
       "NumProgressed": 1645,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T20:09:43.9485037+00:00",
+      "NumProgressed": 1646,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4336,7 +4341,7 @@
       "Name": "The Teleprobe",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "AchvAllMemories",
@@ -4360,7 +4365,7 @@
       "Name": "Fierce fight",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "AchvBombStop",
@@ -4376,7 +4381,7 @@
       "Name": "Violent solution",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "AchvConvoyList",
@@ -4400,7 +4405,7 @@
       "Name": "The Alliance",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "AchvDoom",
@@ -4567,7 +4572,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1645,
+      "Progressed": 1646,
       "Completed": 1
     }
   ],
@@ -4575,8 +4580,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-12T16:59:53.3564711+00:00",
-  "LastChanged_Achievements": "2024-01-12T19:10:19.7033458+00:00",
+  "LastChanged_Achievements": "2024-01-12T20:09:43.9485032+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:00:19.0408559+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:10:19.703396+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:59:17.9518375+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:09:43.948558+00:00"
 }

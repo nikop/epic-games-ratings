@@ -4,7 +4,7 @@
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 591,
+  "EOS_Progressed": 592,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 3,
@@ -1924,6 +1924,11 @@
       "Time": "2024-01-12T19:05:16.8810357+00:00",
       "NumProgressed": 591,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-12T20:04:23.6304806+00:00",
+      "NumProgressed": 592,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -1936,7 +1941,7 @@
       "Name": "Good Morning",
       "Percentage": 17,
       "XP": 145,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ach2",
@@ -1991,14 +1996,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 591,
+      "Progressed": 592,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-12T19:05:16.8810351+00:00",
+  "LastChanged_Achievements": "2024-01-12T20:04:23.6304801+00:00",
   "LastUpdate_AppInfo": "2024-01-10T21:57:10.0738096+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:01:50.6082172+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:05:16.8810521+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:00:21.5074854+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:04:23.6304968+00:00"
 }

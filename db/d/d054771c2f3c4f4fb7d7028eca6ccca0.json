@@ -4,8 +4,8 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4005,
+  "EOS_Progressed": 4007,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4749,6 +4749,11 @@
       "Time": "2024-01-12T19:07:17.1539831+00:00",
       "NumProgressed": 4005,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T20:05:51.3604934+00:00",
+      "NumProgressed": 4007,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -4825,7 +4830,7 @@
       "Name": "Terrible Journey",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -4945,7 +4950,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -4961,7 +4966,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -5136,14 +5141,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 4005,
+      "Progressed": 4007,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-12T19:07:17.1539826+00:00",
+  "LastChanged_Achievements": "2024-01-12T20:05:51.3604927+00:00",
   "LastUpdate_AppInfo": "2024-01-09T13:13:37.5527845+00:00",
-  "LastUpdate_Ratings": "2024-01-12T18:58:07.2131824+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:07:17.1540447+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:57:49.0301371+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:05:51.3605889+00:00"
 }

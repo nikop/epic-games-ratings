@@ -4,8 +4,8 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -882,9 +882,9 @@
       "ID": "EpicACHV_15",
       "SetID": "acn799d",
       "Name": "The Divine Move",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "EpicACHV_16",
@@ -938,9 +938,9 @@
       "ID": "EpicACHV_6",
       "SetID": "acn799d",
       "Name": "Dunkleosteus",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 70,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "EpicACHV_7",
@@ -977,8 +977,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2024-01-12T19:09:32.3667912+00:00",
+  "LastChanged_Achievements": "2024-01-12T20:09:08.8022803+00:00",
   "LastUpdate_AppInfo": "2024-01-10T15:57:09.3841485+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:00:40.8519989+00:00",
-  "LastUpdate_Achievements": "2024-01-12T19:09:32.3668103+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:59:32.1657934+00:00",
+  "LastUpdate_Achievements": "2024-01-12T20:09:08.8022995+00:00"
 }

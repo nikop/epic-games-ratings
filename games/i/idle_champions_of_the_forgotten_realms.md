@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,143 |
-| Beast Intentions | 2.00% | ~5,071 |
-| The Cursed Farmer | 2.00% | ~5,071 |
+| Beast Intentions | 2.00% | ~5,072 |
+| The Cursed Farmer | 2.00% | ~5,072 |
 | The Mad Wizard | 1.00% | ~2,536 |
 | The Ring of Regeneration | 0.90% | ~2,282 |
 | Are Ya Chicken? | 0.90% | ~2,282 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,570 (Ranked 70)  
+Progressed: 253,577 (Ranked 70)  
 Completed: 2,614 (1.03%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -820,10 +820,10 @@ Completed: 2,614 (1.03%) (Ranked 177)
 | 2024-01-09 | 253,044 | 2,606 |
 | 2024-01-10 | 253,250 | 2,611 |
 | 2024-01-11 | 253,420 | 2,614 |
-| 2024-01-12 | 253,570 | 2,614 |
+| 2024-01-12 | 253,577 | 2,614 |
 ## Awards
 Max (Great for Beginners): 5,774  (Ranked 74)  
-Sum: 33,463 (Ranked 41)  
+Sum: 33,467 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -832,7 +832,7 @@ Diff (max vs sum): 33
 | This game has Quickly Understood Controls | 4,911 |
 | This game is Relaxing | 4,777 |
 | This game has Amazing Characters | 4,328 |
-| This game is Highly Recommended | 4,321 |
+| This game is Highly Recommended | 4,325 |
 | This game has Playful Visuals | 3,635 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -1188,4 +1188,4 @@ Diff (max vs sum): 33
 | 2024-01-09 | 4.06 | - | 5,768 | 33,417 |
 | 2024-01-10 | 4.06 | - | 5,770 | 33,432 |
 | 2024-01-11 | 4.06 | - | 5,770 | 33,451 |
-| 2024-01-12 | 4.06 | - | 5,774 | 33,463 |
+| 2024-01-12 | 4.06 | - | 5,774 | 33,467 |

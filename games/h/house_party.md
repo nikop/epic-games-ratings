@@ -29,7 +29,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Magic Number | 0.80% | ~59 |
 | Vickie | 0.80% | ~59 |
 | Amy: Scavenger Hunt | 0.70% | ~51 |
-| Deck the Balls | 0.70% | ~30 |
+| Deck the Balls | 0.70% | ~31 |
 | Now It's a Party! | 0.70% | ~51 |
 | Stephanie | 0.70% | ~51 |
 | Te Amo Lety | 0.70% | ~51 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.10% | ~4 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,318 (Ranked 196)  
+Progressed: 7,319 (Ranked 196)  
 Completed: 3 (0.04%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 3 (0.04%) (Ranked 352)
 | 2024-01-09 | 7,281 | 3 |
 | 2024-01-10 | 7,302 | 3 |
 | 2024-01-11 | 7,309 | 3 |
-| 2024-01-12 | 7,318 | 3 |
+| 2024-01-12 | 7,319 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
