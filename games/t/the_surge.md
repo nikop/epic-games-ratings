@@ -6,30 +6,30 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~5,071 |
-| I'll Be Back | 84.00% | ~4,532 |
-| Sorry, I Dropped This | 76.00% | ~4,100 |
-| First Day on the Job | 76.00% | ~4,100 |
-| Butcher's Bill | 54.00% | ~2,913 |
-| P.A.X | 36.00% | ~1,942 |
-| Hey Listen | 36.00% | ~1,942 |
-| OPERATOR | 35.00% | ~1,888 |
-| It's Blue Light | 33.00% | ~1,780 |
+| On My Own Two Feet | 94.00% | ~5,073 |
+| I'll Be Back | 84.00% | ~4,533 |
+| Sorry, I Dropped This | 76.00% | ~4,102 |
+| First Day on the Job | 76.00% | ~4,102 |
+| Butcher's Bill | 54.00% | ~2,914 |
+| P.A.X | 36.00% | ~1,943 |
+| Hey Listen | 36.00% | ~1,943 |
+| OPERATOR | 35.00% | ~1,889 |
+| It's Blue Light | 33.00% | ~1,781 |
 | Most Wanted | 26.00% | ~1,403 |
 | Infidel | 23.00% | ~1,241 |
 | Firebug | 20.00% | ~1,079 |
 | GOLIATH | 20.00% | ~1,079 |
 | I Choose You | 17.00% | ~917 |
 | Nothing to Lose | 17.00% | ~917 |
-| Big Sister | 15.00% | ~809 |
-| SENTINEL | 15.00% | ~809 |
-| Gear Up | 14.00% | ~755 |
-| The Black Cerberus | 12.00% | ~647 |
-| Watchman | 12.00% | ~647 |
-| Core Power | 12.00% | ~647 |
-| CREO Killed the Video Star | 11.00% | ~593 |
-| Who's in Charge Here? | 11.00% | ~593 |
-| Shall Not Pass | 11.00% | ~593 |
+| Big Sister | 15.00% | ~810 |
+| SENTINEL | 15.00% | ~810 |
+| Gear Up | 14.00% | ~756 |
+| The Black Cerberus | 12.00% | ~648 |
+| Watchman | 12.00% | ~648 |
+| Core Power | 12.00% | ~648 |
+| CREO Killed the Video Star | 11.00% | ~594 |
+| Who's in Charge Here? | 11.00% | ~594 |
+| Shall Not Pass | 11.00% | ~594 |
 | Right Tool for the Job | 10.00% | ~540 |
 | Raging Drones | 9.00% | ~486 |
 | Overconfident | 9.00% | ~486 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~32 |
 | The Surge | 0.40% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,395 (Ranked 204)  
+Progressed: 5,397 (Ranked 204)  
 Completed: 18 (0.33%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 18 (0.33%) (Ranked 253)
 | 2024-01-09 | 5,358 | 18 |
 | 2024-01-10 | 5,379 | 18 |
 | 2024-01-11 | 5,391 | 18 |
-| 2024-01-12 | 5,395 | 18 |
+| 2024-01-12 | 5,397 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 524)  
 Sum: 30 (Ranked 546)  

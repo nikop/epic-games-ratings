@@ -6,21 +6,21 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~14,724 |
-| Finding Your Footing | 25.00% | ~13,633 |
-| Nomad | 17.00% | ~9,271 |
-| Picking Up Speed | 15.00% | ~8,180 |
-| Welcome Maya | 14.00% | ~7,635 |
+| Rookie | 27.00% | ~14,726 |
+| Finding Your Footing | 25.00% | ~13,635 |
+| Nomad | 17.00% | ~9,272 |
+| Picking Up Speed | 15.00% | ~8,181 |
+| Welcome Maya | 14.00% | ~7,636 |
 | Scout | 11.00% | ~5,999 |
 | Sightseer | 11.00% | ~5,999 |
-| Amateur | 10.00% | ~5,453 |
+| Amateur | 10.00% | ~5,454 |
 | Unlock Maya | 8.00% | ~4,363 |
 | Wanderer | 8.00% | ~4,363 |
-| Enter Paz | 7.00% | ~3,817 |
+| Enter Paz | 7.00% | ~3,818 |
 | Aviator | 5.00% | ~2,727 |
 | My Little Friend | 5.00% | ~2,727 |
 | One With The Board | 5.00% | ~2,727 |
-| Voyager | 4.00% | ~2,181 |
+| Voyager | 4.00% | ~2,182 |
 | Junkie | 3.00% | ~1,636 |
 | Traveler | 3.00% | ~1,636 |
 | Unlock Paz | 3.00% | ~1,636 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~55 |
 | Windswept | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,533 (Ranked 123)  
+Progressed: 54,540 (Ranked 123)  
 Completed: 5 (0.01%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,10 +313,10 @@ Completed: 5 (0.01%) (Ranked 375)
 | 2024-01-09 | 54,193 | 5 |
 | 2024-01-10 | 54,339 | 5 |
 | 2024-01-11 | 54,454 | 5 |
-| 2024-01-12 | 54,533 | 5 |
+| 2024-01-12 | 54,540 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 51  (Ranked 456)  
-Sum: 396 (Ranked 358)  
+Sum: 397 (Ranked 358)  
 Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
@@ -324,8 +324,8 @@ Diff (max vs sum): 98
 | This game is Great for Beginners | 47 |
 | This game is Highly Recommended | 45 |
 | This game has Beautiful Visuals | 43 |
+| This game is Extremely Fun | 41 |
 | This game has Quickly Understood Controls | 41 |
-| This game is Extremely Fun | 40 |
 | This game is Relaxing | 38 |
 | This game has Diverse Characters | 34 |
 | This game has Amazing Storytelling | 30 |
@@ -461,3 +461,4 @@ Diff (max vs sum): 98
 | 2024-01-03 | 4.70 | - | 50 | 393 |
 | 2024-01-07 | 4.70 | - | 51 | 395 |
 | 2024-01-08 | 4.70 | - | 51 | 396 |
+| 2024-01-12 | 4.70 | - | 51 | 397 |

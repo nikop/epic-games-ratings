@@ -55,6 +55,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Trader - Level 2 | 0.10% | ~8 |
 | Discover a Nebula | 0.10% | ~8 |
 | Hyperspace! | 0.10% | ~8 |
+| Veteran Crew | 0.10% | ~8 |
 | Play for 1000 Hours | 0.10% | ~8 |
 | Play for 100 Hours | 0.10% | ~8 |
 | Play for 5 Hours | 0.10% | ~8 |
@@ -72,7 +73,6 @@ Number of Ratings: 429  (23.09.2022)
 | Shard of the Mithrilar | 0.00% | ~0 |
 | The Everwar | 0.00% | ~0 |
 | The Plague | 0.00% | ~0 |
-| Veteran Crew | 0.00% | ~0 |
 | Complete a Minor Civilization Quest | 0.00% | ~0 |
 | Rebuild the Retribution | 0.00% | ~0 |
 | Recruit a Dozen Leaders | 0.00% | ~0 |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 281,
-  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -69,7 +69,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1310,
+  "EOS_Progressed": 1311,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 2,
@@ -3964,6 +3964,11 @@
       "Time": "2024-01-12T12:10:03.541723+00:00",
       "NumProgressed": 1310,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-12T15:10:58.6810346+00:00",
+      "NumProgressed": 1311,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -3983,7 +3988,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -4007,7 +4012,7 @@
       "Name": "Right On Time",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ClockworkCompletion1",
@@ -4071,7 +4076,7 @@
       "Name": "Family Memories",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "FactorywoodChests1",
@@ -4095,7 +4100,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -4127,7 +4132,7 @@
       "Name": "Whiz Kid",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "GrindingTime1",
@@ -4135,7 +4140,7 @@
       "Name": "Rail Rat",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "HexlockGift",
@@ -4239,7 +4244,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -4247,7 +4252,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "PidgeDefeated",
@@ -4375,7 +4380,7 @@
       "Name": "Good Neighbor",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "Zarkon1Defeated",
@@ -4398,7 +4403,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1310,
+      "Progressed": 1311,
       "Completed": 8
     }
   ],
@@ -4406,8 +4411,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-12T11:57:31.6661727+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:10:36.020695+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:10:58.6810339+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:57:40.8374762+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:10:36.0207578+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:57:38.1001714+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:10:58.6810807+00:00"
 }

@@ -1,7 +1,7 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.56 (Ranked 510)  
+Rating: 4.56 (Ranked 511)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,7 +14,7 @@ Rating: 4.56 (Ranked 510)
 | Field hand | 36.00% | ~69 |
 | Well-to-do | 32.00% | ~62 |
 | Samaritan | 28.00% | ~54 |
-| Ladies' man | 27.00% | ~52 |
+| Ladies' man | 28.00% | ~54 |
 | The merciful one | 26.00% | ~50 |
 | Ferocious wild boars | 22.00% | ~42 |
 | Idiot | 22.00% | ~42 |
@@ -40,9 +40,9 @@ Rating: 4.56 (Ranked 510)
 | Safecracker | 9.00% | ~17 |
 | Master thief | 9.00% | ~17 |
 | Freedom fighter | 8.00% | ~15 |
+| Expert | 7.00% | ~14 |
 | King of the handymen | 7.00% | ~14 |
 | Terror of the hens | 6.00% | ~12 |
-| Expert | 6.00% | ~12 |
 | The traveler | 5.00% | ~10 |
 | Moneybags | 5.00% | ~10 |
 | King Midas | 4.00% | ~8 |

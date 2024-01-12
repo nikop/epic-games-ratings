@@ -7,21 +7,21 @@ Number of Ratings: 1,331  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Spells and Swords | 6.00% | ~1,695 |
-| Captain and Crew | 5.00% | ~1,412 |
-| No Harm in Looking | 5.00% | ~1,412 |
-| Harvest and Home | 3.00% | ~847 |
-| Poise and Poisons | 3.00% | ~847 |
+| Captain and Crew | 5.00% | ~1,413 |
+| No Harm in Looking | 5.00% | ~1,413 |
+| Harvest and Home | 3.00% | ~848 |
+| Poise and Poisons | 3.00% | ~848 |
 | Hands and Hammers | 2.00% | ~565 |
 | King and Kin | 2.00% | ~565 |
 | Progenitor and Protégé | 2.00% | ~565 |
 | Suns and Soldiers | 2.00% | ~565 |
 | Prequel to the Sequel | 2.00% | ~565 |
-| For Glory | 1.00% | ~282 |
+| For Glory | 1.00% | ~283 |
 | Truly Blessed | 0.70% | ~198 |
 | Pillow Investments | 0.70% | ~198 |
 | Looks Familiar | 0.70% | ~198 |
-| For Justice | 0.60% | ~169 |
-| Good Boy! | 0.60% | ~169 |
+| For Justice | 0.60% | ~170 |
+| Good Boy! | 0.60% | ~170 |
 | For Survival | 0.50% | ~141 |
 | For Love | 0.40% | ~113 |
 | K.O. | 0.40% | ~113 |
@@ -31,12 +31,12 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Pride | 0.30% | ~85 |
 | Wasted Betrayal | 0.30% | ~85 |
 | Color Coordination | 0.30% | ~85 |
-| Black-shoppe | 0.20% | ~56 |
-| For Greed | 0.20% | ~56 |
-| For Penance | 0.20% | ~56 |
-| Good Practice | 0.20% | ~56 |
-| Maybe Wax Doesn't Melt | 0.20% | ~56 |
-| A Glimpse of the Future | 0.20% | ~56 |
+| Black-shoppe | 0.20% | ~57 |
+| For Greed | 0.20% | ~57 |
+| For Penance | 0.20% | ~57 |
+| Good Practice | 0.20% | ~57 |
+| Maybe Wax Doesn't Melt | 0.20% | ~57 |
+| A Glimpse of the Future | 0.20% | ~57 |
 | Full House | 0.10% | ~28 |
 | Erebus Purified | 0.10% | ~28 |
 | It Was Just an Estimate | 0.10% | ~28 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,249 (Ranked 145)  
+Progressed: 28,254 (Ranked 145)  
 Completed: 35 (0.12%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 35 (0.12%) (Ranked 305)
 | 2024-01-09 | 28,095 | 35 |
 | 2024-01-10 | 28,185 | 35 |
 | 2024-01-11 | 28,230 | 35 |
-| 2024-01-12 | 28,249 | 35 |
+| 2024-01-12 | 28,254 | 35 |
 ## Awards
 Max (Extremely Fun): 227  (Ranked 290)  
 Sum: 1,564 (Ranked 244)  

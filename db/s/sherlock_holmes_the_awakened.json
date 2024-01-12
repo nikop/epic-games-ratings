@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -175,9 +175,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1441,
+  "EOS_Progressed": 1442,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 3.26,
   "EosHistory": [
@@ -5145,6 +5145,11 @@
       "Time": "2024-01-12T14:08:21.8134288+00:00",
       "NumProgressed": 1441,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2024-01-12T15:08:08.190531+00:00",
+      "NumProgressed": 1442,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 28,
@@ -5164,7 +5169,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "MQ02_1",
@@ -5196,7 +5201,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "MQ03_1",
@@ -5204,7 +5209,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "MQ03_2",
@@ -5220,7 +5225,7 @@
       "Name": "History Check",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "MQ03_4",
@@ -5260,7 +5265,7 @@
       "Name": "The New World",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "MQ05_1",
@@ -5276,7 +5281,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "MQ05_3",
@@ -5324,7 +5329,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "MQ07_1",
@@ -5379,7 +5384,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1441,
+      "Progressed": 1442,
       "Completed": 47
     }
   ],
@@ -5387,8 +5392,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-09T11:03:12.1824937+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:08:21.8134284+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:08:08.1905307+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:40.4350556+00:00",
-  "LastUpdate_Ratings": "2024-01-12T14:03:28.5338928+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:08:21.8134657+00:00"
+  "LastUpdate_Ratings": "2024-01-12T15:03:33.4242078+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:08:08.1905631+00:00"
 }

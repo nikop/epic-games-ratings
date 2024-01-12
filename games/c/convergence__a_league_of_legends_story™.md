@@ -6,8 +6,8 @@ Rating: 4.70 (Ranked 220)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 46.00% | ~603 |
-| Rail Rat | 35.00% | ~458 |
-| The Mysterious Stranger | 34.00% | ~445 |
+| Rail Rat | 35.00% | ~459 |
+| The Mysterious Stranger | 34.00% | ~446 |
 | Immaculate Aim | 29.00% | ~380 |
 | The Brass Boss | 28.00% | ~367 |
 | Time Flies | 27.00% | ~354 |
@@ -18,10 +18,10 @@ Rating: 4.70 (Ranked 220)
 | Honest Mistake | 26.00% | ~341 |
 | Immaculate Aim | 26.00% | ~341 |
 | Fast Learner | 25.00% | ~328 |
-| The Steel Shadow | 24.00% | ~314 |
-| Right On Time | 23.00% | ~301 |
-| Breaking Down Barriers | 23.00% | ~301 |
-| The Wicked Twins | 23.00% | ~301 |
+| The Steel Shadow | 24.00% | ~315 |
+| Right On Time | 23.00% | ~302 |
+| Breaking Down Barriers | 23.00% | ~302 |
+| The Wicked Twins | 23.00% | ~302 |
 | The Betrayer | 22.00% | ~288 |
 | Golem Chaser | 22.00% | ~288 |
 | Like Clockwork | 21.00% | ~275 |
@@ -30,9 +30,9 @@ Rating: 4.70 (Ranked 220)
 | Street Style | 18.00% | ~236 |
 | The Man Who Shattered Time | 18.00% | ~236 |
 | The Family Fortune | 18.00% | ~236 |
-| Whiz Kid | 15.00% | ~196 |
-| Good Neighbor | 15.00% | ~196 |
-| Family Memories | 14.00% | ~183 |
+| Whiz Kid | 15.00% | ~197 |
+| Good Neighbor | 15.00% | ~197 |
+| Family Memories | 14.00% | ~184 |
 | Chaincrawler Explorer | 13.00% | ~170 |
 | Syron for Hope | 13.00% | ~170 |
 | Ask Questions Later | 13.00% | ~170 |
@@ -59,8 +59,8 @@ Rating: 4.70 (Ranked 220)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,310 (Ranked 281)  
-Completed: 8 (0.61%) (Ranked 208)  
+Progressed: 1,311 (Ranked 281)  
+Completed: 8 (0.61%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -232,7 +232,7 @@ Completed: 8 (0.61%) (Ranked 208)
 | 2024-01-09 | 1,289 | 7 |
 | 2024-01-10 | 1,300 | 7 |
 | 2024-01-11 | 1,306 | 8 |
-| 2024-01-12 | 1,310 | 8 |
+| 2024-01-12 | 1,311 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -37,7 +37,7 @@
   "Tags": [],
   "EOS_Progressed": 314,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -2000,9 +2000,9 @@
       "ID": "KR4_ACHIEVEMENT_T800",
       "SetID": "caeik3h",
       "Name": "I\u0027ll Be Back",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 182
     },
     {
       "ID": "KR4_ACHIEVEMENT_THE_GILLMAN",
@@ -2071,8 +2071,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:04:34.5840274+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:05:02.108256+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:57:45.8047406+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:04:34.5841176+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:57:44.9829192+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:05:02.108383+00:00"
 }

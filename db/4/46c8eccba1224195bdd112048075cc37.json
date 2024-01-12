@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewPlayers": 390,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -1043,9 +1043,9 @@
       "ID": "Persistence",
       "SetID": "7g1kpc8",
       "Name": "Persistence",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "ReturnShell",
@@ -1090,8 +1090,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:04:39.8918341+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:05:08.7233168+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:14.8141413+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:57:17.7993174+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:04:39.8918524+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:57:05.9393366+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:05:08.723335+00:00"
 }

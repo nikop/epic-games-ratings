@@ -91,9 +91,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2256,
+  "EOS_Progressed": 2257,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4341,6 +4341,11 @@
       "Time": "2024-01-12T11:10:21.2477465+00:00",
       "NumProgressed": 2256,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-12T15:10:51.2467952+00:00",
+      "NumProgressed": 2257,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4352,7 +4357,7 @@
       "Name": "Break Out",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "ACH_02",
@@ -4384,7 +4389,7 @@
       "Name": "To Battle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_06",
@@ -4456,7 +4461,7 @@
       "Name": "Airborne",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_15",
@@ -4486,9 +4491,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 519
+      "UsersEstimate": 542
     },
     {
       "ID": "ACH_19",
@@ -4510,9 +4515,9 @@
       "ID": "ACH_21",
       "SetID": "efe2lj",
       "Name": "Big Bazar",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 293
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_22",
@@ -4544,7 +4549,7 @@
       "Name": "Fashion Victim",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH_26",
@@ -4568,7 +4573,7 @@
       "Name": "I Found It",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "ACH_29",
@@ -4639,7 +4644,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2256,
+      "Progressed": 2257,
       "Completed": 3
     }
   ],
@@ -4647,8 +4652,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-11T14:57:15.6904807+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:10:29.8512786+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:10:51.2467948+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:57:51.3878742+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:10:29.851329+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:57:52.8026941+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:10:51.2468379+00:00"
 }

@@ -5,29 +5,29 @@ Rating: 3.84 (Ranked 1,082)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~418,708 |
-| Handy | 42.00% | ~231,391 |
-| Cold Caller | 40.00% | ~220,372 |
-| A Bit On The Side | 27.00% | ~148,751 |
-| Backdoor | 26.00% | ~143,242 |
-| Rank Amateur | 22.00% | ~121,205 |
-| Three Way | 19.00% | ~104,677 |
-| Deadly Assassin | 16.00% | ~88,149 |
-| Gutshot | 14.00% | ~77,130 |
-| Risk It For A Biscuit | 14.00% | ~77,130 |
-| Showoff | 13.00% | ~71,621 |
-| W.H.I.P. | 12.00% | ~66,112 |
-| Bet Bet Bet | 10.00% | ~55,093 |
-| Blindman's Bluff | 9.00% | ~49,584 |
-| Poker Joker | 9.00% | ~49,584 |
-| Never Give Up | 8.00% | ~44,074 |
-| The Bigger They Are | 8.00% | ~44,074 |
-| Total Knock Out | 8.00% | ~44,074 |
-| Dog Eat Dog | 7.00% | ~38,565 |
-| Quack Quack | 7.00% | ~38,565 |
-| Give Your Regards To Broadway | 6.00% | ~33,056 |
-| Check Yourself | 4.00% | ~22,037 |
-| Moneymaker | 4.00% | ~22,037 |
+| Pro Creation | 76.00% | ~418,719 |
+| Handy | 42.00% | ~231,397 |
+| Cold Caller | 40.00% | ~220,378 |
+| A Bit On The Side | 27.00% | ~148,755 |
+| Backdoor | 26.00% | ~143,246 |
+| Rank Amateur | 22.00% | ~121,208 |
+| Three Way | 19.00% | ~104,680 |
+| Deadly Assassin | 16.00% | ~88,151 |
+| Gutshot | 14.00% | ~77,132 |
+| Risk It For A Biscuit | 14.00% | ~77,132 |
+| Showoff | 13.00% | ~71,623 |
+| W.H.I.P. | 12.00% | ~66,114 |
+| Bet Bet Bet | 10.00% | ~55,095 |
+| Blindman's Bluff | 9.00% | ~49,585 |
+| Poker Joker | 9.00% | ~49,585 |
+| Never Give Up | 8.00% | ~44,076 |
+| The Bigger They Are | 8.00% | ~44,076 |
+| Total Knock Out | 8.00% | ~44,076 |
+| Dog Eat Dog | 7.00% | ~38,566 |
+| Quack Quack | 7.00% | ~38,566 |
+| Give Your Regards To Broadway | 6.00% | ~33,057 |
+| Check Yourself | 4.00% | ~22,038 |
+| Moneymaker | 4.00% | ~22,038 |
 | In The Gang | 3.00% | ~16,528 |
 | On The Button | 3.00% | ~16,528 |
 | Before You Wreck Yourself | 2.00% | ~11,019 |
@@ -51,7 +51,7 @@ Rating: 3.84 (Ranked 1,082)
 | Rounder | 0.10% | ~551 |
 | Top Dog | 0.10% | ~551 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 550,931 (Ranked 35)  
+Progressed: 550,946 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 2 (0.00%) (Ranked 399)
 | 2024-01-09 | 550,384 | 2 |
 | 2024-01-10 | 550,625 | 2 |
 | 2024-01-11 | 550,814 | 2 |
-| 2024-01-12 | 550,931 | 2 |
+| 2024-01-12 | 550,946 | 2 |
 ## Awards
 Max (Great for Beginners): 67  (Ranked 422)  
 Sum: 210 (Ranked 413)  

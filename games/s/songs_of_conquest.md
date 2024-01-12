@@ -6,10 +6,10 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~525 |
-| Double Kill | 41.00% | ~468 |
-| Critical Hit | 23.00% | ~262 |
-| Veteran | 23.00% | ~262 |
+| Adept | 46.00% | ~526 |
+| Double Kill | 41.00% | ~469 |
+| Critical Hit | 23.00% | ~263 |
+| Veteran | 23.00% | ~263 |
 | Dressed For Success | 16.00% | ~183 |
 | Veni, Vidi, Vici | 11.00% | ~126 |
 | Humiliation | 10.00% | ~114 |
@@ -17,9 +17,9 @@ Number of Ratings: 292  (23.09.2022)
 | Sorcerous Spree | 9.00% | ~103 |
 | Master | 8.00% | ~91 |
 | Landlord Extraordinaire | 7.00% | ~80 |
-| The Song of Stoutheart | 6.00% | ~68 |
-| Whoops! | 6.00% | ~68 |
-| Don't Touch My Stuff | 6.00% | ~68 |
+| The Song of Stoutheart | 6.00% | ~69 |
+| Whoops! | 6.00% | ~69 |
+| Don't Touch My Stuff | 6.00% | ~69 |
 | Trojan Horse | 5.00% | ~57 |
 | Expert Essence Employment | 4.00% | ~46 |
 | Ultra Kill | 3.00% | ~34 |
@@ -39,10 +39,10 @@ Number of Ratings: 292  (23.09.2022)
 | Killing Spree | 0.60% | ~7 |
 | Death To Diplomacy | 0.50% | ~6 |
 | Get Over Here! | 0.50% | ~6 |
-| Attack Bonanza | 0.40% | ~5 |
 | Coming Through! | 0.40% | ~5 |
-| Barbecue | 0.40% | ~5 |
+| Attack Bonanza | 0.30% | ~3 |
 | Fully Charged | 0.30% | ~3 |
+| Barbecue | 0.30% | ~3 |
 | Oops! | 0.30% | ~3 |
 | The Marsh Expands | 0.30% | ~3 |
 | Hello There | 0.20% | ~2 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,141 (Ranked 287)  
+Progressed: 1,143 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 1,111 | 0 |
 | 2024-01-10 | 1,129 | 0 |
 | 2024-01-11 | 1,137 | 0 |
-| 2024-01-12 | 1,141 | 0 |
+| 2024-01-12 | 1,143 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 524)  
 Sum: 252 (Ranked 399)  

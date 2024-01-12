@@ -3,11 +3,11 @@
   "Name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
   "ProductSlug": "stranger-of-paradise-final-fantasy-origin",
   "Ranking_Rating": 595,
-  "Ranking_Popularity": 188,
+  "Ranking_Popularity": 187,
   "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2022-03-18T04:00:00+00:00",
@@ -1763,18 +1763,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 1606,
       "NumberOfAwardsMax": 779
+    },
+    {
+      "Time": "2024-01-12T15:01:53.3364032+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1608,
+      "NumberOfAwardsMax": 781
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1606,
-  "NumberOfAwardsMax": 779,
+  "NumberOfAwards": 1608,
+  "NumberOfAwardsMax": 781,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 779
+      "Count": 781
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1845,7 +1851,7 @@
   ],
   "EOS_Progressed": 82423,
   "EOS_Completed": 2227,
-  "EOS_NewPlayers": 412,
+  "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.7,
   "EosHistory": [
@@ -14232,9 +14238,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
-  "LastChanged": "2024-01-10T13:05:35.4283426+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:06:31.0421306+00:00",
+  "LastChanged": "2024-01-12T15:01:53.336403+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:07:29.6639216+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.4898747+00:00",
-  "LastUpdate_Ratings": "2024-01-12T14:00:51.8551897+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:06:31.0422417+00:00"
+  "LastUpdate_Ratings": "2024-01-12T15:01:53.3364037+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:07:29.6639958+00:00"
 }

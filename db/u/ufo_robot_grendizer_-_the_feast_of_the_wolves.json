@@ -469,9 +469,9 @@
       "ID": "ACH_FIRSTDEATH",
       "SetID": "ch874lb",
       "Name": "Strength in Defeat",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_FIRSTLEGENDARYLOOT",
@@ -676,8 +676,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:04:21.787587+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:04:45.3219502+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:49.9847922+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:59:24.1201929+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:04:21.7876016+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:59:56.367913+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:04:45.3219745+00:00"
 }

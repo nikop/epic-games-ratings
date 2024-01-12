@@ -2,12 +2,12 @@
   "ID": "05ae696a3c5f49af91a7433547460c21",
   "Name": "Redout 2",
   "ProductSlug": "redout-2",
-  "Ranking_Rating": 578,
+  "Ranking_Rating": 579,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_NewPlayers": 430,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1209,
+  "EOS_Progressed": 1210,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1320,6 +1320,11 @@
       "Time": "2024-01-11T19:05:38.3604813+00:00",
       "NumProgressed": 1209,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T15:07:40.9944804+00:00",
+      "NumProgressed": 1210,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1387,7 +1392,7 @@
       "Name": "Walked like an Egyptian",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ALLTRACKSCLOUD",
@@ -1403,7 +1408,7 @@
       "Name": "Ride in the rising sun",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ALLTRACKSGENESIS",
@@ -1459,7 +1464,7 @@
       "Name": "Rookie No More",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "CAREERADVANCED",
@@ -1635,7 +1640,7 @@
       "Name": "Suit up",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ONEMODULE",
@@ -1643,7 +1648,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ONEPAINT",
@@ -1746,7 +1751,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1209,
+      "Progressed": 1210,
       "Completed": 0
     }
   ],
@@ -1754,8 +1759,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-12-19T23:02:44.1554509+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:06:39.8202361+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:07:40.9944799+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:52.4033181+00:00",
-  "LastUpdate_Ratings": "2024-01-12T14:03:26.5961046+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:06:39.820282+00:00"
+  "LastUpdate_Ratings": "2024-01-12T15:03:30.8731621+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:07:40.9945235+00:00"
 }

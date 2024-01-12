@@ -1,22 +1,22 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.55 (Ranked 530)  
+Rating: 4.54 (Ranked 553)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~993,500 |
-| I Need a Bigger Garage | 63.00% | ~695,450 |
-| Pump my Ride | 47.00% | ~518,828 |
-| Ghostbuster | 34.00% | ~375,322 |
-| Call Roadside Assistance | 18.00% | ~198,700 |
-| That Was Close | 18.00% | ~198,700 |
-| Quickie | 11.00% | ~121,428 |
-| California Dreamer | 7.00% | ~77,272 |
-| Can't Touch This | 5.00% | ~55,194 |
-| Carménère Taster | 4.00% | ~44,156 |
-| Comeback | 4.00% | ~44,156 |
+| The First of Many | 90.00% | ~993,524 |
+| I Need a Bigger Garage | 63.00% | ~695,467 |
+| Pump my Ride | 47.00% | ~518,841 |
+| Ghostbuster | 34.00% | ~375,331 |
+| Call Roadside Assistance | 18.00% | ~198,705 |
+| That Was Close | 18.00% | ~198,705 |
+| Quickie | 11.00% | ~121,431 |
+| California Dreamer | 7.00% | ~77,274 |
+| Can't Touch This | 5.00% | ~55,196 |
+| Carménère Taster | 4.00% | ~44,157 |
+| Comeback | 4.00% | ~44,157 |
 | Driver from Ipanema | 3.00% | ~33,117 |
 | Supersonic | 3.00% | ~33,117 |
 | Marathonist | 3.00% | ~33,117 |
@@ -38,13 +38,13 @@ Number of Ratings: 1,343  (23.09.2022)
 | Otaku | 0.90% | ~9,935 |
 | Survivor | 0.60% | ~6,623 |
 | King of the World | 0.60% | ~6,623 |
-| Getting Famous | 0.50% | ~5,519 |
+| Getting Famous | 0.50% | ~5,520 |
 | Now Go Play Outside | 0.30% | ~3,312 |
 | Master of the Racetrack | 0.20% | ~2,208 |
 | Look Mom, No Hands! | 0.20% | ~2,208 |
 | Transporter | 0.10% | ~1,104 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,103,889 (Ranked 14)  
+Progressed: 1,103,916 (Ranked 14)  
 Completed: 534 (0.05%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,17 +311,17 @@ Completed: 534 (0.05%) (Ranked 340)
 | 2024-01-09 | 1,102,915 | 532 |
 | 2024-01-10 | 1,103,313 | 533 |
 | 2024-01-11 | 1,103,650 | 533 |
-| 2024-01-12 | 1,103,889 | 534 |
+| 2024-01-12 | 1,103,916 | 534 |
 ## Awards
 Max (Great for Beginners): 185  (Ranked 311)  
-Sum: 1,641 (Ranked 235)  
+Sum: 1,642 (Ranked 235)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 185 |
 | This game is Great for Quick Sessions | 158 |
 | This game has Diverse Characters | 155 |
-| This game has Quickly Understood Controls | 150 |
+| This game has Quickly Understood Controls | 151 |
 | This game is Relaxing | 146 |
 | This game is Highly Recommended | 142 |
 | This game has Playful Visuals | 134 |
@@ -625,4 +625,4 @@ Diff (max vs sum): 76
 | 2024-01-09 | 4.55 | - | 184 | 1,638 |
 | 2024-01-10 | 4.55 | - | 185 | 1,639 |
 | 2024-01-11 | 4.55 | - | 185 | 1,640 |
-| 2024-01-12 | 4.55 | - | 185 | 1,641 |
+| 2024-01-12 | 4.55 | - | 185 | 1,642 |

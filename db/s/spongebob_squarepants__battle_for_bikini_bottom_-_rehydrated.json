@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -355,7 +355,7 @@
   ],
   "EOS_Progressed": 964,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -2667,9 +2667,9 @@
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
       "SetID": "biiejkc",
       "Name": "Shanghaied",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_JELLYFISHING",
@@ -2867,8 +2867,8 @@
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:05:09.8666517+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:05:43.9630492+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:58:53.8779884+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:05:09.8666798+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:59:14.6143862+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:05:43.9630872+00:00"
 }

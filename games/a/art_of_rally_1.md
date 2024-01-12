@@ -6,41 +6,41 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 79.00% | ~326,170 |
-| good drivers have dead flies on the side windows | 32.00% | ~132,119 |
-| keep it tidy | 26.00% | ~107,347 |
-| brail | 26.00% | ~107,347 |
-| car wash | 23.00% | ~94,961 |
-| the artist | 23.00% | ~94,961 |
-| podium | 20.00% | ~82,575 |
-| medium attack | 17.00% | ~70,188 |
-| bicycle race | 6.00% | ~24,772 |
-| grocery-getter | 5.00% | ~20,644 |
-| autopilot | 4.00% | ~16,515 |
-| rwd only | 3.00% | ~12,386 |
-| where is the stage? | 3.00% | ~12,386 |
-| night ride | 3.00% | ~12,386 |
-| snorkel | 3.00% | ~12,386 |
-| food tour: pasta | 3.00% | ~12,386 |
-| to finish first, first you must finish | 2.00% | ~8,257 |
-| perkele | 2.00% | ~8,257 |
-| turbo | 2.00% | ~8,257 |
-| if in doubt, flat out! | 2.00% | ~8,257 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~8,257 |
-| mittens | 2.00% | ~8,257 |
-| food tour: pretzel | 2.00% | ~8,257 |
-| espresso | 1.00% | ~4,129 |
-| in like a lamb, out like a lion | 1.00% | ~4,129 |
-| monster | 0.90% | ~3,716 |
-| eurobeat | 0.60% | ~2,477 |
-| viking | 0.60% | ~2,477 |
-| parallel universe | 0.60% | ~2,477 |
-| oktoberfest | 0.50% | ~2,064 |
-| group b | 0.50% | ~2,064 |
-| samir | 0.50% | ~2,064 |
-| master of rally | 0.40% | ~1,651 |
-| antilag | 0.40% | ~1,651 |
-| maximum attack | 0.40% | ~1,651 |
+| light attack | 79.00% | ~326,264 |
+| good drivers have dead flies on the side windows | 32.00% | ~132,158 |
+| keep it tidy | 26.00% | ~107,378 |
+| brail | 26.00% | ~107,378 |
+| car wash | 23.00% | ~94,988 |
+| the artist | 23.00% | ~94,988 |
+| podium | 20.00% | ~82,599 |
+| medium attack | 17.00% | ~70,209 |
+| bicycle race | 6.00% | ~24,780 |
+| grocery-getter | 5.00% | ~20,650 |
+| autopilot | 4.00% | ~16,520 |
+| rwd only | 3.00% | ~12,390 |
+| where is the stage? | 3.00% | ~12,390 |
+| night ride | 3.00% | ~12,390 |
+| snorkel | 3.00% | ~12,390 |
+| food tour: pasta | 3.00% | ~12,390 |
+| to finish first, first you must finish | 2.00% | ~8,260 |
+| perkele | 2.00% | ~8,260 |
+| turbo | 2.00% | ~8,260 |
+| if in doubt, flat out! | 2.00% | ~8,260 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~8,260 |
+| mittens | 2.00% | ~8,260 |
+| food tour: pretzel | 2.00% | ~8,260 |
+| espresso | 1.00% | ~4,130 |
+| in like a lamb, out like a lion | 1.00% | ~4,130 |
+| monster | 0.90% | ~3,717 |
+| eurobeat | 0.60% | ~2,478 |
+| viking | 0.60% | ~2,478 |
+| parallel universe | 0.60% | ~2,478 |
+| oktoberfest | 0.50% | ~2,065 |
+| group b | 0.50% | ~2,065 |
+| samir | 0.50% | ~2,065 |
+| master of rally | 0.40% | ~1,652 |
+| antilag | 0.40% | ~1,652 |
+| maximum attack | 0.40% | ~1,652 |
 | parking lot | 0.30% | ~1,239 |
 | real roads, real fast | 0.30% | ~1,239 |
 | comfy seats | 0.20% | ~826 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.10% | ~413 |
 | you're here for a good time, not a long time | 0.10% | ~413 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 412,873 (Ranked 49)  
+Progressed: 412,993 (Ranked 49)  
 Completed: 22 (0.01%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,16 +247,16 @@ Completed: 22 (0.01%) (Ranked 375)
 | 2024-01-09 | 407,593 | 21 |
 | 2024-01-10 | 409,693 | 21 |
 | 2024-01-11 | 411,723 | 22 |
-| 2024-01-12 | 412,873 | 22 |
+| 2024-01-12 | 412,993 | 22 |
 ## Awards
 Max (Quickly Understood Controls): 40  (Ranked 483)  
-Sum: 233 (Ranked 408)  
+Sum: 234 (Ranked 408)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 40 |
 | This game is Highly Recommended | 36 |
-| This game is Great for Quick Sessions | 32 |
+| This game is Great for Quick Sessions | 33 |
 | This game is Relaxing | 30 |
 | This game is Great for Beginners | 28 |
 | This game has Amazing Storytelling | 27 |
@@ -323,4 +323,4 @@ Diff (max vs sum): 75
 | 2024-01-09 | 4.65 | - | 36 | 199 |
 | 2024-01-10 | 4.65 | - | 37 | 224 |
 | 2024-01-11 | 4.65 | - | 40 | 233 |
-| 2024-01-12 | 4.65 | - | 40 | 233 |
+| 2024-01-12 | 4.65 | - | 40 | 234 |

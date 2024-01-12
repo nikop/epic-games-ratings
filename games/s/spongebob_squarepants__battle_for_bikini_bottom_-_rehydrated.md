@@ -28,9 +28,9 @@ Number of Ratings: 76  (23.09.2022)
 | Ultra Spatula Seeker | 7.00% | ~67 |
 | Robot encyclopedia | 6.00% | ~58 |
 | Ship Shape | 5.00% | ~48 |
+| Shanghaied | 5.00% | ~48 |
 | Kelp Forest of Fear | 5.00% | ~48 |
 | The Small Does Not Rule | 4.00% | ~39 |
-| Shanghaied | 4.00% | ~39 |
 | SpongeBob vs SpongeBob! | 4.00% | ~39 |
 | Sleepy Time | 4.00% | ~39 |
 | Sock Concert | 4.00% | ~39 |

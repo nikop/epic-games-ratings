@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 8,
   "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -487,10 +487,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1563208,
-  "EOS_Completed": 765,
-  "EOS_NewPlayers": 1492,
-  "EOS_NewCompleters": 2,
+  "EOS_Progressed": 1563215,
+  "EOS_Completed": 766,
+  "EOS_NewPlayers": 1478,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
     {
@@ -31137,6 +31137,11 @@
       "Time": "2024-01-12T14:05:15.1880856+00:00",
       "NumProgressed": 1563208,
       "NumCompleted": 765
+    },
+    {
+      "Time": "2024-01-12T15:05:50.8726426+00:00",
+      "NumProgressed": 1563215,
+      "NumCompleted": 766
     }
   ],
   "TotalAchievements": 20,
@@ -31244,7 +31249,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 156321
+      "UsersEstimate": 156322
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -31292,7 +31297,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 78160
+      "UsersEstimate": 78161
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -31307,15 +31312,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1563208,
-      "Completed": 765
+      "Progressed": 1563215,
+      "Completed": 766
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2024-01-01T15:58:03.3050035+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:05:15.1880852+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:05:50.872642+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:06.7097027+00:00",
-  "LastUpdate_Ratings": "2024-01-12T14:00:20.4093199+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:05:15.1882765+00:00"
+  "LastUpdate_Ratings": "2024-01-12T15:01:12.0304875+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:05:50.8727995+00:00"
 }

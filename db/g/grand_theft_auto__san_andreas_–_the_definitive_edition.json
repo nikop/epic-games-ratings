@@ -2419,9 +2419,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 19415,
+  "EOS_Progressed": 19418,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 997,
+  "EOS_NewPlayers": 992,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -20104,6 +20104,11 @@
       "Time": "2024-01-12T14:10:26.9744183+00:00",
       "NumProgressed": 19415,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-12T15:10:47.8577487+00:00",
+      "NumProgressed": 19418,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 35,
@@ -20115,7 +20120,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15726
+      "UsersEstimate": 15729
     },
     {
       "ID": "ACH02",
@@ -20171,7 +20176,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9708
+      "UsersEstimate": 9709
     },
     {
       "ID": "ACH09",
@@ -20179,7 +20184,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ACH10",
@@ -20195,7 +20200,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1747
+      "UsersEstimate": 1748
     },
     {
       "ID": "ACH12",
@@ -20243,7 +20248,7 @@
       "Name": "What the City Needs",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ACH18",
@@ -20283,7 +20288,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2718
+      "UsersEstimate": 2719
     },
     {
       "ID": "ACH23",
@@ -20339,7 +20344,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 2718
+      "UsersEstimate": 2719
     },
     {
       "ID": "ACH30",
@@ -20394,7 +20399,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19415,
+      "Progressed": 19418,
       "Completed": 77
     }
   ],
@@ -20402,8 +20407,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-12T14:03:01.5229403+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:10:26.974418+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:10:47.8577481+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-12T14:03:01.5229411+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:10:26.9745058+00:00"
+  "LastUpdate_Ratings": "2024-01-12T15:03:00.6204968+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:10:47.8578536+00:00"
 }

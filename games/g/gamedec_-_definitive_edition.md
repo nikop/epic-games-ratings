@@ -6,12 +6,12 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,707 |
-| Powergamer | 27.00% | ~69,554 |
-| Write that down | 25.00% | ~64,402 |
-| Barely scratched the surface | 25.00% | ~64,402 |
-| Guns, lots of guns | 13.00% | ~33,489 |
-| Collector | 12.00% | ~30,913 |
+| I will finish what you started | 29.00% | ~74,708 |
+| Powergamer | 27.00% | ~69,556 |
+| Write that down | 25.00% | ~64,403 |
+| Barely scratched the surface | 25.00% | ~64,403 |
+| Guns, lots of guns | 13.00% | ~33,490 |
+| Collector | 12.00% | ~30,914 |
 | Elementary! | 9.00% | ~23,185 |
 | Griever | 8.00% | ~20,609 |
 | Pumpkin Jack | 8.00% | ~20,609 |
@@ -20,10 +20,10 @@ Number of Ratings: 33  (23.09.2022)
 | Me smart | 6.00% | ~15,457 |
 | Trash compactor | 6.00% | ~15,457 |
 | Valedictorian | 6.00% | ~15,457 |
-| Good listener | 5.00% | ~12,880 |
-| BOY! | 4.00% | ~10,304 |
-| Ka-ching! | 4.00% | ~10,304 |
-| So you like to read? | 4.00% | ~10,304 |
+| Good listener | 5.00% | ~12,881 |
+| BOY! | 4.00% | ~10,305 |
+| Ka-ching! | 4.00% | ~10,305 |
+| So you like to read? | 4.00% | ~10,305 |
 | Hoarder | 3.00% | ~7,728 |
 | I like to sniff around | 3.00% | ~7,728 |
 | Mind reader | 3.00% | ~7,728 |
@@ -43,7 +43,7 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,576 |
 | Take the blue pill | 1.00% | ~2,576 |
 | The power of three | 1.00% | ~2,576 |
-| Let's try another | 0.90% | ~2,318 |
+| Let's try another | 0.90% | ~2,319 |
 | It's blue, always blue | 0.80% | ~2,061 |
 | Home run | 0.80% | ~2,061 |
 | I have the high ground | 0.70% | ~1,803 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~515 |
 | Memory 5 | 0.10% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257,609 (Ranked 69)  
+Progressed: 257,613 (Ranked 69)  
 Completed: 8 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 8 (0.00%) (Ranked 399)
 | 2024-01-09 | 257,410 | 8 |
 | 2024-01-10 | 257,504 | 8 |
 | 2024-01-11 | 257,575 | 8 |
-| 2024-01-12 | 257,609 | 8 |
+| 2024-01-12 | 257,613 | 8 |
 ## Awards
 Max (Character Customization): 98  (Ranked 384)  
 Sum: 98 (Ranked 471)  

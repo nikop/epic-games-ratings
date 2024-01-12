@@ -21,7 +21,7 @@ Number of Ratings: 116  (23.09.2022)
 | Throne Potato | 39.00% | ~220 |
 | Five's a Crowd | 39.00% | ~220 |
 | 25 to Life | 39.00% | ~220 |
-| Salvation | 37.00% | ~209 |
+| Salvation | 38.00% | ~215 |
 | Soul Harvester | 36.00% | ~203 |
 | Unshakable Fortitude | 35.00% | ~198 |
 | I Wanna Rock | 33.00% | ~186 |
@@ -31,8 +31,8 @@ Number of Ratings: 116  (23.09.2022)
 | Freeze Frame | 30.00% | ~170 |
 | Eat Your Heart Out | 30.00% | ~170 |
 | For Whom the Bell Tolls | 29.00% | ~164 |
+| Unyielding Strength | 26.00% | ~147 |
 | Big Spender | 26.00% | ~147 |
-| Unyielding Strength | 25.00% | ~141 |
 | Can you restore the Balance? | 25.00% | ~141 |
 | Cleanup Crew | 24.00% | ~136 |
 | Crowd Source | 24.00% | ~136 |

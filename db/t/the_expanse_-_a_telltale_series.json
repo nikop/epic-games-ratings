@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18895,
+  "EOS_Progressed": 18898,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 635,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -17128,6 +17128,11 @@
       "Time": "2024-01-12T14:03:55.4988469+00:00",
       "NumProgressed": 18895,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-12T15:04:11.0555117+00:00",
+      "NumProgressed": 18898,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17156,7 +17161,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     },
     {
       "ID": "12",
@@ -17172,7 +17177,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3401
+      "UsersEstimate": 3402
     },
     {
       "ID": "14",
@@ -17188,7 +17193,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2078
+      "UsersEstimate": 2079
     },
     {
       "ID": "16",
@@ -17204,7 +17209,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2267
+      "UsersEstimate": 2268
     },
     {
       "ID": "18",
@@ -17220,7 +17225,7 @@
       "Name": "Martian Music",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     },
     {
       "ID": "2",
@@ -17244,7 +17249,7 @@
       "Name": "Drone Dodger",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2267
+      "UsersEstimate": 2268
     },
     {
       "ID": "22",
@@ -17292,7 +17297,7 @@
       "Name": "Bosmang",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     },
     {
       "ID": "28",
@@ -17316,7 +17321,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2834
+      "UsersEstimate": 2835
     },
     {
       "ID": "30",
@@ -17348,7 +17353,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2645
+      "UsersEstimate": 2646
     },
     {
       "ID": "7",
@@ -17372,7 +17377,7 @@
       "Name": "Impossible Objects",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     },
     {
       "ID": "31",
@@ -17412,29 +17417,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18895,
+      "Progressed": 18898,
       "Completed": 63
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4849,
-      "Completed": 1295
+      "Progressed": 4852,
+      "Completed": 1296
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-11T01:50:11.8166633+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:03:55.4988465+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:04:11.0555113+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:08:26.4104422+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:03:55.4989417+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:57:00.427636+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:04:11.0556938+00:00"
 }

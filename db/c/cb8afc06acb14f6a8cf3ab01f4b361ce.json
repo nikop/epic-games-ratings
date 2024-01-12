@@ -473,9 +473,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 344434,
+  "EOS_Progressed": 344450,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3237,
+  "EOS_NewPlayers": 3220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13098,6 +13098,11 @@
       "Time": "2024-01-12T14:09:17.1351932+00:00",
       "NumProgressed": 344434,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-12T15:09:18.6441296+00:00",
+      "NumProgressed": 344450,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -13118,7 +13123,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10333
+      "UsersEstimate": 10334
     },
     {
       "ID": "S03_OTWA",
@@ -13142,7 +13147,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2755
+      "UsersEstimate": 2756
     },
     {
       "ID": "S06_LWTC",
@@ -13342,7 +13347,7 @@
       "Name": "Bring it on!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2755
+      "UsersEstimate": 2756
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -13429,7 +13434,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 344434,
+      "Progressed": 344450,
       "Completed": 7
     }
   ],
@@ -13437,8 +13442,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-07T09:59:57.3535769+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:09:17.1351929+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:09:18.6441293+00:00",
   "LastUpdate_AppInfo": "2024-01-12T01:46:06.9563131+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:58:03.2268326+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:09:17.1352723+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:58:07.8076336+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:09:18.6442003+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 244,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1596,9 +1596,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 28249,
+  "EOS_Progressed": 28254,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 507,
+  "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -13916,6 +13916,11 @@
       "Time": "2024-01-12T14:10:24.3207987+00:00",
       "NumProgressed": 28249,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-12T15:10:44.7579599+00:00",
+      "NumProgressed": 28254,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -13943,7 +13948,7 @@
       "Name": "Black-shoppe",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "AllFriends",
@@ -13983,7 +13988,7 @@
       "Name": "For Justice",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "BossBridgeDefeated",
@@ -13991,7 +13996,7 @@
       "Name": "Captain and Crew",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -13999,7 +14004,7 @@
       "Name": "For Glory",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "BossCastleDefeated",
@@ -14031,7 +14036,7 @@
       "Name": "For Greed",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "BossFinalDefeated",
@@ -14055,7 +14060,7 @@
       "Name": "Harvest and Home",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -14063,7 +14068,7 @@
       "Name": "For Penance",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "BossGardenDefeated",
@@ -14087,7 +14092,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -14119,7 +14124,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     },
     {
       "ID": "EndTimerFail",
@@ -14151,7 +14156,7 @@
       "Name": "Good Practice",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Icarus",
@@ -14159,7 +14164,7 @@
       "Name": "Maybe Wax Doesn\u0027t Melt",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "NightmareKhidr",
@@ -14167,7 +14172,7 @@
       "Name": "A Glimpse of the Future",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "PetDragon",
@@ -14175,7 +14180,7 @@
       "Name": "Good Boy!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "PrequelReveal",
@@ -14238,21 +14243,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 28249,
+      "Progressed": 28254,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 7179,
+      "Progressed": 7184,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-12T06:59:21.7856755+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:10:24.3207982+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:10:44.7579595+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:16.4635805+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:59:07.7803785+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:10:24.3209112+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:59:34.3729575+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:10:44.7580434+00:00"
 }

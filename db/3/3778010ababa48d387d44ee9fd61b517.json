@@ -4,7 +4,7 @@
   "ProductSlug": "the-hive-f5c2c8",
   "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -357,9 +357,9 @@
       "ID": "A_ARTIFACT",
       "SetID": "324h56e",
       "Name": "The Artifact",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "A_AVATAR",
@@ -445,9 +445,9 @@
       "ID": "A_HIVE_RESS hiveRes (0-100)",
       "SetID": "324h56e",
       "Name": "Hivespital",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "A_HUNT hunt (0-1)",
@@ -645,9 +645,9 @@
       "ID": "A_WORKER",
       "SetID": "324h56e",
       "Name": "All-Star Worker",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "A_WRAITH",
@@ -668,8 +668,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:04:02.4200019+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:04:19.9485737+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.8788926+00:00",
-  "LastUpdate_Ratings": "2024-01-12T14:00:30.6268324+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:04:02.4200281+00:00"
+  "LastUpdate_Ratings": "2024-01-12T15:01:25.4543399+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:04:19.9486299+00:00"
 }

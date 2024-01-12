@@ -6,31 +6,31 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,592 |
-| Titan's First Steps | 11.00% | ~16,592 |
-| Basic in Bulk | 10.00% | ~15,084 |
-| Tinkle of Coins | 9.00% | ~13,575 |
-| Disintermediation | 8.00% | ~12,067 |
+| Sponsored by Argon | 11.00% | ~16,593 |
+| Titan's First Steps | 11.00% | ~16,593 |
+| Basic in Bulk | 10.00% | ~15,085 |
+| Tinkle of Coins | 9.00% | ~13,576 |
+| Disintermediation | 8.00% | ~12,068 |
 | It's Free Real Estate | 7.00% | ~10,559 |
 | Capitalism Ho! | 7.00% | ~10,559 |
-| One Easy Payment | 6.00% | ~9,050 |
-| Some Assembly Required | 6.00% | ~9,050 |
-| Another Satisfied Customer | 6.00% | ~9,050 |
-| Pretty Penny | 6.00% | ~9,050 |
-| Budding Merchant | 6.00% | ~9,050 |
-| Own the Means of Production | 6.00% | ~9,050 |
+| One Easy Payment | 6.00% | ~9,051 |
+| Some Assembly Required | 6.00% | ~9,051 |
+| Another Satisfied Customer | 6.00% | ~9,051 |
+| Pretty Penny | 6.00% | ~9,051 |
+| Budding Merchant | 6.00% | ~9,051 |
+| Own the Means of Production | 6.00% | ~9,051 |
 | The Daily Grind | 5.00% | ~7,542 |
 | One-Armed Bandit | 5.00% | ~7,542 |
 | Through Repetition, Perfection | 5.00% | ~7,542 |
-| Bounty Hunters | 4.00% | ~6,033 |
-| Demand for Supplies | 4.00% | ~6,033 |
-| Flooding the Market | 4.00% | ~6,033 |
-| Where it Hurts | 4.00% | ~6,033 |
-| Gild-Gotten Goods | 4.00% | ~6,033 |
-| Accomplished Merchant | 4.00% | ~6,033 |
-| Dungeon Imports | 4.00% | ~6,033 |
-| Did we pack lunch? | 4.00% | ~6,033 |
-| Arcane Industries | 4.00% | ~6,033 |
+| Bounty Hunters | 4.00% | ~6,034 |
+| Demand for Supplies | 4.00% | ~6,034 |
+| Flooding the Market | 4.00% | ~6,034 |
+| Where it Hurts | 4.00% | ~6,034 |
+| Gild-Gotten Goods | 4.00% | ~6,034 |
+| Accomplished Merchant | 4.00% | ~6,034 |
+| Dungeon Imports | 4.00% | ~6,034 |
+| Did we pack lunch? | 4.00% | ~6,034 |
+| Arcane Industries | 4.00% | ~6,034 |
 | On the Path to Greatness | 3.00% | ~4,525 |
 | Ascended | 3.00% | ~4,525 |
 | Tax not Included | 3.00% | ~4,525 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~603 |
 | Capitalist Camaraderie | 0.30% | ~453 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,837 (Ranked 86)  
+Progressed: 150,847 (Ranked 86)  
 Completed: 349 (0.23%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -386,7 +386,7 @@ Completed: 349 (0.23%) (Ranked 272)
 | 2024-01-09 | 150,487 | 345 |
 | 2024-01-10 | 150,626 | 348 |
 | 2024-01-11 | 150,768 | 349 |
-| 2024-01-12 | 150,837 | 349 |
+| 2024-01-12 | 150,847 | 349 |
 ## Awards
 Max (Great for Beginners): 4,952  (Ranked 78)  
 Sum: 27,981 (Ranked 52)  

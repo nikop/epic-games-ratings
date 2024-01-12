@@ -6,7 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 0.60% | ~2,983 |
+| Until death do us apart | 0.60% | ~2,984 |
 | That's a Grand Army | 0.50% | ~2,486 |
 | That is mine! | 0.50% | ~2,486 |
 | Victorious! | 0.50% | ~2,486 |
@@ -14,18 +14,18 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Navy | 0.40% | ~1,989 |
 | Seriously?! | 0.40% | ~1,989 |
 | Cold War | 0.30% | ~1,492 |
-| Blockader | 0.20% | ~994 |
-| Defender of the Faith | 0.20% | ~994 |
-| Double the Love | 0.20% | ~994 |
-| For the Glory | 0.20% | ~994 |
-| It's all about luck | 0.20% | ~994 |
-| It's all about the money | 0.20% | ~994 |
-| Respected | 0.20% | ~994 |
-| Royal Authority | 0.20% | ~994 |
-| The Princess is in this Castle | 0.20% | ~994 |
-| Total Control | 0.20% | ~994 |
-| True Catholic | 0.20% | ~994 |
-| Truly Divine Ruler | 0.20% | ~994 |
+| Blockader | 0.20% | ~995 |
+| Defender of the Faith | 0.20% | ~995 |
+| Double the Love | 0.20% | ~995 |
+| For the Glory | 0.20% | ~995 |
+| It's all about luck | 0.20% | ~995 |
+| It's all about the money | 0.20% | ~995 |
+| Respected | 0.20% | ~995 |
+| Royal Authority | 0.20% | ~995 |
+| The Princess is in this Castle | 0.20% | ~995 |
+| Total Control | 0.20% | ~995 |
+| True Catholic | 0.20% | ~995 |
+| Truly Divine Ruler | 0.20% | ~995 |
 | The 52 Garhs | 0.10% | ~497 |
 | I don't like sand | 0.10% | ~497 |
 | A Blessed Nation | 0.10% | ~497 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 497,215 (Ranked 42)  
+Progressed: 497,261 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -637,16 +637,16 @@ Completed: 1 (0.00%) (Ranked 399)
 | 2024-01-09 | 495,855 | 1 |
 | 2024-01-10 | 496,402 | 1 |
 | 2024-01-11 | 496,921 | 1 |
-| 2024-01-12 | 497,215 | 1 |
+| 2024-01-12 | 497,261 | 1 |
 ## Awards
 Max (Educational): 7,804  (Ranked 52)  
-Sum: 64,373 (Ranked 24)  
+Sum: 64,383 (Ranked 24)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,804 |
 | This game has Diverse Characters | 7,662 |
-| This game is Highly Recommended | 7,481 |
+| This game is Highly Recommended | 7,491 |
 | This game has Challenging Combat | 7,436 |
 | This game is Extremely Fun | 7,311 |
 | This game is Relaxing | 7,158 |
@@ -1017,4 +1017,4 @@ Diff (max vs sum): 28
 | 2024-01-09 | 4.69 | - | 7,780 | 64,168 |
 | 2024-01-10 | 4.69 | - | 7,790 | 64,245 |
 | 2024-01-11 | 4.69 | - | 7,804 | 64,342 |
-| 2024-01-12 | 4.69 | - | 7,804 | 64,373 |
+| 2024-01-12 | 4.69 | - | 7,804 | 64,383 |

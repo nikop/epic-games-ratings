@@ -6,32 +6,32 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,591 |
-| Life is your teacher | 5.00% | ~37,993 |
-| Lightning Hands | 5.00% | ~37,993 |
-| The Assault | 4.00% | ~30,394 |
-| The Hateful Pole Fighter | 3.00% | ~22,796 |
-| Street Fighting | 3.00% | ~22,796 |
-| State of constant learning | 3.00% | ~22,796 |
-| Qi Gong: Essence | 3.00% | ~22,796 |
-| Old Child | 3.00% | ~22,796 |
-| A Lady's Blood in the Snow | 2.00% | ~15,197 |
-| Lady Wing Chun | 2.00% | ~15,197 |
-| Furious Fists | 2.00% | ~15,197 |
-| Kill Nil | 2.00% | ~15,197 |
-| Stuntmaster | 2.00% | ~15,197 |
-| Qi Gong: Breath | 2.00% | ~15,197 |
-| I know Kung-Fu | 2.00% | ~15,197 |
-| Path of the Prospect | 2.00% | ~15,197 |
-| Rumble in the Hangar | 2.00% | ~15,197 |
-| Take damage to save time | 2.00% | ~15,197 |
-| Diligence as a goal | 2.00% | ~1,383 |
+| The Old Grandmaster | 6.00% | ~45,594 |
+| Life is your teacher | 5.00% | ~37,995 |
+| Lightning Hands | 5.00% | ~37,995 |
+| The Assault | 4.00% | ~30,396 |
+| The Hateful Pole Fighter | 3.00% | ~22,797 |
+| Street Fighting | 3.00% | ~22,797 |
+| State of constant learning | 3.00% | ~22,797 |
+| Qi Gong: Essence | 3.00% | ~22,797 |
+| Old Child | 3.00% | ~22,797 |
+| A Lady's Blood in the Snow | 2.00% | ~15,198 |
+| Lady Wing Chun | 2.00% | ~15,198 |
+| Furious Fists | 2.00% | ~15,198 |
+| Kill Nil | 2.00% | ~15,198 |
+| Stuntmaster | 2.00% | ~15,198 |
+| Qi Gong: Breath | 2.00% | ~15,198 |
+| I know Kung-Fu | 2.00% | ~15,198 |
+| Path of the Prospect | 2.00% | ~15,198 |
+| Rumble in the Hangar | 2.00% | ~15,198 |
+| Take damage to save time | 2.00% | ~15,198 |
+| Diligence as a goal | 2.00% | ~1,384 |
 | Scareless | 1.00% | ~7,599 |
 | Dance of the Praying Mantis | 1.00% | ~7,599 |
 | Qi Gong: Mind | 1.00% | ~7,599 |
 | Kung-Fu Tussle | 1.00% | ~7,599 |
 | Project Arena | 1.00% | ~692 |
-| Fight the way you practice | 0.80% | ~553 |
+| Fight the way you practice | 0.80% | ~554 |
 | Muk Yan Master | 0.70% | ~5,319 |
 | Detective Story | 0.70% | ~5,319 |
 | Tiger on Fire | 0.60% | ~4,559 |
@@ -43,15 +43,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | Legendary Talismans of Wuxing | 0.50% | ~3,799 |
 | Prodigal Child | 0.50% | ~3,799 |
 | The 36th Chamber of Kung-Fu | 0.50% | ~3,799 |
-| The Pit Protector | 0.40% | ~3,039 |
-| Come Snap With Me | 0.40% | ~3,039 |
+| The Pit Protector | 0.40% | ~3,040 |
+| Come Snap With Me | 0.40% | ~3,040 |
 | The best strikes are the ones we avoid | 0.40% | ~277 |
 | Drunken Fighter | 0.30% | ~2,280 |
 | Martial Artist | 0.30% | ~2,280 |
 | Knowledge Greed | 0.30% | ~2,280 |
 | Ferocity, speed, strength, accuracy | 0.30% | ~2,280 |
-| Deadly Venom | 0.30% | ~207 |
-| A Touch of Acumen | 0.30% | ~207 |
+| Deadly Venom | 0.30% | ~208 |
+| A Touch of Acumen | 0.30% | ~208 |
 | Healing Memory | 0.20% | ~1,520 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,520 |
 | Be like water my friend | 0.20% | ~1,520 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~69 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 759,855 (Ranked 26)  
+Progressed: 759,894 (Ranked 26)  
 Completed: 12,984 (1.71%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,10 +334,10 @@ Completed: 12,984 (1.71%) (Ranked 146)
 | 2024-01-09 | 758,306 | 12,980 |
 | 2024-01-10 | 759,091 | 12,982 |
 | 2024-01-11 | 759,612 | 12,983 |
-| 2024-01-12 | 759,855 | 12,984 |
+| 2024-01-12 | 759,894 | 12,984 |
 ## Awards
 Max (Great Boss Battles): 7,179  (Ranked 57)  
-Sum: 12,709 (Ranked 85)  
+Sum: 12,710 (Ranked 85)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
@@ -349,7 +349,7 @@ Diff (max vs sum): -28
 | This game is Highly Recommended | 608 |
 | This game has Quickly Understood Controls | 600 |
 | This game is Extremely Fun | 587 |
-| This game has Unique Visuals | 585 |
+| This game has Unique Visuals | 586 |
 | This game is Relaxing | 564 |
 | This game has a Creative Community | 436 |
 | This game has Obsessive Gameplay | 293 |
@@ -715,4 +715,4 @@ Diff (max vs sum): -28
 | 2024-01-09 | 4.82 | - | 7,166 | 12,672 |
 | 2024-01-10 | 4.82 | - | 7,166 | 12,681 |
 | 2024-01-11 | 4.82 | - | 7,171 | 12,693 |
-| 2024-01-12 | 4.82 | - | 7,179 | 12,709 |
+| 2024-01-12 | 4.82 | - | 7,179 | 12,710 |

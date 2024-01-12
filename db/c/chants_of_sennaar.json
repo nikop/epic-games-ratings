@@ -128,10 +128,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 2709,
-  "EOS_Completed": 197,
-  "EOS_NewPlayers": 312,
-  "EOS_NewCompleters": 43,
-  "EOS_Completed_Percentage": 7.27,
+  "EOS_Completed": 198,
+  "EOS_NewPlayers": 306,
+  "EOS_NewCompleters": 44,
+  "EOS_Completed_Percentage": 7.31,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -7137,6 +7137,11 @@
       "Time": "2024-01-12T13:10:42.7996406+00:00",
       "NumProgressed": 2709,
       "NumCompleted": 197
+    },
+    {
+      "Time": "2024-01-12T15:05:39.4235497+00:00",
+      "NumProgressed": 2709,
+      "NumCompleted": 198
     }
   ],
   "TotalAchievements": 25,
@@ -7338,9 +7343,9 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 759
+      "UsersEstimate": 786
     }
   ],
   "AchievementSets": [
@@ -7348,15 +7353,15 @@
       "ID": "2gma9an",
       "IsBase": true,
       "Progressed": 2709,
-      "Completed": 197
+      "Completed": 198
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:05:06.3065404+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:05:39.4235492+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:57:34.8341543+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:05:06.3065931+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:57:30.5169337+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:05:39.4235971+00:00"
 }

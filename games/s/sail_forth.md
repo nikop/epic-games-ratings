@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tootorial | 66.00% | ~39,644 |
-| Wind Master | 52.00% | ~31,235 |
-| Davy Jones | 14.00% | ~8,409 |
-| Hook, Line and Stinker | 12.00% | ~7,208 |
-| Nice Shootin' Duds | 3.00% | ~1,802 |
-| Baby's First Thingamabob | 2.00% | ~1,201 |
-| Race In Yo Face | 2.00% | ~1,201 |
-| Gateway Slug | 2.00% | ~1,201 |
-| Light Up the Night | 0.90% | ~541 |
-| Boarding Party | 0.90% | ~541 |
-| Great Balls Of Fire | 0.80% | ~481 |
-| By The Power Of Underskull | 0.50% | ~300 |
-| I Don't Like The Slugs | 0.40% | ~240 |
-| Enter The Croakers | 0.20% | ~120 |
-| This Is Fine | 0.20% | ~120 |
-| Pengy Fun | 0.20% | ~120 |
-| Polar Pontification | 0.10% | ~60 |
-| Aggro Kreb | 0.10% | ~60 |
-| No More Splosions | 0.10% | ~60 |
-| Sweeter Than Honey | 0.10% | ~60 |
-| Blowfish Me Down | 0.10% | ~60 |
-| Snapping Turtle | 0.10% | ~60 |
-| Crovert Ops | 0.10% | ~60 |
-| Tekk Savvy | 0.10% | ~60 |
-| Fish And Tips | 0.10% | ~60 |
-| Fish Kabob | 0.10% | ~60 |
-| Crushed Ice | 0.10% | ~60 |
-| This Magik Moment | 0.10% | ~60 |
-| But The Slugs Like Me | 0.10% | ~60 |
+| Tootorial | 66.00% | ~42,361 |
+| Wind Master | 52.00% | ~33,375 |
+| Davy Jones | 14.00% | ~8,986 |
+| Hook, Line and Stinker | 13.00% | ~8,344 |
+| Nice Shootin' Duds | 3.00% | ~1,925 |
+| Baby's First Thingamabob | 2.00% | ~1,284 |
+| Race In Yo Face | 2.00% | ~1,284 |
+| Gateway Slug | 2.00% | ~1,284 |
+| Light Up the Night | 1.00% | ~642 |
+| Great Balls Of Fire | 0.90% | ~578 |
+| Boarding Party | 0.90% | ~578 |
+| By The Power Of Underskull | 0.50% | ~321 |
+| I Don't Like The Slugs | 0.40% | ~257 |
+| Enter The Croakers | 0.20% | ~128 |
+| This Is Fine | 0.20% | ~128 |
+| Pengy Fun | 0.20% | ~128 |
+| Polar Pontification | 0.10% | ~64 |
+| Aggro Kreb | 0.10% | ~64 |
+| No More Splosions | 0.10% | ~64 |
+| Sweeter Than Honey | 0.10% | ~64 |
+| Blowfish Me Down | 0.10% | ~64 |
+| Snapping Turtle | 0.10% | ~64 |
+| Crovert Ops | 0.10% | ~64 |
+| Tekk Savvy | 0.10% | ~64 |
+| Fish And Tips | 0.10% | ~64 |
+| Fish Kabob | 0.10% | ~64 |
+| Crushed Ice | 0.10% | ~64 |
+| This Magik Moment | 0.10% | ~64 |
+| But The Slugs Like Me | 0.10% | ~64 |
 | What's Krakalackin? | 0.00% | ~0 |
 | Total Eclipse of the Eel | 0.00% | ~0 |
 | All Good Things... | 0.00% | ~0 |
@@ -52,14 +52,14 @@
 | For Whom The Bells Toll | 0.00% | ~0 |
 | Don't I Know You? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,067 (Ranked 119)  
+Progressed: 64,183 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-05 | 2 | 0 |
 | 2024-01-11 | 21,760 | 0 |
-| 2024-01-12 | 60,067 | 0 |
+| 2024-01-12 | 64,183 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -209,17 +209,17 @@
       "ID": "BOSS_02",
       "SetID": "35d3i7a",
       "Name": "Can\u2019t be real.",
-      "Percentage": 39,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "BOSS_03",
       "SetID": "35d3i7a",
       "Name": "Painful image.",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BOSS_04",
@@ -361,9 +361,9 @@
       "ID": "MEM_II",
       "SetID": "35d3i7a",
       "Name": "Not my son!",
-      "Percentage": 52,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "MEM_III",
@@ -377,9 +377,9 @@
       "ID": "MEM_IV",
       "SetID": "35d3i7a",
       "Name": "Your only friend.",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MEM_IX",
@@ -393,9 +393,9 @@
       "ID": "MEM_V",
       "SetID": "35d3i7a",
       "Name": "Put on the mask!",
-      "Percentage": 58,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "MEM_VI",
@@ -473,33 +473,33 @@
       "ID": "MEM_XV",
       "SetID": "35d3i7a",
       "Name": "I will make you a REAL prince.",
-      "Percentage": 42,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MEM_XVI",
       "SetID": "35d3i7a",
       "Name": "Now you are ready.",
-      "Percentage": 27,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "MEM_XVII",
       "SetID": "35d3i7a",
       "Name": "I like your loneliness.",
-      "Percentage": 52,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "MEM_XVIII",
       "SetID": "35d3i7a",
       "Name": "A new hope.",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MEM_XX",
@@ -585,17 +585,17 @@
       "ID": "PROJ_I",
       "SetID": "35d3i7a",
       "Name": "Beauty.",
-      "Percentage": 42,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "PROJ_II",
       "SetID": "35d3i7a",
       "Name": "Putrefaction.",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PROJ_III",
@@ -632,8 +632,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:10:29.6211437+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:10:50.9759504+00:00",
   "LastUpdate_AppInfo": "2024-01-10T15:57:10.2957467+00:00",
-  "LastUpdate_Ratings": "2024-01-12T14:02:51.8603054+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:10:29.6212042+00:00"
+  "LastUpdate_Ratings": "2024-01-12T15:02:49.0336511+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:10:50.9759925+00:00"
 }

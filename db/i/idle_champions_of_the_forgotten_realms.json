@@ -9455,18 +9455,24 @@
       "Rating": 4.06,
       "NumberOfAwards": 33459,
       "NumberOfAwardsMax": 5770
+    },
+    {
+      "Time": "2024-01-12T15:00:30.3477009+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33463,
+      "NumberOfAwardsMax": 5774
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33459,
-  "NumberOfAwardsMax": 5770,
+  "NumberOfAwards": 33463,
+  "NumberOfAwardsMax": 5774,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5770
+      "Count": 5774
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9505,9 +9511,9 @@
       "Count": 3635
     }
   ],
-  "EOS_Progressed": 253534,
+  "EOS_Progressed": 253542,
   "EOS_Completed": 2614,
-  "EOS_NewPlayers": 2075,
+  "EOS_NewPlayers": 2061,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39790,6 +39796,11 @@
       "Time": "2024-01-12T14:10:40.91771+00:00",
       "NumProgressed": 253534,
       "NumCompleted": 2614
+    },
+    {
+      "Time": "2024-01-12T15:11:04.3384166+00:00",
+      "NumProgressed": 253542,
+      "NumCompleted": 2614
     }
   ],
   "TotalAchievements": 546,
@@ -39801,7 +39812,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10141
+      "UsersEstimate": 10142
     },
     {
       "ID": "objective_completed_10",
@@ -44089,7 +44100,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1758
+      "UsersEstimate": 1759
     },
     {
       "ID": "objective_completed_1558",
@@ -44168,21 +44179,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219808,
+      "Progressed": 219816,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253534,
+      "Progressed": 253542,
       "Completed": 2614
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-12T13:05:15.497125+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:10:40.9177096+00:00",
+  "LastChanged": "2024-01-12T15:00:30.3477007+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:11:04.3384158+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:59:49.5357641+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:10:40.9201055+00:00"
+  "LastUpdate_Ratings": "2024-01-12T15:00:30.3477015+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:11:04.3410411+00:00"
 }

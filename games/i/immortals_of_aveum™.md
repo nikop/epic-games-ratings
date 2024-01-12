@@ -5,20 +5,20 @@ Rating: 4.18 (Ranked 983)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,955 |
-| Battlefields Have Memories | 81.00% | ~2,720 |
-| Enlisted | 74.00% | ~2,485 |
-| Maybe Engage a Little | 69.00% | ~2,317 |
-| No More Names | 52.00% | ~1,746 |
+| Unforeseen | 88.00% | ~2,956 |
+| Battlefields Have Memories | 81.00% | ~2,721 |
+| Enlisted | 74.00% | ~2,486 |
+| Maybe Engage a Little | 69.00% | ~2,318 |
+| No More Names | 53.00% | ~1,780 |
 | Initiate | 39.00% | ~1,310 |
-| Thrada-Kul | 35.00% | ~1,175 |
+| Thrada-Kul | 35.00% | ~1,176 |
 | Gravity-Challenged Rocks | 29.00% | ~974 |
 | Socialite | 24.00% | ~806 |
 | Soldier | 24.00% | ~806 |
 | All the Major Food Groups | 24.00% | ~806 |
 | Beggars Would Ride | 22.00% | ~739 |
 | Control is an Illusion | 20.00% | ~672 |
-| The Means to Save It | 18.00% | ~604 |
+| The Means to Save It | 18.00% | ~605 |
 | Resilience to Sin | 16.00% | ~537 |
 | A Familiar Nest | 16.00% | ~537 |
 | Periapt Alizarin | 16.00% | ~537 |
@@ -30,8 +30,8 @@ Rating: 4.18 (Ranked 983)
 | Periapt Cerulean | 8.00% | ~269 |
 | Good Boy | 8.00% | ~269 |
 | Periapt Viridian | 7.00% | ~235 |
-| Best Dressed | 6.00% | ~201 |
-| Shroudfane Explorer | 6.00% | ~201 |
+| Best Dressed | 6.00% | ~202 |
+| Shroudfane Explorer | 6.00% | ~202 |
 | Kitted Out | 5.00% | ~168 |
 | Armaments Gules | 5.00% | ~168 |
 | Scholar | 4.00% | ~134 |
@@ -53,7 +53,7 @@ Rating: 4.18 (Ranked 983)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,358 (Ranked 229)  
+Progressed: 3,359 (Ranked 229)  
 Completed: 4 (0.12%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 4 (0.12%) (Ranked 305)
 | 2024-01-09 | 3,204 | 4 |
 | 2024-01-10 | 3,285 | 4 |
 | 2024-01-11 | 3,340 | 4 |
-| 2024-01-12 | 3,358 | 4 |
+| 2024-01-12 | 3,359 | 4 |
 ## Awards
 Max (Quickly Understood Controls): 20  (Ranked 579)  
 Sum: 20 (Ranked 580)  

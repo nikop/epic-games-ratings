@@ -5,12 +5,12 @@ Rating: 4.55 (Ranked 530)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~634 |
+| Tell me your story | 75.00% | ~635 |
 | Don't judge a manhole by its cover | 60.00% | ~508 |
 | I just love stuff! | 41.00% | ~347 |
 | Keep 'em coming! | 41.00% | ~347 |
 | The things they print nowadays | 39.00% | ~330 |
-| Big Spender | 38.00% | ~321 |
+| Big Spender | 38.00% | ~322 |
 | That's gotta hurt | 36.00% | ~305 |
 | I think it's broke | 26.00% | ~220 |
 | The Ann Flores Combo Experience | 26.00% | ~220 |
@@ -20,7 +20,7 @@ Rating: 4.55 (Ranked 530)
 | The Warlord | 19.00% | ~161 |
 | You are the One | 19.00% | ~161 |
 | Deadly Kombationem | 18.00% | ~152 |
-| The truth is out there | 16.00% | ~135 |
+| The truth is out there | 16.00% | ~136 |
 | Annakin Skyscroller | 13.00% | ~110 |
 | In the smacker...I think | 10.00% | ~85 |
 | Arm Wrestlin' | 9.00% | ~76 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 530)
 | Love me like I love my posters | 0.90% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 846 (Ranked 310)  
+Progressed: 847 (Ranked 310)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-08 | 843 | 0 |
 | 2024-01-09 | 844 | 0 |
 | 2024-01-11 | 845 | 0 |
-| 2024-01-12 | 846 | 0 |
+| 2024-01-12 | 847 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

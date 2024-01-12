@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -863,17 +863,17 @@
       "ID": "ACH_10_DRINK_CHALLENGEMODE",
       "SetID": "8h8m55b",
       "Name": "Barista Trainee",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_25_DRINK_CHALLENGEMODE",
       "SetID": "8h8m55b",
       "Name": "Barista Expert",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_40075_KM",
@@ -887,9 +887,9 @@
       "ID": "ACH_50_DRINK_CHALLENGEMODE",
       "SetID": "8h8m55b",
       "Name": "Barista Guru",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_A_BUDDING_PARTNERSHIP",
@@ -1079,9 +1079,9 @@
       "ID": "ACH_LISTEN_ALL_SONG",
       "SetID": "8h8m55b",
       "Name": "24/7 a beat to relax/study to",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_LOCAL_FAVORITE",
@@ -1223,9 +1223,9 @@
       "ID": "ACH_UNLOCK_ALL_DRINK",
       "SetID": "8h8m55b",
       "Name": "Master Brewer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_UNLOCK_GALLERY",
@@ -1294,8 +1294,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:05:39.5617663+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:06:22.0051599+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:58.8135864+00:00",
-  "LastUpdate_Ratings": "2024-01-12T14:00:53.5942516+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:05:39.5618335+00:00"
+  "LastUpdate_Ratings": "2024-01-12T15:01:55.5053744+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:06:22.0052475+00:00"
 }

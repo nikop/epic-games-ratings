@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -854,9 +854,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6287,
+  "EOS_Progressed": 6289,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13084,6 +13084,11 @@
       "Time": "2024-01-12T11:04:15.0889856+00:00",
       "NumProgressed": 6287,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-12T15:04:40.4182229+00:00",
+      "NumProgressed": 6289,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13112,7 +13117,7 @@
       "Name": "Deadication",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -13144,7 +13149,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -13152,7 +13157,7 @@
       "Name": "First Strike",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -13240,7 +13245,7 @@
       "Name": "Season Finale",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -13279,15 +13284,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6287,
+      "Progressed": 6289,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:04:18.1771773+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:04:40.4182225+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:58:20.5611862+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:04:18.1772562+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:58:28.8679978+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:04:40.4182845+00:00"
 }

@@ -6,11 +6,11 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~5,177 |
-| Un-Lonely Island | 44.00% | ~3,120 |
+| Just One...More...Term... | 73.00% | ~5,179 |
+| Un-Lonely Island | 44.00% | ~3,121 |
 | The Beginning of a Servantship | 43.00% | ~3,050 |
-| Trade Is My Trait | 35.00% | ~2,482 |
-| Number 18 | 23.00% | ~1,631 |
+| Trade Is My Trait | 35.00% | ~2,483 |
+| Number 18 | 23.00% | ~1,632 |
 | We Don't Have Time For That | 18.00% | ~1,277 |
 | The Legend of Langostino | 16.00% | ~1,135 |
 | The Governator | 16.00% | ~1,135 |
@@ -21,10 +21,10 @@ Number of Ratings: 398  (23.09.2022)
 | For Science! | 10.00% | ~709 |
 | Of Seals And Men | 9.00% | ~638 |
 | Shackadelic | 9.00% | ~638 |
-| Double Trouble | 8.00% | ~567 |
-| Firestarter | 7.00% | ~496 |
-| Make Tropico Great Again! | 7.00% | ~496 |
-| French Connection | 7.00% | ~496 |
+| Double Trouble | 8.00% | ~568 |
+| Firestarter | 7.00% | ~497 |
+| Make Tropico Great Again! | 7.00% | ~497 |
+| French Connection | 7.00% | ~497 |
 | Don't Panic! | 6.00% | ~426 |
 | I Owe You Nothing | 6.00% | ~426 |
 | Viva Tropico! | 5.00% | ~355 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~57 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,092 (Ranked 198)  
+Progressed: 7,094 (Ranked 198)  
 Completed: 2 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,16 +314,16 @@ Completed: 2 (0.03%) (Ranked 357)
 | 2024-01-09 | 7,043 | 2 |
 | 2024-01-10 | 7,069 | 2 |
 | 2024-01-11 | 7,083 | 2 |
-| 2024-01-12 | 7,092 | 2 |
+| 2024-01-12 | 7,094 | 2 |
 ## Awards
 Max (Highly Recommended): 107  (Ranked 371)  
-Sum: 763 (Ranked 303)  
+Sum: 764 (Ranked 303)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 107 |
 | This game is Great for Beginners | 106 |
-| This game is Relaxing | 104 |
+| This game is Relaxing | 105 |
 | This game has Quickly Understood Controls | 103 |
 | This game is Extremely Fun | 97 |
 | This game has Amazing Storytelling | 97 |
@@ -520,4 +520,4 @@ Diff (max vs sum): 68
 | 2024-01-07 | 4.66 | - | 106 | 758 |
 | 2024-01-10 | 4.65 | - | 107 | 759 |
 | 2024-01-11 | 4.65 | - | 107 | 760 |
-| 2024-01-12 | 4.65 | - | 107 | 763 |
+| 2024-01-12 | 4.65 | - | 107 | 764 |

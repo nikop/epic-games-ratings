@@ -31,10 +31,10 @@
 | And now we wish... | 2.00% | ~14 |
 | Ss ss ss... | 2.00% | ~14 |
 | Collectibles Part 2 | 1.00% | ~7 |
+| Elf-Friend | 0.70% | ~5 |
 | We wants it! We needs it | 0.70% | ~5 |
 | Nervous Hands | 0.70% | ~5 |
 | Scout | 0.70% | ~5 |
-| Elf-Friend | 0.60% | ~4 |
 | We Hates Them! | 0.40% | ~3 |
 | Good Sméagol! | 0.40% | ~3 |
 | Rule them all! | 0.10% | ~1 |

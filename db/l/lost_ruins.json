@@ -5,9 +5,9 @@
   "Ranking_Rating": 40,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
-  "Ranking_EOS_Progress": 329,
+  "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 697,
+  "EOS_Progressed": 698,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1984,6 +1984,11 @@
       "Time": "2024-01-12T05:10:00.3737747+00:00",
       "NumProgressed": 697,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T15:10:52.5552424+00:00",
+      "NumProgressed": 698,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2009,9 +2014,9 @@
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 132
+      "UsersEstimate": 126
     },
     {
       "ID": "Assassin",
@@ -2027,7 +2032,7 @@
       "Name": "Boss Killer",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "BugHunter",
@@ -2035,7 +2040,7 @@
       "Name": "Bug Hunter",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "Cryomancer",
@@ -2259,7 +2264,7 @@
       "Name": "The Fallen",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "TheTrio",
@@ -2275,7 +2280,7 @@
       "Name": "Trap Master",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "TreasureHunter",
@@ -2314,7 +2319,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 697,
+      "Progressed": 698,
       "Completed": 1
     }
   ],
@@ -2322,8 +2327,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2024-01-12T01:47:25.1685373+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:10:30.8559701+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:10:52.555242+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:09.081719+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:59:00.6893548+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:10:30.8560137+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:59:23.8947143+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:10:52.5552717+00:00"
 }

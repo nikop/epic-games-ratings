@@ -256,9 +256,9 @@
       "Count": 129
     }
   ],
-  "EOS_Progressed": 44023,
+  "EOS_Progressed": 44026,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -29241,6 +29241,11 @@
       "Time": "2024-01-12T14:05:33.9065591+00:00",
       "NumProgressed": 44023,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-12T15:06:14.4901622+00:00",
+      "NumProgressed": 44026,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -29252,7 +29257,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6603
+      "UsersEstimate": 6604
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -29292,7 +29297,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -29364,7 +29369,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -29404,7 +29409,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2642
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -29412,7 +29417,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2642
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -29483,7 +29488,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 44023,
+      "Progressed": 44026,
       "Completed": 30
     }
   ],
@@ -29491,8 +29496,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2024-01-10T02:27:03.5087027+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:05:33.9065585+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:06:14.4901618+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:02.3058441+00:00",
-  "LastUpdate_Ratings": "2024-01-12T14:03:06.9284323+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:05:33.906674+00:00"
+  "LastUpdate_Ratings": "2024-01-12T15:03:08.1871108+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:06:14.4903475+00:00"
 }

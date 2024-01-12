@@ -6,55 +6,55 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~54,011 |
-| Worth it | 63.00% | ~43,624 |
-| Eagle Eye | 55.00% | ~38,085 |
-| Corpseman I | 39.00% | ~27,006 |
-| Blast fishing | 37.00% | ~25,621 |
-| Not alone | 32.00% | ~22,158 |
-| Headhunter I | 26.00% | ~18,004 |
-| Developers, Developers, Developers | 24.00% | ~16,619 |
-| Manual Labour I | 24.00% | ~16,619 |
-| Basic Training | 23.00% | ~15,926 |
-| Furchtlos und Treu | 13.00% | ~9,002 |
-| Gott Mit Uns | 12.00% | ~8,309 |
-| This We'll Defend! | 9.00% | ~6,232 |
-| Providentiea Memor | 9.00% | ~6,232 |
-| For King and Country | 9.00% | ~6,232 |
+| Setting an example | 78.00% | ~54,016 |
+| Worth it | 63.00% | ~43,628 |
+| Eagle Eye | 55.00% | ~38,088 |
+| Corpseman I | 39.00% | ~27,008 |
+| Blast fishing | 37.00% | ~25,623 |
+| Not alone | 32.00% | ~22,160 |
+| Headhunter I | 26.00% | ~18,005 |
+| Developers, Developers, Developers | 24.00% | ~16,620 |
+| Manual Labour I | 24.00% | ~16,620 |
+| Basic Training | 23.00% | ~15,928 |
+| Furchtlos und Treu | 13.00% | ~9,003 |
+| Gott Mit Uns | 12.00% | ~8,310 |
+| This We'll Defend! | 9.00% | ~6,233 |
+| Providentiea Memor | 9.00% | ~6,233 |
+| For King and Country | 9.00% | ~6,233 |
 | Battle hardened | 8.00% | ~5,540 |
 | Anker wirf! | 8.00% | ~5,540 |
-| Semper Fidelis! | 7.00% | ~4,847 |
-| Honneur et Patrie | 7.00% | ~4,847 |
-| In Treue Fest | 5.00% | ~3,462 |
-| Voor De Koning | 5.00% | ~3,462 |
-| Extreme Headhunter | 5.00% | ~3,462 |
+| Semper Fidelis! | 7.00% | ~4,848 |
+| Honneur et Patrie | 7.00% | ~4,848 |
+| In Treue Fest | 5.00% | ~3,463 |
+| Voor De Koning | 5.00% | ~3,463 |
+| Extreme Headhunter | 5.00% | ~3,463 |
 | Advance Australia | 4.00% | ~2,770 |
 | We Stand on Guard | 4.00% | ~2,770 |
 | Sidi Brahim | 4.00% | ~2,770 |
 | War is better with friends I | 4.00% | ~2,770 |
 | Let them, come to us | 4.00% | ~2,770 |
 | Corpseman II | 4.00% | ~2,770 |
-| Offense is the best defence | 3.00% | ~2,077 |
-| There is no I in team | 3.00% | ~2,077 |
-| Veteran | 3.00% | ~2,077 |
-| Manual Labour II | 3.00% | ~2,077 |
-| In My Defens God Me Defend | 3.00% | ~2,077 |
-| Silver x100 | 3.00% | ~2,077 |
-| Impavidum Ferient Bella! | 3.00% | ~2,077 |
+| Offense is the best defence | 3.00% | ~2,078 |
+| There is no I in team | 3.00% | ~2,078 |
+| Veteran | 3.00% | ~2,078 |
+| Manual Labour II | 3.00% | ~2,078 |
+| In My Defens God Me Defend | 3.00% | ~2,078 |
+| Silver x100 | 3.00% | ~2,078 |
+| Impavidum Ferient Bella! | 3.00% | ~2,078 |
 | Bronze x100 | 2.00% | ~1,385 |
 | Shoot, Cover, Reload, Repeat | 2.00% | ~1,385 |
-| Gold x100 | 1.00% | ~692 |
-| Hunting the Hun | 1.00% | ~692 |
-| #1 | 1.00% | ~692 |
-| Golden Headhunter | 1.00% | ~692 |
-| That's another one down! | 1.00% | ~692 |
-| Do you even die? | 1.00% | ~692 |
-| Headhunter II | 1.00% | ~692 |
-| Corpseman III | 1.00% | ~692 |
+| Gold x100 | 1.00% | ~693 |
+| Hunting the Hun | 1.00% | ~693 |
+| #1 | 1.00% | ~693 |
+| Golden Headhunter | 1.00% | ~693 |
+| That's another one down! | 1.00% | ~693 |
+| Do you even die? | 1.00% | ~693 |
+| Headhunter II | 1.00% | ~693 |
+| Corpseman III | 1.00% | ~693 |
 | Elite Player | 0.80% | ~554 |
 | Manual Labour III | 0.40% | ~277 |
-| War is better with friends II | 0.20% | ~138 |
-| Buddy | 0.20% | ~138 |
+| War is better with friends II | 0.20% | ~139 |
+| Buddy | 0.20% | ~139 |
 | Gold Collector | 0.10% | ~69 |
 | Gold Hoarder | 0.10% | ~69 |
 | Silver Collector | 0.10% | ~69 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~69 |
 | Blood Brother | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,245 (Ranked 114)  
+Progressed: 69,251 (Ranked 114)  
 Completed: 4 (0.01%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 4 (0.01%) (Ranked 375)
 | 2024-01-09 | 69,082 | 4 |
 | 2024-01-10 | 69,148 | 4 |
 | 2024-01-11 | 69,213 | 4 |
-| 2024-01-12 | 69,245 | 4 |
+| 2024-01-12 | 69,251 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 374)  
 Sum: 835 (Ranked 289)  

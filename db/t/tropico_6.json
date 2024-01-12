@@ -1495,10 +1495,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 763,
       "NumberOfAwardsMax": 107
+    },
+    {
+      "Time": "2024-01-12T14:58:10.8597256+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 764,
+      "NumberOfAwardsMax": 107
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 763,
+  "NumberOfAwards": 764,
   "NumberOfAwardsMax": 107,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1512,7 +1518,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 104
+      "Count": 105
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1569,7 +1575,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7092,
+  "EOS_Progressed": 7094,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
@@ -16579,6 +16585,11 @@
       "Time": "2024-01-12T14:04:25.1510296+00:00",
       "NumProgressed": 7092,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-12T15:04:49.7443286+00:00",
+      "NumProgressed": 7094,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -16606,7 +16617,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -16710,7 +16721,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1631
+      "UsersEstimate": 1632
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -16718,7 +16729,7 @@
       "Name": "Firestarter",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -16750,7 +16761,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5177
+      "UsersEstimate": 5179
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -16846,7 +16857,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3120
+      "UsersEstimate": 3121
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -16862,7 +16873,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2482
+      "UsersEstimate": 2483
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -16870,7 +16881,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -16894,7 +16905,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -16909,15 +16920,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7092,
+      "Progressed": 7094,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2024-01-12T06:58:00.8853685+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:04:25.1510293+00:00",
+  "LastChanged": "2024-01-12T14:58:10.8597254+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:04:49.7443283+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.4830018+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:58:05.8651192+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:04:25.1511147+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:58:10.859726+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:04:49.7444258+00:00"
 }

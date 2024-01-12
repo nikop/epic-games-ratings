@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -158,7 +158,7 @@
   "Tags": [],
   "EOS_Progressed": 662,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2467,9 +2467,9 @@
       "ID": "ACH_KILL_20",
       "SetID": "7c4cldc",
       "Name": "Scrapper",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 285
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_KILL_50",
@@ -2531,9 +2531,9 @@
       "ID": "ACH_SURVIVE_10_DAYS",
       "SetID": "7c4cldc",
       "Name": "Survivor",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_SURVIVE_20_DAYS",
@@ -2572,8 +2572,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:09:48.4275425+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:09:58.8017625+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2095998+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:58:58.903592+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:09:48.4275768+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:59:21.7395276+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:09:58.8017858+00:00"
 }

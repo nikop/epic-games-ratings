@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1141,
+  "EOS_Progressed": 1143,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3987,6 +3987,11 @@
       "Time": "2024-01-12T14:09:43.2285697+00:00",
       "NumProgressed": 1141,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T15:09:52.0148348+00:00",
+      "NumProgressed": 1143,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4007,7 +4012,7 @@
       "Name": "The Song of Stoutheart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -4029,9 +4034,9 @@
       "ID": "AttackCount",
       "SetID": "71c0n9i",
       "Name": "Attack Bonanza",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "BaryaCampaign",
@@ -4103,7 +4108,7 @@
       "Name": "Critical Hit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "Deepstrike",
@@ -4143,15 +4148,15 @@
       "Name": "Double Kill",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "FlameAttackKillCount",
       "SetID": "71c0n9i",
       "Name": "Barbecue",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "FrontlineFighterCount",
@@ -4239,7 +4244,7 @@
       "Name": "Whoops!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "RanaCampaign",
@@ -4263,7 +4268,7 @@
       "Name": "Don\u0027t Touch My Stuff",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -4327,7 +4332,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "WielderLevel2",
@@ -4335,7 +4340,7 @@
       "Name": "Veteran",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "WielderLevel3",
@@ -4430,15 +4435,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1141,
+      "Progressed": 1143,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-12T14:09:43.2285694+00:00",
+  "LastChanged_Achievements": "2024-01-12T15:09:52.0148345+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-12T13:59:00.8800873+00:00",
-  "LastUpdate_Achievements": "2024-01-12T14:09:43.2286227+00:00"
+  "LastUpdate_Ratings": "2024-01-12T14:59:24.2266633+00:00",
+  "LastUpdate_Achievements": "2024-01-12T15:09:52.0148786+00:00"
 }
