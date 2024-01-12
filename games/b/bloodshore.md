@@ -14,7 +14,7 @@
 | This won't end well... | 31.00% | ~87 |
 | Bromance | 30.00% | ~84 |
 | Mission Complete | 30.00% | ~84 |
-| Lootaphilia | 21.00% | ~59 |
+| Lootaphilia | 22.00% | ~62 |
 | Maybe you should give it another go | 11.00% | ~31 |
 | Mikey Lizard | 6.00% | ~17 |
 | I used to think I was indecisive... | 6.00% | ~17 |

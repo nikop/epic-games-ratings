@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -37,7 +37,7 @@
   "Tags": [],
   "EOS_Progressed": 315,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -1509,9 +1509,9 @@
       "ID": "KR4_ACHIEVEMENT_BUILD_TOWERS_EASY",
       "SetID": "caeik3h",
       "Name": "We Can Build It!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 261
     },
     {
       "ID": "KR4_ACHIEVEMENT_CALL_EARLY_WAVES",
@@ -1565,9 +1565,9 @@
       "ID": "KR4_ACHIEVEMENT_DESTROY_MINE_CARTS",
       "SetID": "caeik3h",
       "Name": "Final Destination",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 161
     },
     {
       "ID": "KR4_ACHIEVEMENT_DWARVES_KINGDOM_FULL",
@@ -1773,9 +1773,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_HARD",
       "SetID": "caeik3h",
       "Name": "No Survivors III",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 186
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
@@ -1797,9 +1797,9 @@
       "ID": "KR4_ACHIEVEMENT_KING",
       "SetID": "caeik3h",
       "Name": "The True King",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 189
+      "UsersEstimate": 186
     },
     {
       "ID": "KR4_ACHIEVEMENT_LINIREA",
@@ -1901,9 +1901,9 @@
       "ID": "KR4_ACHIEVEMENT_POLYX",
       "SetID": "caeik3h",
       "Name": "Much To Learn",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 117
     },
     {
       "ID": "KR4_ACHIEVEMENT_PUMPKIN",
@@ -1973,9 +1973,9 @@
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
       "SetID": "caeik3h",
       "Name": "We Are Legion!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 173
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPIDERS",
@@ -1997,17 +1997,17 @@
       "ID": "KR4_ACHIEVEMENT_SUPREME_DEFENDER",
       "SetID": "caeik3h",
       "Name": "Supreme Defender",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 32
     },
     {
       "ID": "KR4_ACHIEVEMENT_T800",
       "SetID": "caeik3h",
       "Name": "I\u0027ll Be Back",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 180
     },
     {
       "ID": "KR4_ACHIEVEMENT_THE_GILLMAN",
@@ -2076,8 +2076,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:04:08.5611024+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:05:13.2536555+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:57:30.3416359+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:04:08.5611856+00:00"
+  "LastUpdate_Ratings": "2024-01-12T18:57:59.0396152+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:05:13.2537418+00:00"
 }

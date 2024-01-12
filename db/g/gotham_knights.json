@@ -4,7 +4,7 @@
   "ProductSlug": "gotham-knights",
   "Ranking_Rating": 974,
   "Ranking_Popularity": 101,
-  "Ranking_PopularitySum": 142,
+  "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 106,
@@ -5157,18 +5157,24 @@
       "Rating": 4.19,
       "NumberOfAwards": 5432,
       "NumberOfAwardsMax": 3177
+    },
+    {
+      "Time": "2024-01-12T18:57:45.9696335+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 5444,
+      "NumberOfAwardsMax": 3189
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5432,
-  "NumberOfAwardsMax": 3177,
+  "NumberOfAwards": 5444,
+  "NumberOfAwardsMax": 3189,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3177
+      "Count": 3189
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5225,9 +5231,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82583,
+  "EOS_Progressed": 82585,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 1012,
+  "EOS_NewPlayers": 1006,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -29960,6 +29966,11 @@
       "Time": "2024-01-12T18:06:00.2577927+00:00",
       "NumProgressed": 82583,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2024-01-12T19:07:48.2369194+00:00",
+      "NumProgressed": 82585,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 61,
@@ -30019,7 +30030,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18168
+      "UsersEstimate": 18169
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -30059,7 +30070,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 12387
+      "UsersEstimate": 12388
     },
     {
       "ID": "CHALLENGES_1",
@@ -30067,7 +30078,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 13213
+      "UsersEstimate": 13214
     },
     {
       "ID": "CLAYFACE_1",
@@ -30155,7 +30166,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7432
+      "UsersEstimate": 7433
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -30187,7 +30198,7 @@
       "Name": "Drone You Out",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7432
+      "UsersEstimate": 7433
     },
     {
       "ID": "FREEZE_1",
@@ -30195,7 +30206,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 22297
+      "UsersEstimate": 22298
     },
     {
       "ID": "FREEZE_1_5",
@@ -30275,7 +30286,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28078
+      "UsersEstimate": 28079
     },
     {
       "ID": "HARLEY_2",
@@ -30299,7 +30310,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 12387
+      "UsersEstimate": 12388
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -30331,7 +30342,7 @@
       "Name": "A Momentum Occasion",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2478
     },
     {
       "ID": "HERO_PROGRESSION_4",
@@ -30363,7 +30374,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27252
+      "UsersEstimate": 27253
     },
     {
       "ID": "MYSTERY_02",
@@ -30379,7 +30390,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18168
+      "UsersEstimate": 18169
     },
     {
       "ID": "MYSTERY_04",
@@ -30451,29 +30462,29 @@
       "Name": "Bat Out of Hell",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2478
     }
   ],
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82583,
+      "Progressed": 82585,
       "Completed": 133
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 52863,
+      "Progressed": 52865,
       "Completed": 2679
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2024-01-12T17:57:21.1187747+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:06:00.2577922+00:00",
+  "LastChanged": "2024-01-12T18:57:45.9696333+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:07:48.2369189+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:43.7132471+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:57:21.1187754+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:06:00.2579593+00:00"
+  "LastUpdate_Ratings": "2024-01-12T18:57:45.969634+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:07:48.2370572+00:00"
 }

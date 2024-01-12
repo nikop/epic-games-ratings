@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -263,7 +263,7 @@
   "Tags": [],
   "EOS_Progressed": 1221,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3942,9 +3942,9 @@
       "ID": "ACH049",
       "SetID": "69nfp41",
       "Name": "Wholesale",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 269
     }
   ],
   "AchievementSets": [
@@ -3958,8 +3958,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:04:14.0771281+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:05:20.8401444+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:24.8175956+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:58:32.0334732+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:04:14.0772021+00:00"
+  "LastUpdate_Ratings": "2024-01-12T18:59:32.6290861+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:05:20.8402085+00:00"
 }

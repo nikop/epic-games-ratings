@@ -24,8 +24,8 @@ Rating: 4.54 (Ranked 553)
 | Stamina Star | 8.00% | ~285 |
 | Evangelist | 7.00% | ~249 |
 | Make It Your Own! | 5.00% | ~178 |
+| Cherry Blossom and Temples | 5.00% | ~178 |
 | The Road to Liberty | 5.00% | ~178 |
-| Cherry Blossom and Temples | 4.00% | ~143 |
 | Romantic Races | 4.00% | ~143 |
 | My Work Here Is Done | 4.00% | ~143 |
 | Spoilt for Choice | 3.00% | ~107 |

@@ -1,7 +1,7 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.77 (Ranked 118)  
+Rating: 4.77 (Ranked 119)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -59,7 +59,7 @@ Rating: 4.77 (Ranked 118)
 | Silverwing nest | 2.00% | ~69 |
 | The Unshackled | 1.00% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,431 (Ranked 227)  
+Progressed: 3,431 (Ranked 228)  
 Completed: 23 (0.67%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |

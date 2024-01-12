@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9511,9 +9511,9 @@
       "Count": 3635
     }
   ],
-  "EOS_Progressed": 253561,
+  "EOS_Progressed": 253570,
   "EOS_Completed": 2614,
-  "EOS_NewPlayers": 1965,
+  "EOS_NewPlayers": 1954,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39816,6 +39816,11 @@
       "Time": "2024-01-12T18:10:07.5147351+00:00",
       "NumProgressed": 253561,
       "NumCompleted": 2614
+    },
+    {
+      "Time": "2024-01-12T19:11:05.4648443+00:00",
+      "NumProgressed": 253570,
+      "NumCompleted": 2614
     }
   ],
   "TotalAchievements": 546,
@@ -39827,7 +39832,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10142
+      "UsersEstimate": 10143
     },
     {
       "ID": "objective_completed_10",
@@ -40691,7 +40696,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2029
     },
     {
       "ID": "objective_completed_1203",
@@ -41369,9 +41374,9 @@
       "ID": "objective_completed_262",
       "SetID": "cc37lbc",
       "Name": "Tower on the Lake",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 507
     },
     {
       "ID": "objective_completed_263",
@@ -44194,21 +44199,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219835,
+      "Progressed": 219844,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253561,
+      "Progressed": 253570,
       "Completed": 2614
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-12T15:00:30.3477007+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:10:07.5147345+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:11:05.4648437+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:59:20.5888551+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:10:07.5173795+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:00:43.8469+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:11:05.4672522+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -59,7 +59,7 @@
   "Tags": [],
   "EOS_Progressed": 3563,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8890,9 +8890,9 @@
       "ID": "ML_ACHIEVEMENT_17",
       "SetID": "c7hf6a4",
       "Name": "Cherry Blossom and Temples",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 178
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -9163,8 +9163,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-11T14:58:44.7616206+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:04:53.2230779+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:06:15.4209011+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.6681713+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:59:04.4165052+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:04:53.2231623+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:00:20.1593461+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:06:15.4209737+00:00"
 }

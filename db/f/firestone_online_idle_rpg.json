@@ -3,12 +3,12 @@
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 1021,
-  "Ranking_Popularity": 484,
+  "Ranking_Popularity": 485,
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.1,
+  "Rating": 4.11,
   "RatingHistory": [
     {
       "Time": "2023-04-03T11:57:10.5871115+00:00",
@@ -719,10 +719,16 @@
       "Rating": 4.1,
       "NumberOfAwards": 157,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2024-01-12T18:59:41.1743567+00:00",
+      "Rating": 4.11,
+      "NumberOfAwards": 158,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 157,
+  "NumberOfAwards": 158,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -742,7 +748,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Playful Visuals",
@@ -765,7 +771,7 @@
   ],
   "EOS_Progressed": 4437,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -13040,9 +13046,9 @@
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2024-01-11T22:58:21.9638016+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:03:41.0569491+00:00",
+  "LastChanged": "2024-01-12T18:59:41.1743565+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:04:34.8216212+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:00.5947712+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:58:37.4862738+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:03:41.0570986+00:00"
+  "LastUpdate_Ratings": "2024-01-12T18:59:41.174357+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:04:34.8217764+00:00"
 }

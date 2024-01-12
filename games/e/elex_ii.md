@@ -10,15 +10,15 @@ Number of Ratings: 124  (23.09.2022)
 | Best Buddy | 37.00% | ~88 |
 | Civilian | 35.00% | ~83 |
 | Role Model | 32.00% | ~76 |
-| Creator | 28.00% | ~67 |
+| Creator | 29.00% | ~69 |
 | Military Leader | 26.00% | ~62 |
 | Festival-goer | 26.00% | ~62 |
 | Peddler | 24.00% | ~57 |
-| Commander | 20.00% | ~48 |
+| Commander | 21.00% | ~50 |
 | Irissa's Fate | 19.00% | ~45 |
 | Pass A38 | 17.00% | ~40 |
 | Long-Haul Flyer | 16.00% | ~38 |
-| Family Reunion | 15.00% | ~36 |
+| Family Reunion | 16.00% | ~38 |
 | Eternal Oblivion | 14.00% | ~33 |
 | Storyteller | 13.00% | ~31 |
 | Banker | 11.00% | ~26 |
@@ -44,8 +44,8 @@ Number of Ratings: 124  (23.09.2022)
 | Toy Time | 2.00% | ~5 |
 | Destroyer | 2.00% | ~5 |
 | Pack Rat | 1.00% | ~2 |
+| Defector | 1.00% | ~2 |
 | Outlaw | 1.00% | ~2 |
-| Defector | 0.80% | ~2 |
 | Ruthless | 0.80% | ~2 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |

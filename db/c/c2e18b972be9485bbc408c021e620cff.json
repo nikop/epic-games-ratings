@@ -2,13 +2,13 @@
   "ID": "c2e18b972be9485bbc408c021e620cff",
   "Name": "Train Sim World\u00AE 4: Standard Edition",
   "ProductSlug": "train-sim-world-4",
-  "Ranking_Rating": 855,
+  "Ranking_Rating": 844,
   "Ranking_Popularity": 356,
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-26T17:00:00+00:00",
     "PcReleaseDate": "2023-09-26T17:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.33,
+  "Rating": 4.34,
   "RatingHistory": [
     {
       "Time": "2023-09-28T19:59:46.8251256+00:00",
@@ -1303,10 +1303,16 @@
       "Rating": 4.33,
       "NumberOfAwards": 434,
       "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2024-01-12T19:01:10.8001482+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 435,
+      "NumberOfAwardsMax": 123
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 434,
+  "NumberOfAwards": 435,
   "NumberOfAwardsMax": 123,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1356,7 +1362,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1391,9 +1397,9 @@
   "FirstSeen": "2023-09-26T18:02:09.8849688+00:00",
   "FirstSeenRating": "2023-09-28T19:59:46.8251254+00:00",
   "FirstSeenAchievements": "2023-08-15T22:07:16.7768201+00:00",
-  "LastChanged": "2024-01-12T17:00:43.1668553+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:04:32.3342694+00:00",
+  "LastChanged": "2024-01-12T19:01:10.8001481+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:05:46.4263714+00:00",
   "LastUpdate_AppInfo": "2024-01-10T04:57:09.0728838+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:59:39.4373458+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:04:32.3342727+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:01:10.8001486+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:05:46.4263751+00:00"
 }

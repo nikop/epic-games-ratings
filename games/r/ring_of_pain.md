@@ -21,16 +21,16 @@ Number of Ratings: 15,086  (23.09.2022)
 | An Offering | 1.00% | ~2,428 |
 | Not Touching You | 1.00% | ~43 |
 | Matching | 1.00% | ~43 |
-| Ambitious Intent | 0.90% | ~2,185 |
-| Delving Deeper | 0.90% | ~2,185 |
-| R.I.P | 0.90% | ~2,185 |
-| The Bestiary | 0.90% | ~2,185 |
-| Heartless | 0.90% | ~2,185 |
-| What's Yours Is Mine | 0.90% | ~2,185 |
-| Spine Breaker | 0.90% | ~2,185 |
-| C-C-Combo | 0.90% | ~2,185 |
-| Deflection | 0.90% | ~2,185 |
-| Sneaky | 0.90% | ~2,185 |
+| Ambitious Intent | 0.90% | ~2,186 |
+| Delving Deeper | 0.90% | ~2,186 |
+| R.I.P | 0.90% | ~2,186 |
+| The Bestiary | 0.90% | ~2,186 |
+| Heartless | 0.90% | ~2,186 |
+| What's Yours Is Mine | 0.90% | ~2,186 |
+| Spine Breaker | 0.90% | ~2,186 |
+| C-C-Combo | 0.90% | ~2,186 |
+| Deflection | 0.90% | ~2,186 |
+| Sneaky | 0.90% | ~2,186 |
 | Dig Your Own Grave | 0.80% | ~1,943 |
 | Walk It Off | 0.80% | ~1,943 |
 | Cold Hearted | 0.80% | ~1,943 |
@@ -68,23 +68,23 @@ Number of Ratings: 15,086  (23.09.2022)
 | Chain Reaction | 0.40% | ~971 |
 | Snake Sneak | 0.40% | ~971 |
 | Who Needs Luck? | 0.40% | ~17 |
-| Achievement Hunter | 0.30% | ~728 |
-| Challenge Increases | 0.30% | ~728 |
-| A Long Climb | 0.30% | ~728 |
-| New Game+ | 0.30% | ~728 |
-| Barbecue | 0.30% | ~728 |
-| Soul Stash | 0.30% | ~728 |
-| Juggernaut | 0.30% | ~728 |
-| Gigantic | 0.30% | ~728 |
-| Clearing The Room | 0.30% | ~728 |
-| Path To Enlightenment | 0.30% | ~728 |
-| Decisions, Decisions | 0.30% | ~728 |
-| Fragile Mortality | 0.30% | ~728 |
-| Fire Away! | 0.30% | ~728 |
-| Defuser | 0.30% | ~728 |
-| Obsessed | 0.30% | ~728 |
-| Sentimental Value | 0.30% | ~728 |
-| Precious | 0.30% | ~728 |
+| Achievement Hunter | 0.30% | ~729 |
+| Challenge Increases | 0.30% | ~729 |
+| A Long Climb | 0.30% | ~729 |
+| New Game+ | 0.30% | ~729 |
+| Barbecue | 0.30% | ~729 |
+| Soul Stash | 0.30% | ~729 |
+| Juggernaut | 0.30% | ~729 |
+| Gigantic | 0.30% | ~729 |
+| Clearing The Room | 0.30% | ~729 |
+| Path To Enlightenment | 0.30% | ~729 |
+| Decisions, Decisions | 0.30% | ~729 |
+| Fragile Mortality | 0.30% | ~729 |
+| Fire Away! | 0.30% | ~729 |
+| Defuser | 0.30% | ~729 |
+| Obsessed | 0.30% | ~729 |
+| Sentimental Value | 0.30% | ~729 |
+| Precious | 0.30% | ~729 |
 | Raw Power | 0.30% | ~13 |
 | Quick Descent | 0.20% | ~486 |
 | A Week Attempt | 0.20% | ~486 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,832 (Ranked 73)  
+Progressed: 242,835 (Ranked 73)  
 Completed: 305 (0.13%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -412,7 +412,7 @@ Completed: 305 (0.13%) (Ranked 300)
 | 2024-01-09 | 242,696 | 304 |
 | 2024-01-10 | 242,736 | 305 |
 | 2024-01-11 | 242,789 | 305 |
-| 2024-01-12 | 242,832 | 305 |
+| 2024-01-12 | 242,835 | 305 |
 ## Awards
 Max (Quickly Understood Controls): 1,515  (Ranked 139)  
 Sum: 11,795 (Ranked 89)  

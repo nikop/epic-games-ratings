@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1575,9 +1575,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7095,
+  "EOS_Progressed": 7096,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16595,6 +16595,11 @@
       "Time": "2024-01-12T18:03:59.631897+00:00",
       "NumProgressed": 7095,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-12T19:05:00.9739391+00:00",
+      "NumProgressed": 7096,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -16766,7 +16771,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5179
+      "UsersEstimate": 5180
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -16878,7 +16883,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2483
+      "UsersEstimate": 2484
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -16925,15 +16930,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7095,
+      "Progressed": 7096,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-12T14:58:10.8597254+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:03:59.6318966+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:05:00.9739386+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.4830018+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:57:47.8169144+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:03:59.6320576+00:00"
+  "LastUpdate_Ratings": "2024-01-12T18:58:26.6766825+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:05:00.9740417+00:00"
 }

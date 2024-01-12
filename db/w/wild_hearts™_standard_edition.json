@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1342,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -4424,9 +4424,9 @@
       "ID": "achievement_16",
       "SetID": "2cpn27e",
       "Name": "Distance Devourer",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 483
     },
     {
       "ID": "achievement_17",
@@ -4758,8 +4758,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:09:28.1235214+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:10:13.5093665+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:30.0899668+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:57:59.1180627+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:09:28.1235747+00:00"
+  "LastUpdate_Ratings": "2024-01-12T18:58:43.3475411+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:10:13.5094247+00:00"
 }

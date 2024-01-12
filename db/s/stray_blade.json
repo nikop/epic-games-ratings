@@ -4,8 +4,8 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -835,9 +835,9 @@
       "ID": "ACH_CRAFT_ALL_WEAPONS",
       "SetID": "7i20me3",
       "Name": "Collector",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_CRAFT_FIRST_WEAPON",
@@ -1234,8 +1234,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:09:57.3812718+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:10:52.9902601+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:06.39854+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:59:48.3191241+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:09:57.3813252+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:01:25.4077835+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:10:52.9903091+00:00"
 }

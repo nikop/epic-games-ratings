@@ -8,18 +8,18 @@
 | Overcoming Weakness | 35.00% | ~17 |
 | Boulder Breaker | 27.00% | ~13 |
 | Fence-Sitter | 14.00% | ~7 |
-| Green Thumb | 10.00% | ~5 |
+| Green Thumb | 12.00% | ~6 |
+| Crystal Hunter | 10.00% | ~5 |
 | Setting Off | 10.00% | ~5 |
-| Crystal Hunter | 8.00% | ~4 |
 | Bye-Bye, Butcher | 6.00% | ~3 |
 | Equivalent Exchange | 6.00% | ~3 |
 | Rejected Parasite | 4.00% | ~2 |
 | Danger | 4.00% | ~2 |
+| Eviction | 4.00% | ~2 |
 | Column Crusher | 2.00% | ~1 |
 | Rebellious Servant | 2.00% | ~1 |
 | A Twist of Fate | 2.00% | ~1 |
 | Strength | 2.00% | ~1 |
-| Eviction | 2.00% | ~1 |
 | For Justice | 2.00% | ~1 |
 | Rabbit Hunter | 2.00% | ~1 |
 | Breach of Contract | 2.00% | ~1 |

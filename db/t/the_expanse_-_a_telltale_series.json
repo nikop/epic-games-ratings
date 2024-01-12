@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18902,
+  "EOS_Progressed": 18906,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 617,
+  "EOS_NewPlayers": 613,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -17148,6 +17148,11 @@
       "Time": "2024-01-12T18:03:31.9687421+00:00",
       "NumProgressed": 18902,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-12T19:04:22.6201717+00:00",
+      "NumProgressed": 18906,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17176,7 +17181,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2457
+      "UsersEstimate": 2458
     },
     {
       "ID": "12",
@@ -17192,7 +17197,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3402
+      "UsersEstimate": 3403
     },
     {
       "ID": "14",
@@ -17208,7 +17213,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2080
     },
     {
       "ID": "16",
@@ -17224,7 +17229,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2269
     },
     {
       "ID": "18",
@@ -17240,7 +17245,7 @@
       "Name": "Martian Music",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2457
+      "UsersEstimate": 2458
     },
     {
       "ID": "2",
@@ -17264,7 +17269,7 @@
       "Name": "Drone Dodger",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2269
     },
     {
       "ID": "22",
@@ -17304,7 +17309,7 @@
       "Name": "Call it Even",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "27",
@@ -17312,7 +17317,7 @@
       "Name": "Bosmang",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2457
+      "UsersEstimate": 2458
     },
     {
       "ID": "28",
@@ -17336,7 +17341,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2835
+      "UsersEstimate": 2836
     },
     {
       "ID": "30",
@@ -17368,7 +17373,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "7",
@@ -17392,7 +17397,7 @@
       "Name": "Impossible Objects",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2457
+      "UsersEstimate": 2458
     },
     {
       "ID": "31",
@@ -17400,7 +17405,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "32",
@@ -17424,7 +17429,7 @@
       "Name": "Master Negotiator",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "35",
@@ -17439,13 +17444,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18902,
+      "Progressed": 18906,
       "Completed": 63
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4856,
+      "Progressed": 4860,
       "Completed": 1296
     }
   ],
@@ -17453,8 +17458,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-11T01:50:11.8166633+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:03:31.9687416+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:04:22.6201711+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:56:59.9928484+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:03:31.9688866+00:00"
+  "LastUpdate_Ratings": "2024-01-12T18:57:15.1631174+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:04:22.6202794+00:00"
 }

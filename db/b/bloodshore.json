@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -807,9 +807,9 @@
       "ID": "lootaphilia",
       "SetID": "84ad177",
       "Name": "Lootaphilia",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "maybe_you_should_give_it_another_go",
@@ -904,8 +904,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:03:57.7533112+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:04:58.2043459+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.9728945+00:00",
-  "LastUpdate_Ratings": "2024-01-12T18:03:10.8859201+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:03:57.7533319+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:03:50.4419825+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:04:58.2043948+00:00"
 }

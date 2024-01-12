@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -409,9 +409,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1940,
+  "EOS_Progressed": 1941,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3629,6 +3629,11 @@
       "Time": "2024-01-11T19:05:11.9995361+00:00",
       "NumProgressed": 1940,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-12T19:07:10.7189285+00:00",
+      "NumProgressed": 1941,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3640,7 +3645,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1902
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3696,7 +3701,7 @@
       "Name": "The First Step",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1689
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3704,7 +3709,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -3752,7 +3757,7 @@
       "Name": "Friendly",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -3792,7 +3797,7 @@
       "Name": "Decorative Mind",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "ACHIEVEMENTS_21",
@@ -3808,7 +3813,7 @@
       "Name": "The Capitalist",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -3816,7 +3821,7 @@
       "Name": "Lumber Specialist",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ACHIEVEMENTS_24",
@@ -3832,7 +3837,7 @@
       "Name": "Community Helper",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ACHIEVEMENTS_26",
@@ -3902,9 +3907,9 @@
       "ID": "ACHIEVEMENTS_34",
       "SetID": "d4o538a",
       "Name": "Moonbury Traveller",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1203
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -3912,7 +3917,7 @@
       "Name": "Production Sorter",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENTS_36",
@@ -3943,7 +3948,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1940,
+      "Progressed": 1941,
       "Completed": 11
     }
   ],
@@ -3951,8 +3956,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2024-01-11T09:59:14.3189006+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:05:32.9844155+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:07:10.7189279+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:08.493824+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:59:57.1898087+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:05:32.9844533+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:01:37.9308217+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:07:10.7189655+00:00"
 }

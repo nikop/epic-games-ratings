@@ -4,8 +4,8 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 748,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2551,9 +2551,9 @@
       "ID": "Remake_009",
       "SetID": "5pi96jj",
       "Name": "Make a fish your dish",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 194
+      "UsersEstimate": 202
     },
     {
       "ID": "Remake_010",
@@ -2670,8 +2670,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:04:46.6089841+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:06:06.326838+00:00",
   "LastUpdate_AppInfo": "2024-01-09T02:21:36.6517683+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:59:10.7711212+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:04:46.6090235+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:00:30.276294+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:06:06.3268683+00:00"
 }

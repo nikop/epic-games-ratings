@@ -19,7 +19,7 @@
 | Star Killer | 30.00% | ~113 |
 | Eridanian Champion | 25.00% | ~94 |
 | Loyal Partner | 22.00% | ~83 |
-| Lacertian Champion | 21.00% | ~79 |
+| Lacertian Champion | 22.00% | ~83 |
 | Apian Champion | 19.00% | ~72 |
 | Shard Spender | 18.00% | ~68 |
 | Unbeatable | 18.00% | ~68 |

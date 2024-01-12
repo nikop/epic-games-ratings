@@ -6,16 +6,16 @@ Number of Ratings: 2,847  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 83.00% | ~893 |
+| Kickstarter Backer | 83.00% | ~894 |
 | Completed Act I | 31.00% | ~334 |
 | 5 Upgrades in Stronghold | 27.00% | ~291 |
 | First 5 Levels of Od Nua | 25.00% | ~269 |
-| Make an Adventurer | 23.00% | ~247 |
+| Make an Adventurer | 23.00% | ~248 |
 | Completed Act II | 17.00% | ~183 |
 | Enchanter | 16.00% | ~172 |
-| Disposition | 15.00% | ~161 |
-| The Watcher With Eight Friends | 15.00% | ~161 |
-| Middle 5 Levels of Od Nua | 15.00% | ~161 |
+| Disposition | 15.00% | ~162 |
+| The Watcher With Eight Friends | 15.00% | ~162 |
+| Middle 5 Levels of Od Nua | 15.00% | ~162 |
 | Super Murderer | 14.00% | ~151 |
 | All Upgrades in Stronghold | 14.00% | ~151 |
 | Soulbinder | 14.00% | ~151 |
@@ -42,7 +42,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | Won the Game!!! | 3.00% | ~32 |
 | Among the Moss and Peat | 2.00% | ~22 |
 | Legendary Enchanter | 1.00% | ~11 |
-| Path of the Damned | 0.70% | ~8 |
+| Path of the Damned | 0.60% | ~6 |
 | Expert | 0.60% | ~6 |
 | Solo | 0.60% | ~6 |
 | Triple Crown | 0.60% | ~6 |
@@ -55,7 +55,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,076 (Ranked 292)  
+Progressed: 1,077 (Ranked 292)  
 Completed: 2 (0.19%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,6 +116,7 @@ Completed: 2 (0.19%) (Ranked 283)
 | 2024-01-08 | 1,078 | 2 |
 | 2024-01-09 | 1,076 | 2 |
 | 2024-01-11 | 1,077 | 2 |
+| 2024-01-12 | 1,077 | 2 |
 ## Awards
 Max (Character Customization): 1,960  (Ranked 122)  
 Sum: 4,826 (Ranked 154)  

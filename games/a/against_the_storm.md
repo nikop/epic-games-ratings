@@ -51,7 +51,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Dangerous Lands | 1.00% | ~207 |
 | Forbidden Lands | 1.00% | ~207 |
 | Forsaken Gods Temple | 1.00% | ~207 |
-| Like a Machine | 0.90% | ~186 |
+| Like a Machine | 0.90% | ~187 |
 | Feeding The People | 0.80% | ~166 |
 | Prestigious Expedition | 0.50% | ~104 |
 | Blood Flower Farmer | 0.50% | ~104 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,722 (Ranked 155)  
+Progressed: 20,723 (Ranked 155)  
 Completed: 34 (0.16%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,16 +333,16 @@ Completed: 34 (0.16%) (Ranked 287)
 | 2024-01-09 | 20,595 | 34 |
 | 2024-01-10 | 20,658 | 34 |
 | 2024-01-11 | 20,700 | 34 |
-| 2024-01-12 | 20,722 | 34 |
+| 2024-01-12 | 20,723 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
-Sum: 3,373 (Ranked 177)  
+Sum: 3,374 (Ranked 177)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 452 |
 | This game is Relaxing | 450 |
-| This game is Great for Beginners | 446 |
+| This game is Great for Beginners | 447 |
 | This game is Extremely Fun | 421 |
 | This game is Highly Recommended | 406 |
 | This game has Unique Visuals | 348 |
@@ -635,4 +635,4 @@ Diff (max vs sum): 56
 | 2024-01-09 | 4.82 | - | 452 | 3,364 |
 | 2024-01-10 | 4.82 | - | 452 | 3,369 |
 | 2024-01-11 | 4.82 | - | 452 | 3,371 |
-| 2024-01-12 | 4.82 | - | 452 | 3,373 |
+| 2024-01-12 | 4.82 | - | 452 | 3,374 |

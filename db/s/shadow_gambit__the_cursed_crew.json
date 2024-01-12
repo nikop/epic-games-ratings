@@ -6,9 +6,9 @@
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 270,
-  "Ranking_EOS_Completed": 129,
+  "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1525,
+  "EOS_Progressed": 1526,
   "EOS_Completed": 37,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.43,
+  "EOS_Completed_Percentage": 2.42,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -5271,6 +5271,11 @@
       "Time": "2024-01-12T14:04:12.3248994+00:00",
       "NumProgressed": 1525,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-12T19:04:44.1172154+00:00",
+      "NumProgressed": 1526,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5283,7 +5288,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -5291,7 +5296,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "_03_FinishAct1",
@@ -5299,7 +5304,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -5307,7 +5312,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "_05_FinishAct2",
@@ -5323,7 +5328,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "_07_FinishAct3",
@@ -5331,7 +5336,7 @@
       "Name": "All Good Things",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "_08_Completion_10",
@@ -5347,7 +5352,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "_10_Completion_30",
@@ -5451,7 +5456,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -5490,7 +5495,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1525,
+      "Progressed": 1526,
       "Completed": 37
     }
   ],
@@ -5498,8 +5503,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-09T20:59:58.0673284+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:03:47.6762076+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:04:44.1172146+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.9098347+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:57:15.9932349+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:03:47.676254+00:00"
+  "LastUpdate_Ratings": "2024-01-12T18:57:38.678195+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:04:44.117288+00:00"
 }

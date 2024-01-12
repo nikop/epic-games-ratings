@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -109,9 +109,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1644,
+  "EOS_Progressed": 1645,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4319,6 +4319,11 @@
       "Time": "2024-01-12T18:09:32.8393482+00:00",
       "NumProgressed": 1644,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T19:10:19.7033463+00:00",
+      "NumProgressed": 1645,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4361,9 +4366,9 @@
       "ID": "AchvBombStop",
       "SetID": "1hj060c",
       "Name": "Peacemaker",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 378
+      "UsersEstimate": 362
     },
     {
       "ID": "AchvBombing",
@@ -4427,7 +4432,7 @@
       "Name": "Krauta is alive",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "AchvLava",
@@ -4459,7 +4464,7 @@
       "Name": "The Necroevolution",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "AchvNest",
@@ -4481,9 +4486,9 @@
       "ID": "AchvPing",
       "SetID": "1hj060c",
       "Name": "Got lost again",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 99
     },
     {
       "ID": "AchvPutAsleep",
@@ -4497,9 +4502,9 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 740
+      "UsersEstimate": 757
     },
     {
       "ID": "AchvReachCamp",
@@ -4507,15 +4512,15 @@
       "Name": "The Camp",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 822
+      "UsersEstimate": 839
     },
     {
       "ID": "AchvReachCondor",
@@ -4539,7 +4544,7 @@
       "Name": "Flying Objects Operator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "AchvTheEnd",
@@ -4547,7 +4552,7 @@
       "Name": "The End",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "AchvUnity",
@@ -4562,7 +4567,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1644,
+      "Progressed": 1645,
       "Completed": 1
     }
   ],
@@ -4570,8 +4575,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-12T16:59:53.3564711+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:09:32.8393477+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:10:19.7033458+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:59:03.6415992+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:09:32.8393855+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:00:19.0408559+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:10:19.703396+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -854,9 +854,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6289,
+  "EOS_Progressed": 6290,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13089,6 +13089,11 @@
       "Time": "2024-01-12T15:04:40.4182229+00:00",
       "NumProgressed": 6289,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-12T19:04:51.7377543+00:00",
+      "NumProgressed": 6290,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13141,7 +13146,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -13213,7 +13218,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -13221,7 +13226,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -13284,15 +13289,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6289,
+      "Progressed": 6290,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:03:53.1791599+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:04:51.7377537+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:57:59.6373389+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:03:53.1792319+00:00"
+  "LastUpdate_Ratings": "2024-01-12T18:58:44.086408+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:04:51.7378251+00:00"
 }

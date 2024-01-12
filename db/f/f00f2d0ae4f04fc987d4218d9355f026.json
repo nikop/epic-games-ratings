@@ -4,8 +4,8 @@
   "ProductSlug": "bio-inc-redemption-280fe5",
   "Ranking_EOS_Progress": 549,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 389,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-12T05:00:00+00:00",
     "PcReleaseDate": "2018-03-08T05:00:00+00:00",
@@ -364,9 +364,9 @@
       "ID": "CloseCall",
       "SetID": "aaidab7",
       "Name": "Close Call",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DedicatedPlayer",
@@ -396,9 +396,9 @@
       "ID": "DigestiveCollapse",
       "SetID": "aaidab7",
       "Name": "Digestive Collapse",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "HeartAttack",
@@ -587,8 +587,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:05:47.9935414+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:07:31.6121585+00:00",
   "LastUpdate_AppInfo": "2024-01-09T06:57:18.0695989+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:59:49.9655965+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:05:47.9935611+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:01:27.8834565+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:07:31.6121866+00:00"
 }

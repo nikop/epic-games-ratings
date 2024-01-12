@@ -3,12 +3,12 @@
   "Name": "Marvel\u0027s Guardians of the Galaxy",
   "ProductSlug": "marvels-guardians-of-the-galaxy",
   "Ranking_Rating": 321,
-  "Ranking_Popularity": 110,
-  "Ranking_PopularitySum": 186,
+  "Ranking_Popularity": 108,
+  "Ranking_PopularitySum": 181,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -1952,18 +1952,24 @@
       "Rating": 4.65,
       "NumberOfAwards": 2974,
       "NumberOfAwardsMax": 2358
+    },
+    {
+      "Time": "2024-01-12T18:57:59.4174979+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 3257,
+      "NumberOfAwardsMax": 2628
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2974,
-  "NumberOfAwardsMax": 2358,
+  "NumberOfAwards": 3257,
+  "NumberOfAwardsMax": 2628,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2358
+      "Count": 2628
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2005,7 +2011,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 60
+      "Count": 73
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2031,8 +2037,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:01.0577713+00:00",
-  "LastChanged": "2024-01-12T14:57:45.4675756+00:00",
+  "LastChanged": "2024-01-12T18:57:59.4174977+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:24.222579+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:57:30.5925022+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:03:38.498094+00:00"
+  "LastUpdate_Ratings": "2024-01-12T18:57:59.4174983+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:04:31.2087577+00:00"
 }

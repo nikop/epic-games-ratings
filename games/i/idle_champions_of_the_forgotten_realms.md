@@ -6,13 +6,13 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,142 |
+| A Brief Tour of the Realms | 4.00% | ~10,143 |
 | Beast Intentions | 2.00% | ~5,071 |
 | The Cursed Farmer | 2.00% | ~5,071 |
 | The Mad Wizard | 1.00% | ~2,536 |
 | The Ring of Regeneration | 0.90% | ~2,282 |
 | Are Ya Chicken? | 0.90% | ~2,282 |
-| Were-verpowered | 0.80% | ~2,028 |
+| Were-verpowered | 0.80% | ~2,029 |
 | Welcome to Sigil | 0.80% | ~1,759 |
 | Seeking Allies | 0.70% | ~1,775 |
 | Mad Cow Disease | 0.70% | ~1,775 |
@@ -62,6 +62,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Family Entanglements | 0.20% | ~507 |
 | The Dinner Party | 0.20% | ~507 |
 | The Botched Kidnapping | 0.20% | ~507 |
+| Tower on the Lake | 0.20% | ~507 |
 | Trollskull Manor | 0.20% | ~507 |
 | Attack on the Manor | 0.20% | ~507 |
 | The Death Curse | 0.20% | ~507 |
@@ -247,7 +248,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | They Who Smelt It | 0.10% | ~254 |
 | Distribute Your Weight | 0.10% | ~254 |
 | Mongrelfolk Incursion | 0.10% | ~220 |
-| Tower on the Lake | 0.10% | ~254 |
 | Only the Strong Survive | 0.10% | ~254 |
 | Shorty's Day Off | 0.10% | ~254 |
 | Intelligence Hunt | 0.10% | ~254 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,561 (Ranked 70)  
+Progressed: 253,570 (Ranked 70)  
 Completed: 2,614 (1.03%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -820,7 +820,7 @@ Completed: 2,614 (1.03%) (Ranked 177)
 | 2024-01-09 | 253,044 | 2,606 |
 | 2024-01-10 | 253,250 | 2,611 |
 | 2024-01-11 | 253,420 | 2,614 |
-| 2024-01-12 | 253,561 | 2,614 |
+| 2024-01-12 | 253,570 | 2,614 |
 ## Awards
 Max (Great for Beginners): 5,774  (Ranked 74)  
 Sum: 33,463 (Ranked 41)  

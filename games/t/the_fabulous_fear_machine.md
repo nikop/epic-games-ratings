@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 54.00% | ~49 |
+| Master trainee | 54.00% | ~50 |
 | You have three wishes left | 48.00% | ~44 |
 | Jung's dream | 38.00% | ~35 |
 | The battle of Great Britain | 38.00% | ~35 |
 | Pulp! Where Monsters Dwell | 32.00% | ~29 |
-| A continent with chemistry | 30.00% | ~27 |
+| A continent with chemistry | 29.00% | ~27 |
 | The happy farmer girl | 27.00% | ~25 |
 | Giant | 25.00% | ~23 |
 | A rival with no options | 25.00% | ~23 |
@@ -21,9 +21,9 @@
 | You have two wishes left | 21.00% | ~19 |
 | Et in arcadia ego | 20.00% | ~18 |
 | Pulp! Adventures into the Unknown | 20.00% | ~18 |
-| The seer | 19.00% | ~17 |
-| You had one wish left | 18.00% | ~16 |
-| Welcome to Hellville | 18.00% | ~16 |
+| The seer | 18.00% | ~17 |
+| You had one wish left | 17.00% | ~16 |
+| Welcome to Hellville | 17.00% | ~16 |
 | You've awakened the beast | 16.00% | ~15 |
 | Hate is... addictive | 16.00% | ~15 |
 | Blessed antennas | 15.00% | ~14 |
@@ -52,8 +52,8 @@
 | Pulp! Skeleton Hand | 2.00% | ~2 |
 | Pulp! The Vault of Horror | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91 (Ranked 502)  
-Completed: 1 (1.10%) (Ranked 170)  
+Progressed: 92 (Ranked 502)  
+Completed: 1 (1.09%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -103,4 +103,4 @@ Completed: 1 (1.10%) (Ranked 170)
 | 2024-01-08 | 89 | 0 |
 | 2024-01-09 | 90 | 0 |
 | 2024-01-11 | 91 | 0 |
-| 2024-01-12 | 91 | 1 |
+| 2024-01-12 | 92 | 1 |

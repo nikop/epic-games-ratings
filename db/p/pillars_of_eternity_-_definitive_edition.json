@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 3834,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
     "PcReleaseDate": "2015-03-26T16:00:00+00:00",
@@ -3603,9 +3603,9 @@
       "Count": 190
     }
   ],
-  "EOS_Progressed": 1076,
+  "EOS_Progressed": 1077,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": -3,
+  "EOS_NewPlayers": -2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -4013,6 +4013,11 @@
       "Time": "2024-01-11T21:05:40.8738682+00:00",
       "NumProgressed": 1076,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-12T19:06:05.8936294+00:00",
+      "NumProgressed": 1077,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -4152,7 +4157,7 @@
       "Name": "Disposition",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "achievement_18",
@@ -4176,7 +4181,7 @@
       "Name": "The Watcher With Eight Friends",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "achievement_21",
@@ -4232,7 +4237,7 @@
       "Name": "Make an Adventurer",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "achievement_28",
@@ -4248,7 +4253,7 @@
       "Name": "Middle 5 Levels of Od Nua",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "achievement_30",
@@ -4304,7 +4309,7 @@
       "Name": "Kickstarter Backer",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "achievement_37",
@@ -4318,9 +4323,9 @@
       "ID": "achievement_38",
       "SetID": "70p237j",
       "Name": "Path of the Damned",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_39",
@@ -4407,15 +4412,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1076,
+      "Progressed": 1077,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2024-01-11T11:59:08.5728014+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:04:46.3023905+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:06:05.8936289+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:19.1965971+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:59:38.3793721+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:04:46.3024454+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:01:09.3361893+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:06:05.8936816+00:00"
 }

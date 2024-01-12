@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -777,9 +777,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7204,
+  "EOS_Progressed": 7205,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11117,6 +11117,11 @@
       "Time": "2024-01-12T18:03:49.4627727+00:00",
       "NumProgressed": 7204,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-12T19:04:46.5111859+00:00",
+      "NumProgressed": 7205,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -11272,7 +11277,7 @@
       "Name": "Bone Peddler",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "27",
@@ -11288,7 +11293,7 @@
       "Name": "From Friends to Family",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "29",
@@ -11607,13 +11612,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7204,
+      "Progressed": 7205,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7204,
+      "Progressed": 7205,
       "Completed": 7
     }
   ],
@@ -11621,8 +11626,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-11T22:58:38.2332491+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:03:49.4627721+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:04:46.5111853+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:58:51.9870583+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:03:49.4628997+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:00:03.1799421+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:04:46.5112696+00:00"
 }

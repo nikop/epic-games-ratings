@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -559,9 +559,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4748,
+  "EOS_Progressed": 4750,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8294,6 +8294,11 @@
       "Time": "2024-01-12T17:08:31.6686367+00:00",
       "NumProgressed": 4748,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-12T19:08:23.9975358+00:00",
+      "NumProgressed": 4750,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8313,7 +8318,7 @@
       "Name": "Ace Detective",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "AncestorsPride_13",
@@ -8337,7 +8342,7 @@
       "Name": "Blood and justice",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "CordonBleu_28",
@@ -8345,7 +8350,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1899
+      "UsersEstimate": 1900
     },
     {
       "ID": "CrowdPleaser",
@@ -8369,7 +8374,7 @@
       "Name": "Eureka",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -8393,7 +8398,7 @@
       "Name": "Gift from the Ancestors",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
@@ -8449,7 +8454,7 @@
       "Name": "Magic is a science",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "MasterofAurai_20",
@@ -8489,7 +8494,7 @@
       "Name": "Ready for Summer",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2279
+      "UsersEstimate": 2280
     },
     {
       "ID": "ReadyforWinter_42",
@@ -8497,7 +8502,7 @@
       "Name": "Ready for Winter",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2896
+      "UsersEstimate": 2898
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -8505,7 +8510,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -8529,7 +8534,7 @@
       "Name": "Tapped!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1614
+      "UsersEstimate": 1615
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -8545,7 +8550,7 @@
       "Name": "The blood is life",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ThePowerOfAmbition_45",
@@ -8585,7 +8590,7 @@
       "Name": "The stuff of legends.",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "TheyllTellStoriesAboutThis_35",
@@ -8617,7 +8622,7 @@
       "Name": "Vanquisher of nightmares",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "VentureOutward_21",
@@ -8625,7 +8630,7 @@
       "Name": "Venture Outward",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 3419
+      "UsersEstimate": 3420
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8640,15 +8645,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4748,
+      "Progressed": 4750,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:06:26.3295157+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:08:23.9975352+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:45.0450053+00:00",
-  "LastUpdate_Ratings": "2024-01-12T18:02:55.6233637+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:06:26.329586+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:03:28.1946859+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:08:23.9976141+00:00"
 }

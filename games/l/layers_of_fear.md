@@ -10,10 +10,10 @@
 | Wanderer | 54.00% | ~175 |
 | Scraps of love | 52.00% | ~168 |
 | The artist’s impression | 49.00% | ~159 |
-| Do what you have to | 43.00% | ~139 |
+| Do what you have to | 44.00% | ~143 |
 | Sign of weakness | 41.00% | ~133 |
 | Refuse to look | 36.00% | ~117 |
-| Face your fears | 30.00% | ~97 |
+| Face your fears | 31.00% | ~100 |
 | Finished it | 25.00% | ~81 |
 | Whispers long forgotten | 17.00% | ~55 |
 | Sound Bite | 13.00% | ~42 |
@@ -57,7 +57,7 @@
 | Inheritance | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 324 (Ranked 391)  
+Progressed: 324 (Ranked 392)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |

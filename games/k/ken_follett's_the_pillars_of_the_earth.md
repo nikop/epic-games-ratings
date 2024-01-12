@@ -6,20 +6,20 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 39.00% | ~6,945 |
-| Man of politics | 34.00% | ~6,054 |
-| Yet another secret | 33.00% | ~5,876 |
-| Friends of sorts | 32.00% | ~5,698 |
-| Let there be darkness | 31.00% | ~5,520 |
-| End of Book One | 29.00% | ~5,164 |
+| Tattletale | 39.00% | ~6,946 |
+| Man of politics | 34.00% | ~6,055 |
+| Yet another secret | 33.00% | ~5,877 |
+| Friends of sorts | 32.00% | ~5,699 |
+| Let there be darkness | 31.00% | ~5,521 |
+| End of Book One | 29.00% | ~5,165 |
 | Wannabe knight | 23.00% | ~4,096 |
 | Garden of Eden | 23.00% | ~4,096 |
 | Full house | 23.00% | ~4,096 |
-| Help an old friend | 21.00% | ~3,739 |
-| Two of us | 20.00% | ~3,561 |
-| Negotiation skills | 18.00% | ~3,205 |
-| Workers' union | 18.00% | ~3,205 |
-| End of Book Two | 18.00% | ~3,205 |
+| Help an old friend | 21.00% | ~3,740 |
+| Two of us | 20.00% | ~3,562 |
+| Negotiation skills | 18.00% | ~3,206 |
+| Workers' union | 18.00% | ~3,206 |
+| End of Book Two | 18.00% | ~3,206 |
 | Everything's in order | 16.00% | ~2,849 |
 | Twist of Fate | 14.00% | ~2,493 |
 | Jack was here! | 14.00% | ~2,493 |
@@ -35,9 +35,9 @@ Number of Ratings: 368  (23.09.2022)
 | The truth revealed | 9.00% | ~1,603 |
 | The End. | 9.00% | ~1,603 |
 | Nothing but make-believe | 8.00% | ~1,425 |
-| A cry for help | 7.00% | ~1,246 |
-| Silentium est aureum | 7.00% | ~1,246 |
-| Rebel without a cause | 6.00% | ~1,068 |
+| A cry for help | 7.00% | ~1,247 |
+| Silentium est aureum | 7.00% | ~1,247 |
+| Rebel without a cause | 6.00% | ~1,069 |
 | Staring contest champion | 5.00% | ~890 |
 | Lone wolf | 5.00% | ~890 |
 | Vox Populi | 5.00% | ~890 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~534 |
 | Boy of mystery | 2.00% | ~356 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,807 (Ranked 165)  
+Progressed: 17,809 (Ranked 165)  
 Completed: 125 (0.70%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 125 (0.70%) (Ranked 202)
 | 2024-01-09 | 17,744 | 125 |
 | 2024-01-10 | 17,768 | 125 |
 | 2024-01-11 | 17,794 | 125 |
-| 2024-01-12 | 17,807 | 125 |
+| 2024-01-12 | 17,809 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 327)  
 Sum: 200 (Ranked 418)  

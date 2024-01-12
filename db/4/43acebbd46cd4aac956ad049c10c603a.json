@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -325,7 +325,7 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 1378,
+  "EOS_Progressed": 1379,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
@@ -4000,6 +4000,11 @@
       "Time": "2024-01-12T18:03:33.3279622+00:00",
       "NumProgressed": 1378,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-12T19:04:24.6018505+00:00",
+      "NumProgressed": 1379,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4052,7 +4057,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "BreakTheLoop",
@@ -4068,7 +4073,7 @@
       "Name": "Bridge Builder",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ChasingTheLight",
@@ -4076,7 +4081,7 @@
       "Name": "Chasing the Light",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "Chicken",
@@ -4090,9 +4095,9 @@
       "ID": "CircularOasis",
       "SetID": "1n308hc",
       "Name": "Circular Oasis",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 165
     },
     {
       "ID": "DesolateIsland",
@@ -4116,7 +4121,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "EcstaticTruth",
@@ -4148,7 +4153,7 @@
       "Name": "Gnothi Seauton",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "GoodCitizen",
@@ -4212,7 +4217,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "Mnemosyne",
@@ -4236,7 +4241,7 @@
       "Name": "Museum Visitor",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "NewBeginning",
@@ -4244,7 +4249,7 @@
       "Name": "A New Beginning",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "NewMorality",
@@ -4412,7 +4417,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "TheWordEndures",
@@ -4428,7 +4433,7 @@
       "Name": "Touch Grass",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "TrevorsBiographer",
@@ -4468,7 +4473,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "YourBiggestFan",
@@ -4483,7 +4488,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1378,
+      "Progressed": 1379,
       "Completed": 2
     }
   ],
@@ -4491,8 +4496,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-11T20:01:30.2731124+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:03:33.3279617+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:04:24.60185+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-12T18:00:14.4145827+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:03:33.3280312+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:02:00.5423728+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:04:24.601899+00:00"
 }

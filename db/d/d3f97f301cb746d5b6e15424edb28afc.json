@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -5038,9 +5038,9 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1500
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
@@ -5390,9 +5390,9 @@
       "ID": "GSS_ACH_65_POPULARITY_05",
       "SetID": "5fn8ia4",
       "Name": "Talk of the Town",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1062
     },
     {
       "ID": "GSS_ACH_66_POPULARITY_06",
@@ -5543,8 +5543,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-12T15:00:59.7765228+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:06:06.5333852+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:07:56.8998412+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.4325477+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:59:40.9431004+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:06:06.5334827+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:01:13.0985758+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:07:56.8999492+00:00"
 }

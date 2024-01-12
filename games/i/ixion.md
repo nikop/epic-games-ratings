@@ -6,9 +6,9 @@ Rating: 4.59 (Ranked 452)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 34.00% | ~1,416 |
-| Sputnik 2049 | 30.00% | ~1,249 |
+| Sputnik 2049 | 30.00% | ~1,250 |
 | Infinite Growth... | 28.00% | ~1,166 |
-| Without Breaking Some Eggs... | 27.00% | ~1,124 |
+| Without Breaking Some Eggs... | 27.00% | ~1,125 |
 | Space Society | 19.00% | ~791 |
 | A Thousand Strong | 19.00% | ~791 |
 | Ready for a New World | 19.00% | ~791 |
@@ -27,8 +27,8 @@ Rating: 4.59 (Ranked 452)
 | Sightseeing | 8.00% | ~333 |
 | Necessary Enhancement | 8.00% | ~333 |
 | Convenient Transport | 8.00% | ~333 |
-| Access Granted | 7.00% | ~291 |
-| From the Past | 7.00% | ~291 |
+| Access Granted | 7.00% | ~292 |
+| From the Past | 7.00% | ~292 |
 | All in Good Health | 6.00% | ~250 |
 | Drill-dozer | 6.00% | ~250 |
 | Oats | 5.00% | ~208 |
@@ -63,7 +63,7 @@ Rating: 4.59 (Ranked 452)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,164 (Ranked 213)  
+Progressed: 4,165 (Ranked 213)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 4,126 | 0 |
 | 2024-01-10 | 4,148 | 0 |
 | 2024-01-11 | 4,156 | 0 |
-| 2024-01-12 | 4,164 | 0 |
+| 2024-01-12 | 4,165 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

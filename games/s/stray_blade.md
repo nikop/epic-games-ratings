@@ -34,6 +34,7 @@
 | A Deceiving Gift | 1.00% | ~2 |
 | Sponsor | 0.60% | ~1 |
 | Style over Stats | 0.60% | ~1 |
+| Collector | 0.60% | ~1 |
 | Forest Expert | 0.60% | ~1 |
 | Ancient Powers | 0.60% | ~1 |
 | Wizard | 0.60% | ~1 |
@@ -41,7 +42,6 @@
 | Globetrotter | 0.60% | ~1 |
 | Unveiling the Truth | 0.60% | ~1 |
 | Small Setback | 0.60% | ~1 |
-| Collector | 0.00% | ~0 |
 | Bringing guns to a sword fight | 0.00% | ~0 |
 | Explorer by Heart | 0.00% | ~0 |
 | Mountain Lover | 0.00% | ~0 |

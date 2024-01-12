@@ -2,13 +2,13 @@
   "ID": "bd1047eb76fd4fd490fcb8f668e5deda",
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
-  "Ranking_Rating": 855,
+  "Ranking_Rating": 856,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 375,
   "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,7 +226,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58745,
+  "EOS_Progressed": 58747,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
@@ -15766,6 +15766,11 @@
       "Time": "2024-01-12T14:04:36.9047694+00:00",
       "NumProgressed": 58745,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-12T19:05:15.6910054+00:00",
+      "NumProgressed": 58747,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -15865,7 +15870,7 @@
       "Name": "Food Taster",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 5874
+      "UsersEstimate": 5875
     },
     {
       "ID": "FoolMeTwice",
@@ -16168,7 +16173,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58745,
+      "Progressed": 58747,
       "Completed": 6
     }
   ],
@@ -16176,8 +16181,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:04:10.3549255+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:05:15.6910049+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.3766793+00:00",
-  "LastUpdate_Ratings": "2024-01-12T18:00:16.1826924+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:04:10.3550283+00:00"
+  "LastUpdate_Ratings": "2024-01-12T19:02:02.6079193+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:05:15.6911383+00:00"
 }

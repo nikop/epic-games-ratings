@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1811,10 +1811,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 458,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-01-12T18:57:16.578717+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 459,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 458,
+  "NumberOfAwards": 459,
   "NumberOfAwardsMax": 62,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1846,7 +1852,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1873,9 +1879,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167814,
+  "EOS_Progressed": 167820,
   "EOS_Completed": 456,
-  "EOS_NewPlayers": 1162,
+  "EOS_NewPlayers": 1158,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22828,6 +22834,11 @@
       "Time": "2024-01-12T18:05:22.4193088+00:00",
       "NumProgressed": 167814,
       "NumCompleted": 456
+    },
+    {
+      "Time": "2024-01-12T19:06:55.300645+00:00",
+      "NumProgressed": 167820,
+      "NumCompleted": 456
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22888,7 +22899,7 @@
       "Name": "The Hunt",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5034
+      "UsersEstimate": 5035
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -23112,7 +23123,7 @@
       "Name": "Ravenous",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5034
+      "UsersEstimate": 5035
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -23207,21 +23218,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167397,
+      "Progressed": 167403,
       "Completed": 1260
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167814,
+      "Progressed": 167820,
       "Completed": 456
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-01-11T14:59:57.7039086+00:00",
-  "LastChanged_Achievements": "2024-01-12T18:05:22.4193084+00:00",
+  "LastChanged": "2024-01-12T18:57:16.5787168+00:00",
+  "LastChanged_Achievements": "2024-01-12T19:06:55.3006444+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:57:00.9734643+00:00",
-  "LastUpdate_Achievements": "2024-01-12T18:05:22.4194755+00:00"
+  "LastUpdate_Ratings": "2024-01-12T18:57:16.5787176+00:00",
+  "LastUpdate_Achievements": "2024-01-12T19:06:55.3008187+00:00"
 }
