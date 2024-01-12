@@ -6,9 +6,9 @@
   "Ranking_Popularity": 56,
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 26,
-  "Ranking_EOS_Completed": 145,
+  "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8931,9 +8931,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 759612,
+  "EOS_Progressed": 759621,
   "EOS_Completed": 12983,
-  "EOS_NewPlayers": 5706,
+  "EOS_NewPlayers": 5690,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -33381,6 +33381,11 @@
       "Time": "2024-01-11T23:09:04.9372537+00:00",
       "NumProgressed": 759612,
       "NumCompleted": 12983
+    },
+    {
+      "Time": "2024-01-12T00:09:10.2362208+00:00",
+      "NumProgressed": 759621,
+      "NumCompleted": 12983
     }
   ],
   "TotalAchievements": 60,
@@ -33400,7 +33405,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30384
+      "UsersEstimate": 30385
     },
     {
       "ID": "03_Vengeance_H2",
@@ -33408,7 +33413,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22788
+      "UsersEstimate": 22789
     },
     {
       "ID": "04_Vengeance_H3",
@@ -33502,9 +33507,9 @@
       "ID": "15_Detective_H1",
       "SetID": "adcm20g",
       "Name": "Detective Story",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 4558
+      "UsersEstimate": 5317
     },
     {
       "ID": "16_Detective_H2",
@@ -33560,7 +33565,7 @@
       "Name": "Street Fighting",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22788
+      "UsersEstimate": 22789
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -33576,7 +33581,7 @@
       "Name": "State of constant learning",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22788
+      "UsersEstimate": 22789
     },
     {
       "ID": "25_ShrineMind",
@@ -33600,7 +33605,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22788
+      "UsersEstimate": 22789
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -33640,7 +33645,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22788
+      "UsersEstimate": 22789
     },
     {
       "ID": "33_BladeOneShot",
@@ -33656,7 +33661,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30384
+      "UsersEstimate": 30385
     },
     {
       "ID": "35_WideStrike",
@@ -33744,7 +33749,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -33752,7 +33757,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -33871,21 +33876,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 68913,
+      "Progressed": 68922,
       "Completed": 10806
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 759612,
+      "Progressed": 759621,
       "Completed": 12983
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-11T23:02:59.444706+00:00",
-  "LastChanged_Achievements": "2024-01-11T23:09:04.9372532+00:00",
+  "LastChanged_Achievements": "2024-01-12T00:09:10.2362206+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.3871095+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:02:59.4447068+00:00",
-  "LastUpdate_Achievements": "2024-01-11T23:09:04.9374421+00:00"
+  "LastUpdate_Ratings": "2024-01-12T00:03:05.2443379+00:00",
+  "LastUpdate_Achievements": "2024-01-12T00:09:10.2363986+00:00"
 }

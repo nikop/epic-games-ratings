@@ -2,10 +2,10 @@
   "ID": "19d5458aa3c849a1b0fff69da4c9ed9d",
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
-  "Ranking_EOS_Progress": 298,
-  "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_Progress": 297,
+  "Ranking_EOS_Completed": 175,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 965,
+  "EOS_Progressed": 966,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -3480,6 +3480,11 @@
       "Time": "2024-01-11T23:04:39.4238009+00:00",
       "NumProgressed": 965,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-12T00:04:46.0342108+00:00",
+      "NumProgressed": 966,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -3500,7 +3505,7 @@
       "Name": "Holey Moley",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "achievement_11",
@@ -3516,7 +3521,7 @@
       "Name": "From Way Downtown",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "achievement_13",
@@ -3524,7 +3529,7 @@
       "Name": "Competitor\u0027s Spirit",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "achievement_14",
@@ -3532,7 +3537,7 @@
       "Name": "Golfer Versus Golfer",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_15",
@@ -3556,7 +3561,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "achievement_18",
@@ -3570,9 +3575,9 @@
       "ID": "achievement_2",
       "SetID": "7ldgi7j",
       "Name": "A Tradition Unlike Any Other",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 174
+      "UsersEstimate": 164
     },
     {
       "ID": "achievement_3",
@@ -3612,7 +3617,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "achievement_8",
@@ -3635,13 +3640,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 965,
+      "Progressed": 966,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-11T23:04:39.4238005+00:00",
+  "LastChanged_Achievements": "2024-01-12T00:04:46.0342106+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.2920939+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:58:10.9155462+00:00",
-  "LastUpdate_Achievements": "2024-01-11T23:04:39.4238271+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:58:05.0334152+00:00",
+  "LastUpdate_Achievements": "2024-01-12T00:04:46.0342406+00:00"
 }

@@ -18,7 +18,7 @@ Number of Ratings: 53  (23.09.2022)
 | I'm out of here for a while | 40.00% | ~488 |
 | In a mint condition | 37.00% | ~451 |
 | Licence to Kill | 36.00% | ~439 |
-| Pirates! | 33.00% | ~403 |
+| Pirates! | 34.00% | ~415 |
 | Collectionitis | 28.00% | ~342 |
 | Megalomania | 28.00% | ~342 |
 | Christening | 27.00% | ~329 |
@@ -58,7 +58,7 @@ Number of Ratings: 53  (23.09.2022)
 | Davy Jones' locker | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,220 (Ranked 284)  
-Completed: 1 (0.08%) (Ranked 323)  
+Completed: 1 (0.08%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

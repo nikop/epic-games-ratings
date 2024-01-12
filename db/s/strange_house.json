@@ -3,9 +3,9 @@
   "Name": "Strange House",
   "ProductSlug": "strange-house-5fd1b5",
   "Ranking_EOS_Progress": 561,
-  "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 515,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_Completed": 137,
+  "Ranking_EOS_NewPlayers": 513,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-11-03T11:00:00+00:00",
     "PcReleaseDate": "2023-11-03T11:00:00+00:00",
@@ -23,10 +23,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 49,
-  "EOS_Completed": 0,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 2.04,
   "EosHistory": [
     {
       "Time": "2023-10-08T22:03:43.755749+00:00",
@@ -272,6 +272,11 @@
       "Time": "2024-01-11T14:09:09.1676644+00:00",
       "NumProgressed": 49,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T00:08:53.7602611+00:00",
+      "NumProgressed": 49,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-08T22:03:43.7557522+00:00",
@@ -290,9 +295,9 @@
       "ID": "EndPrologue",
       "SetID": "a2ci5mh",
       "Name": "Chapter 1",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "FoundPig",
@@ -332,12 +337,12 @@
       "ID": "a2ci5mh",
       "IsBase": true,
       "Progressed": 49,
-      "Completed": 0
+      "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2024-01-11T23:08:48.5097004+00:00",
+  "LastChanged_Achievements": "2024-01-12T00:08:53.7602608+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:54.1646105+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:03:06.2410502+00:00",
-  "LastUpdate_Achievements": "2024-01-11T23:08:48.5097071+00:00"
+  "LastUpdate_Ratings": "2024-01-12T00:03:13.0132582+00:00",
+  "LastUpdate_Achievements": "2024-01-12T00:08:53.760289+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 529,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 211,
-  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -669,7 +669,7 @@
   ],
   "EOS_Progressed": 4268,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9710,9 +9710,9 @@
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 982
+      "UsersEstimate": 1024
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -10229,8 +10229,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-09T13:14:28.403425+00:00",
-  "LastChanged_Achievements": "2024-01-11T23:09:18.5591816+00:00",
+  "LastChanged_Achievements": "2024-01-12T00:09:23.6187108+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:59.0213472+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:59:15.1160678+00:00",
-  "LastUpdate_Achievements": "2024-01-11T23:09:18.5592896+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:59:05.0077621+00:00",
+  "LastUpdate_Achievements": "2024-01-12T00:09:23.6187971+00:00"
 }

@@ -7,7 +7,7 @@ Number of Ratings: 292  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 46.00% | ~523 |
-| Double Kill | 41.00% | ~466 |
+| Double Kill | 41.00% | ~467 |
 | Critical Hit | 23.00% | ~262 |
 | Veteran | 23.00% | ~262 |
 | Dressed For Success | 16.00% | ~182 |
@@ -21,7 +21,7 @@ Number of Ratings: 292  (23.09.2022)
 | Whoops! | 6.00% | ~68 |
 | Don't Touch My Stuff | 6.00% | ~68 |
 | Trojan Horse | 5.00% | ~57 |
-| Expert Essence Employment | 4.00% | ~45 |
+| Expert Essence Employment | 4.00% | ~46 |
 | Ultra Kill | 3.00% | ~34 |
 | This Spot's Taken | 2.00% | ~23 |
 | Deepstrike | 2.00% | ~23 |
@@ -61,8 +61,8 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,137 (Ranked 288)  
-Completed: 0 (0.00%) (Ranked 397)  
+Progressed: 1,138 (Ranked 287)  
+Completed: 0 (0.00%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -124,6 +124,7 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-09 | 1,111 | 0 |
 | 2024-01-10 | 1,129 | 0 |
 | 2024-01-11 | 1,137 | 0 |
+| 2024-01-12 | 1,138 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 523)  
 Sum: 252 (Ranked 399)  

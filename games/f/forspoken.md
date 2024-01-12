@@ -60,7 +60,7 @@ Rating: 4.16 (Ranked 991)
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 47,103 (Ranked 126)  
-Completed: 4 (0.01%) (Ranked 373)  
+Completed: 4 (0.01%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -327,12 +327,12 @@ Completed: 4 (0.01%) (Ranked 373)
 | 2024-01-10 | 47,035 | 4 |
 | 2024-01-11 | 47,103 | 4 |
 ## Awards
-Max (Character Customization): 47  (Ranked 468)  
-Sum: 69 (Ranked 492)  
-Diff (max vs sum): -24  
+Max (Character Customization): 48  (Ranked 463)  
+Sum: 70 (Ranked 491)  
+Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 47 |
+| This game has Inclusive Character Customization | 48 |
 | This game has Great Boss Battles | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -438,3 +438,4 @@ Diff (max vs sum): -24
 | 2024-01-07 | 4.15 | 46 | 67 |
 | 2024-01-08 | 4.16 | 47 | 68 |
 | 2024-01-09 | 4.16 | 47 | 69 |
+| 2024-01-12 | 4.16 | 48 | 70 |

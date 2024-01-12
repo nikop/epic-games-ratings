@@ -6,8 +6,8 @@ Rating: 4.51 (Ranked 594)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Prepper | 94.00% | ~5,870 |
+| All thumbs | 93.00% | ~5,808 |
 | I will survive! | 93.00% | ~5,808 |
-| All thumbs | 92.00% | ~5,745 |
 | Home, sweet home | 91.00% | ~5,683 |
 | Survivalist | 90.00% | ~5,620 |
 | One way ticket | 85.00% | ~5,308 |
@@ -67,7 +67,7 @@ Rating: 4.51 (Ranked 594)
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,245 (Ranked 201)  
-Completed: 1 (0.02%) (Ranked 363)  
+Completed: 1 (0.02%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

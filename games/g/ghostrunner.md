@@ -6,37 +6,37 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 39.00% | ~423,861 |
-| Sword Runner | 24.00% | ~260,838 |
-| Running out of breath | 18.00% | ~195,628 |
-| Wallrunner | 18.00% | ~195,628 |
-| I call it luck | 13.00% | ~141,287 |
-| Out of order | 12.00% | ~130,419 |
-| Homerunner | 11.00% | ~119,551 |
-| Running Wild | 9.00% | ~97,814 |
-| Back to hell | 8.00% | ~86,946 |
-| Sword to a gunfight | 8.00% | ~86,946 |
-| Where are my Keys? | 8.00% | ~86,946 |
-| Perfection | 7.00% | ~76,078 |
-| Artificial selection | 6.00% | ~65,209 |
-| Upgrades not mandatory | 6.00% | ~65,209 |
-| Why not both | 6.00% | ~65,209 |
-| Finish line | 5.00% | ~54,341 |
-| Control freak | 5.00% | ~54,341 |
-| Dead in the air | 4.00% | ~43,473 |
-| Unstoppable force | 4.00% | ~43,473 |
-| Wave of mutilation | 4.00% | ~43,473 |
-| Can't Run Can't Hide | 3.00% | ~32,605 |
-| Improvise, adapt, overrun | 2.00% | ~21,736 |
-| Pre-empative strike | 2.00% | ~21,736 |
-| R is for Running | 2.00% | ~21,736 |
-| Strike | 2.00% | ~21,736 |
-| Triple A | 2.00% | ~21,736 |
-| More than human | 1.00% | ~10,868 |
-| Push it to the limit | 0.70% | ~7,608 |
-| Fine addition | 0.60% | ~6,521 |
-| About Adam | 0.30% | ~3,260 |
-| One Of Those Days | 0.30% | ~3,260 |
+| Longrunner | 39.00% | ~423,971 |
+| Sword Runner | 24.00% | ~260,905 |
+| Running out of breath | 18.00% | ~195,679 |
+| Wallrunner | 18.00% | ~195,679 |
+| I call it luck | 13.00% | ~141,324 |
+| Out of order | 12.00% | ~130,452 |
+| Homerunner | 11.00% | ~119,581 |
+| Running Wild | 9.00% | ~97,839 |
+| Back to hell | 8.00% | ~86,968 |
+| Sword to a gunfight | 8.00% | ~86,968 |
+| Where are my Keys? | 8.00% | ~86,968 |
+| Perfection | 7.00% | ~76,097 |
+| Artificial selection | 6.00% | ~65,226 |
+| Upgrades not mandatory | 6.00% | ~65,226 |
+| Why not both | 6.00% | ~65,226 |
+| Finish line | 5.00% | ~54,355 |
+| Control freak | 5.00% | ~54,355 |
+| Dead in the air | 4.00% | ~43,484 |
+| Unstoppable force | 4.00% | ~43,484 |
+| Wave of mutilation | 4.00% | ~43,484 |
+| Can't Run Can't Hide | 3.00% | ~32,613 |
+| Improvise, adapt, overrun | 2.00% | ~21,742 |
+| Pre-empative strike | 2.00% | ~21,742 |
+| R is for Running | 2.00% | ~21,742 |
+| Strike | 2.00% | ~21,742 |
+| Triple A | 2.00% | ~21,742 |
+| More than human | 1.00% | ~10,871 |
+| Push it to the limit | 0.70% | ~7,610 |
+| Fine addition | 0.60% | ~6,523 |
+| About Adam | 0.30% | ~3,261 |
+| One Of Those Days | 0.30% | ~3,261 |
 | Hit me if you can | 0.20% | ~2,174 |
 | Junkrunner | 0.20% | ~2,174 |
 | One man's trash | 0.20% | ~2,174 |
@@ -52,8 +52,8 @@ Number of Ratings: 1,047  (23.09.2022)
 | Strafing Run | 0.10% | ~1,087 |
 | Up Close And Personal | 0.10% | ~1,087 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,086,823 (Ranked 15)  
-Completed: 201 (0.02%) (Ranked 363)  
+Progressed: 1,087,104 (Ranked 15)  
+Completed: 201 (0.02%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -319,9 +319,10 @@ Completed: 201 (0.02%) (Ranked 363)
 | 2024-01-09 | 1,058,062 | 188 |
 | 2024-01-10 | 1,073,311 | 197 |
 | 2024-01-11 | 1,086,823 | 201 |
+| 2024-01-12 | 1,087,104 | 201 |
 ## Awards
 Max (Great Boss Battles): 1,259  (Ranked 147)  
-Sum: 1,538 (Ranked 245)  
+Sum: 1,539 (Ranked 245)  
 Diff (max vs sum): -98  
 | Award | Count |
 | ----- | ----- |
@@ -335,7 +336,7 @@ Diff (max vs sum): -98
 | This game has Unique Visuals | 34 |
 | This game is Highly Recommended | 31 |
 | This game has Challenging Combat | 28 |
-| This game has Amazing Storytelling | 24 |
+| This game has Amazing Storytelling | 25 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -536,4 +537,4 @@ Diff (max vs sum): -98
 | 2024-01-08 | 4.62 | - | 1,117 | 1,327 |
 | 2024-01-09 | 4.61 | - | 1,170 | 1,389 |
 | 2024-01-10 | 4.61 | - | 1,216 | 1,446 |
-| 2024-01-11 | 4.61 | - | 1,259 | 1,538 |
+| 2024-01-11 | 4.61 | - | 1,259 | 1,539 |

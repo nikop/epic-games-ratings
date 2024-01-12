@@ -16,8 +16,8 @@ Rating: 4.47 (Ranked 665)
 | Target America | 28.00% | ~1,195 |
 | The Kraken Sleeps | 25.00% | ~1,067 |
 | Liberté | 24.00% | ~1,024 |
+| Organ Grinder | 24.00% | ~1,024 |
 | As Quiet as a Mouse | 24.00% | ~1,024 |
-| Organ Grinder | 23.00% | ~982 |
 | Sharpshooter | 23.00% | ~982 |
 | Gunslinger | 19.00% | ~811 |
 | Explosive Efficiency | 19.00% | ~811 |
@@ -78,7 +78,7 @@ Rating: 4.47 (Ranked 665)
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,268 (Ranked 211)  
-Completed: 11 (0.26%) (Ranked 265)  
+Completed: 11 (0.26%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

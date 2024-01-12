@@ -6,31 +6,31 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~239,581 |
-| He's Signed! | 50.00% | ~239,581 |
-| First Victory | 50.00% | ~239,581 |
+| Clean Sheet | 50.00% | ~239,582 |
+| He's Signed! | 50.00% | ~239,582 |
+| First Victory | 50.00% | ~239,582 |
 | He's Sold! | 48.00% | ~229,998 |
 | I'm The Boss! | 42.00% | ~201,248 |
-| Hat-trick | 41.00% | ~196,456 |
+| Hat-trick | 41.00% | ~196,457 |
 | Scoring Streak | 38.00% | ~182,082 |
 | Unbeatable! | 37.00% | ~177,290 |
 | Thumping | 37.00% | ~177,290 |
 | Superb Dressing Room Atmosphere | 35.00% | ~167,707 |
 | Total Support | 32.00% | ~153,332 |
 | Record Signing | 32.00% | ~153,332 |
-| He's a Natural | 31.00% | ~148,540 |
-| Millionaire's Club | 31.00% | ~148,540 |
+| He's a Natural | 31.00% | ~148,541 |
+| Millionaire's Club | 31.00% | ~148,541 |
 | Team Performance | 30.00% | ~143,749 |
 | Parked The Bus | 29.00% | ~138,957 |
 | Shrewd Spender | 29.00% | ~138,957 |
 | Star Man | 29.00% | ~138,957 |
-| Attack! | 28.00% | ~134,165 |
+| Attack! | 28.00% | ~134,166 |
 | You're On Fire | 27.00% | ~129,374 |
 | Tremendous Trio | 27.00% | ~129,374 |
 | Record Sale | 27.00% | ~129,374 |
 | On A Roll | 26.00% | ~124,582 |
 | Unstoppable Force | 26.00% | ~124,582 |
-| Armchair Expert | 25.00% | ~119,790 |
+| Armchair Expert | 25.00% | ~119,791 |
 | Fantastic Five | 24.00% | ~114,999 |
 | Full Faith | 24.00% | ~114,999 |
 | Iron Curtain | 24.00% | ~114,999 |
@@ -41,8 +41,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Bill of Health | 22.00% | ~105,416 |
 | What A Goal! | 22.00% | ~105,416 |
 | Cup Glory! | 22.00% | ~105,416 |
-| Irresistible Force | 20.00% | ~95,832 |
-| Excellent Match Cohesion | 20.00% | ~95,832 |
+| Irresistible Force | 20.00% | ~95,833 |
+| Excellent Match Cohesion | 20.00% | ~95,833 |
 | Do The Double | 19.00% | ~91,041 |
 | Top Form | 17.00% | ~81,458 |
 | Cash To Burn | 17.00% | ~81,458 |
@@ -53,7 +53,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Window Shopping | 15.00% | ~71,874 |
 | Comeback King! | 14.00% | ~67,083 |
 | You're Up! | 13.00% | ~62,291 |
-| Money, Money, Money | 12.00% | ~57,499 |
+| Money, Money, Money | 12.00% | ~57,500 |
 | Invincible! | 11.00% | ~52,708 |
 | Superb Strike | 10.00% | ~47,916 |
 | International Superstar | 10.00% | ~47,916 |
@@ -70,7 +70,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Head-to-Head | 6.00% | ~28,750 |
 | Going Places | 5.00% | ~23,958 |
 | We Trust You | 5.00% | ~23,958 |
-| Trophy Hoarder | 4.00% | ~19,166 |
+| Trophy Hoarder | 4.00% | ~19,167 |
 | National Hero | 3.00% | ~14,375 |
 | Golden Boot | 3.00% | ~14,375 |
 | Freedom Of The Country | 3.00% | ~14,375 |
@@ -105,8 +105,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~479 |
 | Shoestring Budget | 0.10% | ~479 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479,162 (Ranked 44)  
-Completed: 22 (0.00%) (Ranked 397)  
+Progressed: 479,163 (Ranked 44)  
+Completed: 22 (0.00%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -372,9 +372,10 @@ Completed: 22 (0.00%) (Ranked 397)
 | 2024-01-09 | 479,089 | 22 |
 | 2024-01-10 | 479,112 | 22 |
 | 2024-01-11 | 479,162 | 22 |
+| 2024-01-12 | 479,163 | 22 |
 ## Awards
 Max (Relaxing): 6,496  (Ranked 62)  
-Sum: 51,248 (Ranked 30)  
+Sum: 51,249 (Ranked 30)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
@@ -383,7 +384,7 @@ Diff (max vs sum): 32
 | This game has Competitive Players | 5,936 |
 | This game is Highly Recommended | 5,931 |
 | This game has Quickly Understood Controls | 5,915 |
-| This game is Educational | 5,901 |
+| This game is Educational | 5,902 |
 | This game has Diverse Characters | 5,632 |
 | This game has Amazing Storytelling | 4,946 |
 | This game has Obsessive Gameplay | 4,416 |
@@ -736,3 +737,4 @@ Diff (max vs sum): 32
 | 2024-01-08 | 4.80 | - | 6,495 | 51,242 |
 | 2024-01-09 | 4.80 | - | 6,496 | 51,245 |
 | 2024-01-11 | 4.80 | - | 6,496 | 51,248 |
+| 2024-01-12 | 4.80 | - | 6,496 | 51,249 |

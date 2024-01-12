@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 85.00% | ~319 |
-| Purification Pioneer | 79.00% | ~296 |
+| Meissa's Savior | 85.00% | ~320 |
+| Purification Pioneer | 80.00% | ~301 |
 | Mechanical Buddy | 74.00% | ~278 |
-| Dicesmithing Time! | 64.00% | ~240 |
-| Sanctuary Guardian | 54.00% | ~202 |
-| Endless Tricks | 51.00% | ~191 |
+| Dicesmithing Time! | 64.00% | ~241 |
+| Sanctuary Guardian | 54.00% | ~203 |
+| Endless Tricks | 51.00% | ~192 |
 | Wild's Keeper | 49.00% | ~184 |
-| Mind Illuminator | 43.00% | ~161 |
-| Stellar Dismantler | 38.00% | ~142 |
-| Noctuan Champion | 35.00% | ~131 |
+| Mind Illuminator | 43.00% | ~162 |
+| Stellar Dismantler | 38.00% | ~143 |
+| Noctuan Champion | 35.00% | ~132 |
 | Astral Adventurer | 34.00% | ~128 |
-| Anomaly Destroyer | 31.00% | ~116 |
-| Star Killer | 30.00% | ~112 |
+| Anomaly Destroyer | 31.00% | ~117 |
+| Star Killer | 30.00% | ~113 |
 | Eridanian Champion | 25.00% | ~94 |
-| Loyal Partner | 22.00% | ~82 |
+| Loyal Partner | 22.00% | ~83 |
 | Lacertian Champion | 21.00% | ~79 |
 | Apian Champion | 19.00% | ~71 |
 | Shard Spender | 18.00% | ~68 |
@@ -33,8 +33,8 @@
 | Heart Gate | 7.00% | ~26 |
 | The Corruption Goddess | 7.00% | ~26 |
 | The Goddes Avatar | 7.00% | ~26 |
-| Favored by the Cosmos | 6.00% | ~22 |
-| Prestidigitation | 6.00% | ~22 |
+| Favored by the Cosmos | 6.00% | ~23 |
+| Prestidigitation | 6.00% | ~23 |
 | Anomaly Control | 5.00% | ~19 |
 | Artificer | 5.00% | ~19 |
 | Can't touch this | 5.00% | ~19 |
@@ -103,8 +103,8 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 375 (Ranked 376)  
-Completed: 0 (0.00%) (Ranked 397)  
+Progressed: 376 (Ranked 376)  
+Completed: 0 (0.00%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -181,3 +181,4 @@ Completed: 0 (0.00%) (Ranked 397)
 | 2024-01-09 | 364 | 0 |
 | 2024-01-10 | 372 | 0 |
 | 2024-01-11 | 375 | 0 |
+| 2024-01-12 | 376 | 0 |

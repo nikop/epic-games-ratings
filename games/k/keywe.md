@@ -10,7 +10,7 @@
 | Fun in the Bungalow Basin Sun | 38.00% | ~65 |
 | Working for the Kiweekend | 37.00% | ~63 |
 | A Startling Discovery | 30.00% | ~51 |
-| Pumpkins and Postage Stamps | 18.00% | ~31 |
+| Pumpkins and Postage Stamps | 19.00% | ~32 |
 | Kiwinter Kiwonderland | 6.00% | ~10 |
 | Secrets of the Telepost | 4.00% | ~7 |
 | Summer Postmasters | 2.00% | ~3 |
@@ -26,7 +26,7 @@
 | Working Overtime | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 171 (Ranked 446)  
-Completed: 0 (0.00%) (Ranked 397)  
+Completed: 0 (0.00%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

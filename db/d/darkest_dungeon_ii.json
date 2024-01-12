@@ -6,7 +6,7 @@
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
-  "Ranking_EOS_Completed": 397,
+  "Ranking_EOS_Completed": 398,
   "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
@@ -10746,9 +10746,9 @@
       "Count": 1092
     }
   ],
-  "EOS_Progressed": 132491,
+  "EOS_Progressed": 132498,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 806,
+  "EOS_NewPlayers": 804,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39416,6 +39416,11 @@
       "Time": "2024-01-11T23:09:33.6246521+00:00",
       "NumProgressed": 132491,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-12T00:09:38.437273+00:00",
+      "NumProgressed": 132498,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39435,7 +39440,7 @@
       "Name": "Serenity Now!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7949
+      "UsersEstimate": 7950
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -39555,7 +39560,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7949
+      "UsersEstimate": 7950
     },
     {
       "ID": "combat_kill_cadavers",
@@ -39587,7 +39592,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7949
+      "UsersEstimate": 7950
     },
     {
       "ID": "combat_kill_fanatics",
@@ -39651,7 +39656,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7949
+      "UsersEstimate": 7950
     },
     {
       "ID": "combat_kill_pillagers",
@@ -39667,7 +39672,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7949
+      "UsersEstimate": 7950
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -39779,7 +39784,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9274
+      "UsersEstimate": 9275
     },
     {
       "ID": "hero_story_complete_all",
@@ -39963,7 +39968,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "combat_kill_collector",
@@ -39971,7 +39976,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -40035,7 +40040,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -40058,21 +40063,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132491,
+      "Progressed": 132498,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7360,
+      "Progressed": 7367,
       "Completed": 824
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-11T21:01:00.9596735+00:00",
-  "LastChanged_Achievements": "2024-01-11T23:09:33.6246517+00:00",
+  "LastChanged_Achievements": "2024-01-12T00:09:38.4372728+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:59:59.6316438+00:00",
-  "LastUpdate_Achievements": "2024-01-11T23:09:33.6248143+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:59:47.2961601+00:00",
+  "LastUpdate_Achievements": "2024-01-12T00:09:38.437491+00:00"
 }

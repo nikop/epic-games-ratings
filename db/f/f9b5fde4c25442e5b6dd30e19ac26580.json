@@ -3,9 +3,9 @@
   "Name": "Return of Red Riding Hood Enhanced Edition",
   "ProductSlug": "return-of-red-riding-hood-enhanced-edition-3598e4",
   "Ranking_EOS_Progress": 635,
-  "Ranking_EOS_Completed": 397,
+  "Ranking_EOS_Completed": 398,
   "Ranking_EOS_NewPlayers": 583,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-22T09:00:00+00:00",
     "PcReleaseDate": "2018-01-19T10:00:00+00:00",
@@ -526,8 +526,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-20T18:03:33.8802078+00:00",
-  "LastChanged_Achievements": "2024-01-11T23:06:20.4424085+00:00",
+  "LastChanged_Achievements": "2024-01-12T00:06:27.3625763+00:00",
   "LastUpdate_AppInfo": "2024-01-10T19:57:22.4454471+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:57:25.7513722+00:00",
-  "LastUpdate_Achievements": "2024-01-11T23:06:20.4424415+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:57:23.2445278+00:00",
+  "LastUpdate_Achievements": "2024-01-12T00:06:27.3626087+00:00"
 }

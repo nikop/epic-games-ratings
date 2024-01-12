@@ -6,7 +6,7 @@
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 143,
-  "Ranking_EOS_Completed": 142,
+  "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
@@ -431,9 +431,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28478,
+  "EOS_Progressed": 28479,
   "EOS_Completed": 524,
-  "EOS_NewPlayers": 525,
+  "EOS_NewPlayers": 522,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -29151,6 +29151,11 @@
       "Time": "2024-01-11T23:04:46.6984746+00:00",
       "NumProgressed": 28478,
       "NumCompleted": 524
+    },
+    {
+      "Time": "2024-01-12T00:04:52.9655714+00:00",
+      "NumProgressed": 28479,
+      "NumCompleted": 524
     }
   ],
   "TotalAchievements": 20,
@@ -29162,7 +29167,7 @@
       "Name": "Cartographer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4556
+      "UsersEstimate": 4557
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -29210,7 +29215,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -29282,7 +29287,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 21643
+      "UsersEstimate": 21644
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -29321,15 +29326,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 28478,
+      "Progressed": 28479,
       "Completed": 524
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-11T07:57:26.7354656+00:00",
-  "LastChanged_Achievements": "2024-01-11T23:04:46.6984742+00:00",
+  "LastChanged_Achievements": "2024-01-12T00:04:52.9655712+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.2454847+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:57:34.8698196+00:00",
-  "LastUpdate_Achievements": "2024-01-11T23:04:46.6986085+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:57:31.2118503+00:00",
+  "LastUpdate_Achievements": "2024-01-12T00:04:52.965702+00:00"
 }

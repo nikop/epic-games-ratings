@@ -2,13 +2,13 @@
   "ID": "b6dd761bd5894441b3e3776b7bfe5bb4",
   "Name": "9Lives Arena",
   "ProductSlug": "9lives-arena-fb6229",
-  "Ranking_Rating": 859,
+  "Ranking_Rating": 810,
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 221,
-  "Ranking_EOS_Completed": 397,
+  "Ranking_EOS_Completed": 398,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-27T15:00:00+00:00",
     "PcReleaseDate": "2023-12-27T15:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.32,
+  "Rating": 4.37,
   "RatingHistory": [
     {
       "Time": "2024-01-06T12:01:38.2851424+00:00",
@@ -65,15 +65,21 @@
       "Rating": 4.32,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-11T23:59:21.9077204+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3672,
+  "EOS_Progressed": 3677,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 885,
+  "EOS_NewPlayers": 878,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2051,6 +2057,11 @@
       "Time": "2024-01-11T22:08:31.0533888+00:00",
       "NumProgressed": 3672,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T00:08:00.3409896+00:00",
+      "NumProgressed": 3677,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-20T23:05:42.1114138+00:00",
@@ -2102,16 +2113,16 @@
     {
       "ID": "13dm16l",
       "IsBase": true,
-      "Progressed": 3672,
+      "Progressed": 3677,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-27T16:00:11.4368103+00:00",
   "FirstSeenRating": "2024-01-06T12:01:38.2851422+00:00",
   "FirstSeenAchievements": "2023-12-07T00:03:10.2913253+00:00",
-  "LastChanged": "2024-01-10T21:58:56.8983587+00:00",
-  "LastChanged_Achievements": "2024-01-11T23:07:55.6638197+00:00",
+  "LastChanged": "2024-01-11T23:59:21.9077202+00:00",
+  "LastChanged_Achievements": "2024-01-12T00:08:00.3409892+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:32.1092534+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:59:34.3991987+00:00",
-  "LastUpdate_Achievements": "2024-01-11T23:07:55.663837+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:59:21.9077207+00:00",
+  "LastUpdate_Achievements": "2024-01-12T00:08:00.3410079+00:00"
 }

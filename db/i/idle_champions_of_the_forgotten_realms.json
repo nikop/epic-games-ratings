@@ -6,7 +6,7 @@
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
-  "Ranking_EOS_Completed": 176,
+  "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
@@ -9437,10 +9437,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33445,
       "NumberOfAwardsMax": 5770
+    },
+    {
+      "Time": "2024-01-11T23:58:59.106665+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33451,
+      "NumberOfAwardsMax": 5770
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33445,
+  "NumberOfAwards": 33451,
   "NumberOfAwardsMax": 5770,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9454,7 +9460,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5711
+      "Count": 5717
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9487,9 +9493,9 @@
       "Count": 3635
     }
   ],
-  "EOS_Progressed": 253420,
+  "EOS_Progressed": 253427,
   "EOS_Completed": 2614,
-  "EOS_NewPlayers": 2292,
+  "EOS_NewPlayers": 2274,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39697,6 +39703,11 @@
       "Time": "2024-01-11T23:09:57.162389+00:00",
       "NumProgressed": 253420,
       "NumCompleted": 2614
+    },
+    {
+      "Time": "2024-01-12T00:10:02.1940187+00:00",
+      "NumProgressed": 253427,
+      "NumCompleted": 2614
     }
   ],
   "TotalAchievements": 546,
@@ -40076,7 +40087,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5068
+      "UsersEstimate": 5069
     },
     {
       "ID": "objective_completed_110",
@@ -41380,7 +41391,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5068
+      "UsersEstimate": 5069
     },
     {
       "ID": "objective_completed_34",
@@ -44028,7 +44039,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "objective_completed_673",
@@ -44044,7 +44055,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "objective_completed_683",
@@ -44052,7 +44063,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "objective_completed_860",
@@ -44060,7 +44071,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "objective_completed_865",
@@ -44075,21 +44086,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219694,
+      "Progressed": 219701,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253420,
+      "Progressed": 253427,
       "Completed": 2614
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-11T20:00:12.3785362+00:00",
-  "LastChanged_Achievements": "2024-01-11T23:09:57.1623886+00:00",
+  "LastChanged": "2024-01-11T23:58:59.1066648+00:00",
+  "LastChanged_Achievements": "2024-01-12T00:10:02.1940186+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:59:08.2189988+00:00",
-  "LastUpdate_Achievements": "2024-01-11T23:09:57.1647601+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:58:59.1066656+00:00",
+  "LastUpdate_Achievements": "2024-01-12T00:10:02.1964751+00:00"
 }

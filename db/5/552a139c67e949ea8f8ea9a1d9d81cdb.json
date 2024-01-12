@@ -3,9 +3,9 @@
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 255,
-  "Ranking_EOS_Completed": 338,
+  "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1943,
+  "EOS_Progressed": 1944,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4967,6 +4967,11 @@
       "Time": "2024-01-11T22:08:02.4274516+00:00",
       "NumProgressed": 1943,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T00:06:30.3461641+00:00",
+      "NumProgressed": 1944,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -4987,7 +4992,7 @@
       "Name": "Acrobat",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -5027,7 +5032,7 @@
       "Name": "Globetrotter",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -5219,7 +5224,7 @@
       "Name": "Shopping time!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -5346,20 +5351,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1943,
+      "Progressed": 1944,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1611,
+      "Progressed": 1612,
       "Completed": 1013
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-11T23:06:23.4679971+00:00",
+  "LastChanged_Achievements": "2024-01-12T00:06:30.3461594+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.6791346+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:59:39.7455817+00:00",
-  "LastUpdate_Achievements": "2024-01-11T23:06:23.4680459+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:59:27.0210479+00:00",
+  "LastUpdate_Achievements": "2024-01-12T00:06:30.3462128+00:00"
 }

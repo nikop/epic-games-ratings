@@ -23,11 +23,11 @@ Number of Ratings: 177  (23.09.2022)
 | Social Butterfly | 1.00% | ~73 |
 | The Muse: Madison | 1.00% | ~73 |
 | The Crush | 0.90% | ~66 |
+| Casanova | 0.80% | ~58 |
 | It Smells Like Roses | 0.80% | ~35 |
 | Smooth Operator: Ashley | 0.80% | ~58 |
 | The Magic Number | 0.80% | ~58 |
 | Amy: Scavenger Hunt | 0.70% | ~51 |
-| Casanova | 0.70% | ~51 |
 | Deck the Balls | 0.70% | ~30 |
 | Now It's a Party! | 0.70% | ~51 |
 | Stephanie | 0.70% | ~51 |
@@ -77,7 +77,7 @@ Number of Ratings: 177  (23.09.2022)
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,309 (Ranked 196)  
-Completed: 3 (0.04%) (Ranked 351)  
+Completed: 3 (0.04%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

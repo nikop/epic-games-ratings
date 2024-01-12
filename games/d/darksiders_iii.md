@@ -12,7 +12,7 @@ Number of Ratings: 116  (23.09.2022)
 | Increased Vigor | 59.00% | ~329 |
 | Fight Fire with Fire | 57.00% | ~317 |
 | Increased Capacity | 54.00% | ~301 |
-| Just the start | 48.00% | ~267 |
+| Just the start | 49.00% | ~273 |
 | Perfect Storm | 45.00% | ~251 |
 | All That Glitters | 45.00% | ~251 |
 | Enhance! | 41.00% | ~228 |
@@ -20,7 +20,7 @@ Number of Ratings: 116  (23.09.2022)
 | Devil's in the Details | 39.00% | ~217 |
 | Throne Potato | 39.00% | ~217 |
 | Five's a Crowd | 39.00% | ~217 |
-| 25 to Life | 38.00% | ~212 |
+| 25 to Life | 39.00% | ~217 |
 | Salvation | 37.00% | ~206 |
 | Unshakable Fortitude | 35.00% | ~195 |
 | Soul Harvester | 35.00% | ~195 |
@@ -72,7 +72,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.90% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 557 (Ranked 345)  
-Completed: 2 (0.36%) (Ranked 244)  
+Completed: 2 (0.36%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -101,8 +101,8 @@ Completed: 2 (0.36%) (Ranked 244)
 | 2024-01-11 | 557 | 2 |
 ## Awards
 Max (Great Boss Battles): 98  (Ranked 384)  
-Sum: 98 (Ranked 470)  
-Diff (max vs sum): -86  
+Sum: 98 (Ranked 471)  
+Diff (max vs sum): -87  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 98 |

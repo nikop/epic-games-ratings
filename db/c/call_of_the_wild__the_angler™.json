@@ -6,9 +6,9 @@
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 191,
-  "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_Completed": 398,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8274,
+  "EOS_Progressed": 8275,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 316,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13887,6 +13887,11 @@
       "Time": "2024-01-11T22:08:57.1666388+00:00",
       "NumProgressed": 8274,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T00:08:20.6704381+00:00",
+      "NumProgressed": 8275,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -14066,7 +14071,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -14217,13 +14222,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8274,
+      "Progressed": 8275,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7646,
+      "Progressed": 7647,
       "Completed": 113
     }
   ],
@@ -14231,8 +14236,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-11T23:08:15.5800116+00:00",
+  "LastChanged_Achievements": "2024-01-12T00:08:20.6704379+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:00:24.2959713+00:00",
-  "LastUpdate_Achievements": "2024-01-11T23:08:15.5800884+00:00"
+  "LastUpdate_Ratings": "2024-01-12T00:00:11.25463+00:00",
+  "LastUpdate_Achievements": "2024-01-12T00:08:20.6705492+00:00"
 }

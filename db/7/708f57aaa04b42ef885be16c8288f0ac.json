@@ -6,9 +6,9 @@
   "Ranking_Popularity": 472,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 174,
-  "Ranking_EOS_Completed": 282,
+  "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -413,9 +413,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 14637,
+  "EOS_Progressed": 14639,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 1338,
+  "EOS_NewPlayers": 1335,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10038,6 +10038,11 @@
       "Time": "2024-01-11T23:09:44.0021301+00:00",
       "NumProgressed": 14637,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-12T00:09:48.6356871+00:00",
+      "NumProgressed": 14639,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10058,7 +10063,7 @@
       "Name": "Baby Steps",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 5855
+      "UsersEstimate": 5856
     },
     {
       "ID": "BeLikeWater",
@@ -10106,7 +10111,7 @@
       "Name": "Explosive Personality",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2927
+      "UsersEstimate": 2928
     },
     {
       "ID": "FasterThanLight",
@@ -10122,7 +10127,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8050
+      "UsersEstimate": 8051
     },
     {
       "ID": "FuneralForTheDeath",
@@ -10154,7 +10159,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 2927
+      "UsersEstimate": 2928
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -10202,7 +10207,7 @@
       "Name": "No More Totems",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1756
+      "UsersEstimate": 1757
     },
     {
       "ID": "NotLikeTheOthers",
@@ -10242,7 +10247,7 @@
       "Name": "The Old-School Way",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 3659
+      "UsersEstimate": 3660
     },
     {
       "ID": "TheQuarterback",
@@ -10306,7 +10311,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "k01101110",
@@ -10314,14 +10319,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14637,
+      "Progressed": 14639,
       "Completed": 27
     }
   ],
@@ -10329,8 +10334,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-10T20:00:42.7473431+00:00",
-  "LastChanged_Achievements": "2024-01-11T23:09:44.0021296+00:00",
+  "LastChanged_Achievements": "2024-01-12T00:09:48.6356869+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:57:17.4424133+00:00",
-  "LastUpdate_Achievements": "2024-01-11T23:09:44.0021815+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:57:15.3841629+00:00",
+  "LastUpdate_Achievements": "2024-01-12T00:09:48.6357573+00:00"
 }

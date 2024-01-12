@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,137 |
-| Beast Intentions | 2.00% | ~5,068 |
-| The Cursed Farmer | 2.00% | ~5,068 |
+| Beast Intentions | 2.00% | ~5,069 |
+| The Cursed Farmer | 2.00% | ~5,069 |
 | The Mad Wizard | 1.00% | ~2,534 |
 | The Ring of Regeneration | 0.90% | ~2,281 |
 | Are Ya Chicken? | 0.90% | ~2,281 |
@@ -23,10 +23,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 0.50% | ~1,267 |
 | Terror in the Dark | 0.50% | ~1,267 |
 | Unearthed Evil | 0.50% | ~1,267 |
-| The Overgrown Grove | 0.50% | ~1,098 |
-| Flames of Avernus | 0.50% | ~1,098 |
-| Mental Gymnastics | 0.50% | ~1,098 |
-| Don't Lose Your Head | 0.50% | ~1,098 |
+| The Overgrown Grove | 0.50% | ~1,099 |
+| Flames of Avernus | 0.50% | ~1,099 |
+| Mental Gymnastics | 0.50% | ~1,099 |
+| Don't Lose Your Head | 0.50% | ~1,099 |
 | Beast Mode | 0.40% | ~1,014 |
 | A Mysterious Summons | 0.40% | ~1,014 |
 | The Crumbling Temple | 0.40% | ~1,014 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,420 (Ranked 70)  
-Completed: 2,614 (1.03%) (Ranked 176)  
+Progressed: 253,427 (Ranked 70)  
+Completed: 2,614 (1.03%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -820,14 +820,15 @@ Completed: 2,614 (1.03%) (Ranked 176)
 | 2024-01-09 | 253,044 | 2,606 |
 | 2024-01-10 | 253,250 | 2,611 |
 | 2024-01-11 | 253,420 | 2,614 |
+| 2024-01-12 | 253,427 | 2,614 |
 ## Awards
 Max (Great for Beginners): 5,770  (Ranked 74)  
-Sum: 33,445 (Ranked 41)  
+Sum: 33,451 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,770 |
-| This game has Diverse Characters | 5,711 |
+| This game has Diverse Characters | 5,717 |
 | This game has Quickly Understood Controls | 4,906 |
 | This game is Relaxing | 4,777 |
 | This game has Amazing Characters | 4,325 |
@@ -1186,4 +1187,4 @@ Diff (max vs sum): 33
 | 2024-01-08 | 4.06 | - | 5,763 | 33,403 |
 | 2024-01-09 | 4.06 | - | 5,768 | 33,417 |
 | 2024-01-10 | 4.06 | - | 5,770 | 33,432 |
-| 2024-01-11 | 4.06 | - | 5,770 | 33,445 |
+| 2024-01-11 | 4.06 | - | 5,770 | 33,451 |

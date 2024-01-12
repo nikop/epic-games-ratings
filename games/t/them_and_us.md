@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Alone with Them | 67.00% | ~277 |
-| Forced to Kill | 64.00% | ~264 |
+| Forced to Kill | 64.00% | ~265 |
 | A Night To Remember | 38.00% | ~157 |
-| Safe...For now? | 31.00% | ~128 |
-| Open Sesame | 26.00% | ~107 |
-| What have I done!? | 18.00% | ~74 |
+| Safe...For now? | 30.00% | ~124 |
+| Open Sesame | 26.00% | ~108 |
+| What have I done!? | 18.00% | ~75 |
 | Them and Us | 17.00% | ~70 |
 | OUTRAGE | 17.00% | ~70 |
 | Alone In The Dark | 14.00% | ~58 |
@@ -17,7 +17,7 @@
 | The Cultists | 13.00% | ~54 |
 | The Forgotten Tower | 13.00% | ~54 |
 | Parasite Exterminated | 12.00% | ~50 |
-| Trapped | 11.00% | ~45 |
+| Trapped | 11.00% | ~46 |
 | Modern Player | 10.00% | ~41 |
 | The Curse Is Real | 10.00% | ~41 |
 | Lover of classics | 9.00% | ~37 |
@@ -45,8 +45,8 @@
 | Nightmare Over | 0.20% | ~1 |
 | Survival Horror | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 413 (Ranked 368)  
-Completed: 1 (0.24%) (Ranked 268)  
+Progressed: 414 (Ranked 368)  
+Completed: 1 (0.24%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -174,6 +174,7 @@ Completed: 1 (0.24%) (Ranked 268)
 | 2024-01-09 | 410 | 1 |
 | 2024-01-10 | 411 | 1 |
 | 2024-01-11 | 413 | 1 |
+| 2024-01-12 | 414 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

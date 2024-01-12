@@ -23,10 +23,10 @@
 | What's the cargo? | 6.00% | ~173 |
 | A cunning warrior | 6.00% | ~173 |
 | "Gonk? Gonk!" | 5.00% | ~144 |
+| Impressive. Most impressive. | 5.00% | ~144 |
 | Judge me by my size, do you? | 5.00% | ~144 |
 | Distinguished | 4.00% | ~115 |
 | A tremor in the Force | 4.00% | ~115 |
-| Impressive. Most impressive. | 4.00% | ~115 |
 | Not bad for a little furball | 4.00% | ~115 |
 | Support the troops | 4.00% | ~115 |
 | Safety ain't the point of a joyride | 3.00% | ~87 |
@@ -69,7 +69,7 @@
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,884 (Ranked 233)  
-Completed: 1 (0.03%) (Ranked 355)  
+Completed: 1 (0.03%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -24,7 +24,7 @@
 | King of survival ✔ | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 326 (Ranked 390)  
-Completed: 0 (0.00%) (Ranked 397)  
+Completed: 0 (0.00%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

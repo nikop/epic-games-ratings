@@ -5,8 +5,8 @@
   "Ranking_Rating": 565,
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
-  "Ranking_EOS_Progress": 160,
-  "Ranking_EOS_Completed": 250,
+  "Ranking_EOS_Progress": 159,
+  "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18866,
+  "EOS_Progressed": 18869,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 653,
+  "EOS_NewPlayers": 650,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -17068,6 +17068,11 @@
       "Time": "2024-01-11T23:08:04.9141127+00:00",
       "NumProgressed": 18866,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-12T00:08:09.4249591+00:00",
+      "NumProgressed": 18869,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17128,7 +17133,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "16",
@@ -17200,7 +17205,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "24",
@@ -17288,7 +17293,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2642
     },
     {
       "ID": "7",
@@ -17359,13 +17364,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18866,
+      "Progressed": 18869,
       "Completed": 63
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4820,
+      "Progressed": 4823,
       "Completed": 1289
     }
   ],
@@ -17373,8 +17378,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-11T01:50:11.8166633+00:00",
-  "LastChanged_Achievements": "2024-01-11T23:08:04.9141122+00:00",
+  "LastChanged_Achievements": "2024-01-12T00:08:09.4249589+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:00:33.2217071+00:00",
-  "LastUpdate_Achievements": "2024-01-11T23:08:04.9142038+00:00"
+  "LastUpdate_Ratings": "2024-01-12T00:00:19.3633969+00:00",
+  "LastUpdate_Achievements": "2024-01-12T00:08:09.4250772+00:00"
 }

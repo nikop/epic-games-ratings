@@ -11,6 +11,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 3.00% | ~494 |
 | Able | 2.00% | ~329 |
 | Architect | 2.00% | ~329 |
+| Glorious | 2.00% | ~329 |
 | Good | 2.00% | ~329 |
 | Intrepid | 2.00% | ~329 |
 | Just | 2.00% | ~329 |
@@ -32,7 +33,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 1.00% | ~165 |
 | Enlightened | 1.00% | ~165 |
 | Fountainhead | 1.00% | ~165 |
-| Glorious | 1.00% | ~165 |
 | Great | 1.00% | ~165 |
 | Magnificent | 1.00% | ~165 |
 | Warrior | 1.00% | ~165 |
@@ -62,13 +62,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.90% | ~148 |
 | Musaeum | 0.90% | ~148 |
 | Hanging Gardens in Babylon | 0.80% | ~132 |
+| Valiant | 0.80% | ~132 |
 | Just Difficulty | 0.80% | ~132 |
 | Artisans | 0.80% | ~132 |
 | Colossus | 0.80% | ~132 |
 | Building Wonders | 0.80% | ~132 |
 | Mythology | 0.80% | ~132 |
 | Intercessor | 0.70% | ~115 |
-| Valiant | 0.70% | ~115 |
 | Champions | 0.70% | ~115 |
 | Sages | 0.70% | ~115 |
 | Learn to Play 3 | 0.70% | ~115 |
@@ -83,6 +83,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 0.60% | ~99 |
 | Win a Single Player Game | 0.60% | ~99 |
 | Conqueror | 0.50% | ~82 |
+| Ready | 0.50% | ~82 |
+| Subjugator | 0.50% | ~82 |
 | Victorious | 0.50% | ~82 |
 | Landowners | 0.50% | ~82 |
 | Riders | 0.50% | ~82 |
@@ -95,6 +97,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.50% | ~82 |
 | Economic Reform | 0.50% | ~82 |
 | Military Prestige | 0.50% | ~82 |
+| Dualism | 0.50% | ~82 |
+| Cimmerian Archer | 0.50% | ~82 |
 | Legionary | 0.50% | ~82 |
 | Double Victory | 0.50% | ~82 |
 | Kushite Paganism | 0.50% | ~82 |
@@ -103,39 +107,35 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.40% | ~66 |
 | Invincible | 0.40% | ~66 |
 | Lion | 0.40% | ~66 |
-| Ready | 0.40% | ~66 |
-| Subjugator | 0.40% | ~66 |
+| Peacemaker | 0.40% | ~66 |
 | Strong Difficulty | 0.40% | ~66 |
+| Clerics | 0.40% | ~66 |
+| Hunters | 0.40% | ~66 |
 | Adur Burzen-Mihr | 0.40% | ~66 |
 | Learn to Play 4 | 0.40% | ~66 |
 | Carthage | 0.40% | ~66 |
+| Rome | 0.40% | ~66 |
 | Assyrian Paganism | 0.40% | ~66 |
 | Industrial Progress | 0.40% | ~66 |
-| Dualism | 0.40% | ~66 |
 | Enlightenment | 0.40% | ~66 |
 | Gnosticism | 0.40% | ~66 |
 | Legalism | 0.40% | ~66 |
 | Redemption | 0.40% | ~66 |
 | Revelation | 0.40% | ~66 |
-| Cimmerian Archer | 0.40% | ~66 |
+| Kushite Cavalry | 0.40% | ~66 |
 | Phalangite | 0.40% | ~66 |
 | Ambition Victory | 0.40% | ~66 |
 | The Clergy | 0.40% | ~66 |
 | Kushite Pyramids | 0.40% | ~66 |
 | Ishtar Gate in Babylon | 0.30% | ~49 |
 | Old | 0.30% | ~49 |
-| Peacemaker | 0.30% | ~49 |
-| Clerics | 0.30% | ~49 |
-| Hunters | 0.30% | ~49 |
 | Church of the Holy Sepulchre | 0.30% | ~49 |
 | Babylonia | 0.30% | ~49 |
 | Egypt | 0.30% | ~49 |
-| Rome | 0.30% | ~49 |
 | One True Faith | 0.30% | ~49 |
 | Hittite Paganism | 0.30% | ~49 |
 | Veneration | 0.30% | ~49 |
 | Cataphract Archer | 0.30% | ~49 |
-| Kushite Cavalry | 0.30% | ~49 |
 | Turreted Elephant | 0.30% | ~49 |
 | All Nations | 0.30% | ~49 |
 | No Undo | 0.30% | ~49 |
@@ -365,8 +365,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,456 (Ranked 170)  
-Completed: 5 (0.03%) (Ranked 355)  
+Progressed: 16,463 (Ranked 170)  
+Completed: 5 (0.03%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -632,6 +632,7 @@ Completed: 5 (0.03%) (Ranked 355)
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
+| 2024-01-12 | 16,463 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,921 (Ranked 224)  

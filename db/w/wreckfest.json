@@ -6,9 +6,9 @@
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 291,
-  "Ranking_EOS_Completed": 397,
+  "Ranking_EOS_Completed": 398,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -355,7 +355,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1084,
+  "EOS_Progressed": 1085,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
@@ -2675,6 +2675,11 @@
       "Time": "2024-01-11T22:09:20.7519246+00:00",
       "NumProgressed": 1084,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T00:08:38.8249077+00:00",
+      "NumProgressed": 1085,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2687,7 +2692,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "CareerAllChallenges",
@@ -2695,7 +2700,7 @@
       "Name": "Highballer",
       "Percentage": 60,
       "XP": 90,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "CareerChamp1",
@@ -2743,7 +2748,7 @@
       "Name": "Storm Warning",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "CollectVehiclesA",
@@ -2846,7 +2851,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1084,
+      "Progressed": 1085,
       "Completed": 0
     }
   ],
@@ -2854,8 +2859,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-07T05:59:24.3409501+00:00",
-  "LastChanged_Achievements": "2024-01-11T23:08:33.753402+00:00",
+  "LastChanged_Achievements": "2024-01-12T00:08:38.8249074+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:57:37.0543977+00:00",
-  "LastUpdate_Achievements": "2024-01-11T23:08:33.7534295+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:57:32.9524606+00:00",
+  "LastUpdate_Achievements": "2024-01-12T00:08:38.8249351+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 203,
   "Ranking_PopularitySum": 153,
   "Ranking_EOS_Progress": 80,
-  "Ranking_EOS_Completed": 373,
+  "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
@@ -8161,10 +8161,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4872,
       "NumberOfAwardsMax": 633
+    },
+    {
+      "Time": "2024-01-11T23:59:25.0799393+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4874,
+      "NumberOfAwardsMax": 633
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4872,
+  "NumberOfAwards": 4874,
   "NumberOfAwardsMax": 633,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8202,7 +8208,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 581
+      "Count": 583
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8235,9 +8241,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 215152,
+  "EOS_Progressed": 215160,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 3207,
+  "EOS_NewPlayers": 3197,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -38860,6 +38866,11 @@
       "Time": "2024-01-11T23:09:23.4009501+00:00",
       "NumProgressed": 215152,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-12T00:09:28.0236101+00:00",
+      "NumProgressed": 215160,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 16,
@@ -38903,7 +38914,7 @@
       "Name": "Get Busy Living",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 32273
+      "UsersEstimate": 32274
     },
     {
       "ID": "Achievement_13",
@@ -38951,7 +38962,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 53788
+      "UsersEstimate": 53790
     },
     {
       "ID": "Achievement_5",
@@ -38998,15 +39009,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 215152,
+      "Progressed": 215160,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2024-01-11T21:00:31.0180575+00:00",
-  "LastChanged_Achievements": "2024-01-11T23:09:23.4009497+00:00",
+  "LastChanged": "2024-01-11T23:59:25.079939+00:00",
+  "LastChanged_Achievements": "2024-01-12T00:09:28.0236099+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:20.5242713+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:59:37.8113094+00:00",
-  "LastUpdate_Achievements": "2024-01-11T23:09:23.401112+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:59:25.0799397+00:00",
+  "LastUpdate_Achievements": "2024-01-12T00:09:28.0237698+00:00"
 }

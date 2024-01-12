@@ -12,11 +12,11 @@ Rating: 4.26 (Ranked 917)
 | Suited and Booted | 37.00% | ~951 |
 | Sleeping With The Fishes | 34.00% | ~874 |
 | High Performance | 30.00% | ~771 |
-| Overheated | 29.00% | ~745 |
+| Overheated | 29.00% | ~746 |
 | Powered Up | 27.00% | ~694 |
 | Studied The Blade | 24.00% | ~617 |
-| Home Invasion | 22.00% | ~565 |
-| Luminary | 22.00% | ~565 |
+| Home Invasion | 22.00% | ~566 |
+| Luminary | 22.00% | ~566 |
 | True Survivor | 21.00% | ~540 |
 | It's a Trap | 21.00% | ~540 |
 | Offensive Defense | 20.00% | ~514 |
@@ -31,8 +31,8 @@ Rating: 4.26 (Ranked 917)
 | Bad Dog | 13.00% | ~334 |
 | Risk Tolerant | 13.00% | ~334 |
 | What A Catchy Song | 13.00% | ~334 |
-| Where It All Began | 12.00% | ~308 |
-| Sorry, Didn't See You There | 12.00% | ~308 |
+| Where It All Began | 12.00% | ~309 |
+| Sorry, Didn't See You There | 12.00% | ~309 |
 | Corrupted Beauty | 11.00% | ~283 |
 | Marked For Success | 11.00% | ~283 |
 | Stimulating The Local Economy | 10.00% | ~257 |
@@ -45,11 +45,11 @@ Rating: 4.26 (Ranked 917)
 | Remote Surgery | 6.00% | ~154 |
 | Turbo Booster | 6.00% | ~154 |
 | Squid Pro Quo | 6.00% | ~154 |
-| Reborn | 5.00% | ~128 |
-| Hello Darkness My Old Friend | 5.00% | ~128 |
-| Counter-Sniper | 5.00% | ~128 |
-| Shrimp Cocktail | 5.00% | ~128 |
-| Juiced Up | 5.00% | ~128 |
+| Reborn | 5.00% | ~129 |
+| Hello Darkness My Old Friend | 5.00% | ~129 |
+| Counter-Sniper | 5.00% | ~129 |
+| Shrimp Cocktail | 5.00% | ~129 |
+| Juiced Up | 5.00% | ~129 |
 | Geronimo! | 4.00% | ~103 |
 | Homewrecker | 4.00% | ~103 |
 | Plank of Wood | 4.00% | ~103 |
@@ -63,8 +63,8 @@ Rating: 4.26 (Ranked 917)
 | Three Birds With One Stone | 1.00% | ~26 |
 | The Easy Way Out | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,570 (Ranked 238)  
-Completed: 13 (0.51%) (Ranked 221)  
+Progressed: 2,571 (Ranked 238)  
+Completed: 13 (0.51%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -267,6 +267,7 @@ Completed: 13 (0.51%) (Ranked 221)
 | 2024-01-09 | 2,547 | 13 |
 | 2024-01-10 | 2,561 | 13 |
 | 2024-01-11 | 2,570 | 13 |
+| 2024-01-12 | 2,571 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

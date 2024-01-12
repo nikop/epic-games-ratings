@@ -22,9 +22,9 @@ Number of Ratings: 180  (23.09.2022)
 | Cargo hub | 49.00% | ~1,205 |
 | Sculpturer | 45.00% | ~1,107 |
 | Settled down | 44.00% | ~1,082 |
+| Now what? | 43.00% | ~1,057 |
 | First electric train arrived | 42.00% | ~1,033 |
 | First ship arrived | 42.00% | ~1,033 |
-| Now what? | 42.00% | ~1,033 |
 | Exemplary student | 41.00% | ~1,008 |
 | High speed | 38.00% | ~934 |
 | Transport shark | 37.00% | ~910 |
@@ -69,7 +69,7 @@ Number of Ratings: 180  (23.09.2022)
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,459 (Ranked 240)  
-Completed: 1 (0.04%) (Ranked 351)  
+Completed: 1 (0.04%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

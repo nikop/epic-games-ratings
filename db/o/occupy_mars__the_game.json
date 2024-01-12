@@ -6,9 +6,9 @@
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 257,
-  "Ranking_EOS_Completed": 397,
-  "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_Completed": 398,
+  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -343,7 +343,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1880,
+  "EOS_Progressed": 1881,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
@@ -5023,6 +5023,11 @@
       "Time": "2024-01-11T20:10:38.5903677+00:00",
       "NumProgressed": 1880,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T00:09:18.4537843+00:00",
+      "NumProgressed": 1881,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5106,7 +5111,7 @@
       "Name": "The Collector",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -5210,7 +5215,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -5250,7 +5255,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -5258,7 +5263,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -5417,7 +5422,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1880,
+      "Progressed": 1881,
       "Completed": 0
     }
   ],
@@ -5425,8 +5430,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2024-01-09T16:02:23.0830001+00:00",
-  "LastChanged_Achievements": "2024-01-11T23:09:13.4103222+00:00",
+  "LastChanged_Achievements": "2024-01-12T00:09:18.4537841+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.830509+00:00",
-  "LastUpdate_Ratings": "2024-01-11T23:02:39.6515929+00:00",
-  "LastUpdate_Achievements": "2024-01-11T23:09:13.4103785+00:00"
+  "LastUpdate_Ratings": "2024-01-12T00:02:44.7588366+00:00",
+  "LastUpdate_Achievements": "2024-01-12T00:09:18.4538431+00:00"
 }

@@ -40,10 +40,10 @@
 | The barbarian invasions | 10.00% | ~9 |
 | ECO mode | 10.00% | ~9 |
 | America had no Faith | 10.00% | ~9 |
-| Vaccine fans | 8.00% | ~7 |
+| Vaccine fans | 9.00% | ~8 |
 | A new Hindenburg | 7.00% | ~6 |
 | Pulp! Tales from the Crypt | 5.00% | ~5 |
-| Thirst for Oleum | 3.00% | ~3 |
+| Thirst for Oleum | 4.00% | ~4 |
 | Troy is burning! | 3.00% | ~3 |
 | Pulp! Weird Science | 2.00% | ~2 |
 | Pulp! Heart Throbs | 2.00% | ~2 |
@@ -53,7 +53,7 @@
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 91 (Ranked 502)  
-Completed: 0 (0.00%) (Ranked 397)  
+Completed: 0 (0.00%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

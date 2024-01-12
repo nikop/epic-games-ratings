@@ -14,20 +14,20 @@
 | Reunion | 41.00% | ~43 |
 | Fluke | 34.00% | ~36 |
 | Elimination | 33.00% | ~35 |
-| Victor's Prejudice | 31.00% | ~33 |
+| Victor's Prejudice | 32.00% | ~34 |
 | Once Bitten, Twice Shy | 30.00% | ~32 |
 | Excellent Driving Skills | 29.00% | ~31 |
 | Memento | 28.00% | ~30 |
-| Fleet-footed | 26.00% | ~28 |
+| Fleet-footed | 27.00% | ~29 |
+| Invincible | 26.00% | ~28 |
 | Defeat the AI | 25.00% | ~26 |
-| Invincible | 25.00% | ~26 |
 | Best in Dragon City | 23.00% | ~24 |
 | Unsalvageable | 23.00% | ~24 |
 | Neutralize | 23.00% | ~24 |
 | Walking into a Trap | 22.00% | ~23 |
 | Disdain | 21.00% | ~22 |
+| Final Battle | 18.00% | ~19 |
 | Brain in a Vat | 18.00% | ~19 |
-| Final Battle | 17.00% | ~18 |
 | Outsider's Profit | 17.00% | ~18 |
 | Reappearance | 15.00% | ~16 |
 | King of the Streets | 9.00% | ~10 |
@@ -63,7 +63,7 @@
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 106 (Ranked 491)  
-Completed: 0 (0.00%) (Ranked 397)  
+Completed: 0 (0.00%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

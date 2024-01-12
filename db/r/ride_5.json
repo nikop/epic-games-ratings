@@ -6,9 +6,9 @@
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 225,
-  "Ranking_EOS_Completed": 397,
+  "Ranking_EOS_Completed": 398,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -57,7 +57,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3552,
+  "EOS_Progressed": 3553,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
@@ -8717,6 +8717,11 @@
       "Time": "2024-01-11T23:04:36.4709094+00:00",
       "NumProgressed": 3552,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T00:04:43.1907809+00:00",
+      "NumProgressed": 3553,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8729,7 +8734,7 @@
       "Name": "First Love",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -8737,7 +8742,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -8761,7 +8766,7 @@
       "Name": "Restored and Ready",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -8817,7 +8822,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -8831,9 +8836,9 @@
       "ID": "ML_ACHIEVEMENT_14",
       "SetID": "c7hf6a4",
       "Name": "Quick Pit Stop",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 781
+      "UsersEstimate": 817
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -9120,7 +9125,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3552,
+      "Progressed": 3553,
       "Completed": 0
     }
   ],
@@ -9128,8 +9133,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-11T14:58:44.7616206+00:00",
-  "LastChanged_Achievements": "2024-01-11T23:04:36.470909+00:00",
+  "LastChanged_Achievements": "2024-01-12T00:04:43.1907807+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.6681713+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:58:51.9112201+00:00",
-  "LastUpdate_Achievements": "2024-01-11T23:04:36.4709798+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:58:43.4826913+00:00",
+  "LastUpdate_Achievements": "2024-01-12T00:04:43.1908787+00:00"
 }

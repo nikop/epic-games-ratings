@@ -6,35 +6,35 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 79.00% | ~325,261 |
-| good drivers have dead flies on the side windows | 32.00% | ~131,751 |
-| keep it tidy | 26.00% | ~107,048 |
-| brail | 26.00% | ~107,048 |
-| car wash | 23.00% | ~94,696 |
-| the artist | 23.00% | ~94,696 |
-| podium | 20.00% | ~82,345 |
-| medium attack | 17.00% | ~69,993 |
-| bicycle race | 6.00% | ~24,703 |
-| grocery-getter | 5.00% | ~20,586 |
-| autopilot | 4.00% | ~16,469 |
-| rwd only | 3.00% | ~12,352 |
-| where is the stage? | 3.00% | ~12,352 |
-| night ride | 3.00% | ~12,352 |
-| snorkel | 3.00% | ~12,352 |
-| food tour: pasta | 3.00% | ~12,352 |
-| to finish first, first you must finish | 2.00% | ~8,234 |
-| perkele | 2.00% | ~8,234 |
-| turbo | 2.00% | ~8,234 |
-| if in doubt, flat out! | 2.00% | ~8,234 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~8,234 |
-| mittens | 2.00% | ~8,234 |
-| food tour: pretzel | 2.00% | ~8,234 |
-| espresso | 1.00% | ~4,117 |
-| in like a lamb, out like a lion | 1.00% | ~4,117 |
+| light attack | 79.00% | ~325,305 |
+| good drivers have dead flies on the side windows | 32.00% | ~131,769 |
+| keep it tidy | 26.00% | ~107,062 |
+| brail | 26.00% | ~107,062 |
+| car wash | 23.00% | ~94,709 |
+| the artist | 23.00% | ~94,709 |
+| podium | 20.00% | ~82,356 |
+| medium attack | 17.00% | ~70,002 |
+| bicycle race | 6.00% | ~24,707 |
+| grocery-getter | 5.00% | ~20,589 |
+| autopilot | 4.00% | ~16,471 |
+| rwd only | 3.00% | ~12,353 |
+| where is the stage? | 3.00% | ~12,353 |
+| night ride | 3.00% | ~12,353 |
+| snorkel | 3.00% | ~12,353 |
+| food tour: pasta | 3.00% | ~12,353 |
+| to finish first, first you must finish | 2.00% | ~8,236 |
+| perkele | 2.00% | ~8,236 |
+| turbo | 2.00% | ~8,236 |
+| if in doubt, flat out! | 2.00% | ~8,236 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~8,236 |
+| mittens | 2.00% | ~8,236 |
+| food tour: pretzel | 2.00% | ~8,236 |
+| espresso | 1.00% | ~4,118 |
+| in like a lamb, out like a lion | 1.00% | ~4,118 |
 | monster | 0.90% | ~3,706 |
-| eurobeat | 0.60% | ~2,470 |
-| viking | 0.60% | ~2,470 |
-| parallel universe | 0.60% | ~2,470 |
+| eurobeat | 0.60% | ~2,471 |
+| viking | 0.60% | ~2,471 |
+| parallel universe | 0.60% | ~2,471 |
 | oktoberfest | 0.50% | ~2,059 |
 | group b | 0.50% | ~2,059 |
 | samir | 0.50% | ~2,059 |
@@ -43,15 +43,15 @@ Number of Ratings: 56  (23.09.2022)
 | maximum attack | 0.40% | ~1,647 |
 | parking lot | 0.30% | ~1,235 |
 | real roads, real fast | 0.30% | ~1,235 |
-| comfy seats | 0.20% | ~823 |
-| simulator | 0.20% | ~823 |
+| comfy seats | 0.20% | ~824 |
+| simulator | 0.20% | ~824 |
 | if everything seems under control, you're not going fast enough | 0.10% | ~412 |
 | absolute drift | 0.10% | ~412 |
 | barely keeping it together | 0.10% | ~412 |
 | you're here for a good time, not a long time | 0.10% | ~412 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 411,723 (Ranked 49)  
-Completed: 22 (0.01%) (Ranked 373)  
+Progressed: 411,778 (Ranked 49)  
+Completed: 22 (0.01%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -247,13 +247,14 @@ Completed: 22 (0.01%) (Ranked 373)
 | 2024-01-09 | 407,593 | 21 |
 | 2024-01-10 | 409,693 | 21 |
 | 2024-01-11 | 411,723 | 22 |
+| 2024-01-12 | 411,778 | 22 |
 ## Awards
-Max (Quickly Understood Controls): 37  (Ranked 496)  
-Sum: 230 (Ranked 407)  
-Diff (max vs sum): 89  
+Max (Quickly Understood Controls): 40  (Ranked 483)  
+Sum: 233 (Ranked 407)  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 37 |
+| This game has Quickly Understood Controls | 40 |
 | This game is Highly Recommended | 36 |
 | This game is Great for Quick Sessions | 32 |
 | This game is Relaxing | 30 |
@@ -321,4 +322,4 @@ Diff (max vs sum): 89
 | 2024-01-08 | 4.65 | - | 36 | 193 |
 | 2024-01-09 | 4.65 | - | 36 | 199 |
 | 2024-01-10 | 4.65 | - | 37 | 224 |
-| 2024-01-11 | 4.65 | - | 37 | 230 |
+| 2024-01-11 | 4.65 | - | 40 | 233 |

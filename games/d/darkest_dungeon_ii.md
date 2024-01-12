@@ -6,15 +6,15 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 13.00% | ~957 |
+| Malpractice Assurance | 13.00% | ~958 |
 | Lost and Found | 8.00% | ~589 |
-| Autodidact | 7.00% | ~9,274 |
-| This guy... again? | 7.00% | ~515 |
-| Serenity Now! | 6.00% | ~7,949 |
-| This Belongs in a Museum | 6.00% | ~7,949 |
-| Creep and Sleep | 6.00% | ~7,949 |
-| Overdue Notice | 6.00% | ~7,949 |
-| Escape from the Black Hole | 6.00% | ~7,949 |
+| Autodidact | 7.00% | ~9,275 |
+| This guy... again? | 7.00% | ~516 |
+| Serenity Now! | 6.00% | ~7,950 |
+| This Belongs in a Museum | 6.00% | ~7,950 |
+| Creep and Sleep | 6.00% | ~7,950 |
+| Overdue Notice | 6.00% | ~7,950 |
+| Escape from the Black Hole | 6.00% | ~7,950 |
 | Ploughshares to Swords | 6.00% | ~442 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,625 |
 | It Rings a Bell | 5.00% | ~6,625 |
@@ -34,7 +34,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 4.00% | ~5,300 |
 | Nope | 4.00% | ~5,300 |
 | Unshackled | 4.00% | ~5,300 |
-| Friends 'Til the End | 4.00% | ~294 |
+| Friends 'Til the End | 4.00% | ~295 |
 | Resurrection | 3.00% | ~3,975 |
 | Unleash Hell | 3.00% | ~3,975 |
 | Funny Guy | 3.00% | ~3,975 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~132 |
 | Hard Mode | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,491 (Ranked 91)  
-Completed: 4 (0.00%) (Ranked 397)  
+Progressed: 132,498 (Ranked 91)  
+Completed: 4 (0.00%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -343,6 +343,7 @@ Completed: 4 (0.00%) (Ranked 397)
 | 2024-01-09 | 132,315 | 3 |
 | 2024-01-10 | 132,395 | 4 |
 | 2024-01-11 | 132,491 | 4 |
+| 2024-01-12 | 132,498 | 4 |
 ## Awards
 Max (Character Customization): 8,002  (Ranked 51)  
 Sum: 21,592 (Ranked 58)  

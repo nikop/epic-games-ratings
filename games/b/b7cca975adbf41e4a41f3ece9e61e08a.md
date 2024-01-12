@@ -5,14 +5,14 @@ Rating: 4.69 (Ranked 237)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~16,188 |
-| I Challenge You To Save More Money! | 81.00% | ~14,901 |
-| I Love How Tough You Are | 65.00% | ~11,957 |
-| Wanna Come To My Place For Dinner? | 58.00% | ~10,670 |
-| What I Want Is You | 53.00% | ~9,750 |
-| To Be Or Not To Be | 50.00% | ~9,198 |
-| Are You Alright? | 47.00% | ~8,646 |
-| Love Actually | 41.00% | ~7,542 |
+| Last Night...Did We... | 88.00% | ~16,190 |
+| I Challenge You To Save More Money! | 81.00% | ~14,902 |
+| I Love How Tough You Are | 65.00% | ~11,959 |
+| Wanna Come To My Place For Dinner? | 58.00% | ~10,671 |
+| What I Want Is You | 53.00% | ~9,751 |
+| To Be Or Not To Be | 50.00% | ~9,199 |
+| Are You Alright? | 47.00% | ~8,647 |
+| Love Actually | 41.00% | ~7,543 |
 | Drama King | 36.00% | ~6,623 |
 | Go Clean up In Your Own Way | 33.00% | ~6,071 |
 | You're Really Something Else | 32.00% | ~5,887 |
@@ -25,16 +25,16 @@ Rating: 4.69 (Ranked 237)
 | ONE PUNCH | 28.00% | ~5,151 |
 | Days Of Innocence | 26.00% | ~4,783 |
 | David | 26.00% | ~4,783 |
-| Go Get Some Fries On The Pier | 25.00% | ~4,599 |
-| All I Have Is Money | 21.00% | ~3,863 |
-| Lover In Dark Alley | 21.00% | ~3,863 |
-| A Slap In The Face! | 21.00% | ~3,863 |
-| That's So You | 21.00% | ~3,863 |
-| SALUTE | 21.00% | ~3,863 |
-| Let Me Be Your Toy Boy | 20.00% | ~3,679 |
-| Off We Sail Tonight | 15.00% | ~2,759 |
-| Love You Three Thousand | 13.00% | ~2,391 |
-| Can You Do This Or Not? | 13.00% | ~2,391 |
+| Go Get Some Fries On The Pier | 25.00% | ~4,600 |
+| All I Have Is Money | 21.00% | ~3,864 |
+| Lover In Dark Alley | 21.00% | ~3,864 |
+| A Slap In The Face! | 21.00% | ~3,864 |
+| That's So You | 21.00% | ~3,864 |
+| SALUTE | 21.00% | ~3,864 |
+| Let Me Be Your Toy Boy | 20.00% | ~3,680 |
+| Off We Sail Tonight | 15.00% | ~2,760 |
+| Love You Three Thousand | 13.00% | ~2,392 |
+| Can You Do This Or Not? | 13.00% | ~2,392 |
 | Doesn't Matter I'll Handle It | 12.00% | ~2,208 |
 | The Flash | 11.00% | ~2,024 |
 | New Yoga Pose Unlocked | 10.00% | ~1,840 |
@@ -48,8 +48,8 @@ Rating: 4.69 (Ranked 237)
 | Tall; Grande; Venti | 2.00% | ~368 |
 | Limerence | 2.00% | ~368 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,396 (Ranked 161)  
-Completed: 316 (1.72%) (Ranked 144)  
+Progressed: 18,398 (Ranked 161)  
+Completed: 316 (1.72%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -145,6 +145,7 @@ Completed: 316 (1.72%) (Ranked 144)
 | 2024-01-09 | 18,177 | 311 |
 | 2024-01-10 | 18,309 | 316 |
 | 2024-01-11 | 18,396 | 316 |
+| 2024-01-12 | 18,398 | 316 |
 ## Awards
 Max (Impact the Story): 36  (Ranked 499)  
 Sum: 36 (Ranked 531)  

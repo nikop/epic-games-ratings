@@ -3,9 +3,9 @@
   "Name": "Five Dates",
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 247,
-  "Ranking_EOS_Completed": 217,
+  "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2237,
+  "EOS_Progressed": 2238,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -4215,6 +4215,11 @@
       "Time": "2024-01-11T23:09:38.4182625+00:00",
       "NumProgressed": 2237,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-12T00:09:43.1417532+00:00",
+      "NumProgressed": 2238,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -4226,7 +4231,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 2192
+      "UsersEstimate": 2193
     },
     {
       "ID": "booty_call",
@@ -4274,7 +4279,7 @@
       "Name": "Interrogation",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "light_sleepers",
@@ -4306,7 +4311,7 @@
       "Name": "Only Thyme Will Tell",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "planting_the_seed",
@@ -4330,7 +4335,7 @@
       "Name": "Sore Loser",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "we_go_again",
@@ -4338,14 +4343,14 @@
       "Name": "We Go Again",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 2237,
+      "Progressed": 2238,
       "Completed": 12
     }
   ],
@@ -4353,8 +4358,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-11T23:09:38.4182623+00:00",
+  "LastChanged_Achievements": "2024-01-12T00:09:43.141753+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:20.6091046+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:57:07.5005908+00:00",
-  "LastUpdate_Achievements": "2024-01-11T23:09:38.4183373+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:57:05.1537613+00:00",
+  "LastUpdate_Achievements": "2024-01-12T00:09:43.1417891+00:00"
 }

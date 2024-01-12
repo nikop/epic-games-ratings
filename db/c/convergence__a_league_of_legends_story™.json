@@ -6,9 +6,9 @@
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 281,
-  "Ranking_EOS_Completed": 206,
+  "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1306,
+  "EOS_Progressed": 1307,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -3938,6 +3938,11 @@
       "Time": "2024-01-11T22:11:00.1398683+00:00",
       "NumProgressed": 1306,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-12T00:09:56.8287782+00:00",
+      "NumProgressed": 1307,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -3957,7 +3962,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -3979,9 +3984,9 @@
       "ID": "ChronobreakMultiKill1",
       "SetID": "a9e499d",
       "Name": "Right On Time",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 288
     },
     {
       "ID": "ClockworkCompletion1",
@@ -3989,15 +3994,15 @@
       "Name": "Corin Goes Home",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 274
     },
     {
       "ID": "ClovemaryGift",
@@ -4013,7 +4018,7 @@
       "Name": "Sartorialist",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "CosmeticProgress1",
@@ -4037,7 +4042,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -4077,7 +4082,7 @@
       "Name": "The Betrayer",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -4213,7 +4218,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -4221,7 +4226,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "PidgeDefeated",
@@ -4261,7 +4266,7 @@
       "Name": "Golem Chaser",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "SkillCompletion1",
@@ -4277,7 +4282,7 @@
       "Name": "Fast Learner",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "SpeedRun",
@@ -4372,7 +4377,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1306,
+      "Progressed": 1307,
       "Completed": 8
     }
   ],
@@ -4380,8 +4385,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-11T23:09:52.3590965+00:00",
+  "LastChanged_Achievements": "2024-01-12T00:09:56.828778+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-11T22:57:01.2530086+00:00",
-  "LastUpdate_Achievements": "2024-01-11T23:09:52.3591484+00:00"
+  "LastUpdate_Ratings": "2024-01-11T23:56:57.8354687+00:00",
+  "LastUpdate_Achievements": "2024-01-12T00:09:56.8288383+00:00"
 }
