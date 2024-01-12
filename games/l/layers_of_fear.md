@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 86.00% | ~276 |
+| Something important | 86.00% | ~277 |
 | A piece of the story | 65.00% | ~209 |
-| It's covered up for a reason | 59.00% | ~189 |
-| Wanderer | 54.00% | ~173 |
+| It's covered up for a reason | 59.00% | ~190 |
+| Wanderer | 54.00% | ~174 |
 | Scraps of love | 52.00% | ~167 |
-| The artist’s impression | 50.00% | ~160 |
+| The artist’s impression | 49.00% | ~158 |
 | Do what you have to | 43.00% | ~138 |
 | Sign of weakness | 41.00% | ~132 |
 | Refuse to look | 36.00% | ~116 |
-| Face your fears | 30.00% | ~96 |
+| Face your fears | 30.00% | ~97 |
 | Finished it | 25.00% | ~80 |
-| Whispers long forgotten | 17.00% | ~55 |
+| Whispers long forgotten | 16.00% | ~52 |
 | Sound Bite | 13.00% | ~42 |
 | A Slice of Life | 12.00% | ~39 |
 | Debut | 12.00% | ~39 |
-| Lights! Camera! Action! | 12.00% | ~39 |
 | The art of movement | 12.00% | ~39 |
 | Another perspective | 11.00% | ~35 |
+| Lights! Camera! Action! | 11.00% | ~35 |
 | Tough conversation | 10.00% | ~32 |
 | First steps | 9.00% | ~29 |
 | Playtime | 9.00% | ~29 |
 | The tragedy unfolds | 9.00% | ~29 |
 | A new way | 8.00% | ~26 |
 | Breaking free | 8.00% | ~26 |
-| Heavy Burden | 7.00% | ~22 |
-| True Reflection | 7.00% | ~22 |
+| Heavy Burden | 7.00% | ~23 |
+| True Reflection | 7.00% | ~23 |
 | Casting Finished | 6.00% | ~19 |
 | Instinct of self-preservation | 6.00% | ~19 |
 | Fisherman | 6.00% | ~19 |
@@ -57,7 +57,7 @@
 | Inheritance | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 321 (Ranked 394)  
+Progressed: 322 (Ranked 393)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,3 +138,4 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 305 | 0 |
 | 2024-01-10 | 312 | 0 |
 | 2024-01-11 | 321 | 0 |
+| 2024-01-12 | 322 | 0 |

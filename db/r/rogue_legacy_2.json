@@ -4,11 +4,11 @@
   "ProductSlug": "rogue-legacy-2",
   "Ranking_Rating": 40,
   "Ranking_Popularity": 290,
-  "Ranking_PopularitySum": 229,
+  "Ranking_PopularitySum": 243,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1522,10 +1522,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 1723,
       "NumberOfAwardsMax": 227
+    },
+    {
+      "Time": "2024-01-12T06:59:21.7856757+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 1564,
+      "NumberOfAwardsMax": 227
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1723,
+  "NumberOfAwards": 1564,
   "NumberOfAwardsMax": 227,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1592,7 +1598,7 @@
   ],
   "EOS_Progressed": 28234,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 533,
+  "EOS_NewPlayers": 527,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -14209,9 +14215,9 @@
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
-  "LastChanged": "2024-01-09T06:57:19.694078+00:00",
-  "LastChanged_Achievements": "2024-01-12T06:10:57.7594869+00:00",
+  "LastChanged": "2024-01-12T06:59:21.7856755+00:00",
+  "LastChanged_Achievements": "2024-01-12T07:10:41.8527623+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:16.4635805+00:00",
-  "LastUpdate_Ratings": "2024-01-12T05:59:14.7140494+00:00",
-  "LastUpdate_Achievements": "2024-01-12T06:10:57.759579+00:00"
+  "LastUpdate_Ratings": "2024-01-12T06:59:21.785676+00:00",
+  "LastUpdate_Achievements": "2024-01-12T07:10:41.8529437+00:00"
 }

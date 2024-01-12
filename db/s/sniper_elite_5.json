@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -667,9 +667,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4268,
+  "EOS_Progressed": 4269,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9637,6 +9637,11 @@
       "Time": "2024-01-11T19:09:39.8515606+00:00",
       "NumProgressed": 4268,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-12T07:10:15.0447122+00:00",
+      "NumProgressed": 4269,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9656,7 +9661,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -9712,7 +9717,7 @@
       "Name": "Organ Grinder",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -9888,7 +9893,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -10016,7 +10021,7 @@
       "Name": "Taking it back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1281
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -10215,13 +10220,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4219,
+      "Progressed": 4220,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4268,
+      "Progressed": 4269,
       "Completed": 11
     }
   ],
@@ -10229,8 +10234,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-09T13:14:28.403425+00:00",
-  "LastChanged_Achievements": "2024-01-12T06:10:32.5660366+00:00",
+  "LastChanged_Achievements": "2024-01-12T07:10:15.0447118+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:59.0213472+00:00",
-  "LastUpdate_Ratings": "2024-01-12T06:00:12.5895213+00:00",
-  "LastUpdate_Achievements": "2024-01-12T06:10:32.5661479+00:00"
+  "LastUpdate_Ratings": "2024-01-12T07:00:24.9640407+00:00",
+  "LastUpdate_Achievements": "2024-01-12T07:10:15.0448117+00:00"
 }

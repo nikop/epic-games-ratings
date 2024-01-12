@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 88.00% | ~69 |
+| First success | 87.00% | ~69 |
 | Suicide squad | 47.00% | ~37 |
 | Train hard, fight easy | 29.00% | ~23 |
 | Under cover | 29.00% | ~23 |
 | First blood | 29.00% | ~23 |
 | Royal blessing | 24.00% | ~19 |
-| Blood and sand | 21.00% | ~16 |
+| Blood and sand | 20.00% | ~16 |
 | All for one! | 19.00% | ~15 |
 | A hidden snake | 19.00% | ~15 |
-| Help of the Gell | 17.00% | ~13 |
+| Help of the Gell | 16.00% | ~13 |
 | Surpass the teacher | 15.00% | ~12 |
 | She-Wolf | 15.00% | ~12 |
 | Crimson rivers | 14.00% | ~11 |
@@ -21,7 +21,7 @@
 | Rage | 14.00% | ~11 |
 | Vene, vidi, vici | 13.00% | ~10 |
 | Trial by cold | 13.00% | ~10 |
-| Berkanan Borgia | 12.00% | ~9 |
+| Berkanan Borgia | 11.00% | ~9 |
 | For the greater good | 9.00% | ~7 |
 | Overplay the rogue | 8.00% | ~6 |
 | The champion of the arena | 8.00% | ~6 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78 (Ranked 520)  
+Progressed: 79 (Ranked 520)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,6 +99,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 75 | 0 |
 | 2024-01-10 | 77 | 0 |
 | 2024-01-11 | 78 | 0 |
+| 2024-01-12 | 79 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

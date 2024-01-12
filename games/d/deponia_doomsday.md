@@ -5,23 +5,23 @@ Rating: 4.55 (Ranked 530)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 85.00% | ~448 |
+| Huzza, he's back. | 84.00% | ~444 |
 | And again, and again, and... | 62.00% | ~327 |
-| Kuvaq Minigame-Master | 60.00% | ~316 |
-| Burn, Elysium, burn! | 60.00% | ~316 |
-| FunScore | 54.00% | ~285 |
+| Kuvaq Minigame-Master | 60.00% | ~317 |
+| Burn, Elysium, burn! | 60.00% | ~317 |
+| FunScore | 53.00% | ~280 |
 | Funtime's over | 51.00% | ~269 |
 | Chunky | 48.00% | ~253 |
 | Boat of love, boat of love | 47.00% | ~248 |
-| Shall we play a game? | 46.00% | ~242 |
-| School's out | 43.00% | ~227 |
+| Shall we play a game? | 46.00% | ~243 |
+| School's out | 42.00% | ~222 |
 | Sole Music | 36.00% | ~190 |
 | Scaffolding Expert | 36.00% | ~190 |
 | Elysian Minigame-Master | 36.00% | ~190 |
 | Portals come in packs | 29.00% | ~153 |
 | No man left behind! | 28.00% | ~148 |
 | Photo Friend | 25.00% | ~132 |
-| Brainfreeze | 20.00% | ~105 |
+| Brainfreeze | 20.00% | ~106 |
 | Masseltov | 19.00% | ~100 |
 | And everything comes full circle. | 19.00% | ~100 |
 | Quickdraw | 15.00% | ~79 |
@@ -31,7 +31,7 @@ Rating: 4.55 (Ranked 530)
 | Blast from the Past | 12.00% | ~63 |
 | Play it again, Ronny | 11.00% | ~58 |
 | Paradox! | 10.00% | ~53 |
-| Goat Team | 9.00% | ~47 |
+| Goat Team | 9.00% | ~48 |
 | Weapons 101 | 8.00% | ~42 |
 | Sadist | 7.00% | ~37 |
 | The customer is always right | 6.00% | ~32 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 530)
 | Every man for himself! | 5.00% | ~26 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 527 (Ranked 350)  
+Progressed: 528 (Ranked 350)  
 Completed: 7 (1.33%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,6 +154,7 @@ Completed: 7 (1.33%) (Ranked 157)
 | 2024-01-08 | 524 | 7 |
 | 2024-01-09 | 525 | 7 |
 | 2024-01-11 | 527 | 7 |
+| 2024-01-12 | 528 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

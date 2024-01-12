@@ -2,10 +2,10 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 394,
+  "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 321,
+  "EOS_Progressed": 322,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1429,6 +1429,11 @@
       "Time": "2024-01-11T23:08:32.3530591+00:00",
       "NumProgressed": 321,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T07:09:13.5600777+00:00",
+      "NumProgressed": 322,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1521,7 +1526,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "decrypt_one_myth",
@@ -1569,7 +1574,7 @@
       "Name": "Face your fears",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -1615,9 +1620,9 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 158
     },
     {
       "ID": "finished_it",
@@ -1657,7 +1662,7 @@
       "Name": "Heavy Burden",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "in_one_take",
@@ -1687,9 +1692,9 @@
       "ID": "lights_camera_action",
       "SetID": "f2im8d",
       "Name": "Lights! Camera! Action!",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 35
     },
     {
       "ID": "once_upon_a_time",
@@ -1777,7 +1782,7 @@
       "Name": "Something important",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "spy_one_item",
@@ -1825,7 +1830,7 @@
       "Name": "True Reflection",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "view_most_of_photos",
@@ -1841,29 +1846,29 @@
       "Name": "Wanderer",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "whispers_long_forgotten",
       "SetID": "f2im8d",
       "Name": "Whispers long forgotten",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 52
     }
   ],
   "AchievementSets": [
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 321,
+      "Progressed": 322,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-12T06:09:35.5943964+00:00",
+  "LastChanged_Achievements": "2024-01-12T07:09:13.5600771+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:37.800715+00:00",
-  "LastUpdate_Ratings": "2024-01-12T06:00:05.0178364+00:00",
-  "LastUpdate_Achievements": "2024-01-12T06:09:35.5944393+00:00"
+  "LastUpdate_Ratings": "2024-01-12T07:00:16.5916099+00:00",
+  "LastUpdate_Achievements": "2024-01-12T07:09:13.5601241+00:00"
 }

@@ -1682,9 +1682,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 138826,
+  "EOS_Progressed": 138828,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 1365,
+  "EOS_NewPlayers": 1362,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28247,6 +28247,11 @@
       "Time": "2024-01-12T06:09:23.1868126+00:00",
       "NumProgressed": 138826,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-12T07:09:00.1195028+00:00",
+      "NumProgressed": 138828,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -28338,7 +28343,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 38871
+      "UsersEstimate": 38872
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -28370,7 +28375,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 27765
+      "UsersEstimate": 27766
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -28386,7 +28391,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 18047
+      "UsersEstimate": 18048
     },
     {
       "ID": "ACH_COP_STAR",
@@ -28418,7 +28423,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 12494
+      "UsersEstimate": 12495
     },
     {
       "ID": "ACH_GLUTEN",
@@ -28577,15 +28582,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 138826,
+      "Progressed": 138828,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-11T06:00:50.9656635+00:00",
-  "LastChanged_Achievements": "2024-01-12T06:09:23.1868124+00:00",
+  "LastChanged_Achievements": "2024-01-12T07:09:00.1195023+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.1301003+00:00",
-  "LastUpdate_Ratings": "2024-01-12T06:01:15.003622+00:00",
-  "LastUpdate_Achievements": "2024-01-12T06:09:23.1870037+00:00"
+  "LastUpdate_Ratings": "2024-01-12T07:01:33.6517505+00:00",
+  "LastUpdate_Achievements": "2024-01-12T07:09:00.1196565+00:00"
 }

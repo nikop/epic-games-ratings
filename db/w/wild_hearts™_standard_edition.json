@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1336,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -4548,9 +4548,9 @@
       "ID": "achievement_32",
       "SetID": "2cpn27e",
       "Name": "Style Seeker",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 200
     },
     {
       "ID": "achievement_33",
@@ -4708,9 +4708,9 @@
       "ID": "achievement_7",
       "SetID": "2cpn27e",
       "Name": "Budding Conjuror",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 788
+      "UsersEstimate": 802
     },
     {
       "ID": "achievement_8",
@@ -4738,8 +4738,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-12T06:10:26.989358+00:00",
+  "LastChanged_Achievements": "2024-01-12T07:10:08.3693059+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:30.0899668+00:00",
-  "LastUpdate_Ratings": "2024-01-12T05:58:15.950105+00:00",
-  "LastUpdate_Achievements": "2024-01-12T06:10:26.9894172+00:00"
+  "LastUpdate_Ratings": "2024-01-12T06:58:17.76585+00:00",
+  "LastUpdate_Achievements": "2024-01-12T07:10:08.3693684+00:00"
 }

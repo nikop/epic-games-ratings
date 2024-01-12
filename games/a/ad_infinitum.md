@@ -23,7 +23,7 @@
 | Jigsaw | 10.00% | ~20 |
 | Peace | 10.00% | ~20 |
 | Lost | 8.00% | ~16 |
-| An act of courage | 6.00% | ~12 |
+| An act of courage | 7.00% | ~14 |
 | All knowing | 6.00% | ~12 |
 | Corruption | 5.00% | ~10 |
 | An act of compassion | 3.00% | ~6 |

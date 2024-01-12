@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -103,9 +103,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1636,
+  "EOS_Progressed": 1637,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4278,6 +4278,11 @@
       "Time": "2024-01-12T06:10:33.4605562+00:00",
       "NumProgressed": 1636,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T07:10:15.9666337+00:00",
+      "NumProgressed": 1637,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4290,7 +4295,7 @@
       "Name": "The Teleprobe",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "AchvAllMemories",
@@ -4354,7 +4359,7 @@
       "Name": "The Alliance",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "AchvDoom",
@@ -4440,9 +4445,9 @@
       "ID": "AchvPing",
       "SetID": "1hj060c",
       "Name": "Got lost again",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 82
     },
     {
       "ID": "AchvPutAsleep",
@@ -4458,7 +4463,7 @@
       "Name": "The field base",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "AchvReachCamp",
@@ -4466,7 +4471,7 @@
       "Name": "The Camp",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "AchvReachCity",
@@ -4490,7 +4495,7 @@
       "Name": "Survivors",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -4506,7 +4511,7 @@
       "Name": "The End",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "AchvUnity",
@@ -4514,14 +4519,14 @@
       "Name": "Beyond divisions",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1636,
+      "Progressed": 1637,
       "Completed": 1
     }
   ],
@@ -4529,8 +4534,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-11T16:59:53.3701468+00:00",
-  "LastChanged_Achievements": "2024-01-12T06:10:33.4605559+00:00",
+  "LastChanged_Achievements": "2024-01-12T07:10:15.9666333+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-12T05:59:44.4097323+00:00",
-  "LastUpdate_Achievements": "2024-01-12T06:10:33.4606035+00:00"
+  "LastUpdate_Ratings": "2024-01-12T06:59:53.8248111+00:00",
+  "LastUpdate_Achievements": "2024-01-12T07:10:15.9666915+00:00"
 }

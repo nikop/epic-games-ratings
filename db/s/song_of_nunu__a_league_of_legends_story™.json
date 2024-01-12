@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -4419,9 +4419,9 @@
       "ID": "EV_ACH35",
       "SetID": "6jeac23",
       "Name": "The Fire Below the Mountain",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 920
+      "UsersEstimate": 936
     },
     {
       "ID": "EV_ACH36",
@@ -4508,8 +4508,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2024-01-09T13:16:23.2542222+00:00",
-  "LastChanged_Achievements": "2024-01-12T06:11:08.2675151+00:00",
+  "LastChanged_Achievements": "2024-01-12T07:10:53.0359468+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.6946611+00:00",
-  "LastUpdate_Ratings": "2024-01-12T05:58:00.1147932+00:00",
-  "LastUpdate_Achievements": "2024-01-12T06:11:08.2675719+00:00"
+  "LastUpdate_Ratings": "2024-01-12T06:58:00.6467772+00:00",
+  "LastUpdate_Achievements": "2024-01-12T07:10:53.0360021+00:00"
 }

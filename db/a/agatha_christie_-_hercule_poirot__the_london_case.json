@@ -4,8 +4,8 @@
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
   "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
     "PcReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109,
+  "EOS_Progressed": 110,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.75,
+  "EOS_Completed_Percentage": 2.73,
   "EosHistory": [
     {
       "Time": "2023-08-28T17:08:21.3912781+00:00",
@@ -564,6 +564,11 @@
       "Time": "2024-01-10T07:10:10.1837728+00:00",
       "NumProgressed": 109,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-12T07:10:34.4114007+00:00",
+      "NumProgressed": 110,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-28T09:06:47.8073027+00:00",
@@ -574,7 +579,7 @@
       "ID": "ACH_01",
       "SetID": "7b646ck",
       "Name": "The Ship",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 50,
       "UsersEstimate": 77
     },
@@ -600,13 +605,13 @@
       "Name": "Well-acquainted",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_013",
       "SetID": "7b646ck",
       "Name": "Seeking the truth",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
       "UsersEstimate": 63
     },
@@ -614,7 +619,7 @@
       "ID": "ACH_014",
       "SetID": "7b646ck",
       "Name": "Little grey cells",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
       "UsersEstimate": 54
     },
@@ -630,9 +635,9 @@
       "ID": "ACH_016",
       "SetID": "7b646ck",
       "Name": "Truth from within",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_017",
@@ -646,7 +651,7 @@
       "ID": "ACH_018",
       "SetID": "7b646ck",
       "Name": "Order and method",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
       "UsersEstimate": 41
     },
@@ -672,7 +677,7 @@
       "Name": "An old friend",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_021",
@@ -710,9 +715,9 @@
       "ID": "ACH_025",
       "SetID": "7b646ck",
       "Name": "A curious phrase",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_026",
@@ -734,7 +739,7 @@
       "ID": "ACH_028",
       "SetID": "7b646ck",
       "Name": "Impossible is possible",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
       "UsersEstimate": 53
     },
@@ -750,7 +755,7 @@
       "ID": "ACH_03",
       "SetID": "7b646ck",
       "Name": "The Missing Magdalene",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 25,
       "UsersEstimate": 52
     },
@@ -768,13 +773,13 @@
       "Name": "Anastasia Babanin",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_032",
       "SetID": "7b646ck",
       "Name": "Betty Allen",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
       "UsersEstimate": 41
     },
@@ -806,15 +811,15 @@
       "ID": "ACH_036",
       "SetID": "7b646ck",
       "Name": "Florence Farquhar",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_037",
       "SetID": "7b646ck",
       "Name": "Arthur Hastings",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
       "UsersEstimate": 53
     },
@@ -838,23 +843,23 @@
       "ID": "ACH_04",
       "SetID": "7b646ck",
       "Name": "The Investigation Begins",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_040",
       "SetID": "7b646ck",
       "Name": "Johan Kristiansen",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_041",
       "SetID": "7b646ck",
       "Name": "Marc Allard",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 15,
       "UsersEstimate": 84
     },
@@ -878,7 +883,7 @@
       "ID": "ACH_044",
       "SetID": "7b646ck",
       "Name": "Zakariya Demir",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 28
     },
@@ -910,9 +915,9 @@
       "ID": "ACH_06",
       "SetID": "7b646ck",
       "Name": "The Scheme",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_07",
@@ -934,23 +939,23 @@
       "ID": "ACH_09",
       "SetID": "7b646ck",
       "Name": "The Investigation Starts Anew",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "7b646ck",
       "IsBase": true,
-      "Progressed": 109,
+      "Progressed": 110,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2024-01-12T06:10:50.7011261+00:00",
+  "LastChanged_Achievements": "2024-01-12T07:10:34.4114001+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:23.6830852+00:00",
-  "LastUpdate_Ratings": "2024-01-12T05:59:57.2334403+00:00",
-  "LastUpdate_Achievements": "2024-01-12T06:10:50.7011958+00:00"
+  "LastUpdate_Ratings": "2024-01-12T07:00:08.4404013+00:00",
+  "LastUpdate_Achievements": "2024-01-12T07:10:34.4114596+00:00"
 }

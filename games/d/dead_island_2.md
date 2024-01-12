@@ -5,36 +5,37 @@ Rating: 4.54 (Ranked 553)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 10.00% | ~80,110 |
-| Hotel California | 9.00% | ~72,099 |
-| Break A Leg | 8.00% | ~64,088 |
-| Coup de Grâce | 7.00% | ~56,077 |
-| Hazardous Materials | 7.00% | ~56,077 |
-| Git Gutte! | 6.00% | ~48,066 |
-| Friends Like These | 6.00% | ~48,066 |
-| Apex Predator | 6.00% | ~48,066 |
-| Personal Assistant Personally Assisted | 6.00% | ~48,066 |
-| Dr. Reed, I Presume? | 5.00% | ~40,055 |
-| Bookworm | 5.00% | ~40,055 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,055 |
-| Stacking the Deck | 5.00% | ~40,055 |
-| This is My Weapon | 5.00% | ~40,055 |
-| Anger Management | 4.00% | ~32,044 |
-| Perks of the Job | 4.00% | ~32,044 |
-| But Doctor, I am Butcho | 4.00% | ~32,044 |
-| Slayer Squad | 4.00% | ~32,044 |
-| Can't Handle the Truth | 4.00% | ~32,044 |
-| Like Riding a Bike | 4.00% | ~32,044 |
-| Zombologist | 4.00% | ~32,044 |
-| A Patton Emerges | 4.00% | ~32,044 |
-| Our True Nature | 4.00% | ~32,044 |
+| Welcome To Hell-A | 10.00% | ~80,112 |
+| Hotel California | 9.00% | ~72,100 |
+| Break A Leg | 8.00% | ~64,089 |
+| Coup de Grâce | 7.00% | ~56,078 |
+| Hazardous Materials | 7.00% | ~56,078 |
+| Git Gutte! | 6.00% | ~48,067 |
+| Friends Like These | 6.00% | ~48,067 |
+| Apex Predator | 6.00% | ~48,067 |
+| Personal Assistant Personally Assisted | 6.00% | ~48,067 |
+| Dr. Reed, I Presume? | 5.00% | ~40,056 |
+| Bookworm | 5.00% | ~40,056 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,056 |
+| Stacking the Deck | 5.00% | ~40,056 |
+| This is My Weapon | 5.00% | ~40,056 |
+| Anger Management | 4.00% | ~32,045 |
+| Perks of the Job | 4.00% | ~32,045 |
+| But Doctor, I am Butcho | 4.00% | ~32,045 |
+| Slayer Squad | 4.00% | ~32,045 |
+| Can't Handle the Truth | 4.00% | ~32,045 |
+| Like Riding a Bike | 4.00% | ~32,045 |
+| Zombologist | 4.00% | ~32,045 |
+| A Patton Emerges | 4.00% | ~32,045 |
+| Our True Nature | 4.00% | ~32,045 |
 | Whatever It Takes | 4.00% | ~5,066 |
 | Pork Chopped | 4.00% | ~5,066 |
 | Making Your Mark | 3.00% | ~24,033 |
 | Ooh, Shiny! | 3.00% | ~24,033 |
 | Humanity Distilled | 3.00% | ~24,033 |
 | I Am the Resurrection | 3.00% | ~24,033 |
-| One of Us | 3.00% | ~3,799 |
+| One of Us | 3.00% | ~3,800 |
+| Smorgasbord | 2.00% | ~16,022 |
 | Not Even My Final Form | 2.00% | ~16,022 |
 | Internet Famous | 2.00% | ~16,022 |
 | Jumbo Keyring | 2.00% | ~16,022 |
@@ -45,7 +46,6 @@ Rating: 4.54 (Ranked 553)
 | Make it So | 1.00% | ~8,011 |
 | LA Influential | 1.00% | ~8,011 |
 | On Safari | 1.00% | ~8,011 |
-| Smorgasbord | 1.00% | ~8,011 |
 | Gore Horse | 1.00% | ~8,011 |
 | Variety is the Spice of Death | 1.00% | ~8,011 |
 | Sole Survivor | 0.80% | ~6,409 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 553)
 | Bucket List | 0.10% | ~801 |
 | Wilhelm | 0.10% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 801,100 (Ranked 21)  
+Progressed: 801,116 (Ranked 21)  
 Completed: 2,571 (0.32%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 2,571 (0.32%) (Ranked 255)
 | 2024-01-09 | 798,256 | 2,564 |
 | 2024-01-10 | 799,920 | 2,566 |
 | 2024-01-11 | 800,916 | 2,571 |
-| 2024-01-12 | 801,100 | 2,571 |
+| 2024-01-12 | 801,116 | 2,571 |
 ## Awards
 Max (Great Boss Battles): 10,140  (Ranked 41)  
 Sum: 15,521 (Ranked 71)  

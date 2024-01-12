@@ -2,13 +2,13 @@
   "ID": "5c82c05d2978489090d30c05e17e6e12",
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
-  "Ranking_Rating": 984,
+  "Ranking_Rating": 983,
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74638,
+  "EOS_Progressed": 74644,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 1464,
+  "EOS_NewPlayers": 1462,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -7004,6 +7004,11 @@
       "Time": "2024-01-12T06:09:16.9721927+00:00",
       "NumProgressed": 74638,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2024-01-12T07:08:53.5159783+00:00",
+      "NumProgressed": 74644,
+      "NumCompleted": 120
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -7016,7 +7021,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27616
+      "UsersEstimate": 27618
     },
     {
       "ID": "Achievement_10",
@@ -7088,7 +7093,7 @@
       "Name": "Champions of Umbra",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "Achievement_19",
@@ -7104,7 +7109,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20899
+      "UsersEstimate": 20900
     },
     {
       "ID": "Achievement_20",
@@ -7184,7 +7189,7 @@
       "Name": "Gold Finger",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "Achievement_3",
@@ -7240,7 +7245,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6717
+      "UsersEstimate": 6718
     },
     {
       "ID": "Achievement_5",
@@ -7287,7 +7292,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 74638,
+      "Progressed": 74644,
       "Completed": 120
     }
   ],
@@ -7295,8 +7300,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-09T18:03:16.5676566+00:00",
-  "LastChanged_Achievements": "2024-01-12T06:09:16.9721923+00:00",
+  "LastChanged_Achievements": "2024-01-12T07:08:53.5159777+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:28.0983464+00:00",
-  "LastUpdate_Ratings": "2024-01-12T06:03:35.4575756+00:00",
-  "LastUpdate_Achievements": "2024-01-12T06:09:16.9722536+00:00"
+  "LastUpdate_Ratings": "2024-01-12T07:03:30.1844663+00:00",
+  "LastUpdate_Achievements": "2024-01-12T07:08:53.5160381+00:00"
 }

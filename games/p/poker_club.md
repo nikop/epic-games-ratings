@@ -5,24 +5,24 @@ Rating: 3.84 (Ranked 1,082)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~418,657 |
-| Handy | 42.00% | ~231,363 |
-| Cold Caller | 40.00% | ~220,346 |
-| A Bit On The Side | 27.00% | ~148,734 |
-| Backdoor | 26.00% | ~143,225 |
-| Rank Amateur | 22.00% | ~121,190 |
-| Three Way | 19.00% | ~104,664 |
-| Deadly Assassin | 16.00% | ~88,138 |
-| Gutshot | 14.00% | ~77,121 |
-| Risk It For A Biscuit | 14.00% | ~77,121 |
-| Showoff | 13.00% | ~71,612 |
+| Pro Creation | 76.00% | ~418,661 |
+| Handy | 42.00% | ~231,365 |
+| Cold Caller | 40.00% | ~220,348 |
+| A Bit On The Side | 27.00% | ~148,735 |
+| Backdoor | 26.00% | ~143,226 |
+| Rank Amateur | 22.00% | ~121,191 |
+| Three Way | 19.00% | ~104,665 |
+| Deadly Assassin | 16.00% | ~88,139 |
+| Gutshot | 14.00% | ~77,122 |
+| Risk It For A Biscuit | 14.00% | ~77,122 |
+| Showoff | 13.00% | ~71,613 |
 | W.H.I.P. | 12.00% | ~66,104 |
-| Bet Bet Bet | 10.00% | ~55,086 |
+| Bet Bet Bet | 10.00% | ~55,087 |
 | Blindman's Bluff | 9.00% | ~49,578 |
 | Poker Joker | 9.00% | ~49,578 |
-| Never Give Up | 8.00% | ~44,069 |
-| The Bigger They Are | 8.00% | ~44,069 |
-| Total Knock Out | 8.00% | ~44,069 |
+| Never Give Up | 8.00% | ~44,070 |
+| The Bigger They Are | 8.00% | ~44,070 |
+| Total Knock Out | 8.00% | ~44,070 |
 | Dog Eat Dog | 7.00% | ~38,561 |
 | Quack Quack | 7.00% | ~38,561 |
 | Give Your Regards To Broadway | 6.00% | ~33,052 |
@@ -51,7 +51,7 @@ Rating: 3.84 (Ranked 1,082)
 | Rounder | 0.10% | ~551 |
 | Top Dog | 0.10% | ~551 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 550,865 (Ranked 35)  
+Progressed: 550,870 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 2 (0.00%) (Ranked 399)
 | 2024-01-09 | 550,384 | 2 |
 | 2024-01-10 | 550,625 | 2 |
 | 2024-01-11 | 550,814 | 2 |
-| 2024-01-12 | 550,865 | 2 |
+| 2024-01-12 | 550,870 | 2 |
 ## Awards
 Max (Great for Beginners): 67  (Ranked 422)  
 Sum: 210 (Ranked 412)  

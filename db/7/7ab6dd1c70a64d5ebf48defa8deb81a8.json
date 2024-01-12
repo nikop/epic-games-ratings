@@ -93,7 +93,7 @@
   "Tags": [],
   "EOS_Progressed": 2255,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -4452,9 +4452,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 451
+      "UsersEstimate": 474
     },
     {
       "ID": "ACH_16",
@@ -4540,9 +4540,9 @@
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 496
+      "UsersEstimate": 519
     },
     {
       "ID": "ACH_27",
@@ -4637,8 +4637,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-11T14:57:15.6904807+00:00",
-  "LastChanged_Achievements": "2024-01-12T06:11:03.8042794+00:00",
+  "LastChanged_Achievements": "2024-01-12T07:10:48.4403001+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-12T05:57:43.1943869+00:00",
-  "LastUpdate_Achievements": "2024-01-12T06:11:03.8043292+00:00"
+  "LastUpdate_Ratings": "2024-01-12T06:57:43.5136374+00:00",
+  "LastUpdate_Achievements": "2024-01-12T07:10:48.4403537+00:00"
 }

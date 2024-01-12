@@ -2413,7 +2413,7 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 19405,
+  "EOS_Progressed": 19406,
   "EOS_Completed": 77,
   "EOS_NewPlayers": 1025,
   "EOS_NewCompleters": 5,
@@ -20068,6 +20068,11 @@
       "Time": "2024-01-12T06:11:00.5076711+00:00",
       "NumProgressed": 19405,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-12T07:10:44.8401359+00:00",
+      "NumProgressed": 19406,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 35,
@@ -20079,7 +20084,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15718
+      "UsersEstimate": 15719
     },
     {
       "ID": "ACH02",
@@ -20135,7 +20140,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9702
+      "UsersEstimate": 9703
     },
     {
       "ID": "ACH09",
@@ -20159,7 +20164,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "ACH12",
@@ -20183,7 +20188,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "ACH15",
@@ -20255,7 +20260,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4851
+      "UsersEstimate": 4852
     },
     {
       "ID": "ACH24",
@@ -20358,7 +20363,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19405,
+      "Progressed": 19406,
       "Completed": 77
     }
   ],
@@ -20366,8 +20371,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-12T02:27:55.1730493+00:00",
-  "LastChanged_Achievements": "2024-01-12T06:11:00.5076708+00:00",
+  "LastChanged_Achievements": "2024-01-12T07:10:44.8401352+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-12T06:03:10.480997+00:00",
-  "LastUpdate_Achievements": "2024-01-12T06:11:00.5077855+00:00"
+  "LastUpdate_Ratings": "2024-01-12T07:02:31.8604051+00:00",
+  "LastUpdate_Achievements": "2024-01-12T07:10:44.8402379+00:00"
 }

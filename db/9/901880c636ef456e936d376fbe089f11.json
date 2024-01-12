@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -879,9 +879,9 @@
       "ID": "ACH_40075_KM",
       "SetID": "8h8m55b",
       "Name": "40,075Km",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_50_DRINK_CHALLENGEMODE",
@@ -1039,9 +1039,9 @@
       "ID": "ACH_GUEST_OF_HONOR",
       "SetID": "8h8m55b",
       "Name": "Guest of Honor",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_HARDBOILED_ADVICE",
@@ -1294,8 +1294,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-01-12T06:06:03.6409644+00:00",
+  "LastChanged_Achievements": "2024-01-12T07:06:08.7363637+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:58.8135864+00:00",
-  "LastUpdate_Ratings": "2024-01-12T06:01:22.3926469+00:00",
-  "LastUpdate_Achievements": "2024-01-12T06:06:03.6410074+00:00"
+  "LastUpdate_Ratings": "2024-01-12T07:01:41.4983616+00:00",
+  "LastUpdate_Achievements": "2024-01-12T07:06:08.7364059+00:00"
 }

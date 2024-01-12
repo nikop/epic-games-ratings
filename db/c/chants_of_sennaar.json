@@ -127,11 +127,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2701,
+  "EOS_Progressed": 2702,
   "EOS_Completed": 196,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 47,
-  "EOS_Completed_Percentage": 7.26,
+  "EOS_Completed_Percentage": 7.25,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -7107,6 +7107,11 @@
       "Time": "2024-01-12T04:04:28.7036843+00:00",
       "NumProgressed": 2701,
       "NumCompleted": 196
+    },
+    {
+      "Time": "2024-01-12T07:05:26.7230431+00:00",
+      "NumProgressed": 2702,
+      "NumCompleted": 196
     }
   ],
   "TotalAchievements": 25,
@@ -7118,15 +7123,15 @@
       "Name": "I did it",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 200,
-      "UsersEstimate": 702
+      "UsersEstimate": 676
     },
     {
       "ID": "META_ALL_LINK",
@@ -7134,7 +7139,7 @@
       "Name": "Peace walker",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -7142,7 +7147,7 @@
       "Name": "Cable guy",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "META_FIRST_LINK",
@@ -7150,7 +7155,7 @@
       "Name": "A good beginning",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "META_HALF_LINK",
@@ -7158,7 +7163,7 @@
       "Name": "Half the way",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "META_RESULT_1-2",
@@ -7222,7 +7227,7 @@
       "Name": "Rascal",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -7230,7 +7235,7 @@
       "Name": "True G3M4R",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -7238,7 +7243,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -7254,7 +7259,7 @@
       "Name": "Champollion",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -7270,7 +7275,7 @@
       "Name": "Scholar",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "PROGRESS_N1",
@@ -7286,7 +7291,7 @@
       "Name": "The great escape",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "PROGRESS_N3",
@@ -7294,7 +7299,7 @@
       "Name": "A new dawn",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "PROGRESS_N4",
@@ -7302,7 +7307,7 @@
       "Name": "The darkness",
       "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "PROGRESS_N5",
@@ -7310,14 +7315,14 @@
       "Name": "One last step",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2701,
+      "Progressed": 2702,
       "Completed": 196
     }
   ],
@@ -7325,8 +7330,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-12T06:05:24.1363175+00:00",
+  "LastChanged_Achievements": "2024-01-12T07:05:26.7230428+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-12T05:57:23.0879614+00:00",
-  "LastUpdate_Achievements": "2024-01-12T06:05:24.1363889+00:00"
+  "LastUpdate_Ratings": "2024-01-12T06:57:22.2826635+00:00",
+  "LastUpdate_Achievements": "2024-01-12T07:05:26.7230961+00:00"
 }

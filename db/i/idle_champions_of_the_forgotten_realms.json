@@ -9493,9 +9493,9 @@
       "Count": 3635
     }
   ],
-  "EOS_Progressed": 253476,
+  "EOS_Progressed": 253487,
   "EOS_Completed": 2614,
-  "EOS_NewPlayers": 2182,
+  "EOS_NewPlayers": 2166,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39738,6 +39738,11 @@
       "Time": "2024-01-12T06:11:16.3649355+00:00",
       "NumProgressed": 253476,
       "NumCompleted": 2614
+    },
+    {
+      "Time": "2024-01-12T07:11:01.5110616+00:00",
+      "NumProgressed": 253487,
+      "NumCompleted": 2614
     }
   ],
   "TotalAchievements": 546,
@@ -44053,7 +44058,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "objective_completed_1563",
@@ -44116,21 +44121,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219750,
+      "Progressed": 219761,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253476,
+      "Progressed": 253487,
       "Completed": 2614
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-11T23:58:59.1066648+00:00",
-  "LastChanged_Achievements": "2024-01-12T06:11:16.364935+00:00",
+  "LastChanged_Achievements": "2024-01-12T07:11:01.5110612+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-12T06:00:05.1928264+00:00",
-  "LastUpdate_Achievements": "2024-01-12T06:11:16.3676421+00:00"
+  "LastUpdate_Ratings": "2024-01-12T07:00:16.7884162+00:00",
+  "LastUpdate_Achievements": "2024-01-12T07:11:01.5135707+00:00"
 }

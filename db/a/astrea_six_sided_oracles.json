@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 376,
+  "EOS_Progressed": 377,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1574,6 +1574,11 @@
       "Time": "2024-01-12T00:08:40.4429396+00:00",
       "NumProgressed": 376,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T07:09:17.6242901+00:00",
+      "NumProgressed": 377,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -1930,7 +1935,7 @@
       "Name": "Mechanical Buddy",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "MeissasSavior",
@@ -2010,7 +2015,7 @@
       "Name": "Purification Pioneer",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ReflexiveMind",
@@ -2042,7 +2047,7 @@
       "Name": "Sanctuary Guardian",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "Sentinelphobic",
@@ -2218,7 +2223,7 @@
       "Name": "Wild\u0027s Keeper",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ApianChampion",
@@ -2226,7 +2231,7 @@
       "Name": "Apian Champion",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ApianHero",
@@ -2272,9 +2277,9 @@
       "ID": "BehenianChampion",
       "SetID": "1jeo1g7",
       "Name": "Behenian Champion",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 57
     },
     {
       "ID": "BehenianHero",
@@ -2369,14 +2374,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 376,
+      "Progressed": 377,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-12T06:09:39.3098029+00:00",
+  "LastChanged_Achievements": "2024-01-12T07:09:17.6242896+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:27.4116813+00:00",
-  "LastUpdate_Ratings": "2024-01-12T06:03:03.3245158+00:00",
-  "LastUpdate_Achievements": "2024-01-12T06:09:39.3099343+00:00"
+  "LastUpdate_Ratings": "2024-01-12T07:02:23.3442535+00:00",
+  "LastUpdate_Achievements": "2024-01-12T07:09:17.6243925+00:00"
 }

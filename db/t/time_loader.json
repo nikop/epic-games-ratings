@@ -4,8 +4,8 @@
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 483,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 509,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
     "PcReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 143,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 6.29,
   "EosHistory": [
@@ -534,8 +534,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2024-01-12T06:10:46.7455359+00:00",
+  "LastChanged_Achievements": "2024-01-12T07:10:30.2926254+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:36.5260124+00:00",
-  "LastUpdate_Ratings": "2024-01-12T05:59:26.8196862+00:00",
-  "LastUpdate_Achievements": "2024-01-12T06:10:46.745552+00:00"
+  "LastUpdate_Ratings": "2024-01-12T06:59:35.8611358+00:00",
+  "LastUpdate_Achievements": "2024-01-12T07:10:30.2926503+00:00"
 }

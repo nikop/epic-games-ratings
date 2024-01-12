@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 375,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 527,
+  "EOS_Progressed": 528,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.33,
   "EosHistory": [
@@ -930,6 +930,11 @@
       "Time": "2024-01-11T14:06:20.9296088+00:00",
       "NumProgressed": 527,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-12T07:08:15.6884685+00:00",
+      "NumProgressed": 528,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 36,
@@ -939,9 +944,9 @@
       "ID": "dep4_achievement_1",
       "SetID": "5d32b60",
       "Name": "Huzza, he\u0027s back.",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 444
     },
     {
       "ID": "dep4_achievement_10",
@@ -981,7 +986,7 @@
       "Name": "Shall we play a game?",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "dep4_achievement_15",
@@ -997,7 +1002,7 @@
       "Name": "Brainfreeze",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "dep4_achievement_17",
@@ -1019,9 +1024,9 @@
       "ID": "dep4_achievement_19",
       "SetID": "5d32b60",
       "Name": "FunScore",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 280
     },
     {
       "ID": "dep4_achievement_2",
@@ -1101,7 +1106,7 @@
       "Name": "Kuvaq Minigame-Master",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "dep4_achievement_29",
@@ -1117,7 +1122,7 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "dep4_achievement_30",
@@ -1133,7 +1138,7 @@
       "Name": "Goat Team",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "dep4_achievement_32",
@@ -1195,9 +1200,9 @@
       "ID": "dep4_achievement_6",
       "SetID": "5d32b60",
       "Name": "School\u0027s out",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 222
     },
     {
       "ID": "dep4_achievement_7",
@@ -1228,7 +1233,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 527,
+      "Progressed": 528,
       "Completed": 7
     }
   ],
@@ -1236,8 +1241,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2024-01-12T06:08:41.8089953+00:00",
+  "LastChanged_Achievements": "2024-01-12T07:08:15.6884681+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:52.8157844+00:00",
-  "LastUpdate_Ratings": "2024-01-12T06:03:40.3096307+00:00",
-  "LastUpdate_Achievements": "2024-01-12T06:08:41.8090226+00:00"
+  "LastUpdate_Ratings": "2024-01-12T07:03:35.3254465+00:00",
+  "LastUpdate_Achievements": "2024-01-12T07:08:15.6884958+00:00"
 }

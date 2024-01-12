@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 3.00% | ~494 |
-| Settler | 3.00% | ~494 |
-| Play a Single Player Game | 3.00% | ~494 |
+| Explorer | 3.00% | ~495 |
+| Settler | 3.00% | ~495 |
+| Play a Single Player Game | 3.00% | ~495 |
 | Able | 2.00% | ~330 |
 | Architect | 2.00% | ~330 |
 | Glorious | 2.00% | ~330 |
@@ -130,6 +130,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.30% | ~49 |
 | Old | 0.30% | ~49 |
 | Church of the Holy Sepulchre | 0.30% | ~49 |
+| Cao'an | 0.30% | ~49 |
 | Babylonia | 0.30% | ~49 |
 | Egypt | 0.30% | ~49 |
 | One True Faith | 0.30% | ~49 |
@@ -144,7 +145,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Riches and Influence | 0.20% | ~33 |
 | Noble Difficulty | 0.20% | ~33 |
 | The Eternal Treaty | 0.20% | ~33 |
-| Cao'an | 0.20% | ~33 |
 | Learn to Play 5 | 0.20% | ~33 |
 | Persia | 0.20% | ~33 |
 | Old World Order | 0.20% | ~33 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,482 (Ranked 170)  
+Progressed: 16,485 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -632,7 +632,7 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
-| 2024-01-12 | 16,482 | 5 |
+| 2024-01-12 | 16,485 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,921 (Ranked 224)  

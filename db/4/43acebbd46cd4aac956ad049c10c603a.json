@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 1371,
+  "EOS_Progressed": 1372,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3975,6 +3975,11 @@
       "Time": "2024-01-11T21:09:04.3600545+00:00",
       "NumProgressed": 1371,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-12T07:04:01.2602449+00:00",
+      "NumProgressed": 1372,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4051,7 +4056,7 @@
       "Name": "Chasing the Light",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "Chicken",
@@ -4091,7 +4096,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "EcstaticTruth",
@@ -4211,7 +4216,7 @@
       "Name": "Museum Visitor",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "NewBeginning",
@@ -4243,7 +4248,7 @@
       "Name": "Overload",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "Persistent",
@@ -4251,7 +4256,7 @@
       "Name": "Persistent",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "PrometheusUnbound",
@@ -4267,7 +4272,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "RemnantsOfThePast",
@@ -4299,7 +4304,7 @@
       "Name": "Signatory",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "SingleRod",
@@ -4443,7 +4448,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "YourBiggestFan",
@@ -4458,7 +4463,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1371,
+      "Progressed": 1372,
       "Completed": 2
     }
   ],
@@ -4466,8 +4471,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-11T20:01:30.2731124+00:00",
-  "LastChanged_Achievements": "2024-01-12T06:04:04.250764+00:00",
+  "LastChanged_Achievements": "2024-01-12T07:04:01.2602445+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-12T06:01:15.1798209+00:00",
-  "LastUpdate_Achievements": "2024-01-12T06:04:04.250841+00:00"
+  "LastUpdate_Ratings": "2024-01-12T07:01:33.8492512+00:00",
+  "LastUpdate_Achievements": "2024-01-12T07:04:01.260303+00:00"
 }

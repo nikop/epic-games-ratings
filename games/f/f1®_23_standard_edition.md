@@ -5,19 +5,19 @@ Rating: 4.63 (Ranked 357)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,212 |
-| On the Top Step | 82.00% | ~14,608 |
-| Setting up for Success | 69.00% | ~12,292 |
-| Team Orders | 67.00% | ~11,936 |
-| Engineer | 45.00% | ~8,017 |
-| Familiar Faces | 41.00% | ~7,304 |
-| Going the Extra Mile | 35.00% | ~6,235 |
+| Getting on the Step | 91.00% | ~16,213 |
+| On the Top Step | 82.00% | ~14,610 |
+| Setting up for Success | 69.00% | ~12,294 |
+| Team Orders | 67.00% | ~11,937 |
+| Engineer | 45.00% | ~8,018 |
+| Familiar Faces | 41.00% | ~7,305 |
+| Going the Extra Mile | 35.00% | ~6,236 |
 | Sharing the Love | 32.00% | ~5,701 |
 | Hitting a Season | 26.00% | ~4,632 |
 | A Dozen Pieces | 24.00% | ~4,276 |
 | Making History | 24.00% | ~4,276 |
-| Network Success | 23.00% | ~4,097 |
-| Challenge Yourself | 23.00% | ~4,097 |
+| Network Success | 23.00% | ~4,098 |
+| Challenge Yourself | 23.00% | ~4,098 |
 | Writing a new Chapter | 19.00% | ~3,385 |
 | Spring Cleaning | 18.00% | ~3,207 |
 | Reduce | 14.00% | ~2,494 |
@@ -29,11 +29,11 @@ Rating: 4.63 (Ranked 357)
 | Friendly Competition | 10.00% | ~1,782 |
 | Switcheroo | 10.00% | ~1,782 |
 | One for the Book | 10.00% | ~1,782 |
-| Eagle Eye | 9.00% | ~1,603 |
-| All in a Weekend's Work | 9.00% | ~1,603 |
-| Oil and Water | 9.00% | ~1,603 |
-| Hitting a Bullseye | 9.00% | ~1,603 |
-| Spinning Around | 9.00% | ~1,603 |
+| Eagle Eye | 9.00% | ~1,604 |
+| All in a Weekend's Work | 9.00% | ~1,604 |
+| Oil and Water | 9.00% | ~1,604 |
+| Hitting a Bullseye | 9.00% | ~1,604 |
+| Spinning Around | 9.00% | ~1,604 |
 | Lightning Round the World | 8.00% | ~1,425 |
 | Recycle | 7.00% | ~1,247 |
 | Undisputed Winner | 6.00% | ~1,069 |
@@ -42,7 +42,7 @@ Rating: 4.63 (Ranked 357)
 | Living up to Expectations | 4.00% | ~713 |
 | Smooth Operator | 4.00% | ~713 |
 | Peak Performance | 4.00% | ~713 |
-| Seasoned Rookie | 3.00% | ~534 |
+| Seasoned Rookie | 3.00% | ~535 |
 | Hitting a Century | 2.00% | ~356 |
 | Loyal Bond | 2.00% | ~356 |
 | Wait, I know you? | 2.00% | ~356 |
@@ -55,7 +55,7 @@ Rating: 4.63 (Ranked 357)
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,815 (Ranked 164)  
+Progressed: 17,817 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 17,260 | 0 |
 | 2024-01-10 | 17,601 | 0 |
 | 2024-01-11 | 17,785 | 0 |
-| 2024-01-12 | 17,815 | 0 |
+| 2024-01-12 | 17,817 | 0 |
 ## Awards
 Max (Diverse Characters): 64  (Ranked 425)  
 Sum: 421 (Ranked 350)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2250,9 +2250,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16482,
+  "EOS_Progressed": 16485,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19685,6 +19685,11 @@
       "Time": "2024-01-12T05:10:09.5697898+00:00",
       "NumProgressed": 16482,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-12T07:11:00.5482509+00:00",
+      "NumProgressed": 16485,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20128,7 +20133,7 @@
       "Name": "Explorer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -20320,7 +20325,7 @@
       "Name": "Settler",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -21086,9 +21091,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
       "SetID": "9201eeb",
       "Name": "Cao\u0027an",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM",
@@ -21448,7 +21453,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -22559,21 +22564,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16482,
+      "Progressed": 16485,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16482,
+      "Progressed": 16485,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-11T21:59:00.3473334+00:00",
-  "LastChanged_Achievements": "2024-01-12T06:11:15.4697705+00:00",
+  "LastChanged_Achievements": "2024-01-12T07:11:00.5482504+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-12T05:59:06.4650417+00:00",
-  "LastUpdate_Achievements": "2024-01-12T06:11:15.4709011+00:00"
+  "LastUpdate_Ratings": "2024-01-12T06:59:13.03675+00:00",
+  "LastUpdate_Achievements": "2024-01-12T07:11:00.5493147+00:00"
 }

@@ -8937,9 +8937,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 759689,
+  "EOS_Progressed": 759703,
   "EOS_Completed": 12983,
-  "EOS_NewPlayers": 5570,
+  "EOS_NewPlayers": 5561,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -33422,6 +33422,11 @@
       "Time": "2024-01-12T06:10:15.5239567+00:00",
       "NumProgressed": 759689,
       "NumCompleted": 12983
+    },
+    {
+      "Time": "2024-01-12T07:09:56.1497167+00:00",
+      "NumProgressed": 759703,
+      "NumCompleted": 12983
     }
   ],
   "TotalAchievements": 60,
@@ -33433,7 +33438,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45581
+      "UsersEstimate": 45582
     },
     {
       "ID": "02_Vengeance_H1",
@@ -33513,7 +33518,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3798
+      "UsersEstimate": 3799
     },
     {
       "ID": "12_MidAge",
@@ -33529,7 +33534,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3798
+      "UsersEstimate": 3799
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -33609,7 +33614,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 37984
+      "UsersEstimate": 37985
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -33649,7 +33654,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 3798
+      "UsersEstimate": 3799
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -33697,7 +33702,7 @@
       "Name": "Lightning Hands",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 37984
+      "UsersEstimate": 37985
     },
     {
       "ID": "35_WideStrike",
@@ -33912,21 +33917,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 68990,
+      "Progressed": 69004,
       "Completed": 10806
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 759689,
+      "Progressed": 759703,
       "Completed": 12983
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-12T04:03:11.982928+00:00",
-  "LastChanged_Achievements": "2024-01-12T06:10:15.523956+00:00",
+  "LastChanged_Achievements": "2024-01-12T07:09:56.1497163+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.3871095+00:00",
-  "LastUpdate_Ratings": "2024-01-12T06:03:34.0370744+00:00",
-  "LastUpdate_Achievements": "2024-01-12T06:10:15.5241238+00:00"
+  "LastUpdate_Ratings": "2024-01-12T07:03:28.6838006+00:00",
+  "LastUpdate_Achievements": "2024-01-12T07:09:56.1498655+00:00"
 }

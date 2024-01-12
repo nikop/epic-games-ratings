@@ -20,7 +20,7 @@
 | Song Harvester | 1.00% | ~7 |
 | Try Harder | 1.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 700 (Ranked 327)  
+Progressed: 701 (Ranked 327)  
 Completed: 3 (0.43%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 3 (0.43%) (Ranked 238)
 | 2024-01-09 | 682 | 3 |
 | 2024-01-10 | 691 | 3 |
 | 2024-01-11 | 699 | 3 |
-| 2024-01-12 | 700 | 3 |
+| 2024-01-12 | 701 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -709,9 +709,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473720,
+  "EOS_Progressed": 473721,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28269,6 +28269,11 @@
       "Time": "2024-01-12T06:11:11.1553203+00:00",
       "NumProgressed": 473720,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-12T07:10:56.2708215+00:00",
+      "NumProgressed": 473721,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -28304,7 +28309,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 104218
+      "UsersEstimate": 104219
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -28368,7 +28373,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312655
+      "UsersEstimate": 312656
     },
     {
       "ID": "achievement_story_landa",
@@ -28728,7 +28733,7 @@
       "Name": "Plan for the worst",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56846
+      "UsersEstimate": 56847
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -28792,7 +28797,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 104218
+      "UsersEstimate": 104219
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -28911,21 +28916,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17654,
+      "Progressed": 17655,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473720,
+      "Progressed": 473721,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-12T06:11:11.1553199+00:00",
+  "LastChanged_Achievements": "2024-01-12T07:10:56.270821+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:31.2733774+00:00",
-  "LastUpdate_Ratings": "2024-01-12T05:58:14.1320661+00:00",
-  "LastUpdate_Achievements": "2024-01-12T06:11:11.155525+00:00"
+  "LastUpdate_Ratings": "2024-01-12T06:58:15.7584938+00:00",
+  "LastUpdate_Achievements": "2024-01-12T07:10:56.2709979+00:00"
 }
