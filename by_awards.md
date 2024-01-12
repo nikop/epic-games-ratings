@@ -32,7 +32,7 @@
 | 30 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 14,044 | 4.85 | 40 |
 | 31 | [Maneater](games/m/maneater.md) | 13,928 | 4.49 | 638 |
 | 32 | [SnowRunner](games/s/snowrunner.md) | 13,848 | 4.75 | 148 |
-| 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 12,945 | 4.45 | 692 |
+| 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 12,955 | 4.45 | 692 |
 | 34 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,817 | 4.36 | 819 |
 | 35 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 12,187 | 4.58 | 470 |
 | 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,836 | 4.69 | 238 |
@@ -63,7 +63,7 @@
 | 61 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 740 |
 | 62 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,497 | 4.80 | 93 |
 | 63 | [Remnant 2](games/r/remnant_2.md) | 6,484 | 4.72 | 195 |
-| 64 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 6,378 | 4.82 | 69 |
+| 64 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 6,383 | 4.82 | 69 |
 | 65 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 6,292 | 3.99 | 1,054 |
 | 66 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,231 | 4.78 | 112 |
 | 67 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,078 | 4.66 | 302 |
@@ -95,7 +95,7 @@
 | 93 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,951 | 4.27 | 907 |
 | 94 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 3,947 | 4.35 | 829 |
 | 95 | [Gloomhaven](games/g/gloomhaven.md) | 3,617 | 4.47 | 665 |
-| 96 | [Hades](games/h/hades.md) | 3,531 | 4.92 | 4 |
+| 96 | [Hades](games/h/hades.md) | 3,535 | 4.92 | 4 |
 | 97 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,470 | 4.67 | 287 |
 | 98 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,451 | 4.76 | 131 |
 | 99 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,440 | 4.57 | 494 |
@@ -282,7 +282,7 @@
 | 280 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 263 | 4.45 | 692 |
 | 281 | [Crysis Remastered](games/c/crysis_remastered.md) | 260 | 4.42 | 740 |
 | 281 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 260 | 4.82 | 69 |
-| 283 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 246 | 4.45 | 692 |
+| 283 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 249 | 4.45 | 692 |
 | 284 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 235 | 4.57 | 494 |
 | 285 | [Stranded Deep](games/s/stranded_deep.md) | 234 | 4.23 | 945 |
 | 286 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 233 | 4.58 | 470 |
@@ -381,7 +381,7 @@
 | 379 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 101 | 4.82 | 69 |
 | 380 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 100 | 4.49 | 638 |
 | 380 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 100 | 4.56 | 510 |
-| 382 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 99 | 4.17 | 988 |
+| 382 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 99 | 4.17 | 989 |
 | 382 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 99 | 4.69 | 238 |
 | 384 | [Darksiders III](games/d/darksiders_iii.md) | 98 | 4.48 | 657 |
 | 384 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 98 | 4.28 | 897 |
@@ -427,7 +427,7 @@
 | 425 | [F1® 23](games/f/f1®_23_standard_edition.md) | 64 | 4.63 | 357 |
 | 425 | [Session: Skate Sim](games/s/session__skate_sim.md) | 64 | 4.68 | 264 |
 | 427 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 63 | 4.54 | 553 |
-| 427 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 63 | 4.17 | 988 |
+| 427 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 63 | 4.18 | 984 |
 | 427 | [Heavy Rain](games/h/heavy_rain.md) | 63 | 4.59 | 452 |
 | 427 | [In Sound Mind](games/i/in_sound_mind.md) | 63 | 4.61 | 400 |
 | 427 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 63 | 4.40 | 769 |
@@ -470,14 +470,14 @@
 | 463 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 48 | 4.78 | 112 |
 | 469 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 47 | 4.30 | 880 |
 | 469 | [Voidtrain](games/v/voidtrain.md) | 47 | 4.50 | 617 |
+| 471 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 46 | 4.74 | 168 |
 | 471 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 46 | 4.24 | 934 |
-| 472 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 45 | 4.58 | 470 |
-| 472 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 1,063 |
-| 472 | [Bugsnax](games/b/bugsnax.md) | 45 | 4.86 | 31 |
-| 472 | [Coromon](games/c/coromon.md) | 45 | 4.69 | 238 |
-| 472 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 45 | 4.49 | 638 |
-| 472 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 45 | 4.19 | 974 |
-| 472 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 45 | 4.74 | 168 |
+| 473 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 45 | 4.58 | 470 |
+| 473 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 1,063 |
+| 473 | [Bugsnax](games/b/bugsnax.md) | 45 | 4.86 | 31 |
+| 473 | [Coromon](games/c/coromon.md) | 45 | 4.69 | 238 |
+| 473 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 45 | 4.49 | 638 |
+| 473 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 45 | 4.19 | 974 |
 | 479 | [Isonzo](games/i/isonzo.md) | 43 | 4.58 | 470 |
 | 480 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 42 | 4.60 | 430 |
 | 481 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 41 | 4.63 | 357 |
