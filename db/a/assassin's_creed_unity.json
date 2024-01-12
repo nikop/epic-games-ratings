@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 258,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewPlayers": 578,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2014-11-11T16:00:00+00:00",
@@ -2518,10 +2518,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 1268,
       "NumberOfAwardsMax": 975
+    },
+    {
+      "Time": "2024-01-12T13:04:02.8331912+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1269,
+      "NumberOfAwardsMax": 975
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1268,
+  "NumberOfAwards": 1269,
   "NumberOfAwardsMax": 975,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2553,7 +2559,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2621,8 +2627,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:14.6538569+00:00",
-  "LastChanged": "2024-01-11T19:58:36.5589595+00:00",
+  "LastChanged": "2024-01-12T13:04:02.8331909+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:43.0248814+00:00",
-  "LastUpdate_Ratings": "2024-01-12T11:58:23.6884323+00:00",
-  "LastUpdate_Achievements": "2024-01-12T12:05:56.2658045+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:04:02.8331915+00:00",
+  "LastUpdate_Achievements": "2024-01-12T13:12:11.5278425+00:00"
 }

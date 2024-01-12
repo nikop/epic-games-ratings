@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 191,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -353,9 +353,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 963,
+  "EOS_Progressed": 964,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -2588,6 +2588,11 @@
       "Time": "2024-01-12T12:04:39.5919345+00:00",
       "NumProgressed": 963,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-12T13:10:46.2292404+00:00",
+      "NumProgressed": 964,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2808,7 +2813,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -2855,15 +2860,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 963,
+      "Progressed": 964,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-12T12:04:39.5919341+00:00",
+  "LastChanged_Achievements": "2024-01-12T13:10:46.2292399+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-12T11:58:37.4515774+00:00",
-  "LastUpdate_Achievements": "2024-01-12T12:04:39.5919696+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:04:17.9436053+00:00",
+  "LastUpdate_Achievements": "2024-01-12T13:10:46.2292685+00:00"
 }

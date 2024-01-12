@@ -27,9 +27,9 @@
 | Courier | 5.00% | ~15 |
 | Trouble at Fort Larius | 5.00% | ~15 |
 | Quartermaster | 4.00% | ~12 |
+| Potential Unlocked | 4.00% | ~12 |
 | Been There | 4.00% | ~12 |
 | Spiritual Journey | 4.00% | ~12 |
-| Potential Unlocked | 3.00% | ~9 |
 | Xevarian Gambit | 3.00% | ~9 |
 | The Voice of Hereafter | 3.00% | ~9 |
 | Despised | 3.00% | ~9 |

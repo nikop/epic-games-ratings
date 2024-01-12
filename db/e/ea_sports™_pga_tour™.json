@@ -2,9 +2,9 @@
   "ID": "19d5458aa3c849a1b0fff69da4c9ed9d",
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
-  "Ranking_EOS_Progress": 298,
+  "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,7 +20,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 970,
+  "EOS_Progressed": 971,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -3500,6 +3500,11 @@
       "Time": "2024-01-12T06:05:51.1237531+00:00",
       "NumProgressed": 970,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-12T13:11:05.4083783+00:00",
+      "NumProgressed": 971,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -3512,7 +3517,7 @@
       "Name": "The Ultimate Prize",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_10",
@@ -3520,7 +3525,7 @@
       "Name": "Holey Moley",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "achievement_11",
@@ -3568,7 +3573,7 @@
       "Name": "Star Power",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "achievement_17",
@@ -3576,7 +3581,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "achievement_18",
@@ -3632,15 +3637,15 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "achievement_8",
       "SetID": "7ldgi7j",
       "Name": "Winner\u0027s Circle",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 427
+      "UsersEstimate": 418
     },
     {
       "ID": "achievement_9",
@@ -3655,13 +3660,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 970,
+      "Progressed": 971,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-12T12:04:56.5550776+00:00",
+  "LastChanged_Achievements": "2024-01-12T13:11:05.4083782+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.2920939+00:00",
-  "LastUpdate_Ratings": "2024-01-12T11:58:35.9288784+00:00",
-  "LastUpdate_Achievements": "2024-01-12T12:04:56.5551028+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:04:16.0683847+00:00",
+  "LastUpdate_Achievements": "2024-01-12T13:11:05.4083975+00:00"
 }

@@ -31,20 +31,20 @@
 | Ophiolatreia | 3.00% | ~119 |
 | Halls of Marble | 3.00% | ~119 |
 | Serpentine | 3.00% | ~119 |
-| Wayward Son of Hephaestus | 2.00% | ~79 |
-| Lament of the Constellations | 2.00% | ~79 |
-| Forged in Fire | 2.00% | ~79 |
-| Rock and a Hard Place | 2.00% | ~79 |
-| The Midas Touch | 2.00% | ~79 |
-| Hapax Legomenon | 2.00% | ~79 |
-| Don't Pay the Ferryman | 2.00% | ~79 |
-| Veneration of Hephaestus | 2.00% | ~79 |
-| Vandili | 2.00% | ~79 |
-| No Scylla in Sight | 2.00% | ~79 |
-| Cloaca Maxima | 2.00% | ~79 |
-| Baby Crabs They Ain't | 2.00% | ~79 |
-| Mors Omnibus | 2.00% | ~79 |
-| Blot Out the Sky | 2.00% | ~79 |
+| Wayward Son of Hephaestus | 2.00% | ~80 |
+| Lament of the Constellations | 2.00% | ~80 |
+| Forged in Fire | 2.00% | ~80 |
+| Rock and a Hard Place | 2.00% | ~80 |
+| The Midas Touch | 2.00% | ~80 |
+| Hapax Legomenon | 2.00% | ~80 |
+| Don't Pay the Ferryman | 2.00% | ~80 |
+| Veneration of Hephaestus | 2.00% | ~80 |
+| Vandili | 2.00% | ~80 |
+| No Scylla in Sight | 2.00% | ~80 |
+| Cloaca Maxima | 2.00% | ~80 |
+| Baby Crabs They Ain't | 2.00% | ~80 |
+| Mors Omnibus | 2.00% | ~80 |
+| Blot Out the Sky | 2.00% | ~80 |
 | The Nameless One | 1.00% | ~40 |
 | Rule of Thirds | 1.00% | ~40 |
 | Pyr Demon | 1.00% | ~40 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,974 (Ranked 218)  
+Progressed: 3,975 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-08 | 3,966 | 0 |
 | 2024-01-09 | 3,971 | 0 |
 | 2024-01-11 | 3,973 | 0 |
-| 2024-01-12 | 3,974 | 0 |
+| 2024-01-12 | 3,975 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -779,9 +779,9 @@
       "ID": "ACH_032",
       "SetID": "7b646ck",
       "Name": "Betty Allen",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_033",
@@ -843,9 +843,9 @@
       "ID": "ACH_04",
       "SetID": "7b646ck",
       "Name": "The Investigation Begins",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_040",
@@ -954,8 +954,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2024-01-12T12:09:47.2168335+00:00",
+  "LastChanged_Achievements": "2024-01-12T13:15:49.139965+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:23.6830852+00:00",
-  "LastUpdate_Ratings": "2024-01-12T11:59:19.165097+00:00",
-  "LastUpdate_Achievements": "2024-01-12T12:09:47.2168692+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:05:08.929671+00:00",
+  "LastUpdate_Achievements": "2024-01-12T13:15:49.1400042+00:00"
 }

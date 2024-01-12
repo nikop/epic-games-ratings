@@ -14325,9 +14325,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 497137,
+  "EOS_Progressed": 497182,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4746,
+  "EOS_NewPlayers": 4742,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45140,6 +45140,11 @@
       "Time": "2024-01-12T12:10:07.4696043+00:00",
       "NumProgressed": 497137,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T13:16:10.5590358+00:00",
+      "NumProgressed": 497182,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -45671,7 +45676,7 @@
       "Name": "Cold War",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "achievement_colonial_management",
@@ -48054,21 +48059,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 497137,
+      "Progressed": 497182,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 497137,
+      "Progressed": 497182,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-12T07:58:56.2157998+00:00",
-  "LastChanged_Achievements": "2024-01-12T12:10:07.4696039+00:00",
+  "LastChanged_Achievements": "2024-01-12T13:16:10.5590354+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.850256+00:00",
-  "LastUpdate_Ratings": "2024-01-12T11:58:36.6811425+00:00",
-  "LastUpdate_Achievements": "2024-01-12T12:10:07.4707042+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:04:16.969412+00:00",
+  "LastUpdate_Achievements": "2024-01-12T13:16:10.560158+00:00"
 }

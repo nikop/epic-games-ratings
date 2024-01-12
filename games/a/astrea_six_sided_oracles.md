@@ -12,7 +12,7 @@
 | Endless Tricks | 51.00% | ~192 |
 | Wild's Keeper | 49.00% | ~185 |
 | Mind Illuminator | 43.00% | ~162 |
-| Stellar Dismantler | 38.00% | ~143 |
+| Stellar Dismantler | 39.00% | ~147 |
 | Noctuan Champion | 35.00% | ~132 |
 | Astral Adventurer | 34.00% | ~128 |
 | Anomaly Destroyer | 31.00% | ~117 |

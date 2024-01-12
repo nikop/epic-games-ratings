@@ -20,7 +20,7 @@ Number of Ratings: 20  (23.09.2022)
 | Good Mama | 32.00% | ~137 |
 | Plunderer | 30.00% | ~129 |
 | Taxonomist | 27.00% | ~116 |
-| Traveller | 25.00% | ~107 |
+| Traveller | 26.00% | ~112 |
 | Uncertain Loyalties | 24.00% | ~103 |
 | Roll to Save | 23.00% | ~99 |
 | Nahua Seeker | 23.00% | ~99 |

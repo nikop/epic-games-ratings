@@ -60,6 +60,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 1.00% | ~165 |
 | Zoroastrianism | 1.00% | ~165 |
 | Legendary Cities | 0.90% | ~148 |
+| Colossus | 0.90% | ~148 |
 | Mausoleum | 0.90% | ~148 |
 | Mythology | 0.90% | ~148 |
 | Hanging Gardens in Babylon | 0.80% | ~132 |
@@ -68,15 +69,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 0.80% | ~132 |
 | Artisans | 0.80% | ~132 |
 | Sages | 0.80% | ~132 |
-| Colossus | 0.80% | ~132 |
 | Building Wonders | 0.80% | ~132 |
+| Good Difficulty | 0.70% | ~115 |
 | Champions | 0.70% | ~115 |
 | Learn to Play 3 | 0.70% | ~115 |
 | Persian Paganism | 0.70% | ~115 |
 | Beloved | 0.60% | ~99 |
 | Mighty | 0.60% | ~99 |
 | Victorious | 0.60% | ~99 |
-| Good Difficulty | 0.60% | ~99 |
 | Landowners | 0.60% | ~99 |
 | Patrons | 0.60% | ~99 |
 | Statesmen | 0.60% | ~99 |
@@ -115,6 +115,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.40% | ~66 |
 | Adur Burzen-Mihr | 0.40% | ~66 |
 | Learn to Play 4 | 0.40% | ~66 |
+| Babylonia | 0.40% | ~66 |
 | Carthage | 0.40% | ~66 |
 | Rome | 0.40% | ~66 |
 | Assyrian Paganism | 0.40% | ~66 |
@@ -125,19 +126,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.40% | ~66 |
 | Kushite Cavalry | 0.40% | ~66 |
 | Phalangite | 0.40% | ~66 |
+| Turreted Elephant | 0.40% | ~66 |
 | Ambition Victory | 0.40% | ~66 |
 | Kushite Pyramids | 0.40% | ~66 |
 | Ishtar Gate in Babylon | 0.30% | ~49 |
 | Old | 0.30% | ~49 |
 | Church of the Holy Sepulchre | 0.30% | ~49 |
 | Cao'an | 0.30% | ~49 |
-| Babylonia | 0.30% | ~49 |
 | Egypt | 0.30% | ~49 |
 | One True Faith | 0.30% | ~49 |
 | Hittite Paganism | 0.30% | ~49 |
 | Veneration | 0.30% | ~49 |
 | Cataphract Archer | 0.30% | ~49 |
-| Turreted Elephant | 0.30% | ~49 |
 | All Nations | 0.30% | ~49 |
 | No Undo | 0.30% | ~49 |
 | Deposed Tribe | 0.30% | ~49 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,494 (Ranked 170)  
+Progressed: 16,496 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -632,7 +632,7 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
-| 2024-01-12 | 16,494 | 5 |
+| 2024-01-12 | 16,496 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,921 (Ranked 224)  

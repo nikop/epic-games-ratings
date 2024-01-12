@@ -3,11 +3,11 @@
   "Name": "Haven",
   "ProductSlug": "haven",
   "Ranking_Rating": 131,
-  "Ranking_Popularity": 584,
-  "Ranking_PopularitySum": 584,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1967,
+  "EOS_Progressed": 1968,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -3604,6 +3604,11 @@
       "Time": "2024-01-12T11:05:30.4484712+00:00",
       "NumProgressed": 1967,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-12T13:11:14.2101781+00:00",
+      "NumProgressed": 1968,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3615,7 +3620,7 @@
       "Name": "Lovebirds",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "10",
@@ -3629,9 +3634,9 @@
       "ID": "11",
       "SetID": "n50no0",
       "Name": "Strike!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 315
+      "UsersEstimate": 295
     },
     {
       "ID": "12",
@@ -3639,7 +3644,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "13",
@@ -3679,7 +3684,7 @@
       "Name": "Balding bloot!",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "18",
@@ -3743,7 +3748,7 @@
       "Name": "In my shoes",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "25",
@@ -3854,15 +3859,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1967,
+      "Progressed": 1968,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-12T12:05:04.6205185+00:00",
+  "LastChanged_Achievements": "2024-01-12T13:11:14.2101775+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.2496519+00:00",
-  "LastUpdate_Ratings": "2024-01-12T12:00:08.9583671+00:00",
-  "LastUpdate_Achievements": "2024-01-12T12:05:04.6205644+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:06:03.9139382+00:00",
+  "LastUpdate_Achievements": "2024-01-12T13:11:14.2102191+00:00"
 }

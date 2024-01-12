@@ -9,7 +9,7 @@ Number of Ratings: 154  (23.09.2022)
 | Welcome to Sonic the Hedgehog | 93.00% | ~643 |
 | Newbie Hero | 80.00% | ~553 |
 | Welcome to Sonic CD | 70.00% | ~484 |
-| Welcome to Sonic 3 & Knuckles | 69.00% | ~477 |
+| Welcome to Sonic 3 & Knuckles | 70.00% | ~484 |
 | Welcome to Sonic the Hedgehog 2 | 68.00% | ~470 |
 | Ring Collector | 66.00% | ~456 |
 | Time Traveler | 64.00% | ~442 |
@@ -18,9 +18,9 @@ Number of Ratings: 154  (23.09.2022)
 | Bubbly Breath | 57.00% | ~394 |
 | Gallant Spin Dash | 56.00% | ~387 |
 | Knuckles the Echidna | 55.00% | ~380 |
-| Miles "Tails" Prower | 54.00% | ~373 |
+| Miles "Tails" Prower | 55.00% | ~380 |
 | Boss Rush Attempt | 48.00% | ~332 |
-| Cleared Sonic the Hedgehog | 47.00% | ~325 |
+| Cleared Sonic the Hedgehog | 48.00% | ~332 |
 | Super Sonic | 42.00% | ~290 |
 | Shut Down Metal Sonic | 39.00% | ~269 |
 | Beware Stingers! | 39.00% | ~269 |

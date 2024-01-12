@@ -19,9 +19,9 @@ Rating: 4.70 (Ranked 220)
 | Immaculate Aim | 26.00% | ~341 |
 | Fast Learner | 25.00% | ~328 |
 | The Steel Shadow | 24.00% | ~314 |
+| Right On Time | 23.00% | ~301 |
 | Breaking Down Barriers | 23.00% | ~301 |
 | The Wicked Twins | 23.00% | ~301 |
-| Right On Time | 22.00% | ~288 |
 | The Betrayer | 22.00% | ~288 |
 | Golem Chaser | 22.00% | ~288 |
 | Like Clockwork | 21.00% | ~275 |

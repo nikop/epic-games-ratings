@@ -13,7 +13,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brothers in Arms | 0.40% | ~1,989 |
 | That's a Grand Navy | 0.40% | ~1,989 |
 | Seriously?! | 0.40% | ~1,989 |
-| Cold War | 0.30% | ~1,491 |
+| Cold War | 0.30% | ~1,492 |
 | Blockader | 0.20% | ~994 |
 | Defender of the Faith | 0.20% | ~994 |
 | Double the Love | 0.20% | ~994 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 497,137 (Ranked 42)  
+Progressed: 497,182 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -637,7 +637,7 @@ Completed: 1 (0.00%) (Ranked 399)
 | 2024-01-09 | 495,855 | 1 |
 | 2024-01-10 | 496,402 | 1 |
 | 2024-01-11 | 496,921 | 1 |
-| 2024-01-12 | 497,137 | 1 |
+| 2024-01-12 | 497,182 | 1 |
 ## Awards
 Max (Educational): 7,804  (Ranked 52)  
 Sum: 64,373 (Ranked 24)  

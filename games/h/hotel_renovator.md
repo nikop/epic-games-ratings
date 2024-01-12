@@ -5,35 +5,35 @@ Rating: 4.35 (Ranked 829)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 75.00% | ~1,097 |
-| And so it begins | 72.00% | ~1,053 |
-| No pressure | 69.00% | ~1,009 |
-| Memento | 59.00% | ~863 |
-| Let there be light | 56.00% | ~819 |
+| Good start | 75.00% | ~1,098 |
+| And so it begins | 72.00% | ~1,054 |
+| No pressure | 69.00% | ~1,010 |
+| Memento | 58.00% | ~849 |
+| Let there be light | 56.00% | ~820 |
 | I think you dropped this | 52.00% | ~761 |
 | Soulmate? | 50.00% | ~732 |
 | Excellent service | 46.00% | ~673 |
-| Roll with it | 43.00% | ~629 |
-| Humble beginnings | 42.00% | ~614 |
+| Roll with it | 43.00% | ~630 |
+| Humble beginnings | 42.00% | ~615 |
 | Love is in the air | 41.00% | ~600 |
 | Fine, I'll do it myself | 39.00% | ~571 |
 | Moving up | 39.00% | ~571 |
-| No need to call anyone | 37.00% | ~541 |
+| No need to call anyone | 37.00% | ~542 |
 | Big fortune | 31.00% | ~454 |
 | Still more work ahead | 28.00% | ~410 |
-| Kaboom | 26.00% | ~380 |
-| Aesop's fable | 26.00% | ~380 |
-| Hotel sleuthing | 26.00% | ~380 |
+| Kaboom | 26.00% | ~381 |
+| Aesop's fable | 26.00% | ~381 |
+| Hotel sleuthing | 26.00% | ~381 |
 | Nearly there | 24.00% | ~351 |
 | Broken heart | 22.00% | ~322 |
 | Island boy | 21.00% | ~307 |
 | You're a star | 19.00% | ~278 |
-| Unstoppable | 18.00% | ~263 |
-| Reunited | 18.00% | ~263 |
+| Unstoppable | 18.00% | ~264 |
+| Reunited | 18.00% | ~264 |
 | King of hospitality | 11.00% | ~161 |
 | Top spot in town | 2.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,463 (Ranked 271)  
+Progressed: 1,464 (Ranked 271)  
 Completed: 18 (1.23%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 18 (1.23%) (Ranked 159)
 | 2024-01-09 | 1,446 | 18 |
 | 2024-01-10 | 1,455 | 18 |
 | 2024-01-11 | 1,462 | 18 |
-| 2024-01-12 | 1,463 | 18 |
+| 2024-01-12 | 1,464 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

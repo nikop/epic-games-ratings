@@ -3,11 +3,11 @@
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
   "Ranking_Rating": 100,
-  "Ranking_Popularity": 584,
-  "Ranking_PopularitySum": 584,
-  "Ranking_EOS_Progress": 307,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 585,
+  "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -61,7 +61,7 @@
   "Tags": [],
   "EOS_Progressed": 886,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -3333,9 +3333,9 @@
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
       "SetID": "9bke6f1",
       "Name": "Expert Scavenger",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 266
+      "UsersEstimate": 275
     },
     {
       "ID": "ACHIEVEMENT_14_PromiseYuna",
@@ -3518,8 +3518,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-10T15:58:31.5106151+00:00",
-  "LastChanged_Achievements": "2024-01-12T12:09:08.220617+00:00",
+  "LastChanged_Achievements": "2024-01-12T13:15:05.0912997+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.7410286+00:00",
-  "LastUpdate_Ratings": "2024-01-12T11:59:06.389021+00:00",
-  "LastUpdate_Achievements": "2024-01-12T12:09:08.220642+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:04:53.7392569+00:00",
+  "LastUpdate_Achievements": "2024-01-12T13:15:05.0913279+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,697 |
+| Atom Agent | 99.00% | ~1,698 |
 | One HIT wonder | 34.00% | ~583 |
-| Wanderer | 32.00% | ~548 |
-| One shot, one kill | 25.00% | ~428 |
+| Wanderer | 32.00% | ~549 |
+| One shot, one kill | 25.00% | ~429 |
 | Traveler | 22.00% | ~377 |
-| Grave Robber | 17.00% | ~291 |
+| Grave Robber | 17.00% | ~292 |
 | Head Burst | 16.00% | ~274 |
 | Double agent | 15.00% | ~257 |
 | Explorer | 15.00% | ~257 |
 | Paranoia | 15.00% | ~257 |
-| Savant | 10.00% | ~171 |
+| Savant | 10.00% | ~172 |
 | Kraina Grzybow | 9.00% | ~154 |
 | Love Guru | 9.00% | ~154 |
 | Bustin' nuts | 8.00% | ~137 |
@@ -34,16 +34,16 @@ Number of Ratings: 54  (23.09.2022)
 | It was worth a shot | 0.90% | ~15 |
 | Ghostbuster | 0.60% | ~10 |
 | Cheeki Breeki | 0.40% | ~7 |
-| It's a classic! | 0.40% | ~7 |
 | Comrade Yogi | 0.40% | ~7 |
 | Tourist Korallov | 0.40% | ~7 |
+| It's a classic! | 0.30% | ~5 |
 | Expert | 0.30% | ~5 |
 | Mystical relics | 0.20% | ~3 |
 | 27 Club | 0.10% | ~2 |
 | No Name, No Slogan | 0.10% | ~2 |
 | Pacifist | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,714 (Ranked 260)  
+Progressed: 1,715 (Ranked 260)  
 Completed: 1 (0.06%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,6 +262,7 @@ Completed: 1 (0.06%) (Ranked 333)
 | 2024-01-09 | 1,693 | 1 |
 | 2024-01-10 | 1,708 | 1 |
 | 2024-01-11 | 1,714 | 1 |
+| 2024-01-12 | 1,715 | 1 |
 ## Awards
 Max (Character Customization): 53  (Ranked 449)  
 Sum: 53 (Ranked 507)  

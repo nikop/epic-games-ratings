@@ -5,22 +5,22 @@ Rating: 4.55 (Ranked 530)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 107.00% | ~19,071 |
-| Before the Downfall | 102.00% | ~18,179 |
-| Money like Water | 100.00% | ~17,823 |
-| Minimalist | 99.00% | ~17,645 |
-| Builder | 91.00% | ~16,219 |
-| Eraser | 77.00% | ~13,724 |
-| Pocket of Trains | 72.00% | ~12,833 |
-| Inspector | 65.00% | ~11,585 |
-| Going the Distance | 59.00% | ~10,516 |
-| Oil Baron | 46.00% | ~8,199 |
-| Loads-a-Money | 46.00% | ~8,199 |
-| Helper of the People | 43.00% | ~7,664 |
-| Simplification | 37.00% | ~6,595 |
-| Box of Trains | 37.00% | ~6,595 |
+| Trevithick's Legacy | 107.00% | ~19,070 |
+| Before the Downfall | 102.00% | ~18,178 |
+| Money like Water | 100.00% | ~17,822 |
+| Minimalist | 99.00% | ~17,644 |
+| Builder | 91.00% | ~16,218 |
+| Eraser | 77.00% | ~13,723 |
+| Pocket of Trains | 72.00% | ~12,832 |
+| Inspector | 65.00% | ~11,584 |
+| Going the Distance | 59.00% | ~10,515 |
+| Oil Baron | 46.00% | ~8,198 |
+| Loads-a-Money | 46.00% | ~8,198 |
+| Helper of the People | 43.00% | ~7,663 |
+| Simplification | 37.00% | ~6,594 |
+| Box of Trains | 37.00% | ~6,594 |
 | Let There be Light | 36.00% | ~6,416 |
-| Hot Water | 34.00% | ~6,060 |
+| Hot Water | 34.00% | ~6,059 |
 | Indecisive | 32.00% | ~5,703 |
 | The scenic route | 30.00% | ~5,347 |
 | Industrialist | 28.00% | ~4,990 |
@@ -29,7 +29,7 @@ Rating: 4.55 (Ranked 530)
 | Trains over Pipes | 25.00% | ~4,456 |
 | Man of Steel | 18.00% | ~3,208 |
 | Room Full of Trains | 14.00% | ~2,495 |
-| Investor | 11.00% | ~1,961 |
+| Investor | 11.00% | ~1,960 |
 | Multiverse | 8.00% | ~1,426 |
 | The poor groundwater levels | 8.00% | ~1,426 |
 | Metropolis | 8.00% | ~1,426 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 530)
 | Overdeer | 0.60% | ~107 |
 | Cloud Services | 0.30% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,823 (Ranked 164)  
+Progressed: 17,822 (Ranked 164)  
 Completed: 24 (0.13%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |

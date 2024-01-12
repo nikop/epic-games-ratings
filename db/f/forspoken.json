@@ -637,9 +637,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 47120,
+  "EOS_Progressed": 47123,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 695,
+  "EOS_NewPlayers": 693,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18562,6 +18562,11 @@
       "Time": "2024-01-12T10:06:26.7797968+00:00",
       "NumProgressed": 47120,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-12T13:13:57.5191215+00:00",
+      "NumProgressed": 47123,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18765,7 +18770,7 @@
       "Name": "Leapfrogger",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3298
+      "UsersEstimate": 3299
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -18827,9 +18832,9 @@
       "ID": "MAGIC_FLOWER",
       "SetID": "6d0g7k8",
       "Name": "Help Me Out Here",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2356
+      "UsersEstimate": 2827
     },
     {
       "ID": "MAGIC_IVY",
@@ -18909,7 +18914,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5654
+      "UsersEstimate": 5655
     },
     {
       "ID": "SPRING_ALL",
@@ -18925,7 +18930,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3298
+      "UsersEstimate": 3299
     },
     {
       "ID": "STAYING_AIR",
@@ -18996,22 +19001,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47120,
+      "Progressed": 47123,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 11957,
-      "Completed": 11957
+      "Progressed": 11960,
+      "Completed": 11960
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-12T00:02:56.2381129+00:00",
-  "LastChanged_Achievements": "2024-01-12T12:06:28.0145639+00:00",
+  "LastChanged_Achievements": "2024-01-12T13:13:57.5191211+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-12T12:03:01.4094701+00:00",
-  "LastUpdate_Achievements": "2024-01-12T12:06:28.0146698+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:08:53.2773736+00:00",
+  "LastUpdate_Achievements": "2024-01-12T13:13:57.5192239+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 1372,
+  "EOS_Progressed": 1373,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3980,6 +3980,11 @@
       "Time": "2024-01-12T07:04:01.2602449+00:00",
       "NumProgressed": 1372,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-12T13:09:34.9538614+00:00",
+      "NumProgressed": 1373,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4032,7 +4037,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "BreakTheLoop",
@@ -4048,7 +4053,7 @@
       "Name": "Bridge Builder",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ChasingTheLight",
@@ -4088,7 +4093,7 @@
       "Name": "Discovery",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "EasternWetlands",
@@ -4176,7 +4181,7 @@
       "Name": "Lord of the Files",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "LostMarshes",
@@ -4280,7 +4285,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "RenaissanceRobot",
@@ -4302,9 +4307,9 @@
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 247
     },
     {
       "ID": "SingleRod",
@@ -4336,7 +4341,7 @@
       "Name": "Team Spirit",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "TextAdventurer",
@@ -4352,7 +4357,7 @@
       "Name": "The All-Gifted",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "TheEdgeOfForever",
@@ -4400,7 +4405,7 @@
       "Name": "The Word Endures",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "TouchGrass",
@@ -4463,7 +4468,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1372,
+      "Progressed": 1373,
       "Completed": 2
     }
   ],
@@ -4471,8 +4476,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-11T20:01:30.2731124+00:00",
-  "LastChanged_Achievements": "2024-01-12T12:03:35.8051877+00:00",
+  "LastChanged_Achievements": "2024-01-12T13:09:34.953861+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-12T12:00:19.287167+00:00",
-  "LastUpdate_Achievements": "2024-01-12T12:03:35.8052825+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:06:16.4720751+00:00",
+  "LastUpdate_Achievements": "2024-01-12T13:09:34.9539243+00:00"
 }

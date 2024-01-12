@@ -3,11 +3,11 @@
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
   "Ranking_Rating": 829,
-  "Ranking_Popularity": 584,
-  "Ranking_PopularitySum": 584,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -281,7 +281,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1463,
+  "EOS_Progressed": 1464,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
@@ -3661,6 +3661,11 @@
       "Time": "2024-01-12T00:08:34.7735071+00:00",
       "NumProgressed": 1463,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-12T13:14:43.0228964+00:00",
+      "NumProgressed": 1464,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -3672,7 +3677,7 @@
       "Name": "Humble beginnings",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -3696,7 +3701,7 @@
       "Name": "Roll with it",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -3704,7 +3709,7 @@
       "Name": "Kaboom",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -3736,7 +3741,7 @@
       "Name": "No need to call anyone",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -3752,15 +3757,15 @@
       "Name": "Aesop\u0027s fable",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ACH_GRANDPA_BOY_SUIT",
       "SetID": "7k95e4n",
       "Name": "Memento",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 863
+      "UsersEstimate": 849
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -3768,7 +3773,7 @@
       "Name": "No pressure",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -3776,7 +3781,7 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -3784,7 +3789,7 @@
       "Name": "Hotel sleuthing",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ACH_NEWSPAPER_ARTICLE",
@@ -3808,7 +3813,7 @@
       "Name": "Let there be light",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -3816,7 +3821,7 @@
       "Name": "Unstoppable",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_STAR_1",
@@ -3824,7 +3829,7 @@
       "Name": "Good start",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "ACH_STAR_2",
@@ -3864,7 +3869,7 @@
       "Name": "Reunited",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_TIP_EARNED",
@@ -3887,7 +3892,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1463,
+      "Progressed": 1464,
       "Completed": 18
     }
   ],
@@ -3895,8 +3900,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2024-01-07T18:59:15.8643547+00:00",
-  "LastChanged_Achievements": "2024-01-12T12:08:48.5135775+00:00",
+  "LastChanged_Achievements": "2024-01-12T13:14:43.0228961+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:29.8455072+00:00",
-  "LastUpdate_Ratings": "2024-01-12T11:58:02.9300187+00:00",
-  "LastUpdate_Achievements": "2024-01-12T12:08:48.5136148+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:03:39.7686422+00:00",
+  "LastUpdate_Achievements": "2024-01-12T13:14:43.0229218+00:00"
 }

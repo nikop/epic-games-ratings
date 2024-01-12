@@ -2,9 +2,9 @@
   "ID": "d93cf08971eb4920862a95870a051f81",
   "Name": "Sail Forth",
   "ProductSlug": "sail-forth-51847e",
-  "Ranking_EOS_Progress": 123,
+  "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 6,
+  "Ranking_EOS_NewPlayers": 5,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-21T19:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 52754,
+  "EOS_Progressed": 56314,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52752,
+  "EOS_NewPlayers": 56312,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -136,6 +136,11 @@
       "Time": "2024-01-12T12:08:37.377313+00:00",
       "NumProgressed": 52754,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T13:14:30.6735482+00:00",
+      "NumProgressed": 56314,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-05T21:08:57.0505921+00:00",
@@ -148,7 +153,7 @@
       "Name": "Polar Pontification",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "BossDefeatKraken",
@@ -164,7 +169,7 @@
       "Name": "Aggro Kreb",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "BossDefeatLeviathan",
@@ -180,7 +185,7 @@
       "Name": "By The Power Of Underskull",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 211
+      "UsersEstimate": 225
     },
     {
       "ID": "BossDefeatSpaceship",
@@ -196,7 +201,7 @@
       "Name": "No More Splosions",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "CompleteAllLighthouseEvents",
@@ -236,7 +241,7 @@
       "Name": "Sweeter Than Honey",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "CompleteBlowfishGame",
@@ -244,7 +249,7 @@
       "Name": "Blowfish Me Down",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "CompleteCroakerBounties",
@@ -268,7 +273,7 @@
       "Name": "Hook, Line and Stinker",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 6330
+      "UsersEstimate": 6758
     },
     {
       "ID": "CompleteFishCollectionHalf",
@@ -308,7 +313,7 @@
       "Name": "Snapping Turtle",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "CompleteTutorial",
@@ -316,15 +321,15 @@
       "Name": "Tootorial",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 34818
+      "UsersEstimate": 37167
     },
     {
       "ID": "EnemyBoatBurn",
       "SetID": "aem3h3o",
       "Name": "Great Balls Of Fire",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 451
     },
     {
       "ID": "FirstAncientJunk",
@@ -332,7 +337,7 @@
       "Name": "Baby\u0027s First Thingamabob",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 528
+      "UsersEstimate": 563
     },
     {
       "ID": "FirstCroakerBounty",
@@ -340,7 +345,7 @@
       "Name": "Crovert Ops",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "FirstLighthouseEvent",
@@ -348,7 +353,7 @@
       "Name": "Light Up the Night",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 475
+      "UsersEstimate": 507
     },
     {
       "ID": "FirstRaceWin",
@@ -356,7 +361,7 @@
       "Name": "Race In Yo Face",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1126
     },
     {
       "ID": "FirstTargetCourseWin",
@@ -364,15 +369,15 @@
       "Name": "Nice Shootin\u0027 Duds",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1689
     },
     {
       "ID": "GameplayBoardShip",
       "SetID": "aem3h3o",
       "Name": "Boarding Party",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 507
     },
     {
       "ID": "GameplayCaptureTekkTanker",
@@ -380,15 +385,15 @@
       "Name": "Tekk Savvy",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "GameplayGoodWind",
       "SetID": "aem3h3o",
       "Name": "Wind Master",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 26905
+      "UsersEstimate": 29283
     },
     {
       "ID": "GameplaySinkShip",
@@ -396,7 +401,7 @@
       "Name": "Davy Jones",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6858
+      "UsersEstimate": 7321
     },
     {
       "ID": "GetFishTip",
@@ -404,7 +409,7 @@
       "Name": "Fish And Tips",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "HarpoonBarnacle",
@@ -412,7 +417,7 @@
       "Name": "Fish Kabob",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "IceSpireCrush",
@@ -420,7 +425,7 @@
       "Name": "Crushed Ice",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "MeetCroakers",
@@ -428,7 +433,7 @@
       "Name": "Enter The Croakers",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "OpenShellShop",
@@ -436,7 +441,7 @@
       "Name": "This Magik Moment",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "PlayerBoatBurning",
@@ -444,7 +449,7 @@
       "Name": "This Is Fine",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 113
     },
     {
       "ID": "RecruitAnglers",
@@ -482,17 +487,17 @@
       "ID": "ShipshapeSpend1",
       "SetID": "aem3h3o",
       "Name": "Gateway Slug",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 528
+      "UsersEstimate": 1126
     },
     {
       "ID": "ShipshapeSpend2",
       "SetID": "aem3h3o",
       "Name": "I Don\u0027t Like The Slugs",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 225
     },
     {
       "ID": "ShipshapeSpend3",
@@ -500,7 +505,7 @@
       "Name": "But The Slugs Like Me",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "StartlePenguin",
@@ -508,7 +513,7 @@
       "Name": "Pengy Fun",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 113
     },
     {
       "ID": "VisitTootGoose",
@@ -523,7 +528,7 @@
     {
       "ID": "aem3h3o",
       "IsBase": true,
-      "Progressed": 52754,
+      "Progressed": 56314,
       "Completed": 0
     }
   ],
@@ -531,8 +536,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.4374953+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.5284182+00:00",
   "LastChanged": "2023-03-31T05:58:32.4374954+00:00",
-  "LastChanged_Achievements": "2024-01-12T12:08:37.3773125+00:00",
+  "LastChanged_Achievements": "2024-01-12T13:14:30.6735473+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:43.0879821+00:00",
-  "LastUpdate_Ratings": "2024-01-12T11:57:17.7447712+00:00",
-  "LastUpdate_Achievements": "2024-01-12T12:08:37.3773425+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:02:46.9218071+00:00",
+  "LastUpdate_Achievements": "2024-01-12T13:14:30.6735877+00:00"
 }

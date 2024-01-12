@@ -4,8 +4,8 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -1193,9 +1193,9 @@
       "ID": "TINGWD_CHAP_END_01",
       "SetID": "c0imaa6",
       "Name": "There\u0027s a bug in the soup",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 217
     },
     {
       "ID": "TINGWD_CHAP_END_02",
@@ -1408,8 +1408,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-12T12:05:10.0493175+00:00",
+  "LastChanged_Achievements": "2024-01-12T13:11:20.6359648+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.2042305+00:00",
-  "LastUpdate_Ratings": "2024-01-12T12:02:48.1409074+00:00",
-  "LastUpdate_Achievements": "2024-01-12T12:05:10.0493757+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:08:39.094768+00:00",
+  "LastUpdate_Achievements": "2024-01-12T13:11:20.6360182+00:00"
 }

@@ -983,9 +983,9 @@
       "ID": "ACH_FELLOW_INFLUENCER",
       "SetID": "8h8m55b",
       "Name": "Fellow Influencer",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_FESTINA_LENTE",
@@ -1294,8 +1294,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-01-12T12:05:05.8946938+00:00",
+  "LastChanged_Achievements": "2024-01-12T13:11:15.9879357+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:58.8135864+00:00",
-  "LastUpdate_Ratings": "2024-01-12T12:00:24.4017412+00:00",
-  "LastUpdate_Achievements": "2024-01-12T12:05:05.8947329+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:06:22.5285634+00:00",
+  "LastUpdate_Achievements": "2024-01-12T13:11:15.9879814+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -421,9 +421,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 1714,
+  "EOS_Progressed": 1715,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4571,6 +4571,11 @@
       "Time": "2024-01-11T21:11:02.7464242+00:00",
       "NumProgressed": 1714,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T13:15:56.9662338+00:00",
+      "NumProgressed": 1715,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4604,9 +4609,9 @@
       "ID": "CLASSIC",
       "SetID": "bf13m8j",
       "Name": "It\u0027s a classic!",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "CLUB_27_1",
@@ -4638,7 +4643,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "EXPERT_1",
@@ -4670,7 +4675,7 @@
       "Name": "Grave Robber",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "HEAD_BURST_1",
@@ -4742,7 +4747,7 @@
       "Name": "One shot, one kill",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "PACIFIST",
@@ -4806,7 +4811,7 @@
       "Name": "Savant",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "SECRET_ROOM",
@@ -4854,7 +4859,7 @@
       "Name": "Wanderer",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "WISHMASTER_1",
@@ -4869,15 +4874,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1714,
+      "Progressed": 1715,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-11T16:57:59.0826026+00:00",
-  "LastChanged_Achievements": "2024-01-12T12:09:54.4547722+00:00",
+  "LastChanged_Achievements": "2024-01-12T13:15:56.9662336+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-12T11:57:55.2041453+00:00",
-  "LastUpdate_Achievements": "2024-01-12T12:09:54.4548146+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:03:29.8075717+00:00",
+  "LastUpdate_Achievements": "2024-01-12T13:15:56.9662704+00:00"
 }

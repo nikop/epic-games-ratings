@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1873,10 +1873,10 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167771,
+  "EOS_Progressed": 167775,
   "EOS_Completed": 456,
-  "EOS_NewPlayers": 1183,
-  "EOS_NewCompleters": 12,
+  "EOS_NewPlayers": 1177,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -22798,6 +22798,11 @@
       "Time": "2024-01-12T12:05:23.5080205+00:00",
       "NumProgressed": 167771,
       "NumCompleted": 456
+    },
+    {
+      "Time": "2024-01-12T13:11:34.7976007+00:00",
+      "NumProgressed": 167775,
+      "NumCompleted": 456
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22882,7 +22887,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3355
+      "UsersEstimate": 3356
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -22914,7 +22919,7 @@
       "Name": "Scion",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -23177,21 +23182,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167354,
+      "Progressed": 167358,
       "Completed": 1260
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167771,
+      "Progressed": 167775,
       "Completed": 456
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-11T14:59:57.7039086+00:00",
-  "LastChanged_Achievements": "2024-01-12T12:05:23.5080202+00:00",
+  "LastChanged_Achievements": "2024-01-12T13:11:34.7976004+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
   "LastUpdate_Ratings": "2024-01-12T12:00:26.2632377+00:00",
-  "LastUpdate_Achievements": "2024-01-12T12:05:23.5081357+00:00"
+  "LastUpdate_Achievements": "2024-01-12T13:11:34.7977037+00:00"
 }

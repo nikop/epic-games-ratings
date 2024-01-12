@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 47,
   "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -1662,9 +1662,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 126
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1686,9 +1686,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "8d3ci0",
       "Name": "Way to the shore",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 144
+      "UsersEstimate": 147
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -1733,8 +1733,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2024-01-12T12:05:33.7215674+00:00",
+  "LastChanged_Achievements": "2024-01-12T13:11:46.107275+00:00",
   "LastUpdate_AppInfo": "2024-01-07T05:57:03.4341753+00:00",
-  "LastUpdate_Ratings": "2024-01-12T11:58:53.3385632+00:00",
-  "LastUpdate_Achievements": "2024-01-12T12:05:33.721594+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:04:37.3054434+00:00",
+  "LastUpdate_Achievements": "2024-01-12T13:11:46.1072927+00:00"
 }

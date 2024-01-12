@@ -1569,9 +1569,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7088,
+  "EOS_Progressed": 7089,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16569,6 +16569,11 @@
       "Time": "2024-01-12T12:04:01.6168844+00:00",
       "NumProgressed": 7088,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-12T13:10:04.1975266+00:00",
+      "NumProgressed": 7089,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -16740,7 +16745,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5174
+      "UsersEstimate": 5175
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -16899,15 +16904,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7088,
+      "Progressed": 7089,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-12T06:58:00.8853685+00:00",
-  "LastChanged_Achievements": "2024-01-12T12:04:01.616884+00:00",
+  "LastChanged_Achievements": "2024-01-12T13:10:04.1975263+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.4830018+00:00",
-  "LastUpdate_Ratings": "2024-01-12T11:57:54.3986585+00:00",
-  "LastUpdate_Achievements": "2024-01-12T12:04:01.6169827+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:03:28.9749935+00:00",
+  "LastUpdate_Achievements": "2024-01-12T13:10:04.1976145+00:00"
 }

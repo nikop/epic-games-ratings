@@ -3,11 +3,11 @@
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_Rating": 726,
-  "Ranking_Popularity": 584,
-  "Ranking_PopularitySum": 584,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -43,7 +43,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1021,
+  "EOS_Progressed": 1022,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
@@ -4393,6 +4393,11 @@
       "Time": "2024-01-12T10:09:52.7809962+00:00",
       "NumProgressed": 1021,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T13:15:42.0551575+00:00",
+      "NumProgressed": 1022,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4564,7 +4569,7 @@
       "Name": "Haute Cuisine",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Money10000",
@@ -4723,7 +4728,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 1021,
+      "Progressed": 1022,
       "Completed": 0
     }
   ],
@@ -4731,8 +4736,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2024-01-11T14:58:15.2423898+00:00",
-  "LastChanged_Achievements": "2024-01-12T12:09:41.2715374+00:00",
+  "LastChanged_Achievements": "2024-01-12T13:15:42.0551571+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.2362119+00:00",
-  "LastUpdate_Ratings": "2024-01-12T11:58:41.6588749+00:00",
-  "LastUpdate_Achievements": "2024-01-12T12:09:41.2716071+00:00"
+  "LastUpdate_Ratings": "2024-01-12T13:04:22.9239635+00:00",
+  "LastUpdate_Achievements": "2024-01-12T13:15:42.0551989+00:00"
 }

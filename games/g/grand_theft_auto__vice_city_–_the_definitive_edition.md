@@ -6,29 +6,29 @@ Rating: 4.52 (Ranked 578)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Legal Counsel | 47.00% | ~7,653 |
-| Greasy Palms | 42.00% | ~6,838 |
-| South American Connection | 26.00% | ~4,233 |
-| Life of the Party | 21.00% | ~3,419 |
+| Greasy Palms | 42.00% | ~6,839 |
+| South American Connection | 26.00% | ~4,234 |
+| Life of the Party | 21.00% | ~3,420 |
 | Tommy Two-Wheels | 16.00% | ~2,605 |
-| Big Heat from Little Havana | 15.00% | ~2,442 |
-| Chauffeur | 15.00% | ~2,442 |
+| Big Heat from Little Havana | 15.00% | ~2,443 |
+| Chauffeur | 15.00% | ~2,443 |
 | Salutations My Little Friend | 11.00% | ~1,791 |
 | Iron-y | 10.00% | ~1,628 |
-| Gun for Hire | 9.00% | ~1,465 |
-| Mischief Managed | 9.00% | ~1,465 |
+| Gun for Hire | 9.00% | ~1,466 |
+| Mischief Managed | 9.00% | ~1,466 |
 | Vice City Mogul | 7.00% | ~1,140 |
 | Catch Me if You Can | 6.00% | ~977 |
 | Bloodstained Hands | 6.00% | ~977 |
 | Not my First Time | 5.00% | ~814 |
 | Grand Theft Auto | 5.00% | ~814 |
 | Pie Guy | 4.00% | ~651 |
-| Running Rampant | 3.00% | ~488 |
-| Point A to Point B | 3.00% | ~488 |
-| High Quality H2O | 3.00% | ~488 |
-| Bull in a China Shop | 3.00% | ~488 |
-| Somebody Call the Wambulance? | 3.00% | ~488 |
-| Just Like the Real Thing | 3.00% | ~488 |
-| Don't Need Roads | 3.00% | ~488 |
+| Running Rampant | 3.00% | ~489 |
+| Point A to Point B | 3.00% | ~489 |
+| High Quality H2O | 3.00% | ~489 |
+| Bull in a China Shop | 3.00% | ~489 |
+| Somebody Call the Wambulance? | 3.00% | ~489 |
+| Just Like the Real Thing | 3.00% | ~489 |
+| Don't Need Roads | 3.00% | ~489 |
 | One is Better Than Two | 2.00% | ~326 |
 | Take the Cannoli | 2.00% | ~326 |
 | Chopper’d Up | 2.00% | ~326 |
@@ -40,8 +40,8 @@ Rating: 4.52 (Ranked 578)
 | Done it All | 1.00% | ~163 |
 | Kingpin | 0.60% | ~98 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,282 (Ranked 171)  
-Completed: 97 (0.60%) (Ranked 212)  
+Progressed: 16,284 (Ranked 171)  
+Completed: 97 (0.60%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -307,7 +307,7 @@ Completed: 97 (0.60%) (Ranked 212)
 | 2024-01-09 | 16,071 | 93 |
 | 2024-01-10 | 16,202 | 95 |
 | 2024-01-11 | 16,263 | 96 |
-| 2024-01-12 | 16,282 | 97 |
+| 2024-01-12 | 16,284 | 97 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
