@@ -4,8 +4,8 @@
   "ProductSlug": "dragon-age-dreadwolf",
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 581,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.8034868+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:59:55.8369025+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:05:56.072571+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:59:44.0507246+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:05:44.5454935+00:00"
 }

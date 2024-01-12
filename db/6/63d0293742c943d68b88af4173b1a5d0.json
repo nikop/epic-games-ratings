@@ -4,8 +4,8 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 749,
+  "EOS_Progressed": 751,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2434,6 +2434,11 @@
       "Time": "2024-01-12T20:04:59.965273+00:00",
       "NumProgressed": 749,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T21:04:50.2963839+00:00",
+      "NumProgressed": 751,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2454,7 +2459,7 @@
       "Name": "Iced Iced Baby",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "5",
@@ -2486,7 +2491,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "9",
@@ -2502,7 +2507,7 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "REMAKE_002",
@@ -2510,7 +2515,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 539
+      "UsersEstimate": 541
     },
     {
       "ID": "REMAKE_004",
@@ -2518,7 +2523,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "Remake_005",
@@ -2534,7 +2539,7 @@
       "Name": "Attempted Vehicular Infanticide",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Remake_007",
@@ -2550,7 +2555,7 @@
       "Name": "Plumber\u0027s Apprentice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Remake_009",
@@ -2558,7 +2563,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "Remake_010",
@@ -2574,7 +2579,7 @@
       "Name": "Imma Powder Out",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Remake_12",
@@ -2590,7 +2595,7 @@
       "Name": "Toasted",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "Remake_14",
@@ -2598,7 +2603,7 @@
       "Name": "This is not how you play Slip and Die",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Remake_15",
@@ -2614,7 +2619,7 @@
       "Name": "Choked on Balls",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Remake_17",
@@ -2646,7 +2651,7 @@
       "Name": "Dug Straight Down",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Remake_21",
@@ -2669,14 +2674,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 749,
+      "Progressed": 751,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:04:59.9652725+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:04:50.2963835+00:00",
   "LastUpdate_AppInfo": "2024-01-09T02:21:36.6517683+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:59:24.7636237+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:04:59.9653077+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:59:14.4301977+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:04:50.2964553+00:00"
 }

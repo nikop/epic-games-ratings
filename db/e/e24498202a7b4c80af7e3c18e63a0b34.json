@@ -2,13 +2,13 @@
   "ID": "e24498202a7b4c80af7e3c18e63a0b34",
   "Name": "Horizon Chase 2",
   "ProductSlug": "horizon-chase-2",
-  "Ranking_Rating": 195,
+  "Ranking_Rating": 204,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 206,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.72,
+  "Rating": 4.71,
   "RatingHistory": [
     {
       "Time": "2023-09-26T18:04:36.0445809+00:00",
@@ -211,15 +211,21 @@
       "Rating": 4.72,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-12T20:57:15.3154984+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8560,
+  "EOS_Progressed": 8561,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -9852,6 +9858,11 @@
       "Time": "2024-01-12T20:03:42.7651677+00:00",
       "NumProgressed": 8560,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-12T21:03:36.2582609+00:00",
+      "NumProgressed": 8561,
+      "NumCompleted": 53
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -9864,7 +9875,7 @@
       "Name": "First of Many",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 7533
+      "UsersEstimate": 7534
     },
     {
       "ID": "achievement_01_02",
@@ -9880,7 +9891,7 @@
       "Name": "Brand New Ride",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 5564
+      "UsersEstimate": 5565
     },
     {
       "ID": "achievement_01_04",
@@ -9888,7 +9899,7 @@
       "Name": "Bzzzt",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6420
+      "UsersEstimate": 6421
     },
     {
       "ID": "achievement_01_05",
@@ -9920,7 +9931,7 @@
       "Name": "Trophy Collector",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6420
+      "UsersEstimate": 6421
     },
     {
       "ID": "achievement_01_09",
@@ -9992,7 +10003,7 @@
       "Name": "Whale of a Time",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 4194
+      "UsersEstimate": 4195
     },
     {
       "ID": "achievement_02_08",
@@ -10016,7 +10027,7 @@
       "Name": "Brazil - Check!",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "achievement_03_03",
@@ -10104,7 +10115,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 4194
+      "UsersEstimate": 4195
     },
     {
       "ID": "achievement_04_03",
@@ -10112,7 +10123,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 4622
+      "UsersEstimate": 4623
     },
     {
       "ID": "achievement_04_04",
@@ -10120,7 +10131,7 @@
       "Name": "Flawless Racer",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "achievement_04_05",
@@ -10152,7 +10163,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 7447
+      "UsersEstimate": 7448
     },
     {
       "ID": "achievement_04_09",
@@ -10167,16 +10178,16 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 8560,
+      "Progressed": 8561,
       "Completed": 53
     }
   ],
   "FirstSeen": "2023-09-14T17:57:03.7987631+00:00",
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
-  "LastChanged": "2024-01-09T20:59:07.1704455+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:03:42.7651672+00:00",
+  "LastChanged": "2024-01-12T20:57:15.3154982+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:03:36.2582605+00:00",
   "LastUpdate_AppInfo": "2024-01-12T01:46:08.2542069+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:57:22.3712083+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:03:42.7652384+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:57:15.3155015+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:03:36.2583431+00:00"
 }

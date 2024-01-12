@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -303,9 +303,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 2475,
+  "EOS_Progressed": 2476,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5878,6 +5878,11 @@
       "Time": "2024-01-12T20:05:14.286279+00:00",
       "NumProgressed": 2475,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T21:05:03.8973549+00:00",
+      "NumProgressed": 2476,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -5898,7 +5903,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2203
+      "UsersEstimate": 2204
     },
     {
       "ID": "AC02",
@@ -5906,7 +5911,7 @@
       "Name": "Blood and Dust",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "AC03",
@@ -5914,7 +5919,7 @@
       "Name": "Blood and Gold",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "AC04",
@@ -5922,7 +5927,7 @@
       "Name": "Blood and Iron",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "AC05",
@@ -5930,7 +5935,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1362
     },
     {
       "ID": "AC06",
@@ -5954,7 +5959,7 @@
       "Name": "Forged in Fire",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "AC09",
@@ -6058,7 +6063,7 @@
       "Name": "No Cherub Left Behind",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "AC22",
@@ -6066,7 +6071,7 @@
       "Name": "Empty Handed",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "AC23",
@@ -6098,7 +6103,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "AC27",
@@ -6122,7 +6127,7 @@
       "Name": "The Veteran One",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "AC30",
@@ -6146,7 +6151,7 @@
       "Name": "Nobody Expects the Spanish Inquisition!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "AC33",
@@ -6154,7 +6159,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "AC34",
@@ -6170,15 +6175,15 @@
       "Name": "Flawless Penance",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "AC36",
       "SetID": "l4abp0",
       "Name": "Blessed Incense",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 644
     },
     {
       "ID": "AC37",
@@ -6210,7 +6215,7 @@
       "Name": "Welcome Back!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1906
+      "UsersEstimate": 1907
     },
     {
       "ID": "AC41",
@@ -6257,7 +6262,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2475,
+      "Progressed": 2476,
       "Completed": 0
     }
   ],
@@ -6265,8 +6270,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-11T21:01:32.4954396+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:05:14.2862786+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:05:03.8973546+00:00",
   "LastUpdate_AppInfo": "2024-01-10T04:57:09.7051995+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:57:13.9721216+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:05:14.2863319+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:57:08.2974421+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:05:03.8974118+00:00"
 }

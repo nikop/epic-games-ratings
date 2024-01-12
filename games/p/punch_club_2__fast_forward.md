@@ -33,8 +33,8 @@
 | Intriguing candies | 51.00% | ~295 |
 | Own four walls | 50.00% | ~289 |
 | Employee of the year | 50.00% | ~289 |
+| Extreme neuropower! | 48.00% | ~277 |
 | Legal courier | 47.00% | ~272 |
-| Extreme neuropower! | 47.00% | ~272 |
 | Escaped from a big trouble | 45.00% | ~260 |
 | Now you are worthy | 40.00% | ~231 |
 | Fight is life | 40.00% | ~231 |

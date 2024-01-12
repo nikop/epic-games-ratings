@@ -6,9 +6,9 @@
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 296,
-  "Ranking_EOS_Completed": 259,
+  "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -307,11 +307,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1016,
+  "EOS_Progressed": 1017,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.3,
+  "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.4589703+00:00",
@@ -3622,6 +3622,11 @@
       "Time": "2024-01-12T20:08:29.0038388+00:00",
       "NumProgressed": 1016,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-12T21:08:24.5499074+00:00",
+      "NumProgressed": 1017,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3633,7 +3638,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "cool-shirts",
@@ -3681,7 +3686,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "kill-lieutenants",
@@ -3697,7 +3702,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "play-at-night",
@@ -3719,9 +3724,9 @@
       "ID": "rage-quit",
       "SetID": "bed33dd",
       "Name": "Bad Trip",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 447
+      "UsersEstimate": 458
     },
     {
       "ID": "rename-lieutenant",
@@ -3753,7 +3758,7 @@
       "Name": "Camellos",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "unlock-residences",
@@ -3761,7 +3766,7 @@
       "Name": "Pampered Life",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "upgrade-building",
@@ -3784,15 +3789,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 1016,
+      "Progressed": 1017,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-05T21:03:11.6844011+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:08:29.0038383+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:08:24.549907+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:39.3719101+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:03:01.098909+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:08:29.0038632+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:02:54.810772+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:08:24.5499348+00:00"
 }

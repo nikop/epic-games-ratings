@@ -30,12 +30,12 @@ Number of Ratings: 124  (23.09.2022)
 | Hunter | 8.00% | ~19 |
 | Beam Me Up | 7.00% | ~17 |
 | Hotshot | 7.00% | ~17 |
+| Detective | 7.00% | ~17 |
 | Treasure Hunter | 6.00% | ~14 |
 | Free as a Bird | 6.00% | ~14 |
-| Detective | 6.00% | ~14 |
+| Cleric | 6.00% | ~14 |
 | Weaponsmith | 5.00% | ~12 |
 | Alchemist | 5.00% | ~12 |
-| Cleric | 5.00% | ~12 |
 | Unbreakable | 4.00% | ~10 |
 | Self-Sufficient | 3.00% | ~7 |
 | Idealist | 3.00% | ~7 |

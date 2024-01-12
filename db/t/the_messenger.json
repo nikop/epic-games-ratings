@@ -4,11 +4,11 @@
   "ProductSlug": "the-messenger",
   "Ranking_Rating": 82,
   "Ranking_Popularity": 251,
-  "Ranking_PopularitySum": 359,
+  "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 581,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2019-11-14T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -832,6 +832,6 @@
   "FirstSeen": "2022-07-22T20:18:54.3850647+00:00",
   "LastChanged": "2024-01-12T16:59:47.3297925+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:18.6184374+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:59:13.5160375+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:09:47.7187914+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:59:03.8614175+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:09:41.2126284+00:00"
 }

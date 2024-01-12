@@ -2,10 +2,10 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 413,
+  "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 272,
+  "EOS_Progressed": 273,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1224,6 +1224,11 @@
       "Time": "2024-01-12T20:09:10.7360583+00:00",
       "NumProgressed": 272,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T21:09:05.2773175+00:00",
+      "NumProgressed": 273,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1306,9 +1311,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 194
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1332,7 +1337,7 @@
       "Name": "God Of The Sun",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SG_HEARTBREAKER",
@@ -1356,7 +1361,7 @@
       "Name": "Lost In A Song",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SG_MAESTRO",
@@ -1412,7 +1417,7 @@
       "Name": "Saying Goodbye",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SG_SHARETHISDANCE",
@@ -1531,14 +1536,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 272,
+      "Progressed": 273,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:09:10.7360577+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:09:05.277317+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:09.0015101+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:57:53.5463583+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:09:10.7360931+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:57:43.3583973+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:09:05.2773549+00:00"
 }

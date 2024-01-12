@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 35,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 581,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-05-28T15:00:00+00:00",
     "PcReleaseDate": "2012-09-18T15:00:00+00:00",
@@ -12429,10 +12429,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 41180,
       "NumberOfAwardsMax": 16444
+    },
+    {
+      "Time": "2024-01-12T20:57:00.1596269+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 41189,
+      "NumberOfAwardsMax": 16444
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41180,
+  "NumberOfAwards": 41189,
   "NumberOfAwardsMax": 16444,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -12452,13 +12458,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2705
+      "Count": 2709
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2734
+      "Count": 2736
     },
     {
       "Text": "This game is Great for Beginners",
@@ -12488,7 +12494,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2973
+      "Count": 2976
     },
     {
       "Text": "This game is Relaxing",
@@ -12520,8 +12526,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:04.5825777+00:00",
-  "LastChanged": "2024-01-12T19:02:27.8607529+00:00",
+  "LastChanged": "2024-01-12T20:57:00.1596268+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:17.3639154+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:02:27.8607537+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:03:33.5182035+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:57:00.1596274+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:03:27.2606249+00:00"
 }

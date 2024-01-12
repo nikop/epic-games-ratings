@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2223,
+  "EOS_Progressed": 2226,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8581,6 +8581,11 @@
       "Time": "2024-01-12T11:03:55.2807255+00:00",
       "NumProgressed": 2223,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T21:03:39.955073+00:00",
+      "NumProgressed": 2226,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8592,7 +8597,7 @@
       "Name": "Know The Enemy",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -8664,7 +8669,7 @@
       "Name": "Silver Achiever",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "objective_headquarters_10",
@@ -8680,7 +8685,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "objective_headquarters_20",
@@ -8704,7 +8709,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -8720,7 +8725,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -8752,7 +8757,7 @@
       "Name": "General",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "objective_key_alliance_help_2",
@@ -8768,7 +8773,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8784,7 +8789,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -8792,7 +8797,7 @@
       "Name": "Seek \u0026 Destroy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -8800,7 +8805,7 @@
       "Name": "Stocking Up",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -8816,7 +8821,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -8895,7 +8900,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2223,
+      "Progressed": 2226,
       "Completed": 1
     }
   ],
@@ -8903,8 +8908,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-01-12T17:58:59.9146024+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:03:46.6008718+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:03:39.9550725+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:28.5639018+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:59:14.6002983+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:03:46.6009372+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:59:04.6985491+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:03:39.9552022+00:00"
 }

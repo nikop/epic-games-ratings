@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -789,9 +789,9 @@
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
       "SetID": "ba1m2fc",
       "Name": "Wrecking Ball",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Epic_InnerWorld_1",
@@ -877,9 +877,9 @@
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "Epic_Revenge_1",
@@ -917,9 +917,9 @@
       "ID": "Epic_Shotgun_1",
       "SetID": "ba1m2fc",
       "Name": "Deadly Twin Cracks",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "Epic_SmallBell_1",
@@ -1004,8 +1004,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:05:46.0843812+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:05:34.7127641+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:14.6500108+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:00:43.6575406+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:05:46.0844518+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:02:38.4004427+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:05:34.7127989+00:00"
 }

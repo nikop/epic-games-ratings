@@ -35,8 +35,8 @@
 | Fanatacism is... poisonous | 12.00% | ~11 |
 | The beast in the Oval Office | 11.00% | ~10 |
 | The adventurer | 11.00% | ~10 |
+| Pulp! True Adventures | 11.00% | ~10 |
 | The scholar | 10.00% | ~9 |
-| Pulp! True Adventures | 10.00% | ~9 |
 | The barbarian invasions | 10.00% | ~9 |
 | ECO mode | 10.00% | ~9 |
 | America had no Faith | 10.00% | ~9 |

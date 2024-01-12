@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tyrant Rise | 16.00% | ~10 |
+| Tyrant Rise | 18.00% | ~11 |
 | Honor Medal | 16.00% | ~10 |
 | Great Civil War | 13.00% | ~8 |
 | Assassination | 11.00% | ~7 |

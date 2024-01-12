@@ -313,11 +313,11 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 18481,
-  "EOS_Completed": 318,
+  "EOS_Progressed": 18482,
+  "EOS_Completed": 319,
   "EOS_NewPlayers": 789,
   "EOS_NewCompleters": 24,
-  "EOS_Completed_Percentage": 1.72,
+  "EOS_Completed_Percentage": 1.73,
   "EosHistory": [
     {
       "Time": "2023-07-27T01:53:04.8005716+00:00",
@@ -9713,6 +9713,11 @@
       "Time": "2024-01-12T19:10:19.8732693+00:00",
       "NumProgressed": 18481,
       "NumCompleted": 318
+    },
+    {
+      "Time": "2024-01-12T21:09:37.5784606+00:00",
+      "NumProgressed": 18482,
+      "NumCompleted": 319
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -9725,7 +9730,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 16263
+      "UsersEstimate": 16264
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -9741,7 +9746,7 @@
       "Name": "My Dear Love!",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -9829,7 +9834,7 @@
       "Name": "Happy Family",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 5544
+      "UsersEstimate": 5545
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_21",
@@ -9861,7 +9866,7 @@
       "Name": "Love Actually",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 7577
+      "UsersEstimate": 7578
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -9885,7 +9890,7 @@
       "Name": "Counting Sheep?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
@@ -9909,7 +9914,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 10719
+      "UsersEstimate": 10720
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -9941,7 +9946,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 9240
+      "UsersEstimate": 9241
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -9973,7 +9978,7 @@
       "Name": "FIRST LOVE",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 5544
+      "UsersEstimate": 5545
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -9981,7 +9986,7 @@
       "Name": "Are You Alright?",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 8686
+      "UsersEstimate": 8687
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -10029,7 +10034,7 @@
       "Name": "Worthless Speech",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5544
+      "UsersEstimate": 5545
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_7",
@@ -10037,7 +10042,7 @@
       "Name": "Drama King",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6653
+      "UsersEstimate": 6654
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -10045,7 +10050,7 @@
       "Name": "This Ain\u0027t Right In Many Ways...",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_9",
@@ -10060,16 +10065,16 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 18481,
-      "Completed": 318
+      "Progressed": 18482,
+      "Completed": 319
     }
   ],
   "FirstSeen": "2023-10-18T10:00:20.8201425+00:00",
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-12T16:59:43.8842991+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:09:44.0405567+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:09:37.57846+00:00",
   "LastUpdate_AppInfo": "2024-01-06T03:57:10.1244373+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:59:11.121235+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:09:44.0406384+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:59:00.958019+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:09:37.5785526+00:00"
 }

@@ -26,6 +26,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 2.00% | ~331 |
 | Warrior | 2.00% | ~331 |
 | Developing Cities | 2.00% | ~331 |
+| Strong Cities | 2.00% | ~331 |
 | Hanging Gardens | 2.00% | ~331 |
 | Oracle | 2.00% | ~331 |
 | Pyramids | 2.00% | ~331 |
@@ -42,7 +43,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 1.00% | ~165 |
 | Magnificent | 1.00% | ~165 |
 | Wise | 1.00% | ~165 |
-| Strong Cities | 1.00% | ~165 |
+| Legendary Cities | 1.00% | ~165 |
 | Able Difficulty | 1.00% | ~165 |
 | Furious Family | 1.00% | ~165 |
 | Acropolis | 1.00% | ~165 |
@@ -60,12 +61,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 1.00% | ~165 |
 | Roman Paganism | 1.00% | ~165 |
 | Zoroastrianism | 1.00% | ~165 |
-| Legendary Cities | 0.90% | ~149 |
+| Hanging Gardens in Babylon | 0.90% | ~149 |
 | Just Difficulty | 0.90% | ~149 |
 | Colossus | 0.90% | ~149 |
 | Building Wonders | 0.90% | ~149 |
 | Mythology | 0.90% | ~149 |
-| Hanging Gardens in Babylon | 0.80% | ~132 |
 | Intercessor | 0.80% | ~132 |
 | Valiant | 0.80% | ~132 |
 | Artisans | 0.80% | ~132 |
@@ -80,9 +80,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.70% | ~116 |
 | Persian Paganism | 0.70% | ~116 |
 | Points Victory | 0.70% | ~116 |
+| Win a Single Player Game | 0.70% | ~116 |
 | Victorious | 0.60% | ~99 |
 | Landowners | 0.60% | ~99 |
 | Patrons | 0.60% | ~99 |
+| Circus Maximus | 0.60% | ~99 |
 | Hagia Sophia | 0.60% | ~99 |
 | Temple of Solomon | 0.60% | ~99 |
 | Pantheon | 0.60% | ~99 |
@@ -90,7 +92,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.60% | ~99 |
 | Legionary | 0.60% | ~99 |
 | Double Victory | 0.60% | ~99 |
-| Win a Single Player Game | 0.60% | ~99 |
 | Bad Heir Day | 0.50% | ~83 |
 | Capable | 0.50% | ~83 |
 | Conqueror | 0.50% | ~83 |
@@ -99,10 +100,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Riders | 0.50% | ~83 |
 | Traders | 0.50% | ~83 |
 | Hittite Iron | 0.50% | ~83 |
-| Circus Maximus | 0.50% | ~83 |
 | Industrial Progress | 0.50% | ~83 |
 | Military Prestige | 0.50% | ~83 |
 | Dualism | 0.50% | ~83 |
+| Enlightenment | 0.50% | ~83 |
 | Legalism | 0.50% | ~83 |
 | Cimmerian Archer | 0.50% | ~83 |
 | Ambition Victory | 0.50% | ~83 |
@@ -121,10 +122,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.40% | ~66 |
 | Rome | 0.40% | ~66 |
 | Assyrian Paganism | 0.40% | ~66 |
-| Enlightenment | 0.40% | ~66 |
 | Gnosticism | 0.40% | ~66 |
 | Redemption | 0.40% | ~66 |
 | Revelation | 0.40% | ~66 |
+| Veneration | 0.40% | ~66 |
 | Kushite Cavalry | 0.40% | ~66 |
 | Phalangite | 0.40% | ~66 |
 | Turreted Elephant | 0.40% | ~66 |
@@ -136,9 +137,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.30% | ~50 |
 | Cao'an | 0.30% | ~50 |
 | Egypt | 0.30% | ~50 |
+| Old World Order | 0.30% | ~50 |
 | One True Faith | 0.30% | ~50 |
 | Hittite Paganism | 0.30% | ~50 |
-| Veneration | 0.30% | ~50 |
 | Cataphract Archer | 0.30% | ~50 |
 | No Undo | 0.30% | ~50 |
 | Carthage - Ox Hide | 0.20% | ~33 |
@@ -147,7 +148,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eternal Treaty | 0.20% | ~33 |
 | Learn to Play 5 | 0.20% | ~33 |
 | Persia | 0.20% | ~33 |
-| Old World Order | 0.20% | ~33 |
 | Pantheon of Gods | 0.20% | ~33 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~33 |
 | Play a Network Game | 0.20% | ~33 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,535 (Ranked 170)  
+Progressed: 16,545 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -632,7 +632,7 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
-| 2024-01-12 | 16,535 | 5 |
+| 2024-01-12 | 16,545 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,921 (Ranked 224)  

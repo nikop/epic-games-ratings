@@ -8,9 +8,9 @@ Rating: 4.50 (Ranked 617)
 | Stylish | 11.00% | ~3,693 |
 | Meticulously Efficient | 9.00% | ~3,022 |
 | Advancement | 8.00% | ~2,686 |
-| Discovery | 6.00% | ~2,014 |
-| Solo Capture | 6.00% | ~2,014 |
-| Swift Rift Removers | 6.00% | ~2,014 |
+| Discovery | 6.00% | ~2,015 |
+| Solo Capture | 6.00% | ~2,015 |
+| Swift Rift Removers | 6.00% | ~2,015 |
 | Clutch Capture | 5.00% | ~1,679 |
 | I collect Spores, Molds, and Fungi | 5.00% | ~1,679 |
 | Fully Upgraded | 5.00% | ~1,679 |
@@ -33,13 +33,13 @@ Rating: 4.50 (Ranked 617)
 | Seasoned | 3.00% | ~1,007 |
 | Side Hustle | 3.00% | ~1,007 |
 | Summoner | 3.00% | ~1,007 |
-| Collector | 2.00% | ~671 |
-| Escape Artist | 2.00% | ~671 |
-| Reckless | 2.00% | ~671 |
-| Skilled | 2.00% | ~671 |
-| Stunner | 2.00% | ~671 |
-| Tobin's Prodigy | 2.00% | ~671 |
-| Welcome to the Crew | 2.00% | ~671 |
+| Collector | 2.00% | ~672 |
+| Escape Artist | 2.00% | ~672 |
+| Reckless | 2.00% | ~672 |
+| Skilled | 2.00% | ~672 |
+| Stunner | 2.00% | ~672 |
+| Tobin's Prodigy | 2.00% | ~672 |
+| Welcome to the Crew | 2.00% | ~672 |
 | Diabolical | 1.00% | ~336 |
 | Fragile Panes | 1.00% | ~336 |
 | Liability | 1.00% | ~336 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 617)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,574 (Ranked 139)  
+Progressed: 33,576 (Ranked 139)  
 Completed: 71 (0.21%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 71 (0.21%) (Ranked 279)
 | 2024-01-09 | 33,497 | 71 |
 | 2024-01-10 | 33,517 | 71 |
 | 2024-01-11 | 33,549 | 71 |
-| 2024-01-12 | 33,574 | 71 |
+| 2024-01-12 | 33,576 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 257)  
 Sum: 2,961 (Ranked 187)  

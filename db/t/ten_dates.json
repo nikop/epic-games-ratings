@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
     "PcReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -1567,9 +1567,9 @@
       "ID": "profile_misha",
       "SetID": "6h5h9ho",
       "Name": "Let it begin",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 236
     },
     {
       "ID": "profile_ryan",
@@ -1696,8 +1696,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:09:48.2765529+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:09:41.6748891+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.8807214+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:00:33.8928607+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:09:48.2765726+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:02:29.1131445+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:09:41.6749148+00:00"
 }

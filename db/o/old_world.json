@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2250,9 +2250,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16535,
+  "EOS_Progressed": 16545,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 411,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19750,6 +19750,11 @@
       "Time": "2024-01-12T20:10:18.0699413+00:00",
       "NumProgressed": 16535,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-12T21:10:09.8992538+00:00",
+      "NumProgressed": 16545,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19839,9 +19844,9 @@
       "ID": "ACHIEVEMENT_BABYLON_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens in Babylon",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 149
     },
     {
       "ID": "ACHIEVEMENT_BABYLON_ISHTAR_GATE",
@@ -20463,17 +20468,17 @@
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
       "SetID": "9201eeb",
       "Name": "Legendary Cities",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 149
+      "UsersEstimate": 165
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_STRONG",
       "SetID": "9201eeb",
       "Name": "Strong Cities",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 165
+      "UsersEstimate": 331
     },
     {
       "ID": "ACHIEVEMENT_DAMASCUS_VIA_RECTA_SOUK",
@@ -21095,9 +21100,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
       "SetID": "9201eeb",
       "Name": "Circus Maximus",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
@@ -21423,9 +21428,9 @@
       "ID": "ACHIEVEMENT_OLD_WORLD_ORDER",
       "SetID": "9201eeb",
       "Name": "Old World Order",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_ONE_TRUE_FAITH",
@@ -21727,9 +21732,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
       "SetID": "7l38kb8",
       "Name": "Enlightenment",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
@@ -21775,9 +21780,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
       "SetID": "7l38kb8",
       "Name": "Veneration",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_THE_WORD_OF_GOD",
@@ -22031,9 +22036,9 @@
       "ID": "ACHIEVEMENT_WIN_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Win a Single Player Game",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
@@ -22624,21 +22629,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16535,
+      "Progressed": 16545,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16535,
+      "Progressed": 16545,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-11T21:59:00.3473334+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:10:18.0699408+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:10:09.8992532+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:58:51.1261555+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:10:18.070995+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:58:40.2615095+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:10:09.9003076+00:00"
 }

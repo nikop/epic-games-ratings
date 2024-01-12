@@ -11,10 +11,10 @@ Rating: 4.85 (Ranked 40)
 | The Preacher's fate | 44.00% | ~1,196 |
 | A new dawn | 37.00% | ~1,006 |
 | Scholar | 33.00% | ~897 |
+| The darkness | 32.00% | ~870 |
 | A good beginning | 31.00% | ~843 |
 | True G3M4R | 31.00% | ~843 |
-| The darkness | 31.00% | ~843 |
-| One last step | 28.00% | ~761 |
+| One last step | 29.00% | ~789 |
 | I did it | 27.00% | ~734 |
 | Cable guy | 27.00% | ~734 |
 | Half the way | 27.00% | ~734 |
@@ -24,7 +24,7 @@ Rating: 4.85 (Ranked 40)
 | Champollion | 26.00% | ~707 |
 | Open door | 22.00% | ~598 |
 | Feels like springtime | 22.00% | ~598 |
-| Alchemists Express | 21.00% | ~571 |
+| Alchemists Express | 22.00% | ~598 |
 | Free at last | 19.00% | ~517 |
 | A Link to the Past | 17.00% | ~462 |
 | A great audience | 14.00% | ~381 |

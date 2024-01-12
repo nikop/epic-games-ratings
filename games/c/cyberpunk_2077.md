@@ -6,49 +6,49 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~125,781 |
-| The Fool | 11.00% | ~115,300 |
-| Right Back At Ya | 9.00% | ~94,336 |
-| Gun Fu | 9.00% | ~94,336 |
-| The Lovers | 8.00% | ~83,854 |
-| Full Body Conversion | 7.00% | ~73,372 |
-| Christmas Tree Attack | 6.00% | ~62,891 |
-| Stanislavski's Method | 6.00% | ~62,891 |
-| The Hermit | 6.00% | ~62,891 |
-| The Wheel of Fortune | 6.00% | ~62,891 |
-| True Soldier | 6.00% | ~62,891 |
-| All the President's Men | 6.00% | ~10,608 |
-| Arachnophobia | 6.00% | ~10,608 |
-| The High Priestess | 5.00% | ~52,409 |
-| Legend of The Afterlife | 5.00% | ~52,409 |
-| Master Crafter | 4.00% | ~41,927 |
-| Life of the Road | 4.00% | ~41,927 |
-| True Warrior | 4.00% | ~41,927 |
-| Bushido and Chill | 3.00% | ~31,445 |
-| I Am The Law | 3.00% | ~31,445 |
-| The Quick and the Dead | 3.00% | ~31,445 |
-| The World | 3.00% | ~31,445 |
-| Two Heads, One Bullet | 3.00% | ~31,445 |
-| Judy vs Night City | 3.00% | ~31,445 |
-| Relic Ruler | 3.00% | ~5,304 |
-| To Protect and Serve | 2.00% | ~20,964 |
-| The Wandering Fool | 2.00% | ~20,964 |
-| The Sun | 2.00% | ~20,964 |
-| Spin Doctor | 2.00% | ~3,536 |
-| King of Wands | 2.00% | ~3,536 |
-| Easy Come, Easy Go | 2.00% | ~3,536 |
+| V for Vendetta | 12.00% | ~125,789 |
+| The Fool | 11.00% | ~115,307 |
+| Right Back At Ya | 9.00% | ~94,342 |
+| Gun Fu | 9.00% | ~94,342 |
+| The Lovers | 8.00% | ~83,860 |
+| Full Body Conversion | 7.00% | ~73,377 |
+| Christmas Tree Attack | 6.00% | ~62,895 |
+| Stanislavski's Method | 6.00% | ~62,895 |
+| The Hermit | 6.00% | ~62,895 |
+| The Wheel of Fortune | 6.00% | ~62,895 |
+| True Soldier | 6.00% | ~62,895 |
+| All the President's Men | 6.00% | ~10,612 |
+| Arachnophobia | 6.00% | ~10,612 |
+| The High Priestess | 5.00% | ~52,412 |
+| Legend of The Afterlife | 5.00% | ~52,412 |
+| Master Crafter | 4.00% | ~41,930 |
+| Life of the Road | 4.00% | ~41,930 |
+| True Warrior | 4.00% | ~41,930 |
+| Bushido and Chill | 3.00% | ~31,447 |
+| I Am The Law | 3.00% | ~31,447 |
+| The Quick and the Dead | 3.00% | ~31,447 |
+| The World | 3.00% | ~31,447 |
+| Two Heads, One Bullet | 3.00% | ~31,447 |
+| Judy vs Night City | 3.00% | ~31,447 |
+| Relic Ruler | 3.00% | ~5,306 |
+| To Protect and Serve | 2.00% | ~20,965 |
+| The Wandering Fool | 2.00% | ~20,965 |
+| The Sun | 2.00% | ~20,965 |
+| Spin Doctor | 2.00% | ~3,537 |
+| King of Wands | 2.00% | ~3,537 |
+| Easy Come, Easy Go | 2.00% | ~3,537 |
 | To Bad Decisions! | 1.00% | ~10,482 |
 | Breathtaking | 1.00% | ~10,482 |
 | Ten out of Ten | 1.00% | ~10,482 |
 | The Star | 1.00% | ~10,482 |
-| Dirty Deeds | 1.00% | ~1,768 |
+| Dirty Deeds | 1.00% | ~1,769 |
 | Autojock | 0.90% | ~9,434 |
-| The APB is Not Enough | 0.90% | ~1,591 |
-| Judgement Day | 0.90% | ~1,591 |
-| The Tower | 0.90% | ~1,591 |
-| Temperance | 0.80% | ~8,385 |
-| King of Swords | 0.80% | ~1,414 |
-| Must Be Rats | 0.70% | ~7,337 |
+| The APB is Not Enough | 0.90% | ~1,592 |
+| Judgement Day | 0.90% | ~1,592 |
+| The Tower | 0.90% | ~1,592 |
+| Temperance | 0.80% | ~8,386 |
+| King of Swords | 0.80% | ~1,415 |
+| Must Be Rats | 0.70% | ~7,338 |
 | King of Pentacles | 0.70% | ~1,238 |
 | King of Cups | 0.50% | ~884 |
 | City Lights | 0.40% | ~4,193 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,048,178 (Ranked 17)  
-Completed: 3,077 (0.29%) (Ranked 262)  
+Progressed: 1,048,245 (Ranked 17)  
+Completed: 3,079 (0.29%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -341,7 +341,7 @@ Completed: 3,077 (0.29%) (Ranked 262)
 | 2024-01-09 | 1,040,592 | 3,059 |
 | 2024-01-10 | 1,044,342 | 3,067 |
 | 2024-01-11 | 1,046,687 | 3,071 |
-| 2024-01-12 | 1,048,178 | 3,077 |
+| 2024-01-12 | 1,048,245 | 3,079 |
 ## Awards
 Max (Character Customization): 138,203  (Ranked 8)  
 Sum: 487,149 (Ranked 8)  

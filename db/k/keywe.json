@@ -2,10 +2,10 @@
   "ID": "2f85e4b21b8b459fa78a34e59ccac2a2",
   "Name": "KeyWe",
   "ProductSlug": "keywe-c3a70e",
-  "Ranking_EOS_Progress": 446,
+  "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
     "PcReleaseDate": "2021-08-31T00:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 173,
+  "EOS_Progressed": 175,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -735,6 +735,11 @@
       "Time": "2024-01-12T16:04:24.2767116+00:00",
       "NumProgressed": 173,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T21:04:25.9053431+00:00",
+      "NumProgressed": 175,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:04:51.255408+00:00",
@@ -793,9 +798,9 @@
       "ID": "beatOwnScore",
       "SetID": "cfe0fhi",
       "Name": "Practice Makes Postmasters",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 65
     },
     {
       "ID": "completeFall",
@@ -803,7 +808,7 @@
       "Name": "Pumpkins and Postage Stamps",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "completeGame",
@@ -819,15 +824,15 @@
       "Name": "You\u0027re Hired",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 170
     },
     {
       "ID": "completeSummer",
       "SetID": "cfe0fhi",
       "Name": "Fun in the Bungalow Basin Sun",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 65
     },
     {
       "ID": "completeTheFirstWeek",
@@ -835,15 +840,15 @@
       "Name": "Learn the Ropes",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "findFirstCollectible",
       "SetID": "cfe0fhi",
       "Name": "A Startling Discovery",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 54
     },
     {
       "ID": "getABonusReward",
@@ -883,7 +888,7 @@
       "Name": "Summer Postmasters",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "goldOnWinter",
@@ -906,13 +911,13 @@
     {
       "ID": "cfe0fhi",
       "IsBase": true,
-      "Progressed": 173,
+      "Progressed": 175,
       "Completed": 0
     },
     {
       "ID": "cfj6lld",
       "IsBase": false,
-      "Progressed": 173,
+      "Progressed": 175,
       "Completed": 0
     }
   ],
@@ -920,8 +925,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:04:34.0894272+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:04:25.9053425+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.6179854+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:00:31.9560043+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:04:34.08945+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:02:27.0721905+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:04:25.9053857+00:00"
 }

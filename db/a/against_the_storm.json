@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3923,9 +3923,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 20723,
+  "EOS_Progressed": 20726,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 508,
+  "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19428,6 +19428,11 @@
       "Time": "2024-01-12T19:07:21.6383024+00:00",
       "NumProgressed": 20723,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-12T21:05:43.2109382+00:00",
+      "NumProgressed": 20726,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19440,7 +19445,7 @@
       "Name": "Serving Ale",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "AllFood",
@@ -19486,9 +19491,9 @@
       "ID": "HumanUtopia",
       "SetID": "cfbk359",
       "Name": "Human Utopia",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 83
     },
     {
       "ID": "LizardUtopia",
@@ -19544,7 +19549,7 @@
       "Name": "Against All Odds",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "WinNearArmory",
@@ -19584,7 +19589,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "WinNearDangerous",
@@ -19608,7 +19613,7 @@
       "Name": "Fishmen Ritual Site",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "WinNearForbidden",
@@ -19624,15 +19629,15 @@
       "Name": "Haunted Forest",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "WinNearLevitating",
       "SetID": "cfbk359",
       "Name": "Levitating Monument",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 829
     },
     {
       "ID": "WinNearMines",
@@ -19640,7 +19645,7 @@
       "Name": "Flooded Mines",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "WinNearMonastery",
@@ -19728,7 +19733,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "WinPrestige10",
@@ -19784,7 +19789,7 @@
       "Name": "Victory Through Prosperity",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "WinWithRuins",
@@ -19824,7 +19829,7 @@
       "Name": "Defying the Crown",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "Year1Dangerous",
@@ -19832,7 +19837,7 @@
       "Name": "Into the Forest",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "WinNearAbandoned",
@@ -19880,7 +19885,7 @@
       "Name": "Ominous Presence",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "WinNearStorms",
@@ -19888,7 +19893,7 @@
       "Name": "Gathering Storm",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -19911,15 +19916,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20723,
+      "Progressed": 20726,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-12T19:00:59.8020606+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:05:54.5650589+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:05:43.2109377+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:59:45.8667638+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:05:54.5652451+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:59:33.6210161+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:05:43.2110508+00:00"
 }

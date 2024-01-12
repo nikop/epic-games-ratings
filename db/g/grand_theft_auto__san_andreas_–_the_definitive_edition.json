@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2419,9 +2419,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 19431,
+  "EOS_Progressed": 19432,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 950,
+  "EOS_NewPlayers": 943,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -20134,6 +20134,11 @@
       "Time": "2024-01-12T20:10:06.3014305+00:00",
       "NumProgressed": 19431,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-12T21:09:58.3638184+00:00",
+      "NumProgressed": 19432,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 35,
@@ -20145,7 +20150,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15739
+      "UsersEstimate": 15740
     },
     {
       "ID": "ACH02",
@@ -20361,7 +20366,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "ACH29",
@@ -20424,7 +20429,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19431,
+      "Progressed": 19432,
       "Completed": 77
     }
   ],
@@ -20432,8 +20437,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-12T14:03:01.5229403+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:10:06.3014296+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:09:58.3638179+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:02:51.9907732+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:10:06.3015575+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:02:45.375038+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:09:58.3639207+00:00"
 }

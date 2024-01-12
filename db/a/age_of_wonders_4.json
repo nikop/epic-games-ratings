@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -777,9 +777,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7205,
+  "EOS_Progressed": 7208,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11122,6 +11122,11 @@
       "Time": "2024-01-12T19:04:46.5111859+00:00",
       "NumProgressed": 7205,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-12T21:03:54.5790323+00:00",
+      "NumProgressed": 7208,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -11133,7 +11138,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "10",
@@ -11149,7 +11154,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "12",
@@ -11173,7 +11178,7 @@
       "Name": "Full Ascension",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "15",
@@ -11301,7 +11306,7 @@
       "Name": "Stronger Together",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "3",
@@ -11325,7 +11330,7 @@
       "Name": "Magical Synergy",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "32",
@@ -11341,7 +11346,7 @@
       "Name": "Seat of Power",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "34",
@@ -11349,7 +11354,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "35",
@@ -11405,7 +11410,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "41",
@@ -11515,9 +11520,9 @@
       "ID": "49",
       "SetID": "7132754",
       "Name": "Mighty Hoard",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 144
+      "UsersEstimate": 216
     },
     {
       "ID": "50",
@@ -11612,13 +11617,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7205,
+      "Progressed": 7208,
       "Completed": 4767
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7205,
+      "Progressed": 7208,
       "Completed": 7
     }
   ],
@@ -11626,8 +11631,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-11T22:58:38.2332491+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:04:01.2414975+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:03:54.5790319+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:59:07.2658938+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:04:01.2415791+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:58:57.3006195+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:03:54.5791413+00:00"
 }

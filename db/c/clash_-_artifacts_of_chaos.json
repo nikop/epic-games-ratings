@@ -2,10 +2,10 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 455,
+  "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 161,
+  "EOS_Progressed": 162,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -546,6 +546,11 @@
       "Time": "2024-01-12T05:09:57.1305688+00:00",
       "NumProgressed": 161,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T21:09:58.8789221+00:00",
+      "NumProgressed": 162,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -555,9 +560,9 @@
       "ID": "Achievement1",
       "SetID": "jf6ho5",
       "Name": "Freedom",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 35,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "Achievement10",
@@ -573,7 +578,7 @@
       "Name": "Your Training Continues",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Achievement12",
@@ -603,17 +608,17 @@
       "ID": "Achievement15",
       "SetID": "jf6ho5",
       "Name": "Target Practice",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 75
     },
     {
       "ID": "Achievement16",
       "SetID": "jf6ho5",
       "Name": "The Bigger They Are",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "Achievement17",
@@ -621,7 +626,7 @@
       "Name": "Declawing",
       "Percentage": 64,
       "XP": 35,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "Achievement18",
@@ -635,9 +640,9 @@
       "ID": "Achievement19",
       "SetID": "jf6ho5",
       "Name": "Corwid Hill",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement2",
@@ -645,7 +650,7 @@
       "Name": "Winner",
       "Percentage": 22,
       "XP": 35,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Achievement20",
@@ -669,7 +674,7 @@
       "Name": "Enemies of Fate",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Achievement4",
@@ -693,7 +698,7 @@
       "Name": "Total Eclipse",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Achievement7",
@@ -707,9 +712,9 @@
       "ID": "Achievement8",
       "SetID": "jf6ho5",
       "Name": "Armored",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement9",
@@ -717,14 +722,14 @@
       "Name": "Dreamwalker",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 161,
+      "Progressed": 162,
       "Completed": 1
     }
   ],
@@ -732,8 +737,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:10:06.736595+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:09:58.8789217+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:53.0986152+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:58:30.869206+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:10:06.7366086+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:58:19.7017385+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:09:58.8789429+00:00"
 }

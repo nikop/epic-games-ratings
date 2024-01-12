@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -1048,9 +1048,9 @@
       "ID": "j3",
       "SetID": "b1ggf28",
       "Name": "Knowledge is Infinite",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "jg1",
@@ -1319,8 +1319,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:08:15.9192191+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:08:11.9431555+00:00",
   "LastUpdate_AppInfo": "2024-01-10T06:57:05.6487143+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:03:03.7126579+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:08:15.9192565+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:02:57.4628718+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:08:11.9431938+00:00"
 }

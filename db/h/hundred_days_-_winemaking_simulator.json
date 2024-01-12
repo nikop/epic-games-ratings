@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 228,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1117,9 +1117,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 20356,
+  "EOS_Progressed": 20363,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1071,
+  "EOS_NewPlayers": 1064,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -17072,6 +17072,11 @@
       "Time": "2024-01-12T20:09:48.4537131+00:00",
       "NumProgressed": 20356,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-12T21:09:41.8159763+00:00",
+      "NumProgressed": 20363,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -17132,7 +17137,7 @@
       "Name": "Bye Bye",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 8753
+      "UsersEstimate": 8756
     },
     {
       "ID": "a_19",
@@ -17140,7 +17145,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "a_2",
@@ -17156,7 +17161,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "a_21",
@@ -17164,7 +17169,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "a_22",
@@ -17172,7 +17177,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "a_23",
@@ -17180,7 +17185,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "a_25",
@@ -17292,7 +17297,7 @@
       "Name": "Treasure of Roero",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "a_6",
@@ -17331,7 +17336,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 20356,
+      "Progressed": 20363,
       "Completed": 13
     }
   ],
@@ -17339,8 +17344,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-06T23:58:14.6842319+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:09:48.4537124+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:09:41.8159758+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:04.08822+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:57:33.0697944+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:09:48.4538509+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:57:26.5226399+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:09:41.8160789+00:00"
 }

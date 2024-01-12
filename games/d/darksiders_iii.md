@@ -6,7 +6,7 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~439 |
+| Green with Envy | 78.00% | ~445 |
 | First of many… | 68.00% | ~388 |
 | Helping Hand | 65.00% | ~370 |
 | Increased Vigor | 60.00% | ~342 |
@@ -24,20 +24,20 @@ Number of Ratings: 116  (23.09.2022)
 | Salvation | 38.00% | ~217 |
 | Soul Harvester | 36.00% | ~205 |
 | Unshakable Fortitude | 35.00% | ~200 |
+| I Wanna Rock | 34.00% | ~194 |
 | Delusions of Grandeur | 34.00% | ~194 |
-| I Wanna Rock | 33.00% | ~188 |
 | Love Tap | 33.00% | ~188 |
 | Maximum Vigor | 31.00% | ~177 |
 | Freeze Frame | 30.00% | ~171 |
 | Eat Your Heart Out | 30.00% | ~171 |
 | For Whom the Bell Tolls | 29.00% | ~165 |
 | Unyielding Strength | 26.00% | ~148 |
+| Can you restore the Balance? | 26.00% | ~148 |
 | Big Spender | 26.00% | ~148 |
-| Can you restore the Balance? | 25.00% | ~142 |
 | Crowd Source | 25.00% | ~142 |
 | Cleanup Crew | 24.00% | ~137 |
-| Demon Meddler | 23.00% | ~131 |
-| Seeing Red | 23.00% | ~131 |
+| Demon Meddler | 24.00% | ~137 |
+| Seeing Red | 24.00% | ~137 |
 | Maximum Capacity | 22.00% | ~125 |
 | Egomaniac | 21.00% | ~120 |
 | Protector of Humanity | 20.00% | ~114 |

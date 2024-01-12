@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -163,7 +163,7 @@
   "Tags": [],
   "EOS_Progressed": 1687,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5043,9 +5043,9 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1501
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
@@ -5155,9 +5155,9 @@
       "ID": "GSS_ACH_35_BROOM_01",
       "SetID": "5fn8ia4",
       "Name": "Broomed",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1552
     },
     {
       "ID": "GSS_ACH_36_BROOM_02",
@@ -5267,9 +5267,9 @@
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 4",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 894
+      "UsersEstimate": 911
     },
     {
       "ID": "GSS_ACH_50_UPGRADE_STATION_04",
@@ -5531,9 +5531,9 @@
       "ID": "GSS_ACH_89_DECORATION_03",
       "SetID": "5fn8ia4",
       "Name": "Decorating A Lot",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 236
+      "UsersEstimate": 253
     }
   ],
   "AchievementSets": [
@@ -5548,8 +5548,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-12T15:00:59.7765228+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:06:20.332994+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:06:08.5656506+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.4325477+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:59:55.0970132+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:06:20.3331122+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:59:43.3175383+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:06:08.5657552+00:00"
 }

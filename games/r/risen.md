@@ -34,7 +34,7 @@ Rating: 4.56 (Ranked 511)
 | Pandora's box | 13.00% | ~25 |
 | Peacekeeper | 12.00% | ~23 |
 | Defender | 11.00% | ~21 |
-| Showdown | 10.00% | ~19 |
+| Showdown | 11.00% | ~21 |
 | Workaholic | 10.00% | ~19 |
 | Titan Lord | 9.00% | ~17 |
 | Safecracker | 9.00% | ~17 |

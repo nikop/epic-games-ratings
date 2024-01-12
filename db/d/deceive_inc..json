@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19321,
+  "EOS_Progressed": 19324,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14690,6 +14690,11 @@
       "Time": "2024-01-12T10:05:53.9138116+00:00",
       "NumProgressed": 19321,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-12T21:05:57.1042452+00:00",
+      "NumProgressed": 19324,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14701,7 +14706,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5796
+      "UsersEstimate": 5797
     },
     {
       "ID": "0002",
@@ -14765,7 +14770,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4444
+      "UsersEstimate": 4445
     },
     {
       "ID": "0010",
@@ -14789,7 +14794,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3091
+      "UsersEstimate": 3092
     },
     {
       "ID": "0013",
@@ -14805,7 +14810,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3091
+      "UsersEstimate": 3092
     },
     {
       "ID": "0015",
@@ -14909,7 +14914,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2126
     },
     {
       "ID": "0028",
@@ -14917,7 +14922,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4444
+      "UsersEstimate": 4445
     },
     {
       "ID": "0029",
@@ -14941,7 +14946,7 @@
       "Name": "Private Collection",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2126
     },
     {
       "ID": "0032",
@@ -14949,7 +14954,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2126
     },
     {
       "ID": "0033",
@@ -14957,7 +14962,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2126
     },
     {
       "ID": "0034",
@@ -14988,7 +14993,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19321,
+      "Progressed": 19324,
       "Completed": 4
     }
   ],
@@ -14996,8 +15001,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:06:08.4332407+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:05:57.1042447+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:47.8848382+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:58:25.7132427+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:06:08.4333515+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:58:15.0315789+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:05:57.1043412+00:00"
 }

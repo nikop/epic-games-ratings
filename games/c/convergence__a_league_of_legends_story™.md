@@ -6,8 +6,8 @@ Rating: 4.70 (Ranked 220)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 47.00% | ~617 |
+| The Mysterious Stranger | 35.00% | ~459 |
 | Rail Rat | 35.00% | ~459 |
-| The Mysterious Stranger | 34.00% | ~446 |
 | Immaculate Aim | 29.00% | ~380 |
 | The Brass Boss | 28.00% | ~367 |
 | Time Flies | 27.00% | ~354 |
@@ -22,9 +22,9 @@ Rating: 4.70 (Ranked 220)
 | Right On Time | 23.00% | ~302 |
 | Breaking Down Barriers | 23.00% | ~302 |
 | The Wicked Twins | 23.00% | ~302 |
+| The Betrayer | 22.00% | ~289 |
 | Golem Chaser | 22.00% | ~289 |
 | Like Clockwork | 21.00% | ~276 |
-| The Betrayer | 21.00% | ~276 |
 | The Loose Cannon | 20.00% | ~262 |
 | Check Your Pulse | 20.00% | ~262 |
 | Street Style | 18.00% | ~236 |
@@ -39,7 +39,7 @@ Rating: 4.70 (Ranked 220)
 | Treasure Trove | 12.00% | ~157 |
 | Cartographer | 12.00% | ~157 |
 | Sump Explorer | 12.00% | ~157 |
-| Factorywood Explorer | 10.00% | ~131 |
+| Factorywood Explorer | 11.00% | ~144 |
 | Fairgrounds Explorer | 10.00% | ~131 |
 | Theater Explorer | 10.00% | ~131 |
 | Cultivair Explorer | 9.00% | ~118 |

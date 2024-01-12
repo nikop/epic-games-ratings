@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -71,7 +71,7 @@
   "Tags": [],
   "EOS_Progressed": 1312,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -4087,9 +4087,9 @@
       "ID": "FactorywoodChests1",
       "SetID": "a9e499d",
       "Name": "Factorywood Explorer",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 144
     },
     {
       "ID": "FairgroundsChests1",
@@ -4103,17 +4103,17 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 459
     },
     {
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 289
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -4416,8 +4416,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-12T11:57:31.6661727+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:10:14.6795823+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:10:06.5595509+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:57:39.5598154+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:10:14.679637+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:57:30.7020471+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:10:06.5596179+00:00"
 }

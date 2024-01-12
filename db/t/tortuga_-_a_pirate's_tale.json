@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 375,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -293,7 +293,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17505,
+  "EOS_Progressed": 17506,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
@@ -8378,6 +8378,11 @@
       "Time": "2024-01-12T19:09:00.3749508+00:00",
       "NumProgressed": 17505,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T21:08:40.5055682+00:00",
+      "NumProgressed": 17506,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -8389,7 +8394,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16630
+      "UsersEstimate": 16631
     },
     {
       "ID": "ACH001",
@@ -8397,7 +8402,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 15054
+      "UsersEstimate": 15055
     },
     {
       "ID": "ACH0010",
@@ -8421,7 +8426,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8577
+      "UsersEstimate": 8578
     },
     {
       "ID": "ACH0013",
@@ -8437,7 +8442,7 @@
       "Name": "Sharing Is Caring",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1750
+      "UsersEstimate": 1751
     },
     {
       "ID": "ACH0015",
@@ -8549,7 +8554,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 15229
+      "UsersEstimate": 15230
     },
     {
       "ID": "ACH005",
@@ -8596,7 +8601,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17505,
+      "Progressed": 17506,
       "Completed": 1
     }
   ],
@@ -8604,8 +8609,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2024-01-11T23:59:56.1760647+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:08:45.7556037+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:08:40.5055676+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:10.6705655+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:00:30.5104273+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:08:45.7556694+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:02:25.7584474+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:08:40.5056344+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 467,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -950,9 +950,9 @@
       "ID": "beat_c3_silver",
       "SetID": "3448go",
       "Name": "Power-Ups and Downs",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "beat_c3a_bronze",
@@ -1389,8 +1389,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:04:15.0435701+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:04:07.8119265+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:03.57847+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:58:13.1408402+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:04:15.0436741+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:58:03.6575115+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:04:07.8120069+00:00"
 }

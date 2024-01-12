@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -488,7 +488,7 @@
   ],
   "EOS_Progressed": 570,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2222,9 +2222,9 @@
       "ID": "Collect_Hollow_Force",
       "SetID": "7a5k76n",
       "Name": "I Wanna Rock",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 194
     },
     {
       "ID": "Collect_Hollow_Stasis",
@@ -2286,9 +2286,9 @@
       "ID": "Craft_Enhancement_Balanced_1",
       "SetID": "7a5k76n",
       "Name": "Can you restore the Balance?",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 148
     },
     {
       "ID": "Craft_Enhancement_Balanced_5",
@@ -2430,9 +2430,9 @@
       "ID": "Kill_Demon_Abraxis",
       "SetID": "7a5k76n",
       "Name": "Demon Meddler",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 137
     },
     {
       "ID": "Kill_Demon_Kraken",
@@ -2478,9 +2478,9 @@
       "ID": "Kill_Sin_Envy",
       "SetID": "7a5k76n",
       "Name": "Green with Envy",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 439
+      "UsersEstimate": 445
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -2518,9 +2518,9 @@
       "ID": "Kill_Sin_Wrath",
       "SetID": "7a5k76n",
       "Name": "Seeing Red",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 137
     },
     {
       "ID": "Level_Up_100",
@@ -2646,8 +2646,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-11T19:59:53.1108333+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:05:43.1127888+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:05:32.1372031+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:59:20.5778759+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:05:43.1128583+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:59:10.45562+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:05:32.1372785+00:00"
 }

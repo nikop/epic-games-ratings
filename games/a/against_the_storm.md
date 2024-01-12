@@ -15,37 +15,37 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overcoming Difficulty | 7.00% | ~1,451 |
 | Coral Forest | 7.00% | ~1,451 |
 | The Marshlands | 7.00% | ~1,451 |
-| The Scarlet Orchard | 6.00% | ~1,243 |
-| Ominous Presence | 6.00% | ~1,243 |
-| Gathering Storm | 6.00% | ~1,243 |
+| The Scarlet Orchard | 6.00% | ~1,244 |
+| Ominous Presence | 6.00% | ~1,244 |
+| Gathering Storm | 6.00% | ~1,244 |
 | Royal Outpost | 5.00% | ~1,036 |
 | Watchtower | 5.00% | ~1,036 |
 | Frosts | 5.00% | ~1,036 |
 | Land of Greed | 5.00% | ~1,036 |
 | Homesick | 4.00% | ~829 |
 | Fertile Meadows | 4.00% | ~829 |
+| Levitating Monument | 4.00% | ~829 |
 | Monastery of the Holy Flame | 4.00% | ~829 |
 | A Real Challenge | 4.00% | ~829 |
 | Ruined Armory | 3.00% | ~622 |
 | Bandit Camp | 3.00% | ~622 |
 | Barren Lands | 3.00% | ~622 |
 | Ancient Battleground | 3.00% | ~622 |
-| Levitating Monument | 3.00% | ~622 |
 | Lost Colonies | 3.00% | ~622 |
 | Statue of the Forefathers | 3.00% | ~622 |
 | Corrosive Torrent | 3.00% | ~622 |
 | Cursed Lands | 3.00% | ~622 |
 | Trade Baron | 3.00% | ~622 |
 | Untamed Wilds | 3.00% | ~622 |
-| Serving Ale | 2.00% | ~414 |
-| Against All Odds | 2.00% | ~414 |
-| Sparkdew Crystals | 2.00% | ~414 |
-| Fishmen Ritual Site | 2.00% | ~414 |
-| Haunted Forest | 2.00% | ~414 |
-| Flooded Mines | 2.00% | ~414 |
-| Victory Through Prosperity | 2.00% | ~414 |
-| Defying the Crown | 2.00% | ~414 |
-| Into the Forest | 2.00% | ~414 |
+| Serving Ale | 2.00% | ~415 |
+| Against All Odds | 2.00% | ~415 |
+| Sparkdew Crystals | 2.00% | ~415 |
+| Fishmen Ritual Site | 2.00% | ~415 |
+| Haunted Forest | 2.00% | ~415 |
+| Flooded Mines | 2.00% | ~415 |
+| Victory Through Prosperity | 2.00% | ~415 |
+| Defying the Crown | 2.00% | ~415 |
+| Into the Forest | 2.00% | ~415 |
 | Efficient Explorer | 1.00% | ~207 |
 | Refinery | 1.00% | ~207 |
 | Dangerous Lands | 1.00% | ~207 |
@@ -56,7 +56,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Prestigious Expedition | 0.50% | ~104 |
 | Blood Flower Farmer | 0.50% | ~104 |
 | Fox Utopia | 0.50% | ~104 |
-| Human Utopia | 0.30% | ~62 |
+| Human Utopia | 0.40% | ~83 |
 | Lizard Utopia | 0.30% | ~62 |
 | Beaver Utopia | 0.20% | ~41 |
 | Harpy Utopia | 0.20% | ~41 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,723 (Ranked 155)  
+Progressed: 20,726 (Ranked 155)  
 Completed: 34 (0.16%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 34 (0.16%) (Ranked 287)
 | 2024-01-09 | 20,595 | 34 |
 | 2024-01-10 | 20,658 | 34 |
 | 2024-01-11 | 20,700 | 34 |
-| 2024-01-12 | 20,723 | 34 |
+| 2024-01-12 | 20,726 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,374 (Ranked 177)  

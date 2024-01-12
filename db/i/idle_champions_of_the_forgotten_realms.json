@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9517,9 +9517,9 @@
       "Count": 3635
     }
   ],
-  "EOS_Progressed": 253577,
+  "EOS_Progressed": 253584,
   "EOS_Completed": 2614,
-  "EOS_NewPlayers": 1938,
+  "EOS_NewPlayers": 1921,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39832,6 +39832,11 @@
       "Time": "2024-01-12T20:10:19.4976047+00:00",
       "NumProgressed": 253577,
       "NumCompleted": 2614
+    },
+    {
+      "Time": "2024-01-12T21:10:11.2901111+00:00",
+      "NumProgressed": 253584,
+      "NumCompleted": 2614
     }
   ],
   "TotalAchievements": 546,
@@ -40819,7 +40824,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "objective_completed_130",
@@ -41521,9 +41526,9 @@
       "ID": "objective_completed_34",
       "SetID": "cc37lbc",
       "Name": "The Ring of Regeneration",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2536
     },
     {
       "ID": "objective_completed_35",
@@ -43587,7 +43592,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "objective_completed_902",
@@ -44210,21 +44215,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219851,
+      "Progressed": 219858,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253577,
+      "Progressed": 253584,
       "Completed": 2614
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-12T19:59:34.1425101+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:10:19.4976043+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:10:11.2901105+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:59:34.1425109+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:10:19.4999531+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:59:23.2720736+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:10:11.292515+00:00"
 }

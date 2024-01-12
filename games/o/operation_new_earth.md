@@ -5,16 +5,16 @@ Rating: 3.33 (Ranked 1,102)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 28.00% | ~622 |
+| It's Good to have Allies | 28.00% | ~623 |
 | Defenses Online | 25.00% | ~556 |
 | Facility Online | 20.00% | ~445 |
-| Corporal | 15.00% | ~333 |
+| Corporal | 15.00% | ~334 |
 | Sergeant | 12.00% | ~267 |
 | Covert Operative | 12.00% | ~267 |
-| Lieutenant | 10.00% | ~222 |
-| Getting Deployment | 10.00% | ~222 |
-| Stocking Up | 10.00% | ~222 |
-| On Target | 10.00% | ~222 |
+| Lieutenant | 10.00% | ~223 |
+| Getting Deployment | 10.00% | ~223 |
+| Stocking Up | 10.00% | ~223 |
+| On Target | 10.00% | ~223 |
 | Keeping Busy | 9.00% | ~200 |
 | Infantry Reporting | 9.00% | ~200 |
 | Exterminator | 8.00% | ~178 |
@@ -23,9 +23,9 @@ Rating: 3.33 (Ranked 1,102)
 | Captain | 8.00% | ~178 |
 | Factory Expansion | 8.00% | ~178 |
 | Brothers in Arms | 7.00% | ~156 |
-| Know The Enemy | 6.00% | ~133 |
-| Silver Achiever | 6.00% | ~133 |
-| Moving On Up | 6.00% | ~133 |
+| Know The Enemy | 6.00% | ~134 |
+| Silver Achiever | 6.00% | ~134 |
+| Moving On Up | 6.00% | ~134 |
 | Player Betrayer | 5.00% | ~111 |
 | Major | 5.00% | ~111 |
 | Gold Achiever | 4.00% | ~89 |
@@ -34,8 +34,8 @@ Rating: 3.33 (Ranked 1,102)
 | Colonel | 3.00% | ~67 |
 | Battle Ready | 3.00% | ~67 |
 | Control the Skies | 3.00% | ~67 |
-| General | 2.00% | ~44 |
-| Seek & Destroy | 2.00% | ~44 |
+| General | 2.00% | ~45 |
+| Seek & Destroy | 2.00% | ~45 |
 | Advanced Interceptors | 1.00% | ~22 |
 | Titan Tanks | 1.00% | ~22 |
 | Shock Troops | 1.00% | ~22 |
@@ -44,7 +44,7 @@ Rating: 3.33 (Ranked 1,102)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,223 (Ranked 248)  
+Progressed: 2,226 (Ranked 248)  
 Completed: 1 (0.04%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 1 (0.04%) (Ranked 352)
 | 2024-01-09 | 2,204 | 1 |
 | 2024-01-10 | 2,212 | 1 |
 | 2024-01-11 | 2,220 | 1 |
-| 2024-01-12 | 2,223 | 1 |
+| 2024-01-12 | 2,226 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

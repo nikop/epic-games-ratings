@@ -11,14 +11,14 @@ Rating: 4.63 (Ranked 359)
 | Walls Cannot Stop Us | 14.00% | ~1,009 |
 | From Friends to Family | 12.00% | ~865 |
 | Bone Peddler | 11.00% | ~793 |
-| Full Ascension | 9.00% | ~648 |
-| Magical Synergy | 9.00% | ~648 |
-| There Can Only Be One! | 8.00% | ~576 |
-| Stronger Together | 8.00% | ~576 |
-| Seat of Power | 8.00% | ~576 |
-| Valley of Wonders | 7.00% | ~504 |
-| In a Liege of Your Own | 7.00% | ~504 |
-| Intimidation Tactics | 7.00% | ~504 |
+| Full Ascension | 9.00% | ~649 |
+| Magical Synergy | 9.00% | ~649 |
+| There Can Only Be One! | 8.00% | ~577 |
+| Stronger Together | 8.00% | ~577 |
+| Seat of Power | 8.00% | ~577 |
+| Valley of Wonders | 7.00% | ~505 |
+| In a Liege of Your Own | 7.00% | ~505 |
+| Intimidation Tactics | 7.00% | ~505 |
 | Return of the Wizard King | 5.00% | ~360 |
 | Digging for Treasure | 5.00% | ~360 |
 | My Final Form | 5.00% | ~360 |
@@ -31,6 +31,7 @@ Rating: 4.63 (Ranked 359)
 | Crimson Caldera | 3.00% | ~216 |
 | Here be Dragons | 3.00% | ~216 |
 | Tipping the Scales | 3.00% | ~216 |
+| Mighty Hoard | 3.00% | ~216 |
 | Freed Lands of Manuhari | 3.00% | ~216 |
 | I've Got Everything I Need Right Here | 2.00% | ~144 |
 | God Emperor | 2.00% | ~144 |
@@ -40,7 +41,6 @@ Rating: 4.63 (Ranked 359)
 | Eternal Lord | 2.00% | ~144 |
 | The Eternal Court | 2.00% | ~144 |
 | Blood of the Dragon | 2.00% | ~144 |
-| Mighty Hoard | 2.00% | ~144 |
 | Sehiran Oasis | 2.00% | ~144 |
 | Chaos Surge | 2.00% | ~144 |
 | Spoils of War | 2.00% | ~144 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 359)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,205 (Ranked 197)  
+Progressed: 7,208 (Ranked 197)  
 Completed: 7 (0.10%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 7 (0.10%) (Ranked 314)
 | 2024-01-09 | 7,130 | 7 |
 | 2024-01-10 | 7,178 | 7 |
 | 2024-01-11 | 7,195 | 7 |
-| 2024-01-12 | 7,205 | 7 |
+| 2024-01-12 | 7,208 | 7 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 481)  
 Sum: 238 (Ranked 406)  

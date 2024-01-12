@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Final square (Eternal Battle) | 67.00% | ~6 |
-| I'll be back | 44.00% | ~4 |
+| Final square (Eternal Battle) | 78.00% | ~7 |
+| I'll be back | 56.00% | ~5 |
 | Combo Pro | 33.00% | ~3 |
+| Sense of Priorities | 33.00% | ~3 |
 | Chain Reaction | 33.00% | ~3 |
 | Victory Royale | 33.00% | ~3 |
-| Sense of Priorities | 22.00% | ~2 |
 | Business Acumen | 22.00% | ~2 |
 | Sound Barrier | 22.00% | ~2 |
 | Legend | 11.00% | ~1 |

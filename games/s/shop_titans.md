@@ -22,15 +22,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Daily Grind | 5.00% | ~7,544 |
 | One-Armed Bandit | 5.00% | ~7,544 |
 | Through Repetition, Perfection | 5.00% | ~7,544 |
-| Bounty Hunters | 4.00% | ~6,035 |
-| Demand for Supplies | 4.00% | ~6,035 |
-| Flooding the Market | 4.00% | ~6,035 |
-| Where it Hurts | 4.00% | ~6,035 |
-| Gild-Gotten Goods | 4.00% | ~6,035 |
-| Accomplished Merchant | 4.00% | ~6,035 |
-| Dungeon Imports | 4.00% | ~6,035 |
-| Did we pack lunch? | 4.00% | ~6,035 |
-| Arcane Industries | 4.00% | ~6,035 |
+| Bounty Hunters | 4.00% | ~6,036 |
+| Demand for Supplies | 4.00% | ~6,036 |
+| Flooding the Market | 4.00% | ~6,036 |
+| Where it Hurts | 4.00% | ~6,036 |
+| Gild-Gotten Goods | 4.00% | ~6,036 |
+| Accomplished Merchant | 4.00% | ~6,036 |
+| Dungeon Imports | 4.00% | ~6,036 |
+| Did we pack lunch? | 4.00% | ~6,036 |
+| Arcane Industries | 4.00% | ~6,036 |
 | On the Path to Greatness | 3.00% | ~4,527 |
 | Ascended | 3.00% | ~4,527 |
 | Tax not Included | 3.00% | ~4,527 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~604 |
 | Capitalist Camaraderie | 0.30% | ~453 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,887 (Ranked 86)  
+Progressed: 150,890 (Ranked 86)  
 Completed: 350 (0.23%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -386,7 +386,7 @@ Completed: 350 (0.23%) (Ranked 272)
 | 2024-01-09 | 150,487 | 345 |
 | 2024-01-10 | 150,626 | 348 |
 | 2024-01-11 | 150,768 | 349 |
-| 2024-01-12 | 150,887 | 350 |
+| 2024-01-12 | 150,890 | 350 |
 ## Awards
 Max (Great for Beginners): 4,952  (Ranked 78)  
 Sum: 27,982 (Ranked 52)  

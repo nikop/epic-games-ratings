@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 57,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -129,8 +129,8 @@
   "Tags": [],
   "EOS_Progressed": 2719,
   "EOS_Completed": 200,
-  "EOS_NewPlayers": 300,
-  "EOS_NewCompleters": 46,
+  "EOS_NewPlayers": 299,
+  "EOS_NewCompleters": 44,
   "EOS_Completed_Percentage": 7.36,
   "EosHistory": [
     {
@@ -7272,9 +7272,9 @@
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 571
+      "UsersEstimate": 598
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -7360,17 +7360,17 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 843
+      "UsersEstimate": 870
     },
     {
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 761
+      "UsersEstimate": 789
     }
   ],
   "AchievementSets": [
@@ -7385,8 +7385,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:04:47.8500643+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:04:38.7472597+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:57:32.6973807+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:04:47.850109+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:57:24.8845426+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:04:38.7473066+00:00"
 }

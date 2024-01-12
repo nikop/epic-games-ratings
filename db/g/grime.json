@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1879,9 +1879,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167828,
+  "EOS_Progressed": 167838,
   "EOS_Completed": 456,
-  "EOS_NewPlayers": 1157,
+  "EOS_NewPlayers": 1153,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22844,6 +22844,11 @@
       "Time": "2024-01-12T20:05:36.311494+00:00",
       "NumProgressed": 167828,
       "NumCompleted": 456
+    },
+    {
+      "Time": "2024-01-12T21:05:24.7286182+00:00",
+      "NumProgressed": 167838,
+      "NumCompleted": 456
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22912,7 +22917,7 @@
       "Name": "Breath",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -22920,7 +22925,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6713
+      "UsersEstimate": 6714
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -22944,7 +22949,7 @@
       "Name": "Artisan",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -22968,7 +22973,7 @@
       "Name": "Glare",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -22984,7 +22989,7 @@
       "Name": "Hush",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -22998,9 +23003,9 @@
       "ID": "DEFEAT_JAWCRAB",
       "SetID": "ccc0dlh",
       "Name": "Jawcrab",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1343
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -23072,7 +23077,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6713
+      "UsersEstimate": 6714
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -23104,7 +23109,7 @@
       "Name": "Breathsmith",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -23112,7 +23117,7 @@
       "Name": "Yank",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1510
+      "UsersEstimate": 1511
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -23120,7 +23125,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1510
+      "UsersEstimate": 1511
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -23136,7 +23141,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -23144,7 +23149,7 @@
       "Name": "Passage",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "QUEST_CHILD",
@@ -23223,21 +23228,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167411,
+      "Progressed": 167421,
       "Completed": 1260
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167828,
+      "Progressed": 167838,
       "Completed": 456
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-12T18:57:16.5787168+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:05:36.3114927+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:05:24.7286178+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:57:12.7266417+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:05:36.3116362+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:57:07.2130096+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:05:24.7287511+00:00"
 }

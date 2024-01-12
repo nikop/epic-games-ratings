@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -473,9 +473,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 344557,
+  "EOS_Progressed": 344584,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3208,
+  "EOS_NewPlayers": 3214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13128,6 +13128,11 @@
       "Time": "2024-01-12T20:09:00.344733+00:00",
       "NumProgressed": 344557,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-12T21:08:55.1531851+00:00",
+      "NumProgressed": 344584,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -13140,7 +13145,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17228
+      "UsersEstimate": 17229
     },
     {
       "ID": "S02_BRDA",
@@ -13148,7 +13153,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10337
+      "UsersEstimate": 10338
     },
     {
       "ID": "S03_OTWA",
@@ -13172,7 +13177,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2756
+      "UsersEstimate": 2757
     },
     {
       "ID": "S06_LWTC",
@@ -13196,7 +13201,7 @@
       "Name": "I feel drawn to it",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2068
     },
     {
       "ID": "S09_MNSE",
@@ -13204,7 +13209,7 @@
       "Name": "Here to stay",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2068
     },
     {
       "ID": "S10_GRSB",
@@ -13276,7 +13281,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17228
+      "UsersEstimate": 17229
     },
     {
       "ID": "S19_CHALLENGES",
@@ -13372,7 +13377,7 @@
       "Name": "Bring it on!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2756
+      "UsersEstimate": 2757
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -13452,14 +13457,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6891
+      "UsersEstimate": 6892
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 344557,
+      "Progressed": 344584,
       "Completed": 7
     }
   ],
@@ -13467,8 +13472,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-07T09:59:57.3535769+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:09:00.3447324+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:08:55.1531846+00:00",
   "LastUpdate_AppInfo": "2024-01-12T01:46:06.9563131+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:57:59.5694593+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:09:00.3448437+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:57:50.2904289+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:08:55.1532703+00:00"
 }

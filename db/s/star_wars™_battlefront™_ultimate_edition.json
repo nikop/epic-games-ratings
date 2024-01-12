@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2907,
+  "EOS_Progressed": 2908,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7884,6 +7884,11 @@
       "Time": "2024-01-12T20:10:15.209425+00:00",
       "NumProgressed": 2907,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T21:10:07.1117854+00:00",
+      "NumProgressed": 2908,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8072,7 +8077,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "achievement_30",
@@ -8120,7 +8125,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2500
+      "UsersEstimate": 2501
     },
     {
       "ID": "achievement_36",
@@ -8136,7 +8141,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1745
     },
     {
       "ID": "achievement_38",
@@ -8144,7 +8149,7 @@
       "Name": "Survivor",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "achievement_39",
@@ -8399,13 +8404,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2907,
+      "Progressed": 2908,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2907,
+      "Progressed": 2908,
       "Completed": 1
     }
   ],
@@ -8413,8 +8418,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:10:15.2094246+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:10:07.1117849+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-12T20:00:34.846944+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:10:15.2095159+00:00"
+  "LastUpdate_Ratings": "2024-01-12T21:02:30.0585189+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:10:07.1119054+00:00"
 }

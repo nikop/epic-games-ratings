@@ -2,10 +2,10 @@
   "ID": "e920c823522745c88a85e396965afc62",
   "Name": "Indoorlands",
   "ProductSlug": "indoorlands-3b2356",
-  "Ranking_EOS_Progress": 575,
+  "Ranking_EOS_Progress": 573,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
     "PcReleaseDate": "2022-10-13T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44,
+  "EOS_Progressed": 45,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -244,6 +244,11 @@
       "Time": "2024-01-11T16:09:07.9058356+00:00",
       "NumProgressed": 44,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T21:08:35.5422425+00:00",
+      "NumProgressed": 45,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-14T09:03:47.827813+00:00",
@@ -278,7 +283,7 @@
       "ID": "beginner",
       "SetID": "d4692al",
       "Name": "Beginner Guide",
-      "Percentage": 64,
+      "Percentage": 62,
       "XP": 5,
       "UsersEstimate": 28
     },
@@ -286,7 +291,7 @@
       "ID": "contractor",
       "SetID": "d4692al",
       "Name": "New Contractor",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -318,7 +323,7 @@
       "ID": "decorated",
       "SetID": "d4692al",
       "Name": "Decorated",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -358,7 +363,7 @@
       "ID": "expansion",
       "SetID": "d4692al",
       "Name": "Expansion",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -398,7 +403,7 @@
       "ID": "mass",
       "SetID": "d4692al",
       "Name": "Mass Transportation",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -470,7 +475,7 @@
       "ID": "vip",
       "SetID": "d4692al",
       "Name": "VIP",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
       "UsersEstimate": 22
     },
@@ -486,7 +491,7 @@
       "ID": "visitorSat",
       "SetID": "d4692al",
       "Name": "Visitor Satisfaction Wanted",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -503,14 +508,14 @@
     {
       "ID": "d4692al",
       "IsBase": true,
-      "Progressed": 44,
+      "Progressed": 45,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-01-12T20:08:40.5671019+00:00",
+  "LastChanged_Achievements": "2024-01-12T21:08:35.5422422+00:00",
   "LastUpdate_AppInfo": "2024-01-11T10:57:10.1512707+00:00",
-  "LastUpdate_Ratings": "2024-01-12T19:57:09.3165931+00:00",
-  "LastUpdate_Achievements": "2024-01-12T20:08:40.567123+00:00"
+  "LastUpdate_Ratings": "2024-01-12T20:57:04.3656269+00:00",
+  "LastUpdate_Achievements": "2024-01-12T21:08:35.5422698+00:00"
 }
