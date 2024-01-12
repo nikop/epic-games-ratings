@@ -9,10 +9,10 @@ Number of Ratings: 495  (23.09.2022)
 | Genin | 12.00% | ~27,050 |
 | A thief's beginning | 11.00% | ~24,796 |
 | Thorough | 11.00% | ~24,796 |
-| Disguised | 9.00% | ~20,287 |
-| Rescue Takuma | 9.00% | ~20,287 |
-| Rollin' | 9.00% | ~20,287 |
-| Tanuki Time | 9.00% | ~20,287 |
+| Disguised | 9.00% | ~20,288 |
+| Rescue Takuma | 9.00% | ~20,288 |
+| Rollin' | 9.00% | ~20,288 |
+| Tanuki Time | 9.00% | ~20,288 |
 | Ice Ice Yuki | 8.00% | ~18,033 |
 | Jonin | 8.00% | ~18,033 |
 | Stoned Ox | 8.00% | ~18,033 |
@@ -30,8 +30,8 @@ Number of Ratings: 495  (23.09.2022)
 | Noboru | 4.00% | ~9,017 |
 | Still Rollin' | 4.00% | ~9,017 |
 | Stoned | 4.00% | ~9,017 |
-| It's raining men | 3.00% | ~6,762 |
-| The Old Way | 3.00% | ~6,762 |
+| It's raining men | 3.00% | ~6,763 |
+| The Old Way | 3.00% | ~6,763 |
 | Atheist Ox | 2.00% | ~4,508 |
 | No Gimmicks | 2.00% | ~4,508 |
 | Old Man | 2.00% | ~4,508 |
@@ -42,7 +42,7 @@ Number of Ratings: 495  (23.09.2022)
 | When Cut Across the Neck | 1.00% | ~2,254 |
 | High Five the Moon | 0.90% | ~2,029 |
 | The Cave | 0.90% | ~2,029 |
-| Time Paradox | 0.60% | ~1,352 |
+| Time Paradox | 0.60% | ~1,353 |
 | Merciful | 0.50% | ~1,127 |
 | Five Shadows | 0.40% | ~902 |
 | Complete Mastery | 0.20% | ~451 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~225 |
 | Release the Kraken | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,416 (Ranked 79)  
+Progressed: 225,418 (Ranked 79)  
 Completed: 107 (0.05%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 107 (0.05%) (Ranked 339)
 | 2024-01-09 | 225,058 | 105 |
 | 2024-01-10 | 225,235 | 106 |
 | 2024-01-11 | 225,398 | 107 |
-| 2024-01-12 | 225,416 | 107 |
+| 2024-01-12 | 225,418 | 107 |
 ## Awards
 Max (Great for Beginners): 593  (Ranked 212)  
 Sum: 4,955 (Ranked 151)  

@@ -1755,9 +1755,9 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 86433,
+  "EOS_Progressed": 86438,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 3135,
+  "EOS_NewPlayers": 3126,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -16380,6 +16380,11 @@
       "Time": "2024-01-12T02:28:44.8089616+00:00",
       "NumProgressed": 86433,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-12T03:03:30.9264111+00:00",
+      "NumProgressed": 86438,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -16392,7 +16397,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 38895
+      "UsersEstimate": 38897
     },
     {
       "ID": "10",
@@ -16432,7 +16437,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 6050
+      "UsersEstimate": 6051
     },
     {
       "ID": "15",
@@ -16456,7 +16461,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 18151
+      "UsersEstimate": 18152
     },
     {
       "ID": "3",
@@ -16480,7 +16485,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 6050
+      "UsersEstimate": 6051
     },
     {
       "ID": "6",
@@ -16496,7 +16501,7 @@
       "Name": "More Power to You",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 19880
+      "UsersEstimate": 19881
     },
     {
       "ID": "8",
@@ -16519,7 +16524,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 86433,
+      "Progressed": 86438,
       "Completed": 67
     }
   ],
@@ -16527,8 +16532,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-12T01:47:51.6618437+00:00",
-  "LastChanged_Achievements": "2024-01-12T02:28:44.8089611+00:00",
+  "LastChanged_Achievements": "2024-01-12T03:03:30.9264109+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:51.8643288+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:23:52.7396884+00:00",
-  "LastUpdate_Achievements": "2024-01-12T02:28:44.8090386+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:58:43.8968825+00:00",
+  "LastUpdate_Achievements": "2024-01-12T03:03:30.926512+00:00"
 }

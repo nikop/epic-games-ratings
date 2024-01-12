@@ -43,11 +43,11 @@ Rating: 3.96 (Ranked 1,061)
 | Now You See Me | 0.30% | ~65 |
 | Privateer | 0.20% | ~187 |
 | Talent Scout | 0.20% | ~187 |
-| One for All | 0.20% | ~43 |
+| One for All | 0.20% | ~44 |
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,401 (Ranked 103)  
+Progressed: 93,403 (Ranked 103)  
 Completed: 59 (0.06%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,6 +314,7 @@ Completed: 59 (0.06%) (Ranked 332)
 | 2024-01-09 | 93,308 | 58 |
 | 2024-01-10 | 93,367 | 58 |
 | 2024-01-11 | 93,401 | 59 |
+| 2024-01-12 | 93,403 | 59 |
 ## Awards
 Max (Diverse Characters): 597  (Ranked 209)  
 Sum: 2,816 (Ranked 191)  

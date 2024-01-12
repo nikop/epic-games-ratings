@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-08T13:25:14+00:00",
@@ -325,10 +325,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 139230,
-  "EOS_Completed": 1254,
-  "EOS_NewPlayers": 1222,
-  "EOS_NewCompleters": 16,
+  "EOS_Progressed": 139231,
+  "EOS_Completed": 1255,
+  "EOS_NewPlayers": 1219,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
     {
@@ -30835,6 +30835,11 @@
       "Time": "2024-01-12T02:29:36.0421352+00:00",
       "NumProgressed": 139230,
       "NumCompleted": 1254
+    },
+    {
+      "Time": "2024-01-12T03:04:21.5519768+00:00",
+      "NumProgressed": 139231,
+      "NumCompleted": 1255
     }
   ],
   "TotalAchievements": 34,
@@ -30902,7 +30907,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 111384
+      "UsersEstimate": 111385
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -30926,7 +30931,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 38984
+      "UsersEstimate": 38985
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -30958,7 +30963,7 @@
       "Name": "The Vanishing of the Lady Shannon",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 43161
+      "UsersEstimate": 43162
     },
     {
       "ID": "ACH_L03_BLACKBEACH_OBJ",
@@ -30966,7 +30971,7 @@
       "Name": "Marsh Cannery",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 29238
+      "UsersEstimate": 29239
     },
     {
       "ID": "ACH_L03_ORGAN",
@@ -30974,7 +30979,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 43161
+      "UsersEstimate": 43162
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -31022,7 +31027,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 38984
+      "UsersEstimate": 38985
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -31030,7 +31035,7 @@
       "Name": "Greetings from Y\u0027ha-nthlei!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 25061
+      "UsersEstimate": 25062
     },
     {
       "ID": "ACH_L04B_JOURNAL",
@@ -31117,16 +31122,16 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 139230,
-      "Completed": 1254
+      "Progressed": 139231,
+      "Completed": 1255
     }
   ],
   "FirstSeen": "2022-07-22T20:19:57.3408897+00:00",
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2024-01-10T13:04:20.7610519+00:00",
-  "LastChanged_Achievements": "2024-01-12T02:29:36.0421345+00:00",
+  "LastChanged_Achievements": "2024-01-12T03:04:21.5519766+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:31.1133234+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:24:10.5150234+00:00",
-  "LastUpdate_Achievements": "2024-01-12T02:29:36.0423041+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:59:01.8080864+00:00",
+  "LastUpdate_Achievements": "2024-01-12T03:04:21.5521127+00:00"
 }

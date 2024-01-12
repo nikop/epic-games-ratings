@@ -507,9 +507,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4022,
+  "EOS_Progressed": 4023,
   "EOS_Completed": 144,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.58,
   "EosHistory": [
@@ -7227,6 +7227,11 @@
       "Time": "2024-01-11T22:05:51.6280743+00:00",
       "NumProgressed": 4022,
       "NumCompleted": 144
+    },
+    {
+      "Time": "2024-01-12T03:04:37.3457599+00:00",
+      "NumProgressed": 4023,
+      "NumCompleted": 144
     }
   ],
   "TotalAchievements": 14,
@@ -7268,9 +7273,9 @@
       "ID": "ACH_DOG_LOVER",
       "SetID": "4kfb9pd",
       "Name": "Dog Person",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 80,
-      "UsersEstimate": 724
+      "UsersEstimate": 684
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -7278,7 +7283,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -7294,7 +7299,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -7334,7 +7339,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -7342,14 +7347,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3177
+      "UsersEstimate": 3178
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4022,
+      "Progressed": 4023,
       "Completed": 144
     }
   ],
@@ -7357,8 +7362,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-05T23:57:59.2122093+00:00",
-  "LastChanged_Achievements": "2024-01-12T02:29:51.6631927+00:00",
+  "LastChanged_Achievements": "2024-01-12T03:04:37.3457596+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:45.5665199+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:22:30.4735638+00:00",
-  "LastUpdate_Achievements": "2024-01-12T02:29:51.663239+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:57:19.7411365+00:00",
+  "LastUpdate_Achievements": "2024-01-12T03:04:37.3457989+00:00"
 }

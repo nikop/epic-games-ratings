@@ -5511,9 +5511,9 @@
       "Count": 539
     }
   ],
-  "EOS_Progressed": 93401,
+  "EOS_Progressed": 93403,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 390,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -31176,6 +31176,11 @@
       "Time": "2024-01-11T22:06:25.032501+00:00",
       "NumProgressed": 93401,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-12T03:05:01.1325841+00:00",
+      "NumProgressed": 93403,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 41,
@@ -31499,7 +31504,7 @@
       "Name": "One for All",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_1050",
@@ -31514,13 +31519,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 93401,
+      "Progressed": 93403,
       "Completed": 59
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21748,
+      "Progressed": 21750,
       "Completed": 15599
     }
   ],
@@ -31528,8 +31533,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-11T19:57:48.6875861+00:00",
-  "LastChanged_Achievements": "2024-01-12T02:30:16.1074385+00:00",
+  "LastChanged_Achievements": "2024-01-12T03:05:01.1325838+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:40.4736817+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:22:35.1243296+00:00",
-  "LastUpdate_Achievements": "2024-01-12T02:30:16.1075629+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:57:24.4251248+00:00",
+  "LastUpdate_Achievements": "2024-01-12T03:05:01.1327481+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 19.00% | ~129,173 |
+| Advanced Stroller | 19.00% | ~129,174 |
 | Incurious | 18.00% | ~122,375 |
-| Climate Change | 17.00% | ~115,576 |
-| Stroller | 16.00% | ~108,777 |
-| Advanced Hiker | 14.00% | ~95,180 |
-| Toy Train | 14.00% | ~95,180 |
-| Hiker | 12.00% | ~81,583 |
+| Climate Change | 17.00% | ~115,577 |
+| Stroller | 16.00% | ~108,778 |
+| Advanced Hiker | 14.00% | ~95,181 |
+| Toy Train | 14.00% | ~95,181 |
+| Hiker | 12.00% | ~81,584 |
 | Mojave Courier | 6.00% | ~40,792 |
 | Saved by Nausicaä | 6.00% | ~40,792 |
-| Voyager | 4.00% | ~27,194 |
-| Advanced Voyager | 4.00% | ~27,194 |
-| Expert Stroller | 4.00% | ~27,194 |
-| Orient Express | 4.00% | ~27,194 |
+| Voyager | 4.00% | ~27,195 |
+| Advanced Voyager | 4.00% | ~27,195 |
+| Expert Stroller | 4.00% | ~27,195 |
+| Orient Express | 4.00% | ~27,195 |
 | Marathon | 3.00% | ~20,396 |
 | Destructionist | 3.00% | ~20,396 |
 | Expert Hiker | 2.00% | ~13,597 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~680 |
 | 20 Miles under the Sea | 0.10% | ~680 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679,859 (Ranked 30)  
+Progressed: 679,863 (Ranked 30)  
 Completed: 15 (0.00%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,14 +326,14 @@ Completed: 15 (0.00%) (Ranked 398)
 | 2024-01-09 | 679,440 | 14 |
 | 2024-01-10 | 679,620 | 15 |
 | 2024-01-11 | 679,830 | 15 |
-| 2024-01-12 | 679,859 | 15 |
+| 2024-01-12 | 679,863 | 15 |
 ## Awards
-Max (Great for Beginners): 209  (Ranked 296)  
-Sum: 1,637 (Ranked 237)  
+Max (Great for Beginners): 210  (Ranked 296)  
+Sum: 1,638 (Ranked 237)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 209 |
+| This game is Great for Beginners | 210 |
 | This game has Diverse Characters | 205 |
 | This game has Quickly Understood Controls | 196 |
 | This game is Extremely Fun | 189 |
@@ -514,3 +514,4 @@ Diff (max vs sum): 59
 | 2024-01-08 | 4.64 | - | 209 | 1,633 |
 | 2024-01-09 | 4.64 | - | 209 | 1,634 |
 | 2024-01-11 | 4.64 | - | 209 | 1,637 |
+| 2024-01-12 | 4.64 | - | 210 | 1,638 |

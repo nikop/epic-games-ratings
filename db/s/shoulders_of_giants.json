@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 374,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -99,9 +99,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2334,
+  "EOS_Progressed": 2336,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -2044,6 +2044,11 @@
       "Time": "2024-01-11T14:06:36.9583031+00:00",
       "NumProgressed": 2334,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-12T03:06:25.1224116+00:00",
+      "NumProgressed": 2336,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 19,
@@ -2095,15 +2100,15 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     },
     {
       "ID": "deal_damage",
       "SetID": "236b9eg",
       "Name": "Ouch",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1261
     },
     {
       "ID": "defeat_enemies",
@@ -2111,7 +2116,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "defeat_tree_dummy",
@@ -2127,7 +2132,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1729
     },
     {
       "ID": "piercing_beam",
@@ -2143,7 +2148,7 @@
       "Name": "Turn Up The HEAT",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "reach_high_heat",
@@ -2159,7 +2164,7 @@
       "Name": "Frogbot",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1682
     },
     {
       "ID": "save_planet_bestfriend",
@@ -2175,7 +2180,7 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "stick_decoy",
@@ -2191,7 +2196,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "trash_truck",
@@ -2199,14 +2204,14 @@
       "Name": "Taking Out the Trash",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     }
   ],
   "AchievementSets": [
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2334,
+      "Progressed": 2336,
       "Completed": 10
     }
   ],
@@ -2214,8 +2219,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-12-04T09:57:32.2251724+00:00",
-  "LastChanged_Achievements": "2024-01-12T02:31:40.838983+00:00",
+  "LastChanged_Achievements": "2024-01-12T03:06:25.1224113+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.9911287+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:24:26.7680851+00:00",
-  "LastUpdate_Achievements": "2024-01-12T02:31:40.839003+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:59:15.3528442+00:00",
+  "LastUpdate_Achievements": "2024-01-12T03:06:25.1224444+00:00"
 }

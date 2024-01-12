@@ -5,30 +5,30 @@ Rating: 4.19 (Ranked 974)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,942 |
-| Battlefields Have Memories | 81.00% | ~2,708 |
-| Enlisted | 74.00% | ~2,474 |
-| Maybe Engage a Little | 69.00% | ~2,307 |
-| No More Names | 52.00% | ~1,738 |
-| Initiate | 39.00% | ~1,304 |
-| Thrada-Kul | 35.00% | ~1,170 |
-| Gravity-Challenged Rocks | 29.00% | ~969 |
-| Socialite | 24.00% | ~802 |
-| Soldier | 24.00% | ~802 |
-| All the Major Food Groups | 24.00% | ~802 |
-| Beggars Would Ride | 22.00% | ~735 |
+| Unforeseen | 88.00% | ~2,944 |
+| Battlefields Have Memories | 81.00% | ~2,710 |
+| Enlisted | 74.00% | ~2,476 |
+| Maybe Engage a Little | 69.00% | ~2,309 |
+| No More Names | 52.00% | ~1,740 |
+| Initiate | 39.00% | ~1,305 |
+| Thrada-Kul | 35.00% | ~1,171 |
+| Gravity-Challenged Rocks | 29.00% | ~970 |
+| Socialite | 24.00% | ~803 |
+| Soldier | 24.00% | ~803 |
+| All the Major Food Groups | 24.00% | ~803 |
+| Beggars Would Ride | 22.00% | ~736 |
 | Control is an Illusion | 20.00% | ~669 |
 | The Means to Save It | 18.00% | ~602 |
 | Resilience to Sin | 16.00% | ~535 |
 | A Familiar Nest | 16.00% | ~535 |
-| Geas Aristeya | 15.00% | ~501 |
-| Periapt Alizarin | 15.00% | ~501 |
+| Geas Aristeya | 15.00% | ~502 |
+| Periapt Alizarin | 15.00% | ~502 |
 | A Perfect Cycle | 14.00% | ~468 |
 | Recruit | 14.00% | ~468 |
 | Armsman | 11.00% | ~368 |
-| Lights Army | 10.00% | ~334 |
-| Periapt Cerulean | 8.00% | ~267 |
-| Good Boy | 8.00% | ~267 |
+| Lights Army | 10.00% | ~335 |
+| Periapt Cerulean | 8.00% | ~268 |
+| Good Boy | 8.00% | ~268 |
 | Periapt Viridian | 7.00% | ~234 |
 | Best Dressed | 6.00% | ~201 |
 | Shroudfane Explorer | 6.00% | ~201 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 974)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,343 (Ranked 228)  
+Progressed: 3,346 (Ranked 228)  
 Completed: 4 (0.12%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 4 (0.12%) (Ranked 304)
 | 2024-01-09 | 3,204 | 4 |
 | 2024-01-10 | 3,285 | 4 |
 | 2024-01-11 | 3,340 | 4 |
-| 2024-01-12 | 3,343 | 4 |
+| 2024-01-12 | 3,346 | 4 |
 ## Awards
 Max (Quickly Understood Controls): 20  (Ranked 579)  
 Sum: 20 (Ranked 580)  

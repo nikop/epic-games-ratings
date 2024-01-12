@@ -44,11 +44,11 @@
 | A new Hindenburg | 7.00% | ~6 |
 | Pulp! Tales from the Crypt | 5.00% | ~5 |
 | Thirst for Oleum | 4.00% | ~4 |
+| Pulp! Weird Science | 3.00% | ~3 |
 | Troy is burning! | 3.00% | ~3 |
-| Pulp! Weird Science | 2.00% | ~2 |
+| Pulp! The Perfect Crime | 2.00% | ~2 |
 | Pulp! Heart Throbs | 2.00% | ~2 |
 | Pulp! Skeleton Hand | 2.00% | ~2 |
-| Pulp! The Perfect Crime | 1.00% | ~1 |
 | Pulp! Mister Mystery | 1.00% | ~1 |
 | Pulp! The Vault of Horror | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)

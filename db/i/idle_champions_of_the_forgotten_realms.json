@@ -9493,9 +9493,9 @@
       "Count": 3635
     }
   ],
-  "EOS_Progressed": 253449,
+  "EOS_Progressed": 253454,
   "EOS_Completed": 2614,
-  "EOS_NewPlayers": 2223,
+  "EOS_NewPlayers": 2212,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39718,6 +39718,11 @@
       "Time": "2024-01-12T02:35:17.1840722+00:00",
       "NumProgressed": 253449,
       "NumCompleted": 2614
+    },
+    {
+      "Time": "2024-01-12T03:09:58.4079499+00:00",
+      "NumProgressed": 253454,
+      "NumCompleted": 2614
     }
   ],
   "TotalAchievements": 546,
@@ -42087,9 +42092,9 @@
       "ID": "objective_completed_570",
       "SetID": "cc37lbc",
       "Name": "The Darkness Runs Deeper",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 507
     },
     {
       "ID": "objective_completed_571",
@@ -42873,7 +42878,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2534
+      "UsersEstimate": 2535
     },
     {
       "ID": "objective_completed_70",
@@ -44096,21 +44101,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219723,
+      "Progressed": 219728,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253449,
+      "Progressed": 253454,
       "Completed": 2614
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-11T23:58:59.1066648+00:00",
-  "LastChanged_Achievements": "2024-01-12T02:35:17.1840719+00:00",
+  "LastChanged_Achievements": "2024-01-12T03:09:58.4079497+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:24:10.3854236+00:00",
-  "LastUpdate_Achievements": "2024-01-12T02:35:17.1865573+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:59:01.6856323+00:00",
+  "LastUpdate_Achievements": "2024-01-12T03:09:58.4104524+00:00"
 }

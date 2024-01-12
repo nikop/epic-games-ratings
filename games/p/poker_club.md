@@ -5,24 +5,24 @@ Rating: 3.84 (Ranked 1,082)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~418,640 |
-| Handy | 42.00% | ~231,354 |
-| Cold Caller | 40.00% | ~220,337 |
-| A Bit On The Side | 27.00% | ~148,727 |
-| Backdoor | 26.00% | ~143,219 |
-| Rank Amateur | 22.00% | ~121,185 |
-| Three Way | 19.00% | ~104,660 |
-| Deadly Assassin | 16.00% | ~88,135 |
-| Gutshot | 14.00% | ~77,118 |
-| Risk It For A Biscuit | 14.00% | ~77,118 |
-| Showoff | 13.00% | ~71,609 |
-| W.H.I.P. | 12.00% | ~66,101 |
-| Bet Bet Bet | 10.00% | ~55,084 |
+| Pro Creation | 76.00% | ~418,644 |
+| Handy | 42.00% | ~231,356 |
+| Cold Caller | 40.00% | ~220,339 |
+| A Bit On The Side | 27.00% | ~148,729 |
+| Backdoor | 26.00% | ~143,220 |
+| Rank Amateur | 22.00% | ~121,187 |
+| Three Way | 19.00% | ~104,661 |
+| Deadly Assassin | 16.00% | ~88,136 |
+| Gutshot | 14.00% | ~77,119 |
+| Risk It For A Biscuit | 14.00% | ~77,119 |
+| Showoff | 13.00% | ~71,610 |
+| W.H.I.P. | 12.00% | ~66,102 |
+| Bet Bet Bet | 10.00% | ~55,085 |
 | Blindman's Bluff | 9.00% | ~49,576 |
 | Poker Joker | 9.00% | ~49,576 |
-| Never Give Up | 8.00% | ~44,067 |
-| The Bigger They Are | 8.00% | ~44,067 |
-| Total Knock Out | 8.00% | ~44,067 |
+| Never Give Up | 8.00% | ~44,068 |
+| The Bigger They Are | 8.00% | ~44,068 |
+| Total Knock Out | 8.00% | ~44,068 |
 | Dog Eat Dog | 7.00% | ~38,559 |
 | Quack Quack | 7.00% | ~38,559 |
 | Give Your Regards To Broadway | 6.00% | ~33,051 |
@@ -51,7 +51,7 @@ Rating: 3.84 (Ranked 1,082)
 | Rounder | 0.10% | ~551 |
 | Top Dog | 0.10% | ~551 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 550,842 (Ranked 35)  
+Progressed: 550,848 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 2 (0.00%) (Ranked 398)
 | 2024-01-09 | 550,384 | 2 |
 | 2024-01-10 | 550,625 | 2 |
 | 2024-01-11 | 550,814 | 2 |
-| 2024-01-12 | 550,842 | 2 |
+| 2024-01-12 | 550,848 | 2 |
 ## Awards
 Max (Great for Beginners): 67  (Ranked 422)  
 Sum: 210 (Ranked 412)  

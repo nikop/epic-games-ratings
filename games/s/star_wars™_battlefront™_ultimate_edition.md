@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,484 |
+| New Recruit | 86.00% | ~2,485 |
 | Off to a good start | 61.00% | ~1,762 |
 | Do... or do not. There is no try | 52.00% | ~1,502 |
 | A good blaster at your side | 24.00% | ~693 |
@@ -23,9 +23,9 @@
 | What's the cargo? | 6.00% | ~173 |
 | A cunning warrior | 6.00% | ~173 |
 | "Gonk? Gonk!" | 5.00% | ~144 |
-| Impressive. Most impressive. | 5.00% | ~144 |
 | Judge me by my size, do you? | 5.00% | ~144 |
 | Distinguished | 4.00% | ~116 |
+| Impressive. Most impressive. | 4.00% | ~116 |
 | Not bad for a little furball | 4.00% | ~116 |
 | Support the troops | 4.00% | ~116 |
 | A tremor in the Force | 3.00% | ~87 |
@@ -56,7 +56,7 @@
 | When surrounded by war... | 0.60% | ~17 |
 | Stop that Droid | 0.60% | ~17 |
 | No such thing as luck | 0.50% | ~14 |
-| Do we take prisoners? | 0.50% | ~14 |
+| Do we take prisoners? | 0.40% | ~12 |
 | I’ll take that bet | 0.40% | ~12 |
 | Stay on target | 0.30% | ~9 |
 | Greed can be a very powerful ally | 0.30% | ~9 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,888 (Ranked 233)  
+Progressed: 2,889 (Ranked 233)  
 Completed: 1 (0.03%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 1 (0.03%) (Ranked 356)
 | 2024-01-09 | 2,816 | 1 |
 | 2024-01-10 | 2,858 | 1 |
 | 2024-01-11 | 2,884 | 1 |
-| 2024-01-12 | 2,888 | 1 |
+| 2024-01-12 | 2,889 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

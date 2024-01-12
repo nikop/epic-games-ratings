@@ -452,9 +452,9 @@
       "ID": "A_KILLS kills_1 (0-100)",
       "SetID": "324h56e",
       "Name": "Slaughter",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "A_KILLS_2 kills_1 (0-1000)",
@@ -492,9 +492,9 @@
       "ID": "A_MEAT meat (0-10000)",
       "SetID": "324h56e",
       "Name": "Fresh Meat!",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "A_MEDIC_HEAL",
@@ -643,8 +643,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-12T02:28:33.2613626+00:00",
+  "LastChanged_Achievements": "2024-01-12T03:03:19.8670376+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.8788926+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:24:48.8556471+00:00",
-  "LastUpdate_Achievements": "2024-01-12T02:28:33.2613956+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:59:41.0204344+00:00",
+  "LastUpdate_Achievements": "2024-01-12T03:03:19.867062+00:00"
 }

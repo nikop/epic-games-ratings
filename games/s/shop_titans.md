@@ -6,9 +6,9 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,586 |
-| Titan's First Steps | 11.00% | ~16,586 |
-| Basic in Bulk | 10.00% | ~15,078 |
+| Sponsored by Argon | 11.00% | ~16,587 |
+| Titan's First Steps | 11.00% | ~16,587 |
+| Basic in Bulk | 10.00% | ~15,079 |
 | Tinkle of Coins | 9.00% | ~13,571 |
 | Disintermediation | 8.00% | ~12,063 |
 | It's Free Real Estate | 7.00% | ~10,555 |
@@ -19,18 +19,18 @@ Number of Ratings: 12,664  (23.09.2022)
 | Pretty Penny | 6.00% | ~9,047 |
 | Budding Merchant | 6.00% | ~9,047 |
 | Own the Means of Production | 6.00% | ~9,047 |
-| One-Armed Bandit | 5.00% | ~7,539 |
-| Through Repetition, Perfection | 5.00% | ~7,539 |
-| The Daily Grind | 4.00% | ~6,031 |
-| Bounty Hunters | 4.00% | ~6,031 |
-| Demand for Supplies | 4.00% | ~6,031 |
-| Flooding the Market | 4.00% | ~6,031 |
-| Where it Hurts | 4.00% | ~6,031 |
-| Gild-Gotten Goods | 4.00% | ~6,031 |
-| Accomplished Merchant | 4.00% | ~6,031 |
-| Dungeon Imports | 4.00% | ~6,031 |
-| Did we pack lunch? | 4.00% | ~6,031 |
-| Arcane Industries | 4.00% | ~6,031 |
+| One-Armed Bandit | 5.00% | ~7,540 |
+| Through Repetition, Perfection | 5.00% | ~7,540 |
+| The Daily Grind | 4.00% | ~6,032 |
+| Bounty Hunters | 4.00% | ~6,032 |
+| Demand for Supplies | 4.00% | ~6,032 |
+| Flooding the Market | 4.00% | ~6,032 |
+| Where it Hurts | 4.00% | ~6,032 |
+| Gild-Gotten Goods | 4.00% | ~6,032 |
+| Accomplished Merchant | 4.00% | ~6,032 |
+| Dungeon Imports | 4.00% | ~6,032 |
+| Did we pack lunch? | 4.00% | ~6,032 |
+| Arcane Industries | 4.00% | ~6,032 |
 | On the Path to Greatness | 3.00% | ~4,524 |
 | Ascended | 3.00% | ~4,524 |
 | Tax not Included | 3.00% | ~4,524 |
@@ -110,16 +110,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.90% | ~1,357 |
 | Bane of Legends | 0.80% | ~1,206 |
 | Anything not Nailed Down | 0.80% | ~1,206 |
-| Ultimate Collector | 0.70% | ~1,055 |
-| Unleashed Potential | 0.70% | ~1,055 |
-| JACKPOT!!! | 0.70% | ~1,055 |
+| Ultimate Collector | 0.70% | ~1,056 |
+| Unleashed Potential | 0.70% | ~1,056 |
+| JACKPOT!!! | 0.70% | ~1,056 |
 | Oligarch Monarch | 0.50% | ~754 |
 | Merchant Extraordinaire | 0.50% | ~754 |
 | To Hell and Back | 0.40% | ~603 |
 | Cash Only Please | 0.40% | ~603 |
 | Capitalist Camaraderie | 0.30% | ~452 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,785 (Ranked 86)  
+Progressed: 150,791 (Ranked 86)  
 Completed: 349 (0.23%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -386,7 +386,7 @@ Completed: 349 (0.23%) (Ranked 271)
 | 2024-01-09 | 150,487 | 345 |
 | 2024-01-10 | 150,626 | 348 |
 | 2024-01-11 | 150,768 | 349 |
-| 2024-01-12 | 150,785 | 349 |
+| 2024-01-12 | 150,791 | 349 |
 ## Awards
 Max (Great for Beginners): 4,952  (Ranked 78)  
 Sum: 27,981 (Ranked 52)  

@@ -413,9 +413,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 14650,
+  "EOS_Progressed": 14651,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 1320,
+  "EOS_NewPlayers": 1316,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10053,6 +10053,11 @@
       "Time": "2024-01-12T02:35:04.7270563+00:00",
       "NumProgressed": 14650,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-12T03:09:45.8740762+00:00",
+      "NumProgressed": 14651,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10143,9 +10148,9 @@
       "ID": "FuneralForTheDeath",
       "SetID": "acc6ea0",
       "Name": "Funeral Of The Death",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2198
     },
     {
       "ID": "GarbageMan",
@@ -10153,7 +10158,7 @@
       "Name": "Garbage Man",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "Godrunner",
@@ -10193,7 +10198,7 @@
       "Name": "Live By The Sword",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "MasterManipulator",
@@ -10209,7 +10214,7 @@
       "Name": "Nasty!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4248
+      "UsersEstimate": 4249
     },
     {
       "ID": "NoMoreTotems",
@@ -10241,7 +10246,7 @@
       "Name": "Scorch Squaaad!",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "TheFloorIsLava",
@@ -10257,7 +10262,7 @@
       "Name": "The Old-School Way",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 3662
+      "UsersEstimate": 3663
     },
     {
       "ID": "TheQuarterback",
@@ -10281,7 +10286,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3076
+      "UsersEstimate": 3077
     },
     {
       "ID": "UnResurrected",
@@ -10289,15 +10294,15 @@
       "Name": "Un-Resurrected",
       "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "WereNotInKansasAnymore",
       "SetID": "acc6ea0",
       "Name": "We\u0027re Not In Kansas Anymore",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 2930
+      "UsersEstimate": 3077
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -10321,7 +10326,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "k01101110",
@@ -10329,14 +10334,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14650,
+      "Progressed": 14651,
       "Completed": 27
     }
   ],
@@ -10344,8 +10349,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-10T20:00:42.7473431+00:00",
-  "LastChanged_Achievements": "2024-01-12T02:35:04.7270558+00:00",
+  "LastChanged_Achievements": "2024-01-12T03:09:45.8740761+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:22:31.482126+00:00",
-  "LastUpdate_Achievements": "2024-01-12T02:35:04.7271133+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:57:20.8341374+00:00",
+  "LastUpdate_Achievements": "2024-01-12T03:09:45.8741337+00:00"
 }

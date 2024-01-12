@@ -447,9 +447,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3343,
+  "EOS_Progressed": 3346,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 630,
+  "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5277,6 +5277,11 @@
       "Time": "2024-01-12T02:35:01.9238609+00:00",
       "NumProgressed": 3343,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-12T03:09:43.3446393+00:00",
+      "NumProgressed": 3346,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5289,7 +5294,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2942
+      "UsersEstimate": 2944
     },
     {
       "ID": "achievement_10",
@@ -5329,7 +5334,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "achievement_15",
@@ -5353,7 +5358,7 @@
       "Name": "Lights Army",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "achievement_18",
@@ -5369,7 +5374,7 @@
       "Name": "Socialite",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "achievement_2",
@@ -5377,7 +5382,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2708
+      "UsersEstimate": 2710
     },
     {
       "ID": "achievement_20",
@@ -5433,7 +5438,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 2307
+      "UsersEstimate": 2309
     },
     {
       "ID": "achievement_36",
@@ -5465,7 +5470,7 @@
       "Name": "No More Names",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1738
+      "UsersEstimate": 1740
     },
     {
       "ID": "achievement_41",
@@ -5497,7 +5502,7 @@
       "Name": "Periapt Cerulean",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "achievement_45",
@@ -5505,7 +5510,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "achievement_46",
@@ -5521,7 +5526,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2474
+      "UsersEstimate": 2476
     },
     {
       "ID": "achievement_49",
@@ -5529,7 +5534,7 @@
       "Name": "Soldier",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "achievement_5",
@@ -5537,7 +5542,7 @@
       "Name": "Initiate",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "achievement_50",
@@ -5585,7 +5590,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "achievement_60",
@@ -5633,7 +5638,7 @@
       "Name": "Good Boy",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "achievement_7",
@@ -5641,7 +5646,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "achievement_8",
@@ -5649,7 +5654,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "achievement_9",
@@ -5657,14 +5662,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3343,
+      "Progressed": 3346,
       "Completed": 4
     }
   ],
@@ -5672,8 +5677,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-11T22:00:16.9634248+00:00",
-  "LastChanged_Achievements": "2024-01-12T02:35:01.9238606+00:00",
+  "LastChanged_Achievements": "2024-01-12T03:09:43.344639+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8440656+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:24:19.9828171+00:00",
-  "LastUpdate_Achievements": "2024-01-12T02:35:01.9239117+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:59:09.6525497+00:00",
+  "LastUpdate_Achievements": "2024-01-12T03:09:43.3447017+00:00"
 }

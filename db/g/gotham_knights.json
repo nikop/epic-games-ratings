@@ -5213,9 +5213,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82525,
+  "EOS_Progressed": 82528,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 1059,
+  "EOS_NewPlayers": 1055,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -29868,6 +29868,11 @@
       "Time": "2024-01-12T02:30:53.2378677+00:00",
       "NumProgressed": 82525,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2024-01-12T03:05:37.6046437+00:00",
+      "NumProgressed": 82528,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 61,
@@ -29951,7 +29956,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "ALL_VILLAIN",
@@ -29983,7 +29988,7 @@
       "Name": "Something in the Clay",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16505
+      "UsersEstimate": 16506
     },
     {
       "ID": "CLAYFACE_2",
@@ -29991,7 +29996,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 14029
+      "UsersEstimate": 14030
     },
     {
       "ID": "CLAYFACE_3",
@@ -30063,7 +30068,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7427
+      "UsersEstimate": 7428
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -30087,7 +30092,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10728
+      "UsersEstimate": 10729
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -30095,7 +30100,7 @@
       "Name": "Drone You Out",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7427
+      "UsersEstimate": 7428
     },
     {
       "ID": "FREEZE_1",
@@ -30103,7 +30108,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 22282
+      "UsersEstimate": 22283
     },
     {
       "ID": "FREEZE_1_5",
@@ -30111,7 +30116,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16505
+      "UsersEstimate": 16506
     },
     {
       "ID": "FREEZE_2",
@@ -30119,7 +30124,7 @@
       "Name": "Snow Problem",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 14854
+      "UsersEstimate": 14855
     },
     {
       "ID": "FREEZE_3",
@@ -30183,7 +30188,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28059
+      "UsersEstimate": 28060
     },
     {
       "ID": "HARLEY_2",
@@ -30191,7 +30196,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19806
+      "UsersEstimate": 19807
     },
     {
       "ID": "HARLEY_3",
@@ -30199,7 +30204,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16505
+      "UsersEstimate": 16506
     },
     {
       "ID": "HARLEY_4",
@@ -30223,7 +30228,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41262
+      "UsersEstimate": 41264
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -30231,7 +30236,7 @@
       "Name": "He\u0027d Be So Proud of You",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "HERO_PROGRESSION_3",
@@ -30247,7 +30252,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16505
+      "UsersEstimate": 16506
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -30255,7 +30260,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21456
+      "UsersEstimate": 21457
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -30271,7 +30276,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27233
+      "UsersEstimate": 27234
     },
     {
       "ID": "MYSTERY_02",
@@ -30279,7 +30284,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19806
+      "UsersEstimate": 19807
     },
     {
       "ID": "MYSTERY_03",
@@ -30295,7 +30300,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16505
+      "UsersEstimate": 16506
     },
     {
       "ID": "MYSTERY_05",
@@ -30303,7 +30308,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 14029
+      "UsersEstimate": 14030
     },
     {
       "ID": "MYSTERY_06",
@@ -30319,7 +30324,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10728
+      "UsersEstimate": 10729
     },
     {
       "ID": "MYSTERY_08",
@@ -30366,13 +30371,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82525,
+      "Progressed": 82528,
       "Completed": 133
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 52805,
+      "Progressed": 52808,
       "Completed": 2679
     }
   ],
@@ -30380,8 +30385,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-12T01:46:10.1029185+00:00",
-  "LastChanged_Achievements": "2024-01-12T02:30:53.2378673+00:00",
+  "LastChanged_Achievements": "2024-01-12T03:05:37.6046435+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:43.7132471+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:22:11.4932237+00:00",
-  "LastUpdate_Achievements": "2024-01-12T02:30:53.2380047+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:57:00.6371774+00:00",
+  "LastUpdate_Achievements": "2024-01-12T03:05:37.6048239+00:00"
 }

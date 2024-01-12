@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -305,7 +305,7 @@
   ],
   "EOS_Progressed": 2466,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5912,9 +5912,9 @@
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1159
     },
     {
       "ID": "AC09",
@@ -6072,9 +6072,9 @@
       "ID": "AC28",
       "SetID": "l4abp0",
       "Name": "The Punished One",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 962
+      "UsersEstimate": 986
     },
     {
       "ID": "AC29",
@@ -6088,9 +6088,9 @@
       "ID": "AC30",
       "SetID": "l4abp0",
       "Name": "The Anointed One",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1208
     },
     {
       "ID": "AC31",
@@ -6225,8 +6225,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-11T21:01:32.4954396+00:00",
-  "LastChanged_Achievements": "2024-01-12T02:29:53.726904+00:00",
+  "LastChanged_Achievements": "2024-01-12T03:04:39.1583706+00:00",
   "LastUpdate_AppInfo": "2024-01-10T04:57:09.7051995+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:25:22.3524343+00:00",
-  "LastUpdate_Achievements": "2024-01-12T02:29:53.7269716+00:00"
+  "LastUpdate_Ratings": "2024-01-12T03:00:11.4800245+00:00",
+  "LastUpdate_Achievements": "2024-01-12T03:04:39.1584496+00:00"
 }

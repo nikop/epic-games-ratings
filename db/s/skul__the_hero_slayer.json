@@ -1511,9 +1511,9 @@
       "Count": 152
     }
   ],
-  "EOS_Progressed": 14594,
+  "EOS_Progressed": 14595,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 772,
+  "EOS_NewPlayers": 771,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -9696,6 +9696,11 @@
       "Time": "2024-01-12T01:58:12.2063741+00:00",
       "NumProgressed": 14594,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-12T03:09:00.3247938+00:00",
+      "NumProgressed": 14595,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 24,
@@ -9731,7 +9736,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8756
+      "UsersEstimate": 8757
     },
     {
       "ID": "DemonCastleRestoration",
@@ -9747,7 +9752,7 @@
       "Name": "The Dwarven Chandelier",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1460
     },
     {
       "ID": "FakeGoddessGone",
@@ -9771,7 +9776,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 3794
+      "UsersEstimate": 3795
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -9787,7 +9792,7 @@
       "Name": "Go Home...",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3940
+      "UsersEstimate": 3941
     },
     {
       "ID": "HeroSlayer",
@@ -9795,7 +9800,7 @@
       "Name": "The Hero Killer",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 3648
+      "UsersEstimate": 3649
     },
     {
       "ID": "LeoniasFall",
@@ -9835,7 +9840,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8756
+      "UsersEstimate": 8757
     },
     {
       "ID": "SavedElderEnt_2",
@@ -9867,7 +9872,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 13572
+      "UsersEstimate": 13573
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -9875,7 +9880,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 6859
+      "UsersEstimate": 6860
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -9883,7 +9888,7 @@
       "Name": "Master of Speed",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "WhattoBuy",
@@ -9891,22 +9896,22 @@
       "Name": "What should I buy?",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 11675
+      "UsersEstimate": 11676
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14594,
+      "Progressed": 14595,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-11T16:57:40.6853417+00:00",
-  "LastChanged_Achievements": "2024-01-12T02:34:18.5503461+00:00",
+  "LastChanged_Achievements": "2024-01-12T03:09:00.3247936+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:25.8159814+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:22:26.5483518+00:00",
-  "LastUpdate_Achievements": "2024-01-12T02:34:18.5503966+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:57:16.0786812+00:00",
+  "LastUpdate_Achievements": "2024-01-12T03:09:00.3248507+00:00"
 }

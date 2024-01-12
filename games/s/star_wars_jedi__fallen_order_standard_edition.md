@@ -5,20 +5,20 @@ Rating: 4.68 (Ranked 264)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~34,264 |
-| A Long Time Ago | 91.00% | ~31,180 |
-| Sabersmith | 78.00% | ~26,726 |
-| The Obstacle is the Way | 75.00% | ~25,698 |
-| Back At You | 69.00% | ~23,642 |
-| Happy Go Wookiee | 66.00% | ~22,614 |
+| The Mantis | 100.00% | ~34,265 |
+| A Long Time Ago | 91.00% | ~31,181 |
+| Sabersmith | 78.00% | ~26,727 |
+| The Obstacle is the Way | 75.00% | ~25,699 |
+| Back At You | 69.00% | ~23,643 |
+| Happy Go Wookiee | 66.00% | ~22,615 |
 | Everything is Connected | 56.00% | ~19,188 |
 | Her Name Was Masana Tide | 51.00% | ~17,475 |
 | Bank Shot | 51.00% | ~17,475 |
-| Perfect Timing | 49.00% | ~16,789 |
+| Perfect Timing | 49.00% | ~16,790 |
 | The Full Glow-Up | 48.00% | ~16,447 |
-| Gorgara Falls | 47.00% | ~16,104 |
-| For A More Civilized Age | 46.00% | ~15,761 |
-| I Knew He Was No Good | 44.00% | ~15,076 |
+| Gorgara Falls | 47.00% | ~16,105 |
+| For A More Civilized Age | 46.00% | ~15,762 |
+| I Knew He Was No Good | 44.00% | ~15,077 |
 | The Holocron Awaits | 43.00% | ~14,734 |
 | Trust Only In The Force | 42.00% | ~14,391 |
 | Look Out Below | 40.00% | ~13,706 |
@@ -34,8 +34,8 @@ Rating: 4.68 (Ranked 264)
 | Big Bang | 10.00% | ~3,426 |
 | Feel the Force | 9.00% | ~3,084 |
 | Can't Touch This | 8.00% | ~2,741 |
-| Medical Droid | 7.00% | ~2,398 |
-| Data Collector | 7.00% | ~2,398 |
+| Medical Droid | 7.00% | ~2,399 |
+| Data Collector | 7.00% | ~2,399 |
 | Collector | 5.00% | ~1,713 |
 | Data Disk | 5.00% | ~1,713 |
 | Green Thumb | 4.00% | ~1,371 |
@@ -45,7 +45,7 @@ Rating: 4.68 (Ranked 264)
 | What Goes Around... | 2.00% | ~685 |
 | Not So Fast | 1.00% | ~343 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,264 (Ranked 136)  
+Progressed: 34,265 (Ranked 136)  
 Completed: 330 (0.96%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 330 (0.96%) (Ranked 179)
 | 2024-01-09 | 33,700 | 328 |
 | 2024-01-10 | 34,010 | 328 |
 | 2024-01-11 | 34,230 | 330 |
-| 2024-01-12 | 34,264 | 330 |
+| 2024-01-12 | 34,265 | 330 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

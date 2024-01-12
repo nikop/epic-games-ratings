@@ -197,7 +197,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1121,
+  "EOS_Progressed": 1122,
   "EOS_Completed": 1,
   "EOS_NewPlayers": -7,
   "EOS_NewCompleters": 0,
@@ -2722,6 +2722,11 @@
       "Time": "2024-01-12T02:29:02.9369109+00:00",
       "NumProgressed": 1121,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T03:03:48.7594265+00:00",
+      "NumProgressed": 1122,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2773,7 +2778,7 @@
       "Name": "First Blood",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "07",
@@ -2781,7 +2786,7 @@
       "Name": "Monster Hunter",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "08",
@@ -2861,7 +2866,7 @@
       "Name": "Ready to Learn",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "18",
@@ -2901,7 +2906,7 @@
       "Name": "House Vulisica\u0027s Heirloom",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "23",
@@ -2916,7 +2921,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1121,
+      "Progressed": 1122,
       "Completed": 1
     }
   ],
@@ -2924,8 +2929,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-01-12T02:29:02.9369104+00:00",
+  "LastChanged_Achievements": "2024-01-12T03:03:48.7594263+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:22.9341362+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:28:03.9938713+00:00",
-  "LastUpdate_Achievements": "2024-01-12T02:29:02.9369628+00:00"
+  "LastUpdate_Ratings": "2024-01-12T03:02:48.8359806+00:00",
+  "LastUpdate_Achievements": "2024-01-12T03:03:48.7594536+00:00"
 }

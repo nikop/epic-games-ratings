@@ -3911,9 +3911,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 20703,
+  "EOS_Progressed": 20706,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 552,
+  "EOS_NewPlayers": 553,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19351,6 +19351,11 @@
       "Time": "2024-01-12T01:54:37.1176159+00:00",
       "NumProgressed": 20703,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-12T03:05:18.6596325+00:00",
+      "NumProgressed": 20706,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19617,9 +19622,9 @@
       "ID": "WinNearWatchtower",
       "SetID": "cfbk359",
       "Name": "Watchtower",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 828
+      "UsersEstimate": 1035
     },
     {
       "ID": "WinOnCoral",
@@ -19699,7 +19704,7 @@
       "Name": "Taking Action",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "WinWithResolve",
@@ -19763,7 +19768,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "WinNearFrosts",
@@ -19787,7 +19792,7 @@
       "Name": "Overgrown Library",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "WinNearPetrified",
@@ -19834,15 +19839,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20703,
+      "Progressed": 20706,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-12T01:48:19.2884447+00:00",
-  "LastChanged_Achievements": "2024-01-12T02:30:33.7178795+00:00",
+  "LastChanged_Achievements": "2024-01-12T03:05:18.6596323+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:24:23.4687301+00:00",
-  "LastUpdate_Achievements": "2024-01-12T02:30:33.7179935+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:59:12.5714315+00:00",
+  "LastUpdate_Achievements": "2024-01-12T03:05:18.6597357+00:00"
 }

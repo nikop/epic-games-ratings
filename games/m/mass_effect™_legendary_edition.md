@@ -32,9 +32,9 @@
 | Merciless | 30.00% | ~1,258 |
 | Paramour I | 29.00% | ~1,217 |
 | The Professor | 29.00% | ~1,217 |
+| Head Hunter | 29.00% | ~1,217 |
 | Scholar | 29.00% | ~1,217 |
 | The Archangel | 28.00% | ~1,175 |
-| Head Hunter | 28.00% | ~1,175 |
 | Operative | 27.00% | ~1,133 |
 | The Convict | 26.00% | ~1,091 |
 | Power Full | 26.00% | ~1,091 |

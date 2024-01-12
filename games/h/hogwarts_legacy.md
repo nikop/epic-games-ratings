@@ -5,35 +5,35 @@ Rating: 4.75 (Ranked 148)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 31.00% | ~118,356 |
-| First Class Student | 28.00% | ~106,902 |
-| Troll with the Punches | 25.00% | ~95,448 |
-| A Keen Sense of Spell | 22.00% | ~83,994 |
-| A Talent for Spending | 18.00% | ~68,723 |
-| That's a Keeper | 18.00% | ~68,723 |
-| Loom for Improvement | 15.00% | ~57,269 |
-| Followed the Butterflies | 14.00% | ~53,451 |
-| The Defender of Dragons | 13.00% | ~49,633 |
-| The Hallowed Hero | 12.00% | ~45,815 |
-| Challenge Accepted | 12.00% | ~45,815 |
-| Coasting Along | 12.00% | ~45,815 |
-| Grappling with a Graphorn | 11.00% | ~41,997 |
-| The One Who Mastered Memories | 11.00% | ~41,997 |
-| The Hero of Hogwarts | 11.00% | ~41,997 |
-| The Spell Master | 10.00% | ~38,179 |
-| Rising From the Ashes | 10.00% | ~38,179 |
-| Flight the Good Flight | 9.00% | ~34,361 |
-| The Avenging Gazelle | 8.00% | ~30,543 |
-| Beast Friends | 8.00% | ~30,543 |
-| A Sallow Grave | 8.00% | ~30,543 |
-| Raising Expectations | 8.00% | ~30,543 |
-| The Toast of the Town | 7.00% | ~26,725 |
-| The Root of the Problem | 7.00% | ~26,725 |
-| The Gryffindor in the Graveyard | 7.00% | ~26,725 |
-| The Seeker of Knowledge | 6.00% | ~22,908 |
-| Third Time's a Charm | 6.00% | ~22,908 |
-| The Ends Petrify the Means | 6.00% | ~22,908 |
-| The Wise Owl | 6.00% | ~22,908 |
+| The Sort Who Makes an Entrance | 31.00% | ~118,361 |
+| First Class Student | 28.00% | ~106,907 |
+| Troll with the Punches | 25.00% | ~95,452 |
+| A Keen Sense of Spell | 22.00% | ~83,998 |
+| A Talent for Spending | 18.00% | ~68,726 |
+| That's a Keeper | 18.00% | ~68,726 |
+| Loom for Improvement | 15.00% | ~57,272 |
+| Followed the Butterflies | 14.00% | ~53,453 |
+| The Defender of Dragons | 13.00% | ~49,635 |
+| The Hallowed Hero | 12.00% | ~45,817 |
+| Challenge Accepted | 12.00% | ~45,817 |
+| Coasting Along | 12.00% | ~45,817 |
+| Grappling with a Graphorn | 11.00% | ~41,999 |
+| The One Who Mastered Memories | 11.00% | ~41,999 |
+| The Hero of Hogwarts | 11.00% | ~41,999 |
+| The Spell Master | 10.00% | ~38,181 |
+| Rising From the Ashes | 10.00% | ~38,181 |
+| Flight the Good Flight | 9.00% | ~34,363 |
+| The Avenging Gazelle | 8.00% | ~30,545 |
+| Beast Friends | 8.00% | ~30,545 |
+| A Sallow Grave | 8.00% | ~30,545 |
+| Raising Expectations | 8.00% | ~30,545 |
+| The Toast of the Town | 7.00% | ~26,727 |
+| The Root of the Problem | 7.00% | ~26,727 |
+| The Gryffindor in the Graveyard | 7.00% | ~26,727 |
+| The Seeker of Knowledge | 6.00% | ~22,909 |
+| Third Time's a Charm | 6.00% | ~22,909 |
+| The Ends Petrify the Means | 6.00% | ~22,909 |
+| The Wise Owl | 6.00% | ~22,909 |
 | Going Through the Potions | 5.00% | ~19,090 |
 | The Auror's Apprentice | 4.00% | ~15,272 |
 | Room with a View | 4.00% | ~15,272 |
@@ -51,8 +51,8 @@ Rating: 4.75 (Ranked 148)
 | The Nature of the Beast | 0.70% | ~2,673 |
 | Collector's Edition | 0.30% | ~1,145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 381,792 (Ranked 54)  
-Completed: 558 (0.15%) (Ranked 291)  
+Progressed: 381,810 (Ranked 54)  
+Completed: 559 (0.15%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -318,10 +318,10 @@ Completed: 558 (0.15%) (Ranked 291)
 | 2024-01-09 | 378,238 | 554 |
 | 2024-01-10 | 380,531 | 556 |
 | 2024-01-11 | 381,678 | 557 |
-| 2024-01-12 | 381,792 | 558 |
+| 2024-01-12 | 381,810 | 559 |
 ## Awards
 Max (Character Customization): 30,252  (Ranked 16)  
-Sum: 61,135 (Ranked 26)  
+Sum: 61,151 (Ranked 26)  
 Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
@@ -333,7 +333,7 @@ Diff (max vs sum): -10
 | This game has Diverse Characters | 1,610 |
 | This game is Relaxing | 1,595 |
 | This game has Amazing Characters | 1,567 |
-| This game is Highly Recommended | 1,543 |
+| This game is Highly Recommended | 1,559 |
 | This game has Quickly Understood Controls | 1,474 |
 | This game has Beautiful Visuals | 1,361 |
 | This game has a Creative Community | 1,025 |
@@ -634,4 +634,4 @@ Diff (max vs sum): -10
 | 2024-01-09 | 4.75 | 29,846 | 60,122 |
 | 2024-01-10 | 4.75 | 30,046 | 60,561 |
 | 2024-01-11 | 4.75 | 30,252 | 61,008 |
-| 2024-01-12 | 4.75 | 30,252 | 61,135 |
+| 2024-01-12 | 4.75 | 30,252 | 61,151 |

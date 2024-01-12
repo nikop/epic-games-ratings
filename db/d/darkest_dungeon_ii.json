@@ -10746,9 +10746,9 @@
       "Count": 1092
     }
   ],
-  "EOS_Progressed": 132504,
+  "EOS_Progressed": 132505,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 799,
+  "EOS_NewPlayers": 793,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39431,6 +39431,11 @@
       "Time": "2024-01-12T02:34:54.8740733+00:00",
       "NumProgressed": 132504,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-12T03:09:36.5305958+00:00",
+      "NumProgressed": 132505,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39978,7 +39983,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "combat_kill_collector",
@@ -40032,9 +40037,9 @@
       "ID": "hero_story_complete_duelist",
       "SetID": "d3bcpc8",
       "Name": "Bloody Graduation",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 442
     },
     {
       "ID": "quest_complete_crusader",
@@ -40073,21 +40078,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132504,
+      "Progressed": 132505,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7373,
+      "Progressed": 7374,
       "Completed": 824
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-11T21:01:00.9596735+00:00",
-  "LastChanged_Achievements": "2024-01-12T02:34:54.874073+00:00",
+  "LastChanged_Achievements": "2024-01-12T03:09:36.5305956+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:24:59.8094543+00:00",
-  "LastUpdate_Achievements": "2024-01-12T02:34:54.8742553+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:59:50.5478034+00:00",
+  "LastUpdate_Achievements": "2024-01-12T03:09:36.5307734+00:00"
 }

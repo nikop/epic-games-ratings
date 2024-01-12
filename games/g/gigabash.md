@@ -1,12 +1,12 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.52 (Ranked 578)  
+Rating: 4.52 (Ranked 579)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 19.00% | ~23,046 |
-| I've Had Enough! | 14.00% | ~16,981 |
+| All Grown Up! | 19.00% | ~23,048 |
+| I've Had Enough! | 14.00% | ~16,983 |
 | Fists, Fury & a lot of Rage | 10.00% | ~12,130 |
 | Seasoned Fighter | 9.00% | ~10,917 |
 | All For One and One For All | 8.00% | ~9,704 |
@@ -26,8 +26,8 @@ Rating: 4.52 (Ranked 578)
 | Ninja Reflex | 0.90% | ~1,092 |
 | Zero-sum Game | 0.90% | ~1,092 |
 | Taste Your Own Medicine | 0.70% | ~849 |
-| This is GigaBash! | 0.50% | ~606 |
-| Sidetracked... | 0.50% | ~606 |
+| This is GigaBash! | 0.50% | ~607 |
+| Sidetracked... | 0.50% | ~607 |
 | Eye of the Titan | 0.40% | ~485 |
 | Just Getting Warmed Up | 0.40% | ~485 |
 | Top of the Food Chain | 0.40% | ~485 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 578)
 | What's Mine is Yours | 0.10% | ~121 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121,295 (Ranked 93)  
+Progressed: 121,305 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 398)
 | 2024-01-09 | 120,421 | 0 |
 | 2024-01-10 | 120,843 | 0 |
 | 2024-01-11 | 121,242 | 0 |
-| 2024-01-12 | 121,295 | 0 |
+| 2024-01-12 | 121,305 | 0 |
 ## Awards
 Max (Great Boss Battles): 54  (Ranked 446)  
 Sum: 54 (Ranked 505)  

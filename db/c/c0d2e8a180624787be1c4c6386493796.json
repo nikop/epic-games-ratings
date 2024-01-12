@@ -5,9 +5,9 @@
   "Ranking_Rating": 7,
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
-  "Ranking_EOS_Progress": 396,
+  "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -37,7 +37,7 @@
   "Tags": [],
   "EOS_Progressed": 312,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -1782,9 +1782,9 @@
       "ID": "KR4_ACHIEVEMENT_KING",
       "SetID": "caeik3h",
       "Name": "The True King",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 184
+      "UsersEstimate": 187
     },
     {
       "ID": "KR4_ACHIEVEMENT_LINIREA",
@@ -1886,9 +1886,9 @@
       "ID": "KR4_ACHIEVEMENT_POLYX",
       "SetID": "caeik3h",
       "Name": "Much To Learn",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 119
     },
     {
       "ID": "KR4_ACHIEVEMENT_PUMPKIN",
@@ -2006,9 +2006,9 @@
       "ID": "KR4_ACHIEVEMENT_THE_THING",
       "SetID": "caeik3h",
       "Name": "Get Away From That!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 103
     },
     {
       "ID": "KR4_ACHIEVEMENT_TROLL",
@@ -2061,8 +2061,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-12T02:29:02.3010755+00:00",
+  "LastChanged_Achievements": "2024-01-12T03:03:48.2133741+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:22:20.8768721+00:00",
-  "LastUpdate_Achievements": "2024-01-12T02:29:02.3011652+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:57:09.6176455+00:00",
+  "LastUpdate_Achievements": "2024-01-12T03:03:48.2134675+00:00"
 }

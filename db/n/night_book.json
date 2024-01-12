@@ -2,9 +2,9 @@
   "ID": "2a873e03d3c94f6ab62bf1e633e5f008",
   "Name": "Night Book",
   "ProductSlug": "night-book-77f2c7",
-  "Ranking_EOS_Progress": 396,
+  "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 312,
+  "EOS_Progressed": 313,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
@@ -706,6 +706,11 @@
       "Time": "2024-01-11T16:08:01.0165515+00:00",
       "NumProgressed": 312,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-12T03:06:06.6469269+00:00",
+      "NumProgressed": 313,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 17,
@@ -725,7 +730,7 @@
       "Name": "Career Woman",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "deal_or_no_deal",
@@ -765,7 +770,7 @@
       "Name": "The Marriage Is Off",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "no_one_is_safe",
@@ -781,7 +786,7 @@
       "Name": "He\u0027s Off His Meds",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "on_your_bike",
@@ -789,7 +794,7 @@
       "Name": "On Your Bike",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "pearce",
@@ -797,7 +802,7 @@
       "Name": "Pearce",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "personal_life",
@@ -845,14 +850,14 @@
       "Name": "Will This Help?",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 312,
+      "Progressed": 313,
       "Completed": 7
     }
   ],
@@ -860,8 +865,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2024-01-12T02:31:22.4044148+00:00",
+  "LastChanged_Achievements": "2024-01-12T03:06:06.6469266+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:52.8888113+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:24:59.4453865+00:00",
-  "LastUpdate_Achievements": "2024-01-12T02:31:22.4044285+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:59:50.1894901+00:00",
+  "LastUpdate_Achievements": "2024-01-12T03:06:06.646939+00:00"
 }

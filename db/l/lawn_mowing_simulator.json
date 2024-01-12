@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2242,7 +2242,7 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 696355,
+  "EOS_Progressed": 696362,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 1996,
   "EOS_NewCompleters": 0,
@@ -32947,6 +32947,11 @@
       "Time": "2024-01-12T02:35:08.7935565+00:00",
       "NumProgressed": 696355,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2024-01-12T03:09:50.0015527+00:00",
+      "NumProgressed": 696362,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -32958,7 +32963,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 550120
+      "UsersEstimate": 550126
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -33046,7 +33051,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 250688
+      "UsersEstimate": 250690
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -33198,7 +33203,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 215870
+      "UsersEstimate": 215872
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -33230,7 +33235,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 41781
+      "UsersEstimate": 41782
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -33262,7 +33267,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 104453
+      "UsersEstimate": 104454
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -33358,7 +33363,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 125344
+      "UsersEstimate": 125345
     },
     {
       "ID": "RP_TRUSTED",
@@ -33374,7 +33379,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 62672
+      "UsersEstimate": 62673
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -33389,15 +33394,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 696355,
+      "Progressed": 696362,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2024-01-10T21:59:15.2512846+00:00",
-  "LastChanged_Achievements": "2024-01-12T02:35:08.793556+00:00",
+  "LastChanged_Achievements": "2024-01-12T03:09:50.0015525+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:56:58.7697098+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:24:55.2127147+00:00",
-  "LastUpdate_Achievements": "2024-01-12T02:35:08.7937093+00:00"
+  "LastUpdate_Ratings": "2024-01-12T02:59:45.7872509+00:00",
+  "LastUpdate_Achievements": "2024-01-12T03:09:50.0017056+00:00"
 }

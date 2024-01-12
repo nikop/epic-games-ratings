@@ -9,7 +9,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 4.00% | ~10,138 |
 | Beast Intentions | 2.00% | ~5,069 |
 | The Cursed Farmer | 2.00% | ~5,069 |
-| The Mad Wizard | 1.00% | ~2,534 |
+| The Mad Wizard | 1.00% | ~2,535 |
 | The Ring of Regeneration | 0.90% | ~2,281 |
 | Are Ya Chicken? | 0.90% | ~2,281 |
 | Were-verpowered | 0.80% | ~2,028 |
@@ -68,6 +68,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Cities | 0.20% | ~507 |
 | The Dead Three | 0.20% | ~507 |
 | Flying Monkey Skulls of Doom | 0.20% | ~507 |
+| The Darkness Runs Deeper | 0.20% | ~507 |
 | Dinosaur Racing | 0.20% | ~507 |
 | Close Escort | 0.20% | ~507 |
 | Constant Banditry | 0.20% | ~507 |
@@ -332,7 +333,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | She's Harmless! | 0.10% | ~253 |
 | The Tallest of Kobolds | 0.10% | ~220 |
 | Patience is Key | 0.10% | ~253 |
-| The Darkness Runs Deeper | 0.10% | ~253 |
 | Troublesome Prisoner | 0.10% | ~253 |
 | Dark Doppelgangers | 0.10% | ~253 |
 | Faerûn's Most Wanted | 0.10% | ~220 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,449 (Ranked 70)  
+Progressed: 253,454 (Ranked 70)  
 Completed: 2,614 (1.03%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -820,7 +820,7 @@ Completed: 2,614 (1.03%) (Ranked 176)
 | 2024-01-09 | 253,044 | 2,606 |
 | 2024-01-10 | 253,250 | 2,611 |
 | 2024-01-11 | 253,420 | 2,614 |
-| 2024-01-12 | 253,449 | 2,614 |
+| 2024-01-12 | 253,454 | 2,614 |
 ## Awards
 Max (Great for Beginners): 5,770  (Ranked 74)  
 Sum: 33,451 (Ranked 41)  

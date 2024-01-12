@@ -5,26 +5,26 @@ Rating: 4.25 (Ranked 926)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~368,556 |
-| Well educated | 37.00% | ~284,095 |
-| City Planner | 19.00% | ~145,887 |
-| Deforester | 17.00% | ~130,530 |
-| Big Hauling | 16.00% | ~122,852 |
-| Apprentice Manufacturer | 13.00% | ~99,817 |
-| Exporter | 13.00% | ~99,817 |
-| I would drive 500 tiles... | 12.00% | ~92,139 |
-| Landscaper | 12.00% | ~92,139 |
-| Railwayman | 8.00% | ~61,426 |
-| Penniless | 6.00% | ~46,069 |
-| Massive Gains | 6.00% | ~46,069 |
+| Entrepreneur | 48.00% | ~368,561 |
+| Well educated | 37.00% | ~284,099 |
+| City Planner | 19.00% | ~145,889 |
+| Deforester | 17.00% | ~130,532 |
+| Big Hauling | 16.00% | ~122,854 |
+| Apprentice Manufacturer | 13.00% | ~99,819 |
+| Exporter | 13.00% | ~99,819 |
+| I would drive 500 tiles... | 12.00% | ~92,140 |
+| Landscaper | 12.00% | ~92,140 |
+| Railwayman | 8.00% | ~61,427 |
+| Penniless | 6.00% | ~46,070 |
+| Massive Gains | 6.00% | ~46,070 |
 | Salesman | 3.00% | ~23,035 |
-| Engineer | 2.00% | ~15,356 |
-| High Flyer | 2.00% | ~15,356 |
+| Engineer | 2.00% | ~15,357 |
+| High Flyer | 2.00% | ~15,357 |
 | Captain | 0.80% | ~6,143 |
 | Billionaire | 0.70% | ~5,375 |
 | Vroom Vroom | 0.40% | ~3,071 |
-| Excavator | 0.30% | ~2,303 |
-| Loan Ranger | 0.30% | ~2,303 |
+| Excavator | 0.30% | ~2,304 |
+| Loan Ranger | 0.30% | ~2,304 |
 | [2130] Nature Lover | 0.10% | ~768 |
 | [2130] No Quarter Given | 0.10% | ~768 |
 | [2130] Dumpster Diving | 0.10% | ~768 |
@@ -33,7 +33,7 @@ Rating: 4.25 (Ranked 926)
 | Master Builder | 0.10% | ~768 |
 | Hard working | 0.10% | ~768 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 767,824 (Ranked 24)  
+Progressed: 767,835 (Ranked 24)  
 Completed: 4 (0.00%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 4 (0.00%) (Ranked 398)
 | 2024-01-09 | 767,338 | 4 |
 | 2024-01-10 | 767,557 | 4 |
 | 2024-01-11 | 767,792 | 4 |
-| 2024-01-12 | 767,824 | 4 |
+| 2024-01-12 | 767,835 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

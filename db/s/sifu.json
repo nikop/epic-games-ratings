@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 37,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8931,9 +8931,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 759633,
+  "EOS_Progressed": 759645,
   "EOS_Completed": 12983,
-  "EOS_NewPlayers": 5631,
+  "EOS_NewPlayers": 5621,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -33396,6 +33396,11 @@
       "Time": "2024-01-12T02:34:28.4597007+00:00",
       "NumProgressed": 759633,
       "NumCompleted": 12983
+    },
+    {
+      "Time": "2024-01-12T03:09:10.2676125+00:00",
+      "NumProgressed": 759645,
+      "NumCompleted": 12983
     }
   ],
   "TotalAchievements": 60,
@@ -33407,7 +33412,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45578
+      "UsersEstimate": 45579
     },
     {
       "ID": "02_Vengeance_H1",
@@ -33415,7 +33420,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30385
+      "UsersEstimate": 30386
     },
     {
       "ID": "03_Vengeance_H2",
@@ -33455,7 +33460,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 5317
+      "UsersEstimate": 5318
     },
     {
       "ID": "08_Wude_H2",
@@ -33519,7 +33524,7 @@
       "Name": "Detective Story",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 5317
+      "UsersEstimate": 5318
     },
     {
       "ID": "16_Detective_H2",
@@ -33671,7 +33676,7 @@
       "Name": "Lightning Hands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30385
+      "UsersEstimate": 30386
     },
     {
       "ID": "35_WideStrike",
@@ -33871,7 +33876,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -33886,21 +33891,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 68934,
+      "Progressed": 68946,
       "Completed": 10806
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 759633,
+      "Progressed": 759645,
       "Completed": 12983
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-11T23:02:59.444706+00:00",
-  "LastChanged_Achievements": "2024-01-12T02:34:28.4597004+00:00",
+  "LastChanged_Achievements": "2024-01-12T03:09:10.2676124+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.3871095+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:28:12.4206646+00:00",
-  "LastUpdate_Achievements": "2024-01-12T02:34:28.4598416+00:00"
+  "LastUpdate_Ratings": "2024-01-12T03:02:57.0789804+00:00",
+  "LastUpdate_Achievements": "2024-01-12T03:09:10.2677697+00:00"
 }

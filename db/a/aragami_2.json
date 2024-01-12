@@ -257,7 +257,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45051,
+  "EOS_Progressed": 45052,
   "EOS_Completed": 248,
   "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 0,
@@ -20887,6 +20887,11 @@
       "Time": "2024-01-12T01:55:25.9577368+00:00",
       "NumProgressed": 45051,
       "NumCompleted": 248
+    },
+    {
+      "Time": "2024-01-12T03:06:06.8702078+00:00",
+      "NumProgressed": 45052,
+      "NumCompleted": 248
     }
   ],
   "TotalAchievements": 44,
@@ -20898,7 +20903,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25679
+      "UsersEstimate": 25680
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -21018,7 +21023,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 36041
+      "UsersEstimate": 36042
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -21122,7 +21127,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24778
+      "UsersEstimate": 24779
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -21130,7 +21135,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14416
+      "UsersEstimate": 14417
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -21138,7 +21143,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28382
+      "UsersEstimate": 28383
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -21170,7 +21175,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 30184
+      "UsersEstimate": 30185
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -21234,7 +21239,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41897
+      "UsersEstimate": 41898
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -21249,7 +21254,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 45051,
+      "Progressed": 45052,
       "Completed": 248
     }
   ],
@@ -21257,8 +21262,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-12T02:31:22.6190196+00:00",
+  "LastChanged_Achievements": "2024-01-12T03:06:06.8702076+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:52.8040993+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:28:16.9972672+00:00",
-  "LastUpdate_Achievements": "2024-01-12T02:31:22.6191591+00:00"
+  "LastUpdate_Ratings": "2024-01-12T03:03:02.3604349+00:00",
+  "LastUpdate_Achievements": "2024-01-12T03:06:06.8703507+00:00"
 }

@@ -3999,9 +3999,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33557,
+  "EOS_Progressed": 33559,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -25269,6 +25269,11 @@
       "Time": "2024-01-12T02:34:03.4748177+00:00",
       "NumProgressed": 33557,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-12T03:08:45.2779753+00:00",
+      "NumProgressed": 33559,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -25368,7 +25373,7 @@
       "Name": "Discovery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "Dont_Need_These",
@@ -25568,7 +25573,7 @@
       "Name": "Solo Capture",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "Stunner",
@@ -25608,7 +25613,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "Teamwork",
@@ -25687,7 +25692,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33557,
+      "Progressed": 33559,
       "Completed": 71
     }
   ],
@@ -25695,8 +25700,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-11T18:59:58.0026653+00:00",
-  "LastChanged_Achievements": "2024-01-12T02:34:03.4748172+00:00",
+  "LastChanged_Achievements": "2024-01-12T03:08:45.2779751+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.8485347+00:00",
-  "LastUpdate_Ratings": "2024-01-12T02:25:11.4702556+00:00",
-  "LastUpdate_Achievements": "2024-01-12T02:34:03.474939+00:00"
+  "LastUpdate_Ratings": "2024-01-12T03:00:01.3569168+00:00",
+  "LastUpdate_Achievements": "2024-01-12T03:08:45.2781146+00:00"
 }
