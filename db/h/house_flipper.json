@@ -3,11 +3,11 @@
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
   "Ranking_Rating": 240,
-  "Ranking_Popularity": 254,
+  "Ranking_Popularity": 255,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -2301,9 +2301,9 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 22113,
+  "EOS_Progressed": 22114,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -13271,6 +13271,11 @@
       "Time": "2024-01-12T17:06:30.7045411+00:00",
       "NumProgressed": 22113,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-12T18:05:18.2847894+00:00",
+      "NumProgressed": 22114,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -13330,7 +13335,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 21007
+      "UsersEstimate": 21008
     },
     {
       "ID": "GameOver",
@@ -13434,7 +13439,7 @@
       "Name": "Pro-creative",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4201
+      "UsersEstimate": 4202
     },
     {
       "ID": "Strongman",
@@ -13465,15 +13470,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 22113,
+      "Progressed": 22114,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2024-01-11T23:59:10.5298224+00:00",
-  "LastChanged_Achievements": "2024-01-12T17:06:30.7045408+00:00",
+  "LastChanged_Achievements": "2024-01-12T18:05:18.284789+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:58.4708185+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:00:32.8514214+00:00",
-  "LastUpdate_Achievements": "2024-01-12T17:06:30.704616+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:59:31.6226993+00:00",
+  "LastUpdate_Achievements": "2024-01-12T18:05:18.2848431+00:00"
 }

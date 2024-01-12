@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -427,7 +427,7 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 1716,
+  "EOS_Progressed": 1717,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
@@ -4587,6 +4587,11 @@
       "Time": "2024-01-12T15:10:46.9813457+00:00",
       "NumProgressed": 1716,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T18:09:53.5782195+00:00",
+      "NumProgressed": 1717,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4646,7 +4651,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -4654,7 +4659,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "EXPERT_1",
@@ -4668,9 +4673,9 @@
       "ID": "EXPLORER_1",
       "SetID": "bf13m8j",
       "Name": "Explorer",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 258
     },
     {
       "ID": "GHOSTBUSTER",
@@ -4702,7 +4707,7 @@
       "Name": "Indy",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "KORALOV",
@@ -4718,7 +4723,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "LOVE_GURU_1",
@@ -4726,7 +4731,7 @@
       "Name": "Love Guru",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -4750,7 +4755,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4774,7 +4779,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "PRIVATE_EYE",
@@ -4878,22 +4883,22 @@
       "Name": "Wishmaster",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     }
   ],
   "AchievementSets": [
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1716,
+      "Progressed": 1717,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-12T16:58:09.1410221+00:00",
-  "LastChanged_Achievements": "2024-01-12T17:10:52.3642982+00:00",
+  "LastChanged_Achievements": "2024-01-12T18:09:53.5782191+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-12T16:58:09.1410225+00:00",
-  "LastUpdate_Achievements": "2024-01-12T17:10:52.3643376+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:57:48.7040231+00:00",
+  "LastUpdate_Achievements": "2024-01-12T18:09:53.578298+00:00"
 }

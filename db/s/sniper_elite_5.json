@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -667,9 +667,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4270,
+  "EOS_Progressed": 4271,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9647,6 +9647,11 @@
       "Time": "2024-01-12T08:10:17.6192982+00:00",
       "NumProgressed": 4270,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-12T18:09:32.7341817+00:00",
+      "NumProgressed": 4271,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9682,7 +9687,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -9826,7 +9831,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1793
+      "UsersEstimate": 1794
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -9874,7 +9879,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -9970,7 +9975,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -9994,7 +9999,7 @@
       "Name": "Change the Channel",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -10122,7 +10127,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -10225,13 +10230,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4221,
+      "Progressed": 4222,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4270,
+      "Progressed": 4271,
       "Completed": 11
     }
   ],
@@ -10239,8 +10244,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-09T13:14:28.403425+00:00",
-  "LastChanged_Achievements": "2024-01-12T17:10:24.9615559+00:00",
+  "LastChanged_Achievements": "2024-01-12T18:09:32.7341813+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:59.0213472+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:00:25.0325243+00:00",
-  "LastUpdate_Achievements": "2024-01-12T17:10:24.9616499+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:59:26.1469835+00:00",
+  "LastUpdate_Achievements": "2024-01-12T18:09:32.7343177+00:00"
 }

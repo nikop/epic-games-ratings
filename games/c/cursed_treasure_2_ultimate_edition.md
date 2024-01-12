@@ -30,7 +30,7 @@
 | Brilliant: Holy Mountain | 63.00% | ~117 |
 | Combo Breaker | 63.00% | ~117 |
 | Thunderstorm | 63.00% | ~117 |
-| Clean Forests | 61.00% | ~113 |
+| Clean Forests | 62.00% | ~115 |
 | Starry: Meadowshire | 58.00% | ~108 |
 | Lieutenant of the Evil | 58.00% | ~108 |
 | Avada Kedavra | 56.00% | ~104 |

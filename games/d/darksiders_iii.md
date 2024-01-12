@@ -6,7 +6,7 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~437 |
+| Green with Envy | 78.00% | ~442 |
 | First of many… | 68.00% | ~386 |
 | Helping Hand | 64.00% | ~363 |
 | Increased Vigor | 60.00% | ~340 |
@@ -14,12 +14,12 @@ Number of Ratings: 116  (23.09.2022)
 | Increased Capacity | 55.00% | ~312 |
 | Just the start | 49.00% | ~278 |
 | Perfect Storm | 46.00% | ~261 |
-| All That Glitters | 45.00% | ~255 |
+| All That Glitters | 46.00% | ~261 |
 | Enhance! | 41.00% | ~232 |
 | One Of the Chosen | 40.00% | ~227 |
+| Five's a Crowd | 40.00% | ~227 |
 | Devil's in the Details | 39.00% | ~221 |
 | Throne Potato | 39.00% | ~221 |
-| Five's a Crowd | 39.00% | ~221 |
 | 25 to Life | 39.00% | ~221 |
 | Salvation | 37.00% | ~210 |
 | Soul Harvester | 36.00% | ~204 |
@@ -34,8 +34,8 @@ Number of Ratings: 116  (23.09.2022)
 | Unyielding Strength | 26.00% | ~147 |
 | Big Spender | 26.00% | ~147 |
 | Can you restore the Balance? | 25.00% | ~142 |
+| Crowd Source | 25.00% | ~142 |
 | Cleanup Crew | 24.00% | ~136 |
-| Crowd Source | 24.00% | ~136 |
 | Demon Meddler | 23.00% | ~130 |
 | Seeing Red | 23.00% | ~130 |
 | Maximum Capacity | 22.00% | ~125 |

@@ -555,9 +555,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 6374,
+  "EOS_Progressed": 6375,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 460,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9665,6 +9665,11 @@
       "Time": "2024-01-12T17:04:19.7865302+00:00",
       "NumProgressed": 6374,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-12T18:03:39.8953686+00:00",
+      "NumProgressed": 6375,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -9676,7 +9681,7 @@
       "Name": "Archivist",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_ALL_MARINES_ALIVE",
@@ -9684,7 +9689,7 @@
       "Name": "Flawless Victory",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "ACH_ALL_WEAPONS",
@@ -9716,7 +9721,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2677
+      "UsersEstimate": 2678
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -9724,7 +9729,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -9732,7 +9737,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -9740,7 +9745,7 @@
       "Name": "Fair And Square",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_FINISH_IRONMAN",
@@ -9772,7 +9777,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4143
+      "UsersEstimate": 4144
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -9788,7 +9793,7 @@
       "Name": "Call Me Snake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3378
+      "UsersEstimate": 3379
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -9796,7 +9801,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 3633
+      "UsersEstimate": 3634
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -9868,7 +9873,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 3314
+      "UsersEstimate": 3315
     },
     {
       "ID": "ACH_MISSION_02",
@@ -9890,9 +9895,9 @@
       "ID": "ACH_MISSION_04",
       "SetID": "816efe",
       "Name": "Making a Stand",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2295
+      "UsersEstimate": 2359
     },
     {
       "ID": "ACH_MISSION_05",
@@ -9900,7 +9905,7 @@
       "Name": "Where It All Begun",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2103
+      "UsersEstimate": 2104
     },
     {
       "ID": "ACH_MISSION_06",
@@ -9948,7 +9953,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "ACH_MISSION_12",
@@ -9956,7 +9961,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -9972,7 +9977,7 @@
       "Name": "Snatched Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 4079
+      "UsersEstimate": 4080
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -9980,7 +9985,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 4908
+      "UsersEstimate": 4909
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -9988,7 +9993,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3187
+      "UsersEstimate": 3188
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -10035,7 +10040,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6374,
+      "Progressed": 6375,
       "Completed": 3
     }
   ],
@@ -10043,8 +10048,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-12T09:00:33.1677408+00:00",
-  "LastChanged_Achievements": "2024-01-12T17:04:19.78653+00:00",
+  "LastChanged_Achievements": "2024-01-12T18:03:39.8953681+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.3437063+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:02:34.8015269+00:00",
-  "LastUpdate_Achievements": "2024-01-12T17:04:19.7866032+00:00"
+  "LastUpdate_Ratings": "2024-01-12T18:00:23.0107406+00:00",
+  "LastUpdate_Achievements": "2024-01-12T18:03:39.8954778+00:00"
 }

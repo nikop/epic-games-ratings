@@ -53,7 +53,7 @@
 | Pulp! The Vault of Horror | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 91 (Ranked 502)  
-Completed: 1 (1.10%) (Ranked 171)  
+Completed: 1 (1.10%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

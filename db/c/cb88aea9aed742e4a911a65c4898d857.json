@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 375,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -335,9 +335,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 11166,
+  "EOS_Progressed": 11174,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 964,
+  "EOS_NewPlayers": 952,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4630,6 +4630,11 @@
       "Time": "2024-01-12T17:10:55.2915803+00:00",
       "NumProgressed": 11166,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T18:09:55.886271+00:00",
+      "NumProgressed": 11174,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4642,7 +4647,7 @@
       "Name": "Conspiracy",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 2122
+      "UsersEstimate": 2123
     },
     {
       "ID": "03_TheStolenStar",
@@ -4650,7 +4655,7 @@
       "Name": "Stolen Star",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -4746,7 +4751,7 @@
       "Name": "Pentakill",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "16_TheRise",
@@ -4754,7 +4759,7 @@
       "Name": "The Rise",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "17_TheExemplar",
@@ -4762,7 +4767,7 @@
       "Name": "Exemplar",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -4770,7 +4775,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "19_TheVoidWolf",
@@ -4778,7 +4783,7 @@
       "Name": "Void Wolf",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -4802,7 +4807,7 @@
       "Name": "Perfect Timing",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "23_DynastyRestored",
@@ -4818,7 +4823,7 @@
       "Name": "Highrise",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "25_DynastyProspers",
@@ -4850,15 +4855,15 @@
       "Name": "Light of the Astronomican",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "29_NoStoneUnturned",
       "SetID": "37a94m8",
       "Name": "No Stone Unturned",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 223
+      "UsersEstimate": 335
     },
     {
       "ID": "30_The GreatestExploration",
@@ -4898,7 +4903,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -4912,9 +4917,9 @@
       "ID": "36_TheAdventurousArchaelogist",
       "SetID": "37a94m8",
       "Name": "Adventurous Archaeologist",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 223
     },
     {
       "ID": "37_TheSirenicalDiplomat",
@@ -4962,7 +4967,7 @@
       "Name": "Iron Judgement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -4970,7 +4975,7 @@
       "Name": "No Place Like Home",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -4994,7 +4999,7 @@
       "Name": "A Spark",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "47_AFlame",
@@ -5010,7 +5015,7 @@
       "Name": "Unexpected Company",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "49_HowDidItAllEnd",
@@ -5018,7 +5023,7 @@
       "Name": "How Did It All End?",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "50_Whodunit",
@@ -5026,7 +5031,7 @@
       "Name": "Whodunit?",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -5161,7 +5166,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11166,
+      "Progressed": 11174,
       "Completed": 1
     }
   ],
@@ -5169,8 +5174,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-12T03:59:45.455551+00:00",
-  "LastChanged_Achievements": "2024-01-12T17:10:55.2915798+00:00",
+  "LastChanged_Achievements": "2024-01-12T18:09:55.8862707+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:01:00.5287184+00:00",
-  "LastUpdate_Achievements": "2024-01-12T17:10:55.291662+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:59:51.3602563+00:00",
+  "LastUpdate_Achievements": "2024-01-12T18:09:55.8863389+00:00"
 }

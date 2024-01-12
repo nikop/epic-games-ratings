@@ -11,7 +11,7 @@ Number of Ratings: 25  (23.09.2022)
 | Learner | 92.00% | ~576 |
 | Economical | 92.00% | ~576 |
 | Devout | 89.00% | ~557 |
-| The Love Martyr | 87.00% | ~545 |
+| The Love Martyr | 88.00% | ~551 |
 | Frugal | 85.00% | ~532 |
 | Dilligent | 83.00% | ~520 |
 | I... I did it? | 81.00% | ~507 |

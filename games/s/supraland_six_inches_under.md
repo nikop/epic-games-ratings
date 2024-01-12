@@ -1,67 +1,67 @@
 # Supraland Six Inches Under
 [Store](https://store.epicgames.com/en-US/p/supraland-six-inches-under-dd0220)  
 [View Rawdata](../../db/s/supraland_six_inches_under.json)  
-Rating: 4.75 (Ranked 149)  
+Rating: 4.75 (Ranked 150)  
 Number of Ratings: 209  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Morning | 99.00% | ~2,409 |
-| Hit Rock Bottom | 97.00% | ~2,360 |
-| Rocket Launched | 97.00% | ~2,360 |
-| Speed | 97.00% | ~2,360 |
-| High Jump | 96.00% | ~2,336 |
-| Knee bending | 96.00% | ~2,336 |
-| Pickaxe | 94.00% | ~2,287 |
-| Cage Town | 94.00% | ~2,287 |
-| Entered Cage Town | 93.00% | ~2,263 |
-| Stone Pickaxe | 93.00% | ~2,263 |
-| Revenge | 93.00% | ~2,263 |
-| Surprise | 93.00% | ~2,263 |
-| Force Beam | 92.00% | ~2,238 |
-| Magnet | 90.00% | ~2,190 |
-| Industrial Area | 89.00% | ~2,165 |
-| Magnet Repel | 88.00% | ~2,141 |
-| You feel middle classy | 87.00% | ~2,117 |
-| Boomeraxe | 87.00% | ~2,117 |
-| Iron Pickaxe | 87.00% | ~2,117 |
-| Banking District | 86.00% | ~2,092 |
-| Arrested | 85.00% | ~2,068 |
-| Zappy Gun | 85.00% | ~2,068 |
-| Got your own one now | 85.00% | ~2,068 |
-| Don't draw dicks pls | 85.00% | ~2,068 |
-| Mission Unlikely | 85.00% | ~2,068 |
-| Ripped | 84.00% | ~2,044 |
-| Beat the big arena | 82.00% | ~1,995 |
-| Force Cube | 82.00% | ~1,995 |
-| Got Battery | 81.00% | ~1,971 |
-| Guard Distracted | 80.00% | ~1,946 |
-| Translocator | 80.00% | ~1,946 |
-| Inner Peace | 78.00% | ~1,898 |
-| Diamond Pickaxe | 76.00% | ~1,849 |
-| Killed them all | 76.00% | ~1,849 |
-| Trickle Down Economy | 76.00% | ~1,849 |
-| Win | 76.00% | ~1,849 |
+| Good Morning | 99.00% | ~2,410 |
+| Hit Rock Bottom | 97.00% | ~2,361 |
+| Rocket Launched | 97.00% | ~2,361 |
+| Speed | 97.00% | ~2,361 |
+| High Jump | 96.00% | ~2,337 |
+| Knee bending | 96.00% | ~2,337 |
+| Pickaxe | 94.00% | ~2,288 |
+| Cage Town | 94.00% | ~2,288 |
+| Entered Cage Town | 93.00% | ~2,264 |
+| Stone Pickaxe | 93.00% | ~2,264 |
+| Revenge | 93.00% | ~2,264 |
+| Surprise | 93.00% | ~2,264 |
+| Force Beam | 92.00% | ~2,239 |
+| Magnet | 90.00% | ~2,191 |
+| Industrial Area | 89.00% | ~2,166 |
+| Magnet Repel | 88.00% | ~2,142 |
+| Boomeraxe | 87.00% | ~2,118 |
+| You feel middle classy | 86.00% | ~2,093 |
+| Banking District | 86.00% | ~2,093 |
+| Iron Pickaxe | 86.00% | ~2,093 |
+| Arrested | 85.00% | ~2,069 |
+| Zappy Gun | 85.00% | ~2,069 |
+| Got your own one now | 85.00% | ~2,069 |
+| Don't draw dicks pls | 85.00% | ~2,069 |
+| Mission Unlikely | 85.00% | ~2,069 |
+| Ripped | 84.00% | ~2,045 |
+| Beat the big arena | 82.00% | ~1,996 |
+| Force Cube | 82.00% | ~1,996 |
+| Got Battery | 80.00% | ~1,947 |
+| Guard Distracted | 80.00% | ~1,947 |
+| Translocator | 80.00% | ~1,947 |
+| Inner Peace | 78.00% | ~1,899 |
+| Diamond Pickaxe | 76.00% | ~1,850 |
+| Killed them all | 76.00% | ~1,850 |
+| Trickle Down Economy | 76.00% | ~1,850 |
+| Win | 76.00% | ~1,850 |
 | Greenhouse | 72.00% | ~1,752 |
-| Played with fire | 70.00% | ~1,703 |
-| You feel very sorry | 70.00% | ~1,703 |
-| No Match for you | 65.00% | ~1,581 |
-| Bouncy | 62.00% | ~1,508 |
+| Played with fire | 70.00% | ~1,704 |
+| You feel very sorry | 70.00% | ~1,704 |
+| No Match for you | 65.00% | ~1,582 |
+| Bouncy | 62.00% | ~1,509 |
 | Plumbster | 60.00% | ~1,460 |
 | Faster | 60.00% | ~1,460 |
-| Much Magic | 58.00% | ~1,411 |
-| Chest Detector | 56.00% | ~1,362 |
-| Flames | 53.00% | ~1,289 |
-| Momentum | 46.00% | ~1,119 |
-| You're unsure if you broke the game or not | 43.00% | ~1,046 |
-| But wait... ...There's more... | 40.00% | ~973 |
+| Much Magic | 58.00% | ~1,412 |
+| Chest Detector | 56.00% | ~1,363 |
+| Flames | 53.00% | ~1,290 |
+| Momentum | 46.00% | ~1,120 |
+| You're unsure if you broke the game or not | 43.00% | ~1,047 |
+| But wait... ...There's more... | 40.00% | ~974 |
 | So much force | 35.00% | ~852 |
 | You feel fully engaged | 24.00% | ~584 |
 | Too hot | 20.00% | ~487 |
 | All the chests | 14.00% | ~341 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,433 (Ranked 241)  
-Completed: 296 (12.17%) (Ranked 37)  
+Progressed: 2,434 (Ranked 241)  
+Completed: 296 (12.16%) (Ranked 37)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -294,7 +294,7 @@ Completed: 296 (12.17%) (Ranked 37)
 | 2024-01-09 | 2,428 | 295 |
 | 2024-01-10 | 2,429 | 296 |
 | 2024-01-11 | 2,430 | 296 |
-| 2024-01-12 | 2,433 | 296 |
+| 2024-01-12 | 2,434 | 296 |
 ## Awards
 Max (Challenging Puzzles): 109  (Ranked 368)  
 Sum: 109 (Ranked 468)  

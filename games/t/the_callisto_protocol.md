@@ -5,22 +5,22 @@ Rating: 4.22 (Ranked 954)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Outer Way | 27.00% | ~5,997 |
-| Flesh Wound | 26.00% | ~5,775 |
-| Desperate Times | 25.00% | ~5,553 |
+| The Outer Way | 27.00% | ~5,998 |
+| Flesh Wound | 26.00% | ~5,776 |
+| Desperate Times | 25.00% | ~5,554 |
 | Paper Jams | 23.00% | ~5,109 |
 | Get a Grip | 22.00% | ~4,887 |
-| Chew 'Em Up | 20.00% | ~4,442 |
-| Reforged | 19.00% | ~4,220 |
-| Float Like A Butterfly | 18.00% | ~3,998 |
+| Chew 'Em Up | 20.00% | ~4,443 |
+| Reforged | 19.00% | ~4,221 |
+| Float Like A Butterfly | 18.00% | ~3,999 |
 | If the SHU Fits... | 17.00% | ~3,776 |
 | Workplace Hazard | 16.00% | ~3,554 |
 | Without A Paddle | 14.00% | ~3,110 |
-| In the Pipe, Five by Five | 12.00% | ~2,665 |
-| Crash Site | 12.00% | ~2,665 |
-| Two Heads Are Better Than One | 11.00% | ~2,443 |
-| Terminated | 11.00% | ~2,443 |
-| Power Up | 11.00% | ~2,443 |
+| In the Pipe, Five by Five | 12.00% | ~2,666 |
+| Crash Site | 12.00% | ~2,666 |
+| Two Heads Are Better Than One | 11.00% | ~2,444 |
+| Terminated | 11.00% | ~2,444 |
+| Power Up | 11.00% | ~2,444 |
 | Giving Back | 10.00% | ~2,221 |
 | What Lies Beneath | 10.00% | ~2,221 |
 | Full Circle | 10.00% | ~2,221 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 954)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,212 (Ranked 151)  
+Progressed: 22,214 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,16 +312,16 @@ Completed: 82 (0.37%) (Ranked 245)
 | 2024-01-09 | 21,902 | 82 |
 | 2024-01-10 | 22,053 | 82 |
 | 2024-01-11 | 22,169 | 82 |
-| 2024-01-12 | 22,212 | 82 |
+| 2024-01-12 | 22,214 | 82 |
 ## Awards
 Max (Amazing Characters): 131  (Ranked 345)  
-Sum: 640 (Ranked 320)  
+Sum: 641 (Ranked 320)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 131 |
 | This game is Highly Recommended | 122 |
-| This game is Extremely Fun | 115 |
+| This game is Extremely Fun | 116 |
 | This game has Quickly Understood Controls | 110 |
 | This game has Amazing Storytelling | 110 |
 | This game has Challenging Combat | 68 |
@@ -528,4 +528,4 @@ Diff (max vs sum): 25
 | 2024-01-09 | 4.22 | 129 | 619 |
 | 2024-01-10 | 4.22 | 129 | 628 |
 | 2024-01-11 | 4.22 | 131 | 634 |
-| 2024-01-12 | 4.22 | 131 | 640 |
+| 2024-01-12 | 4.22 | 131 | 641 |

@@ -28,8 +28,8 @@ Rating: 4.53 (Ranked 567)
 | Doctor Approved | 6.00% | ~1,134 |
 | Bottoms up! | 6.00% | ~1,134 |
 | Master Negotiator | 6.00% | ~291 |
+| Data Logger | 5.00% | ~945 |
 | Miraculous Maya | 5.00% | ~945 |
-| Data Logger | 4.00% | ~756 |
 | Data Master | 3.00% | ~567 |
 | Brother's Reaper | 2.00% | ~378 |
 | No Belter Left Behind | 2.00% | ~378 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 567)
 | Scavenger Star | 0.30% | ~57 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,901 (Ranked 159)  
+Progressed: 18,902 (Ranked 159)  
 Completed: 63 (0.33%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 63 (0.33%) (Ranked 253)
 | 2024-01-09 | 18,754 | 61 |
 | 2024-01-10 | 18,829 | 62 |
 | 2024-01-11 | 18,866 | 63 |
-| 2024-01-12 | 18,901 | 63 |
+| 2024-01-12 | 18,902 | 63 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

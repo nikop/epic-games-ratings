@@ -5,33 +5,33 @@ Rating: 3.51 (Ranked 1,098)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~18,336 |
-| Master, Commander | 21.00% | ~17,503 |
-| Hard Worker | 20.00% | ~16,669 |
-| Adios, Friendo | 19.00% | ~15,836 |
-| Mechanic | 19.00% | ~15,836 |
-| Bottom's Up | 18.00% | ~15,002 |
+| Be Seeing You | 22.00% | ~18,337 |
+| Master, Commander | 21.00% | ~17,504 |
+| Hard Worker | 20.00% | ~16,670 |
+| Adios, Friendo | 19.00% | ~15,837 |
+| Mechanic | 19.00% | ~15,837 |
+| Bottom's Up | 18.00% | ~15,003 |
 | Nice Try | 16.00% | ~13,336 |
 | Right On Target | 14.00% | ~11,669 |
-| Piano Man | 11.00% | ~9,168 |
-| Lazy Bones | 9.00% | ~7,501 |
+| Piano Man | 11.00% | ~9,169 |
+| Lazy Bones | 9.00% | ~7,502 |
 | Vinyl Vibes | 8.00% | ~6,668 |
-| Nothing Left to Say | 7.00% | ~5,834 |
-| Sniper | 7.00% | ~5,834 |
+| Nothing Left to Say | 7.00% | ~5,835 |
+| Sniper | 7.00% | ~5,835 |
 | Cut Call | 6.00% | ~5,001 |
-| Magnetic Miracles | 5.00% | ~4,167 |
+| Magnetic Miracles | 5.00% | ~4,168 |
 | Butcher | 4.00% | ~3,334 |
 | Fair's Fair | 4.00% | ~3,334 |
 | Spicy | 4.00% | ~3,334 |
-| A Man Of Taste | 3.00% | ~2,500 |
-| Ace in the Hole | 3.00% | ~2,500 |
-| Hearty | 3.00% | ~2,500 |
-| Meaty | 3.00% | ~2,500 |
-| Taco Toto | 3.00% | ~2,500 |
+| A Man Of Taste | 3.00% | ~2,501 |
+| Ace in the Hole | 3.00% | ~2,501 |
+| Hearty | 3.00% | ~2,501 |
+| Meaty | 3.00% | ~2,501 |
+| Taco Toto | 3.00% | ~2,501 |
 | Audiophile | 2.00% | ~1,667 |
 | Tape Head | 2.00% | ~1,667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,347 (Ranked 108)  
+Progressed: 83,351 (Ranked 108)  
 Completed: 929 (1.11%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 929 (1.11%) (Ranked 169)
 | 2024-01-09 | 83,149 | 927 |
 | 2024-01-10 | 83,203 | 928 |
 | 2024-01-11 | 83,292 | 929 |
-| 2024-01-12 | 83,347 | 929 |
+| 2024-01-12 | 83,351 | 929 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

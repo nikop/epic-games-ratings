@@ -6,8 +6,8 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 4.00% | ~6,712 |
-| Imprint | 4.00% | ~6,712 |
+| Taste | 4.00% | ~6,713 |
+| Imprint | 4.00% | ~6,713 |
 | The Hunt | 3.00% | ~5,034 |
 | Ravenous | 3.00% | ~5,034 |
 | Weeper | 2.00% | ~3,356 |
@@ -16,7 +16,7 @@ Number of Ratings: 46  (23.09.2022)
 | Devourer | 1.00% | ~1,678 |
 | Yank | 0.90% | ~1,510 |
 | Sharpened Vessel | 0.90% | ~1,510 |
-| Feast | 0.80% | ~1,342 |
+| Feast | 0.80% | ~1,343 |
 | Scion | 0.70% | ~1,172 |
 | Jawcrab | 0.70% | ~1,175 |
 | Jawstag | 0.70% | ~1,175 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~167 |
 | Intensify | 0.10% | ~167 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 167,806 (Ranked 84)  
+Progressed: 167,814 (Ranked 84)  
 Completed: 456 (0.27%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 456 (0.27%) (Ranked 264)
 | 2024-01-09 | 167,455 | 453 |
 | 2024-01-10 | 167,592 | 454 |
 | 2024-01-11 | 167,713 | 455 |
-| 2024-01-12 | 167,806 | 456 |
+| 2024-01-12 | 167,814 | 456 |
 ## Awards
 Max (Highly Recommended): 62  (Ranked 432)  
 Sum: 458 (Ranked 342)  

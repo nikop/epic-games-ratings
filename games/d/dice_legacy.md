@@ -1,7 +1,7 @@
 # Dice Legacy
 [Store](https://store.epicgames.com/en-US/p/dice-legacy)  
 [View Rawdata](../../db/d/dice_legacy.json)  
-Rating: 4.29 (Ranked 884)  
+Rating: 4.29 (Ranked 883)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 884)
 | Purist | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,336 (Ranked 278)  
+Progressed: 1,336 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |

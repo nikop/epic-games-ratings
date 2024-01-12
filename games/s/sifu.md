@@ -1,20 +1,20 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 69)  
+Rating: 4.82 (Ranked 70)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Old Grandmaster | 6.00% | ~45,597 |
-| Life is your teacher | 5.00% | ~37,997 |
-| Lightning Hands | 5.00% | ~37,997 |
+| Life is your teacher | 5.00% | ~37,998 |
+| Lightning Hands | 5.00% | ~37,998 |
 | The Assault | 4.00% | ~30,398 |
-| The Hateful Pole Fighter | 3.00% | ~22,798 |
-| Street Fighting | 3.00% | ~22,798 |
-| State of constant learning | 3.00% | ~22,798 |
-| Qi Gong: Essence | 3.00% | ~22,798 |
-| Old Child | 3.00% | ~22,798 |
+| The Hateful Pole Fighter | 3.00% | ~22,799 |
+| Street Fighting | 3.00% | ~22,799 |
+| State of constant learning | 3.00% | ~22,799 |
+| Qi Gong: Essence | 3.00% | ~22,799 |
+| Old Child | 3.00% | ~22,799 |
 | A Lady's Blood in the Snow | 2.00% | ~15,199 |
 | Lady Wing Chun | 2.00% | ~15,199 |
 | Furious Fists | 2.00% | ~15,199 |
@@ -26,11 +26,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 2.00% | ~15,199 |
 | Take damage to save time | 2.00% | ~15,199 |
 | Diligence as a goal | 2.00% | ~1,385 |
-| Scareless | 1.00% | ~7,599 |
-| Dance of the Praying Mantis | 1.00% | ~7,599 |
-| Qi Gong: Mind | 1.00% | ~7,599 |
-| Kung-Fu Tussle | 1.00% | ~7,599 |
-| Project Arena | 1.00% | ~692 |
+| Scareless | 1.00% | ~7,600 |
+| Dance of the Praying Mantis | 1.00% | ~7,600 |
+| Qi Gong: Mind | 1.00% | ~7,600 |
+| Kung-Fu Tussle | 1.00% | ~7,600 |
+| Project Arena | 1.00% | ~693 |
 | Fight the way you practice | 0.80% | ~554 |
 | Muk Yan Master | 0.70% | ~5,320 |
 | Detective Story | 0.70% | ~5,320 |
@@ -38,8 +38,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Source of Flying Daggers | 0.60% | ~4,560 |
 | Iron Money | 0.60% | ~4,560 |
 | Sword Stained With Blood | 0.60% | ~4,560 |
-| Bloody Sport | 0.60% | ~415 |
-| Martial Hub | 0.60% | ~415 |
+| Bloody Sport | 0.60% | ~416 |
+| Martial Hub | 0.60% | ~416 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,800 |
 | Prodigal Child | 0.50% | ~3,800 |
 | The 36th Chamber of Kung-Fu | 0.50% | ~3,800 |
@@ -55,11 +55,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Healing Memory | 0.20% | ~1,520 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,520 |
 | Be like water my friend | 0.20% | ~1,520 |
-| Secure, Protect, Leave | 0.20% | ~138 |
-| Crouching Tiger | 0.20% | ~138 |
-| Skill and an even stronger will | 0.20% | ~138 |
-| Master of the Flying Assassins | 0.20% | ~138 |
-| Beatmaker | 0.20% | ~138 |
+| Secure, Protect, Leave | 0.20% | ~139 |
+| Crouching Tiger | 0.20% | ~139 |
+| Skill and an even stronger will | 0.20% | ~139 |
+| Master of the Flying Assassins | 0.20% | ~139 |
+| Beatmaker | 0.20% | ~139 |
 | Warriors from the Mountain | 0.10% | ~760 |
 | Hidden Dragon | 0.10% | ~69 |
 | Here Cometh the Iceman | 0.10% | ~69 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~69 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 759,943 (Ranked 26)  
+Progressed: 759,958 (Ranked 26)  
 Completed: 12,984 (1.71%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 12,984 (1.71%) (Ranked 146)
 | 2024-01-09 | 758,306 | 12,980 |
 | 2024-01-10 | 759,091 | 12,982 |
 | 2024-01-11 | 759,612 | 12,983 |
-| 2024-01-12 | 759,943 | 12,984 |
+| 2024-01-12 | 759,958 | 12,984 |
 ## Awards
 Max (Great Boss Battles): 7,179  (Ranked 57)  
 Sum: 12,710 (Ranked 85)  

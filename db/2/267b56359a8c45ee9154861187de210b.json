@@ -4,7 +4,7 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 467,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -790,9 +790,9 @@
       "ID": "airtime_short",
       "SetID": "3448go",
       "Name": "Glider",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "beat_c1_bronze",
@@ -1270,9 +1270,9 @@
       "ID": "rolldist_mid",
       "SetID": "3448go",
       "Name": "Marathon",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "rolldist_short",
@@ -1389,8 +1389,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-12T17:04:50.7214008+00:00",
+  "LastChanged_Achievements": "2024-01-12T18:04:02.8023263+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:03.57847+00:00",
-  "LastUpdate_Ratings": "2024-01-12T16:58:24.3361487+00:00",
-  "LastUpdate_Achievements": "2024-01-12T17:04:50.7214705+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:57:59.3887767+00:00",
+  "LastUpdate_Achievements": "2024-01-12T18:04:02.8024218+00:00"
 }

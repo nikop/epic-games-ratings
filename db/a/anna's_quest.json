@@ -2,9 +2,9 @@
   "ID": "77b68249bf3a4088bbbb54dd35341718",
   "Name": "Anna\u0027s Quest",
   "ProductSlug": "annas-quest-fbefa2",
-  "Ranking_EOS_Progress": 501,
-  "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_Progress": 500,
+  "Ranking_EOS_Completed": 66,
+  "Ranking_EOS_NewPlayers": 537,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 93,
+  "EOS_Progressed": 94,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.45,
+  "EOS_Completed_Percentage": 6.38,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:32.5540849+00:00",
@@ -406,6 +406,11 @@
       "Time": "2024-01-01T13:07:50.1688276+00:00",
       "NumProgressed": 93,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-12T18:05:57.4356997+00:00",
+      "NumProgressed": 94,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 39,
@@ -415,7 +420,7 @@
       "ID": "aq_achievement_1",
       "SetID": "7jh86ne",
       "Name": "Escape artist",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
       "UsersEstimate": 70
     },
@@ -495,7 +500,7 @@
       "ID": "aq_achievement_19",
       "SetID": "7jh86ne",
       "Name": "Memories",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 55,
       "UsersEstimate": 23
     },
@@ -519,7 +524,7 @@
       "ID": "aq_achievement_21",
       "SetID": "7jh86ne",
       "Name": "Turn the last page",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 55,
       "UsersEstimate": 22
     },
@@ -583,7 +588,7 @@
       "ID": "aq_achievement_29",
       "SetID": "7jh86ne",
       "Name": "Pain in the hands",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
       "UsersEstimate": 20
     },
@@ -599,7 +604,7 @@
       "ID": "aq_achievement_30",
       "SetID": "7jh86ne",
       "Name": "Mischief maker",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 35,
       "UsersEstimate": 23
     },
@@ -647,7 +652,7 @@
       "ID": "aq_achievement_36",
       "SetID": "7jh86ne",
       "Name": "Posterboy!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 55,
       "UsersEstimate": 7
     },
@@ -728,7 +733,7 @@
     {
       "ID": "7jh86ne",
       "IsBase": true,
-      "Progressed": 93,
+      "Progressed": 94,
       "Completed": 6
     }
   ],
@@ -736,8 +741,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2024-01-12T17:07:22.899976+00:00",
+  "LastChanged_Achievements": "2024-01-12T18:05:57.4356991+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:28.464882+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:02:54.396361+00:00",
-  "LastUpdate_Achievements": "2024-01-12T17:07:22.9+00:00"
+  "LastUpdate_Ratings": "2024-01-12T18:02:37.1535328+00:00",
+  "LastUpdate_Achievements": "2024-01-12T18:05:57.4357285+00:00"
 }

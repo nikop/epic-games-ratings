@@ -651,9 +651,9 @@
       "ID": "Achievement20",
       "SetID": "jf6ho5",
       "Name": "Amokuali Tower",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "Achievement21",
@@ -707,9 +707,9 @@
       "ID": "Achievement8",
       "SetID": "jf6ho5",
       "Name": "Armored",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "Achievement9",
@@ -732,8 +732,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-01-12T17:10:53.6375102+00:00",
+  "LastChanged_Achievements": "2024-01-12T18:09:54.6235982+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:53.0986152+00:00",
-  "LastUpdate_Ratings": "2024-01-12T16:58:46.9638007+00:00",
-  "LastUpdate_Achievements": "2024-01-12T17:10:53.6375262+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:58:16.0805792+00:00",
+  "LastUpdate_Achievements": "2024-01-12T18:09:54.623614+00:00"
 }

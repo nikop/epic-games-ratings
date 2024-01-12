@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1611,9 +1611,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 10284,
+  "EOS_Progressed": 10285,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1653,
+  "EOS_NewPlayers": 1648,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11126,6 +11126,11 @@
       "Time": "2024-01-12T17:04:38.8632207+00:00",
       "NumProgressed": 10284,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T18:03:53.9842083+00:00",
+      "NumProgressed": 10285,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -11154,7 +11159,7 @@
       "Name": "Big Spender",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1646
     },
     {
       "ID": "achievement_12",
@@ -11266,7 +11271,7 @@
       "Name": "Change of Scenery",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1646
     },
     {
       "ID": "achievement_6",
@@ -11305,7 +11310,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 10284,
+      "Progressed": 10285,
       "Completed": 0
     }
   ],
@@ -11313,8 +11318,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-12T02:58:31.9210418+00:00",
-  "LastChanged_Achievements": "2024-01-12T17:04:38.8632205+00:00",
+  "LastChanged_Achievements": "2024-01-12T18:03:53.9842078+00:00",
   "LastUpdate_AppInfo": "2024-01-11T10:57:09.7547705+00:00",
-  "LastUpdate_Ratings": "2024-01-12T16:59:35.2977229+00:00",
-  "LastUpdate_Achievements": "2024-01-12T17:04:38.8632774+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:58:49.9063339+00:00",
+  "LastUpdate_Achievements": "2024-01-12T18:03:53.9842793+00:00"
 }

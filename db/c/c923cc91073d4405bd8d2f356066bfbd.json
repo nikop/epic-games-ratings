@@ -310,9 +310,9 @@
       "ID": "CHALLENGER_CHAOS",
       "SetID": "1fek4an",
       "Name": "Chaos Challenger",
-      "Percentage": 11,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "COMBO_BULLETSIZE",
@@ -342,17 +342,17 @@
       "ID": "COMBO_DRONE",
       "SetID": "1fek4an",
       "Name": "Skynet",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "COMBO_HP",
       "SetID": "1fek4an",
       "Name": "Steel Egg",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "COMBO_SWORD",
@@ -662,9 +662,9 @@
       "ID": "LEVEL_COMPLETE_2_0",
       "SetID": "1fek4an",
       "Name": "Castle",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "LEVEL_COMPLETE_2_12",
@@ -710,9 +710,9 @@
       "ID": "LEVEL_COMPLETE_3_0",
       "SetID": "1fek4an",
       "Name": "\u5730\u72F1",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "LEVEL_COMPLETE_3_12",
@@ -853,8 +853,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-12T17:08:33.8498626+00:00",
+  "LastChanged_Achievements": "2024-01-12T18:06:27.9870605+00:00",
   "LastUpdate_AppInfo": "2024-01-10T13:02:38.4502332+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:02:34.6053905+00:00",
-  "LastUpdate_Achievements": "2024-01-12T17:08:33.8499183+00:00"
+  "LastUpdate_Ratings": "2024-01-12T18:00:22.776871+00:00",
+  "LastUpdate_Achievements": "2024-01-12T18:06:27.9871155+00:00"
 }

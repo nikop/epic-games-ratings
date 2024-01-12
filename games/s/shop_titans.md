@@ -6,11 +6,11 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,595 |
-| Titan's First Steps | 11.00% | ~16,595 |
-| Basic in Bulk | 10.00% | ~15,087 |
-| Tinkle of Coins | 9.00% | ~13,578 |
-| Disintermediation | 8.00% | ~12,069 |
+| Sponsored by Argon | 11.00% | ~16,596 |
+| Titan's First Steps | 11.00% | ~16,596 |
+| Basic in Bulk | 10.00% | ~15,088 |
+| Tinkle of Coins | 9.00% | ~13,579 |
+| Disintermediation | 8.00% | ~12,070 |
 | It's Free Real Estate | 7.00% | ~10,561 |
 | Capitalism Ho! | 7.00% | ~10,561 |
 | One Easy Payment | 6.00% | ~9,052 |
@@ -19,9 +19,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Pretty Penny | 6.00% | ~9,052 |
 | Budding Merchant | 6.00% | ~9,052 |
 | Own the Means of Production | 6.00% | ~9,052 |
-| The Daily Grind | 5.00% | ~7,543 |
-| One-Armed Bandit | 5.00% | ~7,543 |
-| Through Repetition, Perfection | 5.00% | ~7,543 |
+| The Daily Grind | 5.00% | ~7,544 |
+| One-Armed Bandit | 5.00% | ~7,544 |
+| Through Repetition, Perfection | 5.00% | ~7,544 |
 | Bounty Hunters | 4.00% | ~6,035 |
 | Demand for Supplies | 4.00% | ~6,035 |
 | Flooding the Market | 4.00% | ~6,035 |
@@ -54,53 +54,53 @@ Number of Ratings: 12,664  (23.09.2022)
 | Magical Harmony | 3.00% | ~4,526 |
 | Special Ingredient | 3.00% | ~4,526 |
 | Complete Monopoly | 3.00% | ~4,526 |
-| A Notch Above the Rest | 2.00% | ~3,017 |
-| Cream of the Crop | 2.00% | ~3,017 |
-| Top of the World | 2.00% | ~3,017 |
-| Proud Paladin | 2.00% | ~3,017 |
-| Above the Norm | 2.00% | ~3,017 |
-| Constellated | 2.00% | ~3,017 |
-| A Ronin Reborn | 2.00% | ~3,017 |
-| The King's Caprice | 2.00% | ~3,017 |
-| Thirst for Knowledge | 2.00% | ~3,017 |
-| Big Game Hunting | 2.00% | ~3,017 |
-| Booty by the Boatload | 2.00% | ~3,017 |
-| Archivist | 2.00% | ~3,017 |
-| Locally Sourced | 2.00% | ~3,017 |
-| Fillin' the Bin | 2.00% | ~3,017 |
-| Flying off the Shelves | 2.00% | ~3,017 |
-| Industrial Evolution | 2.00% | ~3,017 |
-| Omae wa Mou Shindeiru | 2.00% | ~3,017 |
-| Master of Transmutation | 2.00% | ~3,017 |
-| Hidden Potential | 2.00% | ~3,017 |
-| Supercharged | 2.00% | ~3,017 |
-| Ritualist | 2.00% | ~3,017 |
-| Cranked up to 11 | 2.00% | ~3,017 |
-| Fit for a King | 2.00% | ~3,017 |
-| By Your Powers Combined... | 2.00% | ~3,017 |
-| A Legend is Born | 2.00% | ~3,017 |
-| Mammonite | 2.00% | ~3,017 |
-| Wealth Beyond Measure | 2.00% | ~3,017 |
-| Fat Cat Tag Team | 2.00% | ~3,017 |
-| Necromancer Queen | 2.00% | ~3,017 |
-| Item of Renown | 2.00% | ~3,017 |
-| Master Merchant | 2.00% | ~3,017 |
-| Miracle Alchemist | 2.00% | ~3,017 |
-| Laden with Loot | 2.00% | ~3,017 |
-| Bountiful Harvest | 2.00% | ~3,017 |
-| Precision Engineering | 2.00% | ~3,017 |
-| Scourge of the Seas | 2.00% | ~3,017 |
-| Attrition Mission | 2.00% | ~3,017 |
-| Glittering Collection | 2.00% | ~3,017 |
-| Treasure Trove | 2.00% | ~3,017 |
-| Moment of Respite | 2.00% | ~3,017 |
-| Black Friday Special | 2.00% | ~3,017 |
-| King's Shadow | 2.00% | ~3,017 |
-| Master Recycler | 2.00% | ~3,017 |
-| All Accounted For | 2.00% | ~3,017 |
-| Exotic Commodities | 2.00% | ~3,017 |
-| Economy of Scarce | 2.00% | ~3,017 |
-| King's Blade | 2.00% | ~3,017 |
+| A Notch Above the Rest | 2.00% | ~3,018 |
+| Cream of the Crop | 2.00% | ~3,018 |
+| Top of the World | 2.00% | ~3,018 |
+| Proud Paladin | 2.00% | ~3,018 |
+| Above the Norm | 2.00% | ~3,018 |
+| Constellated | 2.00% | ~3,018 |
+| A Ronin Reborn | 2.00% | ~3,018 |
+| The King's Caprice | 2.00% | ~3,018 |
+| Thirst for Knowledge | 2.00% | ~3,018 |
+| Big Game Hunting | 2.00% | ~3,018 |
+| Booty by the Boatload | 2.00% | ~3,018 |
+| Archivist | 2.00% | ~3,018 |
+| Locally Sourced | 2.00% | ~3,018 |
+| Fillin' the Bin | 2.00% | ~3,018 |
+| Flying off the Shelves | 2.00% | ~3,018 |
+| Industrial Evolution | 2.00% | ~3,018 |
+| Omae wa Mou Shindeiru | 2.00% | ~3,018 |
+| Master of Transmutation | 2.00% | ~3,018 |
+| Hidden Potential | 2.00% | ~3,018 |
+| Supercharged | 2.00% | ~3,018 |
+| Ritualist | 2.00% | ~3,018 |
+| Cranked up to 11 | 2.00% | ~3,018 |
+| Fit for a King | 2.00% | ~3,018 |
+| By Your Powers Combined... | 2.00% | ~3,018 |
+| A Legend is Born | 2.00% | ~3,018 |
+| Mammonite | 2.00% | ~3,018 |
+| Wealth Beyond Measure | 2.00% | ~3,018 |
+| Fat Cat Tag Team | 2.00% | ~3,018 |
+| Necromancer Queen | 2.00% | ~3,018 |
+| Item of Renown | 2.00% | ~3,018 |
+| Master Merchant | 2.00% | ~3,018 |
+| Miracle Alchemist | 2.00% | ~3,018 |
+| Laden with Loot | 2.00% | ~3,018 |
+| Bountiful Harvest | 2.00% | ~3,018 |
+| Precision Engineering | 2.00% | ~3,018 |
+| Scourge of the Seas | 2.00% | ~3,018 |
+| Attrition Mission | 2.00% | ~3,018 |
+| Glittering Collection | 2.00% | ~3,018 |
+| Treasure Trove | 2.00% | ~3,018 |
+| Moment of Respite | 2.00% | ~3,018 |
+| Black Friday Special | 2.00% | ~3,018 |
+| King's Shadow | 2.00% | ~3,018 |
+| Master Recycler | 2.00% | ~3,018 |
+| All Accounted For | 2.00% | ~3,018 |
+| Exotic Commodities | 2.00% | ~3,018 |
+| Economy of Scarce | 2.00% | ~3,018 |
+| King's Blade | 2.00% | ~3,018 |
 | The Free Encyclopedia | 1.00% | ~1,509 |
 | Thank You Tom Nook | 1.00% | ~1,509 |
 | Jackpot! | 1.00% | ~1,509 |
@@ -115,12 +115,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | JACKPOT!!! | 0.70% | ~1,056 |
 | Oligarch Monarch | 0.50% | ~754 |
 | Merchant Extraordinaire | 0.50% | ~754 |
-| To Hell and Back | 0.40% | ~603 |
-| Cash Only Please | 0.40% | ~603 |
+| To Hell and Back | 0.40% | ~604 |
+| Cash Only Please | 0.40% | ~604 |
 | Capitalist Camaraderie | 0.30% | ~453 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,867 (Ranked 86)  
-Completed: 349 (0.23%) (Ranked 272)  
+Progressed: 150,875 (Ranked 86)  
+Completed: 350 (0.23%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -386,7 +386,7 @@ Completed: 349 (0.23%) (Ranked 272)
 | 2024-01-09 | 150,487 | 345 |
 | 2024-01-10 | 150,626 | 348 |
 | 2024-01-11 | 150,768 | 349 |
-| 2024-01-12 | 150,867 | 349 |
+| 2024-01-12 | 150,875 | 350 |
 ## Awards
 Max (Great for Beginners): 4,952  (Ranked 78)  
 Sum: 27,981 (Ranked 52)  

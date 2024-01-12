@@ -6,50 +6,50 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~125,757 |
-| The Fool | 11.00% | ~115,277 |
-| Right Back At Ya | 9.00% | ~94,318 |
-| Gun Fu | 9.00% | ~94,318 |
-| The Lovers | 8.00% | ~83,838 |
-| Full Body Conversion | 7.00% | ~73,358 |
-| Christmas Tree Attack | 6.00% | ~62,879 |
-| Stanislavski's Method | 6.00% | ~62,879 |
-| The Hermit | 6.00% | ~62,879 |
-| The Wheel of Fortune | 6.00% | ~62,879 |
-| True Soldier | 6.00% | ~62,879 |
-| All the President's Men | 6.00% | ~10,596 |
-| Arachnophobia | 6.00% | ~10,596 |
-| The High Priestess | 5.00% | ~52,399 |
-| Legend of The Afterlife | 5.00% | ~52,399 |
-| Master Crafter | 4.00% | ~41,919 |
-| Life of the Road | 4.00% | ~41,919 |
-| True Warrior | 4.00% | ~41,919 |
-| Bushido and Chill | 3.00% | ~31,439 |
-| I Am The Law | 3.00% | ~31,439 |
-| The Quick and the Dead | 3.00% | ~31,439 |
-| The World | 3.00% | ~31,439 |
-| Two Heads, One Bullet | 3.00% | ~31,439 |
-| Judy vs Night City | 3.00% | ~31,439 |
-| Relic Ruler | 3.00% | ~5,298 |
-| To Protect and Serve | 2.00% | ~20,960 |
-| The Wandering Fool | 2.00% | ~20,960 |
-| The Sun | 2.00% | ~20,960 |
-| Spin Doctor | 2.00% | ~3,532 |
-| King of Wands | 2.00% | ~3,532 |
-| Easy Come, Easy Go | 2.00% | ~3,532 |
-| To Bad Decisions! | 1.00% | ~10,480 |
-| Breathtaking | 1.00% | ~10,480 |
-| Ten out of Ten | 1.00% | ~10,480 |
-| The Star | 1.00% | ~10,480 |
-| Dirty Deeds | 1.00% | ~1,766 |
+| V for Vendetta | 12.00% | ~125,767 |
+| The Fool | 11.00% | ~115,286 |
+| Right Back At Ya | 9.00% | ~94,325 |
+| Gun Fu | 9.00% | ~94,325 |
+| The Lovers | 8.00% | ~83,844 |
+| Full Body Conversion | 7.00% | ~73,364 |
+| Christmas Tree Attack | 6.00% | ~62,883 |
+| Stanislavski's Method | 6.00% | ~62,883 |
+| The Hermit | 6.00% | ~62,883 |
+| The Wheel of Fortune | 6.00% | ~62,883 |
+| True Soldier | 6.00% | ~62,883 |
+| All the President's Men | 6.00% | ~10,601 |
+| Arachnophobia | 6.00% | ~10,601 |
+| The High Priestess | 5.00% | ~52,403 |
+| Legend of The Afterlife | 5.00% | ~52,403 |
+| Master Crafter | 4.00% | ~41,922 |
+| Life of the Road | 4.00% | ~41,922 |
+| True Warrior | 4.00% | ~41,922 |
+| Bushido and Chill | 3.00% | ~31,442 |
+| I Am The Law | 3.00% | ~31,442 |
+| The Quick and the Dead | 3.00% | ~31,442 |
+| The World | 3.00% | ~31,442 |
+| Two Heads, One Bullet | 3.00% | ~31,442 |
+| Judy vs Night City | 3.00% | ~31,442 |
+| Relic Ruler | 3.00% | ~5,300 |
+| To Protect and Serve | 2.00% | ~20,961 |
+| The Wandering Fool | 2.00% | ~20,961 |
+| The Sun | 2.00% | ~20,961 |
+| Spin Doctor | 2.00% | ~3,534 |
+| King of Wands | 2.00% | ~3,534 |
+| Easy Come, Easy Go | 2.00% | ~3,534 |
+| To Bad Decisions! | 1.00% | ~10,481 |
+| Breathtaking | 1.00% | ~10,481 |
+| Ten out of Ten | 1.00% | ~10,481 |
+| The Star | 1.00% | ~10,481 |
+| Dirty Deeds | 1.00% | ~1,767 |
 | Autojock | 0.90% | ~9,432 |
-| The APB is Not Enough | 0.90% | ~1,589 |
-| Judgement Day | 0.90% | ~1,589 |
-| The Tower | 0.90% | ~1,589 |
+| The APB is Not Enough | 0.90% | ~1,590 |
+| Judgement Day | 0.90% | ~1,590 |
+| The Tower | 0.90% | ~1,590 |
 | Temperance | 0.80% | ~8,384 |
 | King of Swords | 0.80% | ~1,413 |
 | Must Be Rats | 0.70% | ~7,336 |
-| King of Pentacles | 0.70% | ~1,236 |
+| King of Pentacles | 0.70% | ~1,237 |
 | King of Cups | 0.50% | ~883 |
 | City Lights | 0.40% | ~4,192 |
 | The Devil | 0.40% | ~4,192 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,047,976 (Ranked 17)  
+Progressed: 1,048,055 (Ranked 17)  
 Completed: 3,077 (0.29%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,10 +341,10 @@ Completed: 3,077 (0.29%) (Ranked 262)
 | 2024-01-09 | 1,040,592 | 3,059 |
 | 2024-01-10 | 1,044,342 | 3,067 |
 | 2024-01-11 | 1,046,687 | 3,071 |
-| 2024-01-12 | 1,047,976 | 3,077 |
+| 2024-01-12 | 1,048,055 | 3,077 |
 ## Awards
 Max (Character Customization): 137,500  (Ranked 8)  
-Sum: 486,226 (Ranked 8)  
+Sum: 486,243 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -356,8 +356,8 @@ Diff (max vs sum): 0
 | This game has Amazing Storytelling | 28,334 |
 | This game is Extremely Fun | 28,003 |
 | This game has Amazing Characters | 27,773 |
+| This game has Quickly Understood Controls | 26,872 |
 | This game is Relaxing | 26,867 |
-| This game has Quickly Understood Controls | 26,855 |
 | This game has a Creative Community | 18,602 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -720,4 +720,4 @@ Diff (max vs sum): 0
 | 2024-01-09 | 4.67 | - | 136,182 | 479,385 |
 | 2024-01-10 | 4.67 | - | 136,867 | 482,007 |
 | 2024-01-11 | 4.67 | - | 137,500 | 484,717 |
-| 2024-01-12 | 4.67 | - | 137,500 | 486,226 |
+| 2024-01-12 | 4.67 | - | 137,500 | 486,243 |

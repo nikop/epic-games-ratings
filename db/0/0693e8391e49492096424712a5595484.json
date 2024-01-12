@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 59,
   "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -3246,9 +3246,9 @@
       "ID": "BroomAmanita",
       "SetID": "db30heh",
       "Name": "Gone Cooking",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 347
+      "UsersEstimate": 355
     },
     {
       "ID": "BroomPistol",
@@ -3366,9 +3366,9 @@
       "ID": "PitSoul",
       "SetID": "db30heh",
       "Name": "Your Soul Is Mine",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 347
     },
     {
       "ID": "PriestBroom",
@@ -3525,8 +3525,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-12T17:05:14.5787168+00:00",
+  "LastChanged_Achievements": "2024-01-12T18:04:20.9227998+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:55.0577875+00:00",
-  "LastUpdate_Ratings": "2024-01-12T16:59:56.6928859+00:00",
-  "LastUpdate_Achievements": "2024-01-12T17:05:14.5787539+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:59:06.3737549+00:00",
+  "LastUpdate_Achievements": "2024-01-12T18:04:20.9228552+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 1068,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
@@ -3027,9 +3027,9 @@
       "ID": "ENDING_5",
       "SetID": "8eejhlh",
       "Name": "The Delivery",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 459
+      "UsersEstimate": 470
     },
     {
       "ID": "ENDING_6",
@@ -3148,8 +3148,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-12T17:10:23.5213889+00:00",
+  "LastChanged_Achievements": "2024-01-12T18:09:31.662673+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.9478908+00:00",
-  "LastUpdate_Ratings": "2024-01-12T16:59:17.0393689+00:00",
-  "LastUpdate_Achievements": "2024-01-12T17:10:23.5214109+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:58:36.7193875+00:00",
+  "LastUpdate_Achievements": "2024-01-12T18:09:31.662704+00:00"
 }

@@ -6,10 +6,10 @@ Rating: 4.47 (Ranked 665)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~2,007 |
-| Confirming Suspicions | 42.00% | ~1,793 |
+| Confirming Suspicions | 42.00% | ~1,794 |
 | The Kraken Wakes | 38.00% | ~1,623 |
-| It's Starting to Crack | 35.00% | ~1,494 |
-| Change the Channel | 32.00% | ~1,366 |
+| It's Starting to Crack | 35.00% | ~1,495 |
+| Change the Channel | 32.00% | ~1,367 |
 | Lord of War | 31.00% | ~1,324 |
 | Taking it back | 30.00% | ~1,281 |
 | Resourceful | 28.00% | ~1,196 |
@@ -28,8 +28,8 @@ Rating: 4.47 (Ranked 665)
 | Close Quarters | 16.00% | ~683 |
 | Snake in the Grass | 16.00% | ~683 |
 | Brains of the Operation | 16.00% | ~683 |
-| No Stone Unturned | 15.00% | ~640 |
-| Die Nussknacker Sweet! | 15.00% | ~640 |
+| No Stone Unturned | 15.00% | ~641 |
+| Die Nussknacker Sweet! | 15.00% | ~641 |
 | Opposing Force | 14.00% | ~598 |
 | Enemy at the Gates | 14.00% | ~598 |
 | Fields of Glory | 14.00% | ~598 |
@@ -37,7 +37,7 @@ Rating: 4.47 (Ranked 665)
 | Precision Is Key | 10.00% | ~427 |
 | My Little Friend | 10.00% | ~427 |
 | Rigged to Blow | 9.00% | ~384 |
-| Herr Today, Gone Tomorrow | 7.00% | ~295 |
+| Herr Today, Gone Tomorrow | 7.00% | ~296 |
 | The Long Game | 6.00% | ~256 |
 | Operation Foxley | 6.00% | ~253 |
 | Strategist | 5.00% | ~214 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 665)
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,270 (Ranked 211)  
+Progressed: 4,271 (Ranked 211)  
 Completed: 11 (0.26%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 11 (0.26%) (Ranked 267)
 | 2024-01-09 | 4,249 | 11 |
 | 2024-01-10 | 4,261 | 11 |
 | 2024-01-11 | 4,268 | 11 |
-| 2024-01-12 | 4,270 | 11 |
+| 2024-01-12 | 4,271 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 529)  
 Sum: 29 (Ranked 548)  

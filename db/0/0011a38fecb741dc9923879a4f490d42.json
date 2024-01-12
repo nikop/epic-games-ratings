@@ -2,9 +2,9 @@
   "ID": "0011a38fecb741dc9923879a4f490d42",
   "Name": "Deadwater Saloon",
   "ProductSlug": "deadwater-saloon-391b9d",
-  "Ranking_EOS_Progress": 588,
+  "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 441,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-21T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 37,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -209,6 +209,11 @@
       "Time": "2024-01-10T01:58:17.575966+00:00",
       "NumProgressed": 36,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T18:09:12.4731535+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T10:04:12.9099765+00:00",
@@ -219,7 +224,7 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "631i43e",
       "Name": "First Shipment",
-      "Percentage": 75,
+      "Percentage": 73,
       "XP": 15,
       "UsersEstimate": 27
     },
@@ -235,7 +240,7 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "631i43e",
       "Name": "Hello Friend",
-      "Percentage": 61,
+      "Percentage": 59,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -267,7 +272,7 @@
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "631i43e",
       "Name": "Might Show Up",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -283,7 +288,7 @@
       "ID": "NEW_ACHIEVEMENT_1_17",
       "SetID": "631i43e",
       "Name": "Headache Or Bliss",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -291,7 +296,7 @@
       "ID": "NEW_ACHIEVEMENT_1_18",
       "SetID": "631i43e",
       "Name": "Behind The Rock Johnny",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -307,7 +312,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "631i43e",
       "Name": "Get Your Swerve On",
-      "Percentage": 61,
+      "Percentage": 59,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -331,7 +336,7 @@
       "ID": "NEW_ACHIEVEMENT_1_22",
       "SetID": "631i43e",
       "Name": "Moneymaker",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -339,7 +344,7 @@
       "ID": "NEW_ACHIEVEMENT_1_23",
       "SetID": "631i43e",
       "Name": "Aces Wild",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -347,7 +352,7 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "631i43e",
       "Name": "Fine Tuned",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -355,7 +360,7 @@
       "ID": "NEW_ACHIEVEMENT_1_25",
       "SetID": "631i43e",
       "Name": "Watch Your Back",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -363,7 +368,7 @@
       "ID": "NEW_ACHIEVEMENT_1_26",
       "SetID": "631i43e",
       "Name": "Got Your Back",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -387,7 +392,7 @@
       "ID": "NEW_ACHIEVEMENT_1_29",
       "SetID": "631i43e",
       "Name": "Hello",
-      "Percentage": 61,
+      "Percentage": 59,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -395,7 +400,7 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "631i43e",
       "Name": "Chow Time",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -411,7 +416,7 @@
       "ID": "NEW_ACHIEVEMENT_1_31",
       "SetID": "631i43e",
       "Name": "Might Close Early",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -419,7 +424,7 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "631i43e",
       "Name": "Just A Little Taste",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -459,7 +464,7 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "631i43e",
       "Name": "Had It",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -635,7 +640,7 @@
       "ID": "NEW_ACHIEVEMENT_2_28",
       "SetID": "631i43e",
       "Name": "Trim It Close",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -667,7 +672,7 @@
       "ID": "NEW_ACHIEVEMENT_2_31",
       "SetID": "631i43e",
       "Name": "Because Why Not?",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -683,7 +688,7 @@
       "ID": "NEW_ACHIEVEMENT_2_5",
       "SetID": "631i43e",
       "Name": "Get Lost",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -723,7 +728,7 @@
       "ID": "NEW_ACHIEVEMENT_3_0",
       "SetID": "631i43e",
       "Name": "Had It Coming",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     }
@@ -732,14 +737,14 @@
     {
       "ID": "631i43e",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-08T01:44:07.0326373+00:00",
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2024-01-12T17:09:57.6767861+00:00",
+  "LastChanged_Achievements": "2024-01-12T18:09:12.473153+00:00",
   "LastUpdate_AppInfo": "2024-01-10T21:57:10.211451+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:02:38.1337831+00:00",
-  "LastUpdate_Achievements": "2024-01-12T17:09:57.6768337+00:00"
+  "LastUpdate_Ratings": "2024-01-12T18:00:25.3754308+00:00",
+  "LastUpdate_Achievements": "2024-01-12T18:09:12.4732058+00:00"
 }

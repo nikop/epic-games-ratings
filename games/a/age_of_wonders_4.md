@@ -6,9 +6,9 @@ Rating: 4.63 (Ranked 359)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 17.00% | ~1,225 |
-| Realm Estate | 15.00% | ~1,080 |
-| A Wonderful Discovery | 14.00% | ~1,008 |
-| Walls Cannot Stop Us | 14.00% | ~1,008 |
+| Realm Estate | 15.00% | ~1,081 |
+| A Wonderful Discovery | 14.00% | ~1,009 |
+| Walls Cannot Stop Us | 14.00% | ~1,009 |
 | From Friends to Family | 12.00% | ~864 |
 | Bone Peddler | 11.00% | ~792 |
 | Full Ascension | 9.00% | ~648 |
@@ -34,6 +34,7 @@ Rating: 4.63 (Ranked 359)
 | Freed Lands of Manuhari | 3.00% | ~216 |
 | I've Got Everything I Need Right Here | 2.00% | ~144 |
 | God Emperor | 2.00% | ~144 |
+| Lord of Chaos | 2.00% | ~144 |
 | Arch Mage | 2.00% | ~144 |
 | The Creator | 2.00% | ~144 |
 | Eternal Lord | 2.00% | ~144 |
@@ -44,7 +45,6 @@ Rating: 4.63 (Ranked 359)
 | Chaos Surge | 2.00% | ~144 |
 | Spoils of War | 2.00% | ~144 |
 | Dawn of the Dread | 2.00% | ~144 |
-| Lord of Chaos | 1.00% | ~72 |
 | The Goddess of Nature | 1.00% | ~72 |
 | Manufactured War | 1.00% | ~72 |
 | Pruning for Progress | 1.00% | ~72 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 359)
 | I'll Fight You All | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,203 (Ranked 197)  
+Progressed: 7,204 (Ranked 197)  
 Completed: 7 (0.10%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 7 (0.10%) (Ranked 314)
 | 2024-01-09 | 7,130 | 7 |
 | 2024-01-10 | 7,178 | 7 |
 | 2024-01-11 | 7,195 | 7 |
-| 2024-01-12 | 7,203 | 7 |
+| 2024-01-12 | 7,204 | 7 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 481)  
 Sum: 238 (Ranked 406)  

@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.82 (Ranked 69)  
+Rating: 4.82 (Ranked 70)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -51,8 +51,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Dangerous Lands | 1.00% | ~207 |
 | Forbidden Lands | 1.00% | ~207 |
 | Forsaken Gods Temple | 1.00% | ~207 |
+| Like a Machine | 0.90% | ~186 |
 | Feeding The People | 0.80% | ~166 |
-| Like a Machine | 0.80% | ~166 |
 | Prestigious Expedition | 0.50% | ~104 |
 | Blood Flower Farmer | 0.50% | ~104 |
 | Fox Utopia | 0.50% | ~104 |

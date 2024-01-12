@@ -6,7 +6,7 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 63.00% | ~2,307 |
+| You're free now! | 63.00% | ~2,308 |
 | Keeping it classy | 27.00% | ~989 |
 | Welcome to the family | 21.00% | ~769 |
 | The finer things in life | 19.00% | ~696 |
@@ -37,12 +37,12 @@ Number of Ratings: 111  (23.09.2022)
 | NAHELL! | 5.00% | ~183 |
 | Renaissance man | 5.00% | ~183 |
 | Trick shot marksman | 5.00% | ~183 |
-| Cops called! | 4.00% | ~146 |
-| G.O.A.T. status | 4.00% | ~146 |
-| Hoarder | 4.00% | ~146 |
-| Prince of Philly | 4.00% | ~146 |
-| Tank commander | 4.00% | ~146 |
-| We get it, you're good | 4.00% | ~146 |
+| Cops called! | 4.00% | ~147 |
+| G.O.A.T. status | 4.00% | ~147 |
+| Hoarder | 4.00% | ~147 |
+| Prince of Philly | 4.00% | ~147 |
+| Tank commander | 4.00% | ~147 |
+| We get it, you're good | 4.00% | ~147 |
 | Many plys later... | 3.00% | ~110 |
 | Pew-Pew | 3.00% | ~110 |
 | Cross lock country | 2.00% | ~73 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,662 (Ranked 222)  
+Progressed: 3,664 (Ranked 222)  
 Completed: 2 (0.05%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,7 +297,7 @@ Completed: 2 (0.05%) (Ranked 340)
 | 2024-01-09 | 3,627 | 2 |
 | 2024-01-10 | 3,653 | 2 |
 | 2024-01-11 | 3,659 | 2 |
-| 2024-01-12 | 3,662 | 2 |
+| 2024-01-12 | 3,664 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 64  (Ranked 425)  
 Sum: 587 (Ranked 326)  

@@ -2,12 +2,12 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 884,
+  "Ranking_Rating": 883,
   "Ranking_Popularity": 437,
   "Ranking_PopularitySum": 395,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -1054,9 +1054,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 361726,
+  "EOS_Progressed": 361730,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1209,
+  "EOS_NewPlayers": 1202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31599,6 +31599,11 @@
       "Time": "2024-01-12T17:07:36.7181625+00:00",
       "NumProgressed": 361726,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-12T18:06:07.6860922+00:00",
+      "NumProgressed": 361730,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -31626,7 +31631,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43407
+      "UsersEstimate": 43408
     },
     {
       "ID": "ach004",
@@ -31666,7 +31671,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43407
+      "UsersEstimate": 43408
     },
     {
       "ID": "ach009",
@@ -31714,7 +31719,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 54259
+      "UsersEstimate": 54260
     },
     {
       "ID": "ach015",
@@ -31738,7 +31743,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 47024
+      "UsersEstimate": 47025
     },
     {
       "ID": "ach018",
@@ -31818,7 +31823,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 166394
+      "UsersEstimate": 166396
     },
     {
       "ID": "ach028",
@@ -31962,7 +31967,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 47024
+      "UsersEstimate": 47025
     },
     {
       "ID": "ach046",
@@ -32138,7 +32143,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 57876
+      "UsersEstimate": 57877
     },
     {
       "ID": "ach069",
@@ -32249,7 +32254,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 361726,
+      "Progressed": 361730,
       "Completed": 7
     }
   ],
@@ -32257,8 +32262,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2024-01-11T09:01:19.8796035+00:00",
-  "LastChanged_Achievements": "2024-01-12T17:07:36.7181623+00:00",
+  "LastChanged_Achievements": "2024-01-12T18:06:07.6860917+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:19.8615185+00:00",
-  "LastUpdate_Ratings": "2024-01-12T16:57:49.4259437+00:00",
-  "LastUpdate_Achievements": "2024-01-12T17:07:36.7183404+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:57:34.2644011+00:00",
+  "LastUpdate_Achievements": "2024-01-12T18:06:07.6864089+00:00"
 }

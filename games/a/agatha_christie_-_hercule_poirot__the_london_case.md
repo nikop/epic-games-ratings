@@ -38,12 +38,12 @@
 | The Suspects | 21.00% | ~23 |
 | Horace Mountjoy | 20.00% | ~22 |
 | The Secrets | 20.00% | ~22 |
+| A peculiar fellow | 19.00% | ~21 |
 | Johan Kristiansen | 19.00% | ~21 |
-| A peculiar fellow | 18.00% | ~20 |
-| Mortimer Ailsworth | 18.00% | ~20 |
-| Well-travelled | 17.00% | ~19 |
-| Florence Farquhar | 16.00% | ~18 |
-| The Investigation Starts Anew | 16.00% | ~18 |
+| Mortimer Ailsworth | 19.00% | ~21 |
+| Well-travelled | 18.00% | ~20 |
+| Florence Farquhar | 17.00% | ~19 |
+| The Investigation Starts Anew | 17.00% | ~19 |
 | A treasured heirloom | 15.00% | ~16 |
 | The Penitent Magdalene | 15.00% | ~16 |
 | A true performance | 15.00% | ~16 |

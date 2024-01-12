@@ -5,15 +5,15 @@ Rating: 4.86 (Ranked 31)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 55.00% | ~9,292 |
-| Start with a bang! | 54.00% | ~9,123 |
-| You can pet the cat! | 49.00% | ~8,278 |
+| Feeling the beat! | 55.00% | ~9,293 |
+| Start with a bang! | 54.00% | ~9,124 |
+| You can pet the cat! | 49.00% | ~8,279 |
 | Who put gears in there? | 40.00% | ~6,758 |
-| Cream of the Crop | 35.00% | ~5,913 |
-| Thanks for the free chip, Peppermint! | 35.00% | ~5,913 |
-| You got this, Peppermint? | 30.00% | ~5,068 |
-| Perfect Parry | 28.00% | ~4,730 |
-| Alright, that felt AWESOME! | 27.00% | ~4,561 |
+| Cream of the Crop | 35.00% | ~5,914 |
+| Thanks for the free chip, Peppermint! | 35.00% | ~5,914 |
+| You got this, Peppermint? | 30.00% | ~5,069 |
+| Perfect Parry | 28.00% | ~4,731 |
+| Alright, that felt AWESOME! | 27.00% | ~4,562 |
 | I play my own way! | 24.00% | ~4,055 |
 | This will cost you big time | 22.00% | ~3,717 |
 | Uh, they were broken when I got here | 22.00% | ~3,717 |
@@ -26,10 +26,10 @@ Rating: 4.86 (Ranked 31)
 | Headliner | 13.00% | ~2,196 |
 | Out in a puff of smoke | 13.00% | ~2,196 |
 | I look cool. But I can look COOLER. | 13.00% | ~2,196 |
-| Time to pay up! | 12.00% | ~2,027 |
-| Perfecter Parry-er! | 12.00% | ~2,027 |
-| Who's the boss now? | 11.00% | ~1,858 |
-| I have to read these things? | 11.00% | ~1,858 |
+| Time to pay up! | 12.00% | ~2,028 |
+| Perfecter Parry-er! | 12.00% | ~2,028 |
+| Who's the boss now? | 11.00% | ~1,859 |
+| I have to read these things? | 11.00% | ~1,859 |
 | There's such a thing as TOO helpful | 8.00% | ~1,352 |
 | NOW we got a kickass hideout! | 8.00% | ~1,233 |
 | Well that was a rush! | 7.00% | ~1,183 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 31)
 | Voices from within | 0.10% | ~15 |
 | Low budget finish | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,894 (Ranked 168)  
+Progressed: 16,896 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 8 (0.05%) (Ranked 340)
 | 2024-01-09 | 16,474 | 8 |
 | 2024-01-10 | 16,669 | 8 |
 | 2024-01-11 | 16,805 | 8 |
-| 2024-01-12 | 16,894 | 8 |
+| 2024-01-12 | 16,896 | 8 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 510)  
 Sum: 34 (Ranked 538)  

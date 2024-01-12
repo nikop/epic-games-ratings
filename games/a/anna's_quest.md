@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape artist | 75.00% | ~70 |
+| Escape artist | 74.00% | ~70 |
 | Book Worm | 47.00% | ~44 |
 | Ooh, it's shiny! | 47.00% | ~44 |
 | Fussy eater | 35.00% | ~33 |
@@ -28,10 +28,10 @@
 | Show me your true self | 26.00% | ~24 |
 | No posters allowed | 26.00% | ~24 |
 | Little genius | 26.00% | ~24 |
-| Memories | 25.00% | ~23 |
-| Mischief maker | 25.00% | ~23 |
-| Turn the last page | 24.00% | ~22 |
-| Pain in the hands | 22.00% | ~20 |
+| Memories | 24.00% | ~23 |
+| Mischief maker | 24.00% | ~23 |
+| Turn the last page | 23.00% | ~22 |
+| Pain in the hands | 21.00% | ~20 |
 | Kill it! KILL IT! | 20.00% | ~19 |
 | Ring-a-ding-ding | 19.00% | ~18 |
 | Close the deal | 18.00% | ~17 |
@@ -42,10 +42,10 @@
 | Guilty conscience | 15.00% | ~14 |
 | Clever reference #451 | 14.00% | ~13 |
 | What a mess | 10.00% | ~9 |
-| Posterboy! | 8.00% | ~7 |
+| Posterboy! | 7.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93 (Ranked 501)  
-Completed: 6 (6.45%) (Ranked 65)  
+Progressed: 94 (Ranked 500)  
+Completed: 6 (6.38%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -103,6 +103,7 @@ Completed: 6 (6.45%) (Ranked 65)
 | 2023-12-26 | 91 | 6 |
 | 2023-12-31 | 92 | 6 |
 | 2024-01-01 | 93 | 6 |
+| 2024-01-12 | 94 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

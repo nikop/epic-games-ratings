@@ -381,7 +381,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 2369,
+  "EOS_Progressed": 2370,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
@@ -4436,6 +4436,11 @@
       "Time": "2024-01-12T17:08:44.2831074+00:00",
       "NumProgressed": 2369,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T18:08:15.2024631+00:00",
+      "NumProgressed": 2370,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4671,7 +4676,7 @@
       "Name": "ICU",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "Achievement_031",
@@ -4695,7 +4700,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "Achievement_034",
@@ -4974,7 +4979,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2369,
+      "Progressed": 2370,
       "Completed": 0
     }
   ],
@@ -4982,8 +4987,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-08T04:59:22.6357183+00:00",
-  "LastChanged_Achievements": "2024-01-12T17:08:44.2831072+00:00",
+  "LastChanged_Achievements": "2024-01-12T18:08:15.2024626+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-12T16:58:23.4223302+00:00",
-  "LastUpdate_Achievements": "2024-01-12T17:08:44.2831752+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:57:58.7375449+00:00",
+  "LastUpdate_Achievements": "2024-01-12T18:08:15.2026064+00:00"
 }

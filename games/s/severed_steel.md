@@ -5,21 +5,21 @@ Rating: 4.69 (Ranked 240)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 33.00% | ~214,136 |
-| 50 HEADSHOTS | 31.00% | ~201,158 |
-| SCIENCE AND INDUSTRY | 30.00% | ~194,669 |
-| FINISHED CHAPTER 1 | 29.00% | ~188,180 |
-| FINISHED CHAPTER 2 | 21.00% | ~136,269 |
-| 200 HEADSHOTS | 19.00% | ~123,291 |
-| FINISHED CHAPTER 3 | 18.00% | ~116,802 |
-| FINISHED CHAPTER 4 | 15.00% | ~97,335 |
-| FINISH CHAPTER 5 | 13.00% | ~84,357 |
-| FINISH CHAPTER 6 | 11.00% | ~71,379 |
-| CATHARTIC ESCAPISM | 11.00% | ~71,379 |
-| 1000 KILLS | 10.00% | ~64,890 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~25,956 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~12,978 |
-| FIRST BLOOD | 2.00% | ~12,978 |
+| 100 KILLS | 33.00% | ~214,128 |
+| 50 HEADSHOTS | 31.00% | ~201,151 |
+| SCIENCE AND INDUSTRY | 30.00% | ~194,662 |
+| FINISHED CHAPTER 1 | 29.00% | ~188,173 |
+| FINISHED CHAPTER 2 | 21.00% | ~136,263 |
+| 200 HEADSHOTS | 19.00% | ~123,286 |
+| FINISHED CHAPTER 3 | 18.00% | ~116,797 |
+| FINISHED CHAPTER 4 | 15.00% | ~97,331 |
+| FINISH CHAPTER 5 | 13.00% | ~84,353 |
+| FINISH CHAPTER 6 | 11.00% | ~71,376 |
+| CATHARTIC ESCAPISM | 11.00% | ~71,376 |
+| 1000 KILLS | 10.00% | ~64,887 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~25,955 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~12,977 |
+| FIRST BLOOD | 2.00% | ~12,977 |
 | FIREFIGHT LEVEL 30 | 1.00% | ~6,489 |
 | OUT OF ORDER | 1.00% | ~6,489 |
 | PACEMAKER | 1.00% | ~6,489 |
@@ -27,7 +27,7 @@ Rating: 4.69 (Ranked 240)
 | PARTYHARD | 0.80% | ~5,191 |
 | NEW GAME PLUS | 0.70% | ~4,542 |
 | FIREFIGHT LEVEL 40 | 0.60% | ~3,893 |
-| CHURCH | 0.40% | ~2,596 |
+| CHURCH | 0.40% | ~2,595 |
 | FIREFIGHT LEVEL 50 | 0.30% | ~1,947 |
 | REMEMBER THE ARMORY | 0.30% | ~1,947 |
 | 5 RUNS | 0.30% | ~1,947 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 240)
 | THE GAMBLER | 0.10% | ~649 |
 | WARRIOR IN A GARDEN | 0.10% | ~649 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 648,898 (Ranked 32)  
+Progressed: 648,873 (Ranked 32)  
 Completed: 58 (0.01%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |

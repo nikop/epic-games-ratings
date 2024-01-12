@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 301,
+  "EOS_Progressed": 302,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1221,6 +1221,11 @@
       "Time": "2024-01-12T16:05:13.0938304+00:00",
       "NumProgressed": 301,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T18:05:10.4674706+00:00",
+      "NumProgressed": 302,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1784,7 +1789,7 @@
       "Name": "Press-ganged",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1912,7 +1917,7 @@
       "Name": "The Package",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -2023,7 +2028,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 301,
+      "Progressed": 302,
       "Completed": 0
     }
   ],
@@ -2031,8 +2036,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2024-01-12T17:06:19.927086+00:00",
+  "LastChanged_Achievements": "2024-01-12T18:05:10.4674701+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:32.3467036+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:00:50.0435225+00:00",
-  "LastUpdate_Achievements": "2024-01-12T17:06:19.9271935+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:59:44.0039832+00:00",
+  "LastUpdate_Achievements": "2024-01-12T18:05:10.4675594+00:00"
 }

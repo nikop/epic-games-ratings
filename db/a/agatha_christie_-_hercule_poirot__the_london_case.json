@@ -595,9 +595,9 @@
       "ID": "ACH_011",
       "SetID": "7b646ck",
       "Name": "Well-travelled",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_012",
@@ -731,9 +731,9 @@
       "ID": "ACH_027",
       "SetID": "7b646ck",
       "Name": "A peculiar fellow",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_028",
@@ -811,9 +811,9 @@
       "ID": "ACH_036",
       "SetID": "7b646ck",
       "Name": "Florence Farquhar",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_037",
@@ -867,9 +867,9 @@
       "ID": "ACH_042",
       "SetID": "7b646ck",
       "Name": "Mortimer Ailsworth",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_043",
@@ -939,9 +939,9 @@
       "ID": "ACH_09",
       "SetID": "7b646ck",
       "Name": "The Investigation Starts Anew",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
@@ -954,8 +954,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2024-01-12T17:10:43.4093089+00:00",
+  "LastChanged_Achievements": "2024-01-12T18:09:46.7887081+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:23.6830852+00:00",
-  "LastUpdate_Ratings": "2024-01-12T17:00:08.1199284+00:00",
-  "LastUpdate_Achievements": "2024-01-12T17:10:43.4093448+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:59:14.7507577+00:00",
+  "LastUpdate_Achievements": "2024-01-12T18:09:46.7887483+00:00"
 }

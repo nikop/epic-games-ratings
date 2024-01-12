@@ -431,9 +431,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28513,
+  "EOS_Progressed": 28515,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 496,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -29221,6 +29221,11 @@
       "Time": "2024-01-12T17:06:08.8436443+00:00",
       "NumProgressed": 28513,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2024-01-12T18:05:01.8106867+00:00",
+      "NumProgressed": 28515,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 20,
@@ -29264,7 +29269,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 3136
+      "UsersEstimate": 3137
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -29272,7 +29277,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2851
+      "UsersEstimate": 2852
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -29352,7 +29357,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 21670
+      "UsersEstimate": 21671
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -29384,22 +29389,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 5132
+      "UsersEstimate": 5133
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 28513,
+      "Progressed": 28515,
       "Completed": 525
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-11T07:57:26.7354656+00:00",
-  "LastChanged_Achievements": "2024-01-12T17:06:08.8436441+00:00",
+  "LastChanged_Achievements": "2024-01-12T18:05:01.8106862+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.2454847+00:00",
-  "LastUpdate_Ratings": "2024-01-12T16:58:19.7251015+00:00",
-  "LastUpdate_Achievements": "2024-01-12T17:06:08.8437572+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:57:56.0197526+00:00",
+  "LastUpdate_Achievements": "2024-01-12T18:05:01.8108482+00:00"
 }

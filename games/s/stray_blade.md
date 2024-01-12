@@ -17,11 +17,11 @@
 | Expert | 4.00% | ~6 |
 | Searing Heat | 3.00% | ~5 |
 | Witch | 3.00% | ~5 |
+| Can't touch this | 3.00% | ~5 |
 | The Golden Flash | 3.00% | ~5 |
 | Defeat Ingla | 2.00% | ~3 |
 | Through Dangers Untold | 2.00% | ~3 |
 | Nothing but the Truth | 2.00% | ~3 |
-| Can't touch this | 2.00% | ~3 |
 | The A-Team | 2.00% | ~3 |
 | But what of the Acreans? | 2.00% | ~3 |
 | The Power of the Mountains | 2.00% | ~3 |
@@ -35,6 +35,7 @@
 | Sponsor | 0.60% | ~1 |
 | Style over Stats | 0.60% | ~1 |
 | Forest Expert | 0.60% | ~1 |
+| Ancient Powers | 0.60% | ~1 |
 | Wizard | 0.60% | ~1 |
 | Pathfinder | 0.60% | ~1 |
 | Globetrotter | 0.60% | ~1 |
@@ -46,7 +47,6 @@
 | Mountain Lover | 0.00% | ~0 |
 | Wasteland Connoisseur | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |
-| Ancient Powers | 0.00% | ~0 |
 | Knowledge is King | 0.00% | ~0 |
 | Bookworm | 0.00% | ~0 |
 | Wayseeker | 0.00% | ~0 |

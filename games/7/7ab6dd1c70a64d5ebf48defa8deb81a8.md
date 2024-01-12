@@ -1,11 +1,11 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.14 (Ranked 1,009)  
+Rating: 4.14 (Ranked 1,007)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 63.00% | ~1,425 |
+| Break Out | 63.00% | ~1,426 |
 | Trinity | 32.00% | ~724 |
 | The Collector | 26.00% | ~588 |
 | Find Allies | 25.00% | ~566 |
@@ -18,9 +18,9 @@ Rating: 4.14 (Ranked 1,009)
 | Fashion Victim | 22.00% | ~498 |
 | Tributes of Caladrias | 21.00% | ~475 |
 | Stone Collection | 21.00% | ~475 |
-| Powerful Allies | 20.00% | ~452 |
+| Powerful Allies | 20.00% | ~453 |
+| Big Bazar | 14.00% | ~317 |
 | Essence Blow | 13.00% | ~294 |
-| Big Bazar | 13.00% | ~294 |
 | Alchemist | 13.00% | ~294 |
 | The Mentor | 10.00% | ~226 |
 | Calm before the Storm | 9.00% | ~204 |
@@ -28,9 +28,9 @@ Rating: 4.14 (Ranked 1,009)
 | Airborne | 8.00% | ~181 |
 | Godslayer | 7.00% | ~158 |
 | Miner | 7.00% | ~158 |
-| Clear Sight | 4.00% | ~90 |
-| Shatterer | 4.00% | ~90 |
-| Fine Feathers Make Fine Birds | 4.00% | ~90 |
+| Clear Sight | 4.00% | ~91 |
+| Shatterer | 4.00% | ~91 |
+| Fine Feathers Make Fine Birds | 4.00% | ~91 |
 | Slayer | 3.00% | ~68 |
 | A Queen's Tale | 3.00% | ~68 |
 | Shardbearer | 2.00% | ~45 |
@@ -42,7 +42,7 @@ Rating: 4.14 (Ranked 1,009)
 | All That Gold | 0.70% | ~16 |
 | Feeling Fancy | 0.40% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,262 (Ranked 246)  
+Progressed: 2,263 (Ranked 246)  
 Completed: 3 (0.13%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 3 (0.13%) (Ranked 300)
 | 2024-01-09 | 2,146 | 3 |
 | 2024-01-10 | 2,213 | 4 |
 | 2024-01-11 | 2,245 | 4 |
-| 2024-01-12 | 2,262 | 4 |
+| 2024-01-12 | 2,263 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
