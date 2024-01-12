@@ -2,10 +2,10 @@
   "ID": "80a76982ecc941dd864a8792a03a5ddc",
   "Name": "FutureGrind",
   "ProductSlug": "futuregrind-f390c1",
-  "Ranking_EOS_Progress": 732,
+  "Ranking_EOS_Progress": 720,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 582,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 581,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-23T14:00:00+00:00",
     "PcReleaseDate": "2019-01-22T18:00:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -37,6 +37,11 @@
       "Time": "2023-05-23T16:00:56.4350496+00:00",
       "NumProgressed": 2,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T10:10:04.4094568+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -46,7 +51,7 @@
       "ID": "ACH_BEAT_MOON_BOSS",
       "SetID": "a8m7fpb",
       "Name": "The Device",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 75,
       "UsersEstimate": 2
     },
@@ -54,7 +59,7 @@
       "ID": "ACH_BEAT_SIM_WORLD_BOSS",
       "SetID": "a8m7fpb",
       "Name": "Escape the Grind",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -70,15 +75,15 @@
       "ID": "ACH_COMPLETE_TRACK_WITH_NO_SPINS",
       "SetID": "a8m7fpb",
       "Name": "Motion Sickness",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DO_ONE_HACKER_MISSION",
       "SetID": "a8m7fpb",
       "Name": "Hacked",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -86,7 +91,7 @@
       "ID": "ACH_GET_MASSIVE_SCORE",
       "SetID": "a8m7fpb",
       "Name": "Big Points",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 125,
       "UsersEstimate": 2
     },
@@ -94,7 +99,7 @@
       "ID": "ACH_GET_ONE_DIAMOND_TROPHY",
       "SetID": "a8m7fpb",
       "Name": "A Trophy Is Forever",
-      "Percentage": 250,
+      "Percentage": 167,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -102,7 +107,7 @@
       "ID": "ACH_GET_TEN_DIAMOND_TROPHIES",
       "SetID": "a8m7fpb",
       "Name": "Decagonal Diamonds",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -110,7 +115,7 @@
       "ID": "ACH_GET_THIRTY_DIAMOND_TROPHIES",
       "SetID": "a8m7fpb",
       "Name": "All The Diamonds",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 150,
       "UsersEstimate": 2
     },
@@ -126,7 +131,7 @@
       "ID": "ACH_SPIN_A_LOT",
       "SetID": "a8m7fpb",
       "Name": "Easy as Pie",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -134,7 +139,7 @@
       "ID": "ACH_UNLOCK_BIKE_GIMBAL",
       "SetID": "a8m7fpb",
       "Name": "Use the Gimbal bike",
-      "Percentage": 150,
+      "Percentage": 100,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -142,7 +147,7 @@
       "ID": "ACH_UNLOCK_BIKE_LEFTCOAST",
       "SetID": "a8m7fpb",
       "Name": "Use the Left Coast bike",
-      "Percentage": 200,
+      "Percentage": 133,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -150,15 +155,15 @@
       "ID": "ACH_UNLOCK_BIKE_SLICE",
       "SetID": "a8m7fpb",
       "Name": "Use the Slice bike",
-      "Percentage": 300,
+      "Percentage": 233,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_UNLOCK_BIKE_SUBVERSE",
       "SetID": "a8m7fpb",
       "Name": "Use the Subverse bike",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -166,7 +171,7 @@
       "ID": "ACH_UNLOCK_BIKE_XERO",
       "SetID": "a8m7fpb",
       "Name": "Use the Xero bike",
-      "Percentage": 150,
+      "Percentage": 100,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -174,7 +179,7 @@
       "ID": "ACH_UNLOCK_MOON",
       "SetID": "a8m7fpb",
       "Name": "Apollo 11",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -182,7 +187,7 @@
       "ID": "ACH_UNLOCK_SIM_WORLD",
       "SetID": "a8m7fpb",
       "Name": "Unauthorized Access",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 50,
       "UsersEstimate": 2
     }
@@ -191,13 +196,13 @@
     {
       "ID": "a8m7fpb",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-08T15:02:14.232544+00:00",
-  "LastChanged_Achievements": "2024-01-12T09:10:30.8019736+00:00",
+  "LastChanged_Achievements": "2024-01-12T10:10:04.4094566+00:00",
   "LastUpdate_AppInfo": "2024-01-09T09:57:12.1257563+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:57:05.6831756+00:00",
-  "LastUpdate_Achievements": "2024-01-12T09:10:30.8019839+00:00"
+  "LastUpdate_Ratings": "2024-01-12T09:57:12.9371065+00:00",
+  "LastUpdate_Achievements": "2024-01-12T10:10:04.409469+00:00"
 }

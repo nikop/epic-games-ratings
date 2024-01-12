@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1965,
+  "EOS_Progressed": 1966,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -3594,6 +3594,11 @@
       "Time": "2024-01-12T09:05:21.8919306+00:00",
       "NumProgressed": 1965,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-12T10:05:04.8065987+00:00",
+      "NumProgressed": 1966,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3605,7 +3610,7 @@
       "Name": "Lovebirds",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "10",
@@ -3621,7 +3626,7 @@
       "Name": "Strike!",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "12",
@@ -3653,7 +3658,7 @@
       "Name": "Back to rust",
       "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "16",
@@ -3661,7 +3666,7 @@
       "Name": "My little pony",
       "Percentage": 16,
       "XP": 70,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "17",
@@ -3693,7 +3698,7 @@
       "Name": "Flower Powered",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "20",
@@ -3701,7 +3706,7 @@
       "Name": "Don\u0027t look back",
       "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "21",
@@ -3811,9 +3816,9 @@
       "ID": "6",
       "SetID": "n50no0",
       "Name": "Life\u2019s short, ride long",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 747
+      "UsersEstimate": 727
     },
     {
       "ID": "7",
@@ -3829,7 +3834,7 @@
       "Name": "Over my dead body",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "9",
@@ -3844,15 +3849,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1965,
+      "Progressed": 1966,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-12T09:05:21.8919301+00:00",
+  "LastChanged_Achievements": "2024-01-12T10:05:04.806598+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.2496519+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:00:10.046671+00:00",
-  "LastUpdate_Achievements": "2024-01-12T09:05:21.8919709+00:00"
+  "LastUpdate_Ratings": "2024-01-12T09:59:58.4302929+00:00",
+  "LastUpdate_Achievements": "2024-01-12T10:05:04.8066542+00:00"
 }

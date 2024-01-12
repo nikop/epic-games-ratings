@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -8145,7 +8145,7 @@
   ],
   "EOS_Progressed": 150811,
   "EOS_Completed": 349,
-  "EOS_NewPlayers": 1252,
+  "EOS_NewPlayers": 1242,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36397,9 +36397,9 @@
       "ID": "advlevel01",
       "SetID": "anfd17p",
       "Name": "The Daily Grind",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6032
+      "UsersEstimate": 7541
     },
     {
       "ID": "advlevel02",
@@ -37301,8 +37301,8 @@
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-12T02:28:20.4391597+00:00",
-  "LastChanged_Achievements": "2024-01-12T09:09:18.2810801+00:00",
+  "LastChanged_Achievements": "2024-01-12T10:08:58.4559292+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.0260329+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:03:30.2969682+00:00",
-  "LastUpdate_Achievements": "2024-01-12T09:09:18.2813747+00:00"
+  "LastUpdate_Ratings": "2024-01-12T10:03:20.800324+00:00",
+  "LastUpdate_Achievements": "2024-01-12T10:08:58.4562389+00:00"
 }

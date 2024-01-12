@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
     "PcReleaseDate": "2021-06-10T11:05:23+00:00",
@@ -943,9 +943,9 @@
       "ID": "1",
       "SetID": "7l2nmpm",
       "Name": "Silent City",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 252
+      "UsersEstimate": 261
     },
     {
       "ID": "10",
@@ -1176,8 +1176,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2024-01-12T09:04:18.165563+00:00",
+  "LastChanged_Achievements": "2024-01-12T10:04:06.4308666+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:08.3557849+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:03:00.6435606+00:00",
-  "LastUpdate_Achievements": "2024-01-12T09:04:18.1655952+00:00"
+  "LastUpdate_Ratings": "2024-01-12T10:02:53.4545179+00:00",
+  "LastUpdate_Achievements": "2024-01-12T10:04:06.4309014+00:00"
 }

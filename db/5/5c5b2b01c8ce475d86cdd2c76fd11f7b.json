@@ -4,8 +4,8 @@
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
   "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 392,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2016-08-23T05:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 83,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -692,9 +692,9 @@
       "ID": "NEW_ACHIEVEMENT_2_0",
       "SetID": "7on801h",
       "Name": "****! Taser Fist!",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -908,9 +908,9 @@
       "ID": "NEW_ACHIEVEMENT_2_5",
       "SetID": "7on801h",
       "Name": "The Golden Ticket",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_6",
@@ -1105,8 +1105,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2024-01-12T09:06:43.755928+00:00",
+  "LastChanged_Achievements": "2024-01-12T10:06:19.4466877+00:00",
   "LastUpdate_AppInfo": "2024-01-10T17:57:06.6884705+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:57:59.5457452+00:00",
-  "LastUpdate_Achievements": "2024-01-12T09:06:43.7560061+00:00"
+  "LastUpdate_Ratings": "2024-01-12T09:57:58.8458494+00:00",
+  "LastUpdate_Achievements": "2024-01-12T10:06:19.4467821+00:00"
 }

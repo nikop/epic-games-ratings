@@ -2,12 +2,12 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 238,
+  "Ranking_Rating": 239,
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -63,7 +63,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1308,
+  "EOS_Progressed": 1309,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 2,
@@ -3948,6 +3948,11 @@
       "Time": "2024-01-12T05:10:05.2859978+00:00",
       "NumProgressed": 1308,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-12T10:10:14.8655191+00:00",
+      "NumProgressed": 1309,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4015,7 +4020,7 @@
       "Name": "Clovemary for Remembering",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "CosmeticCompletion1",
@@ -4031,7 +4036,7 @@
       "Name": "Street Style",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "CultivairChests1",
@@ -4095,7 +4100,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "GadgetCompletion1",
@@ -4127,7 +4132,7 @@
       "Name": "Hexlock for Protection",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "InxChromaInTheatre",
@@ -4335,7 +4340,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "WarwickDefeated",
@@ -4367,7 +4372,7 @@
       "Name": "The Brass Boss",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "Zarkon2Defeated",
@@ -4375,14 +4380,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1308,
+      "Progressed": 1309,
       "Completed": 8
     }
   ],
@@ -4390,8 +4395,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-07T11:57:54.2916709+00:00",
-  "LastChanged_Achievements": "2024-01-12T09:10:41.7890833+00:00",
+  "LastChanged_Achievements": "2024-01-12T10:10:14.8655189+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:57:21.3620939+00:00",
-  "LastUpdate_Achievements": "2024-01-12T09:10:41.7891591+00:00"
+  "LastUpdate_Ratings": "2024-01-12T09:57:26.0368071+00:00",
+  "LastUpdate_Achievements": "2024-01-12T10:10:14.8655745+00:00"
 }

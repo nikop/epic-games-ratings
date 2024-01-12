@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -455,7 +455,7 @@
   ],
   "EOS_Progressed": 3356,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 624,
+  "EOS_NewPlayers": 621,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5379,9 +5379,9 @@
       "ID": "achievement_16",
       "SetID": "18al4io",
       "Name": "Recruit",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 436
+      "UsersEstimate": 470
     },
     {
       "ID": "achievement_17",
@@ -5515,17 +5515,17 @@
       "ID": "achievement_42",
       "SetID": "18al4io",
       "Name": "Armaments Gules",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 134
+      "UsersEstimate": 168
     },
     {
       "ID": "achievement_43",
       "SetID": "18al4io",
       "Name": "Armaments Vert",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 101
+      "UsersEstimate": 134
     },
     {
       "ID": "achievement_44",
@@ -5708,8 +5708,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-12T07:00:28.0006906+00:00",
-  "LastChanged_Achievements": "2024-01-12T09:10:31.287053+00:00",
+  "LastChanged_Achievements": "2024-01-12T10:10:04.8442488+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8440656+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:59:32.9206345+00:00",
-  "LastUpdate_Achievements": "2024-01-12T09:10:31.2871074+00:00"
+  "LastUpdate_Ratings": "2024-01-12T09:59:26.4013008+00:00",
+  "LastUpdate_Achievements": "2024-01-12T10:10:04.844317+00:00"
 }

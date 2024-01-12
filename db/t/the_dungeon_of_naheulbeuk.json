@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1737,9 +1737,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 247709,
+  "EOS_Progressed": 247714,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1072,
+  "EOS_NewPlayers": 1073,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25897,6 +25897,11 @@
       "Time": "2024-01-12T09:10:41.6389989+00:00",
       "NumProgressed": 247709,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-12T10:10:14.7569993+00:00",
+      "NumProgressed": 247714,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -25940,7 +25945,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9908
+      "UsersEstimate": 9909
     },
     {
       "ID": "BookCollection",
@@ -25964,7 +25969,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12385
+      "UsersEstimate": 12386
     },
     {
       "ID": "Chapter3",
@@ -25972,7 +25977,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9908
+      "UsersEstimate": 9909
     },
     {
       "ID": "Chapter4",
@@ -26356,7 +26361,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 91652
+      "UsersEstimate": 91654
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -26372,7 +26377,7 @@
       "Name": "GG EZ",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12385
+      "UsersEstimate": 12386
     },
     {
       "ID": "EndCombatOneHp",
@@ -26380,7 +26385,7 @@
       "Name": "DM intervention",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12385
+      "UsersEstimate": 12386
     },
     {
       "ID": "EndGameCursed",
@@ -26404,7 +26409,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27248
+      "UsersEstimate": 27249
     },
     {
       "ID": "FollowBraztok",
@@ -26604,28 +26609,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9908
+      "UsersEstimate": 9909
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 247709,
+      "Progressed": 247714,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 247709,
+      "Progressed": 247714,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-11T17:57:14.3541781+00:00",
-  "LastChanged_Achievements": "2024-01-12T09:10:41.6389983+00:00",
+  "LastChanged_Achievements": "2024-01-12T10:10:14.756999+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8090113+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:57:36.7814398+00:00",
-  "LastUpdate_Achievements": "2024-01-12T09:10:41.6392435+00:00"
+  "LastUpdate_Ratings": "2024-01-12T09:57:39.2452658+00:00",
+  "LastUpdate_Achievements": "2024-01-12T10:10:14.7572011+00:00"
 }

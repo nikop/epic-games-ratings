@@ -20,12 +20,12 @@ Rating: 4.65 (Ranked 321)
 | Who's The Boss? | 4.00% | ~1,005 |
 | Fallout Doesn't Let You Do This | 4.00% | ~1,005 |
 | Lezduit! | 3.00% | ~754 |
+| Eye Scream, You Scream | 3.00% | ~754 |
 | Legendary Bounty Hunter | 3.00% | ~754 |
 | Self-Actualization | 3.00% | ~754 |
 | Spent 15 Hours At The Alien Strip Club | 3.00% | ~754 |
 | Series Wrap on Suit-O | 3.00% | ~754 |
 | Eatin' Good in the Neighborhood | 2.00% | ~502 |
-| Eye Scream, You Scream | 2.00% | ~502 |
 | Bathe With A Giant Nude Alien | 2.00% | ~48 |
 | Gunning For Your Job | 1.00% | ~251 |
 | We Paid For The Rights To Put A Whole Movie In Here | 1.00% | ~251 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 321)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,122 (Ranked 147)  
+Progressed: 25,123 (Ranked 147)  
 Completed: 14 (0.06%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 14 (0.06%) (Ranked 333)
 | 2024-01-09 | 25,090 | 14 |
 | 2024-01-10 | 25,108 | 14 |
 | 2024-01-11 | 25,117 | 14 |
-| 2024-01-12 | 25,122 | 14 |
+| 2024-01-12 | 25,123 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

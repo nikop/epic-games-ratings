@@ -18,7 +18,7 @@
 | Smooth Criminal | 6.00% | ~134 |
 | Interrogation | 4.00% | ~90 |
 | Sore Loser | 4.00% | ~90 |
-| Crash and Burn | 1.00% | ~22 |
+| Crash and Burn | 2.00% | ~45 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,239 (Ranked 247)  
 Completed: 12 (0.54%) (Ranked 219)  

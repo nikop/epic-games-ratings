@@ -1,27 +1,27 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.52 (Ranked 579)  
+Rating: 4.52 (Ranked 578)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 19.00% | ~23,073 |
-| I've Had Enough! | 14.00% | ~17,001 |
-| Fists, Fury & a lot of Rage | 10.00% | ~12,144 |
-| Seasoned Fighter | 9.00% | ~10,929 |
-| All For One and One For All | 8.00% | ~9,715 |
-| Home Sweet Home? | 6.00% | ~7,286 |
-| A New Age | 5.00% | ~6,072 |
-| Oh Baby, A Triple | 3.00% | ~3,643 |
-| Master of Disguise | 3.00% | ~3,643 |
-| Symbiotic | 3.00% | ~3,643 |
+| All Grown Up! | 19.00% | ~23,076 |
+| I've Had Enough! | 14.00% | ~17,004 |
+| Fists, Fury & a lot of Rage | 10.00% | ~12,145 |
+| Seasoned Fighter | 9.00% | ~10,931 |
+| All For One and One For All | 8.00% | ~9,716 |
+| Home Sweet Home? | 6.00% | ~7,287 |
+| A New Age | 5.00% | ~6,073 |
+| Oh Baby, A Triple | 3.00% | ~3,644 |
+| Master of Disguise | 3.00% | ~3,644 |
+| Symbiotic | 3.00% | ~3,644 |
 | Battle Hardened | 2.00% | ~2,429 |
 | Double Punch! | 2.00% | ~2,429 |
 | It's Mayhem! | 2.00% | ~2,429 |
 | Right back at'cha | 2.00% | ~2,429 |
 | Spectacular Finisher | 2.00% | ~2,429 |
-| Cautious Veteran | 1.00% | ~1,214 |
-| Martyrdom | 1.00% | ~1,214 |
+| Cautious Veteran | 1.00% | ~1,215 |
+| Martyrdom | 1.00% | ~1,215 |
 | Katamari | 0.90% | ~1,093 |
 | Ninja Reflex | 0.90% | ~1,093 |
 | Zero-sum Game | 0.90% | ~1,093 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 579)
 | What's Mine is Yours | 0.10% | ~121 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121,436 (Ranked 93)  
+Progressed: 121,454 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 120,421 | 0 |
 | 2024-01-10 | 120,843 | 0 |
 | 2024-01-11 | 121,242 | 0 |
-| 2024-01-12 | 121,436 | 0 |
+| 2024-01-12 | 121,454 | 0 |
 ## Awards
 Max (Great Boss Battles): 54  (Ranked 446)  
 Sum: 54 (Ranked 505)  

@@ -4,11 +4,11 @@
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 958,
   "Ranking_Popularity": 481,
-  "Ranking_PopularitySum": 411,
+  "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8278,
+  "EOS_Progressed": 8279,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13907,6 +13907,11 @@
       "Time": "2024-01-12T06:09:15.3559161+00:00",
       "NumProgressed": 8278,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T10:08:47.5173199+00:00",
+      "NumProgressed": 8279,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13934,7 +13939,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -14237,13 +14242,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8278,
+      "Progressed": 8279,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7650,
+      "Progressed": 7651,
       "Completed": 113
     }
   ],
@@ -14251,8 +14256,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-12T09:09:06.2277349+00:00",
+  "LastChanged_Achievements": "2024-01-12T10:08:47.5173195+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:00:40.6289321+00:00",
-  "LastUpdate_Achievements": "2024-01-12T09:09:06.2278361+00:00"
+  "LastUpdate_Ratings": "2024-01-12T10:00:27.1200857+00:00",
+  "LastUpdate_Achievements": "2024-01-12T10:08:47.5174224+00:00"
 }

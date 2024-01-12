@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -141,10 +141,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83322,
+  "EOS_Progressed": 83323,
   "EOS_Completed": 929,
-  "EOS_NewPlayers": 597,
-  "EOS_NewCompleters": 12,
+  "EOS_NewPlayers": 596,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
     {
@@ -29921,6 +29921,11 @@
       "Time": "2024-01-12T09:04:57.8904144+00:00",
       "NumProgressed": 83322,
       "NumCompleted": 929
+    },
+    {
+      "Time": "2024-01-12T10:04:43.5169662+00:00",
+      "NumProgressed": 83323,
+      "NumCompleted": 929
     }
   ],
   "TotalAchievements": 25,
@@ -30004,7 +30009,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16664
+      "UsersEstimate": 16665
     },
     {
       "ID": "Hearty",
@@ -30076,7 +30081,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 9165
+      "UsersEstimate": 9166
     },
     {
       "ID": "Right On Target",
@@ -30131,7 +30136,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83322,
+      "Progressed": 83323,
       "Completed": 929
     }
   ],
@@ -30139,8 +30144,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-12T09:04:57.8904138+00:00",
+  "LastChanged_Achievements": "2024-01-12T10:04:43.5169658+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.3609745+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:00:30.238248+00:00",
-  "LastUpdate_Achievements": "2024-01-12T09:04:57.8905949+00:00"
+  "LastUpdate_Ratings": "2024-01-12T10:00:17.6787424+00:00",
+  "LastUpdate_Achievements": "2024-01-12T10:04:43.5171896+00:00"
 }

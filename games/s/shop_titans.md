@@ -19,9 +19,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Pretty Penny | 6.00% | ~9,049 |
 | Budding Merchant | 6.00% | ~9,049 |
 | Own the Means of Production | 6.00% | ~9,049 |
+| The Daily Grind | 5.00% | ~7,541 |
 | One-Armed Bandit | 5.00% | ~7,541 |
 | Through Repetition, Perfection | 5.00% | ~7,541 |
-| The Daily Grind | 4.00% | ~6,032 |
 | Bounty Hunters | 4.00% | ~6,032 |
 | Demand for Supplies | 4.00% | ~6,032 |
 | Flooding the Market | 4.00% | ~6,032 |

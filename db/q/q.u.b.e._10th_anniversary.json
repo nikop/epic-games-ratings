@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -348,9 +348,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 29211,
+  "EOS_Progressed": 29214,
   "EOS_Completed": 206,
-  "EOS_NewPlayers": 817,
+  "EOS_NewPlayers": 814,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -10273,6 +10273,11 @@
       "Time": "2024-01-12T09:10:27.7068614+00:00",
       "NumProgressed": 29211,
       "NumCompleted": 206
+    },
+    {
+      "Time": "2024-01-12T10:10:01.9074307+00:00",
+      "NumProgressed": 29214,
+      "NumCompleted": 206
     }
   ],
   "TotalAchievements": 24,
@@ -10308,7 +10313,7 @@
       "Name": "Crush That Ball!",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 5550
+      "UsersEstimate": 5551
     },
     {
       "ID": "ACH_CrushPhysicsCube",
@@ -10396,7 +10401,7 @@
       "Name": "Master Room",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "ACH_S8MaxPoints",
@@ -10420,7 +10425,7 @@
       "Name": "Sector 2",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 8471
+      "UsersEstimate": 8472
     },
     {
       "ID": "ACH_Sector3",
@@ -10436,7 +10441,7 @@
       "Name": "Sector 4",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 5842
+      "UsersEstimate": 5843
     },
     {
       "ID": "ACH_Sector5",
@@ -10444,7 +10449,7 @@
       "Name": "Sector 5",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 3797
+      "UsersEstimate": 3798
     },
     {
       "ID": "ACH_Sector6",
@@ -10452,7 +10457,7 @@
       "Name": "Sector 6",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3213
+      "UsersEstimate": 3214
     },
     {
       "ID": "ACH_Sector7",
@@ -10475,7 +10480,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 29211,
+      "Progressed": 29214,
       "Completed": 206
     }
   ],
@@ -10483,8 +10488,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-07T21:02:45.1474426+00:00",
-  "LastChanged_Achievements": "2024-01-12T09:10:27.706861+00:00",
+  "LastChanged_Achievements": "2024-01-12T10:10:01.9074304+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:27.6717087+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:59:28.6735575+00:00",
-  "LastUpdate_Achievements": "2024-01-12T09:10:27.7069368+00:00"
+  "LastUpdate_Ratings": "2024-01-12T09:59:22.5878835+00:00",
+  "LastUpdate_Achievements": "2024-01-12T10:10:01.9075225+00:00"
 }

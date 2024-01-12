@@ -4,7 +4,7 @@
   "ProductSlug": "asteroids-recharged",
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6291,
+  "EOS_Progressed": 6293,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 2012,
+  "EOS_NewPlayers": 1989,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2109,6 +2109,11 @@
       "Time": "2024-01-12T09:09:03.6440904+00:00",
       "NumProgressed": 6291,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-12T10:08:45.1235094+00:00",
+      "NumProgressed": 6293,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 16,
@@ -2120,7 +2125,7 @@
       "Name": "All Dead, All Dead",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "ACH_COOL_CAT",
@@ -2184,7 +2189,7 @@
       "Name": "Now I\u0027m Here",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 2894
+      "UsersEstimate": 2895
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -2208,7 +2213,7 @@
       "Name": "The Hero",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 3208
+      "UsersEstimate": 3209
     },
     {
       "ID": "ACH_THE_HITMAN",
@@ -2247,7 +2252,7 @@
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 6291,
+      "Progressed": 6293,
       "Completed": 5
     }
   ],
@@ -2255,8 +2260,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2024-01-12T09:09:03.64409+00:00",
+  "LastChanged_Achievements": "2024-01-12T10:08:45.1235091+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:56:54.4877584+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:59:58.2588259+00:00",
-  "LastUpdate_Achievements": "2024-01-12T09:09:03.6441131+00:00"
+  "LastUpdate_Ratings": "2024-01-12T09:59:48.0317698+00:00",
+  "LastUpdate_Achievements": "2024-01-12T10:08:45.1235353+00:00"
 }

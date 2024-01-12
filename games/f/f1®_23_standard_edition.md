@@ -5,13 +5,13 @@ Rating: 4.63 (Ranked 357)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,220 |
+| Getting on the Step | 91.00% | ~16,221 |
 | On the Top Step | 82.00% | ~14,616 |
 | Setting up for Success | 69.00% | ~12,299 |
-| Team Orders | 67.00% | ~11,942 |
+| Team Orders | 67.00% | ~11,943 |
 | Engineer | 45.00% | ~8,021 |
 | Familiar Faces | 41.00% | ~7,308 |
-| Going the Extra Mile | 35.00% | ~6,238 |
+| Going the Extra Mile | 35.00% | ~6,239 |
 | Sharing the Love | 32.00% | ~5,704 |
 | Hitting a Season | 26.00% | ~4,634 |
 | A Dozen Pieces | 24.00% | ~4,278 |
@@ -20,8 +20,8 @@ Rating: 4.63 (Ranked 357)
 | Challenge Yourself | 23.00% | ~4,100 |
 | Writing a new Chapter | 19.00% | ~3,387 |
 | Spring Cleaning | 18.00% | ~3,208 |
-| Reduce | 14.00% | ~2,495 |
-| Ups and Downs | 14.00% | ~2,495 |
+| Reduce | 14.00% | ~2,496 |
+| Ups and Downs | 14.00% | ~2,496 |
 | Crucial Combo | 12.00% | ~2,139 |
 | Reuse | 12.00% | ~2,139 |
 | Proving Them Wrong | 12.00% | ~2,139 |
@@ -36,8 +36,8 @@ Rating: 4.63 (Ranked 357)
 | Spinning Around | 9.00% | ~1,604 |
 | Lightning Round the World | 8.00% | ~1,426 |
 | Recycle | 7.00% | ~1,248 |
-| Undisputed Winner | 6.00% | ~1,069 |
-| Tinkerer | 6.00% | ~1,069 |
+| Undisputed Winner | 6.00% | ~1,070 |
+| Tinkerer | 6.00% | ~1,070 |
 | For all Those Back at the Factory | 4.00% | ~713 |
 | Living up to Expectations | 4.00% | ~713 |
 | Smooth Operator | 4.00% | ~713 |
@@ -55,7 +55,7 @@ Rating: 4.63 (Ranked 357)
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,824 (Ranked 163)  
+Progressed: 17,825 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 17,260 | 0 |
 | 2024-01-10 | 17,601 | 0 |
 | 2024-01-11 | 17,785 | 0 |
-| 2024-01-12 | 17,824 | 0 |
+| 2024-01-12 | 17,825 | 0 |
 ## Awards
 Max (Diverse Characters): 64  (Ranked 425)  
 Sum: 421 (Ranked 350)  

@@ -13,7 +13,7 @@ Rating: 4.59 (Ranked 452)
 | Machine Maxed | 29.00% | ~218 |
 | Existential dread | 26.00% | ~196 |
 | Bug Fixer | 25.00% | ~188 |
-| Gerald of Riviera | 24.00% | ~180 |
+| Gerald of Riviera | 25.00% | ~188 |
 | Goal | 22.00% | ~165 |
 | I ran the numbers | 15.00% | ~113 |
 | Taking the plunge | 13.00% | ~98 |

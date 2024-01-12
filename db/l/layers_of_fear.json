@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 322,
+  "EOS_Progressed": 323,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1434,6 +1434,11 @@
       "Time": "2024-01-12T07:09:13.5600777+00:00",
       "NumProgressed": 322,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T10:09:02.6773602+00:00",
+      "NumProgressed": 323,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1454,7 +1459,7 @@
       "Name": "Another perspective",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "assemble_puzzles",
@@ -1526,7 +1531,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "decrypt_one_myth",
@@ -1558,7 +1563,7 @@
       "Name": "Do what you have to",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "earn_all_trophies",
@@ -1596,9 +1601,9 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 165
     },
     {
       "ID": "find_one_photo",
@@ -1630,7 +1635,7 @@
       "Name": "Finished it",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "first_step",
@@ -1694,7 +1699,7 @@
       "Name": "Lights! Camera! Action!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "once_upon_a_time",
@@ -1718,7 +1723,7 @@
       "Name": "A piece of the story",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "playtime",
@@ -1782,7 +1787,7 @@
       "Name": "Something important",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "spy_one_item",
@@ -1861,14 +1866,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 322,
+      "Progressed": 323,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-12T09:09:22.8572161+00:00",
+  "LastChanged_Achievements": "2024-01-12T10:09:02.6773595+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:37.800715+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:59:24.720165+00:00",
-  "LastUpdate_Achievements": "2024-01-12T09:09:22.8572595+00:00"
+  "LastUpdate_Ratings": "2024-01-12T09:59:18.6920358+00:00",
+  "LastUpdate_Achievements": "2024-01-12T10:09:02.6774224+00:00"
 }

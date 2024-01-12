@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Silent City | 26.00% | ~252 |
+| Silent City | 27.00% | ~261 |
 | Duet Desert | 5.00% | ~48 |
 | Fermata | 4.00% | ~39 |
 | Cadenza | 3.00% | ~29 |

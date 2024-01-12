@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 375,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -335,9 +335,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 11131,
+  "EOS_Progressed": 11133,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 994,
+  "EOS_NewPlayers": 992,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4590,6 +4590,11 @@
       "Time": "2024-01-12T09:10:34.2876614+00:00",
       "NumProgressed": 11131,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T10:10:07.7394664+00:00",
+      "NumProgressed": 11133,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4762,7 +4767,7 @@
       "Name": "Perfect Timing",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "23_DynastyRestored",
@@ -4810,7 +4815,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -4858,7 +4863,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -4922,7 +4927,7 @@
       "Name": "Iron Judgement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -5000,9 +5005,9 @@
       "ID": "52_TheGoldenFrog",
       "SetID": "37a94m8",
       "Name": "Frog Trader",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 56
     },
     {
       "ID": "53_GardensOfMadness",
@@ -5121,7 +5126,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11131,
+      "Progressed": 11133,
       "Completed": 1
     }
   ],
@@ -5129,8 +5134,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-12T03:59:45.455551+00:00",
-  "LastChanged_Achievements": "2024-01-12T09:10:34.2876609+00:00",
+  "LastChanged_Achievements": "2024-01-12T10:10:07.739466+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:59:59.7737585+00:00",
-  "LastUpdate_Achievements": "2024-01-12T09:10:34.2877571+00:00"
+  "LastUpdate_Ratings": "2024-01-12T09:59:48.9910653+00:00",
+  "LastUpdate_Achievements": "2024-01-12T10:10:07.7395567+00:00"
 }

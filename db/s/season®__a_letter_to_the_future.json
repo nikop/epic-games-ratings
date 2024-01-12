@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2101,
+  "EOS_Progressed": 2102,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.71,
   "EosHistory": [
@@ -4969,6 +4969,11 @@
       "Time": "2024-01-12T09:10:25.5915413+00:00",
       "NumProgressed": 2101,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2024-01-12T10:09:59.8256235+00:00",
+      "NumProgressed": 2102,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 16,
@@ -5028,7 +5033,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -5036,7 +5041,7 @@
       "Name": "Home Leaver",
       "Percentage": 78,
       "XP": 40,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -5044,7 +5049,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -5084,7 +5089,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "ACH_THEEND",
@@ -5107,7 +5112,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 2101,
+      "Progressed": 2102,
       "Completed": 78
     }
   ],
@@ -5115,8 +5120,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-12T09:10:25.5915408+00:00",
+  "LastChanged_Achievements": "2024-01-12T10:09:59.8256232+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:30.8878388+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:57:57.3731345+00:00",
-  "LastUpdate_Achievements": "2024-01-12T09:10:25.5915835+00:00"
+  "LastUpdate_Ratings": "2024-01-12T09:57:56.7857236+00:00",
+  "LastUpdate_Achievements": "2024-01-12T10:09:59.8256727+00:00"
 }

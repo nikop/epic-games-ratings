@@ -38,8 +38,8 @@ Rating: 4.57 (Ranked 494)
 | Complete Arena Faction | 0.70% | ~16 |
 | Discover the mystery of the Kings Chambers | 0.70% | ~16 |
 | Complete Redgi's Armory | 0.60% | ~14 |
+| King of Kings | 0.60% | ~14 |
 | Complete Ranger Faction | 0.60% | ~14 |
-| King of Kings | 0.50% | ~12 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,323 (Ranked 245)  

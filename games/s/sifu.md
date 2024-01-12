@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,584 |
-| Life is your teacher | 5.00% | ~37,986 |
-| Lightning Hands | 5.00% | ~37,986 |
-| The Assault | 4.00% | ~30,389 |
+| The Old Grandmaster | 6.00% | ~45,585 |
+| Life is your teacher | 5.00% | ~37,988 |
+| Lightning Hands | 5.00% | ~37,988 |
+| The Assault | 4.00% | ~30,390 |
 | The Hateful Pole Fighter | 3.00% | ~22,792 |
 | Street Fighting | 3.00% | ~22,792 |
 | State of constant learning | 3.00% | ~22,792 |
@@ -26,11 +26,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 2.00% | ~15,195 |
 | Take damage to save time | 2.00% | ~15,195 |
 | Diligence as a goal | 2.00% | ~1,381 |
-| Scareless | 1.00% | ~7,597 |
-| Dance of the Praying Mantis | 1.00% | ~7,597 |
-| Qi Gong: Mind | 1.00% | ~7,597 |
-| Kung-Fu Tussle | 1.00% | ~7,597 |
-| Project Arena | 1.00% | ~690 |
+| Scareless | 1.00% | ~7,598 |
+| Dance of the Praying Mantis | 1.00% | ~7,598 |
+| Qi Gong: Mind | 1.00% | ~7,598 |
+| Kung-Fu Tussle | 1.00% | ~7,598 |
+| Project Arena | 1.00% | ~691 |
 | Fight the way you practice | 0.80% | ~552 |
 | Muk Yan Master | 0.70% | ~5,318 |
 | Detective Story | 0.70% | ~5,318 |
@@ -52,9 +52,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.30% | ~2,279 |
 | Deadly Venom | 0.30% | ~207 |
 | A Touch of Acumen | 0.30% | ~207 |
-| Healing Memory | 0.20% | ~1,519 |
-| Master of the Phoenix Eye Fist | 0.20% | ~1,519 |
-| Be like water my friend | 0.20% | ~1,519 |
+| Healing Memory | 0.20% | ~1,520 |
+| Master of the Phoenix Eye Fist | 0.20% | ~1,520 |
+| Be like water my friend | 0.20% | ~1,520 |
 | Secure, Protect, Leave | 0.20% | ~138 |
 | Crouching Tiger | 0.20% | ~138 |
 | Skill and an even stronger will | 0.20% | ~138 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~69 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 759,728 (Ranked 26)  
+Progressed: 759,750 (Ranked 26)  
 Completed: 12,983 (1.71%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,10 +334,10 @@ Completed: 12,983 (1.71%) (Ranked 146)
 | 2024-01-09 | 758,306 | 12,980 |
 | 2024-01-10 | 759,091 | 12,982 |
 | 2024-01-11 | 759,612 | 12,983 |
-| 2024-01-12 | 759,728 | 12,983 |
+| 2024-01-12 | 759,750 | 12,983 |
 ## Awards
 Max (Great Boss Battles): 7,171  (Ranked 57)  
-Sum: 12,697 (Ranked 85)  
+Sum: 12,700 (Ranked 85)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
@@ -345,7 +345,7 @@ Diff (max vs sum): -28
 | This game has Diverse Characters | 701 |
 | This game has Challenging Combat | 648 |
 | This game has Amazing Storytelling | 619 |
-| This game has Amazing Characters | 614 |
+| This game has Amazing Characters | 617 |
 | This game is Highly Recommended | 608 |
 | This game has Quickly Understood Controls | 600 |
 | This game is Extremely Fun | 587 |
@@ -715,4 +715,4 @@ Diff (max vs sum): -28
 | 2024-01-09 | 4.82 | - | 7,166 | 12,672 |
 | 2024-01-10 | 4.82 | - | 7,166 | 12,681 |
 | 2024-01-11 | 4.82 | - | 7,171 | 12,693 |
-| 2024-01-12 | 4.82 | - | 7,171 | 12,697 |
+| 2024-01-12 | 4.82 | - | 7,171 | 12,700 |

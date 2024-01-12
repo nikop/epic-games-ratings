@@ -22,8 +22,8 @@ Number of Ratings: 116  (23.09.2022)
 | Five's a Crowd | 39.00% | ~219 |
 | 25 to Life | 39.00% | ~219 |
 | Salvation | 38.00% | ~214 |
+| Soul Harvester | 36.00% | ~202 |
 | Unshakable Fortitude | 35.00% | ~197 |
-| Soul Harvester | 35.00% | ~197 |
 | Delusions of Grandeur | 34.00% | ~191 |
 | I Wanna Rock | 33.00% | ~185 |
 | Love Tap | 32.00% | ~180 |

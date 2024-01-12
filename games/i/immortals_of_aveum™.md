@@ -24,7 +24,7 @@ Rating: 4.18 (Ranked 983)
 | Periapt Alizarin | 16.00% | ~537 |
 | Geas Aristeya | 15.00% | ~503 |
 | A Perfect Cycle | 14.00% | ~470 |
-| Recruit | 13.00% | ~436 |
+| Recruit | 14.00% | ~470 |
 | Armsman | 12.00% | ~403 |
 | Lights Army | 10.00% | ~336 |
 | Periapt Cerulean | 8.00% | ~268 |
@@ -33,10 +33,10 @@ Rating: 4.18 (Ranked 983)
 | Best Dressed | 6.00% | ~201 |
 | Shroudfane Explorer | 6.00% | ~201 |
 | Kitted Out | 5.00% | ~168 |
+| Armaments Gules | 5.00% | ~168 |
 | Scholar | 4.00% | ~134 |
 | Armaments Azure | 4.00% | ~134 |
-| Armaments Gules | 4.00% | ~134 |
-| Armaments Vert | 3.00% | ~101 |
+| Armaments Vert | 4.00% | ~134 |
 | Grand Magnus | 2.00% | ~67 |
 | Veteran | 2.00% | ~67 |
 | Master of Carmine | 1.00% | ~34 |

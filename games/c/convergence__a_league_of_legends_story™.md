@@ -1,15 +1,15 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.69 (Ranked 238)  
+Rating: 4.69 (Ranked 239)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 46.00% | ~602 |
 | Rail Rat | 35.00% | ~458 |
 | The Mysterious Stranger | 34.00% | ~445 |
-| Immaculate Aim | 29.00% | ~379 |
-| The Brass Boss | 28.00% | ~366 |
+| Immaculate Aim | 29.00% | ~380 |
+| The Brass Boss | 28.00% | ~367 |
 | Time Flies | 27.00% | ~353 |
 | Make Up For Lost Time | 26.00% | ~340 |
 | The Harder They Fall | 26.00% | ~340 |
@@ -27,9 +27,9 @@ Rating: 4.69 (Ranked 238)
 | Like Clockwork | 21.00% | ~275 |
 | Check Your Pulse | 20.00% | ~262 |
 | The Loose Cannon | 19.00% | ~249 |
-| Street Style | 18.00% | ~235 |
-| The Man Who Shattered Time | 18.00% | ~235 |
-| The Family Fortune | 18.00% | ~235 |
+| Street Style | 18.00% | ~236 |
+| The Man Who Shattered Time | 18.00% | ~236 |
+| The Family Fortune | 18.00% | ~236 |
 | Whiz Kid | 15.00% | ~196 |
 | Good Neighbor | 15.00% | ~196 |
 | Family Memories | 14.00% | ~183 |
@@ -47,8 +47,8 @@ Rating: 4.69 (Ranked 238)
 | Sartorialist | 8.00% | ~105 |
 | Entresol Explorer | 8.00% | ~105 |
 | Golem Hunter | 7.00% | ~92 |
-| Clovemary for Remembering | 6.00% | ~78 |
-| Hexlock for Protection | 6.00% | ~78 |
+| Clovemary for Remembering | 6.00% | ~79 |
+| Hexlock for Protection | 6.00% | ~79 |
 | Rungs Was Right | 5.00% | ~65 |
 | Wunderkind | 3.00% | ~39 |
 | Thinking Two Steps Ahead | 2.00% | ~26 |
@@ -59,7 +59,7 @@ Rating: 4.69 (Ranked 238)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,308 (Ranked 281)  
+Progressed: 1,309 (Ranked 281)  
 Completed: 8 (0.61%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 8 (0.61%) (Ranked 208)
 | 2024-01-09 | 1,289 | 7 |
 | 2024-01-10 | 1,300 | 7 |
 | 2024-01-11 | 1,306 | 8 |
-| 2024-01-12 | 1,308 | 8 |
+| 2024-01-12 | 1,309 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

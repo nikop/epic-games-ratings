@@ -28,6 +28,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 4.00% | ~828 |
 | Ruined Armory | 3.00% | ~621 |
 | Bandit Camp | 3.00% | ~621 |
+| Barren Lands | 3.00% | ~621 |
 | Ancient Battleground | 3.00% | ~621 |
 | Levitating Monument | 3.00% | ~621 |
 | Lost Colonies | 3.00% | ~621 |
@@ -38,7 +39,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Untamed Wilds | 3.00% | ~621 |
 | Serving Ale | 2.00% | ~414 |
 | Against All Odds | 2.00% | ~414 |
-| Barren Lands | 2.00% | ~414 |
 | Sparkdew Crystals | 2.00% | ~414 |
 | Fishmen Ritual Site | 2.00% | ~414 |
 | Haunted Forest | 2.00% | ~414 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,711 (Ranked 155)  
+Progressed: 20,712 (Ranked 155)  
 Completed: 34 (0.16%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 34 (0.16%) (Ranked 288)
 | 2024-01-09 | 20,595 | 34 |
 | 2024-01-10 | 20,658 | 34 |
 | 2024-01-11 | 20,700 | 34 |
-| 2024-01-12 | 20,711 | 34 |
+| 2024-01-12 | 20,712 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,373 (Ranked 177)  

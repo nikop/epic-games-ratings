@@ -2,13 +2,13 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 238,
+  "Ranking_Rating": 239,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14325,9 +14325,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 497072,
+  "EOS_Progressed": 497085,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4768,
+  "EOS_NewPlayers": 4756,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45125,6 +45125,11 @@
       "Time": "2024-01-12T09:10:45.3790807+00:00",
       "NumProgressed": 497072,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T10:10:18.3506565+00:00",
+      "NumProgressed": 497085,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -47800,7 +47805,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 2982
+      "UsersEstimate": 2983
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -48039,21 +48044,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 497072,
+      "Progressed": 497085,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 497072,
+      "Progressed": 497085,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-12T07:58:56.2157998+00:00",
-  "LastChanged_Achievements": "2024-01-12T09:10:45.3790803+00:00",
+  "LastChanged_Achievements": "2024-01-12T10:10:18.3506562+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.850256+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:58:31.3797755+00:00",
-  "LastUpdate_Achievements": "2024-01-12T09:10:45.3801062+00:00"
+  "LastUpdate_Ratings": "2024-01-12T09:58:29.7981851+00:00",
+  "LastUpdate_Achievements": "2024-01-12T10:10:18.3518775+00:00"
 }

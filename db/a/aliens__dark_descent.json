@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -555,7 +555,7 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 6365,
+  "EOS_Progressed": 6366,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 0,
@@ -9640,6 +9640,11 @@
       "Time": "2024-01-12T09:03:52.7671802+00:00",
       "NumProgressed": 6365,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-12T10:03:42.9889158+00:00",
+      "NumProgressed": 6366,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -9659,7 +9664,7 @@
       "Name": "Flawless Victory",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "ACH_ALL_WEAPONS",
@@ -9691,7 +9696,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -9747,7 +9752,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4137
+      "UsersEstimate": 4138
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -9755,7 +9760,7 @@
       "Name": "Regicide",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -9763,7 +9768,7 @@
       "Name": "Call Me Snake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3373
+      "UsersEstimate": 3374
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -9771,7 +9776,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 3628
+      "UsersEstimate": 3629
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -9779,7 +9784,7 @@
       "Name": "Heavy Steps",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "ACH_MARINE_PROSTHESIS",
@@ -9811,7 +9816,7 @@
       "Name": "Bandage Lover",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -9827,7 +9832,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -9867,7 +9872,7 @@
       "Name": "Making a Stand",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2292
     },
     {
       "ID": "ACH_MISSION_05",
@@ -9875,7 +9880,7 @@
       "Name": "Where It All Begun",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "ACH_MISSION_06",
@@ -9955,7 +9960,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 4901
+      "UsersEstimate": 4902
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -9963,7 +9968,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3182
+      "UsersEstimate": 3183
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -10010,7 +10015,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6365,
+      "Progressed": 6366,
       "Completed": 3
     }
   ],
@@ -10018,8 +10023,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-12T09:00:33.1677408+00:00",
-  "LastChanged_Achievements": "2024-01-12T09:03:52.7671797+00:00",
+  "LastChanged_Achievements": "2024-01-12T10:03:42.9889153+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.3437063+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:00:33.1677412+00:00",
-  "LastUpdate_Achievements": "2024-01-12T09:03:52.7672997+00:00"
+  "LastUpdate_Ratings": "2024-01-12T10:00:20.4374649+00:00",
+  "LastUpdate_Achievements": "2024-01-12T10:03:42.9890165+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253363,
+  "EOS_Progressed": 253364,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23877,6 +23877,11 @@
       "Time": "2024-01-12T09:10:30.2680078+00:00",
       "NumProgressed": 253363,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-12T10:10:03.9187111+00:00",
+      "NumProgressed": 253364,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -23960,7 +23965,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 38004
+      "UsersEstimate": 38005
     },
     {
       "ID": "clearCut",
@@ -23984,7 +23989,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45605
+      "UsersEstimate": 45606
     },
     {
       "ID": "curator",
@@ -24064,7 +24069,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134282
+      "UsersEstimate": 134283
     },
     {
       "ID": "indegestible",
@@ -24088,7 +24093,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65874
+      "UsersEstimate": 65875
     },
     {
       "ID": "justABit",
@@ -24192,7 +24197,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58273
+      "UsersEstimate": 58274
     },
     {
       "ID": "thunderstruck",
@@ -24255,7 +24260,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253363,
+      "Progressed": 253364,
       "Completed": 6
     }
   ],
@@ -24263,8 +24268,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-12T09:10:30.2680074+00:00",
+  "LastChanged_Achievements": "2024-01-12T10:10:03.9187106+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.2680738+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:59:49.1894662+00:00",
-  "LastUpdate_Achievements": "2024-01-12T09:10:30.2682104+00:00"
+  "LastUpdate_Ratings": "2024-01-12T09:59:39.8241192+00:00",
+  "LastUpdate_Achievements": "2024-01-12T10:10:03.9188622+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "indoorlands-3b2356",
   "Ranking_EOS_Progress": 575,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 348,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
     "PcReleaseDate": "2022-10-13T23:00:00+00:00",
@@ -374,9 +374,9 @@
       "ID": "happyVisitors",
       "SetID": "d4692al",
       "Name": "Happy visitors",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "indoorlands",
@@ -390,9 +390,9 @@
       "ID": "keepComing",
       "SetID": "d4692al",
       "Name": "They keep coming",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "mass",
@@ -438,9 +438,9 @@
       "ID": "store",
       "SetID": "d4692al",
       "Name": "Luxurious Store",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "toomany",
@@ -509,8 +509,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-01-12T09:09:03.529775+00:00",
+  "LastChanged_Achievements": "2024-01-12T10:08:45.0551899+00:00",
   "LastUpdate_AppInfo": "2024-01-11T10:57:10.1512707+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:02:52.0049373+00:00",
-  "LastUpdate_Achievements": "2024-01-12T09:09:03.5298084+00:00"
+  "LastUpdate_Ratings": "2024-01-12T10:02:45.6171686+00:00",
+  "LastUpdate_Achievements": "2024-01-12T10:08:45.0552175+00:00"
 }
