@@ -2413,9 +2413,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 19406,
+  "EOS_Progressed": 19408,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 1021,
+  "EOS_NewPlayers": 1017,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -20073,6 +20073,11 @@
       "Time": "2024-01-12T07:10:44.8401359+00:00",
       "NumProgressed": 19406,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-12T09:10:32.6681536+00:00",
+      "NumProgressed": 19408,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 35,
@@ -20084,7 +20089,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15719
+      "UsersEstimate": 15720
     },
     {
       "ID": "ACH02",
@@ -20092,7 +20097,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "ACH03",
@@ -20100,7 +20105,7 @@
       "Name": "The End of the Line",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "ACH04",
@@ -20132,7 +20137,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3687
+      "UsersEstimate": 3688
     },
     {
       "ID": "ACH08",
@@ -20140,7 +20145,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9703
+      "UsersEstimate": 9704
     },
     {
       "ID": "ACH09",
@@ -20300,7 +20305,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "ACH29",
@@ -20363,7 +20368,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19406,
+      "Progressed": 19408,
       "Completed": 77
     }
   ],
@@ -20371,8 +20376,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-12T02:27:55.1730493+00:00",
-  "LastChanged_Achievements": "2024-01-12T08:10:45.7237301+00:00",
+  "LastChanged_Achievements": "2024-01-12T09:10:32.6681532+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:03:03.653896+00:00",
-  "LastUpdate_Achievements": "2024-01-12T08:10:45.7238133+00:00"
+  "LastUpdate_Ratings": "2024-01-12T09:03:02.8466186+00:00",
+  "LastUpdate_Achievements": "2024-01-12T09:10:32.6682558+00:00"
 }

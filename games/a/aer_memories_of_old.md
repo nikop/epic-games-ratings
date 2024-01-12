@@ -6,9 +6,9 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~21,653 |
+| Light at the end of the tunnel | 76.00% | ~21,655 |
 | Mama? | 27.00% | ~7,693 |
-| People's Haven | 18.00% | ~5,128 |
+| People's Haven | 18.00% | ~5,129 |
 | Cartographer | 16.00% | ~4,559 |
 | Knowledge for Power | 14.00% | ~3,989 |
 | Antlers of Stone | 14.00% | ~3,989 |
@@ -19,15 +19,15 @@ Number of Ratings: 170  (23.09.2022)
 | In the belly of the beast | 11.00% | ~3,134 |
 | Condor condo | 10.00% | ~2,849 |
 | Memorial | 9.00% | ~2,564 |
-| An uninvited guest | 7.00% | ~1,994 |
-| Tails of Stone | 6.00% | ~1,709 |
-| Baa from the past | 6.00% | ~1,709 |
-| Written in stone | 6.00% | ~1,709 |
-| Talk to all the spirit animals | 6.00% | ~1,709 |
+| An uninvited guest | 7.00% | ~1,995 |
+| Tails of Stone | 6.00% | ~1,710 |
+| Baa from the past | 6.00% | ~1,710 |
+| Written in stone | 6.00% | ~1,710 |
+| Talk to all the spirit animals | 6.00% | ~1,710 |
 | Ripples on the surface | 5.00% | ~1,425 |
 | Hide and Seek | 4.00% | ~1,140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,491 (Ranked 144)  
+Progressed: 28,494 (Ranked 144)  
 Completed: 524 (1.84%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 524 (1.84%) (Ranked 143)
 | 2024-01-09 | 28,356 | 523 |
 | 2024-01-10 | 28,411 | 524 |
 | 2024-01-11 | 28,478 | 524 |
-| 2024-01-12 | 28,491 | 524 |
+| 2024-01-12 | 28,494 | 524 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

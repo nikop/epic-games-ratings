@@ -1,23 +1,23 @@
 # MORDHAU
 [Store](https://store.epicgames.com/en-US/p/mordhau)  
 [View Rawdata](../../db/m/mordhau.json)  
-Rating: 4.38 (Ranked 795)  
+Rating: 4.38 (Ranked 794)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~778,536 |
-| The ABCs | 43.00% | ~683,206 |
-| Home Run | 41.00% | ~651,428 |
-| Keeps Coming Off | 41.00% | ~651,428 |
-| Guts | 19.00% | ~301,882 |
-| Meat Grinder | 19.00% | ~301,882 |
-| Burning Man | 16.00% | ~254,216 |
-| Lived to Tell the Tale | 12.00% | ~190,662 |
-| Highlander | 10.00% | ~158,885 |
-| Unstoppable | 10.00% | ~158,885 |
-| Just a Scratch | 9.00% | ~142,996 |
-| Tough Nut to Crack | 6.00% | ~95,331 |
-| Yoink | 6.00% | ~95,331 |
+| Justice from the Grave | 49.00% | ~778,541 |
+| The ABCs | 43.00% | ~683,210 |
+| Home Run | 41.00% | ~651,433 |
+| Keeps Coming Off | 41.00% | ~651,433 |
+| Guts | 19.00% | ~301,883 |
+| Meat Grinder | 19.00% | ~301,883 |
+| Burning Man | 16.00% | ~254,218 |
+| Lived to Tell the Tale | 12.00% | ~190,663 |
+| Highlander | 10.00% | ~158,886 |
+| Unstoppable | 10.00% | ~158,886 |
+| Just a Scratch | 9.00% | ~142,997 |
+| Tough Nut to Crack | 6.00% | ~95,332 |
+| Yoink | 6.00% | ~95,332 |
 | Long List of Names | 4.00% | ~63,554 |
 | Pyromaniac | 4.00% | ~63,554 |
 | The Queen of Weapons | 4.00% | ~63,554 |
@@ -28,8 +28,8 @@ Rating: 4.38 (Ranked 795)
 | Poacher | 2.00% | ~31,777 |
 | Put That Away | 2.00% | ~31,777 |
 | You’re Welcome | 2.00% | ~31,777 |
-| Chambermaid | 1.00% | ~15,888 |
-| Coming Through | 1.00% | ~15,888 |
+| Chambermaid | 1.00% | ~15,889 |
+| Coming Through | 1.00% | ~15,889 |
 | Boxer | 0.90% | ~14,300 |
 | Flyswatter | 0.90% | ~14,300 |
 | Training Accident | 0.90% | ~14,300 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 795)
 | That’s No Ordinary Cold | 0.10% | ~1,589 |
 | Stairway to Hell | 0.10% | ~1,589 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,588,850 (Ranked 7)  
+Progressed: 1,588,860 (Ranked 7)  
 Completed: 77 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 77 (0.00%) (Ranked 399)
 | 2024-01-09 | 1,587,818 | 77 |
 | 2024-01-10 | 1,588,289 | 77 |
 | 2024-01-11 | 1,588,733 | 77 |
-| 2024-01-12 | 1,588,850 | 77 |
+| 2024-01-12 | 1,588,860 | 77 |
 ## Awards
 Max (Diverse Characters): 1,211  (Ranked 149)  
 Sum: 6,259 (Ranked 136)  

@@ -11,6 +11,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 3.00% | ~495 |
 | Able | 2.00% | ~330 |
 | Architect | 2.00% | ~330 |
+| Enlightened | 2.00% | ~330 |
 | Glorious | 2.00% | ~330 |
 | Good | 2.00% | ~330 |
 | Intrepid | 2.00% | ~330 |
@@ -33,7 +34,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 1.00% | ~165 |
 | Ambitious | 1.00% | ~165 |
 | Brilliant | 1.00% | ~165 |
-| Enlightened | 1.00% | ~165 |
 | Fountainhead | 1.00% | ~165 |
 | Great | 1.00% | ~165 |
 | Magnificent | 1.00% | ~165 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,485 (Ranked 170)  
+Progressed: 16,487 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -632,7 +632,7 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
-| 2024-01-12 | 16,485 | 5 |
+| 2024-01-12 | 16,487 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,921 (Ranked 224)  

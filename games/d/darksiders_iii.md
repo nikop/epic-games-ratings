@@ -6,51 +6,51 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~431 |
-| First of many… | 68.00% | ~381 |
-| Helping Hand | 64.00% | ~358 |
-| Increased Vigor | 60.00% | ~336 |
-| Fight Fire with Fire | 58.00% | ~325 |
-| Increased Capacity | 54.00% | ~302 |
-| Just the start | 50.00% | ~280 |
-| Perfect Storm | 46.00% | ~258 |
-| All That Glitters | 45.00% | ~252 |
-| Enhance! | 42.00% | ~235 |
-| One Of the Chosen | 40.00% | ~224 |
-| Devil's in the Details | 39.00% | ~218 |
-| Throne Potato | 39.00% | ~218 |
-| Five's a Crowd | 39.00% | ~218 |
-| 25 to Life | 39.00% | ~218 |
-| Salvation | 38.00% | ~213 |
-| Unshakable Fortitude | 35.00% | ~196 |
-| Soul Harvester | 35.00% | ~196 |
-| Delusions of Grandeur | 34.00% | ~190 |
+| Green with Envy | 77.00% | ~433 |
+| First of many… | 68.00% | ~382 |
+| Helping Hand | 64.00% | ~360 |
+| Increased Vigor | 60.00% | ~337 |
+| Fight Fire with Fire | 58.00% | ~326 |
+| Increased Capacity | 54.00% | ~303 |
+| Just the start | 50.00% | ~281 |
+| Perfect Storm | 46.00% | ~259 |
+| All That Glitters | 45.00% | ~253 |
+| Enhance! | 42.00% | ~236 |
+| One Of the Chosen | 40.00% | ~225 |
+| Devil's in the Details | 39.00% | ~219 |
+| Throne Potato | 39.00% | ~219 |
+| Five's a Crowd | 39.00% | ~219 |
+| 25 to Life | 39.00% | ~219 |
+| Salvation | 38.00% | ~214 |
+| Unshakable Fortitude | 35.00% | ~197 |
+| Soul Harvester | 35.00% | ~197 |
+| Delusions of Grandeur | 34.00% | ~191 |
 | I Wanna Rock | 33.00% | ~185 |
-| Love Tap | 32.00% | ~179 |
+| Love Tap | 32.00% | ~180 |
 | Maximum Vigor | 31.00% | ~174 |
-| Freeze Frame | 30.00% | ~168 |
-| Eat Your Heart Out | 30.00% | ~168 |
-| For Whom the Bell Tolls | 29.00% | ~162 |
+| Freeze Frame | 30.00% | ~169 |
+| Eat Your Heart Out | 30.00% | ~169 |
+| For Whom the Bell Tolls | 29.00% | ~163 |
 | Big Spender | 26.00% | ~146 |
 | Unyielding Strength | 25.00% | ~140 |
 | Can you restore the Balance? | 25.00% | ~140 |
-| Cleanup Crew | 24.00% | ~134 |
-| Crowd Source | 24.00% | ~134 |
+| Crowd Source | 25.00% | ~140 |
+| Cleanup Crew | 24.00% | ~135 |
 | Demon Meddler | 23.00% | ~129 |
 | Seeing Red | 23.00% | ~129 |
-| Maximum Capacity | 22.00% | ~123 |
-| Egomaniac | 21.00% | ~118 |
+| Maximum Capacity | 22.00% | ~124 |
+| Egomaniac | 22.00% | ~124 |
 | Protector of Humanity | 20.00% | ~112 |
 | Everybody Wants to Rule the World | 20.00% | ~112 |
 | Community Outreach | 15.00% | ~84 |
-| A Parting Gift | 14.00% | ~78 |
-| Path of the Horseman | 14.00% | ~78 |
-| Unbreakable Will | 13.00% | ~73 |
+| Unbreakable Will | 14.00% | ~79 |
+| A Parting Gift | 14.00% | ~79 |
+| Path of the Horseman | 14.00% | ~79 |
 | Take it to the Limit | 13.00% | ~73 |
-| Holy Keeper | 11.00% | ~62 |
-| Demon Keeper | 11.00% | ~62 |
-| Soul Reaper | 9.00% | ~50 |
-| Humanitarian | 9.00% | ~50 |
+| Holy Keeper | 12.00% | ~67 |
+| Demon Keeper | 12.00% | ~67 |
+| Humanitarian | 10.00% | ~56 |
+| Soul Reaper | 9.00% | ~51 |
 | Made of Sterner Stuff | 7.00% | ~39 |
 | My Evil Twin | 6.00% | ~34 |
 | Purity of Power | 5.00% | ~28 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 1.00% | ~6 |
 | Quite Proper | 0.90% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 560 (Ranked 345)  
+Progressed: 562 (Ranked 345)  
 Completed: 2 (0.36%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 2 (0.36%) (Ranked 246)
 | 2024-01-09 | 525 | 2 |
 | 2024-01-10 | 542 | 2 |
 | 2024-01-11 | 557 | 2 |
-| 2024-01-12 | 560 | 2 |
+| 2024-01-12 | 562 | 2 |
 ## Awards
 Max (Great Boss Battles): 98  (Ranked 384)  
 Sum: 98 (Ranked 471)  

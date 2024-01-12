@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 55.00% | ~286 |
+| In the Black | 55.00% | ~287 |
 | Starting Skyward | 49.00% | ~255 |
-| Grime is Not Good | 42.00% | ~218 |
-| Floor Galore | 36.00% | ~187 |
-| Campaign Launch | 36.00% | ~187 |
-| Dinner Dash | 36.00% | ~187 |
+| Grime is Not Good | 41.00% | ~214 |
+| Floor Galore | 36.00% | ~188 |
+| Campaign Launch | 36.00% | ~188 |
+| Dinner Dash | 36.00% | ~188 |
 | Need a Consult | 33.00% | ~172 |
 | Upgrade Unlock | 33.00% | ~172 |
-| It's Technical | 32.00% | ~166 |
+| It's Technical | 32.00% | ~167 |
 | Proper Walls | 29.00% | ~151 |
 | Delegate Maintenance | 28.00% | ~146 |
 | Destination Destiny | 28.00% | ~146 |
 | Happy Tenants | 23.00% | ~120 |
 | Potent Potables | 23.00% | ~120 |
-| Your Prestige is Rising | 22.00% | ~114 |
-| Smooth Service | 22.00% | ~114 |
+| Your Prestige is Rising | 22.00% | ~115 |
+| Smooth Service | 22.00% | ~115 |
 | Retail Revenue | 21.00% | ~109 |
 | Don't Feel a Loan | 20.00% | ~104 |
 | Artfully Done | 18.00% | ~94 |
 | People Mover | 18.00% | ~94 |
 | Leveled Up Shops | 18.00% | ~94 |
 | We Don't Need No Education | 18.00% | ~94 |
-| Lux Living | 17.00% | ~88 |
-| Emporium Empire | 17.00% | ~88 |
-| Get Electrified | 17.00% | ~88 |
+| Lux Living | 17.00% | ~89 |
+| Emporium Empire | 17.00% | ~89 |
+| Get Electrified | 17.00% | ~89 |
 | Tasty Profits | 16.00% | ~83 |
 | Rehab Expert | 15.00% | ~78 |
 | Established Fame | 15.00% | ~78 |
@@ -43,8 +43,8 @@
 | Swimming in Surplus | 9.00% | ~47 |
 | Refined Palates | 9.00% | ~47 |
 | Aestheticly Pleased | 8.00% | ~42 |
-| Plaza Plan | 8.00% | ~42 |
 | First 100 Days | 7.00% | ~36 |
+| Plaza Plan | 7.00% | ~36 |
 | Master of Puppets | 7.00% | ~36 |
 | Phoning It In | 7.00% | ~36 |
 | Water Features | 6.00% | ~31 |
@@ -64,12 +64,12 @@
 | Tuned In | 4.00% | ~21 |
 | Decorator's Touch | 3.00% | ~16 |
 | Office Bigwigs | 3.00% | ~16 |
-| Luxury Boutiques | 3.00% | ~16 |
 | Three of a Kind | 3.00% | ~16 |
 | Sandbagger | 3.00% | ~16 |
 | Apartment Awareness | 2.00% | ~10 |
 | Loft Life | 2.00% | ~10 |
 | Glut of Gastronomy | 2.00% | ~10 |
+| Luxury Boutiques | 2.00% | ~10 |
 | Royal Flush | 2.00% | ~10 |
 | The King of Cool | 2.00% | ~10 |
 | Four of a Kind | 2.00% | ~10 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 520 (Ranked 352)  
+Progressed: 521 (Ranked 352)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 509 | 0 |
 | 2024-01-10 | 515 | 0 |
 | 2024-01-11 | 519 | 0 |
-| 2024-01-12 | 520 | 0 |
+| 2024-01-12 | 521 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

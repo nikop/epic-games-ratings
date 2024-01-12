@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 160925,
+  "EOS_Progressed": 160926,
   "EOS_Completed": 389,
-  "EOS_NewPlayers": 963,
+  "EOS_NewPlayers": 958,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -24948,6 +24948,11 @@
       "Time": "2024-01-12T08:05:20.4941786+00:00",
       "NumProgressed": 160925,
       "NumCompleted": 389
+    },
+    {
+      "Time": "2024-01-12T09:04:52.1303318+00:00",
+      "NumProgressed": 160926,
+      "NumCompleted": 389
     }
   ],
   "TotalAchievements": 31,
@@ -25023,7 +25028,7 @@
       "Name": "Cock of the Walk",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3218
+      "UsersEstimate": 3219
     },
     {
       "ID": "EAwards_17",
@@ -25047,7 +25052,7 @@
       "Name": "Lore Master",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3218
+      "UsersEstimate": 3219
     },
     {
       "ID": "EAwards_2",
@@ -25087,7 +25092,7 @@
       "Name": "Heavyweight",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3218
+      "UsersEstimate": 3219
     },
     {
       "ID": "EAwards_24",
@@ -25127,7 +25132,7 @@
       "Name": "World Champion",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 3218
+      "UsersEstimate": 3219
     },
     {
       "ID": "EAwards_29",
@@ -25175,7 +25180,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 40231
+      "UsersEstimate": 40232
     },
     {
       "ID": "EAwards_7",
@@ -25183,7 +25188,7 @@
       "Name": "I swat you",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3218
+      "UsersEstimate": 3219
     },
     {
       "ID": "EAwards_8",
@@ -25206,7 +25211,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 160925,
+      "Progressed": 160926,
       "Completed": 389
     }
   ],
@@ -25214,8 +25219,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2024-01-12T08:05:20.4941779+00:00",
+  "LastChanged_Achievements": "2024-01-12T09:04:52.1303314+00:00",
   "LastUpdate_AppInfo": "2024-01-05T09:57:06.478649+00:00",
-  "LastUpdate_Ratings": "2024-01-12T07:58:46.5107019+00:00",
-  "LastUpdate_Achievements": "2024-01-12T08:05:20.4943199+00:00"
+  "LastUpdate_Ratings": "2024-01-12T08:58:24.020512+00:00",
+  "LastUpdate_Achievements": "2024-01-12T09:04:52.1304702+00:00"
 }

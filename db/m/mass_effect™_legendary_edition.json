@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4205,
+  "EOS_Progressed": 4206,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 484,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -7973,6 +7973,11 @@
       "Time": "2024-01-12T08:10:58.7330926+00:00",
       "NumProgressed": 4205,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-12T09:10:43.6075317+00:00",
+      "NumProgressed": 4206,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -8009,7 +8014,7 @@
       "Name": "Combined Arms",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "achievement_102",
@@ -8065,7 +8070,7 @@
       "Name": "Mail Slot",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "achievement_109",
@@ -8119,9 +8124,9 @@
       "ID": "achievement_114",
       "SetID": "d252ncf",
       "Name": "Savior",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 631
+      "UsersEstimate": 673
     },
     {
       "ID": "achievement_115",
@@ -8177,7 +8182,7 @@
       "Name": "Paramour I",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "achievement_121",
@@ -8201,7 +8206,7 @@
       "Name": "Long Service Medal",
       "Percentage": 10,
       "XP": 125,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "achievement_124",
@@ -8249,7 +8254,7 @@
       "Name": "Electronics Specialist",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "achievement_15",
@@ -8297,7 +8302,7 @@
       "Name": "Medal of Heroism",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "achievement_20",
@@ -8369,7 +8374,7 @@
       "Name": "Quarian Ally",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "achievement_29",
@@ -8385,7 +8390,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 3784
+      "UsersEstimate": 3785
     },
     {
       "ID": "achievement_30",
@@ -8401,7 +8406,7 @@
       "Name": "Spectre Inductee",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 2775
+      "UsersEstimate": 2776
     },
     {
       "ID": "achievement_32",
@@ -8457,7 +8462,7 @@
       "Name": "Colony Defense",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "achievement_39",
@@ -8471,9 +8476,9 @@
       "ID": "achievement_4",
       "SetID": "b9pe172",
       "Name": "Council Legion of Merit",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1556
     },
     {
       "ID": "achievement_40",
@@ -8513,7 +8518,7 @@
       "Name": "The Archangel",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1178
     },
     {
       "ID": "achievement_45",
@@ -8529,7 +8534,7 @@
       "Name": "The Convict",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "achievement_47",
@@ -8545,15 +8550,15 @@
       "Name": "The Krogan",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "achievement_49",
       "SetID": "d252ncf",
       "Name": "The Professor",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1220
     },
     {
       "ID": "achievement_5",
@@ -8561,7 +8566,7 @@
       "Name": "Honorarium of Corporate Service",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "achievement_50",
@@ -8673,7 +8678,7 @@
       "Name": "Head Hunter",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1178
     },
     {
       "ID": "achievement_63",
@@ -8745,7 +8750,7 @@
       "Name": "Operative",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "achievement_71",
@@ -8769,7 +8774,7 @@
       "Name": "Scholar",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "achievement_74",
@@ -8777,7 +8782,7 @@
       "Name": "Power Full",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "achievement_75",
@@ -9000,19 +9005,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 4205,
+      "Progressed": 4206,
       "Completed": 13
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 4205,
+      "Progressed": 4206,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-12T08:10:58.7330922+00:00",
+  "LastChanged_Achievements": "2024-01-12T09:10:43.6075311+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:59:00.5356746+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:03:44.8961155+00:00",
-  "LastUpdate_Achievements": "2024-01-12T08:10:58.7332884+00:00"
+  "LastUpdate_Ratings": "2024-01-12T09:03:35.1206177+00:00",
+  "LastUpdate_Achievements": "2024-01-12T09:10:43.6077674+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 375,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -970,9 +970,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 54499,
+  "EOS_Progressed": 54502,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 945,
+  "EOS_NewPlayers": 947,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31350,6 +31350,11 @@
       "Time": "2024-01-12T08:04:28.5587709+00:00",
       "NumProgressed": 54499,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-12T09:04:10.6928197+00:00",
+      "NumProgressed": 54502,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -31401,7 +31406,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 14715
+      "UsersEstimate": 14716
     },
     {
       "ID": "goals180",
@@ -31457,7 +31462,7 @@
       "Name": "Life Aquatic",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "master",
@@ -31465,7 +31470,7 @@
       "Name": "Master Of The Sands",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "mylittlefriend",
@@ -31497,7 +31502,7 @@
       "Name": "Unlock Felipe",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "playerIzel",
@@ -31537,7 +31542,7 @@
       "Name": "Unlock Tupa",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "playerWingsuit",
@@ -31569,7 +31574,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13625
+      "UsersEstimate": 13626
     },
     {
       "ID": "sandboarder",
@@ -31593,7 +31598,7 @@
       "Name": "The Ultimate Challenge",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "unlockfelipe",
@@ -31665,22 +31670,22 @@
       "Name": "Windswept",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     }
   ],
   "AchievementSets": [
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 54499,
+      "Progressed": 54502,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2024-01-08T03:58:25.2323956+00:00",
-  "LastChanged_Achievements": "2024-01-12T08:04:28.5587705+00:00",
+  "LastChanged_Achievements": "2024-01-12T09:04:10.6928192+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:13.3110756+00:00",
-  "LastUpdate_Ratings": "2024-01-12T07:57:06.6281093+00:00",
-  "LastUpdate_Achievements": "2024-01-12T08:04:28.5589167+00:00"
+  "LastUpdate_Ratings": "2024-01-12T08:57:04.5164787+00:00",
+  "LastUpdate_Achievements": "2024-01-12T09:04:10.6929762+00:00"
 }

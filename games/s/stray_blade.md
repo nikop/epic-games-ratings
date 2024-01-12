@@ -30,6 +30,7 @@
 | Defeat Uskol | 1.00% | ~2 |
 | Trailblazer | 1.00% | ~2 |
 | Finally! | 1.00% | ~2 |
+| The End | 1.00% | ~2 |
 | A Deceiving Gift | 1.00% | ~2 |
 | Sponsor | 0.60% | ~1 |
 | Style over Stats | 0.60% | ~1 |
@@ -37,7 +38,6 @@
 | Wizard | 0.60% | ~1 |
 | Pathfinder | 0.60% | ~1 |
 | Globetrotter | 0.60% | ~1 |
-| The End | 0.60% | ~1 |
 | Unveiling the Truth | 0.60% | ~1 |
 | Small Setback | 0.60% | ~1 |
 | Collector | 0.00% | ~0 |

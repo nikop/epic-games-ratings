@@ -5,9 +5,9 @@ Rating: 4.75 (Ranked 149)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 87.00% | ~3,501 |
-| Flanked! | 75.00% | ~3,018 |
-| Economics 101 | 59.00% | ~2,374 |
+| You and what Army? | 87.00% | ~3,502 |
+| Flanked! | 75.00% | ~3,019 |
+| Economics 101 | 59.00% | ~2,375 |
 | Get Rich Quick | 41.00% | ~1,650 |
 | Do the Splits | 37.00% | ~1,489 |
 | Maestro | 25.00% | ~1,006 |
@@ -23,8 +23,8 @@ Rating: 4.75 (Ranked 149)
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~282 |
 | Damage Control | 7.00% | ~282 |
 | Master of the Brawl | 7.00% | ~282 |
-| Your Biggest Fans | 6.00% | ~241 |
-| A Secret Recipe | 6.00% | ~241 |
+| Your Biggest Fans | 6.00% | ~242 |
+| A Secret Recipe | 6.00% | ~242 |
 | An Ally in Need | 5.00% | ~201 |
 | For the Queen | 5.00% | ~201 |
 | Not a Drop Wasted | 5.00% | ~201 |
@@ -39,7 +39,7 @@ Rating: 4.75 (Ranked 149)
 | Untouchable | 1.00% | ~40 |
 | All Geared Up | 0.80% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,024 (Ranked 215)  
+Progressed: 4,025 (Ranked 216)  
 Completed: 11 (0.27%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 11 (0.27%) (Ranked 264)
 | 2024-01-09 | 4,014 | 11 |
 | 2024-01-10 | 4,019 | 11 |
 | 2024-01-11 | 4,023 | 11 |
-| 2024-01-12 | 4,024 | 11 |
+| 2024-01-12 | 4,025 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

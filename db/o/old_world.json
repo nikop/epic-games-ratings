@@ -2250,9 +2250,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16485,
+  "EOS_Progressed": 16487,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19690,6 +19690,11 @@
       "Time": "2024-01-12T07:11:00.5482509+00:00",
       "NumProgressed": 16485,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-12T09:10:45.7561739+00:00",
+      "NumProgressed": 16487,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20123,9 +20128,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ENLIGHTENED",
       "SetID": "9201eeb",
       "Name": "Enlightened",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 330
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
@@ -22564,21 +22569,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16485,
+      "Progressed": 16487,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16485,
+      "Progressed": 16487,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-11T21:59:00.3473334+00:00",
-  "LastChanged_Achievements": "2024-01-12T08:11:01.2197769+00:00",
+  "LastChanged_Achievements": "2024-01-12T09:10:45.7561735+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-12T07:59:06.7488453+00:00",
-  "LastUpdate_Achievements": "2024-01-12T08:11:01.2209799+00:00"
+  "LastUpdate_Ratings": "2024-01-12T08:58:39.2237046+00:00",
+  "LastUpdate_Achievements": "2024-01-12T09:10:45.757147+00:00"
 }

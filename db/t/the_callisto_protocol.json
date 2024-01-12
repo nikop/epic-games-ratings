@@ -2183,9 +2183,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 22188,
+  "EOS_Progressed": 22190,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1134,
+  "EOS_NewPlayers": 1132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13573,6 +13573,11 @@
       "Time": "2024-01-12T08:10:20.2867201+00:00",
       "NumProgressed": 22188,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-12T09:10:11.7715071+00:00",
+      "NumProgressed": 22190,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13688,7 +13693,7 @@
       "Name": "Get a Grip",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 4881
+      "UsersEstimate": 4882
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -13696,7 +13701,7 @@
       "Name": "In Striking Distance",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "KILL_2HEAD",
@@ -13736,7 +13741,7 @@
       "Name": "The Commonality",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -13760,7 +13765,7 @@
       "Name": "Paper Jams",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5103
+      "UsersEstimate": 5104
     },
     {
       "ID": "SHARE_PHOTO",
@@ -13792,7 +13797,7 @@
       "Name": "Without A Paddle",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3106
+      "UsersEstimate": 3107
     },
     {
       "ID": "STORY_HANGAR",
@@ -13816,7 +13821,7 @@
       "Name": "Desperate Times",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5547
+      "UsersEstimate": 5548
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -13959,13 +13964,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22188,
+      "Progressed": 22190,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10114,
+      "Progressed": 10116,
       "Completed": 29
     }
   ],
@@ -13973,8 +13978,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-11T23:03:11.4531837+00:00",
-  "LastChanged_Achievements": "2024-01-12T08:10:20.2867198+00:00",
+  "LastChanged_Achievements": "2024-01-12T09:10:11.7715067+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:03:42.8107039+00:00",
-  "LastUpdate_Achievements": "2024-01-12T08:10:20.2867937+00:00"
+  "LastUpdate_Ratings": "2024-01-12T09:03:33.5944149+00:00",
+  "LastUpdate_Achievements": "2024-01-12T09:10:11.7716154+00:00"
 }

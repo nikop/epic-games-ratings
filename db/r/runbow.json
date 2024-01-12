@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253361,
+  "EOS_Progressed": 253363,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23872,6 +23872,11 @@
       "Time": "2024-01-12T06:10:57.6792578+00:00",
       "NumProgressed": 253361,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-12T09:10:30.2680078+00:00",
+      "NumProgressed": 253363,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -23939,7 +23944,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 43071
+      "UsersEstimate": 43072
     },
     {
       "ID": "cantBeKeptDown",
@@ -23987,7 +23992,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50672
+      "UsersEstimate": 50673
     },
     {
       "ID": "didYourTime",
@@ -24059,7 +24064,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134281
+      "UsersEstimate": 134282
     },
     {
       "ID": "indegestible",
@@ -24123,7 +24128,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126680
+      "UsersEstimate": 126682
     },
     {
       "ID": "notScared",
@@ -24250,7 +24255,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253361,
+      "Progressed": 253363,
       "Completed": 6
     }
   ],
@@ -24258,8 +24263,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-12T08:10:42.784249+00:00",
+  "LastChanged_Achievements": "2024-01-12T09:10:30.2680074+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.2680738+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:00:34.1256718+00:00",
-  "LastUpdate_Achievements": "2024-01-12T08:10:42.7843686+00:00"
+  "LastUpdate_Ratings": "2024-01-12T08:59:49.1894662+00:00",
+  "LastUpdate_Achievements": "2024-01-12T09:10:30.2682104+00:00"
 }

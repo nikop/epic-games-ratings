@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 701,
+  "EOS_Progressed": 702,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
@@ -2557,6 +2557,11 @@
       "Time": "2024-01-12T07:10:42.2531071+00:00",
       "NumProgressed": 701,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-12T09:10:30.6438261+00:00",
+      "NumProgressed": 702,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2568,7 +2573,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 45,
       "XP": 60,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "completeact2",
@@ -2576,15 +2581,15 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 38,
       "XP": 80,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "completeact3",
       "SetID": "40n95i5",
       "Name": "On the Road",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 259
+      "UsersEstimate": 253
     },
     {
       "ID": "findalltapes",
@@ -2640,7 +2645,7 @@
       "Name": "Souvenirs",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "scoreminrankrp1",
@@ -2687,7 +2692,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 701,
+      "Progressed": 702,
       "Completed": 3
     }
   ],
@@ -2695,8 +2700,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-12T08:10:43.257994+00:00",
+  "LastChanged_Achievements": "2024-01-12T09:10:30.6438256+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.1061642+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:01:20.1241244+00:00",
-  "LastUpdate_Achievements": "2024-01-12T08:10:43.2580138+00:00"
+  "LastUpdate_Ratings": "2024-01-12T09:00:23.4215437+00:00",
+  "LastUpdate_Achievements": "2024-01-12T09:10:30.6438561+00:00"
 }

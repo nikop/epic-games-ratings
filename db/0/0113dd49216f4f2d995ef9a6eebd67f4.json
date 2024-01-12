@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 271,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1453,9 +1453,9 @@
       "ID": "SG_THEDEEPEND",
       "SetID": "bj5g0n4",
       "Name": "The Deep End",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -1532,8 +1532,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-12T08:09:36.3054656+00:00",
+  "LastChanged_Achievements": "2024-01-12T09:09:35.5568239+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:09.0015101+00:00",
-  "LastUpdate_Ratings": "2024-01-12T07:57:46.4438562+00:00",
-  "LastUpdate_Achievements": "2024-01-12T08:09:36.3054919+00:00"
+  "LastUpdate_Ratings": "2024-01-12T08:57:36.5064541+00:00",
+  "LastUpdate_Achievements": "2024-01-12T09:09:35.5568611+00:00"
 }

@@ -6,13 +6,13 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,137 |
-| The Journey Begins | 98.00% | ~5,137 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~4,089 |
-| There is No Escape | 71.00% | ~3,722 |
-| Fun, Flirty, and Thirty | 63.00% | ~3,302 |
-| Royal Flush | 62.00% | ~3,250 |
-| Timber! | 60.00% | ~3,145 |
+| Quinceañera Time | 98.00% | ~5,138 |
+| The Journey Begins | 98.00% | ~5,138 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~4,090 |
+| There is No Escape | 71.00% | ~3,723 |
+| Fun, Flirty, and Thirty | 63.00% | ~3,303 |
+| Royal Flush | 62.00% | ~3,251 |
+| Timber! | 60.00% | ~3,146 |
 | Survive the Bombsequences | 59.00% | ~3,093 |
 | Killed 20 Jerks | 54.00% | ~2,831 |
 | Death Defied | 54.00% | ~2,831 |
@@ -23,8 +23,8 @@ Number of Ratings: 63  (23.09.2022)
 | Bone Collector | 35.00% | ~1,835 |
 | Fe-Festival | 35.00% | ~1,835 |
 | Pardon my Slob | 33.00% | ~1,730 |
-| Top of the Food Chain | 32.00% | ~1,677 |
-| Humerus Achievement | 32.00% | ~1,677 |
+| Top of the Food Chain | 32.00% | ~1,678 |
+| Humerus Achievement | 32.00% | ~1,678 |
 | Ghost Facers! | 28.00% | ~1,468 |
 | If It Bleeds, You Can Kill It | 21.00% | ~1,101 |
 | Royal Flush, Again | 19.00% | ~996 |
@@ -38,7 +38,7 @@ Number of Ratings: 63  (23.09.2022)
 | Collected 50 mushrooms | 14.00% | ~734 |
 | Budding Gardener | 14.00% | ~734 |
 | Stop Hitting Each Other | 14.00% | ~734 |
-| Ultimate Jerk | 13.00% | ~681 |
+| Ultimate Jerk | 13.00% | ~682 |
 | Hot Potato | 11.00% | ~577 |
 | Off the Beaten Path | 10.00% | ~524 |
 | It's Been a Blast | 9.00% | ~472 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.70% | ~37 |
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,242 (Ranked 205)  
+Progressed: 5,243 (Ranked 205)  
 Completed: 30 (0.57%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,6 +168,7 @@ Completed: 30 (0.57%) (Ranked 216)
 | 2024-01-09 | 5,239 | 30 |
 | 2024-01-10 | 5,240 | 30 |
 | 2024-01-11 | 5,242 | 30 |
+| 2024-01-12 | 5,243 | 30 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

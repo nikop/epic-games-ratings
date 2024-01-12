@@ -1,40 +1,40 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 553)  
+Rating: 4.54 (Ranked 554)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 10.00% | ~80,113 |
-| Hotel California | 9.00% | ~72,101 |
-| Break A Leg | 8.00% | ~64,090 |
-| Coup de Grâce | 7.00% | ~56,079 |
-| Hazardous Materials | 7.00% | ~56,079 |
-| Git Gutte! | 6.00% | ~48,068 |
-| Friends Like These | 6.00% | ~48,068 |
-| Apex Predator | 6.00% | ~48,068 |
-| Personal Assistant Personally Assisted | 6.00% | ~48,068 |
-| Dr. Reed, I Presume? | 5.00% | ~40,056 |
-| Bookworm | 5.00% | ~40,056 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,056 |
-| Stacking the Deck | 5.00% | ~40,056 |
-| This is My Weapon | 5.00% | ~40,056 |
-| Anger Management | 4.00% | ~32,045 |
-| Perks of the Job | 4.00% | ~32,045 |
-| But Doctor, I am Butcho | 4.00% | ~32,045 |
-| Slayer Squad | 4.00% | ~32,045 |
-| Can't Handle the Truth | 4.00% | ~32,045 |
-| Like Riding a Bike | 4.00% | ~32,045 |
-| Zombologist | 4.00% | ~32,045 |
-| A Patton Emerges | 4.00% | ~32,045 |
-| Our True Nature | 4.00% | ~32,045 |
-| Whatever It Takes | 4.00% | ~5,067 |
-| Pork Chopped | 4.00% | ~5,067 |
+| Welcome To Hell-A | 10.00% | ~80,115 |
+| Hotel California | 9.00% | ~72,103 |
+| Break A Leg | 8.00% | ~64,092 |
+| Coup de Grâce | 7.00% | ~56,080 |
+| Hazardous Materials | 7.00% | ~56,080 |
+| Git Gutte! | 6.00% | ~48,069 |
+| Friends Like These | 6.00% | ~48,069 |
+| Apex Predator | 6.00% | ~48,069 |
+| Personal Assistant Personally Assisted | 6.00% | ~48,069 |
+| Dr. Reed, I Presume? | 5.00% | ~40,057 |
+| Bookworm | 5.00% | ~40,057 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,057 |
+| Stacking the Deck | 5.00% | ~40,057 |
+| This is My Weapon | 5.00% | ~40,057 |
+| Anger Management | 4.00% | ~32,046 |
+| Perks of the Job | 4.00% | ~32,046 |
+| But Doctor, I am Butcho | 4.00% | ~32,046 |
+| Slayer Squad | 4.00% | ~32,046 |
+| Can't Handle the Truth | 4.00% | ~32,046 |
+| Like Riding a Bike | 4.00% | ~32,046 |
+| Zombologist | 4.00% | ~32,046 |
+| A Patton Emerges | 4.00% | ~32,046 |
+| Our True Nature | 4.00% | ~32,046 |
+| Whatever It Takes | 4.00% | ~5,068 |
+| Pork Chopped | 4.00% | ~5,068 |
 | Making Your Mark | 3.00% | ~24,034 |
 | Ooh, Shiny! | 3.00% | ~24,034 |
 | Humanity Distilled | 3.00% | ~24,034 |
 | I Am the Resurrection | 3.00% | ~24,034 |
-| One of Us | 3.00% | ~3,800 |
+| One of Us | 3.00% | ~3,801 |
 | Smorgasbord | 2.00% | ~16,023 |
 | Not Even My Final Form | 2.00% | ~16,023 |
 | Internet Famous | 2.00% | ~16,023 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 553)
 | Bucket List | 0.10% | ~801 |
 | Wilhelm | 0.10% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 801,127 (Ranked 21)  
+Progressed: 801,146 (Ranked 21)  
 Completed: 2,571 (0.32%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 2,571 (0.32%) (Ranked 255)
 | 2024-01-09 | 798,256 | 2,564 |
 | 2024-01-10 | 799,920 | 2,566 |
 | 2024-01-11 | 800,916 | 2,571 |
-| 2024-01-12 | 801,127 | 2,571 |
+| 2024-01-12 | 801,146 | 2,571 |
 ## Awards
 Max (Great Boss Battles): 10,211  (Ranked 41)  
 Sum: 15,592 (Ranked 71)  

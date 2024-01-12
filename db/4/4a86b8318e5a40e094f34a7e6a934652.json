@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 557,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -2476,8 +2476,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-12T08:05:23.9640163+00:00",
+  "LastChanged_Achievements": "2024-01-12T09:04:55.0400143+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:03.3646668+00:00",
-  "LastUpdate_Ratings": "2024-01-12T07:57:28.8761648+00:00",
-  "LastUpdate_Achievements": "2024-01-12T08:05:23.9640347+00:00"
+  "LastUpdate_Ratings": "2024-01-12T08:57:22.7344634+00:00",
+  "LastUpdate_Achievements": "2024-01-12T09:04:55.0400373+00:00"
 }

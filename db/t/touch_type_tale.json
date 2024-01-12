@@ -5,9 +5,9 @@
   "Ranking_Rating": 149,
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
-  "Ranking_EOS_Progress": 215,
+  "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4024,
+  "EOS_Progressed": 4025,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5622,6 +5622,11 @@
       "Time": "2024-01-12T03:04:41.9308762+00:00",
       "NumProgressed": 4024,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-12T09:05:20.9453313+00:00",
+      "NumProgressed": 4025,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5649,7 +5654,7 @@
       "Name": "Your Biggest Fans",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "bonus4",
@@ -5681,7 +5686,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3501
+      "UsersEstimate": 3502
     },
     {
       "ID": "campaign10",
@@ -5769,7 +5774,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 3018
+      "UsersEstimate": 3019
     },
     {
       "ID": "campaign20",
@@ -5785,7 +5790,7 @@
       "Name": "Economics 101",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 2374
+      "UsersEstimate": 2375
     },
     {
       "ID": "campaign4",
@@ -5865,7 +5870,7 @@
       "Name": "A Secret Recipe",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "scenario5",
@@ -5896,7 +5901,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 4024,
+      "Progressed": 4025,
       "Completed": 11
     }
   ],
@@ -5904,8 +5909,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2024-01-05T08:58:52.7711213+00:00",
-  "LastChanged_Achievements": "2024-01-12T08:05:55.6117631+00:00",
+  "LastChanged_Achievements": "2024-01-12T09:05:20.9453309+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:04.3464482+00:00",
-  "LastUpdate_Ratings": "2024-01-12T07:58:43.3550847+00:00",
-  "LastUpdate_Achievements": "2024-01-12T08:05:55.6118015+00:00"
+  "LastUpdate_Ratings": "2024-01-12T08:58:21.6581214+00:00",
+  "LastUpdate_Achievements": "2024-01-12T09:05:20.9453905+00:00"
 }

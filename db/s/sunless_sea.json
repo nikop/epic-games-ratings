@@ -5,9 +5,9 @@
   "Ranking_Rating": 470,
   "Ranking_Popularity": 292,
   "Ranking_PopularitySum": 375,
-  "Ranking_EOS_Progress": 130,
+  "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 375,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -808,9 +808,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44071,
+  "EOS_Progressed": 44074,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 482,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28133,6 +28133,11 @@
       "Time": "2024-01-12T08:04:27.2615291+00:00",
       "NumProgressed": 44071,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-12T09:04:09.6577617+00:00",
+      "NumProgressed": 44074,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -28160,7 +28165,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7492
+      "UsersEstimate": 7493
     },
     {
       "ID": "ach_antiquarian10",
@@ -28184,7 +28189,7 @@
       "Name": "What lies beneath",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ach_contdrownie",
@@ -28216,7 +28221,7 @@
       "Name": "Stone\u0027s Curse",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ach_cursestorm",
@@ -28264,7 +28269,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15866
+      "UsersEstimate": 15867
     },
     {
       "ID": "ach_die10",
@@ -28575,15 +28580,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44071,
+      "Progressed": 44074,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-05T23:59:49.2303848+00:00",
-  "LastChanged_Achievements": "2024-01-12T08:04:27.2615288+00:00",
+  "LastChanged_Achievements": "2024-01-12T09:04:09.6577612+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.5653659+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:00:35.9951387+00:00",
-  "LastUpdate_Achievements": "2024-01-12T08:04:27.2616812+00:00"
+  "LastUpdate_Ratings": "2024-01-12T08:59:50.5337795+00:00",
+  "LastUpdate_Achievements": "2024-01-12T09:04:09.6579901+00:00"
 }

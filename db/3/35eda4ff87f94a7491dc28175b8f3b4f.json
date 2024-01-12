@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21499,
+  "EOS_Progressed": 21501,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 1275,
+  "EOS_NewPlayers": 1268,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -7766,6 +7766,11 @@
       "Time": "2024-01-12T08:06:12.3496571+00:00",
       "NumProgressed": 21499,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2024-01-12T09:05:34.5078888+00:00",
+      "NumProgressed": 21501,
+      "NumCompleted": 107
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -7794,7 +7799,7 @@
       "Name": "Good Listener",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "MORBIDLY_CURIOUS_1_8",
@@ -7857,7 +7862,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 21499,
+      "Progressed": 21501,
       "Completed": 107
     }
   ],
@@ -7865,8 +7870,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-02T16:59:56.4750656+00:00",
-  "LastChanged_Achievements": "2024-01-12T08:06:12.3496566+00:00",
+  "LastChanged_Achievements": "2024-01-12T09:05:34.5078884+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:13.403485+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:01:04.0361957+00:00",
-  "LastUpdate_Achievements": "2024-01-12T08:06:12.3496993+00:00"
+  "LastUpdate_Ratings": "2024-01-12T09:00:11.5157297+00:00",
+  "LastUpdate_Achievements": "2024-01-12T09:05:34.5079433+00:00"
 }

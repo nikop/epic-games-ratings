@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 34,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 375,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -13524,9 +13524,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 62305,
+  "EOS_Progressed": 62306,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1448,
+  "EOS_NewPlayers": 1444,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -38904,6 +38904,11 @@
       "Time": "2024-01-12T08:06:03.3061819+00:00",
       "NumProgressed": 62305,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-12T09:05:27.1759781+00:00",
+      "NumProgressed": 62306,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -38987,7 +38992,7 @@
       "Name": "Highly cultivated",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 6230
+      "UsersEstimate": 6231
     },
     {
       "ID": "CultivateFirst",
@@ -38995,7 +39000,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 36760
+      "UsersEstimate": 36761
     },
     {
       "ID": "CutTree",
@@ -39091,7 +39096,7 @@
       "Name": "Giddy-up!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5607
+      "UsersEstimate": 5608
     },
     {
       "ID": "LoadedOldSavegame",
@@ -39099,7 +39104,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 28037
+      "UsersEstimate": 28038
     },
     {
       "ID": "Mission",
@@ -39123,7 +39128,7 @@
       "Name": "Hard work pays off",
       "Percentage": 49,
       "XP": 55,
-      "UsersEstimate": 30529
+      "UsersEstimate": 30530
     },
     {
       "ID": "NumBeehives",
@@ -39195,7 +39200,7 @@
       "Name": "It\u0027s sow easy",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 6230
+      "UsersEstimate": 6231
     },
     {
       "ID": "SowFirst",
@@ -39258,15 +39263,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 62305,
+      "Progressed": 62306,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2024-01-11T21:00:23.1918836+00:00",
-  "LastChanged_Achievements": "2024-01-12T08:06:03.3061815+00:00",
+  "LastChanged_Achievements": "2024-01-12T09:05:27.1759778+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:56.5163722+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:00:30.9404926+00:00",
-  "LastUpdate_Achievements": "2024-01-12T08:06:03.3063308+00:00"
+  "LastUpdate_Ratings": "2024-01-12T08:59:46.4634351+00:00",
+  "LastUpdate_Achievements": "2024-01-12T09:05:27.1761441+00:00"
 }

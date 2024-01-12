@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -219,9 +219,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5242,
+  "EOS_Progressed": 5243,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -1189,6 +1189,11 @@
       "Time": "2024-01-11T18:04:18.8966224+00:00",
       "NumProgressed": 5242,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-12T09:04:55.7449181+00:00",
+      "NumProgressed": 5243,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -1304,7 +1309,7 @@
       "Name": "Timber!",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3145
+      "UsersEstimate": 3146
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -1328,7 +1333,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5137
+      "UsersEstimate": 5138
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1336,7 +1341,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3302
+      "UsersEstimate": 3303
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -1344,7 +1349,7 @@
       "Name": "Top of the Food Chain",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "ACHIEVE_DODGE",
@@ -1408,7 +1413,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4089
+      "UsersEstimate": 4090
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1432,7 +1437,7 @@
       "Name": "Ultimate Jerk",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_5",
@@ -1440,7 +1445,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3251
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -1488,7 +1493,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5137
+      "UsersEstimate": 5138
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1496,7 +1501,7 @@
       "Name": "Humerus Achievement",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -1584,22 +1589,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3722
+      "UsersEstimate": 3723
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5242,
+      "Progressed": 5243,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-12-26T18:58:09.3460811+00:00",
-  "LastChanged_Achievements": "2024-01-12T08:05:24.8081591+00:00",
+  "LastChanged_Achievements": "2024-01-12T09:04:55.7449177+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:46.5070485+00:00",
-  "LastUpdate_Ratings": "2024-01-12T07:57:53.1023854+00:00",
-  "LastUpdate_Achievements": "2024-01-12T08:05:24.8082036+00:00"
+  "LastUpdate_Ratings": "2024-01-12T08:57:42.0715314+00:00",
+  "LastUpdate_Achievements": "2024-01-12T09:04:55.7449814+00:00"
 }

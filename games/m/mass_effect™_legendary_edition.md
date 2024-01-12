@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~3,784 |
-| Spectre Inductee | 66.00% | ~2,775 |
+| Distinguished Service Medal | 90.00% | ~3,785 |
+| Spectre Inductee | 66.00% | ~2,776 |
 | Medal of Exploration I | 56.00% | ~2,355 |
 | Recruit | 52.00% | ~2,187 |
 | Search and Rescue | 51.00% | ~2,145 |
-| Quarian Ally | 48.00% | ~2,018 |
-| Medal of Heroism | 43.00% | ~1,808 |
-| Honorarium of Corporate Service | 43.00% | ~1,808 |
+| Quarian Ally | 48.00% | ~2,019 |
+| Medal of Heroism | 43.00% | ~1,809 |
+| Honorarium of Corporate Service | 43.00% | ~1,809 |
 | Turian Ally | 40.00% | ~1,682 |
 | Medal of Exploration II | 38.00% | ~1,598 |
-| Council Legion of Merit | 38.00% | ~1,598 |
+| Council Legion of Merit | 37.00% | ~1,556 |
 | Missing in Action | 36.00% | ~1,514 |
 | Medal of Honor | 35.00% | ~1,472 |
 | Meritorious Service Medal | 35.00% | ~1,472 |
@@ -30,16 +30,16 @@
 | Sentinel Ally | 30.00% | ~1,262 |
 | Krogan Ally | 30.00% | ~1,262 |
 | Merciless | 30.00% | ~1,262 |
-| Paramour I | 29.00% | ~1,219 |
-| Scholar | 29.00% | ~1,219 |
-| The Archangel | 28.00% | ~1,177 |
-| The Professor | 28.00% | ~1,177 |
-| Head Hunter | 28.00% | ~1,177 |
-| Operative | 27.00% | ~1,135 |
-| The Convict | 26.00% | ~1,093 |
-| Power Full | 26.00% | ~1,093 |
-| Colony Defense | 25.00% | ~1,051 |
-| The Krogan | 25.00% | ~1,051 |
+| Paramour I | 29.00% | ~1,220 |
+| The Professor | 29.00% | ~1,220 |
+| Scholar | 29.00% | ~1,220 |
+| The Archangel | 28.00% | ~1,178 |
+| Head Hunter | 28.00% | ~1,178 |
+| Operative | 27.00% | ~1,136 |
+| The Convict | 26.00% | ~1,094 |
+| Power Full | 26.00% | ~1,094 |
+| Colony Defense | 25.00% | ~1,052 |
+| The Krogan | 25.00% | ~1,052 |
 | Veteran | 24.00% | ~1,009 |
 | Broke, Blind, and Bedlam | 24.00% | ~1,009 |
 | Driven | 24.00% | ~1,009 |
@@ -80,11 +80,11 @@
 | World Shaker | 18.00% | ~757 |
 | First Aid Specialist | 17.00% | ~715 |
 | Liberator | 17.00% | ~715 |
+| Savior | 16.00% | ~673 |
 | Weapon Specialist | 16.00% | ~673 |
 | Pathfinder | 16.00% | ~673 |
 | Tunnel Rat | 16.00% | ~673 |
 | Arbiter | 16.00% | ~673 |
-| Savior | 15.00% | ~631 |
 | Lost and Found | 15.00% | ~631 |
 | Paramour II | 14.00% | ~589 |
 | Party Crasher | 14.00% | ~589 |
@@ -104,10 +104,10 @@
 | Sabotage Specialist | 11.00% | ~463 |
 | Throw Mastery | 11.00% | ~463 |
 | Legend | 11.00% | ~463 |
-| Long Service Medal | 10.00% | ~420 |
-| Electronics Specialist | 10.00% | ~420 |
-| Combined Arms | 9.00% | ~378 |
-| Mail Slot | 9.00% | ~378 |
+| Long Service Medal | 10.00% | ~421 |
+| Electronics Specialist | 10.00% | ~421 |
+| Combined Arms | 9.00% | ~379 |
+| Mail Slot | 9.00% | ~379 |
 | Warp Mastery | 8.00% | ~336 |
 | Barrier Mastery | 7.00% | ~294 |
 | Always Prepared | 7.00% | ~294 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~42 |
 | The One and Only | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,205 (Ranked 212)  
+Progressed: 4,206 (Ranked 212)  
 Completed: 13 (0.31%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,4 +251,4 @@ Completed: 13 (0.31%) (Ranked 256)
 | 2024-01-09 | 4,058 | 13 |
 | 2024-01-10 | 4,135 | 13 |
 | 2024-01-11 | 4,190 | 13 |
-| 2024-01-12 | 4,205 | 13 |
+| 2024-01-12 | 4,206 | 13 |

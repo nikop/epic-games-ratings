@@ -270,9 +270,9 @@
       "ID": "beautiful",
       "SetID": "d4692al",
       "Name": "It\u0027s beautiful",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "beginner",
@@ -509,8 +509,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-01-12T08:08:56.9522833+00:00",
+  "LastChanged_Achievements": "2024-01-12T09:09:03.529775+00:00",
   "LastUpdate_AppInfo": "2024-01-11T10:57:10.1512707+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:02:49.3278861+00:00",
-  "LastUpdate_Achievements": "2024-01-12T08:08:56.9523052+00:00"
+  "LastUpdate_Ratings": "2024-01-12T09:02:52.0049373+00:00",
+  "LastUpdate_Achievements": "2024-01-12T09:09:03.5298084+00:00"
 }

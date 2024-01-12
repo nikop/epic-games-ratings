@@ -39,11 +39,11 @@ Number of Ratings: 45  (23.09.2022)
 | Tempest | 0.80% | ~13 |
 | Storied Past | 0.70% | ~11 |
 | Plague Doctor | 0.70% | ~11 |
+| A Hunger, Sated | 0.70% | ~11 |
 | Grillmaster | 0.70% | ~11 |
 | Astrology | 0.70% | ~11 |
 | Empty the Caves | 0.60% | ~10 |
 | No More Nightmares | 0.60% | ~10 |
-| A Hunger, Sated | 0.60% | ~10 |
 | Wingknight's Prowess | 0.60% | ~10 |
 | Into Mulch | 0.60% | ~10 |
 | Lochias's Hunger | 0.60% | ~10 |

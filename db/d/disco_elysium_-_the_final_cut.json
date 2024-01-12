@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 265,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 365,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1682,9 +1682,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 138833,
+  "EOS_Progressed": 138837,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 1358,
+  "EOS_NewPlayers": 1356,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28257,6 +28257,11 @@
       "Time": "2024-01-12T08:09:07.790656+00:00",
       "NumProgressed": 138833,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-12T09:09:12.6854199+00:00",
+      "NumProgressed": 138837,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -28300,7 +28305,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 24990
+      "UsersEstimate": 24991
     },
     {
       "ID": "ACH_COP_BAD",
@@ -28324,7 +28329,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 31932
+      "UsersEstimate": 31933
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -28348,7 +28353,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 38873
+      "UsersEstimate": 38874
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -28372,7 +28377,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 22213
+      "UsersEstimate": 22214
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -28396,7 +28401,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 18048
+      "UsersEstimate": 18049
     },
     {
       "ID": "ACH_COP_STAR",
@@ -28404,7 +28409,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 20825
+      "UsersEstimate": 20826
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -28452,7 +28457,7 @@
       "Name": "Venture into the HARDCORE",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "ACH_HARDIE",
@@ -28524,7 +28529,7 @@
       "Name": "Modus: Mullen",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "ACH_NETWORTHY",
@@ -28540,7 +28545,7 @@
       "Name": "Palerunner",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "ACH_PINBALL",
@@ -28572,7 +28577,7 @@
       "Name": "Real Musor",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "ACH_WHATBODY",
@@ -28587,15 +28592,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 138833,
+      "Progressed": 138837,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-11T06:00:50.9656635+00:00",
-  "LastChanged_Achievements": "2024-01-12T08:09:07.7906556+00:00",
+  "LastChanged_Achievements": "2024-01-12T09:09:12.6854195+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.1301003+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:01:18.0470443+00:00",
-  "LastUpdate_Achievements": "2024-01-12T08:09:07.7908783+00:00"
+  "LastUpdate_Ratings": "2024-01-12T09:00:21.782727+00:00",
+  "LastUpdate_Achievements": "2024-01-12T09:09:12.6855946+00:00"
 }

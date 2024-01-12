@@ -1737,9 +1737,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 247707,
+  "EOS_Progressed": 247709,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1076,
+  "EOS_NewPlayers": 1072,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25892,6 +25892,11 @@
       "Time": "2024-01-12T08:10:56.2017196+00:00",
       "NumProgressed": 247707,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-12T09:10:41.6389989+00:00",
+      "NumProgressed": 247709,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -26335,7 +26340,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14862
+      "UsersEstimate": 14863
     },
     {
       "ID": "ElfEpic",
@@ -26551,7 +26556,7 @@
       "Name": "Speedrun",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14862
+      "UsersEstimate": 14863
     },
     {
       "ID": "SupportCount4",
@@ -26606,21 +26611,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 247707,
+      "Progressed": 247709,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 247707,
+      "Progressed": 247709,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-11T17:57:14.3541781+00:00",
-  "LastChanged_Achievements": "2024-01-12T08:10:56.2017194+00:00",
+  "LastChanged_Achievements": "2024-01-12T09:10:41.6389983+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8090113+00:00",
-  "LastUpdate_Ratings": "2024-01-12T07:57:46.7885703+00:00",
-  "LastUpdate_Achievements": "2024-01-12T08:10:56.2018926+00:00"
+  "LastUpdate_Ratings": "2024-01-12T08:57:36.7814398+00:00",
+  "LastUpdate_Achievements": "2024-01-12T09:10:41.6392435+00:00"
 }

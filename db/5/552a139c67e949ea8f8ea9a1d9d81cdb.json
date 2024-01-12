@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -5352,9 +5352,9 @@
       "ID": "ML_ACHIEVEMENT_46",
       "SetID": "8jfk4dl",
       "Name": "The Ultimate Race",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 65
     }
   ],
   "AchievementSets": [
@@ -5368,13 +5368,13 @@
       "ID": "8jfk4dl",
       "IsBase": false,
       "Progressed": 1616,
-      "Completed": 1013
+      "Completed": 1014
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-12T08:07:50.3593365+00:00",
+  "LastChanged_Achievements": "2024-01-12T09:08:34.0486638+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.6791346+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:00:41.3451324+00:00",
-  "LastUpdate_Achievements": "2024-01-12T08:07:50.3593851+00:00"
+  "LastUpdate_Ratings": "2024-01-12T08:59:54.9989613+00:00",
+  "LastUpdate_Achievements": "2024-01-12T09:08:34.0487439+00:00"
 }

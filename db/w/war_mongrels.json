@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 771,
+  "EOS_Progressed": 772,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2765,6 +2765,11 @@
       "Time": "2024-01-11T19:10:10.7963873+00:00",
       "NumProgressed": 771,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T09:10:41.3654504+00:00",
+      "NumProgressed": 772,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2880,7 +2885,7 @@
       "Name": "Explorer",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ACH_COLL_20",
@@ -3000,7 +3005,7 @@
       "Name": "Cowardice",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -3008,7 +3013,7 @@
       "Name": "The Breaking Point",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -3040,7 +3045,7 @@
       "Name": "Opportunities",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -3080,7 +3085,7 @@
       "Name": "Sorrow",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_FIN_CH12",
@@ -3144,7 +3149,7 @@
       "Name": "Here Comes the Boom",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -3160,7 +3165,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -3200,7 +3205,7 @@
       "Name": "Sniper Wolf",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_KILL_THROW",
@@ -3208,7 +3213,7 @@
       "Name": "King of Knives",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_NEST1",
@@ -3247,15 +3252,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 771,
+      "Progressed": 772,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2024-01-12T08:10:55.8737196+00:00",
+  "LastChanged_Achievements": "2024-01-12T09:10:41.3654499+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:07.8864884+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:02:54.9938663+00:00",
-  "LastUpdate_Achievements": "2024-01-12T08:10:55.8737951+00:00"
+  "LastUpdate_Ratings": "2024-01-12T09:02:56.4848944+00:00",
+  "LastUpdate_Achievements": "2024-01-12T09:10:41.3655105+00:00"
 }

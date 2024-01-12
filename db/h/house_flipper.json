@@ -2301,9 +2301,9 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 22108,
+  "EOS_Progressed": 22109,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -13256,6 +13256,11 @@
       "Time": "2024-01-12T06:06:20.0958275+00:00",
       "NumProgressed": 22108,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-12T09:05:36.886706+00:00",
+      "NumProgressed": 22109,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -13307,7 +13312,7 @@
       "Name": "Estate Agent",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "FirstMoney",
@@ -13315,7 +13320,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 21003
+      "UsersEstimate": 21004
     },
     {
       "ID": "GameOver",
@@ -13427,7 +13432,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6853
+      "UsersEstimate": 6854
     },
     {
       "ID": "VeronicaLiptson",
@@ -13450,15 +13455,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 22108,
+      "Progressed": 22109,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2024-01-11T23:59:10.5298224+00:00",
-  "LastChanged_Achievements": "2024-01-12T08:06:15.2817614+00:00",
+  "LastChanged_Achievements": "2024-01-12T09:05:36.8867055+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:58.4708185+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:00:19.4615663+00:00",
-  "LastUpdate_Achievements": "2024-01-12T08:06:15.2818315+00:00"
+  "LastUpdate_Ratings": "2024-01-12T08:59:36.9492089+00:00",
+  "LastUpdate_Achievements": "2024-01-12T09:05:36.8867752+00:00"
 }

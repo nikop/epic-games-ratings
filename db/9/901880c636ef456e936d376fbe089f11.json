@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -903,17 +903,17 @@
       "ID": "ACH_BAD_MEMORY",
       "SetID": "8h8m55b",
       "Name": "Bad Memory",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_BAD_REVIEW",
       "SetID": "8h8m55b",
       "Name": "Bad Review",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_BLOODISH_RED",
@@ -991,9 +991,9 @@
       "ID": "ACH_FESTINA_LENTE",
       "SetID": "8h8m55b",
       "Name": "Festina Lente",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_FINISH_ONCE",
@@ -1119,9 +1119,9 @@
       "ID": "ACH_NOT_SO_HOT_BUSINESS",
       "SetID": "8h8m55b",
       "Name": "Not So Hot Business",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_OVERFLOWING_WARMTH",
@@ -1151,9 +1151,9 @@
       "ID": "ACH_STAR_CROSSED_SIBLINGS",
       "SetID": "8h8m55b",
       "Name": "Star-Crossed Siblings",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_TENDER_SOUL",
@@ -1215,9 +1215,9 @@
       "ID": "ACH_UNLOCK_ALL_CHARACTER",
       "SetID": "8h8m55b",
       "Name": "We are all friends",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_UNLOCK_ALL_DRINK",
@@ -1271,9 +1271,9 @@
       "ID": "ACH_WORK_WOES",
       "SetID": "8h8m55b",
       "Name": "Work Woes",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_WRONG_BREW_FIRST_TIME",
@@ -1294,8 +1294,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-01-12T08:05:58.4867436+00:00",
+  "LastChanged_Achievements": "2024-01-12T09:05:23.2980241+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:58.8135864+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:01:25.536482+00:00",
-  "LastUpdate_Achievements": "2024-01-12T08:05:58.4867857+00:00"
+  "LastUpdate_Ratings": "2024-01-12T09:00:27.5028765+00:00",
+  "LastUpdate_Achievements": "2024-01-12T09:05:23.298076+00:00"
 }

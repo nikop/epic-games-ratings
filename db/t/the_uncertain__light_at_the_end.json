@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 665,
+  "EOS_Progressed": 666,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -1379,6 +1379,11 @@
       "Time": "2024-01-11T19:04:26.1622922+00:00",
       "NumProgressed": 665,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-12T09:05:03.2753193+00:00",
+      "NumProgressed": 666,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1470,7 +1475,7 @@
       "Name": "U Mad Bro?",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Healthy_Child",
@@ -1486,7 +1491,7 @@
       "Name": "Short Circuit",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Illustrator",
@@ -1614,14 +1619,14 @@
       "Name": "Unexpected Consequences",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     }
   ],
   "AchievementSets": [
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 665,
+      "Progressed": 666,
       "Completed": 6
     }
   ],
@@ -1629,8 +1634,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-12T08:05:34.2970379+00:00",
+  "LastChanged_Achievements": "2024-01-12T09:05:03.275319+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:57:00.9618312+00:00",
-  "LastUpdate_Ratings": "2024-01-12T08:03:47.7508312+00:00",
-  "LastUpdate_Achievements": "2024-01-12T08:05:34.2970667+00:00"
+  "LastUpdate_Ratings": "2024-01-12T09:03:37.3561161+00:00",
+  "LastUpdate_Achievements": "2024-01-12T09:05:03.2753442+00:00"
 }
