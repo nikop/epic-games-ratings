@@ -19,9 +19,9 @@ Rating: 4.53 (Ranked 567)
 | Zen Master | 10.00% | ~487 |
 | Call it Even | 9.00% | ~1,702 |
 | Madame Undersecretary | 9.00% | ~438 |
+| Data Archivist | 8.00% | ~1,513 |
 | Heal Thy Medic | 8.00% | ~1,513 |
 | Keep Arjun in Check | 8.00% | ~389 |
-| Data Archivist | 7.00% | ~1,324 |
 | Drug Gifter | 7.00% | ~1,324 |
 | Thorston Mayer | 7.00% | ~1,324 |
 | Khan's Revenge | 7.00% | ~1,324 |
@@ -42,7 +42,7 @@ Rating: 4.53 (Ranked 567)
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18,914 (Ranked 159)  
-Completed: 63 (0.33%) (Ranked 252)  
+Completed: 64 (0.34%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -215,7 +215,7 @@ Completed: 63 (0.33%) (Ranked 252)
 | 2024-01-09 | 18,754 | 61 |
 | 2024-01-10 | 18,829 | 62 |
 | 2024-01-11 | 18,866 | 63 |
-| 2024-01-12 | 18,914 | 63 |
+| 2024-01-12 | 18,914 | 64 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

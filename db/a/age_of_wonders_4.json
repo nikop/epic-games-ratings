@@ -6,9 +6,9 @@
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 197,
-  "Ranking_EOS_Completed": 314,
+  "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -777,11 +777,11 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7209,
-  "EOS_Completed": 7,
-  "EOS_NewPlayers": 307,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.1,
+  "EOS_Progressed": 7210,
+  "EOS_Completed": 8,
+  "EOS_NewPlayers": 305,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
       "Time": "2023-05-09T15:04:23.1364092+00:00",
@@ -11132,6 +11132,11 @@
       "Time": "2024-01-12T22:03:47.1645129+00:00",
       "NumProgressed": 7209,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-12T23:04:19.8030161+00:00",
+      "NumProgressed": 7210,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11255,7 +11260,7 @@
       "Name": "Realm Estate",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "23",
@@ -11622,22 +11627,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7209,
+      "Progressed": 7210,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7209,
-      "Completed": 7
+      "Progressed": 7210,
+      "Completed": 8
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-11T22:58:38.2332491+00:00",
-  "LastChanged_Achievements": "2024-01-12T22:03:47.1645125+00:00",
+  "LastChanged_Achievements": "2024-01-12T23:04:19.8030158+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:58:58.2609144+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:03:47.1646198+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:59:18.1481752+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:04:19.8031243+00:00"
 }

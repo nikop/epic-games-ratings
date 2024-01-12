@@ -7,7 +7,7 @@ Number of Ratings: 124  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 44.00% | ~105 |
-| Best Buddy | 37.00% | ~88 |
+| Best Buddy | 38.00% | ~91 |
 | Civilian | 35.00% | ~84 |
 | Role Model | 31.00% | ~74 |
 | Creator | 29.00% | ~69 |

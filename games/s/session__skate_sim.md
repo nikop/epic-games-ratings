@@ -6,15 +6,15 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 63.00% | ~2,309 |
+| You're free now! | 63.00% | ~2,310 |
 | Keeping it classy | 27.00% | ~990 |
 | Welcome to the family | 21.00% | ~770 |
-| The finer things in life | 19.00% | ~696 |
-| Backpacker | 13.00% | ~476 |
-| Go with the Flow | 13.00% | ~476 |
-| Plastic Surgeon | 10.00% | ~366 |
-| The flip trick crown jewel | 10.00% | ~366 |
-| The hard way | 10.00% | ~366 |
+| The finer things in life | 19.00% | ~697 |
+| Backpacker | 13.00% | ~477 |
+| Go with the Flow | 13.00% | ~477 |
+| Plastic Surgeon | 10.00% | ~367 |
+| The flip trick crown jewel | 10.00% | ~367 |
+| The hard way | 10.00% | ~367 |
 | Good vibes | 9.00% | ~330 |
 | Keep the dream alive | 9.00% | ~330 |
 | Upfront shredder | 9.00% | ~330 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,665 (Ranked 223)  
+Progressed: 3,666 (Ranked 223)  
 Completed: 2 (0.05%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,11 +297,11 @@ Completed: 2 (0.05%) (Ranked 340)
 | 2024-01-09 | 3,627 | 2 |
 | 2024-01-10 | 3,653 | 2 |
 | 2024-01-11 | 3,659 | 2 |
-| 2024-01-12 | 3,665 | 2 |
+| 2024-01-12 | 3,666 | 2 |
 ## Awards
-Max (Great for Quick Sessions): 64  (Ranked 425)  
+Max (Great for Quick Sessions): 64  (Ranked 426)  
 Sum: 587 (Ranked 326)  
-Diff (max vs sum): 99  
+Diff (max vs sum): 100  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 64 |

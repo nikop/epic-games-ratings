@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -4055,9 +4055,9 @@
       "ID": "CosmeticProgress1",
       "SetID": "a9e499d",
       "Name": "Street Style",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 249
     },
     {
       "ID": "CultivairChests1",
@@ -4391,9 +4391,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 367
+      "UsersEstimate": 380
     },
     {
       "ID": "Zarkon2Defeated",
@@ -4416,8 +4416,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-12T11:57:31.6661727+00:00",
-  "LastChanged_Achievements": "2024-01-12T22:09:37.086719+00:00",
+  "LastChanged_Achievements": "2024-01-12T23:10:22.5959351+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:57:32.0620162+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:09:37.0867765+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:57:51.0442921+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:10:22.5959928+00:00"
 }

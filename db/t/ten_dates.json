@@ -4,8 +4,8 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
     "PcReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 513,
+  "EOS_Progressed": 514,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -1526,6 +1526,11 @@
       "Time": "2024-01-12T20:09:48.2765534+00:00",
       "NumProgressed": 513,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-12T23:09:57.0147467+00:00",
+      "NumProgressed": 514,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 19,
@@ -1545,7 +1550,7 @@
       "Name": "Picky, Picky!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "misha_date2_all",
@@ -1577,7 +1582,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ryan_date2_all",
@@ -1641,7 +1646,7 @@
       "Name": "The nice guy",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "success_kathleen",
@@ -1688,7 +1693,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 513,
+      "Progressed": 514,
       "Completed": 6
     }
   ],
@@ -1696,8 +1701,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-12T22:09:11.9135403+00:00",
+  "LastChanged_Achievements": "2024-01-12T23:09:57.0147463+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.8807214+00:00",
-  "LastUpdate_Ratings": "2024-01-12T22:00:18.9469662+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:09:11.9135594+00:00"
+  "LastUpdate_Ratings": "2024-01-12T23:00:40.0083977+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:09:57.0147647+00:00"
 }

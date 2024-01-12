@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -1033,9 +1033,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4387,
+  "EOS_Progressed": 4388,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8563,6 +8563,11 @@
       "Time": "2024-01-12T21:08:36.4655845+00:00",
       "NumProgressed": 4387,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T23:08:51.4095917+00:00",
+      "NumProgressed": 4388,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -8597,9 +8602,9 @@
       "ID": "achievement_12",
       "SetID": "c8fif6p",
       "Name": "Stud Finder",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 1799
+      "UsersEstimate": 1755
     },
     {
       "ID": "achievement_13",
@@ -8607,7 +8612,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2325
+      "UsersEstimate": 2326
     },
     {
       "ID": "achievement_14",
@@ -8623,7 +8628,7 @@
       "Name": "MVP",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 2325
+      "UsersEstimate": 2326
     },
     {
       "ID": "achievement_16",
@@ -8742,7 +8747,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4387,
+      "Progressed": 4388,
       "Completed": 0
     }
   ],
@@ -8750,8 +8755,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-09T22:00:12.8652525+00:00",
-  "LastChanged_Achievements": "2024-01-12T22:08:07.018164+00:00",
+  "LastChanged_Achievements": "2024-01-12T23:08:51.4095915+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:34.1147797+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:57:23.1718059+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:08:07.0182348+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:57:39.7532486+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:08:51.4096359+00:00"
 }

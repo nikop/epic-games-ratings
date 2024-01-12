@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1342,10 +1342,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 811,
       "NumberOfAwardsMax": 129
+    },
+    {
+      "Time": "2024-01-12T22:58:53.3427919+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 812,
+      "NumberOfAwardsMax": 129
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 811,
+  "NumberOfAwards": 812,
   "NumberOfAwardsMax": 129,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1371,7 +1377,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 94
+      "Count": 95
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1404,9 +1410,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33247,
+  "EOS_Progressed": 33251,
   "EOS_Completed": 87,
-  "EOS_NewPlayers": 682,
+  "EOS_NewPlayers": 681,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -30214,6 +30220,11 @@
       "Time": "2024-01-12T22:09:19.1839154+00:00",
       "NumProgressed": 33247,
       "NumCompleted": 87
+    },
+    {
+      "Time": "2024-01-12T23:10:04.2375291+00:00",
+      "NumProgressed": 33251,
+      "NumCompleted": 87
     }
   ],
   "TotalAchievements": 22,
@@ -30225,7 +30236,7 @@
       "Name": "War of the Five Kings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "1016",
@@ -30249,7 +30260,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "1019",
@@ -30257,7 +30268,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2327
+      "UsersEstimate": 2328
     },
     {
       "ID": "1020",
@@ -30265,7 +30276,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "1021",
@@ -30273,7 +30284,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "1022",
@@ -30289,7 +30300,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "1024",
@@ -30313,7 +30324,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2327
+      "UsersEstimate": 2328
     },
     {
       "ID": "1027",
@@ -30321,7 +30332,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2992
+      "UsersEstimate": 2993
     },
     {
       "ID": "1028",
@@ -30329,7 +30340,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5984
+      "UsersEstimate": 5985
     },
     {
       "ID": "1029",
@@ -30345,7 +30356,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6317
+      "UsersEstimate": 6318
     },
     {
       "ID": "1031",
@@ -30353,7 +30364,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "1032",
@@ -30361,7 +30372,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13299
+      "UsersEstimate": 13300
     },
     {
       "ID": "1033",
@@ -30377,7 +30388,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2327
+      "UsersEstimate": 2328
     },
     {
       "ID": "1035",
@@ -30393,22 +30404,22 @@
       "Name": "A Long Journey",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2327
+      "UsersEstimate": 2328
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33247,
+      "Progressed": 33251,
       "Completed": 87
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
-  "LastChanged": "2024-01-11T22:58:09.7752455+00:00",
-  "LastChanged_Achievements": "2024-01-12T22:09:19.183915+00:00",
+  "LastChanged": "2024-01-12T22:58:53.3427917+00:00",
+  "LastChanged_Achievements": "2024-01-12T23:10:04.2375287+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:53.1129394+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:58:32.0932916+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:09:19.1841193+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:58:53.3427921+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:10:04.2377175+00:00"
 }

@@ -9,7 +9,7 @@ Rating: 4.70 (Ranked 220)
 | The Mysterious Stranger | 35.00% | ~459 |
 | Rail Rat | 35.00% | ~459 |
 | Immaculate Aim | 29.00% | ~380 |
-| The Brass Boss | 28.00% | ~367 |
+| The Brass Boss | 29.00% | ~380 |
 | Time Flies | 27.00% | ~354 |
 | Make Up For Lost Time | 26.00% | ~341 |
 | The Harder They Fall | 26.00% | ~341 |
@@ -27,7 +27,7 @@ Rating: 4.70 (Ranked 220)
 | Like Clockwork | 21.00% | ~276 |
 | The Loose Cannon | 20.00% | ~262 |
 | Check Your Pulse | 20.00% | ~262 |
-| Street Style | 18.00% | ~236 |
+| Street Style | 19.00% | ~249 |
 | The Man Who Shattered Time | 18.00% | ~236 |
 | The Family Fortune | 18.00% | ~236 |
 | Whiz Kid | 15.00% | ~197 |

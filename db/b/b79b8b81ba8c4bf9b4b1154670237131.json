@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16619,
+  "EOS_Progressed": 16621,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6490,6 +6490,11 @@
       "Time": "2024-01-12T22:09:03.2010583+00:00",
       "NumProgressed": 16619,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-12T23:09:48.4308435+00:00",
+      "NumProgressed": 16621,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6502,7 +6507,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6315
+      "UsersEstimate": 6316
     },
     {
       "ID": "ACH_AE_10",
@@ -6534,7 +6539,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12464
+      "UsersEstimate": 12466
     },
     {
       "ID": "ACH_AE_14",
@@ -6550,7 +6555,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3656
+      "UsersEstimate": 3657
     },
     {
       "ID": "ACH_AE_16",
@@ -6558,7 +6563,7 @@
       "Name": "Energy Efficient",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "ACH_AE_17",
@@ -6734,7 +6739,7 @@
       "Name": "The Bomb",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1995
     },
     {
       "ID": "ACH_AE_5",
@@ -6742,7 +6747,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1995
     },
     {
       "ID": "ACH_AE_6",
@@ -6781,7 +6786,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16619,
+      "Progressed": 16621,
       "Completed": 15
     }
   ],
@@ -6789,8 +6794,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-06T19:57:04.811996+00:00",
-  "LastChanged_Achievements": "2024-01-12T22:09:03.2010576+00:00",
+  "LastChanged_Achievements": "2024-01-12T23:09:48.4308432+00:00",
   "LastUpdate_AppInfo": "2024-01-09T19:56:59.6965527+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:59:59.5070121+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:09:03.2011254+00:00"
+  "LastUpdate_Ratings": "2024-01-12T23:00:20.452852+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:09:48.4308958+00:00"
 }

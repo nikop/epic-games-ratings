@@ -4,8 +4,8 @@
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
   "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
     "PcReleaseDate": "2018-03-22T23:00:00+00:00",
@@ -732,7 +732,7 @@
       "ID": "achievement_drunk_lucky",
       "SetID": "bngbnfb",
       "Name": "The luck of drunkards",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -772,7 +772,7 @@
       "ID": "achievement_flit_alive",
       "SetID": "bngbnfb",
       "Name": "The luck of wiseguys",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -844,7 +844,7 @@
       "ID": "achievement_kriger_alive",
       "SetID": "bngbnfb",
       "Name": "A friend in need",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -932,7 +932,7 @@
       "ID": "achievement_save_the_king",
       "SetID": "bngbnfb",
       "Name": "Save the King",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -940,7 +940,7 @@
       "ID": "achievement_save_the_prince",
       "SetID": "bngbnfb",
       "Name": "Save the Prince",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -964,9 +964,9 @@
       "ID": "achievement_the_most_difficult_decision",
       "SetID": "bngbnfb",
       "Name": "The hardest choice",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_thorn_alive",
@@ -988,7 +988,7 @@
       "ID": "achievement_thrifty",
       "SetID": "bngbnfb",
       "Name": "Parsimonious",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1020,9 +1020,9 @@
       "ID": "achievement_we_are_saved_philia",
       "SetID": "bngbnfb",
       "Name": "We\u0027re saved (Philia)",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_we_are_saved_rit",
@@ -1051,8 +1051,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2024-01-12T22:08:55.3615253+00:00",
+  "LastChanged_Achievements": "2024-01-12T23:09:40.7263921+00:00",
   "LastUpdate_AppInfo": "2024-01-10T15:57:10.9159831+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:57:58.92485+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:08:55.3615592+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:58:19.9021691+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:09:40.7264238+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -91,9 +91,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2272,
+  "EOS_Progressed": 2273,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4381,6 +4381,11 @@
       "Time": "2024-01-12T22:09:31.2766743+00:00",
       "NumProgressed": 2272,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-12T23:10:16.6777541+00:00",
+      "NumProgressed": 2273,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4392,7 +4397,7 @@
       "Name": "Break Out",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "ACH_02",
@@ -4408,7 +4413,7 @@
       "Name": "Powerful Allies",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ACH_04",
@@ -4416,7 +4421,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_05",
@@ -4528,7 +4533,7 @@
       "Name": "Shatter Them All",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ACH_19",
@@ -4568,7 +4573,7 @@
       "Name": "Geared Up",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ACH_24",
@@ -4608,7 +4613,7 @@
       "Name": "I Found It",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ACH_29",
@@ -4679,7 +4684,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2272,
+      "Progressed": 2273,
       "Completed": 3
     }
   ],
@@ -4687,8 +4692,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-11T14:57:15.6904807+00:00",
-  "LastChanged_Achievements": "2024-01-12T22:09:31.276674+00:00",
+  "LastChanged_Achievements": "2024-01-12T23:10:16.6777538+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:57:42.3093451+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:09:31.2767214+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:58:01.4896103+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:10:16.6777911+00:00"
 }

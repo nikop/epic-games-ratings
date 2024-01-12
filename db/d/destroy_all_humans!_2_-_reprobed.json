@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,7 +306,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
@@ -1891,6 +1891,11 @@
       "Time": "2024-01-12T15:09:53.3510268+00:00",
       "NumProgressed": 415,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-12T23:09:35.2173869+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1903,7 +1908,7 @@
       "Name": "Mash Machine",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1917,9 +1922,9 @@
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
       "SetID": "4n84pon",
       "Name": "Perfect Probulator",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1935,7 +1940,7 @@
       "Name": "Furon Fashion",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -1975,7 +1980,7 @@
       "Name": "Cult Following",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -2015,7 +2020,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -2095,7 +2100,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -2151,7 +2156,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -2254,7 +2259,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 2
     }
   ],
@@ -2262,8 +2267,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-12T22:08:49.1517434+00:00",
+  "LastChanged_Achievements": "2024-01-12T23:09:35.2173864+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:59:24.2672714+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:08:49.1517767+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:59:45.0609142+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:09:35.2174267+00:00"
 }

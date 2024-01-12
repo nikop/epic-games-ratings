@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 972,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -3552,9 +3552,9 @@
       "ID": "achievement_13",
       "SetID": "7ldgi7j",
       "Name": "Competitor\u0027s Spirit",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 330
     },
     {
       "ID": "achievement_14",
@@ -3670,8 +3670,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-12T22:04:50.6563684+00:00",
+  "LastChanged_Achievements": "2024-01-12T23:05:24.6903942+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.2920939+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:58:32.6777698+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:04:50.6563971+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:58:53.9396262+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:05:24.6904236+00:00"
 }

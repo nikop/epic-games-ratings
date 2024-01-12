@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8294,
+  "EOS_Progressed": 8296,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13957,6 +13957,11 @@
       "Time": "2024-01-12T22:08:08.5467057+00:00",
       "NumProgressed": 8294,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T23:08:53.0942976+00:00",
+      "NumProgressed": 8296,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13992,7 +13997,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -14287,13 +14292,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8294,
+      "Progressed": 8296,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7666,
+      "Progressed": 7668,
       "Completed": 113
     }
   ],
@@ -14301,8 +14306,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-12T22:08:08.5467049+00:00",
+  "LastChanged_Achievements": "2024-01-12T23:08:53.0942972+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:02:34.319243+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:08:08.5468098+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:57:15.3941116+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:08:53.094399+00:00"
 }

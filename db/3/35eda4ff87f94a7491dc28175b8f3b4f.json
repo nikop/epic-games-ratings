@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -281,10 +281,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21610,
-  "EOS_Completed": 107,
-  "EOS_NewPlayers": 1231,
-  "EOS_NewCompleters": 11,
+  "EOS_Progressed": 21614,
+  "EOS_Completed": 108,
+  "EOS_NewPlayers": 1230,
+  "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
     {
@@ -7836,6 +7836,11 @@
       "Time": "2024-01-12T22:05:10.7638532+00:00",
       "NumProgressed": 21610,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2024-01-12T23:05:44.2504075+00:00",
+      "NumProgressed": 21614,
+      "NumCompleted": 108
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -7888,7 +7893,7 @@
       "Name": "Righter of Wrongs",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
@@ -7896,7 +7901,7 @@
       "Name": "Rescuer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2809
+      "UsersEstimate": 2810
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -7927,16 +7932,16 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 21610,
-      "Completed": 107
+      "Progressed": 21614,
+      "Completed": 108
     }
   ],
   "FirstSeen": "2023-10-19T17:59:40.5875906+00:00",
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-02T16:59:56.4750656+00:00",
-  "LastChanged_Achievements": "2024-01-12T22:05:10.7638527+00:00",
+  "LastChanged_Achievements": "2024-01-12T23:05:44.2504068+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:13.403485+00:00",
-  "LastUpdate_Ratings": "2024-01-12T22:00:04.7938419+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:05:10.7639026+00:00"
+  "LastUpdate_Ratings": "2024-01-12T23:00:25.5888843+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:05:44.250458+00:00"
 }

@@ -5,19 +5,19 @@ Rating: 4.59 (Ranked 452)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 34.00% | ~1,416 |
+| Wakey Wakey | 34.00% | ~1,417 |
 | Sputnik 2049 | 30.00% | ~1,250 |
-| Infinite Growth... | 28.00% | ~1,166 |
+| Infinite Growth... | 28.00% | ~1,167 |
 | Without Breaking Some Eggs... | 27.00% | ~1,125 |
 | Space Society | 19.00% | ~792 |
 | A Thousand Strong | 19.00% | ~792 |
 | Ready for a New World | 19.00% | ~792 |
-| Permanent Redesigns | 17.00% | ~708 |
+| Permanent Redesigns | 17.00% | ~709 |
 | Guy de Borderlands | 15.00% | ~625 |
 | Fully Recycled | 15.00% | ~625 |
 | Ain't Nobody Got Time for That | 15.00% | ~625 |
 | The Ship of Theseus | 15.00% | ~625 |
-| Hope Seeker | 14.00% | ~583 |
+| Hope Seeker | 14.00% | ~584 |
 | A Hunk of Junk | 12.00% | ~500 |
 | Exceeding Capacity | 12.00% | ~500 |
 | Breaking Protocol | 12.00% | ~500 |
@@ -45,25 +45,25 @@ Rating: 4.59 (Ranked 452)
 | Help of the Forgotten Member | 3.00% | ~125 |
 | Pulsar Disciple | 3.00% | ~125 |
 | Mutual Loyalty | 2.00% | ~83 |
+| Better Him Than Me | 2.00% | ~83 |
 | Tiqqun Contender | 2.00% | ~83 |
 | Catastrophe Avoided | 2.00% | ~83 |
 | You Had One Job... | 2.00% | ~83 |
 | Tiqqun Unchained | 2.00% | ~83 |
-| Better Him Than Me | 1.00% | ~42 |
+| Scientifically Accurate | 2.00% | ~83 |
 | Remember the Dead | 1.00% | ~42 |
 | Gregor Spinoza | 1.00% | ~42 |
-| Scientifically Accurate | 1.00% | ~42 |
 | Work Harder | 0.70% | ~29 |
 | Soylent Green | 0.60% | ~25 |
 | Crunch Culture | 0.40% | ~17 |
-| A Junker's Dream | 0.30% | ~12 |
+| A Junker's Dream | 0.30% | ~13 |
 | Scenic View | 0.20% | ~8 |
 | I Give You the Stars | 0.20% | ~5 |
 | Beyond Time and Space | 0.10% | ~4 |
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,166 (Ranked 213)  
+Progressed: 4,168 (Ranked 213)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 4,126 | 0 |
 | 2024-01-10 | 4,148 | 0 |
 | 2024-01-11 | 4,156 | 0 |
-| 2024-01-12 | 4,166 | 0 |
+| 2024-01-12 | 4,168 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

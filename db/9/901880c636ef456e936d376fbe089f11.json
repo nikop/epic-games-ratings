@@ -4,8 +4,8 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -1007,9 +1007,9 @@
       "ID": "ACH_FIRSTLOVE",
       "SetID": "8h8m55b",
       "Name": "First Love",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_FIVE_STARS",
@@ -1063,17 +1063,17 @@
       "ID": "ACH_HYDE_LEIBOVITZ",
       "SetID": "8h8m55b",
       "Name": "Hyde Leibovitz",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_JUST_MARRIED",
       "SetID": "8h8m55b",
       "Name": "Just Married",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_LISTEN_ALL_SONG",
@@ -1294,8 +1294,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-01-12T22:05:01.1480799+00:00",
+  "LastChanged_Achievements": "2024-01-12T23:05:34.4396325+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:58.8135864+00:00",
-  "LastUpdate_Ratings": "2024-01-12T22:00:17.5650656+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:05:01.1481277+00:00"
+  "LastUpdate_Ratings": "2024-01-12T23:00:38.5148353+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:05:34.4396773+00:00"
 }

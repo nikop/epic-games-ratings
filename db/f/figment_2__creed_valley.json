@@ -4,8 +4,8 @@
   "ProductSlug": "figment2-creed-valley",
   "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 439,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 438,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -471,9 +471,9 @@
       "ID": "shards_one_remembrane",
       "SetID": "7e96e7l",
       "Name": "Remembering of the past",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "story_conviction_lane",
@@ -527,9 +527,9 @@
       "ID": "story_principle_square",
       "SetID": "7e96e7l",
       "Name": "Elementary, My Dear Dusty",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
@@ -544,8 +544,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2024-01-12T22:09:27.780266+00:00",
+  "LastChanged_Achievements": "2024-01-12T23:10:12.9665591+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:58.0189058+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:59:33.5579752+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:09:27.780276+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:59:54.655466+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:10:12.9665682+00:00"
 }

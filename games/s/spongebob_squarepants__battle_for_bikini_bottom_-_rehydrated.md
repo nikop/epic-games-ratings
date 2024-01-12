@@ -18,8 +18,8 @@ Number of Ratings: 76  (23.09.2022)
 | Super Spatula Seeker | 11.00% | ~107 |
 | Surf's Up! | 11.00% | ~107 |
 | Squirrel Smasher | 10.00% | ~97 |
+| Life's as extreme as you wanna make it! | 9.00% | ~87 |
 | Toxic Terror | 9.00% | ~87 |
-| Life's as extreme as you wanna make it! | 8.00% | ~78 |
 | Shrimp Catcher | 8.00% | ~78 |
 | Hit Rock Bottom | 8.00% | ~78 |
 | Are you ready now? | 7.00% | ~68 |

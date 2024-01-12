@@ -4,11 +4,11 @@
   "ProductSlug": "risk-of-rain-2",
   "Ranking_Rating": 59,
   "Ranking_Popularity": 267,
-  "Ranking_PopularitySum": 195,
+  "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 579,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-19T15:00:00+00:00",
     "PcReleaseDate": "2020-08-11T14:53:00+00:00",
@@ -3441,10 +3441,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 2715,
       "NumberOfAwardsMax": 294
+    },
+    {
+      "Time": "2024-01-12T22:59:04.1010328+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2717,
+      "NumberOfAwardsMax": 294
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2715,
+  "NumberOfAwards": 2717,
   "NumberOfAwardsMax": 294,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3494,13 +3500,13 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 222
+      "Count": 223
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 248
+      "Count": 249
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3532,8 +3538,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2024-01-12T17:58:38.6165978+00:00",
+  "LastChanged": "2024-01-12T22:59:04.1010326+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:09.0472434+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:58:44.349192+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:05:34.9140768+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:59:04.1010331+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:06:08.9527573+00:00"
 }

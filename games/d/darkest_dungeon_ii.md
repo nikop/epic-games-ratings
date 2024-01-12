@@ -6,8 +6,8 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,043 |
-| Lost and Found | 8.00% | ~596 |
+| Malpractice Assurance | 14.00% | ~1,044 |
+| Lost and Found | 8.00% | ~597 |
 | Autodidact | 7.00% | ~9,281 |
 | This guy... again? | 7.00% | ~522 |
 | Serenity Now! | 6.00% | ~7,955 |
@@ -27,32 +27,32 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 5.00% | ~6,629 |
 | A Place to Lay Your Head | 5.00% | ~6,629 |
 | FNG | 5.00% | ~6,629 |
-| Spelunker | 4.00% | ~5,303 |
-| Merry Time | 4.00% | ~5,303 |
-| Harvest Festival | 4.00% | ~5,303 |
-| Ramble On | 4.00% | ~5,303 |
-| Whale | 4.00% | ~5,303 |
-| Nope | 4.00% | ~5,303 |
-| Unshackled | 4.00% | ~5,303 |
+| Spelunker | 4.00% | ~5,304 |
+| Merry Time | 4.00% | ~5,304 |
+| Harvest Festival | 4.00% | ~5,304 |
+| Ramble On | 4.00% | ~5,304 |
+| Whale | 4.00% | ~5,304 |
+| Nope | 4.00% | ~5,304 |
+| Unshackled | 4.00% | ~5,304 |
 | Friends 'Til the End | 4.00% | ~298 |
-| Resurrection | 3.00% | ~3,977 |
-| Unleash Hell | 3.00% | ~3,977 |
-| Funny Guy | 3.00% | ~3,977 |
-| Long Live the King | 3.00% | ~3,977 |
-| Wyrdly Reconstructed | 3.00% | ~3,977 |
-| Boxcar Kid | 3.00% | ~3,977 |
-| Unfulfilled Desires | 3.00% | ~3,977 |
-| Hope Rekindled | 3.00% | ~3,977 |
-| Predator | 3.00% | ~3,977 |
-| Dissector | 3.00% | ~3,977 |
-| Banishment | 3.00% | ~3,977 |
-| Deprogramming | 3.00% | ~3,977 |
-| Now Stay Dead | 3.00% | ~3,977 |
-| Reverse Banditry | 3.00% | ~3,977 |
-| A Clear Conscience | 3.00% | ~3,977 |
-| When You Want Something Done Right | 3.00% | ~3,977 |
-| Utopia | 3.00% | ~3,977 |
-| Road Trip | 3.00% | ~3,977 |
+| Resurrection | 3.00% | ~3,978 |
+| Unleash Hell | 3.00% | ~3,978 |
+| Funny Guy | 3.00% | ~3,978 |
+| Long Live the King | 3.00% | ~3,978 |
+| Wyrdly Reconstructed | 3.00% | ~3,978 |
+| Boxcar Kid | 3.00% | ~3,978 |
+| Unfulfilled Desires | 3.00% | ~3,978 |
+| Hope Rekindled | 3.00% | ~3,978 |
+| Predator | 3.00% | ~3,978 |
+| Dissector | 3.00% | ~3,978 |
+| Banishment | 3.00% | ~3,978 |
+| Deprogramming | 3.00% | ~3,978 |
+| Now Stay Dead | 3.00% | ~3,978 |
+| Reverse Banditry | 3.00% | ~3,978 |
+| A Clear Conscience | 3.00% | ~3,978 |
+| When You Want Something Done Right | 3.00% | ~3,978 |
+| Utopia | 3.00% | ~3,978 |
+| Road Trip | 3.00% | ~3,978 |
 | This Looks Familiar | 2.00% | ~2,652 |
 | Ichthyophobic | 2.00% | ~2,652 |
 | No More Mouths to Feed | 2.00% | ~2,652 |
@@ -70,8 +70,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 1.00% | ~75 |
 | Et Tu, Riposte? | 0.90% | ~67 |
 | The World As It Was | 0.70% | ~928 |
-| A Life Well Lived | 0.60% | ~795 |
-| Bacon Bits | 0.60% | ~795 |
+| A Life Well Lived | 0.60% | ~796 |
+| Bacon Bits | 0.60% | ~796 |
 | On This Long Road, We Found Redemption | 0.60% | ~45 |
 | Eidetic | 0.50% | ~663 |
 | Tears in the Rain | 0.40% | ~530 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,583 (Ranked 91)  
+Progressed: 132,589 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,17 +343,17 @@ Completed: 4 (0.00%) (Ranked 399)
 | 2024-01-09 | 132,315 | 3 |
 | 2024-01-10 | 132,395 | 4 |
 | 2024-01-11 | 132,491 | 4 |
-| 2024-01-12 | 132,583 | 4 |
+| 2024-01-12 | 132,589 | 4 |
 ## Awards
 Max (Character Customization): 8,007  (Ranked 51)  
-Sum: 21,609 (Ranked 58)  
+Sum: 21,610 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,007 |
 | This game has Diverse Characters | 1,846 |
 | This game has Challenging Combat | 1,679 |
-| This game is Highly Recommended | 1,603 |
+| This game is Highly Recommended | 1,604 |
 | This game has Amazing Characters | 1,532 |
 | This game is Extremely Fun | 1,522 |
 | This game has Unique Visuals | 1,467 |
@@ -714,4 +714,4 @@ Diff (max vs sum): -7
 | 2024-01-09 | 4.68 | - | 7,992 | 21,561 |
 | 2024-01-10 | 4.68 | - | 8,000 | 21,576 |
 | 2024-01-11 | 4.68 | - | 8,002 | 21,592 |
-| 2024-01-12 | 4.68 | - | 8,007 | 21,609 |
+| 2024-01-12 | 4.68 | - | 8,007 | 21,610 |

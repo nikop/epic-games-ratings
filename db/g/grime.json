@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1879,9 +1879,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167846,
+  "EOS_Progressed": 167856,
   "EOS_Completed": 456,
-  "EOS_NewPlayers": 1151,
+  "EOS_NewPlayers": 1154,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22854,6 +22854,11 @@
       "Time": "2024-01-12T22:05:17.126035+00:00",
       "NumProgressed": 167846,
       "NumCompleted": 456
+    },
+    {
+      "Time": "2024-01-12T23:05:50.8164261+00:00",
+      "NumProgressed": 167856,
+      "NumCompleted": 456
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22914,7 +22919,7 @@
       "Name": "The Hunt",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5035
+      "UsersEstimate": 5036
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -23002,7 +23007,7 @@
       "Name": "Harmless",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -23058,7 +23063,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -23066,7 +23071,7 @@
       "Name": "Devourer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -23138,7 +23143,7 @@
       "Name": "Ravenous",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5035
+      "UsersEstimate": 5036
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -23233,21 +23238,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167429,
-      "Completed": 1261
+      "Progressed": 167439,
+      "Completed": 1262
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167846,
+      "Progressed": 167856,
       "Completed": 456
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-12T18:57:16.5787168+00:00",
-  "LastChanged_Achievements": "2024-01-12T22:05:17.1260347+00:00",
+  "LastChanged_Achievements": "2024-01-12T23:05:50.8164258+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:57:10.0057793+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:05:17.1261551+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:57:25.6872418+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:05:50.8165662+00:00"
 }

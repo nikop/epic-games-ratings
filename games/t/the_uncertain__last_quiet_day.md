@@ -15,8 +15,8 @@ Rating: 3.75 (Ranked 1,093)
 | Everybody lies | 36.00% | ~230 |
 | Trick or Treat? | 23.00% | ~147 |
 | There is another way | 22.00% | ~141 |
+| Every little helps | 21.00% | ~134 |
 | Sysadmin | 21.00% | ~134 |
-| Every little helps | 20.00% | ~128 |
 | Annoying | 19.00% | ~121 |
 | Hacker | 19.00% | ~121 |
 | He is just a child | 19.00% | ~121 |

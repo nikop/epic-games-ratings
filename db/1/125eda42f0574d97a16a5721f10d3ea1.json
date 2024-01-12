@@ -4,8 +4,8 @@
   "ProductSlug": "my-product-b51a19",
   "Ranking_EOS_Progress": 683,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2024-01-07T17:30:00+00:00",
     "PcReleaseDate": "2019-02-06T06:00:00+00:00",
@@ -107,9 +107,9 @@
       "ID": "DIE",
       "SetID": "5770k2f",
       "Name": "Die",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DIFFICULTY_1",
@@ -203,9 +203,9 @@
       "ID": "LEVEL_0_COMPLETED",
       "SetID": "5770k2f",
       "Name": "On Your Way",
-      "Percentage": 67,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SURVIVAL_BUY_ITEM",
@@ -297,8 +297,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-05T00:05:33.9112333+00:00",
-  "LastChanged_Achievements": "2024-01-12T22:03:57.8662909+00:00",
+  "LastChanged_Achievements": "2024-01-12T23:04:30.5854136+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:07.9830278+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:57:58.5342678+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:03:57.8663062+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:58:19.5084508+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:04:30.585431+00:00"
 }

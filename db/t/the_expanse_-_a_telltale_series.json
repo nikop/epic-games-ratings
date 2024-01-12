@@ -6,9 +6,9 @@
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 159,
-  "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_Completed": 250,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -344,10 +344,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 18914,
-  "EOS_Completed": 63,
-  "EOS_NewPlayers": 596,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 0.33,
+  "EOS_Completed": 64,
+  "EOS_NewPlayers": 585,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
       "Time": "2023-07-26T16:06:14.482825+00:00",
@@ -17168,6 +17168,11 @@
       "Time": "2024-01-12T22:03:30.3746077+00:00",
       "NumProgressed": 18914,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-12T23:04:01.7874709+00:00",
+      "NumProgressed": 18914,
+      "NumCompleted": 64
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17202,9 +17207,9 @@
       "ID": "12",
       "SetID": "458bbdk",
       "Name": "Data Archivist",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1513
     },
     {
       "ID": "13",
@@ -17460,21 +17465,21 @@
       "ID": "458bbdk",
       "IsBase": true,
       "Progressed": 18914,
-      "Completed": 63
+      "Completed": 64
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
       "Progressed": 4868,
-      "Completed": 1296
+      "Completed": 1298
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-11T01:50:11.8166633+00:00",
-  "LastChanged_Achievements": "2024-01-12T22:03:30.374607+00:00",
+  "LastChanged_Achievements": "2024-01-12T23:04:01.7874705+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:57:08.8469586+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:03:30.3747059+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:57:24.7611009+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:04:01.787588+00:00"
 }

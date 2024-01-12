@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -559,9 +559,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4752,
+  "EOS_Progressed": 4753,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8304,6 +8304,11 @@
       "Time": "2024-01-12T20:08:19.6210064+00:00",
       "NumProgressed": 4752,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-12T23:08:31.263606+00:00",
+      "NumProgressed": 4753,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8371,7 +8376,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "Eureka_23",
@@ -8387,7 +8392,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "ForAllAurai_8",
@@ -8419,7 +8424,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "HouseofCards_19",
@@ -8635,7 +8640,7 @@
       "Name": "Venture Outward",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 3421
+      "UsersEstimate": 3422
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8650,15 +8655,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4752,
+      "Progressed": 4753,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-12T22:06:16.0232756+00:00",
+  "LastChanged_Achievements": "2024-01-12T23:08:31.2636058+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:45.0450053+00:00",
-  "LastUpdate_Ratings": "2024-01-12T22:02:48.952047+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:06:16.0233505+00:00"
+  "LastUpdate_Ratings": "2024-01-12T23:03:17.1203925+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:08:31.2636689+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 413,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -1189,9 +1189,9 @@
       "ID": "EVERY_LITTLE_HELPS",
       "SetID": "2iigf77",
       "Name": "Every little helps",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 128
+      "UsersEstimate": 134
     },
     {
       "ID": "FOUND_IT",
@@ -1398,8 +1398,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2024-01-12T22:09:29.1544932+00:00",
+  "LastChanged_Achievements": "2024-01-12T23:10:14.3707131+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.594595+00:00",
-  "LastUpdate_Ratings": "2024-01-12T22:00:05.5162412+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:09:29.1545173+00:00"
+  "LastUpdate_Ratings": "2024-01-12T23:00:26.361423+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:10:14.3707377+00:00"
 }

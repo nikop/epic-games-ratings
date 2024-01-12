@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Screwdriver | 58.00% | ~84 |
+| Screwdriver | 59.00% | ~85 |
 | Springs | 56.00% | ~81 |
 | Soap | 38.00% | ~55 |
 | Purr-fect | 33.00% | ~48 |

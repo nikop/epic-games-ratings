@@ -5,23 +5,23 @@ Rating: 4.15 (Ranked 999)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 13.00% | ~6,129 |
+| Attachments | 13.00% | ~6,130 |
 | Unlocked Potential | 12.00% | ~5,658 |
-| Tinkerer | 9.00% | ~4,243 |
+| Tinkerer | 9.00% | ~4,244 |
 | Knock 'Em Dead | 8.00% | ~3,772 |
 | Pilgrimage: Initiate | 8.00% | ~3,772 |
 | Hell of a Run | 8.00% | ~3,772 |
-| Leapfrogger | 7.00% | ~3,300 |
-| Call of the Fount: Baptized | 7.00% | ~3,300 |
+| Leapfrogger | 7.00% | ~3,301 |
+| Call of the Fount: Baptized | 7.00% | ~3,301 |
 | No Mercy | 6.00% | ~2,829 |
 | Explorer: Seeker | 6.00% | ~2,829 |
 | Help Me Out Here | 6.00% | ~2,829 |
-| Through the Eyes of Another: Empath | 5.00% | ~2,357 |
-| Stuck | 5.00% | ~2,357 |
+| Through the Eyes of Another: Empath | 5.00% | ~2,358 |
+| Stuck | 5.00% | ~2,358 |
 | The Interloper | 4.00% | ~1,886 |
-| Outdoorsperson | 3.00% | ~1,414 |
-| Hop, Step, Jump | 3.00% | ~1,414 |
-| Endless Runner | 3.00% | ~1,414 |
+| Outdoorsperson | 3.00% | ~1,415 |
+| Hop, Step, Jump | 3.00% | ~1,415 |
+| Endless Runner | 3.00% | ~1,415 |
 | What Must Be Done | 2.00% | ~943 |
 | Might and Main | 2.00% | ~943 |
 | Damned If You Do... | 2.00% | ~943 |
@@ -30,10 +30,10 @@ Rating: 4.15 (Ranked 999)
 | Explorer: Pathfinder | 2.00% | ~943 |
 | Shocker | 2.00% | ~943 |
 | From Every Angle | 2.00% | ~943 |
-| The Truth Will Out | 1.00% | ~471 |
-| None the Wiser | 1.00% | ~471 |
-| Forspoken | 1.00% | ~471 |
-| Pilgrimage: Novice | 1.00% | ~471 |
+| The Truth Will Out | 1.00% | ~472 |
+| None the Wiser | 1.00% | ~472 |
+| Forspoken | 1.00% | ~472 |
+| Pilgrimage: Novice | 1.00% | ~472 |
 | Wildfire | 0.80% | ~377 |
 | Awakening | 0.70% | ~330 |
 | Realized Potential | 0.70% | ~330 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 999)
 | Remembrance | 0.10% | ~47 |
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,148 (Ranked 127)  
+Progressed: 47,151 (Ranked 127)  
 Completed: 4 (0.01%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,15 +326,15 @@ Completed: 4 (0.01%) (Ranked 375)
 | 2024-01-09 | 46,925 | 4 |
 | 2024-01-10 | 47,035 | 4 |
 | 2024-01-11 | 47,103 | 4 |
-| 2024-01-12 | 47,148 | 4 |
+| 2024-01-12 | 47,151 | 4 |
 ## Awards
 Max (Character Customization): 48  (Ranked 464)  
-Sum: 70 (Ranked 492)  
-Diff (max vs sum): -28  
+Sum: 71 (Ranked 491)  
+Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 48 |
-| This game has Great Boss Battles | 22 |
+| This game has Great Boss Battles | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -439,4 +439,4 @@ Diff (max vs sum): -28
 | 2024-01-07 | 4.15 | 46 | 67 |
 | 2024-01-08 | 4.16 | 47 | 68 |
 | 2024-01-09 | 4.16 | 47 | 69 |
-| 2024-01-12 | 4.16 | 48 | 70 |
+| 2024-01-12 | 4.16 | 48 | 71 |

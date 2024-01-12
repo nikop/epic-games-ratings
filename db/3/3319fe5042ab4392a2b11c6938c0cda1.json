@@ -4,8 +4,8 @@
   "ProductSlug": "thief-5bb95f",
   "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2014-02-25T05:00:00+00:00",
@@ -941,9 +941,9 @@
       "ID": "NEW_ACHIEVEMENT_1_30",
       "SetID": "ae95dh3",
       "Name": "Dirty Secrets",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_31",
@@ -1052,8 +1052,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-12T22:05:40.8961783+00:00",
+  "LastChanged_Achievements": "2024-01-12T23:06:15.2354569+00:00",
   "LastUpdate_AppInfo": "2024-01-10T17:57:06.492546+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:57:56.5807286+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:05:40.896208+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:58:17.5454386+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:06:15.235487+00:00"
 }

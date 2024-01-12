@@ -4,8 +4,8 @@
   "ProductSlug": "the-hive-f5c2c8",
   "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
     "PcReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -387,9 +387,9 @@
       "ID": "A_ARTIFACT",
       "SetID": "324h56e",
       "Name": "The Artifact",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "A_AVATAR",
@@ -475,9 +475,9 @@
       "ID": "A_HIVE_RESS hiveRes (0-100)",
       "SetID": "324h56e",
       "Name": "Hivespital",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "A_HUNT hunt (0-1)",
@@ -507,9 +507,9 @@
       "ID": "A_KILLS kills_1 (0-100)",
       "SetID": "324h56e",
       "Name": "Slaughter",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "A_KILLS_2 kills_1 (0-1000)",
@@ -523,9 +523,9 @@
       "ID": "A_LEGENDARY",
       "SetID": "324h56e",
       "Name": "Loot of Legends",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "A_LEGIONNAIRES",
@@ -547,9 +547,9 @@
       "ID": "A_MEAT meat (0-10000)",
       "SetID": "324h56e",
       "Name": "Fresh Meat!",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "A_MEDIC_HEAL",
@@ -587,9 +587,9 @@
       "ID": "A_POPULATION",
       "SetID": "324h56e",
       "Name": "Full Hive",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "A_QUEEN",
@@ -651,9 +651,9 @@
       "ID": "A_TURRET",
       "SetID": "324h56e",
       "Name": "All About That Base",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "A_TURTLES",
@@ -698,8 +698,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-12T22:03:36.7739654+00:00",
+  "LastChanged_Achievements": "2024-01-12T23:04:08.3747717+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.8788926+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:59:59.2842237+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:03:36.7739912+00:00"
+  "LastUpdate_Ratings": "2024-01-12T23:00:20.2172259+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:04:08.3747999+00:00"
 }

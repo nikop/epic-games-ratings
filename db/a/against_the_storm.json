@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3929,9 +3929,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 20727,
+  "EOS_Progressed": 20729,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 503,
+  "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19444,6 +19444,11 @@
       "Time": "2024-01-12T22:05:35.3073784+00:00",
       "NumProgressed": 20727,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-12T23:06:09.5771729+00:00",
+      "NumProgressed": 20729,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19792,7 +19797,7 @@
       "Name": "Taking Action",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1865
+      "UsersEstimate": 1866
     },
     {
       "ID": "WinWithResolve",
@@ -19856,7 +19861,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1865
+      "UsersEstimate": 1866
     },
     {
       "ID": "WinNearFrosts",
@@ -19880,7 +19885,7 @@
       "Name": "Overgrown Library",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1865
+      "UsersEstimate": 1866
     },
     {
       "ID": "WinNearPetrified",
@@ -19927,15 +19932,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20727,
+      "Progressed": 20729,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-12T21:59:34.0146742+00:00",
-  "LastChanged_Achievements": "2024-01-12T22:05:35.3073781+00:00",
+  "LastChanged_Achievements": "2024-01-12T23:06:09.5771725+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:59:34.0146751+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:05:35.3074957+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:59:55.2269988+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:06:09.5772798+00:00"
 }

@@ -17,7 +17,7 @@ Rating: 4.55 (Ranked 530)
 | Club Star | 24.00% | ~203 |
 | Fire in the hole! | 20.00% | ~169 |
 | Omnipotence | 20.00% | ~169 |
-| The Warlord | 19.00% | ~161 |
+| The Warlord | 20.00% | ~169 |
 | You are the One | 19.00% | ~161 |
 | Deadly Kombationem | 18.00% | ~152 |
 | The truth is out there | 16.00% | ~136 |

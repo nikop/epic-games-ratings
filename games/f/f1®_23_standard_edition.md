@@ -5,47 +5,47 @@ Rating: 4.64 (Ranked 344)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,303 |
-| On the Top Step | 82.00% | ~14,690 |
-| Setting up for Success | 69.00% | ~12,361 |
-| Team Orders | 67.00% | ~12,003 |
-| Engineer | 45.00% | ~8,062 |
-| Familiar Faces | 41.00% | ~7,345 |
-| Going the Extra Mile | 35.00% | ~6,270 |
-| Sharing the Love | 32.00% | ~5,733 |
-| Hitting a Season | 26.00% | ~4,658 |
-| A Dozen Pieces | 24.00% | ~4,300 |
-| Making History | 24.00% | ~4,300 |
-| Network Success | 23.00% | ~4,120 |
-| Challenge Yourself | 23.00% | ~4,120 |
-| Writing a new Chapter | 19.00% | ~3,404 |
-| Spring Cleaning | 18.00% | ~3,225 |
-| Reduce | 14.00% | ~2,508 |
-| Ups and Downs | 14.00% | ~2,508 |
-| Crucial Combo | 12.00% | ~2,150 |
-| Reuse | 12.00% | ~2,150 |
-| Proving Them Wrong | 12.00% | ~2,150 |
-| Gathering Dust | 11.00% | ~1,971 |
-| Friendly Competition | 10.00% | ~1,792 |
-| Switcheroo | 10.00% | ~1,792 |
-| One for the Book | 10.00% | ~1,792 |
-| Eagle Eye | 9.00% | ~1,612 |
-| All in a Weekend's Work | 9.00% | ~1,612 |
-| Oil and Water | 9.00% | ~1,612 |
-| Hitting a Bullseye | 9.00% | ~1,612 |
-| Spinning Around | 9.00% | ~1,612 |
-| Lightning Round the World | 8.00% | ~1,433 |
-| Recycle | 7.00% | ~1,254 |
-| Undisputed Winner | 6.00% | ~1,075 |
-| Tinkerer | 6.00% | ~1,075 |
+| Getting on the Step | 91.00% | ~16,313 |
+| On the Top Step | 82.00% | ~14,699 |
+| Setting up for Success | 69.00% | ~12,369 |
+| Team Orders | 67.00% | ~12,010 |
+| Engineer | 45.00% | ~8,067 |
+| Familiar Faces | 41.00% | ~7,350 |
+| Going the Extra Mile | 35.00% | ~6,274 |
+| Sharing the Love | 32.00% | ~5,736 |
+| Hitting a Season | 26.00% | ~4,661 |
+| A Dozen Pieces | 24.00% | ~4,302 |
+| Making History | 24.00% | ~4,302 |
+| Network Success | 23.00% | ~4,123 |
+| Challenge Yourself | 23.00% | ~4,123 |
+| Writing a new Chapter | 19.00% | ~3,406 |
+| Spring Cleaning | 18.00% | ~3,227 |
+| Reduce | 14.00% | ~2,510 |
+| Ups and Downs | 14.00% | ~2,510 |
+| Crucial Combo | 12.00% | ~2,151 |
+| Reuse | 12.00% | ~2,151 |
+| Proving Them Wrong | 12.00% | ~2,151 |
+| Gathering Dust | 11.00% | ~1,972 |
+| Friendly Competition | 10.00% | ~1,793 |
+| Switcheroo | 10.00% | ~1,793 |
+| One for the Book | 10.00% | ~1,793 |
+| Eagle Eye | 9.00% | ~1,613 |
+| All in a Weekend's Work | 9.00% | ~1,613 |
+| Oil and Water | 9.00% | ~1,613 |
+| Hitting a Bullseye | 9.00% | ~1,613 |
+| Spinning Around | 9.00% | ~1,613 |
+| Lightning Round the World | 8.00% | ~1,434 |
+| Recycle | 7.00% | ~1,255 |
+| Undisputed Winner | 6.00% | ~1,076 |
+| Tinkerer | 6.00% | ~1,076 |
 | For all Those Back at the Factory | 4.00% | ~717 |
 | Living up to Expectations | 4.00% | ~717 |
 | Smooth Operator | 4.00% | ~717 |
 | Peak Performance | 4.00% | ~717 |
-| Seasoned Rookie | 3.00% | ~537 |
-| Hitting a Century | 2.00% | ~358 |
-| Loyal Bond | 2.00% | ~358 |
-| Wait, I know you? | 2.00% | ~358 |
+| Seasoned Rookie | 3.00% | ~538 |
+| Hitting a Century | 2.00% | ~359 |
+| Loyal Bond | 2.00% | ~359 |
+| Wait, I know you? | 2.00% | ~359 |
 | Filling in the Gaps | 1.00% | ~179 |
 | Media Darling | 1.00% | ~179 |
 | Saturday Night Drama | 0.90% | ~161 |
@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 344)
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,915 (Ranked 163)  
+Progressed: 17,926 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,14 +176,14 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 17,260 | 0 |
 | 2024-01-10 | 17,601 | 0 |
 | 2024-01-11 | 17,785 | 0 |
-| 2024-01-12 | 17,915 | 0 |
+| 2024-01-12 | 17,926 | 0 |
 ## Awards
-Max (Diverse Characters): 64  (Ranked 425)  
-Sum: 422 (Ranked 351)  
-Diff (max vs sum): 74  
+Max (Diverse Characters): 65  (Ranked 423)  
+Sum: 423 (Ranked 350)  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 64 |
+| This game has Diverse Characters | 65 |
 | This game has a Competitive Community | 50 |
 | This game is Highly Recommended | 46 |
 | This game has Amazing Characters | 43 |
@@ -319,4 +319,4 @@ Diff (max vs sum): 74
 | 2024-01-09 | 4.66 | 63 | 409 |
 | 2024-01-10 | 4.65 | 64 | 416 |
 | 2024-01-11 | 4.63 | 64 | 421 |
-| 2024-01-12 | 4.64 | 64 | 422 |
+| 2024-01-12 | 4.64 | 65 | 423 |

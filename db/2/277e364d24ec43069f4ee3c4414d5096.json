@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 119834,
+  "EOS_Progressed": 119835,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 659,
+  "EOS_NewPlayers": 654,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -24647,6 +24647,11 @@
       "Time": "2024-01-12T22:09:31.268962+00:00",
       "NumProgressed": 119834,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2024-01-12T23:10:16.5288668+00:00",
+      "NumProgressed": 119835,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 49,
@@ -24666,7 +24671,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 92272
+      "UsersEstimate": 92273
     },
     {
       "ID": "EAwards_10",
@@ -24818,7 +24823,7 @@
       "Name": "One down...",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11983
+      "UsersEstimate": 11984
     },
     {
       "ID": "EAwards_28",
@@ -24930,7 +24935,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 15578
+      "UsersEstimate": 15579
     },
     {
       "ID": "EAwards_40",
@@ -25010,7 +25015,7 @@
       "Name": "Prickly Pair",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11983
+      "UsersEstimate": 11984
     },
     {
       "ID": "EAwards_6",
@@ -25049,7 +25054,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 119834,
+      "Progressed": 119835,
       "Completed": 60
     }
   ],
@@ -25057,8 +25062,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-07T23:57:01.9676007+00:00",
-  "LastChanged_Achievements": "2024-01-12T22:09:31.2689615+00:00",
+  "LastChanged_Achievements": "2024-01-12T23:10:16.5288665+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:07.3126662+00:00",
-  "LastUpdate_Ratings": "2024-01-12T21:59:35.2125555+00:00",
-  "LastUpdate_Achievements": "2024-01-12T22:09:31.269118+00:00"
+  "LastUpdate_Ratings": "2024-01-12T22:59:56.3299616+00:00",
+  "LastUpdate_Achievements": "2024-01-12T23:10:16.5290457+00:00"
 }
