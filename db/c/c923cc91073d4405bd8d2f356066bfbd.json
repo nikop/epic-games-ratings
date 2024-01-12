@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
     "PcReleaseDate": "2023-05-14T15:00:00+00:00",
@@ -294,9 +294,9 @@
       "ID": "ACED",
       "SetID": "1fek4an",
       "Name": "ACED!",
-      "Percentage": 67,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "CHALLENGER",
@@ -470,9 +470,9 @@
       "ID": "HEROSTAR_J",
       "SetID": "1fek4an",
       "Name": "Graduate(Joes)",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "HEROSTAR_K",
@@ -486,9 +486,9 @@
       "ID": "HEROSTAR_M",
       "SetID": "1fek4an",
       "Name": "Graduate(Merc)",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "HEROSTAR_N",
@@ -766,9 +766,9 @@
       "ID": "MAP_ZOMBIE",
       "SetID": "1fek4an",
       "Name": "Restless Nights",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MISS",
@@ -806,9 +806,9 @@
       "ID": "SHOP_LEVEL_UP_COMBO_2",
       "SetID": "1fek4an",
       "Name": "Level Skip",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SHOP_LEVEL_UP_COMBO_MAX",
@@ -853,8 +853,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-12T15:08:19.4342153+00:00",
+  "LastChanged_Achievements": "2024-01-12T16:06:33.0281631+00:00",
   "LastUpdate_AppInfo": "2024-01-10T13:02:38.4502332+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:02:01.1554303+00:00",
-  "LastUpdate_Achievements": "2024-01-12T15:08:19.4342733+00:00"
+  "LastUpdate_Ratings": "2024-01-12T16:00:25.5926278+00:00",
+  "LastUpdate_Achievements": "2024-01-12T16:06:33.0282096+00:00"
 }

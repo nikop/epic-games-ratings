@@ -9,10 +9,10 @@
 | Chapter 2 | 39.00% | ~17 |
 | It's In My Nature | 39.00% | ~17 |
 | Chapter 3 | 36.00% | ~16 |
+| Chapter 4 | 34.00% | ~15 |
 | Your Days Are Numbered | 34.00% | ~15 |
-| Chapter 4 | 32.00% | ~14 |
+| All Materials | 32.00% | ~14 |
 | Chapter 5 | 30.00% | ~13 |
-| All Materials | 30.00% | ~13 |
 | Chapter 6 | 23.00% | ~10 |
 | Best Student | 16.00% | ~7 |
 | Food Thief | 14.00% | ~6 |

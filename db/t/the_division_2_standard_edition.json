@@ -4,11 +4,11 @@
   "ProductSlug": "the-division-2",
   "Ranking_Rating": 638,
   "Ranking_Popularity": 46,
-  "Ranking_PopularitySum": 47,
+  "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 578,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2019-03-15T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -14727,18 +14727,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 30542,
       "NumberOfAwardsMax": 8969
+    },
+    {
+      "Time": "2024-01-12T15:59:30.3473942+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 30568,
+      "NumberOfAwardsMax": 8992
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30542,
-  "NumberOfAwardsMax": 8969,
+  "NumberOfAwards": 30568,
+  "NumberOfAwardsMax": 8992,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8969
+      "Count": 8992
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -14774,7 +14780,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1631
+      "Count": 1634
     },
     {
       "Text": "This game is Extremely Fun",
@@ -14818,8 +14824,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2024-01-12T13:59:56.0750869+00:00",
+  "LastChanged": "2024-01-12T15:59:30.347394+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.5790247+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:00:39.5857543+00:00",
-  "LastUpdate_Achievements": "2024-01-12T15:06:22.4494108+00:00"
+  "LastUpdate_Ratings": "2024-01-12T15:59:30.3473946+00:00",
+  "LastUpdate_Achievements": "2024-01-12T16:05:08.5134366+00:00"
 }

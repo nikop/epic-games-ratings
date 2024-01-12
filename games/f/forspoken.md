@@ -15,9 +15,9 @@ Rating: 4.16 (Ranked 992)
 | Call of the Fount: Baptized | 7.00% | ~3,299 |
 | No Mercy | 6.00% | ~2,828 |
 | Explorer: Seeker | 6.00% | ~2,828 |
+| Help Me Out Here | 6.00% | ~2,828 |
 | Through the Eyes of Another: Empath | 5.00% | ~2,356 |
 | Stuck | 5.00% | ~2,356 |
-| Help Me Out Here | 5.00% | ~2,356 |
 | The Interloper | 4.00% | ~1,885 |
 | Outdoorsperson | 3.00% | ~1,414 |
 | Hop, Step, Jump | 3.00% | ~1,414 |

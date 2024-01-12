@@ -10770,9 +10770,9 @@
       "Count": 1092
     }
   ],
-  "EOS_Progressed": 132543,
+  "EOS_Progressed": 132548,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 782,
+  "EOS_NewPlayers": 781,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39520,6 +39520,11 @@
       "Time": "2024-01-12T15:10:37.4389451+00:00",
       "NumProgressed": 132543,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-12T16:09:54.278525+00:00",
+      "NumProgressed": 132548,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -40139,7 +40144,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -40155,28 +40160,28 @@
       "Name": "On This Long Road, We Found Redemption",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132543,
+      "Progressed": 132548,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7412,
+      "Progressed": 7417,
       "Completed": 825
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-12T14:00:42.1728594+00:00",
-  "LastChanged_Achievements": "2024-01-12T15:10:37.4389448+00:00",
+  "LastChanged_Achievements": "2024-01-12T16:09:54.2785247+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:01:39.9814826+00:00",
-  "LastUpdate_Achievements": "2024-01-12T15:10:37.4391119+00:00"
+  "LastUpdate_Ratings": "2024-01-12T16:00:11.2734611+00:00",
+  "LastUpdate_Achievements": "2024-01-12T16:09:54.2786951+00:00"
 }

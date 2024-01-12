@@ -10,21 +10,21 @@
 | Under cover | 29.00% | ~23 |
 | First blood | 29.00% | ~23 |
 | Royal blessing | 24.00% | ~19 |
-| Blood and sand | 20.00% | ~16 |
+| Blood and sand | 22.00% | ~17 |
+| A hidden snake | 20.00% | ~16 |
 | All for one! | 19.00% | ~15 |
-| A hidden snake | 19.00% | ~15 |
 | Help of the Gell | 16.00% | ~13 |
+| She-Wolf | 16.00% | ~13 |
 | Surpass the teacher | 15.00% | ~12 |
-| She-Wolf | 15.00% | ~12 |
 | Crimson rivers | 14.00% | ~11 |
 | Power of Inquisition | 14.00% | ~11 |
+| Vene, vidi, vici | 14.00% | ~11 |
 | Rage | 14.00% | ~11 |
-| Vene, vidi, vici | 13.00% | ~10 |
+| Berkanan Borgia | 13.00% | ~10 |
 | Trial by cold | 13.00% | ~10 |
-| Berkanan Borgia | 11.00% | ~9 |
 | For the greater good | 9.00% | ~7 |
+| The champion of the arena | 9.00% | ~7 |
 | Overplay the rogue | 8.00% | ~6 |
-| The champion of the arena | 8.00% | ~6 |
 | Punish the Punisher | 8.00% | ~6 |
 | The End | 8.00% | ~6 |
 | Collector | 6.00% | ~5 |

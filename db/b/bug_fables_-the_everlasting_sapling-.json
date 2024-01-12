@@ -4,8 +4,8 @@
   "ProductSlug": "bug-fables-the-everlasting-sapling-851aa9",
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-08T00:00:00+00:00",
     "PcReleaseDate": "2022-04-08T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118,
+  "EOS_Progressed": 119,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -299,6 +299,11 @@
       "Time": "2024-01-10T22:09:54.8579187+00:00",
       "NumProgressed": 118,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T16:09:57.0183957+00:00",
+      "NumProgressed": 119,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -310,7 +315,7 @@
       "Name": "Gamer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "BFT_BONUS",
@@ -324,7 +329,7 @@
       "ID": "BFT_CH1",
       "SetID": "7o7kd30",
       "Name": "Chapter 1 Complete",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
       "UsersEstimate": 80
     },
@@ -340,7 +345,7 @@
       "ID": "BFT_CH2",
       "SetID": "7o7kd30",
       "Name": "Chapter 2 Complete",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
       "UsersEstimate": 48
     },
@@ -350,15 +355,15 @@
       "Name": "The Guardian",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "BFT_CH3",
       "SetID": "7o7kd30",
       "Name": "Chapter 3 Complete",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 36
     },
     {
       "ID": "BFT_CH3HB",
@@ -374,7 +379,7 @@
       "Name": "Chapter 4 Complete",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "BFT_CH4HB",
@@ -390,7 +395,7 @@
       "Name": "Chapter 5 Complete",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "BFT_CH5HB",
@@ -446,7 +451,7 @@
       "Name": "Cooking Maestro",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "BFT_CRYST",
@@ -462,7 +467,7 @@
       "Name": "Pro Explorers",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "BFT_ENEMY",
@@ -534,7 +539,7 @@
       "Name": "Ultimate Team!",
       "Percentage": 8,
       "XP": 65,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "BFT_VI",
@@ -549,7 +554,7 @@
     {
       "ID": "7o7kd30",
       "IsBase": true,
-      "Progressed": 118,
+      "Progressed": 119,
       "Completed": 0
     }
   ],
@@ -557,8 +562,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2024-01-12T15:10:41.0216915+00:00",
+  "LastChanged_Achievements": "2024-01-12T16:09:57.0183954+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:00.3857206+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:01:37.237577+00:00",
-  "LastUpdate_Achievements": "2024-01-12T15:10:41.0217116+00:00"
+  "LastUpdate_Ratings": "2024-01-12T16:00:09.5243387+00:00",
+  "LastUpdate_Achievements": "2024-01-12T16:09:57.0184149+00:00"
 }

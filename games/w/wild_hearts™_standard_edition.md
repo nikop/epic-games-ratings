@@ -43,9 +43,9 @@
 | Jack of All Trades | 13.00% | ~174 |
 | Canyon of Karakuri | 12.00% | ~161 |
 | Karakuri Fortress | 11.00% | ~148 |
+| Haven Hunter | 10.00% | ~134 |
 | Volatile Vocation | 9.00% | ~121 |
 | Tender Touch | 9.00% | ~121 |
-| Haven Hunter | 9.00% | ~121 |
 | Superlative View | 8.00% | ~107 |
 | Relentless Kemono Hunter | 7.00% | ~94 |
 | Vanquisher of the Volatile | 6.00% | ~80 |

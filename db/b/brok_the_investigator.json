@@ -4,8 +4,8 @@
   "ProductSlug": "brok-the-investigator-fb0513",
   "Ranking_EOS_Progress": 575,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 460,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-07T14:00:00+00:00",
     "PcReleaseDate": "2022-08-26T19:00:00+00:00",
@@ -291,9 +291,9 @@
       "ID": "CHAPTER4",
       "SetID": "bb2dp",
       "Name": "Chapter 4",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "CHAPTER5",
@@ -371,9 +371,9 @@
       "ID": "MATERIALS",
       "SetID": "bb2dp",
       "Name": "All Materials",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "PACIFIST",
@@ -476,8 +476,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2024-01-12T15:04:57.0556877+00:00",
+  "LastChanged_Achievements": "2024-01-12T16:04:07.2707068+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:25.7749743+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:00:04.8801095+00:00",
-  "LastUpdate_Achievements": "2024-01-12T15:04:57.05571+00:00"
+  "LastUpdate_Ratings": "2024-01-12T15:59:07.3199315+00:00",
+  "LastUpdate_Achievements": "2024-01-12T16:04:07.2707372+00:00"
 }

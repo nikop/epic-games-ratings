@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -163,7 +163,7 @@
   "Tags": [],
   "EOS_Progressed": 1684,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4937,9 +4937,9 @@
       "ID": "GSS_ACH_08_FUEL_03",
       "SetID": "5fn8ia4",
       "Name": "Fueling Superstar!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1330
     },
     {
       "ID": "GSS_ACH_09_THROW_01",
@@ -5201,9 +5201,9 @@
       "ID": "GSS_ACH_42_CARAVAN_01",
       "SetID": "5fn8ia4",
       "Name": "Help Wanted!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1179
     },
     {
       "ID": "GSS_ACH_43_CARAVAN_02",
@@ -5538,8 +5538,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-12T15:00:59.7765228+00:00",
-  "LastChanged_Achievements": "2024-01-12T15:07:48.3721869+00:00",
+  "LastChanged_Achievements": "2024-01-12T16:06:10.2636235+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.4325477+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:00:59.7765234+00:00",
-  "LastUpdate_Achievements": "2024-01-12T15:07:48.3723237+00:00"
+  "LastUpdate_Ratings": "2024-01-12T15:59:44.9288241+00:00",
+  "LastUpdate_Achievements": "2024-01-12T16:06:10.263711+00:00"
 }

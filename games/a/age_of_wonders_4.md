@@ -24,11 +24,11 @@ Rating: 4.63 (Ranked 358)
 | My Final Form | 5.00% | ~360 |
 | But this one is mine | 5.00% | ~360 |
 | Enchanted Archipelago | 4.00% | ~288 |
+| Preparation Is Everything | 4.00% | ~288 |
 | Fiery Friend | 4.00% | ~288 |
 | Against the Odds | 4.00% | ~288 |
 | Impenetrable Fortress | 4.00% | ~288 |
 | Crimson Caldera | 3.00% | ~216 |
-| Preparation Is Everything | 3.00% | ~216 |
 | Here be Dragons | 3.00% | ~216 |
 | Tipping the Scales | 3.00% | ~216 |
 | Freed Lands of Manuhari | 3.00% | ~216 |

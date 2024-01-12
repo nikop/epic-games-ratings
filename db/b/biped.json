@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10347,
+  "EOS_Progressed": 10349,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 621,
+  "EOS_NewPlayers": 615,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16794,6 +16794,11 @@
       "Time": "2024-01-12T15:07:24.6796534+00:00",
       "NumProgressed": 10347,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T16:05:53.129201+00:00",
+      "NumProgressed": 10349,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -16805,7 +16810,7 @@
       "Name": "First Step",
       "Percentage": 36,
       "XP": 45,
-      "UsersEstimate": 3725
+      "UsersEstimate": 3726
     },
     {
       "ID": "10",
@@ -16861,7 +16866,7 @@
       "Name": "Dense Forest",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2897
+      "UsersEstimate": 2898
     },
     {
       "ID": "3",
@@ -16924,7 +16929,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10347,
+      "Progressed": 10349,
       "Completed": 0
     }
   ],
@@ -16932,8 +16937,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-12T15:07:24.6796528+00:00",
+  "LastChanged_Achievements": "2024-01-12T16:05:53.1292006+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:19.9263192+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:01:03.7542296+00:00",
-  "LastUpdate_Achievements": "2024-01-12T15:07:24.6797446+00:00"
+  "LastUpdate_Ratings": "2024-01-12T15:59:47.530796+00:00",
+  "LastUpdate_Achievements": "2024-01-12T16:05:53.1292718+00:00"
 }

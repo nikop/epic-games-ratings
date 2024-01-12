@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 498,
+  "EOS_Progressed": 499,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 1,
@@ -1924,6 +1924,11 @@
       "Time": "2024-01-12T14:05:56.4665895+00:00",
       "NumProgressed": 498,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-12T16:05:23.7062161+00:00",
+      "NumProgressed": 499,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2080,7 +2085,7 @@
       "Name": "Corpse",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "AC_DEATH_2",
@@ -2104,7 +2109,7 @@
       "Name": "Killer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -2128,7 +2133,7 @@
       "Name": "Excursion",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2136,7 +2141,7 @@
       "Name": "Journey",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -2144,15 +2149,15 @@
       "Name": "Voyage",
       "Percentage": 27,
       "XP": 45,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 140
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -2240,7 +2245,7 @@
       "Name": "Loss",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -2271,14 +2276,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 498,
+      "Progressed": 499,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-12T15:06:44.4792274+00:00",
+  "LastChanged_Achievements": "2024-01-12T16:05:23.7062158+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:59.4542445+00:00",
-  "LastUpdate_Ratings": "2024-01-12T14:57:08.287762+00:00",
-  "LastUpdate_Achievements": "2024-01-12T15:06:44.4792626+00:00"
+  "LastUpdate_Ratings": "2024-01-12T15:57:06.5064555+00:00",
+  "LastUpdate_Achievements": "2024-01-12T16:05:23.7062444+00:00"
 }

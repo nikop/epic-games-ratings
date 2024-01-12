@@ -34,7 +34,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 4.00% | ~5,302 |
 | Nope | 4.00% | ~5,302 |
 | Unshackled | 4.00% | ~5,302 |
-| Friends 'Til the End | 4.00% | ~296 |
+| Friends 'Til the End | 4.00% | ~297 |
 | Resurrection | 3.00% | ~3,976 |
 | Unleash Hell | 3.00% | ~3,976 |
 | Funny Guy | 3.00% | ~3,976 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The World As It Was | 0.70% | ~928 |
 | A Life Well Lived | 0.60% | ~795 |
 | Bacon Bits | 0.60% | ~795 |
-| On This Long Road, We Found Redemption | 0.60% | ~44 |
+| On This Long Road, We Found Redemption | 0.60% | ~45 |
 | Eidetic | 0.50% | ~663 |
 | Tears in the Rain | 0.40% | ~530 |
 | Battle Hardened | 0.40% | ~30 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,543 (Ranked 91)  
+Progressed: 132,548 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 4 (0.00%) (Ranked 399)
 | 2024-01-09 | 132,315 | 3 |
 | 2024-01-10 | 132,395 | 4 |
 | 2024-01-11 | 132,491 | 4 |
-| 2024-01-12 | 132,543 | 4 |
+| 2024-01-12 | 132,548 | 4 |
 ## Awards
 Max (Character Customization): 8,007  (Ranked 51)  
 Sum: 21,605 (Ranked 58)  

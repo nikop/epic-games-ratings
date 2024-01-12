@@ -10,14 +10,14 @@
 | Detox diet | 42.00% | ~252 |
 | Never Give Up | 39.00% | ~234 |
 | Tasty | 36.00% | ~216 |
+| You Can Pet The Fox | 30.00% | ~180 |
 | Lullaby | 30.00% | ~180 |
-| You Can Pet The Fox | 29.00% | ~174 |
 | Hard Fox Life | 24.00% | ~144 |
 | Never Let Down | 23.00% | ~138 |
 | A Barking Fox Doesn't Bite | 21.00% | ~126 |
 | Chicken Dinner | 21.00% | ~126 |
 | Peaceful Instinct | 18.00% | ~108 |
-| Maternity | 16.00% | ~96 |
+| Maternity | 17.00% | ~102 |
 | Barking in The Rain | 15.00% | ~90 |
 | Family Reunion | 14.00% | ~84 |
 | Never Run Around | 14.00% | ~84 |

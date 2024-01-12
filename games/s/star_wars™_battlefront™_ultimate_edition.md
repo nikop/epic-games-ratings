@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,493 |
-| Off to a good start | 61.00% | ~1,768 |
-| Do... or do not. There is no try | 52.00% | ~1,507 |
+| New Recruit | 86.00% | ~2,495 |
+| Off to a good start | 60.00% | ~1,741 |
+| Do... or do not. There is no try | 52.00% | ~1,509 |
 | A good blaster at your side | 24.00% | ~696 |
 | I suggest a new strategy | 17.00% | ~493 |
 | Great shot, kid! | 15.00% | ~435 |
 | Scrap collector | 14.00% | ~406 |
 | All right, I'll give it a try | 14.00% | ~406 |
 | The power of the Force | 12.00% | ~348 |
+| Together we can rule the galaxy | 12.00% | ~348 |
 | Shoot first | 12.00% | ~348 |
 | Collector | 11.00% | ~319 |
-| Together we can rule the galaxy | 11.00% | ~319 |
 | Tell Jabba that I've got his money | 8.00% | ~232 |
 | Best star-pilot in the galaxy | 8.00% | ~232 |
 | Never tell me the odds! | 7.00% | ~203 |
@@ -55,7 +55,7 @@
 | A New Hope | 0.60% | ~17 |
 | When surrounded by war... | 0.60% | ~17 |
 | Stop that Droid | 0.60% | ~17 |
-| No such thing as luck | 0.50% | ~14 |
+| No such thing as luck | 0.50% | ~15 |
 | Do we take prisoners? | 0.40% | ~12 |
 | I’ll take that bet | 0.40% | ~12 |
 | Stay on target | 0.30% | ~9 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,899 (Ranked 233)  
+Progressed: 2,901 (Ranked 233)  
 Completed: 1 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 1 (0.03%) (Ranked 357)
 | 2024-01-09 | 2,816 | 1 |
 | 2024-01-10 | 2,858 | 1 |
 | 2024-01-11 | 2,884 | 1 |
-| 2024-01-12 | 2,899 | 1 |
+| 2024-01-12 | 2,901 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

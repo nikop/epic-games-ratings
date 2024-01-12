@@ -24,11 +24,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 2.00% | ~330 |
 | Pioneer | 2.00% | ~330 |
 | Strong | 2.00% | ~330 |
+| Warrior | 2.00% | ~330 |
 | Developing Cities | 2.00% | ~330 |
 | Hanging Gardens | 2.00% | ~330 |
 | Oracle | 2.00% | ~330 |
 | Pyramids | 2.00% | ~330 |
 | Judaism | 2.00% | ~330 |
+| Babylonian Paganism | 2.00% | ~330 |
 | Greek Paganism | 2.00% | ~330 |
 | Naming Landmarks | 2.00% | ~330 |
 | Trade Caravan | 2.00% | ~330 |
@@ -38,7 +40,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 1.00% | ~165 |
 | Great | 1.00% | ~165 |
 | Magnificent | 1.00% | ~165 |
-| Warrior | 1.00% | ~165 |
 | Wise | 1.00% | ~165 |
 | Strong Cities | 1.00% | ~165 |
 | Able Difficulty | 1.00% | ~165 |
@@ -54,39 +55,39 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 1.00% | ~165 |
 | Christianity | 1.00% | ~165 |
 | Manichaeism | 1.00% | ~165 |
-| Babylonian Paganism | 1.00% | ~165 |
 | Carthaginian Paganism | 1.00% | ~165 |
 | Egyptian Paganism | 1.00% | ~165 |
 | Roman Paganism | 1.00% | ~165 |
 | Zoroastrianism | 1.00% | ~165 |
 | Legendary Cities | 0.90% | ~149 |
+| Just Difficulty | 0.90% | ~149 |
 | Colossus | 0.90% | ~149 |
 | Mausoleum | 0.90% | ~149 |
 | Mythology | 0.90% | ~149 |
 | Hanging Gardens in Babylon | 0.80% | ~132 |
 | Intercessor | 0.80% | ~132 |
 | Valiant | 0.80% | ~132 |
-| Just Difficulty | 0.80% | ~132 |
 | Artisans | 0.80% | ~132 |
 | Sages | 0.80% | ~132 |
 | Building Wonders | 0.80% | ~132 |
+| Mighty | 0.70% | ~116 |
 | Good Difficulty | 0.70% | ~116 |
 | Champions | 0.70% | ~116 |
 | Statesmen | 0.70% | ~116 |
 | Learn to Play 3 | 0.70% | ~116 |
+| Greece | 0.70% | ~116 |
 | Persian Paganism | 0.70% | ~116 |
 | Points Victory | 0.70% | ~116 |
 | Beloved | 0.60% | ~99 |
-| Mighty | 0.60% | ~99 |
 | Victorious | 0.60% | ~99 |
 | Landowners | 0.60% | ~99 |
 | Patrons | 0.60% | ~99 |
 | Hagia Sophia | 0.60% | ~99 |
 | Temple of Solomon | 0.60% | ~99 |
-| Greece | 0.60% | ~99 |
 | Power to the People | 0.60% | ~99 |
 | Economic Reform | 0.60% | ~99 |
 | Legionary | 0.60% | ~99 |
+| Double Victory | 0.60% | ~99 |
 | Win a Single Player Game | 0.60% | ~99 |
 | Bad Heir Day | 0.50% | ~83 |
 | Capable | 0.50% | ~83 |
@@ -104,7 +105,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 0.50% | ~83 |
 | Legalism | 0.50% | ~83 |
 | Cimmerian Archer | 0.50% | ~83 |
-| Double Victory | 0.50% | ~83 |
+| Ambition Victory | 0.50% | ~83 |
 | The Clergy | 0.50% | ~83 |
 | Kushite Paganism | 0.50% | ~83 |
 | Devout | 0.40% | ~66 |
@@ -127,7 +128,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Cavalry | 0.40% | ~66 |
 | Phalangite | 0.40% | ~66 |
 | Turreted Elephant | 0.40% | ~66 |
-| Ambition Victory | 0.40% | ~66 |
 | Kushite Pyramids | 0.40% | ~66 |
 | Ishtar Gate in Babylon | 0.30% | ~50 |
 | Old | 0.30% | ~50 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,502 (Ranked 170)  
+Progressed: 16,508 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -632,7 +632,7 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
-| 2024-01-12 | 16,502 | 5 |
+| 2024-01-12 | 16,508 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,921 (Ranked 224)  

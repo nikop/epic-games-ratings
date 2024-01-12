@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2899,
+  "EOS_Progressed": 2901,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7864,6 +7864,11 @@
       "Time": "2024-01-12T14:10:36.6240469+00:00",
       "NumProgressed": 2899,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T16:10:11.2998418+00:00",
+      "NumProgressed": 2901,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8018,9 +8023,9 @@
       "ID": "achievement_26",
       "SetID": "271ol84",
       "Name": "Together we can rule the galaxy",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 348
     },
     {
       "ID": "achievement_27",
@@ -8100,7 +8105,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2495
     },
     {
       "ID": "achievement_36",
@@ -8114,9 +8119,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1741
     },
     {
       "ID": "achievement_38",
@@ -8148,7 +8153,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1509
     },
     {
       "ID": "achievement_41",
@@ -8212,7 +8217,7 @@
       "Name": "No such thing as luck",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_49",
@@ -8379,13 +8384,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2899,
+      "Progressed": 2901,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2899,
+      "Progressed": 2901,
       "Completed": 1
     }
   ],
@@ -8393,8 +8398,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-12T15:10:59.395368+00:00",
+  "LastChanged_Achievements": "2024-01-12T16:10:11.2998416+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:01:59.4664005+00:00",
-  "LastUpdate_Achievements": "2024-01-12T15:10:59.3954604+00:00"
+  "LastUpdate_Ratings": "2024-01-12T16:00:24.4570599+00:00",
+  "LastUpdate_Achievements": "2024-01-12T16:10:11.2999216+00:00"
 }

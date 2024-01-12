@@ -22,7 +22,7 @@
 | Fighting is cool | 61.00% | ~352 |
 | Pal of your father? | 59.00% | ~340 |
 | Spirit of the past | 58.00% | ~335 |
-| Employee of the month | 56.00% | ~323 |
+| Employee of the month | 57.00% | ~329 |
 | Law student | 55.00% | ~317 |
 | Handyman | 53.00% | ~306 |
 | Workout professional | 52.00% | ~300 |

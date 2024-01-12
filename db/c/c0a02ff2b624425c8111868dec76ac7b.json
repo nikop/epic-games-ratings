@@ -4,8 +4,8 @@
   "ProductSlug": "worldless-49eae3",
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
     "PcReleaseDate": "2023-11-21T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 176,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -774,6 +774,11 @@
       "Time": "2024-01-12T02:33:40.5612597+00:00",
       "NumProgressed": 175,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T16:08:36.5291488+00:00",
+      "NumProgressed": 176,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -834,7 +839,7 @@
       "Name": "Together",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_BIPOLAR_ABSORBED",
@@ -888,9 +893,9 @@
       "ID": "ACH_FINISH_GAME",
       "SetID": "cagp2pi",
       "Name": "Edda and Aven",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_FIRST_ABSORPTION",
@@ -898,7 +903,7 @@
       "Name": "Absorption",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_LIGHTNING_NIGHTMARE_ABSORBED",
@@ -962,7 +967,7 @@
       "Name": "Unicorn",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_YINYANG_ABSORBED",
@@ -977,14 +982,14 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 176,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2024-01-12T15:08:52.1935247+00:00",
+  "LastChanged_Achievements": "2024-01-12T16:08:36.5291486+00:00",
   "LastUpdate_AppInfo": "2024-01-05T16:57:07.301189+00:00",
-  "LastUpdate_Ratings": "2024-01-12T14:57:33.4858571+00:00",
-  "LastUpdate_Achievements": "2024-01-12T15:08:52.1935424+00:00"
+  "LastUpdate_Ratings": "2024-01-12T15:57:22.9782629+00:00",
+  "LastUpdate_Achievements": "2024-01-12T16:08:36.5291619+00:00"
 }

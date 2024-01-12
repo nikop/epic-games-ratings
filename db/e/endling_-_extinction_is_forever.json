@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -1236,9 +1236,9 @@
       "ID": "TROP006",
       "SetID": "9n0dl35",
       "Name": "Maternity",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 102
     },
     {
       "ID": "TROP007",
@@ -1380,9 +1380,9 @@
       "ID": "TROP024",
       "SetID": "9n0dl35",
       "Name": "You Can Pet The Fox",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 180
     },
     {
       "ID": "TROP025",
@@ -1421,8 +1421,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2024-01-12T15:10:51.9784431+00:00",
+  "LastChanged_Achievements": "2024-01-12T16:10:05.4113832+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:55.943768+00:00",
-  "LastUpdate_Ratings": "2024-01-12T14:58:56.5822565+00:00",
-  "LastUpdate_Achievements": "2024-01-12T15:10:51.9784659+00:00"
+  "LastUpdate_Ratings": "2024-01-12T15:58:19.3433389+00:00",
+  "LastUpdate_Achievements": "2024-01-12T16:10:05.4114026+00:00"
 }

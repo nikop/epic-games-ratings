@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7766,
+  "EOS_Progressed": 7768,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -6888,6 +6888,11 @@
       "Time": "2024-01-12T15:04:10.1059834+00:00",
       "NumProgressed": 7766,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-12T16:03:33.4892388+00:00",
+      "NumProgressed": 7768,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -6907,7 +6912,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -6915,7 +6920,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3184
+      "UsersEstimate": 3185
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -6931,7 +6936,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 4116
+      "UsersEstimate": 4117
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -6939,7 +6944,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -6979,7 +6984,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -6995,7 +7000,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2174
+      "UsersEstimate": 2175
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -7003,7 +7008,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -7019,7 +7024,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -7027,7 +7032,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -7035,7 +7040,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3184
+      "UsersEstimate": 3185
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -7043,7 +7048,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3184
+      "UsersEstimate": 3185
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -7051,7 +7056,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4349
+      "UsersEstimate": 4350
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -7067,7 +7072,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2640
+      "UsersEstimate": 2641
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -7075,7 +7080,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -7099,7 +7104,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3106
+      "UsersEstimate": 3107
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -7114,15 +7119,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7766,
+      "Progressed": 7768,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-12T15:04:10.105983+00:00",
+  "LastChanged_Achievements": "2024-01-12T16:03:33.4892385+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:05.4838483+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:03:43.9494255+00:00",
-  "LastUpdate_Achievements": "2024-01-12T15:04:10.1060303+00:00"
+  "LastUpdate_Ratings": "2024-01-12T16:03:14.9786696+00:00",
+  "LastUpdate_Achievements": "2024-01-12T16:03:33.489278+00:00"
 }

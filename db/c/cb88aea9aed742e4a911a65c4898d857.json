@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 375,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -335,9 +335,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 11158,
+  "EOS_Progressed": 11161,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 984,
+  "EOS_NewPlayers": 972,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4620,6 +4620,11 @@
       "Time": "2024-01-12T15:10:49.8622043+00:00",
       "NumProgressed": 11158,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T16:10:03.6989028+00:00",
+      "NumProgressed": 11161,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4632,7 +4637,7 @@
       "Name": "Conspiracy",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "03_TheStolenStar",
@@ -4656,7 +4661,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -4792,7 +4797,7 @@
       "Name": "Perfect Timing",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "23_DynastyRestored",
@@ -4840,7 +4845,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -4958,9 +4963,9 @@
       "ID": "43_ThereIsNoPlaceLikeHome",
       "SetID": "37a94m8",
       "Name": "No Place Like Home",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 781
+      "UsersEstimate": 893
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -5151,7 +5156,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11158,
+      "Progressed": 11161,
       "Completed": 1
     }
   ],
@@ -5159,8 +5164,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-12T03:59:45.455551+00:00",
-  "LastChanged_Achievements": "2024-01-12T15:10:49.8622039+00:00",
+  "LastChanged_Achievements": "2024-01-12T16:10:03.6989025+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:01:16.1708688+00:00",
-  "LastUpdate_Achievements": "2024-01-12T15:10:49.8622752+00:00"
+  "LastUpdate_Ratings": "2024-01-12T15:59:55.5164227+00:00",
+  "LastUpdate_Achievements": "2024-01-12T16:10:03.6989705+00:00"
 }

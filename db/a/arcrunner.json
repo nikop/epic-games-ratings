@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 944,
+  "EOS_Progressed": 945,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -2281,6 +2281,11 @@
       "Time": "2024-01-10T18:09:39.1747567+00:00",
       "NumProgressed": 944,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T16:09:42.5060727+00:00",
+      "NumProgressed": 945,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -2292,7 +2297,7 @@
       "Name": "Augmented",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -2308,7 +2313,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
@@ -2316,7 +2321,7 @@
       "Name": "Challenge Mastered",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACHV_CITY",
@@ -2460,15 +2465,15 @@
       "Name": "Terminated I",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ACHV_TERMINATED2",
       "SetID": "cceobco",
       "Name": "Terminated II",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 217
     },
     {
       "ID": "ACHV_TERMINATED3",
@@ -2492,7 +2497,7 @@
       "Name": "Unlocked and Loaded",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -2523,13 +2528,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 944,
+      "Progressed": 945,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 370,
+      "Progressed": 371,
       "Completed": 3
     }
   ],
@@ -2537,8 +2542,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2024-01-12T15:10:21.6910457+00:00",
+  "LastChanged_Achievements": "2024-01-12T16:09:42.5060725+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:44.3239042+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:02:46.2612613+00:00",
-  "LastUpdate_Achievements": "2024-01-12T15:10:21.6910766+00:00"
+  "LastUpdate_Ratings": "2024-01-12T16:02:35.0904943+00:00",
+  "LastUpdate_Achievements": "2024-01-12T16:09:42.5061018+00:00"
 }

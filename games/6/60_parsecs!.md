@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~798 |
-| Friendzone | 80.00% | ~658 |
-| Space Colonization | 80.00% | ~658 |
-| Hello World | 74.00% | ~609 |
-| Space Engineer | 65.00% | ~535 |
-| Tinkerer | 63.00% | ~518 |
+| Don't Panic! | 97.00% | ~799 |
+| Friendzone | 80.00% | ~659 |
+| Space Colonization | 80.00% | ~659 |
+| Hello World | 74.00% | ~610 |
+| Space Engineer | 65.00% | ~536 |
+| Tinkerer | 63.00% | ~519 |
 | Dust to Dust | 59.00% | ~486 |
-| Across The Stars | 49.00% | ~403 |
-| Crafty | 49.00% | ~403 |
-| All Seats Taken | 40.00% | ~329 |
+| Across The Stars | 49.00% | ~404 |
+| Crafty | 49.00% | ~404 |
+| All Seats Taken | 40.00% | ~330 |
 | For Science! | 35.00% | ~288 |
-| Meet the Petersons | 32.00% | ~263 |
+| Meet the Petersons | 32.00% | ~264 |
 | Stay Cool | 30.00% | ~247 |
-| KIA | 28.00% | ~230 |
+| KIA | 28.00% | ~231 |
 | Mutiny in making | 24.00% | ~198 |
 | Eco-Shuttle | 21.00% | ~173 |
 | Et tu, Astrocitizen? | 20.00% | ~165 |
@@ -41,15 +41,15 @@
 | AAARGH! | 1.00% | ~8 |
 | No Ticket | 1.00% | ~8 |
 | Feels like home | 1.00% | ~8 |
-| Bingpot! | 0.90% | ~7 |
-| Space Selfie | 0.90% | ~7 |
+| Bingpot! | 0.80% | ~7 |
+| Space Selfie | 0.80% | ~7 |
 | Small Step | 0.50% | ~4 |
 | Liberté, Égalité, Félinité | 0.20% | ~2 |
 | Giant Leap | 0.20% | ~2 |
 | Unidentified Flying Offspring | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 823 (Ranked 312)  
+Progressed: 824 (Ranked 312)  
 Completed: 1 (0.12%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,6 +200,7 @@ Completed: 1 (0.12%) (Ranked 305)
 | 2024-01-09 | 816 | 1 |
 | 2024-01-10 | 821 | 1 |
 | 2024-01-11 | 823 | 1 |
+| 2024-01-12 | 824 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

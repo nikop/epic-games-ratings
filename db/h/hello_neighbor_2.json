@@ -2,13 +2,13 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 726,
+  "Ranking_Rating": 725,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 98,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -507,9 +507,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4029,
+  "EOS_Progressed": 4030,
   "EOS_Completed": 144,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.57,
   "EosHistory": [
@@ -7257,6 +7257,11 @@
       "Time": "2024-01-12T14:05:31.6271187+00:00",
       "NumProgressed": 4029,
       "NumCompleted": 144
+    },
+    {
+      "Time": "2024-01-12T16:05:00.9833512+00:00",
+      "NumProgressed": 4030,
+      "NumCompleted": 144
     }
   ],
   "TotalAchievements": 14,
@@ -7332,7 +7337,7 @@
       "Name": "Imprisonment",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -7348,7 +7353,7 @@
       "Name": "Reunion",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -7364,7 +7369,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -7372,14 +7377,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3183
+      "UsersEstimate": 3184
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4029,
+      "Progressed": 4030,
       "Completed": 144
     }
   ],
@@ -7387,8 +7392,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-05T23:57:59.2122093+00:00",
-  "LastChanged_Achievements": "2024-01-12T15:06:11.7529469+00:00",
+  "LastChanged_Achievements": "2024-01-12T16:05:00.9833509+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:45.5665199+00:00",
-  "LastUpdate_Ratings": "2024-01-12T14:57:59.6815208+00:00",
-  "LastUpdate_Achievements": "2024-01-12T15:06:11.7529909+00:00"
+  "LastUpdate_Ratings": "2024-01-12T15:57:41.0921982+00:00",
+  "LastUpdate_Achievements": "2024-01-12T16:05:00.9834003+00:00"
 }

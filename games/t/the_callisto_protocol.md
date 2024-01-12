@@ -5,27 +5,27 @@ Rating: 4.22 (Ranked 954)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Outer Way | 27.00% | ~5,995 |
-| Flesh Wound | 26.00% | ~5,773 |
-| Desperate Times | 25.00% | ~5,551 |
-| Paper Jams | 23.00% | ~5,107 |
-| Get a Grip | 22.00% | ~4,885 |
-| Chew 'Em Up | 20.00% | ~4,441 |
-| Reforged | 19.00% | ~4,219 |
-| Float Like A Butterfly | 18.00% | ~3,997 |
-| If the SHU Fits... | 17.00% | ~3,775 |
+| The Outer Way | 27.00% | ~5,996 |
+| Flesh Wound | 26.00% | ~5,774 |
+| Desperate Times | 25.00% | ~5,552 |
+| Paper Jams | 23.00% | ~5,108 |
+| Get a Grip | 22.00% | ~4,886 |
+| Chew 'Em Up | 20.00% | ~4,442 |
+| Reforged | 19.00% | ~4,220 |
+| Float Like A Butterfly | 18.00% | ~3,998 |
+| If the SHU Fits... | 17.00% | ~3,776 |
 | Workplace Hazard | 16.00% | ~3,553 |
 | Without A Paddle | 14.00% | ~3,109 |
-| In the Pipe, Five by Five | 12.00% | ~2,664 |
-| Crash Site | 12.00% | ~2,664 |
-| Two Heads Are Better Than One | 11.00% | ~2,442 |
-| Terminated | 11.00% | ~2,442 |
-| Power Up | 11.00% | ~2,442 |
-| Giving Back | 10.00% | ~2,220 |
-| What Lies Beneath | 10.00% | ~2,220 |
-| Full Circle | 10.00% | ~2,220 |
-| You Need a Gun | 9.00% | ~1,998 |
-| I Do Belong Here | 8.00% | ~1,776 |
+| In the Pipe, Five by Five | 12.00% | ~2,665 |
+| Crash Site | 12.00% | ~2,665 |
+| Two Heads Are Better Than One | 11.00% | ~2,443 |
+| Terminated | 11.00% | ~2,443 |
+| Power Up | 11.00% | ~2,443 |
+| Giving Back | 10.00% | ~2,221 |
+| What Lies Beneath | 10.00% | ~2,221 |
+| Full Circle | 10.00% | ~2,221 |
+| You Need a Gun | 9.00% | ~1,999 |
+| I Do Belong Here | 8.00% | ~1,777 |
 | Keep Fighting | 7.00% | ~709 |
 | It's Time | 6.00% | ~608 |
 | In Striking Distance | 5.00% | ~1,110 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 954)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,204 (Ranked 151)  
+Progressed: 22,209 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 82 (0.37%) (Ranked 245)
 | 2024-01-09 | 21,902 | 82 |
 | 2024-01-10 | 22,053 | 82 |
 | 2024-01-11 | 22,169 | 82 |
-| 2024-01-12 | 22,204 | 82 |
+| 2024-01-12 | 22,209 | 82 |
 ## Awards
 Max (Amazing Characters): 131  (Ranked 345)  
 Sum: 636 (Ranked 320)  

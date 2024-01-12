@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45062,
+  "EOS_Progressed": 45063,
   "EOS_Completed": 248,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -20922,6 +20922,11 @@
       "Time": "2024-01-12T15:08:14.2818543+00:00",
       "NumProgressed": 45062,
       "NumCompleted": 248
+    },
+    {
+      "Time": "2024-01-12T16:06:29.1683177+00:00",
+      "NumProgressed": 45063,
+      "NumCompleted": 248
     }
   ],
   "TotalAchievements": 44,
@@ -20933,7 +20938,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25685
+      "UsersEstimate": 25686
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -20941,7 +20946,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13969
+      "UsersEstimate": 13970
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -20973,7 +20978,7 @@
       "Name": "Ruse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5407
+      "UsersEstimate": 5408
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -21021,7 +21026,7 @@
       "Name": "Left Behind",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -21029,7 +21034,7 @@
       "Name": "Secrets of the Earth",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -21045,7 +21050,7 @@
       "Name": "Heart of Fire",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -21141,7 +21146,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 9012
+      "UsersEstimate": 9013
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -21157,7 +21162,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24784
+      "UsersEstimate": 24785
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -21173,7 +21178,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28389
+      "UsersEstimate": 28390
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -21197,7 +21202,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 27037
+      "UsersEstimate": 27038
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -21269,7 +21274,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41908
+      "UsersEstimate": 41909
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -21277,14 +21282,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23432
+      "UsersEstimate": 23433
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 45062,
+      "Progressed": 45063,
       "Completed": 248
     }
   ],
@@ -21292,8 +21297,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-12T15:08:14.2818538+00:00",
+  "LastChanged_Achievements": "2024-01-12T16:06:29.1683173+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:52.8040993+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:03:32.6965792+00:00",
-  "LastUpdate_Achievements": "2024-01-12T15:08:14.2819905+00:00"
+  "LastUpdate_Ratings": "2024-01-12T16:03:07.532855+00:00",
+  "LastUpdate_Achievements": "2024-01-12T16:06:29.1684613+00:00"
 }

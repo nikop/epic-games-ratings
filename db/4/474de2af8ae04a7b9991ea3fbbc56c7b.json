@@ -2,10 +2,10 @@
   "ID": "474de2af8ae04a7b9991ea3fbbc56c7b",
   "Name": "CounterAttack: Uprising",
   "ProductSlug": "counterattackuprising-06aed8",
-  "Ranking_EOS_Progress": 720,
+  "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 540,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 539,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2024-01-12T02:00:00+00:00",
     "PcReleaseDate": "2019-03-11T07:00:00+00:00",
@@ -60,9 +60,9 @@
       "ID": "1Up",
       "SetID": "c18da06",
       "Name": "Get a free life!",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "1kAutomatons",
@@ -164,9 +164,9 @@
       "ID": "Kill100",
       "SetID": "c18da06",
       "Name": "Kill 100 Automatons",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Kill100k",
@@ -250,8 +250,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-12T23:09:03.0564734+00:00",
-  "LastChanged_Achievements": "2024-01-12T15:09:39.4093871+00:00",
+  "LastChanged_Achievements": "2024-01-12T16:09:11.4736642+00:00",
   "LastUpdate_AppInfo": "2024-01-08T02:21:08.020016+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:01:26.6419506+00:00",
-  "LastUpdate_Achievements": "2024-01-12T15:09:39.4094097+00:00"
+  "LastUpdate_Ratings": "2024-01-12T16:00:02.6317041+00:00",
+  "LastUpdate_Achievements": "2024-01-12T16:09:11.4736854+00:00"
 }

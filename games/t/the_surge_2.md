@@ -1,11 +1,11 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.26 (Ranked 918)  
+Rating: 4.26 (Ranked 917)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 78.00% | ~2,007 |
+| Rigged And Ready | 78.00% | ~2,008 |
 | Don't I Know You...? | 75.00% | ~1,930 |
 | Jailbreak | 64.00% | ~1,647 |
 | HEADSHOT! | 37.00% | ~952 |
@@ -17,21 +17,21 @@ Rating: 4.26 (Ranked 918)
 | Studied The Blade | 24.00% | ~618 |
 | Home Invasion | 22.00% | ~566 |
 | Luminary | 22.00% | ~566 |
-| True Survivor | 21.00% | ~540 |
-| It's a Trap | 21.00% | ~540 |
+| True Survivor | 21.00% | ~541 |
+| It's a Trap | 21.00% | ~541 |
 | Offensive Defense | 20.00% | ~515 |
 | Shocking | 20.00% | ~515 |
 | Unforeseeable Consequences | 19.00% | ~489 |
 | Court Martial | 18.00% | ~463 |
 | Clean Cut | 18.00% | ~463 |
-| Dead Again | 17.00% | ~437 |
-| Full Arsenal | 17.00% | ~437 |
+| Dead Again | 17.00% | ~438 |
+| Full Arsenal | 17.00% | ~438 |
 | Can't Trust Banks | 15.00% | ~386 |
-| Mommy Dearest | 13.00% | ~334 |
-| Bad Dog | 13.00% | ~334 |
-| Where It All Began | 13.00% | ~334 |
-| Risk Tolerant | 13.00% | ~334 |
-| What A Catchy Song | 13.00% | ~334 |
+| Mommy Dearest | 13.00% | ~335 |
+| Bad Dog | 13.00% | ~335 |
+| Where It All Began | 13.00% | ~335 |
+| Risk Tolerant | 13.00% | ~335 |
+| What A Catchy Song | 13.00% | ~335 |
 | Sorry, Didn't See You There | 12.00% | ~309 |
 | Corrupted Beauty | 11.00% | ~283 |
 | Marked For Success | 11.00% | ~283 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 918)
 | Three Birds With One Stone | 1.00% | ~26 |
 | The Easy Way Out | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,573 (Ranked 238)  
+Progressed: 2,574 (Ranked 238)  
 Completed: 13 (0.51%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 13 (0.51%) (Ranked 223)
 | 2024-01-09 | 2,547 | 13 |
 | 2024-01-10 | 2,561 | 13 |
 | 2024-01-11 | 2,570 | 13 |
-| 2024-01-12 | 2,573 | 13 |
+| 2024-01-12 | 2,574 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,13 +1,13 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.96 (Ranked 1,063)  
+Rating: 3.96 (Ranked 1,062)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Neophyte Ninja | 4.00% | ~3,736 |
-| First One’s Free | 4.00% | ~3,736 |
-| Downed but Not Outed | 4.00% | ~3,736 |
+| Neophyte Ninja | 4.00% | ~3,737 |
+| First One’s Free | 4.00% | ~3,737 |
+| Downed but Not Outed | 4.00% | ~3,737 |
 | Too Old for This | 3.00% | ~2,802 |
 | Fancy Pants | 3.00% | ~2,802 |
 | Underworld Initiate | 2.00% | ~1,868 |
@@ -47,7 +47,7 @@ Rating: 3.96 (Ranked 1,063)
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,411 (Ranked 103)  
+Progressed: 93,413 (Ranked 103)  
 Completed: 59 (0.06%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,16 +314,16 @@ Completed: 59 (0.06%) (Ranked 333)
 | 2024-01-09 | 93,308 | 58 |
 | 2024-01-10 | 93,367 | 58 |
 | 2024-01-11 | 93,401 | 59 |
-| 2024-01-12 | 93,411 | 59 |
+| 2024-01-12 | 93,413 | 59 |
 ## Awards
 Max (Diverse Characters): 597  (Ranked 209)  
-Sum: 2,817 (Ranked 191)  
+Sum: 2,819 (Ranked 191)  
 Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 597 |
 | This game is Highly Recommended | 575 |
-| This game has Amazing Characters | 554 |
+| This game has Amazing Characters | 556 |
 | This game has Quickly Understood Controls | 552 |
 | This game is Extremely Fun | 539 |
 | This game has Challenging Combat | 514 |
@@ -617,4 +617,4 @@ Diff (max vs sum): 18
 | 2024-01-09 | 3.96 | 593 | 2,807 |
 | 2024-01-10 | 3.96 | 594 | 2,810 |
 | 2024-01-11 | 3.96 | 597 | 2,816 |
-| 2024-01-12 | 3.96 | 597 | 2,817 |
+| 2024-01-12 | 3.96 | 597 | 2,819 |

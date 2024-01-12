@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2250,9 +2250,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16502,
+  "EOS_Progressed": 16508,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19725,6 +19725,11 @@
       "Time": "2024-01-12T15:11:03.0266944+00:00",
       "NumProgressed": 16502,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-12T16:10:14.5963687+00:00",
+      "NumProgressed": 16508,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20294,9 +20299,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
       "SetID": "9201eeb",
       "Name": "Mighty",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
@@ -20398,9 +20403,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
       "SetID": "9201eeb",
       "Name": "Warrior",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 330
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WHITE_DEATH",
@@ -20502,9 +20507,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_JUST",
       "SetID": "7l38kb8",
       "Name": "Just Difficulty",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 149
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_MAGNIFICENT",
@@ -21366,9 +21371,9 @@
       "ID": "ACHIEVEMENT_NATION_GREECE",
       "SetID": "7l38kb8",
       "Name": "Greece",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_NATION_HITTITE",
@@ -21542,9 +21547,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonian Paganism",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 330
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
@@ -21854,9 +21859,9 @@
       "ID": "ACHIEVEMENT_VICTORY_AMBITION",
       "SetID": "7l38kb8",
       "Name": "Ambition Victory",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_CONQUEST",
@@ -21870,9 +21875,9 @@
       "ID": "ACHIEVEMENT_VICTORY_DOUBLE",
       "SetID": "7l38kb8",
       "Name": "Double Victory",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_CHARACTERS",
@@ -22599,21 +22604,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16502,
+      "Progressed": 16508,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16502,
+      "Progressed": 16508,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-11T21:59:00.3473334+00:00",
-  "LastChanged_Achievements": "2024-01-12T15:11:03.0266939+00:00",
+  "LastChanged_Achievements": "2024-01-12T16:10:14.5963685+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-12T14:59:24.6571422+00:00",
-  "LastUpdate_Achievements": "2024-01-12T15:11:03.0276763+00:00"
+  "LastUpdate_Ratings": "2024-01-12T15:58:38.5691764+00:00",
+  "LastUpdate_Achievements": "2024-01-12T16:10:14.597416+00:00"
 }

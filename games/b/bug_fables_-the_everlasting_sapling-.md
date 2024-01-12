@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter 1 Complete | 68.00% | ~80 |
+| Chapter 1 Complete | 67.00% | ~80 |
 | Vicious Spider | 44.00% | ~52 |
-| Chapter 2 Complete | 41.00% | ~48 |
-| Chapter 3 Complete | 31.00% | ~37 |
-| The Guardian | 29.00% | ~34 |
-| Chapter 4 Complete | 24.00% | ~28 |
+| Chapter 2 Complete | 40.00% | ~48 |
+| Chapter 3 Complete | 30.00% | ~36 |
+| The Guardian | 29.00% | ~35 |
+| Chapter 4 Complete | 24.00% | ~29 |
 | Heavy Duty | 21.00% | ~25 |
-| Chapter 5 Complete | 19.00% | ~22 |
+| Chapter 5 Complete | 19.00% | ~23 |
 | Chapter 6 Complete | 18.00% | ~21 |
 | Plant Enchanter | 18.00% | ~21 |
 | The Truth | 18.00% | ~21 |
@@ -25,17 +25,17 @@
 | The End | 12.00% | ~14 |
 | Good Deed | 11.00% | ~13 |
 | Music Collector | 9.00% | ~11 |
-| Gamer | 8.00% | ~9 |
-| Cooking Maestro | 8.00% | ~9 |
-| Pro Explorers | 8.00% | ~9 |
-| Ultimate Team! | 8.00% | ~9 |
+| Gamer | 8.00% | ~10 |
+| Cooking Maestro | 8.00% | ~10 |
+| Pro Explorers | 8.00% | ~10 |
+| Ultimate Team! | 8.00% | ~10 |
 | Field Researcher | 7.00% | ~8 |
 | Helping Hand | 7.00% | ~8 |
 | Medal Collector | 4.00% | ~5 |
 | Our job's done! | 4.00% | ~5 |
 | Crystal Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118 (Ranked 485)  
+Progressed: 119 (Ranked 485)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,6 +85,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-07 | 115 | 0 |
 | 2024-01-09 | 116 | 0 |
 | 2024-01-10 | 118 | 0 |
+| 2024-01-12 | 119 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

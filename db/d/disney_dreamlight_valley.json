@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5901,9 +5901,9 @@
       "Count": 554
     }
   ],
-  "EOS_Progressed": 14076,
+  "EOS_Progressed": 14077,
   "EOS_Completed": 350,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.49,
   "EosHistory": [
@@ -25101,6 +25101,11 @@
       "Time": "2024-01-12T15:09:39.1684394+00:00",
       "NumProgressed": 14076,
       "NumCompleted": 350
+    },
+    {
+      "Time": "2024-01-12T16:09:11.3067453+00:00",
+      "NumProgressed": 14077,
+      "NumCompleted": 350
     }
   ],
   "TotalAchievements": 15,
@@ -25128,7 +25133,7 @@
       "Name": "Bestest Friend",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 6193
+      "UsersEstimate": 6194
     },
     {
       "ID": "Chef_Cook",
@@ -25136,7 +25141,7 @@
       "Name": "Chef Cook",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 2674
+      "UsersEstimate": 2675
     },
     {
       "ID": "Chit_Chatter",
@@ -25184,7 +25189,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 67,
       "XP": 75,
-      "UsersEstimate": 9431
+      "UsersEstimate": 9432
     },
     {
       "ID": "Miner",
@@ -25200,7 +25205,7 @@
       "Name": "Photographer",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 9431
+      "UsersEstimate": 9432
     },
     {
       "ID": "Renovator",
@@ -25208,7 +25213,7 @@
       "Name": "Renovator",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 6897
+      "UsersEstimate": 6898
     },
     {
       "ID": "Thorn_Cleaner",
@@ -25231,7 +25236,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 14076,
+      "Progressed": 14077,
       "Completed": 350
     }
   ],
@@ -25239,8 +25244,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-12T13:02:46.7842137+00:00",
-  "LastChanged_Achievements": "2024-01-12T15:09:39.1684388+00:00",
+  "LastChanged_Achievements": "2024-01-12T16:09:11.3067451+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:11.1438624+00:00",
-  "LastUpdate_Ratings": "2024-01-12T14:57:15.8938803+00:00",
-  "LastUpdate_Achievements": "2024-01-12T15:09:39.1685482+00:00"
+  "LastUpdate_Ratings": "2024-01-12T15:57:11.159124+00:00",
+  "LastUpdate_Achievements": "2024-01-12T16:09:11.3068272+00:00"
 }

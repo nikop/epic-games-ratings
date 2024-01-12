@@ -9,9 +9,9 @@ Rating: 4.27 (Ranked 907)
 | Highballer | 60.00% | ~656 |
 | Dirty Roller | 32.00% | ~350 |
 | Regional Juniors Champion | 31.00% | ~339 |
-| Wheeler Dealer | 24.00% | ~262 |
+| Wheeler Dealer | 25.00% | ~273 |
 | Look Mom, I Can Fly | 22.00% | ~240 |
-| National Amateurs Champion | 17.00% | ~186 |
+| National Amateurs Champion | 18.00% | ~197 |
 | Junk Collector | 14.00% | ~153 |
 | Trashing Around | 14.00% | ~153 |
 | Hating Them Tin Cans | 14.00% | ~153 |
