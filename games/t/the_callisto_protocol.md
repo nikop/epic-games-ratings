@@ -5,9 +5,9 @@ Rating: 4.22 (Ranked 954)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Outer Way | 27.00% | ~5,992 |
-| Flesh Wound | 26.00% | ~5,770 |
-| Desperate Times | 25.00% | ~5,548 |
+| The Outer Way | 27.00% | ~5,993 |
+| Flesh Wound | 26.00% | ~5,771 |
+| Desperate Times | 25.00% | ~5,549 |
 | Paper Jams | 23.00% | ~5,105 |
 | Get a Grip | 22.00% | ~4,883 |
 | Chew 'Em Up | 20.00% | ~4,439 |
@@ -21,10 +21,10 @@ Rating: 4.22 (Ranked 954)
 | Two Heads Are Better Than One | 11.00% | ~2,441 |
 | Terminated | 11.00% | ~2,441 |
 | Power Up | 11.00% | ~2,441 |
-| Giving Back | 10.00% | ~2,219 |
-| What Lies Beneath | 10.00% | ~2,219 |
-| Full Circle | 10.00% | ~2,219 |
-| You Need a Gun | 9.00% | ~1,997 |
+| Giving Back | 10.00% | ~2,220 |
+| What Lies Beneath | 10.00% | ~2,220 |
+| Full Circle | 10.00% | ~2,220 |
+| You Need a Gun | 9.00% | ~1,998 |
 | I Do Belong Here | 8.00% | ~1,776 |
 | Keep Fighting | 7.00% | ~708 |
 | It's Time | 6.00% | ~607 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 954)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,194 (Ranked 151)  
+Progressed: 22,195 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,18 +312,18 @@ Completed: 82 (0.37%) (Ranked 245)
 | 2024-01-09 | 21,902 | 82 |
 | 2024-01-10 | 22,053 | 82 |
 | 2024-01-11 | 22,169 | 82 |
-| 2024-01-12 | 22,194 | 82 |
+| 2024-01-12 | 22,195 | 82 |
 ## Awards
 Max (Amazing Characters): 131  (Ranked 345)  
-Sum: 634 (Ranked 321)  
-Diff (max vs sum): 24  
+Sum: 636 (Ranked 320)  
+Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 131 |
 | This game is Highly Recommended | 118 |
 | This game is Extremely Fun | 115 |
+| This game has Quickly Understood Controls | 110 |
 | This game has Amazing Storytelling | 110 |
-| This game has Quickly Understood Controls | 108 |
 | This game has Challenging Combat | 68 |
 | This game has a Creative Community | 52 |
 ## Ratings History
@@ -528,3 +528,4 @@ Diff (max vs sum): 24
 | 2024-01-09 | 4.22 | 129 | 619 |
 | 2024-01-10 | 4.22 | 129 | 628 |
 | 2024-01-11 | 4.22 | 131 | 634 |
+| 2024-01-12 | 4.22 | 131 | 636 |

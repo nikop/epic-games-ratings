@@ -4,8 +4,8 @@
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -358,9 +358,9 @@
       "ID": "ACH_50_WINS",
       "SetID": "1lnhagg",
       "Name": "Winning is Quite Alright",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_AMERICAN_CAREER",
@@ -597,8 +597,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-12T11:08:59.495605+00:00",
+  "LastChanged_Achievements": "2024-01-12T12:08:42.6122565+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:05.9985691+00:00",
-  "LastUpdate_Ratings": "2024-01-12T10:58:15.1988285+00:00",
-  "LastUpdate_Achievements": "2024-01-12T11:08:59.4956266+00:00"
+  "LastUpdate_Ratings": "2024-01-12T11:58:09.9007871+00:00",
+  "LastUpdate_Achievements": "2024-01-12T12:08:42.612294+00:00"
 }

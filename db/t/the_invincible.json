@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -103,9 +103,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1637,
+  "EOS_Progressed": 1638,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4283,6 +4283,11 @@
       "Time": "2024-01-12T07:10:15.9666337+00:00",
       "NumProgressed": 1637,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T12:09:34.0402479+00:00",
+      "NumProgressed": 1638,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4375,7 +4380,7 @@
       "Name": "Evacuation",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "AchvInvShip",
@@ -4391,7 +4396,7 @@
       "Name": "Krauta is alive",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "AchvLava",
@@ -4471,7 +4476,7 @@
       "Name": "The Camp",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1147
     },
     {
       "ID": "AchvReachCity",
@@ -4479,7 +4484,7 @@
       "Name": "The City",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "AchvReachCondor",
@@ -4526,7 +4531,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1637,
+      "Progressed": 1638,
       "Completed": 1
     }
   ],
@@ -4534,8 +4539,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-11T16:59:53.3701468+00:00",
-  "LastChanged_Achievements": "2024-01-12T11:09:55.5343527+00:00",
+  "LastChanged_Achievements": "2024-01-12T12:09:34.0402474+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-12T10:59:22.1747491+00:00",
-  "LastUpdate_Achievements": "2024-01-12T11:09:55.5343861+00:00"
+  "LastUpdate_Ratings": "2024-01-12T11:59:09.6827688+00:00",
+  "LastUpdate_Achievements": "2024-01-12T12:09:34.0402805+00:00"
 }

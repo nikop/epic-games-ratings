@@ -6,9 +6,9 @@
   "Ranking_Popularity": 584,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 213,
+  "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1056,11 +1056,11 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16281,
-  "EOS_Completed": 96,
-  "EOS_NewPlayers": 867,
-  "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 0.59,
+  "EOS_Progressed": 16282,
+  "EOS_Completed": 97,
+  "EOS_NewPlayers": 861,
+  "EOS_NewCompleters": 11,
+  "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.1062688+00:00",
@@ -17891,6 +17891,11 @@
       "Time": "2024-01-12T11:10:06.933784+00:00",
       "NumProgressed": 16281,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2024-01-12T12:09:44.2484135+00:00",
+      "NumProgressed": 16282,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 34,
@@ -18062,7 +18067,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7652
+      "UsersEstimate": 7653
     },
     {
       "ID": "ACH22",
@@ -18173,16 +18178,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16281,
-      "Completed": 96
+      "Progressed": 16282,
+      "Completed": 97
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-03T02:18:34.6735113+00:00",
-  "LastChanged_Achievements": "2024-01-12T11:10:06.9337837+00:00",
+  "LastChanged_Achievements": "2024-01-12T12:09:44.2484129+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:12.9251558+00:00",
-  "LastUpdate_Ratings": "2024-01-12T10:58:56.2708178+00:00",
-  "LastUpdate_Achievements": "2024-01-12T11:10:06.9338828+00:00"
+  "LastUpdate_Ratings": "2024-01-12T11:58:47.7322083+00:00",
+  "LastUpdate_Achievements": "2024-01-12T12:09:44.2485113+00:00"
 }

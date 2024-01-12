@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -124,7 +124,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 845,
+  "EOS_Progressed": 846,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
@@ -1319,6 +1319,11 @@
       "Time": "2024-01-11T02:28:59.9387992+00:00",
       "NumProgressed": 845,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T12:05:11.090485+00:00",
+      "NumProgressed": 846,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1418,7 +1423,7 @@
       "Name": "I just love stuff!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "I_think_its_broke",
@@ -1434,7 +1439,7 @@
       "Name": "In the smacker...I think",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Keep_em_coming",
@@ -1442,7 +1447,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "Lady_Luck",
@@ -1506,7 +1511,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "The Traveler",
@@ -1594,7 +1599,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "posters",
@@ -1617,7 +1622,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 845,
+      "Progressed": 846,
       "Completed": 0
     }
   ],
@@ -1625,8 +1630,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-25T11:02:42.8909676+00:00",
-  "LastChanged_Achievements": "2024-01-12T11:05:37.4494691+00:00",
+  "LastChanged_Achievements": "2024-01-12T12:05:11.0904844+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.1619736+00:00",
-  "LastUpdate_Ratings": "2024-01-12T11:03:18.8449812+00:00",
-  "LastUpdate_Achievements": "2024-01-12T11:05:37.4495245+00:00"
+  "LastUpdate_Ratings": "2024-01-12T12:03:03.8960859+00:00",
+  "LastUpdate_Achievements": "2024-01-12T12:05:11.0905156+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -557,7 +557,7 @@
   ],
   "EOS_Progressed": 6366,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9766,9 +9766,9 @@
       "ID": "ACH_KILL_UNDETECTED",
       "SetID": "816efe",
       "Name": "Call Me Snake",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 3374
+      "UsersEstimate": 3438
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -9782,9 +9782,9 @@
       "ID": "ACH_LURE_QUEEN",
       "SetID": "816efe",
       "Name": "Heavy Steps",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 637
+      "UsersEstimate": 700
     },
     {
       "ID": "ACH_MARINE_PROSTHESIS",
@@ -10023,8 +10023,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-12T09:00:33.1677408+00:00",
-  "LastChanged_Achievements": "2024-01-12T11:04:00.4675146+00:00",
+  "LastChanged_Achievements": "2024-01-12T12:03:42.1421979+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.3437063+00:00",
-  "LastUpdate_Ratings": "2024-01-12T11:00:49.8234221+00:00",
-  "LastUpdate_Achievements": "2024-01-12T11:04:00.4675831+00:00"
+  "LastUpdate_Ratings": "2024-01-12T12:00:29.8732841+00:00",
+  "LastUpdate_Achievements": "2024-01-12T12:03:42.1422617+00:00"
 }

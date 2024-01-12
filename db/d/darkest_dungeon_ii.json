@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10758,9 +10758,9 @@
       "Count": 1092
     }
   ],
-  "EOS_Progressed": 132528,
+  "EOS_Progressed": 132532,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 788,
+  "EOS_NewPlayers": 786,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39488,6 +39488,11 @@
       "Time": "2024-01-12T11:10:09.9766576+00:00",
       "NumProgressed": 132528,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-12T12:09:46.9642993+00:00",
+      "NumProgressed": 132532,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39499,7 +39504,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6626
+      "UsersEstimate": 6627
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -39515,7 +39520,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6626
+      "UsersEstimate": 6627
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -39651,7 +39656,7 @@
       "Name": "Not Today!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6626
+      "UsersEstimate": 6627
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -39699,7 +39704,7 @@
       "Name": "Meat and Greet",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6626
+      "UsersEstimate": 6627
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -39715,7 +39720,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6626
+      "UsersEstimate": 6627
     },
     {
       "ID": "combat_kill_librarian",
@@ -39771,7 +39776,7 @@
       "Name": "It Happens",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6626
+      "UsersEstimate": 6627
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -39795,7 +39800,7 @@
       "Name": "Rush Hour",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6626
+      "UsersEstimate": 6627
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -39819,7 +39824,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6626
+      "UsersEstimate": 6627
     },
     {
       "ID": "driving_distance_easy",
@@ -39891,7 +39896,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6626
+      "UsersEstimate": 6627
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -39907,7 +39912,7 @@
       "Name": "FNG",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6626
+      "UsersEstimate": 6627
     },
     {
       "ID": "inn_visit_all_variants",
@@ -40130,21 +40135,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132528,
+      "Progressed": 132532,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7397,
+      "Progressed": 7401,
       "Completed": 825
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-12T09:00:16.2364194+00:00",
-  "LastChanged_Achievements": "2024-01-12T11:10:09.9766572+00:00",
+  "LastChanged_Achievements": "2024-01-12T12:09:46.9642989+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-12T11:00:31.5474002+00:00",
-  "LastUpdate_Achievements": "2024-01-12T11:10:09.9768298+00:00"
+  "LastUpdate_Ratings": "2024-01-12T12:00:13.9450768+00:00",
+  "LastUpdate_Achievements": "2024-01-12T12:09:46.9644639+00:00"
 }

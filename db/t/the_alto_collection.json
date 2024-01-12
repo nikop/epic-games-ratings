@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 375,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -970,7 +970,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 54513,
+  "EOS_Progressed": 54517,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 948,
   "EOS_NewCompleters": 0,
@@ -31365,6 +31365,11 @@
       "Time": "2024-01-12T11:04:18.7783864+00:00",
       "NumProgressed": 54513,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-12T12:03:58.7318172+00:00",
+      "NumProgressed": 54517,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -31376,7 +31381,7 @@
       "Name": "Junkie",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "distance1000000",
@@ -31392,15 +31397,15 @@
       "Name": "Traveler",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "distance50000",
       "SetID": "2lgngib",
       "Name": "Scout",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6542
+      "UsersEstimate": 5997
     },
     {
       "ID": "distance500000",
@@ -31416,7 +31421,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 14719
+      "UsersEstimate": 14720
     },
     {
       "ID": "goals180",
@@ -31432,7 +31437,7 @@
       "Name": "Amateur",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5451
+      "UsersEstimate": 5452
     },
     {
       "ID": "goals75",
@@ -31496,7 +31501,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 9267
+      "UsersEstimate": 9268
     },
     {
       "ID": "novice",
@@ -31504,7 +31509,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8177
+      "UsersEstimate": 8178
     },
     {
       "ID": "playerFelipe",
@@ -31536,7 +31541,7 @@
       "Name": "Unlock Paz",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "playerTime3days",
@@ -31560,7 +31565,7 @@
       "Name": "Human Flight",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "pro",
@@ -31584,7 +31589,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13628
+      "UsersEstimate": 13629
     },
     {
       "ID": "sandboarder",
@@ -31592,7 +31597,7 @@
       "Name": "Sandboarder",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "sightseer",
@@ -31600,7 +31605,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5996
+      "UsersEstimate": 5997
     },
     {
       "ID": "ultimate",
@@ -31632,7 +31637,7 @@
       "Name": "Izel Has Arrived",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "unlockmaya",
@@ -31687,15 +31692,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 54513,
+      "Progressed": 54517,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2024-01-08T03:58:25.2323956+00:00",
-  "LastChanged_Achievements": "2024-01-12T11:04:18.7783856+00:00",
+  "LastChanged_Achievements": "2024-01-12T12:03:58.7318168+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:13.3110756+00:00",
-  "LastUpdate_Ratings": "2024-01-12T10:57:15.6271257+00:00",
-  "LastUpdate_Achievements": "2024-01-12T11:04:18.778551+00:00"
+  "LastUpdate_Ratings": "2024-01-12T11:57:18.5009001+00:00",
+  "LastUpdate_Achievements": "2024-01-12T12:03:58.7319895+00:00"
 }

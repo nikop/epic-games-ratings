@@ -3,9 +3,9 @@
   "Name": "Quick Race",
   "ProductSlug": "quick-race-293d39",
   "Ranking_EOS_Progress": 526,
-  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-12-29T17:00:00+00:00",
     "PcReleaseDate": "2021-02-20T01:00:00+00:00",
@@ -23,10 +23,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 75,
-  "EOS_Completed": 2,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 17,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.67,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 4,
   "EosHistory": [
     {
       "Time": "2023-12-23T19:03:08.1103933+00:00",
@@ -337,6 +337,11 @@
       "Time": "2024-01-12T11:05:29.7557222+00:00",
       "NumProgressed": 75,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-12T12:05:03.9712083+00:00",
+      "NumProgressed": 75,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-12-23T19:03:08.11154+00:00",
@@ -347,25 +352,25 @@
       "ID": "10_MAPS",
       "SetID": "2g288ag",
       "Name": "Track Explorer",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "10_RACES",
       "SetID": "2g288ag",
       "Name": "Swift Decade Sprinter",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "15_RACES",
       "SetID": "2g288ag",
       "Name": "Turbocharged Odyssey",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "1_RACE",
@@ -379,25 +384,25 @@
       "ID": "20_RACES",
       "SetID": "2g288ag",
       "Name": "Race Maestro",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "25_RACES",
       "SetID": "2g288ag",
       "Name": "Silver Streak Spectacle",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 160,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "2PLAYERS",
       "SetID": "2g288ag",
       "Name": "Dynamic Duo",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "2_MAPS",
@@ -419,9 +424,9 @@
       "ID": "30_RACES",
       "SetID": "2g288ag",
       "Name": "Apex Adventurer",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 180,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "3_RACES",
@@ -435,17 +440,17 @@
       "ID": "5_MAPS",
       "SetID": "2g288ag",
       "Name": "Track Tourist",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "5_RACES",
       "SetID": "2g288ag",
       "Name": "Quintessential Quest",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "NO_CRASH",
@@ -469,12 +474,12 @@
       "ID": "2g288ag",
       "IsBase": true,
       "Progressed": 75,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeenAchievements": "2023-12-23T19:03:08.11154+00:00",
-  "LastChanged_Achievements": "2024-01-12T11:05:29.7557219+00:00",
+  "LastChanged_Achievements": "2024-01-12T12:05:03.9712077+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:58.0575536+00:00",
-  "LastUpdate_Ratings": "2024-01-12T10:59:38.365461+00:00",
-  "LastUpdate_Achievements": "2024-01-12T11:05:29.7557306+00:00"
+  "LastUpdate_Ratings": "2024-01-12T11:59:23.8271796+00:00",
+  "LastUpdate_Achievements": "2024-01-12T12:05:03.9712237+00:00"
 }

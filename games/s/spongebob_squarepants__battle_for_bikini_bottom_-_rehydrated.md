@@ -1,19 +1,19 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.64 (Ranked 345)  
+Rating: 4.64 (Ranked 344)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Spatula Seeker | 23.00% | ~221 |
-| Sponge Smasher | 22.00% | ~211 |
+| Sponge Smasher | 22.00% | ~212 |
 | Jellyfish Jam | 21.00% | ~202 |
-| Jellyfishing | 17.00% | ~163 |
+| Jellyfishing | 17.00% | ~164 |
 | Time For Tutorial | 14.00% | ~135 |
 | Sweet Victory | 13.00% | ~125 |
 | Sock Getter | 13.00% | ~125 |
-| Star Smasher | 12.00% | ~115 |
+| Star Smasher | 12.00% | ~116 |
 | Uptown and Downtown | 11.00% | ~106 |
 | Super Spatula Seeker | 11.00% | ~106 |
 | Surf's Up! | 11.00% | ~106 |
@@ -29,17 +29,17 @@ Number of Ratings: 76  (23.09.2022)
 | Robot encyclopedia | 6.00% | ~58 |
 | Ship Shape | 5.00% | ~48 |
 | Kelp Forest of Fear | 5.00% | ~48 |
-| The Small Does Not Rule | 4.00% | ~38 |
-| Shanghaied | 4.00% | ~38 |
-| SpongeBob vs SpongeBob! | 4.00% | ~38 |
-| Sleepy Time | 4.00% | ~38 |
-| Sock Concert | 4.00% | ~38 |
-| Mega Spatula Seeker | 4.00% | ~38 |
+| The Small Does Not Rule | 4.00% | ~39 |
+| Shanghaied | 4.00% | ~39 |
+| SpongeBob vs SpongeBob! | 4.00% | ~39 |
+| Sleepy Time | 4.00% | ~39 |
+| Sock Concert | 4.00% | ~39 |
+| Mega Spatula Seeker | 4.00% | ~39 |
 | 100% SpongeBob | 1.00% | ~10 |
 | Sock Opera | 1.00% | ~10 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 961 (Ranked 300)  
+Progressed: 963 (Ranked 299)  
 Completed: 8 (0.83%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 8 (0.83%) (Ranked 191)
 | 2024-01-09 | 906 | 8 |
 | 2024-01-10 | 929 | 8 |
 | 2024-01-11 | 954 | 8 |
-| 2024-01-12 | 961 | 8 |
+| 2024-01-12 | 963 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 499)  
 Sum: 36 (Ranked 532)  

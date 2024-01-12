@@ -2,10 +2,10 @@
   "ID": "a4b5203877a04321bd1989cef6ba51dc",
   "Name": "One Hand Clapping",
   "ProductSlug": "one-hand-clapping",
-  "Ranking_EOS_Progress": 298,
+  "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
     "PcReleaseDate": "2021-06-10T11:05:23+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 968,
+  "EOS_Progressed": 971,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -934,6 +934,11 @@
       "Time": "2024-01-12T06:04:43.0898816+00:00",
       "NumProgressed": 968,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T12:04:05.5838726+00:00",
+      "NumProgressed": 971,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -945,7 +950,7 @@
       "Name": "Silent City",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "10",
@@ -1033,7 +1038,7 @@
       "Name": "Duet Desert",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "20",
@@ -1168,7 +1173,7 @@
     {
       "ID": "7l2nmpm",
       "IsBase": true,
-      "Progressed": 968,
+      "Progressed": 971,
       "Completed": 0
     }
   ],
@@ -1176,8 +1181,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2024-01-12T11:04:26.0791357+00:00",
+  "LastChanged_Achievements": "2024-01-12T12:04:05.5838721+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:08.3557849+00:00",
-  "LastUpdate_Ratings": "2024-01-12T11:03:04.1444557+00:00",
-  "LastUpdate_Achievements": "2024-01-12T11:04:26.0791593+00:00"
+  "LastUpdate_Ratings": "2024-01-12T12:02:50.2958801+00:00",
+  "LastUpdate_Achievements": "2024-01-12T12:04:05.5839055+00:00"
 }

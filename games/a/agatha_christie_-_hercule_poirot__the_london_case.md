@@ -44,15 +44,15 @@
 | Well-travelled | 17.00% | ~19 |
 | Florence Farquhar | 16.00% | ~18 |
 | The Investigation Starts Anew | 16.00% | ~18 |
-| A treasured heirloom | 14.00% | ~15 |
-| The Penitent Magdalene | 14.00% | ~15 |
-| A true performance | 14.00% | ~15 |
-| The Denouement | 12.00% | ~13 |
+| A treasured heirloom | 15.00% | ~16 |
+| The Penitent Magdalene | 15.00% | ~16 |
+| A true performance | 15.00% | ~16 |
+| The Denouement | 13.00% | ~14 |
 | A perilous journey | 10.00% | ~11 |
 | Perkins | 6.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 110 (Ranked 489)  
-Completed: 3 (2.73%) (Ranked 118)  
+Completed: 3 (2.73%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

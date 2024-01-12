@@ -10,7 +10,7 @@ Rating: 4.63 (Ranked 357)
 | A Wonderful Discovery | 14.00% | ~1,008 |
 | Walls Cannot Stop Us | 14.00% | ~1,008 |
 | From Friends to Family | 12.00% | ~864 |
-| Bone Peddler | 10.00% | ~720 |
+| Bone Peddler | 11.00% | ~792 |
 | Full Ascension | 9.00% | ~648 |
 | Magical Synergy | 9.00% | ~648 |
 | There Can Only Be One! | 8.00% | ~576 |

@@ -4,8 +4,8 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 114,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -569,9 +569,9 @@
       "ID": "CarryingDoll",
       "SetID": "7m88n8p",
       "Name": "Girl Carrying A Doll",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "DatingAttraction",
@@ -752,8 +752,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2024-01-12T11:06:29.1913274+00:00",
+  "LastChanged_Achievements": "2024-01-12T12:05:59.6407668+00:00",
   "LastUpdate_AppInfo": "2024-01-08T15:56:55.2153552+00:00",
-  "LastUpdate_Ratings": "2024-01-12T10:59:57.499321+00:00",
-  "LastUpdate_Achievements": "2024-01-12T11:06:29.1913492+00:00"
+  "LastUpdate_Ratings": "2024-01-12T11:59:42.6315735+00:00",
+  "LastUpdate_Achievements": "2024-01-12T12:05:59.6407818+00:00"
 }

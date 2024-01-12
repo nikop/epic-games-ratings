@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 827,
+  "EOS_Progressed": 828,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.66,
   "EosHistory": [
@@ -1835,6 +1835,11 @@
       "Time": "2024-01-12T08:10:20.8334789+00:00",
       "NumProgressed": 827,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-12T12:09:35.7127575+00:00",
+      "NumProgressed": 828,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 20,
@@ -1844,9 +1849,9 @@
       "ID": "beat_it",
       "SetID": "d4f4pll",
       "Name": "Beat It",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 397
+      "UsersEstimate": 389
     },
     {
       "ID": "blast_from_the_past",
@@ -1854,7 +1859,7 @@
       "Name": "Blast From The Past",
       "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "deadly_secret",
@@ -1886,7 +1891,7 @@
       "Name": "Get Out Of This Alive",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ending_4",
@@ -1902,7 +1907,7 @@
       "Name": "Lab Rat",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ending_6",
@@ -1934,7 +1939,7 @@
       "Name": "Falling For You",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "free_champagne",
@@ -1950,7 +1955,7 @@
       "Name": "Kamikaze",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "kindar_surprise",
@@ -1982,7 +1987,7 @@
       "Name": "Storage Hunter",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -1990,7 +1995,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "tough_decision",
@@ -2005,7 +2010,7 @@
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 827,
+      "Progressed": 828,
       "Completed": 22
     }
   ],
@@ -2013,8 +2018,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2024-01-12T11:09:57.4679953+00:00",
+  "LastChanged_Achievements": "2024-01-12T12:09:35.712757+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:38.6088522+00:00",
-  "LastUpdate_Ratings": "2024-01-12T11:03:11.6618196+00:00",
-  "LastUpdate_Achievements": "2024-01-12T11:09:57.4680131+00:00"
+  "LastUpdate_Ratings": "2024-01-12T12:02:56.7905794+00:00",
+  "LastUpdate_Achievements": "2024-01-12T12:09:35.7127919+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1737,9 +1737,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 247719,
+  "EOS_Progressed": 247721,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1073,
+  "EOS_NewPlayers": 1067,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25907,6 +25907,11 @@
       "Time": "2024-01-12T11:10:27.3977613+00:00",
       "NumProgressed": 247719,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-12T12:10:03.4799287+00:00",
+      "NumProgressed": 247721,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 88,
@@ -26366,7 +26371,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 91656
+      "UsersEstimate": 91657
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -26621,21 +26626,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 247719,
+      "Progressed": 247721,
       "Completed": 8
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 247719,
+      "Progressed": 247721,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-11T17:57:14.3541781+00:00",
-  "LastChanged_Achievements": "2024-01-12T11:10:27.3977608+00:00",
+  "LastChanged_Achievements": "2024-01-12T12:10:03.4799283+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8090113+00:00",
-  "LastUpdate_Ratings": "2024-01-12T10:57:47.0640264+00:00",
-  "LastUpdate_Achievements": "2024-01-12T11:10:27.3980014+00:00"
+  "LastUpdate_Ratings": "2024-01-12T11:57:45.8658667+00:00",
+  "LastUpdate_Achievements": "2024-01-12T12:10:03.4800916+00:00"
 }

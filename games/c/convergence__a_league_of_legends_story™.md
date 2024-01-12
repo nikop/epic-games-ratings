@@ -1,23 +1,23 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.69 (Ranked 239)  
+Rating: 4.70 (Ranked 220)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 46.00% | ~602 |
+| Time Heals All Wounds | 46.00% | ~603 |
 | Rail Rat | 35.00% | ~458 |
 | The Mysterious Stranger | 34.00% | ~445 |
 | Immaculate Aim | 29.00% | ~380 |
 | The Brass Boss | 28.00% | ~367 |
-| Time Flies | 27.00% | ~353 |
-| Make Up For Lost Time | 26.00% | ~340 |
-| The Harder They Fall | 26.00% | ~340 |
-| No, Thanks! | 26.00% | ~340 |
-| The Prince in Heels | 26.00% | ~340 |
-| Honest Mistake | 26.00% | ~340 |
-| Immaculate Aim | 26.00% | ~340 |
-| Fast Learner | 25.00% | ~327 |
+| Time Flies | 27.00% | ~354 |
+| Make Up For Lost Time | 26.00% | ~341 |
+| The Harder They Fall | 26.00% | ~341 |
+| No, Thanks! | 26.00% | ~341 |
+| The Prince in Heels | 26.00% | ~341 |
+| Honest Mistake | 26.00% | ~341 |
+| Immaculate Aim | 26.00% | ~341 |
+| Fast Learner | 25.00% | ~328 |
 | The Steel Shadow | 24.00% | ~314 |
 | Breaking Down Barriers | 23.00% | ~301 |
 | The Wicked Twins | 23.00% | ~301 |
@@ -25,8 +25,8 @@ Rating: 4.69 (Ranked 239)
 | The Betrayer | 22.00% | ~288 |
 | Golem Chaser | 22.00% | ~288 |
 | Like Clockwork | 21.00% | ~275 |
+| The Loose Cannon | 20.00% | ~262 |
 | Check Your Pulse | 20.00% | ~262 |
-| The Loose Cannon | 19.00% | ~249 |
 | Street Style | 18.00% | ~236 |
 | The Man Who Shattered Time | 18.00% | ~236 |
 | The Family Fortune | 18.00% | ~236 |
@@ -49,7 +49,7 @@ Rating: 4.69 (Ranked 239)
 | Golem Hunter | 7.00% | ~92 |
 | Clovemary for Remembering | 6.00% | ~79 |
 | Hexlock for Protection | 6.00% | ~79 |
-| Rungs Was Right | 5.00% | ~65 |
+| Rungs Was Right | 5.00% | ~66 |
 | Wunderkind | 3.00% | ~39 |
 | Thinking Two Steps Ahead | 2.00% | ~26 |
 | Fitting In | 2.00% | ~26 |
@@ -59,7 +59,7 @@ Rating: 4.69 (Ranked 239)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,309 (Ranked 281)  
+Progressed: 1,310 (Ranked 281)  
 Completed: 8 (0.61%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 8 (0.61%) (Ranked 208)
 | 2024-01-09 | 1,289 | 7 |
 | 2024-01-10 | 1,300 | 7 |
 | 2024-01-11 | 1,306 | 8 |
-| 2024-01-12 | 1,309 | 8 |
+| 2024-01-12 | 1,310 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -242,3 +242,4 @@ Completed: 8 (0.61%) (Ranked 208)
 | 2023-12-23 | 4.65 | 0 | 0 |
 | 2024-01-05 | 4.67 | 0 | 0 |
 | 2024-01-07 | 4.69 | 0 | 0 |
+| 2024-01-12 | 4.70 | 0 | 0 |

@@ -35,7 +35,7 @@ Rating: 4.38 (Ranked 794)
 | Face Slapper | 15.00% | ~112 |
 | Boss challenge | 11.00% | ~82 |
 | Berserker Slayer | 11.00% | ~82 |
-| Giantess Slayer | 10.00% | ~75 |
+| Giantess Slayer | 11.00% | ~82 |
 | Warden Slayer | 10.00% | ~75 |
 | Master Cook | 9.00% | ~67 |
 | Silver Moon Wolf King Challenge | 4.00% | ~30 |

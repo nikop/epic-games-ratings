@@ -26,7 +26,7 @@
 | Expert Storyteller | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,061 (Ranked 294)  
-Completed: 13 (1.23%) (Ranked 160)  
+Completed: 13 (1.23%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

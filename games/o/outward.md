@@ -6,30 +6,30 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 72.00% | ~3,413 |
-| Ready for Winter | 61.00% | ~2,891 |
-| Ready for Summer | 48.00% | ~2,275 |
-| Cordon Bleu | 40.00% | ~1,896 |
+| Venture Outward | 72.00% | ~3,414 |
+| Ready for Winter | 61.00% | ~2,893 |
+| Ready for Summer | 48.00% | ~2,276 |
+| Cordon Bleu | 40.00% | ~1,897 |
 | Tapped! | 34.00% | ~1,612 |
 | Eureka | 29.00% | ~1,375 |
-| Scourge Slayer | 23.00% | ~1,090 |
-| Science, Troglodyte! | 21.00% | ~995 |
+| Scourge Slayer | 23.00% | ~1,091 |
+| Science, Troglodyte! | 21.00% | ~996 |
 | Exceptional Skill | 20.00% | ~948 |
 | Home Sweet Home | 20.00% | ~948 |
-| Encyclopedic! | 18.00% | ~853 |
+| Encyclopedic! | 18.00% | ~854 |
 | The Power of Family | 15.00% | ~711 |
 | A Fortress Toppled! | 14.00% | ~664 |
 | Apex Predator | 14.00% | ~664 |
-| Strange amalgams | 11.00% | ~521 |
-| The Power of Faith | 11.00% | ~521 |
+| Strange amalgams | 11.00% | ~522 |
+| The Power of Faith | 11.00% | ~522 |
 | The Power of Freedom | 8.00% | ~379 |
 | Ace Detective | 7.00% | ~332 |
 | Gift from the Ancestors | 7.00% | ~332 |
 | Magic is a science | 7.00% | ~332 |
-| Hold my Mead and Watch This | 6.00% | ~284 |
-| House of Cards | 6.00% | ~284 |
-| Let ‘em eat magma! | 6.00% | ~284 |
-| The power of ambition | 6.00% | ~284 |
+| Hold my Mead and Watch This | 6.00% | ~285 |
+| House of Cards | 6.00% | ~285 |
+| Let ‘em eat magma! | 6.00% | ~285 |
+| The power of ambition | 6.00% | ~285 |
 | Blood and justice | 5.00% | ~237 |
 | The stuff of legends. | 5.00% | ~237 |
 | Ancestor's Pride | 4.00% | ~190 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~14 |
 | The Absolute Pinnacle. | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,740 (Ranked 207)  
+Progressed: 4,742 (Ranked 207)  
 Completed: 5 (0.11%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 5 (0.11%) (Ranked 308)
 | 2024-01-09 | 4,681 | 5 |
 | 2024-01-10 | 4,724 | 5 |
 | 2024-01-11 | 4,735 | 5 |
-| 2024-01-12 | 4,740 | 5 |
+| 2024-01-12 | 4,742 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 505)  
 Sum: 246 (Ranked 402)  

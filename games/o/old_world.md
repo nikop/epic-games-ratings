@@ -33,6 +33,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 2.00% | ~330 |
 | Regicide | 1.00% | ~165 |
 | Ambitious | 1.00% | ~165 |
+| Drillmaster | 1.00% | ~165 |
 | Brilliant | 1.00% | ~165 |
 | Fountainhead | 1.00% | ~165 |
 | Great | 1.00% | ~165 |
@@ -58,9 +59,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 1.00% | ~165 |
 | Roman Paganism | 1.00% | ~165 |
 | Zoroastrianism | 1.00% | ~165 |
-| Drillmaster | 0.90% | ~148 |
 | Legendary Cities | 0.90% | ~148 |
 | Mausoleum | 0.90% | ~148 |
+| Mythology | 0.90% | ~148 |
 | Hanging Gardens in Babylon | 0.80% | ~132 |
 | Intercessor | 0.80% | ~132 |
 | Valiant | 0.80% | ~132 |
@@ -69,19 +70,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 0.80% | ~132 |
 | Colossus | 0.80% | ~132 |
 | Building Wonders | 0.80% | ~132 |
-| Mythology | 0.80% | ~132 |
 | Champions | 0.70% | ~115 |
 | Learn to Play 3 | 0.70% | ~115 |
 | Persian Paganism | 0.70% | ~115 |
 | Beloved | 0.60% | ~99 |
 | Mighty | 0.60% | ~99 |
+| Victorious | 0.60% | ~99 |
 | Good Difficulty | 0.60% | ~99 |
 | Landowners | 0.60% | ~99 |
 | Patrons | 0.60% | ~99 |
 | Statesmen | 0.60% | ~99 |
+| Hagia Sophia | 0.60% | ~99 |
 | Temple of Solomon | 0.60% | ~99 |
 | Greece | 0.60% | ~99 |
 | Power to the People | 0.60% | ~99 |
+| Economic Reform | 0.60% | ~99 |
 | Legionary | 0.60% | ~99 |
 | Points Victory | 0.60% | ~99 |
 | Win a Single Player Game | 0.60% | ~99 |
@@ -89,15 +92,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.50% | ~82 |
 | Ready | 0.50% | ~82 |
 | Subjugator | 0.50% | ~82 |
-| Victorious | 0.50% | ~82 |
 | Riders | 0.50% | ~82 |
 | Traders | 0.50% | ~82 |
 | Hittite Iron | 0.50% | ~82 |
 | Circus Maximus | 0.50% | ~82 |
-| Hagia Sophia | 0.50% | ~82 |
 | Pantheon | 0.50% | ~82 |
 | Via Recta Souk | 0.50% | ~82 |
-| Economic Reform | 0.50% | ~82 |
 | Military Prestige | 0.50% | ~82 |
 | Dualism | 0.50% | ~82 |
 | Legalism | 0.50% | ~82 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,491 (Ranked 170)  
+Progressed: 16,494 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -632,7 +632,7 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
-| 2024-01-12 | 16,491 | 5 |
+| 2024-01-12 | 16,494 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,921 (Ranked 224)  

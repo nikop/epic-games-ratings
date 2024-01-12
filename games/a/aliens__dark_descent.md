@@ -9,7 +9,7 @@ Rating: 4.55 (Ranked 530)
 | Keep 'Em Coming | 65.00% | ~4,138 |
 | Snatched Out | 64.00% | ~4,074 |
 | Cleaning Lethe, One Nest At A Time | 57.00% | ~3,629 |
-| Call Me Snake | 53.00% | ~3,374 |
+| Call Me Snake | 54.00% | ~3,438 |
 | Something Lurks Under The Hills | 52.00% | ~3,310 |
 | This Was No Papercut | 50.00% | ~3,183 |
 | People Person | 47.00% | ~2,992 |
@@ -40,8 +40,8 @@ Rating: 4.55 (Ranked 530)
 | Bandage Lover | 16.00% | ~1,019 |
 | Regicide | 13.00% | ~828 |
 | This Went Smoothly | 11.00% | ~700 |
+| Heavy Steps | 11.00% | ~700 |
 | Flawless Victory | 10.00% | ~637 |
-| Heavy Steps | 10.00% | ~637 |
 | Perfect Enhancements | 8.00% | ~509 |
 | Hardened In The Heat Of Battle | 6.00% | ~382 |
 | The True Experience | 5.00% | ~318 |

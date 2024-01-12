@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -1705,9 +1705,9 @@
       "ID": "MAIN_CLEAR_ISLAND3",
       "SetID": "apihg0e",
       "Name": "Futile Resistance",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 47
     },
     {
       "ID": "MAIN_CLEAR_ISLAND4",
@@ -1864,8 +1864,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-12T11:08:50.7520733+00:00",
+  "LastChanged_Achievements": "2024-01-12T12:08:34.5840267+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:55.9554345+00:00",
-  "LastUpdate_Ratings": "2024-01-12T10:58:44.2135801+00:00",
-  "LastUpdate_Achievements": "2024-01-12T11:08:50.7521129+00:00"
+  "LastUpdate_Ratings": "2024-01-12T11:58:37.3344947+00:00",
+  "LastUpdate_Achievements": "2024-01-12T12:08:34.5840637+00:00"
 }

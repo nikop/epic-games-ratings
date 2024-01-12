@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 375,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -13524,9 +13524,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 62310,
+  "EOS_Progressed": 62311,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1437,
+  "EOS_NewPlayers": 1431,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -38919,6 +38919,11 @@
       "Time": "2024-01-12T11:05:35.8008614+00:00",
       "NumProgressed": 62310,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-12T12:05:09.5550263+00:00",
+      "NumProgressed": 62311,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -38930,7 +38935,7 @@
       "Name": "Clucky Streak",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 8723
+      "UsersEstimate": 8724
     },
     {
       "ID": "BreedCows",
@@ -39058,7 +39063,7 @@
       "Name": "The plot thickens",
       "Percentage": 14,
       "XP": 55,
-      "UsersEstimate": 8723
+      "UsersEstimate": 8724
     },
     {
       "ID": "FertilizeFirst",
@@ -39074,7 +39079,7 @@
       "Name": "Large-scale supplier",
       "Percentage": 14,
       "XP": 55,
-      "UsersEstimate": 8723
+      "UsersEstimate": 8724
     },
     {
       "ID": "HarvestedFirst",
@@ -39082,7 +39087,7 @@
       "Name": "Own use",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 44240
+      "UsersEstimate": 44241
     },
     {
       "ID": "HorseJumps",
@@ -39130,7 +39135,7 @@
       "Name": "Help me to help you",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 21808
+      "UsersEstimate": 21809
     },
     {
       "ID": "Money",
@@ -39162,7 +39167,7 @@
       "Name": "All out of Land",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 25547
+      "UsersEstimate": 25548
     },
     {
       "ID": "NumProductionPoints",
@@ -39170,7 +39175,7 @@
       "Name": "Well-Oiled Machine",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 9346
+      "UsersEstimate": 9347
     },
     {
       "ID": "NumVehiclesLarge",
@@ -39186,7 +39191,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 33647
+      "UsersEstimate": 33648
     },
     {
       "ID": "PetDog",
@@ -39202,7 +39207,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 33647
+      "UsersEstimate": 33648
     },
     {
       "ID": "Sow",
@@ -39242,7 +39247,7 @@
       "Name": "Long haul",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 8723
+      "UsersEstimate": 8724
     },
     {
       "ID": "VehicleRepaint",
@@ -39250,7 +39255,7 @@
       "Name": "Van Gogh",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14331
+      "UsersEstimate": 14332
     },
     {
       "ID": "VehicleRepair",
@@ -39273,15 +39278,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 62310,
+      "Progressed": 62311,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2024-01-11T21:00:23.1918836+00:00",
-  "LastChanged_Achievements": "2024-01-12T11:05:35.8008609+00:00",
+  "LastChanged_Achievements": "2024-01-12T12:05:09.5550261+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:56.5163722+00:00",
-  "LastUpdate_Ratings": "2024-01-12T11:00:01.5080008+00:00",
-  "LastUpdate_Achievements": "2024-01-12T11:05:35.8010089+00:00"
+  "LastUpdate_Ratings": "2024-01-12T11:59:45.512412+00:00",
+  "LastUpdate_Achievements": "2024-01-12T12:05:09.5551705+00:00"
 }

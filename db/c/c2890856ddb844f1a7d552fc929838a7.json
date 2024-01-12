@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -303,9 +303,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 2468,
+  "EOS_Progressed": 2469,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5848,6 +5848,11 @@
       "Time": "2024-01-12T11:05:26.9410182+00:00",
       "NumProgressed": 2468,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T12:05:01.2448775+00:00",
+      "NumProgressed": 2469,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -5884,7 +5889,7 @@
       "Name": "Blood and Gold",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1456
+      "UsersEstimate": 1457
     },
     {
       "ID": "AC04",
@@ -5892,7 +5897,7 @@
       "Name": "Blood and Iron",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1456
+      "UsersEstimate": 1457
     },
     {
       "ID": "AC05",
@@ -5900,7 +5905,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "AC06",
@@ -5908,7 +5913,7 @@
       "Name": "The Last Ascension",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "AC07",
@@ -6004,7 +6009,7 @@
       "Name": "Acquired Taste",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "AC19",
@@ -6012,7 +6017,7 @@
       "Name": "Soledad",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "AC20",
@@ -6028,7 +6033,7 @@
       "Name": "No Cherub Left Behind",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "AC22",
@@ -6060,7 +6065,7 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "AC26",
@@ -6068,7 +6073,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "AC27",
@@ -6084,7 +6089,7 @@
       "Name": "The Punished One",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "AC29",
@@ -6100,7 +6105,7 @@
       "Name": "The Anointed One",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "AC31",
@@ -6116,7 +6121,7 @@
       "Name": "Nobody Expects the Spanish Inquisition!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "AC33",
@@ -6164,7 +6169,7 @@
       "Name": "Edge of Orison",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "AC39",
@@ -6172,7 +6177,7 @@
       "Name": "Warrior of the Silent Sorrow",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "AC40",
@@ -6180,7 +6185,7 @@
       "Name": "Welcome Back!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "AC41",
@@ -6227,7 +6232,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2468,
+      "Progressed": 2469,
       "Completed": 0
     }
   ],
@@ -6235,8 +6240,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-11T21:01:32.4954396+00:00",
-  "LastChanged_Achievements": "2024-01-12T11:05:26.9410179+00:00",
+  "LastChanged_Achievements": "2024-01-12T12:05:01.2448772+00:00",
   "LastUpdate_AppInfo": "2024-01-10T04:57:09.7051995+00:00",
   "LastUpdate_Ratings": "2024-01-12T11:02:45.7666218+00:00",
-  "LastUpdate_Achievements": "2024-01-12T11:05:26.9410871+00:00"
+  "LastUpdate_Achievements": "2024-01-12T12:05:01.244942+00:00"
 }

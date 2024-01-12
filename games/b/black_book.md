@@ -6,15 +6,15 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~19,293 |
-| Student | 22.00% | ~14,636 |
-| Knower | 16.00% | ~10,644 |
-| Listener | 15.00% | ~9,979 |
+| Initiation | 29.00% | ~19,294 |
+| Student | 22.00% | ~14,637 |
+| Knower | 16.00% | ~10,645 |
+| Listener | 15.00% | ~9,980 |
 | Aspen Tree | 14.00% | ~9,314 |
 | Healer | 14.00% | ~9,314 |
-| Scientist | 12.00% | ~7,983 |
-| Soldier | 12.00% | ~7,983 |
-| Cow Level | 11.00% | ~7,318 |
+| Scientist | 12.00% | ~7,984 |
+| Soldier | 12.00% | ~7,984 |
+| Cow Level | 11.00% | ~7,319 |
 | Old Friend | 10.00% | ~6,653 |
 | Herbalist | 10.00% | ~6,653 |
 | Water | 10.00% | ~6,653 |
@@ -23,9 +23,9 @@ Number of Ratings: 96  (23.09.2022)
 | Collector | 9.00% | ~5,988 |
 | Wolf | 9.00% | ~5,988 |
 | Black Mage | 9.00% | ~5,988 |
-| Card Player | 8.00% | ~5,322 |
-| Dead Friend | 8.00% | ~5,322 |
-| Pine Tree | 8.00% | ~5,322 |
+| Card Player | 8.00% | ~5,323 |
+| Dead Friend | 8.00% | ~5,323 |
+| Pine Tree | 8.00% | ~5,323 |
 | Worthy | 7.00% | ~4,657 |
 | Black Book | 7.00% | ~4,657 |
 | Black Sorcerer | 7.00% | ~4,657 |
@@ -41,8 +41,8 @@ Number of Ratings: 96  (23.09.2022)
 | Sinner | 6.00% | ~3,992 |
 | Folklorist | 6.00% | ~3,992 |
 | Keeper of Knowledge | 6.00% | ~3,992 |
-| Susanin | 5.00% | ~3,326 |
-| Traveller | 5.00% | ~3,326 |
+| Susanin | 5.00% | ~3,327 |
+| Traveller | 5.00% | ~3,327 |
 | Righteous | 4.00% | ~2,661 |
 | Musician | 4.00% | ~2,661 |
 | Koldun | 4.00% | ~2,661 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,331 |
 | Word Master | 0.20% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,528 (Ranked 117)  
+Progressed: 66,532 (Ranked 117)  
 Completed: 70 (0.11%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 70 (0.11%) (Ranked 308)
 | 2024-01-09 | 66,170 | 69 |
 | 2024-01-10 | 66,325 | 69 |
 | 2024-01-11 | 66,474 | 69 |
-| 2024-01-12 | 66,528 | 70 |
+| 2024-01-12 | 66,532 | 70 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -709,9 +709,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473726,
+  "EOS_Progressed": 473728,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 340,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28284,6 +28284,11 @@
       "Time": "2024-01-12T11:10:27.6904036+00:00",
       "NumProgressed": 473726,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-12T12:10:03.7401556+00:00",
+      "NumProgressed": 473728,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -28311,7 +28316,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113694
+      "UsersEstimate": 113695
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -28383,7 +28388,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312659
+      "UsersEstimate": 312660
     },
     {
       "ID": "achievement_story_landa",
@@ -28471,7 +28476,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94745
+      "UsersEstimate": 94746
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -28479,7 +28484,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 161067
+      "UsersEstimate": 161068
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -28719,7 +28724,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208439
+      "UsersEstimate": 208440
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -28751,7 +28756,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184753
+      "UsersEstimate": 184754
     },
     {
       "ID": "achievement_win_run_hard",
@@ -28926,21 +28931,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17660,
+      "Progressed": 17662,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473726,
+      "Progressed": 473728,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-12T11:10:27.6904031+00:00",
+  "LastChanged_Achievements": "2024-01-12T12:10:03.7401553+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:31.2733774+00:00",
-  "LastUpdate_Ratings": "2024-01-12T10:58:09.343703+00:00",
-  "LastUpdate_Achievements": "2024-01-12T11:10:27.6906111+00:00"
+  "LastUpdate_Ratings": "2024-01-12T11:58:04.0600856+00:00",
+  "LastUpdate_Achievements": "2024-01-12T12:10:03.7403486+00:00"
 }

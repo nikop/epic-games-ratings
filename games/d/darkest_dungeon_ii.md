@@ -17,16 +17,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 6.00% | ~7,952 |
 | Ploughshares to Swords | 6.00% | ~444 |
 | Bloody Graduation | 6.00% | ~444 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,626 |
-| It Rings a Bell | 5.00% | ~6,626 |
-| Not Today! | 5.00% | ~6,626 |
-| Meat and Greet | 5.00% | ~6,626 |
-| Catch and Decease | 5.00% | ~6,626 |
-| It Happens | 5.00% | ~6,626 |
-| Rush Hour | 5.00% | ~6,626 |
-| To Grandmother's House | 5.00% | ~6,626 |
-| A Place to Lay Your Head | 5.00% | ~6,626 |
-| FNG | 5.00% | ~6,626 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,627 |
+| It Rings a Bell | 5.00% | ~6,627 |
+| Not Today! | 5.00% | ~6,627 |
+| Meat and Greet | 5.00% | ~6,627 |
+| Catch and Decease | 5.00% | ~6,627 |
+| It Happens | 5.00% | ~6,627 |
+| Rush Hour | 5.00% | ~6,627 |
+| To Grandmother's House | 5.00% | ~6,627 |
+| A Place to Lay Your Head | 5.00% | ~6,627 |
+| FNG | 5.00% | ~6,627 |
 | Spelunker | 4.00% | ~5,301 |
 | Merry Time | 4.00% | ~5,301 |
 | Harvest Festival | 4.00% | ~5,301 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,528 (Ranked 91)  
+Progressed: 132,532 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 4 (0.00%) (Ranked 399)
 | 2024-01-09 | 132,315 | 3 |
 | 2024-01-10 | 132,395 | 4 |
 | 2024-01-11 | 132,491 | 4 |
-| 2024-01-12 | 132,528 | 4 |
+| 2024-01-12 | 132,532 | 4 |
 ## Awards
 Max (Character Customization): 8,002  (Ranked 51)  
 Sum: 21,598 (Ranked 58)  
