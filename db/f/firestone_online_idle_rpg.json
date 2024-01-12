@@ -3,11 +3,11 @@
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 1021,
-  "Ranking_Popularity": 483,
+  "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -763,9 +763,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4433,
+  "EOS_Progressed": 4435,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12413,6 +12413,11 @@
       "Time": "2024-01-12T16:03:43.0864209+00:00",
       "NumProgressed": 4433,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-12T17:04:21.4518836+00:00",
+      "NumProgressed": 4435,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -12536,7 +12541,7 @@
       "Name": "Dragon Master",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "dragonslayer",
@@ -12592,7 +12597,7 @@
       "Name": "Enlightenment",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "exoticmerchant",
@@ -12600,7 +12605,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "fellowshippower",
@@ -12656,7 +12661,7 @@
       "Name": "Guild Power",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "herewegoagain",
@@ -12672,7 +12677,7 @@
       "Name": "Hero inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "howdoyouturnthison",
@@ -12752,7 +12757,7 @@
       "Name": "Milestone collector",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "minerclicker",
@@ -12816,7 +12821,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2305
+      "UsersEstimate": 2306
     },
     {
       "ID": "prestigiousx10",
@@ -12880,7 +12885,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2482
+      "UsersEstimate": 2484
     },
     {
       "ID": "thealchemist",
@@ -12984,7 +12989,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4123
+      "UsersEstimate": 4125
     },
     {
       "ID": "warmachinesarmy",
@@ -13016,14 +13021,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3458
+      "UsersEstimate": 3459
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4433,
+      "Progressed": 4435,
       "Completed": 2
     }
   ],
@@ -13031,8 +13036,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-11T22:58:21.9638016+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:03:43.0864206+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:04:21.4518834+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:00.5947712+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:58:39.6838168+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:03:43.0865303+00:00"
+  "LastUpdate_Ratings": "2024-01-12T16:59:18.0273867+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:04:21.451981+00:00"
 }

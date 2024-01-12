@@ -4,7 +4,7 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
@@ -598,9 +598,9 @@
       "ID": "HauntingSpecter",
       "SetID": "7m88n8p",
       "Name": "Haunting Specter",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "HeartHurt",
@@ -646,9 +646,9 @@
       "ID": "Letters",
       "SetID": "7m88n8p",
       "Name": "Conveying Love through Letters",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "LoveCrawler",
@@ -757,8 +757,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:06:03.0024281+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:07:25.3936392+00:00",
   "LastUpdate_AppInfo": "2024-01-08T15:56:55.2153552+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:59:41.4943967+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:06:03.0024439+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:00:40.7382523+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:07:25.3936501+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.70 (Ranked 220)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 47.00% | ~616 |
+| Time Heals All Wounds | 47.00% | ~617 |
 | Rail Rat | 35.00% | ~459 |
 | The Mysterious Stranger | 34.00% | ~446 |
 | Immaculate Aim | 29.00% | ~380 |
@@ -22,9 +22,9 @@ Rating: 4.70 (Ranked 220)
 | Right On Time | 23.00% | ~302 |
 | Breaking Down Barriers | 23.00% | ~302 |
 | The Wicked Twins | 23.00% | ~302 |
-| The Betrayer | 22.00% | ~288 |
-| Golem Chaser | 22.00% | ~288 |
-| Like Clockwork | 21.00% | ~275 |
+| Golem Chaser | 22.00% | ~289 |
+| Like Clockwork | 21.00% | ~276 |
+| The Betrayer | 21.00% | ~276 |
 | The Loose Cannon | 20.00% | ~262 |
 | Check Your Pulse | 20.00% | ~262 |
 | Street Style | 18.00% | ~236 |
@@ -33,9 +33,9 @@ Rating: 4.70 (Ranked 220)
 | Whiz Kid | 15.00% | ~197 |
 | Good Neighbor | 15.00% | ~197 |
 | Family Memories | 14.00% | ~184 |
-| Chaincrawler Explorer | 13.00% | ~170 |
-| Syron for Hope | 13.00% | ~170 |
-| Ask Questions Later | 13.00% | ~170 |
+| Chaincrawler Explorer | 13.00% | ~171 |
+| Syron for Hope | 13.00% | ~171 |
+| Ask Questions Later | 13.00% | ~171 |
 | Treasure Trove | 12.00% | ~157 |
 | Cartographer | 12.00% | ~157 |
 | Sump Explorer | 12.00% | ~157 |
@@ -59,7 +59,7 @@ Rating: 4.70 (Ranked 220)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,311 (Ranked 281)  
+Progressed: 1,312 (Ranked 281)  
 Completed: 8 (0.61%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 8 (0.61%) (Ranked 209)
 | 2024-01-09 | 1,289 | 7 |
 | 2024-01-10 | 1,300 | 7 |
 | 2024-01-11 | 1,306 | 8 |
-| 2024-01-12 | 1,311 | 8 |
+| 2024-01-12 | 1,312 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

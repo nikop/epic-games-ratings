@@ -23,9 +23,9 @@
 | What's the cargo? | 6.00% | ~174 |
 | A cunning warrior | 6.00% | ~174 |
 | "Gonk? Gonk!" | 5.00% | ~145 |
+| Impressive. Most impressive. | 5.00% | ~145 |
 | Judge me by my size, do you? | 5.00% | ~145 |
 | Distinguished | 4.00% | ~116 |
-| Impressive. Most impressive. | 4.00% | ~116 |
 | Not bad for a little furball | 4.00% | ~116 |
 | Support the troops | 4.00% | ~116 |
 | A tremor in the Force | 3.00% | ~87 |

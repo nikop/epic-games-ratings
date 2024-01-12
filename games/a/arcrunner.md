@@ -7,14 +7,14 @@
 | Augmented | 37.00% | ~350 |
 | Challenge Accepted | 30.00% | ~284 |
 | Terminated I | 30.00% | ~284 |
-| Nanonic I | 29.00% | ~274 |
+| Nanonic I | 29.00% | ~275 |
 | Unlocked and Loaded | 28.00% | ~265 |
-| Terminated II | 23.00% | ~217 |
+| Terminated II | 23.00% | ~218 |
 | The City | 20.00% | ~189 |
 | Terminated III | 18.00% | ~170 |
 | Challenge Mastered | 17.00% | ~161 |
 | Nanonic II | 15.00% | ~142 |
-| Fully Modded | 12.00% | ~113 |
+| Fully Modded | 12.00% | ~114 |
 | Starship Docks | 11.00% | ~104 |
 | Nanonic III | 11.00% | ~104 |
 | Rookie | 11.00% | ~104 |
@@ -34,7 +34,7 @@
 | Cyborg | 0.20% | ~2 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 945 (Ranked 302)  
+Progressed: 947 (Ranked 302)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-08 | 938 | 0 |
 | 2024-01-09 | 939 | 0 |
 | 2024-01-10 | 944 | 0 |
-| 2024-01-12 | 945 | 0 |
+| 2024-01-12 | 947 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

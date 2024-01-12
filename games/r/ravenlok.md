@@ -8,7 +8,7 @@
 | Waff! | 95.00% | ~1,124 |
 | Into the Barn | 87.00% | ~1,029 |
 | A Prophecy | 85.00% | ~1,006 |
-| Sword, Shield, Fight! | 75.00% | ~887 |
+| Sword, Shield, Fight! | 76.00% | ~899 |
 | A Grand Visit | 72.00% | ~852 |
 | Vibing | 62.00% | ~733 |
 | Fun Guy | 62.00% | ~733 |

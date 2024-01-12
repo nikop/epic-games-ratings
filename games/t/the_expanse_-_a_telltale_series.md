@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.53 (Ranked 566)  
+Rating: 4.53 (Ranked 567)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,8 +15,8 @@ Rating: 4.53 (Ranked 566)
 | Spore Taste | 12.00% | ~2,268 |
 | Drone Dodger | 12.00% | ~2,268 |
 | Stogie for Fogey | 11.00% | ~2,079 |
-| Safe Cracker | 10.00% | ~485 |
-| Zen Master | 10.00% | ~485 |
+| Safe Cracker | 10.00% | ~486 |
+| Zen Master | 10.00% | ~486 |
 | Call it Even | 9.00% | ~1,701 |
 | Madame Undersecretary | 9.00% | ~437 |
 | Heal Thy Medic | 8.00% | ~1,512 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 566)
 | Scavenger Star | 0.30% | ~57 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,899 (Ranked 159)  
+Progressed: 18,901 (Ranked 159)  
 Completed: 63 (0.33%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 63 (0.33%) (Ranked 253)
 | 2024-01-09 | 18,754 | 61 |
 | 2024-01-10 | 18,829 | 62 |
 | 2024-01-11 | 18,866 | 63 |
-| 2024-01-12 | 18,899 | 63 |
+| 2024-01-12 | 18,901 | 63 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

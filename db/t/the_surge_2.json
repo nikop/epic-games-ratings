@@ -6,7 +6,7 @@
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 238,
-  "Ranking_EOS_Completed": 223,
+  "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
@@ -300,11 +300,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2574,
+  "EOS_Progressed": 2575,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.51,
+  "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:46.0038697+00:00",
@@ -4695,6 +4695,11 @@
       "Time": "2024-01-12T16:05:33.8290667+00:00",
       "NumProgressed": 2574,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-12T17:06:47.4837425+00:00",
+      "NumProgressed": 2575,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4714,7 +4719,7 @@
       "Name": "Jailbreak",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "ACHV_03",
@@ -4730,7 +4735,7 @@
       "Name": "Overheated",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "ACHV_05",
@@ -4754,7 +4759,7 @@
       "Name": "Court Martial",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ACHV_08",
@@ -4802,7 +4807,7 @@
       "Name": "Own Medicine",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHV_14",
@@ -4826,7 +4831,7 @@
       "Name": "It Lives! It Sniffs! It Conquers!",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHV_17",
@@ -4866,7 +4871,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHV_22",
@@ -4882,7 +4887,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "ACHV_24",
@@ -4890,7 +4895,7 @@
       "Name": "Gotta Craft \u0027em All",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHV_25",
@@ -4922,7 +4927,7 @@
       "Name": "Clean Cut",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ACHV_29",
@@ -4930,7 +4935,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHV_30",
@@ -4968,9 +4973,9 @@
       "ID": "ACHV_34",
       "SetID": "8p5mlmc",
       "Name": "Shocking",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 515
+      "UsersEstimate": 489
     },
     {
       "ID": "ACHV_35",
@@ -4978,7 +4983,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "ACHV_36",
@@ -5010,7 +5015,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1930
+      "UsersEstimate": 1931
     },
     {
       "ID": "ACHV_40",
@@ -5026,7 +5031,7 @@
       "Name": "Suited and Booted",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "ACHV_42",
@@ -5090,7 +5095,7 @@
       "Name": "Box Office Smash",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHV_50",
@@ -5122,7 +5127,7 @@
       "Name": "Going Postal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHV_54",
@@ -5154,14 +5159,14 @@
       "Name": "Loot, Pillage \u0026 Craft",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     }
   ],
   "AchievementSets": [
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2574,
+      "Progressed": 2575,
       "Completed": 13
     }
   ],
@@ -5169,8 +5174,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-07T10:02:57.9512677+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:05:33.8290664+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:06:47.4837423+00:00",
   "LastUpdate_AppInfo": "2024-01-06T17:57:07.4256179+00:00",
-  "LastUpdate_Ratings": "2024-01-12T16:02:49.047616+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:05:33.8291161+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:03:05.925011+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:06:47.4838002+00:00"
 }

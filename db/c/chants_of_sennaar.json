@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -127,11 +127,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2712,
-  "EOS_Completed": 198,
-  "EOS_NewPlayers": 308,
-  "EOS_NewCompleters": 44,
-  "EOS_Completed_Percentage": 7.3,
+  "EOS_Progressed": 2713,
+  "EOS_Completed": 199,
+  "EOS_NewPlayers": 304,
+  "EOS_NewCompleters": 45,
+  "EOS_Completed_Percentage": 7.34,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -7147,6 +7147,11 @@
       "Time": "2024-01-12T16:04:37.4946752+00:00",
       "NumProgressed": 2712,
       "NumCompleted": 198
+    },
+    {
+      "Time": "2024-01-12T17:05:33.0213086+00:00",
+      "NumProgressed": 2713,
+      "NumCompleted": 199
     }
   ],
   "TotalAchievements": 25,
@@ -7158,7 +7163,7 @@
       "Name": "I did it",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "END_GOOD",
@@ -7182,7 +7187,7 @@
       "Name": "Cable guy",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "META_FIRST_LINK",
@@ -7198,7 +7203,7 @@
       "Name": "Half the way",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "META_RESULT_1-2",
@@ -7278,7 +7283,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1194
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -7300,9 +7305,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1628
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7334,7 +7339,7 @@
       "Name": "A new dawn",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "PROGRESS_N4",
@@ -7348,25 +7353,25 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 786
+      "UsersEstimate": 760
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2712,
-      "Completed": 198
+      "Progressed": 2713,
+      "Completed": 199
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:04:37.4946749+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:05:33.0213084+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:57:20.9375141+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:04:37.4947321+00:00"
+  "LastUpdate_Ratings": "2024-01-12T16:57:30.7136339+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:05:33.0213468+00:00"
 }

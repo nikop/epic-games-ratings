@@ -2139,10 +2139,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 636,
       "NumberOfAwardsMax": 131
+    },
+    {
+      "Time": "2024-01-12T17:03:39.9523788+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 640,
+      "NumberOfAwardsMax": 131
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 636,
+  "NumberOfAwards": 640,
   "NumberOfAwardsMax": 131,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -2150,7 +2156,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 118
+      "Count": 122
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2189,9 +2195,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 22209,
+  "EOS_Progressed": 22212,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1105,
+  "EOS_NewPlayers": 1099,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13619,6 +13625,11 @@
       "Time": "2024-01-12T16:09:42.3371387+00:00",
       "NumProgressed": 22209,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-12T17:10:27.9176536+00:00",
+      "NumProgressed": 22212,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13662,7 +13673,7 @@
       "Name": "Flesh Wound",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 5774
+      "UsersEstimate": 5775
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -13734,7 +13745,7 @@
       "Name": "Get a Grip",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 4886
+      "UsersEstimate": 4887
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -13742,7 +13753,7 @@
       "Name": "In Striking Distance",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "KILL_2HEAD",
@@ -13774,7 +13785,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 3553
+      "UsersEstimate": 3554
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -13782,7 +13793,7 @@
       "Name": "The Commonality",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -13806,7 +13817,7 @@
       "Name": "Paper Jams",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5108
+      "UsersEstimate": 5109
     },
     {
       "ID": "SHARE_PHOTO",
@@ -13822,7 +13833,7 @@
       "Name": "The Outer Way",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 5996
+      "UsersEstimate": 5997
     },
     {
       "ID": "STORY_ESCAPE",
@@ -13838,7 +13849,7 @@
       "Name": "Without A Paddle",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3109
+      "UsersEstimate": 3110
     },
     {
       "ID": "STORY_HANGAR",
@@ -13862,7 +13873,7 @@
       "Name": "Desperate Times",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5552
+      "UsersEstimate": 5553
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -13982,7 +13993,7 @@
       "Name": "Keep Fighting",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -14005,22 +14016,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22209,
+      "Progressed": 22212,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10135,
+      "Progressed": 10138,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-01-12T12:03:19.5670506+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:09:42.3371385+00:00",
+  "LastChanged": "2024-01-12T17:03:39.9523787+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:10:27.9176534+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-12T16:03:13.5089615+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:09:42.3372094+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:03:39.9523791+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:10:27.9177378+00:00"
 }

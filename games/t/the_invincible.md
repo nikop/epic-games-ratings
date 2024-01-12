@@ -1,41 +1,41 @@
 # The Invincible
 [Store](https://store.epicgames.com/en-US/p/the-invincible)  
 [View Rawdata](../../db/t/the_invincible.json)  
-Rating: 4.53 (Ranked 566)  
+Rating: 4.55 (Ranked 530)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Camp | 70.00% | ~1,149 |
-| The Teleprobe | 56.00% | ~919 |
-| The City | 50.00% | ~820 |
-| The field base | 45.00% | ~738 |
+| The Teleprobe | 56.00% | ~920 |
+| The City | 51.00% | ~837 |
+| The field base | 45.00% | ~739 |
 | The Alliance | 43.00% | ~706 |
-| Survivors | 40.00% | ~656 |
+| Survivors | 40.00% | ~657 |
 | The Condor | 38.00% | ~624 |
 | The End | 38.00% | ~624 |
-| The Necroevolution | 30.00% | ~492 |
-| Krauta is alive | 28.00% | ~459 |
+| The Necroevolution | 30.00% | ~493 |
+| Krauta is alive | 28.00% | ~460 |
 | On her own | 22.00% | ~361 |
-| Fierce fight | 22.00% | ~361 |
 | Peacemaker | 22.00% | ~361 |
 | Volcanologist | 22.00% | ~361 |
+| Fierce fight | 21.00% | ~345 |
 | Evacuation | 21.00% | ~345 |
-| Beyond divisions | 18.00% | ~295 |
+| Beyond divisions | 18.00% | ~296 |
 | Flying Objects Operator | 17.00% | ~279 |
 | Another giant | 14.00% | ~230 |
 | I remember everything! | 13.00% | ~213 |
 | Violent solution | 10.00% | ~164 |
 | I leave no man behind | 9.00% | ~148 |
 | Innate curiosity | 7.00% | ~115 |
-| Ubiquitous holes | 6.00% | ~98 |
-| The Invincible | 6.00% | ~98 |
-| Strong objection | 6.00% | ~98 |
+| Ubiquitous holes | 6.00% | ~99 |
+| The Invincible | 6.00% | ~99 |
+| Strong objection | 6.00% | ~99 |
 | Got lost again | 5.00% | ~82 |
 | I leave no man behind (no exceptions) | 2.00% | ~33 |
 | Convoy list | 0.90% | ~15 |
 | No more mistakes | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,641 (Ranked 265)  
+Progressed: 1,642 (Ranked 265)  
 Completed: 1 (0.06%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 1 (0.06%) (Ranked 333)
 | 2024-01-09 | 1,579 | 1 |
 | 2024-01-10 | 1,615 | 1 |
 | 2024-01-11 | 1,635 | 1 |
-| 2024-01-12 | 1,641 | 1 |
+| 2024-01-12 | 1,642 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -120,3 +120,4 @@ Completed: 1 (0.06%) (Ranked 333)
 | 2024-01-08 | 4.59 | 0 | 0 |
 | 2024-01-09 | 4.60 | 0 | 0 |
 | 2024-01-11 | 4.53 | 0 | 0 |
+| 2024-01-12 | 4.55 | 0 | 0 |

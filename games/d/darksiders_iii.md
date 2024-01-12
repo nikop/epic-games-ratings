@@ -6,28 +6,28 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~436 |
-| First of many… | 68.00% | ~385 |
-| Helping Hand | 64.00% | ~362 |
+| Green with Envy | 77.00% | ~437 |
+| First of many… | 68.00% | ~386 |
+| Helping Hand | 64.00% | ~363 |
 | Increased Vigor | 60.00% | ~340 |
-| Fight Fire with Fire | 58.00% | ~328 |
-| Increased Capacity | 55.00% | ~311 |
-| Just the start | 49.00% | ~277 |
-| Perfect Storm | 45.00% | ~255 |
+| Fight Fire with Fire | 58.00% | ~329 |
+| Increased Capacity | 55.00% | ~312 |
+| Just the start | 49.00% | ~278 |
+| Perfect Storm | 46.00% | ~261 |
 | All That Glitters | 45.00% | ~255 |
 | Enhance! | 41.00% | ~232 |
-| One Of the Chosen | 40.00% | ~226 |
+| One Of the Chosen | 40.00% | ~227 |
 | Devil's in the Details | 39.00% | ~221 |
 | Throne Potato | 39.00% | ~221 |
 | Five's a Crowd | 39.00% | ~221 |
 | 25 to Life | 39.00% | ~221 |
-| Salvation | 37.00% | ~209 |
+| Salvation | 37.00% | ~210 |
 | Soul Harvester | 36.00% | ~204 |
 | Unshakable Fortitude | 35.00% | ~198 |
-| Delusions of Grandeur | 34.00% | ~192 |
+| Delusions of Grandeur | 34.00% | ~193 |
 | I Wanna Rock | 33.00% | ~187 |
 | Love Tap | 32.00% | ~181 |
-| Maximum Vigor | 31.00% | ~175 |
+| Maximum Vigor | 31.00% | ~176 |
 | Freeze Frame | 30.00% | ~170 |
 | Eat Your Heart Out | 30.00% | ~170 |
 | For Whom the Bell Tolls | 29.00% | ~164 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 1.00% | ~6 |
 | Quite Proper | 0.90% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 566 (Ranked 345)  
+Progressed: 567 (Ranked 345)  
 Completed: 2 (0.35%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 2 (0.35%) (Ranked 248)
 | 2024-01-09 | 525 | 2 |
 | 2024-01-10 | 542 | 2 |
 | 2024-01-11 | 557 | 2 |
-| 2024-01-12 | 566 | 2 |
+| 2024-01-12 | 567 | 2 |
 ## Awards
 Max (Great Boss Battles): 98  (Ranked 384)  
 Sum: 98 (Ranked 471)  

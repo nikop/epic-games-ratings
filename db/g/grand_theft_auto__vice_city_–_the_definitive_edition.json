@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 566,
+  "Ranking_Rating": 567,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1062,9 +1062,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16290,
+  "EOS_Progressed": 16295,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 843,
+  "EOS_NewPlayers": 844,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -17922,6 +17922,11 @@
       "Time": "2024-01-12T16:09:51.1677681+00:00",
       "NumProgressed": 16290,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2024-01-12T17:10:39.2193999+00:00",
+      "NumProgressed": 16295,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 34,
@@ -17949,7 +17954,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1629
+      "UsersEstimate": 1630
     },
     {
       "ID": "ACH04",
@@ -17957,7 +17962,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "ACH05",
@@ -18005,7 +18010,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "ACH11",
@@ -18021,7 +18026,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "ACH13",
@@ -18037,7 +18042,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6842
+      "UsersEstimate": 6844
     },
     {
       "ID": "ACH15",
@@ -18061,7 +18066,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1467
     },
     {
       "ID": "ACH18",
@@ -18093,7 +18098,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7656
+      "UsersEstimate": 7659
     },
     {
       "ID": "ACH22",
@@ -18101,7 +18106,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3421
+      "UsersEstimate": 3422
     },
     {
       "ID": "ACH23",
@@ -18109,7 +18114,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 4235
+      "UsersEstimate": 4237
     },
     {
       "ID": "ACH24",
@@ -18133,7 +18138,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2606
+      "UsersEstimate": 2607
     },
     {
       "ID": "ACH27",
@@ -18141,7 +18146,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "ACH28",
@@ -18149,7 +18154,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "ACH29",
@@ -18165,7 +18170,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1467
     },
     {
       "ID": "ACH31",
@@ -18204,7 +18209,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16290,
+      "Progressed": 16295,
       "Completed": 97
     }
   ],
@@ -18212,8 +18217,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-12T14:59:31.064813+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:09:51.1677676+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:10:39.2193994+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:12.9251558+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:58:42.6276743+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:09:51.1678541+00:00"
+  "LastUpdate_Ratings": "2024-01-12T16:59:22.3576358+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:10:39.2195167+00:00"
 }

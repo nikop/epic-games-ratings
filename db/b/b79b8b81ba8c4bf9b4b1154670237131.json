@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16610,
+  "EOS_Progressed": 16611,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6460,6 +6460,11 @@
       "Time": "2024-01-12T15:10:12.3217978+00:00",
       "NumProgressed": 16610,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-12T17:10:18.059832+00:00",
+      "NumProgressed": 16611,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6488,7 +6493,7 @@
       "Name": "One-Track Mind",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "ACH_AE_12",
@@ -6560,7 +6565,7 @@
       "Name": "Back to School",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3986
+      "UsersEstimate": 3987
     },
     {
       "ID": "ACH_AE_20",
@@ -6584,7 +6589,7 @@
       "Name": "The High Road",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3986
+      "UsersEstimate": 3987
     },
     {
       "ID": "ACH_AE_23",
@@ -6742,16 +6747,16 @@
       "ID": "ACH_AE_9",
       "SetID": "ck3465",
       "Name": "Paradise Lost",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1495
     }
   ],
   "AchievementSets": [
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16610,
+      "Progressed": 16611,
       "Completed": 15
     }
   ],
@@ -6759,8 +6764,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-06T19:57:04.811996+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:09:35.4079373+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:10:18.0598312+00:00",
   "LastUpdate_AppInfo": "2024-01-09T19:56:59.6965527+00:00",
-  "LastUpdate_Ratings": "2024-01-12T16:00:01.6322828+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:09:35.4079792+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:01:11.0667129+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:10:18.0599013+00:00"
 }

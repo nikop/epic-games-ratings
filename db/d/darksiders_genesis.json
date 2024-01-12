@@ -2,12 +2,12 @@
   "ID": "9bcf72043732431397782f3a32efbbd5",
   "Name": "Darksiders Genesis",
   "ProductSlug": "darksiders-genesis",
-  "Ranking_Rating": 638,
+  "Ranking_Rating": 639,
   "Ranking_Popularity": 473,
   "Ranking_PopularitySum": 520,
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
@@ -445,9 +445,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 615,
+  "EOS_Progressed": 616,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2190,6 +2190,11 @@
       "Time": "2024-01-12T15:10:41.7334914+00:00",
       "NumProgressed": 615,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T17:10:47.2431699+00:00",
+      "NumProgressed": 616,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -2424,7 +2429,7 @@
       "ID": "WhydItHavetoBeSnakes",
       "SetID": "329ak73",
       "Name": "Why\u0027d It Have to Be Snakes?",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -2441,15 +2446,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 615,
+      "Progressed": 616,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:09:57.5857589+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:10:47.2431695+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.460117+00:00",
-  "LastUpdate_Ratings": "2024-01-12T16:00:07.4407552+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:09:57.5857845+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:01:18.4335697+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:10:47.243192+00:00"
 }

@@ -27,8 +27,8 @@ Rating: 4.56 (Ranked 511)
 | Sidelined | 17.00% | ~33 |
 | Wise man | 16.00% | ~31 |
 | The fourth triplet | 16.00% | ~31 |
+| Fence | 16.00% | ~31 |
 | Hard worker | 15.00% | ~29 |
-| Fence | 15.00% | ~29 |
 | Ghost hunter | 14.00% | ~27 |
 | Master detective | 14.00% | ~27 |
 | Pandora's box | 13.00% | ~25 |

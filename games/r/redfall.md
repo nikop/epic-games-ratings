@@ -14,13 +14,13 @@ Rating: 3.68 (Ranked 1,096)
 | Ne Plus Ultra | 13.00% | ~308 |
 | Fly Fisher | 12.00% | ~284 |
 | Peek-a-boo | 12.00% | ~284 |
-| Sucks To Be You | 11.00% | ~260 |
+| Sucks To Be You | 11.00% | ~261 |
 | Enter of Your Own Free Will | 10.00% | ~237 |
 | Welcome to the Neighborhood | 10.00% | ~237 |
 | Throw The First Stone | 10.00% | ~237 |
 | Heart Attack | 9.00% | ~213 |
-| Grounded | 8.00% | ~189 |
-| Skin of Their Teeth | 8.00% | ~189 |
+| Grounded | 8.00% | ~190 |
+| Skin of Their Teeth | 8.00% | ~190 |
 | Bad Wiring | 7.00% | ~166 |
 | Neighborhood Revitalization | 6.00% | ~142 |
 | Radio Silence | 6.00% | ~142 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,096)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,368 (Ranked 243)  
+Progressed: 2,369 (Ranked 243)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 2,331 | 0 |
 | 2024-01-10 | 2,353 | 0 |
 | 2024-01-11 | 2,366 | 0 |
-| 2024-01-12 | 2,368 | 0 |
+| 2024-01-12 | 2,369 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 555)  
 Sum: 24 (Ranked 563)  

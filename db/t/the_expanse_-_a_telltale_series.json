@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 566,
+  "Ranking_Rating": 567,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 159,
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18899,
+  "EOS_Progressed": 18901,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 629,
+  "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -17138,6 +17138,11 @@
       "Time": "2024-01-12T16:03:34.1561182+00:00",
       "NumProgressed": 18899,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-12T17:04:09.5852341+00:00",
+      "NumProgressed": 18901,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17398,7 +17403,7 @@
       "Name": "Safe Cracker",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "33",
@@ -17406,7 +17411,7 @@
       "Name": "Zen Master",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "34",
@@ -17429,13 +17434,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18899,
+      "Progressed": 18901,
       "Completed": 63
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4853,
+      "Progressed": 4855,
       "Completed": 1296
     }
   ],
@@ -17443,8 +17448,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-11T01:50:11.8166633+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:03:34.1561178+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:04:09.5852339+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:57:00.5599268+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:03:34.1562276+00:00"
+  "LastUpdate_Ratings": "2024-01-12T16:57:03.4376031+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:04:09.5853192+00:00"
 }

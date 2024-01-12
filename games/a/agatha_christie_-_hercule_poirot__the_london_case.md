@@ -36,9 +36,9 @@
 | A curious phrase | 21.00% | ~23 |
 | Evelyn Lakshmi Warbeck | 21.00% | ~23 |
 | The Suspects | 21.00% | ~23 |
-| Horace Mountjoy | 19.00% | ~21 |
+| Horace Mountjoy | 20.00% | ~22 |
+| The Secrets | 20.00% | ~22 |
 | Johan Kristiansen | 19.00% | ~21 |
-| The Secrets | 19.00% | ~21 |
 | A peculiar fellow | 18.00% | ~20 |
 | Mortimer Ailsworth | 18.00% | ~20 |
 | Well-travelled | 17.00% | ~19 |
@@ -48,7 +48,7 @@
 | The Penitent Magdalene | 15.00% | ~16 |
 | A true performance | 15.00% | ~16 |
 | The Denouement | 13.00% | ~14 |
-| A perilous journey | 10.00% | ~11 |
+| A perilous journey | 11.00% | ~12 |
 | Perkins | 6.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 110 (Ranked 489)  

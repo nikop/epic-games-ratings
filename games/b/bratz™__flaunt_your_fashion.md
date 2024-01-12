@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Welcome to Stilesville | 97.00% | ~158 |
 | Talented Performer | 58.00% | ~95 |
-| Welcome to Barcelona | 56.00% | ~91 |
+| Welcome to Barcelona | 57.00% | ~93 |
 | We will need a bigger wardrobe | 42.00% | ~68 |
 | Roller Race | 40.00% | ~65 |
 | Born to Win | 38.00% | ~62 |

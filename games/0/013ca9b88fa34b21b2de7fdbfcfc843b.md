@@ -14,10 +14,10 @@ Rating: 4.64 (Ranked 344)
 | Humble Collector | 3.00% | ~270 |
 | Bramble Breaker | 3.00% | ~270 |
 | Open the Gate! | 2.00% | ~180 |
+| Clear the Air | 2.00% | ~180 |
 | Lumberjack | 2.00% | ~180 |
 | Mist Walker | 2.00% | ~180 |
 | Oui, Chef! | 2.00% | ~180 |
-| Clear the Air | 1.00% | ~90 |
 | Search for the Hairy Grell | 1.00% | ~90 |
 | Beach Comber | 1.00% | ~90 |
 | Higher Tax Bracket | 1.00% | ~90 |
@@ -49,7 +49,7 @@ Rating: 4.64 (Ranked 344)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,998 (Ranked 186)  
+Progressed: 9,000 (Ranked 186)  
 Completed: 1 (0.01%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 1 (0.01%) (Ranked 375)
 | 2024-01-09 | 8,971 | 1 |
 | 2024-01-10 | 8,987 | 1 |
 | 2024-01-11 | 8,992 | 1 |
-| 2024-01-12 | 8,998 | 1 |
+| 2024-01-12 | 9,000 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

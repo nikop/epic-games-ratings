@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -1033,9 +1033,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4383,
+  "EOS_Progressed": 4384,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8553,6 +8553,11 @@
       "Time": "2024-01-12T11:08:50.3601262+00:00",
       "NumProgressed": 4383,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T17:09:03.2465704+00:00",
+      "NumProgressed": 4384,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -8597,7 +8602,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2324
     },
     {
       "ID": "achievement_14",
@@ -8613,7 +8618,7 @@
       "Name": "MVP",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2324
     },
     {
       "ID": "achievement_16",
@@ -8653,7 +8658,7 @@
       "Name": "Unblockable",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "achievement_20",
@@ -8732,7 +8737,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4383,
+      "Progressed": 4384,
       "Completed": 0
     }
   ],
@@ -8740,8 +8745,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-09T22:00:12.8652525+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:08:36.7260807+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:09:03.2465702+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:34.1147797+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:57:16.75523+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:08:36.7261161+00:00"
+  "LastUpdate_Ratings": "2024-01-12T16:57:24.1343044+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:09:03.2466231+00:00"
 }

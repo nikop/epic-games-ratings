@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9511,10 +9511,10 @@
       "Count": 3635
     }
   ],
-  "EOS_Progressed": 253548,
+  "EOS_Progressed": 253554,
   "EOS_Completed": 2614,
-  "EOS_NewPlayers": 2039,
-  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 1997,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -39806,6 +39806,11 @@
       "Time": "2024-01-12T16:10:15.7106255+00:00",
       "NumProgressed": 253548,
       "NumCompleted": 2614
+    },
+    {
+      "Time": "2024-01-12T17:11:08.7701225+00:00",
+      "NumProgressed": 253554,
+      "NumCompleted": 2614
     }
   ],
   "TotalAchievements": 546,
@@ -41503,9 +41508,9 @@
       "ID": "objective_completed_35",
       "SetID": "cc37lbc",
       "Name": "The Crumbling Temple",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1268
     },
     {
       "ID": "objective_completed_36",
@@ -42961,7 +42966,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2535
+      "UsersEstimate": 2536
     },
     {
       "ID": "objective_completed_70",
@@ -44184,21 +44189,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219822,
+      "Progressed": 219828,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253548,
+      "Progressed": 253554,
       "Completed": 2614
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-12T15:00:30.3477007+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:10:15.7106252+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:11:08.770122+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:59:24.1556+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:10:15.7129944+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:00:17.3060639+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:11:08.7725879+00:00"
 }

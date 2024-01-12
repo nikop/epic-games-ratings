@@ -751,9 +751,9 @@
       "ID": "CgkInO_K3eIdEAIQBA",
       "SetID": "6bj96in",
       "Name": "TRAINING DAY",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "CgkInO_K3eIdEAIQBQ",
@@ -767,17 +767,17 @@
       "ID": "CgkInO_K3eIdEAIQBg",
       "SetID": "6bj96in",
       "Name": "BACK TO THE FUTURE",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "CgkInO_K3eIdEAIQBw",
       "SetID": "6bj96in",
       "Name": "SCRIPTORIUM SNEAK",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "CgkInO_K3eIdEAIQCA",
@@ -847,9 +847,9 @@
       "ID": "CgkInO_K3eIdEAIQEA",
       "SetID": "6bj96in",
       "Name": "EAGLE EYED",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 40,
-      "UsersEstimate": 109
+      "UsersEstimate": 112
     },
     {
       "ID": "CgkInO_K3eIdEAIQEQ",
@@ -942,8 +942,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:09:58.3376173+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:10:47.9751663+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:03.5069577+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:57:56.8756102+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:09:58.3376306+00:00"
+  "LastUpdate_Ratings": "2024-01-12T16:58:19.1711948+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:10:47.9751833+00:00"
 }

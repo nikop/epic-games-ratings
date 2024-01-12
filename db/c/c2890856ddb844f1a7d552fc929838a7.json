@@ -303,9 +303,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 2472,
+  "EOS_Progressed": 2473,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5863,6 +5863,11 @@
       "Time": "2024-01-12T15:06:15.2167531+00:00",
       "NumProgressed": 2472,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T17:06:07.1895844+00:00",
+      "NumProgressed": 2473,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -5883,7 +5888,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2201
     },
     {
       "ID": "AC02",
@@ -5891,7 +5896,7 @@
       "Name": "Blood and Dust",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1582
+      "UsersEstimate": 1583
     },
     {
       "ID": "AC03",
@@ -5899,7 +5904,7 @@
       "Name": "Blood and Gold",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "AC04",
@@ -5907,7 +5912,7 @@
       "Name": "Blood and Iron",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "AC05",
@@ -5923,7 +5928,7 @@
       "Name": "The Last Ascension",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "AC07",
@@ -5955,7 +5960,7 @@
       "Name": "The Wait is Over",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "AC11",
@@ -5971,7 +5976,7 @@
       "Name": "Canvas of Light and Time",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "AC13",
@@ -5993,9 +5998,9 @@
       "ID": "AC15",
       "SetID": "l4abp0",
       "Name": "Full Devotion",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 396
     },
     {
       "ID": "AC16",
@@ -6051,7 +6056,7 @@
       "Name": "Empty Handed",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "AC23",
@@ -6115,7 +6120,7 @@
       "Name": "The Anointed One",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "AC31",
@@ -6131,7 +6136,7 @@
       "Name": "Nobody Expects the Spanish Inquisition!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "AC33",
@@ -6171,7 +6176,7 @@
       "Name": "Storm of Death",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "AC38",
@@ -6195,7 +6200,7 @@
       "Name": "Welcome Back!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "AC41",
@@ -6242,7 +6247,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2472,
+      "Progressed": 2473,
       "Completed": 0
     }
   ],
@@ -6250,8 +6255,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-11T21:01:32.4954396+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:05:03.523144+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:06:07.1895842+00:00",
   "LastUpdate_AppInfo": "2024-01-10T04:57:09.7051995+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:57:02.8871982+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:05:03.5232115+00:00"
+  "LastUpdate_Ratings": "2024-01-12T16:57:06.3885537+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:06:07.1896515+00:00"
 }

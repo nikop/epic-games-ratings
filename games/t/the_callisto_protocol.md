@@ -5,17 +5,17 @@ Rating: 4.22 (Ranked 954)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Outer Way | 27.00% | ~5,996 |
-| Flesh Wound | 26.00% | ~5,774 |
-| Desperate Times | 25.00% | ~5,552 |
-| Paper Jams | 23.00% | ~5,108 |
-| Get a Grip | 22.00% | ~4,886 |
+| The Outer Way | 27.00% | ~5,997 |
+| Flesh Wound | 26.00% | ~5,775 |
+| Desperate Times | 25.00% | ~5,553 |
+| Paper Jams | 23.00% | ~5,109 |
+| Get a Grip | 22.00% | ~4,887 |
 | Chew 'Em Up | 20.00% | ~4,442 |
 | Reforged | 19.00% | ~4,220 |
 | Float Like A Butterfly | 18.00% | ~3,998 |
 | If the SHU Fits... | 17.00% | ~3,776 |
-| Workplace Hazard | 16.00% | ~3,553 |
-| Without A Paddle | 14.00% | ~3,109 |
+| Workplace Hazard | 16.00% | ~3,554 |
+| Without A Paddle | 14.00% | ~3,110 |
 | In the Pipe, Five by Five | 12.00% | ~2,665 |
 | Crash Site | 12.00% | ~2,665 |
 | Two Heads Are Better Than One | 11.00% | ~2,443 |
@@ -26,10 +26,10 @@ Rating: 4.22 (Ranked 954)
 | Full Circle | 10.00% | ~2,221 |
 | You Need a Gun | 9.00% | ~1,999 |
 | I Do Belong Here | 8.00% | ~1,777 |
-| Keep Fighting | 7.00% | ~709 |
+| Keep Fighting | 7.00% | ~710 |
 | It's Time | 6.00% | ~608 |
-| In Striking Distance | 5.00% | ~1,110 |
-| The Commonality | 5.00% | ~1,110 |
+| In Striking Distance | 5.00% | ~1,111 |
+| The Commonality | 5.00% | ~1,111 |
 | One Last Job | 3.00% | ~304 |
 | Mugshot | 2.00% | ~444 |
 | Big Spender | 2.00% | ~203 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 954)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,209 (Ranked 151)  
+Progressed: 22,212 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,15 +312,15 @@ Completed: 82 (0.37%) (Ranked 245)
 | 2024-01-09 | 21,902 | 82 |
 | 2024-01-10 | 22,053 | 82 |
 | 2024-01-11 | 22,169 | 82 |
-| 2024-01-12 | 22,209 | 82 |
+| 2024-01-12 | 22,212 | 82 |
 ## Awards
 Max (Amazing Characters): 131  (Ranked 345)  
-Sum: 636 (Ranked 320)  
+Sum: 640 (Ranked 320)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 131 |
-| This game is Highly Recommended | 118 |
+| This game is Highly Recommended | 122 |
 | This game is Extremely Fun | 115 |
 | This game has Quickly Understood Controls | 110 |
 | This game has Amazing Storytelling | 110 |
@@ -528,4 +528,4 @@ Diff (max vs sum): 25
 | 2024-01-09 | 4.22 | 129 | 619 |
 | 2024-01-10 | 4.22 | 129 | 628 |
 | 2024-01-11 | 4.22 | 131 | 634 |
-| 2024-01-12 | 4.22 | 131 | 636 |
+| 2024-01-12 | 4.22 | 131 | 640 |

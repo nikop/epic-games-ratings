@@ -18,9 +18,9 @@ Number of Ratings: 76  (23.09.2022)
 | Super Spatula Seeker | 11.00% | ~106 |
 | Surf's Up! | 11.00% | ~106 |
 | Squirrel Smasher | 10.00% | ~96 |
+| Toxic Terror | 9.00% | ~87 |
 | Life's as extreme as you wanna make it! | 8.00% | ~77 |
 | Shrimp Catcher | 8.00% | ~77 |
-| Toxic Terror | 8.00% | ~77 |
 | Hit Rock Bottom | 8.00% | ~77 |
 | Are you ready now? | 7.00% | ~67 |
 | Hello, Bikini Bottom | 7.00% | ~67 |
@@ -71,8 +71,8 @@ Completed: 8 (0.83%) (Ranked 191)
 | 2024-01-11 | 954 | 8 |
 | 2024-01-12 | 964 | 8 |
 ## Awards
-Max (Great Boss Battles): 36  (Ranked 499)  
-Sum: 36 (Ranked 532)  
+Max (Great Boss Battles): 36  (Ranked 500)  
+Sum: 36 (Ranked 533)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |

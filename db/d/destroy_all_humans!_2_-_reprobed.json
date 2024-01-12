@@ -2,9 +2,9 @@
   "ID": "4d62b26703d24f6d919750b3d88b6d52",
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
-  "Ranking_Rating": 552,
-  "Ranking_Popularity": 499,
-  "Ranking_PopularitySum": 532,
+  "Ranking_Rating": 553,
+  "Ranking_Popularity": 500,
+  "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 238,
@@ -308,7 +308,7 @@
   ],
   "EOS_Progressed": 415,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -2093,9 +2093,9 @@
       "ID": "ACH_KILL_ORANCHOV",
       "SetID": "4n84pon",
       "Name": "Freshly Squeezed",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -2262,8 +2262,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:09:21.606937+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:10:00.3044014+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:59:24.6596376+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:09:21.6069715+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:00:18.2228384+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:10:00.3044384+00:00"
 }

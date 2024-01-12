@@ -4,7 +4,7 @@
   "ProductSlug": "bursthero-dd5a56",
   "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
@@ -358,9 +358,9 @@
       "ID": "COMBO_SWORD",
       "SetID": "1fek4an",
       "Name": "Demon Sword",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DISASTER_5CARDS",
@@ -470,9 +470,9 @@
       "ID": "HEROSTAR_J",
       "SetID": "1fek4an",
       "Name": "Graduate(Joes)",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "HEROSTAR_K",
@@ -614,9 +614,9 @@
       "ID": "LEVEL_COMPLETE_1_0",
       "SetID": "1fek4an",
       "Name": "Boneyard",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "LEVEL_COMPLETE_1_12",
@@ -830,9 +830,9 @@
       "ID": "TEAMWORK",
       "SetID": "1fek4an",
       "Name": "Teamwork",
-      "Percentage": 52,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "UPGRADE_DONE",
@@ -853,8 +853,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:06:33.0281631+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:08:33.8498626+00:00",
   "LastUpdate_AppInfo": "2024-01-10T13:02:38.4502332+00:00",
-  "LastUpdate_Ratings": "2024-01-12T16:00:25.5926278+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:06:33.0282096+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:02:34.6053905+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:08:33.8499183+00:00"
 }

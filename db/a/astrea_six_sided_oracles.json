@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 377,
+  "EOS_Progressed": 378,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
@@ -1579,6 +1579,11 @@
       "Time": "2024-01-12T07:09:17.6242901+00:00",
       "NumProgressed": 377,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T17:09:29.6939786+00:00",
+      "NumProgressed": 378,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -1589,9 +1594,9 @@
       "ID": "AnomalyControl",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Control",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 15
     },
     {
       "ID": "AnomalyDestroyer",
@@ -1677,9 +1682,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 132
     },
     {
       "ID": "AstralSeeker",
@@ -1815,7 +1820,7 @@
       "Name": "Dicesmithing Time!",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "EndlessTricks",
@@ -1823,7 +1828,7 @@
       "Name": "Endless Tricks",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -1879,7 +1884,7 @@
       "Name": "Heavy Purger",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "IfIHadFailed",
@@ -1935,7 +1940,7 @@
       "Name": "Mechanical Buddy",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "MeissasSavior",
@@ -1943,7 +1948,7 @@
       "Name": "Meissa\u0027s Savior",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "MindIlluminator",
@@ -1951,7 +1956,7 @@
       "Name": "Mind Illuminator",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -2237,9 +2242,9 @@
       "ID": "ApianHero",
       "SetID": "1jeo1g7",
       "Name": "Apian Hero",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 15
     },
     {
       "ID": "ApianMastery",
@@ -2374,14 +2379,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 377,
+      "Progressed": 378,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:08:57.5070015+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:09:29.6939783+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:27.4116813+00:00",
-  "LastUpdate_Ratings": "2024-01-12T16:02:39.8728389+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:08:57.5070871+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:02:52.6262192+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:09:29.6940777+00:00"
 }

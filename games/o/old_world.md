@@ -49,6 +49,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 1.00% | ~165 |
 | Ishtar Gate | 1.00% | ~165 |
 | Lighthouse | 1.00% | ~165 |
+| Mausoleum | 1.00% | ~165 |
 | Musaeum | 1.00% | ~165 |
 | Necropolis | 1.00% | ~165 |
 | Learn to Play 1 | 1.00% | ~165 |
@@ -62,7 +63,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 0.90% | ~149 |
 | Just Difficulty | 0.90% | ~149 |
 | Colossus | 0.90% | ~149 |
-| Mausoleum | 0.90% | ~149 |
 | Mythology | 0.90% | ~149 |
 | Hanging Gardens in Babylon | 0.80% | ~132 |
 | Intercessor | 0.80% | ~132 |
@@ -156,6 +156,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Siege Tower | 0.20% | ~33 |
 | Poetic Leader | 0.20% | ~33 |
 | Beja Archer | 0.20% | ~33 |
+| Jerwan Aqueduct | 0.20% | ~33 |
 | Centenarian | 0.10% | ~17 |
 | Alexander the Great | 0.10% | ~17 |
 | Alexander the who? | 0.10% | ~17 |
@@ -306,7 +307,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cothon | 0.10% | ~17 |
 | Heliopolis | 0.10% | ~17 |
 | Jebel Barkal | 0.10% | ~17 |
-| Jerwan Aqueduct | 0.10% | ~17 |
 | Royal Library | 0.10% | ~17 |
 | Yazilikaya | 0.10% | ~17 |
 | Colosseum in Roma | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,508 (Ranked 170)  
+Progressed: 16,513 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -632,7 +632,7 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-09 | 16,321 | 5 |
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
-| 2024-01-12 | 16,508 | 5 |
+| 2024-01-12 | 16,513 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,921 (Ranked 224)  

@@ -1,30 +1,30 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 358)  
+Rating: 4.63 (Ranked 359)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 77.00% | ~352 |
-| Kaijuiced | 71.00% | ~324 |
-| Lie Back and Think of Albion | 65.00% | ~297 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~288 |
+| Shop Til They Drop | 77.00% | ~353 |
+| Kaijuiced | 71.00% | ~325 |
+| Lie Back and Think of Albion | 65.00% | ~298 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~289 |
 | I Look Up As I Walk to Takoshima | 59.00% | ~270 |
-| Yettisoned | 58.00% | ~265 |
+| Yettisoned | 58.00% | ~266 |
 | Pimp My Raid | 56.00% | ~256 |
 | Perfect Probulator | 56.00% | ~256 |
-| Lobster Blisque | 51.00% | ~233 |
-| Earthly Pleasures | 49.00% | ~224 |
-| Fly Me to the Moon Base | 48.00% | ~219 |
-| Ducks in a Row, Fish in a Barrel | 46.00% | ~210 |
-| Bodied Sattva | 37.00% | ~169 |
+| Lobster Blisque | 51.00% | ~234 |
+| Fly Me to the Moon Base | 48.00% | ~220 |
+| Earthly Pleasures | 48.00% | ~220 |
+| Ducks in a Row, Fish in a Barrel | 46.00% | ~211 |
+| Bodied Sattva | 36.00% | ~165 |
 | Forbidden Donut | 35.00% | ~160 |
 | Freshly Squeezed | 35.00% | ~160 |
 | Upgreatest | 35.00% | ~160 |
-| Furon Fashion | 30.00% | ~137 |
+| Furon Fashion | 29.00% | ~133 |
 | Deincarnated | 28.00% | ~128 |
-| Rock of the Bay | 27.00% | ~123 |
+| Rock of the Bay | 27.00% | ~124 |
 | Trans-Siberian Express | 25.00% | ~114 |
 | Re-Return of the Clone of the Invasion II-2 | 19.00% | ~87 |
 | Arkvoodle Doodle | 18.00% | ~82 |
@@ -39,15 +39,15 @@ Number of Ratings: 85  (23.09.2022)
 | Higher Than the Futen Zoku | 11.00% | ~50 |
 | PK Slam Dunk | 9.00% | ~41 |
 | Arty Facts | 9.00% | ~41 |
+| Cult Following | 6.00% | ~27 |
 | Path of the Furon | 6.00% | ~27 |
-| Cult Following | 5.00% | ~23 |
 | To Russia With Love | 5.00% | ~23 |
 | Transmitting From Sol-3 | 3.00% | ~14 |
 | Steezy Down the Spine | 2.00% | ~9 |
 | Toilet Break | 2.00% | ~9 |
 | Against All Odds | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457 (Ranked 360)  
+Progressed: 458 (Ranked 360)  
 Completed: 5 (1.09%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 5 (1.09%) (Ranked 173)
 | 2024-01-09 | 424 | 5 |
 | 2024-01-10 | 439 | 5 |
 | 2024-01-11 | 454 | 5 |
-| 2024-01-12 | 457 | 5 |
+| 2024-01-12 | 458 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 505)  
 Sum: 35 (Ranked 535)  

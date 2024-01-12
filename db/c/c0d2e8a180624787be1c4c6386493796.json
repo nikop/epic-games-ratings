@@ -1880,9 +1880,9 @@
       "ID": "KR4_ACHIEVEMENT_ORCSHAMAN",
       "SetID": "caeik3h",
       "Name": "Thunderstruck",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 138
     },
     {
       "ID": "KR4_ACHIEVEMENT_PEERLESS_DEFENDER",
@@ -2071,8 +2071,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:04:10.8523615+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:04:58.1181005+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:57:30.6102947+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:04:10.8524354+00:00"
+  "LastUpdate_Ratings": "2024-01-12T16:57:43.9919231+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:04:58.1181638+00:00"
 }

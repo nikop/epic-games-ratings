@@ -8,7 +8,7 @@
 | Just a Taste | 75.00% | ~50 |
 | Strange Skulls | 58.00% | ~39 |
 | Treasure Hunter | 55.00% | ~37 |
-| Crab Cakes | 48.00% | ~32 |
+| Crab Cakes | 49.00% | ~33 |
 | Personally Punched | 27.00% | ~18 |
 | Flight of the Raven | 22.00% | ~15 |
 | Drop In | 19.00% | ~13 |

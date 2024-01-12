@@ -6,15 +6,15 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 39.00% | ~6,944 |
+| Tattletale | 39.00% | ~6,945 |
 | Man of politics | 34.00% | ~6,054 |
 | Yet another secret | 33.00% | ~5,876 |
 | Friends of sorts | 32.00% | ~5,698 |
 | Let there be darkness | 31.00% | ~5,520 |
-| End of Book One | 29.00% | ~5,163 |
-| Wannabe knight | 23.00% | ~4,095 |
-| Garden of Eden | 23.00% | ~4,095 |
-| Full house | 23.00% | ~4,095 |
+| End of Book One | 29.00% | ~5,164 |
+| Wannabe knight | 23.00% | ~4,096 |
+| Garden of Eden | 23.00% | ~4,096 |
+| Full house | 23.00% | ~4,096 |
 | Help an old friend | 21.00% | ~3,739 |
 | Two of us | 20.00% | ~3,561 |
 | Negotiation skills | 18.00% | ~3,205 |
@@ -25,16 +25,16 @@ Number of Ratings: 368  (23.09.2022)
 | Jack was here! | 14.00% | ~2,493 |
 | Exterminator | 13.00% | ~2,315 |
 | Whodunnit | 12.00% | ~2,137 |
-| Good midwife | 10.00% | ~1,780 |
-| Friar Tuck | 10.00% | ~1,780 |
-| First profit | 10.00% | ~1,780 |
-| Team player | 10.00% | ~1,780 |
-| Skilled merchant | 9.00% | ~1,602 |
-| Brother Marcus | 9.00% | ~1,602 |
-| The oath | 9.00% | ~1,602 |
-| The truth revealed | 9.00% | ~1,602 |
-| The End. | 9.00% | ~1,602 |
-| Nothing but make-believe | 8.00% | ~1,424 |
+| Good midwife | 10.00% | ~1,781 |
+| Friar Tuck | 10.00% | ~1,781 |
+| First profit | 10.00% | ~1,781 |
+| Team player | 10.00% | ~1,781 |
+| Skilled merchant | 9.00% | ~1,603 |
+| Brother Marcus | 9.00% | ~1,603 |
+| The oath | 9.00% | ~1,603 |
+| The truth revealed | 9.00% | ~1,603 |
+| The End. | 9.00% | ~1,603 |
+| Nothing but make-believe | 8.00% | ~1,425 |
 | A cry for help | 7.00% | ~1,246 |
 | Silentium est aureum | 7.00% | ~1,246 |
 | Rebel without a cause | 6.00% | ~1,068 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~534 |
 | Boy of mystery | 2.00% | ~356 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,805 (Ranked 165)  
+Progressed: 17,807 (Ranked 165)  
 Completed: 125 (0.70%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 125 (0.70%) (Ranked 202)
 | 2024-01-09 | 17,744 | 125 |
 | 2024-01-10 | 17,768 | 125 |
 | 2024-01-11 | 17,794 | 125 |
-| 2024-01-12 | 17,805 | 125 |
+| 2024-01-12 | 17,807 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 327)  
 Sum: 200 (Ranked 418)  

@@ -4,7 +4,7 @@
   "ProductSlug": "bosorka-c0e6b6",
   "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -572,9 +572,9 @@
       "ID": "RUNE_DROPFIRSTAIDKIT",
       "SetID": "9433p49",
       "Name": "Witch\u0027s duty",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 55,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "RUNE_DROPRESETSPELL",
@@ -604,9 +604,9 @@
       "ID": "RUNE_STORM",
       "SetID": "9433p49",
       "Name": "Path of purity",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 55,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "RUNE_STUNHIT",
@@ -629,8 +629,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:05:31.4669582+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:06:44.5632746+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:07.5850357+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:56:59.3663628+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:05:31.4669712+00:00"
+  "LastUpdate_Ratings": "2024-01-12T16:57:01.9918574+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:06:44.5632926+00:00"
 }

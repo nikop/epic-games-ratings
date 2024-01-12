@@ -7,15 +7,15 @@
 | First Day of the Rest of Your Life | 74.00% | ~20 |
 | Hello World | 70.00% | ~19 |
 | I Think, Therefore I Am | 70.00% | ~19 |
-| The Real Beginning | 67.00% | ~18 |
+| The Real Beginning | 70.00% | ~19 |
 | Shook Up | 59.00% | ~16 |
+| The Birds and the Bees | 56.00% | ~15 |
 | Vaccinated | 56.00% | ~15 |
-| The Birds and the Bees | 52.00% | ~14 |
 | Busybody | 48.00% | ~13 |
 | Task Master | 48.00% | ~13 |
+| Warning: Fragile | 44.00% | ~12 |
 | An Acquired Taste | 41.00% | ~11 |
 | A Light in the Dark | 41.00% | ~11 |
-| Warning: Fragile | 41.00% | ~11 |
 | A Real Headache | 37.00% | ~10 |
 | The Guardian | 37.00% | ~10 |
 | Endgame | 37.00% | ~10 |

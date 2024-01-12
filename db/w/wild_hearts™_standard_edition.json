@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1341,
+  "EOS_Progressed": 1342,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -4353,6 +4353,11 @@
       "Time": "2024-01-12T13:15:28.9338793+00:00",
       "NumProgressed": 1341,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-12T17:10:18.1982143+00:00",
+      "NumProgressed": 1342,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -4365,7 +4370,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "achievement_10",
@@ -4373,7 +4378,7 @@
       "Name": "Karakuri Trail",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "achievement_11",
@@ -4405,7 +4410,7 @@
       "Name": "Fusion Conjuror",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "achievement_15",
@@ -4413,7 +4418,7 @@
       "Name": "Memory Rouser",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "achievement_16",
@@ -4421,7 +4426,7 @@
       "Name": "Distance Devourer",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "achievement_17",
@@ -4437,7 +4442,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "achievement_19",
@@ -4509,7 +4514,7 @@
       "Name": "Vanquisher of the Volatile",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_27",
@@ -4525,7 +4530,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "achievement_29",
@@ -4541,7 +4546,7 @@
       "Name": "Bonds of Enmity",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "achievement_30",
@@ -4557,7 +4562,7 @@
       "Name": "Snare Specialist",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "achievement_32",
@@ -4605,7 +4610,7 @@
       "Name": "Hidden History",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "achievement_38",
@@ -4685,7 +4690,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "achievement_47",
@@ -4709,7 +4714,7 @@
       "Name": "Reincarnation Cycle Stopper",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "achievement_6",
@@ -4717,7 +4722,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "achievement_7",
@@ -4748,13 +4753,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1341,
+      "Progressed": 1342,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:09:35.5345909+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:10:18.1982135+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:30.0899668+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:58:00.4315866+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:09:35.5346326+00:00"
+  "LastUpdate_Ratings": "2024-01-12T16:58:23.922087+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:10:18.1982862+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 552,
+  "Ranking_Rating": 553,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 207,
@@ -559,7 +559,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4747,
+  "EOS_Progressed": 4748,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
@@ -8289,6 +8289,11 @@
       "Time": "2024-01-12T15:08:16.9167066+00:00",
       "NumProgressed": 4747,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-12T17:08:31.6686367+00:00",
+      "NumProgressed": 4748,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8356,7 +8361,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "Eureka_23",
@@ -8372,7 +8377,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "ForAllAurai_8",
@@ -8404,7 +8409,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "HouseofCards_19",
@@ -8620,7 +8625,7 @@
       "Name": "Venture Outward",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 3418
+      "UsersEstimate": 3419
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8635,15 +8640,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4747,
+      "Progressed": 4748,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:06:31.2427677+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:08:31.6686364+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:45.0450053+00:00",
-  "LastUpdate_Ratings": "2024-01-12T16:02:58.6920389+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:06:31.2428296+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:03:19.2647417+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:08:31.6686945+00:00"
 }

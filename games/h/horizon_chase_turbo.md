@@ -1,41 +1,41 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.54 (Ranked 552)  
+Rating: 4.54 (Ranked 553)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~993,547 |
-| I Need a Bigger Garage | 63.00% | ~695,483 |
-| Pump my Ride | 47.00% | ~518,852 |
-| Ghostbuster | 34.00% | ~375,340 |
-| Call Roadside Assistance | 18.00% | ~198,709 |
-| That Was Close | 18.00% | ~198,709 |
-| Quickie | 11.00% | ~121,434 |
-| California Dreamer | 7.00% | ~77,276 |
-| Can't Touch This | 5.00% | ~55,197 |
-| Carménère Taster | 4.00% | ~44,158 |
-| Comeback | 4.00% | ~44,158 |
-| Driver from Ipanema | 3.00% | ~33,118 |
-| Supersonic | 3.00% | ~33,118 |
-| Marathonist | 3.00% | ~33,118 |
-| Living Legend | 3.00% | ~33,118 |
+| The First of Many | 90.00% | ~993,569 |
+| I Need a Bigger Garage | 63.00% | ~695,499 |
+| Pump my Ride | 47.00% | ~518,864 |
+| Ghostbuster | 34.00% | ~375,348 |
+| Call Roadside Assistance | 18.00% | ~198,714 |
+| That Was Close | 18.00% | ~198,714 |
+| Quickie | 11.00% | ~121,436 |
+| California Dreamer | 7.00% | ~77,278 |
+| Can't Touch This | 5.00% | ~55,198 |
+| Carménère Taster | 4.00% | ~44,159 |
+| Comeback | 4.00% | ~44,159 |
+| Driver from Ipanema | 3.00% | ~33,119 |
+| Supersonic | 3.00% | ~33,119 |
+| Marathonist | 3.00% | ~33,119 |
+| Living Legend | 3.00% | ~33,119 |
 | God of Roads | 2.00% | ~22,079 |
 | Pathfinder | 2.00% | ~22,079 |
 | Go-Kart Champion | 2.00% | ~22,079 |
 | Round the Globe | 2.00% | ~22,079 |
 | Completionist | 2.00% | ~22,079 |
 | Harder, Better, Faster, Stronger | 2.00% | ~22,079 |
-| Crocodile Hunter | 1.00% | ~11,039 |
-| Old Master | 1.00% | ~11,039 |
-| The Iceman | 1.00% | ~11,039 |
-| Bollywood Star | 1.00% | ~11,039 |
-| Oil Tycoon | 1.00% | ~11,039 |
-| Golden Passport | 1.00% | ~11,039 |
-| Brave and Bold | 1.00% | ~11,039 |
-| Volcano Surfer | 0.90% | ~9,935 |
-| Otaku | 0.90% | ~9,935 |
+| Crocodile Hunter | 1.00% | ~11,040 |
+| Old Master | 1.00% | ~11,040 |
+| The Iceman | 1.00% | ~11,040 |
+| Bollywood Star | 1.00% | ~11,040 |
+| Oil Tycoon | 1.00% | ~11,040 |
+| Golden Passport | 1.00% | ~11,040 |
+| Brave and Bold | 1.00% | ~11,040 |
+| Volcano Surfer | 0.90% | ~9,936 |
+| Otaku | 0.90% | ~9,936 |
 | Survivor | 0.60% | ~6,624 |
 | King of the World | 0.60% | ~6,624 |
 | Getting Famous | 0.50% | ~5,520 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Look Mom, No Hands! | 0.20% | ~2,208 |
 | Transporter | 0.10% | ~1,104 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,103,941 (Ranked 14)  
+Progressed: 1,103,966 (Ranked 14)  
 Completed: 534 (0.05%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,11 +311,11 @@ Completed: 534 (0.05%) (Ranked 340)
 | 2024-01-09 | 1,102,915 | 532 |
 | 2024-01-10 | 1,103,313 | 533 |
 | 2024-01-11 | 1,103,650 | 533 |
-| 2024-01-12 | 1,103,941 | 534 |
+| 2024-01-12 | 1,103,966 | 534 |
 ## Awards
 Max (Great for Beginners): 185  (Ranked 311)  
-Sum: 1,642 (Ranked 235)  
-Diff (max vs sum): 76  
+Sum: 1,644 (Ranked 234)  
+Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 185 |
@@ -324,11 +324,11 @@ Diff (max vs sum): 76
 | This game has Quickly Understood Controls | 151 |
 | This game is Relaxing | 146 |
 | This game is Highly Recommended | 142 |
+| This game has Competitive Players | 134 |
 | This game has Playful Visuals | 134 |
-| This game has Competitive Players | 133 |
 | This game is Extremely Fun | 128 |
 | This game has Amazing Storytelling | 112 |
-| This game has Amazing Characters | 104 |
+| This game has Amazing Characters | 105 |
 | This game has a Competitive Community | 94 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -625,4 +625,4 @@ Diff (max vs sum): 76
 | 2024-01-09 | 4.55 | - | 184 | 1,638 |
 | 2024-01-10 | 4.55 | - | 185 | 1,639 |
 | 2024-01-11 | 4.55 | - | 185 | 1,640 |
-| 2024-01-12 | 4.55 | - | 185 | 1,642 |
+| 2024-01-12 | 4.55 | - | 185 | 1,644 |

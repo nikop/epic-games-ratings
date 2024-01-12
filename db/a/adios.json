@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -141,9 +141,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83345,
+  "EOS_Progressed": 83347,
   "EOS_Completed": 929,
-  "EOS_NewPlayers": 591,
+  "EOS_NewPlayers": 584,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -29956,6 +29956,11 @@
       "Time": "2024-01-12T16:04:44.209926+00:00",
       "NumProgressed": 83345,
       "NumCompleted": 929
+    },
+    {
+      "Time": "2024-01-12T17:05:41.9431883+00:00",
+      "NumProgressed": 83347,
+      "NumCompleted": 929
     }
   ],
   "TotalAchievements": 25,
@@ -30071,7 +30076,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17502
+      "UsersEstimate": 17503
     },
     {
       "ID": "Meaty",
@@ -30095,7 +30100,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 13335
+      "UsersEstimate": 13336
     },
     {
       "ID": "Nothing Left to Say",
@@ -30119,7 +30124,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11668
+      "UsersEstimate": 11669
     },
     {
       "ID": "Sniper",
@@ -30166,7 +30171,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83345,
+      "Progressed": 83347,
       "Completed": 929
     }
   ],
@@ -30174,8 +30179,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:04:44.2099257+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:05:41.9431718+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.3609745+00:00",
-  "LastUpdate_Ratings": "2024-01-12T16:00:23.1929797+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:04:44.2100465+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:01:41.3417298+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:05:41.9433087+00:00"
 }

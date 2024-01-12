@@ -4,7 +4,7 @@
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
@@ -758,9 +758,9 @@
       "ID": "2",
       "SetID": "41h3j82",
       "Name": "Welcome to Barcelona",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "3",
@@ -831,8 +831,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:08:18.89275+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:08:40.2335417+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:24.7386942+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:57:42.1920416+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:08:18.8927623+00:00"
+  "LastUpdate_Ratings": "2024-01-12T16:57:59.2754971+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:08:40.2335543+00:00"
 }

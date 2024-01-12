@@ -6,17 +6,17 @@
 | ---- | ---------- | ----- |
 | First success | 89.00% | ~70 |
 | Suicide squad | 48.00% | ~38 |
-| Train hard, fight easy | 29.00% | ~23 |
+| Train hard, fight easy | 30.00% | ~24 |
 | Under cover | 29.00% | ~23 |
 | First blood | 29.00% | ~23 |
 | Royal blessing | 24.00% | ~19 |
 | Blood and sand | 22.00% | ~17 |
 | A hidden snake | 20.00% | ~16 |
 | All for one! | 19.00% | ~15 |
+| Surpass the teacher | 16.00% | ~13 |
 | Help of the Gell | 16.00% | ~13 |
 | She-Wolf | 16.00% | ~13 |
-| Surpass the teacher | 15.00% | ~12 |
-| Crimson rivers | 14.00% | ~11 |
+| Crimson rivers | 15.00% | ~12 |
 | Power of Inquisition | 14.00% | ~11 |
 | Vene, vidi, vici | 14.00% | ~11 |
 | Rage | 14.00% | ~11 |
@@ -30,11 +30,11 @@
 | Collector | 6.00% | ~5 |
 | Stronger than Gellian steel | 6.00% | ~5 |
 | Protect the Healer! | 6.00% | ~5 |
+| Cunning plan | 6.00% | ~5 |
 | The best apprentice | 5.00% | ~4 |
 | First among Frisians | 5.00% | ~4 |
 | Defeat the bear | 5.00% | ~4 |
 | By own strength | 5.00% | ~4 |
-| Cunning plan | 5.00% | ~4 |
 | Nothing is settled | 5.00% | ~4 |
 | Supplier | 4.00% | ~3 |
 | Deadly strike | 4.00% | ~3 |

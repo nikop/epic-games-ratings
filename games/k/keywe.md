@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Hired | 95.00% | ~164 |
+| You're Hired | 97.00% | ~168 |
 | Learn the Ropes | 65.00% | ~112 |
 | Practice Makes Postmasters | 38.00% | ~66 |
 | Fun in the Bungalow Basin Sun | 38.00% | ~66 |
 | Working for the Kiweekend | 38.00% | ~66 |
-| A Startling Discovery | 31.00% | ~54 |
+| A Startling Discovery | 32.00% | ~55 |
 | Pumpkins and Postage Stamps | 18.00% | ~31 |
 | Kiwinter Kiwonderland | 6.00% | ~10 |
 | Secrets of the Telepost | 3.00% | ~5 |

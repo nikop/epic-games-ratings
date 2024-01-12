@@ -3783,9 +3783,9 @@
       "ID": "3",
       "SetID": "n50no0",
       "Name": "Hug therapy",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 709
+      "UsersEstimate": 729
     },
     {
       "ID": "30",
@@ -3871,8 +3871,8 @@
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:05:06.8595055+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:06:11.5200037+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.2496519+00:00",
-  "LastUpdate_Ratings": "2024-01-12T16:00:06.1588552+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:05:06.8595432+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:01:16.6847475+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:06:11.5200397+00:00"
 }

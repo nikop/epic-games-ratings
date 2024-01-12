@@ -1,39 +1,39 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 168)  
+Rating: 4.74 (Ranked 167)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 42.00% | ~39,682 |
-| Landlord | 34.00% | ~32,123 |
-| Trained | 30.00% | ~28,344 |
-| Bannerlord | 24.00% | ~22,675 |
-| Lawmaker | 23.00% | ~21,730 |
-| Horde breaker | 21.00% | ~19,841 |
-| The king is pleased | 19.00% | ~17,951 |
-| Apple of my eye | 17.00% | ~16,062 |
-| King Solomon | 17.00% | ~16,062 |
-| This Is Our Land | 16.00% | ~15,117 |
-| I can do it | 15.00% | ~14,172 |
-| Against all odds | 14.00% | ~13,227 |
-| Duelist | 12.00% | ~11,338 |
-| God of the Arena | 12.00% | ~11,338 |
-| Swordbearer | 11.00% | ~10,393 |
-| Dynasty | 10.00% | ~9,448 |
-| I spit on your grave | 10.00% | ~9,448 |
-| What have the Romans ever done for us? | 10.00% | ~9,448 |
-| Butterlord | 9.00% | ~8,503 |
-| Mastery | 7.00% | ~6,614 |
-| Know your enemy | 6.00% | ~5,669 |
-| My way | 5.00% | ~4,724 |
-| Crowdfunded | 4.00% | ~3,779 |
-| Crush your enemies | 4.00% | ~3,779 |
-| Veni vidi vici | 4.00% | ~3,779 |
-| Freedom! | 3.00% | ~2,834 |
-| Long live the Empire! | 3.00% | ~2,834 |
-| Real Estate | 3.00% | ~2,834 |
+| Lawbringer | 42.00% | ~39,688 |
+| Landlord | 34.00% | ~32,129 |
+| Trained | 30.00% | ~28,349 |
+| Bannerlord | 24.00% | ~22,679 |
+| Lawmaker | 23.00% | ~21,734 |
+| Horde breaker | 21.00% | ~19,844 |
+| The king is pleased | 19.00% | ~17,954 |
+| Apple of my eye | 17.00% | ~16,064 |
+| King Solomon | 17.00% | ~16,064 |
+| This Is Our Land | 16.00% | ~15,119 |
+| I can do it | 15.00% | ~14,174 |
+| Against all odds | 14.00% | ~13,229 |
+| Duelist | 12.00% | ~11,340 |
+| God of the Arena | 12.00% | ~11,340 |
+| Swordbearer | 11.00% | ~10,395 |
+| Dynasty | 10.00% | ~9,450 |
+| I spit on your grave | 10.00% | ~9,450 |
+| What have the Romans ever done for us? | 10.00% | ~9,450 |
+| Butterlord | 9.00% | ~8,505 |
+| Mastery | 7.00% | ~6,615 |
+| Know your enemy | 6.00% | ~5,670 |
+| My way | 5.00% | ~4,725 |
+| Crowdfunded | 4.00% | ~3,780 |
+| Crush your enemies | 4.00% | ~3,780 |
+| Veni vidi vici | 4.00% | ~3,780 |
+| Freedom! | 3.00% | ~2,835 |
+| Long live the Empire! | 3.00% | ~2,835 |
+| Real Estate | 3.00% | ~2,835 |
 | Supreme Emperor | 1.00% | ~945 |
 | Entrepreneur | 0.90% | ~850 |
 | Crackshot | 0.80% | ~756 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94,480 (Ranked 102)  
+Progressed: 94,496 (Ranked 102)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 92,934 | 0 |
 | 2024-01-10 | 93,754 | 0 |
 | 2024-01-11 | 94,239 | 0 |
-| 2024-01-12 | 94,480 | 0 |
+| 2024-01-12 | 94,496 | 0 |
 ## Awards
 Max (Character Customization): 8,009  (Ranked 50)  
 Sum: 16,633 (Ranked 66)  

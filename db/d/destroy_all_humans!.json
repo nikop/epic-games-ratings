@@ -2,7 +2,7 @@
   "ID": "c12a5687fb024192999b2d22c555d4c6",
   "Name": "Destroy All Humans!",
   "ProductSlug": "destroy-all-humans",
-  "Ranking_Rating": 358,
+  "Ranking_Rating": 359,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 360,
@@ -305,9 +305,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 457,
+  "EOS_Progressed": 458,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
@@ -1845,6 +1845,11 @@
       "Time": "2024-01-12T15:06:16.7898085+00:00",
       "NumProgressed": 457,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-12T17:06:08.5960732+00:00",
+      "NumProgressed": 458,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1857,7 +1862,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -1897,15 +1902,15 @@
       "Name": "Yettisoned",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
       "SetID": "cefn62b",
       "Name": "Cult Following",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_ABILITY_PKTHROWANDCATCHHUMAN",
@@ -1929,7 +1934,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_ABILITY_TRANSMOG",
@@ -1945,7 +1950,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACH_CHALLENGE_ABDUCTIONTHREESTAR",
@@ -1959,9 +1964,9 @@
       "ID": "ACH_CHALLENGE_ANY",
       "SetID": "cefn62b",
       "Name": "Furon Fashion",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_CHALLENGE_ARMAGEDDONTHREESTAR",
@@ -2007,9 +2012,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "cefn62b",
       "Name": "Earthly Pleasures",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
@@ -2017,7 +2022,7 @@
       "Name": "Kaijuiced",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -2025,7 +2030,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -2057,7 +2062,7 @@
       "Name": "Lobster Blisque",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -2105,7 +2110,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -2127,9 +2132,9 @@
       "ID": "ACH_MENU_FURONIGAMI",
       "SetID": "cefn62b",
       "Name": "Bodied Sattva",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -2161,7 +2166,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_UPGRADE_TOPTIER",
@@ -2176,15 +2181,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 457,
+      "Progressed": 458,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:05:04.6560011+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:06:08.5960729+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:15.0942873+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:58:02.8164512+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:05:04.6560374+00:00"
+  "LastUpdate_Ratings": "2024-01-12T16:58:27.1755074+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:06:08.596111+00:00"
 }

@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10349,
+  "EOS_Progressed": 10351,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 615,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16799,6 +16799,11 @@
       "Time": "2024-01-12T16:05:53.129201+00:00",
       "NumProgressed": 10349,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T17:07:12.3622492+00:00",
+      "NumProgressed": 10351,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -16874,7 +16879,7 @@
       "Name": "Cactus Vally",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 2173
+      "UsersEstimate": 2174
     },
     {
       "ID": "4",
@@ -16906,7 +16911,7 @@
       "Name": "Blue Rapids",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "8",
@@ -16914,7 +16919,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "9",
@@ -16922,14 +16927,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10349,
+      "Progressed": 10351,
       "Completed": 0
     }
   ],
@@ -16937,8 +16942,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-12T16:05:53.1292006+00:00",
+  "LastChanged_Achievements": "2024-01-12T17:07:12.3622485+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:19.9263192+00:00",
-  "LastUpdate_Ratings": "2024-01-12T15:59:47.530796+00:00",
-  "LastUpdate_Achievements": "2024-01-12T16:05:53.1292718+00:00"
+  "LastUpdate_Ratings": "2024-01-12T17:00:49.535923+00:00",
+  "LastUpdate_Achievements": "2024-01-12T17:07:12.3623513+00:00"
 }
