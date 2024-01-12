@@ -5,7 +5,7 @@ Rating: 3.86 (Ranked 1,076)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bundle of Joy | 49.00% | ~326 |
+| Bundle of Joy | 49.00% | ~327 |
 | A Friend in Need... | 44.00% | ~293 |
 | Bosom Buddies | 30.00% | ~200 |
 | Beat the Heat | 23.00% | ~153 |
@@ -31,11 +31,11 @@ Rating: 3.86 (Ranked 1,076)
 | The Butterfly Effect | 2.00% | ~13 |
 | Echoes of the Past | 2.00% | ~13 |
 | Casual Gamer | 2.00% | ~13 |
-| Urban Scrawl | 2.00% | ~13 |
-| Marvellous Toys | 2.00% | ~13 |
 | Hardcore Gamer | 1.00% | ~7 |
+| Urban Scrawl | 1.00% | ~7 |
+| Marvellous Toys | 1.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666 (Ranked 333)  
+Progressed: 667 (Ranked 333)  
 Completed: 6 (0.90%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 6 (0.90%) (Ranked 187)
 | 2024-01-09 | 658 | 6 |
 | 2024-01-10 | 662 | 6 |
 | 2024-01-11 | 665 | 6 |
-| 2024-01-12 | 666 | 6 |
+| 2024-01-12 | 667 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

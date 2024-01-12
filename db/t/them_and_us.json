@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1816,6 +1816,11 @@
       "Time": "2024-01-12T06:09:28.6476669+00:00",
       "NumProgressed": 415,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T11:09:02.3300353+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1843,7 +1848,7 @@
       "Name": "Alone with Them",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -2035,7 +2040,7 @@
       "Name": "Safe...For now?",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ETUA_StayDead",
@@ -2146,7 +2151,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 1
     }
   ],
@@ -2154,8 +2159,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2024-01-12T10:08:57.2905694+00:00",
+  "LastChanged_Achievements": "2024-01-12T11:09:02.3300348+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:36.5425929+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:59:05.4251145+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:08:57.2906097+00:00"
+  "LastUpdate_Ratings": "2024-01-12T10:59:23.9805013+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:09:02.3300747+00:00"
 }

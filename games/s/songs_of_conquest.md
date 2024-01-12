@@ -34,8 +34,8 @@ Number of Ratings: 292  (23.09.2022)
 | Such A Fungi | 1.00% | ~11 |
 | Grand Master | 1.00% | ~11 |
 | Versatile Wielder | 0.90% | ~10 |
+| Unlimited Power! | 0.70% | ~8 |
 | Cleave | 0.70% | ~8 |
-| Unlimited Power! | 0.60% | ~7 |
 | Killing Spree | 0.60% | ~7 |
 | Death To Diplomacy | 0.50% | ~6 |
 | Get Over Here! | 0.50% | ~6 |

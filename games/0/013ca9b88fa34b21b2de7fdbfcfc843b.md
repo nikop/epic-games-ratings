@@ -6,7 +6,7 @@ Rating: 4.63 (Ranked 357)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Azoria Beckons | 5.00% | ~450 |
-| A Thorny Situation | 4.00% | ~360 |
+| A Thorny Situation | 5.00% | ~450 |
 | ... And Spit Back Out | 4.00% | ~360 |
 | Calm Sailing | 3.00% | ~270 |
 | Miner 49er | 3.00% | ~270 |

@@ -37,7 +37,7 @@
   "Tags": [],
   "EOS_Progressed": 314,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -1776,9 +1776,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
       "SetID": "caeik3h",
       "Name": "No Survivors II",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 254
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_WITH_VEZNAN_POWERS",
@@ -1856,9 +1856,9 @@
       "ID": "KR4_ACHIEVEMENT_OLAF",
       "SetID": "caeik3h",
       "Name": "Let It Go!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 126
     },
     {
       "ID": "KR4_ACHIEVEMENT_OLOCH_MAX",
@@ -2071,8 +2071,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-12T10:04:10.8385882+00:00",
+  "LastChanged_Achievements": "2024-01-12T11:04:30.8973567+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:57:30.5812606+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:04:10.8386792+00:00"
+  "LastUpdate_Ratings": "2024-01-12T10:57:37.092259+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:04:30.8974335+00:00"
 }

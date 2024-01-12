@@ -19,8 +19,8 @@
 | Medal of Honor | 35.00% | ~1,472 |
 | Meritorious Service Medal | 35.00% | ~1,472 |
 | Soldier Ally | 35.00% | ~1,472 |
+| Charismatic | 35.00% | ~1,472 |
 | Soldier | 34.00% | ~1,430 |
-| Charismatic | 34.00% | ~1,430 |
 | Asari Ally | 33.00% | ~1,388 |
 | Very Elusive | 33.00% | ~1,388 |
 | Colonial Savior | 32.00% | ~1,346 |
@@ -47,6 +47,7 @@
 | The Assassin | 23.00% | ~968 |
 | The Justicar | 22.00% | ~926 |
 | The Quarian | 22.00% | ~926 |
+| Ghost of the Father | 22.00% | ~926 |
 | The Prodigal | 22.00% | ~926 |
 | Galactic Explorer | 22.00% | ~926 |
 | Bringer of War | 22.00% | ~926 |
@@ -56,7 +57,6 @@
 | Battlemaster | 21.00% | ~883 |
 | Catharsis | 21.00% | ~883 |
 | Fade Away | 21.00% | ~883 |
-| Ghost of the Father | 21.00% | ~883 |
 | The Cure | 21.00% | ~883 |
 | Big Game Hunter | 21.00% | ~883 |
 | Revenge! | 21.00% | ~883 |
@@ -80,11 +80,11 @@
 | World Shaker | 18.00% | ~757 |
 | First Aid Specialist | 17.00% | ~715 |
 | Liberator | 17.00% | ~715 |
+| Savior | 16.00% | ~673 |
 | Weapon Specialist | 16.00% | ~673 |
 | Pathfinder | 16.00% | ~673 |
 | Tunnel Rat | 16.00% | ~673 |
 | Arbiter | 16.00% | ~673 |
-| Savior | 15.00% | ~631 |
 | Lost and Found | 15.00% | ~631 |
 | Paramour II | 14.00% | ~589 |
 | Party Crasher | 14.00% | ~589 |

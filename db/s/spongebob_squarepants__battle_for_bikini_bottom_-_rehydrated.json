@@ -2,7 +2,7 @@
   "ID": "b3d490d845c040ee82fd02f400ab0efc",
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
-  "Ranking_Rating": 344,
+  "Ranking_Rating": 345,
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 300,
@@ -353,7 +353,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 960,
+  "EOS_Progressed": 961,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 1,
@@ -2578,6 +2578,11 @@
       "Time": "2024-01-12T07:05:31.1283545+00:00",
       "NumProgressed": 960,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-12T11:05:03.1105281+00:00",
+      "NumProgressed": 961,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2838,22 +2843,22 @@
       "Name": "Time For Tutorial",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 960,
+      "Progressed": 961,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-12T10:04:40.2657071+00:00",
+  "LastChanged_Achievements": "2024-01-12T11:05:03.1105278+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:58:30.6580194+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:04:40.265753+00:00"
+  "LastUpdate_Ratings": "2024-01-12T10:58:44.3484769+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:05:03.1105623+00:00"
 }

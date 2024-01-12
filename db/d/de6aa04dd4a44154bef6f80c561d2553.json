@@ -323,9 +323,9 @@
       "ID": "Chapter04_AJourneyBegins",
       "SetID": "c8fdd59",
       "Name": "A Journey Begins",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Chapter05_Breakout",
@@ -595,9 +595,9 @@
       "ID": "WeWasHere",
       "SetID": "c8fdd59",
       "Name": "We Was Here",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "WithoutDiscrimination",
@@ -618,8 +618,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2024-01-12T10:10:11.6258393+00:00",
+  "LastChanged_Achievements": "2024-01-12T11:10:24.151149+00:00",
   "LastUpdate_AppInfo": "2024-01-08T17:57:08.0794756+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:57:34.3292214+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:10:11.6258661+00:00"
+  "LastUpdate_Ratings": "2024-01-12T10:57:41.6699212+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:10:24.1511749+00:00"
 }

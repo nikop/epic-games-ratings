@@ -3,8 +3,8 @@
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 331,
-  "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_Completed": 291,
+  "Ranking_EOS_NewPlayers": 430,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 686,
+  "EOS_Progressed": 687,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2018,6 +2018,11 @@
       "Time": "2024-01-10T22:05:07.4994815+00:00",
       "NumProgressed": 686,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T11:06:17.6136683+00:00",
+      "NumProgressed": 687,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -2051,9 +2056,9 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 426
     },
     {
       "ID": "Chapter10",
@@ -2085,7 +2090,7 @@
       "Name": "The Veteran",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "Chapter5",
@@ -2107,9 +2112,9 @@
       "ID": "Chapter7",
       "SetID": "70l3651",
       "Name": "Good as Fish",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 76
     },
     {
       "ID": "Chapter8",
@@ -2117,7 +2122,7 @@
       "Name": "Her Eyes",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Chapter9",
@@ -2133,7 +2138,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "Collectibles2",
@@ -2181,7 +2186,7 @@
       "Name": "Like Flying...",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "GollumChoices",
@@ -2205,7 +2210,7 @@
       "Name": "Memories",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "Murderer",
@@ -2316,14 +2321,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 686,
+      "Progressed": 687,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2024-01-12T10:05:47.6970526+00:00",
+  "LastChanged_Achievements": "2024-01-12T11:06:17.6136678+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.7354128+00:00",
-  "LastUpdate_Ratings": "2024-01-12T10:00:11.569324+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:05:47.6970916+00:00"
+  "LastUpdate_Ratings": "2024-01-12T11:00:40.471535+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:06:17.6137058+00:00"
 }

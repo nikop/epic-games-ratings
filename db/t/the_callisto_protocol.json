@@ -2183,9 +2183,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 22191,
+  "EOS_Progressed": 22194,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1126,
+  "EOS_NewPlayers": 1124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13583,6 +13583,11 @@
       "Time": "2024-01-12T10:09:47.3341799+00:00",
       "NumProgressed": 22191,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-12T11:09:57.2657394+00:00",
+      "NumProgressed": 22194,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13658,7 +13663,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1776
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -13698,7 +13703,7 @@
       "Name": "Get a Grip",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 4882
+      "UsersEstimate": 4883
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -13722,7 +13727,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4438
+      "UsersEstimate": 4439
     },
     {
       "ID": "KILL_ROBOT",
@@ -13754,7 +13759,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 3994
+      "UsersEstimate": 3995
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -13762,7 +13767,7 @@
       "Name": "Reforged",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4216
+      "UsersEstimate": 4217
     },
     {
       "ID": "PRINT_WEAPON",
@@ -13770,7 +13775,7 @@
       "Name": "Paper Jams",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5104
+      "UsersEstimate": 5105
     },
     {
       "ID": "SHARE_PHOTO",
@@ -13794,7 +13799,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3772
+      "UsersEstimate": 3773
     },
     {
       "ID": "STORY_HABITAT",
@@ -13952,9 +13957,9 @@
       "ID": "KINETIC_HAMMER",
       "SetID": "6j5ggkc",
       "Name": "It\u0027s Time",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 506
+      "UsersEstimate": 607
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -13969,13 +13974,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22191,
+      "Progressed": 22194,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10117,
+      "Progressed": 10120,
       "Completed": 29
     }
   ],
@@ -13983,8 +13988,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-11T23:03:11.4531837+00:00",
-  "LastChanged_Achievements": "2024-01-12T10:09:47.3341794+00:00",
+  "LastChanged_Achievements": "2024-01-12T11:09:57.2657387+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-12T10:03:23.8305998+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:09:47.3343342+00:00"
+  "LastUpdate_Ratings": "2024-01-12T11:03:36.8955265+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:09:57.2658125+00:00"
 }

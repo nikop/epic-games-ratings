@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 22.00% | ~35 |
-| Tinkerer | 17.00% | ~27 |
+| Self-Defence | 22.00% | ~36 |
+| Tinkerer | 17.00% | ~28 |
 | Welcome to the Club | 12.00% | ~19 |
 | A new World ahead | 10.00% | ~16 |
-| Don't Cry Wolf | 9.00% | ~14 |
+| Don't Cry Wolf | 9.00% | ~15 |
 | Apprentice | 6.00% | ~10 |
 | Craftsmen | 4.00% | ~6 |
 | Defeat Tezuth | 4.00% | ~6 |
@@ -57,7 +57,7 @@
 | Whispers of the Sand | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 161 (Ranked 454)  
+Progressed: 162 (Ranked 453)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 155 | 0 |
 | 2024-01-10 | 157 | 0 |
 | 2024-01-11 | 159 | 0 |
-| 2024-01-12 | 161 | 0 |
+| 2024-01-12 | 162 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

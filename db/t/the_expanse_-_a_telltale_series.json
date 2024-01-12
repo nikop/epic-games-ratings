@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -343,7 +343,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18889,
+  "EOS_Progressed": 18891,
   "EOS_Completed": 63,
   "EOS_NewPlayers": 640,
   "EOS_NewCompleters": 5,
@@ -17113,6 +17113,11 @@
       "Time": "2024-01-12T10:03:36.1812206+00:00",
       "NumProgressed": 18889,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-12T11:03:52.8796108+00:00",
+      "NumProgressed": 18891,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17253,7 +17258,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "25",
@@ -17301,7 +17306,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2833
+      "UsersEstimate": 2834
     },
     {
       "ID": "30",
@@ -17333,7 +17338,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2644
+      "UsersEstimate": 2645
     },
     {
       "ID": "7",
@@ -17365,7 +17370,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "32",
@@ -17404,13 +17409,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18889,
+      "Progressed": 18891,
       "Completed": 63
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4843,
+      "Progressed": 4845,
       "Completed": 1294
     }
   ],
@@ -17418,8 +17423,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-11T01:50:11.8166633+00:00",
-  "LastChanged_Achievements": "2024-01-12T10:03:36.1812202+00:00",
+  "LastChanged_Achievements": "2024-01-12T11:03:52.8796101+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-12T10:00:29.8126348+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:03:36.1813877+00:00"
+  "LastUpdate_Ratings": "2024-01-12T11:02:50.5980182+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:03:52.8797086+00:00"
 }

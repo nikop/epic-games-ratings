@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -189,7 +189,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1966,
+  "EOS_Progressed": 1967,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
@@ -3599,6 +3599,11 @@
       "Time": "2024-01-12T10:05:04.8065987+00:00",
       "NumProgressed": 1966,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-12T11:05:30.4484712+00:00",
+      "NumProgressed": 1967,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3674,7 +3679,7 @@
       "Name": "Balding bloot!",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "18",
@@ -3770,7 +3775,7 @@
       "Name": "Hug therapy",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "30",
@@ -3818,7 +3823,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "7",
@@ -3849,15 +3854,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1966,
+      "Progressed": 1967,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-12T10:05:04.806598+00:00",
+  "LastChanged_Achievements": "2024-01-12T11:05:30.4484707+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.2496519+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:59:58.4302929+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:05:04.8066542+00:00"
+  "LastUpdate_Ratings": "2024-01-12T11:00:25.5302373+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:05:30.4485047+00:00"
 }

@@ -5,21 +5,21 @@ Rating: 4.52 (Ranked 578)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 19.00% | ~23,076 |
-| I've Had Enough! | 14.00% | ~17,004 |
-| Fists, Fury & a lot of Rage | 10.00% | ~12,145 |
-| Seasoned Fighter | 9.00% | ~10,931 |
-| All For One and One For All | 8.00% | ~9,716 |
-| Home Sweet Home? | 6.00% | ~7,287 |
-| A New Age | 5.00% | ~6,073 |
+| All Grown Up! | 19.00% | ~23,081 |
+| I've Had Enough! | 14.00% | ~17,007 |
+| Fists, Fury & a lot of Rage | 10.00% | ~12,148 |
+| Seasoned Fighter | 9.00% | ~10,933 |
+| All For One and One For All | 8.00% | ~9,718 |
+| Home Sweet Home? | 6.00% | ~7,289 |
+| A New Age | 5.00% | ~6,074 |
 | Oh Baby, A Triple | 3.00% | ~3,644 |
 | Master of Disguise | 3.00% | ~3,644 |
 | Symbiotic | 3.00% | ~3,644 |
-| Battle Hardened | 2.00% | ~2,429 |
-| Double Punch! | 2.00% | ~2,429 |
-| It's Mayhem! | 2.00% | ~2,429 |
-| Right back at'cha | 2.00% | ~2,429 |
-| Spectacular Finisher | 2.00% | ~2,429 |
+| Battle Hardened | 2.00% | ~2,430 |
+| Double Punch! | 2.00% | ~2,430 |
+| It's Mayhem! | 2.00% | ~2,430 |
+| Right back at'cha | 2.00% | ~2,430 |
+| Spectacular Finisher | 2.00% | ~2,430 |
 | Cautious Veteran | 1.00% | ~1,215 |
 | Martyrdom | 1.00% | ~1,215 |
 | Katamari | 0.90% | ~1,093 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 578)
 | What's Mine is Yours | 0.10% | ~121 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121,454 (Ranked 93)  
+Progressed: 121,478 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,11 +79,11 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 120,421 | 0 |
 | 2024-01-10 | 120,843 | 0 |
 | 2024-01-11 | 121,242 | 0 |
-| 2024-01-12 | 121,454 | 0 |
+| 2024-01-12 | 121,478 | 0 |
 ## Awards
 Max (Great Boss Battles): 54  (Ranked 446)  
-Sum: 54 (Ranked 505)  
-Diff (max vs sum): -59  
+Sum: 54 (Ranked 506)  
+Diff (max vs sum): -60  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 54 |

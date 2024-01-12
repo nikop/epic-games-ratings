@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 88.00% | ~124 |
+| Home Sweet Home | 88.00% | ~125 |
 | Enough rooms to swing a cat | 77.00% | ~109 |
 | First to the post | 77.00% | ~109 |
-| A kind of Magic | 67.00% | ~94 |
-| Connected | 57.00% | ~80 |
-| Expansion | 55.00% | ~78 |
-| Mine! | 52.00% | ~73 |
-| Harvest Time | 50.00% | ~70 |
-| Artificer's Apprentice | 43.00% | ~61 |
-| Get out of here! | 40.00% | ~56 |
-| Fly the friendly Sky | 40.00% | ~56 |
-| Alchemist's Apprentice | 35.00% | ~49 |
-| Necromancer's Apprentice | 35.00% | ~49 |
-| Friend of Lyraine | 33.00% | ~47 |
+| A kind of Magic | 66.00% | ~94 |
+| Connected | 57.00% | ~81 |
+| Expansion | 54.00% | ~77 |
+| Mine! | 51.00% | ~72 |
+| Harvest Time | 50.00% | ~71 |
+| Artificer's Apprentice | 42.00% | ~60 |
+| Fly the friendly Sky | 40.00% | ~57 |
+| Get out of here! | 39.00% | ~55 |
+| Alchemist's Apprentice | 35.00% | ~50 |
+| Necromancer's Apprentice | 35.00% | ~50 |
+| Friend of Lyraine | 32.00% | ~45 |
 | Redecorating | 29.00% | ~41 |
 | The Circle | 29.00% | ~41 |
-| Bad JuJu | 23.00% | ~32 |
+| Bad JuJu | 23.00% | ~33 |
 | Friend of Sevenkeeps | 21.00% | ~30 |
 | Slave to the rhythm | 19.00% | ~27 |
-| Castle Meldec | 18.00% | ~25 |
-| Sevenkeeps Seat of Kings | 18.00% | ~25 |
-| Friend of Alluvyan | 16.00% | ~23 |
-| Friend of Connach | 16.00% | ~23 |
+| Castle Meldec | 18.00% | ~26 |
+| Sevenkeeps Seat of Kings | 18.00% | ~26 |
+| Friend of Alluvyan | 15.00% | ~21 |
 | Friend of Gillyshire | 15.00% | ~21 |
+| Friend of Connach | 15.00% | ~21 |
 | Stormwatch Faste | 13.00% | ~18 |
 | Friend of Orgash | 13.00% | ~18 |
 | Friend of Bastion | 13.00% | ~18 |
@@ -38,30 +38,30 @@
 | A Master of Magic | 11.00% | ~16 |
 | Magic Academy | 11.00% | ~16 |
 | Friend of Windholme | 10.00% | ~14 |
-| Defeat Gor | 9.00% | ~13 |
-| Defeat Uram | 9.00% | ~13 |
-| Yngrid's Tale | 9.00% | ~13 |
-| The Forge of Regan Gor | 9.00% | ~13 |
 | Mage Teacher | 9.00% | ~13 |
-| A Joke | 9.00% | ~13 |
+| Defeat Gor | 8.00% | ~11 |
+| Defeat Uram | 8.00% | ~11 |
+| Yngrid's Tale | 8.00% | ~11 |
+| The Forge of Regan Gor | 8.00% | ~11 |
 | Tuscari Sea Portal | 8.00% | ~11 |
 | A Monopoly of Might | 8.00% | ~11 |
 | Friend of Uram Gor | 8.00% | ~11 |
+| A Joke | 8.00% | ~11 |
 | Crypt of the Revenant | 7.00% | ~10 |
 | Fireforge | 7.00% | ~10 |
-| Get to the Airship! | 6.00% | ~8 |
-| Defeat Hokan | 6.00% | ~8 |
-| Defeat Ianna | 6.00% | ~8 |
-| Defeat Raith | 6.00% | ~8 |
-| Defeat Undergast | 6.00% | ~8 |
-| Elynn's Tale | 6.00% | ~8 |
-| Lore's Tale | 6.00% | ~8 |
-| Master Artificer | 6.00% | ~8 |
-| Heroes | 6.00% | ~8 |
-| My Friends! | 6.00% | ~8 |
-| Balanced | 6.00% | ~8 |
-| Master Necromancer | 6.00% | ~8 |
-| Friend of Grey Dusk Vale | 6.00% | ~8 |
+| Get to the Airship! | 6.00% | ~9 |
+| Defeat Hokan | 6.00% | ~9 |
+| Defeat Ianna | 6.00% | ~9 |
+| Defeat Raith | 6.00% | ~9 |
+| Defeat Undergast | 6.00% | ~9 |
+| Elynn's Tale | 6.00% | ~9 |
+| Lore's Tale | 6.00% | ~9 |
+| Master Artificer | 6.00% | ~9 |
+| Heroes | 6.00% | ~9 |
+| My Friends! | 6.00% | ~9 |
+| Balanced | 6.00% | ~9 |
+| Master Necromancer | 6.00% | ~9 |
+| Friend of Grey Dusk Vale | 6.00% | ~9 |
 | Misty Coast Dragonbones | 5.00% | ~7 |
 | Defeat Isgrimm | 4.00% | ~6 |
 | Defeat Rohen | 4.00% | ~6 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141 (Ranked 468)  
+Progressed: 142 (Ranked 467)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 132 | 0 |
 | 2024-01-10 | 138 | 0 |
 | 2024-01-11 | 140 | 0 |
-| 2024-01-12 | 141 | 0 |
+| 2024-01-12 | 142 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

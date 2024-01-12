@@ -3,8 +3,8 @@
   "Name": "Quick Race",
   "ProductSlug": "quick-race-293d39",
   "Ranking_EOS_Progress": 526,
-  "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-12-29T17:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 74,
+  "EOS_Progressed": 75,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.7,
+  "EOS_Completed_Percentage": 2.67,
   "EosHistory": [
     {
       "Time": "2023-12-23T19:03:08.1103933+00:00",
@@ -332,6 +332,11 @@
       "Time": "2024-01-11T19:04:42.5785702+00:00",
       "NumProgressed": 74,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-12T11:05:29.7557222+00:00",
+      "NumProgressed": 75,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-23T19:03:08.11154+00:00",
@@ -350,7 +355,7 @@
       "ID": "10_RACES",
       "SetID": "2g288ag",
       "Name": "Swift Decade Sprinter",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 19
     },
@@ -358,7 +363,7 @@
       "ID": "15_RACES",
       "SetID": "2g288ag",
       "Name": "Turbocharged Odyssey",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -368,7 +373,7 @@
       "Name": "Rookie Racer",
       "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "20_RACES",
@@ -390,7 +395,7 @@
       "ID": "2PLAYERS",
       "SetID": "2g288ag",
       "Name": "Dynamic Duo",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 90,
       "UsersEstimate": 22
     },
@@ -398,9 +403,9 @@
       "ID": "2_MAPS",
       "SetID": "2g288ag",
       "Name": "Twice on the Track, Twice to win",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "2_RACES",
@@ -408,7 +413,7 @@
       "Name": "Double Trouble",
       "Percentage": 84,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "30_RACES",
@@ -422,15 +427,15 @@
       "ID": "3_RACES",
       "SetID": "2g288ag",
       "Name": "Triple Threat",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "5_MAPS",
       "SetID": "2g288ag",
       "Name": "Track Tourist",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 13
     },
@@ -446,30 +451,30 @@
       "ID": "NO_CRASH",
       "SetID": "2g288ag",
       "Name": "Zen Racer on Map Number 1",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "WIN_AGAINST_BOT",
       "SetID": "2g288ag",
       "Name": "Unbeatable Challenge",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
     {
       "ID": "2g288ag",
       "IsBase": true,
-      "Progressed": 74,
+      "Progressed": 75,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-12-23T19:03:08.11154+00:00",
-  "LastChanged_Achievements": "2024-01-12T10:05:04.1411889+00:00",
+  "LastChanged_Achievements": "2024-01-12T11:05:29.7557219+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:58.0575536+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:59:17.8405244+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:05:04.1412141+00:00"
+  "LastUpdate_Ratings": "2024-01-12T10:59:38.365461+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:05:29.7557306+00:00"
 }

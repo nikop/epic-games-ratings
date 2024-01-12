@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4207,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -8129,9 +8129,9 @@
       "ID": "achievement_114",
       "SetID": "d252ncf",
       "Name": "Savior",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 631
+      "UsersEstimate": 673
     },
     {
       "ID": "achievement_115",
@@ -8417,9 +8417,9 @@
       "ID": "achievement_32",
       "SetID": "b9pe172",
       "Name": "Charismatic",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1472
     },
     {
       "ID": "achievement_33",
@@ -8633,9 +8633,9 @@
       "ID": "achievement_57",
       "SetID": "d252ncf",
       "Name": "Ghost of the Father",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 883
+      "UsersEstimate": 926
     },
     {
       "ID": "achievement_58",
@@ -9021,8 +9021,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-12T10:10:16.6618336+00:00",
+  "LastChanged_Achievements": "2024-01-12T11:10:29.54633+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:59:00.5356746+00:00",
-  "LastUpdate_Ratings": "2024-01-12T10:03:25.3225147+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:10:16.662078+00:00"
+  "LastUpdate_Ratings": "2024-01-12T11:03:38.5229688+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:10:29.5465148+00:00"
 }

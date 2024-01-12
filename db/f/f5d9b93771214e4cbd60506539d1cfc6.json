@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 160928,
+  "EOS_Progressed": 160930,
   "EOS_Completed": 389,
-  "EOS_NewPlayers": 955,
+  "EOS_NewPlayers": 952,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -24958,6 +24958,11 @@
       "Time": "2024-01-12T10:04:38.1154239+00:00",
       "NumProgressed": 160928,
       "NumCompleted": 389
+    },
+    {
+      "Time": "2024-01-12T11:05:00.8911413+00:00",
+      "NumProgressed": 160930,
+      "NumCompleted": 389
     }
   ],
   "TotalAchievements": 31,
@@ -24977,7 +24982,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 112650
+      "UsersEstimate": 112651
     },
     {
       "ID": "EAwards_10",
@@ -25017,7 +25022,7 @@
       "Name": "Do or Do Not",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 64371
+      "UsersEstimate": 64372
     },
     {
       "ID": "EAwards_15",
@@ -25041,7 +25046,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 35404
+      "UsersEstimate": 35405
     },
     {
       "ID": "EAwards_18",
@@ -25049,7 +25054,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 35404
+      "UsersEstimate": 35405
     },
     {
       "ID": "EAwards_19",
@@ -25153,7 +25158,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 30576
+      "UsersEstimate": 30577
     },
     {
       "ID": "EAwards_30",
@@ -25169,7 +25174,7 @@
       "Name": "Snuffed Out",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 24139
+      "UsersEstimate": 24140
     },
     {
       "ID": "EAwards_5",
@@ -25177,7 +25182,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 19311
+      "UsersEstimate": 19312
     },
     {
       "ID": "EAwards_6",
@@ -25209,14 +25214,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 19311
+      "UsersEstimate": 19312
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 160928,
+      "Progressed": 160930,
       "Completed": 389
     }
   ],
@@ -25224,8 +25229,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2024-01-12T10:04:38.1154235+00:00",
+  "LastChanged_Achievements": "2024-01-12T11:05:00.891141+00:00",
   "LastUpdate_AppInfo": "2024-01-12T09:57:07.503551+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:58:22.9586092+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:04:38.1156081+00:00"
+  "LastUpdate_Ratings": "2024-01-12T10:58:35.8898708+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:05:00.8912973+00:00"
 }

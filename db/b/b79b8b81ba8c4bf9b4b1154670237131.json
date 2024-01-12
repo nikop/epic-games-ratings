@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16602,
+  "EOS_Progressed": 16604,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6435,6 +6435,11 @@
       "Time": "2024-01-12T07:10:08.9720079+00:00",
       "NumProgressed": 16602,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-12T11:09:50.6385363+00:00",
+      "NumProgressed": 16604,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6447,7 +6452,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6309
+      "UsersEstimate": 6310
     },
     {
       "ID": "ACH_AE_10",
@@ -6479,7 +6484,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12452
+      "UsersEstimate": 12453
     },
     {
       "ID": "ACH_AE_14",
@@ -6487,7 +6492,7 @@
       "Name": "Sticky Situation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3320
+      "UsersEstimate": 3321
     },
     {
       "ID": "ACH_AE_15",
@@ -6495,7 +6500,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3652
+      "UsersEstimate": 3653
     },
     {
       "ID": "ACH_AE_16",
@@ -6503,7 +6508,7 @@
       "Name": "Energy Efficient",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2158
+      "UsersEstimate": 2159
     },
     {
       "ID": "ACH_AE_17",
@@ -6527,7 +6532,7 @@
       "Name": "Signature Style",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2490
+      "UsersEstimate": 2491
     },
     {
       "ID": "ACH_AE_2",
@@ -6535,7 +6540,7 @@
       "Name": "Back to School",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3984
+      "UsersEstimate": 3985
     },
     {
       "ID": "ACH_AE_20",
@@ -6559,7 +6564,7 @@
       "Name": "The High Road",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3984
+      "UsersEstimate": 3985
     },
     {
       "ID": "ACH_AE_23",
@@ -6623,7 +6628,7 @@
       "Name": "Pajama Boy",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "ACH_AE_30",
@@ -6726,7 +6731,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16602,
+      "Progressed": 16604,
       "Completed": 15
     }
   ],
@@ -6734,8 +6739,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-06T19:57:04.811996+00:00",
-  "LastChanged_Achievements": "2024-01-12T10:09:41.4709063+00:00",
+  "LastChanged_Achievements": "2024-01-12T11:09:50.6385359+00:00",
   "LastUpdate_AppInfo": "2024-01-09T19:56:59.6965527+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:59:54.5369485+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:09:41.4710137+00:00"
+  "LastUpdate_Ratings": "2024-01-12T11:00:20.5778955+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:09:50.6385966+00:00"
 }

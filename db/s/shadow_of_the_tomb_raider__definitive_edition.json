@@ -2,12 +2,12 @@
   "ID": "4b5461ca8d1c488787b5200b420de066",
   "Name": "Shadow of the Tomb Raider: Definitive Edition",
   "ProductSlug": "shadow-of-the-tomb-raider",
-  "Ranking_Rating": 344,
+  "Ranking_Rating": 345,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 581,
+  "Ranking_EOS_NewPlayers": 579,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-12-30T16:00:00+00:00",
@@ -7117,10 +7117,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 38932,
       "NumberOfAwardsMax": 29524
+    },
+    {
+      "Time": "2024-01-12T11:00:16.812313+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 38933,
+      "NumberOfAwardsMax": 29524
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 38932,
+  "NumberOfAwards": 38933,
   "NumberOfAwardsMax": 29524,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7146,7 +7152,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 990
+      "Count": 991
     },
     {
       "Text": "This game is Relaxing",
@@ -7208,8 +7214,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:36.072499+00:00",
-  "LastChanged": "2024-01-11T22:59:46.2602871+00:00",
+  "LastChanged": "2024-01-12T11:00:16.8123128+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:36.2364823+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:59:51.2286235+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:05:15.289589+00:00"
+  "LastUpdate_Ratings": "2024-01-12T11:00:16.8123133+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:05:41.8764206+00:00"
 }

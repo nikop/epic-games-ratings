@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -531,9 +531,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 257602,
+  "EOS_Progressed": 257604,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 709,
+  "EOS_NewPlayers": 707,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30476,6 +30476,11 @@
       "Time": "2024-01-12T10:04:24.8769846+00:00",
       "NumProgressed": 257602,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-12T11:04:46.4273101+00:00",
+      "NumProgressed": 257604,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -30551,7 +30556,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 33488
+      "UsersEstimate": 33489
     },
     {
       "ID": "ACH_HATTRICK",
@@ -30703,7 +30708,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64400
+      "UsersEstimate": 64401
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -30807,7 +30812,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64400
+      "UsersEstimate": 64401
     },
     {
       "ID": "ACH_SOREAD",
@@ -30902,7 +30907,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 257602,
+      "Progressed": 257604,
       "Completed": 8
     }
   ],
@@ -30910,8 +30915,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-07T06:59:33.5120789+00:00",
-  "LastChanged_Achievements": "2024-01-12T10:04:24.8769842+00:00",
+  "LastChanged_Achievements": "2024-01-12T11:04:46.4273097+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:49.3537821+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:58:53.8391837+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:04:24.8772301+00:00"
+  "LastUpdate_Ratings": "2024-01-12T10:59:10.2709839+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:04:46.4274852+00:00"
 }

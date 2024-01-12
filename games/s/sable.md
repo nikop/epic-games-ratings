@@ -6,13 +6,13 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~37,538 |
-| Just The Two of Us | 32.00% | ~35,330 |
+| Simoon | 34.00% | ~37,539 |
+| Just The Two of Us | 32.00% | ~35,331 |
 | Up On High | 25.00% | ~27,602 |
 | Under The Hood | 25.00% | ~27,602 |
-| Got Your Nose | 24.00% | ~26,497 |
-| The Gift of Gab | 24.00% | ~26,497 |
-| Wrapping Up | 22.00% | ~24,289 |
+| Got Your Nose | 24.00% | ~26,498 |
+| The Gift of Gab | 24.00% | ~26,498 |
+| Wrapping Up | 22.00% | ~24,290 |
 | More Than A Box Of Sand | 18.00% | ~19,873 |
 | The Dunboyne | 17.00% | ~18,769 |
 | Badge Hobbyist | 17.00% | ~18,769 |
@@ -39,16 +39,16 @@ Number of Ratings: 43  (23.09.2022)
 | Centre Of Brunswick | 9.00% | ~9,937 |
 | Bike Collector | 9.00% | ~9,937 |
 | Not That Kind Of Gliding | 9.00% | ~9,937 |
-| The Scrapper Mask | 8.00% | ~8,832 |
-| Shadow Of Neave | 8.00% | ~8,832 |
-| Fragile Goods | 8.00% | ~8,832 |
-| Glider on the Storm | 8.00% | ~8,832 |
-| Squeeze One Out | 8.00% | ~8,832 |
-| Dune Rider | 8.00% | ~8,832 |
-| The Beetle Mask | 7.00% | ~7,728 |
-| The Guard Mask | 7.00% | ~7,728 |
-| Smoked Out | 7.00% | ~7,728 |
-| A Hard Place | 7.00% | ~7,728 |
+| The Scrapper Mask | 8.00% | ~8,833 |
+| Shadow Of Neave | 8.00% | ~8,833 |
+| Fragile Goods | 8.00% | ~8,833 |
+| Glider on the Storm | 8.00% | ~8,833 |
+| Squeeze One Out | 8.00% | ~8,833 |
+| Dune Rider | 8.00% | ~8,833 |
+| The Beetle Mask | 7.00% | ~7,729 |
+| The Guard Mask | 7.00% | ~7,729 |
+| Smoked Out | 7.00% | ~7,729 |
+| A Hard Place | 7.00% | ~7,729 |
 | Amateur Historian | 6.00% | ~6,624 |
 | The Climber Mask | 6.00% | ~6,624 |
 | The Merchant Mask | 6.00% | ~6,624 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,312 |
 | Vivacious Vivarium | 2.00% | ~2,208 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110,406 (Ranked 97)  
+Progressed: 110,408 (Ranked 97)  
 Completed: 1,124 (1.02%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 1,124 (1.02%) (Ranked 179)
 | 2024-01-09 | 110,076 | 1,117 |
 | 2024-01-10 | 110,218 | 1,120 |
 | 2024-01-11 | 110,350 | 1,124 |
-| 2024-01-12 | 110,406 | 1,124 |
+| 2024-01-12 | 110,408 | 1,124 |
 ## Awards
 Max (Extremely Fun): 30  (Ranked 524)  
 Sum: 151 (Ranked 441)  

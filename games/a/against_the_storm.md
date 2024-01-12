@@ -22,10 +22,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 5.00% | ~1,036 |
 | Frosts | 5.00% | ~1,036 |
 | Land of Greed | 5.00% | ~1,036 |
-| Homesick | 4.00% | ~828 |
-| Fertile Meadows | 4.00% | ~828 |
-| Monastery of the Holy Flame | 4.00% | ~828 |
-| A Real Challenge | 4.00% | ~828 |
+| Homesick | 4.00% | ~829 |
+| Fertile Meadows | 4.00% | ~829 |
+| Monastery of the Holy Flame | 4.00% | ~829 |
+| A Real Challenge | 4.00% | ~829 |
 | Ruined Armory | 3.00% | ~621 |
 | Bandit Camp | 3.00% | ~621 |
 | Barren Lands | 3.00% | ~621 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,712 (Ranked 155)  
-Completed: 34 (0.16%) (Ranked 288)  
+Progressed: 20,715 (Ranked 155)  
+Completed: 34 (0.16%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -333,7 +333,7 @@ Completed: 34 (0.16%) (Ranked 288)
 | 2024-01-09 | 20,595 | 34 |
 | 2024-01-10 | 20,658 | 34 |
 | 2024-01-11 | 20,700 | 34 |
-| 2024-01-12 | 20,712 | 34 |
+| 2024-01-12 | 20,715 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,373 (Ranked 177)  

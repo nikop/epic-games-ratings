@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-island-0014e2",
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 581,
+  "Ranking_EOS_NewPlayers": 579,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-16T16:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:09.9671192+00:00",
   "LastChanged": "2023-03-31T05:57:09.9671193+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:28.6358024+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:59:21.4276417+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:05:22.2885506+00:00"
+  "LastUpdate_Ratings": "2024-01-12T10:59:42.1604588+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:05:49.6753181+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 666,
+  "EOS_Progressed": 667,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -1384,6 +1384,11 @@
       "Time": "2024-01-12T09:05:03.2753193+00:00",
       "NumProgressed": 666,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-12T11:05:12.211951+00:00",
+      "NumProgressed": 667,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1457,9 +1462,9 @@
       "ID": "Graffiti_Artist",
       "SetID": "ek310c",
       "Name": "Urban Scrawl",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 7
     },
     {
       "ID": "Hacker",
@@ -1483,7 +1488,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "Hitman",
@@ -1505,9 +1510,9 @@
       "ID": "Investigative",
       "SetID": "ek310c",
       "Name": "Marvellous Toys",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 7
     },
     {
       "ID": "Left_Behind",
@@ -1626,7 +1631,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 666,
+      "Progressed": 667,
       "Completed": 6
     }
   ],
@@ -1634,8 +1639,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-12T10:04:48.4550335+00:00",
+  "LastChanged_Achievements": "2024-01-12T11:05:12.2119504+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:57:00.9618312+00:00",
-  "LastUpdate_Ratings": "2024-01-12T10:03:27.4143537+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:04:48.4550594+00:00"
+  "LastUpdate_Ratings": "2024-01-12T11:03:40.7461642+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:05:12.211978+00:00"
 }

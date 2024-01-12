@@ -1782,9 +1782,9 @@
       "ID": "ENDGAME",
       "SetID": "a1angca",
       "Name": "Perfectionist",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "FINDALLIES",
@@ -1934,8 +1934,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-12T10:04:00.4702238+00:00",
+  "LastChanged_Achievements": "2024-01-12T11:04:19.7377669+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:22.4582393+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:57:50.6964682+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:04:00.4702662+00:00"
+  "LastUpdate_Ratings": "2024-01-12T10:58:02.0096077+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:04:19.7378115+00:00"
 }

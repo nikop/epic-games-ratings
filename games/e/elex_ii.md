@@ -25,7 +25,7 @@ Number of Ratings: 124  (23.09.2022)
 | Globetrotter | 11.00% | ~26 |
 | Alb | 11.00% | ~26 |
 | Berserker | 11.00% | ~26 |
-| Perfectionist | 8.00% | ~19 |
+| Perfectionist | 9.00% | ~21 |
 | Hunter | 8.00% | ~19 |
 | Lover | 8.00% | ~19 |
 | Beam Me Up | 7.00% | ~17 |

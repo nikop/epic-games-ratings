@@ -6,29 +6,29 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 65.00% | ~278 |
-| Cartographer | 58.00% | ~248 |
-| A Strange Artefact | 54.00% | ~231 |
-| Insomnia | 49.00% | ~210 |
+| The Adventure Begins | 65.00% | ~279 |
+| Cartographer | 58.00% | ~249 |
+| A Strange Artefact | 54.00% | ~232 |
+| Insomnia | 48.00% | ~206 |
 | Lost & Found & Lost Again | 43.00% | ~184 |
 | From Whence we Came | 43.00% | ~184 |
-| Fire and Flood | 41.00% | ~175 |
+| Fire and Flood | 41.00% | ~176 |
 | Spooky! | 38.00% | ~163 |
 | Treasure Hunt | 36.00% | ~154 |
 | Shennong Herbalist | 35.00% | ~150 |
 | O Captain My Captain | 32.00% | ~137 |
 | Good Mama | 32.00% | ~137 |
-| Plunderer | 30.00% | ~128 |
+| Plunderer | 30.00% | ~129 |
 | Taxonomist | 27.00% | ~116 |
 | Traveller | 25.00% | ~107 |
-| Uncertain Loyalties | 25.00% | ~107 |
-| Roll to Save | 23.00% | ~98 |
-| Nahua Seeker | 23.00% | ~98 |
+| Uncertain Loyalties | 24.00% | ~103 |
+| Roll to Save | 23.00% | ~99 |
+| Nahua Seeker | 23.00% | ~99 |
 | Veteran Explorer | 22.00% | ~94 |
 | Red Flag Pirate | 20.00% | ~86 |
 | Iron Man | 17.00% | ~73 |
 | A Gentle Beast | 17.00% | ~73 |
-| Practical Palaeontology | 16.00% | ~68 |
+| Practical Palaeontology | 16.00% | ~69 |
 | Adventurer | 15.00% | ~64 |
 | For the Club! | 15.00% | ~64 |
 | Shortening of the Way | 15.00% | ~64 |
@@ -40,7 +40,7 @@ Number of Ratings: 20  (23.09.2022)
 | Discovery | 12.00% | ~51 |
 | Very Classy | 12.00% | ~51 |
 | Under the Table | 11.00% | ~47 |
-| It's Complicated | 11.00% | ~47 |
+| It's Complicated | 10.00% | ~43 |
 | Cold Blood, Warm Heart | 9.00% | ~39 |
 | No Laughing Matter | 8.00% | ~34 |
 | The Great Library | 8.00% | ~34 |
@@ -53,12 +53,12 @@ Number of Ratings: 20  (23.09.2022)
 | A Paris Sunset | 5.00% | ~21 |
 | The Director Perseveres | 5.00% | ~21 |
 | The Round Table | 5.00% | ~21 |
-| X Marks the Spot | 4.00% | ~17 |
 | Frugal | 4.00% | ~17 |
 | I Set Forth Again... and Again... and Again... | 4.00% | ~17 |
 | A Familiar Figure | 3.00% | ~13 |
 | Lunatic | 3.00% | ~13 |
 | A Perfect Map | 3.00% | ~13 |
+| X Marks the Spot | 3.00% | ~13 |
 | Risk/Reward | 3.00% | ~13 |
 | Look Ma, No Equipment! | 2.00% | ~9 |
 | It's Not Too Late | 0.90% | ~4 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | Pacifism Ain't Easy | 0.70% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 428 (Ranked 367)  
+Progressed: 429 (Ranked 367)  
 Completed: 1 (0.23%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,6 +145,7 @@ Completed: 1 (0.23%) (Ranked 272)
 | 2024-01-09 | 420 | 1 |
 | 2024-01-10 | 427 | 1 |
 | 2024-01-11 | 428 | 1 |
+| 2024-01-12 | 429 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -76,7 +76,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 428,
+  "EOS_Progressed": 429,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
@@ -746,6 +746,11 @@
       "Time": "2024-01-11T19:10:10.466484+00:00",
       "NumProgressed": 428,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-12T11:10:26.8445741+00:00",
+      "NumProgressed": 429,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -893,7 +898,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ach-campaign-story2",
@@ -925,7 +930,7 @@
       "Name": "Roll to Save",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ach-discover-locations",
@@ -933,7 +938,7 @@
       "Name": "Cartographer",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ach-discover-locations-high",
@@ -957,7 +962,7 @@
       "Name": "Fire and Flood",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ach-find-treasure",
@@ -971,9 +976,9 @@
       "ID": "ach-find-treasure-high",
       "SetID": "17ih7ma",
       "Name": "X Marks the Spot",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 13
     },
     {
       "ID": "ach-firstExpedition",
@@ -981,7 +986,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ach-hardExpeditions",
@@ -995,9 +1000,9 @@
       "ID": "ach-interspeciesLove",
       "SetID": "17ih7ma",
       "Name": "It\u0027s Complicated",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 43
     },
     {
       "ID": "ach-joinClubChallenge",
@@ -1099,9 +1104,9 @@
       "ID": "ach-noRest",
       "SetID": "17ih7ma",
       "Name": "Insomnia",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 206
     },
     {
       "ID": "ach-pacifist-goals",
@@ -1109,7 +1114,7 @@
       "Name": "Nahua Seeker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ach-paleMask-cure",
@@ -1123,9 +1128,9 @@
       "ID": "ach-paleMask-party",
       "SetID": "17ih7ma",
       "Name": "Uncertain Loyalties",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 103
     },
     {
       "ID": "ach-portal-return",
@@ -1165,7 +1170,7 @@
       "Name": "Practical Palaeontology",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ach-rob-shrines",
@@ -1173,7 +1178,7 @@
       "Name": "Plunderer",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ach-salamanderPrince",
@@ -1236,7 +1241,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 428,
+      "Progressed": 429,
       "Completed": 1
     }
   ],
@@ -1244,8 +1249,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-12T10:10:14.2915926+00:00",
+  "LastChanged_Achievements": "2024-01-12T11:10:26.8445737+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:11.9345433+00:00",
-  "LastUpdate_Ratings": "2024-01-12T10:00:29.6886439+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:10:14.2916469+00:00"
+  "LastUpdate_Ratings": "2024-01-12T11:02:50.4567915+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:10:26.8446186+00:00"
 }

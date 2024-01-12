@@ -8,12 +8,12 @@ Rating: 4.22 (Ranked 954)
 | The Outer Way | 27.00% | ~5,992 |
 | Flesh Wound | 26.00% | ~5,770 |
 | Desperate Times | 25.00% | ~5,548 |
-| Paper Jams | 23.00% | ~5,104 |
-| Get a Grip | 22.00% | ~4,882 |
-| Chew 'Em Up | 20.00% | ~4,438 |
-| Reforged | 19.00% | ~4,216 |
-| Float Like A Butterfly | 18.00% | ~3,994 |
-| If the SHU Fits... | 17.00% | ~3,772 |
+| Paper Jams | 23.00% | ~5,105 |
+| Get a Grip | 22.00% | ~4,883 |
+| Chew 'Em Up | 20.00% | ~4,439 |
+| Reforged | 19.00% | ~4,217 |
+| Float Like A Butterfly | 18.00% | ~3,995 |
+| If the SHU Fits... | 17.00% | ~3,773 |
 | Workplace Hazard | 16.00% | ~3,551 |
 | Without A Paddle | 14.00% | ~3,107 |
 | In the Pipe, Five by Five | 12.00% | ~2,663 |
@@ -25,11 +25,11 @@ Rating: 4.22 (Ranked 954)
 | What Lies Beneath | 10.00% | ~2,219 |
 | Full Circle | 10.00% | ~2,219 |
 | You Need a Gun | 9.00% | ~1,997 |
-| I Do Belong Here | 8.00% | ~1,775 |
+| I Do Belong Here | 8.00% | ~1,776 |
 | Keep Fighting | 7.00% | ~708 |
+| It's Time | 6.00% | ~607 |
 | In Striking Distance | 5.00% | ~1,110 |
 | The Commonality | 5.00% | ~1,110 |
-| It's Time | 5.00% | ~506 |
 | One Last Job | 3.00% | ~304 |
 | Mugshot | 2.00% | ~444 |
 | Big Spender | 2.00% | ~202 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 954)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,191 (Ranked 151)  
+Progressed: 22,194 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 82 (0.37%) (Ranked 245)
 | 2024-01-09 | 21,902 | 82 |
 | 2024-01-10 | 22,053 | 82 |
 | 2024-01-11 | 22,169 | 82 |
-| 2024-01-12 | 22,191 | 82 |
+| 2024-01-12 | 22,194 | 82 |
 ## Awards
 Max (Amazing Characters): 131  (Ranked 345)  
 Sum: 634 (Ranked 321)  

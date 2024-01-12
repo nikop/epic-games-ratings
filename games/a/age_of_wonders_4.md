@@ -34,6 +34,7 @@ Rating: 4.63 (Ranked 357)
 | Freed Lands of Manuhari | 3.00% | ~216 |
 | I've Got Everything I Need Right Here | 2.00% | ~144 |
 | God Emperor | 2.00% | ~144 |
+| Lord of Chaos | 2.00% | ~144 |
 | Arch Mage | 2.00% | ~144 |
 | The Creator | 2.00% | ~144 |
 | Eternal Lord | 2.00% | ~144 |
@@ -44,7 +45,6 @@ Rating: 4.63 (Ranked 357)
 | Chaos Surge | 2.00% | ~144 |
 | Spoils of War | 2.00% | ~144 |
 | Dawn of the Dread | 2.00% | ~144 |
-| Lord of Chaos | 1.00% | ~72 |
 | The Goddess of Nature | 1.00% | ~72 |
 | Manufactured War | 1.00% | ~72 |
 | Pruning for Progress | 1.00% | ~72 |

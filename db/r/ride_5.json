@@ -57,9 +57,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3556,
+  "EOS_Progressed": 3557,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8727,6 +8727,11 @@
       "Time": "2024-01-12T08:05:42.4948366+00:00",
       "NumProgressed": 3556,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T11:05:19.0560052+00:00",
+      "NumProgressed": 3557,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8739,7 +8744,7 @@
       "Name": "First Love",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -8747,7 +8752,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -8763,7 +8768,7 @@
       "Name": "Stamina Star",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -8915,7 +8920,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -8995,7 +9000,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -9027,7 +9032,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -9091,7 +9096,7 @@
       "Name": "Rivals to the End",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -9130,7 +9135,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3556,
+      "Progressed": 3557,
       "Completed": 0
     }
   ],
@@ -9138,8 +9143,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-11T14:58:44.7616206+00:00",
-  "LastChanged_Achievements": "2024-01-12T10:04:54.5372115+00:00",
+  "LastChanged_Achievements": "2024-01-12T11:05:19.0560048+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.6681713+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:59:04.1739003+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:04:54.5373862+00:00"
+  "LastUpdate_Ratings": "2024-01-12T10:59:22.9062652+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:05:19.0560756+00:00"
 }

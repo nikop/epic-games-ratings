@@ -70,6 +70,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Who Needs Luck? | 0.40% | ~17 |
 | Achievement Hunter | 0.30% | ~728 |
 | Challenge Increases | 0.30% | ~728 |
+| A Long Climb | 0.30% | ~728 |
 | New Game+ | 0.30% | ~728 |
 | Barbecue | 0.30% | ~728 |
 | Soul Stash | 0.30% | ~728 |
@@ -87,7 +88,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.30% | ~13 |
 | Quick Descent | 0.20% | ~486 |
 | A Week Attempt | 0.20% | ~486 |
-| A Long Climb | 0.20% | ~486 |
 | Hydrophobe | 0.20% | ~486 |
 | Dead Revels | 0.20% | ~486 |
 | Friend of Vermin | 0.20% | ~486 |
@@ -145,8 +145,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,808 (Ranked 73)  
-Completed: 305 (0.13%) (Ranked 302)  
+Progressed: 242,811 (Ranked 73)  
+Completed: 305 (0.13%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -412,7 +412,7 @@ Completed: 305 (0.13%) (Ranked 302)
 | 2024-01-09 | 242,696 | 304 |
 | 2024-01-10 | 242,736 | 305 |
 | 2024-01-11 | 242,789 | 305 |
-| 2024-01-12 | 242,808 | 305 |
+| 2024-01-12 | 242,811 | 305 |
 ## Awards
 Max (Quickly Understood Controls): 1,515  (Ranked 139)  
 Sum: 11,795 (Ranked 89)  

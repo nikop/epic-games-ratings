@@ -488,7 +488,7 @@
   ],
   "EOS_Progressed": 562,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2504,9 +2504,9 @@
       "ID": "Save_Humans_1",
       "SetID": "7a5k76n",
       "Name": "Helping Hand",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 365
     },
     {
       "ID": "Save_Humans_10",
@@ -2616,8 +2616,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-11T19:59:53.1108333+00:00",
-  "LastChanged_Achievements": "2024-01-12T10:05:28.8340986+00:00",
+  "LastChanged_Achievements": "2024-01-12T11:05:56.7680065+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:59:06.2594132+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:05:28.8341708+00:00"
+  "LastUpdate_Ratings": "2024-01-12T10:59:24.9337557+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:05:56.7680874+00:00"
 }

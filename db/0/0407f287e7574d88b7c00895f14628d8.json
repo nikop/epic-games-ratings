@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 213,
+  "EOS_Progressed": 214,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -884,6 +884,11 @@
       "Time": "2024-01-11T18:06:03.8884957+00:00",
       "NumProgressed": 213,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-12T11:06:56.4905111+00:00",
+      "NumProgressed": 214,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -928,7 +933,7 @@
       "Name": "Clear Road",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "dl2",
@@ -952,7 +957,7 @@
       "Name": "Agriculture Tycoon",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "f2",
@@ -976,7 +981,7 @@
       "Name": "City Center",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "fw2",
@@ -998,9 +1003,9 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 107
     },
     {
       "ID": "g2",
@@ -1016,7 +1021,7 @@
       "Name": "Handcart",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "j1",
@@ -1104,7 +1109,7 @@
       "Name": "Architect",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "jz3",
@@ -1128,7 +1133,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "k3",
@@ -1208,7 +1213,7 @@
       "Name": "Against the Cold",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "w2",
@@ -1303,14 +1308,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 213,
+      "Progressed": 214,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-12T10:06:23.2598229+00:00",
+  "LastChanged_Achievements": "2024-01-12T11:06:56.4905108+00:00",
   "LastUpdate_AppInfo": "2024-01-10T06:57:05.6487143+00:00",
-  "LastUpdate_Ratings": "2024-01-12T10:03:08.1830587+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:06:23.2598786+00:00"
+  "LastUpdate_Ratings": "2024-01-12T11:03:19.9232842+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:06:56.4905564+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 139,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 73,
-  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
@@ -3910,9 +3910,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242808,
+  "EOS_Progressed": 242811,
   "EOS_Completed": 305,
-  "EOS_NewPlayers": 422,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31545,6 +31545,11 @@
       "Time": "2024-01-12T09:10:44.2279706+00:00",
       "NumProgressed": 242808,
       "NumCompleted": 305
+    },
+    {
+      "Time": "2024-01-12T11:10:30.0441015+00:00",
+      "NumProgressed": 242811,
+      "NumCompleted": 305
     }
   ],
   "TotalAchievements": 138,
@@ -31658,9 +31663,9 @@
       "ID": "DEPTH12HARD",
       "SetID": "5l8oe0h",
       "Name": "A Long Climb",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 486
+      "UsersEstimate": 728
     },
     {
       "ID": "DEPTH12MEDIUM",
@@ -32659,13 +32664,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242808,
+      "Progressed": 242811,
       "Completed": 305
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4288,
+      "Progressed": 4291,
       "Completed": 424
     }
   ],
@@ -32673,8 +32678,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-12T05:59:51.3980392+00:00",
-  "LastChanged_Achievements": "2024-01-12T10:10:17.2711912+00:00",
+  "LastChanged_Achievements": "2024-01-12T11:10:30.0441011+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:59:09.0789976+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:10:17.2714943+00:00"
+  "LastUpdate_Ratings": "2024-01-12T10:59:27.8296094+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:10:30.0443649+00:00"
 }

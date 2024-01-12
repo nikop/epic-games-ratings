@@ -6,7 +6,7 @@
   "Ranking_Popularity": 233,
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 155,
-  "Ranking_EOS_Completed": 288,
+  "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
@@ -3917,9 +3917,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 20712,
+  "EOS_Progressed": 20715,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 543,
+  "EOS_NewPlayers": 545,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19387,6 +19387,11 @@
       "Time": "2024-01-12T10:05:40.2726802+00:00",
       "NumProgressed": 20712,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-12T11:06:09.3584829+00:00",
+      "NumProgressed": 20715,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19479,7 +19484,7 @@
       "Name": "Homesick",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "WinFirstGame",
@@ -19559,7 +19564,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "WinNearFishmen",
@@ -19607,7 +19612,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "WinNearOutpost",
@@ -19711,7 +19716,7 @@
       "Name": "A Real Challenge",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "WinWIthCaches",
@@ -19870,15 +19875,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20712,
+      "Progressed": 20715,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-12T04:59:12.7082208+00:00",
-  "LastChanged_Achievements": "2024-01-12T10:05:40.2726796+00:00",
+  "LastChanged_Achievements": "2024-01-12T11:06:09.3584826+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:59:29.6618567+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:05:40.2727989+00:00"
+  "LastUpdate_Ratings": "2024-01-12T10:59:51.4108739+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:06:09.3586093+00:00"
 }

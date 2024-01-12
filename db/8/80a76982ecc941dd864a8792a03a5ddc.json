@@ -4,7 +4,7 @@
   "ProductSlug": "futuregrind-f390c1",
   "Ranking_EOS_Progress": 720,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 581,
+  "Ranking_EOS_NewPlayers": 579,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-23T14:00:00+00:00",
@@ -147,9 +147,9 @@
       "ID": "ACH_UNLOCK_BIKE_LEFTCOAST",
       "SetID": "a8m7fpb",
       "Name": "Use the Left Coast bike",
-      "Percentage": 133,
+      "Percentage": 167,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_UNLOCK_BIKE_SLICE",
@@ -201,8 +201,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-08T15:02:14.232544+00:00",
-  "LastChanged_Achievements": "2024-01-12T10:10:04.4094566+00:00",
+  "LastChanged_Achievements": "2024-01-12T11:10:16.5055896+00:00",
   "LastUpdate_AppInfo": "2024-01-09T09:57:12.1257563+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:57:12.9371065+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:10:04.409469+00:00"
+  "LastUpdate_Ratings": "2024-01-12T10:57:16.1827087+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:10:16.5055987+00:00"
 }

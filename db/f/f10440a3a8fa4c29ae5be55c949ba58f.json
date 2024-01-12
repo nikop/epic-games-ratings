@@ -3,7 +3,7 @@
   "Name": "Tangles",
   "ProductSlug": "tangles-e99298",
   "Ranking_EOS_Progress": 190,
-  "Ranking_EOS_Completed": 292,
+  "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8450,
+  "EOS_Progressed": 8460,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1592,
+  "EOS_NewPlayers": 1589,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2634,6 +2634,11 @@
       "Time": "2024-01-12T10:09:28.8958568+00:00",
       "NumProgressed": 8450,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-12T11:09:36.7325226+00:00",
+      "NumProgressed": 8460,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -2646,7 +2651,7 @@
       "Name": "Final Destination",
       "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 4225
+      "UsersEstimate": 4230
     },
     {
       "ID": "Document1",
@@ -2654,7 +2659,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "Document2",
@@ -2678,7 +2683,7 @@
       "Name": "Truth Seeker",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Document5",
@@ -2709,14 +2714,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 8450,
+      "Progressed": 8460,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-12T10:09:28.8958562+00:00",
+  "LastChanged_Achievements": "2024-01-12T11:09:36.7325222+00:00",
   "LastUpdate_AppInfo": "2024-01-07T21:57:13.0406277+00:00",
-  "LastUpdate_Ratings": "2024-01-12T09:57:51.397+00:00",
-  "LastUpdate_Achievements": "2024-01-12T10:09:28.8958872+00:00"
+  "LastUpdate_Ratings": "2024-01-12T10:58:02.6887112+00:00",
+  "LastUpdate_Achievements": "2024-01-12T11:09:36.7325546+00:00"
 }
