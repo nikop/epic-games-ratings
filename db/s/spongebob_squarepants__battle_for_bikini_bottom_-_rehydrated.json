@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
@@ -353,9 +353,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 990,
+  "EOS_Progressed": 992,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -2693,6 +2693,11 @@
       "Time": "2024-01-13T21:05:11.1791802+00:00",
       "NumProgressed": 990,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-13T22:05:17.7613669+00:00",
+      "NumProgressed": 992,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2705,7 +2710,7 @@
       "Name": "Robot encyclopedia",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
@@ -2777,7 +2782,7 @@
       "Name": "Jellyfishing",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -2960,15 +2965,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 990,
+      "Progressed": 992,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:05:11.1791798+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:05:17.7613666+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:15.2754813+00:00",
-  "LastUpdate_Ratings": "2024-01-13T20:59:09.2662385+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:05:11.179217+00:00"
+  "LastUpdate_Ratings": "2024-01-13T21:59:30.1506948+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:05:17.7614127+00:00"
 }

@@ -9,10 +9,10 @@ Rating: 4.59 (Ranked 454)
 | Mainframe Hacker | 23.00% | ~4,445 |
 | The Spy who eliminated me | 23.00% | ~4,445 |
 | Tomorrow Never Dyes | 22.00% | ~4,252 |
-| From the Vault with Love | 18.00% | ~3,478 |
-| Never Say Loser Again | 18.00% | ~3,478 |
-| Tailor-Made | 18.00% | ~3,478 |
-| For your Eyes only | 18.00% | ~3,478 |
+| From the Vault with Love | 18.00% | ~3,479 |
+| Never Say Loser Again | 18.00% | ~3,479 |
+| Tailor-Made | 18.00% | ~3,479 |
+| For your Eyes only | 18.00% | ~3,479 |
 | Assistant Accountant | 17.00% | ~3,285 |
 | You Only Live Twice | 16.00% | ~3,092 |
 | Fully Decked Out | 16.00% | ~3,092 |
@@ -23,17 +23,17 @@ Rating: 4.59 (Ranked 454)
 | Private Collection | 11.00% | ~2,126 |
 | Killer Looks | 11.00% | ~2,126 |
 | Hostile Takeover | 11.00% | ~2,126 |
-| Keycards Royale | 10.00% | ~1,932 |
-| Dr. No Kill | 10.00% | ~1,932 |
+| Keycards Royale | 10.00% | ~1,933 |
+| Dr. No Kill | 10.00% | ~1,933 |
 | In It to Win It | 9.00% | ~1,739 |
 | Security Supervisor | 6.00% | ~1,160 |
 | License to Thrill | 5.00% | ~966 |
 | Social of Solace | 4.00% | ~773 |
 | Live and let lie | 3.00% | ~580 |
 | Safe Withdrawal | 3.00% | ~580 |
-| Branch Manager | 2.00% | ~386 |
-| Call Me Maybe | 2.00% | ~386 |
-| PHD in VIP | 2.00% | ~386 |
+| Branch Manager | 2.00% | ~387 |
+| Call Me Maybe | 2.00% | ~387 |
+| PHD in VIP | 2.00% | ~387 |
 | The terminals are not enough | 1.00% | ~193 |
 | Lose Another Day | 1.00% | ~193 |
 | Chief Information Officer | 0.90% | ~174 |
@@ -42,7 +42,7 @@ Rating: 4.59 (Ranked 454)
 | Extraction Confusion | 0.20% | ~39 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,325 (Ranked 158)  
+Progressed: 19,326 (Ranked 158)  
 Completed: 4 (0.02%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 4 (0.02%) (Ranked 366)
 | 2024-01-10 | 19,311 | 4 |
 | 2024-01-11 | 19,320 | 4 |
 | 2024-01-12 | 19,324 | 4 |
-| 2024-01-13 | 19,325 | 4 |
+| 2024-01-13 | 19,326 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

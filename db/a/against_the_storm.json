@@ -2,7 +2,7 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 70,
+  "Ranking_Rating": 71,
   "Ranking_Popularity": 233,
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 155,
@@ -3947,9 +3947,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 20755,
+  "EOS_Progressed": 20756,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19547,6 +19547,11 @@
       "Time": "2024-01-13T21:06:13.1880857+00:00",
       "NumProgressed": 20755,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-13T22:08:08.3986539+00:00",
+      "NumProgressed": 20756,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19757,9 +19762,9 @@
       "ID": "WinNearMines",
       "SetID": "cfbk359",
       "Name": "Flooded Mines",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 623
     },
     {
       "ID": "WinNearMonastery",
@@ -20030,15 +20035,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20755,
+      "Progressed": 20756,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-13T14:00:31.5599357+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:06:13.1880853+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:08:08.3986537+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:00:09.1964289+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:06:13.1881957+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:00:28.5266133+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:08:08.398789+00:00"
 }

@@ -30,7 +30,7 @@ Number of Ratings: 46  (23.09.2022)
 | Hunt Down | 0.40% | ~672 |
 | Inevitable | 0.40% | ~672 |
 | All-Seeing | 0.40% | ~672 |
-| Dream | 0.40% | ~670 |
+| Dream | 0.40% | ~671 |
 | Breath | 0.30% | ~504 |
 | Artisan | 0.30% | ~504 |
 | Hush | 0.30% | ~504 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~168 |
 | Intensify | 0.10% | ~168 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168,038 (Ranked 84)  
+Progressed: 168,044 (Ranked 84)  
 Completed: 457 (0.27%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 457 (0.27%) (Ranked 265)
 | 2024-01-10 | 167,592 | 454 |
 | 2024-01-11 | 167,713 | 455 |
 | 2024-01-12 | 167,856 | 456 |
-| 2024-01-13 | 168,038 | 457 |
+| 2024-01-13 | 168,044 | 457 |
 ## Awards
 Max (Highly Recommended): 63  (Ranked 429)  
 Sum: 460 (Ranked 342)  

@@ -5,34 +5,34 @@ Rating: 4.70 (Ranked 220)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 47.00% | ~619 |
-| The Mysterious Stranger | 35.00% | ~461 |
-| Rail Rat | 35.00% | ~461 |
-| Immaculate Aim | 29.00% | ~382 |
-| The Brass Boss | 29.00% | ~382 |
-| Time Flies | 27.00% | ~355 |
-| No, Thanks! | 27.00% | ~355 |
-| The Prince in Heels | 27.00% | ~355 |
-| Make Up For Lost Time | 26.00% | ~342 |
-| The Harder They Fall | 26.00% | ~342 |
-| Honest Mistake | 26.00% | ~342 |
-| Fast Learner | 26.00% | ~342 |
-| Immaculate Aim | 26.00% | ~342 |
-| The Steel Shadow | 24.00% | ~316 |
+| Time Heals All Wounds | 47.00% | ~620 |
+| Rail Rat | 35.00% | ~462 |
+| The Mysterious Stranger | 34.00% | ~448 |
+| Immaculate Aim | 29.00% | ~383 |
+| The Brass Boss | 29.00% | ~383 |
+| Time Flies | 27.00% | ~356 |
+| No, Thanks! | 27.00% | ~356 |
+| The Prince in Heels | 27.00% | ~356 |
+| Make Up For Lost Time | 26.00% | ~343 |
+| The Harder They Fall | 26.00% | ~343 |
+| Honest Mistake | 26.00% | ~343 |
+| Immaculate Aim | 26.00% | ~343 |
+| Fast Learner | 25.00% | ~330 |
+| The Steel Shadow | 24.00% | ~317 |
 | Right On Time | 23.00% | ~303 |
 | Breaking Down Barriers | 23.00% | ~303 |
 | The Wicked Twins | 23.00% | ~303 |
 | Like Clockwork | 22.00% | ~290 |
 | The Betrayer | 22.00% | ~290 |
 | Golem Chaser | 22.00% | ~290 |
-| The Loose Cannon | 20.00% | ~263 |
-| Check Your Pulse | 20.00% | ~263 |
-| Street Style | 19.00% | ~250 |
+| The Loose Cannon | 20.00% | ~264 |
+| Check Your Pulse | 20.00% | ~264 |
+| Street Style | 19.00% | ~251 |
 | The Man Who Shattered Time | 18.00% | ~237 |
 | The Family Fortune | 18.00% | ~237 |
-| Whiz Kid | 16.00% | ~211 |
-| Good Neighbor | 15.00% | ~197 |
-| Family Memories | 14.00% | ~184 |
+| Whiz Kid | 15.00% | ~198 |
+| Good Neighbor | 15.00% | ~198 |
+| Family Memories | 14.00% | ~185 |
 | Chaincrawler Explorer | 13.00% | ~171 |
 | Syron for Hope | 13.00% | ~171 |
 | Ask Questions Later | 13.00% | ~171 |
@@ -42,15 +42,15 @@ Rating: 4.70 (Ranked 220)
 | Factorywood Explorer | 10.00% | ~132 |
 | Fairgrounds Explorer | 10.00% | ~132 |
 | Theater Explorer | 10.00% | ~132 |
-| Cultivair Explorer | 9.00% | ~118 |
-| Entresol Explorer | 9.00% | ~118 |
-| Corin Goes Home | 8.00% | ~105 |
-| Sartorialist | 8.00% | ~105 |
+| Cultivair Explorer | 9.00% | ~119 |
+| Corin Goes Home | 8.00% | ~106 |
+| Sartorialist | 8.00% | ~106 |
+| Entresol Explorer | 8.00% | ~106 |
 | Golem Hunter | 7.00% | ~92 |
 | Clovemary for Remembering | 6.00% | ~79 |
 | Hexlock for Protection | 6.00% | ~79 |
 | Rungs Was Right | 5.00% | ~66 |
-| Wunderkind | 3.00% | ~39 |
+| Wunderkind | 3.00% | ~40 |
 | Thinking Two Steps Ahead | 2.00% | ~26 |
 | Fitting In | 2.00% | ~26 |
 | No Time to Waste | 1.00% | ~13 |
@@ -59,7 +59,7 @@ Rating: 4.70 (Ranked 220)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,316 (Ranked 281)  
+Progressed: 1,319 (Ranked 281)  
 Completed: 8 (0.61%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 8 (0.61%) (Ranked 208)
 | 2024-01-10 | 1,300 | 7 |
 | 2024-01-11 | 1,306 | 8 |
 | 2024-01-12 | 1,312 | 8 |
-| 2024-01-13 | 1,316 | 8 |
+| 2024-01-13 | 1,319 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,7 +6,7 @@ Rating: 4.59 (Ranked 454)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 34.00% | ~1,421 |
-| Sputnik 2049 | 30.00% | ~1,253 |
+| Sputnik 2049 | 30.00% | ~1,254 |
 | Infinite Growth... | 28.00% | ~1,170 |
 | Without Breaking Some Eggs... | 27.00% | ~1,128 |
 | Ready for a New World | 20.00% | ~836 |
@@ -27,8 +27,8 @@ Rating: 4.59 (Ranked 454)
 | Sightseeing | 8.00% | ~334 |
 | Necessary Enhancement | 8.00% | ~334 |
 | Convenient Transport | 8.00% | ~334 |
-| Access Granted | 7.00% | ~292 |
-| From the Past | 7.00% | ~292 |
+| Access Granted | 7.00% | ~293 |
+| From the Past | 7.00% | ~293 |
 | All in Good Health | 6.00% | ~251 |
 | Drill-dozer | 6.00% | ~251 |
 | Oats | 5.00% | ~209 |
@@ -63,7 +63,7 @@ Rating: 4.59 (Ranked 454)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,178 (Ranked 214)  
+Progressed: 4,179 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-10 | 4,148 | 0 |
 | 2024-01-11 | 4,156 | 0 |
 | 2024-01-12 | 4,168 | 0 |
-| 2024-01-13 | 4,178 | 0 |
+| 2024-01-13 | 4,179 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

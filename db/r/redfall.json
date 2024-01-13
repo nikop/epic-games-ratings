@@ -387,9 +387,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 2380,
+  "EOS_Progressed": 2382,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4492,6 +4492,11 @@
       "Time": "2024-01-13T19:03:54.5154324+00:00",
       "NumProgressed": 2380,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T22:03:52.939438+00:00",
+      "NumProgressed": 2382,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4551,7 +4556,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "Achievement_009",
@@ -4559,7 +4564,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "Achievement_010",
@@ -4639,7 +4644,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "Achievement_020",
@@ -4687,7 +4692,7 @@
       "Name": "Grounded",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Achievement_026",
@@ -4703,7 +4708,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "Achievement_028",
@@ -4925,9 +4930,9 @@
       "ID": "Achievement_058",
       "SetID": "6b34g18",
       "Name": "Enemy of My Enemy",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "Achievement_059",
@@ -5030,7 +5035,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2380,
+      "Progressed": 2382,
       "Completed": 0
     }
   ],
@@ -5038,8 +5043,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-13T19:58:53.9775824+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:03:43.5854483+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:03:52.9394377+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-13T20:58:35.6444049+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:03:43.5855439+00:00"
+  "LastUpdate_Ratings": "2024-01-13T21:58:57.2566658+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:03:52.9395426+00:00"
 }

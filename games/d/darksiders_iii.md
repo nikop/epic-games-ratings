@@ -7,26 +7,26 @@ Number of Ratings: 116  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 77.00% | ~447 |
-| First of many… | 68.00% | ~394 |
-| Helping Hand | 65.00% | ~377 |
-| Increased Vigor | 60.00% | ~348 |
-| Fight Fire with Fire | 58.00% | ~336 |
-| Increased Capacity | 55.00% | ~319 |
+| First of many… | 68.00% | ~395 |
+| Helping Hand | 65.00% | ~378 |
+| Increased Vigor | 60.00% | ~349 |
+| Fight Fire with Fire | 58.00% | ~337 |
+| Increased Capacity | 55.00% | ~320 |
 | Just the start | 50.00% | ~290 |
 | Perfect Storm | 47.00% | ~273 |
 | All That Glitters | 46.00% | ~267 |
-| Enhance! | 43.00% | ~249 |
+| Enhance! | 43.00% | ~250 |
 | One Of the Chosen | 41.00% | ~238 |
 | Throne Potato | 40.00% | ~232 |
 | Five's a Crowd | 40.00% | ~232 |
-| Devil's in the Details | 39.00% | ~226 |
-| 25 to Life | 39.00% | ~226 |
-| Salvation | 38.00% | ~220 |
+| Devil's in the Details | 39.00% | ~227 |
+| 25 to Life | 39.00% | ~227 |
+| Salvation | 38.00% | ~221 |
 | Unshakable Fortitude | 36.00% | ~209 |
 | Soul Harvester | 36.00% | ~209 |
-| I Wanna Rock | 34.00% | ~197 |
-| Delusions of Grandeur | 34.00% | ~197 |
-| Love Tap | 33.00% | ~191 |
+| I Wanna Rock | 34.00% | ~198 |
+| Delusions of Grandeur | 34.00% | ~198 |
+| Love Tap | 33.00% | ~192 |
 | Maximum Vigor | 32.00% | ~186 |
 | Freeze Frame | 30.00% | ~174 |
 | Eat Your Heart Out | 30.00% | ~174 |
@@ -38,15 +38,15 @@ Number of Ratings: 116  (23.09.2022)
 | Crowd Source | 25.00% | ~145 |
 | Demon Meddler | 24.00% | ~139 |
 | Seeing Red | 24.00% | ~139 |
-| Egomaniac | 23.00% | ~133 |
+| Egomaniac | 23.00% | ~134 |
 | Maximum Capacity | 22.00% | ~128 |
 | Protector of Humanity | 21.00% | ~122 |
 | Everybody Wants to Rule the World | 21.00% | ~122 |
-| Community Outreach | 16.00% | ~93 |
+| Community Outreach | 15.00% | ~87 |
 | A Parting Gift | 14.00% | ~81 |
 | Path of the Horseman | 14.00% | ~81 |
-| Unbreakable Will | 13.00% | ~75 |
-| Take it to the Limit | 13.00% | ~75 |
+| Unbreakable Will | 13.00% | ~76 |
+| Take it to the Limit | 13.00% | ~76 |
 | Holy Keeper | 12.00% | ~70 |
 | Demon Keeper | 12.00% | ~70 |
 | Humanitarian | 9.00% | ~52 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 1.00% | ~6 |
 | Quite Proper | 0.90% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 580 (Ranked 345)  
+Progressed: 581 (Ranked 345)  
 Completed: 2 (0.34%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 2 (0.34%) (Ranked 251)
 | 2024-01-10 | 542 | 2 |
 | 2024-01-11 | 557 | 2 |
 | 2024-01-12 | 572 | 2 |
-| 2024-01-13 | 580 | 2 |
+| 2024-01-13 | 581 | 2 |
 ## Awards
 Max (Great Boss Battles): 99  (Ranked 382)  
 Sum: 99 (Ranked 472)  

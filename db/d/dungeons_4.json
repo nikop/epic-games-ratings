@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2621,9 +2621,9 @@
       "ID": "ach_main07storm_dynamite",
       "SetID": "4hg22ll",
       "Name": "Pure Dynamite!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 343
+      "UsersEstimate": 351
     },
     {
       "ID": "ach_main07storm_storm",
@@ -2958,8 +2958,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-08T17:59:07.5685099+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:09:23.6066842+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:09:26.9117297+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-13T20:57:23.9384947+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:09:23.6067396+00:00"
+  "LastUpdate_Ratings": "2024-01-13T21:57:44.8591372+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:09:26.9117812+00:00"
 }

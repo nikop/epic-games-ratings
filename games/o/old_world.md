@@ -15,6 +15,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 3.00% | ~501 |
 | Hanging Gardens | 3.00% | ~501 |
 | Ambitious | 2.00% | ~334 |
+| Brilliant | 2.00% | ~334 |
 | Enlightened | 2.00% | ~334 |
 | Fountainhead | 2.00% | ~334 |
 | Glorious | 2.00% | ~334 |
@@ -47,7 +48,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 1.00% | ~167 |
 | Hanging Gardens in Babylon | 1.00% | ~167 |
 | Drillmaster | 1.00% | ~167 |
-| Brilliant | 1.00% | ~167 |
 | Great | 1.00% | ~167 |
 | Intercessor | 1.00% | ~167 |
 | Valiant | 1.00% | ~167 |
@@ -108,6 +108,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Paganism | 0.60% | ~100 |
 | Bad Heir Day | 0.50% | ~84 |
 | Capable | 0.50% | ~84 |
+| Devout | 0.50% | ~84 |
 | Invincible | 0.50% | ~84 |
 | Lion | 0.50% | ~84 |
 | Peacemaker | 0.50% | ~84 |
@@ -121,7 +122,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Cavalry | 0.50% | ~84 |
 | Phalangite | 0.50% | ~84 |
 | Kushite Pyramids | 0.50% | ~84 |
-| Devout | 0.40% | ~67 |
 | Clerics | 0.40% | ~67 |
 | Church of the Holy Sepulchre | 0.40% | ~67 |
 | Babylonia | 0.40% | ~67 |
@@ -152,6 +152,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.20% | ~33 |
 | Noble Difficulty | 0.20% | ~33 |
 | The Eternal Treaty | 0.20% | ~33 |
+| Pyramids in Menefer | 0.20% | ~33 |
 | Assyria | 0.20% | ~33 |
 | Persia | 0.20% | ~33 |
 | Pantheon of Gods | 0.20% | ~33 |
@@ -250,7 +251,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 3 - Good | 0.10% | ~17 |
 | Macedonian Wars | 0.10% | ~17 |
 | Medo-Babylonian Conquest | 0.10% | ~17 |
-| Pyramids in Menefer | 0.10% | ~17 |
 | Merchants of the Levant | 0.10% | ~17 |
 | Realistic Mortality | 0.10% | ~17 |
 | Hatti | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,700 (Ranked 169)  
+Progressed: 16,707 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -633,7 +633,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
-| 2024-01-13 | 16,700 | 5 |
+| 2024-01-13 | 16,707 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,927 (Ranked 223)  

@@ -149,9 +149,9 @@
       "ID": "ACH_1",
       "SetID": "1g3d1lg",
       "Name": "Seth\u0027s office",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_10",
@@ -229,17 +229,17 @@
       "ID": "ACH_19",
       "SetID": "1g3d1lg",
       "Name": "There is something strange here...",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_2",
       "SetID": "1g3d1lg",
       "Name": "The secret passage",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 35,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_20",
@@ -253,9 +253,9 @@
       "ID": "ACH_3",
       "SetID": "1g3d1lg",
       "Name": "Across the lake",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 35,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_4",
@@ -318,8 +318,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00",
   "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:09:01.2613063+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:09:03.6707305+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.1664482+00:00",
-  "LastUpdate_Ratings": "2024-01-13T20:57:38.1010541+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:09:01.261319+00:00"
+  "LastUpdate_Ratings": "2024-01-13T21:57:59.1905978+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:09:03.6707467+00:00"
 }

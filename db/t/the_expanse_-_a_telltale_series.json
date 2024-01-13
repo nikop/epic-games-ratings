@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18966,
+  "EOS_Progressed": 18969,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 537,
+  "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17273,6 +17273,11 @@
       "Time": "2024-01-13T21:04:05.3968997+00:00",
       "NumProgressed": 18966,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2024-01-13T22:04:13.4666108+00:00",
+      "NumProgressed": 18969,
+      "NumCompleted": 64
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17309,7 +17314,7 @@
       "Name": "Data Archivist",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1517
+      "UsersEstimate": 1518
     },
     {
       "ID": "13",
@@ -17333,7 +17338,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2086
+      "UsersEstimate": 2087
     },
     {
       "ID": "16",
@@ -17365,7 +17370,7 @@
       "Name": "Martian Music",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "2",
@@ -17493,7 +17498,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "7",
@@ -17517,7 +17522,7 @@
       "Name": "Impossible Objects",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "31",
@@ -17564,13 +17569,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18966,
+      "Progressed": 18969,
       "Completed": 64
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4920,
+      "Progressed": 4923,
       "Completed": 1313
     }
   ],
@@ -17578,8 +17583,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-11T01:50:11.8166633+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:04:05.3968993+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:04:13.4666106+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-13T20:57:36.6288642+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:04:05.3970187+00:00"
+  "LastUpdate_Ratings": "2024-01-13T21:57:57.7724858+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:04:13.4666884+00:00"
 }

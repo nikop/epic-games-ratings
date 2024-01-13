@@ -7,20 +7,20 @@ Rating: 4.53 (Ranked 566)
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 18.00% | ~3,414 |
 | Captain Drummer | 15.00% | ~2,845 |
-| Martian Music | 14.00% | ~2,655 |
-| Celebrations are in Order | 14.00% | ~2,655 |
-| Impossible Objects | 14.00% | ~2,655 |
+| Martian Music | 14.00% | ~2,656 |
+| Celebrations are in Order | 14.00% | ~2,656 |
+| Impossible Objects | 14.00% | ~2,656 |
 | The Pit and the Pirates | 13.00% | ~2,466 |
 | Drone Dodger | 13.00% | ~2,466 |
 | Bosmang | 13.00% | ~2,466 |
 | Spore Taste | 12.00% | ~2,276 |
-| Stogie for Fogey | 11.00% | ~2,086 |
+| Stogie for Fogey | 11.00% | ~2,087 |
 | Call it Even | 10.00% | ~1,897 |
 | Safe Cracker | 10.00% | ~492 |
 | Zen Master | 10.00% | ~492 |
 | Heal Thy Medic | 9.00% | ~1,707 |
 | Madame Undersecretary | 9.00% | ~443 |
-| Data Archivist | 8.00% | ~1,517 |
+| Data Archivist | 8.00% | ~1,518 |
 | Keep Arjun in Check | 8.00% | ~394 |
 | Drug Gifter | 7.00% | ~1,328 |
 | Thorston Mayer | 7.00% | ~1,328 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 566)
 | Scavenger Star | 0.30% | ~57 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,966 (Ranked 159)  
+Progressed: 18,969 (Ranked 159)  
 Completed: 64 (0.34%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 64 (0.34%) (Ranked 251)
 | 2024-01-10 | 18,829 | 62 |
 | 2024-01-11 | 18,866 | 63 |
 | 2024-01-12 | 18,914 | 64 |
-| 2024-01-13 | 18,966 | 64 |
+| 2024-01-13 | 18,969 | 64 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

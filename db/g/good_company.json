@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5833,
+  "EOS_Progressed": 5834,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5384,6 +5384,11 @@
       "Time": "2024-01-13T20:06:14.351455+00:00",
       "NumProgressed": 5833,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T22:06:00.894416+00:00",
+      "NumProgressed": 5834,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -5499,7 +5504,7 @@
       "Name": "Level: Topple The Top",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ach_campaign_progress5",
@@ -5507,7 +5512,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2858
+      "UsersEstimate": 2859
     },
     {
       "ID": "ach_campaign_progress6",
@@ -5555,7 +5560,7 @@
       "Name": "Bet On Bots: Safety First",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ach_campaign_special11",
@@ -5579,7 +5584,7 @@
       "Name": "The Machinery: Goal Orientated",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_campaign_special14",
@@ -5587,7 +5592,7 @@
       "Name": "The Machinery: Energy Saver",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_campaign_special15",
@@ -5859,7 +5864,7 @@
       "Name": "Super Rich",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_fully_packed",
@@ -5963,7 +5968,7 @@
       "Name": "Tycoon",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ach_prof_success",
@@ -6002,15 +6007,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5833,
+      "Progressed": 5834,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-12-29T23:58:32.3539857+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:05:54.6489216+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:06:00.8944157+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:53.9486343+00:00",
-  "LastUpdate_Ratings": "2024-01-13T20:57:48.9623456+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:05:54.6490049+00:00"
+  "LastUpdate_Ratings": "2024-01-13T21:58:10.822881+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:06:00.894491+00:00"
 }

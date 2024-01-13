@@ -1,7 +1,7 @@
 # Cartel Tycoon
 [Store](https://store.epicgames.com/en-US/p/cartel-tycoon)  
 [View Rawdata](../../db/c/cartel_tycoon.json)  
-Rating: 4.37 (Ranked 813)  
+Rating: 4.37 (Ranked 812)  
 Number of Ratings: 101  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,7 +9,7 @@ Number of Ratings: 101  (23.09.2022)
 | Our Man | 83.00% | ~852 |
 | Take-Off | 79.00% | ~811 |
 | Hokey-Pokey | 68.00% | ~698 |
-| Camellos | 52.00% | ~534 |
+| Camellos | 53.00% | ~544 |
 | Bad Trip | 44.00% | ~451 |
 | Didn't Miss A Single One | 42.00% | ~431 |
 | That was base | 42.00% | ~431 |
@@ -27,7 +27,7 @@ Number of Ratings: 101  (23.09.2022)
 | Sense Of Style | 0.40% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,026 (Ranked 295)  
-Completed: 3 (0.29%) (Ranked 262)  
+Completed: 3 (0.29%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

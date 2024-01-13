@@ -2,12 +2,12 @@
   "ID": "de3677b7bac547128656ac18c5b2f298",
   "Name": "Lost Eidolons",
   "ProductSlug": "lost-eidolons",
-  "Ranking_Rating": 829,
+  "Ranking_Rating": 830,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 3834,
+  "Ranking_EOS_NewPlayers": 3835,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -199,7 +199,7 @@
   "Tags": [],
   "EOS_Progressed": 1121,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -4,
+  "EOS_NewPlayers": -5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2849,9 +2849,9 @@
       "ID": "07",
       "SetID": "73ikgfc",
       "Name": "Monster Hunter",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 639
+      "UsersEstimate": 650
     },
     {
       "ID": "08",
@@ -2994,8 +2994,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:04:41.5283808+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:04:48.9701498+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:22.9341362+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:02:50.6855656+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:04:41.5284132+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:03:00.2925724+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:04:48.9701729+00:00"
 }

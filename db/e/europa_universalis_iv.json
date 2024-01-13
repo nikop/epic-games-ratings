@@ -14305,11 +14305,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 64511,
       "NumberOfAwardsMax": 7824
+    },
+    {
+      "Time": "2024-01-13T21:59:29.1204536+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 64538,
+      "NumberOfAwardsMax": 7836
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 64511,
-  "NumberOfAwardsMax": 7824,
+  "NumberOfAwards": 64538,
+  "NumberOfAwardsMax": 7836,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -14334,13 +14340,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 7321
+      "Count": 7336
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 7824
+      "Count": 7836
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -14379,9 +14385,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 498298,
+  "EOS_Progressed": 498333,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4556,
+  "EOS_NewPlayers": 4544,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45359,6 +45365,11 @@
       "Time": "2024-01-13T21:10:16.0261292+00:00",
       "NumProgressed": 498298,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T22:10:17.5247283+00:00",
+      "NumProgressed": 498333,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -47650,7 +47661,7 @@
       "Name": "That is mine!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2491
+      "UsersEstimate": 2492
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -48066,7 +48077,7 @@
       "Name": "Victorious!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2491
+      "UsersEstimate": 2492
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -48273,21 +48284,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 498298,
+      "Progressed": 498333,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 498298,
+      "Progressed": 498333,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-13T16:00:06.7623987+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:10:16.0261289+00:00",
+  "LastChanged": "2024-01-13T21:59:29.1204534+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:10:17.5247281+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.850256+00:00",
-  "LastUpdate_Ratings": "2024-01-13T20:59:08.0546624+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:10:16.0272786+00:00"
+  "LastUpdate_Ratings": "2024-01-13T21:59:29.120454+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:10:17.5257899+00:00"
 }

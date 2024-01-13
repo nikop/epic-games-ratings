@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 320,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2213,9 +2213,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 22305,
+  "EOS_Progressed": 22308,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 947,
+  "EOS_NewPlayers": 933,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13783,6 +13783,11 @@
       "Time": "2024-01-13T21:09:44.3767636+00:00",
       "NumProgressed": 22305,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-13T22:09:47.5078819+00:00",
+      "NumProgressed": 22308,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13810,7 +13815,7 @@
       "Name": "Giving Back",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -13818,7 +13823,7 @@
       "Name": "You Need a Gun",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 2007
+      "UsersEstimate": 2008
     },
     {
       "ID": "DISARM_ENEMY",
@@ -13826,7 +13831,7 @@
       "Name": "Flesh Wound",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 5799
+      "UsersEstimate": 5800
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -13858,7 +13863,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -13898,7 +13903,7 @@
       "Name": "Get a Grip",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 4907
+      "UsersEstimate": 4908
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -13922,7 +13927,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 4684
+      "UsersEstimate": 4685
     },
     {
       "ID": "KILL_ROBOT",
@@ -13962,7 +13967,7 @@
       "Name": "Reforged",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4238
+      "UsersEstimate": 4239
     },
     {
       "ID": "PRINT_WEAPON",
@@ -13970,7 +13975,7 @@
       "Name": "Paper Jams",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5130
+      "UsersEstimate": 5131
     },
     {
       "ID": "SHARE_PHOTO",
@@ -13986,7 +13991,7 @@
       "Name": "The Outer Way",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6022
+      "UsersEstimate": 6023
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14018,7 +14023,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -14026,7 +14031,7 @@
       "Name": "Desperate Times",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5576
+      "UsersEstimate": 5577
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14042,7 +14047,7 @@
       "Name": "Full Circle",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "STORY_TUNNELS",
@@ -14169,13 +14174,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22305,
+      "Progressed": 22308,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10231,
+      "Progressed": 10234,
       "Completed": 29
     }
   ],
@@ -14183,8 +14188,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-13T19:03:24.3205277+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:09:44.3767633+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:09:47.5078815+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:03:08.7487742+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:09:44.3768469+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:03:19.0191954+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:09:47.5080151+00:00"
 }

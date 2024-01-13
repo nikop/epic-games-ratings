@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16651,
+  "EOS_Progressed": 16655,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6576,6 +6576,11 @@
       "Time": "2024-01-13T21:09:37.0806071+00:00",
       "NumProgressed": 16651,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-13T22:09:40.0116946+00:00",
+      "NumProgressed": 16655,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6588,7 +6593,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6327
+      "UsersEstimate": 6329
     },
     {
       "ID": "ACH_AE_10",
@@ -6620,7 +6625,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12488
+      "UsersEstimate": 12491
     },
     {
       "ID": "ACH_AE_14",
@@ -6628,7 +6633,7 @@
       "Name": "Sticky Situation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3330
+      "UsersEstimate": 3331
     },
     {
       "ID": "ACH_AE_15",
@@ -6636,7 +6641,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3663
+      "UsersEstimate": 3664
     },
     {
       "ID": "ACH_AE_16",
@@ -6676,7 +6681,7 @@
       "Name": "Back to School",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3996
+      "UsersEstimate": 3997
     },
     {
       "ID": "ACH_AE_20",
@@ -6684,7 +6689,7 @@
       "Name": "Let It Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "ACH_AE_21",
@@ -6700,7 +6705,7 @@
       "Name": "The High Road",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3996
+      "UsersEstimate": 3997
     },
     {
       "ID": "ACH_AE_23",
@@ -6724,7 +6729,7 @@
       "Name": "Family History",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "ACH_AE_26",
@@ -6764,7 +6769,7 @@
       "Name": "Pajama Boy",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2664
+      "UsersEstimate": 2665
     },
     {
       "ID": "ACH_AE_30",
@@ -6820,7 +6825,7 @@
       "Name": "The Bomb",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1998
+      "UsersEstimate": 1999
     },
     {
       "ID": "ACH_AE_5",
@@ -6828,7 +6833,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1998
+      "UsersEstimate": 1999
     },
     {
       "ID": "ACH_AE_6",
@@ -6844,7 +6849,7 @@
       "Name": "Renewal",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "ACH_AE_8",
@@ -6852,7 +6857,7 @@
       "Name": "Prisoner Dilemma",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "ACH_AE_9",
@@ -6867,7 +6872,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16651,
+      "Progressed": 16655,
       "Completed": 15
     }
   ],
@@ -6875,8 +6880,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-13T20:57:02.2758637+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:09:37.0806066+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:09:40.0116943+00:00",
   "LastUpdate_AppInfo": "2024-01-09T19:56:59.6965527+00:00",
-  "LastUpdate_Ratings": "2024-01-13T20:57:02.2758642+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:09:37.0806666+00:00"
+  "LastUpdate_Ratings": "2024-01-13T21:57:24.4128006+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:09:40.0117359+00:00"
 }

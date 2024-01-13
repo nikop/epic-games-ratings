@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -400,7 +400,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5414,
+  "EOS_Progressed": 5415,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
@@ -5245,6 +5245,11 @@
       "Time": "2024-01-13T20:06:06.2677182+00:00",
       "NumProgressed": 5414,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-13T22:05:52.7398602+00:00",
+      "NumProgressed": 5415,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5304,7 +5309,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4548
+      "UsersEstimate": 4549
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5312,7 +5317,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5089
+      "UsersEstimate": 5090
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5424,7 +5429,7 @@
       "Name": "Right Tool for the Job",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "ID_ACHIEV_23",
@@ -5544,7 +5549,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -5576,7 +5581,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -5791,15 +5796,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5414,
+      "Progressed": 5415,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:05:46.0012078+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:05:52.7398598+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.5688271+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:00:15.5214231+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:05:46.0012813+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:00:36.2684918+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:05:52.7399495+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
   "Ranking_Rating": 958,
-  "Ranking_Popularity": 404,
-  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 403,
+  "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 55,
@@ -453,11 +453,17 @@
       "Rating": 4.21,
       "NumberOfAwards": 79,
       "NumberOfAwardsMax": 79
+    },
+    {
+      "Time": "2024-01-13T21:58:44.3506371+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 81,
+      "NumberOfAwardsMax": 81
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 79,
-  "NumberOfAwardsMax": 79,
+  "NumberOfAwards": 81,
+  "NumberOfAwardsMax": 81,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
@@ -470,12 +476,12 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 79
+      "Count": 81
     }
   ],
-  "EOS_Progressed": 345060,
+  "EOS_Progressed": 345083,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3080,
+  "EOS_NewPlayers": 3070,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13253,6 +13259,11 @@
       "Time": "2024-01-13T21:08:59.866528+00:00",
       "NumProgressed": 345060,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-13T22:09:02.3463335+00:00",
+      "NumProgressed": 345083,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -13265,7 +13276,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17253
+      "UsersEstimate": 17254
     },
     {
       "ID": "S02_BRDA",
@@ -13297,7 +13308,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2760
+      "UsersEstimate": 2761
     },
     {
       "ID": "S06_LWTC",
@@ -13305,7 +13316,7 @@
       "Name": "They tricked me",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2415
+      "UsersEstimate": 2416
     },
     {
       "ID": "S07_INWA",
@@ -13313,7 +13324,7 @@
       "Name": "We need to talk",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2415
+      "UsersEstimate": 2416
     },
     {
       "ID": "S08_MNSA",
@@ -13401,7 +13412,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17253
+      "UsersEstimate": 17254
     },
     {
       "ID": "S19_CHALLENGES",
@@ -13433,7 +13444,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2415
+      "UsersEstimate": 2416
     },
     {
       "ID": "S23_ETHEREAL",
@@ -13497,7 +13508,7 @@
       "Name": "Bring it on!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2760
+      "UsersEstimate": 2761
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -13577,23 +13588,23 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6901
+      "UsersEstimate": 6902
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 345060,
+      "Progressed": 345083,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-28T19:01:10.9639356+00:00",
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
-  "LastChanged": "2024-01-07T09:59:57.3535769+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:08:59.8665277+00:00",
+  "LastChanged": "2024-01-13T21:58:44.3506369+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:09:02.3463333+00:00",
   "LastUpdate_AppInfo": "2024-01-12T01:46:06.9563131+00:00",
-  "LastUpdate_Ratings": "2024-01-13T20:58:21.7518626+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:08:59.8666011+00:00"
+  "LastUpdate_Ratings": "2024-01-13T21:58:44.3506374+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:09:02.3464146+00:00"
 }

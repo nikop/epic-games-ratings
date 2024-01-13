@@ -4,7 +4,7 @@
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18927,
+  "EOS_Progressed": 18930,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12144,6 +12144,11 @@
       "Time": "2024-01-13T21:05:14.0409949+00:00",
       "NumProgressed": 18927,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T22:05:20.7377054+00:00",
+      "NumProgressed": 18930,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -12234,9 +12239,9 @@
       "ID": "ACH_THEEND",
       "SetID": "1lo1k0a",
       "Name": "End?",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 170
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_WINELECTRICALSTATION",
@@ -12252,7 +12257,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 4921
+      "UsersEstimate": 4922
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -12260,7 +12265,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2271
+      "UsersEstimate": 2272
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -12347,14 +12352,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 18927,
+      "Progressed": 18930,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:05:14.0409945+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:05:20.7377052+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.8149755+00:00",
-  "LastUpdate_Ratings": "2024-01-13T20:57:38.2589174+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:05:14.0410695+00:00"
+  "LastUpdate_Ratings": "2024-01-13T21:57:59.3733674+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:05:20.7377773+00:00"
 }

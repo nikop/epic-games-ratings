@@ -333,9 +333,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 122350,
+  "EOS_Progressed": 122358,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3820,
+  "EOS_NewPlayers": 3800,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4478,6 +4478,11 @@
       "Time": "2024-01-13T21:03:32.0417728+00:00",
       "NumProgressed": 122350,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T22:03:43.4014501+00:00",
+      "NumProgressed": 122358,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -4490,7 +4495,7 @@
       "Name": "Oh Baby, A Triple",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3670
+      "UsersEstimate": 3671
     },
     {
       "ID": "ACH_5_STAGES_OF_GRIEF",
@@ -4554,7 +4559,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 12235
+      "UsersEstimate": 12236
     },
     {
       "ID": "ACH_GROWNUP",
@@ -4562,7 +4567,7 @@
       "Name": "All Grown Up!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 23246
+      "UsersEstimate": 23248
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -4586,7 +4591,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 18352
+      "UsersEstimate": 18354
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -4610,7 +4615,7 @@
       "Name": "Master of Disguise",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3670
+      "UsersEstimate": 3671
     },
     {
       "ID": "ACH_MAYHEM",
@@ -4642,7 +4647,7 @@
       "Name": "All For One and One For All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 9788
+      "UsersEstimate": 9789
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -4698,7 +4703,7 @@
       "Name": "Symbiotic",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3670
+      "UsersEstimate": 3671
     },
     {
       "ID": "ACH_TASTE_YOUR_OWN_MEDICINE",
@@ -4706,7 +4711,7 @@
       "Name": "Taste Your Own Medicine",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "ACH_THUNDATROSS_STORY",
@@ -4769,7 +4774,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 122350,
+      "Progressed": 122358,
       "Completed": 0
     }
   ],
@@ -4777,8 +4782,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-13T18:57:30.3898264+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:03:32.0417726+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:03:43.4014498+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:10.4556568+00:00",
-  "LastUpdate_Ratings": "2024-01-13T20:57:22.7730853+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:03:32.0418104+00:00"
+  "LastUpdate_Ratings": "2024-01-13T21:57:43.514009+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:03:43.4014908+00:00"
 }

@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Complete 25 levels | 8.00% | ~7 |
 | Use 10 hints | 8.00% | ~7 |
-| Use 20 hints | 6.00% | ~5 |
+| Use 20 hints | 7.00% | ~6 |
 | Fast 6x6 | 5.00% | ~4 |
 | Complete 50 levels | 5.00% | ~4 |
 | By Yourself 5x5 | 3.00% | ~3 |

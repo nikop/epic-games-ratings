@@ -4,7 +4,7 @@
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 370,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 134,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -947,8 +947,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:03:58.7617651+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:04:06.9422549+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.5995051+00:00",
-  "LastUpdate_Ratings": "2024-01-13T20:58:21.5414601+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:03:58.7618129+00:00"
+  "LastUpdate_Ratings": "2024-01-13T21:58:44.2141968+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:04:06.9423013+00:00"
 }

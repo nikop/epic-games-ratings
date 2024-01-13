@@ -5,19 +5,19 @@ Rating: 4.21 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 5.00% | ~17,253 |
-| The touch of Chaos | 5.00% | ~17,253 |
+| May the Torchbearer light our way | 5.00% | ~17,254 |
+| The touch of Chaos | 5.00% | ~17,254 |
 | A powerful aura was here | 3.00% | ~10,352 |
-| Let's raise the stakes!! | 2.00% | ~6,901 |
+| Let's raise the stakes!! | 2.00% | ~6,902 |
 | Rumors are true | 1.00% | ~3,451 |
 | We'll be careful | 1.00% | ~3,451 |
 | Pride is a sin, young Knight | 1.00% | ~3,451 |
 | Your wounds… They are healing so fast! | 1.00% | ~3,451 |
-| Back to your senses | 0.80% | ~2,760 |
-| Bring it on! | 0.80% | ~2,760 |
-| They tricked me | 0.70% | ~2,415 |
-| We need to talk | 0.70% | ~2,415 |
-| They won't last long | 0.70% | ~2,415 |
+| Back to your senses | 0.80% | ~2,761 |
+| Bring it on! | 0.80% | ~2,761 |
+| They tricked me | 0.70% | ~2,416 |
+| We need to talk | 0.70% | ~2,416 |
+| They won't last long | 0.70% | ~2,416 |
 | I feel drawn to it | 0.60% | ~2,070 |
 | Here to stay | 0.60% | ~2,070 |
 | Counting on you | 0.50% | ~1,725 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 958)
 | Something... unnatural | 0.10% | ~345 |
 | We strike as one | 0.10% | ~345 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 345,060 (Ranked 59)  
+Progressed: 345,083 (Ranked 59)  
 Completed: 7 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,14 +158,14 @@ Completed: 7 (0.00%) (Ranked 400)
 | 2024-01-10 | 343,827 | 7 |
 | 2024-01-11 | 344,221 | 7 |
 | 2024-01-12 | 344,619 | 7 |
-| 2024-01-13 | 345,060 | 7 |
+| 2024-01-13 | 345,083 | 7 |
 ## Awards
-Max (Great Boss Battles): 79  (Ranked 404)  
-Sum: 79 (Ranked 486)  
+Max (Great Boss Battles): 81  (Ranked 403)  
+Sum: 81 (Ranked 485)  
 Diff (max vs sum): -82  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 79 |
+| This game has Great Boss Battles | 81 |
 | This game has Inclusive Character Customization | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -222,3 +222,4 @@ Diff (max vs sum): -82
 | 2024-01-01 | 4.21 | 77 | 77 |
 | 2024-01-05 | 4.21 | 78 | 78 |
 | 2024-01-07 | 4.21 | 79 | 79 |
+| 2024-01-13 | 4.21 | 81 | 81 |

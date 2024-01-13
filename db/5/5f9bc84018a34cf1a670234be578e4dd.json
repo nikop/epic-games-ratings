@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -2350,9 +2350,9 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 205
+      "UsersEstimate": 210
     },
     {
       "ID": "FallDeath",
@@ -2430,9 +2430,9 @@
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 201
+      "UsersEstimate": 205
     },
     {
       "ID": "Synthesis",
@@ -2453,8 +2453,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:03:50.2626861+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:03:58.3776404+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:56.7874531+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:02:42.5702749+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:03:50.2627063+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:02:51.3293326+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:03:58.3776608+00:00"
 }

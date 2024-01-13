@@ -46,7 +46,7 @@
 | Kleptomaniac | 27.00% | ~41 |
 | You're not so Big anymore, Boi! | 25.00% | ~38 |
 | I cant stand still! | 24.00% | ~37 |
-| Slimy... yet satisfying | 23.00% | ~35 |
+| Slimy... yet satisfying | 24.00% | ~37 |
 | Master Butcher | 20.00% | ~31 |
 | Deal with it | 19.00% | ~29 |
 | Just wing it! | 18.00% | ~28 |
@@ -57,7 +57,7 @@
 | Free Of Chains | 12.00% | ~18 |
 | Grumpy Immortal | 11.00% | ~17 |
 | Spoiler alert! | 10.00% | ~15 |
-| I want to throw up! | 9.00% | ~14 |
+| I want to throw up! | 10.00% | ~15 |
 | I drink, but I'm not a drunk! | 9.00% | ~14 |
 | Ancient Ruins of Moist Overhangs | 8.00% | ~12 |
 | My name is Whoopass, SIR Whoopass! | 8.00% | ~12 |

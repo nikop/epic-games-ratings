@@ -4,7 +4,7 @@
   "ProductSlug": "masterplan-tycoon-379d81",
   "Ranking_EOS_Progress": 535,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 438,
+  "Ranking_EOS_NewPlayers": 437,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
@@ -391,9 +391,9 @@
       "ID": "achievements.completemission.master.02",
       "SetID": "1kd1942",
       "Name": "Beams of Steel",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievements.completemission.master.03",
@@ -455,9 +455,9 @@
       "ID": "achievements.researches.first",
       "SetID": "1kd1942",
       "Name": "Eureka!",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievements.researches.upgrades50",
@@ -494,8 +494,8 @@
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:03:14.8848958+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:03:26.7067634+00:00",
   "LastUpdate_AppInfo": "2024-01-12T21:56:58.7259645+00:00",
-  "LastUpdate_Ratings": "2024-01-13T20:57:20.9833758+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:03:14.8866095+00:00"
+  "LastUpdate_Ratings": "2024-01-13T21:57:42.2618074+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:03:26.7067833+00:00"
 }

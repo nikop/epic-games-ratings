@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8581,
+  "EOS_Progressed": 8582,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -9943,6 +9943,11 @@
       "Time": "2024-01-13T21:04:04.2347222+00:00",
       "NumProgressed": 8581,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2024-01-13T22:04:12.2291419+00:00",
+      "NumProgressed": 8582,
+      "NumCompleted": 54
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -9955,7 +9960,7 @@
       "Name": "First of Many",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 7551
+      "UsersEstimate": 7552
     },
     {
       "ID": "achievement_01_02",
@@ -9987,7 +9992,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 4290
+      "UsersEstimate": 4291
     },
     {
       "ID": "achievement_01_06",
@@ -9995,7 +10000,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 5234
+      "UsersEstimate": 5235
     },
     {
       "ID": "achievement_01_07",
@@ -10019,7 +10024,7 @@
       "Name": "Right Foot",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 3947
+      "UsersEstimate": 3948
     },
     {
       "ID": "achievement_01_10",
@@ -10027,7 +10032,7 @@
       "Name": "Beat the Clock",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 4805
+      "UsersEstimate": 4806
     },
     {
       "ID": "achievement_02_01",
@@ -10099,7 +10104,7 @@
       "Name": "USA - Check!",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 2574
+      "UsersEstimate": 2575
     },
     {
       "ID": "achievement_03_02",
@@ -10107,7 +10112,7 @@
       "Name": "Brazil - Check!",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "achievement_03_03",
@@ -10123,7 +10128,7 @@
       "Name": "Italy - Check!",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "achievement_03_05",
@@ -10211,7 +10216,7 @@
       "Name": "Flawless Racer",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "achievement_04_05",
@@ -10219,7 +10224,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 3003
+      "UsersEstimate": 3004
     },
     {
       "ID": "achievement_04_06",
@@ -10235,7 +10240,7 @@
       "Name": "Nitro Saver",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 4376
+      "UsersEstimate": 4377
     },
     {
       "ID": "achievement_04_08",
@@ -10243,7 +10248,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 7465
+      "UsersEstimate": 7466
     },
     {
       "ID": "achievement_04_09",
@@ -10258,7 +10263,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 8581,
+      "Progressed": 8582,
       "Completed": 54
     }
   ],
@@ -10266,8 +10271,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2024-01-12T20:57:15.3154982+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:04:04.2347218+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:04:12.2291417+00:00",
   "LastUpdate_AppInfo": "2024-01-12T01:46:08.2542069+00:00",
-  "LastUpdate_Ratings": "2024-01-13T20:57:45.8561103+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:04:04.2348005+00:00"
+  "LastUpdate_Ratings": "2024-01-13T21:58:07.5561225+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:04:12.2291979+00:00"
 }

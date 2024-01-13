@@ -2,7 +2,7 @@
   "ID": "eddb735dde6b47cda8193f2643cff886",
   "Name": "Blasphemous",
   "ProductSlug": "blasphemous",
-  "Ranking_Rating": 70,
+  "Ranking_Rating": 59,
   "Ranking_Popularity": 321,
   "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 828,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.82,
+  "Rating": 4.83,
   "NumberOfRatings": 205,
   "RatingHistory": [
     {
@@ -650,6 +650,12 @@
       "Rating": 4.82,
       "NumberOfAwards": 171,
       "NumberOfAwardsMax": 171
+    },
+    {
+      "Time": "2024-01-13T21:57:38.4317579+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 171,
+      "NumberOfAwardsMax": 171
     }
   ],
   "ReviewsDisabled": false,
@@ -675,8 +681,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:14.5456165+00:00",
-  "LastChanged": "2024-01-12T22:00:19.1729576+00:00",
+  "LastChanged": "2024-01-13T21:57:38.4317561+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:22.0525291+00:00",
-  "LastUpdate_Ratings": "2024-01-13T20:57:16.8780057+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:04:32.2713581+00:00"
+  "LastUpdate_Ratings": "2024-01-13T21:57:38.4317581+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:04:39.5186447+00:00"
 }

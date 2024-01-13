@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5931,9 +5931,9 @@
       "Count": 555
     }
   ],
-  "EOS_Progressed": 14103,
+  "EOS_Progressed": 14104,
   "EOS_Completed": 351,
-  "EOS_NewPlayers": 252,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.49,
   "EosHistory": [
@@ -25211,6 +25211,11 @@
       "Time": "2024-01-13T20:09:10.9802506+00:00",
       "NumProgressed": 14103,
       "NumCompleted": 351
+    },
+    {
+      "Time": "2024-01-13T22:09:16.7127355+00:00",
+      "NumProgressed": 14104,
+      "NumCompleted": 351
     }
   ],
   "TotalAchievements": 15,
@@ -25230,7 +25235,7 @@
       "Name": "Banker",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 5359
+      "UsersEstimate": 5360
     },
     {
       "ID": "Bestest_Friend",
@@ -25238,7 +25243,7 @@
       "Name": "Bestest Friend",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 6205
+      "UsersEstimate": 6206
     },
     {
       "ID": "Chef_Cook",
@@ -25294,7 +25299,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 67,
       "XP": 75,
-      "UsersEstimate": 9449
+      "UsersEstimate": 9450
     },
     {
       "ID": "Miner",
@@ -25310,7 +25315,7 @@
       "Name": "Photographer",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 9449
+      "UsersEstimate": 9450
     },
     {
       "ID": "Renovator",
@@ -25341,7 +25346,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 14103,
+      "Progressed": 14104,
       "Completed": 351
     }
   ],
@@ -25349,8 +25354,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-13T19:58:07.1624417+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:09:13.7575844+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:09:16.7127353+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:11.1438624+00:00",
-  "LastUpdate_Ratings": "2024-01-13T20:57:46.3536787+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:09:13.7577011+00:00"
+  "LastUpdate_Ratings": "2024-01-13T21:58:08.1937228+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:09:16.712839+00:00"
 }

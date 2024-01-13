@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -1039,9 +1039,9 @@
       "ID": "g3",
       "SetID": "b1ggf28",
       "Name": "Handcart",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "j1",
@@ -1111,25 +1111,25 @@
       "ID": "jk3",
       "SetID": "b1ggf28",
       "Name": "Robust Settlers",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "jz1",
       "SetID": "b1ggf28",
       "Name": "Builder",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "jz2",
       "SetID": "b1ggf28",
       "Name": "Architect",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "jz3",
@@ -1334,8 +1334,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:08:20.6017091+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:08:24.343258+00:00",
   "LastUpdate_AppInfo": "2024-01-10T06:57:05.6487143+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:02:53.7154093+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:08:20.6017496+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:03:03.242702+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:08:24.3433065+00:00"
 }

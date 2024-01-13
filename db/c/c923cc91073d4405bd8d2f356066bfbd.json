@@ -2,9 +2,9 @@
   "ID": "c923cc91073d4405bd8d2f356066bfbd",
   "Name": "Burst Hero",
   "ProductSlug": "bursthero-dd5a56",
-  "Ranking_EOS_Progress": 544,
+  "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
@@ -835,9 +835,9 @@
       "ID": "TEAMWORK",
       "SetID": "1fek4an",
       "Name": "Teamwork",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "UPGRADE_DONE",
@@ -858,8 +858,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:08:26.6693285+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:08:30.1929154+00:00",
   "LastUpdate_AppInfo": "2024-01-10T13:02:38.4502332+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:02:37.4375065+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:08:26.6694103+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:02:46.2602764+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:08:30.1929794+00:00"
 }

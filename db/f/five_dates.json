@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 2287,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -4406,9 +4406,9 @@
       "ID": "nueva_beginnings",
       "SetID": "c4ipj3h",
       "Name": "Nueva Beginnings",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 617
+      "UsersEstimate": 640
     },
     {
       "ID": "only_thyme_will_tell",
@@ -4463,8 +4463,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:09:58.5387927+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:10:00.8402899+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:20.6091046+00:00",
-  "LastUpdate_Ratings": "2024-01-13T20:58:08.3597411+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:09:58.5388171+00:00"
+  "LastUpdate_Ratings": "2024-01-13T21:58:29.8168708+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:10:00.8403247+00:00"
 }

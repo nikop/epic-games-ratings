@@ -3,8 +3,8 @@
   "Name": "Placid Plastic Duck Simulator",
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 381,
-  "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_Completed": 49,
+  "Ranking_EOS_NewPlayers": 384,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 360,
+  "EOS_Progressed": 361,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 8.33,
+  "EOS_Completed_Percentage": 8.31,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -1594,6 +1594,11 @@
       "Time": "2024-01-13T21:06:04.6806249+00:00",
       "NumProgressed": 360,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-13T22:06:10.6506434+00:00",
+      "NumProgressed": 361,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 16,
@@ -1603,9 +1608,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 217
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1621,15 +1626,15 @@
       "Name": "Cruise ship",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "8d3ci0",
       "Name": "Ducks adrift",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 144
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -1637,7 +1642,7 @@
       "Name": "That\u0027s all, ducks!",
       "Percentage": 19,
       "XP": 160,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -1645,7 +1650,7 @@
       "Name": "High-rise",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1677,7 +1682,7 @@
       "Name": "Make a wish",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1685,7 +1690,7 @@
       "Name": "Catch a flight",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1709,7 +1714,7 @@
       "Name": "Abducktion",
       "Percentage": 24,
       "XP": 95,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -1717,7 +1722,7 @@
       "Name": "On fire",
       "Percentage": 37,
       "XP": 60,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -1732,14 +1737,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 360,
+      "Progressed": 361,
       "Completed": 30
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:06:04.6806245+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:06:10.6506429+00:00",
   "LastUpdate_AppInfo": "2024-01-07T05:57:03.4341753+00:00",
-  "LastUpdate_Ratings": "2024-01-13T20:59:25.7224651+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:06:04.6806424+00:00"
+  "LastUpdate_Ratings": "2024-01-13T21:59:45.3602405+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:06:10.6506607+00:00"
 }

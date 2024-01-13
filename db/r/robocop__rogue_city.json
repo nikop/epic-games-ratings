@@ -2,12 +2,12 @@
   "ID": "3a5c77a536854024add2714cbd0fa865",
   "Name": "RoboCop: Rogue City",
   "ProductSlug": "robocop-rogue-city",
-  "Ranking_Rating": 829,
-  "Ranking_Popularity": 329,
+  "Ranking_Rating": 821,
+  "Ranking_Popularity": 327,
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-02T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "robocop-rogue-city"
     }
   },
-  "Rating": 4.35,
+  "Rating": 4.36,
   "RatingHistory": [
     {
       "Time": "2023-11-07T18:58:52.6047076+00:00",
@@ -513,23 +513,29 @@
       "Rating": 4.35,
       "NumberOfAwards": 155,
       "NumberOfAwardsMax": 155
+    },
+    {
+      "Time": "2024-01-13T22:00:34.2674328+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 159,
+      "NumberOfAwardsMax": 159
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 155,
-  "NumberOfAwardsMax": 155,
+  "NumberOfAwards": 159,
+  "NumberOfAwardsMax": 159,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 155
+      "Count": 159
     }
   ],
-  "EOS_Progressed": 3508,
+  "EOS_Progressed": 3513,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 763,
+  "EOS_NewPlayers": 760,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3267,6 +3273,11 @@
       "Time": "2024-01-13T21:08:43.8414707+00:00",
       "NumProgressed": 3508,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T22:08:46.5801144+00:00",
+      "NumProgressed": 3513,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-10T15:05:52.8911905+00:00",
@@ -3494,16 +3505,16 @@
     {
       "ID": "80nhi4a",
       "IsBase": true,
-      "Progressed": 3508,
+      "Progressed": 3513,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-02T16:00:47.732778+00:00",
   "FirstSeenRating": "2023-11-07T18:58:52.6047074+00:00",
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
-  "LastChanged": "2024-01-12T17:00:37.836921+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:08:43.8414704+00:00",
+  "LastChanged": "2024-01-13T22:00:34.2674327+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:08:46.5801143+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:17.9619611+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:00:13.5269879+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:08:43.8414995+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:00:34.2674331+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:08:46.5801475+00:00"
 }

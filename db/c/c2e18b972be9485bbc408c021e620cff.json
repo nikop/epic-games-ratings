@@ -2,9 +2,9 @@
   "ID": "c2e18b972be9485bbc408c021e620cff",
   "Name": "Train Sim World\u00AE 4: Standard Edition",
   "ProductSlug": "train-sim-world-4",
-  "Ranking_Rating": 829,
+  "Ranking_Rating": 830,
   "Ranking_Popularity": 357,
-  "Ranking_PopularitySum": 347,
+  "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 575,
@@ -1339,10 +1339,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 443,
       "NumberOfAwardsMax": 124
+    },
+    {
+      "Time": "2024-01-13T22:00:38.0018018+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 446,
+      "NumberOfAwardsMax": 124
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 443,
+  "NumberOfAwards": 446,
   "NumberOfAwardsMax": 124,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1368,7 +1374,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 53
+      "Count": 55
     },
     {
       "Text": "This game is Educational",
@@ -1380,7 +1386,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1427,9 +1433,9 @@
   "FirstSeen": "2023-09-26T18:02:09.8849688+00:00",
   "FirstSeenRating": "2023-09-28T19:59:46.8251254+00:00",
   "FirstSeenAchievements": "2023-08-15T22:07:16.7768201+00:00",
-  "LastChanged": "2024-01-13T21:00:16.9931389+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:05:04.7966347+00:00",
+  "LastChanged": "2024-01-13T22:00:38.0018016+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:05:11.3694647+00:00",
   "LastUpdate_AppInfo": "2024-01-10T04:57:09.0728838+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:00:16.9931395+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:05:04.7966374+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:00:38.0018021+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:05:11.3694663+00:00"
 }

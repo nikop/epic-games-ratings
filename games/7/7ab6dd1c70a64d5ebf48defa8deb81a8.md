@@ -8,16 +8,16 @@ Rating: 4.17 (Ranked 990)
 | Break Out | 64.00% | ~1,478 |
 | Trinity | 33.00% | ~762 |
 | The Collector | 27.00% | ~623 |
+| Find Allies | 26.00% | ~600 |
 | A Taste of Wrath | 26.00% | ~600 |
-| Find Allies | 25.00% | ~577 |
 | Adventurer | 24.00% | ~554 |
 | Shatter Them All | 24.00% | ~554 |
 | Geared Up | 24.00% | ~554 |
 | I Found It | 24.00% | ~554 |
 | Fashion Victim | 23.00% | ~531 |
 | Scholar | 23.00% | ~531 |
+| Stone Collection | 22.00% | ~508 |
 | Tributes of Caladrias | 21.00% | ~485 |
-| Stone Collection | 21.00% | ~485 |
 | Powerful Allies | 20.00% | ~462 |
 | Big Bazar | 14.00% | ~323 |
 | Essence Blow | 13.00% | ~300 |
@@ -27,7 +27,7 @@ Rating: 4.17 (Ranked 990)
 | To Battle | 8.00% | ~185 |
 | Godslayer | 8.00% | ~185 |
 | Airborne | 8.00% | ~185 |
-| Miner | 7.00% | ~162 |
+| Miner | 8.00% | ~185 |
 | Shatterer | 5.00% | ~115 |
 | Clear Sight | 4.00% | ~92 |
 | Fine Feathers Make Fine Birds | 4.00% | ~92 |

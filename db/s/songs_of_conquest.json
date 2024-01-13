@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1172,
+  "EOS_Progressed": 1173,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4067,6 +4067,11 @@
       "Time": "2024-01-13T21:09:24.1886956+00:00",
       "NumProgressed": 1172,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T22:09:27.5476076+00:00",
+      "NumProgressed": 1173,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4287,7 +4292,7 @@
       "Name": "Multi Kill",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "MultiplayerWins",
@@ -4359,7 +4364,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -4407,7 +4412,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "WielderLevel2",
@@ -4510,15 +4515,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1172,
+      "Progressed": 1173,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:09:24.1886952+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:09:27.5476073+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-13T20:59:14.8977683+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:09:24.1887448+00:00"
+  "LastUpdate_Ratings": "2024-01-13T21:59:35.7884547+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:09:27.5476798+00:00"
 }

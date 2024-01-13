@@ -17,11 +17,11 @@ Rating: 4.50 (Ranked 617)
 | Teamwork | 5.00% | ~1,681 |
 | There you are! | 5.00% | ~1,681 |
 | Vaporous Expansion | 5.00% | ~1,681 |
-| Cultured | 4.00% | ~1,344 |
-| Daily Dose | 4.00% | ~1,344 |
-| Ghostbuster In Training | 4.00% | ~1,344 |
-| Right back at ya | 4.00% | ~1,344 |
-| Whoopsie | 4.00% | ~1,344 |
+| Cultured | 4.00% | ~1,345 |
+| Daily Dose | 4.00% | ~1,345 |
+| Ghostbuster In Training | 4.00% | ~1,345 |
+| Right back at ya | 4.00% | ~1,345 |
+| Whoopsie | 4.00% | ~1,345 |
 | Animated | 3.00% | ~1,008 |
 | Back Off | 3.00% | ~1,008 |
 | We have the best insurance | 3.00% | ~1,008 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 617)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,612 (Ranked 139)  
+Progressed: 33,613 (Ranked 139)  
 Completed: 71 (0.21%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 71 (0.21%) (Ranked 279)
 | 2024-01-10 | 33,517 | 71 |
 | 2024-01-11 | 33,549 | 71 |
 | 2024-01-12 | 33,580 | 71 |
-| 2024-01-13 | 33,612 | 71 |
+| 2024-01-13 | 33,613 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 257)  
 Sum: 2,965 (Ranked 187)  

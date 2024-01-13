@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.82 (Ranked 70)  
+Rating: 4.82 (Ranked 71)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -32,6 +32,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Bandit Camp | 3.00% | ~623 |
 | Barren Lands | 3.00% | ~623 |
 | Ancient Battleground | 3.00% | ~623 |
+| Flooded Mines | 3.00% | ~623 |
 | Lost Colonies | 3.00% | ~623 |
 | Statue of the Forefathers | 3.00% | ~623 |
 | Corrosive Torrent | 3.00% | ~623 |
@@ -43,7 +44,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Sparkdew Crystals | 2.00% | ~415 |
 | Fishmen Ritual Site | 2.00% | ~415 |
 | Haunted Forest | 2.00% | ~415 |
-| Flooded Mines | 2.00% | ~415 |
 | Victory Through Prosperity | 2.00% | ~415 |
 | Defying the Crown | 2.00% | ~415 |
 | Into the Forest | 2.00% | ~415 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,755 (Ranked 155)  
+Progressed: 20,756 (Ranked 155)  
 Completed: 35 (0.17%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 35 (0.17%) (Ranked 288)
 | 2024-01-10 | 20,658 | 34 |
 | 2024-01-11 | 20,700 | 34 |
 | 2024-01-12 | 20,729 | 34 |
-| 2024-01-13 | 20,755 | 35 |
+| 2024-01-13 | 20,756 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,380 (Ranked 178)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -257,7 +257,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45109,
+  "EOS_Progressed": 45110,
   "EOS_Completed": 248,
   "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
@@ -21037,6 +21037,11 @@
       "Time": "2024-01-13T21:08:23.017376+00:00",
       "NumProgressed": 45109,
       "NumCompleted": 248
+    },
+    {
+      "Time": "2024-01-13T22:08:26.6739743+00:00",
+      "NumProgressed": 45110,
+      "NumCompleted": 248
     }
   ],
   "TotalAchievements": 44,
@@ -21048,7 +21053,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25712
+      "UsersEstimate": 25713
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -21128,7 +21133,7 @@
       "Name": "The Lookout",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -21168,7 +21173,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 36087
+      "UsersEstimate": 36088
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -21232,7 +21237,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 7217
+      "UsersEstimate": 7218
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -21240,7 +21245,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16690
+      "UsersEstimate": 16691
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -21272,7 +21277,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24810
+      "UsersEstimate": 24811
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -21296,7 +21301,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12179
+      "UsersEstimate": 12180
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -21312,7 +21317,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 27065
+      "UsersEstimate": 27066
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -21320,7 +21325,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 30223
+      "UsersEstimate": 30224
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -21328,7 +21333,7 @@
       "Name": "The Spirit of Vengeance",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -21352,7 +21357,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 20750
+      "UsersEstimate": 20751
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -21360,7 +21365,7 @@
       "Name": "Hollow",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -21384,7 +21389,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41951
+      "UsersEstimate": 41952
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -21399,7 +21404,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 45109,
+      "Progressed": 45110,
       "Completed": 248
     }
   ],
@@ -21407,8 +21412,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:08:23.0173755+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:08:26.6739741+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:52.8040993+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:03:03.5055241+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:08:23.0175042+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:03:13.7598816+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:08:26.6740948+00:00"
 }

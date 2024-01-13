@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -477,9 +477,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3408,
+  "EOS_Progressed": 3409,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 504,
+  "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5467,6 +5467,11 @@
       "Time": "2024-01-13T21:10:01.8408214+00:00",
       "NumProgressed": 3408,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-13T22:10:04.1304119+00:00",
+      "NumProgressed": 3409,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5477,9 +5482,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 2999
+      "UsersEstimate": 3034
     },
     {
       "ID": "achievement_10",
@@ -5503,7 +5508,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "achievement_13",
@@ -5567,7 +5572,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2760
+      "UsersEstimate": 2761
     },
     {
       "ID": "achievement_20",
@@ -5581,9 +5586,9 @@
       "ID": "achievement_21",
       "SetID": "18al4io",
       "Name": "Diplomat",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_22",
@@ -5647,7 +5652,7 @@
       "Name": "Best Dressed",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "achievement_4",
@@ -5655,7 +5660,7 @@
       "Name": "No More Names",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "achievement_41",
@@ -5711,7 +5716,7 @@
       "Name": "Enlisted",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2556
+      "UsersEstimate": 2557
     },
     {
       "ID": "achievement_49",
@@ -5727,7 +5732,7 @@
       "Name": "Initiate",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "achievement_50",
@@ -5767,7 +5772,7 @@
       "Name": "Shroudfane Explorer",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "achievement_6",
@@ -5831,7 +5836,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "achievement_8",
@@ -5854,7 +5859,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3408,
+      "Progressed": 3409,
       "Completed": 4
     }
   ],
@@ -5862,8 +5867,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-13T21:00:06.2512077+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:10:01.840821+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:10:04.1304116+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8440656+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:00:06.2512085+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:10:01.8409166+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:00:25.6037361+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:10:04.1304725+00:00"
 }

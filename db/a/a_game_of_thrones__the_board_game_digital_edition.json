@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1410,9 +1410,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33349,
+  "EOS_Progressed": 33352,
   "EOS_Completed": 87,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 629,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -30335,6 +30335,11 @@
       "Time": "2024-01-13T21:09:53.1868679+00:00",
       "NumProgressed": 33349,
       "NumCompleted": 87
+    },
+    {
+      "Time": "2024-01-13T22:09:55.6546783+00:00",
+      "NumProgressed": 33352,
+      "NumCompleted": 87
     }
   ],
   "TotalAchievements": 22,
@@ -30346,7 +30351,7 @@
       "Name": "War of the Five Kings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "1016",
@@ -30370,7 +30375,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "1019",
@@ -30378,7 +30383,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "1020",
@@ -30386,7 +30391,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "1021",
@@ -30394,7 +30399,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "1022",
@@ -30410,7 +30415,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1001
     },
     {
       "ID": "1024",
@@ -30434,7 +30439,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "1027",
@@ -30442,7 +30447,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3001
+      "UsersEstimate": 3002
     },
     {
       "ID": "1028",
@@ -30466,7 +30471,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6336
+      "UsersEstimate": 6337
     },
     {
       "ID": "1031",
@@ -30474,7 +30479,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4335
+      "UsersEstimate": 4336
     },
     {
       "ID": "1032",
@@ -30482,7 +30487,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13340
+      "UsersEstimate": 13341
     },
     {
       "ID": "1033",
@@ -30498,7 +30503,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "1035",
@@ -30514,22 +30519,22 @@
       "Name": "A Long Journey",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33349,
+      "Progressed": 33352,
       "Completed": 87
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-12T22:58:53.3427917+00:00",
-  "LastChanged_Achievements": "2024-01-13T21:09:53.1868676+00:00",
+  "LastChanged_Achievements": "2024-01-13T22:09:55.6546781+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:53.1129394+00:00",
-  "LastUpdate_Ratings": "2024-01-13T20:59:06.3017641+00:00",
-  "LastUpdate_Achievements": "2024-01-13T21:09:53.1869845+00:00"
+  "LastUpdate_Ratings": "2024-01-13T21:59:27.0581225+00:00",
+  "LastUpdate_Achievements": "2024-01-13T22:09:55.6548305+00:00"
 }
