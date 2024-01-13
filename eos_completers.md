@@ -25,7 +25,7 @@
 | 23 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 20.00% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.52% |
-| 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.86% |
+| 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.24% |
 | 27 | [Island Cities](games/i/island_cities.md) | 16.96% |
 | 28 | [The Riflemen](games/t/the_riflemen.md) | 16.89% |
 | 29 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
@@ -59,7 +59,7 @@
 | 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.42% |
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.41% |
 | 59 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.23% |
-| 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.07% |
+| 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.06% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.93% |
 | 62 | [Scorn](games/s/scorn.md) | 6.91% |
 | 63 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.85% |
@@ -138,7 +138,7 @@
 | 136 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.07% |
 | 137 | [Strange House](games/s/strange_house.md) | 2.04% |
 | 138 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.00% |
-| 139 | [Serial Cleaners](games/s/serial_cleaners.md) | 1.97% |
+| 139 | [Serial Cleaners](games/s/serial_cleaners.md) | 1.96% |
 | 140 | [Somerville](games/s/somerville.md) | 1.95% |
 | 141 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 1.92% |
 | 142 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
@@ -154,7 +154,7 @@
 | 152 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.47% |
 | 153 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.46% |
 | 154 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.45% |
-| 155 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.41% |
+| 155 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.40% |
 | 156 | [Chorus](games/c/chorus.md) | 1.34% |
 | 157 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.33% |
 | 158 | [Poosh XL](games/p/poosh_xl.md) | 1.29% |
@@ -203,8 +203,8 @@
 | 200 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.71% |
 | 202 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
 | 202 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.70% |
-| 204 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.64% |
-| 205 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.63% |
+| 204 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.63% |
+| 204 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.63% |
 | 206 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.62% |
 | 206 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.62% |
 | 208 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.61% |
@@ -239,11 +239,11 @@
 | 236 | [Wildermyth](games/w/wildermyth.md) | 0.44% |
 | 238 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.43% |
 | 239 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.42% |
-| 240 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.40% |
-| 240 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.40% |
-| 240 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.40% |
-| 240 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.40% |
-| 244 | [Tchia](games/t/tchia.md) | 0.39% |
+| 240 | [Tchia](games/t/tchia.md) | 0.41% |
+| 241 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.40% |
+| 241 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.40% |
+| 241 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.40% |
+| 241 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.40% |
 | 245 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
 | 246 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.36% |
 | 247 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
@@ -279,10 +279,10 @@
 | 275 | [Eternights](games/e/eternights.md) | 0.22% |
 | 275 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.22% |
 | 279 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
-| 280 | [Circus Electrique](games/c/circus_electrique.md) | 0.20% |
 | 280 | [Despot's Game](games/d/despot's_game.md) | 0.20% |
 | 280 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
-| 283 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.19% |
+| 282 | [Circus Electrique](games/c/circus_electrique.md) | 0.19% |
+| 282 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.19% |
 | 284 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 0.18% |
 | 284 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.18% |
 | 284 | [Going Medieval](games/g/going_medieval.md) | 0.18% |
