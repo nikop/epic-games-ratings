@@ -27,7 +27,7 @@
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.52% |
 | 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.86% |
 | 27 | [Island Cities](games/i/island_cities.md) | 16.96% |
-| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.91% |
+| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.90% |
 | 29 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 30 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -54,12 +54,12 @@
 | 51 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.69% |
 | 51 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.61% |
-| 55 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.50% |
+| 55 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.49% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 57 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.41% |
 | 58 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.39% |
 | 59 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.23% |
-| 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.10% |
+| 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.09% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.93% |
 | 62 | [Scorn](games/s/scorn.md) | 6.91% |
 | 63 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.87% |
@@ -77,7 +77,7 @@
 | 75 | [Bugsnax](games/b/bugsnax.md) | 4.89% |
 | 76 | [ZZT!](games/z/zzt!.md) | 4.77% |
 | 77 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.76% |
-| 78 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.68% |
+| 78 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.66% |
 | 79 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.60% |
 | 80 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.49% |
 | 81 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.44% |
@@ -173,7 +173,7 @@
 | 170 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.10% |
 | 172 | [The Devil's Face](games/t/the_devil's_face.md) | 1.09% |
 | 172 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.09% |
-| 174 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.08% |
+| 174 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.07% |
 | 175 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.05% |
 | 176 | [Lemon Cake](games/l/lemon_cake.md) | 1.04% |
 | 177 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.03% |
@@ -249,9 +249,9 @@
 | 247 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
 | 247 | [Darksiders III](games/d/darksiders_iii.md) | 0.35% |
 | 247 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
-| 250 | [Remnant 2](games/r/remnant_2.md) | 0.34% |
-| 250 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.34% |
-| 250 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.34% |
+| 247 | [Remnant 2](games/r/remnant_2.md) | 0.35% |
+| 251 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.34% |
+| 251 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.34% |
 | 253 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.33% |
 | 253 | [The Surge](games/t/the_surge.md) | 0.33% |
 | 255 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
