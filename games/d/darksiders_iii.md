@@ -1,7 +1,7 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.48 (Ranked 658)  
+Rating: 4.48 (Ranked 659)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,7 +16,7 @@ Number of Ratings: 116  (23.09.2022)
 | Perfect Storm | 47.00% | ~271 |
 | All That Glitters | 46.00% | ~265 |
 | Enhance! | 43.00% | ~248 |
-| One Of the Chosen | 40.00% | ~230 |
+| One Of the Chosen | 41.00% | ~236 |
 | Throne Potato | 40.00% | ~230 |
 | Five's a Crowd | 40.00% | ~230 |
 | Devil's in the Details | 39.00% | ~225 |
@@ -72,7 +72,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.90% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 576 (Ranked 345)  
-Completed: 2 (0.35%) (Ranked 247)  
+Completed: 2 (0.35%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

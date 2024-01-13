@@ -1,7 +1,7 @@
 # Eiyuden Chronicle: Rising
 [Store](https://store.epicgames.com/en-US/p/eiyuden-chronicle-rising)  
 [View Rawdata](../../db/e/eiyuden_chronicle__rising.json)  
-Rating: 4.50 (Ranked 616)  
+Rating: 4.50 (Ranked 618)  
 Number of Ratings: 48  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,7 +12,7 @@ Number of Ratings: 48  (23.09.2022)
 | Amateur Adventurer | 61.00% | ~489 |
 | The Road to Recovery | 60.00% | ~481 |
 | Partners? | 58.00% | ~465 |
-| Magical Mineral Golem | 51.00% | ~409 |
+| Magical Mineral Golem | 52.00% | ~417 |
 | On Outlander Lane | 51.00% | ~409 |
 | First Time Fishing | 48.00% | ~384 |
 | A Girl About the Town | 47.00% | ~376 |
@@ -29,7 +29,7 @@ Number of Ratings: 48  (23.09.2022)
 | The Great Forest...On Foot! | 33.00% | ~264 |
 | Adept, for an Acting Mayor | 32.00% | ~256 |
 | Rune Wall Master | 31.00% | ~248 |
-| The Quarry...On Foot! | 28.00% | ~224 |
+| The Quarry...On Foot! | 29.00% | ~232 |
 | The Runebarrows...On Foot! | 27.00% | ~216 |
 | The Snowpeak...On Foot! | 25.00% | ~200 |
 | The Lava Ruins...On Foot! | 25.00% | ~200 |

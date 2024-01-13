@@ -1,11 +1,11 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.20 (Ranked 968)  
+Rating: 4.20 (Ranked 967)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,988 |
+| Unforeseen | 89.00% | ~3,022 |
 | Battlefields Have Memories | 81.00% | ~2,750 |
 | Enlisted | 75.00% | ~2,546 |
 | Maybe Engage a Little | 70.00% | ~2,376 |
@@ -16,7 +16,7 @@ Rating: 4.20 (Ranked 968)
 | Soldier | 25.00% | ~849 |
 | All the Major Food Groups | 25.00% | ~849 |
 | Socialite | 24.00% | ~815 |
-| Beggars Would Ride | 22.00% | ~747 |
+| Beggars Would Ride | 23.00% | ~781 |
 | Control is an Illusion | 21.00% | ~713 |
 | The Means to Save It | 18.00% | ~611 |
 | Resilience to Sin | 17.00% | ~577 |

@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,148 |
+| A Brief Tour of the Realms | 4.00% | ~10,149 |
 | Beast Intentions | 2.00% | ~5,074 |
 | The Cursed Farmer | 2.00% | ~5,074 |
 | The Ring of Regeneration | 1.00% | ~2,537 |
@@ -68,6 +68,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.20% | ~507 |
 | Attack on the Manor | 0.20% | ~507 |
 | The Death Curse | 0.20% | ~507 |
+| Nimble Escape | 0.20% | ~507 |
 | Premature Betrayal | 0.20% | ~507 |
 | A Tale of Two Cities | 0.20% | ~507 |
 | The Dead Three | 0.20% | ~507 |
@@ -80,6 +81,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.20% | ~507 |
 | Easily Distracted | 0.20% | ~507 |
 | Rude Welcome | 0.20% | ~507 |
+| Durable Deep | 0.20% | ~507 |
 | Rescue in the Jungle | 0.20% | ~507 |
 | The Beginning is the End | 0.20% | ~440 |
 | The Brains of an Illithid's Desire | 0.20% | ~440 |
@@ -278,7 +280,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Diversity Day-Trip | 0.10% | ~254 |
 | Late Game | 0.10% | ~254 |
 | Shadowfell Stalwarts | 0.10% | ~220 |
-| Nimble Escape | 0.10% | ~254 |
 | Nimblest Escape | 0.10% | ~254 |
 | Stumbling Escape | 0.10% | ~254 |
 | Distracted Escape | 0.10% | ~220 |
@@ -434,7 +435,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Civilization | 0.10% | ~220 |
 | Trench Coat Run | 0.10% | ~220 |
 | The Taunting Lord | 0.10% | ~220 |
-| Durable Deep | 0.10% | ~254 |
 | Lone Wolf Party | 0.10% | ~220 |
 | The Sibriex | 0.10% | ~220 |
 | The Archduke's Blessing | 0.10% | ~220 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,709 (Ranked 70)  
+Progressed: 253,720 (Ranked 70)  
 Completed: 2,616 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -821,14 +821,14 @@ Completed: 2,616 (1.03%) (Ranked 178)
 | 2024-01-10 | 253,250 | 2,611 |
 | 2024-01-11 | 253,420 | 2,614 |
 | 2024-01-12 | 253,598 | 2,614 |
-| 2024-01-13 | 253,709 | 2,616 |
+| 2024-01-13 | 253,720 | 2,616 |
 ## Awards
-Max (Great for Beginners): 5,774  (Ranked 74)  
-Sum: 33,473 (Ranked 41)  
+Max (Great for Beginners): 5,777  (Ranked 74)  
+Sum: 33,476 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,774 |
+| This game is Great for Beginners | 5,777 |
 | This game has Diverse Characters | 5,720 |
 | This game has Quickly Understood Controls | 4,911 |
 | This game is Relaxing | 4,780 |
@@ -1190,4 +1190,4 @@ Diff (max vs sum): 33
 | 2024-01-10 | 4.06 | - | 5,770 | 33,432 |
 | 2024-01-11 | 4.06 | - | 5,770 | 33,451 |
 | 2024-01-12 | 4.06 | - | 5,774 | 33,467 |
-| 2024-01-13 | 4.06 | - | 5,774 | 33,473 |
+| 2024-01-13 | 4.06 | - | 5,777 | 33,476 |

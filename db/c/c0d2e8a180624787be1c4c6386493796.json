@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -1623,9 +1623,9 @@
       "ID": "KR4_ACHIEVEMENT_FROGGER",
       "SetID": "caeik3h",
       "Name": "Crossy Froggy",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 73
     },
     {
       "ID": "KR4_ACHIEVEMENT_GLYPTODON",
@@ -1807,9 +1807,9 @@
       "ID": "KR4_ACHIEVEMENT_KING",
       "SetID": "caeik3h",
       "Name": "The True King",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 187
+      "UsersEstimate": 190
     },
     {
       "ID": "KR4_ACHIEVEMENT_LINIREA",
@@ -1911,9 +1911,9 @@
       "ID": "KR4_ACHIEVEMENT_POLYX",
       "SetID": "caeik3h",
       "Name": "Much To Learn",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 124
     },
     {
       "ID": "KR4_ACHIEVEMENT_PUMPKIN",
@@ -2007,9 +2007,9 @@
       "ID": "KR4_ACHIEVEMENT_SUPREME_DEFENDER",
       "SetID": "caeik3h",
       "Name": "Supreme Defender",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "KR4_ACHIEVEMENT_T800",
@@ -2086,8 +2086,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:04:46.5705402+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:05:40.1130334+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:57:57.6500601+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:04:46.5706716+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:58:36.8516426+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:05:40.1131263+00:00"
 }

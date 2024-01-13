@@ -1,11 +1,11 @@
 # Conan Exiles
 [Store](https://store.epicgames.com/en-US/p/conan-exiles)  
 [View Rawdata](../../db/c/conan_exiles.json)  
-Rating: 4.54 (Ranked 553)  
+Rating: 4.54 (Ranked 554)  
 Number of Ratings: 1,374  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 1,675  (Ranked 136)  
-Sum: 11,411 (Ranked 92)  
+Sum: 11,415 (Ranked 92)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 44
 | This game is Relaxing | 1,496 |
 | This game has Quickly Understood Controls | 1,462 |
 | This game is Extremely Fun | 1,454 |
-| This game has Amazing Storytelling | 1,361 |
+| This game has Amazing Storytelling | 1,365 |
 | This game has Amazing Characters | 1,335 |
 | This game has a Creative Community | 1,097 |
 | This game has Obsessive Gameplay | 563 |
@@ -398,4 +398,4 @@ Diff (max vs sum): 44
 | 2024-01-10 | 4.54 | - | 1,668 | 11,385 |
 | 2024-01-11 | 4.54 | - | 1,673 | 11,396 |
 | 2024-01-12 | 4.54 | - | 1,673 | 11,404 |
-| 2024-01-13 | 4.54 | - | 1,675 | 11,411 |
+| 2024-01-13 | 4.54 | - | 1,675 | 11,415 |

@@ -1,11 +1,11 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.59 (Ranked 453)  
+Rating: 4.59 (Ranked 454)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 34.00% | ~1,419 |
+| Wakey Wakey | 34.00% | ~1,420 |
 | Sputnik 2049 | 30.00% | ~1,252 |
 | Infinite Growth... | 28.00% | ~1,169 |
 | Without Breaking Some Eggs... | 27.00% | ~1,127 |
@@ -44,13 +44,13 @@ Rating: 4.59 (Ranked 453)
 | Delivery! | 3.00% | ~125 |
 | Help of the Forgotten Member | 3.00% | ~125 |
 | Pulsar Disciple | 3.00% | ~125 |
-| Mutual Loyalty | 2.00% | ~83 |
-| Better Him Than Me | 2.00% | ~83 |
-| Tiqqun Contender | 2.00% | ~83 |
-| Catastrophe Avoided | 2.00% | ~83 |
-| You Had One Job... | 2.00% | ~83 |
-| Tiqqun Unchained | 2.00% | ~83 |
-| Scientifically Accurate | 2.00% | ~83 |
+| Mutual Loyalty | 2.00% | ~84 |
+| Better Him Than Me | 2.00% | ~84 |
+| Tiqqun Contender | 2.00% | ~84 |
+| Catastrophe Avoided | 2.00% | ~84 |
+| You Had One Job... | 2.00% | ~84 |
+| Tiqqun Unchained | 2.00% | ~84 |
+| Scientifically Accurate | 2.00% | ~84 |
 | Remember the Dead | 1.00% | ~42 |
 | Gregor Spinoza | 1.00% | ~42 |
 | Work Harder | 0.70% | ~29 |
@@ -63,7 +63,7 @@ Rating: 4.59 (Ranked 453)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,174 (Ranked 214)  
+Progressed: 4,175 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-10 | 4,148 | 0 |
 | 2024-01-11 | 4,156 | 0 |
 | 2024-01-12 | 4,168 | 0 |
-| 2024-01-13 | 4,174 | 0 |
+| 2024-01-13 | 4,175 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

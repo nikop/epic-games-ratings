@@ -2,13 +2,13 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 305,
+  "Ranking_Rating": 320,
   "Ranking_Popularity": 372,
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.65,
   "NumberOfRatings": 398,
   "RatingHistory": [
     {
@@ -1507,6 +1507,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 764,
       "NumberOfAwardsMax": 107
+    },
+    {
+      "Time": "2024-01-13T15:59:03.076857+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 764,
+      "NumberOfAwardsMax": 107
     }
   ],
   "ReviewsDisabled": false,
@@ -1581,9 +1587,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7115,
+  "EOS_Progressed": 7116,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16666,6 +16672,11 @@
       "Time": "2024-01-13T15:04:37.612173+00:00",
       "NumProgressed": 7115,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-13T16:05:27.5688717+00:00",
+      "NumProgressed": 7116,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -16773,7 +16784,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3059
+      "UsersEstimate": 3060
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -16781,7 +16792,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -16797,7 +16808,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -16829,7 +16840,7 @@
       "Name": "The Governator",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -16837,7 +16848,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5194
+      "UsersEstimate": 5195
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -16949,7 +16960,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2490
+      "UsersEstimate": 2491
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -16996,15 +17007,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7115,
+      "Progressed": 7116,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2024-01-12T21:57:53.2427508+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:04:37.6121727+00:00",
+  "LastChanged": "2024-01-13T15:59:03.0768568+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:05:27.5688711+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.4830018+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:58:15.5673475+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:04:37.6122846+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:59:03.0768574+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:05:27.568993+00:00"
 }

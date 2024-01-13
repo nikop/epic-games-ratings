@@ -2,13 +2,13 @@
   "ID": "4b35838425c74992ad42e1276b2161ca",
   "Name": "Immortals Fenyx Rising Standard Edition",
   "ProductSlug": "immortals-fenyx-rising",
-  "Ranking_Rating": 453,
+  "Ranking_Rating": 427,
   "Ranking_Popularity": 181,
-  "Ranking_PopularitySum": 254,
+  "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 579,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 578,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-12-03T16:00:00+00:00",
     "PcReleaseDate": "2020-12-03T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "NumberOfRatings": 791,
   "RatingHistory": [
     {
@@ -2662,10 +2662,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1338,
       "NumberOfAwardsMax": 856
+    },
+    {
+      "Time": "2024-01-13T15:58:17.1329546+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1339,
+      "NumberOfAwardsMax": 856
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1338,
+  "NumberOfAwards": 1339,
   "NumberOfAwardsMax": 856,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2679,7 +2685,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 74
+      "Count": 75
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2741,8 +2747,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:58.8142388+00:00",
-  "LastChanged": "2024-01-13T04:57:43.8343882+00:00",
+  "LastChanged": "2024-01-13T15:58:17.1329544+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:18.6150957+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:57:45.9750923+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:05:12.9519677+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:58:17.1329551+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:06:17.6744125+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 693,
+  "Ranking_Rating": 694,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -431,9 +431,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28605,
+  "EOS_Progressed": 28611,
   "EOS_Completed": 527,
-  "EOS_NewPlayers": 507,
+  "EOS_NewPlayers": 509,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -29331,6 +29331,11 @@
       "Time": "2024-01-13T15:05:38.7913675+00:00",
       "NumProgressed": 28605,
       "NumCompleted": 527
+    },
+    {
+      "Time": "2024-01-13T16:06:53.0158906+00:00",
+      "NumProgressed": 28611,
+      "NumCompleted": 527
     }
   ],
   "TotalAchievements": 20,
@@ -29342,7 +29347,7 @@
       "Name": "Cartographer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4577
+      "UsersEstimate": 4578
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -29350,7 +29355,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "EAST_FINISHED",
@@ -29358,7 +29363,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 4005
+      "UsersEstimate": 4006
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -29366,7 +29371,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2574
+      "UsersEstimate": 2575
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -29382,7 +29387,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2860
+      "UsersEstimate": 2861
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -29390,7 +29395,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2002
+      "UsersEstimate": 2003
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -29406,7 +29411,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 4005
+      "UsersEstimate": 4006
     },
     {
       "ID": "FOUND_ERIN",
@@ -29422,7 +29427,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "FOUND_MAMBA",
@@ -29430,7 +29435,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -29446,7 +29451,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "GAME_FINISHED",
@@ -29462,7 +29467,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 21740
+      "UsersEstimate": 21744
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -29470,7 +29475,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7723
+      "UsersEstimate": 7725
     },
     {
       "ID": "NORTH_FINISHED",
@@ -29486,7 +29491,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "WEST_FINISHED",
@@ -29494,22 +29499,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 5149
+      "UsersEstimate": 5150
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 28605,
+      "Progressed": 28611,
       "Completed": 527
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-11T07:57:26.7354656+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:05:38.7913671+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:06:53.0158902+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.2454847+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:58:23.9015297+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:05:38.7915077+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:59:17.9360474+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:06:53.0160427+00:00"
 }

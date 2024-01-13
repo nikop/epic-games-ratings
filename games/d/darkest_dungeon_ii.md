@@ -7,26 +7,26 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 14.00% | ~1,055 |
-| Lost and Found | 9.00% | ~678 |
-| Autodidact | 8.00% | ~10,613 |
-| This Belongs in a Museum | 7.00% | ~9,286 |
-| This guy... again? | 7.00% | ~527 |
+| Lost and Found | 9.00% | ~679 |
+| Autodidact | 8.00% | ~10,614 |
+| This Belongs in a Museum | 7.00% | ~9,287 |
+| This guy... again? | 7.00% | ~528 |
 | Serenity Now! | 6.00% | ~7,960 |
 | Creep and Sleep | 6.00% | ~7,960 |
 | Overdue Notice | 6.00% | ~7,960 |
 | Escape from the Black Hole | 6.00% | ~7,960 |
 | Ploughshares to Swords | 6.00% | ~452 |
 | Bloody Graduation | 6.00% | ~452 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,633 |
-| It Rings a Bell | 5.00% | ~6,633 |
-| Not Today! | 5.00% | ~6,633 |
-| Meat and Greet | 5.00% | ~6,633 |
-| Catch and Decease | 5.00% | ~6,633 |
-| It Happens | 5.00% | ~6,633 |
-| Rush Hour | 5.00% | ~6,633 |
-| To Grandmother's House | 5.00% | ~6,633 |
-| A Place to Lay Your Head | 5.00% | ~6,633 |
-| FNG | 5.00% | ~6,633 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,634 |
+| It Rings a Bell | 5.00% | ~6,634 |
+| Not Today! | 5.00% | ~6,634 |
+| Meat and Greet | 5.00% | ~6,634 |
+| Catch and Decease | 5.00% | ~6,634 |
+| It Happens | 5.00% | ~6,634 |
+| Rush Hour | 5.00% | ~6,634 |
+| To Grandmother's House | 5.00% | ~6,634 |
+| A Place to Lay Your Head | 5.00% | ~6,634 |
+| FNG | 5.00% | ~6,634 |
 | Unfulfilled Desires | 4.00% | ~5,307 |
 | Dissector | 4.00% | ~5,307 |
 | Banishment | 4.00% | ~5,307 |
@@ -37,7 +37,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 4.00% | ~5,307 |
 | Nope | 4.00% | ~5,307 |
 | Unshackled | 4.00% | ~5,307 |
-| Friends 'Til the End | 4.00% | ~301 |
+| Friends 'Til the End | 4.00% | ~302 |
 | Resurrection | 3.00% | ~3,980 |
 | Unleash Hell | 3.00% | ~3,980 |
 | Funny Guy | 3.00% | ~3,980 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,664 (Ranked 91)  
+Progressed: 132,670 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,10 +344,10 @@ Completed: 4 (0.00%) (Ranked 399)
 | 2024-01-10 | 132,395 | 4 |
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
-| 2024-01-13 | 132,664 | 4 |
+| 2024-01-13 | 132,670 | 4 |
 ## Awards
 Max (Character Customization): 8,007  (Ranked 51)  
-Sum: 21,618 (Ranked 58)  
+Sum: 21,621 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -357,7 +357,7 @@ Diff (max vs sum): -7
 | This game is Highly Recommended | 1,604 |
 | This game has Amazing Characters | 1,532 |
 | This game is Extremely Fun | 1,522 |
-| This game has Unique Visuals | 1,467 |
+| This game has Unique Visuals | 1,470 |
 | This game has Amazing Storytelling | 1,446 |
 | This game has Quickly Understood Controls | 1,416 |
 | This game has a Creative Community | 1,094 |
@@ -716,4 +716,4 @@ Diff (max vs sum): -7
 | 2024-01-10 | 4.68 | - | 8,000 | 21,576 |
 | 2024-01-11 | 4.68 | - | 8,002 | 21,592 |
 | 2024-01-12 | 4.68 | - | 8,007 | 21,610 |
-| 2024-01-13 | 4.68 | - | 8,007 | 21,618 |
+| 2024-01-13 | 4.68 | - | 8,007 | 21,621 |

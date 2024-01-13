@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10726,10 +10726,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21618,
       "NumberOfAwardsMax": 8007
+    },
+    {
+      "Time": "2024-01-13T15:57:23.8868915+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21621,
+      "NumberOfAwardsMax": 8007
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21618,
+  "NumberOfAwards": 21621,
   "NumberOfAwardsMax": 8007,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10791,7 +10797,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1467
+      "Count": 1470
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10806,9 +10812,9 @@
       "Count": 1094
     }
   ],
-  "EOS_Progressed": 132664,
+  "EOS_Progressed": 132670,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 760,
+  "EOS_NewPlayers": 759,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39671,6 +39677,11 @@
       "Time": "2024-01-13T15:09:55.5584282+00:00",
       "NumProgressed": 132664,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-13T16:10:31.9373389+00:00",
+      "NumProgressed": 132670,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39682,7 +39693,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6633
+      "UsersEstimate": 6634
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -39698,7 +39709,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6633
+      "UsersEstimate": 6634
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -39810,7 +39821,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9286
+      "UsersEstimate": 9287
     },
     {
       "ID": "combat_kill_cadavers",
@@ -39834,7 +39845,7 @@
       "Name": "Not Today!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6633
+      "UsersEstimate": 6634
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -39882,7 +39893,7 @@
       "Name": "Meat and Greet",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6633
+      "UsersEstimate": 6634
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -39898,7 +39909,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6633
+      "UsersEstimate": 6634
     },
     {
       "ID": "combat_kill_librarian",
@@ -39954,7 +39965,7 @@
       "Name": "It Happens",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6633
+      "UsersEstimate": 6634
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -39978,7 +39989,7 @@
       "Name": "Rush Hour",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6633
+      "UsersEstimate": 6634
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -40002,7 +40013,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6633
+      "UsersEstimate": 6634
     },
     {
       "ID": "driving_distance_easy",
@@ -40034,7 +40045,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10613
+      "UsersEstimate": 10614
     },
     {
       "ID": "hero_story_complete_all",
@@ -40074,7 +40085,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6633
+      "UsersEstimate": 6634
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -40090,7 +40101,7 @@
       "Name": "FNG",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6633
+      "UsersEstimate": 6634
     },
     {
       "ID": "inn_visit_all_variants",
@@ -40226,7 +40237,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -40282,7 +40293,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -40290,7 +40301,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -40313,21 +40324,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132664,
+      "Progressed": 132670,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7533,
+      "Progressed": 7539,
       "Completed": 825
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-13T13:57:24.315581+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:09:55.558428+00:00",
+  "LastChanged": "2024-01-13T15:57:23.8868914+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:10:31.9373386+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:57:12.2372749+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:09:55.558629+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:57:23.8868922+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:10:31.9375755+00:00"
 }

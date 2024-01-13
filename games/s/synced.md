@@ -5,25 +5,25 @@ Rating: 4.13 (Ranked 1,017)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 46.00% | ~39,968 |
-| More Power to You | 23.00% | ~19,984 |
-| As Far Away As Possible | 21.00% | ~18,246 |
-| A Most Unstable Organism | 14.00% | ~12,164 |
-| No Time to Follow Protocol | 9.00% | ~7,820 |
-| Nano Connoisseur | 7.00% | ~6,082 |
-| Float Like a Butterfly... | 7.00% | ~6,082 |
-| In Two Places At Once | 6.00% | ~5,213 |
+| Your Lucky Day | 46.00% | ~39,978 |
+| More Power to You | 23.00% | ~19,989 |
+| As Far Away As Possible | 21.00% | ~18,251 |
+| A Most Unstable Organism | 14.00% | ~12,167 |
+| No Time to Follow Protocol | 9.00% | ~7,822 |
+| Nano Connoisseur | 7.00% | ~6,084 |
+| Float Like a Butterfly... | 7.00% | ~6,084 |
+| In Two Places At Once | 6.00% | ~5,214 |
 | Pulling Your Weight | 3.00% | ~2,607 |
 | Reaping Rivals | 3.00% | ~2,607 |
 | fifteenth Time's the Charm | 1.00% | ~869 |
 | Gone Rogue | 1.00% | ~869 |
-| Completely Customizable | 0.50% | ~434 |
+| Completely Customizable | 0.50% | ~435 |
 | Memory Keeper | 0.40% | ~348 |
 | Runs for Your Money | 0.30% | ~261 |
 | Past Master | 0.30% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,887 (Ranked 108)  
-Completed: 69 (0.08%) (Ranked 327)  
+Progressed: 86,908 (Ranked 108)  
+Completed: 70 (0.08%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -161,15 +161,15 @@ Completed: 69 (0.08%) (Ranked 327)
 | 2024-01-10 | 86,114 | 66 |
 | 2024-01-11 | 86,392 | 67 |
 | 2024-01-12 | 86,671 | 68 |
-| 2024-01-13 | 86,887 | 69 |
+| 2024-01-13 | 86,908 | 70 |
 ## Awards
 Max (Great for Beginners): 135  (Ranked 342)  
-Sum: 585 (Ranked 328)  
+Sum: 586 (Ranked 328)  
 Diff (max vs sum): 14  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 135 |
-| This game has Diverse Characters | 91 |
+| This game has Diverse Characters | 92 |
 | This game is Extremely Fun | 67 |
 | This game is Highly Recommended | 66 |
 | This game has Amazing Characters | 66 |
@@ -298,4 +298,4 @@ Diff (max vs sum): 14
 | 2024-01-10 | 4.14 | 134 | 576 |
 | 2024-01-11 | 4.13 | 135 | 577 |
 | 2024-01-12 | 4.14 | 135 | 582 |
-| 2024-01-13 | 4.13 | 135 | 585 |
+| 2024-01-13 | 4.13 | 135 | 586 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5410,
+  "EOS_Progressed": 5411,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -5230,6 +5230,11 @@
       "Time": "2024-01-13T15:05:50.3548689+00:00",
       "NumProgressed": 5410,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-13T16:07:09.160081+00:00",
+      "NumProgressed": 5411,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5289,7 +5294,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4544
+      "UsersEstimate": 4545
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5297,7 +5302,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5085
+      "UsersEstimate": 5086
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5313,7 +5318,7 @@
       "Name": "Hey Listen",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -5329,7 +5334,7 @@
       "Name": "Gear Up",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -5361,7 +5366,7 @@
       "Name": "It Lives! It Sniffs! It Conquers!",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ID_ACHIEV_17",
@@ -5417,7 +5422,7 @@
       "Name": "Man of Steel",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ID_ACHIEV_24",
@@ -5489,7 +5494,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2921
+      "UsersEstimate": 2922
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -5497,7 +5502,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ID_ACHIEV_35",
@@ -5513,7 +5518,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -5521,7 +5526,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1785
+      "UsersEstimate": 1786
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -5585,7 +5590,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -5681,7 +5686,7 @@
       "Name": "3-2-1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ID_ACHIEV_58",
@@ -5776,15 +5781,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5410,
+      "Progressed": 5411,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:05:50.3548686+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:07:09.1600807+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.5688271+00:00",
-  "LastUpdate_Ratings": "2024-01-13T15:00:07.2752968+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:05:50.3549535+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:01:49.1044625+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:07:09.1601689+00:00"
 }

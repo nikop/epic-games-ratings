@@ -2,13 +2,13 @@
   "ID": "33a47f9b76374045b7da20af80c40aa1",
   "Name": "Immortals of Aveum\u2122",
   "ProductSlug": "immortals-of-aveum",
-  "Ranking_Rating": 968,
+  "Ranking_Rating": 967,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -473,7 +473,7 @@
   ],
   "EOS_Progressed": 3395,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 528,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5446,9 +5446,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 2988
+      "UsersEstimate": 3022
     },
     {
       "ID": "achievement_10",
@@ -5814,9 +5814,9 @@
       "ID": "achievement_9",
       "SetID": "18al4io",
       "Name": "Beggars Would Ride",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 747
+      "UsersEstimate": 781
     }
   ],
   "AchievementSets": [
@@ -5831,8 +5831,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-13T10:01:14.462085+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:10:01.0480487+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:10:39.3382711+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8440656+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:59:58.3577633+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:10:01.0481031+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:01:35.4865004+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:10:39.3383483+00:00"
 }

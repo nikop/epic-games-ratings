@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 41,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14299,10 +14299,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 64494,
       "NumberOfAwardsMax": 7824
+    },
+    {
+      "Time": "2024-01-13T16:00:06.7623989+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 64511,
+      "NumberOfAwardsMax": 7824
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 64494,
+  "NumberOfAwards": 64511,
   "NumberOfAwardsMax": 7824,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14310,7 +14316,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 7491
+      "Count": 7508
     },
     {
       "Text": "This game has Challenging Combat",
@@ -14373,9 +14379,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 498008,
+  "EOS_Progressed": 498056,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4558,
+  "EOS_NewPlayers": 4564,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45323,6 +45329,11 @@
       "Time": "2024-01-13T15:10:15.2800603+00:00",
       "NumProgressed": 498008,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T16:10:56.535796+00:00",
+      "NumProgressed": 498056,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -46548,9 +46559,9 @@
       "ID": "achievement_its_all_about_the_money",
       "SetID": "8p2n7he",
       "Name": "It\u0027s all about the money",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 996
+      "UsersEstimate": 1494
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -48237,21 +48248,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 498008,
+      "Progressed": 498056,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 498008,
+      "Progressed": 498056,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-13T08:59:08.4193677+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:10:15.2800599+00:00",
+  "LastChanged": "2024-01-13T16:00:06.7623987+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:10:56.5357957+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.850256+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:58:57.5860064+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:10:15.2811077+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:00:06.7623996+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:10:56.5369908+00:00"
 }

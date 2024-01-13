@@ -5,25 +5,25 @@ Rating: 4.17 (Ranked 990)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 64.00% | ~1,468 |
-| Trinity | 33.00% | ~757 |
-| The Collector | 27.00% | ~619 |
-| A Taste of Wrath | 26.00% | ~596 |
-| Find Allies | 25.00% | ~574 |
-| Adventurer | 24.00% | ~551 |
-| Shatter Them All | 24.00% | ~551 |
-| Geared Up | 24.00% | ~551 |
-| I Found It | 24.00% | ~551 |
-| Fashion Victim | 23.00% | ~528 |
-| Scholar | 23.00% | ~528 |
-| Tributes of Caladrias | 21.00% | ~482 |
-| Stone Collection | 21.00% | ~482 |
-| Powerful Allies | 20.00% | ~459 |
-| Big Bazar | 14.00% | ~321 |
-| Essence Blow | 13.00% | ~298 |
-| Alchemist | 13.00% | ~298 |
-| The Mentor | 11.00% | ~252 |
-| Calm before the Storm | 10.00% | ~229 |
+| Break Out | 63.00% | ~1,448 |
+| Trinity | 33.00% | ~759 |
+| The Collector | 27.00% | ~621 |
+| A Taste of Wrath | 26.00% | ~598 |
+| Find Allies | 25.00% | ~575 |
+| Adventurer | 24.00% | ~552 |
+| Shatter Them All | 24.00% | ~552 |
+| Geared Up | 24.00% | ~552 |
+| I Found It | 24.00% | ~552 |
+| Fashion Victim | 23.00% | ~529 |
+| Scholar | 23.00% | ~529 |
+| Tributes of Caladrias | 21.00% | ~483 |
+| Stone Collection | 21.00% | ~483 |
+| Powerful Allies | 20.00% | ~460 |
+| Big Bazar | 14.00% | ~322 |
+| Essence Blow | 13.00% | ~299 |
+| Alchemist | 13.00% | ~299 |
+| The Mentor | 11.00% | ~253 |
+| Calm before the Storm | 10.00% | ~230 |
 | To Battle | 8.00% | ~184 |
 | Godslayer | 8.00% | ~184 |
 | Airborne | 8.00% | ~184 |
@@ -42,7 +42,7 @@ Rating: 4.17 (Ranked 990)
 | All That Gold | 0.70% | ~16 |
 | Feeling Fancy | 0.40% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,294 (Ranked 246)  
+Progressed: 2,299 (Ranked 246)  
 Completed: 3 (0.13%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 3 (0.13%) (Ranked 300)
 | 2024-01-10 | 2,213 | 4 |
 | 2024-01-11 | 2,245 | 4 |
 | 2024-01-12 | 2,273 | 4 |
-| 2024-01-13 | 2,294 | 3 |
+| 2024-01-13 | 2,299 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

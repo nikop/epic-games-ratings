@@ -2,13 +2,13 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 69,
+  "Ranking_Rating": 70,
   "Ranking_Popularity": 233,
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3947,9 +3947,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 20750,
+  "EOS_Progressed": 20751,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 473,
+  "EOS_NewPlayers": 469,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19532,6 +19532,11 @@
       "Time": "2024-01-13T15:06:17.5891477+00:00",
       "NumProgressed": 20750,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-13T16:07:47.20208+00:00",
+      "NumProgressed": 20751,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19664,7 +19669,7 @@
       "Name": "Bandit Camp",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "WinNearBarren",
@@ -19672,7 +19677,7 @@
       "Name": "Barren Lands",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "WinNearBattleground",
@@ -19680,7 +19685,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "WinNearCrystals",
@@ -19768,7 +19773,7 @@
       "Name": "Lost Colonies",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "WinNearStatue",
@@ -19776,7 +19781,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "WinNearTemple",
@@ -19792,7 +19797,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "WinNearWatchtower",
@@ -19816,7 +19821,7 @@
       "Name": "Cursed Lands",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "WinOnMarshlands",
@@ -19950,9 +19955,9 @@
       "ID": "WinNearFrosts",
       "SetID": "cfbk359",
       "Name": "Frosts",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1245
     },
     {
       "ID": "WinNearGreed",
@@ -20000,7 +20005,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "WinWithFoxes",
@@ -20015,15 +20020,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20750,
+      "Progressed": 20751,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-13T14:00:31.5599357+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:06:17.5891473+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:07:47.2020797+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-13T15:00:01.5798999+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:06:17.5892934+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:01:40.3540702+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:07:47.2022223+00:00"
 }

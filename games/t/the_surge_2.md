@@ -37,8 +37,8 @@ Rating: 4.26 (Ranked 918)
 | Marked For Success | 11.00% | ~284 |
 | Stimulating The Local Economy | 10.00% | ~258 |
 | Triplets | 10.00% | ~258 |
+| Denying Prophecy | 9.00% | ~232 |
 | A Little Banged Up | 8.00% | ~207 |
-| Denying Prophecy | 8.00% | ~207 |
 | Following In Their Footsteps | 8.00% | ~207 |
 | Defense in Depth | 8.00% | ~207 |
 | Reverse Engineering | 7.00% | ~181 |
@@ -46,10 +46,10 @@ Rating: 4.26 (Ranked 918)
 | Turbo Booster | 6.00% | ~155 |
 | Squid Pro Quo | 6.00% | ~155 |
 | Reborn | 5.00% | ~129 |
+| Hello Darkness My Old Friend | 5.00% | ~129 |
 | Counter-Sniper | 5.00% | ~129 |
 | Shrimp Cocktail | 5.00% | ~129 |
 | Juiced Up | 5.00% | ~129 |
-| Hello Darkness My Old Friend | 4.00% | ~103 |
 | Geronimo! | 4.00% | ~103 |
 | Homewrecker | 4.00% | ~103 |
 | Plank of Wood | 4.00% | ~103 |

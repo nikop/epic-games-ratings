@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -1710,9 +1710,9 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 60,
-      "UsersEstimate": 129
+      "UsersEstimate": 133
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -1733,8 +1733,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:06:09.3465266+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:07:35.4946799+00:00",
   "LastUpdate_AppInfo": "2024-01-07T05:57:03.4341753+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:59:15.2055149+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:06:09.3465445+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:00:32.7561487+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:07:35.4946959+00:00"
 }

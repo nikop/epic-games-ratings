@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 2113,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.69,
   "EosHistory": [
@@ -5089,9 +5089,9 @@
       "ID": "ACH_HOMELEAVER",
       "SetID": "7pam6gn",
       "Name": "Home Leaver",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1669
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -5170,8 +5170,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:09:55.3158297+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:10:31.61801+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:30.8878388+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:58:24.7364681+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:09:55.3158645+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:59:19.0770459+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:10:31.6180573+00:00"
 }

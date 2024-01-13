@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.82 (Ranked 69)  
+Rating: 4.82 (Ranked 70)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,11 +16,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Coral Forest | 7.00% | ~1,453 |
 | The Marshlands | 7.00% | ~1,453 |
 | The Scarlet Orchard | 6.00% | ~1,245 |
+| Frosts | 6.00% | ~1,245 |
 | Ominous Presence | 6.00% | ~1,245 |
 | Gathering Storm | 6.00% | ~1,245 |
 | Royal Outpost | 5.00% | ~1,038 |
 | Watchtower | 5.00% | ~1,038 |
-| Frosts | 5.00% | ~1,038 |
 | Land of Greed | 5.00% | ~1,038 |
 | Homesick | 4.00% | ~830 |
 | Ruined Armory | 4.00% | ~830 |
@@ -29,14 +29,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Monastery of the Holy Flame | 4.00% | ~830 |
 | A Real Challenge | 4.00% | ~830 |
 | Trade Baron | 4.00% | ~830 |
-| Bandit Camp | 3.00% | ~622 |
-| Barren Lands | 3.00% | ~622 |
-| Ancient Battleground | 3.00% | ~622 |
-| Lost Colonies | 3.00% | ~622 |
-| Statue of the Forefathers | 3.00% | ~622 |
-| Corrosive Torrent | 3.00% | ~622 |
-| Cursed Lands | 3.00% | ~622 |
-| Untamed Wilds | 3.00% | ~622 |
+| Bandit Camp | 3.00% | ~623 |
+| Barren Lands | 3.00% | ~623 |
+| Ancient Battleground | 3.00% | ~623 |
+| Lost Colonies | 3.00% | ~623 |
+| Statue of the Forefathers | 3.00% | ~623 |
+| Corrosive Torrent | 3.00% | ~623 |
+| Cursed Lands | 3.00% | ~623 |
+| Untamed Wilds | 3.00% | ~623 |
 | Serving Ale | 2.00% | ~415 |
 | Refinery | 2.00% | ~415 |
 | Against All Odds | 2.00% | ~415 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,750 (Ranked 155)  
+Progressed: 20,751 (Ranked 155)  
 Completed: 35 (0.17%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 35 (0.17%) (Ranked 287)
 | 2024-01-10 | 20,658 | 34 |
 | 2024-01-11 | 20,700 | 34 |
 | 2024-01-12 | 20,729 | 34 |
-| 2024-01-13 | 20,750 | 35 |
+| 2024-01-13 | 20,751 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,380 (Ranked 177)  

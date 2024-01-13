@@ -6,12 +6,12 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~451,707 |
-| The Three | 64.00% | ~348,304 |
-| The Banquet | 40.00% | ~217,690 |
+| Find Sanctuary | 83.00% | ~451,708 |
+| The Three | 64.00% | ~348,305 |
+| The Banquet | 40.00% | ~217,691 |
 | Devara's Light | 31.00% | ~168,710 |
 | The Iron Ones | 19.00% | ~103,403 |
-| The Village | 17.00% | ~92,518 |
+| The Village | 17.00% | ~92,519 |
 | The Forest | 15.00% | ~81,634 |
 | Branded | 14.00% | ~76,192 |
 | The Imposter | 14.00% | ~76,192 |
@@ -37,14 +37,14 @@ Number of Ratings: 3,114  (23.09.2022)
 | Coastrock | 3.00% | ~16,327 |
 | Find Salvation | 3.00% | ~16,327 |
 | The Unspeakable Deep | 3.00% | ~16,327 |
-| Devoted | 2.00% | ~10,884 |
-| Dominion | 2.00% | ~10,884 |
-| Keepers of Fire and Sky | 2.00% | ~10,884 |
-| Order of the Betrayer | 2.00% | ~10,884 |
-| Wise Words | 2.00% | ~10,884 |
+| Devoted | 2.00% | ~10,885 |
+| Dominion | 2.00% | ~10,885 |
+| Keepers of Fire and Sky | 2.00% | ~10,885 |
+| Order of the Betrayer | 2.00% | ~10,885 |
+| Wise Words | 2.00% | ~10,885 |
 | Fading Fast | 1.00% | ~5,442 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 544,225 (Ranked 36)  
+Progressed: 544,227 (Ranked 36)  
 Completed: 1,681 (0.31%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,11 +312,11 @@ Completed: 1,681 (0.31%) (Ranked 256)
 | 2024-01-10 | 543,970 | 1,678 |
 | 2024-01-11 | 544,055 | 1,679 |
 | 2024-01-12 | 544,136 | 1,681 |
-| 2024-01-13 | 544,225 | 1,681 |
+| 2024-01-13 | 544,227 | 1,681 |
 ## Awards
-Max (Challenging Combat): 298  (Ranked 262)  
+Max (Challenging Combat): 298  (Ranked 263)  
 Sum: 2,036 (Ranked 220)  
-Diff (max vs sum): 42  
+Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 298 |

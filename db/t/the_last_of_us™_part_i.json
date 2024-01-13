@@ -2,13 +2,13 @@
   "ID": "0c40923dd1174a768f732a3b013dcff2",
   "Name": "The Last of Us\u2122 Part I",
   "ProductSlug": "the-last-of-us-part-1",
-  "Ranking_Rating": 578,
+  "Ranking_Rating": 580,
   "Ranking_Popularity": 242,
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 579,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 578,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -1423,6 +1423,6 @@
   "FirstSeenRating": "2023-03-30T20:57:18.2148276+00:00",
   "LastChanged": "2024-01-13T01:44:23.2635966+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.0008473+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:57:25.276649+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:03:32.8723574+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:57:45.7266888+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:03:55.4883618+00:00"
 }

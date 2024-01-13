@@ -8,7 +8,7 @@ Number of Ratings: 76  (23.09.2022)
 | ---- | ---------- | ----- |
 | Spatula Seeker | 23.00% | ~226 |
 | Sponge Smasher | 23.00% | ~226 |
-| Jellyfish Jam | 21.00% | ~207 |
+| Jellyfish Jam | 22.00% | ~216 |
 | Jellyfishing | 17.00% | ~167 |
 | Sweet Victory | 13.00% | ~128 |
 | Sock Getter | 13.00% | ~128 |
@@ -20,8 +20,8 @@ Number of Ratings: 76  (23.09.2022)
 | Surf's Up! | 11.00% | ~108 |
 | Life's as extreme as you wanna make it! | 9.00% | ~89 |
 | Toxic Terror | 9.00% | ~89 |
+| Hit Rock Bottom | 9.00% | ~89 |
 | Shrimp Catcher | 8.00% | ~79 |
-| Hit Rock Bottom | 8.00% | ~79 |
 | Are you ready now? | 7.00% | ~69 |
 | Hello, Bikini Bottom | 7.00% | ~69 |
 | Keep it Rolling | 7.00% | ~69 |

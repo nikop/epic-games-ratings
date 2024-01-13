@@ -2,11 +2,11 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
-  "Ranking_Rating": 658,
+  "Ranking_Rating": 659,
   "Ranking_Popularity": 382,
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 345,
-  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
@@ -494,7 +494,7 @@
   ],
   "EOS_Progressed": 576,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2210,9 +2210,9 @@
       "ID": "Collect_Artifact_EpicShard",
       "SetID": "7a5k76n",
       "Name": "One Of the Chosen",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 236
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -2682,8 +2682,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-13T13:02:48.7812399+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:06:07.4790289+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:07:32.8936722+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:59:36.5967727+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:06:07.4790939+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:01:03.0570442+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:07:32.8937349+00:00"
 }

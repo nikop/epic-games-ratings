@@ -34,7 +34,7 @@ Rating: 4.75 (Ranked 149)
 | All’s Well That Ends Evil | 43.00% | ~328 |
 | Mana Cannon | 42.00% | ~320 |
 | The Duel | 40.00% | ~305 |
-| If Looks Could Kill | 37.00% | ~282 |
+| If Looks Could Kill | 38.00% | ~290 |
 | Unstoppable Horde | 36.00% | ~275 |
 | Master of the Undead | 36.00% | ~275 |
 | The Finitude Drill | 35.00% | ~267 |
@@ -43,13 +43,13 @@ Rating: 4.75 (Ranked 149)
 | Brimstone Shaken, Not Stirred | 30.00% | ~229 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 29.00% | ~221 |
 | Forbidden Knowledge | 29.00% | ~221 |
+| Sabotage! | 29.00% | ~221 |
 | Hungry, Hungry Gorgu! | 28.00% | ~214 |
 | Stop Tanos! | 28.00% | ~214 |
-| Sabotage! | 28.00% | ~214 |
 | Raiders of the Lost Stone | 28.00% | ~214 |
 | The Rune Sockets of Finitude (Part 1) | 28.00% | ~214 |
+| The Rune Sockets of Finitude (Part 2) | 27.00% | ~206 |
 | Bonus Evilness | 26.00% | ~198 |
-| The Rune Sockets of Finitude (Part 2) | 26.00% | ~198 |
 | The Last Stand - This Time For Real! | 25.00% | ~191 |
 | Rubble and Ashes | 23.00% | ~175 |
 | Lavalumps on Ice! | 21.00% | ~160 |

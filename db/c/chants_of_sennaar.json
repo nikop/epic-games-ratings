@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -127,10 +127,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2729,
+  "EOS_Progressed": 2730,
   "EOS_Completed": 203,
-  "EOS_NewPlayers": 269,
-  "EOS_NewCompleters": 39,
+  "EOS_NewPlayers": 261,
+  "EOS_NewCompleters": 38,
   "EOS_Completed_Percentage": 7.44,
   "EosHistory": [
     {
@@ -7207,6 +7207,11 @@
       "Time": "2024-01-13T15:05:11.4056387+00:00",
       "NumProgressed": 2729,
       "NumCompleted": 203
+    },
+    {
+      "Time": "2024-01-13T16:06:15.4746648+00:00",
+      "NumProgressed": 2730,
+      "NumCompleted": 203
     }
   ],
   "TotalAchievements": 25,
@@ -7266,7 +7271,7 @@
       "Name": "Open door",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "META_RESULT_1-3",
@@ -7282,7 +7287,7 @@
       "Name": "Feels like springtime",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "META_RESULT_2-3",
@@ -7290,7 +7295,7 @@
       "Name": "A great audience",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "META_RESULT_2-4",
@@ -7298,7 +7303,7 @@
       "Name": "For its own good",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "META_RESULT_3-4",
@@ -7314,7 +7319,7 @@
       "Name": "Alchemists Express",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -7362,7 +7367,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7386,7 +7391,7 @@
       "Name": "The great escape",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "PROGRESS_N3",
@@ -7402,7 +7407,7 @@
       "Name": "The darkness",
       "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "PROGRESS_N5",
@@ -7410,14 +7415,14 @@
       "Name": "One last step",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2729,
+      "Progressed": 2730,
       "Completed": 203
     }
   ],
@@ -7425,8 +7430,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:05:11.4056378+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:06:15.4746644+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:57:48.2345857+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:05:11.4056835+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:58:21.6237575+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:06:15.4747116+00:00"
 }

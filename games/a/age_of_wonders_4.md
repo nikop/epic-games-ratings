@@ -16,15 +16,15 @@ Rating: 4.63 (Ranked 357)
 | There Can Only Be One! | 8.00% | ~578 |
 | Stronger Together | 8.00% | ~578 |
 | Seat of Power | 8.00% | ~578 |
-| Valley of Wonders | 7.00% | ~505 |
-| In a Liege of Your Own | 7.00% | ~505 |
-| Intimidation Tactics | 7.00% | ~505 |
+| Valley of Wonders | 7.00% | ~506 |
+| In a Liege of Your Own | 7.00% | ~506 |
+| Intimidation Tactics | 7.00% | ~506 |
 | Return of the Wizard King | 5.00% | ~361 |
+| Enchanted Archipelago | 5.00% | ~361 |
 | Digging for Treasure | 5.00% | ~361 |
 | My Final Form | 5.00% | ~361 |
 | Against the Odds | 5.00% | ~361 |
 | But this one is mine | 5.00% | ~361 |
-| Enchanted Archipelago | 4.00% | ~289 |
 | Preparation Is Everything | 4.00% | ~289 |
 | Fiery Friend | 4.00% | ~289 |
 | Impenetrable Fortress | 4.00% | ~289 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 357)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,221 (Ranked 197)  
+Progressed: 7,222 (Ranked 197)  
 Completed: 8 (0.11%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,11 +302,11 @@ Completed: 8 (0.11%) (Ranked 308)
 | 2024-01-10 | 7,178 | 7 |
 | 2024-01-11 | 7,195 | 7 |
 | 2024-01-12 | 7,210 | 8 |
-| 2024-01-13 | 7,221 | 8 |
+| 2024-01-13 | 7,222 | 8 |
 ## Awards
-Max (Great for Beginners): 41  (Ranked 481)  
+Max (Great for Beginners): 41  (Ranked 482)  
 Sum: 238 (Ranked 406)  
-Diff (max vs sum): 75  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 41 |

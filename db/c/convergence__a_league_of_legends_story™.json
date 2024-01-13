@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -69,7 +69,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1315,
+  "EOS_Progressed": 1316,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 2,
@@ -3989,6 +3989,11 @@
       "Time": "2024-01-13T14:10:26.2661323+00:00",
       "NumProgressed": 1315,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-13T16:10:51.7588854+00:00",
+      "NumProgressed": 1316,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4032,7 +4037,7 @@
       "Name": "Right On Time",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ClockworkCompletion1",
@@ -4048,7 +4053,7 @@
       "Name": "Like Clockwork",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ClovemaryGift",
@@ -4120,7 +4125,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -4128,7 +4133,7 @@
       "Name": "The Betrayer",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -4152,7 +4157,7 @@
       "Name": "Whiz Kid",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "GrindingTime1",
@@ -4160,7 +4165,7 @@
       "Name": "Rail Rat",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "HexlockGift",
@@ -4264,7 +4269,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -4272,7 +4277,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "PidgeDefeated",
@@ -4288,7 +4293,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "RewindParry",
@@ -4312,7 +4317,7 @@
       "Name": "Golem Chaser",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "SkillCompletion1",
@@ -4374,9 +4379,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 382
     },
     {
       "ID": "WarwickDefeated",
@@ -4406,9 +4411,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 368
     },
     {
       "ID": "Zarkon2Defeated",
@@ -4423,7 +4428,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1315,
+      "Progressed": 1316,
       "Completed": 8
     }
   ],
@@ -4431,8 +4436,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-12T11:57:31.6661727+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:10:10.8963821+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:10:51.7588851+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:57:53.2527246+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:10:10.8964321+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:58:29.2562384+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:10:51.7589347+00:00"
 }

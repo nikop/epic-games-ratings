@@ -4,8 +4,8 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 732,
+  "EOS_Progressed": 733,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2679,6 +2679,11 @@
       "Time": "2024-01-12T22:03:12.8682758+00:00",
       "NumProgressed": 732,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T16:04:23.7020492+00:00",
+      "NumProgressed": 733,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -2747,7 +2752,7 @@
       "Name": "Ready to go",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
@@ -2819,7 +2824,7 @@
       "Name": "I like the risk",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_LISTEN_ALL_MUSIC",
@@ -2835,7 +2840,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -2859,7 +2864,7 @@
       "Name": "Unpacked",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -2898,14 +2903,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 732,
+      "Progressed": 733,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:03:52.7512136+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:04:23.7020483+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:07.9171581+00:00",
-  "LastUpdate_Ratings": "2024-01-13T15:00:00.1173008+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:03:52.7512475+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:01:38.3201189+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:04:23.7020706+00:00"
 }

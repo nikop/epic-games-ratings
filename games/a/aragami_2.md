@@ -14,7 +14,7 @@ Number of Ratings: 88  (23.09.2022)
 | Secret Seeker | 57.00% | ~25,706 |
 | Forge of Assassins | 55.00% | ~24,804 |
 | Revenant | 52.00% | ~23,451 |
-| I don’t Care! | 45.00% | ~20,294 |
+| I don’t Care! | 46.00% | ~20,745 |
 | Bird of Prey | 37.00% | ~16,686 |
 | Engraved with Power | 32.00% | ~14,431 |
 | Lady | 31.00% | ~13,980 |

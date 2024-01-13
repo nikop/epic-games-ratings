@@ -1,16 +1,16 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 321)  
+Rating: 4.65 (Ranked 320)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Settler | 4.00% | ~666 |
 | Play a Single Player Game | 4.00% | ~666 |
-| Explorer | 3.00% | ~499 |
-| Intrepid | 3.00% | ~499 |
-| Friendly Family | 3.00% | ~499 |
+| Explorer | 3.00% | ~500 |
+| Intrepid | 3.00% | ~500 |
+| Friendly Family | 3.00% | ~500 |
 | Able | 2.00% | ~333 |
 | Ambitious | 2.00% | ~333 |
 | Architect | 2.00% | ~333 |
@@ -35,36 +35,36 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 2.00% | ~333 |
 | Pyramids | 2.00% | ~333 |
 | Learn to Play 1 | 2.00% | ~333 |
+| Christianity | 2.00% | ~333 |
 | Judaism | 2.00% | ~333 |
 | Babylonian Paganism | 2.00% | ~333 |
 | Greek Paganism | 2.00% | ~333 |
 | Zoroastrianism | 2.00% | ~333 |
 | Naming Landmarks | 2.00% | ~333 |
 | Trade Caravan | 2.00% | ~333 |
-| Regicide | 1.00% | ~166 |
-| Hanging Gardens in Babylon | 1.00% | ~166 |
-| Drillmaster | 1.00% | ~166 |
-| Brilliant | 1.00% | ~166 |
-| Great | 1.00% | ~166 |
-| Wise | 1.00% | ~166 |
-| Legendary Cities | 1.00% | ~166 |
-| Able Difficulty | 1.00% | ~166 |
-| Just Difficulty | 1.00% | ~166 |
-| Furious Family | 1.00% | ~166 |
-| Acropolis | 1.00% | ~166 |
-| Apadana | 1.00% | ~166 |
-| Colossus | 1.00% | ~166 |
-| Great Ziggurat | 1.00% | ~166 |
-| Mausoleum | 1.00% | ~166 |
-| Musaeum | 1.00% | ~166 |
-| Necropolis | 1.00% | ~166 |
-| Learn to Play 2 | 1.00% | ~166 |
-| Christianity | 1.00% | ~166 |
-| Manichaeism | 1.00% | ~166 |
-| Carthaginian Paganism | 1.00% | ~166 |
-| Egyptian Paganism | 1.00% | ~166 |
-| Roman Paganism | 1.00% | ~166 |
-| Mythology | 1.00% | ~166 |
+| Regicide | 1.00% | ~167 |
+| Hanging Gardens in Babylon | 1.00% | ~167 |
+| Drillmaster | 1.00% | ~167 |
+| Brilliant | 1.00% | ~167 |
+| Great | 1.00% | ~167 |
+| Wise | 1.00% | ~167 |
+| Legendary Cities | 1.00% | ~167 |
+| Able Difficulty | 1.00% | ~167 |
+| Just Difficulty | 1.00% | ~167 |
+| Furious Family | 1.00% | ~167 |
+| Acropolis | 1.00% | ~167 |
+| Apadana | 1.00% | ~167 |
+| Colossus | 1.00% | ~167 |
+| Great Ziggurat | 1.00% | ~167 |
+| Mausoleum | 1.00% | ~167 |
+| Musaeum | 1.00% | ~167 |
+| Necropolis | 1.00% | ~167 |
+| Learn to Play 2 | 1.00% | ~167 |
+| Manichaeism | 1.00% | ~167 |
+| Carthaginian Paganism | 1.00% | ~167 |
+| Egyptian Paganism | 1.00% | ~167 |
+| Roman Paganism | 1.00% | ~167 |
+| Mythology | 1.00% | ~167 |
 | Intercessor | 0.90% | ~150 |
 | Valiant | 0.90% | ~150 |
 | Artisans | 0.90% | ~150 |
@@ -108,6 +108,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 0.50% | ~83 |
 | Ready | 0.50% | ~83 |
 | Hunters | 0.50% | ~83 |
+| Adur Burzen-Mihr | 0.50% | ~83 |
 | Learn to Play 4 | 0.50% | ~83 |
 | Assyrian Paganism | 0.50% | ~83 |
 | Industrial Progress | 0.50% | ~83 |
@@ -122,7 +123,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.40% | ~67 |
 | Clerics | 0.40% | ~67 |
 | Church of the Holy Sepulchre | 0.40% | ~67 |
-| Adur Burzen-Mihr | 0.40% | ~67 |
 | Babylonia | 0.40% | ~67 |
 | Carthage | 0.40% | ~67 |
 | Egypt | 0.40% | ~67 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,648 (Ranked 169)  
+Progressed: 16,654 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -633,7 +633,7 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
-| 2024-01-13 | 16,648 | 5 |
+| 2024-01-13 | 16,654 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,927 (Ranked 223)  

@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1953,
+  "EOS_Progressed": 1954,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5007,6 +5007,11 @@
       "Time": "2024-01-13T04:08:27.9143299+00:00",
       "NumProgressed": 1953,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T16:08:25.4873678+00:00",
+      "NumProgressed": 1954,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -5019,7 +5024,7 @@
       "Name": "Rookie",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5297,9 +5302,9 @@
       "ID": "ML_ACHIEVEMENT_36",
       "SetID": "5k00jcd",
       "Name": "Perfectionist",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 117
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -5386,20 +5391,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1953,
+      "Progressed": 1954,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1621,
+      "Progressed": 1622,
       "Completed": 1014
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:08:25.6719694+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:08:25.4873674+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.6791346+00:00",
-  "LastUpdate_Ratings": "2024-01-13T15:00:17.1341156+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:08:25.6720461+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:02:03.3208219+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:08:25.4874213+00:00"
 }

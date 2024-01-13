@@ -3,12 +3,12 @@
   "Name": "Overcooked! 2",
   "ProductSlug": "overcooked-2",
   "Ranking_Rating": 204,
-  "Ranking_Popularity": 273,
+  "Ranking_Popularity": 272,
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 579,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 578,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-06-17T15:00:00+00:00",
     "PcReleaseDate": "2018-08-07T09:00:00+00:00",
@@ -3804,18 +3804,24 @@
       "Rating": 4.71,
       "NumberOfAwards": 2390,
       "NumberOfAwardsMax": 276
+    },
+    {
+      "Time": "2024-01-13T16:02:35.3737867+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 2394,
+      "NumberOfAwardsMax": 279
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2390,
-  "NumberOfAwardsMax": 276,
+  "NumberOfAwards": 2394,
+  "NumberOfAwardsMax": 279,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 276
+      "Count": 279
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3833,7 +3839,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 208
+      "Count": 209
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3901,8 +3907,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:55.1110041+00:00",
-  "LastChanged": "2024-01-12T15:02:59.6690176+00:00",
+  "LastChanged": "2024-01-13T16:02:35.3737865+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:50.4701707+00:00",
-  "LastUpdate_Ratings": "2024-01-13T15:02:53.3911681+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:05:11.2530457+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:02:35.3737871+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:06:15.2541164+00:00"
 }

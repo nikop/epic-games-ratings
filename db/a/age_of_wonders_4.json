@@ -3,7 +3,7 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 357,
-  "Ranking_Popularity": 481,
+  "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 308,
@@ -777,9 +777,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7221,
+  "EOS_Progressed": 7222,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11177,6 +11177,11 @@
       "Time": "2024-01-13T14:04:50.9233715+00:00",
       "NumProgressed": 7221,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-13T16:05:13.0327188+00:00",
+      "NumProgressed": 7222,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11188,7 +11193,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "10",
@@ -11274,9 +11279,9 @@
       "ID": "2",
       "SetID": "3aa2279",
       "Name": "Enchanted Archipelago",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 361
     },
     {
       "ID": "20",
@@ -11404,7 +11409,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "35",
@@ -11460,7 +11465,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "41",
@@ -11667,13 +11672,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7221,
+      "Progressed": 7222,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7221,
+      "Progressed": 7222,
       "Completed": 8
     }
   ],
@@ -11681,8 +11686,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-11T22:58:38.2332491+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:04:27.5243883+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:05:13.0327186+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:59:22.1019963+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:04:27.5244702+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:00:42.6614514+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:05:13.0327963+00:00"
 }

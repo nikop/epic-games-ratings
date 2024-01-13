@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 508,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2054,9 +2054,9 @@
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 122
     },
     {
       "ID": "AC_BOSS_02",
@@ -2317,8 +2317,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:05:57.7645362+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:07:19.590209+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:59.4542445+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:57:34.3392351+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:05:57.7645706+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:57:59.2802255+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:07:19.5902673+00:00"
 }

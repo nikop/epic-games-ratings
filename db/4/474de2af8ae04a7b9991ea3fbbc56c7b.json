@@ -4,8 +4,8 @@
   "ProductSlug": "counterattackuprising-06aed8",
   "Ranking_EOS_Progress": 665,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 417,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 416,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2024-01-12T02:00:00+00:00",
     "PcReleaseDate": "2019-03-11T07:00:00+00:00",
@@ -82,17 +82,17 @@
       "ID": "1Up",
       "SetID": "c18da06",
       "Name": "Get a free life!",
-      "Percentage": 50,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "1kAutomatons",
       "SetID": "c18da06",
       "Name": "Kill 1000 Automatons",
-      "Percentage": 60,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "200Attachments",
@@ -186,9 +186,9 @@
       "ID": "Kill100",
       "SetID": "c18da06",
       "Name": "Kill 100 Automatons",
-      "Percentage": 90,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Kill100k",
@@ -242,9 +242,9 @@
       "ID": "Super10",
       "SetID": "c18da06",
       "Name": "Use 10 Ultimates",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Super100",
@@ -273,8 +273,8 @@
   ],
   "FirstSeen": "2024-01-12T22:00:00.0081569+00:00",
   "FirstSeenAchievements": "2023-12-12T23:09:03.0564734+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:09:13.3719957+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:09:32.3037389+00:00",
   "LastUpdate_AppInfo": "2024-01-08T02:21:08.020016+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:02:47.3806423+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:09:13.3720234+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:57:00.8614418+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:09:32.3037586+00:00"
 }

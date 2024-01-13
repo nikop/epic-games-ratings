@@ -2,13 +2,13 @@
   "ID": "9bcf5a4dc1d54cb6ab1a42f3a70c5cf4",
   "Name": "Assassin\u0027s Creed\u00AE Mirage",
   "ProductSlug": "assassins-creed-mirage",
-  "Ranking_Rating": 693,
+  "Ranking_Rating": 694,
   "Ranking_Popularity": 283,
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 579,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 578,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -3319,10 +3319,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 2069,
       "NumberOfAwardsMax": 252
+    },
+    {
+      "Time": "2024-01-13T16:01:56.3707739+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 2071,
+      "NumberOfAwardsMax": 252
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2069,
+  "NumberOfAwards": 2071,
   "NumberOfAwardsMax": 252,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3348,7 +3354,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 216
+      "Count": 218
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3405,8 +3411,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2024-01-13T12:01:44.3620963+00:00",
+  "LastChanged": "2024-01-13T16:01:56.3707737+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:31.9661549+00:00",
-  "LastUpdate_Ratings": "2024-01-13T15:00:12.5986491+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:03:55.1387868+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:01:56.3707741+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:04:27.1191315+00:00"
 }

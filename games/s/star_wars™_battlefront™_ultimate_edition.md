@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | New Recruit | 86.00% | ~2,516 |
-| Off to a good start | 60.00% | ~1,755 |
-| Do... or do not. There is no try | 52.00% | ~1,521 |
+| Off to a good start | 60.00% | ~1,756 |
+| Do... or do not. There is no try | 52.00% | ~1,522 |
 | A good blaster at your side | 24.00% | ~702 |
 | I suggest a new strategy | 17.00% | ~497 |
 | Great shot, kid! | 15.00% | ~439 |
@@ -31,15 +31,15 @@
 | Safety ain't the point of a joyride | 3.00% | ~88 |
 | Not bad for a little furball | 3.00% | ~88 |
 | Patience you must have | 3.00% | ~88 |
-| The Force is strong with this one | 2.00% | ~58 |
-| I've been waiting for you | 2.00% | ~58 |
-| When 900 years old you reach... | 2.00% | ~58 |
-| Determined | 2.00% | ~58 |
-| Your journey has only started | 2.00% | ~58 |
-| On the ball | 2.00% | ~58 |
-| Precision shot | 2.00% | ~58 |
-| That's no moon | 2.00% | ~58 |
-| Don't underestimate the Force | 2.00% | ~58 |
+| The Force is strong with this one | 2.00% | ~59 |
+| I've been waiting for you | 2.00% | ~59 |
+| When 900 years old you reach... | 2.00% | ~59 |
+| Determined | 2.00% | ~59 |
+| Your journey has only started | 2.00% | ~59 |
+| On the ball | 2.00% | ~59 |
+| Precision shot | 2.00% | ~59 |
+| That's no moon | 2.00% | ~59 |
+| Don't underestimate the Force | 2.00% | ~59 |
 | Hold the line! | 1.00% | ~29 |
 | Ackbar's Elite | 1.00% | ~29 |
 | This is a new day, a new beginning | 1.00% | ~29 |
@@ -55,8 +55,8 @@
 | A New Hope | 0.60% | ~18 |
 | When surrounded by war... | 0.60% | ~18 |
 | No such thing as luck | 0.50% | ~15 |
+| Do we take prisoners? | 0.50% | ~15 |
 | Stop that Droid | 0.50% | ~15 |
-| Do we take prisoners? | 0.40% | ~12 |
 | I’ll take that bet | 0.40% | ~12 |
 | Stay on target | 0.30% | ~9 |
 | Greed can be a very powerful ally | 0.30% | ~9 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,925 (Ranked 233)  
+Progressed: 2,926 (Ranked 233)  
 Completed: 1 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 1 (0.03%) (Ranked 357)
 | 2024-01-10 | 2,858 | 1 |
 | 2024-01-11 | 2,884 | 1 |
 | 2024-01-12 | 2,908 | 1 |
-| 2024-01-13 | 2,925 | 1 |
+| 2024-01-13 | 2,926 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "dc61166eea95474e912953b163791d42",
   "Name": "The Outer Worlds: Spacer\u0027s Choice Edition",
   "ProductSlug": "the-outer-worlds-spacers-choice-edition",
-  "Ranking_Rating": 616,
+  "Ranking_Rating": 618,
   "Ranking_Popularity": 87,
   "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 579,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 578,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-07T16:00:00+00:00",
     "PcReleaseDate": "2023-03-07T16:00:00+00:00",
@@ -1317,10 +1317,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 5256,
       "NumberOfAwardsMax": 4281
+    },
+    {
+      "Time": "2024-01-13T15:57:30.2405641+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 5266,
+      "NumberOfAwardsMax": 4281
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5256,
+  "NumberOfAwards": 5266,
   "NumberOfAwardsMax": 4281,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1370,7 +1376,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 108
+      "Count": 118
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1405,9 +1411,9 @@
   "FirstSeen": "2023-03-07T20:56:52.9843527+00:00",
   "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00",
-  "LastChanged": "2024-01-13T13:00:13.9330219+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:05:30.6938343+00:00",
+  "LastChanged": "2024-01-13T15:57:30.240564+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:06:42.5500196+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:40.3845685+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:57:16.1054028+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:05:30.6938374+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:57:30.2405646+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:06:42.5500216+00:00"
 }

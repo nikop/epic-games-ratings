@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9479,18 +9479,24 @@
       "Rating": 4.06,
       "NumberOfAwards": 33473,
       "NumberOfAwardsMax": 5774
+    },
+    {
+      "Time": "2024-01-13T16:01:23.7071453+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33476,
+      "NumberOfAwardsMax": 5777
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33473,
-  "NumberOfAwardsMax": 5774,
+  "NumberOfAwards": 33476,
+  "NumberOfAwardsMax": 5777,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5774
+      "Count": 5777
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9529,10 +9535,10 @@
       "Count": 3635
     }
   ],
-  "EOS_Progressed": 253709,
+  "EOS_Progressed": 253720,
   "EOS_Completed": 2616,
-  "EOS_NewPlayers": 1724,
-  "EOS_NewCompleters": 19,
+  "EOS_NewPlayers": 1710,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -39939,6 +39945,11 @@
       "Time": "2024-01-13T15:10:15.8940676+00:00",
       "NumProgressed": 253709,
       "NumCompleted": 2616
+    },
+    {
+      "Time": "2024-01-13T16:10:57.3687902+00:00",
+      "NumProgressed": 253720,
+      "NumCompleted": 2616
     }
   ],
   "TotalAchievements": 546,
@@ -39950,7 +39961,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10148
+      "UsersEstimate": 10149
     },
     {
       "ID": "objective_completed_10",
@@ -41796,9 +41807,9 @@
       "ID": "objective_completed_398",
       "SetID": "cc37lbc",
       "Name": "Nimble Escape",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 507
     },
     {
       "ID": "objective_completed_399",
@@ -43236,9 +43247,9 @@
       "ID": "objective_completed_81",
       "SetID": "cc37lbc",
       "Name": "Durable Deep",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 507
     },
     {
       "ID": "objective_completed_810",
@@ -44317,21 +44328,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219983,
+      "Progressed": 219994,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253709,
+      "Progressed": 253720,
       "Completed": 2616
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-13T12:01:11.8810866+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:10:15.8940673+00:00",
+  "LastChanged": "2024-01-13T16:01:23.7071451+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:10:57.3687899+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:59:51.3732095+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:10:15.8964435+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:01:23.7071459+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:10:57.3712255+00:00"
 }

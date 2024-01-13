@@ -15,12 +15,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Seriously?! | 0.40% | ~1,992 |
 | Cold War | 0.30% | ~1,494 |
 | For the Glory | 0.30% | ~1,494 |
+| It's all about the money | 0.30% | ~1,494 |
 | True Catholic | 0.30% | ~1,494 |
 | Blockader | 0.20% | ~996 |
 | Defender of the Faith | 0.20% | ~996 |
 | Double the Love | 0.20% | ~996 |
 | It's all about luck | 0.20% | ~996 |
-| It's all about the money | 0.20% | ~996 |
 | Respected | 0.20% | ~996 |
 | Royal Authority | 0.20% | ~996 |
 | The Princess is in this Castle | 0.20% | ~996 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 498,008 (Ranked 42)  
+Progressed: 498,056 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -638,16 +638,16 @@ Completed: 1 (0.00%) (Ranked 399)
 | 2024-01-10 | 496,402 | 1 |
 | 2024-01-11 | 496,921 | 1 |
 | 2024-01-12 | 497,567 | 1 |
-| 2024-01-13 | 498,008 | 1 |
+| 2024-01-13 | 498,056 | 1 |
 ## Awards
 Max (Educational): 7,824  (Ranked 52)  
-Sum: 64,494 (Ranked 24)  
+Sum: 64,511 (Ranked 24)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,824 |
 | This game has Diverse Characters | 7,673 |
-| This game is Highly Recommended | 7,491 |
+| This game is Highly Recommended | 7,508 |
 | This game has Challenging Combat | 7,454 |
 | This game is Extremely Fun | 7,321 |
 | This game is Relaxing | 7,172 |
@@ -1019,4 +1019,4 @@ Diff (max vs sum): 28
 | 2024-01-10 | 4.69 | - | 7,790 | 64,245 |
 | 2024-01-11 | 4.69 | - | 7,804 | 64,342 |
 | 2024-01-12 | 4.69 | - | 7,824 | 64,437 |
-| 2024-01-13 | 4.69 | - | 7,824 | 64,494 |
+| 2024-01-13 | 4.69 | - | 7,824 | 64,511 |

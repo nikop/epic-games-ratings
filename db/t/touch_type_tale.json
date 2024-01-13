@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4029,
+  "EOS_Progressed": 4030,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5647,6 +5647,11 @@
       "Time": "2024-01-13T13:08:41.6586169+00:00",
       "NumProgressed": 4029,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-13T16:06:55.5842894+00:00",
+      "NumProgressed": 4030,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5658,7 +5663,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "bonus2",
@@ -5706,7 +5711,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3505
+      "UsersEstimate": 3506
     },
     {
       "ID": "campaign10",
@@ -5786,7 +5791,7 @@
       "Name": "An Ally in Need",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "campaign2",
@@ -5802,7 +5807,7 @@
       "Name": "For the Queen",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "campaign3",
@@ -5810,7 +5815,7 @@
       "Name": "Economics 101",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 2377
+      "UsersEstimate": 2378
     },
     {
       "ID": "campaign4",
@@ -5842,7 +5847,7 @@
       "Name": "Maestro",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1008
     },
     {
       "ID": "campaign8",
@@ -5858,7 +5863,7 @@
       "Name": "Boulder Clash",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "scenario1",
@@ -5882,7 +5887,7 @@
       "Name": "Not a Drop Wasted",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "scenario4",
@@ -5921,7 +5926,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 4029,
+      "Progressed": 4030,
       "Completed": 11
     }
   ],
@@ -5929,8 +5934,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2024-01-05T08:58:52.7711213+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:05:40.5254376+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:06:55.584289+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:04.3464482+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:58:47.6440223+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:05:40.5254892+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:59:52.8578126+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:06:55.5843455+00:00"
 }

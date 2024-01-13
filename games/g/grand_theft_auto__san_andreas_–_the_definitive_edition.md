@@ -5,16 +5,16 @@ Rating: 4.55 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,780 |
-| Pay 'n' Spray | 50.00% | ~9,741 |
-| All Dressed Up for San Fierro | 25.00% | ~4,870 |
+| Getting Started | 81.00% | ~15,783 |
+| Pay 'n' Spray | 50.00% | ~9,742 |
+| All Dressed Up for San Fierro | 25.00% | ~4,871 |
 | The American Dream | 19.00% | ~3,702 |
 | School's Out | 18.00% | ~3,507 |
 | Smooth Moves | 17.00% | ~3,312 |
-| Today Was a Good Day | 15.00% | ~2,922 |
-| What happens in Las Venturas... | 14.00% | ~2,727 |
+| Today Was a Good Day | 15.00% | ~2,923 |
+| What happens in Las Venturas... | 14.00% | ~2,728 |
 | Horror of the Santa Maria | 10.00% | ~1,948 |
-| Liberty City State of Mind | 9.00% | ~1,753 |
+| Liberty City State of Mind | 9.00% | ~1,754 |
 | Original Gangster | 8.00% | ~1,559 |
 | With Extra Dip | 7.00% | ~1,364 |
 | The End of the Line | 7.00% | ~1,364 |
@@ -22,8 +22,8 @@ Rating: 4.55 (Ranked 529)
 | They Can’t Stop All of Us | 5.00% | ~974 |
 | Rescue a Kitten Too? | 5.00% | ~974 |
 | What are the Odds | 4.00% | ~779 |
-| Bike or Biker | 3.00% | ~584 |
-| What the City Needs | 3.00% | ~584 |
+| Bike or Biker | 3.00% | ~585 |
+| What the City Needs | 3.00% | ~585 |
 | A Legitimate Business | 2.00% | ~390 |
 | I’ll Have Two Number 9s | 2.00% | ~390 |
 | Who Needs Directions? | 2.00% | ~390 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 529)
 | ...Here we go again | 0.50% | ~97 |
 | I Ain't No Buster | 0.40% | ~78 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,482 (Ranked 157)  
+Progressed: 19,485 (Ranked 157)  
 Completed: 77 (0.40%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,19 +309,19 @@ Completed: 77 (0.40%) (Ranked 241)
 | 2024-01-10 | 19,333 | 75 |
 | 2024-01-11 | 19,399 | 75 |
 | 2024-01-12 | 19,441 | 77 |
-| 2024-01-13 | 19,482 | 77 |
+| 2024-01-13 | 19,485 | 77 |
 ## Awards
 Max (Great Boss Battles): 659  (Ranked 201)  
-Sum: 1,056 (Ranked 271)  
+Sum: 1,060 (Ranked 271)  
 Diff (max vs sum): -70  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 659 |
 | This game has Amazing Characters | 58 |
+| This game is Highly Recommended | 56 |
 | This game is Relaxing | 55 |
 | This game has Amazing Storytelling | 55 |
 | This game is Great for Beginners | 53 |
-| This game is Highly Recommended | 52 |
 | This game has Diverse Characters | 45 |
 | This game has Quickly Understood Controls | 40 |
 | This game is Extremely Fun | 39 |
@@ -558,4 +558,4 @@ Diff (max vs sum): -70
 | 2024-01-10 | 4.55 | 647 | 1,034 |
 | 2024-01-11 | 4.55 | 652 | 1,041 |
 | 2024-01-12 | 4.55 | 652 | 1,048 |
-| 2024-01-13 | 4.55 | 659 | 1,056 |
+| 2024-01-13 | 4.55 | 659 | 1,060 |

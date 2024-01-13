@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1529,
+  "EOS_Progressed": 1530,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.42,
   "EosHistory": [
@@ -5291,6 +5291,11 @@
       "Time": "2024-01-13T13:07:20.9436638+00:00",
       "NumProgressed": 1529,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-13T16:05:09.8087191+00:00",
+      "NumProgressed": 1530,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5311,7 +5316,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "_03_FinishAct1",
@@ -5319,7 +5324,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -5359,7 +5364,7 @@
       "Name": "Swabbie",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "_09_Completion_20",
@@ -5431,7 +5436,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -5487,7 +5492,7 @@
       "Name": "Jaded Judge",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -5510,7 +5515,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1529,
+      "Progressed": 1530,
       "Completed": 37
     }
   ],
@@ -5518,8 +5523,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-09T20:59:58.0673284+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:04:25.2537677+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:05:09.8087186+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.9098347+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:57:43.718545+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:04:25.2538054+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:58:13.6353248+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:05:09.8087581+00:00"
 }

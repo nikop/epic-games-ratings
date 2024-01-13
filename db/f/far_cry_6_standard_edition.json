@@ -2,13 +2,13 @@
   "ID": "b4565296c22549e4830c13bc7506642d",
   "Name": "Far Cry 6 Standard Edition",
   "ProductSlug": "far-cry-6",
-  "Ranking_Rating": 677,
+  "Ranking_Rating": 678,
   "Ranking_Popularity": 161,
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 579,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 578,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-11-29T15:00:00+00:00",
     "PcReleaseDate": "2021-10-07T04:00:00+00:00",
@@ -9827,10 +9827,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 7949,
       "NumberOfAwardsMax": 1043
+    },
+    {
+      "Time": "2024-01-13T15:59:54.937578+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 7954,
+      "NumberOfAwardsMax": 1043
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7949,
+  "NumberOfAwards": 7954,
   "NumberOfAwardsMax": 1043,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9844,7 +9850,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 970
+      "Count": 973
     },
     {
       "Text": "This game is Great for Beginners",
@@ -9856,7 +9862,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1009
+      "Count": 1011
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9900,8 +9906,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2024-01-13T11:59:47.5189235+00:00",
+  "LastChanged": "2024-01-13T15:59:54.9375763+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:05.6509685+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:58:49.6494174+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:05:07.0651785+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:59:54.9375784+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:06:09.6889362+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 954,
+  "EOS_Progressed": 955,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 1,
@@ -3335,6 +3335,11 @@
       "Time": "2024-01-13T13:11:48.6001488+00:00",
       "NumProgressed": 954,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-13T16:09:09.2289656+00:00",
+      "NumProgressed": 955,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3363,7 +3368,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ACH_eou3",
@@ -3371,7 +3376,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_eou4",
@@ -3379,7 +3384,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_eou5",
@@ -3450,14 +3455,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 954,
+      "Progressed": 955,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:08:56.7891664+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:09:09.2289649+00:00",
   "LastUpdate_AppInfo": "2024-01-12T07:57:02.9580247+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:57:21.7136146+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:08:56.7892079+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:57:39.1497302+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:09:09.2289938+00:00"
 }

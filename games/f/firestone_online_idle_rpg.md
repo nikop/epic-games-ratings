@@ -5,18 +5,18 @@ Rating: 4.11 (Ranked 1,022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,151 |
-| World Map | 78.00% | ~3,481 |
-| Temple of Eternals | 56.00% | ~2,499 |
+| Victor | 93.00% | ~4,152 |
+| World Map | 78.00% | ~3,482 |
+| Temple of Eternals | 56.00% | ~2,500 |
 | Prestigious | 52.00% | ~2,321 |
 | Fellowship Power | 41.00% | ~1,830 |
-| Full Party | 29.00% | ~1,294 |
+| Full Party | 29.00% | ~1,295 |
 | Guild Power | 22.00% | ~982 |
 | Prestigious x10 | 20.00% | ~893 |
-| The game is on | 18.00% | ~803 |
+| The game is on | 18.00% | ~804 |
 | Exotic Merchant | 16.00% | ~714 |
-| Dragon Clicker | 15.00% | ~669 |
-| Miner Clicker | 15.00% | ~669 |
+| Dragon Clicker | 15.00% | ~670 |
+| Miner Clicker | 15.00% | ~670 |
 | Inspection | 14.00% | ~625 |
 | Dragon Master | 13.00% | ~580 |
 | Enlightenment | 13.00% | ~580 |
@@ -81,7 +81,7 @@ Rating: 4.11 (Ranked 1,022)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,463 (Ranked 208)  
+Progressed: 4,464 (Ranked 208)  
 Completed: 2 (0.04%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,14 +344,14 @@ Completed: 2 (0.04%) (Ranked 351)
 | 2024-01-10 | 4,381 | 2 |
 | 2024-01-11 | 4,414 | 2 |
 | 2024-01-12 | 4,441 | 2 |
-| 2024-01-13 | 4,463 | 2 |
+| 2024-01-13 | 4,464 | 2 |
 ## Awards
-Max (Great for Beginners): 40  (Ranked 486)  
-Sum: 158 (Ranked 440)  
-Diff (max vs sum): 46  
+Max (Great for Beginners): 42  (Ranked 480)  
+Sum: 160 (Ranked 440)  
+Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 40 |
+| This game is Great for Beginners | 42 |
 | This game is Great for Quick Sessions | 36 |
 | This game has Diverse Characters | 31 |
 | This game has Playful Visuals | 28 |
@@ -454,3 +454,4 @@ Diff (max vs sum): 46
 | 2024-01-10 | 4.09 | 40 | 157 |
 | 2024-01-11 | 4.10 | 40 | 157 |
 | 2024-01-12 | 4.11 | 40 | 158 |
+| 2024-01-13 | 4.11 | 42 | 160 |

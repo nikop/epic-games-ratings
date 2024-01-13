@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -109,9 +109,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1665,
+  "EOS_Progressed": 1666,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4394,6 +4394,11 @@
       "Time": "2024-01-13T15:09:41.1668535+00:00",
       "NumProgressed": 1665,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T16:10:11.3716762+00:00",
+      "NumProgressed": 1666,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4404,9 +4409,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 932
+      "UsersEstimate": 950
     },
     {
       "ID": "AchvAllMemories",
@@ -4414,7 +4419,7 @@
       "Name": "I remember everything!",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "AchvAssertive",
@@ -4422,7 +4427,7 @@
       "Name": "On her own",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "AchvBattleScore",
@@ -4430,7 +4435,7 @@
       "Name": "Fierce fight",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "AchvBombStop",
@@ -4446,7 +4451,7 @@
       "Name": "Violent solution",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "AchvConvoyList",
@@ -4590,7 +4595,7 @@
       "Name": "The City",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "AchvReachCondor",
@@ -4637,7 +4642,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1665,
+      "Progressed": 1666,
       "Completed": 1
     }
   ],
@@ -4645,8 +4650,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-12T16:59:53.3564711+00:00",
-  "LastChanged_Achievements": "2024-01-13T15:09:41.1668531+00:00",
+  "LastChanged_Achievements": "2024-01-13T16:10:11.3716759+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:59:33.8635454+00:00",
-  "LastUpdate_Achievements": "2024-01-13T15:09:41.1668902+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:00:59.3663852+00:00",
+  "LastUpdate_Achievements": "2024-01-13T16:10:11.3717152+00:00"
 }

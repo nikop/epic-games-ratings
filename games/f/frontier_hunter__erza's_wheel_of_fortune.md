@@ -43,10 +43,10 @@ Rating: 4.38 (Ranked 797)
 | Flying Kobold Challenge | 3.00% | ~22 |
 | Furious Scorpion Challenge | 3.00% | ~22 |
 | Giant Lizard Challenge | 3.00% | ~22 |
+| Mermaid Challenge | 3.00% | ~22 |
 | Rebellious | 2.00% | ~15 |
 | Big Face Goalkeeper Challenge | 2.00% | ~15 |
 | Giant Claw Spider Challenge | 2.00% | ~15 |
-| Mermaid Challenge | 2.00% | ~15 |
 | Berserker Challenge | 2.00% | ~15 |
 | Giantess Challenge | 2.00% | ~15 |
 | Warden Challenge | 2.00% | ~15 |
