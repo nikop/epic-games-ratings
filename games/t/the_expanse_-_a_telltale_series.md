@@ -10,21 +10,21 @@ Rating: 4.53 (Ranked 566)
 | Martian Music | 14.00% | ~2,655 |
 | Celebrations are in Order | 14.00% | ~2,655 |
 | Impossible Objects | 14.00% | ~2,655 |
-| The Pit and the Pirates | 13.00% | ~2,465 |
-| Drone Dodger | 13.00% | ~2,465 |
-| Bosmang | 13.00% | ~2,465 |
+| The Pit and the Pirates | 13.00% | ~2,466 |
+| Drone Dodger | 13.00% | ~2,466 |
+| Bosmang | 13.00% | ~2,466 |
 | Spore Taste | 12.00% | ~2,276 |
 | Stogie for Fogey | 11.00% | ~2,086 |
-| Call it Even | 10.00% | ~1,896 |
+| Call it Even | 10.00% | ~1,897 |
 | Safe Cracker | 10.00% | ~492 |
 | Zen Master | 10.00% | ~492 |
 | Heal Thy Medic | 9.00% | ~1,707 |
 | Madame Undersecretary | 9.00% | ~443 |
 | Data Archivist | 8.00% | ~1,517 |
-| Keep Arjun in Check | 8.00% | ~393 |
-| Drug Gifter | 7.00% | ~1,327 |
-| Thorston Mayer | 7.00% | ~1,327 |
-| Khan's Revenge | 7.00% | ~1,327 |
+| Keep Arjun in Check | 8.00% | ~394 |
+| Drug Gifter | 7.00% | ~1,328 |
+| Thorston Mayer | 7.00% | ~1,328 |
+| Khan's Revenge | 7.00% | ~1,328 |
 | Doctor Approved | 6.00% | ~1,138 |
 | Bottoms up! | 6.00% | ~1,138 |
 | Master Negotiator | 6.00% | ~295 |
@@ -41,8 +41,8 @@ Rating: 4.53 (Ranked 566)
 | Scavenger Star | 0.30% | ~57 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,964 (Ranked 159)  
-Completed: 64 (0.34%) (Ranked 252)  
+Progressed: 18,966 (Ranked 159)  
+Completed: 64 (0.34%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -216,7 +216,7 @@ Completed: 64 (0.34%) (Ranked 252)
 | 2024-01-10 | 18,829 | 62 |
 | 2024-01-11 | 18,866 | 63 |
 | 2024-01-12 | 18,914 | 64 |
-| 2024-01-13 | 18,964 | 64 |
+| 2024-01-13 | 18,966 | 64 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

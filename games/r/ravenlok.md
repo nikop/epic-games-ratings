@@ -26,10 +26,10 @@
 | Nightmare Fuel | 40.00% | ~474 |
 | Take Heart | 40.00% | ~474 |
 | Well Rested | 40.00% | ~474 |
+| All That Glistens | 39.00% | ~463 |
 | Stronger! | 39.00% | ~463 |
 | Ancient Wisdom | 38.00% | ~451 |
 | Frog Facts! | 38.00% | ~451 |
-| All That Glistens | 38.00% | ~451 |
 | Spellbound | 37.00% | ~439 |
 | All Skilled Up! | 37.00% | ~439 |
 | It's Pointy! | 37.00% | ~439 |

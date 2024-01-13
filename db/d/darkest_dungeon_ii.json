@@ -10824,7 +10824,7 @@
       "Count": 1094
     }
   ],
-  "EOS_Progressed": 132695,
+  "EOS_Progressed": 132701,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 756,
   "EOS_NewCompleters": 1,
@@ -39714,6 +39714,11 @@
       "Time": "2024-01-13T20:09:52.30372+00:00",
       "NumProgressed": 132695,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-13T21:09:56.7404417+00:00",
+      "NumProgressed": 132701,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -40165,7 +40170,7 @@
       "Name": "Eidetic",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "run_end_abandon",
@@ -40261,7 +40266,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "combat_kill_collector",
@@ -40269,7 +40274,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -40356,21 +40361,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132695,
+      "Progressed": 132701,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7564,
+      "Progressed": 7570,
       "Completed": 825
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-13T17:57:49.8193858+00:00",
-  "LastChanged_Achievements": "2024-01-13T20:09:52.3037195+00:00",
+  "LastChanged_Achievements": "2024-01-13T21:09:56.7404414+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-13T19:57:39.8132412+00:00",
-  "LastUpdate_Achievements": "2024-01-13T20:09:52.3038947+00:00"
+  "LastUpdate_Ratings": "2024-01-13T20:57:19.1579013+00:00",
+  "LastUpdate_Achievements": "2024-01-13T21:09:56.7406046+00:00"
 }

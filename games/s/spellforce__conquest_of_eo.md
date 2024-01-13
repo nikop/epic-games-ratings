@@ -7,9 +7,9 @@
 | Home Sweet Home | 88.00% | ~127 |
 | Enough rooms to swing a cat | 77.00% | ~111 |
 | First to the post | 77.00% | ~111 |
-| A kind of Magic | 67.00% | ~96 |
+| A kind of Magic | 68.00% | ~98 |
 | Connected | 57.00% | ~82 |
-| Expansion | 55.00% | ~79 |
+| Expansion | 56.00% | ~81 |
 | Mine! | 53.00% | ~76 |
 | Harvest Time | 52.00% | ~75 |
 | Artificer's Apprentice | 42.00% | ~60 |

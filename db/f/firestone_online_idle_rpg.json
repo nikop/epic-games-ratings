@@ -5,9 +5,9 @@
   "Ranking_Rating": 1022,
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 440,
-  "Ranking_EOS_Progress": 208,
+  "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -781,7 +781,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4469,
+  "EOS_Progressed": 4471,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
@@ -12546,6 +12546,11 @@
       "Time": "2024-01-13T20:04:37.9952779+00:00",
       "NumProgressed": 4469,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-13T21:04:15.1195901+00:00",
+      "NumProgressed": 4471,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -12571,9 +12576,9 @@
       "ID": "angelpower",
       "SetID": "3nl4bcg",
       "Name": "Angel Power",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 36
     },
     {
       "ID": "arenachallenger",
@@ -12605,7 +12610,7 @@
       "Name": "Blueprint Upgrades",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "cauldronliberator",
@@ -12637,7 +12642,7 @@
       "Name": "Crystal Mining",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "dailyquestcompletionist",
@@ -12661,7 +12666,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "dragonmaster",
@@ -12709,7 +12714,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "enhancedwarmachines",
@@ -12741,7 +12746,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1832
+      "UsersEstimate": 1833
     },
     {
       "ID": "fourleafclover",
@@ -12765,7 +12770,7 @@
       "Name": "Full Party",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "gearenchanting",
@@ -12789,7 +12794,7 @@
       "Name": "Guild Power",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "herewegoagain",
@@ -12813,7 +12818,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "hunter",
@@ -12853,7 +12858,7 @@
       "Name": "Lieutenant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "lockandload",
@@ -12861,7 +12866,7 @@
       "Name": "Lock And Load",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "masterenchanter",
@@ -12893,7 +12898,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "missionsdedication",
@@ -12901,7 +12906,7 @@
       "Name": "Missions Dedication",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "movinguptheladder",
@@ -12949,7 +12954,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2324
+      "UsersEstimate": 2325
     },
     {
       "ID": "prestigiousx10",
@@ -12973,7 +12978,7 @@
       "Name": "Sailor",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "scientist",
@@ -13013,7 +13018,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2503
+      "UsersEstimate": 2504
     },
     {
       "ID": "thealchemist",
@@ -13045,7 +13050,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "thepowerofawakening",
@@ -13117,7 +13122,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4156
+      "UsersEstimate": 4158
     },
     {
       "ID": "warmachinesarmy",
@@ -13149,14 +13154,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3486
+      "UsersEstimate": 3487
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4469,
+      "Progressed": 4471,
       "Completed": 2
     }
   ],
@@ -13164,8 +13169,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-13T18:00:48.4471764+00:00",
-  "LastChanged_Achievements": "2024-01-13T20:04:37.9952775+00:00",
+  "LastChanged_Achievements": "2024-01-13T21:04:15.1195897+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:00.5947712+00:00",
-  "LastUpdate_Ratings": "2024-01-13T19:59:33.2457101+00:00",
-  "LastUpdate_Achievements": "2024-01-13T20:04:37.9953982+00:00"
+  "LastUpdate_Ratings": "2024-01-13T20:59:16.6553106+00:00",
+  "LastUpdate_Achievements": "2024-01-13T21:04:15.1196896+00:00"
 }

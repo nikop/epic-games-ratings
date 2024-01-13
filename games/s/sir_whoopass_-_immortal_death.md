@@ -27,8 +27,8 @@
 | Honk honk! | 50.00% | ~76 |
 | Thats disgusting! | 50.00% | ~76 |
 | My pants squeak when I walk | 46.00% | ~70 |
+| Surprise!! | 45.00% | ~69 |
 | Self assessed tax return | 44.00% | ~67 |
-| Surprise!! | 44.00% | ~67 |
 | Haemochromatosis | 42.00% | ~64 |
 | Make America Grate Again | 41.00% | ~63 |
 | You can't stop me, bro! | 38.00% | ~58 |

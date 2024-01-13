@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1333,
+  "EOS_Progressed": 1334,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4799,6 +4799,11 @@
       "Time": "2024-01-13T13:13:05.5554508+00:00",
       "NumProgressed": 1333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T21:10:10.2064621+00:00",
+      "NumProgressed": 1334,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -5056,9 +5061,9 @@
       "ID": "glitter_of_gold_2",
       "SetID": "53c1p3k",
       "Name": "Glitter of Gold 2",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 13
     },
     {
       "ID": "glitter_of_gold_3",
@@ -5104,9 +5109,9 @@
       "ID": "invincible_2",
       "SetID": "53c1p3k",
       "Name": "Invincible 2",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "invincible_3",
@@ -5256,9 +5261,9 @@
       "ID": "soul_shards_3",
       "SetID": "53c1p3k",
       "Name": "Soul Shards 3",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "stronghold_1",
@@ -5328,23 +5333,23 @@
       "ID": "tomb_raider_3",
       "SetID": "53c1p3k",
       "Name": "Tomb Raider 3",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1333,
+      "Progressed": 1334,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-13T20:10:05.3770012+00:00",
+  "LastChanged_Achievements": "2024-01-13T21:10:10.2064617+00:00",
   "LastUpdate_AppInfo": "2024-01-09T19:56:59.3851219+00:00",
-  "LastUpdate_Ratings": "2024-01-13T19:59:39.8281985+00:00",
-  "LastUpdate_Achievements": "2024-01-13T20:10:05.3770633+00:00"
+  "LastUpdate_Ratings": "2024-01-13T20:59:24.0790913+00:00",
+  "LastUpdate_Achievements": "2024-01-13T21:10:10.2065431+00:00"
 }

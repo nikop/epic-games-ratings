@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2113,
+  "EOS_Progressed": 2114,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.69,
   "EosHistory": [
@@ -5024,6 +5024,11 @@
       "Time": "2024-01-13T13:12:50.8308438+00:00",
       "NumProgressed": 2113,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2024-01-13T21:09:56.1670177+00:00",
+      "NumProgressed": 2114,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 16,
@@ -5067,7 +5072,7 @@
       "Name": "Goodbye Tieng Valley",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_GRAFFITIARTIST",
@@ -5083,15 +5088,15 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "ACH_HOMELEAVER",
       "SetID": "7pam6gn",
       "Name": "Home Leaver",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 40,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1649
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -5099,7 +5104,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -5115,7 +5120,7 @@
       "Name": "Music for Cows",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ACH_OUTSIDEWORLDSEER",
@@ -5131,7 +5136,7 @@
       "Name": "Shrine Arriver",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_STRANGERENCOUNTERER",
@@ -5147,7 +5152,7 @@
       "Name": "The End",
       "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_TOURDETIENG",
@@ -5162,7 +5167,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 2113,
+      "Progressed": 2114,
       "Completed": 78
     }
   ],
@@ -5170,8 +5175,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-13T20:09:51.8340161+00:00",
+  "LastChanged_Achievements": "2024-01-13T21:09:56.1670173+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:30.8878388+00:00",
-  "LastUpdate_Ratings": "2024-01-13T19:58:52.1685887+00:00",
-  "LastUpdate_Achievements": "2024-01-13T20:09:51.8340714+00:00"
+  "LastUpdate_Ratings": "2024-01-13T20:58:33.8628699+00:00",
+  "LastUpdate_Achievements": "2024-01-13T21:09:56.167053+00:00"
 }

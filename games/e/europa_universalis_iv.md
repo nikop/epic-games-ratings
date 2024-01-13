@@ -6,8 +6,8 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 0.60% | ~2,989 |
-| Until death do us apart | 0.60% | ~2,989 |
+| That's a Grand Army | 0.60% | ~2,990 |
+| Until death do us apart | 0.60% | ~2,990 |
 | That is mine! | 0.50% | ~2,491 |
 | Victorious! | 0.50% | ~2,491 |
 | Brothers in Arms | 0.40% | ~1,993 |
@@ -17,15 +17,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | For the Glory | 0.30% | ~1,495 |
 | It's all about the money | 0.30% | ~1,495 |
 | True Catholic | 0.30% | ~1,495 |
-| Blockader | 0.20% | ~996 |
-| Defender of the Faith | 0.20% | ~996 |
-| Double the Love | 0.20% | ~996 |
-| It's all about luck | 0.20% | ~996 |
-| Respected | 0.20% | ~996 |
-| Royal Authority | 0.20% | ~996 |
-| The Princess is in this Castle | 0.20% | ~996 |
-| Total Control | 0.20% | ~996 |
-| Truly Divine Ruler | 0.20% | ~996 |
+| Blockader | 0.20% | ~997 |
+| Defender of the Faith | 0.20% | ~997 |
+| Double the Love | 0.20% | ~997 |
+| It's all about luck | 0.20% | ~997 |
+| Respected | 0.20% | ~997 |
+| Royal Authority | 0.20% | ~997 |
+| The Princess is in this Castle | 0.20% | ~997 |
+| Total Control | 0.20% | ~997 |
+| Truly Divine Ruler | 0.20% | ~997 |
 | The 52 Garhs | 0.10% | ~498 |
 | I don't like sand | 0.10% | ~498 |
 | A Blessed Nation | 0.10% | ~498 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 498,239 (Ranked 42)  
+Progressed: 498,298 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -638,7 +638,7 @@ Completed: 1 (0.00%) (Ranked 400)
 | 2024-01-10 | 496,402 | 1 |
 | 2024-01-11 | 496,921 | 1 |
 | 2024-01-12 | 497,567 | 1 |
-| 2024-01-13 | 498,239 | 1 |
+| 2024-01-13 | 498,298 | 1 |
 ## Awards
 Max (Educational): 7,824  (Ranked 52)  
 Sum: 64,511 (Ranked 24)  

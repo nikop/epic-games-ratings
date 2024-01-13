@@ -6,8 +6,8 @@
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 238,
-  "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_Completed": 224,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -300,9 +300,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2583,
+  "EOS_Progressed": 2585,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -4730,6 +4730,11 @@
       "Time": "2024-01-13T13:09:11.873538+00:00",
       "NumProgressed": 2583,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-13T21:06:04.2696059+00:00",
+      "NumProgressed": 2585,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4749,7 +4754,7 @@
       "Name": "Jailbreak",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "ACHV_03",
@@ -4765,7 +4770,7 @@
       "Name": "Overheated",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "ACHV_05",
@@ -4781,7 +4786,7 @@
       "Name": "Home Invasion",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "ACHV_07",
@@ -4821,15 +4826,15 @@
       "Name": "Denying Prophecy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACHV_12",
       "SetID": "8p5mlmc",
       "Name": "Reverse Engineering",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHV_13",
@@ -4877,7 +4882,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "ACHV_19",
@@ -4925,7 +4930,7 @@
       "Name": "Gotta Craft \u0027em All",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHV_25",
@@ -4941,7 +4946,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "ACHV_27",
@@ -4949,7 +4954,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "ACHV_28",
@@ -4973,7 +4978,7 @@
       "Name": "Powered Up",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "ACHV_31",
@@ -5003,9 +5008,9 @@
       "ID": "ACHV_34",
       "SetID": "8p5mlmc",
       "Name": "Shocking",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 517
+      "UsersEstimate": 491
     },
     {
       "ID": "ACHV_35",
@@ -5013,7 +5018,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ACHV_36",
@@ -5021,7 +5026,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACHV_37",
@@ -5029,7 +5034,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "ACHV_38",
@@ -5045,7 +5050,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1939
     },
     {
       "ID": "ACHV_40",
@@ -5093,7 +5098,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "ACHV_46",
@@ -5196,7 +5201,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2583,
+      "Progressed": 2585,
       "Completed": 13
     }
   ],
@@ -5204,8 +5209,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-07T10:02:57.9512677+00:00",
-  "LastChanged_Achievements": "2024-01-13T20:06:23.4307632+00:00",
+  "LastChanged_Achievements": "2024-01-13T21:06:04.2696055+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.3713337+00:00",
-  "LastUpdate_Ratings": "2024-01-13T20:03:12.5283623+00:00",
-  "LastUpdate_Achievements": "2024-01-13T20:06:23.4308407+00:00"
+  "LastUpdate_Ratings": "2024-01-13T21:02:45.8488479+00:00",
+  "LastUpdate_Achievements": "2024-01-13T21:06:04.2696642+00:00"
 }

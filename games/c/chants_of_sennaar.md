@@ -5,7 +5,7 @@ Rating: 4.85 (Ranked 40)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 60.00% | ~1,642 |
+| That's the spirit | 61.00% | ~1,669 |
 | Welcome to the Tower | 54.00% | ~1,477 |
 | The great escape | 46.00% | ~1,259 |
 | The Preacher's fate | 44.00% | ~1,204 |

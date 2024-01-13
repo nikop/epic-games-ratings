@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1171,
+  "EOS_Progressed": 1172,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4062,6 +4062,11 @@
       "Time": "2024-01-13T20:09:21.3255116+00:00",
       "NumProgressed": 1171,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T21:09:24.1886956+00:00",
+      "NumProgressed": 1172,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4080,9 +4085,9 @@
       "ID": "ArleonCampaign",
       "SetID": "71c0n9i",
       "Name": "The Song of Stoutheart",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 70
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -4178,7 +4183,7 @@
       "Name": "Critical Hit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "Deepstrike",
@@ -4218,7 +4223,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4410,7 +4415,7 @@
       "Name": "Veteran",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "WielderLevel3",
@@ -4505,15 +4510,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1171,
+      "Progressed": 1172,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-13T20:09:21.3255113+00:00",
+  "LastChanged_Achievements": "2024-01-13T21:09:24.1886952+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-13T19:59:31.8159672+00:00",
-  "LastUpdate_Achievements": "2024-01-13T20:09:21.3255773+00:00"
+  "LastUpdate_Ratings": "2024-01-13T20:59:14.8977683+00:00",
+  "LastUpdate_Achievements": "2024-01-13T21:09:24.1887448+00:00"
 }

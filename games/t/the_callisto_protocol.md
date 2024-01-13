@@ -5,22 +5,22 @@ Rating: 4.22 (Ranked 954)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Outer Way | 27.00% | ~6,021 |
-| Flesh Wound | 26.00% | ~5,798 |
-| Desperate Times | 25.00% | ~5,575 |
-| Paper Jams | 23.00% | ~5,129 |
-| Get a Grip | 22.00% | ~4,906 |
-| Chew 'Em Up | 21.00% | ~4,683 |
-| Reforged | 19.00% | ~4,237 |
-| Float Like A Butterfly | 18.00% | ~4,014 |
-| Workplace Hazard | 17.00% | ~3,791 |
-| If the SHU Fits... | 17.00% | ~3,791 |
-| Without A Paddle | 15.00% | ~3,345 |
-| In the Pipe, Five by Five | 13.00% | ~2,899 |
-| Crash Site | 13.00% | ~2,899 |
-| Two Heads Are Better Than One | 12.00% | ~2,676 |
-| Power Up | 12.00% | ~2,676 |
-| Terminated | 11.00% | ~2,453 |
+| The Outer Way | 27.00% | ~6,022 |
+| Flesh Wound | 26.00% | ~5,799 |
+| Desperate Times | 25.00% | ~5,576 |
+| Paper Jams | 23.00% | ~5,130 |
+| Get a Grip | 22.00% | ~4,907 |
+| Chew 'Em Up | 21.00% | ~4,684 |
+| Reforged | 19.00% | ~4,238 |
+| Float Like A Butterfly | 18.00% | ~4,015 |
+| Workplace Hazard | 17.00% | ~3,792 |
+| If the SHU Fits... | 17.00% | ~3,792 |
+| Without A Paddle | 15.00% | ~3,346 |
+| In the Pipe, Five by Five | 13.00% | ~2,900 |
+| Crash Site | 13.00% | ~2,900 |
+| Two Heads Are Better Than One | 12.00% | ~2,677 |
+| Power Up | 12.00% | ~2,677 |
+| Terminated | 11.00% | ~2,454 |
 | Giving Back | 10.00% | ~2,230 |
 | What Lies Beneath | 10.00% | ~2,230 |
 | Full Circle | 10.00% | ~2,230 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 954)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,301 (Ranked 151)  
+Progressed: 22,305 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 82 (0.37%) (Ranked 246)
 | 2024-01-10 | 22,053 | 82 |
 | 2024-01-11 | 22,169 | 82 |
 | 2024-01-12 | 22,235 | 82 |
-| 2024-01-13 | 22,301 | 82 |
+| 2024-01-13 | 22,305 | 82 |
 ## Awards
 Max (Amazing Characters): 134  (Ranked 343)  
 Sum: 646 (Ranked 320)  

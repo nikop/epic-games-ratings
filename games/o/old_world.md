@@ -6,14 +6,14 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Explorer | 4.00% | ~668 |
 | Settler | 4.00% | ~668 |
 | Play a Single Player Game | 4.00% | ~668 |
+| Able | 3.00% | ~501 |
 | Architect | 3.00% | ~501 |
-| Explorer | 3.00% | ~501 |
 | Intrepid | 3.00% | ~501 |
 | Friendly Family | 3.00% | ~501 |
 | Hanging Gardens | 3.00% | ~501 |
-| Able | 2.00% | ~334 |
 | Ambitious | 2.00% | ~334 |
 | Enlightened | 2.00% | ~334 |
 | Fountainhead | 2.00% | ~334 |
@@ -50,6 +50,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 1.00% | ~167 |
 | Great | 1.00% | ~167 |
 | Intercessor | 1.00% | ~167 |
+| Valiant | 1.00% | ~167 |
 | Wise | 1.00% | ~167 |
 | Legendary Cities | 1.00% | ~167 |
 | Able Difficulty | 1.00% | ~167 |
@@ -67,7 +68,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 1.00% | ~167 |
 | Egyptian Paganism | 1.00% | ~167 |
 | Mythology | 1.00% | ~167 |
-| Valiant | 0.90% | ~150 |
+| Champions | 0.90% | ~150 |
 | Sages | 0.90% | ~150 |
 | Learn to Play 3 | 0.90% | ~150 |
 | Persian Paganism | 0.90% | ~150 |
@@ -75,7 +76,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.80% | ~134 |
 | Mighty | 0.80% | ~134 |
 | Good Difficulty | 0.80% | ~134 |
-| Champions | 0.80% | ~134 |
 | Statesmen | 0.80% | ~134 |
 | Temple of Solomon | 0.80% | ~134 |
 | Greece | 0.80% | ~134 |
@@ -98,6 +98,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.60% | ~100 |
 | Pantheon | 0.60% | ~100 |
 | Via Recta Souk | 0.60% | ~100 |
+| Learn to Play 4 | 0.60% | ~100 |
 | Military Prestige | 0.60% | ~100 |
 | Dualism | 0.60% | ~100 |
 | Legalism | 0.60% | ~100 |
@@ -105,22 +106,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.60% | ~100 |
 | The Clergy | 0.60% | ~100 |
 | Kushite Paganism | 0.60% | ~100 |
-| Bad Heir Day | 0.50% | ~83 |
-| Capable | 0.50% | ~83 |
-| Invincible | 0.50% | ~83 |
-| Lion | 0.50% | ~83 |
-| Peacemaker | 0.50% | ~83 |
-| Strong Difficulty | 0.50% | ~83 |
-| Hunters | 0.50% | ~83 |
-| Adur Burzen-Mihr | 0.50% | ~83 |
-| Learn to Play 4 | 0.50% | ~83 |
-| Assyrian Paganism | 0.50% | ~83 |
-| Industrial Progress | 0.50% | ~83 |
-| Enlightenment | 0.50% | ~83 |
-| Redemption | 0.50% | ~83 |
-| Kushite Cavalry | 0.50% | ~83 |
-| Phalangite | 0.50% | ~83 |
-| Kushite Pyramids | 0.50% | ~83 |
+| Bad Heir Day | 0.50% | ~84 |
+| Capable | 0.50% | ~84 |
+| Invincible | 0.50% | ~84 |
+| Lion | 0.50% | ~84 |
+| Peacemaker | 0.50% | ~84 |
+| Strong Difficulty | 0.50% | ~84 |
+| Hunters | 0.50% | ~84 |
+| Adur Burzen-Mihr | 0.50% | ~84 |
+| Assyrian Paganism | 0.50% | ~84 |
+| Industrial Progress | 0.50% | ~84 |
+| Enlightenment | 0.50% | ~84 |
+| Redemption | 0.50% | ~84 |
+| Kushite Cavalry | 0.50% | ~84 |
+| Phalangite | 0.50% | ~84 |
+| Kushite Pyramids | 0.50% | ~84 |
 | Devout | 0.40% | ~67 |
 | Clerics | 0.40% | ~67 |
 | Church of the Holy Sepulchre | 0.40% | ~67 |
@@ -143,6 +143,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.30% | ~50 |
 | Old World Order | 0.30% | ~50 |
 | One True Faith | 0.30% | ~50 |
+| Ten Crowns | 0.30% | ~50 |
 | Siege Tower | 0.30% | ~50 |
 | No Undo | 0.30% | ~50 |
 | Poetic Leader | 0.30% | ~50 |
@@ -158,7 +159,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~33 |
 | Play a Network Game | 0.20% | ~33 |
 | Capturing Cities | 0.20% | ~33 |
-| Ten Crowns | 0.20% | ~33 |
 | Three Man Chariot | 0.20% | ~33 |
 | Conquest Victory | 0.20% | ~33 |
 | Beja Archer | 0.20% | ~33 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,691 (Ranked 169)  
+Progressed: 16,700 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -633,7 +633,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
-| 2024-01-13 | 16,691 | 5 |
+| 2024-01-13 | 16,700 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,927 (Ranked 223)  

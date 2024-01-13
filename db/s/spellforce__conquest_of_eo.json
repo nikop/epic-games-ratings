@@ -747,9 +747,9 @@
       "ID": "Build_First_Lodge",
       "SetID": "7b9f97e",
       "Name": "Expansion",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "Build_First_Room",
@@ -779,9 +779,9 @@
       "ID": "Cast_First_Spell",
       "SetID": "7b9f97e",
       "Name": "A kind of Magic",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "Circle_Page",
@@ -1308,8 +1308,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-13T20:09:40.8043681+00:00",
+  "LastChanged_Achievements": "2024-01-13T21:09:44.7251336+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:39.1572287+00:00",
-  "LastUpdate_Ratings": "2024-01-13T19:59:45.6543947+00:00",
-  "LastUpdate_Achievements": "2024-01-13T20:09:40.8044297+00:00"
+  "LastUpdate_Ratings": "2024-01-13T20:59:30.3174429+00:00",
+  "LastUpdate_Achievements": "2024-01-13T21:09:44.725189+00:00"
 }

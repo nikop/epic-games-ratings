@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -1011,7 +1011,7 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7548,
+  "EOS_Progressed": 7549,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -9786,6 +9786,11 @@
       "Time": "2024-01-13T17:10:22.8914936+00:00",
       "NumProgressed": 7548,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T21:10:06.9551157+00:00",
+      "NumProgressed": 7549,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9901,7 +9906,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5812
+      "UsersEstimate": 5813
     },
     {
       "ID": "First_Race_Met",
@@ -9933,7 +9938,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5736
+      "UsersEstimate": 5737
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -10013,7 +10018,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2415
+      "UsersEstimate": 2416
     },
     {
       "ID": "Play_1000_Hours",
@@ -10285,7 +10290,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4906
+      "UsersEstimate": 4907
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -10372,15 +10377,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7548,
+      "Progressed": 7549,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-12T16:57:40.5503057+00:00",
-  "LastChanged_Achievements": "2024-01-13T20:10:02.5537305+00:00",
+  "LastChanged_Achievements": "2024-01-13T21:10:06.9551154+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8294647+00:00",
-  "LastUpdate_Ratings": "2024-01-13T19:58:23.6253438+00:00",
-  "LastUpdate_Achievements": "2024-01-13T20:10:02.5538762+00:00"
+  "LastUpdate_Ratings": "2024-01-13T20:58:04.276786+00:00",
+  "LastUpdate_Achievements": "2024-01-13T21:10:06.9552082+00:00"
 }

@@ -54,17 +54,17 @@ Number of Ratings: 15,086  (23.09.2022)
 | Doing Time | 0.60% | ~1,457 |
 | Acid Bath | 0.60% | ~1,457 |
 | Expensive Look | 0.60% | ~26 |
-| Thank You, Friend | 0.50% | ~1,214 |
-| Shadow Spreads | 0.50% | ~1,214 |
-| Max Damage! | 0.50% | ~1,214 |
-| A Rough Road | 0.50% | ~1,214 |
-| Don't Ignore Me! | 0.50% | ~1,214 |
-| All Consuming | 0.50% | ~1,214 |
-| Illuminate, Eliminate | 0.50% | ~1,214 |
-| Chain Reaction | 0.50% | ~1,214 |
-| Spreading Plague | 0.50% | ~1,214 |
-| Antivenom | 0.50% | ~1,214 |
-| The Long Run | 0.50% | ~1,214 |
+| Thank You, Friend | 0.50% | ~1,215 |
+| Shadow Spreads | 0.50% | ~1,215 |
+| Max Damage! | 0.50% | ~1,215 |
+| A Rough Road | 0.50% | ~1,215 |
+| Don't Ignore Me! | 0.50% | ~1,215 |
+| All Consuming | 0.50% | ~1,215 |
+| Illuminate, Eliminate | 0.50% | ~1,215 |
+| Chain Reaction | 0.50% | ~1,215 |
+| Spreading Plague | 0.50% | ~1,215 |
+| Antivenom | 0.50% | ~1,215 |
+| The Long Run | 0.50% | ~1,215 |
 | Berzerker | 0.40% | ~972 |
 | Decisions, Decisions | 0.40% | ~972 |
 | Snake Sneak | 0.40% | ~972 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,899 (Ranked 74)  
+Progressed: 242,904 (Ranked 74)  
 Completed: 305 (0.13%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -413,7 +413,7 @@ Completed: 305 (0.13%) (Ranked 301)
 | 2024-01-10 | 242,736 | 305 |
 | 2024-01-11 | 242,789 | 305 |
 | 2024-01-12 | 242,842 | 305 |
-| 2024-01-13 | 242,899 | 305 |
+| 2024-01-13 | 242,904 | 305 |
 ## Awards
 Max (Quickly Understood Controls): 1,515  (Ranked 139)  
 Sum: 11,795 (Ranked 89)  

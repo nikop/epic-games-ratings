@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2280,9 +2280,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16691,
+  "EOS_Progressed": 16700,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 542,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19900,6 +19900,11 @@
       "Time": "2024-01-13T20:10:10.1497015+00:00",
       "NumProgressed": 16691,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T21:10:15.2771799+00:00",
+      "NumProgressed": 16700,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19967,7 +19972,7 @@
       "Name": "Bad Heir Day",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_HEIR",
@@ -20237,9 +20242,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ABLE",
       "SetID": "7l38kb8",
       "Name": "Able",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 501
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -20303,7 +20308,7 @@
       "Name": "Capable",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CONQUEROR",
@@ -20341,9 +20346,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
       "SetID": "9201eeb",
       "Name": "Explorer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 668
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -20407,7 +20412,7 @@
       "Name": "Invincible",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
@@ -20447,7 +20452,7 @@
       "Name": "Lion",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
@@ -20495,7 +20500,7 @@
       "Name": "Peacemaker",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PIONEER",
@@ -20557,9 +20562,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
       "SetID": "9201eeb",
       "Name": "Valiant",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 167
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
@@ -20703,7 +20708,7 @@
       "Name": "Strong Difficulty",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_ELEPHANTINE_ELEPHANT",
@@ -20749,9 +20754,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_CHAMPIONS",
       "SetID": "7l38kb8",
       "Name": "Champions",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 150
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CLERICS",
@@ -20767,7 +20772,7 @@
       "Name": "Hunters",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
@@ -21311,7 +21316,7 @@
       "Name": "Adur Burzen-Mihr",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE",
@@ -21453,9 +21458,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 4",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_5",
@@ -21711,7 +21716,7 @@
       "Name": "Assyrian Paganism",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
@@ -21837,9 +21842,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
       "SetID": "9201eeb",
       "Name": "Ten Crowns",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_TECH_ECONOMIC_REFORM",
@@ -21855,7 +21860,7 @@
       "Name": "Industrial Progress",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
@@ -21879,7 +21884,7 @@
       "Name": "Enlightenment",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
@@ -21911,7 +21916,7 @@
       "Name": "Redemption",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
@@ -21975,7 +21980,7 @@
       "Name": "Kushite Cavalry",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
@@ -21991,7 +21996,7 @@
       "Name": "Phalangite",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
@@ -22615,7 +22620,7 @@
       "Name": "Kushite Pyramids",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_NATION_KUSH",
@@ -22774,21 +22779,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16691,
+      "Progressed": 16700,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16691,
+      "Progressed": 16700,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-13T07:59:51.2247569+00:00",
-  "LastChanged_Achievements": "2024-01-13T20:10:10.1497012+00:00",
+  "LastChanged_Achievements": "2024-01-13T21:10:15.2771795+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-13T19:59:32.1661906+00:00",
-  "LastUpdate_Achievements": "2024-01-13T20:10:10.1507925+00:00"
+  "LastUpdate_Ratings": "2024-01-13T20:59:15.4042696+00:00",
+  "LastUpdate_Achievements": "2024-01-13T21:10:15.2781325+00:00"
 }

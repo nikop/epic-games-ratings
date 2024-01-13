@@ -339,9 +339,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 203060,
+  "EOS_Progressed": 203064,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28539,6 +28539,11 @@
       "Time": "2024-01-13T20:05:56.746554+00:00",
       "NumProgressed": 203060,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-13T21:05:35.9697501+00:00",
+      "NumProgressed": 203064,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -28558,7 +28563,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 144173
+      "UsersEstimate": 144175
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -28582,7 +28587,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 36551
+      "UsersEstimate": 36552
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -28670,14 +28675,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 8122
+      "UsersEstimate": 8123
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 203060,
+      "Progressed": 203064,
       "Completed": 4
     }
   ],
@@ -28685,8 +28690,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-12-30T17:59:44.6565075+00:00",
-  "LastChanged_Achievements": "2024-01-13T20:05:56.7465537+00:00",
+  "LastChanged_Achievements": "2024-01-13T21:05:35.9697498+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:02.6553104+00:00",
-  "LastUpdate_Ratings": "2024-01-13T19:58:58.4455698+00:00",
-  "LastUpdate_Achievements": "2024-01-13T20:05:56.7467049+00:00"
+  "LastUpdate_Ratings": "2024-01-13T20:58:40.0977745+00:00",
+  "LastUpdate_Achievements": "2024-01-13T21:05:35.9698773+00:00"
 }

@@ -6,17 +6,17 @@ Rating: 4.86 (Ranked 34)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feeling the beat! | 55.00% | ~9,374 |
-| Start with a bang! | 54.00% | ~9,203 |
-| You can pet the cat! | 49.00% | ~8,351 |
+| Start with a bang! | 54.00% | ~9,204 |
+| You can pet the cat! | 49.00% | ~8,352 |
 | Who put gears in there? | 41.00% | ~6,988 |
-| Cream of the Crop | 36.00% | ~6,135 |
+| Cream of the Crop | 36.00% | ~6,136 |
 | Thanks for the free chip, Peppermint! | 35.00% | ~5,965 |
 | You got this, Peppermint? | 30.00% | ~5,113 |
 | Perfect Parry | 28.00% | ~4,772 |
 | Alright, that felt AWESOME! | 27.00% | ~4,602 |
-| I play my own way! | 24.00% | ~4,090 |
-| This will cost you big time | 22.00% | ~3,749 |
-| Uh, they were broken when I got here | 22.00% | ~3,749 |
+| I play my own way! | 24.00% | ~4,091 |
+| This will cost you big time | 22.00% | ~3,750 |
+| Uh, they were broken when I got here | 22.00% | ~3,750 |
 | Z-shielding's got nothing on us! | 20.00% | ~3,409 |
 | Kissing the sky! | 20.00% | ~3,409 |
 | Whoa! There's ANOTHER health bar!? | 17.00% | ~2,897 |
@@ -31,7 +31,7 @@ Rating: 4.86 (Ranked 34)
 | Perfecter Parry-er! | 12.00% | ~2,045 |
 | I have to read these things? | 11.00% | ~1,875 |
 | NOW we got a kickass hideout! | 9.00% | ~1,401 |
-| There's such a thing as TOO helpful | 8.00% | ~1,363 |
+| There's such a thing as TOO helpful | 8.00% | ~1,364 |
 | Well that was a rush! | 7.00% | ~1,193 |
 | That's a lot of junk metal… | 7.00% | ~1,193 |
 | Beat-hit mania | 6.00% | ~1,023 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 34)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,043 (Ranked 168)  
+Progressed: 17,044 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,11 +335,11 @@ Completed: 8 (0.05%) (Ranked 341)
 | 2024-01-10 | 16,669 | 8 |
 | 2024-01-11 | 16,805 | 8 |
 | 2024-01-12 | 16,910 | 8 |
-| 2024-01-13 | 17,043 | 8 |
+| 2024-01-13 | 17,044 | 8 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 505)  
-Sum: 35 (Ranked 535)  
-Diff (max vs sum): -30  
+Sum: 35 (Ranked 536)  
+Diff (max vs sum): -31  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 35 |

@@ -6,19 +6,19 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~408,873 |
-| Haikyo | 80.00% | ~344,314 |
-| Good as New | 72.00% | ~309,883 |
-| Into the Woods | 70.00% | ~301,275 |
+| Found a Friend | 95.00% | ~408,874 |
+| Haikyo | 80.00% | ~344,315 |
+| Good as New | 72.00% | ~309,884 |
+| Into the Woods | 70.00% | ~301,276 |
 | Hunter in the Forest | 60.00% | ~258,236 |
 | Rot Commander | 60.00% | ~258,236 |
-| Taro's Fear | 56.00% | ~241,020 |
+| Taro's Fear | 56.00% | ~241,021 |
 | Between the Eyes | 47.00% | ~202,285 |
 | Taro's Love | 46.00% | ~197,981 |
 | Taro's Regret | 44.00% | ~189,373 |
 | Spirit Guide | 42.00% | ~180,765 |
-| Harness Your Power | 39.00% | ~167,853 |
-| The Open Range | 37.00% | ~159,245 |
+| Harness Your Power | 39.00% | ~167,854 |
+| The Open Range | 37.00% | ~159,246 |
 | Adira's Love | 34.00% | ~146,334 |
 | Adira's Fear | 33.00% | ~142,030 |
 | Weigh Them Down | 31.00% | ~133,422 |
@@ -36,8 +36,8 @@ Number of Ratings: 3,313  (23.09.2022)
 | Say Cheese | 16.00% | ~68,863 |
 | Skillful Spirit Guide | 15.00% | ~64,559 |
 | Piercing Blow | 14.00% | ~60,255 |
-| Curse Collector | 8.00% | ~34,431 |
-| Zen Master | 8.00% | ~34,431 |
+| Curse Collector | 8.00% | ~34,432 |
+| Zen Master | 8.00% | ~34,432 |
 | The Last Stop | 7.00% | ~30,128 |
 | Hat Collector | 4.00% | ~17,216 |
 | Restoration Master | 4.00% | ~17,216 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,874 |
 | Master Spirit Guide | 0.30% | ~1,291 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 430,393 (Ranked 47)  
+Progressed: 430,394 (Ranked 47)  
 Completed: 556 (0.13%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 556 (0.13%) (Ranked 301)
 | 2024-01-10 | 430,340 | 556 |
 | 2024-01-11 | 430,356 | 556 |
 | 2024-01-12 | 430,368 | 556 |
-| 2024-01-13 | 430,393 | 556 |
+| 2024-01-13 | 430,394 | 556 |
 ## Awards
 Max (Great Boss Battles): 1,356  (Ranked 145)  
 Sum: 1,776 (Ranked 225)  

@@ -11,13 +11,13 @@ Number of Ratings: 124  (23.09.2022)
 | Civilian | 35.00% | ~85 |
 | Role Model | 32.00% | ~77 |
 | Creator | 30.00% | ~73 |
+| Military Leader | 27.00% | ~65 |
 | Festival-goer | 27.00% | ~65 |
-| Military Leader | 26.00% | ~63 |
 | Peddler | 25.00% | ~60 |
 | Commander | 21.00% | ~51 |
-| Irissa's Fate | 19.00% | ~46 |
+| Irissa's Fate | 20.00% | ~48 |
 | Pass A38 | 19.00% | ~46 |
-| Long-Haul Flyer | 16.00% | ~39 |
+| Long-Haul Flyer | 17.00% | ~41 |
 | Eternal Oblivion | 16.00% | ~39 |
 | Family Reunion | 15.00% | ~36 |
 | Banker | 12.00% | ~29 |

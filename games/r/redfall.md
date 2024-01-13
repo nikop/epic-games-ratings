@@ -16,17 +16,17 @@ Rating: 3.68 (Ranked 1,097)
 | Fly Fisher | 12.00% | ~286 |
 | Sucks To Be You | 12.00% | ~286 |
 | Welcome to the Neighborhood | 11.00% | ~262 |
+| Throw The First Stone | 11.00% | ~262 |
 | Enter of Your Own Free Will | 10.00% | ~238 |
-| Throw The First Stone | 10.00% | ~238 |
 | Heart Attack | 10.00% | ~238 |
 | Skin of Their Teeth | 9.00% | ~214 |
 | Grounded | 8.00% | ~190 |
 | Bad Wiring | 7.00% | ~167 |
 | Neighborhood Revitalization | 6.00% | ~143 |
 | Radio Silence | 6.00% | ~143 |
+| I Spit On Your Grave | 5.00% | ~119 |
 | You Clean It Up | 4.00% | ~95 |
 | Helping Hand | 4.00% | ~95 |
-| I Spit On Your Grave | 4.00% | ~95 |
 | Block Party | 3.00% | ~71 |
 | Sic Transit Umbra | 3.00% | ~71 |
 | Bell-ringer | 3.00% | ~71 |
@@ -220,8 +220,8 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-13 | 2,380 | 0 |
 ## Awards
 Max (Great Boss Battles): 25  (Ranked 552)  
-Sum: 25 (Ranked 561)  
-Diff (max vs sum): -9  
+Sum: 25 (Ranked 562)  
+Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 25 |

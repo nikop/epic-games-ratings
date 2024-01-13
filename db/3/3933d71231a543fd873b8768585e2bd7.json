@@ -2,9 +2,9 @@
   "ID": "3933d71231a543fd873b8768585e2bd7",
   "Name": "Masterplan Tycoon",
   "ProductSlug": "masterplan-tycoon-379d81",
-  "Ranking_EOS_Progress": 536,
+  "Ranking_EOS_Progress": 535,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 438,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 67,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -344,6 +344,11 @@
       "Time": "2024-01-13T13:09:39.6799278+00:00",
       "NumProgressed": 66,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T21:03:14.8848971+00:00",
+      "NumProgressed": 67,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-01T09:03:14.0251979+00:00",
@@ -354,7 +359,7 @@
       "ID": "achievements.completegame",
       "SetID": "1kd1942",
       "Name": "Master of Masterplan Tycoon",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -370,7 +375,7 @@
       "ID": "achievements.completemission.islands.02",
       "SetID": "1kd1942",
       "Name": "Drilling for Black Gold",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -380,13 +385,13 @@
       "Name": "Another Brick in the Node",
       "Percentage": 73,
       "XP": 40,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achievements.completemission.master.02",
       "SetID": "1kd1942",
       "Name": "Beams of Steel",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 40,
       "UsersEstimate": 11
     },
@@ -412,13 +417,13 @@
       "Name": "ForestTreePlank",
       "Percentage": 91,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "achievements.firstexpedition",
       "SetID": "1kd1942",
       "Name": "Cristoforo Magellanus",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
       "UsersEstimate": 9
     },
@@ -450,7 +455,7 @@
       "ID": "achievements.researches.first",
       "SetID": "1kd1942",
       "Name": "Eureka!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 40,
       "UsersEstimate": 13
     },
@@ -458,7 +463,7 @@
       "ID": "achievements.researches.upgrades50",
       "SetID": "1kd1942",
       "Name": "Accelerating Progress",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -466,7 +471,7 @@
       "ID": "achievements.researches.upgradesall",
       "SetID": "1kd1942",
       "Name": "Maximizing Efficiency",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -474,7 +479,7 @@
       "ID": "achievements.steamenginefactory",
       "SetID": "1kd1942",
       "Name": "Industrial Revolution",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
       "UsersEstimate": 1
     }
@@ -483,14 +488,14 @@
     {
       "ID": "1kd1942",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 67,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2024-01-13T19:08:16.6974701+00:00",
+  "LastChanged_Achievements": "2024-01-13T21:03:14.8848958+00:00",
   "LastUpdate_AppInfo": "2024-01-12T21:56:58.7259645+00:00",
-  "LastUpdate_Ratings": "2024-01-13T19:57:41.613441+00:00",
-  "LastUpdate_Achievements": "2024-01-13T19:08:16.6974891+00:00"
+  "LastUpdate_Ratings": "2024-01-13T20:57:20.9833758+00:00",
+  "LastUpdate_Achievements": "2024-01-13T21:03:14.8866095+00:00"
 }

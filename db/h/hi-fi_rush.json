@@ -4,7 +4,7 @@
   "ProductSlug": "hi-fi-rush",
   "Ranking_Rating": 34,
   "Ranking_Popularity": 505,
-  "Ranking_PopularitySum": 535,
+  "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 341,
   "Ranking_EOS_NewPlayers": 91,
@@ -273,9 +273,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 17043,
+  "EOS_Progressed": 17044,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1234,
+  "EOS_NewPlayers": 1229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12118,6 +12118,11 @@
       "Time": "2024-01-13T20:04:41.5616262+00:00",
       "NumProgressed": 17043,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-13T21:04:18.8842293+00:00",
+      "NumProgressed": 17044,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12129,7 +12134,7 @@
       "Name": "Start with a bang!",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 9203
+      "UsersEstimate": 9204
     },
     {
       "ID": "Ach002",
@@ -12137,7 +12142,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 6135
+      "UsersEstimate": 6136
     },
     {
       "ID": "Ach003",
@@ -12145,7 +12150,7 @@
       "Name": "This will cost you big time",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 3749
+      "UsersEstimate": 3750
     },
     {
       "ID": "Ach004",
@@ -12257,7 +12262,7 @@
       "Name": "I play my own way!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 4090
+      "UsersEstimate": 4091
     },
     {
       "ID": "Ach018",
@@ -12385,7 +12390,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3749
+      "UsersEstimate": 3750
     },
     {
       "ID": "Ach034",
@@ -12481,7 +12486,7 @@
       "Name": "There\u0027s such a thing as TOO helpful",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     },
     {
       "ID": "Ach046",
@@ -12529,7 +12534,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8351
+      "UsersEstimate": 8352
     },
     {
       "ID": "Ach052",
@@ -12696,13 +12701,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17043,
+      "Progressed": 17044,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15564,
+      "Progressed": 15565,
       "Completed": 1931
     }
   ],
@@ -12710,8 +12715,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-13T13:58:58.0856077+00:00",
-  "LastChanged_Achievements": "2024-01-13T20:04:41.5616259+00:00",
+  "LastChanged_Achievements": "2024-01-13T21:04:18.884229+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:39.1696862+00:00",
-  "LastUpdate_Ratings": "2024-01-13T19:58:59.7739444+00:00",
-  "LastUpdate_Achievements": "2024-01-13T20:04:41.5617306+00:00"
+  "LastUpdate_Ratings": "2024-01-13T20:58:41.6607065+00:00",
+  "LastUpdate_Achievements": "2024-01-13T21:04:18.88433+00:00"
 }

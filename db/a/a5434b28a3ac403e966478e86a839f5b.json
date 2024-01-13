@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 957,
+  "EOS_Progressed": 958,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
@@ -3350,6 +3350,11 @@
       "Time": "2024-01-13T19:08:59.3789494+00:00",
       "NumProgressed": 957,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-13T21:08:57.4847515+00:00",
+      "NumProgressed": 958,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3370,7 +3375,7 @@
       "Name": "Establish Communications",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ACH_eou2",
@@ -3378,7 +3383,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH_eou3",
@@ -3402,7 +3407,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_eou6",
@@ -3418,7 +3423,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_eou8",
@@ -3465,14 +3470,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 957,
+      "Progressed": 958,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-13T20:08:55.096642+00:00",
+  "LastChanged_Achievements": "2024-01-13T21:08:57.4847511+00:00",
   "LastUpdate_AppInfo": "2024-01-12T07:57:02.9580247+00:00",
-  "LastUpdate_Ratings": "2024-01-13T19:57:48.926066+00:00",
-  "LastUpdate_Achievements": "2024-01-13T20:08:55.0966694+00:00"
+  "LastUpdate_Ratings": "2024-01-13T20:57:29.0224006+00:00",
+  "LastUpdate_Achievements": "2024-01-13T21:08:57.4847768+00:00"
 }

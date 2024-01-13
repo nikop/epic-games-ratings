@@ -7,10 +7,10 @@ Number of Ratings: 85  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shop Til They Drop | 77.00% | ~367 |
-| Kaijuiced | 71.00% | ~338 |
+| Kaijuiced | 72.00% | ~343 |
 | Lie Back and Think of Albion | 66.00% | ~314 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 64.00% | ~305 |
-| I Look Up As I Walk to Takoshima | 60.00% | ~286 |
+| I Look Up As I Walk to Takoshima | 61.00% | ~290 |
 | Yettisoned | 59.00% | ~281 |
 | Pimp My Raid | 57.00% | ~271 |
 | Perfect Probulator | 57.00% | ~271 |
@@ -81,8 +81,8 @@ Completed: 5 (1.05%) (Ranked 175)
 | 2024-01-13 | 476 | 5 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 505)  
-Sum: 35 (Ranked 535)  
-Diff (max vs sum): -30  
+Sum: 35 (Ranked 536)  
+Diff (max vs sum): -31  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 35 |

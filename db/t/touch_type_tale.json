@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4031,
+  "EOS_Progressed": 4032,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5657,6 +5657,11 @@
       "Time": "2024-01-13T19:05:46.4649027+00:00",
       "NumProgressed": 4031,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-13T21:05:36.0227702+00:00",
+      "NumProgressed": 4032,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5716,7 +5721,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3507
+      "UsersEstimate": 3508
     },
     {
       "ID": "campaign10",
@@ -5804,7 +5809,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 3023
+      "UsersEstimate": 3024
     },
     {
       "ID": "campaign20",
@@ -5820,7 +5825,7 @@
       "Name": "Economics 101",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 2378
+      "UsersEstimate": 2379
     },
     {
       "ID": "campaign4",
@@ -5860,7 +5865,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "campaign9",
@@ -5876,7 +5881,7 @@
       "Name": "Do the Splits",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "scenario2",
@@ -5931,7 +5936,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 4031,
+      "Progressed": 4032,
       "Completed": 11
     }
   ],
@@ -5939,8 +5944,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2024-01-05T08:58:52.7711213+00:00",
-  "LastChanged_Achievements": "2024-01-13T20:05:56.6824037+00:00",
+  "LastChanged_Achievements": "2024-01-13T21:05:36.02277+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:04.3464482+00:00",
-  "LastUpdate_Ratings": "2024-01-13T19:59:14.2456904+00:00",
-  "LastUpdate_Achievements": "2024-01-13T20:05:56.6824743+00:00"
+  "LastUpdate_Ratings": "2024-01-13T20:58:56.3944195+00:00",
+  "LastUpdate_Achievements": "2024-01-13T21:05:36.0228127+00:00"
 }

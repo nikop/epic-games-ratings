@@ -6,23 +6,23 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 86.00% | ~8,926 |
-| Photogenic | 82.00% | ~8,511 |
-| Surge Gauntlet Jockey | 79.00% | ~8,199 |
+| Let's Get This Party Started | 86.00% | ~8,927 |
+| Photogenic | 82.00% | ~8,512 |
+| Surge Gauntlet Jockey | 79.00% | ~8,200 |
 | Plug It In | 78.00% | ~8,096 |
-| Adventure Time | 75.00% | ~7,784 |
-| Playing With Power | 72.00% | ~7,473 |
-| Coup d'Etat | 55.00% | ~5,708 |
+| Adventure Time | 75.00% | ~7,785 |
+| Playing With Power | 72.00% | ~7,474 |
+| Coup d'Etat | 55.00% | ~5,709 |
 | You're Fired | 54.00% | ~5,605 |
 | Get Furious | 53.00% | ~5,501 |
-| Hacks In Stacks | 52.00% | ~5,397 |
-| Gunplay And Cosplay | 51.00% | ~5,293 |
-| Meching Enemies | 46.00% | ~4,774 |
-| Ticket Toddler | 41.00% | ~4,255 |
-| Booty Bashing | 36.00% | ~3,736 |
-| Field Medic | 36.00% | ~3,736 |
+| Hacks In Stacks | 52.00% | ~5,398 |
+| Gunplay And Cosplay | 51.00% | ~5,294 |
+| Meching Enemies | 46.00% | ~4,775 |
+| Ticket Toddler | 41.00% | ~4,256 |
+| Booty Bashing | 36.00% | ~3,737 |
+| Field Medic | 36.00% | ~3,737 |
 | Here Comes a New Challenger | 35.00% | ~3,633 |
-| Rapid Response | 31.00% | ~3,217 |
+| Rapid Response | 31.00% | ~3,218 |
 | Surge Ahead | 29.00% | ~3,010 |
 | The Full Monty | 29.00% | ~3,010 |
 | Guardian Angel | 26.00% | ~2,699 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~42 |
 | Pyrotechnical | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,379 (Ranked 183)  
+Progressed: 10,380 (Ranked 183)  
 Completed: 2 (0.02%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 2 (0.02%) (Ranked 366)
 | 2024-01-10 | 10,351 | 2 |
 | 2024-01-11 | 10,363 | 2 |
 | 2024-01-12 | 10,373 | 2 |
-| 2024-01-13 | 10,379 | 2 |
+| 2024-01-13 | 10,380 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 424)  
 Sum: 465 (Ranked 341)  

@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Graduated | 99.00% | ~846 |
 | Trouble with the swerve | 69.00% | ~590 |
-| Oops, My bad | 67.00% | ~573 |
+| Oops, My bad | 68.00% | ~581 |
 | Don't get ahead on yourself | 39.00% | ~333 |
 | I didn't know you where there! | 30.00% | ~256 |
 | Participation trophy | 23.00% | ~197 |

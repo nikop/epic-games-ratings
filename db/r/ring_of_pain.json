@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3910,7 +3910,7 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242899,
+  "EOS_Progressed": 242904,
   "EOS_Completed": 305,
   "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 1,
@@ -31710,6 +31710,11 @@
       "Time": "2024-01-13T20:10:09.1596578+00:00",
       "NumProgressed": 242899,
       "NumCompleted": 305
+    },
+    {
+      "Time": "2024-01-13T21:10:14.1241307+00:00",
+      "NumProgressed": 242904,
+      "NumCompleted": 305
     }
   ],
   "TotalAchievements": 138,
@@ -31721,7 +31726,7 @@
       "Name": "Thank You, Friend",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "ALLACHIEVEMENTS",
@@ -31785,7 +31790,7 @@
       "Name": "Shadow Spreads",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "DARKENDINGMEDIUM",
@@ -31809,7 +31814,7 @@
       "Name": "Max Damage!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "DEPTH12",
@@ -31833,7 +31838,7 @@
       "Name": "A Rough Road",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "DEPTH6",
@@ -32177,7 +32182,7 @@
       "Name": "Don\u0027t Ignore Me!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "KILLBOSSHARD",
@@ -32193,7 +32198,7 @@
       "Name": "All Consuming",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "KILLEDSELFWITHITEMS",
@@ -32273,7 +32278,7 @@
       "Name": "Illuminate, Eliminate",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "LIGHTENDINGHARD",
@@ -32313,7 +32318,7 @@
       "Name": "Chain Reaction",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "MULTIKILL30",
@@ -32393,7 +32398,7 @@
       "Name": "Spreading Plague",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "POISON30TIMES",
@@ -32425,7 +32430,7 @@
       "Name": "Antivenom",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "REROLL30TIMES",
@@ -32545,7 +32550,7 @@
       "Name": "The Long Run",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "WIN0ATTACK",
@@ -32824,13 +32829,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242899,
+      "Progressed": 242904,
       "Completed": 305
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4379,
+      "Progressed": 4384,
       "Completed": 425
     }
   ],
@@ -32838,8 +32843,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-12T05:59:51.3980392+00:00",
-  "LastChanged_Achievements": "2024-01-13T20:10:09.1596574+00:00",
+  "LastChanged_Achievements": "2024-01-13T21:10:14.1241303+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-13T20:00:04.1520443+00:00",
-  "LastUpdate_Achievements": "2024-01-13T20:10:09.1599713+00:00"
+  "LastUpdate_Ratings": "2024-01-13T20:59:48.3376965+00:00",
+  "LastUpdate_Achievements": "2024-01-13T21:10:14.1243826+00:00"
 }

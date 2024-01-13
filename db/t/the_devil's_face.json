@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 371,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 648,
+  "EOS_Progressed": 649,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -2859,6 +2859,11 @@
       "Time": "2024-01-13T18:05:35.3127386+00:00",
       "NumProgressed": 648,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-13T21:04:25.0267467+00:00",
+      "NumProgressed": 649,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2870,7 +2875,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2916,9 +2921,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "296pn27",
       "Name": "The path to enlightenment",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 207
+      "UsersEstimate": 214
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2926,7 +2931,7 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2981,14 +2986,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 648,
+      "Progressed": 649,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2024-01-13T20:04:48.0505838+00:00",
+  "LastChanged_Achievements": "2024-01-13T21:04:25.0267464+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:14.7712536+00:00",
-  "LastUpdate_Ratings": "2024-01-13T19:59:02.0984223+00:00",
-  "LastUpdate_Achievements": "2024-01-13T20:04:48.0506078+00:00"
+  "LastUpdate_Ratings": "2024-01-13T20:58:44.0090261+00:00",
+  "LastUpdate_Achievements": "2024-01-13T21:04:25.0267718+00:00"
 }

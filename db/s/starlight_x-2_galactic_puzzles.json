@@ -4,7 +4,7 @@
   "ProductSlug": "starlight-x2-galactic-puzzles-dede7d",
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewPlayers": 476,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-07T07:00:00+00:00",
@@ -667,9 +667,9 @@
       "ID": "ach_nohints_01",
       "SetID": "8jkn3bi",
       "Name": "By Yourself 6x6",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_nohints_02",
@@ -731,9 +731,9 @@
       "ID": "ach_playtime_00",
       "SetID": "8jkn3bi",
       "Name": "Play for 5 hours",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_playtime_01",
@@ -794,8 +794,8 @@
   ],
   "FirstSeen": "2023-11-18T16:58:15.9400848+00:00",
   "FirstSeenAchievements": "2023-04-25T20:54:03.7448556+00:00",
-  "LastChanged_Achievements": "2024-01-13T20:10:03.479176+00:00",
+  "LastChanged_Achievements": "2024-01-13T21:10:08.2047116+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:20.7041315+00:00",
-  "LastUpdate_Ratings": "2024-01-13T20:00:19.8085661+00:00",
-  "LastUpdate_Achievements": "2024-01-13T20:10:03.4792282+00:00"
+  "LastUpdate_Ratings": "2024-01-13T21:00:04.5317625+00:00",
+  "LastUpdate_Achievements": "2024-01-13T21:10:08.2047501+00:00"
 }

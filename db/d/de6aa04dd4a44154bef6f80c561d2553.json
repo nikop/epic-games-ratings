@@ -387,9 +387,9 @@
       "ID": "Chapter12_FirstEncounter",
       "SetID": "c8fdd59",
       "Name": "First Encounter",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Chapter13_AdventureInTheArroyo",
@@ -618,8 +618,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2024-01-13T20:10:03.9168947+00:00",
+  "LastChanged_Achievements": "2024-01-13T21:10:08.664399+00:00",
   "LastUpdate_AppInfo": "2024-01-08T17:57:08.0794756+00:00",
-  "LastUpdate_Ratings": "2024-01-13T19:58:30.8740122+00:00",
-  "LastUpdate_Achievements": "2024-01-13T20:10:03.9169281+00:00"
+  "LastUpdate_Ratings": "2024-01-13T20:58:10.5737175+00:00",
+  "LastUpdate_Achievements": "2024-01-13T21:10:08.6644258+00:00"
 }

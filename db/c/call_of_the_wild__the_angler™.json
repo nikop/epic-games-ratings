@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8306,
+  "EOS_Progressed": 8307,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14007,6 +14007,11 @@
       "Time": "2024-01-13T20:08:40.690581+00:00",
       "NumProgressed": 8306,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T21:08:42.5139648+00:00",
+      "NumProgressed": 8307,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -14050,15 +14055,15 @@
       "Name": "Fish Out of Water",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "ACHIEVEMENT_006",
       "SetID": "1a05lfd",
       "Name": "I\u0027m on a Boat!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1163
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -14082,7 +14087,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -14337,13 +14342,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8306,
+      "Progressed": 8307,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7678,
+      "Progressed": 7679,
       "Completed": 113
     }
   ],
@@ -14351,8 +14356,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-13T20:08:40.6905806+00:00",
+  "LastChanged_Achievements": "2024-01-13T21:08:42.5139645+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-13T19:57:47.2601842+00:00",
-  "LastUpdate_Achievements": "2024-01-13T20:08:40.6906869+00:00"
+  "LastUpdate_Ratings": "2024-01-13T20:57:27.3231173+00:00",
+  "LastUpdate_Achievements": "2024-01-13T21:08:42.5140442+00:00"
 }
