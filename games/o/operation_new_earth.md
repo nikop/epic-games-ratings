@@ -15,8 +15,8 @@ Rating: 3.33 (Ranked 1,103)
 | Getting Deployment | 10.00% | ~223 |
 | Stocking Up | 10.00% | ~223 |
 | On Target | 10.00% | ~223 |
+| Infantry Reporting | 10.00% | ~223 |
 | Keeping Busy | 9.00% | ~201 |
-| Infantry Reporting | 9.00% | ~201 |
 | Exterminator | 8.00% | ~178 |
 | Fighting for Survival | 8.00% | ~178 |
 | Silver Competitor | 8.00% | ~178 |
@@ -44,7 +44,7 @@ Rating: 3.33 (Ranked 1,103)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,228 (Ranked 248)  
+Progressed: 2,229 (Ranked 248)  
 Completed: 1 (0.04%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 1 (0.04%) (Ranked 351)
 | 2024-01-10 | 2,212 | 1 |
 | 2024-01-11 | 2,220 | 1 |
 | 2024-01-12 | 2,227 | 1 |
-| 2024-01-13 | 2,228 | 1 |
+| 2024-01-13 | 2,229 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

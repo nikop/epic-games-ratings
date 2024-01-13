@@ -1503,12 +1503,18 @@
       "Rating": 4.43,
       "NumberOfAwards": 423,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-01-13T05:59:04.4869022+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 424,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 423,
+  "NumberOfAwards": 424,
   "NumberOfAwardsMax": 54,
-  "MaxAwardTitle": "Diverse Characters",
+  "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -1550,7 +1556,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 52
+      "Count": 53
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1589,8 +1595,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-15T22:58:09.2323476+00:00",
   "FirstSeenRating": "2022-12-26T17:58:45.352902+00:00",
-  "LastChanged": "2024-01-11T16:59:34.667738+00:00",
+  "LastChanged": "2024-01-13T05:59:04.4869021+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:38.1276309+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:59:29.3490578+00:00",
-  "LastUpdate_Achievements": "2024-01-13T05:08:55.4514388+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:59:04.4869025+00:00",
+  "LastUpdate_Achievements": "2024-01-13T06:08:49.7528724+00:00"
 }

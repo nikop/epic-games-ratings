@@ -2274,9 +2274,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16583,
+  "EOS_Progressed": 16593,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19819,6 +19819,11 @@
       "Time": "2024-01-13T05:10:42.5256568+00:00",
       "NumProgressed": 16583,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T06:10:30.7212591+00:00",
+      "NumProgressed": 16593,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20262,7 +20267,7 @@
       "Name": "Explorer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -20316,9 +20321,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
       "SetID": "9201eeb",
       "Name": "Intrepid",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 498
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -20454,7 +20459,7 @@
       "Name": "Settler",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -20486,7 +20491,7 @@
       "Name": "Victorious",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
@@ -20694,7 +20699,7 @@
       "Name": "Landowners",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_PATRONS",
@@ -20734,7 +20739,7 @@
       "Name": "Traders",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
@@ -20742,7 +20747,7 @@
       "Name": "Friendly Family",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -21166,15 +21171,15 @@
       "Name": "Circus Maximus",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
       "SetID": "9201eeb",
       "Name": "Colossus",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 166
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
@@ -21190,7 +21195,7 @@
       "Name": "Hagia Sophia",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
@@ -21214,7 +21219,7 @@
       "Name": "Temple of Solomon",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
@@ -21286,7 +21291,7 @@
       "Name": "Pantheon",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
@@ -21302,7 +21307,7 @@
       "Name": "Via Recta Souk",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_KNOWLEDGE_ANCIENTS",
@@ -21516,9 +21521,9 @@
       "ID": "ACHIEVEMENT_PERSEPOLIS_APADANA",
       "SetID": "9201eeb",
       "Name": "Apadana in Parsa",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_PLAY_1V1",
@@ -21582,7 +21587,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -21766,7 +21771,7 @@
       "Name": "Economic Reform",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
@@ -21782,7 +21787,7 @@
       "Name": "Military Prestige",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
@@ -21902,7 +21907,7 @@
       "Name": "Legionary",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
@@ -21966,7 +21971,7 @@
       "Name": "Double Victory",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_CHARACTERS",
@@ -22550,7 +22555,7 @@
       "Name": "Kushite Paganism",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_UNIT_BEJA_ARCHER",
@@ -22693,21 +22698,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16583,
+      "Progressed": 16593,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16583,
+      "Progressed": 16593,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-13T04:59:13.8910853+00:00",
-  "LastChanged_Achievements": "2024-01-13T05:10:42.5256563+00:00",
+  "LastChanged_Achievements": "2024-01-13T06:10:30.7212586+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:59:13.8910858+00:00",
-  "LastUpdate_Achievements": "2024-01-13T05:10:42.5268325+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:58:50.7250488+00:00",
+  "LastUpdate_Achievements": "2024-01-13T06:10:30.7222531+00:00"
 }

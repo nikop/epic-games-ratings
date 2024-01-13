@@ -5,17 +5,17 @@ Rating: 4.64 (Ranked 344)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,340 |
-| On the Top Step | 82.00% | ~14,724 |
-| Setting up for Success | 69.00% | ~12,390 |
-| Team Orders | 67.00% | ~12,031 |
-| Engineer | 45.00% | ~8,080 |
-| Familiar Faces | 41.00% | ~7,362 |
+| Getting on the Step | 91.00% | ~16,342 |
+| On the Top Step | 82.00% | ~14,726 |
+| Setting up for Success | 69.00% | ~12,391 |
+| Team Orders | 67.00% | ~12,032 |
+| Engineer | 45.00% | ~8,081 |
+| Familiar Faces | 41.00% | ~7,363 |
 | Going the Extra Mile | 35.00% | ~6,285 |
-| Sharing the Love | 32.00% | ~5,746 |
+| Sharing the Love | 32.00% | ~5,747 |
 | Hitting a Season | 26.00% | ~4,669 |
-| A Dozen Pieces | 24.00% | ~4,309 |
-| Making History | 24.00% | ~4,309 |
+| A Dozen Pieces | 24.00% | ~4,310 |
+| Making History | 24.00% | ~4,310 |
 | Network Success | 23.00% | ~4,130 |
 | Challenge Yourself | 23.00% | ~4,130 |
 | Writing a new Chapter | 19.00% | ~3,412 |
@@ -34,7 +34,7 @@ Rating: 4.64 (Ranked 344)
 | Oil and Water | 9.00% | ~1,616 |
 | Hitting a Bullseye | 9.00% | ~1,616 |
 | Spinning Around | 9.00% | ~1,616 |
-| Lightning Round the World | 8.00% | ~1,436 |
+| Lightning Round the World | 8.00% | ~1,437 |
 | Recycle | 7.00% | ~1,257 |
 | Undisputed Winner | 6.00% | ~1,077 |
 | Tinkerer | 6.00% | ~1,077 |
@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 344)
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,956 (Ranked 163)  
+Progressed: 17,958 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-10 | 17,601 | 0 |
 | 2024-01-11 | 17,785 | 0 |
 | 2024-01-12 | 17,926 | 0 |
-| 2024-01-13 | 17,956 | 0 |
+| 2024-01-13 | 17,958 | 0 |
 ## Awards
 Max (Diverse Characters): 65  (Ranked 424)  
 Sum: 428 (Ranked 350)  

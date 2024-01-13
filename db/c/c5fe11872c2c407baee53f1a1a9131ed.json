@@ -827,17 +827,17 @@
       "ID": "ach_boss_zone",
       "SetID": "5a4225j",
       "Name": "Won Mega Boss",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_bosses_complete",
       "SetID": "5a4225j",
       "Name": "Bosses Complete",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_bp_30",
@@ -867,9 +867,9 @@
       "ID": "ach_endless_120",
       "SetID": "5a4225j",
       "Name": "Endless 2 Minutes",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_endless_30",
@@ -987,9 +987,9 @@
       "ID": "ach_spreader_zone",
       "SetID": "5a4225j",
       "Name": "Won Spreader Zone",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_toosoon",
@@ -1018,8 +1018,8 @@
   ],
   "FirstSeen": "2023-09-27T14:59:58.9719434+00:00",
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2024-01-13T05:06:32.8706534+00:00",
+  "LastChanged_Achievements": "2024-01-13T06:06:12.565457+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:11.79685+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:57:24.3664202+00:00",
-  "LastUpdate_Achievements": "2024-01-13T05:06:32.8707027+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:57:17.8955053+00:00",
+  "LastUpdate_Achievements": "2024-01-13T06:06:12.5654993+00:00"
 }

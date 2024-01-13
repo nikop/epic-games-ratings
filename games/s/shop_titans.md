@@ -6,22 +6,22 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,602 |
-| Titan's First Steps | 11.00% | ~16,602 |
-| Basic in Bulk | 10.00% | ~15,093 |
+| Sponsored by Argon | 11.00% | ~16,603 |
+| Titan's First Steps | 11.00% | ~16,603 |
+| Basic in Bulk | 10.00% | ~15,094 |
 | Tinkle of Coins | 9.00% | ~13,584 |
-| Disintermediation | 8.00% | ~12,074 |
-| It's Free Real Estate | 7.00% | ~10,565 |
-| Capitalism Ho! | 7.00% | ~10,565 |
+| Disintermediation | 8.00% | ~12,075 |
+| It's Free Real Estate | 7.00% | ~10,566 |
+| Capitalism Ho! | 7.00% | ~10,566 |
 | One Easy Payment | 6.00% | ~9,056 |
 | Some Assembly Required | 6.00% | ~9,056 |
 | Another Satisfied Customer | 6.00% | ~9,056 |
 | Pretty Penny | 6.00% | ~9,056 |
 | Budding Merchant | 6.00% | ~9,056 |
 | Own the Means of Production | 6.00% | ~9,056 |
-| The Daily Grind | 5.00% | ~7,546 |
-| One-Armed Bandit | 5.00% | ~7,546 |
-| Through Repetition, Perfection | 5.00% | ~7,546 |
+| The Daily Grind | 5.00% | ~7,547 |
+| One-Armed Bandit | 5.00% | ~7,547 |
+| Through Repetition, Perfection | 5.00% | ~7,547 |
 | Bounty Hunters | 4.00% | ~6,037 |
 | Demand for Supplies | 4.00% | ~6,037 |
 | Flooding the Market | 4.00% | ~6,037 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~604 |
 | Capitalist Camaraderie | 0.30% | ~453 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,930 (Ranked 86)  
+Progressed: 150,937 (Ranked 86)  
 Completed: 352 (0.23%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -387,7 +387,7 @@ Completed: 352 (0.23%) (Ranked 272)
 | 2024-01-10 | 150,626 | 348 |
 | 2024-01-11 | 150,768 | 349 |
 | 2024-01-12 | 150,896 | 350 |
-| 2024-01-13 | 150,930 | 352 |
+| 2024-01-13 | 150,937 | 352 |
 ## Awards
 Max (Great for Beginners): 4,954  (Ranked 79)  
 Sum: 27,984 (Ranked 52)  

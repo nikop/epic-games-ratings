@@ -6,10 +6,11 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 3.00% | ~497 |
-| Settler | 3.00% | ~497 |
-| Friendly Family | 3.00% | ~497 |
-| Play a Single Player Game | 3.00% | ~497 |
+| Explorer | 3.00% | ~498 |
+| Intrepid | 3.00% | ~498 |
+| Settler | 3.00% | ~498 |
+| Friendly Family | 3.00% | ~498 |
+| Play a Single Player Game | 3.00% | ~498 |
 | Able | 2.00% | ~332 |
 | Ambitious | 2.00% | ~332 |
 | Architect | 2.00% | ~332 |
@@ -17,7 +18,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 2.00% | ~332 |
 | Glorious | 2.00% | ~332 |
 | Good | 2.00% | ~332 |
-| Intrepid | 2.00% | ~332 |
 | Just | 2.00% | ~332 |
 | Keystone | 2.00% | ~332 |
 | Learned | 2.00% | ~332 |
@@ -48,6 +48,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Furious Family | 1.00% | ~166 |
 | Acropolis | 1.00% | ~166 |
 | Apadana | 1.00% | ~166 |
+| Colossus | 1.00% | ~166 |
 | Great Ziggurat | 1.00% | ~166 |
 | Ishtar Gate | 1.00% | ~166 |
 | Lighthouse | 1.00% | ~166 |
@@ -65,7 +66,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 0.90% | ~149 |
 | Just Difficulty | 0.90% | ~149 |
 | Artisans | 0.90% | ~149 |
-| Colossus | 0.90% | ~149 |
 | Building Wonders | 0.90% | ~149 |
 | Mythology | 0.90% | ~149 |
 | Intercessor | 0.80% | ~133 |
@@ -82,19 +82,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.70% | ~116 |
 | Points Victory | 0.70% | ~116 |
 | Win a Single Player Game | 0.70% | ~116 |
-| Victorious | 0.60% | ~99 |
-| Landowners | 0.60% | ~99 |
-| Traders | 0.60% | ~99 |
-| Circus Maximus | 0.60% | ~99 |
-| Hagia Sophia | 0.60% | ~99 |
-| Temple of Solomon | 0.60% | ~99 |
-| Pantheon | 0.60% | ~99 |
-| Via Recta Souk | 0.60% | ~99 |
-| Economic Reform | 0.60% | ~99 |
-| Military Prestige | 0.60% | ~99 |
-| Legionary | 0.60% | ~99 |
-| Double Victory | 0.60% | ~99 |
-| Kushite Paganism | 0.60% | ~99 |
+| Victorious | 0.60% | ~100 |
+| Landowners | 0.60% | ~100 |
+| Traders | 0.60% | ~100 |
+| Circus Maximus | 0.60% | ~100 |
+| Hagia Sophia | 0.60% | ~100 |
+| Temple of Solomon | 0.60% | ~100 |
+| Pantheon | 0.60% | ~100 |
+| Via Recta Souk | 0.60% | ~100 |
+| Economic Reform | 0.60% | ~100 |
+| Military Prestige | 0.60% | ~100 |
+| Legionary | 0.60% | ~100 |
+| Double Victory | 0.60% | ~100 |
+| Kushite Paganism | 0.60% | ~100 |
 | Bad Heir Day | 0.50% | ~83 |
 | Capable | 0.50% | ~83 |
 | Conqueror | 0.50% | ~83 |
@@ -151,6 +151,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eternal Treaty | 0.20% | ~33 |
 | Persia | 0.20% | ~33 |
 | Pantheon of Gods | 0.20% | ~33 |
+| Apadana in Parsa | 0.20% | ~33 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~33 |
 | Play a Network Game | 0.20% | ~33 |
 | Capturing Cities | 0.20% | ~33 |
@@ -249,7 +250,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Realistic Mortality | 0.10% | ~17 |
 | Assyria | 0.10% | ~17 |
 | Hatti | 0.10% | ~17 |
-| Apadana in Parsa | 0.10% | ~17 |
 | Play a 1-v-1 Game | 0.10% | ~17 |
 | Play a Hotseat Game | 0.10% | ~17 |
 | Play a LAN Game | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,583 (Ranked 170)  
+Progressed: 16,593 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -633,7 +633,7 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
-| 2024-01-13 | 16,583 | 5 |
+| 2024-01-13 | 16,593 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,926 (Ranked 223)  

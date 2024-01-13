@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -1749,9 +1749,9 @@
       "ID": "KR4_ACHIEVEMENT_KERMIT",
       "SetID": "caeik3h",
       "Name": "None Of My Business",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_DWARF_ENGINEERS",
@@ -2076,8 +2076,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-13T05:04:47.1239048+00:00",
+  "LastChanged_Achievements": "2024-01-13T06:04:34.6793276+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:57:56.9745785+00:00",
-  "LastUpdate_Achievements": "2024-01-13T05:04:47.1239841+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:57:45.820741+00:00",
+  "LastUpdate_Achievements": "2024-01-13T06:04:34.6794322+00:00"
 }

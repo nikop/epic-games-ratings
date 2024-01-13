@@ -17,11 +17,11 @@
 | Finished it | 25.00% | ~81 |
 | Whispers long forgotten | 18.00% | ~58 |
 | Sound Bite | 14.00% | ~46 |
+| Debut | 13.00% | ~42 |
 | The art of movement | 13.00% | ~42 |
+| Another perspective | 12.00% | ~39 |
 | A Slice of Life | 12.00% | ~39 |
-| Debut | 12.00% | ~39 |
 | Lights! Camera! Action! | 12.00% | ~39 |
-| Another perspective | 11.00% | ~36 |
 | Tough conversation | 10.00% | ~32 |
 | First steps | 9.00% | ~29 |
 | Playtime | 9.00% | ~29 |

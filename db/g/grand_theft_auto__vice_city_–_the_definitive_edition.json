@@ -1062,9 +1062,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16325,
+  "EOS_Progressed": 16327,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 811,
+  "EOS_NewPlayers": 802,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -17982,6 +17982,11 @@
       "Time": "2024-01-13T05:10:18.7958866+00:00",
       "NumProgressed": 16325,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2024-01-13T06:10:08.1645669+00:00",
+      "NumProgressed": 16327,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 34,
@@ -18009,7 +18014,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1633
     },
     {
       "ID": "ACH04",
@@ -18025,7 +18030,7 @@
       "Name": "One is Better Than Two",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH06",
@@ -18097,7 +18102,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6856
+      "UsersEstimate": 6857
     },
     {
       "ID": "ACH15",
@@ -18153,7 +18158,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7673
+      "UsersEstimate": 7674
     },
     {
       "ID": "ACH22",
@@ -18161,7 +18166,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3428
+      "UsersEstimate": 3429
     },
     {
       "ID": "ACH23",
@@ -18169,7 +18174,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 4244
+      "UsersEstimate": 4245
     },
     {
       "ID": "ACH24",
@@ -18217,7 +18222,7 @@
       "Name": "Take the Cannoli",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH30",
@@ -18233,7 +18238,7 @@
       "Name": "Chopper\u2019d Up",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH32",
@@ -18241,7 +18246,7 @@
       "Name": "City Sleuth",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH33",
@@ -18264,7 +18269,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16325,
+      "Progressed": 16327,
       "Completed": 98
     }
   ],
@@ -18272,8 +18277,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-12T14:59:31.064813+00:00",
-  "LastChanged_Achievements": "2024-01-13T05:10:18.7958864+00:00",
+  "LastChanged_Achievements": "2024-01-13T06:10:08.1645665+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:12.9251558+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:59:18.2995603+00:00",
-  "LastUpdate_Achievements": "2024-01-13T05:10:18.7960006+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:58:54.6505065+00:00",
+  "LastUpdate_Achievements": "2024-01-13T06:10:08.1647069+00:00"
 }

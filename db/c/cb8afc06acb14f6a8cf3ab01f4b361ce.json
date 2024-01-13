@@ -473,9 +473,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 344711,
+  "EOS_Progressed": 344729,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3181,
+  "EOS_NewPlayers": 3180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13173,6 +13173,11 @@
       "Time": "2024-01-13T05:09:22.103514+00:00",
       "NumProgressed": 344711,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-13T06:09:14.558619+00:00",
+      "NumProgressed": 344729,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -13193,7 +13198,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10341
+      "UsersEstimate": 10342
     },
     {
       "ID": "S03_OTWA",
@@ -13497,14 +13502,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6894
+      "UsersEstimate": 6895
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 344711,
+      "Progressed": 344729,
       "Completed": 7
     }
   ],
@@ -13512,8 +13517,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-07T09:59:57.3535769+00:00",
-  "LastChanged_Achievements": "2024-01-13T05:09:22.1035136+00:00",
+  "LastChanged_Achievements": "2024-01-13T06:09:14.5586185+00:00",
   "LastUpdate_AppInfo": "2024-01-12T01:46:06.9563131+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:58:13.1712127+00:00",
-  "LastUpdate_Achievements": "2024-01-13T05:09:22.103611+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:58:00.3902023+00:00",
+  "LastUpdate_Achievements": "2024-01-13T06:09:14.5586915+00:00"
 }

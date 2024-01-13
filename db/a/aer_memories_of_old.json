@@ -431,7 +431,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28570,
+  "EOS_Progressed": 28572,
   "EOS_Completed": 527,
   "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 13,
@@ -29281,6 +29281,11 @@
       "Time": "2024-01-13T05:05:42.240727+00:00",
       "NumProgressed": 28570,
       "NumCompleted": 527
+    },
+    {
+      "Time": "2024-01-13T06:05:26.0348798+00:00",
+      "NumProgressed": 28572,
+      "NumCompleted": 527
     }
   ],
   "TotalAchievements": 20,
@@ -29292,7 +29297,7 @@
       "Name": "Cartographer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4571
+      "UsersEstimate": 4572
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -29300,7 +29305,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "EAST_FINISHED",
@@ -29348,7 +29353,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3428
+      "UsersEstimate": 3429
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -29404,7 +29409,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3428
+      "UsersEstimate": 3429
     },
     {
       "ID": "INTRO_FINISHED",
@@ -29412,7 +29417,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 21713
+      "UsersEstimate": 21715
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -29451,15 +29456,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 28570,
+      "Progressed": 28572,
       "Completed": 527
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-11T07:57:26.7354656+00:00",
-  "LastChanged_Achievements": "2024-01-13T05:05:42.2407266+00:00",
+  "LastChanged_Achievements": "2024-01-13T06:05:26.0348795+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.2454847+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:58:24.4636358+00:00",
-  "LastUpdate_Achievements": "2024-01-13T05:05:42.2408982+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:58:10.4472898+00:00",
+  "LastUpdate_Achievements": "2024-01-13T06:05:26.0350389+00:00"
 }

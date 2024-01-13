@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 34,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 375,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -13566,9 +13566,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 62409,
+  "EOS_Progressed": 62410,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1345,
+  "EOS_NewPlayers": 1338,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39046,6 +39046,11 @@
       "Time": "2024-01-13T05:05:49.5140891+00:00",
       "NumProgressed": 62409,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-13T06:05:32.578024+00:00",
+      "NumProgressed": 62410,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -39137,7 +39142,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 36821
+      "UsersEstimate": 36822
     },
     {
       "ID": "CutTree",
@@ -39153,7 +39158,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 34949
+      "UsersEstimate": 34950
     },
     {
       "ID": "DeliveryGrapes",
@@ -39193,7 +39198,7 @@
       "Name": "Plant get enough",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 34949
+      "UsersEstimate": 34950
     },
     {
       "ID": "Harvested",
@@ -39209,7 +39214,7 @@
       "Name": "Own use",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 44310
+      "UsersEstimate": 44311
     },
     {
       "ID": "HorseJumps",
@@ -39257,7 +39262,7 @@
       "Name": "Help me to help you",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 21843
+      "UsersEstimate": 21844
     },
     {
       "ID": "Money",
@@ -39265,7 +39270,7 @@
       "Name": "Hard work pays off",
       "Percentage": 49,
       "XP": 55,
-      "UsersEstimate": 30580
+      "UsersEstimate": 30581
     },
     {
       "ID": "NumBeehives",
@@ -39281,7 +39286,7 @@
       "Name": "I like to switch it up",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 23091
+      "UsersEstimate": 23092
     },
     {
       "ID": "NumPlaceables",
@@ -39297,7 +39302,7 @@
       "Name": "Well-Oiled Machine",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 9361
+      "UsersEstimate": 9362
     },
     {
       "ID": "NumVehiclesLarge",
@@ -39345,7 +39350,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 36197
+      "UsersEstimate": 36198
     },
     {
       "ID": "Stones",
@@ -39400,15 +39405,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 62409,
+      "Progressed": 62410,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2024-01-12T21:59:42.4471269+00:00",
-  "LastChanged_Achievements": "2024-01-13T05:05:49.5140887+00:00",
+  "LastChanged_Achievements": "2024-01-13T06:05:32.5780238+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:56.5163722+00:00",
-  "LastUpdate_Ratings": "2024-01-13T05:00:21.8327966+00:00",
-  "LastUpdate_Achievements": "2024-01-13T05:05:49.5142512+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:59:50.8542311+00:00",
+  "LastUpdate_Achievements": "2024-01-13T06:05:32.5782004+00:00"
 }

@@ -8,7 +8,7 @@ Number of Ratings: 76  (23.09.2022)
 | ---- | ---------- | ----- |
 | Spatula Seeker | 23.00% | ~224 |
 | Sponge Smasher | 23.00% | ~224 |
-| Jellyfish Jam | 21.00% | ~205 |
+| Jellyfish Jam | 22.00% | ~214 |
 | Jellyfishing | 17.00% | ~166 |
 | Time For Tutorial | 14.00% | ~136 |
 | Sweet Victory | 13.00% | ~127 |
@@ -27,11 +27,11 @@ Number of Ratings: 76  (23.09.2022)
 | Keep it Rolling | 7.00% | ~68 |
 | Ultra Spatula Seeker | 7.00% | ~68 |
 | Robot encyclopedia | 6.00% | ~58 |
+| The Small Does Not Rule | 5.00% | ~49 |
 | Ship Shape | 5.00% | ~49 |
 | Shanghaied | 5.00% | ~49 |
 | Kelp Forest of Fear | 5.00% | ~49 |
-| The Small Does Not Rule | 4.00% | ~39 |
-| SpongeBob vs SpongeBob! | 4.00% | ~39 |
+| SpongeBob vs SpongeBob! | 5.00% | ~49 |
 | Sleepy Time | 4.00% | ~39 |
 | Sock Concert | 4.00% | ~39 |
 | Mega Spatula Seeker | 4.00% | ~39 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~10 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 974 (Ranked 297)  
+Progressed: 975 (Ranked 297)  
 Completed: 8 (0.82%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 8 (0.82%) (Ranked 191)
 | 2024-01-10 | 929 | 8 |
 | 2024-01-11 | 954 | 8 |
 | 2024-01-12 | 970 | 8 |
-| 2024-01-13 | 974 | 8 |
+| 2024-01-13 | 975 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 501)  
 Sum: 36 (Ranked 533)  

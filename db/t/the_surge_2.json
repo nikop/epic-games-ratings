@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -300,9 +300,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2579,
+  "EOS_Progressed": 2580,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -4715,6 +4715,11 @@
       "Time": "2024-01-13T01:54:23.7878626+00:00",
       "NumProgressed": 2579,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-13T06:05:54.3950511+00:00",
+      "NumProgressed": 2580,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4742,7 +4747,7 @@
       "Name": "Dead Again",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ACHV_04",
@@ -4766,7 +4771,7 @@
       "Name": "Home Invasion",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "ACHV_07",
@@ -4902,7 +4907,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "ACHV_24",
@@ -4918,7 +4923,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ACHV_26",
@@ -4958,7 +4963,7 @@
       "Name": "Powered Up",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "ACHV_31",
@@ -4988,9 +4993,9 @@
       "ID": "ACHV_34",
       "SetID": "8p5mlmc",
       "Name": "Shocking",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 516
+      "UsersEstimate": 490
     },
     {
       "ID": "ACHV_35",
@@ -5014,7 +5019,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "ACHV_38",
@@ -5030,7 +5035,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "ACHV_40",
@@ -5046,7 +5051,7 @@
       "Name": "Suited and Booted",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "ACHV_42",
@@ -5054,7 +5059,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ACHV_43",
@@ -5181,7 +5186,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2579,
+      "Progressed": 2580,
       "Completed": 13
     }
   ],
@@ -5189,8 +5194,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-07T10:02:57.9512677+00:00",
-  "LastChanged_Achievements": "2024-01-13T05:06:13.1662894+00:00",
+  "LastChanged_Achievements": "2024-01-13T06:05:54.3950507+00:00",
   "LastUpdate_AppInfo": "2024-01-06T17:57:07.4256179+00:00",
-  "LastUpdate_Ratings": "2024-01-13T05:03:03.1042639+00:00",
-  "LastUpdate_Achievements": "2024-01-13T05:06:13.166358+00:00"
+  "LastUpdate_Ratings": "2024-01-13T06:02:57.1475433+00:00",
+  "LastUpdate_Achievements": "2024-01-13T06:05:54.3951051+00:00"
 }

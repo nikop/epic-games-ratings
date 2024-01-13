@@ -709,9 +709,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473765,
+  "EOS_Progressed": 473767,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 335,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28359,6 +28359,11 @@
       "Time": "2024-01-13T05:10:38.8761105+00:00",
       "NumProgressed": 473765,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-13T06:10:27.3031955+00:00",
+      "NumProgressed": 473767,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -28394,7 +28399,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 104228
+      "UsersEstimate": 104229
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -28410,7 +28415,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47376
+      "UsersEstimate": 47377
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -28458,7 +28463,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312685
+      "UsersEstimate": 312686
     },
     {
       "ID": "achievement_story_landa",
@@ -28490,7 +28495,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118441
+      "UsersEstimate": 118442
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -28554,7 +28559,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 161080
+      "UsersEstimate": 161081
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -28826,7 +28831,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184768
+      "UsersEstimate": 184769
     },
     {
       "ID": "achievement_win_run_hard",
@@ -28882,7 +28887,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 104228
+      "UsersEstimate": 104229
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -28922,7 +28927,7 @@
       "Name": "Soldiers of Fortune",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_unlock_pragmah_battleship",
@@ -29001,21 +29006,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17699,
+      "Progressed": 17701,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473765,
+      "Progressed": 473767,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-13T05:10:38.8761103+00:00",
+  "LastChanged_Achievements": "2024-01-13T06:10:27.3031951+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:31.2733774+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:58:26.2686232+00:00",
-  "LastUpdate_Achievements": "2024-01-13T05:10:38.8762856+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:58:12.0120151+00:00",
+  "LastUpdate_Achievements": "2024-01-13T06:10:27.30336+00:00"
 }

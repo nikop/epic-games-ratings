@@ -2,9 +2,9 @@
   "ID": "c62d7481ae1744dab7310c8f4e1e9548",
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236,
+  "EOS_Progressed": 237,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.66,
+  "EOS_Completed_Percentage": 4.64,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -1149,6 +1149,11 @@
       "Time": "2024-01-13T05:06:20.5084015+00:00",
       "NumProgressed": 236,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-13T06:06:01.0168393+00:00",
+      "NumProgressed": 237,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -1199,9 +1204,9 @@
       "ID": "Houby",
       "SetID": "ag48e8e",
       "Name": "Mushrooms",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "Jing",
@@ -1209,7 +1214,7 @@
       "Name": "Jing Jang",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Kamzik",
@@ -1241,7 +1246,7 @@
       "Name": "Knife",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "Kvitky",
@@ -1249,7 +1254,7 @@
       "Name": "Blossoms",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "MluviciPapouch",
@@ -1257,7 +1262,7 @@
       "Name": "Mimicking Parrot",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Myska",
@@ -1313,7 +1318,7 @@
       "Name": "Goldfish",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Sova",
@@ -1329,7 +1334,7 @@
       "Name": "Sleeping Parrot",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Sputnik2",
@@ -1400,14 +1405,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 236,
+      "Progressed": 237,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-13T05:06:20.5084011+00:00",
+  "LastChanged_Achievements": "2024-01-13T06:06:01.0168389+00:00",
   "LastUpdate_AppInfo": "2024-01-06T08:57:05.0455932+00:00",
-  "LastUpdate_Ratings": "2024-01-13T05:03:11.8841667+00:00",
-  "LastUpdate_Achievements": "2024-01-13T05:06:20.508455+00:00"
+  "LastUpdate_Ratings": "2024-01-13T06:03:04.7518932+00:00",
+  "LastUpdate_Achievements": "2024-01-13T06:06:01.0168629+00:00"
 }

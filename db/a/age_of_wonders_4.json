@@ -777,9 +777,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7213,
+  "EOS_Progressed": 7216,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 287,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11152,6 +11152,11 @@
       "Time": "2024-01-13T05:04:26.6244303+00:00",
       "NumProgressed": 7213,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-13T06:04:15.730318+00:00",
+      "NumProgressed": 7216,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11291,7 +11296,7 @@
       "Name": "Secret Technique",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "25",
@@ -11307,7 +11312,7 @@
       "Name": "Bone Peddler",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "27",
@@ -11642,13 +11647,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7213,
+      "Progressed": 7216,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7213,
+      "Progressed": 7216,
       "Completed": 8
     }
   ],
@@ -11656,8 +11661,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-11T22:58:38.2332491+00:00",
-  "LastChanged_Achievements": "2024-01-13T05:04:26.62443+00:00",
+  "LastChanged_Achievements": "2024-01-13T06:04:15.7303175+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:59:31.1641594+00:00",
-  "LastUpdate_Achievements": "2024-01-13T05:04:26.6245261+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:59:06.1196657+00:00",
+  "LastUpdate_Achievements": "2024-01-13T06:04:15.7304111+00:00"
 }

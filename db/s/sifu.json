@@ -8967,9 +8967,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 760099,
+  "EOS_Progressed": 760120,
   "EOS_Completed": 12984,
-  "EOS_NewPlayers": 5013,
+  "EOS_NewPlayers": 4992,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -33567,6 +33567,11 @@
       "Time": "2024-01-13T05:09:53.4609555+00:00",
       "NumProgressed": 760099,
       "NumCompleted": 12984
+    },
+    {
+      "Time": "2024-01-13T06:09:44.7106623+00:00",
+      "NumProgressed": 760120,
+      "NumCompleted": 12984
     }
   ],
   "TotalAchievements": 60,
@@ -33578,7 +33583,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45606
+      "UsersEstimate": 45607
     },
     {
       "ID": "02_Vengeance_H1",
@@ -33586,7 +33591,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30404
+      "UsersEstimate": 30405
     },
     {
       "ID": "03_Vengeance_H2",
@@ -33594,7 +33599,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22803
+      "UsersEstimate": 22804
     },
     {
       "ID": "04_Vengeance_H3",
@@ -33658,7 +33663,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3800
+      "UsersEstimate": 3801
     },
     {
       "ID": "12_MidAge",
@@ -33674,7 +33679,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3800
+      "UsersEstimate": 3801
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -33746,7 +33751,7 @@
       "Name": "Street Fighting",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22803
+      "UsersEstimate": 22804
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -33754,7 +33759,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 38005
+      "UsersEstimate": 38006
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -33762,7 +33767,7 @@
       "Name": "State of constant learning",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22803
+      "UsersEstimate": 22804
     },
     {
       "ID": "25_ShrineMind",
@@ -33786,7 +33791,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22803
+      "UsersEstimate": 22804
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -33794,7 +33799,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 3800
+      "UsersEstimate": 3801
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -33826,7 +33831,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22803
+      "UsersEstimate": 22804
     },
     {
       "ID": "33_BladeOneShot",
@@ -33842,7 +33847,7 @@
       "Name": "Lightning Hands",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38005
+      "UsersEstimate": 38006
     },
     {
       "ID": "35_WideStrike",
@@ -33930,7 +33935,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -33938,7 +33943,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -34057,21 +34062,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 69400,
+      "Progressed": 69421,
       "Completed": 10807
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 760099,
+      "Progressed": 760120,
       "Completed": 12984
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-12T15:03:25.8049852+00:00",
-  "LastChanged_Achievements": "2024-01-13T05:09:53.460955+00:00",
+  "LastChanged_Achievements": "2024-01-13T06:09:44.7106619+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.3871095+00:00",
-  "LastUpdate_Ratings": "2024-01-13T05:03:17.2880491+00:00",
-  "LastUpdate_Achievements": "2024-01-13T05:09:53.4611509+00:00"
+  "LastUpdate_Ratings": "2024-01-13T06:03:10.4963637+00:00",
+  "LastUpdate_Achievements": "2024-01-13T06:09:44.7107947+00:00"
 }

@@ -1,15 +1,15 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.19 (Ranked 976)  
+Rating: 4.19 (Ranked 977)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,312 |
+| First Step Into the Knight | 50.00% | ~41,314 |
 | Har, Har, Har, Very Funny | 34.00% | ~28,093 |
-| Loose Ends | 33.00% | ~27,266 |
+| Loose Ends | 33.00% | ~27,267 |
 | To the Victor Go the Spoils | 27.00% | ~22,309 |
-| Knighthood | 26.00% | ~21,482 |
+| Knighthood | 26.00% | ~21,483 |
 | Get ReQ'd | 24.00% | ~19,830 |
 | Whispered Words | 24.00% | ~19,830 |
 | The Batman Family | 22.00% | ~18,178 |
@@ -19,17 +19,17 @@ Rating: 4.19 (Ranked 976)
 | Working Hard or Harley Working? | 20.00% | ~16,525 |
 | Unstoppable Force | 20.00% | ~16,525 |
 | Bad Apples in Every Orchard | 20.00% | ~16,525 |
-| Snow Problem | 18.00% | ~14,872 |
-| The Show Mud Go On | 17.00% | ~14,046 |
-| From Inside Gotham's Walls | 17.00% | ~14,046 |
+| Snow Problem | 18.00% | ~14,873 |
+| The Show Mud Go On | 17.00% | ~14,047 |
+| From Inside Gotham's Walls | 17.00% | ~14,047 |
 | Protector of Gotham | 16.00% | ~13,220 |
 | In Your Element | 15.00% | ~12,394 |
 | Universal Health Scare | 15.00% | ~12,394 |
 | Rock and a Hard Place | 14.00% | ~11,568 |
 | Cooldown | 14.00% | ~11,568 |
 | Voiceless | 14.00% | ~11,568 |
-| Shock Til They Drop | 13.00% | ~10,741 |
-| Seeking Asylum | 13.00% | ~10,741 |
+| Shock Til They Drop | 13.00% | ~10,742 |
+| Seeking Asylum | 13.00% | ~10,742 |
 | End of an Era | 12.00% | ~9,915 |
 | Not On My Watch | 12.00% | ~9,915 |
 | Bulldozed | 12.00% | ~9,915 |
@@ -45,8 +45,8 @@ Rating: 4.19 (Ranked 976)
 | Dressed to Impress | 4.00% | ~3,305 |
 | A Momentum Occasion | 3.00% | ~2,479 |
 | Bat Out of Hell | 3.00% | ~2,479 |
-| Practice Makes Perfect | 2.00% | ~1,652 |
-| He'd Be So Proud of You | 2.00% | ~1,652 |
+| Practice Makes Perfect | 2.00% | ~1,653 |
+| He'd Be So Proud of You | 2.00% | ~1,653 |
 | Talonted | 1.00% | ~826 |
 | The Man-Bat Family | 1.00% | ~826 |
 | Batarang Collector | 1.00% | ~826 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 976)
 | The Cold, the Bad and the Ugly | 0.30% | ~159 |
 | It's Nice to Be Wanted | 0.20% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,625 (Ranked 110)  
+Progressed: 82,627 (Ranked 110)  
 Completed: 133 (0.16%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,18 +335,18 @@ Completed: 133 (0.16%) (Ranked 288)
 | 2024-01-10 | 82,440 | 133 |
 | 2024-01-11 | 82,506 | 133 |
 | 2024-01-12 | 82,606 | 133 |
-| 2024-01-13 | 82,625 | 133 |
+| 2024-01-13 | 82,627 | 133 |
 ## Awards
 Max (Great Boss Battles): 3,189  (Ranked 101)  
-Sum: 5,444 (Ranked 142)  
-Diff (max vs sum): -41  
+Sum: 5,448 (Ranked 141)  
+Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,189 |
 | This game has Diverse Characters | 290 |
+| This game is Relaxing | 289 |
 | This game is Great for Beginners | 288 |
 | This game is Extremely Fun | 287 |
-| This game is Relaxing | 285 |
 | This game has Quickly Understood Controls | 279 |
 | This game has Amazing Characters | 278 |
 | This game has Amazing Storytelling | 278 |
@@ -676,3 +676,4 @@ Diff (max vs sum): -41
 | 2024-01-10 | 4.19 | 3,172 | 5,420 |
 | 2024-01-11 | 4.19 | 3,177 | 5,425 |
 | 2024-01-12 | 4.19 | 3,189 | 5,444 |
+| 2024-01-13 | 4.19 | 3,189 | 5,448 |

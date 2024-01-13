@@ -4,7 +4,7 @@
   "ProductSlug": "the-hidden-room-1a63ec",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7473,
+  "EOS_Progressed": 7474,
   "EOS_Completed": 69,
   "EOS_NewPlayers": 471,
   "EOS_NewCompleters": 6,
@@ -8089,6 +8089,11 @@
       "Time": "2024-01-13T05:04:38.6937675+00:00",
       "NumProgressed": 7473,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2024-01-13T06:04:26.7738721+00:00",
+      "NumProgressed": 7474,
+      "NumCompleted": 69
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -8125,7 +8130,7 @@
       "Name": "Unlock the gate",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 2391
+      "UsersEstimate": 2392
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_PC",
@@ -8228,14 +8233,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 7473,
+      "Progressed": 7474,
       "Completed": 69
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-13T05:04:38.693767+00:00",
+  "LastChanged_Achievements": "2024-01-13T06:04:26.7738718+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:18.8161236+00:00",
-  "LastUpdate_Ratings": "2024-01-13T05:00:40.5556066+00:00",
-  "LastUpdate_Achievements": "2024-01-13T05:04:38.6938254+00:00"
+  "LastUpdate_Ratings": "2024-01-13T06:00:07.1401281+00:00",
+  "LastUpdate_Achievements": "2024-01-13T06:04:26.7739264+00:00"
 }

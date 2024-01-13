@@ -3,11 +3,11 @@
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 959,
-  "Ranking_Popularity": 350,
+  "Ranking_Popularity": 351,
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1410,9 +1410,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33270,
+  "EOS_Progressed": 33273,
   "EOS_Completed": 87,
-  "EOS_NewPlayers": 653,
+  "EOS_NewPlayers": 649,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -30255,6 +30255,11 @@
       "Time": "2024-01-13T05:10:19.113805+00:00",
       "NumProgressed": 33270,
       "NumCompleted": 87
+    },
+    {
+      "Time": "2024-01-13T06:10:08.4836789+00:00",
+      "NumProgressed": 33273,
+      "NumCompleted": 87
     }
   ],
   "TotalAchievements": 22,
@@ -30362,7 +30367,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2994
+      "UsersEstimate": 2995
     },
     {
       "ID": "1028",
@@ -30386,7 +30391,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6321
+      "UsersEstimate": 6322
     },
     {
       "ID": "1031",
@@ -30402,7 +30407,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13308
+      "UsersEstimate": 13309
     },
     {
       "ID": "1033",
@@ -30426,7 +30431,7 @@
       "Name": "Royal Fleet",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 3992
+      "UsersEstimate": 3993
     },
     {
       "ID": "1036",
@@ -30441,15 +30446,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33270,
+      "Progressed": 33273,
       "Completed": 87
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-12T22:58:53.3427917+00:00",
-  "LastChanged_Achievements": "2024-01-13T05:10:19.1138045+00:00",
+  "LastChanged_Achievements": "2024-01-13T06:10:08.4836785+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:53.1129394+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:59:04.213214+00:00",
-  "LastUpdate_Achievements": "2024-01-13T05:10:19.1139777+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:58:42.2837162+00:00",
+  "LastUpdate_Achievements": "2024-01-13T06:10:08.4838467+00:00"
 }

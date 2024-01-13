@@ -267,9 +267,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 16939,
+  "EOS_Progressed": 16941,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1313,
+  "EOS_NewPlayers": 1301,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12037,6 +12037,11 @@
       "Time": "2024-01-13T05:04:21.7263374+00:00",
       "NumProgressed": 16939,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-13T06:04:11.3560177+00:00",
+      "NumProgressed": 16941,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12048,7 +12053,7 @@
       "Name": "Start with a bang!",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 9147
+      "UsersEstimate": 9148
     },
     {
       "ID": "Ach002",
@@ -12056,7 +12061,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 6098
+      "UsersEstimate": 6099
     },
     {
       "ID": "Ach003",
@@ -12072,7 +12077,7 @@
       "Name": "The Negotiator",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 2710
+      "UsersEstimate": 2711
     },
     {
       "ID": "Ach005",
@@ -12096,7 +12101,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "Ach008",
@@ -12176,7 +12181,7 @@
       "Name": "I play my own way!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 4065
+      "UsersEstimate": 4066
     },
     {
       "ID": "Ach018",
@@ -12208,7 +12213,7 @@
       "Name": "I have to read these things?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "Ach022",
@@ -12224,7 +12229,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 9316
+      "UsersEstimate": 9318
     },
     {
       "ID": "Ach024",
@@ -12248,7 +12253,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2371
+      "UsersEstimate": 2372
     },
     {
       "ID": "Ach027",
@@ -12448,7 +12453,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8300
+      "UsersEstimate": 8301
     },
     {
       "ID": "Ach052",
@@ -12615,13 +12620,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 16939,
+      "Progressed": 16941,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15460,
+      "Progressed": 15462,
       "Completed": 1931
     }
   ],
@@ -12629,8 +12634,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-12T13:03:48.8797963+00:00",
-  "LastChanged_Achievements": "2024-01-13T05:04:21.726337+00:00",
+  "LastChanged_Achievements": "2024-01-13T06:04:11.3560173+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:39.1696862+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:58:33.6980972+00:00",
-  "LastUpdate_Achievements": "2024-01-13T05:04:21.7264488+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:58:20.7649861+00:00",
+  "LastUpdate_Achievements": "2024-01-13T06:04:11.3561161+00:00"
 }

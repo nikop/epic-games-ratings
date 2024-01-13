@@ -2,9 +2,9 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 976,
+  "Ranking_Rating": 977,
   "Ranking_Popularity": 101,
-  "Ranking_PopularitySum": 142,
+  "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 108,
@@ -5163,10 +5163,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 5444,
       "NumberOfAwardsMax": 3189
+    },
+    {
+      "Time": "2024-01-13T05:57:37.2756979+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 5448,
+      "NumberOfAwardsMax": 3189
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5444,
+  "NumberOfAwards": 5448,
   "NumberOfAwardsMax": 3189,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5210,7 +5216,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 285
+      "Count": 289
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5231,9 +5237,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82625,
+  "EOS_Progressed": 82627,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 968,
+  "EOS_NewPlayers": 963,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30016,6 +30022,11 @@
       "Time": "2024-01-13T05:08:23.3189929+00:00",
       "NumProgressed": 82625,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2024-01-13T06:06:21.2421654+00:00",
+      "NumProgressed": 82627,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 61,
@@ -30099,7 +30110,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "ALL_VILLAIN",
@@ -30139,7 +30150,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 14046
+      "UsersEstimate": 14047
     },
     {
       "ID": "CLAYFACE_3",
@@ -30235,7 +30246,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10741
+      "UsersEstimate": 10742
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -30267,7 +30278,7 @@
       "Name": "Snow Problem",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 14872
+      "UsersEstimate": 14873
     },
     {
       "ID": "FREEZE_3",
@@ -30371,7 +30382,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41312
+      "UsersEstimate": 41314
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -30379,7 +30390,7 @@
       "Name": "He\u0027d Be So Proud of You",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "HERO_PROGRESSION_3",
@@ -30403,7 +30414,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21482
+      "UsersEstimate": 21483
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -30419,7 +30430,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27266
+      "UsersEstimate": 27267
     },
     {
       "ID": "MYSTERY_02",
@@ -30451,7 +30462,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 14046
+      "UsersEstimate": 14047
     },
     {
       "ID": "MYSTERY_06",
@@ -30467,7 +30478,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10741
+      "UsersEstimate": 10742
     },
     {
       "ID": "MYSTERY_08",
@@ -30514,22 +30525,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82625,
+      "Progressed": 82627,
       "Completed": 133
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 52905,
+      "Progressed": 52907,
       "Completed": 2679
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2024-01-12T18:57:45.9696333+00:00",
-  "LastChanged_Achievements": "2024-01-13T05:08:23.3189923+00:00",
+  "LastChanged": "2024-01-13T05:57:37.2756977+00:00",
+  "LastChanged_Achievements": "2024-01-13T06:06:21.2421649+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:43.7132471+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:57:47.5538013+00:00",
-  "LastUpdate_Achievements": "2024-01-13T05:08:23.3191259+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:57:37.2756982+00:00",
+  "LastUpdate_Achievements": "2024-01-13T06:06:21.2423366+00:00"
 }

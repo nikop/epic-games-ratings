@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2228,
+  "EOS_Progressed": 2229,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8596,6 +8596,11 @@
       "Time": "2024-01-13T00:04:40.4725948+00:00",
       "NumProgressed": 2228,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T06:04:01.565822+00:00",
+      "NumProgressed": 2229,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8845,9 +8850,9 @@
       "ID": "objective_multiple_barracks_1",
       "SetID": "bm61c2p",
       "Name": "Infantry Reporting",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 223
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -8910,7 +8915,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2228,
+      "Progressed": 2229,
       "Completed": 1
     }
   ],
@@ -8918,8 +8923,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-01-12T17:58:59.9146024+00:00",
-  "LastChanged_Achievements": "2024-01-13T05:04:11.2109699+00:00",
+  "LastChanged_Achievements": "2024-01-13T06:04:01.5658214+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:28.5639018+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:59:39.1278452+00:00",
-  "LastUpdate_Achievements": "2024-01-13T05:04:11.2110493+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:59:12.9875097+00:00",
+  "LastUpdate_Achievements": "2024-01-13T06:04:01.5658792+00:00"
 }

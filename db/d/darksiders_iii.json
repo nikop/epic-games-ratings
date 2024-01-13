@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -2223,9 +2223,9 @@
       "ID": "Collect_HealthStone_HealUpgrade_1",
       "SetID": "7a5k76n",
       "Name": "Increased Vigor",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 351
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_4",
@@ -2327,9 +2327,9 @@
       "ID": "Craft_Enhancement_First",
       "SetID": "7a5k76n",
       "Name": "Enhance!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 242
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -2647,9 +2647,9 @@
       "ID": "Upgrade_Weapon_First",
       "SetID": "7a5k76n",
       "Name": "Just the start",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 288
     },
     {
       "ID": "Upgrade_Weapon_Max",
@@ -2671,8 +2671,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-11T19:59:53.1108333+00:00",
-  "LastChanged_Achievements": "2024-01-13T05:06:11.7328109+00:00",
+  "LastChanged_Achievements": "2024-01-13T06:05:53.0114619+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:59:45.4917879+00:00",
-  "LastUpdate_Achievements": "2024-01-13T05:06:11.7328722+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:59:18.7562378+00:00",
+  "LastUpdate_Achievements": "2024-01-13T06:05:53.0115172+00:00"
 }

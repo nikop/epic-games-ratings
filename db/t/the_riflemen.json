@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69575,
+  "EOS_Progressed": 69599,
   "EOS_Completed": 11760,
-  "EOS_NewPlayers": 4072,
+  "EOS_NewPlayers": 4079,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 16.9,
   "EosHistory": [
@@ -16440,6 +16440,11 @@
       "Time": "2024-01-13T05:09:52.5666475+00:00",
       "NumProgressed": 69575,
       "NumCompleted": 11760
+    },
+    {
+      "Time": "2024-01-13T06:09:43.6480205+00:00",
+      "NumProgressed": 69599,
+      "NumCompleted": 11760
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -16460,7 +16465,7 @@
       "Name": "First blood",
       "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 52181
+      "UsersEstimate": 52199
     },
     {
       "ID": "grenadeKills",
@@ -16476,7 +16481,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2783
+      "UsersEstimate": 2784
     },
     {
       "ID": "headshots1000",
@@ -16532,7 +16537,7 @@
       "Name": "Rifle Master",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "shotgunKills",
@@ -16563,7 +16568,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 69575,
+      "Progressed": 69599,
       "Completed": 11760
     }
   ],
@@ -16571,8 +16576,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2024-01-06T23:59:09.4867908+00:00",
-  "LastChanged_Achievements": "2024-01-13T05:09:52.5666467+00:00",
+  "LastChanged_Achievements": "2024-01-13T06:09:43.6480201+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.275557+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:58:13.9077529+00:00",
-  "LastUpdate_Achievements": "2024-01-13T05:09:52.5667392+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:58:01.0286473+00:00",
+  "LastUpdate_Achievements": "2024-01-13T06:09:43.6481068+00:00"
 }

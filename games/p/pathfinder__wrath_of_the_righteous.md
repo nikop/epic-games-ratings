@@ -1,7 +1,7 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 131)  
+Rating: 4.76 (Ranked 132)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,251 (Ranked 178)  
+Progressed: 13,252 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -391,7 +391,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-10 | 13,227 | 0 |
 | 2024-01-11 | 13,243 | 0 |
 | 2024-01-12 | 13,249 | 0 |
-| 2024-01-13 | 13,251 | 0 |
+| 2024-01-13 | 13,252 | 0 |
 ## Awards
 Max (Character Customization): 1,784  (Ranked 130)  
 Sum: 7,222 (Ranked 127)  
