@@ -16,12 +16,12 @@ Number of Ratings: 20  (23.09.2022)
 | Spooky! | 38.00% | ~163 |
 | Treasure Hunt | 36.00% | ~154 |
 | Shennong Herbalist | 35.00% | ~150 |
+| Good Mama | 33.00% | ~142 |
 | O Captain My Captain | 32.00% | ~137 |
-| Good Mama | 32.00% | ~137 |
 | Plunderer | 30.00% | ~129 |
 | Taxonomist | 27.00% | ~116 |
 | Traveller | 26.00% | ~112 |
-| Uncertain Loyalties | 24.00% | ~103 |
+| Uncertain Loyalties | 25.00% | ~107 |
 | Roll to Save | 23.00% | ~99 |
 | Nahua Seeker | 23.00% | ~99 |
 | Veteran Explorer | 22.00% | ~94 |

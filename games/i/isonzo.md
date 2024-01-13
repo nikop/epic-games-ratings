@@ -10,7 +10,7 @@ Number of Ratings: 98  (23.09.2022)
 | Tutti Eroi! | 50.00% | ~4,958 |
 | Peak Performance | 45.00% | ~4,462 |
 | Avanti Savoia! | 44.00% | ~4,363 |
-| Mamma Mia! | 35.00% | ~3,470 |
+| Mamma Mia! | 35.00% | ~3,471 |
 | Gabriele D'Annunzio | 32.00% | ~3,173 |
 | Conrad von Hotzensocks | 31.00% | ~3,074 |
 | Silver Lining | 27.00% | ~2,677 |
@@ -21,7 +21,7 @@ Number of Ratings: 98  (23.09.2022)
 | The Italian Job | 19.00% | ~1,884 |
 | Veni Vidi Vici | 19.00% | ~1,884 |
 | Ragazzi del '99 | 17.00% | ~1,686 |
-| Luigi Cadorna | 16.00% | ~1,586 |
+| Luigi Cadorna | 16.00% | ~1,587 |
 | The Lion of the Isonzo | 14.00% | ~1,388 |
 | Uomo Universale | 13.00% | ~1,289 |
 | Die Bosniaken Kommen! | 12.00% | ~1,190 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~40 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,915 (Ranked 184)  
+Progressed: 9,916 (Ranked 184)  
 Completed: 10 (0.10%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,14 +314,14 @@ Completed: 10 (0.10%) (Ranked 315)
 | 2024-01-10 | 9,889 | 10 |
 | 2024-01-11 | 9,904 | 10 |
 | 2024-01-12 | 9,913 | 10 |
-| 2024-01-13 | 9,915 | 10 |
+| 2024-01-13 | 9,916 | 10 |
 ## Awards
-Max (Diverse Characters): 43  (Ranked 479)  
-Sum: 339 (Ranked 372)  
+Max (Diverse Characters): 44  (Ranked 479)  
+Sum: 340 (Ranked 372)  
 Diff (max vs sum): 107  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 43 |
+| This game has Diverse Characters | 44 |
 | This game is Highly Recommended | 38 |
 | This game has Realistic Visuals | 37 |
 | This game is Extremely Fun | 36 |
@@ -479,3 +479,4 @@ Diff (max vs sum): 107
 | 2024-01-02 | 4.58 | - | 41 | 337 |
 | 2024-01-04 | 4.58 | - | 42 | 338 |
 | 2024-01-06 | 4.58 | - | 43 | 339 |
+| 2024-01-13 | 4.58 | - | 44 | 340 |

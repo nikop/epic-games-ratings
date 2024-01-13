@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -686,9 +686,9 @@
       "ID": "Professions",
       "SetID": "7m88n8p",
       "Name": "Different People Specialize in Different Professions",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ProtectedPower",
@@ -710,25 +710,25 @@
       "ID": "SeeNoEvil",
       "SetID": "7m88n8p",
       "Name": "See No Evil",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "SeeingThrough",
       "SetID": "7m88n8p",
       "Name": "Seeing through Vanity",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 65,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "TimeManagement",
       "SetID": "7m88n8p",
       "Name": "Master of Time Management",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "WaitingForSalvation",
@@ -757,8 +757,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2024-01-13T06:06:19.7106256+00:00",
+  "LastChanged_Achievements": "2024-01-13T07:06:44.1041363+00:00",
   "LastUpdate_AppInfo": "2024-01-08T15:56:55.2153552+00:00",
-  "LastUpdate_Ratings": "2024-01-13T05:59:47.8037736+00:00",
-  "LastUpdate_Achievements": "2024-01-13T06:06:19.7106422+00:00"
+  "LastUpdate_Ratings": "2024-01-13T07:00:19.2959585+00:00",
+  "LastUpdate_Achievements": "2024-01-13T07:06:44.1041552+00:00"
 }

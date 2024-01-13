@@ -6,17 +6,17 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,049 |
+| Malpractice Assurance | 14.00% | ~1,050 |
 | Autodidact | 8.00% | ~10,610 |
-| Lost and Found | 8.00% | ~599 |
-| This Belongs in a Museum | 7.00% | ~9,283 |
-| This guy... again? | 7.00% | ~524 |
-| Serenity Now! | 6.00% | ~7,957 |
-| Creep and Sleep | 6.00% | ~7,957 |
-| Overdue Notice | 6.00% | ~7,957 |
-| Escape from the Black Hole | 6.00% | ~7,957 |
-| Ploughshares to Swords | 6.00% | ~449 |
-| Bloody Graduation | 6.00% | ~449 |
+| Lost and Found | 8.00% | ~600 |
+| This Belongs in a Museum | 7.00% | ~9,284 |
+| This guy... again? | 7.00% | ~525 |
+| Serenity Now! | 6.00% | ~7,958 |
+| Creep and Sleep | 6.00% | ~7,958 |
+| Overdue Notice | 6.00% | ~7,958 |
+| Escape from the Black Hole | 6.00% | ~7,958 |
+| Ploughshares to Swords | 6.00% | ~450 |
+| Bloody Graduation | 6.00% | ~450 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,631 |
 | It Rings a Bell | 5.00% | ~6,631 |
 | Not Today! | 5.00% | ~6,631 |
@@ -29,6 +29,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 5.00% | ~6,631 |
 | Unfulfilled Desires | 4.00% | ~5,305 |
 | Dissector | 4.00% | ~5,305 |
+| Banishment | 4.00% | ~5,305 |
 | Spelunker | 4.00% | ~5,305 |
 | Merry Time | 4.00% | ~5,305 |
 | Harvest Festival | 4.00% | ~5,305 |
@@ -45,7 +46,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Boxcar Kid | 3.00% | ~3,979 |
 | Hope Rekindled | 3.00% | ~3,979 |
 | Predator | 3.00% | ~3,979 |
-| Banishment | 3.00% | ~3,979 |
 | Deprogramming | 3.00% | ~3,979 |
 | Now Stay Dead | 3.00% | ~3,979 |
 | Reverse Banditry | 3.00% | ~3,979 |
@@ -53,13 +53,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | When You Want Something Done Right | 3.00% | ~3,979 |
 | Utopia | 3.00% | ~3,979 |
 | Road Trip | 3.00% | ~3,979 |
-| This Looks Familiar | 2.00% | ~2,652 |
-| Ichthyophobic | 2.00% | ~2,652 |
-| No More Mouths to Feed | 2.00% | ~2,652 |
-| Worldly Traveller | 2.00% | ~2,652 |
-| Hot Air | 2.00% | ~2,652 |
-| Eyes Up | 2.00% | ~2,652 |
-| Handled | 2.00% | ~2,652 |
+| This Looks Familiar | 2.00% | ~2,653 |
+| Ichthyophobic | 2.00% | ~2,653 |
+| No More Mouths to Feed | 2.00% | ~2,653 |
+| Worldly Traveller | 2.00% | ~2,653 |
+| Hot Air | 2.00% | ~2,653 |
+| Eyes Up | 2.00% | ~2,653 |
+| Handled | 2.00% | ~2,653 |
 | Clearing the Ledger | 1.00% | ~1,326 |
 | Hat Trick | 1.00% | ~1,326 |
 | Shrine of Reflection | 1.00% | ~1,326 |
@@ -74,7 +74,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Bacon Bits | 0.60% | ~796 |
 | On This Long Road, We Found Redemption | 0.60% | ~45 |
 | Eidetic | 0.50% | ~663 |
-| Tears in the Rain | 0.40% | ~530 |
+| Tears in the Rain | 0.40% | ~531 |
 | Battle Hardened | 0.40% | ~30 |
 | Maître De La Lame | 0.40% | ~30 |
 | Grand Slam | 0.30% | ~398 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,621 (Ranked 91)  
+Progressed: 132,628 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 4 (0.00%) (Ranked 399)
 | 2024-01-10 | 132,395 | 4 |
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
-| 2024-01-13 | 132,621 | 4 |
+| 2024-01-13 | 132,628 | 4 |
 ## Awards
 Max (Character Customization): 8,007  (Ranked 51)  
 Sum: 21,612 (Ranked 58)  

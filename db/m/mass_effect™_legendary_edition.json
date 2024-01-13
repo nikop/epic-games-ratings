@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4246,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -8089,9 +8089,9 @@
       "ID": "achievement_100",
       "SetID": "d252ncf",
       "Name": "A Personal Touch",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 892
+      "UsersEstimate": 934
     },
     {
       "ID": "achievement_101",
@@ -8281,9 +8281,9 @@
       "ID": "achievement_122",
       "SetID": "d252ncf",
       "Name": "Paramour III",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 255
+      "UsersEstimate": 297
     },
     {
       "ID": "achievement_123",
@@ -8625,9 +8625,9 @@
       "ID": "achievement_47",
       "SetID": "d252ncf",
       "Name": "The Justicar",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 934
+      "UsersEstimate": 977
     },
     {
       "ID": "achievement_48",
@@ -8945,9 +8945,9 @@
       "ID": "achievement_83",
       "SetID": "d252ncf",
       "Name": "Pathfinder",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 679
+      "UsersEstimate": 722
     },
     {
       "ID": "achievement_84",
@@ -9101,8 +9101,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-13T06:10:29.4477001+00:00",
+  "LastChanged_Achievements": "2024-01-13T07:10:21.2086429+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:59:00.5356746+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:03:22.8371025+00:00",
-  "LastUpdate_Achievements": "2024-01-13T06:10:29.4478704+00:00"
+  "LastUpdate_Ratings": "2024-01-13T07:03:40.7197565+00:00",
+  "LastUpdate_Achievements": "2024-01-13T07:10:21.2088152+00:00"
 }

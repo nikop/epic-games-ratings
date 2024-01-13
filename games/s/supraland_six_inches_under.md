@@ -34,7 +34,7 @@ Number of Ratings: 209  (23.09.2022)
 | Ripped | 84.00% | ~2,045 |
 | Beat the big arena | 82.00% | ~1,997 |
 | Force Cube | 82.00% | ~1,997 |
-| Got Battery | 80.00% | ~1,948 |
+| Got Battery | 81.00% | ~1,972 |
 | Guard Distracted | 80.00% | ~1,948 |
 | Translocator | 80.00% | ~1,948 |
 | Inner Peace | 78.00% | ~1,899 |
@@ -297,8 +297,8 @@ Completed: 296 (12.16%) (Ranked 38)
 | 2024-01-12 | 2,435 | 296 |
 ## Awards
 Max (Challenging Puzzles): 109  (Ranked 368)  
-Sum: 109 (Ranked 468)  
-Diff (max vs sum): -100  
+Sum: 109 (Ranked 469)  
+Diff (max vs sum): -101  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 109 |

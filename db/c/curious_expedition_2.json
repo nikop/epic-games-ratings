@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -1128,9 +1128,9 @@
       "ID": "ach-paleMask-party",
       "SetID": "17ih7ma",
       "Name": "Uncertain Loyalties",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 107
     },
     {
       "ID": "ach-portal-return",
@@ -1152,9 +1152,9 @@
       "ID": "ach-raiseDino",
       "SetID": "17ih7ma",
       "Name": "Good Mama",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 142
     },
     {
       "ID": "ach-redElk",
@@ -1249,8 +1249,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-13T06:10:25.8953455+00:00",
+  "LastChanged_Achievements": "2024-01-13T07:10:17.8792502+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:11.9345433+00:00",
-  "LastUpdate_Ratings": "2024-01-13T05:57:18.9191322+00:00",
-  "LastUpdate_Achievements": "2024-01-13T06:10:25.8953849+00:00"
+  "LastUpdate_Ratings": "2024-01-13T06:57:46.4158336+00:00",
+  "LastUpdate_Achievements": "2024-01-13T07:10:17.8793052+00:00"
 }

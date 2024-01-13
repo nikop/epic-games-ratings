@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3912,7 +3912,7 @@
   ],
   "EOS_Progressed": 242854,
   "EOS_Completed": 305,
-  "EOS_NewPlayers": 414,
+  "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32246,9 +32246,9 @@
       "ID": "MULTEXPLOSIONS",
       "SetID": "5l8oe0h",
       "Name": "Chain Reaction",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 971
+      "UsersEstimate": 1214
     },
     {
       "ID": "MULTIKILL30",
@@ -32286,9 +32286,9 @@
       "ID": "PARRY50TIMES",
       "SetID": "5l8oe0h",
       "Name": "Deflection",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2429
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -32773,8 +32773,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-12T05:59:51.3980392+00:00",
-  "LastChanged_Achievements": "2024-01-13T06:10:29.3662935+00:00",
+  "LastChanged_Achievements": "2024-01-13T07:10:21.0551045+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-13T05:59:21.5254256+00:00",
-  "LastUpdate_Achievements": "2024-01-13T06:10:29.3665435+00:00"
+  "LastUpdate_Ratings": "2024-01-13T06:59:51.6964124+00:00",
+  "LastUpdate_Achievements": "2024-01-13T07:10:21.05536+00:00"
 }

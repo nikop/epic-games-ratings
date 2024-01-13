@@ -8,8 +8,8 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Taste | 4.00% | ~6,717 |
 | Imprint | 4.00% | ~6,717 |
-| The Hunt | 3.00% | ~5,037 |
-| Ravenous | 3.00% | ~5,037 |
+| The Hunt | 3.00% | ~5,038 |
+| Ravenous | 3.00% | ~5,038 |
 | Weeper | 2.00% | ~3,358 |
 | Harmless | 1.00% | ~1,679 |
 | Silenced Whispers | 1.00% | ~1,679 |
@@ -21,11 +21,11 @@ Number of Ratings: 46  (23.09.2022)
 | Feast | 0.80% | ~1,343 |
 | Jawstag | 0.70% | ~1,175 |
 | Watcher | 0.70% | ~1,175 |
-| Shapely | 0.60% | ~1,007 |
+| Shapely | 0.60% | ~1,008 |
 | Glare | 0.60% | ~1,005 |
-| Predator | 0.60% | ~1,007 |
+| Predator | 0.60% | ~1,008 |
 | Assimilation | 0.50% | ~840 |
-| Host | 0.50% | ~837 |
+| Host | 0.50% | ~838 |
 | Celebration | 0.50% | ~840 |
 | Hunt Down | 0.40% | ~672 |
 | Inevitable | 0.40% | ~672 |
@@ -48,12 +48,12 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.10% | ~168 |
 | Weakness | 0.10% | ~168 |
 | Generous | 0.10% | ~168 |
-| The Nightmare | 0.10% | ~167 |
-| Touch of Otherwhere | 0.10% | ~167 |
-| Enrich | 0.10% | ~167 |
-| Intensify | 0.10% | ~167 |
+| The Nightmare | 0.10% | ~168 |
+| Touch of Otherwhere | 0.10% | ~168 |
+| Enrich | 0.10% | ~168 |
+| Intensify | 0.10% | ~168 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 167,916 (Ranked 84)  
+Progressed: 167,923 (Ranked 84)  
 Completed: 456 (0.27%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 456 (0.27%) (Ranked 264)
 | 2024-01-10 | 167,592 | 454 |
 | 2024-01-11 | 167,713 | 455 |
 | 2024-01-12 | 167,856 | 456 |
-| 2024-01-13 | 167,916 | 456 |
+| 2024-01-13 | 167,923 | 456 |
 ## Awards
 Max (Highly Recommended): 62  (Ranked 433)  
 Sum: 459 (Ranked 342)  

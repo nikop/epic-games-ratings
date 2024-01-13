@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -7368,9 +7368,9 @@
       "ID": "achTopSpeed120",
       "SetID": "dgl390n",
       "Name": "High speed",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 937
+      "UsersEstimate": 962
     },
     {
       "ID": "achTopSpeed300",
@@ -7432,8 +7432,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2024-01-07T21:03:10.1496131+00:00",
-  "LastChanged_Achievements": "2024-01-13T06:09:33.0663863+00:00",
+  "LastChanged_Achievements": "2024-01-13T07:09:25.0649612+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:39.8048245+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:03:03.2767733+00:00",
-  "LastUpdate_Achievements": "2024-01-13T06:09:33.066489+00:00"
+  "LastUpdate_Ratings": "2024-01-13T07:03:21.7519455+00:00",
+  "LastUpdate_Achievements": "2024-01-13T07:09:25.0650531+00:00"
 }

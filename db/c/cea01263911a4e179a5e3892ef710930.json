@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 93109,
+  "EOS_Progressed": 93110,
   "EOS_Completed": 338,
-  "EOS_NewPlayers": 675,
+  "EOS_NewPlayers": 672,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -17731,6 +17731,11 @@
       "Time": "2024-01-13T06:04:31.9702543+00:00",
       "NumProgressed": 93109,
       "NumCompleted": 338
+    },
+    {
+      "Time": "2024-01-13T07:04:55.8625988+00:00",
+      "NumProgressed": 93110,
+      "NumCompleted": 338
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -17743,7 +17748,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 74487
+      "UsersEstimate": 74488
     },
     {
       "ID": "grp_beet",
@@ -17759,7 +17764,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 71694
+      "UsersEstimate": 71695
     },
     {
       "ID": "grp_endless",
@@ -17783,7 +17788,7 @@
       "Name": "Play Free Bird",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 23277
+      "UsersEstimate": 23278
     },
     {
       "ID": "grp_level10",
@@ -17791,7 +17796,7 @@
       "Name": "Level 10!",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 4655
+      "UsersEstimate": 4656
     },
     {
       "ID": "grp_level20",
@@ -17847,7 +17852,7 @@
       "Name": "As the dodo flies",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 44692
+      "UsersEstimate": 44693
     },
     {
       "ID": "grp_stone",
@@ -17878,7 +17883,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 93109,
+      "Progressed": 93110,
       "Completed": 338
     }
   ],
@@ -17886,8 +17891,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2024-01-11T13:59:21.7305428+00:00",
-  "LastChanged_Achievements": "2024-01-13T06:04:31.9702538+00:00",
+  "LastChanged_Achievements": "2024-01-13T07:04:55.8625983+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:12.4453179+00:00",
-  "LastUpdate_Ratings": "2024-01-13T05:59:37.837106+00:00",
-  "LastUpdate_Achievements": "2024-01-13T06:04:31.9703369+00:00"
+  "LastUpdate_Ratings": "2024-01-13T07:00:09.1990445+00:00",
+  "LastUpdate_Achievements": "2024-01-13T07:04:55.8627042+00:00"
 }

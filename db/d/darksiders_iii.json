@@ -4,11 +4,11 @@
   "ProductSlug": "darksiders3",
   "Ranking_Rating": 658,
   "Ranking_Popularity": 384,
-  "Ranking_PopularitySum": 471,
+  "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -488,7 +488,7 @@
   ],
   "EOS_Progressed": 575,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2239,9 +2239,9 @@
       "ID": "Collect_Hollow_Flame",
       "SetID": "7a5k76n",
       "Name": "Fight Fire with Fire",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 339
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -2287,9 +2287,9 @@
       "ID": "Collect_PickUp_500",
       "SetID": "7a5k76n",
       "Name": "Cleanup Crew",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 144
     },
     {
       "ID": "Collect_Soulmulet",
@@ -2671,8 +2671,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-11T19:59:53.1108333+00:00",
-  "LastChanged_Achievements": "2024-01-13T06:05:53.0114619+00:00",
+  "LastChanged_Achievements": "2024-01-13T07:06:17.9147333+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-13T05:59:18.7562378+00:00",
-  "LastUpdate_Achievements": "2024-01-13T06:05:53.0115172+00:00"
+  "LastUpdate_Ratings": "2024-01-13T06:59:48.9544379+00:00",
+  "LastUpdate_Achievements": "2024-01-13T07:06:17.9147831+00:00"
 }

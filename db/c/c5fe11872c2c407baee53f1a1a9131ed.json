@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 502,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
     "PcReleaseDate": "2016-11-11T05:00:00+00:00",
@@ -891,9 +891,9 @@
       "ID": "ach_endless_c_60",
       "SetID": "5a4225j",
       "Name": "Endless Cursed 60 Seconds",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_endless_h_30",
@@ -1018,8 +1018,8 @@
   ],
   "FirstSeen": "2023-09-27T14:59:58.9719434+00:00",
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2024-01-13T06:06:12.565457+00:00",
+  "LastChanged_Achievements": "2024-01-13T07:06:37.064034+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:11.79685+00:00",
-  "LastUpdate_Ratings": "2024-01-13T05:57:17.8955053+00:00",
-  "LastUpdate_Achievements": "2024-01-13T06:06:12.5654993+00:00"
+  "LastUpdate_Ratings": "2024-01-13T06:57:45.4295133+00:00",
+  "LastUpdate_Achievements": "2024-01-13T07:06:37.0640609+00:00"
 }

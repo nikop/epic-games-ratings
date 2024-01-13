@@ -45,14 +45,14 @@
 | Driven | 24.00% | ~1,019 |
 | Ghost Ship | 23.00% | ~977 |
 | The Assassin | 23.00% | ~977 |
+| The Justicar | 23.00% | ~977 |
 | The Quarian | 23.00% | ~977 |
-| The Justicar | 22.00% | ~934 |
+| A Personal Touch | 22.00% | ~934 |
 | Ghost of the Father | 22.00% | ~934 |
 | The Prodigal | 22.00% | ~934 |
 | Galactic Explorer | 22.00% | ~934 |
 | Bringer of War | 22.00% | ~934 |
 | Shopaholic | 22.00% | ~934 |
-| A Personal Touch | 21.00% | ~892 |
 | Archivist | 21.00% | ~892 |
 | Battlemaster | 21.00% | ~892 |
 | Catharsis | 21.00% | ~892 |
@@ -79,10 +79,10 @@
 | First Aid Specialist | 18.00% | ~764 |
 | A House Divided | 18.00% | ~764 |
 | World Shaker | 18.00% | ~764 |
+| Pathfinder | 17.00% | ~722 |
 | Liberator | 17.00% | ~722 |
 | Savior | 16.00% | ~679 |
 | Weapon Specialist | 16.00% | ~679 |
-| Pathfinder | 16.00% | ~679 |
 | Tunnel Rat | 16.00% | ~679 |
 | Arbiter | 16.00% | ~679 |
 | Lost and Found | 15.00% | ~637 |
@@ -112,11 +112,11 @@
 | Barrier Mastery | 7.00% | ~297 |
 | Sky High | 7.00% | ~297 |
 | Always Prepared | 7.00% | ~297 |
+| Paramour III | 7.00% | ~297 |
 | Bruiser | 7.00% | ~297 |
 | Lift Mastery | 7.00% | ~297 |
 | Overload Specialist | 7.00% | ~297 |
 | Hijacker | 6.00% | ~255 |
-| Paramour III | 6.00% | ~255 |
 | Damping Specialist | 4.00% | ~170 |
 | Singularity Mastery | 4.00% | ~170 |
 | Shield Breaker | 3.00% | ~127 |

@@ -304,6 +304,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt Campaign | 0.10% | ~17 |
 | Kush | 0.10% | ~17 |
 | Cothon in Carthago | 0.10% | ~17 |
+| Yazilikaya in Hattusa | 0.10% | ~17 |
 | Al Khazneh | 0.10% | ~17 |
 | Colosseum | 0.10% | ~17 |
 | Cothon | 0.10% | ~17 |
@@ -358,14 +359,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Greatest Pharaoh! | 0.00% | ~0 |
 | Pharaonic History Repeats | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
-| Yazilikaya in Hattusa | 0.00% | ~0 |
 | Heliopolis in Heliopolis | 0.00% | ~0 |
 | Jerwan Aqueduct in Jerwan | 0.00% | ~0 |
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,593 (Ranked 170)  
+Progressed: 16,594 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -633,7 +633,7 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
-| 2024-01-13 | 16,593 | 5 |
+| 2024-01-13 | 16,594 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,926 (Ranked 223)  

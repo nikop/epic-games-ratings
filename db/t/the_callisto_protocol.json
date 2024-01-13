@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2201,9 +2201,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 22253,
+  "EOS_Progressed": 22255,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1015,
+  "EOS_NewPlayers": 1013,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13696,6 +13696,11 @@
       "Time": "2024-01-13T06:09:59.5222012+00:00",
       "NumProgressed": 22253,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-13T07:09:50.988628+00:00",
+      "NumProgressed": 22255,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13723,7 +13728,7 @@
       "Name": "Giving Back",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2225
+      "UsersEstimate": 2226
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -13827,7 +13832,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2670
+      "UsersEstimate": 2671
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -13835,7 +13840,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 4673
+      "UsersEstimate": 4674
     },
     {
       "ID": "KILL_ROBOT",
@@ -13883,7 +13888,7 @@
       "Name": "Paper Jams",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5118
+      "UsersEstimate": 5119
     },
     {
       "ID": "SHARE_PHOTO",
@@ -13899,7 +13904,7 @@
       "Name": "The Outer Way",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6008
+      "UsersEstimate": 6009
     },
     {
       "ID": "STORY_ESCAPE",
@@ -13915,7 +13920,7 @@
       "Name": "Without A Paddle",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3115
+      "UsersEstimate": 3116
     },
     {
       "ID": "STORY_HANGAR",
@@ -13931,7 +13936,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2225
+      "UsersEstimate": 2226
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -13939,7 +13944,7 @@
       "Name": "Desperate Times",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5563
+      "UsersEstimate": 5564
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -13947,7 +13952,7 @@
       "Name": "Crash Site",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2670
+      "UsersEstimate": 2671
     },
     {
       "ID": "STORY_TOWER",
@@ -13955,7 +13960,7 @@
       "Name": "Full Circle",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2225
+      "UsersEstimate": 2226
     },
     {
       "ID": "STORY_TUNNELS",
@@ -14082,13 +14087,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22253,
+      "Progressed": 22255,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10179,
+      "Progressed": 10181,
       "Completed": 29
     }
   ],
@@ -14096,8 +14101,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-12T18:03:09.9063195+00:00",
-  "LastChanged_Achievements": "2024-01-13T06:09:59.5222008+00:00",
+  "LastChanged_Achievements": "2024-01-13T07:09:50.9886277+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:03:21.5306593+00:00",
-  "LastUpdate_Achievements": "2024-01-13T06:09:59.5222727+00:00"
+  "LastUpdate_Ratings": "2024-01-13T07:03:39.4627153+00:00",
+  "LastUpdate_Achievements": "2024-01-13T07:09:50.9887004+00:00"
 }

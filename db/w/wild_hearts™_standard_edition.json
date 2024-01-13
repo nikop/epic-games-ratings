@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1351,
+  "EOS_Progressed": 1352,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
@@ -4388,6 +4388,11 @@
       "Time": "2024-01-13T05:10:02.8195532+00:00",
       "NumProgressed": 1351,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-13T07:09:44.9386943+00:00",
+      "NumProgressed": 1352,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -4400,7 +4405,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "achievement_10",
@@ -4456,7 +4461,7 @@
       "Name": "Distance Devourer",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "achievement_17",
@@ -4472,7 +4477,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "achievement_19",
@@ -4488,7 +4493,7 @@
       "Name": "Mountain Splitter",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "achievement_20",
@@ -4496,7 +4501,7 @@
       "Name": "Subsistence Skills",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "achievement_21",
@@ -4552,7 +4557,7 @@
       "Name": "Mighty Marmelizer",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "achievement_28",
@@ -4568,7 +4573,7 @@
       "Name": "Fair Means or Foul",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "achievement_3",
@@ -4640,7 +4645,7 @@
       "Name": "Hidden History",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "achievement_38",
@@ -4712,7 +4717,7 @@
       "Name": "Helpful Heart",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "achievement_46",
@@ -4752,7 +4757,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "achievement_7",
@@ -4768,7 +4773,7 @@
       "Name": "Expert Conjuror",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "achievement_9",
@@ -4783,13 +4788,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1351,
+      "Progressed": 1352,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-13T06:09:53.3896877+00:00",
+  "LastChanged_Achievements": "2024-01-13T07:09:44.9386939+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:30.0899668+00:00",
-  "LastUpdate_Ratings": "2024-01-13T05:58:14.7916687+00:00",
-  "LastUpdate_Achievements": "2024-01-13T06:09:53.3897602+00:00"
+  "LastUpdate_Ratings": "2024-01-13T06:58:41.5538343+00:00",
+  "LastUpdate_Achievements": "2024-01-13T07:09:44.9387687+00:00"
 }

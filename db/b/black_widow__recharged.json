@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24859,
+  "EOS_Progressed": 24860,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -23243,6 +23243,11 @@
       "Time": "2024-01-13T06:04:57.8276165+00:00",
       "NumProgressed": 24859,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-13T07:05:22.4453733+00:00",
+      "NumProgressed": 24860,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 14,
@@ -23254,7 +23259,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 19141
+      "UsersEstimate": 19142
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -23310,7 +23315,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 12678
+      "UsersEstimate": 12679
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -23318,7 +23323,7 @@
       "Name": "In For The Kill",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2734
+      "UsersEstimate": 2735
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -23334,7 +23339,7 @@
       "Name": "Look at Me Now",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6463
+      "UsersEstimate": 6464
     },
     {
       "ID": "ACH_THE_FALL",
@@ -23342,7 +23347,7 @@
       "Name": "The Fall",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 3977
+      "UsersEstimate": 3978
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -23365,15 +23370,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 24859,
+      "Progressed": 24860,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2024-01-13T06:04:57.8276159+00:00",
+  "LastChanged_Achievements": "2024-01-13T07:05:22.445373+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:43.5495434+00:00",
-  "LastUpdate_Ratings": "2024-01-13T05:57:12.4836267+00:00",
-  "LastUpdate_Achievements": "2024-01-13T06:04:57.8277301+00:00"
+  "LastUpdate_Ratings": "2024-01-13T06:57:40.8823792+00:00",
+  "LastUpdate_Achievements": "2024-01-13T07:05:22.4455057+00:00"
 }

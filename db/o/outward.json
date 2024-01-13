@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -559,9 +559,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4756,
+  "EOS_Progressed": 4757,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8319,6 +8319,11 @@
       "Time": "2024-01-13T04:08:26.9247081+00:00",
       "NumProgressed": 4756,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T07:06:59.3633536+00:00",
+      "NumProgressed": 4757,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8370,7 +8375,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "CrowdPleaser",
@@ -8394,7 +8399,7 @@
       "Name": "Eureka",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -8522,7 +8527,7 @@
       "Name": "Ready for Winter",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2901
+      "UsersEstimate": 2902
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -8594,7 +8599,7 @@
       "Name": "The Power of Family",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -8602,7 +8607,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "TheStuffOfLegends",
@@ -8650,7 +8655,7 @@
       "Name": "Venture Outward",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 3424
+      "UsersEstimate": 3425
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8665,15 +8670,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4756,
+      "Progressed": 4757,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-13T06:08:36.1424027+00:00",
+  "LastChanged_Achievements": "2024-01-13T07:06:59.3633531+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:45.0450053+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:03:07.1471416+00:00",
-  "LastUpdate_Achievements": "2024-01-13T06:08:36.1424611+00:00"
+  "LastUpdate_Ratings": "2024-01-13T07:03:24.790362+00:00",
+  "LastUpdate_Achievements": "2024-01-13T07:06:59.3634681+00:00"
 }

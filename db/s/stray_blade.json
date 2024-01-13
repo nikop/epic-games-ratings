@@ -2,10 +2,10 @@
   "ID": "8b8d2e16c20b4300ae0dc66db4d630ba",
   "Name": "Stray Blade",
   "ProductSlug": "stray-blade",
-  "Ranking_EOS_Progress": 453,
+  "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 383,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 374,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 163,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -794,6 +794,11 @@
       "Time": "2024-01-12T11:10:21.731842+00:00",
       "NumProgressed": 162,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T07:10:13.205958+00:00",
+      "NumProgressed": 163,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -821,7 +826,7 @@
       "Name": "Craftsmen",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_CRAFT_ALL_ARMOR",
@@ -843,9 +848,9 @@
       "ID": "ACH_CRAFT_FIRST_WEAPON",
       "SetID": "7i20me3",
       "Name": "Tinkerer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_DEFEAT_BOSS_INGLA",
@@ -861,7 +866,7 @@
       "Name": "Defeat Tezuth",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_DEFEAT_BOSS_USKOL",
@@ -883,9 +888,9 @@
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
@@ -893,7 +898,7 @@
       "Name": "Freezing Cold",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_ENTER_REGION_LIZARD",
@@ -917,7 +922,7 @@
       "Name": "Locked and Loaded",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_FIND_ALL_COLLECTIBLES_BATTLEFIELDS",
@@ -1053,7 +1058,7 @@
       "Name": "Welcome to the Club",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_FINISH_GAME",
@@ -1085,7 +1090,7 @@
       "Name": "Can\u0027t touch this",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_REUNITE_WITH_BOJI",
@@ -1141,7 +1146,7 @@
       "Name": "Expert",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_UNLOCK_ABILITY_INTIUM",
@@ -1220,13 +1225,13 @@
     {
       "ID": "7i20me3",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 163,
       "Completed": 0
     },
     {
       "ID": "doc1i1",
       "IsBase": false,
-      "Progressed": 160,
+      "Progressed": 161,
       "Completed": 117
     }
   ],
@@ -1234,8 +1239,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2024-01-13T06:10:21.1211548+00:00",
+  "LastChanged_Achievements": "2024-01-13T07:10:13.2059578+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:06.39854+00:00",
-  "LastUpdate_Ratings": "2024-01-13T05:59:57.9066817+00:00",
-  "LastUpdate_Achievements": "2024-01-13T06:10:21.1211955+00:00"
+  "LastUpdate_Ratings": "2024-01-13T07:00:29.8057787+00:00",
+  "LastUpdate_Achievements": "2024-01-13T07:10:13.2060135+00:00"
 }

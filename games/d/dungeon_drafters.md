@@ -19,8 +19,8 @@
 | Card Completionist | 9.00% | ~13 |
 | The Bodyguard | 7.00% | ~10 |
 | The Apprentice | 6.00% | ~9 |
+| Braving Miasma | 6.00% | ~9 |
 | No Stone Unturned | 6.00% | ~9 |
-| Braving Miasma | 5.00% | ~7 |
 | The Familiar | 5.00% | ~7 |
 | Oracle Mastery | 5.00% | ~7 |
 | Ancient Nemesis | 4.00% | ~6 |
@@ -28,11 +28,11 @@
 | Traveler Mastery | 3.00% | ~4 |
 | Warden Mastery | 3.00% | ~4 |
 | The Plot Thickens | 3.00% | ~4 |
+| Best Pupil | 2.00% | ~3 |
 | First time? | 2.00% | ~3 |
 | The False Prophet | 2.00% | ~3 |
 | Sealed Once Again | 2.00% | ~3 |
 | ACHOO! | 2.00% | ~3 |
-| Best Pupil | 1.00% | ~1 |
 | FOR JUSTICE! | 1.00% | ~1 |
 | Journey’s End | 1.00% | ~1 |
 | Masterpiece | 1.00% | ~1 |

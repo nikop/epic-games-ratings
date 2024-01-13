@@ -15,10 +15,10 @@ Rating: 3.68 (Ranked 1,097)
 | Fly Fisher | 12.00% | ~285 |
 | Peek-a-boo | 12.00% | ~285 |
 | Sucks To Be You | 12.00% | ~285 |
-| Enter of Your Own Free Will | 10.00% | ~237 |
-| Welcome to the Neighborhood | 10.00% | ~237 |
-| Throw The First Stone | 10.00% | ~237 |
-| Heart Attack | 10.00% | ~237 |
+| Enter of Your Own Free Will | 10.00% | ~238 |
+| Welcome to the Neighborhood | 10.00% | ~238 |
+| Throw The First Stone | 10.00% | ~238 |
+| Heart Attack | 10.00% | ~238 |
 | Skin of Their Teeth | 9.00% | ~214 |
 | Grounded | 8.00% | ~190 |
 | Bad Wiring | 7.00% | ~166 |
@@ -35,13 +35,13 @@ Rating: 3.68 (Ranked 1,097)
 | From the Shadows | 3.00% | ~71 |
 | Starve the Beast | 3.00% | ~71 |
 | Harvest’s End | 3.00% | ~71 |
-| Revelations | 2.00% | ~47 |
-| Contingency Plans | 2.00% | ~47 |
-| Check, Please! | 2.00% | ~47 |
-| Right This Way | 2.00% | ~47 |
-| Nice Try | 2.00% | ~47 |
-| Blacklight Down | 2.00% | ~47 |
-| Curious Finch | 2.00% | ~47 |
+| Revelations | 2.00% | ~48 |
+| Contingency Plans | 2.00% | ~48 |
+| Check, Please! | 2.00% | ~48 |
+| Right This Way | 2.00% | ~48 |
+| Nice Try | 2.00% | ~48 |
+| Blacklight Down | 2.00% | ~48 |
+| Curious Finch | 2.00% | ~48 |
 | Neighborhood Watch | 1.00% | ~24 |
 | Blood Brother | 1.00% | ~24 |
 | Bloody Initiate | 0.90% | ~21 |
@@ -54,8 +54,8 @@ Rating: 3.68 (Ranked 1,097)
 | Under a Bushel | 0.60% | ~14 |
 | Monster Hunters Club | 0.50% | ~12 |
 | Friendgineering | 0.50% | ~12 |
-| So Anyway I Started Blasting | 0.40% | ~9 |
-| Enemy of My Enemy | 0.40% | ~9 |
+| So Anyway I Started Blasting | 0.40% | ~10 |
+| Enemy of My Enemy | 0.40% | ~10 |
 | Someplace to Be | 0.30% | ~7 |
 | Bob’s Final Hour | 0.30% | ~7 |
 | Faith Healer | 0.20% | ~5 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,097)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,374 (Ranked 243)  
+Progressed: 2,375 (Ranked 243)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-10 | 2,353 | 0 |
 | 2024-01-11 | 2,366 | 0 |
 | 2024-01-12 | 2,372 | 0 |
-| 2024-01-13 | 2,374 | 0 |
+| 2024-01-13 | 2,375 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 555)  
 Sum: 24 (Ranked 563)  

@@ -6,13 +6,13 @@ Rating: 4.63 (Ranked 359)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 17.00% | ~1,227 |
-| Realm Estate | 15.00% | ~1,082 |
-| A Wonderful Discovery | 14.00% | ~1,010 |
-| Walls Cannot Stop Us | 14.00% | ~1,010 |
+| Realm Estate | 15.00% | ~1,083 |
+| A Wonderful Discovery | 14.00% | ~1,011 |
+| Walls Cannot Stop Us | 14.00% | ~1,011 |
 | From Friends to Family | 12.00% | ~866 |
 | Bone Peddler | 11.00% | ~794 |
-| Full Ascension | 9.00% | ~649 |
-| Magical Synergy | 9.00% | ~649 |
+| Full Ascension | 9.00% | ~650 |
+| Magical Synergy | 9.00% | ~650 |
 | There Can Only Be One! | 8.00% | ~577 |
 | Stronger Together | 8.00% | ~577 |
 | Seat of Power | 8.00% | ~577 |
@@ -28,11 +28,11 @@ Rating: 4.63 (Ranked 359)
 | Preparation Is Everything | 4.00% | ~289 |
 | Fiery Friend | 4.00% | ~289 |
 | Impenetrable Fortress | 4.00% | ~289 |
-| Crimson Caldera | 3.00% | ~216 |
-| Here be Dragons | 3.00% | ~216 |
-| Tipping the Scales | 3.00% | ~216 |
-| Mighty Hoard | 3.00% | ~216 |
-| Freed Lands of Manuhari | 3.00% | ~216 |
+| Crimson Caldera | 3.00% | ~217 |
+| Here be Dragons | 3.00% | ~217 |
+| Tipping the Scales | 3.00% | ~217 |
+| Mighty Hoard | 3.00% | ~217 |
+| Freed Lands of Manuhari | 3.00% | ~217 |
 | I've Got Everything I Need Right Here | 2.00% | ~144 |
 | God Emperor | 2.00% | ~144 |
 | Lord of Chaos | 2.00% | ~144 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 359)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,216 (Ranked 197)  
+Progressed: 7,218 (Ranked 197)  
 Completed: 8 (0.11%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 8 (0.11%) (Ranked 308)
 | 2024-01-10 | 7,178 | 7 |
 | 2024-01-11 | 7,195 | 7 |
 | 2024-01-12 | 7,210 | 8 |
-| 2024-01-13 | 7,216 | 8 |
+| 2024-01-13 | 7,218 | 8 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 481)  
 Sum: 238 (Ranked 406)  

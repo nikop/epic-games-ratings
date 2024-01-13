@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -995,11 +995,17 @@
       "Rating": 4.58,
       "NumberOfAwards": 339,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2024-01-13T06:58:02.388272+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 340,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 339,
-  "NumberOfAwardsMax": 43,
+  "NumberOfAwards": 340,
+  "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -1030,7 +1036,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 43
+      "Count": 44
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1069,9 +1075,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9915,
+  "EOS_Progressed": 9916,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11064,6 +11070,11 @@
       "Time": "2024-01-13T00:10:12.8545849+00:00",
       "NumProgressed": 9915,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-13T07:09:36.8739986+00:00",
+      "NumProgressed": 9916,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11219,7 +11230,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1586
+      "UsersEstimate": 1587
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -11243,7 +11254,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3470
+      "UsersEstimate": 3471
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -11434,16 +11445,16 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9915,
+      "Progressed": 9916,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
-  "LastChanged": "2024-01-06T21:59:00.913352+00:00",
-  "LastChanged_Achievements": "2024-01-13T06:09:45.2444836+00:00",
+  "LastChanged": "2024-01-13T06:58:02.3882719+00:00",
+  "LastChanged_Achievements": "2024-01-13T07:09:36.8739982+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:05.1405641+00:00",
-  "LastUpdate_Ratings": "2024-01-13T05:57:34.4178406+00:00",
-  "LastUpdate_Achievements": "2024-01-13T06:09:45.2445467+00:00"
+  "LastUpdate_Ratings": "2024-01-13T06:58:02.3882725+00:00",
+  "LastUpdate_Achievements": "2024-01-13T07:09:36.874074+00:00"
 }

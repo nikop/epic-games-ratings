@@ -15,6 +15,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Defeat The Dark | 1.00% | ~2,429 |
 | Goodbye, Frog Friend | 1.00% | ~2,429 |
 | A Donation | 1.00% | ~2,429 |
+| Deflection | 1.00% | ~2,429 |
 | A Quick Escape | 1.00% | ~2,429 |
 | Uncharted Territory | 1.00% | ~2,429 |
 | Explorer | 1.00% | ~2,429 |
@@ -29,7 +30,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | What's Yours Is Mine | 0.90% | ~2,186 |
 | Spine Breaker | 0.90% | ~2,186 |
 | C-C-Combo | 0.90% | ~2,186 |
-| Deflection | 0.90% | ~2,186 |
 | Sneaky | 0.90% | ~2,186 |
 | Dig Your Own Grave | 0.80% | ~1,943 |
 | Walk It Off | 0.80% | ~1,943 |
@@ -61,11 +61,11 @@ Number of Ratings: 15,086  (23.09.2022)
 | Don't Ignore Me! | 0.50% | ~1,214 |
 | All Consuming | 0.50% | ~1,214 |
 | Illuminate, Eliminate | 0.50% | ~1,214 |
+| Chain Reaction | 0.50% | ~1,214 |
 | Spreading Plague | 0.50% | ~1,214 |
 | Antivenom | 0.50% | ~1,214 |
 | The Long Run | 0.50% | ~1,214 |
 | Berzerker | 0.40% | ~971 |
-| Chain Reaction | 0.40% | ~971 |
 | Decisions, Decisions | 0.40% | ~971 |
 | Snake Sneak | 0.40% | ~971 |
 | Who Needs Luck? | 0.40% | ~17 |

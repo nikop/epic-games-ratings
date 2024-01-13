@@ -17,7 +17,7 @@ Rating: 4.43 (Ranked 726)
 | Squished | 8.00% | ~2,346 |
 | Finale | 8.00% | ~2,346 |
 | Sector 7 | 8.00% | ~2,346 |
-| Did That Work? -- No! | 7.00% | ~2,052 |
+| Did That Work? -- No! | 7.00% | ~2,053 |
 | Master Room | 4.00% | ~1,173 |
 | The Collector | 2.00% | ~586 |
 | Bronze Trophy | 2.00% | ~586 |
@@ -30,7 +30,7 @@ Rating: 4.43 (Ranked 726)
 | Completed It. | 2.00% | ~586 |
 | Maxed Out | 2.00% | ~586 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,321 (Ranked 142)  
+Progressed: 29,322 (Ranked 142)  
 Completed: 208 (0.71%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 208 (0.71%) (Ranked 200)
 | 2024-01-10 | 29,073 | 204 |
 | 2024-01-11 | 29,184 | 206 |
 | 2024-01-12 | 29,300 | 208 |
-| 2024-01-13 | 29,321 | 208 |
+| 2024-01-13 | 29,322 | 208 |
 ## Awards
 Max (Challenging Puzzles): 25  (Ranked 552)  
 Sum: 25 (Ranked 561)  

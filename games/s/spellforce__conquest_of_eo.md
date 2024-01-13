@@ -30,8 +30,8 @@
 | Friend of Connach | 15.00% | ~21 |
 | Stormwatch Faste | 13.00% | ~19 |
 | Friend of Orgash | 13.00% | ~19 |
+| Friend of Silver Drift Hollow | 13.00% | ~19 |
 | Friend of Bastion | 13.00% | ~19 |
-| Friend of Silver Drift Hollow | 12.00% | ~17 |
 | Break Free | 12.00% | ~17 |
 | Philo's Tale | 11.00% | ~16 |
 | A Master of Magic | 11.00% | ~16 |

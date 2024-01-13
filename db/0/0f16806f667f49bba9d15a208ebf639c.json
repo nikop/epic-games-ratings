@@ -4,8 +4,8 @@
   "ProductSlug": "choice-clash-what-would-you-rather-b75cac",
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2024-01-05T19:00:00+00:00",
     "PcReleaseDate": "2023-11-27T09:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 74,
+  "EOS_Progressed": 75,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 20.27,
+  "EOS_Completed_Percentage": 20,
   "EosHistory": [
     {
       "Time": "2023-12-29T00:03:26.1784855+00:00",
@@ -317,6 +317,11 @@
       "Time": "2024-01-12T07:07:35.3928345+00:00",
       "NumProgressed": 74,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-13T07:04:10.8262226+00:00",
+      "NumProgressed": 75,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-12-28T16:03:50.3768399+00:00",
@@ -327,7 +332,7 @@
       "ID": "BLUE_CARD_GURU",
       "SetID": "58oggg1",
       "Name": "Blue Card Guru",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 50,
       "UsersEstimate": 46
     },
@@ -367,7 +372,7 @@
       "ID": "RED_CARD_EXPERT",
       "SetID": "58oggg1",
       "Name": "Red Card Expert",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 100,
       "UsersEstimate": 45
     },
@@ -375,7 +380,7 @@
       "ID": "RUBY_DECISIONMAKER",
       "SetID": "58oggg1",
       "Name": "Ruby Decision-Maker",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 100,
       "UsersEstimate": 45
     },
@@ -385,7 +390,7 @@
       "Name": "Sapphire Pathfinder",
       "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "THE_BALANCED",
@@ -407,7 +412,7 @@
       "ID": "THE_PERSUADER",
       "SetID": "58oggg1",
       "Name": "The Persuader",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 50,
       "UsersEstimate": 47
     },
@@ -415,7 +420,7 @@
       "ID": "WORLD_CHANGER",
       "SetID": "58oggg1",
       "Name": "World Changer",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 100,
       "UsersEstimate": 31
     },
@@ -431,22 +436,22 @@
       "ID": "_CURIOUS_EXPLORER",
       "SetID": "58oggg1",
       "Name": "Curious Explorer",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     }
   ],
   "AchievementSets": [
     {
       "ID": "58oggg1",
       "IsBase": true,
-      "Progressed": 74,
+      "Progressed": 75,
       "Completed": 15
     }
   ],
   "FirstSeenAchievements": "2023-12-28T04:04:09.7511505+00:00",
-  "LastChanged_Achievements": "2024-01-13T06:03:47.2088531+00:00",
+  "LastChanged_Achievements": "2024-01-13T07:04:10.8262221+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:03.3482825+00:00",
-  "LastUpdate_Ratings": "2024-01-13T05:58:05.500779+00:00",
-  "LastUpdate_Achievements": "2024-01-13T06:03:47.2088683+00:00"
+  "LastUpdate_Ratings": "2024-01-13T06:58:33.6230494+00:00",
+  "LastUpdate_Achievements": "2024-01-13T07:04:10.8262311+00:00"
 }

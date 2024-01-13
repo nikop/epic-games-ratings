@@ -26,8 +26,8 @@ Number of Ratings: 180  (23.09.2022)
 | First ship arrived | 42.00% | ~1,036 |
 | Now what? | 42.00% | ~1,036 |
 | Exemplary student | 41.00% | ~1,011 |
+| High speed | 39.00% | ~962 |
 | First aircraft arrived | 38.00% | ~937 |
-| High speed | 38.00% | ~937 |
 | Transport shark | 37.00% | ~912 |
 | Mass production | 32.00% | ~789 |
 | Aircraft entrepreneur | 30.00% | ~740 |

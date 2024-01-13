@@ -15,7 +15,7 @@ Number of Ratings: 90  (23.09.2022)
 | Cult Following | 35.00% | ~148 |
 | Earthly Pleasures | 34.00% | ~143 |
 | Lie Back and Think of Albion | 28.00% | ~118 |
-| Upgreatest | 27.00% | ~114 |
+| Upgreatest | 28.00% | ~118 |
 | Pimp My Raid | 25.00% | ~106 |
 | Freshly Squeezed | 23.00% | ~97 |
 | I Look Up As I Walk to Takoshima | 20.00% | ~84 |

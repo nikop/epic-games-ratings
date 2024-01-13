@@ -10,7 +10,7 @@ Number of Ratings: 116  (23.09.2022)
 | First of many… | 68.00% | ~391 |
 | Helping Hand | 65.00% | ~374 |
 | Increased Vigor | 61.00% | ~351 |
-| Fight Fire with Fire | 58.00% | ~334 |
+| Fight Fire with Fire | 59.00% | ~339 |
 | Increased Capacity | 55.00% | ~316 |
 | Just the start | 50.00% | ~288 |
 | Perfect Storm | 46.00% | ~264 |
@@ -34,8 +34,8 @@ Number of Ratings: 116  (23.09.2022)
 | Unyielding Strength | 26.00% | ~150 |
 | Can you restore the Balance? | 26.00% | ~150 |
 | Big Spender | 26.00% | ~150 |
+| Cleanup Crew | 25.00% | ~144 |
 | Crowd Source | 25.00% | ~144 |
-| Cleanup Crew | 24.00% | ~138 |
 | Seeing Red | 24.00% | ~138 |
 | Demon Meddler | 23.00% | ~132 |
 | Maximum Capacity | 22.00% | ~126 |
@@ -103,8 +103,8 @@ Completed: 2 (0.35%) (Ranked 247)
 | 2024-01-13 | 575 | 2 |
 ## Awards
 Max (Great Boss Battles): 98  (Ranked 384)  
-Sum: 98 (Ranked 471)  
-Diff (max vs sum): -87  
+Sum: 98 (Ranked 472)  
+Diff (max vs sum): -88  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 98 |

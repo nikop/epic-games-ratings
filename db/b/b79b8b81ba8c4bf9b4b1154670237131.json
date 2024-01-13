@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16626,
+  "EOS_Progressed": 16628,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6510,6 +6510,11 @@
       "Time": "2024-01-13T05:10:02.4883129+00:00",
       "NumProgressed": 16626,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-13T07:09:44.5521243+00:00",
+      "NumProgressed": 16628,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6522,7 +6527,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6318
+      "UsersEstimate": 6319
     },
     {
       "ID": "ACH_AE_10",
@@ -6530,7 +6535,7 @@
       "Name": "Together We Fight",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1496
+      "UsersEstimate": 1497
     },
     {
       "ID": "ACH_AE_11",
@@ -6554,7 +6559,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12470
+      "UsersEstimate": 12471
     },
     {
       "ID": "ACH_AE_14",
@@ -6562,7 +6567,7 @@
       "Name": "Sticky Situation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3325
+      "UsersEstimate": 3326
     },
     {
       "ID": "ACH_AE_15",
@@ -6578,7 +6583,7 @@
       "Name": "Energy Efficient",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2161
+      "UsersEstimate": 2162
     },
     {
       "ID": "ACH_AE_17",
@@ -6610,7 +6615,7 @@
       "Name": "Back to School",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3990
+      "UsersEstimate": 3991
     },
     {
       "ID": "ACH_AE_20",
@@ -6634,7 +6639,7 @@
       "Name": "The High Road",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3990
+      "UsersEstimate": 3991
     },
     {
       "ID": "ACH_AE_23",
@@ -6770,7 +6775,7 @@
       "Name": "Betrayal",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1496
+      "UsersEstimate": 1497
     },
     {
       "ID": "ACH_AE_7",
@@ -6801,7 +6806,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16626,
+      "Progressed": 16628,
       "Completed": 15
     }
   ],
@@ -6809,8 +6814,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-06T19:57:04.811996+00:00",
-  "LastChanged_Achievements": "2024-01-13T06:09:52.9793904+00:00",
+  "LastChanged_Achievements": "2024-01-13T07:09:44.5521236+00:00",
   "LastUpdate_AppInfo": "2024-01-09T19:56:59.6965527+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:00:06.4887142+00:00",
-  "LastUpdate_Achievements": "2024-01-13T06:09:52.979445+00:00"
+  "LastUpdate_Ratings": "2024-01-13T07:00:38.929431+00:00",
+  "LastUpdate_Achievements": "2024-01-13T07:09:44.552191+00:00"
 }
