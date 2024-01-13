@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -95,7 +95,7 @@
   "Tags": [],
   "EOS_Progressed": 1544,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -4433,9 +4433,9 @@
       "ID": "EV_ACH31",
       "SetID": "6jeac23",
       "Name": "Feels Familiar",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1158
     },
     {
       "ID": "EV_ACH32",
@@ -4554,8 +4554,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2024-01-13T13:01:22.2796595+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:10:24.0505018+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:10:08.6928398+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.6946611+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:58:38.3861122+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:10:24.0505671+00:00"
+  "LastUpdate_Ratings": "2024-01-13T14:58:15.3706235+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:10:08.6928947+00:00"
 }

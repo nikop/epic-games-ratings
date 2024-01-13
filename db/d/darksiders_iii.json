@@ -494,7 +494,7 @@
   ],
   "EOS_Progressed": 576,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2170,9 +2170,9 @@
       "ID": "Collect_AdamantineMedium_30",
       "SetID": "7a5k76n",
       "Name": "Unyielding Strength",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 156
     },
     {
       "ID": "Collect_AdamantinePure_3",
@@ -2226,9 +2226,9 @@
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Capacity",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 132
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_1",
@@ -2290,9 +2290,9 @@
       "ID": "Collect_Lurchers_1000000",
       "SetID": "7a5k76n",
       "Name": "Soul Reaper",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 52
     },
     {
       "ID": "Collect_PickUp_500",
@@ -2338,9 +2338,9 @@
       "ID": "Craft_Enhancement_First",
       "SetID": "7a5k76n",
       "Name": "Enhance!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 248
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -2682,8 +2682,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-13T13:02:48.7812399+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:06:37.9119564+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:06:07.4790289+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:00:05.7837283+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:06:37.9120086+00:00"
+  "LastUpdate_Ratings": "2024-01-13T14:59:36.5967727+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:06:07.4790939+00:00"
 }

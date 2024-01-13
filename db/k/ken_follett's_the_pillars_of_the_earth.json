@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17826,
+  "EOS_Progressed": 17827,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
@@ -18310,6 +18310,11 @@
       "Time": "2024-01-13T13:06:52.7159397+00:00",
       "NumProgressed": 17826,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-13T15:03:59.3130764+00:00",
+      "NumProgressed": 17827,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18361,7 +18366,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5704
+      "UsersEstimate": 5705
     },
     {
       "ID": "tpote_achievement_15",
@@ -18465,7 +18470,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2317
+      "UsersEstimate": 2318
     },
     {
       "ID": "tpote_achievement_27",
@@ -18585,7 +18590,7 @@
       "Name": "Tattletale",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 6952
+      "UsersEstimate": 6953
     },
     {
       "ID": "tpote_achievement_40",
@@ -18633,7 +18638,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3743
+      "UsersEstimate": 3744
     },
     {
       "ID": "tpote_achievement_9",
@@ -18648,15 +18653,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17826,
+      "Progressed": 17827,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:04:19.4988801+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:03:59.3130759+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:38.8316794+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:03:16.5910327+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:04:19.4989645+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:03:01.4739007+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:03:59.3131918+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 321,
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 223,
-  "Ranking_EOS_Progress": 170,
+  "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2280,9 +2280,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16636,
+  "EOS_Progressed": 16648,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 497,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19870,6 +19870,11 @@
       "Time": "2024-01-13T14:10:30.3838401+00:00",
       "NumProgressed": 16636,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T15:10:14.8246633+00:00",
+      "NumProgressed": 16648,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19959,9 +19964,9 @@
       "ID": "ACHIEVEMENT_BABYLON_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens in Babylon",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 166
     },
     {
       "ID": "ACHIEVEMENT_BABYLON_ISHTAR_GATE",
@@ -20249,7 +20254,7 @@
       "Name": "Beloved",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRAVE",
@@ -20441,7 +20446,7 @@
       "Name": "Mighty",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
@@ -20505,7 +20510,7 @@
       "Name": "Settler",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -20519,9 +20524,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
       "SetID": "9201eeb",
       "Name": "Subjugator",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -20633,7 +20638,7 @@
       "Name": "Good Difficulty",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GREAT",
@@ -20647,9 +20652,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_JUST",
       "SetID": "7l38kb8",
       "Name": "Just Difficulty",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 166
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_MAGNIFICENT",
@@ -20753,7 +20758,7 @@
       "Name": "Patrons",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
@@ -20777,7 +20782,7 @@
       "Name": "Statesmen",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_TRADERS",
@@ -21265,7 +21270,7 @@
       "Name": "Temple of Solomon",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
@@ -21513,7 +21518,7 @@
       "Name": "Greece",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_NATION_HITTITE",
@@ -21633,7 +21638,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -21641,7 +21646,7 @@
       "Name": "Power to the People",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_PUNIC_WARS",
@@ -22153,7 +22158,7 @@
       "Name": "Win a Single Player Game",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
@@ -22744,21 +22749,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16636,
+      "Progressed": 16648,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16636,
+      "Progressed": 16648,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-13T07:59:51.2247569+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:10:30.3838398+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:10:14.824663+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:59:33.7789363+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:10:30.3848138+00:00"
+  "LastUpdate_Ratings": "2024-01-13T14:59:05.8554969+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:10:14.8256358+00:00"
 }

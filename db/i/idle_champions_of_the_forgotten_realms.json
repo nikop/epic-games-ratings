@@ -9529,9 +9529,9 @@
       "Count": 3635
     }
   ],
-  "EOS_Progressed": 253696,
+  "EOS_Progressed": 253709,
   "EOS_Completed": 2616,
-  "EOS_NewPlayers": 1738,
+  "EOS_NewPlayers": 1724,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39934,6 +39934,11 @@
       "Time": "2024-01-13T14:10:31.4942515+00:00",
       "NumProgressed": 253696,
       "NumCompleted": 2616
+    },
+    {
+      "Time": "2024-01-13T15:10:15.8940676+00:00",
+      "NumProgressed": 253709,
+      "NumCompleted": 2616
     }
   ],
   "TotalAchievements": 546,
@@ -39953,7 +39958,7 @@
       "Name": "Maddening",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "objective_completed_100",
@@ -41065,7 +41070,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "objective_completed_150",
@@ -41273,7 +41278,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "objective_completed_20",
@@ -41633,7 +41638,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "objective_completed_36",
@@ -42489,7 +42494,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "objective_completed_60",
@@ -44312,21 +44317,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219970,
+      "Progressed": 219983,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253696,
+      "Progressed": 253709,
       "Completed": 2616
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-13T12:01:11.8810866+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:10:31.4942513+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:10:15.8940673+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:00:20.1828306+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:10:31.496511+00:00"
+  "LastUpdate_Ratings": "2024-01-13T14:59:51.3732095+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:10:15.8964435+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_Rating": 552,
+  "Ranking_Rating": 529,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2023-12-26T23:58:21.0860973+00:00",
@@ -51,15 +51,21 @@
       "Rating": 4.54,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-13T14:59:34.2463746+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3573,
+  "EOS_Progressed": 3575,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8777,6 +8783,11 @@
       "Time": "2024-01-13T11:05:06.565485+00:00",
       "NumProgressed": 3573,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T15:05:30.3653865+00:00",
+      "NumProgressed": 3575,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8789,7 +8800,7 @@
       "Name": "First Love",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -8797,7 +8808,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1536
+      "UsersEstimate": 1537
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -8805,7 +8816,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -8837,7 +8848,7 @@
       "Name": "Iconic!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -8845,7 +8856,7 @@
       "Name": "I Want One Too!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -8901,7 +8912,7 @@
       "Name": "I\u0027ll Be the Best!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ML_ACHIEVEMENT_16",
@@ -8933,7 +8944,7 @@
       "Name": "Back in Blighty",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -8973,7 +8984,7 @@
       "Name": "Still Here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -8995,9 +9006,9 @@
       "ID": "ML_ACHIEVEMENT_27",
       "SetID": "c7hf6a4",
       "Name": "Clean Race",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1609
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -9085,7 +9096,7 @@
       "Name": "Eat My Dust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1788
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -9133,7 +9144,7 @@
       "Name": "Overtaking the Master",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ML_ACHIEVEMENT_45",
@@ -9180,16 +9191,16 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3573,
+      "Progressed": 3575,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged": "2024-01-11T14:58:44.7616206+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:05:58.9109862+00:00",
+  "LastChanged": "2024-01-13T14:59:34.2463743+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:05:30.3653861+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.6681713+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:00:03.7513238+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:05:58.9110805+00:00"
+  "LastUpdate_Ratings": "2024-01-13T14:59:34.2463748+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:05:30.3654569+00:00"
 }

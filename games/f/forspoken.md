@@ -1,17 +1,17 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.15 (Ranked 1,001)  
+Rating: 4.15 (Ranked 1,002)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 13.00% | ~6,133 |
+| Attachments | 13.00% | ~6,134 |
 | Unlocked Potential | 12.00% | ~5,662 |
-| Tinkerer | 9.00% | ~4,246 |
-| Leapfrogger | 8.00% | ~3,774 |
-| Knock 'Em Dead | 8.00% | ~3,774 |
-| Pilgrimage: Initiate | 8.00% | ~3,774 |
-| Hell of a Run | 8.00% | ~3,774 |
+| Tinkerer | 9.00% | ~4,247 |
+| Leapfrogger | 8.00% | ~3,775 |
+| Knock 'Em Dead | 8.00% | ~3,775 |
+| Pilgrimage: Initiate | 8.00% | ~3,775 |
+| Hell of a Run | 8.00% | ~3,775 |
 | Call of the Fount: Baptized | 7.00% | ~3,303 |
 | No Mercy | 6.00% | ~2,831 |
 | Explorer: Seeker | 6.00% | ~2,831 |
@@ -19,10 +19,10 @@ Rating: 4.15 (Ranked 1,001)
 | Through the Eyes of Another: Empath | 5.00% | ~2,359 |
 | Stuck | 5.00% | ~2,359 |
 | The Interloper | 4.00% | ~1,887 |
-| Outdoorsperson | 3.00% | ~1,415 |
-| Damned If You Do... | 3.00% | ~1,415 |
-| Hop, Step, Jump | 3.00% | ~1,415 |
-| Endless Runner | 3.00% | ~1,415 |
+| Outdoorsperson | 3.00% | ~1,416 |
+| Damned If You Do... | 3.00% | ~1,416 |
+| Hop, Step, Jump | 3.00% | ~1,416 |
+| Endless Runner | 3.00% | ~1,416 |
 | What Must Be Done | 2.00% | ~944 |
 | Might and Main | 2.00% | ~944 |
 | The Hue of Blue | 2.00% | ~944 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 1,001)
 | Remembrance | 0.10% | ~47 |
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,180 (Ranked 127)  
+Progressed: 47,184 (Ranked 127)  
 Completed: 4 (0.01%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,11 +327,11 @@ Completed: 4 (0.01%) (Ranked 375)
 | 2024-01-10 | 47,035 | 4 |
 | 2024-01-11 | 47,103 | 4 |
 | 2024-01-12 | 47,151 | 4 |
-| 2024-01-13 | 47,180 | 4 |
+| 2024-01-13 | 47,184 | 4 |
 ## Awards
 Max (Character Customization): 51  (Ranked 456)  
-Sum: 74 (Ranked 487)  
-Diff (max vs sum): -31  
+Sum: 74 (Ranked 488)  
+Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 51 |

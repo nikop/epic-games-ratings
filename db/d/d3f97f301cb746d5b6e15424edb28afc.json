@@ -2,13 +2,13 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_Rating": 493,
+  "Ranking_Rating": 494,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -5575,6 +5575,6 @@
   "LastChanged": "2024-01-12T15:00:59.7765228+00:00",
   "LastChanged_Achievements": "2024-01-13T14:08:18.1945525+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.4325477+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:00:41.8741244+00:00",
+  "LastUpdate_Ratings": "2024-01-13T15:00:10.1350297+00:00",
   "LastUpdate_Achievements": "2024-01-13T14:08:18.1946568+00:00"
 }

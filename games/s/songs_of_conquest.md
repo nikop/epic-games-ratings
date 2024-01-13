@@ -6,20 +6,20 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~532 |
-| Double Kill | 40.00% | ~463 |
-| Critical Hit | 23.00% | ~266 |
-| Veteran | 23.00% | ~266 |
-| Dressed For Success | 16.00% | ~185 |
-| Veni, Vidi, Vici | 11.00% | ~127 |
+| Adept | 46.00% | ~535 |
+| Double Kill | 40.00% | ~465 |
+| Critical Hit | 23.00% | ~267 |
+| Veteran | 23.00% | ~267 |
+| Dressed For Success | 16.00% | ~186 |
+| Veni, Vidi, Vici | 11.00% | ~128 |
 | Humiliation | 10.00% | ~116 |
-| Multi Kill | 9.00% | ~104 |
-| Sorcerous Spree | 9.00% | ~104 |
-| Master | 8.00% | ~93 |
+| Multi Kill | 9.00% | ~105 |
+| Sorcerous Spree | 9.00% | ~105 |
 | Landlord Extraordinaire | 7.00% | ~81 |
-| The Song of Stoutheart | 6.00% | ~69 |
-| Whoops! | 6.00% | ~69 |
-| Don't Touch My Stuff | 6.00% | ~69 |
+| Master | 7.00% | ~81 |
+| The Song of Stoutheart | 6.00% | ~70 |
+| Whoops! | 6.00% | ~70 |
+| Don't Touch My Stuff | 6.00% | ~70 |
 | Trojan Horse | 5.00% | ~58 |
 | Expert Essence Employment | 4.00% | ~46 |
 | Ultra Kill | 3.00% | ~35 |
@@ -30,10 +30,10 @@ Number of Ratings: 292  (23.09.2022)
 | Pyrrhic Victory | 2.00% | ~23 |
 | Venisti, Vidisti, Perdidisti | 2.00% | ~23 |
 | In The Thick of It | 1.00% | ~12 |
-| Together For Her | 1.00% | ~12 |
 | Such A Fungi | 1.00% | ~12 |
 | Grand Master | 1.00% | ~12 |
 | Versatile Wielder | 0.90% | ~10 |
+| Together For Her | 0.90% | ~10 |
 | Unlimited Power! | 0.70% | ~8 |
 | Cleave | 0.70% | ~8 |
 | Killing Spree | 0.60% | ~7 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,157 (Ranked 288)  
+Progressed: 1,162 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,11 +125,11 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-10 | 1,129 | 0 |
 | 2024-01-11 | 1,137 | 0 |
 | 2024-01-12 | 1,150 | 0 |
-| 2024-01-13 | 1,157 | 0 |
+| 2024-01-13 | 1,162 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 30  (Ranked 524)  
+Max (Quickly Understood Controls): 30  (Ranked 525)  
 Sum: 252 (Ranked 399)  
-Diff (max vs sum): 125  
+Diff (max vs sum): 126  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 30 |

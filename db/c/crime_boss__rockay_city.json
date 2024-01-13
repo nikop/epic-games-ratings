@@ -5541,9 +5541,9 @@
       "Count": 540
     }
   ],
-  "EOS_Progressed": 93435,
+  "EOS_Progressed": 93439,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -31321,6 +31321,11 @@
       "Time": "2024-01-13T14:06:30.4800325+00:00",
       "NumProgressed": 93435,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-13T15:06:00.2164105+00:00",
+      "NumProgressed": 93439,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 41,
@@ -31332,7 +31337,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3737
+      "UsersEstimate": 3738
     },
     {
       "ID": "ACH_0011",
@@ -31412,7 +31417,7 @@
       "Name": "I Like Trains",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "ACH_0050",
@@ -31428,7 +31433,7 @@
       "Name": "Freebooter",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "ACH_0061",
@@ -31476,7 +31481,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3737
+      "UsersEstimate": 3738
     },
     {
       "ID": "ACH_0210",
@@ -31484,7 +31489,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3737
+      "UsersEstimate": 3738
     },
     {
       "ID": "ACH_0211",
@@ -31659,13 +31664,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 93435,
+      "Progressed": 93439,
       "Completed": 59
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21782,
+      "Progressed": 21786,
       "Completed": 15600
     }
   ],
@@ -31673,8 +31678,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-13T07:58:40.0412801+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:06:30.4800322+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:06:00.2164101+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:40.4736817+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:58:35.6753891+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:06:30.4801716+00:00"
+  "LastUpdate_Ratings": "2024-01-13T14:58:12.950889+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:06:00.2165746+00:00"
 }

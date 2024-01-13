@@ -15,7 +15,7 @@ Number of Ratings: 116  (23.09.2022)
 | Just the start | 50.00% | ~288 |
 | Perfect Storm | 47.00% | ~271 |
 | All That Glitters | 46.00% | ~265 |
-| Enhance! | 42.00% | ~242 |
+| Enhance! | 43.00% | ~248 |
 | One Of the Chosen | 40.00% | ~230 |
 | Throne Potato | 40.00% | ~230 |
 | Five's a Crowd | 40.00% | ~230 |
@@ -31,14 +31,14 @@ Number of Ratings: 116  (23.09.2022)
 | Freeze Frame | 30.00% | ~173 |
 | Eat Your Heart Out | 30.00% | ~173 |
 | For Whom the Bell Tolls | 29.00% | ~167 |
-| Unyielding Strength | 26.00% | ~150 |
+| Unyielding Strength | 27.00% | ~156 |
 | Can you restore the Balance? | 26.00% | ~150 |
 | Crowd Source | 26.00% | ~150 |
 | Big Spender | 26.00% | ~150 |
 | Cleanup Crew | 25.00% | ~144 |
 | Demon Meddler | 24.00% | ~138 |
 | Seeing Red | 24.00% | ~138 |
-| Maximum Capacity | 22.00% | ~127 |
+| Maximum Capacity | 23.00% | ~132 |
 | Egomaniac | 22.00% | ~127 |
 | Protector of Humanity | 21.00% | ~121 |
 | Everybody Wants to Rule the World | 21.00% | ~121 |
@@ -50,7 +50,7 @@ Number of Ratings: 116  (23.09.2022)
 | Holy Keeper | 12.00% | ~69 |
 | Demon Keeper | 12.00% | ~69 |
 | Humanitarian | 10.00% | ~58 |
-| Soul Reaper | 8.00% | ~46 |
+| Soul Reaper | 9.00% | ~52 |
 | Made of Sterner Stuff | 7.00% | ~40 |
 | My Evil Twin | 6.00% | ~35 |
 | Purity of Power | 5.00% | ~29 |

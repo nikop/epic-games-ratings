@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 669,
+  "EOS_Progressed": 670,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -1399,6 +1399,11 @@
       "Time": "2024-01-13T10:06:29.9954094+00:00",
       "NumProgressed": 669,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-13T15:05:23.3166933+00:00",
+      "NumProgressed": 670,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1512,9 +1517,9 @@
       "ID": "Illustrator",
       "SetID": "ek310c",
       "Name": "F is for Feline",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 74
     },
     {
       "ID": "Investigative",
@@ -1530,7 +1535,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "Leisurely_Strol",
@@ -1570,7 +1575,7 @@
       "Name": "Den Mother",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Ninja",
@@ -1641,7 +1646,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 669,
+      "Progressed": 670,
       "Completed": 6
     }
   ],
@@ -1649,8 +1654,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:05:51.6055967+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:05:23.3166929+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:57:00.9618312+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:03:44.0514366+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:05:51.6056254+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:03:26.1713649+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:05:23.3167193+00:00"
 }

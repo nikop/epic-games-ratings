@@ -33,7 +33,7 @@
 | Ostinato | 0.00% | ~0 |
 | Rondo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 976 (Ranked 298)  
+Progressed: 977 (Ranked 298)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-10 | 964 | 0 |
 | 2024-01-11 | 966 | 0 |
 | 2024-01-12 | 972 | 0 |
-| 2024-01-13 | 976 | 0 |
+| 2024-01-13 | 977 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

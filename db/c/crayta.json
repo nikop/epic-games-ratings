@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -332,9 +332,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109970,
+  "EOS_Progressed": 109971,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3922,6 +3922,11 @@
       "Time": "2024-01-13T06:05:30.5191254+00:00",
       "NumProgressed": 109970,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T15:05:43.2696707+00:00",
+      "NumProgressed": 109971,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -3973,7 +3978,7 @@
       "Name": "Getting Friendly",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5498
+      "UsersEstimate": 5499
     },
     {
       "ID": "15",
@@ -4133,7 +4138,7 @@
       "Name": "Challenge Apprentice",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5498
+      "UsersEstimate": 5499
     },
     {
       "ID": "35",
@@ -4204,15 +4209,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109970,
+      "Progressed": 109971,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:06:12.3643038+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:05:43.26967+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:03.6801595+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:02:57.8104877+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:06:12.3643521+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:02:44.0973023+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:05:43.2697103+00:00"
 }

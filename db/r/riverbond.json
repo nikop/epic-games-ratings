@@ -6,8 +6,8 @@
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 37,
-  "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_Completed": 314,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -503,9 +503,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 535501,
+  "EOS_Progressed": 535502,
   "EOS_Completed": 522,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -29063,6 +29063,11 @@
       "Time": "2024-01-13T14:08:47.6594523+00:00",
       "NumProgressed": 535501,
       "NumCompleted": 522
+    },
+    {
+      "Time": "2024-01-13T15:08:40.9171808+00:00",
+      "NumProgressed": 535502,
+      "NumCompleted": 522
     }
   ],
   "TotalAchievements": 57,
@@ -29082,7 +29087,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 240975
+      "UsersEstimate": 240976
     },
     {
       "ID": "11",
@@ -29298,7 +29303,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 267750
+      "UsersEstimate": 267751
     },
     {
       "ID": "36",
@@ -29330,7 +29335,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 182070
+      "UsersEstimate": 182071
     },
     {
       "ID": "4",
@@ -29418,7 +29423,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 182070
+      "UsersEstimate": 182071
     },
     {
       "ID": "5",
@@ -29450,7 +29455,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 246330
+      "UsersEstimate": 246331
     },
     {
       "ID": "53",
@@ -29529,15 +29534,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 535501,
+      "Progressed": 535502,
       "Completed": 522
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-12-14T14:59:39.4842186+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:08:47.659452+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:08:40.9171805+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:34.7747339+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:59:55.2777632+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:08:47.6596378+00:00"
+  "LastUpdate_Ratings": "2024-01-13T14:59:25.7730858+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:08:40.917391+00:00"
 }

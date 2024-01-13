@@ -30,7 +30,7 @@ Rating: 4.70 (Ranked 220)
 | Street Style | 19.00% | ~250 |
 | The Man Who Shattered Time | 18.00% | ~237 |
 | The Family Fortune | 18.00% | ~237 |
-| Whiz Kid | 15.00% | ~197 |
+| Whiz Kid | 16.00% | ~210 |
 | Good Neighbor | 15.00% | ~197 |
 | Family Memories | 14.00% | ~184 |
 | Chaincrawler Explorer | 13.00% | ~171 |
@@ -60,7 +60,7 @@ Rating: 4.70 (Ranked 220)
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,315 (Ranked 281)  
-Completed: 8 (0.61%) (Ranked 209)  
+Completed: 8 (0.61%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

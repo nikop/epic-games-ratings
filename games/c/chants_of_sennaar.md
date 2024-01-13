@@ -9,7 +9,7 @@ Rating: 4.85 (Ranked 40)
 | Welcome to the Tower | 54.00% | ~1,474 |
 | The great escape | 46.00% | ~1,255 |
 | The Preacher's fate | 44.00% | ~1,201 |
-| A new dawn | 37.00% | ~1,010 |
+| A new dawn | 38.00% | ~1,037 |
 | Scholar | 33.00% | ~901 |
 | The darkness | 32.00% | ~873 |
 | A good beginning | 31.00% | ~846 |
@@ -18,8 +18,8 @@ Rating: 4.85 (Ranked 40)
 | Cable guy | 28.00% | ~764 |
 | Half the way | 28.00% | ~764 |
 | I did it | 27.00% | ~737 |
+| Peace walker | 27.00% | ~737 |
 | In this together | 26.00% | ~710 |
-| Peace walker | 26.00% | ~710 |
 | Rascal | 26.00% | ~710 |
 | Champollion | 26.00% | ~710 |
 | Open door | 22.00% | ~600 |
@@ -32,7 +32,7 @@ Rating: 4.85 (Ranked 40)
 | Fashion victim | 10.00% | ~273 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,729 (Ranked 235)  
-Completed: 202 (7.40%) (Ranked 58)  
+Completed: 203 (7.44%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -206,7 +206,7 @@ Completed: 202 (7.40%) (Ranked 58)
 | 2024-01-10 | 2,665 | 192 |
 | 2024-01-11 | 2,694 | 196 |
 | 2024-01-12 | 2,719 | 200 |
-| 2024-01-13 | 2,729 | 202 |
+| 2024-01-13 | 2,729 | 203 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

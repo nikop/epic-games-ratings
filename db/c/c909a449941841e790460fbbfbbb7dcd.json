@@ -4,8 +4,8 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 245,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.49,
   "EosHistory": [
@@ -1140,9 +1140,9 @@
       "ID": "DEFEATED_10000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Slayer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "DEFEATED_1000_ENEMIES",
@@ -1204,17 +1204,17 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "14g34pl",
       "Name": "Northbarrow is safe!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "14g34pl",
       "Name": "Sagehaven is safe!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1267,8 +1267,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:06:31.6101966+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:06:01.225072+00:00",
   "LastUpdate_AppInfo": "2024-01-10T01:46:07.1630016+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:00:40.8664668+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:06:31.6102143+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:00:09.1227394+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:06:01.2250917+00:00"
 }

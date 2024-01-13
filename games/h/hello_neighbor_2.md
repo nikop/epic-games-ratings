@@ -1,26 +1,26 @@
 # Hello Neighbor 2
 [Store](https://store.epicgames.com/en-US/p/hello-neighbor-2)  
 [View Rawdata](../../db/h/hello_neighbor_2.json)  
-Rating: 4.43 (Ranked 727)  
+Rating: 4.43 (Ranked 728)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Raven Brooks | 79.00% | ~3,193 |
+| Welcome to Raven Brooks | 79.00% | ~3,195 |
 | Case Closed | 35.00% | ~1,415 |
 | Shovel Night | 35.00% | ~1,415 |
-| Easy As Pie | 33.00% | ~1,334 |
-| Family Lost | 31.00% | ~1,253 |
-| Treasure Hunt | 29.00% | ~1,172 |
+| Easy As Pie | 33.00% | ~1,335 |
+| Family Lost | 31.00% | ~1,254 |
+| Treasure Hunt | 29.00% | ~1,173 |
 | Ancient Curse | 26.00% | ~1,051 |
-| Hidden Secrets | 24.00% | ~970 |
+| Hidden Secrets | 24.00% | ~971 |
 | Cat Person | 23.00% | ~930 |
 | Climber | 23.00% | ~930 |
 | Mad Scientist | 23.00% | ~930 |
-| Imprisonment | 22.00% | ~889 |
-| Reunion | 22.00% | ~889 |
+| Imprisonment | 22.00% | ~890 |
+| Reunion | 22.00% | ~890 |
 | Dog Person | 18.00% | ~728 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,042 (Ranked 217)  
+Progressed: 4,044 (Ranked 217)  
 Completed: 144 (3.56%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 144 (3.56%) (Ranked 101)
 | 2024-01-10 | 4,013 | 144 |
 | 2024-01-11 | 4,022 | 144 |
 | 2024-01-12 | 4,033 | 144 |
-| 2024-01-13 | 4,042 | 144 |
+| 2024-01-13 | 4,044 | 144 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

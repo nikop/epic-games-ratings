@@ -21,32 +21,32 @@ Rating: 4.38 (Ranked 797)
 | The Major | 46.00% | ~230 |
 | Comtesse Margaux de Vos | 44.00% | ~220 |
 | Curious and Beautiful | 43.00% | ~215 |
-| Jacqueline “Jackie” Conrad | 42.00% | ~210 |
-| The Interrogations | 42.00% | ~210 |
-| Well-acquainted | 40.00% | ~200 |
+| Jacqueline “Jackie” Conrad | 43.00% | ~215 |
+| The Interrogations | 43.00% | ~215 |
+| Well-acquainted | 41.00% | ~205 |
 | Zakariya Demir | 40.00% | ~200 |
 | Well-read | 39.00% | ~195 |
 | Cassandra Van den Bosch | 37.00% | ~185 |
 | The Secret | 37.00% | ~185 |
 | Gedeon Demir | 35.00% | ~175 |
 | Rehana Piette | 34.00% | ~170 |
-| Instinct is Marvellous | 32.00% | ~160 |
+| Instinct is Marvellous | 33.00% | ~165 |
 | Ernesto da Silva | 32.00% | ~160 |
 | Inge Frank | 31.00% | ~155 |
+| The Search | 31.00% | ~155 |
 | Hugo Beckers | 30.00% | ~150 |
-| The Search | 30.00% | ~150 |
 | The Family | 28.00% | ~140 |
 | Well-travelled | 27.00% | ~135 |
 | Thinking of Everything | 27.00% | ~135 |
 | Archibald Sterling | 26.00% | ~130 |
 | Viscount Edwin Van den Bosch | 26.00% | ~130 |
 | Exquisite Artwork | 25.00% | ~125 |
-| Well-prepared | 21.00% | ~105 |
+| Well-prepared | 22.00% | ~110 |
 | The Truth | 21.00% | ~105 |
+| What Else Did I Miss? | 19.00% | ~95 |
 | I Like an Audience | 19.00% | ~95 |
 | The Denouement | 18.00% | ~90 |
 | Sunken Secrets | 18.00% | ~90 |
-| What Else Did I Miss? | 18.00% | ~90 |
 | Probably the Greatest Detective in the World | 13.00% | ~65 |
 | Take a Break | 11.00% | ~55 |
 | Room with a View | 7.00% | ~35 |

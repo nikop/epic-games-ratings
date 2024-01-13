@@ -20,11 +20,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Persistent Buzzing | 0.60% | ~1,522 |
 | Pure Energy | 0.60% | ~1,522 |
 | Fast Food | 0.60% | ~1,320 |
-| Maddening | 0.50% | ~1,268 |
-| Terror in the Dark | 0.50% | ~1,268 |
-| Unearthed Evil | 0.50% | ~1,268 |
-| The Crumbling Temple | 0.50% | ~1,268 |
-| The Contagious Curse | 0.50% | ~1,268 |
+| Maddening | 0.50% | ~1,269 |
+| Terror in the Dark | 0.50% | ~1,269 |
+| Unearthed Evil | 0.50% | ~1,269 |
+| The Crumbling Temple | 0.50% | ~1,269 |
+| The Contagious Curse | 0.50% | ~1,269 |
 | The Overgrown Grove | 0.50% | ~1,100 |
 | Flames of Avernus | 0.50% | ~1,100 |
 | Mental Gymnastics | 0.50% | ~1,100 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,696 (Ranked 70)  
+Progressed: 253,709 (Ranked 70)  
 Completed: 2,616 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -821,7 +821,7 @@ Completed: 2,616 (1.03%) (Ranked 178)
 | 2024-01-10 | 253,250 | 2,611 |
 | 2024-01-11 | 253,420 | 2,614 |
 | 2024-01-12 | 253,598 | 2,614 |
-| 2024-01-13 | 253,696 | 2,616 |
+| 2024-01-13 | 253,709 | 2,616 |
 ## Awards
 Max (Great for Beginners): 5,774  (Ranked 74)  
 Sum: 33,473 (Ranked 41)  

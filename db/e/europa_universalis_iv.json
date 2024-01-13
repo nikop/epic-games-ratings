@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14373,9 +14373,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 497956,
+  "EOS_Progressed": 498008,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4560,
+  "EOS_NewPlayers": 4558,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45318,6 +45318,11 @@
       "Time": "2024-01-13T14:10:31.1651593+00:00",
       "NumProgressed": 497956,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T15:10:15.2800603+00:00",
+      "NumProgressed": 498008,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -46159,9 +46164,9 @@
       "ID": "achievement_for_the_glory",
       "SetID": "8p2n7he",
       "Name": "For the Glory",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 996
+      "UsersEstimate": 1494
     },
     {
       "ID": "achievement_forever_golden",
@@ -48232,21 +48237,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 497956,
+      "Progressed": 498008,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 497956,
+      "Progressed": 498008,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-13T08:59:08.4193677+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:10:31.165159+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:10:15.2800599+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.850256+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:59:25.5572275+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:10:31.1664581+00:00"
+  "LastUpdate_Ratings": "2024-01-13T14:58:57.5860064+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:10:15.2811077+00:00"
 }

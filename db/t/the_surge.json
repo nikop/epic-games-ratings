@@ -2,13 +2,13 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 706,
-  "Ranking_Popularity": 524,
+  "Ranking_Rating": 707,
+  "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -400,7 +400,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5409,
+  "EOS_Progressed": 5410,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
@@ -5225,6 +5225,11 @@
       "Time": "2024-01-13T14:06:19.9713035+00:00",
       "NumProgressed": 5409,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-13T15:05:50.3548689+00:00",
+      "NumProgressed": 5410,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5236,7 +5241,7 @@
       "Name": "P.A.X",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -5252,7 +5257,7 @@
       "Name": "Big Sister",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -5292,7 +5297,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5084
+      "UsersEstimate": 5085
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5300,7 +5305,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4111
+      "UsersEstimate": 4112
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -5452,7 +5457,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4111
+      "UsersEstimate": 4112
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5500,7 +5505,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -5588,7 +5593,7 @@
       "Name": "SENTINEL",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -5771,15 +5776,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5409,
+      "Progressed": 5410,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:06:19.9713032+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:05:50.3548686+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.5688271+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:00:38.625379+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:06:19.9714004+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:00:07.2752968+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:05:50.3549535+00:00"
 }

@@ -6,21 +6,21 @@ Rating: 3.86 (Ranked 1,077)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Bundle of Joy | 49.00% | ~328 |
-| A Friend in Need... | 44.00% | ~294 |
+| A Friend in Need... | 44.00% | ~295 |
 | Bosom Buddies | 30.00% | ~201 |
 | Beat the Heat | 23.00% | ~154 |
 | A Familiar Face | 14.00% | ~94 |
 | Unexpected Consequences | 13.00% | ~87 |
-| F is for Feline | 12.00% | ~80 |
 | Does Not Compute | 12.00% | ~80 |
 | Identity Theft | 11.00% | ~74 |
 | Mind the Gap | 11.00% | ~74 |
+| F is for Feline | 11.00% | ~74 |
 | A Trip to Remember | 11.00% | ~74 |
 | U Mad Bro? | 10.00% | ~67 |
 | Short Circuit | 10.00% | ~67 |
 | Catch You Later | 7.00% | ~47 |
 | A Stealthy Outlook | 6.00% | ~40 |
-| Den Mother | 5.00% | ~33 |
+| Den Mother | 5.00% | ~34 |
 | Between the Covers | 4.00% | ~27 |
 | Antisocial Club | 4.00% | ~27 |
 | You Had One Job... | 4.00% | ~27 |
@@ -35,7 +35,7 @@ Rating: 3.86 (Ranked 1,077)
 | Urban Scrawl | 1.00% | ~7 |
 | Marvellous Toys | 1.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 669 (Ranked 333)  
+Progressed: 670 (Ranked 333)  
 Completed: 6 (0.90%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 6 (0.90%) (Ranked 187)
 | 2024-01-10 | 662 | 6 |
 | 2024-01-11 | 665 | 6 |
 | 2024-01-12 | 668 | 6 |
-| 2024-01-13 | 669 | 6 |
+| 2024-01-13 | 670 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

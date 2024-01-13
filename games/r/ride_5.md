@@ -1,23 +1,23 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.54 (Ranked 552)  
+Rating: 4.55 (Ranked 529)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 50.00% | ~1,786 |
-| First Love | 45.00% | ~1,608 |
-| Clean Race | 44.00% | ~1,572 |
-| Hear That Roar! | 43.00% | ~1,536 |
+| Eat My Dust | 50.00% | ~1,788 |
+| First Love | 45.00% | ~1,609 |
+| Clean Race | 45.00% | ~1,609 |
+| Hear That Roar! | 43.00% | ~1,537 |
 | Bitter Rivalry | 31.00% | ~1,108 |
 | Rivals to the End | 31.00% | ~1,108 |
 | Champagne Spray | 30.00% | ~1,072 |
 | We're Going to Need a Bigger Garage | 27.00% | ~965 |
 | Quick Pit Stop | 23.00% | ~822 |
-| I Want One Too! | 21.00% | ~750 |
+| I Want One Too! | 21.00% | ~751 |
 | Restored and Ready | 20.00% | ~715 |
 | Legendary!!! | 20.00% | ~715 |
-| Go-Faster Stripes | 17.00% | ~607 |
+| Go-Faster Stripes | 17.00% | ~608 |
 | I'm Here Too! | 15.00% | ~536 |
 | We've Just Begun | 15.00% | ~536 |
 | Is It the Right Size? | 9.00% | ~322 |
@@ -32,11 +32,11 @@ Rating: 4.54 (Ranked 552)
 | La Dolce Vita | 3.00% | ~107 |
 | I Make the Rules! | 3.00% | ~107 |
 | Rounding Off | 3.00% | ~107 |
-| Iconic! | 2.00% | ~71 |
-| I'll Be the Best! | 2.00% | ~71 |
-| Back in Blighty | 2.00% | ~71 |
-| Still Here | 2.00% | ~71 |
-| Overtaking the Master | 2.00% | ~71 |
+| Iconic! | 2.00% | ~72 |
+| I'll Be the Best! | 2.00% | ~72 |
+| Back in Blighty | 2.00% | ~72 |
+| Still Here | 2.00% | ~72 |
+| Overtaking the Master | 2.00% | ~72 |
 | Next Level | 1.00% | ~36 |
 | I Don't Stop | 1.00% | ~36 |
 | Exhausted but Happy | 0.70% | ~25 |
@@ -55,7 +55,7 @@ Rating: 4.54 (Ranked 552)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,573 (Ranked 226)  
+Progressed: 3,575 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-10 | 3,543 | 0 |
 | 2024-01-11 | 3,552 | 0 |
 | 2024-01-12 | 3,570 | 0 |
-| 2024-01-13 | 3,573 | 0 |
+| 2024-01-13 | 3,575 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -198,3 +198,4 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-02 | 4.46 | 0 | 0 |
 | 2024-01-09 | 4.50 | 0 | 0 |
 | 2024-01-11 | 4.54 | 0 | 0 |
+| 2024-01-13 | 4.55 | 0 | 0 |

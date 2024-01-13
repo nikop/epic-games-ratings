@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4047,
+  "EOS_Progressed": 4051,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4834,6 +4834,11 @@
       "Time": "2024-01-13T14:06:46.2359709+00:00",
       "NumProgressed": 4047,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T15:06:15.1142198+00:00",
+      "NumProgressed": 4051,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -4854,7 +4859,7 @@
       "Name": "Done for Today",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -4870,7 +4875,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -4878,7 +4883,7 @@
       "Name": "Gruesome Ball Handler",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -4910,7 +4915,7 @@
       "Name": "Terrible Journey",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -4934,7 +4939,7 @@
       "Name": "Grim Challenger",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -4950,7 +4955,7 @@
       "Name": "Worthy Badge",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -5006,7 +5011,7 @@
       "Name": "Your Own Nightmare",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -5030,7 +5035,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 1578
+      "UsersEstimate": 1580
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -5046,7 +5051,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1823
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -5221,14 +5226,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 4047,
+      "Progressed": 4051,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:06:46.2359706+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:06:15.1142195+00:00",
   "LastUpdate_AppInfo": "2024-01-09T13:13:37.5527845+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:58:24.9500288+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:06:46.2360255+00:00"
+  "LastUpdate_Ratings": "2024-01-13T14:58:02.4108263+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:06:15.1142819+00:00"
 }

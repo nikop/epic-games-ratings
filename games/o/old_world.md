@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 4.00% | ~665 |
-| Play a Single Player Game | 4.00% | ~665 |
+| Settler | 4.00% | ~666 |
+| Play a Single Player Game | 4.00% | ~666 |
 | Explorer | 3.00% | ~499 |
 | Intrepid | 3.00% | ~499 |
 | Friendly Family | 3.00% | ~499 |
@@ -42,12 +42,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 2.00% | ~333 |
 | Trade Caravan | 2.00% | ~333 |
 | Regicide | 1.00% | ~166 |
+| Hanging Gardens in Babylon | 1.00% | ~166 |
 | Drillmaster | 1.00% | ~166 |
 | Brilliant | 1.00% | ~166 |
 | Great | 1.00% | ~166 |
 | Wise | 1.00% | ~166 |
 | Legendary Cities | 1.00% | ~166 |
 | Able Difficulty | 1.00% | ~166 |
+| Just Difficulty | 1.00% | ~166 |
 | Furious Family | 1.00% | ~166 |
 | Acropolis | 1.00% | ~166 |
 | Apadana | 1.00% | ~166 |
@@ -63,10 +65,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 1.00% | ~166 |
 | Roman Paganism | 1.00% | ~166 |
 | Mythology | 1.00% | ~166 |
-| Hanging Gardens in Babylon | 0.90% | ~150 |
 | Intercessor | 0.90% | ~150 |
 | Valiant | 0.90% | ~150 |
-| Just Difficulty | 0.90% | ~150 |
 | Artisans | 0.90% | ~150 |
 | Sages | 0.90% | ~150 |
 | Building Wonders | 0.90% | ~150 |
@@ -74,16 +74,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.80% | ~133 |
 | Persian Paganism | 0.80% | ~133 |
 | Points Victory | 0.80% | ~133 |
-| Beloved | 0.70% | ~116 |
-| Mighty | 0.70% | ~116 |
-| Good Difficulty | 0.70% | ~116 |
-| Patrons | 0.70% | ~116 |
-| Statesmen | 0.70% | ~116 |
-| Temple of Solomon | 0.70% | ~116 |
-| Greece | 0.70% | ~116 |
-| Power to the People | 0.70% | ~116 |
-| Win a Single Player Game | 0.70% | ~116 |
+| Beloved | 0.70% | ~117 |
+| Mighty | 0.70% | ~117 |
+| Good Difficulty | 0.70% | ~117 |
+| Patrons | 0.70% | ~117 |
+| Statesmen | 0.70% | ~117 |
+| Temple of Solomon | 0.70% | ~117 |
+| Greece | 0.70% | ~117 |
+| Power to the People | 0.70% | ~117 |
+| Win a Single Player Game | 0.70% | ~117 |
 | Conqueror | 0.60% | ~100 |
+| Subjugator | 0.60% | ~100 |
 | Victorious | 0.60% | ~100 |
 | Landowners | 0.60% | ~100 |
 | Riders | 0.60% | ~100 |
@@ -106,7 +107,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.50% | ~83 |
 | Invincible | 0.50% | ~83 |
 | Ready | 0.50% | ~83 |
-| Subjugator | 0.50% | ~83 |
 | Hunters | 0.50% | ~83 |
 | Learn to Play 4 | 0.50% | ~83 |
 | Assyrian Paganism | 0.50% | ~83 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,636 (Ranked 170)  
+Progressed: 16,648 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -633,7 +633,7 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
-| 2024-01-13 | 16,636 | 5 |
+| 2024-01-13 | 16,648 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,927 (Ranked 223)  

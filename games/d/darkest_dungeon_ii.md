@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,054 |
+| Malpractice Assurance | 14.00% | ~1,055 |
 | Lost and Found | 9.00% | ~678 |
 | Autodidact | 8.00% | ~10,613 |
 | This Belongs in a Museum | 7.00% | ~9,286 |
@@ -27,16 +27,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 5.00% | ~6,633 |
 | A Place to Lay Your Head | 5.00% | ~6,633 |
 | FNG | 5.00% | ~6,633 |
-| Unfulfilled Desires | 4.00% | ~5,306 |
-| Dissector | 4.00% | ~5,306 |
-| Banishment | 4.00% | ~5,306 |
-| Spelunker | 4.00% | ~5,306 |
-| Merry Time | 4.00% | ~5,306 |
-| Harvest Festival | 4.00% | ~5,306 |
-| Ramble On | 4.00% | ~5,306 |
-| Whale | 4.00% | ~5,306 |
-| Nope | 4.00% | ~5,306 |
-| Unshackled | 4.00% | ~5,306 |
+| Unfulfilled Desires | 4.00% | ~5,307 |
+| Dissector | 4.00% | ~5,307 |
+| Banishment | 4.00% | ~5,307 |
+| Spelunker | 4.00% | ~5,307 |
+| Merry Time | 4.00% | ~5,307 |
+| Harvest Festival | 4.00% | ~5,307 |
+| Ramble On | 4.00% | ~5,307 |
+| Whale | 4.00% | ~5,307 |
+| Nope | 4.00% | ~5,307 |
+| Unshackled | 4.00% | ~5,307 |
 | Friends 'Til the End | 4.00% | ~301 |
 | Resurrection | 3.00% | ~3,980 |
 | Unleash Hell | 3.00% | ~3,980 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,660 (Ranked 91)  
+Progressed: 132,664 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 4 (0.00%) (Ranked 399)
 | 2024-01-10 | 132,395 | 4 |
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
-| 2024-01-13 | 132,660 | 4 |
+| 2024-01-13 | 132,664 | 4 |
 ## Awards
 Max (Character Customization): 8,007  (Ranked 51)  
 Sum: 21,618 (Ranked 58)  

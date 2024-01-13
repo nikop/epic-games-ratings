@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 3834,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
     "PcReleaseDate": "2015-03-26T16:00:00+00:00",
@@ -3603,9 +3603,9 @@
       "Count": 190
     }
   ],
-  "EOS_Progressed": 1076,
+  "EOS_Progressed": 1075,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": -3,
+  "EOS_NewPlayers": -4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -4023,6 +4023,11 @@
       "Time": "2024-01-13T00:06:14.6716083+00:00",
       "NumProgressed": 1076,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-13T15:05:22.8378869+00:00",
+      "NumProgressed": 1075,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -4034,7 +4039,7 @@
       "Name": "Completed Act I",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 333
     },
     {
       "ID": "achievement_02",
@@ -4122,7 +4127,7 @@
       "Name": "5 Upgrades in Stronghold",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 290
     },
     {
       "ID": "achievement_13",
@@ -4154,7 +4159,7 @@
       "Name": "Explorer",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 64
     },
     {
       "ID": "achievement_17",
@@ -4194,7 +4199,7 @@
       "Name": "A Voice from the Deep",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 64
     },
     {
       "ID": "achievement_22",
@@ -4210,7 +4215,7 @@
       "Name": "Called to their Labor",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 64
     },
     {
       "ID": "achievement_24",
@@ -4312,9 +4317,9 @@
       "ID": "achievement_36",
       "SetID": "70p237j",
       "Name": "Kickstarter Backer",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 893
+      "UsersEstimate": 903
     },
     {
       "ID": "achievement_37",
@@ -4417,15 +4422,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1076,
+      "Progressed": 1075,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2024-01-11T11:59:08.5728014+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:05:51.1046847+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:05:22.8378865+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:19.1965971+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:00:39.0537981+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:05:51.104752+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:00:07.6583966+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:05:22.8379248+00:00"
 }

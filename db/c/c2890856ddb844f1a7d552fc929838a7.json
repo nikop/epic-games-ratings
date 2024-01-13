@@ -2,13 +2,13 @@
   "ID": "c2890856ddb844f1a7d552fc929838a7",
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
-  "Ranking_Rating": 51,
+  "Ranking_Rating": 52,
   "Ranking_Popularity": 515,
   "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -305,7 +305,7 @@
   ],
   "EOS_Progressed": 2488,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6020,9 +6020,9 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1120
     },
     {
       "ID": "AC10",
@@ -6036,9 +6036,9 @@
       "ID": "AC11",
       "SetID": "l4abp0",
       "Name": "A Heart of Gold",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 796
+      "UsersEstimate": 821
     },
     {
       "ID": "AC12",
@@ -6076,17 +6076,17 @@
       "ID": "AC16",
       "SetID": "l4abp0",
       "Name": "Weight of Penance",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 398
     },
     {
       "ID": "AC17",
       "SetID": "l4abp0",
       "Name": "Second Pilgrimage",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 373
     },
     {
       "ID": "AC18",
@@ -6325,8 +6325,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-11T21:01:32.4954396+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:06:06.6422339+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:05:37.9499727+00:00",
   "LastUpdate_AppInfo": "2024-01-10T04:57:09.7051995+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:57:49.3299573+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:06:06.6422895+00:00"
+  "LastUpdate_Ratings": "2024-01-13T14:57:31.4919133+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:05:37.9500367+00:00"
 }

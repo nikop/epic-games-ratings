@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -175,9 +175,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1445,
+  "EOS_Progressed": 1446,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 3.25,
   "EosHistory": [
@@ -5165,6 +5165,11 @@
       "Time": "2024-01-13T13:06:44.7255078+00:00",
       "NumProgressed": 1445,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2024-01-13T15:03:51.8318583+00:00",
+      "NumProgressed": 1446,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 28,
@@ -5176,7 +5181,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "MQ01_2",
@@ -5184,7 +5189,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "MQ02_1",
@@ -5216,15 +5221,15 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 737
+      "UsersEstimate": 723
     },
     {
       "ID": "MQ03_2",
@@ -5232,7 +5237,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "MQ03_3",
@@ -5240,7 +5245,7 @@
       "Name": "History Check",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "MQ03_4",
@@ -5264,7 +5269,7 @@
       "Name": "Going Once...",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "MQ04_2",
@@ -5280,7 +5285,7 @@
       "Name": "The New World",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "MQ05_1",
@@ -5336,7 +5341,7 @@
       "Name": "Land, Ho!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "MQ06_4",
@@ -5360,7 +5365,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "MQ08_1",
@@ -5368,7 +5373,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "MQ08_2",
@@ -5399,7 +5404,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1445,
+      "Progressed": 1446,
       "Completed": 47
     }
   ],
@@ -5407,8 +5412,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-09T11:03:12.1824937+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:04:10.901013+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:03:51.8318581+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:40.4350556+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:03:33.4574954+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:04:10.9010485+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:03:15.452109+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:03:51.8319144+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -961,7 +961,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 667302,
+  "EOS_Progressed": 667304,
   "EOS_Completed": 174,
   "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
@@ -26531,6 +26531,11 @@
       "Time": "2024-01-13T14:09:44.7586952+00:00",
       "NumProgressed": 667302,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-13T15:09:31.7708621+00:00",
+      "NumProgressed": 667304,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -26542,7 +26547,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 480457
+      "UsersEstimate": 480459
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -26550,7 +26555,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 387035
+      "UsersEstimate": 387036
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -26558,7 +26563,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 153479
+      "UsersEstimate": 153480
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -26678,7 +26683,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 153479
+      "UsersEstimate": 153480
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -26686,7 +26691,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 93422
+      "UsersEstimate": 93423
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -26694,7 +26699,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 113441
+      "UsersEstimate": 113442
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -26925,15 +26930,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 667302,
+      "Progressed": 667304,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2024-01-08T13:05:28.7282698+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:09:44.758695+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:09:31.7708614+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:16.9289695+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:59:31.8747117+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:09:44.7588397+00:00"
+  "LastUpdate_Ratings": "2024-01-13T14:59:04.1693747+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:09:31.7710374+00:00"
 }

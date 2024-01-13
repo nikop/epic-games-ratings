@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 3835,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -199,7 +199,7 @@
   "Tags": [],
   "EOS_Progressed": 1122,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -6,
+  "EOS_NewPlayers": -5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2962,9 +2962,9 @@
       "ID": "23",
       "SetID": "73ikgfc",
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 213
+      "UsersEstimate": 224
     }
   ],
   "AchievementSets": [
@@ -2979,8 +2979,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:05:10.5629601+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:04:45.6290724+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:22.9341362+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:03:17.1404304+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:05:10.5629899+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:03:01.9388272+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:04:45.6291041+00:00"
 }

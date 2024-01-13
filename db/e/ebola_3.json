@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 409,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 332,
+  "EOS_Progressed": 333,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
@@ -1436,6 +1436,11 @@
       "Time": "2024-01-12T08:10:55.7814516+00:00",
       "NumProgressed": 332,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T15:10:10.2665884+00:00",
+      "NumProgressed": 333,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1469,9 +1474,9 @@
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 180
     },
     {
       "ID": "achBett",
@@ -1509,9 +1514,9 @@
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 180
     },
     {
       "ID": "achCity",
@@ -1719,7 +1724,7 @@
       "Name": "Police officers \u2714",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achPriest",
@@ -1799,7 +1804,7 @@
       "Name": "Mutation \u2714",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achVip",
@@ -1846,7 +1851,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 332,
+      "Progressed": 333,
       "Completed": 0
     }
   ],
@@ -1854,8 +1859,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:10:25.4661464+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:10:10.266588+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.688521+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:02:59.2852795+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:10:25.4661881+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:02:45.444702+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:10:10.2666225+00:00"
 }

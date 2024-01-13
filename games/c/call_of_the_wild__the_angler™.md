@@ -25,7 +25,7 @@ Number of Ratings: 281  (23.09.2022)
 | Marathon | 1.00% | ~83 |
 | More than a Tourist | 0.90% | ~75 |
 | Hook, Line and Sinker | 0.90% | ~75 |
-| Gonna Need a Bigger Boat | 0.70% | ~58 |
+| Gonna Need a Bigger Boat | 0.80% | ~66 |
 | No Fin left to give | 0.60% | ~50 |
 | Live by the Rod, Diez by the Rod! | 0.50% | ~38 |
 | The Beetles | 0.40% | ~33 |

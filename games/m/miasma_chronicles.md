@@ -1,27 +1,27 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.39 (Ranked 788)  
+Rating: 4.39 (Ranked 787)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,577 |
-| Ranidaphobia | 77.00% | ~1,320 |
-| Aspiring Editor | 74.00% | ~1,268 |
+| First Blood | 92.00% | ~1,578 |
+| Ranidaphobia | 77.00% | ~1,321 |
+| Aspiring Editor | 74.00% | ~1,269 |
 | Gun for Hire | 69.00% | ~1,183 |
 | I am the law! | 63.00% | ~1,080 |
-| Lumberjack | 53.00% | ~908 |
+| Lumberjack | 53.00% | ~909 |
 | Croaked | 49.00% | ~840 |
 | Limp Richard | 48.00% | ~823 |
 | Exorcist | 48.00% | ~823 |
 | From Darkness to Light | 48.00% | ~823 |
 | Editor Adept | 47.00% | ~806 |
-| Giant Killer | 46.00% | ~788 |
-| Sensei | 44.00% | ~754 |
+| Giant Killer | 46.00% | ~789 |
+| Sensei | 44.00% | ~755 |
 | Firestarter | 42.00% | ~720 |
 | The meaning of Kain | 42.00% | ~720 |
+| Technophobe | 41.00% | ~703 |
 | Recycler | 40.00% | ~686 |
-| Technophobe | 40.00% | ~686 |
 | Are you not entertained? | 36.00% | ~617 |
 | Jarhead | 36.00% | ~617 |
 | Ganglord | 35.00% | ~600 |
@@ -35,12 +35,12 @@ Rating: 4.39 (Ranked 788)
 | There Can Be Only One! | 26.00% | ~446 |
 | Chain Killer | 22.00% | ~377 |
 | The Watchers | 22.00% | ~377 |
-| Commando | 17.00% | ~291 |
+| Commando | 17.00% | ~292 |
 | Chaos Theory | 16.00% | ~274 |
 | Dr Jones | 16.00% | ~274 |
 | Newtonian Knockout | 16.00% | ~274 |
 | Ruthless | 14.00% | ~240 |
-| Side Order | 11.00% | ~189 |
+| Side Order | 10.00% | ~172 |
 | Bot Whisperer | 9.00% | ~154 |
 | Chain Reaction | 9.00% | ~154 |
 | Curveball | 8.00% | ~137 |
@@ -57,7 +57,7 @@ Rating: 4.39 (Ranked 788)
 | Alpha Editor | 0.80% | ~14 |
 | QA Has Suffered! (Redux) | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,714 (Ranked 261)  
+Progressed: 1,715 (Ranked 261)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 1,702 | 0 |
 | 2024-01-10 | 1,709 | 0 |
 | 2024-01-11 | 1,711 | 0 |
-| 2024-01-13 | 1,714 | 0 |
+| 2024-01-13 | 1,715 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

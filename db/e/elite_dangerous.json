@@ -2,13 +2,13 @@
   "ID": "3db17abfd650423f993291624b1b2ac1",
   "Name": "Elite Dangerous",
   "ProductSlug": "elite-dangerous",
-  "Ranking_Rating": 358,
+  "Ranking_Rating": 357,
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 580,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-11-19T16:00:00+00:00",
     "PcReleaseDate": "2015-04-02T16:00:00+00:00",
@@ -7460,6 +7460,6 @@
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
   "LastChanged": "2024-01-13T10:57:08.8675495+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:20.4420914+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:57:22.6227884+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:06:59.0743331+00:00"
+  "LastUpdate_Ratings": "2024-01-13T14:57:11.1483324+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:06:26.4687964+00:00"
 }

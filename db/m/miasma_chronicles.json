@@ -2,13 +2,13 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 788,
+  "Ranking_Rating": 787,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1714,
+  "EOS_Progressed": 1715,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4435,6 +4435,11 @@
       "Time": "2024-01-13T14:10:24.3363896+00:00",
       "NumProgressed": 1714,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T15:10:09.0439842+00:00",
+      "NumProgressed": 1715,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -4462,7 +4467,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4518,7 +4523,7 @@
       "Name": "Commando",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "CROAKED",
@@ -4630,7 +4635,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -4662,7 +4667,7 @@
       "Name": "Giant Killer",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "GOAL",
@@ -4710,7 +4715,7 @@
       "Name": "Lumberjack",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -4750,7 +4755,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "RECYCLER",
@@ -4782,7 +4787,7 @@
       "Name": "Sensei",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "SHADOW_BOXING",
@@ -4796,9 +4801,9 @@
       "ID": "SIDE_ORDER",
       "SetID": "9a4jnji",
       "Name": "Side Order",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 172
     },
     {
       "ID": "SILENT_BUT_VIOLENT",
@@ -4812,9 +4817,9 @@
       "ID": "TECHNOPHOBE",
       "SetID": "9a4jnji",
       "Name": "Technophobe",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 686
+      "UsersEstimate": 703
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -4853,7 +4858,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1714,
+      "Progressed": 1715,
       "Completed": 0
     }
   ],
@@ -4861,8 +4866,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2024-01-02T20:02:58.7354435+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:10:24.3363894+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:10:09.0439839+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:50.6715934+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:03:29.4063734+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:10:24.3364477+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:03:12.2310624+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:10:09.0440298+00:00"
 }

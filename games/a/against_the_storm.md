@@ -6,22 +6,22 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taking Action | 9.00% | ~1,867 |
-| No Deaths | 9.00% | ~1,867 |
-| Abandoned Settlement | 9.00% | ~1,867 |
-| Overgrown Library | 9.00% | ~1,867 |
+| Taking Action | 9.00% | ~1,868 |
+| No Deaths | 9.00% | ~1,868 |
+| Abandoned Settlement | 9.00% | ~1,868 |
+| Overgrown Library | 9.00% | ~1,868 |
 | First Real Expedition | 8.00% | ~1,660 |
 | Petrified Necropolis | 8.00% | ~1,660 |
-| Overcoming Difficulty | 7.00% | ~1,452 |
-| Coral Forest | 7.00% | ~1,452 |
-| The Marshlands | 7.00% | ~1,452 |
+| Overcoming Difficulty | 7.00% | ~1,453 |
+| Coral Forest | 7.00% | ~1,453 |
+| The Marshlands | 7.00% | ~1,453 |
 | The Scarlet Orchard | 6.00% | ~1,245 |
 | Ominous Presence | 6.00% | ~1,245 |
 | Gathering Storm | 6.00% | ~1,245 |
-| Royal Outpost | 5.00% | ~1,037 |
-| Watchtower | 5.00% | ~1,037 |
-| Frosts | 5.00% | ~1,037 |
-| Land of Greed | 5.00% | ~1,037 |
+| Royal Outpost | 5.00% | ~1,038 |
+| Watchtower | 5.00% | ~1,038 |
+| Frosts | 5.00% | ~1,038 |
+| Land of Greed | 5.00% | ~1,038 |
 | Homesick | 4.00% | ~830 |
 | Ruined Armory | 4.00% | ~830 |
 | Fertile Meadows | 4.00% | ~830 |
@@ -47,10 +47,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Victory Through Prosperity | 2.00% | ~415 |
 | Defying the Crown | 2.00% | ~415 |
 | Into the Forest | 2.00% | ~415 |
-| Efficient Explorer | 1.00% | ~207 |
-| Dangerous Lands | 1.00% | ~207 |
-| Forbidden Lands | 1.00% | ~207 |
-| Forsaken Gods Temple | 1.00% | ~207 |
+| Efficient Explorer | 1.00% | ~208 |
+| Dangerous Lands | 1.00% | ~208 |
+| Forbidden Lands | 1.00% | ~208 |
+| Forsaken Gods Temple | 1.00% | ~208 |
 | Like a Machine | 0.90% | ~187 |
 | Feeding The People | 0.80% | ~166 |
 | Prestigious Expedition | 0.50% | ~104 |
@@ -59,14 +59,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Human Utopia | 0.40% | ~83 |
 | Beaver Utopia | 0.30% | ~62 |
 | Lizard Utopia | 0.30% | ~62 |
-| Harpy Utopia | 0.20% | ~41 |
+| Harpy Utopia | 0.20% | ~42 |
 | Paradise | 0.10% | ~21 |
 | Higher Needs | 0.10% | ~21 |
 | The Queen's Chosen | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,748 (Ranked 155)  
+Progressed: 20,750 (Ranked 155)  
 Completed: 35 (0.17%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 35 (0.17%) (Ranked 287)
 | 2024-01-10 | 20,658 | 34 |
 | 2024-01-11 | 20,700 | 34 |
 | 2024-01-12 | 20,729 | 34 |
-| 2024-01-13 | 20,748 | 35 |
+| 2024-01-13 | 20,750 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,380 (Ranked 177)  

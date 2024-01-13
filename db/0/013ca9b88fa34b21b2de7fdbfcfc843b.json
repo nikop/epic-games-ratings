@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 375,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9030,
+  "EOS_Progressed": 9035,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10148,6 +10148,11 @@
       "Time": "2024-01-13T14:10:21.97092+00:00",
       "NumProgressed": 9030,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T15:10:06.7726146+00:00",
+      "NumProgressed": 9035,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10496,20 +10501,20 @@
       "Name": "Exit Through The Gift Shop",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 9030,
+      "Progressed": 9035,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1647,
+      "Progressed": 1652,
       "Completed": 1050
     }
   ],
@@ -10517,8 +10522,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-12T15:03:42.669795+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:10:21.9709198+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:10:06.7726142+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:37.7520011+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:03:40.2362616+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:10:21.971002+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:03:23.1087879+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:10:06.7726992+00:00"
 }

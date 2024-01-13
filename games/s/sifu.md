@@ -6,16 +6,16 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,618 |
-| Life is your teacher | 5.00% | ~38,015 |
-| Lightning Hands | 5.00% | ~38,015 |
-| The Assault | 4.00% | ~30,412 |
-| The Hateful Pole Fighter | 3.00% | ~22,809 |
-| Stuntmaster | 3.00% | ~22,809 |
-| Street Fighting | 3.00% | ~22,809 |
-| State of constant learning | 3.00% | ~22,809 |
-| Qi Gong: Essence | 3.00% | ~22,809 |
-| Old Child | 3.00% | ~22,809 |
+| The Old Grandmaster | 6.00% | ~45,619 |
+| Life is your teacher | 5.00% | ~38,016 |
+| Lightning Hands | 5.00% | ~38,016 |
+| The Assault | 4.00% | ~30,413 |
+| The Hateful Pole Fighter | 3.00% | ~22,810 |
+| Stuntmaster | 3.00% | ~22,810 |
+| Street Fighting | 3.00% | ~22,810 |
+| State of constant learning | 3.00% | ~22,810 |
+| Qi Gong: Essence | 3.00% | ~22,810 |
+| Old Child | 3.00% | ~22,810 |
 | A Lady's Blood in the Snow | 2.00% | ~15,206 |
 | Lady Wing Chun | 2.00% | ~15,206 |
 | Furious Fists | 2.00% | ~15,206 |
@@ -40,9 +40,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Sword Stained With Blood | 0.60% | ~4,562 |
 | Bloody Sport | 0.60% | ~418 |
 | Martial Hub | 0.60% | ~418 |
-| Legendary Talismans of Wuxing | 0.50% | ~3,801 |
-| Prodigal Child | 0.50% | ~3,801 |
-| The 36th Chamber of Kung-Fu | 0.50% | ~3,801 |
+| Legendary Talismans of Wuxing | 0.50% | ~3,802 |
+| Prodigal Child | 0.50% | ~3,802 |
+| The 36th Chamber of Kung-Fu | 0.50% | ~3,802 |
 | The Pit Protector | 0.40% | ~3,041 |
 | Come Snap With Me | 0.40% | ~3,041 |
 | The best strikes are the ones we avoid | 0.40% | ~278 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~70 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 760,294 (Ranked 26)  
-Completed: 12,984 (1.71%) (Ranked 146)  
+Progressed: 760,324 (Ranked 26)  
+Completed: 12,985 (1.71%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -335,7 +335,7 @@ Completed: 12,984 (1.71%) (Ranked 146)
 | 2024-01-10 | 759,091 | 12,982 |
 | 2024-01-11 | 759,612 | 12,983 |
 | 2024-01-12 | 760,019 | 12,984 |
-| 2024-01-13 | 760,294 | 12,984 |
+| 2024-01-13 | 760,324 | 12,985 |
 ## Awards
 Max (Great Boss Battles): 7,194  (Ranked 57)  
 Sum: 12,725 (Ranked 85)  

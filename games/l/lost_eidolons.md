@@ -13,7 +13,7 @@ Rating: 4.35 (Ranked 829)
 | Monster Slayer | 32.00% | ~359 |
 | Awakening | 25.00% | ~280 |
 | Huntmaster | 24.00% | ~269 |
-| Complete the sidequest 'Malice and Greed' | 19.00% | ~213 |
+| Complete the sidequest 'Malice and Greed' | 20.00% | ~224 |
 | House Vulisica's Heirloom | 16.00% | ~180 |
 | Digging Deep | 15.00% | ~168 |
 | Broken Oath | 9.00% | ~101 |

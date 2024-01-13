@@ -1,28 +1,28 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.44 (Ranked 706)  
+Rating: 4.44 (Ranked 707)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~5,084 |
+| On My Own Two Feet | 94.00% | ~5,085 |
 | I'll Be Back | 84.00% | ~4,544 |
-| Sorry, I Dropped This | 76.00% | ~4,111 |
-| First Day on the Job | 76.00% | ~4,111 |
+| Sorry, I Dropped This | 76.00% | ~4,112 |
+| First Day on the Job | 76.00% | ~4,112 |
 | Butcher's Bill | 54.00% | ~2,921 |
-| P.A.X | 36.00% | ~1,947 |
+| P.A.X | 36.00% | ~1,948 |
 | Hey Listen | 35.00% | ~1,893 |
 | OPERATOR | 35.00% | ~1,893 |
 | It's Blue Light | 33.00% | ~1,785 |
-| Most Wanted | 26.00% | ~1,406 |
+| Most Wanted | 26.00% | ~1,407 |
 | Infidel | 23.00% | ~1,244 |
 | Firebug | 20.00% | ~1,082 |
 | GOLIATH | 20.00% | ~1,082 |
 | I Choose You | 17.00% | ~920 |
 | Nothing to Lose | 17.00% | ~920 |
-| Big Sister | 15.00% | ~811 |
-| SENTINEL | 15.00% | ~811 |
+| Big Sister | 15.00% | ~812 |
+| SENTINEL | 15.00% | ~812 |
 | Gear Up | 14.00% | ~757 |
 | The Black Cerberus | 12.00% | ~649 |
 | Watchman | 12.00% | ~649 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~32 |
 | The Surge | 0.40% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,409 (Ranked 204)  
+Progressed: 5,410 (Ranked 204)  
 Completed: 18 (0.33%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,11 +299,11 @@ Completed: 18 (0.33%) (Ranked 253)
 | 2024-01-10 | 5,379 | 18 |
 | 2024-01-11 | 5,391 | 18 |
 | 2024-01-12 | 5,404 | 18 |
-| 2024-01-13 | 5,409 | 18 |
+| 2024-01-13 | 5,410 | 18 |
 ## Awards
-Max (Great Boss Battles): 30  (Ranked 524)  
+Max (Great Boss Battles): 30  (Ranked 525)  
 Sum: 30 (Ranked 546)  
-Diff (max vs sum): -22  
+Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 30 |

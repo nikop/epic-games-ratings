@@ -24,7 +24,7 @@ Rating: 4.64 (Ranked 343)
 | Botanical Breakthrough | 1.00% | ~90 |
 | Azorian Anniversary | 1.00% | ~90 |
 | Skilled | 1.00% | ~90 |
-| Exit Through The Gift Shop | 1.00% | ~16 |
+| Exit Through The Gift Shop | 1.00% | ~17 |
 | Flaming Hot Completos | 0.80% | ~72 |
 | Fae Farmer | 0.70% | ~63 |
 | Got to Catch Them All | 0.70% | ~63 |
@@ -49,7 +49,7 @@ Rating: 4.64 (Ranked 343)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,030 (Ranked 186)  
+Progressed: 9,035 (Ranked 186)  
 Completed: 1 (0.01%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 1 (0.01%) (Ranked 375)
 | 2024-01-10 | 8,987 | 1 |
 | 2024-01-11 | 8,992 | 1 |
 | 2024-01-12 | 9,008 | 1 |
-| 2024-01-13 | 9,030 | 1 |
+| 2024-01-13 | 9,035 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,36 +5,36 @@ Rating: 4.53 (Ranked 566)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 63.00% | ~910 |
-| To Hell In A Handcart | 62.00% | ~896 |
+| Read Between The Lines | 63.00% | ~911 |
+| To Hell In A Handcart | 62.00% | ~897 |
 | High Profile | 55.00% | ~795 |
-| Whispers In The Dark | 52.00% | ~751 |
-| Fond Memories | 51.00% | ~737 |
+| Whispers In The Dark | 52.00% | ~752 |
+| Fond Memories | 50.00% | ~723 |
 | A Method To His Madness | 48.00% | ~694 |
-| History Check | 47.00% | ~679 |
-| The New World | 45.00% | ~650 |
+| History Check | 47.00% | ~680 |
+| The New World | 45.00% | ~651 |
 | Gaze Into The Abyss | 44.00% | ~636 |
 | Open Sesame | 44.00% | ~636 |
 | Sticky Fingers | 44.00% | ~636 |
 | Knives Out | 44.00% | ~636 |
-| Lock, Stock, And Barrel | 43.00% | ~621 |
-| Land, Ho! | 43.00% | ~621 |
+| Lock, Stock, And Barrel | 43.00% | ~622 |
+| Land, Ho! | 43.00% | ~622 |
 | Back In The Saddle | 42.00% | ~607 |
 | No Man Is An Island | 42.00% | ~607 |
-| At Wits' End | 41.00% | ~592 |
+| At Wits' End | 41.00% | ~593 |
 | Up In Flames | 39.00% | ~564 |
 | Fhtagn! | 39.00% | ~564 |
 | Bookworm | 38.00% | ~549 |
-| Going Once... | 36.00% | ~520 |
+| Going Once... | 36.00% | ~521 |
 | Let Me Be Frank | 35.00% | ~506 |
-| No Stone Unturned | 32.00% | ~462 |
+| No Stone Unturned | 32.00% | ~463 |
 | Brain Food | 31.00% | ~448 |
 | Read It And Weep | 20.00% | ~289 |
 | Curiosity Killed The Cat | 19.00% | ~275 |
 | Big Breakthrough | 13.00% | ~188 |
 | Reawakened | 4.00% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,445 (Ranked 273)  
+Progressed: 1,446 (Ranked 273)  
 Completed: 47 (3.25%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 47 (3.25%) (Ranked 105)
 | 2024-01-10 | 1,433 | 47 |
 | 2024-01-11 | 1,439 | 47 |
 | 2024-01-12 | 1,442 | 47 |
-| 2024-01-13 | 1,445 | 47 |
+| 2024-01-13 | 1,446 | 47 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

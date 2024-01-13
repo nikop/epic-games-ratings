@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4833,10 +4833,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7222,
       "NumberOfAwardsMax": 1784
+    },
+    {
+      "Time": "2024-01-13T14:58:43.7905977+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7223,
+      "NumberOfAwardsMax": 1784
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7222,
+  "NumberOfAwards": 7223,
   "NumberOfAwardsMax": 1784,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4862,7 +4868,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 653
+      "Count": 654
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4907,9 +4913,9 @@
       "Count": 407
     }
   ],
-  "EOS_Progressed": 13256,
+  "EOS_Progressed": 13258,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19652,6 +19658,11 @@
       "Time": "2024-01-13T14:10:28.5241499+00:00",
       "NumProgressed": 13256,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T15:10:12.8311941+00:00",
+      "NumProgressed": 13258,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19663,7 +19674,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3579
+      "UsersEstimate": 3580
     },
     {
       "ID": "02_BurningCity",
@@ -19863,7 +19874,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "28_GreatUpstart",
@@ -20031,7 +20042,7 @@
       "Name": "A Spark",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2651
+      "UsersEstimate": 2652
     },
     {
       "ID": "49_Flame",
@@ -20590,21 +20601,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12038,
+      "Progressed": 12040,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13256,
+      "Progressed": 13258,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2024-01-12T21:58:19.4495923+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:10:28.5241497+00:00",
+  "LastChanged": "2024-01-13T14:58:43.7905975+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:10:12.8311938+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:50.9176644+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:59:10.889081+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:10:28.5243322+00:00"
+  "LastUpdate_Ratings": "2024-01-13T14:58:43.7905979+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:10:12.831358+00:00"
 }

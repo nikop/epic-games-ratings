@@ -1743,9 +1743,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 247898,
+  "EOS_Progressed": 247905,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1067,
+  "EOS_NewPlayers": 1064,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26038,6 +26038,11 @@
       "Time": "2024-01-13T14:10:26.6749724+00:00",
       "NumProgressed": 247898,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-13T15:10:11.3676241+00:00",
+      "NumProgressed": 247905,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -26497,7 +26502,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 91722
+      "UsersEstimate": 91725
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -26545,7 +26550,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27269
+      "UsersEstimate": 27270
     },
     {
       "ID": "FollowBraztok",
@@ -26641,7 +26646,7 @@
       "Name": "It\u0027s been a hard day\u0027s night",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "QuestMinstrel",
@@ -26752,21 +26757,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 247898,
+      "Progressed": 247905,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 247898,
+      "Progressed": 247905,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-13T01:45:26.0782972+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:10:26.6749722+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:10:11.3676238+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8090113+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:58:29.967784+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:10:26.6751534+00:00"
+  "LastUpdate_Ratings": "2024-01-13T14:58:07.3599781+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:10:11.3677793+00:00"
 }

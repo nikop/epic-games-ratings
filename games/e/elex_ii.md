@@ -20,9 +20,9 @@ Number of Ratings: 124  (23.09.2022)
 | Long-Haul Flyer | 16.00% | ~39 |
 | Family Reunion | 15.00% | ~36 |
 | Eternal Oblivion | 15.00% | ~36 |
+| Banker | 12.00% | ~29 |
 | Storyteller | 12.00% | ~29 |
 | Berserker | 12.00% | ~29 |
-| Banker | 11.00% | ~27 |
 | Globetrotter | 11.00% | ~27 |
 | Alb | 11.00% | ~27 |
 | Perfectionist | 9.00% | ~22 |

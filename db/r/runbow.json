@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253419,
+  "EOS_Progressed": 253420,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24002,6 +24002,11 @@
       "Time": "2024-01-13T14:10:14.6096108+00:00",
       "NumProgressed": 253419,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-13T15:09:59.7477001+00:00",
+      "NumProgressed": 253420,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24109,7 +24114,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45615
+      "UsersEstimate": 45616
     },
     {
       "ID": "curator",
@@ -24189,7 +24194,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134312
+      "UsersEstimate": 134313
     },
     {
       "ID": "indegestible",
@@ -24317,7 +24322,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58286
+      "UsersEstimate": 58287
     },
     {
       "ID": "thunderstruck",
@@ -24333,7 +24338,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32944
+      "UsersEstimate": 32945
     },
     {
       "ID": "treeMedalist",
@@ -24380,7 +24385,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253419,
+      "Progressed": 253420,
       "Completed": 6
     }
   ],
@@ -24388,8 +24393,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-13T14:10:14.6096105+00:00",
+  "LastChanged_Achievements": "2024-01-13T15:09:59.7476998+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.2680738+00:00",
-  "LastUpdate_Ratings": "2024-01-13T14:00:44.2516383+00:00",
-  "LastUpdate_Achievements": "2024-01-13T14:10:14.6097685+00:00"
+  "LastUpdate_Ratings": "2024-01-13T15:00:12.6144531+00:00",
+  "LastUpdate_Achievements": "2024-01-13T15:09:59.7478138+00:00"
 }
