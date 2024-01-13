@@ -18,10 +18,10 @@ Rating: 4.53 (Ranked 566)
 | Call it Even | 10.00% | ~1,893 |
 | Safe Cracker | 10.00% | ~488 |
 | Zen Master | 10.00% | ~488 |
-| Heal Thy Medic | 9.00% | ~1,703 |
+| Heal Thy Medic | 9.00% | ~1,704 |
 | Madame Undersecretary | 9.00% | ~439 |
 | Data Archivist | 8.00% | ~1,514 |
-| Keep Arjun in Check | 8.00% | ~390 |
+| Keep Arjun in Check | 8.00% | ~391 |
 | Drug Gifter | 7.00% | ~1,325 |
 | Thorston Mayer | 7.00% | ~1,325 |
 | Khan's Revenge | 7.00% | ~1,325 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 566)
 | Scavenger Star | 0.30% | ~57 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,927 (Ranked 159)  
+Progressed: 18,928 (Ranked 159)  
 Completed: 64 (0.34%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 64 (0.34%) (Ranked 251)
 | 2024-01-10 | 18,829 | 62 |
 | 2024-01-11 | 18,866 | 63 |
 | 2024-01-12 | 18,914 | 64 |
-| 2024-01-13 | 18,927 | 64 |
+| 2024-01-13 | 18,928 | 64 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

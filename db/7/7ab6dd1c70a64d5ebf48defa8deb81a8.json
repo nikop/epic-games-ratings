@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -91,9 +91,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2282,
+  "EOS_Progressed": 2283,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 414,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4421,6 +4421,11 @@
       "Time": "2024-01-13T08:10:39.3558284+00:00",
       "NumProgressed": 2282,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-13T09:10:33.7657097+00:00",
+      "NumProgressed": 2283,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4432,7 +4437,7 @@
       "Name": "Break Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "ACH_02",
@@ -4440,7 +4445,7 @@
       "Name": "Find Allies",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "ACH_03",
@@ -4448,7 +4453,7 @@
       "Name": "Powerful Allies",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH_04",
@@ -4488,7 +4493,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "ACH_09",
@@ -4592,7 +4597,7 @@
       "Name": "Big Bazar",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH_22",
@@ -4719,7 +4724,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2282,
+      "Progressed": 2283,
       "Completed": 3
     }
   ],
@@ -4727,8 +4732,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-11T14:57:15.6904807+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:10:39.3558281+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:10:33.7657095+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-13T07:58:26.4441328+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:10:39.355878+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:58:16.3945367+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:10:33.7657537+00:00"
 }

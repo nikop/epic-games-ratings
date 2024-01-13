@@ -6,9 +6,9 @@
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 187,
-  "Ranking_EOS_Completed": 244,
+  "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -294,10 +294,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 8879,
-  "EOS_Completed": 35,
-  "EOS_NewPlayers": 138,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.39,
+  "EOS_Completed": 36,
+  "EOS_NewPlayers": 137,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:52.5163739+00:00",
@@ -11428,6 +11428,11 @@
       "Time": "2024-01-13T06:03:33.8573023+00:00",
       "NumProgressed": 8879,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-13T09:04:00.6538595+00:00",
+      "NumProgressed": 8879,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 21,
@@ -11477,9 +11482,9 @@
       "ID": "CLAY_PIGEON",
       "SetID": "3cck1g6",
       "Name": "Clay Pigeon",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 36
     },
     {
       "ID": "ENERGY_SAVER",
@@ -11607,15 +11612,15 @@
       "ID": "3cck1g6",
       "IsBase": true,
       "Progressed": 8879,
-      "Completed": 35
+      "Completed": 36
     }
   ],
   "FirstSeen": "2023-03-21T09:57:30.0588208+00:00",
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2024-01-11T22:59:26.5609188+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:04:03.0860056+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:04:00.6538587+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:39.7579112+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:01:13.1648907+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:04:03.0860667+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:00:16.2445627+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:04:00.6539486+00:00"
 }

@@ -9523,9 +9523,9 @@
       "Count": 3635
     }
   ],
-  "EOS_Progressed": 253649,
+  "EOS_Progressed": 253651,
   "EOS_Completed": 2616,
-  "EOS_NewPlayers": 1814,
+  "EOS_NewPlayers": 1795,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39898,6 +39898,11 @@
       "Time": "2024-01-13T08:10:51.6572593+00:00",
       "NumProgressed": 253649,
       "NumCompleted": 2616
+    },
+    {
+      "Time": "2024-01-13T09:10:44.2068569+00:00",
+      "NumProgressed": 253651,
+      "NumCompleted": 2616
     }
   ],
   "TotalAchievements": 546,
@@ -41019,9 +41024,9 @@
       "ID": "objective_completed_149",
       "SetID": "cc37lbc",
       "Name": "The Forbidden City",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 507
     },
     {
       "ID": "objective_completed_15",
@@ -41589,7 +41594,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2536
+      "UsersEstimate": 2537
     },
     {
       "ID": "objective_completed_35",
@@ -43053,7 +43058,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2536
+      "UsersEstimate": 2537
     },
     {
       "ID": "objective_completed_70",
@@ -43131,9 +43136,9 @@
       "ID": "objective_completed_80",
       "SetID": "cc37lbc",
       "Name": "Overdue Rendezvous",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 761
     },
     {
       "ID": "objective_completed_802",
@@ -44276,21 +44281,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219923,
+      "Progressed": 219925,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253649,
+      "Progressed": 253651,
       "Completed": 2616
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-13T01:47:54.4425243+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:10:51.657259+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:10:44.2068564+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:00:51.1268033+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:10:51.6596706+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:59:58.2387784+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:10:44.2092198+00:00"
 }

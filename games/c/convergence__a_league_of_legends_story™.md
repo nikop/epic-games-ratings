@@ -5,18 +5,18 @@ Rating: 4.70 (Ranked 220)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 47.00% | ~617 |
-| The Mysterious Stranger | 35.00% | ~460 |
+| Time Heals All Wounds | 47.00% | ~618 |
 | Rail Rat | 35.00% | ~460 |
+| The Mysterious Stranger | 34.00% | ~447 |
 | Immaculate Aim | 29.00% | ~381 |
 | The Brass Boss | 28.00% | ~368 |
 | Time Flies | 27.00% | ~355 |
-| No, Thanks! | 27.00% | ~355 |
-| Make Up For Lost Time | 26.00% | ~341 |
-| The Harder They Fall | 26.00% | ~341 |
-| The Prince in Heels | 26.00% | ~341 |
-| Honest Mistake | 26.00% | ~341 |
-| Immaculate Aim | 26.00% | ~341 |
+| Make Up For Lost Time | 26.00% | ~342 |
+| The Harder They Fall | 26.00% | ~342 |
+| No, Thanks! | 26.00% | ~342 |
+| The Prince in Heels | 26.00% | ~342 |
+| Honest Mistake | 26.00% | ~342 |
+| Immaculate Aim | 26.00% | ~342 |
 | Fast Learner | 25.00% | ~328 |
 | The Steel Shadow | 24.00% | ~315 |
 | Right On Time | 23.00% | ~302 |
@@ -27,9 +27,9 @@ Rating: 4.70 (Ranked 220)
 | Like Clockwork | 21.00% | ~276 |
 | The Loose Cannon | 20.00% | ~263 |
 | Check Your Pulse | 20.00% | ~263 |
-| Street Style | 19.00% | ~249 |
-| The Man Who Shattered Time | 18.00% | ~236 |
-| The Family Fortune | 18.00% | ~236 |
+| Street Style | 19.00% | ~250 |
+| The Man Who Shattered Time | 18.00% | ~237 |
+| The Family Fortune | 18.00% | ~237 |
 | Whiz Kid | 15.00% | ~197 |
 | Good Neighbor | 15.00% | ~197 |
 | Family Memories | 14.00% | ~184 |
@@ -39,7 +39,7 @@ Rating: 4.70 (Ranked 220)
 | Cartographer | 12.00% | ~158 |
 | Sump Explorer | 12.00% | ~158 |
 | Syron for Hope | 12.00% | ~158 |
-| Factorywood Explorer | 11.00% | ~144 |
+| Factorywood Explorer | 11.00% | ~145 |
 | Fairgrounds Explorer | 10.00% | ~131 |
 | Theater Explorer | 10.00% | ~131 |
 | Cultivair Explorer | 9.00% | ~118 |
@@ -59,7 +59,7 @@ Rating: 4.70 (Ranked 220)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,313 (Ranked 281)  
+Progressed: 1,314 (Ranked 281)  
 Completed: 8 (0.61%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 8 (0.61%) (Ranked 208)
 | 2024-01-10 | 1,300 | 7 |
 | 2024-01-11 | 1,306 | 8 |
 | 2024-01-12 | 1,312 | 8 |
-| 2024-01-13 | 1,313 | 8 |
+| 2024-01-13 | 1,314 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

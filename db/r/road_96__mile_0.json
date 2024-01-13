@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 708,
+  "EOS_Progressed": 709,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -2587,6 +2587,11 @@
       "Time": "2024-01-12T22:09:26.8604417+00:00",
       "NumProgressed": 708,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-13T09:10:28.7951035+00:00",
+      "NumProgressed": 709,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2694,7 +2699,7 @@
       "Name": "The Eye of the Storm",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "scoreminrankrv1",
@@ -2710,14 +2715,14 @@
       "Name": "Friendzone",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 708,
+      "Progressed": 709,
       "Completed": 3
     }
   ],
@@ -2725,8 +2730,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:10:33.2702029+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:10:28.7951033+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.1061642+00:00",
-  "LastUpdate_Ratings": "2024-01-13T07:57:27.5206818+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:10:33.2702255+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:57:34.3554962+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:10:28.7951208+00:00"
 }

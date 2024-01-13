@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -2083,9 +2083,9 @@
       "ID": "ACH_ENTER_TAKOSHIMA",
       "SetID": "4n84pon",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -2131,9 +2131,9 @@
       "ID": "ACH_KILL_PONSONBY",
       "SetID": "4n84pon",
       "Name": "Die Nasty",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -2275,9 +2275,9 @@
       "ID": "ACH_UPGRADE_SAUCER",
       "SetID": "4n84pon",
       "Name": "Pimp My Raid",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 110
     }
   ],
   "AchievementSets": [
@@ -2292,8 +2292,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:09:46.0237988+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:09:52.8339279+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:00:51.8255855+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:09:46.0238392+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:59:58.7538729+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:09:52.8339707+00:00"
 }

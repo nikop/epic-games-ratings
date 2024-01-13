@@ -4,8 +4,8 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 142,
+  "EOS_Progressed": 143,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
@@ -684,6 +684,11 @@
       "Time": "2024-01-11T06:04:25.8203122+00:00",
       "NumProgressed": 142,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T09:04:56.9318707+00:00",
+      "NumProgressed": 143,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T22:03:23.4161887+00:00",
@@ -782,9 +787,9 @@
       "ID": "airtime_mid",
       "SetID": "3448go",
       "Name": "Red-eye Flight",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "airtime_short",
@@ -792,7 +797,7 @@
       "Name": "Glider",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "beat_c1_bronze",
@@ -806,23 +811,23 @@
       "ID": "beat_c1_diamond",
       "SetID": "3448go",
       "Name": "Wax On, Wax Off",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "beat_c1_gold",
       "SetID": "3448go",
       "Name": "Venture Time",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 49
     },
     {
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 72
     },
@@ -880,15 +885,15 @@
       "Name": "In Good Company",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "beat_c2_silver",
       "SetID": "3448go",
       "Name": "Gone for a Whirl",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "beat_c2a_bronze",
@@ -1280,7 +1285,7 @@
       "Name": "Rolling the Competition",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "soccer_hattrick",
@@ -1334,9 +1339,9 @@
       "ID": "trophies_25",
       "SetID": "3448go",
       "Name": "Marble Detector",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "trophies_50",
@@ -1383,14 +1388,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 142,
+      "Progressed": 143,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:05:18.2563991+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:04:56.9318704+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:03.57847+00:00",
-  "LastUpdate_Ratings": "2024-01-13T07:59:00.6055153+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:05:18.256478+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:58:38.841539+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:04:56.9319621+00:00"
 }

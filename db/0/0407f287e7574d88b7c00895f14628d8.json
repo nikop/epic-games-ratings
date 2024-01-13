@@ -4,8 +4,8 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -1016,9 +1016,9 @@
       "ID": "g2",
       "SetID": "b1ggf28",
       "Name": "Efficient Tools",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "g3",
@@ -1176,9 +1176,9 @@
       "ID": "r1",
       "SetID": "b1ggf28",
       "Name": "Prosperity",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "r2",
@@ -1232,9 +1232,9 @@
       "ID": "w3",
       "SetID": "b1ggf28",
       "Name": "Luxury Clothes",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "x1",
@@ -1319,8 +1319,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:08:19.9189062+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:08:47.42176+00:00",
   "LastUpdate_AppInfo": "2024-01-10T06:57:05.6487143+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:03:21.239675+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:08:19.9189511+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:03:29.9800717+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:08:47.4217986+00:00"
 }

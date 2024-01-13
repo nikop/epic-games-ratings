@@ -14,9 +14,9 @@ Number of Ratings: 116  (23.09.2022)
 | Increased Capacity | 55.00% | ~316 |
 | Just the start | 50.00% | ~288 |
 | Perfect Storm | 46.00% | ~264 |
-| All That Glitters | 45.00% | ~259 |
+| All That Glitters | 46.00% | ~264 |
 | Enhance! | 42.00% | ~242 |
-| One Of the Chosen | 40.00% | ~230 |
+| One Of the Chosen | 41.00% | ~236 |
 | Five's a Crowd | 40.00% | ~230 |
 | Devil's in the Details | 39.00% | ~224 |
 | Throne Potato | 39.00% | ~224 |

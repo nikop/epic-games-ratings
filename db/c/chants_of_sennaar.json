@@ -129,8 +129,8 @@
   "Tags": [],
   "EOS_Progressed": 2723,
   "EOS_Completed": 202,
-  "EOS_NewPlayers": 281,
-  "EOS_NewCompleters": 42,
+  "EOS_NewPlayers": 280,
+  "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 7.42,
   "EosHistory": [
     {
@@ -7356,9 +7356,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1498
     },
     {
       "ID": "PROGRESS_N2",
@@ -7405,8 +7405,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:05:57.4553201+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:05:26.2448629+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-13T07:58:05.8048764+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:05:57.4553733+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:58:01.7604995+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:05:26.2449434+00:00"
 }

@@ -5,19 +5,19 @@ Rating: 3.84 (Ranked 1,083)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~418,842 |
-| Handy | 42.00% | ~231,465 |
-| Cold Caller | 40.00% | ~220,443 |
-| A Bit On The Side | 27.00% | ~148,799 |
-| Backdoor | 26.00% | ~143,288 |
-| Rank Amateur | 22.00% | ~121,244 |
-| Three Way | 19.00% | ~104,711 |
-| Deadly Assassin | 16.00% | ~88,177 |
-| Gutshot | 14.00% | ~77,155 |
-| Risk It For A Biscuit | 14.00% | ~77,155 |
-| Showoff | 13.00% | ~71,644 |
-| W.H.I.P. | 12.00% | ~66,133 |
-| Bet Bet Bet | 10.00% | ~55,111 |
+| Pro Creation | 76.00% | ~418,847 |
+| Handy | 42.00% | ~231,468 |
+| Cold Caller | 40.00% | ~220,446 |
+| A Bit On The Side | 27.00% | ~148,801 |
+| Backdoor | 26.00% | ~143,290 |
+| Rank Amateur | 22.00% | ~121,245 |
+| Three Way | 19.00% | ~104,712 |
+| Deadly Assassin | 16.00% | ~88,178 |
+| Gutshot | 14.00% | ~77,156 |
+| Risk It For A Biscuit | 14.00% | ~77,156 |
+| Showoff | 13.00% | ~71,645 |
+| W.H.I.P. | 12.00% | ~66,134 |
+| Bet Bet Bet | 10.00% | ~55,112 |
 | Blindman's Bluff | 9.00% | ~49,600 |
 | Poker Joker | 9.00% | ~49,600 |
 | Never Give Up | 8.00% | ~44,089 |
@@ -25,9 +25,9 @@ Rating: 3.84 (Ranked 1,083)
 | Total Knock Out | 8.00% | ~44,089 |
 | Dog Eat Dog | 7.00% | ~38,578 |
 | Quack Quack | 7.00% | ~38,578 |
-| Give Your Regards To Broadway | 6.00% | ~33,066 |
-| Check Yourself | 4.00% | ~22,044 |
-| Moneymaker | 4.00% | ~22,044 |
+| Give Your Regards To Broadway | 6.00% | ~33,067 |
+| Check Yourself | 4.00% | ~22,045 |
+| Moneymaker | 4.00% | ~22,045 |
 | In The Gang | 3.00% | ~16,533 |
 | On The Button | 3.00% | ~16,533 |
 | Before You Wreck Yourself | 2.00% | ~11,022 |
@@ -51,7 +51,7 @@ Rating: 3.84 (Ranked 1,083)
 | Rounder | 0.10% | ~551 |
 | Top Dog | 0.10% | ~551 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 551,108 (Ranked 35)  
+Progressed: 551,115 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,11 +318,11 @@ Completed: 2 (0.00%) (Ranked 399)
 | 2024-01-10 | 550,625 | 2 |
 | 2024-01-11 | 550,814 | 2 |
 | 2024-01-12 | 551,023 | 2 |
-| 2024-01-13 | 551,108 | 2 |
+| 2024-01-13 | 551,115 | 2 |
 ## Awards
 Max (Great for Beginners): 68  (Ranked 421)  
-Sum: 211 (Ranked 413)  
-Diff (max vs sum): 8  
+Sum: 211 (Ranked 414)  
+Diff (max vs sum): 7  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 68 |

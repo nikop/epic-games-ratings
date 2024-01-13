@@ -17,10 +17,10 @@
 | Finished it | 25.00% | ~81 |
 | Whispers long forgotten | 18.00% | ~58 |
 | Sound Bite | 14.00% | ~46 |
+| A Slice of Life | 13.00% | ~42 |
 | Debut | 13.00% | ~42 |
 | The art of movement | 13.00% | ~42 |
 | Another perspective | 12.00% | ~39 |
-| A Slice of Life | 12.00% | ~39 |
 | Lights! Camera! Action! | 12.00% | ~39 |
 | Tough conversation | 10.00% | ~32 |
 | First steps | 9.00% | ~29 |
@@ -38,17 +38,17 @@
 | We Are Not Alone | 3.00% | ~10 |
 | Dark correspondence | 3.00% | ~10 |
 | Immortalized in my heart | 3.00% | ~10 |
+| Full Scoop | 3.00% | ~10 |
 | The Perfect Storm | 3.00% | ~10 |
 | Se7en Seas | 3.00% | ~10 |
 | Body of Work | 2.00% | ~6 |
 | It was worth a try | 2.00% | ~6 |
-| Full Scoop | 2.00% | ~6 |
 | In One Take | 2.00% | ~6 |
 | Preferred Parent | 2.00% | ~6 |
 | A Mosaic of Misery | 2.00% | ~6 |
 | The Big Picture | 0.90% | ~3 |
+| Rocket Science | 0.90% | ~3 |
 | Sword of the Serpent | 0.90% | ~3 |
-| Rocket Science | 0.60% | ~2 |
 | You Can’t Handle the Truth | 0.30% | ~1 |
 | Letting go | 0.30% | ~1 |
 | The Tree and the Apple | 0.30% | ~1 |

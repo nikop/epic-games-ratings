@@ -6,20 +6,20 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,609 |
+| The Old Grandmaster | 6.00% | ~45,610 |
 | Life is your teacher | 5.00% | ~38,008 |
 | Lightning Hands | 5.00% | ~38,008 |
-| The Assault | 4.00% | ~30,406 |
-| The Hateful Pole Fighter | 3.00% | ~22,804 |
-| Street Fighting | 3.00% | ~22,804 |
-| State of constant learning | 3.00% | ~22,804 |
-| Qi Gong: Essence | 3.00% | ~22,804 |
-| Old Child | 3.00% | ~22,804 |
+| The Assault | 4.00% | ~30,407 |
+| The Hateful Pole Fighter | 3.00% | ~22,805 |
+| Stuntmaster | 3.00% | ~22,805 |
+| Street Fighting | 3.00% | ~22,805 |
+| State of constant learning | 3.00% | ~22,805 |
+| Qi Gong: Essence | 3.00% | ~22,805 |
+| Old Child | 3.00% | ~22,805 |
 | A Lady's Blood in the Snow | 2.00% | ~15,203 |
 | Lady Wing Chun | 2.00% | ~15,203 |
 | Furious Fists | 2.00% | ~15,203 |
 | Kill Nil | 2.00% | ~15,203 |
-| Stuntmaster | 2.00% | ~15,203 |
 | Qi Gong: Breath | 2.00% | ~15,203 |
 | I know Kung-Fu | 2.00% | ~15,203 |
 | Path of the Prospect | 2.00% | ~15,203 |
@@ -46,10 +46,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Pit Protector | 0.40% | ~3,041 |
 | Come Snap With Me | 0.40% | ~3,041 |
 | The best strikes are the ones we avoid | 0.40% | ~278 |
-| Drunken Fighter | 0.30% | ~2,280 |
-| Martial Artist | 0.30% | ~2,280 |
-| Knowledge Greed | 0.30% | ~2,280 |
-| Ferocity, speed, strength, accuracy | 0.30% | ~2,280 |
+| Drunken Fighter | 0.30% | ~2,281 |
+| Martial Artist | 0.30% | ~2,281 |
+| Knowledge Greed | 0.30% | ~2,281 |
+| Ferocity, speed, strength, accuracy | 0.30% | ~2,281 |
 | Deadly Venom | 0.30% | ~208 |
 | A Touch of Acumen | 0.30% | ~208 |
 | Healing Memory | 0.20% | ~1,520 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~69 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 760,150 (Ranked 26)  
+Progressed: 760,168 (Ranked 26)  
 Completed: 12,984 (1.71%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 12,984 (1.71%) (Ranked 146)
 | 2024-01-10 | 759,091 | 12,982 |
 | 2024-01-11 | 759,612 | 12,983 |
 | 2024-01-12 | 760,019 | 12,984 |
-| 2024-01-13 | 760,150 | 12,984 |
+| 2024-01-13 | 760,168 | 12,984 |
 ## Awards
 Max (Great Boss Battles): 7,179  (Ranked 57)  
 Sum: 12,710 (Ranked 85)  

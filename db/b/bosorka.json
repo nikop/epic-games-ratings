@@ -2,10 +2,10 @@
   "ID": "0e65d8e6338943e68169f928702c4706",
   "Name": "Bosorka",
   "ProductSlug": "bosorka-c0e6b6",
-  "Ranking_EOS_Progress": 468,
+  "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
     "PcReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -609,17 +609,17 @@
       "ID": "RUNE_STORM",
       "SetID": "9433p49",
       "Name": "Path of purity",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 55,
-      "UsersEstimate": 119
+      "UsersEstimate": 121
     },
     {
       "ID": "RUNE_STUNHIT",
       "SetID": "9433p49",
       "Name": "Kind heart",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     }
   ],
   "AchievementSets": [
@@ -634,8 +634,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:07:08.1069698+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:06:18.5944639+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:07.5850357+00:00",
-  "LastUpdate_Ratings": "2024-01-13T07:57:38.372829+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:07:08.1069864+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:57:42.0280934+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:06:18.5944807+00:00"
 }

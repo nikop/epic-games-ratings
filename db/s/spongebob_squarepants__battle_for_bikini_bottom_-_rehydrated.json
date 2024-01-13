@@ -353,9 +353,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 977,
+  "EOS_Progressed": 978,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -2643,6 +2643,11 @@
       "Time": "2024-01-13T08:06:02.0005037+00:00",
       "NumProgressed": 977,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-13T09:05:29.4795583+00:00",
+      "NumProgressed": 978,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2669,9 +2674,9 @@
       "ID": "ACH_CHUM_BUCKET_BRAIN",
       "SetID": "biiejkc",
       "Name": "The Small Does Not Rule",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_COMPLETION",
@@ -2695,7 +2700,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -2781,9 +2786,9 @@
       "ID": "ACH_ROBO_SB_BOSS",
       "SetID": "biiejkc",
       "Name": "SpongeBob vs SpongeBob!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_ROCK_BOTTOM",
@@ -2831,7 +2836,7 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -2861,9 +2866,9 @@
       "ID": "ACH_STAT_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Spatula Seeker",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -2879,7 +2884,7 @@
       "Name": "Squirrel Smasher",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_STAT_STAR_SMASHER",
@@ -2895,30 +2900,30 @@
       "Name": "Surf\u0027s Up!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
       "SetID": "biiejkc",
       "Name": "Time For Tutorial",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 127
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 977,
+      "Progressed": 978,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:06:02.0005034+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:05:29.4795582+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-13T07:59:43.0888869+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:06:02.0005361+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:59:09.7646127+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:05:29.4795861+00:00"
 }

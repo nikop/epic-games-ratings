@@ -6,24 +6,24 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~13,627 |
-| What should I buy? | 80.00% | ~11,722 |
-| Focus! | 60.00% | ~8,792 |
-| Rescued Elder Ent | 60.00% | ~8,792 |
-| The End of the Gold Mane Knights | 47.00% | ~6,887 |
-| False Goddess, Disappear | 39.00% | ~5,715 |
-| Rules of Etiquette | 37.00% | ~5,422 |
-| Inventory Management | 32.00% | ~4,689 |
-| The Fall of the Leonia Order | 30.00% | ~4,396 |
-| Quick Movements | 30.00% | ~4,396 |
-| Go Home... | 27.00% | ~3,956 |
-| The Final Battle of the First Hero | 26.00% | ~3,810 |
-| The Hero Killer | 25.00% | ~3,663 |
+| The Legend Begins | 93.00% | ~13,630 |
+| What should I buy? | 80.00% | ~11,725 |
+| Focus! | 60.00% | ~8,794 |
+| Rescued Elder Ent | 60.00% | ~8,794 |
+| The End of the Gold Mane Knights | 47.00% | ~6,888 |
+| False Goddess, Disappear | 39.00% | ~5,716 |
+| Rules of Etiquette | 37.00% | ~5,423 |
+| Inventory Management | 32.00% | ~4,690 |
+| The Fall of the Leonia Order | 30.00% | ~4,397 |
+| Quick Movements | 30.00% | ~4,397 |
+| Go Home... | 27.00% | ~3,957 |
+| The Final Battle of the First Hero | 26.00% | ~3,811 |
+| The Hero Killer | 25.00% | ~3,664 |
 | Brain at Full Throttle | 20.00% | ~2,931 |
 | Rookies Welcome | 18.00% | ~2,638 |
-| Deadly Power | 16.00% | ~2,344 |
+| Deadly Power | 16.00% | ~2,345 |
 | Castle Restoration Plans | 13.00% | ~1,905 |
-| The Dwarven Chandelier | 10.00% | ~1,465 |
+| The Dwarven Chandelier | 10.00% | ~1,466 |
 | Master of Speed | 9.00% | ~1,319 |
 | The Levitator | 8.00% | ~1,172 |
 | The God of Battle | 4.00% | ~586 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~147 |
 | Cold-Blooded | 0.60% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,653 (Ranked 175)  
+Progressed: 14,656 (Ranked 175)  
 Completed: 22 (0.15%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,15 +278,15 @@ Completed: 22 (0.15%) (Ranked 291)
 | 2024-01-10 | 14,523 | 21 |
 | 2024-01-11 | 14,593 | 21 |
 | 2024-01-12 | 14,641 | 22 |
-| 2024-01-13 | 14,653 | 22 |
+| 2024-01-13 | 14,656 | 22 |
 ## Awards
-Max (Great for Beginners): 152  (Ranked 332)  
-Sum: 1,018 (Ranked 275)  
+Max (Diverse Characters): 152  (Ranked 332)  
+Sum: 1,021 (Ranked 275)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
+| This game has Diverse Characters | 152 |
 | This game is Great for Beginners | 152 |
-| This game has Diverse Characters | 149 |
 | This game is Highly Recommended | 124 |
 | This game is Extremely Fun | 117 |
 | This game has Quickly Understood Controls | 114 |
@@ -474,3 +474,4 @@ Diff (max vs sum): 57
 | 2024-01-10 | 4.75 | - | 152 | 1,012 |
 | 2024-01-11 | 4.75 | - | 152 | 1,018 |
 | 2024-01-12 | 4.74 | - | 152 | 1,018 |
+| 2024-01-13 | 4.74 | - | 152 | 1,021 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2201,9 +2201,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 22257,
+  "EOS_Progressed": 22259,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1011,
+  "EOS_NewPlayers": 1010,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13706,6 +13706,11 @@
       "Time": "2024-01-13T08:10:11.5326678+00:00",
       "NumProgressed": 22257,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-13T09:10:12.1597392+00:00",
+      "NumProgressed": 22259,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13877,7 +13882,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4006
+      "UsersEstimate": 4007
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -13893,7 +13898,7 @@
       "Name": "Paper Jams",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5119
+      "UsersEstimate": 5120
     },
     {
       "ID": "SHARE_PHOTO",
@@ -13909,7 +13914,7 @@
       "Name": "The Outer Way",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6009
+      "UsersEstimate": 6010
     },
     {
       "ID": "STORY_ESCAPE",
@@ -13933,7 +13938,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2893
+      "UsersEstimate": 2894
     },
     {
       "ID": "STORY_MINETOWN",
@@ -13949,7 +13954,7 @@
       "Name": "Desperate Times",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5564
+      "UsersEstimate": 5565
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14061,7 +14066,7 @@
       "Name": "One Last Job",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "KILL_BIOBOT",
@@ -14092,13 +14097,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22257,
+      "Progressed": 22259,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10183,
+      "Progressed": 10185,
       "Completed": 29
     }
   ],
@@ -14106,8 +14111,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-12T18:03:09.9063195+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:10:11.5326672+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:10:12.1597388+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:03:43.375632+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:10:11.5327878+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:03:45.9686868+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:10:12.1598418+00:00"
 }

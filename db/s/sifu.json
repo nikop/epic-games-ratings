@@ -8967,9 +8967,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 760150,
+  "EOS_Progressed": 760168,
   "EOS_Completed": 12984,
-  "EOS_NewPlayers": 4937,
+  "EOS_NewPlayers": 4900,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -33582,6 +33582,11 @@
       "Time": "2024-01-13T08:09:52.027611+00:00",
       "NumProgressed": 760150,
       "NumCompleted": 12984
+    },
+    {
+      "Time": "2024-01-13T09:09:57.4305057+00:00",
+      "NumProgressed": 760168,
+      "NumCompleted": 12984
     }
   ],
   "TotalAchievements": 60,
@@ -33593,7 +33598,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45609
+      "UsersEstimate": 45610
     },
     {
       "ID": "02_Vengeance_H1",
@@ -33601,7 +33606,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30406
+      "UsersEstimate": 30407
     },
     {
       "ID": "03_Vengeance_H2",
@@ -33609,7 +33614,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22804
+      "UsersEstimate": 22805
     },
     {
       "ID": "04_Vengeance_H3",
@@ -33713,7 +33718,7 @@
       "Name": "Drunken Fighter",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "17_Detective_H3",
@@ -33721,7 +33726,7 @@
       "Name": "Martial Artist",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "18_Detective_H4",
@@ -33729,7 +33734,7 @@
       "Name": "Knowledge Greed",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "19_Detective_H5",
@@ -33743,9 +33748,9 @@
       "ID": "20_Traversal_Trophy",
       "SetID": "adcm20g",
       "Name": "Stuntmaster",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 15203
+      "UsersEstimate": 22805
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -33761,7 +33766,7 @@
       "Name": "Street Fighting",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22804
+      "UsersEstimate": 22805
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -33777,7 +33782,7 @@
       "Name": "State of constant learning",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22804
+      "UsersEstimate": 22805
     },
     {
       "ID": "25_ShrineMind",
@@ -33801,7 +33806,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22804
+      "UsersEstimate": 22805
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -33833,7 +33838,7 @@
       "Name": "Ferocity, speed, strength, accuracy",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "32_ReachMaxAge",
@@ -33841,7 +33846,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22804
+      "UsersEstimate": 22805
     },
     {
       "ID": "33_BladeOneShot",
@@ -34072,21 +34077,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 69451,
+      "Progressed": 69469,
       "Completed": 10808
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 760150,
+      "Progressed": 760168,
       "Completed": 12984
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-12T15:03:25.8049852+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:09:52.0276106+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:09:57.4305053+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.3871095+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:03:28.4999395+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:09:52.027752+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:03:35.4248247+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:09:57.4306404+00:00"
 }

@@ -36,6 +36,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 2.00% | ~332 |
 | Babylonian Paganism | 2.00% | ~332 |
 | Greek Paganism | 2.00% | ~332 |
+| Zoroastrianism | 2.00% | ~332 |
 | Naming Landmarks | 2.00% | ~332 |
 | Trade Caravan | 2.00% | ~332 |
 | Regicide | 1.00% | ~166 |
@@ -61,14 +62,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 1.00% | ~166 |
 | Egyptian Paganism | 1.00% | ~166 |
 | Roman Paganism | 1.00% | ~166 |
-| Zoroastrianism | 1.00% | ~166 |
 | Mythology | 1.00% | ~166 |
 | Hanging Gardens in Babylon | 0.90% | ~149 |
+| Intercessor | 0.90% | ~149 |
 | Valiant | 0.90% | ~149 |
 | Just Difficulty | 0.90% | ~149 |
 | Artisans | 0.90% | ~149 |
 | Building Wonders | 0.90% | ~149 |
-| Intercessor | 0.80% | ~133 |
 | Champions | 0.80% | ~133 |
 | Sages | 0.80% | ~133 |
 | Learn to Play 3 | 0.80% | ~133 |
@@ -87,6 +87,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.60% | ~100 |
 | Riders | 0.60% | ~100 |
 | Traders | 0.60% | ~100 |
+| Hittite Iron | 0.60% | ~100 |
 | Circus Maximus | 0.60% | ~100 |
 | Hagia Sophia | 0.60% | ~100 |
 | Pantheon | 0.60% | ~100 |
@@ -102,7 +103,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.50% | ~83 |
 | Ready | 0.50% | ~83 |
 | Subjugator | 0.50% | ~83 |
-| Hittite Iron | 0.50% | ~83 |
 | Learn to Play 4 | 0.50% | ~83 |
 | Assyrian Paganism | 0.50% | ~83 |
 | Industrial Progress | 0.50% | ~83 |
@@ -142,6 +142,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old World Order | 0.30% | ~50 |
 | One True Faith | 0.30% | ~50 |
 | Cataphract Archer | 0.30% | ~50 |
+| Siege Tower | 0.30% | ~50 |
 | No Undo | 0.30% | ~50 |
 | Poetic Leader | 0.30% | ~50 |
 | Carthage - Ox Hide | 0.20% | ~33 |
@@ -156,7 +157,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.20% | ~33 |
 | Capturing Cities | 0.20% | ~33 |
 | Ten Crowns | 0.20% | ~33 |
-| Siege Tower | 0.20% | ~33 |
 | Beja Archer | 0.20% | ~33 |
 | Jerwan Aqueduct | 0.20% | ~33 |
 | Royal Library | 0.20% | ~33 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,598 (Ranked 170)  
+Progressed: 16,604 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -633,7 +633,7 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
-| 2024-01-13 | 16,598 | 5 |
+| 2024-01-13 | 16,604 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,927 (Ranked 223)  

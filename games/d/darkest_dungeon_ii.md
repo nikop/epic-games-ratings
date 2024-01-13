@@ -6,17 +6,17 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,050 |
+| Malpractice Assurance | 14.00% | ~1,051 |
 | Autodidact | 8.00% | ~10,611 |
-| Lost and Found | 8.00% | ~600 |
-| This Belongs in a Museum | 7.00% | ~9,284 |
-| This guy... again? | 7.00% | ~525 |
+| Lost and Found | 8.00% | ~601 |
+| This Belongs in a Museum | 7.00% | ~9,285 |
+| This guy... again? | 7.00% | ~526 |
 | Serenity Now! | 6.00% | ~7,958 |
 | Creep and Sleep | 6.00% | ~7,958 |
 | Overdue Notice | 6.00% | ~7,958 |
 | Escape from the Black Hole | 6.00% | ~7,958 |
-| Ploughshares to Swords | 6.00% | ~450 |
-| Bloody Graduation | 6.00% | ~450 |
+| Ploughshares to Swords | 6.00% | ~451 |
+| Bloody Graduation | 6.00% | ~451 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,632 |
 | It Rings a Bell | 5.00% | ~6,632 |
 | Not Today! | 5.00% | ~6,632 |
@@ -27,16 +27,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 5.00% | ~6,632 |
 | A Place to Lay Your Head | 5.00% | ~6,632 |
 | FNG | 5.00% | ~6,632 |
-| Unfulfilled Desires | 4.00% | ~5,305 |
-| Dissector | 4.00% | ~5,305 |
-| Banishment | 4.00% | ~5,305 |
-| Spelunker | 4.00% | ~5,305 |
-| Merry Time | 4.00% | ~5,305 |
-| Harvest Festival | 4.00% | ~5,305 |
-| Ramble On | 4.00% | ~5,305 |
-| Whale | 4.00% | ~5,305 |
-| Nope | 4.00% | ~5,305 |
-| Unshackled | 4.00% | ~5,305 |
+| Unfulfilled Desires | 4.00% | ~5,306 |
+| Dissector | 4.00% | ~5,306 |
+| Banishment | 4.00% | ~5,306 |
+| Spelunker | 4.00% | ~5,306 |
+| Merry Time | 4.00% | ~5,306 |
+| Harvest Festival | 4.00% | ~5,306 |
+| Ramble On | 4.00% | ~5,306 |
+| Whale | 4.00% | ~5,306 |
+| Nope | 4.00% | ~5,306 |
+| Unshackled | 4.00% | ~5,306 |
 | Friends 'Til the End | 4.00% | ~300 |
 | Resurrection | 3.00% | ~3,979 |
 | Unleash Hell | 3.00% | ~3,979 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,633 (Ranked 91)  
+Progressed: 132,640 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 4 (0.00%) (Ranked 399)
 | 2024-01-10 | 132,395 | 4 |
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
-| 2024-01-13 | 132,633 | 4 |
+| 2024-01-13 | 132,640 | 4 |
 ## Awards
 Max (Character Customization): 8,007  (Ranked 51)  
 Sum: 21,612 (Ranked 58)  

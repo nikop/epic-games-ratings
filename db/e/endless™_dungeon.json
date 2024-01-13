@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1536,
+  "EOS_Progressed": 1537,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
@@ -3420,6 +3420,11 @@
       "Time": "2024-01-12T23:03:51.7956366+00:00",
       "NumProgressed": 1536,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T09:04:16.3149477+00:00",
+      "NumProgressed": 1537,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3464,7 +3469,7 @@
       "Name": "Blobmeister",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -3480,15 +3485,15 @@
       "Name": "Aggressive Antivirus",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
       "SetID": "9991201",
       "Name": "Pest Control",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 445
+      "UsersEstimate": 430
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -3512,7 +3517,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -3528,7 +3533,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -3671,14 +3676,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1536,
+      "Progressed": 1537,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:04:23.9307613+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:04:16.3149475+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:32.4570132+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:01:02.6916677+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:04:23.9308154+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:00:07.1366412+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:04:16.3149838+00:00"
 }

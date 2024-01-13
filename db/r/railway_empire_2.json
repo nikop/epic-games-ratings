@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -323,9 +323,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2716,
+  "EOS_Progressed": 2717,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7983,6 +7983,11 @@
       "Time": "2024-01-13T06:04:48.7424475+00:00",
       "NumProgressed": 2716,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T09:05:15.7671534+00:00",
+      "NumProgressed": 2717,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -8002,7 +8007,7 @@
       "Name": "Stoker",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "A02",
@@ -8042,7 +8047,7 @@
       "Name": "Unstoppable",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "A07",
@@ -8050,7 +8055,7 @@
       "Name": "Track to the Future",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "A08",
@@ -8074,7 +8079,7 @@
       "Name": "From X to Y",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "A11",
@@ -8090,7 +8095,7 @@
       "Name": "Departure",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "A13",
@@ -8106,7 +8111,7 @@
       "Name": "A new Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2037
+      "UsersEstimate": 2038
     },
     {
       "ID": "A15",
@@ -8114,7 +8119,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "A16",
@@ -8154,7 +8159,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2091
+      "UsersEstimate": 2092
     },
     {
       "ID": "A21",
@@ -8218,7 +8223,7 @@
       "Name": "We brake for nobody",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1874
+      "UsersEstimate": 1875
     },
     {
       "ID": "A29",
@@ -8250,7 +8255,7 @@
       "Name": "Assimilated",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "A33",
@@ -8266,7 +8271,7 @@
       "Name": "Producer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1385
+      "UsersEstimate": 1386
     },
     {
       "ID": "A35",
@@ -8290,7 +8295,7 @@
       "Name": "All around the World",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1738
+      "UsersEstimate": 1739
     },
     {
       "ID": "A38",
@@ -8322,7 +8327,7 @@
       "Name": "Right through the middle",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "A42",
@@ -8362,7 +8367,7 @@
       "Name": "Mystery Tour",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1902
     },
     {
       "ID": "A47",
@@ -8410,7 +8415,7 @@
       "Name": "Socializer",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "A53",
@@ -8433,7 +8438,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2716,
+      "Progressed": 2717,
       "Completed": 0
     }
   ],
@@ -8441,8 +8446,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2024-01-12T09:00:33.7999037+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:05:43.2803315+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:05:15.767153+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.5860867+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:02:55.1957636+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:05:43.2804099+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:03:11.3198704+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:05:15.7672699+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "ba3149b6d7a7488ab5cc674154458757",
   "Name": "Jotun: Valhalla Edition",
   "ProductSlug": "jotun",
-  "Ranking_Rating": 756,
+  "Ranking_Rating": 770,
   "Ranking_Popularity": 389,
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 578,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2019-12-06T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.41,
+  "Rating": 4.4,
   "NumberOfRatings": 758,
   "RatingHistory": [
     {
@@ -478,6 +478,12 @@
       "Rating": 4.41,
       "NumberOfAwards": 96,
       "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2024-01-13T08:57:41.0391478+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 96,
+      "NumberOfAwardsMax": 96
     }
   ],
   "ReviewsDisabled": false,
@@ -503,8 +509,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:06.202912+00:00",
-  "LastChanged": "2023-11-28T09:59:46.9137454+00:00",
+  "LastChanged": "2024-01-13T08:57:41.0391476+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:04.5697914+00:00",
-  "LastUpdate_Ratings": "2024-01-13T07:57:36.9537539+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:07:05.4613247+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:57:41.0391481+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:06:16.8116468+00:00"
 }

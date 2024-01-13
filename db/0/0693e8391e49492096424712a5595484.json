@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 778,
+  "EOS_Progressed": 779,
   "EOS_Completed": 55,
   "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 7.07,
+  "EOS_Completed_Percentage": 7.06,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -3179,6 +3179,11 @@
       "Time": "2024-01-13T08:05:39.9998421+00:00",
       "NumProgressed": 778,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2024-01-13T09:05:13.2124903+00:00",
+      "NumProgressed": 779,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 45,
@@ -3190,15 +3195,15 @@
       "Name": "Wild Run",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "BasiliskBroom",
       "SetID": "db30heh",
       "Name": "Sweeping Prop",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 187
+      "UsersEstimate": 179
     },
     {
       "ID": "BasiliskFishingRod",
@@ -3222,7 +3227,7 @@
       "Name": "Ouch!",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "BearPoppiesBroth",
@@ -3246,7 +3251,7 @@
       "Name": "Full Deck",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "BeggarWomanCoin",
@@ -3254,7 +3259,7 @@
       "Name": "Alms",
       "Percentage": 88,
       "XP": 25,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -3270,7 +3275,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "BroomAmanita",
@@ -3278,7 +3283,7 @@
       "Name": "Gone Cooking",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "BroomPistol",
@@ -3286,7 +3291,7 @@
       "Name": "Target Hit",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "DevilPriest",
@@ -3294,7 +3299,7 @@
       "Name": "Deal with the Devil",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "DevilRope",
@@ -3302,7 +3307,7 @@
       "Name": "The Devil is My Friend",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "Drunkard",
@@ -3310,7 +3315,7 @@
       "Name": "Drunkard",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "DwarDevil",
@@ -3326,7 +3331,7 @@
       "Name": "Funny Granny",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "DwarfHobo",
@@ -3342,7 +3347,7 @@
       "Name": "Happy Reunion",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "HastrmanAcorn",
@@ -3350,7 +3355,7 @@
       "Name": "Do Not Disturb",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "HastrmanAmanita",
@@ -3358,7 +3363,7 @@
       "Name": "Tastes Funny",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "HastrmanHappy",
@@ -3382,7 +3387,7 @@
       "Name": "Flower",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "KingDiamond",
@@ -3390,7 +3395,7 @@
       "Name": "King\u0027s Jewel",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "PitSoul",
@@ -3398,7 +3403,7 @@
       "Name": "Your Soul Is Mine",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "PriestBroom",
@@ -3406,7 +3411,7 @@
       "Name": "Chastisement",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "PriestPistol",
@@ -3430,7 +3435,7 @@
       "Name": "Direct Hit",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "PriestRum",
@@ -3438,7 +3443,7 @@
       "Name": "Rummy",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "Priestess",
@@ -3462,7 +3467,7 @@
       "Name": "Treasure Chest",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "RogueEat",
@@ -3526,7 +3531,7 @@
       "Name": "Precious Barter",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "SwordMoneyBag",
@@ -3534,7 +3539,7 @@
       "Name": "Expensive Deal",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "WormGrilled",
@@ -3549,14 +3554,14 @@
     {
       "ID": "db30heh",
       "IsBase": true,
-      "Progressed": 778,
+      "Progressed": 779,
       "Completed": 55
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:05:39.9998419+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:05:13.21249+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:55.0577875+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:00:31.5619288+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:05:39.9998816+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:59:45.3830385+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:05:13.2125441+00:00"
 }

@@ -5,19 +5,19 @@ Rating: 4.22 (Ranked 955)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~10,178 |
-| Disposing of the Evidence | 39.00% | ~4,783 |
-| Without a Scratch | 34.00% | ~4,169 |
-| Wreckless Driving | 29.00% | ~3,556 |
-| A Marked Man | 26.00% | ~3,188 |
-| Street Sweeper | 19.00% | ~2,330 |
+| First Day on the Job | 83.00% | ~10,181 |
+| Disposing of the Evidence | 39.00% | ~4,784 |
+| Without a Scratch | 34.00% | ~4,170 |
+| Wreckless Driving | 29.00% | ~3,557 |
+| A Marked Man | 26.00% | ~3,189 |
+| Street Sweeper | 19.00% | ~2,331 |
 | Liberty City Minute | 17.00% | ~2,085 |
 | Offshore Delivery | 14.00% | ~1,717 |
-| Dirty Money | 13.00% | ~1,594 |
-| By a Mile | 10.00% | ~1,226 |
-| Not So Fast | 10.00% | ~1,226 |
-| Right-hand Man | 10.00% | ~1,226 |
-| A Gift from the King | 7.00% | ~858 |
+| Dirty Money | 13.00% | ~1,595 |
+| By a Mile | 10.00% | ~1,227 |
+| Not So Fast | 10.00% | ~1,227 |
+| Right-hand Man | 10.00% | ~1,227 |
+| A Gift from the King | 7.00% | ~859 |
 | Full Artillery | 4.00% | ~491 |
 | Mob Boss | 3.00% | ~368 |
 | Splish Splash | 3.00% | ~368 |
@@ -35,7 +35,7 @@ Rating: 4.22 (Ranked 955)
 | Is That All You've Got? | 0.90% | ~110 |
 | King of Liberty City | 0.70% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,263 (Ranked 179)  
+Progressed: 12,266 (Ranked 179)  
 Completed: 89 (0.73%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 89 (0.73%) (Ranked 198)
 | 2024-01-10 | 12,176 | 84 |
 | 2024-01-11 | 12,227 | 86 |
 | 2024-01-12 | 12,258 | 89 |
-| 2024-01-13 | 12,263 | 89 |
+| 2024-01-13 | 12,266 | 89 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

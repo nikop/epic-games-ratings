@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 93112,
+  "EOS_Progressed": 93113,
   "EOS_Completed": 338,
-  "EOS_NewPlayers": 669,
+  "EOS_NewPlayers": 664,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -17741,6 +17741,11 @@
       "Time": "2024-01-13T08:05:20.9083814+00:00",
       "NumProgressed": 93112,
       "NumCompleted": 338
+    },
+    {
+      "Time": "2024-01-13T09:04:58.8398417+00:00",
+      "NumProgressed": 93113,
+      "NumCompleted": 338
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -17761,7 +17766,7 @@
       "Name": "The early bird gets the beet",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 18622
+      "UsersEstimate": 18623
     },
     {
       "ID": "grp_collect_ruby",
@@ -17769,7 +17774,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 71696
+      "UsersEstimate": 71697
     },
     {
       "ID": "grp_endless",
@@ -17777,7 +17782,7 @@
       "Name": "That Sinking Feeling",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 32589
+      "UsersEstimate": 32590
     },
     {
       "ID": "grp_finallevel",
@@ -17841,7 +17846,7 @@
       "Name": "Investing in BirdCoin",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 50280
+      "UsersEstimate": 50281
     },
     {
       "ID": "grp_money_tree",
@@ -17849,7 +17854,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 68903
+      "UsersEstimate": 68904
     },
     {
       "ID": "grp_speed",
@@ -17873,7 +17878,7 @@
       "Name": "Birds of a Feather",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 40038
+      "UsersEstimate": 40039
     },
     {
       "ID": "grp_weekly_beaten",
@@ -17888,7 +17893,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 93112,
+      "Progressed": 93113,
       "Completed": 338
     }
   ],
@@ -17896,8 +17901,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2024-01-11T13:59:21.7305428+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:05:20.9083812+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:04:58.8398415+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:12.4453179+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:00:59.7333787+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:05:20.9084671+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:00:05.0053218+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:04:58.8399324+00:00"
 }

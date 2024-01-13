@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6526,
+  "EOS_Progressed": 6528,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1840,
+  "EOS_NewPlayers": 1835,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2224,6 +2224,11 @@
       "Time": "2024-01-13T08:08:47.3944838+00:00",
       "NumProgressed": 6526,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T09:09:08.0904596+00:00",
+      "NumProgressed": 6528,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 16,
@@ -2235,7 +2240,7 @@
       "Name": "All Dead, All Dead",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "ACH_COOL_CAT",
@@ -2299,7 +2304,7 @@
       "Name": "Now I\u0027m Here",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 2937
+      "UsersEstimate": 2938
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -2323,7 +2328,7 @@
       "Name": "The Hero",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 3328
+      "UsersEstimate": 3329
     },
     {
       "ID": "ACH_THE_HITMAN",
@@ -2331,7 +2336,7 @@
       "Name": "The Hitman",
       "Percentage": 27,
       "XP": 75,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "ACH_THE_INVISIBLE",
@@ -2362,7 +2367,7 @@
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 6526,
+      "Progressed": 6528,
       "Completed": 5
     }
   ],
@@ -2370,8 +2375,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:08:47.3944833+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:09:08.0904591+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:56:54.4877584+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:01:35.6058564+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:08:47.3945198+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:00:30.2332669+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:09:08.0904836+00:00"
 }

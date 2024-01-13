@@ -22,8 +22,8 @@
 | Smooth Service | 22.00% | ~115 |
 | Retail Revenue | 21.00% | ~110 |
 | Don't Feel a Loan | 20.00% | ~105 |
+| People Mover | 19.00% | ~99 |
 | Artfully Done | 18.00% | ~94 |
-| People Mover | 18.00% | ~94 |
 | Leveled Up Shops | 18.00% | ~94 |
 | We Don't Need No Education | 18.00% | ~94 |
 | Lux Living | 17.00% | ~89 |

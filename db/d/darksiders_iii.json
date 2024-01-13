@@ -488,7 +488,7 @@
   ],
   "EOS_Progressed": 575,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2199,9 +2199,9 @@
       "ID": "Collect_Artifact_EpicShard",
       "SetID": "7a5k76n",
       "Name": "One Of the Chosen",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 236
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -2487,9 +2487,9 @@
       "ID": "Kill_Sin_Avarice",
       "SetID": "7a5k76n",
       "Name": "All That Glitters",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 264
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -2671,8 +2671,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-11T19:59:53.1108333+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:07:09.6274366+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:06:19.6835367+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:00:31.9098247+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:07:09.627508+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:59:45.6350064+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:06:19.6835927+00:00"
 }

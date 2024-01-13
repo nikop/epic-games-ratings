@@ -13,8 +13,8 @@ Rating: 4.69 (Ranked 241)
 | Globe Trotter | 0.60% | ~53 |
 | Ahem Ahem | 0.50% | ~44 |
 | Audiophile | 0.40% | ~36 |
+| Clay Pigeon | 0.40% | ~36 |
 | Shredder | 0.40% | ~36 |
-| Clay Pigeon | 0.30% | ~27 |
 | Fashion Faux-Pas | 0.20% | ~18 |
 | Happy Camper | 0.20% | ~18 |
 | Historian | 0.20% | ~18 |
@@ -28,7 +28,7 @@ Rating: 4.69 (Ranked 241)
 | Thing | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,879 (Ranked 187)  
-Completed: 35 (0.39%) (Ranked 244)  
+Completed: 36 (0.41%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -293,7 +293,7 @@ Completed: 35 (0.39%) (Ranked 244)
 | 2024-01-10 | 8,859 | 35 |
 | 2024-01-11 | 8,867 | 35 |
 | 2024-01-12 | 8,876 | 35 |
-| 2024-01-13 | 8,879 | 35 |
+| 2024-01-13 | 8,879 | 36 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -69,9 +69,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1313,
+  "EOS_Progressed": 1314,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -3979,6 +3979,11 @@
       "Time": "2024-01-13T08:10:46.1987757+00:00",
       "NumProgressed": 1313,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-13T09:10:39.382999+00:00",
+      "NumProgressed": 1314,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4062,7 +4067,7 @@
       "Name": "Street Style",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "CultivairChests1",
@@ -4094,7 +4099,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "FairgroundsChests1",
@@ -4108,9 +4113,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 460
+      "UsersEstimate": 447
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -4126,7 +4131,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "GadgetCompletion1",
@@ -4182,7 +4187,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "MapCompletion1",
@@ -4238,15 +4243,15 @@
       "Name": "The Harder They Fall",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 342
     },
     {
       "ID": "PhaseDiveCounter",
@@ -4270,7 +4275,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "RewindDamage1",
@@ -4278,7 +4283,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "RewindParry",
@@ -4286,7 +4291,7 @@
       "Name": "Honest Mistake",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ScrambotCompletion1",
@@ -4374,7 +4379,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "WatcherFought",
@@ -4406,14 +4411,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1313,
+      "Progressed": 1314,
       "Completed": 8
     }
   ],
@@ -4421,8 +4426,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-12T11:57:31.6661727+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:10:46.1987754+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:10:39.3829987+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-13T07:58:13.0155488+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:10:46.1988284+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:58:06.51542+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:10:39.383063+00:00"
 }

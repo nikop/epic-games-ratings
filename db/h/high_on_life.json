@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -331,7 +331,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25129,
+  "EOS_Progressed": 25130,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
@@ -9131,6 +9131,11 @@
       "Time": "2024-01-13T04:08:59.5474466+00:00",
       "NumProgressed": 25129,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-13T09:09:22.201199+00:00",
+      "NumProgressed": 25130,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -9188,9 +9193,9 @@
       "ID": "ACH_GET_GUS",
       "SetID": "cdkbb11",
       "Name": "Satisfied Gus-tomer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1508
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -9300,9 +9305,9 @@
       "ID": "ACH_KILL_KRUBIS",
       "SetID": "cdkbb11",
       "Name": "Cold-Blooded Driller",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1508
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -9493,13 +9498,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25129,
+      "Progressed": 25130,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2422,
+      "Progressed": 2423,
       "Completed": 1376
     }
   ],
@@ -9507,8 +9512,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:09:05.9423552+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:09:22.2011987+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:08.9175912+00:00",
-  "LastUpdate_Ratings": "2024-01-13T07:57:18.9388034+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:09:05.9424236+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:57:27.9763063+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:09:22.2012798+00:00"
 }

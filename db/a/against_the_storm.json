@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3941,7 +3941,7 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 20735,
+  "EOS_Progressed": 20738,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 479,
   "EOS_NewCompleters": 2,
@@ -19491,6 +19491,11 @@
       "Time": "2024-01-13T07:06:28.6904542+00:00",
       "NumProgressed": 20735,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-13T09:06:30.362025+00:00",
+      "NumProgressed": 20738,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19573,9 +19578,9 @@
       "ID": "MetalChain",
       "SetID": "cfbk359",
       "Name": "Refinery",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 415
     },
     {
       "ID": "Win5Years",
@@ -19583,7 +19588,7 @@
       "Name": "Homesick",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "WinFirstGame",
@@ -19599,7 +19604,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "WinImpossible",
@@ -19663,7 +19668,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "WinNearFishmen",
@@ -19695,7 +19700,7 @@
       "Name": "Levitating Monument",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "WinNearMines",
@@ -19711,7 +19716,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "WinNearOutpost",
@@ -19767,7 +19772,7 @@
       "Name": "Coral Forest",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "WinOnCursed",
@@ -19783,7 +19788,7 @@
       "Name": "The Marshlands",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "WinOnMoorlands",
@@ -19815,7 +19820,7 @@
       "Name": "A Real Challenge",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "WinWIthCaches",
@@ -19974,15 +19979,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20735,
+      "Progressed": 20738,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-13T07:00:13.5608196+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:07:23.8469516+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:06:30.3620248+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:01:06.680631+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:07:23.8470659+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:00:11.5341922+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:06:30.3621235+00:00"
 }

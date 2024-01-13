@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 592,
   "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 477,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -241,17 +241,17 @@
       "ID": "BOSS_06",
       "SetID": "35d3i7a",
       "Name": "Who am I?",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BOSS_07",
       "SetID": "35d3i7a",
       "Name": "This is not me.",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "DEL_I",
@@ -369,9 +369,9 @@
       "ID": "MEM_III",
       "SetID": "35d3i7a",
       "Name": "Sweet nightmares, little caterpillar.",
-      "Percentage": 39,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MEM_IV",
@@ -401,9 +401,9 @@
       "ID": "MEM_VI",
       "SetID": "35d3i7a",
       "Name": "PUT ON THE MASK!",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MEM_VII",
@@ -441,9 +441,9 @@
       "ID": "MEM_XII",
       "SetID": "35d3i7a",
       "Name": "A strange illness.",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MEM_XIII",
@@ -553,17 +553,17 @@
       "ID": "MEM_XXVI",
       "SetID": "35d3i7a",
       "Name": "I\u2019M UGLY!",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "PART_I",
       "SetID": "35d3i7a",
       "Name": "The Dream.",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "PART_II",
@@ -617,9 +617,9 @@
       "ID": "PROJ_V",
       "SetID": "35d3i7a",
       "Name": "Monster.",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -632,8 +632,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:10:38.9092949+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:10:33.3159856+00:00",
   "LastUpdate_AppInfo": "2024-01-10T15:57:10.2957467+00:00",
-  "LastUpdate_Ratings": "2024-01-13T07:57:08.6912649+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:10:38.9093424+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:57:20.6089815+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:10:33.3160324+00:00"
 }

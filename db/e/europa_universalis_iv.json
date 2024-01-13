@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14293,10 +14293,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 64480,
       "NumberOfAwardsMax": 7824
+    },
+    {
+      "Time": "2024-01-13T08:59:08.4193679+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 64494,
+      "NumberOfAwardsMax": 7824
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 64480,
+  "NumberOfAwards": 64494,
   "NumberOfAwardsMax": 7824,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14346,7 +14352,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 7158
+      "Count": 7172
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -14367,9 +14373,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 497734,
+  "EOS_Progressed": 497759,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4586,
+  "EOS_NewPlayers": 4582,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45282,6 +45288,11 @@
       "Time": "2024-01-13T08:10:50.8287204+00:00",
       "NumProgressed": 497734,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T09:10:43.8929149+00:00",
+      "NumProgressed": 497759,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -45685,7 +45696,7 @@
       "Name": "Blockader",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -45909,7 +45920,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -45949,7 +45960,7 @@
       "Name": "Double the Love",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -46125,7 +46136,7 @@
       "Name": "For the Glory",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "achievement_forever_golden",
@@ -46293,7 +46304,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 2986
+      "UsersEstimate": 2987
     },
     {
       "ID": "achievement_grand_coalition",
@@ -46501,7 +46512,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -46509,7 +46520,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -47229,7 +47240,7 @@
       "Name": "Respected",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -47245,7 +47256,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -47717,7 +47728,7 @@
       "Name": "The Princess is in this Castle",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "achievement_the_re_reconquista",
@@ -47845,7 +47856,7 @@
       "Name": "Total Control",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -47901,7 +47912,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "achievement_trustworthy",
@@ -47957,7 +47968,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 2986
+      "UsersEstimate": 2987
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -48196,21 +48207,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 497734,
+      "Progressed": 497759,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 497734,
+      "Progressed": 497759,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-13T03:58:57.8485146+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:10:50.8287201+00:00",
+  "LastChanged": "2024-01-13T08:59:08.4193677+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:10:43.8929145+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.850256+00:00",
-  "LastUpdate_Ratings": "2024-01-13T07:59:41.1683719+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:10:50.8298296+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:59:08.4193683+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:10:43.893979+00:00"
 }

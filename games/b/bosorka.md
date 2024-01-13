@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Path of purity | 84.00% | ~119 |
+| Path of purity | 85.00% | ~121 |
 | Witch's duty | 61.00% | ~87 |
 | First time, yes? | 58.00% | ~82 |
-| Kind heart | 48.00% | ~68 |
+| Kind heart | 49.00% | ~70 |
 | Runes collector | 46.00% | ~65 |
 | A good start | 43.00% | ~61 |
 | Skilled rider | 41.00% | ~58 |
@@ -20,7 +20,7 @@
 | Time is on my side | 8.00% | ~11 |
 | Secret at the bottom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142 (Ranked 468)  
+Progressed: 142 (Ranked 469)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -14,13 +14,13 @@
 | Freedom | 7.00% | ~50 |
 | 86's Nightmare | 7.00% | ~50 |
 | Partners in Crime | 7.00% | ~50 |
-| The Eye of the Storm | 6.00% | ~42 |
-| Friendzone | 6.00% | ~42 |
+| The Eye of the Storm | 6.00% | ~43 |
+| Friendzone | 6.00% | ~43 |
 | Attack on Tyran | 5.00% | ~35 |
 | Song Harvester | 1.00% | ~7 |
 | Try Harder | 1.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708 (Ranked 325)  
+Progressed: 709 (Ranked 325)  
 Completed: 3 (0.42%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,6 +198,7 @@ Completed: 3 (0.42%) (Ranked 239)
 | 2024-01-10 | 691 | 3 |
 | 2024-01-11 | 699 | 3 |
 | 2024-01-12 | 708 | 3 |
+| 2024-01-13 | 709 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

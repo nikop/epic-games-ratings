@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -743,9 +743,9 @@
       "ID": "CgkIxYDzrbcPEAIQBg",
       "SetID": "4egpam7",
       "Name": "Uninvited Guests",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBw",
@@ -767,9 +767,9 @@
       "ID": "CgkIxYDzrbcPEAIQCQ",
       "SetID": "4egpam7",
       "Name": "Ancient Enigma",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCg",
@@ -903,25 +903,25 @@
       "ID": "CgkIxYDzrbcPEAIQGg",
       "SetID": "4egpam7",
       "Name": "Short History of Time Travel",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "CgkIxYDzrbcPEAIQGw",
       "SetID": "4egpam7",
       "Name": "Slow and Steady",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "CgkIxYDzrbcPEAIQHA",
       "SetID": "4egpam7",
       "Name": "Healthy Moderation",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 70,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "CgkIxYDzrbcPEAIQHQ",
@@ -950,8 +950,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:08:40.8350004+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:09:03.0197483+00:00",
   "LastUpdate_AppInfo": "2024-01-10T04:57:09.2024911+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:01:32.0286471+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:08:40.8350224+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:00:27.6906109+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:09:03.019771+00:00"
 }

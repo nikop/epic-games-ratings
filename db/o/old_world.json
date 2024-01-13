@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2280,9 +2280,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16598,
+  "EOS_Progressed": 16604,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19840,6 +19840,11 @@
       "Time": "2024-01-13T08:10:50.3790765+00:00",
       "NumProgressed": 16598,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T09:10:42.8706153+00:00",
+      "NumProgressed": 16604,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20329,9 +20334,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INTERCESSOR",
       "SetID": "9201eeb",
       "Name": "Intercessor",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 149
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
@@ -21161,9 +21166,9 @@
       "ID": "ACHIEVEMENT_HITTITE_IRON",
       "SetID": "9201eeb",
       "Name": "Hittite Iron",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
@@ -21713,9 +21718,9 @@
       "ID": "ACHIEVEMENT_RELIGION_ZOROASTRIANISM",
       "SetID": "7l38kb8",
       "Name": "Zoroastrianism",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHIEVEMENT_RHODES_COLOSSUS",
@@ -21937,9 +21942,9 @@
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
       "SetID": "9201eeb",
       "Name": "Siege Tower",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_UNIT_TURRETED_ELEPHANT",
@@ -22714,21 +22719,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16598,
+      "Progressed": 16604,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16598,
+      "Progressed": 16604,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-13T07:59:51.2247569+00:00",
-  "LastChanged_Achievements": "2024-01-13T08:10:50.3790762+00:00",
+  "LastChanged_Achievements": "2024-01-13T09:10:42.8706152+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-13T07:59:51.2247575+00:00",
-  "LastUpdate_Achievements": "2024-01-13T08:10:50.380099+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:59:15.7203067+00:00",
+  "LastUpdate_Achievements": "2024-01-13T09:10:42.8716428+00:00"
 }
