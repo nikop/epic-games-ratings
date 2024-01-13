@@ -1,7 +1,7 @@
 # Frontier Hunter: Erza's Wheel of Fortune
 [Store](https://store.epicgames.com/en-US/p/frontier-hunter-erzas-wheel-of-fortune)  
 [View Rawdata](../../db/f/frontier_hunter__erza's_wheel_of_fortune.json)  
-Rating: 4.38 (Ranked 795)  
+Rating: 4.38 (Ranked 796)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,8 +19,8 @@ Rating: 4.38 (Ranked 795)
 | Seal Breaker | 32.00% | ~239 |
 | Handyman | 28.00% | ~209 |
 | Giant Lizard Killer | 27.00% | ~202 |
-| Guardian | 25.00% | ~187 |
-| Nosebleeder | 25.00% | ~187 |
+| Guardian | 26.00% | ~194 |
+| Nosebleeder | 26.00% | ~194 |
 | Trader | 22.00% | ~165 |
 | Weapon Boost | 21.00% | ~157 |
 | Flying Kobold Killer | 19.00% | ~142 |

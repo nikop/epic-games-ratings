@@ -6,9 +6,9 @@
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 228,
-  "Ranking_EOS_Completed": 203,
+  "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -181,11 +181,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3434,
-  "EOS_Completed": 23,
-  "EOS_NewPlayers": 136,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.67,
+  "EOS_Progressed": 3435,
+  "EOS_Completed": 24,
+  "EOS_NewPlayers": 135,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:35.6138039+00:00",
@@ -6426,6 +6426,11 @@
       "Time": "2024-01-12T22:03:16.9821676+00:00",
       "NumProgressed": 3434,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2024-01-13T00:04:19.442282+00:00",
+      "NumProgressed": 3435,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 53,
@@ -6437,7 +6442,7 @@
       "Name": "Embrace the darkness",
       "Percentage": 13,
       "XP": 120,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "STB_COLISSEUM_FIRST",
@@ -6461,7 +6466,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -6493,7 +6498,7 @@
       "Name": "No more holding back",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -6501,7 +6506,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3262
+      "UsersEstimate": 3263
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6517,7 +6522,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2644
+      "UsersEstimate": 2645
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6573,7 +6578,7 @@
       "Name": "Old friend",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -6613,7 +6618,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6621,7 +6626,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3091
+      "UsersEstimate": 3092
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6653,7 +6658,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6709,7 +6714,7 @@
       "Name": "Terbisia",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -6741,7 +6746,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2060
+      "UsersEstimate": 2061
     },
     {
       "ID": "STB_PET_HORSE",
@@ -6773,7 +6778,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1339
+      "UsersEstimate": 1340
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -6797,7 +6802,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -6805,7 +6810,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -6813,7 +6818,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2507
+      "UsersEstimate": 2508
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -6821,7 +6826,7 @@
       "Name": "Spellcrafting",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
@@ -6853,23 +6858,23 @@
       "Name": "Petricite Burst",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3434,
-      "Completed": 23
+      "Progressed": 3435,
+      "Completed": 24
     }
   ],
   "FirstSeen": "2023-04-18T18:57:53.9681419+00:00",
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-09T21:58:22.8970062+00:00",
-  "LastChanged_Achievements": "2024-01-12T23:03:48.641585+00:00",
+  "LastChanged_Achievements": "2024-01-13T00:04:19.4422814+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:19.7763351+00:00",
-  "LastUpdate_Ratings": "2024-01-12T23:00:05.8500874+00:00",
-  "LastUpdate_Achievements": "2024-01-12T23:03:48.6416702+00:00"
+  "LastUpdate_Ratings": "2024-01-13T00:01:19.3299284+00:00",
+  "LastUpdate_Achievements": "2024-01-13T00:04:19.4423569+00:00"
 }

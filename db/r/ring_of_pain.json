@@ -2,7 +2,7 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 470,
+  "Ranking_Rating": 471,
   "Ranking_Popularity": 139,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 74,
@@ -3910,7 +3910,7 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242842,
+  "EOS_Progressed": 242843,
   "EOS_Completed": 305,
   "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 1,
@@ -31610,6 +31610,11 @@
       "Time": "2024-01-12T23:10:24.8743137+00:00",
       "NumProgressed": 242842,
       "NumCompleted": 305
+    },
+    {
+      "Time": "2024-01-13T00:11:10.778577+00:00",
+      "NumProgressed": 242843,
+      "NumCompleted": 305
     }
   ],
   "TotalAchievements": 138,
@@ -32331,9 +32336,9 @@
       "ID": "REROLL30TIMES",
       "SetID": "5l8oe0h",
       "Name": "Decisions, Decisions",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 729
+      "UsersEstimate": 971
     },
     {
       "ID": "SHRINETO1",
@@ -32724,13 +32729,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242842,
+      "Progressed": 242843,
       "Completed": 305
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4322,
+      "Progressed": 4323,
       "Completed": 425
     }
   ],
@@ -32738,8 +32743,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-12T05:59:51.3980392+00:00",
-  "LastChanged_Achievements": "2024-01-12T23:10:24.8743134+00:00",
+  "LastChanged_Achievements": "2024-01-13T00:11:10.7785767+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-12T22:59:33.9057518+00:00",
-  "LastUpdate_Achievements": "2024-01-12T23:10:24.874594+00:00"
+  "LastUpdate_Ratings": "2024-01-13T00:00:33.0468842+00:00",
+  "LastUpdate_Achievements": "2024-01-13T00:11:10.7788687+00:00"
 }

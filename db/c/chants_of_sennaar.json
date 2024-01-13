@@ -128,10 +128,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 2719,
-  "EOS_Completed": 200,
-  "EOS_NewPlayers": 292,
-  "EOS_NewCompleters": 42,
-  "EOS_Completed_Percentage": 7.36,
+  "EOS_Completed": 201,
+  "EOS_NewPlayers": 289,
+  "EOS_NewCompleters": 43,
+  "EOS_Completed_Percentage": 7.39,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -7167,6 +7167,11 @@
       "Time": "2024-01-12T20:04:47.8500647+00:00",
       "NumProgressed": 2719,
       "NumCompleted": 200
+    },
+    {
+      "Time": "2024-01-13T00:05:59.7405692+00:00",
+      "NumProgressed": 2719,
+      "NumCompleted": 201
     }
   ],
   "TotalAchievements": 25,
@@ -7304,9 +7309,9 @@
       "ID": "OPTIONNAL_WEAPONS",
       "SetID": "2gma9an",
       "Name": "Fashion victim",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 272
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -7320,9 +7325,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1631
+      "UsersEstimate": 1659
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7378,15 +7383,15 @@
       "ID": "2gma9an",
       "IsBase": true,
       "Progressed": 2719,
-      "Completed": 200
+      "Completed": 201
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-12T23:05:04.1001228+00:00",
+  "LastChanged_Achievements": "2024-01-13T00:05:59.7405688+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-12T22:57:44.7542736+00:00",
-  "LastUpdate_Achievements": "2024-01-12T23:05:04.1001866+00:00"
+  "LastUpdate_Ratings": "2024-01-12T23:58:00.3560781+00:00",
+  "LastUpdate_Achievements": "2024-01-13T00:05:59.7406138+00:00"
 }

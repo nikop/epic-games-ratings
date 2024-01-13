@@ -2,7 +2,7 @@
   "ID": "aster",
   "Name": "Heavy Rain",
   "ProductSlug": "heavy-rain",
-  "Ranking_Rating": 452,
+  "Ranking_Rating": 453,
   "Ranking_Popularity": 427,
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 827,
@@ -537,6 +537,6 @@
   "FirstSeen": "2022-07-22T20:17:18.3925162+00:00",
   "LastChanged": "2023-11-01T19:01:12.6722407+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:38.0007221+00:00",
-  "LastUpdate_Ratings": "2024-01-12T22:59:47.8632459+00:00",
-  "LastUpdate_Achievements": "2024-01-12T23:04:40.8904974+00:00"
+  "LastUpdate_Ratings": "2024-01-13T00:00:52.2481651+00:00",
+  "LastUpdate_Achievements": "2024-01-13T00:05:28.0701415+00:00"
 }

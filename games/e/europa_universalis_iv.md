@@ -1,12 +1,12 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 240)  
+Rating: 4.69 (Ranked 241)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 0.60% | ~2,985 |
+| Until death do us apart | 0.60% | ~2,986 |
 | That's a Grand Army | 0.50% | ~2,488 |
 | That is mine! | 0.50% | ~2,488 |
 | Victorious! | 0.50% | ~2,488 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 497,567 (Ranked 42)  
+Progressed: 497,586 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -638,9 +638,10 @@ Completed: 1 (0.00%) (Ranked 399)
 | 2024-01-10 | 496,402 | 1 |
 | 2024-01-11 | 496,921 | 1 |
 | 2024-01-12 | 497,567 | 1 |
+| 2024-01-13 | 497,586 | 1 |
 ## Awards
 Max (Educational): 7,824  (Ranked 52)  
-Sum: 64,425 (Ranked 24)  
+Sum: 64,437 (Ranked 24)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -650,7 +651,7 @@ Diff (max vs sum): 28
 | This game has Challenging Combat | 7,436 |
 | This game is Extremely Fun | 7,321 |
 | This game is Relaxing | 7,158 |
-| This game has Competitive Players | 6,996 |
+| This game has Competitive Players | 7,008 |
 | This game has Amazing Storytelling | 6,511 |
 | This game has Amazing Characters | 6,026 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -1017,4 +1018,4 @@ Diff (max vs sum): 28
 | 2024-01-09 | 4.69 | - | 7,780 | 64,168 |
 | 2024-01-10 | 4.69 | - | 7,790 | 64,245 |
 | 2024-01-11 | 4.69 | - | 7,804 | 64,342 |
-| 2024-01-12 | 4.69 | - | 7,824 | 64,425 |
+| 2024-01-12 | 4.69 | - | 7,824 | 64,437 |

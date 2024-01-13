@@ -6,13 +6,13 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 88.00% | ~637,207 |
-| Escaped Asphodel | 79.00% | ~572,038 |
-| Arms Collector | 70.00% | ~506,869 |
-| Friends in High Places | 67.00% | ~485,146 |
-| Escaped Elysium | 65.00% | ~470,664 |
-| Chthonic Colleagues | 62.00% | ~448,941 |
-| Is There No Escape? | 52.00% | ~376,531 |
+| Escaped Tartarus | 88.00% | ~637,209 |
+| Escaped Asphodel | 79.00% | ~572,040 |
+| Arms Collector | 70.00% | ~506,871 |
+| Friends in High Places | 67.00% | ~485,148 |
+| Escaped Elysium | 65.00% | ~470,666 |
+| Chthonic Colleagues | 62.00% | ~448,943 |
+| Is There No Escape? | 52.00% | ~376,533 |
 | Death Dealer | 45.00% | ~325,845 |
 | Skelly Slayer | 42.00% | ~304,122 |
 | Well Stocked | 40.00% | ~289,640 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,964 |
 | Friends Forever | 4.00% | ~28,964 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 724,099 (Ranked 28)  
+Progressed: 724,101 (Ranked 28)  
 Completed: 6,606 (0.91%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,9 +324,10 @@ Completed: 6,606 (0.91%) (Ranked 184)
 | 2024-01-10 | 723,823 | 6,603 |
 | 2024-01-11 | 723,953 | 6,604 |
 | 2024-01-12 | 724,099 | 6,606 |
+| 2024-01-13 | 724,101 | 6,606 |
 ## Awards
 Max (Character Customization): 3,535  (Ranked 96)  
-Sum: 8,620 (Ranked 107)  
+Sum: 8,621 (Ranked 107)  
 Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |
@@ -335,7 +336,7 @@ Diff (max vs sum): -11
 | This game is Great for Beginners | 295 |
 | This game is Highly Recommended | 285 |
 | This game has Amazing Storytelling | 272 |
-| This game is Extremely Fun | 270 |
+| This game is Extremely Fun | 271 |
 | This game has Amazing Characters | 267 |
 | This game has Diverse Characters | 266 |
 | This game has Quickly Understood Controls | 260 |
@@ -682,3 +683,4 @@ Diff (max vs sum): -11
 | 2024-01-10 | 4.92 | - | 3,526 | 8,602 |
 | 2024-01-11 | 4.92 | - | 3,531 | 8,613 |
 | 2024-01-12 | 4.92 | - | 3,535 | 8,620 |
+| 2024-01-13 | 4.92 | - | 3,535 | 8,621 |

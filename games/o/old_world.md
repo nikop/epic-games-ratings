@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 322)  
+Rating: 4.65 (Ranked 321)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -21,6 +21,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 2.00% | ~331 |
 | Keystone | 2.00% | ~331 |
 | Learned | 2.00% | ~331 |
+| Magnificent | 2.00% | ~331 |
 | Mason | 2.00% | ~331 |
 | Noble | 2.00% | ~331 |
 | Pioneer | 2.00% | ~331 |
@@ -41,7 +42,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 1.00% | ~166 |
 | Brilliant | 1.00% | ~166 |
 | Great | 1.00% | ~166 |
-| Magnificent | 1.00% | ~166 |
 | Wise | 1.00% | ~166 |
 | Legendary Cities | 1.00% | ~166 |
 | Able Difficulty | 1.00% | ~166 |
@@ -90,6 +90,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.60% | ~99 |
 | Legionary | 0.60% | ~99 |
 | Double Victory | 0.60% | ~99 |
+| Kushite Paganism | 0.60% | ~99 |
 | Bad Heir Day | 0.50% | ~83 |
 | Capable | 0.50% | ~83 |
 | Conqueror | 0.50% | ~83 |
@@ -109,7 +110,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.50% | ~83 |
 | Ambition Victory | 0.50% | ~83 |
 | The Clergy | 0.50% | ~83 |
-| Kushite Paganism | 0.50% | ~83 |
 | Devout | 0.40% | ~66 |
 | Invincible | 0.40% | ~66 |
 | Lion | 0.40% | ~66 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,554 (Ranked 170)  
+Progressed: 16,556 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -633,6 +633,7 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
+| 2024-01-13 | 16,556 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,921 (Ranked 224)  

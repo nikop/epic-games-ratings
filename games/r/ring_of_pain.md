@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 470)  
+Rating: 4.58 (Ranked 471)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -66,6 +66,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | The Long Run | 0.50% | ~1,214 |
 | Berzerker | 0.40% | ~971 |
 | Chain Reaction | 0.40% | ~971 |
+| Decisions, Decisions | 0.40% | ~971 |
 | Snake Sneak | 0.40% | ~971 |
 | Who Needs Luck? | 0.40% | ~17 |
 | Achievement Hunter | 0.30% | ~729 |
@@ -78,7 +79,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Gigantic | 0.30% | ~729 |
 | Clearing The Room | 0.30% | ~729 |
 | Path To Enlightenment | 0.30% | ~729 |
-| Decisions, Decisions | 0.30% | ~729 |
 | Fragile Mortality | 0.30% | ~729 |
 | Fire Away! | 0.30% | ~729 |
 | Defuser | 0.30% | ~729 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,842 (Ranked 74)  
+Progressed: 242,843 (Ranked 74)  
 Completed: 305 (0.13%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -413,6 +413,7 @@ Completed: 305 (0.13%) (Ranked 300)
 | 2024-01-10 | 242,736 | 305 |
 | 2024-01-11 | 242,789 | 305 |
 | 2024-01-12 | 242,842 | 305 |
+| 2024-01-13 | 242,843 | 305 |
 ## Awards
 Max (Quickly Understood Controls): 1,515  (Ranked 139)  
 Sum: 11,795 (Ranked 89)  

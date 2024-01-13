@@ -5,24 +5,24 @@ Rating: 4.19 (Ranked 975)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,970 |
-| Battlefields Have Memories | 81.00% | ~2,734 |
-| Enlisted | 74.00% | ~2,498 |
-| Maybe Engage a Little | 69.00% | ~2,329 |
-| No More Names | 53.00% | ~1,789 |
-| Initiate | 39.00% | ~1,316 |
-| Thrada-Kul | 35.00% | ~1,181 |
+| Unforeseen | 88.00% | ~2,972 |
+| Battlefields Have Memories | 81.00% | ~2,735 |
+| Enlisted | 74.00% | ~2,499 |
+| Maybe Engage a Little | 69.00% | ~2,330 |
+| No More Names | 53.00% | ~1,790 |
+| Initiate | 39.00% | ~1,317 |
+| Thrada-Kul | 35.00% | ~1,182 |
 | Gravity-Challenged Rocks | 29.00% | ~979 |
 | Soldier | 25.00% | ~844 |
 | Socialite | 24.00% | ~810 |
 | All the Major Food Groups | 24.00% | ~810 |
-| Beggars Would Ride | 22.00% | ~742 |
+| Beggars Would Ride | 22.00% | ~743 |
 | Control is an Illusion | 21.00% | ~709 |
 | The Means to Save It | 18.00% | ~608 |
 | Resilience to Sin | 17.00% | ~574 |
 | A Familiar Nest | 16.00% | ~540 |
 | Periapt Alizarin | 16.00% | ~540 |
-| Geas Aristeya | 15.00% | ~506 |
+| Geas Aristeya | 15.00% | ~507 |
 | A Perfect Cycle | 14.00% | ~473 |
 | Recruit | 14.00% | ~473 |
 | Armsman | 12.00% | ~405 |
@@ -30,8 +30,8 @@ Rating: 4.19 (Ranked 975)
 | Periapt Cerulean | 8.00% | ~270 |
 | Good Boy | 8.00% | ~270 |
 | Periapt Viridian | 7.00% | ~236 |
-| Best Dressed | 6.00% | ~202 |
-| Shroudfane Explorer | 6.00% | ~202 |
+| Best Dressed | 6.00% | ~203 |
+| Shroudfane Explorer | 6.00% | ~203 |
 | Kitted Out | 5.00% | ~169 |
 | Armaments Gules | 5.00% | ~169 |
 | Scholar | 4.00% | ~135 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 975)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,375 (Ranked 229)  
+Progressed: 3,377 (Ranked 229)  
 Completed: 4 (0.12%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,6 +160,7 @@ Completed: 4 (0.12%) (Ranked 305)
 | 2024-01-10 | 3,285 | 4 |
 | 2024-01-11 | 3,340 | 4 |
 | 2024-01-12 | 3,375 | 4 |
+| 2024-01-13 | 3,377 | 4 |
 ## Awards
 Max (Quickly Understood Controls): 20  (Ranked 579)  
 Sum: 20 (Ranked 580)  

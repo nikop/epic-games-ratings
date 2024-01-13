@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1950,
+  "EOS_Progressed": 1951,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4992,6 +4992,11 @@
       "Time": "2024-01-12T21:08:16.314351+00:00",
       "NumProgressed": 1950,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T00:08:22.3947979+00:00",
+      "NumProgressed": 1951,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -5036,7 +5041,7 @@
       "Name": "Like lightning!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -5068,7 +5073,7 @@
       "Name": "Masterful!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -5092,7 +5097,7 @@
       "Name": "Immortal",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -5148,7 +5153,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -5188,7 +5193,7 @@
       "Name": "The Terrordactyl",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -5268,7 +5273,7 @@
       "Name": "Beyond the limit",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -5340,7 +5345,7 @@
       "Name": "Mission complete",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -5371,20 +5376,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1950,
+      "Progressed": 1951,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1618,
+      "Progressed": 1619,
       "Completed": 1014
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-12T23:08:32.2626362+00:00",
+  "LastChanged_Achievements": "2024-01-13T00:08:22.3947975+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.6791346+00:00",
-  "LastUpdate_Ratings": "2024-01-12T23:00:10.6568535+00:00",
-  "LastUpdate_Achievements": "2024-01-12T23:08:32.262689+00:00"
+  "LastUpdate_Ratings": "2024-01-13T00:01:25.7051217+00:00",
+  "LastUpdate_Achievements": "2024-01-13T00:08:22.3948501+00:00"
 }

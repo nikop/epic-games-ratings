@@ -1,24 +1,24 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 470)  
+Rating: 4.58 (Ranked 471)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~15,882 |
-| Sweet Sorrow | 18.00% | ~7,941 |
-| Rules the Waves | 17.00% | ~7,500 |
+| Sink Beneath the Waves | 36.00% | ~15,884 |
+| Sweet Sorrow | 18.00% | ~7,942 |
+| Rules the Waves | 17.00% | ~7,501 |
 | Thou, All-Shaking Thunder | 15.00% | ~6,618 |
-| Rival | 14.00% | ~6,176 |
-| Correspondent | 12.00% | ~5,294 |
-| Lose Your Mind | 12.00% | ~5,294 |
-| Sound Mind? | 12.00% | ~5,294 |
+| Rival | 14.00% | ~6,177 |
+| Correspondent | 12.00% | ~5,295 |
+| Lose Your Mind | 12.00% | ~5,295 |
+| Sound Mind? | 12.00% | ~5,295 |
 | Salt's Curse | 11.00% | ~4,853 |
 | HE SUN THE SUN THE SUN T | 11.00% | ~4,853 |
 | The Fall of the House | 11.00% | ~4,853 |
 | Shipmate | 11.00% | ~4,853 |
-| One Year at Zee | 8.00% | ~3,529 |
+| One Year at Zee | 8.00% | ~3,530 |
 | Pupil | 7.00% | ~3,088 |
 | Open Your Ears | 7.00% | ~3,088 |
 | The Ascent of Man | 7.00% | ~3,088 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~44 |
 | Ten Years at Zee | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,117 (Ranked 131)  
+Progressed: 44,121 (Ranked 131)  
 Completed: 4 (0.01%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,6 +329,7 @@ Completed: 4 (0.01%) (Ranked 375)
 | 2024-01-10 | 44,009 | 4 |
 | 2024-01-11 | 44,060 | 4 |
 | 2024-01-12 | 44,117 | 4 |
+| 2024-01-13 | 44,121 | 4 |
 ## Awards
 Max (Character Customization): 221  (Ranked 292)  
 Sum: 315 (Ranked 377)  

@@ -1,42 +1,42 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.51 (Ranked 595)  
+Rating: 4.51 (Ranked 596)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 94.00% | ~5,886 |
-| All thumbs | 93.00% | ~5,824 |
-| I will survive! | 93.00% | ~5,824 |
-| Home, sweet home | 91.00% | ~5,698 |
-| Survivalist | 90.00% | ~5,636 |
-| One way ticket | 85.00% | ~5,323 |
-| Last man standing | 81.00% | ~5,072 |
-| Family guy | 77.00% | ~4,822 |
-| Out of the Bag | 76.00% | ~4,759 |
-| The Dark Side | 71.00% | ~4,446 |
-| Souper! | 66.00% | ~4,133 |
-| Duck and cover! | 66.00% | ~4,133 |
-| 2-1-6 | 60.00% | ~3,757 |
-| Pacifist | 60.00% | ~3,757 |
-| A gift | 55.00% | ~3,444 |
-| Girl Power | 49.00% | ~3,068 |
-| What goes around... | 45.00% | ~2,818 |
-| Be Prepared | 39.00% | ~2,442 |
-| Unbreakable | 37.00% | ~2,317 |
-| Gotta get 'em all | 35.00% | ~2,192 |
-| This is the end | 34.00% | ~2,129 |
+| Prepper | 94.00% | ~5,888 |
+| All thumbs | 93.00% | ~5,826 |
+| I will survive! | 93.00% | ~5,826 |
+| Home, sweet home | 91.00% | ~5,700 |
+| Survivalist | 90.00% | ~5,638 |
+| One way ticket | 85.00% | ~5,324 |
+| Last man standing | 81.00% | ~5,074 |
+| Family guy | 77.00% | ~4,823 |
+| Out of the Bag | 76.00% | ~4,761 |
+| The Dark Side | 71.00% | ~4,447 |
+| Souper! | 66.00% | ~4,134 |
+| Duck and cover! | 66.00% | ~4,134 |
+| 2-1-6 | 60.00% | ~3,758 |
+| Pacifist | 60.00% | ~3,758 |
+| A gift | 55.00% | ~3,445 |
+| Girl Power | 49.00% | ~3,069 |
+| What goes around... | 45.00% | ~2,819 |
+| Be Prepared | 39.00% | ~2,443 |
+| Unbreakable | 37.00% | ~2,318 |
+| Gotta get 'em all | 34.00% | ~2,130 |
+| This is the end | 34.00% | ~2,130 |
 | Atomic drill | 32.00% | ~2,004 |
-| Disco Roach | 29.00% | ~1,816 |
+| Disco Roach | 29.00% | ~1,817 |
 | Dawkins Residence | 22.00% | ~1,378 |
 | Rescue time! | 19.00% | ~1,190 |
-| New order | 18.00% | ~1,127 |
+| New order | 18.00% | ~1,128 |
 | New species | 17.00% | ~1,065 |
 | Enigma | 16.00% | ~1,002 |
-| A New Hope | 15.00% | ~939 |
+| A New Hope | 15.00% | ~940 |
 | Challenger | 13.00% | ~814 |
 | Men in Black | 13.00% | ~814 |
-| No stone unturned | 12.00% | ~751 |
+| No stone unturned | 12.00% | ~752 |
 | Unplugged | 9.00% | ~564 |
 | Mad Hatter | 8.00% | ~501 |
 | Holidays! | 7.00% | ~438 |
@@ -45,8 +45,8 @@ Rating: 4.51 (Ranked 595)
 | Feline Domination | 5.00% | ~313 |
 | Take that, Brundlefly! | 5.00% | ~313 |
 | Rogue One | 5.00% | ~313 |
-| Danger zone | 4.00% | ~250 |
-| Friend in need | 4.00% | ~250 |
+| Danger zone | 4.00% | ~251 |
+| Friend in need | 4.00% | ~251 |
 | Soup Can into Space | 3.00% | ~188 |
 | Enola Gay | 2.00% | ~125 |
 | Stay frosty | 2.00% | ~125 |
@@ -66,7 +66,7 @@ Rating: 4.51 (Ranked 595)
 | Tora! Tora! Tora! | 0.20% | ~13 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,262 (Ranked 202)  
+Progressed: 6,264 (Ranked 202)  
 Completed: 1 (0.02%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,6 +334,7 @@ Completed: 1 (0.02%) (Ranked 365)
 | 2024-01-10 | 6,225 | 1 |
 | 2024-01-11 | 6,245 | 1 |
 | 2024-01-12 | 6,262 | 1 |
+| 2024-01-13 | 6,264 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10358,
+  "EOS_Progressed": 10360,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16819,6 +16819,11 @@
       "Time": "2024-01-12T22:05:43.7548084+00:00",
       "NumProgressed": 10358,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T00:07:38.3641207+00:00",
+      "NumProgressed": 10360,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -16830,7 +16835,7 @@
       "Name": "First Step",
       "Percentage": 36,
       "XP": 45,
-      "UsersEstimate": 3729
+      "UsersEstimate": 3730
     },
     {
       "ID": "10",
@@ -16886,7 +16891,7 @@
       "Name": "Dense Forest",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2900
+      "UsersEstimate": 2901
     },
     {
       "ID": "3",
@@ -16894,7 +16899,7 @@
       "Name": "Cactus Vally",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     },
     {
       "ID": "4",
@@ -16918,7 +16923,7 @@
       "Name": "High Treetops",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "7",
@@ -16949,7 +16954,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10358,
+      "Progressed": 10360,
       "Completed": 0
     }
   ],
@@ -16957,8 +16962,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-12T23:06:18.1664768+00:00",
+  "LastChanged_Achievements": "2024-01-13T00:07:38.3641202+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:19.9263192+00:00",
-  "LastUpdate_Ratings": "2024-01-12T23:00:06.3548279+00:00",
-  "LastUpdate_Achievements": "2024-01-12T23:06:18.1665691+00:00"
+  "LastUpdate_Ratings": "2024-01-13T00:01:20.1985256+00:00",
+  "LastUpdate_Achievements": "2024-01-13T00:07:38.3642103+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.85 (Ranked 40)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 60.00% | ~1,631 |
+| That's the spirit | 61.00% | ~1,659 |
 | Welcome to the Tower | 54.00% | ~1,468 |
 | The great escape | 46.00% | ~1,251 |
 | The Preacher's fate | 44.00% | ~1,196 |
@@ -29,10 +29,10 @@ Rating: 4.85 (Ranked 40)
 | A Link to the Past | 17.00% | ~462 |
 | A great audience | 14.00% | ~381 |
 | For its own good | 14.00% | ~381 |
-| Fashion victim | 9.00% | ~245 |
+| Fashion victim | 10.00% | ~272 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,719 (Ranked 235)  
-Completed: 200 (7.36%) (Ranked 58)  
+Completed: 201 (7.39%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -206,6 +206,7 @@ Completed: 200 (7.36%) (Ranked 58)
 | 2024-01-10 | 2,665 | 192 |
 | 2024-01-11 | 2,694 | 196 |
 | 2024-01-12 | 2,719 | 200 |
+| 2024-01-13 | 2,719 | 201 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

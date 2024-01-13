@@ -1,32 +1,32 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 264)  
+Rating: 4.68 (Ranked 265)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,044 |
+| Malpractice Assurance | 14.00% | ~1,045 |
 | Lost and Found | 8.00% | ~597 |
-| Autodidact | 7.00% | ~9,281 |
+| Autodidact | 7.00% | ~9,282 |
 | This guy... again? | 7.00% | ~522 |
-| Serenity Now! | 6.00% | ~7,955 |
-| This Belongs in a Museum | 6.00% | ~7,955 |
-| Creep and Sleep | 6.00% | ~7,955 |
-| Overdue Notice | 6.00% | ~7,955 |
-| Escape from the Black Hole | 6.00% | ~7,955 |
-| Ploughshares to Swords | 6.00% | ~447 |
-| Bloody Graduation | 6.00% | ~447 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,629 |
-| It Rings a Bell | 5.00% | ~6,629 |
-| Not Today! | 5.00% | ~6,629 |
-| Meat and Greet | 5.00% | ~6,629 |
-| Catch and Decease | 5.00% | ~6,629 |
-| It Happens | 5.00% | ~6,629 |
-| Rush Hour | 5.00% | ~6,629 |
-| To Grandmother's House | 5.00% | ~6,629 |
-| A Place to Lay Your Head | 5.00% | ~6,629 |
-| FNG | 5.00% | ~6,629 |
+| Serenity Now! | 6.00% | ~7,956 |
+| This Belongs in a Museum | 6.00% | ~7,956 |
+| Creep and Sleep | 6.00% | ~7,956 |
+| Overdue Notice | 6.00% | ~7,956 |
+| Escape from the Black Hole | 6.00% | ~7,956 |
+| Ploughshares to Swords | 6.00% | ~448 |
+| Bloody Graduation | 6.00% | ~448 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,630 |
+| It Rings a Bell | 5.00% | ~6,630 |
+| Not Today! | 5.00% | ~6,630 |
+| Meat and Greet | 5.00% | ~6,630 |
+| Catch and Decease | 5.00% | ~6,630 |
+| It Happens | 5.00% | ~6,630 |
+| Rush Hour | 5.00% | ~6,630 |
+| To Grandmother's House | 5.00% | ~6,630 |
+| A Place to Lay Your Head | 5.00% | ~6,630 |
+| FNG | 5.00% | ~6,630 |
 | Spelunker | 4.00% | ~5,304 |
 | Merry Time | 4.00% | ~5,304 |
 | Harvest Festival | 4.00% | ~5,304 |
@@ -77,8 +77,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Tears in the Rain | 0.40% | ~530 |
 | Battle Hardened | 0.40% | ~30 |
 | Maître De La Lame | 0.40% | ~30 |
+| Grand Slam | 0.30% | ~398 |
 | Circle of Life | 0.20% | ~265 |
-| Grand Slam | 0.20% | ~265 |
 | These Boots Are Made For Kickin' | 0.20% | ~15 |
 | Loop Year | 0.10% | ~133 |
 | No Gravestone Left Unturned | 0.10% | ~133 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,589 (Ranked 91)  
+Progressed: 132,593 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,6 +344,7 @@ Completed: 4 (0.00%) (Ranked 399)
 | 2024-01-10 | 132,395 | 4 |
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
+| 2024-01-13 | 132,593 | 4 |
 ## Awards
 Max (Character Customization): 8,007  (Ranked 51)  
 Sum: 21,610 (Ranked 58)  

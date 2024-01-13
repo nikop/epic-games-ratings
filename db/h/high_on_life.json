@@ -2,7 +2,7 @@
   "ID": "28eda6de701c47dfbbe6255fcee8aa65",
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
-  "Ranking_Rating": 322,
+  "Ranking_Rating": 321,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 147,
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25127,
+  "EOS_Progressed": 25128,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9121,6 +9121,11 @@
       "Time": "2024-01-12T21:08:48.938062+00:00",
       "NumProgressed": 25127,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-13T00:09:25.6698742+00:00",
+      "NumProgressed": 25128,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -9483,13 +9488,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25127,
+      "Progressed": 25128,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2420,
+      "Progressed": 2421,
       "Completed": 1376
     }
   ],
@@ -9497,8 +9502,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-12T23:09:04.4460054+00:00",
+  "LastChanged_Achievements": "2024-01-13T00:09:25.6698736+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:08.9175912+00:00",
-  "LastUpdate_Ratings": "2024-01-12T23:00:32.0665129+00:00",
-  "LastUpdate_Achievements": "2024-01-12T23:09:04.4460945+00:00"
+  "LastUpdate_Ratings": "2024-01-13T00:01:57.6015336+00:00",
+  "LastUpdate_Achievements": "2024-01-13T00:09:25.669943+00:00"
 }

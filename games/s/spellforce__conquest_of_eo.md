@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 88.00% | ~125 |
-| Enough rooms to swing a cat | 77.00% | ~109 |
-| First to the post | 77.00% | ~109 |
-| A kind of Magic | 67.00% | ~95 |
-| Connected | 57.00% | ~81 |
+| Home Sweet Home | 88.00% | ~126 |
+| Enough rooms to swing a cat | 77.00% | ~110 |
+| First to the post | 76.00% | ~109 |
+| A kind of Magic | 66.00% | ~94 |
+| Connected | 57.00% | ~82 |
 | Expansion | 54.00% | ~77 |
-| Harvest Time | 51.00% | ~72 |
-| Mine! | 51.00% | ~72 |
+| Mine! | 51.00% | ~73 |
+| Harvest Time | 50.00% | ~72 |
 | Artificer's Apprentice | 42.00% | ~60 |
 | Get out of here! | 40.00% | ~57 |
 | Fly the friendly Sky | 40.00% | ~57 |
 | Alchemist's Apprentice | 35.00% | ~50 |
-| Necromancer's Apprentice | 35.00% | ~50 |
-| Friend of Lyraine | 32.00% | ~45 |
+| Necromancer's Apprentice | 34.00% | ~49 |
+| Friend of Lyraine | 32.00% | ~46 |
 | Redecorating | 29.00% | ~41 |
 | The Circle | 29.00% | ~41 |
-| Bad JuJu | 23.00% | ~33 |
+| Bad JuJu | 22.00% | ~31 |
 | Friend of Sevenkeeps | 21.00% | ~30 |
 | Slave to the rhythm | 19.00% | ~27 |
 | Castle Meldec | 18.00% | ~26 |
@@ -28,15 +28,15 @@
 | Friend of Alluvyan | 15.00% | ~21 |
 | Friend of Gillyshire | 15.00% | ~21 |
 | Friend of Connach | 15.00% | ~21 |
-| Stormwatch Faste | 13.00% | ~18 |
-| Friend of Orgash | 13.00% | ~18 |
-| Friend of Bastion | 13.00% | ~18 |
+| Stormwatch Faste | 13.00% | ~19 |
+| Friend of Orgash | 13.00% | ~19 |
+| Friend of Bastion | 13.00% | ~19 |
 | Friend of Silver Drift Hollow | 12.00% | ~17 |
 | Break Free | 12.00% | ~17 |
 | Philo's Tale | 11.00% | ~16 |
-| Silver Drift Hollow Mine | 11.00% | ~16 |
 | A Master of Magic | 11.00% | ~16 |
 | Magic Academy | 11.00% | ~16 |
+| Silver Drift Hollow Mine | 10.00% | ~14 |
 | Friend of Windholme | 10.00% | ~14 |
 | Mage Teacher | 9.00% | ~13 |
 | Defeat Gor | 8.00% | ~11 |
@@ -63,11 +63,11 @@
 | Master Necromancer | 6.00% | ~9 |
 | Friend of Grey Dusk Vale | 6.00% | ~9 |
 | Misty Coast Dragonbones | 5.00% | ~7 |
-| Defeat Isgrimm | 4.00% | ~6 |
-| Defeat Rohen | 4.00% | ~6 |
 | Defeat Yria | 4.00% | ~6 |
 | Lytra's Tale | 4.00% | ~6 |
 | Breaking the circle | 4.00% | ~6 |
+| Defeat Isgrimm | 3.00% | ~4 |
+| Defeat Rohen | 3.00% | ~4 |
 | Master Alchemist | 3.00% | ~4 |
 | Hard Life | 1.00% | ~1 |
 | Impossible Mission | 1.00% | ~1 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142 (Ranked 467)  
+Progressed: 143 (Ranked 467)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,6 +136,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-10 | 138 | 0 |
 | 2024-01-11 | 140 | 0 |
 | 2024-01-12 | 142 | 0 |
+| 2024-01-13 | 143 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,18 +5,18 @@ Rating: 4.42 (Ranked 741)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~51,452 |
-| IT MAKES BOOM! | 9.00% | ~35,621 |
-| EXTRA BOOST | 6.00% | ~23,747 |
-| PROTECTED | 5.00% | ~19,789 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,831 |
-| PRO | 4.00% | ~15,831 |
-| AGGRESSIVE RACER | 3.00% | ~11,874 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,916 |
-| TRAINING HARD | 2.00% | ~7,916 |
-| BE OUR GUEST | 2.00% | ~7,916 |
-| ACE SPEEDSTER | 2.00% | ~7,916 |
-| A TIGER'S FEAR | 2.00% | ~7,916 |
+| ROOKIE | 13.00% | ~51,459 |
+| IT MAKES BOOM! | 9.00% | ~35,626 |
+| EXTRA BOOST | 6.00% | ~23,750 |
+| PROTECTED | 5.00% | ~19,792 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,834 |
+| PRO | 4.00% | ~15,834 |
+| AGGRESSIVE RACER | 3.00% | ~11,875 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,917 |
+| TRAINING HARD | 2.00% | ~7,917 |
+| BE OUR GUEST | 2.00% | ~7,917 |
+| ACE SPEEDSTER | 2.00% | ~7,917 |
+| A TIGER'S FEAR | 2.00% | ~7,917 |
 | RELEASE THE KRAKEN | 1.00% | ~3,958 |
 | ACE BRAWLER | 1.00% | ~3,958 |
 | DEFEAT OUR CHAMPION | 1.00% | ~3,958 |
@@ -24,14 +24,14 @@ Rating: 4.42 (Ranked 741)
 | FRIENDLY | 1.00% | ~3,958 |
 | MASTER | 1.00% | ~3,958 |
 | LEGENDARY HERO | 1.00% | ~3,958 |
-| EXPERIENCED CREW | 0.90% | ~3,562 |
-| THE EYE OF THE HUNTER | 0.90% | ~3,562 |
+| EXPERIENCED CREW | 0.90% | ~3,563 |
+| THE EYE OF THE HUNTER | 0.90% | ~3,563 |
 | FRAMED! | 0.70% | ~2,771 |
 | ACE TRICKSTER | 0.70% | ~2,771 |
 | PERFECTLY POISED | 0.60% | ~2,375 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 395,787 (Ranked 52)  
-Completed: 1,582 (0.40%) (Ranked 240)  
+Progressed: 395,840 (Ranked 52)  
+Completed: 1,583 (0.40%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -294,6 +294,7 @@ Completed: 1,582 (0.40%) (Ranked 240)
 | 2024-01-10 | 393,978 | 1,557 |
 | 2024-01-11 | 394,848 | 1,570 |
 | 2024-01-12 | 395,787 | 1,582 |
+| 2024-01-13 | 395,840 | 1,583 |
 ## Awards
 Max (Great for Beginners): 179  (Ranked 313)  
 Sum: 1,187 (Ranked 264)  

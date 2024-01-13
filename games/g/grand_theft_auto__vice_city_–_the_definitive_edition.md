@@ -5,30 +5,30 @@ Rating: 4.53 (Ranked 567)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 47.00% | ~7,669 |
-| Greasy Palms | 42.00% | ~6,853 |
-| South American Connection | 26.00% | ~4,242 |
-| Life of the Party | 21.00% | ~3,426 |
+| Legal Counsel | 47.00% | ~7,670 |
+| Greasy Palms | 42.00% | ~6,854 |
+| South American Connection | 26.00% | ~4,243 |
+| Life of the Party | 21.00% | ~3,427 |
 | Tommy Two-Wheels | 16.00% | ~2,611 |
-| Big Heat from Little Havana | 15.00% | ~2,447 |
-| Chauffeur | 15.00% | ~2,447 |
+| Big Heat from Little Havana | 15.00% | ~2,448 |
+| Chauffeur | 15.00% | ~2,448 |
 | Salutations My Little Friend | 11.00% | ~1,795 |
 | Iron-y | 10.00% | ~1,632 |
-| Gun for Hire | 9.00% | ~1,468 |
-| Mischief Managed | 9.00% | ~1,468 |
+| Gun for Hire | 9.00% | ~1,469 |
+| Mischief Managed | 9.00% | ~1,469 |
 | Vice City Mogul | 7.00% | ~1,142 |
 | Catch Me if You Can | 6.00% | ~979 |
 | Bloodstained Hands | 6.00% | ~979 |
 | Not my First Time | 5.00% | ~816 |
 | Grand Theft Auto | 5.00% | ~816 |
 | Pie Guy | 4.00% | ~653 |
-| Running Rampant | 3.00% | ~489 |
-| Point A to Point B | 3.00% | ~489 |
-| High Quality H2O | 3.00% | ~489 |
-| Bull in a China Shop | 3.00% | ~489 |
-| Somebody Call the Wambulance? | 3.00% | ~489 |
-| Just Like the Real Thing | 3.00% | ~489 |
-| Don't Need Roads | 3.00% | ~489 |
+| Running Rampant | 3.00% | ~490 |
+| Point A to Point B | 3.00% | ~490 |
+| High Quality H2O | 3.00% | ~490 |
+| Bull in a China Shop | 3.00% | ~490 |
+| Somebody Call the Wambulance? | 3.00% | ~490 |
+| Just Like the Real Thing | 3.00% | ~490 |
+| Don't Need Roads | 3.00% | ~490 |
 | One is Better Than Two | 2.00% | ~326 |
 | Take the Cannoli | 2.00% | ~326 |
 | Chopper’d Up | 2.00% | ~326 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 567)
 | Done it All | 1.00% | ~163 |
 | Kingpin | 0.60% | ~98 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,316 (Ranked 171)  
+Progressed: 16,320 (Ranked 171)  
 Completed: 98 (0.60%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,6 +308,7 @@ Completed: 98 (0.60%) (Ranked 210)
 | 2024-01-10 | 16,202 | 95 |
 | 2024-01-11 | 16,263 | 96 |
 | 2024-01-12 | 16,316 | 98 |
+| 2024-01-13 | 16,320 | 98 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

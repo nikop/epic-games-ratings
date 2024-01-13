@@ -8,10 +8,10 @@ Number of Ratings: 281  (23.09.2022)
 | ---- | ---------- | ----- |
 | Fish Just Got Reel | 20.00% | ~1,659 |
 | More Fish in the Sea | 17.00% | ~1,410 |
-| Hey Good Hookin | 16.00% | ~1,327 |
-| Can you smell what the Rod is Hooking | 15.00% | ~1,244 |
-| Scaling up | 15.00% | ~1,244 |
-| I'm on a Boat! | 13.00% | ~1,078 |
+| Hey Good Hookin | 16.00% | ~1,328 |
+| Can you smell what the Rod is Hooking | 15.00% | ~1,245 |
+| Scaling up | 15.00% | ~1,245 |
+| I'm on a Boat! | 13.00% | ~1,079 |
 | Ready to Rod and Roll | 11.00% | ~913 |
 | Fish Out of Water | 8.00% | ~664 |
 | Things that go Splash in the Night | 8.00% | ~664 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,296 (Ranked 191)  
+Progressed: 8,297 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,6 +315,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-10 | 8,256 | 0 |
 | 2024-01-11 | 8,274 | 0 |
 | 2024-01-12 | 8,296 | 0 |
+| 2024-01-13 | 8,297 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 481)  
 Sum: 213 (Ranked 412)  

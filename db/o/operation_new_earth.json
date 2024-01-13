@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2227,
+  "EOS_Progressed": 2228,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8591,6 +8591,11 @@
       "Time": "2024-01-12T22:03:32.900377+00:00",
       "NumProgressed": 2227,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T00:04:40.4725948+00:00",
+      "NumProgressed": 2228,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8682,7 +8687,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "objective_headquarters_15",
@@ -8706,7 +8711,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -8842,7 +8847,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -8905,7 +8910,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2227,
+      "Progressed": 2228,
       "Completed": 1
     }
   ],
@@ -8913,8 +8918,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-01-12T17:58:59.9146024+00:00",
-  "LastChanged_Achievements": "2024-01-12T23:04:04.4953111+00:00",
+  "LastChanged_Achievements": "2024-01-13T00:04:40.4725943+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:28.5639018+00:00",
-  "LastUpdate_Ratings": "2024-01-12T22:59:24.8174405+00:00",
-  "LastUpdate_Achievements": "2024-01-12T23:04:04.4953902+00:00"
+  "LastUpdate_Ratings": "2024-01-13T00:00:20.7089977+00:00",
+  "LastUpdate_Achievements": "2024-01-13T00:04:40.472667+00:00"
 }

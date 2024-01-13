@@ -8093,11 +8093,17 @@
       "Rating": 4,
       "NumberOfAwards": 27982,
       "NumberOfAwardsMax": 4952
+    },
+    {
+      "Time": "2024-01-13T00:03:52.3827116+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 27984,
+      "NumberOfAwardsMax": 4954
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27982,
-  "NumberOfAwardsMax": 4952,
+  "NumberOfAwards": 27984,
+  "NumberOfAwardsMax": 4954,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -8116,7 +8122,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4952
+      "Count": 4954
     },
     {
       "Text": "This game has Easy Combat",
@@ -8149,9 +8155,9 @@
       "Count": 3823
     }
   ],
-  "EOS_Progressed": 150896,
+  "EOS_Progressed": 150902,
   "EOS_Completed": 350,
-  "EOS_NewPlayers": 1141,
+  "EOS_NewPlayers": 1134,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36459,6 +36465,11 @@
       "Time": "2024-01-12T23:09:05.7384437+00:00",
       "NumProgressed": 150896,
       "NumCompleted": 350
+    },
+    {
+      "Time": "2024-01-13T00:09:27.2979319+00:00",
+      "NumProgressed": 150902,
+      "NumCompleted": 350
     }
   ],
   "TotalAchievements": 112,
@@ -36766,7 +36777,7 @@
       "Name": "Oligarch Monarch",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "damage01",
@@ -37078,7 +37089,7 @@
       "Name": "Merchant Extraordinaire",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "lilu_a",
@@ -37365,15 +37376,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 150896,
+      "Progressed": 150902,
       "Completed": 350
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2024-01-12T20:03:16.5577431+00:00",
-  "LastChanged_Achievements": "2024-01-12T23:09:05.7384434+00:00",
+  "LastChanged": "2024-01-13T00:03:52.3827114+00:00",
+  "LastChanged_Achievements": "2024-01-13T00:09:27.2979315+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.0260329+00:00",
-  "LastUpdate_Ratings": "2024-01-12T23:03:29.3612923+00:00",
-  "LastUpdate_Achievements": "2024-01-12T23:09:05.7386721+00:00"
+  "LastUpdate_Ratings": "2024-01-13T00:03:52.3827121+00:00",
+  "LastUpdate_Achievements": "2024-01-13T00:09:27.2981549+00:00"
 }

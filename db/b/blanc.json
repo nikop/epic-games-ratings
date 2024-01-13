@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4085,
+  "EOS_Progressed": 4087,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
@@ -7011,6 +7011,11 @@
       "Time": "2024-01-12T23:04:05.5655856+00:00",
       "NumProgressed": 4085,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-13T00:04:41.8557234+00:00",
+      "NumProgressed": 4087,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -7030,7 +7035,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "FALLEN_TREE",
@@ -7046,7 +7051,7 @@
       "Name": "Helping the little ones",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "MOVE_ON",
@@ -7118,14 +7123,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 4085,
+      "Progressed": 4087,
       "Completed": 6
     }
   ],
@@ -7133,8 +7138,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-12T23:04:05.5655853+00:00",
+  "LastChanged_Achievements": "2024-01-13T00:04:41.8557229+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:08.6041157+00:00",
-  "LastUpdate_Ratings": "2024-01-12T22:57:29.6540494+00:00",
-  "LastUpdate_Achievements": "2024-01-12T23:04:05.5656419+00:00"
+  "LastUpdate_Ratings": "2024-01-12T23:57:38.3135161+00:00",
+  "LastUpdate_Achievements": "2024-01-13T00:04:41.8557621+00:00"
 }

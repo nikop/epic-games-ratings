@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,601 |
+| The Old Grandmaster | 6.00% | ~45,602 |
 | Life is your teacher | 5.00% | ~38,001 |
 | Lightning Hands | 5.00% | ~38,001 |
 | The Assault | 4.00% | ~30,401 |
@@ -15,17 +15,17 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 3.00% | ~22,801 |
 | Qi Gong: Essence | 3.00% | ~22,801 |
 | Old Child | 3.00% | ~22,801 |
-| A Lady's Blood in the Snow | 2.00% | ~15,200 |
-| Lady Wing Chun | 2.00% | ~15,200 |
-| Furious Fists | 2.00% | ~15,200 |
-| Kill Nil | 2.00% | ~15,200 |
-| Stuntmaster | 2.00% | ~15,200 |
-| Qi Gong: Breath | 2.00% | ~15,200 |
-| I know Kung-Fu | 2.00% | ~15,200 |
-| Path of the Prospect | 2.00% | ~15,200 |
-| Rumble in the Hangar | 2.00% | ~15,200 |
-| Take damage to save time | 2.00% | ~15,200 |
-| Diligence as a goal | 2.00% | ~1,386 |
+| A Lady's Blood in the Snow | 2.00% | ~15,201 |
+| Lady Wing Chun | 2.00% | ~15,201 |
+| Furious Fists | 2.00% | ~15,201 |
+| Kill Nil | 2.00% | ~15,201 |
+| Stuntmaster | 2.00% | ~15,201 |
+| Qi Gong: Breath | 2.00% | ~15,201 |
+| I know Kung-Fu | 2.00% | ~15,201 |
+| Path of the Prospect | 2.00% | ~15,201 |
+| Rumble in the Hangar | 2.00% | ~15,201 |
+| Take damage to save time | 2.00% | ~15,201 |
+| Diligence as a goal | 2.00% | ~1,387 |
 | Scareless | 1.00% | ~7,600 |
 | Dance of the Praying Mantis | 1.00% | ~7,600 |
 | Qi Gong: Mind | 1.00% | ~7,600 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~69 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 760,019 (Ranked 26)  
+Progressed: 760,026 (Ranked 26)  
 Completed: 12,984 (1.71%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,6 +335,7 @@ Completed: 12,984 (1.71%) (Ranked 146)
 | 2024-01-10 | 759,091 | 12,982 |
 | 2024-01-11 | 759,612 | 12,983 |
 | 2024-01-12 | 760,019 | 12,984 |
+| 2024-01-13 | 760,026 | 12,984 |
 ## Awards
 Max (Great Boss Battles): 7,179  (Ranked 57)  
 Sum: 12,710 (Ranked 85)  

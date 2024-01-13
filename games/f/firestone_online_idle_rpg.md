@@ -5,22 +5,22 @@ Rating: 4.11 (Ranked 1,021)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,130 |
-| World Map | 78.00% | ~3,464 |
-| Temple of Eternals | 56.00% | ~2,487 |
-| Prestigious | 52.00% | ~2,309 |
-| Fellowship Power | 41.00% | ~1,821 |
+| Victor | 93.00% | ~4,132 |
+| World Map | 78.00% | ~3,466 |
+| Temple of Eternals | 56.00% | ~2,488 |
+| Prestigious | 52.00% | ~2,310 |
+| Fellowship Power | 41.00% | ~1,822 |
 | Full Party | 29.00% | ~1,288 |
 | Guild Power | 22.00% | ~977 |
-| Prestigious x10 | 20.00% | ~888 |
-| The game is on | 18.00% | ~799 |
+| Prestigious x10 | 20.00% | ~889 |
+| The game is on | 18.00% | ~800 |
 | Exotic Merchant | 16.00% | ~711 |
 | Dragon Clicker | 15.00% | ~666 |
 | Miner Clicker | 15.00% | ~666 |
 | Inspection | 14.00% | ~622 |
-| Dragon Master | 13.00% | ~577 |
-| Enlightenment | 13.00% | ~577 |
-| Hero inspection | 13.00% | ~577 |
+| Dragon Master | 13.00% | ~578 |
+| Enlightenment | 13.00% | ~578 |
+| Hero inspection | 13.00% | ~578 |
 | Lieutenant | 12.00% | ~533 |
 | Mysterious Rock | 11.00% | ~489 |
 | Natural Talent | 11.00% | ~489 |
@@ -42,10 +42,10 @@ Rating: 4.11 (Ranked 1,021)
 | Master Enchanter | 7.00% | ~311 |
 | The father of Dragons | 7.00% | ~311 |
 | Trader | 7.00% | ~311 |
-| Dragon Slayer | 6.00% | ~266 |
-| Here We Go Again | 6.00% | ~266 |
-| The Expeditioner | 6.00% | ~266 |
-| Weekly Quest Completionist | 6.00% | ~266 |
+| Dragon Slayer | 6.00% | ~267 |
+| Here We Go Again | 6.00% | ~267 |
+| The Expeditioner | 6.00% | ~267 |
+| Weekly Quest Completionist | 6.00% | ~267 |
 | Blueprint Upgrades | 5.00% | ~222 |
 | Crystal Mining | 5.00% | ~222 |
 | Enchanting skill | 5.00% | ~222 |
@@ -81,7 +81,7 @@ Rating: 4.11 (Ranked 1,021)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,441 (Ranked 209)  
+Progressed: 4,443 (Ranked 209)  
 Completed: 2 (0.05%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,6 +344,7 @@ Completed: 2 (0.05%) (Ranked 340)
 | 2024-01-10 | 4,381 | 2 |
 | 2024-01-11 | 4,414 | 2 |
 | 2024-01-12 | 4,441 | 2 |
+| 2024-01-13 | 4,443 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 485)  
 Sum: 158 (Ranked 440)  

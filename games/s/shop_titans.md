@@ -113,13 +113,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.70% | ~1,056 |
 | Unleashed Potential | 0.70% | ~1,056 |
 | JACKPOT!!! | 0.70% | ~1,056 |
-| Oligarch Monarch | 0.50% | ~754 |
-| Merchant Extraordinaire | 0.50% | ~754 |
+| Oligarch Monarch | 0.50% | ~755 |
+| Merchant Extraordinaire | 0.50% | ~755 |
 | To Hell and Back | 0.40% | ~604 |
 | Cash Only Please | 0.40% | ~604 |
 | Capitalist Camaraderie | 0.30% | ~453 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150,896 (Ranked 86)  
+Progressed: 150,902 (Ranked 86)  
 Completed: 350 (0.23%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -387,13 +387,14 @@ Completed: 350 (0.23%) (Ranked 272)
 | 2024-01-10 | 150,626 | 348 |
 | 2024-01-11 | 150,768 | 349 |
 | 2024-01-12 | 150,896 | 350 |
+| 2024-01-13 | 150,902 | 350 |
 ## Awards
-Max (Great for Beginners): 4,952  (Ranked 78)  
-Sum: 27,982 (Ranked 52)  
+Max (Great for Beginners): 4,954  (Ranked 78)  
+Sum: 27,984 (Ranked 52)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,952 |
+| This game is Great for Beginners | 4,954 |
 | This game is Relaxing | 4,079 |
 | This game has Quickly Understood Controls | 4,073 |
 | This game has Diverse Characters | 4,034 |
@@ -751,3 +752,4 @@ Diff (max vs sum): 26
 | 2024-01-10 | 4.00 | - | 4,949 | 27,970 |
 | 2024-01-11 | 4.00 | - | 4,952 | 27,979 |
 | 2024-01-12 | 4.00 | - | 4,952 | 27,982 |
+| 2024-01-13 | 4.00 | - | 4,954 | 27,984 |

@@ -2,12 +2,12 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 470,
+  "Ranking_Rating": 471,
   "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -843,9 +843,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3886,
+  "EOS_Progressed": 3887,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5933,6 +5933,11 @@
       "Time": "2024-01-12T14:06:42.529889+00:00",
       "NumProgressed": 3886,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T00:07:57.8886304+00:00",
+      "NumProgressed": 3887,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -6176,7 +6181,7 @@
       "Name": "Purging Spree",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "Kills_Vakir",
@@ -6487,21 +6492,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3886,
+      "Progressed": 3887,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3886,
+      "Progressed": 3887,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-11T05:03:08.5740841+00:00",
-  "LastChanged_Achievements": "2024-01-12T23:06:32.6533184+00:00",
+  "LastChanged_Achievements": "2024-01-13T00:07:57.88863+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:54.2702622+00:00",
-  "LastUpdate_Ratings": "2024-01-12T23:03:28.1373105+00:00",
-  "LastUpdate_Achievements": "2024-01-12T23:06:32.653386+00:00"
+  "LastUpdate_Ratings": "2024-01-13T00:03:50.7973083+00:00",
+  "LastUpdate_Achievements": "2024-01-13T00:07:57.8887173+00:00"
 }

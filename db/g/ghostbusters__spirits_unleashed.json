@@ -3919,10 +3919,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2961,
       "NumberOfAwardsMax": 328
+    },
+    {
+      "Time": "2024-01-13T00:02:57.1187366+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2962,
+      "NumberOfAwardsMax": 328
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2961,
+  "NumberOfAwards": 2962,
   "NumberOfAwardsMax": 328,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -3978,7 +3984,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 293
+      "Count": 294
     },
     {
       "Text": "This game is Relaxing",
@@ -3999,9 +4005,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33580,
+  "EOS_Progressed": 33582,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -25324,6 +25330,11 @@
       "Time": "2024-01-12T23:09:14.9034309+00:00",
       "NumProgressed": 33580,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-13T00:09:39.3323532+00:00",
+      "NumProgressed": 33582,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -25335,7 +25346,7 @@
       "Name": "Advancement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2686
+      "UsersEstimate": 2687
     },
     {
       "ID": "Animated",
@@ -25742,16 +25753,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33580,
+      "Progressed": 33582,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2024-01-11T18:59:58.0026653+00:00",
-  "LastChanged_Achievements": "2024-01-12T23:09:14.9034306+00:00",
+  "LastChanged": "2024-01-13T00:02:57.1187364+00:00",
+  "LastChanged_Achievements": "2024-01-13T00:09:39.3323529+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.8485347+00:00",
-  "LastUpdate_Ratings": "2024-01-12T23:00:39.4015689+00:00",
-  "LastUpdate_Achievements": "2024-01-12T23:09:14.9035587+00:00"
+  "LastUpdate_Ratings": "2024-01-13T00:02:57.118737+00:00",
+  "LastUpdate_Achievements": "2024-01-13T00:09:39.3324847+00:00"
 }

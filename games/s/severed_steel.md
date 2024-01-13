@@ -1,23 +1,23 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.69 (Ranked 240)  
+Rating: 4.69 (Ranked 241)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 33.00% | ~214,094 |
-| 50 HEADSHOTS | 31.00% | ~201,118 |
-| SCIENCE AND INDUSTRY | 30.00% | ~194,631 |
-| FINISHED CHAPTER 1 | 29.00% | ~188,143 |
-| FINISHED CHAPTER 2 | 21.00% | ~136,241 |
-| 200 HEADSHOTS | 19.00% | ~123,266 |
-| FINISHED CHAPTER 3 | 18.00% | ~116,778 |
-| FINISHED CHAPTER 4 | 15.00% | ~97,315 |
-| FINISH CHAPTER 5 | 13.00% | ~84,340 |
-| FINISH CHAPTER 6 | 11.00% | ~71,365 |
-| CATHARTIC ESCAPISM | 11.00% | ~71,365 |
-| 1000 KILLS | 10.00% | ~64,877 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~25,951 |
+| 100 KILLS | 33.00% | ~214,088 |
+| 50 HEADSHOTS | 31.00% | ~201,113 |
+| SCIENCE AND INDUSTRY | 30.00% | ~194,626 |
+| FINISHED CHAPTER 1 | 29.00% | ~188,138 |
+| FINISHED CHAPTER 2 | 21.00% | ~136,238 |
+| 200 HEADSHOTS | 19.00% | ~123,263 |
+| FINISHED CHAPTER 3 | 18.00% | ~116,775 |
+| FINISHED CHAPTER 4 | 15.00% | ~97,313 |
+| FINISH CHAPTER 5 | 13.00% | ~84,338 |
+| FINISH CHAPTER 6 | 11.00% | ~71,363 |
+| CATHARTIC ESCAPISM | 11.00% | ~71,363 |
+| 1000 KILLS | 10.00% | ~64,875 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~25,950 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~12,975 |
 | FIRST BLOOD | 2.00% | ~12,975 |
 | FIREFIGHT LEVEL 30 | 1.00% | ~6,488 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 240)
 | THE GAMBLER | 0.10% | ~649 |
 | WARRIOR IN A GARDEN | 0.10% | ~649 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 648,769 (Ranked 32)  
+Progressed: 648,752 (Ranked 32)  
 Completed: 58 (0.01%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,6 +326,7 @@ Completed: 58 (0.01%) (Ranked 375)
 | 2024-01-10 | 649,954 | 58 |
 | 2024-01-11 | 649,576 | 58 |
 | 2024-01-12 | 649,177 | 58 |
+| 2024-01-13 | 648,752 | 58 |
 ## Awards
 Max (Great Boss Battles): 501  (Ranked 223)  
 Sum: 587 (Ranked 326)  

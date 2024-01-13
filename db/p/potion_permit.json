@@ -411,7 +411,7 @@
   ],
   "EOS_Progressed": 1942,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3744,9 +3744,9 @@
       "ID": "ACHIEVEMENTS_13",
       "SetID": "d4o538a",
       "Name": "Line Cook",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 252
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -3961,8 +3961,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2024-01-11T09:59:14.3189006+00:00",
-  "LastChanged_Achievements": "2024-01-12T23:06:01.5034491+00:00",
+  "LastChanged_Achievements": "2024-01-13T00:07:16.6260956+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:08.493824+00:00",
-  "LastUpdate_Ratings": "2024-01-12T23:00:20.4452207+00:00",
-  "LastUpdate_Achievements": "2024-01-12T23:06:01.5035076+00:00"
+  "LastUpdate_Ratings": "2024-01-13T00:01:40.0436103+00:00",
+  "LastUpdate_Achievements": "2024-01-13T00:07:16.626154+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 452,
+  "Ranking_Rating": 453,
   "Ranking_Popularity": 432,
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1879,9 +1879,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167856,
+  "EOS_Progressed": 167865,
   "EOS_Completed": 456,
-  "EOS_NewPlayers": 1154,
+  "EOS_NewPlayers": 1157,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22859,6 +22859,11 @@
       "Time": "2024-01-12T23:05:50.8164261+00:00",
       "NumProgressed": 167856,
       "NumCompleted": 456
+    },
+    {
+      "Time": "2024-01-13T00:07:02.3284906+00:00",
+      "NumProgressed": 167865,
+      "NumCompleted": 456
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22935,7 +22940,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6714
+      "UsersEstimate": 6715
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -23087,7 +23092,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6714
+      "UsersEstimate": 6715
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -23238,21 +23243,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167439,
-      "Completed": 1262
+      "Progressed": 167448,
+      "Completed": 1263
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167856,
+      "Progressed": 167865,
       "Completed": 456
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-12T18:57:16.5787168+00:00",
-  "LastChanged_Achievements": "2024-01-12T23:05:50.8164258+00:00",
+  "LastChanged_Achievements": "2024-01-13T00:07:02.3284902+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-12T22:57:25.6872418+00:00",
-  "LastUpdate_Achievements": "2024-01-12T23:05:50.8165662+00:00"
+  "LastUpdate_Ratings": "2024-01-12T23:57:33.6696576+00:00",
+  "LastUpdate_Achievements": "2024-01-13T00:07:02.3286364+00:00"
 }

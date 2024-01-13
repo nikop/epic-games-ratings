@@ -1,27 +1,27 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.39 (Ranked 784)  
+Rating: 4.39 (Ranked 785)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,574 |
-| Ranidaphobia | 77.00% | ~1,317 |
-| Aspiring Editor | 74.00% | ~1,266 |
+| First Blood | 92.00% | ~1,575 |
+| Ranidaphobia | 77.00% | ~1,318 |
+| Aspiring Editor | 74.00% | ~1,267 |
 | Gun for Hire | 69.00% | ~1,181 |
-| I am the law! | 63.00% | ~1,078 |
+| I am the law! | 63.00% | ~1,079 |
 | Lumberjack | 53.00% | ~907 |
-| Croaked | 49.00% | ~838 |
-| Limp Richard | 48.00% | ~821 |
-| Exorcist | 48.00% | ~821 |
-| From Darkness to Light | 48.00% | ~821 |
-| Editor Adept | 47.00% | ~804 |
-| Giant Killer | 46.00% | ~787 |
+| Croaked | 49.00% | ~839 |
+| Limp Richard | 48.00% | ~822 |
+| Exorcist | 48.00% | ~822 |
+| From Darkness to Light | 48.00% | ~822 |
+| Editor Adept | 47.00% | ~805 |
+| Giant Killer | 46.00% | ~788 |
 | Sensei | 44.00% | ~753 |
 | Firestarter | 42.00% | ~719 |
 | The meaning of Kain | 42.00% | ~719 |
-| Technophobe | 41.00% | ~702 |
-| Recycler | 40.00% | ~684 |
+| Recycler | 40.00% | ~685 |
+| Technophobe | 40.00% | ~685 |
 | Are you not entertained? | 36.00% | ~616 |
 | Jarhead | 36.00% | ~616 |
 | Ganglord | 35.00% | ~599 |
@@ -33,8 +33,8 @@ Rating: 4.39 (Ranked 784)
 | Savior | 28.00% | ~479 |
 | Silent but Violent | 28.00% | ~479 |
 | There Can Be Only One! | 26.00% | ~445 |
-| Chain Killer | 22.00% | ~376 |
-| The Watchers | 22.00% | ~376 |
+| Chain Killer | 22.00% | ~377 |
+| The Watchers | 22.00% | ~377 |
 | Commando | 17.00% | ~291 |
 | Chaos Theory | 16.00% | ~274 |
 | Dr Jones | 16.00% | ~274 |
@@ -57,7 +57,7 @@ Rating: 4.39 (Ranked 784)
 | Alpha Editor | 0.80% | ~14 |
 | QA Has Suffered! (Redux) | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,711 (Ranked 261)  
+Progressed: 1,712 (Ranked 261)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,6 +232,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 1,702 | 0 |
 | 2024-01-10 | 1,709 | 0 |
 | 2024-01-11 | 1,711 | 0 |
+| 2024-01-13 | 1,712 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

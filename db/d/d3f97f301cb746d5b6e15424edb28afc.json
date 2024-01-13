@@ -5064,9 +5064,9 @@
       "ID": "GSS_ACH_22_LOCKPICKING_02",
       "SetID": "5fn8ia4",
       "Name": "So Shady!",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 760
     },
     {
       "ID": "GSS_ACH_23_LOCKPICKING_03",
@@ -5368,9 +5368,9 @@
       "ID": "GSS_ACH_61_POPULARITY_01",
       "SetID": "5fn8ia4",
       "Name": "On the Map",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1401
     },
     {
       "ID": "GSS_ACH_62_POPULARITY_02",
@@ -5392,9 +5392,9 @@
       "ID": "GSS_ACH_64_POPULARITY_04",
       "SetID": "5fn8ia4",
       "Name": "Local Celebrity",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1215
     },
     {
       "ID": "GSS_ACH_65_POPULARITY_05",
@@ -5553,8 +5553,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-12T15:00:59.7765228+00:00",
-  "LastChanged_Achievements": "2024-01-12T23:06:35.4801306+00:00",
+  "LastChanged_Achievements": "2024-01-13T00:08:01.5651621+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.4325477+00:00",
-  "LastUpdate_Ratings": "2024-01-12T23:00:03.8626403+00:00",
-  "LastUpdate_Achievements": "2024-01-12T23:06:35.4802195+00:00"
+  "LastUpdate_Ratings": "2024-01-13T00:01:16.6163152+00:00",
+  "LastUpdate_Achievements": "2024-01-13T00:08:01.565283+00:00"
 }

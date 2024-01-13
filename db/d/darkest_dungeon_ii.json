@@ -2,7 +2,7 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 264,
+  "Ranking_Rating": 265,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 91,
@@ -10788,9 +10788,9 @@
       "Count": 1092
     }
   ],
-  "EOS_Progressed": 132589,
+  "EOS_Progressed": 132593,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 776,
+  "EOS_NewPlayers": 772,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39578,6 +39578,11 @@
       "Time": "2024-01-12T23:10:06.6702016+00:00",
       "NumProgressed": 132589,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-13T00:10:47.9088117+00:00",
+      "NumProgressed": 132593,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39589,7 +39594,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6629
+      "UsersEstimate": 6630
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -39597,7 +39602,7 @@
       "Name": "Serenity Now!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7955
+      "UsersEstimate": 7956
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -39605,7 +39610,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6629
+      "UsersEstimate": 6630
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -39717,7 +39722,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7955
+      "UsersEstimate": 7956
     },
     {
       "ID": "combat_kill_cadavers",
@@ -39741,7 +39746,7 @@
       "Name": "Not Today!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6629
+      "UsersEstimate": 6630
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -39749,7 +39754,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7955
+      "UsersEstimate": 7956
     },
     {
       "ID": "combat_kill_fanatics",
@@ -39789,7 +39794,7 @@
       "Name": "Meat and Greet",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6629
+      "UsersEstimate": 6630
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -39805,7 +39810,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6629
+      "UsersEstimate": 6630
     },
     {
       "ID": "combat_kill_librarian",
@@ -39813,7 +39818,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7955
+      "UsersEstimate": 7956
     },
     {
       "ID": "combat_kill_pillagers",
@@ -39829,7 +39834,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7955
+      "UsersEstimate": 7956
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -39861,7 +39866,7 @@
       "Name": "It Happens",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6629
+      "UsersEstimate": 6630
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -39885,7 +39890,7 @@
       "Name": "Rush Hour",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6629
+      "UsersEstimate": 6630
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -39909,7 +39914,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6629
+      "UsersEstimate": 6630
     },
     {
       "ID": "driving_distance_easy",
@@ -39941,7 +39946,7 @@
       "Name": "Autodidact",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9281
+      "UsersEstimate": 9282
     },
     {
       "ID": "hero_story_complete_all",
@@ -39981,7 +39986,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6629
+      "UsersEstimate": 6630
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -39997,7 +40002,7 @@
       "Name": "FNG",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6629
+      "UsersEstimate": 6630
     },
     {
       "ID": "inn_visit_all_variants",
@@ -40083,9 +40088,9 @@
       "ID": "run_victory_all_confessions_back_to_back",
       "SetID": "64l4lke",
       "Name": "Grand Slam",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 265
+      "UsersEstimate": 398
     },
     {
       "ID": "run_victory_final_boss_infernal_flame",
@@ -40125,7 +40130,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "combat_kill_collector",
@@ -40173,7 +40178,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -40181,7 +40186,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "quest_complete_crusader",
@@ -40220,21 +40225,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132589,
+      "Progressed": 132593,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7458,
+      "Progressed": 7462,
       "Completed": 825
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-12T23:00:29.4787944+00:00",
-  "LastChanged_Achievements": "2024-01-12T23:10:06.6702013+00:00",
+  "LastChanged_Achievements": "2024-01-13T00:10:47.9088114+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-12T23:00:29.4787949+00:00",
-  "LastUpdate_Achievements": "2024-01-12T23:10:06.6704319+00:00"
+  "LastUpdate_Ratings": "2024-01-13T00:01:53.911294+00:00",
+  "LastUpdate_Achievements": "2024-01-13T00:10:47.9089902+00:00"
 }

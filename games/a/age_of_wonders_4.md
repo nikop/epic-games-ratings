@@ -50,10 +50,10 @@ Rating: 4.63 (Ranked 359)
 | Pruning for Progress | 1.00% | ~72 |
 | Grexolis | 1.00% | ~72 |
 | One for All, All for One | 1.00% | ~72 |
+| Betrayal Most Foul | 1.00% | ~72 |
 | Prometheus Avenged | 1.00% | ~72 |
 | Seal the Deal | 1.00% | ~72 |
 | A Conqueror's Cohort | 1.00% | ~72 |
-| Betrayal Most Foul | 0.90% | ~65 |
 | Duality | 0.90% | ~65 |
 | Snap Out of It! | 0.60% | ~43 |
 | The Magic That Empowers Me! | 0.60% | ~43 |

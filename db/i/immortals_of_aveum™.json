@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -459,9 +459,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3375,
+  "EOS_Progressed": 3377,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 579,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5369,6 +5369,11 @@
       "Time": "2024-01-12T23:10:12.7496665+00:00",
       "NumProgressed": 3375,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-13T00:10:55.7641572+00:00",
+      "NumProgressed": 3377,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5381,7 +5386,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2970
+      "UsersEstimate": 2972
     },
     {
       "ID": "achievement_10",
@@ -5421,7 +5426,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "achievement_15",
@@ -5469,7 +5474,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2734
+      "UsersEstimate": 2735
     },
     {
       "ID": "achievement_20",
@@ -5525,7 +5530,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 2329
+      "UsersEstimate": 2330
     },
     {
       "ID": "achievement_36",
@@ -5549,7 +5554,7 @@
       "Name": "Best Dressed",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "achievement_4",
@@ -5557,7 +5562,7 @@
       "Name": "No More Names",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "achievement_41",
@@ -5613,7 +5618,7 @@
       "Name": "Enlisted",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2498
+      "UsersEstimate": 2499
     },
     {
       "ID": "achievement_49",
@@ -5629,7 +5634,7 @@
       "Name": "Initiate",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "achievement_50",
@@ -5669,7 +5674,7 @@
       "Name": "Shroudfane Explorer",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "achievement_6",
@@ -5677,7 +5682,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "achievement_60",
@@ -5749,14 +5754,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3375,
+      "Progressed": 3377,
       "Completed": 4
     }
   ],
@@ -5764,8 +5769,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-12T19:59:42.6787305+00:00",
-  "LastChanged_Achievements": "2024-01-12T23:10:12.7496662+00:00",
+  "LastChanged_Achievements": "2024-01-13T00:10:55.7641569+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8440656+00:00",
-  "LastUpdate_Ratings": "2024-01-12T22:59:52.047945+00:00",
-  "LastUpdate_Achievements": "2024-01-12T23:10:12.7497174+00:00"
+  "LastUpdate_Ratings": "2024-01-13T00:00:58.1093421+00:00",
+  "LastUpdate_Achievements": "2024-01-13T00:10:55.7642074+00:00"
 }

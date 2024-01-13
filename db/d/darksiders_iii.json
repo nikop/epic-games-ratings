@@ -2,7 +2,7 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
-  "Ranking_Rating": 657,
+  "Ranking_Rating": 658,
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 345,
@@ -2232,9 +2232,9 @@
       "ID": "Collect_Hollow_Force",
       "SetID": "7a5k76n",
       "Name": "I Wanna Rock",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 194
     },
     {
       "ID": "Collect_Hollow_Stasis",
@@ -2440,9 +2440,9 @@
       "ID": "Kill_Demon_Abraxis",
       "SetID": "7a5k76n",
       "Name": "Demon Meddler",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 137
     },
     {
       "ID": "Kill_Demon_Kraken",
@@ -2656,8 +2656,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-11T19:59:53.1108333+00:00",
-  "LastChanged_Achievements": "2024-01-12T23:05:58.1538647+00:00",
+  "LastChanged_Achievements": "2024-01-13T00:07:12.2024128+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-12T22:59:31.1437443+00:00",
-  "LastUpdate_Achievements": "2024-01-12T23:05:58.1539776+00:00"
+  "LastUpdate_Ratings": "2024-01-13T00:00:29.1157549+00:00",
+  "LastUpdate_Achievements": "2024-01-13T00:07:12.2024665+00:00"
 }

@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Caged tiger | 63.00% | ~187 |
-| Gorilla warfare | 58.00% | ~172 |
+| Caged tiger | 63.00% | ~188 |
+| Gorilla warfare | 57.00% | ~170 |
 | Isenburg's fall | 48.00% | ~143 |
 | Pieces of eight! | 41.00% | ~122 |
 | Elephant in the room | 31.00% | ~92 |
 | Aboard the Sea Bird | 30.00% | ~89 |
 | Dark and stinky | 29.00% | ~86 |
 | Sneak in, sneak out | 25.00% | ~74 |
-| A gift horse | 25.00% | ~74 |
-| Is this the end? | 24.00% | ~71 |
-| You sssaved me | 23.00% | ~68 |
-| Say hello to my little friends | 20.00% | ~59 |
-| Heal thyself | 20.00% | ~59 |
-| Gotcha | 18.00% | ~53 |
+| Is this the end? | 24.00% | ~72 |
+| A gift horse | 24.00% | ~72 |
+| You sssaved me | 23.00% | ~69 |
+| Say hello to my little friends | 20.00% | ~60 |
+| Heal thyself | 19.00% | ~57 |
+| Gotcha | 18.00% | ~54 |
 | It's not cheating | 16.00% | ~48 |
 | Double trouble | 15.00% | ~45 |
 | Stronk | 15.00% | ~45 |
@@ -46,7 +46,7 @@
 | Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297 (Ranked 405)  
+Progressed: 298 (Ranked 404)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-08 | 295 | 0 |
 | 2024-01-09 | 296 | 0 |
 | 2024-01-11 | 297 | 0 |
+| 2024-01-13 | 298 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

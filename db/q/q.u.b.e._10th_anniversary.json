@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -348,9 +348,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 29300,
+  "EOS_Progressed": 29302,
   "EOS_Completed": 208,
-  "EOS_NewPlayers": 789,
+  "EOS_NewPlayers": 787,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -10343,6 +10343,11 @@
       "Time": "2024-01-12T23:10:09.2279527+00:00",
       "NumProgressed": 29300,
       "NumCompleted": 208
+    },
+    {
+      "Time": "2024-01-13T00:10:51.3968961+00:00",
+      "NumProgressed": 29302,
+      "NumCompleted": 208
     }
   ],
   "TotalAchievements": 24,
@@ -10482,7 +10487,7 @@
       "Name": "Sector 1",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 9376
+      "UsersEstimate": 9377
     },
     {
       "ID": "ACH_Sector2",
@@ -10490,7 +10495,7 @@
       "Name": "Sector 2",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 8497
+      "UsersEstimate": 8498
     },
     {
       "ID": "ACH_Sector3",
@@ -10545,7 +10550,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 29300,
+      "Progressed": 29302,
       "Completed": 208
     }
   ],
@@ -10553,8 +10558,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-07T21:02:45.1474426+00:00",
-  "LastChanged_Achievements": "2024-01-12T23:10:09.2279524+00:00",
+  "LastChanged_Achievements": "2024-01-13T00:10:51.3968958+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:27.6717087+00:00",
-  "LastUpdate_Ratings": "2024-01-12T22:59:48.2347384+00:00",
-  "LastUpdate_Achievements": "2024-01-12T23:10:09.2280104+00:00"
+  "LastUpdate_Ratings": "2024-01-13T00:00:52.6153771+00:00",
+  "LastUpdate_Achievements": "2024-01-13T00:10:51.3969573+00:00"
 }

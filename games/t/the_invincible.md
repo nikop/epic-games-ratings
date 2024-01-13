@@ -14,7 +14,7 @@ Rating: 4.55 (Ranked 530)
 | The Condor | 38.00% | ~627 |
 | The End | 38.00% | ~627 |
 | The Necroevolution | 30.00% | ~495 |
-| Krauta is alive | 28.00% | ~462 |
+| Krauta is alive | 29.00% | ~478 |
 | Peacemaker | 23.00% | ~379 |
 | On her own | 22.00% | ~363 |
 | Volcanologist | 22.00% | ~363 |
@@ -26,7 +26,7 @@ Rating: 4.55 (Ranked 530)
 | Another giant | 14.00% | ~231 |
 | Violent solution | 10.00% | ~165 |
 | I leave no man behind | 9.00% | ~148 |
-| Innate curiosity | 7.00% | ~115 |
+| Innate curiosity | 8.00% | ~132 |
 | Ubiquitous holes | 6.00% | ~99 |
 | The Invincible | 6.00% | ~99 |
 | Got lost again | 6.00% | ~99 |

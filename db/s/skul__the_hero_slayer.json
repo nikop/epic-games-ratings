@@ -1517,7 +1517,7 @@
       "Count": 152
     }
   ],
-  "EOS_Progressed": 14641,
+  "EOS_Progressed": 14642,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 1,
@@ -9797,6 +9797,11 @@
       "Time": "2024-01-12T23:09:29.2621936+00:00",
       "NumProgressed": 14641,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-13T00:09:58.6986058+00:00",
+      "NumProgressed": 14642,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 24,
@@ -9904,7 +9909,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 4392
+      "UsersEstimate": 4393
     },
     {
       "ID": "LeoniasFall_2",
@@ -9920,15 +9925,15 @@
       "Name": "Rules of Etiquette",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 5417
+      "UsersEstimate": 5418
     },
     {
       "ID": "RookieWelcome",
       "SetID": "97dk767",
       "Name": "Rookies Welcome",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2489
+      "UsersEstimate": 2636
     },
     {
       "ID": "SavedElderEnt",
@@ -9944,7 +9949,7 @@
       "Name": "Quick Movements",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 4392
+      "UsersEstimate": 4393
     },
     {
       "ID": "SkeletonKing",
@@ -9968,7 +9973,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 13616
+      "UsersEstimate": 13617
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -9976,7 +9981,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 6881
+      "UsersEstimate": 6882
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -9992,22 +9997,22 @@
       "Name": "What should I buy?",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 11713
+      "UsersEstimate": 11714
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14641,
+      "Progressed": 14642,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-12T16:57:52.0679281+00:00",
-  "LastChanged_Achievements": "2024-01-12T23:09:29.2621932+00:00",
+  "LastChanged_Achievements": "2024-01-13T00:09:58.6986055+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:25.8159814+00:00",
-  "LastUpdate_Ratings": "2024-01-12T22:58:01.8642+00:00",
-  "LastUpdate_Achievements": "2024-01-12T23:09:29.2622512+00:00"
+  "LastUpdate_Ratings": "2024-01-12T23:58:22.1765959+00:00",
+  "LastUpdate_Achievements": "2024-01-13T00:09:58.6986671+00:00"
 }

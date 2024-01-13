@@ -23,7 +23,7 @@ Number of Ratings: 54  (23.09.2022)
 | Superhuman | 8.00% | ~137 |
 | Not-so-private Eye | 7.00% | ~120 |
 | The Vitinsky Rifle | 6.00% | ~103 |
-| Protection racket | 4.00% | ~69 |
+| Protection racket | 5.00% | ~86 |
 | Sacrifice | 4.00% | ~69 |
 | Secret room | 4.00% | ~69 |
 | Indy | 3.00% | ~52 |

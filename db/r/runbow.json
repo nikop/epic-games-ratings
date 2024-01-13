@@ -182,7 +182,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253390,
+  "EOS_Progressed": 253391,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
@@ -23942,6 +23942,11 @@
       "Time": "2024-01-12T23:10:11.6102605+00:00",
       "NumProgressed": 253390,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-13T00:10:54.4109083+00:00",
+      "NumProgressed": 253391,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24025,7 +24030,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 38008
+      "UsersEstimate": 38009
     },
     {
       "ID": "clearCut",
@@ -24153,7 +24158,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65881
+      "UsersEstimate": 65882
     },
     {
       "ID": "justABit",
@@ -24193,7 +24198,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126695
+      "UsersEstimate": 126696
     },
     {
       "ID": "notScared",
@@ -24313,14 +24318,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40542
+      "UsersEstimate": 40543
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253390,
+      "Progressed": 253391,
       "Completed": 6
     }
   ],
@@ -24328,8 +24333,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-12T23:10:11.6102603+00:00",
+  "LastChanged_Achievements": "2024-01-13T00:10:54.4109079+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.2680738+00:00",
-  "LastUpdate_Ratings": "2024-01-12T23:00:05.477089+00:00",
-  "LastUpdate_Achievements": "2024-01-12T23:10:11.6103889+00:00"
+  "LastUpdate_Ratings": "2024-01-13T00:01:18.801837+00:00",
+  "LastUpdate_Achievements": "2024-01-13T00:10:54.4110241+00:00"
 }

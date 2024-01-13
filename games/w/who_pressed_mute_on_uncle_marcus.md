@@ -11,18 +11,18 @@
 | Toby foolery | 50.00% | ~150 |
 | Instinct | 38.00% | ~114 |
 | Don't fear the baldness | 37.00% | ~111 |
-| Blow | 34.00% | ~102 |
-| Just like me | 32.00% | ~96 |
+| Blow | 35.00% | ~105 |
+| Just like me | 33.00% | ~99 |
 | I bless the rain down in London | 30.00% | ~90 |
+| Delusions | 28.00% | ~84 |
 | Brown nosing | 27.00% | ~81 |
 | Cheat | 27.00% | ~81 |
-| Delusions | 27.00% | ~81 |
 | Prove it | 25.00% | ~75 |
 | The truth | 25.00% | ~75 |
 | Making a murderer | 18.00% | ~54 |
 | The whole truth | 15.00% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301 (Ranked 402)  
+Progressed: 301 (Ranked 403)  
 Completed: 30 (9.97%) (Ranked 43)  
 ## EOS Players History
 | Date | Progressed | Completed |
