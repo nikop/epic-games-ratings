@@ -4,7 +4,7 @@
   "ProductSlug": "dolmenjord-viking-islands-965b06",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewPlayers": 385,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -2330,9 +2330,9 @@
       "ID": "LEVEL_012",
       "SetID": "7jk5g4e",
       "Name": "Poultry house",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 95,
-      "UsersEstimate": 213
+      "UsersEstimate": 220
     },
     {
       "ID": "LEVEL_017",
@@ -2393,8 +2393,8 @@
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2024-01-13T17:09:44.6498148+00:00",
+  "LastChanged_Achievements": "2024-01-13T18:10:12.2222764+00:00",
   "LastUpdate_AppInfo": "2024-01-09T06:57:17.8483752+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:59:44.7989665+00:00",
-  "LastUpdate_Achievements": "2024-01-13T17:09:44.649839+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:01:05.4091608+00:00",
+  "LastUpdate_Achievements": "2024-01-13T18:10:12.2222983+00:00"
 }

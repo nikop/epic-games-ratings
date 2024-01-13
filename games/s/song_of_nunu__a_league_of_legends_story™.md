@@ -1,16 +1,16 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.60 (Ranked 427)  
+Rating: 4.60 (Ranked 428)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feels Familiar | 75.00% | ~1,159 |
 | I Broke It | 73.00% | ~1,128 |
 | Better On Ice | 68.00% | ~1,051 |
+| Notai Notes | 67.00% | ~1,035 |
 | Blue Dreams | 66.00% | ~1,020 |
 | He's Famous! | 66.00% | ~1,020 |
-| Notai Notes | 66.00% | ~1,020 |
 | Cutie Poro | 65.00% | ~1,004 |
 | Krugmazing | 64.00% | ~989 |
 | The Fire Below the Mountain | 61.00% | ~942 |
@@ -29,10 +29,10 @@ Rating: 4.60 (Ranked 427)
 | You Get Used To It | 41.00% | ~633 |
 | Family | 39.00% | ~603 |
 | Biggest Snowball Ever | 39.00% | ~603 |
+| True Legends | 39.00% | ~603 |
 | Boosted! | 39.00% | ~603 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~603 |
 | Freeze The Ice Witch | 38.00% | ~587 |
-| True Legends | 38.00% | ~587 |
 | Bullseye | 36.00% | ~556 |
 | It Is Not Over | 35.00% | ~541 |
 | On The Rocks | 34.00% | ~525 |

@@ -68,7 +68,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Berzerker | 0.40% | ~972 |
 | Decisions, Decisions | 0.40% | ~972 |
 | Snake Sneak | 0.40% | ~972 |
-| Who Needs Luck? | 0.40% | ~17 |
+| Who Needs Luck? | 0.40% | ~18 |
 | Achievement Hunter | 0.30% | ~729 |
 | Challenge Increases | 0.30% | ~729 |
 | A Long Climb | 0.30% | ~729 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,894 (Ranked 74)  
+Progressed: 242,896 (Ranked 74)  
 Completed: 305 (0.13%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -413,7 +413,7 @@ Completed: 305 (0.13%) (Ranked 300)
 | 2024-01-10 | 242,736 | 305 |
 | 2024-01-11 | 242,789 | 305 |
 | 2024-01-12 | 242,842 | 305 |
-| 2024-01-13 | 242,894 | 305 |
+| 2024-01-13 | 242,896 | 305 |
 ## Awards
 Max (Quickly Understood Controls): 1,515  (Ranked 139)  
 Sum: 11,795 (Ranked 89)  

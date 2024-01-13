@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -63,7 +63,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3576,
+  "EOS_Progressed": 3579,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
@@ -8793,6 +8793,11 @@
       "Time": "2024-01-13T17:05:36.3616539+00:00",
       "NumProgressed": 3576,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T18:07:01.7131793+00:00",
+      "NumProgressed": 3579,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8805,7 +8810,7 @@
       "Name": "First Love",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1646
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -8813,7 +8818,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -8837,7 +8842,7 @@
       "Name": "Restored and Ready",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -8861,7 +8866,7 @@
       "Name": "I Want One Too!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -8893,7 +8898,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -8909,7 +8914,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -8981,7 +8986,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -9005,15 +9010,15 @@
       "Name": "Evangelist",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
       "SetID": "c7hf6a4",
       "Name": "Clean Race",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1573
+      "UsersEstimate": 1611
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -9061,7 +9066,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -9101,7 +9106,7 @@
       "Name": "Eat My Dust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1790
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -9109,7 +9114,7 @@
       "Name": "Champagne Spray",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -9196,7 +9201,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3576,
+      "Progressed": 3579,
       "Completed": 0
     }
   ],
@@ -9204,8 +9209,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-13T14:59:34.2463743+00:00",
-  "LastChanged_Achievements": "2024-01-13T17:05:36.3616537+00:00",
+  "LastChanged_Achievements": "2024-01-13T18:07:01.713179+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:52.6681713+00:00",
-  "LastUpdate_Ratings": "2024-01-13T17:00:00.5449678+00:00",
-  "LastUpdate_Achievements": "2024-01-13T17:05:36.361731+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:01:28.2939383+00:00",
+  "LastUpdate_Achievements": "2024-01-13T18:07:01.7132528+00:00"
 }

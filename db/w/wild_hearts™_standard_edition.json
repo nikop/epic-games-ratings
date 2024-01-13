@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1358,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -4572,9 +4572,9 @@
       "ID": "achievement_26",
       "SetID": "2cpn27e",
       "Name": "Vanquisher of the Volatile",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 81
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_27",
@@ -4818,8 +4818,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-13T17:09:53.562836+00:00",
+  "LastChanged_Achievements": "2024-01-13T18:10:24.0179005+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:30.0899668+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:58:52.0758878+00:00",
-  "LastUpdate_Achievements": "2024-01-13T17:09:53.5628817+00:00"
+  "LastUpdate_Ratings": "2024-01-13T17:59:49.4844197+00:00",
+  "LastUpdate_Achievements": "2024-01-13T18:10:24.0179659+00:00"
 }

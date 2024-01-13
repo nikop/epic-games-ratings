@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3910,9 +3910,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242894,
+  "EOS_Progressed": 242896,
   "EOS_Completed": 305,
-  "EOS_NewPlayers": 408,
+  "EOS_NewPlayers": 404,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31695,6 +31695,11 @@
       "Time": "2024-01-13T17:10:29.5611783+00:00",
       "NumProgressed": 242894,
       "NumCompleted": 305
+    },
+    {
+      "Time": "2024-01-13T18:11:12.1758725+00:00",
+      "NumProgressed": 242896,
+      "NumCompleted": 305
     }
   ],
   "TotalAchievements": 138,
@@ -32690,7 +32695,7 @@
       "Name": "Who Needs Luck?",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "FINISHGAMENOEXPLOSIONDAMAGE",
@@ -32809,13 +32814,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242894,
+      "Progressed": 242896,
       "Completed": 305
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4374,
+      "Progressed": 4376,
       "Completed": 425
     }
   ],
@@ -32823,8 +32828,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-12T05:59:51.3980392+00:00",
-  "LastChanged_Achievements": "2024-01-13T17:10:29.5611782+00:00",
+  "LastChanged_Achievements": "2024-01-13T18:11:12.175872+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-13T17:00:05.0974461+00:00",
-  "LastUpdate_Achievements": "2024-01-13T17:10:29.5614464+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:01:35.2887883+00:00",
+  "LastUpdate_Achievements": "2024-01-13T18:11:12.1761642+00:00"
 }

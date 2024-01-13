@@ -3,9 +3,9 @@
   "Name": "Top Web Search 23",
   "ProductSlug": "top-web-search-23-a34613",
   "Ranking_EOS_Progress": 604,
-  "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_Completed": 24,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2024-01-10T18:00:00+00:00",
     "PcReleaseDate": "2024-01-10T18:00:00+00:00",
@@ -23,10 +23,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 29,
-  "EOS_Completed": 5,
+  "EOS_Completed": 6,
   "EOS_NewPlayers": 28,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 17.24,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 20.69,
   "EosHistory": [
     {
       "Time": "2024-01-10T19:04:16.2058384+00:00",
@@ -132,6 +132,11 @@
       "Time": "2024-01-13T09:05:46.8419838+00:00",
       "NumProgressed": 29,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T18:07:04.5965657+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2024-01-08T21:03:53.9988835+00:00",
@@ -150,9 +155,9 @@
       "ID": "DYNAMIC_DOZEN_DECISIONIST",
       "SetID": "44h0e32",
       "Name": "Dynamic Dozen Decisionist",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "EPIC_EIGHT_EXPLORER",
@@ -174,9 +179,9 @@
       "ID": "FOURTEENSTAR_STRATEGIST",
       "SetID": "44h0e32",
       "Name": "Fourteen-Star Strategist",
-      "Percentage": 17,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "HIGH_FIVE_DECISION_MAKER",
@@ -238,9 +243,9 @@
       "ID": "TRAILBLAZING_THIRTEEN",
       "SetID": "44h0e32",
       "Name": "Trailblazing Thirteen",
-      "Percentage": 17,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TRIPLE_THREAT_CHOICES",
@@ -256,12 +261,12 @@
       "ID": "44h0e32",
       "IsBase": true,
       "Progressed": 29,
-      "Completed": 5
+      "Completed": 6
     }
   ],
   "FirstSeenAchievements": "2024-01-08T21:03:53.9988833+00:00",
-  "LastChanged_Achievements": "2024-01-13T17:05:38.2383556+00:00",
+  "LastChanged_Achievements": "2024-01-13T18:07:04.5965654+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.0574061+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:59:47.0302201+00:00",
-  "LastUpdate_Achievements": "2024-01-13T17:05:38.238366+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:01:08.863157+00:00",
+  "LastUpdate_Achievements": "2024-01-13T18:07:04.5965777+00:00"
 }

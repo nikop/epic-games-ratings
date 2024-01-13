@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -1611,9 +1611,9 @@
       "ID": "FIRST_ALL_MISSION_CLEAR",
       "SetID": "apihg0e",
       "Name": "Perfect Run",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 174
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1874,8 +1874,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-13T17:08:55.9885672+00:00",
+  "LastChanged_Achievements": "2024-01-13T18:09:05.2746981+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:55.9554345+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:59:24.7259319+00:00",
-  "LastUpdate_Achievements": "2024-01-13T17:08:55.9886052+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:00:36.8101828+00:00",
+  "LastUpdate_Achievements": "2024-01-13T18:09:05.2747331+00:00"
 }

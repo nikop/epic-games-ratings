@@ -255,7 +255,7 @@
   "Tags": [],
   "EOS_Progressed": 9036,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10504,9 +10504,9 @@
       "ID": "DLC1_ACHIEVEMENT_08",
       "SetID": "6p01o4j",
       "Name": "Exit Through The Gift Shop",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
@@ -10527,8 +10527,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-12T15:03:42.669795+00:00",
-  "LastChanged_Achievements": "2024-01-13T17:10:23.3649397+00:00",
+  "LastChanged_Achievements": "2024-01-13T18:11:03.8559614+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:37.7520011+00:00",
-  "LastUpdate_Ratings": "2024-01-13T17:03:26.4583765+00:00",
-  "LastUpdate_Achievements": "2024-01-13T17:10:23.3649993+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:03:55.1393168+00:00",
+  "LastUpdate_Achievements": "2024-01-13T18:11:03.8560401+00:00"
 }

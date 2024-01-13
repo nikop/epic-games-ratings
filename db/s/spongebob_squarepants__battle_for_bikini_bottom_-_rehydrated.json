@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -353,7 +353,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 984,
+  "EOS_Progressed": 985,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 1,
@@ -2673,6 +2673,11 @@
       "Time": "2024-01-13T15:05:14.5839264+00:00",
       "NumProgressed": 984,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-13T18:06:39.6661972+00:00",
+      "NumProgressed": 985,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2765,7 +2770,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -2893,7 +2898,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -2901,7 +2906,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -2940,15 +2945,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 984,
+      "Progressed": 985,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-13T17:05:20.9160958+00:00",
+  "LastChanged_Achievements": "2024-01-13T18:06:39.6661968+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:15.2754813+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:59:25.338675+00:00",
-  "LastUpdate_Achievements": "2024-01-13T17:05:20.9161321+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:00:37.4006779+00:00",
+  "LastUpdate_Achievements": "2024-01-13T18:06:39.6662378+00:00"
 }

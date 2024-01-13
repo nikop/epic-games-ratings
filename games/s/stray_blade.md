@@ -9,7 +9,7 @@
 | Welcome to the Club | 12.00% | ~20 |
 | A new World ahead | 11.00% | ~18 |
 | Don't Cry Wolf | 10.00% | ~16 |
-| Apprentice | 6.00% | ~10 |
+| Apprentice | 7.00% | ~11 |
 | Craftsmen | 5.00% | ~8 |
 | Defeat Tezuth | 4.00% | ~7 |
 | Freezing Cold | 4.00% | ~7 |

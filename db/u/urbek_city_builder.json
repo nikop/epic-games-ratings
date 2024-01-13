@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 508,
+  "EOS_Progressed": 509,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1845,6 +1845,11 @@
       "Time": "2024-01-13T16:10:50.1211347+00:00",
       "NumProgressed": 508,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T18:11:07.412547+00:00",
+      "NumProgressed": 509,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -2128,7 +2133,7 @@
       "Name": "I like my life",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "FELIZ_2",
@@ -2184,7 +2189,7 @@
       "Name": "I like parks",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -2216,7 +2221,7 @@
       "Name": "Clean energy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "MURICA_1",
@@ -2464,7 +2469,7 @@
       "Name": "Bucolic city",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "WELFARE_1",
@@ -2472,7 +2477,7 @@
       "Name": "Soviet town",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "WELFARE_2",
@@ -2487,7 +2492,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 508,
+      "Progressed": 509,
       "Completed": 0
     }
   ],
@@ -2495,8 +2500,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2024-01-13T17:10:26.1276517+00:00",
+  "LastChanged_Achievements": "2024-01-13T18:11:07.4125466+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:04.5634822+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:57:53.1988456+00:00",
-  "LastUpdate_Achievements": "2024-01-13T17:10:26.1277297+00:00"
+  "LastUpdate_Ratings": "2024-01-13T17:58:18.0279851+00:00",
+  "LastUpdate_Achievements": "2024-01-13T18:11:07.4126186+00:00"
 }

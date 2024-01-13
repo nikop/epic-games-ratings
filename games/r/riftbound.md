@@ -9,13 +9,13 @@
 | Getting Good At This | 26.00% | ~12 |
 | Close Call | 19.00% | ~9 |
 | Evolution Revolution | 11.00% | ~5 |
+| Five Of A Kind | 11.00% | ~5 |
 | I'm A Wizard | 11.00% | ~5 |
-| Five Of A Kind | 9.00% | ~4 |
 | Ender Ender | 6.00% | ~3 |
 | Hold The Line | 6.00% | ~3 |
+| Tactical Spectacular | 4.00% | ~2 |
 | Full House | 2.00% | ~1 |
 | Over 9000 | 2.00% | ~1 |
-| Tactical Spectacular | 2.00% | ~1 |
 | Undead Slayer | 2.00% | ~1 |
 | Worker Wisp | 2.00% | ~1 |
 | Adept Summoner | 0.00% | ~0 |

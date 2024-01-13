@@ -308,7 +308,7 @@
   ],
   "EOS_Progressed": 426,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -1962,9 +1962,9 @@
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
       "SetID": "4n84pon",
       "Name": "Perfect Probulator",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -2307,8 +2307,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-13T17:09:39.3153815+00:00",
+  "LastChanged_Achievements": "2024-01-13T18:10:04.9129913+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-13T17:00:16.2592223+00:00",
-  "LastUpdate_Achievements": "2024-01-13T17:09:39.315413+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:01:52.6667307+00:00",
+  "LastUpdate_Achievements": "2024-01-13T18:10:04.9130345+00:00"
 }

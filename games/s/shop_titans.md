@@ -6,19 +6,19 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,612 |
-| Titan's First Steps | 11.00% | ~16,612 |
+| Sponsored by Argon | 11.00% | ~16,613 |
+| Titan's First Steps | 11.00% | ~16,613 |
 | Basic in Bulk | 10.00% | ~15,102 |
 | Tinkle of Coins | 10.00% | ~15,102 |
-| Disintermediation | 8.00% | ~12,081 |
-| It's Free Real Estate | 7.00% | ~10,571 |
-| Capitalism Ho! | 7.00% | ~10,571 |
-| One Easy Payment | 6.00% | ~9,061 |
-| Some Assembly Required | 6.00% | ~9,061 |
-| Another Satisfied Customer | 6.00% | ~9,061 |
-| Pretty Penny | 6.00% | ~9,061 |
-| Budding Merchant | 6.00% | ~9,061 |
-| Own the Means of Production | 6.00% | ~9,061 |
+| Disintermediation | 8.00% | ~12,082 |
+| It's Free Real Estate | 7.00% | ~10,572 |
+| Capitalism Ho! | 7.00% | ~10,572 |
+| One Easy Payment | 6.00% | ~9,062 |
+| Some Assembly Required | 6.00% | ~9,062 |
+| Another Satisfied Customer | 6.00% | ~9,062 |
+| Pretty Penny | 6.00% | ~9,062 |
+| Budding Merchant | 6.00% | ~9,062 |
+| Own the Means of Production | 6.00% | ~9,062 |
 | The Daily Grind | 5.00% | ~7,551 |
 | One-Armed Bandit | 5.00% | ~7,551 |
 | Through Repetition, Perfection | 5.00% | ~7,551 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~604 |
 | Capitalist Camaraderie | 0.30% | ~453 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,018 (Ranked 86)  
+Progressed: 151,025 (Ranked 86)  
 Completed: 352 (0.23%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -387,15 +387,15 @@ Completed: 352 (0.23%) (Ranked 272)
 | 2024-01-10 | 150,626 | 348 |
 | 2024-01-11 | 150,768 | 349 |
 | 2024-01-12 | 150,896 | 350 |
-| 2024-01-13 | 151,018 | 352 |
+| 2024-01-13 | 151,025 | 352 |
 ## Awards
 Max (Great for Beginners): 4,954  (Ranked 79)  
-Sum: 27,987 (Ranked 52)  
+Sum: 27,988 (Ranked 52)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,954 |
-| This game is Relaxing | 4,079 |
+| This game is Relaxing | 4,080 |
 | This game has Quickly Understood Controls | 4,073 |
 | This game has Diverse Characters | 4,037 |
 | This game is Highly Recommended | 3,823 |
@@ -752,4 +752,4 @@ Diff (max vs sum): 27
 | 2024-01-10 | 4.00 | - | 4,949 | 27,970 |
 | 2024-01-11 | 4.00 | - | 4,952 | 27,979 |
 | 2024-01-12 | 4.00 | - | 4,952 | 27,982 |
-| 2024-01-13 | 4.00 | - | 4,954 | 27,987 |
+| 2024-01-13 | 4.00 | - | 4,954 | 27,988 |

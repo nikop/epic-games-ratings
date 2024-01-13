@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Marc Allard | 76.00% | ~86 |
 | Little ideas | 73.00% | ~82 |
-| The Ship | 69.00% | ~78 |
+| The Ship | 70.00% | ~79 |
 | Seeking the truth | 57.00% | ~64 |
 | An old friend | 54.00% | ~61 |
 | The Gala | 53.00% | ~60 |

@@ -6,21 +6,21 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~994,046 |
-| I Need a Bigger Garage | 63.00% | ~695,832 |
-| Pump my Ride | 47.00% | ~519,113 |
-| Ghostbuster | 34.00% | ~375,529 |
-| Call Roadside Assistance | 18.00% | ~198,809 |
-| That Was Close | 18.00% | ~198,809 |
-| Quickie | 11.00% | ~121,495 |
-| California Dreamer | 7.00% | ~77,315 |
-| Can't Touch This | 5.00% | ~55,225 |
-| Carménère Taster | 4.00% | ~44,180 |
-| Comeback | 4.00% | ~44,180 |
-| Driver from Ipanema | 3.00% | ~33,135 |
-| Supersonic | 3.00% | ~33,135 |
-| Marathonist | 3.00% | ~33,135 |
-| Living Legend | 3.00% | ~33,135 |
+| The First of Many | 90.00% | ~994,071 |
+| I Need a Bigger Garage | 63.00% | ~695,849 |
+| Pump my Ride | 47.00% | ~519,126 |
+| Ghostbuster | 34.00% | ~375,538 |
+| Call Roadside Assistance | 18.00% | ~198,814 |
+| That Was Close | 18.00% | ~198,814 |
+| Quickie | 11.00% | ~121,498 |
+| California Dreamer | 7.00% | ~77,317 |
+| Can't Touch This | 5.00% | ~55,226 |
+| Carménère Taster | 4.00% | ~44,181 |
+| Comeback | 4.00% | ~44,181 |
+| Driver from Ipanema | 3.00% | ~33,136 |
+| Supersonic | 3.00% | ~33,136 |
+| Marathonist | 3.00% | ~33,136 |
+| Living Legend | 3.00% | ~33,136 |
 | God of Roads | 2.00% | ~22,090 |
 | Pathfinder | 2.00% | ~22,090 |
 | Go-Kart Champion | 2.00% | ~22,090 |
@@ -34,17 +34,17 @@ Number of Ratings: 1,343  (23.09.2022)
 | Oil Tycoon | 1.00% | ~11,045 |
 | Golden Passport | 1.00% | ~11,045 |
 | Brave and Bold | 1.00% | ~11,045 |
-| Volcano Surfer | 0.90% | ~9,940 |
-| Otaku | 0.90% | ~9,940 |
+| Volcano Surfer | 0.90% | ~9,941 |
+| Otaku | 0.90% | ~9,941 |
 | Survivor | 0.60% | ~6,627 |
 | King of the World | 0.60% | ~6,627 |
-| Getting Famous | 0.50% | ~5,522 |
-| Now Go Play Outside | 0.30% | ~3,313 |
+| Getting Famous | 0.50% | ~5,523 |
+| Now Go Play Outside | 0.30% | ~3,314 |
 | Master of the Racetrack | 0.20% | ~2,209 |
 | Look Mom, No Hands! | 0.20% | ~2,209 |
-| Transporter | 0.10% | ~1,104 |
+| Transporter | 0.10% | ~1,105 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,104,496 (Ranked 15)  
+Progressed: 1,104,523 (Ranked 15)  
 Completed: 535 (0.05%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,10 +312,10 @@ Completed: 535 (0.05%) (Ranked 340)
 | 2024-01-10 | 1,103,313 | 533 |
 | 2024-01-11 | 1,103,650 | 533 |
 | 2024-01-12 | 1,104,077 | 535 |
-| 2024-01-13 | 1,104,496 | 535 |
+| 2024-01-13 | 1,104,523 | 535 |
 ## Awards
 Max (Great for Beginners): 185  (Ranked 311)  
-Sum: 1,644 (Ranked 236)  
+Sum: 1,645 (Ranked 236)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
@@ -329,7 +329,7 @@ Diff (max vs sum): 75
 | This game has Playful Visuals | 134 |
 | This game is Extremely Fun | 128 |
 | This game has Amazing Storytelling | 112 |
-| This game has Amazing Characters | 105 |
+| This game has Amazing Characters | 106 |
 | This game has a Competitive Community | 94 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -627,3 +627,4 @@ Diff (max vs sum): 75
 | 2024-01-10 | 4.55 | - | 185 | 1,639 |
 | 2024-01-11 | 4.55 | - | 185 | 1,640 |
 | 2024-01-12 | 4.55 | - | 185 | 1,644 |
+| 2024-01-13 | 4.54 | - | 185 | 1,645 |

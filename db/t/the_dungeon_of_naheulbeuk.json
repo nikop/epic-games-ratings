@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1743,9 +1743,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 247931,
+  "EOS_Progressed": 247941,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1068,
+  "EOS_NewPlayers": 1069,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26053,6 +26053,11 @@
       "Time": "2024-01-13T17:10:27.8658841+00:00",
       "NumProgressed": 247931,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-13T18:11:09.8851556+00:00",
+      "NumProgressed": 247941,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -26096,7 +26101,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9917
+      "UsersEstimate": 9918
     },
     {
       "ID": "BookCollection",
@@ -26112,7 +26117,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19834
+      "UsersEstimate": 19835
     },
     {
       "ID": "Chapter2",
@@ -26128,7 +26133,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9917
+      "UsersEstimate": 9918
     },
     {
       "ID": "Chapter4",
@@ -26464,7 +26469,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22314
+      "UsersEstimate": 22315
     },
     {
       "ID": "DwarfElf15Support",
@@ -26512,7 +26517,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 91734
+      "UsersEstimate": 91738
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -26560,7 +26565,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27272
+      "UsersEstimate": 27274
     },
     {
       "ID": "FollowBraztok",
@@ -26576,7 +26581,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "InsultLoose",
@@ -26760,28 +26765,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9917
+      "UsersEstimate": 9918
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 247931,
+      "Progressed": 247941,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 247931,
+      "Progressed": 247941,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-13T01:45:26.0782972+00:00",
-  "LastChanged_Achievements": "2024-01-13T17:10:27.8658839+00:00",
+  "LastChanged_Achievements": "2024-01-13T18:11:09.885155+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8090113+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:58:30.9173806+00:00",
-  "LastUpdate_Achievements": "2024-01-13T17:10:27.8660825+00:00"
+  "LastUpdate_Ratings": "2024-01-13T17:59:16.0400123+00:00",
+  "LastUpdate_Achievements": "2024-01-13T18:11:09.885363+00:00"
 }

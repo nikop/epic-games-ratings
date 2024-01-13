@@ -54,10 +54,10 @@ Rating: 4.75 (Ranked 149)
 | Rubble and Ashes | 23.00% | ~175 |
 | Lavalumps on Ice! | 21.00% | ~160 |
 | To Infinity And Beyond! | 20.00% | ~153 |
+| My Little Torture Chamber | 19.00% | ~145 |
 | To the Max! | 19.00% | ~145 |
 | Evilification | 19.00% | ~145 |
 | Sacrificial Pit = Garbage Disposal? | 18.00% | ~137 |
-| My Little Torture Chamber | 18.00% | ~137 |
 | Heal Heal Blessing | 18.00% | ~137 |
 | Mirror, Mirror | 17.00% | ~130 |
 | Untouchable | 17.00% | ~130 |

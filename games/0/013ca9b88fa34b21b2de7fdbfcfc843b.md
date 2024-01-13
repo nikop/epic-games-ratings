@@ -18,13 +18,13 @@ Rating: 4.64 (Ranked 343)
 | Lumberjack | 2.00% | ~181 |
 | Mist Walker | 2.00% | ~181 |
 | Oui, Chef! | 2.00% | ~181 |
+| Exit Through The Gift Shop | 2.00% | ~33 |
 | Search for the Hairy Grell | 1.00% | ~90 |
 | Beach Comber | 1.00% | ~90 |
 | Higher Tax Bracket | 1.00% | ~90 |
 | Botanical Breakthrough | 1.00% | ~90 |
 | Azorian Anniversary | 1.00% | ~90 |
 | Skilled | 1.00% | ~90 |
-| Exit Through The Gift Shop | 1.00% | ~17 |
 | Flaming Hot Completos | 0.80% | ~72 |
 | Fae Farmer | 0.70% | ~63 |
 | Got to Catch Them All | 0.70% | ~63 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -8105,10 +8105,16 @@
       "Rating": 4,
       "NumberOfAwards": 27987,
       "NumberOfAwardsMax": 4954
+    },
+    {
+      "Time": "2024-01-13T18:03:49.7494682+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 27988,
+      "NumberOfAwardsMax": 4954
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27987,
+  "NumberOfAwards": 27988,
   "NumberOfAwardsMax": 4954,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8146,7 +8152,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4079
+      "Count": 4080
     },
     {
       "Text": "This game has Playful Visuals",
@@ -8161,9 +8167,9 @@
       "Count": 3823
     }
   ],
-  "EOS_Progressed": 151018,
+  "EOS_Progressed": 151025,
   "EOS_Completed": 352,
-  "EOS_NewPlayers": 1095,
+  "EOS_NewPlayers": 1080,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36561,6 +36567,11 @@
       "Time": "2024-01-13T17:09:10.1579165+00:00",
       "NumProgressed": 151018,
       "NumCompleted": 352
+    },
+    {
+      "Time": "2024-01-13T18:09:25.2948701+00:00",
+      "NumProgressed": 151025,
+      "NumCompleted": 352
     }
   ],
   "TotalAchievements": 112,
@@ -36652,7 +36663,7 @@
       "Name": "One Easy Payment",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9061
+      "UsersEstimate": 9062
     },
     {
       "ID": "bigsale02",
@@ -36676,7 +36687,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9061
+      "UsersEstimate": 9062
     },
     {
       "ID": "blueprint02",
@@ -36740,7 +36751,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16612
+      "UsersEstimate": 16613
     },
     {
       "ID": "chest02",
@@ -36836,7 +36847,7 @@
       "Name": "Disintermediation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12081
+      "UsersEstimate": 12082
     },
     {
       "ID": "craft02",
@@ -36924,7 +36935,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9061
+      "UsersEstimate": 9062
     },
     {
       "ID": "energy02",
@@ -36948,7 +36959,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10571
+      "UsersEstimate": 10572
     },
     {
       "ID": "expansion02",
@@ -37052,7 +37063,7 @@
       "Name": "Pretty Penny",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9061
+      "UsersEstimate": 9062
     },
     {
       "ID": "gold03",
@@ -37156,7 +37167,7 @@
       "Name": "Budding Merchant",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9061
+      "UsersEstimate": 9062
     },
     {
       "ID": "level02",
@@ -37348,7 +37359,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10571
+      "UsersEstimate": 10572
     },
     {
       "ID": "sell02",
@@ -37388,7 +37399,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16612
+      "UsersEstimate": 16613
     },
     {
       "ID": "twinenchant01",
@@ -37436,7 +37447,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9061
+      "UsersEstimate": 9062
     },
     {
       "ID": "workers02",
@@ -37467,15 +37478,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 151018,
+      "Progressed": 151025,
       "Completed": 352
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2024-01-13T11:03:00.9924374+00:00",
-  "LastChanged_Achievements": "2024-01-13T17:09:10.1579163+00:00",
+  "LastChanged": "2024-01-13T18:03:49.749468+00:00",
+  "LastChanged_Achievements": "2024-01-13T18:09:25.2948698+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:56.0260329+00:00",
-  "LastUpdate_Ratings": "2024-01-13T17:03:23.3059055+00:00",
-  "LastUpdate_Achievements": "2024-01-13T17:09:10.1581334+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:03:49.749469+00:00",
+  "LastUpdate_Achievements": "2024-01-13T18:09:25.2950862+00:00"
 }

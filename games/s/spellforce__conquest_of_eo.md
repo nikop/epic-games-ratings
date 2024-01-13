@@ -32,9 +32,9 @@
 | Friend of Orgash | 13.00% | ~19 |
 | Friend of Silver Drift Hollow | 13.00% | ~19 |
 | Friend of Bastion | 13.00% | ~19 |
+| Silver Drift Hollow Mine | 12.00% | ~17 |
 | Break Free | 12.00% | ~17 |
 | Philo's Tale | 11.00% | ~16 |
-| Silver Drift Hollow Mine | 11.00% | ~16 |
 | A Master of Magic | 11.00% | ~16 |
 | Magic Academy | 11.00% | ~16 |
 | Friend of Windholme | 10.00% | ~14 |

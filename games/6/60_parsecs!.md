@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~800 |
-| Friendzone | 80.00% | ~660 |
-| Space Colonization | 80.00% | ~660 |
-| Hello World | 74.00% | ~610 |
-| Space Engineer | 65.00% | ~536 |
-| Tinkerer | 63.00% | ~520 |
-| Dust to Dust | 59.00% | ~487 |
-| Across The Stars | 49.00% | ~404 |
-| Crafty | 49.00% | ~404 |
-| All Seats Taken | 40.00% | ~330 |
+| Don't Panic! | 97.00% | ~802 |
+| Friendzone | 80.00% | ~662 |
+| Space Colonization | 80.00% | ~662 |
+| Hello World | 74.00% | ~612 |
+| Space Engineer | 65.00% | ~538 |
+| Tinkerer | 63.00% | ~521 |
+| Dust to Dust | 59.00% | ~488 |
+| Across The Stars | 49.00% | ~405 |
+| Crafty | 49.00% | ~405 |
+| All Seats Taken | 40.00% | ~331 |
 | For Science! | 35.00% | ~289 |
-| Meet the Petersons | 32.00% | ~264 |
+| Meet the Petersons | 32.00% | ~265 |
 | Stay Cool | 30.00% | ~248 |
-| KIA | 28.00% | ~231 |
+| KIA | 28.00% | ~232 |
 | Mutiny in making | 24.00% | ~198 |
-| Eco-Shuttle | 21.00% | ~173 |
+| Eco-Shuttle | 21.00% | ~174 |
 | Et tu, Astrocitizen? | 20.00% | ~165 |
-| Space Explorer | 17.00% | ~140 |
-| Hands Full | 13.00% | ~107 |
+| Space Explorer | 17.00% | ~141 |
+| Hands Full | 13.00% | ~108 |
 | Gold Medalist | 12.00% | ~99 |
 | Non-Fiction | 12.00% | ~99 |
 | No Man Left Behind | 9.00% | ~74 |
@@ -36,8 +36,8 @@
 | The Improvinator | 4.00% | ~33 |
 | The Last Supper | 4.00% | ~33 |
 | 2018: A Soup Odyssey | 3.00% | ~25 |
-| Bovine Domain | 2.00% | ~16 |
-| That's No Moon! | 2.00% | ~16 |
+| Bovine Domain | 2.00% | ~17 |
+| That's No Moon! | 2.00% | ~17 |
 | AAARGH! | 1.00% | ~8 |
 | No Ticket | 1.00% | ~8 |
 | Feels like home | 1.00% | ~8 |
@@ -49,7 +49,7 @@
 | Unidentified Flying Offspring | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 825 (Ranked 312)  
+Progressed: 827 (Ranked 312)  
 Completed: 1 (0.12%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 1 (0.12%) (Ranked 305)
 | 2024-01-10 | 821 | 1 |
 | 2024-01-11 | 823 | 1 |
 | 2024-01-12 | 824 | 1 |
-| 2024-01-13 | 825 | 1 |
+| 2024-01-13 | 827 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

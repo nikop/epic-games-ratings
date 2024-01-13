@@ -48,7 +48,7 @@
 | Tender Touch | 9.00% | ~122 |
 | Superlative View | 8.00% | ~109 |
 | Relentless Kemono Hunter | 7.00% | ~95 |
-| Vanquisher of the Volatile | 6.00% | ~81 |
+| Vanquisher of the Volatile | 7.00% | ~95 |
 | Big Spender | 6.00% | ~81 |
 | Bewitched by Bathing | 4.00% | ~54 |
 | Tsukumo Whisperer | 3.00% | ~41 |

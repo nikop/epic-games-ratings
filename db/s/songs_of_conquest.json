@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -462,7 +462,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1163,
+  "EOS_Progressed": 1165,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
@@ -4047,6 +4047,11 @@
       "Time": "2024-01-13T17:09:38.9478601+00:00",
       "NumProgressed": 1163,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T18:10:04.4484696+00:00",
+      "NumProgressed": 1165,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4065,9 +4070,9 @@
       "ID": "ArleonCampaign",
       "SetID": "71c0n9i",
       "Name": "The Song of Stoutheart",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 58
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -4163,7 +4168,7 @@
       "Name": "Critical Hit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "Deepstrike",
@@ -4203,7 +4208,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4363,7 +4368,7 @@
       "Name": "Landlord Extraordinaire",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "TrojanHorse",
@@ -4387,7 +4392,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "WielderLevel2",
@@ -4395,7 +4400,7 @@
       "Name": "Veteran",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "WielderLevel3",
@@ -4403,7 +4408,7 @@
       "Name": "Master",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "WielderLevel4",
@@ -4490,15 +4495,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1163,
+      "Progressed": 1165,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-13T17:09:38.9478598+00:00",
+  "LastChanged_Achievements": "2024-01-13T18:10:04.4484692+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:59:31.3495384+00:00",
-  "LastUpdate_Achievements": "2024-01-13T17:09:38.9479233+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:00:46.1199609+00:00",
+  "LastUpdate_Achievements": "2024-01-13T18:10:04.4485244+00:00"
 }

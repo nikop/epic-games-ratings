@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 375,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -347,9 +347,9 @@
       "Count": 130
     }
   ],
-  "EOS_Progressed": 11296,
+  "EOS_Progressed": 11304,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 887,
+  "EOS_NewPlayers": 886,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4757,6 +4757,11 @@
       "Time": "2024-01-13T17:10:20.8332002+00:00",
       "NumProgressed": 11296,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T18:11:00.4629075+00:00",
+      "NumProgressed": 11304,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4769,7 +4774,7 @@
       "Name": "Conspiracy",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 2259
+      "UsersEstimate": 2261
     },
     {
       "ID": "03_TheStolenStar",
@@ -4777,7 +4782,7 @@
       "Name": "Stolen Star",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1583
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -4881,7 +4886,7 @@
       "Name": "The Rise",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1470
     },
     {
       "ID": "17_TheExemplar",
@@ -4897,7 +4902,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1583
     },
     {
       "ID": "19_TheVoidWolf",
@@ -4927,9 +4932,9 @@
       "ID": "22_PerfectTiming",
       "SetID": "37a94m8",
       "Name": "Perfect Timing",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1356
     },
     {
       "ID": "23_DynastyRestored",
@@ -5113,7 +5118,7 @@
       "Name": "Polyglot",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "46_ASpark",
@@ -5121,7 +5126,7 @@
       "Name": "A Spark",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1470
     },
     {
       "ID": "47_AFlame",
@@ -5169,7 +5174,7 @@
       "Name": "Frog Trader",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "53_GardensOfMadness",
@@ -5288,7 +5293,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11296,
+      "Progressed": 11304,
       "Completed": 1
     }
   ],
@@ -5296,8 +5301,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-13T17:00:48.3025625+00:00",
-  "LastChanged_Achievements": "2024-01-13T17:10:20.8332+00:00",
+  "LastChanged_Achievements": "2024-01-13T18:11:00.4629071+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-13T17:00:48.302563+00:00",
-  "LastUpdate_Achievements": "2024-01-13T17:10:20.8332635+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:02:38.5139619+00:00",
+  "LastUpdate_Achievements": "2024-01-13T18:11:00.462975+00:00"
 }

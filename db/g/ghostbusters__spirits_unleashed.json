@@ -3937,10 +3937,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2964,
       "NumberOfAwardsMax": 328
+    },
+    {
+      "Time": "2024-01-13T18:02:51.6107491+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2965,
+      "NumberOfAwardsMax": 328
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2964,
+  "NumberOfAwards": 2965,
   "NumberOfAwardsMax": 328,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -3960,7 +3966,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 273
+      "Count": 274
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -4017,9 +4023,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33604,
+  "EOS_Progressed": 33607,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -25412,6 +25418,11 @@
       "Time": "2024-01-13T17:09:18.8247355+00:00",
       "NumProgressed": 33604,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-13T18:09:36.9051331+00:00",
+      "NumProgressed": 33607,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -25423,7 +25434,7 @@
       "Name": "Advancement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2688
+      "UsersEstimate": 2689
     },
     {
       "ID": "Animated",
@@ -25535,7 +25546,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 3024
+      "UsersEstimate": 3025
     },
     {
       "ID": "Escape_Artist",
@@ -25727,7 +25738,7 @@
       "Name": "Stylish",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "Summoner",
@@ -25830,16 +25841,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33604,
+      "Progressed": 33607,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2024-01-13T04:02:39.7895166+00:00",
-  "LastChanged_Achievements": "2024-01-13T17:09:18.8247352+00:00",
+  "LastChanged": "2024-01-13T18:02:51.6107489+00:00",
+  "LastChanged_Achievements": "2024-01-13T18:09:36.9051327+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.8485347+00:00",
-  "LastUpdate_Ratings": "2024-01-13T17:02:47.9683089+00:00",
-  "LastUpdate_Achievements": "2024-01-13T17:09:18.8248855+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:02:51.6107497+00:00",
+  "LastUpdate_Achievements": "2024-01-13T18:09:36.9052823+00:00"
 }

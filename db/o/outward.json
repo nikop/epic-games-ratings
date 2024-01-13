@@ -559,9 +559,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4764,
+  "EOS_Progressed": 4765,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8339,6 +8339,11 @@
       "Time": "2024-01-13T15:08:24.5883969+00:00",
       "NumProgressed": 4764,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T18:08:41.4813366+00:00",
+      "NumProgressed": 4765,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8358,7 +8363,7 @@
       "Name": "Ace Detective",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "AncestorsPride_13",
@@ -8438,7 +8443,7 @@
       "Name": "Gift from the Ancestors",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
@@ -8494,7 +8499,7 @@
       "Name": "Magic is a science",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "MasterofAurai_20",
@@ -8542,7 +8547,7 @@
       "Name": "Ready for Winter",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2906
+      "UsersEstimate": 2907
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -8550,7 +8555,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1001
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -8670,7 +8675,7 @@
       "Name": "Venture Outward",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 3430
+      "UsersEstimate": 3431
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8685,15 +8690,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4764,
+      "Progressed": 4765,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-13T17:08:39.0261488+00:00",
+  "LastChanged_Achievements": "2024-01-13T18:08:41.4813359+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:45.0450053+00:00",
-  "LastUpdate_Ratings": "2024-01-13T17:03:10.787149+00:00",
-  "LastUpdate_Achievements": "2024-01-13T17:08:39.0262007+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:03:22.9596268+00:00",
+  "LastUpdate_Achievements": "2024-01-13T18:08:41.4814138+00:00"
 }

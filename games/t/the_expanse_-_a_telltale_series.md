@@ -13,9 +13,9 @@ Rating: 4.53 (Ranked 566)
 | The Pit and the Pirates | 13.00% | ~2,464 |
 | Drone Dodger | 13.00% | ~2,464 |
 | Bosmang | 13.00% | ~2,464 |
-| Spore Taste | 12.00% | ~2,274 |
+| Spore Taste | 12.00% | ~2,275 |
 | Stogie for Fogey | 11.00% | ~2,085 |
-| Call it Even | 10.00% | ~1,895 |
+| Call it Even | 10.00% | ~1,896 |
 | Safe Cracker | 10.00% | ~491 |
 | Zen Master | 10.00% | ~491 |
 | Heal Thy Medic | 9.00% | ~1,706 |
@@ -27,7 +27,7 @@ Rating: 4.53 (Ranked 566)
 | Khan's Revenge | 7.00% | ~1,327 |
 | Doctor Approved | 6.00% | ~1,137 |
 | Bottoms up! | 6.00% | ~1,137 |
-| Master Negotiator | 6.00% | ~294 |
+| Master Negotiator | 6.00% | ~295 |
 | Data Logger | 5.00% | ~948 |
 | Miraculous Maya | 5.00% | ~948 |
 | Data Master | 3.00% | ~569 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 566)
 | Scavenger Star | 0.30% | ~57 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,954 (Ranked 159)  
+Progressed: 18,955 (Ranked 159)  
 Completed: 64 (0.34%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 64 (0.34%) (Ranked 251)
 | 2024-01-10 | 18,829 | 62 |
 | 2024-01-11 | 18,866 | 63 |
 | 2024-01-12 | 18,914 | 64 |
-| 2024-01-13 | 18,954 | 64 |
+| 2024-01-13 | 18,955 | 64 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

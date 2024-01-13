@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -4096,9 +4096,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 486
+      "UsersEstimate": 500
     },
     {
       "ID": "BreakTheLoop",
@@ -4208,9 +4208,9 @@
       "ID": "GrasslandsRing",
       "SetID": "1n308hc",
       "Name": "Grasslands Ring",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 195
     },
     {
       "ID": "HighPlain",
@@ -4537,8 +4537,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-12T23:00:35.1873511+00:00",
-  "LastChanged_Achievements": "2024-01-13T17:04:17.6387847+00:00",
+  "LastChanged_Achievements": "2024-01-13T18:05:10.6041998+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:57:22.9418603+00:00",
-  "LastUpdate_Achievements": "2024-01-13T17:04:17.638842+00:00"
+  "LastUpdate_Ratings": "2024-01-13T17:57:33.9892552+00:00",
+  "LastUpdate_Achievements": "2024-01-13T18:05:10.6043277+00:00"
 }

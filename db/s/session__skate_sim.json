@@ -1375,9 +1375,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 3675,
+  "EOS_Progressed": 3676,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8015,6 +8015,11 @@
       "Time": "2024-01-13T17:03:50.1058799+00:00",
       "NumProgressed": 3675,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-13T18:04:31.4561147+00:00",
+      "NumProgressed": 3676,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -8106,7 +8111,7 @@
       "Name": "Fulfilled the dream",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_GDAY-MATE",
@@ -8114,7 +8119,7 @@
       "Name": "G\u0027Day Mate!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_GLOBETROTTER",
@@ -8178,7 +8183,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -8258,7 +8263,7 @@
       "Name": "Purple passion",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_RENAISSANCE-MAN",
@@ -8282,7 +8287,7 @@
       "Name": "Squad goals",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_SUP-WIDDIT-BIG-DOG",
@@ -8290,7 +8295,7 @@
       "Name": "Sup widdit big dog!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_TANK-COMMANDER",
@@ -8402,22 +8407,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 2315
+      "UsersEstimate": 2316
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3675,
+      "Progressed": 3676,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2024-01-11T18:02:48.9730593+00:00",
-  "LastChanged_Achievements": "2024-01-13T17:03:50.1058797+00:00",
+  "LastChanged_Achievements": "2024-01-13T18:04:31.4561143+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:55.5577816+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:58:02.9903636+00:00",
-  "LastUpdate_Achievements": "2024-01-13T17:03:50.1059508+00:00"
+  "LastUpdate_Ratings": "2024-01-13T17:58:32.2547905+00:00",
+  "LastUpdate_Achievements": "2024-01-13T18:04:31.4561799+00:00"
 }

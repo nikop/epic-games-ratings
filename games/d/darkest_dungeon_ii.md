@@ -6,15 +6,15 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,056 |
+| Malpractice Assurance | 14.00% | ~1,057 |
 | Lost and Found | 9.00% | ~679 |
 | Autodidact | 8.00% | ~10,614 |
-| This Belongs in a Museum | 7.00% | ~9,287 |
+| This Belongs in a Museum | 7.00% | ~9,288 |
 | This guy... again? | 7.00% | ~528 |
-| Serenity Now! | 6.00% | ~7,960 |
-| Creep and Sleep | 6.00% | ~7,960 |
-| Overdue Notice | 6.00% | ~7,960 |
-| Escape from the Black Hole | 6.00% | ~7,960 |
+| Serenity Now! | 6.00% | ~7,961 |
+| Creep and Sleep | 6.00% | ~7,961 |
+| Overdue Notice | 6.00% | ~7,961 |
+| Escape from the Black Hole | 6.00% | ~7,961 |
 | Ploughshares to Swords | 6.00% | ~453 |
 | Bloody Graduation | 6.00% | ~453 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,634 |
@@ -27,6 +27,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 5.00% | ~6,634 |
 | A Place to Lay Your Head | 5.00% | ~6,634 |
 | FNG | 5.00% | ~6,634 |
+| Unleash Hell | 4.00% | ~5,307 |
 | Unfulfilled Desires | 4.00% | ~5,307 |
 | Dissector | 4.00% | ~5,307 |
 | Banishment | 4.00% | ~5,307 |
@@ -39,7 +40,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Unshackled | 4.00% | ~5,307 |
 | Friends 'Til the End | 4.00% | ~302 |
 | Resurrection | 3.00% | ~3,980 |
-| Unleash Hell | 3.00% | ~3,980 |
 | Funny Guy | 3.00% | ~3,980 |
 | Long Live the King | 3.00% | ~3,980 |
 | Wyrdly Reconstructed | 3.00% | ~3,980 |
@@ -53,13 +53,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | When You Want Something Done Right | 3.00% | ~3,980 |
 | Utopia | 3.00% | ~3,980 |
 | Road Trip | 3.00% | ~3,980 |
-| This Looks Familiar | 2.00% | ~2,653 |
-| Ichthyophobic | 2.00% | ~2,653 |
-| No More Mouths to Feed | 2.00% | ~2,653 |
-| Worldly Traveller | 2.00% | ~2,653 |
-| Hot Air | 2.00% | ~2,653 |
-| Eyes Up | 2.00% | ~2,653 |
-| Handled | 2.00% | ~2,653 |
+| This Looks Familiar | 2.00% | ~2,654 |
+| Ichthyophobic | 2.00% | ~2,654 |
+| No More Mouths to Feed | 2.00% | ~2,654 |
+| Worldly Traveller | 2.00% | ~2,654 |
+| Hot Air | 2.00% | ~2,654 |
+| Eyes Up | 2.00% | ~2,654 |
+| Handled | 2.00% | ~2,654 |
 | Clearing the Ledger | 1.00% | ~1,327 |
 | Hat Trick | 1.00% | ~1,327 |
 | Shrine of Reflection | 1.00% | ~1,327 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,674 (Ranked 92)  
+Progressed: 132,679 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,10 +344,10 @@ Completed: 4 (0.00%) (Ranked 399)
 | 2024-01-10 | 132,395 | 4 |
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
-| 2024-01-13 | 132,674 | 4 |
+| 2024-01-13 | 132,679 | 4 |
 ## Awards
 Max (Character Customization): 8,016  (Ranked 51)  
-Sum: 21,630 (Ranked 58)  
+Sum: 21,632 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -356,7 +356,7 @@ Diff (max vs sum): -7
 | This game has Challenging Combat | 1,679 |
 | This game is Highly Recommended | 1,604 |
 | This game has Amazing Characters | 1,532 |
-| This game is Extremely Fun | 1,522 |
+| This game is Extremely Fun | 1,524 |
 | This game has Unique Visuals | 1,470 |
 | This game has Amazing Storytelling | 1,446 |
 | This game has Quickly Understood Controls | 1,416 |
@@ -716,4 +716,4 @@ Diff (max vs sum): -7
 | 2024-01-10 | 4.68 | - | 8,000 | 21,576 |
 | 2024-01-11 | 4.68 | - | 8,002 | 21,592 |
 | 2024-01-12 | 4.68 | - | 8,007 | 21,610 |
-| 2024-01-13 | 4.68 | - | 8,016 | 21,630 |
+| 2024-01-13 | 4.68 | - | 8,016 | 21,632 |

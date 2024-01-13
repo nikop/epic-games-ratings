@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewPlayers": 370,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 647,
+  "EOS_Progressed": 648,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -2854,6 +2854,11 @@
       "Time": "2024-01-13T17:04:34.8583813+00:00",
       "NumProgressed": 647,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-13T18:05:35.3127386+00:00",
+      "NumProgressed": 648,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 14,
@@ -2873,7 +2878,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2927,9 +2932,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "296pn27",
       "Name": "This looks really bad",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 162
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -2937,7 +2942,7 @@
       "Name": "Unholy lands",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -2976,14 +2981,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 647,
+      "Progressed": 648,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2024-01-13T17:04:34.858381+00:00",
+  "LastChanged_Achievements": "2024-01-13T18:05:35.3127382+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.0957409+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:58:59.8394007+00:00",
-  "LastUpdate_Achievements": "2024-01-13T17:04:34.8584094+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:00:00.9986062+00:00",
+  "LastUpdate_Achievements": "2024-01-13T18:05:35.3127655+00:00"
 }
