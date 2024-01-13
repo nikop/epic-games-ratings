@@ -4017,9 +4017,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33587,
+  "EOS_Progressed": 33588,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -25367,6 +25367,11 @@
       "Time": "2024-01-13T04:09:09.8494496+00:00",
       "NumProgressed": 33587,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-13T05:09:26.50825+00:00",
+      "NumProgressed": 33588,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -25442,7 +25447,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "Daily_Dose",
@@ -25450,7 +25455,7 @@
       "Name": "Daily Dose",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "Diabolical",
@@ -25522,7 +25527,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "Ghost_Expert",
@@ -25626,7 +25631,7 @@
       "Name": "Right back at ya",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "Rivalry",
@@ -25778,14 +25783,14 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33587,
+      "Progressed": 33588,
       "Completed": 71
     }
   ],
@@ -25793,8 +25798,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-13T04:02:39.7895166+00:00",
-  "LastChanged_Achievements": "2024-01-13T04:09:09.8494493+00:00",
+  "LastChanged_Achievements": "2024-01-13T05:09:26.5082495+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.8485347+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:02:39.7895171+00:00",
-  "LastUpdate_Achievements": "2024-01-13T04:09:09.8495838+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:00:53.6616605+00:00",
+  "LastUpdate_Achievements": "2024-01-13T05:09:26.5083916+00:00"
 }

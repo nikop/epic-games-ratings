@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 199,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2718,9 +2718,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44441,
+  "EOS_Progressed": 44442,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11158,6 +11158,11 @@
       "Time": "2024-01-13T01:55:58.7648579+00:00",
       "NumProgressed": 44441,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2024-01-13T05:03:40.261184+00:00",
+      "NumProgressed": 44442,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -11169,7 +11174,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27553
+      "UsersEstimate": 27554
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -11225,7 +11230,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12443
+      "UsersEstimate": 12444
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -11241,7 +11246,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 18665
+      "UsersEstimate": 18666
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -11297,7 +11302,7 @@
       "Name": "Something wicked this way comes",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2666
+      "UsersEstimate": 2667
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_FINAL_DEPARTURE",
@@ -11329,7 +11334,7 @@
       "Name": "Take a little bit of Italy with you",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2666
+      "UsersEstimate": 2667
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_TRAIN_STATION",
@@ -11345,7 +11350,7 @@
       "Name": "Staring at Shadows",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2666
+      "UsersEstimate": 2667
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_VENICE",
@@ -11353,7 +11358,7 @@
       "Name": "I told you we should have gone to the beach",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2666
+      "UsersEstimate": 2667
     },
     {
       "ID": "SE_COMPLETE_MILAN",
@@ -11417,7 +11422,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21776
+      "UsersEstimate": 21777
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -11441,7 +11446,7 @@
       "Name": "Shock therapy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10221
+      "UsersEstimate": 10222
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -11449,7 +11454,7 @@
       "Name": "Hoarder",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2666
+      "UsersEstimate": 2667
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_A_ZOMBIE_SELF_RESURRECTION",
@@ -11457,7 +11462,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16443
+      "UsersEstimate": 16444
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -11465,7 +11470,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18665
+      "UsersEstimate": 18666
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -11489,7 +11494,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16443
+      "UsersEstimate": 16444
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -11521,7 +11526,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20887
+      "UsersEstimate": 20888
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -11529,7 +11534,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25331
+      "UsersEstimate": 25332
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -11537,7 +11542,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20887
+      "UsersEstimate": 20888
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -11561,7 +11566,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19998
+      "UsersEstimate": 19999
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -11569,7 +11574,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29331
+      "UsersEstimate": 29332
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -11625,7 +11630,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29331
+      "UsersEstimate": 29332
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -11665,7 +11670,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 10221
+      "UsersEstimate": 10222
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -11681,7 +11686,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7999
+      "UsersEstimate": 8000
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -11696,15 +11701,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44441,
+      "Progressed": 44442,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2024-01-06T22:57:52.3210761+00:00",
-  "LastChanged_Achievements": "2024-01-13T04:03:30.1949391+00:00",
+  "LastChanged_Achievements": "2024-01-13T05:03:40.2611836+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:16.5382429+00:00",
-  "LastUpdate_Ratings": "2024-01-13T03:57:36.6079047+00:00",
-  "LastUpdate_Achievements": "2024-01-13T04:03:30.1950125+00:00"
+  "LastUpdate_Ratings": "2024-01-13T04:57:32.0503092+00:00",
+  "LastUpdate_Achievements": "2024-01-13T05:03:40.2612911+00:00"
 }

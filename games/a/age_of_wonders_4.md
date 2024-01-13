@@ -9,7 +9,7 @@ Rating: 4.63 (Ranked 359)
 | Realm Estate | 15.00% | ~1,082 |
 | A Wonderful Discovery | 14.00% | ~1,010 |
 | Walls Cannot Stop Us | 14.00% | ~1,010 |
-| From Friends to Family | 12.00% | ~865 |
+| From Friends to Family | 12.00% | ~866 |
 | Bone Peddler | 11.00% | ~793 |
 | Full Ascension | 9.00% | ~649 |
 | Magical Synergy | 9.00% | ~649 |
@@ -24,10 +24,10 @@ Rating: 4.63 (Ranked 359)
 | My Final Form | 5.00% | ~361 |
 | Against the Odds | 5.00% | ~361 |
 | But this one is mine | 5.00% | ~361 |
-| Enchanted Archipelago | 4.00% | ~288 |
-| Preparation Is Everything | 4.00% | ~288 |
-| Fiery Friend | 4.00% | ~288 |
-| Impenetrable Fortress | 4.00% | ~288 |
+| Enchanted Archipelago | 4.00% | ~289 |
+| Preparation Is Everything | 4.00% | ~289 |
+| Fiery Friend | 4.00% | ~289 |
+| Impenetrable Fortress | 4.00% | ~289 |
 | Crimson Caldera | 3.00% | ~216 |
 | Here be Dragons | 3.00% | ~216 |
 | Tipping the Scales | 3.00% | ~216 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 359)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,212 (Ranked 197)  
+Progressed: 7,213 (Ranked 197)  
 Completed: 8 (0.11%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 8 (0.11%) (Ranked 308)
 | 2024-01-10 | 7,178 | 7 |
 | 2024-01-11 | 7,195 | 7 |
 | 2024-01-12 | 7,210 | 8 |
-| 2024-01-13 | 7,212 | 8 |
+| 2024-01-13 | 7,213 | 8 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 481)  
 Sum: 238 (Ranked 406)  

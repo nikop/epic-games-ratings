@@ -2,7 +2,7 @@
   "ID": "63afbcc46a714796af53032c2b3ed4b3",
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
-  "Ranking_Rating": 150,
+  "Ranking_Rating": 149,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 318,
@@ -2608,25 +2608,25 @@
       "ID": "ach_main07storm_completed",
       "SetID": "4hg22ll",
       "Name": "The Ascent",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 450
+      "UsersEstimate": 457
     },
     {
       "ID": "ach_main07storm_dynamite",
       "SetID": "4hg22ll",
       "Name": "Pure Dynamite!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 343
+      "UsersEstimate": 351
     },
     {
       "ID": "ach_main07storm_storm",
       "SetID": "4hg22ll",
       "Name": "It\u0027s Warm and Cozy at Home",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 450
+      "UsersEstimate": 457
     },
     {
       "ID": "ach_main08sacrifice_completed",
@@ -2953,8 +2953,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-08T17:59:07.5685099+00:00",
-  "LastChanged_Achievements": "2024-01-13T04:09:28.2806575+00:00",
+  "LastChanged_Achievements": "2024-01-13T05:09:46.9042102+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-13T03:57:16.8121146+00:00",
-  "LastUpdate_Achievements": "2024-01-13T04:09:28.280714+00:00"
+  "LastUpdate_Ratings": "2024-01-13T04:57:10.7463029+00:00",
+  "LastUpdate_Achievements": "2024-01-13T05:09:46.9042635+00:00"
 }

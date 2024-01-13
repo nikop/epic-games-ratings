@@ -13,14 +13,14 @@ Rating: 4.53 (Ranked 567)
 | Drone Dodger | 13.00% | ~2,460 |
 | Bosmang | 13.00% | ~2,460 |
 | Impossible Objects | 13.00% | ~2,460 |
-| Spore Taste | 12.00% | ~2,270 |
+| Spore Taste | 12.00% | ~2,271 |
 | Stogie for Fogey | 11.00% | ~2,081 |
 | Call it Even | 10.00% | ~1,892 |
-| Safe Cracker | 10.00% | ~487 |
-| Zen Master | 10.00% | ~487 |
+| Safe Cracker | 10.00% | ~488 |
+| Zen Master | 10.00% | ~488 |
+| Heal Thy Medic | 9.00% | ~1,703 |
 | Madame Undersecretary | 9.00% | ~439 |
 | Data Archivist | 8.00% | ~1,514 |
-| Heal Thy Medic | 8.00% | ~1,514 |
 | Keep Arjun in Check | 8.00% | ~390 |
 | Drug Gifter | 7.00% | ~1,324 |
 | Thorston Mayer | 7.00% | ~1,324 |
@@ -41,8 +41,8 @@ Rating: 4.53 (Ranked 567)
 | Scavenger Star | 0.30% | ~57 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,920 (Ranked 159)  
-Completed: 64 (0.34%) (Ranked 250)  
+Progressed: 18,921 (Ranked 159)  
+Completed: 64 (0.34%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -216,7 +216,7 @@ Completed: 64 (0.34%) (Ranked 250)
 | 2024-01-10 | 18,829 | 62 |
 | 2024-01-11 | 18,866 | 63 |
 | 2024-01-12 | 18,914 | 64 |
-| 2024-01-13 | 18,920 | 64 |
+| 2024-01-13 | 18,921 | 64 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

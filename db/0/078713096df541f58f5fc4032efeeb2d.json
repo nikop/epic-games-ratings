@@ -2,9 +2,9 @@
   "ID": "078713096df541f58f5fc4032efeeb2d",
   "Name": "Creepy Tale 3 - Ingrid Penance",
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
-  "Ranking_EOS_Progress": 498,
+  "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 100,
+  "EOS_Progressed": 101,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -499,6 +499,11 @@
       "Time": "2024-01-11T07:04:50.5364641+00:00",
       "NumProgressed": 100,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T05:05:46.0080764+00:00",
+      "NumProgressed": 101,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-23T15:05:23.4224547+00:00",
@@ -527,7 +532,7 @@
       "Name": "Dexterity",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "creepytale3_ach_12",
@@ -733,9 +738,9 @@
       "ID": "creepytale3_ach_5",
       "SetID": "7idcjbn",
       "Name": "Bloodthirsty",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "creepytale3_ach_6",
@@ -774,14 +779,14 @@
     {
       "ID": "7idcjbn",
       "IsBase": true,
-      "Progressed": 100,
+      "Progressed": 101,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2024-01-13T04:05:26.6495602+00:00",
+  "LastChanged_Achievements": "2024-01-13T05:05:46.0080759+00:00",
   "LastUpdate_AppInfo": "2024-01-10T08:56:56.6839985+00:00",
-  "LastUpdate_Ratings": "2024-01-13T03:57:38.1227238+00:00",
-  "LastUpdate_Achievements": "2024-01-13T04:05:26.6495886+00:00"
+  "LastUpdate_Ratings": "2024-01-13T04:57:33.6950876+00:00",
+  "LastUpdate_Achievements": "2024-01-13T05:05:46.0080998+00:00"
 }

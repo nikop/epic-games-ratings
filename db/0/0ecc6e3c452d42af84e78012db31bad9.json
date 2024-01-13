@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4973,
+  "EOS_Progressed": 4976,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -13225,6 +13225,11 @@
       "Time": "2024-01-13T03:05:48.2460198+00:00",
       "NumProgressed": 4973,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2024-01-13T05:06:09.8930703+00:00",
+      "NumProgressed": 4976,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 16,
@@ -13236,7 +13241,7 @@
       "Name": "Colored 10 easy pictures.",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "ach_10_hard_pictures",
@@ -13268,7 +13273,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3829
+      "UsersEstimate": 3832
     },
     {
       "ID": "ach_architecture_completed",
@@ -13276,7 +13281,7 @@
       "Name": "Architecture - completed",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ach_architecture_unlocked",
@@ -13284,7 +13289,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "ach_bomb",
@@ -13292,7 +13297,7 @@
       "Name": "Cannoneer",
       "Percentage": 27,
       "XP": 65,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "ach_color_splash",
@@ -13300,7 +13305,7 @@
       "Name": "Color flood",
       "Percentage": 31,
       "XP": 65,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "ach_first_picture",
@@ -13308,7 +13313,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 4028
+      "UsersEstimate": 4031
     },
     {
       "ID": "ach_food_completed",
@@ -13324,7 +13329,7 @@
       "Name": "Food - unlocked",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1790
+      "UsersEstimate": 1791
     },
     {
       "ID": "ach_game_opened",
@@ -13332,7 +13337,7 @@
       "Name": "Game opened",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3779
+      "UsersEstimate": 3782
     },
     {
       "ID": "ach_magic_wand",
@@ -13340,7 +13345,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "ach_no_boosters",
@@ -13348,7 +13353,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1941
     },
     {
       "ID": "ach_tornado",
@@ -13356,14 +13361,14 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 1392
+      "UsersEstimate": 1393
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 4973,
+      "Progressed": 4976,
       "Completed": 44
     }
   ],
@@ -13371,8 +13376,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2024-01-13T04:05:48.7133161+00:00",
+  "LastChanged_Achievements": "2024-01-13T05:06:09.8930699+00:00",
   "LastUpdate_AppInfo": "2024-01-12T23:57:12.5110716+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:00:23.145605+00:00",
-  "LastUpdate_Achievements": "2024-01-13T04:05:48.7134013+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:00:37.1775067+00:00",
+  "LastUpdate_Achievements": "2024-01-13T05:06:09.8931447+00:00"
 }

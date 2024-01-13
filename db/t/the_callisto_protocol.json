@@ -2201,9 +2201,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 22248,
+  "EOS_Progressed": 22249,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1021,
+  "EOS_NewPlayers": 1018,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13686,6 +13686,11 @@
       "Time": "2024-01-13T03:09:52.0251189+00:00",
       "NumProgressed": 22248,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-13T05:10:09.7012631+00:00",
+      "NumProgressed": 22249,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13729,7 +13734,7 @@
       "Name": "Flesh Wound",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 5784
+      "UsersEstimate": 5785
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14009,7 +14014,7 @@
       "Name": "Big Spender",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "DESTROY_FACTORY_CRATES",
@@ -14033,7 +14038,7 @@
       "Name": "This Isn\u0027t About Escape",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "FINISH_DLC4",
@@ -14072,13 +14077,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22248,
+      "Progressed": 22249,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10174,
+      "Progressed": 10175,
       "Completed": 29
     }
   ],
@@ -14086,8 +14091,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-12T18:03:09.9063195+00:00",
-  "LastChanged_Achievements": "2024-01-13T04:09:49.3552732+00:00",
+  "LastChanged_Achievements": "2024-01-13T05:10:09.7012626+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:03:22.809256+00:00",
-  "LastUpdate_Achievements": "2024-01-13T04:09:49.3553492+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:03:29.1779388+00:00",
+  "LastUpdate_Achievements": "2024-01-13T05:10:09.701378+00:00"
 }

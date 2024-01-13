@@ -158,6 +158,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Siege Tower | 0.20% | ~33 |
 | Beja Archer | 0.20% | ~33 |
 | Jerwan Aqueduct | 0.20% | ~33 |
+| Royal Library | 0.20% | ~33 |
 | Centenarian | 0.10% | ~17 |
 | Alexander the Great | 0.10% | ~17 |
 | Alexander the who? | 0.10% | ~17 |
@@ -308,7 +309,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cothon | 0.10% | ~17 |
 | Heliopolis | 0.10% | ~17 |
 | Jebel Barkal | 0.10% | ~17 |
-| Royal Library | 0.10% | ~17 |
 | Yazilikaya | 0.10% | ~17 |
 | Colosseum in Roma | 0.10% | ~17 |
 | The Great Raging Horde | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,580 (Ranked 170)  
+Progressed: 16,583 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -633,10 +633,10 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
-| 2024-01-13 | 16,580 | 5 |
+| 2024-01-13 | 16,583 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
-Sum: 1,925 (Ranked 223)  
+Sum: 1,926 (Ranked 223)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
@@ -644,7 +644,7 @@ Diff (max vs sum): 64
 | This game has Diverse Characters | 224 |
 | This game is Extremely Fun | 223 |
 | This game is Highly Recommended | 222 |
-| This game is Educational | 219 |
+| This game is Educational | 220 |
 | This game has Challenging Combat | 209 |
 | This game has Amazing Characters | 202 |
 | This game has Quickly Understood Controls | 198 |
@@ -845,4 +845,4 @@ Diff (max vs sum): 64
 | 2024-01-08 | 4.65 | - | 229 | 1,917 |
 | 2024-01-09 | 4.65 | - | 229 | 1,919 |
 | 2024-01-11 | 4.65 | - | 230 | 1,921 |
-| 2024-01-13 | 4.65 | - | 230 | 1,925 |
+| 2024-01-13 | 4.65 | - | 230 | 1,926 |

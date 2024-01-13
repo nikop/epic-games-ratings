@@ -2,9 +2,9 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_EOS_Progress": 512,
+  "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 385,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84,
+  "EOS_Progressed": 85,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -439,6 +439,11 @@
       "Time": "2024-01-12T13:13:50.1330662+00:00",
       "NumProgressed": 84,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T05:03:38.6617569+00:00",
+      "NumProgressed": 85,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.7079864+00:00",
@@ -569,7 +574,7 @@
       "ID": "NEW_ACHIEVEMENT_1_23",
       "SetID": "7on801h",
       "Name": "And Embrace What You\u0027ve Become",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -1098,20 +1103,20 @@
     {
       "ID": "7on801h",
       "IsBase": true,
-      "Progressed": 84,
+      "Progressed": 85,
       "Completed": 0
     },
     {
       "ID": "o6aioj",
       "IsBase": false,
-      "Progressed": 84,
+      "Progressed": 85,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2024-01-13T04:03:28.6450723+00:00",
+  "LastChanged_Achievements": "2024-01-13T05:03:38.6617567+00:00",
   "LastUpdate_AppInfo": "2024-01-10T17:57:06.6884705+00:00",
-  "LastUpdate_Ratings": "2024-01-13T03:58:28.2457697+00:00",
-  "LastUpdate_Achievements": "2024-01-13T04:03:28.6468299+00:00"
+  "LastUpdate_Ratings": "2024-01-13T04:58:27.6279299+00:00",
+  "LastUpdate_Achievements": "2024-01-13T05:03:38.661834+00:00"
 }

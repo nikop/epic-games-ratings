@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8967,9 +8967,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 760079,
+  "EOS_Progressed": 760099,
   "EOS_Completed": 12984,
-  "EOS_NewPlayers": 5036,
+  "EOS_NewPlayers": 5013,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -33562,6 +33562,11 @@
       "Time": "2024-01-13T04:09:34.1385721+00:00",
       "NumProgressed": 760079,
       "NumCompleted": 12984
+    },
+    {
+      "Time": "2024-01-13T05:09:53.4609555+00:00",
+      "NumProgressed": 760099,
+      "NumCompleted": 12984
     }
   ],
   "TotalAchievements": 60,
@@ -33573,7 +33578,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45605
+      "UsersEstimate": 45606
     },
     {
       "ID": "02_Vengeance_H1",
@@ -33581,7 +33586,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30403
+      "UsersEstimate": 30404
     },
     {
       "ID": "03_Vengeance_H2",
@@ -33589,7 +33594,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22802
+      "UsersEstimate": 22803
     },
     {
       "ID": "04_Vengeance_H3",
@@ -33629,7 +33634,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4560
+      "UsersEstimate": 4561
     },
     {
       "ID": "09_Wude_H3",
@@ -33637,7 +33642,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4560
+      "UsersEstimate": 4561
     },
     {
       "ID": "10_Wude_H4",
@@ -33645,7 +33650,7 @@
       "Name": "Iron Money",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4560
+      "UsersEstimate": 4561
     },
     {
       "ID": "11_Wude_H5",
@@ -33741,7 +33746,7 @@
       "Name": "Street Fighting",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22802
+      "UsersEstimate": 22803
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -33749,7 +33754,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 38004
+      "UsersEstimate": 38005
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -33757,7 +33762,7 @@
       "Name": "State of constant learning",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22802
+      "UsersEstimate": 22803
     },
     {
       "ID": "25_ShrineMind",
@@ -33781,7 +33786,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22802
+      "UsersEstimate": 22803
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -33821,7 +33826,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22802
+      "UsersEstimate": 22803
     },
     {
       "ID": "33_BladeOneShot",
@@ -33829,7 +33834,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4560
+      "UsersEstimate": 4561
     },
     {
       "ID": "34_TimedTakedown",
@@ -33837,7 +33842,7 @@
       "Name": "Lightning Hands",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38004
+      "UsersEstimate": 38005
     },
     {
       "ID": "35_WideStrike",
@@ -34052,21 +34057,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 69380,
+      "Progressed": 69400,
       "Completed": 10807
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 760079,
+      "Progressed": 760099,
       "Completed": 12984
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-12T15:03:25.8049852+00:00",
-  "LastChanged_Achievements": "2024-01-13T04:09:34.1385717+00:00",
+  "LastChanged_Achievements": "2024-01-13T05:09:53.460955+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.3871095+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:03:11.1627508+00:00",
-  "LastUpdate_Achievements": "2024-01-13T04:09:34.1387467+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:03:17.2880491+00:00",
+  "LastUpdate_Achievements": "2024-01-13T05:09:53.4611509+00:00"
 }

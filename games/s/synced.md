@@ -5,24 +5,24 @@ Rating: 4.13 (Ranked 1,016)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 46.00% | ~39,899 |
-| More Power to You | 23.00% | ~19,950 |
-| As Far Away As Possible | 21.00% | ~18,215 |
-| A Most Unstable Organism | 14.00% | ~12,143 |
-| No Time to Follow Protocol | 9.00% | ~7,806 |
-| Nano Connoisseur | 7.00% | ~6,072 |
-| Float Like a Butterfly... | 7.00% | ~6,072 |
-| In Two Places At Once | 6.00% | ~5,204 |
+| Your Lucky Day | 46.00% | ~39,905 |
+| More Power to You | 23.00% | ~19,952 |
+| As Far Away As Possible | 21.00% | ~18,218 |
+| A Most Unstable Organism | 14.00% | ~12,145 |
+| No Time to Follow Protocol | 9.00% | ~7,808 |
+| Nano Connoisseur | 7.00% | ~6,073 |
+| Float Like a Butterfly... | 7.00% | ~6,073 |
+| In Two Places At Once | 6.00% | ~5,205 |
 | Pulling Your Weight | 3.00% | ~2,602 |
 | Reaping Rivals | 3.00% | ~2,602 |
-| fifteenth Time's the Charm | 1.00% | ~867 |
-| Gone Rogue | 1.00% | ~867 |
+| fifteenth Time's the Charm | 1.00% | ~868 |
+| Gone Rogue | 1.00% | ~868 |
 | Completely Customizable | 0.50% | ~434 |
 | Memory Keeper | 0.40% | ~347 |
 | Runs for Your Money | 0.30% | ~260 |
 | Past Master | 0.30% | ~260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,737 (Ranked 108)  
+Progressed: 86,750 (Ranked 108)  
 Completed: 68 (0.08%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,10 +161,10 @@ Completed: 68 (0.08%) (Ranked 326)
 | 2024-01-10 | 86,114 | 66 |
 | 2024-01-11 | 86,392 | 67 |
 | 2024-01-12 | 86,671 | 68 |
-| 2024-01-13 | 86,737 | 68 |
+| 2024-01-13 | 86,750 | 68 |
 ## Awards
 Max (Great for Beginners): 135  (Ranked 342)  
-Sum: 584 (Ranked 328)  
+Sum: 585 (Ranked 328)  
 Diff (max vs sum): 14  
 | Award | Count |
 | ----- | ----- |
@@ -176,7 +176,7 @@ Diff (max vs sum): 14
 | This game has Amazing Storytelling | 57 |
 | This game has Quickly Understood Controls | 55 |
 | This game has a Competitive Community | 54 |
-| This game is Relaxing | 47 |
+| This game is Relaxing | 48 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -298,4 +298,4 @@ Diff (max vs sum): 14
 | 2024-01-10 | 4.14 | 134 | 576 |
 | 2024-01-11 | 4.13 | 135 | 577 |
 | 2024-01-12 | 4.14 | 135 | 582 |
-| 2024-01-13 | 4.13 | 135 | 584 |
+| 2024-01-13 | 4.13 | 135 | 585 |

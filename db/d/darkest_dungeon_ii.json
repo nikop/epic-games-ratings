@@ -10794,7 +10794,7 @@
       "Count": 1094
     }
   ],
-  "EOS_Progressed": 132618,
+  "EOS_Progressed": 132621,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 773,
   "EOS_NewCompleters": 1,
@@ -39609,6 +39609,11 @@
       "Time": "2024-01-13T04:10:01.0226167+00:00",
       "NumProgressed": 132618,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-13T05:10:22.0958077+00:00",
+      "NumProgressed": 132621,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39972,7 +39977,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10609
+      "UsersEstimate": 10610
     },
     {
       "ID": "hero_story_complete_all",
@@ -40156,7 +40161,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "combat_kill_collector",
@@ -40228,7 +40233,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -40251,21 +40256,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132618,
+      "Progressed": 132621,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7487,
+      "Progressed": 7490,
       "Completed": 825
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-13T01:49:01.7207298+00:00",
-  "LastChanged_Achievements": "2024-01-13T04:10:01.0226164+00:00",
+  "LastChanged_Achievements": "2024-01-13T05:10:22.0958073+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-13T03:57:12.6866406+00:00",
-  "LastUpdate_Achievements": "2024-01-13T04:10:01.0227915+00:00"
+  "LastUpdate_Ratings": "2024-01-13T04:57:06.0117128+00:00",
+  "LastUpdate_Achievements": "2024-01-13T05:10:22.0960148+00:00"
 }

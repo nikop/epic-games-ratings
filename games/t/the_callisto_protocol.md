@@ -6,7 +6,7 @@ Rating: 4.22 (Ranked 955)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Outer Way | 27.00% | ~6,007 |
-| Flesh Wound | 26.00% | ~5,784 |
+| Flesh Wound | 26.00% | ~5,785 |
 | Desperate Times | 25.00% | ~5,562 |
 | Paper Jams | 23.00% | ~5,117 |
 | Get a Grip | 22.00% | ~4,895 |
@@ -32,8 +32,8 @@ Rating: 4.22 (Ranked 955)
 | The Commonality | 5.00% | ~1,112 |
 | One Last Job | 3.00% | ~305 |
 | Mugshot | 2.00% | ~445 |
-| Big Spender | 2.00% | ~203 |
-| This Isn't About Escape | 2.00% | ~203 |
+| Big Spender | 2.00% | ~204 |
+| This Isn't About Escape | 2.00% | ~204 |
 | Armed to the Teeth | 1.00% | ~102 |
 | Grim Reaper | 1.00% | ~222 |
 | Instigator | 1.00% | ~102 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 955)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,248 (Ranked 151)  
+Progressed: 22,249 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 82 (0.37%) (Ranked 245)
 | 2024-01-10 | 22,053 | 82 |
 | 2024-01-11 | 22,169 | 82 |
 | 2024-01-12 | 22,235 | 82 |
-| 2024-01-13 | 22,248 | 82 |
+| 2024-01-13 | 22,249 | 82 |
 ## Awards
 Max (Amazing Characters): 131  (Ranked 345)  
 Sum: 641 (Ranked 320)  

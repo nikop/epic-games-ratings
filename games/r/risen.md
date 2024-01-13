@@ -35,7 +35,7 @@ Rating: 4.56 (Ranked 511)
 | Peacekeeper | 12.00% | ~23 |
 | Defender | 11.00% | ~21 |
 | Showdown | 11.00% | ~21 |
-| Workaholic | 10.00% | ~20 |
+| Workaholic | 11.00% | ~21 |
 | Safecracker | 10.00% | ~20 |
 | Titan Lord | 9.00% | ~18 |
 | Master thief | 9.00% | ~18 |

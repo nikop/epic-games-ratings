@@ -1773,9 +1773,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_HARD",
       "SetID": "caeik3h",
       "Name": "No Survivors III",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 189
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
@@ -1797,9 +1797,9 @@
       "ID": "KR4_ACHIEVEMENT_KING",
       "SetID": "caeik3h",
       "Name": "The True King",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 186
+      "UsersEstimate": 189
     },
     {
       "ID": "KR4_ACHIEVEMENT_LINIREA",
@@ -1925,9 +1925,9 @@
       "ID": "KR4_ACHIEVEMENT_SELL_TOWERS",
       "SetID": "caeik3h",
       "Name": "Go Green or Go Home",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 142
     },
     {
       "ID": "KR4_ACHIEVEMENT_SHADOWARCHERS",
@@ -1957,9 +1957,9 @@
       "ID": "KR4_ACHIEVEMENT_SLENDERMAN",
       "SetID": "caeik3h",
       "Name": "Too Late?",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "KR4_ACHIEVEMENT_SON_OF_FIRE",
@@ -2076,8 +2076,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-13T04:04:32.0821414+00:00",
+  "LastChanged_Achievements": "2024-01-13T05:04:47.1239048+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-13T03:57:59.5918502+00:00",
-  "LastUpdate_Achievements": "2024-01-13T04:04:32.082204+00:00"
+  "LastUpdate_Ratings": "2024-01-13T04:57:56.9745785+00:00",
+  "LastUpdate_Achievements": "2024-01-13T05:04:47.1239841+00:00"
 }

@@ -1,19 +1,19 @@
 # Touch Type Tale
 [Store](https://store.epicgames.com/en-US/p/touch-type-tale)  
 [View Rawdata](../../db/t/touch_type_tale.json)  
-Rating: 4.75 (Ranked 150)  
+Rating: 4.75 (Ranked 149)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You and what Army? | 87.00% | ~3,503 |
 | Flanked! | 75.00% | ~3,020 |
-| Economics 101 | 59.00% | ~2,375 |
+| Economics 101 | 59.00% | ~2,376 |
 | Get Rich Quick | 41.00% | ~1,651 |
 | Do the Splits | 37.00% | ~1,490 |
-| Maestro | 25.00% | ~1,006 |
+| Maestro | 25.00% | ~1,007 |
 | Full Employment | 18.00% | ~725 |
 | Clay Fighter | 16.00% | ~644 |
-| Nowhere left to Hide | 13.00% | ~523 |
+| Nowhere left to Hide | 13.00% | ~524 |
 | All Ovens Blazing | 12.00% | ~483 |
 | Boulder Clash | 12.00% | ~483 |
 | Held Back by the Roots | 11.00% | ~443 |
@@ -39,7 +39,7 @@ Rating: 4.75 (Ranked 150)
 | Untouchable | 1.00% | ~40 |
 | All Geared Up | 0.80% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,026 (Ranked 217)  
+Progressed: 4,027 (Ranked 217)  
 Completed: 11 (0.27%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,6 +277,7 @@ Completed: 11 (0.27%) (Ranked 264)
 | 2024-01-10 | 4,019 | 11 |
 | 2024-01-11 | 4,023 | 11 |
 | 2024-01-12 | 4,026 | 11 |
+| 2024-01-13 | 4,027 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

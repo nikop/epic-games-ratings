@@ -808,9 +808,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44133,
+  "EOS_Progressed": 44136,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 475,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28233,6 +28233,11 @@
       "Time": "2024-01-13T04:04:19.3014619+00:00",
       "NumProgressed": 44133,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-13T05:04:33.0850186+00:00",
+      "NumProgressed": 44136,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -28364,7 +28369,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15888
+      "UsersEstimate": 15889
     },
     {
       "ID": "ach_die10",
@@ -28444,7 +28449,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3089
+      "UsersEstimate": 3090
     },
     {
       "ID": "ach_legacyrival",
@@ -28476,7 +28481,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3089
+      "UsersEstimate": 3090
     },
     {
       "ID": "ach_portbell",
@@ -28588,7 +28593,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3089
+      "UsersEstimate": 3090
     },
     {
       "ID": "ach_sweetheart",
@@ -28675,15 +28680,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44133,
+      "Progressed": 44136,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-05T23:59:49.2303848+00:00",
-  "LastChanged_Achievements": "2024-01-13T04:04:19.3014617+00:00",
+  "LastChanged_Achievements": "2024-01-13T05:04:33.0850182+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.5653659+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:00:12.1501822+00:00",
-  "LastUpdate_Achievements": "2024-01-13T04:04:19.3015972+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:00:25.1565358+00:00",
+  "LastUpdate_Achievements": "2024-01-13T05:04:33.0851776+00:00"
 }

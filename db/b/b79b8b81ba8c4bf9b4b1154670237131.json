@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16623,
+  "EOS_Progressed": 16626,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6505,6 +6505,11 @@
       "Time": "2024-01-13T02:32:12.6391893+00:00",
       "NumProgressed": 16623,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-13T05:10:02.4883129+00:00",
+      "NumProgressed": 16626,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6517,7 +6522,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6317
+      "UsersEstimate": 6318
     },
     {
       "ID": "ACH_AE_10",
@@ -6541,7 +6546,7 @@
       "Name": "Versatile",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "ACH_AE_13",
@@ -6549,7 +6554,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12467
+      "UsersEstimate": 12470
     },
     {
       "ID": "ACH_AE_14",
@@ -6565,7 +6570,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3657
+      "UsersEstimate": 3658
     },
     {
       "ID": "ACH_AE_16",
@@ -6581,7 +6586,7 @@
       "Name": "Respect the Cannon",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_AE_18",
@@ -6597,7 +6602,7 @@
       "Name": "Signature Style",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "ACH_AE_2",
@@ -6613,7 +6618,7 @@
       "Name": "Let It Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "ACH_AE_21",
@@ -6621,7 +6626,7 @@
       "Name": "Foodie",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH_AE_22",
@@ -6653,7 +6658,7 @@
       "Name": "Family History",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "ACH_AE_26",
@@ -6669,7 +6674,7 @@
       "Name": "Trust Fall",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH_AE_28",
@@ -6701,7 +6706,7 @@
       "Name": "Just Friends",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH_AE_31",
@@ -6709,7 +6714,7 @@
       "Name": "Jailbreaker",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH_AE_32",
@@ -6733,7 +6738,7 @@
       "Name": "People Person",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH_AE_35",
@@ -6741,7 +6746,7 @@
       "Name": "Invincible",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH_AE_4",
@@ -6773,7 +6778,7 @@
       "Name": "Renewal",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "ACH_AE_8",
@@ -6781,7 +6786,7 @@
       "Name": "Prisoner Dilemma",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "ACH_AE_9",
@@ -6789,14 +6794,14 @@
       "Name": "Paradise Lost",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     }
   ],
   "AchievementSets": [
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16623,
+      "Progressed": 16626,
       "Completed": 15
     }
   ],
@@ -6804,8 +6809,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-06T19:57:04.811996+00:00",
-  "LastChanged_Achievements": "2024-01-13T04:09:42.6810373+00:00",
+  "LastChanged_Achievements": "2024-01-13T05:10:02.4883125+00:00",
   "LastUpdate_AppInfo": "2024-01-09T19:56:59.6965527+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:00:25.6092177+00:00",
-  "LastUpdate_Achievements": "2024-01-13T04:09:42.6810924+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:00:39.8630239+00:00",
+  "LastUpdate_Achievements": "2024-01-13T05:10:02.4883684+00:00"
 }

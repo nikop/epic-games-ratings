@@ -42,8 +42,8 @@ Rating: 3.68 (Ranked 1,097)
 | Nice Try | 2.00% | ~47 |
 | Blacklight Down | 2.00% | ~47 |
 | Curious Finch | 2.00% | ~47 |
+| Neighborhood Watch | 1.00% | ~24 |
 | Blood Brother | 1.00% | ~24 |
-| Neighborhood Watch | 0.90% | ~21 |
 | Bloody Initiate | 0.90% | ~21 |
 | What Lies Below | 0.80% | ~19 |
 | Empty Nest Syndrome | 0.80% | ~19 |

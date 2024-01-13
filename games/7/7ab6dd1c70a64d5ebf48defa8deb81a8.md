@@ -5,7 +5,7 @@ Rating: 4.14 (Ranked 1,008)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 63.00% | ~1,435 |
+| Break Out | 64.00% | ~1,458 |
 | Trinity | 33.00% | ~752 |
 | The Collector | 27.00% | ~615 |
 | A Taste of Wrath | 26.00% | ~592 |

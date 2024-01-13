@@ -407,9 +407,9 @@
       "ID": "A_ARTIFACT",
       "SetID": "324h56e",
       "Name": "The Artifact",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "A_AVATAR",
@@ -487,9 +487,9 @@
       "ID": "A_GOLD_PILES",
       "SetID": "324h56e",
       "Name": "Scrooge",
-      "Percentage": 40,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "A_HIVE_RESS hiveRes (0-100)",
@@ -503,9 +503,9 @@
       "ID": "A_HUNT hunt (0-1)",
       "SetID": "324h56e",
       "Name": "Big Game Hunter",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "A_HUNT_2 hunt (0-5)",
@@ -527,9 +527,9 @@
       "ID": "A_KILLS kills_1 (0-100)",
       "SetID": "324h56e",
       "Name": "Slaughter",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "A_KILLS_2 kills_1 (0-1000)",
@@ -567,9 +567,9 @@
       "ID": "A_MEAT meat (0-10000)",
       "SetID": "324h56e",
       "Name": "Fresh Meat!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "A_MEDIC_HEAL",
@@ -583,9 +583,9 @@
       "ID": "A_MINERALS minerals (0-2500)",
       "SetID": "324h56e",
       "Name": "Miner",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "A_NOFISH",
@@ -599,9 +599,9 @@
       "ID": "A_ORB",
       "SetID": "324h56e",
       "Name": "Orb of Wisdom",
-      "Percentage": 66,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "A_POPULATION",
@@ -615,9 +615,9 @@
       "ID": "A_QUEEN",
       "SetID": "324h56e",
       "Name": "Mother of Insectoids",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "A_RESS",
@@ -718,8 +718,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-13T04:04:03.0549338+00:00",
+  "LastChanged_Achievements": "2024-01-13T05:04:15.2896451+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.8788926+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:00:25.3716373+00:00",
-  "LastUpdate_Achievements": "2024-01-13T04:04:03.0549676+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:00:39.5802098+00:00",
+  "LastUpdate_Achievements": "2024-01-13T05:04:15.2897204+00:00"
 }

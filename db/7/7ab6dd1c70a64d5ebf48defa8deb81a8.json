@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -93,7 +93,7 @@
   "Tags": [],
   "EOS_Progressed": 2278,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4415,9 +4415,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1458
     },
     {
       "ID": "ACH_02",
@@ -4712,8 +4712,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-11T14:57:15.6904807+00:00",
-  "LastChanged_Achievements": "2024-01-13T04:10:10.8217073+00:00",
+  "LastChanged_Achievements": "2024-01-13T05:10:32.7820642+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-13T03:58:04.9173434+00:00",
-  "LastUpdate_Achievements": "2024-01-13T04:10:10.821761+00:00"
+  "LastUpdate_Ratings": "2024-01-13T04:58:03.0290406+00:00",
+  "LastUpdate_Achievements": "2024-01-13T05:10:32.7821101+00:00"
 }

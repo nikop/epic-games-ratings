@@ -777,7 +777,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7212,
+  "EOS_Progressed": 7213,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 1,
@@ -11147,6 +11147,11 @@
       "Time": "2024-01-13T04:04:13.4130116+00:00",
       "NumProgressed": 7212,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-13T05:04:26.6244303+00:00",
+      "NumProgressed": 7213,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11246,7 +11251,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "20",
@@ -11318,7 +11323,7 @@
       "Name": "From Friends to Family",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "29",
@@ -11342,7 +11347,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "31",
@@ -11390,7 +11395,7 @@
       "Name": "Fiery Friend",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "37",
@@ -11414,7 +11419,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "4",
@@ -11637,13 +11642,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7212,
+      "Progressed": 7213,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7212,
+      "Progressed": 7213,
       "Completed": 8
     }
   ],
@@ -11651,8 +11656,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-11T22:58:38.2332491+00:00",
-  "LastChanged_Achievements": "2024-01-13T04:04:13.4130114+00:00",
+  "LastChanged_Achievements": "2024-01-13T05:04:26.62443+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-13T03:59:20.7253037+00:00",
-  "LastUpdate_Achievements": "2024-01-13T04:04:13.4130963+00:00"
+  "LastUpdate_Ratings": "2024-01-13T04:59:31.1641594+00:00",
+  "LastUpdate_Achievements": "2024-01-13T05:04:26.6245261+00:00"
 }

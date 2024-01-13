@@ -6,18 +6,18 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~12,576 |
-| Overkill | 33.00% | ~10,922 |
-| Vaccine Incoming | 31.00% | ~10,260 |
-| A normal day in Gloomhaven | 29.00% | ~9,598 |
-| Spread the plague | 26.00% | ~8,605 |
-| Get over here! | 24.00% | ~7,943 |
-| Just when I thought I was out... | 19.00% | ~6,288 |
-| Precious! | 16.00% | ~5,295 |
-| Mine... All Mine... | 16.00% | ~5,295 |
-| Grizzled veteran | 15.00% | ~4,964 |
-| Anatomy Lesson | 14.00% | ~4,633 |
-| Light of my life | 13.00% | ~4,302 |
+| I'm not dead yet | 38.00% | ~12,580 |
+| Overkill | 33.00% | ~10,924 |
+| Vaccine Incoming | 31.00% | ~10,262 |
+| A normal day in Gloomhaven | 29.00% | ~9,600 |
+| Spread the plague | 26.00% | ~8,607 |
+| Get over here! | 24.00% | ~7,945 |
+| Just when I thought I was out... | 19.00% | ~6,290 |
+| Precious! | 16.00% | ~5,297 |
+| Mine... All Mine... | 16.00% | ~5,297 |
+| Grizzled veteran | 15.00% | ~4,966 |
+| Anatomy Lesson | 14.00% | ~4,635 |
+| Light of my life | 13.00% | ~4,304 |
 | Who's the Boss? | 12.00% | ~3,972 |
 | You activated my trap card! | 12.00% | ~3,972 |
 | Obstacle race | 12.00% | ~3,972 |
@@ -51,9 +51,9 @@ Number of Ratings: 68  (23.09.2022)
 | Captain hooked | 1.00% | ~331 |
 | Spoiler police! | 1.00% | ~331 |
 | New Blood | 1.00% | ~331 |
-| The Pacifist | 0.50% | ~165 |
-| The evil that men do | 0.50% | ~165 |
-| Born Support | 0.50% | ~165 |
+| The Pacifist | 0.50% | ~166 |
+| The evil that men do | 0.50% | ~166 |
+| Born Support | 0.50% | ~166 |
 | MacReady Steady.. Go! | 0.40% | ~132 |
 | A tough job | 0.30% | ~99 |
 | The Jaws of victory! | 0.30% | ~99 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~33 |
 | Hard-travelling Heroes | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,096 (Ranked 141)  
+Progressed: 33,104 (Ranked 141)  
 Completed: 1 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 1 (0.00%) (Ranked 399)
 | 2024-01-10 | 32,673 | 1 |
 | 2024-01-11 | 32,855 | 1 |
 | 2024-01-12 | 33,039 | 1 |
-| 2024-01-13 | 33,096 | 1 |
+| 2024-01-13 | 33,104 | 1 |
 ## Awards
 Max (Character Customization): 3,618  (Ranked 95)  
 Sum: 8,476 (Ranked 109)  

@@ -262,7 +262,7 @@
       "Count": 129
     }
   ],
-  "EOS_Progressed": 44071,
+  "EOS_Progressed": 44074,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 471,
   "EOS_NewCompleters": 0,
@@ -29317,6 +29317,11 @@
       "Time": "2024-01-13T04:05:21.5395359+00:00",
       "NumProgressed": 44071,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-13T05:05:40.3782424+00:00",
+      "NumProgressed": 44074,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -29336,7 +29341,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9255
+      "UsersEstimate": 9256
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -29344,7 +29349,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -29504,7 +29509,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -29512,7 +29517,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -29559,7 +29564,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 44071,
+      "Progressed": 44074,
       "Completed": 30
     }
   ],
@@ -29567,8 +29572,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2024-01-13T02:25:47.9038675+00:00",
-  "LastChanged_Achievements": "2024-01-13T04:05:21.5395355+00:00",
+  "LastChanged_Achievements": "2024-01-13T05:05:40.3782419+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:02.3058441+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:02:59.3099473+00:00",
-  "LastUpdate_Achievements": "2024-01-13T04:05:21.5397065+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:03:05.1288132+00:00",
+  "LastUpdate_Achievements": "2024-01-13T05:05:40.3784161+00:00"
 }

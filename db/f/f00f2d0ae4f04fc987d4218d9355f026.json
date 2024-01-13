@@ -2,9 +2,9 @@
   "ID": "f00f2d0ae4f04fc987d4218d9355f026",
   "Name": "Bio Inc. Redemption",
   "ProductSlug": "bio-inc-redemption-280fe5",
-  "Ranking_EOS_Progress": 549,
+  "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 385,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-12T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60,
+  "EOS_Progressed": 61,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -314,6 +314,11 @@
       "Time": "2024-01-11T23:05:35.0239249+00:00",
       "NumProgressed": 60,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T05:06:31.1045392+00:00",
+      "NumProgressed": 61,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T04:03:25.1214353+00:00",
@@ -446,7 +451,7 @@
       "Name": "Loser",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Lupus",
@@ -470,7 +475,7 @@
       "Name": "Medical Student",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "MuscularCollapse",
@@ -534,7 +539,7 @@
       "Name": "Richie Rich",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "SilentKiller",
@@ -542,7 +547,7 @@
       "Name": "Silent Killer",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "SkeletalCollapse",
@@ -581,14 +586,14 @@
     {
       "ID": "aaidab7",
       "IsBase": true,
-      "Progressed": 60,
+      "Progressed": 61,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-01-13T04:06:08.3376185+00:00",
+  "LastChanged_Achievements": "2024-01-13T05:06:31.1045387+00:00",
   "LastUpdate_AppInfo": "2024-01-09T06:57:18.0695989+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:00:18.1955142+00:00",
-  "LastUpdate_Achievements": "2024-01-13T04:06:08.3376589+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:00:32.235424+00:00",
+  "LastUpdate_Achievements": "2024-01-13T05:06:31.1045638+00:00"
 }

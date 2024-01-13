@@ -335,9 +335,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 11223,
+  "EOS_Progressed": 11227,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 933,
+  "EOS_NewPlayers": 927,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4685,6 +4685,11 @@
       "Time": "2024-01-13T04:10:09.7179098+00:00",
       "NumProgressed": 11223,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T05:10:31.6377158+00:00",
+      "NumProgressed": 11227,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4697,7 +4702,7 @@
       "Name": "Conspiracy",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2133
     },
     {
       "ID": "03_TheStolenStar",
@@ -4705,7 +4710,7 @@
       "Name": "Stolen Star",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -4721,7 +4726,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -4809,7 +4814,7 @@
       "Name": "The Rise",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1460
     },
     {
       "ID": "17_TheExemplar",
@@ -4825,7 +4830,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1460
     },
     {
       "ID": "19_TheVoidWolf",
@@ -4841,7 +4846,7 @@
       "Name": "Purge the Unclean",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "21_PreciseDefense",
@@ -4897,7 +4902,7 @@
       "Name": "Uncover the Ice",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "28_TheLightOfAstronomicon",
@@ -4929,7 +4934,7 @@
       "Name": "Don\u0027t Touch This",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "32_AviationSaviour",
@@ -4945,7 +4950,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -4969,7 +4974,7 @@
       "Name": "Adventurous Archaeologist",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "37_TheSirenicalDiplomat",
@@ -4977,7 +4982,7 @@
       "Name": "Silver-Tongued Diplomat",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
@@ -5009,7 +5014,7 @@
       "Name": "Jungle Heat",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "42_TheIronJudgement",
@@ -5049,7 +5054,7 @@
       "Name": "A Spark",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1460
     },
     {
       "ID": "47_AFlame",
@@ -5113,7 +5118,7 @@
       "Name": "This Is a Job for the Lord Captain!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -5121,7 +5126,7 @@
       "Name": "Returning the Boots",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "56_ThoroughInvestigation",
@@ -5137,7 +5142,7 @@
       "Name": "Burning Inheritance",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -5153,7 +5158,7 @@
       "Name": "The Possessed Ship",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "60_NotSoBottomlessPit",
@@ -5216,7 +5221,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11223,
+      "Progressed": 11227,
       "Completed": 1
     }
   ],
@@ -5224,8 +5229,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-12T03:59:45.455551+00:00",
-  "LastChanged_Achievements": "2024-01-13T04:10:09.7179095+00:00",
+  "LastChanged_Achievements": "2024-01-13T05:10:31.6377154+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:00:20.0526571+00:00",
-  "LastUpdate_Achievements": "2024-01-13T04:10:09.7179848+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:00:33.5939574+00:00",
+  "LastUpdate_Achievements": "2024-01-13T05:10:31.6377799+00:00"
 }

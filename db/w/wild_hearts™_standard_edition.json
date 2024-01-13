@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1350,
+  "EOS_Progressed": 1351,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
@@ -4383,6 +4383,11 @@
       "Time": "2024-01-13T03:09:45.4545774+00:00",
       "NumProgressed": 1350,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-13T05:10:02.8195532+00:00",
+      "NumProgressed": 1351,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -4395,7 +4400,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1350
+      "UsersEstimate": 1351
     },
     {
       "ID": "achievement_10",
@@ -4403,7 +4408,7 @@
       "Name": "Karakuri Trail",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "achievement_11",
@@ -4411,7 +4416,7 @@
       "Name": "Karakuri Isle",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "achievement_12",
@@ -4427,7 +4432,7 @@
       "Name": "Karakuri Fortress",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "achievement_14",
@@ -4443,7 +4448,7 @@
       "Name": "Memory Rouser",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "achievement_16",
@@ -4459,15 +4464,15 @@
       "Name": "Master of the Skies",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "achievement_18",
       "SetID": "2cpn27e",
       "Name": "Man-Machine Master",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 662
+      "UsersEstimate": 648
     },
     {
       "ID": "achievement_19",
@@ -4507,7 +4512,7 @@
       "Name": "Kemono Hunter",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "achievement_23",
@@ -4587,7 +4592,7 @@
       "Name": "Snare Specialist",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "achievement_32",
@@ -4595,7 +4600,7 @@
       "Name": "Style Seeker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "achievement_33",
@@ -4611,7 +4616,7 @@
       "Name": "Kemono at Heart",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "achievement_35",
@@ -4619,7 +4624,7 @@
       "Name": "Unrivaled in Arms",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "achievement_36",
@@ -4635,7 +4640,7 @@
       "Name": "Hidden History",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "achievement_38",
@@ -4649,9 +4654,9 @@
       "ID": "achievement_39",
       "SetID": "2cpn27e",
       "Name": "Big Spender",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_4",
@@ -4659,7 +4664,7 @@
       "Name": "Axer of Auspice",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "achievement_40",
@@ -4675,7 +4680,7 @@
       "Name": "Tsukumo Whisperer",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "achievement_42",
@@ -4683,7 +4688,7 @@
       "Name": "Quintessence of Form",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "achievement_43",
@@ -4723,7 +4728,7 @@
       "Name": "Threaded Harmony",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "achievement_48",
@@ -4755,7 +4760,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "achievement_8",
@@ -4778,13 +4783,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1350,
+      "Progressed": 1351,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-13T04:09:42.9811666+00:00",
+  "LastChanged_Achievements": "2024-01-13T05:10:02.8195529+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:30.0899668+00:00",
-  "LastUpdate_Ratings": "2024-01-13T03:58:28.4800696+00:00",
-  "LastUpdate_Achievements": "2024-01-13T04:09:42.981217+00:00"
+  "LastUpdate_Ratings": "2024-01-13T04:58:27.7757708+00:00",
+  "LastUpdate_Achievements": "2024-01-13T05:10:02.8196347+00:00"
 }

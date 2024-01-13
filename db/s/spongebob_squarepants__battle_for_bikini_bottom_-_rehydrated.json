@@ -353,9 +353,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 973,
+  "EOS_Progressed": 974,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -2628,6 +2628,11 @@
       "Time": "2024-01-13T03:04:59.0652302+00:00",
       "NumProgressed": 973,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-13T05:05:17.4334409+00:00",
+      "NumProgressed": 974,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2712,7 +2717,7 @@
       "Name": "Jellyfishing",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -2720,7 +2725,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -2760,7 +2765,7 @@
       "Name": "Sweet Victory",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -2840,7 +2845,7 @@
       "Name": "Sock Getter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -2862,9 +2867,9 @@
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
       "SetID": "biiejkc",
       "Name": "Squirrel Smasher",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_STAT_STAR_SMASHER",
@@ -2895,15 +2900,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 973,
+      "Progressed": 974,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-13T04:05:00.399558+00:00",
+  "LastChanged_Achievements": "2024-01-13T05:05:17.4334405+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-13T03:58:59.169153+00:00",
-  "LastUpdate_Achievements": "2024-01-13T04:05:00.3995913+00:00"
+  "LastUpdate_Ratings": "2024-01-13T04:59:07.5173147+00:00",
+  "LastUpdate_Achievements": "2024-01-13T05:05:17.4334802+00:00"
 }

@@ -5,46 +5,46 @@ Rating: 4.39 (Ranked 785)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tootorial | 66.00% | ~66,147 |
-| Wind Master | 52.00% | ~52,115 |
-| Hook, Line and Stinker | 15.00% | ~15,033 |
-| Davy Jones | 15.00% | ~15,033 |
-| Nice Shootin' Duds | 4.00% | ~4,009 |
-| Race In Yo Face | 3.00% | ~3,007 |
-| Gateway Slug | 3.00% | ~3,007 |
-| Baby's First Thingamabob | 2.00% | ~2,004 |
-| Boarding Party | 2.00% | ~2,004 |
-| Great Balls Of Fire | 1.00% | ~1,002 |
-| Light Up the Night | 1.00% | ~1,002 |
-| By The Power Of Underskull | 0.90% | ~902 |
-| I Don't Like The Slugs | 0.90% | ~902 |
-| This Is Fine | 0.50% | ~501 |
-| Pengy Fun | 0.50% | ~501 |
-| Enter The Croakers | 0.30% | ~301 |
-| Snapping Turtle | 0.20% | ~200 |
-| Fish Kabob | 0.20% | ~200 |
-| But The Slugs Like Me | 0.20% | ~200 |
-| Polar Pontification | 0.10% | ~100 |
-| What's Krakalackin? | 0.10% | ~100 |
-| Aggro Kreb | 0.10% | ~100 |
-| Total Eclipse of the Eel | 0.10% | ~100 |
-| No More Splosions | 0.10% | ~100 |
-| Lights Out | 0.10% | ~100 |
-| Built For Speed | 0.10% | ~100 |
-| Crackshot | 0.10% | ~100 |
-| Whosits And Whatsits Galore | 0.10% | ~100 |
-| Sweeter Than Honey | 0.10% | ~100 |
-| Blowfish Me Down | 0.10% | ~100 |
-| Over The Moon | 0.10% | ~100 |
-| Crovert Ops | 0.10% | ~100 |
-| Tekk Savvy | 0.10% | ~100 |
-| Fish And Tips | 0.10% | ~100 |
-| Crushed Ice | 0.10% | ~100 |
-| This Magik Moment | 0.10% | ~100 |
-| Fish On | 0.10% | ~100 |
-| 1.21 Ribbitwatts | 0.10% | ~100 |
-| Guiding Light | 0.10% | ~100 |
-| For Whom The Bells Toll | 0.10% | ~100 |
+| Tootorial | 66.00% | ~67,458 |
+| Wind Master | 52.00% | ~53,149 |
+| Hook, Line and Stinker | 15.00% | ~15,331 |
+| Davy Jones | 15.00% | ~15,331 |
+| Nice Shootin' Duds | 4.00% | ~4,088 |
+| Race In Yo Face | 3.00% | ~3,066 |
+| Gateway Slug | 3.00% | ~3,066 |
+| Baby's First Thingamabob | 2.00% | ~2,044 |
+| Boarding Party | 2.00% | ~2,044 |
+| Great Balls Of Fire | 1.00% | ~1,022 |
+| Light Up the Night | 1.00% | ~1,022 |
+| By The Power Of Underskull | 0.90% | ~920 |
+| I Don't Like The Slugs | 0.90% | ~920 |
+| This Is Fine | 0.50% | ~511 |
+| Pengy Fun | 0.50% | ~511 |
+| Enter The Croakers | 0.30% | ~307 |
+| But The Slugs Like Me | 0.30% | ~307 |
+| Snapping Turtle | 0.20% | ~204 |
+| Fish Kabob | 0.20% | ~204 |
+| Polar Pontification | 0.10% | ~102 |
+| What's Krakalackin? | 0.10% | ~102 |
+| Aggro Kreb | 0.10% | ~102 |
+| Total Eclipse of the Eel | 0.10% | ~102 |
+| No More Splosions | 0.10% | ~102 |
+| Lights Out | 0.10% | ~102 |
+| Built For Speed | 0.10% | ~102 |
+| Crackshot | 0.10% | ~102 |
+| Whosits And Whatsits Galore | 0.10% | ~102 |
+| Sweeter Than Honey | 0.10% | ~102 |
+| Blowfish Me Down | 0.10% | ~102 |
+| Over The Moon | 0.10% | ~102 |
+| Crovert Ops | 0.10% | ~102 |
+| Tekk Savvy | 0.10% | ~102 |
+| Fish And Tips | 0.10% | ~102 |
+| Crushed Ice | 0.10% | ~102 |
+| This Magik Moment | 0.10% | ~102 |
+| Fish On | 0.10% | ~102 |
+| 1.21 Ribbitwatts | 0.10% | ~102 |
+| Guiding Light | 0.10% | ~102 |
+| For Whom The Bells Toll | 0.10% | ~102 |
 | All Good Things... | 0.00% | ~0 |
 | Croaker Command's Most Wanted | 0.00% | ~0 |
 | In Service Of Glory And Valor | 0.00% | ~0 |
@@ -53,7 +53,7 @@ Rating: 4.39 (Ranked 785)
 | Shooting Star | 0.00% | ~0 |
 | Don't I Know You? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100,222 (Ranked 100)  
+Progressed: 102,209 (Ranked 100)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-05 | 2 | 0 |
 | 2024-01-11 | 21,760 | 0 |
 | 2024-01-12 | 90,065 | 0 |
-| 2024-01-13 | 100,222 | 0 |
+| 2024-01-13 | 102,209 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

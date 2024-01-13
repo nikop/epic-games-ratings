@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2188,10 +2188,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1925,
       "NumberOfAwardsMax": 230
+    },
+    {
+      "Time": "2024-01-13T04:59:13.8910854+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1926,
+      "NumberOfAwardsMax": 230
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1925,
+  "NumberOfAwards": 1926,
   "NumberOfAwardsMax": 230,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2217,7 +2223,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 219
+      "Count": 220
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2268,9 +2274,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16580,
+  "EOS_Progressed": 16583,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19808,6 +19814,11 @@
       "Time": "2024-01-13T04:10:20.1664763+00:00",
       "NumProgressed": 16580,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T05:10:42.5256568+00:00",
+      "NumProgressed": 16583,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -22625,9 +22636,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ROYAL_LIBRARY",
       "SetID": "9201eeb",
       "Name": "Royal Library",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_YAZILIKAYA",
@@ -22682,21 +22693,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16580,
+      "Progressed": 16583,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16580,
+      "Progressed": 16583,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-01-13T02:58:46.3125041+00:00",
-  "LastChanged_Achievements": "2024-01-13T04:10:20.1664756+00:00",
+  "LastChanged": "2024-01-13T04:59:13.8910853+00:00",
+  "LastChanged_Achievements": "2024-01-13T05:10:42.5256563+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-13T03:59:04.9588856+00:00",
-  "LastUpdate_Achievements": "2024-01-13T04:10:20.1674551+00:00"
+  "LastUpdate_Ratings": "2024-01-13T04:59:13.8910858+00:00",
+  "LastUpdate_Achievements": "2024-01-13T05:10:42.5268325+00:00"
 }

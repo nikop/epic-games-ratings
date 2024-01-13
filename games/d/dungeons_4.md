@@ -1,7 +1,7 @@
 # Dungeons 4
 [Store](https://store.epicgames.com/en-US/p/dungeons-4-595454)  
 [View Rawdata](../../db/d/dungeons_4.json)  
-Rating: 4.75 (Ranked 150)  
+Rating: 4.75 (Ranked 149)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,9 +17,9 @@ Rating: 4.75 (Ranked 150)
 | Heroes’ Gorge | 65.00% | ~495 |
 | Unicorn steaks – fresh off the hoof! | 63.00% | ~480 |
 | Master of Magic | 62.00% | ~472 |
+| The Ascent | 60.00% | ~457 |
+| It's Warm and Cozy at Home | 60.00% | ~457 |
 | Magic Accidents | 59.00% | ~450 |
-| The Ascent | 59.00% | ~450 |
-| It's Warm and Cozy at Home | 59.00% | ~450 |
 | Trap Master | 56.00% | ~427 |
 | Minions, Minions! | 56.00% | ~427 |
 | Hard Work | 55.00% | ~419 |
@@ -29,8 +29,8 @@ Rating: 4.75 (Ranked 150)
 | The Cathedral of Light | 49.00% | ~373 |
 | Shame! Shame! Shame! | 48.00% | ~366 |
 | Tanos' Crusade Against Thalya | 47.00% | ~358 |
+| Pure Dynamite! | 46.00% | ~351 |
 | Dungeonlord Gorgu | 46.00% | ~351 |
-| Pure Dynamite! | 45.00% | ~343 |
 | All’s Well That Ends Evil | 43.00% | ~328 |
 | Mana Cannon | 42.00% | ~320 |
 | The Duel | 40.00% | ~305 |

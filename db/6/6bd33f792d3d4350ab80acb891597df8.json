@@ -730,17 +730,17 @@
       "ID": "CgkIxYDzrbcPEAIQBQ",
       "SetID": "4egpam7",
       "Name": "Man of Faith",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBg",
       "SetID": "4egpam7",
       "Name": "Uninvited Guests",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBw",
@@ -818,9 +818,9 @@
       "ID": "CgkIxYDzrbcPEAIQEA",
       "SetID": "4egpam7",
       "Name": "Collector of Secrets",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEQ",
@@ -945,8 +945,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2024-01-13T04:08:40.1479256+00:00",
+  "LastChanged_Achievements": "2024-01-13T05:08:55.199944+00:00",
   "LastUpdate_AppInfo": "2024-01-10T04:57:09.2024911+00:00",
-  "LastUpdate_Ratings": "2024-01-13T04:00:16.3251866+00:00",
-  "LastUpdate_Achievements": "2024-01-13T04:08:40.1479494+00:00"
+  "LastUpdate_Ratings": "2024-01-13T05:00:30.2017115+00:00",
+  "LastUpdate_Achievements": "2024-01-13T05:08:55.1999693+00:00"
 }
