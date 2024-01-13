@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -91,9 +91,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2273,
+  "EOS_Progressed": 2274,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4386,6 +4386,11 @@
       "Time": "2024-01-12T23:10:16.6777541+00:00",
       "NumProgressed": 2273,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-13T01:58:30.3149192+00:00",
+      "NumProgressed": 2274,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4397,7 +4402,7 @@
       "Name": "Break Out",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "ACH_02",
@@ -4509,7 +4514,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACH_16",
@@ -4517,7 +4522,7 @@
       "Name": "Essence Blow",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH_17",
@@ -4629,7 +4634,7 @@
       "Name": "Alchemist",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH_31",
@@ -4637,7 +4642,7 @@
       "Name": "Stone Collection",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACH_33",
@@ -4684,7 +4689,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2273,
+      "Progressed": 2274,
       "Completed": 3
     }
   ],
@@ -4692,8 +4697,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-11T14:57:15.6904807+00:00",
-  "LastChanged_Achievements": "2024-01-13T00:11:00.8391525+00:00",
+  "LastChanged_Achievements": "2024-01-13T01:58:30.314919+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-12T23:58:21.6362768+00:00",
-  "LastUpdate_Achievements": "2024-01-13T00:11:00.8391906+00:00"
+  "LastUpdate_Ratings": "2024-01-13T01:45:20.9729197+00:00",
+  "LastUpdate_Achievements": "2024-01-13T01:58:30.3149645+00:00"
 }

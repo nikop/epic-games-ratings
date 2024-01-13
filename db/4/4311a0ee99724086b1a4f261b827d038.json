@@ -3,8 +3,8 @@
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 530,
-  "Ranking_Popularity": 500,
-  "Ranking_PopularitySum": 415,
+  "Ranking_Popularity": 497,
+  "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 93,
@@ -807,18 +807,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 207,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2024-01-13T01:48:46.6284055+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 208,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 207,
-  "NumberOfAwardsMax": 36,
+  "NumberOfAwards": 208,
+  "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game is Relaxing",
@@ -881,9 +887,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 242865,
+  "EOS_Progressed": 242885,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1230,
+  "EOS_NewPlayers": 1237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21026,6 +21032,11 @@
       "Time": "2024-01-13T00:10:55.4926768+00:00",
       "NumProgressed": 242865,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T01:58:24.9641533+00:00",
+      "NumProgressed": 242885,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -21094,7 +21105,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 51002
+      "UsersEstimate": 51006
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -21102,7 +21113,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21858
+      "UsersEstimate": 21860
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -21110,7 +21121,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 12143
+      "UsersEstimate": 12144
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -21126,7 +21137,7 @@
       "Name": "Great Wastelands (part 2) Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4857
+      "UsersEstimate": 4858
     },
     {
       "ID": "HW1_MISSION6_COMPLETE",
@@ -21134,7 +21145,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7286
+      "UsersEstimate": 7287
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -21142,7 +21153,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7286
+      "UsersEstimate": 7287
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -21150,7 +21161,7 @@
       "Name": "The Cathedral of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4857
+      "UsersEstimate": 4858
     },
     {
       "ID": "HW1_MISSION9_COMPLETE",
@@ -21158,7 +21169,7 @@
       "Name": "Sea of Lost Souls Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4857
+      "UsersEstimate": 4858
     },
     {
       "ID": "HW1_TUTORIAL_COMPLETE",
@@ -21196,9 +21207,9 @@
       "ID": "HW2_MISSION13_COMPLETE",
       "SetID": "ae07go3",
       "Name": "Balcora Gate Complete",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1700
     },
     {
       "ID": "HW2_MISSION14_COMPLETE",
@@ -21222,7 +21233,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 34001
+      "UsersEstimate": 34004
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -21230,7 +21241,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 17001
+      "UsersEstimate": 17002
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -21238,7 +21249,7 @@
       "Name": "Sarum Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4857
+      "UsersEstimate": 4858
     },
     {
       "ID": "HW2_MISSION4_COMPLETE",
@@ -21294,7 +21305,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60716
+      "UsersEstimate": 60721
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -21302,23 +21313,23 @@
       "Name": "Raiders Retreat Complete",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     }
   ],
   "AchievementSets": [
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 242865,
+      "Progressed": 242885,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2024-01-10T03:59:20.6689228+00:00",
-  "LastChanged_Achievements": "2024-01-13T00:10:55.4926764+00:00",
+  "LastChanged": "2024-01-13T01:48:46.6284054+00:00",
+  "LastChanged_Achievements": "2024-01-13T01:58:24.964153+00:00",
   "LastUpdate_AppInfo": "2024-01-12T07:57:02.6941027+00:00",
-  "LastUpdate_Ratings": "2024-01-13T00:01:38.3062892+00:00",
-  "LastUpdate_Achievements": "2024-01-13T00:10:55.4928046+00:00"
+  "LastUpdate_Ratings": "2024-01-13T01:48:46.6284058+00:00",
+  "LastUpdate_Achievements": "2024-01-13T01:58:24.9642904+00:00"
 }

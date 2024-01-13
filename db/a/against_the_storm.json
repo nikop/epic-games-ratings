@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3861,10 +3861,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3375,
       "NumberOfAwardsMax": 452
+    },
+    {
+      "Time": "2024-01-13T01:48:10.4149178+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3377,
+      "NumberOfAwardsMax": 452
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3375,
+  "NumberOfAwards": 3377,
   "NumberOfAwardsMax": 452,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3884,7 +3890,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 406
+      "Count": 408
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3929,9 +3935,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 20730,
+  "EOS_Progressed": 20731,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 496,
+  "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19454,6 +19460,11 @@
       "Time": "2024-01-13T00:07:27.1668011+00:00",
       "NumProgressed": 20730,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-13T01:54:37.5908916+00:00",
+      "NumProgressed": 20731,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19682,7 +19693,7 @@
       "Name": "Royal Outpost",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "WinNearRuins",
@@ -19722,7 +19733,7 @@
       "Name": "Watchtower",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "WinOnCoral",
@@ -19874,7 +19885,7 @@
       "Name": "Frosts",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "WinNearGreed",
@@ -19882,7 +19893,7 @@
       "Name": "Land of Greed",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "WinNearLibrary",
@@ -19937,15 +19948,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20730,
+      "Progressed": 20731,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-12T21:59:34.0146742+00:00",
-  "LastChanged_Achievements": "2024-01-13T00:07:27.1668005+00:00",
+  "LastChanged": "2024-01-13T01:48:10.4149177+00:00",
+  "LastChanged_Achievements": "2024-01-13T01:54:37.5908913+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-13T00:01:02.8694383+00:00",
-  "LastUpdate_Achievements": "2024-01-13T00:07:27.1669002+00:00"
+  "LastUpdate_Ratings": "2024-01-13T01:48:10.4149181+00:00",
+  "LastUpdate_Achievements": "2024-01-13T01:54:37.5909945+00:00"
 }

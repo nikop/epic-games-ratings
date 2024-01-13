@@ -18,10 +18,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 6.00% | ~1,244 |
 | Ominous Presence | 6.00% | ~1,244 |
 | Gathering Storm | 6.00% | ~1,244 |
-| Royal Outpost | 5.00% | ~1,036 |
-| Watchtower | 5.00% | ~1,036 |
-| Frosts | 5.00% | ~1,036 |
-| Land of Greed | 5.00% | ~1,036 |
+| Royal Outpost | 5.00% | ~1,037 |
+| Watchtower | 5.00% | ~1,037 |
+| Frosts | 5.00% | ~1,037 |
+| Land of Greed | 5.00% | ~1,037 |
 | Homesick | 4.00% | ~829 |
 | Fertile Meadows | 4.00% | ~829 |
 | Levitating Monument | 4.00% | ~829 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,730 (Ranked 155)  
+Progressed: 20,731 (Ranked 155)  
 Completed: 34 (0.16%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,10 +334,10 @@ Completed: 34 (0.16%) (Ranked 287)
 | 2024-01-10 | 20,658 | 34 |
 | 2024-01-11 | 20,700 | 34 |
 | 2024-01-12 | 20,729 | 34 |
-| 2024-01-13 | 20,730 | 34 |
+| 2024-01-13 | 20,731 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
-Sum: 3,375 (Ranked 177)  
+Sum: 3,377 (Ranked 177)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -345,7 +345,7 @@ Diff (max vs sum): 56
 | This game is Relaxing | 450 |
 | This game is Great for Beginners | 447 |
 | This game is Extremely Fun | 421 |
-| This game is Highly Recommended | 406 |
+| This game is Highly Recommended | 408 |
 | This game has Unique Visuals | 348 |
 | This game has Amazing Storytelling | 334 |
 | This game has Amazing Characters | 296 |
@@ -637,3 +637,4 @@ Diff (max vs sum): 56
 | 2024-01-10 | 4.82 | - | 452 | 3,369 |
 | 2024-01-11 | 4.82 | - | 452 | 3,371 |
 | 2024-01-12 | 4.82 | - | 452 | 3,375 |
+| 2024-01-13 | 4.82 | - | 452 | 3,377 |

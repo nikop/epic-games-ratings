@@ -1879,9 +1879,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167865,
+  "EOS_Progressed": 167880,
   "EOS_Completed": 456,
-  "EOS_NewPlayers": 1157,
+  "EOS_NewPlayers": 1159,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22864,6 +22864,11 @@
       "Time": "2024-01-13T00:07:02.3284906+00:00",
       "NumProgressed": 167865,
       "NumCompleted": 456
+    },
+    {
+      "Time": "2024-01-13T01:54:11.7427165+00:00",
+      "NumProgressed": 167880,
+      "NumCompleted": 456
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22948,7 +22953,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3357
+      "UsersEstimate": 3358
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -22956,7 +22961,7 @@
       "Name": "Hunt Down",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -23044,7 +23049,7 @@
       "Name": "Inevitable",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -23084,7 +23089,7 @@
       "Name": "All-Seeing",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -23243,21 +23248,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167448,
+      "Progressed": 167463,
       "Completed": 1263
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167865,
+      "Progressed": 167880,
       "Completed": 456
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-12T18:57:16.5787168+00:00",
-  "LastChanged_Achievements": "2024-01-13T00:07:02.3284902+00:00",
+  "LastChanged_Achievements": "2024-01-13T01:54:11.7427162+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-12T23:57:33.6696576+00:00",
-  "LastUpdate_Achievements": "2024-01-13T00:07:02.3286364+00:00"
+  "LastUpdate_Ratings": "2024-01-13T01:44:30.5689347+00:00",
+  "LastUpdate_Achievements": "2024-01-13T01:54:11.7428699+00:00"
 }

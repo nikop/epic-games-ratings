@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -71,10 +71,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 761,
+  "EOS_Progressed": 762,
   "EOS_Completed": 31,
   "EOS_NewPlayers": 32,
-  "EOS_NewCompleters": 2,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.07,
   "EosHistory": [
     {
@@ -2441,6 +2441,11 @@
       "Time": "2024-01-12T21:09:17.8858122+00:00",
       "NumProgressed": 761,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2024-01-13T01:57:30.9900022+00:00",
+      "NumProgressed": 762,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -2453,7 +2458,7 @@
       "Name": "The Last Stand",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "ach_main01begin_die",
@@ -2461,7 +2466,7 @@
       "Name": "Thalya\u00A0\u2013 Simply Immortal",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "ach_main01begin_storm",
@@ -2469,7 +2474,7 @@
       "Name": "Thalya\u0027s Concentrated Fury",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "ach_main02horde_completed",
@@ -2477,7 +2482,7 @@
       "Name": "Hammer Time, Round Two",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -2493,7 +2498,7 @@
       "Name": "Trap Master",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ach_main03demon_completed",
@@ -2501,7 +2506,7 @@
       "Name": "The Hellwoods",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ach_main03demon_doors",
@@ -2517,7 +2522,7 @@
       "Name": "Magic Accidents",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ach_main04undead_completed",
@@ -2533,7 +2538,7 @@
       "Name": "Minions, Minions!",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ach_main04undead_sacrifice",
@@ -2549,7 +2554,7 @@
       "Name": "Bad Elves Go Everywhere",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -2557,7 +2562,7 @@
       "Name": "Experienced Thalya",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "ach_main05evil_unicorn",
@@ -2565,15 +2570,15 @@
       "Name": "Unicorn steaks\u00A0\u2013 fresh off the hoof!",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ach_main06transporter_completed",
       "SetID": "4hg22ll",
       "Name": "Heroes\u2019 Gorge",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 495
     },
     {
       "ID": "ach_main06transporter_towers",
@@ -2589,7 +2594,7 @@
       "Name": "YOU SHALL NOT PASS!",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ach_main07storm_classified",
@@ -2605,7 +2610,7 @@
       "Name": "The Ascent",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ach_main07storm_dynamite",
@@ -2613,7 +2618,7 @@
       "Name": "Pure Dynamite!",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ach_main07storm_storm",
@@ -2621,7 +2626,7 @@
       "Name": "It\u0027s Warm and Cozy at Home",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ach_main08sacrifice_completed",
@@ -2653,7 +2658,7 @@
       "Name": "\u201C\u2026 like son\u201D",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ach_main09journey_killheroes",
@@ -2661,7 +2666,7 @@
       "Name": "Dungeonlord Gorgu",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ach_main09journey_nospells",
@@ -2669,7 +2674,7 @@
       "Name": "Forbidden Knowledge",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ach_main10fire_completed",
@@ -2693,7 +2698,7 @@
       "Name": "Shame! Shame! Shame!",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ach_main11blessing_completed",
@@ -2725,7 +2730,7 @@
       "Name": "All\u2019s Well That Ends Evil",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "ach_main12race_tanosevilness",
@@ -2749,7 +2754,7 @@
       "Name": "The Duel",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ach_main13tanos_dungeonlord",
@@ -2781,7 +2786,7 @@
       "Name": "Mirror, Mirror",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ach_main14run_roomdamage",
@@ -2797,7 +2802,7 @@
       "Name": "The Finitude Drill",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ach_main15drill_sabotage",
@@ -2813,15 +2818,15 @@
       "Name": "Untouchable",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ach_main16ring_completed",
       "SetID": "4hg22ll",
       "Name": "Doom Hill",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 236
     },
     {
       "ID": "ach_main16ring_lavalings",
@@ -2837,7 +2842,7 @@
       "Name": "Rubble and Ashes",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ach_main17stone_completed",
@@ -2853,7 +2858,7 @@
       "Name": "Brimstone Shaken, Not Stirred",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ach_main17stone_transporter",
@@ -2940,7 +2945,7 @@
     {
       "ID": "4hg22ll",
       "IsBase": true,
-      "Progressed": 761,
+      "Progressed": 762,
       "Completed": 31
     }
   ],
@@ -2948,8 +2953,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-08T17:59:07.5685099+00:00",
-  "LastChanged_Achievements": "2024-01-13T00:10:04.0923536+00:00",
+  "LastChanged_Achievements": "2024-01-13T01:57:30.9900018+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-12T23:00:37.3276213+00:00",
-  "LastUpdate_Achievements": "2024-01-13T00:10:04.0924238+00:00"
+  "LastUpdate_Ratings": "2024-01-13T01:44:09.375364+00:00",
+  "LastUpdate_Achievements": "2024-01-13T01:57:30.9900609+00:00"
 }

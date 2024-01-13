@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
     "PcReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6465,
+  "EOS_Progressed": 6488,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1899,
+  "EOS_NewPlayers": 1891,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2184,6 +2184,11 @@
       "Time": "2024-01-13T00:09:07.5233161+00:00",
       "NumProgressed": 6465,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T01:56:31.3749421+00:00",
+      "NumProgressed": 6488,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 16,
@@ -2195,15 +2200,15 @@
       "Name": "All Dead, All Dead",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1103
     },
     {
       "ID": "ACH_COOL_CAT",
       "SetID": "ca3jj1k",
       "Name": "Cool Cat",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_FRIENDS",
@@ -2211,7 +2216,7 @@
       "Name": "Friends Will Be Friends",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_GOOD_COMPANY",
@@ -2227,7 +2232,7 @@
       "Name": "Keep Yourself Alive",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1687
     },
     {
       "ID": "ACH_KILLER_QUEEN",
@@ -2251,7 +2256,7 @@
       "Name": "Misfire",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 970
+      "UsersEstimate": 973
     },
     {
       "ID": "ACH_NOW_IM_HERE",
@@ -2259,7 +2264,7 @@
       "Name": "Now I\u0027m Here",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 2909
+      "UsersEstimate": 2920
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -2275,7 +2280,7 @@
       "Name": "Rock It",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_THE_HERO",
@@ -2283,7 +2288,7 @@
       "Name": "The Hero",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 3297
+      "UsersEstimate": 3309
     },
     {
       "ID": "ACH_THE_HITMAN",
@@ -2291,7 +2296,7 @@
       "Name": "The Hitman",
       "Percentage": 27,
       "XP": 75,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1752
     },
     {
       "ID": "ACH_THE_INVISIBLE",
@@ -2299,7 +2304,7 @@
       "Name": "The Invisible Man",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1038
     },
     {
       "ID": "ACH_THE_MIRACLE",
@@ -2307,7 +2312,7 @@
       "Name": "The Miracle",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 646
+      "UsersEstimate": 649
     },
     {
       "ID": "ACH_WE_WILL_ROCK_YOU",
@@ -2315,14 +2320,14 @@
       "Name": "We Will Rock You",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 517
+      "UsersEstimate": 519
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 6465,
+      "Progressed": 6488,
       "Completed": 5
     }
   ],
@@ -2330,8 +2335,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2024-01-13T00:09:07.5233158+00:00",
+  "LastChanged_Achievements": "2024-01-13T01:56:31.3749419+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:56:54.4877584+00:00",
-  "LastUpdate_Ratings": "2024-01-13T00:01:30.1458745+00:00",
-  "LastUpdate_Achievements": "2024-01-13T00:09:07.5233305+00:00"
+  "LastUpdate_Ratings": "2024-01-13T01:48:38.6432561+00:00",
+  "LastUpdate_Achievements": "2024-01-13T01:56:31.3749629+00:00"
 }

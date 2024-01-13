@@ -10,9 +10,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 0.50% | ~2,488 |
 | That is mine! | 0.50% | ~2,488 |
 | Victorious! | 0.50% | ~2,488 |
-| Brothers in Arms | 0.40% | ~1,990 |
-| That's a Grand Navy | 0.40% | ~1,990 |
-| Seriously?! | 0.40% | ~1,990 |
+| Brothers in Arms | 0.40% | ~1,991 |
+| That's a Grand Navy | 0.40% | ~1,991 |
+| Seriously?! | 0.40% | ~1,991 |
 | Cold War | 0.30% | ~1,493 |
 | True Catholic | 0.30% | ~1,493 |
 | Blockader | 0.20% | ~995 |
@@ -159,6 +159,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Iron Price | 0.10% | ~498 |
 | Isn't this the way to India? | 0.10% | ~498 |
 | Italian Ambition | 0.10% | ~498 |
+| It's All Greek To Me | 0.10% | ~498 |
 | Je maintiendrai | 0.10% | ~498 |
 | Just a Little Patience | 0.10% | ~498 |
 | Just Resting In My Account | 0.10% | ~498 |
@@ -346,7 +347,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Gothic Invasion | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
 | Hoarder | 0.00% | ~0 |
-| It's All Greek To Me | 0.00% | ~0 |
 | Jihad | 0.00% | ~0 |
 | Knights of the Caribbean | 0.00% | ~0 |
 | Kuban Cigars | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 497,586 (Ranked 42)  
+Progressed: 497,627 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -638,21 +638,21 @@ Completed: 1 (0.00%) (Ranked 399)
 | 2024-01-10 | 496,402 | 1 |
 | 2024-01-11 | 496,921 | 1 |
 | 2024-01-12 | 497,567 | 1 |
-| 2024-01-13 | 497,586 | 1 |
+| 2024-01-13 | 497,627 | 1 |
 ## Awards
 Max (Educational): 7,824  (Ranked 52)  
-Sum: 64,437 (Ranked 24)  
+Sum: 64,469 (Ranked 24)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,824 |
 | This game has Diverse Characters | 7,662 |
 | This game is Highly Recommended | 7,491 |
-| This game has Challenging Combat | 7,436 |
+| This game has Challenging Combat | 7,454 |
 | This game is Extremely Fun | 7,321 |
 | This game is Relaxing | 7,158 |
 | This game has Competitive Players | 7,008 |
-| This game has Amazing Storytelling | 6,511 |
+| This game has Amazing Storytelling | 6,525 |
 | This game has Amazing Characters | 6,026 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -1019,3 +1019,4 @@ Diff (max vs sum): 28
 | 2024-01-10 | 4.69 | - | 7,790 | 64,245 |
 | 2024-01-11 | 4.69 | - | 7,804 | 64,342 |
 | 2024-01-12 | 4.69 | - | 7,824 | 64,437 |
+| 2024-01-13 | 4.69 | - | 7,824 | 64,469 |

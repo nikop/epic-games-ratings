@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 273,
+  "EOS_Progressed": 274,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1229,6 +1229,11 @@
       "Time": "2024-01-12T21:09:05.2773175+00:00",
       "NumProgressed": 273,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T01:57:13.0591807+00:00",
+      "NumProgressed": 274,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1241,7 +1246,7 @@
       "Name": "Abdication",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "SG_ACROSSTHESTYX",
@@ -1265,7 +1270,7 @@
       "Name": "All The Help You Need",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "SG_ARROWOFEROSUNDONE",
@@ -1391,9 +1396,9 @@
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 118
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1457,7 +1462,7 @@
       "Name": "The Choice Is Yours",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "SG_THEDEEPEND",
@@ -1536,14 +1541,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 273,
+      "Progressed": 274,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-13T00:09:47.2809865+00:00",
+  "LastChanged_Achievements": "2024-01-13T01:57:13.0591804+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:09.0015101+00:00",
-  "LastUpdate_Ratings": "2024-01-12T23:58:26.4226473+00:00",
-  "LastUpdate_Achievements": "2024-01-13T00:09:47.2810199+00:00"
+  "LastUpdate_Ratings": "2024-01-13T01:45:25.8714205+00:00",
+  "LastUpdate_Achievements": "2024-01-13T01:57:13.0592092+00:00"
 }

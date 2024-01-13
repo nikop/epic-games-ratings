@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1447,
+  "EOS_Progressed": 1448,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3839,6 +3839,11 @@
       "Time": "2024-01-12T18:10:03.9285035+00:00",
       "NumProgressed": 1447,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T01:58:39.0940791+00:00",
+      "NumProgressed": 1448,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3850,7 +3855,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3890,7 +3895,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -4056,9 +4061,9 @@
       "ID": "EXTINV_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Think Bullets Will Affect Her?",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 145
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -4122,7 +4127,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -4130,7 +4135,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -4170,7 +4175,7 @@
       "Name": "And There We Go",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -4298,7 +4303,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -4377,14 +4382,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1447,
+      "Progressed": 1448,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-13T00:11:09.5006774+00:00",
+  "LastChanged_Achievements": "2024-01-13T01:58:39.0940788+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:08.9755264+00:00",
-  "LastUpdate_Ratings": "2024-01-12T23:57:39.9098608+00:00",
-  "LastUpdate_Achievements": "2024-01-13T00:11:09.5007694+00:00"
+  "LastUpdate_Ratings": "2024-01-13T01:44:37.4257649+00:00",
+  "LastUpdate_Achievements": "2024-01-13T01:58:39.094156+00:00"
 }

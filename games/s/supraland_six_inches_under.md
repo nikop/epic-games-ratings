@@ -22,8 +22,8 @@ Number of Ratings: 209  (23.09.2022)
 | Magnet | 90.00% | ~2,192 |
 | Industrial Area | 89.00% | ~2,167 |
 | Magnet Repel | 88.00% | ~2,143 |
+| You feel middle classy | 87.00% | ~2,118 |
 | Boomeraxe | 87.00% | ~2,118 |
-| You feel middle classy | 86.00% | ~2,094 |
 | Banking District | 86.00% | ~2,094 |
 | Iron Pickaxe | 86.00% | ~2,094 |
 | Arrested | 85.00% | ~2,070 |

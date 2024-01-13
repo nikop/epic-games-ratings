@@ -6,12 +6,12 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,045 |
-| Lost and Found | 8.00% | ~597 |
-| Autodidact | 7.00% | ~9,282 |
-| This guy... again? | 7.00% | ~522 |
+| Malpractice Assurance | 14.00% | ~1,046 |
+| Autodidact | 8.00% | ~10,608 |
+| Lost and Found | 8.00% | ~598 |
+| This Belongs in a Museum | 7.00% | ~9,282 |
+| This guy... again? | 7.00% | ~523 |
 | Serenity Now! | 6.00% | ~7,956 |
-| This Belongs in a Museum | 6.00% | ~7,956 |
 | Creep and Sleep | 6.00% | ~7,956 |
 | Overdue Notice | 6.00% | ~7,956 |
 | Escape from the Black Hole | 6.00% | ~7,956 |
@@ -27,6 +27,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 5.00% | ~6,630 |
 | A Place to Lay Your Head | 5.00% | ~6,630 |
 | FNG | 5.00% | ~6,630 |
+| Unfulfilled Desires | 4.00% | ~5,304 |
+| Dissector | 4.00% | ~5,304 |
 | Spelunker | 4.00% | ~5,304 |
 | Merry Time | 4.00% | ~5,304 |
 | Harvest Festival | 4.00% | ~5,304 |
@@ -34,17 +36,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 4.00% | ~5,304 |
 | Nope | 4.00% | ~5,304 |
 | Unshackled | 4.00% | ~5,304 |
-| Friends 'Til the End | 4.00% | ~298 |
+| Friends 'Til the End | 4.00% | ~299 |
 | Resurrection | 3.00% | ~3,978 |
 | Unleash Hell | 3.00% | ~3,978 |
 | Funny Guy | 3.00% | ~3,978 |
 | Long Live the King | 3.00% | ~3,978 |
 | Wyrdly Reconstructed | 3.00% | ~3,978 |
 | Boxcar Kid | 3.00% | ~3,978 |
-| Unfulfilled Desires | 3.00% | ~3,978 |
 | Hope Rekindled | 3.00% | ~3,978 |
 | Predator | 3.00% | ~3,978 |
-| Dissector | 3.00% | ~3,978 |
 | Banishment | 3.00% | ~3,978 |
 | Deprogramming | 3.00% | ~3,978 |
 | Now Stay Dead | 3.00% | ~3,978 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,593 (Ranked 91)  
+Progressed: 132,600 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,10 +344,10 @@ Completed: 4 (0.00%) (Ranked 399)
 | 2024-01-10 | 132,395 | 4 |
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
-| 2024-01-13 | 132,593 | 4 |
+| 2024-01-13 | 132,600 | 4 |
 ## Awards
 Max (Character Customization): 8,007  (Ranked 51)  
-Sum: 21,610 (Ranked 58)  
+Sum: 21,612 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -360,7 +360,7 @@ Diff (max vs sum): -7
 | This game has Unique Visuals | 1,467 |
 | This game has Amazing Storytelling | 1,445 |
 | This game has Quickly Understood Controls | 1,416 |
-| This game has a Creative Community | 1,092 |
+| This game has a Creative Community | 1,094 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
 ## Ratings History
@@ -716,3 +716,4 @@ Diff (max vs sum): -7
 | 2024-01-10 | 4.68 | - | 8,000 | 21,576 |
 | 2024-01-11 | 4.68 | - | 8,002 | 21,592 |
 | 2024-01-12 | 4.68 | - | 8,007 | 21,610 |
+| 2024-01-13 | 4.68 | - | 8,007 | 21,612 |

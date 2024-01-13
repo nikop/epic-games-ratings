@@ -4,8 +4,8 @@
 Rating: 4.43 (Ranked 726)  
 ## Awards
 Max (Diverse Characters): 54  (Ranked 446)  
-Sum: 423 (Ranked 350)  
-Diff (max vs sum): 96  
+Sum: 423 (Ranked 351)  
+Diff (max vs sum): 95  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 54 |

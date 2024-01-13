@@ -2,9 +2,9 @@
   "ID": "234c754eae5e42d1b5379daee1c313f1",
   "Name": "GPRO - Classic racing manager",
   "ProductSlug": "classic-racing-manager-679706",
-  "Ranking_EOS_Progress": 348,
+  "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewPlayers": 375,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 540,
+  "EOS_Progressed": 541,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1239,6 +1239,11 @@
       "Time": "2024-01-12T22:09:39.0169556+00:00",
       "NumProgressed": 540,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T01:58:40.1204269+00:00",
+      "NumProgressed": 541,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -1312,9 +1317,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "76k7b7p",
       "Name": "Newbie",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 405
+      "UsersEstimate": 400
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1402,7 +1407,7 @@
       "Name": "Wannabe",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACHIEVEMENT_190",
@@ -2370,7 +2375,7 @@
       "Name": "Photo shoot",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_76",
@@ -2545,14 +2550,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 540,
+      "Progressed": 541,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2024-01-13T00:11:10.3401532+00:00",
+  "LastChanged_Achievements": "2024-01-13T01:58:40.1204266+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:11.952044+00:00",
-  "LastUpdate_Ratings": "2024-01-12T23:58:35.1705047+00:00",
-  "LastUpdate_Achievements": "2024-01-13T00:11:10.3403923+00:00"
+  "LastUpdate_Ratings": "2024-01-13T01:45:35.0286043+00:00",
+  "LastUpdate_Achievements": "2024-01-13T01:58:40.1206789+00:00"
 }

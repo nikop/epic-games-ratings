@@ -10,10 +10,10 @@ Rating: 4.53 (Ranked 567)
 | Celebrations are in Order | 14.00% | ~2,648 |
 | The Pit and the Pirates | 13.00% | ~2,459 |
 | Martian Music | 13.00% | ~2,459 |
+| Drone Dodger | 13.00% | ~2,459 |
 | Bosmang | 13.00% | ~2,459 |
 | Impossible Objects | 13.00% | ~2,459 |
 | Spore Taste | 12.00% | ~2,270 |
-| Drone Dodger | 12.00% | ~2,270 |
 | Stogie for Fogey | 11.00% | ~2,081 |
 | Call it Even | 10.00% | ~1,892 |
 | Safe Cracker | 10.00% | ~487 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 567)
 | Scavenger Star | 0.30% | ~57 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,915 (Ranked 159)  
+Progressed: 18,916 (Ranked 159)  
 Completed: 64 (0.34%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 64 (0.34%) (Ranked 250)
 | 2024-01-10 | 18,829 | 62 |
 | 2024-01-11 | 18,866 | 63 |
 | 2024-01-12 | 18,914 | 64 |
-| 2024-01-13 | 18,915 | 64 |
+| 2024-01-13 | 18,916 | 64 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

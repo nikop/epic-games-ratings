@@ -1,35 +1,35 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.61 (Ranked 400)  
+Rating: 4.61 (Ranked 399)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~451,636 |
-| The Three | 64.00% | ~348,250 |
-| The Banquet | 40.00% | ~217,656 |
-| Devara's Light | 31.00% | ~168,683 |
-| The Iron Ones | 19.00% | ~103,387 |
-| The Village | 17.00% | ~92,504 |
-| The Forest | 15.00% | ~81,621 |
-| Branded | 14.00% | ~76,180 |
-| The Imposter | 14.00% | ~76,180 |
-| The Keep | 14.00% | ~76,180 |
-| The Castle | 11.00% | ~59,855 |
-| The Dome | 9.00% | ~48,973 |
-| The Red Hall | 9.00% | ~48,973 |
-| The Sacrifice | 9.00% | ~48,973 |
-| The Cave | 8.00% | ~43,531 |
-| The Ziggurat | 8.00% | ~43,531 |
+| Find Sanctuary | 83.00% | ~451,644 |
+| The Three | 64.00% | ~348,256 |
+| The Banquet | 40.00% | ~217,660 |
+| Devara's Light | 31.00% | ~168,686 |
+| The Iron Ones | 19.00% | ~103,388 |
+| The Village | 17.00% | ~92,506 |
+| The Forest | 15.00% | ~81,622 |
+| Branded | 14.00% | ~76,181 |
+| The Imposter | 14.00% | ~76,181 |
+| The Keep | 14.00% | ~76,181 |
+| The Castle | 11.00% | ~59,856 |
+| The Dome | 9.00% | ~48,974 |
+| The Red Hall | 9.00% | ~48,974 |
+| The Sacrifice | 9.00% | ~48,974 |
+| The Cave | 8.00% | ~43,532 |
+| The Ziggurat | 8.00% | ~43,532 |
 | The Mire | 7.00% | ~38,090 |
 | The Stone Roots | 7.00% | ~38,090 |
-| Storied | 6.00% | ~32,648 |
-| The Construct | 6.00% | ~32,648 |
-| The Lake | 6.00% | ~32,648 |
-| The Ruins | 6.00% | ~32,648 |
-| The Alkymancery | 5.00% | ~27,207 |
-| The Pitchwoods | 5.00% | ~27,207 |
+| Storied | 6.00% | ~32,649 |
+| The Construct | 6.00% | ~32,649 |
+| The Lake | 6.00% | ~32,649 |
+| The Ruins | 6.00% | ~32,649 |
+| The Alkymancery | 5.00% | ~27,208 |
+| The Pitchwoods | 5.00% | ~27,208 |
 | Honed | 4.00% | ~21,766 |
 | The House of Splendor | 4.00% | ~21,766 |
 | The Crypt | 4.00% | ~21,766 |
@@ -42,9 +42,9 @@ Number of Ratings: 3,114  (23.09.2022)
 | Keepers of Fire and Sky | 2.00% | ~10,883 |
 | Order of the Betrayer | 2.00% | ~10,883 |
 | Wise Words | 2.00% | ~10,883 |
-| Fading Fast | 1.00% | ~5,441 |
+| Fading Fast | 1.00% | ~5,442 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 544,140 (Ranked 36)  
+Progressed: 544,150 (Ranked 36)  
 Completed: 1,681 (0.31%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 1,681 (0.31%) (Ranked 256)
 | 2024-01-10 | 543,970 | 1,678 |
 | 2024-01-11 | 544,055 | 1,679 |
 | 2024-01-12 | 544,136 | 1,681 |
-| 2024-01-13 | 544,140 | 1,681 |
+| 2024-01-13 | 544,150 | 1,681 |
 ## Awards
 Max (Challenging Combat): 298  (Ranked 261)  
 Sum: 2,034 (Ranked 220)  

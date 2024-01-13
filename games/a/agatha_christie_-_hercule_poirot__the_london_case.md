@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marc Allard | 76.00% | ~84 |
-| Little ideas | 74.00% | ~81 |
-| The Ship | 70.00% | ~77 |
-| Seeking the truth | 57.00% | ~63 |
-| An old friend | 55.00% | ~61 |
-| The Gala | 54.00% | ~59 |
-| A curious gathering | 51.00% | ~56 |
-| Little grey cells | 50.00% | ~55 |
+| Marc Allard | 77.00% | ~85 |
+| Little ideas | 74.00% | ~82 |
+| The Ship | 69.00% | ~77 |
+| Seeking the truth | 58.00% | ~64 |
+| An old friend | 54.00% | ~60 |
+| The Gala | 53.00% | ~59 |
+| Little grey cells | 50.00% | ~56 |
+| A curious gathering | 50.00% | ~56 |
 | Impossible is possible | 49.00% | ~54 |
 | Arthur Hastings | 49.00% | ~54 |
 | The Missing Magdalene | 48.00% | ~53 |
-| Everything matters | 45.00% | ~50 |
-| An expert mediator | 44.00% | ~48 |
-| DI Hardwicke | 44.00% | ~48 |
+| Everything matters | 44.00% | ~49 |
+| An expert mediator | 43.00% | ~48 |
+| DI Hardwicke | 43.00% | ~48 |
 | Betty Allen | 38.00% | ~42 |
 | Order and method | 37.00% | ~41 |
 | The Investigation Begins | 36.00% | ~40 |
-| Irene Court-Smyth | 34.00% | ~37 |
-| Ms. Camilla B. Culsham | 33.00% | ~36 |
-| An odd series of events | 32.00% | ~35 |
-| The Apartment | 32.00% | ~35 |
+| Irene Court-Smyth | 33.00% | ~37 |
+| An odd series of events | 32.00% | ~36 |
+| Ms. Camilla B. Culsham | 32.00% | ~36 |
+| The Apartment | 32.00% | ~36 |
 | Nathaniel Dryden | 31.00% | ~34 |
 | A rude awakening | 30.00% | ~33 |
 | Bartholomew | 30.00% | ~33 |
@@ -32,7 +32,7 @@
 | Well-acquainted | 26.00% | ~29 |
 | Anastasia Babanin | 26.00% | ~29 |
 | Zakariya Demir | 25.00% | ~28 |
-| Truth from within | 24.00% | ~26 |
+| Truth from within | 23.00% | ~26 |
 | A curious phrase | 21.00% | ~23 |
 | Evelyn Lakshmi Warbeck | 21.00% | ~23 |
 | The Suspects | 21.00% | ~23 |
@@ -44,15 +44,15 @@
 | Well-travelled | 18.00% | ~20 |
 | Florence Farquhar | 17.00% | ~19 |
 | The Investigation Starts Anew | 17.00% | ~19 |
-| A treasured heirloom | 15.00% | ~16 |
-| The Penitent Magdalene | 15.00% | ~16 |
-| A true performance | 15.00% | ~16 |
+| A treasured heirloom | 14.00% | ~16 |
+| The Penitent Magdalene | 14.00% | ~16 |
+| A true performance | 14.00% | ~16 |
 | The Denouement | 13.00% | ~14 |
 | A perilous journey | 11.00% | ~12 |
 | Perkins | 6.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110 (Ranked 489)  
-Completed: 3 (2.73%) (Ranked 119)  
+Progressed: 111 (Ranked 489)  
+Completed: 3 (2.70%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -117,3 +117,4 @@ Completed: 3 (2.73%) (Ranked 119)
 | 2024-01-09 | 107 | 3 |
 | 2024-01-10 | 109 | 3 |
 | 2024-01-12 | 110 | 3 |
+| 2024-01-13 | 111 | 3 |

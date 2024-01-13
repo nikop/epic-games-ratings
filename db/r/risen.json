@@ -101,7 +101,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 194,
+  "EOS_Progressed": 195,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
@@ -1021,6 +1021,11 @@
       "Time": "2024-01-13T00:11:02.9190376+00:00",
       "NumProgressed": 194,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T01:58:32.3798935+00:00",
+      "NumProgressed": 195,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T08:07:32.4989951+00:00",
@@ -1033,7 +1038,7 @@
       "Name": "The merciful one",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "id_11",
@@ -1055,9 +1060,9 @@
       "ID": "id_14",
       "SetID": "bk9jib6",
       "Name": "Death of a legend",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "id_15",
@@ -1145,7 +1150,7 @@
       "Name": "Titan Lord",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "id_3",
@@ -1153,7 +1158,7 @@
       "Name": "Philanthropist",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "id_30",
@@ -1161,7 +1166,7 @@
       "Name": "Beginner",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "id_32",
@@ -1209,7 +1214,7 @@
       "Name": "Samaritan",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "id_42",
@@ -1241,7 +1246,7 @@
       "Name": "Workaholic",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "id_46",
@@ -1321,7 +1326,7 @@
       "Name": "Safecracker",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "id_55",
@@ -1337,7 +1342,7 @@
       "Name": "Master thief",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "id_57",
@@ -1375,17 +1380,17 @@
       "ID": "id_60",
       "SetID": "bk9jib6",
       "Name": "Adventurer",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 123
     },
     {
       "ID": "id_61",
       "SetID": "bk9jib6",
       "Name": "Map reader",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 125
     },
     {
       "ID": "id_62",
@@ -1409,7 +1414,7 @@
       "Name": "Ladies\u0027 man",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "id_8",
@@ -1432,7 +1437,7 @@
     {
       "ID": "bk9jib6",
       "IsBase": true,
-      "Progressed": 194,
+      "Progressed": 195,
       "Completed": 0
     }
   ],
@@ -1440,8 +1445,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-07T05:57:14.1879387+00:00",
-  "LastChanged_Achievements": "2024-01-13T00:11:02.9190371+00:00",
+  "LastChanged_Achievements": "2024-01-13T01:58:32.3798933+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:37.3559183+00:00",
-  "LastUpdate_Ratings": "2024-01-13T00:01:31.1903454+00:00",
-  "LastUpdate_Achievements": "2024-01-13T00:11:02.9190873+00:00"
+  "LastUpdate_Ratings": "2024-01-13T01:48:39.7797914+00:00",
+  "LastUpdate_Achievements": "2024-01-13T01:58:32.3799288+00:00"
 }

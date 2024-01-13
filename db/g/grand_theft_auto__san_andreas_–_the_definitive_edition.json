@@ -2351,18 +2351,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 1048,
       "NumberOfAwardsMax": 652
+    },
+    {
+      "Time": "2024-01-13T01:50:16.0028085+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1055,
+      "NumberOfAwardsMax": 659
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1048,
-  "NumberOfAwardsMax": 652,
+  "NumberOfAwards": 1055,
+  "NumberOfAwardsMax": 659,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 652
+      "Count": 659
     },
     {
       "Text": "This game is Relaxing",
@@ -2419,9 +2425,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 19443,
+  "EOS_Progressed": 19448,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 925,
+  "EOS_NewPlayers": 922,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -20154,6 +20160,11 @@
       "Time": "2024-01-13T00:10:57.5590087+00:00",
       "NumProgressed": 19443,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-13T01:58:27.0539268+00:00",
+      "NumProgressed": 19448,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 35,
@@ -20165,7 +20176,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15749
+      "UsersEstimate": 15753
     },
     {
       "ID": "ACH02",
@@ -20213,7 +20224,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3694
+      "UsersEstimate": 3695
     },
     {
       "ID": "ACH08",
@@ -20221,7 +20232,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9722
+      "UsersEstimate": 9724
     },
     {
       "ID": "ACH09",
@@ -20261,7 +20272,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3500
+      "UsersEstimate": 3501
     },
     {
       "ID": "ACH14",
@@ -20269,7 +20280,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "ACH15",
@@ -20285,7 +20296,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3305
+      "UsersEstimate": 3306
     },
     {
       "ID": "ACH17",
@@ -20333,7 +20344,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2722
+      "UsersEstimate": 2723
     },
     {
       "ID": "ACH23",
@@ -20341,7 +20352,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4861
+      "UsersEstimate": 4862
     },
     {
       "ID": "ACH24",
@@ -20381,7 +20392,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1555
+      "UsersEstimate": 1556
     },
     {
       "ID": "ACH29",
@@ -20389,7 +20400,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 2722
+      "UsersEstimate": 2723
     },
     {
       "ID": "ACH30",
@@ -20444,16 +20455,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19443,
+      "Progressed": 19448,
       "Completed": 77
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-12T14:03:01.5229403+00:00",
-  "LastChanged_Achievements": "2024-01-13T00:10:57.5590083+00:00",
+  "LastChanged": "2024-01-13T01:50:16.0028084+00:00",
+  "LastChanged_Achievements": "2024-01-13T01:58:27.0539265+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-13T00:03:16.4969008+00:00",
-  "LastUpdate_Achievements": "2024-01-13T00:10:57.5591424+00:00"
+  "LastUpdate_Ratings": "2024-01-13T01:50:16.002809+00:00",
+  "LastUpdate_Achievements": "2024-01-13T01:58:27.0540529+00:00"
 }

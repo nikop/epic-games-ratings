@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -777,9 +777,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7210,
+  "EOS_Progressed": 7211,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 300,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11137,6 +11137,11 @@
       "Time": "2024-01-12T23:04:19.8030161+00:00",
       "NumProgressed": 7210,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-13T01:52:03.195203+00:00",
+      "NumProgressed": 7211,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11196,7 +11201,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "16",
@@ -11268,7 +11273,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "24",
@@ -11284,7 +11289,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "26",
@@ -11300,7 +11305,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "28",
@@ -11348,7 +11353,7 @@
       "Name": "My Final Form",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "33",
@@ -11386,9 +11391,9 @@
       "ID": "37",
       "SetID": "3aa2279",
       "Name": "Against the Odds",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 288
+      "UsersEstimate": 361
     },
     {
       "ID": "38",
@@ -11612,7 +11617,7 @@
       "Name": "But this one is mine",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "60",
@@ -11627,13 +11632,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7210,
+      "Progressed": 7211,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7210,
+      "Progressed": 7211,
       "Completed": 8
     }
   ],
@@ -11641,8 +11646,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-11T22:58:38.2332491+00:00",
-  "LastChanged_Achievements": "2024-01-13T00:04:59.5713385+00:00",
+  "LastChanged_Achievements": "2024-01-13T01:52:03.1952026+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-13T00:00:11.2678675+00:00",
-  "LastUpdate_Achievements": "2024-01-13T00:04:59.5714177+00:00"
+  "LastUpdate_Ratings": "2024-01-13T01:47:15.646805+00:00",
+  "LastUpdate_Achievements": "2024-01-13T01:52:03.1953061+00:00"
 }

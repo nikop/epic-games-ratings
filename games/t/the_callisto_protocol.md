@@ -5,27 +5,27 @@ Rating: 4.22 (Ranked 954)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Outer Way | 27.00% | ~6,005 |
-| Flesh Wound | 26.00% | ~5,782 |
-| Desperate Times | 25.00% | ~5,560 |
-| Paper Jams | 23.00% | ~5,115 |
-| Get a Grip | 22.00% | ~4,893 |
-| Chew 'Em Up | 21.00% | ~4,670 |
-| Reforged | 19.00% | ~4,225 |
-| Float Like A Butterfly | 18.00% | ~4,003 |
-| Workplace Hazard | 17.00% | ~3,781 |
-| If the SHU Fits... | 17.00% | ~3,781 |
-| Without A Paddle | 14.00% | ~3,113 |
-| Two Heads Are Better Than One | 12.00% | ~2,669 |
-| In the Pipe, Five by Five | 12.00% | ~2,669 |
-| Crash Site | 12.00% | ~2,669 |
-| Terminated | 11.00% | ~2,446 |
-| Power Up | 11.00% | ~2,446 |
-| Giving Back | 10.00% | ~2,224 |
-| What Lies Beneath | 10.00% | ~2,224 |
-| Full Circle | 10.00% | ~2,224 |
+| The Outer Way | 27.00% | ~6,006 |
+| Flesh Wound | 26.00% | ~5,784 |
+| Desperate Times | 25.00% | ~5,562 |
+| Paper Jams | 23.00% | ~5,117 |
+| Get a Grip | 22.00% | ~4,894 |
+| Chew 'Em Up | 21.00% | ~4,672 |
+| Reforged | 19.00% | ~4,227 |
+| Float Like A Butterfly | 18.00% | ~4,004 |
+| Workplace Hazard | 17.00% | ~3,782 |
+| If the SHU Fits... | 17.00% | ~3,782 |
+| Without A Paddle | 14.00% | ~3,114 |
+| Two Heads Are Better Than One | 12.00% | ~2,670 |
+| In the Pipe, Five by Five | 12.00% | ~2,670 |
+| Crash Site | 12.00% | ~2,670 |
+| Terminated | 11.00% | ~2,447 |
+| Power Up | 11.00% | ~2,447 |
+| Giving Back | 10.00% | ~2,225 |
+| What Lies Beneath | 10.00% | ~2,225 |
+| Full Circle | 10.00% | ~2,225 |
 | You Need a Gun | 9.00% | ~2,002 |
-| I Do Belong Here | 8.00% | ~1,779 |
+| I Do Belong Here | 8.00% | ~1,780 |
 | Keep Fighting | 7.00% | ~712 |
 | It's Time | 6.00% | ~610 |
 | In Striking Distance | 5.00% | ~1,112 |
@@ -43,7 +43,7 @@ Rating: 4.22 (Ranked 954)
 | Subject Alpha | 0.70% | ~71 |
 | The Protocol is About Life | 0.40% | ~89 |
 | Don't Let It Mellow | 0.40% | ~41 |
-| Hoard Mode | 0.30% | ~30 |
+| Hoard Mode | 0.30% | ~31 |
 | Recidivist | 0.20% | ~20 |
 | Bear Trap | 0.20% | ~20 |
 | It's over, Jacob! | 0.10% | ~22 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 954)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,239 (Ranked 151)  
+Progressed: 22,246 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 82 (0.37%) (Ranked 245)
 | 2024-01-10 | 22,053 | 82 |
 | 2024-01-11 | 22,169 | 82 |
 | 2024-01-12 | 22,235 | 82 |
-| 2024-01-13 | 22,239 | 82 |
+| 2024-01-13 | 22,246 | 82 |
 ## Awards
 Max (Amazing Characters): 131  (Ranked 345)  
 Sum: 641 (Ranked 320)  

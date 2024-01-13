@@ -9467,10 +9467,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33467,
       "NumberOfAwardsMax": 5774
+    },
+    {
+      "Time": "2024-01-13T01:47:54.4425243+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33470,
+      "NumberOfAwardsMax": 5774
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33467,
+  "NumberOfAwards": 33470,
   "NumberOfAwardsMax": 5774,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9484,7 +9490,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5717
+      "Count": 5720
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9517,9 +9523,9 @@
       "Count": 3635
     }
   ],
-  "EOS_Progressed": 253608,
+  "EOS_Progressed": 253615,
   "EOS_Completed": 2614,
-  "EOS_NewPlayers": 1891,
+  "EOS_NewPlayers": 1871,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39852,6 +39858,11 @@
       "Time": "2024-01-13T00:11:13.590083+00:00",
       "NumProgressed": 253608,
       "NumCompleted": 2614
+    },
+    {
+      "Time": "2024-01-13T01:58:43.144842+00:00",
+      "NumProgressed": 253615,
+      "NumCompleted": 2614
     }
   ],
   "TotalAchievements": 546,
@@ -39863,7 +39874,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10144
+      "UsersEstimate": 10145
     },
     {
       "ID": "objective_completed_10",
@@ -41727,7 +41738,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2283
     },
     {
       "ID": "objective_completed_40",
@@ -44230,21 +44241,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219882,
+      "Progressed": 219889,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253608,
+      "Progressed": 253615,
       "Completed": 2614
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-12T19:59:34.1425101+00:00",
-  "LastChanged_Achievements": "2024-01-13T00:11:13.5900823+00:00",
+  "LastChanged": "2024-01-13T01:47:54.4425243+00:00",
+  "LastChanged_Achievements": "2024-01-13T01:58:43.1448415+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-13T00:00:47.8484514+00:00",
-  "LastUpdate_Achievements": "2024-01-13T00:11:13.5925167+00:00"
+  "LastUpdate_Ratings": "2024-01-13T01:47:54.4425248+00:00",
+  "LastUpdate_Achievements": "2024-01-13T01:58:43.1474134+00:00"
 }

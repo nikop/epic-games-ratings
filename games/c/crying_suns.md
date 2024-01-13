@@ -6,45 +6,45 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~312,678 |
-| Jeef Skeejj | 44.00% | ~208,452 |
-| Careful planning | 39.00% | ~184,764 |
-| Second Coming | 34.00% | ~161,076 |
-| Jeef Skagg | 30.00% | ~142,126 |
-| Mother | 25.00% | ~118,438 |
-| In space, no one can hear you scream | 24.00% | ~113,701 |
-| Chapter I: Echoes | 22.00% | ~104,226 |
-| Excelsior Rule | 22.00% | ~104,226 |
-| Things persisted in not being what they seemed | 20.00% | ~94,751 |
-| Knightmare Frames | 15.00% | ~71,063 |
-| May His passing cleanse the world | 15.00% | ~71,063 |
-| Chapter II: Fallible Flesh | 15.00% | ~71,063 |
-| Pope Zenon | 15.00% | ~71,063 |
-| Plan for the worst | 12.00% | ~56,850 |
+| The Shutdown | 66.00% | ~312,681 |
+| Jeef Skeejj | 44.00% | ~208,454 |
+| Careful planning | 39.00% | ~184,766 |
+| Second Coming | 34.00% | ~161,078 |
+| Jeef Skagg | 30.00% | ~142,128 |
+| Mother | 25.00% | ~118,440 |
+| In space, no one can hear you scream | 24.00% | ~113,702 |
+| Chapter I: Echoes | 22.00% | ~104,227 |
+| Excelsior Rule | 22.00% | ~104,227 |
+| Things persisted in not being what they seemed | 20.00% | ~94,752 |
+| Knightmare Frames | 15.00% | ~71,064 |
+| May His passing cleanse the world | 15.00% | ~71,064 |
+| Chapter II: Fallible Flesh | 15.00% | ~71,064 |
+| Pope Zenon | 15.00% | ~71,064 |
+| Plan for the worst | 12.00% | ~56,851 |
 | Tetsuo | 11.00% | ~52,113 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~47,375 |
-| Chapter IV: Through the Looking Glass | 8.00% | ~37,900 |
-| Through the mirror | 8.00% | ~37,900 |
-| General Vivar | 8.00% | ~37,900 |
-| Back to Ganyma | 8.00% | ~37,900 |
-| Kaos Rule | 8.00% | ~37,900 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~47,376 |
+| Chapter IV: Through the Looking Glass | 8.00% | ~37,901 |
+| Through the mirror | 8.00% | ~37,901 |
+| General Vivar | 8.00% | ~37,901 |
+| Back to Ganyma | 8.00% | ~37,901 |
+| Kaos Rule | 8.00% | ~37,901 |
 | Admiral Okonkwo | 7.00% | ~33,163 |
 | The Survivalists | 7.00% | ~33,163 |
 | The Tech Specialist | 7.00% | ~33,163 |
 | The Mech Soldier | 7.00% | ~33,163 |
-| Chapter V: Memories of None | 6.00% | ~28,425 |
-| Meet your maker | 6.00% | ~28,425 |
-| The Impersonator | 6.00% | ~28,425 |
-| The Kid | 6.00% | ~28,425 |
-| The Evangelist | 6.00% | ~28,425 |
-| The Inquisitor | 6.00% | ~28,425 |
-| The Ace Pilot | 6.00% | ~28,425 |
-| The Tech Med | 6.00% | ~28,425 |
-| The lucky charm | 6.00% | ~28,425 |
-| The Anonymous | 6.00% | ~28,425 |
-| The Smuggler | 6.00% | ~28,425 |
-| The Crazy Repairman | 6.00% | ~28,425 |
-| The Weasel | 6.00% | ~28,425 |
+| Chapter V: Memories of None | 6.00% | ~28,426 |
+| Meet your maker | 6.00% | ~28,426 |
+| The Impersonator | 6.00% | ~28,426 |
+| The Kid | 6.00% | ~28,426 |
+| The Evangelist | 6.00% | ~28,426 |
+| The Inquisitor | 6.00% | ~28,426 |
+| The Ace Pilot | 6.00% | ~28,426 |
+| The Tech Med | 6.00% | ~28,426 |
+| The lucky charm | 6.00% | ~28,426 |
+| The Anonymous | 6.00% | ~28,426 |
+| The Smuggler | 6.00% | ~28,426 |
+| The Crazy Repairman | 6.00% | ~28,426 |
+| The Weasel | 6.00% | ~28,426 |
 | Kill the Doctor | 5.00% | ~23,688 |
 | Forsaken | 5.00% | ~23,688 |
 | Mercy | 5.00% | ~23,688 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~18 |
 | Kronos Rule | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,754 (Ranked 45)  
+Progressed: 473,759 (Ranked 45)  
 Completed: 21 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,6 +354,7 @@ Completed: 21 (0.00%) (Ranked 399)
 | 2024-01-10 | 473,678 | 21 |
 | 2024-01-11 | 473,712 | 21 |
 | 2024-01-12 | 473,754 | 21 |
+| 2024-01-13 | 473,759 | 21 |
 ## Awards
 Max (Character Customization): 229  (Ranked 288)  
 Sum: 253 (Ranked 398)  

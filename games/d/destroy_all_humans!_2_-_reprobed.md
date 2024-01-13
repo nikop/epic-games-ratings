@@ -10,7 +10,7 @@ Number of Ratings: 90  (23.09.2022)
 | Mash Machine | 75.00% | ~312 |
 | Ducks in a Row, Fish in a Barrel | 56.00% | ~233 |
 | Furon Fashion | 47.00% | ~196 |
-| Shop Til They Drop | 40.00% | ~166 |
+| Shop Til They Drop | 41.00% | ~171 |
 | Bodied Sattva | 38.00% | ~158 |
 | Cult Following | 36.00% | ~150 |
 | Earthly Pleasures | 35.00% | ~146 |
@@ -100,9 +100,9 @@ Completed: 2 (0.48%) (Ranked 229)
 | 2024-01-11 | 410 | 2 |
 | 2024-01-12 | 416 | 2 |
 ## Awards
-Max (Great Boss Battles): 36  (Ranked 500)  
+Max (Great Boss Battles): 36  (Ranked 501)  
 Sum: 36 (Ranked 533)  
-Diff (max vs sum): -33  
+Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 36 |

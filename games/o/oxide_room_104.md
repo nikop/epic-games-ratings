@@ -16,8 +16,8 @@
 | Antidote | 51.00% | ~165 |
 | Pick the right door | 24.00% | ~78 |
 | The third floor | 18.00% | ~58 |
+| On the right path | 16.00% | ~52 |
 | One-way | 16.00% | ~52 |
-| On the right path | 15.00% | ~49 |
 | It can't be true | 15.00% | ~49 |
 | I'm close now | 12.00% | ~39 |
 | Failed attempt | 12.00% | ~39 |
@@ -36,7 +36,7 @@
 | Matthew's mistakes | 0.60% | ~2 |
 | Sly as a fox | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 324 (Ranked 392)  
+Progressed: 324 (Ranked 393)  
 Completed: 2 (0.62%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |

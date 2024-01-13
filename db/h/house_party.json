@@ -6,8 +6,8 @@
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 196,
-  "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_Completed": 351,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -389,9 +389,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7321,
+  "EOS_Progressed": 7323,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8919,6 +8919,11 @@
       "Time": "2024-01-12T22:08:31.5843793+00:00",
       "NumProgressed": 7321,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-13T01:57:07.6459234+00:00",
+      "NumProgressed": 7323,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -9106,7 +9111,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "GoodRiddance",
@@ -9481,21 +9486,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 4360,
+      "Progressed": 4362,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 7321,
+      "Progressed": 7323,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2024-01-07T21:02:34.7200227+00:00",
-  "LastChanged_Achievements": "2024-01-13T00:09:42.0252616+00:00",
+  "LastChanged_Achievements": "2024-01-13T01:57:07.645923+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:57.9696266+00:00",
-  "LastUpdate_Ratings": "2024-01-13T00:00:33.8148191+00:00",
-  "LastUpdate_Achievements": "2024-01-13T00:09:42.0253513+00:00"
+  "LastUpdate_Ratings": "2024-01-13T01:47:39.6175656+00:00",
+  "LastUpdate_Achievements": "2024-01-13T01:57:07.64601+00:00"
 }

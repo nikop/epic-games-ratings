@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1527,
+  "EOS_Progressed": 1528,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.42,
   "EosHistory": [
@@ -5281,6 +5281,11 @@
       "Time": "2024-01-12T22:03:45.4380839+00:00",
       "NumProgressed": 1527,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-13T01:52:00.630878+00:00",
+      "NumProgressed": 1528,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5309,7 +5314,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -5365,7 +5370,7 @@
       "Name": "Buccaneer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "_11_Completion_40",
@@ -5381,7 +5386,7 @@
       "Name": "Privateer",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "_13_Completion_60",
@@ -5413,7 +5418,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -5445,7 +5450,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -5469,7 +5474,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -5500,7 +5505,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1527,
+      "Progressed": 1528,
       "Completed": 37
     }
   ],
@@ -5508,8 +5513,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-09T20:59:58.0673284+00:00",
-  "LastChanged_Achievements": "2024-01-13T00:04:57.1917714+00:00",
+  "LastChanged_Achievements": "2024-01-13T01:52:00.6308776+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.9098347+00:00",
-  "LastUpdate_Ratings": "2024-01-12T23:57:53.9308835+00:00",
-  "LastUpdate_Achievements": "2024-01-13T00:04:57.1918075+00:00"
+  "LastUpdate_Ratings": "2024-01-13T01:44:50.6518491+00:00",
+  "LastUpdate_Achievements": "2024-01-13T01:52:00.6309258+00:00"
 }

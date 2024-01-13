@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1517,9 +1517,9 @@
       "Count": 152
     }
   ],
-  "EOS_Progressed": 14642,
+  "EOS_Progressed": 14644,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 703,
+  "EOS_NewPlayers": 698,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9802,6 +9802,11 @@
       "Time": "2024-01-13T00:09:58.6986058+00:00",
       "NumProgressed": 14642,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-13T01:57:25.0868361+00:00",
+      "NumProgressed": 14644,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 24,
@@ -9813,7 +9818,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2928
+      "UsersEstimate": 2929
     },
     {
       "ID": "Chatterbox",
@@ -9837,7 +9842,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8785
+      "UsersEstimate": 8786
     },
     {
       "ID": "DemonCastleRestoration",
@@ -9845,7 +9850,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "DwarfChandelier",
@@ -9861,7 +9866,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 5710
+      "UsersEstimate": 5711
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -9893,7 +9898,7 @@
       "Name": "Go Home...",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3953
+      "UsersEstimate": 3954
     },
     {
       "ID": "HeroSlayer",
@@ -9901,7 +9906,7 @@
       "Name": "The Hero Killer",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 3660
+      "UsersEstimate": 3661
     },
     {
       "ID": "LeoniasFall",
@@ -9917,7 +9922,7 @@
       "Name": "The Levitator",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "Manners",
@@ -9941,7 +9946,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8785
+      "UsersEstimate": 8786
     },
     {
       "ID": "SavedElderEnt_2",
@@ -9965,7 +9970,7 @@
       "Name": "Inventory Management",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4685
+      "UsersEstimate": 4686
     },
     {
       "ID": "TheLegendBegins",
@@ -9973,7 +9978,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 13617
+      "UsersEstimate": 13619
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -9981,7 +9986,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 6882
+      "UsersEstimate": 6883
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -9997,22 +10002,22 @@
       "Name": "What should I buy?",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 11714
+      "UsersEstimate": 11715
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14642,
+      "Progressed": 14644,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-12T16:57:52.0679281+00:00",
-  "LastChanged_Achievements": "2024-01-13T00:09:58.6986055+00:00",
+  "LastChanged_Achievements": "2024-01-13T01:57:25.0868357+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:25.8159814+00:00",
-  "LastUpdate_Ratings": "2024-01-12T23:58:22.1765959+00:00",
-  "LastUpdate_Achievements": "2024-01-13T00:09:58.6986671+00:00"
+  "LastUpdate_Ratings": "2024-01-13T01:45:21.539715+00:00",
+  "LastUpdate_Achievements": "2024-01-13T01:57:25.0868815+00:00"
 }

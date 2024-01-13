@@ -4,10 +4,10 @@
   "ProductSlug": "faster-than-light",
   "Ranking_Rating": 100,
   "Ranking_Popularity": 319,
-  "Ranking_PopularitySum": 253,
+  "Ranking_PopularitySum": 252,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewPlayers": 578,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2019-12-26T16:00:00+00:00",
@@ -1990,10 +1990,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 1338,
       "NumberOfAwardsMax": 172
+    },
+    {
+      "Time": "2024-01-13T01:47:41.9254988+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1339,
+      "NumberOfAwardsMax": 172
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1338,
+  "NumberOfAwards": 1339,
   "NumberOfAwardsMax": 172,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -2031,7 +2037,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 125
+      "Count": 126
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2075,8 +2081,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:43.0008392+00:00",
-  "LastChanged": "2024-01-07T17:00:03.8805578+00:00",
+  "LastChanged": "2024-01-13T01:47:41.9254972+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:17.3324827+00:00",
-  "LastUpdate_Ratings": "2024-01-13T00:00:35.9493168+00:00",
-  "LastUpdate_Achievements": "2024-01-13T00:09:22.5643796+00:00"
+  "LastUpdate_Ratings": "2024-01-13T01:47:41.9254991+00:00",
+  "LastUpdate_Achievements": "2024-01-13T01:56:47.0453228+00:00"
 }

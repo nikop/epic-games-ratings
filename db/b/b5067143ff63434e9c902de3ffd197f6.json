@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18889,
+  "EOS_Progressed": 18892,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
@@ -12069,6 +12069,11 @@
       "Time": "2024-01-13T00:06:08.2635104+00:00",
       "NumProgressed": 18889,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T01:53:15.2217448+00:00",
+      "NumProgressed": 18892,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -12169,7 +12174,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -12177,7 +12182,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 4911
+      "UsersEstimate": 4912
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -12272,14 +12277,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 18889,
+      "Progressed": 18892,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2024-01-13T00:06:08.2635099+00:00",
+  "LastChanged_Achievements": "2024-01-13T01:53:15.2217446+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.8149755+00:00",
-  "LastUpdate_Ratings": "2024-01-12T23:57:34.7473666+00:00",
-  "LastUpdate_Achievements": "2024-01-13T00:06:08.2635706+00:00"
+  "LastUpdate_Ratings": "2024-01-13T01:44:31.7255905+00:00",
+  "LastUpdate_Achievements": "2024-01-13T01:53:15.2218729+00:00"
 }

@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1123,
+  "EOS_Progressed": 1124,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -5,
+  "EOS_NewPlayers": -4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2752,6 +2752,11 @@
       "Time": "2024-01-12T23:04:38.4243238+00:00",
       "NumProgressed": 1123,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T01:52:29.7936416+00:00",
+      "NumProgressed": 1124,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2795,7 +2800,7 @@
       "Name": "The First Step",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "06",
@@ -2803,7 +2808,7 @@
       "Name": "First Blood",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "07",
@@ -2811,15 +2816,15 @@
       "Name": "Monster Hunter",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "08",
       "SetID": "73ikgfc",
       "Name": "Monster Slayer",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 359
+      "UsersEstimate": 348
     },
     {
       "ID": "09",
@@ -2873,9 +2878,9 @@
       "ID": "15",
       "SetID": "73ikgfc",
       "Name": "Lean on Me",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "16",
@@ -2915,7 +2920,7 @@
       "Name": "Digging Deep",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "21",
@@ -2931,7 +2936,7 @@
       "Name": "House Vulisica\u0027s Heirloom",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "23",
@@ -2939,14 +2944,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1123,
+      "Progressed": 1124,
       "Completed": 1
     }
   ],
@@ -2954,8 +2959,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-01-13T00:05:24.8047463+00:00",
+  "LastChanged_Achievements": "2024-01-13T01:52:29.7936413+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:22.9341362+00:00",
-  "LastUpdate_Ratings": "2024-01-13T00:03:30.4117015+00:00",
-  "LastUpdate_Achievements": "2024-01-13T00:05:24.8047724+00:00"
+  "LastUpdate_Ratings": "2024-01-13T01:50:28.3142279+00:00",
+  "LastUpdate_Achievements": "2024-01-13T01:52:29.7936732+00:00"
 }

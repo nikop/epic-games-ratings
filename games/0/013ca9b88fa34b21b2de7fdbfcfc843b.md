@@ -1,13 +1,13 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.64 (Ranked 343)  
+Rating: 4.64 (Ranked 344)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Azoria Beckons | 5.00% | ~451 |
 | A Thorny Situation | 5.00% | ~451 |
-| ... And Spit Back Out | 4.00% | ~360 |
+| ... And Spit Back Out | 4.00% | ~361 |
 | Calm Sailing | 3.00% | ~270 |
 | Miner 49er | 3.00% | ~270 |
 | Break-Net Speed | 3.00% | ~270 |
@@ -49,7 +49,7 @@ Rating: 4.64 (Ranked 343)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,012 (Ranked 186)  
+Progressed: 9,013 (Ranked 186)  
 Completed: 1 (0.01%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 1 (0.01%) (Ranked 375)
 | 2024-01-10 | 8,987 | 1 |
 | 2024-01-11 | 8,992 | 1 |
 | 2024-01-12 | 9,008 | 1 |
-| 2024-01-13 | 9,012 | 1 |
+| 2024-01-13 | 9,013 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

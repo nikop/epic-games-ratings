@@ -2,9 +2,9 @@
   "ID": "269f94247b4f471b9381fd4052bf1fad",
   "Name": "Born of Bread",
   "ProductSlug": "born-of-bread-008e66",
-  "Ranking_EOS_Progress": 556,
+  "Ranking_EOS_Progress": 554,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 536,
+  "Ranking_EOS_NewPlayers": 504,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 52,
+  "EOS_Progressed": 53,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -279,6 +279,11 @@
       "Time": "2024-01-08T09:09:16.2721161+00:00",
       "NumProgressed": 52,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T01:57:09.6206074+00:00",
+      "NumProgressed": 53,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T15:04:34.1379111+00:00",
@@ -361,7 +366,7 @@
       "ID": "ACH_EXOTIC-ARSENAL",
       "SetID": "6lg1p1e",
       "Name": "Exotic Arsenal",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -409,7 +414,7 @@
       "ID": "ACH_HOUSE-ARREST",
       "SetID": "6lg1p1e",
       "Name": "House Arrest",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -443,7 +448,7 @@
       "Name": "Mischievous Bread",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_MYSTERY-SOLVED",
@@ -473,9 +478,9 @@
       "ID": "ACH_PARTNER",
       "SetID": "6lg1p1e",
       "Name": "Partner",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_PHOTOGRAPHIC-MEMORY",
@@ -521,7 +526,7 @@
       "ID": "ACH_RACER-CHAMPION",
       "SetID": "6lg1p1e",
       "Name": "Break a Sweat",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -561,7 +566,7 @@
       "ID": "ACH_WHACK-A-MOLE",
       "SetID": "6lg1p1e",
       "Name": "Whack-a-mole",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 20,
       "UsersEstimate": 24
     },
@@ -578,14 +583,14 @@
     {
       "ID": "6lg1p1e",
       "IsBase": true,
-      "Progressed": 52,
+      "Progressed": 53,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2024-01-13T00:09:43.8885963+00:00",
+  "LastChanged_Achievements": "2024-01-13T01:57:09.6206071+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:03.2115665+00:00",
-  "LastUpdate_Ratings": "2024-01-12T23:57:17.1112206+00:00",
-  "LastUpdate_Achievements": "2024-01-13T00:09:43.8886233+00:00"
+  "LastUpdate_Ratings": "2024-01-13T01:44:12.6894785+00:00",
+  "LastUpdate_Achievements": "2024-01-13T01:57:09.6206308+00:00"
 }

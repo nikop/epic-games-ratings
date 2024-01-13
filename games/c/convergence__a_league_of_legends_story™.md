@@ -43,9 +43,9 @@ Rating: 4.70 (Ranked 220)
 | Fairgrounds Explorer | 10.00% | ~131 |
 | Theater Explorer | 10.00% | ~131 |
 | Cultivair Explorer | 9.00% | ~118 |
+| Entresol Explorer | 9.00% | ~118 |
 | Corin Goes Home | 8.00% | ~105 |
 | Sartorialist | 8.00% | ~105 |
-| Entresol Explorer | 8.00% | ~105 |
 | Golem Hunter | 7.00% | ~92 |
 | Clovemary for Remembering | 6.00% | ~79 |
 | Hexlock for Protection | 6.00% | ~79 |

@@ -1,7 +1,7 @@
 # The Front
 [Store](https://store.epicgames.com/en-US/p/the-front-3a8219)  
 [View Rawdata](../../db/t/the_front.json)  
-Rating: 4.06 (Ranked 1,038)  
+Rating: 4.05 (Ranked 1,041)  
 ## Awards
 Max (Highly Recommended): 23  (Ranked 561)  
 Sum: 43 (Ranked 522)  
@@ -72,3 +72,4 @@ Diff (max vs sum): 39
 | 2024-01-09 | 4.05 | 34 | 57 |
 | 2024-01-11 | 4.06 | 23 | 23 |
 | 2024-01-12 | 4.06 | 23 | 43 |
+| 2024-01-13 | 4.05 | 23 | 43 |

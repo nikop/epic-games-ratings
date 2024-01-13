@@ -19,7 +19,7 @@ Rating: 3.68 (Ranked 1,096)
 | Welcome to the Neighborhood | 10.00% | ~237 |
 | Throw The First Stone | 10.00% | ~237 |
 | Heart Attack | 10.00% | ~237 |
-| Skin of Their Teeth | 9.00% | ~213 |
+| Skin of Their Teeth | 9.00% | ~214 |
 | Grounded | 8.00% | ~190 |
 | Bad Wiring | 7.00% | ~166 |
 | Neighborhood Revitalization | 6.00% | ~142 |
@@ -45,11 +45,11 @@ Rating: 3.68 (Ranked 1,096)
 | Blood Brother | 1.00% | ~24 |
 | Neighborhood Watch | 0.90% | ~21 |
 | Bloody Initiate | 0.90% | ~21 |
+| What Lies Below | 0.80% | ~19 |
 | Empty Nest Syndrome | 0.80% | ~19 |
 | Dexterity Save | 0.80% | ~19 |
+| Good Samaritan | 0.80% | ~19 |
 | Scream Team | 0.70% | ~17 |
-| What Lies Below | 0.70% | ~17 |
-| Good Samaritan | 0.70% | ~17 |
 | Sisterhood | 0.60% | ~14 |
 | Under a Bushel | 0.60% | ~14 |
 | Monster Hunters Club | 0.50% | ~12 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,096)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,372 (Ranked 243)  
+Progressed: 2,373 (Ranked 243)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,6 +217,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-10 | 2,353 | 0 |
 | 2024-01-11 | 2,366 | 0 |
 | 2024-01-12 | 2,372 | 0 |
+| 2024-01-13 | 2,373 | 0 |
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 555)  
 Sum: 24 (Ranked 563)  

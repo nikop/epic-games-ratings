@@ -6,14 +6,14 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 85.00% | ~679 |
-| All Bark, No Bite | 74.00% | ~591 |
-| Hopeful Hunter | 64.00% | ~511 |
-| Amateur Adventurer | 61.00% | ~487 |
-| The Road to Recovery | 60.00% | ~479 |
-| Partners? | 58.00% | ~463 |
-| Magical Mineral Golem | 52.00% | ~415 |
-| On Outlander Lane | 51.00% | ~407 |
+| Plenty More to Go | 85.00% | ~680 |
+| All Bark, No Bite | 74.00% | ~592 |
+| Hopeful Hunter | 64.00% | ~512 |
+| Amateur Adventurer | 61.00% | ~488 |
+| The Road to Recovery | 60.00% | ~480 |
+| Partners? | 58.00% | ~464 |
+| Magical Mineral Golem | 52.00% | ~416 |
+| On Outlander Lane | 51.00% | ~408 |
 | First Time Fishing | 48.00% | ~384 |
 | A Girl About the Town | 47.00% | ~376 |
 | First Time Hunting | 46.00% | ~368 |
@@ -29,7 +29,7 @@ Number of Ratings: 48  (23.09.2022)
 | Adept, for an Acting Mayor | 33.00% | ~264 |
 | Money, Money, Money | 33.00% | ~264 |
 | Rune Wall Master | 31.00% | ~248 |
-| The Quarry...On Foot! | 29.00% | ~232 |
+| The Quarry...On Foot! | 28.00% | ~224 |
 | The Runebarrows...On Foot! | 27.00% | ~216 |
 | The Snowpeak...On Foot! | 25.00% | ~200 |
 | The Lava Ruins...On Foot! | 25.00% | ~200 |
@@ -57,8 +57,8 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 7.00% | ~56 |
 | Rising Champion | 6.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 799 (Ranked 313)  
-Completed: 60 (7.51%) (Ranked 55)  
+Progressed: 800 (Ranked 313)  
+Completed: 60 (7.50%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -130,6 +130,7 @@ Completed: 60 (7.51%) (Ranked 55)
 | 2024-01-07 | 796 | 60 |
 | 2024-01-08 | 798 | 60 |
 | 2024-01-10 | 799 | 60 |
+| 2024-01-13 | 800 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

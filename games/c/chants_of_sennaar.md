@@ -6,7 +6,7 @@ Rating: 4.85 (Ranked 40)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | That's the spirit | 61.00% | ~1,659 |
-| Welcome to the Tower | 54.00% | ~1,468 |
+| Welcome to the Tower | 55.00% | ~1,495 |
 | The great escape | 46.00% | ~1,251 |
 | The Preacher's fate | 44.00% | ~1,196 |
 | A new dawn | 37.00% | ~1,006 |
@@ -16,8 +16,8 @@ Rating: 4.85 (Ranked 40)
 | True G3M4R | 31.00% | ~843 |
 | One last step | 29.00% | ~789 |
 | Cable guy | 28.00% | ~761 |
+| Half the way | 28.00% | ~761 |
 | I did it | 27.00% | ~734 |
-| Half the way | 27.00% | ~734 |
 | In this together | 26.00% | ~707 |
 | Peace walker | 26.00% | ~707 |
 | Rascal | 26.00% | ~707 |

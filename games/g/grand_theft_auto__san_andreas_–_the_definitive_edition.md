@@ -5,17 +5,17 @@ Rating: 4.55 (Ranked 530)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,749 |
-| Pay 'n' Spray | 50.00% | ~9,722 |
-| All Dressed Up for San Fierro | 25.00% | ~4,861 |
-| The American Dream | 19.00% | ~3,694 |
-| School's Out | 18.00% | ~3,500 |
-| Smooth Moves | 17.00% | ~3,305 |
-| What happens in Las Venturas... | 14.00% | ~2,722 |
-| Today Was a Good Day | 14.00% | ~2,722 |
-| Horror of the Santa Maria | 10.00% | ~1,944 |
+| Getting Started | 81.00% | ~15,753 |
+| Pay 'n' Spray | 50.00% | ~9,724 |
+| All Dressed Up for San Fierro | 25.00% | ~4,862 |
+| The American Dream | 19.00% | ~3,695 |
+| School's Out | 18.00% | ~3,501 |
+| Smooth Moves | 17.00% | ~3,306 |
+| What happens in Las Venturas... | 14.00% | ~2,723 |
+| Today Was a Good Day | 14.00% | ~2,723 |
+| Horror of the Santa Maria | 10.00% | ~1,945 |
 | Liberty City State of Mind | 9.00% | ~1,750 |
-| Original Gangster | 8.00% | ~1,555 |
+| Original Gangster | 8.00% | ~1,556 |
 | With Extra Dip | 7.00% | ~1,361 |
 | The End of the Line | 7.00% | ~1,361 |
 | Saviour | 6.00% | ~1,167 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 530)
 | ...Here we go again | 0.50% | ~97 |
 | I Ain't No Buster | 0.40% | ~78 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,443 (Ranked 157)  
+Progressed: 19,448 (Ranked 157)  
 Completed: 77 (0.40%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,14 +309,14 @@ Completed: 77 (0.40%) (Ranked 240)
 | 2024-01-10 | 19,333 | 75 |
 | 2024-01-11 | 19,399 | 75 |
 | 2024-01-12 | 19,441 | 77 |
-| 2024-01-13 | 19,443 | 77 |
+| 2024-01-13 | 19,448 | 77 |
 ## Awards
-Max (Great Boss Battles): 652  (Ranked 201)  
-Sum: 1,048 (Ranked 271)  
+Max (Great Boss Battles): 659  (Ranked 201)  
+Sum: 1,055 (Ranked 271)  
 Diff (max vs sum): -70  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 652 |
+| This game has Great Boss Battles | 659 |
 | This game has Amazing Characters | 58 |
 | This game is Relaxing | 55 |
 | This game has Amazing Storytelling | 55 |
@@ -558,3 +558,4 @@ Diff (max vs sum): -70
 | 2024-01-10 | 4.55 | 647 | 1,034 |
 | 2024-01-11 | 4.55 | 652 | 1,041 |
 | 2024-01-12 | 4.55 | 652 | 1,048 |
+| 2024-01-13 | 4.55 | 659 | 1,055 |

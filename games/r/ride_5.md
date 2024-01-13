@@ -5,15 +5,15 @@ Rating: 4.54 (Ranked 553)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 50.00% | ~1,785 |
-| First Love | 45.00% | ~1,606 |
-| Clean Race | 44.00% | ~1,571 |
-| Hear That Roar! | 43.00% | ~1,535 |
+| Eat My Dust | 50.00% | ~1,786 |
+| First Love | 45.00% | ~1,607 |
+| Clean Race | 44.00% | ~1,572 |
+| Hear That Roar! | 43.00% | ~1,536 |
 | Bitter Rivalry | 31.00% | ~1,107 |
 | Rivals to the End | 31.00% | ~1,107 |
-| Champagne Spray | 30.00% | ~1,071 |
+| Champagne Spray | 30.00% | ~1,072 |
 | We're Going to Need a Bigger Garage | 27.00% | ~964 |
-| Quick Pit Stop | 23.00% | ~821 |
+| Quick Pit Stop | 23.00% | ~822 |
 | I Want One Too! | 21.00% | ~750 |
 | Restored and Ready | 20.00% | ~714 |
 | Legendary!!! | 20.00% | ~714 |
@@ -23,9 +23,9 @@ Rating: 4.54 (Ranked 553)
 | Is It the Right Size? | 9.00% | ~321 |
 | Stamina Star | 8.00% | ~286 |
 | Evangelist | 7.00% | ~250 |
-| Make It Your Own! | 5.00% | ~178 |
-| Cherry Blossom and Temples | 5.00% | ~178 |
-| The Road to Liberty | 5.00% | ~178 |
+| Make It Your Own! | 5.00% | ~179 |
+| Cherry Blossom and Temples | 5.00% | ~179 |
+| The Road to Liberty | 5.00% | ~179 |
 | Romantic Races | 4.00% | ~143 |
 | My Work Here Is Done | 4.00% | ~143 |
 | Spoilt for Choice | 3.00% | ~107 |
@@ -55,7 +55,7 @@ Rating: 4.54 (Ranked 553)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,570 (Ranked 226)  
+Progressed: 3,572 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,6 +189,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-10 | 3,543 | 0 |
 | 2024-01-11 | 3,552 | 0 |
 | 2024-01-12 | 3,570 | 0 |
+| 2024-01-13 | 3,572 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

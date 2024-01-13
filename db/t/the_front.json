@@ -2,12 +2,12 @@
   "ID": "f4be56a88fff45fb8ffb1f05f1c76467",
   "Name": "The Front",
   "ProductSlug": "the-front-3a8219",
-  "Ranking_Rating": 1038,
+  "Ranking_Rating": 1041,
   "Ranking_Popularity": 561,
   "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewPlayers": 578,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-11T15:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.06,
+  "Rating": 4.05,
   "RatingHistory": [
     {
       "Time": "2023-10-16T03:57:21.8315476+00:00",
@@ -515,6 +515,12 @@
       "Rating": 4.06,
       "NumberOfAwards": 43,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-01-13T01:46:23.0936381+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 43,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
@@ -559,8 +565,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-11T21:01:43.5636582+00:00",
   "FirstSeenRating": "2023-10-16T03:57:21.8315472+00:00",
-  "LastChanged": "2024-01-12T04:58:01.6346749+00:00",
+  "LastChanged": "2024-01-13T01:46:23.093638+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:14.1505381+00:00",
-  "LastUpdate_Ratings": "2024-01-12T23:59:21.7788093+00:00",
-  "LastUpdate_Achievements": "2024-01-13T00:05:32.7027216+00:00"
+  "LastUpdate_Ratings": "2024-01-13T01:46:23.0936384+00:00",
+  "LastUpdate_Achievements": "2024-01-13T01:52:38.3464586+00:00"
 }

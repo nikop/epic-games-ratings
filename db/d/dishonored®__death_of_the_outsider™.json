@@ -4,10 +4,10 @@
   "ProductSlug": "dishonored-death-of-the-outsider",
   "Ranking_Rating": 726,
   "Ranking_Popularity": 446,
-  "Ranking_PopularitySum": 350,
+  "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 579,
+  "Ranking_EOS_NewPlayers": 578,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-12-15T16:00:00+00:00",
@@ -1591,6 +1591,6 @@
   "FirstSeenRating": "2022-12-26T17:58:45.352902+00:00",
   "LastChanged": "2024-01-11T16:59:34.667738+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:38.1276309+00:00",
-  "LastUpdate_Ratings": "2024-01-13T00:00:08.8499006+00:00",
-  "LastUpdate_Achievements": "2024-01-13T00:08:40.4903345+00:00"
+  "LastUpdate_Ratings": "2024-01-13T01:47:13.1412882+00:00",
+  "LastUpdate_Achievements": "2024-01-13T01:56:24.0811979+00:00"
 }

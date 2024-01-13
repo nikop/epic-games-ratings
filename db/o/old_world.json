@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2170,10 +2170,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1921,
       "NumberOfAwardsMax": 230
+    },
+    {
+      "Time": "2024-01-13T01:46:51.4738034+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1922,
+      "NumberOfAwardsMax": 230
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1921,
+  "NumberOfAwards": 1922,
   "NumberOfAwardsMax": 230,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2181,7 +2187,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 223
+      "Count": 224
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2250,9 +2256,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16556,
+  "EOS_Progressed": 16564,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19770,6 +19776,11 @@
       "Time": "2024-01-13T00:11:12.1155362+00:00",
       "NumProgressed": 16556,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T01:58:41.7460195+00:00",
+      "NumProgressed": 16564,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20261,7 +20272,7 @@
       "Name": "Intercessor",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
@@ -20669,7 +20680,7 @@
       "Name": "Sages",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_STATESMEN",
@@ -20683,9 +20694,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_TRADERS",
       "SetID": "7l38kb8",
       "Name": "Traders",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
@@ -21317,7 +21328,7 @@
       "Name": "Learn to Play 3",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
@@ -21579,9 +21590,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
       "SetID": "7l38kb8",
       "Name": "Assyrian Paganism",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
@@ -21731,9 +21742,9 @@
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
       "SetID": "9201eeb",
       "Name": "Military Prestige",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
@@ -21779,9 +21790,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_REDEMPTION",
       "SetID": "7l38kb8",
       "Name": "Redemption",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
@@ -22644,21 +22655,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16556,
+      "Progressed": 16564,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16556,
+      "Progressed": 16564,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-01-11T21:59:00.3473334+00:00",
-  "LastChanged_Achievements": "2024-01-13T00:11:12.1155358+00:00",
+  "LastChanged": "2024-01-13T01:46:51.4738033+00:00",
+  "LastChanged_Achievements": "2024-01-13T01:58:41.7460194+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-12T23:59:47.8218391+00:00",
-  "LastUpdate_Achievements": "2024-01-13T00:11:12.1166187+00:00"
+  "LastUpdate_Ratings": "2024-01-13T01:46:51.4738038+00:00",
+  "LastUpdate_Achievements": "2024-01-13T01:58:41.7470929+00:00"
 }

@@ -11,8 +11,8 @@ Number of Ratings: 124  (23.09.2022)
 | Civilian | 35.00% | ~84 |
 | Role Model | 31.00% | ~74 |
 | Creator | 29.00% | ~70 |
+| Festival-goer | 27.00% | ~65 |
 | Military Leader | 26.00% | ~62 |
-| Festival-goer | 26.00% | ~62 |
 | Peddler | 24.00% | ~58 |
 | Commander | 21.00% | ~50 |
 | Irissa's Fate | 19.00% | ~46 |

@@ -68,9 +68,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 0.90% | ~149 |
 | Building Wonders | 0.90% | ~149 |
 | Mythology | 0.90% | ~149 |
-| Intercessor | 0.80% | ~132 |
-| Sages | 0.80% | ~132 |
-| Learn to Play 3 | 0.80% | ~132 |
+| Intercessor | 0.80% | ~133 |
+| Sages | 0.80% | ~133 |
+| Learn to Play 3 | 0.80% | ~133 |
 | Beloved | 0.70% | ~116 |
 | Mighty | 0.70% | ~116 |
 | Good Difficulty | 0.70% | ~116 |
@@ -84,10 +84,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 0.70% | ~116 |
 | Victorious | 0.60% | ~99 |
 | Landowners | 0.60% | ~99 |
+| Traders | 0.60% | ~99 |
 | Hagia Sophia | 0.60% | ~99 |
 | Temple of Solomon | 0.60% | ~99 |
 | Via Recta Souk | 0.60% | ~99 |
 | Economic Reform | 0.60% | ~99 |
+| Military Prestige | 0.60% | ~99 |
 | Legionary | 0.60% | ~99 |
 | Double Victory | 0.60% | ~99 |
 | Kushite Paganism | 0.60% | ~99 |
@@ -97,16 +99,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.50% | ~83 |
 | Subjugator | 0.50% | ~83 |
 | Riders | 0.50% | ~83 |
-| Traders | 0.50% | ~83 |
 | Hittite Iron | 0.50% | ~83 |
 | Circus Maximus | 0.50% | ~83 |
 | Pantheon | 0.50% | ~83 |
 | Learn to Play 4 | 0.50% | ~83 |
+| Assyrian Paganism | 0.50% | ~83 |
 | Industrial Progress | 0.50% | ~83 |
-| Military Prestige | 0.50% | ~83 |
 | Dualism | 0.50% | ~83 |
 | Enlightenment | 0.50% | ~83 |
 | Legalism | 0.50% | ~83 |
+| Redemption | 0.50% | ~83 |
 | Cimmerian Archer | 0.50% | ~83 |
 | Ambition Victory | 0.50% | ~83 |
 | The Clergy | 0.50% | ~83 |
@@ -121,10 +123,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.40% | ~66 |
 | Carthage | 0.40% | ~66 |
 | Rome | 0.40% | ~66 |
-| Assyrian Paganism | 0.40% | ~66 |
 | Hittite Paganism | 0.40% | ~66 |
 | Gnosticism | 0.40% | ~66 |
-| Redemption | 0.40% | ~66 |
 | Revelation | 0.40% | ~66 |
 | Veneration | 0.40% | ~66 |
 | Kushite Cavalry | 0.40% | ~66 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,556 (Ranked 170)  
+Progressed: 16,564 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -633,15 +633,15 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
-| 2024-01-13 | 16,556 | 5 |
+| 2024-01-13 | 16,564 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
-Sum: 1,921 (Ranked 224)  
+Sum: 1,922 (Ranked 224)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 230 |
-| This game has Diverse Characters | 223 |
+| This game has Diverse Characters | 224 |
 | This game is Extremely Fun | 222 |
 | This game is Highly Recommended | 222 |
 | This game is Educational | 219 |
@@ -845,3 +845,4 @@ Diff (max vs sum): 63
 | 2024-01-08 | 4.65 | - | 229 | 1,917 |
 | 2024-01-09 | 4.65 | - | 229 | 1,919 |
 | 2024-01-11 | 4.65 | - | 230 | 1,921 |
+| 2024-01-13 | 4.65 | - | 230 | 1,922 |
