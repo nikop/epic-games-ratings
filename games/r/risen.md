@@ -22,9 +22,9 @@ Rating: 4.56 (Ranked 511)
 | Ogre friend | 19.00% | ~37 |
 | Death of a legend | 18.00% | ~35 |
 | Archaeologist | 18.00% | ~35 |
+| Family man | 17.00% | ~33 |
 | Little hero | 17.00% | ~33 |
 | Sidelined | 17.00% | ~33 |
-| Family man | 16.00% | ~31 |
 | The fourth triplet | 16.00% | ~31 |
 | Fence | 16.00% | ~31 |
 | Wise man | 15.00% | ~29 |

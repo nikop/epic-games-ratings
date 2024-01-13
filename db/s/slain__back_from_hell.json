@@ -2,12 +2,12 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 897,
+  "Ranking_Rating": 884,
   "Ranking_Popularity": 350,
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.28,
+  "Rating": 4.29,
   "RatingHistory": [
     {
       "Time": "2022-10-08T20:32:24.8625513+00:00",
@@ -242,6 +242,12 @@
       "Rating": 4.28,
       "NumberOfAwards": 129,
       "NumberOfAwardsMax": 129
+    },
+    {
+      "Time": "2024-01-13T02:25:47.9038676+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 129,
+      "NumberOfAwardsMax": 129
     }
   ],
   "ReviewsDisabled": false,
@@ -256,9 +262,9 @@
       "Count": 129
     }
   ],
-  "EOS_Progressed": 44060,
+  "EOS_Progressed": 44064,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -29296,6 +29302,11 @@
       "Time": "2024-01-13T01:53:40.8224764+00:00",
       "NumProgressed": 44060,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-13T02:28:06.3381026+00:00",
+      "NumProgressed": 44064,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -29307,7 +29318,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6609
+      "UsersEstimate": 6610
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -29331,7 +29342,7 @@
       "Name": "Thorn in My Herbicide",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
@@ -29395,7 +29406,7 @@
       "Name": "Red In Tooth And Claw",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -29411,7 +29422,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -29443,7 +29454,7 @@
       "Name": "The Sky Is Falling",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH_20_MULTI_KILL",
@@ -29451,7 +29462,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -29475,7 +29486,7 @@
       "Name": "Schadenfreude",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH_24_HEAD_BANGED_TO_ALL_BOSSES",
@@ -29538,16 +29549,16 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 44060,
+      "Progressed": 44064,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-10-06T18:03:31.3585803+00:00",
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
-  "LastChanged": "2024-01-10T02:27:03.5087027+00:00",
-  "LastChanged_Achievements": "2024-01-13T01:53:40.8224761+00:00",
+  "LastChanged": "2024-01-13T02:25:47.9038675+00:00",
+  "LastChanged_Achievements": "2024-01-13T02:28:06.3381023+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:02.3058441+00:00",
-  "LastUpdate_Ratings": "2024-01-13T01:50:23.1757522+00:00",
-  "LastUpdate_Achievements": "2024-01-13T01:53:40.8226472+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:25:47.9038679+00:00",
+  "LastUpdate_Achievements": "2024-01-13T02:28:06.3382297+00:00"
 }

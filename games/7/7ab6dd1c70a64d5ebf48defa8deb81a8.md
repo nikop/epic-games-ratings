@@ -6,10 +6,10 @@ Rating: 4.14 (Ranked 1,007)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 63.00% | ~1,433 |
-| Trinity | 33.00% | ~750 |
+| Trinity | 33.00% | ~751 |
 | The Collector | 27.00% | ~614 |
-| A Taste of Wrath | 26.00% | ~591 |
-| Find Allies | 25.00% | ~568 |
+| A Taste of Wrath | 26.00% | ~592 |
+| Find Allies | 25.00% | ~569 |
 | Shatter Them All | 24.00% | ~546 |
 | Geared Up | 24.00% | ~546 |
 | I Found It | 24.00% | ~546 |
@@ -19,7 +19,7 @@ Rating: 4.14 (Ranked 1,007)
 | Tributes of Caladrias | 21.00% | ~478 |
 | Stone Collection | 21.00% | ~478 |
 | Powerful Allies | 20.00% | ~455 |
-| Big Bazar | 14.00% | ~318 |
+| Big Bazar | 14.00% | ~319 |
 | Essence Blow | 13.00% | ~296 |
 | Alchemist | 13.00% | ~296 |
 | The Mentor | 11.00% | ~250 |
@@ -33,16 +33,16 @@ Rating: 4.14 (Ranked 1,007)
 | Fine Feathers Make Fine Birds | 4.00% | ~91 |
 | Slayer | 3.00% | ~68 |
 | A Queen's Tale | 3.00% | ~68 |
-| Shardbearer | 2.00% | ~45 |
-| Flawless Victory | 2.00% | ~45 |
-| All There Is | 2.00% | ~45 |
-| False God | 2.00% | ~45 |
+| Shardbearer | 2.00% | ~46 |
+| Flawless Victory | 2.00% | ~46 |
+| All There Is | 2.00% | ~46 |
+| False God | 2.00% | ~46 |
 | Forgemaster | 1.00% | ~23 |
 | Summiter | 1.00% | ~23 |
 | All That Gold | 0.70% | ~16 |
 | Feeling Fancy | 0.40% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,274 (Ranked 246)  
+Progressed: 2,275 (Ranked 246)  
 Completed: 3 (0.13%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 3 (0.13%) (Ranked 300)
 | 2024-01-10 | 2,213 | 4 |
 | 2024-01-11 | 2,245 | 4 |
 | 2024-01-12 | 2,273 | 4 |
-| 2024-01-13 | 2,274 | 3 |
+| 2024-01-13 | 2,275 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

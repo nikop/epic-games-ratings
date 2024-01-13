@@ -41,7 +41,7 @@ Rating: 4.26 (Ranked 917)
 | Denying Prophecy | 8.00% | ~206 |
 | Following In Their Footsteps | 8.00% | ~206 |
 | Defense in Depth | 8.00% | ~206 |
-| Reverse Engineering | 6.00% | ~155 |
+| Reverse Engineering | 7.00% | ~181 |
 | Remote Surgery | 6.00% | ~155 |
 | Turbo Booster | 6.00% | ~155 |
 | Squid Pro Quo | 6.00% | ~155 |

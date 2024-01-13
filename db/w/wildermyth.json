@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 375,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -172,9 +172,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1598,
+  "EOS_Progressed": 1599,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -2442,6 +2442,11 @@
       "Time": "2024-01-12T20:10:12.0587558+00:00",
       "NumProgressed": 1598,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-13T02:32:44.2712089+00:00",
+      "NumProgressed": 1599,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 56,
@@ -2515,9 +2520,9 @@
       "ID": "achievement_catchAllElementalSpiritTypes",
       "SetID": "95dc8p",
       "Name": "Gotta Ca... Must Collect All of Them",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 96
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -2900,15 +2905,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1598,
+      "Progressed": 1599,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2024-01-03T23:58:17.6931046+00:00",
-  "LastChanged_Achievements": "2024-01-13T01:58:34.2189045+00:00",
+  "LastChanged_Achievements": "2024-01-13T02:32:44.2712088+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:17.4648519+00:00",
-  "LastUpdate_Ratings": "2024-01-13T01:47:31.2768957+00:00",
-  "LastUpdate_Achievements": "2024-01-13T01:58:34.2189514+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:22:09.9249605+00:00",
+  "LastUpdate_Achievements": "2024-01-13T02:32:44.2712561+00:00"
 }

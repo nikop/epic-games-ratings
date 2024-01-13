@@ -267,9 +267,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 16920,
+  "EOS_Progressed": 16921,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1324,
+  "EOS_NewPlayers": 1319,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12017,6 +12017,11 @@
       "Time": "2024-01-13T01:51:56.3652993+00:00",
       "NumProgressed": 16920,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-13T02:26:52.2112272+00:00",
+      "NumProgressed": 16921,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12036,7 +12041,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 6091
+      "UsersEstimate": 6092
     },
     {
       "ID": "Ach003",
@@ -12044,7 +12049,7 @@
       "Name": "This will cost you big time",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 3722
+      "UsersEstimate": 3723
     },
     {
       "ID": "Ach004",
@@ -12068,7 +12073,7 @@
       "Name": "Time to pay up!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "Ach007",
@@ -12164,7 +12169,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2876
+      "UsersEstimate": 2877
     },
     {
       "ID": "Ach019",
@@ -12204,7 +12209,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 9306
+      "UsersEstimate": 9307
     },
     {
       "ID": "Ach024",
@@ -12276,7 +12281,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "Ach033",
@@ -12284,7 +12289,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3722
+      "UsersEstimate": 3723
     },
     {
       "ID": "Ach034",
@@ -12404,7 +12409,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 4568
+      "UsersEstimate": 4569
     },
     {
       "ID": "Ach049",
@@ -12444,7 +12449,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2876
+      "UsersEstimate": 2877
     },
     {
       "ID": "Ach054",
@@ -12498,9 +12503,9 @@
       "ID": "Ach060",
       "SetID": "12n4k20",
       "Name": "Check out my moves!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 508
+      "UsersEstimate": 677
     },
     {
       "ID": "Ach061",
@@ -12595,13 +12600,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 16920,
+      "Progressed": 16921,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15441,
+      "Progressed": 15442,
       "Completed": 1930
     }
   ],
@@ -12609,8 +12614,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-12T13:03:48.8797963+00:00",
-  "LastChanged_Achievements": "2024-01-13T01:51:56.365299+00:00",
+  "LastChanged_Achievements": "2024-01-13T02:26:52.2112269+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:39.1696862+00:00",
-  "LastUpdate_Ratings": "2024-01-13T01:46:02.7991818+00:00",
-  "LastUpdate_Achievements": "2024-01-13T01:51:56.3653979+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:21:05.6734154+00:00",
+  "LastUpdate_Achievements": "2024-01-13T02:26:52.2113759+00:00"
 }

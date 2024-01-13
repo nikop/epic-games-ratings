@@ -5,17 +5,17 @@ Rating: 4.19 (Ranked 975)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,975 |
+| Unforeseen | 88.00% | ~2,976 |
 | Battlefields Have Memories | 81.00% | ~2,739 |
-| Enlisted | 74.00% | ~2,502 |
-| Maybe Engage a Little | 69.00% | ~2,333 |
+| Enlisted | 74.00% | ~2,503 |
+| Maybe Engage a Little | 69.00% | ~2,334 |
 | No More Names | 53.00% | ~1,792 |
 | Initiate | 39.00% | ~1,319 |
-| Thrada-Kul | 35.00% | ~1,183 |
-| Gravity-Challenged Rocks | 29.00% | ~980 |
-| Soldier | 25.00% | ~845 |
-| Socialite | 24.00% | ~811 |
-| All the Major Food Groups | 24.00% | ~811 |
+| Thrada-Kul | 35.00% | ~1,184 |
+| Gravity-Challenged Rocks | 29.00% | ~981 |
+| Soldier | 25.00% | ~846 |
+| Socialite | 24.00% | ~812 |
+| All the Major Food Groups | 24.00% | ~812 |
 | Beggars Would Ride | 22.00% | ~744 |
 | Control is an Illusion | 21.00% | ~710 |
 | The Means to Save It | 18.00% | ~609 |
@@ -27,8 +27,8 @@ Rating: 4.19 (Ranked 975)
 | Recruit | 14.00% | ~473 |
 | Armsman | 12.00% | ~406 |
 | Lights Army | 10.00% | ~338 |
-| Periapt Cerulean | 8.00% | ~270 |
-| Good Boy | 8.00% | ~270 |
+| Periapt Cerulean | 8.00% | ~271 |
+| Good Boy | 8.00% | ~271 |
 | Periapt Viridian | 7.00% | ~237 |
 | Best Dressed | 6.00% | ~203 |
 | Shroudfane Explorer | 6.00% | ~203 |
@@ -43,8 +43,8 @@ Rating: 4.19 (Ranked 975)
 | Shroudfane Surveyor | 1.00% | ~34 |
 | Tip of the Spear | 1.00% | ~34 |
 | Witch-Taker | 0.80% | ~27 |
+| Master of Ultramarine | 0.80% | ~27 |
 | Backtracker | 0.80% | ~27 |
-| Master of Ultramarine | 0.70% | ~24 |
 | Family Business | 0.60% | ~20 |
 | Petite Bourgeoisie | 0.60% | ~20 |
 | Master of Malachite | 0.60% | ~20 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 975)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,381 (Ranked 229)  
+Progressed: 3,382 (Ranked 229)  
 Completed: 4 (0.12%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 4 (0.12%) (Ranked 305)
 | 2024-01-10 | 3,285 | 4 |
 | 2024-01-11 | 3,340 | 4 |
 | 2024-01-12 | 3,375 | 4 |
-| 2024-01-13 | 3,381 | 4 |
+| 2024-01-13 | 3,382 | 4 |
 ## Awards
 Max (Quickly Understood Controls): 20  (Ranked 579)  
 Sum: 20 (Ranked 580)  

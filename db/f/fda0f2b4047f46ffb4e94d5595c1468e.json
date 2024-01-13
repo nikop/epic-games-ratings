@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 375,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5073,9 +5073,9 @@
       "Count": 604
     }
   ],
-  "EOS_Progressed": 23689,
+  "EOS_Progressed": 23690,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2162,
+  "EOS_NewPlayers": 2157,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16203,6 +16203,11 @@
       "Time": "2024-01-13T01:56:39.9707539+00:00",
       "NumProgressed": 23689,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-13T02:31:21.7571315+00:00",
+      "NumProgressed": 23690,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -16215,7 +16220,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8054
+      "UsersEstimate": 8055
     },
     {
       "ID": "ach02",
@@ -16231,7 +16236,7 @@
       "Name": "A New Timeline",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 10423
+      "UsersEstimate": 10424
     },
     {
       "ID": "ach04",
@@ -16261,9 +16266,9 @@
       "ID": "ach07",
       "SetID": "47in8n6",
       "Name": "Beaten And Broken",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 10423
+      "UsersEstimate": 10660
     },
     {
       "ID": "ach08",
@@ -16407,7 +16412,7 @@
       "Name": "Talis-Mania",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3553
+      "UsersEstimate": 3554
     },
     {
       "ID": "ach26",
@@ -16423,7 +16428,7 @@
       "Name": "So Krafty",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5685
+      "UsersEstimate": 5686
     },
     {
       "ID": "ach28",
@@ -16431,7 +16436,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5685
+      "UsersEstimate": 5686
     },
     {
       "ID": "ach29",
@@ -16479,7 +16484,7 @@
       "Name": "Always Accessorize",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5685
+      "UsersEstimate": 5686
     },
     {
       "ID": "ach35",
@@ -16511,7 +16516,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7817
+      "UsersEstimate": 7818
     },
     {
       "ID": "ach39",
@@ -16519,7 +16524,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7580
+      "UsersEstimate": 7581
     },
     {
       "ID": "ach40",
@@ -16535,7 +16540,7 @@
       "Name": "Stop Hiding",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 5448
+      "UsersEstimate": 5449
     },
     {
       "ID": "ach42",
@@ -16551,7 +16556,7 @@
       "Name": "Working Overtime",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7580
+      "UsersEstimate": 7581
     },
     {
       "ID": "ach44",
@@ -16583,7 +16588,7 @@
       "Name": "Big Spender",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 3316
+      "UsersEstimate": 3317
     },
     {
       "ID": "ach48",
@@ -16614,7 +16619,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 23689,
+      "Progressed": 23690,
       "Completed": 2
     }
   ],
@@ -16622,8 +16627,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-13T01:50:20.707602+00:00",
-  "LastChanged_Achievements": "2024-01-13T01:56:39.9707536+00:00",
+  "LastChanged_Achievements": "2024-01-13T02:31:21.7571313+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.6187018+00:00",
-  "LastUpdate_Ratings": "2024-01-13T01:50:20.7076025+00:00",
-  "LastUpdate_Achievements": "2024-01-13T01:56:39.9708556+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:25:46.2883295+00:00",
+  "LastUpdate_Achievements": "2024-01-13T02:31:21.7572274+00:00"
 }

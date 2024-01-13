@@ -91,9 +91,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2274,
+  "EOS_Progressed": 2275,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4391,6 +4391,11 @@
       "Time": "2024-01-13T01:58:30.3149192+00:00",
       "NumProgressed": 2274,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-13T02:32:41.196985+00:00",
+      "NumProgressed": 2275,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4410,7 +4415,7 @@
       "Name": "Find Allies",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "ACH_03",
@@ -4458,7 +4463,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACH_09",
@@ -4474,7 +4479,7 @@
       "Name": "Trinity",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "ACH_11",
@@ -4490,7 +4495,7 @@
       "Name": "Shardbearer",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_13",
@@ -4554,7 +4559,7 @@
       "Name": "Flawless Victory",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_21",
@@ -4562,7 +4567,7 @@
       "Name": "Big Bazar",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "ACH_22",
@@ -4586,7 +4591,7 @@
       "Name": "All There Is",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_25",
@@ -4610,7 +4615,7 @@
       "Name": "False God",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_28",
@@ -4689,7 +4694,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2274,
+      "Progressed": 2275,
       "Completed": 3
     }
   ],
@@ -4697,8 +4702,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-11T14:57:15.6904807+00:00",
-  "LastChanged_Achievements": "2024-01-13T01:58:30.314919+00:00",
+  "LastChanged_Achievements": "2024-01-13T02:32:41.1969849+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-13T01:45:20.9729197+00:00",
-  "LastUpdate_Achievements": "2024-01-13T01:58:30.3149645+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:20:36.8098133+00:00",
+  "LastUpdate_Achievements": "2024-01-13T02:32:41.197024+00:00"
 }

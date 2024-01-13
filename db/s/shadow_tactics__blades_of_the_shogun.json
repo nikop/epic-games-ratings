@@ -2536,9 +2536,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 225595,
+  "EOS_Progressed": 225601,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 1332,
+  "EOS_NewPlayers": 1335,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -33346,6 +33346,11 @@
       "Time": "2024-01-13T01:53:18.6915384+00:00",
       "NumProgressed": 225595,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2024-01-13T02:27:50.4964649+00:00",
+      "NumProgressed": 225601,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 44,
@@ -33357,7 +33362,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 24815
+      "UsersEstimate": 24816
     },
     {
       "ID": "AtheistOx",
@@ -33429,7 +33434,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 27071
+      "UsersEstimate": 27072
     },
     {
       "ID": "HappyLittleAccidents",
@@ -33645,7 +33650,7 @@
       "Name": "Thorough",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24815
+      "UsersEstimate": 24816
     },
     {
       "ID": "TimeParadox",
@@ -33708,15 +33713,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 225595,
+      "Progressed": 225601,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-12T17:58:29.8634913+00:00",
-  "LastChanged_Achievements": "2024-01-13T01:53:18.6915381+00:00",
+  "LastChanged_Achievements": "2024-01-13T02:27:50.4964647+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:34.88387+00:00",
-  "LastUpdate_Ratings": "2024-01-13T01:46:41.6775558+00:00",
-  "LastUpdate_Achievements": "2024-01-13T01:53:18.6916935+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:21:31.0365929+00:00",
+  "LastUpdate_Achievements": "2024-01-13T02:27:50.4965998+00:00"
 }

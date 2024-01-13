@@ -335,9 +335,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 341086,
+  "EOS_Progressed": 341089,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1942,
+  "EOS_NewPlayers": 1933,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17265,6 +17265,11 @@
       "Time": "2024-01-13T01:55:53.6184822+00:00",
       "NumProgressed": 341086,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T02:30:48.1931787+00:00",
+      "NumProgressed": 341089,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -17301,7 +17306,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 150078
+      "UsersEstimate": 150079
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -17317,7 +17322,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 71628
+      "UsersEstimate": 71629
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -17333,7 +17338,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 40930
+      "UsersEstimate": 40931
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -17341,7 +17346,7 @@
       "Name": "Beladin Dune Sea",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 37519
+      "UsersEstimate": 37520
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -17653,20 +17658,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 173954
+      "UsersEstimate": 173955
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 341086,
+      "Progressed": 341089,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 341075,
+      "Progressed": 341078,
       "Completed": 1
     }
   ],
@@ -17674,8 +17679,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2024-01-09T10:03:35.565686+00:00",
-  "LastChanged_Achievements": "2024-01-13T01:55:53.6184818+00:00",
+  "LastChanged_Achievements": "2024-01-13T02:30:48.1931782+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:09.5837118+00:00",
-  "LastUpdate_Ratings": "2024-01-13T01:50:31.3088428+00:00",
-  "LastUpdate_Achievements": "2024-01-13T01:55:53.6186217+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:25:53.0999661+00:00",
+  "LastUpdate_Achievements": "2024-01-13T02:30:48.1932711+00:00"
 }

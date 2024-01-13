@@ -112,6 +112,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.50% | ~83 |
 | Ambition Victory | 0.50% | ~83 |
 | The Clergy | 0.50% | ~83 |
+| Kushite Pyramids | 0.50% | ~83 |
 | Devout | 0.40% | ~66 |
 | Invincible | 0.40% | ~66 |
 | Lion | 0.40% | ~66 |
@@ -132,7 +133,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.40% | ~66 |
 | All Nations | 0.40% | ~66 |
 | Deposed Tribe | 0.40% | ~66 |
-| Kushite Pyramids | 0.40% | ~66 |
 | Ishtar Gate in Babylon | 0.30% | ~50 |
 | Old | 0.30% | ~50 |
 | Church of the Holy Sepulchre | 0.30% | ~50 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,564 (Ranked 170)  
+Progressed: 16,567 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -633,10 +633,10 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
-| 2024-01-13 | 16,564 | 5 |
+| 2024-01-13 | 16,567 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
-Sum: 1,922 (Ranked 224)  
+Sum: 1,923 (Ranked 224)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
@@ -646,7 +646,7 @@ Diff (max vs sum): 63
 | This game is Highly Recommended | 222 |
 | This game is Educational | 219 |
 | This game has Challenging Combat | 209 |
-| This game has Amazing Characters | 201 |
+| This game has Amazing Characters | 202 |
 | This game has Quickly Understood Controls | 198 |
 | This game has Amazing Storytelling | 197 |
 | This game has Obsessive Gameplay | 155 |
@@ -845,4 +845,4 @@ Diff (max vs sum): 63
 | 2024-01-08 | 4.65 | - | 229 | 1,917 |
 | 2024-01-09 | 4.65 | - | 229 | 1,919 |
 | 2024-01-11 | 4.65 | - | 230 | 1,921 |
-| 2024-01-13 | 4.65 | - | 230 | 1,922 |
+| 2024-01-13 | 4.65 | - | 230 | 1,923 |

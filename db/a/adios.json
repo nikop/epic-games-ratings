@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -141,9 +141,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83380,
+  "EOS_Progressed": 83382,
   "EOS_Completed": 930,
-  "EOS_NewPlayers": 569,
+  "EOS_NewPlayers": 565,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -30001,6 +30001,11 @@
       "Time": "2024-01-13T01:53:15.1851892+00:00",
       "NumProgressed": 83380,
       "NumCompleted": 930
+    },
+    {
+      "Time": "2024-01-13T02:27:47.94058+00:00",
+      "NumProgressed": 83382,
+      "NumCompleted": 930
     }
   ],
   "TotalAchievements": 25,
@@ -30028,7 +30033,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15842
+      "UsersEstimate": 15843
     },
     {
       "ID": "Audiophile",
@@ -30052,7 +30057,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 15008
+      "UsersEstimate": 15009
     },
     {
       "ID": "Butcher",
@@ -30132,7 +30137,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15842
+      "UsersEstimate": 15843
     },
     {
       "ID": "Nice Try",
@@ -30204,14 +30209,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6670
+      "UsersEstimate": 6671
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83380,
+      "Progressed": 83382,
       "Completed": 930
     }
   ],
@@ -30219,8 +30224,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-13T01:53:15.1851888+00:00",
+  "LastChanged_Achievements": "2024-01-13T02:27:47.9405797+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.3609745+00:00",
-  "LastUpdate_Ratings": "2024-01-13T01:49:55.3631762+00:00",
-  "LastUpdate_Achievements": "2024-01-13T01:53:15.1853369+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:25:30.0693865+00:00",
+  "LastUpdate_Achievements": "2024-01-13T02:27:47.9407004+00:00"
 }

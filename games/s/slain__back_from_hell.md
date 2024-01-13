@@ -1,26 +1,26 @@
 # Slain: Back From Hell
 [Store](https://store.epicgames.com/en-US/p/slain-aea303)  
 [View Rawdata](../../db/s/slain__back_from_hell.json)  
-Rating: 4.28 (Ranked 897)  
+Rating: 4.29 (Ranked 884)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Man 'O War | 21.00% | ~9,253 |
-| A Good Day To Die | 15.00% | ~6,609 |
+| A Good Day To Die | 15.00% | ~6,610 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,644 |
 | Right Back Atcha | 6.00% | ~2,644 |
 | Killed by Death | 5.00% | ~2,203 |
-| Kill 'Em All | 4.00% | ~1,762 |
+| Kill 'Em All | 4.00% | ~1,763 |
 | Down Boy! | 2.00% | ~881 |
 | A Snowball's Chance in Hell | 2.00% | ~881 |
 | Enjoy The Silence | 1.00% | ~441 |
 | Sure Footed As A Goat | 0.90% | ~397 |
 | Backdoor Man | 0.90% | ~397 |
-| Thorn in My Herbicide | 0.80% | ~352 |
-| Red In Tooth And Claw | 0.80% | ~352 |
-| Death Becomes Her | 0.80% | ~352 |
-| The Sky Is Falling | 0.80% | ~352 |
-| Schadenfreude | 0.80% | ~352 |
+| Thorn in My Herbicide | 0.80% | ~353 |
+| Red In Tooth And Claw | 0.80% | ~353 |
+| Death Becomes Her | 0.80% | ~353 |
+| The Sky Is Falling | 0.80% | ~353 |
+| Schadenfreude | 0.80% | ~353 |
 | Start As You Mean To Go On | 0.70% | ~308 |
 | Hail the Great Horned Metal God! | 0.70% | ~308 |
 | That'll Come In Handy... | 0.70% | ~308 |
@@ -35,7 +35,7 @@ Rating: 4.28 (Ranked 897)
 | Heart Of Steel | 0.10% | ~44 |
 | Death or Glory | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,060 (Ranked 132)  
+Progressed: 44,064 (Ranked 132)  
 Completed: 30 (0.07%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 30 (0.07%) (Ranked 332)
 | 2024-01-10 | 43,940 | 30 |
 | 2024-01-11 | 43,996 | 30 |
 | 2024-01-12 | 44,053 | 30 |
-| 2024-01-13 | 44,060 | 30 |
+| 2024-01-13 | 44,064 | 30 |
 ## Awards
 Max (Great Boss Battles): 129  (Ranked 350)  
 Sum: 129 (Ranked 453)  
@@ -355,3 +355,4 @@ Diff (max vs sum): -103
 | 2023-12-02 | 4.29 | 128 | 128 |
 | 2023-12-18 | 4.28 | 128 | 128 |
 | 2024-01-10 | 4.28 | 129 | 129 |
+| 2024-01-13 | 4.29 | 129 | 129 |

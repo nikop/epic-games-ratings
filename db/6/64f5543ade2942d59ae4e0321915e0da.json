@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 506,
+  "EOS_Progressed": 507,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -1954,6 +1954,11 @@
       "Time": "2024-01-12T23:05:49.5009769+00:00",
       "NumProgressed": 506,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-13T02:28:26.87579+00:00",
+      "NumProgressed": 507,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2030,7 +2035,7 @@
       "Name": "Ludopath",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "AC_BOSS_00",
@@ -2038,7 +2043,7 @@
       "Name": "Hunger",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "AC_BOSS_01",
@@ -2046,7 +2051,7 @@
       "Name": "Misery",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "AC_BOSS_02",
@@ -2078,7 +2083,7 @@
       "Name": "Pack",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "AC_COMBO_2",
@@ -2134,15 +2139,15 @@
       "Name": "Killer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 126
+      "UsersEstimate": 122
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -2158,7 +2163,7 @@
       "Name": "Excursion",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2212,9 +2217,9 @@
       "ID": "AC_FULL_MAP",
       "SetID": "16i2akc",
       "Name": "Vision",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 35
     },
     {
       "ID": "AC_MONEY_BLACKJACK",
@@ -2270,7 +2275,7 @@
       "Name": "Loss",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -2301,14 +2306,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 506,
+      "Progressed": 507,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-13T01:54:09.7285257+00:00",
+  "LastChanged_Achievements": "2024-01-13T02:28:26.8757898+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:59.4542445+00:00",
-  "LastUpdate_Ratings": "2024-01-13T01:44:36.4641698+00:00",
-  "LastUpdate_Achievements": "2024-01-13T01:54:09.7285711+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:20:07.4260836+00:00",
+  "LastUpdate_Achievements": "2024-01-13T02:28:26.8758213+00:00"
 }

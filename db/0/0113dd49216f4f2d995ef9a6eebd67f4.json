@@ -1388,9 +1388,9 @@
       "ID": "SG_MYTIMETOSHINE",
       "SetID": "bj5g0n4",
       "Name": "My Time To Shine",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 41
     },
     {
       "ID": "SG_NOTALOSTGIRL",
@@ -1547,8 +1547,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-13T01:57:13.0591804+00:00",
+  "LastChanged_Achievements": "2024-01-13T02:31:45.4843462+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:09.0015101+00:00",
-  "LastUpdate_Ratings": "2024-01-13T01:45:25.8714205+00:00",
-  "LastUpdate_Achievements": "2024-01-13T01:57:13.0592092+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:20:41.2425587+00:00",
+  "LastUpdate_Achievements": "2024-01-13T02:31:45.4843744+00:00"
 }

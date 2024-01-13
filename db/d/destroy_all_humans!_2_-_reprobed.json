@@ -5,7 +5,7 @@
   "Ranking_Rating": 553,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 533,
-  "Ranking_EOS_Progress": 369,
+  "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 153,
@@ -306,9 +306,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 416,
+  "EOS_Progressed": 417,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -1896,6 +1896,11 @@
       "Time": "2024-01-12T23:09:35.2173869+00:00",
       "NumProgressed": 416,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-13T02:31:59.8457225+00:00",
+      "NumProgressed": 417,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1908,7 +1913,7 @@
       "Name": "Mash Machine",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -2020,7 +2025,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -2044,7 +2049,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -2124,7 +2129,7 @@
       "Name": "Deincarnated",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_KILL_WARSHIP",
@@ -2164,7 +2169,7 @@
       "Name": "Upgreatest",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -2259,7 +2264,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 416,
+      "Progressed": 417,
       "Completed": 2
     }
   ],
@@ -2267,8 +2272,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-13T01:57:33.1444198+00:00",
+  "LastChanged_Achievements": "2024-01-13T02:31:59.8457223+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-13T01:47:55.0858613+00:00",
-  "LastUpdate_Achievements": "2024-01-13T01:57:33.1444601+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:22:27.3234054+00:00",
+  "LastUpdate_Achievements": "2024-01-13T02:31:59.8457548+00:00"
 }

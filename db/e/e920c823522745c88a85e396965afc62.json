@@ -291,9 +291,9 @@
       "ID": "contractor",
       "SetID": "d4692al",
       "Name": "New Contractor",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "crazyCoaster",
@@ -514,8 +514,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-01-13T01:56:31.1816713+00:00",
+  "LastChanged_Achievements": "2024-01-13T02:31:15.1733764+00:00",
   "LastUpdate_AppInfo": "2024-01-11T10:57:10.1512707+00:00",
-  "LastUpdate_Ratings": "2024-01-13T01:44:25.9164598+00:00",
-  "LastUpdate_Achievements": "2024-01-13T01:56:31.1816962+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:19:59.8777571+00:00",
+  "LastUpdate_Achievements": "2024-01-13T02:31:15.1733986+00:00"
 }

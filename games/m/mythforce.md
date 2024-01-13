@@ -18,7 +18,7 @@ Number of Ratings: 285  (23.09.2022)
 | Ten Steps from the Grave | 16.00% | ~1,007 |
 | Everything Must Go! | 15.00% | ~944 |
 | Next Time on MythForce... | 15.00% | ~944 |
-| Cold-Blooded Critters | 11.00% | ~692 |
+| Cold-Blooded Critters | 11.00% | ~693 |
 | Death Becomes You | 8.00% | ~504 |
 | On this Episode! | 7.00% | ~441 |
 | Flawless Victory | 6.00% | ~378 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.40% | ~25 |
 | Deadalus and Loving It | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,295 (Ranked 201)  
+Progressed: 6,296 (Ranked 201)  
 Completed: 5 (0.08%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 5 (0.08%) (Ranked 326)
 | 2024-01-10 | 6,255 | 5 |
 | 2024-01-11 | 6,273 | 5 |
 | 2024-01-12 | 6,293 | 5 |
-| 2024-01-13 | 6,295 | 5 |
+| 2024-01-13 | 6,296 | 5 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 501)  
 Sum: 296 (Ranked 382)  

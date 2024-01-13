@@ -2427,7 +2427,7 @@
   ],
   "EOS_Progressed": 19448,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 922,
+  "EOS_NewPlayers": 921,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -20398,9 +20398,9 @@
       "ID": "ACH29",
       "SetID": "4ck5mbe",
       "Name": "Today Was a Good Day",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2723
+      "UsersEstimate": 2917
     },
     {
       "ID": "ACH30",
@@ -20463,8 +20463,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-13T01:50:16.0028084+00:00",
-  "LastChanged_Achievements": "2024-01-13T01:58:27.0539265+00:00",
+  "LastChanged_Achievements": "2024-01-13T02:32:38.6972151+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-13T01:50:16.002809+00:00",
-  "LastUpdate_Achievements": "2024-01-13T01:58:27.0540529+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:25:43.0165899+00:00",
+  "LastUpdate_Achievements": "2024-01-13T02:32:38.6973182+00:00"
 }

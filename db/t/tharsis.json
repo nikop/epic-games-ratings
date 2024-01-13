@@ -2,7 +2,7 @@
   "ID": "be67e141378446cf9399b3db1a22ceb3",
   "Name": "Tharsis",
   "ProductSlug": "tharsis",
-  "Ranking_Rating": 1033,
+  "Ranking_Rating": 1034,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 827,
@@ -321,6 +321,6 @@
   "FirstSeen": "2022-07-22T20:19:00.6251674+00:00",
   "LastChanged": "2023-12-04T22:58:08.5058915+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:08.2806641+00:00",
-  "LastUpdate_Ratings": "2024-01-13T01:48:45.2826166+00:00",
-  "LastUpdate_Achievements": "2024-01-13T01:55:51.5265682+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:23:01.3251054+00:00",
+  "LastUpdate_Achievements": "2024-01-13T02:30:46.7118515+00:00"
 }

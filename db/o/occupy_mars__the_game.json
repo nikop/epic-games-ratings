@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1883,
+  "EOS_Progressed": 1884,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5038,6 +5038,11 @@
       "Time": "2024-01-12T20:09:38.2520027+00:00",
       "NumProgressed": 1883,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T02:32:12.1157289+00:00",
+      "NumProgressed": 1884,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5081,7 +5086,7 @@
       "Name": "Hard Landing",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT_HISTORICAL_PLACES",
@@ -5225,7 +5230,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -5265,7 +5270,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -5432,7 +5437,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1883,
+      "Progressed": 1884,
       "Completed": 0
     }
   ],
@@ -5440,8 +5445,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2024-01-09T16:02:23.0830001+00:00",
-  "LastChanged_Achievements": "2024-01-13T01:57:50.3972432+00:00",
+  "LastChanged_Achievements": "2024-01-13T02:32:12.1157286+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.830509+00:00",
-  "LastUpdate_Ratings": "2024-01-13T01:44:48.3842001+00:00",
-  "LastUpdate_Achievements": "2024-01-13T01:57:50.397292+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:20:15.6460912+00:00",
+  "LastUpdate_Achievements": "2024-01-13T02:32:12.1157824+00:00"
 }

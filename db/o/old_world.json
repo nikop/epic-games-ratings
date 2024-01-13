@@ -2176,10 +2176,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1922,
       "NumberOfAwardsMax": 230
+    },
+    {
+      "Time": "2024-01-13T02:21:38.4369231+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1923,
+      "NumberOfAwardsMax": 230
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1922,
+  "NumberOfAwards": 1923,
   "NumberOfAwardsMax": 230,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2241,7 +2247,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 201
+      "Count": 202
     },
     {
       "Text": "This game has a Creative Community",
@@ -2256,9 +2262,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16564,
+  "EOS_Progressed": 16567,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 425,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19781,6 +19787,11 @@
       "Time": "2024-01-13T01:58:41.7460195+00:00",
       "NumProgressed": 16564,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T02:32:50.8451587+00:00",
+      "NumProgressed": 16567,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -22494,9 +22505,9 @@
       "ID": "ACHIEVEMENT_KUSHITE_PYRAMIDS",
       "SetID": "9201eeb",
       "Name": "Kushite Pyramids",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_NATION_KUSH",
@@ -22655,21 +22666,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16564,
+      "Progressed": 16567,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16564,
+      "Progressed": 16567,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-01-13T01:46:51.4738033+00:00",
-  "LastChanged_Achievements": "2024-01-13T01:58:41.7460194+00:00",
+  "LastChanged": "2024-01-13T02:21:38.4369229+00:00",
+  "LastChanged_Achievements": "2024-01-13T02:32:50.8451585+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-13T01:46:51.4738038+00:00",
-  "LastUpdate_Achievements": "2024-01-13T01:58:41.7470929+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:21:38.4369234+00:00",
+  "LastUpdate_Achievements": "2024-01-13T02:32:50.8756261+00:00"
 }

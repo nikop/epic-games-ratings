@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 375,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 847,
+  "EOS_Progressed": 848,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1329,6 +1329,11 @@
       "Time": "2024-01-12T15:06:30.7248901+00:00",
       "NumProgressed": 847,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T02:28:17.3299033+00:00",
+      "NumProgressed": 848,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1380,7 +1385,7 @@
       "Name": "Club Star",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "Combine",
@@ -1396,7 +1401,7 @@
       "Name": "Deadly Kombationem",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "Fire in the hole!",
@@ -1404,7 +1409,7 @@
       "Name": "Fire in the hole!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "I feel secure, contained \u0026 protected",
@@ -1428,7 +1433,7 @@
       "Name": "I just love stuff!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "I_think_its_broke",
@@ -1452,7 +1457,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "Lady_Luck",
@@ -1468,7 +1473,7 @@
       "Name": "Omnipotence",
       "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "SERENITY_NOW",
@@ -1508,7 +1513,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -1548,7 +1553,7 @@
       "Name": "The Warlord",
       "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "The_things_they_print_nowadays",
@@ -1556,7 +1561,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "The_truth_is_out_there",
@@ -1604,7 +1609,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "posters",
@@ -1627,7 +1632,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 847,
+      "Progressed": 848,
       "Completed": 0
     }
   ],
@@ -1635,8 +1640,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-25T11:02:42.8909676+00:00",
-  "LastChanged_Achievements": "2024-01-13T01:53:56.3990087+00:00",
+  "LastChanged_Achievements": "2024-01-13T02:28:17.3299028+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.1619736+00:00",
-  "LastUpdate_Ratings": "2024-01-13T01:50:31.8586979+00:00",
-  "LastUpdate_Achievements": "2024-01-13T01:53:56.3990392+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:25:53.4620964+00:00",
+  "LastUpdate_Achievements": "2024-01-13T02:28:17.3299284+00:00"
 }

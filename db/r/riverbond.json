@@ -503,9 +503,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 535468,
+  "EOS_Progressed": 535469,
   "EOS_Completed": 521,
-  "EOS_NewPlayers": 505,
+  "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -28998,6 +28998,11 @@
       "Time": "2024-01-13T01:56:33.8196248+00:00",
       "NumProgressed": 535468,
       "NumCompleted": 521
+    },
+    {
+      "Time": "2024-01-13T02:31:17.0744587+00:00",
+      "NumProgressed": 535469,
+      "NumCompleted": 521
     }
   ],
   "TotalAchievements": 57,
@@ -29089,7 +29094,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 331990
+      "UsersEstimate": 331991
     },
     {
       "ID": "2",
@@ -29105,7 +29110,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 128512
+      "UsersEstimate": 128513
     },
     {
       "ID": "21",
@@ -29113,7 +29118,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 58901
+      "UsersEstimate": 58902
     },
     {
       "ID": "22",
@@ -29313,7 +29318,7 @@
       "Name": "Under the Radar",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 42837
+      "UsersEstimate": 42838
     },
     {
       "ID": "45",
@@ -29337,7 +29342,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 331990
+      "UsersEstimate": 331991
     },
     {
       "ID": "48",
@@ -29385,7 +29390,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 246315
+      "UsersEstimate": 246316
     },
     {
       "ID": "53",
@@ -29464,15 +29469,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 535468,
+      "Progressed": 535469,
       "Completed": 521
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-12-14T14:59:39.4842186+00:00",
-  "LastChanged_Achievements": "2024-01-13T01:56:33.8196244+00:00",
+  "LastChanged_Achievements": "2024-01-13T02:31:17.0744586+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:34.7747339+00:00",
-  "LastUpdate_Ratings": "2024-01-13T01:47:20.2017687+00:00",
-  "LastUpdate_Achievements": "2024-01-13T01:56:33.8197967+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:22:02.4005953+00:00",
+  "LastUpdate_Achievements": "2024-01-13T02:31:17.074637+00:00"
 }
