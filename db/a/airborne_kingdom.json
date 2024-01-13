@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7773,
+  "EOS_Progressed": 7774,
   "EOS_Completed": 59,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
@@ -6918,6 +6918,11 @@
       "Time": "2024-01-13T05:04:07.7006485+00:00",
       "NumProgressed": 7773,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-13T13:07:03.9072166+00:00",
+      "NumProgressed": 7774,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -6985,7 +6990,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -6993,7 +6998,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -7017,7 +7022,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "AK_ON_TOWN",
@@ -7025,7 +7030,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2176
+      "UsersEstimate": 2177
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -7041,7 +7046,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -7129,7 +7134,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3109
+      "UsersEstimate": 3110
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -7144,15 +7149,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7773,
+      "Progressed": 7774,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-13T12:04:45.7178972+00:00",
+  "LastChanged_Achievements": "2024-01-13T13:07:03.9072161+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:05.4838483+00:00",
-  "LastUpdate_Ratings": "2024-01-13T12:03:48.218916+00:00",
-  "LastUpdate_Achievements": "2024-01-13T12:04:45.7179493+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:06:16.1353561+00:00",
+  "LastUpdate_Achievements": "2024-01-13T13:07:03.9072654+00:00"
 }

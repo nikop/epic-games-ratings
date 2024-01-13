@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -425,9 +425,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 14775,
+  "EOS_Progressed": 14776,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 1102,
+  "EOS_NewPlayers": 1090,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10230,6 +10230,11 @@
       "Time": "2024-01-13T12:10:56.5761899+00:00",
       "NumProgressed": 14775,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-13T13:12:58.9662951+00:00",
+      "NumProgressed": 14776,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10314,7 +10319,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8126
+      "UsersEstimate": 8127
     },
     {
       "ID": "FuneralForTheDeath",
@@ -10354,7 +10359,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "JackOfAllTrades",
@@ -10426,7 +10431,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "TheOldSchoolWay",
@@ -10442,7 +10447,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6353
+      "UsersEstimate": 6354
     },
     {
       "ID": "ThisIsDharma",
@@ -10513,7 +10518,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14775,
+      "Progressed": 14776,
       "Completed": 27
     }
   ],
@@ -10521,8 +10526,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-13T11:58:52.3774127+00:00",
-  "LastChanged_Achievements": "2024-01-13T12:10:56.5761891+00:00",
+  "LastChanged_Achievements": "2024-01-13T13:12:58.9662945+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-13T11:58:52.3774136+00:00",
-  "LastUpdate_Achievements": "2024-01-13T12:10:56.5762686+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:01:13.8898787+00:00",
+  "LastUpdate_Achievements": "2024-01-13T13:12:58.9663621+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -1586,9 +1586,9 @@
       "ID": "KR4_ACHIEVEMENT_ELITEHARASSERS",
       "SetID": "caeik3h",
       "Name": "Ultra Instinct",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "KR4_ACHIEVEMENT_FARMER_JOE",
@@ -1722,9 +1722,9 @@
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
       "SetID": "caeik3h",
       "Name": "Nothing is beneath me!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 76
     },
     {
       "ID": "KR4_ACHIEVEMENT_INFERNALDEN",
@@ -2081,8 +2081,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-13T12:05:34.6795642+00:00",
+  "LastChanged_Achievements": "2024-01-13T13:07:44.16814+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-13T11:58:37.3930129+00:00",
-  "LastUpdate_Achievements": "2024-01-13T12:05:34.6796476+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:01:01.9366336+00:00",
+  "LastUpdate_Achievements": "2024-01-13T13:07:44.1682104+00:00"
 }

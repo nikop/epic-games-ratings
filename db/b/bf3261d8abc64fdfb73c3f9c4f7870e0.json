@@ -4,8 +4,8 @@
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
   "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
     "PcReleaseDate": "2018-03-22T23:00:00+00:00",
@@ -766,7 +766,7 @@
       "ID": "achievement_fidelity_to_the_clan",
       "SetID": "bngbnfb",
       "Name": "True to the clan",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1061,8 +1061,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2024-01-13T12:10:12.3752589+00:00",
+  "LastChanged_Achievements": "2024-01-13T13:12:23.1829399+00:00",
   "LastUpdate_AppInfo": "2024-01-10T15:57:10.9159831+00:00",
-  "LastUpdate_Ratings": "2024-01-13T11:59:09.4676015+00:00",
-  "LastUpdate_Achievements": "2024-01-13T12:10:12.3752949+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:01:28.8799216+00:00",
+  "LastUpdate_Achievements": "2024-01-13T13:12:23.182991+00:00"
 }

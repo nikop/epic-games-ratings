@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 573,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
     "PcReleaseDate": "2022-10-13T23:00:00+00:00",
@@ -288,9 +288,9 @@
       "ID": "beginner",
       "SetID": "d4692al",
       "Name": "Beginner Guide",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "contractor",
@@ -519,8 +519,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-01-13T12:09:05.8026715+00:00",
+  "LastChanged_Achievements": "2024-01-13T13:11:29.6555248+00:00",
   "LastUpdate_AppInfo": "2024-01-11T10:57:10.1512707+00:00",
-  "LastUpdate_Ratings": "2024-01-13T11:57:50.9867153+00:00",
-  "LastUpdate_Achievements": "2024-01-13T12:09:05.8027154+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:00:26.9302418+00:00",
+  "LastUpdate_Achievements": "2024-01-13T13:11:29.6555697+00:00"
 }

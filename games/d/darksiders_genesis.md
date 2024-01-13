@@ -19,9 +19,9 @@ Number of Ratings: 67  (23.09.2022)
 | Mint II | 1.00% | ~6 |
 | The Dead Court | 1.00% | ~6 |
 | A Bullet for All Seasons | 0.90% | ~6 |
+| Mint III | 0.90% | ~6 |
 | Walking Armory | 0.90% | ~6 |
 | Good Deeds | 0.80% | ~5 |
-| Mint III | 0.80% | ~5 |
 | Gatekeeper | 0.60% | ~4 |
 | Why'd It Have to Be Snakes? | 0.60% | ~4 |
 | Ready to Blow | 0.50% | ~3 |

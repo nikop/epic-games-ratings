@@ -4,8 +4,8 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 174,
+  "EOS_Progressed": 175,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -699,6 +699,11 @@
       "Time": "2024-01-09T17:06:54.8407683+00:00",
       "NumProgressed": 174,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T13:06:55.4535369+00:00",
+      "NumProgressed": 175,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T20:03:47.3726007+00:00",
@@ -711,7 +716,7 @@
       "Name": "Adventure awaits",
       "Percentage": 80,
       "XP": 100,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "BARON",
@@ -743,7 +748,7 @@
       "Name": "Dragon Cult",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "DISCIPLE",
@@ -837,9 +842,9 @@
       "ID": "LOVERS",
       "SetID": "40o4f14",
       "Name": "Lover\u0027s dream",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "MERCENARY",
@@ -853,9 +858,9 @@
       "ID": "MINES",
       "SetID": "40o4f14",
       "Name": "The mines",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 35
+      "UsersEstimate": 33
     },
     {
       "ID": "MIRROR",
@@ -871,7 +876,7 @@
       "Name": "Moist",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "MOUNTAINEER",
@@ -895,7 +900,7 @@
       "Name": "Growing the economy",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SAVIOR",
@@ -917,17 +922,17 @@
       "ID": "SNEAKY",
       "SetID": "40o4f14",
       "Name": "Sneaky",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 54
     },
     {
       "ID": "SOUL",
       "SetID": "40o4f14",
       "Name": "A restless soul",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "WASHING",
@@ -958,14 +963,14 @@
     {
       "ID": "40o4f14",
       "IsBase": true,
-      "Progressed": 174,
+      "Progressed": 175,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2024-01-13T12:04:35.097062+00:00",
+  "LastChanged_Achievements": "2024-01-13T13:06:55.4535364+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:10.85047+00:00",
   "LastUpdate_Ratings": "2024-01-13T12:02:59.6113464+00:00",
-  "LastUpdate_Achievements": "2024-01-13T12:04:35.097091+00:00"
+  "LastUpdate_Achievements": "2024-01-13T13:06:55.4535611+00:00"
 }

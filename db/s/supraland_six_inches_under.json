@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -2952,9 +2952,9 @@
       "ID": "Area4",
       "SetID": "5lok9mm",
       "Name": "Beat the big arena",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 1997
+      "UsersEstimate": 2021
     },
     {
       "ID": "Arrested",
@@ -2968,9 +2968,9 @@
       "ID": "Beam",
       "SetID": "5lok9mm",
       "Name": "Force Beam",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 2240
+      "UsersEstimate": 2265
     },
     {
       "ID": "BenCave",
@@ -3272,9 +3272,9 @@
       "ID": "SeeTown",
       "SetID": "5lok9mm",
       "Name": "Cage Town",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 2265
+      "UsersEstimate": 2289
     },
     {
       "ID": "Speed",
@@ -3352,8 +3352,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2024-01-07T01:53:44.9453277+00:00",
-  "LastChanged_Achievements": "2024-01-13T12:06:03.5156297+00:00",
+  "LastChanged_Achievements": "2024-01-13T13:08:07.0286968+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:36.8093003+00:00",
-  "LastUpdate_Ratings": "2024-01-13T11:59:17.6894886+00:00",
-  "LastUpdate_Achievements": "2024-01-13T12:06:03.5156762+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:01:34.5573587+00:00",
+  "LastUpdate_Achievements": "2024-01-13T13:08:07.028753+00:00"
 }

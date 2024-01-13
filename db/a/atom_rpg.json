@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -427,9 +427,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 1722,
+  "EOS_Progressed": 1723,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4612,6 +4612,11 @@
       "Time": "2024-01-13T12:10:54.4195798+00:00",
       "NumProgressed": 1722,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T13:12:57.104264+00:00",
+      "NumProgressed": 1723,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4679,7 +4684,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1705
+      "UsersEstimate": 1706
     },
     {
       "ID": "EXPERT_1",
@@ -4693,9 +4698,9 @@
       "ID": "EXPLORER_1",
       "SetID": "bf13m8j",
       "Name": "Explorer",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 258
     },
     {
       "ID": "GHOSTBUSTER",
@@ -4775,7 +4780,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4783,7 +4788,7 @@
       "Name": "One shot, one kill",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "PACIFIST",
@@ -4831,7 +4836,7 @@
       "Name": "It was worth a shot",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SACRIFICE_1",
@@ -4910,15 +4915,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1722,
+      "Progressed": 1723,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-12T16:58:09.1410221+00:00",
-  "LastChanged_Achievements": "2024-01-13T12:10:54.4195791+00:00",
+  "LastChanged_Achievements": "2024-01-13T13:12:57.1042635+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-13T11:59:02.8991561+00:00",
-  "LastUpdate_Achievements": "2024-01-13T12:10:54.4196355+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:01:23.7612248+00:00",
+  "LastUpdate_Achievements": "2024-01-13T13:12:57.1043395+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
   "Ranking_Rating": 658,
-  "Ranking_Popularity": 384,
+  "Ranking_Popularity": 382,
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -472,23 +472,29 @@
       "Rating": 4.48,
       "NumberOfAwards": 98,
       "NumberOfAwardsMax": 98
+    },
+    {
+      "Time": "2024-01-13T13:02:48.7812401+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 99,
+      "NumberOfAwardsMax": 99
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 98,
-  "NumberOfAwardsMax": 98,
+  "NumberOfAwards": 99,
+  "NumberOfAwardsMax": 99,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 98
+      "Count": 99
     }
   ],
   "EOS_Progressed": 576,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2540,9 +2546,9 @@
       "ID": "Kill_Sin_Sloth",
       "SetID": "7a5k76n",
       "Name": "Throne Potato",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 230
     },
     {
       "ID": "Kill_Sin_Wrath",
@@ -2572,9 +2578,9 @@
       "ID": "Save_Humans_10",
       "SetID": "7a5k76n",
       "Name": "Crowd Source",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 150
     },
     {
       "ID": "Save_Humans_15",
@@ -2675,9 +2681,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
-  "LastChanged": "2024-01-11T19:59:53.1108333+00:00",
-  "LastChanged_Achievements": "2024-01-13T12:07:22.1629065+00:00",
+  "LastChanged": "2024-01-13T13:02:48.7812399+00:00",
+  "LastChanged_Achievements": "2024-01-13T13:09:10.4924218+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-13T12:00:53.0319727+00:00",
-  "LastUpdate_Achievements": "2024-01-13T12:07:22.1629618+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:02:48.7812403+00:00",
+  "LastUpdate_Achievements": "2024-01-13T13:09:10.4924873+00:00"
 }

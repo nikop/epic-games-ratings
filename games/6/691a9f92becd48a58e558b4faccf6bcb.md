@@ -8,9 +8,9 @@
 | Silver Hat | 8.00% | ~27 |
 | Naughty list | 7.00% | ~23 |
 | Golden Carrot | 6.00% | ~20 |
+| Silver Button | 5.00% | ~17 |
 | Silver Carrot | 5.00% | ~17 |
 | Golden Hat | 4.00% | ~13 |
-| Silver Button | 4.00% | ~13 |
 | At least you tried | 3.00% | ~10 |
 | Golden Button | 3.00% | ~10 |
 | A new HOME | 2.00% | ~7 |

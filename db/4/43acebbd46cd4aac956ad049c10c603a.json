@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -331,9 +331,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 1387,
+  "EOS_Progressed": 1388,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4036,6 +4036,11 @@
       "Time": "2024-01-13T12:04:48.8489347+00:00",
       "NumProgressed": 1387,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-13T13:07:06.5236001+00:00",
+      "NumProgressed": 1388,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4072,7 +4077,7 @@
       "Name": "Archaeologist",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Balance",
@@ -4088,7 +4093,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "BreakTheLoop",
@@ -4104,7 +4109,7 @@
       "Name": "Bridge Builder",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ChasingTheLight",
@@ -4128,7 +4133,7 @@
       "Name": "Circular Oasis",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "DesolateIsland",
@@ -4144,7 +4149,7 @@
       "Name": "Discovery",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "EasternWetlands",
@@ -4166,9 +4171,9 @@
       "ID": "Excellent",
       "SetID": "1n308hc",
       "Name": "Excellent",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 153
     },
     {
       "ID": "FloodedValley",
@@ -4216,7 +4221,7 @@
       "Name": "Into the Machine",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "JustOneLap",
@@ -4224,7 +4229,7 @@
       "Name": "Just One Lap",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "LordOfTheFiles",
@@ -4272,7 +4277,7 @@
       "Name": "Museum Visitor",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "NewBeginning",
@@ -4350,9 +4355,9 @@
       "ID": "ScientiaVincereTenebras",
       "SetID": "1n308hc",
       "Name": "Scientia Vincere Tenebras",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 153
+      "UsersEstimate": 167
     },
     {
       "ID": "Signatory",
@@ -4408,7 +4413,7 @@
       "Name": "The All-Gifted",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "TheEdgeOfForever",
@@ -4440,7 +4445,7 @@
       "Name": "The Spark",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "TheThiefOfFire",
@@ -4480,7 +4485,7 @@
       "Name": "Verdant Canyon",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Wanderers",
@@ -4496,7 +4501,7 @@
       "Name": "Western Delta",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "WoodedPlateau",
@@ -4519,7 +4524,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1387,
+      "Progressed": 1388,
       "Completed": 2
     }
   ],
@@ -4527,8 +4532,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-12T23:00:35.1873511+00:00",
-  "LastChanged_Achievements": "2024-01-13T12:04:48.8489344+00:00",
+  "LastChanged_Achievements": "2024-01-13T13:07:06.5235997+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-13T11:57:13.8200596+00:00",
-  "LastUpdate_Achievements": "2024-01-13T12:04:48.8489983+00:00"
+  "LastUpdate_Ratings": "2024-01-13T12:59:57.4625966+00:00",
+  "LastUpdate_Achievements": "2024-01-13T13:07:06.5236749+00:00"
 }

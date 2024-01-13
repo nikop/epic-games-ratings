@@ -4,11 +4,11 @@
   "ProductSlug": "might-and-magic-heroes-3",
   "Ranking_Rating": 59,
   "Ranking_Popularity": 281,
-  "Ranking_PopularitySum": 278,
+  "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 579,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": "2015-01-29T16:00:00+00:00",
@@ -2990,18 +2990,24 @@
       "Rating": 4.83,
       "NumberOfAwards": 985,
       "NumberOfAwardsMax": 260
+    },
+    {
+      "Time": "2024-01-13T13:01:42.3017943+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 988,
+      "NumberOfAwardsMax": 262
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 985,
-  "NumberOfAwardsMax": 260,
+  "NumberOfAwards": 988,
+  "NumberOfAwardsMax": 262,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 260
+      "Count": 262
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3061,7 +3067,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 62
+      "Count": 63
     },
     {
       "Text": "This game has a Creative Community",
@@ -3081,8 +3087,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
-  "LastChanged": "2024-01-13T04:58:34.7691237+00:00",
+  "LastChanged": "2024-01-13T13:01:42.3017941+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:39.997055+00:00",
-  "LastUpdate_Ratings": "2024-01-13T11:59:27.2843707+00:00",
-  "LastUpdate_Achievements": "2024-01-13T12:09:50.3523442+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:01:42.3017958+00:00",
+  "LastUpdate_Achievements": "2024-01-13T13:12:05.3503618+00:00"
 }

@@ -17,9 +17,9 @@ Number of Ratings: 116  (23.09.2022)
 | All That Glitters | 46.00% | ~265 |
 | Enhance! | 42.00% | ~242 |
 | One Of the Chosen | 40.00% | ~230 |
+| Throne Potato | 40.00% | ~230 |
 | Five's a Crowd | 40.00% | ~230 |
 | Devil's in the Details | 39.00% | ~225 |
-| Throne Potato | 39.00% | ~225 |
 | 25 to Life | 39.00% | ~225 |
 | Salvation | 38.00% | ~219 |
 | Soul Harvester | 36.00% | ~207 |
@@ -33,9 +33,9 @@ Number of Ratings: 116  (23.09.2022)
 | For Whom the Bell Tolls | 29.00% | ~167 |
 | Unyielding Strength | 26.00% | ~150 |
 | Can you restore the Balance? | 26.00% | ~150 |
+| Crowd Source | 26.00% | ~150 |
 | Big Spender | 26.00% | ~150 |
 | Cleanup Crew | 25.00% | ~144 |
-| Crowd Source | 25.00% | ~144 |
 | Demon Meddler | 24.00% | ~138 |
 | Seeing Red | 24.00% | ~138 |
 | Maximum Capacity | 22.00% | ~127 |
@@ -102,12 +102,12 @@ Completed: 2 (0.35%) (Ranked 247)
 | 2024-01-12 | 572 | 2 |
 | 2024-01-13 | 576 | 2 |
 ## Awards
-Max (Great Boss Battles): 98  (Ranked 384)  
-Sum: 98 (Ranked 472)  
-Diff (max vs sum): -88  
+Max (Great Boss Battles): 99  (Ranked 382)  
+Sum: 99 (Ranked 472)  
+Diff (max vs sum): -90  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 98 |
+| This game has Great Boss Battles | 99 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -197,3 +197,4 @@ Diff (max vs sum): -88
 | 2024-01-03 | 4.48 | - | 96 | 96 |
 | 2024-01-10 | 4.49 | - | 97 | 97 |
 | 2024-01-11 | 4.48 | - | 98 | 98 |
+| 2024-01-13 | 4.48 | - | 99 | 99 |

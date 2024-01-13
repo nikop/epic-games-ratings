@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 592,
   "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 476,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -265,25 +265,25 @@
       "ID": "DEL_II",
       "SetID": "35d3i7a",
       "Name": "Are you beautiful?",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DEL_III",
       "SetID": "35d3i7a",
       "Name": "Precious collar.",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DEL_IV",
       "SetID": "35d3i7a",
       "Name": "You asked for it.",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DEL_IX",
@@ -321,25 +321,25 @@
       "ID": "DEL_VIII",
       "SetID": "35d3i7a",
       "Name": "Crime and punishment.",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DEL_X",
       "SetID": "35d3i7a",
       "Name": "Where is my heir?",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DEL_XI",
       "SetID": "35d3i7a",
       "Name": "You have ruined it.",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DEL_XII",
@@ -632,8 +632,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2024-01-13T12:10:58.2568675+00:00",
+  "LastChanged_Achievements": "2024-01-13T13:13:00.4731725+00:00",
   "LastUpdate_AppInfo": "2024-01-10T15:57:10.2957467+00:00",
-  "LastUpdate_Ratings": "2024-01-13T11:57:22.3338938+00:00",
-  "LastUpdate_Achievements": "2024-01-13T12:10:58.2569364+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:00:03.64916+00:00",
+  "LastUpdate_Achievements": "2024-01-13T13:13:00.4732085+00:00"
 }

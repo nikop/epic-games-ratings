@@ -6,7 +6,7 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 43.00% | ~104 |
+| Entrepreneur | 44.00% | ~106 |
 | Best Buddy | 38.00% | ~92 |
 | Civilian | 34.00% | ~82 |
 | Role Model | 32.00% | ~77 |
@@ -17,7 +17,7 @@ Number of Ratings: 124  (23.09.2022)
 | Commander | 21.00% | ~51 |
 | Irissa's Fate | 19.00% | ~46 |
 | Pass A38 | 18.00% | ~43 |
-| Long-Haul Flyer | 15.00% | ~36 |
+| Long-Haul Flyer | 16.00% | ~39 |
 | Family Reunion | 15.00% | ~36 |
 | Eternal Oblivion | 15.00% | ~36 |
 | Storyteller | 12.00% | ~29 |
@@ -26,8 +26,8 @@ Number of Ratings: 124  (23.09.2022)
 | Globetrotter | 11.00% | ~27 |
 | Alb | 11.00% | ~27 |
 | Perfectionist | 9.00% | ~22 |
+| Hunter | 9.00% | ~22 |
 | Lover | 9.00% | ~22 |
-| Hunter | 8.00% | ~19 |
 | Beam Me Up | 7.00% | ~17 |
 | Hotshot | 7.00% | ~17 |
 | Detective | 7.00% | ~17 |

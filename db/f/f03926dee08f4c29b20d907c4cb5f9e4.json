@@ -4,8 +4,8 @@
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
   "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 534,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 533,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
     "PcReleaseDate": "2022-10-27T11:00:00+00:00",
@@ -319,17 +319,17 @@
       "ID": "ACH_01_SADDLE_UP",
       "SetID": "9loam6m",
       "Name": "Saddled up and away",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_02_PHOTO_TEAM",
       "SetID": "9loam6m",
       "Name": "Photo team",
-      "Percentage": 88,
+      "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_03_MODEL",
@@ -463,9 +463,9 @@
       "ID": "ACH_19_HORSE_FRIENDS",
       "SetID": "9loam6m",
       "Name": "Horse friends",
-      "Percentage": 79,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_20_HORSE_LANGUAGE",
@@ -559,9 +559,9 @@
       "ID": "ACH_31_BEST_MUFFINS",
       "SetID": "9loam6m",
       "Name": "The best muffins",
-      "Percentage": 88,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_32_HEART_FOR_ANIMALS",
@@ -583,9 +583,9 @@
       "ID": "ACH_34_HAZELWOOD",
       "SetID": "9loam6m",
       "Name": "Hazelwood",
-      "Percentage": 91,
+      "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_35_RIDING_LESSON",
@@ -662,8 +662,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2024-01-13T12:04:46.6708278+00:00",
+  "LastChanged_Achievements": "2024-01-13T13:07:04.7943845+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:11.6252135+00:00",
-  "LastUpdate_Ratings": "2024-01-13T12:03:01.0071962+00:00",
-  "LastUpdate_Achievements": "2024-01-13T12:04:46.6708602+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:05:36.0273034+00:00",
+  "LastUpdate_Achievements": "2024-01-13T13:07:04.7944119+00:00"
 }

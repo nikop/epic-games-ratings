@@ -4,8 +4,8 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2271,
+  "EOS_Progressed": 2273,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -4290,6 +4290,11 @@
       "Time": "2024-01-13T10:11:02.5331032+00:00",
       "NumProgressed": 2271,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-13T13:12:53.2522136+00:00",
+      "NumProgressed": 2273,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -4301,7 +4306,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2228
     },
     {
       "ID": "booty_call",
@@ -4325,7 +4330,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2182
     },
     {
       "ID": "hold_my_beer",
@@ -4333,7 +4338,7 @@
       "Name": "Hold my Beer",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 1385
+      "UsersEstimate": 1387
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -4373,7 +4378,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "only_thyme_will_tell",
@@ -4387,9 +4392,9 @@
       "ID": "planting_the_seed",
       "SetID": "c4ipj3h",
       "Name": "Planting the Seed",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 341
+      "UsersEstimate": 364
     },
     {
       "ID": "smooth_criminal",
@@ -4420,7 +4425,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 2271,
+      "Progressed": 2273,
       "Completed": 12
     }
   ],
@@ -4428,8 +4433,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-13T12:10:49.7985395+00:00",
+  "LastChanged_Achievements": "2024-01-13T13:12:53.2522134+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:20.6091046+00:00",
-  "LastUpdate_Ratings": "2024-01-13T11:58:40.1300207+00:00",
-  "LastUpdate_Achievements": "2024-01-13T12:10:49.7985808+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:01:04.1420377+00:00",
+  "LastUpdate_Achievements": "2024-01-13T13:12:53.2522541+00:00"
 }

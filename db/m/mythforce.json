@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -854,9 +854,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6302,
+  "EOS_Progressed": 6304,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13134,6 +13134,11 @@
       "Time": "2024-01-13T12:05:13.7518377+00:00",
       "NumProgressed": 6302,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T13:07:27.0330769+00:00",
+      "NumProgressed": 6304,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13186,7 +13191,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -13202,7 +13207,7 @@
       "Name": "First Strike",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -13242,7 +13247,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -13258,7 +13263,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -13266,7 +13271,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -13298,7 +13303,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -13306,7 +13311,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -13329,15 +13334,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6302,
+      "Progressed": 6304,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-13T12:05:13.7518373+00:00",
+  "LastChanged_Achievements": "2024-01-13T13:07:27.0330766+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-13T11:59:19.1112587+00:00",
-  "LastUpdate_Achievements": "2024-01-13T12:05:13.7519223+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:01:35.85089+00:00",
+  "LastUpdate_Achievements": "2024-01-13T13:07:27.0331612+00:00"
 }

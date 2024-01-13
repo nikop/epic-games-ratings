@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 78.00% | ~105 |
+| My Papyrus! | 79.00% | ~106 |
 | A Loyal Friend | 43.00% | ~58 |
 | Abandon Ship! | 32.00% | ~43 |
 | The Tomb of Kih-Oskh | 28.00% | ~38 |
 | The Weighing of the Soul | 26.00% | ~35 |
-| The Curse of Kih-Oskh | 19.00% | ~25 |
-| It's a Deal! | 16.00% | ~21 |
+| The Curse of Kih-Oskh | 20.00% | ~27 |
+| It's a Deal! | 17.00% | ~23 |
 | Cat Lover | 13.00% | ~17 |
 | Dynamite, Treason and Coconuts | 13.00% | ~17 |
 | In the Name of the Law | 12.00% | ~16 |
@@ -22,10 +22,10 @@
 | Keep the Doctor Away | 8.00% | ~11 |
 | Just a Palm Tree | 8.00% | ~11 |
 | Eyes Shut | 8.00% | ~11 |
+| Barking Dog | 8.00% | ~11 |
 | Under the Hood | 7.00% | ~9 |
 | Long Live Gaipajama! | 7.00% | ~9 |
 | Mummy Nightmare | 7.00% | ~9 |
-| Barking Dog | 7.00% | ~9 |
 | Tintin, Reporter | 6.00% | ~8 |
 | Subtlety | 5.00% | ~7 |
 | Mountain Runner | 4.00% | ~5 |

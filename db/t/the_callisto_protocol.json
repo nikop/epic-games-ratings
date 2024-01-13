@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 320,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2201,9 +2201,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 22265,
+  "EOS_Progressed": 22272,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 997,
+  "EOS_NewPlayers": 993,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13726,6 +13726,11 @@
       "Time": "2024-01-13T12:10:30.6960128+00:00",
       "NumProgressed": 22265,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-13T13:12:38.0373517+00:00",
+      "NumProgressed": 22272,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13753,7 +13758,7 @@
       "Name": "Giving Back",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2227
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -13769,7 +13774,7 @@
       "Name": "Flesh Wound",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 5789
+      "UsersEstimate": 5791
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -13801,7 +13806,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1782
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -13841,7 +13846,7 @@
       "Name": "Get a Grip",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 4898
+      "UsersEstimate": 4900
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -13849,7 +13854,7 @@
       "Name": "In Striking Distance",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "KILL_2HEAD",
@@ -13857,7 +13862,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -13865,7 +13870,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 4676
+      "UsersEstimate": 4677
     },
     {
       "ID": "KILL_ROBOT",
@@ -13873,7 +13878,7 @@
       "Name": "Terminated",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2449
+      "UsersEstimate": 2450
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -13881,7 +13886,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 3785
+      "UsersEstimate": 3786
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -13889,7 +13894,7 @@
       "Name": "The Commonality",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -13897,7 +13902,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4008
+      "UsersEstimate": 4009
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -13905,7 +13910,7 @@
       "Name": "Reforged",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4230
+      "UsersEstimate": 4232
     },
     {
       "ID": "PRINT_WEAPON",
@@ -13913,7 +13918,7 @@
       "Name": "Paper Jams",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5121
+      "UsersEstimate": 5123
     },
     {
       "ID": "SHARE_PHOTO",
@@ -13929,7 +13934,7 @@
       "Name": "The Outer Way",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6012
+      "UsersEstimate": 6013
     },
     {
       "ID": "STORY_ESCAPE",
@@ -13937,7 +13942,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3785
+      "UsersEstimate": 3786
     },
     {
       "ID": "STORY_HABITAT",
@@ -13945,7 +13950,7 @@
       "Name": "Without A Paddle",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3117
+      "UsersEstimate": 3118
     },
     {
       "ID": "STORY_HANGAR",
@@ -13953,7 +13958,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2894
+      "UsersEstimate": 2895
     },
     {
       "ID": "STORY_MINETOWN",
@@ -13961,7 +13966,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2227
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -13969,7 +13974,7 @@
       "Name": "Desperate Times",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5566
+      "UsersEstimate": 5568
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -13977,7 +13982,7 @@
       "Name": "Crash Site",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2894
+      "UsersEstimate": 2895
     },
     {
       "ID": "STORY_TOWER",
@@ -13985,7 +13990,7 @@
       "Name": "Full Circle",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2227
     },
     {
       "ID": "STORY_TUNNELS",
@@ -13993,7 +13998,7 @@
       "Name": "Power Up",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2449
+      "UsersEstimate": 2450
     },
     {
       "ID": "DISMEMBER_100",
@@ -14089,7 +14094,7 @@
       "Name": "Keep Fighting",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -14097,7 +14102,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -14112,13 +14117,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22265,
+      "Progressed": 22272,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10191,
+      "Progressed": 10198,
       "Completed": 29
     }
   ],
@@ -14126,8 +14131,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-12T18:03:09.9063195+00:00",
-  "LastChanged_Achievements": "2024-01-13T12:10:30.6960123+00:00",
+  "LastChanged_Achievements": "2024-01-13T13:12:38.0373513+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-13T12:03:46.7306596+00:00",
-  "LastUpdate_Achievements": "2024-01-13T12:10:30.6960984+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:06:14.9282506+00:00",
+  "LastUpdate_Achievements": "2024-01-13T13:12:38.0374336+00:00"
 }

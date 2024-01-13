@@ -6,16 +6,16 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,614 |
-| Life is your teacher | 5.00% | ~38,012 |
-| Lightning Hands | 5.00% | ~38,012 |
-| The Assault | 4.00% | ~30,410 |
-| The Hateful Pole Fighter | 3.00% | ~22,807 |
-| Stuntmaster | 3.00% | ~22,807 |
-| Street Fighting | 3.00% | ~22,807 |
-| State of constant learning | 3.00% | ~22,807 |
-| Qi Gong: Essence | 3.00% | ~22,807 |
-| Old Child | 3.00% | ~22,807 |
+| The Old Grandmaster | 6.00% | ~45,616 |
+| Life is your teacher | 5.00% | ~38,013 |
+| Lightning Hands | 5.00% | ~38,013 |
+| The Assault | 4.00% | ~30,411 |
+| The Hateful Pole Fighter | 3.00% | ~22,808 |
+| Stuntmaster | 3.00% | ~22,808 |
+| Street Fighting | 3.00% | ~22,808 |
+| State of constant learning | 3.00% | ~22,808 |
+| Qi Gong: Essence | 3.00% | ~22,808 |
+| Old Child | 3.00% | ~22,808 |
 | A Lady's Blood in the Snow | 2.00% | ~15,205 |
 | Lady Wing Chun | 2.00% | ~15,205 |
 | Furious Fists | 2.00% | ~15,205 |
@@ -26,18 +26,18 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 2.00% | ~15,205 |
 | Take damage to save time | 2.00% | ~15,205 |
 | Diligence as a goal | 2.00% | ~1,391 |
-| Scareless | 1.00% | ~7,602 |
-| Dance of the Praying Mantis | 1.00% | ~7,602 |
-| Qi Gong: Mind | 1.00% | ~7,602 |
-| Kung-Fu Tussle | 1.00% | ~7,602 |
-| Project Arena | 1.00% | ~695 |
-| Fight the way you practice | 0.80% | ~556 |
+| Scareless | 1.00% | ~7,603 |
+| Dance of the Praying Mantis | 1.00% | ~7,603 |
+| Qi Gong: Mind | 1.00% | ~7,603 |
+| Kung-Fu Tussle | 1.00% | ~7,603 |
+| Project Arena | 1.00% | ~696 |
+| Fight the way you practice | 0.80% | ~557 |
 | Muk Yan Master | 0.70% | ~5,322 |
 | Detective Story | 0.70% | ~5,322 |
-| Tiger on Fire | 0.60% | ~4,561 |
-| Source of Flying Daggers | 0.60% | ~4,561 |
-| Iron Money | 0.60% | ~4,561 |
-| Sword Stained With Blood | 0.60% | ~4,561 |
+| Tiger on Fire | 0.60% | ~4,562 |
+| Source of Flying Daggers | 0.60% | ~4,562 |
+| Iron Money | 0.60% | ~4,562 |
+| Sword Stained With Blood | 0.60% | ~4,562 |
 | Bloody Sport | 0.60% | ~417 |
 | Martial Hub | 0.60% | ~417 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,801 |
@@ -52,9 +52,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.30% | ~2,281 |
 | Deadly Venom | 0.30% | ~209 |
 | A Touch of Acumen | 0.30% | ~209 |
-| Healing Memory | 0.20% | ~1,520 |
-| Master of the Phoenix Eye Fist | 0.20% | ~1,520 |
-| Be like water my friend | 0.20% | ~1,520 |
+| Healing Memory | 0.20% | ~1,521 |
+| Master of the Phoenix Eye Fist | 0.20% | ~1,521 |
+| Be like water my friend | 0.20% | ~1,521 |
 | Secure, Protect, Leave | 0.20% | ~139 |
 | Crouching Tiger | 0.20% | ~139 |
 | Skill and an even stronger will | 0.20% | ~139 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~70 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 760,240 (Ranked 26)  
+Progressed: 760,269 (Ranked 26)  
 Completed: 12,984 (1.71%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,14 +335,14 @@ Completed: 12,984 (1.71%) (Ranked 146)
 | 2024-01-10 | 759,091 | 12,982 |
 | 2024-01-11 | 759,612 | 12,983 |
 | 2024-01-12 | 760,019 | 12,984 |
-| 2024-01-13 | 760,240 | 12,984 |
+| 2024-01-13 | 760,269 | 12,984 |
 ## Awards
-Max (Great Boss Battles): 7,179  (Ranked 57)  
-Sum: 12,710 (Ranked 85)  
+Max (Great Boss Battles): 7,194  (Ranked 57)  
+Sum: 12,725 (Ranked 85)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,179 |
+| This game has Great Boss Battles | 7,194 |
 | This game has Diverse Characters | 701 |
 | This game has Challenging Combat | 648 |
 | This game has Amazing Storytelling | 620 |
@@ -717,3 +717,4 @@ Diff (max vs sum): -28
 | 2024-01-10 | 4.82 | - | 7,166 | 12,681 |
 | 2024-01-11 | 4.82 | - | 7,171 | 12,693 |
 | 2024-01-12 | 4.82 | - | 7,179 | 12,710 |
+| 2024-01-13 | 4.82 | - | 7,194 | 12,725 |

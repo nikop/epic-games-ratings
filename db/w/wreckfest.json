@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -355,9 +355,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1122,
+  "EOS_Progressed": 1123,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 289,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2775,6 +2775,11 @@
       "Time": "2024-01-13T12:09:31.9821453+00:00",
       "NumProgressed": 1122,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T13:11:50.6280418+00:00",
+      "NumProgressed": 1123,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2795,7 +2800,7 @@
       "Name": "Highballer",
       "Percentage": 60,
       "XP": 90,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "CareerChamp1",
@@ -2843,15 +2848,15 @@
       "Name": "Storm Warning",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "CollectVehiclesA",
       "SetID": "5hd282c",
       "Name": "Wheeler Dealer",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 280
+      "UsersEstimate": 270
     },
     {
       "ID": "CollectVehiclesB",
@@ -2946,7 +2951,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1122,
+      "Progressed": 1123,
       "Completed": 0
     }
   ],
@@ -2954,8 +2959,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-07T05:59:24.3409501+00:00",
-  "LastChanged_Achievements": "2024-01-13T12:09:31.9821446+00:00",
+  "LastChanged_Achievements": "2024-01-13T13:11:50.6280413+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
-  "LastUpdate_Ratings": "2024-01-13T11:59:16.4323956+00:00",
-  "LastUpdate_Achievements": "2024-01-13T12:09:31.9821705+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:01:33.5854796+00:00",
+  "LastUpdate_Achievements": "2024-01-13T13:11:50.6280699+00:00"
 }

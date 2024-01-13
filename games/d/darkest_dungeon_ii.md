@@ -1,7 +1,7 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 265)  
+Rating: 4.68 (Ranked 264)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,7 +10,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Lost and Found | 9.00% | ~677 |
 | Autodidact | 8.00% | ~10,612 |
 | This Belongs in a Museum | 7.00% | ~9,286 |
-| This guy... again? | 7.00% | ~526 |
+| This guy... again? | 7.00% | ~527 |
 | Serenity Now! | 6.00% | ~7,959 |
 | Creep and Sleep | 6.00% | ~7,959 |
 | Overdue Notice | 6.00% | ~7,959 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,652 (Ranked 91)  
+Progressed: 132,655 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 4 (0.00%) (Ranked 399)
 | 2024-01-10 | 132,395 | 4 |
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
-| 2024-01-13 | 132,652 | 4 |
+| 2024-01-13 | 132,655 | 4 |
 ## Awards
 Max (Character Customization): 8,007  (Ranked 51)  
 Sum: 21,613 (Ranked 58)  

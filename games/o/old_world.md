@@ -11,35 +11,35 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 3.00% | ~499 |
 | Intrepid | 3.00% | ~499 |
 | Friendly Family | 3.00% | ~499 |
-| Able | 2.00% | ~332 |
-| Ambitious | 2.00% | ~332 |
-| Architect | 2.00% | ~332 |
-| Enlightened | 2.00% | ~332 |
-| Fountainhead | 2.00% | ~332 |
-| Glorious | 2.00% | ~332 |
-| Good | 2.00% | ~332 |
-| Just | 2.00% | ~332 |
-| Keystone | 2.00% | ~332 |
-| Learned | 2.00% | ~332 |
-| Magnificent | 2.00% | ~332 |
-| Mason | 2.00% | ~332 |
-| Noble | 2.00% | ~332 |
-| Pioneer | 2.00% | ~332 |
-| Strong | 2.00% | ~332 |
-| Warrior | 2.00% | ~332 |
-| Developing Cities | 2.00% | ~332 |
-| Strong Cities | 2.00% | ~332 |
-| Hanging Gardens | 2.00% | ~332 |
-| Ishtar Gate | 2.00% | ~332 |
-| Oracle | 2.00% | ~332 |
-| Pyramids | 2.00% | ~332 |
-| Learn to Play 1 | 2.00% | ~332 |
-| Judaism | 2.00% | ~332 |
-| Babylonian Paganism | 2.00% | ~332 |
-| Greek Paganism | 2.00% | ~332 |
-| Zoroastrianism | 2.00% | ~332 |
-| Naming Landmarks | 2.00% | ~332 |
-| Trade Caravan | 2.00% | ~332 |
+| Able | 2.00% | ~333 |
+| Ambitious | 2.00% | ~333 |
+| Architect | 2.00% | ~333 |
+| Enlightened | 2.00% | ~333 |
+| Fountainhead | 2.00% | ~333 |
+| Glorious | 2.00% | ~333 |
+| Good | 2.00% | ~333 |
+| Just | 2.00% | ~333 |
+| Keystone | 2.00% | ~333 |
+| Learned | 2.00% | ~333 |
+| Magnificent | 2.00% | ~333 |
+| Mason | 2.00% | ~333 |
+| Noble | 2.00% | ~333 |
+| Pioneer | 2.00% | ~333 |
+| Strong | 2.00% | ~333 |
+| Warrior | 2.00% | ~333 |
+| Developing Cities | 2.00% | ~333 |
+| Strong Cities | 2.00% | ~333 |
+| Hanging Gardens | 2.00% | ~333 |
+| Ishtar Gate | 2.00% | ~333 |
+| Oracle | 2.00% | ~333 |
+| Pyramids | 2.00% | ~333 |
+| Learn to Play 1 | 2.00% | ~333 |
+| Judaism | 2.00% | ~333 |
+| Babylonian Paganism | 2.00% | ~333 |
+| Greek Paganism | 2.00% | ~333 |
+| Zoroastrianism | 2.00% | ~333 |
+| Naming Landmarks | 2.00% | ~333 |
+| Trade Caravan | 2.00% | ~333 |
 | Regicide | 1.00% | ~166 |
 | Drillmaster | 1.00% | ~166 |
 | Brilliant | 1.00% | ~166 |
@@ -96,6 +96,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.60% | ~100 |
 | Military Prestige | 0.60% | ~100 |
 | Dualism | 0.60% | ~100 |
+| Legalism | 0.60% | ~100 |
 | Legionary | 0.60% | ~100 |
 | Double Victory | 0.60% | ~100 |
 | The Clergy | 0.60% | ~100 |
@@ -110,31 +111,30 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.50% | ~83 |
 | Industrial Progress | 0.50% | ~83 |
 | Enlightenment | 0.50% | ~83 |
-| Legalism | 0.50% | ~83 |
 | Redemption | 0.50% | ~83 |
 | Cimmerian Archer | 0.50% | ~83 |
 | Phalangite | 0.50% | ~83 |
 | Ambition Victory | 0.50% | ~83 |
 | Kushite Pyramids | 0.50% | ~83 |
-| Devout | 0.40% | ~66 |
-| Lion | 0.40% | ~66 |
-| Peacemaker | 0.40% | ~66 |
-| Strong Difficulty | 0.40% | ~66 |
-| Clerics | 0.40% | ~66 |
-| Church of the Holy Sepulchre | 0.40% | ~66 |
-| Adur Burzen-Mihr | 0.40% | ~66 |
-| Babylonia | 0.40% | ~66 |
-| Carthage | 0.40% | ~66 |
-| Egypt | 0.40% | ~66 |
-| Rome | 0.40% | ~66 |
-| Hittite Paganism | 0.40% | ~66 |
-| Gnosticism | 0.40% | ~66 |
-| Revelation | 0.40% | ~66 |
-| Veneration | 0.40% | ~66 |
-| Kushite Cavalry | 0.40% | ~66 |
-| Turreted Elephant | 0.40% | ~66 |
-| All Nations | 0.40% | ~66 |
-| Deposed Tribe | 0.40% | ~66 |
+| Devout | 0.40% | ~67 |
+| Lion | 0.40% | ~67 |
+| Peacemaker | 0.40% | ~67 |
+| Strong Difficulty | 0.40% | ~67 |
+| Clerics | 0.40% | ~67 |
+| Church of the Holy Sepulchre | 0.40% | ~67 |
+| Adur Burzen-Mihr | 0.40% | ~67 |
+| Babylonia | 0.40% | ~67 |
+| Carthage | 0.40% | ~67 |
+| Egypt | 0.40% | ~67 |
+| Rome | 0.40% | ~67 |
+| Hittite Paganism | 0.40% | ~67 |
+| Gnosticism | 0.40% | ~67 |
+| Revelation | 0.40% | ~67 |
+| Veneration | 0.40% | ~67 |
+| Kushite Cavalry | 0.40% | ~67 |
+| Turreted Elephant | 0.40% | ~67 |
+| All Nations | 0.40% | ~67 |
+| Deposed Tribe | 0.40% | ~67 |
 | Ishtar Gate in Babylon | 0.30% | ~50 |
 | Old | 0.30% | ~50 |
 | Cao'an | 0.30% | ~50 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,622 (Ranked 170)  
+Progressed: 16,629 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -633,7 +633,7 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
-| 2024-01-13 | 16,622 | 5 |
+| 2024-01-13 | 16,629 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,927 (Ranked 223)  

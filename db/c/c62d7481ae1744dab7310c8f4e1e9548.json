@@ -2,10 +2,10 @@
   "ID": "c62d7481ae1744dab7310c8f4e1e9548",
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
-  "Ranking_EOS_Progress": 425,
+  "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238,
+  "EOS_Progressed": 239,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.62,
+  "EOS_Completed_Percentage": 4.6,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -1159,6 +1159,11 @@
       "Time": "2024-01-13T10:07:36.0642586+00:00",
       "NumProgressed": 238,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-13T13:09:19.1489571+00:00",
+      "NumProgressed": 239,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -1179,7 +1184,7 @@
       "Name": "Cicadas",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Destilat",
@@ -1195,7 +1200,7 @@
       "Name": "Young Spirits",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Fletny",
@@ -1227,7 +1232,7 @@
       "Name": "Chamois",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Kour",
@@ -1251,7 +1256,7 @@
       "Name": "Knife",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Kvitky",
@@ -1259,7 +1264,7 @@
       "Name": "Blossoms",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "MluviciPapouch",
@@ -1297,9 +1302,9 @@
       "ID": "Pejsek",
       "SetID": "ag48e8e",
       "Name": "Dog",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "Poustevnik",
@@ -1337,9 +1342,9 @@
       "ID": "SpiciPapouch",
       "SetID": "ag48e8e",
       "Name": "Sleeping Parrot",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "Sputnik2",
@@ -1347,7 +1352,7 @@
       "Name": "Sputnik",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Stonozka",
@@ -1377,17 +1382,17 @@
       "ID": "Truhlice",
       "SetID": "ag48e8e",
       "Name": "Shem Is Home",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "Xicht",
       "SetID": "ag48e8e",
       "Name": "Rockheads",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "Zelvak",
@@ -1410,14 +1415,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 238,
+      "Progressed": 239,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-13T12:07:32.9712656+00:00",
+  "LastChanged_Achievements": "2024-01-13T13:09:19.1489566+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:18.1043039+00:00",
-  "LastUpdate_Ratings": "2024-01-13T12:03:23.7153118+00:00",
-  "LastUpdate_Achievements": "2024-01-13T12:07:32.9712894+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:05:55.6340625+00:00",
+  "LastUpdate_Achievements": "2024-01-13T13:09:19.1489811+00:00"
 }
