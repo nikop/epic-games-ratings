@@ -19,19 +19,19 @@
 | 15 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 25.00% |
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
 | 19 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 20 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.80% |
-| 21 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 21.05% |
-| 22 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
-| 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.80% |
+| 20 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.03% |
+| 21 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
+| 22 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.80% |
+| 23 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 20.78% |
 | 24 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 20.69% |
 | 25 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 26 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.52% |
 | 27 | [Island Cities](games/i/island_cities.md) | 16.96% |
-| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.76% |
+| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.75% |
 | 29 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 30 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
-| 32 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 14.85% |
+| 32 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 14.71% |
 | 33 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 34 | [Seven Doors](games/s/seven_doors.md) | 13.79% |
 | 35 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 13.33% |
@@ -56,14 +56,14 @@
 | 53 | [Ravenlok](games/r/ravenlok.md) | 7.59% |
 | 55 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.49% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
-| 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.41% |
+| 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.45% |
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.40% |
 | 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.02% |
 | 60 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.98% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.92% |
 | 62 | [Scorn](games/s/scorn.md) | 6.90% |
 | 63 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.76% |
-| 64 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.75% |
+| 64 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.74% |
 | 65 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.45% |
 | 66 | [Anna's Quest](games/a/anna's_quest.md) | 6.32% |
 | 67 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -111,7 +111,7 @@
 | 109 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
 | 110 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.08% |
 | 111 | [HordeCore](games/h/hordecore.md) | 3.02% |
-| 112 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.97% |
+| 112 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.96% |
 | 113 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.94% |
 | 114 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 115 | [Monster Harvest](games/m/monster_harvest.md) | 2.90% |
@@ -170,12 +170,12 @@
 | 167 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.15% |
 | 169 | [Adios](games/a/adios.md) | 1.12% |
 | 169 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
-| 171 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.10% |
-| 172 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.09% |
-| 172 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.09% |
-| 174 | [The Devil's Face](games/t/the_devil's_face.md) | 1.08% |
-| 175 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.05% |
+| 171 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.09% |
+| 171 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.09% |
+| 173 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
+| 173 | [The Devil's Face](games/t/the_devil's_face.md) | 1.08% |
 | 175 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.05% |
+| 176 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.04% |
 | 177 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
 | 178 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.02% |
 | 178 | [Lemon Cake](games/l/lemon_cake.md) | 1.02% |
