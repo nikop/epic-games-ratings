@@ -6,16 +6,16 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Spatula Seeker | 23.00% | ~225 |
 | Sponge Smasher | 23.00% | ~225 |
-| Spatula Seeker | 22.00% | ~215 |
-| Jellyfish Jam | 21.00% | ~205 |
+| Jellyfish Jam | 22.00% | ~215 |
 | Jellyfishing | 17.00% | ~166 |
 | Sweet Victory | 13.00% | ~127 |
 | Sock Getter | 13.00% | ~127 |
 | Time For Tutorial | 13.00% | ~127 |
+| Super Spatula Seeker | 12.00% | ~117 |
 | Star Smasher | 12.00% | ~117 |
 | Uptown and Downtown | 11.00% | ~108 |
-| Super Spatula Seeker | 11.00% | ~108 |
 | Squirrel Smasher | 11.00% | ~108 |
 | Surf's Up! | 11.00% | ~108 |
 | Life's as extreme as you wanna make it! | 9.00% | ~88 |

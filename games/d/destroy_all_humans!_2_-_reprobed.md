@@ -6,20 +6,20 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 84.00% | ~355 |
-| Mash Machine | 74.00% | ~313 |
+| Rock of the Bay | 84.00% | ~356 |
+| Mash Machine | 74.00% | ~314 |
 | Ducks in a Row, Fish in a Barrel | 55.00% | ~233 |
-| Furon Fashion | 48.00% | ~203 |
-| Shop Til They Drop | 40.00% | ~169 |
+| Furon Fashion | 48.00% | ~204 |
+| Shop Til They Drop | 40.00% | ~170 |
 | Bodied Sattva | 38.00% | ~161 |
 | Cult Following | 35.00% | ~148 |
 | Earthly Pleasures | 34.00% | ~144 |
-| Lie Back and Think of Albion | 28.00% | ~118 |
-| Upgreatest | 28.00% | ~118 |
-| Pimp My Raid | 26.00% | ~110 |
-| Freshly Squeezed | 23.00% | ~97 |
+| Lie Back and Think of Albion | 28.00% | ~119 |
+| Upgreatest | 28.00% | ~119 |
+| Pimp My Raid | 25.00% | ~106 |
+| Freshly Squeezed | 23.00% | ~98 |
 | I Look Up As I Walk to Takoshima | 21.00% | ~89 |
-| Die Nasty | 19.00% | ~80 |
+| Die Nasty | 19.00% | ~81 |
 | Perfect Probulator | 18.00% | ~76 |
 | Transmitting From Sol-3 | 16.00% | ~68 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 13.00% | ~55 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.50% | ~2 |
 | Trans-Siberian Express | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 423 (Ranked 368)  
+Progressed: 424 (Ranked 368)  
 Completed: 2 (0.47%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 2 (0.47%) (Ranked 229)
 | 2024-01-10 | 399 | 2 |
 | 2024-01-11 | 410 | 2 |
 | 2024-01-12 | 416 | 2 |
-| 2024-01-13 | 423 | 2 |
+| 2024-01-13 | 424 | 2 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 501)  
 Sum: 36 (Ranked 533)  

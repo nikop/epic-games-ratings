@@ -4,7 +4,7 @@
   "ProductSlug": "figment2-creed-valley",
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -420,9 +420,9 @@
       "ID": "fluff_cerebrum_cider_priciple_square",
       "SetID": "7e96e7l",
       "Name": "A heavy thinker",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "fluff_hit_by_coco_bulb",
@@ -436,9 +436,9 @@
       "ID": "fluff_hit_worker_priciple_square",
       "SetID": "7e96e7l",
       "Name": "Whac-a-worker",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "fluff_no_wrong_turns_ethics_maze",
@@ -508,9 +508,9 @@
       "ID": "story_ethics_maze",
       "SetID": "7e96e7l",
       "Name": "Repair the Mind Validation Machine",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "story_jester_land",
@@ -532,9 +532,9 @@
       "ID": "story_principle_square",
       "SetID": "7e96e7l",
       "Name": "Elementary, My Dear Dusty",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
@@ -549,8 +549,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:10:29.8198908+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:11:06.9400393+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:58.0189058+00:00",
-  "LastUpdate_Ratings": "2024-01-13T09:00:11.0359365+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:10:29.8199039+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:01:18.1762041+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:11:06.940057+00:00"
 }

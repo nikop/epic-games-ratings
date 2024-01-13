@@ -10,16 +10,16 @@
 | Ouch, that hurt! | 34.00% | ~25 |
 | Slam-KABAM | 33.00% | ~24 |
 | Heavy Thoughts | 25.00% | ~18 |
-| A heavy thinker | 23.00% | ~17 |
+| A heavy thinker | 25.00% | ~18 |
 | Flee like an idiot | 22.00% | ~16 |
-| Repair the Mind Validation Machine | 19.00% | ~14 |
-| Elementary, My Dear Dusty | 19.00% | ~14 |
+| Repair the Mind Validation Machine | 21.00% | ~15 |
+| Elementary, My Dear Dusty | 21.00% | ~15 |
 | Dance like an idiot | 14.00% | ~10 |
 | Come full circle | 12.00% | ~9 |
 | I'm Back at the Surface now | 12.00% | ~9 |
 | Patient Listener | 5.00% | ~4 |
 | GOAAAAAAAAAL! | 5.00% | ~4 |
-| Whac-a-worker | 1.00% | ~1 |
+| Whac-a-worker | 3.00% | ~2 |
 | You're a-MAZE-ing! | 1.00% | ~1 |
 | Memory Completionist | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)

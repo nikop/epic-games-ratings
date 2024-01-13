@@ -18,8 +18,8 @@ Rating: 4.85 (Ranked 40)
 | Cable guy | 28.00% | ~762 |
 | Half the way | 28.00% | ~762 |
 | I did it | 27.00% | ~735 |
+| Peace walker | 27.00% | ~735 |
 | In this together | 26.00% | ~708 |
-| Peace walker | 26.00% | ~708 |
 | Rascal | 26.00% | ~708 |
 | Champollion | 26.00% | ~708 |
 | Open door | 22.00% | ~599 |
@@ -27,8 +27,8 @@ Rating: 4.85 (Ranked 40)
 | Alchemists Express | 22.00% | ~599 |
 | Free at last | 19.00% | ~517 |
 | A Link to the Past | 17.00% | ~463 |
-| A great audience | 14.00% | ~381 |
-| For its own good | 14.00% | ~381 |
+| A great audience | 15.00% | ~408 |
+| For its own good | 15.00% | ~408 |
 | Fashion victim | 10.00% | ~272 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,723 (Ranked 235)  

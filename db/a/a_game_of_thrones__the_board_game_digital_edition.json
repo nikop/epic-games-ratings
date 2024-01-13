@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1410,9 +1410,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33280,
+  "EOS_Progressed": 33283,
   "EOS_Completed": 87,
-  "EOS_NewPlayers": 650,
+  "EOS_NewPlayers": 647,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -30275,6 +30275,11 @@
       "Time": "2024-01-13T09:10:21.0144119+00:00",
       "NumProgressed": 33280,
       "NumCompleted": 87
+    },
+    {
+      "Time": "2024-01-13T10:10:54.4489107+00:00",
+      "NumProgressed": 33283,
+      "NumCompleted": 87
     }
   ],
   "TotalAchievements": 22,
@@ -30358,7 +30363,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2663
     },
     {
       "ID": "1025",
@@ -30390,7 +30395,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5990
+      "UsersEstimate": 5991
     },
     {
       "ID": "1029",
@@ -30398,7 +30403,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2663
     },
     {
       "ID": "1030",
@@ -30406,7 +30411,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6323
+      "UsersEstimate": 6324
     },
     {
       "ID": "1031",
@@ -30414,7 +30419,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4326
+      "UsersEstimate": 4327
     },
     {
       "ID": "1032",
@@ -30422,7 +30427,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13312
+      "UsersEstimate": 13313
     },
     {
       "ID": "1033",
@@ -30461,15 +30466,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33280,
+      "Progressed": 33283,
       "Completed": 87
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-12T22:58:53.3427917+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:10:21.0144116+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:10:54.4489103+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:53.1129394+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:59:06.9558321+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:10:21.0145673+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:59:49.1242584+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:10:54.4491017+00:00"
 }

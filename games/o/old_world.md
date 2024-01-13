@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Settler | 4.00% | ~664 |
 | Explorer | 3.00% | ~498 |
 | Intrepid | 3.00% | ~498 |
-| Settler | 3.00% | ~498 |
 | Friendly Family | 3.00% | ~498 |
 | Play a Single Player Game | 3.00% | ~498 |
 | Able | 2.00% | ~332 |
@@ -30,6 +30,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 2.00% | ~332 |
 | Strong Cities | 2.00% | ~332 |
 | Hanging Gardens | 2.00% | ~332 |
+| Ishtar Gate | 2.00% | ~332 |
 | Oracle | 2.00% | ~332 |
 | Pyramids | 2.00% | ~332 |
 | Learn to Play 1 | 2.00% | ~332 |
@@ -51,7 +52,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 1.00% | ~166 |
 | Colossus | 1.00% | ~166 |
 | Great Ziggurat | 1.00% | ~166 |
-| Ishtar Gate | 1.00% | ~166 |
 | Lighthouse | 1.00% | ~166 |
 | Mausoleum | 1.00% | ~166 |
 | Musaeum | 1.00% | ~166 |
@@ -94,6 +94,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.60% | ~100 |
 | Economic Reform | 0.60% | ~100 |
 | Military Prestige | 0.60% | ~100 |
+| Dualism | 0.60% | ~100 |
 | Legionary | 0.60% | ~100 |
 | Double Victory | 0.60% | ~100 |
 | The Clergy | 0.60% | ~100 |
@@ -103,10 +104,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.50% | ~83 |
 | Ready | 0.50% | ~83 |
 | Subjugator | 0.50% | ~83 |
+| Hunters | 0.50% | ~83 |
 | Learn to Play 4 | 0.50% | ~83 |
 | Assyrian Paganism | 0.50% | ~83 |
 | Industrial Progress | 0.50% | ~83 |
-| Dualism | 0.50% | ~83 |
 | Enlightenment | 0.50% | ~83 |
 | Legalism | 0.50% | ~83 |
 | Redemption | 0.50% | ~83 |
@@ -119,7 +120,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.40% | ~66 |
 | Strong Difficulty | 0.40% | ~66 |
 | Clerics | 0.40% | ~66 |
-| Hunters | 0.40% | ~66 |
 | Adur Burzen-Mihr | 0.40% | ~66 |
 | Babylonia | 0.40% | ~66 |
 | Carthage | 0.40% | ~66 |
@@ -157,6 +157,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.20% | ~33 |
 | Capturing Cities | 0.20% | ~33 |
 | Ten Crowns | 0.20% | ~33 |
+| Conquest Victory | 0.20% | ~33 |
 | Beja Archer | 0.20% | ~33 |
 | Jerwan Aqueduct | 0.20% | ~33 |
 | Royal Library | 0.20% | ~33 |
@@ -264,7 +265,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Word of God | 0.10% | ~17 |
 | Three Man Chariot | 0.10% | ~17 |
 | Great Ziggurat in Ur | 0.10% | ~17 |
-| Conquest Victory | 0.10% | ~17 |
 | No Characters | 0.10% | ~17 |
 | One City Challenge | 0.10% | ~17 |
 | Randomized Families | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,604 (Ranked 170)  
+Progressed: 16,610 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -633,7 +633,7 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
-| 2024-01-13 | 16,604 | 5 |
+| 2024-01-13 | 16,610 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,927 (Ranked 223)  

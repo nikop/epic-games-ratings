@@ -5,12 +5,12 @@ Rating: 4.77 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,264 |
-| No more cages! | 90.00% | ~3,092 |
+| For Demacia | 95.00% | ~3,265 |
+| No more cages! | 90.00% | ~3,093 |
 | Everfrost | 77.00% | ~2,646 |
-| Pentakill | 76.00% | ~2,611 |
-| Dark Forest | 76.00% | ~2,611 |
-| The use of petricite | 73.00% | ~2,508 |
+| Pentakill | 76.00% | ~2,612 |
+| Dark Forest | 76.00% | ~2,612 |
+| The use of petricite | 73.00% | ~2,509 |
 | You can pet the dog | 60.00% | ~2,062 |
 | Thornbarrow | 44.00% | ~1,512 |
 | Big Helmet Bro | 41.00% | ~1,409 |
@@ -31,19 +31,19 @@ Rating: 4.77 (Ranked 119)
 | Glyndemere | 24.00% | ~825 |
 | Capelworth | 24.00% | ~825 |
 | Full equipped | 24.00% | ~825 |
-| Iffighain Headquarters | 23.00% | ~790 |
+| Iffighain Headquarters | 23.00% | ~791 |
 | Whispers in the Woods II | 19.00% | ~653 |
 | No more holding back | 19.00% | ~653 |
 | Terbisia | 19.00% | ~653 |
 | Quickmoore Headquarters | 19.00% | ~653 |
-| Friendly fire | 18.00% | ~618 |
+| Friendly fire | 18.00% | ~619 |
+| The Central Headquarters | 18.00% | ~619 |
 | Whispers in the Woods III | 17.00% | ~584 |
 | My heart and sword always for Demacia | 17.00% | ~584 |
 | True power | 17.00% | ~584 |
 | Meltridge | 17.00% | ~584 |
-| The Central Headquarters | 17.00% | ~584 |
 | Cloven Dell Headquarters | 16.00% | ~550 |
-| I smell fear | 15.00% | ~515 |
+| I smell fear | 15.00% | ~516 |
 | Whispers in the Woods IV | 14.00% | ~481 |
 | The end of the experiments | 14.00% | ~481 |
 | The Great City of Demacia | 14.00% | ~481 |
@@ -59,8 +59,8 @@ Rating: 4.77 (Ranked 119)
 | Silverwing nest | 2.00% | ~69 |
 | The Unshackled | 1.00% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,436 (Ranked 228)  
-Completed: 24 (0.70%) (Ranked 202)  
+Progressed: 3,437 (Ranked 228)  
+Completed: 24 (0.70%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -274,7 +274,7 @@ Completed: 24 (0.70%) (Ranked 202)
 | 2024-01-10 | 3,415 | 23 |
 | 2024-01-11 | 3,423 | 23 |
 | 2024-01-12 | 3,434 | 23 |
-| 2024-01-13 | 3,436 | 24 |
+| 2024-01-13 | 3,437 | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

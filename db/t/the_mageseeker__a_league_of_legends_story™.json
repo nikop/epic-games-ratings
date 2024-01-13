@@ -6,8 +6,8 @@
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 228,
-  "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3436,
+  "EOS_Progressed": 3437,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -6436,6 +6436,11 @@
       "Time": "2024-01-13T09:04:13.1908223+00:00",
       "NumProgressed": 3436,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2024-01-13T10:04:36.6920255+00:00",
+      "NumProgressed": 3437,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 53,
@@ -6511,7 +6516,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3264
+      "UsersEstimate": 3265
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6535,7 +6540,7 @@
       "Name": "I smell fear",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "STB_DEFEAT_KILLAN",
@@ -6543,7 +6548,7 @@
       "Name": "Friendly fire",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "STB_DEFEAT_MAGICSHIFTER",
@@ -6623,7 +6628,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6631,7 +6636,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3092
+      "UsersEstimate": 3093
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6663,7 +6668,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6725,9 +6730,9 @@
       "ID": "STB_MISSION7_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "The Central Headquarters",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 584
+      "UsersEstimate": 619
     },
     {
       "ID": "STB_MISSION8_COMPLETED",
@@ -6799,7 +6804,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -6823,7 +6828,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2508
+      "UsersEstimate": 2509
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -6870,7 +6875,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3436,
+      "Progressed": 3437,
       "Completed": 24
     }
   ],
@@ -6878,8 +6883,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-09T21:58:22.8970062+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:04:13.190822+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:04:36.6920252+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:19.7763351+00:00",
-  "LastUpdate_Ratings": "2024-01-13T09:00:22.5285523+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:04:13.1909062+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:01:33.4122661+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:04:36.6920952+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -1057,9 +1057,9 @@
       "ID": "Achi_35",
       "SetID": "51a97k7",
       "Name": "Stop Right There",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "Achi_36",
@@ -1153,9 +1153,9 @@
       "ID": "Achi_47",
       "SetID": "51a97k7",
       "Name": "Phew!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Achi_48",
@@ -1194,8 +1194,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:09:15.6017199+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:09:29.4509412+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:44.9618155+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:58:50.9014661+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:09:15.6017532+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:59:26.8503003+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:09:29.4510007+00:00"
 }

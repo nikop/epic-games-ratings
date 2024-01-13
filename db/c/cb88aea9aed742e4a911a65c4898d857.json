@@ -341,9 +341,9 @@
       "Count": 130
     }
   ],
-  "EOS_Progressed": 11237,
+  "EOS_Progressed": 11241,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 903,
+  "EOS_NewPlayers": 900,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4711,6 +4711,11 @@
       "Time": "2024-01-13T09:10:32.3148735+00:00",
       "NumProgressed": 11237,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T10:11:10.4301977+00:00",
+      "NumProgressed": 11241,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4721,9 +4726,9 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2248
     },
     {
       "ID": "03_TheStolenStar",
@@ -4731,7 +4736,7 @@
       "Name": "Stolen Star",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1573
+      "UsersEstimate": 1574
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -4827,7 +4832,7 @@
       "Name": "Pentakill",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "16_TheRise",
@@ -4859,7 +4864,7 @@
       "Name": "Void Wolf",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -4883,7 +4888,7 @@
       "Name": "Perfect Timing",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "23_DynastyRestored",
@@ -4931,7 +4936,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -4979,7 +4984,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -5043,7 +5048,7 @@
       "Name": "Iron Judgement",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -5242,7 +5247,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11237,
+      "Progressed": 11241,
       "Completed": 1
     }
   ],
@@ -5250,8 +5255,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-13T06:00:00.7016199+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:10:32.3148732+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:11:10.4301975+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-13T09:00:30.9023514+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:10:32.314942+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:01:44.6016417+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:11:10.430287+00:00"
 }

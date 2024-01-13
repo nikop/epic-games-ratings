@@ -303,7 +303,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 2483,
+  "EOS_Progressed": 2484,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
@@ -5913,6 +5913,11 @@
       "Time": "2024-01-13T09:05:51.5351508+00:00",
       "NumProgressed": 2483,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T10:06:48.1557115+00:00",
+      "NumProgressed": 2484,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -5933,7 +5938,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2211
     },
     {
       "ID": "AC02",
@@ -5941,7 +5946,7 @@
       "Name": "Blood and Dust",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "AC03",
@@ -5957,7 +5962,7 @@
       "Name": "Blood and Iron",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "AC05",
@@ -6005,15 +6010,15 @@
       "Name": "The Wait is Over",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "AC11",
       "SetID": "l4abp0",
       "Name": "A Heart of Gold",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 819
+      "UsersEstimate": 795
     },
     {
       "ID": "AC12",
@@ -6029,7 +6034,7 @@
       "Name": "Second Psalm.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "AC14",
@@ -6053,7 +6058,7 @@
       "Name": "Weight of Penance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "AC17",
@@ -6069,7 +6074,7 @@
       "Name": "Acquired Taste",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "AC19",
@@ -6109,7 +6114,7 @@
       "Name": "Hide and Seek",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "AC24",
@@ -6149,7 +6154,7 @@
       "Name": "The Punished One",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "AC29",
@@ -6181,7 +6186,7 @@
       "Name": "Nobody Expects the Spanish Inquisition!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "AC33",
@@ -6229,7 +6234,7 @@
       "Name": "Edge of Orison",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "AC39",
@@ -6245,7 +6250,7 @@
       "Name": "Welcome Back!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     },
     {
       "ID": "AC41",
@@ -6292,7 +6297,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2483,
+      "Progressed": 2484,
       "Completed": 0
     }
   ],
@@ -6300,8 +6305,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-11T21:01:32.4954396+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:05:51.5351504+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:06:48.155711+00:00",
   "LastUpdate_AppInfo": "2024-01-10T04:57:09.7051995+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:57:44.9725275+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:05:51.5352252+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:57:55.1721134+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:06:48.1557614+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -2357,10 +2357,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 1055,
       "NumberOfAwardsMax": 659
+    },
+    {
+      "Time": "2024-01-13T10:03:18.8131988+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1056,
+      "NumberOfAwardsMax": 659
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1055,
+  "NumberOfAwards": 1056,
   "NumberOfAwardsMax": 659,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2410,7 +2416,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2425,9 +2431,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 19461,
+  "EOS_Progressed": 19464,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 889,
+  "EOS_NewPlayers": 885,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -20195,6 +20201,11 @@
       "Time": "2024-01-13T09:10:30.86188+00:00",
       "NumProgressed": 19461,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-13T10:11:08.5141654+00:00",
+      "NumProgressed": 19464,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 35,
@@ -20206,7 +20217,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15763
+      "UsersEstimate": 15766
     },
     {
       "ID": "ACH02",
@@ -20262,7 +20273,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9730
+      "UsersEstimate": 9732
     },
     {
       "ID": "ACH09",
@@ -20286,7 +20297,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1752
     },
     {
       "ID": "ACH12",
@@ -20302,7 +20313,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3503
+      "UsersEstimate": 3504
     },
     {
       "ID": "ACH14",
@@ -20326,7 +20337,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3308
+      "UsersEstimate": 3309
     },
     {
       "ID": "ACH17",
@@ -20382,7 +20393,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4865
+      "UsersEstimate": 4866
     },
     {
       "ID": "ACH24",
@@ -20398,7 +20409,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "ACH26",
@@ -20430,7 +20441,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2919
+      "UsersEstimate": 2920
     },
     {
       "ID": "ACH30",
@@ -20485,16 +20496,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19461,
+      "Progressed": 19464,
       "Completed": 77
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-13T01:50:16.0028084+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:10:30.8618797+00:00",
+  "LastChanged": "2024-01-13T10:03:18.8131986+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:11:08.5141652+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-13T09:03:17.8620152+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:10:30.861993+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:03:18.8131992+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:11:08.5143197+00:00"
 }

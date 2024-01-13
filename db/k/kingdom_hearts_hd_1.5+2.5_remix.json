@@ -4,8 +4,8 @@
   "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
   "Ranking_Rating": 69,
   "Ranking_Popularity": 152,
-  "Ranking_PopularitySum": 106,
-  "Ranking_EOS_Progress": 827,
+  "Ranking_PopularitySum": 105,
+  "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 578,
   "Ranking_EOS_NewCompleters": 154,
@@ -10629,10 +10629,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 8881,
       "NumberOfAwardsMax": 1170
+    },
+    {
+      "Time": "2024-01-13T10:00:44.5318712+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 8890,
+      "NumberOfAwardsMax": 1170
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8881,
+  "NumberOfAwards": 8890,
   "NumberOfAwardsMax": 1170,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10688,7 +10694,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1122
+      "Count": 1131
     },
     {
       "Text": "This game is Highly Recommended",
@@ -10720,8 +10726,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2024-01-13T05:59:18.8839369+00:00",
+  "LastChanged": "2024-01-13T10:00:44.531871+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:21.8006751+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:59:45.7694247+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:05:06.4819751+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:00:44.5318716+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:05:47.746998+00:00"
 }

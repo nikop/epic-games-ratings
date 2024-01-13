@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 668,
+  "EOS_Progressed": 669,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -1394,6 +1394,11 @@
       "Time": "2024-01-12T14:05:19.0818817+00:00",
       "NumProgressed": 668,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-13T10:06:29.9954094+00:00",
+      "NumProgressed": 669,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1413,7 +1418,7 @@
       "Name": "Identity Theft",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Butterfly",
@@ -1429,7 +1434,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "Doors_Closing",
@@ -1437,7 +1442,7 @@
       "Name": "Mind the Gap",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Echoes",
@@ -1493,7 +1498,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "Hitman",
@@ -1533,7 +1538,7 @@
       "Name": "A Trip to Remember",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "MISSING_DATA",
@@ -1636,7 +1641,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 668,
+      "Progressed": 669,
       "Completed": 6
     }
   ],
@@ -1644,8 +1649,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:05:38.0102498+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:06:29.9954087+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:57:00.9618312+00:00",
-  "LastUpdate_Ratings": "2024-01-13T09:03:49.1581545+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:05:38.0102899+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:04:02.1964745+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:06:29.995438+00:00"
 }

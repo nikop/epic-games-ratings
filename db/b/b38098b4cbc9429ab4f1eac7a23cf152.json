@@ -2,7 +2,7 @@
   "ID": "b38098b4cbc9429ab4f1eac7a23cf152",
   "Name": "Escape from Blackwood",
   "ProductSlug": "escaperoom-0d8657",
-  "Ranking_EOS_Progress": 827,
+  "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 578,
   "Ranking_EOS_NewCompleters": 154,
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-12T11:03:43.6218073+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:04:17.1232903+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:04:42.1449976+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:05.6923908+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:57:47.5912472+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:04:17.123294+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:57:58.8686475+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:04:42.1450006+00:00"
 }

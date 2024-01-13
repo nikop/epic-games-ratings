@@ -4043,17 +4043,17 @@
       "ID": "Outpatient",
       "SetID": "3ai6ml8",
       "Name": "Outpatient",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 833
+      "UsersEstimate": 846
     },
     {
       "ID": "Relic",
       "SetID": "3ai6ml8",
       "Name": "Relic",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1061
     },
     {
       "ID": "SkeletonCrew",
@@ -4106,8 +4106,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:10:25.3619819+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:11:00.8719983+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:03.1590179+00:00",
-  "LastUpdate_Ratings": "2024-01-13T09:03:05.9027287+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:10:25.3620041+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:03:02.3830397+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:11:00.872044+00:00"
 }

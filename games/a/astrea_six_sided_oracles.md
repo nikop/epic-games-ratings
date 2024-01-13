@@ -27,8 +27,8 @@
 | Behenian Champion | 15.00% | ~57 |
 | Heavy Purger | 11.00% | ~42 |
 | Wave Bender | 10.00% | ~38 |
+| Aquarian Champion | 10.00% | ~38 |
 | Astral Seeker | 9.00% | ~34 |
-| Aquarian Champion | 9.00% | ~34 |
 | Stellar Haste | 8.00% | ~30 |
 | Heart Gate | 7.00% | ~26 |
 | The Corruption Goddess | 7.00% | ~26 |

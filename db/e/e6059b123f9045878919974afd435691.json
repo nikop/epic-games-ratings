@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1448,
+  "EOS_Progressed": 1449,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3844,6 +3844,11 @@
       "Time": "2024-01-13T01:58:39.0940791+00:00",
       "NumProgressed": 1448,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T10:11:20.2611707+00:00",
+      "NumProgressed": 1449,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3863,7 +3868,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3927,7 +3932,7 @@
       "Name": "Capraphobia",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -3975,7 +3980,7 @@
       "Name": "Burnt Smell",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -4055,7 +4060,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -4101,9 +4106,9 @@
       "ID": "FREE_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "I\u0027ll Save You!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 290
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -4143,7 +4148,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -4151,7 +4156,7 @@
       "Name": "Decakill!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -4215,7 +4220,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -4231,7 +4236,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -4382,14 +4387,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1448,
+      "Progressed": 1449,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:10:40.5473136+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:11:20.26117+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:08.9755264+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:57:48.2193791+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:10:40.547377+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:57:59.7085604+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:11:20.2612518+00:00"
 }

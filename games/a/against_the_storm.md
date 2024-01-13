@@ -6,9 +6,9 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taking Action | 9.00% | ~1,866 |
-| Abandoned Settlement | 9.00% | ~1,866 |
-| Overgrown Library | 9.00% | ~1,866 |
+| Taking Action | 9.00% | ~1,867 |
+| Abandoned Settlement | 9.00% | ~1,867 |
+| Overgrown Library | 9.00% | ~1,867 |
 | First Real Expedition | 8.00% | ~1,659 |
 | No Deaths | 8.00% | ~1,659 |
 | Petrified Necropolis | 8.00% | ~1,659 |
@@ -27,6 +27,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Levitating Monument | 4.00% | ~830 |
 | Monastery of the Holy Flame | 4.00% | ~830 |
 | A Real Challenge | 4.00% | ~830 |
+| Trade Baron | 4.00% | ~830 |
 | Ruined Armory | 3.00% | ~622 |
 | Bandit Camp | 3.00% | ~622 |
 | Barren Lands | 3.00% | ~622 |
@@ -35,7 +36,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 3.00% | ~622 |
 | Corrosive Torrent | 3.00% | ~622 |
 | Cursed Lands | 3.00% | ~622 |
-| Trade Baron | 3.00% | ~622 |
 | Untamed Wilds | 3.00% | ~622 |
 | Serving Ale | 2.00% | ~415 |
 | Refinery | 2.00% | ~415 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,738 (Ranked 155)  
+Progressed: 20,741 (Ranked 155)  
 Completed: 35 (0.17%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 35 (0.17%) (Ranked 287)
 | 2024-01-10 | 20,658 | 34 |
 | 2024-01-11 | 20,700 | 34 |
 | 2024-01-12 | 20,729 | 34 |
-| 2024-01-13 | 20,738 | 35 |
+| 2024-01-13 | 20,741 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,378 (Ranked 177)  

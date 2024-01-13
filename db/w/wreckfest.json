@@ -355,7 +355,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1116,
+  "EOS_Progressed": 1117,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 289,
   "EOS_NewCompleters": 0,
@@ -2760,6 +2760,11 @@
       "Time": "2024-01-13T06:09:13.9376187+00:00",
       "NumProgressed": 1116,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T10:09:45.1692209+00:00",
+      "NumProgressed": 1117,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2828,7 +2833,7 @@
       "Name": "Storm Warning",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "CollectVehiclesA",
@@ -2882,9 +2887,9 @@
       "ID": "PlayerRankA",
       "SetID": "5hd282c",
       "Name": "Dirty Roller",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 368
+      "UsersEstimate": 357
     },
     {
       "ID": "PlayerRankB",
@@ -2924,14 +2929,14 @@
       "Name": "Maniac Driver",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1116,
+      "Progressed": 1117,
       "Completed": 0
     }
   ],
@@ -2939,8 +2944,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-07T05:59:24.3409501+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:09:28.3786495+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:09:45.1692204+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:58:37.4261402+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:09:28.3786753+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:59:09.5787126+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:09:45.1692477+00:00"
 }

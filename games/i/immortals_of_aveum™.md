@@ -5,24 +5,24 @@ Rating: 4.20 (Ranked 968)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~2,983 |
-| Battlefields Have Memories | 81.00% | ~2,746 |
-| Enlisted | 75.00% | ~2,542 |
-| Maybe Engage a Little | 69.00% | ~2,339 |
+| Unforeseen | 88.00% | ~2,984 |
+| Battlefields Have Memories | 81.00% | ~2,747 |
+| Enlisted | 75.00% | ~2,543 |
+| Maybe Engage a Little | 69.00% | ~2,340 |
 | No More Names | 53.00% | ~1,797 |
 | Initiate | 39.00% | ~1,322 |
-| Thrada-Kul | 36.00% | ~1,220 |
+| Thrada-Kul | 36.00% | ~1,221 |
 | Gravity-Challenged Rocks | 29.00% | ~983 |
 | Soldier | 25.00% | ~848 |
+| All the Major Food Groups | 25.00% | ~848 |
 | Socialite | 24.00% | ~814 |
-| All the Major Food Groups | 24.00% | ~814 |
 | Beggars Would Ride | 22.00% | ~746 |
 | Control is an Illusion | 21.00% | ~712 |
 | The Means to Save It | 18.00% | ~610 |
 | Resilience to Sin | 17.00% | ~576 |
-| A Familiar Nest | 16.00% | ~542 |
-| Periapt Alizarin | 16.00% | ~542 |
-| Geas Aristeya | 15.00% | ~508 |
+| A Familiar Nest | 16.00% | ~543 |
+| Periapt Alizarin | 16.00% | ~543 |
+| Geas Aristeya | 15.00% | ~509 |
 | A Perfect Cycle | 14.00% | ~475 |
 | Recruit | 14.00% | ~475 |
 | Armsman | 12.00% | ~407 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 968)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,390 (Ranked 229)  
+Progressed: 3,391 (Ranked 229)  
 Completed: 4 (0.12%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,14 +160,14 @@ Completed: 4 (0.12%) (Ranked 305)
 | 2024-01-10 | 3,285 | 4 |
 | 2024-01-11 | 3,340 | 4 |
 | 2024-01-12 | 3,375 | 4 |
-| 2024-01-13 | 3,390 | 4 |
+| 2024-01-13 | 3,391 | 4 |
 ## Awards
-Max (Quickly Understood Controls): 20  (Ranked 580)  
-Sum: 20 (Ranked 580)  
-Diff (max vs sum): 0  
+Max (Quickly Understood Controls): 21  (Ranked 575)  
+Sum: 21 (Ranked 577)  
+Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 20 |
+| This game has Quickly Understood Controls | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -220,4 +220,4 @@ Diff (max vs sum): 0
 | 2024-01-07 | 4.20 | 0 | 0 |
 | 2024-01-11 | 4.19 | 20 | 20 |
 | 2024-01-12 | 4.19 | 20 | 20 |
-| 2024-01-13 | 4.20 | 20 | 20 |
+| 2024-01-13 | 4.20 | 21 | 21 |

@@ -523,9 +523,9 @@
       "Count": 140
     }
   ],
-  "EOS_Progressed": 618350,
+  "EOS_Progressed": 618351,
   "EOS_Completed": 565,
-  "EOS_NewPlayers": 938,
+  "EOS_NewPlayers": 928,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -30823,6 +30823,11 @@
       "Time": "2024-01-13T09:09:40.4937873+00:00",
       "NumProgressed": 618350,
       "NumCompleted": 565
+    },
+    {
+      "Time": "2024-01-13T10:10:01.2419982+00:00",
+      "NumProgressed": 618351,
+      "NumCompleted": 565
     }
   ],
   "TotalAchievements": 28,
@@ -30954,7 +30959,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 309175
+      "UsersEstimate": 309176
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -30978,7 +30983,7 @@
       "Name": "Data scientist",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 18550
+      "UsersEstimate": 18551
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -30994,7 +30999,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 408111
+      "UsersEstimate": 408112
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -31026,7 +31031,7 @@
       "Name": "One small step for a man...",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 18550
+      "UsersEstimate": 18551
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -31057,15 +31062,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 618350,
+      "Progressed": 618351,
       "Completed": 565
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-12-26T11:02:39.9263335+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:09:40.4937869+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:10:01.2419978+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:21.4715154+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:58:06.3525641+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:09:40.4941023+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:58:25.4206655+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:10:01.2422105+00:00"
 }

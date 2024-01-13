@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -307,7 +307,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1019,
+  "EOS_Progressed": 1020,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
@@ -3637,6 +3637,11 @@
       "Time": "2024-01-13T08:08:33.2534308+00:00",
       "NumProgressed": 1019,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-13T10:09:05.4536423+00:00",
+      "NumProgressed": 1020,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3648,7 +3653,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "cool-shirts",
@@ -3664,7 +3669,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "dont-miss-calls",
@@ -3696,7 +3701,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "kill-lieutenants",
@@ -3712,7 +3717,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "play-at-night",
@@ -3736,7 +3741,7 @@
       "Name": "Bad Trip",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "rename-lieutenant",
@@ -3784,7 +3789,7 @@
       "Name": "Take-Off",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "use-submarine",
@@ -3799,15 +3804,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 1019,
+      "Progressed": 1020,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-05T21:03:11.6844011+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:08:57.3462351+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:09:05.4536422+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:39.3719101+00:00",
-  "LastUpdate_Ratings": "2024-01-13T09:03:26.4862856+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:08:57.3462635+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:03:31.2102311+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:09:05.453671+00:00"
 }

@@ -1064,7 +1064,7 @@
   ],
   "EOS_Progressed": 16333,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 789,
+  "EOS_NewPlayers": 787,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -18086,9 +18086,9 @@
       "ID": "ACH11",
       "SetID": "9llo822",
       "Name": "Salutations My Little Friend",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1960
     },
     {
       "ID": "ACH12",
@@ -18287,8 +18287,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-12T14:59:31.064813+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:10:20.7376073+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:10:54.2344154+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:12.9251558+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:59:19.6677402+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:10:20.7377046+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:00:06.7430741+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:10:54.2345618+00:00"
 }

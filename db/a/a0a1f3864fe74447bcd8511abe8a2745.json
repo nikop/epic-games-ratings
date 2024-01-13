@@ -2,7 +2,7 @@
   "ID": "a0a1f3864fe74447bcd8511abe8a2745",
   "Name": "Love Money Rock-n-Roll",
   "ProductSlug": "love-money-rocknroll-b2e684",
-  "Ranking_EOS_Progress": 827,
+  "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 578,
   "Ranking_EOS_NewCompleters": 154,
@@ -22,12 +22,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2024-01-13T10:06:23.1626524+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2023-12-15T05:08:29.4041779+00:00",
   "TotalAchievements": 18,
   "TotalAchievementsXP": 1000,
@@ -116,9 +122,9 @@
       "ID": "firststep",
       "SetID": "6fhgm25",
       "Name": "First step",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "himitsu_bad",
@@ -181,13 +187,13 @@
     {
       "ID": "6fhgm25",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-04T08:03:34.1557119+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:05:32.8976572+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:06:23.162652+00:00",
   "LastUpdate_AppInfo": "2024-01-08T09:57:12.2611557+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:59:39.2444452+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:05:32.8976667+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:00:33.8215171+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:06:23.1626636+00:00"
 }

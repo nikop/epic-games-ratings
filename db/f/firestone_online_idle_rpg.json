@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -769,9 +769,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4454,
+  "EOS_Progressed": 4455,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12484,6 +12484,11 @@
       "Time": "2024-01-13T09:04:34.8182743+00:00",
       "NumProgressed": 4454,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-13T10:05:06.0962357+00:00",
+      "NumProgressed": 4455,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -12679,7 +12684,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1826
+      "UsersEstimate": 1827
     },
     {
       "ID": "fourleafclover",
@@ -12791,7 +12796,7 @@
       "Name": "Lieutenant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "lockandload",
@@ -12823,7 +12828,7 @@
       "Name": "Milestone collector",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "minerclicker",
@@ -12887,7 +12892,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2316
+      "UsersEstimate": 2317
     },
     {
       "ID": "prestigiousx10",
@@ -12951,7 +12956,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2495
     },
     {
       "ID": "thealchemist",
@@ -13055,7 +13060,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4142
+      "UsersEstimate": 4143
     },
     {
       "ID": "warmachinesarmy",
@@ -13087,14 +13092,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3474
+      "UsersEstimate": 3475
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4454,
+      "Progressed": 4455,
       "Completed": 2
     }
   ],
@@ -13102,8 +13107,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-12T18:59:41.1743565+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:04:34.818274+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:05:06.0962353+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:00.5947712+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:59:17.0435443+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:04:34.8183992+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:00:03.0396072+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:05:06.0963489+00:00"
 }

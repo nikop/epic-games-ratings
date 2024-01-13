@@ -4,7 +4,7 @@
   "ProductSlug": "sands-of-aura",
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 439,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 136,
+  "EOS_Progressed": 137,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -680,6 +680,11 @@
       "Time": "2024-01-10T19:04:52.8269426+00:00",
       "NumProgressed": 136,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T10:07:29.0438849+00:00",
+      "NumProgressed": 137,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -690,9 +695,9 @@
       "ID": "ALAIRA_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Rain Must Fall",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "ALAIRA_MASTER",
@@ -706,9 +711,9 @@
       "ID": "ALCHEMECT_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Overboard",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "ALCHEMECT_MASTER",
@@ -842,9 +847,9 @@
       "ID": "CRAGBOSS_DEFEAT",
       "SetID": "cm0d613",
       "Name": "A Small Thirsty Thing",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "CRAGBOSS_MASTER",
@@ -1090,9 +1095,9 @@
       "ID": "START_GAME",
       "SetID": "cm0d613",
       "Name": "Setting Sail",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 125
     },
     {
       "ID": "UBAANI_DEFEAT",
@@ -1155,7 +1160,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 136,
+      "Progressed": 137,
       "Completed": 0
     }
   ],
@@ -1163,8 +1168,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:06:22.387077+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:07:29.0438845+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:09.7391365+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:57:28.4531103+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:06:22.3871322+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:57:31.46194+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:07:29.0439347+00:00"
 }

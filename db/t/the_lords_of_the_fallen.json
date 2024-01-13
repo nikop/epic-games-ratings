@@ -4,7 +4,7 @@
   "ProductSlug": "lords-of-the-fallen",
   "Ranking_Rating": 959,
   "Ranking_Popularity": 220,
-  "Ranking_PopularitySum": 258,
+  "Ranking_PopularitySum": 257,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 375,
   "Ranking_EOS_NewPlayers": 67,
@@ -1753,10 +1753,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 1294,
       "NumberOfAwardsMax": 534
+    },
+    {
+      "Time": "2024-01-13T09:58:29.6118554+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 1300,
+      "NumberOfAwardsMax": 534
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1294,
+  "NumberOfAwards": 1300,
   "NumberOfAwardsMax": 534,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1788,7 +1794,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 65
+      "Count": 68
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1806,7 +1812,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 43
+      "Count": 46
     },
     {
       "Text": "This game is Relaxing",
@@ -1833,9 +1839,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13466,
+  "EOS_Progressed": 13468,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1994,
+  "EOS_NewPlayers": 1984,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9163,6 +9169,11 @@
       "Time": "2024-01-13T09:09:56.2129389+00:00",
       "NumProgressed": 13466,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-13T10:10:21.9234253+00:00",
+      "NumProgressed": 13468,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -9678,16 +9689,16 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 13466,
+      "Progressed": 13468,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-13T16:58:40.9012964+00:00",
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
-  "LastChanged": "2024-01-13T06:58:12.4742193+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:09:56.2129386+00:00",
+  "LastChanged": "2024-01-13T09:58:29.611855+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:10:21.9234249+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:41.982756+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:58:09.5977769+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:09:56.2130245+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:58:29.6118558+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:10:21.9235098+00:00"
 }

@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2270,
+  "EOS_Progressed": 2271,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -4285,6 +4285,11 @@
       "Time": "2024-01-13T08:10:30.2360396+00:00",
       "NumProgressed": 2270,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-13T10:11:02.5331032+00:00",
+      "NumProgressed": 2271,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -4296,7 +4301,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 2225
+      "UsersEstimate": 2226
     },
     {
       "ID": "booty_call",
@@ -4320,7 +4325,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "hold_my_beer",
@@ -4382,9 +4387,9 @@
       "ID": "planting_the_seed",
       "SetID": "c4ipj3h",
       "Name": "Planting the Seed",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 363
+      "UsersEstimate": 341
     },
     {
       "ID": "smooth_criminal",
@@ -4415,7 +4420,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 2270,
+      "Progressed": 2271,
       "Completed": 12
     }
   ],
@@ -4423,8 +4428,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:10:26.4461947+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:11:02.5331028+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:20.6091046+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:58:12.9769309+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:10:26.4462319+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:58:34.4382325+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:11:02.53314+00:00"
 }

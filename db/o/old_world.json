@@ -2280,9 +2280,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16604,
+  "EOS_Progressed": 16610,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 459,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19845,6 +19845,11 @@
       "Time": "2024-01-13T09:10:42.8706153+00:00",
       "NumProgressed": 16604,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T10:11:23.150263+00:00",
+      "NumProgressed": 16610,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20478,9 +20483,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SETTLER",
       "SetID": "9201eeb",
       "Name": "Settler",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 664
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -20710,9 +20715,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
       "SetID": "7l38kb8",
       "Name": "Hunters",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
@@ -21262,9 +21267,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE",
       "SetID": "9201eeb",
       "Name": "Ishtar Gate",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
@@ -21814,9 +21819,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
       "SetID": "7l38kb8",
       "Name": "Dualism",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
@@ -21982,9 +21987,9 @@
       "ID": "ACHIEVEMENT_VICTORY_CONQUEST",
       "SetID": "7l38kb8",
       "Name": "Conquest Victory",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_DOUBLE",
@@ -22719,21 +22724,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16604,
+      "Progressed": 16610,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16604,
+      "Progressed": 16610,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-13T07:59:51.2247569+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:10:42.8706152+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:11:23.1502627+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:59:15.7203067+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:10:42.8716428+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:00:01.2045544+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:11:23.1514442+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Immortals of Aveum\u2122",
   "ProductSlug": "immortals-of-aveum",
   "Ranking_Rating": 968,
-  "Ranking_Popularity": 580,
-  "Ranking_PopularitySum": 580,
+  "Ranking_Popularity": 575,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 139,
@@ -451,23 +451,29 @@
       "Rating": 4.2,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2024-01-13T10:01:14.4620852+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20,
-  "NumberOfAwardsMax": 20,
+  "NumberOfAwards": 21,
+  "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 20
+      "Count": 21
     }
   ],
-  "EOS_Progressed": 3390,
+  "EOS_Progressed": 3391,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 553,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5415,6 +5421,11 @@
       "Time": "2024-01-13T09:10:29.6909081+00:00",
       "NumProgressed": 3390,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-13T10:11:06.7137271+00:00",
+      "NumProgressed": 3391,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5427,7 +5438,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2983
+      "UsersEstimate": 2984
     },
     {
       "ID": "achievement_10",
@@ -5459,7 +5470,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "achievement_14",
@@ -5467,7 +5478,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "achievement_15",
@@ -5515,7 +5526,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2746
+      "UsersEstimate": 2747
     },
     {
       "ID": "achievement_20",
@@ -5571,7 +5582,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     },
     {
       "ID": "achievement_36",
@@ -5643,7 +5654,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "achievement_46",
@@ -5659,7 +5670,7 @@
       "Name": "Enlisted",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2542
+      "UsersEstimate": 2543
     },
     {
       "ID": "achievement_49",
@@ -5723,7 +5734,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "achievement_60",
@@ -5785,9 +5796,9 @@
       "ID": "achievement_8",
       "SetID": "18al4io",
       "Name": "All the Major Food Groups",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 814
+      "UsersEstimate": 848
     },
     {
       "ID": "achievement_9",
@@ -5802,16 +5813,16 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3390,
+      "Progressed": 3391,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-22T19:00:26.7529904+00:00",
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
-  "LastChanged": "2024-01-13T05:59:39.1565143+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:10:29.6909078+00:00",
+  "LastChanged": "2024-01-13T10:01:14.462085+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:11:06.7137267+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8440656+00:00",
-  "LastUpdate_Ratings": "2024-01-13T09:00:06.3217608+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:10:29.6909561+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:01:14.4620855+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:11:06.713792+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 392,
+  "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 154,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 325,
+  "EOS_Progressed": 326,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1449,6 +1449,11 @@
       "Time": "2024-01-13T01:56:56.8745525+00:00",
       "NumProgressed": 325,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T10:09:44.3604191+00:00",
+      "NumProgressed": 326,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1525,7 +1530,7 @@
       "Name": "Body of Work",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "collect_notes_mother",
@@ -1557,7 +1562,7 @@
       "Name": "It was worth a try",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "do_not_look",
@@ -1637,7 +1642,7 @@
       "Name": "The artist\u2019s impression",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "finished_it",
@@ -1645,7 +1650,7 @@
       "Name": "Finished it",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "first_step",
@@ -1685,7 +1690,7 @@
       "Name": "In One Take",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "inheritance",
@@ -1731,9 +1736,9 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 212
     },
     {
       "ID": "playtime",
@@ -1749,7 +1754,7 @@
       "Name": "Preferred Parent",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "rocket_science",
@@ -1789,7 +1794,7 @@
       "Name": "Sign of weakness",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "something_important",
@@ -1837,7 +1842,7 @@
       "Name": "Tough conversation",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "true_reflection",
@@ -1853,37 +1858,37 @@
       "Name": "A Mosaic of Misery",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 173
     },
     {
       "ID": "whispers_long_forgotten",
       "SetID": "f2im8d",
       "Name": "Whispers long forgotten",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 55
     }
   ],
   "AchievementSets": [
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 325,
+      "Progressed": 326,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:09:27.7813135+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:09:44.3604186+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:37.800715+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:59:57.9637483+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:09:27.7813569+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:01:03.1244177+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:09:44.3604698+00:00"
 }

@@ -1743,9 +1743,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 247867,
+  "EOS_Progressed": 247871,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1081,
+  "EOS_NewPlayers": 1078,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26013,6 +26013,11 @@
       "Time": "2024-01-13T09:10:39.6859063+00:00",
       "NumProgressed": 247867,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-13T10:11:19.2461744+00:00",
+      "NumProgressed": 247871,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -26072,7 +26077,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19829
+      "UsersEstimate": 19830
     },
     {
       "ID": "Chapter2",
@@ -26080,7 +26085,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12393
+      "UsersEstimate": 12394
     },
     {
       "ID": "Chapter3",
@@ -26472,7 +26477,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 91711
+      "UsersEstimate": 91712
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -26488,7 +26493,7 @@
       "Name": "GG EZ",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12393
+      "UsersEstimate": 12394
     },
     {
       "ID": "EndCombatOneHp",
@@ -26496,7 +26501,7 @@
       "Name": "DM intervention",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12393
+      "UsersEstimate": 12394
     },
     {
       "ID": "EndGameCursed",
@@ -26520,7 +26525,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27265
+      "UsersEstimate": 27266
     },
     {
       "ID": "FollowBraztok",
@@ -26727,21 +26732,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 247867,
+      "Progressed": 247871,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 247867,
+      "Progressed": 247871,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-13T01:45:26.0782972+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:10:39.6859061+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:11:19.246174+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8090113+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:58:19.6431256+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:10:39.6860958+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:58:43.7010875+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:11:19.2464141+00:00"
 }

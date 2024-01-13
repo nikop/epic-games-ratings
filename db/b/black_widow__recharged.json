@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24864,
+  "EOS_Progressed": 24866,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -23258,6 +23258,11 @@
       "Time": "2024-01-13T09:05:24.9633784+00:00",
       "NumProgressed": 24864,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-13T10:06:12.6532357+00:00",
+      "NumProgressed": 24866,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 14,
@@ -23269,7 +23274,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 19145
+      "UsersEstimate": 19147
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -23285,7 +23290,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 2486
+      "UsersEstimate": 2487
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -23325,7 +23330,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 12681
+      "UsersEstimate": 12682
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -23357,7 +23362,7 @@
       "Name": "The Fall",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 3978
+      "UsersEstimate": 3979
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -23373,22 +23378,22 @@
       "Name": "Wild West Hero",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 3232
+      "UsersEstimate": 3233
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 24864,
+      "Progressed": 24866,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:05:24.963378+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:06:12.6532352+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:43.5495434+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:57:37.4636468+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:05:24.9635029+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:57:44.1694453+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:06:12.6534013+00:00"
 }

@@ -5,24 +5,24 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Something important | 86.00% | ~280 |
-| A piece of the story | 66.00% | ~214 |
+| A piece of the story | 65.00% | ~212 |
 | It's covered up for a reason | 59.00% | ~192 |
-| Wanderer | 54.00% | ~176 |
+| Wanderer | 53.00% | ~173 |
 | Scraps of love | 51.00% | ~166 |
-| The artist’s impression | 49.00% | ~159 |
+| The artist’s impression | 49.00% | ~160 |
 | Do what you have to | 44.00% | ~143 |
-| Sign of weakness | 41.00% | ~133 |
+| Sign of weakness | 41.00% | ~134 |
 | Refuse to look | 36.00% | ~117 |
 | Face your fears | 31.00% | ~101 |
-| Finished it | 25.00% | ~81 |
-| Whispers long forgotten | 18.00% | ~58 |
+| Finished it | 25.00% | ~82 |
+| Whispers long forgotten | 17.00% | ~55 |
 | Sound Bite | 14.00% | ~46 |
 | A Slice of Life | 13.00% | ~42 |
 | Debut | 13.00% | ~42 |
 | The art of movement | 13.00% | ~42 |
 | Another perspective | 12.00% | ~39 |
 | Lights! Camera! Action! | 12.00% | ~39 |
-| Tough conversation | 10.00% | ~32 |
+| Tough conversation | 10.00% | ~33 |
 | First steps | 9.00% | ~29 |
 | Playtime | 9.00% | ~29 |
 | The tragedy unfolds | 9.00% | ~29 |
@@ -41,11 +41,11 @@
 | Full Scoop | 3.00% | ~10 |
 | The Perfect Storm | 3.00% | ~10 |
 | Se7en Seas | 3.00% | ~10 |
-| Body of Work | 2.00% | ~6 |
-| It was worth a try | 2.00% | ~6 |
-| In One Take | 2.00% | ~6 |
-| Preferred Parent | 2.00% | ~6 |
-| A Mosaic of Misery | 2.00% | ~6 |
+| Body of Work | 2.00% | ~7 |
+| It was worth a try | 2.00% | ~7 |
+| In One Take | 2.00% | ~7 |
+| Preferred Parent | 2.00% | ~7 |
+| A Mosaic of Misery | 2.00% | ~7 |
 | The Big Picture | 0.90% | ~3 |
 | Rocket Science | 0.90% | ~3 |
 | Sword of the Serpent | 0.90% | ~3 |
@@ -57,7 +57,7 @@
 | Inheritance | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 325 (Ranked 392)  
+Progressed: 326 (Ranked 390)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,4 +139,4 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-10 | 312 | 0 |
 | 2024-01-11 | 321 | 0 |
 | 2024-01-12 | 324 | 0 |
-| 2024-01-13 | 325 | 0 |
+| 2024-01-13 | 326 | 0 |

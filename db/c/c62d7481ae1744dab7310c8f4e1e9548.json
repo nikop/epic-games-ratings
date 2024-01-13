@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237,
+  "EOS_Progressed": 238,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.64,
+  "EOS_Completed_Percentage": 4.62,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -1154,6 +1154,11 @@
       "Time": "2024-01-13T06:06:01.0168393+00:00",
       "NumProgressed": 237,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-13T10:07:36.0642586+00:00",
+      "NumProgressed": 238,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -1198,7 +1203,7 @@
       "Name": "Four Flutes",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Houby",
@@ -1206,7 +1211,7 @@
       "Name": "Mushrooms",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Jing",
@@ -1350,7 +1355,7 @@
       "Name": "Centipede",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Strom",
@@ -1382,7 +1387,7 @@
       "Name": "Rockheads",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Zelvak",
@@ -1398,21 +1403,21 @@
       "Name": "Dancing Fungus",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     }
   ],
   "AchievementSets": [
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 237,
+      "Progressed": 238,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:06:27.7301342+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:07:36.0642582+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:18.1043039+00:00",
-  "LastUpdate_Ratings": "2024-01-13T09:03:29.8432665+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:06:27.7301655+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:03:34.8739392+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:07:36.0642955+00:00"
 }

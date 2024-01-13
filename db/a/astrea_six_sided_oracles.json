@@ -2258,9 +2258,9 @@
       "ID": "AquarianChampion",
       "SetID": "1jeo1g7",
       "Name": "Aquarian Champion",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 38
     },
     {
       "ID": "AquarianHero",
@@ -2385,8 +2385,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:09:30.3829932+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:09:47.8521911+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:27.4116813+00:00",
-  "LastUpdate_Ratings": "2024-01-13T09:03:12.5715193+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:09:30.3830844+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:03:10.8268974+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:09:47.8523026+00:00"
 }

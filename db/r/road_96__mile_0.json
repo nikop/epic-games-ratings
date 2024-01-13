@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 709,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -2617,9 +2617,9 @@
       "ID": "completeact3",
       "SetID": "40n95i5",
       "Name": "On the Road",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 255
+      "UsersEstimate": 262
     },
     {
       "ID": "findalltapes",
@@ -2730,8 +2730,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:10:28.7951033+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:11:05.5507302+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.1061642+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:57:34.3554962+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:10:28.7951208+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:57:39.8321202+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:11:05.5507615+00:00"
 }

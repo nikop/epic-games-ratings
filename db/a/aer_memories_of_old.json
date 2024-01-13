@@ -431,9 +431,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28582,
+  "EOS_Progressed": 28585,
   "EOS_Completed": 527,
-  "EOS_NewPlayers": 507,
+  "EOS_NewPlayers": 509,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -29301,6 +29301,11 @@
       "Time": "2024-01-13T09:05:52.3336828+00:00",
       "NumProgressed": 28582,
       "NumCompleted": 527
+    },
+    {
+      "Time": "2024-01-13T10:06:49.2952553+00:00",
+      "NumProgressed": 28585,
+      "NumCompleted": 527
     }
   ],
   "TotalAchievements": 20,
@@ -29312,7 +29317,7 @@
       "Name": "Cartographer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4573
+      "UsersEstimate": 4574
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -29328,7 +29333,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 4001
+      "UsersEstimate": 4002
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -29336,7 +29341,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2572
+      "UsersEstimate": 2573
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -29376,7 +29381,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 4001
+      "UsersEstimate": 4002
     },
     {
       "ID": "FOUND_ERIN",
@@ -29432,7 +29437,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 21722
+      "UsersEstimate": 21725
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -29440,7 +29445,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7717
+      "UsersEstimate": 7718
     },
     {
       "ID": "NORTH_FINISHED",
@@ -29471,15 +29476,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 28582,
+      "Progressed": 28585,
       "Completed": 527
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-11T07:57:26.7354656+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:05:52.3336825+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:06:49.2952549+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:46.2454847+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:58:35.529029+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:05:52.3338274+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:59:06.9043009+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:06:49.2953883+00:00"
 }

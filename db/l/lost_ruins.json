@@ -5,9 +5,9 @@
   "Ranking_Rating": 40,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
-  "Ranking_EOS_Progress": 329,
+  "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 698,
+  "EOS_Progressed": 699,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1989,6 +1989,11 @@
       "Time": "2024-01-12T15:10:52.5552424+00:00",
       "NumProgressed": 698,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T10:11:12.7967107+00:00",
+      "NumProgressed": 699,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2080,7 +2085,7 @@
       "Name": "Goblin Tales",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "Hardboiled",
@@ -2120,7 +2125,7 @@
       "Name": "Inquisitor",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "Librarian",
@@ -2319,7 +2324,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 698,
+      "Progressed": 699,
       "Completed": 1
     }
   ],
@@ -2327,8 +2332,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2024-01-12T01:47:25.1685373+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:10:34.4223197+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:11:12.7967103+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:09.081719+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:59:15.0668224+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:10:34.4223691+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:00:00.2974226+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:11:12.7967514+00:00"
 }

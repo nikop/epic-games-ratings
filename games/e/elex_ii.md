@@ -9,7 +9,7 @@ Number of Ratings: 124  (23.09.2022)
 | Entrepreneur | 43.00% | ~103 |
 | Best Buddy | 38.00% | ~91 |
 | Civilian | 35.00% | ~84 |
-| Role Model | 31.00% | ~74 |
+| Role Model | 32.00% | ~77 |
 | Creator | 29.00% | ~70 |
 | Military Leader | 27.00% | ~65 |
 | Festival-goer | 27.00% | ~65 |
@@ -21,7 +21,7 @@ Number of Ratings: 124  (23.09.2022)
 | Family Reunion | 15.00% | ~36 |
 | Eternal Oblivion | 14.00% | ~34 |
 | Storyteller | 13.00% | ~31 |
-| Berserker | 12.00% | ~29 |
+| Berserker | 13.00% | ~31 |
 | Banker | 11.00% | ~26 |
 | Globetrotter | 11.00% | ~26 |
 | Alb | 11.00% | ~26 |

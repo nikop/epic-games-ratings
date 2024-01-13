@@ -2,9 +2,9 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 1000,
-  "Ranking_Popularity": 464,
-  "Ranking_PopularitySum": 491,
+  "Ranking_Rating": 1001,
+  "Ranking_Popularity": 456,
+  "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 375,
   "Ranking_EOS_NewPlayers": 131,
@@ -629,18 +629,24 @@
       "Rating": 4.15,
       "NumberOfAwards": 71,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2024-01-13T10:03:30.8792597+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 74,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 71,
-  "NumberOfAwardsMax": 48,
+  "NumberOfAwards": 74,
+  "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 48
+      "Count": 51
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -649,9 +655,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 47165,
+  "EOS_Progressed": 47168,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 643,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18664,6 +18670,11 @@
       "Time": "2024-01-13T09:08:50.1145951+00:00",
       "NumProgressed": 47165,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-13T10:08:56.0639584+00:00",
+      "NumProgressed": 47168,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18683,7 +18694,7 @@
       "Name": "Archivist",
       "Percentage": 0.3,
       "XP": 105,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "CAMP",
@@ -18723,7 +18734,7 @@
       "Name": "Attachments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6131
+      "UsersEstimate": 6132
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -18859,7 +18870,7 @@
       "Name": "Tit for Tat",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "LEAPFROG",
@@ -19067,7 +19078,7 @@
       "Name": "A Roaring Trade",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "SUBQUEST_CINTA",
@@ -19075,7 +19086,7 @@
       "Name": "Promises",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "SUBQUEST_CIPAL",
@@ -19083,7 +19094,7 @@
       "Name": "Rebirth",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "TANTACAT_ALL",
@@ -19098,22 +19109,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47165,
+      "Progressed": 47168,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12002,
-      "Completed": 12002
+      "Progressed": 12005,
+      "Completed": 12005
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2024-01-12T23:03:13.1370669+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:08:50.1145947+00:00",
+  "LastChanged": "2024-01-13T10:03:30.8792595+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:08:56.063958+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-13T09:03:26.2160063+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:08:50.1147421+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:03:30.8792599+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:08:56.0640584+00:00"
 }

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 565,
+  "EOS_Progressed": 566,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -2329,6 +2329,11 @@
       "Time": "2024-01-13T09:05:29.4586513+00:00",
       "NumProgressed": 565,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-13T10:06:18.6704031+00:00",
+      "NumProgressed": 566,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2339,9 +2344,9 @@
       "ID": "ACQUAINTANCE_EARL",
       "SetID": "aniflfk",
       "Name": "Holy Macaroni!",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 520
+      "UsersEstimate": 515
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2355,9 +2360,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 350
+      "UsersEstimate": 357
     },
     {
       "ID": "BRING_PROSPERO",
@@ -2365,7 +2370,7 @@
       "Name": "Amusement Park",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -2381,7 +2386,7 @@
       "Name": "Fisherman",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -2405,7 +2410,7 @@
       "Name": "Farmer",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "HOUSEWARMING",
@@ -2421,7 +2426,7 @@
       "Name": "Leech Lunch",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -2453,7 +2458,7 @@
       "Name": "Weed Warrior",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -2485,7 +2490,7 @@
       "Name": "Uppies!",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2500,14 +2505,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 565,
+      "Progressed": 566,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:05:29.4586509+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:06:18.6704021+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:03.3646668+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:58:07.9942445+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:05:29.4586805+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:58:27.3828169+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:06:18.6704298+00:00"
 }

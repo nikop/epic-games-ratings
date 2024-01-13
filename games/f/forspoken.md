@@ -1,11 +1,11 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.15 (Ranked 1,000)  
+Rating: 4.15 (Ranked 1,001)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 13.00% | ~6,131 |
+| Attachments | 13.00% | ~6,132 |
 | Unlocked Potential | 12.00% | ~5,660 |
 | Tinkerer | 9.00% | ~4,245 |
 | Knock 'Em Dead | 8.00% | ~3,773 |
@@ -40,11 +40,11 @@ Rating: 4.15 (Ranked 1,000)
 | Explorer: Trailblazer | 0.60% | ~283 |
 | Through the Eyes of Another: Seer | 0.50% | ~236 |
 | Craftsperson | 0.40% | ~189 |
-| Archivist | 0.30% | ~141 |
-| Tit for Tat | 0.30% | ~141 |
-| A Roaring Trade | 0.30% | ~141 |
-| Promises | 0.30% | ~141 |
-| Rebirth | 0.30% | ~141 |
+| Archivist | 0.30% | ~142 |
+| Tit for Tat | 0.30% | ~142 |
+| A Roaring Trade | 0.30% | ~142 |
+| Promises | 0.30% | ~142 |
+| Rebirth | 0.30% | ~142 |
 | Paragon | 0.20% | ~94 |
 | Pilgrimage: Adept | 0.20% | ~94 |
 | Call of the Fount: Beatified | 0.20% | ~94 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 1,000)
 | Remembrance | 0.10% | ~47 |
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,165 (Ranked 127)  
+Progressed: 47,168 (Ranked 127)  
 Completed: 4 (0.01%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,14 +327,14 @@ Completed: 4 (0.01%) (Ranked 375)
 | 2024-01-10 | 47,035 | 4 |
 | 2024-01-11 | 47,103 | 4 |
 | 2024-01-12 | 47,151 | 4 |
-| 2024-01-13 | 47,165 | 4 |
+| 2024-01-13 | 47,168 | 4 |
 ## Awards
-Max (Character Customization): 48  (Ranked 464)  
-Sum: 71 (Ranked 491)  
-Diff (max vs sum): -27  
+Max (Character Customization): 51  (Ranked 456)  
+Sum: 74 (Ranked 487)  
+Diff (max vs sum): -31  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 48 |
+| This game has Inclusive Character Customization | 51 |
 | This game has Great Boss Battles | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -441,3 +441,4 @@ Diff (max vs sum): -27
 | 2024-01-08 | 4.16 | 47 | 68 |
 | 2024-01-09 | 4.16 | 47 | 69 |
 | 2024-01-12 | 4.16 | 48 | 71 |
+| 2024-01-13 | 4.15 | 51 | 74 |

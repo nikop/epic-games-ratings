@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 580,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.55,
   "EosHistory": [
@@ -2501,9 +2501,9 @@
       "ID": "fight_win_1",
       "SetID": "69co12a",
       "Name": "First winning",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 464
     },
     {
       "ID": "fight_win_10",
@@ -2533,9 +2533,9 @@
       "ID": "first_job",
       "SetID": "69co12a",
       "Name": "Your first job",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 458
     },
     {
       "ID": "flash_bobo",
@@ -2924,8 +2924,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:10:29.0510957+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:11:05.8573396+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:10.7103832+00:00",
-  "LastUpdate_Ratings": "2024-01-13T08:58:55.9410014+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:10:29.0511699+00:00"
+  "LastUpdate_Ratings": "2024-01-13T09:59:33.7637111+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:11:05.8574241+00:00"
 }

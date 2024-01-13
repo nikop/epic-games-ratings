@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3941,9 +3941,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 20738,
+  "EOS_Progressed": 20741,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 479,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19496,6 +19496,11 @@
       "Time": "2024-01-13T09:06:30.362025+00:00",
       "NumProgressed": 20738,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-13T10:07:39.4296224+00:00",
+      "NumProgressed": 20741,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19844,7 +19849,7 @@
       "Name": "Taking Action",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1867
     },
     {
       "ID": "WinWithResolve",
@@ -19874,9 +19879,9 @@
       "ID": "WinWithTradeRoutes",
       "SetID": "cfbk359",
       "Name": "Trade Baron",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 622
+      "UsersEstimate": 830
     },
     {
       "ID": "WinWithoutDeath",
@@ -19908,7 +19913,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1867
     },
     {
       "ID": "WinNearFrosts",
@@ -19932,7 +19937,7 @@
       "Name": "Overgrown Library",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1867
     },
     {
       "ID": "WinNearPetrified",
@@ -19979,15 +19984,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20738,
+      "Progressed": 20741,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-13T07:00:13.5608196+00:00",
-  "LastChanged_Achievements": "2024-01-13T09:06:30.3620248+00:00",
+  "LastChanged_Achievements": "2024-01-13T10:07:39.429622+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-13T09:00:11.5341922+00:00",
-  "LastUpdate_Achievements": "2024-01-13T09:06:30.3621235+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:01:18.8581003+00:00",
+  "LastUpdate_Achievements": "2024-01-13T10:07:39.4297642+00:00"
 }
