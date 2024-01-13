@@ -19,7 +19,7 @@ Rating: 4.47 (Ranked 665)
 | Organ Grinder | 24.00% | ~1,026 |
 | As Quiet as a Mouse | 24.00% | ~1,026 |
 | Sharpshooter | 23.00% | ~983 |
-| Gunslinger | 19.00% | ~812 |
+| Gunslinger | 20.00% | ~855 |
 | Explosive Efficiency | 19.00% | ~812 |
 | Climbing the Ladder | 17.00% | ~726 |
 | Just a Flesh Wound | 17.00% | ~726 |

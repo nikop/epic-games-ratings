@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -769,9 +769,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4461,
+  "EOS_Progressed": 4462,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12504,6 +12504,11 @@
       "Time": "2024-01-13T13:07:14.5773994+00:00",
       "NumProgressed": 4461,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-13T14:04:42.2910252+00:00",
+      "NumProgressed": 4462,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -12611,7 +12616,7 @@
       "Name": "Doing My Part",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "dragonclicker",
@@ -12747,7 +12752,7 @@
       "Name": "Guild Power",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "herewegoagain",
@@ -12939,7 +12944,7 @@
       "Name": "Scientist",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "scrollmaster",
@@ -12971,7 +12976,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2498
+      "UsersEstimate": 2499
     },
     {
       "ID": "thealchemist",
@@ -13011,7 +13016,7 @@
       "Name": "The power of Awakening",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "theunstoppable",
@@ -13075,7 +13080,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "warmachinesarmy",
@@ -13114,7 +13119,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4461,
+      "Progressed": 4462,
       "Completed": 2
     }
   ],
@@ -13122,8 +13127,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-12T18:59:41.1743565+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:07:14.5773986+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:04:42.2910249+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:00.5947712+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:02:17.7731201+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:07:14.577534+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:59:35.1106886+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:04:42.2911338+00:00"
 }

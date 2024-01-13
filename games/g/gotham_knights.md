@@ -5,11 +5,11 @@ Rating: 4.19 (Ranked 977)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,325 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,101 |
-| Loose Ends | 33.00% | ~27,274 |
+| First Step Into the Knight | 50.00% | ~41,326 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,102 |
+| Loose Ends | 33.00% | ~27,275 |
 | To the Victor Go the Spoils | 27.00% | ~22,316 |
-| Knighthood | 26.00% | ~21,489 |
+| Knighthood | 26.00% | ~21,490 |
 | Get ReQ'd | 24.00% | ~19,836 |
 | Whispered Words | 24.00% | ~19,836 |
 | The Batman Family | 22.00% | ~18,183 |
@@ -28,29 +28,29 @@ Rating: 4.19 (Ranked 977)
 | Rock and a Hard Place | 14.00% | ~11,571 |
 | Cooldown | 14.00% | ~11,571 |
 | Voiceless | 14.00% | ~11,571 |
-| Shock Til They Drop | 13.00% | ~10,744 |
-| Seeking Asylum | 13.00% | ~10,744 |
+| Shock Til They Drop | 13.00% | ~10,745 |
+| Seeking Asylum | 13.00% | ~10,745 |
 | End of an Era | 12.00% | ~9,918 |
 | Not On My Watch | 12.00% | ~9,918 |
 | Bulldozed | 12.00% | ~9,918 |
 | Gotham Knight | 12.00% | ~9,918 |
 | Gotham City Confidential | 11.00% | ~9,092 |
-| Out of Their League | 9.00% | ~7,438 |
-| Drone You Out | 9.00% | ~7,438 |
+| Out of Their League | 9.00% | ~7,439 |
+| Drone You Out | 9.00% | ~7,439 |
 | Solid Alibi | 8.00% | ~6,612 |
 | Fusion Expert | 7.00% | ~5,786 |
 | Family Meeting | 6.00% | ~4,959 |
 | A Worthy Successor | 6.00% | ~4,959 |
-| Expert Crime Fighter | 5.00% | ~4,132 |
+| Expert Crime Fighter | 5.00% | ~4,133 |
 | Dressed to Impress | 4.00% | ~3,306 |
 | A Momentum Occasion | 3.00% | ~2,480 |
 | Bat Out of Hell | 3.00% | ~2,480 |
 | Practice Makes Perfect | 2.00% | ~1,653 |
 | He'd Be So Proud of You | 2.00% | ~1,653 |
-| Talonted | 1.00% | ~826 |
-| The Man-Bat Family | 1.00% | ~826 |
-| Batarang Collector | 1.00% | ~826 |
-| Claiming the Mural High Ground | 1.00% | ~826 |
+| Talonted | 1.00% | ~827 |
+| The Man-Bat Family | 1.00% | ~827 |
+| Batarang Collector | 1.00% | ~827 |
+| Claiming the Mural High Ground | 1.00% | ~827 |
 | Icebreaker | 0.80% | ~423 |
 | History Major | 0.80% | ~661 |
 | A Sophisticated Mallet | 0.80% | ~423 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 977)
 | The Cold, the Bad and the Ugly | 0.30% | ~159 |
 | It's Nice to Be Wanted | 0.20% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,650 (Ranked 110)  
+Progressed: 82,652 (Ranked 110)  
 Completed: 133 (0.16%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 133 (0.16%) (Ranked 288)
 | 2024-01-10 | 82,440 | 133 |
 | 2024-01-11 | 82,506 | 133 |
 | 2024-01-12 | 82,606 | 133 |
-| 2024-01-13 | 82,650 | 133 |
+| 2024-01-13 | 82,652 | 133 |
 ## Awards
 Max (Great Boss Battles): 3,189  (Ranked 101)  
 Sum: 5,448 (Ranked 141)  

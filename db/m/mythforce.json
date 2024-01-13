@@ -6,9 +6,9 @@
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 201,
-  "Ranking_EOS_Completed": 326,
+  "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -854,9 +854,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6304,
+  "EOS_Progressed": 6305,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13139,6 +13139,11 @@
       "Time": "2024-01-13T13:07:27.0330769+00:00",
       "NumProgressed": 6304,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T14:04:54.5531536+00:00",
+      "NumProgressed": 6305,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13151,7 +13156,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -13237,9 +13242,9 @@
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1702
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -13317,9 +13322,9 @@
       "ID": "MF_Ach_ThatllLeaveAMark",
       "SetID": "9b9n573",
       "Name": "That\u0027ll Leave a Mark",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 1576
+      "UsersEstimate": 1639
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -13334,15 +13339,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6304,
+      "Progressed": 6305,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:07:27.0330766+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:04:54.5531533+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:01:35.85089+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:07:27.0331612+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:58:51.9036983+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:04:54.5532191+00:00"
 }

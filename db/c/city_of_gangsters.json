@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -1054,9 +1054,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 361868,
+  "EOS_Progressed": 361874,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1209,
+  "EOS_NewPlayers": 1206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31699,6 +31699,11 @@
       "Time": "2024-01-13T13:09:41.8623443+00:00",
       "NumProgressed": 361868,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-13T14:08:19.0044582+00:00",
+      "NumProgressed": 361874,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -31726,7 +31731,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43424
+      "UsersEstimate": 43425
     },
     {
       "ID": "ach004",
@@ -31750,7 +31755,7 @@
       "Name": "Street Knowledge",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18093
+      "UsersEstimate": 18094
     },
     {
       "ID": "ach007",
@@ -31766,7 +31771,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43424
+      "UsersEstimate": 43425
     },
     {
       "ID": "ach009",
@@ -31790,7 +31795,7 @@
       "Name": "Oh Captain",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18093
+      "UsersEstimate": 18094
     },
     {
       "ID": "ach012",
@@ -31798,7 +31803,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28949
+      "UsersEstimate": 28950
     },
     {
       "ID": "ach013",
@@ -31814,7 +31819,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 54280
+      "UsersEstimate": 54281
     },
     {
       "ID": "ach015",
@@ -31822,7 +31827,7 @@
       "Name": "Branching Out",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18093
+      "UsersEstimate": 18094
     },
     {
       "ID": "ach016",
@@ -31838,7 +31843,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 47043
+      "UsersEstimate": 47044
     },
     {
       "ID": "ach018",
@@ -31846,7 +31851,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28949
+      "UsersEstimate": 28950
     },
     {
       "ID": "ach019",
@@ -31918,7 +31923,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 166459
+      "UsersEstimate": 166462
     },
     {
       "ID": "ach028",
@@ -31934,7 +31939,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39805
+      "UsersEstimate": 39806
     },
     {
       "ID": "ach030",
@@ -32022,7 +32027,7 @@
       "Name": "Improvement Missions",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18093
+      "UsersEstimate": 18094
     },
     {
       "ID": "ach041",
@@ -32038,7 +32043,7 @@
       "Name": "Opportunity Knocked",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18093
+      "UsersEstimate": 18094
     },
     {
       "ID": "ach043",
@@ -32062,7 +32067,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 47043
+      "UsersEstimate": 47044
     },
     {
       "ID": "ach046",
@@ -32102,7 +32107,7 @@
       "Name": "City of Big Shoulders",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18093
+      "UsersEstimate": 18094
     },
     {
       "ID": "ach051",
@@ -32110,7 +32115,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39805
+      "UsersEstimate": 39806
     },
     {
       "ID": "ach052",
@@ -32238,7 +32243,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 57899
+      "UsersEstimate": 57900
     },
     {
       "ID": "ach069",
@@ -32262,7 +32267,7 @@
       "Name": "Mission Mastery",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 18093
+      "UsersEstimate": 18094
     },
     {
       "ID": "ach072",
@@ -32349,7 +32354,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 361868,
+      "Progressed": 361874,
       "Completed": 7
     }
   ],
@@ -32357,8 +32362,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2024-01-11T09:01:19.8796035+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:09:41.8623438+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:08:19.004458+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:19.8615185+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:01:06.1537115+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:09:41.862559+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:58:24.0395562+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:08:19.0046692+00:00"
 }

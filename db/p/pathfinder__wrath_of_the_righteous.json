@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4907,9 +4907,9 @@
       "Count": 407
     }
   ],
-  "EOS_Progressed": 13255,
+  "EOS_Progressed": 13256,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19647,6 +19647,11 @@
       "Time": "2024-01-13T13:13:08.5260124+00:00",
       "NumProgressed": 13255,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T14:10:28.5241499+00:00",
+      "NumProgressed": 13256,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19666,7 +19671,7 @@
       "Name": "Burning City",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2518
+      "UsersEstimate": 2519
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -20585,21 +20590,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12037,
+      "Progressed": 12038,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13255,
+      "Progressed": 13256,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-12T21:58:19.4495923+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:13:08.526012+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:10:28.5241497+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:50.9176644+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:01:52.2440629+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:13:08.526206+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:59:10.889081+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:10:28.5243322+00:00"
 }

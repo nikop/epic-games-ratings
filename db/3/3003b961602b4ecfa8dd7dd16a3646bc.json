@@ -4,8 +4,8 @@
   "ProductSlug": "horse-club-adventures-19e7a0",
   "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 476,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 477,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
     "PcReleaseDate": "2021-05-26T11:00:00+00:00",
@@ -613,9 +613,9 @@
       "ID": "ACH_26_SIDEQUEST",
       "SetID": "9dl0ei6",
       "Name": "The whole story",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_27_COMPLETE",
@@ -636,8 +636,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:12:57.7291275+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:10:17.1264486+00:00",
   "LastUpdate_AppInfo": "2024-01-08T02:57:23.732721+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:03:25.6965881+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:12:57.7291463+00:00"
+  "LastUpdate_Ratings": "2024-01-13T14:00:43.7049713+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:10:17.1264701+00:00"
 }

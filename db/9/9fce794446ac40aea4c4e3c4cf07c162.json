@@ -3,9 +3,9 @@
   "Name": "Ugly",
   "ProductSlug": "ugly-da09b2",
   "Ranking_EOS_Progress": 592,
-  "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 476,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 71,
+  "Ranking_EOS_NewPlayers": 477,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 33,
-  "EOS_Completed": 1,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.03,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 6.06,
   "EosHistory": [
     {
       "Time": "2023-09-13T16:03:25.2232448+00:00",
@@ -199,6 +199,11 @@
       "Time": "2024-01-12T14:10:29.6211444+00:00",
       "NumProgressed": 33,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T14:10:19.8916484+00:00",
+      "NumProgressed": 33,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-13T16:03:25.2232528+00:00",
@@ -297,9 +302,9 @@
       "ID": "DEL_V",
       "SetID": "35d3i7a",
       "Name": "Dangerous spider.",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DEL_VI",
@@ -345,9 +350,9 @@
       "ID": "DEL_XII",
       "SetID": "35d3i7a",
       "Name": "The rope is the key.",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MEM_I",
@@ -569,17 +574,17 @@
       "ID": "PART_II",
       "SetID": "35d3i7a",
       "Name": "The Nightmare.",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PART_III",
       "SetID": "35d3i7a",
       "Name": "The Truth.",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PROJ_I",
@@ -627,13 +632,13 @@
       "ID": "35d3i7a",
       "IsBase": true,
       "Progressed": 33,
-      "Completed": 1
+      "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:13:00.4731725+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:10:19.8916481+00:00",
   "LastUpdate_AppInfo": "2024-01-10T15:57:10.2957467+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:00:03.64916+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:13:00.4732085+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:57:18.4758398+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:10:19.8916923+00:00"
 }

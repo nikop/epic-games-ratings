@@ -6,9 +6,9 @@
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 281,
-  "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -69,9 +69,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1314,
+  "EOS_Progressed": 1315,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -3984,6 +3984,11 @@
       "Time": "2024-01-13T09:10:39.382999+00:00",
       "NumProgressed": 1314,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-13T14:10:26.2661323+00:00",
+      "NumProgressed": 1315,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4003,7 +4008,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -4041,9 +4046,9 @@
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 289
     },
     {
       "ID": "ClovemaryGift",
@@ -4097,9 +4102,9 @@
       "ID": "FactorywoodChests1",
       "SetID": "a9e499d",
       "Name": "Factorywood Explorer",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 132
     },
     {
       "ID": "FairgroundsChests1",
@@ -4107,7 +4112,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -4323,7 +4328,7 @@
       "Name": "Fast Learner",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "SpeedRun",
@@ -4361,9 +4366,9 @@
       "ID": "TheaterChests1",
       "SetID": "a9e499d",
       "Name": "Theater Explorer",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 132
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -4418,7 +4423,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1314,
+      "Progressed": 1315,
       "Completed": 8
     }
   ],
@@ -4426,8 +4431,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-12T11:57:31.6661727+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:13:07.3216044+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:10:26.2661321+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:00:57.0177776+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:13:07.3216863+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:58:15.0653304+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:10:26.2661828+00:00"
 }

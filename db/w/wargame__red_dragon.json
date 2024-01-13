@@ -4,11 +4,11 @@
   "ProductSlug": "wargame-red-dragon",
   "Ranking_Rating": 241,
   "Ranking_Popularity": 156,
-  "Ranking_PopularitySum": 114,
+  "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 579,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 580,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-03-04T16:00:00+00:00",
     "PcReleaseDate": "2014-04-17T16:00:00+00:00",
@@ -6855,10 +6855,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 8348,
       "NumberOfAwardsMax": 1091
+    },
+    {
+      "Time": "2024-01-13T13:59:28.3586898+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 8351,
+      "NumberOfAwardsMax": 1091
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8348,
+  "NumberOfAwards": 8351,
   "NumberOfAwardsMax": 1091,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6920,7 +6926,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 822
+      "Count": 825
     },
     {
       "Text": "This game is Relaxing",
@@ -6946,8 +6952,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:18.8189699+00:00",
-  "LastChanged": "2024-01-13T13:02:10.8658764+00:00",
+  "LastChanged": "2024-01-13T13:59:28.3586897+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:47.95154+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:02:10.865877+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:06:34.5441456+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:59:28.3586903+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:04:00.7293712+00:00"
 }

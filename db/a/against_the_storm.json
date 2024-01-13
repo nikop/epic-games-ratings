@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3873,10 +3873,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3378,
       "NumberOfAwardsMax": 452
+    },
+    {
+      "Time": "2024-01-13T14:00:31.5599358+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3380,
+      "NumberOfAwardsMax": 452
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3378,
+  "NumberOfAwards": 3380,
   "NumberOfAwardsMax": 452,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3902,7 +3908,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 421
+      "Count": 423
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3941,9 +3947,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 20744,
+  "EOS_Progressed": 20748,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 473,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19516,6 +19522,11 @@
       "Time": "2024-01-13T13:09:21.8909784+00:00",
       "NumProgressed": 20744,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-13T14:06:49.5513831+00:00",
+      "NumProgressed": 20748,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19638,9 +19649,9 @@
       "ID": "WinNearArmory",
       "SetID": "cfbk359",
       "Name": "Ruined Armory",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 830
     },
     {
       "ID": "WinNearBandit",
@@ -19999,15 +20010,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20744,
+      "Progressed": 20748,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-13T07:00:13.5608196+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:09:21.8909779+00:00",
+  "LastChanged": "2024-01-13T14:00:31.5599357+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:06:49.5513829+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:03:14.4728515+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:09:21.8910861+00:00"
+  "LastUpdate_Ratings": "2024-01-13T14:00:31.5599363+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:06:49.5514988+00:00"
 }

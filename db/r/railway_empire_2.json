@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -8290,9 +8290,9 @@
       "ID": "A36",
       "SetID": "9b7p7eo",
       "Name": "Way of Iron",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1930
+      "UsersEstimate": 1957
     },
     {
       "ID": "A37",
@@ -8451,8 +8451,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2024-01-12T09:00:33.7999037+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:07:59.6385308+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:05:26.7348604+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.5860867+00:00",
-  "LastUpdate_Ratings": "2024-01-13T12:02:58.4574889+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:07:59.6386473+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:57:10.1159375+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:05:26.7349594+00:00"
 }

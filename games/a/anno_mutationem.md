@@ -5,11 +5,11 @@ Rating: 4.55 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~637 |
-| Don't judge a manhole by its cover | 60.00% | ~509 |
+| Tell me your story | 75.00% | ~638 |
+| Don't judge a manhole by its cover | 60.00% | ~510 |
 | I just love stuff! | 41.00% | ~348 |
 | Keep 'em coming! | 41.00% | ~348 |
-| The things they print nowadays | 39.00% | ~331 |
+| The things they print nowadays | 39.00% | ~332 |
 | Big Spender | 38.00% | ~323 |
 | That's gotta hurt | 36.00% | ~306 |
 | I think it's broke | 26.00% | ~221 |
@@ -18,7 +18,7 @@ Rating: 4.55 (Ranked 529)
 | Fire in the hole! | 20.00% | ~170 |
 | Omnipotence | 20.00% | ~170 |
 | The Warlord | 20.00% | ~170 |
-| You are the One | 19.00% | ~161 |
+| You are the One | 19.00% | ~162 |
 | Deadly Kombationem | 18.00% | ~153 |
 | The truth is out there | 16.00% | ~136 |
 | Annakin Skyscroller | 13.00% | ~110 |
@@ -27,22 +27,22 @@ Rating: 4.55 (Ranked 529)
 | 1+1>2 | 9.00% | ~76 |
 | This can't be right… | 8.00% | ~68 |
 | Welcome home, 06 | 8.00% | ~68 |
-| I'm walking here! | 7.00% | ~59 |
-| So Fresh and So clean clean | 7.00% | ~59 |
-| Supreme Bartender Ann | 7.00% | ~59 |
+| I'm walking here! | 7.00% | ~60 |
+| So Fresh and So clean clean | 7.00% | ~60 |
+| Supreme Bartender Ann | 7.00% | ~60 |
 | Clarity of Mind | 6.00% | ~51 |
 | I feel secure, contained & protected | 6.00% | ~51 |
 | Science, it works! | 6.00% | ~51 |
 | The Traveler | 6.00% | ~51 |
 | Woman on a (side) mission | 5.00% | ~42 |
-| Ann ULTRA | 3.00% | ~25 |
-| Lady Luck is a cool cat | 3.00% | ~25 |
+| Ann ULTRA | 3.00% | ~26 |
+| Lady Luck is a cool cat | 3.00% | ~26 |
 | SERENITY NOW | 2.00% | ~17 |
 | I just got real good | 2.00% | ~17 |
 | Love me like I love my posters | 0.90% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 849 (Ranked 310)  
+Progressed: 850 (Ranked 310)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 844 | 0 |
 | 2024-01-11 | 845 | 0 |
 | 2024-01-12 | 847 | 0 |
-| 2024-01-13 | 849 | 0 |
+| 2024-01-13 | 850 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

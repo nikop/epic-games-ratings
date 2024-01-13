@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 849,
+  "EOS_Progressed": 850,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1339,6 +1339,11 @@
       "Time": "2024-01-13T07:05:59.9476131+00:00",
       "NumProgressed": 849,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T14:06:17.7198974+00:00",
+      "NumProgressed": 850,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1350,7 +1355,7 @@
       "Name": "Ann ULTRA",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Annakin Skyscroller",
@@ -1430,7 +1435,7 @@
       "Name": "I\u0027m walking here!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "I_just_love_stuff",
@@ -1470,7 +1475,7 @@
       "Name": "Lady Luck is a cool cat",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Omnipotence",
@@ -1502,7 +1507,7 @@
       "Name": "So Fresh and So clean clean",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Supreme_Bartender_Ann",
@@ -1510,7 +1515,7 @@
       "Name": "Supreme Bartender Ann",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Tell_me_your_story",
@@ -1518,7 +1523,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -1566,7 +1571,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "The_truth_is_out_there",
@@ -1606,7 +1611,7 @@
       "Name": "You are the One",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "manhole",
@@ -1614,7 +1619,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "posters",
@@ -1637,7 +1642,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 849,
+      "Progressed": 850,
       "Completed": 0
     }
   ],
@@ -1645,8 +1650,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-25T11:02:42.8909676+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:08:50.2081622+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:06:17.7198972+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.1619736+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:05:55.048042+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:08:50.2081941+00:00"
+  "LastUpdate_Ratings": "2024-01-13T14:03:20.8999028+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:06:17.7199234+00:00"
 }

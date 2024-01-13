@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 375,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -341,9 +341,9 @@
       "Count": 130
     }
   ],
-  "EOS_Progressed": 11258,
+  "EOS_Progressed": 11260,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 891,
+  "EOS_NewPlayers": 885,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4731,6 +4731,11 @@
       "Time": "2024-01-13T13:12:59.7174975+00:00",
       "NumProgressed": 11258,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T14:10:19.136824+00:00",
+      "NumProgressed": 11260,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4767,7 +4772,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -4903,7 +4908,7 @@
       "Name": "Perfect Timing",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "23_DynastyRestored",
@@ -4951,7 +4956,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -5262,7 +5267,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11258,
+      "Progressed": 11260,
       "Completed": 1
     }
   ],
@@ -5270,8 +5275,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-13T06:00:00.7016199+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:12:59.7174972+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:10:19.1368237+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:03:36.2691163+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:12:59.7175812+00:00"
+  "LastUpdate_Ratings": "2024-01-13T14:00:53.2077356+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:10:19.1368907+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "b3d490d845c040ee82fd02f400ab0efc",
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
-  "Ranking_Rating": 344,
+  "Ranking_Rating": 343,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 297,
-  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -353,11 +353,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 981,
+  "EOS_Progressed": 983,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.82,
+  "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -2663,6 +2663,11 @@
       "Time": "2024-01-13T13:08:14.7652508+00:00",
       "NumProgressed": 981,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-13T14:05:42.3779856+00:00",
+      "NumProgressed": 983,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2753,9 +2758,9 @@
       "ID": "ACH_JELLYFISH_JAM",
       "SetID": "biiejkc",
       "Name": "Jellyfish Jam",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -2779,7 +2784,7 @@
       "Name": "Shrimp Catcher",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -2811,7 +2816,7 @@
       "Name": "Hit Rock Bottom",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -2930,15 +2935,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 981,
+      "Progressed": 983,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:08:14.7652504+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:05:42.3779853+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.4747982+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:02:09.3433297+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:08:14.7652797+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:59:26.923915+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:05:42.3780121+00:00"
 }

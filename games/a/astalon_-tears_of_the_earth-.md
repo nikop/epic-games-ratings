@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Horn prize! | 49.00% | ~43 |
-| Beast Quest | 36.00% | ~31 |
+| Beast Quest | 35.00% | ~31 |
 | Orb Gatherer | 34.00% | ~30 |
 | Monster Hunt | 34.00% | ~30 |
 | Space worm! | 34.00% | ~30 |
@@ -17,7 +17,7 @@
 | Twin slayer! | 30.00% | ~26 |
 | Snakehead! | 30.00% | ~26 |
 | Mercenary! | 30.00% | ~26 |
-| Fly, you fool! | 29.00% | ~25 |
+| Fly, you fool! | 28.00% | ~25 |
 | Beast Knight | 26.00% | ~23 |
 | Relic Collector | 24.00% | ~21 |
 | God of the Tower! | 23.00% | ~20 |
@@ -35,8 +35,8 @@
 | No match for me! | 5.00% | ~4 |
 | True Titan | 5.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 507)  
-Completed: 4 (4.60%) (Ranked 78)  
+Progressed: 88 (Ranked 507)  
+Completed: 4 (4.55%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,6 +73,7 @@ Completed: 4 (4.60%) (Ranked 78)
 | 2024-01-08 | 85 | 4 |
 | 2024-01-10 | 86 | 4 |
 | 2024-01-11 | 87 | 4 |
+| 2024-01-13 | 88 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

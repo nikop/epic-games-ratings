@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -91,9 +91,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2290,
+  "EOS_Progressed": 2293,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 406,
+  "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4446,6 +4446,11 @@
       "Time": "2024-01-13T13:13:01.2401191+00:00",
       "NumProgressed": 2290,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-13T14:10:20.5054514+00:00",
+      "NumProgressed": 2293,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4457,7 +4462,7 @@
       "Name": "Break Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1468
     },
     {
       "ID": "ACH_02",
@@ -4465,7 +4470,7 @@
       "Name": "Find Allies",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "ACH_03",
@@ -4473,7 +4478,7 @@
       "Name": "Powerful Allies",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ACH_04",
@@ -4513,7 +4518,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "ACH_09",
@@ -4529,7 +4534,7 @@
       "Name": "Trinity",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "ACH_11",
@@ -4551,9 +4556,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 527
+      "UsersEstimate": 550
     },
     {
       "ID": "ACH_14",
@@ -4569,7 +4574,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ACH_16",
@@ -4697,7 +4702,7 @@
       "Name": "Stone Collection",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ACH_33",
@@ -4705,7 +4710,7 @@
       "Name": "Miner",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_34",
@@ -4713,7 +4718,7 @@
       "Name": "The Collector",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "ACH_35",
@@ -4744,7 +4749,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2290,
+      "Progressed": 2293,
       "Completed": 3
     }
   ],
@@ -4752,8 +4757,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-11T14:57:15.6904807+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:13:01.2401187+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:10:20.5054512+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:01:07.8182186+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:13:01.240165+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:58:25.8917728+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:10:20.5054892+00:00"
 }

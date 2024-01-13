@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -4115,9 +4115,9 @@
       "ID": "ChasingTheLight",
       "SetID": "1n308hc",
       "Name": "Chasing the Light",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 236
     },
     {
       "ID": "Chicken",
@@ -4251,9 +4251,9 @@
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 291
+      "UsersEstimate": 305
     },
     {
       "ID": "Mnemosyne",
@@ -4532,8 +4532,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-12T23:00:35.1873511+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:07:06.5235997+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:04:34.5400306+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-13T12:59:57.4625966+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:07:06.5236749+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:57:12.3407582+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:04:34.5401044+00:00"
 }

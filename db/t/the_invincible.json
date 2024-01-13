@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -109,7 +109,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1662,
+  "EOS_Progressed": 1664,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
@@ -4384,6 +4384,11 @@
       "Time": "2024-01-13T12:10:28.0289019+00:00",
       "NumProgressed": 1662,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T14:09:55.1339855+00:00",
+      "NumProgressed": 1664,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4396,7 +4401,7 @@
       "Name": "The Teleprobe",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "AchvAllMemories",
@@ -4428,7 +4433,7 @@
       "Name": "Peacemaker",
       "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "AchvBombing",
@@ -4460,7 +4465,7 @@
       "Name": "The Alliance",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "AchvDoom",
@@ -4476,7 +4481,7 @@
       "Name": "Evacuation",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "AchvInvShip",
@@ -4492,7 +4497,7 @@
       "Name": "Krauta is alive",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "AchvLava",
@@ -4500,7 +4505,7 @@
       "Name": "Volcanologist",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -4572,7 +4577,7 @@
       "Name": "The Camp",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1165
     },
     {
       "ID": "AchvReachCity",
@@ -4580,7 +4585,7 @@
       "Name": "The City",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "AchvReachCondor",
@@ -4596,7 +4601,7 @@
       "Name": "Survivors",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -4620,14 +4625,14 @@
       "Name": "Beyond divisions",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1662,
+      "Progressed": 1664,
       "Completed": 1
     }
   ],
@@ -4635,8 +4640,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-12T16:59:53.3564711+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:12:35.8495232+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:09:55.1339853+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:02:46.394331+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:12:35.8495623+00:00"
+  "LastUpdate_Ratings": "2024-01-13T14:00:03.2577616+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:09:55.1340359+00:00"
 }

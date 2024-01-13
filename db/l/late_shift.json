@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1077,
+  "EOS_Progressed": 1078,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
@@ -3005,6 +3005,11 @@
       "Time": "2024-01-13T13:12:34.9386619+00:00",
       "NumProgressed": 1077,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-13T14:09:54.1767011+00:00",
+      "NumProgressed": 1078,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -3016,7 +3021,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "CHOICES_MATTER",
@@ -3072,7 +3077,7 @@
       "Name": "The Bribe",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ENDING_7",
@@ -3104,7 +3109,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "GOOD_KARMA",
@@ -3112,7 +3117,7 @@
       "Name": "Good Karma",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "INTERROGATION",
@@ -3168,14 +3173,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 1077,
+      "Progressed": 1078,
       "Completed": 13
     }
   ],
@@ -3183,8 +3188,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:12:34.9386615+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:09:54.1767009+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.9478908+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:02:16.7583226+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:12:34.9386893+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:59:34.0390485+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:09:54.1767314+00:00"
 }

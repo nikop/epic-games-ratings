@@ -12,8 +12,8 @@
 | Aboard the Sea Bird | 30.00% | ~90 |
 | Dark and stinky | 29.00% | ~87 |
 | Sneak in, sneak out | 25.00% | ~75 |
+| A gift horse | 25.00% | ~75 |
 | Is this the end? | 24.00% | ~72 |
-| A gift horse | 24.00% | ~72 |
 | You sssaved me | 23.00% | ~69 |
 | Say hello to my little friends | 20.00% | ~60 |
 | Heal thyself | 19.00% | ~57 |

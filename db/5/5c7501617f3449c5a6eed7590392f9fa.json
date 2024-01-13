@@ -3,9 +3,9 @@
   "Name": "Botanicula",
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 408,
-  "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 202,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2012-04-19T11:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 286,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -1296,9 +1296,9 @@
       "ID": "Ach-02-nosal",
       "SetID": "2pjo9pi",
       "Name": "Nosal",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 152
     },
     {
       "ID": "Ach-02-orchestrion",
@@ -1312,17 +1312,17 @@
       "ID": "Ach-02-parazit",
       "SetID": "2pjo9pi",
       "Name": "Parazit",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 132
     },
     {
       "ID": "Ach-02-strasilka",
       "SetID": "2pjo9pi",
       "Name": "Strasilka",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 154
     },
     {
       "ID": "Ach-02-tykvovec",
@@ -1655,8 +1655,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:12:07.4783125+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:09:24.337218+00:00",
   "LastUpdate_AppInfo": "2024-01-10T21:57:10.5143243+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:01:20.8903555+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:12:07.4783727+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:58:37.1883139+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:09:24.3372739+00:00"
 }

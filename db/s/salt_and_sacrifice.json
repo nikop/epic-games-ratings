@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -2029,9 +2029,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 68243,
+  "EOS_Progressed": 68244,
   "EOS_Completed": 1293,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.89,
   "EosHistory": [
@@ -17004,6 +17004,11 @@
       "Time": "2024-01-13T12:07:38.5021994+00:00",
       "NumProgressed": 68243,
       "NumCompleted": 1293
+    },
+    {
+      "Time": "2024-01-13T14:06:51.4281642+00:00",
+      "NumProgressed": 68244,
+      "NumCompleted": 1293
     }
   ],
   "TotalAchievements": 53,
@@ -17015,7 +17020,7 @@
       "Name": "The Aeromancer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44358
+      "UsersEstimate": 44359
     },
     {
       "ID": "area_copse",
@@ -17031,7 +17036,7 @@
       "Name": "The Mountain",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 27297
+      "UsersEstimate": 27298
     },
     {
       "ID": "area_swamp",
@@ -17047,7 +17052,7 @@
       "Name": "The Wastes",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 56642
+      "UsersEstimate": 56643
     },
     {
       "ID": "bibliomancer",
@@ -17103,7 +17108,7 @@
       "Name": "Waste Not",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 54594
+      "UsersEstimate": 54595
     },
     {
       "ID": "crafting_first_replenish",
@@ -17111,7 +17116,7 @@
       "Name": "Stock Up",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 51182
+      "UsersEstimate": 51183
     },
     {
       "ID": "crafting_max_upgrade",
@@ -17135,7 +17140,7 @@
       "Name": "The Diablomancer",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 15013
+      "UsersEstimate": 15014
     },
     {
       "ID": "dracomancer",
@@ -17151,7 +17156,7 @@
       "Name": "The Electromancer",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 41628
+      "UsersEstimate": 41629
     },
     {
       "ID": "elfslayer",
@@ -17159,7 +17164,7 @@
       "Name": "The Champion",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 61419
+      "UsersEstimate": 61420
     },
     {
       "ID": "end_climb",
@@ -17183,7 +17188,7 @@
       "Name": "Blueheart Runners",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 36851
+      "UsersEstimate": 36852
     },
     {
       "ID": "faction_chaos",
@@ -17207,7 +17212,7 @@
       "Name": "Oathbound Watchers",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 22520
+      "UsersEstimate": 22521
     },
     {
       "ID": "faction_sheriff",
@@ -17231,7 +17236,7 @@
       "Name": "The Firelord",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 16378
+      "UsersEstimate": 16379
     },
     {
       "ID": "fungalmancer",
@@ -17239,7 +17244,7 @@
       "Name": "The Fungalmancer",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32074
+      "UsersEstimate": 32075
     },
     {
       "ID": "hag",
@@ -17247,7 +17252,7 @@
       "Name": "The Hag",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 30709
+      "UsersEstimate": 30710
     },
     {
       "ID": "huntsman",
@@ -17255,7 +17260,7 @@
       "Name": "The Huntsman",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 44358
+      "UsersEstimate": 44359
     },
     {
       "ID": "hydromancer",
@@ -17263,7 +17268,7 @@
       "Name": "The Hydromancer",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 49817
+      "UsersEstimate": 49818
     },
     {
       "ID": "kinetomancer",
@@ -17311,7 +17316,7 @@
       "Name": "The Necromancer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 35486
+      "UsersEstimate": 35487
     },
     {
       "ID": "neuromancer",
@@ -17359,7 +17364,7 @@
       "Name": "The Pyromancer",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 58689
+      "UsersEstimate": 58690
     },
     {
       "ID": "queen",
@@ -17367,7 +17372,7 @@
       "Name": "The Matriarch",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 47770
+      "UsersEstimate": 47771
     },
     {
       "ID": "sanguimancer",
@@ -17391,7 +17396,7 @@
       "Name": "The Terramancer",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 40263
+      "UsersEstimate": 40264
     },
     {
       "ID": "thaumamancer",
@@ -17399,7 +17404,7 @@
       "Name": "The Thaumamancer",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32074
+      "UsersEstimate": 32075
     },
     {
       "ID": "treeheart",
@@ -17407,7 +17412,7 @@
       "Name": "The Treeheart",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 27297
+      "UsersEstimate": 27298
     },
     {
       "ID": "two_monks",
@@ -17431,22 +17436,22 @@
       "Name": "The Venomancer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44358
+      "UsersEstimate": 44359
     }
   ],
   "AchievementSets": [
     {
       "ID": "2jelldm",
       "IsBase": true,
-      "Progressed": 68243,
+      "Progressed": 68244,
       "Completed": 1293
     }
   ],
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "LastChanged": "2024-01-09T10:58:57.179352+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:09:23.7345455+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:06:51.4281638+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:08.8901557+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:00:31.8201632+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:09:23.7346453+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:57:49.6081599+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:06:51.4283602+00:00"
 }

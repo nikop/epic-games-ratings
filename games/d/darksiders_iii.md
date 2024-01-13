@@ -40,8 +40,8 @@ Number of Ratings: 116  (23.09.2022)
 | Seeing Red | 24.00% | ~138 |
 | Maximum Capacity | 22.00% | ~127 |
 | Egomaniac | 22.00% | ~127 |
-| Protector of Humanity | 20.00% | ~115 |
-| Everybody Wants to Rule the World | 20.00% | ~115 |
+| Protector of Humanity | 21.00% | ~121 |
+| Everybody Wants to Rule the World | 21.00% | ~121 |
 | Community Outreach | 16.00% | ~92 |
 | Unbreakable Will | 14.00% | ~81 |
 | A Parting Gift | 14.00% | ~81 |

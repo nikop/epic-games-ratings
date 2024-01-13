@@ -23,12 +23,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Frosts | 5.00% | ~1,037 |
 | Land of Greed | 5.00% | ~1,037 |
 | Homesick | 4.00% | ~830 |
+| Ruined Armory | 4.00% | ~830 |
 | Fertile Meadows | 4.00% | ~830 |
 | Levitating Monument | 4.00% | ~830 |
 | Monastery of the Holy Flame | 4.00% | ~830 |
 | A Real Challenge | 4.00% | ~830 |
 | Trade Baron | 4.00% | ~830 |
-| Ruined Armory | 3.00% | ~622 |
 | Bandit Camp | 3.00% | ~622 |
 | Barren Lands | 3.00% | ~622 |
 | Ancient Battleground | 3.00% | ~622 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,744 (Ranked 155)  
+Progressed: 20,748 (Ranked 155)  
 Completed: 35 (0.17%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,17 +334,17 @@ Completed: 35 (0.17%) (Ranked 287)
 | 2024-01-10 | 20,658 | 34 |
 | 2024-01-11 | 20,700 | 34 |
 | 2024-01-12 | 20,729 | 34 |
-| 2024-01-13 | 20,744 | 35 |
+| 2024-01-13 | 20,748 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
-Sum: 3,378 (Ranked 177)  
+Sum: 3,380 (Ranked 177)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 452 |
 | This game is Relaxing | 450 |
 | This game is Great for Beginners | 447 |
-| This game is Extremely Fun | 421 |
+| This game is Extremely Fun | 423 |
 | This game is Highly Recommended | 408 |
 | This game has Unique Visuals | 349 |
 | This game has Amazing Storytelling | 334 |
@@ -637,4 +637,4 @@ Diff (max vs sum): 56
 | 2024-01-10 | 4.82 | - | 452 | 3,369 |
 | 2024-01-11 | 4.82 | - | 452 | 3,371 |
 | 2024-01-12 | 4.82 | - | 452 | 3,375 |
-| 2024-01-13 | 4.82 | - | 452 | 3,378 |
+| 2024-01-13 | 4.82 | - | 452 | 3,380 |

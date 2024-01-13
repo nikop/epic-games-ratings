@@ -17,14 +17,14 @@ Rating: 4.70 (Ranked 220)
 | The Harder They Fall | 26.00% | ~342 |
 | Honest Mistake | 26.00% | ~342 |
 | Immaculate Aim | 26.00% | ~342 |
-| Fast Learner | 25.00% | ~328 |
-| The Steel Shadow | 24.00% | ~315 |
+| Fast Learner | 25.00% | ~329 |
+| The Steel Shadow | 24.00% | ~316 |
 | Right On Time | 23.00% | ~302 |
 | Breaking Down Barriers | 23.00% | ~302 |
 | The Wicked Twins | 23.00% | ~302 |
+| Like Clockwork | 22.00% | ~289 |
 | The Betrayer | 22.00% | ~289 |
 | Golem Chaser | 22.00% | ~289 |
-| Like Clockwork | 21.00% | ~276 |
 | The Loose Cannon | 20.00% | ~263 |
 | Check Your Pulse | 20.00% | ~263 |
 | Street Style | 19.00% | ~250 |
@@ -39,9 +39,9 @@ Rating: 4.70 (Ranked 220)
 | Cartographer | 12.00% | ~158 |
 | Sump Explorer | 12.00% | ~158 |
 | Syron for Hope | 12.00% | ~158 |
-| Factorywood Explorer | 11.00% | ~145 |
-| Theater Explorer | 11.00% | ~145 |
-| Fairgrounds Explorer | 10.00% | ~131 |
+| Factorywood Explorer | 10.00% | ~132 |
+| Fairgrounds Explorer | 10.00% | ~132 |
+| Theater Explorer | 10.00% | ~132 |
 | Cultivair Explorer | 9.00% | ~118 |
 | Entresol Explorer | 9.00% | ~118 |
 | Corin Goes Home | 8.00% | ~105 |
@@ -59,8 +59,8 @@ Rating: 4.70 (Ranked 220)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,314 (Ranked 281)  
-Completed: 8 (0.61%) (Ranked 208)  
+Progressed: 1,315 (Ranked 281)  
+Completed: 8 (0.61%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -233,7 +233,7 @@ Completed: 8 (0.61%) (Ranked 208)
 | 2024-01-10 | 1,300 | 7 |
 | 2024-01-11 | 1,306 | 8 |
 | 2024-01-12 | 1,312 | 8 |
-| 2024-01-13 | 1,314 | 8 |
+| 2024-01-13 | 1,315 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

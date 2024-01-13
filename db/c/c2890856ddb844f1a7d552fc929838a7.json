@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -303,9 +303,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 2487,
+  "EOS_Progressed": 2488,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5933,6 +5933,11 @@
       "Time": "2024-01-13T13:08:38.8872276+00:00",
       "NumProgressed": 2487,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T14:06:06.6422345+00:00",
+      "NumProgressed": 2488,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -5953,7 +5958,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2213
+      "UsersEstimate": 2214
     },
     {
       "ID": "AC02",
@@ -5969,7 +5974,7 @@
       "Name": "Blood and Gold",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "AC04",
@@ -5977,7 +5982,7 @@
       "Name": "Blood and Iron",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "AC05",
@@ -6017,7 +6022,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "AC10",
@@ -6041,7 +6046,7 @@
       "Name": "Canvas of Light and Time",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "AC13",
@@ -6049,7 +6054,7 @@
       "Name": "Second Psalm.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "AC14",
@@ -6105,7 +6110,7 @@
       "Name": "Still Among Us",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "AC21",
@@ -6129,7 +6134,7 @@
       "Name": "Hide and Seek",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "AC24",
@@ -6137,7 +6142,7 @@
       "Name": "The Work of a Master",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "AC25",
@@ -6201,15 +6206,15 @@
       "Name": "Nobody Expects the Spanish Inquisition!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "AC33",
       "SetID": "l4abp0",
       "Name": "Ultima Ratio",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1194
     },
     {
       "ID": "AC34",
@@ -6241,7 +6246,7 @@
       "Name": "Storm of Death",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "AC38",
@@ -6255,9 +6260,9 @@
       "ID": "AC39",
       "SetID": "l4abp0",
       "Name": "Warrior of the Silent Sorrow",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 224
     },
     {
       "ID": "AC40",
@@ -6265,7 +6270,7 @@
       "Name": "Welcome Back!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "AC41",
@@ -6312,7 +6317,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2487,
+      "Progressed": 2488,
       "Completed": 0
     }
   ],
@@ -6320,8 +6325,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-11T21:01:32.4954396+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:08:38.8872272+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:06:06.6422339+00:00",
   "LastUpdate_AppInfo": "2024-01-10T04:57:09.7051995+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:00:31.5314911+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:08:38.887297+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:57:49.3299573+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:06:06.6422895+00:00"
 }

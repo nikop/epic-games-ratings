@@ -3,9 +3,9 @@
   "Name": "SEASON\u00AE: A letter to the future",
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 250,
-  "Ranking_EOS_Completed": 95,
+  "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 2113,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.69,
   "EosHistory": [
@@ -5170,8 +5170,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:12:50.8308432+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:10:10.0860237+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:30.8878388+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:01:32.3129205+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:12:50.8308837+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:58:48.4240748+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:10:10.0860695+00:00"
 }

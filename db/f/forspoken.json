@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 375,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -655,9 +655,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 47177,
+  "EOS_Progressed": 47180,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 632,
+  "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18690,6 +18690,11 @@
       "Time": "2024-01-13T13:09:51.8419144+00:00",
       "NumProgressed": 47177,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-13T14:08:28.7954791+00:00",
+      "NumProgressed": 47180,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19037,7 +19042,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5661
+      "UsersEstimate": 5662
     },
     {
       "ID": "SPRING_ALL",
@@ -19053,7 +19058,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3302
+      "UsersEstimate": 3303
     },
     {
       "ID": "STAYING_AIR",
@@ -19124,22 +19129,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47177,
+      "Progressed": 47180,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12014,
-      "Completed": 12014
+      "Progressed": 12017,
+      "Completed": 12017
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-13T10:03:30.8792595+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:09:51.8419139+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:08:28.7954786+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:05:52.6639313+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:09:51.8420228+00:00"
+  "LastUpdate_Ratings": "2024-01-13T14:03:17.3874323+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:08:28.7955845+00:00"
 }

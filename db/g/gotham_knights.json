@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5237,9 +5237,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82650,
+  "EOS_Progressed": 82652,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 938,
+  "EOS_NewPlayers": 932,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30057,6 +30057,11 @@
       "Time": "2024-01-13T13:09:38.2183732+00:00",
       "NumProgressed": 82650,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2024-01-13T14:08:15.2569804+00:00",
+      "NumProgressed": 82652,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 61,
@@ -30220,7 +30225,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4132
+      "UsersEstimate": 4133
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -30236,7 +30241,7 @@
       "Name": "Talonted",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "DEFEAT_FREAKS_1",
@@ -30252,7 +30257,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7438
+      "UsersEstimate": 7439
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -30260,7 +30265,7 @@
       "Name": "The Man-Bat Family",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "DEFEAT_OC_1",
@@ -30276,7 +30281,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10744
+      "UsersEstimate": 10745
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -30284,7 +30289,7 @@
       "Name": "Drone You Out",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7438
+      "UsersEstimate": 7439
     },
     {
       "ID": "FREEZE_1",
@@ -30340,7 +30345,7 @@
       "Name": "Batarang Collector",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "GOTHAM_COO_PAGES",
@@ -30364,7 +30369,7 @@
       "Name": "Claiming the Mural High Ground",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "HARLEY_1",
@@ -30372,7 +30377,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28101
+      "UsersEstimate": 28102
     },
     {
       "ID": "HARLEY_2",
@@ -30412,7 +30417,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41325
+      "UsersEstimate": 41326
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -30444,7 +30449,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21489
+      "UsersEstimate": 21490
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -30460,7 +30465,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27274
+      "UsersEstimate": 27275
     },
     {
       "ID": "MYSTERY_02",
@@ -30508,7 +30513,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10744
+      "UsersEstimate": 10745
     },
     {
       "ID": "MYSTERY_08",
@@ -30555,13 +30560,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82650,
+      "Progressed": 82652,
       "Completed": 133
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 52930,
+      "Progressed": 52932,
       "Completed": 2679
     }
   ],
@@ -30569,8 +30574,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-13T05:57:37.2756977+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:09:38.2183727+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:08:15.25698+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:43.7132471+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:00:52.2779264+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:09:38.218552+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:58:08.5593698+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:08:15.2571195+00:00"
 }

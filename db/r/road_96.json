@@ -2,13 +2,13 @@
   "ID": "755d1aa0a0154fe7a602caaec1f18c10",
   "Name": "Road 96",
   "ProductSlug": "road-96",
-  "Ranking_Rating": 303,
+  "Ranking_Rating": 286,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 735,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 579,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 580,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-08-16T12:00:00+00:00",
     "PcReleaseDate": "2021-08-16T12:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.67,
   "NumberOfRatings": 86,
   "RatingHistory": [
     {
@@ -315,6 +315,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-13T13:59:47.7032396+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -448,9 +454,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:33.5631582+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:28.2855569+00:00",
-  "LastChanged": "2024-01-07T13:04:08.2349603+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:12:27.8124699+00:00",
+  "LastChanged": "2024-01-13T13:59:47.7032395+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:09:46.9805891+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:15.5995742+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:02:29.6164376+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:12:27.8124842+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:59:47.7032398+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:09:46.9805958+00:00"
 }

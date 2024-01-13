@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -331,7 +331,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25130,
+  "EOS_Progressed": 25131,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
@@ -9136,6 +9136,11 @@
       "Time": "2024-01-13T09:09:22.201199+00:00",
       "NumProgressed": 25130,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-13T14:09:00.7754025+00:00",
+      "NumProgressed": 25131,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -9203,7 +9208,7 @@
       "Name": "Are You Packin\u0027?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -9211,7 +9216,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -9235,7 +9240,7 @@
       "Name": "Sweezy Like Sunday Morning",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -9267,7 +9272,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -9283,7 +9288,7 @@
       "Name": "G3 Graduation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -9339,7 +9344,7 @@
       "Name": "Don\u0027t Knife The Hand That Feeds",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -9498,13 +9503,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25130,
+      "Progressed": 25131,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2423,
+      "Progressed": 2424,
       "Completed": 1376
     }
   ],
@@ -9512,8 +9517,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:11:44.6112268+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:09:00.7754023+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:08.9175912+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:00:11.5972984+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:11:44.6112871+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:57:26.5369917+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:09:00.7754599+00:00"
 }

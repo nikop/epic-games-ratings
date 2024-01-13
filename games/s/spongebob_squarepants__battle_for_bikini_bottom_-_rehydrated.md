@@ -1,14 +1,14 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.64 (Ranked 344)  
+Rating: 4.64 (Ranked 343)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Spatula Seeker | 23.00% | ~226 |
 | Sponge Smasher | 23.00% | ~226 |
-| Jellyfish Jam | 22.00% | ~216 |
+| Jellyfish Jam | 21.00% | ~206 |
 | Jellyfishing | 17.00% | ~167 |
 | Sweet Victory | 13.00% | ~128 |
 | Sock Getter | 13.00% | ~128 |
@@ -20,8 +20,8 @@ Number of Ratings: 76  (23.09.2022)
 | Surf's Up! | 11.00% | ~108 |
 | Life's as extreme as you wanna make it! | 9.00% | ~88 |
 | Toxic Terror | 9.00% | ~88 |
-| Shrimp Catcher | 8.00% | ~78 |
-| Hit Rock Bottom | 8.00% | ~78 |
+| Shrimp Catcher | 8.00% | ~79 |
+| Hit Rock Bottom | 8.00% | ~79 |
 | Are you ready now? | 7.00% | ~69 |
 | Hello, Bikini Bottom | 7.00% | ~69 |
 | Keep it Rolling | 7.00% | ~69 |
@@ -39,8 +39,8 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~10 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 981 (Ranked 297)  
-Completed: 8 (0.82%) (Ranked 191)  
+Progressed: 983 (Ranked 297)  
+Completed: 8 (0.81%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,7 +70,7 @@ Completed: 8 (0.82%) (Ranked 191)
 | 2024-01-10 | 929 | 8 |
 | 2024-01-11 | 954 | 8 |
 | 2024-01-12 | 970 | 8 |
-| 2024-01-13 | 981 | 8 |
+| 2024-01-13 | 983 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 501)  
 Sum: 36 (Ranked 533)  

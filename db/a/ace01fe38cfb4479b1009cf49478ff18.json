@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 935,
+  "EOS_Progressed": 937,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3069,6 +3069,11 @@
       "Time": "2024-01-13T13:11:37.694837+00:00",
       "NumProgressed": 935,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T14:08:53.86436+00:00",
+      "NumProgressed": 937,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -3097,7 +3102,7 @@
       "Name": "Chapter III - Complete",
       "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ach_complete_difficulty_easy",
@@ -3105,7 +3110,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ach_complete_difficulty_extreme",
@@ -3176,14 +3181,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 935,
+      "Progressed": 937,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:11:37.6948367+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:08:53.8643595+00:00",
   "LastUpdate_AppInfo": "2024-01-12T17:56:55.7118105+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:05:37.4155658+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:11:37.6948656+00:00"
+  "LastUpdate_Ratings": "2024-01-13T14:03:02.653693+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:08:53.8643955+00:00"
 }

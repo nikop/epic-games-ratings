@@ -6,17 +6,17 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,053 |
-| Lost and Found | 9.00% | ~677 |
-| Autodidact | 8.00% | ~10,612 |
+| Malpractice Assurance | 14.00% | ~1,054 |
+| Lost and Found | 9.00% | ~678 |
+| Autodidact | 8.00% | ~10,613 |
 | This Belongs in a Museum | 7.00% | ~9,286 |
 | This guy... again? | 7.00% | ~527 |
-| Serenity Now! | 6.00% | ~7,959 |
-| Creep and Sleep | 6.00% | ~7,959 |
-| Overdue Notice | 6.00% | ~7,959 |
-| Escape from the Black Hole | 6.00% | ~7,959 |
-| Ploughshares to Swords | 6.00% | ~451 |
-| Bloody Graduation | 6.00% | ~451 |
+| Serenity Now! | 6.00% | ~7,960 |
+| Creep and Sleep | 6.00% | ~7,960 |
+| Overdue Notice | 6.00% | ~7,960 |
+| Escape from the Black Hole | 6.00% | ~7,960 |
+| Ploughshares to Swords | 6.00% | ~452 |
+| Bloody Graduation | 6.00% | ~452 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,633 |
 | It Rings a Bell | 5.00% | ~6,633 |
 | Not Today! | 5.00% | ~6,633 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,655 (Ranked 91)  
+Progressed: 132,660 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,15 +344,15 @@ Completed: 4 (0.00%) (Ranked 399)
 | 2024-01-10 | 132,395 | 4 |
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
-| 2024-01-13 | 132,655 | 4 |
+| 2024-01-13 | 132,660 | 4 |
 ## Awards
 Max (Character Customization): 8,007  (Ranked 51)  
-Sum: 21,613 (Ranked 58)  
+Sum: 21,618 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,007 |
-| This game has Diverse Characters | 1,846 |
+| This game has Diverse Characters | 1,851 |
 | This game has Challenging Combat | 1,679 |
 | This game is Highly Recommended | 1,604 |
 | This game has Amazing Characters | 1,532 |
@@ -716,4 +716,4 @@ Diff (max vs sum): -7
 | 2024-01-10 | 4.68 | - | 8,000 | 21,576 |
 | 2024-01-11 | 4.68 | - | 8,002 | 21,592 |
 | 2024-01-12 | 4.68 | - | 8,007 | 21,610 |
-| 2024-01-13 | 4.68 | - | 8,007 | 21,613 |
+| 2024-01-13 | 4.68 | - | 8,007 | 21,618 |

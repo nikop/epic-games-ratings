@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2881,
+  "EOS_Progressed": 2883,
   "EOS_Completed": 269,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 9.34,
+  "EOS_Completed_Percentage": 9.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -8396,6 +8396,11 @@
       "Time": "2024-01-13T12:09:50.5672647+00:00",
       "NumProgressed": 2881,
       "NumCompleted": 269
+    },
+    {
+      "Time": "2024-01-13T14:09:22.4311339+00:00",
+      "NumProgressed": 2883,
+      "NumCompleted": 269
     }
   ],
   "TotalAchievements": 12,
@@ -8429,9 +8434,9 @@
       "ID": "Green Ticket Roundup",
       "SetID": "b40dflc",
       "Name": "Green Ticket Roundup",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 576
+      "UsersEstimate": 548
     },
     {
       "ID": "Jacques a Dit",
@@ -8439,7 +8444,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "Jakob",
@@ -8455,7 +8460,7 @@
       "Name": "Jude",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "Le Juif et la France",
@@ -8463,7 +8468,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "Little Helper",
@@ -8487,7 +8492,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "Nuremberg Laws",
@@ -8502,7 +8507,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2881,
+      "Progressed": 2883,
       "Completed": 269
     }
   ],
@@ -8510,8 +8515,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:12:05.6362277+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:09:22.4311333+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:56:54.1144562+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:03:35.1724896+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:12:05.6362777+00:00"
+  "LastUpdate_Ratings": "2024-01-13T14:00:52.128959+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:09:22.4311938+00:00"
 }

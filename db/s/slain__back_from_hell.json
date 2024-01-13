@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 454,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -262,9 +262,9 @@
       "Count": 129
     }
   ],
-  "EOS_Progressed": 44100,
+  "EOS_Progressed": 44103,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 477,
+  "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -29362,6 +29362,11 @@
       "Time": "2024-01-13T13:08:37.8482928+00:00",
       "NumProgressed": 44100,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-13T14:06:05.46665+00:00",
+      "NumProgressed": 44103,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -29381,7 +29386,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9261
+      "UsersEstimate": 9262
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -29453,7 +29458,7 @@
       "Name": "Four Legged Friend",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_13_DEFEATED_WEREBEAST",
@@ -29469,7 +29474,7 @@
       "Name": "Oh God, Mother! Blood! Blood!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
@@ -29493,7 +29498,7 @@
       "Name": "Ice To See You",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_18_DEFEATED_IMP",
@@ -29501,7 +29506,7 @@
       "Name": "Smack My Imp Up",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_19_DEFEATED_HOGRE",
@@ -29604,7 +29609,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 44100,
+      "Progressed": 44103,
       "Completed": 30
     }
   ],
@@ -29612,8 +29617,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2024-01-13T02:25:47.9038675+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:08:37.8482924+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:06:05.4666496+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:02.3058441+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:05:48.6890725+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:08:37.8484202+00:00"
+  "LastUpdate_Ratings": "2024-01-13T14:03:13.2000636+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:06:05.4668478+00:00"
 }

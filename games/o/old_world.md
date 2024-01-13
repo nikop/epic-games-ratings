@@ -31,6 +31,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 2.00% | ~333 |
 | Hanging Gardens | 2.00% | ~333 |
 | Ishtar Gate | 2.00% | ~333 |
+| Lighthouse | 2.00% | ~333 |
 | Oracle | 2.00% | ~333 |
 | Pyramids | 2.00% | ~333 |
 | Learn to Play 1 | 2.00% | ~333 |
@@ -52,7 +53,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 1.00% | ~166 |
 | Colossus | 1.00% | ~166 |
 | Great Ziggurat | 1.00% | ~166 |
-| Lighthouse | 1.00% | ~166 |
 | Mausoleum | 1.00% | ~166 |
 | Musaeum | 1.00% | ~166 |
 | Necropolis | 1.00% | ~166 |
@@ -97,6 +97,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.60% | ~100 |
 | Dualism | 0.60% | ~100 |
 | Legalism | 0.60% | ~100 |
+| Cimmerian Archer | 0.60% | ~100 |
 | Legionary | 0.60% | ~100 |
 | Double Victory | 0.60% | ~100 |
 | The Clergy | 0.60% | ~100 |
@@ -112,7 +113,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.50% | ~83 |
 | Enlightenment | 0.50% | ~83 |
 | Redemption | 0.50% | ~83 |
-| Cimmerian Archer | 0.50% | ~83 |
 | Phalangite | 0.50% | ~83 |
 | Ambition Victory | 0.50% | ~83 |
 | Kushite Pyramids | 0.50% | ~83 |
@@ -151,6 +151,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.20% | ~33 |
 | Noble Difficulty | 0.20% | ~33 |
 | The Eternal Treaty | 0.20% | ~33 |
+| Assyria | 0.20% | ~33 |
 | Persia | 0.20% | ~33 |
 | Pantheon of Gods | 0.20% | ~33 |
 | Apadana in Parsa | 0.20% | ~33 |
@@ -251,7 +252,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids in Menefer | 0.10% | ~17 |
 | Merchants of the Levant | 0.10% | ~17 |
 | Realistic Mortality | 0.10% | ~17 |
-| Assyria | 0.10% | ~17 |
 | Hatti | 0.10% | ~17 |
 | Play a 1-v-1 Game | 0.10% | ~17 |
 | Play a Hotseat Game | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,629 (Ranked 170)  
+Progressed: 16,636 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -633,7 +633,7 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
-| 2024-01-13 | 16,629 | 5 |
+| 2024-01-13 | 16,636 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,927 (Ranked 223)  

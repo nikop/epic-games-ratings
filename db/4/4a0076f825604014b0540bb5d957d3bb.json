@@ -2,10 +2,10 @@
   "ID": "4a0076f825604014b0540bb5d957d3bb",
   "Name": "The House of Da Vinci 2",
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
-  "Ranking_EOS_Progress": 463,
+  "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 348,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 148,
+  "EOS_Progressed": 149,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
@@ -739,6 +739,11 @@
       "Time": "2024-01-12T19:10:43.9931508+00:00",
       "NumProgressed": 148,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T14:10:13.3728019+00:00",
+      "NumProgressed": 149,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -750,7 +755,7 @@
       "Name": "GREAT ESCAPE",
       "Percentage": 90,
       "XP": 40,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "CgkInO_K3eIdEAIQBA",
@@ -758,13 +763,13 @@
       "Name": "TRAINING DAY",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "CgkInO_K3eIdEAIQBQ",
       "SetID": "6bj96in",
       "Name": "SAILOR\u0027S GIFT",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 40,
       "UsersEstimate": 112
     },
@@ -772,9 +777,9 @@
       "ID": "CgkInO_K3eIdEAIQBg",
       "SetID": "6bj96in",
       "Name": "BACK TO THE FUTURE",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 96
+      "UsersEstimate": 95
     },
     {
       "ID": "CgkInO_K3eIdEAIQBw",
@@ -782,7 +787,7 @@
       "Name": "SCRIPTORIUM SNEAK",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "CgkInO_K3eIdEAIQCA",
@@ -798,7 +803,7 @@
       "Name": "NOVICE CRAFTSMAN",
       "Percentage": 91,
       "XP": 40,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "CgkInO_K3eIdEAIQCg",
@@ -806,7 +811,7 @@
       "Name": "ADVANCED CRAFTSMAN",
       "Percentage": 59,
       "XP": 40,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "CgkInO_K3eIdEAIQCw",
@@ -822,7 +827,7 @@
       "Name": "BRIDGES OF THE PAST",
       "Percentage": 91,
       "XP": 40,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "CgkInO_K3eIdEAIQDQ",
@@ -830,13 +835,13 @@
       "Name": "TEMPORAL ARCHITECT",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "CgkInO_K3eIdEAIQDg",
       "SetID": "6bj96in",
       "Name": "CHRONOSPY",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 40,
       "UsersEstimate": 112
     },
@@ -854,7 +859,7 @@
       "Name": "EAGLE EYED",
       "Percentage": 76,
       "XP": 40,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "CgkInO_K3eIdEAIQEQ",
@@ -886,15 +891,15 @@
       "Name": "WALKER",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "CgkInO_K3eIdEAIQFQ",
       "SetID": "6bj96in",
       "Name": "RUNNER",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "CgkInO_K3eIdEAIQFg",
@@ -941,14 +946,14 @@
     {
       "ID": "6bj96in",
       "IsBase": true,
-      "Progressed": 148,
+      "Progressed": 149,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-13T13:12:54.0493394+00:00",
+  "LastChanged_Achievements": "2024-01-13T14:10:13.3728016+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:03.5069577+00:00",
-  "LastUpdate_Ratings": "2024-01-13T13:01:30.9611548+00:00",
-  "LastUpdate_Achievements": "2024-01-13T13:12:54.0493611+00:00"
+  "LastUpdate_Ratings": "2024-01-13T13:58:47.1903231+00:00",
+  "LastUpdate_Achievements": "2024-01-13T14:10:13.3728252+00:00"
 }
