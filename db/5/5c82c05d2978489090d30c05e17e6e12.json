@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75032,
+  "EOS_Progressed": 75042,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 1403,
+  "EOS_NewPlayers": 1399,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -7204,6 +7204,11 @@
       "Time": "2024-01-13T22:08:45.8901234+00:00",
       "NumProgressed": 75032,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2024-01-13T23:09:44.8457903+00:00",
+      "NumProgressed": 75042,
+      "NumCompleted": 121
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -7216,7 +7221,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27762
+      "UsersEstimate": 27766
     },
     {
       "ID": "Achievement_10",
@@ -7248,7 +7253,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3001
+      "UsersEstimate": 3002
     },
     {
       "ID": "Achievement_14",
@@ -7304,7 +7309,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21009
+      "UsersEstimate": 21012
     },
     {
       "ID": "Achievement_20",
@@ -7344,7 +7349,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3001
+      "UsersEstimate": 3002
     },
     {
       "ID": "Achievement_25",
@@ -7392,7 +7397,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9004
+      "UsersEstimate": 9005
     },
     {
       "ID": "Achievement_30",
@@ -7440,7 +7445,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6753
+      "UsersEstimate": 6754
     },
     {
       "ID": "Achievement_5",
@@ -7448,7 +7453,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5252
+      "UsersEstimate": 5253
     },
     {
       "ID": "Achievement_6",
@@ -7456,7 +7461,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3001
+      "UsersEstimate": 3002
     },
     {
       "ID": "Achievement_7",
@@ -7487,7 +7492,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 75032,
+      "Progressed": 75042,
       "Completed": 121
     }
   ],
@@ -7495,8 +7500,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-09T18:03:16.5676566+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:08:45.8901232+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:09:44.8457896+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:28.0983464+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:57:23.8045766+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:08:45.8901784+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:57:48.0961884+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:09:44.845869+00:00"
 }

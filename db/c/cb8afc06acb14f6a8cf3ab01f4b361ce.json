@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -479,9 +479,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 345083,
+  "EOS_Progressed": 345102,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3070,
+  "EOS_NewPlayers": 3064,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13264,6 +13264,11 @@
       "Time": "2024-01-13T22:09:02.3463335+00:00",
       "NumProgressed": 345083,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-13T23:10:08.1109312+00:00",
+      "NumProgressed": 345102,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -13276,7 +13281,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17254
+      "UsersEstimate": 17255
     },
     {
       "ID": "S02_BRDA",
@@ -13284,7 +13289,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10352
+      "UsersEstimate": 10353
     },
     {
       "ID": "S03_OTWA",
@@ -13332,7 +13337,7 @@
       "Name": "I feel drawn to it",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2070
+      "UsersEstimate": 2071
     },
     {
       "ID": "S09_MNSE",
@@ -13340,7 +13345,7 @@
       "Name": "Here to stay",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2070
+      "UsersEstimate": 2071
     },
     {
       "ID": "S10_GRSB",
@@ -13348,7 +13353,7 @@
       "Name": "Counting on you",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "S11_MMR6",
@@ -13356,7 +13361,7 @@
       "Name": "This is the end",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "S12_ALL",
@@ -13364,7 +13369,7 @@
       "Name": "We can choose to fight",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "S13_ALL_HARD",
@@ -13412,7 +13417,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17254
+      "UsersEstimate": 17255
     },
     {
       "ID": "S19_CHALLENGES",
@@ -13580,7 +13585,7 @@
       "Name": "I took a risk",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "S40_BONUS",
@@ -13595,7 +13600,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 345083,
+      "Progressed": 345102,
       "Completed": 7
     }
   ],
@@ -13603,8 +13608,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-13T21:58:44.3506369+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:09:02.3463333+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:10:08.1109307+00:00",
   "LastUpdate_AppInfo": "2024-01-12T01:46:06.9563131+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:58:44.3506374+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:09:02.3464146+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:59:42.0283243+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:10:08.1110346+00:00"
 }

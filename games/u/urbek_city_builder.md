@@ -21,9 +21,9 @@
 | King of fish | 2.00% | ~10 |
 | Rebel city | 2.00% | ~10 |
 | City crisis | 1.00% | ~5 |
+| I am very happy! | 1.00% | ~5 |
 | What would we do if we can't go out with friends? | 1.00% | ~5 |
 | Metropolurbek | 1.00% | ~5 |
-| I am very happy! | 0.80% | ~4 |
 | Banking city | 0.60% | ~3 |
 | Oh, I love parks, listening to birds! | 0.60% | ~3 |
 | Food provider master | 0.40% | ~2 |

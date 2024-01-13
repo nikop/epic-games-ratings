@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1026,
+  "EOS_Progressed": 1027,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -3667,6 +3667,11 @@
       "Time": "2024-01-13T21:08:29.2125112+00:00",
       "NumProgressed": 1026,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-13T23:09:25.0934701+00:00",
+      "NumProgressed": 1027,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3740,9 +3745,9 @@
       "ID": "pack-and-sell",
       "SetID": "bed33dd",
       "Name": "Hokey-Pokey",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 698
+      "UsersEstimate": 688
     },
     {
       "ID": "play-at-night",
@@ -3766,7 +3771,7 @@
       "Name": "Bad Trip",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "rename-lieutenant",
@@ -3796,9 +3801,9 @@
       "ID": "send-smuggling",
       "SetID": "bed33dd",
       "Name": "Camellos",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 544
+      "UsersEstimate": 534
     },
     {
       "ID": "unlock-residences",
@@ -3806,7 +3811,7 @@
       "Name": "Pampered Life",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "upgrade-building",
@@ -3829,15 +3834,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 1026,
+      "Progressed": 1027,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-05T21:03:11.6844011+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:08:32.5676013+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:09:25.0934695+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:39.3719101+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:03:00.7074312+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:08:32.567627+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:04:02.8215259+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:09:25.0935047+00:00"
 }

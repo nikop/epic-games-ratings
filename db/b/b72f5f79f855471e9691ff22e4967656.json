@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -1094,9 +1094,9 @@
       "ID": "locBanditBoss",
       "SetID": "ci65fo0",
       "Name": "The Reds camp",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "locCompDungeon10",
@@ -1158,9 +1158,9 @@
       "ID": "locWorker",
       "SetID": "ci65fo0",
       "Name": "The first friend",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "questAntiquities",
@@ -1254,9 +1254,9 @@
       "ID": "questDefender",
       "SetID": "ci65fo0",
       "Name": "Defender",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "questDetective",
@@ -1334,9 +1334,9 @@
       "ID": "questRedsBoss",
       "SetID": "ci65fo0",
       "Name": "The conqueror of the Reds",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "questReturnSun",
@@ -1443,8 +1443,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:10:02.6736374+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:11:31.9798236+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:02.3295172+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:00:33.7149389+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:10:02.6737089+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:02:28.5448561+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:11:31.9799016+00:00"
 }

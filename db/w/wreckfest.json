@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -361,7 +361,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1133,
+  "EOS_Progressed": 1134,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
@@ -2821,6 +2821,11 @@
       "Time": "2024-01-13T22:09:01.7699877+00:00",
       "NumProgressed": 1133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T23:10:07.2318354+00:00",
+      "NumProgressed": 1134,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2849,7 +2854,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "CareerChamp2",
@@ -2889,7 +2894,7 @@
       "Name": "Storm Warning",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "CollectVehiclesA",
@@ -2897,7 +2902,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "CollectVehiclesB",
@@ -2975,9 +2980,9 @@
       "ID": "WreckOpponentsA",
       "SetID": "5hd282c",
       "Name": "Hating Them Tin Cans",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 170
     },
     {
       "ID": "WreckOpponentsBus",
@@ -2992,7 +2997,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1133,
+      "Progressed": 1134,
       "Completed": 0
     }
   ],
@@ -3000,8 +3005,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-13T19:58:54.2131387+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:09:01.7699875+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:10:07.2318349+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:58:57.3419106+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:09:01.7700074+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:00:02.3482463+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:10:07.2318659+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "f00f2d0ae4f04fc987d4218d9355f026",
   "Name": "Bio Inc. Redemption",
   "ProductSlug": "bio-inc-redemption-280fe5",
-  "Ranking_EOS_Progress": 541,
+  "Ranking_EOS_Progress": 542,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 384,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-12T05:00:00+00:00",
     "PcReleaseDate": "2018-03-08T05:00:00+00:00",
@@ -363,9 +363,9 @@
       "ID": "BusyLabs",
       "SetID": "aaidab7",
       "Name": "Busy Labs",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "CirculatoryCollapse",
@@ -403,9 +403,9 @@
       "ID": "DiagnosticPro",
       "SetID": "aaidab7",
       "Name": "Diagnostic Professional",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "DigestiveCollapse",
@@ -459,9 +459,9 @@
       "ID": "Loser",
       "SetID": "aaidab7",
       "Name": "Loser",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Lupus",
@@ -483,9 +483,9 @@
       "ID": "MedStudent",
       "SetID": "aaidab7",
       "Name": "Medical Student",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "MuscularCollapse",
@@ -515,9 +515,9 @@
       "ID": "PrescriptionFrenzy",
       "SetID": "aaidab7",
       "Name": "Prescription Frenzy",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Reaper",
@@ -571,9 +571,9 @@
       "ID": "Stabilized",
       "SetID": "aaidab7",
       "Name": "Stabilized",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Thrifty",
@@ -602,8 +602,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:08:12.5716909+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:08:56.5514296+00:00",
   "LastUpdate_AppInfo": "2024-01-09T06:57:18.0695989+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:00:48.9322128+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:08:12.5717096+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:03:30.8415896+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:08:56.5514585+00:00"
 }

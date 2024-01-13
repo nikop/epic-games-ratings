@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -353,7 +353,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4179,
+  "EOS_Progressed": 4180,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
@@ -8528,6 +8528,11 @@
       "Time": "2024-01-13T22:04:24.4127891+00:00",
       "NumProgressed": 4179,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T23:06:09.9326096+00:00",
+      "NumProgressed": 4180,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8539,7 +8544,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "ACH_BASE_10",
@@ -8707,7 +8712,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH_BASE_31",
@@ -8835,7 +8840,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "ACH_BASE_49",
@@ -8994,13 +8999,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2363,
+      "Progressed": 2364,
       "Completed": 12
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4179,
+      "Progressed": 4180,
       "Completed": 0
     }
   ],
@@ -9008,8 +9013,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-11T09:57:52.466446+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:04:24.4127889+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:06:09.9326092+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:25.5201636+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:59:33.4384052+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:04:24.412859+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:00:55.1848925+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:06:09.9326874+00:00"
 }

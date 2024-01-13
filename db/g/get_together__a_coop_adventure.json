@@ -2,10 +2,10 @@
   "ID": "162c788ef5924c688fa0d0663c15a763",
   "Name": "Get Together: A Coop Adventure",
   "ProductSlug": "get-together-176532",
-  "Ranking_EOS_Progress": 504,
-  "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 575,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Progress": 503,
+  "Ranking_EOS_Completed": 173,
+  "Ranking_EOS_NewPlayers": 505,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-10T13:00:00+00:00",
     "PcReleaseDate": "2021-10-14T16:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 91,
+  "EOS_Progressed": 93,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.1,
+  "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:43.6991454+00:00",
@@ -276,6 +276,11 @@
       "Time": "2024-01-02T15:09:00.2770275+00:00",
       "NumProgressed": 91,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T23:09:51.365723+00:00",
+      "NumProgressed": 93,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 10,
@@ -285,7 +290,7 @@
       "ID": "GT_ACH_CAVESYNC",
       "SetID": "883j7b4",
       "Name": "Beam me up",
-      "Percentage": 64,
+      "Percentage": 62,
       "XP": 100,
       "UsersEstimate": 58
     },
@@ -295,7 +300,7 @@
       "Name": "Elevator Pitch",
       "Percentage": 84,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "GT_ACH_ENDBOTH",
@@ -309,7 +314,7 @@
       "ID": "GT_ACH_FREECOMP",
       "SetID": "883j7b4",
       "Name": "Uncaged",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 100,
       "UsersEstimate": 18
     },
@@ -333,7 +338,7 @@
       "ID": "GT_ACH_REALMLOW",
       "SetID": "883j7b4",
       "Name": "Rock Bottom",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 100,
       "UsersEstimate": 54
     },
@@ -357,16 +362,16 @@
       "ID": "GT_ACH_START",
       "SetID": "883j7b4",
       "Name": "Get lost!",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 100,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     }
   ],
   "AchievementSets": [
     {
       "ID": "883j7b4",
       "IsBase": true,
-      "Progressed": 91,
+      "Progressed": 93,
       "Completed": 1
     }
   ],
@@ -374,8 +379,8 @@
   "FirstSeenRating": "2023-04-16T21:58:05.2747204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.6991461+00:00",
   "LastChanged": "2023-04-16T21:58:05.2747204+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:08:50.4993587+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:09:51.3657221+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:34.0216452+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:00:26.352004+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:08:50.4993705+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:02:19.1478614+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:09:51.3657347+00:00"
 }

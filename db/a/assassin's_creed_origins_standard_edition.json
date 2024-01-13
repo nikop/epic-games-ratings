@@ -2,13 +2,13 @@
   "ID": "camellia",
   "Name": "Assassin\u0027s Creed Origins Standard Edition",
   "ProductSlug": "assassins-creed-origins",
-  "Ranking_Rating": 264,
+  "Ranking_Rating": 263,
   "Ranking_Popularity": 89,
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 575,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 577,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2017-10-26T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7917,6 +7917,6 @@
   "FirstSeen": "2022-07-22T20:17:42.6567846+00:00",
   "LastChanged": "2024-01-13T20:59:30.0797191+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:41.2858902+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:59:50.1215612+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:03:47.442726+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:01:20.8436377+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:05:17.1911255+00:00"
 }

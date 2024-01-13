@@ -35,7 +35,7 @@
 | The Collector | 2.00% | ~1 |
 | Pup Treat Master | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63 (Ranked 541)  
+Progressed: 63 (Ranked 542)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |

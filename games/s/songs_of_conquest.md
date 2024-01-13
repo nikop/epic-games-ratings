@@ -1,34 +1,34 @@
 # Songs of Conquest
 [Store](https://store.epicgames.com/en-US/p/songs-of-conquest)  
 [View Rawdata](../../db/s/songs_of_conquest.json)  
-Rating: 4.68 (Ranked 264)  
+Rating: 4.68 (Ranked 263)  
 Number of Ratings: 292  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 46.00% | ~540 |
-| Double Kill | 40.00% | ~469 |
+| Double Kill | 40.00% | ~470 |
 | Critical Hit | 23.00% | ~270 |
 | Veteran | 23.00% | ~270 |
 | Dressed For Success | 15.00% | ~176 |
 | Veni, Vidi, Vici | 11.00% | ~129 |
-| Humiliation | 10.00% | ~117 |
+| Humiliation | 10.00% | ~118 |
 | Multi Kill | 9.00% | ~106 |
 | Sorcerous Spree | 9.00% | ~106 |
-| Master | 8.00% | ~94 |
 | Landlord Extraordinaire | 7.00% | ~82 |
+| Master | 7.00% | ~82 |
 | The Song of Stoutheart | 6.00% | ~70 |
 | Whoops! | 6.00% | ~70 |
 | Don't Touch My Stuff | 6.00% | ~70 |
 | Trojan Horse | 5.00% | ~59 |
 | Expert Essence Employment | 4.00% | ~47 |
 | Ultra Kill | 3.00% | ~35 |
-| This Spot's Taken | 2.00% | ~23 |
-| Deepstrike | 2.00% | ~23 |
-| Infernal Influence | 2.00% | ~23 |
-| From the Ashes | 2.00% | ~23 |
-| Pyrrhic Victory | 2.00% | ~23 |
-| Venisti, Vidisti, Perdidisti | 2.00% | ~23 |
+| This Spot's Taken | 2.00% | ~24 |
+| Deepstrike | 2.00% | ~24 |
+| Infernal Influence | 2.00% | ~24 |
+| From the Ashes | 2.00% | ~24 |
+| Pyrrhic Victory | 2.00% | ~24 |
+| Venisti, Vidisti, Perdidisti | 2.00% | ~24 |
 | In The Thick of It | 1.00% | ~12 |
 | Such A Fungi | 1.00% | ~12 |
 | Grand Master | 1.00% | ~12 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,173 (Ranked 288)  
+Progressed: 1,175 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-10 | 1,129 | 0 |
 | 2024-01-11 | 1,137 | 0 |
 | 2024-01-12 | 1,150 | 0 |
-| 2024-01-13 | 1,173 | 0 |
+| 2024-01-13 | 1,175 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 525)  
 Sum: 252 (Ranked 399)  

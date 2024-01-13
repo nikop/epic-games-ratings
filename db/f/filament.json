@@ -2,13 +2,13 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 857,
+  "Ranking_Rating": 856,
   "Ranking_Popularity": 215,
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -420,10 +420,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 209095,
+  "EOS_Progressed": 209097,
   "EOS_Completed": 562,
-  "EOS_NewPlayers": 409,
-  "EOS_NewCompleters": 6,
+  "EOS_NewPlayers": 407,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -29120,6 +29120,11 @@
       "Time": "2024-01-13T22:04:17.1280548+00:00",
       "NumProgressed": 209095,
       "NumCompleted": 562
+    },
+    {
+      "Time": "2024-01-13T23:05:59.3303812+00:00",
+      "NumProgressed": 209097,
+      "NumCompleted": 562
     }
   ],
   "TotalAchievements": 29,
@@ -29155,7 +29160,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 196549
+      "UsersEstimate": 196551
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -29362,7 +29367,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 209095,
+      "Progressed": 209097,
       "Completed": 562
     }
   ],
@@ -29370,8 +29375,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-10T17:58:59.5955278+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:04:17.1280544+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:05:59.3303807+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:20.3451627+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:00:42.0556756+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:04:17.1281736+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:02:40.8766786+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:05:59.3305533+00:00"
 }

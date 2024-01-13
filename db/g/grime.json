@@ -1885,9 +1885,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 168044,
+  "EOS_Progressed": 168053,
   "EOS_Completed": 457,
-  "EOS_NewPlayers": 1141,
+  "EOS_NewPlayers": 1140,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22980,6 +22980,11 @@
       "Time": "2024-01-13T22:06:01.6491648+00:00",
       "NumProgressed": 168044,
       "NumCompleted": 457
+    },
+    {
+      "Time": "2024-01-13T23:08:28.7304607+00:00",
+      "NumProgressed": 168053,
+      "NumCompleted": 457
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23040,7 +23045,7 @@
       "Name": "The Hunt",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5041
+      "UsersEstimate": 5042
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -23078,9 +23083,9 @@
       "ID": "DEFEAT_ARTISAN",
       "SetID": "ccc0dlh",
       "Name": "Artisan",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 504
+      "UsersEstimate": 672
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -23128,7 +23133,7 @@
       "Name": "Harmless",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -23184,7 +23189,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -23192,7 +23197,7 @@
       "Name": "Devourer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -23238,9 +23243,9 @@
       "ID": "MISC_MAXUPGRADE",
       "SetID": "ccc0dlh",
       "Name": "Breathsmith",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 672
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -23264,7 +23269,7 @@
       "Name": "Ravenous",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5041
+      "UsersEstimate": 5042
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -23359,21 +23364,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167627,
+      "Progressed": 167636,
       "Completed": 1263
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168044,
+      "Progressed": 168053,
       "Completed": 457
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-13T07:57:41.0089842+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:06:01.6491646+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:08:28.7304601+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:57:58.7861081+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:06:01.6492897+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:58:39.5756728+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:08:28.7305898+00:00"
 }

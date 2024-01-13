@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8985,10 +8985,10 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 760414,
-  "EOS_Completed": 12985,
-  "EOS_NewPlayers": 4527,
-  "EOS_NewCompleters": 9,
+  "EOS_Progressed": 760418,
+  "EOS_Completed": 12986,
+  "EOS_NewPlayers": 4515,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
     {
@@ -33670,6 +33670,11 @@
       "Time": "2024-01-13T22:09:32.6039864+00:00",
       "NumProgressed": 760414,
       "NumCompleted": 12985
+    },
+    {
+      "Time": "2024-01-13T23:10:49.6241914+00:00",
+      "NumProgressed": 760418,
+      "NumCompleted": 12986
     }
   ],
   "TotalAchievements": 60,
@@ -33697,7 +33702,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22812
+      "UsersEstimate": 22813
     },
     {
       "ID": "04_Vengeance_H3",
@@ -33745,7 +33750,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4562
+      "UsersEstimate": 4563
     },
     {
       "ID": "10_Wude_H4",
@@ -33753,7 +33758,7 @@
       "Name": "Iron Money",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4562
+      "UsersEstimate": 4563
     },
     {
       "ID": "11_Wude_H5",
@@ -33833,7 +33838,7 @@
       "Name": "Stuntmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22812
+      "UsersEstimate": 22813
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -33849,7 +33854,7 @@
       "Name": "Street Fighting",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22812
+      "UsersEstimate": 22813
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -33865,7 +33870,7 @@
       "Name": "State of constant learning",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22812
+      "UsersEstimate": 22813
     },
     {
       "ID": "25_ShrineMind",
@@ -33889,7 +33894,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22812
+      "UsersEstimate": 22813
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -33929,7 +33934,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22812
+      "UsersEstimate": 22813
     },
     {
       "ID": "33_BladeOneShot",
@@ -33937,7 +33942,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4562
+      "UsersEstimate": 4563
     },
     {
       "ID": "34_TimedTakedown",
@@ -34160,21 +34165,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 69715,
+      "Progressed": 69719,
       "Completed": 10808
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 760414,
-      "Completed": 12985
+      "Progressed": 760418,
+      "Completed": 12986
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-13T22:03:08.7197518+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:09:32.6039863+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:10:49.6241909+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.3871095+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:03:08.7197523+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:09:32.6041149+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:04:14.9903472+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:10:49.6243249+00:00"
 }

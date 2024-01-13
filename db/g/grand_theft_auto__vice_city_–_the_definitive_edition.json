@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1062,9 +1062,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16365,
+  "EOS_Progressed": 16366,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 714,
+  "EOS_NewPlayers": 706,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -18052,6 +18052,11 @@
       "Time": "2024-01-13T22:09:55.715706+00:00",
       "NumProgressed": 16365,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2024-01-13T23:11:22.2473257+00:00",
+      "NumProgressed": 16366,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 34,
@@ -18079,7 +18084,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "ACH04",
@@ -18263,7 +18268,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2618
+      "UsersEstimate": 2619
     },
     {
       "ID": "ACH27",
@@ -18334,7 +18339,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16365,
+      "Progressed": 16366,
       "Completed": 98
     }
   ],
@@ -18342,8 +18347,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-12T14:59:31.064813+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:09:55.7157058+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:11:22.2473252+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:12.9251558+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:59:40.0984999+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:09:55.7157979+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:01:06.4155651+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:11:22.2474592+00:00"
 }

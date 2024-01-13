@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1591,10 +1591,16 @@
       "Rating": 4.13,
       "NumberOfAwards": 411,
       "NumberOfAwardsMax": 90
+    },
+    {
+      "Time": "2024-01-13T23:01:20.2885207+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 413,
+      "NumberOfAwardsMax": 90
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 411,
+  "NumberOfAwards": 413,
   "NumberOfAwardsMax": 90,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1602,7 +1608,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 68
+      "Count": 70
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1659,9 +1665,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 10486,
+  "EOS_Progressed": 10490,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1516,
+  "EOS_NewPlayers": 1503,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11319,6 +11325,11 @@
       "Time": "2024-01-13T22:04:34.8583431+00:00",
       "NumProgressed": 10486,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T23:06:24.9057415+00:00",
+      "NumProgressed": 10490,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -11339,7 +11350,7 @@
       "Name": "Stud Finder",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 3356
+      "UsersEstimate": 3357
     },
     {
       "ID": "achievement_11",
@@ -11355,7 +11366,7 @@
       "Name": "Dealmaker",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 2517
+      "UsersEstimate": 2518
     },
     {
       "ID": "achievement_13",
@@ -11363,7 +11374,7 @@
       "Name": "MVP",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 2936
+      "UsersEstimate": 2937
     },
     {
       "ID": "achievement_14",
@@ -11371,7 +11382,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 3356
+      "UsersEstimate": 3357
     },
     {
       "ID": "achievement_15",
@@ -11427,7 +11438,7 @@
       "Name": "Saw It Coming",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 6082
+      "UsersEstimate": 6084
     },
     {
       "ID": "achievement_21",
@@ -11435,7 +11446,7 @@
       "Name": "Clean The Pile",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "achievement_3",
@@ -11475,7 +11486,7 @@
       "Name": "Head-to-Head",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "achievement_8",
@@ -11491,23 +11502,23 @@
       "Name": "Future of the Franchise",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 10486,
+      "Progressed": 10490,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2024-01-13T19:59:45.1656088+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:04:34.8583426+00:00",
+  "LastChanged": "2024-01-13T23:01:20.2885205+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:06:24.9057407+00:00",
   "LastUpdate_AppInfo": "2024-01-11T10:57:09.7547705+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:59:49.591091+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:04:34.8584319+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:01:20.2885211+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:06:24.9058277+00:00"
 }

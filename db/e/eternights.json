@@ -5,10 +5,10 @@
   "Ranking_Rating": 100,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
-  "Ranking_EOS_Progress": 306,
+  "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -59,7 +59,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 896,
+  "EOS_Progressed": 897,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
@@ -3339,6 +3339,11 @@
       "Time": "2024-01-13T22:09:19.3030303+00:00",
       "NumProgressed": 896,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-13T23:10:30.6242713+00:00",
+      "NumProgressed": 897,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -3351,7 +3356,7 @@
       "Name": "New arm",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -3423,7 +3428,7 @@
       "Name": "Romantic",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_1_ShelterEscape",
@@ -3431,7 +3436,7 @@
       "Name": "Shelter Escape",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -3463,7 +3468,7 @@
       "Name": "Truebro",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACHIEVEMENT_24_TentacleMan",
@@ -3487,7 +3492,7 @@
       "Name": "The First Bond",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -3503,7 +3508,7 @@
       "Name": "Master Craftsman",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
@@ -3511,7 +3516,7 @@
       "Name": "First wall",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -3519,7 +3524,7 @@
       "Name": "Piggyback Expert",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -3550,7 +3555,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 896,
+      "Progressed": 897,
       "Completed": 2
     }
   ],
@@ -3558,8 +3563,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-10T15:58:31.5106151+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:09:19.3030301+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:10:30.6242708+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.7410286+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:59:58.8015949+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:09:19.3030553+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:01:36.590317+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:10:30.6243137+00:00"
 }

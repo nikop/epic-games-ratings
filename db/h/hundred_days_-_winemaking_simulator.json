@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1117,9 +1117,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 20570,
+  "EOS_Progressed": 20580,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1092,
+  "EOS_NewPlayers": 1098,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -17202,6 +17202,11 @@
       "Time": "2024-01-13T22:09:49.1585085+00:00",
       "NumProgressed": 20570,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-13T23:11:12.8635719+00:00",
+      "NumProgressed": 20580,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -17214,7 +17219,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2057
+      "UsersEstimate": 2058
     },
     {
       "ID": "a_10",
@@ -17222,7 +17227,7 @@
       "Name": "What is that? A castle?",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "a_11",
@@ -17230,7 +17235,7 @@
       "Name": "A lot of space",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "a_12",
@@ -17238,7 +17243,7 @@
       "Name": "A big garage",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "a_15",
@@ -17254,7 +17259,7 @@
       "Name": "Millionaire",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "a_18",
@@ -17262,7 +17267,7 @@
       "Name": "Bye Bye",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 8845
+      "UsersEstimate": 8849
     },
     {
       "ID": "a_19",
@@ -17278,7 +17283,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "a_20",
@@ -17286,7 +17291,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "a_21",
@@ -17294,7 +17299,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "a_22",
@@ -17318,7 +17323,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "a_26",
@@ -17326,7 +17331,7 @@
       "Name": "Exotic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "a_27",
@@ -17342,7 +17347,7 @@
       "Name": "Pastry Chef",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "a_3",
@@ -17398,7 +17403,7 @@
       "Name": "Welcome to the club",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "a_36",
@@ -17454,14 +17459,14 @@
       "Name": "Very Important Winemaker",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     }
   ],
   "AchievementSets": [
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 20570,
+      "Progressed": 20580,
       "Completed": 13
     }
   ],
@@ -17469,8 +17474,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-06T23:58:14.6842319+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:09:49.1585083+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:11:12.8635713+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:04.08822+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:58:17.9886311+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:09:49.1585911+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:59:06.7695938+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:11:12.863697+00:00"
 }

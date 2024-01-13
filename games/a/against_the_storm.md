@@ -10,8 +10,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | No Deaths | 9.00% | ~1,868 |
 | Abandoned Settlement | 9.00% | ~1,868 |
 | Overgrown Library | 9.00% | ~1,868 |
-| First Real Expedition | 8.00% | ~1,660 |
-| Petrified Necropolis | 8.00% | ~1,660 |
+| First Real Expedition | 8.00% | ~1,661 |
+| Petrified Necropolis | 8.00% | ~1,661 |
 | Overcoming Difficulty | 7.00% | ~1,453 |
 | Coral Forest | 7.00% | ~1,453 |
 | The Marshlands | 7.00% | ~1,453 |
@@ -32,6 +32,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Bandit Camp | 3.00% | ~623 |
 | Barren Lands | 3.00% | ~623 |
 | Ancient Battleground | 3.00% | ~623 |
+| Sparkdew Crystals | 3.00% | ~623 |
 | Flooded Mines | 3.00% | ~623 |
 | Lost Colonies | 3.00% | ~623 |
 | Statue of the Forefathers | 3.00% | ~623 |
@@ -41,7 +42,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Serving Ale | 2.00% | ~415 |
 | Refinery | 2.00% | ~415 |
 | Against All Odds | 2.00% | ~415 |
-| Sparkdew Crystals | 2.00% | ~415 |
 | Fishmen Ritual Site | 2.00% | ~415 |
 | Haunted Forest | 2.00% | ~415 |
 | Victory Through Prosperity | 2.00% | ~415 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,756 (Ranked 155)  
+Progressed: 20,758 (Ranked 155)  
 Completed: 35 (0.17%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 35 (0.17%) (Ranked 288)
 | 2024-01-10 | 20,658 | 34 |
 | 2024-01-11 | 20,700 | 34 |
 | 2024-01-12 | 20,729 | 34 |
-| 2024-01-13 | 20,756 | 35 |
+| 2024-01-13 | 20,758 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,380 (Ranked 178)  

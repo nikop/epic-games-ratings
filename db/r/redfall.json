@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -387,9 +387,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 2382,
+  "EOS_Progressed": 2384,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4497,6 +4497,11 @@
       "Time": "2024-01-13T22:03:52.939438+00:00",
       "NumProgressed": 2382,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T23:05:25.1142128+00:00",
+      "NumProgressed": 2384,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4580,7 +4585,7 @@
       "Name": "Block Party",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Achievement_012",
@@ -4652,7 +4657,7 @@
       "Name": "Sic Transit Umbra",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Achievement_021",
@@ -4668,7 +4673,7 @@
       "Name": "Bell-ringer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Achievement_023",
@@ -4676,7 +4681,7 @@
       "Name": "Silence Is Golden",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Achievement_024",
@@ -4684,7 +4689,7 @@
       "Name": "Good Morning",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Achievement_025",
@@ -4732,7 +4737,7 @@
       "Name": "ICU",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "Achievement_031",
@@ -4772,7 +4777,7 @@
       "Name": "From the Shadows",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Achievement_036",
@@ -4828,7 +4833,7 @@
       "Name": "Starve the Beast",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Achievement_044",
@@ -4844,7 +4849,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "Achievement_046",
@@ -4900,7 +4905,7 @@
       "Name": "Harvest\u2019s End",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Achievement_055",
@@ -5035,7 +5040,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2382,
+      "Progressed": 2384,
       "Completed": 0
     }
   ],
@@ -5043,8 +5048,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-13T19:58:53.9775824+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:03:52.9394377+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:05:25.1142121+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:37.5590888+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:58:57.2566658+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:03:52.9395426+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:00:02.284292+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:05:25.1142933+00:00"
 }

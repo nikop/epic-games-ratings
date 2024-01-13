@@ -10,9 +10,9 @@ Number of Ratings: 76  (23.09.2022)
 | Sponge Smasher | 23.00% | ~228 |
 | Jellyfish Jam | 22.00% | ~218 |
 | Jellyfishing | 17.00% | ~169 |
+| Time For Tutorial | 14.00% | ~139 |
 | Sweet Victory | 13.00% | ~129 |
 | Sock Getter | 13.00% | ~129 |
-| Time For Tutorial | 13.00% | ~129 |
 | Super Spatula Seeker | 12.00% | ~119 |
 | Star Smasher | 12.00% | ~119 |
 | Uptown and Downtown | 11.00% | ~109 |

@@ -5,11 +5,11 @@ Rating: 4.55 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,805 |
-| Pay 'n' Spray | 50.00% | ~9,756 |
+| Getting Started | 81.00% | ~15,806 |
+| Pay 'n' Spray | 50.00% | ~9,757 |
 | All Dressed Up for San Fierro | 25.00% | ~4,878 |
-| The American Dream | 19.00% | ~3,707 |
-| School's Out | 18.00% | ~3,512 |
+| The American Dream | 19.00% | ~3,708 |
+| School's Out | 18.00% | ~3,513 |
 | Smooth Moves | 17.00% | ~3,317 |
 | Today Was a Good Day | 15.00% | ~2,927 |
 | What happens in Las Venturas... | 14.00% | ~2,732 |
@@ -21,7 +21,7 @@ Rating: 4.55 (Ranked 529)
 | Saviour | 6.00% | ~1,171 |
 | They Can’t Stop All of Us | 5.00% | ~976 |
 | Rescue a Kitten Too? | 5.00% | ~976 |
-| What are the Odds | 4.00% | ~780 |
+| What are the Odds | 4.00% | ~781 |
 | Bike or Biker | 3.00% | ~585 |
 | What the City Needs | 3.00% | ~585 |
 | A Legitimate Business | 2.00% | ~390 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 529)
 | ...Here we go again | 0.50% | ~98 |
 | I Ain't No Buster | 0.40% | ~78 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,512 (Ranked 157)  
+Progressed: 19,514 (Ranked 157)  
 Completed: 77 (0.39%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 77 (0.39%) (Ranked 245)
 | 2024-01-10 | 19,333 | 75 |
 | 2024-01-11 | 19,399 | 75 |
 | 2024-01-12 | 19,441 | 77 |
-| 2024-01-13 | 19,512 | 77 |
+| 2024-01-13 | 19,514 | 77 |
 ## Awards
 Max (Great Boss Battles): 659  (Ranked 201)  
 Sum: 1,065 (Ranked 270)  

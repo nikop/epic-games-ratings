@@ -2,12 +2,12 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 264,
+  "Ranking_Rating": 263,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10744,10 +10744,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21632,
       "NumberOfAwardsMax": 8016
+    },
+    {
+      "Time": "2024-01-13T22:58:12.2071397+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21635,
+      "NumberOfAwardsMax": 8016
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21632,
+  "NumberOfAwards": 21635,
   "NumberOfAwardsMax": 8016,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10767,7 +10773,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1604
+      "Count": 1607
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10824,9 +10830,9 @@
       "Count": 1094
     }
   ],
-  "EOS_Progressed": 132711,
+  "EOS_Progressed": 132712,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 762,
+  "EOS_NewPlayers": 753,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39724,6 +39730,11 @@
       "Time": "2024-01-13T22:09:59.1241704+00:00",
       "NumProgressed": 132711,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-13T23:11:27.0890193+00:00",
+      "NumProgressed": 132712,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -40037,9 +40048,9 @@
       "ID": "driving_biome_clear_coast",
       "SetID": "64l4lke",
       "Name": "Merry Time",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5308
+      "UsersEstimate": 6636
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -40366,21 +40377,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132711,
+      "Progressed": 132712,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7580,
+      "Progressed": 7581,
       "Completed": 825
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-13T17:57:49.8193858+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:09:59.1241701+00:00",
+  "LastChanged": "2024-01-13T22:58:12.2071395+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:11:27.0890186+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:57:40.2919699+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:09:59.1243302+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:58:12.2071402+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:11:27.0891983+00:00"
 }

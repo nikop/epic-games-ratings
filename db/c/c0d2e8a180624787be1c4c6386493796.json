@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -37,7 +37,7 @@
   "Tags": [],
   "EOS_Progressed": 318,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -2004,9 +2004,9 @@
       "ID": "KR4_ACHIEVEMENT_SPIRITMAUSOLEUM",
       "SetID": "caeik3h",
       "Name": "Defenders Of The Night",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 156
     },
     {
       "ID": "KR4_ACHIEVEMENT_SUPREME_DEFENDER",
@@ -2091,8 +2091,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:04:50.3566191+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:06:46.8798285+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:58:27.8060242+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:04:50.3566921+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:59:20.192095+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:06:46.8798956+00:00"
 }

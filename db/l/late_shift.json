@@ -4,8 +4,8 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1085,
+  "EOS_Progressed": 1086,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
@@ -3035,6 +3035,11 @@
       "Time": "2024-01-13T21:09:41.1489004+00:00",
       "NumProgressed": 1085,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-13T23:11:05.7224369+00:00",
+      "NumProgressed": 1086,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -3046,7 +3051,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "CHOICES_MATTER",
@@ -3092,9 +3097,9 @@
       "ID": "ENDING_5",
       "SetID": "8eejhlh",
       "Name": "The Delivery",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 477
+      "UsersEstimate": 467
     },
     {
       "ID": "ENDING_6",
@@ -3102,7 +3107,7 @@
       "Name": "The Bribe",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ENDING_7",
@@ -3110,7 +3115,7 @@
       "Name": "The Frenzy",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -3134,7 +3139,7 @@
       "Name": "Fair Share",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "GOOD_KARMA",
@@ -3182,7 +3187,7 @@
       "Name": "Sabotage",
       "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "SHILL_BIDDER",
@@ -3198,14 +3203,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 1085,
+      "Progressed": 1086,
       "Completed": 13
     }
   ],
@@ -3213,8 +3218,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:09:43.9547082+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:11:05.7224363+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.9478908+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:59:36.0455709+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:09:43.9547378+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:00:59.4595494+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:11:05.7224656+00:00"
 }

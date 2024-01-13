@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9541,9 +9541,9 @@
       "Count": 3635
     }
   ],
-  "EOS_Progressed": 253783,
+  "EOS_Progressed": 253790,
   "EOS_Completed": 2616,
-  "EOS_NewPlayers": 1670,
+  "EOS_NewPlayers": 1665,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39986,6 +39986,11 @@
       "Time": "2024-01-13T22:10:18.4248984+00:00",
       "NumProgressed": 253783,
       "NumCompleted": 2616
+    },
+    {
+      "Time": "2024-01-13T23:11:52.2114252+00:00",
+      "NumProgressed": 253790,
+      "NumCompleted": 2616
     }
   ],
   "TotalAchievements": 546,
@@ -39997,7 +40002,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10151
+      "UsersEstimate": 10152
     },
     {
       "ID": "objective_completed_10",
@@ -41789,7 +41794,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1777
     },
     {
       "ID": "objective_completed_390",
@@ -42133,7 +42138,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1777
     },
     {
       "ID": "objective_completed_54",
@@ -43213,7 +43218,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1777
     },
     {
       "ID": "objective_completed_80",
@@ -44285,7 +44290,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "objective_completed_1558",
@@ -44364,21 +44369,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220057,
+      "Progressed": 220064,
       "Completed": 4148
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253783,
+      "Progressed": 253790,
       "Completed": 2616
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-13T20:59:59.1196514+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:10:18.4248981+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:11:52.2114247+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:00:18.3998115+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:10:18.4271826+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:02:06.5220554+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:11:52.2139558+00:00"
 }

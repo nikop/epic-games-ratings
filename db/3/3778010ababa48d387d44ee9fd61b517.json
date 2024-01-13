@@ -4,8 +4,8 @@
   "ProductSlug": "the-hive-f5c2c8",
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
     "PcReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 103,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -465,9 +465,9 @@
       "ID": "A_AVATAR",
       "SetID": "324h56e",
       "Name": "The Avatar",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "A_CHAINBOLT",
@@ -513,9 +513,9 @@
       "ID": "A_COMP_NORMAL",
       "SetID": "324h56e",
       "Name": "Vanguard",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "A_DAVID",
@@ -553,17 +553,17 @@
       "ID": "A_HUNT hunt (0-1)",
       "SetID": "324h56e",
       "Name": "Big Game Hunter",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "A_HUNT_2 hunt (0-5)",
       "SetID": "324h56e",
       "Name": "Bigger Game Hunter",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "A_ITEM_DROPS",
@@ -649,9 +649,9 @@
       "ID": "A_ORB",
       "SetID": "324h56e",
       "Name": "Orb of Wisdom",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "A_POPULATION",
@@ -705,9 +705,9 @@
       "ID": "A_SUN",
       "SetID": "324h56e",
       "Name": "The Age of Discovery",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "A_SUNKEN",
@@ -768,8 +768,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:04:20.0206392+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:06:03.6902962+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.8788926+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:57:33.3861905+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:04:20.0206635+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:58:02.0602587+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:06:03.6903268+00:00"
 }

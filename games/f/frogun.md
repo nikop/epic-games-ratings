@@ -36,7 +36,7 @@
 | Art lover | 1.00% | ~2 |
 | Completionist | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239 (Ranked 424)  
+Progressed: 239 (Ranked 425)  
 Completed: 4 (1.67%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |

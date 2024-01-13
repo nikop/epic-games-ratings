@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,7 +295,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19326,
+  "EOS_Progressed": 19327,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
@@ -14705,6 +14705,11 @@
       "Time": "2024-01-13T22:08:16.5577355+00:00",
       "NumProgressed": 19326,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-13T23:09:02.1423696+00:00",
+      "NumProgressed": 19327,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14732,7 +14737,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3285
+      "UsersEstimate": 3286
     },
     {
       "ID": "0004",
@@ -14940,7 +14945,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2512
+      "UsersEstimate": 2513
     },
     {
       "ID": "0030",
@@ -15003,7 +15008,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19326,
+      "Progressed": 19327,
       "Completed": 4
     }
   ],
@@ -15011,8 +15016,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:08:16.5577353+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:09:02.1423689+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:47.8848382+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:59:11.0926859+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:08:16.5578354+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:00:20.5823219+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:09:02.1424578+00:00"
 }

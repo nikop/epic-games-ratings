@@ -2,13 +2,13 @@
   "ID": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
   "Name": "Disney Dreamlight Valley",
   "ProductSlug": "disney-dreamlight-valley",
-  "Ranking_Rating": 133,
+  "Ranking_Rating": 134,
   "Ranking_Popularity": 150,
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5857,10 +5857,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 8398,
       "NumberOfAwardsMax": 1180
+    },
+    {
+      "Time": "2024-01-13T22:58:52.1208528+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8399,
+      "NumberOfAwardsMax": 1180
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8398,
+  "NumberOfAwards": 8399,
   "NumberOfAwardsMax": 1180,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5910,7 +5916,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 829
+      "Count": 830
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5933,7 +5939,7 @@
   ],
   "EOS_Progressed": 14104,
   "EOS_Completed": 351,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.49,
   "EosHistory": [
@@ -25353,9 +25359,9 @@
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2024-01-13T19:58:07.1624417+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:09:16.7127353+00:00",
+  "LastChanged": "2024-01-13T22:58:52.1208526+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:10:27.3274945+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:11.1438624+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:58:08.1937228+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:09:16.712839+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:58:52.1208533+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:10:27.3276218+00:00"
 }

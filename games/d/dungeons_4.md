@@ -27,7 +27,7 @@ Rating: 4.75 (Ranked 149)
 | “… like son” | 53.00% | ~404 |
 | YOU SHALL NOT PASS! | 51.00% | ~389 |
 | The Cathedral of Light | 49.00% | ~374 |
-| Shame! Shame! Shame! | 48.00% | ~366 |
+| Shame! Shame! Shame! | 49.00% | ~374 |
 | Tanos' Crusade Against Thalya | 47.00% | ~359 |
 | Pure Dynamite! | 46.00% | ~351 |
 | Dungeonlord Gorgu | 46.00% | ~351 |
@@ -67,7 +67,7 @@ Rating: 4.75 (Ranked 149)
 | No Mana, No Cry | 11.00% | ~84 |
 | I Don't Need Any Help | 10.00% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 763 (Ranked 318)  
+Progressed: 763 (Ranked 319)  
 Completed: 31 (4.06%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -24,7 +24,7 @@ Rating: 4.38 (Ranked 797)
 | Trader | 22.00% | ~165 |
 | Weapon Boost | 21.00% | ~157 |
 | Flying Kobold Killer | 19.00% | ~142 |
-| Youth Magnet | 18.00% | ~135 |
+| Youth Magnet | 19.00% | ~142 |
 | Furious Scorpion Killer | 17.00% | ~127 |
 | Lethal Blade Mantis Killer | 17.00% | ~127 |
 | Squeaky Clean | 17.00% | ~127 |

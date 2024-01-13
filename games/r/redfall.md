@@ -9,7 +9,7 @@ Rating: 3.68 (Ranked 1,097)
 | Catch and Release | 17.00% | ~405 |
 | Home Is Where the Heart Is | 16.00% | ~381 |
 | Wounded Whispers | 16.00% | ~381 |
-| ICU | 15.00% | ~357 |
+| ICU | 15.00% | ~358 |
 | Blood Will Have Blood | 13.00% | ~310 |
 | Ne Plus Ultra | 13.00% | ~310 |
 | Peek-a-boo | 13.00% | ~310 |
@@ -19,7 +19,7 @@ Rating: 3.68 (Ranked 1,097)
 | Throw The First Stone | 11.00% | ~262 |
 | Enter of Your Own Free Will | 10.00% | ~238 |
 | Heart Attack | 10.00% | ~238 |
-| Skin of Their Teeth | 9.00% | ~214 |
+| Skin of Their Teeth | 9.00% | ~215 |
 | Grounded | 8.00% | ~191 |
 | Bad Wiring | 7.00% | ~167 |
 | Neighborhood Revitalization | 6.00% | ~143 |
@@ -27,14 +27,14 @@ Rating: 3.68 (Ranked 1,097)
 | I Spit On Your Grave | 5.00% | ~119 |
 | You Clean It Up | 4.00% | ~95 |
 | Helping Hand | 4.00% | ~95 |
-| Block Party | 3.00% | ~71 |
-| Sic Transit Umbra | 3.00% | ~71 |
-| Bell-ringer | 3.00% | ~71 |
-| Silence Is Golden | 3.00% | ~71 |
-| Good Morning | 3.00% | ~71 |
-| From the Shadows | 3.00% | ~71 |
-| Starve the Beast | 3.00% | ~71 |
-| Harvest’s End | 3.00% | ~71 |
+| Block Party | 3.00% | ~72 |
+| Sic Transit Umbra | 3.00% | ~72 |
+| Bell-ringer | 3.00% | ~72 |
+| Silence Is Golden | 3.00% | ~72 |
+| Good Morning | 3.00% | ~72 |
+| From the Shadows | 3.00% | ~72 |
+| Starve the Beast | 3.00% | ~72 |
+| Harvest’s End | 3.00% | ~72 |
 | Revelations | 2.00% | ~48 |
 | Contingency Plans | 2.00% | ~48 |
 | Check, Please! | 2.00% | ~48 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,097)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,382 (Ranked 243)  
+Progressed: 2,384 (Ranked 243)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-10 | 2,353 | 0 |
 | 2024-01-11 | 2,366 | 0 |
 | 2024-01-12 | 2,372 | 0 |
-| 2024-01-13 | 2,382 | 0 |
+| 2024-01-13 | 2,384 | 0 |
 ## Awards
 Max (Great Boss Battles): 25  (Ranked 552)  
 Sum: 25 (Ranked 562)  

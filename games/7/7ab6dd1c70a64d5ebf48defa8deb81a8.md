@@ -13,15 +13,15 @@ Rating: 4.17 (Ranked 990)
 | Adventurer | 24.00% | ~554 |
 | Shatter Them All | 24.00% | ~554 |
 | Geared Up | 24.00% | ~554 |
+| Scholar | 24.00% | ~554 |
 | I Found It | 24.00% | ~554 |
 | Fashion Victim | 23.00% | ~531 |
-| Scholar | 23.00% | ~531 |
 | Stone Collection | 22.00% | ~508 |
 | Tributes of Caladrias | 21.00% | ~485 |
 | Powerful Allies | 20.00% | ~462 |
 | Big Bazar | 14.00% | ~323 |
+| Alchemist | 14.00% | ~323 |
 | Essence Blow | 13.00% | ~300 |
-| Alchemist | 13.00% | ~300 |
 | The Mentor | 11.00% | ~254 |
 | Calm before the Storm | 10.00% | ~231 |
 | To Battle | 8.00% | ~185 |

@@ -4,8 +4,8 @@
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2012-04-19T11:00:00+00:00",
@@ -1520,9 +1520,9 @@
       "ID": "Ach-05-kedlubny",
       "SetID": "2pjo9pi",
       "Name": "Kedlubny",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "Ach-05-krava",
@@ -1632,9 +1632,9 @@
       "ID": "Ach-level-6",
       "SetID": "2pjo9pi",
       "Name": "Level 6",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "Ach-mytologie",
@@ -1655,8 +1655,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:09:17.8482413+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:10:29.1353323+00:00",
   "LastUpdate_AppInfo": "2024-01-10T21:57:10.5143243+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:58:45.088386+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:09:17.848285+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:59:43.529979+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:10:29.135392+00:00"
 }

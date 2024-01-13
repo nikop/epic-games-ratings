@@ -1,20 +1,20 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.49 (Ranked 642)  
+Rating: 4.49 (Ranked 641)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 86.00% | ~8,927 |
+| Let's Get This Party Started | 86.00% | ~8,928 |
 | Photogenic | 82.00% | ~8,512 |
-| Surge Gauntlet Jockey | 79.00% | ~8,200 |
-| Plug It In | 78.00% | ~8,096 |
-| Adventure Time | 75.00% | ~7,785 |
+| Surge Gauntlet Jockey | 79.00% | ~8,201 |
+| Plug It In | 78.00% | ~8,097 |
+| Adventure Time | 75.00% | ~7,786 |
 | Playing With Power | 72.00% | ~7,474 |
-| Coup d'Etat | 55.00% | ~5,709 |
-| You're Fired | 54.00% | ~5,605 |
-| Get Furious | 53.00% | ~5,501 |
+| Coup d'Etat | 55.00% | ~5,710 |
+| You're Fired | 54.00% | ~5,606 |
+| Get Furious | 53.00% | ~5,502 |
 | Hacks In Stacks | 52.00% | ~5,398 |
 | Gunplay And Cosplay | 51.00% | ~5,294 |
 | Meching Enemies | 46.00% | ~4,775 |
@@ -26,12 +26,12 @@ Number of Ratings: 801  (23.09.2022)
 | Surge Ahead | 29.00% | ~3,010 |
 | The Full Monty | 29.00% | ~3,010 |
 | Guardian Angel | 26.00% | ~2,699 |
-| Poppin Noggins | 23.00% | ~2,387 |
-| Clips and Crits | 18.00% | ~1,868 |
+| Poppin Noggins | 23.00% | ~2,388 |
+| Clips and Crits | 18.00% | ~1,869 |
 | Grey Goo | 16.00% | ~1,661 |
 | Boss of Bosses | 14.00% | ~1,453 |
 | The Final Blow | 14.00% | ~1,453 |
-| To Be Continued | 13.00% | ~1,349 |
+| To Be Continued | 13.00% | ~1,350 |
 | Light My Fire | 11.00% | ~1,142 |
 | Seasoned Adventurer | 11.00% | ~1,142 |
 | Get In The Ring! | 9.00% | ~934 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~42 |
 | Pyrotechnical | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,380 (Ranked 183)  
+Progressed: 10,381 (Ranked 183)  
 Completed: 2 (0.02%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 2 (0.02%) (Ranked 366)
 | 2024-01-10 | 10,351 | 2 |
 | 2024-01-11 | 10,363 | 2 |
 | 2024-01-12 | 10,373 | 2 |
-| 2024-01-13 | 10,380 | 2 |
+| 2024-01-13 | 10,381 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 424)  
 Sum: 465 (Ranked 341)  

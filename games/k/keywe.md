@@ -25,7 +25,7 @@
 | Fully Stocked | 0.00% | ~0 |
 | Working Overtime | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 177 (Ranked 443)  
+Progressed: 177 (Ranked 444)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |

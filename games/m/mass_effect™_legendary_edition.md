@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~3,865 |
-| Spectre Inductee | 66.00% | ~2,834 |
+| Distinguished Service Medal | 90.00% | ~3,866 |
+| Spectre Inductee | 66.00% | ~2,835 |
 | Medal of Exploration I | 55.00% | ~2,362 |
 | Recruit | 52.00% | ~2,233 |
 | Search and Rescue | 51.00% | ~2,190 |
-| Quarian Ally | 48.00% | ~2,061 |
-| Medal of Heroism | 43.00% | ~1,846 |
-| Honorarium of Corporate Service | 43.00% | ~1,846 |
+| Quarian Ally | 48.00% | ~2,062 |
+| Medal of Heroism | 43.00% | ~1,847 |
+| Honorarium of Corporate Service | 43.00% | ~1,847 |
 | Turian Ally | 40.00% | ~1,718 |
 | Medal of Exploration II | 38.00% | ~1,632 |
 | Council Legion of Merit | 38.00% | ~1,632 |
@@ -31,14 +31,14 @@
 | Paramour I | 30.00% | ~1,288 |
 | Sentinel Ally | 30.00% | ~1,288 |
 | Krogan Ally | 30.00% | ~1,288 |
-| The Archangel | 29.00% | ~1,245 |
-| The Professor | 29.00% | ~1,245 |
-| Head Hunter | 29.00% | ~1,245 |
-| Scholar | 29.00% | ~1,245 |
-| The Convict | 27.00% | ~1,159 |
-| Operative | 27.00% | ~1,159 |
-| The Krogan | 26.00% | ~1,116 |
-| Power Full | 26.00% | ~1,116 |
+| The Archangel | 29.00% | ~1,246 |
+| The Professor | 29.00% | ~1,246 |
+| Head Hunter | 29.00% | ~1,246 |
+| Scholar | 29.00% | ~1,246 |
+| The Convict | 27.00% | ~1,160 |
+| Operative | 27.00% | ~1,160 |
+| The Krogan | 26.00% | ~1,117 |
+| Power Full | 26.00% | ~1,117 |
 | Colony Defense | 25.00% | ~1,074 |
 | Broke, Blind, and Bedlam | 25.00% | ~1,074 |
 | Veteran | 24.00% | ~1,031 |
@@ -104,10 +104,10 @@
 | Sabotage Specialist | 11.00% | ~472 |
 | Throw Mastery | 11.00% | ~472 |
 | Legend | 11.00% | ~472 |
-| Long Service Medal | 10.00% | ~429 |
-| Electronics Specialist | 10.00% | ~429 |
-| Combined Arms | 9.00% | ~386 |
-| Mail Slot | 9.00% | ~386 |
+| Long Service Medal | 10.00% | ~430 |
+| Electronics Specialist | 10.00% | ~430 |
+| Combined Arms | 9.00% | ~387 |
+| Mail Slot | 9.00% | ~387 |
 | Warp Mastery | 8.00% | ~344 |
 | Barrier Mastery | 7.00% | ~301 |
 | Sky High | 7.00% | ~301 |
@@ -132,7 +132,7 @@
 | Insanity III | 0.90% | ~39 |
 | The One and Only | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,294 (Ranked 212)  
+Progressed: 4,295 (Ranked 212)  
 Completed: 13 (0.30%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,4 +252,4 @@ Completed: 13 (0.30%) (Ranked 259)
 | 2024-01-10 | 4,135 | 13 |
 | 2024-01-11 | 4,190 | 13 |
 | 2024-01-12 | 4,237 | 13 |
-| 2024-01-13 | 4,294 | 13 |
+| 2024-01-13 | 4,295 | 13 |

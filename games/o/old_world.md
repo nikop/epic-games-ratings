@@ -83,8 +83,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 0.80% | ~134 |
 | Landowners | 0.70% | ~117 |
 | Patrons | 0.70% | ~117 |
+| Traders | 0.70% | ~117 |
 | Hagia Sophia | 0.70% | ~117 |
 | Economic Reform | 0.70% | ~117 |
+| Dualism | 0.70% | ~117 |
 | Legionary | 0.70% | ~117 |
 | Double Victory | 0.70% | ~117 |
 | Win a Single Player Game | 0.70% | ~117 |
@@ -93,14 +95,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.60% | ~100 |
 | Victorious | 0.60% | ~100 |
 | Riders | 0.60% | ~100 |
-| Traders | 0.60% | ~100 |
 | Hittite Iron | 0.60% | ~100 |
 | Circus Maximus | 0.60% | ~100 |
 | Pantheon | 0.60% | ~100 |
 | Via Recta Souk | 0.60% | ~100 |
 | Learn to Play 4 | 0.60% | ~100 |
+| Industrial Progress | 0.60% | ~100 |
 | Military Prestige | 0.60% | ~100 |
-| Dualism | 0.60% | ~100 |
 | Legalism | 0.60% | ~100 |
 | Cimmerian Archer | 0.60% | ~100 |
 | Ambition Victory | 0.60% | ~100 |
@@ -115,8 +116,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.50% | ~84 |
 | Hunters | 0.50% | ~84 |
 | Adur Burzen-Mihr | 0.50% | ~84 |
+| Babylonia | 0.50% | ~84 |
+| Carthage | 0.50% | ~84 |
 | Assyrian Paganism | 0.50% | ~84 |
-| Industrial Progress | 0.50% | ~84 |
 | Enlightenment | 0.50% | ~84 |
 | Redemption | 0.50% | ~84 |
 | Kushite Cavalry | 0.50% | ~84 |
@@ -124,8 +126,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Pyramids | 0.50% | ~84 |
 | Clerics | 0.40% | ~67 |
 | Church of the Holy Sepulchre | 0.40% | ~67 |
-| Babylonia | 0.40% | ~67 |
-| Carthage | 0.40% | ~67 |
 | Egypt | 0.40% | ~67 |
 | Rome | 0.40% | ~67 |
 | Hittite Paganism | 0.40% | ~67 |
@@ -139,6 +139,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.30% | ~50 |
 | Carthage - Ox Hide | 0.30% | ~50 |
 | Old | 0.30% | ~50 |
+| Noble Difficulty | 0.30% | ~50 |
 | Cao'an | 0.30% | ~50 |
 | Learn to Play 5 | 0.30% | ~50 |
 | Old World Order | 0.30% | ~50 |
@@ -150,7 +151,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jerwan Aqueduct | 0.30% | ~50 |
 | Carthage - Riches and Influence | 0.20% | ~33 |
 | Ancient | 0.20% | ~33 |
-| Noble Difficulty | 0.20% | ~33 |
+| Glorious Difficulty | 0.20% | ~33 |
 | The Eternal Treaty | 0.20% | ~33 |
 | Pyramids in Menefer | 0.20% | ~33 |
 | Assyria | 0.20% | ~33 |
@@ -206,7 +207,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rebuilder | 0.10% | ~17 |
 | White Death | 0.10% | ~17 |
 | Via Recta Souk in Damascus | 0.10% | ~17 |
-| Glorious Difficulty | 0.10% | ~17 |
 | Great Difficulty | 0.10% | ~17 |
 | Magnificent Difficulty | 0.10% | ~17 |
 | Elephant in Elephantine | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,707 (Ranked 169)  
+Progressed: 16,709 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -633,7 +633,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
-| 2024-01-13 | 16,707 | 5 |
+| 2024-01-13 | 16,709 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,927 (Ranked 223)  

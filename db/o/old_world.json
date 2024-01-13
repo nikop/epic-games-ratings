@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2280,9 +2280,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16707,
+  "EOS_Progressed": 16709,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 547,
+  "EOS_NewPlayers": 549,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19910,6 +19910,11 @@
       "Time": "2024-01-13T22:10:17.1740832+00:00",
       "NumProgressed": 16707,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T23:11:50.9363148+00:00",
+      "NumProgressed": 16709,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20663,9 +20668,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_GLORIOUS",
       "SetID": "7l38kb8",
       "Name": "Glorious Difficulty",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GOOD",
@@ -20703,9 +20708,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_NOBLE",
       "SetID": "7l38kb8",
       "Name": "Noble Difficulty",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
@@ -20823,9 +20828,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_TRADERS",
       "SetID": "7l38kb8",
       "Name": "Traders",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
@@ -21527,17 +21532,17 @@
       "ID": "ACHIEVEMENT_NATION_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonia",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthage",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_NATION_EGYPT",
@@ -21863,9 +21868,9 @@
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
       "SetID": "9201eeb",
       "Name": "Industrial Progress",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
@@ -21879,9 +21884,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
       "SetID": "7l38kb8",
       "Name": "Dualism",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
@@ -22784,21 +22789,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16707,
+      "Progressed": 16709,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16707,
+      "Progressed": 16709,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-13T07:59:51.2247569+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:10:17.174083+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:11:50.936314+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:59:36.2795931+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:10:17.1750168+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:01:00.035555+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:11:50.9376187+00:00"
 }

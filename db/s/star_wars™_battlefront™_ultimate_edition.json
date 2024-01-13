@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2936,
+  "EOS_Progressed": 2938,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
@@ -7959,6 +7959,11 @@
       "Time": "2024-01-13T22:10:14.4679489+00:00",
       "NumProgressed": 2936,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T23:11:47.2791189+00:00",
+      "NumProgressed": 2938,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8011,7 +8016,7 @@
       "Name": "Playing the objective",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_15",
@@ -8043,7 +8048,7 @@
       "Name": "The power of the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "achievement_19",
@@ -8083,7 +8088,7 @@
       "Name": "Distinguished",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "achievement_23",
@@ -8115,7 +8120,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "achievement_27",
@@ -8195,7 +8200,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2525
+      "UsersEstimate": 2527
     },
     {
       "ID": "achievement_36",
@@ -8203,7 +8208,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "achievement_37",
@@ -8211,7 +8216,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "achievement_38",
@@ -8243,7 +8248,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "achievement_41",
@@ -8259,7 +8264,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "achievement_43",
@@ -8267,7 +8272,7 @@
       "Name": "Walker defender",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_44",
@@ -8323,7 +8328,7 @@
       "Name": "Shoot first",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "achievement_50",
@@ -8379,7 +8384,7 @@
       "Name": "Support the troops",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "achievement_57",
@@ -8411,7 +8416,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "achievement_60",
@@ -8474,13 +8479,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2936,
+      "Progressed": 2938,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2936,
+      "Progressed": 2938,
       "Completed": 1
     }
   ],
@@ -8488,8 +8493,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:10:14.4679488+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:11:47.2791184+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:02:45.6518264+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:10:14.4680221+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:03:39.8291216+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:11:47.2792309+00:00"
 }

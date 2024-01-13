@@ -2,13 +2,13 @@
   "ID": "80be39e522204fd0942916d73234d044",
   "Name": "Turnip Boy Commits Tax Evasion",
   "ProductSlug": "turnip-boy-commits-tax-evasion-fb2084",
-  "Ranking_Rating": 264,
+  "Ranking_Rating": 263,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 575,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 577,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-03-24T07:00:00+00:00",
     "PcReleaseDate": "2021-04-22T00:00:00+00:00",
@@ -179,6 +179,6 @@
   "FirstSeenRating": "2023-03-31T05:58:39.3617506+00:00",
   "LastChanged": "2023-12-26T07:58:09.2527476+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:38.3237163+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:02:58.5996763+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:06:07.765713+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:03:59.2962053+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:08:37.550531+00:00"
 }

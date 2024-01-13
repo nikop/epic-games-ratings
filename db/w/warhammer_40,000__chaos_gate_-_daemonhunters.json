@@ -3,12 +3,12 @@
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
   "Ranking_Rating": 470,
-  "Ranking_Popularity": 286,
+  "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -775,18 +775,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 502,
       "NumberOfAwardsMax": 233
+    },
+    {
+      "Time": "2024-01-13T23:04:24.9457304+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 504,
+      "NumberOfAwardsMax": 235
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 502,
-  "NumberOfAwardsMax": 233,
+  "NumberOfAwards": 504,
+  "NumberOfAwardsMax": 235,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 233
+      "Count": 235
     },
     {
       "Text": "This game is Extremely Fun",
@@ -845,7 +851,7 @@
   ],
   "EOS_Progressed": 3891,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6519,9 +6525,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
-  "LastChanged": "2024-01-11T05:03:08.5740841+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:03:42.8401834+00:00",
+  "LastChanged": "2024-01-13T23:04:24.9457302+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:05:10.5827488+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:54.2702622+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:03:14.9838291+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:03:42.8402528+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:04:24.9457308+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:05:10.5828635+00:00"
 }

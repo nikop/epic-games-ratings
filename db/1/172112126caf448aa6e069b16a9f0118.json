@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 587,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 505,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-28T13:00:00+00:00",
     "PcReleaseDate": "2023-11-28T13:00:00+00:00",
@@ -211,9 +211,9 @@
       "ID": "2",
       "SetID": "36pe9e2",
       "Name": "Found Secret Area",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "3",
@@ -282,8 +282,8 @@
   ],
   "FirstSeen": "2023-12-05T14:57:21.3417959+00:00",
   "FirstSeenAchievements": "2023-10-10T13:09:13.1022391+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:08:57.614214+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:10:01.2925584+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:57.3456515+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:00:17.8401343+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:08:57.6142208+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:02:05.6002831+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:10:01.2925736+00:00"
 }

@@ -1,7 +1,7 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 264)  
+Rating: 4.68 (Ranked 263)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -24,6 +24,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Catch and Decease | 5.00% | ~6,636 |
 | It Happens | 5.00% | ~6,636 |
 | Rush Hour | 5.00% | ~6,636 |
+| Merry Time | 5.00% | ~6,636 |
 | To Grandmother's House | 5.00% | ~6,636 |
 | A Place to Lay Your Head | 5.00% | ~6,636 |
 | FNG | 5.00% | ~6,636 |
@@ -32,7 +33,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Dissector | 4.00% | ~5,308 |
 | Banishment | 4.00% | ~5,308 |
 | Spelunker | 4.00% | ~5,308 |
-| Merry Time | 4.00% | ~5,308 |
 | Harvest Festival | 4.00% | ~5,308 |
 | Ramble On | 4.00% | ~5,308 |
 | Whale | 4.00% | ~5,308 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,711 (Ranked 92)  
+Progressed: 132,712 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,17 +344,17 @@ Completed: 4 (0.00%) (Ranked 400)
 | 2024-01-10 | 132,395 | 4 |
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
-| 2024-01-13 | 132,711 | 4 |
+| 2024-01-13 | 132,712 | 4 |
 ## Awards
 Max (Character Customization): 8,016  (Ranked 51)  
-Sum: 21,632 (Ranked 58)  
+Sum: 21,635 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,016 |
 | This game has Diverse Characters | 1,851 |
 | This game has Challenging Combat | 1,679 |
-| This game is Highly Recommended | 1,604 |
+| This game is Highly Recommended | 1,607 |
 | This game has Amazing Characters | 1,532 |
 | This game is Extremely Fun | 1,524 |
 | This game has Unique Visuals | 1,470 |
@@ -716,4 +716,4 @@ Diff (max vs sum): -7
 | 2024-01-10 | 4.68 | - | 8,000 | 21,576 |
 | 2024-01-11 | 4.68 | - | 8,002 | 21,592 |
 | 2024-01-12 | 4.68 | - | 8,007 | 21,610 |
-| 2024-01-13 | 4.68 | - | 8,016 | 21,632 |
+| 2024-01-13 | 4.68 | - | 8,016 | 21,635 |

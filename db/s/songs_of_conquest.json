@@ -2,13 +2,13 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 264,
+  "Ranking_Rating": 263,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1173,
+  "EOS_Progressed": 1175,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4072,6 +4072,11 @@
       "Time": "2024-01-13T22:09:27.5476076+00:00",
       "NumProgressed": 1173,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T23:10:42.5088046+00:00",
+      "NumProgressed": 1175,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4140,7 +4145,7 @@
       "Name": "This Spot\u0027s Taken",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "BurrowUp",
@@ -4196,7 +4201,7 @@
       "Name": "Deepstrike",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "DieByTheBow",
@@ -4228,7 +4233,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4260,7 +4265,7 @@
       "Name": "Infernal Influence",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "KillingSpree",
@@ -4332,7 +4337,7 @@
       "Name": "From the Ashes",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "RanaCampaignFinaleOnHard",
@@ -4426,9 +4431,9 @@
       "ID": "WielderLevel3",
       "SetID": "71c0n9i",
       "Name": "Master",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 82
     },
     {
       "ID": "WielderLevel4",
@@ -4444,7 +4449,7 @@
       "Name": "Humiliation",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -4452,7 +4457,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "WinBattleWithoutAttacking",
@@ -4476,7 +4481,7 @@
       "Name": "Venisti, Vidisti, Perdidisti",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "WinsWithFactionArleon",
@@ -4515,15 +4520,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1173,
+      "Progressed": 1175,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:09:27.5476073+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:10:42.5088039+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:59:35.7884547+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:09:27.5476798+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:00:58.7256752+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:10:42.5089125+00:00"
 }

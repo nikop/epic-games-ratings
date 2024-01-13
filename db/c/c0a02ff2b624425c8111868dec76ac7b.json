@@ -2,10 +2,10 @@
   "ID": "c0a02ff2b624425c8111868dec76ac7b",
   "Name": "Worldless",
   "ProductSlug": "worldless-49eae3",
-  "Ranking_EOS_Progress": 443,
+  "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 425,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 417,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
     "PcReleaseDate": "2023-11-21T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 177,
+  "EOS_Progressed": 178,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -784,6 +784,11 @@
       "Time": "2024-01-13T10:09:20.5873858+00:00",
       "NumProgressed": 177,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T23:09:40.4459705+00:00",
+      "NumProgressed": 178,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -844,7 +849,7 @@
       "Name": "Together",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_BIPOLAR_ABSORBED",
@@ -852,7 +857,7 @@
       "Name": "Duality",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_BRANCH_ALL_SLOTS",
@@ -908,7 +913,7 @@
       "Name": "Absorption",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_LIGHTNING_NIGHTMARE_ABSORBED",
@@ -930,9 +935,9 @@
       "ID": "ACH_PHOENIX",
       "SetID": "cagp2pi",
       "Name": "Phoenix",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_PLATINUM",
@@ -962,9 +967,9 @@
       "ID": "ACH_UNDERSTANDINGS",
       "SetID": "cagp2pi",
       "Name": "Understandings",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_UNICORN",
@@ -987,14 +992,14 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 177,
+      "Progressed": 178,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:08:42.7727849+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:09:40.44597+00:00",
   "LastUpdate_AppInfo": "2024-01-12T17:56:54.348231+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:58:19.2723823+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:08:42.7728053+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:59:08.8721056+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:09:40.4460131+00:00"
 }

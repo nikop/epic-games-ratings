@@ -2,13 +2,13 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 642,
+  "Ranking_Rating": 641,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -345,7 +345,7 @@
   "Tags": [],
   "EOS_Progressed": 239282,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28822,8 +28822,8 @@
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:08:34.4179258+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:09:27.9076236+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.0149602+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:00:35.9502622+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:08:34.4180724+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:02:32.2921422+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:09:27.9078073+00:00"
 }

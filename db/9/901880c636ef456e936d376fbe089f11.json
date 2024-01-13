@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -990,9 +990,9 @@
       "ID": "ACH_FAILED_MESSENGER",
       "SetID": "8h8m55b",
       "Name": "Failed Messenger",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_FELLOW_INFLUENCER",
@@ -1294,9 +1294,9 @@
       "ID": "ACH_WRONG_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Is this it?",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     }
   ],
   "AchievementSets": [
@@ -1309,8 +1309,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:05:45.7897677+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:08:05.3159265+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:58.8135864+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:02:35.833945+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:05:45.789805+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:57:37.2693778+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:08:05.3159944+00:00"
 }

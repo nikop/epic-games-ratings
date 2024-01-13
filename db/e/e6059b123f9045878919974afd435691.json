@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1460,
+  "EOS_Progressed": 1461,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3874,6 +3874,11 @@
       "Time": "2024-01-13T21:10:13.0440451+00:00",
       "NumProgressed": 1460,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T23:11:47.9853256+00:00",
+      "NumProgressed": 1461,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3885,7 +3890,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3923,9 +3928,9 @@
       "ID": "ATK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beware of the Goat",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 657
+      "UsersEstimate": 643
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3933,7 +3938,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -3957,7 +3962,7 @@
       "Name": "Capraphobia",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -4013,7 +4018,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -4181,7 +4186,7 @@
       "Name": "Decakill!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -4237,7 +4242,7 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -4277,7 +4282,7 @@
       "Name": "Night Snack",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -4333,7 +4338,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -4412,14 +4417,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1460,
+      "Progressed": 1461,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:10:14.9230893+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:11:47.9853251+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:08.9755264+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:58:03.1965039+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:10:14.9231445+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:58:46.1788542+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:11:47.9854232+00:00"
 }

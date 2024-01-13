@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -127,11 +127,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2739,
-  "EOS_Completed": 203,
+  "EOS_Progressed": 2740,
+  "EOS_Completed": 204,
   "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 36,
-  "EOS_Completed_Percentage": 7.41,
+  "EOS_Completed_Percentage": 7.45,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -7232,6 +7232,11 @@
       "Time": "2024-01-13T22:05:14.8110869+00:00",
       "NumProgressed": 2739,
       "NumCompleted": 203
+    },
+    {
+      "Time": "2024-01-13T23:07:21.5626666+00:00",
+      "NumProgressed": 2740,
+      "NumCompleted": 204
     }
   ],
   "TotalAchievements": 25,
@@ -7257,9 +7262,9 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 712
+      "UsersEstimate": 740
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -7299,7 +7304,7 @@
       "Name": "Free at last",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "META_RESULT_1-4",
@@ -7363,7 +7368,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -7401,9 +7406,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1507
     },
     {
       "ID": "PROGRESS_N2",
@@ -7427,7 +7432,7 @@
       "Name": "The darkness",
       "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "PROGRESS_N5",
@@ -7435,23 +7440,23 @@
       "Name": "One last step",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2739,
-      "Completed": 203
+      "Progressed": 2740,
+      "Completed": 204
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:05:14.8110866+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:07:21.5626659+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-13T21:58:17.6058016+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:05:14.8111283+00:00"
+  "LastUpdate_Ratings": "2024-01-13T22:59:05.9930098+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:07:21.5627248+00:00"
 }

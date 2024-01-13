@@ -15,8 +15,8 @@ Rating: 4.60 (Ranked 427)
 | Krugmazing | 64.00% | ~990 |
 | The Fire Below the Mountain | 61.00% | ~944 |
 | Moneyball | 60.00% | ~928 |
+| No Bites | 55.00% | ~851 |
 | Iceborn | 55.00% | ~851 |
-| No Bites | 54.00% | ~835 |
 | Boom Things | 53.00% | ~820 |
 | Tear of Freedom | 52.00% | ~804 |
 | My Darkest Day | 48.00% | ~743 |

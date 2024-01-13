@@ -3947,7 +3947,7 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 20756,
+  "EOS_Progressed": 20758,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 1,
@@ -19552,6 +19552,11 @@
       "Time": "2024-01-13T22:08:08.3986539+00:00",
       "NumProgressed": 20756,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-13T23:08:51.0093937+00:00",
+      "NumProgressed": 20758,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19652,7 +19657,7 @@
       "Name": "First Real Expedition",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "WinHard",
@@ -19706,9 +19711,9 @@
       "ID": "WinNearCrystals",
       "SetID": "cfbk359",
       "Name": "Sparkdew Crystals",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 623
     },
     {
       "ID": "WinNearDangerous",
@@ -19996,7 +20001,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "WinNearPresence",
@@ -20035,15 +20040,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20756,
+      "Progressed": 20758,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-13T14:00:31.5599357+00:00",
-  "LastChanged_Achievements": "2024-01-13T22:08:08.3986537+00:00",
+  "LastChanged_Achievements": "2024-01-13T23:08:51.0093932+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:00:28.5266133+00:00",
-  "LastUpdate_Achievements": "2024-01-13T22:08:08.398789+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:02:22.8024162+00:00",
+  "LastUpdate_Achievements": "2024-01-13T23:08:51.0095234+00:00"
 }
