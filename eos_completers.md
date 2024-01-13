@@ -27,7 +27,7 @@
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.52% |
 | 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.24% |
 | 27 | [Island Cities](games/i/island_cities.md) | 16.96% |
-| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.89% |
+| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.88% |
 | 29 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 30 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -52,13 +52,13 @@
 | 50 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.79% |
 | 51 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 51 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.69% |
-| 53 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.64% |
-| 54 | [Ravenlok](games/r/ravenlok.md) | 7.61% |
+| 53 | [Ravenlok](games/r/ravenlok.md) | 7.61% |
+| 54 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.59% |
 | 55 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.49% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.42% |
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.41% |
-| 59 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.23% |
+| 59 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.14% |
 | 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.06% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.93% |
 | 62 | [Scorn](games/s/scorn.md) | 6.91% |
@@ -77,7 +77,7 @@
 | 75 | [Bugsnax](games/b/bugsnax.md) | 4.89% |
 | 76 | [ZZT!](games/z/zzt!.md) | 4.77% |
 | 77 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.76% |
-| 78 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.64% |
+| 78 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.62% |
 | 79 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.60% |
 | 80 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.49% |
 | 81 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.44% |
@@ -199,10 +199,10 @@
 | 197 | [Infindustry](games/i/infindustry.md) | 0.74% |
 | 198 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.73% |
 | 198 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.73% |
-| 200 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 0.71% |
 | 200 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.71% |
-| 202 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
-| 202 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.70% |
+| 201 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 0.70% |
+| 201 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
+| 201 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.70% |
 | 204 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.63% |
 | 204 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.63% |
 | 206 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.62% |
@@ -610,6 +610,7 @@
 | 399 | [LOOPMANCER](games/l/loopmancer.md) | 0.00% |
 | 399 | [Loretta](games/l/loretta.md) | 0.00% |
 | 399 | [LOVE 3](games/l/love_3.md) | 0.00% |
+| 399 | [Love Money Rock-n-Roll](games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 0.00% |
 | 399 | [Lucky Goal](games/7/7a78425e9d094942bd44700957de54da.md) | 0.00% |
 | 399 | [Madden NFL 23](games/m/madden_nfl_23.md) | 0.00% |
 | 399 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 0.00% |
