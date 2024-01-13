@@ -59,7 +59,7 @@
 | 57 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.41% |
 | 58 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.39% |
 | 59 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.23% |
-| 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.09% |
+| 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.08% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.93% |
 | 62 | [Scorn](games/s/scorn.md) | 6.91% |
 | 63 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.87% |
@@ -77,7 +77,7 @@
 | 75 | [Bugsnax](games/b/bugsnax.md) | 4.89% |
 | 76 | [ZZT!](games/z/zzt!.md) | 4.77% |
 | 77 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.76% |
-| 78 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.66% |
+| 78 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.64% |
 | 79 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.60% |
 | 80 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.49% |
 | 81 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.44% |
@@ -104,8 +104,8 @@
 | 102 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.33% |
 | 103 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.28% |
 | 104 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.25% |
-| 105 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.23% |
 | 105 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.23% |
+| 106 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.21% |
 | 107 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
 | 108 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.11% |
 | 109 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.08% |
@@ -144,7 +144,7 @@
 | 142 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
 | 143 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
 | 144 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
-| 145 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.72% |
+| 145 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.73% |
 | 146 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.71% |
 | 146 | [Sifu](games/s/sifu.md) | 1.71% |
 | 148 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.69% |
@@ -228,9 +228,9 @@
 | 224 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.50% |
 | 224 | [The Surge 2](games/t/the_surge_2.md) | 0.50% |
 | 228 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.49% |
-| 229 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 0.48% |
-| 230 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.47% |
-| 230 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.47% |
+| 229 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.47% |
+| 229 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 0.47% |
+| 229 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.47% |
 | 232 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 232 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.46% |
 | 232 | [Garden In](games/g/garden_in.md) | 0.46% |
@@ -272,12 +272,12 @@
 | 270 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.24% |
 | 270 | [Them and Us](games/t/them_and_us.md) | 0.24% |
 | 272 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.23% |
-| 272 | [Eternights](games/e/eternights.md) | 0.23% |
 | 272 | [It Takes Two](games/i/it_takes_two.md) | 0.23% |
 | 272 | [Shop Titans](games/s/shop_titans.md) | 0.23% |
-| 276 | [Aegis Descent](games/a/aegis_descent.md) | 0.22% |
-| 276 | [Dead Space](games/d/dead_space.md) | 0.22% |
-| 276 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.22% |
+| 275 | [Aegis Descent](games/a/aegis_descent.md) | 0.22% |
+| 275 | [Dead Space](games/d/dead_space.md) | 0.22% |
+| 275 | [Eternights](games/e/eternights.md) | 0.22% |
+| 275 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.22% |
 | 279 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
 | 280 | [Circus Electrique](games/c/circus_electrique.md) | 0.20% |
 | 280 | [Despot's Game](games/d/despot's_game.md) | 0.20% |
