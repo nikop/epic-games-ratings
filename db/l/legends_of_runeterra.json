@@ -4,7 +4,7 @@
   "ProductSlug": "legends-of-runeterra",
   "Ranking_Rating": 303,
   "Ranking_Popularity": 295,
-  "Ranking_PopularitySum": 234,
+  "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 579,
@@ -3084,10 +3084,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 1647,
       "NumberOfAwardsMax": 212
+    },
+    {
+      "Time": "2024-01-13T11:59:40.9262527+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 1649,
+      "NumberOfAwardsMax": 212
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1647,
+  "NumberOfAwards": 1649,
   "NumberOfAwardsMax": 212,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3137,7 +3143,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 154
+      "Count": 156
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3169,8 +3175,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
-  "LastChanged": "2024-01-13T10:58:41.2732725+00:00",
+  "LastChanged": "2024-01-13T11:59:40.9262525+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:43.1411892+00:00",
-  "LastUpdate_Ratings": "2024-01-13T10:58:41.273273+00:00",
-  "LastUpdate_Achievements": "2024-01-13T11:08:38.0727886+00:00"
+  "LastUpdate_Ratings": "2024-01-13T11:59:40.9262532+00:00",
+  "LastUpdate_Achievements": "2024-01-13T12:09:47.3481913+00:00"
 }

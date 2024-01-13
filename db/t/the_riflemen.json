@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69693,
+  "EOS_Progressed": 69715,
   "EOS_Completed": 11760,
-  "EOS_NewPlayers": 4080,
+  "EOS_NewPlayers": 4084,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 16.87,
   "EosHistory": [
@@ -16470,6 +16470,11 @@
       "Time": "2024-01-13T11:08:54.6556834+00:00",
       "NumProgressed": 69693,
       "NumCompleted": 11760
+    },
+    {
+      "Time": "2024-01-13T12:10:09.714786+00:00",
+      "NumProgressed": 69715,
+      "NumCompleted": 11760
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -16490,7 +16495,7 @@
       "Name": "First blood",
       "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 52270
+      "UsersEstimate": 52286
     },
     {
       "ID": "grenadeKills",
@@ -16506,7 +16511,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2788
+      "UsersEstimate": 2789
     },
     {
       "ID": "headshots1000",
@@ -16538,7 +16543,7 @@
       "Name": "Hang in there",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "matchesWon",
@@ -16593,7 +16598,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 69693,
+      "Progressed": 69715,
       "Completed": 11760
     }
   ],
@@ -16601,8 +16606,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2024-01-06T23:59:09.4867908+00:00",
-  "LastChanged_Achievements": "2024-01-13T11:08:54.655683+00:00",
+  "LastChanged_Achievements": "2024-01-13T12:10:09.7147855+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.275557+00:00",
-  "LastUpdate_Ratings": "2024-01-13T10:58:11.4768832+00:00",
-  "LastUpdate_Achievements": "2024-01-13T11:08:54.655765+00:00"
+  "LastUpdate_Ratings": "2024-01-13T11:58:59.3156767+00:00",
+  "LastUpdate_Achievements": "2024-01-13T12:10:09.7148895+00:00"
 }

@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,147 |
-| Beast Intentions | 2.00% | ~5,073 |
-| The Cursed Farmer | 2.00% | ~5,073 |
+| Beast Intentions | 2.00% | ~5,074 |
+| The Cursed Farmer | 2.00% | ~5,074 |
 | The Ring of Regeneration | 1.00% | ~2,537 |
 | The Mad Wizard | 1.00% | ~2,537 |
 | Are Ya Chicken? | 0.90% | ~2,283 |
@@ -40,6 +40,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Chaos Theory | 0.40% | ~880 |
 | When Tentacles Attack | 0.40% | ~880 |
 | Mind Spike | 0.40% | ~880 |
+| The Silken Swamp | 0.30% | ~761 |
 | Low Initiative | 0.30% | ~761 |
 | Building Trust | 0.30% | ~761 |
 | March of the Undead | 0.30% | ~761 |
@@ -50,7 +51,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.30% | ~761 |
 | The Templar's Camp | 0.30% | ~761 |
 | Pros and CONs | 0.20% | ~507 |
-| The Silken Swamp | 0.20% | ~507 |
 | Wet Feet | 0.20% | ~507 |
 | Supply Run | 0.20% | ~507 |
 | Vecna Lives! | 0.20% | ~440 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,668 (Ranked 70)  
+Progressed: 253,680 (Ranked 70)  
 Completed: 2,616 (1.03%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -821,17 +821,17 @@ Completed: 2,616 (1.03%) (Ranked 177)
 | 2024-01-10 | 253,250 | 2,611 |
 | 2024-01-11 | 253,420 | 2,614 |
 | 2024-01-12 | 253,598 | 2,614 |
-| 2024-01-13 | 253,668 | 2,616 |
+| 2024-01-13 | 253,680 | 2,616 |
 ## Awards
 Max (Great for Beginners): 5,774  (Ranked 74)  
-Sum: 33,470 (Ranked 41)  
+Sum: 33,473 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,774 |
 | This game has Diverse Characters | 5,720 |
 | This game has Quickly Understood Controls | 4,911 |
-| This game is Relaxing | 4,777 |
+| This game is Relaxing | 4,780 |
 | This game has Amazing Characters | 4,328 |
 | This game is Highly Recommended | 4,325 |
 | This game has Playful Visuals | 3,635 |
@@ -1190,4 +1190,4 @@ Diff (max vs sum): 33
 | 2024-01-10 | 4.06 | - | 5,770 | 33,432 |
 | 2024-01-11 | 4.06 | - | 5,770 | 33,451 |
 | 2024-01-12 | 4.06 | - | 5,774 | 33,467 |
-| 2024-01-13 | 4.06 | - | 5,774 | 33,470 |
+| 2024-01-13 | 4.06 | - | 5,774 | 33,473 |

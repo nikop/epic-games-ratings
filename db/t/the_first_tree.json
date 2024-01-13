@@ -283,7 +283,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40443,
+  "EOS_Progressed": 40445,
   "EOS_Completed": 126,
   "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 0,
@@ -23913,6 +23913,11 @@
       "Time": "2024-01-13T11:08:11.8403594+00:00",
       "NumProgressed": 40443,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2024-01-13T12:09:12.9514496+00:00",
+      "NumProgressed": 40445,
+      "NumCompleted": 126
     }
   ],
   "TotalAchievements": 14,
@@ -23940,7 +23945,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 10515
+      "UsersEstimate": 10516
     },
     {
       "ID": "allItems",
@@ -24004,7 +24009,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 9706
+      "UsersEstimate": 9707
     },
     {
       "ID": "firstItem",
@@ -24012,7 +24017,7 @@
       "Name": "Two Worlds",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 30737
+      "UsersEstimate": 30738
     },
     {
       "ID": "roots",
@@ -24020,7 +24025,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6875
+      "UsersEstimate": 6876
     },
     {
       "ID": "secretItem",
@@ -24035,15 +24040,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 40443,
+      "Progressed": 40445,
       "Completed": 126
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2024-01-04T15:58:41.1338028+00:00",
-  "LastChanged_Achievements": "2024-01-13T11:08:11.840359+00:00",
+  "LastChanged_Achievements": "2024-01-13T12:09:12.9514491+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:47.8106255+00:00",
-  "LastUpdate_Ratings": "2024-01-13T10:58:54.7430834+00:00",
-  "LastUpdate_Achievements": "2024-01-13T11:08:11.84049+00:00"
+  "LastUpdate_Ratings": "2024-01-13T12:00:00.1707859+00:00",
+  "LastUpdate_Achievements": "2024-01-13T12:09:12.9515913+00:00"
 }

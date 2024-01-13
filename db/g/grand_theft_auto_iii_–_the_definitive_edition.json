@@ -709,9 +709,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12267,
+  "EOS_Progressed": 12270,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 553,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -15649,6 +15649,11 @@
       "Time": "2024-01-13T10:05:41.4279615+00:00",
       "NumProgressed": 12267,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2024-01-13T12:05:34.3630252+00:00",
+      "NumProgressed": 12270,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 29,
@@ -15660,7 +15665,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10182
+      "UsersEstimate": 10184
     },
     {
       "ID": "ACH02",
@@ -15668,7 +15673,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 4171
+      "UsersEstimate": 4172
     },
     {
       "ID": "ACH03",
@@ -15684,7 +15689,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4784
+      "UsersEstimate": 4785
     },
     {
       "ID": "ACH05",
@@ -15732,7 +15737,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3557
+      "UsersEstimate": 3558
     },
     {
       "ID": "ACH11",
@@ -15764,7 +15769,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     },
     {
       "ID": "ACH15",
@@ -15780,7 +15785,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3189
+      "UsersEstimate": 3190
     },
     {
       "ID": "ACH17",
@@ -15788,7 +15793,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1717
+      "UsersEstimate": 1718
     },
     {
       "ID": "ACH18",
@@ -15891,7 +15896,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12267,
+      "Progressed": 12270,
       "Completed": 89
     }
   ],
@@ -15899,8 +15904,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-11T22:58:24.400965+00:00",
-  "LastChanged_Achievements": "2024-01-13T11:04:22.3363439+00:00",
+  "LastChanged_Achievements": "2024-01-13T12:05:34.3630244+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.653696+00:00",
-  "LastUpdate_Ratings": "2024-01-13T10:59:05.2437632+00:00",
-  "LastUpdate_Achievements": "2024-01-13T11:04:22.3364493+00:00"
+  "LastUpdate_Ratings": "2024-01-13T12:00:14.4549981+00:00",
+  "LastUpdate_Achievements": "2024-01-13T12:05:34.3631491+00:00"
 }

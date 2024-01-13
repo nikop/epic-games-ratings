@@ -5,7 +5,7 @@
   "Ranking_Rating": 908,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
-  "Ranking_EOS_Progress": 291,
+  "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 154,
@@ -355,9 +355,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1120,
+  "EOS_Progressed": 1122,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 290,
+  "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2770,6 +2770,11 @@
       "Time": "2024-01-13T11:08:26.6649265+00:00",
       "NumProgressed": 1120,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T12:09:31.9821453+00:00",
+      "NumProgressed": 1122,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2782,7 +2787,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "CareerAllChallenges",
@@ -2790,7 +2795,7 @@
       "Name": "Highballer",
       "Percentage": 60,
       "XP": 90,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "CareerChamp1",
@@ -2798,7 +2803,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "CareerChamp2",
@@ -2838,15 +2843,15 @@
       "Name": "Storm Warning",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "CollectVehiclesA",
       "SetID": "5hd282c",
       "Name": "Wheeler Dealer",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 269
+      "UsersEstimate": 280
     },
     {
       "ID": "CollectVehiclesB",
@@ -2862,7 +2867,7 @@
       "Name": "Cash For Crashes",
       "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "GetWreckedA",
@@ -2894,7 +2899,7 @@
       "Name": "Dirty Roller",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "PlayerRankB",
@@ -2941,7 +2946,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1120,
+      "Progressed": 1122,
       "Completed": 0
     }
   ],
@@ -2949,8 +2954,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-07T05:59:24.3409501+00:00",
-  "LastChanged_Achievements": "2024-01-13T11:08:26.664926+00:00",
+  "LastChanged_Achievements": "2024-01-13T12:09:31.9821446+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
-  "LastUpdate_Ratings": "2024-01-13T10:58:23.3108977+00:00",
-  "LastUpdate_Achievements": "2024-01-13T11:08:26.6649555+00:00"
+  "LastUpdate_Ratings": "2024-01-13T11:59:16.4323956+00:00",
+  "LastUpdate_Achievements": "2024-01-13T12:09:31.9821705+00:00"
 }

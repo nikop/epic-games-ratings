@@ -342,9 +342,9 @@
       "ID": "COMBO_DRONE",
       "SetID": "1fek4an",
       "Name": "Skynet",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "COMBO_HP",
@@ -398,9 +398,9 @@
       "ID": "GOLDENWEAPON_1",
       "SetID": "1fek4an",
       "Name": "Collector",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "GOLDENWEAPON_10",
@@ -606,9 +606,9 @@
       "ID": "LEVEL_COMPLETE_0_8",
       "SetID": "1fek4an",
       "Name": "Grass(L8)",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LEVEL_COMPLETE_1_0",
@@ -646,9 +646,9 @@
       "ID": "LEVEL_COMPLETE_1_4",
       "SetID": "1fek4an",
       "Name": "Boneyard(L4)",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LEVEL_COMPLETE_1_8",
@@ -806,9 +806,9 @@
       "ID": "SHOP_LEVEL_UP_COMBO_2",
       "SetID": "1fek4an",
       "Name": "Level Skip",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "SHOP_LEVEL_UP_COMBO_MAX",
@@ -853,8 +853,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-13T11:06:22.0638495+00:00",
+  "LastChanged_Achievements": "2024-01-13T12:08:47.3921645+00:00",
   "LastUpdate_AppInfo": "2024-01-10T13:02:38.4502332+00:00",
-  "LastUpdate_Ratings": "2024-01-13T11:02:28.5245084+00:00",
-  "LastUpdate_Achievements": "2024-01-13T11:06:22.0639091+00:00"
+  "LastUpdate_Ratings": "2024-01-13T12:02:56.52004+00:00",
+  "LastUpdate_Achievements": "2024-01-13T12:08:47.3922196+00:00"
 }

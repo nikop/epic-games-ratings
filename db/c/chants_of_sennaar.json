@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2726,
+  "EOS_Progressed": 2727,
   "EOS_Completed": 202,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 7.41,
   "EosHistory": [
@@ -7192,6 +7192,11 @@
       "Time": "2024-01-13T11:04:48.3688466+00:00",
       "NumProgressed": 2726,
       "NumCompleted": 202
+    },
+    {
+      "Time": "2024-01-13T12:06:08.8052985+00:00",
+      "NumProgressed": 2727,
+      "NumCompleted": 202
     }
   ],
   "TotalAchievements": 25,
@@ -7227,7 +7232,7 @@
       "Name": "Cable guy",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "META_FIRST_LINK",
@@ -7243,7 +7248,7 @@
       "Name": "Half the way",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "META_RESULT_1-2",
@@ -7291,7 +7296,7 @@
       "Name": "A Link to the Past",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -7323,7 +7328,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1200
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -7363,7 +7368,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "PROGRESS_N2",
@@ -7387,7 +7392,7 @@
       "Name": "The darkness",
       "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "PROGRESS_N5",
@@ -7402,7 +7407,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2726,
+      "Progressed": 2727,
       "Completed": 202
     }
   ],
@@ -7410,8 +7415,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-13T11:04:48.3688462+00:00",
+  "LastChanged_Achievements": "2024-01-13T12:06:08.8052982+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-13T10:57:46.7096497+00:00",
-  "LastUpdate_Achievements": "2024-01-13T11:04:48.3688973+00:00"
+  "LastUpdate_Ratings": "2024-01-13T11:58:22.3494845+00:00",
+  "LastUpdate_Achievements": "2024-01-13T12:06:08.8053488+00:00"
 }

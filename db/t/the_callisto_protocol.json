@@ -2201,9 +2201,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 22264,
+  "EOS_Progressed": 22265,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1002,
+  "EOS_NewPlayers": 997,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13721,6 +13721,11 @@
       "Time": "2024-01-13T11:09:10.426956+00:00",
       "NumProgressed": 22264,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-13T12:10:30.6960128+00:00",
+      "NumProgressed": 22265,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13860,7 +13865,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 4675
+      "UsersEstimate": 4676
     },
     {
       "ID": "KILL_ROBOT",
@@ -13924,7 +13929,7 @@
       "Name": "The Outer Way",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6011
+      "UsersEstimate": 6012
     },
     {
       "ID": "STORY_ESCAPE",
@@ -13970,9 +13975,9 @@
       "ID": "STORY_SNOWCAT",
       "SetID": "4hj6d86",
       "Name": "Crash Site",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2894
     },
     {
       "ID": "STORY_TOWER",
@@ -14107,13 +14112,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22264,
+      "Progressed": 22265,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10190,
+      "Progressed": 10191,
       "Completed": 29
     }
   ],
@@ -14121,8 +14126,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-12T18:03:09.9063195+00:00",
-  "LastChanged_Achievements": "2024-01-13T11:09:10.4269556+00:00",
+  "LastChanged_Achievements": "2024-01-13T12:10:30.6960123+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-13T11:03:03.8697593+00:00",
-  "LastUpdate_Achievements": "2024-01-13T11:09:10.4270587+00:00"
+  "LastUpdate_Ratings": "2024-01-13T12:03:46.7306596+00:00",
+  "LastUpdate_Achievements": "2024-01-13T12:10:30.6960984+00:00"
 }

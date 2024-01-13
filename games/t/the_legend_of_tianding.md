@@ -17,14 +17,14 @@
 | Demon Slayer | 31.00% | ~26 |
 | Steal Her Away | 29.00% | ~25 |
 | Fight Fire With Fire | 29.00% | ~25 |
+| Sewer Rat | 28.00% | ~24 |
 | Big Eater | 27.00% | ~23 |
-| Sewer Rat | 27.00% | ~23 |
 | Urban Explorer | 26.00% | ~22 |
 | Not Today | 26.00% | ~22 |
 | Tour Guide | 24.00% | ~20 |
 | Coward | 24.00% | ~20 |
 | Tomb Raider | 24.00% | ~20 |
-| The Real O.G. | 20.00% | ~17 |
+| The Real O.G. | 21.00% | ~18 |
 | The Hero of the People | 16.00% | ~14 |
 | Collector | 12.00% | ~10 |
 | Talk to the Fist | 12.00% | ~10 |

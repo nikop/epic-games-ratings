@@ -353,9 +353,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4173,
+  "EOS_Progressed": 4174,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8498,6 +8498,11 @@
       "Time": "2024-01-13T10:05:08.0564133+00:00",
       "NumProgressed": 4173,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T12:05:00.2669277+00:00",
+      "NumProgressed": 4174,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8573,7 +8578,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "ACH_BASE_19",
@@ -8715,9 +8720,9 @@
       "ID": "ACH_BASE_35",
       "SetID": "92iocjf",
       "Name": "Breaking Protocol",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 543
     },
     {
       "ID": "ACH_BASE_36",
@@ -8805,7 +8810,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ACH_BASE_49",
@@ -8964,13 +8969,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2357,
+      "Progressed": 2358,
       "Completed": 12
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4173,
+      "Progressed": 4174,
       "Completed": 0
     }
   ],
@@ -8978,8 +8983,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-11T09:57:52.466446+00:00",
-  "LastChanged_Achievements": "2024-01-13T11:03:57.2243954+00:00",
+  "LastChanged_Achievements": "2024-01-13T12:05:00.2669273+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:25.5201636+00:00",
-  "LastUpdate_Ratings": "2024-01-13T10:58:57.9800356+00:00",
-  "LastUpdate_Achievements": "2024-01-13T11:03:57.2244739+00:00"
+  "LastUpdate_Ratings": "2024-01-13T12:00:04.5559661+00:00",
+  "LastUpdate_Achievements": "2024-01-13T12:05:00.2670109+00:00"
 }

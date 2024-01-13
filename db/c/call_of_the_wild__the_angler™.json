@@ -1029,7 +1029,7 @@
   ],
   "EOS_Progressed": 8301,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 281,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14284,9 +14284,9 @@
       "ID": "ACHIEVEMENT_038",
       "SetID": "6jk25od",
       "Name": "Live by the Rod, Diez by the Rod!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_039",
@@ -14331,8 +14331,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-13T11:08:09.4386018+00:00",
+  "LastChanged_Achievements": "2024-01-13T12:09:09.6250893+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-13T10:57:17.4971042+00:00",
-  "LastUpdate_Achievements": "2024-01-13T11:08:09.4386856+00:00"
+  "LastUpdate_Ratings": "2024-01-13T11:57:40.842412+00:00",
+  "LastUpdate_Achievements": "2024-01-13T12:09:09.6251918+00:00"
 }

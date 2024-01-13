@@ -4907,7 +4907,7 @@
       "Count": 407
     }
   ],
-  "EOS_Progressed": 13253,
+  "EOS_Progressed": 13254,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
@@ -19637,6 +19637,11 @@
       "Time": "2024-01-13T10:11:20.1789635+00:00",
       "NumProgressed": 13253,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T12:11:07.1050542+00:00",
+      "NumProgressed": 13254,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19648,7 +19653,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3578
+      "UsersEstimate": 3579
     },
     {
       "ID": "02_BurningCity",
@@ -19664,7 +19669,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     },
     {
       "ID": "04_FithCrusade",
@@ -19784,7 +19789,7 @@
       "Name": "Mythic Choices",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "19_EqualToAroden",
@@ -19896,7 +19901,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -20575,21 +20580,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12035,
+      "Progressed": 12036,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13253,
+      "Progressed": 13254,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-12T21:58:19.4495923+00:00",
-  "LastChanged_Achievements": "2024-01-13T11:09:39.3417848+00:00",
+  "LastChanged_Achievements": "2024-01-13T12:11:07.1050535+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:50.9176644+00:00",
-  "LastUpdate_Ratings": "2024-01-13T10:58:39.6943735+00:00",
-  "LastUpdate_Achievements": "2024-01-13T11:09:39.3419871+00:00"
+  "LastUpdate_Ratings": "2024-01-13T11:59:38.7150308+00:00",
+  "LastUpdate_Achievements": "2024-01-13T12:11:07.1052195+00:00"
 }

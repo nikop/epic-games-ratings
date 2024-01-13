@@ -37,7 +37,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4027,
+  "EOS_Progressed": 4028,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -5637,6 +5637,11 @@
       "Time": "2024-01-13T05:05:44.009218+00:00",
       "NumProgressed": 4027,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-13T12:06:46.4904433+00:00",
+      "NumProgressed": 4028,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5696,7 +5701,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3503
+      "UsersEstimate": 3504
     },
     {
       "ID": "campaign10",
@@ -5784,7 +5789,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 3020
+      "UsersEstimate": 3021
     },
     {
       "ID": "campaign20",
@@ -5800,7 +5805,7 @@
       "Name": "Economics 101",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 2376
+      "UsersEstimate": 2377
     },
     {
       "ID": "campaign4",
@@ -5911,7 +5916,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 4027,
+      "Progressed": 4028,
       "Completed": 11
     }
   ],
@@ -5919,8 +5924,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2024-01-05T08:58:52.7711213+00:00",
-  "LastChanged_Achievements": "2024-01-13T11:05:16.0653704+00:00",
+  "LastChanged_Achievements": "2024-01-13T12:06:46.4904428+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:04.3464482+00:00",
-  "LastUpdate_Ratings": "2024-01-13T10:58:44.4909437+00:00",
-  "LastUpdate_Achievements": "2024-01-13T11:05:16.0654168+00:00"
+  "LastUpdate_Ratings": "2024-01-13T11:59:45.6170829+00:00",
+  "LastUpdate_Achievements": "2024-01-13T12:06:46.490496+00:00"
 }

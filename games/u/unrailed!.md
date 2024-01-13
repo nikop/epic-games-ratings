@@ -6,28 +6,28 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 19.00% | ~129,240 |
-| Incurious | 18.00% | ~122,437 |
-| Climate Change | 17.00% | ~115,635 |
-| Stroller | 16.00% | ~108,833 |
-| Advanced Hiker | 14.00% | ~95,229 |
-| Toy Train | 14.00% | ~95,229 |
-| Hiker | 12.00% | ~81,625 |
-| Mojave Courier | 6.00% | ~40,812 |
-| Saved by Nausicaä | 6.00% | ~40,812 |
-| Voyager | 4.00% | ~27,208 |
-| Advanced Voyager | 4.00% | ~27,208 |
-| Expert Stroller | 4.00% | ~27,208 |
-| Orient Express | 4.00% | ~27,208 |
-| Marathon | 3.00% | ~20,406 |
-| Destructionist | 3.00% | ~20,406 |
+| Advanced Stroller | 19.00% | ~129,242 |
+| Incurious | 18.00% | ~122,440 |
+| Climate Change | 17.00% | ~115,638 |
+| Stroller | 16.00% | ~108,836 |
+| Advanced Hiker | 14.00% | ~95,231 |
+| Toy Train | 14.00% | ~95,231 |
+| Hiker | 12.00% | ~81,627 |
+| Mojave Courier | 6.00% | ~40,813 |
+| Saved by Nausicaä | 6.00% | ~40,813 |
+| Voyager | 4.00% | ~27,209 |
+| Advanced Voyager | 4.00% | ~27,209 |
+| Expert Stroller | 4.00% | ~27,209 |
+| Orient Express | 4.00% | ~27,209 |
+| Marathon | 3.00% | ~20,407 |
+| Destructionist | 3.00% | ~20,407 |
 | Expert Hiker | 2.00% | ~13,604 |
 | Lost | 2.00% | ~13,604 |
 | Rocketman | 0.80% | ~5,442 |
 | Shopaholic | 0.80% | ~5,442 |
-| Expert Voyager | 0.70% | ~4,761 |
-| Nanuk | 0.70% | ~4,761 |
-| Dynamite Fishing | 0.70% | ~4,761 |
+| Expert Voyager | 0.70% | ~4,762 |
+| Nanuk | 0.70% | ~4,762 |
+| Dynamite Fishing | 0.70% | ~4,762 |
 | Terminal Station | 0.60% | ~4,081 |
 | Scrooge | 0.50% | ~3,401 |
 | Wayfarer | 0.40% | ~2,721 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~680 |
 | 20 Miles under the Sea | 0.10% | ~680 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680,208 (Ranked 30)  
+Progressed: 680,223 (Ranked 30)  
 Completed: 15 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,11 +327,11 @@ Completed: 15 (0.00%) (Ranked 399)
 | 2024-01-10 | 679,620 | 15 |
 | 2024-01-11 | 679,830 | 15 |
 | 2024-01-12 | 680,110 | 15 |
-| 2024-01-13 | 680,208 | 15 |
+| 2024-01-13 | 680,223 | 15 |
 ## Awards
 Max (Great for Beginners): 210  (Ranked 296)  
-Sum: 1,638 (Ranked 236)  
-Diff (max vs sum): 60  
+Sum: 1,638 (Ranked 237)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 210 |

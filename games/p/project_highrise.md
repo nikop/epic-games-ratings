@@ -5,24 +5,24 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 55.00% | ~288 |
-| Starting Skyward | 49.00% | ~256 |
-| Grime is Not Good | 41.00% | ~214 |
-| Floor Galore | 36.00% | ~188 |
-| Campaign Launch | 36.00% | ~188 |
-| Dinner Dash | 36.00% | ~188 |
+| Starting Skyward | 49.00% | ~257 |
+| Grime is Not Good | 41.00% | ~215 |
+| Floor Galore | 36.00% | ~189 |
+| Campaign Launch | 36.00% | ~189 |
+| Dinner Dash | 36.00% | ~189 |
 | Need a Consult | 33.00% | ~173 |
 | Upgrade Unlock | 33.00% | ~173 |
-| It's Technical | 32.00% | ~167 |
+| It's Technical | 32.00% | ~168 |
 | Proper Walls | 29.00% | ~152 |
-| Delegate Maintenance | 28.00% | ~146 |
-| Destination Destiny | 28.00% | ~146 |
-| Happy Tenants | 23.00% | ~120 |
-| Potent Potables | 23.00% | ~120 |
+| Delegate Maintenance | 28.00% | ~147 |
+| Destination Destiny | 28.00% | ~147 |
+| Happy Tenants | 23.00% | ~121 |
+| Potent Potables | 23.00% | ~121 |
 | Your Prestige is Rising | 22.00% | ~115 |
 | Smooth Service | 22.00% | ~115 |
 | Retail Revenue | 21.00% | ~110 |
 | Don't Feel a Loan | 20.00% | ~105 |
-| People Mover | 19.00% | ~99 |
+| People Mover | 19.00% | ~100 |
 | Artfully Done | 18.00% | ~94 |
 | Leveled Up Shops | 18.00% | ~94 |
 | We Don't Need No Education | 18.00% | ~94 |
@@ -30,8 +30,8 @@
 | Emporium Empire | 17.00% | ~89 |
 | Get Electrified | 17.00% | ~89 |
 | Tasty Profits | 16.00% | ~84 |
-| Rehab Expert | 15.00% | ~78 |
-| Established Fame | 15.00% | ~78 |
+| Rehab Expert | 15.00% | ~79 |
+| Established Fame | 15.00% | ~79 |
 | Under One Roof | 13.00% | ~68 |
 | Starred Dining | 13.00% | ~68 |
 | Cashflow Chief | 13.00% | ~68 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 523 (Ranked 352)  
+Progressed: 524 (Ranked 352)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,6 +224,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-10 | 515 | 0 |
 | 2024-01-11 | 519 | 0 |
 | 2024-01-12 | 523 | 0 |
+| 2024-01-13 | 524 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

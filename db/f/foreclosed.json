@@ -4,8 +4,8 @@
   "ProductSlug": "foreclosed",
   "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 425,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 418,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
     "PcReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 153,
+  "EOS_Progressed": 154,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.61,
+  "EOS_Completed_Percentage": 2.6,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -459,6 +459,11 @@
       "Time": "2024-01-10T09:05:39.8720233+00:00",
       "NumProgressed": 153,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-13T12:07:38.5395586+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 24,
@@ -470,7 +475,7 @@
       "Name": "Full and Final Settlement",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "AutoBullets_0",
@@ -502,7 +507,7 @@
       "Name": "Unstoppable",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "EnemyDefeat_1",
@@ -526,7 +531,7 @@
       "Name": "Breaking Through",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "FirstSkillBuy",
@@ -540,9 +545,9 @@
       "ID": "GunUnlock",
       "SetID": "9e3d06k",
       "Name": "Symbiotic Weapon",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 79
     },
     {
       "ID": "Headshots_0",
@@ -566,7 +571,7 @@
       "Name": "The Red Herring",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "LiftEnemies_0",
@@ -596,9 +601,9 @@
       "ID": "SecondAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Silent Overload",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 89
     },
     {
       "ID": "SecretEnding",
@@ -614,7 +619,7 @@
       "Name": "Flatline",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "StealthDefeat_1",
@@ -630,7 +635,7 @@
       "Name": "One Click Away",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "TelekinesisThrow_0",
@@ -638,7 +643,7 @@
       "Name": "Mind Over Matter",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "TelekinesisThrow_1",
@@ -661,7 +666,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 153,
+      "Progressed": 154,
       "Completed": 4
     }
   ],
@@ -669,8 +674,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2024-01-13T11:05:53.7005592+00:00",
+  "LastChanged_Achievements": "2024-01-13T12:07:38.5395583+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:56:55.9035332+00:00",
-  "LastUpdate_Ratings": "2024-01-13T11:00:15.9499792+00:00",
-  "LastUpdate_Achievements": "2024-01-13T11:05:53.7006008+00:00"
+  "LastUpdate_Ratings": "2024-01-13T12:02:00.1831626+00:00",
+  "LastUpdate_Achievements": "2024-01-13T12:07:38.5395908+00:00"
 }

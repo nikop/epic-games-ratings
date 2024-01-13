@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1062,9 +1062,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16337,
+  "EOS_Progressed": 16340,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 782,
+  "EOS_NewPlayers": 778,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -18002,6 +18002,11 @@
       "Time": "2024-01-13T11:09:19.29286+00:00",
       "NumProgressed": 16337,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2024-01-13T12:10:42.7431703+00:00",
+      "NumProgressed": 16340,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 34,
@@ -18069,7 +18074,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ACH09",
@@ -18093,7 +18098,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 1960
+      "UsersEstimate": 1961
     },
     {
       "ID": "ACH12",
@@ -18117,7 +18122,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6862
+      "UsersEstimate": 6863
     },
     {
       "ID": "ACH15",
@@ -18141,7 +18146,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "ACH18",
@@ -18173,7 +18178,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7678
+      "UsersEstimate": 7680
     },
     {
       "ID": "ACH22",
@@ -18245,7 +18250,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "ACH31",
@@ -18284,7 +18289,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16337,
+      "Progressed": 16340,
       "Completed": 98
     }
   ],
@@ -18292,8 +18297,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-12T14:59:31.064813+00:00",
-  "LastChanged_Achievements": "2024-01-13T11:09:19.2928595+00:00",
+  "LastChanged_Achievements": "2024-01-13T12:10:42.7431698+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:12.9251558+00:00",
-  "LastUpdate_Ratings": "2024-01-13T10:59:06.0914046+00:00",
-  "LastUpdate_Achievements": "2024-01-13T11:09:19.2929729+00:00"
+  "LastUpdate_Ratings": "2024-01-13T12:00:15.3514213+00:00",
+  "LastUpdate_Achievements": "2024-01-13T12:10:42.7432602+00:00"
 }

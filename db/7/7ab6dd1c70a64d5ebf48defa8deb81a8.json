@@ -91,7 +91,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2288,
+  "EOS_Progressed": 2289,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
@@ -4436,6 +4436,11 @@
       "Time": "2024-01-13T11:09:32.4740169+00:00",
       "NumProgressed": 2288,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-13T12:10:59.026368+00:00",
+      "NumProgressed": 2289,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4445,9 +4450,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1465
     },
     {
       "ID": "ACH_02",
@@ -4559,7 +4564,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_16",
@@ -4567,7 +4572,7 @@
       "Name": "Essence Blow",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACH_17",
@@ -4679,7 +4684,7 @@
       "Name": "Alchemist",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACH_31",
@@ -4687,7 +4692,7 @@
       "Name": "Stone Collection",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_33",
@@ -4734,7 +4739,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2288,
+      "Progressed": 2289,
       "Completed": 3
     }
   ],
@@ -4742,8 +4747,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-11T14:57:15.6904807+00:00",
-  "LastChanged_Achievements": "2024-01-13T11:09:32.4740165+00:00",
+  "LastChanged_Achievements": "2024-01-13T12:10:59.0263677+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-13T10:58:01.8473098+00:00",
-  "LastUpdate_Achievements": "2024-01-13T11:09:32.474059+00:00"
+  "LastUpdate_Ratings": "2024-01-13T11:58:44.9107299+00:00",
+  "LastUpdate_Achievements": "2024-01-13T12:10:59.0264284+00:00"
 }

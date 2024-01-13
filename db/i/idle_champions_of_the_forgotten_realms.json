@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9473,10 +9473,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33470,
       "NumberOfAwardsMax": 5774
+    },
+    {
+      "Time": "2024-01-13T12:01:11.8810868+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33473,
+      "NumberOfAwardsMax": 5774
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33470,
+  "NumberOfAwards": 33473,
   "NumberOfAwardsMax": 5774,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9502,7 +9508,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4777
+      "Count": 4780
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9523,9 +9529,9 @@
       "Count": 3635
     }
   ],
-  "EOS_Progressed": 253668,
+  "EOS_Progressed": 253680,
   "EOS_Completed": 2616,
-  "EOS_NewPlayers": 1770,
+  "EOS_NewPlayers": 1763,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39913,6 +39919,11 @@
       "Time": "2024-01-13T11:09:42.8908886+00:00",
       "NumProgressed": 253668,
       "NumCompleted": 2616
+    },
+    {
+      "Time": "2024-01-13T12:11:11.1460737+00:00",
+      "NumProgressed": 253680,
+      "NumCompleted": 2616
     }
   ],
   "TotalAchievements": 546,
@@ -40226,9 +40237,9 @@
       "ID": "objective_completed_109",
       "SetID": "cc37lbc",
       "Name": "The Silken Swamp",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 761
     },
     {
       "ID": "objective_completed_1090",
@@ -40292,7 +40303,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5073
+      "UsersEstimate": 5074
     },
     {
       "ID": "objective_completed_110",
@@ -41596,7 +41607,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5073
+      "UsersEstimate": 5074
     },
     {
       "ID": "objective_completed_34",
@@ -44291,21 +44302,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219942,
+      "Progressed": 219954,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253668,
+      "Progressed": 253680,
       "Completed": 2616
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-13T01:47:54.4425243+00:00",
-  "LastChanged_Achievements": "2024-01-13T11:09:42.8908881+00:00",
+  "LastChanged": "2024-01-13T12:01:11.8810866+00:00",
+  "LastChanged_Achievements": "2024-01-13T12:11:11.1460734+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-13T10:59:43.5040141+00:00",
-  "LastUpdate_Achievements": "2024-01-13T11:09:42.8932367+00:00"
+  "LastUpdate_Ratings": "2024-01-13T12:01:11.8810874+00:00",
+  "LastUpdate_Achievements": "2024-01-13T12:11:11.1484957+00:00"
 }

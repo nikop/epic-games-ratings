@@ -8,7 +8,7 @@ Number of Ratings: 85  (23.09.2022)
 | ---- | ---------- | ----- |
 | Shop Til They Drop | 77.00% | ~363 |
 | Kaijuiced | 71.00% | ~335 |
-| Lie Back and Think of Albion | 65.00% | ~307 |
+| Lie Back and Think of Albion | 66.00% | ~312 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 64.00% | ~302 |
 | I Look Up As I Walk to Takoshima | 60.00% | ~283 |
 | Yettisoned | 58.00% | ~274 |
@@ -24,7 +24,7 @@ Number of Ratings: 85  (23.09.2022)
 | Upgreatest | 35.00% | ~165 |
 | Deincarnated | 29.00% | ~137 |
 | Furon Fashion | 29.00% | ~137 |
-| Rock of the Bay | 27.00% | ~127 |
+| Rock of the Bay | 28.00% | ~132 |
 | Trans-Siberian Express | 25.00% | ~118 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~94 |
 | Arkvoodle Doodle | 18.00% | ~85 |

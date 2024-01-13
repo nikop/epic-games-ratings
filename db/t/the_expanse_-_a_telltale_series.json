@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18934,
+  "EOS_Progressed": 18935,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 559,
+  "EOS_NewPlayers": 553,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17223,6 +17223,11 @@
       "Time": "2024-01-13T11:03:46.3998261+00:00",
       "NumProgressed": 18934,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2024-01-13T12:04:46.2021745+00:00",
+      "NumProgressed": 18935,
+      "NumCompleted": 64
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17251,7 +17256,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2462
     },
     {
       "ID": "12",
@@ -17315,7 +17320,7 @@
       "Name": "Martian Music",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2462
     },
     {
       "ID": "2",
@@ -17339,7 +17344,7 @@
       "Name": "Drone Dodger",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2462
     },
     {
       "ID": "22",
@@ -17379,7 +17384,7 @@
       "Name": "Call it Even",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "27",
@@ -17387,7 +17392,7 @@
       "Name": "Bosmang",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2462
     },
     {
       "ID": "28",
@@ -17467,7 +17472,7 @@
       "Name": "Impossible Objects",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2462
     },
     {
       "ID": "31",
@@ -17514,13 +17519,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18934,
+      "Progressed": 18935,
       "Completed": 64
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4888,
+      "Progressed": 4889,
       "Completed": 1305
     }
   ],
@@ -17528,8 +17533,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-11T01:50:11.8166633+00:00",
-  "LastChanged_Achievements": "2024-01-13T11:03:46.3998256+00:00",
+  "LastChanged_Achievements": "2024-01-13T12:04:46.2021739+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-13T10:57:27.018874+00:00",
-  "LastUpdate_Achievements": "2024-01-13T11:03:46.3999217+00:00"
+  "LastUpdate_Ratings": "2024-01-13T11:57:53.6354724+00:00",
+  "LastUpdate_Achievements": "2024-01-13T12:04:46.2022895+00:00"
 }

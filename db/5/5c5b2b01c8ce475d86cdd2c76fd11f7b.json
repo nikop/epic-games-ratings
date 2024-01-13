@@ -2,9 +2,9 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_EOS_Progress": 511,
+  "Ranking_EOS_Progress": 507,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 86,
+  "EOS_Progressed": 87,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -449,6 +449,11 @@
       "Time": "2024-01-13T09:03:58.5810147+00:00",
       "NumProgressed": 86,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T12:04:09.5399737+00:00",
+      "NumProgressed": 87,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.7079864+00:00",
@@ -459,9 +464,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "7on801h",
       "Name": "We Are Human Beings",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -475,7 +480,7 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "7on801h",
       "Name": "Singh No Swan Song",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 29
     },
@@ -755,7 +760,7 @@
       "ID": "NEW_ACHIEVEMENT_2_14",
       "SetID": "7on801h",
       "Name": "Fresh Out of the Package",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -923,7 +928,7 @@
       "ID": "NEW_ACHIEVEMENT_2_5",
       "SetID": "7on801h",
       "Name": "The Golden Ticket",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -1108,20 +1113,20 @@
     {
       "ID": "7on801h",
       "IsBase": true,
-      "Progressed": 86,
+      "Progressed": 87,
       "Completed": 0
     },
     {
       "ID": "o6aioj",
       "IsBase": false,
-      "Progressed": 86,
+      "Progressed": 87,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2024-01-13T11:03:19.1515512+00:00",
+  "LastChanged_Achievements": "2024-01-13T12:04:09.5399732+00:00",
   "LastUpdate_AppInfo": "2024-01-10T17:57:06.6884705+00:00",
-  "LastUpdate_Ratings": "2024-01-13T10:58:24.0435485+00:00",
-  "LastUpdate_Achievements": "2024-01-13T11:03:19.1516146+00:00"
+  "LastUpdate_Ratings": "2024-01-13T11:59:17.5183027+00:00",
+  "LastUpdate_Achievements": "2024-01-13T12:04:09.5400551+00:00"
 }

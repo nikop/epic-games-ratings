@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17822,
+  "EOS_Progressed": 17823,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
@@ -18300,6 +18300,11 @@
       "Time": "2024-01-13T11:03:35.9853525+00:00",
       "NumProgressed": 17822,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-13T12:04:31.8763614+00:00",
+      "NumProgressed": 17823,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18399,7 +18404,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5881
+      "UsersEstimate": 5882
     },
     {
       "ID": "tpote_achievement_20",
@@ -18415,7 +18420,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5168
+      "UsersEstimate": 5169
     },
     {
       "ID": "tpote_achievement_22",
@@ -18423,7 +18428,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3564
+      "UsersEstimate": 3565
     },
     {
       "ID": "tpote_achievement_23",
@@ -18631,22 +18636,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6059
+      "UsersEstimate": 6060
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17822,
+      "Progressed": 17823,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-13T11:03:35.9853522+00:00",
+  "LastChanged_Achievements": "2024-01-13T12:04:31.876361+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:38.8316794+00:00",
-  "LastUpdate_Ratings": "2024-01-13T11:02:44.3006869+00:00",
-  "LastUpdate_Achievements": "2024-01-13T11:03:35.9854665+00:00"
+  "LastUpdate_Ratings": "2024-01-13T12:03:18.9317383+00:00",
+  "LastUpdate_Achievements": "2024-01-13T12:04:31.8764581+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1297,
+  "EOS_Progressed": 1298,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -3382,6 +3382,11 @@
       "Time": "2024-01-13T05:05:41.7349254+00:00",
       "NumProgressed": 1297,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T12:06:43.4906515+00:00",
+      "NumProgressed": 1298,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3538,7 +3543,7 @@
       "Name": "Met the Enemy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "CompleteChapter3",
@@ -3570,7 +3575,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "CompleteChapter7",
@@ -3578,7 +3583,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "CompleteChapter8",
@@ -3586,7 +3591,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "CompleteChapter9",
@@ -3689,14 +3694,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1297,
+      "Progressed": 1298,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-13T11:05:13.8449267+00:00",
+  "LastChanged_Achievements": "2024-01-13T12:06:43.490651+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:08.1219888+00:00",
-  "LastUpdate_Ratings": "2024-01-13T10:57:15.3892385+00:00",
-  "LastUpdate_Achievements": "2024-01-13T11:05:13.8449671+00:00"
+  "LastUpdate_Ratings": "2024-01-13T11:57:37.6890002+00:00",
+  "LastUpdate_Achievements": "2024-01-13T12:06:43.4906871+00:00"
 }

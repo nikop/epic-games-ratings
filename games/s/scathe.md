@@ -35,7 +35,7 @@
 | Rage Quit | 0.20% | ~1 |
 | Until Dusk | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 661 (Ranked 336)  
+Progressed: 662 (Ranked 336)  
 Completed: 1 (0.15%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,6 +218,7 @@ Completed: 1 (0.15%) (Ranked 291)
 | 2024-01-10 | 646 | 1 |
 | 2024-01-11 | 651 | 1 |
 | 2024-01-12 | 661 | 1 |
+| 2024-01-13 | 662 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

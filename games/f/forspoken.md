@@ -5,13 +5,13 @@ Rating: 4.15 (Ranked 1,001)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 13.00% | ~6,132 |
+| Attachments | 13.00% | ~6,133 |
 | Unlocked Potential | 12.00% | ~5,661 |
-| Tinkerer | 9.00% | ~4,245 |
+| Tinkerer | 9.00% | ~4,246 |
+| Leapfrogger | 8.00% | ~3,774 |
 | Knock 'Em Dead | 8.00% | ~3,774 |
 | Pilgrimage: Initiate | 8.00% | ~3,774 |
 | Hell of a Run | 8.00% | ~3,774 |
-| Leapfrogger | 7.00% | ~3,302 |
 | Call of the Fount: Baptized | 7.00% | ~3,302 |
 | No Mercy | 6.00% | ~2,830 |
 | Explorer: Seeker | 6.00% | ~2,830 |
@@ -23,13 +23,13 @@ Rating: 4.15 (Ranked 1,001)
 | Damned If You Do... | 3.00% | ~1,415 |
 | Hop, Step, Jump | 3.00% | ~1,415 |
 | Endless Runner | 3.00% | ~1,415 |
-| What Must Be Done | 2.00% | ~943 |
-| Might and Main | 2.00% | ~943 |
-| The Hue of Blue | 2.00% | ~943 |
-| Breaking Point | 2.00% | ~943 |
-| Explorer: Pathfinder | 2.00% | ~943 |
-| Shocker | 2.00% | ~943 |
-| From Every Angle | 2.00% | ~943 |
+| What Must Be Done | 2.00% | ~944 |
+| Might and Main | 2.00% | ~944 |
+| The Hue of Blue | 2.00% | ~944 |
+| Breaking Point | 2.00% | ~944 |
+| Explorer: Pathfinder | 2.00% | ~944 |
+| Shocker | 2.00% | ~944 |
+| From Every Angle | 2.00% | ~944 |
 | The Truth Will Out | 1.00% | ~472 |
 | None the Wiser | 1.00% | ~472 |
 | Forspoken | 1.00% | ~472 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 1,001)
 | Remembrance | 0.10% | ~47 |
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,172 (Ranked 127)  
+Progressed: 47,175 (Ranked 127)  
 Completed: 4 (0.01%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 4 (0.01%) (Ranked 375)
 | 2024-01-10 | 47,035 | 4 |
 | 2024-01-11 | 47,103 | 4 |
 | 2024-01-12 | 47,151 | 4 |
-| 2024-01-13 | 47,172 | 4 |
+| 2024-01-13 | 47,175 | 4 |
 ## Awards
 Max (Character Customization): 51  (Ranked 456)  
 Sum: 74 (Ranked 487)  

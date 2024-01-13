@@ -4,7 +4,7 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 384,
+  "Ranking_EOS_NewPlayers": 385,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -645,9 +645,9 @@
       "ID": "Achievement19",
       "SetID": "jf6ho5",
       "Name": "Corwid Hill",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "Achievement2",
@@ -742,8 +742,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-01-13T11:09:30.0709488+00:00",
+  "LastChanged_Achievements": "2024-01-13T12:10:56.1296956+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:53.0986152+00:00",
-  "LastUpdate_Ratings": "2024-01-13T10:58:40.6467064+00:00",
-  "LastUpdate_Achievements": "2024-01-13T11:09:30.0709692+00:00"
+  "LastUpdate_Ratings": "2024-01-13T11:59:40.1072448+00:00",
+  "LastUpdate_Achievements": "2024-01-13T12:10:56.1297146+00:00"
 }

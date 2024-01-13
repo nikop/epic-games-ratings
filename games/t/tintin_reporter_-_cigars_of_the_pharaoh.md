@@ -4,45 +4,45 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 79.00% | ~105 |
-| A Loyal Friend | 43.00% | ~57 |
+| My Papyrus! | 78.00% | ~105 |
+| A Loyal Friend | 43.00% | ~58 |
 | Abandon Ship! | 32.00% | ~43 |
-| The Tomb of Kih-Oskh | 29.00% | ~39 |
+| The Tomb of Kih-Oskh | 28.00% | ~38 |
 | The Weighing of the Soul | 26.00% | ~35 |
-| The Curse of Kih-Oskh | 20.00% | ~27 |
-| It's a Deal! | 17.00% | ~23 |
+| The Curse of Kih-Oskh | 19.00% | ~25 |
+| It's a Deal! | 16.00% | ~21 |
 | Cat Lover | 13.00% | ~17 |
 | Dynamite, Treason and Coconuts | 13.00% | ~17 |
 | In the Name of the Law | 12.00% | ~16 |
 | Au Revoir, Abudin | 12.00% | ~16 |
 | Save a Friend | 12.00% | ~16 |
-| Mysterious Bungalow | 11.00% | ~15 |
+| Mysterious Bungalow | 10.00% | ~13 |
 | The Eyes! | 10.00% | ~13 |
 | Punctual | 10.00% | ~13 |
 | Keep the Doctor Away | 8.00% | ~11 |
 | Just a Palm Tree | 8.00% | ~11 |
-| Under the Hood | 8.00% | ~11 |
-| Long Live Gaipajama! | 8.00% | ~11 |
 | Eyes Shut | 8.00% | ~11 |
-| Barking Dog | 8.00% | ~11 |
+| Under the Hood | 7.00% | ~9 |
+| Long Live Gaipajama! | 7.00% | ~9 |
 | Mummy Nightmare | 7.00% | ~9 |
+| Barking Dog | 7.00% | ~9 |
 | Tintin, Reporter | 6.00% | ~8 |
-| Mountain Runner | 5.00% | ~7 |
 | Subtlety | 5.00% | ~7 |
+| Mountain Runner | 4.00% | ~5 |
 | A Yummy Detour | 3.00% | ~4 |
 | The Corporal's Golden Boy | 2.00% | ~3 |
-| A Diagnosis | 2.00% | ~3 |
 | Jungle Runner | 2.00% | ~3 |
-| The Pharaoh's New Clothes | 2.00% | ~3 |
 | Guilt | 2.00% | ~3 |
 | Threat | 2.00% | ~3 |
-| Trials of Kih-Oskh | 0.80% | ~1 |
-| Broken Brotherhood | 0.80% | ~1 |
+| A Diagnosis | 1.00% | ~1 |
+| The Pharaoh's New Clothes | 1.00% | ~1 |
+| Trials of Kih-Oskh | 0.70% | ~1 |
+| Broken Brotherhood | 0.70% | ~1 |
 | Cookie Accomplished | 0.00% | ~0 |
 | Flying Ace | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133 (Ranked 479)  
+Progressed: 134 (Ranked 478)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,3 +95,4 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-09 | 128 | 0 |
 | 2024-01-10 | 131 | 0 |
 | 2024-01-11 | 133 | 0 |
+| 2024-01-13 | 134 | 0 |
