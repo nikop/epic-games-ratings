@@ -5073,9 +5073,9 @@
       "Count": 604
     }
   ],
-  "EOS_Progressed": 23690,
+  "EOS_Progressed": 23691,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2157,
+  "EOS_NewPlayers": 2141,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16208,6 +16208,11 @@
       "Time": "2024-01-13T02:31:21.7571315+00:00",
       "NumProgressed": 23690,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-13T03:08:54.503746+00:00",
+      "NumProgressed": 23691,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -16260,7 +16265,7 @@
       "Name": "Titan",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 15635
+      "UsersEstimate": 15636
     },
     {
       "ID": "ach07",
@@ -16268,7 +16273,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 10660
+      "UsersEstimate": 10661
     },
     {
       "ID": "ach08",
@@ -16292,7 +16297,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "ach11",
@@ -16316,7 +16321,7 @@
       "Name": "Making Friends Is Easy",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3790
+      "UsersEstimate": 3791
     },
     {
       "ID": "ach14",
@@ -16444,7 +16449,7 @@
       "Name": "Unstoppable",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3790
+      "UsersEstimate": 3791
     },
     {
       "ID": "ach30",
@@ -16476,7 +16481,7 @@
       "Name": "Vanquished",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "ach34",
@@ -16508,7 +16513,7 @@
       "Name": "ABACABB",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 10897
+      "UsersEstimate": 10898
     },
     {
       "ID": "ach38",
@@ -16596,7 +16601,7 @@
       "Name": "Total Disrespect",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3790
+      "UsersEstimate": 3791
     },
     {
       "ID": "ach49",
@@ -16604,7 +16609,7 @@
       "Name": "Thank You For Being A Fan!!!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "ach50",
@@ -16619,7 +16624,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 23690,
+      "Progressed": 23691,
       "Completed": 2
     }
   ],
@@ -16627,8 +16632,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-13T01:50:20.707602+00:00",
-  "LastChanged_Achievements": "2024-01-13T02:31:21.7571313+00:00",
+  "LastChanged_Achievements": "2024-01-13T03:08:54.5037454+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:13.6187018+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:25:46.2883295+00:00",
-  "LastUpdate_Achievements": "2024-01-13T02:31:21.7572274+00:00"
+  "LastUpdate_Ratings": "2024-01-13T03:02:58.5261675+00:00",
+  "LastUpdate_Achievements": "2024-01-13T03:08:54.503825+00:00"
 }

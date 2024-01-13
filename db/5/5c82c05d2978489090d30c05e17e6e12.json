@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74814,
+  "EOS_Progressed": 74820,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 1413,
+  "EOS_NewPlayers": 1412,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -7104,6 +7104,11 @@
       "Time": "2024-01-13T02:31:18.9894323+00:00",
       "NumProgressed": 74814,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2024-01-13T03:08:51.5607151+00:00",
+      "NumProgressed": 74820,
+      "NumCompleted": 120
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -7116,7 +7121,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27681
+      "UsersEstimate": 27683
     },
     {
       "ID": "Achievement_10",
@@ -7204,7 +7209,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20948
+      "UsersEstimate": 20950
     },
     {
       "ID": "Achievement_20",
@@ -7340,7 +7345,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6733
+      "UsersEstimate": 6734
     },
     {
       "ID": "Achievement_5",
@@ -7364,7 +7369,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2244
+      "UsersEstimate": 2245
     },
     {
       "ID": "Achievement_8",
@@ -7372,7 +7377,7 @@
       "Name": "House In Order",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2244
+      "UsersEstimate": 2245
     },
     {
       "ID": "Achievement_9",
@@ -7387,7 +7392,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 74814,
+      "Progressed": 74820,
       "Completed": 120
     }
   ],
@@ -7395,8 +7400,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-09T18:03:16.5676566+00:00",
-  "LastChanged_Achievements": "2024-01-13T02:31:18.989432+00:00",
+  "LastChanged_Achievements": "2024-01-13T03:08:51.5607147+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:28.0983464+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:26:00.190042+00:00",
-  "LastUpdate_Achievements": "2024-01-13T02:31:18.9894912+00:00"
+  "LastUpdate_Ratings": "2024-01-13T03:03:13.4112733+00:00",
+  "LastUpdate_Achievements": "2024-01-13T03:08:51.5607731+00:00"
 }

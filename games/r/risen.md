@@ -36,8 +36,8 @@ Rating: 4.56 (Ranked 511)
 | Defender | 11.00% | ~21 |
 | Showdown | 11.00% | ~21 |
 | Workaholic | 10.00% | ~20 |
+| Safecracker | 10.00% | ~20 |
 | Titan Lord | 9.00% | ~18 |
-| Safecracker | 9.00% | ~18 |
 | Master thief | 9.00% | ~18 |
 | Freedom fighter | 8.00% | ~16 |
 | Expert | 7.00% | ~14 |

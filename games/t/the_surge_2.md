@@ -53,9 +53,9 @@ Rating: 4.26 (Ranked 917)
 | Geronimo! | 4.00% | ~103 |
 | Homewrecker | 4.00% | ~103 |
 | Plank of Wood | 4.00% | ~103 |
+| Gotta Craft 'em All | 3.00% | ~77 |
 | Own Medicine | 2.00% | ~52 |
 | It Lives! It Sniffs! It Conquers! | 2.00% | ~52 |
-| Gotta Craft 'em All | 2.00% | ~52 |
 | Box Office Smash | 2.00% | ~52 |
 | Going Postal | 2.00% | ~52 |
 | Loot, Pillage & Craft | 2.00% | ~52 |

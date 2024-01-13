@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 93097,
+  "EOS_Progressed": 93098,
   "EOS_Completed": 338,
-  "EOS_NewPlayers": 681,
+  "EOS_NewPlayers": 680,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -17711,6 +17711,11 @@
       "Time": "2024-01-13T02:27:13.3653793+00:00",
       "NumProgressed": 93097,
       "NumCompleted": 338
+    },
+    {
+      "Time": "2024-01-13T03:04:27.9303987+00:00",
+      "NumProgressed": 93098,
+      "NumCompleted": 338
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -17731,7 +17736,7 @@
       "Name": "The early bird gets the beet",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 18619
+      "UsersEstimate": 18620
     },
     {
       "ID": "grp_collect_ruby",
@@ -17811,7 +17816,7 @@
       "Name": "Investing in BirdCoin",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 50272
+      "UsersEstimate": 50273
     },
     {
       "ID": "grp_money_tree",
@@ -17819,7 +17824,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 68892
+      "UsersEstimate": 68893
     },
     {
       "ID": "grp_speed",
@@ -17858,7 +17863,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 93097,
+      "Progressed": 93098,
       "Completed": 338
     }
   ],
@@ -17866,8 +17871,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2024-01-11T13:59:21.7305428+00:00",
-  "LastChanged_Achievements": "2024-01-13T02:27:13.365379+00:00",
+  "LastChanged_Achievements": "2024-01-13T03:04:27.9303982+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:12.4453179+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:22:33.1110327+00:00",
-  "LastUpdate_Achievements": "2024-01-13T02:27:13.3654742+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:59:34.1704251+00:00",
+  "LastUpdate_Achievements": "2024-01-13T03:04:27.9304783+00:00"
 }

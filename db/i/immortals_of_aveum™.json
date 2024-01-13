@@ -459,9 +459,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3382,
+  "EOS_Progressed": 3383,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5384,6 +5384,11 @@
       "Time": "2024-01-13T02:32:37.3746962+00:00",
       "NumProgressed": 3382,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-13T03:10:09.6492139+00:00",
+      "NumProgressed": 3383,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5396,7 +5401,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2976
+      "UsersEstimate": 2977
     },
     {
       "ID": "achievement_10",
@@ -5444,7 +5449,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "achievement_16",
@@ -5452,7 +5457,7 @@
       "Name": "Recruit",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "achievement_17",
@@ -5484,7 +5489,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2739
+      "UsersEstimate": 2740
     },
     {
       "ID": "achievement_20",
@@ -5572,7 +5577,7 @@
       "Name": "No More Names",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "achievement_41",
@@ -5771,7 +5776,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3382,
+      "Progressed": 3383,
       "Completed": 4
     }
   ],
@@ -5779,8 +5784,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-12T19:59:42.6787305+00:00",
-  "LastChanged_Achievements": "2024-01-13T02:32:37.374696+00:00",
+  "LastChanged_Achievements": "2024-01-13T03:10:09.6492134+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8440656+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:22:34.4773223+00:00",
-  "LastUpdate_Achievements": "2024-01-13T02:32:37.3747503+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:59:35.4738783+00:00",
+  "LastUpdate_Achievements": "2024-01-13T03:10:09.6492637+00:00"
 }

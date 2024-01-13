@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -1324,9 +1324,9 @@
       "ID": "id_54",
       "SetID": "bk9jib6",
       "Name": "Safecracker",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "id_55",
@@ -1445,8 +1445,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-07T05:57:14.1879387+00:00",
-  "LastChanged_Achievements": "2024-01-13T02:32:42.8228422+00:00",
+  "LastChanged_Achievements": "2024-01-13T03:10:15.3180355+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:37.3559183+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:22:56.4132255+00:00",
-  "LastUpdate_Achievements": "2024-01-13T02:32:42.8228913+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:59:58.5926919+00:00",
+  "LastUpdate_Achievements": "2024-01-13T03:10:15.3180716+00:00"
 }

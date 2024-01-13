@@ -2824,9 +2824,9 @@
       "ID": "ach_main16ring_completed",
       "SetID": "4hg22ll",
       "Name": "Doom Hill",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 244
     },
     {
       "ID": "ach_main16ring_lavalings",
@@ -2840,9 +2840,9 @@
       "ID": "ach_main16ring_spawners",
       "SetID": "4hg22ll",
       "Name": "Rubble and Ashes",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 175
     },
     {
       "ID": "ach_main17stone_completed",
@@ -2953,8 +2953,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-08T17:59:07.5685099+00:00",
-  "LastChanged_Achievements": "2024-01-13T02:31:58.426381+00:00",
+  "LastChanged_Achievements": "2024-01-13T03:09:31.0753593+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:19:49.4232894+00:00",
-  "LastUpdate_Achievements": "2024-01-13T02:31:58.4264349+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:56:55.4595339+00:00",
+  "LastUpdate_Achievements": "2024-01-13T03:09:31.0754236+00:00"
 }

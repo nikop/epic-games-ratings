@@ -4,7 +4,7 @@
   "ProductSlug": "old-world",
   "Ranking_Rating": 321,
   "Ranking_Popularity": 287,
-  "Ranking_PopularitySum": 224,
+  "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 357,
   "Ranking_EOS_NewPlayers": 154,
@@ -2182,10 +2182,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1923,
       "NumberOfAwardsMax": 230
+    },
+    {
+      "Time": "2024-01-13T02:58:46.3125043+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1925,
+      "NumberOfAwardsMax": 230
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1923,
+  "NumberOfAwards": 1925,
   "NumberOfAwardsMax": 230,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2199,7 +2205,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 222
+      "Count": 223
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2241,7 +2247,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 197
+      "Count": 198
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2262,9 +2268,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16567,
+  "EOS_Progressed": 16569,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19792,6 +19798,11 @@
       "Time": "2024-01-13T02:32:50.8451587+00:00",
       "NumProgressed": 16567,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T03:10:23.0574324+00:00",
+      "NumProgressed": 16569,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20641,9 +20652,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_CHAMPIONS",
       "SetID": "7l38kb8",
       "Name": "Champions",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CLERICS",
@@ -21137,9 +21148,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
       "SetID": "9201eeb",
       "Name": "Circus Maximus",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
@@ -21257,9 +21268,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
       "SetID": "9201eeb",
       "Name": "Pantheon",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
@@ -22666,21 +22677,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16567,
+      "Progressed": 16569,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16567,
+      "Progressed": 16569,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-01-13T02:21:38.4369229+00:00",
-  "LastChanged_Achievements": "2024-01-13T02:32:50.8451585+00:00",
+  "LastChanged": "2024-01-13T02:58:46.3125041+00:00",
+  "LastChanged_Achievements": "2024-01-13T03:10:23.0574319+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:21:38.4369234+00:00",
-  "LastUpdate_Achievements": "2024-01-13T02:32:50.8756261+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:58:46.3125046+00:00",
+  "LastUpdate_Achievements": "2024-01-13T03:10:23.0584497+00:00"
 }

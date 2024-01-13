@@ -10,8 +10,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Cavalier | 26.00% | ~212,458 |
 | Fatso | 23.00% | ~187,944 |
 | Awakening | 21.00% | ~171,601 |
-| Ranger | 20.00% | ~163,429 |
-| Scrooge | 20.00% | ~163,429 |
+| Ranger | 20.00% | ~163,430 |
+| Scrooge | 20.00% | ~163,430 |
 | Anorectic | 16.00% | ~130,744 |
 | Firestarter | 16.00% | ~130,744 |
 | Bookworm | 15.00% | ~122,572 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~817 |
 | Wingman | 0.10% | ~817 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 817,147 (Ranked 20)  
+Progressed: 817,148 (Ranked 20)  
 Completed: 53 (0.01%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 53 (0.01%) (Ranked 375)
 | 2024-01-10 | 816,875 | 53 |
 | 2024-01-11 | 817,003 | 53 |
 | 2024-01-12 | 817,138 | 53 |
-| 2024-01-13 | 817,147 | 53 |
+| 2024-01-13 | 817,148 | 53 |
 ## Awards
 Max (Character Customization): 7,775  (Ranked 53)  
 Sum: 28,829 (Ranked 50)  

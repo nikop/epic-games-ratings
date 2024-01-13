@@ -5,20 +5,20 @@ Rating: 4.40 (Ranked 770)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~111,505 |
-| 74 miles East of Otaheité | 56.00% | ~78,053 |
-| Interesting... | 42.00% | ~58,540 |
-| The Everhart Expedition | 40.00% | ~55,752 |
-| The Vanishing of the Lady Shannon | 31.00% | ~43,208 |
-| Seaside Serenade | 31.00% | ~43,208 |
-| Halfway there | 30.00% | ~41,814 |
+| A Family Heirloom | 80.00% | ~111,506 |
+| 74 miles East of Otaheité | 56.00% | ~78,054 |
+| Interesting... | 42.00% | ~58,541 |
+| The Everhart Expedition | 40.00% | ~55,753 |
+| The Vanishing of the Lady Shannon | 31.00% | ~43,209 |
+| Seaside Serenade | 31.00% | ~43,209 |
+| Halfway there | 30.00% | ~41,815 |
 | A brigantine, a brig and a barque | 28.00% | ~39,027 |
 | 506 East Hampden Avenue | 28.00% | ~39,027 |
 | Weekend at Walakea's | 27.00% | ~37,633 |
 | Quite a Show | 27.00% | ~37,633 |
-| Dark Water Ride | 25.00% | ~34,845 |
-| Sunken | 25.00% | ~34,845 |
-| Deep Cut | 24.00% | ~33,451 |
+| Dark Water Ride | 25.00% | ~34,846 |
+| Sunken | 25.00% | ~34,846 |
+| Deep Cut | 24.00% | ~33,452 |
 | FHALGOF'N' | 23.00% | ~32,058 |
 | Marsh Cannery | 21.00% | ~29,270 |
 | Greetings from Y'ha-nthlei! | 18.00% | ~25,089 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 770)
 | Soundcheck | 2.00% | ~2,788 |
 | Meta-reference | 1.00% | ~1,394 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,381 (Ranked 89)  
+Progressed: 139,383 (Ranked 89)  
 Completed: 1,255 (0.90%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 1,255 (0.90%) (Ranked 186)
 | 2024-01-10 | 139,070 | 1,254 |
 | 2024-01-11 | 139,212 | 1,254 |
 | 2024-01-12 | 139,355 | 1,255 |
-| 2024-01-13 | 139,381 | 1,255 |
+| 2024-01-13 | 139,383 | 1,255 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

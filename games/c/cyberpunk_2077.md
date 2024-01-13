@@ -6,49 +6,49 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~125,823 |
-| The Fool | 11.00% | ~115,338 |
-| Right Back At Ya | 9.00% | ~94,367 |
-| Gun Fu | 9.00% | ~94,367 |
-| The Lovers | 8.00% | ~83,882 |
-| Full Body Conversion | 7.00% | ~73,397 |
-| Christmas Tree Attack | 6.00% | ~62,912 |
-| Stanislavski's Method | 6.00% | ~62,912 |
-| The Hermit | 6.00% | ~62,912 |
-| The Wheel of Fortune | 6.00% | ~62,912 |
-| True Soldier | 6.00% | ~62,912 |
-| All the President's Men | 6.00% | ~10,629 |
-| Arachnophobia | 6.00% | ~10,629 |
-| The High Priestess | 5.00% | ~52,426 |
-| Legend of The Afterlife | 5.00% | ~52,426 |
-| Master Crafter | 4.00% | ~41,941 |
-| Life of the Road | 4.00% | ~41,941 |
-| True Warrior | 4.00% | ~41,941 |
-| Bushido and Chill | 3.00% | ~31,456 |
-| I Am The Law | 3.00% | ~31,456 |
-| The Quick and the Dead | 3.00% | ~31,456 |
-| The World | 3.00% | ~31,456 |
-| Two Heads, One Bullet | 3.00% | ~31,456 |
-| Judy vs Night City | 3.00% | ~31,456 |
-| Relic Ruler | 3.00% | ~5,314 |
+| V for Vendetta | 12.00% | ~125,828 |
+| The Fool | 11.00% | ~115,342 |
+| Right Back At Ya | 9.00% | ~94,371 |
+| Gun Fu | 9.00% | ~94,371 |
+| The Lovers | 8.00% | ~83,885 |
+| Full Body Conversion | 7.00% | ~73,400 |
+| Christmas Tree Attack | 6.00% | ~62,914 |
+| Stanislavski's Method | 6.00% | ~62,914 |
+| The Hermit | 6.00% | ~62,914 |
+| The Wheel of Fortune | 6.00% | ~62,914 |
+| True Soldier | 6.00% | ~62,914 |
+| All the President's Men | 6.00% | ~10,631 |
+| Arachnophobia | 6.00% | ~10,631 |
+| The High Priestess | 5.00% | ~52,428 |
+| Legend of The Afterlife | 5.00% | ~52,428 |
+| Master Crafter | 4.00% | ~41,943 |
+| Life of the Road | 4.00% | ~41,943 |
+| True Warrior | 4.00% | ~41,943 |
+| Bushido and Chill | 3.00% | ~31,457 |
+| I Am The Law | 3.00% | ~31,457 |
+| The Quick and the Dead | 3.00% | ~31,457 |
+| The World | 3.00% | ~31,457 |
+| Two Heads, One Bullet | 3.00% | ~31,457 |
+| Judy vs Night City | 3.00% | ~31,457 |
+| Relic Ruler | 3.00% | ~5,316 |
 | To Protect and Serve | 2.00% | ~20,971 |
 | The Wandering Fool | 2.00% | ~20,971 |
 | The Sun | 2.00% | ~20,971 |
-| Spin Doctor | 2.00% | ~3,543 |
-| King of Wands | 2.00% | ~3,543 |
-| Easy Come, Easy Go | 2.00% | ~3,543 |
-| To Bad Decisions! | 1.00% | ~10,485 |
-| Breathtaking | 1.00% | ~10,485 |
-| Ten out of Ten | 1.00% | ~10,485 |
-| The Star | 1.00% | ~10,485 |
-| Dirty Deeds | 1.00% | ~1,771 |
+| Spin Doctor | 2.00% | ~3,544 |
+| King of Wands | 2.00% | ~3,544 |
+| Easy Come, Easy Go | 2.00% | ~3,544 |
+| To Bad Decisions! | 1.00% | ~10,486 |
+| Breathtaking | 1.00% | ~10,486 |
+| Ten out of Ten | 1.00% | ~10,486 |
+| The Star | 1.00% | ~10,486 |
+| Dirty Deeds | 1.00% | ~1,772 |
 | Autojock | 0.90% | ~9,437 |
-| The APB is Not Enough | 0.90% | ~1,594 |
-| Judgement Day | 0.90% | ~1,594 |
-| The Tower | 0.90% | ~1,594 |
-| Must Be Rats | 0.80% | ~8,388 |
-| Temperance | 0.80% | ~8,388 |
-| King of Swords | 0.80% | ~1,417 |
+| The APB is Not Enough | 0.90% | ~1,595 |
+| Judgement Day | 0.90% | ~1,595 |
+| The Tower | 0.90% | ~1,595 |
+| Must Be Rats | 0.80% | ~8,389 |
+| Temperance | 0.80% | ~8,389 |
+| King of Swords | 0.80% | ~1,418 |
 | King of Pentacles | 0.70% | ~1,240 |
 | King of Cups | 0.50% | ~886 |
 | City Lights | 0.40% | ~4,194 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,048,526 (Ranked 17)  
+Progressed: 1,048,568 (Ranked 17)  
 Completed: 3,081 (0.29%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,10 +342,10 @@ Completed: 3,081 (0.29%) (Ranked 261)
 | 2024-01-10 | 1,044,342 | 3,067 |
 | 2024-01-11 | 1,046,687 | 3,071 |
 | 2024-01-12 | 1,048,338 | 3,079 |
-| 2024-01-13 | 1,048,526 | 3,081 |
+| 2024-01-13 | 1,048,568 | 3,081 |
 ## Awards
 Max (Character Customization): 138,203  (Ranked 8)  
-Sum: 487,581 (Ranked 8)  
+Sum: 487,768 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -355,7 +355,7 @@ Diff (max vs sum): 0
 | This game has Diverse Characters | 30,212 |
 | This game is Highly Recommended | 28,864 |
 | This game has Amazing Storytelling | 28,334 |
-| This game is Extremely Fun | 28,003 |
+| This game is Extremely Fun | 28,190 |
 | This game has Amazing Characters | 27,919 |
 | This game is Relaxing | 27,045 |
 | This game has Quickly Understood Controls | 26,872 |
@@ -722,4 +722,4 @@ Diff (max vs sum): 0
 | 2024-01-10 | 4.67 | - | 136,867 | 482,007 |
 | 2024-01-11 | 4.67 | - | 137,500 | 484,717 |
 | 2024-01-12 | 4.67 | - | 138,203 | 487,257 |
-| 2024-01-13 | 4.67 | - | 138,203 | 487,581 |
+| 2024-01-13 | 4.67 | - | 138,203 | 487,768 |

@@ -1008,9 +1008,9 @@
       "ID": "ACHIEVEMENT022",
       "SetID": "dejhjd5",
       "Name": "Arms Master",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 144
     },
     {
       "ID": "ACHIEVEMENT023",
@@ -1248,8 +1248,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2024-01-13T02:31:44.3324793+00:00",
+  "LastChanged_Achievements": "2024-01-13T03:09:17.4285589+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:40.9292398+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:22:01.7875066+00:00",
-  "LastUpdate_Achievements": "2024-01-13T02:31:44.3325136+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:59:04.7545625+00:00",
+  "LastUpdate_Achievements": "2024-01-13T03:09:17.4285956+00:00"
 }

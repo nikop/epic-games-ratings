@@ -1,7 +1,7 @@
 # Darksiders Genesis
 [Store](https://store.epicgames.com/en-US/p/darksiders-genesis)  
 [View Rawdata](../../db/d/darksiders_genesis.json)  
-Rating: 4.49 (Ranked 639)  
+Rating: 4.49 (Ranked 640)  
 Number of Ratings: 67  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Moloch | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 626 (Ranked 340)  
+Progressed: 627 (Ranked 340)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-10 | 595 | 0 |
 | 2024-01-11 | 611 | 0 |
 | 2024-01-12 | 623 | 0 |
-| 2024-01-13 | 626 | 0 |
+| 2024-01-13 | 627 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 473)  
 Sum: 45 (Ranked 520)  

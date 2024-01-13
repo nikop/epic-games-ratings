@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 139381,
+  "EOS_Progressed": 139383,
   "EOS_Completed": 1255,
-  "EOS_NewPlayers": 1198,
+  "EOS_NewPlayers": 1194,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -30955,6 +30955,11 @@
       "Time": "2024-01-13T02:27:49.1365558+00:00",
       "NumProgressed": 139381,
       "NumCompleted": 1255
+    },
+    {
+      "Time": "2024-01-13T03:05:03.333227+00:00",
+      "NumProgressed": 139383,
+      "NumCompleted": 1255
     }
   ],
   "TotalAchievements": 34,
@@ -30982,7 +30987,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 58540
+      "UsersEstimate": 58541
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -30990,7 +30995,7 @@
       "Name": "Halfway there",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 41814
+      "UsersEstimate": 41815
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -31022,7 +31027,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 111505
+      "UsersEstimate": 111506
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -31038,7 +31043,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 78053
+      "UsersEstimate": 78054
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -31054,7 +31059,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 55752
+      "UsersEstimate": 55753
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -31078,7 +31083,7 @@
       "Name": "The Vanishing of the Lady Shannon",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 43208
+      "UsersEstimate": 43209
     },
     {
       "ID": "ACH_L03_BLACKBEACH_OBJ",
@@ -31094,7 +31099,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 43208
+      "UsersEstimate": 43209
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -31174,7 +31179,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 34845
+      "UsersEstimate": 34846
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -31182,7 +31187,7 @@
       "Name": "Sunken",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 34845
+      "UsersEstimate": 34846
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -31214,7 +31219,7 @@
       "Name": "Deep Cut",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 33451
+      "UsersEstimate": 33452
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -31237,7 +31242,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 139381,
+      "Progressed": 139383,
       "Completed": 1255
     }
   ],
@@ -31245,8 +31250,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2024-01-10T13:04:20.7610519+00:00",
-  "LastChanged_Achievements": "2024-01-13T02:27:49.1365555+00:00",
+  "LastChanged_Achievements": "2024-01-13T03:05:03.3332265+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:31.1133234+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:22:26.8437652+00:00",
-  "LastUpdate_Achievements": "2024-01-13T02:27:49.1367239+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:59:27.5531031+00:00",
+  "LastUpdate_Achievements": "2024-01-13T03:05:03.3333761+00:00"
 }

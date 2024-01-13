@@ -9,10 +9,10 @@ Rating: 4.22 (Ranked 954)
 | Flesh Wound | 26.00% | ~5,784 |
 | Desperate Times | 25.00% | ~5,562 |
 | Paper Jams | 23.00% | ~5,117 |
-| Get a Grip | 22.00% | ~4,894 |
+| Get a Grip | 22.00% | ~4,895 |
 | Chew 'Em Up | 21.00% | ~4,672 |
 | Reforged | 19.00% | ~4,227 |
-| Float Like A Butterfly | 18.00% | ~4,004 |
+| Float Like A Butterfly | 18.00% | ~4,005 |
 | Workplace Hazard | 17.00% | ~3,782 |
 | If the SHU Fits... | 17.00% | ~3,782 |
 | Without A Paddle | 14.00% | ~3,115 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 954)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,247 (Ranked 151)  
+Progressed: 22,248 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 82 (0.37%) (Ranked 245)
 | 2024-01-10 | 22,053 | 82 |
 | 2024-01-11 | 22,169 | 82 |
 | 2024-01-12 | 22,235 | 82 |
-| 2024-01-13 | 22,247 | 82 |
+| 2024-01-13 | 22,248 | 82 |
 ## Awards
 Max (Amazing Characters): 131  (Ranked 345)  
 Sum: 641 (Ranked 320)  

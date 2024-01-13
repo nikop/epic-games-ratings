@@ -38,8 +38,8 @@ Rating: 4.75 (Ranked 150)
 | Unstoppable Horde | 36.00% | ~274 |
 | Master of the Undead | 36.00% | ~274 |
 | The Finitude Drill | 35.00% | ~267 |
+| Doom Hill | 32.00% | ~244 |
 | Ghost Pirates? Ghost Heroes! | 31.00% | ~236 |
-| Doom Hill | 31.00% | ~236 |
 | Forbidden Knowledge | 30.00% | ~229 |
 | Brimstone Shaken, Not Stirred | 30.00% | ~229 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 29.00% | ~221 |
@@ -51,7 +51,7 @@ Rating: 4.75 (Ranked 150)
 | Bonus Evilness | 26.00% | ~198 |
 | The Rune Sockets of Finitude (Part 2) | 26.00% | ~198 |
 | The Last Stand - This Time For Real! | 25.00% | ~190 |
-| Rubble and Ashes | 22.00% | ~168 |
+| Rubble and Ashes | 23.00% | ~175 |
 | Lavalumps on Ice! | 21.00% | ~160 |
 | My Little Torture Chamber | 19.00% | ~145 |
 | To the Max! | 19.00% | ~145 |

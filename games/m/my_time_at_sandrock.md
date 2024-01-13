@@ -34,7 +34,7 @@ Number of Ratings: 892  (23.09.2022)
 | Builder of the Month | 75.00% | ~663 |
 | Can We Keep It? | 75.00% | ~663 |
 | Bridging the Gap | 73.00% | ~645 |
-| Waste Not Want Not | 70.00% | ~619 |
+| Waste Not Want Not | 71.00% | ~628 |
 | Commissions, commissions...! | 68.00% | ~601 |
 | Elementary, My Dear | 68.00% | ~601 |
 | Got the Flow Back | 67.00% | ~592 |

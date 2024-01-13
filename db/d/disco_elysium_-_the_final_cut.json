@@ -1682,9 +1682,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 138947,
+  "EOS_Progressed": 138948,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 1303,
+  "EOS_NewPlayers": 1299,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28347,6 +28347,11 @@
       "Time": "2024-01-13T02:31:24.4235336+00:00",
       "NumProgressed": 138947,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-13T03:08:57.1651394+00:00",
+      "NumProgressed": 138948,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -28390,7 +28395,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 25010
+      "UsersEstimate": 25011
     },
     {
       "ID": "ACH_COP_BAD",
@@ -28470,7 +28475,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 27789
+      "UsersEstimate": 27790
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -28677,15 +28682,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 138947,
+      "Progressed": 138948,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-11T06:00:50.9656635+00:00",
-  "LastChanged_Achievements": "2024-01-13T02:31:24.4235332+00:00",
+  "LastChanged_Achievements": "2024-01-13T03:08:57.1651389+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.1301003+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:25:26.1539639+00:00",
-  "LastUpdate_Achievements": "2024-01-13T02:31:24.4236603+00:00"
+  "LastUpdate_Ratings": "2024-01-13T03:02:36.6155533+00:00",
+  "LastUpdate_Achievements": "2024-01-13T03:08:57.1652985+00:00"
 }

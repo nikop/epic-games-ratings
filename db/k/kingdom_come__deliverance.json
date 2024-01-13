@@ -10065,9 +10065,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 817147,
+  "EOS_Progressed": 817148,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 1002,
+  "EOS_NewPlayers": 1000,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40345,6 +40345,11 @@
       "Time": "2024-01-13T01:58:35.6724066+00:00",
       "NumProgressed": 817147,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-13T03:10:17.7322284+00:00",
+      "NumProgressed": 817148,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -40836,7 +40841,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163429
+      "UsersEstimate": 163430
     },
     {
       "ID": "RevenantOfLedechko",
@@ -40876,7 +40881,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163429
+      "UsersEstimate": 163430
     },
     {
       "ID": "SerialKiller",
@@ -41011,15 +41016,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 817147,
+      "Progressed": 817148,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2024-01-13T00:01:51.4062723+00:00",
-  "LastChanged_Achievements": "2024-01-13T02:32:45.3403498+00:00",
+  "LastChanged_Achievements": "2024-01-13T03:10:17.7322281+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.1586279+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:23:10.1881273+00:00",
-  "LastUpdate_Achievements": "2024-01-13T02:32:45.3405334+00:00"
+  "LastUpdate_Ratings": "2024-01-13T03:00:12.1036504+00:00",
+  "LastUpdate_Achievements": "2024-01-13T03:10:17.7324277+00:00"
 }

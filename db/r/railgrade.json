@@ -5,7 +5,7 @@
   "Ranking_Rating": 530,
   "Ranking_Popularity": 392,
   "Ranking_PopularitySum": 315,
-  "Ranking_EOS_Progress": 164,
+  "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 3836,
   "Ranking_EOS_NewCompleters": 3837,
@@ -633,9 +633,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 17817,
+  "EOS_Progressed": 17816,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": -99,
+  "EOS_NewPlayers": -100,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12168,6 +12168,11 @@
       "Time": "2024-01-12T23:09:08.0603415+00:00",
       "NumProgressed": 17817,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2024-01-13T03:09:05.4831791+00:00",
+      "NumProgressed": 17816,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 37,
@@ -12219,7 +12224,7 @@
       "Name": "Going the Distance",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 10512
+      "UsersEstimate": 10511
     },
     {
       "ID": "ach.070.8kenough",
@@ -12235,7 +12240,7 @@
       "Name": "Eraser",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 13719
+      "UsersEstimate": 13718
     },
     {
       "ID": "ach.090.perfectionist",
@@ -12275,7 +12280,7 @@
       "Name": "Minimalist",
       "Percentage": 99,
       "XP": 10,
-      "UsersEstimate": 17639
+      "UsersEstimate": 17638
     },
     {
       "ID": "ach.140.legacy",
@@ -12283,7 +12288,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 107,
       "XP": 60,
-      "UsersEstimate": 19064
+      "UsersEstimate": 19063
     },
     {
       "ID": "ach.150.pocket",
@@ -12315,7 +12320,7 @@
       "Name": "Inspector",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 11581
+      "UsersEstimate": 11580
     },
     {
       "ID": "ach.190.scenic",
@@ -12339,7 +12344,7 @@
       "Name": "Oil Baron",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 8196
+      "UsersEstimate": 8195
     },
     {
       "ID": "ach.220.hot",
@@ -12347,7 +12352,7 @@
       "Name": "Hot Water",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6058
+      "UsersEstimate": 6057
     },
     {
       "ID": "ach.230.infinity",
@@ -12355,7 +12360,7 @@
       "Name": "To infinity, and beyond!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 535
+      "UsersEstimate": 534
     },
     {
       "ID": "ach.240.loads",
@@ -12363,7 +12368,7 @@
       "Name": "Loads-a-Money",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 8196
+      "UsersEstimate": 8195
     },
     {
       "ID": "ach.250.downfall",
@@ -12371,7 +12376,7 @@
       "Name": "Before the Downfall",
       "Percentage": 102,
       "XP": 60,
-      "UsersEstimate": 18173
+      "UsersEstimate": 18172
     },
     {
       "ID": "ach.260.investor",
@@ -12427,7 +12432,7 @@
       "Name": "Industrialist",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 4989
+      "UsersEstimate": 4988
     },
     {
       "ID": "ach.330.water",
@@ -12435,7 +12440,7 @@
       "Name": "Money like Water",
       "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 17817
+      "UsersEstimate": 17816
     },
     {
       "ID": "ach.340.steel",
@@ -12474,7 +12479,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 17817,
+      "Progressed": 17816,
       "Completed": 23
     }
   ],
@@ -12482,8 +12487,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2024-01-07T17:58:05.1810592+00:00",
-  "LastChanged_Achievements": "2024-01-13T02:31:32.696251+00:00",
+  "LastChanged_Achievements": "2024-01-13T03:09:05.4831785+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:02.1211964+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:19:58.0090141+00:00",
-  "LastUpdate_Achievements": "2024-01-13T02:31:32.6963481+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:57:05.23936+00:00",
+  "LastUpdate_Achievements": "2024-01-13T03:09:05.4832507+00:00"
 }

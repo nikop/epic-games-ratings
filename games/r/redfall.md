@@ -50,7 +50,7 @@ Rating: 3.68 (Ranked 1,096)
 | Dexterity Save | 0.80% | ~19 |
 | Good Samaritan | 0.80% | ~19 |
 | Scream Team | 0.70% | ~17 |
-| Sisterhood | 0.60% | ~14 |
+| Sisterhood | 0.70% | ~17 |
 | Under a Bushel | 0.60% | ~14 |
 | Monster Hunters Club | 0.50% | ~12 |
 | Friendgineering | 0.50% | ~12 |

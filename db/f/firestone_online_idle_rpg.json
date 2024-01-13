@@ -769,7 +769,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4446,
+  "EOS_Progressed": 4447,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
@@ -12449,6 +12449,11 @@
       "Time": "2024-01-13T01:51:51.8662094+00:00",
       "NumProgressed": 4446,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-13T03:04:02.9919085+00:00",
+      "NumProgressed": 4447,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -12636,7 +12641,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "fellowshippower",
@@ -12668,7 +12673,7 @@
       "Name": "Full Party",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "gearenchanting",
@@ -12730,9 +12735,9 @@
       "ID": "inspection",
       "SetID": "3nl4bcg",
       "Name": "Inspection",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 623
     },
     {
       "ID": "jewelenchanting",
@@ -13020,7 +13025,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4135
+      "UsersEstimate": 4136
     },
     {
       "ID": "warmachinesarmy",
@@ -13052,14 +13057,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3468
+      "UsersEstimate": 3469
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4446,
+      "Progressed": 4447,
       "Completed": 2
     }
   ],
@@ -13067,8 +13072,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-12T18:59:41.1743565+00:00",
-  "LastChanged_Achievements": "2024-01-13T02:26:48.9369987+00:00",
+  "LastChanged_Achievements": "2024-01-13T03:04:02.9919081+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:00.5947712+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:21:39.411817+00:00",
-  "LastUpdate_Achievements": "2024-01-13T02:26:48.9371536+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:58:47.9744086+00:00",
+  "LastUpdate_Achievements": "2024-01-13T03:04:02.9920144+00:00"
 }

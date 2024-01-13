@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17817,
+  "EOS_Progressed": 17819,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -18280,6 +18280,11 @@
       "Time": "2024-01-13T01:51:23.8092507+00:00",
       "NumProgressed": 17817,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-13T03:03:43.338971+00:00",
+      "NumProgressed": 17819,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18331,7 +18336,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5701
+      "UsersEstimate": 5702
     },
     {
       "ID": "tpote_achievement_15",
@@ -18347,7 +18352,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2495
     },
     {
       "ID": "tpote_achievement_17",
@@ -18395,7 +18400,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5167
+      "UsersEstimate": 5168
     },
     {
       "ID": "tpote_achievement_22",
@@ -18403,7 +18408,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3563
+      "UsersEstimate": 3564
     },
     {
       "ID": "tpote_achievement_23",
@@ -18467,7 +18472,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5523
+      "UsersEstimate": 5524
     },
     {
       "ID": "tpote_achievement_30",
@@ -18491,7 +18496,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2495
     },
     {
       "ID": "tpote_achievement_33",
@@ -18499,7 +18504,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "tpote_achievement_34",
@@ -18618,15 +18623,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17817,
+      "Progressed": 17819,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-13T02:26:28.9142645+00:00",
+  "LastChanged_Achievements": "2024-01-13T03:03:43.3389696+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:38.8316794+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:25:50.7360911+00:00",
-  "LastUpdate_Achievements": "2024-01-13T02:26:28.9143467+00:00"
+  "LastUpdate_Ratings": "2024-01-13T03:03:03.1556253+00:00",
+  "LastUpdate_Achievements": "2024-01-13T03:03:43.3390951+00:00"
 }

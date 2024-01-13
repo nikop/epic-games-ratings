@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2913,
+  "EOS_Progressed": 2915,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7904,6 +7904,11 @@
       "Time": "2024-01-13T02:32:47.814665+00:00",
       "NumProgressed": 2913,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T03:10:20.0566911+00:00",
+      "NumProgressed": 2915,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8012,7 +8017,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "achievement_21",
@@ -8058,9 +8063,9 @@
       "ID": "achievement_26",
       "SetID": "271ol84",
       "Name": "Together we can rule the galaxy",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 321
     },
     {
       "ID": "achievement_27",
@@ -8140,7 +8145,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2507
     },
     {
       "ID": "achievement_36",
@@ -8156,7 +8161,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "achievement_38",
@@ -8180,7 +8185,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "achievement_40",
@@ -8188,7 +8193,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "achievement_41",
@@ -8202,9 +8207,9 @@
       "ID": "achievement_42",
       "SetID": "271ol84",
       "Name": "Not bad for a little furball",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_43",
@@ -8220,7 +8225,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "achievement_45",
@@ -8419,13 +8424,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2913,
+      "Progressed": 2915,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2913,
+      "Progressed": 2915,
       "Completed": 1
     }
   ],
@@ -8433,8 +8438,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-13T02:32:47.8146648+00:00",
+  "LastChanged_Achievements": "2024-01-13T03:10:20.0566906+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:25:31.2747559+00:00",
-  "LastUpdate_Achievements": "2024-01-13T02:32:47.8147604+00:00"
+  "LastUpdate_Ratings": "2024-01-13T03:02:43.0453193+00:00",
+  "LastUpdate_Achievements": "2024-01-13T03:10:20.0567715+00:00"
 }

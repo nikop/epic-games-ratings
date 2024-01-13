@@ -294,9 +294,9 @@
       "ID": "ACED",
       "SetID": "1fek4an",
       "Name": "ACED!",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "CHALLENGER",
@@ -318,9 +318,9 @@
       "ID": "COMBO_BULLETSIZE",
       "SetID": "1fek4an",
       "Name": "Hands Up",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "COMBO_CRIT",
@@ -510,9 +510,9 @@
       "ID": "HEROSTAR_S",
       "SetID": "1fek4an",
       "Name": "Graduate(Smith)",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "HEROSTAR_T",
@@ -806,9 +806,9 @@
       "ID": "SHOP_LEVEL_UP_COMBO_2",
       "SetID": "1fek4an",
       "Name": "Level Skip",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "SHOP_LEVEL_UP_COMBO_MAX",
@@ -853,8 +853,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-13T02:30:57.4777579+00:00",
+  "LastChanged_Achievements": "2024-01-13T03:08:30.9854783+00:00",
   "LastUpdate_AppInfo": "2024-01-10T13:02:38.4502332+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:25:31.7636455+00:00",
-  "LastUpdate_Achievements": "2024-01-13T02:30:57.4778107+00:00"
+  "LastUpdate_Ratings": "2024-01-13T03:02:43.8921883+00:00",
+  "LastUpdate_Achievements": "2024-01-13T03:08:30.9855337+00:00"
 }

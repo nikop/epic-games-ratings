@@ -42,6 +42,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Consecutive Curses | 0.70% | ~1,700 |
 | Who To Trust? | 0.70% | ~1,700 |
 | Destroy Your Fears | 0.70% | ~1,700 |
+| New Perspectives | 0.70% | ~1,700 |
 | Shadow Walker | 0.70% | ~1,700 |
 | Shapeshifting | 0.70% | ~1,700 |
 | What Doesn't Kill You | 0.70% | ~30 |
@@ -52,7 +53,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stop Hitting Yourself | 0.60% | ~1,457 |
 | Doing Time | 0.60% | ~1,457 |
 | Acid Bath | 0.60% | ~1,457 |
-| New Perspectives | 0.60% | ~1,457 |
 | Expensive Look | 0.60% | ~26 |
 | Thank You, Friend | 0.50% | ~1,214 |
 | Shadow Spreads | 0.50% | ~1,214 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,846 (Ranked 74)  
+Progressed: 242,848 (Ranked 74)  
 Completed: 305 (0.13%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -413,7 +413,7 @@ Completed: 305 (0.13%) (Ranked 300)
 | 2024-01-10 | 242,736 | 305 |
 | 2024-01-11 | 242,789 | 305 |
 | 2024-01-12 | 242,842 | 305 |
-| 2024-01-13 | 242,846 | 305 |
+| 2024-01-13 | 242,848 | 305 |
 ## Awards
 Max (Quickly Understood Controls): 1,515  (Ranked 139)  
 Sum: 11,795 (Ranked 89)  

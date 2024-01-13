@@ -2201,9 +2201,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 22247,
+  "EOS_Progressed": 22248,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1037,
+  "EOS_NewPlayers": 1030,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13681,6 +13681,11 @@
       "Time": "2024-01-13T02:32:19.7684959+00:00",
       "NumProgressed": 22247,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-13T03:09:52.0251189+00:00",
+      "NumProgressed": 22248,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13796,7 +13801,7 @@
       "Name": "Get a Grip",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 4894
+      "UsersEstimate": 4895
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -13852,7 +13857,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4004
+      "UsersEstimate": 4005
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14067,13 +14072,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22247,
+      "Progressed": 22248,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10173,
+      "Progressed": 10174,
       "Completed": 29
     }
   ],
@@ -14081,8 +14086,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-12T18:03:09.9063195+00:00",
-  "LastChanged_Achievements": "2024-01-13T02:32:19.7684957+00:00",
+  "LastChanged_Achievements": "2024-01-13T03:09:52.0251184+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:26:09.700524+00:00",
-  "LastUpdate_Achievements": "2024-01-13T02:32:19.7685722+00:00"
+  "LastUpdate_Ratings": "2024-01-13T03:03:22.734909+00:00",
+  "LastUpdate_Achievements": "2024-01-13T03:09:52.0252176+00:00"
 }

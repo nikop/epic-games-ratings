@@ -6,41 +6,41 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 88.00% | ~637,218 |
-| Escaped Asphodel | 79.00% | ~572,048 |
-| Arms Collector | 70.00% | ~506,878 |
-| Friends in High Places | 67.00% | ~485,154 |
-| Escaped Elysium | 65.00% | ~470,672 |
-| Chthonic Colleagues | 62.00% | ~448,949 |
-| Is There No Escape? | 52.00% | ~376,538 |
-| Death Dealer | 45.00% | ~325,850 |
-| Skelly Slayer | 42.00% | ~304,127 |
-| Well Stocked | 40.00% | ~289,644 |
-| Back to Work | 38.00% | ~275,162 |
-| Day-or-Night Trader | 37.00% | ~267,921 |
-| Blessed by the Gods | 37.00% | ~267,921 |
-| Urge to Sing | 36.00% | ~260,680 |
-| Blood Bound | 35.00% | ~253,439 |
-| Three-Headed Boy | 31.00% | ~224,474 |
-| River Denizens | 28.00% | ~202,751 |
-| Grown Close | 28.00% | ~202,751 |
-| Home Makeover | 27.00% | ~195,510 |
+| Escaped Tartarus | 88.00% | ~637,220 |
+| Escaped Asphodel | 79.00% | ~572,050 |
+| Arms Collector | 70.00% | ~506,880 |
+| Friends in High Places | 67.00% | ~485,156 |
+| Escaped Elysium | 65.00% | ~470,674 |
+| Chthonic Colleagues | 62.00% | ~448,951 |
+| Is There No Escape? | 52.00% | ~376,539 |
+| Death Dealer | 45.00% | ~325,851 |
+| Skelly Slayer | 42.00% | ~304,128 |
+| Well Stocked | 40.00% | ~289,646 |
+| Back to Work | 38.00% | ~275,163 |
+| Day-or-Night Trader | 37.00% | ~267,922 |
+| Blessed by the Gods | 37.00% | ~267,922 |
+| Urge to Sing | 36.00% | ~260,681 |
+| Blood Bound | 35.00% | ~253,440 |
+| Three-Headed Boy | 31.00% | ~224,475 |
+| River Denizens | 28.00% | ~202,752 |
+| Grown Close | 28.00% | ~202,752 |
+| Home Makeover | 27.00% | ~195,511 |
 | Had to Happen | 25.00% | ~181,028 |
 | The Family Secret | 25.00% | ~181,028 |
 | Tools of the Architect | 23.00% | ~166,546 |
 | Master of Arms | 23.00% | ~166,546 |
-| To Charon's Credit | 22.00% | ~159,304 |
-| Rare Collectible | 22.00% | ~159,304 |
-| Weapon of Fate | 21.00% | ~152,063 |
-| Something From Everyone | 19.00% | ~137,581 |
-| Hold the Onions | 18.00% | ~130,340 |
+| To Charon's Credit | 22.00% | ~159,305 |
+| Rare Collectible | 22.00% | ~159,305 |
+| Weapon of Fate | 21.00% | ~152,064 |
+| Something From Everyone | 19.00% | ~137,582 |
+| Hold the Onions | 18.00% | ~130,341 |
 | Well Versed | 17.00% | ~123,099 |
 | War-God's Bloodlust | 15.00% | ~108,617 |
 | Musician and Muse | 14.00% | ~101,376 |
-| The Useless Trinket | 13.00% | ~94,134 |
-| Champion of Elysium | 13.00% | ~94,134 |
-| Slashed Benefits | 12.00% | ~86,893 |
-| Haste of Hermes | 11.00% | ~79,652 |
+| The Useless Trinket | 13.00% | ~94,135 |
+| Champion of Elysium | 13.00% | ~94,135 |
+| Slashed Benefits | 12.00% | ~86,894 |
+| Haste of Hermes | 11.00% | ~79,653 |
 | Bad Call | 10.00% | ~72,411 |
 | Nyx's Mirror | 10.00% | ~72,411 |
 | Night and Darkness | 10.00% | ~72,411 |
@@ -53,10 +53,10 @@ Number of Ratings: 6,336  (23.09.2022)
 | One for the Ages | 7.00% | ~50,688 |
 | Complete Set | 6.00% | ~43,447 |
 | Skelly's Last Lamentations | 6.00% | ~43,447 |
-| Thorn of Thanatos | 4.00% | ~28,964 |
-| Friends Forever | 4.00% | ~28,964 |
+| Thorn of Thanatos | 4.00% | ~28,965 |
+| Friends Forever | 4.00% | ~28,965 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 724,111 (Ranked 28)  
+Progressed: 724,114 (Ranked 28)  
 Completed: 6,606 (0.91%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 6,606 (0.91%) (Ranked 184)
 | 2024-01-10 | 723,823 | 6,603 |
 | 2024-01-11 | 723,953 | 6,604 |
 | 2024-01-12 | 724,099 | 6,606 |
-| 2024-01-13 | 724,111 | 6,606 |
+| 2024-01-13 | 724,114 | 6,606 |
 ## Awards
 Max (Character Customization): 3,535  (Ranked 96)  
 Sum: 8,621 (Ranked 107)  

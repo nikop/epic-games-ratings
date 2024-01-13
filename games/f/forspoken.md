@@ -20,11 +20,11 @@ Rating: 4.15 (Ranked 999)
 | Stuck | 5.00% | ~2,358 |
 | The Interloper | 4.00% | ~1,886 |
 | Outdoorsperson | 3.00% | ~1,415 |
+| Damned If You Do... | 3.00% | ~1,415 |
 | Hop, Step, Jump | 3.00% | ~1,415 |
 | Endless Runner | 3.00% | ~1,415 |
 | What Must Be Done | 2.00% | ~943 |
 | Might and Main | 2.00% | ~943 |
-| Damned If You Do... | 2.00% | ~943 |
 | The Hue of Blue | 2.00% | ~943 |
 | Breaking Point | 2.00% | ~943 |
 | Explorer: Pathfinder | 2.00% | ~943 |

@@ -2,7 +2,7 @@
   "ID": "a4b5203877a04321bd1989cef6ba51dc",
   "Name": "One Hand Clapping",
   "ProductSlug": "one-hand-clapping",
-  "Ranking_EOS_Progress": 298,
+  "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 153,
@@ -1186,8 +1186,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2024-01-13T02:27:10.5024855+00:00",
+  "LastChanged_Achievements": "2024-01-13T03:04:25.0591428+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:08.3557849+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:25:40.9276282+00:00",
-  "LastUpdate_Achievements": "2024-01-13T02:27:10.5025088+00:00"
+  "LastUpdate_Ratings": "2024-01-13T03:02:53.2132344+00:00",
+  "LastUpdate_Achievements": "2024-01-13T03:04:25.0591636+00:00"
 }

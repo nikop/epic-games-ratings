@@ -5,7 +5,7 @@ Rating: 4.73 (Ranked 183)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 90.00% | ~16,226 |
+| Under a New Sun | 91.00% | ~16,406 |
 | Newcomers | 75.00% | ~13,522 |
 | A Burden of Blood | 69.00% | ~12,440 |
 | Protector's Duty | 66.00% | ~11,899 |

@@ -651,7 +651,7 @@
   ],
   "EOS_Progressed": 47154,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 655,
+  "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18731,9 +18731,9 @@
       "ID": "CHAPTER_06_CLEAR",
       "SetID": "6d0g7k8",
       "Name": "Damned If You Do...",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 943
+      "UsersEstimate": 1415
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -19082,8 +19082,8 @@
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-12T23:03:13.1370669+00:00",
-  "LastChanged_Achievements": "2024-01-13T02:30:54.6143135+00:00",
+  "LastChanged_Achievements": "2024-01-13T03:08:28.1837595+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:25:51.4648951+00:00",
-  "LastUpdate_Achievements": "2024-01-13T02:30:54.6144159+00:00"
+  "LastUpdate_Ratings": "2024-01-13T03:03:03.9038036+00:00",
+  "LastUpdate_Achievements": "2024-01-13T03:08:28.1839089+00:00"
 }

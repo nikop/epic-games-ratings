@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18916,
+  "EOS_Progressed": 18917,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 563,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17183,6 +17183,11 @@
       "Time": "2024-01-13T01:51:39.4432102+00:00",
       "NumProgressed": 18916,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2024-01-13T03:03:54.1417081+00:00",
+      "NumProgressed": 18917,
+      "NumCompleted": 64
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17371,7 +17376,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2837
+      "UsersEstimate": 2838
     },
     {
       "ID": "30",
@@ -17395,7 +17400,7 @@
       "Name": "Data Master",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "6",
@@ -17474,13 +17479,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18916,
+      "Progressed": 18917,
       "Completed": 64
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4870,
+      "Progressed": 4871,
       "Completed": 1301
     }
   ],
@@ -17488,8 +17493,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-11T01:50:11.8166633+00:00",
-  "LastChanged_Achievements": "2024-01-13T02:26:40.2431879+00:00",
+  "LastChanged_Achievements": "2024-01-13T03:03:54.1417077+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:20:01.6773524+00:00",
-  "LastUpdate_Achievements": "2024-01-13T02:26:40.2432717+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:57:09.6926768+00:00",
+  "LastUpdate_Achievements": "2024-01-13T03:03:54.1417976+00:00"
 }

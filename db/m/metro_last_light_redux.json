@@ -4,7 +4,7 @@
   "ProductSlug": "metro-last-light-redux",
   "Ranking_Rating": 220,
   "Ranking_Popularity": 121,
-  "Ranking_PopularitySum": 210,
+  "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 578,
@@ -1948,10 +1948,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 2282,
       "NumberOfAwardsMax": 1990
+    },
+    {
+      "Time": "2024-01-13T03:00:04.5892728+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2312,
+      "NumberOfAwardsMax": 1990
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2282,
+  "NumberOfAwards": 2312,
   "NumberOfAwardsMax": 1990,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2007,7 +2013,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 28
+      "Count": 30
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2033,8 +2039,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:11.2145128+00:00",
-  "LastChanged": "2024-01-12T23:00:20.5667427+00:00",
+  "LastChanged": "2024-01-13T03:00:04.5892726+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:56:56.7892676+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:23:03.1031199+00:00",
-  "LastUpdate_Achievements": "2024-01-13T02:31:57.5247904+00:00"
+  "LastUpdate_Ratings": "2024-01-13T03:00:04.5892733+00:00",
+  "LastUpdate_Achievements": "2024-01-13T03:09:30.0498155+00:00"
 }

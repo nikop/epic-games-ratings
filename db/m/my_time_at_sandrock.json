@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 246,
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -2240,7 +2240,7 @@
   ],
   "EOS_Progressed": 884,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10499,9 +10499,9 @@
       "ID": "X_GET_FECE",
       "SetID": "80dcan0",
       "Name": "Waste Not Want Not",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 628
     },
     {
       "ID": "X_KICK",
@@ -10531,8 +10531,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2024-01-12T18:57:13.4758533+00:00",
-  "LastChanged_Achievements": "2024-01-13T02:31:35.9849996+00:00",
+  "LastChanged_Achievements": "2024-01-13T03:09:09.1762778+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:07.0919525+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:20:00.6225281+00:00",
-  "LastUpdate_Achievements": "2024-01-13T02:31:35.9850729+00:00"
+  "LastUpdate_Ratings": "2024-01-13T02:57:08.5895765+00:00",
+  "LastUpdate_Achievements": "2024-01-13T03:09:09.1763545+00:00"
 }

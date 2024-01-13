@@ -5,7 +5,7 @@ Rating: 4.79 (Ranked 100)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New arm | 75.00% | ~666 |
+| New arm | 76.00% | ~675 |
 | Shelter Escape | 74.00% | ~657 |
 | The First Bond | 63.00% | ~559 |
 | Novice Scavenger | 56.00% | ~497 |

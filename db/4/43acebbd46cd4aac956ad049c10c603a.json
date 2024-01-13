@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -331,7 +331,7 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 1381,
+  "EOS_Progressed": 1382,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
@@ -4016,6 +4016,11 @@
       "Time": "2024-01-12T20:03:45.4865311+00:00",
       "NumProgressed": 1381,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-13T03:03:55.7674912+00:00",
+      "NumProgressed": 1382,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4068,7 +4073,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "BreakTheLoop",
@@ -4076,7 +4081,7 @@
       "Name": "Break the Loop",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "BridgeBuilder",
@@ -4084,7 +4089,7 @@
       "Name": "Bridge Builder",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ChasingTheLight",
@@ -4140,7 +4145,7 @@
       "Name": "Ecstatic Truth",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "Excellent",
@@ -4172,7 +4177,7 @@
       "Name": "Good Citizen",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "GrasslandsRing",
@@ -4188,7 +4193,7 @@
       "Name": "High Plain",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "IntoTheMachine",
@@ -4292,7 +4297,7 @@
       "Name": "Persistent",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "PrometheusUnbound",
@@ -4340,7 +4345,7 @@
       "Name": "Signatory",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "SingleRod",
@@ -4372,7 +4377,7 @@
       "Name": "Team Spirit",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "TextAdventurer",
@@ -4420,7 +4425,7 @@
       "Name": "The Spark",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "TheThiefOfFire",
@@ -4428,7 +4433,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "TheWordEndures",
@@ -4444,7 +4449,7 @@
       "Name": "Touch Grass",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "TrevorsBiographer",
@@ -4499,7 +4504,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1381,
+      "Progressed": 1382,
       "Completed": 2
     }
   ],
@@ -4507,8 +4512,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-12T23:00:35.1873511+00:00",
-  "LastChanged_Achievements": "2024-01-13T02:26:41.7813581+00:00",
+  "LastChanged_Achievements": "2024-01-13T03:03:55.7674907+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:25:26.274739+00:00",
-  "LastUpdate_Achievements": "2024-01-13T02:26:41.7814261+00:00"
+  "LastUpdate_Ratings": "2024-01-13T03:02:36.737356+00:00",
+  "LastUpdate_Achievements": "2024-01-13T03:03:55.767554+00:00"
 }
