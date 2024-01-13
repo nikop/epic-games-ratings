@@ -5,34 +5,34 @@ Rating: 4.85 (Ranked 40)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 61.00% | ~1,668 |
-| Welcome to the Tower | 54.00% | ~1,476 |
-| The great escape | 46.00% | ~1,258 |
-| The Preacher's fate | 44.00% | ~1,203 |
-| A new dawn | 38.00% | ~1,039 |
-| Scholar | 33.00% | ~902 |
-| The darkness | 32.00% | ~875 |
+| That's the spirit | 60.00% | ~1,642 |
+| Welcome to the Tower | 54.00% | ~1,477 |
+| The great escape | 46.00% | ~1,259 |
+| The Preacher's fate | 44.00% | ~1,204 |
+| A new dawn | 38.00% | ~1,040 |
+| Scholar | 33.00% | ~903 |
+| The darkness | 32.00% | ~876 |
 | A good beginning | 31.00% | ~848 |
 | True G3M4R | 31.00% | ~848 |
 | One last step | 29.00% | ~793 |
 | Cable guy | 28.00% | ~766 |
 | Half the way | 28.00% | ~766 |
-| I did it | 27.00% | ~738 |
-| Peace walker | 27.00% | ~738 |
+| I did it | 27.00% | ~739 |
 | In this together | 26.00% | ~711 |
+| Peace walker | 26.00% | ~711 |
 | Rascal | 26.00% | ~711 |
 | Champollion | 26.00% | ~711 |
-| Open door | 22.00% | ~601 |
-| Feels like springtime | 22.00% | ~601 |
-| Alchemists Express | 22.00% | ~601 |
-| Free at last | 19.00% | ~519 |
+| Open door | 22.00% | ~602 |
+| Feels like springtime | 22.00% | ~602 |
+| Alchemists Express | 22.00% | ~602 |
+| Free at last | 19.00% | ~520 |
 | A Link to the Past | 17.00% | ~465 |
 | A great audience | 15.00% | ~410 |
 | For its own good | 15.00% | ~410 |
-| Fashion victim | 10.00% | ~273 |
+| Fashion victim | 10.00% | ~274 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,734 (Ranked 235)  
-Completed: 203 (7.43%) (Ranked 57)  
+Progressed: 2,736 (Ranked 235)  
+Completed: 203 (7.42%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -206,7 +206,7 @@ Completed: 203 (7.43%) (Ranked 57)
 | 2024-01-10 | 2,665 | 192 |
 | 2024-01-11 | 2,694 | 196 |
 | 2024-01-12 | 2,719 | 200 |
-| 2024-01-13 | 2,734 | 203 |
+| 2024-01-13 | 2,736 | 203 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

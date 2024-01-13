@@ -67,7 +67,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 20,751 (Ranked 155)  
-Completed: 35 (0.17%) (Ranked 287)  
+Completed: 35 (0.17%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -337,8 +337,8 @@ Completed: 35 (0.17%) (Ranked 287)
 | 2024-01-13 | 20,751 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
-Sum: 3,380 (Ranked 177)  
-Diff (max vs sum): 56  
+Sum: 3,380 (Ranked 178)  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 452 |

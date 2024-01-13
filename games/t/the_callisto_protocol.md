@@ -7,15 +7,15 @@ Rating: 4.22 (Ranked 954)
 | ---- | ---------- | ----- |
 | The Outer Way | 27.00% | ~6,019 |
 | Flesh Wound | 26.00% | ~5,796 |
-| Desperate Times | 25.00% | ~5,573 |
-| Paper Jams | 23.00% | ~5,127 |
-| Get a Grip | 22.00% | ~4,904 |
+| Desperate Times | 25.00% | ~5,574 |
+| Paper Jams | 23.00% | ~5,128 |
+| Get a Grip | 22.00% | ~4,905 |
 | Chew 'Em Up | 21.00% | ~4,682 |
 | Reforged | 19.00% | ~4,236 |
 | Float Like A Butterfly | 18.00% | ~4,013 |
 | Workplace Hazard | 17.00% | ~3,790 |
 | If the SHU Fits... | 17.00% | ~3,790 |
-| Without A Paddle | 14.00% | ~3,121 |
+| Without A Paddle | 15.00% | ~3,344 |
 | In the Pipe, Five by Five | 13.00% | ~2,898 |
 | Crash Site | 13.00% | ~2,898 |
 | Two Heads Are Better Than One | 12.00% | ~2,675 |
@@ -25,7 +25,7 @@ Rating: 4.22 (Ranked 954)
 | What Lies Beneath | 10.00% | ~2,229 |
 | Full Circle | 10.00% | ~2,229 |
 | You Need a Gun | 9.00% | ~2,006 |
-| I Do Belong Here | 8.00% | ~1,783 |
+| I Do Belong Here | 8.00% | ~1,784 |
 | Keep Fighting | 7.00% | ~715 |
 | It's Time | 6.00% | ~613 |
 | In Striking Distance | 5.00% | ~1,115 |
@@ -53,8 +53,8 @@ Rating: 4.22 (Ranked 954)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,293 (Ranked 151)  
-Completed: 82 (0.37%) (Ranked 245)  
+Progressed: 22,294 (Ranked 151)  
+Completed: 82 (0.37%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -313,18 +313,18 @@ Completed: 82 (0.37%) (Ranked 245)
 | 2024-01-10 | 22,053 | 82 |
 | 2024-01-11 | 22,169 | 82 |
 | 2024-01-12 | 22,235 | 82 |
-| 2024-01-13 | 22,293 | 82 |
+| 2024-01-13 | 22,294 | 82 |
 ## Awards
 Max (Amazing Characters): 134  (Ranked 343)  
-Sum: 644 (Ranked 320)  
+Sum: 646 (Ranked 320)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 134 |
 | This game is Highly Recommended | 122 |
 | This game is Extremely Fun | 116 |
+| This game has Amazing Storytelling | 112 |
 | This game has Quickly Understood Controls | 110 |
-| This game has Amazing Storytelling | 110 |
 | This game has Challenging Combat | 68 |
 | This game has a Creative Community | 52 |
 ## Ratings History
@@ -530,4 +530,4 @@ Diff (max vs sum): 23
 | 2024-01-10 | 4.22 | 129 | 628 |
 | 2024-01-11 | 4.22 | 131 | 634 |
 | 2024-01-12 | 4.22 | 131 | 641 |
-| 2024-01-13 | 4.22 | 134 | 644 |
+| 2024-01-13 | 4.22 | 134 | 646 |

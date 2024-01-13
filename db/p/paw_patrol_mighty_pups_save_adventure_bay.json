@@ -3,7 +3,7 @@
   "Name": "PAW Patrol Mighty Pups Save Adventure Bay",
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 541,
-  "Ranking_EOS_Completed": 399,
+  "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 476,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
@@ -358,9 +358,9 @@
       "ID": "1",
       "SetID": "38ide56",
       "Name": "Grand Re-Opening",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "10",
@@ -446,9 +446,9 @@
       "ID": "2",
       "SetID": "38ide56",
       "Name": "Summer Day",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "20",
@@ -534,9 +534,9 @@
       "ID": "3",
       "SetID": "38ide56",
       "Name": "Risky Rescue",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "4",
@@ -599,8 +599,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2024-01-13T18:05:05.7128786+00:00",
+  "LastChanged_Achievements": "2024-01-13T19:04:14.4602908+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:24.271148+00:00",
-  "LastUpdate_Ratings": "2024-01-13T17:59:46.2472573+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:05:05.7129078+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:58:44.1108229+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:04:14.4603088+00:00"
 }

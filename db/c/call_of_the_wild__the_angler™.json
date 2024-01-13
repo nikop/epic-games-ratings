@@ -6,7 +6,7 @@
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 191,
-  "Ranking_EOS_Completed": 399,
+  "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8304,
+  "EOS_Progressed": 8305,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13997,6 +13997,11 @@
       "Time": "2024-01-13T18:09:06.164213+00:00",
       "NumProgressed": 8304,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T19:08:44.6835046+00:00",
+      "NumProgressed": 8305,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -14032,7 +14037,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -14327,13 +14332,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8304,
+      "Progressed": 8305,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7676,
+      "Progressed": 7677,
       "Completed": 113
     }
   ],
@@ -14341,8 +14346,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-13T18:09:06.1642127+00:00",
+  "LastChanged_Achievements": "2024-01-13T19:08:44.6835043+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-13T17:58:02.0598204+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:09:06.1643714+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:57:35.1928197+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:08:44.6836005+00:00"
 }

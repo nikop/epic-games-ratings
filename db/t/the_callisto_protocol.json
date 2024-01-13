@@ -6,7 +6,7 @@
   "Ranking_Popularity": 343,
   "Ranking_PopularitySum": 320,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 245,
+  "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
@@ -2157,10 +2157,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 644,
       "NumberOfAwardsMax": 134
+    },
+    {
+      "Time": "2024-01-13T19:03:24.3205278+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 646,
+      "NumberOfAwardsMax": 134
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 644,
+  "NumberOfAwards": 646,
   "NumberOfAwardsMax": 134,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -2192,7 +2198,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 110
+      "Count": 112
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2207,9 +2213,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 22293,
+  "EOS_Progressed": 22294,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 965,
+  "EOS_NewPlayers": 957,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13762,6 +13768,11 @@
       "Time": "2024-01-13T18:10:32.1819993+00:00",
       "NumProgressed": 22293,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-13T19:09:46.5085109+00:00",
+      "NumProgressed": 22294,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13837,7 +13848,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -13877,7 +13888,7 @@
       "Name": "Get a Grip",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 4904
+      "UsersEstimate": 4905
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -13949,7 +13960,7 @@
       "Name": "Paper Jams",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5127
+      "UsersEstimate": 5128
     },
     {
       "ID": "SHARE_PHOTO",
@@ -13979,9 +13990,9 @@
       "ID": "STORY_HABITAT",
       "SetID": "4hj6d86",
       "Name": "Without A Paddle",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3121
+      "UsersEstimate": 3344
     },
     {
       "ID": "STORY_HANGAR",
@@ -14005,7 +14016,7 @@
       "Name": "Desperate Times",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5573
+      "UsersEstimate": 5574
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14148,22 +14159,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22293,
+      "Progressed": 22294,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10219,
+      "Progressed": 10220,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-01-13T17:03:26.1992758+00:00",
-  "LastChanged_Achievements": "2024-01-13T18:10:32.1819989+00:00",
+  "LastChanged": "2024-01-13T19:03:24.3205277+00:00",
+  "LastChanged_Achievements": "2024-01-13T19:09:46.5085107+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:03:54.759944+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:10:32.1821066+00:00"
+  "LastUpdate_Ratings": "2024-01-13T19:03:24.320528+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:09:46.5085825+00:00"
 }

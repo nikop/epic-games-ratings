@@ -6,8 +6,8 @@
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 71,
-  "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_Completed": 400,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253424,
+  "EOS_Progressed": 253425,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24017,6 +24017,11 @@
       "Time": "2024-01-13T18:10:54.7506189+00:00",
       "NumProgressed": 253424,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-13T19:10:03.2479631+00:00",
+      "NumProgressed": 253425,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24076,7 +24081,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15205
+      "UsersEstimate": 15206
     },
     {
       "ID": "canYouDigIt",
@@ -24260,7 +24265,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35479
+      "UsersEstimate": 35480
     },
     {
       "ID": "myFirstRunbow",
@@ -24395,7 +24400,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253424,
+      "Progressed": 253425,
       "Completed": 6
     }
   ],
@@ -24403,8 +24408,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-13T18:10:54.7506184+00:00",
+  "LastChanged_Achievements": "2024-01-13T19:10:03.2479629+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:00.2680738+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:02:25.5230742+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:10:54.7507831+00:00"
+  "LastUpdate_Ratings": "2024-01-13T19:00:30.8595105+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:10:03.2480817+00:00"
 }

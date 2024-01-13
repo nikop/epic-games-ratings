@@ -3,8 +3,8 @@
   "Name": "Multiplayer Drone Simulator",
   "ProductSlug": "multiplayer-drone-simulator-048a09",
   "Ranking_EOS_Progress": 828,
-  "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 576,
+  "Ranking_EOS_Completed": 400,
+  "Ranking_EOS_NewPlayers": 575,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-04T12:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-06T19:56:56.2479577+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:00:21.6482754+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:07:15.0543039+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:59:07.7783848+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:05:46.2813906+00:00"
 }

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 288,
-  "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_Completed": 400,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1165,
+  "EOS_Progressed": 1169,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4052,6 +4052,11 @@
       "Time": "2024-01-13T18:10:04.4484696+00:00",
       "NumProgressed": 1165,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T19:09:26.3459991+00:00",
+      "NumProgressed": 1169,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4086,9 +4091,9 @@
       "ID": "ArtifactsEquipped",
       "SetID": "71c0n9i",
       "Name": "Dressed For Success",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 175
     },
     {
       "ID": "AttackCount",
@@ -4096,7 +4101,7 @@
       "Name": "Attack Bonanza",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BaryaCampaign",
@@ -4136,7 +4141,7 @@
       "Name": "Versatile Wielder",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ChainLightningKills",
@@ -4152,7 +4157,7 @@
       "Name": "Fully Charged",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ComingThrough",
@@ -4168,7 +4173,7 @@
       "Name": "Critical Hit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "Deepstrike",
@@ -4208,7 +4213,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 466
+      "UsersEstimate": 468
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4216,7 +4221,7 @@
       "Name": "Barbecue",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FrontlineFighterCount",
@@ -4256,7 +4261,7 @@
       "Name": "Together For Her",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LothCampaignFinaleOnHard",
@@ -4288,7 +4293,7 @@
       "Name": "Oops!",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "PhoenixKills",
@@ -4320,7 +4325,7 @@
       "Name": "The Marsh Expands",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ReclaimTown",
@@ -4392,7 +4397,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 538
     },
     {
       "ID": "WielderLevel2",
@@ -4400,7 +4405,7 @@
       "Name": "Veteran",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "WielderLevel3",
@@ -4424,7 +4429,7 @@
       "Name": "Humiliation",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -4448,7 +4453,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -4495,15 +4500,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1165,
+      "Progressed": 1169,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-13T18:10:04.4484692+00:00",
+  "LastChanged_Achievements": "2024-01-13T19:09:26.3459989+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:00:46.1199609+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:10:04.4485244+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:59:23.766941+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:09:26.3460634+00:00"
 }

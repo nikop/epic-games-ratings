@@ -5,21 +5,21 @@ Rating: 4.20 (Ranked 967)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,027 |
-| Battlefields Have Memories | 81.00% | ~2,755 |
-| Enlisted | 75.00% | ~2,551 |
-| Maybe Engage a Little | 70.00% | ~2,381 |
-| No More Names | 53.00% | ~1,803 |
-| Initiate | 39.00% | ~1,326 |
-| Thrada-Kul | 36.00% | ~1,224 |
-| Gravity-Challenged Rocks | 29.00% | ~986 |
-| Soldier | 25.00% | ~850 |
-| All the Major Food Groups | 25.00% | ~850 |
-| Socialite | 24.00% | ~816 |
-| Beggars Would Ride | 23.00% | ~782 |
-| Control is an Illusion | 21.00% | ~714 |
-| The Means to Save It | 19.00% | ~646 |
-| Resilience to Sin | 17.00% | ~578 |
+| Unforeseen | 88.00% | ~2,995 |
+| Battlefields Have Memories | 81.00% | ~2,756 |
+| Enlisted | 75.00% | ~2,552 |
+| Maybe Engage a Little | 70.00% | ~2,382 |
+| No More Names | 53.00% | ~1,804 |
+| Initiate | 39.00% | ~1,327 |
+| Thrada-Kul | 36.00% | ~1,225 |
+| Gravity-Challenged Rocks | 29.00% | ~987 |
+| Soldier | 25.00% | ~851 |
+| All the Major Food Groups | 25.00% | ~851 |
+| Socialite | 24.00% | ~817 |
+| Beggars Would Ride | 23.00% | ~783 |
+| Control is an Illusion | 21.00% | ~715 |
+| The Means to Save It | 19.00% | ~647 |
+| Resilience to Sin | 17.00% | ~579 |
 | A Familiar Nest | 16.00% | ~544 |
 | Periapt Alizarin | 16.00% | ~544 |
 | Geas Aristeya | 15.00% | ~510 |
@@ -53,8 +53,8 @@ Rating: 4.20 (Ranked 967)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,401 (Ranked 229)  
-Completed: 4 (0.12%) (Ranked 305)  
+Progressed: 3,403 (Ranked 229)  
+Completed: 4 (0.12%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -160,7 +160,7 @@ Completed: 4 (0.12%) (Ranked 305)
 | 2024-01-10 | 3,285 | 4 |
 | 2024-01-11 | 3,340 | 4 |
 | 2024-01-12 | 3,375 | 4 |
-| 2024-01-13 | 3,401 | 4 |
+| 2024-01-13 | 3,403 | 4 |
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 575)  
 Sum: 21 (Ranked 577)  

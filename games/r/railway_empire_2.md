@@ -5,33 +5,33 @@ Rating: 4.38 (Ranked 797)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 77.00% | ~2,093 |
+| Country Bumpkin | 77.00% | ~2,094 |
 | A new Journey | 76.00% | ~2,066 |
-| Departure | 75.00% | ~2,038 |
-| From X to Y | 74.00% | ~2,011 |
-| Way of Iron | 72.00% | ~1,957 |
+| From X to Y | 74.00% | ~2,012 |
+| Departure | 74.00% | ~2,012 |
+| Way of Iron | 72.00% | ~1,958 |
 | Mystery Tour | 70.00% | ~1,903 |
-| We brake for nobody | 69.00% | ~1,875 |
-| Brainstorm | 67.00% | ~1,821 |
-| Mind the Gap | 66.00% | ~1,794 |
-| Travel Company | 66.00% | ~1,794 |
+| We brake for nobody | 69.00% | ~1,876 |
+| Brainstorm | 67.00% | ~1,822 |
+| Mind the Gap | 66.00% | ~1,795 |
+| Travel Company | 66.00% | ~1,795 |
 | All around the World | 64.00% | ~1,740 |
 | Right through the middle | 59.00% | ~1,604 |
 | Facility Manager | 54.00% | ~1,468 |
 | Poor Devil | 54.00% | ~1,468 |
-| Producer | 51.00% | ~1,386 |
+| Producer | 51.00% | ~1,387 |
 | Bridge Builder | 43.00% | ~1,169 |
 | Apprentice | 42.00% | ~1,142 |
 | Going once, going twice, sold | 37.00% | ~1,006 |
-| Access granted | 36.00% | ~978 |
-| Bull and bear | 35.00% | ~951 |
+| Access granted | 36.00% | ~979 |
+| Bull and bear | 35.00% | ~952 |
 | Stoker | 34.00% | ~924 |
 | Full Steam ahead | 33.00% | ~897 |
 | All mine | 32.00% | ~870 |
 | Financial Shark | 32.00% | ~870 |
 | Mole | 31.00% | ~843 |
-| General Manager | 29.00% | ~788 |
-| Country Life | 29.00% | ~788 |
+| General Manager | 29.00% | ~789 |
+| Country Life | 29.00% | ~789 |
 | Socializer | 28.00% | ~761 |
 | Hostile Takeover | 26.00% | ~707 |
 | Seven at one stroke | 25.00% | ~680 |
@@ -61,8 +61,8 @@ Rating: 4.38 (Ranked 797)
 | European Union | 0.60% | ~16 |
 | Together we stand | 0.50% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,718 (Ranked 236)  
-Completed: 0 (0.00%) (Ranked 399)  
+Progressed: 2,719 (Ranked 236)  
+Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -301,7 +301,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-10 | 2,696 | 0 |
 | 2024-01-11 | 2,706 | 0 |
 | 2024-01-12 | 2,714 | 0 |
-| 2024-01-13 | 2,718 | 0 |
+| 2024-01-13 | 2,719 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

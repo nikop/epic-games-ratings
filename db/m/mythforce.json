@@ -6,8 +6,8 @@
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 201,
-  "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_Completed": 328,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -854,9 +854,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6311,
+  "EOS_Progressed": 6315,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13159,6 +13159,11 @@
       "Time": "2024-01-13T18:05:36.8384105+00:00",
       "NumProgressed": 6311,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T19:04:36.445997+00:00",
+      "NumProgressed": 6315,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13171,7 +13176,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -13187,7 +13192,7 @@
       "Name": "Deadication",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -13203,7 +13208,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1578
+      "UsersEstimate": 1579
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -13219,7 +13224,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -13227,7 +13232,7 @@
       "Name": "First Strike",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1389
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -13259,7 +13264,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -13267,7 +13272,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -13307,7 +13312,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -13315,7 +13320,7 @@
       "Name": "Season Finale",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -13323,7 +13328,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1200
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -13339,7 +13344,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1578
+      "UsersEstimate": 1579
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -13354,15 +13359,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6311,
+      "Progressed": 6315,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-13T18:05:36.83841+00:00",
+  "LastChanged_Achievements": "2024-01-13T19:04:36.4459967+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-13T17:59:50.4284482+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:05:36.8384896+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:58:47.5829726+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:04:36.4460781+00:00"
 }

@@ -2,8 +2,8 @@
   "ID": "e9543b5d696d4129af27a26b22ceeaff",
   "Name": "International Basketball Manager 23",
   "ProductSlug": "international-basketball-manager-23-561576",
-  "Ranking_EOS_Progress": 543,
-  "Ranking_EOS_Completed": 399,
+  "Ranking_EOS_Progress": 541,
+  "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 62,
+  "EOS_Progressed": 63,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
@@ -329,6 +329,11 @@
       "Time": "2024-01-13T04:08:55.9345463+00:00",
       "NumProgressed": 62,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T19:08:51.8254696+00:00",
+      "NumProgressed": 63,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-23T13:12:02.8509977+00:00",
@@ -411,7 +416,7 @@
       "ID": "ACH_FIRST_STAR_MANAGER",
       "SetID": "1lnhagg",
       "Name": "The First Star",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -419,7 +424,7 @@
       "ID": "ACH_FIRST_WIN",
       "SetID": "1lnhagg",
       "Name": "The First of Many to Come",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 42
     },
@@ -531,7 +536,7 @@
       "ID": "ACH_STAR_IS_BORN",
       "SetID": "1lnhagg",
       "Name": "A Star is Born",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 40,
       "UsersEstimate": 9
     },
@@ -547,7 +552,7 @@
       "ID": "ACH_WELCOME",
       "SetID": "1lnhagg",
       "Name": "Welcome to IBM 23!",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 5,
       "UsersEstimate": 56
     },
@@ -563,7 +568,7 @@
       "ID": "ACH_WIN_BY_40",
       "SetID": "1lnhagg",
       "Name": "Overpowered",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
       "UsersEstimate": 29
     },
@@ -596,14 +601,14 @@
     {
       "ID": "1lnhagg",
       "IsBase": true,
-      "Progressed": 62,
+      "Progressed": 63,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-13T18:09:16.2669526+00:00",
+  "LastChanged_Achievements": "2024-01-13T19:08:51.8254694+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:05.9985691+00:00",
-  "LastUpdate_Ratings": "2024-01-13T17:59:54.7430407+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:09:16.2669745+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:58:50.4137873+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:08:51.8254909+00:00"
 }

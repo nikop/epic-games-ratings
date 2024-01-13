@@ -6,7 +6,7 @@
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 187,
-  "Ranking_EOS_Completed": 240,
+  "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
@@ -295,7 +295,7 @@
   "Tags": [],
   "EOS_Progressed": 8886,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -11568,9 +11568,9 @@
       "ID": "ICONOCLAST",
       "SetID": "3cck1g6",
       "Name": "Iconoclast",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 27
     },
     {
       "ID": "IN_A_PINCH",
@@ -11649,8 +11649,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2024-01-11T22:59:26.5609188+00:00",
-  "LastChanged_Achievements": "2024-01-13T18:04:30.7060884+00:00",
+  "LastChanged_Achievements": "2024-01-13T19:03:49.9415386+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:39.7579112+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:02:15.9154173+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:04:30.7061526+00:00"
+  "LastUpdate_Ratings": "2024-01-13T19:00:23.9453764+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:03:49.9415913+00:00"
 }

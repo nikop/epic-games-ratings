@@ -3,7 +3,7 @@
   "Name": "The House of Da Vinci 2",
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 462,
-  "Ranking_EOS_Completed": 399,
+  "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
@@ -753,9 +753,9 @@
       "ID": "CgkInO_K3eIdEAIQAw",
       "SetID": "6bj96in",
       "Name": "GREAT ESCAPE",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 40,
-      "UsersEstimate": 134
+      "UsersEstimate": 136
     },
     {
       "ID": "CgkInO_K3eIdEAIQBA",
@@ -777,9 +777,9 @@
       "ID": "CgkInO_K3eIdEAIQBg",
       "SetID": "6bj96in",
       "Name": "BACK TO THE FUTURE",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     },
     {
       "ID": "CgkInO_K3eIdEAIQBw",
@@ -801,9 +801,9 @@
       "ID": "CgkInO_K3eIdEAIQCQ",
       "SetID": "6bj96in",
       "Name": "NOVICE CRAFTSMAN",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 40,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "CgkInO_K3eIdEAIQCg",
@@ -952,8 +952,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-13T18:10:53.2239163+00:00",
+  "LastChanged_Achievements": "2024-01-13T19:10:01.5684221+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:03.5069577+00:00",
-  "LastUpdate_Ratings": "2024-01-13T17:59:43.2365441+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:10:53.2239397+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:58:42.0408878+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:10:01.568444+00:00"
 }

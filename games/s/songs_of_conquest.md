@@ -6,13 +6,13 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~536 |
-| Double Kill | 40.00% | ~466 |
-| Critical Hit | 23.00% | ~268 |
-| Veteran | 23.00% | ~268 |
-| Dressed For Success | 16.00% | ~186 |
-| Veni, Vidi, Vici | 11.00% | ~128 |
-| Humiliation | 10.00% | ~116 |
+| Adept | 46.00% | ~538 |
+| Double Kill | 40.00% | ~468 |
+| Critical Hit | 23.00% | ~269 |
+| Veteran | 23.00% | ~269 |
+| Dressed For Success | 15.00% | ~175 |
+| Veni, Vidi, Vici | 11.00% | ~129 |
+| Humiliation | 10.00% | ~117 |
 | Multi Kill | 9.00% | ~105 |
 | Sorcerous Spree | 9.00% | ~105 |
 | Landlord Extraordinaire | 7.00% | ~82 |
@@ -32,19 +32,19 @@ Number of Ratings: 292  (23.09.2022)
 | In The Thick of It | 1.00% | ~12 |
 | Such A Fungi | 1.00% | ~12 |
 | Grand Master | 1.00% | ~12 |
-| Versatile Wielder | 0.90% | ~10 |
-| Together For Her | 0.90% | ~10 |
+| Versatile Wielder | 0.90% | ~11 |
+| Together For Her | 0.90% | ~11 |
 | Unlimited Power! | 0.70% | ~8 |
 | Cleave | 0.70% | ~8 |
 | Killing Spree | 0.60% | ~7 |
 | Death To Diplomacy | 0.50% | ~6 |
 | Get Over Here! | 0.50% | ~6 |
 | Coming Through! | 0.40% | ~5 |
-| Attack Bonanza | 0.30% | ~3 |
-| Fully Charged | 0.30% | ~3 |
-| Barbecue | 0.30% | ~3 |
-| Oops! | 0.30% | ~3 |
-| The Marsh Expands | 0.30% | ~3 |
+| Attack Bonanza | 0.30% | ~4 |
+| Fully Charged | 0.30% | ~4 |
+| Barbecue | 0.30% | ~4 |
+| Oops! | 0.30% | ~4 |
+| The Marsh Expands | 0.30% | ~4 |
 | Hello There | 0.20% | ~2 |
 | An Empress's Hope | 0.20% | ~2 |
 | Bringer of Ruin | 0.10% | ~1 |
@@ -61,8 +61,8 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,165 (Ranked 288)  
-Completed: 0 (0.00%) (Ranked 399)  
+Progressed: 1,169 (Ranked 288)  
+Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -125,7 +125,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-10 | 1,129 | 0 |
 | 2024-01-11 | 1,137 | 0 |
 | 2024-01-12 | 1,150 | 0 |
-| 2024-01-13 | 1,165 | 0 |
+| 2024-01-13 | 1,169 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 525)  
 Sum: 252 (Ranked 399)  

@@ -3,8 +3,8 @@
   "Name": "Dreamhaven",
   "ProductSlug": "dreamhaven-f9bad3",
   "Ranking_EOS_Progress": 828,
-  "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 576,
+  "Ranking_EOS_Completed": 400,
+  "Ranking_EOS_NewPlayers": 575,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-23T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-27T10:59:11.2162183+00:00",
   "LastUpdate_AppInfo": "2024-01-11T22:56:57.4962374+00:00",
-  "LastUpdate_Ratings": "2024-01-13T17:58:25.9700145+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:07:16.7566368+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:57:50.2283876+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:05:47.513392+00:00"
 }

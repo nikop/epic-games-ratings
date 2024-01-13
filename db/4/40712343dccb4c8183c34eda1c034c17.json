@@ -3,8 +3,8 @@
   "Name": "Game Room",
   "ProductSlug": "gameroom-962862",
   "Ranking_EOS_Progress": 828,
-  "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 576,
+  "Ranking_EOS_Completed": 400,
+  "Ranking_EOS_NewPlayers": 575,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-09T16:57:15.724104+00:00",
-  "LastUpdate_Ratings": "2024-01-13T17:59:22.2266821+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:06:44.3474406+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:58:28.9337668+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:05:24.6047828+00:00"
 }

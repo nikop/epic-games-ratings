@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
@@ -353,7 +353,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 985,
+  "EOS_Progressed": 988,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 1,
@@ -2678,6 +2678,11 @@
       "Time": "2024-01-13T18:06:39.6661972+00:00",
       "NumProgressed": 985,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-13T19:05:21.1370317+00:00",
+      "NumProgressed": 988,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2706,7 +2711,7 @@
       "Name": "The Small Does Not Rule",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_COMPLETION",
@@ -2730,7 +2735,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -2762,15 +2767,15 @@
       "Name": "Jellyfishing",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
       "SetID": "biiejkc",
       "Name": "Jellyfish Jam",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -2818,7 +2823,7 @@
       "Name": "SpongeBob vs SpongeBob!",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_ROCK_BOTTOM",
@@ -2834,7 +2839,7 @@
       "Name": "Sleepy Time",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_SOCK_CONCERT",
@@ -2842,7 +2847,7 @@
       "Name": "Sock Concert",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_SOCK_OPERA",
@@ -2866,7 +2871,7 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -2882,7 +2887,7 @@
       "Name": "Mega Spatula Seeker",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_STAT_COLLECT_SOCKS",
@@ -2914,7 +2919,7 @@
       "Name": "Squirrel Smasher",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_STAT_STAR_SMASHER",
@@ -2922,7 +2927,7 @@
       "Name": "Star Smasher",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -2930,7 +2935,7 @@
       "Name": "Surf\u0027s Up!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -2945,15 +2950,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 985,
+      "Progressed": 988,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-13T18:06:39.6661968+00:00",
+  "LastChanged_Achievements": "2024-01-13T19:05:21.1370315+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:15.2754813+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:00:37.4006779+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:06:39.6662378+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:59:17.9900466+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:05:21.1370585+00:00"
 }

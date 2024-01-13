@@ -6,7 +6,7 @@
   "Ranking_Popularity": 364,
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 276,
-  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
@@ -333,7 +333,7 @@
   ],
   "EOS_Progressed": 1390,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4464,9 +4464,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 528
+      "UsersEstimate": 542
     },
     {
       "ID": "TouchGrass",
@@ -4537,8 +4537,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-12T23:00:35.1873511+00:00",
-  "LastChanged_Achievements": "2024-01-13T18:05:10.6041998+00:00",
+  "LastChanged_Achievements": "2024-01-13T19:04:17.8645336+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-13T17:57:33.9892552+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:05:10.6043277+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:57:16.5102674+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:04:17.8645911+00:00"
 }

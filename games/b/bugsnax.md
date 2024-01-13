@@ -6,38 +6,38 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~28,250 |
-| Gone Home | 93.00% | ~27,085 |
-| Wonderfalls | 87.00% | ~25,338 |
-| Got to Catch a Few | 77.00% | ~22,425 |
-| Double Trapper | 75.00% | ~21,843 |
+| Everybody Gets One | 97.00% | ~28,251 |
+| Gone Home | 93.00% | ~27,086 |
+| Wonderfalls | 87.00% | ~25,339 |
+| Got to Catch a Few | 77.00% | ~22,426 |
+| Double Trapper | 75.00% | ~21,844 |
 | I'm Stuffed | 69.00% | ~20,096 |
 | Got to Catch a Lot | 66.00% | ~19,222 |
 | Talkin' 'Bout Bugsnax | 61.00% | ~17,766 |
-| In the Arms of the Gramble | 59.00% | ~17,183 |
-| Know Thy Neighbor | 59.00% | ~17,183 |
+| In the Arms of the Gramble | 59.00% | ~17,184 |
+| Know Thy Neighbor | 59.00% | ~17,184 |
 | Perf Dirt | 57.00% | ~16,601 |
-| Launch Party | 56.00% | ~16,309 |
+| Launch Party | 56.00% | ~16,310 |
 | Vacation's End | 53.00% | ~15,436 |
-| Bossy Bugs | 46.00% | ~13,397 |
+| Bossy Bugs | 46.00% | ~13,398 |
 | Survivor | 45.00% | ~13,106 |
-| That Reminds Me of a Puzzle | 43.00% | ~12,523 |
+| That Reminds Me of a Puzzle | 43.00% | ~12,524 |
 | Sidetracked | 40.00% | ~11,650 |
-| Film Buff | 38.00% | ~11,067 |
-| Combo Meal | 38.00% | ~11,067 |
+| Film Buff | 38.00% | ~11,068 |
+| Combo Meal | 38.00% | ~11,068 |
 | Midnight Snak | 36.00% | ~10,485 |
-| Candid Cryptid | 35.00% | ~10,193 |
+| Candid Cryptid | 35.00% | ~10,194 |
 | Got to Catch Them All | 33.00% | ~9,611 |
 | Deep Impact | 23.00% | ~6,699 |
 | Grab Bag | 23.00% | ~6,699 |
 | Feeding Frenzy | 19.00% | ~5,534 |
 | Clothesline | 17.00% | ~4,951 |
 | Say Cheese! | 16.00% | ~4,660 |
-| Sundae Best | 14.00% | ~4,077 |
+| Sundae Best | 14.00% | ~4,078 |
 | Live Laugh Hut | 9.00% | ~2,621 |
 | Dapper Capper | 7.00% | ~2,039 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,124 (Ranked 143)  
+Progressed: 29,125 (Ranked 143)  
 Completed: 1,425 (4.89%) (Ranked 77)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,10 +304,10 @@ Completed: 1,425 (4.89%) (Ranked 77)
 | 2024-01-10 | 29,106 | 1,423 |
 | 2024-01-11 | 29,110 | 1,423 |
 | 2024-01-12 | 29,118 | 1,425 |
-| 2024-01-13 | 29,124 | 1,425 |
+| 2024-01-13 | 29,125 | 1,425 |
 ## Awards
 Max (Amazing Storytelling): 45  (Ranked 474)  
-Sum: 385 (Ranked 364)  
+Sum: 386 (Ranked 364)  
 Diff (max vs sum): 110  
 | Award | Count |
 | ----- | ----- |
@@ -315,7 +315,7 @@ Diff (max vs sum): 110
 | This game is Great for Beginners | 39 |
 | This game has Quickly Understood Controls | 38 |
 | This game has Amazing Characters | 37 |
-| This game is Highly Recommended | 34 |
+| This game is Highly Recommended | 35 |
 | This game is Great for Quick Sessions | 34 |
 | This game is Extremely Fun | 33 |
 | This game has Diverse Characters | 32 |
@@ -460,4 +460,4 @@ Diff (max vs sum): 110
 | 2024-01-01 | 4.86 | - | 45 | 381 |
 | 2024-01-06 | 4.86 | - | 45 | 382 |
 | 2024-01-07 | 4.86 | - | 45 | 384 |
-| 2024-01-13 | 4.86 | - | 45 | 385 |
+| 2024-01-13 | 4.86 | - | 45 | 386 |

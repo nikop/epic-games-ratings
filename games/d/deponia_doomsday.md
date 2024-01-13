@@ -6,13 +6,13 @@ Rating: 4.55 (Ranked 529)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Huzza, he's back. | 84.00% | ~444 |
-| And again, and again, and... | 62.00% | ~327 |
+| And again, and again, and... | 62.00% | ~328 |
 | Kuvaq Minigame-Master | 60.00% | ~317 |
 | Burn, Elysium, burn! | 60.00% | ~317 |
 | FunScore | 53.00% | ~280 |
-| Funtime's over | 51.00% | ~269 |
-| Chunky | 48.00% | ~253 |
-| Boat of love, boat of love | 47.00% | ~248 |
+| Funtime's over | 51.00% | ~270 |
+| Chunky | 48.00% | ~254 |
+| Boat of love, boat of love | 47.00% | ~249 |
 | Shall we play a game? | 46.00% | ~243 |
 | School's out | 42.00% | ~222 |
 | Sole Music | 36.00% | ~190 |
@@ -22,8 +22,8 @@ Rating: 4.55 (Ranked 529)
 | No man left behind! | 28.00% | ~148 |
 | Photo Friend | 25.00% | ~132 |
 | Brainfreeze | 20.00% | ~106 |
-| Masseltov | 19.00% | ~100 |
-| And everything comes full circle. | 19.00% | ~100 |
+| Masseltov | 19.00% | ~101 |
+| And everything comes full circle. | 19.00% | ~101 |
 | Quickdraw | 15.00% | ~79 |
 | Thuna...? | 14.00% | ~74 |
 | Monstrous Harassment | 14.00% | ~74 |
@@ -42,8 +42,8 @@ Rating: 4.55 (Ranked 529)
 | Every man for himself! | 5.00% | ~26 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528 (Ranked 350)  
-Completed: 7 (1.33%) (Ranked 157)  
+Progressed: 529 (Ranked 350)  
+Completed: 7 (1.32%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -155,6 +155,7 @@ Completed: 7 (1.33%) (Ranked 157)
 | 2024-01-09 | 525 | 7 |
 | 2024-01-11 | 527 | 7 |
 | 2024-01-12 | 528 | 7 |
+| 2024-01-13 | 529 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

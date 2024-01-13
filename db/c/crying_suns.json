@@ -6,7 +6,7 @@
   "Ranking_Popularity": 288,
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 45,
-  "Ranking_EOS_Completed": 399,
+  "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
@@ -709,9 +709,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473794,
+  "EOS_Progressed": 473795,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28424,6 +28424,11 @@
       "Time": "2024-01-13T18:11:09.5460557+00:00",
       "NumProgressed": 473794,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-13T19:10:14.4020605+00:00",
+      "NumProgressed": 473795,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -28475,7 +28480,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47379
+      "UsersEstimate": 47380
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -28523,7 +28528,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312704
+      "UsersEstimate": 312705
     },
     {
       "ID": "achievement_story_landa",
@@ -28555,7 +28560,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118448
+      "UsersEstimate": 118449
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -28859,7 +28864,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208469
+      "UsersEstimate": 208470
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -29066,21 +29071,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17728,
+      "Progressed": 17729,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473794,
+      "Progressed": 473795,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-13T18:11:09.5460554+00:00",
+  "LastChanged_Achievements": "2024-01-13T19:10:14.4020603+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:31.2733774+00:00",
-  "LastUpdate_Ratings": "2024-01-13T17:59:46.070317+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:11:09.5462346+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:58:43.9796288+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:10:14.4022207+00:00"
 }

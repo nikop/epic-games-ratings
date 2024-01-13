@@ -6,8 +6,8 @@
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 257,
-  "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_Completed": 400,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1886,
+  "EOS_Progressed": 1887,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5054,6 +5054,11 @@
       "Time": "2024-01-13T14:09:49.825027+00:00",
       "NumProgressed": 1886,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T19:09:39.4085462+00:00",
+      "NumProgressed": 1887,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5137,7 +5142,7 @@
       "Name": "The Collector",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -5217,7 +5222,7 @@
       "Name": "Detective",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -5241,7 +5246,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -5265,7 +5270,7 @@
       "Name": "Get your hands dirty",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -5311,9 +5316,9 @@
       "ID": "NEW_ACHIEVEMENT_MINER",
       "SetID": "l546gc",
       "Name": "Miner",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 490
+      "UsersEstimate": 472
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -5321,7 +5326,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -5448,7 +5453,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1886,
+      "Progressed": 1887,
       "Completed": 0
     }
   ],
@@ -5456,8 +5461,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2024-01-13T15:58:11.9405627+00:00",
-  "LastChanged_Achievements": "2024-01-13T18:10:22.6214638+00:00",
+  "LastChanged_Achievements": "2024-01-13T19:09:39.408546+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:55.830509+00:00",
-  "LastUpdate_Ratings": "2024-01-13T17:58:38.1308232+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:10:22.6215151+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:57:57.7534162+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:09:39.4086138+00:00"
 }

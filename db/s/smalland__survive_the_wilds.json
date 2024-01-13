@@ -6,8 +6,8 @@
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 154,
-  "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_Completed": 328,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -429,9 +429,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21348,
+  "EOS_Progressed": 21350,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10664,6 +10664,11 @@
       "Time": "2024-01-13T13:12:48.2203943+00:00",
       "NumProgressed": 21348,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-13T19:09:55.6759871+00:00",
+      "NumProgressed": 21350,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -10699,7 +10704,7 @@
       "Name": "Forming bonds",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "MeetElder",
@@ -10731,7 +10736,7 @@
       "Name": "Vertebrate hunter",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "PickupChitin",
@@ -10778,7 +10783,7 @@
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 21348,
+      "Progressed": 21350,
       "Completed": 18
     }
   ],
@@ -10786,8 +10791,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2024-01-09T21:57:23.548781+00:00",
-  "LastChanged_Achievements": "2024-01-13T18:10:45.3604664+00:00",
+  "LastChanged_Achievements": "2024-01-13T19:09:55.6759868+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:56.8631892+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:01:01.3859629+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:10:45.3605382+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:59:34.9165367+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:09:55.6760664+00:00"
 }

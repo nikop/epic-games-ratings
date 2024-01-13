@@ -6,7 +6,7 @@
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 169,
-  "Ranking_EOS_Completed": 357,
+  "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
@@ -2280,9 +2280,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16681,
+  "EOS_Progressed": 16686,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 528,
+  "EOS_NewPlayers": 532,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19890,6 +19890,11 @@
       "Time": "2024-01-13T18:11:13.7041477+00:00",
       "NumProgressed": 16681,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T19:10:17.6989818+00:00",
+      "NumProgressed": 16686,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20253,7 +20258,7 @@
       "Name": "Architect",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -20333,7 +20338,7 @@
       "Name": "Explorer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -20379,9 +20384,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INTERCESSOR",
       "SetID": "9201eeb",
       "Name": "Intercessor",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 167
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
@@ -20389,7 +20394,7 @@
       "Name": "Intrepid",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -20813,7 +20818,7 @@
       "Name": "Friendly Family",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -21259,9 +21264,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA",
       "SetID": "9201eeb",
       "Name": "Hagia Sophia",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
@@ -21269,7 +21274,7 @@
       "Name": "Hanging Gardens",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -22764,21 +22769,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16681,
+      "Progressed": 16686,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16681,
+      "Progressed": 16686,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-13T07:59:51.2247569+00:00",
-  "LastChanged_Achievements": "2024-01-13T18:11:13.704147+00:00",
+  "LastChanged_Achievements": "2024-01-13T19:10:17.6989817+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:00:46.6801705+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:11:13.705166+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:59:24.127079+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:10:17.7000005+00:00"
 }

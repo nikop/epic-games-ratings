@@ -24,8 +24,8 @@
 | The Familiar | 5.00% | ~7 |
 | Ancient Nemesis | 5.00% | ~7 |
 | Oracle Mastery | 5.00% | ~7 |
+| Traveler Mastery | 4.00% | ~6 |
 | Raider Mastery | 3.00% | ~4 |
-| Traveler Mastery | 3.00% | ~4 |
 | Warden Mastery | 3.00% | ~4 |
 | The Plot Thickens | 3.00% | ~4 |
 | Best Pupil | 2.00% | ~3 |
@@ -46,7 +46,7 @@
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 149 (Ranked 462)  
-Completed: 0 (0.00%) (Ranked 399)  
+Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -8,16 +8,16 @@ Number of Ratings: 76  (23.09.2022)
 | ---- | ---------- | ----- |
 | Spatula Seeker | 23.00% | ~227 |
 | Sponge Smasher | 23.00% | ~227 |
-| Jellyfish Jam | 22.00% | ~217 |
-| Jellyfishing | 17.00% | ~167 |
+| Jellyfish Jam | 21.00% | ~207 |
+| Jellyfishing | 17.00% | ~168 |
 | Sweet Victory | 13.00% | ~128 |
 | Sock Getter | 13.00% | ~128 |
 | Time For Tutorial | 13.00% | ~128 |
-| Super Spatula Seeker | 12.00% | ~118 |
-| Star Smasher | 12.00% | ~118 |
-| Uptown and Downtown | 11.00% | ~108 |
-| Squirrel Smasher | 11.00% | ~108 |
-| Surf's Up! | 11.00% | ~108 |
+| Super Spatula Seeker | 12.00% | ~119 |
+| Star Smasher | 12.00% | ~119 |
+| Uptown and Downtown | 11.00% | ~109 |
+| Squirrel Smasher | 11.00% | ~109 |
+| Surf's Up! | 11.00% | ~109 |
 | Life's as extreme as you wanna make it! | 9.00% | ~89 |
 | Toxic Terror | 9.00% | ~89 |
 | Hit Rock Bottom | 9.00% | ~89 |
@@ -30,16 +30,16 @@ Number of Ratings: 76  (23.09.2022)
 | Ship Shape | 5.00% | ~49 |
 | Shanghaied | 5.00% | ~49 |
 | Kelp Forest of Fear | 5.00% | ~49 |
-| The Small Does Not Rule | 4.00% | ~39 |
-| SpongeBob vs SpongeBob! | 4.00% | ~39 |
-| Sleepy Time | 4.00% | ~39 |
-| Sock Concert | 4.00% | ~39 |
-| Mega Spatula Seeker | 4.00% | ~39 |
+| The Small Does Not Rule | 4.00% | ~40 |
+| SpongeBob vs SpongeBob! | 4.00% | ~40 |
+| Sleepy Time | 4.00% | ~40 |
+| Sock Concert | 4.00% | ~40 |
+| Mega Spatula Seeker | 4.00% | ~40 |
 | 100% SpongeBob | 1.00% | ~10 |
 | Sock Opera | 1.00% | ~10 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 985 (Ranked 297)  
+Progressed: 988 (Ranked 297)  
 Completed: 8 (0.81%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 8 (0.81%) (Ranked 192)
 | 2024-01-10 | 929 | 8 |
 | 2024-01-11 | 954 | 8 |
 | 2024-01-12 | 970 | 8 |
-| 2024-01-13 | 985 | 8 |
+| 2024-01-13 | 988 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 501)  
 Sum: 36 (Ranked 533)  

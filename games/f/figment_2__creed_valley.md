@@ -24,7 +24,7 @@
 | Memory Completionist | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 73 (Ranked 530)  
-Completed: 0 (0.00%) (Ranked 399)  
+Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

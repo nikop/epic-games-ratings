@@ -6,7 +6,7 @@
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 159,
-  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18955,
+  "EOS_Progressed": 18959,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 543,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17258,6 +17258,11 @@
       "Time": "2024-01-13T18:05:07.3835116+00:00",
       "NumProgressed": 18955,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2024-01-13T19:04:15.6246971+00:00",
+      "NumProgressed": 18959,
+      "NumCompleted": 64
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17286,7 +17291,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2464
+      "UsersEstimate": 2465
     },
     {
       "ID": "12",
@@ -17294,7 +17299,7 @@
       "Name": "Data Archivist",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     },
     {
       "ID": "13",
@@ -17302,7 +17307,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3412
+      "UsersEstimate": 3413
     },
     {
       "ID": "14",
@@ -17310,7 +17315,7 @@
       "Name": "Doctor Approved",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "15",
@@ -17342,7 +17347,7 @@
       "Name": "Bottoms up!",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "19",
@@ -17374,7 +17379,7 @@
       "Name": "Drone Dodger",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2464
+      "UsersEstimate": 2465
     },
     {
       "ID": "22",
@@ -17422,7 +17427,7 @@
       "Name": "Bosmang",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2464
+      "UsersEstimate": 2465
     },
     {
       "ID": "28",
@@ -17446,7 +17451,7 @@
       "Name": "Captain Drummer",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2843
+      "UsersEstimate": 2844
     },
     {
       "ID": "30",
@@ -17549,22 +17554,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18955,
+      "Progressed": 18959,
       "Completed": 64
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4909,
-      "Completed": 1310
+      "Progressed": 4913,
+      "Completed": 1311
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-11T01:50:11.8166633+00:00",
-  "LastChanged_Achievements": "2024-01-13T18:05:07.383511+00:00",
+  "LastChanged_Achievements": "2024-01-13T19:04:15.6246968+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-13T17:58:17.6563538+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:05:07.3836323+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:57:44.7582631+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:04:15.6248262+00:00"
 }

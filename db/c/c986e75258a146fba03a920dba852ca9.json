@@ -2,11 +2,11 @@
   "ID": "c986e75258a146fba03a920dba852ca9",
   "Name": "Cat Quest",
   "ProductSlug": "cat-quest-8373e0",
-  "Ranking_Rating": 286,
-  "Ranking_Popularity": 321,
-  "Ranking_PopularitySum": 433,
+  "Ranking_Rating": 285,
+  "Ranking_Popularity": 316,
+  "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 67,
-  "Ranking_EOS_Completed": 284,
+  "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 9,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
@@ -149,24 +149,30 @@
       "Rating": 4.67,
       "NumberOfAwards": 168,
       "NumberOfAwardsMax": 168
+    },
+    {
+      "Time": "2024-01-13T19:00:36.2934146+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 176,
+      "NumberOfAwardsMax": 176
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 168,
-  "NumberOfAwardsMax": 168,
+  "NumberOfAwards": 176,
+  "NumberOfAwardsMax": 176,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 168
+      "Count": 176
     }
   ],
-  "EOS_Progressed": 261587,
-  "EOS_Completed": 468,
-  "EOS_NewPlayers": 23946,
-  "EOS_NewCompleters": 146,
+  "EOS_Progressed": 261688,
+  "EOS_Completed": 469,
+  "EOS_NewPlayers": 23885,
+  "EOS_NewCompleters": 144,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
@@ -2078,6 +2084,11 @@
       "Time": "2024-01-13T18:08:31.2498031+00:00",
       "NumProgressed": 261587,
       "NumCompleted": 468
+    },
+    {
+      "Time": "2024-01-13T19:08:19.8753857+00:00",
+      "NumProgressed": 261688,
+      "NumCompleted": 469
     }
   ],
   "AchievementsAdded": "2023-12-28T17:03:50.5211758+00:00",
@@ -2090,7 +2101,7 @@
       "Name": "Dungeon Master",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 10463
+      "UsersEstimate": 10468
     },
     {
       "ID": "com.thegentlebros.catquest.equipment_01",
@@ -2098,7 +2109,7 @@
       "Name": "Fashionista Lion",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 20927
+      "UsersEstimate": 20935
     },
     {
       "ID": "com.thegentlebros.catquest.level_03",
@@ -2106,7 +2117,7 @@
       "Name": "Super Catventurer",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 7848
+      "UsersEstimate": 7851
     },
     {
       "ID": "com.thegentlebros.catquest.mainquest_02",
@@ -2114,7 +2125,7 @@
       "Name": "Felingard Loremaster",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 65397
+      "UsersEstimate": 65422
     },
     {
       "ID": "com.thegentlebros.catquest.mew_00",
@@ -2138,7 +2149,7 @@
       "Name": "Naked Cat",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "com.thegentlebros.catquest.mew_03",
@@ -2154,7 +2165,7 @@
       "Name": "Stronger Enemies",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1832
     },
     {
       "ID": "com.thegentlebros.catquest.mew_05",
@@ -2170,7 +2181,7 @@
       "Name": "Saviour of the Cats",
       "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 34006
+      "UsersEstimate": 34019
     },
     {
       "ID": "com.thegentlebros.catquest.skill_01",
@@ -2178,23 +2189,23 @@
       "Name": "Power of the Arcane",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 54933
+      "UsersEstimate": 54954
     }
   ],
   "AchievementSets": [
     {
       "ID": "8g22406",
       "IsBase": true,
-      "Progressed": 261587,
-      "Completed": 468
+      "Progressed": 261688,
+      "Completed": 469
     }
   ],
   "FirstSeen": "2023-12-28T18:57:14.4261716+00:00",
   "FirstSeenRating": "2023-12-29T10:57:23.2583361+00:00",
   "FirstSeenAchievements": "2023-12-28T17:03:50.5211757+00:00",
-  "LastChanged": "2024-01-13T14:00:50.5866299+00:00",
-  "LastChanged_Achievements": "2024-01-13T18:08:31.2498025+00:00",
+  "LastChanged": "2024-01-13T19:00:36.2934145+00:00",
+  "LastChanged_Achievements": "2024-01-13T19:08:19.8753854+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.0806357+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:02:34.9188755+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:08:31.2498575+00:00"
+  "LastUpdate_Ratings": "2024-01-13T19:00:36.2934148+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:08:19.8754015+00:00"
 }

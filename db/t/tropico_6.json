@@ -6,8 +6,8 @@
   "Ranking_Popularity": 372,
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 198,
-  "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_Completed": 358,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1587,9 +1587,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7120,
+  "EOS_Progressed": 7122,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16687,6 +16687,11 @@
       "Time": "2024-01-13T18:05:46.9225858+00:00",
       "NumProgressed": 7120,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-13T19:04:43.3956127+00:00",
+      "NumProgressed": 7122,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -16802,7 +16807,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -16826,7 +16831,7 @@
       "Name": "Firestarter",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -16850,7 +16855,7 @@
       "Name": "The Governator",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -16858,7 +16863,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5198
+      "UsersEstimate": 5199
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -16954,7 +16959,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3133
+      "UsersEstimate": 3134
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -16970,7 +16975,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2492
+      "UsersEstimate": 2493
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -16978,7 +16983,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -17002,7 +17007,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -17017,15 +17022,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7120,
+      "Progressed": 7122,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-13T15:59:03.0768568+00:00",
-  "LastChanged_Achievements": "2024-01-13T18:05:46.9225854+00:00",
+  "LastChanged_Achievements": "2024-01-13T19:04:43.3956124+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.4830018+00:00",
-  "LastUpdate_Ratings": "2024-01-13T17:59:29.3598362+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:05:46.9226862+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:58:33.5457765+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:04:43.3957188+00:00"
 }

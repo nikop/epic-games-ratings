@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Set Up | 98.00% | ~2,234 |
-| Digital Casanova | 96.00% | ~2,189 |
+| All Set Up | 98.00% | ~2,235 |
+| Digital Casanova | 96.00% | ~2,190 |
 | Hold my Beer | 61.00% | ~1,391 |
 | Nueva Beginnings | 27.00% | ~616 |
 | Only Thyme Will Tell | 25.00% | ~570 |
@@ -20,8 +20,8 @@
 | Sore Loser | 4.00% | ~91 |
 | Crash and Burn | 2.00% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,280 (Ranked 247)  
-Completed: 12 (0.53%) (Ranked 220)  
+Progressed: 2,281 (Ranked 247)  
+Completed: 12 (0.53%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -223,7 +223,7 @@ Completed: 12 (0.53%) (Ranked 220)
 | 2024-01-10 | 2,210 | 12 |
 | 2024-01-11 | 2,237 | 12 |
 | 2024-01-12 | 2,264 | 12 |
-| 2024-01-13 | 2,280 | 12 |
+| 2024-01-13 | 2,281 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

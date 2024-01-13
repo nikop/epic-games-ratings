@@ -9,16 +9,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 4.00% | ~10,150 |
 | Beast Intentions | 2.00% | ~5,075 |
 | The Cursed Farmer | 2.00% | ~5,075 |
-| The Ring of Regeneration | 1.00% | ~2,537 |
-| The Mad Wizard | 1.00% | ~2,537 |
+| The Ring of Regeneration | 1.00% | ~2,538 |
+| The Mad Wizard | 1.00% | ~2,538 |
 | Are Ya Chicken? | 0.90% | ~2,284 |
 | Were-verpowered | 0.80% | ~2,030 |
 | Welcome to Sigil | 0.80% | ~1,760 |
 | Seeking Allies | 0.70% | ~1,776 |
 | Mad Cow Disease | 0.70% | ~1,776 |
 | Friendly Imps | 0.70% | ~1,776 |
-| A Persistent Buzzing | 0.60% | ~1,522 |
-| Pure Energy | 0.60% | ~1,522 |
+| A Persistent Buzzing | 0.60% | ~1,523 |
+| Pure Energy | 0.60% | ~1,523 |
 | Fast Food | 0.60% | ~1,320 |
 | Maddening | 0.50% | ~1,269 |
 | Terror in the Dark | 0.50% | ~1,269 |
@@ -50,39 +50,39 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 0.30% | ~761 |
 | Overdue Rendezvous | 0.30% | ~761 |
 | The Templar's Camp | 0.30% | ~761 |
-| Pros and CONs | 0.20% | ~507 |
-| Wet Feet | 0.20% | ~507 |
-| Supply Run | 0.20% | ~507 |
+| Pros and CONs | 0.20% | ~508 |
+| Wet Feet | 0.20% | ~508 |
+| Supply Run | 0.20% | ~508 |
 | Vecna Lives! | 0.20% | ~440 |
-| Homecoming | 0.20% | ~507 |
-| The Lost Heir of Omu | 0.20% | ~507 |
-| The Forbidden City | 0.20% | ~507 |
-| Street War | 0.20% | ~507 |
-| Wisdom Check | 0.20% | ~507 |
-| The Mists of Ravenloft | 0.20% | ~507 |
-| Invisible Shadows | 0.20% | ~507 |
-| Family Entanglements | 0.20% | ~507 |
-| The Dinner Party | 0.20% | ~507 |
-| The Botched Kidnapping | 0.20% | ~507 |
-| Tower on the Lake | 0.20% | ~507 |
-| Trollskull Manor | 0.20% | ~507 |
-| Attack on the Manor | 0.20% | ~507 |
-| The Death Curse | 0.20% | ~507 |
-| Nimble Escape | 0.20% | ~507 |
-| Premature Betrayal | 0.20% | ~507 |
-| A Tale of Two Cities | 0.20% | ~507 |
-| The Dead Three | 0.20% | ~507 |
-| Flying Monkey Skulls of Doom | 0.20% | ~507 |
-| The Darkness Runs Deeper | 0.20% | ~507 |
-| Dinosaur Racing | 0.20% | ~507 |
-| Close Escort | 0.20% | ~507 |
-| Constant Banditry | 0.20% | ~507 |
-| The Long Haul | 0.20% | ~507 |
-| Lost in the Deep | 0.20% | ~507 |
-| Easily Distracted | 0.20% | ~507 |
-| Rude Welcome | 0.20% | ~507 |
-| Durable Deep | 0.20% | ~507 |
-| Rescue in the Jungle | 0.20% | ~507 |
+| Homecoming | 0.20% | ~508 |
+| The Lost Heir of Omu | 0.20% | ~508 |
+| The Forbidden City | 0.20% | ~508 |
+| Street War | 0.20% | ~508 |
+| Wisdom Check | 0.20% | ~508 |
+| The Mists of Ravenloft | 0.20% | ~508 |
+| Invisible Shadows | 0.20% | ~508 |
+| Family Entanglements | 0.20% | ~508 |
+| The Dinner Party | 0.20% | ~508 |
+| The Botched Kidnapping | 0.20% | ~508 |
+| Tower on the Lake | 0.20% | ~508 |
+| Trollskull Manor | 0.20% | ~508 |
+| Attack on the Manor | 0.20% | ~508 |
+| The Death Curse | 0.20% | ~508 |
+| Nimble Escape | 0.20% | ~508 |
+| Premature Betrayal | 0.20% | ~508 |
+| A Tale of Two Cities | 0.20% | ~508 |
+| The Dead Three | 0.20% | ~508 |
+| Flying Monkey Skulls of Doom | 0.20% | ~508 |
+| The Darkness Runs Deeper | 0.20% | ~508 |
+| Dinosaur Racing | 0.20% | ~508 |
+| Close Escort | 0.20% | ~508 |
+| Constant Banditry | 0.20% | ~508 |
+| The Long Haul | 0.20% | ~508 |
+| Lost in the Deep | 0.20% | ~508 |
+| Easily Distracted | 0.20% | ~508 |
+| Rude Welcome | 0.20% | ~508 |
+| Durable Deep | 0.20% | ~508 |
+| Rescue in the Jungle | 0.20% | ~508 |
 | The Beginning is the End | 0.20% | ~440 |
 | The Brains of an Illithid's Desire | 0.20% | ~440 |
 | Upholding the Law | 0.10% | ~254 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,744 (Ranked 70)  
+Progressed: 253,752 (Ranked 70)  
 Completed: 2,616 (1.03%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -821,7 +821,7 @@ Completed: 2,616 (1.03%) (Ranked 177)
 | 2024-01-10 | 253,250 | 2,611 |
 | 2024-01-11 | 253,420 | 2,614 |
 | 2024-01-12 | 253,598 | 2,614 |
-| 2024-01-13 | 253,744 | 2,616 |
+| 2024-01-13 | 253,752 | 2,616 |
 ## Awards
 Max (Great for Beginners): 5,777  (Ranked 74)  
 Sum: 33,476 (Ranked 41)  

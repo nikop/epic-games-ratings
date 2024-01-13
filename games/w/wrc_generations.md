@@ -4,12 +4,12 @@
 Rating: 4.49 (Ranked 641)  
 ## Awards
 Max (Great for Beginners): 27  (Ranked 542)  
-Sum: 50 (Ranked 515)  
-Diff (max vs sum): 27  
+Sum: 51 (Ranked 513)  
+Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 27 |
-| This game has Realistic Visuals | 23 |
+| This game has Realistic Visuals | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -89,4 +89,4 @@ Diff (max vs sum): 27
 | 2024-01-10 | 4.49 | 26 | 49 |
 | 2024-01-11 | 4.48 | 26 | 49 |
 | 2024-01-12 | 4.49 | 26 | 49 |
-| 2024-01-13 | 4.49 | 27 | 50 |
+| 2024-01-13 | 4.49 | 27 | 51 |

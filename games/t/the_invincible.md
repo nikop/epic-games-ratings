@@ -5,7 +5,7 @@ Rating: 4.55 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 70.00% | ~1,167 |
+| The Camp | 71.00% | ~1,184 |
 | The Teleprobe | 57.00% | ~950 |
 | The City | 51.00% | ~850 |
 | The field base | 46.00% | ~767 |
@@ -36,7 +36,7 @@ Rating: 4.55 (Ranked 529)
 | No more mistakes | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,667 (Ranked 265)  
-Completed: 1 (0.06%) (Ranked 333)  
+Completed: 1 (0.06%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

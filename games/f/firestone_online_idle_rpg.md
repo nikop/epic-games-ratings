@@ -5,10 +5,10 @@ Rating: 4.11 (Ranked 1,022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,153 |
-| World Map | 78.00% | ~3,483 |
-| Temple of Eternals | 56.00% | ~2,501 |
-| Prestigious | 52.00% | ~2,322 |
+| Victor | 93.00% | ~4,154 |
+| World Map | 78.00% | ~3,484 |
+| Temple of Eternals | 56.00% | ~2,502 |
+| Prestigious | 52.00% | ~2,323 |
 | Fellowship Power | 41.00% | ~1,831 |
 | Full Party | 29.00% | ~1,295 |
 | Guild Power | 22.00% | ~983 |
@@ -62,12 +62,12 @@ Rating: 4.11 (Ranked 1,022)
 | Arena Challenger | 3.00% | ~134 |
 | Ebony Jungle Liberator | 3.00% | ~134 |
 | Mythic Power | 3.00% | ~134 |
-| Cauldron Liberator | 2.00% | ~89 |
 | Enchanting skill x5 | 2.00% | ~89 |
 | Gear Enchanting | 2.00% | ~89 |
 | Guardian Master | 2.00% | ~89 |
 | Pokerface | 2.00% | ~89 |
 | What lies behind the bush | 2.00% | ~89 |
+| Cauldron Liberator | 1.00% | ~45 |
 | Conqueror | 1.00% | ~45 |
 | Titan Power | 1.00% | ~45 |
 | Transmute | 1.00% | ~45 |
@@ -81,8 +81,8 @@ Rating: 4.11 (Ranked 1,022)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,466 (Ranked 208)  
-Completed: 2 (0.04%) (Ranked 351)  
+Progressed: 4,467 (Ranked 208)  
+Completed: 2 (0.04%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -344,7 +344,7 @@ Completed: 2 (0.04%) (Ranked 351)
 | 2024-01-10 | 4,381 | 2 |
 | 2024-01-11 | 4,414 | 2 |
 | 2024-01-12 | 4,441 | 2 |
-| 2024-01-13 | 4,466 | 2 |
+| 2024-01-13 | 4,467 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 480)  
 Sum: 161 (Ranked 440)  

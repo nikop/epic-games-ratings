@@ -507,9 +507,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4048,
+  "EOS_Progressed": 4049,
   "EOS_Completed": 144,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.56,
   "EosHistory": [
@@ -7317,6 +7317,11 @@
       "Time": "2024-01-13T18:07:07.1539603+00:00",
       "NumProgressed": 4048,
       "NumCompleted": 144
+    },
+    {
+      "Time": "2024-01-13T19:05:40.3254518+00:00",
+      "NumProgressed": 4049,
+      "NumCompleted": 144
     }
   ],
   "TotalAchievements": 14,
@@ -7328,7 +7333,7 @@
       "Name": "Ancient Curse",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -7432,14 +7437,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3198
+      "UsersEstimate": 3199
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4048,
+      "Progressed": 4049,
       "Completed": 144
     }
   ],
@@ -7447,8 +7452,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-05T23:57:59.2122093+00:00",
-  "LastChanged_Achievements": "2024-01-13T18:07:07.1539595+00:00",
+  "LastChanged_Achievements": "2024-01-13T19:05:40.3254516+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:45.5665199+00:00",
-  "LastUpdate_Ratings": "2024-01-13T17:59:17.8011842+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:07:07.1540115+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:58:24.9248579+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:05:40.325496+00:00"
 }

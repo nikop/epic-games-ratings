@@ -1240,9 +1240,9 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 113
     },
     {
       "ID": "Kour",
@@ -1272,9 +1272,9 @@
       "ID": "Kvitky",
       "SetID": "ag48e8e",
       "Name": "Blossoms",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "MluviciPapouch",
@@ -1431,8 +1431,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-13T18:08:03.8365615+00:00",
+  "LastChanged_Achievements": "2024-01-13T19:06:21.3029632+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:18.1043039+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:03:20.6850515+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:08:03.836627+00:00"
+  "LastUpdate_Ratings": "2024-01-13T19:03:08.5698777+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:06:21.3029941+00:00"
 }

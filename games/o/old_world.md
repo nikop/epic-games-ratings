@@ -8,11 +8,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Settler | 4.00% | ~667 |
 | Play a Single Player Game | 4.00% | ~667 |
-| Architect | 3.00% | ~500 |
-| Explorer | 3.00% | ~500 |
-| Intrepid | 3.00% | ~500 |
-| Friendly Family | 3.00% | ~500 |
-| Hanging Gardens | 3.00% | ~500 |
+| Architect | 3.00% | ~501 |
+| Explorer | 3.00% | ~501 |
+| Intrepid | 3.00% | ~501 |
+| Friendly Family | 3.00% | ~501 |
+| Hanging Gardens | 3.00% | ~501 |
 | Able | 2.00% | ~334 |
 | Ambitious | 2.00% | ~334 |
 | Enlightened | 2.00% | ~334 |
@@ -49,6 +49,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 1.00% | ~167 |
 | Brilliant | 1.00% | ~167 |
 | Great | 1.00% | ~167 |
+| Intercessor | 1.00% | ~167 |
 | Wise | 1.00% | ~167 |
 | Legendary Cities | 1.00% | ~167 |
 | Able Difficulty | 1.00% | ~167 |
@@ -66,7 +67,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 1.00% | ~167 |
 | Egyptian Paganism | 1.00% | ~167 |
 | Mythology | 1.00% | ~167 |
-| Intercessor | 0.90% | ~150 |
 | Valiant | 0.90% | ~150 |
 | Sages | 0.90% | ~150 |
 | Learn to Play 3 | 0.90% | ~150 |
@@ -81,6 +81,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.70% | ~117 |
 | Patrons | 0.70% | ~117 |
 | Statesmen | 0.70% | ~117 |
+| Hagia Sophia | 0.70% | ~117 |
 | Temple of Solomon | 0.70% | ~117 |
 | Power to the People | 0.70% | ~117 |
 | Economic Reform | 0.70% | ~117 |
@@ -94,7 +95,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.60% | ~100 |
 | Hittite Iron | 0.60% | ~100 |
 | Circus Maximus | 0.60% | ~100 |
-| Hagia Sophia | 0.60% | ~100 |
 | Pantheon | 0.60% | ~100 |
 | Via Recta Souk | 0.60% | ~100 |
 | Military Prestige | 0.60% | ~100 |
@@ -365,8 +365,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,681 (Ranked 169)  
-Completed: 5 (0.03%) (Ranked 357)  
+Progressed: 16,686 (Ranked 169)  
+Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -633,7 +633,7 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
-| 2024-01-13 | 16,681 | 5 |
+| 2024-01-13 | 16,686 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,927 (Ranked 223)  

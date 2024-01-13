@@ -5,27 +5,27 @@ Rating: 4.55 (Ranked 529)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,932 |
-| Keep 'Em Coming | 65.00% | ~4,163 |
-| Snatched Out | 64.00% | ~4,099 |
+| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,933 |
+| Keep 'Em Coming | 65.00% | ~4,164 |
+| Snatched Out | 64.00% | ~4,100 |
 | Cleaning Lethe, One Nest At A Time | 57.00% | ~3,651 |
 | Call Me Snake | 54.00% | ~3,459 |
 | Something Lurks Under The Hills | 52.00% | ~3,331 |
-| This Was No Papercut | 50.00% | ~3,202 |
-| The Shrink Hates Me | 48.00% | ~3,074 |
-| People Person | 47.00% | ~3,010 |
-| Use The Bumper, That's What It's For | 44.00% | ~2,818 |
-| First Steps Into Madness | 44.00% | ~2,818 |
-| Colonial Barrels | 42.00% | ~2,690 |
+| This Was No Papercut | 50.00% | ~3,203 |
+| The Shrink Hates Me | 48.00% | ~3,075 |
+| People Person | 47.00% | ~3,011 |
+| Use The Bumper, That's What It's For | 44.00% | ~2,819 |
+| First Steps Into Madness | 44.00% | ~2,819 |
+| Colonial Barrels | 42.00% | ~2,691 |
 | Harper's Hell | 38.00% | ~2,434 |
 | Making a Stand | 37.00% | ~2,370 |
 | Damn Dude, You Gotta Lose Some Weight! | 35.00% | ~2,242 |
 | Where It All Begun | 33.00% | ~2,114 |
 | Recouped Investment | 32.00% | ~2,050 |
-| The More The Merrier | 28.00% | ~1,793 |
-| Living Nightmare | 27.00% | ~1,729 |
-| Omelette Du Fromage | 26.00% | ~1,665 |
-| The Darwin Era Was Here | 25.00% | ~1,601 |
+| The More The Merrier | 28.00% | ~1,794 |
+| Living Nightmare | 27.00% | ~1,730 |
+| Omelette Du Fromage | 26.00% | ~1,666 |
+| The Darwin Era Was Here | 25.00% | ~1,602 |
 | Deep Into Insanity | 23.00% | ~1,473 |
 | The Passenger | 23.00% | ~1,473 |
 | Come on, You Wanna Live Forever? | 22.00% | ~1,409 |
@@ -39,9 +39,9 @@ Rating: 4.55 (Ranked 529)
 | The Cable Guy | 17.00% | ~1,089 |
 | Bandage Lover | 16.00% | ~1,025 |
 | Regicide | 13.00% | ~833 |
-| This Went Smoothly | 11.00% | ~705 |
+| This Went Smoothly | 12.00% | ~769 |
 | Heavy Steps | 11.00% | ~705 |
-| Flawless Victory | 10.00% | ~640 |
+| Flawless Victory | 10.00% | ~641 |
 | Perfect Enhancements | 8.00% | ~512 |
 | Hardened In The Heat Of Battle | 6.00% | ~384 |
 | The True Experience | 5.00% | ~320 |
@@ -51,8 +51,8 @@ Rating: 4.55 (Ranked 529)
 | Chalk It Up To Experience | 0.70% | ~45 |
 | This Ain't No Picnic | 0.60% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,405 (Ranked 200)  
-Completed: 3 (0.05%) (Ranked 340)  
+Progressed: 6,406 (Ranked 200)  
+Completed: 3 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -252,7 +252,7 @@ Completed: 3 (0.05%) (Ranked 340)
 | 2024-01-10 | 6,324 | 3 |
 | 2024-01-11 | 6,354 | 3 |
 | 2024-01-12 | 6,384 | 3 |
-| 2024-01-13 | 6,405 | 3 |
+| 2024-01-13 | 6,406 | 3 |
 ## Awards
 Max (Great Boss Battles): 63  (Ranked 429)  
 Sum: 63 (Ranked 500)  

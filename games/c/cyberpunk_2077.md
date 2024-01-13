@@ -1,42 +1,42 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.67 (Ranked 286)  
+Rating: 4.67 (Ranked 285)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~125,972 |
-| The Fool | 11.00% | ~115,475 |
-| Right Back At Ya | 10.00% | ~104,977 |
-| Gun Fu | 9.00% | ~94,479 |
-| The Lovers | 8.00% | ~83,982 |
-| Full Body Conversion | 7.00% | ~73,484 |
-| Christmas Tree Attack | 6.00% | ~62,986 |
-| Stanislavski's Method | 6.00% | ~62,986 |
-| The Hermit | 6.00% | ~62,986 |
-| The Wheel of Fortune | 6.00% | ~62,986 |
-| True Soldier | 6.00% | ~62,986 |
-| All the President's Men | 6.00% | ~10,704 |
-| Arachnophobia | 6.00% | ~10,704 |
-| The High Priestess | 5.00% | ~52,488 |
-| Legend of The Afterlife | 5.00% | ~52,488 |
-| Master Crafter | 4.00% | ~41,991 |
-| Life of the Road | 4.00% | ~41,991 |
-| True Warrior | 4.00% | ~41,991 |
-| Bushido and Chill | 3.00% | ~31,493 |
-| I Am The Law | 3.00% | ~31,493 |
-| The Quick and the Dead | 3.00% | ~31,493 |
-| The World | 3.00% | ~31,493 |
-| Two Heads, One Bullet | 3.00% | ~31,493 |
-| Judy vs Night City | 3.00% | ~31,493 |
-| Relic Ruler | 3.00% | ~5,352 |
-| To Protect and Serve | 2.00% | ~20,995 |
-| The Wandering Fool | 2.00% | ~20,995 |
-| The Sun | 2.00% | ~20,995 |
-| Spin Doctor | 2.00% | ~3,568 |
-| King of Wands | 2.00% | ~3,568 |
-| Easy Come, Easy Go | 2.00% | ~3,568 |
+| V for Vendetta | 12.00% | ~125,979 |
+| The Fool | 11.00% | ~115,481 |
+| Right Back At Ya | 10.00% | ~104,983 |
+| Gun Fu | 9.00% | ~94,484 |
+| The Lovers | 8.00% | ~83,986 |
+| Full Body Conversion | 7.00% | ~73,488 |
+| Christmas Tree Attack | 6.00% | ~62,990 |
+| Stanislavski's Method | 6.00% | ~62,990 |
+| The Hermit | 6.00% | ~62,990 |
+| The Wheel of Fortune | 6.00% | ~62,990 |
+| True Soldier | 6.00% | ~62,990 |
+| All the President's Men | 6.00% | ~10,707 |
+| Arachnophobia | 6.00% | ~10,707 |
+| The High Priestess | 5.00% | ~52,491 |
+| Legend of The Afterlife | 5.00% | ~52,491 |
+| Master Crafter | 4.00% | ~41,993 |
+| Life of the Road | 4.00% | ~41,993 |
+| True Warrior | 4.00% | ~41,993 |
+| Bushido and Chill | 3.00% | ~31,495 |
+| I Am The Law | 3.00% | ~31,495 |
+| The Quick and the Dead | 3.00% | ~31,495 |
+| The World | 3.00% | ~31,495 |
+| Two Heads, One Bullet | 3.00% | ~31,495 |
+| Judy vs Night City | 3.00% | ~31,495 |
+| Relic Ruler | 3.00% | ~5,353 |
+| To Protect and Serve | 2.00% | ~20,997 |
+| The Wandering Fool | 2.00% | ~20,997 |
+| The Sun | 2.00% | ~20,997 |
+| Spin Doctor | 2.00% | ~3,569 |
+| King of Wands | 2.00% | ~3,569 |
+| Easy Come, Easy Go | 2.00% | ~3,569 |
 | To Bad Decisions! | 1.00% | ~10,498 |
 | Breathtaking | 1.00% | ~10,498 |
 | Ten out of Ten | 1.00% | ~10,498 |
@@ -46,9 +46,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | The APB is Not Enough | 0.90% | ~1,606 |
 | Judgement Day | 0.90% | ~1,606 |
 | The Tower | 0.90% | ~1,606 |
-| Must Be Rats | 0.80% | ~8,398 |
-| Temperance | 0.80% | ~8,398 |
-| King of Swords | 0.80% | ~1,427 |
+| Must Be Rats | 0.80% | ~8,399 |
+| Temperance | 0.80% | ~8,399 |
+| King of Swords | 0.80% | ~1,428 |
 | King of Pentacles | 0.70% | ~1,249 |
 | King of Cups | 0.50% | ~892 |
 | City Lights | 0.40% | ~4,199 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,049,770 (Ranked 17)  
-Completed: 3,086 (0.29%) (Ranked 261)  
+Progressed: 1,049,826 (Ranked 17)  
+Completed: 3,086 (0.29%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -342,7 +342,7 @@ Completed: 3,086 (0.29%) (Ranked 261)
 | 2024-01-10 | 1,044,342 | 3,067 |
 | 2024-01-11 | 1,046,687 | 3,071 |
 | 2024-01-12 | 1,048,338 | 3,079 |
-| 2024-01-13 | 1,049,770 | 3,086 |
+| 2024-01-13 | 1,049,826 | 3,086 |
 ## Awards
 Max (Character Customization): 138,203  (Ranked 8)  
 Sum: 489,170 (Ranked 8)  

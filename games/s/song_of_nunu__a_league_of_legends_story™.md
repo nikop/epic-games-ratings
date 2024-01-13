@@ -1,46 +1,46 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.60 (Ranked 428)  
+Rating: 4.60 (Ranked 427)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 75.00% | ~1,159 |
-| I Broke It | 73.00% | ~1,128 |
+| Feels Familiar | 75.00% | ~1,160 |
+| I Broke It | 73.00% | ~1,129 |
 | Better On Ice | 68.00% | ~1,051 |
-| Notai Notes | 67.00% | ~1,035 |
 | Blue Dreams | 66.00% | ~1,020 |
 | He's Famous! | 66.00% | ~1,020 |
-| Cutie Poro | 65.00% | ~1,004 |
+| Notai Notes | 66.00% | ~1,020 |
+| Cutie Poro | 65.00% | ~1,005 |
 | Krugmazing | 64.00% | ~989 |
-| The Fire Below the Mountain | 61.00% | ~942 |
-| Moneyball | 60.00% | ~927 |
+| The Fire Below the Mountain | 61.00% | ~943 |
+| Moneyball | 60.00% | ~928 |
 | Iceborn | 55.00% | ~850 |
-| No Bites | 54.00% | ~834 |
+| No Bites | 54.00% | ~835 |
 | Boom Things | 53.00% | ~819 |
-| Tear of Freedom | 52.00% | ~803 |
+| Tear of Freedom | 52.00% | ~804 |
 | My Darkest Day | 48.00% | ~742 |
 | Rhythm Of Willump | 46.00% | ~711 |
 | The Relentless Storm | 46.00% | ~711 |
-| A Tragic Reminder | 45.00% | ~695 |
+| A Tragic Reminder | 45.00% | ~696 |
 | 3000 Year Blackout | 44.00% | ~680 |
 | So Close | 42.00% | ~649 |
 | The Finisher | 42.00% | ~649 |
-| You Get Used To It | 41.00% | ~633 |
+| You Get Used To It | 41.00% | ~634 |
 | Family | 39.00% | ~603 |
 | Biggest Snowball Ever | 39.00% | ~603 |
-| True Legends | 39.00% | ~603 |
 | Boosted! | 39.00% | ~603 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~603 |
 | Freeze The Ice Witch | 38.00% | ~587 |
-| Bullseye | 36.00% | ~556 |
+| True Legends | 38.00% | ~587 |
+| Bullseye | 36.00% | ~557 |
 | It Is Not Over | 35.00% | ~541 |
-| On The Rocks | 34.00% | ~525 |
+| On The Rocks | 34.00% | ~526 |
 | Snowy Poro | 33.00% | ~510 |
-| Never Gets Old | 32.00% | ~494 |
+| Never Gets Old | 32.00% | ~495 |
 | Vertical Power | 26.00% | ~402 |
 | One From The Heart | 14.00% | ~216 |
-| Yummy | 10.00% | ~154 |
+| Yummy | 10.00% | ~155 |
 | Snowball Fightn't | 9.00% | ~139 |
 | It Was Him | 7.00% | ~108 |
 | Handy Yeti | 6.00% | ~93 |
@@ -50,8 +50,8 @@ Rating: 4.60 (Ranked 428)
 | Sneaky Notai | 1.00% | ~15 |
 | We Are Speed | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,545 (Ranked 267)  
-Completed: 9 (0.58%) (Ranked 216)  
+Progressed: 1,546 (Ranked 267)  
+Completed: 9 (0.58%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -135,7 +135,7 @@ Completed: 9 (0.58%) (Ranked 216)
 | 2024-01-10 | 1,524 | 9 |
 | 2024-01-11 | 1,533 | 9 |
 | 2024-01-12 | 1,539 | 9 |
-| 2024-01-13 | 1,545 | 9 |
+| 2024-01-13 | 1,546 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -25,7 +25,7 @@ Rating: 3.85 (Ranked 1,080)
 | Community Helper | 16.00% | ~311 |
 | Expert Chemist | 14.00% | ~272 |
 | Stone Specialist | 14.00% | ~272 |
-| Line Cook | 12.00% | ~234 |
+| Line Cook | 13.00% | ~253 |
 | Sociable | 12.00% | ~234 |
 | Ablutomaniac | 12.00% | ~234 |
 | Production Sorter | 11.00% | ~214 |
@@ -45,7 +45,7 @@ Rating: 3.85 (Ranked 1,080)
 | Being a donut... | 0.70% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,946 (Ranked 256)  
-Completed: 11 (0.57%) (Ranked 217)  
+Completed: 11 (0.57%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,520 |
-| Off to a good start | 60.00% | ~1,758 |
-| Do... or do not. There is no try | 52.00% | ~1,524 |
-| A good blaster at your side | 24.00% | ~703 |
+| New Recruit | 86.00% | ~2,522 |
+| Off to a good start | 60.00% | ~1,759 |
+| Do... or do not. There is no try | 52.00% | ~1,525 |
+| A good blaster at your side | 24.00% | ~704 |
 | I suggest a new strategy | 17.00% | ~498 |
 | Great shot, kid! | 15.00% | ~440 |
 | Scrap collector | 14.00% | ~410 |
@@ -15,15 +15,15 @@
 | The power of the Force | 12.00% | ~352 |
 | Together we can rule the galaxy | 12.00% | ~352 |
 | Shoot first | 12.00% | ~352 |
-| Collector | 11.00% | ~322 |
-| Tell Jabba that I've got his money | 8.00% | ~234 |
-| Best star-pilot in the galaxy | 8.00% | ~234 |
+| Collector | 11.00% | ~323 |
+| Tell Jabba that I've got his money | 8.00% | ~235 |
+| Best star-pilot in the galaxy | 8.00% | ~235 |
 | Never tell me the odds! | 7.00% | ~205 |
 | Survivor | 7.00% | ~205 |
 | What's the cargo? | 6.00% | ~176 |
 | A cunning warrior | 6.00% | ~176 |
-| "Gonk? Gonk!" | 5.00% | ~146 |
-| Judge me by my size, do you? | 5.00% | ~146 |
+| "Gonk? Gonk!" | 5.00% | ~147 |
+| Judge me by my size, do you? | 5.00% | ~147 |
 | Distinguished | 4.00% | ~117 |
 | Impressive. Most impressive. | 4.00% | ~117 |
 | Not bad for a little furball | 4.00% | ~117 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,930 (Ranked 233)  
-Completed: 1 (0.03%) (Ranked 357)  
+Progressed: 2,932 (Ranked 233)  
+Completed: 1 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -187,7 +187,7 @@ Completed: 1 (0.03%) (Ranked 357)
 | 2024-01-10 | 2,858 | 1 |
 | 2024-01-11 | 2,884 | 1 |
 | 2024-01-12 | 2,908 | 1 |
-| 2024-01-13 | 2,930 | 1 |
+| 2024-01-13 | 2,932 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -24,8 +24,8 @@
 | Super Moth Boy | 13.00% | ~39 |
 | Welcome to Forte Ailes | 13.00% | ~39 |
 | The Bad Place | 10.00% | ~30 |
+| Pacifist fanatic | 9.00% | ~27 |
 | Meet your maker | 8.00% | ~24 |
-| Pacifist fanatic | 8.00% | ~24 |
 | A grave matter | 7.00% | ~21 |
 | The pelican brief | 7.00% | ~21 |
 | The Good Place | 7.00% | ~21 |
@@ -47,7 +47,7 @@
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 299 (Ranked 404)  
-Completed: 0 (0.00%) (Ranked 399)  
+Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

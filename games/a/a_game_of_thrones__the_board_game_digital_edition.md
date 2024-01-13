@@ -6,14 +6,14 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~13,330 |
-| Battering Crew | 19.00% | ~6,332 |
-| The Kingsroad | 18.00% | ~5,998 |
-| Well Stocked | 13.00% | ~4,332 |
-| Royal Fleet | 12.00% | ~3,999 |
-| The Kraken’s Grasp | 9.00% | ~2,999 |
-| Daggers in the Dark | 8.00% | ~2,666 |
-| Alliance | 8.00% | ~2,666 |
+| Conqueror | 40.00% | ~13,334 |
+| Battering Crew | 19.00% | ~6,334 |
+| The Kingsroad | 18.00% | ~6,000 |
+| Well Stocked | 13.00% | ~4,334 |
+| Royal Fleet | 12.00% | ~4,000 |
+| The Kraken’s Grasp | 9.00% | ~3,000 |
+| Daggers in the Dark | 8.00% | ~2,667 |
+| Alliance | 8.00% | ~2,667 |
 | Winter is Coming | 7.00% | ~2,333 |
 | Oathkeeper | 7.00% | ~2,333 |
 | Influential | 7.00% | ~2,333 |
@@ -21,16 +21,16 @@ Number of Ratings: 2,500  (23.09.2022)
 | Ours is the Fury | 6.00% | ~2,000 |
 | We Do Not Sow | 6.00% | ~2,000 |
 | Defender of the Wall | 6.00% | ~2,000 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~1,666 |
-| Growing Strong | 5.00% | ~1,666 |
-| Hear me Roar! | 5.00% | ~1,666 |
+| Unbowed, Unbent, Unbroken | 5.00% | ~1,667 |
+| Growing Strong | 5.00% | ~1,667 |
+| Hear me Roar! | 5.00% | ~1,667 |
 | What is Dead may Never Die | 3.00% | ~1,000 |
-| King in the North | 2.00% | ~666 |
-| The Swift | 2.00% | ~666 |
+| King in the North | 2.00% | ~667 |
+| The Swift | 2.00% | ~667 |
 | War of the Five Kings | 1.00% | ~333 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,325 (Ranked 140)  
-Completed: 87 (0.26%) (Ranked 267)  
+Progressed: 33,335 (Ranked 140)  
+Completed: 87 (0.26%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -297,7 +297,7 @@ Completed: 87 (0.26%) (Ranked 267)
 | 2024-01-10 | 33,085 | 86 |
 | 2024-01-11 | 33,170 | 86 |
 | 2024-01-12 | 33,251 | 87 |
-| 2024-01-13 | 33,325 | 87 |
+| 2024-01-13 | 33,335 | 87 |
 ## Awards
 Max (Quickly Understood Controls): 129  (Ranked 351)  
 Sum: 812 (Ranked 292)  

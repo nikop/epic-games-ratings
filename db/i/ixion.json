@@ -6,8 +6,8 @@
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 214,
-  "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_Completed": 400,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -353,9 +353,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4177,
+  "EOS_Progressed": 4178,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8518,6 +8518,11 @@
       "Time": "2024-01-13T18:05:22.8161037+00:00",
       "NumProgressed": 4177,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T19:04:26.3858876+00:00",
+      "NumProgressed": 4178,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8617,7 +8622,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "ACH_BASE_22",
@@ -8729,7 +8734,7 @@
       "Name": "Ready for a New World",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "ACH_BASE_35",
@@ -8984,13 +8989,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2361,
+      "Progressed": 2362,
       "Completed": 12
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4177,
+      "Progressed": 4178,
       "Completed": 0
     }
   ],
@@ -8998,8 +9003,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-11T09:57:52.466446+00:00",
-  "LastChanged_Achievements": "2024-01-13T18:05:22.8161033+00:00",
+  "LastChanged_Achievements": "2024-01-13T19:04:26.3858874+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:25.5201636+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:00:42.4919325+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:05:22.8162219+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:59:21.4269778+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:04:26.3859608+00:00"
 }

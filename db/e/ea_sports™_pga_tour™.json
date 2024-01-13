@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 978,
+  "EOS_Progressed": 979,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -3535,6 +3535,11 @@
       "Time": "2024-01-13T17:05:37.7370899+00:00",
       "NumProgressed": 978,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-13T19:05:38.0173707+00:00",
+      "NumProgressed": 979,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -3603,7 +3608,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "achievement_17",
@@ -3611,7 +3616,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "achievement_18",
@@ -3667,7 +3672,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "achievement_8",
@@ -3683,20 +3688,20 @@
       "Name": "Ace in the Hole",
       "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 978,
+      "Progressed": 979,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-13T18:07:03.7354832+00:00",
+  "LastChanged_Achievements": "2024-01-13T19:05:38.0173705+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.2920939+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:00:34.5241939+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:07:03.7355194+00:00"
+  "LastUpdate_Ratings": "2024-01-13T18:59:15.8969767+00:00",
+  "LastUpdate_Achievements": "2024-01-13T19:05:38.017395+00:00"
 }

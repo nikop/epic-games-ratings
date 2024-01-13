@@ -15,10 +15,10 @@ Rating: 4.69 (Ranked 241)
 | Audiophile | 0.40% | ~36 |
 | Clay Pigeon | 0.40% | ~36 |
 | Shredder | 0.40% | ~36 |
+| Iconoclast | 0.30% | ~27 |
 | Fashion Faux-Pas | 0.20% | ~18 |
 | Happy Camper | 0.20% | ~18 |
 | Historian | 0.20% | ~18 |
-| Iconoclast | 0.20% | ~18 |
 | Liberator | 0.20% | ~18 |
 | Arrr! | 0.10% | ~9 |
 | Ça de Wizz! | 0.10% | ~9 |
@@ -28,7 +28,7 @@ Rating: 4.69 (Ranked 241)
 | Thing | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 8,886 (Ranked 187)  
-Completed: 36 (0.41%) (Ranked 240)  
+Completed: 36 (0.41%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

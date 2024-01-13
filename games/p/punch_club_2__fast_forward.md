@@ -21,7 +21,7 @@
 | Hello, world! | 62.00% | ~361 |
 | Fighting is cool | 61.00% | ~355 |
 | Pal of your father? | 59.00% | ~343 |
-| Spirit of the past | 57.00% | ~332 |
+| Spirit of the past | 58.00% | ~338 |
 | Employee of the month | 57.00% | ~332 |
 | Law student | 55.00% | ~320 |
 | Workout professional | 52.00% | ~303 |
@@ -42,7 +42,7 @@
 | Mysterious voice | 38.00% | ~221 |
 | Champion – no way back | 36.00% | ~210 |
 | No blades in the gym | 36.00% | ~210 |
-| Responsible approach | 35.00% | ~204 |
+| Responsible approach | 36.00% | ~210 |
 | Deal with life | 34.00% | ~198 |
 | GYM professional | 34.00% | ~198 |
 | Underground dwellers | 34.00% | ~198 |

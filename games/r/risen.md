@@ -28,12 +28,12 @@ Rating: 4.56 (Ranked 510)
 | The fourth triplet | 16.00% | ~32 |
 | Fence | 16.00% | ~32 |
 | Wise man | 15.00% | ~30 |
+| Hard worker | 15.00% | ~30 |
 | Pandora's box | 14.00% | ~28 |
 | Ghost hunter | 14.00% | ~28 |
-| Hard worker | 14.00% | ~28 |
 | Master detective | 14.00% | ~28 |
+| Defender | 12.00% | ~24 |
 | Peacekeeper | 12.00% | ~24 |
-| Defender | 11.00% | ~22 |
 | Showdown | 11.00% | ~22 |
 | Workaholic | 11.00% | ~22 |
 | Safecracker | 10.00% | ~20 |
@@ -57,7 +57,7 @@ Rating: 4.56 (Ranked 510)
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 200 (Ranked 433)  
-Completed: 0 (0.00%) (Ranked 399)  
+Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
